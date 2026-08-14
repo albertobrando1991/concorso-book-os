@@ -34,13 +34,13 @@ last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-
 
 ## Apertura editoriale
 
-Nel modulo Agenzie fiscali il diritto tributario non è una materia da studiare come un blocco astratto. È il linguaggio di lavoro dell'amministrazione fiscale. Serve a capire perché' nasce un'imposta, chi deve pagarla, su quale base si calcola, quale adempimento viene richiesto, quali controlli può' svolgere l'amministrazione e come si passa dalla regola generale al caso concreto.
+Nel modulo Agenzie fiscali il diritto tributario non è una materia da studiare come un blocco astratto. È il linguaggio di lavoro dell'amministrazione fiscale. Serve a capire perché nasce un'imposta, chi deve pagarla, su quale base si calcola, quale adempimento viene richiesto, quali controlli può svolgere l'amministrazione e come si passa dalla regola generale al caso concreto.
 
-Il candidato che prepara un concorso dell'Agenzia delle Entrate, dell'Agenzia delle Dogane e dei Monopoli o dell'Agenzia delle Entrate-Riscossione non deve diventare un commentatore del TUIR. Deve pero' saper usare le categorie fondamentali senza confonderle. "Tributo", "imposta", "presupposto", "base imponibile", "soggetto passivo", "obbligazione tributaria", "dichiarazione", "accertamento" e "riscossione" non sono parole intercambiabili. Sono passaggi di una sequenza.
+Il candidato che prepara un concorso dell'Agenzia delle Entrate, dell'Agenzia delle Dogane e dei Monopoli o dell'Agenzia delle Entrate-Riscossione non deve diventare un commentatore del TUIR. Deve però saper usare le categorie fondamentali senza confonderle. "Tributo", "imposta", "presupposto", "base imponibile", "soggetto passivo", "obbligazione tributaria", "dichiarazione", "accertamento" e "riscossione" non sono parole intercambiabili. Sono passaggi di una sequenza.
 
 La teoria dell'imposta va studiata come una grammatica. Si parte dal fatto economicamente o giuridicamente rilevante, si individuano il presupposto d'imposta e il soggetto passivo, quindi si determina la base imponibile. Aliquota, imposta dovuta, adempimento, controllo ed eventuale atto dell'amministrazione vengono dopo.
 
-Questa impostazione evita due errori frequenti. Il primo è imparare definizioni isolate che non aiutano a risolvere un quiz. Il secondo è saltare subito alle procedure, alle dichiarazioni o alla riscossione senza aver capito la struttura della pretesa tributaria. Nei concorsi fiscali entrambi gli errori pesano: il quiz punisce la confusione terminologica, l'orale punisce la risposta disordinata, il caso pratico punisce l'incapacita di collegare norma, fatto e funzione dell'ufficio.
+Questa impostazione evita due errori frequenti. Il primo è imparare definizioni isolate che non aiutano a risolvere un quiz. Il secondo è saltare subito alle procedure, alle dichiarazioni o alla riscossione senza aver capito la struttura della pretesa tributaria. Nei concorsi fiscali entrambi gli errori pesano: il quiz punisce la confusione terminologica, l'orale punisce la risposta disordinata, il caso pratico punisce l'incapacità di collegare norma, fatto e funzione dell'ufficio.
 
 ## Obiettivo del capitolo
 
@@ -80,7 +80,7 @@ La regola pratica è questa: ogni definizione deve diventare una frase operativa
 | D - Diario | Quali confusioni ricorrono nei miei errori? | Diario errori: tassa/imposta, base/presupposto, accertamento/riscossione. |
 | O - Output | Che risposta devo saper produrre? | Risposta orale da due minuti, tabella concetti e quiz ragionati. |
 
-Il metodo BANDO aiuta a delimitare lo studio. Il diritto tributario è vasto; il bando seleziona ciò' che può' essere oggetto della prova.
+Il metodo BANDO aiuta a delimitare lo studio. Il diritto tributario è vasto; il bando seleziona ciò che può essere oggetto della prova.
 
 ![Figura 4.1 - Mappa BANDO del diritto tributario: dal programma fiscale alla mappa minima per quiz, orale e casi.](../assets/chapter-04/01-mappa-bando-diritto-tributario.png)
 
@@ -88,9 +88,9 @@ Il metodo BANDO aiuta a delimitare lo studio. Il diritto tributario è vasto; il
 
 La teoria dell'imposta fornisce le categorie necessarie per leggere correttamente gli argomenti successivi.
 
-Quando il bando cita "diritto tributario", la commissione può' verificare nozioni molto diverse. Può' chiedere una distinzione teorica tra imposta e tassa. Può' proporre un quiz sul soggetto passivo. Può' chiedere che cos'è la base imponibile. Può' domandare come si collega la dichiarazione al controllo. Può' chiedere perché' l'Agenzia delle Entrate ha un ruolo centrale nell'accertamento, mentre AdER opera nella fase della riscossione.
+Quando il bando cita "diritto tributario", la commissione può verificare nozioni molto diverse. Può chiedere una distinzione teorica tra imposta e tassa. Può proporre un quiz sul soggetto passivo. Può chiedere che cos'è la base imponibile. Può domandare come si collega la dichiarazione al controllo. Può chiedere perché l'Agenzia delle Entrate ha un ruolo centrale nell'accertamento, mentre AdER opera nella fase della riscossione.
 
-In tutti questi casi la risposta efficace non è quella più' lunga. È quella che ordina i passaggi.
+In tutti questi casi la risposta efficace non è quella più lunga. È quella che ordina i passaggi.
 
 La sequenza base è:
 
@@ -98,27 +98,27 @@ La sequenza base è:
 fatto rilevante -> presupposto -> soggetto passivo -> base imponibile -> aliquota -> imposta dovuta -> adempimento -> controllo -> eventuale accertamento -> riscossione
 ```
 
-Questa sequenza non descrive ogni tributo in modo completo. Serve come mappa mentale. Nei singoli tributi cambiano le regole, le fonti, le dichiarazioni, le detrazioni, i termini, gli atti e le procedure. Ma la logica resta utile: prima si capisce perché' la pretesa può' nascere, poi si segue il suo percorso amministrativo.
+Questa sequenza non descrive ogni tributo in modo completo. Serve come mappa mentale. Nei singoli tributi cambiano le regole, le fonti, le dichiarazioni, le detrazioni, i termini, gli atti e le procedure. Ma la logica resta utile: prima si capisce perché la pretesa può nascere, poi si segue il suo percorso amministrativo.
 
 ![Figura 4.2 - Come nasce e si sviluppa il tributo: sequenza da fatto rilevante ad accertamento e riscossione.](../assets/chapter-04/02-sequenza-nascita-tributo.png)
 
-### Legalita, capacita contributiva e progressivita
+### Legalità, capacità contributiva e progressività
 
 Il diritto tributario opera entro una cornice costituzionale. Il prelievo non nasce da una decisione discrezionale dell'ufficio: richiede una base normativa e deve rispettare i criteri che governano il concorso alle spese pubbliche.
 
 L'art. 23 della Costituzione stabilisce che nessuna prestazione personale o patrimoniale può essere imposta se non in base alla legge. In materia tributaria questa riserva impedisce all'amministrazione di creare autonomamente presupposti, soggetti o prelievi. La fonte primaria deve definire gli elementi essenziali; regolamenti e atti amministrativi operano nello spazio che la legge assegna loro.
 
-L'art. 53 aggiunge due coordinate. Tutti sono tenuti a concorrere alle spese pubbliche in ragione della propria capacità contributiva. Il sistema tributario, considerato nel suo complesso, è informato a criteri di progressivita. Quest'ultima precisazione evita una risposta frequente ma inesatta: la Costituzione non impone che ogni singolo tributo sia progressivo; richiede che la progressivita caratterizzi il sistema.
+L'art. 53 aggiunge due coordinate. Tutti sono tenuti a concorrere alle spese pubbliche in ragione della propria capacità contributiva. Il sistema tributario, considerato nel suo complesso, è informato a criteri di progressività. Quest'ultima precisazione evita una risposta frequente ma inesatta: la Costituzione non impone che ogni singolo tributo sia progressivo; richiede che la progressività caratterizzi il sistema.
 
 Per il candidato, i tre principi hanno una funzione distinta:
 
 - la riserva di legge risponde alla domanda: quale fonte può imporre la prestazione patrimoniale?;
 - la capacità contributiva risponde alla domanda: quale manifestazione economicamente apprezzabile giustifica il concorso alle spese pubbliche?;
-- la progressivita orienta la valutazione dell'assetto complessivo del sistema tributario.
+- la progressività orienta la valutazione dell'assetto complessivo del sistema tributario.
 
 La formula da ricordare è questa:
 
-> Il tributo è una prestazione patrimoniale imposta in base alla legge; il prelievo deve riferirsi a una manifestazione di capacità contributiva e inserirsi in un sistema complessivamente informato a progressivita.
+> Il tributo è una prestazione patrimoniale imposta in base alla legge; il prelievo deve riferirsi a una manifestazione di capacità contributiva e inserirsi in un sistema complessivamente informato a progressività.
 
 Legalità tributaria e legalità amministrativa hanno funzioni diverse e complementari. La prima fonda e delimita il prelievo. La seconda governa l'esercizio concreto dei poteri e impone il rispetto di competenza, procedimento, motivazione, termini e garanzie.
 
@@ -130,7 +130,7 @@ Regolamenti, decreti ministeriali e provvedimenti amministrativi completano la d
 
 Lo Statuto dei diritti del contribuente, contenuto nella L. 212/2000, appartiene alla mappa essenziale del rapporto tra contribuente e amministrazione. Qui raccorda la teoria dell'imposta alle garanzie. Motivazione, contraddittorio, interpello e autotutela richiedono lo studio puntuale delle disposizioni vigenti nei capitoli dedicati.
 
-In prova conviene applicare una sequenza semplice: individua la fonte, verifica il suo rango, collega la regola al tributo o al procedimento, infine distingue norma, atto amministrativo e documento di prassi. Questa sequenza vale più' di un elenco mnemonico.
+In prova conviene applicare una sequenza semplice: individua la fonte, verifica il suo rango, collega la regola al tributo o al procedimento, infine distingue norma, atto amministrativo e documento di prassi. Questa sequenza vale più di un elenco mnemonico.
 
 ### Tributo, imposta, tassa e contributo
 
@@ -138,9 +138,9 @@ In prova conviene applicare una sequenza semplice: individua la fonte, verifica 
 
 L'imposta è il tributo per eccellenza nei concorsi fiscali. Si collega a un presupposto che manifesta capacità contributiva e non richiede, come elemento essenziale, una controprestazione individuale diretta. Chi paga un'imposta non paga il prezzo di un servizio specifico ricevuto in quel momento. Partecipa al finanziamento generale delle funzioni pubbliche secondo la disciplina stabilità.
 
-La tassa è collegata allo svolgimento di un servizio pubblico o di un'attività amministrativa riferibile al soggetto. Non va pero' confusa con il prezzo di mercato. Anche la tassa resta dentro il diritto pubblico e segue regole proprie.
+La tassa è collegata allo svolgimento di un servizio pubblico o di un'attività amministrativa riferibile al soggetto. Non va però confusa con il prezzo di mercato. Anche la tassa resta dentro il diritto pubblico e segue regole proprie.
 
-Il contributo è una categoria da usare con cautela: indica prelievi collegati a una situazione, a un vantaggio, a una categoria di soggetti o a una funzione specifica. Nei quiz la parola può' comparire per verificare se il candidato distingue la logica generale dell'imposta da prelievi con un collegamento più' particolare.
+Il contributo è una categoria da usare con cautela: indica prelievi collegati a una situazione, a un vantaggio, a una categoria di soggetti o a una funzione specifica. Nei quiz la parola può comparire per verificare se il candidato distingue la logica generale dell'imposta da prelievi con un collegamento più particolare.
 
 La tabella seguente serve per fissare la differenza.
 
@@ -165,7 +165,7 @@ Le imposte dirette colpiscono manifestazioni immediate di ricchezza, come il red
 
 Le imposte personali considerano la situazione complessiva del soggetto secondo la disciplina applicabile. Le imposte reali guardano maggiormente al bene, all'operazione o al fatto imponibile, con minore attenzione alla condizione personale del contribuente.
 
-Le imposte proporzionali applicano un'aliquota costante alla base imponibile. Le imposte progressive crescono in modo più' che proporzionale rispetto alla base, secondo il meccanismo previsto dalla legge.
+Le imposte proporzionali applicano un'aliquota costante alla base imponibile. Le imposte progressive crescono in modo più che proporzionale rispetto alla base, secondo il meccanismo previsto dalla legge.
 
 Per il concorso, il punto non è recitare tutte le classificazioni. Il punto è saperle usare in una risposta:
 
@@ -216,13 +216,13 @@ Un secondo nodo è la qualificazione. L'amministrazione deve guardare agli effet
 
 Il presupposto è il fatto, l'atto o la situazione al cui verificarsi la legge collega la nascita del tributo. È la porta di ingresso della pretesa tributaria.
 
-Se non individui il presupposto, non sai ancora perché' il tributo può' essere richiesto. Puoi conoscere il nome dell'imposta, ma non stai ragionando giuridicamente.
+Se non individui il presupposto, non sai ancora perché il tributo può essere richiesto. Puoi conoscere il nome dell'imposta, ma non stai ragionando giuridicamente.
 
 In una risposta concorsuale puoi dire:
 
 > Il presupposto d'imposta è la situazione prevista dalla legge che manifesta il collegamento tra il soggetto e il tributo. Al suo verificarsi si apre la possibilità di determinare l'obbligazione tributaria secondo le regole applicabili.
 
-Attenzione alla differenza tra presupposto e base imponibile. Il presupposto risponde alla domanda: "Perché' questo tributo può' nascere?". La base imponibile risponde alla domanda: "Su quale valore o grandezza lo calcolo?". Se confondi le due domande, sbagli sia il quiz sia il caso.
+Attenzione alla differenza tra presupposto e base imponibile. Il presupposto risponde alla domanda: "Perché questo tributo può nascere?". La base imponibile risponde alla domanda: "Su quale valore o grandezza lo calcolo?". Se confondi le due domande, sbagli sia il quiz sia il caso.
 
 Esempio di ragionamento, senza entrare in norme puntuali: nel sistema delle imposte sui redditi il presupposto ruota intorno alla produzione o al possesso di reddito secondo le categorie e le regole del TUIR; nell'IVA il ragionamento si sposta sulle operazioni rilevanti, sui soggetti e sul meccanismo di applicazione dell'imposta.
 
@@ -232,12 +232,12 @@ Il soggetto passivo è il soggetto al quale la legge collega l'obbligo tributari
 
 Nel linguaggio concorsuale devi distinguere almeno quattro posizioni:
 
-- il soggetto attivo, cioe' l'ente titolare della pretesa tributaria secondo l'ordinamento;
-- il soggetto passivo, cioe' il contribuente o il soggetto obbligato al tributo;
+- il soggetto attivo, cioè l'ente titolare della pretesa tributaria secondo l'ordinamento;
+- il soggetto passivo, cioè il contribuente o il soggetto obbligato al tributo;
 - il sostituto d'imposta, che adempie obblighi fiscali al posto o per conto di altri nei casi previsti;
-- il responsabile d'imposta, che può' essere chiamato a rispondere del tributo in base a una specifica previsione.
+- il responsabile d'imposta, che può essere chiamato a rispondere del tributo in base a una specifica previsione.
 
-Questa distinzione non va approfondita qui in modo specialistico. Va pero' capita. Nei concorsi delle Agenzie fiscali il rapporto tributario coinvolge persone fisiche, società, enti, sostituti, professionisti, intermediari, uffici e amministrazioni. Se dici genericamente "chi paga", perdi precisione.
+Questa distinzione non va approfondita qui in modo specialistico. Va però capita. Nei concorsi delle Agenzie fiscali il rapporto tributario coinvolge persone fisiche, società, enti, sostituti, professionisti, intermediari, uffici e amministrazioni. Se dici genericamente "chi paga", perdi precisione.
 
 Una risposta efficace è:
 
@@ -245,11 +245,11 @@ Una risposta efficace è:
 
 ### Base imponibile, aliquota e imposta dovuta
 
-La base imponibile è la grandezza sulla quale si applica il tributo. Può' essere un reddito, un valore, un corrispettivo, una quantità o un'altra misura prevista dalla disciplina del singolo tributo.
+La base imponibile è la grandezza sulla quale si applica il tributo. Può essere un reddito, un valore, un corrispettivo, una quantità o un'altra misura prevista dalla disciplina del singolo tributo.
 
 L'aliquota è il criterio percentuale o la misura che consente di calcolare l'imposta sulla base imponibile, salvo i casi in cui la legge preveda meccanismi diversi.
 
-L'imposta dovuta è il risultato del calcolo svolto secondo le regole applicabili: base imponibile, aliquota, eventuali deduzioni, detrazioni, crediti, acconti, versamenti, compensazioni e rettifiche. Questa prima mappa non richiede ancora lo studio dettagliato di ogni elemento, ma chiarisce perché' il calcolo non si riduce a una moltiplicazione quando la disciplina prevede correttivi.
+L'imposta dovuta è il risultato del calcolo svolto secondo le regole applicabili: base imponibile, aliquota, eventuali deduzioni, detrazioni, crediti, acconti, versamenti, compensazioni e rettifiche. Questa prima mappa non richiede ancora lo studio dettagliato di ogni elemento, ma chiarisce perché il calcolo non si riduce a una moltiplicazione quando la disciplina prevede correttivi.
 
 La sequenza minima è:
 
@@ -277,7 +277,7 @@ Questa frase collega il capitolo 4 ai capitoli successivi.
 
 ### Rapporto tributario e procedimento amministrativo
 
-Il rapporto tributario non è solo "pagare un'imposta". È un rapporto tra contribuente e amministrazione che può' assumere forme diverse: adempimento spontaneo, dichiarazione, liquidazione, controllo automatizzato, richiesta di documenti, contraddittorio quando previsto, avviso, pagamento, rimborso, iscrizione a ruolo, riscossione.
+Il rapporto tributario non è solo "pagare un'imposta". È un rapporto tra contribuente e amministrazione che può assumere forme diverse: adempimento spontaneo, dichiarazione, liquidazione, controllo automatizzato, richiesta di documenti, contraddittorio quando previsto, avviso, pagamento, rimborso, iscrizione a ruolo, riscossione.
 
 Per questo il diritto tributario va letto insieme al procedimento amministrativo. L'amministrazione finanziaria agisce con poteri pubblici, ma deve rispettare regole, competenze, forme, motivazione, termini e garanzie. Il candidato non deve fondere diritto amministrativo e diritto tributario, ma deve sapere che nella pratica si incontrano.
 
@@ -299,9 +299,9 @@ La prima funzione del TUIR è classificare. Le imposte sui redditi richiedono di
 soggetto -> reddito -> categoria -> periodo -> base imponibile -> imposta -> dichiarazione/versamento -> controllo
 ```
 
-La seconda funzione è dare lessico. Termini come reddito, periodo d'imposta, categoria, deduzione, detrazione, sostituto, dichiarazione e acconto devono diventare parole familiari, anche quando il capitolo specialistico sugli adempimenti arrivera' dopo.
+La seconda funzione è dare lessico. Termini come reddito, periodo d'imposta, categoria, deduzione, detrazione, sostituto, dichiarazione e acconto devono diventare parole familiari, anche quando il capitolo specialistico sugli adempimenti arriverà dopo.
 
-La terza funzione è selezionare. Non tutti i dettagli del TUIR hanno la stessa resa concorsuale. Nei profili Agenzia delle Entrate hanno peso maggiore le categorie che consentono di ragionare su contribuente, dichiarazione, controllo e accertamento. Nei profili non strettamente tributari, il livello richiesto può' essere più' generale. Il bando decide la profondità.
+La terza funzione è selezionare. Non tutti i dettagli del TUIR hanno la stessa resa concorsuale. Nei profili Agenzia delle Entrate hanno peso maggiore le categorie che consentono di ragionare su contribuente, dichiarazione, controllo e accertamento. Nei profili non strettamente tributari, il livello richiesto può essere più generale. Il bando decide la profondità.
 
 Per non perdersi, usa tre domande:
 
@@ -358,7 +358,7 @@ L'art. 6 ordina i redditi in sei categorie:
 5. redditi d'impresa;
 6. redditi diversi.
 
-La categoria non è un'etichetta descrittiva. Serve a selezionare le regole di determinazione, imputazione temporale, trattamento delle perdite e concorso al reddito complessivo. Per questo si qualifica prima e si calcola dopo. I redditi diversi, in particolare, non sono un contenitore libero per tutto ciò' che non si riconosce: raccolgono fattispecie residuali tipizzate dalla legge.
+La categoria non è un'etichetta descrittiva. Serve a selezionare le regole di determinazione, imputazione temporale, trattamento delle perdite e concorso al reddito complessivo. Per questo si qualifica prima e si calcola dopo. I redditi diversi, in particolare, non sono un contenitore libero per tutto ciò che non si riconosce: raccolgono fattispecie residuali tipizzate dalla legge.
 
 Questo capitolo non sviluppa la determinazione analitica delle singole categorie. Fissa invece il metodo necessario per affrontarle:
 
@@ -366,7 +366,7 @@ Questo capitolo non sviluppa la determinazione analitica delle singole categorie
 fonte e causa del provento -> categoria -> criterio di determinazione e imputazione
 ```
 
-La **fonte o il provento** è il fatto economico da qualificare: un immobile, un investimento, un rapporto di lavoro, un'attività professionale o imprenditoriale. La **categoria** è la qualificazione tributaria risultante dai presupposti normativi. Il **criterio di determinazione** stabilisce come e quando la grandezza concorre al reddito. I tre piani non coincidono: un provento immobiliare, per esempio, non è automaticamente reddito fondiario; può' assumere altra qualificazione se mancano i requisiti della categoria o se il bene è attratto nell'attività d'impresa.
+La **fonte o il provento** è il fatto economico da qualificare: un immobile, un investimento, un rapporto di lavoro, un'attività professionale o imprenditoriale. La **categoria** è la qualificazione tributaria risultante dai presupposti normativi. Il **criterio di determinazione** stabilisce come e quando la grandezza concorre al reddito. I tre piani non coincidono: un provento immobiliare, per esempio, non è automaticamente reddito fondiario; può assumere altra qualificazione se mancano i requisiti della categoria o se il bene è attratto nell'attività d'impresa.
 
 Per la sequenza dichiarativa e il passaggio da imponibile a dichiarazione, liquidazione e versamento, la destinazione responsabile è il [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Il ciclo dell'adempimento fiscale|capitolo 6, Il ciclo dell'adempimento fiscale]].
 
@@ -374,7 +374,7 @@ Per la sequenza dichiarativa e il passaggio da imponibile a dichiarazione, liqui
 
 Nel caso paradigmatico della società commerciale residente, il reddito complessivo è reddito d'impresa. La sua determinazione muove dal risultato del conto economico e applica le variazioni in aumento o in diminuzione previste dalla disciplina fiscale. Il risultato civilistico e il reddito fiscale hanno dunque una relazione, ma non sono identici.
 
-Il bilancio espone il risultato secondo le regole civilistiche e contabili. Il TUIR qualifica fiscalmente i componenti e può' modificarne rilevanza, misura o periodo di imputazione. Un costo correttamente contabilizzato può' essere indeducibile, deducibile solo in parte o in un periodo diverso. In tal caso il bilancio non viene riscritto: si applica il raccordo fiscale previsto.
+Il bilancio espone il risultato secondo le regole civilistiche e contabili. Il TUIR qualifica fiscalmente i componenti e può modificarne rilevanza, misura o periodo di imputazione. Un costo correttamente contabilizzato può essere indeducibile, deducibile solo in parte o in un periodo diverso. In tal caso il bilancio non viene riscritto: si applica il raccordo fiscale previsto.
 
 La sequenza introduttiva è:
 
@@ -383,13 +383,13 @@ risultato civilistico -> qualificazione fiscale dei componenti
 -> variazioni in aumento o in diminuzione -> reddito imponibile
 ```
 
-Questo capitolo spiega perché' il raccordo esiste. La meccanica contabile e gli esercizi sulle variazioni competono al [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#14. Dal bilancio al reddito imponibile|capitolo 11, Dal bilancio al reddito imponibile]].
+Questo capitolo spiega perché il raccordo esiste. La meccanica contabile e gli esercizi sulle variazioni competono al [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#14. Dal bilancio al reddito imponibile|capitolo 11, Dal bilancio al reddito imponibile]].
 
 ### Verifica risolta
 
 **Caso.** Una persona fisica riceve nello stesso periodo un compenso da lavoro dipendente, il provento di un investimento e una somma per una prestazione occasionale. Da quale importo deve partire per calcolare subito l'IRPEF?
 
-**Soluzione.** Non si parte dalla somma aritmetica degli incassi ne' dall'aliquota. Si identificano fonte e causa di ciascun provento, si verifica la categoria applicabile, si determina ogni reddito con le regole proprie e solo dopo si forma il reddito complessivo nei limiti previsti. Seguono oneri deducibili, imponibile, imposta lorda, detrazioni e altri scomputi. La prestazione occasionale non diventa lavoro autonomo abituale per il solo fatto di essere remunerata e neppure confluisce automaticamente nei redditi diversi senza verificare la fattispecie normativa.
+**Soluzione.** Non si parte dalla somma aritmetica degli incassi né dall'aliquota. Si identificano fonte e causa di ciascun provento, si verifica la categoria applicabile, si determina ogni reddito con le regole proprie e solo dopo si forma il reddito complessivo nei limiti previsti. Seguono oneri deducibili, imponibile, imposta lorda, detrazioni e altri scomputi. La prestazione occasionale non diventa lavoro autonomo abituale per il solo fatto di essere remunerata e neppure confluisce automaticamente nei redditi diversi senza verificare la fattispecie normativa.
 
 ### Errore tipico
 
@@ -403,39 +403,39 @@ L'IVA è un'imposta armonizzata sui consumi: la direttiva 2006/112/CE costruisce
 
 **Errore-trappola:** trattare la direttiva come un regolamento direttamente applicabile in modo identico, oppure ignorare primato e interpretazione conforme. **Verifica:** indica tipo e funzione della fonte UE, individua la disposizione nazionale pertinente e controlla che la lettura interna sia compatibile con il quadro unionale, senza attribuire automaticamente alla direttiva gli effetti propri di un regolamento.
 
-### Neutralita' come meccanismo, non come risultato assoluto
+### Neutralità come meccanismo, non come risultato assoluto
 
-Per l'operatore economico la neutralita' deriva dalla combinazione tra **rivalsa** e **detrazione**. Con la rivalsa il cedente o prestatore addebita l'imposta al cliente; con la detrazione recupera, alle condizioni previste, l'imposta dovuta o assolta sugli acquisti destinati a operazioni che attribuiscono tale diritto. La liquidazione confronta poi imposta a debito e imposta detraibile.
+Per l'operatore economico la neutralità deriva dalla combinazione tra **rivalsa** e **detrazione**. Con la rivalsa il cedente o prestatore addebita l'imposta al cliente; con la detrazione recupera, alle condizioni previste, l'imposta dovuta o assolta sugli acquisti destinati a operazioni che attribuiscono tale diritto. La liquidazione confronta poi imposta a debito e imposta detraibile.
 
 ```text
 rivalsa sulle operazioni attive -> detrazione sugli acquisti ammessi -> liquidazione del saldo
 ```
 
-La neutralita' non è incondizionata: esenzioni, indetraibilita', percentuale di detrazione, requisiti documentali e rettifiche possono lasciare l'onere, in tutto o in parte, sull'operatore. La detrazione non è ne' un rimborso automatico ne' una compensazione liberamente utilizzabile.
+La neutralità non è incondizionata: esenzioni, indetraibilità, percentuale di detrazione, requisiti documentali e rettifiche possono lasciare l'onere, in tutto o in parte, sull'operatore. La detrazione non è né un rimborso automatico né una compensazione liberamente utilizzabile.
 
-**Mini-esempio.** Un professionista acquista un bene per l'attività' e presta un servizio imponibile. L'imposta sull'acquisto può' entrare nel confronto con quella addebitata al cliente soltanto se ricorrono inerenza, destinazione, documento, registrazione e gli altri requisiti applicabili.
+**Mini-esempio.** Un professionista acquista un bene per l'attività e presta un servizio imponibile. L'imposta sull'acquisto può entrare nel confronto con quella addebitata al cliente soltanto se ricorrono inerenza, destinazione, documento, registrazione e gli altri requisiti applicabili.
 
-**Errore tipico:** affermare che l'IVA è sempre neutrale per chiunque eserciti un'attività'. **Verifica:** indica almeno una condizione della detrazione e un limite capace di interrompere o ridurre la neutralita'.
+**Errore tipico:** affermare che l'IVA è sempre neutrale per chiunque eserciti un'attività. **Verifica:** indica almeno una condizione della detrazione e un limite capace di interrompere o ridurre la neutralità.
 
 ### I tre presupposti: oggettivo, soggettivo e territoriale
 
 Una normale operazione interna entra nel campo IVA quando si coordinano tre profili:
 
-- il **presupposto oggettivo**, cioe' una cessione di beni o prestazione di servizi riconducibile alle fattispecie legali;
-- il **presupposto soggettivo**, cioe' l'esercizio abituale di impresa, arte o professione da parte del soggetto che effettua l'operazione;
-- il **presupposto territoriale**, cioe' la localizzazione dell'operazione nel territorio dello Stato secondo le regole proprie della fattispecie.
+- il **presupposto oggettivo**, cioè una cessione di beni o prestazione di servizi riconducibile alle fattispecie legali;
+- il **presupposto soggettivo**, cioè l'esercizio abituale di impresa, arte o professione da parte del soggetto che effettua l'operazione;
+- il **presupposto territoriale**, cioè la localizzazione dell'operazione nel territorio dello Stato secondo le regole proprie della fattispecie.
 
-L'art. 1 del D.P.R. 633/1972 assoggetta le importazioni da chiunque effettuate; occorre percio' distinguerle dalla sequenza ordinaria delle operazioni interne. Il momento di effettuazione e l'esigibilità' costituiscono passaggi ulteriori e non coincidono con la verifica dei tre presupposti.
+L'art. 1 del D.P.R. 633/1972 assoggetta le importazioni da chiunque effettuate; occorre perciò distinguerle dalla sequenza ordinaria delle operazioni interne. Il momento di effettuazione e l'esigibilità costituiscono passaggi ulteriori e non coincidono con la verifica dei tre presupposti.
 
-**Mini-esempio.** Una prestazione resa nell'esercizio abituale di una professione soddisfa il profilo soggettivo, ma non basta per concludere: occorre ancora qualificare la prestazione e applicare la regola di territorialità' pertinente.
+**Mini-esempio.** Una prestazione resa nell'esercizio abituale di una professione soddisfa il profilo soggettivo, ma non basta per concludere: occorre ancora qualificare la prestazione e applicare la regola di territorialità pertinente.
 
-**Errore tipico:** ritenere territoriale ogni operazione solo perché' una parte è italiana. **Verifica:** davanti a un caso, formula tre domande separate: che operazione è, chi la compie e dove si considera effettuata?
+**Errore tipico:** ritenere territoriale ogni operazione solo perché una parte è italiana. **Verifica:** davanti a un caso, formula tre domande separate: che operazione è, chi la compie e dove si considera effettuata?
 
 ### Soggetto passivo, debitore e consumatore finale
 
-Il **soggetto passivo** esercita in modo indipendente un'attività' economica rilevante e partecipa al meccanismo IVA. Il **debitore d'imposta** è invece il soggetto sul quale, nella specifica operazione, ricadono gli obblighi verso l'Erario: normalmente coincide con chi effettua l'operazione, ma la legge può' porre gli obblighi sul cessionario o committente. Il **consumatore finale** sopporta economicamente l'imposta senza inserirla, di regola, in una successiva catena di detrazione.
+Il **soggetto passivo** esercita in modo indipendente un'attività economica rilevante e partecipa al meccanismo IVA. Il **debitore d'imposta** è invece il soggetto sul quale, nella specifica operazione, ricadono gli obblighi verso l'Erario: normalmente coincide con chi effettua l'operazione, ma la legge può porre gli obblighi sul cessionario o committente. Il **consumatore finale** sopporta economicamente l'imposta senza inserirla, di regola, in una successiva catena di detrazione.
 
-**Mini-esempio.** Nella vendita al consumatore, l'impresa è soggetto passivo e normalmente debitore; il cliente finale paga il prezzo comprensivo dell'imposta e ne resta inciso economicamente. Una specifica inversione degli obblighi può' mutare il debitore, non trasformare automaticamente il cliente in consumatore finale.
+**Mini-esempio.** Nella vendita al consumatore, l'impresa è soggetto passivo e normalmente debitore; il cliente finale paga il prezzo comprensivo dell'imposta e ne resta inciso economicamente. Una specifica inversione degli obblighi può mutare il debitore, non trasformare automaticamente il cliente in consumatore finale.
 
 **Errore tipico:** usare come sinonimi soggetto passivo, debitore e soggetto inciso. **Verifica:** per ciascuna figura indica rispettivamente posizione nel sistema, obbligo verso l'Erario e incidenza economica.
 
@@ -445,12 +445,12 @@ Il **soggetto passivo** esercita in modo indipendente un'attività' economica ri
 |---|---|---|
 | **Imponibile** | Ricorrono i presupposti e si applica il regime ordinario. | L'imposta è addebitata secondo le regole applicabili e l'operazione alimenta il meccanismo di detrazione-liquidazione. |
 | **Non imponibile** | L'operazione resta rilevante nel sistema, ma la legge non applica l'imposta, tipicamente nella logica della tassazione a destinazione. | In linea generale conserva il diritto a detrazione, da verificare sulla fattispecie. |
-| **Esente** | L'operazione è nel campo IVA ma beneficia di un'esenzione tipizzata. | Non comporta addebito dell'imposta e può' limitare la detrazione sugli acquisti. |
+| **Esente** | L'operazione è nel campo IVA ma beneficia di un'esenzione tipizzata. | Non comporta addebito dell'imposta e può limitare la detrazione sugli acquisti. |
 | **Esclusa o fuori campo** | Manca un presupposto o una norma sottrae la fattispecie al campo applicativo. | Non segue il regime delle operazioni imponibili; gli effetti documentali e sulla detrazione dipendono dalla ragione dell'esclusione. |
 
-**Mini-esempio comparativo.** Una vendita interna imponibile, un'esportazione non imponibile, una prestazione sanitaria che ricade nell'esenzione tipica e una prestazione priva di territorialità' italiana appartengono a classi diverse. L'esempio serve a classificare, non a sostituire la verifica dei requisiti del caso.
+**Mini-esempio comparativo.** Una vendita interna imponibile, un'esportazione non imponibile, una prestazione sanitaria che ricade nell'esenzione tipica e una prestazione priva di territorialità italiana appartengono a classi diverse. L'esempio serve a classificare, non a sostituire la verifica dei requisiti del caso.
 
-**Errore tipico:** trattare non imponibilita', esenzione ed esclusione come tre modi equivalenti di dire "IVA non addebitata". **Verifica:** spiega quale delle tre categorie resta normalmente collegata al diritto a detrazione e quale presuppone che l'operazione sia fuori dal campo applicativo. Le somme escluse dal computo della base imponibile ai sensi dell'art. 15 non formano, per ciò' solo, una quinta classe di operazioni.
+**Errore tipico:** trattare non imponibilità, esenzione ed esclusione come tre modi equivalenti di dire "IVA non addebitata". **Verifica:** spiega quale delle tre categorie resta normalmente collegata al diritto a detrazione e quale presuppone che l'operazione sia fuori dal campo applicativo. Le somme escluse dal computo della base imponibile ai sensi dell'art. 15 non formano, per ciò solo, una quinta classe di operazioni.
 
 ### Dalla teoria agli adempimenti: rinvio responsabile
 
@@ -463,13 +463,13 @@ La mappa teorica termina qui con la catena **fatturazione -> registrazione -> li
 
 ### Attribuzione e principi di esercizio
 
-L'Unione europea agisce soltanto nei limiti delle competenze che gli Stati membri le hanno attribuito. Il principio di attribuzione risponde quindi alla prima domanda: l'Unione può' intervenire in questa materia e con quale fondamento? Nelle competenze non esclusive opera anche la sussidiarieta: l'intervento unionale deve risultare giustificato rispetto a obiettivi che gli Stati non possono conseguire in misura sufficiente. La proporzionalità impone inoltre che contenuto e forma dell'azione non eccedano quanto necessario per raggiungere gli obiettivi dei Trattati.
+L'Unione europea agisce soltanto nei limiti delle competenze che gli Stati membri le hanno attribuito. Il principio di attribuzione risponde quindi alla prima domanda: l'Unione può intervenire in questa materia e con quale fondamento? Nelle competenze non esclusive opera anche la sussidiarietà: l'intervento unionale deve risultare giustificato rispetto a obiettivi che gli Stati non possono conseguire in misura sufficiente. La proporzionalità impone inoltre che contenuto e forma dell'azione non eccedano quanto necessario per raggiungere gli obiettivi dei Trattati.
 
-La cooperazione leale completa il quadro: Unione e Stati membri devono assistersi reciprocamente nell'adempimento dei compiti derivanti dai Trattati. Per il candidato questi principi non sono formule isolate. Servono a spiegare perché' una materia possa essere disciplinata in modo uniforme, armonizzata oppure lasciata, entro determinati limiti, alla normativa nazionale.
+La cooperazione leale completa il quadro: Unione e Stati membri devono assistersi reciprocamente nell'adempimento dei compiti derivanti dai Trattati. Per il candidato questi principi non sono formule isolate. Servono a spiegare perché una materia possa essere disciplinata in modo uniforme, armonizzata oppure lasciata, entro determinati limiti, alla normativa nazionale.
 
 ### Competenze: unione doganale, mercato interno e imposte indirette
 
-L'unione doganale appartiene alle competenze esclusive dell'Unione. Il mercato interno rientra invece nelle competenze concorrenti. Questa differenza chiarisce perché' il settore doganale presenti una disciplina unionale direttamente regolata, mentre in campo tributario non esista una competenza generale dell'Unione su ogni imposta nazionale.
+L'unione doganale appartiene alle competenze esclusive dell'Unione. Il mercato interno rientra invece nelle competenze concorrenti. Questa differenza chiarisce perché il settore doganale presenti una disciplina unionale direttamente regolata, mentre in campo tributario non esista una competenza generale dell'Unione su ogni imposta nazionale.
 
 L'art. 113 TFUE consente l'armonizzazione delle legislazioni relative alle imposte sulla cifra d'affari, alle accise e alle altre imposte indirette nella misura necessaria ad assicurare il funzionamento del mercato interno ed evitare distorsioni della concorrenza. Non autorizza, dunque, la conclusione generica secondo cui l'Unione potrebbe istituire o disciplinare indistintamente ogni tributo interno.
 
@@ -477,17 +477,17 @@ L'art. 113 TFUE consente l'armonizzazione delle legislazioni relative alle impos
 
 | Fonte | Effetto ordinario | Passaggio nazionale | Errore da evitare |
 | --- | --- | --- | --- |
-| Regolamento | Ha portata generale, è obbligatorio in tutti i suoi elementi ed è direttamente applicabile. | Non richiede recepimento; il diritto nazionale può' completarlo soltanto negli spazi consentiti. | Confondere il complemento nazionale con una trasposizione del regolamento. |
+| Regolamento | Ha portata generale, è obbligatorio in tutti i suoi elementi ed è direttamente applicabile. | Non richiede recepimento; il diritto nazionale può completarlo soltanto negli spazi consentiti. | Confondere il complemento nazionale con una trasposizione del regolamento. |
 | Direttiva | Vincola lo Stato destinatario quanto al risultato da raggiungere. | Richiede attuazione attraverso forme e mezzi nazionali. | Trattarla come se sostituisse automaticamente la legge nazionale. |
 
-La diretta applicabilita del regolamento, l'attuazione della direttiva e l'eventuale efficacia diretta di una sua disposizione sono concetti diversi. Per valutare quest'ultima occorre una verifica puntuale.
+La diretta applicabilità del regolamento, l'attuazione della direttiva e l'eventuale efficacia diretta di una sua disposizione sono concetti diversi. Per valutare quest'ultima occorre una verifica puntuale.
 
 | Condizione o limite | Domanda di controllo |
 | --- | --- |
 | Chiarezza, precisione e incondizionatezza | La disposizione esprime un obbligo sufficientemente determinato e non subordinato a ulteriori scelte discrezionali? |
 | Termine di attuazione | Il termine assegnato allo Stato è scaduto e la direttiva non è stata attuata, oppure è stata attuata in modo inadeguato rispetto alla disposizione considerata? |
 | Dimensione verticale | La disposizione è invocata nei confronti dello Stato o di un soggetto riconducibile allo Stato secondo i criteri del diritto UE? |
-| Limite orizzontale | La direttiva, da sola, non può' imporre obblighi a un altro soggetto privato in una controversia tra privati. |
+| Limite orizzontale | La direttiva, da sola, non può imporre obblighi a un altro soggetto privato in una controversia tra privati. |
 
 Queste condizioni non autorizzano automatismi. Occorre identificare la disposizione, il destinatario della pretesa e il rapporto concreto, considerando anche primato e interpretazione conforme. La pubblicazione o l'applicazione a una fattispecie reale richiede una review giuridica specifica.
 
@@ -501,7 +501,7 @@ Il metodo corretto è tripartito: individua l'istituto armonizzato, ricerca la d
 
 Il Regolamento (UE) n. 952/2013 istituisce il Codice doganale dell'Unione e fissa il quadro generale su merci, soggetti, decisioni, dichiarazioni, controlli, classificazione, origine, valore, obbligazione doganale e regimi. Il Regolamento delegato (UE) 2015/2446 integra il CDU nei limiti della delega; il Regolamento di esecuzione (UE) 2015/2447 stabilisce condizioni uniformi di applicazione. I tre atti formano un sistema, ma svolgono funzioni differenti.
 
-Il diritto nazionale, compreso il D.Lgs. 141/2024, disciplina i profili rimessi allo Stato e completa il quadro negli spazi consentiti: non sostituisce il CDU e non può' contraddirlo. Per la sequenza operativa delle procedure doganali rinvia a [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#1. Le fonti: prima l'Unione, poi il complemento nazionale]].
+Il diritto nazionale, compreso il D.Lgs. 141/2024, disciplina i profili rimessi allo Stato e completa il quadro negli spazi consentiti: non sostituisce il CDU e non può contraddirlo. Per la sequenza operativa delle procedure doganali rinvia a [[books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#1. Le fonti: prima l'Unione, poi il complemento nazionale]].
 
 ### Metodo del caso: importazione e vendita interna
 
@@ -523,24 +523,24 @@ Una società importa una merce da un Paese terzo e poi la vende in Italia. Il ca
 
 ### Verifica risolta
 
-**Domanda.** Poiche' la direttiva 2006/112/CE armonizza l'IVA, il contribuente può' ignorare il D.P.R. 633/1972 e applicare la direttiva come un regolamento?
+**Domanda.** Poiché la direttiva 2006/112/CE armonizza l'IVA, il contribuente può ignorare il D.P.R. 633/1972 e applicare la direttiva come un regolamento?
 
 **Risposta.** No, non in via generale. La direttiva vincola quanto al risultato e richiede attuazione nazionale; il D.P.R. 633/1972 resta il riferimento interno immediato, da leggere nel quadro del diritto UE. L'eventuale efficacia diretta di una specifica disposizione è un problema distinto: non deriva automaticamente dall'armonizzazione e richiede la verifica puntuale della norma, delle condizioni applicabili e del rapporto controverso.
 
 ### Errori da evitare
 
 - affermare che l'Unione dispone di una competenza fiscale generale;
-- applicare la sussidiarieta alla competenza esclusiva doganale come se operasse nello stesso modo delle competenze non esclusive;
-- usare come sinonimi diretta applicabilita, attuazione ed efficacia diretta;
+- applicare la sussidiarietà alla competenza esclusiva doganale come se operasse nello stesso modo delle competenze non esclusive;
+- usare come sinonimi diretta applicabilità, attuazione ed efficacia diretta;
 - studiare il D.P.R. 633/1972 senza la cornice armonizzata o, all'opposto, ignorare la disciplina nazionale;
 - trattare CDU, regolamento delegato e regolamento di esecuzione come fonti intercambiabili;
 - confondere importazione doganale e vendita interna IVA oppure assumere che valore in dogana e base imponibile IVA coincidano sempre.
 
-Il quadro e il metodo derivano da. Aliquote, soglie, termini, deroghe e regimi speciali richiedono invece una verifica puntuale sulla disciplina vigente.
+Il quadro e il metodo derivano dalle fonti unionali e nazionali citate. Aliquote, soglie, termini, deroghe e regimi speciali richiedono invece una verifica puntuale sulla disciplina vigente.
 
 ## N-FC02-04-06 · Accertamento e riscossione
 
-Il capitolo 5 sviluppera' accertamento, controlli e compliance. Il capitolo 7 sviluppera' la riscossione. Qui devi fissare la distinzione base.
+Il capitolo 5 svilupperà accertamento, controlli e compliance. Il capitolo 7 svilupperà la riscossione. Qui devi fissare la distinzione base.
 
 L'accertamento riguarda la verifica della corretta applicazione della disciplina tributaria e, nei casi previsti, la determinazione o rettifica della pretesa. Il suo lessico è: controllo, dichiarazione, potere istruttorio, documenti, elementi, avviso, motivazione, pretesa.
 
@@ -560,7 +560,7 @@ La domanda-trappola è semplice: "La cartella di pagamento è accertamento?". La
 | Imposta | Tributo collegato a capacità contributiva senza controprestazione individuale diretta. | Base per redditi, IVA e fiscalità generale. | Cercare sempre un servizio specifico in cambio. |
 | Tassa | Prelievo collegato a un servizio pubblico o a un'attività amministrativa riferibile al soggetto. | Confronti teorici e quiz definitori. | Assimilarla a un prezzo privato. |
 | Contributo | Prelievo collegato a una posizione, un vantaggio o una funzione specifica. | Completa la classificazione dei tributi. | Usarlo per qualunque somma dovuta. |
-| Presupposto | Fatto o situazione cui la legge collega il tributo. | Spiega perché' la pretesa può' nascere. | Confonderlo con la base imponibile. |
+| Presupposto | Fatto o situazione cui la legge collega il tributo. | Spiega perché la pretesa può nascere. | Confonderlo con la base imponibile. |
 | Soggetto passivo | Soggetto cui la legge riferisce l'obbligo tributario. | Individua chi è tenuto all'obbligo. | Dire solo "chi paga" senza precisione. |
 | Base imponibile | Grandezza sulla quale si applica il tributo. | Serve per calcolo e casi. | Confonderla con l'imposta dovuta. |
 | Aliquota | Misura applicata alla base imponibile. | Collega base e imposta. | Studiare solo percentuali senza meccanismo. |
@@ -574,7 +574,7 @@ Questa tabella va ripassata prima dei quiz. Se una definizione non si trasforma 
 ### Da sapere in 5 righe
 
 1. Il tributo è la categoria generale; imposta, tassa e contributo non sono sinonimi.
-2. Il presupposto spiega perché' il tributo nasce; la base imponibile spiega su che cosa si calcola.
+2. Il presupposto spiega perché il tributo nasce; la base imponibile spiega su che cosa si calcola.
 3. Il soggetto passivo è individuato dalla legge e va distinto da soggetto attivo, sostituto e responsabile.
 4. TUIR e IVA vanno letti come mappe operative: soggetti, categorie, operazioni, adempimenti e controlli.
 5. Accertamento e riscossione sono collegati, ma non coincidono.
@@ -606,17 +606,17 @@ Terzo passaggio: costruisce tre risposte orali brevi.
 
 - "Che cos'è il presupposto d'imposta?"
 - "Che differenza c'è tra base imponibile e imposta dovuta?"
-- "Perché' l'accertamento non coincide con la riscossione?"
+- "Perché l'accertamento non coincide con la riscossione?"
 
-Marco non ha ancora studiato ogni dettaglio. Ma ha una struttura. Da questo momento le norme non sono più' una massa indistinta: entrano in una mappa.
+Marco non ha ancora studiato ogni dettaglio. Ma ha una struttura. Da questo momento le norme non sono più una massa indistinta: entrano in una mappa.
 
 ### Domanda da commissario
 
-**Domanda.** Mi spieghi presupposto, soggetto passivo e base imponibile e perché' non sono sinonimi.
+**Domanda.** Mi spieghi presupposto, soggetto passivo e base imponibile e perché non sono sinonimi.
 
-**Risposta guida.** Il presupposto è il fatto, l'atto o la situazione cui la legge collega la nascita del tributo. Risponde alla domanda: perché' il tributo può' essere richiesto? Il soggetto passivo è il soggetto al quale la legge riferisce l'obbligo tributario. Risponde alla domanda: chi è tenuto all'obbligazione? La base imponibile è la grandezza su cui il tributo viene calcolato. Risponde alla domanda: su quale valore, reddito o misura applico la disciplina? I tre concetti sono collegati, ma distinti: il presupposto attiva la rilevanza fiscale, il soggetto individua il debitore tributario o obbligato, la base consente la determinazione quantitativa.
+**Risposta guida.** Il presupposto è il fatto, l'atto o la situazione cui la legge collega la nascita del tributo. Risponde alla domanda: perché il tributo può essere richiesto? Il soggetto passivo è il soggetto al quale la legge riferisce l'obbligo tributario. Risponde alla domanda: chi è tenuto all'obbligazione? La base imponibile è la grandezza su cui il tributo viene calcolato. Risponde alla domanda: su quale valore, reddito o misura applico la disciplina? I tre concetti sono collegati, ma distinti: il presupposto attiva la rilevanza fiscale, il soggetto individua il debitore tributario o obbligato, la base consente la determinazione quantitativa.
 
-**Come migliorare la risposta.** Dopo la definizione, aggiungi una frase di collegamento: "Questi concetti sono necessari anche per comprendere dichiarazione, controllo e accertamento, perché' l'amministrazione verifica se il contribuente ha correttamente individuato il presupposto, dichiarato la base e assolto l'obbligo".
+**Come migliorare la risposta.** Dopo la definizione, aggiungi una frase di collegamento: "Questi concetti sono necessari anche per comprendere dichiarazione, controllo e accertamento, perché l'amministrazione verifica se il contribuente ha correttamente individuato il presupposto, dichiarato la base e assolto l'obbligo".
 
 ### Domanda-trappola
 
@@ -624,7 +624,7 @@ Marco non ha ancora studiato ogni dettaglio. Ma ha una struttura. Da questo mome
 
 **Risposta corretta.** No. Sono categorie diverse dentro l'area dei tributi. L'imposta si collega a un presupposto di capacità contributiva e non richiede una controprestazione individuale diretta. La tassa si collega a un servizio pubblico o a un'attività amministrativa riferibile al soggetto. Il contributo ha un collegamento specifico con una posizione, un vantaggio o una funzione. Nei concorsi la distinzione serve a evitare risposte generiche.
 
-**Perché' è una trappola.** Nel linguaggio comune si dice spesso "tasse" per indicare qualunque prelievo. Nel linguaggio giuridico-concorsuale questa approssimazione può' far perdere punti.
+**Perché è una trappola.** Nel linguaggio comune si dice spesso "tasse" per indicare qualunque prelievo. Nel linguaggio giuridico-concorsuale questa approssimazione può far perdere punti.
 
 ### Errore tipico
 
@@ -656,7 +656,7 @@ Compila la tabella senza guardare il testo. Poi confronta le risposte con il cap
 | Distingui imposta e tassa. |  |
 | Spiega che cos'è il presupposto. |  |
 | Spiega che cos'è la base imponibile. |  |
-| Indica perché' TUIR e IVA richiedono mappe diverse. |  |
+| Indica perché TUIR e IVA richiedono mappe diverse. |  |
 | Distingui accertamento e riscossione. |  |
 | Scrivi una domanda-trappola che potresti trovare in un quiz. |  |
 
@@ -682,16 +682,16 @@ D. La fase di riscossione coattiva.
 
 **Risposta corretta: A.** La base imponibile serve al calcolo. Non coincide con sanzione, servizio o riscossione.
 
-**3. Perché' imposta e tassa non sono sinonimi?**
+**3. Perché imposta e tassa non sono sinonimi?**
 
-A. Perché' l'imposta è sempre facoltativa.
-B. Perché' la tassa non è mai prevista dalla legge.
-C. Perché' l'imposta non richiede una controprestazione individuale diretta, mentre la tassa è collegata a un servizio o attività amministrativa.
-D. Perché' la tassa è sempre un prezzo privato.
+A. Perché l'imposta è sempre facoltativa.
+B. Perché la tassa non è mai prevista dalla legge.
+C. Perché l'imposta non richiede una controprestazione individuale diretta, mentre la tassa è collegata a un servizio o attività amministrativa.
+D. Perché la tassa è sempre un prezzo privato.
 
 **Risposta corretta: C.** Le altre opzioni sono scorrette: imposta e tassa appartengono al diritto pubblico e sono regolate da fonti normative.
 
-**4. Quale sequenza è più' corretta per ragionare su un tributo?**
+**4. Quale sequenza è più corretta per ragionare su un tributo?**
 
 A. Riscossione -> aliquota -> presupposto -> soggetto.
 B. Presupposto -> soggetto passivo -> base imponibile -> calcolo -> adempimento.
@@ -709,14 +709,14 @@ D. La distinzione tra quiz e banca dati come sinonimi.
 
 **Risposta corretta: A.** AdER lavora sul baricentro della riscossione; confonderla con l'accertamento produce risposte deboli.
 
-**6. Quale affermazione descrive correttamente la progressivita tributaria nella Costituzione?**
+**6. Quale affermazione descrive correttamente la progressività tributaria nella Costituzione?**
 
 A. Ogni singolo tributo deve avere aliquote progressive.
-B. La progressivita riguarda soltanto le imposte indirette.
-C. Il sistema tributario nel suo complesso e' informato a criteri di progressivita.
-D. La progressivita consente all'ufficio di creare nuove aliquote.
+B. La progressività riguarda soltanto le imposte indirette.
+C. Il sistema tributario nel suo complesso è informato a criteri di progressività.
+D. La progressività consente all'ufficio di creare nuove aliquote.
 
-**Risposta corretta: C.** L'art. 53 riferisce la progressivita al sistema tributario complessivo. A e' troppo assoluta; B restringe senza base il principio; D confonde il principio costituzionale con i poteri dell'amministrazione.
+**Risposta corretta: C.** L'art. 53 riferisce la progressività al sistema tributario complessivo. A è troppo assoluta; B restringe senza base il principio; D confonde il principio costituzionale con i poteri dell'amministrazione.
 
 ## Diario degli errori
 
@@ -725,12 +725,12 @@ Usa questa tabella dopo ogni sessione di quiz.
 | Errore | Segnale | Correzione |
 | --- | --- | --- |
 | Imposta/tassa confuse | Uso "tassa" per tutto. | Ripasso categorie del tributo e scrivo un esempio per ciascuna. |
-| Presupposto/base confuse | Dico "base imponibile" quando la domanda chiede perché' il tributo nasce. | Riscrivo la sequenza fatto -> presupposto -> base. |
+| Presupposto/base confuse | Dico "base imponibile" quando la domanda chiede perché il tributo nasce. | Riscrivo la sequenza fatto -> presupposto -> base. |
 | Soggetto/ufficio confusi | Rispondo con Agenzia o ufficio quando la domanda chiede il soggetto passivo. | Distinguo soggetto attivo, soggetto passivo, sostituto, responsabile. |
 | IVA ridotta ad aliquota | Mi concentro solo sulla percentuale. | Ripasso operazione, soggetto, documentazione, detrazione, liquidazione. |
 | Accertamento/riscossione confuse | Parlo di cartella come se fosse controllo dell'Agenzia delle Entrate. | Segno: accertamento = verifica/pretesa; riscossione = pagamento/carico. |
 
-Il diario è efficace solo se lo compili subito. Dopo una settimana, l'errore diventa generico e non ti aiuta più'.
+Il diario è efficace solo se lo compili subito. Dopo una settimana, l'errore diventa generico e non ti aiuta più.
 
 ## Checklist operativa finale
 
@@ -761,13 +761,13 @@ Questo capitolo è costruito sulle note e sulle pagine consolidate del wiki del 
 
 Le fonti consolidate sostengono il nucleo teorico e concorsuale del capitolo. Per citazioni articolo-per-articolo e per dettagli su TUIR, IVA, accertamento, riscossione, riforma fiscale e decreti attuativi, resta necessaria una verifica su Normattiva e sulle fonti istituzionali aggiornate prima della pubblicazione.
 
-## Note di audit automatico
+## Note di review
 
 - Verificare su Normattiva il testo vigente del D.P.R. 917/1986, del D.P.R. 633/1972, del D.P.R. 600/1973 e della L. 111/2023 prima di inserire articoli, commi, soglie, date o esempi numerici.
 - Il quadro IRPEF/IRES consolida l'architettura stabile, non aliquote, scaglioni, soglie, importi, percentuali, termini o regimi mobili: verificarli sulla fonte ufficiale vigente prima della pubblicazione.
-- Il quadro IVA e' compilato sulle source note consolidate con audit al 20 luglio 2026; l'audit automatico tributario/UE verifica territorialita', esenzioni, inversione contabile, detrazione e decorrenze prima della pubblicazione.
+- Il quadro IVA è compilato sulle source note consolidate con audit al 20 luglio 2026; l'audit automatico tributario/UE verifica territorialità, esenzioni, inversione contabile, detrazione e decorrenze prima della pubblicazione.
 - L'audit automatico normativo verifica articolo per articolo soggetti, residenza, categorie, formazione del reddito complessivo e raccordo civilistico-fiscale; derivazione rafforzata ed eccezioni sono controllate separatamente quando il bando richiede dettaglio.
-- Coordinare la terminologia con i capitoli 5, 6 e 7, cosi' che accertamento, adempimenti e riscossione mantengano lo stesso significato in tutto il modulo.
+- Coordinare la terminologia con i capitoli 5, 6 e 7, così che accertamento, adempimenti e riscossione mantengano lo stesso significato in tutto il modulo.
 - Integrare eventuali riferimenti allo Statuto dei diritti del contribuente solo dopo una source note consolidata dedicata, per evitare richiami non tracciati.
 - I quiz presenti in questa bozza sono didattici e non articolo-specifici; prima dell'export finale possono essere ampliati con quesiti normativi puntuali dopo audit automatico.
 - Il capitolo ha taglio concorsuale e non costituisce consulenza fiscale.

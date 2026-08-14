@@ -33,11 +33,11 @@ last_compiled_from: ["wiki/sources/agenzie-fiscali-organizzazione-ae-adm-ader.md
 
 ## Apertura editoriale
 
-Nei concorsi delle Agenzie fiscali l'organizzazione aiuta a capire dove si colloca il profilo, quale funzione pubblica andrà' a sostenere e quale linguaggio dovrà' usare il candidato in prova. La conoscenza del D.Lgs. 300/1999 acquista valore quando viene collegata a queste domande.
+Nei concorsi delle Agenzie fiscali l'organizzazione aiuta a capire dove si colloca il profilo, quale funzione pubblica andrà a sostenere e quale linguaggio dovrà usare il candidato in prova. La conoscenza del D.Lgs. 300/1999 acquista valore quando viene collegata a queste domande.
 
 Un bando dell'Agenzia delle Entrate, dell'Agenzia delle Dogane e dei Monopoli o dell'Agenzia delle Entrate-Riscossione non seleziona soltanto persone che "conoscono il fisco". Seleziona candidati capaci di muoversi dentro una organizzazione: uffici centrali e territoriali, funzioni di indirizzo, servizi al contribuente, controlli, atti, procedure, front-office, canali digitali, rapporto con il Ministero dell'economia e delle finanze, coordinamento con altri soggetti pubblici.
 
-Per questo l'ordinamento degli enti va studiato in modo operativo. Il candidato deve saper distinguere l'Agenzia delle Entrate da ADM e AdER, deve capire perché' l'Agenzia non è semplicemente un Ministero con un altro nome e deve evitare la confusione più' frequente: trattare accertamento, dogane e riscossione come se fossero tre capitoli dello stesso ufficio.
+Per questo l'ordinamento degli enti va studiato in modo operativo. Il candidato deve saper distinguere l'Agenzia delle Entrate da ADM e AdER, deve capire perché l'Agenzia non è semplicemente un Ministero con un altro nome e deve evitare la confusione più frequente: trattare accertamento, dogane e riscossione come se fossero tre capitoli dello stesso ufficio.
 
 Memorizzare un organigramma non basta. Gli organigrammi cambiano e vanno sempre verificati sui siti istituzionali prima della pubblicazione o della prova. Occorre invece costruire una mappa stabile: quale ente fa che cosa, con quale funzione, con quale rapporto con il MEF, con quali parole chiave e con quali conseguenze sullo studio.
 
@@ -45,7 +45,7 @@ Memorizzare un organigramma non basta. Gli organigrammi cambiano e vanno sempre 
 
 Al termine del capitolo devi saper fare cinque operazioni.
 
-Prima: spiegare perché' il D.Lgs. 300/1999 è la fonte di base per comprendere il modello delle agenzie fiscali, senza trasformare la risposta in una ricostruzione storica lunga.
+Prima: spiegare perché il D.Lgs. 300/1999 è la fonte di base per comprendere il modello delle agenzie fiscali, senza trasformare la risposta in una ricostruzione storica lunga.
 
 Seconda: distinguere Ministero, agenzia fiscale ed ente pubblico economico della riscossione. Questa distinzione è decisiva per non confondere indirizzo politico, funzioni tecnico-operative e gestione della riscossione.
 
@@ -63,7 +63,7 @@ Leggi il capitolo con tre domande aperte accanto al bando.
 - Quale funzione pubblica è al centro del profilo?
 - Quali parole organizzative devo saper usare in una risposta scritta o orale?
 
-Se il bando riguarda Agenzia delle Entrate, la parola guida può' essere "adempimento", "accertamento", "servizi fiscali", "territorio", "catasto" o "pubblicità immobiliare". Se riguarda ADM, devi cercare "dogane", "accise", "giochi", "monopoli", "controlli", "operatori economici". Se riguarda AdER, devi pensare a "riscossione", "cartella", "pagamento", "rateizzazione", "sospensione", "contribuente-debitore".
+Se il bando riguarda Agenzia delle Entrate, la parola guida può essere "adempimento", "accertamento", "servizi fiscali", "territorio", "catasto" o "pubblicità immobiliare". Se riguarda ADM, devi cercare "dogane", "accise", "giochi", "monopoli", "controlli", "operatori economici". Se riguarda AdER, devi pensare a "riscossione", "cartella", "pagamento", "rateizzazione", "sospensione", "contribuente-debitore".
 
 Queste parole non sono etichette. Sono bussole. Ti dicono quali parti della teoria diventano prioritarie e quali esempi usare quando la commissione chiede: "Mi spieghi che cosa fa questo ente?".
 
@@ -83,7 +83,7 @@ In questo capitolo il metodo BANDO non ti chiede di studiare tutta l'amministraz
 ![Figura 3.1 - Mappa BANDO dell'organizzazione fiscale: dal bando alla risposta orale su ente, funzione, lessico e rischio.](../assets/chapter-03/01-mappa-bando-organizzazione-fiscale.png)
 
 
-Il D.Lgs. 30 luglio 1999, n. 300 è la fonte di riferimento per capire la riorganizzazione del Governo e il modello delle agenzie. Nel modulo M-FC02 va usato con un taglio preciso: non come capitolo generale sui Ministeri, ma come chiave per spiegare perché' le agenzie fiscali hanno autonomia organizzativa e funzioni tecnico-operative collegate all'area economico-finanziaria dello Stato.
+Il D.Lgs. 30 luglio 1999, n. 300 è la fonte di riferimento per capire la riorganizzazione del Governo e il modello delle agenzie. Nel modulo M-FC02 va usato con un taglio preciso: non come capitolo generale sui Ministeri, ma come chiave per spiegare perché le agenzie fiscali hanno autonomia organizzativa e funzioni tecnico-operative collegate all'area economico-finanziaria dello Stato.
 
 Per il candidato contano quattro idee.
 
@@ -135,11 +135,11 @@ Questa tabella non sostituisce lo studio dei capitoli specialistici successivi. 
 ## Agenzia delle Entrate: servizi, controlli e territorio
 
 
-L'Agenzia delle Entrate è l'ente che il candidato associa più' facilmente al fisco. Proprio per questo può' generare l'errore più' sottile: pensare che basti studiare diritto tributario in astratto.
+L'Agenzia delle Entrate è l'ente che il candidato associa più facilmente al fisco. Proprio per questo può generare l'errore più sottile: pensare che basti studiare diritto tributario in astratto.
 
 In una risposta concorsuale l'Agenzia delle Entrate va presentata come amministrazione fiscale con funzioni collegate alle entrate tributarie, ai servizi ai contribuenti, alla compliance, agli adempimenti, ai controlli e all'accertamento. Nel perimetro M-FC02 rientrano anche i profili connessi ai servizi catastali, cartografici, estimativi e alla pubblicità immobiliare, quando il bando li pone al centro.
 
-La parola "servizio" non deve essere sottovalutata. Molti candidati parlano solo di controlli ed evasione. In realtà', nei profili AE il lavoro può' riguardare anche informazione, assistenza, gestione delle dichiarazioni, lavorazione di istanze, canali digitali, supporto al contribuente, trattamento di dati e atti.
+La parola "servizio" non deve essere sottovalutata. Molti candidati parlano solo di controlli ed evasione. In realtà, nei profili AE il lavoro può riguardare anche informazione, assistenza, gestione delle dichiarazioni, lavorazione di istanze, canali digitali, supporto al contribuente, trattamento di dati e atti.
 
 Per un profilo tributario, la risposta forte collega tre livelli:
 
@@ -157,7 +157,7 @@ Nel modulo M-FC02 ADM va spiegata come agenzia fiscale con funzioni specialistic
 
 Per il candidato la conseguenza è pratica. Una risposta su ADM deve contenere almeno un riferimento al suo perimetro proprio. Se dici solo "si occupa di tributi", la risposta è debole. Devi mostrare che sai distinguere tributi interni, dogane, accise, giochi e monopoli.
 
-Questo vale soprattutto nei concorsi per funzionari e assistenti ADM. Il profilo può' contenere diritto amministrativo, pubblico impiego, anticorruzione, informatica e inglese. Ma se il programma richiama dogane, accise o monopoli, il piano di studio deve costruire subito un glossario specialistico. Senza glossario, il candidato risponde con categorie generiche a domande che chiedono un linguaggio tecnico.
+Questo vale soprattutto nei concorsi per funzionari e assistenti ADM. Il profilo può contenere diritto amministrativo, pubblico impiego, anticorruzione, informatica e inglese. Ma se il programma richiama dogane, accise o monopoli, il piano di studio deve costruire subito un glossario specialistico. Senza glossario, il candidato risponde con categorie generiche a domande che chiedono un linguaggio tecnico.
 
 ## AdER: riscossione e rapporto con il contribuente-debitore
 
@@ -165,11 +165,11 @@ Agenzia delle Entrate-Riscossione è il terzo ingresso del modulo. Qui il candid
 
 La distinzione base è questa: l'accertamento riguarda la verifica e la determinazione della pretesa tributaria; la riscossione riguarda la gestione del credito nella fase in cui deve essere portato a pagamento secondo le regole previste. Le due fasi sono collegate, ma non sono la stessa cosa.
 
-Nei concorsi AdER il candidato deve saper parlare di cartella, pagamenti, rateizzazioni, sospensioni, canali di relazione, documentazione e rapporto con il contribuente-debitore. Il lessico è più' operativo e più' vicino al front-office. Proprio per questo, le risposte devono essere ordinate: soggetto, atto, richiesta, documento, termine, canale, possibile esito.
+Nei concorsi AdER il candidato deve saper parlare di cartella, pagamenti, rateizzazioni, sospensioni, canali di relazione, documentazione e rapporto con il contribuente-debitore. Il lessico è più operativo e più vicino al front-office. Proprio per questo, le risposte devono essere ordinate: soggetto, atto, richiesta, documento, termine, canale, possibile esito.
 
-Il rischio tipico è studiare AdER come appendice dell'Agenzia delle Entrate. Il profilo di riscossione richiede invece un allenamento diverso. Una domanda orale può' chiedere il rapporto tra ruolo, cartella e pagamento; una prova situazionale può' presentare un utente che chiede una rateizzazione o una sospensione; un quiz può' verificare la differenza tra fase di accertamento e fase di riscossione.
+Il rischio tipico è studiare AdER come appendice dell'Agenzia delle Entrate. Il profilo di riscossione richiede invece un allenamento diverso. Una domanda orale può chiedere il rapporto tra ruolo, cartella e pagamento; una prova situazionale può presentare un utente che chiede una rateizzazione o una sospensione; un quiz può verificare la differenza tra fase di accertamento e fase di riscossione.
 
-Per questo nel diario errori devi avere una riga dedicata: "Sto confondendo accertamento e riscossione?". Se la risposta è si', torna alla mappa funzionale.
+Per questo nel diario errori devi avere una riga dedicata: "Sto confondendo accertamento e riscossione?". Se la risposta è sì, torna alla mappa funzionale.
 
 ## Organizzazione centrale e rete territoriale
 ![Figura 3.4 - Organizzazione centrale e rete territoriale: il centro coordina e il territorio incontra contribuenti, operatori e debitori.](../assets/chapter-03/04-centro-territorio-canali.png)
@@ -181,7 +181,7 @@ Le strutture centrali svolgono funzioni di indirizzo, coordinamento, gestione, s
 
 Questa distinzione è utile in tre casi.
 
-Nel quiz, aiuta a riconoscere se una domanda riguarda l'assetto istituzionale o l'attività' dell'ufficio.
+Nel quiz, aiuta a riconoscere se una domanda riguarda l'assetto istituzionale o l'attività dell'ufficio.
 
 Nell'orale, aiuta a costruire una risposta non piatta: "L'ente opera attraverso strutture centrali e territoriali; le prime orientano e coordinano, le seconde gestiscono attività e servizi sul territorio, secondo le competenze previste".
 
@@ -202,17 +202,17 @@ Gli assetti sono mobili. Il portale ADM, per esempio, registra un regolamento di
 ## Come lo chiede la commissione
 
 
-La commissione può' chiedere l'organizzazione in quattro modi.
+La commissione può chiedere l'organizzazione in quattro modi.
 
 Il primo è il quesito definitorio: "Che cosa sono le agenzie fiscali?". Qui serve una risposta breve su D.Lgs. 300/1999, autonomia e rapporto con il MEF.
 
 Il secondo è il quesito comparativo: "Che differenza c'è tra Agenzia delle Entrate, ADM e AdER?". Qui devi usare la mappa funzioni: entrate/servizi fiscali, dogane/monopoli, riscossione.
 
-Il terzo è il quesito applicativo: "Perché' un profilo ADM non si prepara come un profilo AE?". Qui devi spiegare il diverso lessico operativo e le diverse materie specialistiche.
+Il terzo è il quesito applicativo: "Perché un profilo ADM non si prepara come un profilo AE?". Qui devi spiegare il diverso lessico operativo e le diverse materie specialistiche.
 
 Il quarto è il quesito situazionale: "Un contribuente/debitore si presenta allo sportello con una richiesta; come inquadri il problema?". Qui devi mostrare ordine, competenza, rispetto del ruolo e consapevolezza dei canali ufficiali.
 
-La qualità' della risposta dipende dalla capacità' di distinguere fonte, ente, funzione, ufficio, utente, atto e output, non dalla sua lunghezza.
+La qualità della risposta dipende dalla capacità di distinguere fonte, ente, funzione, ufficio, utente, atto e output, non dalla sua lunghezza.
 
 ## Glossario minimo del capitolo
 
@@ -258,23 +258,23 @@ Nel modulo fiscale occorre distinguere le funzioni. L'Agenzia delle Entrate è i
 
 La distinzione è importante anche nei concorsi. Un profilo AE, un profilo ADM e un profilo AdER possono condividere materie comuni, ma richiedono lessico, priorità e output diversi. Il candidato deve quindi collegare organizzazione, funzione e prova prevista dal bando.
 
-Questa risposta può' essere adattata al profilo. Se il bando è ADM, aggiungi un esempio su dogane o accise. Se è AdER, aggiungi la distinzione tra accertamento e riscossione. Se è AE territorio, richiama catasto e pubblicità immobiliare.
+Questa risposta può essere adattata al profilo. Se il bando è ADM, aggiungi un esempio su dogane o accise. Se è AdER, aggiungi la distinzione tra accertamento e riscossione. Se è AE territorio, richiama catasto e pubblicità immobiliare.
 
 ## Caso guidato
 
-Sarà sta preparando due procedure nello stesso mese.
+Sara sta preparando due procedure nello stesso mese.
 
 La prima riguarda un profilo giuridico-tributario presso l'Agenzia delle Entrate. La seconda riguarda un concorso ADM con programma su dogane, accise e monopoli.
 
-All'inizio Sarà pensa di usare lo stesso schema: D.Lgs. 300/1999, diritto amministrativo, pubblico impiego, tributario generale. Il piano sembra ordinato, ma ha un difetto: cancella la differenza tra gli enti.
+All'inizio Sara pensa di usare lo stesso schema: D.Lgs. 300/1999, diritto amministrativo, pubblico impiego, tributario generale. Il piano sembra ordinato, ma ha un difetto: cancella la differenza tra gli enti.
 
-Con la mappa del capitolo, Sarà corregge il piano.
+Con la mappa del capitolo, Sara corregge il piano.
 
-Per AE scrive: funzione entrate/servizi fiscali, parole obbligatorie "contribuente, adempimento, controllo, accertamento, servizi". Il primo output è una risposta orale su Agenzia delle Entrate più' una mappa tra adempimento spontaneo, controllo e accertamento.
+Per AE scrive: funzione entrate/servizi fiscali, parole obbligatorie "contribuente, adempimento, controllo, accertamento, servizi". Il primo output è una risposta orale su Agenzia delle Entrate più una mappa tra adempimento spontaneo, controllo e accertamento.
 
 Per ADM scrive: funzione dogane/accise/monopoli, parole obbligatorie "merce, dichiarazione, operatore economico, accisa, vigilanza". Il primo output è un glossario ADM con esempi di domanda.
 
-Sarà non ha studiato di più'. Ha studiato meglio. Ha capito che il D.Lgs. 300/1999 è la cornice, mentre la funzione dell'ente decide la preparazione.
+Sara non ha studiato di più. Ha studiato meglio. Ha capito che il D.Lgs. 300/1999 è la cornice, mentre la funzione dell'ente decide la preparazione.
 
 ## Da sapere in 5 righe
 
@@ -286,17 +286,17 @@ Sarà non ha studiato di più'. Ha studiato meglio. Ha capito che il D.Lgs. 300/
 
 ## Domanda da commissario
 
-**Domanda.** Perché' è importante distinguere l'organizzazione dell'Agenzia delle Entrate da quella di ADM e AdER?
+**Domanda.** Perché è importante distinguere l'organizzazione dell'Agenzia delle Entrate da quella di ADM e AdER?
 
-**Risposta guida.** Perché' nei concorsi la struttura dell'ente è collegata alla funzione del profilo. L'Agenzia delle Entrate opera su entrate tributarie, servizi fiscali, controlli, accertamento e anche su funzioni territoriali come catasto e pubblicità immobiliare. ADM ha un baricentro diverso: dogane, accise, giochi, monopoli e controlli su flussi e operatori economici. AdER riguarda la riscossione nazionale e il rapporto con il contribuente-debitore. Se il candidato non distingue queste funzioni, rischia di preparare materie comuni senza costruire il lessico specialistico richiesto dal bando.
+**Risposta guida.** Perché nei concorsi la struttura dell'ente è collegata alla funzione del profilo. L'Agenzia delle Entrate opera su entrate tributarie, servizi fiscali, controlli, accertamento e anche su funzioni territoriali come catasto e pubblicità immobiliare. ADM ha un baricentro diverso: dogane, accise, giochi, monopoli e controlli su flussi e operatori economici. AdER riguarda la riscossione nazionale e il rapporto con il contribuente-debitore. Se il candidato non distingue queste funzioni, rischia di preparare materie comuni senza costruire il lessico specialistico richiesto dal bando.
 
 ## Domanda-trappola
 
 **Domanda.** Le Agenzie fiscali sono semplici uffici del Ministero dell'economia e delle finanze?
 
-**Risposta corretta.** No. Il MEF è il riferimento istituzionale dell'area economico-finanziaria e svolge funzioni di indirizzo e vigilanza secondo il quadro normativo. Le agenzie fiscali hanno invece funzioni tecnico-operative e autonomia nei limiti previsti dalle fonti. Dire che sono "semplici uffici del Ministero" appiattisce il modello e non spiega perché' i bandi selezionano profili specialistici.
+**Risposta corretta.** No. Il MEF è il riferimento istituzionale dell'area economico-finanziaria e svolge funzioni di indirizzo e vigilanza secondo il quadro normativo. Le agenzie fiscali hanno invece funzioni tecnico-operative e autonomia nei limiti previsti dalle fonti. Dire che sono "semplici uffici del Ministero" appiattisce il modello e non spiega perché i bandi selezionano profili specialistici.
 
-**Perché' è una trappola.** La domanda confonde collegamento istituzionale e immedesimazione organizzativa. Collegamento al MEF non significa identità con il Ministero.
+**Perché è una trappola.** La domanda confonde collegamento istituzionale e immedesimazione organizzativa. Collegamento al MEF non significa identità con il Ministero.
 
 ## Errore tipico
 ![Figura 3.5 - Accertamento e riscossione: due fasi collegate ma diverse, dalla pretesa al pagamento.](../assets/chapter-03/05-accertamento-riscossione.png)
@@ -331,7 +331,7 @@ Compila la tabella per il bando che stai preparando.
 
 Poi scrivi una risposta di massimo dieci righe a questa traccia:
 
-> Inquadra l'ente del bando e spiega perché' la sua organizzazione incide sul piano di studio.
+> Inquadra l'ente del bando e spiega perché la sua organizzazione incide sul piano di studio.
 
 Rileggi la risposta. Se potrebbe valere identica per AE, ADM e AdER, è troppo generica.
 

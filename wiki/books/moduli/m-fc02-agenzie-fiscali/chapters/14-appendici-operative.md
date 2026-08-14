@@ -113,7 +113,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | Classamento | Attribuzione di categoria e classe. | Non è stima di mercato. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#4. Classamento e rendita catastale]] |
 | DOCFA | Procedura per il catasto fabbricati. | Non è PREGEO. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#5. DOCFA: nuove costruzioni e variazioni urbane]] |
 | PREGEO | Procedura di aggiornamento geometrico dei terreni. | Non sostituisce la pubblicità immobiliare. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#6. PREGEO e aggiornamento geometrico]] |
-| Patrimonio | Attività e passivita riferite all'azienda. | Non è reddito di periodo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#2. Patrimonio, reddito e finanza]] |
+| Patrimonio | Attività e passività riferite all'azienda. | Non è reddito di periodo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#2. Patrimonio, reddito e finanza]] |
 | Partita doppia | Rilevazione dell'operazione sotto due aspetti. | Non è duplicazione del valore. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#3. Conti e partita doppia]] |
 | Competenza | Imputazione di costi e ricavi al periodo. | Non è cassa. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#5. Competenza economica e assestamento]] |
 | Reddito imponibile | Grandezza determinata dalle regole fiscali. | Non coincide automaticamente con utile civilistico. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#14. Dal bilancio al reddito imponibile]] |
@@ -134,7 +134,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | Tax control framework | Sistema interno di governo e controllo del rischio fiscale. | Non è un singolo controllo dell'ufficio. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Adempimento collaborativo e tax control framework]] |
 | Cartella di pagamento | Atto notificato nel percorso ordinario di riscossione. | Non è il ruolo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#3. Il percorso ordinario: ruolo, cartella e pagamento]] |
 | Accertamento esecutivo | Atto che concentra accertamento e titolo per la riscossione nei casi previsti. | Non elimina la distinzione funzionale tra enti e fasi. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#4. L'accertamento esecutivo e l'avviso di presa in carico]] |
-| Presa in carico | Comunicazione con cui AdER informa il debitore di avere ricevuto in affidamento il carico. | È successiva all'affidamento del carico: non coincide con esso ne' con una nuova liquidazione del tributo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#4. L'accertamento esecutivo e l'avviso di presa in carico]] |
+| Presa in carico | Comunicazione con cui AdER informa il debitore di avere ricevuto in affidamento il carico. | È successiva all'affidamento del carico: non coincide con esso né con una nuova liquidazione del tributo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#4. L'accertamento esecutivo e l'avviso di presa in carico]] |
 | Sgravio | Eliminazione totale o parziale del carico da parte dell'ente competente. | Non è sospensione temporanea. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#6. Sospensione, sgravio e ricorso non sono sinonimi]] |
 | Misura cautelare | Presidio del credito prima o fuori dall'espropriazione nei casi previsti. | Non è esecuzione forzata. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#7. Misure cautelari ed esecuzione forzata]] |
 ### Integrazione dogane, accise, giochi e catasto
@@ -152,9 +152,9 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | e-AD | Documento amministrativo elettronico della circolazione in sospensione. | Non è una fattura commerciale. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#4. Circolazione in sospensione: EMCS ed e-AD]] |
 | Filiera del gioco | Insieme dei soggetti e passaggi della raccolta e del controllo. | Non coincide con il solo concessionario. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#9. Rete fisica, rete a distanza e filiera]] |
 | Rendita catastale | Valore fiscale-amministrativo derivante dal classamento dei fabbricati. | Non è il prezzo di mercato. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#4. Classamento e rendita catastale]] |
-| Visura catastale | Documento informativo su identificativi, intestazioni e dati censuari. | Non prova da sola la titolarita giuridica. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#3. Identificativi e lettura della visura]] |
+| Visura catastale | Documento informativo su identificativi, intestazioni e dati censuari. | Non prova da sola la titolarità giuridica. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#3. Identificativi e lettura della visura]] |
 | Voltura catastale | Aggiornamento delle intestazioni catastali conseguente a una vicenda rilevante. | Non è trascrizione immobiliare. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#7. Voltura e intestazioni catastali]] |
-| Trascrizione | Formalita di pubblicità relativa agli atti soggetti a trascrizione. | Non è iscrizione ipotecaria. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#12. Trascrizione, iscrizione e annotazione]] |
+| Trascrizione | Formalità di pubblicità relativa agli atti soggetti a trascrizione. | Non è iscrizione ipotecaria. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#12. Trascrizione, iscrizione e annotazione]] |
 | Ispezione ipotecaria | Consultazione dei registri di pubblicità immobiliare. | Non è una visura catastale. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#13. Ispezione ipotecaria e continuità]] |
 ### Integrazione contabilità, civile e commerciale
 
@@ -165,16 +165,16 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | Costo | Componente negativo economico di periodo. | Non coincide necessariamente con il pagamento. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#4. Ricavo e incasso, costo e pagamento]] |
 | Stato patrimoniale | Prospetto della situazione patrimoniale e finanziaria alla data di bilancio. | Non rappresenta il risultato di periodo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#8. Stato patrimoniale]] |
 | Conto economico | Prospetto di costi, ricavi e risultato del periodo. | Non descrive da solo i flussi di cassa. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#9. Conto economico e margini]] |
-| Rendiconto finanziario | Prospetto dei flussi finanziari e della variazione di liquidita. | Non è il conto economico. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#10. Rendiconto finanziario e liquidita]] |
+| Rendiconto finanziario | Prospetto dei flussi finanziari e della variazione di liquidità. | Non è il conto economico. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#10. Rendiconto finanziario e liquidità]] |
 | Immobilizzazione | Fattore destinato a utilità pluriennale secondo la sua classificazione. | Non è rimanenza destinata al ciclo corrente. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#11. Rimanenze, immobilizzazioni, crediti e fondi]] |
-| Fondo rischi e oneri | Posta riferita a passivita di natura determinata, incerte nell'importo o nella data. | Non è una riserva di patrimonio netto. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#11. Rimanenze, immobilizzazioni, crediti e fondi]] |
+| Fondo rischi e oneri | Posta riferita a passività di natura determinata, incerte nell'importo o nella data. | Non è una riserva di patrimonio netto. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#11. Rimanenze, immobilizzazioni, crediti e fondi]] |
 | Capacità giuridica | Attitudine a essere titolare di situazioni giuridiche. | Non è capacità di agire. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#1. Rapporto giuridico e soggetti]] |
 | Rappresentanza | Potere di produrre effetti nella sfera giuridica altrui. | Non è mera assistenza materiale. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#1. Rapporto giuridico e soggetti]] |
 | Adempimento | Esecuzione esatta della prestazione dovuta. | Non è qualunque comportamento del debitore. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#3. Adempimento, inadempimento e mora]] |
 | Responsabilità patrimoniale | Assoggettamento del patrimonio del debitore alla garanzia delle obbligazioni. | Non coincide con una specifica garanzia reale. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#9. Garanzia patrimoniale e garanzie specifiche]] |
 | Contratto | Accordo diretto a costituire, regolare o estinguere un rapporto patrimoniale. | Non è un atto amministrativo. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#6. Contratto: formazione ed effetti]] |
-| Autonomia patrimoniale | Separazione, di intensita variabile, tra patrimonio sociale e personale. | Non è identica in tutte le società. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#11. Società e autonomia patrimoniale]] |
-| Insolvenza | Incapacita di soddisfare regolarmente le obbligazioni, manifestata da inadempimenti o da altri fatti esteriori. | Non coincide con una singola difficoltà di liquidita. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#12. Crisi d'impresa: box di allerta]] |
+| Autonomia patrimoniale | Separazione, di intensità variabile, tra patrimonio sociale e personale. | Non è identica in tutte le società. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#11. Società e autonomia patrimoniale]] |
+| Insolvenza | Incapacità di soddisfare regolarmente le obbligazioni, manifestata da inadempimenti o da altri fatti esteriori. | Non coincide con una singola difficoltà di liquidità. | [[books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#12. Crisi d'impresa: box di allerta]] |
 **Esempio compilato:** origine = legame economico con un Paese; funzione = trattamento doganale; distinzione = provenienza; rinvio = capitolo 8, paragrafo 7.
 
 **Errore tipico:** recitare una definizione senza la distinzione, dove spesso nasce il distrattore.
@@ -215,7 +215,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 | Area | Risponde a | Non dimostra | Rinvio |
 | --- | --- | --- | --- |
 | Catasto | identificativi, classamento, rendita | proprietà | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#1. Funzione e natura del catasto]] |
-| Pubblicità | formalita e vicende giuridiche | correttezza catastale | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#11. Pubblicità immobiliare: funzione civilistica]] |
+| Pubblicità | formalità e vicende giuridiche | correttezza catastale | [[books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#11. Pubblicità immobiliare: funzione civilistica]] |
 
 **Istruzioni:** classifica la domanda prima di scegliere documento e ufficio.
 
@@ -253,7 +253,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 
 **Rinvii:** [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Imposte sui redditi: qualificare prima di calcolare]]; [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Compensazione: gate in sei controlli]].
 
-**Esempio:** un credito dichiarato non è automaticamente utilizzabile: natura, disponibilita e limiti vanno verificati.
+**Esempio:** un credito dichiarato non è automaticamente utilizzabile: natura, disponibilità e limiti vanno verificati.
 
 **Errore tipico:** confondere credito esposto, compensazione e rimborso.
 
@@ -267,7 +267,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 
 **Rinvio:** [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Operazioni IVA e ciclo degli adempimenti]].
 
-**Esempio:** IVA esposta su un acquisto non implica automaticamente detraibilita.
+**Esempio:** IVA esposta su un acquisto non implica automaticamente detraibilità.
 
 **Errore tipico:** confondere addebito e diritto alla detrazione.
 ## Appendice D - Schemi di processo
@@ -324,7 +324,7 @@ Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distint
 
 `immobile -> identificativi -> evento tecnico/giuridico -> procedura -> documento -> controllo -> esito`
 
-**Istruzioni:** scegli DOCFA, PREGEO, voltura o formalita solo dopo aver classificato l'evento.
+**Istruzioni:** scegli DOCFA, PREGEO, voltura o formalità solo dopo aver classificato l'evento.
 
 **Esempio:** frazionamento e vendita richiedono verifiche geometriche, catastali e immobiliari distinte.
 
@@ -473,7 +473,7 @@ La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relati
 
 **Istruzioni:** chiarisci anzitutto la natura dell'illecito, dell'atto o della fonte. Identifica quindi soggetti, presupposti, fase e conseguenze. Se il quesito coinvolge più piani, esaminali separatamente e nell'ordine in cui operano.
 
-**Esempio:** un'irregolarita dichiarativa può determinare recupero del tributo e conseguenze amministrative; l'eventuale rilievo penale richiede la verifica dei suoi presupposti. La tutela contro l'atto segue ancora un piano distinto.
+**Esempio:** un'irregolarità dichiarativa può determinare recupero del tributo e conseguenze amministrative; l'eventuale rilievo penale richiede la verifica dei suoi presupposti. La tutela contro l'atto segue ancora un piano distinto.
 
 **Errore tipico:** chiamare "reato" ogni violazione fiscale o usare "ricorso" senza indicare atto, autorità e fase.
 
@@ -532,7 +532,7 @@ Usa la prima mappa per qualificare correttamente la condotta; passa poi alla sec
 | Mercoledi | accertamento | micro-caso | scritto | griglia |
 | Giovedi | riscossione | front-office | situazionale | diario |
 | Venerdi | dogane/accise | flusso | quiz + orale | glossario |
-| Sabato | catasto/contabilita | caso | simulazione | correzione |
+| Sabato | catasto/contabilità | caso | simulazione | correzione |
 | Domenica | errori rossi | recupero | test misto | nuovo piano |
 ## Da sapere in 5 righe
 
@@ -577,4 +577,4 @@ Scegli un nucleo rosso e produci una voce di glossario, una tavola, un canvas, u
 - Le tavole dell'appendice F sono presidi di riconoscimento; la completezza dipende dai capitoli 4, 5A, 5B e 8 e dalle relative review specialistiche.
 - DOCFA, PREGEO, procedure doganali e strumenti contabili richiedono review specialistica umana.
 - Il protocollo front-office applica il nucleo comune senza duplicarlo; prima della pubblicazione vanno verificati GDPR, procedure interne dell'ente e anchor verso il VOL-01.
-- Non inserire giurisprudenza puntuale finche' non esiste una banca giurisprudenziale consolidata nel wiki.
+- Non inserire giurisprudenza puntuale finché non esiste una banca giurisprudenziale consolidata nel wiki.

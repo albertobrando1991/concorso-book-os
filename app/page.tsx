@@ -202,6 +202,7 @@ export default async function Home({ searchParams }: HomeProps) {
         {advancedMode && bookStudio && chapters ? (
           <>
             <BookStudioPanel
+              sectionId="studio-advanced"
               initialData={bookStudio}
               initialChapterPath={requestedChapterPath}
               writerProvider={writerConfig.provider}

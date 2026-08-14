@@ -171,7 +171,7 @@ In un bando ministeriale devi cercare:
 
 La Presidenza del Consiglio dei ministri non va confusa con un Ministero ordinario. Ha una funzione di supporto, impulso e coordinamento legata al Presidente del Consiglio e alle strutture della Presidenza. Per i concorsi, questo significa che il candidato deve leggere con cura il bando e non applicare automaticamente gli schemi ministeriali generici.
 
-Le fonti contrattuali ARAN distinguono inoltre la disciplina della Presidenza dal comparto ordinario delle Funzioni Centrali. Nel capitolo 3 questo aspetto verrà' tradotto in lettura di area, profilo e mansioni.
+Le fonti contrattuali ARAN distinguono inoltre la disciplina della Presidenza dal comparto ordinario delle Funzioni Centrali. Nel capitolo 3 questo aspetto verrà tradotto in lettura di area, profilo e mansioni.
 
 In questo capitolo ti basta una regola:
 
@@ -211,7 +211,7 @@ Nei concorsi M-FC01 potresti incontrare profili amministrativi, giuridici, econo
 
 Un "funzionario amministrativo" in un Ministero può avere un taglio diverso da un "funzionario amministrativo" in un Comune. Un profilo "giuridico" può richiedere più attenzione ad atti, procedimento, organizzazione e normativa settoriale. Un profilo "contabile" può spostare il peso su bilancio, controlli, spesa, rendicontazione e contratti. Un profilo "informatico" non richiede solo informatica generale, ma anche dati pubblici, sicurezza, servizi digitali, privacy e amministrazione digitale.
 
-Per questo il capitolo 3 userà' tre domande:
+Per questo il capitolo 3 userà tre domande:
 
 | Domanda | perché conta |
 |---|---|
@@ -267,7 +267,7 @@ Individua:
 - prove informatiche, linguistiche o situazionali;
 - soglie e punteggi.
 
-Non basta sapere "ci sarà' una prova". Devi capire quale prova elimina, quale prova distingue e quale prova richiede output.
+Non basta sapere "ci sarà una prova". Devi capire quale prova elimina, quale prova distingue e quale prova richiede output.
 
 ## Bando Decoder M-FC01
 

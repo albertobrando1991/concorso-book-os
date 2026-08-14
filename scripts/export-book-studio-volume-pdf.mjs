@@ -29,7 +29,7 @@ const page = await browser.newPage({ viewport: { width: 1500, height: 1050 } })
 
 try {
   await page.goto(url, { waitUntil: "domcontentloaded", timeout: 180_000 })
-  const studio = page.locator("section.bookStudioPanel#studio").last()
+  const studio = page.locator("section.bookStudioPanel#studio-advanced").last()
   await studio.waitFor({ state: "visible", timeout: 120_000 })
   await studio.getByRole("button", { name: "Libro", exact: true }).click()
   await studio.getByText("vista libro", { exact: true }).waitFor({ state: "visible", timeout: 120_000 })
@@ -49,7 +49,7 @@ try {
   })
   await page.waitForFunction(
     (expected) => {
-      const studios = document.querySelectorAll("section.bookStudioPanel#studio")
+      const studios = document.querySelectorAll("section.bookStudioPanel#studio-advanced")
       const activeStudio = studios.item(studios.length - 1)
       return activeStudio?.querySelectorAll(".bookPages .bookPage").length === expected
     },
@@ -68,7 +68,7 @@ try {
   assertBookReady({ ...readiness, expectedPageCount })
 
   await page.evaluate(() => {
-    const studios = document.querySelectorAll("section.bookStudioPanel#studio")
+    const studios = document.querySelectorAll("section.bookStudioPanel#studio-advanced")
     const pages = studios.item(studios.length - 1)?.querySelector(".bookPages")
     if (!pages) throw new Error("Contenitore .bookPages assente.")
     document.body.replaceChildren(pages)

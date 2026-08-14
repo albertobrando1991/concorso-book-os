@@ -81,16 +81,16 @@ Leggere tutto il sito dell'ente raramente aiuta. Pagine istituzionali, amministr
 | CONI | Comitato Olimpico Nazionale Italiano, ente pubblico dell'ordinamento sportivo, con funzioni istituzionali sullo sport nazionale, federazioni e attività olimpica. | Ordinamento sportivo, amministrativo, trasparenza, personale, bilanci, attività istituzionali e procedimenti se richiamati. | Confondere sport praticato, federazioni e amministrazione del CONI: in concorso conta il profilo e il bando. |
 | CRI | Organizzazione collegata a soccorso, attività umanitarie, salute, emergenza e rete territoriale; va letta con attenzione sul bando specifico. | Amministrativo, servizi, gestione risorse, protezione dati, contratti, rapporto con utenti e volontari, eventuali profili sanitari o sociali se previsti. | Trattarla automaticamente come EPNE ordinario: occorre verificare natura giuridica, fonte del bando e disciplina di reclutamento. |
 
-La scheda nasce da quattro piani distinti. L’**identità** risponde alla domanda “chi è il soggetto?”. La **funzione** chiarisce quale interesse pubblico cura. Il **profilo** descrive il lavoro del vincitore. Il **programma** determina ciò che la commissione può verificare. Un ente scientifico può cercare un amministrativo; un ente di regolazione può assumere un informatico. Perciò la missione orienta, ma non sostituisce mai profilo e programma.
+La scheda nasce da quattro piani distinti. L'**identità** risponde alla domanda "chi è il soggetto?". La **funzione** chiarisce quale interesse pubblico cura. Il **profilo** descrive il lavoro del vincitore. Il **programma** determina ciò che la commissione può verificare. Un ente scientifico può cercare un amministrativo; un ente di regolazione può assumere un informatico. Perciò la missione orienta, ma non sostituisce mai profilo e programma.
 
-Poi si separano nucleo comune e delta. Il nucleo comune comprende le materie trasversali espressamente richieste, come procedimento, trasparenza, pubblico impiego, contabilità, contratti e competenze digitali. Il delta contiene ciò che dipende dall’ente e dalla posizione: statistica ufficiale per un profilo ISTAT, ordinamento sportivo per CONI, regolazione aeronautica per ENAC. Ogni voce deve ricondursi a una materia, una mansione o una prova.
+Poi si separano nucleo comune e delta. Il nucleo comune comprende le materie trasversali espressamente richieste, come procedimento, trasparenza, pubblico impiego, contabilità, contratti e competenze digitali. Il delta contiene ciò che dipende dall'ente e dalla posizione: statistica ufficiale per un profilo ISTAT, ordinamento sportivo per CONI, regolazione aeronautica per ENAC. Ogni voce deve ricondursi a una materia, una mansione o una prova.
 
-I documenti seguono una gerarchia. Bando e allegati definiscono la procedura; statuto e regolamenti spiegano organizzazione e funzioni quando pertinenti; PIAO, bilanci e amministrazione trasparente forniscono riscontri istituzionali. Una pagina descrittiva orienta, mentre l’atto vigente sostiene le affermazioni puntuali. Non è utile memorizzare nomi, numeri o assetti variabili che il programma non richiede.
+I documenti seguono una gerarchia. Bando e allegati definiscono la procedura; statuto e regolamenti spiegano organizzazione e funzioni quando pertinenti; PIAO, bilanci e amministrazione trasparente forniscono riscontri istituzionali. Una pagina descrittiva orienta, mentre l'atto vigente sostiene le affermazioni puntuali. Non è utile memorizzare nomi, numeri o assetti variabili che il programma non richiede.
 
 > **Da sapere in 5 righe**
 > La missione non coincide con il programma. Prima si identificano soggetto, profilo, prove e materie. Poi si costruiscono core e delta. Gli atti vigenti prevalgono sulle descrizioni generiche. Una buona scheda entra in una pagina e conduce a un risultato allenabile.
 
-**Quiz 1.** Un ente opera in un settore tecnico: occorre studiare automaticamente l’intera disciplina tecnica? A) Sì. B) No, occorre verificare profilo e programma. C) Solo se l’ente è nazionale. **Risposta corretta: B.** Il settore fornisce il contesto; il bando stabilisce contenuti e profondità valutabili.
+**Quiz 1.** Un ente opera in un settore tecnico: occorre studiare automaticamente l'intera disciplina tecnica? A) Sì. B) No, occorre verificare profilo e programma. C) Solo se l'ente è nazionale. **Risposta corretta: B.** Il settore fornisce il contesto; il bando stabilisce contenuti e profondità valutabili.
 
 ## N-FC03-16-02 · ACI ed ENAC: servizi, mobilità e regolazione
 
@@ -106,26 +106,26 @@ ENAC richiede una cautela terminologica: non è ENAV e non è un operatore del t
 
 Se il bando inserisce materie aeronautiche, sicurezza del volo, infrastrutture aeroportuali o regolazione tecnica, quelle aree diventano delta specialistico. In assenza di richiamo espresso, non vanno trasformate nel centro dello studio.
 
-ACI ed ENAC condividono il tema ampio della mobilità, ma non sono intercambiabili. Per ACI la chiave è il rapporto fra attività istituzionali, servizi e utenti; per ENAC è il ruolo amministrativo nel settore dell’aviazione civile, con procedimenti di regolazione, certificazione e vigilanza. Dire soltanto che entrambi riguardano i trasporti non dimostra di aver compreso né il soggetto né il tipo di attività.
+ACI ed ENAC condividono il tema ampio della mobilità, ma non sono intercambiabili. Per ACI la chiave è il rapporto fra attività istituzionali, servizi e utenti; per ENAC è il ruolo amministrativo nel settore dell'aviazione civile, con procedimenti di regolazione, certificazione e vigilanza. Dire soltanto che entrambi riguardano i trasporti non dimostra di aver compreso né il soggetto né il tipo di attività.
 
 | Controllo | ACI | ENAC |
 | --- | --- | --- |
-| Chiave | Servizi e attività legati alla mobilità. | Amministrazione dell’aviazione civile. |
+| Chiave | Servizi e attività legati alla mobilità. | Amministrazione dell'aviazione civile. |
 | Core | Utenti, procedimenti, documenti, risorse. | Procedimenti, controlli, contratti, trasparenza. |
 | Delta | Servizi automobilistici, se richiesti. | Materie aeronautiche, se richieste. |
 | Confusione | Ridurre tutto alle pratiche auto. | Confondere ENAC con ENAV o vettori. |
 
 **Micro-caso.** Marta prepara due selezioni amministrative. Costruisce una base sulle materie presenti in entrambi gli avvisi. Per ACI aggiunge il lessico dei servizi agli automobilisti indicato nel programma; per ENAC, le sole nozioni aeronautiche elencate. Studia il core una volta e non estende il delta per analogia. Gli esempi cambiano, le regole amministrative comuni restano.
 
-L’applicazione al profilo richiede di chiedersi quale attività sarà osservata. Un funzionario giuridico ENAC deve saper collocare competenze, fonti e procedimento; un tecnico può dover conoscere standard specialistici; un amministrativo ACI deve collegare il servizio all’istruttoria, alla documentazione e al rapporto con l’utente. La denominazione dell’ente, da sola, non risolve questa scelta.
+L'applicazione al profilo richiede di chiedersi quale attività sarà osservata. Un funzionario giuridico ENAC deve saper collocare competenze, fonti e procedimento; un tecnico può dover conoscere standard specialistici; un amministrativo ACI deve collegare il servizio all'istruttoria, alla documentazione e al rapporto con l'utente. La denominazione dell'ente, da sola, non risolve questa scelta.
 
-**Domanda da commissario.** Perché non basta dire che ACI ed ENAC “si occupano di mobilità”? Perché la risposta deve distinguere funzioni, destinatari e procedimenti. L’etichetta tematica è un punto di partenza, non un inquadramento istituzionale.
+**Domanda da commissario.** Perché non basta dire che ACI ed ENAC "si occupano di mobilità"? Perché la risposta deve distinguere funzioni, destinatari e procedimenti. L'etichetta tematica è un punto di partenza, non un inquadramento istituzionale.
 
-**Quiz 2.** Quale affermazione è corretta? A) ENAC ed ENAV sono sinonimi. B) ENAC è una compagnia aerea. C) ENAC è l’ente nazionale dell’aviazione civile. **Risposta corretta: C.** Identificare correttamente il soggetto evita di attribuirgli funzioni altrui.
+**Quiz 2.** Quale affermazione è corretta? A) ENAC ed ENAV sono sinonimi. B) ENAC è una compagnia aerea. C) ENAC è l'ente nazionale dell'aviazione civile. **Risposta corretta: C.** Identificare correttamente il soggetto evita di attribuirgli funzioni altrui.
 
 Per il ripasso, prepara due risposte di un minuto. Presenta ACI attraverso funzione, servizi, profilo e procedimento. Con ENAC mantieni profilo e procedimento, ma sostituisci i servizi con la regolazione. Il confronto rende subito visibili core e delta. Due risposte quasi identiche segnalano un delta debole; due risposte senza punti comuni segnalano invece un core duplicato. Il lessico settoriale va usato quando chiarisce competenze o attività, sempre tenendo al centro il ruolo per cui si concorre.
 
-Prima della prova, Marta confronta la scheda con l’ultima versione degli atti richiamati. Corregge denominazioni e riferimenti mutati senza riscrivere l’intero piano. Così aggiorna ciò che serve e lascia fuori le novità estranee al programma.
+Prima della prova, Marta confronta la scheda con l'ultima versione degli atti richiamati. Corregge denominazioni e riferimenti mutati senza riscrivere l'intero piano. Così aggiorna ciò che serve e lascia fuori le novità estranee al programma.
 
 Nel diario degli errori annota anche le attribuzioni confuse: basta una funzione assegnata al soggetto sbagliato per compromettere una risposta altrimenti corretta.
 
@@ -135,7 +135,7 @@ ISTAT è l'ente in cui il confine tra profilo amministrativo e profilo statistic
 
 La trappola è doppia: prepararsi solo su amministrativo, ignorando il lessico statistico; oppure studiare statistica avanzata senza verificare se il profilo la richiede davvero.
 
-Il nucleo istituzionale riguarda produzione e diffusione dell’informazione statistica ufficiale, qualità dei dati e ruolo pubblico dell’Istituto. Per un amministrativo questo quadro si combina con organizzazione, procedimento, personale, contratti, bilancio e trasparenza. Per statistici, ricercatori o informatici diventano centrali metodi e competenze tecniche nella misura indicata dall’avviso. La profondità non può essere dedotta dalla sola sigla ISTAT.
+Il nucleo istituzionale riguarda produzione e diffusione dell'informazione statistica ufficiale, qualità dei dati e ruolo pubblico dell'Istituto. Per un amministrativo questo quadro si combina con organizzazione, procedimento, personale, contratti, bilancio e trasparenza. Per statistici, ricercatori o informatici diventano centrali metodi e competenze tecniche nella misura indicata dall'avviso. La profondità non può essere dedotta dalla sola sigla ISTAT.
 
 | Profilo | Base | Delta da verificare | Output possibile |
 | --- | --- | --- | --- |
@@ -144,20 +144,20 @@ Il nucleo istituzionale riguarda produzione e diffusione dell’informazione sta
 | Informatico | Digitale e sicurezza. | Dati e sistemi richiesti. | Prova tecnica. |
 | Comunicazione | Regole pertinenti. | Diffusione e chiarezza dei dati. | Testo o scenario. |
 
-Protezione dei dati, qualità dell’informazione e trasparenza sono connesse, ma non equivalenti. In prova occorre separarle senza inventare discipline speciali: si espone la finalità istituzionale, si richiamano i principi pertinenti al programma e si spiega come il profilo li traduce in attività. Un elenco di termini statistici privo di contesto non dimostra la stessa comprensione.
+Protezione dei dati, qualità dell'informazione e trasparenza sono connesse, ma non equivalenti. In prova occorre separarle senza inventare discipline speciali: si espone la finalità istituzionale, si richiamano i principi pertinenti al programma e si spiega come il profilo li traduce in attività. Un elenco di termini statistici privo di contesto non dimostra la stessa comprensione.
 
-**Micro-caso.** Paolo vede un avviso ISTAT amministrativo e inizia statistica avanzata. Il programma indica invece diritto amministrativo, contabilità, contratti, inglese e conoscenza dell’Istituto. Paolo corregge la rotta: studia missione, statistica ufficiale, dati e qualità al livello necessario per comprendere l’ente, ma concentra il tempo sulle materie valutate. Se un allegato aggiungesse campionamento o inferenza, quei temi entrerebbero nel delta.
+**Micro-caso.** Paolo vede un avviso ISTAT amministrativo e inizia statistica avanzata. Il programma indica invece diritto amministrativo, contabilità, contratti, inglese e conoscenza dell'Istituto. Paolo corregge la rotta: studia missione, statistica ufficiale, dati e qualità al livello necessario per comprendere l'ente, ma concentra il tempo sulle materie valutate. Se un allegato aggiungesse campionamento o inferenza, quei temi entrerebbero nel delta.
 
 > **Da sapere in 5 righe**
-> ISTAT non implica sempre statistica avanzata. Un lessico minimo su statistica ufficiale, dati e qualità resta necessario. La profondità tecnica deriva dal profilo. L’amministrativo integra la missione nel core giuridico. I documenti istituzionali verificano il quadro, non ampliano il programma senza limite.
+> ISTAT non implica sempre statistica avanzata. Un lessico minimo su statistica ufficiale, dati e qualità resta necessario. La profondità tecnica deriva dal profilo. L'amministrativo integra la missione nel core giuridico. I documenti istituzionali verificano il quadro, non ampliano il programma senza limite.
 
-**Quiz 3.** Qual è la strategia corretta per un profilo ISTAT amministrativo? A) Solo statistica avanzata. B) Solo diritto, ignorando l’ente. C) Core amministrativo, missione e delta espresso. **Risposta corretta: C.** Occorre aderire contemporaneamente al ruolo e al contesto istituzionale.
+**Quiz 3.** Qual è la strategia corretta per un profilo ISTAT amministrativo? A) Solo statistica avanzata. B) Solo diritto, ignorando l'ente. C) Core amministrativo, missione e delta espresso. **Risposta corretta: C.** Occorre aderire contemporaneamente al ruolo e al contesto istituzionale.
 
-Un ulteriore controllo riguarda l’output. Se la prova è a quiz, il candidato deve riconoscere definizioni, distinzioni e attribuzioni corrette. Se è scritta, deve collegare il problema amministrativo alla funzione dell’Istituto senza divagare nella teoria statistica. All’orale deve costruire una sequenza chiara: identità, funzione, profilo, conseguenze operative. L’allenamento cambia forma, mentre la mappa dei contenuti resta la stessa.
+Un ulteriore controllo riguarda l'output. Se la prova è a quiz, il candidato deve riconoscere definizioni, distinzioni e attribuzioni corrette. Se è scritta, deve collegare il problema amministrativo alla funzione dell'Istituto senza divagare nella teoria statistica. All'orale deve costruire una sequenza chiara: identità, funzione, profilo, conseguenze operative. L'allenamento cambia forma, mentre la mappa dei contenuti resta la stessa.
 
-La scheda non è un inventario di pubblicazioni o indicatori. Gli esempi chiariscono che cosa sia l’informazione statistica, ma cambiano nel tempo e non sostituiscono i concetti. Conviene padroneggiare il rapporto fra qualità, affidabilità, diffusione e tutela dei dati, aggiungendo solo gli esempi ufficiali necessari. Anche l’informatica va graduata: le competenze digitali comuni non equivalgono alla progettazione di sistemi o all’analisi avanzata, salvo richiesta del profilo.
+La scheda non è un inventario di pubblicazioni o indicatori. Gli esempi chiariscono che cosa sia l'informazione statistica, ma cambiano nel tempo e non sostituiscono i concetti. Conviene padroneggiare il rapporto fra qualità, affidabilità, diffusione e tutela dei dati, aggiungendo solo gli esempi ufficiali necessari. Anche l'informatica va graduata: le competenze digitali comuni non equivalgono alla progettazione di sistemi o all'analisi avanzata, salvo richiesta del profilo.
 
-Per controllare una risposta orale, poniti tre domande: quale funzione pubblica caratterizza ISTAT; come vi contribuisce il profilo scelto; quali materie del bando dimostrano quel contributo. Passare direttamente dalla sigla a una tecnica statistica fa perdere il collegamento con il ruolo. Fermarsi alle regole amministrative generali cancella invece l’identità dell’Istituto. La risposta deve tenere insieme entrambi i piani, anche quando la commissione propone un caso pratico.
+Per controllare una risposta orale, poniti tre domande: quale funzione pubblica caratterizza ISTAT; come vi contribuisce il profilo scelto; quali materie del bando dimostrano quel contributo. Passare direttamente dalla sigla a una tecnica statistica fa perdere il collegamento con il ruolo. Fermarsi alle regole amministrative generali cancella invece l'identità dell'Istituto. La risposta deve tenere insieme entrambi i piani, anche quando la commissione propone un caso pratico.
 
 ## N-FC03-16-04 · ENEA e ASI: missione tecnico-scientifica e confine del modulo
 
@@ -182,17 +182,17 @@ Il confine tra preparazione amministrativa e specialistica si ricava da mansioni
 | Specialistico | Ricerca o tecnologia secondo bando. | Scienza, ingegneria o ricerca secondo bando. |
 | Rinvio | M-IR03 se prevale la ricerca. | M-IR03 se prevale la ricerca. |
 
-Nel caso amministrativo, il contesto tecnico-scientifico serve a comprendere finalità, interlocutori e oggetto delle attività. Se una prova riguarda l’acquisto di un servizio per un progetto ENEA, il candidato applica le regole sui contratti e sul procedimento previste dal programma; non deve risolvere il problema scientifico. Se la prova ASI chiede invece progettazione o ricerca applicata, il baricentro cambia.
+Nel caso amministrativo, il contesto tecnico-scientifico serve a comprendere finalità, interlocutori e oggetto delle attività. Se una prova riguarda l'acquisto di un servizio per un progetto ENEA, il candidato applica le regole sui contratti e sul procedimento previste dal programma; non deve risolvere il problema scientifico. Se la prova ASI chiede invece progettazione o ricerca applicata, il baricentro cambia.
 
-Luca aveva iniziato dai satelliti: una ricerca plausibile, ma senza uno scopo preciso. Separando materie comuni, amministrazione dell’ente e contenuti spaziali richiesti, riesce a formulare una risposta professionale. Conosce il contesto, ma risponde secondo il ruolo. La matrice funziona anche per ENEA, perché ne conserva missione e lessico essenziale senza ridurla a un ente amministrativo generico.
+Luca aveva iniziato dai satelliti: una ricerca plausibile, ma senza uno scopo preciso. Separando materie comuni, amministrazione dell'ente e contenuti spaziali richiesti, riesce a formulare una risposta professionale. Conosce il contesto, ma risponde secondo il ruolo. La matrice funziona anche per ENEA, perché ne conserva missione e lessico essenziale senza ridurla a un ente amministrativo generico.
 
-**Errore tipico.** Scambiare la complessità della missione con l’ampiezza del programma. Accanto a ogni contenuto scrivi: “serve per quale materia, mansione o prova?”. Se non trovi una risposta verificabile, lascialo in secondo livello.
+**Errore tipico.** Scambiare la complessità della missione con l'ampiezza del programma. Accanto a ogni contenuto scrivi: "serve per quale materia, mansione o prova?". Se non trovi una risposta verificabile, lascialo in secondo livello.
 
-**Quiz 4.** M-FC03 basta per un concorso ENEA da ricercatore? A) Sì. B) No: offre l’inquadramento, ma servono M-IR03 e programma specialistico. C) Sì, conoscendo il diritto amministrativo. **Risposta corretta: B.** Mansioni e prove richiedono una copertura tecnico-scientifica ulteriore.
+**Quiz 4.** M-FC03 basta per un concorso ENEA da ricercatore? A) Sì. B) No: offre l'inquadramento, ma servono M-IR03 e programma specialistico. C) Sì, conoscendo il diritto amministrativo. **Risposta corretta: B.** Mansioni e prove richiedono una copertura tecnico-scientifica ulteriore.
 
-Per consolidare il confine, si può usare una matrice a due assi: sull’asse orizzontale la natura delle mansioni, da amministrativa a scientifica; su quello verticale la specializzazione delle prove, da generale a tecnica. Un profilo collocato in alto a destra richiede chiaramente M-IR03; uno in basso a sinistra resta nel percorso amministrativo. Le posizioni intermedie vanno risolte leggendo allegati e criteri di valutazione. La matrice non sostituisce il bando, ma rende esplicito il ragionamento e impedisce che una singola parola, come “progetto” o “tecnologia”, determini da sola il piano.
+Per consolidare il confine, si può usare una matrice a due assi: sull'asse orizzontale la natura delle mansioni, da amministrativa a scientifica; su quello verticale la specializzazione delle prove, da generale a tecnica. Un profilo collocato in alto a destra richiede chiaramente M-IR03; uno in basso a sinistra resta nel percorso amministrativo. Le posizioni intermedie vanno risolte leggendo allegati e criteri di valutazione. La matrice non sostituisce il bando, ma rende esplicito il ragionamento e impedisce che una singola parola, come "progetto" o "tecnologia", determini da sola il piano.
 
-Va evitato anche l’estremo opposto: ENEA e ASI non sono amministrazioni generiche. Chi concorre per un profilo amministrativo deve comunque conoscerne missione, contesto e principali categorie di attività indicate dalle fonti istituzionali. Potrà così scegliere esempi coerenti e spiegare il rilievo di procedure, contratti o programmi, senza invadere il terreno dello specialista.
+Va evitato anche l'estremo opposto: ENEA e ASI non sono amministrazioni generiche. Chi concorre per un profilo amministrativo deve comunque conoscerne missione, contesto e principali categorie di attività indicate dalle fonti istituzionali. Potrà così scegliere esempi coerenti e spiegare il rilievo di procedure, contratti o programmi, senza invadere il terreno dello specialista.
 
 ## N-FC03-16-05 · CONI e CRI: ordinamento, servizi e cautela
 
@@ -208,25 +208,25 @@ CRI richiede una formulazione prudente. Nel modulo M-FC03 compare come ente di o
 
 Il contenuto utile, in chiave concorsuale, riguarda servizi, emergenza, attività umanitarie, gestione amministrativa, rapporti con utenti, volontariato, privacy, contratti e organizzazione territoriale, nella misura in cui il bando li richiama.
 
-Per CONI la distinzione decisiva è fra sport praticato, soggetti dell’ordinamento sportivo e amministrazione dell’ente. Conoscere competizioni e risultati non dimostra competenza concorsuale. Occorre collocare il Comitato, comprenderne le funzioni istituzionali e applicare le materie amministrative alla sua attività. Statuto e regolamenti diventano centrali quando il bando li richiama; altrimenti si evita di accumulare dettagli organizzativi variabili.
+Per CONI la distinzione decisiva è fra sport praticato, soggetti dell'ordinamento sportivo e amministrazione dell'ente. Conoscere competizioni e risultati non dimostra competenza concorsuale. Occorre collocare il Comitato, comprenderne le funzioni istituzionali e applicare le materie amministrative alla sua attività. Statuto e regolamenti diventano centrali quando il bando li richiama; altrimenti si evita di accumulare dettagli organizzativi variabili.
 
 Per CRI la cautela viene prima ancora della selezione delle materie. La scheda deve riportare la denominazione completa del soggetto banditore, la natura indicata negli atti, la fonte di pubblicazione e il contratto applicato. Solo dopo costruisce il piano su servizi, risorse, dati personali, contratti, utenti, volontariato ed eventuali materie sanitarie o sociali. La missione umanitaria non determina da sola il regime del rapporto.
 
 | Ente | Punto fermo | Verifica indispensabile | Errore |
 | --- | --- | --- | --- |
-| CONI | Funzione nell’ordinamento sportivo. | Profilo e atti richiamati. | Studiare sport come cronaca. |
+| CONI | Funzione nell'ordinamento sportivo. | Profilo e atti richiamati. | Studiare sport come cronaca. |
 | CRI | Missione umanitaria e di servizio. | Soggetto, natura, reclutamento, contratto. | Presumere un EPNE ordinario. |
 
 **Domanda-trappola.** Poiché CRI compare in questa appendice, ogni suo bando segue automaticamente le regole degli EPNE? No. La collocazione didattica orienta, ma non sostituisce la qualificazione risultante dagli atti della procedura. Una risposta corretta distingue ciò che è accertato da ciò che deve essere verificato.
 
-Nel profilo amministrativo CONI, il core può integrarsi con l’ordinamento sportivo richiesto. In una selezione CRI, le materie comuni si riusano solo se coerenti con programma e regime indicato. Un profilo sanitario o sociale richiede invece competenze settoriali. In entrambi i casi la missione offre esempi, ma non cancella la professionalità ricercata.
+Nel profilo amministrativo CONI, il core può integrarsi con l'ordinamento sportivo richiesto. In una selezione CRI, le materie comuni si riusano solo se coerenti con programma e regime indicato. Un profilo sanitario o sociale richiede invece competenze settoriali. In entrambi i casi la missione offre esempi, ma non cancella la professionalità ricercata.
 
 > **Da sapere in 5 righe**
 > CONI si studia come istituzione, non attraverso la cronaca sportiva. Per CRI si verifica prima il perimetro giuridico e contrattuale. Il profilo determina la profondità. Bando e atti richiamati prevalgono sulle etichette. Le informazioni variabili vanno controllate vicino alla prova.
 
-**Quiz 5.** Qual è il primo controllo per un avviso CRI? A) Memorizzare tutte le attività umanitarie. B) Verificare soggetto, natura, reclutamento e contratto. C) Applicare automaticamente il regime EPNE. **Risposta corretta: B.** Senza tale controllo l’intero piano può poggiare su una qualificazione non dimostrata.
+**Quiz 5.** Qual è il primo controllo per un avviso CRI? A) Memorizzare tutte le attività umanitarie. B) Verificare soggetto, natura, reclutamento e contratto. C) Applicare automaticamente il regime EPNE. **Risposta corretta: B.** Senza tale controllo l'intero piano può poggiare su una qualificazione non dimostrata.
 
-All’orale, prudenza non significa vaghezza. Per CONI si chiarisce il ruolo istituzionale e si sviluppano gli aspetti richiesti. Per CRI si espongono i dati dello specifico avviso, senza qualificazioni automatiche. Una formula utile è: “Nel perimetro della procedura considerata, l’atto indica…; da ciò derivano queste materie e questi controlli”. La risposta distingue le fonti e non riempie le lacune con supposizioni.
+All'orale, prudenza non significa vaghezza. Per CONI si chiarisce il ruolo istituzionale e si sviluppano gli aspetti richiesti. Per CRI si espongono i dati dello specifico avviso, senza qualificazioni automatiche. Una formula utile è: "Nel perimetro della procedura considerata, l'atto indica…; da ciò derivano queste materie e questi controlli". La risposta distingue le fonti e non riempie le lacune con supposizioni.
 
 La stessa disciplina vale nello scritto: ogni conclusione deve essere ancorata ai dati del caso e non a una classificazione ricordata in astratto.
 
@@ -286,7 +286,7 @@ La scheda si compila in tre passate. Nella prima si trascrivono gli elementi del
 
 **Caso ragionato finale.** Sara valuta tre avvisi: funzionario amministrativo ENAC, collaboratore amministrativo ISTAT e profilo tecnico ASI. Costruisce il core solo sulle materie davvero condivise. Per ENAC annota la regolazione aeronautica nei limiti richiesti. Per ISTAT inserisce missione, statistica ufficiale e dati a livello amministrativo. Nel bando ASI legge requisiti e prova; verificata la prevalenza tecnica, rinvia a M-IR03. A ogni avviso assegna un output diverso: caso procedimentale, risposta istituzionale o matrice delle competenze tecniche. Il core non viene duplicato e i tre profili restano distinti.
 
-**Rubrica.** Valuta la scheda da 0 a 2 punti per ciascun criterio: corretta identità del soggetto; aderenza alle parole del bando; separazione core/delta; coerenza dell’output. Sotto 6 punti, rileggi bando e allegati prima di aggiungere materiali. Una scheda lunga ma priva di collegamenti con le prove non supera la valutazione.
+**Rubrica.** Valuta la scheda da 0 a 2 punti per ciascun criterio: corretta identità del soggetto; aderenza alle parole del bando; separazione core/delta; coerenza dell'output. Sotto 6 punti, rileggi bando e allegati prima di aggiungere materiali. Una scheda lunga ma priva di collegamenti con le prove non supera la valutazione.
 
 **Quiz 6.** Quale scheda è più utile? A) Quella più lunga. B) Quella che collega ogni contenuto a profilo, materia e prova. C) Quella copiata dal sito. **Risposta corretta: B.** La qualità deriva dalla selezione motivata, non dalla quantità.
 

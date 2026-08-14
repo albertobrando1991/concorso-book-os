@@ -34,6 +34,7 @@ interface BookStudioPanelProps {
   writerProvider: WriterProvider
   writerModel: string
   writerReasoningEffort: string
+  sectionId?: string
 }
 
 interface WriterResult {
@@ -91,7 +92,8 @@ export function BookStudioPanel({
   initialChapterPath,
   writerProvider,
   writerModel,
-  writerReasoningEffort
+  writerReasoningEffort,
+  sectionId = "studio"
 }: BookStudioPanelProps) {
   const [{ data, selectedPath }, setBookStudioPayloadState] = useState(() => ({
     data: initialData,
@@ -411,7 +413,7 @@ export function BookStudioPanel({
   }
 
   return (
-    <section className="bookStudioPanel" id="studio">
+    <section className="bookStudioPanel" id={sectionId}>
       <header>
         <div>
           <span className="panelKicker">Book Studio</span>

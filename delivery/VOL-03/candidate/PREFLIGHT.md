@@ -18,7 +18,7 @@ tags: ["vol-03", "pipeline-step-22", "preflight", "pdf", "kdp"]
 
 ## Esito
 
-**PASS — preflight manuale completato.** Il candidato finale è stato rigenerato dalla build validata del 12 agosto 2026. L'audit DOM completo registra 819 pagine stabili, numerazione progressiva, 0 anomalie bloccanti e 14 note non bloccanti riesaminate: tre continuazioni dell'indice completo, nove spazi pagina prodotti da blocchi indivisibili e due frammenti di paragrafo senza overflow. Il PDF rispetta il limite KDP di 828 pagine e il trim 6,69 × 9,61 pollici.
+**PASS — preflight manuale completato.** Il candidato finale è stato rigenerato dalla build validata del 12 agosto 2026. L'audit DOM completo registra 818 pagine stabili, numerazione progressiva, 0 anomalie bloccanti e 14 note non bloccanti riesaminate: tre continuazioni dell'indice completo, nove spazi pagina prodotti da blocchi indivisibili e due frammenti di paragrafo senza overflow. Il PDF rispetta il limite KDP di 828 pagine e il trim 6,69 × 9,61 pollici.
 ## Checklist pass/fail
 
 | Controllo | Esito | Evidenza e comando o verifica usata |
@@ -27,10 +27,10 @@ tags: ["vol-03", "pipeline-step-22", "preflight", "pdf", "kdp"]
 | Link wiki | PASS | Audit editoriale step 21 e test `book-preview`/`text-volumes`: composizione del volume risolta; nessun link interno reader-inaccessibile residuo. |
 | `source_refs` | PASS | Audit step 21: 100 riferimenti unici e 0 target mancanti nel corpus del volume. |
 | Frontmatter | PASS | Test `frontmatter.test.ts` e scansione step 21; 59 sezioni caricate dal Book Studio. |
-| Asset path | PASS | Book Studio: 140 asset dichiarati; audit DOM su 819 pagine, 0 immagini mancanti. |
+| Asset path | PASS | Book Studio: 140 asset dichiarati; audit DOM su 818 pagine, 0 immagini mancanti. |
 | File mancanti | PASS | API Book Studio caricata con 59 sezioni; indici, capitoli e front matter presenti. |
 | Immagini duplicate | PASS | Audit editoriale step 21: nessun duplicato bloccante; 70 riferimenti Markdown M-FC02 su 140 asset disponibili. |
-| Tabelle anomale | PASS | Audit geometrico DOM: 0 tabelle fuori area utile su 819 pagine. |
+| Tabelle anomale | PASS | Audit geometrico DOM: 0 tabelle fuori area utile su 818 pagine. |
 | Caratteri corrotti | PASS | Scansione UTF-8 del corpus eseguita nello step 21: 0 marker di mojibake bloccanti. |
 | `git diff --check` | PASS | Nessun errore di whitespace; solo avviso di futura normalizzazione CRLF sullo script di export. |
 | Test pertinenti | PASS | 6 file mirati, 178 test passati; suite completa 428/429 con unico timeout estraneo VOL-07, poi test isolato passato 2/2. |
@@ -38,12 +38,12 @@ tags: ["vol-03", "pipeline-step-22", "preflight", "pdf", "kdp"]
 | Build | PASS | `npm run build`: Next.js 15.5.18, compilazione riuscita e 20/20 pagine statiche generate. |
 | Export PDF | PASS tecnico | `npm run export:volume-pdf` con `BOOK_STUDIO_BOOK_ID=volumi/vol-03`: PDF generato; lo script è stato riallineato alla modalità dashboard `advanced=1` e al pannello Book Studio effettivo. |
 | Font incorporati | PASS | Ispezione struttura PDF: 12 riferimenti FontDescriptor e 5 stream FontFile; nessuna risorsa font esterna richiesta dal file. |
-| Dimensione pagina | PASS | 819/819 pagine con MediaBox 481,92 × 691,92 pt, equivalenti a 6,69 × 9,61 pollici; assenza di CropBox esplicito, quindi il MediaBox è il box pagina effettivo. |
+| Dimensione pagina | PASS | 818/818 pagine con MediaBox 481,92 × 691,92 pt, equivalenti a 6,69 × 9,61 pollici; assenza di CropBox esplicito, quindi il MediaBox è il box pagina effettivo. |
 | Bleed | PASS | Nessun BleedBox o CropBox separato; profilo PDF basato sul MediaBox, senza bleed. |
 | Margini | PASS | Audit DOM: 0 anomalie; margini speculari 23/13 mm e 18 mm sopra/sotto. |
-| Conteggio pagine | PASS | DOM stabile e PDF: 819 pagine, numerazione progressiva, entro il limite KDP di 828 pagine. |
+| Conteggio pagine | PASS | DOM stabile e PDF: 818 pagine, numerazione progressiva, entro il limite KDP di 828 pagine. |
 | Overflow e raw Markdown | PASS | Audit DOM: 0 overflow, 0 raw Markdown, 0 immagini mancanti. |
-| Hash PDF | PASS | SHA-256 `357B144AE867BDED32195D75E47DC24A4898B180E6D91EC5AAD0C4EFB6234884`; 9.517.620 byte. |
+| Hash PDF | PASS | SHA-256 `E1FF1F94398626924C3F8909F4997CF13174669907804B797CEF3C8ED63C82C6`; 9.500.440 byte (rigenerato 2026-08-14 dai sorgenti post-revisione accenti e normalizzazione virgolette; 818 pagine). |
 | KDP Previewer | NON ESEGUITO | `KDP_PREVIEWER_NOT_INSTALLED`; nessun warning esterno è stato simulato o dichiarato verde. |
 
 ## Blocker da chiudere
@@ -58,8 +58,8 @@ tags: ["vol-03", "pipeline-step-22", "preflight", "pdf", "kdp"]
 ## Candidato tecnico finale
 
 - File: `delivery/VOL-03/candidate/vol-03-interior-kdp.pdf`
-- Pagine: 819
+- Pagine: 818
 - Trim: 6,69 × 9,61 pollici
 - Bleed: assente
-- SHA-256: `357B144AE867BDED32195D75E47DC24A4898B180E6D91EC5AAD0C4EFB6234884`
+- SHA-256: `E1FF1F94398626924C3F8909F4997CF13174669907804B797CEF3C8ED63C82C6`
 - Stato: **candidato tecnico conforme al preflight manuale**; resta la preparazione della consegna dello step 23 e la conferma umana dello step 24.

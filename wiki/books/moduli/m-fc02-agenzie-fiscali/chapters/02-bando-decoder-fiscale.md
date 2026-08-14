@@ -43,7 +43,7 @@ Scheda Bando Decoder compilabile, griglia priorità, schema "studio subito/studi
 
 ## Dal bando al piano di studio
 
-Il Bando Decoder generale del Metodo BANDO diventa qui uno strumento specialistico per Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione. La scheda collega le informazioni del bando alle priorità' di studio e agli output di allenamento.
+Il Bando Decoder generale del Metodo BANDO diventa qui uno strumento specialistico per Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli e Agenzia delle Entrate-Riscossione. La scheda collega le informazioni del bando alle priorità di studio e agli output di allenamento.
 
 ## Percorso operativo
 
@@ -69,7 +69,7 @@ In particolare, devi saper:
 - classificare le materie in "studio subito", "studio dopo" e "verifico sul bando";
 - trasformare la lettura del bando in output: quiz, risposta scritta, caso, orale, glossario, diario errori o checklist.
 
-Il risultato non è una bella scheda compilata. Il risultato è una prima settimana di studio più' lucida.
+Il risultato non è una bella scheda compilata. Il risultato è una prima settimana di studio più lucida.
 
 ### Cosa cambia rispetto al Decoder generale
 
@@ -107,7 +107,7 @@ Se un dato non è chiaro, non riempire il campo a memoria. Scrivi `da verificare
 
 #### 2. Non dedurre il profilo solo dal nome dell'ente
 
-Il fatto che il bando sia collegato ad AE, ADM o AdER non basta. Conta il profilo. Un concorso presso una Agenzia fiscale può' avere baricentro tributario, doganale, riscossione, tecnico, digitale, gestionale, appalti o altro.
+Il fatto che il bando sia collegato ad AE, ADM o AdER non basta. Conta il profilo. Un concorso presso una Agenzia fiscale può avere baricentro tributario, doganale, riscossione, tecnico, digitale, gestionale, appalti o altro.
 
 Il modulo M-FC02 è principale quando il centro è fiscale. Diventa supporto quando il centro è un'altra funzione.
 
@@ -125,7 +125,7 @@ Le materie M-FC02 sono quelle che danno forma al profilo: tributario, accertamen
 
 #### 5. Ogni riga deve produrre un output
 
-Una riga del Decoder non è completa finche' non genera un'azione. Se scrivi "prova a quiz", devi prevedere quiz a tempo e diario errori. Se scrivi "orale", devi prevedere risposte da due minuti. Se scrivi "dogane", devi prevedere glossario specialistico. Se scrivi "riscossione", devi prevedere mappe procedurali e casi di sportello.
+Una riga del Decoder non è completa finché non genera un'azione. Se scrivi "prova a quiz", devi prevedere quiz a tempo e diario errori. Se scrivi "orale", devi prevedere risposte da due minuti. Se scrivi "dogane", devi prevedere glossario specialistico. Se scrivi "riscossione", devi prevedere mappe procedurali e casi di sportello.
 
 ### Pagina 1 - Identità fiscale del bando
 
@@ -142,7 +142,7 @@ Compila questa pagina appena apri il bando.
 | Scadenze | Domanda, avvisi, calendario prove se disponibili. |
 | Canali da monitorare | Sito ente, inPA, pagina concorsi, comunicazioni indicate nel bando. |
 
-Il campo più' importante è "Famiglia M-FC02". Se resta vago, il piano sarà' vago. Scrivi una classificazione provvisoria, poi correggila quando leggi programma e prove.
+Il campo più importante è "Famiglia M-FC02". Se resta vago, il piano sarà vago. Scrivi una classificazione provvisoria, poi correggila quando leggi programma e prove.
 
 ### Pagina 2 - Lettura del codice profilo
 
@@ -181,7 +181,7 @@ Nei concorsi fiscali, la forma della prova cambia il modo di studiare la stessa 
 | Scritto teorico o risposta sintetica | Serve costruire definizione, funzione, riferimento, esempio e chiusura. | Schemi di risposta per materie killer. |
 | Teorico-pratica o caso | Serve ragionare su soggetti, procedimento, documento, vincolo e decisione. | Griglia caso fiscale. |
 | Orale | Serve spiegare con ordine e collegare materia comune e funzione fiscale. | Risposte da due minuti e domande da commissario. |
-| Prova situazionale o competenze trasversali | Serve rispondere con legalità, servizio, imparzialita, riservatezza e responsabilità. | Gerarchia di scelta e casi comportamentali. |
+| Prova situazionale o competenze trasversali | Serve rispondere con legalità, servizio, imparzialità, riservatezza e responsabilità. | Gerarchia di scelta e casi comportamentali. |
 | Titoli o esperienze | Serve controllare documenti e dichiarazioni. | Checklist titoli e ricevute. |
 
 Se la prova è a quiz, non basta leggere tributario. Devi trasformarlo in domande, definizioni, differenze e trappole. Se la prova è orale, non basta sapere la disciplina: devi saperla spiegare come funzionario o addetto che comprende il contesto dell'ente.
@@ -217,7 +217,7 @@ Dopo aver letto il programma, compila la griglia.
 |  | Verifico sul bando | Campo dubbio, rinvio, allegato o materia descritta in modo ambiguo. |  |
 |  | Verifico sul bando |  |  |
 
-La classificazione va fatta con severita. Se tutto è "studio subito", il Decoder non sta funzionando. Studiare subito significa proteggere i nuclei che, senza una base iniziale, rendono fragile tutto il resto.
+La classificazione va fatta con severità. Se tutto è "studio subito", il Decoder non sta funzionando. Studiare subito significa proteggere i nuclei che, senza una base iniziale, rendono fragile tutto il resto.
 
 ### Schema "studio subito / studio dopo / verifico sul bando"
 
@@ -230,7 +230,7 @@ Usa questo schema come filtro finale.
 | Verifico sul bando | Il dato dipende da allegati, codici profilo, comunicazioni o testo puntuale. | Sigle profilo, programmi separati per codice, banca dati, prova situazionale, titoli, date, soglie. |
 | Rinvio ad altro modulo | Il baricentro non è fiscale. | ICT, appalti, tecnico-ingegneristico puro, EPNE non fiscali. |
 
-Questa tabella è utile soprattutto quando il tempo è poco. Non risolve il problema al posto tuo, ma ti impedisce di chiamare "priorità" tutto ciò' che ti mette ansia.
+Questa tabella è utile soprattutto quando il tempo è poco. Non risolve il problema al posto tuo, ma ti impedisce di chiamare "priorità" tutto ciò che ti mette ansia.
 
 ![Figura 2.4 - Priorità di studio nel bando fiscale: studio subito, studio dopo, verifico sul bando o rinvio ad altro modulo.](../assets/chapter-02/04-priorita-studio-fiscale.png)
 
@@ -284,13 +284,13 @@ Per ADM il Decoder deve chiedere:
 | Rischio | Studiare diritto tributario interno ignorando il vocabolario doganale e regolatorio. |
 | Output | Glossario ADM, schemi per differenze, quiz mirati, domande orali su funzione e controlli. |
 
-L'output più' utile nelle prime settimane è spesso un glossario ragionato. Non un elenco di parole, ma una tabella con termine, funzione, esempio di domanda e rischio di confusione.
+L'output più utile nelle prime settimane è spesso un glossario ragionato. Non un elenco di parole, ma una tabella con termine, funzione, esempio di domanda e rischio di confusione.
 
 ### Come leggere un bando per assistenti ADM
 
-Per gli assistenti ADM il Decoder deve mantenere un taglio ancora più' operativo. Il candidato deve chiedersi: il bando sta cercando un profilo amministrativo-tributario, un supporto operativo, un profilo tecnico o altro?
+Per gli assistenti ADM il Decoder deve mantenere un taglio ancora più operativo. Il candidato deve chiedersi: il bando sta cercando un profilo amministrativo-tributario, un supporto operativo, un profilo tecnico o altro?
 
-Se il programma ha baricentro amministrativo-tributario, M-FC02 resta modulo principale. Se invece il profilo è tecnico, informatico o logistico, il modulo fiscale può' diventare solo cornice.
+Se il programma ha baricentro amministrativo-tributario, M-FC02 resta modulo principale. Se invece il profilo è tecnico, informatico o logistico, il modulo fiscale può diventare solo cornice.
 
 Nel caso assistenti, il primo ciclo di studio deve essere molto concreto:
 
@@ -361,13 +361,13 @@ Luca non apre subito tre manuali. Compila tre Decoder.
 
 Nel primo Decoder scrive: ente AE, famiglia AE tributario, nucleo fiscale centrale. Le materie comuni restano importanti, ma il primo ciclo deve includere subito diritto tributario, accertamento, adempimenti e domande applicative. Il rischio è arrivare al tributario dopo settimane di studio generale.
 
-Nel secondo Decoder scrive: ente ADM, famiglia da verificare tra amministrativo-tributario e assistenti ADM. Cerca nel bando se compaiono dogane, accise, giochi, monopoli e controlli. Se compaiono, il primo output è un glossario specialistico più' quiz mirati. Il rischio è copiare il piano AE e ignorare il lessico ADM.
+Nel secondo Decoder scrive: ente ADM, famiglia da verificare tra amministrativo-tributario e assistenti ADM. Cerca nel bando se compaiono dogane, accise, giochi, monopoli e controlli. Se compaiono, il primo output è un glossario specialistico più quiz mirati. Il rischio è copiare il piano AE e ignorare il lessico ADM.
 
 Nel terzo Decoder scrive: ente AdER, famiglia riscossione. Il nucleo non è l'accertamento, ma la gestione del credito in fase di riscossione e il rapporto con il contribuente-debitore. Il primo output è una mappa procedurale con cartella, pagamento, rateizzazione, sospensione e canali di relazione.
 
 ![Figura 2.5 - Caso guidato dei tre Decoder fiscali: tre bandi richiedono tre letture diverse per AE, ADM e AdER.](../assets/chapter-02/05-caso-tre-decoder-fiscali.png)
 
-Dopo due ore Luca non ha ancora studiato pagine di teoria. Pero' ha evitato l'errore più' costoso: trattare tre bandi fiscali come se fossero lo stesso concorso.
+Dopo due ore Luca non ha ancora studiato pagine di teoria. Però ha evitato l'errore più costoso: trattare tre bandi fiscali come se fossero lo stesso concorso.
 
 ### Da sapere in 5 righe
 
@@ -379,23 +379,23 @@ Dopo due ore Luca non ha ancora studiato pagine di teoria. Pero' ha evitato l'er
 
 ### Domanda da commissario
 
-**Domanda.** Perché' nei concorsi delle Agenzie fiscali non basta copiare l'elenco delle materie dal bando?
+**Domanda.** Perché nei concorsi delle Agenzie fiscali non basta copiare l'elenco delle materie dal bando?
 
-**Risposta guida.** Perché' l'elenco delle materie non mostra da solo il baricentro del profilo. Il candidato deve collegare ente, codice profilo, prove e programma. In Agenzia delle Entrate il profilo può' essere tributario o territorio/SPI; in ADM può' riguardare dogane, accise, giochi o monopoli; in AdER il centro è la riscossione. Le materie comuni restano necessarie, ma devono essere integrate con il delta fiscale che il bando rende decisivo. Il Bando Decoder serve a trasformare questa lettura in priorità di studio e output di allenamento.
+**Risposta guida.** Perché l'elenco delle materie non mostra da solo il baricentro del profilo. Il candidato deve collegare ente, codice profilo, prove e programma. In Agenzia delle Entrate il profilo può essere tributario o territorio/SPI; in ADM può riguardare dogane, accise, giochi o monopoli; in AdER il centro è la riscossione. Le materie comuni restano necessarie, ma devono essere integrate con il delta fiscale che il bando rende decisivo. Il Bando Decoder serve a trasformare questa lettura in priorità di studio e output di allenamento.
 
 ### Domanda-trappola
 
 **Domanda.** Se nel bando compare diritto tributario, il concorso rientra sempre nel modulo M-FC02 come modulo principale?
 
-**Risposta corretta.** No. Diritto tributario può' essere materia centrale, materia di supporto o materia accessoria. M-FC02 è modulo principale quando il profilo ha baricentro fiscale: AE tributario, territorio/SPI, ADM fiscale, assistenti ADM con programma amministrativo-tributario o AdER riscossione. Se il bando è ICT, appalti, tecnico o di altro ente non fiscale, il tributario può' essere un contenuto da studiare, ma non decide necessariamente il modulo guida.
+**Risposta corretta.** No. Diritto tributario può essere materia centrale, materia di supporto o materia accessoria. M-FC02 è modulo principale quando il profilo ha baricentro fiscale: AE tributario, territorio/SPI, ADM fiscale, assistenti ADM con programma amministrativo-tributario o AdER riscossione. Se il bando è ICT, appalti, tecnico o di altro ente non fiscale, il tributario può essere un contenuto da studiare, ma non decide necessariamente il modulo guida.
 
-**Perché' è una trappola.** La domanda confonde una materia con una famiglia concorsuale. Il modulo si sceglie sulla funzione del profilo, non su una singola parola del programma.
+**Perché è una trappola.** La domanda confonde una materia con una famiglia concorsuale. Il modulo si sceglie sulla funzione del profilo, non su una singola parola del programma.
 
 ### Errore tipico
 
 L'errore tipico è compilare il Decoder solo dopo aver iniziato a studiare.
 
-Il candidato scarica il bando, riconosce qualche materia familiare e comincia dal materiale che possiede già'. Dopo due settimane scopre che il codice profilo richiedeva un nucleo specialistico diverso, oppure che la prova decisiva non era quella immaginata, oppure che serviva un modulo tecnico/digitale/appalti come percorso principale.
+Il candidato scarica il bando, riconosce qualche materia familiare e comincia dal materiale che possiede già. Dopo due settimane scopre che il codice profilo richiedeva un nucleo specialistico diverso, oppure che la prova decisiva non era quella immaginata, oppure che serviva un modulo tecnico/digitale/appalti come percorso principale.
 
 La correzione è netta: il Decoder fiscale si compila prima del piano settimanale. Non deve essere perfetto, ma deve essere scritto. Dove non sai, scrivi `da verificare`. Dove hai una certezza, trasformala in azione.
 
@@ -418,7 +418,7 @@ Prendi un bando reale o simulato di AE, ADM o AdER e compila solo questi dieci c
 
 Poi scrivi una frase:
 
-> In questo bando devo studiare subito _____ perché' _____; posso studiare dopo _____; devo verificare sul bando _____.
+> In questo bando devo studiare subito _____ perché _____; posso studiare dopo _____; devo verificare sul bando _____.
 
 Se non riesci a completare la frase, il bando non è ancora stato decodificato.
 
@@ -451,7 +451,7 @@ I bandi rappresentativi 2023-2026 sono usati per orientare profili, prove e peri
 ### Note di review
 
 - Verificare sui bandi ufficiali vivi il significato puntuale delle sigle profilo, in particolare quando compaiono codici separati per area, sede, famiglia o prova.
-- Controllare che gli esempi TRIB, SPI, FT, ADM/FAMM, assistenti ADM e AdER restino coerenti con le denominazioni effettive dei bandi più' recenti prima della pubblicazione.
+- Controllare che gli esempi TRIB, SPI, FT, ADM/FAMM, assistenti ADM e AdER restino coerenti con le denominazioni effettive dei bandi più recenti prima della pubblicazione.
 - Integrare, se disponibili in wiki, esempi compilati reali ma anonimizzati per AE, ADM e AdER.
 - Mantenere il rinvio a M-TR01, M-TR02, M-TR03 e M-FC03 quando il bando fiscale ha baricentro digitale, appalti, tecnico o non fiscale.
 - Valutare in impaginazione se la scheda Bando Decoder fiscale deve diventare una pagina workbook a piena larghezza o un allegato stampabile.

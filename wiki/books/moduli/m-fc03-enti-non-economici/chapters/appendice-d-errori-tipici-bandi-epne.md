@@ -101,7 +101,7 @@ Ogni elemento fornisce informazioni diverse. Il portale indica il percorso di co
 | Ente | Dove è collocato il posto? | Scegliere la famiglia sbagliata. |
 | Profilo | Quale lavoro e quali prove? | Studiare tutta la missione dell'ente. |
 
-**Micro-caso.** Davide trova su inPA una procedura gestita con il supporto di Formez e posti presso più amministrazioni. Annota soltanto “concorso inPA-RIPAM” e compra un corso generico. La scheda corretta separa invece canale, gestore, amministrazione scelta e codice profilo. Solo dopo Davide confronta materie e prove. Lo stesso avviso può richiedere piani diversi per destinazioni o profili diversi.
+**Micro-caso.** Davide trova su inPA una procedura gestita con il supporto di Formez e posti presso più amministrazioni. Annota soltanto "concorso inPA-RIPAM" e compra un corso generico. La scheda corretta separa invece canale, gestore, amministrazione scelta e codice profilo. Solo dopo Davide confronta materie e prove. Lo stesso avviso può richiedere piani diversi per destinazioni o profili diversi.
 
 In prova, questa distinzione compare anche in forma indiretta. Un quesito può chiedere di individuare la fonte pertinente; un caso può presentare una comunicazione apparsa su un canale diverso da quello che il candidato sta monitorando. All'orale può essere richiesto di spiegare perché il nome dell'ente non basta a determinare le materie. La risposta ordinata segue la sequenza fonte, soggetti, profilo, prove e conseguenze sul piano.
 
@@ -157,7 +157,7 @@ La classificazione evita due errori opposti. Nel primo, il candidato ricompra e 
 
 Il bando RIPAM/INAIL 2024 per 308 unità mostra una combinazione concreta di materie e forme di prova, ma resta circoscritto a quella procedura. È utile per imparare a classificare, non per prevedere il programma futuro. Numeri, distribuzione dei quesiti e materie devono essere ricontrollati ogni volta.
 
-All'orale, una buona risposta spiega prima il criterio e poi applica le etichette. Nel caso pratico, il candidato giustifica perché riusa una materia, aggiunge un delta o attiva un rinvio. L'errore tipico è associare “integrativa” a “facoltativa”: se compare nel programma, va preparata; l'aggettivo indica la collocazione nel sistema, non la possibilità di ignorarla.
+All'orale, una buona risposta spiega prima il criterio e poi applica le etichette. Nel caso pratico, il candidato giustifica perché riusa una materia, aggiunge un delta o attiva un rinvio. L'errore tipico è associare "integrativa" a "facoltativa": se compare nel programma, va preparata; l'aggettivo indica la collocazione nel sistema, non la possibilità di ignorarla.
 
 **Quiz 2.** Che cosa indica il delta EPNE? A) Tutte le materie del bando. B) La specializzazione che M-FC03 aggiunge al core. C) Una materia facoltativa. **Risposta corretta: B.** Il delta completa la base nel contesto dell'ente e va dimensionato sulle prove.
 
@@ -193,11 +193,11 @@ Correzione: ogni dato instabile deve avere tre campi.
 | --- | --- | --- |
 | | | |
 
-Se non puoi compilare questi tre campi, scrivi “da verificare”.
+Se non puoi compilare questi tre campi, scrivi "da verificare".
 
 La data di consultazione non rende vero un dato: documenta quando lo hai controllato. La fonte deve essere identificabile e pertinente. Una notizia che riassume un avviso può segnalare che esiste un aggiornamento, ma non sostituisce il documento ufficiale. Quando due comunicazioni sembrano divergere, non scegliere quella più conveniente: ricostruisci successione, oggetto e ambito.
 
-**Esempio.** Un avviso cambia la sede della prova ma non il programma. Nel registro, la colonna “che cosa cambia” riporta logistica, non materia. Il candidato aggiorna viaggio e orario, senza riscrivere il piano didattico. Se invece un allegato rettifica il programma, ricalcola le priorità e conserva traccia della modifica nel diario.
+**Esempio.** Un avviso cambia la sede della prova ma non il programma. Nel registro, la colonna "che cosa cambia" riporta logistica, non materia. Il candidato aggiorna viaggio e orario, senza riscrivere il piano didattico. Se invece un allegato rettifica il programma, ricalcola le priorità e conserva traccia della modifica nel diario.
 
 Aggiornare non significa accumulare file. Senza data, oggetto e conseguenza, una cartella piena di documenti offre poco controllo. Nei quiz e all'orale devi riconoscere l'atto pertinente; nel piano personale devi tradurre l'informazione in un'azione. Il registro tiene insieme i due passaggi.
 
@@ -273,7 +273,7 @@ Correzione: collega ogni materia a un output.
 | Situazionale | Quale gerarchia guida la scelta: servizio, legalità, privacy, imparzialità, tracciabilità? |
 | Inglese/informatica | Quale allenamento minimo serve per non perdere punti? |
 
-La materia indica che cosa conoscere; la prova stabilisce la prestazione richiesta. Lo stesso contenuto può richiedere riconoscimento rapido in un quiz, esposizione ordinata all'orale oppure applicazione in un caso. Associa quindi a ogni materia almeno un output osservabile. “Studiare amministrativo” è un'intenzione generica; “risolvere venti quesiti e spiegare un procedimento in novanta secondi” è un'attività verificabile.
+La materia indica che cosa conoscere; la prova stabilisce la prestazione richiesta. Lo stesso contenuto può richiedere riconoscimento rapido in un quiz, esposizione ordinata all'orale oppure applicazione in un caso. Associa quindi a ogni materia almeno un output osservabile. "Studiare amministrativo" è un'intenzione generica; "risolvere venti quesiti e spiegare un procedimento in novanta secondi" è un'attività verificabile.
 
 Soglie e tempi influiscono sulla strategia, ma sono dati della procedura. Vanno letti negli atti e non ricavati da esperienze precedenti. Una soglia può determinare l'accesso alla fase successiva; il tempo può rendere necessaria una tecnica di selezione. Il candidato registra il dato, la fonte e l'effetto sul proprio allenamento.
 
@@ -288,7 +288,7 @@ Soglie e tempi influiscono sulla strategia, ma sono dati della procedura. Vanno 
 
 Il tempo va distribuito in proporzione alla prova. Inglese e informatica possono incidere meno di una materia specialistica, ma vanno comunque preparati quando sono previsti. Una materia ampia, d'altra parte, non giustifica uno studio illimitato se la prova ne verifica solo un nucleo definito. Il bando determina sia la presenza sia la profondità.
 
-All'orale, la domanda “come viene valutata questa materia?” permette di collegare programma e prestazione. Nel diario, un errore va classificato: contenuto non conosciuto, risposta lenta, lettura errata, esposizione confusa o scelta situazionale debole. Ogni categoria richiede una correzione diversa.
+All'orale, la domanda "come viene valutata questa materia?" permette di collegare programma e prestazione. Nel diario, un errore va classificato: contenuto non conosciuto, risposta lenta, lettura errata, esposizione confusa o scelta situazionale debole. Ogni categoria richiede una correzione diversa.
 
 Compila la scheda delle prove prima del calendario. Per ogni materia indica dove compare, in quale formato può essere verificata e quale prestazione devi allenare. I quesiti situazionali richiedono decisioni motivate e confronto tra alternative, non semplice memoria. Per l'orale affianca alle mappe risposte brevi, lessico preciso e collegamenti tra istituti. Anche una competenza accertata con idoneità va preparata, assegnandole però un tempo coerente con il suo peso. In questo modo le prove decisive ricevono l'attenzione necessaria e gli elementi marginali non occupano settimane di studio.
 
@@ -361,13 +361,13 @@ Sara trova su inPA un avviso per più amministrazioni. Un soggetto esterno suppo
 
 Sara comincia distinguendo i soggetti. inPA è il canale; il gestore non sostituisce l'amministrazione di destinazione; il profilo amministrativo definisce il primo perimetro. Classifica poi le materie in base, M-FC03, appendice e rinvio. Il vecchio bando le serve per ricordare come compilare la scheda, non per copiare quesiti o soglie. Registra la nuova comunicazione come aggiornamento logistico, lascia invariate le materie e associa ogni area all'output previsto dalla procedura corrente.
 
-Nel diario scrive: “errore probabile: trasferire dati dal bando campione; causa: familiarità con la vecchia procedura; correzione: verificare ogni dato su bando, allegati e avvisi correnti”. La risposta è completa perché distingue fonte, soggetti, profilo, materie, aggiornamento e azione.
+Nel diario scrive: "errore probabile: trasferire dati dal bando campione; causa: familiarità con la vecchia procedura; correzione: verificare ogni dato su bando, allegati e avvisi correnti". La risposta è completa perché distingue fonte, soggetti, profilo, materie, aggiornamento e azione.
 
 ### Rubrica
 
 Assegna da 0 a 2 punti a cinque criteri: fonte identificata; soggetti distinti; core e delta classificati; prove collegate a output; correzione registrata nel diario. Sotto 8 punti, riapri gli atti prima di acquistare materiali o cambiare piano.
 
-**Quiz 6.** Nel diario errori, quale correzione è operativa? A) “Studiare di più”. B) “Controllare il profilo nell'allegato e riclassificare le materie”. C) “Essere più attento”. **Risposta corretta: B.** Indica fonte, azione e risultato verificabile.
+**Quiz 6.** Nel diario errori, quale correzione è operativa? A) "Studiare di più". B) "Controllare il profilo nell'allegato e riclassificare le materie". C) "Essere più attento". **Risposta corretta: B.** Indica fonte, azione e risultato verificabile.
 
 ## ▣ Verifica
 

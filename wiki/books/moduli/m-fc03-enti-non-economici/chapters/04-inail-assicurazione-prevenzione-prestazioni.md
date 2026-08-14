@@ -47,7 +47,7 @@ last_compiled_from: [
 
 ## Apertura editoriale
 
-Un concorso INAIL non si prepara come un concorso amministrativo generico. Il candidato incontra diritto amministrativo, pubblico impiego, privacy, contabilita, informatica, inglese, logica e quesiti situazionali; ma il contesto dell'ente cambia il taglio di queste materie. INAIL significa assicurazione contro infortuni sul lavoro e malattie professionali, prevenzione, prestazioni, rapporto con lavoratori e imprese, tutela della salute e sicurezza quando il bando la richiama.
+Un concorso INAIL non si prepara come un concorso amministrativo generico. Il candidato incontra diritto amministrativo, pubblico impiego, privacy, contabilità, informatica, inglese, logica e quesiti situazionali; ma il contesto dell'ente cambia il taglio di queste materie. INAIL significa assicurazione contro infortuni sul lavoro e malattie professionali, prevenzione, prestazioni, rapporto con lavoratori e imprese, tutela della salute e sicurezza quando il bando la richiama.
 
 Il rischio è studiare troppo poco o troppo in modo tecnico. Studiare troppo poco significa limitarsi a procedimento, pubblico impiego e qualche nozione sull'ente, senza capire il nesso tra rischio lavorativo, evento lesivo, tutela assicurativa, prevenzione e prestazione. Studiare troppo in modo tecnico significa aprire materiali da professionista della sicurezza, RSPP o consulente del lavoro e perdere il rapporto con il profilo amministrativo richiesto dal bando.
 
@@ -63,7 +63,7 @@ Alla fine del capitolo devi saper fare cinque cose:
 
 1. spiegare perché INAIL è l'ente guida del modulo M-FC03 per assicurazione sociale, prevenzione e tutela del lavoratore;
 2. distinguere infortuni sul lavoro, malattie professionali, prevenzione, salute e sicurezza, premi e prestazioni a livello concorsuale;
-3. collegare il nucleo INAIL alle materie comuni: procedimento, pubblico impiego, privacy, contabilita, digitale, situazionali e casi pratici;
+3. collegare il nucleo INAIL alle materie comuni: procedimento, pubblico impiego, privacy, contabilità, digitale, situazionali e casi pratici;
 4. costruire una mappa assicurazione-prevenzione-prestazione da usare prima di studiare fonti specialistiche;
 5. riconoscere quando serve l'Appendice F per le materie integrative INAIL/RIPAM, soprattutto salute e sicurezza nei luoghi di lavoro.
 
@@ -74,12 +74,12 @@ Il risultato atteso non è diventare tecnico della sicurezza. È saper usare il 
 | Fase | Domanda operativa | Output |
 | --- | --- | --- |
 | B - Bando | Il bando richiama INAIL, assicurazione obbligatoria, infortuni, malattie professionali, prevenzione, salute e sicurezza o ordinamento dell'ente? | Decisione: capitolo 4 centrale e Appendice F da valutare. |
-| A - Aree | Quali materie comuni devo riusare? | Collegamento con amministrativo, pubblico impiego, privacy, contabilita, digitale e situazionali. |
+| A - Aree | Quali materie comuni devo riusare? | Collegamento con amministrativo, pubblico impiego, privacy, contabilità, digitale e situazionali. |
 | N - Nuclei | Quali concetti INAIL sono ad alta resa? | Mappa rischio-evento-tutela-prevenzione-prestazione. |
-| D - Diario | Dove rischio di confondere INAIL con INPS o sicurezza tecnica con sicurezza concorsuale? | Diario errori su perimetro e profondita. |
+| D - Diario | Dove rischio di confondere INAIL con INPS o sicurezza tecnica con sicurezza concorsuale? | Diario errori su perimetro e profondità. |
 | O - Output | Che cosa devo produrre prima della prova? | Caso guidato, risposta orale breve e checklist bando INAIL. |
 
-La mappa ordina le priorita. Se il bando chiede solo ordinamento e attribuzioni INAIL, il taglio resta istituzionale. Se aggiunge salute e sicurezza, diritto del lavoro o legislazione sociale, devi attivare anche le schede integrative.
+La mappa ordina le priorità. Se il bando chiede solo ordinamento e attribuzioni INAIL, il taglio resta istituzionale. Se aggiunge salute e sicurezza, diritto del lavoro o legislazione sociale, devi attivare anche le schede integrative.
 
 ## N-FC03-04-01 · Ruolo dell'INAIL, inquadramento e fonti
 
@@ -93,26 +93,26 @@ Per questo il candidato deve evitare formule vaghe come "ente previdenziale" usa
 
 Il D.P.R. 30 giugno 1965, n. 1124 è un testo di riferimento per l'assicurazione obbligatoria contro infortuni e malattie professionali; il D.Lgs. 23 febbraio 2000, n. 38 è collegato alla riforma del sistema, al danno biologico, ai premi, alla prevenzione e alle prestazioni. Per la sicurezza sul lavoro, il D.Lgs. 9 aprile 2008, n. 81 costituisce il riferimento generale per la tutela della salute e della sicurezza nei luoghi di lavoro.
 
-Queste fonti non vanno trasformate in un commentario articolo per articolo: servono a costruire una mappa. Il bando RIPAM/INAIL per 308 unita del 2024 mostra che per il profilo di funzionario amministrativo possono comparire ordinamento e attribuzioni INAIL, diritto del lavoro e legislazione sociale, normativa in materia di salute e sicurezza nei luoghi di lavoro e altre materie integrative. Il livello di dettaglio, però, cambia da un concorso all'altro. Spetta al candidato ricavarlo dal bando.
+Queste fonti non vanno trasformate in un commentario articolo per articolo: servono a costruire una mappa. Il bando RIPAM/INAIL per 308 unità del 2024 mostra che per il profilo di funzionario amministrativo possono comparire ordinamento e attribuzioni INAIL, diritto del lavoro e legislazione sociale, normativa in materia di salute e sicurezza nei luoghi di lavoro e altre materie integrative. Il livello di dettaglio, però, cambia da un concorso all'altro. Spetta al candidato ricavarlo dal bando.
 
 | Fonte o blocco | Uso nel capitolo | Cosa non fare |
 | --- | --- | --- |
 | D.P.R. 1124/1965 | Inquadrare assicurazione obbligatoria, infortuni e malattie professionali. | Studiare tutto come se fosse esame specialistico di legislazione sociale. |
 | D.Lgs. 38/2000 | Collegare riforma INAIL, danno biologico, premi, prevenzione e prestazioni. | Citare dettagli senza verifica o senza bando. |
-| D.Lgs. 81/2008 | Costruire mappa essenziale di salute e sicurezza: rischio, prevenzione, ruoli, formazione, responsabilita. | Entrare in tecnicismi da RSPP o sanzioni specialistiche non richieste. |
+| D.Lgs. 81/2008 | Costruire mappa essenziale di salute e sicurezza: rischio, prevenzione, ruoli, formazione, responsabilità. | Entrare in tecnicismi da RSPP o sanzioni specialistiche non richieste. |
 | Bando INAIL/RIPAM | Pesare materie, prove, quesiti disciplinari, logica e situazionali. | Usarlo come modello universale per ogni futuro bando INAIL. |
 | Portale e amministrazione trasparente INAIL | Verificare contesto istituzionale, atti, PIAO, bilanci, bandi e documenti aggiornati. | Citare dati correnti senza controllo alla data di pubblicazione. |
 
 La regola è: fonte ufficiale per la verifica, Metodo BANDO per la gerarchia.
 
-Il perimetro concorsuale si chiarisce distinguendo tre piani. Il primo è istituzionale: natura, attribuzioni e organizzazione dell'ente. Il secondo è assicurativo: rischio lavorativo, eventi tutelati, rapporto con lavoratori e datori e prestazioni previste dalla legge. Il terzo è prevenzionale: attivita rivolte a ridurre infortuni e malattie professionali. Un bando può assegnare pesi diversi ai tre piani; il candidato non deve presumere che siano sempre richiesti con la stessa profondita.
+Il perimetro concorsuale si chiarisce distinguendo tre piani. Il primo è istituzionale: natura, attribuzioni e organizzazione dell'ente. Il secondo è assicurativo: rischio lavorativo, eventi tutelati, rapporto con lavoratori e datori e prestazioni previste dalla legge. Il terzo è prevenzionale: attività rivolte a ridurre infortuni e malattie professionali. Un bando può assegnare pesi diversi ai tre piani; il candidato non deve presumere che siano sempre richiesti con la stessa profondità.
 
 Le fonti svolgono funzioni diverse. Il D.P.R. 30 giugno 1965, n. 1124 costituisce un riferimento storico e normativo dell'assicurazione obbligatoria; il D.Lgs. 23 febbraio 2000, n. 38 ha inciso sul sistema assicurativo e sulle tutele; il D.Lgs. 9 aprile 2008, n. 81 organizza il quadro generale della salute e sicurezza sul lavoro. Statuto, regolamenti e documenti dell'INAIL servono invece a verificare assetto e servizi correnti. Questa gerarchia evita di ricavare una regola generale da una pagina informativa o da una procedura contingente.
 
 In prova, una risposta ordinata presenta prima la funzione dell'INAIL, poi indica il piano richiesto dalla domanda e infine collega la nozione alle conseguenze amministrative. Un quesito sulla sicurezza richiede concetti prevenzionali; uno sull'assicurazione richiede rischio, rapporto assicurativo ed eventi tutelati. La pertinenza vale più dell'accumulo di nozioni.
 ## N-FC03-04-02 · Assicurazione sociale, rischio e rapporto assicurativo
 
-Il primo nucleo è l'assicurazione sociale. In chiave concorsuale, devi capirla come sistema pubblico di tutela collegato al lavoro e agli eventi dannosi che possono derivarne. Non è una polizza privata e non è una generica prestazione assistenziale: è un meccanismo pubblico che collega attivita lavorativa, rischio, evento, accertamento e tutela.
+Il primo nucleo è l'assicurazione sociale. In chiave concorsuale, devi capirla come sistema pubblico di tutela collegato al lavoro e agli eventi dannosi che possono derivarne. Non è una polizza privata e non è una generica prestazione assistenziale: è un meccanismo pubblico che collega attività lavorativa, rischio, evento, accertamento e tutela.
 
 In una risposta orale puoi usare questa sequenza:
 
@@ -120,7 +120,7 @@ In una risposta orale puoi usare questa sequenza:
 
 Questa formulazione evita due errori: ridurre INAIL a "ente che paga indennizzi" o confonderlo con INPS.
 
-L'aggettivo sociale segnala che la tutela risponde a un interesse pubblico e opera secondo presupposti stabiliti dall'ordinamento. Il rapporto non nasce dalla libera negoziazione individuale delle clausole tipica di una polizza privata. La legge individua attivita, soggetti, obblighi e condizioni della tutela; l'ente gestisce il rapporto e le pratiche nell'ambito delle proprie attribuzioni. Questa differenza è spesso il primo discrimine utile in un quiz.
+L'aggettivo sociale segnala che la tutela risponde a un interesse pubblico e opera secondo presupposti stabiliti dall'ordinamento. Il rapporto non nasce dalla libera negoziazione individuale delle clausole tipica di una polizza privata. La legge individua attività, soggetti, obblighi e condizioni della tutela; l'ente gestisce il rapporto e le pratiche nell'ambito delle proprie attribuzioni. Questa differenza è spesso il primo discrimine utile in un quiz.
 
 Il rischio assicurato non coincide con qualsiasi rischio della vita. Riguarda il collegamento tra lavoro ed eventi considerati dalla disciplina. Per ragionare correttamente bisogna tenere distinti il rischio, che precede l'evento; l'evento o la patologia che si verifica; l'accertamento dei presupposti; la tutela che può seguire. Saltare uno di questi passaggi porta a dare per scontato il diritto alla prestazione prima dell'istruttoria.
 
@@ -132,12 +132,12 @@ Una conseguenza pratica riguarda il linguaggio. Dire che l'INAIL tutela automati
 
 ### Applicazione alla prova
 
-In un caso, l'operatore riceve una richiesta che mescola informazioni su rapporto di lavoro, evento e prestazione. Prima separa i dati rilevanti, individua i soggetti e verifica il canale. Poi accerta quale disciplina e quale ufficio siano competenti. Non promette l'esito e non trasforma una spiegazione generale in una decisione sulla singola posizione. Ne emerge la duplice natura dell'assicurazione sociale: tutela sostanziale e attivita amministrativa.
+In un caso, l'operatore riceve una richiesta che mescola informazioni su rapporto di lavoro, evento e prestazione. Prima separa i dati rilevanti, individua i soggetti e verifica il canale. Poi accerta quale disciplina e quale ufficio siano competenti. Non promette l'esito e non trasforma una spiegazione generale in una decisione sulla singola posizione. Ne emerge la duplice natura dell'assicurazione sociale: tutela sostanziale e attività amministrativa.
 Un ulteriore errore consiste nel confondere obbligo assicurativo e riconoscimento della tutela. Il primo riguarda l'inquadramento del rapporto e gli adempimenti previsti; il secondo richiede che la pratica sia valutata alla luce dell'evento e dei presupposti applicabili. Anche quando il rapporto assicurativo esiste, l'esito non può essere anticipato. All'orale questa distinzione consente di spiegare perché il premio finanzia il sistema senza diventare una garanzia privata negoziata caso per caso.
-Il quesito può anche verificare il rapporto tra interesse del singolo e interesse collettivo. La tutela del lavoratore resta il riferimento, mentre la gestione dei rischi e dei flussi assicurativi produce informazioni utili alla prevenzione. L'ente deve trattare questi dati secondo finalita istituzionali e regole di protezione, senza confondere l'utilita statistica con la libera diffusione delle posizioni individuali.
+Il quesito può anche verificare il rapporto tra interesse del singolo e interesse collettivo. La tutela del lavoratore resta il riferimento, mentre la gestione dei rischi e dei flussi assicurativi produce informazioni utili alla prevenzione. L'ente deve trattare questi dati secondo finalità istituzionali e regole di protezione, senza confondere l'utilità statistica con la libera diffusione delle posizioni individuali.
 ## N-FC03-04-03 · Infortunio sul lavoro e malattia professionale
 
-Per l'infortunio sul lavoro, il candidato amministrativo deve padroneggiare la logica generale senza perdersi nella casistica tecnica. Devi riconoscere che l'infortunio è un evento collegato all'attivita lavorativa che può attivare obblighi, comunicazioni, accertamenti, istruttoria e prestazioni.
+Per l'infortunio sul lavoro, il candidato amministrativo deve padroneggiare la logica generale senza perdersi nella casistica tecnica. Devi riconoscere che l'infortunio è un evento collegato all'attività lavorativa che può attivare obblighi, comunicazioni, accertamenti, istruttoria e prestazioni.
 
 Nei casi pratici, l'infortunio va trattato con ordine:
 
@@ -147,7 +147,7 @@ Nei casi pratici, l'infortunio va trattato con ordine:
 4. dati e documenti;
 5. istruttoria e verifica;
 6. eventuale prestazione o esito;
-7. tutela dei dati e tracciabilita.
+7. tutela dei dati e tracciabilità.
 
 Il funzionario non improvvisa valutazioni tecniche fuori ruolo. Lavora dentro procedura, competenza, fonte e comunicazione corretta.
 
@@ -155,30 +155,30 @@ Il funzionario non improvvisa valutazioni tecniche fuori ruolo. Lavora dentro pr
 
 La malattia professionale richiede una lettura diversa. La differenza rispetto all'infortunio va tenuta chiara: non ogni problema di salute è automaticamente malattia professionale, e non ogni evento lavorativo va trattato nello stesso modo. In prova, questa distinzione evita risposte generiche e collega lavoro, rischio, accertamento e tutela.
 
-Una risposta essenziale può dire che la malattia professionale riguarda una patologia collegata all'attivita lavorativa secondo criteri e procedure previsti dalla disciplina applicabile. Se il bando non lo richiede, tabelle, percentuali e casistiche sanitarie restano fuori dal perimetro. Bisogna invece sapere che il tema chiama in causa documentazione, istruttoria, competenze, dati relativi alla salute e comunicazione con lavoratore, datore di lavoro e uffici.
+Una risposta essenziale può dire che la malattia professionale riguarda una patologia collegata all'attività lavorativa secondo criteri e procedure previsti dalla disciplina applicabile. Se il bando non lo richiede, tabelle, percentuali e casistiche sanitarie restano fuori dal perimetro. Bisogna invece sapere che il tema chiama in causa documentazione, istruttoria, competenze, dati relativi alla salute e comunicazione con lavoratore, datore di lavoro e uffici.
 
-La distinzione tra i due eventi non si riduce alla durata dei sintomi. Nell'infortunio assume rilievo un evento concentrato nel tempo, tradizionalmente ricostruito attraverso la causa violenta e l'occasione di lavoro secondo la disciplina applicabile. Nella malattia professionale la patologia si collega invece all'esposizione o all'attivita lavorativa secondo criteri propri. Le formule servono a orientare lo studio, ma non sostituiscono le definizioni normative né l'accertamento del caso concreto.
+La distinzione tra i due eventi non si riduce alla durata dei sintomi. Nell'infortunio assume rilievo un evento concentrato nel tempo, tradizionalmente ricostruito attraverso la causa violenta e l'occasione di lavoro secondo la disciplina applicabile. Nella malattia professionale la patologia si collega invece all'esposizione o all'attività lavorativa secondo criteri propri. Le formule servono a orientare lo studio, ma non sostituiscono le definizioni normative né l'accertamento del caso concreto.
 
-L'occasione di lavoro non va confusa con la semplice presenza fisica sul luogo di lavoro. Il collegamento richiesto dalla tutela deve essere valutato con gli elementi previsti dall'ordinamento. Allo stesso modo, la malattia di cui soffre un lavoratore non diventa professionale per la sola coincidenza temporale con l'attivita. In entrambi i casi occorre ricostruire fatti, documentazione, nesso con il lavoro e condizioni di tutela.
+L'occasione di lavoro non va confusa con la semplice presenza fisica sul luogo di lavoro. Il collegamento richiesto dalla tutela deve essere valutato con gli elementi previsti dall'ordinamento. Allo stesso modo, la malattia di cui soffre un lavoratore non diventa professionale per la sola coincidenza temporale con l'attività. In entrambi i casi occorre ricostruire fatti, documentazione, nesso con il lavoro e condizioni di tutela.
 
 | Profilo | Infortunio sul lavoro | Malattia professionale |
 | --- | --- | --- |
-| Manifestazione | Evento riconoscibile e concentrato | Patologia collegata all'esposizione o all'attivita |
+| Manifestazione | Evento riconoscibile e concentrato | Patologia collegata all'esposizione o all'attività |
 | Ricostruzione | Dinamica, tempo, luogo e rapporto col lavoro | Storia lavorativa, rischio ed elementi sanitari |
 | Istruttoria | Comunicazioni, documenti e accertamenti sull'evento | Documentazione e accertamenti sul nesso professionale |
 | Errore tipico | Ogni incidente avvenuto al lavoro è automaticamente tutelato | Ogni malattia del lavoratore è professionale |
 
 La tabella è una bussola didattica, non una regola automatica. Casi particolari e presunzioni previste dalla normativa richiedono lo studio delle fonti pertinenti. Per un profilo amministrativo occorre comprendere perché le due pratiche possano richiedere dati e accertamenti diversi, pur appartenendo allo stesso sistema assicurativo.
 
-I dati relativi alla salute meritano una cautela specifica. L'ufficio li tratta per finalita istituzionali, nei limiti del ruolo e attraverso canali autorizzati. Non vanno comunicati al datore, a un familiare o a un intermediario soltanto perché conoscono l'evento. Identita, titolo a ricevere l'informazione, pertinenza e tracciabilita restano passaggi distinti.
+I dati relativi alla salute meritano una cautela specifica. L'ufficio li tratta per finalità istituzionali, nei limiti del ruolo e attraverso canali autorizzati. Non vanno comunicati al datore, a un familiare o a un intermediario soltanto perché conoscono l'evento. Identità, titolo a ricevere l'informazione, pertinenza e tracciabilità restano passaggi distinti.
 
 ### Micro-caso
 
-Un utente riferisce un problema di salute insorto dopo anni di attivita e chiede se si tratti certamente di malattia professionale. L'operatore non formula una diagnosi e non anticipa il riconoscimento. Chiarisce la funzione dell'ente, indica il canale previsto, spiega quali passaggi amministrativi possono essere necessari e tutela i dati. In prova, questa risposta è preferibile sia alla promessa sia al rinvio brusco: resta dentro competenza e procedimento.
+Un utente riferisce un problema di salute insorto dopo anni di attività e chiede se si tratti certamente di malattia professionale. L'operatore non formula una diagnosi e non anticipa il riconoscimento. Chiarisce la funzione dell'ente, indica il canale previsto, spiega quali passaggi amministrativi possono essere necessari e tutela i dati. In prova, questa risposta è preferibile sia alla promessa sia al rinvio brusco: resta dentro competenza e procedimento.
 La distinzione incide anche sulle comunicazioni. Nell'infortunio la ricostruzione dell'evento può concentrare l'attenzione su dinamica e occasione di lavoro; nella malattia professionale acquistano peso esposizione e storia lavorativa. L'ufficio deve quindi chiedere solo gli elementi pertinenti alla specifica istruttoria. Una raccolta indistinta di dati non rende la decisione più accurata e aumenta i rischi per la riservatezza.
 ## N-FC03-04-04 · Prevenzione e funzioni dell'INAIL
 
-Il quarto nucleo è la prevenzione. Qui INAIL non va studiato solo come ente che interviene dopo un evento. La prevenzione è il tentativo di ridurre rischi e danni prima che si producano. Per i concorsi, è un concetto ad alta resa perché collega sicurezza, organizzazione, informazione, formazione, responsabilita e cultura amministrativa.
+Il quarto nucleo è la prevenzione. Qui INAIL non va studiato solo come ente che interviene dopo un evento. La prevenzione è il tentativo di ridurre rischi e danni prima che si producano. Per i concorsi, è un concetto ad alta resa perché collega sicurezza, organizzazione, informazione, formazione, responsabilità e cultura amministrativa.
 
 Il D.Lgs. 81/2008 organizza un sistema preventivo che opera anche prima dell'infortunio. Nei quiz e nei situazionali, la risposta più solida riconosce il rischio, segue la procedura, segnala correttamente, rispetta ruoli e punta a prevenire, non solo a riparare.
 
@@ -186,19 +186,19 @@ La prevenzione interviene sulle condizioni che possono produrre danno prima che 
 
 Conviene distinguere prevenzione primaria, gestione dell'evento e reinserimento o recupero. Sono momenti collegati ma non equivalenti: il primo mira a evitare o ridurre il rischio; il secondo riguarda gli adempimenti e la tutela quando l'evento si manifesta; il terzo guarda alle misure successive previste dal sistema. Il capitolo resta sul quadro concettuale, perché programmi e strumenti specifici possono cambiare.
 
-L'attivita prevenzionale può comprendere informazione, formazione, ricerca, diffusione di conoscenze e forme di sostegno previste dalla disciplina. Non ogni campagna, incentivo o progetto ha però carattere permanente. In un manuale concorsuale bisogna separare la funzione stabile dell'ente dalle iniziative correnti: la prima si studia come attribuzione, le seconde si verificano sul portale ufficiale quando il bando le richiama.
+L'attività prevenzionale può comprendere informazione, formazione, ricerca, diffusione di conoscenze e forme di sostegno previste dalla disciplina. Non ogni campagna, incentivo o progetto ha però carattere permanente. In un manuale concorsuale bisogna separare la funzione stabile dell'ente dalle iniziative correnti: la prima si studia come attribuzione, le seconde si verificano sul portale ufficiale quando il bando le richiama.
 
-La prevenzione produce anche conseguenze amministrative. Un'organizzazione deve assegnare responsabilita, programmare interventi, documentare attivita e verificare risultati. Per un dipendente pubblico ciò si traduce nel rispetto delle procedure, nella segnalazione corretta dei rischi e nella collaborazione con i soggetti competenti. Il comportamento individuale non sostituisce il sistema, ma può sostenerlo o comprometterlo.
+La prevenzione produce anche conseguenze amministrative. Un'organizzazione deve assegnare responsabilità, programmare interventi, documentare attività e verificare risultati. Per un dipendente pubblico ciò si traduce nel rispetto delle procedure, nella segnalazione corretta dei rischi e nella collaborazione con i soggetti competenti. Il comportamento individuale non sostituisce il sistema, ma può sostenerlo o comprometterlo.
 
 | Situazione | Risposta debole | Risposta professionale |
 | --- | --- | --- |
 | Rischio segnalato | Ignorarlo finché non avviene un incidente | Attivare il canale previsto e informare il soggetto competente |
 | Utente chiede una certezza | Promettere il riconoscimento | Spiegare procedimento e limiti dell'informazione |
-| Iniziativa INAIL trovata online | Trattarla come regola permanente | Verificarne fonte, ambito e validita |
+| Iniziativa INAIL trovata online | Trattarla come regola permanente | Verificarne fonte, ambito e validità |
 | Problema fuori ruolo | Risolverlo personalmente | Preservare sicurezza e competenza, lasciando traccia |
 
 Nei quesiti situazionali, la prevenzione richiede una condotta ordinata, non un intervento impulsivo. Una situazione urgente può richiedere immediate misure di sicurezza secondo le procedure applicabili, ma il candidato non deve inventare interventi tecnici. La risposta corretta riconosce il rischio, tutela le persone, avvisa chi ha competenza e documenta quanto previsto.
-Per una risposta orale, la prevenzione può essere esposta in quattro passaggi: riconoscere il rischio, collocare le responsabilita, indicare gli strumenti organizzativi e collegare la funzione dell'INAIL senza attribuirgli competenze altrui. L'errore tipico è parlare soltanto dell'intervento successivo al danno. Una tutela assicurativa efficace conserva invece il legame tra conoscenza dei fenomeni, riduzione del rischio e gestione delle conseguenze.
+Per una risposta orale, la prevenzione può essere esposta in quattro passaggi: riconoscere il rischio, collocare le responsabilità, indicare gli strumenti organizzativi e collegare la funzione dell'INAIL senza attribuirgli competenze altrui. L'errore tipico è parlare soltanto dell'intervento successivo al danno. Una tutela assicurativa efficace conserva invece il legame tra conoscenza dei fenomeni, riduzione del rischio e gestione delle conseguenze.
 Prevenzione e assicurazione, dunque, non sono capitoli separati. La conoscenza degli eventi aiuta a individuare aree di rischio; gli interventi prevenzionali mirano a ridurne frequenza e conseguenze; la tutela assicurativa opera quando ricorrono i presupposti. La commissione può verificare proprio questa visione unitaria, chiedendo di spiegare perché l'INAIL non sia soltanto un ente erogatore.
 Un esempio rende il collegamento più chiaro. Se l'analisi degli eventi evidenzia un problema ricorrente in un settore, la risposta pubblica non si esaurisce nella gestione delle singole pratiche. Le conoscenze disponibili possono orientare informazione e iniziative prevenzionali previste dall'ordinamento. Il candidato non deve proporre una misura tecnica specifica: deve riconoscere il passaggio dai dati sugli eventi alla riduzione del rischio, mantenendo separati analisi aggregata e posizione personale.
 ## N-FC03-04-05 · Salute e sicurezza nei luoghi di lavoro
@@ -211,26 +211,26 @@ La mappa minima comprende:
 | --- | --- | --- |
 | Rischio | Ogni ambiente di lavoro presenta rischi da valutare e governare. | Quiz definitorio e caso situazionale. |
 | Prevenzione | La sicurezza mira a evitare o ridurre eventi dannosi. | Risposte su comportamento corretto. |
-| Datore di lavoro | Figura con un ruolo primario nell'organizzazione della sicurezza. | Domande su ruoli e responsabilita. |
+| Datore di lavoro | Figura con un ruolo primario nell'organizzazione della sicurezza. | Domande su ruoli e responsabilità. |
 | Formazione e informazione | Strumenti per rendere effettiva la prevenzione. | Casi su uffici, personale e procedure. |
 | RLS | Presidio partecipativo nella prevenzione. | Quiz su soggetti del sistema sicurezza. |
-| Responsabilita | La sicurezza è anche assetto organizzativo e rispetto delle procedure. | Situazionali e domande orali. |
+| Responsabilità | La sicurezza è anche assetto organizzativo e rispetto delle procedure. | Situazionali e domande orali. |
 
 Non devi trasformare questa mappa in un manuale tecnico. Devi saperla usare quando la domanda collega lavoro, rischio, prevenzione, ufficio pubblico, comportamento del dipendente e ruolo dell'ente.
 
-Il D.Lgs. 9 aprile 2008, n. 81 costruisce un sistema nel quale la tutela nasce dall'organizzazione. La valutazione dei rischi orienta le misure; ruoli e compiti individuano chi deve agire; informazione, formazione e addestramento, quando previsto, rendono concretamente applicabili le regole; consultazione e partecipazione consentono di far emergere criticita. Per il candidato amministrativo interessa la logica del sistema, prima ancora del dettaglio tecnico.
+Il D.Lgs. 9 aprile 2008, n. 81 costruisce un sistema nel quale la tutela nasce dall'organizzazione. La valutazione dei rischi orienta le misure; ruoli e compiti individuano chi deve agire; informazione, formazione e addestramento, quando previsto, rendono concretamente applicabili le regole; consultazione e partecipazione consentono di far emergere criticità. Per il candidato amministrativo interessa la logica del sistema, prima ancora del dettaglio tecnico.
 
-Il datore di lavoro ha un ruolo primario, accanto a una pluralita di soggetti con compiti diversi. Dirigenti e preposti operano nei rispettivi ambiti; lavoratori, servizio di prevenzione e protezione, medico competente nei casi previsti e rappresentante dei lavoratori per la sicurezza svolgono funzioni diverse. Confondere i ruoli porta a risposte errate: collaborazione non significa che tutti abbiano gli stessi poteri o le stesse responsabilita.
+Il datore di lavoro ha un ruolo primario, accanto a una pluralità di soggetti con compiti diversi. Dirigenti e preposti operano nei rispettivi ambiti; lavoratori, servizio di prevenzione e protezione, medico competente nei casi previsti e rappresentante dei lavoratori per la sicurezza svolgono funzioni diverse. Confondere i ruoli porta a risposte errate: collaborazione non significa che tutti abbiano gli stessi poteri o le stesse responsabilità.
 
-La valutazione dei rischi non è un elenco astratto. Serve a individuare pericoli, stimare i rischi e programmare misure coerenti con l'organizzazione. Il relativo documento appartiene a un processo che deve restare collegato alla realta lavorativa. In un quiz, sono sospette le opzioni che lo riducono a formalita una tantum o lo attribuiscono indistintamente a qualunque soggetto.
+La valutazione dei rischi non è un elenco astratto. Serve a individuare pericoli, stimare i rischi e programmare misure coerenti con l'organizzazione. Il relativo documento appartiene a un processo che deve restare collegato alla realtà lavorativa. In un quiz, sono sospette le opzioni che lo riducono a formalità una tantum o lo attribuiscono indistintamente a qualunque soggetto.
 
-Informazione e formazione non sono sinonimi. L'informazione mette il lavoratore in condizione di conoscere rischi, regole e misure pertinenti; la formazione sviluppa conoscenze e competenze necessarie per agire in sicurezza. L'addestramento, quando richiesto, riguarda l'apprendimento pratico riferito a specifiche attivita o strumenti. Il livello di dettaglio va calibrato sul bando, ma la distinzione concettuale deve essere stabile.
+Informazione e formazione non sono sinonimi. L'informazione mette il lavoratore in condizione di conoscere rischi, regole e misure pertinenti; la formazione sviluppa conoscenze e competenze necessarie per agire in sicurezza. L'addestramento, quando richiesto, riguarda l'apprendimento pratico riferito a specifiche attività o strumenti. Il livello di dettaglio va calibrato sul bando, ma la distinzione concettuale deve essere stabile.
 
 Il rappresentante dei lavoratori per la sicurezza esprime la dimensione partecipativa del sistema. Non sostituisce il datore di lavoro, il responsabile del servizio di prevenzione e protezione o gli organi di vigilanza. Il suo ruolo va studiato attraverso funzioni e relazioni, non come semplice sigla da memorizzare. Lo stesso metodo vale per ogni altro soggetto: chi è, che cosa fa, con chi interagisce e quale errore bisogna evitare.
 
 ### Obblighi, controllo e conseguenze: la mappa ispettiva
 
-Nel taglio ispettivo il decreto legislativo n. 81/2008 va letto come un sistema di obblighi differenziati, non come un elenco di soggetti. La domanda corretta non è soltanto “chi compare nell'organigramma?”, ma “quale funzione esercita, quali poteri possiede e quale obbligo gli attribuisce la disciplina?”. Il datore di lavoro conserva obblighi propri; dirigenti e preposti operano secondo ruolo e attribuzioni; il lavoratore partecipa alla prevenzione attraverso i doveri che lo riguardano; RSPP, medico competente e RLS svolgono funzioni differenti e non diventano per questo titolari degli stessi obblighi datoriali.
+Nel taglio ispettivo il decreto legislativo n. 81/2008 va letto come un sistema di obblighi differenziati, non come un elenco di soggetti. La domanda corretta non è soltanto "chi compare nell'organigramma?", ma "quale funzione esercita, quali poteri possiede e quale obbligo gli attribuisce la disciplina?". Il datore di lavoro conserva obblighi propri; dirigenti e preposti operano secondo ruolo e attribuzioni; il lavoratore partecipa alla prevenzione attraverso i doveri che lo riguardano; RSPP, medico competente e RLS svolgono funzioni differenti e non diventano per questo titolari degli stessi obblighi datoriali.
 
 Il controllo segue una catena logica:
 
@@ -248,11 +248,11 @@ Prevenzione e vigilanza sono collegate ma non coincidono. La prevenzione organiz
 **Errore tipico:** ritenere che la sicurezza sia rispettata perché esiste un documento oppure violata perché si è verificato un infortunio. Documento, organizzazione effettiva, misure e condotte devono essere verificati separatamente. **Verifica:** sai collegare un rischio a soggetto obbligato, misura richiesta, evidenza e possibile seguito senza anticipare la responsabilità?
 ### Applicazione a un ufficio pubblico
 
-Un dipendente nota un ostacolo che può creare pericolo in un'area di passaggio. La soluzione concorsuale non consiste nel minimizzare il problema o nel modificare autonomamente impianti e attrezzature. Occorre mettere in sicurezza nei limiti consentiti, usare il canale di segnalazione, coinvolgere i soggetti competenti e rispettare le istruzioni. Il caso misura senso del servizio, responsabilita e conoscenza dell'organizzazione prevenzionale.
-La responsabilita non si ricava dalla sola presenza di un soggetto nell'organigramma. Dipende dalla funzione, dai poteri e dagli obblighi che l'ordinamento gli assegna. Nei quesiti bisogna quindi diffidare delle formule assolute: il lavoratore non è estraneo alla prevenzione, ma la sua collaborazione non trasferisce su di lui i compiti propri del datore; l'RLS partecipa, ma non dirige l'intero sistema.
+Un dipendente nota un ostacolo che può creare pericolo in un'area di passaggio. La soluzione concorsuale non consiste nel minimizzare il problema o nel modificare autonomamente impianti e attrezzature. Occorre mettere in sicurezza nei limiti consentiti, usare il canale di segnalazione, coinvolgere i soggetti competenti e rispettare le istruzioni. Il caso misura senso del servizio, responsabilità e conoscenza dell'organizzazione prevenzionale.
+La responsabilità non si ricava dalla sola presenza di un soggetto nell'organigramma. Dipende dalla funzione, dai poteri e dagli obblighi che l'ordinamento gli assegna. Nei quesiti bisogna quindi diffidare delle formule assolute: il lavoratore non è estraneo alla prevenzione, ma la sua collaborazione non trasferisce su di lui i compiti propri del datore; l'RLS partecipa, ma non dirige l'intero sistema.
 ## N-FC03-04-06 · Prestazioni, procedimento e applicazione concorsuale
 
-Prestazioni e rapporto con i destinatari completano il quadro. INAIL entra in contatto con lavoratori, imprese, datori di lavoro, professionisti, intermediari e altri soggetti coinvolti nelle pratiche. Il candidato applica qui procedimento amministrativo, protezione dei dati, comunicazione istituzionale, digitale e tracciabilita.
+Prestazioni e rapporto con i destinatari completano il quadro. INAIL entra in contatto con lavoratori, imprese, datori di lavoro, professionisti, intermediari e altri soggetti coinvolti nelle pratiche. Il candidato applica qui procedimento amministrativo, protezione dei dati, comunicazione istituzionale, digitale e tracciabilità.
 
 La prestazione non va studiata come parola isolata. Va inserita in una catena:
 
@@ -267,11 +267,11 @@ Il capitolo INAIL non duplica il libro base. Lo applica.
 | Materia del libro base | Taglio INAIL |
 | --- | --- |
 | Diritto amministrativo | Procedimenti, istruttoria, comunicazioni, motivazione, accesso, autotutela e gestione documentale. |
-| Pubblico impiego | Doveri del dipendente, responsabilita, comportamento verso utenti e rispetto delle procedure. |
+| Pubblico impiego | Doveri del dipendente, responsabilità, comportamento verso utenti e rispetto delle procedure. |
 | Privacy | Dati personali e dati relativi alla salute, accesso per ragioni di servizio, riservatezza e minimizzazione. |
-| Contabilita pubblica | Premi, risorse, prestazioni, bilancio e controlli come contesto, senza tecnicismi contabili avanzati. |
-| PA digitale | Servizi online, comunicazioni, fascicoli, documenti informatici e tracciabilita. |
-| Quesiti situazionali | Gestione di utente, impresa, errore documentale, richiesta impropria, priorita e segnalazione del rischio. |
+| Contabilità pubblica | Premi, risorse, prestazioni, bilancio e controlli come contesto, senza tecnicismi contabili avanzati. |
+| PA digitale | Servizi online, comunicazioni, fascicoli, documenti informatici e tracciabilità. |
+| Quesiti situazionali | Gestione di utente, impresa, errore documentale, richiesta impropria, priorità e segnalazione del rischio. |
 | Casi pratici | Lettura ordinata di evento, soggetti, competenza, procedimento, dati, comunicazione ed esito. |
 
 Vale il criterio adottato in tutto il modulo: materia comune, taglio EPNE. Nel caso INAIL, il taglio è assicurativo-prevenzionale.
@@ -301,9 +301,9 @@ Il primo è il quiz disciplinare: definizioni, fonti, nozioni essenziali su assi
 
 Il secondo è la domanda orale: spiegare il ruolo dell'INAIL dentro il sistema degli enti pubblici non economici e collegarlo a tutela assicurativa, prevenzione, salute e sicurezza, prestazioni e rapporto con imprese e lavoratori. Qui serve una risposta ordinata, non un elenco.
 
-Il terzo è il caso pratico: un evento lavorativo, una comunicazione incompleta, una richiesta di accesso, un dato sanitario, una pratica da istruire, un utente che chiede chiarimenti. Qui servono procedimento, privacy, competenza, canali ufficiali e tracciabilita.
+Il terzo è il caso pratico: un evento lavorativo, una comunicazione incompleta, una richiesta di accesso, un dato sanitario, una pratica da istruire, un utente che chiede chiarimenti. Qui servono procedimento, privacy, competenza, canali ufficiali e tracciabilità.
 
-Il quarto è il quesito situazionale: scegliere il comportamento più corretto davanti a rischio, urgenza, pressione dell'utente, errore documentale, richiesta impropria o conflitto tra rapidita e legalita. Qui vince chi tutela persona, ente e procedura.
+Il quarto è il quesito situazionale: scegliere il comportamento più corretto davanti a rischio, urgenza, pressione dell'utente, errore documentale, richiesta impropria o conflitto tra rapidità e legalità. Qui vince chi tutela persona, ente e procedura.
 
 ### Da sapere in 5 righe
 
@@ -311,12 +311,12 @@ INAIL è l'ente guida del modulo M-FC03 per assicurazione sociale, prevenzione, 
 
 ### Caso ragionato
 
-Sara prepara un concorso INAIL per profilo amministrativo. Nel bando trova diritto amministrativo, pubblico impiego, contabilita, ordinamento e attribuzioni INAIL, salute e sicurezza nei luoghi di lavoro, logica, inglese, informatica e quesiti situazionali. La sua prima idea è dividere lo studio in due blocchi separati: un manuale generale per concorsi e un testo tecnico sulla sicurezza.
+Sara prepara un concorso INAIL per profilo amministrativo. Nel bando trova diritto amministrativo, pubblico impiego, contabilità, ordinamento e attribuzioni INAIL, salute e sicurezza nei luoghi di lavoro, logica, inglese, informatica e quesiti situazionali. La sua prima idea è dividere lo studio in due blocchi separati: un manuale generale per concorsi e un testo tecnico sulla sicurezza.
 
 I due blocchi, presi separatamente, non risolvono il problema: il manuale generale non spiega il taglio INAIL, mentre il testo tecnico può portarla fuori strada. Con il Metodo BANDO, Sara procede così:
 
 1. identifica l'ente: INAIL, quindi capitolo 4 centrale;
-2. separa il core: amministrativo, pubblico impiego, contabilita, digitale, logica, inglese;
+2. separa il core: amministrativo, pubblico impiego, contabilità, digitale, logica, inglese;
 3. isola il delta INAIL: assicurazione obbligatoria, infortuni, malattie professionali, prevenzione, prestazioni, salute e sicurezza;
 4. attiva l'Appendice F per le materie integrative del bando;
 5. costruisce una mappa rischio-evento-procedimento-dati-prestazione;
@@ -337,13 +337,13 @@ Questa risposta mostra il taglio INAIL: tutela della persona, rispetto della pro
 
 **Domanda:** perché l'INAIL non va studiato solo come ente che eroga prestazioni?
 
-**Risposta modello:** perché l'INAIL opera in un sistema più ampio che collega assicurazione obbligatoria contro infortuni e malattie professionali, prevenzione, salute e sicurezza nei luoghi di lavoro, rapporto con imprese e lavoratori, istruttoria delle pratiche e prestazioni. In un concorso amministrativo, il candidato deve saper collegare questi aspetti alle materie comuni: procedimento, privacy, pubblico impiego, digitale, contabilita e situazionali. Il bando decide il livello di dettaglio, ma la logica centrale è rischio-evento-tutela-prevenzione-prestazione.
+**Risposta modello:** perché l'INAIL opera in un sistema più ampio che collega assicurazione obbligatoria contro infortuni e malattie professionali, prevenzione, salute e sicurezza nei luoghi di lavoro, rapporto con imprese e lavoratori, istruttoria delle pratiche e prestazioni. In un concorso amministrativo, il candidato deve saper collegare questi aspetti alle materie comuni: procedimento, privacy, pubblico impiego, digitale, contabilità e situazionali. Il bando decide il livello di dettaglio, ma la logica centrale è rischio-evento-tutela-prevenzione-prestazione.
 
 ### Domanda-trappola
 
 **Domanda:** se nel bando compare la normativa in materia di salute e sicurezza, devo prepararmi come un tecnico RSPP?
 
-**Risposta corretta:** no. Devi conoscere la mappa concorsuale della sicurezza: prevenzione, valutazione dei rischi, soggetti, formazione, informazione, RLS, obblighi e responsabilita. Devi collegarla al ruolo dell'INAIL, al pubblico impiego e ai casi amministrativi. I dettagli tecnici, sanzionatori o specialistici vanno studiati solo se il bando li richiede in modo espresso e con fonti aggiornate.
+**Risposta corretta:** no. Devi conoscere la mappa concorsuale della sicurezza: prevenzione, valutazione dei rischi, soggetti, formazione, informazione, RLS, obblighi e responsabilità. Devi collegarla al ruolo dell'INAIL, al pubblico impiego e ai casi amministrativi. I dettagli tecnici, sanzionatori o specialistici vanno studiati solo se il bando li richiede in modo espresso e con fonti aggiornate.
 
 **Perché è una trappola:** confonde una materia presente nel bando con un profilo professionale diverso. Il funzionario amministrativo deve comprendere il sistema, non sostituirsi ai tecnici della sicurezza.
 
@@ -387,7 +387,7 @@ Correzione: se rispondi "studio sicurezza" senza distinguere rischio, prevenzion
 | Confondere INAIL e INPS | Uso previdenza e contributi INPS per una domanda su infortuni o sicurezza. | Distinguo assicurazione/prevenzione INAIL da previdenza/servizi INPS. |
 | Studiare sicurezza da tecnico | Apro materiali RSPP e perdo il profilo amministrativo. | Uso la mappa essenziale e rinvio i dettagli all'Appendice F. |
 | Ridurre INAIL alle prestazioni | Parlo solo di indennizzi o tutele dopo l'evento. | Aggiungo prevenzione, rischio, sicurezza e procedimento. |
-| Ignorare privacy e dati relativi alla salute | Comunico informazioni senza cautela nel caso pratico. | Verifico identita, ruolo, canale e minimizzazione dei dati. |
+| Ignorare privacy e dati relativi alla salute | Comunico informazioni senza cautela nel caso pratico. | Verifico identità, ruolo, canale e minimizzazione dei dati. |
 | Non leggere il bando | Studio materie integrative non richieste o salto quelle presenti. | Torno a prove, materie, punteggi e allegati. |
 | Citare dati non aggiornati | Uso requisiti, importi, scadenze o procedure senza fonte corrente. | Segno verifica ufficiale prima della pubblicazione o della prova. |
 
@@ -430,12 +430,12 @@ D. No, perché l'INAIL svolge soltanto prevenzione.
 
 **3. Quale criterio orienta la distinzione tra infortunio e malattia professionale?**
 
-A. Soltanto la gravita del danno.
+A. Soltanto la gravità del danno.
 B. Il diverso modo in cui evento o patologia si collegano al lavoro.
 C. La scelta del lavoratore al momento della domanda.
 D. Il canale digitale utilizzato.
 
-**Risposta corretta: B.** L'infortunio richiama un evento concentrato e la sua occasione di lavoro; la malattia professionale richiede la valutazione del nesso tra patologia ed esposizione o attivita.
+**Risposta corretta: B.** L'infortunio richiama un evento concentrato e la sua occasione di lavoro; la malattia professionale richiede la valutazione del nesso tra patologia ed esposizione o attività.
 
 **4. Quale comportamento esprime correttamente la prevenzione?**
 
@@ -444,7 +444,7 @@ B. Agire fuori ruolo per risolvere personalmente ogni problema tecnico.
 C. Riconoscere il rischio, usare il canale previsto e coinvolgere chi ha competenza.
 D. Considerare permanente ogni iniziativa pubblicata sul portale.
 
-**Risposta corretta: C.** La prevenzione opera attraverso organizzazione, responsabilita e procedure; non coincide con l'inerzia né con iniziative individuali fuori competenza.
+**Risposta corretta: C.** La prevenzione opera attraverso organizzazione, responsabilità e procedure; non coincide con l'inerzia né con iniziative individuali fuori competenza.
 
 **5. Informazione e formazione in materia di sicurezza sono sinonimi?**
 
@@ -453,13 +453,13 @@ B. No: la prima comunica conoscenze pertinenti, la seconda sviluppa competenze.
 C. Sì, ma soltanto negli uffici pubblici.
 D. No, perché la formazione riguarda esclusivamente i tecnici.
 
-**Risposta corretta: B.** Le due attivita concorrono alla prevenzione ma svolgono funzioni distinte; l'addestramento, quando previsto, ha a sua volta un taglio pratico.
+**Risposta corretta: B.** Le due attività concorrono alla prevenzione ma svolgono funzioni distinte; l'addestramento, quando previsto, ha a sua volta un taglio pratico.
 
 **6. Un utente chiede l'esito certo di una pratica relativa a un infortunio. Qual è la risposta professionale?**
 
 A. Garantire la prestazione per rassicurarlo.
 B. Comunicare ogni dato al familiare che lo accompagna.
-C. Verificare identita e pratica, spiegare i passaggi e non anticipare l'esito.
+C. Verificare identità e pratica, spiegare i passaggi e non anticipare l'esito.
 D. Rifiutare qualsiasi orientamento.
 
-**Risposta corretta: C.** Servizio, riservatezza e imparzialita richiedono identificazione, informazioni nei limiti del ruolo, canali ufficiali e nessuna promessa prima dell'istruttoria.
+**Risposta corretta: C.** Servizio, riservatezza e imparzialità richiedono identificazione, informazioni nei limiti del ruolo, canali ufficiali e nessuna promessa prima dell'istruttoria.

@@ -217,7 +217,7 @@ Per allenare la tecnica ispettiva usa una scheda che renda controllabile il ragi
 
 **Esempio.** Durante un accesso alcuni nominativi presenti sul luogo non coincidono con la documentazione immediatamente disponibile. Il dato non equivale ancora a lavoro irregolare provato. La scheda separa presenza osservata, identità, dichiarazioni, documenti acquisiti, risultanze delle banche dati consentite e ulteriori verifiche. Solo il confronto permette la qualificazione; il verbale espone fatti ed evidenze in modo comprensibile, senza salti logici.
 
-Una risposta o un elaborato è solido quando il lettore può ripercorrere il passaggio da ogni conclusione agli elementi che la sostengono. È debole se usa formule come “risulta irregolare” senza indicare il fatto, la fonte e il criterio applicato. **Mini-esercizio:** prendi un caso con due documenti discordanti e compila la tabella; poi scrivi una conclusione che distingua ciò che è accertato da ciò che richiede verifica.
+Una risposta o un elaborato è solido quando il lettore può ripercorrere il passaggio da ogni conclusione agli elementi che la sostengono. È debole se usa formule come "risulta irregolare" senza indicare il fatto, la fonte e il criterio applicato. **Mini-esercizio:** prendi un caso con due documenti discordanti e compila la tabella; poi scrivi una conclusione che distingua ciò che è accertato da ciò che richiede verifica.
 ### Griglia per la risposta
 
 La scheda prepara lo studio; la griglia prepara la prestazione. In una risposta orale o scritta sul sottoprofilo ispettivo, usa una sequenza in sei passaggi:

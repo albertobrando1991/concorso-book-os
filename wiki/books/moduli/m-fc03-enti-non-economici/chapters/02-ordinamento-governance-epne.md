@@ -50,9 +50,9 @@ last_compiled_from: [
 
 Dopo aver riconosciuto che un bando appartiene alla famiglia M-FC03, il passo successivo è capire come è fatto l'ente. Nei concorsi per enti pubblici non economici non basta sapere che INPS, INAIL o un altro ente svolgono funzioni pubbliche. Bisogna comprendere chi indirizza, chi gestisce, chi controlla, quale ministero vigila, quali atti regolano l'organizzazione e dove il candidato deve cercare le informazioni ufficiali.
 
-La governance descrive la distribuzione dei poteri dentro l'ente. Conoscerla serve nei quiz e all'orale, ma anche per leggere la sezione Amministrazione trasparente o risolvere un caso in cui occorra distinguere competenza, responsabilita, procedimento e controllo.
+La governance descrive la distribuzione dei poteri dentro l'ente. Conoscerla serve nei quiz e all'orale, ma anche per leggere la sezione Amministrazione trasparente o risolvere un caso in cui occorra distinguere competenza, responsabilità, procedimento e controllo.
 
-Il rischio tipico è studiare gli EPNE come se fossero ministeri. Un ministero è parte dell'amministrazione statale centrale; un ente pubblico non economico ha personalita, organizzazione, funzioni e atti propri, pur restando inserito nel sistema pubblico e sottoposto a forme di vigilanza e controllo. Questa differenza cambia il modo in cui leggi statuto, regolamenti, organi, bilancio, performance, PIAO e rapporti con utenti, imprese e amministrazioni vigilanti.
+Il rischio tipico è studiare gli EPNE come se fossero ministeri. Un ministero è parte dell'amministrazione statale centrale; un ente pubblico non economico ha personalità, organizzazione, funzioni e atti propri, pur restando inserito nel sistema pubblico e sottoposto a forme di vigilanza e controllo. Questa differenza cambia il modo in cui leggi statuto, regolamenti, organi, bilancio, performance, PIAO e rapporti con utenti, imprese e amministrazioni vigilanti.
 
 La domanda guida del capitolo è:
 
@@ -75,8 +75,8 @@ Il capitolo non sostituisce lo statuto aggiornato del singolo ente. Ti insegna c
 | Fase | Domanda operativa | Output |
 | --- | --- | --- |
 | B - Bando | Il programma richiama ordinamento dell'ente, statuto, regolamenti, organi, bilancio, controlli, PIAO o amministrazione trasparente? | Attivazione del capitolo 2. |
-| A - Aree | Quali materie comuni rientrano: costituzionale, amministrativo, pubblico impiego, trasparenza, contabilita, performance? | Collegamento al libro base senza duplicazione. |
-| N - Nuclei | Quali nuclei EPNE devo presidiare: ente, organi, statuto, vigilanza, controlli, bilancio, PIAO, responsabilita? | Schema di governance. |
+| A - Aree | Quali materie comuni rientrano: costituzionale, amministrativo, pubblico impiego, trasparenza, contabilità, performance? | Collegamento al libro base senza duplicazione. |
+| N - Nuclei | Quali nuclei EPNE devo presidiare: ente, organi, statuto, vigilanza, controlli, bilancio, PIAO, responsabilità? | Schema di governance. |
 | D - Diario | Dove rischio confusione: ministero/ente, organo politico/organo gestionale, vigilanza/controllo, statuto/regolamento? | Voce nel diario errori. |
 | O - Output | Che cosa devo produrre per la prova? | Mappa organi-vigilanza-controlli e risposta orale in 90 secondi. |
 
@@ -84,11 +84,11 @@ La governance diventa utile quando produce uno schema. Se resta un elenco di org
 
 ## N-FC03-02-01 · Natura dell'EPNE e quadro ordinamentale
 
-L'ordinamento di un ente pubblico non economico è l'insieme delle regole che ne definiscono natura, finalita, struttura, organi, competenze, controlli, personale, contabilita e rapporti con le amministrazioni vigilanti. Nel quadro generale degli EPNE, assumono rilievo la legge 20 marzo 1975, n. 70 come riferimento storico per il riordino degli enti pubblici non economici e il decreto legislativo 30 giugno 1994, n. 479 per il riordino degli enti pubblici di previdenza e assistenza.
+L'ordinamento di un ente pubblico non economico è l'insieme delle regole che ne definiscono natura, finalità, struttura, organi, competenze, controlli, personale, contabilità e rapporti con le amministrazioni vigilanti. Nel quadro generale degli EPNE, assumono rilievo la legge 20 marzo 1975, n. 70 come riferimento storico per il riordino degli enti pubblici non economici e il decreto legislativo 30 giugno 1994, n. 479 per il riordino degli enti pubblici di previdenza e assistenza.
 
-Al candidato non serve recitare la storia normativa del parastato. Deve capire la posizione dell'EPNE: un soggetto pubblico distinto dal ministero e, nello stesso tempo, inserito nel sistema delle pubbliche amministrazioni. Ha organizzazione e atti propri; restano applicabili indirizzi, vigilanza, obblighi di trasparenza, controlli, regole sul personale, vincoli di bilancio e responsabilita amministrativa.
+Al candidato non serve recitare la storia normativa del parastato. Deve capire la posizione dell'EPNE: un soggetto pubblico distinto dal ministero e, nello stesso tempo, inserito nel sistema delle pubbliche amministrazioni. Ha organizzazione e atti propri; restano applicabili indirizzi, vigilanza, obblighi di trasparenza, controlli, regole sul personale, vincoli di bilancio e responsabilità amministrativa.
 
-Questa posizione intermedia spiega perché nei bandi EPNE compaiono spesso materie comuni e materie specialistiche nello stesso programma. Diritto amministrativo, pubblico impiego, trasparenza, privacy, contabilita e contratti pubblici restano necessari. Ma devono essere applicati a un ente che gestisce servizi, prestazioni, fascicoli, pagamenti, dati personali, rapporti con cittadini, lavoratori, imprese e altre amministrazioni.
+Questa posizione intermedia spiega perché nei bandi EPNE compaiono spesso materie comuni e materie specialistiche nello stesso programma. Diritto amministrativo, pubblico impiego, trasparenza, privacy, contabilità e contratti pubblici restano necessari. Ma devono essere applicati a un ente che gestisce servizi, prestazioni, fascicoli, pagamenti, dati personali, rapporti con cittadini, lavoratori, imprese e altre amministrazioni.
 
 La formula da ricordare è:
 
@@ -120,10 +120,10 @@ Quando il bando chiede ordinamento di un ente, non aprire documenti a caso. Usa 
 | --- | --- | --- |
 | Normativa primaria | Leggi e decreti che istituiscono, riordinano o disciplinano categorie di enti o enti specifici. | Serve per definire natura, funzioni, organi e vigilanza. |
 | Statuto | Regole fondamentali dell'ente, assetto organizzativo generale, organi e principi di funzionamento. | Serve per capire la struttura dell'ente concreto. |
-| Regolamenti interni | Procedimenti, organizzazione, contabilita, accesso, personale, servizi, documenti e funzionamento operativo. | Servono per casi e domande applicative, solo se richiamati dal bando. |
+| Regolamenti interni | Procedimenti, organizzazione, contabilità, accesso, personale, servizi, documenti e funzionamento operativo. | Servono per casi e domande applicative, solo se richiamati dal bando. |
 | Amministrazione trasparente | Atti generali, organizzazione, consulenti, personale, bandi, bilanci, performance, controlli e servizi. | Serve per verificare dati aggiornati e documenti ufficiali. |
 | PIAO, bilanci e documenti di programmazione | Obiettivi, organizzazione, performance, prevenzione della corruzione, fabbisogni, risorse e risultati. | Servono per collegare governance, personale, controlli e valore pubblico. |
-| Bando e allegati | Profilo, materie, prove, punteggi, requisiti e comunicazioni successive. | Decidono profondita e priorita di studio. |
+| Bando e allegati | Profilo, materie, prove, punteggi, requisiti e comunicazioni successive. | Decidono profondità e priorità di studio. |
 
 Questa gerarchia evita due errori ricorrenti: fermarsi alla norma generale e ignorare l'ente concreto, oppure consultare molte pagine web senza avere prima costruito uno schema giuridico.
 
@@ -177,9 +177,9 @@ Nel caso pratico, usa una catena semplice: individua l'atto da adottare; cerca l
 
 Il risultato dello studio deve essere una matrice organo-funzione-atto-controllo. Una matrice ben costruita permette di riconoscere sia l'organo competente sia il limite del suo potere e rende immediato il confronto con una risposta alternativa formulata in modo assoluto.
 
-## N-FC03-02-04 · Governance interna, vigilanza esterna e responsabilita
+## N-FC03-02-04 · Governance interna, vigilanza esterna e responsabilità
 
-La governance interna riguarda il modo in cui l'ente decide, organizza e controlla la propria attivita. La vigilanza esterna riguarda invece il rapporto con amministrazioni o organi pubblici che esercitano poteri di indirizzo, approvazione, controllo o supervisione secondo la disciplina dell'ente.
+La governance interna riguarda il modo in cui l'ente decide, organizza e controlla la propria attività. La vigilanza esterna riguarda invece il rapporto con amministrazioni o organi pubblici che esercitano poteri di indirizzo, approvazione, controllo o supervisione secondo la disciplina dell'ente.
 
 Nei concorsi EPNE questa distinzione ricorre spesso.
 
@@ -187,19 +187,19 @@ Nei concorsi EPNE questa distinzione ricorre spesso.
 | --- | --- | --- |
 | Governance interna | Chi decide dentro l'ente? Chi gestisce? Chi controlla internamente? | Pensare che tutto sia deciso dal ministero. |
 | Vigilanza esterna | Quale amministrazione vigila? Su quali atti? Con quali poteri? | Confondere vigilanza con gerarchia ministeriale piena. |
-| Controlli contabili | Chi verifica regolarita, bilancio, spesa e patrimonio? | Ridurre i controlli a un controllo formale. |
+| Controlli contabili | Chi verifica regolarità, bilancio, spesa e patrimonio? | Ridurre i controlli a un controllo formale. |
 | Trasparenza | Dove trovo atti, organi, bilanci, performance e informazioni pubbliche? | Usare pagine non ufficiali o dati non aggiornati. |
-| Responsabilita | Chi risponde di atti, procedimenti, risultati e uso delle risorse? | Separare governance e responsabilita come se fossero mondi diversi. |
+| Responsabilità | Chi risponde di atti, procedimenti, risultati e uso delle risorse? | Separare governance e responsabilità come se fossero mondi diversi. |
 
 La vigilanza non annulla l'autonomia dell'ente. La indirizza e la controlla nei limiti previsti dalla legge. Per il candidato, questo produce una regola pratica: quando leggi un atto dell'ente, chiediti sempre se è atto interno, atto soggetto a vigilanza, documento contabile, documento di performance o informazione pubblicata per trasparenza.
 
 ### Statuto, regolamenti e atti generali
 
-Lo statuto è la porta principale per capire l'ente. Definisce identita istituzionale, finalita, organi, funzioni essenziali e regole generali di funzionamento. Non va studiato come un testo isolato: va letto insieme al bando. Se il bando chiede espressamente ordinamento dell'ente o statuto, lo statuto diventa fonte ad alta priorita. Se il bando non lo richiama, può bastare una conoscenza orientativa, salvo domande orali o casi pratici.
+Lo statuto è la porta principale per capire l'ente. Definisce identità istituzionale, finalità, organi, funzioni essenziali e regole generali di funzionamento. Non va studiato come un testo isolato: va letto insieme al bando. Se il bando chiede espressamente ordinamento dell'ente o statuto, lo statuto diventa fonte ad alta priorità. Se il bando non lo richiama, può bastare una conoscenza orientativa, salvo domande orali o casi pratici.
 
-I regolamenti interni scendono di livello. Possono riguardare organizzazione degli uffici, contabilita, accesso, procedimenti, personale, contratti, servizi, gestione documentale, privacy o funzionamento degli organi. Sono importanti quando il bando li cita o quando servono a un caso pratico. Non vanno aperti tutti in modo indifferenziato.
+I regolamenti interni scendono di livello. Possono riguardare organizzazione degli uffici, contabilità, accesso, procedimenti, personale, contratti, servizi, gestione documentale, privacy o funzionamento degli organi. Sono importanti quando il bando li cita o quando servono a un caso pratico. Non vanno aperti tutti in modo indifferenziato.
 
-Gli atti generali pubblicati in amministrazione trasparente sono il ponte tra ordinamento e operativita. Li usi per verificare come l'ente si presenta ufficialmente, quali documenti sono disponibili e quali informazioni possono sostenere una risposta aggiornata. Prima di citare statuti vigenti, regolamenti, PIAO, bilanci annuali o carte dei servizi occorre comunque verificare versione, data e provenienza sul portale istituzionale.
+Gli atti generali pubblicati in amministrazione trasparente sono il ponte tra ordinamento e operatività. Li usi per verificare come l'ente si presenta ufficialmente, quali documenti sono disponibili e quali informazioni possono sostenere una risposta aggiornata. Prima di citare statuti vigenti, regolamenti, PIAO, bilanci annuali o carte dei servizi occorre comunque verificare versione, data e provenienza sul portale istituzionale.
 
 Adotta quindi questa cautela:
 
@@ -221,9 +221,9 @@ Per rendere visibile il ragionamento, prepara una griglia con quattro colonne: s
 
 Un EPNE produce provvedimenti e gestisce risorse, patrimonio, entrate, spese, servizi, prestazioni e obblighi di rendicontazione. Bilancio e controlli appartengono quindi alla governance e non possono essere trattati come un tema contabile isolato.
 
-Nel bando, i segnali da intercettare sono: bilancio, patrimonio, controlli, vigilanza, rendiconto, regolarita amministrativo-contabile, Corte dei conti, Ragioneria generale dello Stato, revisione, performance, valore pubblico e amministrazione trasparente. Se compaiono, studiali come parti della catena obiettivi-risorse-gestione-rendicontazione e calibra l'approfondimento contabile sulle prove previste.
+Nel bando, i segnali da intercettare sono: bilancio, patrimonio, controlli, vigilanza, rendiconto, regolarità amministrativo-contabile, Corte dei conti, Ragioneria generale dello Stato, revisione, performance, valore pubblico e amministrazione trasparente. Se compaiono, studiali come parti della catena obiettivi-risorse-gestione-rendicontazione e calibra l'approfondimento contabile sulle prove previste.
 
-Il controllo può avere diverse funzioni: garantire legalita, verificare regolarita contabile, monitorare uso delle risorse, sostenere responsabilita amministrativa, rendere leggibile l'azione dell'ente all'esterno. Nei concorsi non serve trasformarsi in revisore contabile. Serve sapere che governance, bilancio e controlli formano una catena: obiettivi, risorse, atti, gestione, rendicontazione, verifica.
+Il controllo può avere diverse funzioni: garantire legalità, verificare regolarità contabile, monitorare uso delle risorse, sostenere responsabilità amministrativa, rendere leggibile l'azione dell'ente all'esterno. Nei concorsi non serve trasformarsi in revisore contabile. Serve sapere che governance, bilancio e controlli formano una catena: obiettivi, risorse, atti, gestione, rendicontazione, verifica.
 
 ### Performance, PIAO e valore pubblico
 
@@ -231,13 +231,13 @@ La programmazione è parte della governance degli enti pubblici. Il PIAO, quando
 
 Il candidato deve usare il PIAO con misura. Non deve imparare a memoria ogni obiettivo annuale dell'ente. Deve capire quali informazioni cerca:
 
-- quali priorita organizzative emergono;
+- quali priorità organizzative emergono;
 - come l'ente descrive servizi, processi e utenti;
 - quali rischi e misure di prevenzione sono richiamati;
 - come performance e trasparenza dialogano;
 - quali profili di personale, competenze e fabbisogni vengono evidenziati.
 
-Questa lettura aiuta soprattutto nei quesiti situazionali e nei casi pratici. Una risposta coerente con la PA non dice soltanto "risolvo il problema". Dice: rispetto competenza, procedimento, privacy, trasparenza, tempi, responsabilita e qualita del servizio.
+Questa lettura aiuta soprattutto nei quesiti situazionali e nei casi pratici. Una risposta coerente con la PA non dice soltanto "risolvo il problema". Dice: rispetto competenza, procedimento, privacy, trasparenza, tempi, responsabilità e qualità del servizio.
 
 ### La catena obiettivi-risorse-risultati
 
@@ -267,9 +267,9 @@ Usa questo schema come pagina di ripasso.
 | Organi | Quali funzioni di indirizzo, gestione e controllo sono previste. | Statuto e atti generali. | Schema organi/funzioni. |
 | Vigilanza | Quale amministrazione vigila e su quali atti o profili. | Normativa e statuto. | Collegamento ente-ministero. |
 | Gestione | Come uffici e dirigenti attuano obiettivi e procedimenti. | Regolamenti, PIAO, organizzazione. | Caso pratico su competenza. |
-| Controlli | Quali controlli riguardano atti, bilancio, spesa, risultati e responsabilita. | Bilanci, relazioni, amministrazione trasparente, fonti RGS. | Risposta su legalita, responsabilita e rendicontazione. |
+| Controlli | Quali controlli riguardano atti, bilancio, spesa, risultati e responsabilità. | Bilanci, relazioni, amministrazione trasparente, fonti RGS. | Risposta su legalità, responsabilità e rendicontazione. |
 | Trasparenza | Dove sono pubblicati atti, dati, performance e bilanci. | Amministrazione trasparente. | Verifica fonte ufficiale. |
-| Bando | Quali parti entrano davvero nella prova. | Bando, allegati, avvisi. | Priorita di studio. |
+| Bando | Quali parti entrano davvero nella prova. | Bando, allegati, avvisi. | Priorità di studio. |
 
 Non devi completare tutti i campi con lo stesso livello di dettaglio. Devi completarli in proporzione al bando.
 
@@ -277,7 +277,7 @@ Non devi completare tutti i campi con lo stesso livello di dettaglio. Devi compl
 
 La commissione può partire da un quiz definitorio su natura dell'ente, fonti, organi, controlli, vigilanza o documenti. In questo caso servono definizioni precise e una chiara distinzione dei livelli.
 
-All'orale può chiedere l'ordinamento di INPS, INAIL o di un altro ente indicato dal bando. Citare una legge non basta: la risposta deve collegare funzioni, organi, vigilanza, servizi e responsabilita.
+All'orale può chiedere l'ordinamento di INPS, INAIL o di un altro ente indicato dal bando. Citare una legge non basta: la risposta deve collegare funzioni, organi, vigilanza, servizi e responsabilità.
 
 Nel caso pratico, un cittadino presenta una domanda, un ufficio istruisce una pratica, un dirigente organizza un servizio oppure occorre decidere se pubblicare o proteggere un dato. La governance diventa allora un problema di competenza: chi fa che cosa e con quali limiti.
 
@@ -289,7 +289,7 @@ L'ordinamento di un EPNE comprende natura dell'ente, funzioni, organi, statuto, 
 
 ### Caso ragionato
 
-Marco prepara un concorso per funzionari in un ente pubblico non economico. Nel programma trova: ordinamento dell'ente, elementi di diritto amministrativo, pubblico impiego, trasparenza, contabilita pubblica, PIAO e prova orale. La sua prima idea è studiare diritto amministrativo generale e poi leggere rapidamente la pagina "chi siamo" del sito dell'ente.
+Marco prepara un concorso per funzionari in un ente pubblico non economico. Nel programma trova: ordinamento dell'ente, elementi di diritto amministrativo, pubblico impiego, trasparenza, contabilità pubblica, PIAO e prova orale. La sua prima idea è studiare diritto amministrativo generale e poi leggere rapidamente la pagina "chi siamo" del sito dell'ente.
 
 Il piano è insufficiente. La pagina istituzionale può orientare, ma non sostituisce statuto, atti generali e bando. Il manuale generale spiega procedimento e organizzazione della PA, ma non mostra come questi concetti si applicano all'ente specifico.
 
@@ -299,7 +299,7 @@ Con il Metodo BANDO, Marco procede così:
 2. apre la sezione ufficiale di amministrazione trasparente e cerca atti generali, organizzazione, bilanci e performance;
 3. distingue statuto, regolamenti e documenti di programmazione;
 4. costruisce una tabella con natura dell'ente, organi, funzioni, vigilanza e controlli;
-5. collega ogni voce a una materia del libro base: amministrativo, pubblico impiego, trasparenza, contabilita, performance;
+5. collega ogni voce a una materia del libro base: amministrativo, pubblico impiego, trasparenza, contabilità, performance;
 6. prepara una risposta orale di 90 secondi e un caso pratico su competenza dell'ufficio.
 
 Il risultato non è sapere tutto sull'ente. È saper spiegare la sua architettura istituzionale con fonti ufficiali e con un linguaggio da funzionario.
@@ -308,13 +308,13 @@ Il risultato non è sapere tutto sull'ente. È saper spiegare la sua architettur
 
 **Domanda:** qual è la differenza tra governance interna e vigilanza esterna in un ente pubblico non economico?
 
-**Risposta modello:** la governance interna riguarda l'organizzazione dell'ente: organi, indirizzo, gestione, controlli interni, uffici, responsabilita e documenti di programmazione. La vigilanza esterna riguarda invece il rapporto con le amministrazioni o gli organi pubblici che, secondo la disciplina applicabile, esercitano poteri di controllo, approvazione, indirizzo o supervisione su determinati atti o profili dell'ente. La vigilanza non trasforma l'EPNE in un ufficio ministeriale; segnala che l'autonomia dell'ente opera dentro un sistema di legalita, responsabilita e controllo pubblico.
+**Risposta modello:** la governance interna riguarda l'organizzazione dell'ente: organi, indirizzo, gestione, controlli interni, uffici, responsabilità e documenti di programmazione. La vigilanza esterna riguarda invece il rapporto con le amministrazioni o gli organi pubblici che, secondo la disciplina applicabile, esercitano poteri di controllo, approvazione, indirizzo o supervisione su determinati atti o profili dell'ente. La vigilanza non trasforma l'EPNE in un ufficio ministeriale; segnala che l'autonomia dell'ente opera dentro un sistema di legalità, responsabilità e controllo pubblico.
 
 ### Domanda-trappola
 
 **Domanda:** se un ente pubblico non economico è sottoposto a vigilanza ministeriale, allora i suoi organi coincidono con quelli del ministero vigilante?
 
-**Risposta corretta:** no. La vigilanza non coincide con la gerarchia piena e non cancella l'organizzazione propria dell'ente. L'EPNE conserva organi, statuto, regolamenti, uffici e responsabilita secondo la disciplina applicabile. Il ministero o l'amministrazione vigilante esercita i poteri previsti dalla legge, ma non sostituisce automaticamente gli organi dell'ente.
+**Risposta corretta:** no. La vigilanza non coincide con la gerarchia piena e non cancella l'organizzazione propria dell'ente. L'EPNE conserva organi, statuto, regolamenti, uffici e responsabilità secondo la disciplina applicabile. Il ministero o l'amministrazione vigilante esercita i poteri previsti dalla legge, ma non sostituisce automaticamente gli organi dell'ente.
 
 **Perché è una trappola:** confonde controllo esterno e struttura interna. Nei quiz questa confusione porta a risposte troppo ministeriali; nei casi pratici porta ad attribuire competenze al soggetto sbagliato.
 
@@ -329,7 +329,7 @@ La correzione è:
 1. parti sempre dal bando;
 2. identifica fonte normativa, statuto e amministrazione trasparente;
 3. trasforma ogni organo in una funzione;
-4. collega la funzione a un controllo o a una responsabilita;
+4. collega la funzione a un controllo o a una responsabilità;
 5. verifica i dati puntuali solo su fonti ufficiali aggiornate.
 
 ### Mini-esercizio
@@ -359,7 +359,7 @@ Correzione: se nella terza riga scrivi solo "sito internet", stai confondendo ca
 | Studiare organi senza funzioni | Ricordo nomi ma non so chi indirizza, gestisce o controlla. | Uso la griglia organo-funzione-fonte. |
 | Usare fonti non aggiornate | Cito statuto, PIAO o bilancio senza data e fonte ufficiale. | Verifico amministrazione trasparente e segnalo la data. |
 | Separare governance e bilancio | Tratto i controlli come materia contabile isolata. | Collegamento obiettivi-risorse-atti-rendicontazione. |
-| Ignorare il bando | Studio tutto lo statuto anche se il programma non lo richiede. | Peso la profondita in base a materie, prove e orale. |
+| Ignorare il bando | Studio tutto lo statuto anche se il programma non lo richiede. | Peso la profondità in base a materie, prove e orale. |
 | Confondere regolamento e statuto | Uso un regolamento operativo come se definisse l'intero ente. | Ricostruisco la gerarchia delle fonti interne. |
 
 ### Checklist operativa finale
@@ -371,7 +371,7 @@ Prima di passare al capitolo 3, devi poter rispondere senza appunti:
 | So spiegare che cosa significa ordinamento di un EPNE? | |
 | So distinguere norma, statuto, regolamento, PIAO, bilancio e bando? | |
 | So separare governance interna e vigilanza esterna? | |
-| So collegare organi, funzioni, controlli e responsabilita? | |
+| So collegare organi, funzioni, controlli e responsabilità? | |
 | So dire perché un EPNE non è un ministero? | |
 | So usare amministrazione trasparente senza citare dati instabili? | |
 | So costruire uno schema organi-vigilanza-controlli? | |

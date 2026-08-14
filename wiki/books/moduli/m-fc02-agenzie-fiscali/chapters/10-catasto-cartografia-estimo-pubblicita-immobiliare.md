@@ -1,7 +1,7 @@
 ---
 id: chapter-m-fc02-catasto-cartografia-estimo-pubblicita-immobiliare
 type: book_chapter
-title: "Catasto, cartografia, estimo e pubblicita immobiliare"
+title: "Catasto, cartografia, estimo e pubblicità immobiliare"
 status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["catasto", "cartografia", "estimo", "OMI", "pubblicita immobiliare"]
@@ -28,7 +28,7 @@ last_compiled_from: ["wiki/sources/catasto-pubblicita-immobiliare-estimo-m-fc02.
 
 ## Apertura editoriale
 
-Una visura catastale e un'ispezione ipotecaria possono riferirsi allo stesso appartamento, ma rispondono a domande diverse. La prima descrive l'unita, i suoi identificativi, la rendita e l'intestazione catastale. La seconda ricostruisce le formalita che riguardano diritti, trasferimenti, ipoteche e altri vincoli pubblicizzati nei registri immobiliari.
+Una visura catastale e un'ispezione ipotecaria possono riferirsi allo stesso appartamento, ma rispondono a domande diverse. La prima descrive l'unità, i suoi identificativi, la rendita e l'intestazione catastale. La seconda ricostruisce le formalità che riguardano diritti, trasferimenti, ipoteche e altri vincoli pubblicizzati nei registri immobiliari.
 
 La distinzione orienta il lavoro degli Uffici provinciali - Territorio dell'Agenzia delle Entrate. Catasto, cartografia, estimo, OMI e pubblicità immobiliare condividono dati e riferimenti agli immobili, ma svolgono funzioni diverse. Confonderli porta a errori frequenti: attribuire al catasto efficacia probatoria piena, usare una quotazione OMI come perizia o trattare una voltura come trascrizione dell'atto.
 
@@ -64,7 +64,7 @@ Al termine del capitolo devi saper:
 
 Il catasto è un inventario dei beni immobili presenti sul territorio. Identifica terreni e fabbricati, ne registra caratteristiche, intestazioni e redditi catastali. La sua funzione è prevalentemente fiscale, conoscitiva e amministrativa.
 
-Nel sistema ordinario italiano il catasto non ha efficacia probatoria piena della proprietà. L'intestazione catastale è un dato importante, ma il diritto reale si ricostruisce attraverso titoli, successioni e formalita nei registri immobiliari. Se visura e atto notarile divergono, non si conclude automaticamente che il titolare catastale sia proprietario.
+Nel sistema ordinario italiano il catasto non ha efficacia probatoria piena della proprietà. L'intestazione catastale è un dato importante, ma il diritto reale si ricostruisce attraverso titoli, successioni e formalità nei registri immobiliari. Se visura e atto notarile divergono, non si conclude automaticamente che il titolare catastale sia proprietario.
 
 L'Agenzia delle Entrate gestisce le banche dati catastali attraverso gli Uffici provinciali - Territorio e i servizi telematici. Professionisti, cittadini, comuni e altre amministrazioni interagiscono con dati e procedure secondo competenze, abilitazioni e regole di accesso.
 
@@ -78,13 +78,13 @@ I servizi immobiliari dell'Agenzia seguono quattro funzioni collegate: **identif
 
 Il catasto terreni censisce particelle, qualità colturali, classi e redditi dominicale e agrario. La particella è una porzione continua di terreno situata nello stesso comune e foglio, caratterizzata secondo le regole catastali. Il reddito dominicale si collega alla proprietà del fondo; quello agrario all'esercizio dell'attività agricola e all'impiego del capitale e del lavoro organizzativo.
 
-Il catasto dei fabbricati censisce le unita immobiliari urbane e le altre costruzioni previste. L'unita immobiliare è una porzione di fabbricato, un intero fabbricato o un insieme di fabbricati che, nello stato in cui si trova, presenta autonomia funzionale e reddituale secondo la disciplina catastale.
+Il catasto dei fabbricati censisce le unità immobiliari urbane e le altre costruzioni previste. L'unità immobiliare è una porzione di fabbricato, un intero fabbricato o un insieme di fabbricati che, nello stato in cui si trova, presenta autonomia funzionale e reddituale secondo la disciplina catastale.
 
-I due archivi dialogano. Una nuova costruzione richiede prima l'aggiornamento geometrico della particella al catasto terreni e poi la dichiarazione delle unita al catasto fabbricati. Sono operazioni distinte: la prima aggiorna la rappresentazione del suolo, la seconda il censimento urbano.
+I due archivi dialogano. Una nuova costruzione richiede prima l'aggiornamento geometrico della particella al catasto terreni e poi la dichiarazione delle unità al catasto fabbricati. Sono operazioni distinte: la prima aggiorna la rappresentazione del suolo, la seconda il censimento urbano.
 
 ## 3. Identificativi e lettura della visura
 
-L'immobile viene individuato mediante comune catastale, eventuale sezione, foglio, particella e, per le unita immobiliari, subalterno. Il foglio delimita una porzione della mappa; la particella identifica il bene o la porzione di suolo; il subalterno distingue le unita comprese nella stessa particella.
+L'immobile viene individuato mediante comune catastale, eventuale sezione, foglio, particella e, per le unità immobiliari, subalterno. Il foglio delimita una porzione della mappa; la particella identifica il bene o la porzione di suolo; il subalterno distingue le unità comprese nella stessa particella.
 
 La visura riporta dati identificativi, classamento, consistenza, rendita, intestazioni e variazioni storiche disponibili. La visura attuale fotografa la situazione registrata; quella storica ricostruisce le modifiche intervenute nell'arco consultabile.
 
@@ -92,9 +92,9 @@ In una visura occorre verificare la coerenza tra identificativo, indirizzo, cate
 
 ## 4. Classamento e rendita catastale
 
-Il classamento colloca l'unita immobiliare in categoria e classe e ne determina la consistenza secondo le regole del quadro tariffario. La categoria esprime destinazione ordinaria e caratteristiche tipologiche; la classe rappresenta il livello di capacità reddituale nell'ambito della categoria e della zona censuaria.
+Il classamento colloca l'unità immobiliare in categoria e classe e ne determina la consistenza secondo le regole del quadro tariffario. La categoria esprime destinazione ordinaria e caratteristiche tipologiche; la classe rappresenta il livello di capacità reddituale nell'ambito della categoria e della zona censuaria.
 
-La consistenza viene misurata con l'unita prevista per la categoria: vani, metri quadrati o metri cubi, secondo il sistema applicabile. La rendita deriva dal classamento e dalle tariffe d'estimo, oppure dalla stima diretta per immobili a destinazione speciale o particolare nei casi previsti.
+La consistenza viene misurata con l'unità prevista per la categoria: vani, metri quadrati o metri cubi, secondo il sistema applicabile. La rendita deriva dal classamento e dalle tariffe d'estimo, oppure dalla stima diretta per immobili a destinazione speciale o particolare nei casi previsti.
 
 La rendita catastale non è il prezzo dell'immobile. È un reddito ordinario teorico utilizzato come base o componente per diversi prelievi e procedimenti. Anche quando viene rivalutata o moltiplicata per coefficienti fiscali, non si trasforma automaticamente in valore di mercato.
 
@@ -102,11 +102,11 @@ La rendita catastale non è il prezzo dell'immobile. È un reddito ordinario teo
 
 ## 5. DOCFA: nuove costruzioni e variazioni urbane
 
-DOCFA è la procedura con cui il professionista abilitato predispone le dichiarazioni di nuova costruzione e di variazione delle unita immobiliari urbane, insieme a planimetrie ed elaborati richiesti. Il D.M. 701/1994 ha introdotto il modello di aggiornamento con proposta di classamento.
+DOCFA è la procedura con cui il professionista abilitato predispone le dichiarazioni di nuova costruzione e di variazione delle unità immobiliari urbane, insieme a planimetrie ed elaborati richiesti. Il D.M. 701/1994 ha introdotto il modello di aggiornamento con proposta di classamento.
 
-Una pratica può riguardare nuova edificazione, ampliamento, diversa distribuzione interna, frazionamento, fusione, cambio di destinazione o altre causali previste. Il tecnico descrive lo stato rilevante, individua le unita, presenta gli elaborati e propone categoria, classe e rendita quando richiesto.
+Una pratica può riguardare nuova edificazione, ampliamento, diversa distribuzione interna, frazionamento, fusione, cambio di destinazione o altre causali previste. Il tecnico descrive lo stato rilevante, individua le unità, presenta gli elaborati e propone categoria, classe e rendita quando richiesto.
 
-L'accettazione informatica non rende definitiva la proposta. L'ufficio ne controlla completezza, coerenza e conformita catastale e può rettificare il classamento entro i poteri e i termini previsti. L'esito aggiorna dati, elaborati e classamento catastali, ma non trasferisce diritti né sostituisce il controllo edilizio-urbanistico: una planimetria registrata non sana un abuso.
+L'accettazione informatica non rende definitiva la proposta. L'ufficio ne controlla completezza, coerenza e conformità catastale e può rettificare il classamento entro i poteri e i termini previsti. L'esito aggiorna dati, elaborati e classamento catastali, ma non trasferisce diritti né sostituisce il controllo edilizio-urbanistico: una planimetria registrata non sana un abuso.
 
 ## 6. PREGEO e aggiornamento geometrico
 
@@ -122,7 +122,7 @@ La voltura aggiorna le intestazioni catastali in seguito a trasferimenti, succes
 
 La voltura non trasferisce il diritto. Registra in catasto gli effetti di un titolo o fatto giuridico già intervenuto. Se il titolo è errato o inefficace, l'aggiornamento catastale non lo rende valido; se la voltura manca, il diritto può comunque esistere, ma la banca dati rimane disallineata.
 
-L'operatore controlla soggetti, quote, diritti, identificativi, causale e documento di provenienza. La correzione di un'intestazione richiede di distinguere errore materiale, domanda di voltura omessa e controversia sulla titolarita, che non può essere risolta dall'ufficio catastale come se fosse un giudice civile.
+L'operatore controlla soggetti, quote, diritti, identificativi, causale e documento di provenienza. La correzione di un'intestazione richiede di distinguere errore materiale, domanda di voltura omessa e controversia sulla titolarità, che non può essere risolta dall'ufficio catastale come se fosse un giudice civile.
 
 Le variazioni colturali del catasto terreni seguono strumenti e flussi propri, tra i quali ricorre Docte nelle specifiche applicabili. Nel manuale è sufficiente riconoscerne la funzione generale; versione, campi e modalità operative devono essere verificati sulle istruzioni vigenti.
 
@@ -165,51 +165,51 @@ Il procedimento parte dal quesito, rende confrontabili i dati, sviluppa il calco
 
 ## 10. OMI e quotazioni immobiliari
 
-L'Osservatorio del Mercato Immobiliare raccoglie ed elabora informazioni sul mercato. Le quotazioni OMI sono pubblicate con cadenza semestrale per zone omogenee, tipologie e stati conservativi o posizioni commerciali. Esprimono intervalli di valori di compravendita e locazione per unita di superficie.
+L'Osservatorio del Mercato Immobiliare raccoglie ed elabora informazioni sul mercato. Le quotazioni OMI sono pubblicate con cadenza semestrale per zone omogenee, tipologie e stati conservativi o posizioni commerciali. Esprimono intervalli di valori di compravendita e locazione per unità di superficie.
 
-Le quotazioni rappresentano l'ordinarieta della zona. Non descrivono in modo completo piano, affaccio, luminosita, qualità edilizia, vincoli, locazioni, stato giuridico o caratteristiche eccezionali del singolo bene. La stessa Agenzia chiarisce che non sostituiscono una stima puntuale.
+Le quotazioni rappresentano l'ordinarietà della zona. Non descrivono in modo completo piano, affaccio, luminosità, qualità edilizia, vincoli, locazioni, stato giuridico o caratteristiche eccezionali del singolo bene. La stessa Agenzia chiarisce che non sostituiscono una stima puntuale.
 
-Usarle correttamente significa indicare semestre, zona, tipologia, stato e unita di superficie, poi motivare gli eventuali adattamenti. Moltiplicare meccanicamente il valore medio per i metri quadrati produce un'indicazione sommaria, non una perizia.
+Usarle correttamente significa indicare semestre, zona, tipologia, stato e unità di superficie, poi motivare gli eventuali adattamenti. Moltiplicare meccanicamente il valore medio per i metri quadrati produce un'indicazione sommaria, non una perizia.
 
 I tre strumenti restano distinti: la rendita è un dato catastale; OMI offre intervalli orientativi riferiti a zona, semestre e tipologia; la stima puntuale seleziona un procedimento, usa dati pertinenti e motiva il risultato per il bene concreto.
 
 ## 11. Pubblicità immobiliare: funzione civilistica
 
-I Servizi di pubblicità immobiliare conservano registri, note e titoli relativi agli atti soggetti a formalita. In questo modo i terzi possono conoscere le vicende giuridiche degli immobili, a tutela della certezza e della circolazione dei diritti.
+I Servizi di pubblicità immobiliare conservano registri, note e titoli relativi agli atti soggetti a formalità. In questo modo i terzi possono conoscere le vicende giuridiche degli immobili, a tutela della certezza e della circolazione dei diritti.
 
-Il sistema italiano è prevalentemente personale: la ricerca si sviluppa a partire dai soggetti, pur utilizzando anche identificativi immobiliari nei dati automatizzati. Per una verifica completa occorre ricostruire continuità delle formalita e consultare note e titoli pertinenti, non limitarsi a una schermata riepilogativa.
+Il sistema italiano è prevalentemente personale: la ricerca si sviluppa a partire dai soggetti, pur utilizzando anche identificativi immobiliari nei dati automatizzati. Per una verifica completa occorre ricostruire continuità delle formalità e consultare note e titoli pertinenti, non limitarsi a una schermata riepilogativa.
 
-La pubblicità dichiarativa rende opponibile ai terzi l'atto trascritto e risolve conflitti secondo la priorità stabilità dalla legge. In altre ipotesi la formalita può avere efficacia costitutiva o di pubblicita-notizia. L'effetto dipende dalla norma e dal tipo di atto.
+La pubblicità dichiarativa rende opponibile ai terzi l'atto trascritto e risolve conflitti secondo la priorità stabilita dalla legge. In altre ipotesi la formalità può avere efficacia costitutiva o di pubblicità-notizia. L'effetto dipende dalla norma e dal tipo di atto.
 
 ## 12. Trascrizione, iscrizione e annotazione
 
 La trascrizione riguarda atti e vicende indicati dal codice civile: trasferimenti e costituzioni di diritti reali, divisioni, domande giudiziali, pignoramenti e altre fattispecie. La nota individua soggetti, immobili e titolo e permette l'inserimento nei registri.
 
-L'iscrizione è la formalita propria dell'ipoteca. Rende pubblica la garanzia e, nei casi previsti, ne costituisce elemento essenziale. Deve indicare titolo, credito, soggetti e immobili secondo i requisiti di legge.
+L'iscrizione è la formalità propria dell'ipoteca. Rende pubblica la garanzia e, nei casi previsti, ne costituisce elemento essenziale. Deve indicare titolo, credito, soggetti e immobili secondo i requisiti di legge.
 
-L'annotazione collega a una formalita precedente un evento che la modifica, estingue o condiziona, come cancellazione o restrizione di ipoteca. Non è una trascrizione minore: svolge una funzione relazionale specifica nella catena delle formalita.
+L'annotazione collega a una formalità precedente un evento che la modifica, estingue o condiziona, come cancellazione o restrizione di ipoteca. Non è una trascrizione minore: svolge una funzione relazionale specifica nella catena delle formalità.
 
-| Formalita | Funzione tipica | Esempio |
+| Formalità | Funzione tipica | Esempio |
 |---|---|---|
 | Trascrizione | Pubblicità di atti e vicende su diritti immobiliari | Compravendita, pignoramento |
 | Iscrizione | Pubblicità e costituzione dell'ipoteca | Ipoteca volontaria per mutuo |
-| Annotazione | Modifica o collega una formalita precedente | Cancellazione dell'ipoteca |
+| Annotazione | Modifica o collega una formalità precedente | Cancellazione dell'ipoteca |
 
 ## 13. Ispezione ipotecaria e continuità
 
 L'ispezione ipotecaria consente di consultare registri, note e titoli. Può essere svolta per soggetto, immobile o combinazione dei dati disponibili, con attenzione al periodo pre-automazione e alla competenza territoriale.
 
-La verifica ricostruisce acquisti, vendite, ipoteche, pignoramenti, domande e cancellazioni. Una formalita «contro» un soggetto non è necessariamente ancora efficace: occorre leggere successive annotazioni e vicende. Allo stesso modo, l'assenza di un risultato automatizzato non esclude problemi nei periodi o registri non correttamente interrogati.
+La verifica ricostruisce acquisti, vendite, ipoteche, pignoramenti, domande e cancellazioni. Una formalità «contro» un soggetto non è necessariamente ancora efficace: occorre leggere successive annotazioni e vicende. Allo stesso modo, l'assenza di un risultato automatizzato non esclude problemi nei periodi o registri non correttamente interrogati.
 
-La continuità delle trascrizioni collega le formalita successive alla precedente titolarita pubblicizzata. È essenziale per l'efficacia delle trascrizioni secondo il codice civile. Il controllo non consiste nel verificare solo l'ultimo atto, ma nel ricostruire la catena pertinente.
+La continuità delle trascrizioni collega le formalità successive alla precedente titolarità pubblicizzata. È essenziale per l'efficacia delle trascrizioni secondo il codice civile. Il controllo non consiste nel verificare solo l'ultimo atto, ma nel ricostruire la catena pertinente.
 
 ## 14. Il lavoro nei servizi Territorio e SPI
 
-Nei servizi catastali il personale tratta dichiarazioni, atti geometrici, volture, correzioni, visure e rapporti con tecnici e comuni. Nei servizi estimativi analizza dati, sopralluoghi, mercati e valutazioni. Nei Servizi di pubblicità immobiliare esegue formalita, ispezioni, certificazioni e controlli sulle note.
+Nei servizi catastali il personale tratta dichiarazioni, atti geometrici, volture, correzioni, visure e rapporti con tecnici e comuni. Nei servizi estimativi analizza dati, sopralluoghi, mercati e valutazioni. Nei Servizi di pubblicità immobiliare esegue formalità, ispezioni, certificazioni e controlli sulle note.
 
-Un identificativo errato può riferire una formalita al bene sbagliato; una categoria impropria incide sulla rendita; una ricerca ipotecaria incompleta può nascondere un vincolo. Prima di concludere la pratica, l'operatore controlla quindi titolo, soggetti, dati censuari e coerenza degli elaborati, con precisione tecnica e giuridica.
+Un identificativo errato può riferire una formalità al bene sbagliato; una categoria impropria incide sulla rendita; una ricerca ipotecaria incompleta può nascondere un vincolo. Prima di concludere la pratica, l'operatore controlla quindi titolo, soggetti, dati censuari e coerenza degli elaborati, con precisione tecnica e giuridica.
 
-Con professionisti e cittadini, l'ufficio chiarisce requisiti e stato della pratica. Non redige pero il progetto per il tecnico, non certifica la proprietà mediante una visura e non offre una perizia individuale basata soltanto su OMI.
+Con professionisti e cittadini, l'ufficio chiarisce requisiti e stato della pratica. Non redige però il progetto per il tecnico, non certifica la proprietà mediante una visura e non offre una perizia individuale basata soltanto su OMI.
 
 ## Differenze da non confondere
 
@@ -223,22 +223,22 @@ Con professionisti e cittadini, l'ufficio chiarisce requisiti e stato della prat
 
 ## Caso guidato: appartamento frazionato e venduto
 
-Un proprietario divide un appartamento in due unita e intende venderne una. Il tecnico presenta solo il DOCFA, sostenendo che il nuovo subalterno sia sufficiente per il rogito.
+Un proprietario divide un appartamento in due unità e intende venderne una. Il tecnico presenta solo il DOCFA, sostenendo che il nuovo subalterno sia sufficiente per il rogito.
 
-**1. Catasto.** Il DOCFA rappresenta la variazione urbana, sopprime l'unita originaria e costituisce i nuovi subalterni con planimetrie e proposta di classamento.
+**1. Catasto.** Il DOCFA rappresenta la variazione urbana, sopprime l'unità originaria e costituisce i nuovi subalterni con planimetrie e proposta di classamento.
 
 **2. Urbanistica.** La variazione catastale non prova la legittimità edilizia del frazionamento. Il professionista deve verificare i titoli richiesti dal relativo ordinamento.
 
 **3. Diritto.** La proprietà delle porzioni deriva dal titolo e dall'atto di vendita, non dal solo nuovo identificativo.
 
-**4. Pubblicità.** Il rogito viene trascritto con i corretti dati soggettivi e immobiliari. La formalita rende pubblica la vicenda secondo gli effetti di legge.
+**4. Pubblicità.** Il rogito viene trascritto con i corretti dati soggettivi e immobiliari. La formalità rende pubblica la vicenda secondo gli effetti di legge.
 
 **5. Voltura.** L'intestazione catastale viene aggiornata sulla base dell'atto, normalmente tramite i flussi collegati alla registrazione e trascrizione o con la procedura necessaria.
 
 ## Da sapere in 5 righe
 
 1. Il catasto censisce e attribuisce dati fiscali; non prova ordinariamente la proprietà.
-2. DOCFA aggiorna le unita urbane, PREGEO la geometria del catasto terreni.
+2. DOCFA aggiorna le unità urbane, PREGEO la geometria del catasto terreni.
 3. Rendita catastale, quotazione OMI e valore di mercato sono concetti diversi.
 4. Trascrizione, iscrizione e annotazione hanno funzioni distinte.
 5. Visura catastale e ispezione ipotecaria rispondono a domande differenti.
@@ -247,11 +247,11 @@ Un proprietario divide un appartamento in due unita e intende venderne una. Il t
 
 **Qual è la differenza tra catasto e pubblicità immobiliare?**
 
-Traccia: indicare funzione inventariale e fiscale del catasto; spiegare identificativi, rendita e intestazione; precisare l'ordinaria non probatorieta; descrivere registri immobiliari e formalita; distinguere visura e ispezione; concludere con voltura e trascrizione.
+Traccia: indicare funzione inventariale e fiscale del catasto; spiegare identificativi, rendita e intestazione; precisare l'ordinaria non probatorietà; descrivere registri immobiliari e formalità; distinguere visura e ispezione; concludere con voltura e trascrizione.
 
 ## Domanda-trappola
 
-**La conformita della planimetria catastale dimostra che l'immobile è urbanisticamente regolare?**
+**La conformità della planimetria catastale dimostra che l'immobile è urbanisticamente regolare?**
 
 No. Catasto e disciplina urbanistico-edilizia hanno funzioni diverse. La corrispondenza catastale è rilevante, ma non sana ne prova da sola la legittimità edilizia.
 
@@ -264,7 +264,7 @@ Usare la quotazione OMI come valore certo. L'intervallo OMI riguarda immobili or
 Indica procedura o servizio corretto:
 
 1. Inserire in mappa un nuovo fabbricato.
-2. Dichiarare due unita ottenute dal frazionamento di un appartamento.
+2. Dichiarare due unità ottenute dal frazionamento di un appartamento.
 3. Aggiornare l'intestazione dopo una successione non acquisita.
 4. Verificare se su un immobile esiste un'ipoteca.
 5. Cercare un intervallo orientativo dei valori di zona.
@@ -274,7 +274,7 @@ Indica procedura o servizio corretto:
 1. PREGEO e tipo mappale, secondo il caso.
 2. DOCFA con causale, planimetrie e classamento proposto.
 3. Voltura catastale, verificando titolo, soggetti e quote.
-4. Ispezione ipotecaria e lettura delle formalita.
+4. Ispezione ipotecaria e lettura delle formalità.
 5. Banca dati OMI, indicando semestre, zona e tipologia.
 
 ## Quiz di verifica
@@ -312,19 +312,19 @@ D. provano il titolo.
 | Termine | Significato essenziale |
 |---|---|
 | Classamento | Attribuzione di categoria, classe e rendita. |
-| DOCFA | Procedura per nuove unita e variazioni urbane. |
+| DOCFA | Procedura per nuove unità e variazioni urbane. |
 | OMI | Osservatorio del Mercato Immobiliare. |
-| Particella | Unita identificativa di base nella mappa catastale. |
+| Particella | Unità identificativa di base nella mappa catastale. |
 | PREGEO | Procedura per gli atti geometrici del catasto terreni. |
-| Subalterno | Identificativo dell'unita nella particella. |
-| Trascrizione | Formalita relativa ad atti e vicende immobiliari. |
+| Subalterno | Identificativo dell'unità nella particella. |
+| Trascrizione | Formalità relativa ad atti e vicende immobiliari. |
 | Voltura | Aggiornamento dell'intestazione catastale. |
 
 ## Diario degli errori
 
 | Errore | Regola corretta | Recupero |
 |---|---|---|
-| Ho usato la visura come titolo | Il diritto si ricostruisce con titoli e formalita | Confrontare visura e ispezione |
+| Ho usato la visura come titolo | Il diritto si ricostruisce con titoli e formalità | Confrontare visura e ispezione |
 | Ho confuso rendita e valore | La rendita ha funzione fiscale | Fare una scheda comparativa |
 | Ho scambiato DOCFA e PREGEO | Urbano e geometria terreni hanno procedure diverse | Ripetere il caso frazionamento |
 | Ho assunto OMI come perizia | OMI fornisce intervalli orientativi | Motivare una stima puntuale |
@@ -341,7 +341,7 @@ D. provano il titolo.
 - [ ] Distinguo trascrizione, iscrizione e annotazione.
 - [ ] Distinguo visura catastale e ispezione ipotecaria.
 
-![Figura 10.5 - Checklist Catasto e pubblicità immobiliare: dato, mappa, valore e formalita vanno separati prima di rispondere.](../assets/chapter-10/05-checklist-catasto-pubblicita-immobiliare.png)
+![Figura 10.5 - Checklist Catasto e pubblicità immobiliare: dato, mappa, valore e formalità vanno separati prima di rispondere.](../assets/chapter-10/05-checklist-catasto-pubblicita-immobiliare.png)
 
 
 ## Note di review
@@ -349,4 +349,4 @@ D. provano il titolo.
 - Verificare versioni e specifiche correnti di DOCFA, PREGEO, Voltura Web e Sister.
 - Sottoporre classamento, atti geometrici e procedimenti estimativi a revisione tecnica specialistica.
 - Aggiornare OMI, servizi telematici e modalità di consultazione alla data del bando.
-- Verificare la disciplina civilistica e tributaria delle singole formalita prima dell'impaginazione definitiva.
+- Verificare la disciplina civilistica e tributaria delle singole formalità prima dell'impaginazione definitiva.

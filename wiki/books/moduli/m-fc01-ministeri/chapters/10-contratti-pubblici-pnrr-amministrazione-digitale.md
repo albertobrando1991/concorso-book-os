@@ -26,7 +26,7 @@ last_compiled_from: ["wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-ch
 
 # Contratti pubblici, PNRR e amministrazione digitale
 
-Quando un ministero acquista un servizio digitale deve compiere diverse scelte collegate: definisce il bisogno, individua le risorse, prepara gli atti, seleziona l’operatore, controlla la prestazione e conserva le evidenze. Se il progetto è finanziato dal PNRR, si aggiungono vincoli di destinazione, obiettivi, monitoraggio e rendicontazione. Il digitale interessa l’intero flusso e richiede molto più del semplice invio di documenti per posta elettronica.
+Quando un ministero acquista un servizio digitale deve compiere diverse scelte collegate: definisce il bisogno, individua le risorse, prepara gli atti, seleziona l'operatore, controlla la prestazione e conserva le evidenze. Se il progetto è finanziato dal PNRR, si aggiungono vincoli di destinazione, obiettivi, monitoraggio e rendicontazione. Il digitale interessa l'intero flusso e richiede molto più del semplice invio di documenti per posta elettronica.
 
 ## Obiettivi del capitolo
 
@@ -44,17 +44,17 @@ Al termine saprai ricostruire il ciclo di un contratto ministeriale, distinguere
 
 ### Il contratto come ciclo
 
-Il contratto pubblico è lo strumento con cui un’amministrazione acquisisce lavori, servizi o forniture per soddisfare un interesse pubblico. Il decreto legislativo 31 marzo 2023, n. 36 disciplina il settore. Per studiarlo non basta memorizzare la gara: il contratto nasce da un fabbisogno e prosegue fino all’esecuzione e alla verifica del risultato.
+Il contratto pubblico è lo strumento con cui un'amministrazione acquisisce lavori, servizi o forniture per soddisfare un interesse pubblico. Il decreto legislativo 31 marzo 2023, n. 36 disciplina il settore. Per studiarlo non basta memorizzare la gara: il contratto nasce da un fabbisogno e prosegue fino all'esecuzione e alla verifica del risultato.
 
-Il ciclo comprende programmazione, progettazione, affidamento ed esecuzione. Prima di scegliere un operatore, l’ufficio deve chiarire che cosa serve, perché serve, con quali risorse e con quali caratteristiche. Una richiesta generica produce capitolati deboli, offerte difficili da confrontare e controlli incerti.
+Il ciclo comprende programmazione, progettazione, affidamento ed esecuzione. Prima di scegliere un operatore, l'ufficio deve chiarire che cosa serve, perché serve, con quali risorse e con quali caratteristiche. Una richiesta generica produce capitolati deboli, offerte difficili da confrontare e controlli incerti.
 
 La programmazione ordina i bisogni e li collega a priorità e risorse. La progettazione traduce il bisogno in una prestazione definita. La decisione di contrarre, o atto equivalente nei casi previsti, esplicita gli elementi essenziali e la scelta procedurale. Seguono selezione, aggiudicazione, stipula ed esecuzione.
 
 ### Principi e risultato
 
-Il Codice orienta il ciclo attraverso principi, tra cui risultato, fiducia e accesso al mercato. Il risultato non autorizza scorciatoie. L’amministrazione deve perseguire tempestività e qualità nel rispetto di legalità, trasparenza e concorrenza. La fiducia valorizza la responsabilità e l’iniziativa dei funzionari, che restano tenuti a motivare le decisioni e a svolgere i controlli. L’accesso al mercato contrasta chiusure arbitrarie e favorisce la partecipazione degli operatori.
+Il Codice orienta il ciclo attraverso principi, tra cui risultato, fiducia e accesso al mercato. Il risultato non autorizza scorciatoie. L'amministrazione deve perseguire tempestività e qualità nel rispetto di legalità, trasparenza e concorrenza. La fiducia valorizza la responsabilità e l'iniziativa dei funzionari, che restano tenuti a motivare le decisioni e a svolgere i controlli. L'accesso al mercato contrasta chiusure arbitrarie e favorisce la partecipazione degli operatori.
 
-Esempio: un dipartimento deve acquistare assistenza applicativa. Prima di avviare la procedura ricostruisce i sistemi interessati, i livelli di servizio, la durata, i rischi di continuità, il valore stimato e le risorse. Solo dopo individua la procedura applicabile. Partire dal nome del fornitore invertirebbe l’ordine logico.
+Esempio: un dipartimento deve acquistare assistenza applicativa. Prima di avviare la procedura ricostruisce i sistemi interessati, i livelli di servizio, la durata, i rischi di continuità, il valore stimato e le risorse. Solo dopo individua la procedura applicabile. Partire dal nome del fornitore invertirebbe l'ordine logico.
 
 ### Schema operativo
 
@@ -62,7 +62,7 @@ Esempio: un dipartimento deve acquistare assistenza applicativa. Prima di avviar
 
 Ogni fase produce documenti ed evidenze. Il fascicolo deve permettere di capire chi ha deciso, quale interesse è perseguito, come è stata scelta la procedura, quali offerte sono state valutate e se la prestazione è stata eseguita.
 
-**Errore tipico:** considerare l’aggiudicazione come fine del procedimento. Il risultato pubblico dipende anche dall’esecuzione.
+**Errore tipico:** considerare l'aggiudicazione come fine del procedimento. Il risultato pubblico dipende anche dall'esecuzione.
 
 
 ### Verifica del fabbisogno e qualità dell'istruttoria
@@ -78,29 +78,29 @@ Nella fase esecutiva tornano i criteri fissati all'inizio. Tempi, quantità, qua
 **Controllo applicativo.** Prima di proporre una procedura, scrivi in una frase il risultato atteso e tre evidenze che ne dimostreranno il raggiungimento. Verifica poi se oggetto, durata e criteri consentono davvero quel controllo. Se la risposta è negativa, l'istruttoria deve tornare alla definizione del bisogno. Questa verifica collega programmazione, contratto ed esecuzione e impedisce di scegliere lo strumento prima di aver chiarito il problema.
 
 **Domanda di controllo:** il fascicolo consente di capire perché l'amministrazione acquista proprio quella prestazione e come ne misurerà la qualità? Se manca una risposta, bisogna integrare istruttoria o documenti prima di procedere.
-## N-FC01-10-02 · Soggetti, scelta dell’operatore ed esecuzione
+## N-FC01-10-02 · Soggetti, scelta dell'operatore ed esecuzione
 
 ### Ruoli diversi
 
-La **stazione appaltante** è il soggetto che affida il contratto. L’**operatore economico** offre sul mercato lavori, servizi o forniture. Il **responsabile unico del progetto (RUP)** coordina le fasi affidategli dalla disciplina, dall’avvio all’esecuzione. Non è un firmatario simbolico né coincide necessariamente con ogni altro responsabile coinvolto.
+La **stazione appaltante** è il soggetto che affida il contratto. L'**operatore economico** offre sul mercato lavori, servizi o forniture. Il **responsabile unico del progetto (RUP)** coordina le fasi affidategli dalla disciplina, dall'avvio all'esecuzione. Non è un firmatario simbolico né coincide necessariamente con ogni altro responsabile coinvolto.
 
-In relazione al contratto operano anche commissioni, direttore dei lavori o direttore dell’esecuzione, uffici tecnici, finanziari e di controllo. La distribuzione concreta dipende da contratto, organizzazione e atti di nomina. In prova bisogna descrivere funzione e confine, evitando di attribuire al RUP ogni attività materiale.
+In relazione al contratto operano anche commissioni, direttore dei lavori o direttore dell'esecuzione, uffici tecnici, finanziari e di controllo. La distribuzione concreta dipende da contratto, organizzazione e atti di nomina. In prova bisogna descrivere funzione e confine, evitando di attribuire al RUP ogni attività materiale.
 
 ### Scelta e verifica
 
-La scelta della procedura dipende dai presupposti normativi e dalle caratteristiche dell’acquisizione. Procedure aperte, ristrette, negoziate e affidamenti diretti non sono sinonimi. Anche quando la legge consente una forma semplificata, l’amministrazione deve motivare, rispettare i principi applicabili e documentare la scelta.
+La scelta della procedura dipende dai presupposti normativi e dalle caratteristiche dell'acquisizione. Procedure aperte, ristrette, negoziate e affidamenti diretti non sono sinonimi. Anche quando la legge consente una forma semplificata, l'amministrazione deve motivare, rispettare i principi applicabili e documentare la scelta.
 
-I requisiti riguardano l’affidabilità e la capacità dell’operatore secondo la disciplina della procedura. La verifica non è un adempimento decorativo: protegge l’amministrazione dal rischio di affidare a un soggetto privo dei requisiti richiesti. La proposta di aggiudicazione, l’aggiudicazione e la stipula restano momenti distinti.
+I requisiti riguardano l'affidabilità e la capacità dell'operatore secondo la disciplina della procedura. La verifica non è un adempimento decorativo: protegge l'amministrazione dal rischio di affidare a un soggetto privo dei requisiti richiesti. La proposta di aggiudicazione, l'aggiudicazione e la stipula restano momenti distinti.
 
-Non si riportano qui soglie o termini numerici: cambiano e devono essere controllati sul testo vigente e sul bando. Il metodo resta stabile: qualificare l’oggetto, stimare correttamente il valore, individuare la regola applicabile e motivare.
+Non si riportano qui soglie o termini numerici: cambiano e devono essere controllati sul testo vigente e sul bando. Il metodo resta stabile: qualificare l'oggetto, stimare correttamente il valore, individuare la regola applicabile e motivare.
 
 ### Esecuzione
 
-Dopo la stipula inizia la fase in cui la prestazione deve produrre il risultato atteso. L’amministrazione controlla tempi, qualità, conformità e obblighi contrattuali; gestisce contestazioni e modifiche soltanto nei casi e con le procedure ammesse; verifica o collauda prima di procedere ai passaggi finanziari.
+Dopo la stipula inizia la fase in cui la prestazione deve produrre il risultato atteso. L'amministrazione controlla tempi, qualità, conformità e obblighi contrattuali; gestisce contestazioni e modifiche soltanto nei casi e con le procedure ammesse; verifica o collauda prima di procedere ai passaggi finanziari.
 
 Se un servizio prevede risposta entro quattro ore, non basta ricevere la fattura. Occorrono dati che dimostrino livelli di servizio, interventi svolti e anomalie. La liquidazione si collega alla verifica della prestazione, mentre copertura, impegno e pagamento restano governati dalla disciplina contabile.
 
-**Domanda da commissario:** qual è la differenza tra RUP e direttore dell’esecuzione? Il RUP coordina il progetto secondo il Codice; il direttore dell’esecuzione presidia l’esecuzione nei casi previsti. Ruoli e rapporti vanno verificati per il contratto concreto.
+**Domanda da commissario:** qual è la differenza tra RUP e direttore dell'esecuzione? Il RUP coordina il progetto secondo il Codice; il direttore dell'esecuzione presidia l'esecuzione nei casi previsti. Ruoli e rapporti vanno verificati per il contratto concreto.
 
 
 ### Organizzazione, responsabilità e controllo
@@ -118,23 +118,23 @@ Durante l'esecuzione, report, verbali e attestazioni dimostrano ciò che è avve
 
 ### Digitalizzazione sostanziale
 
-La digitalizzazione riguarda l’intero ciclo di vita del contratto: programmazione, affidamento, comunicazioni, pubblicità, verifica dei requisiti, esecuzione e dati. La presenza di documenti in PDF, da sola, non rende digitale una procedura. Servono piattaforme e scambi informativi conformi alle regole, dati strutturati, tracciabilità e responsabilità.
+La digitalizzazione riguarda l'intero ciclo di vita del contratto: programmazione, affidamento, comunicazioni, pubblicità, verifica dei requisiti, esecuzione e dati. La presenza di documenti in PDF, da sola, non rende digitale una procedura. Servono piattaforme e scambi informativi conformi alle regole, dati strutturati, tracciabilità e responsabilità.
 
-La Banca dati nazionale dei contratti pubblici (**BDNCP**) è gestita da ANAC e raccoglie dati del ciclo secondo la disciplina vigente. Le piattaforme di approvvigionamento digitale certificate interoperano con l’ecosistema nazionale. La **Piattaforma Contratti Pubblici (PCP)** è uno strumento dell’ecosistema ANAC; non coincide con tutte le piattaforme utilizzate dalle stazioni appaltanti.
+La Banca dati nazionale dei contratti pubblici (**BDNCP**) è gestita da ANAC e raccoglie dati del ciclo secondo la disciplina vigente. Le piattaforme di approvvigionamento digitale certificate interoperano con l'ecosistema nazionale. La **Piattaforma Contratti Pubblici (PCP)** è uno strumento dell'ecosistema ANAC; non coincide con tutte le piattaforme utilizzate dalle stazioni appaltanti.
 
 ### FVOE, CIG e pubblicità
 
-Il **Fascicolo virtuale dell’operatore economico (FVOE)** supporta la verifica dei requisiti attraverso dati e documenti disponibili. BDNCP e FVOE hanno funzioni diverse: la prima riguarda i dati dei contratti, il secondo la posizione documentale utile alla verifica dell’operatore.
+Il **Fascicolo virtuale dell'operatore economico (FVOE)** supporta la verifica dei requisiti attraverso dati e documenti disponibili. BDNCP e FVOE hanno funzioni diverse: la prima riguarda i dati dei contratti, il secondo la posizione documentale utile alla verifica dell'operatore.
 
 Il **CIG** identifica il contratto ai fini previsti dalla disciplina e accompagna la tracciabilità. Non va confuso con il **CUP**, che identifica un progetto di investimento pubblico. Uno stesso progetto può includere procedure contrattuali distinte, ciascuna con i propri identificativi quando richiesti.
 
-Pubblicità legale e trasparenza si raccordano con la BDNCP e con gli obblighi dell’amministrazione. La pubblicazione non è un caricamento casuale: dati e collegamenti devono seguire le regole vigenti. Il funzionario deve sapere quale informazione nasce in ogni fase, chi la valida e dove viene trasmessa.
+Pubblicità legale e trasparenza si raccordano con la BDNCP e con gli obblighi dell'amministrazione. La pubblicazione non è un caricamento casuale: dati e collegamenti devono seguire le regole vigenti. Il funzionario deve sapere quale informazione nasce in ogni fase, chi la valida e dove viene trasmessa.
 
 ### Caso breve
 
-Un ufficio completa una procedura sulla piattaforma ma conserva fuori dal fascicolo la motivazione della scelta e la verifica dei requisiti. Il flusso è incompleto. La piattaforma registra operazioni, ma non sostituisce l’istruttoria né la responsabilità sul contenuto.
+Un ufficio completa una procedura sulla piattaforma ma conserva fuori dal fascicolo la motivazione della scelta e la verifica dei requisiti. Il flusso è incompleto. La piattaforma registra operazioni, ma non sostituisce l'istruttoria né la responsabilità sul contenuto.
 
-**Domanda-trappola:** BDNCP e FVOE sono la stessa banca dati? No. La BDNCP presidia i dati dei contratti; il FVOE sostiene la verifica dei requisiti dell’operatore.
+**Domanda-trappola:** BDNCP e FVOE sono la stessa banca dati? No. La BDNCP presidia i dati dei contratti; il FVOE sostiene la verifica dei requisiti dell'operatore.
 
 
 ### Atto, dato e piattaforma
@@ -156,11 +156,11 @@ La verifica deve essere ripetuta quando il dato cambia: una correzione non docum
 
 ### Dal finanziamento al progetto
 
-Una risorsa PNRR è destinata a uno specifico intervento ed è soggetta a obiettivi, tempi, regole di ammissibilità e obblighi di monitoraggio e rendicontazione. L’amministrazione titolare e il soggetto attuatore operano secondo la governance e gli atti applicabili alla misura.
+Una risorsa PNRR è destinata a uno specifico intervento ed è soggetta a obiettivi, tempi, regole di ammissibilità e obblighi di monitoraggio e rendicontazione. L'amministrazione titolare e il soggetto attuatore operano secondo la governance e gli atti applicabili alla misura.
 
-Il **CUP** consente di identificare il progetto di investimento pubblico. Se il progetto richiede un contratto, entra in gioco anche il ciclo dell’affidamento e, quando previsto, il CIG. CUP e CIG rispondono quindi a oggetti diversi: progetto e contratto.
+Il **CUP** consente di identificare il progetto di investimento pubblico. Se il progetto richiede un contratto, entra in gioco anche il ciclo dell'affidamento e, quando previsto, il CIG. CUP e CIG rispondono quindi a oggetti diversi: progetto e contratto.
 
-Milestone e target rappresentano traguardi e risultati associati all’attuazione. Il cronoprogramma organizza attività e tempi. La spesa deve essere coerente con il progetto, ammissibile, documentata e tracciabile. Una fattura corretta non dimostra da sola che l’intervento abbia raggiunto il risultato previsto.
+Milestone e target rappresentano traguardi e risultati associati all'attuazione. Il cronoprogramma organizza attività e tempi. La spesa deve essere coerente con il progetto, ammissibile, documentata e tracciabile. Una fattura corretta non dimostra da sola che l'intervento abbia raggiunto il risultato previsto.
 
 ### Monitoraggio e rendicontazione
 
@@ -168,7 +168,7 @@ Il **monitoraggio** segue avanzamento fisico, procedurale e finanziario. La **re
 
 ReGiS è il sistema informativo promosso dalla Ragioneria generale dello Stato per supportare gestione informativa, monitoraggio, rendicontazione e controllo degli interventi PNRR. In un manuale concorsuale interessa la funzione, non la posizione dei pulsanti: dati completi, aggiornati e coerenti devono poter essere verificati.
 
-Il principio DNSH richiede che l’intervento non arrechi un danno significativo agli obiettivi ambientali secondo il quadro applicabile. Non è una dichiarazione finale standard: va considerato nella progettazione, nell’affidamento, nell’esecuzione e nelle evidenze.
+Il principio DNSH richiede che l'intervento non arrechi un danno significativo agli obiettivi ambientali secondo il quadro applicabile. Non è una dichiarazione finale standard: va considerato nella progettazione, nell'affidamento, nell'esecuzione e nelle evidenze.
 
 ### Rischi
 
@@ -198,7 +198,7 @@ Il controllo riguarda anche la tempestività: un dato corretto ma aggiornato tro
 
 ### Documento e fascicolo
 
-Il decreto legislativo 7 marzo 2005, n. 82, Codice dell’amministrazione digitale, disciplina diritti, documenti, comunicazioni e servizi digitali della PA. Il documento informatico non è una scansione per definizione: formazione, sottoscrizione, gestione e conservazione determinano validità, integrità e reperibilità secondo le regole applicabili.
+Il decreto legislativo 7 marzo 2005, n. 82, Codice dell'amministrazione digitale, disciplina diritti, documenti, comunicazioni e servizi digitali della PA. Il documento informatico non è una scansione per definizione: formazione, sottoscrizione, gestione e conservazione determinano validità, integrità e reperibilità secondo le regole applicabili.
 
 La firma digitale è una particolare firma elettronica qualificata basata su un sistema crittografico previsto dalla disciplina. Non ogni firma elettronica produce automaticamente gli stessi effetti. In prova occorre evitare formule assolute e distinguere tipo di firma, processo e documento.
 
@@ -206,15 +206,15 @@ Protocollo e fascicolo informatico rendono ricostruibile il procedimento. Il fas
 
 ### Comunicazioni, identità e dati
 
-PEC e domicilio digitale consentono comunicazioni con effetti regolati dall’ordinamento. SPID e CIE permettono l’identificazione nei servizi. Questi strumenti rispondono a funzioni diverse: comunicare, identificare, sottoscrivere e conservare non sono la stessa operazione.
+PEC e domicilio digitale consentono comunicazioni con effetti regolati dall'ordinamento. SPID e CIE permettono l'identificazione nei servizi. Questi strumenti rispondono a funzioni diverse: comunicare, identificare, sottoscrivere e conservare non sono la stessa operazione.
 
-L’interoperabilità consente alle amministrazioni di scambiare dati secondo regole condivise, riducendo richieste ripetute. Non significa diffusione indiscriminata: accesso, sicurezza, protezione dei dati e competenza restano vincoli. La PDND supporta l’interoperabilità attraverso l’ecosistema previsto.
+L'interoperabilità consente alle amministrazioni di scambiare dati secondo regole condivise, riducendo richieste ripetute. Non significa diffusione indiscriminata: accesso, sicurezza, protezione dei dati e competenza restano vincoli. La PDND supporta l'interoperabilità attraverso l'ecosistema previsto.
 
 La conservazione mantiene nel tempo autenticità, integrità, affidabilità, leggibilità e reperibilità dei documenti secondo il quadro tecnico e giuridico. Salvare una copia in una cartella non realizza automaticamente la conservazione.
 
 ### Mini-esercizio
 
-Classifica le operazioni: accesso del funzionario al servizio, sottoscrizione della decisione, invio all’operatore, registrazione nel fascicolo, conservazione finale. Le categorie sono rispettivamente identità, firma, comunicazione, gestione documentale e conservazione. Un unico strumento non sostituisce tutte le funzioni.
+Classifica le operazioni: accesso del funzionario al servizio, sottoscrizione della decisione, invio all'operatore, registrazione nel fascicolo, conservazione finale. Le categorie sono rispettivamente identità, firma, comunicazione, gestione documentale e conservazione. Un unico strumento non sostituisce tutte le funzioni.
 
 
 ### Continuità e governo del documento
@@ -240,22 +240,22 @@ La ricostruzione comprende anche i permessi. Il documento deve essere disponibil
 ### Da sapere in cinque righe
 
 1. Il contratto parte dal fabbisogno e termina con esecuzione e verifica.
-2. RUP, stazione appaltante, operatore e direttore dell’esecuzione hanno ruoli distinti.
+2. RUP, stazione appaltante, operatore e direttore dell'esecuzione hanno ruoli distinti.
 3. BDNCP, FVOE, CIG e CUP non sono sinonimi.
 4. PNRR significa progetto, obiettivi, dati, spesa, rendicontazione e controlli.
 5. Il CAD rende giuridicamente organizzato il procedimento digitale.
 
 ### Caso guidato
 
-Un ministero deve acquistare una piattaforma per un progetto PNRR. Il dirigente chiede di avviare subito l’affidamento perché il cronoprogramma è in ritardo. L’ufficio ha il CUP, ma non ha definito livelli di servizio, responsabilità sui dati, modalità di verifica né struttura del fascicolo.
+Un ministero deve acquistare una piattaforma per un progetto PNRR. Il dirigente chiede di avviare subito l'affidamento perché il cronoprogramma è in ritardo. L'ufficio ha il CUP, ma non ha definito livelli di servizio, responsabilità sui dati, modalità di verifica né struttura del fascicolo.
 
-L’urgenza impone di organizzare il lavoro, ma non consente di omettere l’istruttoria. L’ufficio chiarisce fabbisogno e prestazione, verifica programmazione e risorse, individua RUP e altri ruoli, definisce requisiti e procedura, predispone decisione e documenti. Il contratto entra nel ciclo digitale e acquisisce gli identificativi richiesti. Il fascicolo collega atti, comunicazioni, verifiche ed esecuzione.
+L'urgenza impone di organizzare il lavoro, ma non consente di omettere l'istruttoria. L'ufficio chiarisce fabbisogno e prestazione, verifica programmazione e risorse, individua RUP e altri ruoli, definisce requisiti e procedura, predispone decisione e documenti. Il contratto entra nel ciclo digitale e acquisisce gli identificativi richiesti. Il fascicolo collega atti, comunicazioni, verifiche ed esecuzione.
 
 Sul versante PNRR si collegano progetto, cronoprogramma, milestone, target, ammissibilità e DNSH. I dati alimentano monitoraggio e rendicontazione. Prima del pagamento si controllano prestazione ed evidenze. Nessun sistema informativo sana un atto mancante.
 
 ### Metodo di risposta
 
-Nel quiz individua la funzione: progetto richiama CUP; contratto richiama CIG; requisiti richiamano FVOE; dati del ciclo richiamano BDNCP. All’orale usa definizione, funzione, distinzione, esempio e rischio. Nel caso pratico segui: **bisogno → regola → ruolo → atto → dato → controllo → evidenza**.
+Nel quiz individua la funzione: progetto richiama CUP; contratto richiama CIG; requisiti richiamano FVOE; dati del ciclo richiamano BDNCP. All'orale usa definizione, funzione, distinzione, esempio e rischio. Nel caso pratico segui: **bisogno → regola → ruolo → atto → dato → controllo → evidenza**.
 
 ### Checklist
 
@@ -298,7 +298,7 @@ Confondere la presenza di una piattaforma con la regolarità del procedimento. I
 
 ## ▣ Verifica — contratto, progetto e flusso digitale
 
-### 1. Il ciclo del contratto termina con l’aggiudicazione?
+### 1. Il ciclo del contratto termina con l'aggiudicazione?
 
 A. Sì. B. No, comprende stipula, esecuzione e verifica. C. Sì, salvo il PNRR. D. Solo per i servizi.
 
@@ -306,13 +306,13 @@ A. Sì. B. No, comprende stipula, esecuzione e verifica. C. Sì, salvo il PNRR. 
 
 ### 2. Il RUP è:
 
-A. l’operatore; B. il responsabile unico del progetto; C. sempre il direttore dell’esecuzione; D. l’organo politico.
+A. l'operatore; B. il responsabile unico del progetto; C. sempre il direttore dell'esecuzione; D. l'organo politico.
 
 **Risposta corretta:** B. Coordina il progetto secondo le attribuzioni del Codice.
 
 ### 3. Il FVOE serve principalmente a:
 
-A. identificare il progetto; B. verificare requisiti dell’operatore; C. sostituire il contratto; D. pagare fatture.
+A. identificare il progetto; B. verificare requisiti dell'operatore; C. sostituire il contratto; D. pagare fatture.
 
 **Risposta corretta:** B. Non coincide con la BDNCP.
 
@@ -324,7 +324,7 @@ A. CUP-progetto, CIG-contratto. B. CUP-contratto, CIG-progetto. C. Sono sinonimi
 
 ### 5. Monitoraggio e rendicontazione coincidono?
 
-A. Sempre. B. No: il primo segue l’avanzamento, la seconda espone spese e prove. C. Solo nel CAD. D. Solo a fine progetto.
+A. Sempre. B. No: il primo segue l'avanzamento, la seconda espone spese e prove. C. Solo nel CAD. D. Solo a fine progetto.
 
 **Risposta corretta:** B. Sono funzioni collegate ma distinte.
 
@@ -336,7 +336,7 @@ A. Sì. B. No. C. Solo se inviata via e-mail. D. Solo se stampata.
 
 ### 7. La digitalizzazione dei contratti consiste soltanto nella gara online?
 
-A. Sì. B. No, riguarda l’intero ciclo e i dati. C. Solo sotto soglia. D. Solo per ANAC.
+A. Sì. B. No, riguarda l'intero ciclo e i dati. C. Solo sotto soglia. D. Solo per ANAC.
 
 **Risposta corretta:** B. Comprende anche requisiti, pubblicità, esecuzione e tracciabilità.
 
@@ -348,4 +348,4 @@ A. solo dopo il pagamento; B. lungo il ciclo del progetto; C. soltanto dal forni
 
 ### Caso ragionato
 
-Durante l’esecuzione di un servizio PNRR il fornitore invia la fattura, ma mancano il rapporto sui livelli di servizio e l’aggiornamento dei dati di avanzamento. L’ufficio non procede automaticamente al pagamento. Verifica la prestazione secondo contratto, acquisisce le evidenze, aggiorna il fascicolo e i dati richiesti, controlla ammissibilità e collegamento con il progetto, quindi completa liquidazione, monitoraggio e rendicontazione secondo le rispettive regole.
+Durante l'esecuzione di un servizio PNRR il fornitore invia la fattura, ma mancano il rapporto sui livelli di servizio e l'aggiornamento dei dati di avanzamento. L'ufficio non procede automaticamente al pagamento. Verifica la prestazione secondo contratto, acquisisce le evidenze, aggiorna il fascicolo e i dati richiesti, controlla ammissibilità e collegamento con il progetto, quindi completa liquidazione, monitoraggio e rendicontazione secondo le rispettive regole.

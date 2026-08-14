@@ -67,7 +67,7 @@ L'autotutela non è un ricorso. Un'istanza amministrativa non trasferisce la dec
 
 **Esempio.** Il contribuente segnala all'ufficio un evidente errore di persona e, nello stesso tempo, valuta l'impugnazione. L'istanza può sollecitare il riesame, ma non autorizza a ignorare la tutela giurisdizionale e le sue condizioni.
 
-**Errore tipico:** “Ho presentato autotutela, quindi il processo è sospeso”. Nessun effetto va presunto senza la disposizione o il provvedimento che lo produce.
+**Errore tipico:** "Ho presentato autotutela, quindi il processo è sospeso". Nessun effetto va presunto senza la disposizione o il provvedimento che lo produce.
 
 **Verifica:** indica per ciascun piano chi decide, quale funzione svolge e se produce una sentenza.
 
@@ -84,13 +84,13 @@ Per scegliere l'istituto corretto, la risposta d'esame deve affrontare quattro d
 3. chi ha il potere di decidere o accordarsi?
 4. quali effetti produce sul rapporto e sul processo?
 
-Disponibilita del credito, riduzioni e termini non si possono ricavare per intuizione. Quando la traccia non offre dati sufficienti, si espone il metodo e si subordina l'esito alla verifica della norma vigente.
+Disponibilità del credito, riduzioni e termini non si possono ricavare per intuizione. Quando la traccia non offre dati sufficienti, si espone il metodo e si subordina l'esito alla verifica della norma vigente.
 
 La disciplina consolidata distingue quattro istituti che, in una risposta d'esame, devono restare separati:
 
 | Istituto | Fase e soggetti | Funzione | Effetto da verificare |
 | --- | --- | --- | --- |
-| Autotutela obbligatoria | Riesame dell'amministrazione nelle ipotesi tipizzate di manifesta illegittimita. | Rimuovere in tutto o in parte l'atto o l'imposizione quando ricorrono i presupposti di legge. | Limiti, provvedimento ed effetti sul rapporto; l'istanza non sostituisce il ricorso. |
+| Autotutela obbligatoria | Riesame dell'amministrazione nelle ipotesi tipizzate di manifesta illegittimità. | Rimuovere in tutto o in parte l'atto o l'imposizione quando ricorrono i presupposti di legge. | Limiti, provvedimento ed effetti sul rapporto; l'istanza non sostituisce il ricorso. |
 | Autotutela facoltativa | Riesame dell'amministrazione fuori dalle ipotesi obbligatorie. | Valutare un atto o un'imposizione illegittimi o infondati secondo la disciplina vigente. | Esercizio del potere ed eventuale rimozione, senza sospensioni automatiche. |
 | Accertamento con adesione | Procedimento tipizzato tra ufficio e contribuente nella fase ammessa. | Definire la pretesa mediante contraddittorio e adesione. | Perfezionamento, pagamento ed effetti previsti dal D.Lgs. 218/1997 vigente. |
 | Acquiescenza | Condotta del contribuente dopo l'atto, senza impugnazione, alle condizioni di legge. | Accettare la pretesa secondo il regime applicabile. | Stabilizzazione e trattamento legale; non è un accordo istruttorio con l'ufficio. |
@@ -129,7 +129,7 @@ Il perimetro comprende le controversie tributarie e gli atti che la legge attrib
 
 Il criterio territoriale di competenza va ricavato dalla disposizione vigente collegando parte resistente, sede/ufficio o altro elemento normativamente rilevante. Non si sceglie la corte dal domicilio del ricorrente per intuizione e non si trasferiscono alla competenza tributaria criteri di altri processi.
 
-**Come lo chiede la commissione:** “Una controversia che coinvolge AdER appartiene sempre al giudice tributario?” No. Si deve identificare natura del credito, atto e vizio. La presenza di AdER non determina da sola giurisdizione o parte resistente.
+**Come lo chiede la commissione:** "Una controversia che coinvolge AdER appartiene sempre al giudice tributario?" No. Si deve identificare natura del credito, atto e vizio. La presenza di AdER non determina da sola giurisdizione o parte resistente.
 
 ## 4. Parti, legittimazione e difesa tecnica
 
@@ -144,7 +144,7 @@ Litisconsorzio e intervento servono a trattare correttamente la presenza di più
 **Errore tipico:** attribuire sempre ad AdER la decisione sul merito del credito. Il raccordo completo con la riscossione è nel [[books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#2. Accertamento e riscossione: la separazione essenziale]].
 ## 5. Atti impugnabili, interesse e motivi
 
-L'atto impugnabile è il punto di accesso ordinario alla tutela. Va identificato per contenuto, autore, funzione, notificazione ed effetto. Non ogni comunicazione è impugnabile; non ogni irregolarita della comunicazione diventa un motivo idoneo contro la pretesa.
+L'atto impugnabile è il punto di accesso ordinario alla tutela. Va identificato per contenuto, autore, funzione, notificazione ed effetto. Non ogni comunicazione è impugnabile; non ogni irregolarità della comunicazione diventa un motivo idoneo contro la pretesa.
 
 L'interesse a ricorrere richiede un'utilità concreta della decisione. Il motivo di ricorso è la censura rivolta all'atto; la domanda è ciò che si chiede al giudice. Questi elementi non coincidono con la prova che li sostiene.
 
@@ -181,7 +181,7 @@ Il ricorso introduce la domanda e delimita il giudizio. Deve rendere riconoscibi
 
 La sequenza minima è: redazione, notificazione secondo la disciplina vigente, deposito e costituzione. La parte resistente si costituisce e deposita difese e documenti. Il fascicolo raccoglie gli atti processuali nel sistema telematico.
 
-Il processo tributario telematico non modifica la funzione degli atti: modifica canale, formato, deposito, comunicazioni e tracciabilità. Identità digitale, firma, ricevute e corretto abbinamento al fascicolo hanno valore operativo. Un file inviato al destinatario sbagliato o privo dei requisiti non diventa valido perché “è online”.
+Il processo tributario telematico non modifica la funzione degli atti: modifica canale, formato, deposito, comunicazioni e tracciabilità. Identità digitale, firma, ricevute e corretto abbinamento al fascicolo hanno valore operativo. Un file inviato al destinatario sbagliato o privo dei requisiti non diventa valido perché "è online".
 ### Checklist PTT
 
 La checklist è **subordinata alle specifiche tecniche, ai decreti e alle istruzioni vigenti al momento dell'adempimento**. Non sostituisce il controllo operativo sul portale e non certifica formati o dimensioni.
@@ -200,7 +200,7 @@ La checklist è **subordinata alle specifiche tecniche, ai decreti e alle istruz
 
 Non sono riportati termini numerici. In prova, se non richiesti, si dice che notificazione, costituzione e deposito rispettano termini e forme del TU nella versione vigente. Se il quesito chiede il numero, va verificato sul testo aggiornato e non ricostruito a memoria.
 
-**Mini-verifica:** ordina: motivi, notificazione, costituzione, fascicolo. Spiega perché “ho mandato una PEC” non dimostra da sola il corretto deposito processuale.
+**Mini-verifica:** ordina: motivi, notificazione, costituzione, fascicolo. Spiega perché "ho mandato una PEC" non dimostra da sola il corretto deposito processuale.
 
 ## 7. Prova, allegazione e poteri della corte
 
@@ -214,21 +214,21 @@ La disposizione specifica del TU 175 sull'onere della prova, da leggere nella ve
 | Contribuente | Fatti impeditivi, modificativi o estintivi opposti alla pretesa. | La negazione generica non prova pagamento, prescrizione o altra causa. |
 | Richiedente il rimborso | Fatti che fondano il diritto alla restituzione. | La domanda di rimborso non trasferisce da sola l'intero onere all'ufficio. |
 
-La regola va applicata alla singola domanda, senza slogan come “prova sempre l'ufficio” o “prova sempre il contribuente”. Il numero e il testo dell'articolo devono essere controllati sul TU 175 coordinato: il capitolo non cristallizza una numerazione non validata dalla source, ma rende esplicito il contenuto normativo consolidato.
+La regola va applicata alla singola domanda, senza slogan come "prova sempre l'ufficio" o "prova sempre il contribuente". Il numero e il testo dell'articolo devono essere controllati sul TU 175 coordinato: il capitolo non cristallizza una numerazione non validata dalla source, ma rende esplicito il contenuto normativo consolidato.
 
 Le presunzioni non sono sospetti. Occorre verificare fatto noto, inferenza, requisiti richiesti e possibilità di prova contraria. Una presunzione utilizzabile può sostenere la pretesa; resta distinta dalla motivazione che spiega perché l'ufficio l'ha impiegata.
 
 Il giudice valuta gli elementi acquisiti ed esercita i poteri consentiti. Non diventa investigatore generale e non colma indistintamente le omissioni delle parti. Le modifiche recenti alla prova richiedono sempre verifica articolo-specifica prima di formulare regole assolute.
 
-**Esempio.** L'atto contesta ricavi non dichiarati sulla base di dati bancari. Nel ricorso il contribuente deve trasformare la spiegazione alternativa in fatti specifici e documenti riferibili alle operazioni, non limitarsi a scrivere “i dati sono sbagliati”.
+**Esempio.** L'atto contesta ricavi non dichiarati sulla base di dati bancari. Nel ricorso il contribuente deve trasformare la spiegazione alternativa in fatti specifici e documenti riferibili alle operazioni, non limitarsi a scrivere "i dati sono sbagliati".
 
-**Errore d'esame:** confondere “l'atto è motivato” con “la pretesa è provata”. Motivazione e prova comunicano, ma restano controlli distinti.
+**Errore d'esame:** confondere "l'atto è motivato" con "la pretesa è provata". Motivazione e prova comunicano, ma restano controlli distinti.
 
 ## 8. Tutela cautelare: proteggere senza decidere il merito
 
 ### Definizione
 
-La tutela cautelare è la protezione provvisoria richiesta durante il giudizio quando l'esecuzione dell'atto può causare un **danno grave e irreparabile**, secondo la formula e i presupposti del TU vigente. Gravita e irreparabilita devono essere argomentate e documentate, non soltanto nominate. Non annulla definitivamente l'atto e non anticipa automaticamente la sentenza.
+La tutela cautelare è la protezione provvisoria richiesta durante il giudizio quando l'esecuzione dell'atto può causare un **danno grave e irreparabile**, secondo la formula e i presupposti del TU vigente. Gravità e irreparabilità devono essere argomentate e documentate, non soltanto nominate. Non annulla definitivamente l'atto e non anticipa automaticamente la sentenza.
 
 ### Funzione
 
@@ -257,7 +257,7 @@ La corte tratta la domanda secondo il TU, nel contraddittorio previsto, e adotta
 
 ### Esempio
 
-Una società impugna un atto e documenta che l'immediata esecuzione comprometterebbe la continuità di pagamenti essenziali. Non basta dichiarare “danno grave”: deve collegare importo, flussi, obblighi imminenti, alternative e motivo del ricorso. La corte valuta cautela e merito su piani distinti.
+Una società impugna un atto e documenta che l'immediata esecuzione comprometterebbe la continuità di pagamenti essenziali. Non basta dichiarare "danno grave": deve collegare importo, flussi, obblighi imminenti, alternative e motivo del ricorso. La corte valuta cautela e merito su piani distinti.
 
 ### Come viene chiesta
 
@@ -265,7 +265,7 @@ All'orale: definizione, funzione, presupposti, procedimento, effetto provvisorio
 
 ### Errore tipico e verifica
 
-**Errore:** “La sospensione cautelare annulla l'atto”. Correzione: arresta o regola provvisoriamente gli effetti nei limiti del provvedimento.
+**Errore:** "La sospensione cautelare annulla l'atto". Correzione: arresta o regola provvisoriamente gli effetti nei limiti del provvedimento.
 
 **Verifica:** completa: ricorso senza cautela = ______; cautela accolta = ______; sentenza favorevole = ______. Risposta: domanda di merito senza sospensione automatica; effetto provvisorio; decisione sul merito con gli effetti stabiliti.
 
@@ -276,32 +276,32 @@ La sospensione del processo arresta temporaneamente il suo corso per una causa p
 | Vicenda | Presupposto-tipo | Oggetto | Conseguenza essenziale |
 | --- | --- | --- | --- |
 | Sospensione processuale | Questione o evento che il TU qualifica come causa di arresto temporaneo. | Corso del giudizio. | Pausa fino alla cessazione della causa e ripresa nei modi vigenti. |
-| Interruzione | Evento che incide sulla parte, sul rappresentante o sul difensore nei casi previsti. | Integrita del contraddittorio. | Arresto e successiva riattivazione; gli atti compiuti nel periodo seguono la disciplina applicabile. |
-| Estinzione | Rinuncia, inattivita o altra causa tipizzata. | Esistenza del processo. | Chiusura senza normale decisione di merito, con effetti sull'atto e sulle spese da verificare per la singola causa. |
+| Interruzione | Evento che incide sulla parte, sul rappresentante o sul difensore nei casi previsti. | Integrità del contraddittorio. | Arresto e successiva riattivazione; gli atti compiuti nel periodo seguono la disciplina applicabile. |
+| Estinzione | Rinuncia, inattività o altra causa tipizzata. | Esistenza del processo. | Chiusura senza normale decisione di merito, con effetti sull'atto e sulle spese da verificare per la singola causa. |
 
 **Trappola:** estinzione del processo non significa sempre annullamento dell'atto. Gli effetti sostanziali dipendono dalla causa e dalla disciplina.
 
 ## 10. Conciliazione giudiziale
 
-La conciliazione è uno strumento di definizione della controversia dentro il quadro processuale. Le parti compongono la lite nei casi e modi previsti; la corte esercita la funzione attribuita dal TU. Non è autotutela, perché non consiste nel riesame unilaterale dell'ufficio; non è sentenza sul merito, perché deriva dalla composizione disciplinata. La distinzione rispetto ad autotutela, adesione e acquiescenza è consolidata in.
+La conciliazione è uno strumento di definizione della controversia dentro il quadro processuale. Le parti compongono la lite nei casi e modi previsti; la corte esercita la funzione attribuita dal TU. Non è autotutela, perché non consiste nel riesame unilaterale dell'ufficio; non è sentenza sul merito, perché deriva dalla composizione disciplinata. La distinzione rispetto ad autotutela, adesione e acquiescenza è consolidata.
 
-Prima di parlare di conciliazione occorre verificare se la controversia sia conciliabile, chi possa partecipare, che cosa contenga l'accordo, in quale momento intervenga e come si perfezioni. Vanno poi distinti gli effetti sul giudizio, sul tributo e sulle sanzioni. La disponibilita informale delle parti, da sola, non basta.
+Prima di parlare di conciliazione occorre verificare se la controversia sia conciliabile, chi possa partecipare, che cosa contenga l'accordo, in quale momento intervenga e come si perfezioni. Vanno poi distinti gli effetti sul giudizio, sul tributo e sulle sanzioni. La disponibilità informale delle parti, da sola, non basta.
 | Profilo | Presupposto-tipo | Conseguenza |
 | --- | --- | --- |
-| Ammissibilita | Controversia e fase nelle quali il TU consente la conciliazione. | Si apre il percorso definitorio, non una trattativa priva di regole. |
+| Ammissibilità | Controversia e fase nelle quali il TU consente la conciliazione. | Si apre il percorso definitorio, non una trattativa priva di regole. |
 | Soggetti e contenuto | Parti legittimate e accordo determinato sugli elementi conciliati. | Il residuo non conciliato segue la sorte prevista. |
 | Perfezionamento | Atto e adempimenti richiesti dalla disciplina vigente. | La conciliazione produce gli effetti tipizzati sul giudizio e sulle somme. |
 | Chiusura processuale | Presa d'atto o provvedimento previsto nel processo. | La lite si chiude nei limiti dell'accordo; non equivale a una sentenza che accerta ogni questione. |
 
-**Esempio:** ufficio e contribuente convergono sulla rideterminazione di alcuni componenti. La risposta non dice “si accordano e il processo finisce”: identifica istituto, formalizzazione, controllo ed effetti previsti.
+**Esempio:** ufficio e contribuente convergono sulla rideterminazione di alcuni componenti. La risposta non dice "si accordano e il processo finisce": identifica istituto, formalizzazione, controllo ed effetti previsti.
 
 **Errore tipico:** confondere conciliazione con ravvedimento. Il ravvedimento nasce dalla regolarizzazione disciplinata; la conciliazione definisce una controversia processuale.
 
 ## 11. Trattazione, decisione e spese
 
-La causa arriva alla decisione attraverso le forme di trattazione previste: camera di consiglio o udienza, eventuale partecipazione con gli strumenti consentiti, discussione e deliberazione. Il processo telematico non elimina oralita o contraddittorio: ne disciplina le modalità.
+La causa arriva alla decisione attraverso le forme di trattazione previste: camera di consiglio o udienza, eventuale partecipazione con gli strumenti consentiti, discussione e deliberazione. Il processo telematico non elimina oralità o contraddittorio: ne disciplina le modalità.
 
-La sentenza identifica corte, parti, domanda, motivi, ricostruzione rilevante e decisione. Può accogliere o respingere nei limiti del giudizio e produrre gli effetti stabiliti. “Ricorso accolto” non dice da solo quali somme siano dovute, quali atti conseguenti servano o se vi siano restituzioni.
+La sentenza identifica corte, parti, domanda, motivi, ricostruzione rilevante e decisione. Può accogliere o respingere nei limiti del giudizio e produrre gli effetti stabiliti. "Ricorso accolto" non dice da solo quali somme siano dovute, quali atti conseguenti servano o se vi siano restituzioni.
 
 Le spese seguono la disciplina processuale e la motivazione del giudice. Non si afferma che paga sempre chi perde senza considerare regole, compensazione e condotte processuali. La responsabilità processuale richiede i propri presupposti.
 
@@ -313,20 +313,20 @@ L'impugnazione chiede il controllo di una decisione mediante il mezzo previsto. 
 
 L'appello sottopone la sentenza di primo grado al giudice superiore nei limiti delle censure. Non è una ripartenza libera: domanda, motivi, preclusioni e regole su fatti e prove delimitano il nuovo grado. La cassazione controlla i vizi ammessi e non ripete indistintamente l'accertamento dei fatti. La revocazione reagisce ai vizi tipizzati.
 
-Acquiescenza e giudicato stabilizzano la decisione nei limiti propri. Il candidato deve evitare due formule: “si può sempre fare appello” e “la cassazione è il terzo grado di merito”.
+Acquiescenza e giudicato stabilizzano la decisione nei limiti propri. Il candidato deve evitare due formule: "si può sempre fare appello" e "la cassazione è il terzo grado di merito".
 
-**Domanda rapida:** quale mezzo useresti contro una sentenza di primo grado? La risposta “appello” è solo l'inizio: servono censura, legittimazione e disciplina vigente.
+**Domanda rapida:** quale mezzo useresti contro una sentenza di primo grado? La risposta "appello" è solo l'inizio: servono censura, legittimazione e disciplina vigente.
 
 ## 13. Giudicato, esecuzione e ottemperanza
 
-Il giudicato indica la stabilizzazione della decisione nei limiti soggettivi e oggettivi applicabili. L'esecutivita riguarda la capacità della sentenza di produrre attuazione secondo legge. Le due nozioni non coincidono necessariamente nel tempo.
+Il giudicato indica la stabilizzazione della decisione nei limiti soggettivi e oggettivi applicabili. L'esecutività riguarda la capacità della sentenza di produrre attuazione secondo legge. Le due nozioni non coincidono necessariamente nel tempo.
 
 L'esecuzione traduce la pronuncia in comportamenti dovuti: pagamento, rimborso, restituzione o adeguamento dell'azione amministrativa secondo il dispositivo. Se l'amministrazione non esegue correttamente, il giudizio di ottemperanza mira a ottenere l'attuazione della decisione nei presupposti previsti.
 
 | Concetto | Domanda |
 | --- | --- |
 | Giudicato | Che cosa non può più essere rimesso in discussione? |
-| Esecutivita | La pronuncia può essere attuata? |
+| Esecutività | La pronuncia può essere attuata? |
 | Esecuzione | Quale comportamento è dovuto? |
 | Ottemperanza | Come si ottiene l'attuazione rimasta ineseguita? |
 
@@ -348,7 +348,7 @@ L'istanza già presentata appartiene alla tutela amministrativa. La correzione p
 
 ### 3. Scelta e costruzione del ricorso
 
-Omega formula fatti e censure: riferibilita dei dati, imputazione dei versamenti, motivazione e prova della pretesa. Allega documenti collegati a ciascun fatto. Notifica e deposita secondo TU e processo telematico; si costituisce con difesa tecnica nei casi previsti.
+Omega formula fatti e censure: riferibilità dei dati, imputazione dei versamenti, motivazione e prova della pretesa. Allega documenti collegati a ciascun fatto. Notifica e deposita secondo TU e processo telematico; si costituisce con difesa tecnica nei casi previsti.
 
 ### 4. Domanda cautelare
 
@@ -360,7 +360,7 @@ L'ufficio deposita le proprie difese e gli elementi della pretesa. Omega affront
 
 ### 6. Decisione ed esito
 
-La corte tratta e decide ogni motivo nei limiti della domanda. La sentenza regola anche le spese. La parte soccombente valuta l'impugnazione appropriata, non una generica “seconda causa”. Quando la decisione diviene esecutiva o definitiva secondo legge, l'amministrazione la attua. Se non lo fa, si verifica l'ottemperanza.
+La corte tratta e decide ogni motivo nei limiti della domanda. La sentenza regola anche le spese. La parte soccombente valuta l'impugnazione appropriata, non una generica "seconda causa". Quando la decisione diviene esecutiva o definitiva secondo legge, l'amministrazione la attua. Se non lo fa, si verifica l'ottemperanza.
 
 ### Risposta modello in dodici righe
 
@@ -390,7 +390,7 @@ La vicenda richiede di separare riesame amministrativo e tutela giurisdizionale.
 
 **AdER è sempre la parte resistente contro una cartella?** No. Parte e giurisdizione dipendono da atto, credito e vizio dedotto.
 
-**La cassazione rivaluta liberamente i fatti?** No. Opera nei motivi e secondo la funzione stabilità dall'ordinamento.
+**La cassazione rivaluta liberamente i fatti?** No. Opera nei motivi e secondo la funzione stabilita dall'ordinamento.
 
 ## Errori tipici
 
@@ -402,7 +402,7 @@ La vicenda richiede di separare riesame amministrativo e tutela giurisdizionale.
 | Ricorso uguale sospensione | Espone a effetti esecutivi. | Valutare cautela e relativo provvedimento. |
 | Conciliazione uguale autotutela | Confonde accordo processuale e riesame. | Collocare fase e soggetti. |
 | Appello uguale nuovo primo grado | Ignora limiti e preclusioni. | Costruire censure alla sentenza. |
-| Sentenza uguale esecuzione | Non considera attuazione. | Distinguere giudicato, esecutivita e ottemperanza. |
+| Sentenza uguale esecuzione | Non considera attuazione. | Distinguere giudicato, esecutività e ottemperanza. |
 
 ## Mini-esercizio operativo
 
@@ -494,7 +494,7 @@ Griglia di autovalutazione:
 
 - Verificare articolo per articolo sul TU 175/2024 coordinato con correttivo 2025 e interventi 2026 termini, forme, processo telematico, prova, cautela, conciliazione, spese e impugnazioni.
 - Le modifiche organizzative del 2026 non sono state trasformate automaticamente in regole processuali.
-- Autotutela obbligatoria e facoltativa, adesione, acquiescenza e conciliazione sono distinti per funzione e fase; termini, riduzioni, perfezionamento, cause di esclusione e impugnabilita dei dinieghi richiedono verifica sul testo vigente.
+- Autotutela obbligatoria e facoltativa, adesione, acquiescenza e conciliazione sono distinti per funzione e fase; termini, riduzioni, perfezionamento, cause di esclusione e impugnabilità dei dinieghi richiedono verifica sul testo vigente.
 - Coordinare ogni caso AdER con natura del credito, atto e vizio, senza attribuire automaticamente giurisdizione o legittimazione.
 - Sottoporre il capitolo a review umana processual-tributaria prima della pubblicazione.
 - Il capitolo ha finalità didattica e concorsuale e non costituisce consulenza tributaria o processuale.

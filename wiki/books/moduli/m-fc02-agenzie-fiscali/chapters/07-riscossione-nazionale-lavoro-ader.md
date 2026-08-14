@@ -66,7 +66,7 @@ Al termine del capitolo devi saper:
 
 Agenzia delle entrate-Riscossione è un ente pubblico economico istituito dall'art. 1 del D.L. 193/2016, convertito dalla L. 225/2016. Svolge le funzioni relative alla riscossione nazionale ed è sottoposto all'indirizzo operativo e al controllo dell'Agenzia delle Entrate. Ha autonomia organizzativa, patrimoniale, contabile e di gestione.
 
-Questa qualificazione ha conseguenze concrete. AdER non è una direzione interna dell'Agenzia delle Entrate, ne una delle agenzie fiscali disciplinate dal D.Lgs. 300/1999 nello stesso senso di AE e ADM. È un ente strumentale distinto, con propri organi e una specifica missione istituzionale. Il Direttore coincide con il Direttore dell'Agenzia delle Entrate; completano la governance il Comitato di gestione e il Collegio dei revisori dei conti.
+Questa qualificazione ha conseguenze concrete. AdER non è una direzione interna dell'Agenzia delle Entrate, né una delle agenzie fiscali disciplinate dal D.Lgs. 300/1999 nello stesso senso di AE e ADM. È un ente strumentale distinto, con propri organi e una specifica missione istituzionale. Il Direttore coincide con il Direttore dell'Agenzia delle Entrate; completano la governance il Comitato di gestione e il Collegio dei revisori dei conti.
 
 L'espressione "riscossione nazionale" indica una funzione esercitata per crediti affidati da amministrazioni ed enti diversi. Dietro una cartella può esserci un tributo erariale, un'entrata locale, una sanzione amministrativa o un'altra entrata prevista dalla legge. Per questo l'operatore deve sempre leggere il campo relativo all'ente creditore: la natura del credito orienta competenza, tutela e autorità cui rivolgere la contestazione.
 
@@ -111,7 +111,7 @@ Al front-office si parte dunque da una domanda: quale atto ha ricevuto l'utente?
 
 La rateizzazione consente di distribuire il pagamento quando ricorrono i presupposti di legge. Non annulla il carico, non ne modifica il fondamento e non equivale a uno sgravio. Con l'accoglimento nasce un piano che il debitore deve rispettare; il mancato pagamento delle rate rilevanti può determinare la decadenza secondo il regime applicabile.
 
-L'art. 19 del D.P.R. 602/1973 è la disposizione centrale. Il D.Lgs. 110/2024 ha modificato requisiti e durata dei piani con una progressione temporale. Per le richieste presentate nel 2025 e 2026, i debiti fino a 120.000 euro compresi in ciascuna domanda possono essere dilazionati, su semplice richiesta accompagnata dalla dichiarazione di temporanea difficoltà, fino a 84 rate mensili. Piani più lunghi o importi superiori richiedono la documentazione stabilità dalla disciplina e dai provvedimenti attuativi.
+L'art. 19 del D.P.R. 602/1973 è la disposizione centrale. Il D.Lgs. 110/2024 ha modificato requisiti e durata dei piani con una progressione temporale. Per le richieste presentate nel 2025 e 2026, i debiti fino a 120.000 euro compresi in ciascuna domanda possono essere dilazionati, su semplice richiesta accompagnata dalla dichiarazione di temporanea difficoltà, fino a 84 rate mensili. Piani più lunghi o importi superiori richiedono la documentazione stabilita dalla disciplina e dai provvedimenti attuativi.
 
 > **Dato mobile 2026**
 > Soglie, numero di rate e cause di decadenza devono essere verificate alla data del bando. Il candidato deve conoscere il meccanismo e poi aggiornare i valori sul portale AdER e sul testo vigente dell'art. 19.
@@ -124,7 +124,7 @@ L'ufficio controlla quali carichi rientrano nella domanda, se la dilazione compe
 
 La sospensione arresta temporaneamente la riscossione; lo sgravio elimina in tutto o in parte il carico per effetto di un provvedimento dell'ente creditore; il ricorso chiede al giudice competente di decidere una controversia. Confondere questi istituti significa confondere effetti e autorità competenti.
 
-La sospensione legale della riscossione, disciplinata dalla L. 228/2012, può essere chiesta ad AdER entro sessanta giorni dalla notifica dell'atto nei casi tassativi. Tra questi rientrano, secondo la disciplina e la modulistica istituzionale, il pagamento effettuato prima della formazione del ruolo, lo sgravio già disposto, la prescrizione o decadenza maturata prima dell'esecutivita del ruolo, la sospensione amministrativa o giudiziale e la sentenza di annullamento resa in un giudizio cui l'agente della riscossione non ha partecipato.
+La sospensione legale della riscossione, disciplinata dalla L. 228/2012, può essere chiesta ad AdER entro sessanta giorni dalla notifica dell'atto nei casi tassativi. Tra questi rientrano, secondo la disciplina e la modulistica istituzionale, il pagamento effettuato prima della formazione del ruolo, lo sgravio già disposto, la prescrizione o decadenza maturata prima dell'esecutività del ruolo, la sospensione amministrativa o giudiziale e la sentenza di annullamento resa in un giudizio cui l'agente della riscossione non ha partecipato.
 
 AdER riceve la dichiarazione, sospende le attività nei limiti previsti e trasmette la documentazione all'ente creditore. È quest'ultimo a verificare il fondamento della richiesta. Questo passaggio mostra bene la ripartizione dei ruoli: l'agente della riscossione gestisce la procedura, ma non decide autonomamente se il tributo originario fosse dovuto.
 
@@ -140,7 +140,7 @@ Tra gli istituti più ricorrenti nello studio figurano fermo amministrativo, ipo
 
 | Istituto | Funzione pratica | Cosa colpisce | Errore da evitare |
 |---|---|---|---|
-| Fermo amministrativo | Impedisce la libera disponibilita del veicolo fino alla regolarizzazione o alla definizione del debito | Beni mobili registrati | Pensare che coincida sempre con il pignoramento |
+| Fermo amministrativo | Impedisce la libera disponibilità del veicolo fino alla regolarizzazione o alla definizione del debito | Beni mobili registrati | Pensare che coincida sempre con il pignoramento |
 | Ipoteca | Rafforza la garanzia sul bene immobile secondo i presupposti di legge | Immobili | Confonderla con la vendita forzata |
 | Pignoramento | Avvia la fase esecutiva sui beni o sui crediti del debitore | Beni mobili, immobili o crediti | Trattarlo come semplice sollecito di pagamento |
 
@@ -221,7 +221,7 @@ Una cittadina presenta una cartella relativa a una sanzione comunale e mostra un
 
 **2. Competenza.** AdER non annulla autonomamente il credito del Comune. Può ricevere la dichiarazione di sospensione entro il termine previsto e trasmetterla all'ente creditore.
 
-**3. Istruttoria minima.** L'operatore identifica la contribuente, verifica l'atto, la data di notifica, la riferibilita della ricevuta al debito e la completezza del modulo.
+**3. Istruttoria minima.** L'operatore identifica la contribuente, verifica l'atto, la data di notifica, la riferibilità della ricevuta al debito e la completezza del modulo.
 
 **4. Effetto.** La riscossione viene sospesa secondo la disciplina mentre il Comune verifica. Se il Comune riconosce il pagamento, dispone lo sgravio; se respinge, comunica l'esito e la riscossione può riprendere.
 
@@ -264,7 +264,7 @@ Per ciascuna situazione indica: soggetto competente, strumento e primo controllo
 ### Soluzione ragionata
 
 1. AdER: domanda di rateizzazione; verificare importo, regime temporale, carichi e requisiti.
-2. Ente creditore e AdER: acquisizione/allineamento dello sgravio; verificare autenticita, riferibilita e stato del carico.
+2. Ente creditore e AdER: acquisizione/allineamento dello sgravio; verificare autenticità, riferibilità e stato del carico.
 3. Ente creditore o giudice secondo il caso: contestazione dell'atto; identificare atto originario e termini.
 4. AdER: accesso documentale o servizio informativo; verificare identità, delega e poteri del richiedente.
 5. AdER per la fase di riscossione: spiegare il percorso dell'accertamento esecutivo; verificare atto presupposto e affidamento.
@@ -297,7 +297,7 @@ A. è sempre seguito da una nuova cartella;
 B. comunica l'affidamento ad AdER di un carico derivante da atto esecutivo;
 C. annulla l'accertamento;
 D. concede automaticamente 120 rate.
-**Risposta corretta: B.** Non è un nuovo accertamento ne una cartella necessaria.
+**Risposta corretta: B.** Non è un nuovo accertamento né una cartella necessaria.
 
 ## Diario degli errori
 
