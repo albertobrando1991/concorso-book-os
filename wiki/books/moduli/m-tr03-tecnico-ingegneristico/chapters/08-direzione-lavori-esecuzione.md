@@ -88,7 +88,7 @@ La piattaforma digitale prevista dalla disciplina rende più trasparente e tracc
 
 ### Materiali, lavorazioni, qualità e tempi
 
-Il controllo dei materiali verifica corrispondenza alle prescrizioni e presenza delle prove o certificazioni richieste. Un materiale proposto come “equivalente” non può essere accettato sulla sola dichiarazione commerciale: occorre verificare prestazioni, compatibilità e procedimento contrattuale applicabile.
+Il controllo dei materiali verifica corrispondenza alle prescrizioni e presenza delle prove o certificazioni richieste. Un materiale proposto come "equivalente" non può essere accettato sulla sola dichiarazione commerciale: occorre verificare prestazioni, compatibilità e procedimento contrattuale applicabile.
 
 Il controllo delle lavorazioni confronta ciò che viene eseguito con elaborati, capitolato e regole tecniche. Nelle opere strutturali si raccorda con i controlli specialistici descritti nel capitolo 4. L'accettazione del materiale non sana una posa difforme; una lavorazione corretta non rende conforme un prodotto inadeguato.
 

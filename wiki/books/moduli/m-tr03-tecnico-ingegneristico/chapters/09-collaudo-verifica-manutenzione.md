@@ -66,7 +66,7 @@ Il controllo tutela l'interesse pubblico: un'opera che appare terminata non è p
 
 Il collaudo tecnico-amministrativo riguarda i lavori e verifica l'adempimento contrattuale nel suo insieme. Esamina la conformità al progetto e alle modifiche approvate, la qualità delle lavorazioni, gli elementi economici e documentali e le condizioni per il rilascio del certificato.
 
-L'aggettivo “amministrativo” non riduce il controllo a un esame di carte. Le operazioni comprendono visite, misure, saggi e riscontri ritenuti necessari. D'altra parte, un'opera materialmente ben eseguita non rende irrilevanti contabilità, autorizzazioni, riserve o documenti mancanti.
+L'aggettivo "amministrativo" non riduce il controllo a un esame di carte. Le operazioni comprendono visite, misure, saggi e riscontri ritenuti necessari. D'altra parte, un'opera materialmente ben eseguita non rende irrilevanti contabilità, autorizzazioni, riserve o documenti mancanti.
 
 Il certificato esprime l'esito delle operazioni e segue il regime previsto dal Codice. Termini, carattere dell'atto e passaggi di approvazione vanno verificati sul testo vigente: per la preparazione concorsuale conta soprattutto comprendere funzione, sequenza e conseguenze.
 
@@ -142,7 +142,7 @@ Non ogni guasto prova un vizio originario. Occorre distinguere difetto di esecuz
 
 Il piano di manutenzione nasce nel progetto e deve essere coerente con l'opera realizzata. Indica componenti, prestazioni da conservare, controlli, interventi e informazioni necessarie al gestore. Non è un calendario immutabile: uso, ispezioni e anomalie possono richiederne l'aggiornamento.
 
-Una buona istruzione di manutenzione collega almeno cinque elementi: componente, rischio o degrado atteso, controllo, criterio di valutazione e azione conseguente. Scrivere “verificare periodicamente” senza indicare che cosa osservare e come decidere lascia il gestore senza una regola.
+Una buona istruzione di manutenzione collega almeno cinque elementi: componente, rischio o degrado atteso, controllo, criterio di valutazione e azione conseguente. Scrivere "verificare periodicamente" senza indicare che cosa osservare e come decidere lascia il gestore senza una regola.
 
 Le periodicità puntuali dipendono da norma, produttore, ambiente, uso e criticità. Per questo non devono essere inventate né trasferite automaticamente da un'opera diversa.
 

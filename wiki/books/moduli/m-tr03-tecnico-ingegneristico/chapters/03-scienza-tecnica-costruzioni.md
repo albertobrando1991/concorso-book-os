@@ -41,7 +41,7 @@ Al termine del capitolo saprai:
 - distinguere resistenza, rigidezza, stabilità, duttilità e durabilità;
 - impostare una risposta orale senza nasconderti dietro formule isolate.
 
-L’output è una checklist `ipotesi–modello–azione–risposta–verifica`, utilizzabile nei quiz, negli orali e nei casi qualitativi.
+L'output è una checklist `ipotesi–modello–azione–risposta–verifica`, utilizzabile nei quiz, negli orali e nei casi qualitativi.
 
 ## La Mappa BANDO del problema strutturale
 
@@ -53,11 +53,11 @@ L’output è una checklist `ipotesi–modello–azione–risposta–verifica`, 
 | **D — Diario** | Ho sbagliato ipotesi, vincoli, segni o significato fisico? | errore classificato |
 | **O — Output** | Devo riconoscere, calcolare, tracciare o spiegare? | forma della risposta |
 
-La stessa materia cambia volto nella prova. Un quiz può chiedere una distinzione; uno scritto può richiedere uno schema di calcolo; l’orale può valutare la capacità di spiegare perché un modello è adatto.
+La stessa materia cambia volto nella prova. Un quiz può chiedere una distinzione; uno scritto può richiedere uno schema di calcolo; l'orale può valutare la capacità di spiegare perché un modello è adatto.
 
 ## Dalla struttura reale al modello
 
-Una struttura reale ha geometria, materiali, collegamenti, difetti, storia costruttiva e condizioni d’uso. Il modello ne rappresenta gli aspetti rilevanti per il problema studiato. Non è una copia ridotta dell’opera: è una scelta tecnica.
+Una struttura reale ha geometria, materiali, collegamenti, difetti, storia costruttiva e condizioni d'uso. Il modello ne rappresenta gli aspetti rilevanti per il problema studiato. Non è una copia ridotta dell'opera: è una scelta tecnica.
 
 Per costruirlo servono almeno:
 
@@ -73,65 +73,65 @@ Un impalcato può essere rappresentato mediante travi, piastre o modelli più co
 
 ### Schema statico e struttura reale
 
-Lo schema statico descrive elementi, vincoli e azioni in una forma adatta all’analisi. La struttura reale comprende dettagli e fenomeni che lo schema può idealizzare.
+Lo schema statico descrive elementi, vincoli e azioni in una forma adatta all'analisi. La struttura reale comprende dettagli e fenomeni che lo schema può idealizzare.
 
 Nella risposta vanno dichiarate le ipotesi essenziali. Assumere piccoli spostamenti, comportamento elastico lineare o collegamenti ideali significa delimitare la validità del risultato.
 
 ### Vincoli e gradi di libertà
 
-I gradi di libertà descrivono i movimenti possibili del sistema. I vincoli ne impediscono alcuni e generano reazioni. Un vincolo va letto per l’effetto cinematico che produce, non memorizzato soltanto come simbolo grafico.
+I gradi di libertà descrivono i movimenti possibili del sistema. I vincoli ne impediscono alcuni e generano reazioni. Un vincolo va letto per l'effetto cinematico che produce, non memorizzato soltanto come simbolo grafico.
 
 Un sistema è labile se conserva movimenti incompatibili con la funzione resistente prevista. È isostatico quando equilibrio e vincoli consentono di determinare le reazioni con le sole equazioni statiche. È iperstatico quando servono anche compatibilità delle deformazioni e legami costitutivi.
 
 ## Azioni, reazioni ed equilibrio
 
-Le azioni esterne comprendono forze, momenti e altri effetti che sollecitano il sistema. Possono derivare dal peso, dall’uso, dall’ambiente, da deformazioni imposte o da altri fenomeni. Il capitolo 4 tratterà la loro classificazione normativa.
+Le azioni esterne comprendono forze, momenti e altri effetti che sollecitano il sistema. Possono derivare dal peso, dall'uso, dall'ambiente, da deformazioni imposte o da altri fenomeni. Il capitolo 4 tratterà la loro classificazione normativa.
 
 Le reazioni sono le azioni esercitate dai vincoli sul sistema. Per determinarle occorre isolare correttamente il corpo o la parte di struttura e rappresentare tutte le azioni pertinenti.
 
-L’equilibrio richiede che risultante delle forze e risultante dei momenti rispettino le condizioni statiche del modello. È una condizione necessaria, ma non sempre sufficiente per descrivere la risposta. Un sistema può essere in equilibrio e avere deformazioni eccessive; può soddisfare le equazioni statiche ma risultare instabile.
+L'equilibrio richiede che risultante delle forze e risultante dei momenti rispettino le condizioni statiche del modello. È una condizione necessaria, ma non sempre sufficiente per descrivere la risposta. Un sistema può essere in equilibrio e avere deformazioni eccessive; può soddisfare le equazioni statiche ma risultare instabile.
 
 ### Il diagramma di corpo libero
 
-Il diagramma di corpo libero separa il sistema dall’ambiente e sostituisce i vincoli con le reazioni corrispondenti. È uno strumento di ragionamento: obbliga a dichiarare che cosa stai studiando e quali azioni gli attribuisci.
+Il diagramma di corpo libero separa il sistema dall'ambiente e sostituisce i vincoli con le reazioni corrispondenti. È uno strumento di ragionamento: obbliga a dichiarare che cosa stai studiando e quali azioni gli attribuisci.
 
 Gli errori più comuni sono tre:
 
-- dimenticare un’azione o una reazione;
+- dimenticare un'azione o una reazione;
 - rappresentare un vincolo con reazioni incompatibili;
-- applicare l’equilibrio a un sistema isolato male.
+- applicare l'equilibrio a un sistema isolato male.
 
 ## Sollecitazioni interne
 
-Immagina di sezionare idealmente un elemento. Le azioni che una parte esercita sull’altra sono rappresentate dalle caratteristiche della sollecitazione.
+Immagina di sezionare idealmente un elemento. Le azioni che una parte esercita sull'altra sono rappresentate dalle caratteristiche della sollecitazione.
 
 ### Sforzo normale
 
-Lo sforzo normale agisce lungo l’asse dell’elemento. Può essere associato a trazione o compressione. Il segno dipende dalla convenzione adottata; il significato fisico non deve dipendere dalla memoria di un segno isolato.
+Lo sforzo normale agisce lungo l'asse dell'elemento. Può essere associato a trazione o compressione. Il segno dipende dalla convenzione adottata; il significato fisico non deve dipendere dalla memoria di un segno isolato.
 
 ### Taglio
 
-Il taglio rappresenta l’azione interna trasversale rispetto all’asse dell’elemento. È collegato alla variazione del momento flettente lungo la trave e contribuisce allo stato tensionale.
+Il taglio rappresenta l'azione interna trasversale rispetto all'asse dell'elemento. È collegato alla variazione del momento flettente lungo la trave e contribuisce allo stato tensionale.
 
 ### Momento flettente
 
-Il momento flettente è associato alla curvatura dell’elemento e alla flessione. La distribuzione delle tensioni dipende, nelle ipotesi del modello, anche dalla geometria della sezione.
+Il momento flettente è associato alla curvatura dell'elemento e alla flessione. La distribuzione delle tensioni dipende, nelle ipotesi del modello, anche dalla geometria della sezione.
 
 ### Momento torcente
 
-La torsione tende a far ruotare le sezioni intorno all’asse dell’elemento. Il comportamento dipende in modo sensibile dalla forma della sezione e dal modello adottato.
+La torsione tende a far ruotare le sezioni intorno all'asse dell'elemento. Il comportamento dipende in modo sensibile dalla forma della sezione e dal modello adottato.
 
-I diagrammi delle sollecitazioni mostrano come queste grandezze variano lungo l’elemento. Non sono disegni ornamentali: servono a individuare zone critiche, controllare la coerenza del risultato e preparare le verifiche.
+I diagrammi delle sollecitazioni mostrano come queste grandezze variano lungo l'elemento. Non sono disegni ornamentali: servono a individuare zone critiche, controllare la coerenza del risultato e preparare le verifiche.
 
 ## Tensione e deformazione
 
-Sollecitazione e tensione non sono sinonimi. La sollecitazione è una grandezza risultante riferita alla sezione; la tensione descrive l’intensità locale delle azioni interne nel materiale.
+Sollecitazione e tensione non sono sinonimi. La sollecitazione è una grandezza risultante riferita alla sezione; la tensione descrive l'intensità locale delle azioni interne nel materiale.
 
 La deformazione descrive il cambiamento locale di forma o dimensione. Lo spostamento riguarda il movimento di un punto; la deformazione riguarda la variazione relativa tra punti vicini. Un corpo può muoversi rigidamente senza deformarsi.
 
-Il legame costitutivo collega tensione e deformazione secondo un modello del materiale. Nel comportamento elastico, rimuovendo l’azione il materiale tende a recuperare la deformazione prevista dal modello. La linearità aggiunge una relazione proporzionale entro il campo assunto. Elasticità e linearità, quindi, non sono la stessa cosa.
+Il legame costitutivo collega tensione e deformazione secondo un modello del materiale. Nel comportamento elastico, rimuovendo l'azione il materiale tende a recuperare la deformazione prevista dal modello. La linearità aggiunge una relazione proporzionale entro il campo assunto. Elasticità e linearità, quindi, non sono la stessa cosa.
 
-Queste distinzioni servono in prova perché impediscono risposte generiche. Dire “la trave è sollecitata” non chiarisce né la risultante interna né lo stato locale del materiale.
+Queste distinzioni servono in prova perché impediscono risposte generiche. Dire "la trave è sollecitata" non chiarisce né la risultante interna né lo stato locale del materiale.
 
 ## Proprietà e comportamento dei materiali
 
@@ -140,11 +140,11 @@ Il comportamento strutturale dipende dal materiale e dal modo in cui è impiegat
 - resistenza rispetto a specifiche modalità di crisi;
 - rigidezza nel rapporto tra azione e deformazione;
 - duttilità e capacità deformativa;
-- tenacità, legata all’energia assorbibile prima della rottura;
-- effetti del tempo, della temperatura e dell’ambiente;
+- tenacità, legata all'energia assorbibile prima della rottura;
+- effetti del tempo, della temperatura e dell'ambiente;
 - variabilità delle proprietà.
 
-Un unico valore non descrive l’intero comportamento. Materiali diversi possono avere resistenza simile ma rigidezza, duttilità o durabilità differenti. Anche dire “materiale resistente” è incompleto se non si specificano tipo di azione, stato limite e condizioni.
+Un unico valore non descrive l'intero comportamento. Materiali diversi possono avere resistenza simile ma rigidezza, duttilità o durabilità differenti. Anche dire "materiale resistente" è incompleto se non si specificano tipo di azione, stato limite e condizioni.
 
 ## Cinque prestazioni da non confondere
 
@@ -154,11 +154,11 @@ La resistenza riguarda la capacità di non raggiungere la crisi considerata. La 
 
 ### Rigidezza
 
-La rigidezza esprime l’opposizione alla deformazione. Un elemento può essere resistente ma troppo deformabile per la funzione richiesta.
+La rigidezza esprime l'opposizione alla deformazione. Un elemento può essere resistente ma troppo deformabile per la funzione richiesta.
 
 ### Stabilità
 
-La stabilità riguarda la conservazione dell’equilibrio rispetto a perturbazioni. Negli elementi compressi può diventare decisiva anche quando la resistenza del materiale, considerata isolatamente, sembrerebbe sufficiente.
+La stabilità riguarda la conservazione dell'equilibrio rispetto a perturbazioni. Negli elementi compressi può diventare decisiva anche quando la resistenza del materiale, considerata isolatamente, sembrerebbe sufficiente.
 
 ### Duttilità
 
@@ -172,14 +172,14 @@ La durabilità riguarda il mantenimento nel tempo delle prestazioni richieste. A
 
 Un elemento snello riceve una forza di compressione. Una risposta superficiale controlla soltanto la tensione media. Una risposta strutturale completa procede diversamente.
 
-Prima definisce geometria, vincoli e imperfezioni rilevanti. Poi distingue resistenza del materiale e stabilità dell’equilibrio. Considera la snellezza e il modo in cui i vincoli condizionano la deformata. Infine chiarisce quale verifica occorre svolgere secondo il quadro tecnico applicabile.
+Prima definisce geometria, vincoli e imperfezioni rilevanti. Poi distingue resistenza del materiale e stabilità dell'equilibrio. Considera la snellezza e il modo in cui i vincoli condizionano la deformata. Infine chiarisce quale verifica occorre svolgere secondo il quadro tecnico applicabile.
 
-Il caso mostra perché non basta chiedere “quanto resiste il materiale?”. La crisi può dipendere dal comportamento dell’intero elemento.
+Il caso mostra perché non basta chiedere "quanto resiste il materiale?". La crisi può dipendere dal comportamento dell'intero elemento.
 
 ## Da sapere in 5 righe
 
 Il modello è una scelta, non una copia della struttura.  
-L’equilibrio è necessario ma non esaurisce la verifica.  
+L'equilibrio è necessario ma non esaurisce la verifica.  
 Sollecitazione, tensione e deformazione indicano grandezze diverse.  
 Resistenza e rigidezza non sono sinonimi.  
 Stabilità e durabilità richiedono controlli propri.
@@ -194,11 +194,11 @@ Si definiscono scopo e ipotesi, si costruisce lo schema con geometria e vincoli,
 
 **Se un elemento soddisfa la verifica di resistenza, è certamente adeguato?**
 
-No. Possono risultare decisive rigidezza, stabilità, deformazioni, durabilità e altre prestazioni richieste. L’adeguatezza dipende dall’insieme delle verifiche applicabili.
+No. Possono risultare decisive rigidezza, stabilità, deformazioni, durabilità e altre prestazioni richieste. L'adeguatezza dipende dall'insieme delle verifiche applicabili.
 
 ## Errore tipico
 
-L’errore più comune è scrivere una formula senza dichiarare modello, ipotesi, grandezze e significato del risultato. Per evitarlo, segui questa sequenza: dati, schema, ipotesi, equazioni, risultato, controllo.
+L'errore più comune è scrivere una formula senza dichiarare modello, ipotesi, grandezze e significato del risultato. Per evitarlo, segui questa sequenza: dati, schema, ipotesi, equazioni, risultato, controllo.
 
 ## Mini-esercizio
 
@@ -206,7 +206,7 @@ Per ciascun fenomeno indica la grandezza prevalente:
 
 1. allungamento di una barra tesa;
 2. rotazione di una trave inflessa;
-3. perdita di equilibrio di un’asta compressa;
+3. perdita di equilibrio di un'asta compressa;
 4. degrado progressivo in ambiente aggressivo;
 5. azione interna trasversale in una sezione.
 

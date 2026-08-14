@@ -202,7 +202,7 @@ Trasformare un difetto fotografato in diagnosi certa. La descrizione deve restar
 
 ## Mini-esercizio e checklist
 
-Tre opere presentano: A, degrado rapido ma deviazione disponibile; B, dati incompleti e collegamento essenziale; C, difetto stabile già verificato e intervento programmato. Quale viene “prima”?
+Tre opere presentano: A, degrado rapido ma deviazione disponibile; B, dati incompleti e collegamento essenziale; C, difetto stabile già verificato e intervento programmato. Quale viene "prima"?
 
 Soluzione: le informazioni non consentono una graduatoria automatica. B richiede subito completamento conoscitivo e valutazione delle cautele per le conseguenze del disservizio; A richiede verifica dell'evoluzione e dell'urgenza; C resta sotto controllo fino all'intervento. La priorità finale deve usare il metodo ufficiale e dati tecnici, non le sole etichette.
 

@@ -192,7 +192,7 @@ La fessura va descritta prima di interpretarla. La risposta deve separare:
 - **approfondimento:** rilievo, confronto documentale, monitoraggio o valutazione specialistica;
 - **traccia:** fotografie, schema, data, autore e verbale.
 
-Affermare “la fessura è strutturale” senza accertamento confonde osservazione e conclusione. Ma l'assenza di una prova non dimostra neppure che il fenomeno sia irrilevante.
+Affermare "la fessura è strutturale" senza accertamento confonde osservazione e conclusione. Ma l'assenza di una prova non dimostra neppure che il fenomeno sia irrilevante.
 
 ### Caso 6 — Relazione su dati non allineati
 
@@ -203,7 +203,7 @@ La relazione va impostata così:
 1. **oggetto e mandato:** quale decisione deve supportare;
 2. **documenti esaminati:** identificativo, data, provenienza e versione;
 3. **stato osservato:** rilievi e limiti di accesso;
-4. **disallineamenti:** confronto puntuale, senza eleggere una fonte come “vera” per ogni funzione;
+4. **disallineamenti:** confronto puntuale, senza eleggere una fonte come "vera" per ogni funzione;
 5. **verifiche:** titoli, atti, rilievi e responsabili competenti;
 6. **valutazione:** conseguenze tecniche e amministrative sostenute dai dati;
 7. **proposta:** sequenza di aggiornamento e decisione;
@@ -291,7 +291,7 @@ Classifica l'errore prima di correggerlo:
 
 | Tipo | Esempio | Regola di controllo |
 | --- | --- | --- |
-| Lettura | risponde a “definire” invece di “confrontare” | cerchia il verbo |
+| Lettura | risponde a "definire" invece di "confrontare" | cerchia il verbo |
 | Concettuale | confonde controllo e verifica | scrivi la distinzione in una riga |
 | Normativo | cita un riferimento non sicuro | usa solo riferimenti verificati |
 | Procedurale | salta soggetto o documento | ricostruisci fase-soggetto-atto |

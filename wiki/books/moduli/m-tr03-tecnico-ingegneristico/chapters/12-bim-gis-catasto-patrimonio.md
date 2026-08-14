@@ -80,7 +80,7 @@ Ruoli e denominazioni dipendono dalla disciplina, dai documenti di gara e dall'o
 
 L'art. 43 richiama piattaforme interoperabili e formati aperti non proprietari. Interoperabilità significa trasferire dati conservandone struttura e significato per l'uso previsto. Un file leggibile può perdere classificazioni, relazioni o attributi.
 
-La consegna finale deve servire alla gestione. Modello, elaborati “come costruito”, manuali e piano di manutenzione vanno collegati al bene, alle parti e ai responsabili. Il capitolo 9 spiega il passaggio dall'opera collaudata alla manutenzione.
+La consegna finale deve servire alla gestione. Modello, elaborati "come costruito", manuali e piano di manutenzione vanno collegati al bene, alle parti e ai responsabili. Il capitolo 9 spiega il passaggio dall'opera collaudata alla manutenzione.
 
 ## GIS, cartografia e rilievo
 
