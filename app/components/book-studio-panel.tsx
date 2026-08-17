@@ -15,6 +15,7 @@ import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/
 import { canBackfillBlock, moveTrailingHeadingToNextPage, renderedPageGuard } from "@/src/book/pagination"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
+import { normalizePageBoundaries } from "@/src/server/book/book-studio-page-boundaries"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
 import {
@@ -216,7 +217,7 @@ export function BookStudioPanel({
     if (!measuredPages) return
 
     const animationFrame = window.requestAnimationFrame(() => {
-      const refined = refineRenderedPageOverflows(measuredPages, bookPagesRef.current)
+      const refined = normalizePageBoundaries(refineRenderedPageOverflows(measuredPages, bookPagesRef.current))
 
       if (refined !== measuredPages) {
         setMeasuredPages(refined)
@@ -1332,7 +1333,7 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
 
       return Math.ceil(measuredHeight || estimateBlockCost(block)) + measuredLayoutSafetyCost(block)
     })
-    const chapterPages = paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight)
+    const chapterPages = normalizePageBoundaries(paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight))
 
     for (const page of chapterPages) {
       pages.push({ ...page, pageNumber: pageNumber++ })

@@ -1,4 +1,4 @@
-﻿# ConcorsoBook OS Index
+# ConcorsoBook OS Index
 
 Aggiornato: 2026-07-22T00:00:00+02:00
 
@@ -67,6 +67,7 @@ Aggiornato: 2026-07-22T00:00:00+02:00
 - [[sources/apprendimento-efficace-active-recall-ripasso-distribuito]]
 - [[sources/aran-ccnl-funzioni-centrali-pcm-2022-2026]]
 - [[sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego]]
+- [[sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17]]
 - [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]]
 - [[sources/avvocatura-stato-organizzazione-funzioni]]
 - [[sources/banca-dati-ufficiale-quiz-metodo-bando]]
@@ -228,6 +229,8 @@ Aggiornato: 2026-07-22T00:00:00+02:00
 - [[sources/struttura-madre-il-metodo-bando]]
 - [[sources/taglio-priorita-studio-concorsi-metodo-bando]]
 - [[sources/template-bando-decoder-metodo-bando]]
+- [[sources/modulo-m-tr03-tecnico-ingegneristico-vol-10]]
+- [[sources/campione-bandi-tecnici-pa-vol-10-2026]]
 - [[sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici]]
 
 ## Topics

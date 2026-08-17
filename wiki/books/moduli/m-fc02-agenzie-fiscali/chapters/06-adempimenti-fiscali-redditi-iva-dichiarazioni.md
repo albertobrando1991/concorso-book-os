@@ -2,7 +2,7 @@
 id: chapter-m-fc02-adempimenti-fiscali-redditi-iva-dichiarazioni
 type: book_chapter
 title: "Adempimenti fiscali: redditi, IVA, dichiarazioni"
-status: draft
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["adempimenti fiscali","IRPEF","IRES","categorie reddituali","reddito d'impresa","iva","dichiarazioni fiscali","versamenti"]
 entities: ["Agenzia delle Entrate"]
@@ -13,18 +13,19 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/03-flusso-dichiarazione-versamento-controllo.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/04-credito-rimborso-compensazione.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/05-servizi-compliance-controllo.png"
-book_refs: ["m-fc02-agenzie-fiscali"]
-confidence: 0.84
-updated_at: 2026-07-20T00:00:00+02:00
+book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
+confidence: 0.91
+updated_at: 2026-08-04
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","professional-draft"]
+tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 6
-draft_stage: professional-draft
+draft_stage: revised-editorial-draft
 module_code: M-FC02
 module_family: funzioni-centrali
+companion_to: il-metodo-bando
 last_compiled_from:
   - wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md
   - wiki/sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md
@@ -33,33 +34,20 @@ last_compiled_from:
   - wiki/sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20.md
   - wiki/topics/diritto-tributario-concorsi-agenzie-fiscali.md
   - wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md
+  - wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md
+  - wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md
+  - wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md
+  - wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md
   - wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md
 ---
 
 # Adempimenti fiscali: redditi, IVA, dichiarazioni
 
-## Specifica struttura madre
-
-### Obiettivo
-Trasformare redditi, IVA, dichiarazioni e versamenti in sequenze operative da quiz e caso.
-
-### Nuclei
-- Redditi e IVA in taglio essenziale.
-- Dichiarazioni fiscali, versamenti e compensazioni.
-- Servizi fiscali e rapporto con contribuente.
-- Errori frequenti: confondere imposta, dichiarazione, versamento e controllo.
-
-### Output operativo
-Mappa redditi/IVA, flusso dichiarazione-versamento-controllo, mini-casi contribuente.
-
-
-## Testo editoriale
-
 ## Perché gli adempimenti sono una sequenza
 
 Un tributo non si esaurisce nella regola che lo istituisce. Per il contribuente e per l'amministrazione quella regola diventa una serie ordinata di comportamenti: qualificare il fatto, documentarlo, determinare la base imponibile, liquidare l'imposta, dichiarare, versare e conservare gli elementi che rendono il percorso verificabile.
 
-Dichiarazione, liquidazione, versamento e controllo sono collegati, ma non sono sinonimi. La dichiarazione rappresenta dati fiscalmente rilevanti; la liquidazione determina un risultato; il versamento esegue un'obbligazione pecuniaria; il controllo verifica la correttezza del percorso. Nei concorsi per le Agenzie fiscali questa distinzione risolve quiz, casi e domande orali.
+Dichiarazione, liquidazione, versamento e controllo sono momenti collegati, ma svolgono funzioni diverse. La dichiarazione espone i dati fiscalmente rilevanti. La liquidazione calcola il risultato e il versamento esegue l'obbligazione pecuniaria. Il controllo, infine, verifica la correttezza del percorso. Nei concorsi per le Agenzie fiscali, distinguere questi passaggi aiuta a risolvere quiz, casi e domande orali.
 
 La sequenza da ricordare è:
 
@@ -82,6 +70,8 @@ Il capitolo sviluppa la grammatica introdotta in [[books/moduli/m-fc02-agenzie-f
 
 ## Mappa BANDO
 
+![Figura 6.1 - Mappa BANDO degli adempimenti fiscali: qualificazione, dichiarazione, liquidazione, versamento e controllo.](../assets/chapter-06/01-mappa-bando-adempimenti-fiscali.png)
+
 | Fase | Domanda di lavoro | Output del candidato |
 | --- | --- | --- |
 | **B — Bando** | Il programma richiede TUIR, IVA, dichiarazioni, versamenti o servizi fiscali? | Segna profondità e tipo di prova. |
@@ -90,7 +80,7 @@ Il capitolo sviluppa la grammatica introdotta in [[books/moduli/m-fc02-agenzie-f
 | **D — Diario** | In quale passaggio sbagli? | Registra la confusione precisa e la frase correttiva. |
 | **O — Output** | Che cosa devi produrre? | Risposta orale, classificazione, sequenza o mini-caso. |
 
-Il bando stabilisce la profondità; la sequenza stabilisce l'ordine mentale. Questa impostazione evita sia la lettura integrale e indiscriminata del TUIR, sia la riduzione dell'IVA a un calcolo percentuale.
+Il bando indica quanto approfondire; la sequenza dà ordine allo studio. Così non si legge il TUIR in modo indiscriminato e non si riduce l'IVA a un semplice calcolo percentuale.
 
 ## Il ciclo dell'adempimento fiscale
 
@@ -113,9 +103,11 @@ Ogni caso va aperto con sette domande:
 | Versamento | Esegue l'obbligazione pecuniaria. | Credere che esaurisca ogni obbligo dichiarativo. |
 | Controllo | Verifica coerenza e correttezza. | Trattarlo come riscossione. |
 
-La griglia non descrive una procedura identica per ogni tributo. Adempimenti periodici, annuali o collegati a singole operazioni seguono discipline proprie. La struttura comune serve a collocare correttamente quelle differenze.
+La griglia non descrive una procedura identica per ogni tributo. Gli adempimenti periodici, quelli annuali e quelli legati a singole operazioni seguono discipline proprie. Lo schema comune permette di riconoscere dove intervengono le differenze.
 
 ## Imposte sui redditi: qualificare prima di calcolare
+
+![Figura 6.2 - Redditi e IVA seguono due logiche operative diverse, da qualificare prima del calcolo.](../assets/chapter-06/02-redditi-iva-due-logiche.png)
 
 Il [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#IRPEF e IRES: il quadro sistematico|capitolo 4, IRPEF e IRES: il quadro sistematico]] spiega presupposto, soggetti e architettura generale. Qui quella grammatica diventa operativa: si identifica il soggetto, si qualifica ciascun provento, si applicano determinazione e imputazione proprie della categoria e solo dopo si costruiscono reddito complessivo, imponibile e imposta.
 
@@ -157,7 +149,7 @@ Gli elementi da verificare sono bene, ubicazione, iscrizione o iscrivibilità ca
 
 I redditi di capitale, disciplinati dagli artt. 44 e seguenti, comprendono i proventi derivanti dall'impiego di capitale nelle fattispecie tipizzate. La loro funzione è qualificare il rendimento della relazione finanziaria quando esso non deriva dal lavoro o dall'esercizio d'impresa del percettore.
 
-La determinazione e l'imputazione dipendono dalle singole disposizioni: non è corretto trasformare un criterio temporale particolare in regola universale. Occorre inoltre distinguere il reddito di capitale dal provento finanziario attratto nel reddito d'impresa e dai guadagni o dalle altre fattispecie finanziarie collocate tra i redditi diversi. In termini orientativi, il reddito di capitale guarda al frutto tipizzato dell'impiego; i redditi diversi finanziari accolgono specifiche fattispecie residuali, spesso legate a differenziali o eventi indicati dalla legge.
+Determinazione e imputazione dipendono dalle singole disposizioni: un criterio temporale previsto per una fattispecie non diventa una regola universale. Va poi distinto il reddito di capitale dal provento finanziario attratto nel reddito d'impresa e dalle fattispecie finanziarie collocate tra i redditi diversi. In linea generale, il reddito di capitale riguarda il frutto tipizzato dell'impiego; i redditi diversi finanziari comprendono specifiche ipotesi residuali, spesso legate a differenziali o ad altri eventi indicati dalla legge.
 
 **Esempio.** Il provento periodico derivante da un rapporto finanziario tipizzato va esaminato negli artt. 44 e seguenti; il guadagno realizzato in una fattispecie finanziaria prevista dall'art. 67 richiede una qualificazione diversa.
 
@@ -191,7 +183,7 @@ La categoria si distingue dal lavoro dipendente per l'assenza di subordinazione,
 
 ### 5. Redditi d'impresa
 
-Per le persone fisiche gli artt. 55 e 56 collegano il reddito d'impresa all'esercizio delle imprese commerciali nelle fattispecie del TUIR. Rilevano attività, abitualità e, quando richiesto, organizzazione. Per le società commerciali residenti opera inoltre la qualificazione normativa dell'intero reddito come reddito d'impresa.
+Per le persone fisiche, gli artt. 55 e 56 collegano il reddito d'impresa all'esercizio delle imprese commerciali nelle fattispecie del TUIR. Contano l'attività, l'abitualità e, quando richiesto, l'organizzazione. Per le società commerciali residenti, invece, la legge qualifica l'intero reddito come reddito d'impresa.
 
 La categoria attrae nella sfera imprenditoriale componenti che, fuori dall'impresa, potrebbero ricevere qualificazioni diverse. La determinazione non coincide con la somma degli incassi meno i pagamenti: occorre applicare le regole fiscali ai componenti positivi e negativi del periodo e raccordarle, per i soggetti interessati, al risultato civilistico.
 
@@ -223,7 +215,7 @@ Una persona fisica residente percepisce nello stesso periodo: retribuzione da un
 4. Il fabbricato richiede bene, ubicazione, catasto, titolo ed eventuale attrazione nell'impresa.
 5. Ogni componente viene determinato e imputato secondo la propria disciplina; solo dopo si valuta l'aggregazione nel reddito complessivo e la sequenza deduzioni-imposta-detrazioni.
 
-Il criterio di verifica non è il totale numerico, ma la motivazione di ogni classificazione e l'individuazione di eventuali regimi che sottraggono il componente alla sequenza ordinaria.
+Per verificare il caso non basta ottenere il totale numerico. Bisogna motivare ogni classificazione e individuare gli eventuali regimi che sottraggono il componente alla sequenza ordinaria.
 
 ### IRES: soggetti e struttura
 
@@ -337,7 +329,7 @@ fattispecie -> documentazione -> registrazione -> liquidazione -> dichiarazione
 -> versamento o compensazione -> controllo -> eventuale correzione
 ```
 
-La sequenza ordina il ragionamento, ma non rende identiche tutte le fattispecie. Regole speciali, limiti alla detrazione, inversione contabile e regimi particolari richiedono sempre la verifica della disciplina applicabile.
+La sequenza mette ordine nel ragionamento, senza appiattire le differenze tra le fattispecie. Regole speciali, limiti alla detrazione, inversione contabile e regimi particolari impongono comunque di verificare la disciplina applicabile.
 
 ### 1. Cessione o prestazione: qualificare il profilo oggettivo
 
@@ -412,7 +404,7 @@ imposta esigibile dalle operazioni attive registrate
 
 ### Caso IVA completo
 
-**Fatti determinati.** Alfa S.r.l., stabilita a Bologna, presta a Beta S.p.A., soggetto passivo stabilito a Milano, un servizio ordinario di consulenza utilizzato nell'impresa. Il lavoro è ultimato il 12 marzo; Alfa emette fattura lo stesso giorno. Il corrispettivo pattuito è 4.000, oltre a 200 per spese accessorie contrattualmente addebitate. Per evitare dati mobili, si indica con **t** l'aliquota vigente da verificare alla data dell'operazione. Nel medesimo periodo Alfa riceve da Gamma S.r.l. una fattura per un acquisto inerente di 1.500 più imposta pedagogica di 300; documento e registrazione sono regolari e si assume, ai soli fini dell'esercizio, che l'imposta sia integralmente detraibile. Le altre operazioni del periodo generano imposta a debito pedagogica di 700.
+**Fatti determinati.** Alfa S.r.l., stabilità a Bologna, presta a Beta S.p.A., soggetto passivo stabilito a Milano, un servizio ordinario di consulenza utilizzato nell'impresa. Il lavoro è ultimato il 12 marzo; Alfa emette fattura lo stesso giorno. Il corrispettivo pattuito è 4.000, oltre a 200 per spese accessorie contrattualmente addebitate. Per evitare dati mobili, si indica con **t** l'aliquota vigente da verificare alla data dell'operazione. Nel medesimo periodo Alfa riceve da Gamma S.r.l. una fattura per un acquisto inerente di 1.500 più imposta pedagogica di 300; documento e registrazione sono regolari e si assume, ai soli fini dell'esercizio, che l'imposta sia integralmente detraibile. Le altre operazioni del periodo generano imposta a debito pedagogica di 700.
 
 **Soluzione applicata.** (1) Alfa e Beta agiscono come soggetti passivi; si tratta di servizio B2B. (2) La regola-guida localizza la prestazione presso il committente: Milano, quindi Italia, non emergendo eccezioni dai fatti. (3) La prestazione è imponibile nell'ipotesi. (4) Per la prestazione ordinaria nazionale, la sola ultimazione del 12 marzo non basterebbe, secondo la regola generale, a determinare l’effettuazione: la fattura emessa nello stesso giorno anticipa invece il momento di effettuazione per l’importo fatturato. Su questa base si collocano operazione ed esigibilità nel periodo, ferma la verifica di eventuali regole speciali. (5) La base pedagogica è 4.200, perché le spese accessorie addebitate partecipano al corrispettivo; l'imposta è **4.200 × t**, senza attribuire a **t** un valore mobile. (6) Alfa esercita la rivalsa in fattura e registra l'operazione tra le vendite, alimentando il debito. (7) La fattura Gamma, registrata e relativa all'acquisto inerente, alimenta la detrazione per 300 nell'ipotesi. (8) La liquidazione pedagogica è **700 + (4.200 × t) - 300**. Il risultato positivo è debito; se fosse negativo sarebbe eccedenza, non rimborso automatico.
 
@@ -423,6 +415,8 @@ imposta esigibile dalle operazioni attive registrate
 Classifica: vendita interna imponibile; esportazione che soddisfa i requisiti di non imponibilità; prestazione sanitaria compresa nell'esenzione tipizzata; prestazione priva di territorialità italiana. La soluzione non è «tutte senza IVA»: la prima applica l'imposta; la seconda resta nel sistema e, in linea generale, conserva la detrazione; la terza può limitarla; la quarta è fuori dal campo territoriale italiano. Requisiti e documenti vanno verificati nel caso concreto.
 
 ## Dichiarazioni, versamenti e compensazioni
+
+![Figura 6.3 - Flusso dichiarazione-versamento-controllo: funzioni collegate ma non intercambiabili.](../assets/chapter-06/03-flusso-dichiarazione-versamento-controllo.png)
 
 ### Dichiarazione originaria, correttiva, integrativa e omessa
 
@@ -448,13 +442,15 @@ Prima di utilizzare un credito si verificano nell'ordine: **esistenza**, cioè f
 
 ### Credito IVA: riporto, compensazione e rimborso
 
+![Figura 6.4 - Credito fiscale: riporto, compensazione e rimborso richiedono presupposti e verifiche distinti.](../assets/chapter-06/04-credito-rimborso-compensazione.png)
+
 Un'eccedenza detraibile può essere **riportata** ai periodi successivi secondo le regole, mantenendola nel circuito IVA; può essere **compensata**, verticalmente o orizzontalmente, se esistente, spettante, disponibile e utilizzabile; può essere chiesta a **rimborso** soltanto nei casi e alle condizioni previsti, mediante il relativo percorso dichiarativo e di controllo. Sono tre destinazioni diverse: il saldo a credito non genera automaticamente denaro né libertà di scelta illimitata.
 
 **Percorso prudente.** Riconciliare origine e dichiarazione del credito; verificare presupposti della destinazione scelta; controllare limiti, garanzie, visto e cause ostative eventualmente applicabili; usare il canale vigente; conservare la prova; monitorare controlli ed eventuali rettifiche.
 
 ### Errore e correzione
 
-Si identifica il fatto, si localizza l'effetto in documento, registro, liquidazione, dichiarazione o pagamento, si stabilisce quando emerge e si sceglie lo strumento vigente. Un versamento carente può richiedere pagamento e regolarizzazione; un versamento eccedente non produce automaticamente rimborso. Correzione dichiarativa, recupero del credito e regolarizzazione del pagamento sono percorsi coordinati ma distinti.
+Per correggere un errore, si parte dal fatto e si individua dove produce effetti: documento, registro, liquidazione, dichiarazione o pagamento. Poi si considera quando è emerso e si sceglie lo strumento vigente. Un versamento carente può richiedere pagamento e regolarizzazione; un versamento eccedente non dà automaticamente diritto al rimborso. Correzione dichiarativa, recupero del credito e regolarizzazione del pagamento restano percorsi distinti, anche quando devono essere coordinati.
 
 ### Quiz ragionati e risposta alla commissione
 
@@ -464,7 +460,7 @@ Si identifica il fatto, si localizza l'effetto in documento, registro, liquidazi
 **4. Un credito dichiarato è sempre compensabile?** No: vanno verificati esistenza, disponibilità, limiti e modalità.
 
 **Domanda.** Descriva il ciclo degli adempimenti IVA e il raccordo con dichiarazione e pagamento.
-**Risposta modello.** Si qualifica la fattispecie verificando operazione, soggetto, territorialità e trattamento; si individuano effettuazione, esigibilità, base e aliquota; quindi si documenta e registra. La liquidazione confronta imposta a debito e detraibile. La dichiarazione rappresenta annualmente dati e risultanze, mentre versamento, compensazione o rimborso seguono presupposti propri. Controllo, sanzione, tutela e riscossione appartengono a fasi successive e a sedi distinte.
+**Risposta modello.** La qualificazione della fattispecie richiede di verificare operazione, soggetto, territorialità e trattamento. Si individuano poi effettuazione, esigibilità, base e aliquota, prima di documentare e registrare l'operazione. La liquidazione confronta l'imposta a debito con quella detraibile. La dichiarazione espone dati e risultanze annuali; versamento, compensazione e rimborso seguono ciascuno i propri presupposti. Controllo, sanzione, tutela e riscossione intervengono in fasi successive e in sedi distinte.
 
 ### Domande-trappola, errori e checklist
 
@@ -480,6 +476,8 @@ Si identifica il fatto, si localizza l'effetto in documento, registro, liquidazi
 **Diario degli errori:** registra in quattro colonne: fatto; passaggio saltato; regola corretta; prova di recupero. Una voce utile è «ho detto esente invece di fuori campo; non ho verificato i presupposti; ripasso le quattro classi; riclassifico quattro casi senza appunti».
 
 ## Servizi fiscali e rapporto con il contribuente
+
+![Figura 6.5 - Servizi, compliance e controllo: assistere non significa decidere fuori competenza.](../assets/chapter-06/05-servizi-compliance-controllo.png)
 
 Gli adempimenti sono anche un problema di servizio pubblico. I servizi fiscali consentono di consultare dati, trasmettere dichiarazioni e istanze, ricevere comunicazioni e correggere anomalie attraverso i canali previsti.
 
@@ -522,7 +520,7 @@ Il caso insegna a partire dal fatto, non dal modulo, dalla sanzione o dalla risc
 
 **Domanda.** Illustri la funzione della dichiarazione fiscale e la distingua dalla liquidazione e dal versamento.
 
-**Risposta guida.** La dichiarazione rappresenta dati ed elementi fiscalmente rilevanti. La liquidazione determina il risultato applicando le regole ai dati; il versamento esegue l'obbligazione pecuniaria. I momenti sono collegati ma distinti: dalla qualificazione e documentazione si giunge alla dichiarazione, dai dati si determina il dovuto o il credito, il pagamento assolve la somma dovuta. La posizione può poi essere sottoposta ai controlli previsti.
+**Risposta guida.** La dichiarazione espone dati ed elementi fiscalmente rilevanti. La liquidazione applica le regole a quei dati e determina il risultato; il versamento esegue l'obbligazione pecuniaria. I tre momenti si collegano senza coincidere: qualificazione e documentazione precedono la dichiarazione, la liquidazione determina il debito o il credito e il pagamento assolve la somma dovuta. In seguito, l'amministrazione può svolgere i controlli previsti.
 
 ## Domanda-trappola
 

@@ -138,7 +138,7 @@ export function parseCoverageMatrix(markdown: string): CoverageRow[] {
 }
 
 export function parseVerificationCounts(value: string): VerificationCounts | undefined {
-  const match = /(?:^|\s)Q\s*:\s*(\d+)\s+C\s*:\s*(\d+)\s+E\s*:\s*(\d+)(?:\s|$)/i.exec(value)
+  const match = /(?:^|\s)Q\s*:\s*(\d+)\s+C\s*:\s*(\d+)\s+E\s*:\s*(\d+)(?=\s|$)/i.exec(value)
   if (!match) return undefined
 
   return {
