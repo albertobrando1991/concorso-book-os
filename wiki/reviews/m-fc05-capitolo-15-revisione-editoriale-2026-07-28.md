@@ -43,7 +43,7 @@ Revisione completata nell'ordine richiesto. Il laboratorio chiude coerentemente 
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| V01 | Parr. 120–182 e 217–227, nota di review | Bandi e fonti | Media | Forma della prova, tempo, lingua, programma, fonti e criteri di valutazione dipendono dal bando target; le simulazioni settoriali non sono sostitutive di un avviso ufficiale. | Prima dell'uso selettivo, allineare ogni traccia al bando, al profilo e alle fonti vigenti dell'ente target. | Da verificare in chiusura |
+| V01 | Parr. 120–182 e 217–227, nota di review | Bandi e fonti | Media | Forma della prova, tempo, lingua, programma, fonti e criteri di valutazione dipendono dal bando target; le simulazioni settoriali non sono sostitutive di un avviso ufficiale. | Prima dell'uso selettivo, allineare ogni traccia al bando, al profilo e alle fonti vigenti dell'ente target. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 6. Suggerimenti facoltativi
 

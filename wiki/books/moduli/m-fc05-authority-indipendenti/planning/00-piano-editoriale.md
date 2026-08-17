@@ -6,10 +6,10 @@ status: structure
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
 entities: ["Metodo BANDO"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-05-dossier-editoriale-authority-regolazione-v4.md","sources/vol-05-bandi-authority-2022-2025.md","sources/authority-indipendenti-leggi-istitutive.md"]
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-05-dossier-editoriale-authority-regolazione-v4.md","sources/vol-05-bandi-authority-2022-2025.md","sources/banca-italia-bando-60-giuristi-2025.md","sources/anac-bando-19-funzionari-amministrativi-2026.md","sources/consob-bando-vice-assistenti-amministrativi-207-26.md","sources/authority-indipendenti-leggi-istitutive.md"]
 book_refs: ["m-fc05-authority-indipendenti","il-metodo-bando"]
 confidence: 0.85
-updated_at: 2026-07-24T00:00:00+02:00
+updated_at: 2026-07-29T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true

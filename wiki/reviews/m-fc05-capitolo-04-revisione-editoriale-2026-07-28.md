@@ -54,7 +54,7 @@ Applicati i punti 1–26 e 28–30. Il punto 27 non è applicabile: non è dispo
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 83, 107, 174 e 231 | 12. Fatti o norme da verificare | Media | Regolamenti AIR/VIR, consultazioni, termini e atti organizzativi sono ente-specifici e aggiornabili. | Verificare alla data di cut-off il regolamento vigente dell'ente e gli atti citati nel bando target. | Da verificare |
+| V01 | Righe 83, 107, 174 e 231 | 12. Fatti o norme da verificare | Media | Regolamenti AIR/VIR, consultazioni, termini e atti organizzativi sono ente-specifici e aggiornabili. | Verificare alla data di cut-off il regolamento vigente dell'ente e gli atti citati nel bando target. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 Nessuno.

@@ -2,14 +2,14 @@
 id: m-ir01-scuola
 type: specialist_module
 title: "M-IR01 - Scuola"
-status: scaffold
+status: outline_ready
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","istruzione-ricerca","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["il-metodo-bando","moduli-specialistici"]
-confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4","sources/bandi-rappresentativi-m-ir01-scuola-2023-2025","sources/fonti-ufficiali-m-ir01-scuola-2026-07-24"]
+book_refs: ["il-metodo-bando","moduli-specialistici","vol-06-scuola-universita-ricerca-cultura"]
+confidence: 0.72
+updated_at: 2026-07-29
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -18,11 +18,11 @@ book_id: m-ir01-scuola
 module_code: M-IR01
 module_family: istruzione-ricerca
 module_family_title: "Istruzione e Ricerca"
-module_status: scaffold
+module_status: outline_ready
 roadmap_phase: "1"
 companion_to: il-metodo-bando
-draft_stage: structure-ready
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
+draft_stage: outline-ready
+last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4"]
 ---
 
 # M-IR01 - Scuola
@@ -44,6 +44,11 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 
 ## Capitoli di lavoro
 - [[books/moduli/m-ir01-scuola/planning/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/01-indice-analitico#M-IR01--Scuola|Indice analitico del modulo]]
+- [[books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica|Matrice di copertura didattica v4]]
+- [[books/moduli/m-ir01-scuola/planning/03-piano-capitolo-01-scuola-quattro-profili|Piano capitolo 01]]
+- [[sources/bandi-rappresentativi-m-ir01-scuola-2023-2025|Corpus iniziale bandi 2023-2025]]
+- [[sources/fonti-ufficiali-m-ir01-scuola-2026-07-24|Quadro delle fonti ufficiali]]
 
 ## Fonti da consolidare
 - Bandi rappresentativi recenti della famiglia.
@@ -52,4 +57,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - Eventuali manuali o banche dati solo dopo schedatura in sources/.
 
 ## Prossimo passo
-Compilare il piano editoriale, poi sviluppare il testo con Manual Writer Agent usando il libro principale, il ricettario digitale e le source notes del modulo.
+Preparare i piani di capitolo e poi sviluppare il testo con Manual Writer Agent usando il libro principale, il ricettario digitale e le source notes del modulo. Prima della redazione finale, ricontrollare le fonti mobili indicate nell'audit.

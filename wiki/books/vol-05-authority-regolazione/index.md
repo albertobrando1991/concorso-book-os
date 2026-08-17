@@ -2,21 +2,21 @@
 id: vol-05-authority-regolazione
 type: book
 title: "VOL-05 — Authority e regolazione"
-status: source_ready
+status: professional_draft
 domain: concorsi pubblici italiani
 topics: ["authority indipendenti", "regolazione", "vigilanza", "enforcement"]
 entities: ["AGCM", "ARERA", "AGCOM", "CONSOB", "Banca d'Italia", "IVASS", "Garante per la protezione dei dati personali", "ANAC"]
-source_refs: ["sources/vol-05-dossier-editoriale-authority-regolazione-v4.md", "sources/vol-05-bandi-authority-2022-2025.md", "sources/authority-indipendenti-leggi-istitutive.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
+source_refs: ["sources/vol-05-dossier-editoriale-authority-regolazione-v4.md", "sources/vol-05-bandi-authority-2022-2025.md", "sources/m-fc05-verifica-normativa-2026-07-29.md", "sources/authority-indipendenti-leggi-istitutive.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
 book_refs: ["il-metodo-bando", "m-fc05-authority-indipendenti"]
 confidence: 0.85
-updated_at: 2026-07-24
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true
 tags: ["vol-05", "m-fc05", "authority", "regolazione"]
 book_id: vol-05-authority-regolazione
 companion_to: il-metodo-bando
-draft_stage: source-ready-outline
+draft_stage: professional-draft
 front_matter_layout: analytical-index
 index_detail: chapters-and-sections
 ---

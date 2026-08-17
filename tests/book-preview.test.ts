@@ -497,6 +497,20 @@ describe("book preview assets", () => {
         "utf8"
       )
       await writeFile(
+        path.join(root, "books/moduli/m-fc01-ministeri/chapters/00-piano-editoriale.md"),
+        [
+          "---",
+          "title: Piano editoriale interno",
+          "outline_section: 0",
+          "status: structure",
+          "---",
+          "# Piano editoriale interno",
+          "",
+          "Questo documento di lavorazione non deve comparire nel volume destinato al lettore."
+        ].join("\n"),
+        "utf8"
+      )
+      await writeFile(
         path.join(root, "books/moduli/m-fc02-agenzie-fiscali/index.md"),
         "---\ntitle: M-FC02 - Agenzie fiscali\n---\n# M-FC02",
         "utf8"
@@ -553,6 +567,7 @@ describe("book preview assets", () => {
       expect(readerChapters.map((chapter) => chapter.outlineSection)).toEqual(["1", "2"])
       expect(readerChapters.map((chapter) => chapter.moduleOutlineSection)).toEqual(["1", "1"])
       expect(new Set(readerChapters.map((chapter) => chapter.path)).size).toBe(2)
+      expect(data.chapters.some((chapter) => chapter.path.endsWith("/chapters/00-piano-editoriale.md"))).toBe(false)
     } finally {
       await rm(root, { recursive: true, force: true })
     }

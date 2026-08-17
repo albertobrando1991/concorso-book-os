@@ -54,7 +54,7 @@ Applicati i punti 1–26 e 28–30. Il punto 27 non è applicabile: non è dispo
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 51, 89–113, 123, 139, 145 e 188 | 12. Fatti o norme da verificare | Media | CCE, TUSMA, deleghe Corecom, regolamenti utenti, DSA, atti VLOP/VLOSE e procedure online sono dinamici. | Verificare al cut-off le fonti ufficiali e il canale procedurale del caso target. | Da verificare |
+| V01 | Righe 51, 89–113, 123, 139, 145 e 188 | 12. Fatti o norme da verificare | Media | CCE, TUSMA, deleghe Corecom, regolamenti utenti, DSA, atti VLOP/VLOSE e procedure online sono dinamici. | Verificare al cut-off le fonti ufficiali e il canale procedurale del caso target. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 Nessuno.

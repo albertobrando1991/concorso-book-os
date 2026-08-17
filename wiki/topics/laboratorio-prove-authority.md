@@ -6,10 +6,10 @@ status: consolidated
 domain: prove concorsuali per authority indipendenti
 topics: ["prove scritte", "casi pratici", "quesiti sintetici", "memo", "colloquio"]
 entities: ["Metodo BANDO", "AGCM", "ARERA", "AGCOM", "CONSOB", "Banca d'Italia", "IVASS", "Garante per la protezione dei dati personali", "ANAC"]
-source_refs: ["sources/laboratorio-prove-authority-2026-07-24.md"]
+source_refs: ["sources/laboratorio-prove-authority-2026-07-24.md", "sources/banca-italia-bando-60-giuristi-2025.md", "sources/anac-bando-19-funzionari-amministrativi-2026.md", "sources/consob-bando-vice-assistenti-amministrativi-207-26.md"]
 book_refs: ["vol-05-authority-regolazione", "m-fc05-authority-indipendenti", "il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-24
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true
@@ -25,6 +25,6 @@ L'output di prova segue una regola invariabile: **non scegliere subito la sanzio
 
 ## Fonti e review
 
-[[sources/laboratorio-prove-authority-2026-07-24]], [[sources/vol-05-bandi-authority-2022-2025]], [[topics/authority-indipendenti-regolazione]], [[books/vol-05-authority-regolazione/index]].
+[[sources/laboratorio-prove-authority-2026-07-24]], [[sources/banca-italia-bando-60-giuristi-2025]], [[sources/anac-bando-19-funzionari-amministrativi-2026]], [[sources/consob-bando-vice-assistenti-amministrativi-207-26]], [[sources/vol-05-bandi-authority-2022-2025]], [[topics/authority-indipendenti-regolazione]], [[books/vol-05-authority-regolazione/index]].
 
 Prima di usare una traccia, adattare lessico, tempo, forma dell'output e fonti al bando effettivamente in corso.

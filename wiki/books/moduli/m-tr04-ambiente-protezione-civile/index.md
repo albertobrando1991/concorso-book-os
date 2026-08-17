@@ -2,7 +2,7 @@
 id: m-tr04-ambiente-protezione-civile
 type: specialist_module
 title: "M-TR04 - Ambiente e protezione civile"
-status: scaffold
+status: outline_ready
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","trasversali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
@@ -18,11 +18,11 @@ book_id: m-tr04-ambiente-protezione-civile
 module_code: M-TR04
 module_family: trasversali
 module_family_title: "Trasversali"
-module_status: scaffold
+module_status: outline_ready
 roadmap_phase: "4"
 companion_to: il-metodo-bando
-draft_stage: structure-ready
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
+draft_stage: outline-ready
+last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md", "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md"]
 ---
 
 # M-TR04 - Ambiente e protezione civile
@@ -43,7 +43,7 @@ Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metod
 Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
 
 ## Capitoli di lavoro
-- [[books/moduli/m-tr04-ambiente-protezione-civile/planning/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-tr04-ambiente-protezione-civile/planning/00-piano-editoriale|Piano editoriale del modulo]]`n- [[books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11|Indice analitico VOL-11]]
 
 ## Fonti da consolidare
 - Bandi rappresentativi recenti della famiglia.

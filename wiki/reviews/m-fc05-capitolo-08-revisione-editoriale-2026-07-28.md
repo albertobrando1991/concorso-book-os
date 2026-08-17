@@ -55,7 +55,7 @@ Applicati i punti 1–26 e 28–30. Il punto 27 non è applicabile: non è dispo
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 69, 93, 124, 132–144 e 214 | 12. Fatti o norme da verificare | Media | Soglie, regolamenti istruttori, impegni, poteri cautelari e rapporti con diritto UE o autorità settoriali sono aggiornabili. | Verificare su fonti AGCM e normative vigenti al cut-off del bando target. | Da verificare |
+| V01 | Righe 69, 93, 124, 132–144 e 214 | 12. Fatti o norme da verificare | Media | Soglie, regolamenti istruttori, impegni, poteri cautelari e rapporti con diritto UE o autorità settoriali sono aggiornabili. | Verificare su fonti AGCM e normative vigenti al cut-off del bando target. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 Nessuno.

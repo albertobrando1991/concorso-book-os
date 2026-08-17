@@ -6,10 +6,10 @@ status: consolidated
 domain: mercati finanziari
 topics: ["mercati finanziari", "vigilanza", "tutela investitore"]
 entities: ["CONSOB"]
-source_refs: ["sources/authority-indipendenti-leggi-istitutive.md", "sources/consob-mercati-intermediari-tutela-investitore-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
+source_refs: ["sources/authority-indipendenti-leggi-istitutive.md", "sources/consob-mercati-intermediari-tutela-investitore-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/vol-05-bandi-authority-2022-2025.md"]
 book_refs: ["vol-05-authority-regolazione"]
 confidence: 0.88
-updated_at: 2026-07-24
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true

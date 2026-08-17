@@ -97,7 +97,7 @@ Per leggere una decisione tariffaria, il candidato può utilizzare cinque domand
 4. **Come entrano qualità e investimenti?** Un'impostazione che guardi solo al costo immediato può produrre disincentivi alla manutenzione, all'affidabilità o allo sviluppo.
 5. **Come si controlla l'applicazione?** Servono raccolta dati, confronti, verifiche e, se necessari, correzioni secondo l'atto vigente.
 
-Il metodo tariffario rifiuti MTR-2 costituisce un esempio utile, non una formula da memorizzare fuori contesto: per il periodo 2022-2025 ha definito criteri per il riconoscimento dei costi efficienti di esercizio e investimento. L'esempio insegna che il regolatore può costruire una relazione tra costi, investimenti, accesso agli impianti e trasparenza; non autorizza a usare nel 2026 le stesse formule o lo stesso periodo senza controllare gli atti successivi. La stessa prudenza vale per la regolazione idrica, aggiornata nel tempo attraverso provvedimenti e raccolte istruttorie proprie.
+Il Metodo Tariffario Rifiuti MTR-3 costituisce un esempio utile, non una formula da memorizzare fuori contesto: per il terzo periodo regolatorio 2026-2029 definisce il quadro per le entrate tariffarie e per le tariffe di accesso agli impianti di trattamento. L'esempio insegna che il regolatore può costruire una relazione tra costi, investimenti, accesso agli impianti e trasparenza; non autorizza a trasferire formule o periodi a servizi diversi senza controllare l'atto vigente. La stessa prudenza vale per la regolazione idrica, aggiornata nel tempo attraverso provvedimenti e raccolte istruttorie proprie.
 
 | Elemento | Funzione regolatoria | Errore da evitare |
 | --- | --- | --- |
@@ -147,7 +147,7 @@ La contabilità regolatoria non decide da sola la tariffa e non dimostra automat
 
 La consultazione rende più solida una regolazione quando consente di acquisire dati, criticità, proposte e conseguenze applicative da utenti, gestori, enti e altri interessati. Non è un voto sulla delibera né una delega della decisione. L'Autorità resta responsabile di selezionare le evidenze, confrontare opzioni, spiegare il criterio adottato e pubblicare l'atto nei modi previsti.
 
-Nei settori tariffari, una buona consultazione deve rendere intellegibili almeno problema, perimetro, dati, opzioni, effetti su utenti e operatori, tempi di applicazione e modalità di monitoraggio. Il percorso che ha condotto all'MTR-2 mostra una sequenza di avvio, documenti di consultazione e metodo; le evoluzioni recenti del settore idrico evidenziano il collegamento tra aggiornamenti tariffari, qualità e validazione delle informazioni. L'insegnamento non è memorizzare i numeri delle delibere, ma descrivere il ciclo regolatorio senza confondere consultazione, decisione e controllo successivo.
+Nei settori tariffari, una buona consultazione deve rendere intellegibili almeno problema, perimetro, dati, opzioni, effetti su utenti e operatori, tempi di applicazione e modalità di monitoraggio. Il percorso che ha condotto all'MTR-3 mostra una sequenza di avvio, documenti di consultazione e metodo; le evoluzioni recenti del settore idrico evidenziano il collegamento tra aggiornamenti tariffari, qualità e validazione delle informazioni. L'insegnamento non è memorizzare i numeri delle delibere, ma descrivere il ciclo regolatorio senza confondere consultazione, decisione e controllo successivo.
 
 ![Figura 9.5 — Sintesi operativa: ARERA: servizi e tariffe.](../assets/chapter-09/05-sintesi-arera-servizi-tariffe.png)
 

@@ -6,10 +6,10 @@ status: professional_draft
 domain: vigilanza bancaria e assicurativa
 topics: ["vigilanza prudenziale", "vigilanza bancaria", "assicurazioni", "tutela della clientela"]
 entities: ["Banca d'Italia", "IVASS", "BCE", "Arbitro Assicurativo"]
-source_refs: ["sources/banca-italia-ivass-vigilanza-prudenziale-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
+source_refs: ["sources/banca-italia-ivass-vigilanza-prudenziale-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/banca-italia-bando-60-giuristi-2025.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.9
-updated_at: 2026-07-27
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true
