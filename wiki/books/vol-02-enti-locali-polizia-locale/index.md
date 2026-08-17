@@ -64,10 +64,11 @@ FM5. [[books/vol-02-enti-locali-polizia-locale/front-matter/05-premessa|Premessa
 FM6. [[books/vol-02-enti-locali-polizia-locale/front-matter/06-indice|Indice]]
 
 ## Frontespizi dei moduli
+Ordine reale nel volume pubblicato (coerente con il titolo del volume "Enti locali, Camere di commercio e Polizia locale" e con `TEXT_VOLUME_CATALOG` in `src/catalog/text-volumes.ts`): M-FL01, M-FL02, M-FL03, M-FL04. I nomi dei file di questa cartella mantengono la numerazione storica 01-04, ma non determinano l'ordine di stampa: quello e generato dal codice.
 1. [[books/vol-02-enti-locali-polizia-locale/modules/01-m-fl01-frontespizio-sommario|M-FL01 - Comuni, Unioni e servizi comunali]]
 2. [[books/vol-02-enti-locali-polizia-locale/modules/02-m-fl02-frontespizio-sommario|M-FL02 - Regioni, Province e Città metropolitane]]
-3. [[books/vol-02-enti-locali-polizia-locale/modules/03-m-fl04-frontespizio-sommario|M-FL04 - Polizia locale]]
-4. [[books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare|M-FL03 - Camere di commercio]]
+3. [[books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare|M-FL03 - Camere di commercio]]
+4. [[books/vol-02-enti-locali-polizia-locale/modules/03-m-fl04-frontespizio-sommario|M-FL04 - Polizia locale]]
 
 ## Piano editoriale
 - [[books/vol-02-enti-locali-polizia-locale/planning/00-piano-editoriale|Piano editoriale e mappa fonti]]

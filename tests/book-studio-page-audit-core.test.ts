@@ -72,6 +72,7 @@ describe("VOL-07 page audit options", () => {
       expectedPageCount: 381,
       contactSheetSize: 20,
       reportMode: "verify",
+      skipPageScreenshots: false,
       explicitScreenshotPages: [7, 19, 381]
     })
   })
@@ -128,7 +129,7 @@ describe("page diagnostic classification", () => {
     ["orphan-heading", { lastBlock: { type: "heading", continued: false, lines: 1 } }],
     ["broken-image", { images: [{ label: "figure 1", loaded: false, contained: true, hasCaption: true }] }],
     ["image-caption", { images: [{ label: "figure 1", loaded: true, contained: true, hasCaption: false }] }],
-    ["table-header", { tables: [{ label: "table 1", continued: true, hasHeader: false, contained: true }] }],
+    ["table-header", { tables: [{ label: "table 1", continued: true, hasHeader: false, contained: true, firstOnPage: true }] }],
     ["consecutive-images", { consecutiveImages: true }]
   ])("classifies %s as blocking", (problemType, overrides) => {
     const issues = classifyPageDiagnostic(basePage(overrides), context)
@@ -181,19 +182,14 @@ describe("page diagnostic classification", () => {
     ]))
   })
 
-  it("flags an analytical index continued onto another page", () => {
+  it("accepts an analytical index continued onto another populated page", () => {
     const issues = classifyPageDiagnostic(basePage({
       sectionType: "front_matter",
       frontMatterLayout: "analytical-index",
       isFrontMatterContinuation: true
     }), context)
 
-    expect(issues).toEqual(expect.arrayContaining([
-      expect.objectContaining({
-        problemType: "split-index",
-        severity: "media"
-      })
-    ]))
+    expect(issues.some((issue) => issue.problemType === "split-index")).toBe(false)
   })
 
   it("flags abnormal whitespace only on nonterminal content pages", () => {

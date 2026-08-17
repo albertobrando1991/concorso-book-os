@@ -1,0 +1,4657 @@
+{
+  "volumeCode": "VOL-12",
+  "specPath": "books/volumi/vol-12-carriere-speciali-premium/planning/00-scheda-pipeline.md",
+  "specHash": "sha256:157af4c8bdcaf385e155c4e07dd3c204afd1f6be87af1e7030300e6209197123",
+  "createdAt": "2026-08-11T16:49:44.557Z",
+  "updatedAt": "2026-08-14T17:20:11.288Z",
+  "steps": [
+    {
+      "key": "00:VOL-12",
+      "id": "00",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-08-11T16:50:03.260Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 00 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T16:53:14.331Z"
+    },
+    {
+      "key": "01:VOL-12",
+      "id": "01",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-08-11T16:53:22.891Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 01 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T16:58:24.418Z"
+    },
+    {
+      "key": "02:VOL-12",
+      "id": "02",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-08-11T16:58:28.252Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 02 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T16:59:33.756Z"
+    },
+    {
+      "key": "03:VOL-12",
+      "id": "03",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-08-11T16:59:37.560Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 03 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T17:09:49.245Z"
+    },
+    {
+      "key": "04:VOL-12",
+      "id": "04",
+      "phase": "B",
+      "scope": "volume",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-08-11T17:09:53.079Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 04 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T17:11:43.047Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:34:14.141Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: 5 nuclei stabili, struttura e budget realizzati, matrice completa e gate di capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:34:36.199Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:34:42.933Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:34:48.692Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:34:54.427Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:35:00.285Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:35:05.952Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:35:12.973Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:35:18.376Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.378Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.393Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:51.407Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.416Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.428Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.441Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.451Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.475Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.488Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.499Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.510Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.520Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:51.531Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.540Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.551Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.564Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.575Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.594Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.605Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.617Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.630Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.640Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:51.651Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.660Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.671Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.682Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.692Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.711Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.722Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.734Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.747Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.756Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:51.766Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.776Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.785Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.796Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.810Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.829Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.842Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.852Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.864Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.875Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:51.885Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.894Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.904Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.917Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.928Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.946Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.959Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.969Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:51.981Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:51.991Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:52.001Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.012Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.024Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.039Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.051Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.075Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.090Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.103Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.118Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.128Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:52.139Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.148Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.158Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.170Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.181Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.200Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.210Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.221Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.234Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.243Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:52.254Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.263Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.273Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.286Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.296Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.316Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.328Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.337Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.349Z"
+    },
+    {
+      "key": "08:moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.359Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:37:52.370Z"
+    },
+    {
+      "key": "09:moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.379Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.389Z"
+    },
+    {
+      "key": "10:moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.401Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.412Z"
+    },
+    {
+      "key": "11:moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.432Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.443Z"
+    },
+    {
+      "key": "12:moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:37:52.455Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:52.467Z"
+    },
+    {
+      "key": "05:moduli/m-sp01-forze-ordine",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp01-forze-ordine",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-08-11T17:11:46.888Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T17:21:37.536Z"
+    },
+    {
+      "key": "06:moduli/m-sp01-forze-ordine",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp01-forze-ordine",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "claude-code",
+      "provider": "codex",
+      "startedAt": "2026-08-11T17:21:48.891Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T17:24:06.708Z"
+    },
+    {
+      "key": "07:moduli/m-sp01-forze-ordine",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp01-forze-ordine",
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T09:26:31.103Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T12:34:36.139Z"
+    },
+    {
+      "key": "13:moduli/m-sp01-forze-ordine",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp01-forze-ordine",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:38:15.721Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.159Z"
+    },
+    {
+      "key": "14:moduli/m-sp01-forze-ordine",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp01-forze-ordine",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.172Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.184Z"
+    },
+    {
+      "key": "15:moduli/m-sp01-forze-ordine",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp01-forze-ordine",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.192Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.207Z"
+    },
+    {
+      "key": "16:moduli/m-sp01-forze-ordine",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp01-forze-ordine",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.216Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp01-forze-ordine"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata in wiki/reviews/pipeline/VOL-12/16-moduli-m-sp01-forze-ordine.md; 10/10 capitoli, matrice 50/50, report 12-15 chiusi, 12 source_refs risolte e 16 SHA-256 registrati."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:42.236Z"
+    },
+    {
+      "key": "08:moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.244Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:42.254Z"
+    },
+    {
+      "key": "09:moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.263Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.275Z"
+    },
+    {
+      "key": "10:moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.287Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.298Z"
+    },
+    {
+      "key": "11:moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.317Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.329Z"
+    },
+    {
+      "key": "12:moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.338Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.350Z"
+    },
+    {
+      "key": "08:moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.360Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:42.369Z"
+    },
+    {
+      "key": "09:moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.378Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.389Z"
+    },
+    {
+      "key": "10:moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.401Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.411Z"
+    },
+    {
+      "key": "11:moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.430Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.442Z"
+    },
+    {
+      "key": "12:moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.453Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.466Z"
+    },
+    {
+      "key": "08:moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.477Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:42.490Z"
+    },
+    {
+      "key": "09:moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.499Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.510Z"
+    },
+    {
+      "key": "10:moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.522Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.534Z"
+    },
+    {
+      "key": "11:moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.551Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.563Z"
+    },
+    {
+      "key": "12:moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.573Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.586Z"
+    },
+    {
+      "key": "08:moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.596Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:42.608Z"
+    },
+    {
+      "key": "09:moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.617Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.628Z"
+    },
+    {
+      "key": "10:moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.640Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.650Z"
+    },
+    {
+      "key": "11:moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.669Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.681Z"
+    },
+    {
+      "key": "12:moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.693Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.706Z"
+    },
+    {
+      "key": "08:moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.715Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:42.726Z"
+    },
+    {
+      "key": "09:moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.735Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.745Z"
+    },
+    {
+      "key": "10:moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.757Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.767Z"
+    },
+    {
+      "key": "11:moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.787Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.800Z"
+    },
+    {
+      "key": "12:moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.812Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.825Z"
+    },
+    {
+      "key": "08:moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.835Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:42.846Z"
+    },
+    {
+      "key": "09:moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.856Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.867Z"
+    },
+    {
+      "key": "10:moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.878Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.888Z"
+    },
+    {
+      "key": "11:moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.904Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.916Z"
+    },
+    {
+      "key": "12:moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.927Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.938Z"
+    },
+    {
+      "key": "08:moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.947Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:42.957Z"
+    },
+    {
+      "key": "09:moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.967Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:42.978Z"
+    },
+    {
+      "key": "10:moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:42.989Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.001Z"
+    },
+    {
+      "key": "11:moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.016Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.029Z"
+    },
+    {
+      "key": "12:moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.040Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.051Z"
+    },
+    {
+      "key": "08:moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.061Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:43.072Z"
+    },
+    {
+      "key": "09:moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.081Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.090Z"
+    },
+    {
+      "key": "10:moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.102Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.112Z"
+    },
+    {
+      "key": "11:moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.127Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.140Z"
+    },
+    {
+      "key": "12:moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.152Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.163Z"
+    },
+    {
+      "key": "05:moduli/m-sp02-vigili-fuoco",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp02-vigili-fuoco",
+      "status": "done",
+      "attempts": 0,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T18:12:35.203Z"
+    },
+    {
+      "key": "06:moduli/m-sp02-vigili-fuoco",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp02-vigili-fuoco",
+      "status": "done",
+      "attempts": 0,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T18:12:39.133Z"
+    },
+    {
+      "key": "07:moduli/m-sp02-vigili-fuoco",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp02-vigili-fuoco",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T12:34:52.369Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T12:34:55.019Z"
+    },
+    {
+      "key": "13:moduli/m-sp02-vigili-fuoco",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp02-vigili-fuoco",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.173Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.186Z"
+    },
+    {
+      "key": "14:moduli/m-sp02-vigili-fuoco",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp02-vigili-fuoco",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.198Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.209Z"
+    },
+    {
+      "key": "15:moduli/m-sp02-vigili-fuoco",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp02-vigili-fuoco",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.219Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.232Z"
+    },
+    {
+      "key": "16:moduli/m-sp02-vigili-fuoco",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp02-vigili-fuoco",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.241Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp02-vigili-fuoco"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata in wiki/reviews/pipeline/VOL-12/16-moduli-m-sp02-vigili-fuoco.md; 8/8 capitoli, matrice 40/40, report 12-15 chiusi, 2 source_refs risolte e 14 SHA-256 registrati."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:43.261Z"
+    },
+    {
+      "key": "08:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.270Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:43.280Z"
+    },
+    {
+      "key": "09:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.290Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.301Z"
+    },
+    {
+      "key": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.312Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.323Z"
+    },
+    {
+      "key": "11:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.340Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.353Z"
+    },
+    {
+      "key": "12:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.364Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.376Z"
+    },
+    {
+      "key": "08:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.386Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:43.397Z"
+    },
+    {
+      "key": "09:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.406Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.417Z"
+    },
+    {
+      "key": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.429Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.440Z"
+    },
+    {
+      "key": "11:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.458Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.470Z"
+    },
+    {
+      "key": "12:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.480Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.494Z"
+    },
+    {
+      "key": "08:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.504Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:43.516Z"
+    },
+    {
+      "key": "09:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.526Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.540Z"
+    },
+    {
+      "key": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.552Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.562Z"
+    },
+    {
+      "key": "11:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.580Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.592Z"
+    },
+    {
+      "key": "12:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.604Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.615Z"
+    },
+    {
+      "key": "08:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.626Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:43.638Z"
+    },
+    {
+      "key": "09:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.648Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.660Z"
+    },
+    {
+      "key": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.672Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.683Z"
+    },
+    {
+      "key": "11:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.701Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.713Z"
+    },
+    {
+      "key": "12:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.725Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.738Z"
+    },
+    {
+      "key": "08:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.750Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:43.760Z"
+    },
+    {
+      "key": "09:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.770Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.780Z"
+    },
+    {
+      "key": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.795Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.805Z"
+    },
+    {
+      "key": "11:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.824Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.839Z"
+    },
+    {
+      "key": "12:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.850Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.861Z"
+    },
+    {
+      "key": "08:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.871Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:43.884Z"
+    },
+    {
+      "key": "09:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.893Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.905Z"
+    },
+    {
+      "key": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.917Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.929Z"
+    },
+    {
+      "key": "11:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.947Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.961Z"
+    },
+    {
+      "key": "12:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.971Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:43.986Z"
+    },
+    {
+      "key": "08:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:43.995Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.007Z"
+    },
+    {
+      "key": "09:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.017Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.028Z"
+    },
+    {
+      "key": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.043Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.056Z"
+    },
+    {
+      "key": "11:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.076Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.088Z"
+    },
+    {
+      "key": "12:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.100Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.113Z"
+    },
+    {
+      "key": "05:moduli/m-sp03-magistratura-avvocatura-notariato",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
+      "status": "done",
+      "attempts": 0,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T19:30:04.775Z"
+    },
+    {
+      "key": "06:moduli/m-sp03-magistratura-avvocatura-notariato",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
+      "status": "done",
+      "attempts": 0,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T19:30:08.869Z"
+    },
+    {
+      "key": "07:moduli/m-sp03-magistratura-avvocatura-notariato",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T12:35:04.408Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:29:56.736Z"
+    },
+    {
+      "key": "13:moduli/m-sp03-magistratura-avvocatura-notariato",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.123Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.134Z"
+    },
+    {
+      "key": "14:moduli/m-sp03-magistratura-avvocatura-notariato",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.145Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.157Z"
+    },
+    {
+      "key": "15:moduli/m-sp03-magistratura-avvocatura-notariato",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.169Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.182Z"
+    },
+    {
+      "key": "16:moduli/m-sp03-magistratura-avvocatura-notariato",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.192Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp03-magistratura-avvocatura-notariato"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata in wiki/reviews/pipeline/VOL-12/16-moduli-m-sp03-magistratura-avvocatura-notariato.md; 7/7 capitoli, matrice 35/35, report 12-15 chiusi, 1 source_refs risolte e 13 SHA-256 registrati."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.211Z"
+    },
+    {
+      "key": "08:moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.222Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.234Z"
+    },
+    {
+      "key": "09:moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.243Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.257Z"
+    },
+    {
+      "key": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.269Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.281Z"
+    },
+    {
+      "key": "11:moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.298Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.311Z"
+    },
+    {
+      "key": "12:moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.321Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.334Z"
+    },
+    {
+      "key": "08:moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.346Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.358Z"
+    },
+    {
+      "key": "09:moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.368Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.381Z"
+    },
+    {
+      "key": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.393Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.404Z"
+    },
+    {
+      "key": "11:moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.421Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.435Z"
+    },
+    {
+      "key": "12:moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.446Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.460Z"
+    },
+    {
+      "key": "08:moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.470Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.480Z"
+    },
+    {
+      "key": "09:moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.491Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.503Z"
+    },
+    {
+      "key": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.515Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.528Z"
+    },
+    {
+      "key": "11:moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.548Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.559Z"
+    },
+    {
+      "key": "12:moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.570Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.583Z"
+    },
+    {
+      "key": "08:moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.593Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.604Z"
+    },
+    {
+      "key": "09:moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.614Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.624Z"
+    },
+    {
+      "key": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.637Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.648Z"
+    },
+    {
+      "key": "11:moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.663Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.676Z"
+    },
+    {
+      "key": "12:moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.688Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.703Z"
+    },
+    {
+      "key": "08:moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.713Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.724Z"
+    },
+    {
+      "key": "09:moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.735Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.747Z"
+    },
+    {
+      "key": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.759Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.771Z"
+    },
+    {
+      "key": "11:moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.788Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.801Z"
+    },
+    {
+      "key": "12:moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.814Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.826Z"
+    },
+    {
+      "key": "08:moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.838Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.849Z"
+    },
+    {
+      "key": "09:moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.861Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.873Z"
+    },
+    {
+      "key": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.888Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.899Z"
+    },
+    {
+      "key": "11:moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.915Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.930Z"
+    },
+    {
+      "key": "12:moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.941Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:44.957Z"
+    },
+    {
+      "key": "08:moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.967Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano retrospettivo verificato: nuclei stabili, struttura e budget realizzati, matrice completa e gate del capitolo verdi."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:44.980Z"
+    },
+    {
+      "key": "09:moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:44.990Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:45.000Z"
+    },
+    {
+      "key": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:45.011Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:45.023Z"
+    },
+    {
+      "key": "11:moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:45.040Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:45.052Z"
+    },
+    {
+      "key": "12:moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:45.065Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:45.079Z"
+    },
+    {
+      "key": "05:moduli/m-sp04-prefettizia-diplomatica",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp04-prefettizia-diplomatica",
+      "status": "done",
+      "attempts": 0,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T19:30:12.870Z"
+    },
+    {
+      "key": "06:moduli/m-sp04-prefettizia-diplomatica",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp04-prefettizia-diplomatica",
+      "status": "done",
+      "attempts": 0,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T19:30:16.875Z"
+    },
+    {
+      "key": "07:moduli/m-sp04-prefettizia-diplomatica",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-sp04-prefettizia-diplomatica",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:30:03.875Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:31:54.921Z"
+    },
+    {
+      "key": "13:moduli/m-sp04-prefettizia-diplomatica",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp04-prefettizia-diplomatica",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:45.088Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:45.101Z"
+    },
+    {
+      "key": "14:moduli/m-sp04-prefettizia-diplomatica",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp04-prefettizia-diplomatica",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:45.113Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:45.125Z"
+    },
+    {
+      "key": "15:moduli/m-sp04-prefettizia-diplomatica",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp04-prefettizia-diplomatica",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:45.135Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:43:45.150Z"
+    },
+    {
+      "key": "16:moduli/m-sp04-prefettizia-diplomatica",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-sp04-prefettizia-diplomatica",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:45.161Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-sp04-prefettizia-diplomatica"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata in wiki/reviews/pipeline/VOL-12/16-moduli-m-sp04-prefettizia-diplomatica.md; 7/7 capitoli, matrice 37/37, report 12-15 chiusi, 1 source_refs risolte e 13 SHA-256 registrati."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-14T13:43:45.178Z"
+    },
+    {
+      "key": "17:VOL-12",
+      "id": "17",
+      "phase": "E",
+      "scope": "volume",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:43:56.991Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 17 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-14T13:47:33.699Z"
+    },
+    {
+      "key": "18:moduli/m-sp01-forze-ordine",
+      "id": "18",
+      "phase": "E",
+      "scope": "module",
+      "target": "moduli/m-sp01-forze-ordine",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:47:39.594Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 18 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-14T13:59:47.261Z"
+    },
+    {
+      "key": "18:moduli/m-sp02-vigili-fuoco",
+      "id": "18",
+      "phase": "E",
+      "scope": "module",
+      "target": "moduli/m-sp02-vigili-fuoco",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:59:47.274Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 18 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-14T13:59:47.286Z"
+    },
+    {
+      "key": "18:moduli/m-sp03-magistratura-avvocatura-notariato",
+      "id": "18",
+      "phase": "E",
+      "scope": "module",
+      "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:59:47.296Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 18 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-14T13:59:47.307Z"
+    },
+    {
+      "key": "18:moduli/m-sp04-prefettizia-diplomatica",
+      "id": "18",
+      "phase": "E",
+      "scope": "module",
+      "target": "moduli/m-sp04-prefettizia-diplomatica",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:59:47.317Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 18 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-14T13:59:47.328Z"
+    },
+    {
+      "key": "19:VOL-12",
+      "id": "19",
+      "phase": "E",
+      "scope": "volume",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:59:52.398Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 19 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-14T14:12:13.927Z"
+    },
+    {
+      "key": "20:VOL-12",
+      "id": "20",
+      "phase": "E",
+      "scope": "volume",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T16:14:42.584Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"page-fill\" dello step 20 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-12"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale documentata in 20-vol-12-audit-pagina-per-pagina.md: 459/459 pagine registrate, 23/23 tavole-contatto, 0 blocker, 0 problemi significativi; layout stabile e indice nuclei 162/162."
+          }
+        ],
+        "notImplemented": [
+          "page-fill"
+        ]
+      },
+      "finishedAt": "2026-08-14T16:15:26.027Z"
+    },
+    {
+      "key": "21:VOL-12",
+      "id": "21",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T16:15:33.407Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T16:23:58.647Z"
+    },
+    {
+      "key": "22:VOL-12",
+      "id": "22",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T16:24:05.375Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-12"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Preflight documentato in 22-vol-12-preflight.md: 162 nuclei, 90/90 link, 57 source_refs risolti, 452 test, typecheck e build verdi; PDF 459 pagine, trim 481.68x691.92 pt, font incorporati, SHA-256 F8ECF8499C19BF7727F4BB72314CAA84DF828C911DD16D0918DAA278079609F9. KDP Previewer non installato e dichiarato non eseguito."
+          }
+        ],
+        "notImplemented": [
+          "preflight"
+        ]
+      },
+      "finishedAt": "2026-08-14T16:57:00.068Z"
+    },
+    {
+      "key": "23:VOL-12",
+      "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-12",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T16:57:05.905Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-12"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Pacchetto verificato in delivery/VOL-12/candidate: 9 file, 8/8 hash, 0 extra, manifest C74A1DA20F285742514657C746D597C6291B7B6E09F5AFE1CA6EB24FC0757AA8. Remoto verificato; staging preesistente dello staff lasciato intatto e selezione garantita dal manifest. Nessun commit o push; step 24 resta umano."
+          }
+        ],
+        "notImplemented": [
+          "delivery"
+        ]
+      },
+      "finishedAt": "2026-08-14T17:20:11.288Z"
+    },
+    {
+      "key": "24:VOL-12",
+      "id": "24",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-12",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    }
+  ]
+}

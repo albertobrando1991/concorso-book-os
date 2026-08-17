@@ -4,6 +4,30 @@ type PaginationPage<TBlock extends PaginationBlock> = {
   blocks: TBlock[]
 }
 
+type RenderedPageChapter = {
+  bookScope?: string
+  frontMatterLayout?: string
+}
+
+export function renderedPageGuard(chapter: RenderedPageChapter) {
+  if (chapter.bookScope === "ricettario") return 30
+  if (chapter.frontMatterLayout === "analytical-index") return 24
+
+  return 10
+}
+
+export function canBackfillBlock(input: {
+  availableHeight: number
+  candidateHeight: number
+  candidateType?: string
+  followingBlockHeight?: number
+}) {
+  if (input.availableHeight < 180 || input.candidateHeight <= 0) return false
+  if (input.candidateType === "heading") return false
+
+  return input.candidateHeight + 12 <= input.availableHeight
+}
+
 export function moveTrailingHeadingToNextPage<
   TBlock extends PaginationBlock,
   TPage extends PaginationPage<TBlock>

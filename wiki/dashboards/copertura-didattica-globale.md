@@ -52,9 +52,11 @@ Convenzione: `Source refs` conta i riferimenti distinti dei capitoli e indica se
 | VOL-09 | aggregatore, cartella assente | M-TR02 | 0 / 0 | 0 | no |
 | VOL-10 | aggregatore, cartella assente | M-TR03 | 0 / 0 | 0 | no |
 | VOL-11 | aggregatore, cartella assente | M-TR04 | 0 / 0 | 0 | no |
-| VOL-12 | aggregatore, cartella assente | M-SP01/04 | 0 / 0 | 0 | no |
+| VOL-12 | aggregatore creato, pipeline aperta agli step 00-04 | M-SP01/04 | 0 / 0 | 2 | no |
 
 Un volume aggregatore privo di capitoli propri non e' automaticamente mancante se aggrega moduli identificati; non e' pero copertura verificata.
+
+> **Nota di aggiornamento (2026-08-11).** La sola riga VOL-12 e' stata riallineata allo stato reale del filesystem: la cartella `wiki/books/volumi/vol-12-carriere-speciali-premium/` esiste e contiene index, scheda di pipeline e Bibbia del Volume. Le altre righe della tabella non sono state ricontrollate in questa occasione e risultano in piu' punti disallineate: ad esempio VOL-02 e VOL-07 sono dichiarati con «cartella assente» pur avendo contenuti sviluppati. La tabella va rigenerata integralmente con `npm run audit:coverage`.
 
 ## Semaforo moduli
 

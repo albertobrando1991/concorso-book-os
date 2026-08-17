@@ -12,6 +12,12 @@ export interface TextVolume {
   audience: string
   promise: string
   verticals: string[]
+  /**
+   * Book id of a volume-level book holding chapters that open (low outline_section,
+   * e.g. "how to use this volume") or close (outline_section >= 50, e.g. a final
+   * simulation) the compiled volume, in addition to the specialist modules in bookIds.
+   */
+  orientationBookId?: string
 }
 
 export const TEXT_VOLUME_BOOK_ID_PREFIX = "volumi/"
@@ -43,8 +49,9 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
       "moduli/m-fl04-polizia-locale"
     ],
     audience: "Comuni, Unioni, Regioni, Province, CCIAA e Polizia locale",
-    promise: "Modulo standard per il bacino piu ricorrente degli enti territoriali.",
-    verticals: ["TUEL e servizi locali", "Registro Imprese CCIAA", "Codice della strada e sicurezza urbana"]
+    promise: "Modulo standard per il bacino più ricorrente degli enti territoriali.",
+    verticals: ["TUEL e servizi locali", "Registro Imprese CCIAA", "Codice della strada e sicurezza urbana"],
+    orientationBookId: "vol-02-enti-locali-polizia-locale"
   },
   {
     code: "VOL-03",
@@ -88,7 +95,7 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
     launchWave: "third",
     modules: ["M-FC05"],
     bookIds: ["moduli/m-fc05-authority-indipendenti"],
-    audience: "AGCM, ARERA e autorita indipendenti",
+    audience: "AGCM, ARERA e autorità indipendenti",
     promise: "Modulo premium per target ristretto, tecnico-regolatorio e ad alto valore.",
     verticals: ["Regolazione mercati", "Compliance", "Istruttorie e provvedimenti"]
   },
@@ -105,7 +112,7 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
       "moduli/m-ir03-enti-ricerca",
       "moduli/m-ir04-cultura-beni-culturali"
     ],
-    audience: "Scuola, universita, AFAM, enti di ricerca e MiC",
+    audience: "Scuola, università, AFAM, enti di ricerca e MiC",
     promise: "Famiglia ampia con sotto-percorsi editoriali distinti per amministrativi e specialisti.",
     verticals: ["DSGA", "Project/grant manager ricerca", "Archivisti, bibliotecari e beni culturali"]
   },
@@ -136,7 +143,7 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
     bookIds: ["moduli/m-tr01-ict-trasformazione-digitale"],
     audience: "Profili ICT, data, cyber e trasformazione digitale nella PA",
     promise: "Modulo verticale tecnico per profili digitali non coperti dal base.",
-    verticals: ["Cybersecurity", "Dati e interoperabilita", "Servizi digitali PA"]
+    verticals: ["Cybersecurity", "Dati e interoperabilità", "Servizi digitali PA"]
   },
   {
     code: "VOL-09",
@@ -164,13 +171,13 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
   },
   {
     code: "VOL-11",
-    title: "Ambiente, protezione civile e sostenibilita",
+    title: "Ambiente, protezione civile e sostenibilità",
     shortTitle: "Ambiente",
     tier: "vertical",
     launchWave: "third",
     modules: ["M-TR04"],
     bookIds: ["moduli/m-tr04-ambiente-protezione-civile"],
-    audience: "MASE, ambiente, protezione civile, sostenibilita e controlli territoriali",
+    audience: "MASE, ambiente, protezione civile, sostenibilità e controlli territoriali",
     promise: "Verticale tecnico-ambientale con fonti settoriali e casi operativi.",
     verticals: ["Valutazioni ambientali", "Protezione civile", "Sostenibilita e controlli"]
   },
@@ -187,8 +194,8 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
       "moduli/m-sp03-magistratura-avvocatura-notariato",
       "moduli/m-sp04-prefettizia-diplomatica"
     ],
-    audience: "Forze dell'ordine, VVF, magistratura, diplomazia, prefettizia, alta dirigenza",
-    promise: "Pacchetto premium per carriere ad alta barriera e pricing alto.",
+    audience: "Forze di polizia, VVF, magistratura ordinaria, Avvocatura dello Stato, notariato, carriera prefettizia e carriera diplomatica",
+    promise: "Metodo e strategia per selezioni ad alta barriera.",
     verticals: ["Magistratura", "Diplomazia e prefettizia", "VVF direttivo tecnico"]
   }
 ]
@@ -216,7 +223,7 @@ export const TEXT_CATALOG_PACKAGE_RULES = [
     key: "premium",
     label: "Pacchetto Premium",
     formula: "Libro base + modulo premium",
-    description: "Carriere speciali, Authority, magistratura, diplomazia, prefettizia, VVF direttivo e alta dirigenza."
+    description: "Carriere speciali, Authority, magistratura, diplomazia, prefettizia e VVF direttivo."
   }
 ]
 

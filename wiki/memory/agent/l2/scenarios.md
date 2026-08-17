@@ -3695,3 +3695,342 @@
 - l0: l0/conv-20260809133127-1670afj.md
 - atoms:
   - mem-20260809133127-1e08d5t | result | Esito codex/git-publish: commit e push delle modifiche mie fino ad ora senza sovrascrivere quelle dello staff -> Pubblicazione fast-forward su origin/main senza force, reset o rebase; inclusi 42 commit locali preesistenti e commit ba9db89 con verifiche visuali VOL-02 e memoria agentica.
+
+## 2026-08-10T08:50:31.749Z - VOL-12
+
+- conversation_id: conv-20260810085031-1qzultg
+- route: pipeline-vol-12-design
+- l0: l0/conv-20260810085031-1qzultg.md
+- atoms:
+  - mem-20260810085031-14fphgm | workflow | Avviare la pipeline completa di VOL-12 con cut-off 2026-08-10.
+  - mem-20260810085031-wx4fb8 | workflow | Approvata la configurazione progressiva: fasi A-B, poi capitoli espliciti e sync verso C-F.
+  - mem-20260810085031-756k53 | result | Esito pipeline-vol-12-design: Avviare la pipeline completa di VOL-12 con cut-off 2026-08-10. -> Specifica di design approvata e commessa in 687f1c5; ordine M-SP01, M-SP02, M-SP03, M-SP04; step 24 riservato alla conferma umana.
+
+## 2026-08-10T15:32:24.558Z - VOL-01
+
+- conversation_id: conv-20260810153224-10jh52w
+- route: volume01-layout-fix
+- l0: l0/conv-20260810153224-10jh52w.md
+- atoms:
+  - mem-20260810153224-1xbuixg | workflow | Correggere sovrapposizioni testuali nel capitolo di chiusura e nell indice del Volume 1, con margini perfetti.
+  - mem-20260810153224-yiy3k6 | result | Esito volume01-layout-fix: Correggere sovrapposizioni testuali nel capitolo di chiusura e nell indice del Volume 1, con margini perfetti. -> Corretti header conclusione, continuita tabelle, colonne e margine inferiore indice; riconciliati i numeri di pagina dell indice con la paginazione reale.
+
+## 2026-08-13T09:59:58.745Z - VOL-12/M-SP02
+
+- conversation_id: conv-20260813095958-1pgj44o
+- route: pipeline-volume-vol-12-m-sp02-fase-c
+- l0: l0/conv-20260813095958-1pgj44o.md
+- atoms:
+  - mem-20260813095958-1xhg005 | instruction | Eseguire l ordine di lavoro fase C: fonti prima di tutto, poi M-SP02 completo, fermandosi alla review del modulo.
+  - mem-20260813095958-2mxho8 | result | Esito pipeline-volume-vol-12-m-sp02-fase-c: Eseguire l ordine di lavoro fase C: fonti prima di tutto, poi M-SP02 completo, fermandosi alla review del modulo. -> Fonti previste acquisite e schedate.
+
+## 2026-08-13T10:27:46.857Z - VOL-12/M-SP02
+
+- conversation_id: conv-20260813102746-58ukgg
+- route: pipeline-volume-vol-12-m-sp02-correzioni-fase-c
+- l0: l0/conv-20260813102746-58ukgg.md
+- atoms:
+  - mem-20260813102746-1o5c2ta | workflow | Applicare le cinque correzioni del report 13 solo ai capitoli 05-08 e alla matrice; non toccare 02-04; rieseguire i gate su tutti gli otto capitoli.
+  - mem-20260813102746-jgpwqw | result | Esito pipeline-volume-vol-12-m-sp02-correzioni-fase-c: Applicare le cinque correzioni del report 13 solo ai capitoli 05-08 e alla matrice; non toccare 02-04; rieseguire i gate su tutti gli otto capitoli. -> Correzioni applicate: riserve del bando 2320 in B2 e cap.05, sezioni-fantoccio rimosse, nuclei verificati senza accorpamenti, tabelle reali aggiunte, matrice corretta.
+
+## 2026-08-13T13:41:11.057Z - VOL-12/M-SP02
+
+- conversation_id: conv-20260813134111-1g40aqg
+- route: pipeline-volume-vol-12-m-sp02-correzione-residua-cap-01
+- l0: l0/conv-20260813134111-1g40aqg.md
+- atoms:
+  - mem-20260813134111-1jamzgd | workflow | Applicare la correzione residua del report 15 al solo capitolo 01, lasciare invariati gli altri sette e rieseguire density e lint sul solo capitolo 01.
+  - mem-20260813134111-pms9ul | result | Esito pipeline-volume-vol-12-m-sp02-correzione-residua-cap-01: Applicare la correzione residua del report 15 al solo capitolo 01, lasciare invariati gli altri sette e rieseguire density e lint sul solo capitolo 01. -> Rimosse le due sezioni-fantoccio e ricondotti quadro teorico ed errore di generalizzazione al nucleo N-SP02-01-01.
+
+## 2026-08-13T14:42:01.364Z - VOL-12/M-SP04
+
+- conversation_id: conv-20260813144201-qqhvzk
+- route: codex.m-sp04-phase-c
+- l0: l0/conv-20260813144201-qqhvzk.md
+- atoms:
+  - mem-20260813144201-2uxrul | project_fact | Sincronizzare la matrice M-SP04 con la source note, chiudere d.P.R.
+  - mem-20260813144201-1dwmxcz | instruction | 18/1967, prova attitudinale diplomatica e rinvio VOL-01, quindi redigere il modulo in formato 2 con cinque nuclei reali e consegna finale.
+  - mem-20260813144201-2cpy9f | result | Esito codex.m-sp04-phase-c: Sincronizzare la matrice M-SP04 con la source note, chiudere d.P.R. -> Fase C completata: fonti e matrice sincronizzate, tre punti chiusi, sette capitoli sostenibili per 37 nuclei completi, due accorpamenti documentati, didactic-density e chapter-lint verdi su ogni capitolo; nessun commi...
+
+## 2026-08-13T15:58:55.771Z - VOL-12/M-SP03
+
+- conversation_id: conv-20260813155855-1k8a9vv
+- route: codex.m-sp03-phase-c
+- l0: l0/conv-20260813155855-1k8a9vv.md
+- atoms:
+  - mem-20260813155855-1w8lxzd | result | Esito codex.m-sp03-phase-c: Sincronizzare fonti e matrice e scrivere M-SP03. -> Consegnati 7 capitoli da 2 accorpamenti motivati, 35 nuclei; entrambi i gate verdi.
+
+## 2026-08-13T16:32:32.790Z - VOL-12/M-SP03
+
+- conversation_id: conv-20260813163232-152y0wz
+- route: pipeline-vol-12-m-sp03-phase-c-correction
+- l0: l0/conv-20260813163232-152y0wz.md
+- atoms:
+  - mem-20260813163232-1ax5mja | workflow | Rimuovere dai sette capitoli M-SP03 le sezioni didattiche finali duplicate e l Inquadramento isolato del capitolo 01, preservando contenuti normativi, verifiche, casi e trattamento dell art.
+  - mem-20260813163232-ho8jlz | result | Esito pipeline-vol-12-m-sp03-phase-c-correction: Rimuovere dai sette capitoli M-SP03 le sezioni didattiche finali duplicate e l Inquadramento isolato del capitolo 01, preservando contenuti normativi, verifiche, casi e trattamento dell art. -> Correzione applicata ai sette capitoli.
+
+## 2026-08-14T09:44:28.228Z - manual-writer
+
+- conversation_id: conv-20260814094428-1q0cipx
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814094428-1q0cipx.md
+- atoms:
+  - mem-20260814094428-dqfsfa | workflow | instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale.
+  - mem-20260814094428-1y7u7np | instruction | Prima di scrivere leggi integralmente wiki/AGENTS.md, il piano e la matrice di M-SP01, l'handover wiki/reviews/pipeline/VOL-12/23-avvio-m-sp01-fase-c.md, le source note dichiarate nel frontmatter e, come modello strutturale, il capitolo 01 di M-SP04.
+  - mem-20260814094428-uoh3v3 | workflow | Apri con ## Obiettivo del capitolo, ## Mappa BANDO del capitolo e un breve inquadramento.
+  - mem-20260814094428-5s6mfa | workflow | Il quinto è la divisione genuina del nucleo sulla sequenza: tratta la procedura come catena eliminatoria, punti di arresto e conseguenze sul piano.
+  - mem-20260814094428-1s4vw9v | instruction | Non usare wikilink nel corpo, non nominare wiki, dashboard, source note, corpus interno o report, non inventare numeri, articoli o competenze, non riprodurre elenchi diagnostici.
+  - mem-20260814094428-godb5z | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md.
+
+## 2026-08-14T09:51:55.391Z - manual-writer
+
+- conversation_id: conv-20260814095155-1b6s1hj
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814095155-1b6s1hj.md
+- atoms:
+  - mem-20260814095155-1moz210 | workflow | Apri con ## Spiegazione, ## Obiettivo del capitolo, ## Mappa BANDO del capitolo e un breve inquadramento.
+  - mem-20260814095155-ukwifc | instruction | Non usare wikilink nel corpo, non nominare wiki, dashboard, source note, corpus interno o report, non inventare norme, numeri o requisiti, non riprodurre elenchi diagnostici.
+  - mem-20260814095155-1oedmt | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md.
+
+## 2026-08-14T09:56:06.901Z - manual-writer
+
+- conversation_id: conv-20260814095606-12lhr59
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814095606-12lhr59.md
+- atoms:
+  - mem-20260814095606-e4rxnd | instruction | Prima di scrivere leggi integralmente wiki/AGENTS.md, il piano e la matrice di M-SP01, l’handover wiki/reviews/pipeline/VOL-12/23-avvio-m-sp01-fase-c.md, le source note dichiarate nel frontmatter e il capitolo 01 di M-SP04 come modello strutturale.
+  - mem-20260814095606-1u5l17s | workflow | Apri con ## Spiegazione, ## Obiettivo del capitolo e ## Mappa BANDO del capitolo.
+  - mem-20260814095606-5mmkdh | instruction | Sviluppa esattamente cinque nuclei H2 con punto mediano: N-SP01-05-01 banca dati chiusa del binario base; N-SP01-05-02 banca dati PS ispettiva e compressione temporale; N-SP01-05-03 componimento di italiano CC; N-SP01-05-04 tema o prova di cultura generale GdF; N-SP01-05-05 funzione e strategia della preselezione.
+  - mem-20260814095606-1nb56v3 | instruction | Spiega il delta rispetto al capitolo Banca dati ufficiale del volume base: qui conta soprattutto la compressione temporale della tornata vice ispettori PS 2026, poco più di un mese fra pubblicazione e prova, sempre marcata come dato di tornata.
+  - mem-20260814095606-12rjtrc | instruction | Non usare wikilink, non nominare strumenti interni, non inventare quantità, date, soglie o regole.
+  - mem-20260814095606-q4puho | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md.
+
+## 2026-08-14T09:59:38.958Z - manual-writer
+
+- conversation_id: conv-20260814095938-8pdc1a
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814095938-8pdc1a.md
+- atoms:
+  - mem-20260814095938-1hyjpj | instruction | Prima di scrivere leggi integralmente wiki/AGENTS.md, piano, matrice e handover M-SP01, tutte le source note del frontmatter e il capitolo 04 di M-SP02 o altro capitolo chiuso sugli accertamenti come modello.
+  - mem-20260814095938-1d6r7qj | workflow | Sviluppa esattamente cinque nuclei H2 con punto mediano: N-SP01-06-01 efficienza fisica nei tre corpi; N-SP01-06-02 idoneità psico-fisica e parametri; N-SP01-06-03 accertamento attitudinale; N-SP01-07-01 preparazione integrata e trappole procedurali; N-SP01-07-02 calendario, recupero, documentazione e gestione del rischio di esclusione.
+  - mem-20260814095938-9oppw8 | project_fact | 198/2003 non è abolito e resta fonte per idoneità psichica e attitudinale, mentre è abolito solo il requisito di statura, sostituito dai parametri misurati del d.P.R.
+  - mem-20260814095938-nzyjpt | instruction | Attribuisci esercizi, soglie e criteri alle specifiche tornate e usa box Verifica sul bando.
+  - mem-20260814095938-1n0szyo | project_fact | Niente wikilink o riferimenti a strumenti interni; niente dati inventati.
+  - mem-20260814095938-5b7clv | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md.
+
+## 2026-08-14T10:03:28.948Z - manual-writer
+
+- conversation_id: conv-20260814100328-6627eo
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814100328-6627eo.md
+- atoms:
+  - mem-20260814100328-137ma99 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice, handover M-SP01, source note del frontmatter e i capitoli chiusi analoghi di M-SP02/M-SP04 come modello.
+  - mem-20260814100328-jxuywi | workflow | Il capitolo riguarda soprattutto il binario ispettivo.
+  - mem-20260814100328-wq4b4b | instruction | Quando il corpus documenta inglese, francese, tedesco e spagnolo, presentali come opzioni della specifica procedura e usa Verifica sul bando.
+  - mem-20260814100328-h4dvju | project_fact | Niente wikilink, strumenti interni o dati inventati.
+  - mem-20260814100328-1tfjgt6 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md.
+
+## 2026-08-14T10:07:04.646Z - manual-writer
+
+- conversation_id: conv-20260814100704-u5kurn
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814100704-u5kurn.md
+- atoms:
+  - mem-20260814100704-1vi3o34 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, tutte le source note del frontmatter e il capitolo del VOL-01 Banca dati ufficiale per verificare il rinvio con delta.
+  - mem-20260814100704-u1utqt | workflow | Sviluppa esattamente cinque nuclei H2 con punto mediano: N-SP01-10-01 riuso dal VOL-01 e delta di famiglia; N-SP01-11-01 ordinamento dei corpi; N-SP01-11-02 diritto e procedura penale con polizia giudiziaria; N-SP01-11-03 pubblica sicurezza e polizia amministrativa; N-SP01-11-04 costruzione di una risposta integrata che separa i tre piani.
+  - mem-20260814100704-15tqh82 | workflow | Non trasformare il capitolo in manuale enciclopedico di penale.
+  - mem-20260814100704-84x129 | instruction | Spiega però direttamente al lettore i concetti necessari del perimetro, senza usare il rinvio per nascondere teoria mancante.
+  - mem-20260814100704-wo73jn | instruction | Ogni rinvio al volume base deve nominare il capitolo in corsivo e dichiarare destinazione, contenuto riusabile e delta specialistico.
+  - mem-20260814100704-14muiqw | instruction | Non usare wikilink.
+  - mem-20260814100704-evkq4u | instruction | Chiarisci le differenze tra ordinamento, funzione di polizia giudiziaria e funzione di pubblica sicurezza/polizia amministrativa; evita di presentare ogni appartenente come titolare indistinto di ogni qualifica o potere.
+  - mem-20260814100704-pe2mok | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md.
+
+## 2026-08-14T10:10:07.833Z - manual-writer
+
+- conversation_id: conv-20260814101007-68mi51
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814101007-68mi51.md
+- atoms:
+  - mem-20260814101007-3apy40 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter, la fonte Template Bando Decoder e il capitolo Bando Decoder chiuso di M-SP04 come modello.
+  - mem-20260814101007-181tb5s | workflow | Produci strumenti compilabili e una procedura reale, non una trascrizione del bando.
+  - mem-20260814101007-x7hnc2 | instruction | Separa sempre Polizia di Stato, Carabinieri e Guardia di Finanza e i binari base/ispettivo.
+  - mem-20260814101007-1dsqmxx | project_fact | Mostra come registrare posti, riserve, età, materie, soglie, tempi, calendari e punteggi come dati mobili con fonte e data.
+  - mem-20260814101007-12tj7i0 | instruction | Gli ignoti devono essere esplicitamente marcati non pubblicato o non dichiarato, mai riempiti per plausibilità.
+  - mem-20260814101007-1mzjd72 | project_fact | Niente wikilink o strumenti interni.
+  - mem-20260814101007-tyt4jw | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md.
+
+## 2026-08-14T10:12:46.864Z - manual-writer
+
+- conversation_id: conv-20260814101246-1gb4nuh
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814101246-1gb4nuh.md
+- atoms:
+  - mem-20260814101246-15bq0j8 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter e i capitoli analoghi già chiusi negli altri moduli VOL-12.
+  - mem-20260814101246-8zgc5e | instruction | La parte fisica resta descrittiva e programmatoria: il manuale non prescrive allenamenti, non valuta condizioni personali e rinvia a professionisti qualificati quando necessario.
+  - mem-20260814101246-1oi9l41 | project_fact | Niente wikilink o dati inventati.
+  - mem-20260814101246-cwc51 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md.
+
+## 2026-08-14T10:15:58.310Z - manual-writer
+
+- conversation_id: conv-20260814101558-lj8szt
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814101558-lj8szt.md
+- atoms:
+  - mem-20260814101558-c5r8s7 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter e i capitoli precedenti M-SP01 già presenti per evitare contraddizioni.
+  - mem-20260814101558-2q7qlo | workflow | Sviluppa esattamente cinque nuclei H2 con punto mediano: N-SP01-14-01 errori di accesso e scelta del binario; N-SP01-14-02 errori sulla prova scritta; N-SP01-14-03 errori negli accertamenti; N-SP01-14-04 errori su dati mobili, fonti e avvisi; N-SP01-14-05 errori nella gestione della catena procedurale.
+  - mem-20260814101558-81ffnv | instruction | Ogni nucleo deve avere almeno 650 parole, spiegare causa, segnale, conseguenza e correzione, con casi osservabili.
+  - mem-20260814101558-oxi116 | instruction | Inserisci casi guidati distinti per binario base e ispettivo e, quando serve, per corpo.
+  - mem-20260814101558-c4c7gs | project_fact | Niente wikilink o riferimenti a strumenti interni.
+  - mem-20260814101558-kuxgat | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md.
+
+## 2026-08-14T10:18:47.836Z - manual-writer
+
+- conversation_id: conv-20260814101847-3hgr1j
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814101847-3hgr1j.md
+- atoms:
+  - mem-20260814101847-1urvx42 | workflow | instruction=Rigenera integralmente il capitolo 9 sostituendo la bozza locale presente sotto Testo editoriale.
+  - mem-20260814101847-g40e55 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter e i capitoli 1-8 M-SP01.
+  - mem-20260814101847-nlbvho | instruction | Non usare mai le espressioni aggiornamento generato, istruzione ricevuta, knowledge consolidata, questo blocco sviluppa, devo generare o Manual Writer Agent.
+  - mem-20260814101847-1jzicn2 | workflow | Sviluppa cinque nuclei H2 da almeno 650 parole: N-SP01-14-01 errori di accesso e binario; N-SP01-14-02 errori sullo scritto; N-SP01-14-03 errori negli accertamenti; N-SP01-14-04 errori su dati mobili, fonti e avvisi; N-SP01-14-05 errori nella catena procedurale.
+  - mem-20260814101847-1sp13ip | instruction | Per ogni errore spiega causa, segnale, conseguenza e correzione, con casi didattici distinti per base e ispettivo.
+  - mem-20260814101847-1i7jrp | instruction | Mantieni condotta caso per caso, niente elenchi diagnostici o prescrizioni atletiche, dati mobili con Verifica sul bando.
+  - mem-20260814101847-1vw7fpm | project_fact | Niente wikilink, strumenti interni, dati inventati o Note di review.
+  - mem-20260814101847-8540lw | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md mode=integrate instruction=Rigenera integralmente il capitolo 9 sostituendo la bozza locale presente sotto Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md.
+
+## 2026-08-14T10:22:51.522Z - manual-writer
+
+- conversation_id: conv-20260814102251-1tjiyj2
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814102251-1tjiyj2.md
+- atoms:
+  - mem-20260814102251-81px2q | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter e tutti i capitoli 1-9 M-SP01 per costruire una verifica finale coerente.
+  - mem-20260814102251-4evuor | instruction | Non usare formule metatestuali.
+  - mem-20260814102251-djnw1u | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md.
+
+## 2026-08-14T10:34:28.893Z - editorial-reviewer
+
+- conversation_id: conv-20260814103428-2j9lel
+- route: EditorialReviewerAgent.runReview
+- l0: l0/conv-20260814103428-2j9lel.md
+- atoms:
+  - mem-20260814103428-ix8uju | result | Esito EditorialReviewerAgent.runReview: bookId=m-sp01-forze-ordine scope=full aspect=full -> Revisione editoriale completata su m-sp01-forze-ordine.
+
+## 2026-08-14T11:43:37.300Z - manual-writer
+
+- conversation_id: conv-20260814114337-z3q68m
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814114337-z3q68m.md
+- atoms:
+  - mem-20260814114337-dh5zlj | instruction | Mantieni integralmente la struttura Markdown e restituisci l'intero corpo del capitolo, senza frontmatter e senza recinti di codice.
+  - mem-20260814114337-3fz7l3 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md mode=humanizer_revision instruction=Esegui una correzione di bozze strettamente conservativa. -> Revisione humanizer completata su books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md.
+
+## 2026-08-14T11:58:11.621Z - editorial-reviewer
+
+- conversation_id: conv-20260814115811-f6v7h9
+- route: EditorialReviewerAgent.runReview
+- l0: l0/conv-20260814115811-f6v7h9.md
+- atoms:
+  - mem-20260814115811-ls0yi8 | workflow | La barra Doppio binario prima dell'H1 e i metadati status draft/review_required true/canonical false sono convenzioni di repository già presenti nei moduli M-SP02 e M-SP04 dichiarati pubblicabili: non considerarli errori di capitolo.
+  - mem-20260814115811-ukwmy4 | workflow | Le griglie compilabili a tre colonne dei capitoli 7 e 10 sono strumenti didattici intenzionali; valuta solo eventuali problemi reali di leggibilità, ripetizione o ampiezza.
+  - mem-20260814115811-1n8j4t7 | result | Esito EditorialReviewerAgent.runReview: bookId=m-sp01-forze-ordine scope=aspect aspect=Review di chiusura post-correzioni sull'intero modulo: verifica che i rilievi E02-E06 ed E08-E11 del report del 14 agosto 2026 alle 11:28Z siano risolti e segnala soltant... -> Revisione editoriale completata su m-sp01-forze-ordine.
+
+## 2026-08-14T12:40:08.323Z - editorial-reviewer
+
+- conversation_id: conv-20260814124008-1wszk5
+- route: EditorialReviewerAgent.runReview
+- l0: l0/conv-20260814124008-1wszk5.md
+- atoms:
+  - mem-20260814124008-1081p0y | result | Esito EditorialReviewerAgent.runReview: bookId=m-sp03-magistratura-avvocatura-notariato scope=full aspect=full -> Revisione editoriale completata su m-sp03-magistratura-avvocatura-notariato.
+
+## 2026-08-14T12:47:28.259Z - manual-writer
+
+- conversation_id: conv-20260814124728-8me5rw
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814124728-8me5rw.md
+- atoms:
+  - mem-20260814124728-zwpyn8 | workflow | instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, recependo il report wiki/reviews/editorial-review-m-sp03-magistratura-avvocatura-notariato-2026-08-14T12-40-08-319Z.md.
+  - mem-20260814124728-14jkkyb | instruction | Mantieni esattamente i cinque ID di nucleo esistenti, il perimetro dei tre binari, le fonti dichiarate e tutti i fatti già verificati; non inventare soglie, date, articoli, ruoli o garanzie.
+  - mem-20260814124728-pnipcb | instruction | Non usare come riempitivo le frasi Applica verifica, dato ignoto, non diagnostica o il candidato ricostruisce.
+  - mem-20260814124728-9l13ck | workflow | Consolida a fine capitolo una sezione ## ▣ Verifica con almeno sei quiz A-D.
+  - mem-20260814124728-8mchtw | instruction | Usa in modo coerente, quando pertinenti: ## Da sapere in 5 righe, ## Domanda-trappola, ## Mini-esercizio, ## Checklist operativa e ## Riferimenti consolidati.
+  - mem-20260814124728-qfe2h0 | project_fact | Scrivi per un manuale-workbook professionale: italiano naturale, concreto, privo di formule promozionali o metadiscorso interno.
+  - mem-20260814124728-f5w6d7 | project_fact | Non nominare wiki, report, source note o corpus nel testo destinato al lettore.
+  - mem-20260814124728-nrlckg | instruction | Mantieni almeno 3.500 parole di corpo e preserva la struttura Markdown.
+
+## 2026-08-14T12:51:21.839Z - manual-writer
+
+- conversation_id: conv-20260814125121-1ei2i9y
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814125121-1ei2i9y.md
+- atoms:
+  - mem-20260814125121-13lc7m3 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo,... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md.
+
+## 2026-08-14T12:54:20.941Z - manual-writer
+
+- conversation_id: conv-20260814125420-1eu3don
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814125420-1eu3don.md
+- atoms:
+  - mem-20260814125420-ulszjn | project_fact | Sostituisci l'attribuzione a fonte secondaria della soglia: il D.A.G.
+  - mem-20260814125420-b6lma5 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capit... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md.
+
+## 2026-08-14T12:57:30.851Z - manual-writer
+
+- conversation_id: conv-20260814125730-dptp64
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814125730-dptp64.md
+- atoms:
+  - mem-20260814125730-e31few | instruction | Costruisci un caso completo su pratica notarile compiuta entro la domanda ma certificato prodotto dopo l'orale, cinque precedenti inidoneità e scelta fra testamento, atto tra vivi e atto commerciale; mantieni mobile la disciplina dei testi ammessi.
+  - mem-20260814125730-11khatj | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, re... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md.
+
+## 2026-08-14T13:00:28.718Z - manual-writer
+
+- conversation_id: conv-20260814130028-1hvo9lj
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814130028-1hvo9lj.md
+- atoms:
+  - mem-20260814130028-1buu6mi | workflow | Ogni nucleo deve avere procedura, criterio di qualità, errore specifico e output diverso.
+  - mem-20260814130028-1dovx5o | instruction | Inserisci un caso completo che obblighi a scegliere il formato corretto dalla consegna.
+  - mem-20260814130028-1o86pja | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, recependo... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md.
+
+## 2026-08-14T13:04:02.075Z - manual-writer
+
+- conversation_id: conv-20260814130402-155i2kk
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814130402-155i2kk.md
+- atoms:
+  - mem-20260814130402-1hu018p | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, recependo il... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md.
+
+## 2026-08-14T13:08:19.484Z - manual-writer
+
+- conversation_id: conv-20260814130819-u5auyr
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814130819-u5auyr.md
+- atoms:
+  - mem-20260814130819-107k8gt | project_fact | In N-SP03-15-02 inserisci una checklist compilabile effettiva a massimo tre colonne, con requisito, fonte, prova, logistica, simulazioni, correzioni, stato verde/giallo/rosso, firma e data.
+  - mem-20260814130819-1h1m0s7 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, recepend... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md.
+
+## 2026-08-14T13:26:10.993Z - editorial-reviewer
+
+- conversation_id: conv-20260814132610-kdplyj
+- route: M-SP03.integralClosureReview
+- l0: l0/conv-20260814132610-kdplyj.md
+- atoms:
+  - mem-20260814132610-geeunn | project_fact | Sei il revisore editoriale di chiusura di ConcorsoBook OS.
+  - mem-20260814132610-1er30tg | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md
+  - mem-20260814132610-k3eain | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md
+  - mem-20260814132610-fr1tz | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md
+  - mem-20260814132610-1re5kaa | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md
+  - mem-20260814132610-s8ucoj | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md
+  - mem-20260814132610-1kdpt8q | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md
+  - mem-20260814132610-1viks06 | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md
+
+## 2026-08-14T17:27:02.965Z - VOL-12
+
+- conversation_id: conv-20260814172702-17nrbjm
+- route: pipeline-steps-20-23-final-delivery
+- l0: l0/conv-20260814172702-17nrbjm.md
+- atoms:
+  - mem-20260814172702-1apyy8t | workflow | Procedi al posto di Claude e completa VOL-12 fino alla consegna, fermandoti prima della conferma umana.
+  - mem-20260814172702-1258loo | result | Esito pipeline-steps-20-23-final-delivery: Procedi al posto di Claude e completa VOL-12 fino alla consegna, fermandoti prima della conferma umana. -> VOL-12 completato fino allo step 23.

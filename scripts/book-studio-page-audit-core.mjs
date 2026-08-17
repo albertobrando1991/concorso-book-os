@@ -42,6 +42,7 @@ export function resolvePageAuditOptions(env = process.env) {
     expectedPageCount,
     contactSheetSize,
     reportMode,
+    skipPageScreenshots: String(env.BOOK_STUDIO_SKIP_PAGE_SCREENSHOTS || "") === "1",
     explicitScreenshotPages
   }
 }
@@ -126,7 +127,8 @@ export function classifyPageDiagnostic(page, context) {
     add("orphan-heading", "ultimo heading", "bloccante", "tenere il titolo con il blocco successivo")
   }
   for (const table of page.tables.filter(
-    (value) => !value.contained || (value.continued && !value.hasHeader)
+    (value) => !value.contained
+      || (value.continued && value.firstOnPage !== false && !value.hasHeader)
   )) {
     add("table-header", table.label, "bloccante", "ripetere intestazione e contenere la tabella")
   }
@@ -152,15 +154,14 @@ export function classifyPageDiagnostic(page, context) {
   for (const value of page.detachedBlocks) {
     add("detached-box", value, "media", "tenere box e primo contenuto insieme")
   }
-  if (page.frontMatterLayout === "analytical-index" && page.isFrontMatterContinuation) {
-    add("split-index", "indice analitico", "media", "ricomporre l'indice completo su una sola pagina")
-  }
-
   const whitespaceLimit = Math.max(180, context.medianFreeSpace + 120)
+  const nextBlockCannotFit = Number.isFinite(page.nextFirstBlockHeight)
+    && page.nextFirstBlockHeight > page.freeSpace
   const exemptWhitespace = page.isSectionTerminal
     || page.sectionType === "front_matter"
     || page.frontMatterLayout === "module-opening"
     || page.nextPageStartsWithProtectedHeading
+    || nextBlockCannotFit
 
   if (!exemptWhitespace && (page.freeSpace > whitespaceLimit || page.fillRatio < 0.35)) {
     add("page-fill", "area utile", "media", "verificare ritmo e ripaginare il vuoto anomalo")

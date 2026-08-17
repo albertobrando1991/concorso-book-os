@@ -29,5 +29,5 @@ Per questo VOL-02 non ripete il manuale base. Il punto di partenza resta il Meto
 
 Qui il lavoro si sposta sul delta locale: organi e competenze, atti degli enti locali, contabilità armonizzata, tributi, servizi al cittadino, programmazione territoriale, Polizia locale, verbali, ordinanze, casi pratici e simulazioni.
 
-Prima di ogni prova confronta sempre questo volume con il bando ufficiale, gli avvisi dell'amministrazione, le norme vigenti e i regolamenti locali eventualmente richiamati.
+Prima di ogni prova confronta sempre questo volume con il bando ufficiale, gli avvisi dell’amministrazione, le norme vigenti e i regolamenti locali eventualmente richiamati.
 

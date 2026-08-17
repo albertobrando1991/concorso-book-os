@@ -24,6 +24,9 @@ last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/planning/00-p
 
 # Indice
 
+> [!NOTE]
+> Questo file e il piano redazionale dettagliato del volume, con la descrizione di ogni capitolo. L'indice realmente stampato (FM6) e generato automaticamente da `buildVolumeIndexBlocks` in `src/server/book/book-preview.ts` a partire dai capitoli presenti nel vault, con numerazione continua 1-50 (capitoli di apertura, poi M-FL01, M-FL02, M-FL03, M-FL04, poi la simulazione finale). L'ordine dei moduli qui sotto e stato allineato a quello reale del volume pubblicato; la numerazione dei capitoli in questa pagina resta quella del piano originale e puo non coincidere cifra per cifra con quella stampata.
+
 ## Prime pagine del volume
 
 | Sezione | Titolo |
@@ -192,6 +195,35 @@ Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/mo
     - Atto, caso di competenza, schema di programma, caso fondi, risposta orale.
     - Diario errori: fonte, livello territoriale, competenza, output.
 
+## Modulo M-FL03 - Camere di commercio
+
+Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare|M-FL03 - Camere di commercio]]
+
+45. **[[books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere|Camere di commercio, sistema camerale e Unioncamere]]**
+    - Ordinamento camerale, autonomia funzionale, organi e sistema Unioncamere.
+    - Rapporto con imprese, territorio, enti locali e Stato.
+    - Stato: modulo incluso, da validare con ulteriore audit bandi.
+
+46. **[[books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale|Registro imprese, REA e pubblicità legale]]**
+    - Registro imprese, REA, pubblicità legale, fascicolo d'impresa e certificazioni.
+    - Procedimenti, sportello, controlli documentali e rapporto con SUAP.
+    - Caso: iscrizione, variazione o certificazione camerale.
+
+47. **[[books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela|Servizi alle imprese, regolazione del mercato e tutela]]**
+    - Promozione economica, internazionalizzazione, digitalizzazione, mediazione, metrologia e tutela del mercato.
+    - Servizi anagrafici, tutela consumatore e controllo amministrativo.
+    - Rinvio a diritto commerciale essenziale senza duplicare manuali civilistici.
+
+48. **[[books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale|Organizzazione, personale, procedimenti e trasparenza camerale]]**
+    - Uffici camerali, profili amministrativi, comunicazione istituzionale e supporto organizzativo.
+    - Procedimento, accesso, privacy, trasparenza e servizi digitali.
+    - Collegamento al CCNL Funzioni Locali ove applicabile.
+
+49. **[[books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale|Laboratorio bando camerale]]**
+    - Decodifica di bandi camerali 2026.
+    - Prova scritta, orale, caso di sportello e risposta su Registro imprese/servizi alle imprese.
+    - Nota di review: acquisire almeno altri due bandi prima della pubblicazione.
+
 ## Modulo M-FL04 - Polizia locale
 
 Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/modules/03-m-fl04-frontespizio-sommario|M-FL04 - Polizia locale]]
@@ -271,35 +303,6 @@ Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/mo
     - Errori che invalidano o indeboliscono l'atto.
     - Simulazioni: strada, commercio, edilizia, ambiente, sicurezza urbana.
 
-## Modulo M-FL03 - Camere di commercio
-
-Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare|M-FL03 - Camere di commercio]]
-
-45. **[[books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere|Camere di commercio, sistema camerale e Unioncamere]]**
-    - Ordinamento camerale, autonomia funzionale, organi e sistema Unioncamere.
-    - Rapporto con imprese, territorio, enti locali e Stato.
-    - Stato: modulo incluso, da validare con ulteriore audit bandi.
-
-46. **[[books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale|Registro imprese, REA e pubblicità legale]]**
-    - Registro imprese, REA, pubblicità legale, fascicolo d'impresa e certificazioni.
-    - Procedimenti, sportello, controlli documentali e rapporto con SUAP.
-    - Caso: iscrizione, variazione o certificazione camerale.
-
-47. **[[books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela|Servizi alle imprese, regolazione del mercato e tutela]]**
-    - Promozione economica, internazionalizzazione, digitalizzazione, mediazione, metrologia e tutela del mercato.
-    - Servizi anagrafici, tutela consumatore e controllo amministrativo.
-    - Rinvio a diritto commerciale essenziale senza duplicare manuali civilistici.
-
-48. **[[books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale|Organizzazione, personale, procedimenti e trasparenza camerale]]**
-    - Uffici camerali, profili amministrativi, comunicazione istituzionale e supporto organizzativo.
-    - Procedimento, accesso, privacy, trasparenza e servizi digitali.
-    - Collegamento al CCNL Funzioni Locali ove applicabile.
-
-49. **[[books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale|Laboratorio bando camerale]]**
-    - Decodifica di bandi camerali 2026.
-    - Prova scritta, orale, caso di sportello e risposta su Registro imprese/servizi alle imprese.
-    - Nota di review: acquisire almeno altri due bandi prima della pubblicazione.
-
 ## Parte finale - Simulazione, appendici e strumenti
 
 50. **[[books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02|Simulazione finale VOL-02]]**
@@ -307,7 +310,14 @@ Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/mo
     - Quiz, risposta sintetica, caso pratico, verbale/atto e orale.
     - Diario degli errori e piano di recupero.
 
-## Appendici operative
+## Appendici operative — non incluse nel volume pubblicato
+
+Le otto appendici elencate in questa sezione del piano editoriale non sono state scritte
+e il motore di composizione del volume (`buildVolumeBookStudioData` in
+`src/server/book/book-preview.ts`) non ha oggi alcun meccanismo per includerle nel PDF
+stampato: genera solo FM1-FM6, i frontespizi di modulo e i capitoli dei quattro moduli.
+La tabella resta come nota di lavoro futuro, non come contenuto da considerare presente
+nel volume.
 
 | Appendice | Titolo | Funzione |
 |---|---|---|

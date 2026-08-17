@@ -1,7 +1,7 @@
 ---
 id: m-fl02-regioni-province-citta-metropolitane
 type: specialist_module
-title: "M-FL02 - Regioni, Province e Citta Metropolitane"
+title: "M-FL02 - Regioni, Province e Città Metropolitane"
 status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici", "funzioni-locali", "metodo bando", "regioni", "province", "citta metropolitane"]
