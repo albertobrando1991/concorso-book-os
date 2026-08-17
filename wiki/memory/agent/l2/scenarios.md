@@ -6984,3 +6984,20 @@
 - atoms:
   - mem-20260817194436-2h61jd | workflow | Prosegui la pipeline integrale del Volume 11.
   - mem-20260817194436-1rqn2im | result | Esito pipeline-step-10-chapter-11: Prosegui la pipeline integrale del Volume 11. -> Step 10 del capitolo 11 completato.
+
+## 2026-08-17T19:49:49.125Z - VOL-11
+
+- conversation_id: conv-20260817194949-9rav6m
+- route: pipeline-step-11-chapter-11
+- l0: l0/conv-20260817194949-9rav6m.md
+- atoms:
+  - mem-20260817194949-19uj5nm | workflow | Prosegui la pipeline del Volume 11.
+  - mem-20260817194949-piwpbs | result | Esito pipeline-step-11-chapter-11: Prosegui la pipeline del Volume 11. -> Step 11 Humanizer del capitolo 11 completato con doppia passata.
+
+## 2026-08-17T19:53:33.144Z - VOL-11
+
+- conversation_id: conv-20260817195333-4v7ap5
+- route: pipeline-step-12-chapter-11
+- l0: l0/conv-20260817195333-4v7ap5.md
+- atoms:
+  - mem-20260817195333-fqxkzm | result | Esito pipeline-step-12-chapter-11: Riprendi Volume 11 dal punto in cui il lavoro si era interrotto. -> Completato il ciclo 08-12 del capitolo 11 M-TR04.

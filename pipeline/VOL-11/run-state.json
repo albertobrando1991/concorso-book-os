@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/planning/00-scheda-pipeline.md",
   "specHash": "sha256:9b1e66289415c3b991ef2d9cc52a2cd4e40830108670b2e20e1edbbf70340df5",
   "createdAt": "2026-08-07T14:01:35.080Z",
-  "updatedAt": "2026-08-17T19:44:38.317Z",
+  "updatedAt": "2026-08-17T19:52:31.912Z",
   "steps": [
     {
       "key": "00:VOL-11",
@@ -1554,13 +1554,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
-      "status": "in-progress",
+      "status": "done",
       "attempts": 1,
       "evidence": [],
       "owner": "Anton",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-17T19:44:38.317Z"
+      "startedAt": "2026-08-17T19:44:38.317Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-17T19:49:29.706Z"
     },
     {
       "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
@@ -1568,9 +1574,40 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-17T19:49:50.832Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-11-rischi-allertamento-it-alert-emergenze-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-11-rischi-allertamento-it-alert-emergenze-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-11-rischi-allertamento-it-alert-emergenze-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-11-rischi-allertamento-it-alert-emergenze-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-17T19:52:31.912Z"
     },
     {
       "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",

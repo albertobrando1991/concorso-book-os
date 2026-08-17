@@ -5,6 +5,7 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 
 ## Preferenze e istruzioni recenti
 
+- Prosegui la pipeline del Volume 11. (mem-20260817194949-19uj5nm)
 - Prosegui la pipeline integrale del Volume 11. (mem-20260817194436-2h61jd)
 - Procedi con la scrittura integrale di VOL-11 applicando la pipeline. (mem-20260817100416-1tge7gy)
 - Procedi con la scrittura integrale del Volume 11 e completa la revisione del capitolo 10. (mem-20260814140045-1242z7s)
@@ -84,4 +85,3 @@ Usala come profilo di lavoro: le source notes e il wiki restano la base canonica
 - Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione. (mem-20260725145956-yzalpc)
 - Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate. (mem-20260529182213-16onnkx)
 - Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate. (mem-20260529182213-16onnkx)
-- Procedi al posto di Claude e completa VOL-12 fino alla consegna, fermandoti prima della conferma umana. (mem-20260814172702-1apyy8t)

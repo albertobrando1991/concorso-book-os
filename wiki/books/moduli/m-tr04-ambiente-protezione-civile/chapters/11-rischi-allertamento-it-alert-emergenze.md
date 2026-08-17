@@ -8,7 +8,7 @@ volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte II — Protezione civile e gestione del rischio"
-draft_stage: full_draft
+draft_stage: revised_draft
 format_version: 2
 topics: ["rischio di protezione civile", "scenario operativo", "sistema di allertamento nazionale", "Centri funzionali", "livelli di allerta", "IT-alert", "gestione dell'emergenza", "briefing operativo"]
 entities: ["Dipartimento della Protezione Civile", "Regioni", "Province autonome", "Centri funzionali", "Comuni", "Consiglio dei ministri"]
@@ -66,7 +66,7 @@ L'incertezza non autorizza l'inerzia. Una decisione pubblica può essere proporz
 
 Anche dopo una misura resta un **rischio residuo**. Chiudere un sottopasso riduce l'esposizione degli automobilisti, ma non impedisce l'allagamento né protegge automaticamente le vie alternative. Informare la popolazione migliora i comportamenti, ma non garantisce che il messaggio raggiunga tutti. Ogni azione richiede quindi una verifica: è stata eseguita? ha prodotto l'effetto atteso? ha creato un nuovo problema? serve un'alternativa?
 
-Lo scenario deve considerare anche la dimensione temporale e gli **effetti a cascata**. Un'interruzione elettrica breve può essere tollerabile per molti edifici, ma critica per una struttura assistenziale; la chiusura di una strada può isolare una frazione e allungare i tempi del soccorso; un primo evento può indebolire infrastrutture prima di un secondo impulso. Il briefing deve indicare quali dipendenze sono già compromesse, quali potrebbero diventarlo e quale segnale richiede una nuova decisione. Questa lettura evita di descrivere ogni effetto come problema separato e consente di proteggere prima i nodi da cui dipendono più servizi.
+Lo scenario deve considerare anche la dimensione temporale e gli **effetti a cascata**. Un'interruzione elettrica breve può essere tollerabile per molti edifici, ma critica per una struttura assistenziale; la chiusura di una strada può isolare una frazione e allungare i tempi del soccorso; un primo evento può indebolire infrastrutture prima di un secondo impulso. Il briefing deve indicare quali dipendenze sono già compromesse, quali potrebbero diventarlo e quale segnale richiede una nuova decisione. Leggere insieme queste dipendenze evita di trattare ogni effetto come problema separato e aiuta a proteggere prima i nodi da cui dipendono più servizi.
 
 ### Da sapere in 5 righe
 
@@ -220,7 +220,7 @@ Durante l'evento, la decisione segue un ciclo continuo:
 7. controllare esecuzione ed esito;
 8. fissare il prossimo aggiornamento e riesaminare la decisione.
 
-La **situational awareness** non è accumulare messaggi. È costruire un quadro condiviso abbastanza affidabile per agire. Due segnalazioni dello stesso fatto non sono necessariamente due eventi; un dato senza unità o posizione può essere inutilizzabile; una fotografia senza ora può riferirsi a una fase superata. La sala operativa deve registrare provenienza, validazione, collegamenti e decisioni, evitando sia duplicazioni sia perdita di informazioni nel passaggio di consegne.
+La **consapevolezza situazionale** (*situational awareness*) non consiste nell'accumulare messaggi, ma nel costruire un quadro condiviso abbastanza affidabile per agire. Due segnalazioni dello stesso fatto non sono necessariamente due eventi; un dato senza unità o posizione può essere inutilizzabile; una fotografia senza ora può riferirsi a una fase superata. La sala operativa deve registrare provenienza, validazione, collegamenti e decisioni, evitando sia duplicazioni sia perdita di informazioni nel passaggio di consegne.
 
 Le priorità seguono la salvaguardia della vita e dell'integrità, il soccorso e l'assistenza, la continuità dei servizi essenziali, la riduzione degli effetti e la protezione di beni, animali e ambiente secondo lo scenario. La richiesta di supporto va formulata prima dell'esaurimento delle capacità. Deve indicare che cosa è accaduto, che cosa si prevede, quali risorse sono impegnate, quale fabbisogno manca, dove e per quanto tempo.
 
@@ -266,7 +266,7 @@ Un consigliere chiede quando arriverà IT-alert. Il sistema comunale, però, non
 
 In uno scenario alternativo, alle 10:05 viene segnalato un incidente rilevante in uno stabilimento soggetto alla disciplina pertinente. Alle 10:12 i dispositivi collegati alle celle selezionate ricevono un messaggio IT-alert che identifica il rischio e riporta prime indicazioni. Lo stabilimento ricade vicino al confine comunale; alcuni residenti della frazione est ricevono il messaggio, altri dichiarano di non averlo ricevuto, mentre telefoni in un Comune limitrofo suonano.
 
-Questa distribuzione non prova un malfunzionamento: la copertura radio non coincide perfettamente con il perimetro del rischio. Il Comune acquisisce il testo dai canali ufficiali, verifica l'area indicata, raccorda le informazioni con Prefettura, Regione, strutture operative e gestore secondo il piano e diffonde comunicazioni coerenti. Non chiede ai cittadini di inviare schermate come censimento delle persone raggiunte, perché il sistema è unidirezionale e l'informazione deve restare multicanale.
+La ricezione disomogenea non prova un malfunzionamento: la copertura radio non coincide perfettamente con il perimetro del rischio. Il Comune acquisisce il testo dai canali ufficiali, verifica l'area indicata, raccorda le informazioni con Prefettura, Regione, strutture operative e gestore secondo il piano e diffonde comunicazioni coerenti. Non chiede ai cittadini di inviare schermate come censimento delle persone raggiunte, perché il sistema è unidirezionale e l'informazione deve restare multicanale.
 
 Le funzioni comunali considerano scuole, RSA, attività e persone che possono avere difficoltà nel comprendere o attuare il messaggio. Usano portale, canali locali, altoparlanti o contatti organizzati se previsti, senza contraddire l'autorità tecnica. Le indicazioni di autoprotezione dipendono dallo scenario reale e dal messaggio ufficiale: senza questi elementi non si possono fissare distanze, tempi o procedure sanitarie.
 
@@ -274,10 +274,10 @@ Le funzioni comunali considerano scuole, RSA, attività e persone che possono av
 
 | Ora/fonte | Fatto | Valutazione | Decisione e azione | Comunicazione | Verifica/aggiornamento |
 |---|---|---|---|---|---|
-| 13:10, Regione | Allerta arancione idrogeologica Z-4 | Possibili effetti su versanti e viabilità | Attivare fase prevista, responsabili e presidi | Avviso locale con area e comportamenti | Conferma ricezione interna; update 15:00 |
+| 13:10, Regione | Allerta arancione idrogeologica Z-4 | Possibili effetti su versanti e viabilità | Attivare fase prevista, responsabili e presidi | Avviso locale con area e comportamenti | Conferma ricezione interna; aggiornamento 15:00 |
 | 15:20, presidio | Ruscellamento verificato sulla strada nord | Accesso alla frazione può degradarsi | Controllo continuo e percorso alternativo | Informare residenti interessati | Documentazione fotografica e stato ogni 30 minuti |
 | 15:35, RSA | Autonomia elettrica ridotta | Rischio per continuità assistenziale | Raccordo sanitario/gestore e supporto | Comunicazione mirata ai responsabili | Autonomia e soluzione registrate |
-| 10:12, canale IT-alert | Messaggio per incidente industriale | Popolazione potenzialmente esposta; copertura non perfetta | Attivare piano e canali ridondanti | Riprendere soltanto indicazioni ufficiali | Verifica aree, destinatari fragili e update |
+| 10:12, canale IT-alert | Messaggio per incidente industriale | Popolazione potenzialmente esposta; copertura non perfetta | Attivare piano e canali ridondanti | Riprendere soltanto indicazioni ufficiali | Verifica aree, destinatari fragili e aggiornamento |
 
 ### Briefing modello
 
@@ -353,7 +353,7 @@ B. Quando le autorità e strutture competenti attivano le misure necessarie seco
 C. Dopo l'emanazione di un'ordinanza in deroga.  
 D. Solo dopo un messaggio IT-alert.
 
-**Risposta corretta: B.** Soccorso e assistenza non attendono il provvedimento nazionale. La deliberazione degli artt. 24-25 riguarda eventi e strumenti di rilievo nazionale.
+**Risposta corretta: B.** Soccorso e assistenza non attendono il provvedimento nazionale. La deliberazione e le ordinanze disciplinate, rispettivamente, dagli artt. 24 e 25 riguardano eventi e strumenti di rilievo nazionale.
 
 ### 6. Qual è la struttura più affidabile di un briefing?
 
