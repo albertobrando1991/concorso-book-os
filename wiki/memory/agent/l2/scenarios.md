@@ -7001,3 +7001,11 @@
 - l0: l0/conv-20260817195333-4v7ap5.md
 - atoms:
   - mem-20260817195333-fqxkzm | result | Esito pipeline-step-12-chapter-11: Riprendi Volume 11 dal punto in cui il lavoro si era interrotto. -> Completato il ciclo 08-12 del capitolo 11 M-TR04.
+
+## 2026-08-17T19:57:29.740Z - git-publish
+
+- conversation_id: conv-20260817195729-2ih0il
+- route: codex/github-team-sync
+- l0: l0/conv-20260817195729-2ih0il.md
+- atoms:
+  - mem-20260817195729-gnwoth | result | Esito codex/github-team-sync: Commit e push delle modifiche locali, includendo fonti e volumi 4, 5, 6 e 9, senza sovrascrivere il lavoro dello staff. -> Pubblicato il branch agent/sync-volumi-04-05-06-09-20260817 senza force; integrati i commit dello staff da origin/main; incluse fonti e lavorazioni dei volumi richiesti; test mirati 101/101 e typecheck superati; la su...
