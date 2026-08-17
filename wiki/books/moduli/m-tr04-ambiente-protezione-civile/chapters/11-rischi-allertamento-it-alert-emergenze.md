@@ -30,7 +30,7 @@ dati_operativi: ["DO-TR04-11-IT-ALERT-2026-08-17"]
 
 Alle 13:10 la Regione dirama un'allerta arancione per rischio idrogeologico sulla zona che comprende Vallechiara. Il cielo è ancora chiaro, il torrente resta sotto la prima soglia locale e molti cittadini chiedono perché il Comune stia predisponendo presidi. In una chat circola la frase: «Se il pericolo fosse vero, arriverebbe IT-alert». Due ore dopo, un temporale molto intenso interessa soltanto una parte del bacino. Il ponte principale non è ancora chiuso, ma una frazione segnala ruscellamenti e la RSA comunica che un guasto ha ridotto l'autonomia elettrica.
 
-Il problema non è scegliere tra allarmismo e attesa. Occorre leggere informazioni incomplete, distinguere ciò che è previsto da ciò che è osservato, collegare lo scenario al piano e aggiornare le decisioni. Un colore non è un ordine universale; IT-alert non accompagna ogni allerta; lo stato di emergenza nazionale non è il permesso per iniziare i soccorsi. La competenza concorsuale consiste nel tenere separati questi strumenti e ricomporli in un briefing affidabile.
+Il compito è decidere senza cedere né all'allarmismo né all'attesa. Bisogna leggere informazioni incomplete, distinguere ciò che è previsto da ciò che è osservato, collegare lo scenario al piano e aggiornare le decisioni. Un colore non è un ordine universale; IT-alert non accompagna ogni allerta; lo stato di emergenza nazionale non è il permesso per iniziare i soccorsi. Nella prova occorre tenere separati questi strumenti e ricomporli in un briefing affidabile.
 
 ## Obiettivo
 
@@ -48,13 +48,13 @@ Al termine del capitolo saprai costruire uno scenario di rischio, spiegare il fu
 
 ## Spiegazione teorica
 
-L'allertamento è una forma di prevenzione non strutturale che trasforma conoscenze e valutazioni in attivazione del sistema. Per comprenderlo occorre seguire una catena: fenomeno, scenario, possibile impatto, prodotto tecnico, livello di allerta, lettura territoriale, fase operativa, azione, comunicazione e verifica. Ogni passaggio ha un soggetto, un grado d'incertezza e una funzione diversa.
+L'allertamento è una forma di prevenzione non strutturale che trasforma conoscenze e valutazioni in attivazione del sistema. La catena da seguire comprende fenomeno, scenario, possibile impatto, prodotto tecnico, livello di allerta, lettura territoriale, fase operativa, azione, comunicazione e verifica. Ogni passaggio ha un soggetto, un grado d'incertezza e una funzione diversa.
 
 ## N-TR04-11-01 · Dal rischio allo scenario operativo
 
 La **pericolosità** descrive la possibilità che un fenomeno di determinata intensità si verifichi in un certo luogo e periodo. L'**esposizione** riguarda persone, beni, attività, infrastrutture, animali e componenti ambientali che possono essere interessati. La **vulnerabilità** esprime la propensione di tali elementi a subire danni. Le capacità disponibili — organizzazione, conoscenze, mezzi, ridondanze e comportamenti — possono ridurre gli effetti, ma non cancellano il rischio. Questa scomposizione non è una formula aritmetica da applicare senza dati: è una guida per capire da dove nasce il possibile danno.
 
-Una piena non produce le stesse conseguenze in due territori diversi. Conta la presenza di abitazioni, scuole, attività produttive e servizi; contano la stabilità degli edifici, la viabilità alternativa, i tempi di allontanamento e la preparazione delle persone. Per questo la descrizione del fenomeno è soltanto il primo pezzo. Il candidato deve chiedersi: che cosa può essere coinvolto, con quali fragilità e quali capacità di risposta?
+Una piena non produce le stesse conseguenze in due territori diversi. Conta la presenza di abitazioni, scuole, attività produttive e servizi; contano la stabilità degli edifici, la viabilità alternativa, i tempi di allontanamento e la preparazione delle persone. La descrizione del fenomeno è quindi soltanto il primo pezzo. Le domande da porsi sono: che cosa può essere coinvolto, con quali fragilità e quali capacità di risposta?
 
 Lo **scenario di rischio** traduce queste informazioni in effetti plausibili. Non afferma che tutto accadrà, ma rappresenta una o più evoluzioni utili a decidere. Uno scenario idrogeologico può comprendere frane superficiali, ruscellamenti, caduta di massi, interruzioni stradali e isolamento di nuclei abitati. Uno scenario idraulico considera invece l'esondazione dei corsi d'acqua principali, l'occupazione delle aree perifluviali e gli effetti su ponti e argini. I fenomeni possono concorrere e la terminologia concreta va letta nei prodotti ufficiali applicabili.
 
@@ -74,7 +74,7 @@ Il rischio nasce dall'interazione tra fenomeno, esposizione, vulnerabilità e ca
 
 ## N-TR04-11-02 · Architettura del sistema di allertamento
 
-L'art. 17 del Codice della protezione civile organizza l'allertamento in un sistema **statale e regionale**. Lo scopo è sviluppare e acquisire, ove possibile, conoscenze e valutazioni in tempo reale sul preannuncio probabilistico, sul monitoraggio e sulla sorveglianza degli eventi e sull'evoluzione degli scenari. Il risultato atteso non è soltanto un bollettino: è l'attivazione del Servizio nazionale ai livelli territoriali pertinenti.
+L'art. 17 del Codice della protezione civile organizza l'allertamento in un sistema **statale e regionale**. Lo scopo è sviluppare e acquisire, ove possibile, conoscenze e valutazioni in tempo reale sul preannuncio probabilistico, sul monitoraggio e sulla sorveglianza degli eventi e sull'evoluzione degli scenari. Valutazioni e prodotti tecnici devono portare all'attivazione del Servizio nazionale ai livelli territoriali pertinenti.
 
 La direttiva del Presidente del Consiglio dei ministri 23 ottobre 2020, coordinata con la direttiva del 7 febbraio 2023, distingue due fasi. La **previsione** valuta la situazione attesa e i possibili effetti prima o durante l'avvicinarsi dell'evento. Il **monitoraggio e la sorveglianza** seguono l'evoluzione della situazione in atto e dei potenziali impatti. Le fasi si alimentano reciprocamente: nuove osservazioni possono confermare, ridimensionare o aggravare lo scenario iniziale.
 
@@ -82,7 +82,7 @@ Il governo e la gestione del sistema sono assicurati dal Dipartimento della Prot
 
 I Centri funzionali raccolgono e interpretano modelli meteorologici e idrologici, dati radar e satellitari, misure di pluviometri, idrometri e altri sensori, nonché informazioni qualitative. Un sensore, isolato, non «dichiara» l'allerta. Il dato deve essere validato, confrontato con soglie, inserito nel contesto territoriale e letto insieme ad altre evidenze. Anche il **presidio territoriale** è importante perché osserva effetti, ostacoli, dissesti e condizioni che una rete automatica può non descrivere pienamente.
 
-Il Centro funzionale produce valutazioni tecnico-scientifiche; l'autorità regionale competente dichiara e dirama l'allerta secondo le procedure applicabili; il Comune interpreta il messaggio rispetto al proprio piano e territorio. Questa sequenza impedisce due errori. Il primo è attribuire al tecnico la decisione politica o amministrativa. Il secondo è ritenere che il Comune possa ignorare un messaggio perché il fenomeno non è ancora visibile localmente.
+Il Centro funzionale produce valutazioni tecnico-scientifiche; l'autorità regionale competente dichiara e dirama l'allerta secondo le procedure applicabili; il Comune interpreta il messaggio rispetto al proprio piano e territorio. Attribuire al tecnico la decisione politica o amministrativa è scorretto. Lo è anche ritenere che il Comune possa ignorare un messaggio perché il fenomeno non è ancora visibile localmente.
 
 | Passaggio | Domanda | Esito |
 |---|---|---|
@@ -125,7 +125,7 @@ Per i **temporali** non è previsto uno specifico livello rosso. I fenomeni conv
 
 Il bollettino nazionale di criticità/allerta sintetizza le valutazioni dei Centri funzionali decentrati e rappresenta, per ogni zona, il livello più elevato secondo criteri di visualizzazione. È utile per il quadro generale, ma non sostituisce i messaggi e le procedure regionali. Per uno studio orientato a un bando locale vanno verificati il portale regionale, la denominazione delle zone, gli orari di emissione e il significato operativo attribuito ai prodotti vigenti.
 
-Un esempio chiarisce il metodo. Vallechiara ricade in una zona con allerta arancione idrogeologica. Il candidato non deve concludere che il torrente principale esonderà: quello sarebbe soprattutto uno scenario idraulico. Deve leggere gli effetti indicati, verificare versanti, rii minori, sottopassi e viabilità, controllare gli aggiornamenti e raccordare le informazioni con i punti critici del piano. La distinzione tra rischi evita di preparare la risposta sbagliata.
+Vallechiara ricade in una zona con allerta arancione idrogeologica. Non si può concludere che il torrente principale esonderà: quello sarebbe soprattutto uno scenario idraulico. Occorre leggere gli effetti indicati, verificare versanti, rii minori, sottopassi e viabilità, controllare gli aggiornamenti e raccordare le informazioni con i punti critici del piano. La distinzione tra rischi evita di preparare la risposta sbagliata.
 
 ### Mini-esercizio
 
@@ -135,7 +135,7 @@ Prendi un prodotto ufficiale regionale e individua: emittente, validità, zona, 
 
 L'**allerta** è una valutazione tecnico-probabilistica diramata dall'autorità competente per attivare il sistema rispetto a uno scenario. La **fase operativa** rappresenta lo stato di attivazione dell'organizzazione e delle azioni previste. Un **provvedimento** è invece un atto adottato dall'autorità competente, come una limitazione motivata. Queste categorie si influenzano, ma non sono intercambiabili.
 
-L'allertamento spetta al Presidente della Regione o al soggetto delegato secondo procedure definite territorialmente. Per questo modalità, orari, prodotti, fasi e flussi possono variare. Il manuale nazionale può insegnare il metodo di lettura, non imporre un organigramma identico. In una risposta d'esame è corretto premettere che la soluzione concreta va verificata rispetto a disciplina regionale e piano vigente.
+L'allertamento spetta al Presidente della Regione o al soggetto delegato secondo procedure definite territorialmente. Modalità, orari, prodotti, fasi e flussi possono quindi variare. In una risposta d'esame si espone il metodo di lettura, precisando che la soluzione concreta va verificata rispetto alla disciplina regionale e al piano vigente.
 
 Ricevuto il messaggio, il Comune deve compiere una lettura **situata**. Controlla che il prodotto sia autentico e vigente; individua zona e rischio; confronta lo scenario con punti critici e persone esposte; verifica disponibilità di responsabili, sostituti e risorse; sceglie la fase prevista dal piano; avvia azioni e comunicazioni; registra l'esito; programma l'aggiornamento. La sequenza può essere rapida, ma non può ridursi a «inoltrare la mail».
 
@@ -173,7 +173,7 @@ IT-alert non è l'intero sistema di allertamento e non è un sinonimo di allerta
 
 La tecnologia usata è il **cell broadcast**. Il messaggio viene trasmesso dalle celle selezionate ai dispositivi accesi e connessi in quell'area. Non è necessario scaricare un'applicazione, iscriversi o fornire il numero; non occorre credito telefonico. La comunicazione è unidirezionale: il sistema non riceve conferme dai telefoni e non sa chi abbia letto. La trasmissione impersonale non comporta la raccolta di dati personali dei destinatari da parte del Dipartimento o dell'operatore per l'invio.
 
-Il cell broadcast può funzionare anche quando la rete è congestionata, ma non garantisce una copertura perfetta. Un telefono spento, privo di campo o non correttamente configurato può non ricevere o non segnalare il messaggio. Le celle radio non coincidono esattamente con il perimetro del rischio: persone fuori area possono ricevere e persone nell'area stimata possono non essere raggiunte. Modello del dispositivo, versione del sistema operativo e condizioni della rete possono incidere. Per questo il messaggio integra sirene, portali, radio, comunicazioni locali, operatori sul territorio e reti di assistenza.
+Il cell broadcast può funzionare anche quando la rete è congestionata, ma non garantisce una copertura perfetta. Un telefono spento, privo di campo o non correttamente configurato può non ricevere o non segnalare il messaggio. Le celle radio non coincidono esattamente con il perimetro del rischio: persone fuori area possono ricevere e persone nell'area stimata possono non essere raggiunte. Modello del dispositivo, versione del sistema operativo e condizioni della rete possono incidere. Il messaggio va quindi affiancato a sirene, portali, radio, comunicazioni locali, operatori sul territorio e reti di assistenza.
 
 ### Dato operativo · IT-alert al 17 agosto 2026
 
@@ -224,7 +224,7 @@ La **situational awareness** non è accumulare messaggi. È costruire un quadro 
 
 Le priorità seguono la salvaguardia della vita e dell'integrità, il soccorso e l'assistenza, la continuità dei servizi essenziali, la riduzione degli effetti e la protezione di beni, animali e ambiente secondo lo scenario. La richiesta di supporto va formulata prima dell'esaurimento delle capacità. Deve indicare che cosa è accaduto, che cosa si prevede, quali risorse sono impegnate, quale fabbisogno manca, dove e per quanto tempo.
 
-Il **briefing operativo** serve a concentrare il quadro senza cancellare incertezze. Può essere orale o scritto, ma deve permettere al destinatario di capire rapidamente situazione, decisioni e punti aperti.
+Il **briefing operativo** riassume il quadro senza cancellare le incertezze. Può essere orale o scritto e deve permettere al destinatario di capire rapidamente situazione, decisioni e punti aperti.
 
 | Campo | Contenuto |
 |---|---|
@@ -248,7 +248,7 @@ Prima di chiudere, verifica: l'ora è chiara? Le fonti sono riconoscibili? Fatti
 
 ## N-TR04-11-07 · Caso guidato: due rami per Vallechiara
 
-Vallechiara usa il piano aggiornato nel capitolo precedente. Il Comune ricade nella zona regionale Z-4, denominazione fittizia del caso didattico. Il piano locale individua torrente, ponte, sottopasso, due frazioni collinari, RSA, scuola e area produttiva come punti sensibili. Responsabili e sostituti sono reperibili; il registro eventi è aperto. Il caso presenta due rami alternativi, così da confrontare allertamento e allarme pubblico senza sovrapporli.
+Vallechiara riparte dal piano aggiornato nel capitolo precedente. Il Comune ricade nella zona regionale Z-4, denominazione fittizia del caso didattico. Il piano locale individua torrente, ponte, sottopasso, due frazioni collinari, RSA, scuola e area produttiva come punti sensibili. Responsabili e sostituti sono reperibili; il registro eventi è aperto. I due rami del caso permettono di confrontare allertamento e allarme pubblico senza sovrapporli.
 
 ### Ramo A · Allerta meteo-idrogeologica
 
@@ -260,7 +260,7 @@ Alle 15:20 il presidio segnala ruscellamenti sulla strada della frazione nord. L
 
 Il Comune rafforza il presidio, verifica il percorso alternativo, contatta il gestore elettrico e la struttura sanitaria, predispone una risorsa di supporto compatibile e informa la popolazione delle aree interessate sui comportamenti e sui canali ufficiali. La chiusura del sottopasso resta legata alle condizioni previste dalla procedura e alle verifiche sul posto. Ogni azione riceve responsabile, termine e prova dell'esecuzione.
 
-Un consigliere chiede quando arriverà IT-alert. La risposta è netta: il sistema comunale non attende quel messaggio. Alla data del caso, le precipitazioni intense non sono un caso operativo tramite cell broadcast; soprattutto, l'allerta regionale e il piano sono già sufficienti per attivare le misure pertinenti. La comunicazione pubblica corregge la voce senza trasformare il chiarimento tecnico in polemica.
+Un consigliere chiede quando arriverà IT-alert. Il sistema comunale, però, non attende quel messaggio. Alla data del caso, le precipitazioni intense non sono un caso operativo tramite cell broadcast; soprattutto, l'allerta regionale e il piano sono già sufficienti per attivare le misure pertinenti. La comunicazione pubblica corregge la voce senza trasformare il chiarimento tecnico in polemica.
 
 ### Ramo B · Incidente rilevante nell'area produttiva
 
@@ -268,7 +268,7 @@ In uno scenario alternativo, alle 10:05 viene segnalato un incidente rilevante i
 
 Questa distribuzione non prova un malfunzionamento: la copertura radio non coincide perfettamente con il perimetro del rischio. Il Comune acquisisce il testo dai canali ufficiali, verifica l'area indicata, raccorda le informazioni con Prefettura, Regione, strutture operative e gestore secondo il piano e diffonde comunicazioni coerenti. Non chiede ai cittadini di inviare schermate come censimento delle persone raggiunte, perché il sistema è unidirezionale e l'informazione deve restare multicanale.
 
-Le funzioni comunali considerano scuole, RSA, attività e persone che possono avere difficoltà nel comprendere o attuare il messaggio. Usano portale, canali locali, altoparlanti o contatti organizzati se previsti, senza contraddire l'autorità tecnica. Le indicazioni di autoprotezione dipendono dallo scenario reale e dal messaggio ufficiale; il manuale non inventa distanze, tempi o procedure sanitarie.
+Le funzioni comunali considerano scuole, RSA, attività e persone che possono avere difficoltà nel comprendere o attuare il messaggio. Usano portale, canali locali, altoparlanti o contatti organizzati se previsti, senza contraddire l'autorità tecnica. Le indicazioni di autoprotezione dipendono dallo scenario reale e dal messaggio ufficiale: senza questi elementi non si possono fissare distanze, tempi o procedure sanitarie.
 
 ### Matrice decisionale del caso
 

@@ -6975,3 +6975,12 @@
 - atoms:
   - mem-20260817100416-1tge7gy | workflow | Procedi con la scrittura integrale di VOL-11 applicando la pipeline.
   - mem-20260817100416-617pwq | result | Esito pipeline-step-08-chapter-11: Procedi con la scrittura integrale di VOL-11 applicando la pipeline. -> Preparato il piano del capitolo 11 in sette nuclei, budget 5900-6500 parole, sei quiz, caso Vallechiara a due rami e sette audit; consolidata una source note ufficiale 2026 su allertamento, IT-alert ed emergenze.
+
+## 2026-08-17T19:44:36.377Z - VOL-11
+
+- conversation_id: conv-20260817194436-n0aj8g
+- route: pipeline-step-10-chapter-11
+- l0: l0/conv-20260817194436-n0aj8g.md
+- atoms:
+  - mem-20260817194436-2h61jd | workflow | Prosegui la pipeline integrale del Volume 11.
+  - mem-20260817194436-1rqn2im | result | Esito pipeline-step-10-chapter-11: Prosegui la pipeline integrale del Volume 11. -> Step 10 del capitolo 11 completato.

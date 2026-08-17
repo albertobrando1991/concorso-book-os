@@ -8,7 +8,7 @@ module_code: M-TR04
 volume_code: VOL-11
 topics: ["ambiente", "protezione civile", "energia e clima", "sostenibilità"]
 source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
-updated_at: 2026-08-14
+updated_at: 2026-08-17
 review_required: true
 canonical: false
 tags: ["planning", "coverage-matrix", "vol-11"]
@@ -30,7 +30,7 @@ Stato di copertura del piano: completo per assegnazione dei nuclei, fonti e outp
 | N-TR04-08-01 | AMB/LOC | monitoraggio | aria, rumore, dati ARPA | media | sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026 | cap. 08 | teoria integrale verificata | caso scuola-traffico-attività sviluppato | piano integrato aria-rumore | Q:6 C:1 E:1 | completo | eseguita 2026-08-13 | verificato; recepimento direttiva UE e competenze territoriali al text freeze |
 | N-TR04-09-01 | AMB/LOC | controlli | sanzioni e reati ambientali | alta | sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026 | cap. 09 | teoria integrale verificata | caso Eco-Ripresa sviluppato | verbale + matrice fatto/prova/norma/esito | Q:6 C:1 E:1 | completo | eseguita 2026-08-13 | verificato; D.Lgs. 81/2026, riforma rifiuti, competenze territoriali e giurisprudenza da ricontrollare al text freeze |
 | N-TR04-10-01 | PC | protezione civile | Servizio nazionale e pianificazione | alta | sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026 | cap. 10 | teoria integrale verificata | caso Vallechiara sviluppato | piano sintetico + matrice scenario/azione/responsabile/risorsa/verifica | Q:6 C:1 E:1 | completo | eseguita 2026-08-14 | verificato; testo del Codice, disciplina regionale, indirizzi territoriali e dati operativi da ricontrollare al text freeze |
-| N-TR04-11-01 | PC | rischi | allertamento, IT-Alert, emergenze | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 11 | teoria assegnata | caso applicativo assegnato | briefing | Q:6 C:1 E:1 | completo | richiesta | dati mobili 2026 |
+| N-TR04-11-01 | PC | rischi | allertamento, IT-Alert, emergenze | alta | sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026 | cap. 11 | teoria integrale verificata | caso Vallechiara a due rami sviluppato | briefing operativo + matrice situazione/decisione/azione/verifica | Q:6 C:1 E:1 | completo | richiesta | copertura verificata; casi d'uso IT-alert, direttiva 2026, procedure regionali e dati operativi da ricontrollare al text freeze |
 | N-TR04-12-01 | EN | energia/clima | rinnovabili, CER, efficienza | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 12 | teoria assegnata | caso applicativo assegnato | piano energia | Q:6 C:1 E:1 | completo | richiesta | normativa mobile |
 | N-TR04-13-01 | EN/AMB | sostenibilità | DNSH, CAM, ciclo di vita | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 13 | teoria assegnata | caso applicativo assegnato | checklist | Q:6 C:1 E:1 | completo | richiesta | rinvio VOL-09 solo per procurement |
 | N-TR04-14-01 | tutti | prove | casi e quesiti sintetici | media | dossier + fonti capitoli 02-13 | cap. 14 | teoria assegnata | simulazione assegnata | simulazione | Q:6 C:1 E:1 | completo | richiesta | dipende dalla copertura |
@@ -176,3 +176,25 @@ Stato di copertura del piano: completo per assegnazione dei nuclei, fonti e outp
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
 |---|---|---|---|---|
 | N-TR04-10-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; sostituita la fonte generica con la source note ufficiale specifica; consolidati distinzione dei ruoli, sostenibilità del piano, inclusione, aggiornamento ed esercitazioni | completo verificato | sette nuclei oltre 600 parole, 5.600+ parole, caso guidato, Q:6, piano sintetico e matrice scenario/azione/responsabile/risorsa/verifica, frontmatter e riferimenti tracciabili |
+
+### Evidenze dimensionali — N-TR04-11-01
+
+| Dimensione | Esito | Evidenza nel capitolo 11 |
+|---|---|---|
+| Definizione | ✓ | `N-TR04-11-01`, `02`, `03` e `05`: pericolosità, esposizione, vulnerabilità, scenario, allertamento, criticità, allerta e sistema IT-alert |
+| Funzione | ✓ | `N-TR04-11-02`, `04` e `05`: trasformazione delle valutazioni in attivazione, raccordo tra allerta e azioni locali, allarme pubblico per l'autoprotezione |
+| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `02`, `05` e `06`: art. 17 del D.Lgs. n. 1/2018, direttive sull'allertamento e IT-alert, artt. 7, 24 e 25 sulla gestione dell'emergenza |
+| Elementi | ✓ | `N-TR04-11-01`, `03`, `05` e `06`: componenti dello scenario, campi dei prodotti, cell broadcast, limiti tecnici e struttura del briefing |
+| Distinzioni | ✓ | rischio/scenario; previsione/monitoraggio; criticità/allerta/fase operativa; allerta/IT-alert; attivazione immediata/stato di emergenza/ordinanza |
+| Conseguenze | ✓ | `N-TR04-11-04`/`05`/`06`: attivazione graduata, presidi e comunicazioni, gestione dei mancati recapiti, escalation, tracciabilità e aggiornamento |
+| Esempio/caso | ✓ | `N-TR04-11-07`: Vallechiara sviluppata nei rami allerta meteo-idrogeologica e incidente industriale con messaggio IT-alert |
+| Uso nella prova | ✓ | `Mappa BANDO`, domanda da commissario, domanda-trappola, mini-esercizio, checklist e briefing modello in dodici punti |
+| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sette nuclei |
+| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti a quattro opzioni e risposte commentate |
+| Tracciabilità | ✓ | Frontmatter con `source_refs`, `last_compiled_from` e dato operativo dichiarato; riferimenti normativi e professionali leggibili nel corpo e in chiusura |
+
+### Delta step 10 — capitolo 11
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-TR04-11-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; collegata la fonte ufficiale specifica; documentati scenario, allertamento, fasi operative, IT-alert, gestione dell'emergenza e briefing senza sostituire la teoria con caso o quiz | completo verificato | sette nuclei oltre 600 parole, 5.800+ parole, caso guidato a due rami, Q:6, briefing operativo, frontmatter e riferimenti tracciabili |

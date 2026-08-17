@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/planning/00-scheda-pipeline.md",
   "specHash": "sha256:9b1e66289415c3b991ef2d9cc52a2cd4e40830108670b2e20e1edbbf70340df5",
   "createdAt": "2026-08-07T14:01:35.080Z",
-  "updatedAt": "2026-08-17T19:36:09.256Z",
+  "updatedAt": "2026-08-17T19:44:38.317Z",
   "steps": [
     {
       "key": "00:VOL-11",
@@ -1534,9 +1534,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-17T19:39:04.743Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-17T19:43:24.047Z"
     },
     {
       "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
@@ -1544,9 +1554,13 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "in-progress",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-17T19:44:38.317Z"
     },
     {
       "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",

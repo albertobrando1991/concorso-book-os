@@ -1,0 +1,53 @@
+{
+  "volumeCode": "VOL-04",
+  "specPath": "books/vol-04-giustizia-upp/planning/00-scheda-pipeline.md",
+  "specHash": "sha256:cee1da75e2740c721e152832eec65e4907072f5b61eec5b962fbf31ca7d47737",
+  "createdAt": "2026-08-17T19:42:16.355Z",
+  "updatedAt": "2026-08-17T19:42:31.962Z",
+  "steps": [
+    {
+      "key": "21:VOL-04",
+      "id": "21",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-04",
+      "status": "in-progress",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-17T19:42:31.962Z"
+    },
+    {
+      "key": "22:VOL-04",
+      "id": "22",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-04",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "23:VOL-04",
+      "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-04",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "24:VOL-04",
+      "id": "24",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-04",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    }
+  ]
+}
