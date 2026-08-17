@@ -128,8 +128,8 @@
 - route: codex/chapter09-image-audit
 - l0: l0/conv-20260529182213-djvsvf.md
 - atoms:
-  - mem-20260529182213-16onnkx | workflow | Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate.
-  - mem-20260529182213-jo8qr4 | result | Esito codex/chapter09-image-audit: Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate. -> Rifiniti i master SVG/PNG del capitolo 9, in particolare figura 9.3 con barre e nota ampliate; aggiunto audit Playwright dei bounding box testuali negli SVG e controllo di impaginazione A4 per tutte le sei immagini.
+  - mem-20260529182213-16onnkx | workflow | Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate.
+  - mem-20260529182213-jo8qr4 | result | Esito codex/chapter09-image-audit: Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate. -> Rifiniti i master SVG/PNG del capitolo 9, in particolare figura 9.3 con barre e nota ampliate; aggiunto audit Playwright dei bounding box testuali negli SVG e controllo di impaginazione A4 per tutte le sei immagini.
 
 ## 2026-05-30T12:18:00+02:00 - manual-writer
 
@@ -771,9 +771,9 @@
 
 ## M-FC03 - Appendice D errori tipici nei bandi EPNE
 - Data: 2026-07-08
-- L'appendice deve funzionare come strumento di prevenzione degli errori di lettura del bando, non come repertorio astratto di irregolaritÃ  amministrative.
+- L'appendice deve funzionare come strumento di prevenzione degli errori di lettura del bando, non come repertorio astratto di irregolaritÃƒÂ  amministrative.
 - Mantenere sempre la distinzione tra portale di pubblicazione, gestore della procedura ed ente destinatario del profilo.
-- Per contenuti instabili, come prove, soglie, calendari, rettifiche e allegati, richiamare la verifica dell'avviso ufficiale piÃ¹ aggiornato.
+- Per contenuti instabili, come prove, soglie, calendari, rettifiche e allegati, richiamare la verifica dell'avviso ufficiale piÃƒÂ¹ aggiornato.
 ## M-FC03 - Appendice E rinvii ragionati
 - Data: 2026-07-08
 - Appendice E deve funzionare come routing del bando: M-FC03 resta principale per profili amministrativi/giuridici/economici/contabili/servizi/vigilanza non tecnica; ricerca, ICT puro, appalti-PNRR specialistici, agenzie fiscali e authority vanno rinviati ai moduli corretti.
@@ -912,8 +912,8 @@
 - route: codex/chapter09-image-audit
 - l0: l0/conv-20260529182213-djvsvf.md
 - atoms:
-  - mem-20260529182213-16onnkx | workflow | Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate.
-  - mem-20260529182213-jo8qr4 | result | Esito codex/chapter09-image-audit: Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perché i testi di alcune escono dai margini e non sono ottimizzate. -> Rifiniti i master SVG/PNG del capitolo 9, in particolare figura 9.3 con barre e nota ampliate; aggiunto audit Playwright dei bounding box testuali negli SVG e controllo di impaginazione A4 per tutte le sei immagini.
+  - mem-20260529182213-16onnkx | workflow | Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate.
+  - mem-20260529182213-jo8qr4 | result | Esito codex/chapter09-image-audit: Effettua un controllo capillare sulle immagini inserite all'interno del capitolo 9, perchÃ© i testi di alcune escono dai margini e non sono ottimizzate. -> Rifiniti i master SVG/PNG del capitolo 9, in particolare figura 9.3 con barre e nota ampliate; aggiunto audit Playwright dei bounding box testuali negli SVG e controllo di impaginazione A4 per tutte le sei immagini.
 
 ## 2026-05-30T12:18:00+02:00 - manual-writer
 
@@ -1650,7 +1650,7 @@
 - route: vol01-p1-surface-structure
 - l0: l0/conv-20260721112136-adr3zc.md
 - atoms:
-  - mem-20260721112136-t0xprf | result | Esito vol01-p1-surface-structure: Procedere con il secondo blocco della revisione professionale del Volume 1. -> Risolti E08 ed E13: le sezioni Note di review sono escluse dalla preview pubblica con test di regressione e le heading Sanità amministrativa sono uniformate.
+  - mem-20260721112136-t0xprf | result | Esito vol01-p1-surface-structure: Procedere con il secondo blocco della revisione professionale del Volume 1. -> Risolti E08 ed E13: le sezioni Note di review sono escluse dalla preview pubblica con test di regressione e le heading SanitÃ  amministrativa sono uniformate.
 
 ## 2026-07-21T11:36:02.046Z - editorial-reviewer
 
@@ -1726,7 +1726,7 @@
 - l0: l0/conv-20260723082451-ki8kz4.md
 - atoms:
   - mem-20260723082451-1cxr7t6 | workflow | continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude
-  - mem-20260723082451-1myqto7 | result | Esito vol-01-intervento-p10: continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude -> Verificato e formalizzato P10 sui Capitoli 12, 14 e 18: i collegamenti interni già inseriti sono coerenti, B-PA10 resta completo nella matrice; aperta la sola verifica psicometrica/metodologica umana.
+  - mem-20260723082451-1myqto7 | result | Esito vol-01-intervento-p10: continua la revisione professionale del volume 1 in base alla nuova matrice, da dove ci siamo fermati anche dopo il lavoro di Claude -> Verificato e formalizzato P10 sui Capitoli 12, 14 e 18: i collegamenti interni giÃ  inseriti sono coerenti, B-PA10 resta completo nella matrice; aperta la sola verifica psicometrica/metodologica umana.
 
 ## 2026-07-23T08:29:35.152Z - editorial-reviewer
 
@@ -2066,8 +2066,8 @@
 - route: codex/dashboard-essential-performance
 - l0: l0/conv-20260725145956-1lpsf9l.md
 - atoms:
-  - mem-20260725145956-yzalpc | workflow | Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione.
-  - mem-20260725145956-a7dw5x | result | Esito codex/dashboard-essential-performance: Alleggerire molto la dashboard sulle funzioni essenziali per praticità e velocità di esecuzione. -> Dashboard essenziale implementata con selezione testo, Studio, Writer e Revisione.
+  - mem-20260725145956-yzalpc | workflow | Alleggerire molto la dashboard sulle funzioni essenziali per praticitÃ  e velocitÃ  di esecuzione.
+  - mem-20260725145956-a7dw5x | result | Esito codex/dashboard-essential-performance: Alleggerire molto la dashboard sulle funzioni essenziali per praticitÃ  e velocitÃ  di esecuzione. -> Dashboard essenziale implementata con selezione testo, Studio, Writer e Revisione.
 
 ## 2026-07-25T15:08:09.350Z - concorso-book
 
@@ -2075,7 +2075,7 @@
 - route: codex/github-team-sync
 - l0: l0/conv-20260725150809-m7r0we.md
 - atoms:
-  - mem-20260725150809-1djo0lm | result | Esito codex/github-team-sync: Portare tutte le modifiche su GitHub preservando eventuali modifiche dello staff non ancora scaricate localmente. -> Prima del commit e del push è stato eseguito fetch di origin/main e verificata l'assenza di divergenze remote.
+  - mem-20260725150809-1djo0lm | result | Esito codex/github-team-sync: Portare tutte le modifiche su GitHub preservando eventuali modifiche dello staff non ancora scaricate localmente. -> Prima del commit e del push Ã¨ stato eseguito fetch di origin/main e verificata l'assenza di divergenze remote.
 
 ## 2026-07-25T16:47:36.445Z - book:il-metodo-bando:ricettario
 
@@ -2124,8 +2124,8 @@
 - route: codex/staff-editorial-prompts
 - l0: l0/conv-20260727125934-1xn4hyq.md
 - atoms:
-  - mem-20260727125934-rxrmvh | instruction | Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1.
-  - mem-20260727125934-bp4yxm | result | Esito codex/staff-editorial-prompts: Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilità usato sul Volume 1. -> Creato il template canonico wiki/templates/prompt-staff-revisione-completa-volumi.md con 25 prompt e 25 gate: presa in carico, raccolta e consolidamento contributi, riconciliazione catalogo, perimetro, bandi, fonti, m...
+  - mem-20260727125934-rxrmvh | instruction | Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilitÃ  usato sul Volume 1.
+  - mem-20260727125934-bp4yxm | result | Esito codex/staff-editorial-prompts: Servono i prompt in ordine cronologico da fornire allo staff per applicare a tutti i volumi il processo di completamento e pubblicabilitÃ  usato sul Volume 1. -> Creato il template canonico wiki/templates/prompt-staff-revisione-completa-volumi.md con 25 prompt e 25 gate: presa in carico, raccolta e consolidamento contributi, riconciliazione catalogo, perimetro, bandi, fonti, m...
 ## 2026-07-17T14:11:04.922Z - vol-02-editorial
 - conversation_id: conv-20260717141104-2ktu9q
 - route: codex-vol02-dossier-v4-source-ready-index
@@ -2318,6 +2318,602 @@
 - l0: l0/conv-20260727150827-hyd8z4.md
 - atoms:
   - mem-20260727150827-xvae26 | result | Esito codex/catalog-coherence-audit: Verificare la coerenza tra text-volumes.ts, architettura canonica, cartelle reali e frontmatter dei moduli; mantenere 12 volumi e 25 moduli; applicare solo correzioni catalogo non ambigue secondo la copertura v4. -> Audit completato: 25 cartelle modulo, 25 index e 54 capitoli coerenti.
+
+## 2026-07-28T18:02:46.305Z - concorso-book-os
+
+- conversation_id: conv-20260728180246-5fpiwu
+- route: codex-github-staff-sync-2026-07-28
+- l0: l0/conv-20260728180246-5fpiwu.md
+- atoms:
+  - mem-20260728180246-1skn11c | result | Esito codex-github-staff-sync-2026-07-28: Allineare il codice attuale a GitHub con le modifiche apportate dallo staff, preservando i contenuti giÃ  scritti dall'utente. -> Integrato origin/main nella branch mfc02-didactic-coverage-20260727 con merge conservativo.
+
+## 2026-07-28T19:58:13.453Z - VOL-08
+
+- conversation_id: conv-20260728195813-exipwn
+- route: codex-vol08-source-ready-pipeline
+- l0: l0/conv-20260728195813-exipwn.md
+- atoms:
+  - mem-20260728195813-19kzbwe | workflow | Analizzare il dossier M-TR01, consolidarlo come riferimento per VOL-08, creare indice completo e applicare la pipeline.
+  - mem-20260728195813-d35gcm | result | Esito codex-vol08-source-ready-pipeline: Analizzare il dossier M-TR01, consolidarlo come riferimento per VOL-08, creare indice completo e applicare la pipeline. -> Dossier acquisito con SHA-256 verificato; creati source note, topic, entity, volume VOL-08, indice in 5 parti, 13 schede capitolo e matrici.
+
+## 2026-07-28T19:58:21.262Z - concorso-book-os
+
+- conversation_id: conv-20260728195821-1dskd4y
+- route: codex-m-fc02-iva-adempimenti
+- l0: l0/conv-20260728195821-1dskd4y.md
+- atoms:
+  - mem-20260728195821-7higec | workflow | Regola globale: i capitoli dei manuali concorsuali devono garantire progressione logica, completezza teorica, definizioni funzionali, autonomia didattica, coerenza tra promessa e contenuto, esempi, casi e strumenti operativi.
+  - mem-20260728195821-lfckvc | instruction | Per IVA e adempimenti usare struttura stabile e dati mobili solo se verificati e datati.
+  - mem-20260728195821-1pc8nuu | result | Esito codex-m-fc02-iva-adempimenti: Regola globale: i capitoli dei manuali concorsuali devono garantire progressione logica, completezza teorica, definizioni funzionali, autonomia didattica, coerenza tra promessa e contenuto, esempi, casi e strumenti op... -> Blocco M-FC02 IVA e adempimenti completato: source ufficiali consolidate, capitoli 4 e 6 a Livello 3, matrice 80 nuclei con 66 completi e 14 blocker residui; modulo ancora non pubblicabile.
+
+## 2026-07-29T16:04:22.394Z - VOL-03
+
+- conversation_id: conv-20260729160422-6f9cxb
+- route: pipeline-step-11
+- l0: l0/conv-20260729160422-6f9cxb.md
+- atoms:
+  - mem-20260729160422-tx5t9u | workflow | Prosegui con il prossimo step della pipeline VOL-03.
+  - mem-20260729160422-wta566 | result | Esito pipeline-step-11: Prosegui con il prossimo step della pipeline VOL-03. -> Completato lo step 11 Humanizer del capitolo 04.
+
+## 2026-07-29T16:05:11.642Z - VOL-08
+
+- conversation_id: conv-20260729160511-1m8qd04
+- route: pipeline-step-10-chapter-01
+- l0: l0/conv-20260729160511-1m8qd04.md
+- atoms:
+  - mem-20260729160511-1tapsr9 | workflow | Prosegui con il prossimo step della pipeline VOL-08.
+  - mem-20260729160511-191wugy | result | Esito pipeline-step-10-chapter-01: Prosegui con il prossimo step della pipeline VOL-08. -> Completato step 10 sul capitolo 01: consolidato campione di sette procedure ufficiali ICT 2024-2026, sviluppato testo editoriale su profili, contesti, requisiti, materie, prove e Bando Decoder ICT; aggiornate le due r...
+
+## 2026-07-29T16:08:29.541Z - VOL-03
+
+- conversation_id: conv-20260729160829-3c9pf9
+- route: pipeline-step-12
+- l0: l0/conv-20260729160829-3c9pf9.md
+- atoms:
+  - mem-20260729160829-pu64wm | result | Esito pipeline-step-12: Prossimo step vai. -> Completato lo step 12 di revisione editoriale del capitolo 04.
+
+## 2026-07-29T16:10:39.999Z - VOL-08
+
+- conversation_id: conv-20260729161039-1kut2jl
+- route: pipeline-step-11-humanizer-chapter-01
+- l0: l0/conv-20260729161039-1kut2jl.md
+- atoms:
+  - mem-20260729161039-172g7ok | result | Esito pipeline-step-11-humanizer-chapter-01: Prosegui con il prossimo step della pipeline VOL-08. -> Completato step 11 Humanizer sul capitolo 01.
+
+## 2026-07-29T16:10:55.340Z - VOL-03
+
+- conversation_id: conv-20260729161055-1lt7ofe
+- route: pipeline-step-08-chapter-05
+- l0: l0/conv-20260729161055-1lt7ofe.md
+- atoms:
+  - mem-20260729161055-ytzu6e | result | Esito pipeline-step-08-chapter-05: Ok prossimo step. -> Completato il piano operativo del capitolo 05.
+
+## 2026-07-29T16:15:53.731Z - VOL-08
+
+- conversation_id: conv-20260729161553-qoaqvv
+- route: pipeline-step-12-review-chapter-01
+- l0: l0/conv-20260729161553-qoaqvv.md
+- atoms:
+  - mem-20260729161553-1t3mrni | workflow | Prosegui con il prossimo step della pipeline editoriale del Volume 08.
+  - mem-20260729161553-n1801k | result | Esito pipeline-step-12-review-chapter-01: Prosegui con il prossimo step della pipeline editoriale del Volume 08. -> Completato lo step 12 sul capitolo 01.
+
+## 2026-07-29T16:18:26.232Z - VOL-03
+
+- conversation_id: conv-20260729161826-1pv2b85
+- route: pipeline-step-09-chapter-05
+- l0: l0/conv-20260729161826-1pv2b85.md
+- atoms:
+  - mem-20260729161826-j0efcm | result | Esito pipeline-step-09-chapter-05: Prossimo step. -> Completato step 09 capitolo 05: sviluppati tutela funzionale e audit fiscale dal bilancio al controllo, aggiunti caso, output, quiz, checklist e rinvii; corretto mojibake in 14 righe; gate chapter-lint superato senza ...
+
+## 2026-07-29T16:22:10.545Z - VOL-08
+
+- conversation_id: conv-20260729162210-nqk2t0
+- route: pipeline-step-08-plan-chapter-02
+- l0: l0/conv-20260729162210-nqk2t0.md
+- atoms:
+  - mem-20260729162210-1e53z9f | workflow | Prossimo step della pipeline VOL-08.
+  - mem-20260729162210-apsnaj | result | Esito pipeline-step-08-plan-chapter-02: Prossimo step della pipeline VOL-08. -> Completato step 08 per il capitolo 02.
+
+## 2026-07-29T16:31:08.166Z - VOL-08
+
+- conversation_id: conv-20260729163108-1yfvgyj
+- route: pipeline-step-09-write-chapter-02
+- l0: l0/conv-20260729163108-1yfvgyj.md
+- atoms:
+  - mem-20260729163108-1fwz68p | result | Esito pipeline-step-09-write-chapter-02: Prosegui con il prossimo step della pipeline VOL-08. -> Completato step 09 sul capitolo 02.
+
+## 2026-07-29T16:37:58.392Z - VOL-08
+
+- conversation_id: conv-20260729163758-vyx8cm
+- route: pipeline-step-10-coverage-chapter-02
+- l0: l0/conv-20260729163758-vyx8cm.md
+- atoms:
+  - mem-20260729163758-1jdgc39 | workflow | Vai con il prossimo step della pipeline VOL-08.
+  - mem-20260729163758-lhp5k | result | Esito pipeline-step-10-coverage-chapter-02: Vai con il prossimo step della pipeline VOL-08. -> Completato step 10 sul capitolo 02.
+
+## 2026-07-29T16:41:53.649Z - VOL-08
+
+- conversation_id: conv-20260729164153-14vjxic
+- route: pipeline-step-11-humanizer-chapter-02
+- l0: l0/conv-20260729164153-14vjxic.md
+- atoms:
+  - mem-20260729164153-75gld5 | workflow | Procedi con il prossimo step della pipeline VOL-08.
+  - mem-20260729164153-j7uu5o | result | Esito pipeline-step-11-humanizer-chapter-02: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 11 Humanizer sul capitolo 02.
+
+## 2026-07-29T16:43:31.045Z - VOL-10
+
+- conversation_id: conv-20260729164331-irilxe
+- route: codex-vol10-source-ready-pipeline
+- l0: l0/conv-20260729164331-irilxe.md
+- atoms:
+  - mem-20260729164331-fy9exk | workflow | Analizzare il dossier VOL-10, consolidarlo come riferimento, creare indice completo per moduli e applicare la pipeline.
+  - mem-20260729164331-1aaubaw | result | Esito codex-vol10-source-ready-pipeline: Analizzare il dossier VOL-10, consolidarlo come riferimento, creare indice completo per moduli e applicare la pipeline. -> Dossier acquisito con SHA-256 verificato; creati source note, topic, volume VOL-10 monomodulo M-TR03, indice in cinque parti, matrici e scheda pipeline.
+
+## 2026-07-29T16:43:53.888Z - VOL-08
+
+- conversation_id: conv-20260729164353-1v3r2hs
+- route: pipeline-step-12-review-chapter-02
+- l0: l0/conv-20260729164353-1v3r2hs.md
+- atoms:
+  - mem-20260729164353-19javk6 | result | Esito pipeline-step-12-review-chapter-02: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 12 revisione editoriale totale del capitolo 02.
+
+## 2026-07-29T16:46:52.390Z - VOL-08
+
+- conversation_id: conv-20260729164652-1ej4yp9
+- route: pipeline-step-08-plan-chapter-03
+- l0: l0/conv-20260729164652-1ej4yp9.md
+- atoms:
+  - mem-20260729164652-9n2tdk | result | Esito pipeline-step-08-plan-chapter-03: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 08 per il capitolo 03.
+
+## 2026-07-29T16:51:20.671Z - VOL-08
+
+- conversation_id: conv-20260729165120-1bzoif
+- route: pipeline-step-09-write-chapter-03
+- l0: l0/conv-20260729165120-1bzoif.md
+- atoms:
+  - mem-20260729165120-10yutkw | result | Esito pipeline-step-09-write-chapter-03: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 09 sul capitolo 03.
+
+## 2026-07-29T16:52:44.223Z - VOL-08
+
+- conversation_id: conv-20260729165244-udzgkt
+- route: pipeline-step-10-coverage-chapter-03
+- l0: l0/conv-20260729165244-udzgkt.md
+- atoms:
+  - mem-20260729165244-14eff12 | result | Esito pipeline-step-10-coverage-chapter-03: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 10 sul capitolo 03.
+
+## 2026-07-29T16:55:35.914Z - VOL-08
+
+- conversation_id: conv-20260729165535-4i0y9x
+- route: pipeline-step-11-humanizer-chapter-03
+- l0: l0/conv-20260729165535-4i0y9x.md
+- atoms:
+  - mem-20260729165535-er2gz9 | result | Esito pipeline-step-11-humanizer-chapter-03: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 11 sul capitolo 03.
+
+## 2026-07-29T16:58:15.020Z - VOL-08
+
+- conversation_id: conv-20260729165815-1nh867r
+- route: pipeline-step-12-review-chapter-03
+- l0: l0/conv-20260729165815-1nh867r.md
+- atoms:
+  - mem-20260729165815-bw3v3o | result | Esito pipeline-step-12-review-chapter-03: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 12, revisione editoriale totale del capitolo 03.
+
+## 2026-07-29T16:59:42.836Z - VOL-10
+
+- conversation_id: conv-20260729165942-lp2l01
+- route: codex-vol10-pipeline-progress
+- l0: l0/conv-20260729165942-lp2l01.md
+- atoms:
+  - mem-20260729165942-oct8ih | workflow | Procedi con la pipeline VOL-10.
+  - mem-20260729165942-qix1i9 | result | Esito codex-vol10-pipeline-progress: Procedi con la pipeline VOL-10. -> Consolidato campione di 6 bandi ufficiali inPA; completato ciclo C dei capitoli 01 e 02; piano capitolo 03 completato.
+
+## 2026-07-29T17:02:28.945Z - VOL-08
+
+- conversation_id: conv-20260729170228-dm4guw
+- route: pipeline-step-08-plan-chapter-04
+- l0: l0/conv-20260729170228-dm4guw.md
+- atoms:
+  - mem-20260729170228-1oyaot6 | result | Esito pipeline-step-08-plan-chapter-04: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 08 del capitolo 04.
+
+## 2026-07-29T17:03:33.941Z - VOL-10
+
+- conversation_id: conv-20260729170333-1nbgo27
+- route: codex-vol10-cap03-step09
+- l0: l0/conv-20260729170333-1nbgo27.md
+- atoms:
+  - mem-20260729170333-1cf3pm0 | result | Esito codex-vol10-cap03-step09: Procedi con il prossimo step. -> Acquisite e consolidate fonti universitarie ufficiali su scienza delle costruzioni; creati source note e topic; scritto capitolo 03; step 09 superato con chapter-lint pulito.
+
+## 2026-07-29T17:07:37.373Z - VOL-08
+
+- conversation_id: conv-20260729170737-1dfnrhx
+- route: pipeline-step-09-write-chapter-04
+- l0: l0/conv-20260729170737-1dfnrhx.md
+- atoms:
+  - mem-20260729170737-194j3v4 | result | Esito pipeline-step-09-write-chapter-04: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 09 del capitolo 04.
+
+## 2026-07-29T17:09:18.574Z - VOL-08
+
+- conversation_id: conv-20260729170918-novkup
+- route: pipeline-step-10-coverage-chapter-04
+- l0: l0/conv-20260729170918-novkup.md
+- atoms:
+  - mem-20260729170918-1b4l296 | result | Esito pipeline-step-10-coverage-chapter-04: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 10 del capitolo 04.
+
+## 2026-07-29T17:12:44.395Z - VOL-08
+
+- conversation_id: conv-20260729171244-bsers3
+- route: pipeline-step-11-humanizer-chapter-04
+- l0: l0/conv-20260729171244-bsers3.md
+- atoms:
+  - mem-20260729171244-1s0try7 | result | Esito pipeline-step-11-humanizer-chapter-04: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 11 Humanizer sul capitolo 04 con doppia passata.
+
+## 2026-07-29T17:14:17.253Z - VOL-08
+
+- conversation_id: conv-20260729171417-bgguew
+- route: pipeline-step-12-review-chapter-04
+- l0: l0/conv-20260729171417-bgguew.md
+- atoms:
+  - mem-20260729171417-ehb250 | result | Esito pipeline-step-12-review-chapter-04: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 12 revisione editoriale totale del capitolo 04.
+
+## 2026-07-29T17:16:59.983Z - VOL-08
+
+- conversation_id: conv-20260729171659-1mf9k5q
+- route: pipeline-step-08-plan-chapter-05
+- l0: l0/conv-20260729171659-1mf9k5q.md
+- atoms:
+  - mem-20260729171659-17n4w9 | result | Esito pipeline-step-08-plan-chapter-05: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 08 del capitolo 05.
+
+## 2026-07-29T17:23:35.946Z - VOL-08
+
+- conversation_id: conv-20260729172335-1x2vp4r
+- route: pipeline-step-09-write-chapter-05
+- l0: l0/conv-20260729172335-1x2vp4r.md
+- atoms:
+  - mem-20260729172335-awo0xm | result | Esito pipeline-step-09-write-chapter-05: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 09 capitolo 05.
+
+## 2026-07-29T17:25:34.374Z - VOL-08
+
+- conversation_id: conv-20260729172534-dqhdt1
+- route: pipeline-step-10-coverage-chapter-05
+- l0: l0/conv-20260729172534-dqhdt1.md
+- atoms:
+  - mem-20260729172534-8ynq6r | result | Esito pipeline-step-10-coverage-chapter-05: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 10 capitolo 05.
+
+## 2026-07-29T17:26:22.226Z - VOL-03
+
+- conversation_id: conv-20260729172622-1aeolnl
+- route: pipeline-step-10-chapter-05
+- l0: l0/conv-20260729172622-1aeolnl.md
+- atoms:
+  - mem-20260729172622-vxza4k | result | Esito pipeline-step-10-chapter-05: Prossimo step ok. -> Step 10 capitolo 05 completato.
+
+## 2026-07-29T17:31:35.227Z - VOL-03
+
+- conversation_id: conv-20260729173135-jugi9b
+- route: pipeline-step-11-chapter-05
+- l0: l0/conv-20260729173135-jugi9b.md
+- atoms:
+  - mem-20260729173135-1m6ipoy | result | Esito pipeline-step-11-chapter-05: Procedi con il prossimo step. -> Completato step 11 Humanizer capitolo 05.
+
+## 2026-07-29T17:32:22.872Z - VOL-08
+
+- conversation_id: conv-20260729173222-9xq6i5
+- route: pipeline-step-11-humanizer-chapter-05
+- l0: l0/conv-20260729173222-9xq6i5.md
+- atoms:
+  - mem-20260729173222-1ilaw67 | result | Esito pipeline-step-11-humanizer-chapter-05: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 11 Humanizer sul capitolo 05 con doppia passata.
+
+## 2026-07-29T17:37:31.781Z - VOL-03
+
+- conversation_id: conv-20260729173731-52d6rp
+- route: pipeline-step-12-chapter-05
+- l0: l0/conv-20260729173731-52d6rp.md
+- atoms:
+  - mem-20260729173731-rlx9kx | result | Esito pipeline-step-12-chapter-05: Procedi con il prossimo step. -> Completato step 12 Revisione editoriale totale capitolo 05.
+
+## 2026-07-29T17:37:54.723Z - VOL-08
+
+- conversation_id: conv-20260729173754-gxnqku
+- route: pipeline-step-12-review-chapter-05
+- l0: l0/conv-20260729173754-gxnqku.md
+- atoms:
+  - mem-20260729173754-a6pzn8 | result | Esito pipeline-step-12-review-chapter-05: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 12 di revisione editoriale totale del capitolo 05.
+
+## 2026-07-29T17:43:03.199Z - VOL-03
+
+- conversation_id: conv-20260729174303-avv0fx
+- route: pipeline-step-08-chapter-05a
+- l0: l0/conv-20260729174303-avv0fx.md
+- atoms:
+  - mem-20260729174303-1howxe2 | result | Esito pipeline-step-08-chapter-05a: Procedi con il prossimo step. -> Completato step 08 piano operativo capitolo 05A.
+
+## 2026-07-29T17:43:05.333Z - VOL-08
+
+- conversation_id: conv-20260729174305-4faxu
+- route: pipeline-step-08-plan-chapter-06
+- l0: l0/conv-20260729174305-4faxu.md
+- atoms:
+  - mem-20260729174305-184grnu | result | Esito pipeline-step-08-plan-chapter-06: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 08 del capitolo 06.
+
+## 2026-07-29T17:46:27.749Z - VOL-10
+
+- conversation_id: conv-20260729174627-1eko29q
+- route: codex-vol10-cap05-step10
+- l0: l0/conv-20260729174627-1eko29q.md
+- atoms:
+  - mem-20260729174627-1y2wnqo | workflow | Procedi con il prossimo step della pipeline VOL-10.
+  - mem-20260729174627-1vb0t1b | result | Esito codex-vol10-cap05-step10: Procedi con il prossimo step della pipeline VOL-10. -> Controllata la copertura reale del capitolo 05 Urbanistica e governo del territorio; aggiornate matrice e delta; step 10 superato senza blocker o warning; prossimo step 11.
+
+## 2026-07-29T17:49:25.321Z - VOL-08
+
+- conversation_id: conv-20260729174925-1a19ekk
+- route: pipeline-step-09-write-chapter-06
+- l0: l0/conv-20260729174925-1a19ekk.md
+- atoms:
+  - mem-20260729174925-6mwdc4 | result | Esito pipeline-step-09-write-chapter-06: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 09 sul capitolo 06.
+
+## 2026-07-29T17:50:01.694Z - VOL-10
+
+- conversation_id: conv-20260729175001-17wcv3j
+- route: codex-vol10-cap05-step11
+- l0: l0/conv-20260729175001-17wcv3j.md
+- atoms:
+  - mem-20260729175001-1tswp9p | result | Esito codex-vol10-cap05-step11: Procedi con il prossimo step della pipeline VOL-10. -> Applicata doppia passata Humanizer al capitolo 05 con otto revisioni stilistiche mirate; significato, struttura, norme, source_refs e wikilink preservati; citation-guard superato senza blocker o warning; prossimo step...
+
+## 2026-07-29T17:50:04.990Z - VOL-03
+
+- conversation_id: conv-20260729175004-15j872r
+- route: pipeline-step-09-chapter-05a
+- l0: l0/conv-20260729175004-15j872r.md
+- atoms:
+  - mem-20260729175004-14uqv0b | result | Esito pipeline-step-09-chapter-05a: Procedi con il prossimo step. -> Completato step 09 capitolo 05A con intervento conservativo: aggiunti presidio temporale 2026/2027, griglia su data-fonte-decorrenza-regime transitorio-favor rei, sequenza per risposta orale, fonte processuale e racco...
+
+## 2026-07-29T17:52:17.943Z - VOL-08
+
+- conversation_id: conv-20260729175217-138dlcf
+- route: pipeline-step-10-coverage-chapter-06
+- l0: l0/conv-20260729175217-138dlcf.md
+- atoms:
+  - mem-20260729175217-1qet4zm | result | Esito pipeline-step-10-coverage-chapter-06: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 10 sul capitolo 06.
+
+## 2026-07-29T17:53:51.646Z - VOL-10
+
+- conversation_id: conv-20260729175351-9g0wq0
+- route: codex-vol10-cap05-step12
+- l0: l0/conv-20260729175351-9g0wq0.md
+- atoms:
+  - mem-20260729175351-zmvyex | result | Esito codex-vol10-cap05-step12: Procedi con il prossimo step della pipeline VOL-10. -> Completata revisione editoriale totale del capitolo 05; creato report a template fisso; corretto wikilink fonte DPR 327 nella matrice; gate review-report superato con tre warning non bloccanti su rinvio interno e veri...
+
+## 2026-07-29T17:55:06.747Z - VOL-03
+
+- conversation_id: conv-20260729175506-1sstk1
+- route: pipeline-step-10-chapter-05a
+- l0: l0/conv-20260729175506-1sstk1.md
+- atoms:
+  - mem-20260729175506-1g9fo5m | result | Esito pipeline-step-10-chapter-05a: Procedi con il prossimo step. -> Completato step 10 copertura didattica capitolo 05A.
+
+## 2026-07-29T17:56:08.489Z - VOL-08
+
+- conversation_id: conv-20260729175608-1btsb92
+- route: pipeline-step-11-humanizer-chapter-06
+- l0: l0/conv-20260729175608-1btsb92.md
+- atoms:
+  - mem-20260729175608-oxx3r6 | result | Esito pipeline-step-11-humanizer-chapter-06: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 11 Humanizer sul capitolo 06 con doppia passata.
+
+## 2026-07-29T17:59:59.220Z - VOL-08
+
+- conversation_id: conv-20260729175959-6joh78
+- route: pipeline-step-12-review-chapter-06
+- l0: l0/conv-20260729175959-6joh78.md
+- atoms:
+  - mem-20260729175959-oj1hhj | result | Esito pipeline-step-12-review-chapter-06: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 12 di revisione editoriale totale del capitolo 06.
+
+## 2026-07-29T18:00:02.602Z - VOL-10
+
+- conversation_id: conv-20260729180002-t5yr9a
+- route: codex-vol10-cap06-step08
+- l0: l0/conv-20260729180002-t5yr9a.md
+- atoms:
+  - mem-20260729180002-1vsi283 | result | Esito codex-vol10-cap06-step08: Procedi con il prossimo step della pipeline VOL-10. -> Creato piano operativo del capitolo 06 su edilizia privata, SUE, titoli, agibilitÃ  e vigilanza; identificate fonti ufficiali bloccanti e rinvii; gate chapter-plan non implementato verificato e accettato manualmente co...
+
+## 2026-07-29T18:01:41.403Z - VOL-03
+
+- conversation_id: conv-20260729180141-iuut1n
+- route: pipeline-step-11-chapter-05a
+- l0: l0/conv-20260729180141-iuut1n.md
+- atoms:
+  - mem-20260729180141-1evynch | result | Esito pipeline-step-11-chapter-05a: Procedi con il prossimo step. -> Completato step 11 Humanizer capitolo 05A.
+
+## 2026-07-29T18:03:28.529Z - VOL-03
+
+- conversation_id: conv-20260729180328-471hpj
+- route: pipeline-step-12-chapter-05a
+- l0: l0/conv-20260729180328-471hpj.md
+- atoms:
+  - mem-20260729180328-1qye540 | result | Esito pipeline-step-12-chapter-05a: Procedi con il prossimo step. -> Completato step 12 Revisione editoriale totale capitolo 05A.
+
+## 2026-07-29T18:03:43.879Z - VOL-10
+
+- conversation_id: conv-20260729180343-yoyqvl
+- route: codex-vol10-cap06-step09
+- l0: l0/conv-20260729180343-yoyqvl.md
+- atoms:
+  - mem-20260729180343-10tf1qh | result | Esito codex-vol10-cap06-step09: Procedi con il prossimo step della pipeline VOL-10. -> Consolidate fonti ufficiali vigenti su edilizia, creati source note e topic, scritto capitolo 06 su categorie, regimi, SUE, stato legittimo, agibilitÃ , vigilanza e abusi; chapter-lint superato senza warning; prossimo ...
+
+## 2026-07-29T18:04:21.326Z - VOL-08
+
+- conversation_id: conv-20260729180421-1gtiklh
+- route: pipeline-step-08-plan-chapter-07
+- l0: l0/conv-20260729180421-1gtiklh.md
+- atoms:
+  - mem-20260729180421-irnq1b | result | Esito pipeline-step-08-plan-chapter-07: Procedi con il prossimo step della pipeline VOL-08. -> Completato lo step 08 per il capitolo 07.
+
+## 2026-07-29T18:05:41.300Z - VOL-10
+
+- conversation_id: conv-20260729180541-s4u6zv
+- route: codex-vol10-cap06-step10
+- l0: l0/conv-20260729180541-s4u6zv.md
+- atoms:
+  - mem-20260729180541-luxacm | result | Esito codex-vol10-cap06-step10: Procedi con il prossimo step della pipeline VOL-10. -> Verificata la copertura reale del capitolo 06 Edilizia, SUE e vigilanza; aggiornate matrice e delta; step 10 superato senza blocker o warning; prossimo step 11.
+
+## 2026-07-29T18:07:42.823Z - VOL-10
+
+- conversation_id: conv-20260729180742-16umwkl
+- route: codex-vol10-cap06-step11
+- l0: l0/conv-20260729180742-16umwkl.md
+- atoms:
+  - mem-20260729180742-rymocj | result | Esito codex-vol10-cap06-step11: Procedi con il prossimo step della pipeline VOL-10. -> Applicata doppia passata Humanizer al capitolo 06 con otto revisioni stilistiche mirate; significato, struttura, norme, source_refs e wikilink preservati; citation-guard superato senza blocker o warning; prossimo step...
+
+## 2026-07-29T18:07:53.944Z - VOL-03
+
+- conversation_id: conv-20260729180753-84rkv0
+- route: pipeline-step-08-chapter-05b
+- l0: l0/conv-20260729180753-84rkv0.md
+- atoms:
+  - mem-20260729180753-1gzi1z3 | result | Esito pipeline-step-08-chapter-05b: Procedi con il prossimo step. -> Completato lo step 08 per il capitolo 05B: piano operativo verificato e gate chapter-plan chiuso con accettazione manuale motivata.
+
+## 2026-07-29T18:09:35.717Z - VOL-10
+
+- conversation_id: conv-20260729180935-1t545ck
+- route: codex-vol10-cap06-step12
+- l0: l0/conv-20260729180935-1t545ck.md
+- atoms:
+  - mem-20260729180935-1sgise3 | result | Esito codex-vol10-cap06-step12: Procedi con il prossimo step della pipeline VOL-10. -> Completata revisione editoriale totale del capitolo 06; creato report a template fisso; matrice confermata completa; gate review-report superato con quattro warning non bloccanti su verifiche normative, griglia, varia...
+
+## 2026-07-29T18:16:12.744Z - VOL-10
+
+- conversation_id: conv-20260729181612-8hi7bs
+- route: codex-vol10-cap07-step08
+- l0: l0/conv-20260729181612-8hi7bs.md
+- atoms:
+  - mem-20260729181612-w05ahe | result | Esito codex-vol10-cap07-step08: Procedi con il prossimo step della pipeline VOL-10. -> Creato il piano operativo del capitolo 07 sulla progettazione delle opere pubbliche; definite catena decisionale, struttura, budget, casi, fonti ufficiali bloccanti e review; gate chapter-plan non implementato verific...
+
+## 2026-07-29T18:17:56.361Z - VOL-08
+
+- conversation_id: conv-20260729181756-1w4tmf7
+- route: pipeline-step-09-write-chapter-07
+- l0: l0/conv-20260729181756-1w4tmf7.md
+- atoms:
+  - mem-20260729181756-14kor17 | result | Esito pipeline-step-09-write-chapter-07: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 09 capitolo 07: scritto capitolo reader-facing su cloud PA, virtualizzazione, container, DevOps, osservabilita, backup, RPO/RTO, disaster recovery e continuita; aggiunta source note primaria; chapter-l...
+
+## 2026-07-29T18:19:52.926Z - VOL-03
+
+- conversation_id: conv-20260729181952-nszo7g
+- route: pipeline-step-09-chapter-05b
+- l0: l0/conv-20260729181952-nszo7g.md
+- atoms:
+  - mem-20260729181952-awxwl7 | result | Esito pipeline-step-09-chapter-05b: Procedi con il prossimo step. -> Completato step 09 capitolo 05B.
+
+## 2026-07-29T18:20:55.556Z - VOL-08
+
+- conversation_id: conv-20260729182055-1w8o5c5
+- route: pipeline-step-10-coverage-chapter-07
+- l0: l0/conv-20260729182055-1w8o5c5.md
+- atoms:
+  - mem-20260729182055-18jqpd2 | result | Esito pipeline-step-10-coverage-chapter-07: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 10 capitolo 07: verificati cinque nuclei su modelli cloud, virtualizzazione/container, Cloud PA e migrazione, DevOps/osservabilita, resilienza/backup/DR/BC; matrice aggiornata da parziale a completo co...
+
+## 2026-07-29T18:22:13.270Z - VOL-10
+
+- conversation_id: conv-20260729182213-orurzc
+- route: codex-vol10-cap07-step09
+- l0: l0/conv-20260729182213-orurzc.md
+- atoms:
+  - mem-20260729182213-1avcjo6 | result | Esito codex-vol10-cap07-step09: prossimo step? -> Completato step 09 del capitolo 07: consolidata fonte specialistica ufficiale e topic sulla progettazione delle opere pubbliche; redatto capitolo completo su quadro esigenziale, DIP, PFTE, progetto esecutivo, soggetti...
+
+## 2026-07-29T18:27:24.108Z - VOL-03
+
+- conversation_id: conv-20260729182724-1k8hqbc
+- route: pipeline-step-10-chapter-05b
+- l0: l0/conv-20260729182724-1k8hqbc.md
+- atoms:
+  - mem-20260729182724-ittbr8 | result | Esito pipeline-step-10-chapter-05b: Procedi con il prossimo step. -> Completato step 10 copertura capitolo 05B.
+
+## 2026-07-29T18:30:40.872Z - VOL-08
+
+- conversation_id: conv-20260729183040-14n327r
+- route: pipeline-step-11-humanizer-chapter-07
+- l0: l0/conv-20260729183040-14n327r.md
+- atoms:
+  - mem-20260729183040-dh66o4 | result | Esito pipeline-step-11-humanizer-chapter-07: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 11 Humanizer capitolo 07 con doppia passata: migliorati apertura, ritmo, parallelismi e formule meccaniche; significato, struttura, fonti, wikilink, casi e quiz invariati; citation-guard superato senza...
+
+## 2026-07-29T18:30:53.034Z - VOL-10
+
+- conversation_id: conv-20260729183053-1y1avr0
+- route: codex-vol10-cap07-step10
+- l0: l0/conv-20260729183053-1y1avr0.md
+- atoms:
+  - mem-20260729183053-re8rn | result | Esito codex-vol10-cap07-step10: Procedi con il prossimo step -> Verificata la copertura reale del capitolo 07 sulla progettazione delle opere pubbliche; aggiornata la matrice a completo e creato delta con evidenze puntuali; gate coverage superato senza blocker o warning; prossimo ...
+
+## 2026-07-29T18:31:39.725Z - VOL-03
+
+- conversation_id: conv-20260729183139-5k86ap
+- route: pipeline-step-11-chapter-05b
+- l0: l0/conv-20260729183139-5k86ap.md
+- atoms:
+  - mem-20260729183139-1nx990m | result | Esito pipeline-step-11-chapter-05b: Procedi con il prossimo step. -> Completato step 11 Humanizer capitolo 05B.
+
+## 2026-07-29T18:32:37.396Z - VOL-08
+
+- conversation_id: conv-20260729183237-15bluv0
+- route: pipeline-step-12-review-chapter-07
+- l0: l0/conv-20260729183237-15bluv0.md
+- atoms:
+  - mem-20260729183237-ddy3uc | result | Esito pipeline-step-12-review-chapter-07: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 12 revisione editoriale totale capitolo 07: report a template fisso, nessun errore grave o lacuna di copertura, matrice confermata completa; giudizio pubblicabile dopo intervento medio; gate review-rep...
+
+## 2026-07-29T18:33:33.767Z - VOL-03
+
+- conversation_id: conv-20260729183333-174l1kz
+- route: pipeline-step-12-chapter-05b
+- l0: l0/conv-20260729183333-174l1kz.md
+- atoms:
+  - mem-20260729183333-1ijcd5d | result | Esito pipeline-step-12-chapter-05b: Procedi con il prossimo step. -> Completato step 12 Revisione Editoriale Totale capitolo 05B.
+
+## 2026-07-29T18:35:06.430Z - VOL-10
+
+- conversation_id: conv-20260729183506-8vl9k1
+- route: codex-vol10-cap07-step11
+- l0: l0/conv-20260729183506-8vl9k1.md
+- atoms:
+  - mem-20260729183506-dpq4wh | result | Esito codex-vol10-cap07-step11: Procedi con il prossimo step -> Applicata doppia passata Humanizer al capitolo 07 con sette revisioni stilistiche mirate; significato, struttura, riferimenti normativi, source_refs e wikilink preservati; citation-guard superato senza blocker o warni...
+
+## 2026-07-29T18:40:27.893Z - VOL-08
+
+- conversation_id: conv-20260729184027-1c0dvkl
+- route: pipeline-step-08-plan-chapter-08
+- l0: l0/conv-20260729184027-1c0dvkl.md
+- atoms:
+  - mem-20260729184027-d9k72n | result | Esito pipeline-step-08-plan-chapter-08: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 08 capitolo 08: creato piano su asset, minacce, vulnerabilita, risk assessment, controlli, threat modeling, vulnerability management, secure SDLC e supply chain; definiti confini, fonti, review, H1-H3 ...
+
+## 2026-07-29T18:41:25.361Z - VOL-10
+
+- conversation_id: conv-20260729184125-1qlyf6o
+- route: codex-vol10-cap07-step12
+- l0: l0/conv-20260729184125-1qlyf6o.md
+- atoms:
+  - mem-20260729184125-1yt46oa | result | Esito codex-vol10-cap07-step12: Procedi con il prossimo step -> Completata revisione editoriale totale del capitolo 07; creato report nel template fisso; matrice confermata completa; gate review-report superato con quattro warning non bloccanti su vigenza degli allegati, verificat...
+
+## 2026-07-29T18:42:36.794Z - VOL-03
+
+- conversation_id: conv-20260729184236-1vkuvgf
+- route: pipeline-step-08-chapter-06
+- l0: l0/conv-20260729184236-1vkuvgf.md
+- atoms:
+  - mem-20260729184236-ov7mol | result | Esito pipeline-step-08-chapter-06: Procedi con il prossimo step. -> Completato step 08 piano operativo capitolo 06.
+
+## 2026-07-29T19:19:51.751Z - VOL-10
+
+- conversation_id: conv-20260729191951-1kprg5c
+- route: codex-vol10-cap08-step08
+- l0: l0/conv-20260729191951-1kprg5c.md
+- atoms:
+  - mem-20260729191951-1jam4rb | result | Esito codex-vol10-cap08-step08: Procedi con il prossimo step -> Creato piano operativo del capitolo 08 su direzione lavori, esecuzione e cantieri; scelta architettura per sequenza operativa; definite fonti ufficiali bloccanti, confini, casi, review e budget; gate chapter-plan non ...
+
+## 2026-07-29T19:24:20.787Z - VOL-08
+
+- conversation_id: conv-20260729192420-1merphd
+- route: pipeline-step-09-write-chapter-08
+- l0: l0/conv-20260729192420-1merphd.md
+- atoms:
+  - mem-20260729192420-nsfdoy | result | Esito pipeline-step-09-write-chapter-08: Procedi con il prossimo step della pipeline VOL-08. -> Completato step 09 capitolo 08: scritto capitolo reader-facing su cyber risk, controlli, threat modeling, vulnerability management, secure SDLC e software supply chain; aggiunta source note primaria NIST/OWASP/CVE/CWE...
 ## 2026-07-21T11:56:35.747Z - catalog-dashboard
 
 - conversation_id: conv-20260721115635-u32f8m
@@ -2459,7 +3055,7 @@
 - route: codex-vol-05-source-ready-outline
 - l0: l0/conv-20260724151143-18kb70u.md
 - atoms:
-  - mem-20260724151143-ntegsl | result | Esito codex-vol-05-source-ready-outline: Analizzare il dossier VOL-05, acquisire fonti ufficiali e creare indice dettagliato del volume con front matter solo iniziale e frontespizio più sommario per ogni modulo interno. -> Creato VOL-05 source-ready: 11 documenti raw ufficiali, source notes, topic ed entity pages, indice analitico in cinque moduli e audit con gap normativi espliciti.
+  - mem-20260724151143-ntegsl | result | Esito codex-vol-05-source-ready-outline: Analizzare il dossier VOL-05, acquisire fonti ufficiali e creare indice dettagliato del volume con front matter solo iniziale e frontespizio piÃ¹ sommario per ogni modulo interno. -> Creato VOL-05 source-ready: 11 documenti raw ufficiali, source notes, topic ed entity pages, indice analitico in cinque moduli e audit con gap normativi espliciti.
 
 ## 2026-07-24T16:13:24.483Z - global
 
@@ -2494,8 +3090,8 @@
 - route: codex/editorial/m-fc05/chapter-03
 - l0: l0/conv-20260724165151-1ml0r99.md
 - atoms:
-  - mem-20260724165151-liz7z5 | workflow | Scrivi professionalmente il capitolo M-FC05 3: Regolazione europea multilivello e reti delle autorità.
-  - mem-20260724165151-vf61or | result | Esito codex/editorial/m-fc05/chapter-03: Scrivi professionalmente il capitolo M-FC05 3: Regolazione europea multilivello e reti delle autorità. -> Redatto il Capitolo 3 M-FC05 in forma professionale: 2.730 parole, schema operativo, distinzione fra fonti UE e competenze, reti ECN/BEREC/ACER/ESFS/EDPB, Mappa BANDO, caso privacy transfrontaliero, risposta orale, do...
+  - mem-20260724165151-liz7z5 | workflow | Scrivi professionalmente il capitolo M-FC05 3: Regolazione europea multilivello e reti delle autoritÃ .
+  - mem-20260724165151-vf61or | result | Esito codex/editorial/m-fc05/chapter-03: Scrivi professionalmente il capitolo M-FC05 3: Regolazione europea multilivello e reti delle autoritÃ . -> Redatto il Capitolo 3 M-FC05 in forma professionale: 2.730 parole, schema operativo, distinzione fra fonti UE e competenze, reti ECN/BEREC/ACER/ESFS/EDPB, Mappa BANDO, caso privacy transfrontaliero, risposta orale, do...
 
 ## 2026-07-24T17:01:34.094Z - concorso-book-os
 
@@ -2513,7 +3109,7 @@
 - l0: l0/conv-20260724170954-15u0fy0.md
 - atoms:
   - mem-20260724170954-9ptzjb | workflow | Scrivi professionalmente il capitolo M-FC05 5: Vigilanza, istruttoria, ispezioni, dati e prova.
-  - mem-20260724170954-1pc2ypi | result | Esito codex/editorial/m-fc05/chapter-05: Scrivi professionalmente il capitolo M-FC05 5: Vigilanza, istruttoria, ispezioni, dati e prova. -> Redatto il Capitolo 5 M-FC05 in forma professionale: vigilanza, piano istruttorio, ispezioni, qualità di dati e documenti, contraddittorio, Mappa BANDO, caso guidato, risposta orale ed esercizio.
+  - mem-20260724170954-1pc2ypi | result | Esito codex/editorial/m-fc05/chapter-05: Scrivi professionalmente il capitolo M-FC05 5: Vigilanza, istruttoria, ispezioni, dati e prova. -> Redatto il Capitolo 5 M-FC05 in forma professionale: vigilanza, piano istruttorio, ispezioni, qualitÃ  di dati e documenti, contraddittorio, Mappa BANDO, caso guidato, risposta orale ed esercizio.
 
 ## 2026-07-24T17:17:29.727Z - concorso-book-os
 
@@ -2530,8 +3126,8 @@
 - route: manual_writer
 - l0: l0/conv-20260724172616-xfnf1m.md
 - atoms:
-  - mem-20260724172616-1bi40ja | workflow | Scrivere professionalmente il capitolo M-FC05 7 Economia industriale, regolazione, econometria e contabilità regolatoria.
-  - mem-20260724172616-s31zw9 | result | Esito manual_writer: Scrivere professionalmente il capitolo M-FC05 7 Economia industriale, regolazione, econometria e contabilità regolatoria. -> Redatto il capitolo M-FC05 7 come professional draft, con fonte e topic dedicati.
+  - mem-20260724172616-1bi40ja | workflow | Scrivere professionalmente il capitolo M-FC05 7 Economia industriale, regolazione, econometria e contabilitÃ  regolatoria.
+  - mem-20260724172616-s31zw9 | result | Esito manual_writer: Scrivere professionalmente il capitolo M-FC05 7 Economia industriale, regolazione, econometria e contabilitÃ  regolatoria. -> Redatto il capitolo M-FC05 7 come professional draft, con fonte e topic dedicati.
 
 ## 2026-07-24T17:36:34.656Z - vol-05-authority-regolazione
 
@@ -2605,6 +3201,1035 @@
   - mem-20260724182430-1f2iaov | workflow | Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority.
   - mem-20260724182430-14068mp | result | Esito manual_writer/m-fc05-15-laboratorio: Redigere professionalmente il capitolo M-FC05 15 Laboratorio delle prove authority. -> Completato il capitolo laboratorio M-FC05 15 con dieci simulazioni distribuite fra percorsi G, E e P, rubrica di correzione, diario degli errori e piano 30/60/90; verificati 59 test.
 
+## 2026-07-30T15:58:06.545Z - VOL-03
+
+- conversation_id: conv-20260730155806-1espvnp
+- route: pipeline-step-09-chapter-06
+- l0: l0/conv-20260730155806-1espvnp.md
+- atoms:
+  - mem-20260730155806-10cur6u | result | Esito pipeline-step-09-chapter-06: Riprendi da dove abbiamo interrotto -> Completato step 09 del capitolo 06: preservato il testo editoriale, rimossa impalcatura duplicata, aggiornati frontmatter e raccordi.
+
+## 2026-07-30T15:58:20.620Z - VOL-08
+
+- conversation_id: conv-20260730155820-kswcv0
+- route: pipeline-step-10-coverage-chapter-08
+- l0: l0/conv-20260730155820-kswcv0.md
+- atoms:
+  - mem-20260730155820-hfyj2i | result | Esito pipeline-step-10-coverage-chapter-08: Riprendi da dove hai interrotto. -> Completato step 10 capitolo 08: verificata copertura di asset, minacce, vulnerabilitÃ , rischio, controlli, threat modeling, vulnerability management, secure SDLC e software supply chain; aggiornata matrice e delta; ga...
+
+## 2026-07-30T15:59:11.902Z - VOL-10
+
+- conversation_id: conv-20260730155911-1xup0c9
+- route: codex-vol10-cap08-step09
+- l0: l0/conv-20260730155911-1xup0c9.md
+- atoms:
+  - mem-20260730155911-v78c56 | result | Esito codex-vol10-cap08-step09: Riprendi con il prossimo step -> Completato step 09 M-TR03 capitolo 08: create source note specialistica e topic; redatto capitolo Direzione lavori, esecuzione e cantieri; gate chapter-lint superato senza blocker o warning.
+
+## 2026-07-30T16:00:12.276Z - global
+
+- conversation_id: conv-20260730160012-bl03ij
+- route: git-sync-staff-20260730
+- l0: l0/conv-20260730160012-bl03ij.md
+- atoms:
+  - mem-20260730160012-1g4p7w3 | result | Esito git-sync-staff-20260730: Allinea il mio codice alle modifiche effettuate dallo staff e deployate su GitHub, preservando i contenuti scritti da me. -> Fetch origin completato.
+
+## 2026-07-30T16:02:26.658Z - VOL-08
+
+- conversation_id: conv-20260730160226-q5ftv5
+- route: pipeline-step-11-humanizer-chapter-08
+- l0: l0/conv-20260730160226-q5ftv5.md
+- atoms:
+  - mem-20260730160226-154ewa1 | result | Esito pipeline-step-11-humanizer-chapter-08: Ok, procedi con il prossimo step. -> Completato step 11 capitolo 08: applicata doppia passata Humanizer con 16 revisioni stilistiche; preservati significato, terminologia tecnica, struttura, casi, quiz, wikilink, source_refs e riferimenti; citation guard...
+
+## 2026-07-30T16:02:39.796Z - VOL-10
+
+- conversation_id: conv-20260730160239-z47a5s
+- route: codex-vol10-cap08-step10
+- l0: l0/conv-20260730160239-z47a5s.md
+- atoms:
+  - mem-20260730160239-17g70t3 | result | Esito codex-vol10-cap08-step10: Procedi con il prossimo step -> Completato step 10 M-TR03 capitolo 08: verificata copertura reale; aggiornata la riga della matrice da parziale a completo; aggiunto delta per otto nuclei con evidenze; gate coverage superato senza blocker o warning.
+
+## 2026-07-30T16:03:16.359Z - VOL-03
+
+- conversation_id: conv-20260730160316-x0kj47
+- route: pipeline-step-10-chapter-06
+- l0: l0/conv-20260730160316-x0kj47.md
+- atoms:
+  - mem-20260730160316-1jlafl7 | result | Esito pipeline-step-10-chapter-06: Procedi con il prossimo step -> Completato step 10 del capitolo 06: verificati cinque nuclei, prodotta evidenza delta, riallineate le righe 12, 13 e 15 della matrice VOL-03 da parziale a rinviato con destinazioni precise.
+
+## 2026-07-30T16:04:37.305Z - VOL-10
+
+- conversation_id: conv-20260730160437-1u8n6pm
+- route: codex-vol10-cap08-step11
+- l0: l0/conv-20260730160437-1u8n6pm.md
+- atoms:
+  - mem-20260730160437-d1a0b2 | result | Esito codex-vol10-cap08-step11: Procedi con il prossimo step -> Completato step 11 Humanizer del capitolo 08: corretti dieci segnali stilistici AI con doppia passata; significato, struttura, wikilink, source_refs e riferimenti normativi preservati; citation-guard superato senza bl...
+
+## 2026-07-30T16:04:57.233Z - VOL-08
+
+- conversation_id: conv-20260730160457-1ux4m5w
+- route: pipeline-step-12-editorial-review-chapter-08
+- l0: l0/conv-20260730160457-1ux4m5w.md
+- atoms:
+  - mem-20260730160457-v7eygu | result | Esito pipeline-step-12-editorial-review-chapter-08: Ok, procedi con il prossimo step. -> Completato step 12 capitolo 08: prodotto report Revisore Editoriale Totale con checklist 30 punti, 8 rilievi non gravi, copertura v4 completa e giudizio pubblicabile dopo intervento medio; gate review-report passato c...
+
+## 2026-07-30T16:05:02.900Z - VOL-03
+
+- conversation_id: conv-20260730160502-1tz3p1z
+- route: pipeline-step-11-chapter-06
+- l0: l0/conv-20260730160502-1tz3p1z.md
+- atoms:
+  - mem-20260730160502-177qyz9 | result | Esito pipeline-step-11-chapter-06: Ok procedi con il prossimo step -> Completato step 11 Humanizer capitolo 06: riscritti dieci passaggi per ridurre ritmo meccanico, parallelismi e forme impersonali; contenuti, struttura, fonti, wikilink e riferimenti normativi preservati.
+
+## 2026-07-30T16:05:57.551Z - VOL-10
+
+- conversation_id: conv-20260730160557-1loo604
+- route: codex-vol10-cap08-step12
+- l0: l0/conv-20260730160557-1loo604.md
+- atoms:
+  - mem-20260730160557-1ag9k80 | result | Esito codex-vol10-cap08-step12: Procedi con il prossimo step -> Completato step 12 capitolo 08: creato report di revisione editoriale totale nel template fisso; copertura confermata completa; nessun errore grave; gate review-report superato con quattro warning non bloccanti su vig...
+
+## 2026-07-30T16:06:58.727Z - VOL-03
+
+- conversation_id: conv-20260730160658-n2abrs
+- route: pipeline-step-12-chapter-06
+- l0: l0/conv-20260730160658-n2abrs.md
+- atoms:
+  - mem-20260730160658-z8hbci | result | Esito pipeline-step-12-chapter-06: Ok procedi con il prossimo step -> Completato step 12 Revisione Editoriale Totale capitolo 06.
+
+## 2026-07-30T16:08:09.928Z - VOL-10
+
+- conversation_id: conv-20260730160809-1ibel91
+- route: codex-vol10-cap09-step08
+- l0: l0/conv-20260730160809-1ibel91.md
+- atoms:
+  - mem-20260730160809-10mxuu2 | result | Esito codex-vol10-cap09-step08: Procedi con il prossimo step -> Completato step 08 capitolo 09: creato piano operativo su collaudo, verifica, manutenzione e gestione opera; definiti confini, fonti ufficiali bloccanti, caso, scheda, review, struttura e budget.
+
+## 2026-07-30T16:09:33.389Z - VOL-08
+
+- conversation_id: conv-20260730160933-15f19hp
+- route: pipeline-step-08-plan-chapter-09
+- l0: l0/conv-20260730160933-15f19hp.md
+- atoms:
+  - mem-20260730160933-ppn7va | result | Esito pipeline-step-08-plan-chapter-09: Ok, procedi con il prossimo step. -> Completato lo step 08 del capitolo 09 M-TR01: creato e verificato manualmente il piano di completamento con nuclei IAM, crittografia, logging e incident response, struttura, budget, fonti, review e confini anti-duplic...
+
+## 2026-07-30T16:10:39.683Z - VOL-03
+
+- conversation_id: conv-20260730161039-14k7xo4
+- route: pipeline-step-08-chapter-07
+- l0: l0/conv-20260730161039-14k7xo4.md
+- atoms:
+  - mem-20260730161039-2suv57 | workflow | Procedi con il prossimo step della pipeline VOL-03.
+  - mem-20260730161039-ihf12l | result | Esito pipeline-step-08-chapter-07: Procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 08 del capitolo 07 con piano di consolidamento: preservare i contenuti originali, fondere le due stesure parallele, mantenere i nuclei della matrice, marcare i dati normativi mobili e rispettare il ...
+
+## 2026-07-30T16:10:55.329Z - VOL-10
+
+- conversation_id: conv-20260730161055-e7fgu5
+- route: codex-vol10-cap09-step09
+- l0: l0/conv-20260730161055-e7fgu5.md
+- atoms:
+  - mem-20260730161055-wbr5jz | result | Esito codex-vol10-cap09-step09: Procedi con il prossimo step -> Completato step 09 capitolo 09: consolidate fonti ufficiali su art.
+
+## 2026-07-30T16:12:29.363Z - VOL-10
+
+- conversation_id: conv-20260730161229-1mnqqlw
+- route: codex-vol10-cap09-step10
+- l0: l0/conv-20260730161229-1mnqqlw.md
+- atoms:
+  - mem-20260730161229-11x3nmi | result | Esito codex-vol10-cap09-step10: Procedi con il prossimo step -> Completato step 10 capitolo 09: verificata copertura reale; aggiornata riga M-TR03 da parziale a completo; aggiunto delta per otto nuclei con evidenze; gate coverage superato senza blocker o warning.
+
+## 2026-07-30T16:12:46.323Z - VOL-03
+
+- conversation_id: conv-20260730161246-caewlg
+- route: pipeline-step-09-chapter-07
+- l0: l0/conv-20260730161246-caewlg.md
+- atoms:
+  - mem-20260730161246-q0w72m | result | Esito pipeline-step-09-chapter-07: Ok procedi con il prossimo step. -> Completato step 09 capitolo 07: preservato il primo corpo editoriale completo, rimosso il secondo corpo duplicato, integrata la mappa anti-confusione, aggiunto companion_to e rinvii precisi al VOL-01; gate chapter-lin...
+
+## 2026-07-30T16:14:13.635Z - VOL-10
+
+- conversation_id: conv-20260730161413-1p1an5l
+- route: codex-vol10-cap09-step11
+- l0: l0/conv-20260730161413-1p1an5l.md
+- atoms:
+  - mem-20260730161413-4mc99 | result | Esito codex-vol10-cap09-step11: Procedi con il prossimo step -> Completato step 11 Humanizer capitolo 09: doppia passata e sei correzioni stilistiche; preservati significato, struttura, wikilink, source_refs e riferimenti normativi; citation-guard superato senza blocker o warning.
+
+## 2026-07-30T16:16:21.332Z - VOL-03
+
+- conversation_id: conv-20260730161621-14ikyab
+- route: pipeline-step-10-chapter-07
+- l0: l0/conv-20260730161621-14ikyab.md
+- atoms:
+  - mem-20260730161621-92a257 | result | Esito pipeline-step-10-chapter-07: Ok procedi con il prossimo step. -> Completato step 10 capitolo 07: verificati sei nuclei come completi, prodotto delta analitico, corretta la collocazione della riga generale privacy/comunicazione lasciandola parziale e assegnata al capitolo 14; gate c...
+
+## 2026-07-30T16:18:14.300Z - VOL-08
+
+- conversation_id: conv-20260730161814-1lp13ih
+- route: pipeline-step-09-write-chapter-09
+- l0: l0/conv-20260730161814-1lp13ih.md
+- atoms:
+  - mem-20260730161814-cr43k5 | result | Esito pipeline-step-09-write-chapter-09: Ok, procedi con il prossimo step. -> Completato step 09 capitolo 09 M-TR01: redatto capitolo reader-facing su IAM, crittografia, key management, logging e incident response; consolidate source note primaria e topic; gate chapter-lint superato senza warning.
+
+## 2026-07-30T16:18:36.242Z - global
+
+- conversation_id: conv-20260730161836-1ov3tuw
+- route: codex/github-pipeline-sync
+- l0: l0/conv-20260730161836-1ov3tuw.md
+- atoms:
+  - mem-20260730161836-gxwx5s | workflow | Scaricare gli aggiornamenti dello staff da GitHub e allineare il codice alle nuove direttive pipeline.
+  - mem-20260730161836-1p6698o | result | Esito codex/github-pipeline-sync: Scaricare gli aggiornamenti dello staff da GitHub e allineare il codice alle nuove direttive pipeline. -> Fetch completato; branch mfc02-didactic-coverage-20260727 giÃ  aggiornato e contenente origin/main; pull --ff-only senza novitÃ ; pipeline doctor --json ok con tutti i controlli verdi, incluso merge driver.
+
+## 2026-07-30T16:27:21.841Z - VOL-03
+
+- conversation_id: conv-20260730162721-1kb05id
+- route: pipeline-step-11-chapter-07
+- l0: l0/conv-20260730162721-1kb05id.md
+- atoms:
+  - mem-20260730162721-v3d6u8 | workflow | Ok procedi con la pipeline aggiornata ora.
+  - mem-20260730162721-1csi82r | result | Esito pipeline-step-11-chapter-07: Ok procedi con la pipeline aggiornata ora. -> Completato step 11 Humanizer capitolo 07 sulla pipeline aggiornata: riscritti tredici passaggi per ridurre aperture sentenziose, transizioni meccaniche, ripetizioni e parallelismi; struttura, significato, wikilink, so...
+
+## 2026-07-30T16:29:45.193Z - VOL-10
+
+- conversation_id: conv-20260730162945-1t48px3
+- route: codex-vol10-cap09-step12-updated-pipeline
+- l0: l0/conv-20260730162945-1t48px3.md
+- atoms:
+  - mem-20260730162945-fxdmqa | workflow | Procedi con la pipeline aggiornata ora
+  - mem-20260730162945-ywk555 | result | Esito codex-vol10-cap09-step12-updated-pipeline: Procedi con la pipeline aggiornata ora -> Verificata pipeline aggiornata con doctor OK; completato step 12 capitolo 09; creato report fisso; copertura confermata completa; review-report superato con cinque warning non bloccanti su disciplina collaudo, statico...
+
+## 2026-07-30T16:30:34.292Z - VOL-08
+
+- conversation_id: conv-20260730163034-1mwk60i
+- route: pipeline-step-10-coverage-chapter-09
+- l0: l0/conv-20260730163034-1mwk60i.md
+- atoms:
+  - mem-20260730163034-b1vkib | result | Esito pipeline-step-10-coverage-chapter-09: Ok, procedi con la pipeline aggiornata ora. -> Completato step 10 capitolo 09: verificata copertura di IAM, autenticazione/autorizzazione e privilegi, crittografia/key management, logging/triage e incident response con raccordo PA/NIS2/privacy; aggiornata la sola ...
+
+## 2026-07-30T16:31:46.550Z - VOL-03
+
+- conversation_id: conv-20260730163146-127k0t9
+- route: pipeline-step-12-chapter-07
+- l0: l0/conv-20260730163146-127k0t9.md
+- atoms:
+  - mem-20260730163146-rfwcje | result | Esito pipeline-step-12-chapter-07: Ok procedi con il prossimo step. -> Completato step 12 Revisione Editoriale Totale capitolo 07: report nel template fisso, nessun errore grave, copertura v4 completa; segnalati asset non piÃ¹ incorporati, normalizzazione accenti, quattro review normative...
+
+## 2026-07-30T16:33:13.922Z - VOL-10
+
+- conversation_id: conv-20260730163313-178s921
+- route: codex-vol10-cap10-step08
+- l0: l0/conv-20260730163313-178s921.md
+- atoms:
+  - mem-20260730163313-h1w1jp | result | Esito codex-vol10-cap10-step08: Procedi con il prossimo step -> Completato step 08 capitolo 10: creato piano operativo su computi, capitolati e contabilitÃ  lavori; definiti ciclo della voce, fonti bloccanti, caso numerico, esercizi, review e budget.
+
+## 2026-07-30T16:34:50.923Z - VOL-03
+
+- conversation_id: conv-20260730163450-zs53g
+- route: pipeline-step-08-chapter-08
+- l0: l0/conv-20260730163450-zs53g.md
+- atoms:
+  - mem-20260730163450-10cysxl | result | Esito pipeline-step-08-chapter-08: Ok procedi con il prossimo step. -> Completato step 08 capitolo 08: piano per fondere due corpi editoriali, preservare teoria completa e apporti unici, reintegrare cinque asset, verificare sette nuclei, riallineare successivamente regimi e debito nella ...
+
+## 2026-07-30T16:34:51.753Z - VOL-08
+
+- conversation_id: conv-20260730163451-1ulxz42
+- route: pipeline-step-11-humanizer-chapter-09
+- l0: l0/conv-20260730163451-1ulxz42.md
+- atoms:
+  - mem-20260730163451-c3hh40 | result | Esito pipeline-step-11-humanizer-chapter-09: Procedi con il prossimo step. -> Completato step 11 capitolo 09: applicata doppia passata Humanizer con 10 revisioni stilistiche puntuali; preservati significato, terminologia, struttura, casi, esercizi, wikilink, source_refs e riferimenti normativi;...
+
+## 2026-07-30T16:36:26.677Z - VOL-10
+
+- conversation_id: conv-20260730163626-wpnuwi
+- route: codex-vol10-cap10-step09
+- l0: l0/conv-20260730163626-wpnuwi.md
+- atoms:
+  - mem-20260730163626-1irqfxi | result | Esito codex-vol10-cap10-step09: Procedi con il prossimo step -> Completato step 09 capitolo 10: consolidate fonti ufficiali su art.
+
+## 2026-07-30T16:37:24.333Z - VOL-03
+
+- conversation_id: conv-20260730163724-1a79z8i
+- route: pipeline-step-09-chapter-08
+- l0: l0/conv-20260730163724-1a79z8i.md
+- atoms:
+  - mem-20260730163724-1t2syci | result | Esito pipeline-step-09-chapter-08: Procedi con il prossimo step. -> Completato step 09 capitolo 08: consolidati due corpi editoriali in uno, preservati sette nuclei, caso, esercizio, quiz e glossario; integrati ADM vs AE, checklist e mappa anti-confusione; aggiunti companion_to, asset...
+
+## 2026-07-30T16:39:08.169Z - VOL-10
+
+- conversation_id: conv-20260730163908-1f1r541
+- route: codex-vol10-cap10-step10
+- l0: l0/conv-20260730163908-1f1r541.md
+- atoms:
+  - mem-20260730163908-1hxknmg | workflow | Procedi con il prossimo step della pipeline aggiornata del Volume 10.
+  - mem-20260730163908-jqod6m | result | Esito codex-vol10-cap10-step10: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato lo step 10 del capitolo 10: matrice di copertura aggiornata con nuclei, fonti, applicazioni, verifiche, rinvii e delta in otto righe; gate coverage superato senza blocker nÃ© warning.
+
+## 2026-07-30T16:39:10.210Z - VOL-03
+
+- conversation_id: conv-20260730163910-1v6c845
+- route: pipeline-step-10-chapter-08
+- l0: l0/conv-20260730163910-1v6c845.md
+- atoms:
+  - mem-20260730163910-1g94shm | result | Esito pipeline-step-10-chapter-08: Procedi con il prossimo step. -> Completato step 10 capitolo 08: verificati sette nuclei come completi, prodotto delta analitico e riallineate le righe 31-32 della matrice VOL-03 da parziale a rinviato con destinazioni precise su regimi e debito doga...
+
+## 2026-07-30T16:40:13.199Z - VOL-08
+
+- conversation_id: conv-20260730164013-1om41fl
+- route: pipeline-step-12-editorial-review-chapter-09
+- l0: l0/conv-20260730164013-1om41fl.md
+- atoms:
+  - mem-20260730164013-pytl72 | result | Esito pipeline-step-12-editorial-review-chapter-09: Procedi con il prossimo step. -> Completato step 12 capitolo 09: report Revisore Editoriale Totale con checklist 30 punti; rilevati e risolti 3 blocker di copertura su RBAC/ABAC, key management e timeline; restano 4 rilievi non gravi; matrice conferm...
+
+## 2026-07-30T16:41:37.343Z - VOL-03
+
+- conversation_id: conv-20260730164137-1tt4s2a
+- route: pipeline-step-11-chapter-08
+- l0: l0/conv-20260730164137-1tt4s2a.md
+- atoms:
+  - mem-20260730164137-1x3viya | result | Esito pipeline-step-11-chapter-08: Procedi con il prossimo step. -> Completato step 11 Humanizer capitolo 08: rifiniti tredici passaggi per ridurre formule scolastiche, negazioni costruite, transizioni uniformi e ripetizioni; contenuto doganale, cinque immagini, struttura, wikilink e ...
+
+## 2026-07-30T16:43:24.836Z - VOL-10
+
+- conversation_id: conv-20260730164324-f0ydw8
+- route: codex-vol10-cap10-step11
+- l0: l0/conv-20260730164324-f0ydw8.md
+- atoms:
+  - mem-20260730164324-1ad37wq | result | Esito codex-vol10-cap10-step11: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 11 Humanizer del capitolo 10: doppia passata e nove correzioni stilistiche mirate; preservati significato, struttura, wikilink, source_refs, riferimenti normativi, numeri ed esempi; citation-guard supe...
+
+## 2026-07-30T16:44:56.343Z - VOL-08
+
+- conversation_id: conv-20260730164456-1om8rcu
+- route: pipeline-step-08-plan-chapter-10
+- l0: l0/conv-20260730164456-1om8rcu.md
+- atoms:
+  - mem-20260730164456-1d2zxmy | result | Esito pipeline-step-08-plan-chapter-10: Procedi con il prossimo step. -> Completato step 08 capitolo 10 M-TR01: creato e verificato manualmente il piano su data governance, ruoli, ciclo di vita, inventario, catalogo, metadati, qualitÃ , open data e interoperabilitÃ ; definiti confini, caso, ...
+
+## 2026-07-30T16:45:29.515Z - VOL-10
+
+- conversation_id: conv-20260730164529-1nzhkcr
+- route: codex-vol10-cap10-step12
+- l0: l0/conv-20260730164529-1nzhkcr.md
+- atoms:
+  - mem-20260730164529-1b8na9b | result | Esito codex-vol10-cap10-step12: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 12 capitolo 10: creato report di revisione editoriale totale nel template fisso; copertura confermata completa e matrice invariata; nessun errore grave; gate review-report superato con cinque warning n...
+
+## 2026-07-30T16:45:33.945Z - VOL-03
+
+- conversation_id: conv-20260730164533-1sugsd2
+- route: pipeline-step-12-chapter-08
+- l0: l0/conv-20260730164533-1sugsd2.md
+- atoms:
+  - mem-20260730164533-14dfa4d | result | Esito pipeline-step-12-chapter-08: k procedi con il prossimo step -> Completato step 12 Revisione Editoriale Totale capitolo 08: report nel template fisso; nessun errore grave; copertura v4 completa; rilevati normalizzazione accenti, ordine figure 8.3-8.5, gerarchia delle source note e...
+
+## 2026-07-30T16:48:44.530Z - VOL-10
+
+- conversation_id: conv-20260730164844-2pesw4
+- route: codex-vol10-cap11-step08
+- l0: l0/conv-20260730164844-2pesw4.md
+- atoms:
+  - mem-20260730164844-1ka4muk | result | Esito codex-vol10-cap11-step08: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 08 capitolo 11: creato piano operativo su infrastrutture, viabilitÃ , ponti e monitoraggio; definiti ciclo decisionale, fonti MIT bloccanti, confini, caso, esercizio, review e budget; gate chapter-plan ...
+
+## 2026-07-30T16:51:01.648Z - VOL-03
+
+- conversation_id: conv-20260730165101-u4117s
+- route: pipeline-step-08-chapter-09
+- l0: l0/conv-20260730165101-u4117s.md
+- atoms:
+  - mem-20260730165101-1onzs64 | result | Esito pipeline-step-08-chapter-09: k procedi con il prossimo step -> Completato step 08 capitolo 09: piano operativo verificato manualmente.
+
+## 2026-07-30T16:51:49.786Z - manual-writer
+
+- conversation_id: conv-20260730165149-1rnh504
+- route: pipeline-volume/VOL-08/step-09/M-TR01/chapter-10
+- l0: l0/conv-20260730165149-1rnh504.md
+- atoms:
+  - mem-20260730165149-1ll5do6 | workflow | Procedi con il prossimo step della pipeline aggiornata per VOL-08.
+  - mem-20260730165149-1cilj60 | result | Esito pipeline-volume/VOL-08/step-09/M-TR01/chapter-10: Procedi con il prossimo step della pipeline aggiornata per VOL-08. -> Completato lo step 09 del capitolo 10 Data governance, open data, interoperabilitÃ  e qualitÃ .
+
+## 2026-07-30T16:53:48.918Z - VOL-03
+
+- conversation_id: conv-20260730165348-1kqls0u
+- route: pipeline-step-09-chapter-09
+- l0: l0/conv-20260730165348-1kqls0u.md
+- atoms:
+  - mem-20260730165348-v3i24x | result | Esito pipeline-step-09-chapter-09: k procedi con il prossimo step -> Completato step 09 capitolo 09: consolidati due corpi editoriali in uno, preservato il testo tecnico e integrati gli apporti unici; aggiunti companion_to, cinque asset, mappa anti-confusione e sviluppo dei nuclei prod...
+
+## 2026-07-30T16:54:20.355Z - VOL-08
+
+- conversation_id: conv-20260730165420-1by7aya
+- route: pipeline-step-10-coverage-chapter-10
+- l0: l0/conv-20260730165420-1by7aya.md
+- atoms:
+  - mem-20260730165420-q4vawt | result | Esito pipeline-step-10-coverage-chapter-10: Procedi con il prossimo step. -> Completato step 10 capitolo 10 M-TR01: confrontato il testo con la matrice; verificati e classificati completi governance/ruoli/ciclo di vita, inventario/catalogo/glossario/lineage/metadati, qualitÃ , open data/riuso, ...
+
+## 2026-07-30T16:54:32.528Z - VOL-10
+
+- conversation_id: conv-20260730165432-10oxo5o
+- route: codex-vol10-cap11-step09
+- l0: l0/conv-20260730165432-10oxo5o.md
+- atoms:
+  - mem-20260730165432-ih075c | result | Esito codex-vol10-cap11-step09: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 09 capitolo 11: consolidate fonti ufficiali su Codice della strada, DM 6792/2001, Linee guida ponti DM 578/2020 e 204/2022, Istruzioni ANSFISA adottate nel 2025 e AINOP; creati source note, topic e cap...
+
+## 2026-07-30T16:56:17.703Z - VOL-03
+
+- conversation_id: conv-20260730165617-qzqdar
+- route: pipeline-step-10-chapter-09
+- l0: l0/conv-20260730165617-qzqdar.md
+- atoms:
+  - mem-20260730165617-l1cf0o | result | Esito pipeline-step-10-chapter-09: k procedi con il prossimo step -> Completato step 10 capitolo 09: verificati cinque nuclei come completi; prodotti energetici/alcole/tabacchi e tutela/illegalitÃ /prelievi/controlli giochi portati da parziale a completo nella matrice M-FC02; righe 36 e...
+
+## 2026-07-30T16:56:44.562Z - VOL-10
+
+- conversation_id: conv-20260730165644-zqvief
+- route: codex-vol10-cap11-step10
+- l0: l0/conv-20260730165644-zqvief.md
+- atoms:
+  - mem-20260730165644-1jnfpnm | result | Esito codex-vol10-cap11-step10: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 10 capitolo 11: verificata copertura reale; aggiornata la riga M-TR03 da parziale a completo con fonti, teoria, applicazione, verifica e rinvii; aggiunto delta in otto nuclei; gate coverage superato se...
+
+## 2026-07-30T16:57:37.827Z - VOL-03
+
+- conversation_id: conv-20260730165737-v7oefe
+- route: pipeline-step-11-chapter-09
+- l0: l0/conv-20260730165737-v7oefe.md
+- atoms:
+  - mem-20260730165737-10b5394 | result | Esito pipeline-step-11-chapter-09: k procedi con il prossimo step -> Completato step 11 Humanizer capitolo 09: rifiniti dodici passaggi per ridurre contrasti costruiti, aperture didascaliche, formule impersonali e ritmo uniforme.
+
+## 2026-07-30T16:58:52.238Z - VOL-08
+
+- conversation_id: conv-20260730165852-1kf8acz
+- route: pipeline-step-11-humanizer-chapter-10
+- l0: l0/conv-20260730165852-1kf8acz.md
+- atoms:
+  - mem-20260730165852-1qvk029 | result | Esito pipeline-step-11-humanizer-chapter-10: Procedi con il prossimo step. -> Completato step 11 capitolo 10 M-TR01: applicata doppia passata Humanizer con 12 revisioni stilistiche puntuali; preservati significato, terminologia tecnica, struttura, casi, esercizi, wikilink, source_refs e riferim...
+
+## 2026-07-30T16:59:45.461Z - VOL-03
+
+- conversation_id: conv-20260730165945-1wr6nv5
+- route: pipeline-step-12-chapter-09
+- l0: l0/conv-20260730165945-1wr6nv5.md
+- atoms:
+  - mem-20260730165945-6ihgy6 | result | Esito pipeline-step-12-chapter-09: k procedi con il prossimo step -> Completato step 12 Revisione Editoriale Totale capitolo 09: report nel template fisso; nessun errore grave; copertura v4 completa; figure ordinate.
+
+## 2026-07-30T17:00:45.715Z - VOL-10
+
+- conversation_id: conv-20260730170045-1ho2v0v
+- route: codex-vol10-cap11-step11
+- l0: l0/conv-20260730170045-1ho2v0v.md
+- atoms:
+  - mem-20260730170045-8eqhv1 | result | Esito codex-vol10-cap11-step11: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 11 Humanizer capitolo 11: doppia passata e dieci correzioni stilistiche mirate; preservati significato, struttura, termini tecnici, source_refs, wikilink e riferimenti normativi; citation-guard superat...
+
+## 2026-07-30T17:01:52.215Z - VOL-03
+
+- conversation_id: conv-20260730170152-1v0zw1y
+- route: pipeline-step-08-chapter-10
+- l0: l0/conv-20260730170152-1v0zw1y.md
+- atoms:
+  - mem-20260730170152-1q8qu4n | result | Esito pipeline-step-08-chapter-10: k procedi con il prossimo step -> Completato step 08 capitolo 10: piano operativo verificato manualmente.
+
+## 2026-07-30T17:02:37.235Z - VOL-10
+
+- conversation_id: conv-20260730170237-14zmtfv
+- route: codex-vol10-cap11-step12
+- l0: l0/conv-20260730170237-14zmtfv.md
+- atoms:
+  - mem-20260730170237-4osrr2 | result | Esito codex-vol10-cap11-step12: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 12 capitolo 11: creato report di revisione editoriale totale nel template fisso; copertura confermata completa e matrice invariata; nessun errore grave; gate review-report superato con sei warning non ...
+
+## 2026-07-30T17:04:28.054Z - VOL-08
+
+- conversation_id: conv-20260730170428-1cm4l2e
+- route: pipeline-step-12-editorial-review-chapter-10
+- l0: l0/conv-20260730170428-1cm4l2e.md
+- atoms:
+  - mem-20260730170428-17q1tjm | result | Esito pipeline-step-12-editorial-review-chapter-10: Procedi con il prossimo step. -> Completato step 12 capitolo 10 M-TR01: applicata checklist editoriale a 30 punti e copertura v4; risolto blocker sulla distinzione tra pubblicazione web, trasparenza, accesso e open data; corretti due rilievi terminol...
+
+## 2026-07-30T17:05:18.465Z - VOL-03
+
+- conversation_id: conv-20260730170518-a00ch3
+- route: pipeline-step-09-chapter-10
+- l0: l0/conv-20260730170518-a00ch3.md
+- atoms:
+  - mem-20260730170518-6pjofb | result | Esito pipeline-step-09-chapter-10: k procedi con il prossimo step -> Completato step 09 capitolo 10: consolidati due corpi editoriali in uno; preservato il testo tecnico; integrati companion_to, cinque asset, tabella DOCFA/PREGEO/voltura/Docte, mappa anti-confusione ed esempio estimati...
+
+## 2026-07-30T17:07:10.355Z - VOL-10
+
+- conversation_id: conv-20260730170710-vzezfe
+- route: codex-vol10-cap12-step08
+- l0: l0/conv-20260730170710-vzezfe.md
+- atoms:
+  - mem-20260730170710-1itu8bx | result | Esito codex-vol10-cap12-step08: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 08 capitolo 12: creato piano operativo su BIM, GIS, rilievi, catasto e patrimonio; definiti catena del dato, fonti ufficiali bloccanti, distinzioni, caso di riconciliazione, review e budget; gate chapt...
+
+## 2026-07-30T17:07:33.587Z - VOL-03
+
+- conversation_id: conv-20260730170733-90ui3a
+- route: pipeline-step-10-chapter-10
+- l0: l0/conv-20260730170733-90ui3a.md
+- atoms:
+  - mem-20260730170733-b6dq5l | result | Esito pipeline-step-10-chapter-10: k procedi con il prossimo step -> Completato step 10 capitolo 10: verificati sette nuclei come completi; DOCFA/PREGEO/voltura e principi estimativi/OMI aggiornati da parziale a completo nella matrice M-FC02.
+
+## 2026-07-30T17:10:39.962Z - VOL-10
+
+- conversation_id: conv-20260730171039-knsvmm
+- route: codex-vol10-cap12-step09
+- l0: l0/conv-20260730171039-knsvmm.md
+- atoms:
+  - mem-20260730171039-1xxyky3 | result | Esito codex-vol10-cap12-step09: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 09 capitolo 12: consolidate fonti ufficiali su art.
+
+## 2026-07-30T17:11:15.686Z - VOL-08
+
+- conversation_id: conv-20260730171115-siel4f
+- route: pipeline-step-08-plan-chapter-11
+- l0: l0/conv-20260730171115-siel4f.md
+- atoms:
+  - mem-20260730171115-6npb2k | result | Esito pipeline-step-08-plan-chapter-11: Procedi con il prossimo step. -> Completato step 08 capitolo 11 M-TR01: creato piano di 2752 parole su AI/ML, dati, valutazione, bias, spiegabilitÃ , controllo umano, lifecycle/MLOps, rischio, governance e quadro UE/italiano; definiti casi, output, es...
+
+## 2026-07-30T17:11:17.426Z - VOL-03
+
+- conversation_id: conv-20260730171117-zpcb31
+- route: pipeline-step-11-chapter-10
+- l0: l0/conv-20260730171117-zpcb31.md
+- atoms:
+  - mem-20260730171117-zmhyb2 | workflow | Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me.
+  - mem-20260730171117-92m2by | result | Esito pipeline-step-11-chapter-10: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 11 Humanizer del capitolo 10: rifiniti dodici passaggi per ridurre aperture didascaliche, parallelismi e formule meccaniche; significato, calcolo estimativo, norme, source_refs, wikilink, figure e appa...
+
+## 2026-07-30T17:12:05.882Z - VOL-10
+
+- conversation_id: conv-20260730171205-klr160
+- route: codex-vol10-cap12-step10
+- l0: l0/conv-20260730171205-klr160.md
+- atoms:
+  - mem-20260730171205-1gpzmyt | result | Esito codex-vol10-cap12-step10: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 10 capitolo 12: verificata copertura reale; aggiornata riga M-TR03 da parziale a completo con teoria, fonti, applicazione, verifica e rinvii; aggiunto delta in otto nuclei; gate coverage superato senza...
+
+## 2026-07-30T17:13:40.883Z - VOL-03
+
+- conversation_id: conv-20260730171340-1ulz94c
+- route: pipeline-step-12-chapter-10
+- l0: l0/conv-20260730171340-1ulz94c.md
+- atoms:
+  - mem-20260730171340-1e1yjp5 | result | Esito pipeline-step-12-chapter-10: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 12 Revisione Editoriale Totale capitolo 10: report nel template fisso; nessun errore grave; sette nuclei M-FC02 completi; figure e rinvii coerenti; tracciate normalizzazione accenti, metadati e cinque ...
+
+## 2026-07-30T17:13:47.976Z - VOL-10
+
+- conversation_id: conv-20260730171347-pyzh1z
+- route: codex-vol10-cap12-step11
+- l0: l0/conv-20260730171347-pyzh1z.md
+- atoms:
+  - mem-20260730171347-knrgom | result | Esito codex-vol10-cap12-step11: Procedi con il prossimo step della pipeline aggiornata del Volume 10. -> Completato step 11 Humanizer capitolo 12: doppia passata e otto correzioni stilistiche mirate; preservati significato, struttura, termini tecnici, source_refs, wikilink e riferimenti normativi; citation-guard superato...
+
+## 2026-07-30T17:15:30.040Z - manual-writer
+
+- conversation_id: conv-20260730171530-1smcebg
+- route: pipeline-volume/VOL-08/step-09/M-TR01/chapter-11
+- l0: l0/conv-20260730171530-1smcebg.md
+- atoms:
+  - mem-20260730171530-1cqsng7 | result | Esito pipeline-volume/VOL-08/step-09/M-TR01/chapter-11: Procedi con il prossimo step. -> Completato step 09 capitolo 11 AI/ML nella PA: consolidate source note primaria e topic su AI Act, legge 132/2025, strategia italiana e NIST AI RMF; redatto capitolo con modelli, dati, metriche, bias, spiegabilitÃ , co...
+
+## 2026-07-30T17:17:17.553Z - VOL-03
+
+- conversation_id: conv-20260730171717-evn9wo
+- route: pipeline-step-08-chapter-11
+- l0: l0/conv-20260730171717-evn9wo.md
+- atoms:
+  - mem-20260730171717-e8731x | result | Esito pipeline-step-08-chapter-11: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 08 capitolo 11: piano per fondere due stesure preservando il primo corpo e gli apporti unici; sviluppare scritture numeriche, mini-bilancio con indici e ponte utile-reddito; integrare cinque asset; ris...
+
+## 2026-07-30T17:19:14.629Z - VOL-08
+
+- conversation_id: conv-20260730171914-1c27e9s
+- route: pipeline-step-10-coverage-chapter-11
+- l0: l0/conv-20260730171914-1c27e9s.md
+- atoms:
+  - mem-20260730171914-ucked8 | result | Esito pipeline-step-10-coverage-chapter-11: Procedi con il prossimo step. -> Completato lo step 10 del capitolo 11 AI/ML: verificati sei nuclei sul testo reale, aggiornata la matrice da parziale a completo con evidenze e delta; gate coverage passato senza blocker o warning.
+
+## 2026-07-30T17:19:37.437Z - VOL-10
+
+- conversation_id: conv-20260730171937-1tc3kj3
+- route: codex-vol10-cap12-step12
+- l0: l0/conv-20260730171937-1tc3kj3.md
+- atoms:
+  - mem-20260730171937-1n46uf2 | workflow | Procedi con il prossimo step della pipeline aggiornata.
+
+## 2026-07-30T17:21:03.203Z - VOL-08
+
+- conversation_id: conv-20260730172103-l7amb5
+- route: pipeline-step-11-humanizer-chapter-11
+- l0: l0/conv-20260730172103-l7amb5.md
+- atoms:
+  - mem-20260730172103-96ig7c | result | Esito pipeline-step-11-humanizer-chapter-11: Procedi con il prossimo step. -> Completato step 11 capitolo 11 AI/ML: doppia passata Humanizer con 14 revisioni stilistiche puntuali; preservati significato, terminologia tecnica, struttura didattica, casi, esercizi, wikilink, source_refs e riferime...
+
+## 2026-07-30T17:21:23.069Z - VOL-03
+
+- conversation_id: conv-20260730172123-runmt3
+- route: pipeline-step-09-chapter-11
+- l0: l0/conv-20260730172123-runmt3.md
+- atoms:
+  - mem-20260730172123-1vev797 | result | Esito pipeline-step-09-chapter-11: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 09 capitolo 11: fuse le due stesure preservando il corpo principale e gli apporti unici; aggiunte scritture numeriche, mini-bilancio con current ratio, leverage e ROS, ponte utile-reddito, tabella prof...
+
+## 2026-07-30T17:24:10.405Z - VOL-08
+
+- conversation_id: conv-20260730172410-koogwu
+- route: pipeline-step-12-editorial-review-chapter-11
+- l0: l0/conv-20260730172410-koogwu.md
+- atoms:
+  - mem-20260730172410-g7uw6q | result | Esito pipeline-step-12-editorial-review-chapter-11: Procedi con il prossimo step. -> Completato step 12 capitolo 11 AI/ML: prodotto report Revisore Editoriale Totale con checklist 30 punti e copertura v4; corretto refuso L automation bias; matrice confermata completa; giudizio pubblicabile dopo interv...
+
+## 2026-07-30T17:24:10.448Z - VOL-03
+
+- conversation_id: conv-20260730172410-1ss1cq7
+- route: pipeline-step-10-chapter-11
+- l0: l0/conv-20260730172410-1ss1cq7.md
+- atoms:
+  - mem-20260730172410-1mrtflq | result | Esito pipeline-step-10-chapter-11: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 10 capitolo 11: otto nuclei verificati completi; partita doppia, indici/equilibri e utile-reddito passati da parziale a completo nella matrice M-FC02; corrispondenti righe VOL-03 trasformate in rinvii ...
+
+## 2026-07-30T17:26:16.879Z - VOL-03
+
+- conversation_id: conv-20260730172616-msio99
+- route: pipeline-step-11-chapter-11
+- l0: l0/conv-20260730172616-msio99.md
+- atoms:
+  - mem-20260730172616-8o52x | result | Esito pipeline-step-11-chapter-11: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 11 Humanizer capitolo 11: rifiniti quattordici passaggi per ridurre contrasti costruiti, parallelismi, aperture didascaliche e formule meccaniche; calcoli, formule, norme, source_refs, wikilink, figure...
+
+## 2026-07-30T17:27:37.823Z - VOL-08
+
+- conversation_id: conv-20260730172737-noaofz
+- route: pipeline-step-08-plan-chapter-12
+- l0: l0/conv-20260730172737-noaofz.md
+- atoms:
+  - mem-20260730172737-echf9n | result | Esito pipeline-step-08-plan-chapter-12: Procedi con il prossimo step. -> Completato step 08 capitolo 12 procurement ICT: creato piano operativo su fabbisogno, requisiti e capitolato, SLA/SLI, governo esecuzione, sicurezza e dati, change, continuitÃ , lock-in, portabilitÃ , exit strategy e ci...
+
+## 2026-07-30T17:28:19.660Z - VOL-03
+
+- conversation_id: conv-20260730172819-15cp0fa
+- route: pipeline-step-12-chapter-11
+- l0: l0/conv-20260730172819-15cp0fa.md
+- atoms:
+  - mem-20260730172819-15wegqc | result | Esito pipeline-step-12-chapter-11: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 12 Revisione Editoriale Totale capitolo 11: report nel template fisso; nessun errore grave; otto nuclei M-FC02 completi; calcoli, figure e rinvii coerenti; tracciate normalizzazione accenti, metadati e...
+
+## 2026-07-30T17:31:24.551Z - VOL-03
+
+- conversation_id: conv-20260730173124-a502fl
+- route: pipeline-step-08-chapter-12
+- l0: l0/conv-20260730173124-a502fl.md
+- atoms:
+  - mem-20260730173124-25cpn | result | Esito pipeline-step-08-chapter-12: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 08 capitolo 12: creato e verificato manualmente il piano editoriale; preservato il corpo umano esistente; assegnate fonti specialistiche e cinque figure; mantenuto esplicitamente partial il nucleo cris...
+
+## 2026-07-30T17:32:10.377Z - VOL-08
+
+- conversation_id: conv-20260730173210-1t2sr6j
+- route: pipeline-step-09-writing-chapter-12
+- l0: l0/conv-20260730173210-1t2sr6j.md
+- atoms:
+  - mem-20260730173210-1qnu79g | result | Esito pipeline-step-09-writing-chapter-12: Procedi con il prossimo step. -> Completato step 09 capitolo 12 procurement ICT: create source note specialistica e topic page; scritto capitolo di 3112 parole su fabbisogno, requisiti, capitolato, SLA/SLI/KPI, ruoli ed esecuzione, sicurezza/dati/sup...
+
+## 2026-07-30T17:33:48.081Z - VOL-03
+
+- conversation_id: conv-20260730173348-zwftca
+- route: pipeline-step-09-chapter-12
+- l0: l0/conv-20260730173348-zwftca.md
+- atoms:
+  - mem-20260730173348-mdhddw | result | Esito pipeline-step-09-chapter-12: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 09 capitolo 12: preservato il corpo editoriale esistente; aggiunti companion_to, due source note specialistiche, cinque figure, chiarimenti su rappresentanza, categorie di imprenditore, trasferimento d...
+
+## 2026-07-30T17:33:53.951Z - VOL-08
+
+- conversation_id: conv-20260730173353-1n6ukx1
+- route: pipeline-step-10-coverage-chapter-12
+- l0: l0/conv-20260730173353-1n6ukx1.md
+- atoms:
+  - mem-20260730173353-18k3a8r | result | Esito pipeline-step-10-coverage-chapter-12: Procedi con il prossimo step. -> Completato step 10 capitolo 12 procurement ICT: verificati sei nuclei sul testo reale (fabbisogno/requisiti, SLA, ruoli/esecuzione, sicurezza/dati/supply chain, modifiche/continuitÃ , lock-in/portabilitÃ /exit); aggiorn...
+
+## 2026-07-30T17:35:41.740Z - VOL-03
+
+- conversation_id: conv-20260730173541-1glfe2t
+- route: pipeline-step-10-chapter-12
+- l0: l0/conv-20260730173541-1glfe2t.md
+- atoms:
+  - mem-20260730173541-1yuqioz | workflow | Procedi con il prossimo step della pipeline aggiornata del volume 3.
+  - mem-20260730173541-13enw7s | result | Esito pipeline-step-10-chapter-12: Procedi con il prossimo step della pipeline aggiornata del volume 3. -> Completato step 10 capitolo 12: verificati quattro nuclei assegnati e prodotto delta di copertura.
+
+## 2026-07-30T17:35:46.963Z - VOL-08
+
+- conversation_id: conv-20260730173546-hqukuk
+- route: pipeline-step-11-humanizer-chapter-12
+- l0: l0/conv-20260730173546-hqukuk.md
+- atoms:
+  - mem-20260730173546-kvnjv1 | result | Esito pipeline-step-11-humanizer-chapter-12: Procedi con il prossimo step. -> Completato step 11 capitolo 12 procurement ICT: doppia passata Humanizer con 13 revisioni stilistiche mirate; migliorati apertura, ritmo, soggetti e formule impersonali; preservati significato, terminologia, struttura...
+
+## 2026-07-30T17:37:31.869Z - VOL-03
+
+- conversation_id: conv-20260730173731-1xegpti
+- route: pipeline-step-11-chapter-12
+- l0: l0/conv-20260730173731-1xegpti.md
+- atoms:
+  - mem-20260730173731-1soutey | result | Esito pipeline-step-11-chapter-12: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 11 Humanizer capitolo 12: rifiniti tredici passaggi per ridurre contrasti costruiti, simmetrie, serie meccaniche e ripetizioni di occorre; mantenuti termini tecnici, struttura, casi, quiz, source_refs,...
+
+## 2026-07-30T17:38:57.750Z - VOL-08
+
+- conversation_id: conv-20260730173857-1owafoq
+- route: pipeline-step-12-editorial-review-chapter-12
+- l0: l0/conv-20260730173857-1owafoq.md
+- atoms:
+  - mem-20260730173857-3zwrln | result | Esito pipeline-step-12-editorial-review-chapter-12: Procedi con il prossimo step. -> Completato step 12 capitolo 12 procurement ICT: prodotto report Revisore Editoriale Totale con checklist 30 punti e copertura v4; nessun errore grave o lacuna didattica, matrice confermata completa; giudizio pubblicab...
+
+## 2026-07-30T17:43:59.232Z - VOL-03
+
+- conversation_id: conv-20260730174359-5n2jyp
+- route: pipeline-step-12-chapter-12
+- l0: l0/conv-20260730174359-5n2jyp.md
+- atoms:
+  - mem-20260730174359-n4eq68 | result | Esito pipeline-step-12-chapter-12: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 12 Revisione Editoriale Totale capitolo 12: report nel template fisso; nessun errore grave; quattro nuclei M-FC02 completi; figure e rinvii coerenti.
+
+## 2026-07-30T17:46:27.588Z - VOL-03
+
+- conversation_id: conv-20260730174627-51kj7b
+- route: pipeline-step-08-chapter-13
+- l0: l0/conv-20260730174627-51kj7b.md
+- atoms:
+  - mem-20260730174627-1py97cu | result | Esito pipeline-step-08-chapter-13: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 08 capitolo 13: creato e verificato manualmente il piano per fondere due corpi editoriali duplicati preservando gli apporti unici; coperti cinque nuclei, casi AE/ADM/AdER/Territorio/front-office, quiz,...
+
+## 2026-07-30T17:47:08.090Z - VOL-08
+
+- conversation_id: conv-20260730174708-y68gqe
+- route: pipeline-step-08-plan-chapter-13
+- l0: l0/conv-20260730174708-y68gqe.md
+- atoms:
+  - mem-20260730174708-14eibvw | result | Esito pipeline-step-08-plan-chapter-13: Ok, procedi con il prossimo step. -> Completato step 08 capitolo 13 Laboratorio prove ICT: creato piano di completamento con nuclei, confini VOL-01, quiz, scritto tecnico, orale, casi, simulazione mista, rubriche, diario errori, fonti, review e budget KDP.
+
+## 2026-07-30T17:49:10.783Z - VOL-03
+
+- conversation_id: conv-20260730174910-42hi9g
+- route: pipeline-step-09-chapter-13
+- l0: l0/conv-20260730174910-42hi9g.md
+- atoms:
+  - mem-20260730174910-3c3am | result | Esito pipeline-step-09-chapter-13: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 09 capitolo 13: fuse due stesure in un solo corpo di 788 righe; preservati e integrati cinque casi aggiuntivi, dodici quiz, risposte da due/quattro minuti e protocollo anti-invenzione; mantenute cinque...
+
+## 2026-07-30T17:50:56.641Z - VOL-03
+
+- conversation_id: conv-20260730175056-1205t2n
+- route: pipeline-step-10-chapter-13
+- l0: l0/conv-20260730175056-1205t2n.md
+- atoms:
+  - mem-20260730175056-1447eln | result | Esito pipeline-step-10-chapter-13: Procedi con il prossimo step della pipeline aggiornata del volume 3. -> Completato step 10 capitolo 13: verificati cinque nuclei completi; prodotto delta; riallineata la matrice agli heading consolidati per classificazione traccia, casi AE/ADM/AdER/Territorio, quiz, orale e simulazioni 30...
+
+## 2026-07-30T17:53:48.607Z - VOL-03
+
+- conversation_id: conv-20260730175348-qci9dk
+- route: pipeline-step-11-chapter-13
+- l0: l0/conv-20260730175348-qci9dk.md
+- atoms:
+  - mem-20260730175348-ro6c3d | result | Esito pipeline-step-11-chapter-13: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 11 Humanizer capitolo 13: rifiniti ventiquattro passaggi per ridurre contrasti costruiti, frasi-slogan, simmetrie e sequenze meccaniche; preservati casi, quiz, durate, istruzioni, source_refs, wikilink...
+
+## 2026-07-30T17:54:20.756Z - VOL-08
+
+- conversation_id: conv-20260730175420-1jqbh3f
+- route: pipeline-step-09-writing-chapter-13
+- l0: l0/conv-20260730175420-1jqbh3f.md
+- atoms:
+  - mem-20260730175420-ozyr5z | result | Esito pipeline-step-09-writing-chapter-13: Ok, procedi con il prossimo step. -> Completato step 09 capitolo 13 Laboratorio prove ICT: scritto capitolo editoriale di circa 2795 parole con Mappa BANDO, quiz e soluzioni, risposte brevi, elaborato, orale, casi tecnici, caso guidato sul servizio inter...
+
+## 2026-07-30T17:54:55.467Z - concorso-book-os
+
+- conversation_id: conv-20260730175455-1hwbf7n
+- route: codex-vol10-mtr03-step07
+- l0: l0/conv-20260730175455-1hwbf7n.md
+- atoms:
+  - mem-20260730175455-1m3l6ls | result | Esito codex-vol10-mtr03-step07: Procedi con il prossimo step -> Completato step 07 M-TR03: matrice v4 verificata su 16 nuclei; 15 completi e 1 rinviato con destinazioni precise in VOL-01; prioritÃ , totali e blocker aggiunti; gate coverage passato senza blocker o warning; prossimo ...
+
+## 2026-07-30T17:56:54.450Z - VOL-08
+
+- conversation_id: conv-20260730175654-2cs6y2
+- route: pipeline-step-10-coverage-chapter-13
+- l0: l0/conv-20260730175654-2cs6y2.md
+- atoms:
+  - mem-20260730175654-82vr7c | result | Esito pipeline-step-10-coverage-chapter-13: Ok, prossimo step. -> Completato step 10 capitolo 13 Laboratorio prove ICT: verificati sul testo reale sei nuclei (decodifica consegna, quiz, risposta breve/elaborato, orale, casi, simulazione/rubriche/diario); aggiornata riga Prove specia...
+
+## 2026-07-30T17:58:19.681Z - VOL-03
+
+- conversation_id: conv-20260730175819-1p0juu8
+- route: pipeline-step-12-chapter-13
+- l0: l0/conv-20260730175819-1p0juu8.md
+- atoms:
+  - mem-20260730175819-pzhwll | result | Esito pipeline-step-12-chapter-13: Procedi con il prossimo step della pipeline aggiornata del volume 3, preservando i contenuti scritti da me. -> Completato step 12 Revisione Editoriale Totale capitolo 13: report nel template fisso; nessun errore grave; cinque nuclei M-FC02 completi; un solo corpo, cinque figure, casi, dodici quiz, orale e simulazione coerenti.
+
+## 2026-07-30T17:59:56.002Z - VOL-08
+
+- conversation_id: conv-20260730175956-1psic0o
+- route: pipeline-step-11-humanizer-chapter-13
+- l0: l0/conv-20260730175956-1psic0o.md
+- atoms:
+  - mem-20260730175956-1xeo1fu | result | Esito pipeline-step-11-humanizer-chapter-13: Ok, prossimo step. -> Completato step 11 Humanizer capitolo 13 Laboratorio prove ICT: doppia passata con 13 revisioni mirate su enfasi, contrasti meccanici, simmetrie e formule assolute.
+
+## 2026-07-30T18:01:57.143Z - VOL-03
+
+- conversation_id: conv-20260730180157-1lhi1l8
+- route: pipeline-step-08-chapter-14
+- l0: l0/conv-20260730180157-1lhi1l8.md
+- atoms:
+  - mem-20260730180157-w3i8xc | result | Esito pipeline-step-08-chapter-14: Procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 08 del capitolo 14: creato e verificato il piano editoriale senza modificare il capitolo; preservati glossario, tavole, scadenziario, flussi e canvas; rilevati asset_refs incoerenti, rinvii obsoleti...
+
+## 2026-07-30T18:02:52.567Z - VOL-08
+
+- conversation_id: conv-20260730180252-fhpcts
+- route: pipeline-step-12-editorial-review-chapter-13
+- l0: l0/conv-20260730180252-fhpcts.md
+- atoms:
+  - mem-20260730180252-1qqf7b1 | result | Esito pipeline-step-12-editorial-review-chapter-13: Ok, prossimo step. -> Step 12 capitolo 13 revisionato con checklist 30 punti e copertura v4.
+
+## 2026-07-30T18:08:01.704Z - VOL-03
+
+- conversation_id: conv-20260730180801-1kpvzzg
+- route: pipeline-step-09-chapter-14
+- l0: l0/conv-20260730180801-1kpvzzg.md
+- atoms:
+  - mem-20260730180801-hkzrrj | workflow | Ok, prossimo step della pipeline VOL-03.
+  - mem-20260730180801-uuwqdj | result | Esito pipeline-step-09-chapter-14: Ok, prossimo step della pipeline VOL-03. -> Completato step 09 capitolo 14.
+
+## 2026-07-30T18:08:08.944Z - VOL-08
+
+- conversation_id: conv-20260730180808-ply43e
+- route: pipeline-step-12-editorial-review-chapter-13-fix-e01
+- l0: l0/conv-20260730180808-ply43e.md
+- atoms:
+  - mem-20260730180808-xvy45p | result | Esito pipeline-step-12-editorial-review-chapter-13-fix-e01: Procedi. -> Risolto blocker E01 del capitolo 13: completata simulazione mista con 12 quiz e soluzioni, due risposte brevi modello, scaletta-soluzione dell elaborato e tre risposte orali essenziali.
+
+## 2026-07-30T18:17:04.236Z - VOL-03
+
+- conversation_id: conv-20260730181704-10m8pak
+- route: pipeline-step-10-chapter-14
+- l0: l0/conv-20260730181704-10m8pak.md
+- atoms:
+  - mem-20260730181704-1mwjqoz | result | Esito pipeline-step-10-chapter-14: Ok, prossimo step della pipeline VOL-03. -> Completato step 10 capitolo 14.
+
+## 2026-07-30T18:20:09.898Z - VOL-03
+
+- conversation_id: conv-20260730182009-arsmwj
+- route: pipeline-step-11-chapter-14
+- l0: l0/conv-20260730182009-arsmwj.md
+- atoms:
+  - mem-20260730182009-15dfmo5 | result | Esito pipeline-step-11-chapter-14: Ok, prossimo step della pipeline VOL-03. -> Completato step 11 Humanizer capitolo 14.
+
+## 2026-07-30T18:21:48.349Z - concorso-book-os
+
+- conversation_id: conv-20260730182148-qmx9dc
+- route: codex-vol10-mtr03-step13
+- l0: l0/conv-20260730182148-qmx9dc.md
+- atoms:
+  - mem-20260730182148-393ogz | result | Esito codex-vol10-mtr03-step13: ok prossimo step -> Completato step 13 M-TR03: revisione trasversale, Bibbia del Modulo, indice 1-13 riallineato, piano storico preservato come snapshot interno; gate passato; restano E04-E07 non gravi; prossimo step 14.
+
+## 2026-07-30T18:23:45.748Z - VOL-08
+
+- conversation_id: conv-20260730182345-uib8lr
+- route: codex/pipeline-volume/step-05/m-tr01
+- l0: l0/conv-20260730182345-uib8lr.md
+- atoms:
+  - mem-20260730182345-6hjswo | workflow | Procedere con il prossimo step della pipeline VOL-08 per M-TR01.
+  - mem-20260730182345-vq9o90 | result | Esito codex/pipeline-volume/step-05/m-tr01: Procedere con il prossimo step della pipeline VOL-08 per M-TR01. -> Completato step 05: audit ufficiale di 18 procedure e 30 assegnazioni, sei per ciascuno dei cinque cluster ICT; create source note e planning audit, aggiornati topic, capitolo 1, campione precedente e log append-only.
+
+## 2026-07-30T18:24:52.285Z - VOL-03
+
+- conversation_id: conv-20260730182452-bpthbg
+- route: pipeline-step-12-chapter-14
+- l0: l0/conv-20260730182452-bpthbg.md
+- atoms:
+  - mem-20260730182452-1mg7y7a | result | Esito pipeline-step-12-chapter-14: Ok, prossimo step della pipeline VOL-03. -> Completato step 12 Revisione Editoriale Totale capitolo 14.
+
+## 2026-07-30T18:28:06.444Z - VOL-08
+
+- conversation_id: conv-20260730182806-1nngkmo
+- route: codex/pipeline-volume/step-06/m-tr01
+- l0: l0/conv-20260730182806-1nngkmo.md
+- atoms:
+  - mem-20260730182806-6l3kap | workflow | Procedere con il prossimo step della pipeline VOL-08.
+  - mem-20260730182806-1ewu4nf | result | Esito codex/pipeline-volume/step-06/m-tr01: Procedere con il prossimo step della pipeline VOL-08. -> Completato step 06 M-TR01: audit di 22 nuclei e 37 source_refs unici, zero file mancanti e zero fonti indispensabili mancanti.
+
+## 2026-07-30T18:29:13.201Z - concorso-book-os
+
+- conversation_id: conv-20260730182913-1qpakur
+- route: codex-vol10-mtr03-step14
+- l0: l0/conv-20260730182913-1qpakur.md
+- atoms:
+  - mem-20260730182913-151p009 | result | Esito codex-vol10-mtr03-step14: ok prossimo step -> Completato step 14 M-TR03: E04-E05 corretti, rinvii interni puntuali, cross-family dichiarati come instradamenti finchÃ© incompleti; E06 assegnato a review umana, E07 al preflight; gate passato; prossimo step 15.
+
+## 2026-07-30T18:30:22.837Z - VOL-08
+
+- conversation_id: conv-20260730183022-4tlqxk
+- route: codex/pipeline-volume/step-07/m-tr01
+- l0: l0/conv-20260730183022-4tlqxk.md
+- atoms:
+  - mem-20260730183022-wbssj3 | result | Esito codex/pipeline-volume/step-07/m-tr01: Procedere con il prossimo step della pipeline VOL-08. -> Completato step 07 M-TR01: matrice v4 normalizzata su 15 nuclei, con prioritÃ  esplicite, 14 completi e 1 rinviato valido al VOL-01; aggiunti totali e blocker ordinati.
+
+## 2026-07-30T18:40:14.238Z - VOL-03
+
+- conversation_id: conv-20260730184014-kgskn3
+- route: pipeline-step-13-module-m-fc02
+- l0: l0/conv-20260730184014-kgskn3.md
+- atoms:
+  - mem-20260730184014-9s5kqu | result | Esito pipeline-step-13-module-m-fc02: Procedi con il prossimo step della pipeline VOL-03. -> Completato step 13 revisione trasversale M-FC02.
+
+## 2026-08-04T17:23:52.304Z - VOL-03
+
+- conversation_id: conv-20260804172352-1gq0n56
+- route: codex/pipeline-step-14-15-mfc02
+- l0: l0/conv-20260804172352-1gq0n56.md
+- atoms:
+  - mem-20260804172352-cf8iyj | workflow | Parti da VOL-03 e avvia la pipeline aggiornata effettuando i passaggi mancanti.
+  - mem-20260804172352-nbzc1m | result | Esito codex/pipeline-step-14-15-mfc02: Parti da VOL-03 e avvia la pipeline aggiornata effettuando i passaggi mancanti. -> Completato step 14 M-FC02 con correzioni M01-M07 e gate superato; preparato pacchetto step 15 con 26 controlli; human-signoff in attesa di firma Alberto Brando, non accettato.
+
+## 2026-08-04T17:48:04.737Z - editorial-pipeline
+
+- conversation_id: conv-20260804174804-qde0xx
+- route: VOL-03/M-FC01/chapter-01/steps-08-12
+- l0: l0/conv-20260804174804-qde0xx.md
+- atoms:
+  - mem-20260804174804-198znvf | workflow | Proseguire la pipeline aggiornata di VOL-03 preservando i contenuti scritti dallâ€™autore.
+  - mem-20260804174804-wou6o5 | result | Esito VOL-03/M-FC01/chapter-01/steps-08-12: Proseguire la pipeline aggiornata di VOL-03 preservando i contenuti scritti dallâ€™autore. -> Continuare esclusivamente tramite CLI dal passo attivo 08 M-FC01 capitolo 02; non modificare run-state a mano e preservare il testo umano.
+
+## 2026-08-04T17:56:39.353Z - editorial-pipeline
+
+- conversation_id: conv-20260804175639-4dk7ug
+- route: VOL-03/M-FC01/chapter-02-03
+- l0: l0/conv-20260804175639-4dk7ug.md
+- atoms:
+  - mem-20260804175639-10z10ld | workflow | Ok prosegui con la pipeline VOL-03 preservando i contenuti.
+  - mem-20260804175639-19kwyc9 | result | Esito VOL-03/M-FC01/chapter-02-03: Ok prosegui con la pipeline VOL-03 preservando i contenuti. -> Riprendere dal passo attivo 09 M-FC01 capitolo 03; usare solo fonti consolidate, non introdurre dettagli retributivi, mantenere review CCNL/PCM e aggiornare la matrice solo dopo copertura reale.
+
+## 2026-08-04T18:05:32.821Z - VOL-03
+
+- conversation_id: conv-20260804180532-16d7eh3
+- route: pipeline-volume
+- l0: l0/conv-20260804180532-16d7eh3.md
+- atoms:
+  - mem-20260804180532-1wdtno4 | workflow | Proseguire la pipeline aggiornata di VOL-03 preservando i contenuti autoriali.
+  - mem-20260804180532-1k4pybe | result | Esito pipeline-volume: Proseguire la pipeline aggiornata di VOL-03 preservando i contenuti autoriali. -> Completati M-FC01 capitolo 03 step 08-12; preparato e accettato manualmente il piano step 08 del capitolo 04; attivo step 09 capitolo 04.
+
+## 2026-08-04T18:40:03.097Z - VOL-03
+
+- conversation_id: conv-20260804184003-wr4bjz
+- route: pipeline-volume
+- l0: l0/conv-20260804184003-wr4bjz.md
+- atoms:
+  - mem-20260804184003-1k5ifw | workflow | Prosegui con la pipeline aggiornata VOL-03 preservando i contenuti autoriali.
+  - mem-20260804184003-1wrp2f9 | result | Esito pipeline-volume: Prosegui con la pipeline aggiornata VOL-03 preservando i contenuti autoriali. -> Completato M-FC01 capitolo 04 step 09-12: capitolo scritto, matrice atomica, Humanizer e revisione editoriale.
+
+## 2026-08-04T18:56:46.988Z - VOL-03
+
+- conversation_id: conv-20260804185646-1vkvn1j
+- route: pipeline-volume
+- l0: l0/conv-20260804185646-1vkvn1j.md
+- atoms:
+  - mem-20260804185646-17k1l9d | workflow | Procedi con la pipeline VOL-03 preservando i contenuti autoriali.
+  - mem-20260804185646-1sztu | result | Esito pipeline-volume: Procedi con la pipeline VOL-03 preservando i contenuti autoriali. -> Completato M-FC01 capitolo 05 step 08-12: piano verificato manualmente, capitolo scritto, matrice atomica, Humanizer e revisione editoriale.
+
+## 2026-08-04T18:59:06.707Z - VOL-03
+
+- conversation_id: conv-20260804185906-9ck9s1
+- route: pipeline-step-08-chapter-06
+- l0: l0/conv-20260804185906-9ck9s1.md
+- atoms:
+  - mem-20260804185906-ep2vdy | result | Esito pipeline-step-08-chapter-06: Procedi con il prossimo step. -> Completato lo step 08 del capitolo 06 M-FC01: piano operativo con otto nuclei atomici verificato e accettato manualmente; capitolo non modificato.
+
+## 2026-08-05T15:31:54.194Z - VOL-03
+
+- conversation_id: conv-20260805153154-1quevd9
+- route: pipeline-step-09-chapter-06
+- l0: l0/conv-20260805153154-1quevd9.md
+- atoms:
+  - mem-20260805153154-tgmt5k | result | Esito pipeline-step-09-chapter-06: Procedi con il prossimo step. -> Completato lo step 09 del capitolo 06 M-FC01: scaffold sostituito dal capitolo completo; chapter-lint superato senza warning.
+
+## 2026-08-05T15:57:46.769Z - VOL-03
+
+- conversation_id: conv-20260805155746-nqc4k7
+- route: pipeline-step-10-chapter-06
+- l0: l0/conv-20260805155746-nqc4k7.md
+- atoms:
+  - mem-20260805155746-1uxl9i | workflow | Procedi con il prossimo step della pipeline VOL-03 preservando i contenuti scritti da me.
+  - mem-20260805155746-4jnrob | result | Esito pipeline-step-10-chapter-06: Procedi con il prossimo step della pipeline VOL-03 preservando i contenuti scritti da me. -> Completato lo step 10 di M-FC01 capitolo 06: verificati otto nuclei, sostituita la riga macro mancante con righe atomiche, creato il delta di copertura e superato il gate coverage senza warning.
+
+## 2026-08-05T15:59:36.546Z - VOL-03
+
+- conversation_id: conv-20260805155936-1a7r535
+- route: pipeline-step-11-chapter-06
+- l0: l0/conv-20260805155936-1a7r535.md
+- atoms:
+  - mem-20260805155936-g4pp39 | result | Esito pipeline-step-11-chapter-06: Procedi con il prossimo step della pipeline VOL-03 preservando i contenuti scritti da me. -> Completato lo step 11 Humanizer di M-FC01 capitolo 06: rifiniti 13 passaggi per eliminare contrasti costruiti, ripetizioni e frasi sentenziose; preservati significato, struttura, esempi, source_refs, wikilink e riferi...
+
+## 2026-08-05T16:03:25.300Z - VOL-03
+
+- conversation_id: conv-20260805160325-11x3ork
+- route: pipeline-step-12-chapter-06
+- l0: l0/conv-20260805160325-11x3ork.md
+- atoms:
+  - mem-20260805160325-186fwtr | result | Esito pipeline-step-12-chapter-06: Procedi con il prossimo step della pipeline VOL-03 preservando i contenuti scritti da me. -> Completato lo step 12 Revisione Editoriale Totale di M-FC01 capitolo 06: report canonico sui 30 punti, nessun errore grave o nucleo incompleto, copertura v4 coerente; quattro controlli normativi, organizzativi e grafi...
+
+## 2026-08-05T16:07:09.096Z - VOL-03
+
+- conversation_id: conv-20260805160709-1k1i7lt
+- route: pipeline-step-08-mfc01-chapter-07
+- l0: l0/conv-20260805160709-1k1i7lt.md
+- atoms:
+  - mem-20260805160709-i5akbn | result | Esito pipeline-step-08-mfc01-chapter-07: Procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 08 di M-FC01 capitolo 07 Avvocatura dello Stato: piano operativo con otto nuclei atomici, fonti, confini editoriali, struttura H1/H2/H3, apparati didattici, budget KDP e review umane; gate chapter-p...
+
+## 2026-08-05T16:14:00.415Z - VOL-03
+
+- conversation_id: conv-20260805161400-1fojsju
+- route: pipeline-step-09-mfc01-chapter-07
+- l0: l0/conv-20260805161400-1fojsju.md
+- atoms:
+  - mem-20260805161400-1g8h0td | workflow | Procedi con lo step successivo della pipeline VOL-03.
+  - mem-20260805161400-1fb3u70 | result | Esito pipeline-step-09-mfc01-chapter-07: Procedi con lo step successivo della pipeline VOL-03. -> Completato lo step 09 di M-FC01 capitolo 07 Avvocatura dello Stato: scritto il capitolo professionale con otto nuclei, Mappa BANDO, teoria, flussi documentali, bando, caso, domande, esercizio, checklist, fonti e review.
+
+## 2026-08-05T16:14:23.047Z - VOL-08
+
+- conversation_id: conv-20260805161423-u0egzk
+- route: codex/pipeline-volume/step-13/m-tr01
+- l0: l0/conv-20260805161423-u0egzk.md
+- atoms:
+  - mem-20260805161423-10mnqvj | workflow | Attiva pipeline aggiornata per revisione del Volume 08, per eseguire i passaggi non effettuati.
+  - mem-20260805161423-1m4l17f | result | Esito codex/pipeline-volume/step-13/m-tr01: Attiva pipeline aggiornata per revisione del Volume 08, per eseguire i passaggi non effettuati. -> Avviato lo step 13 di revisione trasversale M-TR01.
+
+## 2026-08-05T16:16:09.198Z - VOL-03
+
+- conversation_id: conv-20260805161609-1xvzlbd
+- route: pipeline-step-10-mfc01-chapter-07
+- l0: l0/conv-20260805161609-1xvzlbd.md
+- atoms:
+  - mem-20260805161609-qg22e | result | Esito pipeline-step-10-mfc01-chapter-07: Procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 10 di M-FC01 capitolo 07: verificati otto nuclei, sostituita la riga macro mancante con otto righe atomiche complete, creato il delta di copertura e superato il gate coverage senza warning.
+
+## 2026-08-05T16:18:19.300Z - VOL-03
+
+- conversation_id: conv-20260805161819-15kjuwh
+- route: pipeline-step-11-mfc01-chapter-07
+- l0: l0/conv-20260805161819-15kjuwh.md
+- atoms:
+  - mem-20260805161819-14grgmc | result | Esito pipeline-step-11-mfc01-chapter-07: Procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 11 Humanizer di M-FC01 capitolo 07: rifiniti 13 passaggi per ridurre contrasti negativi, transizioni scolastiche e sequenze meccaniche; preservati significato, struttura, esempi, source_refs, wikili...
+
+## 2026-08-05T16:21:06.769Z - VOL-03
+
+- conversation_id: conv-20260805162106-12v4zty
+- route: pipeline-step-12-mfc01-chapter-07
+- l0: l0/conv-20260805162106-12v4zty.md
+- atoms:
+  - mem-20260805162106-1xungu9 | result | Esito pipeline-step-12-mfc01-chapter-07: Procedi con il prossimo step della pipeline VOL-03 preservando i contenuti scritti da me. -> Completato lo step 12 Revisione Editoriale Totale di M-FC01 capitolo 07 Avvocatura dello Stato: report canonico in 10 sezioni, nessun errore grave o nucleo incompleto, otto nuclei completi, cinque controlli assegnati ...
+
+## 2026-08-05T16:24:41.214Z - VOL-03
+
+- conversation_id: conv-20260805162441-1h1g2gq
+- route: pipeline-step-08-mfc01-chapter-08
+- l0: l0/conv-20260805162441-1h1g2gq.md
+- atoms:
+  - mem-20260805162441-1t0x6dz | workflow | Ok, procedi con il prossimo step della pipeline VOL-03.
+  - mem-20260805162441-68yx6c | result | Esito pipeline-step-08-mfc01-chapter-08: Ok, procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 08 di M-FC01 capitolo 08 PIAO, performance, anticorruzione e valore pubblico: piano operativo con otto nuclei atomici, confini con VOL-01 e capitoli vicini, fonti, apparati didattici, struttura H1/H...
+
+## 2026-08-05T16:28:55.336Z - VOL-08
+
+- conversation_id: conv-20260805162855-1bagk7n
+- route: codex/pipeline-volume/steps-13-15/m-tr01
+- l0: l0/conv-20260805162855-1bagk7n.md
+- atoms:
+  - mem-20260805162855-17k8qrv | workflow | Ok, prosegui con la pipeline aggiornata di VOL-08.
+  - mem-20260805162855-e8d8kx | result | Esito codex/pipeline-volume/steps-13-15/m-tr01: Ok, prosegui con la pipeline aggiornata di VOL-08. -> Risolti blocker e completati step 13 e 14.
+
+## 2026-08-05T16:33:18.259Z - VOL-03
+
+- conversation_id: conv-20260805163318-148km3c
+- route: pipeline-step-09-mfc01-chapter-08
+- l0: l0/conv-20260805163318-148km3c.md
+- atoms:
+  - mem-20260805163318-sb3b4u | result | Esito pipeline-step-09-mfc01-chapter-08: Procedi con il prossimo step della pipeline VOL-03. -> Completato lo step 09 di M-FC01 capitolo 08 PIAO, performance, anticorruzione e valore pubblico: scritto il capitolo completo con otto nuclei, Mappa BANDO, teoria integrata, flusso d ufficio, tabella comparativa, caso...
 ## 2026-07-29T21:51:17.806Z - vol-02-editorial
 
 - conversation_id: conv-20260729215117-bp8asu
@@ -2620,13 +4245,13 @@
 - l0: l0/conv-20260729223531-z7ay09.md
 - atoms:
   - mem-20260729223531-ks6dtm | workflow | Procedere con la pipeline completa VOL-02.
-  - mem-20260729223531-1dgbv5l | result | Esito codex/pipeline-vol02-step08-12: Procedere con la pipeline completa VOL-02. -> Step 08-12 completati per il primo target: piano, lint, matrice, citation guard e report editoriale; restano 264 step pending e la pubblicabilità richiede review normativa e verifica bandi.
+  - mem-20260729223531-1dgbv5l | result | Esito codex/pipeline-vol02-step08-12: Procedere con la pipeline completa VOL-02. -> Step 08-12 completati per il primo target: piano, lint, matrice, citation guard e report editoriale; restano 264 step pending e la pubblicabilitÃ  richiede review normativa e verifica bandi.
 ## 2026-07-28T12:33:11.441Z - VOL-07
 - conversation_id: conv-20260728123311-fvxqgc
 - route: codex-vol-07-source-ingest-pipeline-start
 - l0: l0/conv-20260728123311-fvxqgc.md
-  - mem-20260728123311-19nlbb0 | workflow | Acquisire il dossier VOL-07 Sanità amministrativa e professioni sanitarie, censire tutte le fonti e materie richieste e avviare la pipeline di sviluppo secondo AGENTS.md.
-  - mem-20260728123311-1dgwejp | result | Esito codex-vol-07-source-ingest-pipeline-start: Acquisire il dossier VOL-07 Sanità amministrativa e professioni sanitarie, censire tutte le fonti e materie richieste e avviare la pipeline di sviluppo secondo AGENTS.md. -> Dossier acquisito come raw immutabile con SHA-256 verificato; creata source note canonica per la pianificazione, inventario completo di 74 fonti/famiglie e matrice iniziale di 48 requisiti specialistici.
+  - mem-20260728123311-19nlbb0 | workflow | Acquisire il dossier VOL-07 SanitÃ  amministrativa e professioni sanitarie, censire tutte le fonti e materie richieste e avviare la pipeline di sviluppo secondo AGENTS.md.
+  - mem-20260728123311-1dgwejp | result | Esito codex-vol-07-source-ingest-pipeline-start: Acquisire il dossier VOL-07 SanitÃ  amministrativa e professioni sanitarie, censire tutte le fonti e materie richieste e avviare la pipeline di sviluppo secondo AGENTS.md. -> Dossier acquisito come raw immutabile con SHA-256 verificato; creata source note canonica per la pianificazione, inventario completo di 74 fonti/famiglie e matrice iniziale di 48 requisiti specialistici.
 ## 2026-07-28T18:28:47.382Z - VOL-07
 - conversation_id: conv-20260728182847-1uf3uu6
 - route: codex-vol-07-m-sa02-step07-source-unblocking
@@ -2692,8 +4317,8 @@
 - conversation_id: conv-20260729124607-29i74u
 - route: pipeline-volume-step-07-epidemiologia-premal
 - l0: l0/conv-20260729124607-29i74u.md
-  - mem-20260729124607-16dadm7 | preference | Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finché manca review epidemiologica indipendente.
-  - mem-20260729124607-1jkzuhm | result | Esito pipeline-volume-step-07-epidemiologia-premal: Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finché manca revie... -> Acquisiti 4 PDF ufficiali per 190 pagine; creati source note e scenario completo; verificati 117 record in 15 log, 132 raw, 4/4 calcoli, 179 test e typecheck.
+  - mem-20260729124607-16dadm7 | preference | Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finchÃ© manca review epidemiologica indipendente.
+  - mem-20260729124607-1jkzuhm | result | Esito pipeline-volume-step-07-epidemiologia-premal: Ricorda: per VOL-07 M-SA02 il corpus PREMAL e risposta al segnale comprende DM 7 marzo 2022 in Gazzetta, guida ISS-EpiCentro e due strumenti ECDC; lo scenario resta planning e non autorizza capitoli finchÃ© manca revie... -> Acquisiti 4 PDF ufficiali per 190 pagine; creati source note e scenario completo; verificati 117 record in 15 log, 132 raw, 4/4 calcoli, 179 test e typecheck.
 ## 2026-07-29T12:59:06.581Z - VOL-07/M-SA02
 - conversation_id: conv-20260729125906-16senep
 - route: pipeline-volume/step-07/review-package
@@ -2771,8 +4396,8 @@
 - conversation_id: conv-20260729203505-ejgfsq
 - route: pipeline-vol-07-m-sa02-chapter-03-step-09
 - l0: l0/conv-20260729203505-ejgfsq.md
-  - mem-20260729203505-1nm2mgt | workflow | Scrittura step 09 del capitolo M-SA02 03 su autonomia, responsabilità e deontologia.
-  - mem-20260729203505-aa0zx5 | result | Esito pipeline-vol-07-m-sa02-chapter-03-step-09: Scrittura step 09 del capitolo M-SA02 03 su autonomia, responsabilità e deontologia. -> Capitolo ricostruito da tre passaggi UTF-8, gate chapter-lint passato e step 09 completato.
+  - mem-20260729203505-1nm2mgt | workflow | Scrittura step 09 del capitolo M-SA02 03 su autonomia, responsabilitÃ  e deontologia.
+  - mem-20260729203505-aa0zx5 | result | Esito pipeline-vol-07-m-sa02-chapter-03-step-09: Scrittura step 09 del capitolo M-SA02 03 su autonomia, responsabilitÃ  e deontologia. -> Capitolo ricostruito da tre passaggi UTF-8, gate chapter-lint passato e step 09 completato.
 ## 2026-07-29T20:52:47.638Z - editorial-review
 - conversation_id: conv-20260729205247-11bv37m
 - route: pipeline-volume/vol-07-m-sa02-step-10-chapter-03
@@ -2824,25 +4449,25 @@
 - conversation_id: conv-20260730120233-1ibowkc
 - route: fix-round-1-chapter-04-flows
 - l0: l0/conv-20260730120233-1ibowkc.md
-  - mem-20260730120233-4gof12 | result | Esito fix-round-1-chapter-04-flows: Correggere la copertura SDO CE SP con sette dimensioni, aggiungere tracciabilità privacy e sostituire la tabella larga con schede verticali. -> Consolidate due note ufficiali SDO e CE/SP; capitolo portato a 5818 parole con tre schede verticali e 21 blocchi dimensionali; gate verde; commit 1dd98a3 senza run-state.
+  - mem-20260730120233-4gof12 | result | Esito fix-round-1-chapter-04-flows: Correggere la copertura SDO CE SP con sette dimensioni, aggiungere tracciabilitÃ  privacy e sostituire la tabella larga con schede verticali. -> Consolidate due note ufficiali SDO e CE/SP; capitolo portato a 5818 parole con tre schede verticali e 21 blocchi dimensionali; gate verde; commit 1dd98a3 senza run-state.
 ## 2026-07-30T12:48:55.833Z - VOL-07/M-SA01
 - conversation_id: conv-20260730124855-z7el0g
 - route: fix-round-2-raw-traceability
 - l0: l0/conv-20260730124855-z7el0g.md
-  - mem-20260730124855-1s5zkan | result | Esito fix-round-2-raw-traceability: Riparare la tracciabilità raw SDO e CE/SP: conservare i challenge Gcore come bloccati, acquisire raw ufficiali validi, aggiungere la regola HTML a .gitattributes, eseguire solo gate 09 e diff-check, commit senza push. -> Acquisiti e verificati G.U.
+  - mem-20260730124855-1s5zkan | result | Esito fix-round-2-raw-traceability: Riparare la tracciabilitÃ  raw SDO e CE/SP: conservare i challenge Gcore come bloccati, acquisire raw ufficiali validi, aggiungere la regola HTML a .gitattributes, eseguire solo gate 09 e diff-check, commit senza push. -> Acquisiti e verificati G.U.
 ## 2026-07-30T12:58:54.600Z - VOL-07/M-SA01
 - conversation_id: conv-20260730125854-miag32
 - route: pipeline-volume/msa01-phase-c-start
 - l0: l0/conv-20260730125854-miag32.md
   - mem-20260730125854-1opaaiw | preference | Ricorda: per VOL-07/M-SA01 sono stati attivati insieme cinque capitoli della fase C, da lavorare progressivamente.
-  - mem-20260730125854-be1k4p | workflow | Lo step 07 è superato e lo stato condiviso deve essere sincronizzato esclusivamente tramite il CLI della pipeline.
+  - mem-20260730125854-be1k4p | workflow | Lo step 07 Ã¨ superato e lo stato condiviso deve essere sincronizzato esclusivamente tramite il CLI della pipeline.
   - mem-20260730125854-1aod2a2 | result | Esito pipeline-volume/msa01-phase-c-start: Ricorda: per VOL-07/M-SA01 sono stati attivati insieme cinque capitoli della fase C, da lavorare progressivamente. -> Verifiche integrate eseguite dopo sync CLI e avvio del capitolo 04: test pipeline 137/137, suite completa 200/200 e typecheck superati; status VOL-07 senza blocker, step 10 del capitolo 04 pending.
 ## 2026-07-30T13:45:40.680Z - VOL-07/M-SA01
 - conversation_id: conv-20260730134540-1xrpnhz
 - route: packaging/msa01-source-corpus
 - l0: l0/conv-20260730134540-1xrpnhz.md
-  - mem-20260730134540-3win8u | project_fact | Confezionare il corpus M-SA01 in un commit selettivo: matrice, cinque source note, dipendenze raw complete, hash manifest e OpenBDAP immutabile; non modificare run-state né includere M-SA02.
-  - mem-20260730134540-g982kp | result | Esito packaging/msa01-source-corpus: Confezionare il corpus M-SA01 in un commit selettivo: matrice, cinque source note, dipendenze raw complete, hash manifest e OpenBDAP immutabile; non modificare run-state né includere M-SA02. -> Commit d6ac314 creato con 34 file.
+  - mem-20260730134540-3win8u | project_fact | Confezionare il corpus M-SA01 in un commit selettivo: matrice, cinque source note, dipendenze raw complete, hash manifest e OpenBDAP immutabile; non modificare run-state nÃ© includere M-SA02.
+  - mem-20260730134540-g982kp | result | Esito packaging/msa01-source-corpus: Confezionare il corpus M-SA01 in un commit selettivo: matrice, cinque source note, dipendenze raw complete, hash manifest e OpenBDAP immutabile; non modificare run-state nÃ© includere M-SA02. -> Commit d6ac314 creato con 34 file.
 ## 2026-07-30T13:59:34.448Z - VOL-07/M-SA01
 - conversation_id: conv-20260730135934-1t6gzq3
 - route: packaging/msa01-source-corpus-fix-round-1
@@ -2943,20 +4568,20 @@
 - conversation_id: conv-20260730202043-j82he8
 - route: vol-07-m-sa01-capitolo-09-step-08-piano
 - l0: l0/conv-20260730202043-j82he8.md
-  - mem-20260730202043-6u77hh | workflow | Procedere in ordine con la pipeline VOL-07 e preparare il piano completo del capitolo 09 M-SA01 su contabilità, budget e controllo di gestione per studenti dei concorsi pubblici.
-  - mem-20260730202043-1355mro | result | Esito vol-07-m-sa01-capitolo-09-step-08-piano: Procedere in ordine con la pipeline VOL-07 e preparare il piano completo del capitolo 09 M-SA01 su contabilità, budget e controllo di gestione per studenti dei concorsi pubblici. -> Step 08 completato: piano operativo completo del capitolo 09; due nuclei assegnati, struttura H1/H2/H3, budget KDP, casi, esercizi, fonti e review definiti; blocker LA/CP risolto sulla fonte primaria D.M.
+  - mem-20260730202043-6u77hh | workflow | Procedere in ordine con la pipeline VOL-07 e preparare il piano completo del capitolo 09 M-SA01 su contabilitÃ , budget e controllo di gestione per studenti dei concorsi pubblici.
+  - mem-20260730202043-1355mro | result | Esito vol-07-m-sa01-capitolo-09-step-08-piano: Procedere in ordine con la pipeline VOL-07 e preparare il piano completo del capitolo 09 M-SA01 su contabilitÃ , budget e controllo di gestione per studenti dei concorsi pubblici. -> Step 08 completato: piano operativo completo del capitolo 09; due nuclei assegnati, struttura H1/H2/H3, budget KDP, casi, esercizi, fonti e review definiti; blocker LA/CP risolto sulla fonte primaria D.M.
 ## 2026-07-30T20:37:34.023Z - pipeline-volume:VOL-07
 - conversation_id: conv-20260730203734-1adndax
 - route: vol-07-m-sa01-capitolo-09-step-09-scrittura
 - l0: l0/conv-20260730203734-1adndax.md
-  - mem-20260730203734-49bcqx | workflow | Procedere in ordine con la pipeline VOL-07 e scrivere il capitolo 09 M-SA01 su contabilità, budget e controllo di gestione per studenti dei concorsi pubblici.
-  - mem-20260730203734-13hll25 | result | Esito vol-07-m-sa01-capitolo-09-step-09-scrittura: Procedere in ordine con la pipeline VOL-07 e scrivere il capitolo 09 M-SA01 su contabilità, budget e controllo di gestione per studenti dei concorsi pubblici. -> Step 09 completato: capitolo 09 scritto come testo autonomo di 6.579 parole con contabilità sanitaria, bilancio, CE/SP/LA/CP, budget, centri, performance, scostamenti, caso numerico ed esercizi; chapter-lint verde; te...
+  - mem-20260730203734-49bcqx | workflow | Procedere in ordine con la pipeline VOL-07 e scrivere il capitolo 09 M-SA01 su contabilitÃ , budget e controllo di gestione per studenti dei concorsi pubblici.
+  - mem-20260730203734-13hll25 | result | Esito vol-07-m-sa01-capitolo-09-step-09-scrittura: Procedere in ordine con la pipeline VOL-07 e scrivere il capitolo 09 M-SA01 su contabilitÃ , budget e controllo di gestione per studenti dei concorsi pubblici. -> Step 09 completato: capitolo 09 scritto come testo autonomo di 6.579 parole con contabilitÃ  sanitaria, bilancio, CE/SP/LA/CP, budget, centri, performance, scostamenti, caso numerico ed esercizi; chapter-lint verde; te...
 ## 2026-07-30T20:56:40.595Z - pipeline-volume:VOL-07
 - conversation_id: conv-20260730205640-w7wjgu
 - route: vol-07-m-sa01-capitolo-09-step-10-copertura
 - l0: l0/conv-20260730205640-w7wjgu.md
   - mem-20260730205640-c37upt | workflow | Procedere in ordine con la pipeline VOL-07 sul capitolo 09 M-SA01.
-  - mem-20260730205640-san50y | result | Esito vol-07-m-sa01-capitolo-09-step-10-copertura: Procedere in ordine con la pipeline VOL-07 sul capitolo 09 M-SA01. -> Step 10 completato: audit di copertura del capitolo 09 su contabilità economico-patrimoniale sanitaria e budget/programmazione; entrambi i nuclei confermati completi criterio per criterio; matrice allineata e collegat...
+  - mem-20260730205640-san50y | result | Esito vol-07-m-sa01-capitolo-09-step-10-copertura: Procedere in ordine con la pipeline VOL-07 sul capitolo 09 M-SA01. -> Step 10 completato: audit di copertura del capitolo 09 su contabilitÃ  economico-patrimoniale sanitaria e budget/programmazione; entrambi i nuclei confermati completi criterio per criterio; matrice allineata e collegat...
 ## 2026-07-30T21:21:23.174Z - pipeline-volume:VOL-07
 - conversation_id: conv-20260730212123-1ll5n8g
 - route: vol-07-m-sa01-capitolo-09-step-11-humanizer
@@ -2998,7 +4623,7 @@
 - route: vol-07/m-sa02/chapter-06/steps-08-12
 - l0: l0/conv-20260731094620-oh1exl.md
   - mem-20260731094620-1rmkm4q | workflow | Procedere automaticamente con il prossimo passo della pipeline VOL-07, mantenendo i capitoli autosufficienti per gli studenti e lasciando la revisione umana allo staff.
-  - mem-20260731094620-y31nbt | result | Esito vol-07/m-sa02/chapter-06/steps-08-12: Procedere automaticamente con il prossimo passo della pipeline VOL-07, mantenendo i capitoli autosufficienti per gli studenti e lasciando la revisione umana allo staff. -> Completato M-SA02 capitolo 06 Prevenzione, continuità assistenziale e presa in carico negli step 08-12.
+  - mem-20260731094620-y31nbt | result | Esito vol-07/m-sa02/chapter-06/steps-08-12: Procedere automaticamente con il prossimo passo della pipeline VOL-07, mantenendo i capitoli autosufficienti per gli studenti e lasciando la revisione umana allo staff. -> Completato M-SA02 capitolo 06 Prevenzione, continuitÃ  assistenziale e presa in carico negli step 08-12.
 ## 2026-07-31T10:11:39.064Z - pipeline-volume
 - conversation_id: conv-20260731101139-vjg5jj
 - route: vol-07/m-sa02/chapter-07/steps-08-12
@@ -3055,7 +4680,7 @@
 - conversation_id: conv-20260731151751-1had0km
 - route: codex/task-15-m-sa03-04
 - l0: l0/conv-20260731151751-1had0km.md
-  - mem-20260731151751-tgqlvo | result | Esito codex/task-15-m-sa03-04: Procedere automaticamente con VOL-07 e rinviare la revisione umana alla fine del volume. -> Completato e approvato M-SA03 capitolo 04 su governo clinico, HTA, qualità, accreditamento e rischio.
+  - mem-20260731151751-tgqlvo | result | Esito codex/task-15-m-sa03-04: Procedere automaticamente con VOL-07 e rinviare la revisione umana alla fine del volume. -> Completato e approvato M-SA03 capitolo 04 su governo clinico, HTA, qualitÃ , accreditamento e rischio.
 ## 2026-07-31T15:52:34.935Z - volume:VOL-07
 - conversation_id: conv-20260731155234-1x2ez85
 - route: codex/pipeline-volume/task16
@@ -3154,7 +4779,7 @@
 - route: codex/hybrid-nuclei-final-only
 - l0: l0/conv-20260802161536-1grzjhr.md
 - atoms:
-  - mem-20260802161536-w9or5u | result | Esito codex/hybrid-nuclei-final-only: Il revisore umano deve intervenire solo come ultimissimo step, senza limitare la produzione; nessun nome assegnato e testi già completi prima della conferma finale. -> Implementata policy final-only: unico step umano 24; step 15 automatico e bloccante sui rinvii umani; campi nominativi rimossi da spec, template e prompt; stati storici VOL-07 migrati via CLI; M-SA02/05 e M-FC02/04 va...
+  - mem-20260802161536-w9or5u | result | Esito codex/hybrid-nuclei-final-only: Il revisore umano deve intervenire solo come ultimissimo step, senza limitare la produzione; nessun nome assegnato e testi giÃ  completi prima della conferma finale. -> Implementata policy final-only: unico step umano 24; step 15 automatico e bloccante sui rinvii umani; campi nominativi rimossi da spec, template e prompt; stati storici VOL-07 migrati via CLI; M-SA02/05 e M-FC02/04 va...
 
 ## 2026-08-02T16:56:35.141Z - pipeline
 
@@ -3207,7 +4832,7 @@
 - route: pipeline-volume-vol-07-m-sa03-step-16-text-freeze
 - l0: l0/conv-20260804083754-pgut3q.md
 - atoms:
-  - mem-20260804083754-1iksjhp | result | Esito pipeline-volume-vol-07-m-sa03-step-16-text-freeze: Procedere con il prossimo step della pipeline VOL-07. -> Completato lo step 16 di M-SA03: text freeze registrato con accettazione manuale motivata perché il gate non è implementato; manifest SHA-256 validato su 14 file; 7 capitoli, matrice 9/9, Humanizer 7/7, 28 wikilink e ...
+  - mem-20260804083754-1iksjhp | result | Esito pipeline-volume-vol-07-m-sa03-step-16-text-freeze: Procedere con il prossimo step della pipeline VOL-07. -> Completato lo step 16 di M-SA03: text freeze registrato con accettazione manuale motivata perchÃ© il gate non Ã¨ implementato; manifest SHA-256 validato su 14 file; 7 capitoli, matrice 9/9, Humanizer 7/7, 28 wikilink e ...
 
 ## 2026-08-04T09:00:07.655Z - VOL-07/M-SA04
 
@@ -3224,7 +4849,7 @@
 - route: pipeline-volume-vol-07-m-sa04-step-16-text-freeze
 - l0: l0/conv-20260804090859-hhvnoo.md
 - atoms:
-  - mem-20260804090859-1vugjgh | result | Esito pipeline-volume-vol-07-m-sa04-step-16-text-freeze: Procedere con il prossimo step canonico della pipeline VOL-07. -> Completato lo step 16 di M-SA04: text freeze registrato con accettazione manuale motivata perché il gate non è implementato; manifest SHA-256 validato su 11 file; 4 capitoli, matrice 9/9, Humanizer 4/4, 22 wikilink e ...
+  - mem-20260804090859-1vugjgh | result | Esito pipeline-volume-vol-07-m-sa04-step-16-text-freeze: Procedere con il prossimo step canonico della pipeline VOL-07. -> Completato lo step 16 di M-SA04: text freeze registrato con accettazione manuale motivata perchÃ© il gate non Ã¨ implementato; manifest SHA-256 validato su 11 file; 4 capitoli, matrice 9/9, Humanizer 4/4, 22 wikilink e ...
 
 ## 2026-08-04T09:34:00.198Z - VOL-07
 
@@ -3311,6 +4936,892 @@
 - atoms:
   - mem-20260805162301-h3d2eg | instruction | Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro.
   - mem-20260805162301-1o8jzn0 | result | Esito codex/git-publish: Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. -> Pubblicazione eseguita su origin/main con push fast-forward senza force, reset o rebase.
+
+## 2026-08-05T16:35:51.347Z - repository
+
+- conversation_id: conv-20260805163551-1iv7vdj
+- route: github-staff-sync-20260805
+- l0: l0/conv-20260805163551-1iv7vdj.md
+- atoms:
+  - mem-20260805163551-rwj6g3 | result | Esito github-staff-sync-20260805: Scarica da GitHub gli aggiornamenti effettuati dallo staff per allinearci agli aggiornamenti, senza sovrascrivere il mio lavoro. -> Eseguito fetch origin e integrato origin/main nel branch mfc02-didactic-coverage-20260727 tramite merge commit 8e72b17 con checkpoint del lavoro locale.
+
+## 2026-08-05T16:40:41.337Z - global
+
+- conversation_id: conv-20260805164041-ukw4zm
+- route: codex/github-staff-sync-20260805
+- l0: l0/conv-20260805164041-ukw4zm.md
+- atoms:
+  - mem-20260805164041-1nqconn | result | Esito codex/github-staff-sync-20260805: Scarica da GitHub gli aggiornamenti effettuati dallo staff senza sovrascrivere il mio lavoro. -> Fetch di origin completato; origin/main integrato con commit di merge 8e72b17; lavoro locale protetto nei commit 0de51f2 e nello stash safety-before-staff-sync-2026-08-05; false rinomine dei capitoli corrette nel comm...
+
+## 2026-08-05T16:54:15.003Z - VOL-03/M-FC01
+
+- conversation_id: conv-20260805165415-rr0qu
+- route: pipeline-volume/vol03-step10-ch08
+- l0: l0/conv-20260805165415-rr0qu.md
+- atoms:
+  - mem-20260805165415-zwdu4y | result | Esito pipeline-volume/vol03-step10-ch08: Riconcilia in sicurezza gli aggiornamenti dello staff preservando il lavoro locale e procedi con VOL-03. -> Riconciliazione sicura completata; recuperati e versionati 241 file locali nel commit da2388e.
+
+## 2026-08-05T16:58:14.320Z - VOL-03/M-FC01
+
+- conversation_id: conv-20260805165814-19ch9sj
+- route: pipeline-step-11-mfc01-chapter-08
+- l0: l0/conv-20260805165814-19ch9sj.md
+- atoms:
+  - mem-20260805165814-qxmoqi | result | Esito pipeline-step-11-mfc01-chapter-08: Procedi con il prossimo step della pipeline VOL-03. -> Completato step 11 Humanizer del capitolo 08.
+
+## 2026-08-05T17:06:11.831Z - VOL-03/M-FC01
+
+- conversation_id: conv-20260805170611-p6czfi
+- route: pipeline-step-12-mfc01-chapter-08
+- l0: l0/conv-20260805170611-p6czfi.md
+- atoms:
+  - mem-20260805170611-1ya9pce | result | Esito pipeline-step-12-mfc01-chapter-08: Procedi con il prossimo step della pipeline VOL-03. -> Completato step 12 Revisione Editoriale Totale del capitolo 08.
+
+## 2026-08-05T17:14:23.209Z - VOL-03/M-FC01
+
+- conversation_id: conv-20260805171423-1eiavwj
+- route: pipeline-step-08-mfc01-chapter-09
+- l0: l0/conv-20260805171423-1eiavwj.md
+- atoms:
+  - mem-20260805171423-1xitbfc | result | Esito pipeline-step-08-mfc01-chapter-09: Procedi con il prossimo step della pipeline VOL-03. -> Completato step 08 del capitolo 09 ContabilitÃ  dello Stato e bilancio ministeriale.
+
+## 2026-08-05T17:16:20.720Z - VOL-08
+
+- conversation_id: conv-20260805171620-1572pc4
+- route: codex/pipeline-volume/steps-15-16/m-tr01
+- l0: l0/conv-20260805171620-1572pc4.md
+- atoms:
+  - mem-20260805171620-62cxs9 | workflow | Procedere con la pipeline aggiornata VOL-08 completando i passaggi non effettuati senza sovrascrivere il lavoro concorrente.
+  - mem-20260805171620-9uke7y | result | Esito codex/pipeline-volume/steps-15-16/m-tr01: Procedere con la pipeline aggiornata VOL-08 completando i passaggi non effettuati senza sovrascrivere il lavoro concorrente. -> Completati audit specialistico step 15 e text freeze step 16 per M-TR01 in worktree isolato e integrati nel ramo corrente; manifest 37 file, prossimo step 18.
+
+## 2026-08-05T17:20:52.049Z - VOL-08
+
+- conversation_id: conv-20260805172052-1jrs8lw
+- route: codex/pipeline-volume/step-18/m-tr01
+- l0: l0/conv-20260805172052-1jrs8lw.md
+- atoms:
+  - mem-20260805172052-g4fv56 | result | Esito codex/pipeline-volume/step-18/m-tr01: Ok, prossimo step. -> Completato step 18 M-TR01: inventario 13 capitoli, zero asset e riferimenti immagine, filosofia Circuito Civico, audit Book Studio 14/14; prossimo step CLI 00 catalogo.
+
+## 2026-08-05T17:21:12.917Z - VOL-03/M-FC01
+
+- conversation_id: conv-20260805172112-71qgkn
+- route: pipeline-volume/step-09
+- l0: l0/conv-20260805172112-71qgkn.md
+- atoms:
+  - mem-20260805172112-22rmd5 | workflow | Procedere con il prossimo step della pipeline VOL-03 preservando il lavoro locale.
+  - mem-20260805172112-iy4kn4 | result | Esito pipeline-volume/step-09: Procedere con il prossimo step della pipeline VOL-03 preservando il lavoro locale. -> Completato lo step 09 del capitolo ContabilitÃ  dello Stato e bilancio ministeriale in format_version 2.
+
+## 2026-08-05T17:26:10.113Z - VOL-08
+
+- conversation_id: conv-20260805172610-e1i6yd
+- route: codex/pipeline-volume/step-00/intake
+- l0: l0/conv-20260805172610-e1i6yd.md
+- atoms:
+  - mem-20260805172610-zzamvq | result | Esito codex/pipeline-volume/step-00/intake: Prossimo step. -> Completato step 00 VOL-08: target M-TR01 identificato, riferimenti canonici e memoria letti, stato Git e collisioni documentati, nessun contenuto editoriale modificato; prossimo step 01.
+
+## 2026-08-12T12:43:53.194Z - VOL-08
+
+- conversation_id: conv-20260812124353-c88rkl
+- route: codex/pipeline-volume/step-16/m-tr01
+- l0: l0/conv-20260812124353-c88rkl.md
+- atoms:
+  - mem-20260812124353-1a6kv5t | result | Esito codex/pipeline-volume/step-16/m-tr01: ok procedi con il prossimo step -> Completato step 16 M-TR01: chiusi 11 flag review_required residui, audit Format 2 82/82 verde, typecheck verde, manifest di text freeze con 39 hash SHA-256 verificati sul commit b0b2a68, gate non implementato accettat...
+
+## 2026-08-12T12:52:09.790Z - VOL-08
+
+- conversation_id: conv-20260812125209-wt9xeb
+- route: codex/pipeline-volume/step-18/m-tr01-format2
+- l0: l0/conv-20260812125209-wt9xeb.md
+- atoms:
+  - mem-20260812125209-ucykoa | result | Esito codex/pipeline-volume/step-18/m-tr01-format2: ok procedi con il prossimo step -> Completato step 18 M-TR01: filosofia Circuito Civico confermata; inventario 13 capitoli con zero asset e zero riferimenti immagine; Book Studio isolato sul worktree: 231 pagine, 82 nuclei, 82 indice, 13 verifiche, zer...
+
+## 2026-08-12T12:54:09.243Z - VOL-08
+
+- conversation_id: conv-20260812125409-rnr8jd
+- route: codex/pipeline-volume/step-17/volume-visual-philosophy
+- l0: l0/conv-20260812125409-rnr8jd.md
+- atoms:
+  - mem-20260812125409-1qg4nvo | result | Esito codex/pipeline-volume/step-17/volume-visual-philosophy: procedi -> Completato step 17 VOL-08: filosofia visiva canonica Circuito Civico aggiornata al Format 2, con Nucleo ID, apparati Verifica, indice analitico e limite di tre colonne; nessun asset creato; prossimo step 19.
+
+## 2026-08-12T12:56:58.342Z - VOL-08
+
+- conversation_id: conv-20260812125658-1115num
+- route: codex/pipeline-volume/step-19/kdp-layout
+- l0: l0/conv-20260812125658-1115num.md
+- atoms:
+  - mem-20260812125658-1oj5z78 | result | Esito codex/pipeline-volume/step-19/kdp-layout: procedi -> Completato step 19 VOL-08: master KDP verificato su istanza Book Studio isolata, 231 pagine progressive, 6 front matter, 1 apertura modulo, 13 capitoli, 82 nuclei e indice 82, 13 apparati Verifica, zero overflow/colli...
+
+## 2026-08-12T13:30:09.292Z - VOL-08
+
+- conversation_id: conv-20260812133009-7xwgb8
+- route: codex/pipeline-volume/step-20/page-audit
+- l0: l0/conv-20260812133009-7xwgb8.md
+- atoms:
+  - mem-20260812133009-coavf6 | result | Esito codex/pipeline-volume/step-20/page-audit: procedi -> Completato step 20 VOL-08: audit 231/231 pagine e 12/12 tavole; corretto paginator con TDD per titoli orfani e liste continuate; zero blocker, overflow, collisioni e asset mancanti; tre euristiche medie ricontrollate ...
+
+## 2026-08-12T13:44:31.313Z - VOL-08
+
+- conversation_id: conv-20260812134431-1yv7usf
+- route: codex/pipeline-volume/step-21/final-editorial-review
+- l0: l0/conv-20260812134431-1yv7usf.md
+- atoms:
+  - mem-20260812134431-k8ag2l | result | Esito codex/pipeline-volume/step-21/final-editorial-review: procedi -> Completato step 21 VOL-08: Revisore Editoriale Totale su 30 punti e copertura v4; corretti metadati pubblici obsoleti e refuso report step 20; 82/82 nuclei, 231/231 pagine, 79 test e typecheck verdi; gate review-repor...
+
+## 2026-08-12T16:30:42.142Z - VOL-08
+
+- conversation_id: conv-20260812163042-yijdgl
+- route: pipeline-step-22
+- l0: l0/conv-20260812163042-yijdgl.md
+- atoms:
+  - mem-20260812163042-h2f5a7 | workflow | Procedi con la pipeline aggiornata di VOL-08 fino allo stato pubblicabile.
+  - mem-20260812163042-1yt7jxe | result | Esito pipeline-step-22: Procedi con la pipeline aggiornata di VOL-08 fino allo stato pubblicabile. -> Step 22 preflight completato: audit 82/82, 95 test, typecheck e build verdi; PDF candidato 231 pagine esportato.
+
+## 2026-08-12T16:36:25.016Z - VOL-08
+
+- conversation_id: conv-20260812163625-1temlpb
+- route: pipeline-step-23
+- l0: l0/conv-20260812163625-1temlpb.md
+- atoms:
+  - mem-20260812163625-beisx7 | result | Esito pipeline-step-23: Procedi con il prossimo step di VOL-08. -> Step 23 completato: candidato di 9 file, manifest SHA-256 8/8, fetch remoto verificato senza merge distruttivo, 95 test e build verdi; step 24 umano ancora pendente.
+
+## 2026-08-12T16:40:03.854Z - VOL-08
+
+- conversation_id: conv-20260812164003-xuh5cy
+- route: pipeline-step-24
+- l0: l0/conv-20260812164003-xuh5cy.md
+- atoms:
+  - mem-20260812164003-a0v242 | result | Esito pipeline-step-24: Confermato -> Conferma umana finale registrata il 12 agosto 2026 per VOL-08-candidate-2026.08.12.1; pipeline completata, autorizzazione alla pubblicazione controllata, nessun upload esterno.
+## 2026-08-05T16:57:50.839Z - pipeline-volume
+
+- conversation_id: conv-20260805165750-gvti80
+- route: codex-vol02-cap12-complete
+- l0: l0/conv-20260805165750-gvti80.md
+- atoms:
+  - mem-20260805165750-19jjz9w | workflow | Procedere autonomamente con VOL-02 secondo la pipeline aggiornata, completando M-FL01 capitolo 12.
+  - mem-20260805165750-gas93e | result | Esito codex-vol02-cap12-complete: Procedere autonomamente con VOL-02 secondo la pipeline aggiornata, completando M-FL01 capitolo 12. -> VOL-02 M-FL01 capitolo 12 completato negli step 08-12 e commit c3506b8.
+
+## 2026-08-05T17:27:00.858Z - manual-writer
+
+- conversation_id: conv-20260805172700-1fkha9j
+- route: codex-vol02-mfl01-cap13-pipeline-08-12
+- l0: l0/conv-20260805172700-1fkha9j.md
+- atoms:
+  - mem-20260805172700-10ylzj1 | workflow | Completa VOL-02 secondo la pipeline aggiornata, proseguendo autonomamente.
+  - mem-20260805172700-1yattgq | workflow | In questa sessione chiudi il capitolo M-FL01 13 fino alla revisione editoriale.
+  - mem-20260805172700-1h64dvw | result | Esito codex-vol02-mfl01-cap13-pipeline-08-12: Completa VOL-02 secondo la pipeline aggiornata, proseguendo autonomamente. -> Completati gli step 08-12 del capitolo M-FL01 13.
+
+## 2026-08-05T17:53:35.748Z - VOL-02/M-FL01
+
+- conversation_id: conv-20260805175335-4gq8ey
+- route: codex/pipeline-volume
+- l0: l0/conv-20260805175335-4gq8ey.md
+- atoms:
+  - mem-20260805175335-wxt1z7 | workflow | Procedi con il completamento di VOL-02 secondo la pipeline aggiornata.
+  - mem-20260805175335-13lrork | result | Esito codex/pipeline-volume: Procedi con il completamento di VOL-02 secondo la pipeline aggiornata. -> Il capitolo 14 Ã¨ stato portato allo stato pubblicabile testuale: sette nuclei, circa 6.500 parole, sette quiz, cinque casi, matrice 77/77, gate 08-12 superati e 429 test passati.
+
+## 2026-08-05T18:26:27.760Z - VOL-02/M-FL01
+
+- conversation_id: conv-20260805182627-1w3nqox
+- route: codex/pipeline-volume
+- l0: l0/conv-20260805182627-1w3nqox.md
+- atoms:
+  - mem-20260805182627-1qis5wq | workflow | Procedi con VOL-02 secondo la pipeline aggiornata.
+  - mem-20260805182627-oa9ghj | result | Esito codex/pipeline-volume: Procedi con VOL-02 secondo la pipeline aggiornata. -> M-FL01 completato negli step 13-16: revisione trasversale, correzione dei residui legacy 01-07, audit specialistico automatico e text freeze con manifest SHA-256.
+
+## 2026-08-06T08:52:57.462Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806085257-1fc21qq
+- route: pipeline-volume.step-08-10
+- l0: l0/conv-20260806085257-1fc21qq.md
+- atoms:
+  - mem-20260806085257-1bjl2ek | result | Esito pipeline-volume.step-08-10: Procedi con VOL-02 secondo la pipeline aggiornata. -> Sincronizzato VOL-02 eliminando i target obsoleti chapters/00-piano-editoriale e aggiungendo lo step 24.
+
+## 2026-08-06T09:05:36.908Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806090536-lyy5uu
+- route: pipeline-volume.chapter-01-complete
+- l0: l0/conv-20260806090536-lyy5uu.md
+- atoms:
+  - mem-20260806090536-1grrou | result | Esito pipeline-volume.chapter-01-complete: Procedi con VOL-02. -> Completati step 11 Humanizer e 12 revisione editoriale del capitolo 01 M-FL02.
+
+## 2026-08-06T09:59:52.171Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806095952-s13uqd
+- route: pipeline-volume.chapter-02-complete
+- l0: l0/conv-20260806095952-s13uqd.md
+- atoms:
+  - mem-20260806095952-10r3wf3 | workflow | Procedi con VOL-02 M-FL02 secondo la pipeline aggiornata.
+  - mem-20260806095952-1c89bzd | result | Esito pipeline-volume.chapter-02-complete: Procedi con VOL-02 M-FL02 secondo la pipeline aggiornata. -> Completati step 10 densitÃ  didattica, 11 Humanizer e 12 revisione editoriale del capitolo 02 M-FL02; tutti i gate sono verdi senza warning.
+
+## 2026-08-06T10:17:20.290Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806101720-1bpbn3b
+- route: pipeline-volume.chapter-03-step-08-10
+- l0: l0/conv-20260806101720-1bpbn3b.md
+- atoms:
+  - mem-20260806101720-1r0w50j | result | Esito pipeline-volume.chapter-03-step-08-10: Procedi con VOL-02 M-FL02. -> Completati step 08, 09 e 10 del capitolo 03 M-FL02.
+
+## 2026-08-06T10:21:40.948Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806102140-10tob1f
+- route: pipeline-volume.chapter-03-complete
+- l0: l0/conv-20260806102140-10tob1f.md
+- atoms:
+  - mem-20260806102140-1ng5rzd | result | Esito pipeline-volume.chapter-03-complete: Procedi con VOL-02 M-FL02. -> Completati step 11 Humanizer e 12 revisione editoriale del capitolo 03 M-FL02.
+
+## 2026-08-06T10:28:35.236Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806102835-d6jxh5
+- route: pipeline-volume.chapter-04-step-08-09
+- l0: l0/conv-20260806102835-d6jxh5.md
+- atoms:
+  - mem-20260806102835-996n1u | workflow | Procedi in automatico con tutti i capitoli fino al completamento del Volume.
+  - mem-20260806102835-1a067b5 | result | Esito pipeline-volume.chapter-04-step-08-09: Procedi in automatico con tutti i capitoli fino al completamento del Volume. -> Attivato obiettivo continuativo VOL-02.
+
+## 2026-08-06T10:29:25.476Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806102925-wgwq46
+- route: pipeline-volume.chapter-04-step-10-start
+- l0: l0/conv-20260806102925-wgwq46.md
+- atoms:
+  - mem-20260806102925-gjll9h | result | Esito pipeline-volume.chapter-04-step-10-start: Completare automaticamente VOL-02. -> Capitolo 04: step 08-09 completati; step 10 aperto.
+
+## 2026-08-06T10:44:58.988Z - VOL-02/M-FL02
+
+- conversation_id: conv-20260806104458-fm2kml
+- route: pipeline-volume.chapter-04-complete
+- l0: l0/conv-20260806104458-fm2kml.md
+- atoms:
+  - mem-20260806104458-zp7c5c | result | Esito pipeline-volume.chapter-04-complete: Procedi automaticamente con VOL-02. -> Completato intero ciclo 08-12 del capitolo 04 M-FL02; tutti i gate verdi senza warning.
+
+## 2026-08-06T20:04:49.938Z - pipeline-volume
+
+- conversation_id: conv-20260806200449-3m3l7l
+- route: vol-02-m-fl02-capitolo-05-ciclo-08-12
+- l0: l0/conv-20260806200449-3m3l7l.md
+- atoms:
+  - mem-20260806200449-aw281l | result | Esito vol-02-m-fl02-capitolo-05-ciclo-08-12: Procedere automaticamente con VOL-02 fino al completamento. -> M-FL02 capitolo 05 completato negli step 08-12: piano, Formato 2, matrice, densitÃ , citation guard e report editoriale superati.
+
+## 2026-08-06T20:20:11.400Z - pipeline-volume
+
+- conversation_id: conv-20260806202011-vprtqf
+- route: vol-02-m-fl02-capitolo-06-ciclo-08-12
+- l0: l0/conv-20260806202011-vprtqf.md
+- atoms:
+  - mem-20260806202011-1y4yupd | result | Esito vol-02-m-fl02-capitolo-06-ciclo-08-12: Procedi automaticamente con VOL-02. -> M-FL02 capitolo 06 completato negli step 08-12 con Formato 2, matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-06T20:40:24.704Z - pipeline-volume
+
+- conversation_id: conv-20260806204024-1u2if5q
+- route: vol-02-m-fl02-capitolo-07-ciclo-08-12
+- l0: l0/conv-20260806204024-1u2if5q.md
+- atoms:
+  - mem-20260806204024-qmph3q | workflow | Procedi automaticamente con il prossimo capitolo di VOL-02.
+  - mem-20260806204024-gw57l | result | Esito vol-02-m-fl02-capitolo-07-ciclo-08-12: Procedi automaticamente con il prossimo capitolo di VOL-02. -> M-FL02 capitolo 07 completato negli step 08-12 con Formato 2, matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-07T08:07:04.522Z - pipeline-volume
+
+- conversation_id: conv-20260807080704-1t6lag0
+- route: vol-02-m-fl02-capitolo-08-ciclo-08-12
+- l0: l0/conv-20260807080704-1t6lag0.md
+- atoms:
+  - mem-20260807080704-15dbti8 | result | Esito vol-02-m-fl02-capitolo-08-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 08 completato negli step 08-12 con Formato 2, matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-07T09:46:54.048Z - pipeline-volume
+
+- conversation_id: conv-20260807094654-y214ne
+- route: vol-02-m-fl02-capitolo-09-ciclo-08-12
+- l0: l0/conv-20260807094654-y214ne.md
+- atoms:
+  - mem-20260807094654-typ27n | result | Esito vol-02-m-fl02-capitolo-09-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 09 completato negli step 08-12 con Formato 2, matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-07T10:39:29.137Z - pipeline-volume
+
+- conversation_id: conv-20260807103929-vzqczi
+- route: vol-02-m-fl02-capitolo-10-ciclo-08-12
+- l0: l0/conv-20260807103929-vzqczi.md
+- atoms:
+  - mem-20260807103929-oxp4xh | result | Esito vol-02-m-fl02-capitolo-10-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 10 completato negli step 08-12 con Formato 2, matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-07T11:28:43.937Z - pipeline-volume
+
+- conversation_id: conv-20260807112843-1e0qcmg
+- route: vol-02-m-fl02-capitolo-11-ciclo-08-12
+- l0: l0/conv-20260807112843-1e0qcmg.md
+- atoms:
+  - mem-20260807112843-1h2lh01 | result | Esito vol-02-m-fl02-capitolo-11-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 11 completato negli step 08-12 con Formato 2, matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-07T11:53:50.822Z - VOL-02
+
+- conversation_id: conv-20260807115350-1bshzg2
+- route: vol-02-m-fl02-capitolo-12-ciclo-08-12
+- l0: l0/conv-20260807115350-1bshzg2.md
+- atoms:
+  - mem-20260807115350-kglwai | result | Esito vol-02-m-fl02-capitolo-12-ciclo-08-12: Procedi con VOL-02. -> M-FL02 capitolo 12 completato negli step 08-12 con Formato 2, matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-07T11:57:52.300Z - VOL-02
+
+- conversation_id: conv-20260807115752-12u04om
+- route: vol-02-m-fl02-step-13
+- l0: l0/conv-20260807115752-12u04om.md
+- atoms:
+  - mem-20260807115752-1mcnw0t | result | Esito vol-02-m-fl02-step-13: Prossimo. -> Revisione trasversale M-FL02 completata; Bibbia del modulo creata, indice aggiornato e gate 13 verde.
+
+## 2026-08-07T12:45:56.176Z - VOL-02
+
+- conversation_id: conv-20260807124556-19gp1zv
+- route: vol-02-m-fl02-steps-14-16
+- l0: l0/conv-20260807124556-19gp1zv.md
+- atoms:
+  - mem-20260807124556-1balx2s | result | Esito vol-02-m-fl02-steps-14-16: Procedi. -> M-FL02 completato: step 14 e 15 verdi, audit specialistico chiuso, step 16 text freeze verificato manualmente con manifest SHA-256.
+
+## 2026-08-07T14:08:18.418Z - VOL-02
+
+- conversation_id: conv-20260807140818-1ncu0d5
+- route: vol-02-m-fl04-capitolo-01-ciclo-08-12
+- l0: l0/conv-20260807140818-1ncu0d5.md
+- atoms:
+  - mem-20260807140818-m2wnol | result | Esito vol-02-m-fl04-capitolo-01-ciclo-08-12: Procedi. -> M-FL04 capitolo 01 completato negli step 08-12 con Formato 2, nuova matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-07T14:20:46.401Z - VOL-02
+
+- conversation_id: conv-20260807142046-39e4pw
+- route: vol-02-m-fl04-capitolo-02-ciclo-08-12
+- l0: l0/conv-20260807142046-39e4pw.md
+- atoms:
+  - mem-20260807142046-1pilbp1 | result | Esito vol-02-m-fl04-capitolo-02-ciclo-08-12: Procedi. -> M-FL04 capitolo 02 completato negli step 08-12 con Formato 2, matrice, densitÃ , citation guard e revisione editoriale.
+
+## 2026-08-07T16:10:17.596Z - VOL-02
+
+- conversation_id: conv-20260807161017-berdw5
+- route: vol-02-m-fl04-capitolo-03-ciclo-08-12
+- l0: l0/conv-20260807161017-berdw5.md
+- atoms:
+  - mem-20260807161017-z7ysrk | result | Esito vol-02-m-fl04-capitolo-03-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 03 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-07T16:22:51.111Z - VOL-02
+
+- conversation_id: conv-20260807162251-h9qqqh
+- route: vol-02-m-fl04-capitolo-04-ciclo-08-12
+- l0: l0/conv-20260807162251-h9qqqh.md
+- atoms:
+  - mem-20260807162251-aqlmny | result | Esito vol-02-m-fl04-capitolo-04-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 04 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-07T20:41:01.990Z - VOL-02
+
+- conversation_id: conv-20260807204101-2ez94l
+- route: vol-02-m-fl04-capitolo-05-ciclo-08-12
+- l0: l0/conv-20260807204101-2ez94l.md
+- atoms:
+  - mem-20260807204101-gi8zmx | result | Esito vol-02-m-fl04-capitolo-05-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 05 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-07T21:11:34.549Z - pipeline-volume
+
+- conversation_id: conv-20260807211134-1qefcid
+- route: vol-02-m-fl04-capitolo-06-ciclo-08-12
+- l0: l0/conv-20260807211134-1qefcid.md
+- atoms:
+  - mem-20260807211134-9hkzyu | result | Esito vol-02-m-fl04-capitolo-06-ciclo-08-12: Procedi automaticamente con tutti gli step del Volume 02. -> M-FL04 capitolo 06 completato negli step 08-12 con Formato 2, matrice, densita, Humanizer e revisione editoriale; prossimo capitolo 07.
+
+## 2026-08-07T21:20:36.299Z - pipeline-volume
+
+- conversation_id: conv-20260807212036-4yst2m
+- route: vol-02-m-fl04-capitolo-07-ciclo-08-12
+- l0: l0/conv-20260807212036-4yst2m.md
+- atoms:
+  - mem-20260807212036-eh8k5 | result | Esito vol-02-m-fl04-capitolo-07-ciclo-08-12: Procedi automaticamente con il Volume 02. -> M-FL04 capitolo 07 completato negli step 08-12 con Formato 2, matrice, densita, Humanizer e revisione editoriale; prossimo capitolo 08.
+
+## 2026-08-07T21:33:13.167Z - pipeline-volume
+
+- conversation_id: conv-20260807213313-11bcll5
+- route: vol-02-m-fl04-capitolo-08-ciclo-08-12
+- l0: l0/conv-20260807213313-11bcll5.md
+- atoms:
+  - mem-20260807213313-yio382 | result | Esito vol-02-m-fl04-capitolo-08-ciclo-08-12: Procedi automaticamente con il Volume 02. -> M-FL04 capitolo 08 completato negli step 08-12 con Formato 2, matrice, densita, Humanizer e revisione editoriale; prossimo capitolo 09.
+
+## 2026-08-08T17:01:47.353Z - pipeline-volume
+
+- conversation_id: conv-20260808170147-153qs71
+- route: vol-02-m-fl04-capitolo-09-ciclo-08-12
+- l0: l0/conv-20260808170147-153qs71.md
+- atoms:
+  - mem-20260808170147-24b3it | result | Esito vol-02-m-fl04-capitolo-09-ciclo-08-12: Procedi automaticamente con il Volume 02. -> M-FL04 capitolo 09 completato negli step 08-12 con Formato 2, matrice, densita, Humanizer e revisione editoriale; prossimo capitolo 10.
+
+## 2026-08-08T17:14:34.975Z - VOL-02
+
+- conversation_id: conv-20260808171434-178n60l
+- route: vol-02-m-fl04-capitolo-10-ciclo-08-12
+- l0: l0/conv-20260808171434-178n60l.md
+- atoms:
+  - mem-20260808171434-4rr78y | result | Esito vol-02-m-fl04-capitolo-10-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 10 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-08T17:27:28.622Z - VOL-02
+
+- conversation_id: conv-20260808172728-qkczgd
+- route: vol-02-m-fl04-capitolo-11-ciclo-08-12
+- l0: l0/conv-20260808172728-qkczgd.md
+- atoms:
+  - mem-20260808172728-1134x9 | result | Esito vol-02-m-fl04-capitolo-11-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 11 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-08T17:37:20.604Z - VOL-02
+
+- conversation_id: conv-20260808173720-1p6lk4x
+- route: vol-02-m-fl04-capitolo-12-ciclo-08-12
+- l0: l0/conv-20260808173720-1p6lk4x.md
+- atoms:
+  - mem-20260808173720-360f9w | result | Esito vol-02-m-fl04-capitolo-12-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 12 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-08T17:50:47.096Z - VOL-02
+
+- conversation_id: conv-20260808175047-1mrkc0h
+- route: vol-02-m-fl04-capitolo-13-ciclo-08-12
+- l0: l0/conv-20260808175047-1mrkc0h.md
+- atoms:
+  - mem-20260808175047-1o74lke | result | Esito vol-02-m-fl04-capitolo-13-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 13 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-08T18:21:27.143Z - VOL-02
+
+- conversation_id: conv-20260808182127-1izhgxx
+- route: vol-02-m-fl04-capitolo-14-ciclo-08-12
+- l0: l0/conv-20260808182127-1izhgxx.md
+- atoms:
+  - mem-20260808182127-17o4le6 | result | Esito vol-02-m-fl04-capitolo-14-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 14 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-08T19:27:03.944Z - VOL-02
+
+- conversation_id: conv-20260808192703-zk783x
+- route: vol-02-m-fl04-capitolo-15-ciclo-08-12
+- l0: l0/conv-20260808192703-zk783x.md
+- atoms:
+  - mem-20260808192703-6kbden | result | Esito vol-02-m-fl04-capitolo-15-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL04 capitolo 15 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-08T19:59:55.855Z - VOL-02
+
+- conversation_id: conv-20260808195955-14wc227
+- route: vol-02-m-fl04-steps-13-16
+- l0: l0/conv-20260808195955-14wc227.md
+- atoms:
+  - mem-20260808195955-1kfy0gq | result | Esito vol-02-m-fl04-steps-13-16: Procedi con il completamento automatico del Volume 02. -> M-FL04 completato negli step 13-16: revisione trasversale, correzioni, audit specialistico senza pending e text freeze con manifest SHA-256.
+
+## 2026-08-08T20:29:26.061Z - VOL-02
+
+- conversation_id: conv-20260808202926-stgvyz
+- route: vol-02-m-fl03-capitolo-01-ciclo-08-12
+- l0: l0/conv-20260808202926-stgvyz.md
+- atoms:
+  - mem-20260808202926-1471uyy | result | Esito vol-02-m-fl03-capitolo-01-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL03 capitolo 01 completato negli step 08-12 con Formato 2, matrice module-local, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-08T20:59:44.080Z - VOL-02
+
+- conversation_id: conv-20260808205944-1blctwd
+- route: vol-02-m-fl03-capitolo-02-ciclo-08-12
+- l0: l0/conv-20260808205944-1blctwd.md
+- atoms:
+  - mem-20260808205944-1yz2lpr | result | Esito vol-02-m-fl03-capitolo-02-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL03 capitolo 02 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-09T08:10:01.676Z - VOL-02
+
+- conversation_id: conv-20260809081001-gnb7o1
+- route: vol-02-m-fl03-capitolo-03-ciclo-08-12
+- l0: l0/conv-20260809081001-gnb7o1.md
+- atoms:
+  - mem-20260809081001-1ve7lfh | result | Esito vol-02-m-fl03-capitolo-03-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL03 capitolo 03 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-09T08:31:45.464Z - VOL-02
+
+- conversation_id: conv-20260809083145-1xwk6kd
+- route: vol-02-m-fl03-capitolo-04-ciclo-08-12
+- l0: l0/conv-20260809083145-1xwk6kd.md
+- atoms:
+  - mem-20260809083145-1fu3uis | result | Esito vol-02-m-fl03-capitolo-04-ciclo-08-12: Procedi con il completamento automatico del Volume 02. -> M-FL03 capitolo 04 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-09T08:53:26.398Z - VOL-02
+
+- conversation_id: conv-20260809085326-lb18az
+- route: vol-02-m-fl03-capitolo-05-ciclo-08-12
+- l0: l0/conv-20260809085326-lb18az.md
+- atoms:
+  - mem-20260809085326-1sx8j1l | result | Esito vol-02-m-fl03-capitolo-05-ciclo-08-12: Automatizza il completamento sicuro e veloce di M-FL03. -> M-FL03 capitolo 05 completato negli step 08-12 con Formato 2, matrice, densitÃ , humanizer e revisione editoriale.
+
+## 2026-08-09T09:00:44.503Z - VOL-02
+
+- conversation_id: conv-20260809090044-1g7i5mc
+- route: vol-02-m-fl03-steps-13-16
+- l0: l0/conv-20260809090044-1g7i5mc.md
+- atoms:
+  - mem-20260809090044-w8mxq4 | result | Esito vol-02-m-fl03-steps-13-16: Continua con la soluzione piÃ¹ sicura e veloce, automatizza. -> M-FL03 completato negli step 13-16: revisione trasversale, correzioni, audit specialistico senza pending e text freeze con manifest SHA-256.
+
+## 2026-08-09T09:51:54.135Z - concorso-book-os
+
+- conversation_id: conv-20260809095154-guffoa
+- route: vol-02-steps-21-23
+- l0: l0/conv-20260809095154-guffoa.md
+- atoms:
+  - mem-20260809095154-721zlp | result | Esito vol-02-steps-21-23: Continua automaticamente con la soluzione piÃ¹ sicura e veloce fino al completamento del volume. -> VOL-02 completato automaticamente fino allo step 23: revisione finale, matrice aggregata 235/235, preflight PDF 830 pagine, fix titoli orfani con test, pacchetto a 9 file e manifest 8/8.
+
+## 2026-08-09T10:58:01.925Z - concorso-book-os
+
+- conversation_id: conv-20260809105801-m0wuzb
+- route: vol-02-step-24-human-signoff
+- l0: l0/conv-20260809105801-m0wuzb.md
+- atoms:
+  - mem-20260809105801-782abn | result | Esito vol-02-step-24-human-signoff: Procedi dopo la richiesta esplicita di scegliere tra confermato e respinto. -> Registrata conferma umana positiva dello step 24.
+
+## 2026-08-09T13:31:27.520Z - global
+
+- conversation_id: conv-20260809133127-1670afj
+- route: codex/git-publish
+- l0: l0/conv-20260809133127-1670afj.md
+- atoms:
+  - mem-20260809133127-1e08d5t | result | Esito codex/git-publish: commit e push delle modifiche mie fino ad ora senza sovrascrivere quelle dello staff -> Pubblicazione fast-forward su origin/main senza force, reset o rebase; inclusi 42 commit locali preesistenti e commit ba9db89 con verifiche visuali VOL-02 e memoria agentica.
+
+## 2026-08-10T08:50:31.749Z - VOL-12
+
+- conversation_id: conv-20260810085031-1qzultg
+- route: pipeline-vol-12-design
+- l0: l0/conv-20260810085031-1qzultg.md
+- atoms:
+  - mem-20260810085031-14fphgm | workflow | Avviare la pipeline completa di VOL-12 con cut-off 2026-08-10.
+  - mem-20260810085031-wx4fb8 | workflow | Approvata la configurazione progressiva: fasi A-B, poi capitoli espliciti e sync verso C-F.
+  - mem-20260810085031-756k53 | result | Esito pipeline-vol-12-design: Avviare la pipeline completa di VOL-12 con cut-off 2026-08-10. -> Specifica di design approvata e commessa in 687f1c5; ordine M-SP01, M-SP02, M-SP03, M-SP04; step 24 riservato alla conferma umana.
+
+## 2026-08-10T15:32:24.558Z - VOL-01
+
+- conversation_id: conv-20260810153224-10jh52w
+- route: volume01-layout-fix
+- l0: l0/conv-20260810153224-10jh52w.md
+- atoms:
+  - mem-20260810153224-1xbuixg | workflow | Correggere sovrapposizioni testuali nel capitolo di chiusura e nell indice del Volume 1, con margini perfetti.
+  - mem-20260810153224-yiy3k6 | result | Esito volume01-layout-fix: Correggere sovrapposizioni testuali nel capitolo di chiusura e nell indice del Volume 1, con margini perfetti. -> Corretti header conclusione, continuita tabelle, colonne e margine inferiore indice; riconciliati i numeri di pagina dell indice con la paginazione reale.
+
+## 2026-08-13T09:59:58.745Z - VOL-12/M-SP02
+
+- conversation_id: conv-20260813095958-1pgj44o
+- route: pipeline-volume-vol-12-m-sp02-fase-c
+- l0: l0/conv-20260813095958-1pgj44o.md
+- atoms:
+  - mem-20260813095958-1xhg005 | instruction | Eseguire l ordine di lavoro fase C: fonti prima di tutto, poi M-SP02 completo, fermandosi alla review del modulo.
+  - mem-20260813095958-2mxho8 | result | Esito pipeline-volume-vol-12-m-sp02-fase-c: Eseguire l ordine di lavoro fase C: fonti prima di tutto, poi M-SP02 completo, fermandosi alla review del modulo. -> Fonti previste acquisite e schedate.
+
+## 2026-08-13T10:27:46.857Z - VOL-12/M-SP02
+
+- conversation_id: conv-20260813102746-58ukgg
+- route: pipeline-volume-vol-12-m-sp02-correzioni-fase-c
+- l0: l0/conv-20260813102746-58ukgg.md
+- atoms:
+  - mem-20260813102746-1o5c2ta | workflow | Applicare le cinque correzioni del report 13 solo ai capitoli 05-08 e alla matrice; non toccare 02-04; rieseguire i gate su tutti gli otto capitoli.
+  - mem-20260813102746-jgpwqw | result | Esito pipeline-volume-vol-12-m-sp02-correzioni-fase-c: Applicare le cinque correzioni del report 13 solo ai capitoli 05-08 e alla matrice; non toccare 02-04; rieseguire i gate su tutti gli otto capitoli. -> Correzioni applicate: riserve del bando 2320 in B2 e cap.05, sezioni-fantoccio rimosse, nuclei verificati senza accorpamenti, tabelle reali aggiunte, matrice corretta.
+
+## 2026-08-13T13:41:11.057Z - VOL-12/M-SP02
+
+- conversation_id: conv-20260813134111-1g40aqg
+- route: pipeline-volume-vol-12-m-sp02-correzione-residua-cap-01
+- l0: l0/conv-20260813134111-1g40aqg.md
+- atoms:
+  - mem-20260813134111-1jamzgd | workflow | Applicare la correzione residua del report 15 al solo capitolo 01, lasciare invariati gli altri sette e rieseguire density e lint sul solo capitolo 01.
+  - mem-20260813134111-pms9ul | result | Esito pipeline-volume-vol-12-m-sp02-correzione-residua-cap-01: Applicare la correzione residua del report 15 al solo capitolo 01, lasciare invariati gli altri sette e rieseguire density e lint sul solo capitolo 01. -> Rimosse le due sezioni-fantoccio e ricondotti quadro teorico ed errore di generalizzazione al nucleo N-SP02-01-01.
+
+## 2026-08-13T14:42:01.364Z - VOL-12/M-SP04
+
+- conversation_id: conv-20260813144201-qqhvzk
+- route: codex.m-sp04-phase-c
+- l0: l0/conv-20260813144201-qqhvzk.md
+- atoms:
+  - mem-20260813144201-2uxrul | project_fact | Sincronizzare la matrice M-SP04 con la source note, chiudere d.P.R.
+  - mem-20260813144201-1dwmxcz | instruction | 18/1967, prova attitudinale diplomatica e rinvio VOL-01, quindi redigere il modulo in formato 2 con cinque nuclei reali e consegna finale.
+  - mem-20260813144201-2cpy9f | result | Esito codex.m-sp04-phase-c: Sincronizzare la matrice M-SP04 con la source note, chiudere d.P.R. -> Fase C completata: fonti e matrice sincronizzate, tre punti chiusi, sette capitoli sostenibili per 37 nuclei completi, due accorpamenti documentati, didactic-density e chapter-lint verdi su ogni capitolo; nessun commi...
+
+## 2026-08-13T15:58:55.771Z - VOL-12/M-SP03
+
+- conversation_id: conv-20260813155855-1k8a9vv
+- route: codex.m-sp03-phase-c
+- l0: l0/conv-20260813155855-1k8a9vv.md
+- atoms:
+  - mem-20260813155855-1w8lxzd | result | Esito codex.m-sp03-phase-c: Sincronizzare fonti e matrice e scrivere M-SP03. -> Consegnati 7 capitoli da 2 accorpamenti motivati, 35 nuclei; entrambi i gate verdi.
+
+## 2026-08-13T16:32:32.790Z - VOL-12/M-SP03
+
+- conversation_id: conv-20260813163232-152y0wz
+- route: pipeline-vol-12-m-sp03-phase-c-correction
+- l0: l0/conv-20260813163232-152y0wz.md
+- atoms:
+  - mem-20260813163232-1ax5mja | workflow | Rimuovere dai sette capitoli M-SP03 le sezioni didattiche finali duplicate e l Inquadramento isolato del capitolo 01, preservando contenuti normativi, verifiche, casi e trattamento dell art.
+  - mem-20260813163232-ho8jlz | result | Esito pipeline-vol-12-m-sp03-phase-c-correction: Rimuovere dai sette capitoli M-SP03 le sezioni didattiche finali duplicate e l Inquadramento isolato del capitolo 01, preservando contenuti normativi, verifiche, casi e trattamento dell art. -> Correzione applicata ai sette capitoli.
+
+## 2026-08-14T09:44:28.228Z - manual-writer
+
+- conversation_id: conv-20260814094428-1q0cipx
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814094428-1q0cipx.md
+- atoms:
+  - mem-20260814094428-dqfsfa | workflow | instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale.
+  - mem-20260814094428-1y7u7np | instruction | Prima di scrivere leggi integralmente wiki/AGENTS.md, il piano e la matrice di M-SP01, l'handover wiki/reviews/pipeline/VOL-12/23-avvio-m-sp01-fase-c.md, le source note dichiarate nel frontmatter e, come modello strutturale, il capitolo 01 di M-SP04.
+  - mem-20260814094428-uoh3v3 | workflow | Apri con ## Obiettivo del capitolo, ## Mappa BANDO del capitolo e un breve inquadramento.
+  - mem-20260814094428-5s6mfa | workflow | Il quinto è la divisione genuina del nucleo sulla sequenza: tratta la procedura come catena eliminatoria, punti di arresto e conseguenze sul piano.
+  - mem-20260814094428-1s4vw9v | instruction | Non usare wikilink nel corpo, non nominare wiki, dashboard, source note, corpus interno o report, non inventare numeri, articoli o competenze, non riprodurre elenchi diagnostici.
+  - mem-20260814094428-godb5z | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md.
+
+## 2026-08-14T09:51:55.391Z - manual-writer
+
+- conversation_id: conv-20260814095155-1b6s1hj
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814095155-1b6s1hj.md
+- atoms:
+  - mem-20260814095155-1moz210 | workflow | Apri con ## Spiegazione, ## Obiettivo del capitolo, ## Mappa BANDO del capitolo e un breve inquadramento.
+  - mem-20260814095155-ukwifc | instruction | Non usare wikilink nel corpo, non nominare wiki, dashboard, source note, corpus interno o report, non inventare norme, numeri o requisiti, non riprodurre elenchi diagnostici.
+  - mem-20260814095155-1oedmt | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md.
+
+## 2026-08-14T09:56:06.901Z - manual-writer
+
+- conversation_id: conv-20260814095606-12lhr59
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814095606-12lhr59.md
+- atoms:
+  - mem-20260814095606-e4rxnd | instruction | Prima di scrivere leggi integralmente wiki/AGENTS.md, il piano e la matrice di M-SP01, l’handover wiki/reviews/pipeline/VOL-12/23-avvio-m-sp01-fase-c.md, le source note dichiarate nel frontmatter e il capitolo 01 di M-SP04 come modello strutturale.
+  - mem-20260814095606-1u5l17s | workflow | Apri con ## Spiegazione, ## Obiettivo del capitolo e ## Mappa BANDO del capitolo.
+  - mem-20260814095606-5mmkdh | instruction | Sviluppa esattamente cinque nuclei H2 con punto mediano: N-SP01-05-01 banca dati chiusa del binario base; N-SP01-05-02 banca dati PS ispettiva e compressione temporale; N-SP01-05-03 componimento di italiano CC; N-SP01-05-04 tema o prova di cultura generale GdF; N-SP01-05-05 funzione e strategia della preselezione.
+  - mem-20260814095606-1nb56v3 | instruction | Spiega il delta rispetto al capitolo Banca dati ufficiale del volume base: qui conta soprattutto la compressione temporale della tornata vice ispettori PS 2026, poco più di un mese fra pubblicazione e prova, sempre marcata come dato di tornata.
+  - mem-20260814095606-12rjtrc | instruction | Non usare wikilink, non nominare strumenti interni, non inventare quantità, date, soglie o regole.
+  - mem-20260814095606-q4puho | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md.
+
+## 2026-08-14T09:59:38.958Z - manual-writer
+
+- conversation_id: conv-20260814095938-8pdc1a
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814095938-8pdc1a.md
+- atoms:
+  - mem-20260814095938-1hyjpj | instruction | Prima di scrivere leggi integralmente wiki/AGENTS.md, piano, matrice e handover M-SP01, tutte le source note del frontmatter e il capitolo 04 di M-SP02 o altro capitolo chiuso sugli accertamenti come modello.
+  - mem-20260814095938-1d6r7qj | workflow | Sviluppa esattamente cinque nuclei H2 con punto mediano: N-SP01-06-01 efficienza fisica nei tre corpi; N-SP01-06-02 idoneità psico-fisica e parametri; N-SP01-06-03 accertamento attitudinale; N-SP01-07-01 preparazione integrata e trappole procedurali; N-SP01-07-02 calendario, recupero, documentazione e gestione del rischio di esclusione.
+  - mem-20260814095938-9oppw8 | project_fact | 198/2003 non è abolito e resta fonte per idoneità psichica e attitudinale, mentre è abolito solo il requisito di statura, sostituito dai parametri misurati del d.P.R.
+  - mem-20260814095938-nzyjpt | instruction | Attribuisci esercizi, soglie e criteri alle specifiche tornate e usa box Verifica sul bando.
+  - mem-20260814095938-1n0szyo | project_fact | Niente wikilink o riferimenti a strumenti interni; niente dati inventati.
+  - mem-20260814095938-5b7clv | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md.
+
+## 2026-08-14T10:03:28.948Z - manual-writer
+
+- conversation_id: conv-20260814100328-6627eo
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814100328-6627eo.md
+- atoms:
+  - mem-20260814100328-137ma99 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice, handover M-SP01, source note del frontmatter e i capitoli chiusi analoghi di M-SP02/M-SP04 come modello.
+  - mem-20260814100328-jxuywi | workflow | Il capitolo riguarda soprattutto il binario ispettivo.
+  - mem-20260814100328-wq4b4b | instruction | Quando il corpus documenta inglese, francese, tedesco e spagnolo, presentali come opzioni della specifica procedura e usa Verifica sul bando.
+  - mem-20260814100328-h4dvju | project_fact | Niente wikilink, strumenti interni o dati inventati.
+  - mem-20260814100328-1tfjgt6 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md.
+
+## 2026-08-14T10:07:04.646Z - manual-writer
+
+- conversation_id: conv-20260814100704-u5kurn
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814100704-u5kurn.md
+- atoms:
+  - mem-20260814100704-1vi3o34 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, tutte le source note del frontmatter e il capitolo del VOL-01 Banca dati ufficiale per verificare il rinvio con delta.
+  - mem-20260814100704-u1utqt | workflow | Sviluppa esattamente cinque nuclei H2 con punto mediano: N-SP01-10-01 riuso dal VOL-01 e delta di famiglia; N-SP01-11-01 ordinamento dei corpi; N-SP01-11-02 diritto e procedura penale con polizia giudiziaria; N-SP01-11-03 pubblica sicurezza e polizia amministrativa; N-SP01-11-04 costruzione di una risposta integrata che separa i tre piani.
+  - mem-20260814100704-15tqh82 | workflow | Non trasformare il capitolo in manuale enciclopedico di penale.
+  - mem-20260814100704-84x129 | instruction | Spiega però direttamente al lettore i concetti necessari del perimetro, senza usare il rinvio per nascondere teoria mancante.
+  - mem-20260814100704-wo73jn | instruction | Ogni rinvio al volume base deve nominare il capitolo in corsivo e dichiarare destinazione, contenuto riusabile e delta specialistico.
+  - mem-20260814100704-14muiqw | instruction | Non usare wikilink.
+  - mem-20260814100704-evkq4u | instruction | Chiarisci le differenze tra ordinamento, funzione di polizia giudiziaria e funzione di pubblica sicurezza/polizia amministrativa; evita di presentare ogni appartenente come titolare indistinto di ogni qualifica o potere.
+  - mem-20260814100704-pe2mok | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md.
+
+## 2026-08-14T10:10:07.833Z - manual-writer
+
+- conversation_id: conv-20260814101007-68mi51
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814101007-68mi51.md
+- atoms:
+  - mem-20260814101007-3apy40 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter, la fonte Template Bando Decoder e il capitolo Bando Decoder chiuso di M-SP04 come modello.
+  - mem-20260814101007-181tb5s | workflow | Produci strumenti compilabili e una procedura reale, non una trascrizione del bando.
+  - mem-20260814101007-x7hnc2 | instruction | Separa sempre Polizia di Stato, Carabinieri e Guardia di Finanza e i binari base/ispettivo.
+  - mem-20260814101007-1dsqmxx | project_fact | Mostra come registrare posti, riserve, età, materie, soglie, tempi, calendari e punteggi come dati mobili con fonte e data.
+  - mem-20260814101007-12tj7i0 | instruction | Gli ignoti devono essere esplicitamente marcati non pubblicato o non dichiarato, mai riempiti per plausibilità.
+  - mem-20260814101007-1mzjd72 | project_fact | Niente wikilink o strumenti interni.
+  - mem-20260814101007-tyt4jw | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md.
+
+## 2026-08-14T10:12:46.864Z - manual-writer
+
+- conversation_id: conv-20260814101246-1gb4nuh
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814101246-1gb4nuh.md
+- atoms:
+  - mem-20260814101246-15bq0j8 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter e i capitoli analoghi già chiusi negli altri moduli VOL-12.
+  - mem-20260814101246-8zgc5e | instruction | La parte fisica resta descrittiva e programmatoria: il manuale non prescrive allenamenti, non valuta condizioni personali e rinvia a professionisti qualificati quando necessario.
+  - mem-20260814101246-1oi9l41 | project_fact | Niente wikilink o dati inventati.
+  - mem-20260814101246-cwc51 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md.
+
+## 2026-08-14T10:15:58.310Z - manual-writer
+
+- conversation_id: conv-20260814101558-lj8szt
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814101558-lj8szt.md
+- atoms:
+  - mem-20260814101558-c5r8s7 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter e i capitoli precedenti M-SP01 già presenti per evitare contraddizioni.
+  - mem-20260814101558-2q7qlo | workflow | Sviluppa esattamente cinque nuclei H2 con punto mediano: N-SP01-14-01 errori di accesso e scelta del binario; N-SP01-14-02 errori sulla prova scritta; N-SP01-14-03 errori negli accertamenti; N-SP01-14-04 errori su dati mobili, fonti e avvisi; N-SP01-14-05 errori nella gestione della catena procedurale.
+  - mem-20260814101558-81ffnv | instruction | Ogni nucleo deve avere almeno 650 parole, spiegare causa, segnale, conseguenza e correzione, con casi osservabili.
+  - mem-20260814101558-oxi116 | instruction | Inserisci casi guidati distinti per binario base e ispettivo e, quando serve, per corpo.
+  - mem-20260814101558-c4c7gs | project_fact | Niente wikilink o riferimenti a strumenti interni.
+  - mem-20260814101558-kuxgat | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md.
+
+## 2026-08-14T10:18:47.836Z - manual-writer
+
+- conversation_id: conv-20260814101847-3hgr1j
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814101847-3hgr1j.md
+- atoms:
+  - mem-20260814101847-1urvx42 | workflow | instruction=Rigenera integralmente il capitolo 9 sostituendo la bozza locale presente sotto Testo editoriale.
+  - mem-20260814101847-g40e55 | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter e i capitoli 1-8 M-SP01.
+  - mem-20260814101847-nlbvho | instruction | Non usare mai le espressioni aggiornamento generato, istruzione ricevuta, knowledge consolidata, questo blocco sviluppa, devo generare o Manual Writer Agent.
+  - mem-20260814101847-1jzicn2 | workflow | Sviluppa cinque nuclei H2 da almeno 650 parole: N-SP01-14-01 errori di accesso e binario; N-SP01-14-02 errori sullo scritto; N-SP01-14-03 errori negli accertamenti; N-SP01-14-04 errori su dati mobili, fonti e avvisi; N-SP01-14-05 errori nella catena procedurale.
+  - mem-20260814101847-1sp13ip | instruction | Per ogni errore spiega causa, segnale, conseguenza e correzione, con casi didattici distinti per base e ispettivo.
+  - mem-20260814101847-1i7jrp | instruction | Mantieni condotta caso per caso, niente elenchi diagnostici o prescrizioni atletiche, dati mobili con Verifica sul bando.
+  - mem-20260814101847-1vw7fpm | project_fact | Niente wikilink, strumenti interni, dati inventati o Note di review.
+  - mem-20260814101847-8540lw | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md mode=integrate instruction=Rigenera integralmente il capitolo 9 sostituendo la bozza locale presente sotto Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md.
+
+## 2026-08-14T10:22:51.522Z - manual-writer
+
+- conversation_id: conv-20260814102251-1tjiyj2
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260814102251-1tjiyj2.md
+- atoms:
+  - mem-20260814102251-81px2q | instruction | Prima di scrivere leggi wiki/AGENTS.md, piano, matrice e handover M-SP01, source note del frontmatter e tutti i capitoli 1-9 M-SP01 per costruire una verifica finale coerente.
+  - mem-20260814102251-4evuor | instruction | Non usare formule metatestuali.
+  - mem-20260814102251-djnw1u | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md mode=integrate instruction=Scrivi il capitolo completo e definitivo destinato al lettore nella sezione Testo editoriale. -> Manual Writer completato su books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md.
+
+## 2026-08-14T10:34:28.893Z - editorial-reviewer
+
+- conversation_id: conv-20260814103428-2j9lel
+- route: EditorialReviewerAgent.runReview
+- l0: l0/conv-20260814103428-2j9lel.md
+- atoms:
+  - mem-20260814103428-ix8uju | result | Esito EditorialReviewerAgent.runReview: bookId=m-sp01-forze-ordine scope=full aspect=full -> Revisione editoriale completata su m-sp01-forze-ordine.
+
+## 2026-08-14T11:43:37.300Z - manual-writer
+
+- conversation_id: conv-20260814114337-z3q68m
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814114337-z3q68m.md
+- atoms:
+  - mem-20260814114337-dh5zlj | instruction | Mantieni integralmente la struttura Markdown e restituisci l'intero corpo del capitolo, senza frontmatter e senza recinti di codice.
+  - mem-20260814114337-3fz7l3 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md mode=humanizer_revision instruction=Esegui una correzione di bozze strettamente conservativa. -> Revisione humanizer completata su books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md.
+
+## 2026-08-14T11:58:11.621Z - editorial-reviewer
+
+- conversation_id: conv-20260814115811-f6v7h9
+- route: EditorialReviewerAgent.runReview
+- l0: l0/conv-20260814115811-f6v7h9.md
+- atoms:
+  - mem-20260814115811-ls0yi8 | workflow | La barra Doppio binario prima dell'H1 e i metadati status draft/review_required true/canonical false sono convenzioni di repository già presenti nei moduli M-SP02 e M-SP04 dichiarati pubblicabili: non considerarli errori di capitolo.
+  - mem-20260814115811-ukwmy4 | workflow | Le griglie compilabili a tre colonne dei capitoli 7 e 10 sono strumenti didattici intenzionali; valuta solo eventuali problemi reali di leggibilità, ripetizione o ampiezza.
+  - mem-20260814115811-1n8j4t7 | result | Esito EditorialReviewerAgent.runReview: bookId=m-sp01-forze-ordine scope=aspect aspect=Review di chiusura post-correzioni sull'intero modulo: verifica che i rilievi E02-E06 ed E08-E11 del report del 14 agosto 2026 alle 11:28Z siano risolti e segnala soltant... -> Revisione editoriale completata su m-sp01-forze-ordine.
+
+## 2026-08-14T12:40:08.323Z - editorial-reviewer
+
+- conversation_id: conv-20260814124008-1wszk5
+- route: EditorialReviewerAgent.runReview
+- l0: l0/conv-20260814124008-1wszk5.md
+- atoms:
+  - mem-20260814124008-1081p0y | result | Esito EditorialReviewerAgent.runReview: bookId=m-sp03-magistratura-avvocatura-notariato scope=full aspect=full -> Revisione editoriale completata su m-sp03-magistratura-avvocatura-notariato.
+
+## 2026-08-14T12:47:28.259Z - manual-writer
+
+- conversation_id: conv-20260814124728-8me5rw
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814124728-8me5rw.md
+- atoms:
+  - mem-20260814124728-zwpyn8 | workflow | instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, recependo il report wiki/reviews/editorial-review-m-sp03-magistratura-avvocatura-notariato-2026-08-14T12-40-08-319Z.md.
+  - mem-20260814124728-14jkkyb | instruction | Mantieni esattamente i cinque ID di nucleo esistenti, il perimetro dei tre binari, le fonti dichiarate e tutti i fatti già verificati; non inventare soglie, date, articoli, ruoli o garanzie.
+  - mem-20260814124728-pnipcb | instruction | Non usare come riempitivo le frasi Applica verifica, dato ignoto, non diagnostica o il candidato ricostruisce.
+  - mem-20260814124728-9l13ck | workflow | Consolida a fine capitolo una sezione ## ▣ Verifica con almeno sei quiz A-D.
+  - mem-20260814124728-8mchtw | instruction | Usa in modo coerente, quando pertinenti: ## Da sapere in 5 righe, ## Domanda-trappola, ## Mini-esercizio, ## Checklist operativa e ## Riferimenti consolidati.
+  - mem-20260814124728-qfe2h0 | project_fact | Scrivi per un manuale-workbook professionale: italiano naturale, concreto, privo di formule promozionali o metadiscorso interno.
+  - mem-20260814124728-f5w6d7 | project_fact | Non nominare wiki, report, source note o corpus nel testo destinato al lettore.
+  - mem-20260814124728-nrlckg | instruction | Mantieni almeno 3.500 parole di corpo e preserva la struttura Markdown.
+
+## 2026-08-14T12:51:21.839Z - manual-writer
+
+- conversation_id: conv-20260814125121-1ei2i9y
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814125121-1ei2i9y.md
+- atoms:
+  - mem-20260814125121-13lc7m3 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo,... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md.
+
+## 2026-08-14T12:54:20.941Z - manual-writer
+
+- conversation_id: conv-20260814125420-1eu3don
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814125420-1eu3don.md
+- atoms:
+  - mem-20260814125420-ulszjn | project_fact | Sostituisci l'attribuzione a fonte secondaria della soglia: il D.A.G.
+  - mem-20260814125420-b6lma5 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capit... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md.
+
+## 2026-08-14T12:57:30.851Z - manual-writer
+
+- conversation_id: conv-20260814125730-dptp64
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814125730-dptp64.md
+- atoms:
+  - mem-20260814125730-e31few | instruction | Costruisci un caso completo su pratica notarile compiuta entro la domanda ma certificato prodotto dopo l'orale, cinque precedenti inidoneità e scelta fra testamento, atto tra vivi e atto commerciale; mantieni mobile la disciplina dei testi ammessi.
+  - mem-20260814125730-11khatj | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, re... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md.
+
+## 2026-08-14T13:00:28.718Z - manual-writer
+
+- conversation_id: conv-20260814130028-1hvo9lj
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814130028-1hvo9lj.md
+- atoms:
+  - mem-20260814130028-1buu6mi | workflow | Ogni nucleo deve avere procedura, criterio di qualità, errore specifico e output diverso.
+  - mem-20260814130028-1dovx5o | instruction | Inserisci un caso completo che obblighi a scegliere il formato corretto dalla consegna.
+  - mem-20260814130028-1o86pja | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, recependo... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md.
+
+## 2026-08-14T13:04:02.075Z - manual-writer
+
+- conversation_id: conv-20260814130402-155i2kk
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814130402-155i2kk.md
+- atoms:
+  - mem-20260814130402-1hu018p | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, recependo il... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md.
+
+## 2026-08-14T13:08:19.484Z - manual-writer
+
+- conversation_id: conv-20260814130819-u5auyr
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260814130819-u5auyr.md
+- atoms:
+  - mem-20260814130819-107k8gt | project_fact | In N-SP03-15-02 inserisci una checklist compilabile effettiva a massimo tre colonne, con requisito, fonte, prova, logistica, simulazioni, correzioni, stato verde/giallo/rosso, firma e data.
+  - mem-20260814130819-1h1m0s7 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md mode=humanizer_revision instruction=Applica una revisione editoriale strutturale e humanizer al capitolo, recepend... -> Revisione humanizer completata su books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md.
+
+## 2026-08-14T13:26:10.993Z - editorial-reviewer
+
+- conversation_id: conv-20260814132610-kdplyj
+- route: M-SP03.integralClosureReview
+- l0: l0/conv-20260814132610-kdplyj.md
+- atoms:
+  - mem-20260814132610-geeunn | project_fact | Sei il revisore editoriale di chiusura di ConcorsoBook OS.
+  - mem-20260814132610-1er30tg | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md
+  - mem-20260814132610-k3eain | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md
+  - mem-20260814132610-fr1tz | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md
+  - mem-20260814132610-1re5kaa | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md
+  - mem-20260814132610-s8ucoj | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md
+  - mem-20260814132610-1kdpt8q | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md
+  - mem-20260814132610-1viks06 | project_fact | - wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md
+
+## 2026-08-14T17:27:02.965Z - VOL-12
+
+- conversation_id: conv-20260814172702-17nrbjm
+- route: pipeline-steps-20-23-final-delivery
+- l0: l0/conv-20260814172702-17nrbjm.md
+- atoms:
+  - mem-20260814172702-1apyy8t | workflow | Procedi al posto di Claude e completa VOL-12 fino alla consegna, fermandoti prima della conferma umana.
+  - mem-20260814172702-1258loo | result | Esito pipeline-steps-20-23-final-delivery: Procedi al posto di Claude e completa VOL-12 fino alla consegna, fermandoti prima della conferma umana. -> VOL-12 completato fino allo step 23.
+
+## 2026-08-17T08:50:27.326Z - git-publish
+
+- conversation_id: conv-20260817085027-kuqzgk
+- route: codex/github-team-sync
+- l0: l0/conv-20260817085027-kuqzgk.md
+- atoms:
+  - mem-20260817085027-vd7ewq | result | Esito codex/github-team-sync: Commit e push di tutte le modifiche, incluse tutte le fonti scaricate, senza sovrascrivere quelle dello staff; poi scaricare e allinearsi alle loro modifiche. -> Creato commit locale completo; integrati origin/main e memoria dello staff con merge non distruttivo, senza force, reset o rebase.
+
 ## 2026-07-29T16:34:58.593Z - vol-06-scuola-universita-ricerca-cultura
 
 - conversation_id: conv-20260729163458-u8fjp8

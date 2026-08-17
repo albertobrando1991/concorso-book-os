@@ -117,11 +117,11 @@ Per coerenza con la tassonomia a 25 moduli, M-FL03 resta in `VOL-02`. M-FC01 res
 | Sanita | M-SA02 | [[books/moduli/m-sa02-professioni-sanitarie/index|Professioni sanitarie]] | 1 | scaffold |
 | Sanita | M-SA03 | [[books/moduli/m-sa03-dirigenza-medica-sanitaria/index|Dirigenza medica e sanitaria]] | 3 | scaffold |
 | Sanita | M-SA04 | [[books/moduli/m-sa04-tecnici-sanitari-prevenzione/index|Tecnici sanitari e prevenzione]] | 3 | scaffold |
-| Trasversali | M-TR01 | [[books/moduli/m-tr01-ict-trasformazione-digitale/index|ICT e trasformazione digitale]] | 2 | scaffold |
+| Trasversali | M-TR01 | [[books/moduli/m-tr01-ict-trasformazione-digitale/index|ICT e trasformazione digitale]] | 2 | text_frozen |
 | Trasversali | M-TR02 | [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/index|Appalti, PNRR e fondi UE]] | 2 | scaffold |
 | Trasversali | M-TR03 | [[books/moduli/m-tr03-tecnico-ingegneristico/index|Tecnico-ingegneristico]] | 4 | scaffold |
 | Trasversali | M-TR04 | [[books/moduli/m-tr04-ambiente-protezione-civile/index|Ambiente e protezione civile]] | 4 | scaffold |
-| Carriere Speciali | M-SP01 | [[books/moduli/m-sp01-forze-ordine/index|Polizia, Carabinieri e Guardia di Finanza]] | 4 | scaffold |
+| Carriere Speciali | M-SP01 | [[books/moduli/m-sp01-forze-ordine/index|Forze di polizia: Polizia di Stato, Carabinieri e Guardia di Finanza]] | 4 | scaffold |
 | Carriere Speciali | M-SP02 | [[books/moduli/m-sp02-vigili-fuoco/index|Vigili del Fuoco]] | 4 | scaffold |
 | Carriere Speciali | M-SP03 | [[books/moduli/m-sp03-magistratura-avvocatura-notariato/index|Magistratura, Avvocatura e Notariato]] | 4 | scaffold |
 | Carriere Speciali | M-SP04 | [[books/moduli/m-sp04-prefettizia-diplomatica/index|Prefettizia e diplomatica]] | 4 | scaffold |

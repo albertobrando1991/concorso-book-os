@@ -11,7 +11,7 @@ book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-met
 confidence: 0.87
 updated_at: 2026-07-31T20:00:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "pa-digitale-comunale"]
 book_id: m-fl01-comuni-unioni
@@ -23,60 +23,21 @@ module_family: funzioni-locali
 companion_to: il-metodo-bando
 last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali-stato-civile.md", "wiki/sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md", "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md", "wiki/sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale.md", "wiki/sources/ministero-interno-dait-anpr-finanza-locale.md", "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md", "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md", "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md", "wiki/sources/sicurezza-informatica-privacy-nis2-pa.md", "wiki/topics/pa-digitale.md", "wiki/topics/privacy-e-protezione-dati.md", "wiki/entities/comune.md"]
 ---
+## Apertura editoriale
+Nei concorsi comunali la PA digitale non è una materia separata dall’ufficio. È il modo in cui l’ufficio riceve istanze, identifica utenti, forma documenti, protocolla comunicazioni, gestisce fascicoli, conserva atti, scambia dati con altre amministrazioni e rende servizi al cittadino.
 
-# Servizi digitali comunali, CAD, ANPR e gestione documentale
+La tentazione è studiare l’argomento come una lista di sigle: CAD, SPID, CIE, CNS, PEC, INAD, IPA, ANPR, pagoPA, App IO, PDND. Questo approccio aiuta poco. In prova, la commissione non vuole solo sapere che una sigla esiste. Vuole capire se il candidato sa usarla nel flusso amministrativo.
 
-## Specifica struttura madre
+Un Comune digitale non è un Comune che “mette tutto online”. È un ente che organizza il servizio in modo tracciabile, sicuro, accessibile e coerente con la disciplina sul documento informatico. Una domanda online deve essere identificabile. Un allegato deve entrare nel fascicolo. Una comunicazione deve avere un canale corretto. Un pagamento deve essere tracciabile. Un certificato anagrafico deve collegarsi ad ANPR. Un documento deve essere conservato nel tempo. Un dato personale deve essere trattato solo quando serve e con misure adeguate.
 
-### Obiettivo
-Trasformare il CAD e la PA digitale in strumenti concreti per servizi comunali, istanze online, documenti e interoperabilità.
+Il capitolo precedente ha seguito la pratica dal protocollo all’accesso. Questo capitolo guarda alla stessa pratica in ambiente digitale. Non ripete il procedimento generale: lo traduce in strumenti, piattaforme e cautele che un candidato per profili comunali deve riconoscere.
 
-### Nuclei
-- Diritti digitali e servizi in rete.
-- Identità digitale, domicilio digitale, PEC e firma elettronica/digitale.
-- Documento informatico, protocollo, fascicolo, conservazione e metadati.
-- ANPR e collegamento con servizi demografici.
-- Privacy, sicurezza e accessibilità come vincoli operativi.
-
-### Output operativo
-Caso guidato su istanza online, schema documento-fascicolo-conservazione, tabella sigle digitali da concorso.
-
-### Riferimenti consolidati
-- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
-- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
-- [[sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici]]
-- [[sources/ministero-interno-dait-anpr-finanza-locale]]
-- [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[sources/sicurezza-informatica-privacy-nis2-pa]]
-- [[topics/pa-digitale]]
-- [[topics/privacy-e-protezione-dati]]
-- [[entities/comune]]
-
-## Scheda di lavoro
-Il capitolo evita l'elenco di sigle. Ogni sigla deve essere collegata a un'azione dell'ufficio: identificare, ricevere, protocollare, istruire, comunicare, pagare, conservare, rendere accessibile, proteggere.
-
-La domanda guida è:
-
-> quando un servizio comunale diventa digitale, che cosa cambia davvero per il procedimento, per il cittadino e per la responsabilità dell'ufficio?
-
-## Testo editoriale
-
-### Apertura editoriale
-Nei concorsi comunali la PA digitale non è una materia separata dall'ufficio. È il modo in cui l'ufficio riceve istanze, identifica utenti, forma documenti, protocolla comunicazioni, gestisce fascicoli, conserva atti, scambia dati con altre amministrazioni e rende servizi al cittadino.
-
-La tentazione è studiare l'argomento come una lista di sigle: CAD, SPID, CIE, CNS, PEC, INAD, IPA, ANPR, pagoPA, App IO, PDND. Questo approccio aiuta poco. In prova, la commissione non vuole solo sapere che una sigla esiste. Vuole capire se il candidato sa usarla nel flusso amministrativo.
-
-Un Comune digitale non è un Comune che "mette tutto online". È un ente che organizza il servizio in modo tracciabile, sicuro, accessibile e coerente con la disciplina sul documento informatico. Una domanda online deve essere identificabile. Un allegato deve entrare nel fascicolo. Una comunicazione deve avere un canale corretto. Un pagamento deve essere tracciabile. Un certificato anagrafico deve collegarsi ad ANPR. Un documento deve essere conservato nel tempo. Un dato personale deve essere trattato solo quando serve e con misure adeguate.
-
-Il capitolo precedente ha seguito la pratica dal protocollo all'accesso. Questo capitolo guarda alla stessa pratica in ambiente digitale. Non ripete il procedimento generale: lo traduce in strumenti, piattaforme e cautele che un candidato per profili comunali deve riconoscere.
-
-### Obiettivo del capitolo
+## Obiettivo del capitolo
 Al termine del capitolo devi saper fare dieci operazioni:
 
 1. spiegare il CAD come cornice giuridico-organizzativa della PA digitale;
 2. distinguere identità digitale, firma elettronica/digitale, PEC e domicilio digitale;
-3. descrivere che cosa cambia quando un'istanza comunale è presentata online;
+3. descrivere che cosa cambia quando un’istanza comunale è presentata online;
 4. collegare documento informatico, protocollo informatico, fascicolo e conservazione;
 5. capire perché i metadati non sono un dettaglio tecnico irrilevante;
 6. collocare ANPR nel sistema dei servizi demografici comunali;
@@ -89,13 +50,13 @@ In sintesi:
 
 > la digitalizzazione non elimina il procedimento; lo rende più tracciabile e più esigente.
 
-### Come usare questo capitolo
+## Come usare questo capitolo
 Questo capitolo va letto dopo il capitolo 5. Li puoi distinguere così:
 
 - il capitolo 5 spiega il flusso amministrativo: istanza, protocollo, fascicolo, istruttoria, atto, pubblicazione e accesso;
 - il capitolo 6 spiega gli strumenti digitali che sostengono quel flusso: identità, domicilio, documento informatico, fascicolo informatico, conservazione, ANPR, interoperabilità, sicurezza e accessibilità.
 
-Quando trovi una traccia su "servizi digitali comunali", non partire dalle sigle. Parti dall'azione.
+Quando trovi una traccia su “servizi digitali comunali”, non partire dalle sigle. Parti dall’azione.
 
 La sequenza corretta è:
 
@@ -104,15 +65,15 @@ La sequenza corretta è:
 3. quale istanza o documento presenta?
 4. il documento entra nel protocollo?
 5. quale fascicolo viene formato?
-6. quali dati l'ufficio deve acquisire o verificare?
+6. quali dati l’ufficio deve acquisire o verificare?
 7. serve interoperabilità con altre banche dati?
-8. come si comunica l'esito?
+8. come si comunica l’esito?
 9. come si conserva il documento?
 10. quali cautele servono su privacy, sicurezza e accessibilità?
 
 Questa sequenza trasforma il digitale in un caso amministrativo.
 
-### Mappa BANDO del capitolo
+## Mappa BANDO del capitolo
 
 | Fase | Domanda operativa | Output atteso |
 | --- | --- | --- |
@@ -124,13 +85,13 @@ Questa sequenza trasforma il digitale in un caso amministrativo.
 
 La mappa mostra la regola del capitolo: ogni strumento digitale deve rispondere a una funzione amministrativa.
 
-### Servizio digitale comunale: che cosa cambia per l'ufficio
-Un servizio digitale comunale consente di attivare, gestire o seguire per via telematica domande, certificazioni, pagamenti, prenotazioni, segnalazioni, richieste di accesso e altri procedimenti. La pratica può entrare da portale, PEC o piattaforma nazionale, ma l'ufficio deve comunque identificare l'utente, trattare istanza e allegati come documenti amministrativi, collegarli a protocollo e fascicolo e rendere verificabili istruttoria, decisione, dati trattati e comunicazioni.
+## Servizio digitale comunale: che cosa cambia per l’ufficio
+Un servizio digitale comunale consente di attivare, gestire o seguire per via telematica domande, certificazioni, pagamenti, prenotazioni, segnalazioni, richieste di accesso e altri procedimenti. La pratica può entrare da portale, PEC o piattaforma nazionale, ma l’ufficio deve comunque identificare l’utente, trattare istanza e allegati come documenti amministrativi, collegarli a protocollo e fascicolo e rendere verificabili istruttoria, decisione, dati trattati e comunicazioni.
 
 > Un servizio digitale comunale è un procedimento organizzato in ambiente digitale: comprende identificazione, documento, protocollo, fascicolo, istruttoria, comunicazione, conservazione e protezione dei dati.
 
-### CAD: cornice, non elenco di articoli
-Il Codice dell'amministrazione digitale, CAD, è la cornice normativa che disciplina molti istituti della PA digitale: documento informatico, firme, identità digitale, servizi in rete, domicilio digitale, dati delle pubbliche amministrazioni, interoperabilità e regole tecniche.
+## CAD: cornice, non elenco di articoli
+Il Codice dell’amministrazione digitale, CAD, è la cornice normativa che disciplina molti istituti della PA digitale: documento informatico, firme, identità digitale, servizi in rete, domicilio digitale, dati delle pubbliche amministrazioni, interoperabilità e regole tecniche.
 
 Per un concorso comunale non devi trasformare il CAD in una lista di articoli. Devi capirne la funzione.
 
@@ -140,18 +101,18 @@ Il CAD non riguarda soltanto informatici e tecnici: incide sul lavoro ordinario,
 
 > Il CAD è la cornice che consente alla PA di operare digitalmente con valore giuridico. Nel Comune incide su servizi online, documenti informatici, identità digitale, comunicazioni, domicilio digitale, dati, interoperabilità e conservazione. Non sostituisce il procedimento amministrativo, ma lo organizza in ambiente digitale.
 
-### Identità digitale: SPID, CIE e CNS
-L'identità digitale serve a identificare l'utente che accede a un servizio. Nei concorsi ricorrono soprattutto SPID, CIE e CNS.
+## Identità digitale: SPID, CIE e CNS
+L’identità digitale serve a identificare l’utente che accede a un servizio. Nei concorsi ricorrono soprattutto SPID, CIE e CNS.
 
 La funzione è:
 
-- consentire l'accesso ai servizi online;
+- consentire l’accesso ai servizi online;
 - riconoscere il cittadino o il soggetto che opera;
-- collegare l'operazione digitale a un'identità;
+- collegare l’operazione digitale a un’identità;
 - ridurre passaggi fisici allo sportello;
-- rendere più sicura la presentazione dell'istanza.
+- rendere più sicura la presentazione dell’istanza.
 
-Non bisogna confondere identità digitale e firma digitale. L'identità digitale serve per accedere o autenticarsi; la firma serve a sottoscrivere un documento, secondo la disciplina applicabile.
+Non bisogna confondere identità digitale e firma digitale. L’identità digitale serve per accedere o autenticarsi; la firma serve a sottoscrivere un documento, secondo la disciplina applicabile.
 
 Tabella essenziale:
 
@@ -163,33 +124,33 @@ Tabella essenziale:
 
 Esempio comunale:
 
-> Il cittadino accede al portale comunale con SPID o CIE e presenta una domanda per un servizio scolastico. L'identità digitale permette all'ente di riconoscere l'utente; l'istanza, gli allegati e le comunicazioni successive devono comunque essere gestiti secondo regole documentali e procedimentali.
+> Il cittadino accede al portale comunale con SPID o CIE e presenta una domanda per un servizio scolastico. L’identità digitale permette all’ente di riconoscere l’utente; l’istanza, gli allegati e le comunicazioni successive devono comunque essere gestiti secondo regole documentali e procedimentali.
 
-### Firma elettronica, firma digitale e sottoscrizione
+## Firma elettronica, firma digitale e sottoscrizione
 La firma riguarda la sottoscrizione del documento. Serve a collegare il contenuto al soggetto che lo sottoscrive e, secondo il tipo di firma e la disciplina applicabile, a garantire imputazione, integrità e valore giuridico.
 
-In una risposta concorsuale non serve ricostruire tutta la tassonomia tecnica delle firme. Occorre invece evitare tre confusioni: una firma autografa scansionata non è automaticamente una firma digitale; la PEC prova aspetti della trasmissione, mentre la firma riguarda il documento; l'accesso con identità digitale non rende da solo validamente sottoscritto ogni allegato quando è richiesta una firma specifica.
+In una risposta concorsuale non serve ricostruire tutta la tassonomia tecnica delle firme. Occorre invece evitare tre confusioni: una firma autografa scansionata non è automaticamente una firma digitale; la PEC prova aspetti della trasmissione, mentre la firma riguarda il documento; l’accesso con identità digitale non rende da solo validamente sottoscritto ogni allegato quando è richiesta una firma specifica.
 
 La domanda da porsi è:
 
-> la disciplina del procedimento richiede solo identificazione dell'utente, oppure richiede anche sottoscrizione del documento?
+> la disciplina del procedimento richiede solo identificazione dell’utente, oppure richiede anche sottoscrizione del documento?
 
 Nel caso pratico puoi rispondere così:
 
-> L'ufficio deve verificare se l'istanza presentata online è validamente formata secondo il servizio utilizzato e se la disciplina richiede una sottoscrizione specifica. L'identità digitale consente l'accesso e l'identificazione, mentre la firma digitale o altra firma elettronica rileva quando occorre sottoscrivere il documento.
+> L’ufficio deve verificare se l’istanza presentata online è validamente formata secondo il servizio utilizzato e se la disciplina richiede una sottoscrizione specifica. L’identità digitale consente l’accesso e l’identificazione, mentre la firma digitale o altra firma elettronica rileva quando occorre sottoscrivere il documento.
 
-### PEC, domicilio digitale, INAD e IPA
+## PEC, domicilio digitale, INAD e IPA
 La PEC e il domicilio digitale riguardano comunicazioni e recapiti. Sono strumenti centrali negli uffici comunali, perché molti procedimenti si fondano su invii, ricevute, comunicazioni e notifiche.
 
-La PEC è un canale di trasmissione con ricevute. Non è una firma digitale, non trasforma ogni allegato in documento sottoscritto e non risolve da sola il problema della competenza o del contenuto dell'atto.
+La PEC è un canale di trasmissione con ricevute. Non è una firma digitale, non trasforma ogni allegato in documento sottoscritto e non risolve da sola il problema della competenza o del contenuto dell’atto.
 
-Il domicilio digitale è l'indirizzo elettronico usato per le comunicazioni aventi valore secondo la disciplina digitale. Gli indici pubblici, come IPA per le pubbliche amministrazioni e INAD per persone fisiche e altri soggetti previsti, servono a individuare recapiti digitali ufficiali.
+Il domicilio digitale è l’indirizzo elettronico usato per le comunicazioni aventi valore secondo la disciplina digitale. Gli indici pubblici, come IPA per le pubbliche amministrazioni e INAD per persone fisiche e altri soggetti previsti, servono a individuare recapiti digitali ufficiali.
 
 Per il Comune questo significa:
 
 - ricevere istanze e comunicazioni tramite canali digitali;
 - inviare comunicazioni al domicilio digitale quando previsto;
-- usare indirizzi ufficiali dell'amministrazione;
+- usare indirizzi ufficiali dell’amministrazione;
 - conservare ricevute e tracce della comunicazione;
 - distinguere email ordinaria, PEC e domicilio digitale.
 
@@ -200,12 +161,12 @@ Tabella anti-confusione:
 | PEC | Come trasmetto con ricevute di invio e consegna? | Non è automaticamente firma del documento. |
 | Domicilio digitale | A quale recapito ufficiale posso comunicare? | Non è una semplice email privata. |
 | IPA | Dove trovo riferimenti e domicili digitali delle PA? | Non è un protocollo di pratica. |
-| INAD | Dove sono domicili digitali di persone fisiche e altri soggetti previsti? | Non è un'anagrafe generale della popolazione. |
+| INAD | Dove sono domicili digitali di persone fisiche e altri soggetti previsti? | Non è un’anagrafe generale della popolazione. |
 
-Nel caso pratico, la PEC va sempre collegata a protocollo e fascicolo. Una PEC ricevuta dall'ente deve essere trattata come documento in ingresso, registrata quando necessario, assegnata e conservata secondo le regole dell'ente.
+Nel caso pratico, la PEC va sempre collegata a protocollo e fascicolo. Una PEC ricevuta dall’ente deve essere trattata come documento in ingresso, registrata quando necessario, assegnata e conservata secondo le regole dell’ente.
 
-### Documento informatico
-Il documento informatico non è semplicemente "un file". È un documento formato, acquisito, gestito e conservato in modo coerente con regole giuridiche e tecniche.
+## Documento informatico
+Il documento informatico non è semplicemente “un file”. È un documento formato, acquisito, gestito e conservato in modo coerente con regole giuridiche e tecniche.
 
 Nel Comune sono documenti informatici, tra gli altri, le istanze e gli allegati presentati online, le comunicazioni PEC, le determinazioni firmate digitalmente, i certificati, le ricevute, gli esiti di pagamento e i dati strutturati generati da una piattaforma. Il candidato deve distinguere il documento nativo digitale dalle diverse copie informatiche o analogiche e non deve confondere un documento firmato digitalmente con uno semplicemente trasmesso via PEC.
 
@@ -215,16 +176,16 @@ Formula utile:
 
 > Il documento informatico va gestito in tutto il ciclo di vita: formazione o acquisizione, protocollazione se dovuta, fascicolazione, uso istruttorio, comunicazione, accesso e conservazione.
 
-### Protocollo informatico e fascicolo informatico
+## Protocollo informatico e fascicolo informatico
 Il capitolo 5 ha spiegato il protocollo come tracciabilità del procedimento. Qui aggiungiamo il profilo digitale.
 
-Il protocollo informatico registra i documenti in ingresso e in uscita nel sistema di gestione documentale dell'ente. Collega documento, data, mittente, destinatario, oggetto, classificazione e assegnazione; questa registrazione rende la pratica rintracciabile.
+Il protocollo informatico registra i documenti in ingresso e in uscita nel sistema di gestione documentale dell’ente. Collega documento, data, mittente, destinatario, oggetto, classificazione e assegnazione; questa registrazione rende la pratica rintracciabile.
 
 Il fascicolo informatico raccoglie i documenti e i dati relativi a un procedimento o affare. Serve a impedire che la pratica sia dispersa tra email, cartelle personali, stampe, file scaricati e comunicazioni isolate.
 
 La sequenza è:
 
-| Fase | Domanda dell'ufficio | Output digitale |
+| Fase | Domanda dell’ufficio | Output digitale |
 | --- | --- | --- |
 | Acquisizione | Da dove arriva il documento? | Portale, PEC, scansione, interoperabilità, upload. |
 | Registrazione | Va protocollato? | Registrazione di protocollo o registrazione nel sistema previsto. |
@@ -233,48 +194,48 @@ La sequenza è:
 | Istruttoria | Quali documenti servono per decidere? | Note, allegati, pareri, dati acquisiti. |
 | Chiusura | Come si conclude e conserva? | Provvedimento, comunicazione, pacchetto o versamento in conservazione. |
 
-L'errore da evitare è salvare documenti su cartelle informali senza inserirli nel sistema di gestione documentale. In prova basta dire:
+L’errore da evitare è salvare documenti su cartelle informali senza inserirli nel sistema di gestione documentale. In prova basta dire:
 
-> Il documento digitale deve entrare nel sistema documentale dell'ente, essere classificato, fascicolato e conservato; non basta riceverlo via email o scaricarlo dal portale.
+> Il documento digitale deve entrare nel sistema documentale dell’ente, essere classificato, fascicolato e conservato; non basta riceverlo via email o scaricarlo dal portale.
 
-### Metadati e gestione documentale
+## Metadati e gestione documentale
 I metadati sono informazioni che descrivono il documento e ne consentono gestione, ricerca, collegamento e conservazione. Possono riguardare autore, data, oggetto, classificazione, fascicolo, formato, impronta, stato, riferimenti procedimentali o altri elementi previsti dalle regole tecniche.
 
 In una prova generalista non serve entrare nei tracciati tecnici. Basta spiegare che i metadati rendono il documento ricercabile, lo collegano a procedimento e fascicolo, ne ricostruiscono la cronologia e sostengono conservazione, accesso e controllo, riducendo smarrimenti e duplicazioni.
 
-La gestione documentale è un'attività amministrativa oltre che informatica. Il responsabile dell'ufficio, il servizio protocollo, il responsabile della gestione documentale, il responsabile della conservazione e gli utenti autorizzati devono seguire regole organizzative comuni.
+La gestione documentale è un’attività amministrativa oltre che informatica. Il responsabile dell’ufficio, il servizio protocollo, il responsabile della gestione documentale, il responsabile della conservazione e gli utenti autorizzati devono seguire regole organizzative comuni.
 
 Formula da orale:
 
 > I metadati non sono un accessorio tecnico: consentono di collegare documento, fascicolo, procedimento e conservazione, rendendo il documento reperibile, affidabile e gestibile nel tempo.
 
-### Conservazione digitale
+## Conservazione digitale
 La conservazione digitale è il processo che consente di mantenere nel tempo autenticità, integrità, affidabilità, leggibilità e reperibilità dei documenti informatici. Un file sul desktop o in una cartella condivisa, così come una stampa di sicurezza, non realizza da solo questo risultato.
 
 La conservazione richiede regole, responsabilità, sistema di conservazione, formati, metadati, pacchetti informativi e procedure. Per il candidato, il concetto va tradotto così:
 
-> il documento deve restare utilizzabile e verificabile anche dopo anni, quando il procedimento è chiuso e quando l'ente deve produrlo per controlli, accesso, contenzioso o archivio.
+> il documento deve restare utilizzabile e verificabile anche dopo anni, quando il procedimento è chiuso e quando l’ente deve produrlo per controlli, accesso, contenzioso o archivio.
 
-Una determinazione firmata digitalmente, gli allegati, la ricevuta di protocollo e le comunicazioni PEC devono quindi confluire nel fascicolo ed essere conservati secondo le regole dell'ente. Documenti irreperibili o illeggibili, metadati incompleti e comunicazioni non tracciate producono anche conseguenze amministrative.
+Una determinazione firmata digitalmente, gli allegati, la ricevuta di protocollo e le comunicazioni PEC devono quindi confluire nel fascicolo ed essere conservati secondo le regole dell’ente. Documenti irreperibili o illeggibili, metadati incompleti e comunicazioni non tracciate producono anche conseguenze amministrative.
 
-### ANPR come infrastruttura demografica
-ANPR, Anagrafe nazionale della popolazione residente, è l'infrastruttura nazionale che ha superato la logica delle anagrafi comunali isolate, concentrando in una base dati nazionale le posizioni anagrafiche dei residenti e dei cittadini italiani residenti all'estero, secondo la disciplina applicabile.
+## ANPR come infrastruttura demografica
+ANPR, Anagrafe nazionale della popolazione residente, è l’infrastruttura nazionale che ha superato la logica delle anagrafi comunali isolate, concentrando in una base dati nazionale le posizioni anagrafiche dei residenti e dei cittadini italiani residenti all’estero, secondo la disciplina applicabile.
 
 Per il candidato comunale conta la funzione: ANPR riduce duplicazioni e frammentazione, abilita servizi e certificati online, collega gli uffici a una piattaforma nazionale e facilita controlli e interoperabilità. Proprio per questo richiede dati corretti, aggiornati e protetti.
 
-ANPR non elimina il ruolo del Comune. Cambia il modo in cui il Comune lavora sui dati anagrafici. L'ufficiale d'anagrafe e gli uffici demografici restano centrali per procedimenti, verifiche, aggiornamenti, rettifiche e rapporto con il cittadino, ma operano dentro una infrastruttura nazionale.
+ANPR non elimina il ruolo del Comune. Cambia il modo in cui il Comune lavora sui dati anagrafici. L’ufficiale d’anagrafe e gli uffici demografici restano centrali per procedimenti, verifiche, aggiornamenti, rettifiche e rapporto con il cittadino, ma operano dentro una infrastruttura nazionale.
 
 ANPR non è quindi soltanto una banca dati: collega i servizi demografici comunali a un sistema unitario di dati e servizi. Il capitolo successivo svilupperà anagrafe, stato civile, elettorale, certificazioni, AIRE e casi di sportello.
 
-### ANPR, ANSC e servizi demografici digitali
-L'evoluzione riguarda anche l'Archivio nazionale informatizzato dei registri dello stato civile, ANSC, e le funzionalità collegate al portale ANPR. I servizi demografici non dipendono più soltanto dallo sportello e dai registri locali: il Comune opera in piattaforme nazionali, mantenendo qualità del dato, sicurezza e correttezza delle operazioni. Per dettagli tecnici e scadenze, soggetti a evoluzione, occorre verificare portale ANPR, fonti DAIT, circolari e documentazione tecnica vigenti.
+## ANPR, ANSC e servizi demografici digitali
+L’evoluzione riguarda anche l’Archivio nazionale informatizzato dei registri dello stato civile, ANSC, e le funzionalità collegate al portale ANPR. I servizi demografici non dipendono più soltanto dallo sportello e dai registri locali: il Comune opera in piattaforme nazionali, mantenendo qualità del dato, sicurezza e correttezza delle operazioni. Per dettagli tecnici e scadenze, soggetti a evoluzione, occorre verificare portale ANPR, fonti DAIT, circolari e documentazione tecnica vigenti.
 
 Formula prudente:
 
 > ANPR e, nelle evoluzioni più recenti, ANSC mostrano che i servizi demografici comunali sono sempre più integrati in infrastrutture nazionali. Il candidato deve conoscere la funzione del sistema e verificare gli aggiornamenti operativi nelle fonti DAIT prima di usare dettagli tecnici o scadenze.
 
-### Interoperabilità e dati
-L'interoperabilità è la capacità di amministrazioni e sistemi di scambiare dati e servizi in modo ordinato, sicuro e regolato. Nel Comune serve a evitare che il cittadino debba ripetere informazioni che l'amministrazione può acquisire o verificare attraverso canali istituzionali.
+## Interoperabilità e dati
+L’interoperabilità è la capacità di amministrazioni e sistemi di scambiare dati e servizi in modo ordinato, sicuro e regolato. Nel Comune serve a evitare che il cittadino debba ripetere informazioni che l’amministrazione può acquisire o verificare attraverso canali istituzionali.
 
 Esempi:
 
@@ -285,18 +246,18 @@ Esempi:
 - scambiare dati tra enti;
 - semplificare istruttorie e controlli.
 
-L'interoperabilità non significa accesso libero a qualunque dato. Ogni scambio deve avere finalità, base giuridica, sicurezza, tracciabilità e limiti. In particolare, l'ufficio deve sapere perché accede a un dato, chi è autorizzato, come il dato entra nel fascicolo e come viene protetto.
+L’interoperabilità non significa accesso libero a qualunque dato. Ogni scambio deve avere finalità, base giuridica, sicurezza, tracciabilità e limiti. In particolare, l’ufficio deve sapere perché accede a un dato, chi è autorizzato, come il dato entra nel fascicolo e come viene protetto.
 
-La PDND, Piattaforma Digitale Nazionale Dati, è una delle infrastrutture collegate al tema dell'interoperabilità. In un concorso comunale generalista basta sapere che supporta lo scambio di dati e servizi tra amministrazioni secondo regole tecniche e organizzative.
+La PDND, Piattaforma Digitale Nazionale Dati, è una delle infrastrutture collegate al tema dell’interoperabilità. In un concorso comunale generalista basta sapere che supporta lo scambio di dati e servizi tra amministrazioni secondo regole tecniche e organizzative.
 
 Risposta sintetica:
 
-> L'interoperabilità consente alla PA di scambiare dati e servizi senza duplicare richieste al cittadino, ma non elimina privacy, sicurezza e responsabilità: ogni accesso al dato deve essere finalizzato, autorizzato, tracciato e pertinente.
+> L’interoperabilità consente alla PA di scambiare dati e servizi senza duplicare richieste al cittadino, ma non elimina privacy, sicurezza e responsabilità: ogni accesso al dato deve essere finalizzato, autorizzato, tracciato e pertinente.
 
-### pagoPA, App IO e servizi al cittadino
+## pagoPA, App IO e servizi al cittadino
 Alcune piattaforme non riguardano direttamente il documento, ma il servizio.
 
-pagoPA è l'infrastruttura per pagamenti verso la pubblica amministrazione. Per il Comune consente di collegare tributi, tariffe, diritti, sanzioni o altri pagamenti a flussi tracciabili. Non è una tassa e non è un ufficio: è un sistema di pagamento.
+pagoPA è l’infrastruttura per pagamenti verso la pubblica amministrazione. Per il Comune consente di collegare tributi, tariffe, diritti, sanzioni o altri pagamenti a flussi tracciabili. Non è una tassa e non è un ufficio: è un sistema di pagamento.
 
 App IO è uno strumento di interazione tra cittadino e pubbliche amministrazioni per comunicazioni e servizi digitali abilitati. Non sostituisce tutti i portali comunali e non elimina la necessità di una corretta istruttoria.
 
@@ -304,22 +265,22 @@ La logica concorsuale è:
 
 - pagoPA: pagamento tracciabile;
 - App IO: comunicazione/servizi al cittadino;
-- portale comunale: accesso a procedimenti o servizi dell'ente;
+- portale comunale: accesso a procedimenti o servizi dell’ente;
 - protocollo/fascicolo: gestione amministrativa della pratica;
 - conservazione: tenuta nel tempo dei documenti.
 
 Esempio:
 
-> Un cittadino presenta online una domanda per un servizio comunale e paga una tariffa tramite pagoPA. L'ufficio deve collegare domanda, ricevuta, protocollo, fascicolo, istruttoria e comunicazione dell'esito. Il pagamento digitale non sostituisce la verifica dei requisiti.
+> Un cittadino presenta online una domanda per un servizio comunale e paga una tariffa tramite pagoPA. L’ufficio deve collegare domanda, ricevuta, protocollo, fascicolo, istruttoria e comunicazione dell’esito. Il pagamento digitale non sostituisce la verifica dei requisiti.
 
-### Privacy, sicurezza e accessibilità
+## Privacy, sicurezza e accessibilità
 Un servizio digitale comunale deve essere utile, ma anche legittimo, sicuro e accessibile.
 
-La privacy entra perché ogni servizio digitale tratta dati personali: nome, codice fiscale, indirizzo, dati familiari, economici, scolastici, sanitari, sociali o anagrafici. L'ufficio deve applicare principi di liceità, minimizzazione, finalità, sicurezza, esattezza e responsabilizzazione.
+La privacy entra perché ogni servizio digitale tratta dati personali: nome, codice fiscale, indirizzo, dati familiari, economici, scolastici, sanitari, sociali o anagrafici. L’ufficio deve applicare principi di liceità, minimizzazione, finalità, sicurezza, esattezza e responsabilizzazione.
 
 La sicurezza entra perché il servizio digitale può essere esposto a rischi: credenziali deboli, phishing, accessi non autorizzati, perdita di dati, malware, errori di configurazione, mancati backup, data breach.
 
-L'accessibilità entra perché il servizio deve essere utilizzabile anche da persone con disabilità e, più in generale, deve essere comprensibile e fruibile. Un servizio digitale non accessibile può diventare una barriera amministrativa.
+L’accessibilità entra perché il servizio deve essere utilizzabile anche da persone con disabilità e, più in generale, deve essere comprensibile e fruibile. Un servizio digitale non accessibile può diventare una barriera amministrativa.
 
 Tabella pratica:
 
@@ -332,34 +293,34 @@ Tabella pratica:
 
 In prova, una risposta matura chiude sempre con queste cautele. Digitale non significa solo velocità.
 
-### Tabella sigle digitali da concorso
+## Tabella sigle digitali da concorso
 
 | Sigla/strumento | Funzione | Frase da usare in prova | Errore tipico |
 | --- | --- | --- | --- |
-| CAD | Cornice normativa della PA digitale. | "Organizza il valore giuridico del digitale nella PA." | Trattarlo come materia solo informatica. |
-| SPID | Identità digitale per accesso ai servizi. | "Serve a identificare l'utente." | Confonderlo con firma digitale. |
-| CIE | Documento e strumento di accesso digitale. | "Può essere usata per accedere ai servizi abilitati." | Considerarla solo carta fisica. |
-| CNS | Strumento di accesso ai servizi. | "Rileva nell'autenticazione." | Confonderla con PEC. |
-| PEC | Canale di trasmissione certificata. | "Produce ricevute di invio e consegna." | Pensare che firmi automaticamente gli allegati. |
-| Domicilio digitale | Recapito elettronico ufficiale. | "Serve per comunicazioni digitali con valore." | Confonderlo con email ordinaria. |
-| IPA | Indice riferimenti PA. | "Aiuta a individuare riferimenti ufficiali delle amministrazioni." | Usarlo come archivio di pratiche. |
-| INAD | Indice dei domicili digitali previsti. | "Rileva per recapiti digitali di soggetti non PA." | Confonderlo con ANPR. |
-| ANPR | Anagrafe nazionale. | "Infrastruttura nazionale dei dati anagrafici." | Pensare che elimini il ruolo del Comune. |
-| pagoPA | Pagamenti verso PA. | "Rende tracciabile il pagamento." | Chiamarlo tassa o tributo. |
-| App IO | Interazione digitale con il cittadino. | "Canale per comunicazioni e servizi abilitati." | Sostituirla al procedimento. |
-| PDND | Interoperabilità dati. | "Favorisce scambio di dati e servizi tra PA." | Pensare che dia accesso libero a ogni dato. |
-| Conservazione digitale | Tenuta nel tempo del documento informatico. | "Mantiene reperibilità, integrità e leggibilità." | Ridurla a salvataggio file. |
+| CAD | Cornice normativa della PA digitale. | “Organizza il valore giuridico del digitale nella PA.” | Trattarlo come materia solo informatica. |
+| SPID | Identità digitale per accesso ai servizi. | “Serve a identificare l’utente.” | Confonderlo con firma digitale. |
+| CIE | Documento e strumento di accesso digitale. | “Può essere usata per accedere ai servizi abilitati.” | Considerarla solo carta fisica. |
+| CNS | Strumento di accesso ai servizi. | “Rileva nell’autenticazione.” | Confonderla con PEC. |
+| PEC | Canale di trasmissione certificata. | “Produce ricevute di invio e consegna.” | Pensare che firmi automaticamente gli allegati. |
+| Domicilio digitale | Recapito elettronico ufficiale. | “Serve per comunicazioni digitali con valore.” | Confonderlo con email ordinaria. |
+| IPA | Indice riferimenti PA. | “Aiuta a individuare riferimenti ufficiali delle amministrazioni.” | Usarlo come archivio di pratiche. |
+| INAD | Indice dei domicili digitali previsti. | “Rileva per recapiti digitali di soggetti non PA.” | Confonderlo con ANPR. |
+| ANPR | Anagrafe nazionale. | “Infrastruttura nazionale dei dati anagrafici.” | Pensare che elimini il ruolo del Comune. |
+| pagoPA | Pagamenti verso PA. | “Rende tracciabile il pagamento.” | Chiamarlo tassa o tributo. |
+| App IO | Interazione digitale con il cittadino. | “Canale per comunicazioni e servizi abilitati.” | Sostituirla al procedimento. |
+| PDND | Interoperabilità dati. | “Favorisce scambio di dati e servizi tra PA.” | Pensare che dia accesso libero a ogni dato. |
+| Conservazione digitale | Tenuta nel tempo del documento informatico. | “Mantiene reperibilità, integrità e leggibilità.” | Ridurla a salvataggio file. |
 
 Questa tabella non sostituisce lo studio. Serve a costruire risposte rapide e a neutralizzare distrattori.
 
-### Caso guidato: domanda online per un servizio comunale
-**Traccia.** Un cittadino accede con identità digitale al portale del Comune e presenta domanda per un servizio scolastico. Allega documenti, effettua un pagamento tramite pagoPA e riceve una comunicazione dall'ente. Indicare i principali passaggi amministrativi e digitali che l'ufficio deve gestire.
+## Caso guidato: domanda online per un servizio comunale
+**Traccia.** Un cittadino accede con identità digitale al portale del Comune e presenta domanda per un servizio scolastico. Allega documenti, effettua un pagamento tramite pagoPA e riceve una comunicazione dall’ente. Indicare i principali passaggi amministrativi e digitali che l’ufficio deve gestire.
 
 **Lettura del caso.**
 
 | Elemento | Lettura |
 | --- | --- |
-| Accesso | Identità digitale per riconoscere l'utente. |
+| Accesso | Identità digitale per riconoscere l’utente. |
 | Istanza | Domanda online da acquisire come documento. |
 | Allegati | Documenti informatici o copie da verificare. |
 | Pagamento | Flusso pagoPA da collegare alla pratica. |
@@ -370,23 +331,23 @@ Questa tabella non sostituisce lo studio. Serve a costruire risposte rapide e a 
 
 **Soluzione guidata.**
 
-Primo: il cittadino accede al servizio tramite identità digitale. Questo consente l'identificazione, ma l'ufficio deve verificare se la domanda è completa e se la disciplina richiede una sottoscrizione specifica.
+Primo: il cittadino accede al servizio tramite identità digitale. Questo consente l’identificazione, ma l’ufficio deve verificare se la domanda è completa e se la disciplina richiede una sottoscrizione specifica.
 
-Secondo: l'istanza e gli allegati devono essere acquisiti nel sistema dell'ente. Se dovuto, la domanda viene protocollata, classificata e assegnata al servizio competente.
+Secondo: l’istanza e gli allegati devono essere acquisiti nel sistema dell’ente. Se dovuto, la domanda viene protocollata, classificata e assegnata al servizio competente.
 
 Terzo: il fascicolo informatico deve raccogliere domanda, allegati, ricevuta di pagamento, comunicazioni, note istruttorie, eventuali integrazioni e provvedimento finale.
 
-Quarto: l'ufficio verifica requisiti, dati dichiarati, pagamento e documentazione. Se alcuni dati possono essere acquisiti d'ufficio o tramite interoperabilità, l'ente evita richieste inutili al cittadino, nei limiti della disciplina applicabile.
+Quarto: l’ufficio verifica requisiti, dati dichiarati, pagamento e documentazione. Se alcuni dati possono essere acquisiti d’ufficio o tramite interoperabilità, l’ente evita richieste inutili al cittadino, nei limiti della disciplina applicabile.
 
-Quinto: l'esito viene comunicato tramite canale idoneo e resta tracciato nel fascicolo.
+Quinto: l’esito viene comunicato tramite canale idoneo e resta tracciato nel fascicolo.
 
 Sesto: i documenti devono essere conservati secondo regole di gestione documentale, con attenzione a metadati, sicurezza e protezione dei dati personali.
 
 Risposta sintetica:
 
-> La domanda online non elimina il procedimento. L'ufficio deve identificare l'utente, acquisire l'istanza come documento, protocollarla se dovuto, inserirla nel fascicolo informatico, collegare il pagamento pagoPA, svolgere l'istruttoria, comunicare l'esito attraverso un canale idoneo e conservare documenti e metadati. Tutto il flusso deve rispettare privacy, sicurezza e accessibilità.
+> La domanda online non elimina il procedimento. L’ufficio deve identificare l’utente, acquisire l’istanza come documento, protocollarla se dovuto, inserirla nel fascicolo informatico, collegare il pagamento pagoPA, svolgere l’istruttoria, comunicare l’esito attraverso un canale idoneo e conservare documenti e metadati. Tutto il flusso deve rispettare privacy, sicurezza e accessibilità.
 
-### Come rispondere all'orale
+## Come rispondere all’orale
 Una risposta orale su servizi digitali comunali può seguire sei passaggi.
 
 Primo: inquadrare il CAD come cornice della PA digitale.
@@ -403,20 +364,20 @@ Sesto: chiudere con privacy, sicurezza e accessibilità.
 
 Risposta modello:
 
-> Nei servizi digitali comunali il CAD fornisce la cornice giuridica per operare con documenti, comunicazioni e servizi in rete. Il cittadino può accedere con SPID, CIE o CNS; può ricevere comunicazioni tramite canali digitali e domicilio digitale; può trasmettere istanze e allegati. L'ufficio deve però gestire il procedimento: acquisire il documento, protocollarlo se dovuto, inserirlo nel fascicolo informatico, istruire la pratica, comunicare l'esito e conservare gli atti. ANPR è l'infrastruttura nazionale che sostiene molti servizi demografici. Privacy, sicurezza e accessibilità sono vincoli dell'intero servizio, non elementi decorativi.
+> Nei servizi digitali comunali il CAD fornisce la cornice giuridica per operare con documenti, comunicazioni e servizi in rete. Il cittadino può accedere con SPID, CIE o CNS; può ricevere comunicazioni tramite canali digitali e domicilio digitale; può trasmettere istanze e allegati. L’ufficio deve però gestire il procedimento: acquisire il documento, protocollarlo se dovuto, inserirlo nel fascicolo informatico, istruire la pratica, comunicare l’esito e conservare gli atti. ANPR è l’infrastruttura nazionale che sostiene molti servizi demografici. Privacy, sicurezza e accessibilità sono vincoli dell’intero servizio, non elementi decorativi.
 
-### Domanda da commissario
+## Domanda da commissario
 Qual è la differenza tra identità digitale, PEC e firma digitale?
 
-L'identità digitale, come SPID, CIE o CNS, identifica l'utente e gli consente di accedere ai servizi online. La PEC è un canale di trasmissione che produce ricevute di invio e consegna. La firma digitale riguarda invece la sottoscrizione del documento informatico e la riconducibilità del contenuto al firmatario secondo la disciplina applicabile. Sono strumenti collegati, ma non equivalenti: accedere con SPID non significa firmare digitalmente un allegato; inviarlo via PEC non significa che sia automaticamente sottoscritto.
+L’identità digitale, come SPID, CIE o CNS, identifica l’utente e gli consente di accedere ai servizi online. La PEC è un canale di trasmissione che produce ricevute di invio e consegna. La firma digitale riguarda invece la sottoscrizione del documento informatico e la riconducibilità del contenuto al firmatario secondo la disciplina applicabile. Sono strumenti collegati, ma non equivalenti: accedere con SPID non significa firmare digitalmente un allegato; inviarlo via PEC non significa che sia automaticamente sottoscritto.
 
-### Domanda-trappola
-Se una domanda è presentata tramite portale online, l'ufficio può considerare concluso il procedimento?
+## Domanda-trappola
+Se una domanda è presentata tramite portale online, l’ufficio può considerare concluso il procedimento?
 
-No. Il portale è il canale di presentazione, non la conclusione del procedimento. L'ufficio deve acquisire la domanda, verificarne completezza e validità, protocollarla se dovuto, inserirla nel fascicolo, svolgere l'istruttoria, adottare l'atto finale o comunicare l'esito e conservare la documentazione. Il digitale semplifica e rende tracciabile il flusso, ma restano necessari competenza, istruttoria e motivazione.
+No. Il portale è il canale di presentazione, non la conclusione del procedimento. L’ufficio deve acquisire la domanda, verificarne completezza e validità, protocollarla se dovuto, inserirla nel fascicolo, svolgere l’istruttoria, adottare l’atto finale o comunicare l’esito e conservare la documentazione. Il digitale semplifica e rende tracciabile il flusso, ma restano necessari competenza, istruttoria e motivazione.
 
-### Errore tipico
-L'errore più frequente è rispondere con una lista di sigle:
+## Errore tipico
+L’errore più frequente è rispondere con una lista di sigle:
 
 > Il Comune usa SPID, CIE, PEC, ANPR, pagoPA, App IO e PDND.
 
@@ -424,10 +385,10 @@ La frase è debole perché non spiega a cosa servono.
 
 Risposta più solida:
 
-> Il Comune usa identità digitali per riconoscere l'utente, PEC e domicilio digitale per comunicare, pagoPA per gestire pagamenti tracciabili, ANPR per i dati anagrafici, strumenti di interoperabilità per acquisire dati e sistemi di gestione documentale per protocollare, fascicolare e conservare documenti informatici.
+> Il Comune usa identità digitali per riconoscere l’utente, PEC e domicilio digitale per comunicare, pagoPA per gestire pagamenti tracciabili, ANPR per i dati anagrafici, strumenti di interoperabilità per acquisire dati e sistemi di gestione documentale per protocollare, fascicolare e conservare documenti informatici.
 
-### Mini-esercizio
-Completa la tabella collegando ogni strumento a un'azione dell'ufficio.
+## Mini-esercizio
+Completa la tabella collegando ogni strumento a un’azione dell’ufficio.
 
 | Situazione | Strumento/funzione da indicare | Attenzione |
 | --- | --- | --- |
@@ -453,27 +414,27 @@ Soluzione attesa:
 | Cittadino paga una tariffa | pagoPA. | Il pagamento va collegato alla pratica. |
 | Servizio deve essere usabile da persone con disabilità | Accessibilità digitale. | Il digitale non deve creare barriere. |
 
-### Diario errori del capitolo
+## Diario errori del capitolo
 
 | Errore | Effetto in prova | Correzione operativa |
 | --- | --- | --- |
-| Imparare le sigle senza funzione | Risposta nozionistica e fragile. | Collegare ogni sigla a un'azione dell'ufficio. |
+| Imparare le sigle senza funzione | Risposta nozionistica e fragile. | Collegare ogni sigla a un’azione dell’ufficio. |
 | Confondere SPID e firma digitale | Errore su identificazione e sottoscrizione. | SPID/CIE/CNS identificano; la firma sottoscrive. |
 | Confondere PEC e firma | Comunicazione e documento sovrapposti. | PEC trasmette; la firma riguarda il documento. |
 | Dire che un file è sempre documento informatico valido | Valore giuridico dato per scontato. | Verificare formazione, sottoscrizione, gestione e conservazione. |
 | Ridurre conservazione a salvataggio | Perdita del ciclo documentale. | Parlare di sistema, metadati, integrità, leggibilità e reperibilità. |
-| Pensare che ANPR elimini l'ufficio anagrafe | Ruolo del Comune cancellato. | ANPR integra e coordina; il Comune resta presidio del servizio. |
+| Pensare che ANPR elimini l’ufficio anagrafe | Ruolo del Comune cancellato. | ANPR integra e coordina; il Comune resta presidio del servizio. |
 | Ignorare privacy e sicurezza | Servizio digitale incompleto. | Chiudere sempre con dati necessari, accessi autorizzati, protezione e tracciabilità. |
 | Dimenticare accessibilità | Digitalizzazione escludente. | Un servizio digitale deve essere fruibile e comprensibile. |
 
-### Da sapere in 5 righe
+## Da sapere in 5 righe
 1. Il CAD è la cornice giuridica della PA digitale, non una lista di sigle.
 2. Identità digitale, PEC, domicilio digitale e firma hanno funzioni diverse.
 3. Documento informatico, protocollo, fascicolo e conservazione formano il ciclo documentale digitale.
-4. ANPR è l'infrastruttura nazionale dei dati e servizi anagrafici, ma non elimina il ruolo del Comune.
+4. ANPR è l’infrastruttura nazionale dei dati e servizi anagrafici, ma non elimina il ruolo del Comune.
 5. Privacy, sicurezza e accessibilità sono condizioni del servizio digitale, non passaggi facoltativi.
 
-### Checklist operativa finale
+## Checklist operativa finale
 - so spiegare il CAD come cornice della PA digitale?
 - so distinguere identificazione, trasmissione, recapito e sottoscrizione?
 - so dire perché PEC e firma digitale non sono la stessa cosa?
@@ -485,22 +446,11 @@ Soluzione attesa:
 - so chiudere una risposta digitale con privacy, sicurezza e accessibilità?
 - so risolvere un caso di istanza online senza saltare istruttoria e atto finale?
 
-### Riferimenti consolidati
-- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale|D.Lgs. 7 marzo 2005, n. 82 - Codice dell'amministrazione digitale]]
-- [[sources/pa-digitale-cad-identita-documenti-servizi-dati|PA digitale - CAD, identità, documenti, servizi, dati e cloud]]
-- [[sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici|AgID - linee guida su formazione, gestione e conservazione dei documenti informatici]]
-- [[sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale|AgID - catalogo linee guida CAD e domicilio digitale]]
-- [[sources/ministero-interno-dait-anpr-finanza-locale|Ministero dell'interno - DAIT, servizi demografici e ANPR]]
-- [[sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa|D.P.R. 28 dicembre 2000, n. 445 - documentazione amministrativa]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali|Regolamento UE 2016/679 - GDPR]]
-- [[sources/sicurezza-informatica-privacy-nis2-pa|Sicurezza informatica, privacy, NIS2 e protezione dati nella PA]]
-- [[topics/pa-digitale|PA digitale]]
-- [[topics/privacy-e-protezione-dati|Privacy e protezione dati]]
-- [[entities/comune|Comune]]
+## Riferimenti normativi e professionali essenziali
+- D.Lgs. 7 marzo 2005, n. 82 - Codice dell’amministrazione digitale
+- AgID - linee guida su formazione, gestione e conservazione dei documenti informatici
+- AgID - catalogo linee guida CAD e domicilio digitale
+- Ministero dell’interno - DAIT, servizi demografici e ANPR
+- D.P.R. 28 dicembre 2000, n. 445 - documentazione amministrativa
+- Regolamento UE 2016/679 - GDPR
 - Cfr. [[books/il-metodo-bando/index|VOL-01 — Il Metodo BANDO]] per il quadro generale su informatica, PA digitale, privacy, sicurezza e competenze digitali.
-
-### Note di review
-- Prima della pubblicazione verificare il testo vigente del CAD su Normattiva e le ultime Linee guida AgID su documento informatico, gestione documentale, accessibilità, interoperabilità e domicilio digitale.
-- Verificare su DAIT e portale ANPR eventuali aggiornamenti su ANPR, ANSC, certificati online, web application e circolari dei servizi demografici prima di inserire scadenze o istruzioni operative.
-- Coordinare questo capitolo con il capitolo M-FL01 7 sui servizi demografici ed elettorali, evitando duplicazioni su anagrafe, stato civile, AIRE, certificazioni e liste elettorali.
-- Per profili ICT o digital transformation avanzati, rinviare a moduli specialistici informatici: qui il livello resta quello richiesto a profili comunali amministrativi e servizi al cittadino.

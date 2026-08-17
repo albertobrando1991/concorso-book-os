@@ -20,7 +20,8 @@ const {
   expectedPageCount,
   explicitScreenshotPages,
   reportMode,
-  reportPath
+  reportPath,
+  skipPageScreenshots
 } = options
 const url = `${baseUrl}/?bookId=${encodeURIComponent(bookId)}#studio`
 
@@ -71,7 +72,9 @@ try {
     await captureContactSheet(page, range, artifactPrefix)
   }
 
-  const screenshotPages = flaggedPageNumbers(issues, explicitScreenshotPages)
+  const screenshotPages = skipPageScreenshots
+    ? []
+    : flaggedPageNumbers(issues, explicitScreenshotPages)
   for (const pageNumber of screenshotPages) {
     if (pageNumber > diagnostics.length) {
       throw new Error(`Pagina screenshot fuori intervallo: ${pageNumber}/${diagnostics.length}`)
@@ -168,7 +171,8 @@ async function collectDiagnostics(page) {
             contained: rect.left >= contentLeft - 1
               && rect.right <= contentRight + 1
               && rect.top >= pageRect.top
-              && rect.bottom <= safeBottom + 1
+              && rect.bottom <= safeBottom + 1,
+            firstOnPage: visibleBlocks[0] === wrapper
           }
         }
       )
@@ -254,6 +258,9 @@ async function collectDiagnostics(page) {
         detachedBlocks: [],
         nextPageStartsWithProtectedHeading: nextVisibleBlocks.length > 1
           && nextVisibleBlocks[0].getAttribute("data-block-type") === "heading",
+        nextFirstBlockHeight: nextVisibleBlocks[0]
+          ? outerBlockHeight(nextVisibleBlocks[0])
+          : 0,
         isFrontMatterContinuation: Boolean(
           previousPage
           && sectionType === "front_matter"
@@ -266,6 +273,13 @@ async function collectDiagnostics(page) {
 
     function numberStyle(value) {
       return Number.parseFloat(value) || 0
+    }
+
+    function outerBlockHeight(element) {
+      const style = getComputedStyle(element)
+      return element.getBoundingClientRect().height
+        + numberStyle(style.marginTop)
+        + numberStyle(style.marginBottom)
     }
 
     function isVisible(element) {

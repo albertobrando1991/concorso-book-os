@@ -4,6 +4,44 @@
 
 `chapters/04-basi-dati-sql-nosql-qualita-dato.md`
 
+## Addendum retrofit formato 2 — 2026-08-09
+
+Questo addendum prevale sulla ricognizione e sul budget legacy riportati più avanti. Il capitolo contiene già una bozza sostanziale con modellazione, normalizzazione, SQL, transazioni, indici, NoSQL, qualità, sicurezza, caso ed esercizi. Lo step 09 dovrà preservare il testo tecnicamente valido e riorganizzarlo in sei nuclei autonomi del formato 2.
+
+### Mappa dei nuclei stabili
+
+| ID | Nucleo | Contenuti da sviluppare | Applicazione prevista |
+| --- | --- | --- | --- |
+| `N-TR01-04-01` | Dal requisito al modello relazionale | modello, schema, istanza, entità, attributi, relazioni, cardinalità, domini, chiavi e integrità referenziale | traduzione del caso pratiche-uffici in schema relazionale |
+| `N-TR01-04-02` | Vincoli, `NULL` e normalizzazione | vincoli, valori nulli, dipendenze, anomalie di inserimento/aggiornamento/cancellazione, 1NF, 2NF e 3NF, denormalizzazione motivata | diagnosi e correzione di una tabella non normalizzata |
+| `N-TR01-04-03` | SQL per interrogare e modificare | `SELECT`, filtri, ordinamento, join, aggregazioni, `GROUP BY`, `HAVING`, sottoquery, `INSERT`, `UPDATE` e `DELETE` | lettura, scrittura e correzione di query sul caso guida |
+| `N-TR01-04-04` | Transazioni, concorrenza e indici | unità di lavoro, ACID, `COMMIT`, `ROLLBACK`, isolamento, accessi concorrenti, funzione e costi degli indici, distinzione da chiavi e vincoli | diagnosi di aggiornamento parziale e scelta motivata di un indice |
+| `N-TR01-04-05` | Famiglie NoSQL e criteri di scelta | chiave-valore, documentale, wide-column e grafo; incorporamento/riferimento; struttura, consistenza, scala e pattern di accesso | confronto motivato fra schema relazionale e documento |
+| `N-TR01-04-06` | Qualità, accessi e output concorsuale | accuratezza, completezza, coerenza, validità, unicità, tempestività, regole misurabili, privilegi minimi, audit e ripristino; schema, query, diagnosi e orale | scheda di qualità e caso ragionato sulle pratiche |
+
+### Stato rilevato e sviluppo necessario
+
+- I sei nuclei sono già presenti sul piano contenutistico, ma nessuno è completo secondo il formato 2: mancano heading con ID stabile e densità minima verificata.
+- Conservare: apertura, confine puntuale con il VOL-01, Mappa BANDO, caso delle pratiche, schema relazionale, esempi SQL, tabella NoSQL, tabella della qualità, domanda da commissario, domanda-trappola, errore tipico, esercizi e checklist.
+- Sviluppare soprattutto: conseguenze operative dei vincoli; rapporto tra `NULL`, join e aggregazioni; fenomeni di concorrenza a livello concettuale; criteri di scelta degli indici; compromessi delle famiglie NoSQL; metriche e soglie di qualità; collegamento esplicito fra teoria e output di prova.
+- Evitare duplicazioni con il VOL-01 per nozioni elementari; con il capitolo 3 per strutture dati; con il capitolo 6 per API; con i capitoli 8-9 per cybersecurity, IAM e logging; con il capitolo 10 per ruoli, metadati, cataloghi e governo del patrimonio informativo.
+
+### Architettura editoriale vincolante
+
+- Un H2 numerato per ciascuno dei sei nuclei, con H3 funzionali e progressione definizione → funzione → elementi → distinzioni → conseguenze → applicazione.
+- Almeno 600 parole effettive per nucleo; obiettivo 650-800 parole, per un totale indicativo di 4.700-5.700 parole.
+- Un solo blocco `▣ Verifica` dopo il sesto nucleo, con almeno sei quiz commentati, tre esercizi con soluzione e almeno un caso ragionato.
+- Gli esempi SQL devono usare uno schema dichiarato e spiegare risultato, cardinalità ed errore evitato; esercizi e casi non sostituiscono la teoria.
+- Il corpo destinato al lettore non deve contenere wikilink, source note, piani o note di review; la tracciabilità resta nel frontmatter e negli artefatti interni.
+
+### Fonti e audit richiesti
+
+- Fonti guida già consolidate: dossier M-TR01; corpus ufficiale; source note tecnica su basi dati, SQL, NoSQL e qualità; source note su database e formati concorsuali; topic database; rinvio al VOL-01, capitolo 10, paragrafo 7.
+- Audit specialistici automatici: coerenza di schema, cardinalità, chiavi e normalizzazione; correttezza sintattica e semantica delle query; distinzione `WHERE`/`HAVING` e gestione di `NULL`; formulazione prudente di ACID e isolamento; assenza di costi assoluti per gli indici; classificazione NoSQL non ideologica; qualità distinta dalla governance; confini con sicurezza e continuità.
+- Audit editoriale: leggibilità KDP di SQL e tabelle, soluzioni verificabili, almeno sei quiz commentati, nessun wikilink nel corpo e nessuna dipendenza del lettore dagli artefatti interni.
+- Eventuali prodotti o dialetti nominati dal bando richiedono una validazione specifica; non vanno presentati come standard universali.
+- Le soglie e il gate del CLI prevalgono sul budget legacy e sulle stime manuali.
+
 ## Esito della ricognizione
 
 Il capitolo contiene soltanto frontmatter, titolo e specifica della struttura madre. La riga assegnata nella matrice è ancora `parziale`: non esiste testo destinato al lettore e nessun nucleo specialistico può essere considerato completo.

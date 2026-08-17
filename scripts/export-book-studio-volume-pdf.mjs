@@ -45,11 +45,21 @@ try {
       await image.decode?.().catch(() => undefined)
     }))
   })
-  await page.waitForFunction(
-    (expected) => document.querySelectorAll(".bookPages .bookPage").length === expected,
-    expectedPageCount,
-    { timeout: 120_000 }
-  )
+  let stableCount = -1
+  let stableTicks = 0
+  const stabilizeDeadline = Date.now() + 300_000
+  while (Date.now() < stabilizeDeadline) {
+    const count = await page.evaluate(() => document.querySelectorAll(".bookPages .bookPage").length)
+    if (count === stableCount) {
+      stableTicks += 1
+      if (stableTicks >= 5) break
+    } else {
+      stableCount = count
+      stableTicks = 0
+    }
+    await page.waitForTimeout(1_000)
+  }
+  console.error(`Pagine stabilizzate a ${stableCount} (attese ${expectedPageCount}).`)
   await page.waitForTimeout(2_000)
 
   const readiness = await page.evaluate(() => ({

@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/taglio-priorita-studio-concorsi-metodo-bando.md", "topics/taglio-priorita-studio-concorsi.md", "topics/metodo-bando.md", "topics/metodo-di-studio.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md", "topics/scelta-materiali-studio-concorsi.md", "topics/simulazioni-concorsuali.md", "topics/schede-operative-studio.md", "topics/sostenibilita-preparazione-concorsi.md", "topics/capitale-studio-riutilizzabile.md"]
 ---
 
-# Capitolo 36 - Tagliare senza perdere punti: priorità e studio ad alta resa
+# R12 - Tagliare senza perdere punti: priorità e studio ad alta resa
 
 Arriva sempre un momento in cui il piano ideale non regge più.
 
@@ -30,7 +30,7 @@ Oppure dieci.
 
 Oppure hai appena fatto una simulazione e il punteggio è più basso di quanto speravi.
 
-In quel momento molti candidati fanno una delle due cose peggiori: continuano a studiare tutto nello stesso modo, come se il tempo fosse infinito, oppure tagliano a caso, guidati dall'ansia.
+In quel momento molti candidati fanno una delle due cose peggiori: continuano a studiare tutto nello stesso modo, come se il tempo fosse infinito, oppure tagliano a caso, guidati dall’ansia.
 
 Il Metodo BANDO richiede una terza strada.
 
@@ -75,9 +75,9 @@ La difficoltà sta nello scegliere.
 
 Scegliere cosa aprire oggi. Scegliere cosa chiudere. Scegliere quando passare dalla lettura al quiz. Scegliere quando una materia è sufficientemente coperta per il livello richiesto. Scegliere quando un errore richiede ripasso e quando invece è un caso isolato.
 
-Il candidato che non sa tagliare resta intrappolato in una promessa impossibile: "finisco tutto e poi mi alleno".
+Il candidato che non sa tagliare resta intrappolato in una promessa impossibile: “finisco tutto e poi mi alleno”.
 
-Ma spesso "poi" non arriva.
+Ma spesso “poi” non arriva.
 
 Arriva la prova.
 
@@ -93,19 +93,21 @@ La prima cosa da proteggere non è la pagina successiva del manuale.
 
 ![Mappa delle priorità che filtra i materiali verso il nucleo ad alta resa](../assets/chapter-36/01-mappa-priorita-studio.png)
 
+*Figura 36.1 - Mappa delle priorità che filtra i materiali verso il nucleo ad alta resa.*
+
 Ogni decisione di taglio deve passare per la catena BANDO.
 
 | Fase | Domanda | Decisione di taglio |
 |---|---|---|
 | B - Bando | dove compare questo tema e con quale peso? | proteggo ciò che è nel perimetro ufficiale |
 | A - Aree | a quale materia, profilo o modulo appartiene? | distinguo core, modulo specifico e accessorio |
-| N - Nuclei | qual è il concetto minimo che devo saper usare? | riduco l'approfondimento, non il nucleo |
+| N - Nuclei | qual è il concetto minimo che devo saper usare? | riduco l’approfondimento, non il nucleo |
 | D - Diario | che errori sto ripetendo? | non taglio ciò che mi fa sbagliare spesso |
 | O - Output | che cosa devo produrre in prova? | salvo quiz, risposta, orale, caso o simulazione |
 
 Questa mappa impedisce il taglio emotivo.
 
-Se un contenuto compare nel bando, ha alta probabilità, genera errori ricorrenti e serve per l'output della prova, non va eliminato.
+Se un contenuto compare nel bando, ha alta probabilità, genera errori ricorrenti e serve per l’output della prova, non va eliminato.
 
 Va semplificato.
 
@@ -147,6 +149,8 @@ Se non sai scriverlo, probabilmente non stai tagliando: stai reagendo.
 
 ![Triage visivo per tenere attivo, rinviare o togliere un argomento](../assets/chapter-36/02-triage-tre-colonne.png)
 
+*Figura 36.2 - Triage visivo per tenere attivo, rinviare o togliere un argomento.*
+
 Quando il programma è troppo largo, usa tre colonne.
 
 | Colonna | Che cosa contiene | Azione |
@@ -155,7 +159,7 @@ Quando il programma è troppo largo, usa tre colonne.
 | Utile | contenuti coerenti ma non decisivi, approfondimenti proporzionati, moduli di supporto | scheda, quiz mirato, ripasso leggero |
 | Rinviabile | materiali duplicati, approfondimenti specialistici non richiesti, letture passive, dettagli a basso impatto | chiusura, archivio, eventuale riuso futuro |
 
-La colonna "indispensabile" non deve diventare un secondo programma completo.
+La colonna “indispensabile” non deve diventare un secondo programma completo.
 
 Se tutto è indispensabile, la matrice non sta funzionando.
 
@@ -175,6 +179,8 @@ La risposta diventa il nucleo minimo.
 ## Il semaforo del programma
 
 ![Semaforo operativo per attribuire priorità ai temi di studio](../assets/chapter-36/03-semaforo-programma.png)
+
+*Figura 36.3 - Semaforo operativo per attribuire priorità ai temi di studio.*
 
 Dopo il triage, assegna un colore.
 
@@ -201,6 +207,8 @@ Poi non hanno tempo per il rosso.
 
 ![Catena strategica dalla prova alla risposta utile](../assets/chapter-36/04-regola-prova-materia-nucleo-output.png)
 
+*Figura 36.4 - Catena strategica dalla prova alla risposta utile.*
+
 Prima di decidere cosa eliminare, compila questa sequenza:
 
 ```text
@@ -225,15 +233,15 @@ Oppure:
 Caso pratico -> Trasparenza e privacy -> bilanciamento tra accesso e dati personali -> mini-soluzione in 15 righe
 ```
 
-Se non riesci a indicare l'output, non sai ancora come studiare quel contenuto.
+Se non riesci a indicare l’output, non sai ancora come studiare quel contenuto.
 
 Questo è il punto.
 
-Il taglio non si decide chiedendo "quante pagine mancano?".
+Il taglio non si decide chiedendo “quante pagine mancano?”.
 
-Si decide chiedendo "quale output devo ancora saper produrre?".
+Si decide chiedendo “quale output devo ancora saper produrre?”.
 
-Quando il tempo è poco, lo studio lineare perde valore se non porta a output. Leggere dieci pagine senza fare una domanda, una risposta o una correzione può dare l'impressione di avanzare, ma non sempre produce prestazione.
+Quando il tempo è poco, lo studio lineare perde valore se non porta a output. Leggere dieci pagine senza fare una domanda, una risposta o una correzione può dare l’impressione di avanzare, ma non sempre produce prestazione.
 
 Il candidato deve diventare severo:
 
@@ -247,6 +255,8 @@ Tutto ciò che non entra in questa catena va ridotto.
 ## La matrice resa, rischio, tempo e riuso
 
 ![Matrice per selezionare gli argomenti con il migliore rapporto tra resa e costo](../assets/chapter-36/05-matrice-resa-rischio-tempo-riuso.png)
+
+*Figura 36.5 - Matrice per selezionare gli argomenti con il migliore rapporto tra resa e costo.*
 
 Quando devi scegliere tra due attività, usa quattro domande.
 
@@ -277,6 +287,8 @@ Per questo si parte sempre dal bando.
 
 ![Filtro ragionato che riduce i materiali a un kit di studio essenziale](../assets/chapter-36/06-taglio-materiali.png)
 
+*Figura 36.6 - Filtro ragionato che riduce i materiali a un kit di studio essenziale.*
+
 Prima di tagliare contenuti, taglia materiali.
 
 I materiali crescono più velocemente della preparazione: manuale principale, manuale secondario, corso, dispense, banca dati, file del gruppo, sintesi AI, video, appunti, schede, quiz stampati.
@@ -297,7 +309,7 @@ Devi togliere dal tavolo di lavoro ciò che non serve ora.
 
 Un materiale può restare nel capitale di studio senza restare nel piano della settimana.
 
-Questa distinzione riduce l'ansia: archiviare non significa perdere. Significa impedire che un materiale secondario rubi attenzione al nucleo.
+Questa distinzione riduce l’ansia: archiviare non significa perdere. Significa impedire che un materiale secondario rubi attenzione al nucleo.
 
 ### Regola pratica
 
@@ -310,7 +322,7 @@ Se un materiale non risponde ad almeno due di queste domande, chiudilo:
 - quale scheda aggiorna?
 - quale concorso futuro può riusarlo?
 
-Se risponde solo a "mi sembra utile", non basta.
+Se risponde solo a “mi sembra utile”, non basta.
 
 ## Come tagliare quando restano 30, 15 o 7 giorni
 
@@ -344,9 +356,9 @@ priorità:
 - rinviare approfondimenti non collegati alla prova;
 - preparare routine di prova, documenti e gestione del tempo.
 
-In questa fase la domanda non è "che cosa manca?".
+In questa fase la domanda non è “che cosa manca?”.
 
-La domanda è "che cosa può ancora migliorare il mio punteggio?".
+La domanda è “che cosa può ancora migliorare il mio punteggio?”.
 
 ### Se restano 7 giorni
 
@@ -403,6 +415,8 @@ Il criterio è la prova.
 
 ![Schema decisionale per mantenere, rinviare o interrompere un approfondimento](../assets/chapter-36/07-scheda-decisione-taglio.png)
 
+*Figura 36.7 - Schema decisionale per mantenere, rinviare o interrompere un approfondimento.*
+
 Usa questa scheda ogni volta che senti di non riuscire a fare tutto.
 
 | Campo | Compilazione |
@@ -418,7 +432,7 @@ Usa questa scheda ogni volta che senti di non riuscire a fare tutto.
 | Nucleo da salvare | |
 | Prossima verifica | data e tipo di prova |
 
-La colonna più importante è "nucleo da salvare".
+La colonna più importante è “nucleo da salvare”.
 
 Anche quando tagli, devi sapere che cosa resta.
 
@@ -430,7 +444,7 @@ Con il nucleo, diventa priorità.
 
 1. Tagliare non significa ignorare il bando: significa ridurre rumore, materiali e profondità non proporzionata.
 2. Le decisioni di taglio devono nascere da bando, prova, simulazioni, Diario degli errori e tempo residuo.
-3. Prima si tagliano materiali duplicati e letture passive; poi si riduce l'approfondimento; solo alla fine si rinvia un contenuto.
+3. Prima si tagliano materiali duplicati e letture passive; poi si riduce l’approfondimento; solo alla fine si rinvia un contenuto.
 4. Il nucleo minimo deve restare collegato a un output: quiz, risposta, orale, caso o simulazione.
 5. Un taglio non scritto nel piano tende a diventare confusione; un taglio tracciato diventa controllo.
 
@@ -455,7 +469,7 @@ Con il Metodo BANDO fa invece una decisione di taglio.
 5. Programma tre micro-simulazioni: quiz misti, risposta orale breve, correzione errori.
 6. Registra nel diario quali errori devono sparire entro una settimana.
 
-sarà non ha studiato "meno".
+sarà non ha studiato “meno”.
 
 Ha smesso di disperdere.
 
@@ -475,7 +489,7 @@ Risposta guidata: no. Una materia debole può essere proprio quella che fa perde
 
 ## Errore tipico
 
-Il candidato confonde "tagliare" con "fare ciò che mi tranquillizza".
+Il candidato confonde “tagliare” con “fare ciò che mi tranquillizza”.
 
 Ripassa ciò che sa già, perché lo fa sentire produttivo, e rinvia ciò che lo mette in difficoltà. In questo modo protegge il comfort, non il punteggio.
 
@@ -518,7 +532,7 @@ Prima di considerare valido un taglio, controlla:
 - ho scritto la decisione nel piano?
 - so quando rivedro questa decisione?
 
-Se rispondi "no" a più di due domande, non tagliare ancora.
+Se rispondi “no” a più di due domande, non tagliare ancora.
 
 Riduci il materiale, chiarisci il nucleo e poi decidi.
 
@@ -540,10 +554,3 @@ Riduci il materiale, chiarisci il nucleo e poi decidi.
 - [[topics/scelta-materiali-studio-concorsi]]
 - [[topics/simulazioni-concorsuali]]
 - [[topics/schede-operative-studio]]
-
-## Note di review
-
-- Capitolo pronto come revised draft, da coordinare in revisione finale con Capitolo 22, Capitolo 29, Capitolo 33, Capitolo 34 e Capitolo 35.
-- Il capitolo non introduce nuove indicazioni normative; usa conoscenza metodologica già consolidata nel wiki.
-- In impaginazione valutare una pagina strumento con "Scheda decisione di taglio" e una infografica pre-epilogativa con triage, semaforo e output.
-- Nei casi reali, ogni taglio deve sempre essere verificato contro bando, avvisi e istruzioni ufficiali della procedura specifica.

@@ -9,6 +9,7 @@ export interface PageAuditOptions {
   expectedPageCount: number
   contactSheetSize: number
   reportMode: "write" | "verify"
+  skipPageScreenshots: boolean
   explicitScreenshotPages: number[]
 }
 
@@ -31,6 +32,7 @@ export interface TableDiagnostic {
   continued: boolean
   hasHeader: boolean
   contained: boolean
+  firstOnPage?: boolean
 }
 
 export interface ImageDiagnostic {
@@ -70,6 +72,7 @@ export interface PageDiagnostic {
   consecutiveImages: boolean
   detachedBlocks: string[]
   nextPageStartsWithProtectedHeading: boolean
+  nextFirstBlockHeight?: number
   isFrontMatterContinuation: boolean
   isSectionTerminal: boolean
 }

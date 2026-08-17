@@ -60,6 +60,7 @@ function bookStudioData(chapters: BookStudioChapter[]): BookStudioData {
   return {
     bookId: "volumi/vol-02",
     title: "VOL-02",
+    footerTitle: "VOL-02",
     updatedAt: "2026-07-21T00:00:00.000Z",
     summary: {
       chapters: chapters.length,

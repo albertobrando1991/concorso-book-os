@@ -2,20 +2,20 @@
 id: chapter-m-fl02-regioni-province-citta-metropolitane-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale - M-FL02 Regioni, Province e Citta Metropolitane"
-status: revised_draft
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-locali","metodo bando"]
 entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/costituzione-repubblica-italiana-testo-vigente.md","sources/legge-5-giugno-2003-n-131-attuazione-titolo-v.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md","sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md","sources/legge-56-2014-province-citta-metropolitane.md","sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md","sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md","sources/decreto-legge-10-ottobre-2012-n-174-controlli-enti-territoriali.md","sources/corte-conti-controlli-responsabilita-agenti-contabili.md","sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md","sources/legge-7-gennaio-2026-n-1-corte-dei-conti-e-responsabilita-erariale.md","sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica.md","sources/servizi-pubblici-locali-d-lgs-201-2022.md","sources/air-vir-qualita-regolazione-dpcm-169-2017.md","sources/regole-suggerimenti-redazione-testi-normativi-regioni-2024.md","sources/politiche-coesione-2021-2027-programmi-regionali.md","sources/pnrr-regis-dnsh-monitoraggio-territoriale.md","sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane","il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-20T12:45:00+02:00
+updated_at: 2026-08-07T16:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-fl02"]
 book_id: m-fl02-regioni-province-citta-metropolitane
-draft_stage: professional-draft-started
+draft_stage: text-frozen
 module_code: M-FL02
 module_family: funzioni-locali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/index.md","wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md","wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md"]

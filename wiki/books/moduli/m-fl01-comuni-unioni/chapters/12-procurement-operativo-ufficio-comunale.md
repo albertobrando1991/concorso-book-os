@@ -1,643 +1,436 @@
 ---
 id: chapter-m-fl01-12-procurement-operativo-ufficio-comunale
 type: book_chapter
-title: "Procurement operativo dell'ufficio comunale"
+title: "Procurement operativo dell’ufficio comunale"
 status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["enti locali", "contratti pubblici", "procurement", "affidamenti", "ufficio comunale", "rup", "cig", "mepa", "consip", "bdncp", "fvoe", "tracciabilita", "contabilita pubblica", "metodo bando"]
 entities: ["Comune", "ANAC", "Codice dei contratti pubblici", "RUP", "Stazione appaltante", "Operatore economico", "Consip", "MEPA", "Responsabile finanziario", "Metodo BANDO"]
 source_refs: ["sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md", "sources/d-lgs-31-dicembre-2024-n-209-correttivo-codice-contratti-pubblici.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md"]
 book_refs: ["m-fl01-comuni-unioni", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
-confidence: 0.87
-updated_at: 2026-07-18T19:46:37+02:00
+confidence: 0.9
+updated_at: 2026-08-05T00:00:00+02:00
 created_at: 2026-07-17T16:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fl01", "professional-draft", "procurement-comunale"]
+tags: ["book-chapter", "module-code-m-fl01", "format-version-2", "procurement-comunale"]
 book_id: m-fl01-comuni-unioni
 outline_section: 12
 volume_chapter: 15
-draft_stage: professional-draft
+draft_stage: written
+format_version: 2
+dati_operativi: []
 module_code: M-FL01
 module_family: funzioni-locali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md", "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "wiki/sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "wiki/sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md", "wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "wiki/topics/contratti-pubblici.md", "wiki/entities/codice-dei-contratti-pubblici.md"]
+last_compiled_from: ["wiki/books/moduli/m-fl01-comuni-unioni/index.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/00-piano-editoriale.md", "wiki/books/moduli/m-fl01-comuni-unioni/planning/02-matrice-copertura-didattica.md", "wiki/books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md", "wiki/books/vol-02-enti-locali-polizia-locale/planning/00-piano-editoriale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md", "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md", "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md", "wiki/sources/procedure-affidamento-gare-appalti-concessioni-soglie.md", "wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md", "wiki/sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md", "wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md", "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "wiki/topics/contratti-pubblici.md", "wiki/entities/codice-dei-contratti-pubblici.md", "wiki/entities/anac.md", "wiki/entities/responsabile-finanziario.md"]
 ---
 
-# Procurement operativo dell'ufficio comunale
+# Procurement operativo dell’ufficio comunale
 
-## Specifica struttura madre
+## Obiettivo del capitolo
 
-### Obiettivo
-Fornire il livello minimo di procurement comunale utile a un profilo amministrativo o contabile, con rinvio al modulo specialistico sugli appalti per soglie, procedure complesse, lavori pubblici, PNRR e contenzioso.
+Un acquisto comunale parte da un bisogno pubblico. Si chiude soltanto dopo il controllo della prestazione, il pagamento, la pubblicazione e l’archiviazione. Nel mezzo ci sono programmazione, copertura finanziaria, responsabilità, scelta dello strumento, tracciabilità e gestione digitale.
 
-### Nuclei
-- Fabbisogno, programmazione e decisione di acquisire.
-- RUP, stazione appaltante, operatore economico e responsabile di servizio.
-- Determina a contrarre o atto equivalente secondo il caso.
-- CIG, piattaforme, tracciabilità, controlli e fascicolo.
-- Esecuzione, liquidazione e collegamento con la contabilità.
+Al termine del capitolo saprai ricostruire questo ciclo e applicarlo a un affidamento ordinario di beni o servizi. Saprai distinguere il RUP dal responsabile del servizio e dal responsabile finanziario, impostare la decisione di contrarre, spiegare perché l’affidamento diretto non consente scelte arbitrarie e collocare CIG, BDNCP, PCP, FVOE e piattaforme certificate nella fase corretta. Saprai anche distinguere Consip, Acquisti in Rete e MEPA, controllare l’esecuzione e collegare la liquidazione alla prestazione realmente resa.
 
-### Output operativo
-Check-list affidamento comunale, caso su acquisto di servizio, tabella fase-documento-responsabile-controllo.
+Il perimetro è quello di un profilo amministrativo o contabile comunale. Le procedure complesse, il contenzioso, la qualificazione avanzata, il subappalto, il PNRR e la gestione tecnica dei lavori richiedono uno studio specialistico. Qui interessa la logica che permette di affrontare una traccia pratica senza saltare passaggi essenziali.
 
-### Riferimenti consolidati
-- [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]]
-- [[sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico]]
-- [[sources/procedure-affidamento-gare-appalti-concessioni-soglie]]
-- [[sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp]]
-- [[sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione]]
-- [[sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici]]
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
-- [[topics/contratti-pubblici]]
-- [[entities/codice-dei-contratti-pubblici]]
+## Mappa BANDO
 
-## Scheda di lavoro
-Il capitolo resta operativo e non duplica VOL-09. La domanda da risolvere è:
-
-> che cosa deve saper fare un ufficio comunale quando acquista beni, servizi o lavori di importo ordinario?
-
-La risposta non è "fare una gara" e non è nemmeno "prendere un CIG". La risposta corretta è: trasformare un fabbisogno pubblico in un contratto tracciato, finanziato, motivato, digitale, eseguito, liquidato, pagato e controllabile.
-
-## Testo editoriale
-
-### Apertura editoriale
-In un Comune il procurement non è una materia remota da ufficio gare. È una parte quotidiana dell'amministrazione.
-
-Un servizio sociale deve acquistare un intervento educativo. L'ufficio protocollo deve rinnovare un software. La biblioteca deve acquisire una fornitura. Il settore lavori pubblici chiede supporto amministrativo per un affidamento. La scuola comunale segnala un servizio da attivare. Il responsabile finanziario deve controllare copertura, impegno, fattura e pagamento. La segreteria deve pubblicare correttamente i dati. Il RUP deve presidiare il ciclo.
-
-Nei concorsi comunali il candidato non deve diventare uno specialista degli appalti. Quello è il compito del volume dedicato a contratti pubblici, PNRR e procurement avanzato. Deve però saper leggere una traccia pratica e non commettere errori di base.
-
-L'errore tipico è pensare che l'acquisto pubblico inizi dal fornitore.
-
-No.
-
-L'acquisto pubblico inizia dal fabbisogno dell'ente.
-
-Prima si chiarisce che cosa serve, per quale finalità, con quali risorse, con quale ufficio responsabile, con quale strumento e con quali controlli. Solo dopo si arriva all'operatore economico, alla piattaforma, al CIG, alla stipula, alla fattura e al pagamento.
-
-La regola guida del capitolo è:
-
-> ogni acquisto comunale deve avere fabbisogno, copertura, responsabile, atto, procedura, CIG quando previsto, tracciabilità, esecuzione verificata, liquidazione corretta, pubblicazione e fascicolo.
-
-Se manca uno di questi passaggi, la risposta è debole. Se li colleghi, invece, riesci a gestire quasi ogni caso base.
-
-### Obiettivo del capitolo
-Al termine del capitolo devi saper fare dieci operazioni:
-
-1. spiegare il procurement come ciclo, non come singolo atto;
-2. distinguere fabbisogno, programmazione, scelta dello strumento e affidamento;
-3. individuare stazione appaltante, RUP, responsabile del servizio, responsabile finanziario e operatore economico;
-4. costruire la logica di una determina a contrarre o di un atto equivalente;
-5. spiegare perché l'affidamento diretto non è scelta arbitraria;
-6. collocare CIG, piattaforme digitali, BDNCP, PCP e FVOE nel ciclo del contratto;
-7. distinguere MEPA, Consip, convenzioni, accordi quadro e sistemi dinamici a livello essenziale;
-8. collegare tracciabilità, trasparenza e Amministrazione trasparente;
-9. passare dall'esecuzione alla verifica, alla liquidazione e al pagamento;
-10. risolvere un caso guidato di affidamento comunale ordinario.
-
-La formula da ricordare è:
-
-> il procurement comunale non serve a comprare più in fretta; serve a comprare in modo utile, legittimo, tracciato, controllabile e coerente con il bilancio.
-
-### Come usare questo capitolo
-Usa una griglia fissa.
-
-| Domanda | Perché serve | Output |
+| Passaggio | Domanda da porsi | Output utile nella prova |
 | --- | --- | --- |
-| Che cosa serve all'ente? | Individua il fabbisogno. | Descrizione dell'oggetto. |
-| Dove sta nel programma o nella gestione? | Collega DUP, bilancio, PEG e fabbisogni. | Coerenza amministrativa e finanziaria. |
-| Chi segue il progetto? | Individua RUP e ufficio competente. | Responsabilità tracciata. |
-| Quale strumento uso? | Separa economato, MEPA, convenzione, affidamento, gara. | Scelta motivata. |
-| Quale atto serve? | Distingue determina, decisione a contrarre, affidamento, impegno. | Fascicolo corretto. |
-| Come traccio il contratto? | Collega CIG, piattaforma, BDNCP, FVOE, pagamenti. | Legalità digitale. |
-| Che cosa controllo in esecuzione? | Evita pagamento automatico. | Verifica prestazione. |
-| Come pago e pubblico? | Collega liquidazione, mandato, trasparenza. | Chiusura contabile e pubblica. |
+| B — Bando | Il programma cita contratti, affidamenti, RUP, CIG, MEPA o appalti? | Attiva il blocco procurement. |
+| A — Aree | Quali discipline si incontrano? | Codice dei contratti, TUEL, contabilità, digitale, trasparenza. |
+| N — Nuclei | In quale fase si trova il caso? | Fabbisogno, atto, affidamento, esecuzione o pagamento. |
+| D — Diario | Quale errore rischio? | Fornitore scelto prima dell’istruttoria, economato improprio, pagamento senza verifica. |
+| O — Output | Che cosa devo produrre? | Decisione motivata, checklist, tabella dei controlli o soluzione del caso. |
 
-Questa griglia vale più della memorizzazione di soglie isolate. Le soglie cambiano, i principi e il ciclo restano.
+La griglia più affidabile contiene otto domande: che cosa serve; perché serve; chi è competente; quale copertura esiste; quale atto occorre; come si sceglie l’operatore; come si controlla l’esecuzione; come si chiude e si rende verificabile il fascicolo. Se una risposta ne dimentica una, di solito manca anche un pezzo del procedimento.
 
-### Mappa BANDO del capitolo
+## N-FL01-12-01 · Ciclo del procurement, principi, fabbisogno e programmazione
 
-| Fase | Domanda operativa | Output atteso |
+Il procurement è l’insieme delle attività con cui un’amministrazione acquisisce lavori, servizi e forniture per soddisfare un interesse pubblico. La parola non indica soltanto la gara. Comprende la fase che precede l’affidamento, la scelta dell’operatore e tutto ciò che accade dopo la stipula. Per un Comune, il ciclo parte dal servizio da garantire e arriva al risultato verificato.
+
+Il D.Lgs. 36/2023, nel testo vigente, apre il sistema con i principi del risultato, della fiducia e dell’accesso al mercato. Il risultato orienta l’attività verso l’interesse pubblico, ma deve essere perseguito nel rispetto di legalità, trasparenza e concorrenza. La fiducia valorizza l’iniziativa responsabile di funzionari e operatori; non cancella motivazione e controlli. L’accesso al mercato impone imparzialità, non discriminazione, pubblicità e proporzionalità. I tre principi vanno letti insieme. Nessuno autorizza a scegliere prima il fornitore e sistemare gli atti dopo.
+
+Il fabbisogno è il problema concreto che l’ente deve risolvere. Dire “serve un software” non basta. L’ufficio deve chiarire la funzione interessata, gli utenti, la durata, le prestazioni attese, l’eventuale continuità con servizi esistenti, i requisiti di sicurezza o interoperabilità e il risultato verificabile. Una descrizione vaga produce offerte non confrontabili e rende difficile contestare un’esecuzione insufficiente.
+
+Il bisogno va poi collocato nella programmazione dell’ente. DUP, bilancio e PEG esprimono priorità, risorse, obiettivi e responsabilità gestionali. A questi strumenti si affianca la programmazione specifica prevista dal Codice quando ne ricorrono i presupposti. Un’esigenza prevedibile non può essere trattata come un’emergenza organizzativa: un servizio annuale ricorrente richiede una preparazione diversa da una riparazione realmente imprevedibile.
+
+La stima del valore serve a scegliere il regime applicabile e deve riferirsi al fabbisogno complessivo. Suddividere artificiosamente prestazioni omogenee per farle apparire più piccole altera questa valutazione. La prudenza non consiste nel memorizzare una soglia destinata a cambiare, ma nel comprendere che oggetto, durata, opzioni e ripetitività incidono sulla corretta impostazione dell’acquisto.
+
+Prima di procedere occorre anche verificare la copertura finanziaria. Il bisogno amministrativo non genera da solo la disponibilità delle risorse. L’ufficio individua lo stanziamento, l’esercizio o gli esercizi interessati e gli effetti sull’impegno. Se manca copertura, non si può trasformare una richiesta interna in un’obbligazione valida soltanto perché il servizio è utile.
+
+Il confine con l’economato si legge sulla natura dell’esigenza e sul regolamento comunale. La cassa economale può gestire spese minute ammesse, documentate e contenute nei limiti interni. Non è una via laterale per un servizio ricorrente o un acquisto programmabile. L’urgenza, da sola, non muta un fabbisogno ordinario in spesa economale.
+
+| Passaggio | Domanda di controllo | Rischio evitato |
 | --- | --- | --- |
-| B - Bando | Il programma richiama contratti pubblici, affidamenti, appalti, MEPA, CIG, ANAC, RUP o acquisti? | Attiva il blocco procurement comunale. |
-| A - Aree | La traccia è amministrativa, contabile, digitale, patrimoniale o tecnica? | Collega Codice contratti, TUEL, contabilità, trasparenza e PA digitale. |
-| N - Nuclei | Quale fase del ciclo è in gioco? | Fabbisogno, determina, affidamento, CIG, esecuzione, liquidazione, pagamento. |
-| D - Diario | Quale errore rischio? | Scelta arbitraria, CIG a valle, economato improprio, pagamento senza verifica. |
-| O - Output | Che cosa devo produrre? | Check-list affidamento, tabella fase-documento-responsabile, caso guidato. |
+| Fabbisogno | Quale risultato pubblico occorre ottenere? | Acquisto inutile o oggetto vago. |
+| Aggregazione | Il bisogno è unitario, ricorrente o frazionato? | Frazionamento artificioso. |
+| Programmazione | Era prevedibile e coerente con gli strumenti dell’ente? | Urgenza creata dall’ufficio. |
+| Copertura | Esistono risorse e corretta imputazione? | Obbligazione senza sostegno contabile. |
+| Misurabilità | Come si verificherà la prestazione? | Pagamento senza controllo sostanziale. |
 
-La domanda di prova raramente chiede "reciti il Codice dei contratti". Più spesso chiede di applicarlo:
+### Applicazione al profilo
 
-- predisporre una determina;
-- spiegare un affidamento diretto;
-- distinguere MEPA e convenzione;
-- indicare chi è il RUP;
-- collegare CIG, tracciabilità e pagamento;
-- verificare la prestazione prima della liquidazione;
-- pubblicare correttamente i dati.
+Il responsabile di una biblioteca chiede un servizio annuale di gestione del catalogo. La prima attività non è cercare tre nomi su internet. L’ufficio descrive le funzioni necessarie, verifica se un contratto esistente le comprende, stima l’intero periodo, controlla la programmazione e individua le risorse. Solo dopo sceglie lo strumento e avvia l’affidamento. In una prova, questa sequenza dimostra che il candidato sa amministrare il bisogno e non soltanto compilare un atto.
 
-### Dal capitolo 11 al capitolo 12: il confine con l'economato
-Nel capitolo 11 abbiamo visto entrate, patrimonio, economato e agenti contabili. L'economato è utile per spese minute, urgenti o ricorrenti di modesto importo, nei limiti del regolamento comunale.
+Lo stesso metodo permette di distinguere un’urgenza reale da un ritardo interno. Se un guasto imprevedibile interrompe un servizio essenziale, l’ufficio documenta l’evento, gli effetti e le ragioni dei tempi ridotti. Se invece un contratto noto da mesi scade senza che nessuno abbia preparato il successivo affidamento, la vicinanza della scadenza non cancella la programmabilità. La distinzione ha conseguenze pratiche: cambia la motivazione, ma non elimina competenza, copertura, tracciabilità e controllo del risultato.
 
-Il procurement ordinario inizia quando la spesa non può essere trattata come spesa economale.
+## N-FL01-12-02 · Soggetti, RUP e responsabilità nel Comune
 
-| Situazione | Lettura corretta |
-| --- | --- |
-| Toner acquistato urgentemente nei limiti del regolamento economale. | Possibile spesa economale, con giustificativo e rendiconto. |
-| Servizio annuale di manutenzione stampanti. | Acquisto programmabile: serve procedura di affidamento. |
-| Piccola riparazione occasionale ammessa dal regolamento. | Possibile gestione semplificata secondo regole interne. |
-| Servizio continuativo mascherato da tante piccole spese. | Rischio di frazionamento artificioso e aggiramento delle regole. |
+Il Comune che affida un contratto opera come stazione appaltante. L’impresa o il professionista che offre o esegue la prestazione è l’operatore economico. Fra questi due poli agiscono persone e uffici con compiti distinti. Parlare genericamente del “responsabile” impedisce di capire chi decide, chi coordina e chi controlla.
 
-La distinzione è importante perché un Comune non può usare l'economato come via laterale per evitare programmazione, affidamento, CIG, tracciabilità o controlli.
+Nel Codice del 2023 il RUP è il responsabile unico del progetto. Presidia il progetto contrattuale nelle fasi previste dalla disciplina e coordina attività che devono restare coerenti dall’avvio all’esecuzione. Non è un firmatario simbolico e non coincide automaticamente con il responsabile del procedimento amministrativo inteso in senso generico. La nomina, i requisiti e i compiti si leggono alla luce dell’articolo 15 del Codice, dell’Allegato I.2 e dell’organizzazione dell’ente.
 
-Formula da concorso:
+Il responsabile del servizio cura il bisogno del settore, l’istruttoria e gli atti gestionali di propria competenza. Può coincidere con il RUP quando l’organizzazione e la disciplina lo consentono, ma le funzioni vanno comunque descritte separatamente. Chi firma la determinazione assume la responsabilità dell’atto; chi presidia il progetto deve assicurare la coerenza del ciclo; chi verifica l’esecuzione deve disporre delle competenze necessarie per accertare la prestazione.
 
-> l'economato gestisce spese minute nei limiti regolamentari; il procurement gestisce acquisizioni di beni, servizi e lavori secondo il Codice dei contratti, con atto, copertura, procedura, tracciabilità ed esecuzione controllata.
+Il responsabile finanziario interviene sui profili contabili. Verifica la regolarità e la copertura nei modi previsti dal TUEL, controlla l’imputazione e presidia gli effetti della spesa sugli equilibri. Non sceglie il fornitore al posto del servizio e non certifica la qualità tecnica della prestazione. Allo stesso modo, il RUP non sostituisce il controllo contabile del servizio finanziario.
 
-### Procurement nel Comune: il ciclo minimo
-Il ciclo minimo dell'acquisto comunale può essere rappresentato così:
+L’operatore economico presenta l’offerta o accetta le condizioni dell’affidamento, dimostra i requisiti richiesti ed esegue il contratto. Non è un collaboratore informale dell’ufficio: opera all’interno di un rapporto regolato da atti, condizioni, termini e controlli. Prima della stipula o dell’efficacia degli atti, la stazione appaltante svolge le verifiche richieste dal regime applicabile.
 
-1. nasce un fabbisogno;
-2. l'ufficio verifica se il bisogno è programmato o programmabile;
-3. si controlla la copertura finanziaria;
-4. si definisce l'oggetto della prestazione;
-5. si individua il RUP e l'eventuale responsabile di fase;
-6. si sceglie lo strumento di acquisto o la procedura;
-7. si adotta la decisione a contrarre, la determina a contrarre o l'atto equivalente;
-8. si acquisisce il CIG secondo le regole della digitalizzazione;
-9. si seleziona l'operatore economico secondo il regime applicabile;
-10. si perfeziona il rapporto contrattuale;
-11. si controlla l'esecuzione;
-12. si verifica la prestazione;
-13. si liquida la fattura;
-14. si ordina e si esegue il pagamento;
-15. si conservano atti, dati e pubblicazioni nel fascicolo.
+Per esigenze che superano la capacità organizzativa del singolo ente possono intervenire centrali di committenza, soggetti aggregatori o forme associate. Queste strutture professionalizzano e aggregano gli acquisti. Il ricorso a esse non elimina il compito del Comune di definire il bisogno, assicurare la copertura e seguire gli adempimenti che restano di propria competenza.
 
-Il punto centrale è che affidamento ed esecuzione non sono mondi separati.
+Nella fase esecutiva può assumere rilievo il direttore dell’esecuzione del contratto. La sua presenza e il rapporto con il RUP dipendono dal contratto e dalle regole applicabili. Coordinare il progetto e controllare in dettaglio l’esecuzione possono richiedere funzioni distinte. Nei lavori pubblici intervengono anche ruoli tecnici specifici, sviluppati nel capitolo dedicato all’interfaccia con l’ufficio tecnico.
 
-Se l'ufficio sceglie male l'oggetto, avrà problemi in esecuzione. Se non verifica la copertura, avrà problemi contabili. Se non gestisce la piattaforma, avrà problemi di CIG, dati e trasparenza. Se non controlla la prestazione, paghera male. Se non archivia, non riuscira a difendersi in caso di controllo.
+| Soggetto | Funzione prevalente | Domanda utile |
+| --- | --- | --- |
+| Comune/stazione appaltante | Decide e gestisce l’acquisizione. | L’ente può svolgere direttamente questa procedura? |
+| RUP | Presidia e coordina il progetto contrattuale. | Il ciclo resta coerente in tutte le fasi? |
+| Responsabile del servizio | Cura bisogno, istruttoria, atto e risultato del settore. | La prestazione risponde all’esigenza dell’ufficio? |
+| Responsabile finanziario | Presidia regolarità contabile, copertura ed effetti finanziari. | La spesa è correttamente finanziata e imputata? |
+| Operatore economico | Offre ed esegue la prestazione. | Possiede i requisiti e rispetta le condizioni? |
+| Centrale di committenza | Gestisce o supporta acquisti aggregati. | Quali attività restano al Comune? |
 
-Una buona risposta orale può iniziare così:
+### Applicazione al profilo
 
-> Nel Comune l'acquisto pubblico va letto come ciclo: fabbisogno, programmazione, copertura, RUP, decisione a contrarre, procedura o strumento di acquisto, CIG e piattaforma digitale, affidamento, esecuzione, verifica, liquidazione, pagamento, trasparenza e fascicolo.
+Un piccolo Comune deve rinnovare la manutenzione del software di protocollo. Il responsabile del servizio digitale descrive il bisogno e può essere nominato RUP se possiede i requisiti e l’organizzazione lo prevede. Il responsabile finanziario controlla stanziamento e copertura. L’operatore esegue l’assistenza, mentre l’ufficio verifica ticket, tempi di risposta e continuità. Se la stessa persona cumula più funzioni ammesse, il fascicolo deve comunque mostrare quale controllo ha svolto in ciascuna veste.
 
-### Fabbisogno, programmazione e decisione di acquisire
-Il fabbisogno è la ragione dell'acquisto.
+In una traccia sulla distribuzione delle competenze conviene procedere per funzione. Prima si individua chi rappresenta il bisogno e adotta l’atto gestionale; poi chi coordina il progetto, chi controlla gli effetti finanziari e chi verifica la prestazione. Questo ordine evita di dedurre le responsabilità dal solo nome dell’ufficio. Una struttura piccola può concentrare incarichi, mentre una struttura complessa può separarli: il criterio resta la corretta attribuzione delle attività e la loro documentazione.
 
-Non basta dire: "serve un servizio". Occorre specificare:
+## N-FL01-12-03 · Oggetto, istruttoria e decisione di contrarre
 
-- quale servizio o bene serve;
-- a quale ufficio o funzione pubblica serve;
-- se il bisogno è occasionale o ricorrente;
-- se è urgente o programmabile;
-- se incide su un solo esercizio o su più esercizi;
-- se è collegato a un progetto, a un finanziamento, a un investimento o a un servizio essenziale;
-- se esiste già una convenzione, un contratto attivo o una soluzione interna;
-- se ci sono vincoli di bilancio, tecnici, privacy, sicurezza, interoperabilità o sostenibilità.
+La decisione di contrarre traduce il fabbisogno in una scelta amministrativa controllabile. È la formula usata dall’articolo 17 del D.Lgs. 36/2023. Nel linguaggio degli enti locali si incontra ancora spesso l’espressione “determina a contrarre”, perché l’atto assume normalmente la forma della determinazione del responsabile competente. All’esame conviene distinguere il contenuto giuridico, la decisione di contrarre, dal veicolo amministrativo con cui il Comune lo formalizza.
 
-Nel Comune questa verifica si collega a DUP, bilancio e PEG. Il DUP e il bilancio esprimono priorità e risorse; il PEG assegna obiettivi e dotazioni ai responsabili. L'acquisto deve entrare in questa catena.
+L’istruttoria parte dall’oggetto. Per una fornitura si descrivono quantità, caratteristiche e condizioni di consegna. Per un servizio si precisano attività, durata, livelli attesi, responsabilità, modalità di verifica e gestione delle anomalie. Per un lavoro occorrono elementi tecnici ulteriori. L’oggetto deve essere sufficientemente chiaro da consentire all’operatore di formulare un impegno comprensibile e all’ente di stabilire se la prestazione è conforme.
 
-Per acquisizioni rilevanti o ricorrenti possono operare obblighi di programmazione specifica. In un capitolo base non serve memorizzare ogni soglia o allegato. Serve ricordare il principio:
+La stima del valore non coincide sempre con la somma che verrà pagata nella prima annualità. Durata, rinnovi, opzioni e prestazioni omogenee possono incidere sulla valutazione. Il candidato non deve improvvisare formule numeriche, ma deve dichiarare che il valore viene stimato secondo il Codice e sul fabbisogno complessivo. Questa precisazione rende coerente la scelta della procedura e previene il frazionamento.
 
-> un fabbisogno prevedibile non si gestisce come emergenza; si programma.
+La decisione di contrarre indica gli elementi essenziali del contratto e i criteri di selezione dell’operatore e delle offerte. Nel caso di affidamento diretto, l’atto individua l’oggetto, l’importo, il contraente, le ragioni della scelta e il possesso dei requisiti richiesti. A questi contenuti si aggiungono gli elementi necessari nel Comune: competenza del responsabile, copertura, imputazione, CIG nei casi previsti, strumento digitale utilizzato, condizioni di esecuzione, tracciabilità, pubblicazione e conservazione.
 
-La programmazione protegge l'ente da tre rischi:
+La decisione deve precedere la scelta sostanziale. Un atto scritto dopo aver ordinato il servizio non sana automaticamente la mancanza di istruttoria. La motivazione serve a mostrare il rapporto fra bisogno, operatore, prezzo, condizioni e risultato. Più il caso presenta elementi particolari, come continuità tecnica, urgenza o presenza di un fornitore uscente, più l’istruttoria deve rendere comprensibile la scelta.
 
-1. acquistare ciò che non serve davvero;
-2. frazionare artificiosamente il bisogno;
-3. arrivare in ritardo e trasformare l'urgenza organizzativa in cattiva procedura.
+Nei casi semplificati decisione di contrarre e affidamento possono essere riuniti nello stesso provvedimento. La concentrazione riduce il numero degli atti, non i contenuti necessari. È quindi sbagliato pensare che un unico documento consenta di omettere oggetto, motivazione, copertura o verifiche.
 
-### RUP, responsabile del servizio e responsabile finanziario
-Nel Codice dei contratti 2023 il RUP è il responsabile unico del progetto. Questa formula va usata con precisione.
+L’atto amministrativo e la registrazione contabile sono collegati ma non identici. La decisione definisce l’acquisto; l’impegno registra l’obbligazione e i suoi elementi secondo la disciplina finanziaria. Una determinazione può contenere entrambi, purché l’istruttoria sia completa e la spesa sia correttamente imputata. Se il contratto interessa più esercizi, l’ufficio deve rappresentare durata ed effetti contabili senza appiattirli sulla prima fattura.
 
-Non è un semplice "responsabile del procedimento" in senso generico. È la figura che presidia il progetto contrattuale nelle fasi rilevanti, secondo la disciplina applicabile.
+| Blocco dell’atto | Contenuto essenziale | Errore frequente |
+| --- | --- | --- |
+| Perché | Fabbisogno e interesse pubblico. | Motivazione generica. |
+| Che cosa | Oggetto, durata, condizioni e valore. | Prestazione non verificabile. |
+| Chi | Competenza, RUP e operatore o criteri di scelta. | Ruoli non indicati. |
+| Come | Procedura o strumento e ragioni. | Strumento confuso con procedura. |
+| Con quali risorse | Stanziamento, imputazione e impegno. | Copertura solo presunta. |
+| Come si controlla | Requisiti, esecuzione, tracciabilità e pubblicazione. | Fascicolo che si ferma all’affidamento. |
 
-Nel Comune bisogna però distinguere i ruoli.
+### Applicazione al profilo
 
-| Soggetto | Funzione nel caso ordinario |
-| --- | --- |
-| Stazione appaltante | Il Comune o il soggetto che affida il contratto. |
-| Responsabile del servizio | Cura il bisogno dell'ufficio, l'istruttoria, l'atto gestionale e il controllo della prestazione. |
-| RUP | Presidia il progetto contrattuale e coordina le fasi affidategli dalla disciplina e dall'organizzazione. |
-| Responsabile finanziario | Verifica effetti contabili, copertura, impegno, equilibri e pagamenti. |
-| Operatore economico | Il soggetto che offre o esegue lavori, servizi o forniture. |
-| Centrale di committenza o soggetto aggregatore | Supporta o gestisce procedure nei casi previsti o opportuni. |
+Per acquistare un servizio annuale di prenotazione degli impianti sportivi, l’ufficio descrive utenti, funzioni, assistenza, durata, tutela dei dati e livelli di servizio. Stima il valore complessivo, verifica se esistono contratti o strumenti utilizzabili, individua RUP e copertura. La determinazione espone la modalità di scelta, le ragioni, il CIG e le condizioni. Il contratto o l’ordine deve poi corrispondere a quanto deciso: un atto accurato seguito da un ordine diverso crea una frattura nel fascicolo.
 
-In piccoli Comuni alcune funzioni possono concentrarsi nella stessa persona, nei limiti della disciplina e dell'organizzazione. Questo non elimina la necessità di distinguere le funzioni nella risposta.
+Prima della firma è utile una verifica incrociata: oggetto, importo, durata, operatore, capitolo, CIG e condizioni devono coincidere fra istruttoria, provvedimento e documento contrattuale. Non è un controllo puramente formale. Se l’atto prevede assistenza per dodici mesi e l’ordine ne indica sei, cambiano valore e risultato atteso. Se il capitolo di bilancio è errato, il rapporto amministrativo e la registrazione contabile non descrivono più la stessa operazione.
 
-Esempio:
+## N-FL01-12-04 · Affidamento diretto, mercato, rotazione e requisiti
 
-> Il responsabile del servizio informatico segnala il bisogno di manutenzione software. Il RUP presidia il ciclo dell'affidamento. Il responsabile finanziario verifica copertura e impegno. L'operatore economico esegue. L'ente controlla, liquida e pubblica.
+L’affidamento diretto è una modalità di scelta semplificata prevista per i casi e nei limiti stabiliti dal Codice. Non è una gara informale in miniatura, ma non è nemmeno una scelta personale del funzionario. La stazione appaltante individua l’operatore con un’istruttoria adeguata all’oggetto e al valore, motivando il rapporto fra bisogno, affidatario, prezzo e condizioni.
 
-### Determina a contrarre e atto equivalente
-L'atto che avvia o formalizza l'acquisizione deve spiegare perché l'ente compra, che cosa compra, come compra e con quali risorse.
+L’accesso al mercato impone al Comune di evitare preferenze arbitrarie e barriere ingiustificate. L’ufficio può acquisire informazioni, consultare cataloghi, confrontare preventivi o usare altri strumenti proporzionati. Il confronto è utile quando rende l’istruttoria più solida, ma non costituisce un requisito universale identico in ogni caso e non trasforma automaticamente l’affidamento diretto in una procedura competitiva.
 
-Nelle tracce comunali si incontra spesso la determina a contrarre o la determinazione di affidamento. La forma concreta può variare secondo procedura, importo, organizzazione e disciplina vigente. Il candidato deve saper indicare i contenuti minimi.
+La rotazione mira a evitare il consolidamento ingiustificato di rapporti con il medesimo operatore e tutela l’apertura del mercato. Si applica secondo presupposti, fasce e deroghe previste dal testo vigente. Per orientare l’istruttoria occorre chiedersi se l’operatore è uscente, se il nuovo affidamento riguarda lo stesso settore o fascia e se il fascicolo spiega l’eventuale scelta. La risposta va poi verificata sulla disciplina applicabile al caso.
 
-Una determina ben impostata contiene almeno:
+Prezzo e idoneità dell’operatore richiedono una valutazione separata. Un importo basso non dimostra da solo la convenienza. L’ufficio considera coerenza con il mercato, qualità necessaria, costi accessori, durata e condizioni di esecuzione. Un preventivo economico può risultare inadeguato se non comprende assistenza, consegna o funzionalità indispensabili.
 
-- premessa sul fabbisogno;
-- riferimento alla competenza del responsabile;
-- oggetto della prestazione;
-- importo stimato o importo dell'affidamento;
-- copertura finanziaria e capitolo o stanziamento;
-- coerenza con bilancio, PEG o programma;
-- scelta della procedura o dello strumento;
-- ragioni della scelta dell'operatore quando già individuato;
-- riferimento a CIG e, se previsto, CUP;
-- indicazioni su piattaforma digitale o strumento utilizzato;
-- condizioni essenziali del contratto;
-- impegno di spesa quando l'atto produce obbligazione;
-- verifiche sui requisiti secondo il caso;
-- tracciabilità dei flussi finanziari;
-- obblighi di pubblicazione e conservazione nel fascicolo.
+L’operatore deve possedere i requisiti richiesti. Il Codice distingue requisiti di ordine generale e, quando pertinenti, requisiti di idoneità professionale e capacità. Le verifiche seguono il regime applicabile e si inseriscono nel ciclo digitale. Sarebbe errato sostenere che sotto una certa soglia non si controlla nulla; sarebbe altrettanto improprio descrivere ogni affidamento come una gara completa. L’istruttoria deve essere proporzionata, documentata e conforme alle regole vigenti.
 
-La formula da usare è:
+L’affidamento produce un rapporto che deve essere perfezionato nelle forme previste. Aggiudicazione, affidamento e stipula non sono sinonimi. Nelle procedure ordinarie l’aggiudicazione individua l’operatore dopo la valutazione; la stipula forma il vincolo contrattuale secondo la disciplina. Nell’affidamento diretto l’atto può concentrare decisione e scelta, ma resta necessario formalizzare il rapporto e le condizioni di esecuzione.
 
-> la determina a contrarre non è un modulo da riempire; è l'atto che rende controllabile la scelta pubblica.
+I principi iniziali del Codice aiutano a valutare il caso. Il risultato chiede una prestazione utile e tempestiva. La fiducia richiede iniziativa responsabile. L’accesso al mercato impedisce che semplificazione significhi chiusura. Un fascicolo è solido quando un controllore può comprendere perché quell’operatore, a quelle condizioni, era una scelta coerente con il bisogno pubblico.
 
-Per gli affidamenti più semplici, la decisione a contrarre e l'affidamento possono essere concentrati in un unico atto, se la disciplina lo consente. Ma anche in quel caso non spariscono motivazione, copertura, tracciabilità e controlli.
+| Domanda | Risposta insufficiente | Risposta professionale |
+| --- | --- | --- |
+| Perché questo operatore? | “Lo conosciamo già.” | Esperienza pertinente, condizioni, mercato e motivazione documentata. |
+| Il prezzo è congruo? | “È sotto soglia.” | Confronto o altro riscontro proporzionato su prezzo e prestazione. |
+| Si applica la rotazione? | “Negli affidamenti diretti no.” | Verifica del precedente rapporto e della disciplina vigente. |
+| I requisiti sono controllati? | “Ha presentato un preventivo.” | Dichiarazioni e verifiche previste per il caso. |
+| Il contratto è concluso? | “C’è la determina.” | Perfezionamento del rapporto nelle forme applicabili. |
 
-### Affidamento diretto non significa scelta libera
-L'affidamento diretto è una modalità semplificata ammessa nei casi e nei limiti previsti. Non è sinonimo di acquisto personale, scelta discrezionale senza controllo o premio al fornitore abituale.
+### Applicazione al profilo
 
-La frase da evitare è:
+Il Comune deve acquistare assistenza per un applicativo già in uso. Il fornitore uscente conosce il sistema, ma questa circostanza non basta. L’ufficio descrive gli elementi di continuità tecnica, verifica alternative compatibili, valuta prezzo e livelli di servizio, esamina la rotazione e motiva l’eventuale nuova scelta. Il caso non conduce automaticamente al cambio di fornitore o al rinnovo: richiede un’istruttoria capace di giustificare la decisione.
 
-> "Sotto soglia il Comune sceglie chi vuole."
+Anche la richiesta di più preventivi va letta con precisione. Può offrire un riscontro utile sul mercato, ma non sana un oggetto confuso e non trasferisce agli operatori la responsabilità della scelta. L’ufficio deve sapere che cosa confronta: prezzo complessivo, caratteristiche, tempi, assistenza e condizioni. Preventivi riferiti a prestazioni diverse non producono una graduatoria affidabile. La motivazione finale spiega quindi sia il metodo di confronto sia la coerenza dell’offerta prescelta.
 
-La risposta corretta è:
+## N-FL01-12-05 · CIG, piattaforme e ciclo digitale del contratto
 
-> L'affidamento diretto semplifica la procedura, ma resta un affidamento pubblico: occorrono fabbisogno, competenza, copertura, rispetto dei principi, motivazione adeguata, tracciabilità, verifica dell'operatore, esecuzione e controlli.
+La digitalizzazione non è un adempimento separato dal contratto. Gli articoli 19-28 del D.Lgs. 36/2023 organizzano un ecosistema in cui dati e atti accompagnano le fasi del ciclo. Dal 1° gennaio 2024 la disciplina digitale è pienamente efficace e il CIG viene acquisito, di regola, attraverso piattaforme di approvvigionamento digitale certificate interoperabili con la Banca dati nazionale dei contratti pubblici.
 
-Il Codice valorizza principi come risultato, fiducia e accesso al mercato. Questi principi non sono scorciatoie. Il risultato orienta l'amministrazione a raggiungere l'interesse pubblico; la fiducia responsabilizza funzionari e operatori; l'accesso al mercato protegge concorrenza, imparzialità e non discriminazione.
+Una PAD è la piattaforma certificata con cui la stazione appaltante gestisce le attività digitali previste. La BDNCP, amministrata da ANAC, raccoglie e rende disponibili dati del ciclo dei contratti secondo le rispettive funzioni. La Piattaforma Contratti Pubblici appartiene all’ecosistema ANAC e consente l’accesso a servizi e componenti nei casi previsti. Il FVOE, Fascicolo virtuale dell’operatore economico, supporta la verifica dei requisiti mediante documenti e dati disponibili. Sono strumenti collegati, ma non intercambiabili.
 
-In pratica, l'ufficio deve chiedersi:
+Il CIG identifica la procedura o il contratto ai fini del monitoraggio e della tracciabilità. Non è il codice del progetto di investimento pubblico: quella funzione appartiene al CUP quando ne ricorrono i presupposti. Non è neppure un’etichetta da aggiungere alla fattura dopo aver concluso l’acquisto. Va collocato nel flusso digitale previsto, insieme ai dati necessari per l’affidamento e le fasi successive.
 
-- l'oggetto è definito con chiarezza?
-- l'importo è ragionevole?
-- la scelta dell'operatore è spiegabile?
-- il mercato è stato considerato nei modi proporzionati al caso?
-- ci sono precedenti affidamenti allo stesso operatore che impongono attenzione?
-- la prestazione è eseguibile e controllabile?
-- il prezzo è coerente con il bisogno?
-- il fascicolo consente a un revisore o a un controllore di capire che cosa è successo?
+L’interoperabilità riduce la duplicazione delle comunicazioni, ma richiede qualità del dato. Oggetto, importo, soggetti, date e stato del contratto devono essere coerenti fra atto, piattaforma e fascicolo. Un errore iniziale può propagarsi nelle comunicazioni, nella trasparenza e nel pagamento. L’ufficio controlla quindi sia l’operazione eseguita sulla piattaforma sia la corrispondenza dell’informazione trasmessa con la decisione amministrativa.
 
-Il manuale base non deve trasformare questa parte in una rassegna specialistica su rotazione, soglie e allegati. Deve però fissare il principio: semplificare non significa arbitrare.
+La verifica dei requisiti non coincide con l’acquisizione del CIG. Il CIG identifica; il FVOE supporta controlli sull’operatore; la piattaforma gestisce lo scambio; la BDNCP raccoglie i dati. Nei quiz queste funzioni vengono spesso sovrapposte. La distinzione si risolve chiedendo quale problema affronta ciascuno strumento.
 
-### CIG, piattaforme e digitalizzazione
-Dal 1 gennaio 2024 la digitalizzazione è parte ordinaria del ciclo di vita dei contratti pubblici.
+Il fascicolo digitale accompagna l’intero ciclo: richiesta e istruttoria, decisione di contrarre, comunicazioni, offerta o preventivo, verifiche, contratto, esecuzione, fatture, liquidazione, pagamento e pubblicazione. Anche quando parte dei dati è disponibile nella BDNCP, l’ente deve poter ricostruire la propria attività e conservare gli atti che restano di sua competenza.
 
-Per il candidato comunale significa una cosa molto concreta: il CIG non è più un codice preso a mano alla fine per sistemare una pratica. È un elemento del ciclo digitale del contratto, gestito tramite piattaforme di approvvigionamento digitale certificate e scambio di dati con la BDNCP.
+| Elemento | Funzione | Da non confondere con |
+| --- | --- | --- |
+| PAD | Gestione digitale certificata delle fasi previste. | Un semplice archivio documentale. |
+| CIG | Identificazione e tracciabilità del contratto o della procedura. | CUP o verifica dei requisiti. |
+| BDNCP | Banca dati nazionale dei contratti pubblici. | Fascicolo interno del Comune. |
+| PCP | Componente dell’ecosistema ANAC per servizi del ciclo. | Qualunque piattaforma commerciale. |
+| FVOE | Supporto alla verifica dei requisiti dell’operatore. | CIG o contratto. |
+| Fascicolo dell’ente | Ricostruzione di istruttoria, atti, esecuzione e controlli. | Un elenco di link senza contesto. |
 
-Le parole chiave sono:
+### Applicazione al profilo
 
-| Sigla | Significato operativo |
-| --- | --- |
-| CIG | Codice identificativo della procedura o del contratto, utile per tracciabilità e monitoraggio. |
-| BDNCP | Banca dati nazionale dei contratti pubblici gestita da ANAC. |
-| PCP | Piattaforma Contratti Pubblici, collegata all'ecosistema ANAC. |
-| FVOE | Fascicolo virtuale dell'operatore economico per la verifica dei requisiti. |
-| PAD | Piattaforma di approvvigionamento digitale certificata. |
+Per l’affidamento del servizio di prenotazione, il RUP usa la piattaforma prevista, inserisce dati coerenti con la decisione di contrarre e acquisisce il CIG nel flusso digitale. L’ufficio verifica i requisiti tramite gli strumenti disponibili, perfeziona il rapporto e aggiorna le fasi. Se la fattura riporta dati incompatibili con il contratto, non basta che il CIG esista: occorre risolvere l’incongruenza prima della liquidazione.
 
-La fonte ANAC verificata al 18 luglio 2026 conferma il punto: la PCP abilita la digitalizzazione del ciclo di vita dei contratti pubblici e consente l'accesso a BDNCP, FVOE e pubblicità legale. Le FAQ ANAC sulla digitalizzazione confermano che il nuovo regime è pienamente efficace dal 1 gennaio 2024, che il CIG passa dalle piattaforme digitali certificate e che non è più previsto il rilascio di SmartCIG per nuove procedure.
+La qualità del dato richiede un presidio organizzativo. Chi inserisce le informazioni deve poter risalire all’atto e sapere quale fase sta comunicando; chi controlla il fascicolo deve riconoscere correzioni, scarti o comunicazioni incomplete. Le credenziali e le abilitazioni non coincidono con la competenza amministrativa: essere autorizzati a operare sulla piattaforma non consente di modificare oggetto o importo senza un atto coerente. Le prove pratiche sulla digitalizzazione verificano spesso proprio questo confine.
 
-Nel capitolo comunale questo dato va tradotto così:
+Se una comunicazione viene rifiutata o contiene un dato errato, l’ufficio deve correggere la causa e conservare la coerenza fra i sistemi. Creare un secondo percorso amministrativo soltanto per superare un problema tecnico produrrebbe nuove incongruenze. L’atto resta il riferimento della decisione; la piattaforma ne traduce i dati nel ciclo nazionale. Anche sostituzioni dell’operatore, variazioni ammesse e chiusure devono corrispondere a fatti documentati.
 
-> se l'ufficio imposta male il contratto sulla piattaforma, non sbaglia solo un passaggio informatico; sbaglia il ciclo amministrativo, informativo e di controllo dell'affidamento.
+## N-FL01-12-06 · Consip, MEPA, tracciabilità, trasparenza e fascicolo
 
-Non serve conoscere ogni schermata. Serve sapere che piattaforme, CIG, BDNCP, FVOE, pubblicità e trasparenza sono parte del procedimento.
+Consip, Acquisti in Rete e MEPA vengono spesso usati come sinonimi, ma indicano realtà diverse. Consip opera nell’ambito del programma di razionalizzazione degli acquisti della pubblica amministrazione realizzato dal Ministero dell’economia e delle finanze. Acquisti in Rete è il portale attraverso cui amministrazioni e imprese accedono alle iniziative. Il MEPA è uno degli strumenti di negoziazione: un mercato digitale per acquisti sotto soglia europea di beni, servizi e lavori di manutenzione da operatori abilitati, secondo le regole applicabili.
 
-### MEPA, Consip e strumenti di acquisto
-MEPA, Consip e Acquisti in Rete compaiono spesso nei bandi comunali.
+Le convenzioni mettono a disposizione condizioni già definite e consentono alle amministrazioni di aderire o emettere ordinativi secondo l’iniziativa. Gli accordi quadro stabiliscono una cornice per successivi contratti o ordini. Il sistema dinamico di acquisizione è uno strumento interamente digitale per categorie abilitate. Sul MEPA l’amministrazione può acquistare da catalogo o negoziare con modalità previste dalla piattaforma, come ordine diretto, trattativa o richiesta di offerta, secondo il caso.
 
-La distinzione minima è:
+Lo strumento non sceglie al posto dell’ufficio. Prima di usarlo, il Comune deve conoscere oggetto, valore, copertura e risultato atteso. Deve verificare se esiste un’iniziativa pertinente e se le condizioni rispondono al bisogno. Una convenzione può essere conveniente ma non adatta alla prestazione specifica; un catalogo MEPA può offrire il prodotto richiesto ma non gli accessori indispensabili. La motivazione deve collegare lo strumento alla decisione.
 
-| Strumento o soggetto | Cosa ricordare |
-| --- | --- |
-| Consip | Opera nel programma di razionalizzazione degli acquisti della PA. |
-| Acquisti in Rete | Portale attraverso cui amministrazioni e imprese accedono a strumenti di acquisto e negoziazione. |
-| MEPA | Mercato elettronico per acquisti sotto soglia di beni, servizi e lavori di manutenzione secondo regole applicabili. |
-| Convenzioni | Strumenti con condizioni già definite per acquistare beni o servizi. |
-| Accordi quadro | Definiscono condizioni generali per successivi ordini o appalti. |
-| Sistema dinamico | Strumento digitale per acquisizioni su categorie abilitate. |
-| RdO, confronto di preventivi, trattativa diretta | Modalità operative di negoziazione previste nel contesto della piattaforma. |
+L’uso del portale non sostituisce il Codice. Restano competenza, principi, scelta motivata, requisiti, CIG, tracciabilità, controllo dell’esecuzione e pubblicazione. La piattaforma documenta una parte del processo; l’ente rimane responsabile della correttezza della scelta e della qualità dei dati.
 
-Il punto da concorso non è "come si clicca sul portale". Il punto è:
+La tracciabilità dei flussi finanziari, disciplinata dalla legge 136/2010, rende riconoscibili i pagamenti collegati al contratto. CIG, strumenti di pagamento e informazioni previste devono essere coerenti. Oltre alla funzione contabile, costituisce un presidio di legalità che collega risorse, operatore e rapporto contrattuale.
 
-> il Comune deve scegliere lo strumento coerente con fabbisogno, oggetto, importo, disponibilità di iniziative attive, regole del Codice, copertura finanziaria e controlli.
+La trasparenza dei contratti si integra con la BDNCP. Per i contratti soggetti al regime digitale, i dati comunicati tramite le piattaforme confluiscono nella banca dati e l’amministrazione cura nella sezione Amministrazione trasparente il collegamento e gli ulteriori dati o documenti richiesti. Una pubblicazione indiscriminata sarebbe scorretta: gli obblighi devono convivere con esattezza, pertinenza e protezione dei dati personali.
 
-Errore frequente:
+Il fascicolo deve raccontare una storia verificabile. Un revisore deve poter capire perché si è acquistato, chi ha deciso, come è stato individuato l’operatore, quali verifiche sono state svolte, che cosa è stato consegnato, perché è stata liquidata la fattura e dove sono stati pubblicati i dati. L’ordine dei documenti e la coerenza delle informazioni valgono quanto la loro presenza.
 
-> "Se uso MEPA, il Codice non conta."
+| Strumento o presidio | Che cosa offre | Controllo dell’ufficio |
+| --- | --- | --- |
+| Convenzione | Condizioni definite in un’iniziativa centralizzata. | Pertinenza, obblighi applicabili e fabbisogno. |
+| Accordo quadro | Cornice per successivi contratti. | Regole dell’appalto specifico o dell’ordine. |
+| MEPA | Catalogo e negoziazione per categorie abilitate. | Procedura, oggetto, operatore e condizioni. |
+| SDAPA | Procedura digitale dinamica per categorie previste. | Requisiti e regole dell’iniziativa. |
+| Tracciabilità | Collegamento fra contratto e flussi finanziari. | Dati corretti e pagamenti coerenti. |
+| Trasparenza | Conoscibilità dei dati e degli atti dovuti. | BDNCP, sezione del sito e protezione dati. |
 
-Correzione:
+### Applicazione al profilo
 
-> MEPA è uno strumento digitale; non è una zona fuori dal Codice. Anche l'acquisto su piattaforma richiede competenza, atto, copertura, procedura corretta, tracciabilità, esecuzione e pubblicazione.
+L’ufficio deve acquistare sedute per la sala consiliare. Verifica prima se l’esigenza può essere soddisfatta da una convenzione o da un catalogo pertinente. Se usa il MEPA, definisce quantità, caratteristiche, consegna e montaggio, poi sceglie la modalità ammessa e motiva l’operatore. L’ordine digitale non rende superflui copertura, CIG, verifica della consegna, inventariazione quando dovuta e pubblicazione.
 
-### Tracciabilità, trasparenza e fascicolo
-Ogni affidamento comunale deve lasciare una traccia comprensibile.
+Se il catalogo mostra un prezzo unitario conveniente ma non comprende trasporto e montaggio, il confronto deve considerare il costo e il risultato complessivi. Se una convenzione impone caratteristiche incompatibili con gli spazi, l’ufficio documenta la verifica e valuta lo strumento consentito più adatto. Lo stesso criterio opera per accordi quadro e sistema dinamico: prima si comprende la struttura dell’iniziativa, poi si esegue l’ordine o l’appalto specifico previsto.
 
-La tracciabilità non riguarda solo il pagamento. Riguarda la possibilita di collegare fabbisogno, atto, operatore, CIG, conto dedicato o flussi finanziari secondo disciplina, fattura, liquidazione, mandato e pubblicazione.
+## N-FL01-12-07 · Esecuzione, verifica, liquidazione e pagamento
 
-La trasparenza non è un archivio casuale di documenti. Per i contratti avviati dal 1 gennaio 2024, le indicazioni ANAC sugli obblighi di pubblicazione collegano i dati comunicati tramite piattaforme certificate alla BDNCP e alla pubblicazione in Amministrazione trasparente del collegamento ipertestuale ai dati del ciclo di vita del contratto, ferma la pubblicazione dei dati residui non comunicati alla BDNCP secondo le delibere ANAC applicabili.
+Il contratto pubblico produce valore soltanto se viene eseguito correttamente. Una determinazione formalmente impeccabile non compensa un servizio mai controllato. La fase esecutiva traduce condizioni e livelli di prestazione in verifiche concrete: tempi, quantità, qualità, continuità, assistenza, consegna, documentazione e rispetto degli obblighi contrattuali.
 
-Per il candidato la risposta deve essere semplice:
+Il RUP continua a presidiare il progetto. Nei casi previsti intervengono il direttore dell’esecuzione o altre figure tecniche. Il responsabile del servizio conserva il compito di accertare che il risultato soddisfi il bisogno dell’ufficio. L’organizzazione può variare, ma il controllo non deve restare senza titolare.
 
-> l'ufficio conserva e rende controllabile il contratto attraverso fascicolo, piattaforma, CIG, dati BDNCP, atti di affidamento, documenti di esecuzione, liquidazione, pagamento e pubblicazioni dovute.
+La verifica deve essere costruita già nella definizione dell’oggetto. Se il contratto chiede genericamente “assistenza adeguata”, sarà difficile dimostrare un inadempimento. Se precisa orari, canali, tempi di presa in carico, attività incluse e riepiloghi periodici, l’ufficio dispone di elementi controllabili. La buona amministrazione prepara l’esecuzione prima della stipula.
 
-Il fascicolo dell'acquisto dovrebbe permettere di ricostruire:
+Quando la prestazione è difforme o tardiva, l’ufficio non aspetta la fattura. Registra l’anomalia, la comunica all’operatore, applica i rimedi e le penali previste quando ne ricorrono i presupposti e valuta gli effetti sul pagamento. La contestazione deve poggiare sul contratto e su evidenze: verbali, ticket, riepiloghi periodici, consegne, comunicazioni o attestazioni.
 
-- perché si è acquistato;
-- chi ha deciso;
-- quale procedura è stata usata;
-- quale operatore è stato scelto;
-- quali controlli sono stati fatti;
-- quale prestazione è stata eseguita;
-- quando e come si è pagato;
-- dove sono stati pubblicati i dati.
+La fattura elettronica è un documento del ciclo, non la prova definitiva dell’esecuzione. Prima della liquidazione il responsabile verifica titolo, prestazione, importo, scadenza, regolarità e corrispondenza con contratto e impegno. Controlla inoltre gli adempimenti richiesti, compresi quelli di tracciabilità. Se la prestazione è parziale, la fattura eccede l’importo o esiste una contestazione, la liquidazione non può diventare automatica.
 
-Se il fascicolo non racconta questa storia, l'ente è fragile in caso di controllo.
+La liquidazione determina la somma certa e dovuta sulla base dei documenti e dell’accertamento della prestazione. L’ordinazione si esprime con il mandato; il tesoriere esegue il pagamento. Il responsabile finanziario presidia la regolarità contabile, mentre l’ufficio competente attesta la corretta esecuzione. Perciò è sbagliato affermare che “la ragioneria controlla che il servizio funzioni”.
 
-### Esecuzione, verifica, liquidazione e pagamento
-Il procurement non finisce con l'affidamento.
+Il pagamento deve rispettare i termini applicabili e i flussi tracciati. Ritardi non giustificati possono generare costi e compromettere l’affidabilità dell’ente. Pagare rapidamente, però, non significa rinunciare al controllo: efficienza e verifica devono procedere insieme.
 
-Un Comune può fare una determina formalmente corretta e poi sbagliare la fase più concreta: controllare la prestazione e pagare.
+La chiusura comprende l’aggiornamento del fascicolo e delle informazioni del ciclo digitale. Atti di esecuzione, contestazioni, verifica, liquidazione, mandato e pagamento devono essere collegati al contratto. Per beni inventariabili intervengono anche consegna e registrazione patrimoniale. Per servizi ricorrenti, l’esito alimenta la successiva programmazione: disservizi, consumi e costi osservati aiutano a definire meglio il nuovo fabbisogno.
 
-La sequenza è:
-
-1. l'operatore esegue la prestazione;
-2. l'ufficio verifica che la prestazione sia conforme;
-3. il fornitore emette fattura elettronica secondo le regole applicabili;
-4. il responsabile competente procede alla liquidazione se sussistono titolo, prestazione, importo, regolarità ed esigibilità;
-5. il servizio finanziario emette il mandato o cura la fase di ordinazione;
-6. il tesoriere esegue il pagamento;
-7. la spesa confluisce nella gestione da rendicontare.
-
-Questa parte collega il capitolo 12 ai capitoli 10 e 11.
-
-Nel capitolo 10 abbiamo visto impegno, liquidazione, ordinazione e pagamento. Qui aggiungiamo che, per un contratto pubblico, la liquidazione non è solo controllo contabile. È anche verifica del rapporto tra contratto e prestazione.
-
-Domande da farsi prima di liquidare:
-
-- la prestazione è stata eseguita?
-- è conforme a quanto richiesto?
-- il periodo di competenza è corretto?
-- l'importo coincide con l'affidamento o con il contratto?
-- il CIG è indicato dove serve?
-- gli obblighi di tracciabilità sono rispettati?
-- ci sono penali, contestazioni, ritardi o difformita?
-- la fattura è corretta?
-- l'impegno è capiente e imputato correttamente?
-
-La frase da usare è:
-
-> il pagamento è l'esito finale di una catena: non si paga perché è arrivata una fattura, si paga perché una prestazione dovuta è stata verificata, liquidata e ordinata secondo regole contabili e contrattuali.
-
-### Tavola fase-documento-responsabile-controllo
-Questa è la tavola operativa del capitolo.
-
-| Fase | Documento o dato | Responsabile prevalente | Controllo |
-| --- | --- | --- | --- |
-| Fabbisogno | Richiesta interna, relazione, programma. | Ufficio competente. | Necessità, utilità pubblica, non duplicazione. |
-| Programmazione | DUP, bilancio, PEG, programmi di acquisto ove richiesti. | Organi e responsabili competenti. | Coerenza con obiettivi e risorse. |
-| Copertura | Stanziamento, visto, impegno. | Responsabile finanziario e responsabile del servizio. | Disponibilità, imputazione, equilibri. |
-| Progetto contrattuale | Oggetto, capitolato semplice, condizioni. | RUP e ufficio competente. | Prestazione chiara e controllabile. |
-| Scelta strumento | MEPA, convenzione, affidamento, gara, centrale di committenza. | RUP/responsabile. | Proporzionalità e disciplina applicabile. |
-| Decisione a contrarre | Determina o atto equivalente. | Responsabile competente. | Motivazione, procedura, importo, copertura. |
-| Digitalizzazione | CIG, piattaforma, BDNCP, FVOE. | RUP/responsabili abilitati. | Dati corretti e interoperabilità. |
-| Affidamento | Atto di affidamento, contratto, ordine. | Stazione appaltante/responsabile. | Requisiti, condizioni, tracciabilità. |
-| Esecuzione | Verbali, attestazioni, SAL ove pertinenti, verifiche. | RUP, DEC o responsabile esecuzione secondo caso. | Tempi, qualità, conformità. |
-| Liquidazione | Atto di liquidazione, fattura elettronica. | Responsabile competente. | Titolo, importo, prestazione, regolarità. |
-| Pagamento | Mandato, tesoreria, flussi tracciati. | Finanziario e tesoriere. | Cassa, tracciabilità, tempi. |
-| Trasparenza | Link BDNCP, Amministrazione trasparente, dati residui. | Ufficio competente/trasparenza. | Pubblicazione corretta e proporzionata. |
-| Fascicolo | Atti, dati, comunicazioni, controlli. | Ufficio/RUP. | Ricostruibilita del ciclo. |
-
-Se in una prova pratica riesci a compilare questa tabella, hai già costruito l'ossatura della risposta.
+| Fase | Documento o evidenza | Controllo prevalente |
+| --- | --- | --- |
+| Avvio dell’esecuzione | Ordine, contratto, verbale o comunicazione. | Coerenza con l’affidamento. |
+| Prestazione | Report, ticket, consegna, stato o attestazione. | Quantità, qualità e tempi. |
+| Anomalia | Contestazione e risposta dell’operatore. | Rimedi, penali e impatto sul corrispettivo. |
+| Fattura | Fattura elettronica e riferimenti del contratto. | Importo, periodo e dati. |
+| Liquidazione | Atto o attestazione del responsabile. | Prestazione dovuta, verificata ed esigibile. |
+| Ordinazione | Mandato di pagamento. | Coerenza contabile e tracciabilità. |
+| Chiusura | Dati di esecuzione, pubblicazione e fascicolo. | Ricostruibilità del ciclo. |
 
 ### Caso guidato: manutenzione del software di protocollo
-Traccia:
 
-> Il Comune deve affidare il servizio annuale di manutenzione del software di protocollo informatico. Il servizio è necessario per garantire continuità operativa, gestione documentale e assistenza agli uffici. Il responsabile deve predisporre l'acquisizione.
+Il Comune deve affidare per un anno la manutenzione del software di protocollo. Il bisogno riguarda continuità operativa, assistenza agli uffici e sicurezza della gestione documentale. Non è una spesa economale: è prevedibile, ricorrente e collegata a un servizio essenziale.
 
-#### 1. Fabbisogno
-Il bisogno è chiaro: garantire continuità del protocollo informatico e assistenza al sistema documentale. Non è una spesa economale e non è una prestazione occasionale minuta.
+L’ufficio definisce funzioni incluse, durata, livelli di servizio, canali di assistenza, trattamento dei dati e modalità di verifica. Controlla contratto esistente, programmazione, stanziamento e imputazione. Individua il RUP e distingue i compiti del servizio finanziario.
 
-L'ufficio deve descrivere:
+Prima della decisione verifica gli strumenti disponibili e stima il valore complessivo. Se ricorre all’affidamento diretto, documenta la scelta dell’operatore, la congruità delle condizioni, la rotazione e i requisiti secondo il regime vigente. La decisione di contrarre o l’atto unico indica oggetto, importo, contraente, ragioni, copertura, CIG, piattaforma e condizioni essenziali.
 
-- servizio richiesto;
-- durata;
-- livelli minimi di assistenza;
-- uffici interessati;
-- eventuali profili di sicurezza, privacy, interoperabilità e continuità;
-- ragione per cui il servizio è necessario.
+Durante l’anno l’ufficio non si limita a ricevere le fatture. Controlla ticket, tempi di risposta, aggiornamenti e continuità del servizio. Registra eventuali disservizi e li contesta. Liquida soltanto le prestazioni verificate, poi il servizio finanziario cura ordinazione e pagamento. Il fascicolo raccoglie istruttoria, atto, dati digitali, contratto, attestazioni, fatture, liquidazioni e pubblicazioni.
 
-#### 2. Programmazione e copertura
-L'acquisto deve essere coerente con bilancio, PEG e gestione digitale dell'ente. Occorre verificare lo stanziamento e l'imputazione della spesa. Se il servizio copre più esercizi, la verifica contabile deve tenerne conto.
+Una risposta orale efficace può chiudersi così: «Il procurement comunale è un ciclo unitario: il fabbisogno determina oggetto e programmazione; RUP e uffici presidiano responsabilità diverse; la decisione di contrarre rende controllabile la scelta; piattaforma, CIG e BDNCP assicurano il flusso digitale; la liquidazione segue la verifica dell’esecuzione e il fascicolo documenta il risultato».
 
-Non basta dire "il software serve". Serve dire:
+## ▣ Verifica 12.A · Quiz commentati e caso ragionato
 
-> il servizio è coerente con le funzioni dell'ente, trova copertura nello stanziamento competente ed è gestito dal responsabile del servizio incaricato.
+### Quiz 1 — Punto di partenza
 
-#### 3. RUP e istruttoria
-L'ente individua il RUP o conferma la figura già competente secondo organizzazione. Il RUP e l'ufficio definiscono l'oggetto e verificano se esistono convenzioni, strumenti di acquisto o iniziative utilizzabili.
+Qual è il primo passaggio corretto per acquistare un servizio comunale ricorrente?
 
-Qui si valuta se ricorrere a MEPA, convenzione, accordo quadro, affidamento diretto o altra procedura ammessa. La scelta dipende da importo, oggetto, disponibilità degli strumenti e disciplina vigente.
+- A. Chiedere subito un preventivo al fornitore abituale.
+- B. Acquisire il CIG.
+- C. Definire il fabbisogno e verificarne programmazione e copertura.
+- D. Attendere la prima fattura.
 
-#### 4. Atto
-Il responsabile adotta la determina a contrarre o l'atto equivalente. L'atto deve contenere:
+**Risposta corretta: C.** L’acquisto nasce dal bisogno pubblico. Operatore, CIG e fattura appartengono a fasi successive. Un servizio ricorrente richiede inoltre una valutazione complessiva che impedisca di mascherarlo come serie di piccole urgenze.
 
-- fabbisogno;
-- oggetto;
-- importo;
-- fornitore o criterio di scelta;
-- strumento usato;
-- copertura e impegno;
-- CIG;
-- eventuale CUP se si tratta di progetto di investimento pubblico;
-- requisiti e controlli;
-- tracciabilità;
-- condizioni di esecuzione.
+### Quiz 2 — RUP e responsabile finanziario
 
-#### 5. Digitalizzazione e affidamento
-La procedura viene gestita tramite piattaforma digitale quando previsto. Il CIG viene acquisito nel ciclo digitale e i dati sono trasmessi secondo regole BDNCP/ANAC.
+Quale affermazione descrive correttamente i ruoli?
 
-Il contratto o ordine deve essere coerente con l'atto. Non si deve avere una determina che dice una cosa e un ordine che ne dice un'altra.
+- A. Il RUP presidia il progetto; il responsabile finanziario controlla i profili contabili.
+- B. Il responsabile finanziario verifica la qualità tecnica del servizio.
+- C. Il RUP è sempre un soggetto esterno.
+- D. Il RUP coincide necessariamente con il tesoriere.
 
-#### 6. Esecuzione
-Durante l'anno l'ufficio verifica che il servizio sia effettivamente reso:
+**Risposta corretta: A.** Le funzioni possono incontrarsi nel procedimento, ma restano distinte. Il controllo della copertura non sostituisce quello sulla prestazione e il tesoriere esegue i pagamenti ordinati dall’ente.
 
-- assistenza nei tempi concordati;
-- aggiornamenti o manutenzioni previste;
-- gestione dei malfunzionamenti;
-- comunicazioni e ticket;
-- continuità del servizio.
+### Quiz 3 — Decisione di contrarre
 
-Se ci sono inadempimenti, l'ufficio li contesta prima di liquidare.
+In un affidamento diretto, quale elemento non può mancare dalla decisione?
 
-#### 7. Liquidazione e pagamento
-La fattura non basta. Prima della liquidazione il responsabile verifica che il servizio sia stato reso secondo contratto. Poi procede la catena contabile: liquidazione, mandato, pagamento tramite tesoriere.
+- A. Una relazione sul contenzioso di tutte le gare precedenti.
+- B. Una procedura aperta simulata.
+- C. Il pagamento anticipato integrale.
+- D. Oggetto, importo, contraente, ragioni della scelta e requisiti.
 
-#### 8. Trasparenza e fascicolo
-Il fascicolo deve conservare fabbisogno, atto, CIG, dati piattaforma, ordine o contratto, verifiche, fatture, liquidazioni, pagamenti e pubblicazioni.
+**Risposta corretta: D.** L’atto rende controllabile la scelta. Può essere concentrato con l’affidamento, ma la semplificazione documentale non elimina contenuto, motivazione e copertura.
 
-Risposta sintetica:
+### Quiz 4 — Affidamento diretto
 
-> L'affidamento del servizio di manutenzione del protocollo richiede verifica del fabbisogno, coerenza con programmazione e bilancio, individuazione del RUP, scelta dello strumento di acquisto, determina a contrarre o atto equivalente con copertura e impegno, acquisizione del CIG tramite piattaforma, verifica dei requisiti, esecuzione controllata, liquidazione dopo verifica della prestazione, pagamento tracciato e pubblicazione dei dati secondo il ciclo digitale BDNCP/ANAC.
+L’affidamento diretto consente al Comune di scegliere liberamente il fornitore preferito?
 
-### Caso guidato: acquisto urgente non economale
-Traccia:
+- A. Sì, perché non è una gara.
+- B. Sì, se l’importo è modesto.
+- C. No: occorrono istruttoria, motivazione, requisiti, principi e controlli proporzionati.
+- D. No, perché richiede sempre una procedura aperta.
 
-> Un ufficio chiede l'acquisto urgente di materiali per allestire una sala consiliare per più sedute pubbliche e streaming. La spesa supera i limiti e la funzione della cassa economale prevista dal regolamento interno.
+**Risposta corretta: C.** Le risposte A e B confondono semplificazione e arbitrio; la D trasforma impropriamente l’affidamento diretto in una procedura ordinaria.
 
-La risposta non deve forzare l'economato.
+### Quiz 5 — Ecosistema digitale
 
-Sequenza:
+Quale abbinamento è corretto?
 
-1. qualificare il bisogno: materiali o servizio per funzionamento dell'organo e comunicazione istituzionale;
-2. verificare urgenza reale e programmabilita;
-3. controllare lo stanziamento;
-4. individuare responsabile e RUP;
-5. verificare strumenti di acquisto disponibili;
-6. adottare atto con oggetto, importo, procedura, copertura e tracciabilità;
-7. gestire CIG e piattaforma;
-8. controllare consegna o installazione;
-9. liquidare e pagare solo dopo verifica;
-10. archiviare e pubblicare.
+- A. FVOE — codice del progetto di investimento.
+- B. BDNCP — banca dati nazionale dei contratti pubblici.
+- C. CIG — verifica tecnica della prestazione.
+- D. PAD — cassa economale digitale.
 
-Errore:
+**Risposta corretta: B.** Il FVOE supporta la verifica dei requisiti dell’operatore; il CIG identifica procedura o contratto; la PAD gestisce le fasi digitali certificate previste.
 
-> "Uso la cassa economale perché è urgente."
+### Quiz 6 — MEPA e Consip
 
-Correzione:
+Quale affermazione è corretta?
 
-> L'urgenza non trasforma automaticamente una spesa ordinaria in spesa economale. Occorre rispettare regolamento, Codice, copertura, tracciabilità e controlli, scegliendo lo strumento semplificato solo se ammesso.
+- A. Acquisti in Rete è il portale e il MEPA è uno degli strumenti disponibili.
+- B. Consip e MEPA sono sinonimi.
+- C. Il MEPA sostituisce il Codice dei contratti.
+- D. Usare una convenzione elimina la verifica del fabbisogno.
 
-### Come rispondere all'orale
-Se la domanda è "parli del procurement comunale", usa questa scaletta:
+**Risposta corretta: A.** Consip opera nel programma di razionalizzazione; il portale dà accesso alle iniziative; il MEPA è uno strumento. In ogni caso l’ufficio deve verificare pertinenza, copertura e risultato.
 
-1. definizione: l'insieme delle attività con cui il Comune acquisisce lavori, servizi e forniture per realizzare l'interesse pubblico;
-2. ciclo: fabbisogno, programmazione, copertura, RUP, atto, procedura, affidamento, esecuzione, pagamento e controllo;
-3. soggetti: stazione appaltante, RUP, responsabile del servizio, responsabile finanziario, operatore economico, eventuale centrale di committenza;
-4. atto: determina a contrarre o atto equivalente con oggetto, importo, procedura, copertura, CIG e condizioni;
-5. strumenti: MEPA, Consip, convenzioni, accordi quadro, sistemi dinamici e piattaforme digitali;
-6. digitalizzazione: CIG tramite piattaforme certificate, BDNCP, FVOE, pubblicità e trasparenza;
-7. contabilità: impegno, fattura, liquidazione, mandato, pagamento;
-8. controlli: esecuzione, tracciabilità, Amministrazione trasparente, fascicolo, revisione e responsabilità.
+### Quiz 7 — Liquidazione
 
-Risposta breve:
+Quando può essere liquidata la fattura di un servizio?
 
-> Il procurement comunale è il ciclo con cui il Comune acquisisce beni, servizi e lavori: parte dal fabbisogno e dalla programmazione, richiede copertura finanziaria, RUP, atto motivato, scelta dello strumento o della procedura, CIG e gestione digitale, affidamento, verifica dell'esecuzione, liquidazione, pagamento tracciato e pubblicazione. Anche gli affidamenti semplificati devono rispettare principi, competenze, controlli e fascicolo.
+- A. Dopo la verifica di titolo, prestazione, importo, regolarità ed esigibilità.
+- B. Appena arriva al protocollo.
+- C. Dopo che il tesoriere ha scelto il capitolo.
+- D. Solo alla fine dell’esercizio.
 
-### Domanda da commissario
-**Domanda:** "Come imposta un ufficio comunale un affidamento diretto ordinario?"
+**Risposta corretta: A.** La fattura non prova da sola l’esatto adempimento. Il responsabile competente verifica la prestazione; il servizio finanziario presidia la successiva regolarità contabile e l’ordinazione.
 
-**Risposta professionale:** "L'ufficio parte dal fabbisogno e verifica coerenza con programmazione, bilancio e PEG. Individua RUP e responsabile competente, definisce oggetto, importo e condizioni essenziali, sceglie lo strumento o la procedura consentita, motiva l'affidamento, verifica la copertura e adotta la determina a contrarre o l'atto equivalente. Gestisce CIG e piattaforma digitale, svolge le verifiche sull'operatore secondo il caso, perfeziona il rapporto, controlla l'esecuzione, liquida solo dopo verifica della prestazione, dispone il pagamento tracciato e cura fascicolo e trasparenza."
+### Caso ragionato — Acquisto urgente per la sala consiliare
 
-### Domanda-trappola
-**Domanda:** "Affidamento diretto significa che il Comune può scegliere liberamente il fornitore che preferisce?"
+Il Comune deve dotare la sala consiliare di telecamere, microfoni e un servizio di configurazione per trasmettere più sedute pubbliche. L’ufficio propone di usare la cassa economale perché la prima seduta è vicina. La spesa, considerata nel suo complesso, supera il perimetro stabilito dal regolamento economale.
 
-**Risposta corretta:** "No. L'affidamento diretto è una modalità semplificata ammessa nei casi previsti, ma resta un affidamento pubblico. Devono esserci fabbisogno, competenza, copertura, rispetto dei principi, motivazione della scelta, tracciabilità, CIG quando richiesto, verifica dell'operatore, controllo dell'esecuzione, liquidazione corretta e pubblicazione."
+**1. Qualificazione del bisogno.** Non si tratta di un acquisto minuto isolato. Beni e configurazione formano un’esigenza funzionale unitaria e prevedibile. La vicinanza della seduta può richiedere rapidità, ma non trasforma la natura della spesa.
 
-### Errore tipico
-L'errore tipico è:
+**2. Programmazione e copertura.** L’ufficio verifica stanziamento, imputazione e coerenza con gli obiettivi dell’ente. Stima l’intero fabbisogno, evitando di dividere telecamere, microfoni e installazione in acquisti separati soltanto per ridurre l’importo apparente.
 
-> "Prima scelgo il fornitore, poi sistemo gli atti."
+**3. Responsabilità.** Il responsabile del servizio definisce il risultato; l’ente individua il RUP; il responsabile finanziario controlla i profili contabili. Se serve un supporto tecnico, questo non sostituisce la responsabilità amministrativa.
 
-La frase è sbagliata. L'atto non serve a giustificare ex post una decisione già presa. Serve a rendere legittima, motivata e controllabile la decisione dell'ente.
+**4. Istruttoria e strumento.** L’ufficio verifica convenzioni e strumenti digitali pertinenti. Definisce caratteristiche, compatibilità, consegna, installazione, collaudo funzionale e assistenza. Sceglie la modalità consentita in base al valore e al testo vigente, motivando l’eventuale affidamento diretto.
 
-Correzione:
+**5. Decisione e ciclo digitale.** La determinazione indica fabbisogno, oggetto, importo, operatore o criteri di scelta, ragioni, copertura, CIG e condizioni. La procedura è gestita sulla piattaforma prevista e i dati vengono comunicati nel ciclo digitale.
 
-> Il percorso corretto parte dal fabbisogno, passa per copertura, RUP, strumento, motivazione e atto, e solo dentro questo percorso individua l'operatore economico e gestisce esecuzione e pagamento.
+**6. Esecuzione.** L’ufficio controlla consegna, installazione e prova di trasmissione. Se l’audio non raggiunge i livelli richiesti, contesta la difformità prima di attestare la corretta esecuzione.
+
+**7. Chiusura.** La fattura viene liquidata dopo la verifica. Seguono mandato, pagamento tracciato, eventuale inventariazione dei beni, trasparenza e completamento del fascicolo.
+
+La soluzione corretta non nega l’urgenza. La governa con un percorso proporzionato, senza usare l’economato fuori dal suo perimetro.
 
 ### Mini-esercizio
-Leggi la traccia:
 
-> Il Comune deve acquisire un servizio di supporto per la gestione delle prenotazioni online degli impianti sportivi comunali. Il servizio non è presente nel contratto informatico attuale, ha durata annuale e richiede assistenza agli uffici.
+Il Comune vuole affidare per dodici mesi un servizio di supporto alle prenotazioni online degli impianti sportivi. Compila la griglia prima di scrivere la determinazione.
 
-Compila la tabella:
-
-| Elemento | Risposta |
+| Elemento | Domanda da risolvere |
 | --- | --- |
-| Fabbisogno pubblico | |
-| Ufficio competente | |
-| Figura da individuare | |
-| Verifica finanziaria | |
-| Atto da predisporre | |
-| Strumento da valutare | |
-| Codice o dato di tracciabilità | |
-| Controllo prima della liquidazione | |
-| Pubblicazione o fascicolo | |
+| Fabbisogno | Quali utenti, funzioni e livelli di assistenza? |
+| Valore | Qual è il costo complessivo del periodo e delle opzioni? |
+| Responsabilità | Chi è RUP, chi adotta l’atto, chi controlla la copertura? |
+| Strumento | Esistono iniziative o piattaforme pertinenti? |
+| Scelta | Come si motiva l’operatore e come si valutano mercato e rotazione? |
+| Digitale | Dove si acquisisce il CIG e come si verificano i requisiti? |
+| Esecuzione | Quali attestazioni o livelli di servizio provano il risultato? |
+| Chiusura | Quali controlli precedono liquidazione e pagamento? |
 
-Soluzione guida:
+Una soluzione completa definisce il servizio prima del fornitore, stima l’intera durata, assicura copertura, individua i ruoli, sceglie lo strumento sulla base dell’oggetto, documenta l’affidamento, usa il ciclo digitale e stabilisce in anticipo come verificare l’assistenza.
 
-| Elemento | Risposta |
-| --- | --- |
-| Fabbisogno pubblico | Gestione digitale delle prenotazioni e assistenza agli uffici. |
-| Ufficio competente | Servizio sport, digitale o altro settore individuato dall'organizzazione comunale. |
-| Figura da individuare | RUP e responsabile competente. |
-| Verifica finanziaria | Stanziamento, copertura, imputazione e coerenza con PEG. |
-| Atto da predisporre | Determina a contrarre o atto equivalente con eventuale affidamento. |
-| Strumento da valutare | MEPA, convenzione, altra piattaforma o procedura consentita secondo oggetto e importo. |
-| Codice o dato di tracciabilità | CIG e dati della piattaforma/BDNCP; CUP solo se ricorre un progetto di investimento pubblico. |
-| Controllo prima della liquidazione | Prestazione resa, assistenza effettiva, fattura corretta, importo coerente. |
-| Pubblicazione o fascicolo | Amministrazione trasparente/link BDNCP, atti, verifiche, liquidazione e pagamento. |
-
-### Diario errori
+## Errori e trappole ricorrenti
 
 | Errore | Correzione |
 | --- | --- |
-| Tratto il procurement come scelta del fornitore. | Parti da fabbisogno, programma, copertura e atto. |
-| Dico che affidamento diretto significa libertà assoluta. | È semplificazione, non arbitrio. |
-| Uso l'economato per spese programmabili. | Economato solo nei limiti regolamentari e per spese minute. |
-| Confondo RUP con un firmatario qualsiasi. | Il RUP è responsabile unico del progetto nel Codice 2023. |
-| Prendo il CIG come adempimento finale. | Il CIG è dentro il ciclo digitale del contratto. |
-| Dico che MEPA sostituisce il Codice. | MEPA è uno strumento, il Codice resta la cornice. |
-| Liquido appena arriva la fattura. | Prima verifico prestazione, titolo, importo e adempimenti. |
-| Dimentico il responsabile finanziario. | Copertura, impegno, liquidazione e pagamento hanno rilievo contabile. |
-| Pubblico documenti a caso. | Seguo BDNCP, Amministrazione trasparente e dati residui dovuti. |
-| Non conservo il fascicolo. | Il fascicolo deve ricostruire l'intero ciclo. |
+| “Scelgo il fornitore e poi preparo l’atto.” | Fabbisogno, istruttoria e decisione precedono la scelta sostanziale. |
+| “Sotto soglia il Comune fa ciò che vuole.” | La semplificazione resta soggetta a principi, motivazione e controlli. |
+| “Il RUP è il responsabile finanziario.” | Progetto contrattuale e presidio contabile sono funzioni diverse. |
+| “La determina e il contratto sono la stessa cosa.” | L’atto decide; il rapporto si perfeziona nelle forme applicabili. |
+| “Il CIG si prende alla fine.” | Il CIG appartiene al ciclo digitale dell’affidamento. |
+| “MEPA è Consip e sostituisce il Codice.” | Consip è il soggetto, il MEPA uno strumento, il Codice resta la cornice. |
+| “La fattura prova che il servizio è stato reso.” | La prestazione va verificata con evidenze coerenti con il contratto. |
+| “L’urgenza consente sempre l’economato.” | Conta il regolamento e la natura complessiva del bisogno. |
+| “Trasparenza significa pubblicare ogni documento.” | Si pubblicano dati e atti dovuti rispettando pertinenza e protezione dati. |
 
-### Da sapere in 5 righe
-Il procurement comunale è il ciclo con cui il Comune acquisisce lavori, servizi e forniture per realizzare funzioni pubbliche.
-Parte da fabbisogno, programmazione e copertura, non dalla scelta del fornitore.
-RUP, responsabile del servizio e responsabile finanziario presidiano profili diversi: progetto, istruttoria, atto, copertura, esecuzione e pagamento.
-CIG, piattaforme digitali, BDNCP, FVOE, MEPA e Consip sono strumenti di tracciabilità e gestione, non scorciatoie fuori dal Codice.
-L'affidamento si chiude davvero solo con esecuzione verificata, liquidazione corretta, pagamento tracciato, pubblicazione e fascicolo.
+## Da sapere in 5 righe
 
-### Checklist del candidato
-Prima di chiudere il capitolo, verifica se sai rispondere:
+- Il procurement comunale è il ciclo con cui il Comune trasforma un fabbisogno in un contratto eseguito e controllato.
+- Programmazione, valore e copertura vengono prima della scelta dell’operatore.
+- RUP, responsabile del servizio e responsabile finanziario presidiano funzioni diverse.
+- Decisione di contrarre, affidamento, CIG, piattaforme e verifiche rendono la scelta tracciabile.
+- La fattura si liquida soltanto dopo il controllo della prestazione; pagamento, trasparenza e fascicolo chiudono il ciclo.
+
+## Checklist finale
 
 - So spiegare il procurement come ciclo e non come singolo atto?
-- So distinguere economato e affidamento ordinario?
-- So partire dal fabbisogno e non dal fornitore?
-- So collegare acquisto, DUP, bilancio, PEG e copertura?
-- So spiegare chi è il RUP nel Codice 2023?
-- So distinguere stazione appaltante, operatore economico e centrale di committenza?
-- So indicare i contenuti minimi di una determina a contrarre?
-- So dire perché affidamento diretto non significa scelta arbitraria?
-- So collocare CIG, BDNCP, PCP, FVOE e piattaforme certificate?
-- So distinguere MEPA, Consip, convenzioni, accordi quadro e sistemi dinamici?
-- So collegare esecuzione, fattura, liquidazione e pagamento?
-- So spiegare trasparenza, tracciabilità e fascicolo senza fare solo elenco di adempimenti?
+- So distinguere fabbisogno prevedibile, urgenza ed economato?
+- So collegare programmazione, valore, copertura e divieto di frazionamento?
+- So distinguere Comune, RUP, responsabile del servizio, finanziario e operatore?
+- So indicare i contenuti della decisione di contrarre?
+- So spiegare affidamento diretto, accesso al mercato e rotazione senza usare formule assolute?
+- So distinguere CIG, CUP, PAD, BDNCP, PCP e FVOE?
+- So distinguere Consip, Acquisti in Rete, MEPA, convenzioni e accordi quadro?
+- So collegare tracciabilità, trasparenza e protezione dei dati?
+- So descrivere verifica dell’esecuzione, liquidazione, mandato e pagamento?
+- So risolvere un caso senza scegliere il fornitore prima dell’istruttoria?
 
-### Riferimenti consolidati
-- [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]
-- [[sources/d-lgs-31-dicembre-2024-n-209-correttivo-codice-contratti-pubblici]]
-- [[sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024]]
-- [[sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico]]
-- [[sources/procedure-affidamento-gare-appalti-concessioni-soglie]]
-- [[sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp]]
-- [[sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione]]
-- [[sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici]]
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
-- [[sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione]]
-- [[topics/contratti-pubblici]]
-- [[entities/codice-dei-contratti-pubblici]]
+## Riferimenti normativi e professionali
 
-### Note di review
-- Prima della pubblicazione verificare su Normattiva il testo vigente del D.Lgs. 36/2023, del D.Lgs. 209/2024 e degli eventuali aggiornamenti pubblicati dopo il 23 marzo 2026.
-- Verificare su ANAC le istruzioni più recenti su CIG, piattaforme digitali certificate, BDNCP, PCP, FVOE, SmartCIG residui, trasparenza art. 37 D.Lgs. 33/2013 e delibere attuative.
-- Verificare su Acquisti in Rete/Consip lo stato degli strumenti, delle convenzioni, delle modalità MEPA e delle pagine operative prima di inserire esempi portale.
-- Non cristallizzare nel testo base soglie numeriche, micro-regole o eccezioni: inserirle solo in schede aggiornabili o nel VOL-09.
-- Coordinare il capitolo con il successivo capitolo 13 per lavori, edilizia, territorio e interfaccia amministrativa, evitando duplicazioni su lavori pubblici specialistici.
-- Coordinare con VOL-09 per procedure sopra soglia, appalti complessi, qualificazione stazioni appaltanti, PNRR, contenzioso, subappalto, varianti e project management avanzato.
+- D.Lgs. 31 marzo 2023, n. 36, Codice dei contratti pubblici, nel testo vigente, con particolare riguardo a principi, RUP, decisione di contrarre, ciclo digitale, programmazione, affidamenti ed esecuzione.
+- D.Lgs. 31 dicembre 2024, n. 209, correttivo del Codice, da leggere insieme agli aggiornamenti successivi del testo consolidato.
+- Allegati I.1, I.2, I.5 e II.14 al D.Lgs. 36/2023, per definizioni, RUP, programmazione e fase esecutiva.
+- D.Lgs. 18 agosto 2000, n. 267, per competenze gestionali, ordinamento finanziario, impegno, liquidazione, ordinazione e pagamento negli enti locali.
+- Legge 13 agosto 2010, n. 136, per la tracciabilità dei flussi finanziari.
+- D.Lgs. 14 marzo 2013, n. 33, articolo 37, per la trasparenza dei contratti pubblici.
+- ANAC, indicazioni sulla digitalizzazione dei contratti pubblici, Piattaforma Contratti Pubblici, BDNCP e FVOE.
+- Ministero dell’economia e delle finanze e Consip, Programma di razionalizzazione degli acquisti e portale Acquisti in Rete.

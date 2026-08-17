@@ -24,9 +24,9 @@ updated_at: 2026-07-23T00:00:00+02:00
 
 ## Perché questo capitolo pesa nei concorsi
 
-L'informatica nei concorsi pubblici raccoglie competenze che vanno dall'uso quotidiano del computer alla PA digitale. Nelle banche dati compaiono domande pratiche, come la differenza tra file e cartella, il significato di una formula in un foglio elettronico o la funzione di un browser, insieme a quesiti su PEC, SPID, documento informatico, firma digitale, protezione dei dati, sicurezza e servizi digitali della pubblica amministrazione.
+L’informatica nei concorsi pubblici raccoglie competenze che vanno dall’uso quotidiano del computer alla PA digitale. Nelle banche dati compaiono domande pratiche, come la differenza tra file e cartella, il significato di una formula in un foglio elettronico o la funzione di un browser, insieme a quesiti su PEC, SPID, documento informatico, firma digitale, protezione dei dati, sicurezza e servizi digitali della pubblica amministrazione.
 
-Il candidato efficace deve evitare due errori opposti. Il primo è studiare solo la parte normativa, trascurando videoscrittura, fogli elettronici, sistemi operativi, posta e reti. Il secondo è trattare l'informatica come un insieme di nozioni isolate. Nei concorsi la tecnologia è spesso collegata all'azione amministrativa: protocollo, comunicazioni, conservazione, identità digitale, protezione dei dati, accessibilità e riuso delle informazioni.
+Il candidato efficace deve evitare due errori opposti. Il primo è studiare solo la parte normativa, trascurando videoscrittura, fogli elettronici, sistemi operativi, posta e reti. Il secondo è trattare l’informatica come un insieme di nozioni isolate. Nei concorsi la tecnologia è spesso collegata all’azione amministrativa: protocollo, comunicazioni, conservazione, identità digitale, protezione dei dati, accessibilità e riuso delle informazioni.
 
 Questo capitolo segue una logica progressiva. Prima costruisce il lessico tecnico essenziale. Poi collega quel lessico agli strumenti operativi più richiesti. Infine porta la materia nel contesto della PA digitale, dove informatica, procedimento amministrativo, privacy e organizzazione dei servizi si incontrano.
 
@@ -36,7 +36,7 @@ Al termine del capitolo dovrai essere in grado di:
 
 - distinguere hardware, software, sistema operativo, applicazioni e periferiche;
 - riconoscere file, cartelle, percorsi, estensioni e principali operazioni di gestione;
-- comprendere le funzioni essenziali di videoscrittura, fogli elettronici, presentazioni e database d'ufficio;
+- comprendere le funzioni essenziali di videoscrittura, fogli elettronici, presentazioni e database d’ufficio;
 - interpretare le nozioni fondamentali di Internet, Web, browser, URL, posta elettronica, PEC, cloud e servizi online;
 - distinguere reti LAN, WAN, Internet, intranet, client, server, router, switch, modem, indirizzo IP, DNS e protocolli;
 - rispondere ai quesiti di base su sicurezza informatica, malware, password, autenticazione, backup, firewall, crittografia e continuità operativa;
@@ -47,9 +47,11 @@ Al termine del capitolo dovrai essere in grado di:
 
 > [!NOTE]
 > **Da sapere in 5 righe**
-> Nei concorsi la parola "informatica" non indica solo computer e programmi. Comprende strumenti di produttività, sistemi operativi, reti, sicurezza, basi di dati, linguaggi, formati e servizi digitali della PA. Le domande più frequenti premiano chi conosce definizioni precise e differenze operative. La parte normativa digitale va studiata insieme agli strumenti: PEC, firma, SPID, protocollo e conservazione non sono slogan, ma funzioni amministrative. L'obiettivo non è diventare tecnico informatico, ma riconoscere concetti, errori e responsabilità nel lavoro pubblico.
+> Nei concorsi la parola “informatica” non indica solo computer e programmi. Comprende strumenti di produttività, sistemi operativi, reti, sicurezza, basi di dati, linguaggi, formati e servizi digitali della PA. Le domande più frequenti premiano chi conosce definizioni precise e differenze operative. La parte normativa digitale va studiata insieme agli strumenti: PEC, firma, SPID, protocollo e conservazione non sono slogan, ma funzioni amministrative. L’obiettivo non è diventare tecnico informatico, ma riconoscere concetti, errori e responsabilità nel lavoro pubblico.
 
 ![Figura 10.1 - Informatica e PA digitale: mappa dei blocchi ad alto rendimento per concorsi pubblici.](../assets/chapter-10/01-mappa-informatica-pa-digitale.png)
+
+*Figura 10.1 - Informatica e PA digitale: mappa dei blocchi ad alto rendimento per concorsi pubblici.*
 
 ## Come usare il Metodo BANDO
 
@@ -75,11 +77,11 @@ Questo capitolo dialoga con molte parti del manuale:
 |---|---|
 | Procedimento amministrativo | Il documento informatico, il protocollo, la comunicazione telematica e la conservazione incidono sulla gestione degli atti. |
 | Trasparenza e anticorruzione | Pubblicazione online, accessibilità, dati aperti e protezione dei dati devono essere bilanciati. |
-| Privacy | Sicurezza informatica, data breach, minimizzazione e responsabilità del titolare sono parte dell'organizzazione digitale. |
-| Organizzazione della PA | Il responsabile per la transizione digitale, i servizi online e l'interoperabilità cambiano processi e competenze. |
+| Privacy | Sicurezza informatica, data breach, minimizzazione e responsabilità del titolare sono parte dell’organizzazione digitale. |
+| Organizzazione della PA | Il responsabile per la transizione digitale, i servizi online e l’interoperabilità cambiano processi e competenze. |
 | Contratti pubblici e gestione documentale | Piattaforme digitali, firme, comunicazioni elettroniche e conservazione hanno effetti procedurali. |
 
-Per evitare duplicazioni: il Capitolo 10 spiega come funzionano strumenti, documenti, identita, dati e controlli tecnici; il Capitolo 7 stabilisce il test giuridico da applicare quando quei processi comportano accesso, pubblicazione, diffusione o trattamento di dati personali.
+Per evitare duplicazioni: il Capitolo 10 spiega come funzionano strumenti, documenti, identità, dati e controlli tecnici; il Capitolo 7 stabilisce il test giuridico da applicare quando quei processi comportano accesso, pubblicazione, diffusione o trattamento di dati personali.
 
 ## Quadro di priorità per lo studio
 
@@ -95,15 +97,15 @@ La banca dati concorsuale mostra una distribuzione chiara: le domande di informa
 
 > [!WARNING]
 > **Errore tipico**
-> Molti candidati trattano la PA digitale come "diritto amministrativo tecnologico" e l'informatica come "quiz facili da fare alla fine". È una strategia debole. Le domande semplici sono spesso trappole di definizione, mentre le domande sulla PA digitale richiedono di capire come gli strumenti incidono sui procedimenti.
+> Molti candidati trattano la PA digitale come “diritto amministrativo tecnologico” e l’informatica come “quiz facili da fare alla fine”. È una strategia debole. Le domande semplici sono spesso trappole di definizione, mentre le domande sulla PA digitale richiedono di capire come gli strumenti incidono sui procedimenti.
 
 ## 1. Informatica di base: hardware, software e dati
 
-L'informatica studia il trattamento automatico dell'informazione. Nei concorsi questa definizione astratta si traduce in tre parole chiave: dati, elaborazione e strumenti.
+L’informatica studia il trattamento automatico dell’informazione. Nei concorsi questa definizione astratta si traduce in tre parole chiave: dati, elaborazione e strumenti.
 
-Il **dato** è una rappresentazione elementare di un fatto: un numero, una parola, una data, un codice fiscale, un'immagine, un file. L'**informazione** nasce quando il dato viene interpretato in un contesto. Il numero "27" da solo è un dato; "27 pratiche concluse nel mese" è un'informazione amministrativa.
+Il **dato** è una rappresentazione elementare di un fatto: un numero, una parola, una data, un codice fiscale, un’immagine, un file. L’**informazione** nasce quando il dato viene interpretato in un contesto. Il numero “27” da solo è un dato; “27 pratiche concluse nel mese” è un’informazione amministrativa.
 
-L'**hardware** è la componente fisica del sistema informatico: computer, monitor, tastiera, mouse, stampante, disco, memoria, scheda di rete, server. Il **software** è l'insieme dei programmi e delle istruzioni che permettono all'hardware di funzionare e svolgere compiti.
+L’**hardware** è la componente fisica del sistema informatico: computer, monitor, tastiera, mouse, stampante, disco, memoria, scheda di rete, server. Il **software** è l’insieme dei programmi e delle istruzioni che permettono all’hardware di funzionare e svolgere compiti.
 
 I software si distinguono di solito in:
 
@@ -113,19 +115,21 @@ I software si distinguono di solito in:
 
 > [!NOTE]
 > **Come lo chiede la commissione**
-> Una domanda può chiedere quale tra le opzioni è hardware o software. "Mouse", "stampante" e "RAM" sono hardware. "Sistema operativo", "browser" e "foglio elettronico" sono software. "Driver" non è una periferica: è un software che permette al sistema operativo di comunicare con una periferica.
+> Una domanda può chiedere quale tra le opzioni è hardware o software. “Mouse”, “stampante” e “RAM” sono hardware. “Sistema operativo”, “browser” e “foglio elettronico” sono software. “Driver” non è una periferica: è un software che permette al sistema operativo di comunicare con una periferica.
 
-![Figura 10.2 - Hardware, software e dati: dal componente fisico all'informazione utile per l'azione amministrativa.](../assets/chapter-10/02-hardware-software-dati.png)
+![Figura 10.2 - Hardware, software e dati: dal componente fisico all’informazione utile per l’azione amministrativa.](../assets/chapter-10/02-hardware-software-dati.png)
+
+*Figura 10.2 - Hardware, software e dati: dal componente fisico all’informazione utile per l’azione amministrativa.*
 
 ### Bit, byte e unità di misura
 
-Il computer rappresenta i dati in forma binaria, usando bit. Il **bit** è l'unità minima di informazione e può assumere due valori, di norma 0 o 1. Il **byte** è composto da 8 bit ed è una misura più usata per file, memoria e spazio di archiviazione.
+Il computer rappresenta i dati in forma binaria, usando bit. Il **bit** è l’unità minima di informazione e può assumere due valori, di norma 0 o 1. Il **byte** è composto da 8 bit ed è una misura più usata per file, memoria e spazio di archiviazione.
 
 Le unità più frequenti nei quiz sono:
 
 | Unità | Uso comune |
 |---|---|
-| bit | misura elementare dell'informazione; spesso usata anche per la velocità di trasmissione |
+| bit | misura elementare dell’informazione; spesso usata anche per la velocità di trasmissione |
 | byte | misura base della dimensione dei dati |
 | KB, MB, GB, TB | dimensione di file, memoria e supporti di archiviazione |
 | Mbps o Gbps | velocità di rete, di solito espressa in bit per secondo |
@@ -136,7 +140,7 @@ Le unità più frequenti nei quiz sono:
 
 ### CPU, RAM, ROM e memoria di massa
 
-La **CPU** è l'unità centrale di elaborazione. Esegue istruzioni, coordina le operazioni e rappresenta il "processore" del sistema.
+La **CPU** è l’unità centrale di elaborazione. Esegue istruzioni, coordina le operazioni e rappresenta il “processore” del sistema.
 
 La **RAM** è memoria volatile: conserva temporaneamente dati e programmi in uso mentre il computer è acceso. Se manca alimentazione, il contenuto della RAM viene perso.
 
@@ -154,21 +158,21 @@ La **memoria di massa** conserva dati e programmi in modo stabile: hard disk, SS
 
 ### Periferiche di input, output e input/output
 
-Le periferiche permettono al computer di comunicare con l'esterno.
+Le periferiche permettono al computer di comunicare con l’esterno.
 
 | Tipo | Esempi | Funzione |
 |---|---|---|
 | Input | tastiera, mouse, scanner, microfono, webcam | inseriscono dati nel sistema |
-| Output | monitor, stampante, altoparlanti, proiettore | restituiscono risultati all'utente |
+| Output | monitor, stampante, altoparlanti, proiettore | restituiscono risultati all’utente |
 | Input/output | touchscreen, modem, scheda di rete, memoria USB | possono inviare e ricevere dati |
 
 > [!TIP]
 > **Regola da quiz**
-> Se il dispositivo porta dati verso il computer è input. Se porta dati dal computer verso l'utente è output. Se fa entrambe le cose, può essere classificato come input/output.
+> Se il dispositivo porta dati verso il computer è input. Se porta dati dal computer verso l’utente è output. Se fa entrambe le cose, può essere classificato come input/output.
 
 ## 2. Sistema operativo, file e cartelle
 
-Il **sistema operativo** è il software di base che gestisce le risorse del computer e permette all'utente e ai programmi applicativi di utilizzare hardware, memoria, processi, file, periferiche e rete. Esempi frequenti nei concorsi sono Windows, Linux, macOS, Android e iOS.
+Il **sistema operativo** è il software di base che gestisce le risorse del computer e permette all’utente e ai programmi applicativi di utilizzare hardware, memoria, processi, file, periferiche e rete. Esempi frequenti nei concorsi sono Windows, Linux, macOS, Android e iOS.
 
 Le funzioni essenziali del sistema operativo sono:
 
@@ -177,18 +181,18 @@ Le funzioni essenziali del sistema operativo sono:
 - gestione di file e cartelle;
 - gestione degli utenti e dei permessi;
 - controllo delle periferiche;
-- interfaccia con l'utente, grafica o testuale;
+- interfaccia con l’utente, grafica o testuale;
 - gestione della rete e degli aggiornamenti.
 
 ### Interfaccia grafica e riga di comando
 
-Nei sistemi operativi moderni l'utente può interagire tramite **interfaccia grafica**, con finestre, icone, menu e puntatore, oppure tramite **riga di comando**, digitando istruzioni testuali.
+Nei sistemi operativi moderni l’utente può interagire tramite **interfaccia grafica**, con finestre, icone, menu e puntatore, oppure tramite **riga di comando**, digitando istruzioni testuali.
 
-Windows è spesso associato all'interfaccia grafica desktop; Linux e Unix sono spesso richiamati nei quiz anche per la riga di comando, la struttura gerarchica del file system e la gestione dei permessi. Questo non significa che Linux non abbia interfacce grafiche o che Windows non abbia strumenti testuali: la domanda concorsuale di solito vuole verificare il concetto, non l'eccezione tecnica.
+Windows è spesso associato all’interfaccia grafica desktop; Linux e Unix sono spesso richiamati nei quiz anche per la riga di comando, la struttura gerarchica del file system e la gestione dei permessi. Questo non significa che Linux non abbia interfacce grafiche o che Windows non abbia strumenti testuali: la domanda concorsuale di solito vuole verificare il concetto, non l’eccezione tecnica.
 
 ### File, cartella, directory e percorso
 
-Un **file** è un contenitore di dati identificato da un nome e, di solito, da un'estensione. Una **cartella** o **directory** è un contenitore logico che organizza file e altre cartelle. Il **percorso** o **path** indica la posizione di un file o di una cartella nel file system.
+Un **file** è un contenitore di dati identificato da un nome e, di solito, da un’estensione. Una **cartella** o **directory** è un contenitore logico che organizza file e altre cartelle. Il **percorso** o **path** indica la posizione di un file o di una cartella nel file system.
 
 Esempio:
 
@@ -198,10 +202,10 @@ C: \Utenti\Mario\Documenti\relazione.docx
 
 In questo percorso:
 
-- `C: ` identifica l'unità;
+- `C: ` identifica l’unità;
 - `Utenti`, `Mario` e `Documenti` sono cartelle;
 - `relazione.docx` è il file;
-- `.docx` è l'estensione.
+- `.docx` è l’estensione.
 
 | Termine | Significato | Errore da evitare |
 |---|---|---|
@@ -213,7 +217,7 @@ In questo percorso:
 
 > [!WARNING]
 > **Domanda-trappola**
-> Cambiare l'estensione di un file non trasforma davvero il contenuto. Rinominare `relazione.txt` in `relazione.pdf` non crea un vero PDF. Il formato dipende dalla struttura interna del file, non solo dal nome.
+> Cambiare l’estensione di un file non trasforma davvero il contenuto. Rinominare `relazione.txt` in `relazione.pdf` non crea un vero PDF. Il formato dipende dalla struttura interna del file, non solo dal nome.
 
 ### Operazioni sui file
 
@@ -232,7 +236,7 @@ Le operazioni più frequenti sono:
 - comprimere;
 - esportare in altro formato.
 
-La differenza tra **copiare** e **spostare** è centrale. Copiare crea un duplicato in un'altra posizione, lasciando l'originale. Spostare trasferisce l'elemento: alla fine il file si trova nella nuova posizione e non più in quella iniziale.
+La differenza tra **copiare** e **spostare** è centrale. Copiare crea un duplicato in un’altra posizione, lasciando l’originale. Spostare trasferisce l’elemento: alla fine il file si trova nella nuova posizione e non più in quella iniziale.
 
 > [!TIP]
 > **Mini-esercizio**
@@ -264,10 +268,12 @@ Le suite più note sono Microsoft Office, LibreOffice e soluzioni cloud. I progr
 | Videoscrittura | Word, Writer | creare e modificare documenti testuali |
 | Foglio elettronico | Excel, Calc | elaborare dati in celle, formule, funzioni, tabelle e grafici |
 | Presentazioni | PowerPoint, Impress | creare slide per esposizioni |
-| Database d'ufficio | Access, Base | gestire dati strutturati in tabelle, query, maschere e report |
+| Database d’ufficio | Access, Base | gestire dati strutturati in tabelle, query, maschere e report |
 | Posta e calendario | Outlook, Thunderbird, webmail | gestire email, contatti, appuntamenti e messaggi |
 
 ![Figura 10.3 - File, Office e dati strutturati: distinguere file system, produttività personale e database.](../assets/chapter-10/03-file-office-dati.png)
+
+*Figura 10.3 - File, Office e dati strutturati: distinguere file system, produttività personale e database.*
 
 ### Videoscrittura: Word e programmi equivalenti
 
@@ -286,7 +292,7 @@ Un programma di videoscrittura serve a creare, modificare, formattare, salvare, 
 
 > [!NOTE]
 > **Come lo chiede la commissione**
-> Se la domanda parla di "formattare un testo", di norma si riferisce all'aspetto del documento: carattere, dimensione, stile, allineamento, spaziatura, margini. Se parla di "salvare con nome", si riferisce alla creazione di una copia con nome, posizione o formato diverso.
+> Se la domanda parla di “formattare un testo”, di norma si riferisce all’aspetto del documento: carattere, dimensione, stile, allineamento, spaziatura, margini. Se parla di “salvare con nome”, si riferisce alla creazione di una copia con nome, posizione o formato diverso.
 
 ### Fogli elettronici: Excel e programmi equivalenti
 
@@ -305,14 +311,14 @@ Le nozioni più richieste sono:
 - somma, media, minimo, massimo, conteggio;
 - formato numero, valuta, data, percentuale.
 
-Una **formula** è un'espressione inserita in una cella per calcolare un risultato. In molti fogli elettronici inizia con il segno `=`. Una **funzione** è una formula predefinita, come somma o media, che riceve argomenti e restituisce un risultato.
+Una **formula** è un’espressione inserita in una cella per calcolare un risultato. In molti fogli elettronici inizia con il segno `=`. Una **funzione** è una formula predefinita, come somma o media, che riceve argomenti e restituisce un risultato.
 
 | Concetto | Esempio | Significato |
 |---|---|---|
 | Riferimento relativo | `A1` | cambia se copiato in altre celle |
 | Riferimento assoluto | `$A$1` | resta bloccato su colonna e riga |
 | Intervallo | `A1: A10` | insieme di celle |
-| Formula | `=A1+B1` | calcolo scritto dall'utente |
+| Formula | `=A1+B1` | calcolo scritto dall’utente |
 | Funzione | `=SOMMA(A1: A10)` | calcolo predefinito |
 
 > [!WARNING]
@@ -323,11 +329,11 @@ Una **formula** è un'espressione inserita in una cella per calcolare un risulta
 
 Un programma di presentazione serve a creare **slide**. Ogni slide può contenere testo, immagini, tabelle, grafici, forme, collegamenti, audio o video. I concetti più frequenti sono layout, tema, transizione, animazione, visualizzazione relatore, note e modalità presentazione.
 
-La differenza tra **transizione** e **animazione** è utile: la transizione riguarda il passaggio da una slide all'altra; l'animazione riguarda l'ingresso, l'uscita o il movimento di oggetti dentro una slide.
+La differenza tra **transizione** e **animazione** è utile: la transizione riguarda il passaggio da una slide all’altra; l’animazione riguarda l’ingresso, l’uscita o il movimento di oggetti dentro una slide.
 
-### Database d'ufficio: Access e Base
+### Database d’ufficio: Access e Base
 
-Access e strumenti analoghi servono a creare piccoli database d'ufficio. I componenti principali sono:
+Access e strumenti analoghi servono a creare piccoli database d’ufficio. I componenti principali sono:
 
 - **tabelle**, dove si memorizzano i dati;
 - **query**, per interrogare o manipolare i dati;
@@ -348,6 +354,8 @@ La distinzione è essenziale: Internet e Web non sono sinonimi. La posta elettro
 > Il browser non è un motore di ricerca. Il browser è il programma con cui navighi, come Chrome, Edge, Firefox o Safari. Il motore di ricerca è un servizio che indicizza e cerca informazioni online.
 
 ![Figura 10.4 - Internet, Web e protocolli: browser, DNS, server, posta e cloud su livelli diversi della rete.](../assets/chapter-10/04-internet-reti-protocolli.png)
+
+*Figura 10.4 - Internet, Web e protocolli: browser, DNS, server, posta e cloud su livelli diversi della rete.*
 
 ### Browser, URL e navigazione
 
@@ -381,7 +389,7 @@ In un concorso, se una domanda chiede cosa indica `https`, la risposta corretta 
 
 **HTTP** è il protocollo usato per trasferire pagine e risorse Web. **HTTPS** è HTTP protetto tramite meccanismi crittografici, utile per garantire riservatezza e integrità della comunicazione e per autenticare il sito tramite certificati.
 
-Il **DNS** traduce nomi di dominio leggibili, come `www.ente.it`, in indirizzi IP utilizzabili dai sistemi di rete. Senza DNS, l'utente dovrebbe raggiungere molti servizi usando numeri difficili da ricordare.
+Il **DNS** traduce nomi di dominio leggibili, come `www.ente.it`, in indirizzi IP utilizzabili dai sistemi di rete. Senza DNS, l’utente dovrebbe raggiungere molti servizi usando numeri difficili da ricordare.
 
 Il **dominio** è un nome assegnato secondo regole gerarchiche. Nei quiz viene spesso chiesto il significato di estensioni come `.it`, `.eu`, `.com`, `.org`, oppure la differenza tra dominio, indirizzo IP e URL.
 
@@ -410,7 +418,7 @@ I protocolli citati nei quiz possono includere:
 
 ### PEC
 
-La **posta elettronica certificata** è un sistema di trasmissione telematica che fornisce evidenze opponibili sull'invio e sulla consegna del messaggio, secondo la disciplina applicabile. Nei concorsi PA va studiata non come "email più sicura" in senso generico, ma come strumento giuridico-organizzativo per comunicazioni aventi valore.
+La **posta elettronica certificata** è un sistema di trasmissione telematica che fornisce evidenze opponibili sull’invio e sulla consegna del messaggio, secondo la disciplina applicabile. Nei concorsi PA va studiata non come “email più sicura” in senso generico, ma come strumento giuridico-organizzativo per comunicazioni aventi valore.
 
 La PEC è collegata a:
 
@@ -423,13 +431,13 @@ La PEC è collegata a:
 
 > [!WARNING]
 > **Domanda-trappola**
-> Una PEC non coincide automaticamente con una firma digitale. La PEC riguarda il canale di trasmissione e le evidenze di invio e consegna. La firma digitale riguarda l'autenticità, l'integrità e la riconducibilità del documento informatico al firmatario.
+> Una PEC non coincide automaticamente con una firma digitale. La PEC riguarda il canale di trasmissione e le evidenze di invio e consegna. La firma digitale riguarda l’autenticità, l’integrità e la riconducibilità del documento informatico al firmatario.
 
 ### Servizi cloud e collaborazione online
 
-Il **cloud computing** consente di usare risorse informatiche tramite rete: archiviazione, applicazioni, server, piattaforme e servizi. Per l'utente comune il cloud appare come spazio online o applicazione accessibile via browser; per la PA è anche un tema di qualificazione dei servizi, sicurezza, localizzazione, continuità e gestione del rischio.
+Il **cloud computing** consente di usare risorse informatiche tramite rete: archiviazione, applicazioni, server, piattaforme e servizi. Per l’utente comune il cloud appare come spazio online o applicazione accessibile via browser; per la PA è anche un tema di qualificazione dei servizi, sicurezza, localizzazione, continuità e gestione del rischio.
 
-Nei quiz di base, il cloud viene chiesto come archiviazione remota o servizio accessibile via Internet. Nei concorsi PA, invece, può essere collegato al Piano triennale per l'informatica nella pubblica amministrazione, alla classificazione dei dati e servizi, alla qualificazione dei fornitori e alle strategie nazionali di trasformazione digitale.
+Nei quiz di base, il cloud viene chiesto come archiviazione remota o servizio accessibile via Internet. Nei concorsi PA, invece, può essere collegato al Piano triennale per l’informatica nella pubblica amministrazione, alla classificazione dei dati e servizi, alla qualificazione dei fornitori e alle strategie nazionali di trasformazione digitale.
 
 ## 5. Reti e protocolli
 
@@ -441,7 +449,7 @@ Una **rete informatica** collega dispositivi per consentire comunicazione e cond
 | WAN | rete geografica, estesa su grandi distanze |
 | WLAN | rete locale senza fili |
 | Internet | rete mondiale di reti |
-| Intranet | rete interna di un'organizzazione, basata su tecnologie Internet ma accessibile a utenti autorizzati |
+| Intranet | rete interna di un’organizzazione, basata su tecnologie Internet ma accessibile a utenti autorizzati |
 | Extranet | estensione controllata della rete verso soggetti esterni autorizzati |
 
 ### Client, server e modello di comunicazione
@@ -452,7 +460,7 @@ Nel modello **peer-to-peer**, i nodi possono comunicare tra loro in modo più pa
 
 ### Indirizzo IP, TCP/IP e pacchetti
 
-L'**indirizzo IP** identifica un dispositivo o un'interfaccia in una rete che usa il protocollo IP. Il protocollo IP si occupa dell'indirizzamento e dell'instradamento dei pacchetti. TCP contribuisce a rendere affidabile la trasmissione tra applicazioni, ordinando e controllando i dati trasmessi.
+L’**indirizzo IP** identifica un dispositivo o un’interfaccia in una rete che usa il protocollo IP. Il protocollo IP si occupa dell’indirizzamento e dell’instradamento dei pacchetti. TCP contribuisce a rendere affidabile la trasmissione tra applicazioni, ordinando e controllando i dati trasmessi.
 
 La famiglia **TCP/IP** è alla base del funzionamento di Internet e di molte reti moderne. Nei concorsi non serve di solito conoscere dettagli tecnici profondi, ma bisogna sapere che TCP/IP non è un singolo programma: è un insieme di protocolli.
 
@@ -461,8 +469,8 @@ La famiglia **TCP/IP** è alla base del funzionamento di Internet e di molte ret
 | Dispositivo | Funzione |
 |---|---|
 | Router | instrada il traffico tra reti diverse |
-| Switch | collega dispositivi all'interno di una rete locale e inoltra frame verso il destinatario corretto |
-| Modem | modula/demodula o comunque consente l'accesso alla rete del fornitore secondo la tecnologia usata |
+| Switch | collega dispositivi all’interno di una rete locale e inoltra frame verso il destinatario corretto |
+| Modem | modula/demodula o comunque consente l’accesso alla rete del fornitore secondo la tecnologia usata |
 | Access point | permette a dispositivi wireless di connettersi a una rete |
 | Firewall | filtra il traffico secondo regole di sicurezza |
 
@@ -491,11 +499,11 @@ La sicurezza informatica mira a proteggere dati, sistemi, reti e servizi. Nei co
 - **integrità**, cioè correttezza e non alterazione indebita dei dati;
 - **disponibilità**, cioè possibilità di usare sistemi e informazioni quando necessario.
 
-Questi obiettivi sono spesso indicati come triade CIA, dall'inglese confidentiality, integrity, availability.
+Questi obiettivi sono spesso indicati come triade CIA, dall’inglese confidentiality, integrity, availability.
 
 ### Password, autenticazione e autorizzazione
 
-L'**autenticazione** verifica l'identità di un soggetto. L'**autorizzazione** stabilisce cosa quel soggetto può fare dopo essere stato autenticato.
+L’**autenticazione** verifica l’identità di un soggetto. L’**autorizzazione** stabilisce cosa quel soggetto può fare dopo essere stato autenticato.
 
 Una password efficace dovrebbe essere:
 
@@ -506,7 +514,7 @@ Una password efficace dovrebbe essere:
 - protetta da sistemi di gestione adeguati;
 - accompagnata, quando previsto, da autenticazione a più fattori.
 
-La **MFA** o autenticazione multifattore richiede più fattori di verifica, ad esempio qualcosa che sai, qualcosa che possiedi e qualcosa che sei. Nei servizi pubblici digitali, il tema si collega anche ai livelli di sicurezza dell'identità digitale.
+La **MFA** o autenticazione multifattore richiede più fattori di verifica, ad esempio qualcosa che sai, qualcosa che possiedi e qualcosa che sei. Nei servizi pubblici digitali, il tema si collega anche ai livelli di sicurezza dell’identità digitale.
 
 > [!WARNING]
 > **Domanda-trappola**
@@ -516,7 +524,7 @@ La **MFA** o autenticazione multifattore richiede più fattori di verifica, ad e
 
 Il **malware** è software malevolo. Il **virus** è un tipo di malware capace di replicarsi infettando altri file o programmi. Altri tipi di minacce includono ransomware, spyware, trojan e worm.
 
-Il **phishing** è un tentativo di ingannare l'utente per ottenere credenziali, dati o azioni pericolose. Può arrivare via email, SMS, messaggi, siti falsi o telefonate. In ambito PA è particolarmente critico perché un errore può compromettere dati personali, servizi pubblici o sistemi interni.
+Il **phishing** è un tentativo di ingannare l’utente per ottenere credenziali, dati o azioni pericolose. Può arrivare via email, SMS, messaggi, siti falsi o telefonate. In ambito PA è particolarmente critico perché un errore può compromettere dati personali, servizi pubblici o sistemi interni.
 
 Difese essenziali:
 
@@ -532,7 +540,7 @@ Difese essenziali:
 
 ### Antivirus, firewall, backup e aggiornamenti
 
-L'**antivirus** rileva, blocca o rimuove software malevolo. Il **firewall** filtra il traffico di rete in base a regole. Il **backup** crea copie di sicurezza dei dati, utili in caso di errore, guasto, cancellazione, attacco o disastro. Gli **aggiornamenti** correggono vulnerabilità, migliorano stabilità e introducono nuove funzioni.
+L’**antivirus** rileva, blocca o rimuove software malevolo. Il **firewall** filtra il traffico di rete in base a regole. Il **backup** crea copie di sicurezza dei dati, utili in caso di errore, guasto, cancellazione, attacco o disastro. Gli **aggiornamenti** correggono vulnerabilità, migliorano stabilità e introducono nuove funzioni.
 
 Un backup è utile solo se:
 
@@ -550,153 +558,62 @@ Un backup è utile solo se:
 
 La **crittografia** protegge le informazioni trasformandole in una forma non leggibile senza chiave. Può essere usata per proteggere comunicazioni, archivi, dispositivi e documenti.
 
-La **firma digitale** usa strumenti crittografici e certificati per garantire autenticità, integrità e non ripudio secondo la disciplina applicabile. Nei quiz, la firma digitale viene spesso collegata al documento informatico e non va confusa con una firma scansionata o con l'inserimento di un'immagine nel documento.
+La **firma digitale** usa strumenti crittografici e certificati per garantire autenticità, integrità e non ripudio secondo la disciplina applicabile. Nei quiz, la firma digitale viene spesso collegata al documento informatico e non va confusa con una firma scansionata o con l’inserimento di un’immagine nel documento.
 
 I **certificati digitali** servono ad associare chiavi e identità secondo regole tecniche e organizzative. Nel Web, il certificato di un sito contribuisce alla connessione HTTPS.
 
 ### Sicurezza nella PA e NIS2
 
-Per la pubblica amministrazione, la sicurezza informatica non è solo una buona pratica tecnica. È parte della continuità dei servizi, della protezione dei dati personali, della fiducia dei cittadini e della capacità dell'ente di svolgere le proprie funzioni.
+Per la pubblica amministrazione, la sicurezza informatica non è solo una buona pratica tecnica. È parte della continuità dei servizi, della protezione dei dati personali, della fiducia dei cittadini e della capacità dell’ente di svolgere le proprie funzioni.
 
 La disciplina europea e nazionale in materia di cybersicurezza ha rafforzato obblighi di gestione del rischio, prevenzione, governance, incident reporting e misure tecniche-organizzative per soggetti essenziali e importanti. In Italia il riferimento normativo di recepimento della direttiva NIS2 è il decreto legislativo 4 settembre 2024, n. 138.
 
 > [!IMPORTANT]
 > **Da ricordare**
-> Per un concorso non basta dire "installare antivirus". La risposta completa sulla sicurezza deve citare misure tecniche, misure organizzative, formazione, controllo degli accessi, backup, gestione degli incidenti, protezione dei dati personali e continuità dei servizi.
+> Per un concorso non basta dire “installare antivirus”. La risposta completa sulla sicurezza deve citare misure tecniche, misure organizzative, formazione, controllo degli accessi, backup, gestione degli incidenti, protezione dei dati personali e continuità dei servizi.
 
 ![Figura 10.5 - Sicurezza informatica nella PA: minacce, controlli e risposta agli incidenti.](../assets/chapter-10/05-sicurezza-informatica-pa.png)
+
+*Figura 10.5 - Sicurezza informatica nella PA: minacce, controlli e risposta agli incidenti.*
 
 ## 7. Database e SQL
 
 Un **database** è una raccolta organizzata di dati, gestita in modo da consentire inserimento, ricerca, aggiornamento, eliminazione, controllo degli accessi e conservazione coerente. Un **DBMS** è il sistema software che gestisce il database. Esempi ricorrenti sono Access, MySQL, PostgreSQL, SQL Server e Oracle.
 
-Nel modello relazionale, i dati sono organizzati in tabelle.
+Nel modello relazionale i dati sono organizzati in tabelle: la **tabella** raccoglie dati omogenei, il **record** (o riga) è una singola occorrenza, il **campo** (o colonna) è un attributo del record, la **chiave primaria** identifica univocamente ogni record. “Record” e “campo” non sono sinonimi: il record è la riga completa relativa a un soggetto, il campo è una singola informazione al suo interno, come il cognome.
 
-| Concetto | Significato |
-|---|---|
-| Tabella | struttura che raccoglie dati omogenei |
-| Record o riga | singola occorrenza nella tabella |
-| Campo o colonna | attributo del record |
-| Chiave primaria | campo o insieme di campi che identifica univocamente un record |
-| Chiave esterna | campo che collega una tabella a un'altra |
-| Relazione | collegamento logico tra tabelle |
-| Query | interrogazione o operazione sui dati |
-
-Esempio: una tabella `Cittadini` può avere campi come `ID`, `Nome`, `Cognome`, `CodiceFiscale`, `ComuneResidenza`. Ogni riga rappresenta un cittadino. Il campo `ID` può essere chiave primaria.
-
-> [!WARNING]
-> **Domanda-trappola**
-> "Record" e "campo" non sono sinonimi. Il record è la riga completa relativa a un soggetto o evento. Il campo è una singola informazione, come cognome o data di nascita.
-
-### SQL essenziale
-
-SQL è un linguaggio usato per interrogare e gestire basi di dati relazionali. Nei concorsi generali si richiede soprattutto il riconoscimento dei comandi di base.
-
-Una query di selezione può avere questa forma:
+SQL è il linguaggio usato per interrogare e gestire basi di dati relazionali. Nei concorsi generali si richiede soprattutto il riconoscimento dei comandi di base:
 
 ```sql
 SELECT Cognome, Nome
 FROM Dipendenti
-WHERE Ufficio = 'Anagrafè;
+WHERE Ufficio = 'Anagrafe';
 ```
 
-Il significato è:
+`SELECT` indica i campi da visualizzare, `FROM` la tabella di origine, `WHERE` la condizione di filtro. Se la domanda chiede quale istruzione serve a interrogare una tabella, la risposta più probabile è `SELECT`; se chiede di filtrare i record, `WHERE`.
 
-- `SELECT` indica i campi da visualizzare;
-- `FROM` indica la tabella;
-- `WHERE` indica la condizione.
-
-Altri concetti frequenti:
-
-| Clausola o comando | Funzione generale |
-|---|---|
-| `ORDER BY` | ordina i risultati |
-| `GROUP BY` | raggruppa i risultati |
-| `JOIN` | collega dati provenienti da più tabelle |
-| `INSERT` | inserisce dati |
-| `UPDATE` | aggiorna dati |
-| `DELETE` | elimina dati |
-
-> [!TIP]
-> **Regola da quiz**
-> Se la domanda chiede "quale istruzione SQL serve a interrogare una tabella", la risposta più probabile è `SELECT`. Se chiede "filtrare i record", cerca `WHERE`. Se chiede "ordinare", cerca `ORDER BY`.
-
-### Database e amministrazione pubblica
-
-La PA lavora continuamente con basi di dati: anagrafe, tributi, personale, protocollo, contabilità, appalti, servizi sociali, fascicoli procedimentali. La competenza richiesta non è progettare sistemi complessi, ma capire che i dati devono essere:
-
-- corretti;
-- aggiornati;
-- coerenti;
-- accessibili solo a chi è autorizzato;
-- interoperabili quando previsto;
-- protetti;
-- conservati secondo regole;
-- utilizzabili per servizi e decisioni.
+La PA lavora continuamente con basi di dati — anagrafe, tributi, personale, protocollo, contabilità — che devono restare corrette, aggiornate, accessibili solo a chi è autorizzato e conservate secondo regole. La competenza richiesta al concorso non è progettare sistemi complessi, ma riconoscere questi principi.
 
 ## 8. Programmazione, linguaggi, HTML, XML e algoritmi
 
-Un **programma** è un insieme di istruzioni eseguibili da un computer. Un **linguaggio di programmazione** consente di scrivere queste istruzioni secondo una sintassi. Nei concorsi possono comparire nomi come Java, Visual Basic, Python, C, JavaScript, HTML e XML. Attenzione: HTML e XML non sono di norma linguaggi di programmazione in senso stretto, ma linguaggi di marcatura.
+Un **programma** è un insieme di istruzioni eseguibili da un computer, scritte in un **linguaggio di programmazione** secondo una sintassi. Nei concorsi possono comparire nomi come Java, Python, JavaScript, HTML e XML; attenzione, però: HTML e XML non sono linguaggi di programmazione in senso stretto, ma linguaggi di marcatura.
 
-### Algoritmo
+Un **algoritmo** è una sequenza finita e ordinata di passi che risolve un problema: deve avere input definiti, output definiti e un ordine logico non ambiguo. Le domande non chiedono quasi mai di scrivere programmi; chiedono di riconoscere il significato di algoritmo, variabile (un contenitore di un valore), funzione (istruzioni riutilizzabili), condizione (scelta tra percorsi alternativi) e ciclo (istruzioni ripetute).
 
-Un **algoritmo** è una sequenza finita e ordinata di passi che risolve un problema o esegue un compito. Può essere espresso in linguaggio naturale, diagrammi di flusso, pseudocodice o codice.
-
-Caratteristiche desiderabili:
-
-- finitezza;
-- non ambiguità;
-- input definiti;
-- output definiti;
-- efficacia dei passi;
-- ordine logico.
-
-Esempio amministrativo: per protocollare un documento ricevuto si possono descrivere passi ordinati: ricezione, verifica, classificazione, registrazione, assegnazione, fascicolazione, comunicazione o conservazione. Non è programmazione in senso stretto, ma mostra il concetto di procedura ordinata.
-
-### Variabili, funzioni, condizioni e cicli
-
-Una **variabile** è un contenitore simbolico di un valore. Una **funzione** è un blocco di istruzioni che riceve input e restituisce o produce un risultato. Una **condizione** permette di eseguire istruzioni diverse in base al verificarsi di un caso. Un **ciclo** ripete istruzioni finché una condizione è vera o per un numero determinato di volte.
-
-| Concetto | Idea chiave |
-|---|---|
-| Variabile | conserva un valore |
-| Costante | conserva un valore non modificabile durante l'esecuzione |
-| Funzione | raggruppa istruzioni riutilizzabili |
-| Condizione | sceglie tra percorsi alternativi |
-| Ciclo | ripete istruzioni |
-| Debug | ricerca e correzione di errori |
-| Compilatore/interprete | traduce o esegue codice secondo il linguaggio |
+**HTML** struttura pagine web con elementi e tag (titoli, paragrafi, link, immagini). **XML** rappresenta dati strutturati con tag definiti secondo regole, ed è usato nella PA per interoperabilità, documenti strutturati e fatturazione elettronica. Il trabocchetto più frequente: HTML non è il protocollo del Web — quello è HTTP/HTTPS. Il browser usa HTTP/HTTPS per ottenere le risorse e interpreta HTML per visualizzarle.
 
 > [!NOTE]
-> **Come lo chiede la commissione**
-> Le domande non chiedono quasi mai di scrivere programmi complessi. Chiedono di riconoscere il significato di algoritmo, variabile, funzione, ciclo, condizione, codice sorgente, compilazione, interpretazione e linguaggio.
-
-### HTML e XML
-
-**HTML** è un linguaggio di marcatura usato per strutturare pagine web. Usa elementi e tag per indicare titoli, paragrafi, link, immagini, tabelle e moduli.
-
-**XML** è un linguaggio di marcatura estensibile, usato per rappresentare dati strutturati con tag definiti secondo regole. Nei concorsi PA può comparire anche per il collegamento con interoperabilità, documenti strutturati, fatturazione elettronica e scambio dati.
-
-Differenza essenziale:
-
-| Linguaggio | Uso principale |
-|---|---|
-| HTML | presentare e strutturare contenuti web |
-| XML | rappresentare e scambiare dati strutturati |
-
-> [!WARNING]
-> **Domanda-trappola**
-> HTML non è il protocollo del Web. Il protocollo è HTTP/HTTPS. HTML è il linguaggio di marcatura del contenuto. Il browser usa HTTP/HTTPS per ottenere risorse e interpreta HTML per visualizzarle.
+> Per un approfondimento tecnico su linguaggi, strutture dati e programmazione applicata alla PA, il modulo verticale ICT e trasformazione digitale (M-TR01) riprende questi temi in profondità.
 
 ## 9. Formati, codifica e qualità dei dati
 
-Il formato di un file stabilisce come i dati sono organizzati al suo interno. L'estensione aiuta a riconoscere il formato, ma non è garanzia assoluta.
+Il formato di un file stabilisce come i dati sono organizzati al suo interno. L’estensione aiuta a riconoscere il formato, ma non è garanzia assoluta.
 
 ### Dati analogici e digitali
 
 Un dato **analogico** varia in modo continuo, come un segnale sonoro naturale. Un dato **digitale** è rappresentato mediante valori discreti, elaborabili da sistemi informatici. Digitalizzare significa trasformare un contenuto analogico in forma digitale, ad esempio scansionare un documento cartaceo o registrare un audio in formato digitale.
 
-La scansione di un documento cartaceo produce un'immagine digitale del documento, ma non equivale automaticamente a creare un documento informatico firmato digitalmente o a rendere il testo ricercabile. Per rendere il testo ricercabile può servire il riconoscimento ottico dei caratteri, cioè OCR.
+La scansione di un documento cartaceo produce un’immagine digitale del documento, ma non equivale automaticamente a creare un documento informatico firmato digitalmente o a rendere il testo ricercabile. Per rendere il testo ricercabile può servire il riconoscimento ottico dei caratteri, cioè OCR.
 
 ### Codifica dei caratteri
 
@@ -704,7 +621,7 @@ I computer devono rappresentare lettere, numeri e simboli con codici. La **codif
 
 Nei concorsi il punto centrale è sapere che:
 
-- i caratteri non sono "memorizzati magicamente", ma codificati;
+- i caratteri non sono “memorizzati magicamente”, ma codificati;
 - codifiche diverse possono causare visualizzazioni errate;
 - Unicode mira a rappresentare in modo uniforme caratteri di lingue diverse.
 
@@ -727,9 +644,9 @@ Un dato utile per la PA deve essere accurato, aggiornato, comprensibile, interop
 
 ## 10. CAD e amministrazione digitale
 
-Il **Codice dell'amministrazione digitale** è il riferimento centrale per i rapporti digitali tra cittadini, imprese e pubbliche amministrazioni e per l'uso delle tecnologie nei procedimenti amministrativi. Nei concorsi, il CAD viene chiesto soprattutto attraverso istituti concreti: documento informatico, firma digitale, PEC, domicilio digitale, identità digitale, pagamenti elettronici, interoperabilità, dati pubblici, servizi online, conservazione e accessibilità.
+Il **Codice dell’amministrazione digitale** è il riferimento centrale per i rapporti digitali tra cittadini, imprese e pubbliche amministrazioni e per l’uso delle tecnologie nei procedimenti amministrativi. Nei concorsi, il CAD viene chiesto soprattutto attraverso istituti concreti: documento informatico, firma digitale, PEC, domicilio digitale, identità digitale, pagamenti elettronici, interoperabilità, dati pubblici, servizi online, conservazione e accessibilità.
 
-L'idea di fondo è che la PA digitale non è una PA che usa semplicemente il computer. È una PA che progetta servizi, documenti, comunicazioni, pagamenti e dati in modo digitale, sicuro, accessibile, interoperabile e orientato all'utente.
+L’idea di fondo è che la PA digitale non è una PA che usa semplicemente il computer. È una PA che progetta servizi, documenti, comunicazioni, pagamenti e dati in modo digitale, sicuro, accessibile, interoperabile e orientato all’utente.
 
 ### Diritti digitali e servizi pubblici
 
@@ -750,9 +667,11 @@ Nel quadro della cittadinanza digitale, cittadini e imprese devono poter interag
 
 ![Figura 10.6 - Ecosistema della PA digitale: CAD, identità, documenti, comunicazioni, pagamenti, dati e qualità dei servizi.](../assets/chapter-10/06-ecosistema-pa-digitale.png)
 
+*Figura 10.6 - Ecosistema della PA digitale: CAD, identità, documenti, comunicazioni, pagamenti, dati e qualità dei servizi.*
+
 ### Responsabile per la transizione digitale
 
-Il responsabile per la transizione digitale coordina il percorso dell'amministrazione verso l'uso coerente delle tecnologie digitali. Nei concorsi può essere collegato a organizzazione, interoperabilità, sicurezza, accessibilità, servizi online, gestione documentale e attuazione delle strategie nazionali.
+Il responsabile per la transizione digitale coordina il percorso dell’amministrazione verso l’uso coerente delle tecnologie digitali. Nei concorsi può essere collegato a organizzazione, interoperabilità, sicurezza, accessibilità, servizi online, gestione documentale e attuazione delle strategie nazionali.
 
 Non è una figura meramente tecnica. Ha un ruolo organizzativo: promuove processi digitali, coordina uffici, favorisce standard, razionalizzazione, sicurezza e qualità dei servizi.
 
@@ -820,15 +739,15 @@ Non garantisce, da sola, che il contenuto sia vero in senso materiale. Garantisc
 
 > [!WARNING]
 > **Domanda-trappola**
-> Inserire un'immagine della firma autografa in un file non equivale a firma digitale. Scansionare un documento firmato a mano non trasforma automaticamente quel file in documento firmato digitalmente.
+> Inserire un’immagine della firma autografa in un file non equivale a firma digitale. Scansionare un documento firmato a mano non trasforma automaticamente quel file in documento firmato digitalmente.
 
 ### Marca temporale
 
-La marca temporale associa a un documento una data e un'ora opponibili secondo il sistema previsto. Serve a provare l'esistenza del documento in un determinato momento e può essere usata insieme alla firma digitale.
+La marca temporale associa a un documento una data e un’ora opponibili secondo il sistema previsto. Serve a provare l’esistenza del documento in un determinato momento e può essere usata insieme alla firma digitale.
 
 ## 13. PEC, domicilio digitale e comunicazioni telematiche
 
-La **PEC** è un canale di comunicazione certificata. Il **domicilio digitale** è l'indirizzo elettronico eletto presso un servizio qualificato, utilizzabile per comunicazioni aventi valore legale secondo la disciplina applicabile.
+La **PEC** è un canale di comunicazione certificata. Il **domicilio digitale** è l’indirizzo elettronico eletto presso un servizio qualificato, utilizzabile per comunicazioni aventi valore legale secondo la disciplina applicabile.
 
 Gli indici e registri collegati al domicilio digitale possono riguardare:
 
@@ -836,7 +755,7 @@ Gli indici e registri collegati al domicilio digitale possono riguardare:
 - imprese e professionisti;
 - persone fisiche che eleggono domicilio digitale.
 
-Nei concorsi possono comparire acronimi e strumenti come IPA, INI-PEC e INAD. L'importante è capire la funzione: rendere reperibili indirizzi digitali qualificati per comunicazioni ufficiali.
+Nei concorsi possono comparire acronimi e strumenti come IPA, INI-PEC e INAD. L’importante è capire la funzione: rendere reperibili indirizzi digitali qualificati per comunicazioni ufficiali.
 
 | Concetto | Funzione |
 |---|---|
@@ -848,17 +767,17 @@ Nei concorsi possono comparire acronimi e strumenti come IPA, INI-PEC e INAD. L'
 
 > [!NOTE]
 > **Risposta modello**
-> La PEC non è solo una normale email. È un sistema di trasmissione che produce ricevute e consente di attestare invio e consegna. Il domicilio digitale, invece, individua l'indirizzo elettronico presso cui un soggetto può ricevere comunicazioni aventi valore secondo la normativa.
+> La PEC non è solo una normale email. È un sistema di trasmissione che produce ricevute e consente di attestare invio e consegna. Il domicilio digitale, invece, individua l’indirizzo elettronico presso cui un soggetto può ricevere comunicazioni aventi valore secondo la normativa.
 
 ## 14. Identità digitale: SPID, CIE e CNS
 
-L'accesso ai servizi digitali della PA richiede strumenti di identificazione sicuri. I tre acronimi più richiesti sono **SPID**, **CIE** e **CNS**.
+L’accesso ai servizi digitali della PA richiede strumenti di identificazione sicuri. I tre acronimi più richiesti sono **SPID**, **CIE** e **CNS**.
 
-| Strumento | Che cos'è | Funzione |
+| Strumento | Che cos’è | Funzione |
 |---|---|---|
-| SPID | Sistema Pubblico di Identità Digitale | consente l'accesso ai servizi online con credenziali rilasciate da gestori accreditati |
-| CIE | Carta d'Identità Elettronica | documento di identità fisico e digitale, utilizzabile anche per accesso ai servizi |
-| CNS | Carta Nazionale dei Servizi | strumento per l'accesso ai servizi in rete, spesso basato su certificati |
+| SPID | Sistema Pubblico di Identità Digitale | consente l’accesso ai servizi online con credenziali rilasciate da gestori accreditati |
+| CIE | Carta d’Identità Elettronica | documento di identità fisico e digitale, utilizzabile anche per accesso ai servizi |
+| CNS | Carta Nazionale dei Servizi | strumento per l’accesso ai servizi in rete, spesso basato su certificati |
 
 Nei quiz, SPID, CIE e CNS vengono usati per verificare se il candidato distingue:
 
@@ -871,13 +790,13 @@ Nei quiz, SPID, CIE e CNS vengono usati per verificare se il candidato distingue
 
 > [!WARNING]
 > **Domanda-trappola**
-> SPID non è una PEC e non è una firma digitale. Serve all'identificazione e autenticazione per accedere ai servizi. La PEC serve alla trasmissione certificata. La firma digitale serve alla sottoscrizione del documento informatico.
+> SPID non è una PEC e non è una firma digitale. Serve all’identificazione e autenticazione per accedere ai servizi. La PEC serve alla trasmissione certificata. La firma digitale serve alla sottoscrizione del documento informatico.
 
 ### Livelli di sicurezza e accesso ai servizi
 
 Gli strumenti di identità digitale possono prevedere livelli o modalità diverse di autenticazione, in base al rischio del servizio. Un servizio informativo semplice richiede garanzie diverse rispetto a un servizio che consente di consultare dati personali, presentare istanze o compiere operazioni con effetti giuridici.
 
-La logica da ricordare è: più è delicato il servizio, più deve essere robusta l'identificazione dell'utente.
+La logica da ricordare è: più è delicato il servizio, più deve essere robusta l’identificazione dell’utente.
 
 ## 15. Servizi digitali della PA
 
@@ -885,7 +804,7 @@ La PA digitale si manifesta in servizi concreti. Nei concorsi è utile conoscere
 
 ### ANPR
 
-L'**Anagrafe Nazionale della Popolazione Residente** è una banca dati nazionale che consente la gestione unitaria delle informazioni anagrafiche. Per il cittadino significa servizi anagrafici più accessibili e uniformi; per gli enti significa riduzione di duplicazioni e maggiore interoperabilità.
+L’**Anagrafe Nazionale della Popolazione Residente** è una banca dati nazionale che consente la gestione unitaria delle informazioni anagrafiche. Per il cittadino significa servizi anagrafici più accessibili e uniformi; per gli enti significa riduzione di duplicazioni e maggiore interoperabilità.
 
 ### pagoPA
 
@@ -899,15 +818,15 @@ La domanda tipica non chiede di compilare una fattura, ma di sapere che la fattu
 
 ### App IO
 
-L'**App IO** è un punto di accesso ai servizi pubblici digitali e alle comunicazioni tra enti e cittadini. Nei concorsi può essere collegata a notifiche, pagamenti, servizi e cittadinanza digitale.
+L’**App IO** è un punto di accesso ai servizi pubblici digitali e alle comunicazioni tra enti e cittadini. Nei concorsi può essere collegata a notifiche, pagamenti, servizi e cittadinanza digitale.
 
 ### PND/SEND
 
 La piattaforma per le notifiche digitali, nota anche come SEND, supporta la gestione delle notifiche a valore legale in modalità digitale. Va collegata al tema più ampio delle comunicazioni digitali, del domicilio digitale e della semplificazione dei rapporti tra PA e cittadini.
 
-### Piano Triennale per l'informatica nella PA: Aggiornamento 2026
+### Piano Triennale per l’informatica nella PA
 
-L'Aggiornamento 2026 del Piano Triennale per l'informatica nella PA 2024-2026 è il quadro di programmazione che accompagna le amministrazioni verso servizi più interoperabili, semplici, sicuri e inclusivi. L'aggiornamento consolida, tra l'altro, gestione documentale, interoperabilità, servizi centrati sull'utente e strumenti di supporto alle amministrazioni. Ai fini concorsuali, il punto non è memorizzare bandi o scadenze mutevoli, ma capire la direzione e tradurla in funzioni amministrative concrete.
+Il Piano Triennale per l’informatica nella PA, nella versione vigente al momento della prova, è il quadro di programmazione che accompagna le amministrazioni verso servizi più interoperabili, semplici, sicuri e inclusivi. Ogni aggiornamento consolida, tra l’altro, gestione documentale, interoperabilità, servizi centrati sull’utente e strumenti di supporto alle amministrazioni. Ai fini concorsuali, il punto non è memorizzare bandi o scadenze mutevoli, ma capire la direzione e tradurla in funzioni amministrative concrete.
 
 > [!TIP]
 > **Come lo chiede la commissione**
@@ -915,9 +834,9 @@ L'Aggiornamento 2026 del Piano Triennale per l'informatica nella PA 2024-2026 è
 
 ## 16. Interoperabilità, PDND, open data e API
 
-L'**interoperabilità** è la capacità di sistemi, organizzazioni e banche dati di scambiare informazioni e usarle correttamente. Nella PA è decisiva per evitare che cittadini e imprese debbano fornire più volte dati già in possesso delle amministrazioni.
+L’**interoperabilità** è la capacità di sistemi, organizzazioni e banche dati di scambiare informazioni e usarle correttamente. Nella PA è decisiva per evitare che cittadini e imprese debbano fornire più volte dati già in possesso delle amministrazioni.
 
-L'interoperabilità richiede:
+L’interoperabilità richiede:
 
 - regole comuni;
 - standard tecnici;
@@ -932,11 +851,11 @@ L'interoperabilità richiede:
 
 La **Piattaforma Digitale Nazionale Dati** sostiene lo scambio di dati tra pubbliche amministrazioni e soggetti abilitati attraverso interfacce e regole comuni. Nei concorsi va collegata al principio di interoperabilità e alla riduzione degli oneri per cittadini e imprese.
 
-Non significa che tutti vedono tutto. L'accesso ai dati deve rispettare finalità, autorizzazioni, sicurezza, protezione dei dati personali e regole di fruizione.
+Non significa che tutti vedono tutto. L’accesso ai dati deve rispettare finalità, autorizzazioni, sicurezza, protezione dei dati personali e regole di fruizione.
 
 ### API
 
-Le **API** sono interfacce che permettono a sistemi software di comunicare. In ambito PA consentono, ad esempio, a un servizio di interrogare una banca dati o ricevere informazioni da un'altra amministrazione secondo modalità standardizzate.
+Le **API** sono interfacce che permettono a sistemi software di comunicare. In ambito PA consentono, ad esempio, a un servizio di interrogare una banca dati o ricevere informazioni da un’altra amministrazione secondo modalità standardizzate.
 
 > [!WARNING]
 > **Domanda-trappola**
@@ -978,17 +897,17 @@ La PA deve valutare classificazione dei dati e servizi, sicurezza, continuità, 
 
 ### Accessibilità
 
-Un servizio digitale pubblico deve essere accessibile anche alle persone con disabilità. L'accessibilità riguarda testi, contrasti, navigazione da tastiera, compatibilità con tecnologie assistive, struttura delle pagine, moduli, documenti e contenuti multimediali.
+Un servizio digitale pubblico deve essere accessibile anche alle persone con disabilità. L’accessibilità riguarda testi, contrasti, navigazione da tastiera, compatibilità con tecnologie assistive, struttura delle pagine, moduli, documenti e contenuti multimediali.
 
-Nei concorsi, accessibilità non significa solo "sito bello" o "facile da usare". Significa rimozione di barriere digitali e rispetto di obblighi tecnici e organizzativi.
+Nei concorsi, accessibilità non significa solo “sito bello” o “facile da usare”. Significa rimozione di barriere digitali e rispetto di obblighi tecnici e organizzativi.
 
 ### Esperienza utente e linguaggio chiaro
 
-I servizi digitali devono essere comprensibili. Un modulo online che chiede dati inutili, usa linguaggio oscuro, non salva le bozze o non comunica errori in modo chiaro produce inefficienza amministrativa. La qualità del servizio digitale è parte della qualità dell'azione pubblica.
+I servizi digitali devono essere comprensibili. Un modulo online che chiede dati inutili, usa linguaggio oscuro, non salva le bozze o non comunica errori in modo chiaro produce inefficienza amministrativa. La qualità del servizio digitale è parte della qualità dell’azione pubblica.
 
 > [!TIP]
 > **BANDO in pratica**
-> Quando una domanda parla di "digitalizzazione", chiediti sempre se riguarda infrastruttura, servizio, dato, documento, identità, pagamento, comunicazione, sicurezza o accessibilità. La parola è unica, ma gli istituti sono diversi.
+> Quando una domanda parla di “digitalizzazione”, chiediti sempre se riguarda infrastruttura, servizio, dato, documento, identità, pagamento, comunicazione, sicurezza o accessibilità. La parola è unica, ma gli istituti sono diversi.
 
 ## 18. Privacy, protezione dati e sicurezza nel digitale pubblico
 
@@ -1006,7 +925,7 @@ I principi da ricordare sono:
 - integrità e riservatezza;
 - responsabilizzazione del titolare.
 
-La **minimizzazione** è particolarmente importante nei servizi digitali: non bisogna chiedere o trattare più dati di quelli necessari. La **privacy by design** richiede di progettare i sistemi tenendo conto della protezione dati fin dall'inizio. La **privacy by default** impone impostazioni predefinite orientate alla protezione.
+La **minimizzazione** è particolarmente importante nei servizi digitali: non bisogna chiedere o trattare più dati di quelli necessari. La **privacy by design** richiede di progettare i sistemi tenendo conto della protezione dati fin dall’inizio. La **privacy by default** impone impostazioni predefinite orientate alla protezione.
 
 ### Ruoli
 
@@ -1014,7 +933,7 @@ La **minimizzazione** è particolarmente importante nei servizi digitali: non bi
 |---|---|
 | Titolare del trattamento | decide finalità e mezzi del trattamento |
 | Responsabile del trattamento | tratta dati per conto del titolare |
-| Autorizzato/incaricato | opera sotto l'autorità del titolare o responsabile |
+| Autorizzato/incaricato | opera sotto l’autorità del titolare o responsabile |
 | DPO/RPD | supporta, informa, sorveglia e funge da punto di contatto in materia di protezione dati |
 | Interessato | persona fisica cui si riferiscono i dati |
 
@@ -1028,7 +947,7 @@ La risposta organizzativa deve prevedere:
 - contenimento;
 - valutazione del rischio;
 - documentazione;
-- eventuale notifica all'autorità;
+- eventuale notifica all’autorità;
 - eventuale comunicazione agli interessati;
 - misure correttive.
 
@@ -1038,15 +957,15 @@ La risposta organizzativa deve prevedere:
 
 Per la risposta giuridica completa, il Capitolo 7 distingue sicurezza, base giuridica, minimizzazione, comunicazione e diffusione. Qui devi trattenere soprattutto la sequenza operativa: prevenire, rilevare, contenere, valutare, documentare e attivare gli adempimenti eventualmente dovuti.
 
-## 19. Caso guidato: dall'istanza online alla conservazione
+## 19. Caso guidato: dall’istanza online alla conservazione
 
-Un cittadino presenta online una domanda per ottenere un contributo comunale. Accede al portale con SPID o CIE, compila il modulo, allega documenti, paga eventuali diritti tramite pagoPA e riceve comunicazioni dall'ente.
+Un cittadino presenta online una domanda per ottenere un contributo comunale. Accede al portale con SPID o CIE, compila il modulo, allega documenti, paga eventuali diritti tramite pagoPA e riceve comunicazioni dall’ente.
 
 Vediamo come si applicano i concetti del capitolo.
 
 | Fase | Strumento o concetto | Cosa deve fare la PA |
 |---|---|---|
-| Accesso | SPID/CIE/CNS | identificare l'utente con livello adeguato al servizio |
+| Accesso | SPID/CIE/CNS | identificare l’utente con livello adeguato al servizio |
 | Compilazione | modulo online e dati | chiedere solo dati necessari e usare linguaggio chiaro |
 | Allegati | documento informatico e formati | accettare formati idonei e controllare leggibilità |
 | Pagamento | pagoPA | rendere il pagamento tracciabile e integrato |
@@ -1059,31 +978,33 @@ Vediamo come si applicano i concetti del capitolo.
 
 > [!NOTE]
 > **Risposta modello**
-> In un procedimento digitale la PA non si limita a ricevere un file. Deve identificare l'utente, acquisire documenti informatici validi, protocollare e fascicolare quando previsto, proteggere i dati personali, consentire pagamenti digitali, comunicare con canali idonei e conservare correttamente gli atti. La qualità digitale è quindi insieme tecnica, giuridica e organizzativa.
+> In un procedimento digitale la PA non si limita a ricevere un file. Deve identificare l’utente, acquisire documenti informatici validi, protocollare e fascicolare quando previsto, proteggere i dati personali, consentire pagamenti digitali, comunicare con canali idonei e conservare correttamente gli atti. La qualità digitale è quindi insieme tecnica, giuridica e organizzativa.
 
-![Figura 10.7 - Dall'istanza online alla conservazione: flusso operativo del procedimento digitale.](../assets/chapter-10/07-istanza-online-conservazione.png)
+![Figura 10.7 - Dall’istanza online alla conservazione: flusso operativo del procedimento digitale.](../assets/chapter-10/07-istanza-online-conservazione.png)
+
+*Figura 10.7 - Dall’istanza online alla conservazione: flusso operativo del procedimento digitale.*
 
 ## 20. Domande da commissario
 
-### 1. Che differenza c'è tra hardware e software?
+### 1. Che differenza c’è tra hardware e software?
 
-L'hardware è la componente fisica del sistema informatico, come CPU, RAM, disco, monitor, tastiera e stampante. Il software è l'insieme dei programmi e delle istruzioni, come sistema operativo, browser, videoscrittura, antivirus e gestionali. L'hardware esegue materialmente le operazioni, ma ha bisogno del software per essere utilizzato.
+L’hardware è la componente fisica del sistema informatico, come CPU, RAM, disco, monitor, tastiera e stampante. Il software è l’insieme dei programmi e delle istruzioni, come sistema operativo, browser, videoscrittura, antivirus e gestionali. L’hardware esegue materialmente le operazioni, ma ha bisogno del software per essere utilizzato.
 
-### 2. Che differenza c'è tra Internet e Web?
+### 2. Che differenza c’è tra Internet e Web?
 
 Internet è la rete mondiale di reti. Il Web è un servizio che usa Internet per rendere disponibili pagine e risorse tramite browser, URL e protocolli come HTTP e HTTPS. Email, cloud e altri servizi possono usare Internet senza coincidere con il Web.
 
 ### 3. Che cosa garantisce la firma digitale?
 
-La firma digitale garantisce autenticità della provenienza, integrità del documento e non ripudio, secondo la disciplina applicabile. Non va confusa con una firma autografa scansionata o con l'immagine di una firma inserita in un file.
+La firma digitale garantisce autenticità della provenienza, integrità del documento e non ripudio, secondo la disciplina applicabile. Non va confusa con una firma autografa scansionata o con l’immagine di una firma inserita in un file.
 
 ### 4. Che cosa è la PEC?
 
-La PEC è un sistema di posta elettronica certificata che fornisce evidenze sull'invio e sulla consegna del messaggio. È usata per comunicazioni aventi valore giuridico secondo la disciplina applicabile. Non è una firma digitale e non sostituisce automaticamente la conservazione del documento.
+La PEC è un sistema di posta elettronica certificata che fornisce evidenze sull’invio e sulla consegna del messaggio. È usata per comunicazioni aventi valore giuridico secondo la disciplina applicabile. Non è una firma digitale e non sostituisce automaticamente la conservazione del documento.
 
-### 5. Che differenza c'è tra autenticazione e autorizzazione?
+### 5. Che differenza c’è tra autenticazione e autorizzazione?
 
-L'autenticazione verifica chi è l'utente. L'autorizzazione stabilisce quali operazioni quell'utente può compiere. Un utente può essere autenticato nel sistema ma non autorizzato a consultare una specifica banca dati.
+L’autenticazione verifica chi è l’utente. L’autorizzazione stabilisce quali operazioni quell’utente può compiere. Un utente può essere autenticato nel sistema ma non autorizzato a consultare una specifica banca dati.
 
 ### 6. Che cosa è un database relazionale?
 
@@ -1093,23 +1014,23 @@ L'autenticazione verifica chi è l'utente. L'autorizzazione stabilisce quali ope
 
 Significa dati resi disponibili in formato aperto, riutilizzabile e, preferibilmente, leggibile da macchina, con condizioni che ne consentono il riuso. La pubblicazione deve rispettare privacy, sicurezza, segreti e altri limiti.
 
-### 8. Che ruolo ha l'accessibilità nei servizi digitali pubblici?
+### 8. Che ruolo ha l’accessibilità nei servizi digitali pubblici?
 
-L'accessibilità serve a rendere siti, applicazioni, documenti e servizi utilizzabili anche da persone con disabilità. Non riguarda solo l'estetica del sito, ma struttura, navigazione, compatibilità con tecnologie assistive, testi, moduli e documenti.
+L’accessibilità serve a rendere siti, applicazioni, documenti e servizi utilizzabili anche da persone con disabilità. Non riguarda solo l’estetica del sito, ma struttura, navigazione, compatibilità con tecnologie assistive, testi, moduli e documenti.
 
 ## 21. Domande-trappola ricorrenti
 
 | Affermazione | Perché è sbagliata o incompleta |
 |---|---|
-| Internet e Web sono sinonimi. | Internet è l'infrastruttura di rete; il Web è un servizio su Internet. |
+| Internet e Web sono sinonimi. | Internet è l’infrastruttura di rete; il Web è un servizio su Internet. |
 | Il browser è un motore di ricerca. | Il browser visualizza pagine; il motore di ricerca indicizza e trova contenuti. |
-| Cambiare estensione cambia formato. | L'estensione suggerisce il formato, ma non trasforma il contenuto. |
+| Cambiare estensione cambia formato. | L’estensione suggerisce il formato, ma non trasforma il contenuto. |
 | La RAM conserva stabilmente i file. | La RAM è volatile; i file si conservano su memoria di massa. |
 | La PEC è una firma digitale. | La PEC riguarda trasmissione certificata; la firma digitale riguarda sottoscrizione e integrità. |
 | Una scansione firmata a mano è sempre firma digitale. | La firma digitale richiede strumenti e certificati specifici. |
 | Un foglio Excel è sempre un database. | Può contenere tabelle, ma non è di per sé un DBMS relazionale. |
 | Open data significa pubblicare qualsiasi dato. | Devono essere rispettati privacy, sicurezza, segreti e limiti normativi. |
-| Autenticazione e autorizzazione coincidono. | La prima verifica l'identità, la seconda stabilisce i permessi. |
+| Autenticazione e autorizzazione coincidono. | La prima verifica l’identità, la seconda stabilisce i permessi. |
 | Conservare un documento significa metterlo in una cartella. | La conservazione digitale è un processo regolato con garanzie nel tempo. |
 
 ## 22. Schemi di ripasso ad alto rendimento
@@ -1180,13 +1101,13 @@ Associa ogni concetto alla funzione:
 
 ### Esercizio 3
 
-Un cittadino invia una domanda tramite PEC allegando un PDF scansionato con firma autografa. Quali verifiche deve fare l'ente?
+Un cittadino invia una domanda tramite PEC allegando un PDF scansionato con firma autografa. Quali verifiche deve fare l’ente?
 
-**Risposta attesa:** deve verificare il canale di ricezione e le ricevute PEC, la leggibilità dell'allegato, l'eventuale necessità di firma digitale o altra forma di sottoscrizione prevista, la protocollazione, la corretta fascicolazione, il trattamento dei dati personali e la conservazione. La scansione non deve essere automaticamente considerata firma digitale.
+**Risposta attesa:** deve verificare il canale di ricezione e le ricevute PEC, la leggibilità dell’allegato, l’eventuale necessità di firma digitale o altra forma di sottoscrizione prevista, la protocollazione, la corretta fascicolazione, il trattamento dei dati personali e la conservazione. La scansione non deve essere automaticamente considerata firma digitale.
 
 ### Esercizio 4
 
-Quale comando SQL useresti per estrarre solo i dipendenti dell'ufficio "Protocollo" da una tabella `Dipendenti`?
+Quale comando SQL useresti per estrarre solo i dipendenti dell’ufficio “Protocollo” da una tabella `Dipendenti`?
 
 ```sql
 SELECT *
@@ -1196,19 +1117,6 @@ WHERE Ufficio = 'Protocollo';
 
 La parte decisiva è `WHERE`, perché filtra i record in base a una condizione.
 
-## Riferimenti consolidati
-
-- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
-- [[sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026]]
-- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
-- [[sources/sicurezza-informatica-privacy-nis2-pa]]
-- [[sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26]]
-
-## Note di review
-
-- P4 e P28 hanno verificato il raccordo con il Capitolo 7 e hanno ricontrollato il riferimento al Piano Triennale per l'informatica nella PA 2024-2026, Aggiornamento 2026.
-- Restano separati e non migrati i nuclei ICT avanzati finche M-TR01 non contiene capitoli completi e verificati; prima della pubblicazione sono comunque necessarie review tecnica e normativa umane.
-
 ## 24. Checklist finale del capitolo
 
 Prima di considerare concluso lo studio, verifica di saper rispondere senza esitazione a queste domande:
@@ -1217,19 +1125,27 @@ Prima di considerare concluso lo studio, verifica di saper rispondere senza esit
 - Che funzioni svolge il sistema operativo?
 - Qual è la differenza tra file, cartella, estensione e percorso?
 - Che cosa fanno Word, Excel, PowerPoint e Access?
-- Che differenza c'è tra formula e funzione in un foglio elettronico?
-- Che differenza c'è tra Internet, Web, browser e motore di ricerca?
+- Che differenza c’è tra formula e funzione in un foglio elettronico?
+- Che differenza c’è tra Internet, Web, browser e motore di ricerca?
 - A cosa servono HTTP, HTTPS, DNS, SMTP, POP3, IMAP e TCP/IP?
-- Che differenza c'è tra router, switch, modem e firewall?
+- Che differenza c’è tra router, switch, modem e firewall?
 - Che cosa sono malware, phishing, antivirus, backup e MFA?
-- Che differenza c'è tra autenticazione e autorizzazione?
+- Che differenza c’è tra autenticazione e autorizzazione?
 - Che cosa sono database, DBMS, tabella, record, campo, chiave e query?
 - A cosa servono `SELECT`, `FROM`, `WHERE`, `ORDER BY` e `JOIN`?
 - Che cosa sono algoritmo, variabile, funzione, condizione e ciclo?
-- Che differenza c'è tra HTML e XML?
+- Che differenza c’è tra HTML e XML?
 - Che cosa sono documento informatico, protocollo informatico e conservazione digitale?
-- Che differenza c'è tra PEC, firma digitale e domicilio digitale?
+- Che differenza c’è tra PEC, firma digitale e domicilio digitale?
 - Che funzione hanno SPID, CIE e CNS?
 - A cosa servono ANPR, pagoPA, FatturaPA, App IO, SEND e PDND?
 - Che cosa sono open data, API, interoperabilità, cloud e accessibilità?
 - Come si collegano GDPR, data breach, sicurezza informatica e servizi digitali?
+
+## Riferimenti consolidati
+
+- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
+- [[sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026]]
+- [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]]
+- [[sources/sicurezza-informatica-privacy-nis2-pa]]
+- [[sources/capitolo-7-corpus-fonti-ufficiali-trasparenza-anticorruzione-privacy-2026-05-26]]

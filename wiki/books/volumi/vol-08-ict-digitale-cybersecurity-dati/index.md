@@ -2,20 +2,20 @@
 id: vol-08-ict-digitale-cybersecurity-dati
 type: book
 title: "VOL-08 — ICT, digitale, cybersecurity e dati"
-status: source-ready
+status: publication-ready
 domain: "concorsi pubblici italiani"
 topics: ["ict", "cybersecurity", "dati", "intelligenza artificiale"]
 entities: ["Agenzia per la cybersicurezza nazionale", "AgID"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/logica-volumi-copertura-concorsobook-v4"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.76
-updated_at: 2026-07-28
+updated_at: 2026-08-12
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["book", "vol-08", "m-tr01"]
 volume_code: VOL-08
-draft_stage: source-ready
+draft_stage: publication-ready
 ---
 
 # VOL-08 — ICT, digitale, cybersecurity e dati

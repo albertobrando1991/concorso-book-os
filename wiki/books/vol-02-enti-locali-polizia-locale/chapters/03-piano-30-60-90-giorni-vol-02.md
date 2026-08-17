@@ -46,7 +46,7 @@ Costruire un calendario sostenibile per un concorso territoriale, integrando VOL
 | Diario | Errori e ritardi | Una decisione di recupero o di taglio |
 | Output | Quiz, risposta, caso, atto o orale | Un prodotto controllabile, non solo pagine lette |
 
-### 1. Prima il tempo disponibile, poi l'indice
+### 1. Prima il tempo disponibile, poi l’indice
 
 Il candidato deve calcolare le ore realmente utilizzabili: giorni lavorativi, studio nel fine settimana, imprevisti e margine di recupero. Un piano credibile non occupa ogni spazio libero. Lascia una quota per la correzione degli esercizi, gli aggiornamenti del bando e gli argomenti che si rivelano più difficili.
 
@@ -76,7 +76,7 @@ La produttività non si misura dalle ore dichiarate, ma dalla presenza di questi
 
 ### 4. Diario degli errori territoriale
 
-Nel VOL-02 il Diario deve rendere visibili errori tipici di applicazione: attribuire un atto all'organo sbagliato; confondere procedura generale e disciplina settoriale; usare una fonte locale senza averla verificata; scambiare attività istruttoria e provvedimento; citare una regola di Polizia locale fuori dai suoi presupposti.
+Nel VOL-02 il Diario deve rendere visibili errori tipici di applicazione: attribuire un atto all’organo sbagliato; confondere procedura generale e disciplina settoriale; usare una fonte locale senza averla verificata; scambiare attività istruttoria e provvedimento; citare una regola di Polizia locale fuori dai suoi presupposti.
 
 | Errore osservato | Categoria | Decisione di recupero |
 |---|---|---|
@@ -91,7 +91,7 @@ Nel VOL-02 il Diario deve rendere visibili errori tipici di applicazione: attrib
 - Ogni settimana richiede studio, richiamo, output, correzione e decisione.
 - Nel breve periodo si taglia il non richiesto, non la struttura del ragionamento.
 - Il Diario decide la priorità del ripasso successivo.
-- VOL-01 e VOL-02 si integrano: non si leggono entrambi dall'inizio alla fine.
+- VOL-01 e VOL-02 si integrano: non si leggono entrambi dall’inizio alla fine.
 
 ### Caso guidato
 
@@ -115,7 +115,7 @@ No. È utile solo se la procedura e il tempo disponibile lo consentono. Un piano
 
 ### Mini-esercizio
 
-Scegli un orizzonte di 30, 60 o 90 giorni. Scrivi per la prima settimana: ore reali, due nuclei, un richiamo, un output, un possibile rischio e una decisione di recupero. Se non riesci a indicare l'output, il blocco è ancora troppo generico.
+Scegli un orizzonte di 30, 60 o 90 giorni. Scrivi per la prima settimana: ore reali, due nuclei, un richiamo, un output, un possibile rischio e una decisione di recupero. Se non riesci a indicare l’output, il blocco è ancora troppo generico.
 
 ### Riferimenti consolidati
 

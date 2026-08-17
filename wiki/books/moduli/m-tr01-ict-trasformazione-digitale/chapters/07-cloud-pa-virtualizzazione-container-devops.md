@@ -2,21 +2,23 @@
 id: chapter-m-tr01-07
 type: book_chapter
 title: "Cloud PA, virtualizzazione, container e DevOps"
-status: drafted
+status: reviewed-draft
 domain: "concorsi pubblici italiani"
 topics: ["cloud pa", "virtualizzazione", "container", "devops", "osservabilità", "business continuity"]
 entities: ["Agenzia per la cybersicurezza nazionale", "NIST", "Kubernetes", "OpenTelemetry"]
 source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/reti-sistemi-infrastrutture-fonti-tecniche", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie"]
 book_refs: ["m-tr01-ict-trasformazione-digitale", "il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-07-29
+updated_at: 2026-08-10
 created_at: 2026-07-28
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter", "m-tr01", "cloud", "devops", "continuita"]
 book_id: m-tr01-ict-trasformazione-digitale
 outline_section: 7
-draft_stage: drafted
+draft_stage: cross-reviewed
+format_version: 2
+dati_operativi: []
 last_compiled_from: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/sicurezza-informatica-privacy-nis2-pa", "sources/reti-sistemi-infrastrutture-fonti-tecniche", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie", "books/moduli/m-tr01-ict-trasformazione-digitale/planning/08-capitolo-07-piano-completamento"]
 ---
 
@@ -59,7 +61,9 @@ Nel bando cerca formule come *cloud computing*, *infrastrutture virtuali*, *cont
 
 Il metodo segue quattro passaggi: classificare, motivare, progettare e verificare. Prima si chiariscono servizio, dati e impatti. Su questa base si sceglie l’architettura e si dimostra che rilascio, esercizio e ripristino sono governati.
 
-## Modelli cloud e responsabilità
+## N-TR01-07-01 · Quadro, modelli cloud e responsabilità
+
+Il modello cloud va letto come un insieme di caratteristiche operative e di confini di responsabilità. La risposta utile non si limita alle sigle: collega servizio, dati, soggetti coinvolti e conseguenze per l'ente.
 
 ### Cinque caratteristiche essenziali
 
@@ -110,9 +114,17 @@ Per ogni componente occorre chiedere:
 3. chi ne osserva lo stato?
 4. chi interviene e risponde se fallisce?
 
-Così emergono le zone grigie: il provider può garantire l’infrastruttura mentre l’ente mantiene account o configurazioni errate; il servizio tecnico può essere disponibile mentre il procedimento amministrativo non dispone di una modalità alternativa.
+La matrice fa emergere le zone grigie: il provider può garantire l’infrastruttura mentre l’ente mantiene account o configurazioni errate; il servizio tecnico può essere disponibile mentre il procedimento amministrativo non dispone di una modalità alternativa.
 
-## Virtualizzazione, container e orchestrazione
+In sede concorsuale conviene trasformare la responsabilità condivisa in una piccola matrice. Per esempio, in un servizio SaaS il fornitore può curare la disponibilità dell'applicazione, ma l'amministrazione deve decidere chi può accedere, con quali profili, quali dati inserire e come controllare le configurazioni che incidono sul procedimento. Se il servizio usa un'integrazione con un archivio dell'ente, occorre inoltre chiarire chi monitora il collegamento e chi comunica l'interruzione agli uffici. La risposta è più solida quando individua il componente, il responsabile, l'evidenza attesa e il punto di escalation.
+
+La scelta del modello non discende solo dal carico previsto. Un'applicazione legacy con requisiti particolari può richiedere maggiore controllo dell'ambiente; un servizio standard può beneficiare di una piattaforma gestita. In entrambi i casi l'ente deve valutare competenze interne, vincoli sui dati, integrazioni, continuità e possibilità di cambiare soluzione. "Più gestito" non significa automaticamente "più adatto": sposta il confine tecnico, ma non elimina le decisioni organizzative.
+
+## N-TR01-07-02 · Virtualizzazione, container e orchestrazione
+
+Un candidato deve saper motivare la scelta senza ridurla a una preferenza di prodotto.
+
+Qui la questione decisiva è capire che cosa viene isolato, come viene distribuito e quali dati devono sopravvivere al riavvio. La tecnologia scelta deve rendere l'esercizio più controllabile, non soltanto più rapido da avviare.
 
 ### Hypervisor e macchine virtuali
 
@@ -150,7 +162,15 @@ Kubernetes è un esempio. Il suo principio centrale è la **riconciliazione**: s
 
 L’orchestratore non rende affidabile un’applicazione per magia. Se tutte le repliche dipendono da un unico database fragile, quello resta un punto critico. Vanno progettati anche configurazioni, secret, storage, rete e limiti di risorse.
 
-## Cloud PA e percorso di migrazione
+Un confronto utile parte dall'unità che si vuole governare. La VM incapsula un intero ambiente operativo e rende possibile eseguire sistemi diversi sullo stesso hardware; il container impacchetta soprattutto il processo applicativo con le sue dipendenze. Per questo un container non sostituisce automaticamente una VM e non ne eredita, da solo, le garanzie di isolamento, persistenza o continuità. In un servizio pubblico possono convivere: VM per componenti legacy o per delimitare ambienti, container per servizi che si aggiornano e si replicano con maggiore frequenza.
+
+L'orchestrazione introduce una disciplina ulteriore. Il team descrive il numero di repliche, le risorse richieste, le configurazioni e le condizioni di salute; il sistema tenta di riportare il carico allo stato dichiarato. Questo rende visibile la differenza tra una ripartenza casuale e una procedura ripetibile, ma richiede immagini controllate, registri affidabili, configurazioni separate dal codice e limiti che impediscano a un singolo workload di consumare tutte le risorse. La domanda da evitare è "quale orchestratore usiamo?" prima di aver chiarito disponibilità, dipendenze, dati persistenti e competenze di esercizio.
+
+## N-TR01-07-03 · Cloud PA e percorso di migrazione
+
+Il piano deve indicare ciò che cambia, ciò che resta e come si controlla il passaggio.
+
+Una migrazione ordinata parte dalla funzione pubblica, non dalla piattaforma. Ogni scelta deve lasciare una motivazione, una prova e una via di ritorno praticabile.
 
 ### Classificare prima di scegliere
 
@@ -211,7 +231,17 @@ Il **cutover** è il passaggio controllato al nuovo ambiente. Richiede criteri d
 
 Un rollback credibile indica fino a quando è possibile tornare indietro, come riallineare i dati e chi decide. Dopo nuove transazioni, non basta riavviare il vecchio ambiente.
 
-## DevOps, CI/CD e Infrastructure as Code
+La migrazione è quindi un cambiamento di servizio, non una copia di macchine. L'assessment deve produrre decisioni verificabili: quali componenti si spostano, quali restano temporaneamente dove sono, quale dipendenza condiziona il passaggio e quale prova dimostra che il nuovo ambiente funziona. Una scelta di rehost può ridurre il tempo iniziale, ma può conservare vincoli del sistema precedente; un refactor può migliorare portabilità o resilienza, ma aumenta il rischio di modifica. Non esiste una "R" migliore in astratto.
+
+Nel contesto della PA, classificazione e qualificazione vanno lette prima dell'architettura di dettaglio. La disciplina Cloud Italia e il catalogo ACN sono soggetti ad aggiornamento: nella prova si descrive il metodo di verifica della destinazione compatibile, senza trasformare nel testo un catalogo di prodotti o una lista di soglie. L'evidenza finale comprende inventario, esito della classificazione, scelta motivata, piano di test, procedura di cutover, condizioni di rollback e responsabilità durante la transizione.
+
+## N-TR01-07-04 · DevOps, CI/CD e Infrastructure as Code
+
+La pipeline è una catena di responsabilità, non un semplice automatismo. Il codice viene associato a una richiesta, trasformato in un artefatto identificabile e sottoposto ai controlli adatti al suo impatto. L'artefatto verificato non dovrebbe cambiare mentre attraversa gli ambienti: altrimenti non si sa più se la produzione esegue ciò che è stato provato. Quando un controllo fallisce, il flusso deve fermarsi e produrre un'evidenza utile alla correzione.
+
+Anche il rollback richiede preparazione. Una nuova versione può essere tecnicamente distribuibile ma incompatibile con una modifica del dato o con un'interfaccia già usata da altri sistemi. Per questo si definiscono compatibilità, criteri di annullamento, responsabilità e modalità di comunicazione. Il rilascio progressivo limita l'esposizione iniziale, ma non sostituisce test, osservazione e decisioni sulle conseguenze per gli utenti.
+
+DevOps mette in relazione sviluppo, rilascio ed esercizio. Il suo risultato atteso è una modifica identificabile, verificata e recuperabile, non una sequenza più veloce di passaggi non controllati.
 
 ### DevOps come modello operativo
 
@@ -240,7 +270,7 @@ L’automazione rende i controlli ripetibili; non li elimina. La pipeline può r
 
 Con l’**Infrastructure as Code** l’infrastruttura è descritta in file versionati e applicata automaticamente. Le modifiche diventano confrontabili, revisionabili e ripetibili.
 
-Il modello dichiarativo descrive lo stato desiderato; quello imperativo una sequenza di operazioni. IaC non garantisce correttezza: un errore codificato può essere replicato ovunque. Servono review, test, gestione dei secret, accessi controllati e verifica dello stato reale.
+Il modello dichiarativo descrive lo stato desiderato; quello imperativo una sequenza di operazioni. IaC non garantisce correttezza: un errore codificato può essere replicato ovunque. Servono revisioni, test, gestione separata dei segreti, accessi controllati e confronto con lo stato reale.
 
 ### Distribuzione e rollback
 
@@ -248,7 +278,19 @@ Il **rolling update** sostituisce gradualmente le istanze. Il **blue-green** pre
 
 Queste tecniche non sostituiscono compatibilità dei dati e rollback. È utile separare **deployment** e **release**: il codice può essere distribuito senza attivare subito la funzione.
 
-## Operabilità e osservabilità
+Un processo DevOps maturo non accelera le modifiche saltando i controlli. Li rende osservabili e ripetibili. Ogni passaggio deve poter rispondere a quattro domande: quale modifica è stata richiesta, quale artefatto è stato verificato, chi ha autorizzato il passaggio e quale evidenza dimostra l'esito. Questa catena è utile anche quando lo sviluppo è affidato a un fornitore, perché permette all'amministrazione di governare il servizio senza confondere la consegna del codice con la sua effettiva messa in esercizio.
+
+L'Infrastructure as Code applica lo stesso principio alla configurazione. Una modifica a rete, capacità o ambiente non resta in una console amministrativa priva di storia: viene proposta, letta, testata e applicata con un identificativo. Il vantaggio non è l'assenza di errori, ma la possibilità di confrontare lo stato previsto con quello reale e di riprodurre un ambiente. Gli elementi sensibili, come segreti e credenziali, non vanno copiati nei file ordinari: richiedono gestione separata e accessi controllati. Dopo un rilascio il lavoro continua con la verifica delle funzioni, delle prestazioni e degli effetti sui dati.
+
+## N-TR01-07-05 · Operabilità, osservabilità, capacità e costi
+
+La capacità non riguarda soltanto il numero di server. Comprende connessioni, code, spazio, limiti imposti da servizi esterni e persone in grado di intervenire. Un piano di capacità confronta il profilo storico con gli eventi attesi, dichiara quale margine è necessario e stabilisce cosa fare quando il margine si riduce. Questo evita sia il sovradimensionamento costoso sia una reazione tardiva durante una scadenza.
+
+L'osservabilità è utile anche dopo una modifica. Si confrontano i segnali prima e dopo il rilascio, si verificano errori, tempi di completamento e comportamento delle integrazioni. Se gli utenti non riescono a concludere una pratica, il fatto che i singoli componenti risultino attivi non basta. Occorre seguire la transazione, individuare il punto di blocco e registrare la decisione presa. Lo stesso ragionamento aiuta a discutere il costo: una spesa va collegata a capacità effettivamente richiesta, finestra di utilizzo, livello di continuità e rischio che si intende ridurre.
+
+La revisione periodica trasforma i dati raccolti in gestione: si eliminano indicatori che non guidano alcuna azione, si affinano le soglie che producono falsi allarmi e si aggiornano le procedure quando il servizio o le sue dipendenze cambiano.
+
+Un servizio governato produce segnali leggibili e li collega a decisioni. Osservare non significa accumulare dati: significa poter spiegare un degrado, decidere una priorità e verificare se l'intervento ha funzionato.
 
 ### Metriche, log e trace
 
@@ -261,7 +303,7 @@ Il monitoraggio verifica condizioni note. L’osservabilità permette di compren
 
 I segnali sono complementari: la metrica mostra un aumento di latenza; la trace localizza il tratto lento; il log spiega un rifiuto del database; l’evento collega il problema a una modifica.
 
-Dashboard e alert devono rappresentare il servizio. Un server può essere attivo mentre l’utente non completa la pratica. Gli alert devono essere azionabili, con impatto, contesto ed escalation.
+Pannello operativo e alert devono rappresentare il servizio. Un server può essere attivo mentre l’utente non completa la pratica. Gli alert devono essere azionabili, con impatto, contesto ed escalation.
 
 ### Capacità, elasticità e costi
 
@@ -269,7 +311,19 @@ Il capacity planning stima risorse e margini in base a domanda e obiettivi. L’
 
 Il consumo misurato richiede attribuzione dei costi, budget, allarmi e spegnimento delle risorse inutili. Nel governo FinOps il prezzo è uno dei criteri: continuità, sicurezza, competenze e reversibilità conservano il loro peso.
 
-## Resilienza, backup e continuità operativa
+Operare un servizio significa collegare segnali tecnici e risultato per l'utente. Un pannello operativo che mostra solo CPU e memoria aiuta il gestore, ma non basta a capire se una pratica viene protocollata o se un pagamento termina correttamente. Per questo si definiscono indicatori del servizio, finestre temporali, soglie, destinatari degli avvisi e procedure di escalation. Un alert utile contiene almeno il sintomo, l'impatto presunto, il componente coinvolto e il primo controllo da eseguire.
+
+Metriche, log e trace svolgono ruoli diversi. La metrica quantifica un fenomeno nel tempo, il log conserva un evento con il suo contesto e la trace ricostruisce il cammino di una singola richiesta. Durante un rallentamento del portale, l'aumento della latenza può segnalare il problema, una trace può mostrare che il tempo si concentra sull'integrazione esterna e i log possono indicare rifiuti o timeout. Nessun segnale, isolato, sostituisce gli altri.
+
+Capacità e costi richiedono la stessa disciplina: si misurano domanda, picchi, margini e consumo, poi si assegnano responsabilità per le decisioni. Autoscaling e spegnimento programmato sono opzioni, non formule universali. Un aumento automatico delle istanze non risolve una dipendenza saturata, un limite di database o un errore applicativo che moltiplica le richieste. Il candidato deve dimostrare di saper scegliere una misura, osservare l'effetto e riesaminare la decisione.
+
+## N-TR01-07-06 · Resilienza, backup, disaster recovery e continuità operativa
+
+Ogni scelta resta verificabile nel tempo.
+
+La scelta delle copie e delle architetture deve quindi essere proporzionata: non tutti i servizi richiedono la stessa rapidità di recupero, ma nessun servizio essenziale può basarsi su un ripristino mai eseguito.
+
+La continuità richiede di distinguere ciò che riduce l'interruzione da ciò che permette di recuperare dati e servizi dopo un evento grave. La misura corretta dipende dall'impatto della funzione pubblica e deve essere dimostrata con prove.
 
 ### Resilienza e alta disponibilità
 
@@ -314,137 +368,153 @@ La **business continuity** è più ampia: mantiene o riprende le attività essen
 
 Un piano acquista valore operativo solo quando viene provato. Simulazioni e prove di ripristino fanno emergere dipendenze dimenticate, accessi scaduti, documentazione incompleta e tempi irrealistici.
 
-## Caso guidato: migrazione di un servizio comunale
+RPO e RTO non sono promesse generiche di "ripartenza rapida". Il primo impone di stabilire quale quantità di dati può andare persa fra due punti di ripristino; il secondo impone di stabilire entro quando la funzione deve tornare utilizzabile. Se un servizio acquisisce pratiche fino a una scadenza, un RPO troppo ampio può rendere necessario ricostruire molte operazioni; se la funzione è indispensabile in una finestra amministrativa, un RTO troppo lungo può interrompere il procedimento. Gli obiettivi nascono dall'analisi d'impatto e vanno tradotti in copie, procedure, ruoli e prove.
 
-Un Comune deve migrare il portale per le richieste di occupazione del suolo pubblico, composto da front end, applicazione, database, archivio documentale, autenticazione, protocollo e pagamenti.
+Una soluzione resiliente deve considerare anche i guasti comuni. Repliche nello stesso dominio di guasto, credenziali disponibili solo a una persona, runbook non aggiornati o un collegamento esterno non alternativo possono vanificare l'architettura. Il test di ripristino non è un adempimento conclusivo: misura tempi, integrità dei dati, sequenza delle dipendenze, comunicazioni e capacità di operare in modalità degradata. La business continuity completa il disaster recovery perché decide come l'ente continua le attività essenziali mentre i sistemi sono ripristinati.
 
-**Classificazione.** Il gruppo descrive dati e servizio, applica il percorso vigente e definisce attività essenziali e impatto dell’indisponibilità.
+## Apparato di verifica dei nuclei
 
-**Inventario.** Rileva versioni, volumi, picchi, API, licenze e dipendenze. Scopre che il protocollo accetta richieste solo da indirizzi autorizzati e che alcuni allegati sono su un file server locale.
+La tabella collega ogni nucleo a un apparato esistente nello stesso capitolo. Il collegamento rende controllabile la tracciabilità senza attribuire automaticamente un esito positivo.
 
-**Strategia.** Front end e applicazione vengono containerizzati; il database passa a un servizio gestito compatibile; l’integrazione con il protocollo resta inizialmente ibrida. La strategia è quindi mista.
+| Nucleo ID | Apparato di verifica |
+| --- | --- |
+| `N-TR01-07-01` | Quiz 1 — Responsabilità in SaaS |
+| `N-TR01-07-02` | Quiz 2 — Container e VM |
+| `N-TR01-07-03` | Caso ragionato: migrazione di un servizio comunale |
+| `N-TR01-07-04` | Quiz 3 — Continuous delivery |
+| `N-TR01-07-05` | Quiz 4 — Segnali di osservabilità |
+| `N-TR01-07-06` | Quiz 7 — Repliche e continuità |
 
-**Responsabilità.** Il provider governa infrastruttura e piattaforma secondo il servizio. Il Comune mantiene classificazione, utenti, configurazione, dati, controllo e continuità del procedimento.
+## ▣ Verifica 07.A
 
-**Rilascio.** La pipeline costruisce un’immagine identificata, esegue test e distribuisce in preproduzione. Il cutover segue la sincronizzazione dei dati; sono stabiliti stop e rollback.
+### Caso ragionato: migrazione di un servizio comunale
 
-**Esercizio.** Metriche misurano errori e latenza; trace e log seguono una richiesta. Backup e ripristino sono provati. RPO e RTO derivano dall’impatto.
+Un Comune deve migrare il portale per le richieste di occupazione del suolo pubblico. Il servizio comprende front end, applicazione, database, archivio documentale, autenticazione, protocollo e pagamenti. L'obiettivo non è trasferire un server, ma mantenere il procedimento accessibile e recuperabile.
 
-**Uscita.** Il piano documenta esportazione, configurazioni, tempi, responsabilità e cancellazione finale.
+**Classificazione e inventario.** Il gruppo descrive dati e servizio, applica il percorso vigente di classificazione e definisce le attività essenziali e l'impatto dell'indisponibilità. Rileva versioni, volumi, picchi, API, licenze e dipendenze. Scopre che il protocollo accetta richieste solo da indirizzi autorizzati e che alcuni allegati sono ancora su un file server locale.
 
-Il caso è ben risolto quando impatti, architettura, responsabilità, controlli e recuperabilità restano collegati. Un elenco di strumenti, da solo, non dimostra la qualità della soluzione.
+**Scelta motivata.** Front end e applicazione diventano workload containerizzati; il database passa a un servizio gestito compatibile; l'integrazione con il protocollo resta inizialmente ibrida. Questa scelta non elimina il rischio: rende esplicite le dipendenze da testare. Il Comune verifica che la destinazione sia compatibile con la classificazione e con la disciplina vigente, senza assumere che qualunque servizio cloud sia idoneo.
 
-## Laboratorio: checklist di migrazione
+**Rilascio ed esercizio.** La pipeline costruisce un'immagine identificata, esegue i controlli e distribuisce in preproduzione. Il cutover avviene dopo la sincronizzazione dei dati e una prova completa della pratica. Sono definiti il punto di stop, l'autorità che decide il passaggio e il rollback. In esercizio metriche misurano errori e latenza, trace e log seguono una richiesta, mentre backup e ripristino sono provati. RPO e RTO derivano dall'impatto sulle pratiche e non da valori scelti per consuetudine.
+
+**Uscita.** Il piano specifica esportazione dei dati, configurazioni, tempi, responsabilità e cancellazione finale. Il caso è ben risolto quando impatti, architettura, responsabilità, controlli e recuperabilità restano collegati. Un elenco di strumenti non dimostra la qualità della soluzione.
+
+### Laboratorio: checklist di migrazione
 
 | Area | Domanda | Evidenza |
 | --- | --- | --- |
-| Servizio | funzione e utenti? | scheda servizio |
-| Dati | quali e come classificati? | esito classificazione |
-| Dipendenze | sistemi, reti, identità, fornitori? | mappa |
-| Carico | volumi, picchi, latenza? | misure e stime |
-| Strategia | quale «R» e perché? | motivazione |
-| Destinazione | requisiti e qualifica compatibili? | verifica vigente |
-| Responsabilità | chi configura, osserva e ripristina? | matrice |
-| Dati | copia e sincronizzazione? | piano dati |
-| Test | quali criteri devono passare? | evidenze |
-| Cutover | quando e chi decide? | runbook |
-| Rollback | come si torna indietro? | procedura provata |
-| Esercizio | metriche, log, trace e alert? | dashboard |
-| Continuità | RPO, RTO, backup e alternative? | piano e test |
-| Uscita | esportazione e cancellazione? | exit plan |
+| Servizio | Quale funzione e quali utenti supporta? | Scheda del servizio |
+| Dati | Quali dati tratta e come sono classificati? | Esito della classificazione |
+| Dipendenze | Quali sistemi, reti, identità e fornitori coinvolge? | Mappa delle dipendenze |
+| Carico | Quali volumi, picchi e tempi di risposta sono attesi? | Misure e stime |
+| Strategia | Quale strategia di migrazione e perché? | Motivazione scritta |
+| Destinazione | I requisiti e la qualificazione sono compatibili? | Verifica vigente |
+| Responsabilità | Chi configura, osserva e ripristina? | Matrice dei ruoli |
+| Test | Quali criteri devono essere superati? | Evidenze di prova |
+| Cutover e rollback | Quando si passa e come si torna indietro? | Runbook provato |
+| Esercizio | Quali metriche, log, trace e alert servono? | Pannello operativo e procedura |
+| Continuità | Quali RPO, RTO, backup e alternative sono necessari? | Piano e test |
+| Uscita | Come avvengono esportazione e cancellazione? | Exit plan |
 
-## Domanda da commissario
+### Domanda da commissario
 
-**«Come imposteresti la migrazione al cloud di un servizio pubblico?»**
+**"Come imposteresti la migrazione al cloud di un servizio pubblico?"**
 
 Descriverei servizio, classificazione e impatti; inventarierei componenti e dipendenze; definirei requisiti e continuità; sceglierei strategia e destinazione motivate; assegnerei responsabilità; pianificherei dati, test, cutover e rollback; predisporrei osservabilità, backup, ripristino ed exit strategy. La tecnologia viene dopo il problema.
 
-## Domanda-trappola
+### Domanda-trappola
 
-**«Se il database è replicato in un’altra zona, il backup non serve?»**
+**"Se il database è replicato in un'altra zona, il backup non serve?"**
 
 No. La replica sostiene disponibilità e ripartenza, ma può propagare cancellazioni, corruzioni o errori. Il backup conserva punti recuperabili secondo una retention e deve essere testato. Rispondono a rischi diversi.
 
-## Errore tipico
+### Errore tipico
 
 Scegliere provider o orchestratore prima di classificare servizio, dipendenze e impatti produce una migrazione tecnicamente elegante ma incompatibile con dati, processi, continuità o uscita.
 
-## Mini-esercizi e quiz
+### Quiz 1 — Responsabilità in SaaS
 
-1. In SaaS l’ente conserva certamente:
-   - A. manutenzione hardware
-   - B. gestione corretta di utenti, dati e configurazioni proprie
-   - C. patch dell’hypervisor
-   - D. sostituzione dischi
+In un servizio SaaS l'ente conserva certamente:
 
-2. Un container, rispetto a una VM ordinaria:
-   - A. non usa CPU
-   - B. condivide normalmente il kernel dell’host
-   - C. contiene sempre un database
-   - D. non usa rete
+- A. manutenzione dell'hardware;
+- B. gestione corretta di utenti, dati e configurazioni proprie;
+- C. patch dell'hypervisor;
+- D. sostituzione dei dischi.
 
-3. La continuous delivery:
-   - A. elimina ogni approvazione
-   - B. mantiene il software rilasciabile
-   - C. coincide con il backup
-   - D. richiede Kubernetes
+**Risposta corretta: B.** Il perimetro tecnico del provider è più ampio rispetto a IaaS, ma l'ente mantiene responsabilità su uso, accessi, dati, configurazioni e continuità del proprio procedimento.
 
-4. Il percorso di una richiesta fra componenti è mostrato da:
-   - A. trace
-   - B. snapshot
-   - C. template
-   - D. RPO
+### Quiz 2 — Container e VM
 
-5. Un RPO di due ore riguarda:
-   - A. tempo di sostituzione server
-   - B. perdita temporale massima di dati
-   - C. durata del contratto
-   - D. latenza
+Un container, rispetto a una VM ordinaria:
 
-6. Spiega perché uno snapshot non è automaticamente un backup.
+- A. non usa CPU;
+- B. condivide normalmente il kernel dell'host;
+- C. contiene sempre un database;
+- D. non usa rete.
 
-7. Indica due motivi per cui tre repliche non garantiscono da sole continuità.
+**Risposta corretta: B.** Il container isola il processo e le dipendenze secondo il runtime, mentre una VM include normalmente un sistema operativo guest. Le due tecniche possono convivere.
 
-**Soluzioni:** 1-B; 2-B; 3-B; 4-A; 5-B. Nelle risposte aperte devono comparire dominio di guasto, conservazione separata, ripristino, dipendenze condivise e procedure.
+### Quiz 3 — Continuous delivery
 
-## Checklist finale
+La continuous delivery:
 
-Verifica di aver:
+- A. elimina ogni approvazione;
+- B. mantiene il software rilasciabile;
+- C. coincide con il backup;
+- D. richiede Kubernetes.
 
-- distinto caratteristiche, servizi e distribuzione;
-- assegnato le responsabilità;
-- separato VM, container, immagine, snapshot e backup;
-- spiegato stato desiderato e orchestrazione;
-- classificato prima della scelta;
-- motivato migrazione e uscita;
-- descritto pipeline, artefatti e gate;
-- distinto integration, delivery e deployment;
-- collegato IaC a versionamento e review;
-- usato metriche, log e trace insieme;
-- distinto ridondanza, replica, backup, DR e continuità;
-- ricavato RPO e RTO dall’impatto;
-- previsto cutover, rollback e prove.
+**Risposta corretta: B.** Il software rimane in una condizione verificata e rilasciabile; l'attivazione in produzione può richiedere una decisione esplicita e controlli aggiuntivi.
 
-## Da sapere in 5 righe
+### Quiz 4 — Segnali di osservabilità
 
-Il cloud è un modello elastico e misurato, non un server remoto. IaaS, PaaS e SaaS spostano il confine delle responsabilità senza annullare quelle dell’ente. Container e VM sono diversi e complementari. DevOps rende modifiche e infrastruttura versionate, verificabili e osservabili. Backup, disaster recovery e business continuity rispondono a domande differenti e devono essere provati.
+Il percorso di una richiesta fra componenti è mostrato da:
 
-## Riferimenti consolidati
+- A. una trace;
+- B. uno snapshot;
+- C. un template;
+- D. l'RPO.
 
-- [[sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie]]
-- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
-- [[sources/sicurezza-informatica-privacy-nis2-pa]]
-- [[sources/reti-sistemi-infrastrutture-fonti-tecniche]]
-- [[sources/campione-bandi-ict-pa-vol-08-2024-2026]]
-- [[sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08]]
-- [[topics/open-data-interoperabilita-cloud-pa]]
-- [[topics/ict-digitale-cybersecurity-dati-concorsi-pa]]
-- [[books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali]], § 17.
+**Risposta corretta: A.** Le trace permettono di seguire una richiesta tra servizi; metriche e log restano complementari per misurare il fenomeno e leggerne il contesto.
 
-## Note di review
+### Quiz 5 — RPO
 
-- Verificare prima del text freeze Regolamento unico, catalogo e terminologia ACN vigenti.
-- Sottoporre virtualizzazione, container, CI/CD, IaC e osservabilità a cloud architect e platform/SRE engineer.
-- Sottoporre backup, RPO/RTO, disaster recovery e continuità a review specialistica.
-- Validare strategie e profondità rispetto ai bandi ufficiali del campione.
-- Mantenere nei capitoli 8-9 sicurezza e IAM di dettaglio; nel capitolo 12 clausole e SLA.
+Un RPO di due ore riguarda:
+
+- A. il tempo di sostituzione di un server;
+- B. la perdita temporale massima di dati tollerabile;
+- C. la durata del contratto;
+- D. la latenza della rete.
+
+**Risposta corretta: B.** L'RPO esprime quanto indietro nel tempo può collocarsi il punto di ripristino; l'RTO riguarda invece il tempo entro cui il servizio deve tornare utilizzabile.
+
+### Quiz 6 — Snapshot e backup
+
+Perché uno snapshot non è automaticamente un backup?
+
+**Risposta corretta: perché può condividere storage, amministrazione o dominio di guasto con l'originale.** Per essere utile al ripristino, una copia deve rispettare la conservazione prevista e la procedura deve essere provata.
+
+### Quiz 7 — Repliche e continuità
+
+Indica due motivi per cui tre repliche non garantiscono da sole la continuità.
+
+**Risposta corretta: le repliche possono condividere un dominio di guasto e possono dipendere dallo stesso database, collegamento, configurazione o credenziale.** La continuità richiede anche procedure, ruoli, dati coerenti e test.
+
+### Mini-esercizio
+
+Per un servizio di prenotazione comunale descrivi, in dieci righe, una dipendenza critica, il segnale che ne mostrerebbe il degrado, il proprietario della correzione e la prova che conferma il ripristino. Poi indica se il caso richiede alta disponibilità, backup, disaster recovery o una combinazione delle tre misure.
+
+### Checklist finale
+
+Verifica di aver distinto caratteristiche, servizi e modelli di distribuzione; assegnato le responsabilità; separato VM, container, immagine, snapshot e backup; spiegato stato desiderato e orchestrazione; classificato prima della scelta; motivato migrazione e uscita; descritto pipeline, artefatti e controlli; distinto integration, delivery e deployment; collegato IaC a versionamento e review; usato metriche, log e trace insieme; distinto ridondanza, replica, backup, disaster recovery e continuità; ricavato RPO e RTO dall'impatto; previsto cutover, rollback e prove.
+
+### Da sapere in 5 righe
+
+Il cloud è un modello elastico e misurato, non un server remoto. IaaS, PaaS e SaaS spostano il confine delle responsabilità senza annullare quelle dell'ente. Container e VM sono diversi e complementari. DevOps rende modifiche e infrastruttura versionate, verificabili e osservabili. Backup, disaster recovery e business continuity rispondono a domande diverse e devono essere provati.
+
+### Riferimenti normativi e professionali essenziali
+
+- NIST SP 800-145, *The NIST Definition of Cloud Computing*.
+- Strategia Cloud Italia e documentazione ACN su classificazione e qualificazione dei servizi cloud per la PA.
+- Documentazione Kubernetes sui container, sugli oggetti e sui Pod.
+- Documentazione OpenTelemetry su metriche, log e trace.
+- NIST SP 800-34 Rev. 1, *Contingency Planning Guide for Federal Information Systems*.

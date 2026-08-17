@@ -1,0 +1,28 @@
+{
+  "volume": "VOL-12",
+  "version": "VOL-12-candidate-2026.08.14.1",
+  "date": "2026-08-14",
+  "source_commit": "a61d5fc",
+  "branch": "main",
+  "remote_commit_observed": "be864b6a",
+  "remote_divergence": {
+    "behind": 139,
+    "ahead": 2
+  },
+  "editorial_cutoff": "2026-08-14",
+  "source_cutoffs": {
+    "M-SP01": "2026-08-10",
+    "M-SP02": "2026-08-13",
+    "M-SP03": "2026-08-13",
+    "M-SP04": "2026-08-10"
+  },
+  "status": "publication-candidate",
+  "human_confirmation": "pending-step-24",
+  "pages": 459,
+  "trim_inches": [
+    6.69,
+    9.61
+  ],
+  "bleed": false,
+  "pdf_sha256": "F8ECF8499C19BF7727F4BB72314CAA84DF828C911DD16D0918DAA278079609F9"
+}

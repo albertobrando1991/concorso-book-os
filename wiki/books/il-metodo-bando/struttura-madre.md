@@ -28,9 +28,9 @@ Il libro insegna a leggere il bando, costruire il piano, studiare le materie com
 ## Architettura editoriale attuale
 Decisione del 2026-06-27: il prodotto si divide in volume principale autonomo piu [[books/il-metodo-bando/ricettario-digitale|Ricettario operativo digitale]].
 
-Il volume principale mantiene introduzione e capitoli 1-24 senza riduzione strutturale. Deve restare un manuale-workbook completo: metodo, materie comuni essenziali, allenamento alle prove, adattamento ai profili e kit finale.
+Il volume principale mantiene introduzione e capitoli 1-24 senza riduzione strutturale, con l'aggiunta di un capitolo di Conclusione (2026-08-10) che chiude il volume prima delle appendici. Deve restare un manuale-workbook completo: metodo, materie comuni essenziali, allenamento alle prove, adattamento ai profili, kit finale e chiusura.
 
-I capitoli gia scritti dal 25 al 47 non vengono eliminati e non diventano una seconda meta del cartaceo. Vengono riclassificati come moduli digitali di applicazione avanzata: protocolli, checklist, casi, schede, simulazioni, laboratori e strumenti duplicabili collegati ai capitoli del libro.
+I capitoli gia scritti dal 25 al 47 non vengono eliminati e non diventano una seconda meta del cartaceo. Vengono riclassificati come moduli digitali R1-R23 di applicazione avanzata (rinumerazione del 2026-08-10, per non implicare continuita con la numerazione 1-24 del cartaceo): protocolli, checklist, casi, schede, simulazioni, laboratori e strumenti duplicabili collegati ai capitoli del libro.
 
 Terzo livello: [[books/moduli/architettura-moduli-specialistici|moduli specialistici per famiglia concorsuale]]. I moduli sono libri di lavoro separati nella dashboard, con `book_id` autonomo, e servono a sviluppare profili, prove, materie specialistiche e casi tipici senza appesantire il volume principale.
 
@@ -176,6 +176,11 @@ Contenuti: correggere non basta, errori di memoria/concetto/distrazione/strategi
 
 ### Capitolo 24 - Checklist operative
 Contenuti: prima di scegliere, prima domanda, dopo domanda, prima scritto, prima orale, ultimi 7 giorni, ultime 24 ore, documenti, ansia/logistica, dopo prova.
+
+## Conclusione
+
+### Il metodo che resta dopo il libro
+Contenuti: sintesi delle cinque promesse dell'introduzione, capitale riutilizzabile tra concorsi, rimando alle appendici e al ricettario/moduli come strumenti permanenti, mini-esercizio finale di chiusura.
 
 ## Appendici
 - Appendice A: glossario essenziale PA, 100-150 termini.

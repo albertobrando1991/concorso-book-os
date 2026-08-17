@@ -2,6 +2,35 @@
 
 ## Target
 
+## Addendum retrofit formato 2 — 2026-08-09
+
+Il budget legacy in fondo al documento è superato per questo ciclo. Il testo esistente contiene già teoria, mappa, decoder, caso, domande ed esercizio: va conservato e riorganizzato nei nuclei seguenti.
+
+| Nucleo ID | Perimetro | Stato | Sviluppo/output |
+| --- | --- | --- | --- |
+| `N-TR01-01-01` | profilo ICT pubblico | completo nella sostanza | funzione, cinque elementi, responsabilità; classificazione oggetto-attività-contesto-output |
+| `N-TR01-01-02` | famiglie di profilo | completo nella sostanza | generalista, infrastrutture/cloud, cyber, data/AI, alta professionalità; confronto motivato |
+| `N-TR01-01-03` | enti e contesti | parziale | enti locali, università, regioni/agenzie, autorità/ricerca; microcaso profilo-contesto |
+| `N-TR01-01-04` | Mappa BANDO ICT | completo nella sostanza | Bando-Aree-Nuclei-Diario-Output; mappa e controllo lacune |
+| `N-TR01-01-05` | requisiti, materie e prove | parziale | accesso, attività, programma, criteri, quiz, scritto, orale e caso; matrice di classificazione |
+| `N-TR01-01-06` | Bando Decoder ICT | completo nella sostanza | fonte, destinazione, stato, priorità e pacchetto minimo; decoder, caso e checklist |
+
+Conservare apertura, obiettivo, cinque elementi, famiglie, Mappa BANDO, distinzione requisiti/materie/prove, decoder, caso, domanda, trappola, errore e mini-esercizio. Non duplicare lettura generale del bando, nucleo PA, CAD/privacy, informatica di base o contratti di VOL-01; non anticipare i capitoli 2-12 o le simulazioni del 13. Il corpus non autorizza percentuali o requisiti universali.
+
+I sei H2 saranno `N-TR01-01-NN · Titolo`. Dopo il sesto: `▣ Verifica — Profilo, bando e piano specialistico`, almeno sei quiz con `Risposta corretta:` e motivazione, un caso ragionato e la checklist del decoder.
+
+Budget: minimo 600 parole per nucleo, obiettivo 650-750; 4.600-5.700 parole totali; almeno sei quiz, un caso e un blocco di verifica. Prevalgono le soglie CLI dello step 09.
+
+Fonti: dossier M-TR01 per il perimetro; campione di sette procedure; audit di 18 procedure/cinque cluster; logica v4 per il confine VOL-01-specialistico. Audit: separare requisiti/materie/attività/output; evitare generalizzazioni; verificare pacchetto VOL-01 + VOL-08, rinvii precisi, autonomia del lettore, assenza di wikilink nel corpo e riconoscibilità di ID/verifica/quiz/caso.
+
+### Verifica manuale step 08
+
+- [x] Sei Nucleo ID stabili assegnati.
+- [x] Stato, sviluppi, conservazioni e duplicazioni distinti.
+- [x] Esempi, caso, domande, esercizi e fonti definiti.
+- [x] Struttura H1/H2/H3, verifica e budget definiti.
+- [x] Audit e confini con VOL-01 dichiarati.
+
 `chapters/01-lavorare-ict-pa-ruoli-enti-prove.md`
 
 ## Nuclei assegnati

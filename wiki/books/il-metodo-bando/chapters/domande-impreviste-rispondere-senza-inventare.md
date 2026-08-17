@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/domande-impreviste-risposta-sicura-metodo-bando.md", "topics/domande-impreviste-concorsi.md", "topics/risposta-concorsuale.md", "topics/prova-orale.md", "topics/prova-scritta-teorico-pratica.md", "topics/schema-risposta-orale.md", "topics/collegamenti-materie-concorsuali.md", "topics/simulazioni-concorsuali.md", "topics/diario-errori.md"]
 ---
 
-# Capitolo 46 - Domande impreviste: rispondere senza inventare
+# R22 - Domande impreviste: rispondere senza inventare
 
 Prima o poi succede.
 
@@ -31,12 +31,12 @@ Spesso non è una domanda impossibile.
 Spesso è una domanda leggermente spostata:
 
 - un dettaglio non ripassato;
-- un esempio pratico chiesto all'improvviso;
+- un esempio pratico chiesto all’improvviso;
 - un collegamento laterale;
 - un confronto con un istituto vicino;
 - un caso con pochi dati;
 - un follow-up orale dopo una risposta corretta;
-- una domanda semplice, ma formulata in modo diverso da come l'avevi studiata.
+- una domanda semplice, ma formulata in modo diverso da come l’avevi studiata.
 
 In quel momento il rischio è inventare.
 
@@ -54,7 +54,7 @@ Alla fine del capitolo saprai:
 - distinguere vuoto reale, vuoto momentaneo e domanda solo formulata male;
 - evitare riferimenti non sicuri;
 - usare una struttura di recupero per scritto e orale;
-- trasformare l'incertezza in una risposta ordinata;
+- trasformare l’incertezza in una risposta ordinata;
 - allenare follow-up e domande laterali nelle simulazioni;
 - registrare nel Diario degli errori le incertezze che tornano;
 - rispondere senza diventare generico, evasivo o prolisso.
@@ -111,6 +111,8 @@ Significa usare una tecnica.
 
 ![Mappa domanda imprevista](../assets/chapter-46/01-mappa-domanda-imprevista.png)
 
+*Figura 46.1 - Mappa domanda imprevista.*
+
 ### Bando
 
 Il bando ti dice dove possono nascere domande impreviste:
@@ -123,7 +125,7 @@ Il bando ti dice dove possono nascere domande impreviste:
 - profilo professionale con competenze trasversali;
 - programmi che uniscono diritto, organizzazione, digitale, contabilità, contratti o comportamento.
 
-Se il bando prevede una prova orale o una prova teorico-pratica, devi allenare anche l'imprevisto. Non basta ripetere domande perfette.
+Se il bando prevede una prova orale o una prova teorico-pratica, devi allenare anche l’imprevisto. Non basta ripetere domande perfette.
 
 ### Aree
 
@@ -153,7 +155,7 @@ Quando non sai tutto, torna ai nuclei:
 - profilo;
 - effetto pratico.
 
-I nuclei ti aiutano a non cercare subito l'articolo o il dettaglio.
+I nuclei ti aiutano a non cercare subito l’articolo o il dettaglio.
 
 ### Diario
 
@@ -165,24 +167,26 @@ Il Diario degli errori deve distinguere cinque casi:
 | Non richiamavo | Tema studiato ma non recuperato. | Flashcard e richiamo attivo. |
 | Ho inventato | Ho aggiunto un dettaglio non sicuro. | Regola anti-invenzione. |
 | Ho divagato | Ho parlato di un tema vicino. | Allenare ritorno alla domanda. |
-| Ho perso ordine | Sapevo qualcosa ma l'ho detto male. | Simulazione breve. |
+| Ho perso ordine | Sapevo qualcosa ma l’ho detto male. | Simulazione breve. |
 
 ### Output
 
-L'output finale non è "non avere mai incertezze".
+L’output finale non è “non avere mai incertezze”.
 
 Gli output sono:
 
 - una risposta prudente ma utile;
 - una frase di perimetro;
 - una frase di ritorno alla domanda;
-- una voce nel Diario dell'incertezza;
+- una voce nel Diario dell’incertezza;
 - una simulazione mirata;
 - una scheda corretta.
 
 ## Formula: Perimetro - Nucleo sicuro - Sviluppo prudente - Chiusura
 
 ![Sequenza prudente per costruire una risposta senza inventare](../assets/chapter-46/02-perimetro-nucleo-sviluppo.png)
+
+*Figura 46.2 - Sequenza prudente per costruire una risposta senza inventare.*
 
 Quando arriva una domanda imprevista, usa quattro mosse.
 
@@ -231,22 +235,22 @@ Sviluppare in modo prudente significa dire qualcosa di utile senza superare ciò
 
 Puoi usare formule come:
 
-- "Il punto centrale è...";
-- "Restando al perimetro della domanda...";
-- "Il collegamento principale è...";
-- "Sul piano pratico, questo rileva perché...";
-- "La distinzione essenziale è...";
-- "Nel caso concreto guarderei anzitutto...";
-- "Ai fini della risposta, il profilo da evidenziare è...".
+- “Il punto centrale è...”;
+- “Restando al perimetro della domanda...”;
+- “Il collegamento principale è...”;
+- “Sul piano pratico, questo rileva perché...”;
+- “La distinzione essenziale è...”;
+- “Nel caso concreto guarderei anzitutto...”;
+- “Ai fini della risposta, il profilo da evidenziare è...”.
 
 Non usare formule assolute se non sei sicuro:
 
-- "sempre";
-- "mai";
-- "obbligatoriamente";
-- "in ogni caso";
-- "l'articolo è sicuramente...";
-- "la conseguenza è certamente...".
+- “sempre”;
+- “mai”;
+- “obbligatoriamente”;
+- “in ogni caso”;
+- “l’articolo è sicuramente...”;
+- “la conseguenza è certamente...”.
 
 La prudenza non indebolisce la risposta. La rende credibile.
 
@@ -256,11 +260,11 @@ La chiusura serve a non lasciare la risposta sospesa.
 
 Frasi utili:
 
-- "Quindi, ai fini della domanda, il punto è...";
-- "Per questo il tema va collegato a...";
-- "In sintesi, la risposta si concentra su...";
-- "Questo consente di evitare l'errore di...";
-- "Torno al quesito: l'elemento decisivo è...".
+- “Quindi, ai fini della domanda, il punto è...”;
+- “Per questo il tema va collegato a...”;
+- “In sintesi, la risposta si concentra su...”;
+- “Questo consente di evitare l’errore di...”;
+- “Torno al quesito: l’elemento decisivo è...”.
 
 Se chiudi bene, anche una risposta non perfetta appare ordinata.
 
@@ -268,17 +272,19 @@ Se chiudi bene, anche una risposta non perfetta appare ordinata.
 
 ![Tipologie di domanda imprevista e punto di partenza sicuro](../assets/chapter-46/03-tipi-domande-impreviste.png)
 
+*Figura 46.3 - Tipologie di domanda imprevista e punto di partenza sicuro.*
+
 ### 1. Domanda di dettaglio
 
 Esempio:
 
-> "Mi indichi il riferimento puntuale."
+> “Mi indichi il riferimento puntuale.”
 
 Se non sei sicuro del numero, non inventarlo.
 
-Risposta prudente all'orale:
+Risposta prudente all’orale:
 
-> "Non richiamerei un numero di articolo se non sono sicuro. Il punto che posso inquadrare è la funzione della regola: serve a...".
+> “Non richiamerei un numero di articolo se non sono sicuro. Il punto che posso inquadrare è la funzione della regola: serve a...”.
 
 Nello scritto, evita formule false. Se non ricordi il riferimento puntuale, lavora su definizione, funzione e applicazione, senza costruire una citazione inesistente.
 
@@ -286,7 +292,7 @@ Nello scritto, evita formule false. Se non ricordi il riferimento puntuale, lavo
 
 Esempio:
 
-> "Come collega questo tema con il digitale?"
+> “Come collega questo tema con il digitale?”
 
 Non devi aprire tutto il capitolo sulla PA digitale.
 
@@ -298,13 +304,13 @@ Usa:
 
 Risposta:
 
-> "Il collegamento principale è il documento o il dato prodotto dall'attività amministrativa. Il digitale rileva perché incide su tracciabilità, comunicazione e gestione delle informazioni. Torno al tema: non basta conoscere l'istituto in astratto, bisogna capire come diventa attività dell'ufficio."
+> “Il collegamento principale è il documento o il dato prodotto dall’attività amministrativa. Il digitale rileva perché incide su tracciabilità, comunicazione e gestione delle informazioni. Torno al tema: non basta conoscere l’istituto in astratto, bisogna capire come diventa attività dell’ufficio.”
 
 ### 3. Domanda di confronto non preparato
 
 Esempio:
 
-> "Che differenza c'è tra questi due strumenti?"
+> “Che differenza c’è tra questi due strumenti?”
 
 Non fare due monologhi.
 
@@ -323,7 +329,7 @@ Se non conosci tutte le differenze, formula quella centrale.
 
 Esempio:
 
-> "Un cittadino presenta un'istanza incompleta. Che cosa fa l'ufficio?"
+> “Un cittadino presenta un’istanza incompleta. Che cosa fa l’ufficio?”
 
 Non inventare fatti non presenti.
 
@@ -344,11 +350,11 @@ Il follow-up arriva dopo una risposta già data.
 
 Esempio:
 
-> "Mi faccia un esempio."
+> “Mi faccia un esempio.”
 
 Oppure:
 
-> "E se cambia il soggetto?"
+> “E se cambia il soggetto?”
 
 Il follow-up non richiede di ricominciare. Richiede di adattare.
 
@@ -374,11 +380,13 @@ Protocollo:
 
 Il vuoto peggiora se cerchi subito la formula perfetta.
 
-## Come rispondere all'orale
+## Come rispondere all’orale
 
-![Protocollo dell'orale per una domanda non prevista](../assets/chapter-46/04-risposta-orale-imprevista.png)
+![Protocollo dell’orale per una domanda non prevista](../assets/chapter-46/04-risposta-orale-imprevista.png)
 
-All'orale hai un vantaggio: puoi mostrare ordine nel ragionamento.
+*Figura 46.4 - Protocollo dell’orale per una domanda non prevista.*
+
+All’orale hai un vantaggio: puoi mostrare ordine nel ragionamento.
 
 Hai anche un rischio: puoi parlare troppo.
 
@@ -394,14 +402,14 @@ Serve a non partire fuori strada.
 
 Esempi:
 
-- "Inquadrerei la domanda dal punto di vista della funzione.";
-- "Il tema mi sembra riguardare soprattutto il rapporto tra soggetto e procedimento.";
-- "Partirei dalla distinzione centrale.";
-- "Nel caso concreto guarderei prima i fatti indicati.";
+- “Inquadrerei la domanda dal punto di vista della funzione.”;
+- “Il tema mi sembra riguardare soprattutto il rapporto tra soggetto e procedimento.”;
+- “Partirei dalla distinzione centrale.”;
+- “Nel caso concreto guarderei prima i fatti indicati.”;
 
 ### Passo 3: nucleo sicuro
 
-Di' una cosa solida.
+Di’ una cosa solida.
 
 Non dire tutto.
 
@@ -452,7 +460,9 @@ Se serve solo a riempire spazio, taglia.
 
 ![Decisione controllata nel quiz quando il richiamo non è sufficiente](../assets/chapter-46/05-quiz-non-so.png)
 
-Nel quiz la domanda imprevista ha un'altra forma: una domanda che non riconosci o un distrattore che assomiglia alla risposta.
+*Figura 46.5 - Decisione controllata nel quiz quando il richiamo non è sufficiente.*
+
+Nel quiz la domanda imprevista ha un’altra forma: una domanda che non riconosci o un distrattore che assomiglia alla risposta.
 
 Qui non devi scrivere una risposta prudente. Devi decidere.
 
@@ -463,9 +473,9 @@ Regole:
 - cerca parole assolute: sempre, mai, solo, tutti;
 - non cambiare risposta solo per ansia;
 - segna la domanda se puoi tornarci;
-- registra il motivo dell'incertezza dopo la prova.
+- registra il motivo dell’incertezza dopo la prova.
 
-Il Diario non deve contenere solo "sbagliata". Deve contenere perché era incerta.
+Il Diario non deve contenere solo “sbagliata”. Deve contenere perché era incerta.
 
 ## Frasi che aiutano e frasi da evitare
 
@@ -473,27 +483,29 @@ Il Diario non deve contenere solo "sbagliata". Deve contenere perché era incert
 
 | Frase | Quando usarla |
 |---|---|
-| "Il punto centrale è..." | Per tornare alla domanda. |
-| "Restando al perimetro del quesito..." | Per evitare divagazioni. |
-| "La funzione dell'istituto è..." | Quando manca il dettaglio puntuale. |
-| "La distinzione essenziale riguarda..." | Quando il confronto non è completo. |
-| "Nel caso concreto verificherei prima..." | Nei casi con dati incompleti. |
-| "Il collegamento rileva perché..." | Nei follow-up tra materie. |
+| “Il punto centrale è...” | Per tornare alla domanda. |
+| “Restando al perimetro del quesito...” | Per evitare divagazioni. |
+| “La funzione dell’istituto è...” | Quando manca il dettaglio puntuale. |
+| “La distinzione essenziale riguarda...” | Quando il confronto non è completo. |
+| “Nel caso concreto verificherei prima...” | Nei casi con dati incompleti. |
+| “Il collegamento rileva perché...” | Nei follow-up tra materie. |
 
 ### Frasi pericolose
 
 | Frase | perché è rischiosa |
 |---|---|
-| "Sicuramente l'articolo è..." | Se non sei sicuro, crei errore puntuale. |
-| "In ogni caso..." | Le regole amministrative hanno spesso condizioni. |
-| "È sempre così..." | Espone a eccezioni. |
-| "Non so nulla di questo." | Blocca anche ciò che potresti dire. |
-| "Questo si collega a tutto..." | Diventa dispersione. |
-| "Parlo dell'altro argomento..." | Abbandona la domanda. |
+| “Sicuramente l’articolo è...” | Se non sei sicuro, crei errore puntuale. |
+| “In ogni caso...” | Le regole amministrative hanno spesso condizioni. |
+| “È sempre così...” | Espone a eccezioni. |
+| “Non so nulla di questo.” | Blocca anche ciò che potresti dire. |
+| “Questo si collega a tutto...” | Diventa dispersione. |
+| “Parlo dell’altro argomento...” | Abbandona la domanda. |
 
-## Scheda operativa: Diario dell'incertezza
+## Scheda operativa: Diario dell’incertezza
 
-![Diario dell'incertezza: dalla domanda dubbia al recupero mirato](../assets/chapter-46/06-diario-incertezza.png)
+![Diario dell’incertezza: dalla domanda dubbia al recupero mirato](../assets/chapter-46/06-diario-incertezza.png)
+
+*Figura 46.6 - Diario dell’incertezza: dalla domanda dubbia al recupero mirato.*
 
 Dopo una simulazione, compila questa scheda.
 
@@ -507,7 +519,7 @@ Dopo una simulazione, compila questa scheda.
 | Frase migliore | Come avrei potuto rispondere? | |
 | Azione | Flashcard, ripasso, confronto, simulazione o taglio? | |
 
-Questa scheda vale più di un'altra ora di lettura passiva.
+Questa scheda vale più di un’altra ora di lettura passiva.
 
 ## Simulazione: il mazzo delle domande laterali
 
@@ -517,16 +529,16 @@ Non devono essere impossibili. Devono essere scomode.
 
 Esempi di formato:
 
-- "Mi faccia un esempio."
-- "Mi dica la differenza con..."
-- "E se il soggetto cambia?"
-- "Quale documento produce?"
-- "Quale controllo interviene?"
-- "Come lo collegherebbe al profilo?"
-- "Quale errore commette spesso il candidato?"
-- "Quale dato manca nel caso?"
-- "Come risponderebbe in 30 secondi?"
-- "Come lo scriverebbe in 10 righe?"
+- “Mi faccia un esempio.”
+- “Mi dica la differenza con...”
+- “E se il soggetto cambia?”
+- “Quale documento produce?”
+- “Quale controllo interviene?”
+- “Come lo collegherebbe al profilo?”
+- “Quale errore commette spesso il candidato?”
+- “Quale dato manca nel caso?”
+- “Come risponderebbe in 30 secondi?”
+- “Come lo scriverebbe in 10 righe?”
 
 Allenati con timer.
 
@@ -542,23 +554,25 @@ Poi valuta:
 
 ![Caso guidato: trasformare un imprevisto in una risposta credibile](../assets/chapter-46/07-caso-imprevisto.png)
 
-Elena sta simulando l'orale.
+*Figura 46.7 - Caso guidato: trasformare un imprevisto in una risposta credibile.*
+
+Elena sta simulando l’orale.
 
 La domanda è:
 
-> "Mi colleghi questo istituto alla responsabilità del dipendente pubblico."
+> “Mi colleghi questo istituto alla responsabilità del dipendente pubblico.”
 
 Elena non ha preparato quel collegamento.
 
 Prima risposta:
 
-> "La responsabilità del dipendente pubblico è molto importante, perché nella pubblica amministrazione ci sono vari tipi di responsabilità. Si collega anche alla trasparenza, alla privacy, al procedimento, al codice di comportamento e alla performance."
+> “La responsabilità del dipendente pubblico è molto importante, perché nella pubblica amministrazione ci sono vari tipi di responsabilità. Si collega anche alla trasparenza, alla privacy, al procedimento, al codice di comportamento e alla performance.”
 
 La risposta sembra ampia, ma non risponde.
 
 Seconda risposta:
 
-> "Restando al perimetro della domanda, partirei dalla funzione dell'istituto. Il collegamento con la responsabilità emerge quando l'attività dell'ufficio produce effetti e deve essere svolta rispettando competenza, correttezza e tracciabilità. Il punto non è citare ogni forma di responsabilità, ma capire che la regola amministrativa orienta il comportamento del dipendente e consente controlli se l'azione non è corretta. Quindi il collegamento principale è tra esercizio della funzione, doveri del dipendente e conseguenze dell'azione amministrativa."
+> “Restando al perimetro della domanda, partirei dalla funzione dell’istituto. Il collegamento con la responsabilità emerge quando l’attività dell’ufficio produce effetti e deve essere svolta rispettando competenza, correttezza e tracciabilità. Il punto non è citare ogni forma di responsabilità, ma capire che la regola amministrativa orienta il comportamento del dipendente e consente controlli se l’azione non è corretta. Quindi il collegamento principale è tra esercizio della funzione, doveri del dipendente e conseguenze dell’azione amministrativa.”
 
 La seconda risposta non finge una conoscenza totale.
 
@@ -566,11 +580,11 @@ Ma ha perimetro, nucleo, sviluppo e chiusura.
 
 ## Domanda da commissario
 
-> "Se non ricorda il riferimento puntuale, come imposta comunque la risposta?"
+> “Se non ricorda il riferimento puntuale, come imposta comunque la risposta?”
 
 Risposta modello:
 
-> "Eviterei di citare un riferimento puntuale non sicuro. Imposterei la risposta dal perimetro della domanda: definizione essenziale, funzione dell'istituto, soggetti coinvolti e conseguenza pratica. Se la domanda richiede un caso, partirei dai fatti indicati; se richiede un collegamento, sceglierei un solo ponte pertinente. In questo modo la risposta resta utile e verificabile senza costruire dettagli non controllati."
+> “Eviterei di citare un riferimento puntuale non sicuro. Imposterei la risposta dal perimetro della domanda: definizione essenziale, funzione dell’istituto, soggetti coinvolti e conseguenza pratica. Se la domanda richiede un caso, partirei dai fatti indicati; se richiede un collegamento, sceglierei un solo ponte pertinente. In questo modo la risposta resta utile e verificabile senza costruire dettagli non controllati.”
 
 Questa non è una scusa.
 
@@ -578,7 +592,7 @@ Questa non è una scusa.
 
 ## Domanda-trappola
 
-> "Se non so bene, devo parlare di più per compensare."
+> “Se non so bene, devo parlare di più per compensare.”
 
 Falso.
 
@@ -596,13 +610,13 @@ La risposta incerta deve essere più controllata, non più lunga.
 
 ## Errore tipico
 
-L'errore tipico è cercare la risposta perfetta.
+L’errore tipico è cercare la risposta perfetta.
 
 Il candidato pensa:
 
-> "Se non ricordo tutto, non posso rispondere."
+> “Se non ricordo tutto, non posso rispondere.”
 
-In realta spesso può rispondere a una parte della domanda.
+In realtà spesso può rispondere a una parte della domanda.
 
 La sequenza corretta è:
 
@@ -663,7 +677,7 @@ Se la risposta è orale, aggiungi:
 
 ## Da sapere in 5 righe
 
-La domanda imprevista non si vince inventando, ma delimitando. Prima capisci il perimetro, poi richiama il nucleo sicuro, sviluppa con prudenza e chiudi tornando alla domanda. All'orale usa pausa breve, frase di inquadramento e risposta proporzionata; nello scritto elimina dettagli non sicuri. Dopo la simulazione registra l'incertezza nel Diario: non sapevo, non richiamavo, ho inventato, ho divagato o ho perso ordine.
+La domanda imprevista non si vince inventando, ma delimitando. Prima capisci il perimetro, poi richiama il nucleo sicuro, sviluppa con prudenza e chiudi tornando alla domanda. All’orale usa pausa breve, frase di inquadramento e risposta proporzionata; nello scritto elimina dettagli non sicuri. Dopo la simulazione registra l’incertezza nel Diario: non sapevo, non richiamavo, ho inventato, ho divagato o ho perso ordine.
 
 ## Riferimenti consolidati
 
@@ -683,9 +697,3 @@ La domanda imprevista non si vince inventando, ma delimitando. Prima capisci il 
 - [[topics/collegamenti-materie-concorsuali]]
 - [[topics/simulazioni-concorsuali]]
 - [[topics/diario-errori]]
-
-## Note di review
-
-- Prima della pubblicazione finale, verificare con revisione editoriale se alcune frasi prudenziali per l'orale vanno rese più brevi o più naturali.
-- Gli esempi restano metodologici: eventuali esempi normativi puntuali devono essere agganciati ai capitoli di materia e alle fonti ufficiali.
-- Il capitolo non deve diventare un invito a improvvisare: va letto come protocollo di ordine, prudenza e recupero.

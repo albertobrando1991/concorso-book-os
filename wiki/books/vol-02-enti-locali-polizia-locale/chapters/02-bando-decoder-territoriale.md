@@ -30,7 +30,7 @@ last_compiled_from: ["wiki/sources/template-bando-decoder-metodo-bando.md", "wik
 
 Un bando di un ente territoriale non si legge soltanto per sapere se ci si può candidare. Si legge per capire quale lavoro viene richiesto e quale preparazione produce punti nella prova. La stessa parola, per esempio “ordinamento degli enti locali”, può indicare una risposta orale per un istruttore amministrativo, un caso contabile, un atto tecnico o un verbale di Polizia locale. Il Bando Decoder serve a trasformare questa differenza in decisioni di studio.
 
-Il suo compito è selezionare. Il candidato non deve copiare l'intero programma in una lista; deve distinguere ciò che appartiene al nucleo comune del VOL-01, ciò che costituisce il delta locale del VOL-02, gli approfondimenti di sottoprofilo e i rinvii verso uno specialista diverso.
+Il suo compito è selezionare. Il candidato non deve copiare l’intero programma in una lista; deve distinguere ciò che appartiene al nucleo comune del VOL-01, ciò che costituisce il delta locale del VOL-02, gli approfondimenti di sottoprofilo e i rinvii verso uno specialista diverso.
 
 ### Obiettivo del blocco
 
@@ -48,7 +48,7 @@ Al termine del capitolo il candidato sa estrarre dal bando ente, profilo, prove,
 
 ### 1. Leggere per campi, non per pagine
 
-La lettura utile del bando avviene per campi. In una prima passata si estraggono soltanto dati oggettivi: amministrazione, profilo e area, numero dei posti, requisiti, scadenze, allegati, prove, criteri di valutazione, materie, eventuali prove fisiche o linguistiche e comunicazioni ufficiali. Ogni dato va associato alla pagina o all'allegato di provenienza. Se non è presente, non va completato per abitudine: si annota “da verificare”.
+La lettura utile del bando avviene per campi. In una prima passata si estraggono soltanto dati oggettivi: amministrazione, profilo e area, numero dei posti, requisiti, scadenze, allegati, prove, criteri di valutazione, materie, eventuali prove fisiche o linguistiche e comunicazioni ufficiali. Ogni dato va associato alla pagina o all’allegato di provenienza. Se non è presente, non va completato per abitudine: si annota “da verificare”.
 
 La seconda passata riguarda il profilo reale. Un concorso bandito da un Comune non è automaticamente un concorso amministrativo generale; un bando per Polizia locale non richiede automaticamente tutti i settori di vigilanza con la stessa profondità. Bisogna cercare le attività descritte, le competenze richieste e il tipo di prova. Sono questi elementi, insieme alle materie, a determinare il peso dello studio.
 
@@ -67,7 +67,7 @@ La colonna “collocazione” protegge dal sovraccarico. Il procedimento amminis
 
 ### 3. Come assegnare le priorità
 
-Una priorità alta non dipende soltanto dal fatto che una materia appaia nel programma. È alta quando ricorrono insieme tre elementi: la materia è espressamente richiesta, è collegata alle mansioni del profilo e può diventare output di prova. Per un istruttore contabile locale, bilancio, entrate e atti di spesa meritano un posto prioritario; per un agente di Polizia locale, CdS, sanzioni, qualifiche e documentazione dell'attività hanno una resa immediata; per un profilo camerale, il Registro imprese e il procedimento di front office richiedono una verifica specifica dei bandi e delle fonti.
+Una priorità alta non dipende soltanto dal fatto che una materia appaia nel programma. È alta quando ricorrono insieme tre elementi: la materia è espressamente richiesta, è collegata alle mansioni del profilo e può diventare output di prova. Per un istruttore contabile locale, bilancio, entrate e atti di spesa meritano un posto prioritario; per un agente di Polizia locale, CdS, sanzioni, qualifiche e documentazione dell’attività hanno una resa immediata; per un profilo camerale, il Registro imprese e il procedimento di front office richiedono una verifica specifica dei bandi e delle fonti.
 
 Usare tre etichette è sufficiente: **presidio immediato**, **sviluppo programmato**, **da verificare**. La terza etichetta è importante quanto le altre: impedisce di studiare un dettaglio normativo, una prova o un regolamento locale prima di averne confermato la presenza.
 
@@ -75,33 +75,33 @@ Usare tre etichette è sufficiente: **presidio immediato**, **sviluppo programma
 
 - Il Decoder non riassume il bando: produce decisioni.
 - Ogni materia va collocata nel volume o nel modulo corretto.
-- La priorità nasce dall'incontro tra programma, profilo e prova.
-- Un'informazione non rintracciata resta “da verificare”, non diventa un dato presunto.
+- La priorità nasce dall’incontro tra programma, profilo e prova.
+- Un’informazione non rintracciata resta “da verificare”, non diventa un dato presunto.
 - Il risultato finale è una lista di output da allenare, non una pila di capitoli da leggere.
 
 ### Caso guidato
 
-Un Comune bandisce un profilo amministrativo e indica TUEL, procedimento amministrativo, servizi al cittadino, protocollo e prova teorico-pratica. Il candidato inserisce procedimento e accesso nel ripasso VOL-01; usa M-FL01 per competenze dell'ente, atti, protocollo e servizi; trasforma la prova in tre output: una risposta sintetica su organo e competenza, una sequenza di istruttoria e una bozza ragionata di atto. Non aggiunge edilizia o Polizia locale, perché il bando non le richiama.
+Un Comune bandisce un profilo amministrativo e indica TUEL, procedimento amministrativo, servizi al cittadino, protocollo e prova teorico-pratica. Il candidato inserisce procedimento e accesso nel ripasso VOL-01; usa M-FL01 per competenze dell’ente, atti, protocollo e servizi; trasforma la prova in tre output: una risposta sintetica su organo e competenza, una sequenza di istruttoria e una bozza ragionata di atto. Non aggiunge edilizia o Polizia locale, perché il bando non le richiama.
 
 ### Domanda da commissario
 
 **Come usa il bando per definire il piano di studio?**
 
-Estraggo prima profilo, prove, materie e allegati; classifico poi ogni voce come nucleo comune, delta locale, eventuale verticale o rinvio. Per ogni priorità definisco un output coerente con la prova e registro ciò che deve essere verificato sulla fonte ufficiale. Il piano nasce da questa griglia, non dall'indice del manuale.
+Estraggo prima profilo, prove, materie e allegati; classifico poi ogni voce come nucleo comune, delta locale, eventuale verticale o rinvio. Per ogni priorità definisco un output coerente con la prova e registro ciò che deve essere verificato sulla fonte ufficiale. Il piano nasce da questa griglia, non dall’indice del manuale.
 
 ### Domanda-trappola
 
 **Se il bando è di un Comune, devo studiare tutto il VOL-02?**
 
-No. Il Comune identifica una famiglia, non l'intero programma. Decidono il profilo, le materie, le prove e gli eventuali servizi indicati dal bando.
+No. Il Comune identifica una famiglia, non l’intero programma. Decidono il profilo, le materie, le prove e gli eventuali servizi indicati dal bando.
 
 ### Errore tipico
 
-**Confondere la fonte del bando con una fonte normativa.** Il bando dice cosa la procedura richiede; la norma e il regolamento spiegano la disciplina da studiare. Vanno letti insieme, senza attribuire all'uno il ruolo dell'altra.
+**Confondere la fonte del bando con una fonte normativa.** Il bando dice cosa la procedura richiede; la norma e il regolamento spiegano la disciplina da studiare. Vanno letti insieme, senza attribuire all’uno il ruolo dell’altra.
 
 ### Mini-esercizio
 
-Prendi un bando reale e completa sei righe: ente/profilo; prova più impegnativa; tre materie ad alta priorità; un nucleo da VOL-01; un capitolo del VOL-02; un'informazione da verificare. Chiudi scrivendo un output da produrre entro sette giorni.
+Prendi un bando reale e completa sei righe: ente/profilo; prova più impegnativa; tre materie ad alta priorità; un nucleo da VOL-01; un capitolo del VOL-02; un’informazione da verificare. Chiudi scrivendo un output da produrre entro sette giorni.
 
 ### Riferimenti consolidati
 
@@ -112,4 +112,4 @@ Prendi un bando reale e completa sei righe: ente/profilo; prova più impegnativa
 
 ### Note di review
 
-Prima di usare la griglia su una procedura concreta, verificare bando, allegati, rettifiche, calendario, criteri di prova e regolamenti o fonti settoriali richiamati dall'amministrazione.
+Prima di usare la griglia su una procedura concreta, verificare bando, allegati, rettifiche, calendario, criteri di prova e regolamenti o fonti settoriali richiamati dall’amministrazione.

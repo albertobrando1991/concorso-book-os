@@ -20,7 +20,7 @@ draft_stage: revised-editorial-draft
 last_compiled_from: ["sources/ripasso-finale-concorsi-metodo-bando.md", "topics/ripasso-finale-concorsi.md", "topics/metodo-di-studio.md", "topics/diario-errori.md", "topics/schede-operative-studio.md", "topics/simulazioni-concorsuali.md", "topics/taglio-priorita-studio-concorsi.md", "topics/giorno-prova-concorso.md", "topics/sostenibilita-preparazione-concorsi.md"]
 ---
 
-# Capitolo 40 - Ripasso finale: consolidare senza saturarsi
+# R16 - Ripasso finale: consolidare senza saturarsi
 
 Gli ultimi giorni prima della prova hanno una tentazione precisa: aggiungere.
 
@@ -62,6 +62,8 @@ La regola guida è:
 ## La mappa BANDO del ripasso finale
 
 ![Mappa del ripasso](../assets/chapter-40/01-mappa-ripasso-finale.png)
+
+*Figura 40.1 - Mappa del ripasso.*
 
 | Fase | Domanda | Azione finale |
 |---|---|---|
@@ -105,12 +107,12 @@ perché non serve adesso.
 
 | attività | Serve a | Segnale buono | Segnale di rischio |
 |---|---|---|---|
-| Ripasso | mantenere attivo ciò che sai | rispondi senza guardare subito | rileggi e pensi "mi sembra familiare" |
+| Ripasso | mantenere attivo ciò che sai | rispondi senza guardare subito | rileggi e pensi “mi sembra familiare” |
 | Recupero | chiudere un buco essenziale | correggi un errore ripetuto | riapri intere materie |
 | Simulazione | verificare output e tempo | produce una decisione | produce solo ansia o euforia |
-| Routine finale | ridurre rischio pratico | documenti, orari, percorso e schede pronti | studio pesante fino all'ultimo |
+| Routine finale | ridurre rischio pratico | documenti, orari, percorso e schede pronti | studio pesante fino all’ultimo |
 
-Il candidato disperso passa da una attività all'altra senza decidere.
+Il candidato disperso passa da una attività all’altra senza decidere.
 
 Il candidato metodico assegna a ogni attività una funzione.
 
@@ -125,6 +127,8 @@ Poi stabilizzo.
 ## Il fascicolo finale
 
 ![Le attività e il fascicolo essenziale del ripasso finale](../assets/chapter-40/02-quattro-attivita-ripasso.png)
+
+*Figura 40.2 - Le attività e il fascicolo essenziale del ripasso finale.*
 
 Il fascicolo finale è il materiale che puoi davvero usare negli ultimi giorni.
 
@@ -143,7 +147,7 @@ Deve stare in poche sezioni:
 | Output | quiz, scalette, risposte orali, casi | pochi esempi mirati |
 | Checklist | ultimi giorni e giorno prova | una pagina leggibile |
 
-La parola chiave è "usare".
+La parola chiave è “usare”.
 
 Se una scheda è bella ma non la usi per richiamo, risposta o correzione, non entra.
 
@@ -154,6 +158,8 @@ Se un materiale ti apre dieci dubbi nuovi a due giorni dalla prova, non è fasci
 ## La matrice tengo vivo / recupero / lascio
 
 ![Struttura del fascicolo finale](../assets/chapter-40/03-fascicolo-finale.png)
+
+*Figura 40.3 - Struttura del fascicolo finale.*
 
 Negli ultimi giorni devi prendere decisioni esplicite.
 
@@ -168,15 +174,17 @@ Usa questa matrice.
 | Errore da fretta | simulazione breve | sì | no |
 | Approfondimento specialistico | no | no | sì, se fuori priorità |
 
-La colonna "lascio" non è una sconfitta.
+La colonna “lascio” non è una sconfitta.
 
 È una decisione.
 
-Senza una colonna "lascio", il ripasso finale diventa un deposito di ansia.
+Senza una colonna “lascio”, il ripasso finale diventa un deposito di ansia.
 
 ## Protocollo 7-3-1
 
 ![Matrice per selezionare cosa tenere vivo, recuperare o lasciare](../assets/chapter-40/04-matrice-tengo-recupero-lascio.png)
+
+*Figura 40.4 - Matrice per selezionare cosa tenere vivo, recuperare o lasciare.*
 
 Il protocollo 7-3-1 non è una regola rigida.
 
@@ -227,13 +235,13 @@ Evita:
 
 ### Ultimo giorno: eseguire il protocollo
 
-L'ultimo giorno non serve a inventare il metodo.
+L’ultimo giorno non serve a inventare il metodo.
 
 Serve a eseguirlo.
 
-Qui il Capitolo 38 diventa centrale: documenti, percorso, orari, istruzioni, strumenti ammessi, routine e uscita dalla prova.
+Qui il R14 diventa centrale: documenti, percorso, orari, istruzioni, strumenti ammessi, routine e uscita dalla prova.
 
-Dal punto di vista del ripasso, l'ultimo giorno contiene solo:
+Dal punto di vista del ripasso, l’ultimo giorno contiene solo:
 
 - richiamo leggero dei nuclei caldi;
 - lettura di schede essenziali;
@@ -241,7 +249,7 @@ Dal punto di vista del ripasso, l'ultimo giorno contiene solo:
 - nessuna apertura di grandi argomenti;
 - preparazione mentale a seguire le istruzioni ufficiali.
 
-Se l'ultimo giorno scopri un buco enorme, non provare a riempirlo tutto.
+Se l’ultimo giorno scopri un buco enorme, non provare a riempirlo tutto.
 
 Trasformalo in una scheda minima: definizione, funzione, due parole chiave, errore da evitare.
 
@@ -251,6 +259,8 @@ Poi fermati.
 
 ![Protocollo di ripasso con finestre temporali progressive](../assets/chapter-40/05-protocollo-sette-tre-uno.png)
 
+*Figura 40.5 - Protocollo di ripasso con finestre temporali progressive.*
+
 Rileggere può aiutare, ma non basta.
 
 Il ripasso finale deve contenere richiamo attivo.
@@ -259,11 +269,11 @@ Esempi:
 
 | Metodo | Come farlo | Output |
 |---|---|---|
-| Domanda chiusa | "Che cosa significa accesso civico generalizzato?" | risposta in 5 righe |
-| Scaletta | "Come rispondo sul procedimento amministrativo?" | 5 punti ordinati |
-| Confronto | "Trasparenza e privacy: dove si bilanciano?" | tabella breve |
-| Caso | "Un cittadino chiede un documento con dati di terzi" | soluzione ragionata |
-| Orale | "Spiegalo in 90 secondi" | risposta parlata |
+| Domanda chiusa | “Che cosa significa accesso civico generalizzato?” | risposta in 5 righe |
+| Scaletta | “Come rispondo sul procedimento amministrativo?” | 5 punti ordinati |
+| Confronto | “Trasparenza e privacy: dove si bilanciano?” | tabella breve |
+| Caso | “Un cittadino chiede un documento con dati di terzi” | soluzione ragionata |
+| Orale | “Spiegalo in 90 secondi” | risposta parlata |
 | Quiz errori | rifai solo errori ricorrenti | correzione per causa |
 
 Il test del ripasso è semplice:
@@ -302,7 +312,7 @@ Chiediti:
 
 ### Se la prova è scritta
 
-Proteggi l'ordine della risposta.
+Proteggi l’ordine della risposta.
 
 Il ripasso finale deve produrre scalette.
 
@@ -371,7 +381,7 @@ Recuperare un buco negli ultimi giorni ha senso solo se il buco è:
 - ricorrente nelle simulazioni;
 - collegato a molti altri argomenti;
 - recuperabile con una scheda minima;
-- decisivo per l'output.
+- decisivo per l’output.
 
 Non ha senso se:
 
@@ -424,6 +434,8 @@ Non energia ideale.
 
 ![Richiamo attivo con verifica immediata](../assets/chapter-40/06-ripasso-attivo.png)
 
+*Figura 40.6 - Richiamo attivo con verifica immediata.*
+
 Luca ha una prova a quiz tra sette giorni.
 
 Ha studiato molto, ma ha un problema: il materiale è ovunque.
@@ -449,13 +461,15 @@ Negli ultimi tre giorni non apre il nuovo materiale.
 
 Fa richiamo attivo, mini-quiz sugli errori, confronti brevi e routine logistica.
 
-Arriva alla prova senza avere studiato "tutto".
+Arriva alla prova senza avere studiato “tutto”.
 
 Ma arriva con un sistema eseguibile.
 
 ## Domanda da commissario
 
-![Caso guidato: organizzare il ripasso dell'ultima settimana](../assets/chapter-40/07-caso-ripasso.png)
+![Caso guidato: organizzare il ripasso dell’ultima settimana](../assets/chapter-40/07-caso-ripasso.png)
+
+*Figura 40.7 - Caso guidato: organizzare il ripasso dell’ultima settimana.*
 
 perché negli ultimi giorni è spesso più utile il richiamo attivo della rilettura passiva?
 
@@ -469,7 +483,7 @@ Risposta guidata: non necessariamente. Aumentare le ore senza criterio può ridu
 
 ## Errore tipico
 
-L'errore tipico è scambiare ansia per necessità.
+L’errore tipico è scambiare ansia per necessità.
 
 Il candidato sente pressione e apre tutto.
 
@@ -553,7 +567,7 @@ Prima della prova controlla:
 - ho preparato checklist, documenti e routine del giorno prova?
 - ho lasciato spazio a recupero e lucidità?
 
-Se rispondi "no" a troppe domande, non aggiungere altro materiale.
+Se rispondi “no” a troppe domande, non aggiungere altro materiale.
 
 Riordina il sistema.
 
@@ -577,10 +591,3 @@ Riordina il sistema.
 - [[topics/taglio-priorita-studio-concorsi]]
 - [[topics/giorno-prova-concorso]]
 - [[topics/sostenibilita-preparazione-concorsi]]
-
-## Note di review
-
-- Capitolo pronto come revised draft, da coordinare in revisione finale con Capitolo 13, Capitolo 23, Capitolo 34, Capitolo 36, Capitolo 38 e Capitolo 39.
-- Il capitolo non introduce nuove indicazioni normative: il bando e gli avvisi ufficiali restano il riferimento per prove, istruzioni, documenti e calendario.
-- In impaginazione valutare una doppia pagina workbook con "Fascicolo finale" e "Matrice tengo vivo / recupero / lascio".
-- Mantenere il focus sul consolidamento finale, evitando duplicazione con la routine del giorno prova.

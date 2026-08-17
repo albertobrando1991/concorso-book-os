@@ -8,211 +8,286 @@ topics: ["commercio", "pubblici esercizi", "suap", "polizia amministrativa", "po
 entities: ["Comune", "SUAP", "Polizia locale"]
 source_refs: ["sources/suap-commercio-polizia-amministrativa-locale.md", "sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md", "sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "sources/verifica-ufficiale-m-fl04-10-2026-07-23.md"]
 book_refs: ["m-fl04-polizia-locale", "vol-02-enti-locali-polizia-locale", "il-metodo-bando"]
-confidence: 0.9
-updated_at: 2026-07-23T00:00:00+02:00
+confidence: 0.91
+updated_at: 2026-08-08T19:25:00+02:00
 created_at: 2026-07-17T20:20:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fl04", "professional-draft", "suap", "commercio"]
 book_id: m-fl04-polizia-locale
 outline_section: 10
 volume_chapter: 39
-draft_stage: professional-draft
+draft_stage: professional-draft-complete
+format_version: 2
+dati_operativi: []
 module_code: M-FL04
 module_family: funzioni-locali
 companion_to: il-metodo-bando
-last_compiled_from: ["wiki/books/moduli/m-fl04-polizia-locale/index.md", "wiki/sources/suap-commercio-polizia-amministrativa-locale.md", "wiki/sources/verifica-ufficiale-m-fl04-10-2026-07-23.md"]
+last_compiled_from: ["wiki/books/moduli/m-fl04-polizia-locale/index.md", "wiki/sources/suap-commercio-polizia-amministrativa-locale.md", "wiki/sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md", "wiki/sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "wiki/sources/verifica-ufficiale-m-fl04-10-2026-07-23.md"]
 ---
 
 # Commercio, pubblici esercizi e SUAP
 
-## Specifica struttura madre
+## Guida al capitolo
 
-### Obiettivo
-Collegare SUAP, commercio, pubblici esercizi, SCIA, autorizzazioni, controlli e sanzioni amministrative al lavoro operativo della Polizia locale.
+L’apertura di un negozio, l’avvio di un bar o l’ampliamento di un dehors raramente dipendono da un solo atto. Occorre considerare l’attività concreta, il regime amministrativo, la pratica presentata e le competenze degli uffici coinvolti. Il candidato deve ricostruire questa catena senza confondere lo sportello che riceve la pratica con l’organo che effettua il sopralluogo o con l’autorità che adotta il provvedimento finale.
 
-### Nuclei
-- SUAP come punto di accesso per attività produttive.
-- SCIA, autorizzazione, comunicazione e controllo successivo.
-- Pubblici esercizi e controlli amministrativi essenziali.
-- Ruolo della Polizia locale in sopralluogo, verbalizzazione e segnalazione.
-- Regolamenti locali e norme regionali da verificare.
+### Obiettivo didattico
 
-### Output operativo
-Check-list sopralluogo; schema titolo-controllo-violazione-atto; caso pubblico esercizio.
+Al termine del capitolo saprai spiegare la funzione del SUAP, distinguere SCIA, autorizzazione e comunicazione, impostare il controllo di un esercizio commerciale e collegare l’accertamento al corretto seguito amministrativo. Il metodo è sempre lo stesso: identificare l’attività reale, individuare la fonte applicabile, verificare titolo e requisiti, documentare i fatti e rispettare le competenze.
 
-### Riferimenti consolidati
-- [[sources/suap-commercio-polizia-amministrativa-locale]]
-- [[sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa]]
-- [[sources/legge-24-novembre-1981-n-689-sanzioni-amministrative]]
+### Mappa BANDO
 
-## Scheda di lavoro
-Il capitolo deve essere costruito intorno allo sportello e al sopralluogo. Il candidato deve capire quale titolo è richiesto, quale ufficio gestisce il procedimento, quale violazione viene accertata e quale atto può seguire.
-
-## Struttura prevista
-1. Perché commercio e SUAP sono frequenti nei bandi PL.
-2. SCIA, autorizzazione e controllo successivo.
-3. Pubblici esercizi e TULPS essenziale.
-4. Sopralluogo: cosa osservare e cosa verbalizzare.
-5. Rapporto tra SUAP, uffici comunali e Polizia locale.
-6. Caso guidato: esercizio senza requisito o titolo corretto.
-7. Domanda da commissario: differenza tra SCIA e autorizzazione.
-8. Domanda-trappola: il SUAP coincide con la Polizia locale?
-9. Mini-esercizio: compilare check-list di controllo.
-
-## Note di review
-- Integrare norme regionali su commercio solo quando richiamate dai bandi target.
-- Non sostituire la disciplina SUAP con prassi locali non documentate.
-
-## Testo editoriale
-
-### Apertura editoriale
-
-Commercio, pubblici esercizi e SUAP sono il punto in cui la Polizia locale incontra ogni giorno l'amministrazione concreta. Dietro un'insegna accesa, un dehors, un esercizio di vicinato o un'attività di somministrazione possono esserci procedimenti, titoli, autocertificazioni, prescrizioni, regolamenti comunali e controlli successivi. Il candidato non deve imparare un catalogo di moduli: deve saper ricostruire il percorso corretto.
-
-La domanda da farsi non è soltanto "l'attività è regolare?". È più precisa: quale attività si sta esercitando, quale regime amministrativo la governa, quale ufficio gestisce la pratica, quali fatti può accertare la pattuglia e quale atto segue all'accertamento? Questa sequenza evita di confondere il SUAP con il controllore e la SCIA con un'autorizzazione.
-
-### Obiettivo del blocco
-
-Al termine del capitolo sai:
-
-- spiegare la funzione del SUAP nel ciclo di vita di un'attività produttiva;
-- distinguere SCIA, autorizzazione e comunicazione come regimi da verificare nella norma speciale;
-- descrivere il controllo di Polizia locale su commercio e pubblici esercizi senza inventare titoli o sanzioni;
-- separare istruttoria SUAP, endoprocedimenti, accertamento sul territorio e provvedimento finale;
-- impostare una risposta orale e una check-list di sopralluogo utili per un concorso.
-
-### Mappa BANDO: dalla pratica al controllo
-
-| Passaggio | Domanda guida | Output concorsuale |
+| Passaggio | Domanda guida | Risultato atteso |
 |---|---|---|
-| **Bando** | Sono richiesti SUAP, commercio, SCIA, somministrazione o polizia amministrativa? | Quadro delle fonti statali, regionali e locali. |
-| **Aree** | Il caso riguarda avvio, modifica, subentro, cessazione, titolo, prescrizione o illecito? | Classificazione della pratica e del controllo. |
-| **Nuclei** | Quale regime, quale ufficio, quale potere di accertamento e quale seguito? | Schema titolo - controllo - violazione - atto. |
-| **Diario** | Ho chiamato "autorizzazione" ogni pratica SUAP? | Errore corretto. |
-| **Output** | La traccia chiede una relazione, un verbale o una risposta orale? | Atto o risposta coerente con la competenza. |
+| **Bando** | Sono richiesti SUAP, commercio, somministrazione, SCIA o polizia amministrativa? | Selezione delle fonti statali, regionali e locali. |
+| **Aree** | Il caso riguarda avvio, modifica, subentro, cessazione, prescrizione o illecito? | Classificazione della pratica e del controllo. |
+| **Nuclei** | Quale regime, quale ufficio, quale potere e quale seguito? | Schema attività-titolo-controllo-atto. |
+| **Diario** | Ho chiamato autorizzazione ogni pratica? Ho attribuito al SUAP ogni decisione? | Correzione degli automatismi. |
+| **Output** | La traccia chiede una risposta orale, una relazione o un verbale? | Forma coerente con fatti e competenza. |
 
-### 1. SUAP: punto unico di accesso, non ufficio che fa tutto
+### Riferimenti di base
 
-Il D.P.R. n. 160/2010 organizza lo Sportello unico per le attività produttive. Il SUAP è il punto pubblico di riferimento territoriale e di accesso telematico per le vicende amministrative che riguardano attività produttive e servizi: avvio, trasformazione, ampliamento, trasferimento, cessazione o riattivazione, nei limiti dell'ambito applicabile.
+Il quadro generale comprende il D.P.R. 7 settembre 2010, n. 160 sul SUAP, l’art. 19 della legge 7 agosto 1990, n. 241 sulla SCIA, il d.lgs. 31 marzo 1998, n. 114 come fonte quadro statale sul commercio, la legislazione regionale e i regolamenti comunali. Nei casi pertinenti si aggiungono il TULPS e la legge 24 novembre 1981, n. 689. La soluzione concreta richiede sempre il controllo del testo vigente e della disciplina territoriale applicabile.
 
-La sua funzione è rendere unitario il rapporto con l'impresa e coordinare il procedimento. Non significa che il SUAP possieda, in proprio, tutte le competenze tecniche o di controllo. A seconda dell'attività, possono intervenire uffici comunali, enti sanitari, autorità ambientali, prevenzione incendi, uffici edilizi o altri soggetti competenti. Il SUAP riceve, indirizza e coordina; le verifiche sostanziali e i singoli pareri seguono la disciplina propria.
+## N-FL04-10-01 · SUAP e coordinamento procedimentale
 
-| Soggetto | Funzione essenziale | Non confondere con |
+SUAP significa Sportello unico per le attività produttive. Il D.P.R. n. 160/2010 lo configura come punto pubblico di riferimento territoriale e canale unitario per i procedimenti riguardanti l’esercizio di attività produttive e di prestazione di servizi. L’impresa non dovrebbe essere costretta a ricostruire da sola la mappa interna delle amministrazioni: presenta la pratica attraverso il punto di accesso previsto e riceve tramite quel canale le comunicazioni relative al procedimento.
+
+L’unicità del punto di accesso non comporta, però, unicità di ogni competenza. Una pratica può coinvolgere profili commerciali, edilizi, sanitari, ambientali, acustici, antincendio o di occupazione del suolo. I relativi uffici ed enti conservano le attribuzioni stabilite dalle norme di settore. Il SUAP assicura il raccordo, cura il flusso documentale e rende unitario il rapporto esterno; non diventa per questo titolare di qualsiasi valutazione tecnica né organo operativo di vigilanza.
+
+Questa distinzione ricorre spesso nelle prove. Dire che «il SUAP autorizza l’attività» può essere impreciso: occorre prima capire quale regime si applica. L’avvio può dipendere da una segnalazione, da un provvedimento espresso oppure da una comunicazione, secondo la norma speciale. Anche quando il procedimento passa dal SUAP, l’esito sostanziale dipende dalla fonte applicabile e dalle amministrazioni competenti.
+
+| Soggetto | Funzione essenziale | Limite da ricordare |
 |---|---|---|
-| **SUAP** | Punto unico telematico e coordinamento del procedimento. | Reparto di controllo su strada. |
-| **Ufficio competente** | Istruttoria o decisione su profili di propria competenza. | Sportello unico in senso organizzativo. |
-| **Polizia locale** | Vigilanza, sopralluogo, accertamento e documentazione nei limiti attribuiti. | Autorità che definisce sempre il titolo. |
-| **Titolare dell'attività** | Presenta pratica e documentazione, rispetta requisiti e prescrizioni. | Soggetto dispensato dai controlli per aver trasmesso una pratica. |
+| SUAP | Accesso telematico, gestione del flusso e coordinamento procedimentale. | Non svolge automaticamente tutte le verifiche tecniche. |
+| Ufficio comunale competente | Istruttoria e decisione sui profili attribuiti. | Non coincide necessariamente con lo sportello organizzativo. |
+| Altra amministrazione | Valutazione dell’interesse settoriale di competenza. | Interviene secondo la specifica disciplina. |
+| Polizia locale | Vigilanza, sopralluogo, accertamento e documentazione nei limiti attribuiti. | Non adotta ogni provvedimento sull’attività. |
+| Impresa | Presenta la pratica e deve possedere requisiti e titoli richiesti. | La trasmissione telematica non sana carenze sostanziali. |
 
-### 2. SCIA, autorizzazione e comunicazione: tre parole, tre logiche
+Per ricostruire un procedimento conviene porsi quattro domande. Qual è la vicenda dell’impresa: avvio, trasferimento, ampliamento, subentro, variazione o cessazione? Quale disciplina di settore la regola? Il modello è automatizzato oppure richiede una decisione espressa? Quali uffici devono verificare i singoli profili? Questa sequenza impedisce di fermarsi alla ricevuta di presentazione o al nome commerciale dichiarato dall’interessato.
 
-La SCIA, disciplinata dalla L. n. 241/1990 e dalle norme speciali, è una segnalazione corredata dalle dichiarazioni, attestazioni e allegati richiesti. Non è una semplice informazione: presuppone che il privato dichiari il possesso dei requisiti previsti per l'attività. Il procedimento SUAP può quindi essere impostato in forma automatizzata quando la legge consente l'avvio sulla base della segnalazione, restando ferma la possibilita' di controlli e di provvedimenti nei casi e nei limiti previsti.
+Nel procedimento automatizzato la pratica telematica consente di gestire le attività soggette a SCIA secondo le regole applicabili. Nel procedimento ordinario, invece, l’esercizio è subordinato al provvedimento amministrativo richiesto dalla legge. La distinzione non può essere decisa dalla preferenza dell’impresa o dalla modulistica: deriva dal quadro normativo vigente. Il modulo traduce una regola in campi da compilare, ma non sostituisce la regola.
 
-L'autorizzazione segue invece una logica diversa: il privato non può sostituire l'atto amministrativo quando la legge richiede una valutazione preventiva dell'amministrazione. La comunicazione, infine, assolve un dovere informativo e ha effetti definiti dalla singola disciplina. Nel concorso non è prudente indovinare il regime dalla sola denominazione commerciale dell'esercizio: il regime dipende dalla norma settoriale, dalla legislazione regionale e dalla situazione concreta.
+Per la Polizia locale il SUAP è anche un nodo informativo. Prima o dopo il sopralluogo può essere necessario verificare l’esistenza e il contenuto della pratica, confrontare quanto dichiarato con l’attività osservata e trasmettere gli esiti all’ufficio competente. Lo scambio deve essere tracciabile: una formula generica come «pratica presente» non chiarisce se essa riguardi proprio l’attività, i locali, il soggetto e la situazione controllati.
 
-> **Formula utile in prova**
+Il raccordo funziona meglio quando ogni passaggio conserva il proprio oggetto. La richiesta rivolta al SUAP deve indicare quale dato occorre verificare; la risposta deve permettere di riconoscere pratica, data, intestatario e vicenda; la relazione della pattuglia deve esporre i fatti che giustificano l’approfondimento. In questo modo il fascicolo non diventa una raccolta indistinta di documenti e l’impresa può comprendere quale profilo sia effettivamente sottoposto a controllo.
+
+**Applicazione al profilo.** In una risposta orale, il candidato può aprire così: «Il SUAP unifica l’accesso e coordina il procedimento, mentre le amministrazioni e gli uffici conservano le rispettive competenze sostanziali. La Polizia locale accerta i fatti sul territorio e trasmette gli esiti utili, senza confondere il verbale con il provvedimento finale». La formula mostra subito padronanza dei ruoli.
+
+> **Errore tipico — Lo sportello che fa tutto**
 >
-> "Prima identifico il regime amministrativo previsto dalla fonte vigente; poi verifico la completezza della pratica, i requisiti sostanziali e l'eventuale controllo successivo. Non trasformo una SCIA in autorizzazione, né un'autorizzazione in semplice comunicazione."
+> L’espressione “sportello unico” descrive l’unitarietà del rapporto con l’impresa, non la concentrazione indiscriminata di ogni funzione amministrativa in un solo ufficio.
 
-### 3. Commercio e pubblici esercizi: il controllo parte dall'attività reale
+## N-FL04-10-02 · SCIA, autorizzazione, comunicazione e controllo successivo
 
-La disciplina del commercio ha una fonte quadro statale, ma è integrata in modo significativo dalle leggi regionali e dai regolamenti comunali. Anche per i pubblici esercizi rilevano spesso discipline speciali: somministrazione, occupazione di suolo pubblico, impatto acustico, igiene, orari, insegne, rifiuti, sicurezza, vendita di particolari prodotti o eventuali titoli di pubblica sicurezza.
+SCIA, autorizzazione e comunicazione non sono tre nomi intercambiabili. Sono modelli differenti di rapporto tra iniziativa privata e controllo pubblico. Per risolvere un quiz o un caso pratico occorre partire dalla disciplina dell’attività, non dall’impressione suggerita dal nome del documento.
 
-Per questo il controllo non parte dal documento che si spera di trovare. Parte dall'attività effettivamente svolta. Una pattuglia osserva, ad esempio, se vi sia vendita, somministrazione, musica, occupazione di spazi, utilizzo di un dehor, modifica dei locali, trattenimento del pubblico o altra attività rilevante. Solo dopo collega i fatti al titolo richiesto, alle prescrizioni e alle competenze.
+La segnalazione certificata di inizio attività trova la propria disciplina generale nell’art. 19 della legge n. 241/1990, da coordinare con le norme speciali. Il privato segnala l’attività e attesta, mediante dichiarazioni e documenti richiesti, la presenza dei presupposti stabiliti dalla legge. Non chiede all’amministrazione di trasformare una sua scelta discrezionale in permesso: dichiara che ricorrono condizioni predeterminate e assume la responsabilità di quanto rappresentato.
 
-Il TULPS può rilevare in casi specifici, ma non è il fondamento automatico di ogni controllo commerciale. Analogamente, la presentazione di una pratica SUAP non chiude l'attività di vigilanza: titolo, requisiti, condizioni dichiarate e prescrizioni possono richiedere verifica.
+Da ciò discende il controllo successivo. L’avvio consentito dal modello segnalatorio non rende irrilevante l’amministrazione. Gli uffici verificano la completezza e, soprattutto, la sussistenza dei requisiti secondo tempi, poteri e garanzie previsti dalla disciplina vigente. Se emergono carenze, il seguito non si inventa: bisogna individuare quale potere la legge attribuisce all’autorità competente, quali condizioni ne regolano l’esercizio e se sia possibile conformare l’attività.
 
-### 4. Sopralluogo: osservare, confrontare, documentare
+L’autorizzazione appartiene a una logica preventiva. Quando la norma subordina l’attività a un provvedimento espresso, il privato non può sostituirlo con una propria segnalazione. L’amministrazione deve svolgere la valutazione richiesta e adottare l’atto prima che l’attività sia legittimamente esercitabile, salvo le specifiche regole settoriali. Il candidato deve evitare due opposti errori: chiamare autorizzazione qualsiasi pratica oppure considerare la SCIA una scorciatoia valida per ogni attività.
 
-Un sopralluogo efficace non è una lista di irregolarità presunte. È un accertamento ordinato, ripetibile e verificabile. La Polizia locale deve agire nel perimetro delle attribuzioni e delle regole procedurali applicabili, rispettando anche le garanzie dell'interessato.
+La comunicazione, infine, assolve una funzione informativa i cui effetti dipendono dalla singola norma. Può essere prevista per una vicenda dell’attività, per l’aggiornamento di dati o per un evento che l’amministrazione deve conoscere. La parola “comunicazione” non dice da sola se e quando si producano effetti: occorre leggere la fonte speciale.
 
-| Fase | Che cosa controllare | Output corretto |
+| Modello | Logica | Domanda di controllo |
 |---|---|---|
-| Identificazione | Attività, sede, soggetto presente, ruolo dichiarato. | Dati riportati nell'atto. |
-| Oggetto del controllo | Vendita, somministrazione, orari, aree utilizzate, eventi o prescrizioni. | Descrizione di fatti osservabili. |
-| Titolo e pratica | Quale titolo, SCIA, autorizzazione o comunicazione risulta necessario secondo la fonte da verificare. | Confronto tra attività reale e documentazione disponibile. |
-| Regole locali | Regolamento, ordinanza, concessione o altra prescrizione pertinente. | Rilievo puntuale della regola applicabile. |
-| Seguito | Violazione amministrativa, richiesta di verifica al SUAP o ad altro ufficio, eventuale profilo penale. | Verbale, relazione o trasmissione competente. |
+| SCIA | Il privato attesta presupposti predeterminati; segue il controllo amministrativo. | Requisiti e allegati corrispondono alla situazione reale? |
+| Autorizzazione | Serve una valutazione preventiva e un provvedimento espresso. | L’atto necessario è stato adottato ed è efficace? |
+| Comunicazione | L’interessato assolve un obbligo informativo definito dalla norma. | La vicenda comunicata e gli effetti coincidono con il caso concreto? |
 
-La formula "manca la SCIA" è insufficiente se non indica quale attività è stata esercitata, quale norma richiede la pratica, quale ufficio la gestisce e quali fatti sono stati accertati. Nello stesso modo, il verbale non sostituisce il provvedimento di sospensione, divieto di prosecuzione o altra misura che la legge riserva all'autorità competente.
+La ricevuta telematica dimostra normalmente l’invio della pratica identificata, non prova in astratto la regolarità di ogni attività svolta. Durante un controllo occorre verificare almeno quattro corrispondenze: soggetto, sede, attività e vicenda amministrativa. Una ricevuta riferita a un subentro non dimostra che sia stata assentita un’occupazione di suolo; una pratica relativa alla somministrazione non sostituisce un eventuale titolo edilizio o una prescrizione acustica.
 
-### 5. Dal controllo al procedimento sanzionatorio
+Il controllo successivo richiede collaborazione tra chi gestisce il fascicolo e chi osserva i fatti. L’ufficio può verificare dichiarazioni e documenti; la pattuglia può descrivere l’uso reale dei locali, gli spazi occupati, l’orario, la presenza di attrezzature, la vendita o la somministrazione effettivamente svolta. Solo il confronto tra fascicolo e realtà consente di individuare una difformità rilevante.
 
-Quando viene accertata una violazione amministrativa, l'operatore applica la disciplina generale della L. n. 689/1981 e quella speciale pertinente. Deve distinguere:
+**Metodo di risposta.** In una traccia, non concludere subito che «manca la SCIA». Scrivi invece: «Si identifica l’attività concretamente esercitata; si individua il regime previsto dalla disciplina statale, regionale e locale; si verifica la pratica riferita a soggetto, sede e attività; si documentano le eventuali difformità; si trasmettono gli esiti all’autorità competente per i provvedimenti previsti».
 
-- **accertamento**: fatto, tempo, luogo, soggetto e norma che si ritiene violata;
-- **contestazione o notificazione**: secondo il procedimento applicabile;
-- **istruttoria e decisione**: dell'ufficio o dell'autorità competente;
-- **misura sul titolo o sull'attività**: solo se prevista dalla fonte e adottata dal soggetto titolare del potere.
+**Domanda-trappola.** La SCIA è un’autorizzazione tacita? No. È un modello distinto, fondato sulle dichiarazioni dell’interessato e sul controllo dell’amministrazione. La risposta deve poi ricordare che effetti, verifiche e misure vanno ricavati dall’art. 19 vigente e dalla disciplina speciale.
 
-Questo schema è essenziale nei rapporti con il SUAP. La Polizia locale può trasmettere esiti di sopralluogo, verbali e segnalazioni tecniche utili a un controllo successivo o a un provvedimento. Il SUAP, o l'ufficio competente, gestisce il procedimento amministrativo nel quale l'interessato può esercitare le garanzie previste. Nessun passaggio va dato per implicito.
+> **Da sapere in 5 righe**
+>
+> La SCIA presuppone requisiti stabiliti dalla legge e consente il controllo successivo. L’autorizzazione richiede una decisione preventiva quando la fonte la prevede. La comunicazione ha la funzione e gli effetti assegnati dalla norma speciale. La ricevuta prova l’invio della pratica, non la regolarità universale dell’attività. Prima di contestare, si confrontano attività reale, regime, titolo e competenza.
 
-### Caso guidato: attività di somministrazione con dehors ampliato
+## N-FL04-10-03 · Commercio, pubblici esercizi e disciplina multilivello
 
-**Scenario.** Durante un controllo serale, la pattuglia rileva tavoli e sedie oltre l'area esterna abitualmente utilizzata da un esercizio di somministrazione. Il gestore mostra una ricevuta di pratica SUAP, ma non è chiaro se essa riguardi l'occupazione di suolo, la modifica dell'attività o un'altra vicenda amministrativa.
+La materia commerciale è multilivello. Il d.lgs. n. 114/1998 costituisce una fonte quadro statale, ma le Regioni disciplinano numerosi profili e i Comuni intervengono attraverso regolamenti, pianificazione, organizzazione dei procedimenti e gestione degli spazi pubblici. Per questo un manuale nazionale deve insegnare il metodo di inquadramento, senza inventare una regola locale valida ovunque.
 
-| Passaggio | Risposta professionale |
-|---|---|
-| Descrivere | Rilevare area effettivamente occupata, arredi, orario, attività e documenti esibiti. |
-| Separare | Distinguere esercizio di somministrazione, eventuale titolo commerciale e concessione o autorizzazione sull'uso dello spazio pubblico. |
-| Verificare | Individuare regolamento, titolo e ufficio competente; non dedurre il contenuto della pratica dalla sola ricevuta. |
-| Accertare | Contestare soltanto la violazione definita dalla norma applicabile e documentata nei fatti. |
-| Trasmettere | Inoltrare relazione o verbale a SUAP e uffici competenti per le verifiche e i provvedimenti di rispettiva competenza. |
+Si comincia dall’attività reale. Vendita al dettaglio, somministrazione di alimenti e bevande, attività artigianale, intrattenimento, evento temporaneo e occupazione di suolo possono convivere nello stesso luogo, ma non coincidono. Un locale che prepara prodotti e li vende può presentare profili diversi da un esercizio che li somministra con servizio e consumo sul posto. La qualificazione esatta dipende dalle definizioni vigenti e dalla situazione osservata.
 
-La risposta non deve dire automaticamente "chiudo il locale". Prima occorre accertare quale regola è stata violata, chi possiede il potere di incidere sull'attività e quale procedimento garantisce una decisione legittima.
+Il caso va poi scomposto per interessi pubblici. Un esercizio può essere regolare sotto il profilo commerciale e irregolare nell’uso dello spazio esterno; può possedere il titolo per la somministrazione ma violare una prescrizione acustica. Può anche avere presentato la pratica SUAP senza rispettare una condizione sanitaria o edilizia. Non esiste un generico «permesso del locale» capace di assorbire ogni profilo.
 
-### Da sapere in 5 righe
+| Profilo osservato | Fonte da individuare | Verifica essenziale |
+|---|---|---|
+| Tipo e dimensione dell’attività commerciale | Normativa statale e regionale | Regime amministrativo e requisiti. |
+| Somministrazione e modalità di esercizio | Disciplina regionale e settoriale | Corrispondenza tra attività reale e pratica. |
+| Uso di dehors o spazio pubblico | Regolamento e titolo comunale | Area, durata, prescrizioni e soggetto titolare. |
+| Orari, rumore, rifiuti, insegne | Norme e regolamenti pertinenti | Condotta concreta e prescrizione applicabile. |
+| Pubblica sicurezza | TULPS e normativa speciale, se pertinenti | Esistenza del presupposto e autorità competente. |
 
-- Il SUAP è il punto unico telematico di accesso e coordinamento per molte pratiche d'impresa.
-- Il SUAP non coincide con la Polizia locale né con tutti gli uffici che intervengono nel procedimento.
-- SCIA, autorizzazione e comunicazione hanno presupposti ed effetti diversi, stabiliti dalla disciplina vigente.
-- Il controllo parte dall'attività effettiva e confronta fatti, titoli, prescrizioni e regole locali.
-- Il verbale di accertamento non sostituisce il provvedimento amministrativo riservato all'autorità competente.
+Il TULPS non è il fondamento automatico di qualsiasi controllo su un pubblico esercizio. La polizia amministrativa comprende attività preventive, autorizzatorie e di vigilanza, ma ogni potere deve avere una base normativa. Se il caso coinvolge uno specifico titolo di pubblica sicurezza, il candidato lo individua e ne verifica la disciplina; se il problema riguarda solo l’occupazione di suolo, non deve trasformarlo in una questione di ordine pubblico.
 
-### Domanda da commissario
+Le fonti regionali sono particolarmente importanti. Un bando comunale o regionale può richiedere la conoscenza della legge sul commercio o sulla somministrazione vigente nel territorio. In quel caso il candidato deve aggiungerla al quadro nazionale e controllare definizioni, requisiti, procedimenti, competenze e apparato sanzionatorio. Le regole locali completano il lavoro per dehors, mercati, occupazioni, orari o altre materie attribuite al Comune.
 
-**Qual è il rapporto tra SUAP e Polizia locale nel controllo di un pubblico esercizio?**
+Nel sopralluogo, la denominazione sull’insegna è solo un indizio. Conta ciò che accade: quali beni sono venduti, se vi è consumo sul posto, quali spazi sono utilizzati, se si svolgono musica o intrattenimento, quali attrezzature sono presenti e chi gestisce l’attività. La descrizione deve essere neutra. Espressioni come «locale abusivo» anticipano una qualificazione giuridica; è preferibile annotare fatti, misure, documenti esibiti e dichiarazioni rese.
 
-Risposta modello: il SUAP è il punto unico di accesso e di coordinamento del procedimento relativo all'attività produttiva, mentre la Polizia locale svolge vigilanza e accertamento nei limiti attribuiti. Durante il sopralluogo l'operatore verifica l'attività effettivamente esercitata, i titoli o le pratiche richieste, le prescrizioni e la disciplina locale; documenta i fatti e contesta le violazioni quando ricorrono i presupposti. Gli esiti possono essere trasmessi al SUAP o all'ufficio competente, che cura l'istruttoria e adotta gli eventuali provvedimenti di propria competenza.
+**Caso breve.** Un negozio di vicinato colloca tavoli all’esterno e serve prodotti pronti ai clienti. La pattuglia non deve limitarsi a controllare l’esistenza della pratica commerciale. Deve descrivere modalità di servizio e consumo, area occupata, arredi e attività effettiva; poi confrontare i fatti con disciplina regionale, pratica SUAP e titolo sull’uso dello spazio. L’eventuale violazione nasce da questo confronto, non da un’etichetta intuitiva.
 
-### Domanda-trappola
+**Uso concorsuale.** Una risposta matura procede per strati: «qualifico l’attività; individuo il regime commerciale regionale; verifico gli eventuali titoli settoriali; controllo le regole comunali; delimito il ruolo del TULPS; infine collego il fatto alla norma e alla competenza». Questa struttura funziona sia all’orale sia nella redazione di una relazione.
 
-**La ricevuta di presentazione di una pratica SUAP prova sempre che l'attività può essere esercitata?**
+> **Errore tipico — Un solo titolo per tutto**
+>
+> L’attività economica può incontrare più discipline autonome. La presenza di una pratica SUAP non elimina requisiti, concessioni o prescrizioni previsti da altre fonti; allo stesso modo, una carenza settoriale non rende automaticamente inesistente ogni altro titolo.
 
-No. Occorre conoscere il regime previsto dalla fonte applicabile e verificare se la pratica è pertinente all'attività effettivamente svolta. La ricevuta non sostituisce requisiti sostanziali, prescrizioni, autorizzazioni preventive o altri titoli richiesti dalla legge.
+## N-FL04-10-04 · Sopralluogo, verbalizzazione e costruzione del fascicolo
 
-### Errore tipico
+Il sopralluogo trasforma un sospetto in fatti verificabili. Deve essere ordinato, ripetibile e comprensibile anche a chi non era presente. L’operatore non cerca soltanto una violazione: ricostruisce una situazione utile all’accertamento, all’eventuale contestazione e alle decisioni degli uffici competenti.
 
-**Confondere la piattaforma telematica con la competenza amministrativa.**
+La preparazione comincia prima dell’accesso, quando le circostanze lo consentono. Si individua l’oggetto del controllo, si consulta la disciplina pertinente e si verifica quali informazioni siano disponibili nel fascicolo. Se l’intervento nasce da un esposto, il contenuto della segnalazione orienta l’attenzione ma non costituisce prova del fatto. Se nasce da iniziativa, è comunque opportuno definire lo scopo per evitare un controllo dispersivo.
 
-Il SUAP semplifica il rapporto tra impresa e pubbliche amministrazioni; non cancella le competenze di uffici, enti e organi che devono verificare requisiti, rilasciare atti o adottare provvedimenti.
+Sul posto si identificano l’attività, la sede, il soggetto presente e il ruolo dichiarato. Si descrivono le operazioni osservate: vendita, preparazione, somministrazione, musica, trattenimento, uso di aree esterne, esposizione di merci o altre condotte rilevanti. Quando contano dimensioni o collocazioni, le misurazioni devono essere eseguite e rappresentate con modalità attendibili; fotografie e allegati vanno collegati al verbale secondo le regole applicabili.
 
-### Mini-esercizio: check-list di sopralluogo
+La richiesta dei documenti segue l’attività osservata. Non si parte da una lista identica per ogni esercizio. Occorre chiedere la pratica o il titolo pertinente, le eventuali prescrizioni, il titolo per lo spazio pubblico e gli altri atti richiesti dal caso. Se il documento non è disponibile sul posto, l’operatore registra la circostanza senza equipararla automaticamente all’inesistenza del titolo e procede alle verifiche d’ufficio.
 
-Completa la scheda per una traccia di controllo commerciale.
+| Fase | Contenuto | Evidenza da conservare |
+|---|---|---|
+| Identificazione | Luogo, data, attività, persone e ruoli. | Dati e dichiarazioni pertinenti. |
+| Osservazione | Condotte, spazi, attrezzature, orari e modalità operative. | Descrizione oggettiva, rilievi e allegati. |
+| Confronto | Pratica, titolo, requisiti e prescrizioni. | Estremi dei documenti e difformità specifiche. |
+| Qualificazione | Norma applicabile e competenza. | Ragionamento che collega fatto e precetto. |
+| Seguito | Contestazione, relazione o trasmissione. | Atto completo e destinatario competente. |
 
-| Voce | Domanda da compilare |
-|---|---|
-| Attività effettivamente svolta | ______________________________ |
-| Titolo o pratica da verificare | ______________________________ |
-| Disciplina regionale o regolamento locale pertinente | ______________________________ |
-| Fatti oggettivi rilevati | ______________________________ |
-| Violazione eventualmente contestabile | ______________________________ |
-| Ufficio o autorità cui trasmettere gli esiti | ______________________________ |
+Una buona verbalizzazione separa tre piani. Nel primo riferisce ciò che gli operatori hanno direttamente osservato. Nel secondo indica ciò che è stato dichiarato o documentato da altri. Nel terzo espone la qualificazione giuridica e il seguito. Mescolare i piani rende difficile capire quale elemento sostenga la conclusione.
 
-Chiudi con la formula: **"Accerto __; confronto con __; documento __; contesto o trasmetto a __."**
+La formula «manca la SCIA» è debole se non precisa attività, fonte, soggetto e verifica compiuta. È più solido scrivere che, alla data del controllo, per l’attività descritta e presso la sede indicata, dalle verifiche effettuate non risulta la pratica richiesta dalla specifica disciplina, specificando archivi consultati e interlocuzioni. La precisione tutela sia l’amministrazione sia l’interessato.
 
-### Riferimenti consolidati
+Il fascicolo deve permettere all’ufficio destinatario di decidere. Comprende l’atto di accertamento o la relazione, i documenti acquisiti, gli allegati, gli esiti delle consultazioni e le informazioni sul soggetto. Non occorre accumulare materiale irrilevante; occorre conservare ciò che dimostra il fatto e consente di esercitare le garanzie procedimentali.
 
-- [[sources/verifica-ufficiale-m-fl04-10-2026-07-23]]
-- [[sources/suap-commercio-polizia-amministrativa-locale]]
-- [[sources/legge-24-novembre-1981-n-689-sanzioni-amministrative]]
-- [[sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa]]
-- [[topics/polizia-locale]]
-- [[books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato]]
-- [[books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione]]
+**Check-list di sopralluogo.** Prima di chiudere l’atto, chiediti: ho identificato chi esercita davvero l’attività? Ho descritto ciò che ho visto senza formule valutative premature? Ho collegato ogni rilievo al documento pertinente? Ho distinto la mancata esibizione dall’assenza accertata? Ho individuato la fonte territoriale vigente? Ho indicato l’ufficio che riceverà gli esiti? Gli allegati sono richiamati e riconoscibili?
 
-### Note di review
+**Mini-esercizio.** Per un esercizio che utilizza un dehors, compila la sequenza: attività effettiva; area e arredi osservati; titolo commerciale; titolo o concessione per lo spazio; prescrizioni; difformità; norma applicabile; atto da redigere; autorità destinataria. Se una voce non è nota, indica la verifica necessaria invece di colmare il vuoto con un’ipotesi.
 
-Il capitolo è introduttivo e concorsuale. Prima della pubblicazione o dell'impiego operativo verificare D.P.R. n. 160/2010, art. 19 della L. n. 241/1990, disciplina commerciale vigente, legge regionale, regolamenti comunali, modulistica SUAP, eventuali titoli di pubblica sicurezza e provvedimenti specifici. Non usare questa trattazione per determinare il titolo, la sanzione o la misura applicabile a una specifica attività.
+> **Domanda da commissario**
+>
+> Qual è il rapporto tra SUAP e Polizia locale nel controllo? Il SUAP gestisce l’accesso e il coordinamento della pratica; la Polizia locale osserva e documenta i fatti, verifica quanto rientra nelle sue attribuzioni e trasmette gli esiti. L’eventuale provvedimento sull’attività è adottato dall’autorità competente secondo la fonte applicabile.
+
+## N-FL04-10-05 · Dall’accertamento al seguito sanzionatorio
+
+L’accertamento commerciale non coincide con l’intero procedimento sanzionatorio. La legge n. 689/1981 offre la cornice generale degli illeciti amministrativi, mentre la norma di settore individua la condotta vietata, la sanzione, l’autorità competente e le eventuali misure sull’attività. Il candidato deve tenere insieme le due discipline senza sovrapporle.
+
+Il primo passaggio è la ricostruzione del fatto: chi ha agito, dove, quando e con quali modalità. Il secondo è la qualificazione: quale precetto risulta violato e perché. Il terzo riguarda contestazione o notificazione secondo le regole applicabili. Il quarto è la fase di competenza dell’autorità chiamata a valutare gli atti e adottare la decisione prevista. Quando la legge ammette il pagamento in misura ridotta, esso appartiene al percorso sanzionatorio; termini e importi vanno verificati nella disciplina vigente e non dedotti per analogia.
+
+Accanto alla sanzione pecuniaria può esistere un procedimento che incide sul titolo o sulla prosecuzione dell’attività. Le due conseguenze non sono automaticamente identiche. Un verbale non equivale a un ordine di cessazione, e la pattuglia non può disporre una chiusura solo perché la ritiene opportuna. Serve una base normativa che attribuisca il potere e ne stabilisca presupposti, autorità e garanzie.
+
+| Passaggio | Domanda | Cautela |
+|---|---|---|
+| Accertamento | Quale fatto è provato? | Evitare formule generiche o conclusive. |
+| Norma violata | Quale precetto si applica proprio a quel fatto? | Verificare fonte statale, regionale e locale. |
+| Contestazione/notifica | Quale atto e quale procedura sono previsti? | Non inventare termini o destinatari. |
+| Decisione | Chi è l’autorità competente? | Separare operatore accertatore e decisore. |
+| Misura sull’attività | È prevista una sospensione, conformazione o cessazione? | Non confonderla con la sanzione pecuniaria. |
+
+### Caso guidato: somministrazione con dehors ampliato
+
+Durante un controllo serale, la pattuglia rileva tavoli e sedie oltre l’area esterna normalmente utilizzata da un esercizio di somministrazione. Il gestore mostra una ricevuta SUAP, ma non è chiaro quale pratica riguardi.
+
+La prima risposta professionale è descrittiva: si rilevano area effettivamente occupata, arredi, posizione, attività svolta, orario, persone presenti e documenti esibiti. La seconda è classificatoria: si separano l’esercizio di somministrazione dal titolo relativo all’uso dello spazio pubblico. La ricevuta viene acquisita nei suoi estremi, senza attribuirle un contenuto non verificato.
+
+Segue il confronto con il fascicolo e con il regolamento comunale. Si controlla se esista un titolo per l’occupazione, a quale area si riferisca, quali prescrizioni contenga e chi ne sia titolare. Se emerge una difformità, essa viene descritta e collegata alla norma applicabile. Solo a quel punto si individua l’eventuale violazione e si redige l’atto previsto.
+
+Gli esiti sono trasmessi al SUAP o all’ufficio competente per le valutazioni ulteriori. La relazione distingue ciò che la pattuglia ha accertato dal provvedimento che potrà seguire. Non conclude automaticamente con la chiusura del locale: l’uso irregolare dello spazio, il titolo commerciale e le misure sull’attività sono piani da esaminare separatamente.
+
+**Schema operativo finale.** Accerto il fatto; individuo la fonte; confronto attività e titolo; documento la difformità; contesto quando ne ricorrono i presupposti; trasmetto all’autorità competente; non anticipo il contenuto del provvedimento finale. Questa sequenza è applicabile a molti casi di commercio e polizia amministrativa.
+
+**Errore tipico.** Scrivere che la violazione «comporta la chiusura» senza indicare fonte, presupposti e autorità. In prova è preferibile una risposta prudente ma completa: «L’eventuale misura sull’attività sarà adottata dal soggetto competente, qualora ricorrano i presupposti stabiliti dalla disciplina vigente».
+
+### Errore tipico e domanda-trappola
+
+L’errore trasversale consiste nel saltare direttamente dal fatto alla misura finale. Alla domanda «la Polizia locale può chiudere subito l’esercizio irregolare?» non si risponde con un sì o un no assoluto: si identifica prima la violazione, poi si verifica se la fonte attribuisce uno specifico potere, a quale autorità, con quali presupposti e attraverso quale procedimento.
+
+## ▣ Verifica
+
+### Quiz 1
+
+**Quale affermazione descrive meglio il SUAP?**
+
+A. È il punto unico di accesso e coordinamento per le pratiche comprese nel suo ambito.
+B. È sempre l’organo che svolge il sopralluogo.
+C. Sostituisce tutte le amministrazioni competenti.
+D. È un archivio privo di funzioni procedimentali.
+
+**Risposta corretta: A.** L’unitarietà riguarda l’accesso e il coordinamento. Le competenze tecniche, di vigilanza e decisorie restano distribuite secondo le norme.
+
+### Quiz 2
+
+**La SCIA è:**
+
+A. sempre un’autorizzazione tacita;
+B. una semplice comunicazione senza responsabilità;
+C. una segnalazione fondata su presupposti legali e soggetta a controllo;
+D. un titolo utilizzabile per qualsiasi attività.
+
+**Risposta corretta: C.** La SCIA è distinta dall’autorizzazione e opera nei casi previsti dall’art. 19 della legge n. 241/1990 e dalle norme speciali.
+
+### Quiz 3
+
+**La ricevuta di una pratica SUAP prova sempre la regolarità dell’attività osservata?**
+
+A. Sì, per ogni profilo.
+B. Sì, se è stampata.
+C. No, occorre verificarne contenuto, pertinenza e corrispondenza con la situazione reale.
+D. No, perché le pratiche telematiche non hanno valore.
+
+**Risposta corretta: C.** La ricevuta documenta l’invio della pratica identificata; requisiti, prescrizioni e altri titoli devono essere verificati.
+
+### Quiz 4
+
+**Da che cosa deve partire il controllo di un pubblico esercizio?**
+
+A. Dal documento che l’operatore presume mancante.
+B. Dalla volontà di disporre la chiusura.
+C. Dall’attività effettivamente svolta e dai fatti osservabili.
+D. Soltanto dall’insegna.
+
+**Risposta corretta: C.** La qualificazione giuridica viene dopo la descrizione dell’attività reale e il confronto con fonti, titoli e prescrizioni.
+
+### Quiz 5
+
+**Il TULPS si applica automaticamente a ogni irregolarità commerciale?**
+
+A. Sì.
+B. Solo nei Comuni capoluogo.
+C. No, rileva quando il caso ricade nella specifica disciplina di pubblica sicurezza.
+D. No, perché è interamente abrogato.
+
+**Risposta corretta: C.** Ogni potere richiede una base normativa pertinente; non si trasforma un problema commerciale o di suolo pubblico in questione di pubblica sicurezza.
+
+### Quiz 6
+
+**Il verbale della Polizia locale equivale sempre al provvedimento di sospensione dell’attività?**
+
+A. No, accertamento e provvedimento finale vanno distinti.
+B. Sì, se contiene fotografie.
+C. Sì, quando esiste una pratica SUAP.
+D. No, perché la Polizia locale non può mai accertare illeciti commerciali.
+
+**Risposta corretta: A.** La pattuglia documenta e contesta nei limiti delle attribuzioni; la misura sull’attività richiede fonte, presupposti e autorità competente.
+
+### Caso ragionato finale
+
+Un esercizio presenta una ricevuta riferita a una variazione della pratica di somministrazione. Durante il sopralluogo risultano musica, tavoli su area pubblica e utilizzo di un locale accessorio non indicato nei documenti esibiti. Come imposti l’intervento?
+
+**Soluzione ragionata.** Non si attribuisce alla ricevuta un effetto generale. Si identificano gestore e attività; si descrivono musica, spazi, arredi e uso del locale accessorio; si acquisiscono gli estremi della pratica; si distinguono il profilo commerciale, l’occupazione di suolo, l’eventuale disciplina acustica o di intrattenimento e gli altri profili pertinenti. Si confrontano i fatti con il fascicolo SUAP, la normativa regionale e i regolamenti comunali. Le difformità accertate vengono collegate alle rispettive norme e documentate nell’atto appropriato. Contestazioni e trasmissioni sono effettuate secondo competenza; eventuali misure sull’attività restano affidate all’autorità individuata dalla disciplina vigente.
+
+## Riferimenti normativi e professionali essenziali
+
+- D.P.R. 7 settembre 2010, n. 160, disciplina del SUAP.
+- Legge 7 agosto 1990, n. 241, art. 19, disciplina generale della SCIA.
+- D.lgs. 31 marzo 1998, n. 114, quadro statale del commercio.
+- Legislazione regionale vigente in materia di commercio e somministrazione.
+- Regolamenti comunali pertinenti, compresi quelli sull’uso dello spazio pubblico.
+- R.D. 18 giugno 1931, n. 773, nei casi soggetti alla disciplina di pubblica sicurezza.
+- Legge 24 novembre 1981, n. 689, per il quadro generale delle sanzioni amministrative.
+
+Prima dell’applicazione a un caso concreto vanno verificati il testo vigente delle fonti, la disciplina regionale, i regolamenti locali, la modulistica SUAP e la specifica attribuzione di competenza.

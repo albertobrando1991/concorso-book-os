@@ -11,7 +11,7 @@ book_refs: ["m-tr01-ict-trasformazione-digitale","il-metodo-bando"]
 confidence: 0.55
 updated_at: 2026-06-27T19:56:28+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-tr01"]
 book_id: m-tr01-ict-trasformazione-digitale

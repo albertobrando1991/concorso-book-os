@@ -284,3 +284,118 @@ Budget orientativo: 4.400-4.800 parole, tabelle, schemi, caso ed esercizi inclus
 - cloud, cyber, IAM, data governance e procurement restano nei capitoli dedicati;
 - esempi e casi applicano concetti già spiegati;
 - fonti tecniche mancanti e review specialistiche restano aperte finché non eseguite.
+
+## Addendum retrofit Format 2 — 2026-08-10
+
+Questo addendum sostituisce, per il nuovo ciclo degli step 08-12, le valutazioni legacy sullo stato del capitolo. Il testo destinato al lettore esiste già: contiene circa 3.080 parole e costituisce la base da conservare. Lo step 09 dovrà riorganizzarlo nel Format 2 e colmare i delta misurabili, non riscriverlo da zero.
+
+### Stato reale e criterio di intervento
+
+- Il capitolo sviluppa già requisiti, ciclo di vita, architetture, qualità, test, controllo di versione, contratti API, evoluzione, ModI, PDND ed e-service.
+- Sono presenti Mappa BANDO, matrice requisito-test-evidenza, caso guidato, laboratorio API, domanda da commissario, domanda-trappola, errore tipico, tre esercizi, un quiz e checklist.
+- La source note `sources/ingegneria-software-api-interoperabilita-fonti-tecniche` consolida riferimenti IEEE, IETF, OpenAPI, AgID, PDND e Unione europea; processi PDND, versioni operative e applicazione puntuale del Regolamento (UE) 2024/903 restano da verificare al text freeze.
+- Il retrofit deve introdurre Nucleo ID stabili, almeno 600 parole per nucleo, una verifica dopo 5-7 nuclei e almeno sei quiz commentati.
+- La riga `Software e interoperabilità` della matrice resta `completo` sul piano aggregato, ma lo step 10 dovrà dimostrare la copertura atomica dei sei nuclei Format 2.
+
+### Nuclei Format 2 assegnati
+
+| Nucleo ID | Titolo operativo | Stato attuale | Sviluppo previsto allo step 09 | Confini principali |
+| --- | --- | --- | --- | --- |
+| `N-TR01-06-01` | Requisiti e ciclo di vita verificabile | parziale-avanzato | Integrare bisogno, stakeholder, requisiti, vincoli, criteri di accettazione, tracciabilità, modelli di ciclo e ruoli in una progressione unica. | Programmazione al cap. 3; capitolato e accettazione contrattuale al cap. 12. |
+| `N-TR01-06-02` | Architettura e qualità del software | parziale-avanzato | Collegare componenti, interfacce, coesione, accoppiamento, forme architetturali e attributi di qualità a trade-off verificabili. | Reti al cap. 5; cloud, container e deployment al cap. 7. |
+| `N-TR01-06-03` | Verifica, validazione, test e configurazione | parziale-avanzato | Consolidare livelli di test, casi, evidenze, difetti, regressione, versionamento del codice e gestione controllata delle modifiche. | CI/CD operativa al cap. 7; Secure SDLC e vulnerabilità al cap. 8. |
+| `N-TR01-06-04` | API come contratto | parziale-avanzato | Sviluppare operazioni, dati, precondizioni, errori, sincrono/asincrono, REST/SOAP, HTTP, JSON/XML e OpenAPI con disegno essenziale. | Protocolli come trasporto al cap. 5; modellazione dei dati al cap. 4. |
+| `N-TR01-06-05` | Evoluzione e gestione delle API | parziale-avanzato | Integrare compatibilità, versionamento, deprecazione, idempotenza, paginazione, limiti d’uso, livelli di servizio, osservabilità e API management. | IAM e logging di sicurezza al cap. 9; SLA contrattuali al cap. 12. |
+| `N-TR01-06-06` | Interoperabilità PA ed e-service | parziale-avanzato | Coordinare livelli di interoperabilità, ModI, erogatore, fruitore, PDND, e-service, finalità, minimizzazione, once only e raccordo europeo; assorbire caso e output concorsuali. | Open data e semantica al cap. 10; privacy specialistica e sicurezza nei capp. 8-10. |
+
+I sei nuclei devono superare autonomamente il test dello studente: definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, esempio e verifica. Nessun nucleo è dichiarato completo in Format 2 prima del controllo dello step 10.
+
+### Struttura H1/H2/H3 prevista
+
+# Ingegneria software, API e interoperabilità PA
+
+## Obiettivo, confine con il VOL-01 e Mappa BANDO
+
+## N-TR01-06-01 · Requisiti e ciclo di vita verificabile
+
+### Bisogni, requisiti, vincoli e criteri di accettazione
+
+### Tracciabilità, modelli di ciclo e ruoli
+
+## N-TR01-06-02 · Architettura e qualità del software
+
+### Componenti, interfacce e dipendenze
+
+### Forme architetturali e attributi di qualità
+
+## N-TR01-06-03 · Verifica, validazione, test e configurazione
+
+### Livelli di test, casi ed evidenze
+
+### Difetti, regressione e controllo delle modifiche
+
+## N-TR01-06-04 · API come contratto
+
+### Operazioni, dati, errori e interazioni
+
+### REST, SOAP, rappresentazioni e OpenAPI
+
+## N-TR01-06-05 · Evoluzione e gestione delle API
+
+### Compatibilità, versionamento e deprecazione
+
+### Idempotenza, requisiti operativi e API management
+
+## N-TR01-06-06 · Interoperabilità PA ed e-service
+
+### Livelli di interoperabilità, ModI e PDND
+
+### Caso guidato, laboratorio e output concorsuali
+
+### Domanda da commissario, domanda-trappola ed errore tipico
+
+## ▣ Verifica
+
+### Tre o più esercizi applicativi
+
+### Sei o più quiz commentati
+
+## Checklist finale
+
+## Da sapere in 5 righe
+
+## Riferimenti professionali essenziali
+
+### Budget e prove previste
+
+- Corpo complessivo: **4.700-5.700 parole**, escluso frontmatter.
+- Densità: **600-900 parole per ciascun Nucleo ID**; eventuali scostamenti richiedono motivazione didattica.
+- Verifiche: **un unico blocco dopo i sei nuclei**, entro il limite di 5-7 nuclei consecutivi.
+- Quiz: **almeno sei**, con risposta corretta e commento sui distrattori o sull’errore tipico.
+- Esercizi: **almeno tre** — requisito-test, compatibilità/versionamento e caso e-service.
+- Casi: **almeno uno completo**, con attori, finalità, dato minimo, autorizzazione, evidenze e criterio di chiusura.
+- Output: matrice requisito-test-evidenza, specifica essenziale API, scheda e-service e risposta orale motivata.
+
+### Fonti, topic, entity e rinvii da preservare
+
+- Conservare tutti i `source_refs` e i `last_compiled_from` attuali, inclusa la source note tecnica-istituzionale.
+- Usare `topics/open-data-interoperabilita-cloud-pa` e `topics/pa-digitale` come raccordi introduttivi, non come sostituti delle fonti specialistiche.
+- Conservare le entity IEEE Computer Society, IETF, OpenAPI Initiative, AgID, PDND e Unione europea solo nei punti sostenuti dalle fonti dichiarate.
+- Mantenere il rinvio preciso al VOL-01, capitolo 10, § 16, per i prerequisiti su API, PDND e interoperabilità.
+- Conservare i confini con i capp. 3-5 e 7-12 fissati dal piano e dalla Bibbia del volume.
+
+### Audit specialistici richiesti
+
+1. `chapter-lint` e controllo di densità didattica Format 2.
+2. Audit software engineering su requisiti, ciclo di vita, architettura, qualità e configurazione.
+3. Audit QA su verifica, validazione, livelli di test, casi, regressione ed evidenze.
+4. Audit API su HTTP, REST/SOAP, errori, OpenAPI, compatibilità, idempotenza e versionamento.
+5. Audit AgID/PDND su terminologia, ruoli, ModI, e-service, finalità e processi mobili.
+6. Audit giuridico-organizzativo sul raccordo con CAD, once only, minimizzazione e Regolamento (UE) 2024/903.
+7. Controllo dei confini con VOL-01 e con i capitoli 3-5 e 7-12.
+8. Citation guard su `source_refs`, `last_compiled_from`, riferimenti normativi e professionali.
+9. Revisione editoriale a 30 punti, test dello studente e controllo KDP su tabelle, schemi e blocchi tecnici.
+
+### Criterio di uscita aggiornato
+
+Lo step 09 è approvabile quando i sei Nucleo ID compaiono nel capitolo, ogni nucleo supera la soglia e il test dello studente, la verifica contiene almeno sei quiz commentati e tre esercizi, il caso e-service dichiara attori, finalità, dati, autorizzazione ed evidenze e il corpo non dipende da materiali interni. Lo step 10 dovrà dimostrare la copertura reale nella matrice; gli step 11-12 completeranno Humanizer e revisione editoriale senza anticipare la conferma umana dello step 24.

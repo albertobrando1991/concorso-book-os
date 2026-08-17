@@ -28,9 +28,9 @@ last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/front-matter/
 | **Orientamento VOL-02** | Come usare il volume con VOL-01, Bando Decoder territoriale, piano 30/60/90 e confini con gli altri volumi specialistici. |
 | **M-FL01 - Comuni, Unioni e servizi comunali** | TUEL operativo, statuti, organi, atti, procedimento locale, servizi demografici/sociali, contabilità locale, tributi, patrimonio, controlli e laboratorio teorico-pratico. |
 | **M-FL02 - Regioni, Province e Città metropolitane** | Ordinamento regionale e di area vasta, competenze, procedimenti, programmazione, bilancio, drafting, fondi UE, PNRR, società partecipate e funzioni territoriali. |
-| **M-FL04 - Polizia locale** | Ordinamento, qualifiche, poteri, Codice della strada, L. 177/2024, sanzioni, polizia giudiziaria, TULPS, sicurezza urbana, commercio, edilizia, ambiente, sinistri e atti. |
 | **M-FL03 - Camere di commercio** | Modulo di riconciliazione incluso: sistema camerale, Unioncamere, Registro imprese, servizi alle imprese, regolazione del mercato e laboratorio bando camerale. |
-| **Workbook finale** | Simulazione integrata, schemi di atti, glossario, matrice profili/materie/prove, piano 30/60/90, diario degli errori e registro aggiornamenti normativi. |
+| **M-FL04 - Polizia locale** | Ordinamento, qualifiche, poteri, Codice della strada, L. 177/2024, sanzioni, polizia giudiziaria, TULPS, sicurezza urbana, commercio, edilizia, ambiente, sinistri e atti. |
+| **Simulazione finale VOL-02** | Bando locale integrato, quiz, risposta sintetica, caso pratico, verbale/atto, orale e diario degli errori. |
 
 > [!TIP]
 > Come leggere il volume

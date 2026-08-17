@@ -12,8 +12,10 @@ import {
   WandSparkles
 } from "lucide-react"
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
+import { canBackfillBlock, moveTrailingHeadingToNextPage, renderedPageGuard } from "@/src/book/pagination"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
+import { normalizePageBoundaries } from "@/src/server/book/book-studio-page-boundaries"
 import { ricettarioModuleLabel } from "@/src/server/book/book-studio-labels"
 import type { WriterProvider } from "@/src/server/config"
 import {
@@ -64,7 +66,6 @@ const FRONT_MATTER_RUNNING_PAGE_COST = 36
 const MAIN_PAGE_FALLBACK_BUDGET = 920
 const FRONT_MATTER_PAGE_BUDGET = 980
 const PAGE_MEASURE_GUARD_SPACE = 12
-const PAGE_RENDER_GUARD_SPACE = 10
 const PAGE_FOOTER_RESERVED_SPACE = 30
 const modeOptions: Array<{ value: ManualWriterMode; label: string }> = [
   { value: "integrate", label: "Integra richiesta" },
@@ -216,7 +217,7 @@ export function BookStudioPanel({
     if (!measuredPages) return
 
     const animationFrame = window.requestAnimationFrame(() => {
-      const refined = refineRenderedPageOverflows(measuredPages, bookPagesRef.current)
+      const refined = normalizePageBoundaries(refineRenderedPageOverflows(measuredPages, bookPagesRef.current))
 
       if (refined !== measuredPages) {
         setMeasuredPages(refined)
@@ -495,9 +496,20 @@ export function BookStudioPanel({
           ) : null}
 
           <div className="bookPages" aria-label="Preview manuale editoriale paginata" ref={bookPagesRef}>
-            {previewPages.map((page) => (
-              <BookPagePreview bookId={data.bookId} page={page} key={`${page.chapter.path}-${page.chapterPageNumber}`} />
-            ))}
+            {previewPages.map((page, index) => {
+              const nextPage = previewPages[index + 1]
+              const isLastPage = !nextPage || nextPage.chapter.path !== page.chapter.path
+
+              return (
+                <BookPagePreview
+                  bookId={data.bookId}
+                  footerTitle={data.footerTitle}
+                  isLastPage={isLastPage}
+                  page={page}
+                  key={`${page.chapter.path}-${page.chapterPageNumber}`}
+                />
+              )
+            })}
           </div>
 
           <div className="paginationMeasure" aria-hidden="true" ref={measureRef}>
@@ -511,7 +523,12 @@ export function BookStudioPanel({
                       </div>
                     ) : (
                       <>
-                        <span className="chapterNumber">{chapterNumberLabel(chapter)}</span>
+                        <span
+                          className="chapterNumber"
+                          data-long-label={chapter.outlineSection.length > 4 || undefined}
+                        >
+                          {chapterNumberLabel(chapter)}
+                        </span>
                         <div>
                           <h2>{chapter.title}</h2>
                           <BandoPhaseBar chapter={chapter} />
@@ -825,11 +842,21 @@ function Stat({ label, value }: { label: string; value: number }) {
   )
 }
 
-function BookPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }) {
+function BookPagePreview({
+  bookId,
+  footerTitle,
+  isLastPage,
+  page
+}: {
+  bookId: string
+  footerTitle: string
+  isLastPage: boolean
+  page: PreviewPage
+}) {
   const { chapter } = page
 
   if (chapter.sectionType === "front_matter") {
-    return <FrontMatterPagePreview bookId={bookId} page={page} />
+    return <FrontMatterPagePreview bookId={bookId} isLastPage={isLastPage} page={page} />
   }
 
   return (
@@ -844,7 +871,12 @@ function BookPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }
     >
       {page.isFirstPage ? (
         <header className="chapterPreviewHeader">
-          <span className="chapterNumber">{chapterNumberLabel(chapter)}</span>
+          <span
+            className="chapterNumber"
+            data-long-label={chapter.outlineSection.length > 4 || undefined}
+          >
+            {chapterNumberLabel(chapter)}
+          </span>
           <div>
             <h2>{chapter.title}</h2>
             <BandoPhaseBar chapter={chapter} />
@@ -853,25 +885,30 @@ function BookPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }
       ) : (
         <div className="runningHeader">
           <span>{sectionLabel(chapter)}</span>
-          <span>continua</span>
+          {isLastPage ? null : <span>continua</span>}
         </div>
       )}
 
       <div className="previewBlocks">
         {page.blocks.map((block, index) => (
-          <PreviewBlock block={block} bookId={bookId} key={`${chapter.path}-${page.chapterPageNumber}-${index}`} />
+          <PreviewBlock
+            block={block}
+            bookId={bookId}
+            isFirstOnPage={index === 0}
+            key={`${chapter.path}-${page.chapterPageNumber}-${index}`}
+          />
         ))}
       </div>
 
       <footer className="pageFooter">
-        <span>Il Metodo BANDO</span>
+        <span>{footerTitle}</span>
         <span>{page.pageNumber}</span>
       </footer>
     </article>
   )
 }
 
-function FrontMatterPagePreview({ bookId, page }: { bookId: string; page: PreviewPage }) {
+function FrontMatterPagePreview({ bookId, isLastPage, page }: { bookId: string; isLastPage: boolean; page: PreviewPage }) {
   const { chapter } = page
   const layoutClass = frontMatterLayoutClass(chapter.frontMatterLayout)
 
@@ -892,14 +929,19 @@ function FrontMatterPagePreview({ bookId, page }: { bookId: string; page: Previe
       {page.chapterPageNumber > 1 ? (
         <div className="runningHeader">
           <span>{chapter.title}</span>
-          <span>continua</span>
+          {isLastPage ? null : <span>continua</span>}
         </div>
       ) : null}
 
       <div className="frontMatterBrand">Capitale Personale</div>
       <div className="previewBlocks frontMatterBlocks">
         {page.blocks.map((block, index) => (
-          <PreviewBlock block={block} bookId={bookId} key={`${chapter.path}-${page.chapterPageNumber}-${index}`} />
+          <PreviewBlock
+            block={block}
+            bookId={bookId}
+            isFirstOnPage={index === 0}
+            key={`${chapter.path}-${page.chapterPageNumber}-${index}`}
+          />
         ))}
       </div>
 
@@ -968,7 +1010,15 @@ function bookPageSideClass(pageNumber: number) {
   return pageNumber % 2 === 0 ? "bookPageVerso" : "bookPageRecto"
 }
 
-function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string }) {
+function PreviewBlock({
+  block,
+  bookId,
+  isFirstOnPage = true
+}: {
+  block: MarkdownBlock
+  bookId?: string
+  isFirstOnPage?: boolean
+}) {
   const metadata = getPreviewBlockMetadata(block)
   const auditAttributes = {
     "data-block-type": metadata.blockType,
@@ -1092,7 +1142,7 @@ function PreviewBlock({ block, bookId }: { block: MarkdownBlock; bookId?: string
   }
 
   if (block.type === "table") {
-    return <BookStudioPreviewTable block={block} />
+    return <BookStudioPreviewTable block={block} isFirstOnPage={isFirstOnPage} />
   }
 
   if (block.type === "code") {
@@ -1283,7 +1333,7 @@ function paginateMeasuredChapters(chapters: BookStudioChapter[], root: HTMLDivEl
 
       return Math.ceil(measuredHeight || estimateBlockCost(block)) + measuredLayoutSafetyCost(block)
     })
-    const chapterPages = paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight)
+    const chapterPages = normalizePageBoundaries(paginateBlocksByHeight(chapter, blockHeights, pageBudget, firstHeaderHeight, runningHeaderHeight))
 
     for (const page of chapterPages) {
       pages.push({ ...page, pageNumber: pageNumber++ })
@@ -1310,7 +1360,7 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
 
     if (!footer || blockElements.length === 0) continue
 
-    const pageGuard = nextPages[index].chapter.bookScope === "ricettario" ? 30 : PAGE_RENDER_GUARD_SPACE
+    const pageGuard = renderedPageGuard(nextPages[index].chapter)
     const safeBottom = footer.getBoundingClientRect().top - pageGuard
     const firstOverflowIndex = blockElements.findIndex(
       (blockElement) => blockElement.getBoundingClientRect().bottom > safeBottom
@@ -1339,7 +1389,46 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
     return renumberPreviewPages(nextPages)
   }
 
-  return pages
+  for (let index = 0; index < Math.min(pageElements.length - 1, nextPages.length - 1); index += 1) {
+    const currentPage = nextPages[index]
+    const followingPage = nextPages[index + 1]
+
+    if (currentPage.chapter.path !== followingPage.chapter.path || followingPage.blocks.length === 0) continue
+
+    const currentPreview = pageElements[index].querySelector<HTMLElement>(".previewBlocks")
+    const followingPreview = pageElements[index + 1].querySelector<HTMLElement>(".previewBlocks")
+    const currentFooter = pageElements[index].querySelector<HTMLElement>(".pageFooter")
+    const currentElements = Array.from(currentPreview?.children || []) as HTMLElement[]
+    const followingElements = Array.from(followingPreview?.children || []) as HTMLElement[]
+    const lastCurrentElement = currentElements.at(-1)
+    const firstFollowingElement = followingElements[0]
+
+    if (!currentFooter || !lastCurrentElement || !firstFollowingElement) continue
+
+    const availableHeight = currentFooter.getBoundingClientRect().top
+      - renderedPageGuard(currentPage.chapter)
+      - lastCurrentElement.getBoundingClientRect().bottom
+    const candidate = followingPage.blocks[0]
+    const followingBlockHeight = candidate.type === "heading"
+      ? outerHeight(followingElements[1])
+      : 0
+
+    if (!canBackfillBlock({
+      availableHeight,
+      candidateHeight: outerHeight(firstFollowingElement),
+      candidateType: candidate.type,
+      followingBlockHeight
+    })) continue
+
+    const moveCount = candidate.type === "heading" ? 2 : 1
+    currentPage.blocks.push(...followingPage.blocks.splice(0, moveCount))
+
+    if (followingPage.blocks.length === 0) nextPages.splice(index + 1, 1)
+
+    return renumberPreviewPages(moveTrailingHeadingToNextPage(nextPages))
+  }
+
+  return renumberPreviewPages(moveTrailingHeadingToNextPage(nextPages))
 }
 
 function renumberPreviewPages(pages: PreviewPage[]): PreviewPage[] {

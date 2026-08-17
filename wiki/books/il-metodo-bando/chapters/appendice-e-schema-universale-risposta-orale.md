@@ -30,7 +30,7 @@ Usala dopo aver studiato un argomento e prima di ogni simulazione. Se una rispos
 
 I tre formati di questa appendice sono tre durate della stessa prestazione orale: risposta lampo da 30 secondi, risposta standard da 2 minuti e risposta estesa da 5 minuti. Quiz e prova scritta hanno procedure autonome nei capitoli 14 e 15; qui non vengono duplicati.
 
-## Regole d'uso
+## Regole d’uso
 
 ### 1. Rispondi alla domanda, non al capitolo
 
@@ -38,15 +38,15 @@ La commissione non ti chiede di recitare tutto quello che sai. Ti chiede di risp
 
 ### 2. Usa riferimenti solo se sicuri
 
-Una norma citata male indebolisce una risposta. Se non ricordi numero, comma o dettaglio, resta sul principio, sulla funzione e sull'esempio. È molto meglio una risposta prudente che una citazione inventata.
+Una norma citata male indebolisce una risposta. Se non ricordi numero, comma o dettaglio, resta sul principio, sulla funzione e sull’esempio. È molto meglio una risposta prudente che una citazione inventata.
 
 ### 3. Ogni risposta deve avere una chiusura
 
-La chiusura segnala che hai controllo. Anche una frase breve basta: "Per questo l'istituto serve a garantire..." oppure "In sintesi, la differenza centrale è...".
+La chiusura segnala che hai controllo. Anche una frase breve basta: “Per questo l’istituto serve a garantire...” oppure “In sintesi, la differenza centrale è...”.
 
 ### 4. Allenati a voce
 
-Leggere lo schema in silenzio non prepara l'orale. Devi parlare, cronometrarti, registrare gli errori e ripetere le risposte deboli dopo qualche giorno.
+Leggere lo schema in silenzio non prepara l’orale. Devi parlare, cronometrarti, registrare gli errori e ripetere le risposte deboli dopo qualche giorno.
 
 ## Mappa BANDO della risposta orale
 
@@ -64,12 +64,12 @@ Usa questa sequenza per quasi tutte le domande orali:
 
 | Mossa | Cosa fai | Frase utile |
 |---|---|---|
-| 1. Inquadra | Dici di che tema si parla. | "Il tema riguarda..." |
-| 2. Definisci | Dai una definizione essenziale. | "In termini essenziali..." |
-| 3. Spiega la funzione | Dici a che cosa serve nella PA. | "La funzione è..." |
-| 4. Richiama il riferimento sicuro | Usi principio, fonte o criterio solo se lo conosci. | "Il riferimento centrale è..." |
-| 5. Applica | Aggiungi esempio, caso o collegamento. | "Per esempio, in un ufficio..." |
-| 6. Chiudi | Torni alla domanda. | "Quindi, il punto decisivo è..." |
+| 1. Inquadra | Dici di che tema si parla. | “Il tema riguarda...” |
+| 2. Definisci | Dai una definizione essenziale. | “In termini essenziali...” |
+| 3. Spiega la funzione | Dici a che cosa serve nella PA. | “La funzione è...” |
+| 4. Richiama il riferimento sicuro | Usi principio, fonte o criterio solo se lo conosci. | “Il riferimento centrale è...” |
+| 5. Applica | Aggiungi esempio, caso o collegamento. | “Per esempio, in un ufficio...” |
+| 6. Chiudi | Torni alla domanda. | “Quindi, il punto decisivo è...” |
 
 Non devi sempre dire tutte le mosse con le stesse parole. Devi però farle sentire. Una risposta senza definizione è vaga. Una risposta senza funzione è mnemonica. Una risposta senza esempio resta astratta. Una risposta senza chiusura sembra interrotta.
 
@@ -85,11 +85,11 @@ Serve per domande rapide, follow-up o quando la commissione chiede una definizio
 
 ### Template 30 secondi
 
-> Il tema riguarda ________. In termini essenziali, ________ è ________. Serve a ________. L'aspetto da ricordare è ________.
+> Il tema riguarda ________. In termini essenziali, ________ è ________. Serve a ________. L’aspetto da ricordare è ________.
 
 ### Esempio
 
-> La motivazione riguarda il modo in cui la pubblica amministrazione rende comprensibili le ragioni di una decisione. Serve a collegare istruttoria, interessi valutati e provvedimento finale. Il punto da ricordare è che non è una formula decorativa: permette controllo, trasparenza e tutela dell'interessato.
+> La motivazione riguarda il modo in cui la pubblica amministrazione rende comprensibili le ragioni di una decisione. Serve a collegare istruttoria, interessi valutati e provvedimento finale. Il punto da ricordare è che non è una formula decorativa: permette controllo, trasparenza e tutela dell’interessato.
 
 ## Versione standard: 2 minuti
 
@@ -148,13 +148,13 @@ Per ogni argomento prepara almeno cinque tipi di domanda. In questo modo eviti d
 
 | Tipo | Domanda modello | Cosa deve comparire nella risposta |
 |---|---|---|
-| Definizione | "Che cos'è...?" | Definizione, funzione, esempio |
-| Funzione | "A cosa serve...?" | Scopo, conseguenza pratica |
-| Differenza | "Che differenza c'è tra...?" | Criterio di distinzione, effetti |
-| Procedura | "Come si svolge...?" | Fasi, soggetti, decisione |
-| Caso | "Cosa farebbe se...?" | Fatti, regola, vincoli, soluzione |
-| Collegamento | "Mi colleghi questo tema a...?" | Ponte breve, ritorno al punto |
-| Profilo | "perché serve nel lavoro dell'ente?" | Ufficio, cittadino, responsabilità |
+| Definizione | “Che cos’è...?” | Definizione, funzione, esempio |
+| Funzione | “A cosa serve...?” | Scopo, conseguenza pratica |
+| Differenza | “Che differenza c’è tra...?” | Criterio di distinzione, effetti |
+| Procedura | “Come si svolge...?” | Fasi, soggetti, decisione |
+| Caso | “Cosa farebbe se...?” | Fatti, regola, vincoli, soluzione |
+| Collegamento | “Mi colleghi questo tema a...?” | Ponte breve, ritorno al punto |
+| Profilo | “perché serve nel lavoro dell’ente?” | Ufficio, cittadino, responsabilità |
 
 ## Risposte per tipo di domanda
 
@@ -164,10 +164,10 @@ Obiettivo: dare una definizione chiara senza fermarsi al vocabolario.
 
 Schema:
 
-1. "È..."
-2. "Serve a..."
-3. "Nel concorso/ufficio rileva perché..."
-4. "Un esempio è..."
+1. “È...”
+2. “Serve a...”
+3. “Nel concorso/ufficio rileva perché...”
+4. “Un esempio è...”
 
 Frase modello:
 
@@ -206,7 +206,7 @@ Schema:
 
 Frase modello:
 
-> Per rispondere conviene seguire la sequenza. Prima ________. Poi ________. L'amministrazione deve valutare ________. La decisione finale produce ________. Il punto critico è ________.
+> Per rispondere conviene seguire la sequenza. Prima ________. Poi ________. L’amministrazione deve valutare ________. La decisione finale produce ________. Il punto critico è ________.
 
 ### Domanda su caso pratico
 
@@ -216,11 +216,11 @@ Schema:
 
 | Passaggio | Cosa dire |
 |---|---|
-| Fatti | "Il caso presenta..." |
-| Qualificazione | "Il tema giuridico-amministrativo è..." |
-| Vincoli | "Devo rispettare..." |
-| Azione | "Operativamente farei..." |
-| Chiusura | "La soluzione è coerente con..." |
+| Fatti | “Il caso presenta...” |
+| Qualificazione | “Il tema giuridico-amministrativo è...” |
+| Vincoli | “Devo rispettare...” |
+| Azione | “Operativamente farei...” |
+| Chiusura | “La soluzione è coerente con...” |
 
 Frase modello:
 
@@ -257,26 +257,26 @@ Usa aperture brevi. Devono farti partire, non riempire il tempo.
 
 | Situazione | Frase utile |
 |---|---|
-| Domanda generale | "Il tema può essere inquadrato partendo da..." |
-| Definizione | "In termini essenziali..." |
-| Confronto | "La distinzione principale è..." |
-| Procedura | "Conviene seguire la sequenza..." |
-| Caso pratico | "Partirei dai fatti del caso..." |
-| Collegamento | "Il collegamento con questo tema riguarda..." |
-| Precisazione | "Il punto da precisare è..." |
+| Domanda generale | “Il tema può essere inquadrato partendo da...” |
+| Definizione | “In termini essenziali...” |
+| Confronto | “La distinzione principale è...” |
+| Procedura | “Conviene seguire la sequenza...” |
+| Caso pratico | “Partirei dai fatti del caso...” |
+| Collegamento | “Il collegamento con questo tema riguarda...” |
+| Precisazione | “Il punto da precisare è...” |
 
 ## Frasi ponte
 
-Le frasi ponte servono a passare da un blocco all'altro senza perdere ordine.
+Le frasi ponte servono a passare da un blocco all’altro senza perdere ordine.
 
 | Passaggio | Frase |
 |---|---|
-| Definizione -> funzione | "Questa definizione è importante perché..." |
-| Funzione -> esempio | "In concreto, questo si vede quando..." |
-| Esempio -> principio | "L'esempio mostra il principio secondo cui..." |
-| Tema -> collegamento | "Da qui nasce il collegamento con..." |
-| Dettaglio -> sintesi | "Tornando al punto centrale..." |
-| Errore -> correzione | "La precisazione evita di confondere..." |
+| Definizione -> funzione | “Questa definizione è importante perché...” |
+| Funzione -> esempio | “In concreto, questo si vede quando...” |
+| Esempio -> principio | “L’esempio mostra il principio secondo cui...” |
+| Tema -> collegamento | “Da qui nasce il collegamento con...” |
+| Dettaglio -> sintesi | “Tornando al punto centrale...” |
+| Errore -> correzione | “La precisazione evita di confondere...” |
 
 ## Frasi di chiusura
 
@@ -284,12 +284,12 @@ La chiusura deve essere breve e decisa.
 
 | Tipo risposta | Frase |
 |---|---|
-| Definizione | "In sintesi, l'istituto serve a..." |
-| Differenza | "Quindi la differenza centrale è..." |
-| Procedura | "Per questo la sequenza corretta è..." |
-| Caso | "La soluzione più coerente è..." |
-| Collegamento | "Il collegamento conferma che..." |
-| Profilo | "Per il profilo messo a concorso, questo significa..." |
+| Definizione | “In sintesi, l’istituto serve a...” |
+| Differenza | “Quindi la differenza centrale è...” |
+| Procedura | “Per questo la sequenza corretta è...” |
+| Caso | “La soluzione più coerente è...” |
+| Collegamento | “Il collegamento conferma che...” |
+| Profilo | “Per il profilo messo a concorso, questo significa...” |
 
 ## Protocollo anti-vuoto
 
@@ -298,29 +298,29 @@ Se ti blocchi, non riempire il silenzio con parole casuali. Segui questa sequenz
 | Passaggio | Cosa fare | Frase possibile |
 |---|---|---|
 | 1. Respira | Prendi mezzo secondo. | - |
-| 2. Riduci | Torna alla definizione base. | "Ripartirei dal concetto generale..." |
-| 3. Funzione | Spiega a cosa serve. | "La funzione dell'istituto è..." |
-| 4. Esempio | Usa un caso semplice. | "Un esempio pratico può essere..." |
-| 5. Prudenza | Non inventare dettagli. | "Non richiamerei un numero se non sono sicuro, ma il principio è..." |
-| 6. Chiusura | Riporta ordine. | "Quindi il punto essenziale è..." |
+| 2. Riduci | Torna alla definizione base. | “Ripartirei dal concetto generale...” |
+| 3. Funzione | Spiega a cosa serve. | “La funzione dell’istituto è...” |
+| 4. Esempio | Usa un caso semplice. | “Un esempio pratico può essere...” |
+| 5. Prudenza | Non inventare dettagli. | “Non richiamerei un numero se non sono sicuro, ma il principio è...” |
+| 6. Chiusura | Riporta ordine. | “Quindi il punto essenziale è...” |
 
 ### Formula sicura quando non ricordi un dettaglio
 
 > Non richiamerei in modo impreciso il dato specifico. Il principio, però, è che ________. Questo produce come conseguenza ________. In un caso pratico, ________.
 
-Questa formula non va abusata. Serve per evitare l'errore peggiore: inventare.
+Questa formula non va abusata. Serve per evitare l’errore peggiore: inventare.
 
 ## Protocollo se la commissione interrompe
 
-L'interruzione non è necessariamente un segnale negativo. Spesso serve a testare precisione o spostare il focus.
+L’interruzione non è necessariamente un segnale negativo. Spesso serve a testare precisione o spostare il focus.
 
 | Interruzione | Risposta corretta |
 |---|---|
-| "Mi faccia un esempio" | Dai subito un caso semplice, senza ripartire dall'inizio. |
-| "qual è la differenza?" | Passa a oggetto, funzione, effetti. |
-| "Sia più sintetico" | Chiudi il blocco e dai il punto centrale. |
-| "E se invece..." | Applica la regola al nuovo scenario. |
-| "Non è proprio così" | Correggi con calma: "Preciso meglio..." |
+| “Mi faccia un esempio” | Dai subito un caso semplice, senza ripartire dall’inizio. |
+| “qual è la differenza?” | Passa a oggetto, funzione, effetti. |
+| “Sia più sintetico” | Chiudi il blocco e dai il punto centrale. |
+| “E se invece...” | Applica la regola al nuovo scenario. |
+| “Non è proprio così” | Correggi con calma: “Preciso meglio...” |
 
 Frase utile:
 
@@ -403,7 +403,7 @@ Da 10 in su: passa a domande incrociate.
 
 **Risposta ordinata:**
 
-> Il procedimento amministrativo è la sequenza di attività attraverso cui la pubblica amministrazione arriva a una decisione. Non coincide solo con l'atto finale, perché comprende avvio, istruttoria, partecipazione degli interessati quando prevista, valutazione e provvedimento. La sua funzione è rendere l'azione amministrativa ordinata, controllabile e coerente con i principi di legalità, buon andamento e imparzialità. Per esempio, davanti a un'istanza del cittadino l'ufficio non decide in modo informale: verifica competenza, documenti, interessi coinvolti e poi conclude con una decisione motivata. In sintesi, il procedimento è il percorso che trasforma il potere pubblico in decisione amministrativa.
+> Il procedimento amministrativo è la sequenza di attività attraverso cui la pubblica amministrazione arriva a una decisione. Non coincide solo con l’atto finale, perché comprende avvio, istruttoria, partecipazione degli interessati quando prevista, valutazione e provvedimento. La sua funzione è rendere l’azione amministrativa ordinata, controllabile e coerente con i principi di legalità, buon andamento e imparzialità. Per esempio, davanti a un’istanza del cittadino l’ufficio non decide in modo informale: verifica competenza, documenti, interessi coinvolti e poi conclude con una decisione motivata. In sintesi, il procedimento è il percorso che trasforma il potere pubblico in decisione amministrativa.
 
 **perché funziona:** definisce, distingue procedimento e provvedimento, spiega funzione, usa un esempio e chiude.
 
@@ -413,7 +413,7 @@ Da 10 in su: passa a domande incrociate.
 
 **Risposta ordinata:**
 
-> No. La trasparenza è un principio centrale dell'amministrazione pubblica, ma non significa pubblicazione indiscriminata. Serve a rendere conoscibile e controllabile l'attività amministrativa nei limiti previsti. Quando entrano in gioco dati personali, occorre bilanciare conoscibilità, protezione dei dati, finalità della pubblicazione e pertinenza delle informazioni. Per esempio, un'amministrazione può dover pubblicare determinati dati, ma deve evitare eccedenze o dati non necessari. Quindi la risposta corretta non è "pubblicare tutto", ma pubblicare ciò che è dovuto e gestire con attenzione i limiti.
+> No. La trasparenza è un principio centrale dell’amministrazione pubblica, ma non significa pubblicazione indiscriminata. Serve a rendere conoscibile e controllabile l’attività amministrativa nei limiti previsti. Quando entrano in gioco dati personali, occorre bilanciare conoscibilità, protezione dei dati, finalità della pubblicazione e pertinenza delle informazioni. Per esempio, un’amministrazione può dover pubblicare determinati dati, ma deve evitare eccedenze o dati non necessari. Quindi la risposta corretta non è “pubblicare tutto”, ma pubblicare ciò che è dovuto e gestire con attenzione i limiti.
 
 **perché funziona:** evita la trappola, mostra bilanciamento, non inventa dettagli.
 
@@ -423,11 +423,11 @@ Da 10 in su: passa a domande incrociate.
 
 **Risposta ordinata:**
 
-> PEC e firma digitale sono strumenti della digitalizzazione amministrativa. La PEC serve a inviare comunicazioni elettroniche con tracciabilità della spedizione e della ricezione. La firma digitale serve a collegare un documento informatico al suo autore e a garantirne integrità secondo le regole applicabili. Nella PA questi strumenti aiutano a rendere più sicuri, documentabili e gestibili i procedimenti. Un esempio è l'invio di un'istanza o di una comunicazione formale in cui l'amministrazione deve poter dimostrare tempi, provenienza e contenuto. Il punto centrale è che il digitale non è solo comodità: è organizzazione giuridica e amministrativa del documento.
+> PEC e firma digitale sono strumenti della digitalizzazione amministrativa. La PEC serve a inviare comunicazioni elettroniche con tracciabilità della spedizione e della ricezione. La firma digitale serve a collegare un documento informatico al suo autore e a garantirne integrità secondo le regole applicabili. Nella PA questi strumenti aiutano a rendere più sicuri, documentabili e gestibili i procedimenti. Un esempio è l’invio di un’istanza o di una comunicazione formale in cui l’amministrazione deve poter dimostrare tempi, provenienza e contenuto. Il punto centrale è che il digitale non è solo comodità: è organizzazione giuridica e amministrativa del documento.
 
 **perché funziona:** collega tecnologia, documento e procedimento senza diventare specialistica.
 
-## Checklist prima dell'orale
+## Checklist prima dell’orale
 
 | Controllo | Sì | No |
 |---|---:|---:|
@@ -457,13 +457,13 @@ Da 10 in su: passa a domande incrociate.
 
 **Domanda:** Come costruirebbe una risposta orale efficace in un concorso pubblico?
 
-**Risposta efficace:** partirei dal tema della domanda, darei una definizione essenziale, spiegherei la funzione dell'istituto nella pubblica amministrazione, richiamerei solo riferimenti sicuri, poi aggiungerei un esempio o un collegamento pertinente. Chiuderei tornando alla domanda, per evitare una risposta dispersiva. Questo schema permette di mostrare conoscenza, ordine e capacità applicativa.
+**Risposta efficace:** partirei dal tema della domanda, darei una definizione essenziale, spiegherei la funzione dell’istituto nella pubblica amministrazione, richiamerei solo riferimenti sicuri, poi aggiungerei un esempio o un collegamento pertinente. Chiuderei tornando alla domanda, per evitare una risposta dispersiva. Questo schema permette di mostrare conoscenza, ordine e capacità applicativa.
 
 ## Domanda-trappola
 
 **Domanda:** Se non ricordo il riferimento normativo preciso, conviene comunque citarlo per mostrare sicurezza?
 
-No. La sicurezza apparente non compensa l'errore. Se il riferimento non è sicuro, conviene richiamare il principio, la funzione e l'effetto pratico, evitando numeri inventati. La commissione valuta anche prudenza e precisione.
+No. La sicurezza apparente non compensa l’errore. Se il riferimento non è sicuro, conviene richiamare il principio, la funzione e l’effetto pratico, evitando numeri inventati. La commissione valuta anche prudenza e precisione.
 
 ## Mini-esercizio
 
@@ -478,16 +478,16 @@ Scegli tre argomenti deboli e compila questa tabella.
 Poi registrati. Riascolta solo tre aspetti:
 
 1. si capisce subito di che cosa parli?
-2. c'è almeno un esempio?
+2. c’è almeno un esempio?
 3. la chiusura risponde alla domanda?
 
 ## Da sapere in 5 righe
 
 1. Una risposta orale efficace ha inquadramento, definizione, funzione, riferimento sicuro, esempio e chiusura.
-2. La risposta da 2 minuti è il formato più utile per l'allenamento ordinario.
+2. La risposta da 2 minuti è il formato più utile per l’allenamento ordinario.
 3. I collegamenti devono aiutare la domanda, non sostituirla.
 4. Nei vuoti di memoria si torna a principi sicuri e non si inventano norme.
-5. Simulazione e diario trasformano l'orale da ripetizione a prestazione.
+5. Simulazione e diario trasformano l’orale da ripetizione a prestazione.
 
 ## Riferimenti consolidati
 
@@ -499,9 +499,3 @@ Poi registrati. Riascolta solo tre aspetti:
 - [[topics/risposta-concorsuale]]
 - [[books/il-metodo-bando/chapters/la-prova-orale]]
 - [[books/il-metodo-bando/chapters/checklist-operative]]
-
-## Note di review
-
-- Verificare in impaginazione finale la resa delle griglie compilabili in formato 16, 8 x 24 cm.
-- Le indicazioni su materie, durata, lingua, informatica, criteri e soglie devono sempre essere adattate al bando specifico.
-- Questa appendice è pronta come strumento workbook; può essere estratta anche come PDF operativo separato.

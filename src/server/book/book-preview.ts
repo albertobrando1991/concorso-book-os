@@ -85,6 +85,7 @@ export interface BookStudioAsset {
 export interface BookStudioData {
   bookId: string
   title: string
+  footerTitle: string
   updatedAt: string
   summary: {
     chapters: number
@@ -116,6 +117,9 @@ const STAFF_ONLY_HEADINGS = [
   "Bozza agente",
   "Note editoriali",
   "Note di review",
+  "Fonti e note di revisione",
+  "Riferimenti consolidati",
+  "Fonti consolidate",
   "Norme o riferimenti",
   "Quiz collegati",
   "Spiegazione",
@@ -136,6 +140,7 @@ const VERY_VERBOSE_TABLE_ROWS_PER_PREVIEW_BLOCK = 1
 const VERY_VERBOSE_TABLE_CELL_LENGTH = 160
 const MAX_LIST_ITEMS_PER_PREVIEW_BLOCK = 4
 const MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 72
+const MIN_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK = 28
 
 export async function buildBookStudioData(
   store: FileWikiStore,
@@ -211,9 +216,12 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
   hydrateGeneratedFrontMatter(chapters, bookId)
   const assets = await listBookAssets(store, bookId)
 
+  const bookTitle = String(book.data.title || "Il Metodo BANDO")
+
   return {
     bookId,
-    title: String(book.data.title || "Il Metodo BANDO"),
+    title: bookTitle,
+    footerTitle: bookTitle,
     updatedAt: new Date().toISOString(),
     summary: {
       chapters: chapters.length,
@@ -234,12 +242,26 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
 async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolume): Promise<BookStudioData> {
   const bookId = textVolumeBookId(volume)
   const moduleBooks = await loadVolumeModuleBooks(store, volume)
+  const {
+    opening: openingChapters,
+    closing: closingChapters,
+    preface: authoredPreface
+  } = await loadVolumeOrientationData(store, volume)
   let nextChapterNumber = 1
+  const numberedOpeningChapters = openingChapters.map((chapter) => mapChapterIntoVolume(chapter, nextChapterNumber++))
   const numberedModuleBooks = moduleBooks.map((moduleBook) => ({
     ...moduleBook,
     chapters: moduleBook.chapters.map((chapter) => mapChapterIntoVolume(chapter, nextChapterNumber++))
   }))
-  const volumeFrontMatter = buildVolumeFrontMatter(volume, numberedModuleBooks, bookId)
+  const numberedClosingChapters = closingChapters.map((chapter) => mapChapterIntoVolume(chapter, nextChapterNumber++))
+  const volumeFrontMatter = buildVolumeFrontMatter(
+    volume,
+    numberedModuleBooks,
+    bookId,
+    numberedOpeningChapters,
+    numberedClosingChapters,
+    authoredPreface
+  )
   const moduleSections = numberedModuleBooks.flatMap(({ moduleCode, moduleTitle, chapters }) => [
     buildModuleOpeningSection({
       bookId,
@@ -250,7 +272,7 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
     }),
     ...chapters
   ])
-  const chapters = [...volumeFrontMatter, ...moduleSections]
+  const chapters = [...volumeFrontMatter, ...numberedOpeningChapters, ...moduleSections, ...numberedClosingChapters]
   const assets = numberedModuleBooks.flatMap((moduleBook) => moduleBook.assets)
   const uniqueAssets = Array.from(new Map(assets.map((asset) => [asset.path, asset])).values())
     .sort((left, right) => right.updatedAt.localeCompare(left.updatedAt))
@@ -258,6 +280,7 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
   return {
     bookId,
     title: `${volume.code} — ${volume.title}`,
+    footerTitle: `${volume.code} — ${volume.shortTitle}`,
     updatedAt: new Date().toISOString(),
     summary: {
       chapters: chapters.length,
@@ -272,6 +295,42 @@ async function buildVolumeBookStudioData(store: FileWikiStore, volume: TextVolum
     chapters,
     assets: uniqueAssets,
     editorialPlan: null
+  }
+}
+
+interface VolumeOrientationData {
+  opening: BookStudioChapter[]
+  closing: BookStudioChapter[]
+  preface: BookStudioChapter | undefined
+}
+
+/**
+ * Loads a volume-level book of chapters that frame the compiled volume: chapters
+ * with a low outline_section open it (before the specialist modules), chapters
+ * numbered 50+ close it (after the specialist modules). Also surfaces the book's
+ * authored preface (front_matter_layout "preface"), when present, so the volume
+ * can use hand-written orientation copy instead of the generated placeholder.
+ * Returns empty results when the volume has no orientationBookId or the book does
+ * not exist in the vault.
+ */
+async function loadVolumeOrientationData(store: FileWikiStore, volume: TextVolume): Promise<VolumeOrientationData> {
+  const empty: VolumeOrientationData = { opening: [], closing: [], preface: undefined }
+
+  if (!volume.orientationBookId) return empty
+  if (!(await store.exists(`books/${volume.orientationBookId}/index.md`))) return empty
+
+  const orientationData = await buildSingleBookStudioData(store, volume.orientationBookId)
+  const chapters = orientationData.chapters
+    .filter((chapter) => chapter.sectionType === "chapter" && chapter.bookScope === "main")
+    .map((chapter) => ({ ...chapter, bookScope: "main" as const }))
+  const preface = orientationData.chapters.find(
+    (chapter) => chapter.sectionType === "front_matter" && chapter.frontMatterLayout === "preface"
+  )
+
+  return {
+    opening: chapters.filter((chapter) => Number.parseInt(chapter.outlineSection, 10) < 50),
+    closing: chapters.filter((chapter) => Number.parseInt(chapter.outlineSection, 10) >= 50),
+    preface
   }
 }
 
@@ -338,7 +397,14 @@ async function loadVolumeModuleBooks(store: FileWikiStore, volume: TextVolume): 
   return moduleBooks
 }
 
-function buildVolumeFrontMatter(volume: TextVolume, moduleBooks: VolumeModuleBook[], bookId: string): BookStudioChapter[] {
+function buildVolumeFrontMatter(
+  volume: TextVolume,
+  moduleBooks: VolumeModuleBook[],
+  bookId: string,
+  openingChapters: BookStudioChapter[],
+  closingChapters: BookStudioChapter[],
+  authoredPreface: BookStudioChapter | undefined
+): BookStudioChapter[] {
   const missingBookIds = volume.bookIds.filter((moduleBookId) =>
     !moduleBooks.some((moduleBook) => moduleBook.bookId === normalizeTextBookId(moduleBookId))
   )
@@ -377,14 +443,15 @@ function buildVolumeFrontMatter(volume: TextVolume, moduleBooks: VolumeModuleBoo
       title: "Premessa",
       outlineSection: "FM5",
       frontMatterLayout: "preface",
-      markdown: buildVolumePrefaceMarkdown(volume, moduleBooks)
+      blocks: authoredPreface?.blocks,
+      markdown: authoredPreface ? undefined : buildVolumePrefaceMarkdown(volume, moduleBooks)
     }),
     buildGeneratedFrontMatterSection({
       bookId,
       title: "Indice completo",
       outlineSection: "FM6",
       frontMatterLayout: "analytical-index",
-      blocks: buildVolumeIndexBlocks(moduleBooks)
+      blocks: buildVolumeIndexBlocks(moduleBooks, openingChapters, closingChapters)
     })
   ]
 }
@@ -457,13 +524,13 @@ function buildVolumeDigitalServicesMarkdown(volume: TextVolume) {
   return [
     "# Servizi digitali inclusi",
     "",
-    `Questo volume (${volume.code}) e collegato ai servizi digitali Capitale Personale: aggiornamenti operativi, schede compilabili, planner, Bando Decoder e materiali di lavoro collegati ai moduli interni.`,
+    `Questo volume (${volume.code}) è collegato ai servizi digitali Capitale Personale: aggiornamenti operativi, schede compilabili, planner, Bando Decoder e materiali di lavoro collegati ai moduli interni.`,
     "",
     "## Cosa aggiunge il digitale",
     "",
     "| Servizio | Funzione |",
     "| --- | --- |",
-    "| Bando Decoder | Trasforma il bando in piano di studio e priorita. |",
+    "| Bando Decoder | Trasforma il bando in piano di studio e priorità. |",
     "| Planner | Organizza tempi, prove, ripassi e simulazioni. |",
     "| Schede modulo | Adatta il Metodo BANDO alla famiglia concorsuale del volume. |",
     "| Aggiornamenti | Segnala fonti ufficiali da verificare prima della pubblicazione o della prova. |",
@@ -483,7 +550,7 @@ function buildVolumeTitlePageMarkdown(volume: TextVolume) {
     "",
     "### Capitale Personale",
     "",
-    `Volume operativo Metodo BANDO per ${volume.audience.toLowerCase()}.`
+    `Volume operativo Metodo BANDO per ${volume.audience}.`
   ].join("\n")
 }
 
@@ -491,11 +558,11 @@ function buildVolumeCopyrightMarkdown(volume: TextVolume) {
   return [
     "# Copyright e note editoriali",
     "",
-    "Questo volume appartiene alla linea ConcorsoBook OS / Capitale Personale ed e costruito come libro-workbook per la preparazione ai concorsi pubblici italiani.",
+    "Questo volume appartiene alla linea ConcorsoBook OS / Capitale Personale ed è costruito come libro-workbook per la preparazione ai concorsi pubblici italiani.",
     "",
     "Le informazioni normative e procedurali devono essere verificate sulle fonti ufficiali vive prima dell'uso professionale o della pubblicazione definitiva.",
     "",
-    "Il volume non promette copertura totale di ogni bando, ne aggiornamento automatico: offre un metodo riusabile, una struttura modulare e strumenti di lavoro collegati al perimetro editoriale dichiarato.",
+    "Il volume non promette copertura totale di ogni bando, né aggiornamento automatico: offre un metodo riusabile, una struttura modulare e strumenti di lavoro collegati al perimetro editoriale dichiarato.",
     "",
     `Perimetro volume: ${volume.title}.`
   ].join("\n")
@@ -565,11 +632,49 @@ function buildModuleOpeningMarkdown(moduleCode: string, moduleTitle: string, vol
   ].join("\n")
 }
 
-function buildVolumeIndexBlocks(moduleBooks: VolumeModuleBook[]): MarkdownBlock[] {
+function pushIndexChapterEntries(blocks: MarkdownBlock[], chapters: BookStudioChapter[], startPageCursor: number) {
+  let pageCursor = startPageCursor
+
+  for (const chapter of chapters) {
+    const estimate = estimateChapterPages(chapter, pageCursor)
+    blocks.push({
+      type: "index-chapter",
+      number: compactIndexLabel(chapter.outlineSection),
+      text: chapter.title,
+      path: chapter.path,
+      pageNumber: pageCursor
+    })
+    for (const heading of estimate.headings.filter((item) => item.nucleusId && item.number)) {
+      blocks.push({
+        type: "index-row",
+        text: heading.text,
+        number: heading.number,
+        nucleusId: heading.nucleusId,
+        path: chapter.path,
+        pageNumber: heading.pageNumber
+      })
+    }
+    pageCursor += estimate.pageCount
+  }
+
+  return pageCursor
+}
+
+function buildVolumeIndexBlocks(
+  moduleBooks: VolumeModuleBook[],
+  openingChapters: BookStudioChapter[] = [],
+  closingChapters: BookStudioChapter[] = []
+): MarkdownBlock[] {
   const blocks: MarkdownBlock[] = [
     { type: "heading", level: 2, text: "Indice completo" }
   ]
   let pageCursor = 1
+
+  if (openingChapters.length > 0) {
+    blocks.push({ type: "index-part", number: "", text: "Apertura del volume" })
+    pageCursor += 1
+    pageCursor = pushIndexChapterEntries(blocks, openingChapters, pageCursor)
+  }
 
   for (const moduleBook of moduleBooks) {
     blocks.push({
@@ -607,6 +712,12 @@ function buildVolumeIndexBlocks(moduleBooks: VolumeModuleBook[]): MarkdownBlock[
       type: "paragraph",
       text: "Nessun modulo del volume e ancora disponibile nel vault."
     })
+  }
+
+  if (closingChapters.length > 0) {
+    blocks.push({ type: "index-part", number: "", text: "Parte finale" })
+    pageCursor += 1
+    pushIndexChapterEntries(blocks, closingChapters, pageCursor)
   }
 
   return blocks
@@ -722,6 +833,8 @@ function buildAnalyticalIndexBlocks(
         type: "index-row",
         number: heading.number || (chapterNumber ? `${chapterNumber}.${index + 1}` : `${index + 1}`),
         text: stripLeadingHeadingNumber(heading.text),
+        path: chapter.path,
+        ...(heading.nucleusId ? { nucleusId: heading.nucleusId } : {}),
         pageNumber: heading.pageNumber
       })
     })
@@ -763,7 +876,7 @@ function estimateChapterPages(chapter: BookStudioChapter, startPage: number) {
     if (block.type === "heading" && (block.level || 0) === 2) {
       const text = cleanIndexText(block.text || "")
 
-      if (isIndexHeading(text, chapter.title)) {
+      if (block.nucleusId || isIndexHeading(text, chapter.title)) {
         headings.push({
           text,
           ...(block.number ? { number: block.number } : {}),
@@ -817,7 +930,10 @@ function chapterNumberFromOutline(value: string) {
 }
 
 function chapterIndexLabel(outlineSection: string, chapterNumber: string) {
-  if (/^[A-Z]$/i.test(outlineSection.trim())) return `Appendice ${chapterNumber}`
+  const normalized = outlineSection.trim()
+
+  if (/^[A-Z]$/i.test(normalized)) return `Appendice ${chapterNumber}`
+  if (normalized.toUpperCase() === "CONCLUSIONE") return "Conclusione"
 
   return chapterNumber ? `Capitolo ${chapterNumber}` : "Introduzione"
 }
@@ -1167,7 +1283,7 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
     codeLines = []
   }
 
-  for (const rawLine of lines) {
+  for (const [lineIndex, rawLine] of lines.entries()) {
     const line = rawLine.trimEnd()
 
     if (line.trim().startsWith("```")) {
@@ -1233,6 +1349,19 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
       flushParagraph()
       flushList()
       tableLines.push(line.trim())
+      continue
+    }
+
+    // Le opzioni di un quiz sono righe autonome anche senza trattino: unite in un unico
+    // paragrafo diventerebbero illeggibili ("A. … B. … C. … D. …" di seguito).
+    if (isQuizOptionLine(line) && hasAdjacentQuizOption(lines, lineIndex)) {
+      flushParagraph()
+      flushTable()
+
+      if (listItems.length > 0 && listOrdered) flushList()
+
+      listOrdered = false
+      listItems.push(line.trim())
       continue
     }
 
@@ -1348,6 +1477,10 @@ function tableRowsPerPreviewBlock(block: MarkdownBlock) {
   return DEFAULT_MAX_TABLE_ROWS_PER_PREVIEW_BLOCK
 }
 
+// Un blocco di anteprima non deve mai interrompere una frase: il lettore vedrebbe il
+// periodo troncato a metà e ripreso nel blocco successivo. Il taglio avviene quindi solo
+// dopo un punto fermo; se la frase è più lunga del target, il blocco cresce fino a fine
+// periodo invece di spezzarla.
 function splitTextIntoPreviewChunks(text: string, targetWords: number) {
   const words = text.split(/\s+/).filter(Boolean)
 
@@ -1355,23 +1488,63 @@ function splitTextIntoPreviewChunks(text: string, targetWords: number) {
 
   const chunks: string[] = []
   let current: string[] = []
-  const hardLimit = Math.ceil(targetWords * 1.24)
 
   for (const word of words) {
     current.push(word)
 
-    const normalized = word.replace(/[)"'\]]+$/, "")
-    const endsSentence = /[.!?;:]$/.test(normalized)
-
-    if ((current.length >= targetWords && endsSentence) || current.length >= hardLimit) {
+    if (current.length >= targetWords && endsSentence(word)) {
       chunks.push(current.join(" "))
       current = []
     }
   }
 
-  if (current.length > 0) chunks.push(current.join(" "))
+  if (current.length > 0) {
+    // La coda residua non chiude un periodo: riattaccarla all'ultimo blocco è preferibile
+    // a produrre una riga orfana che comincia a metà frase.
+    if (chunks.length > 0 && current.length < MIN_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK) {
+      chunks[chunks.length - 1] = `${chunks.at(-1)} ${current.join(" ")}`
+    } else {
+      chunks.push(current.join(" "))
+    }
+  }
 
   return chunks
+}
+
+const QUIZ_OPTION_PATTERN = /^\s*([A-E])[.)]\s+\S/
+
+function isQuizOptionLine(line: string) {
+  return QUIZ_OPTION_PATTERN.test(line)
+}
+
+// Una riga che comincia con "A." è un'opzione solo se ne esiste almeno un'altra accanto:
+// così una frase che inizia per iniziale puntata non viene scambiata per elenco.
+function hasAdjacentQuizOption(lines: string[], index: number) {
+  const letterOf = (value?: string) => QUIZ_OPTION_PATTERN.exec(value ?? "")?.[1]
+  const current = letterOf(lines[index])
+
+  if (!current) return false
+
+  for (const step of [-1, 1]) {
+    const neighbour = letterOf(lines[index + step])
+    if (neighbour && neighbour !== current) return true
+  }
+
+  return false
+}
+
+function endsSentence(word: string) {
+  const normalized = word.replace(/[)"'\]»*_`]+$/, "")
+
+  if (!/[.!?]$/.test(normalized)) return false
+
+  // Abbreviazioni e riferimenti normativi ricorrenti (d.lgs., art., n., d.P.R.) terminano
+  // con un punto senza chiudere il periodo. Un numero puntato, invece, chiude di norma la
+  // frase ("…in vigore dal 1861.") e va trattato come fine periodo.
+  if (/^[a-zA-Z]\.$/.test(normalized)) return false
+  if (/\b(?:art|artt|cfr|ecc|es|lett|n|nn|pag|pagg|par|sez|tab|vol|d\.lgs|d\.m|d\.P\.R|d\.i|c\.p\.p|c\.p|r\.d)\.$/i.test(normalized)) return false
+
+  return true
 }
 
 function estimateTableBlockCost(block: MarkdownBlock) {
@@ -1612,6 +1785,7 @@ function outlineRank(value: string) {
 
   if (frontMatter) return -100 + Number.parseInt(frontMatter[1], 10)
   if (!normalized) return 999
+  if (normalized.toUpperCase() === "CONCLUSIONE") return 60
   if (/^\d+$/.test(normalized)) return Number(normalized)
   if (/^[A-Z]$/i.test(normalized)) return 100 + normalized.toUpperCase().charCodeAt(0) - 64
 

@@ -965,7 +965,7 @@ h1 {
 
 .chapterPreviewHeader {
   display: grid;
-  grid-template-columns: 42px minmax(0, 1fr);
+  grid-template-columns: minmax(42px, max-content) minmax(0, 1fr);
   gap: 12px;
   align-items: start;
   margin-bottom: 11px;
@@ -980,8 +980,17 @@ h1 {
   font-weight: 800;
   letter-spacing: 0;
   line-height: 1;
+  max-width: 96px;
+  overflow-wrap: anywhere;
   padding-top: 8px;
   text-align: left;
+}
+
+.chapterNumber[data-long-label="true"] {
+  font-size: 8pt;
+  max-width: none;
+  overflow-wrap: normal;
+  white-space: nowrap;
 }
 
 .chapterPreviewHeader h2 {
@@ -1104,7 +1113,7 @@ h1 {
 }
 
 .previewTableWrap.continuedTable {
-  margin-top: -8px;
+  margin-top: 0;
 }
 
 .previewTable {
@@ -1658,6 +1667,7 @@ h1 {
 }
 
 .indexChapterLine {
+  grid-template-columns: 86px minmax(0, 1fr) minmax(16px, 0.24fr) 24px;
   margin: 5px 0 2px;
   color: var(--book-rich-black);
   font-size: 10px;
@@ -1693,6 +1703,7 @@ h1 {
   color: #334155;
   font-size: 8.8px;
   font-weight: 800;
+  white-space: nowrap;
 }
 
 .indexSubNumber {
