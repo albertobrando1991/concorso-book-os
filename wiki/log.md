@@ -612,3 +612,15 @@
 - 2026-07-29T21:10:00+02:00 | source_consolidation | VOL-06,M-IR01,capitolo-11 | input=DM_205_2023_DM_206_2023_Dlgs_66_2017_legge_170_2010 | raw=record_fonti_ufficiali_archiviato | output=2_source_notes+topic_entity_index_updates | verification=programma_docenti_inclusione_disabilita_DSA_tracciati | review=classe_posto_documenti_individuali_misure_e_procedure_da_verificare_nel_caso_concreto
 - 2026-07-29T00:00:00+02:00 | pipeline_coverage_design | VOL-09,M-TR02,step-07 | output=matrice_14_nuclei | verification=0_completo,14_parziale,0_solo_nominato,0_mancante | review=gate_di_copertura_deve_restare_bloccato_finche_fonti_specialistiche_e_testi_dei_capitoli_non_siano_completi
 - 2026-08-04T00:00:00+02:00 | source_consolidation | VOL-06,M-IR02,capitolo-08 | input=portale_PRIN_MUR_2026+Reg_UE_2021_695+Commissione_Horizon_work_programme_grant_agreement | output=2_source_notes+topic_entity_index_plan_updates | verification=fonti_primarie_istituzionali_verificate_e_blocker_step_08_risolto | review=call_allegati_FAQ_grant_agreement_guide_ReGiS_DNSH_e_regole_progetto_da_ricontrollare_al_text_freeze
+
+# 2026-08-07 — Ingest dossier VOL-11 e outline M-TR04
+
+- Acquisito immutabilmente il dossier in wiki/raw/vol-11-ambiente-protezione-civile-sostenibilita; SHA-256: 457148F2F4A9E6D5A1A110EF971701501DFFAC16330F5F63E546CDEA64787DB9.
+- Create source note, topic ed entity per VOL-11/M-TR04.
+- Definito indice completo con un solo modulo canonico e quattro parti interne.
+
+- 2026-08-10T16:36:20.674Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
+- 2026-08-10T17:56:17.516Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
+- 2026-08-10T18:54:03.261Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
+- 2026-08-10T20:14:39.622Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
+- 2026-08-10T20:24:33.744Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5

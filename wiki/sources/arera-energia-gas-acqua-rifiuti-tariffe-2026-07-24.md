@@ -9,14 +9,14 @@ entities: ["ARERA", "Acquirente Unico"]
 source_refs: ["sources/authority-indipendenti-leggi-istitutive.md", "sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24.md", "sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24.md"]
 book_refs: ["vol-05-authority-regolazione", "m-fc05-authority-indipendenti"]
 confidence: 0.91
-updated_at: 2026-07-24
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true
 tags: ["m-fc05", "arera", "tariffe", "servizi-pubblici"]
 source_type: primary_official_regulatory_sources
 source_url: "https://www.arera.it/area-operatori/rifiuti"
-source_date: 2026-07-24
+source_date: 2026-07-29
 authority_level: primary_official
 ---
 
@@ -28,7 +28,7 @@ authority_level: primary_official
 - [ARERA, area rifiuti](https://www.arera.it/area-operatori/rifiuti): la legge n. 205/2017 attribuisce funzioni di regolazione e controllo del ciclo dei rifiuti urbani e assimilati con i poteri e i principi della legge n. 481/1995.
 - [ARERA, recente evoluzione della regolazione del servizio idrico integrato](https://www.arera.it/comunicati-operatore/dettaglio/recente-evoluzione-regolazione-servizio-idrico-integrato): mostra l'integrazione tra qualità tecnica, qualità contrattuale, aggiornamenti tariffari, validazione dei dati e investimenti nel settore idrico.
 - [ARERA, regolazione della qualità contrattuale del servizio idrico integrato](https://www.arera.it/schede-tecniche/dettaglio/it/schedetecniche/15/655-15st): livelli e obiettivi di qualità, indicatori, raccolta e verifica dei dati; il testo vigente va sempre controllato.
-- [ARERA, Metodo Tariffario Rifiuti MTR-2](https://www.arera.it/atti-e-provvedimenti/dettaglio/21/363-21): esempio di criteri per riconoscere costi efficienti di esercizio e investimento nel periodo regolatorio 2022-2025; metodo e periodo non sono da utilizzare senza aggiornamento.
+- [ARERA, Metodo Tariffario Rifiuti MTR-3, deliberazione 397/2025/R/rif](https://www.arera.it/atti-e-provvedimenti/dettaglio/25/397-25): metodo tariffario per il terzo periodo regolatorio 2026-2029, relativo alle entrate tariffarie e alle tariffe di accesso agli impianti di trattamento.
 - [ARERA, separazione contabile e riconciliazione](https://www.arera.it/area-operatori/separazione-contabile-e-riconciliazione): riferimenti a TIUC, conti annuali separati, manuali, raccolte e coerenza con le informazioni tariffarie.
 - [ARERA, Sportello per il consumatore Energia e Ambiente](https://www.arera.it/consumatori/lo-sportello-per-il-consumatore-energia-e-ambiente) e [Servizio Conciliazione](https://www.arera.it/consumatori/conciliazione/servizio-conciliazione-domande-e-risposte): informazioni, reclami, segnalazioni e conciliazione nei settori regolati; il conciliatore facilita l'accordo e non decide la controversia.
 
@@ -43,4 +43,4 @@ authority_level: primary_official
 
 ## Limiti e aggiornamento
 
-I testi integrati, metodi tariffari, raccolte dati, qualità, bonus, periodi regolatori e procedure di tutela sono soggetti a revisione. Il capitolo impiega concetti stabili e non riporta coefficienti, articolazioni tariffarie, scadenze o importi; questi vanno verificati sul provvedimento ARERA vigente e, nel settore rifiuti, anche sugli atti dell'ente territorialmente competente.
+I testi integrati, metodi tariffari, raccolte dati, qualità, bonus, periodi regolatori e procedure di tutela sono soggetti a revisione. Al 29 luglio 2026, per i rifiuti urbani il riferimento corrente è MTR-3, periodo 2026-2029; per il servizio idrico, MTI-4, periodo 2024-2029. Il capitolo non riporta coefficienti, articolazioni tariffarie, scadenze o importi; questi vanno verificati sul provvedimento ARERA vigente e, nel settore rifiuti, anche sugli atti dell'ente territorialmente competente.

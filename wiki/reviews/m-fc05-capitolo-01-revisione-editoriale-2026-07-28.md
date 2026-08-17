@@ -56,7 +56,7 @@ Applicati i punti 1–26 e 28–30 della checklist: struttura, progressione, coe
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 117, 133–145 e 252–256 | 12. Fatti o norme da verificare | Media | Poteri, assetti degli organi, regolamenti del personale e programmi di concorso variano per ente e possono mutare dopo il cut-off delle source note. | Verificare, prima della chiusura normativa del volume, le pagine e gli atti ufficiali dell'ente target e il bando effettivo. | Da verificare |
+| V01 | Righe 117, 133–145 e 252–256 | 12. Fatti o norme da verificare | Media | Poteri, assetti degli organi, regolamenti del personale e programmi di concorso variano per ente e possono mutare dopo il cut-off delle source note. | Verificare, prima della chiusura normativa del volume, le pagine e gli atti ufficiali dell'ente target e il bando effettivo. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 

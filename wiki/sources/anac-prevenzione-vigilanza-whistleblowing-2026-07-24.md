@@ -6,10 +6,10 @@ status: consolidated
 domain: anticorruzione, trasparenza e contratti pubblici
 topics: ["anac", "prevenzione della corruzione", "trasparenza", "whistleblowing", "vigilanza"]
 entities: ["ANAC", "RPCT", "Persona segnalante"]
-source_refs: ["sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md"]
+source_refs: ["sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/anac-bando-19-funzionari-amministrativi-2026.md"]
 book_refs: ["vol-05-authority-regolazione", "m-fc05-authority-indipendenti"]
 confidence: 0.93
-updated_at: 2026-07-24
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true

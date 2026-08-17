@@ -54,7 +54,7 @@ Applicati i punti 1–26 e 28–30. Il punto 27 non è applicabile: non è dispo
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 93–95, 117, 140 e 238 | 12. Fatti o norme da verificare | Media | Metodi tariffari, soggetti obbligati, contabilità separata, indicatori e atti tecnici sono aggiornabili e settore-specifici. | Verificare al cut-off la fonte ufficiale e il periodo regolatorio del caso o del bando target. | Da verificare |
+| V01 | Righe 93–95, 117, 140 e 238 | 12. Fatti o norme da verificare | Media | Metodi tariffari, soggetti obbligati, contabilità separata, indicatori e atti tecnici sono aggiornabili e settore-specifici. | Verificare al cut-off la fonte ufficiale e il periodo regolatorio del caso o del bando target. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 Nessuno.

@@ -6,10 +6,10 @@ status: professional_draft
 domain: prove concorsuali per authority indipendenti
 topics: ["prove scritte", "casi pratici", "quesiti sintetici", "memo", "colloquio tecnico"]
 entities: ["Metodo BANDO", "AGCM", "ARERA", "AGCOM", "CONSOB", "Banca d'Italia", "IVASS", "Garante per la protezione dei dati personali", "ANAC"]
-source_refs: ["sources/laboratorio-prove-authority-2026-07-24.md", "sources/vol-05-bandi-authority-2022-2025.md", "sources/vol-05-dossier-editoriale-authority-regolazione-v4.md"]
+source_refs: ["sources/laboratorio-prove-authority-2026-07-24.md", "sources/vol-05-bandi-authority-2022-2025.md", "sources/banca-italia-bando-60-giuristi-2025.md", "sources/anac-bando-19-funzionari-amministrativi-2026.md", "sources/consob-bando-vice-assistenti-amministrativi-207-26.md", "sources/vol-05-dossier-editoriale-authority-regolazione-v4.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione", "il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-07-27
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true

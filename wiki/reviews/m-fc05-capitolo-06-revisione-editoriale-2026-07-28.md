@@ -54,7 +54,7 @@ Applicati i punti 1–26 e 28–30. Il punto 27 non è applicabile: non è dispo
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 73, 104, 112–114, 137, 141–154 e 227 | 12. Fatti o norme da verificare | Media | Basi legali, poteri, soglie, impegni, misure cautelari, giudice e rito variano per settore e possono essere aggiornati. | Verificare al cut-off fonte settoriale, atto impugnabile, rimedi e orientamenti giurisprudenziali se richiesti dal bando. | Da verificare |
+| V01 | Righe 73, 104, 112–114, 137, 141–154 e 227 | 12. Fatti o norme da verificare | Media | Basi legali, poteri, soglie, impegni, misure cautelari, giudice e rito variano per settore e possono essere aggiornati. | Verificare al cut-off fonte settoriale, atto impugnabile, rimedi e orientamenti giurisprudenziali se richiesti dal bando. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 Nessuno.

@@ -42,7 +42,7 @@ Revisione eseguita nell'ordine struttura, coerenza, contenuto e didattica, frase
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| V01 | Parr. 84–118, nota di review | Normativa e prassi | Media | TUF, regolamenti CONSOB, MiFID II/MiFIR, MAR, MiCAR, poteri di product intervention, procedure ACF, orientamenti ESMA e riparti con Banca d'Italia sono suscettibili di aggiornamento. | Confrontare testo e collegamenti con le fonti ufficiali vigenti alla data di chiusura del volume; verificare in particolare soggetto, servizio, categoria di cliente e rimedio. | Da verificare in chiusura |
+| V01 | Parr. 84–118, nota di review | Normativa e prassi | Media | TUF, regolamenti CONSOB, MiFID II/MiFIR, MAR, MiCAR, poteri di product intervention, procedure ACF, orientamenti ESMA e riparti con Banca d'Italia sono suscettibili di aggiornamento. | Confrontare testo e collegamenti con le fonti ufficiali vigenti alla data di chiusura del volume; verificare in particolare soggetto, servizio, categoria di cliente e rimedio. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 6. Suggerimenti facoltativi
 

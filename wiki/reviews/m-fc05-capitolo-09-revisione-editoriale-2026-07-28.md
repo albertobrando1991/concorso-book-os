@@ -54,7 +54,7 @@ Applicati i punti 1–26 e 28–30. Il punto 27 non è applicabile: non è dispo
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 49, 100, 120–124, 134, 150 e 223 | 12. Fatti o norme da verificare | Media | Testi integrati, periodi regolatori, standard, indennizzi, conciliazione e riparti territoriali sono aggiornabili. | Verificare su atti ARERA vigenti e sul servizio o bando target al cut-off. | Da verificare |
+| V01 | Righe 49, 100, 120–124, 134, 150 e 223 | 12. Fatti o norme da verificare | Media | Testi integrati, periodi regolatori, standard, indennizzi, conciliazione e riparti territoriali sono aggiornabili. | Verificare su atti ARERA vigenti e sul servizio o bando target al cut-off. | Verificato 29/07; MTR-3 applicato; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 Nessuno.

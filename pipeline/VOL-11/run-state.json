@@ -1,0 +1,1792 @@
+{
+  "volumeCode": "VOL-11",
+  "specPath": "books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/planning/00-scheda-pipeline.md",
+  "specHash": "sha256:9b1e66289415c3b991ef2d9cc52a2cd4e40830108670b2e20e1edbbf70340df5",
+  "createdAt": "2026-08-07T14:01:35.080Z",
+  "updatedAt": "2026-08-17T19:36:09.256Z",
+  "steps": [
+    {
+      "key": "00:VOL-11",
+      "id": "00",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-11",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:06:25.746Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 00 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-07T14:20:25.735Z"
+    },
+    {
+      "key": "01:VOL-11",
+      "id": "01",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-11",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:21:45.809Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 01 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Censimento manuale eseguito: branch main con modifiche preesistenti di altri volumi; VOL-11 ha source raw immutabile, source note, topic/entity, outline e scheda pipeline; M-TR04 è outline-ready, capitoli reader-visible non ancora presenti; nessuna collisione VOL-11 rilevata. Le modifiche estranee restano fuori scope e non sono state sovrascritte."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-07T14:23:25.434Z"
+    },
+    {
+      "key": "02:VOL-11",
+      "id": "02",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-11",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:24:01.772Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 02 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Nessun contributo concorrente VOL-11 approvato da integrare oltre agli artefatti già creati nel turno: raw/source/topic/entity/outline/scheda. Preservati i file preesistenti; git diff --check eseguito senza introdurre modifiche di contenuto da conflitti."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-07T14:24:19.322Z"
+    },
+    {
+      "key": "03:VOL-11",
+      "id": "03",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-11",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:24:37.252Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 03 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Riconciliazione catalogo eseguita: src/catalog/text-volumes.ts e architettura canonica assegnano VOL-11 esclusivamente a M-TR04 con book_id moduli/m-tr04-ambiente-protezione-civile; 12 volumi/25 moduli coerenti. Nessuna patch catalogo necessaria. La cartella chapters è correttamente ancora assente perché i capitoli sono pianificati, non reader-visible."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-07T14:28:42.203Z"
+    },
+    {
+      "key": "04:VOL-11",
+      "id": "04",
+      "phase": "B",
+      "scope": "volume",
+      "target": "VOL-11",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:29:35.595Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 04 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Bibbia del Volume creata in wiki/books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/planning/01-bibbia-volume.md: profili AMB/PC/EN/LOC, promessa, confini VOL-01/VOL-02/VOL-09/VOL-10, quattro parti interne, ordine capitoli, terminologia, struttura format 2, fonti e criteri visuali. Nessun capitolo reader-visible modificato."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-07T14:32:40.726Z"
+    },
+    {
+      "key": "05:moduli/m-tr04-ambiente-protezione-civile",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-tr04-ambiente-protezione-civile",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:32:53.735Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Audit eseguito sul campione dichiarato dal dossier; report interno wiki/reviews/pipeline/VOL-11/05-m-tr04-audit-bandi.md. Il corpus individuale ufficiale dei bandi e le frequenze quantitative restano da consolidare prima degli audit specialistici; nessuna frequenza inventata."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-07T14:33:49.549Z"
+    },
+    {
+      "key": "06:moduli/m-tr04-ambiente-protezione-civile",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-tr04-ambiente-protezione-civile",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-07T14:34:02.611Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Audit fonti registrato in wiki/reviews/pipeline/VOL-11/06-m-tr04-audit-fonti.md. Dossier sufficiente per outline ma non per scrittura finale; fonti primarie specialistiche e dati mobili 2026 restano da consolidare prima degli step di capitolo."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-07T14:34:21.923Z"
+    },
+    {
+      "key": "07:moduli/m-tr04-ambiente-protezione-civile",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-tr04-ambiente-protezione-civile",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T08:38:24.031Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T09:42:35.148Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T09:42:56.962Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale chapter-plan completata. Piano creato in wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/03-piano-capitolo-01-quattro-profili-mappa-sistema.md con 6 Nucleo ID, struttura H1/H2/H3, budget 3.000-3.400 parole, 6 quiz, 1 caso, rinvii e audit richiesti. Gate non automatizzato: nessuna dichiarazione di pubblicabilità."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-08T09:43:52.317Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "status": "done",
+      "attempts": 0,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T09:46:45.227Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-08T10:07:20.716Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-08T10:37:01.833Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T14:15:28.990Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T14:15:48.954Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T14:19:37.051Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-01-quattro-profili-mappa-sistema-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-01-quattro-profili-mappa-sistema-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-09T14:35:13.660Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T14:44:13.719Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano capitolo 02 creato con 5 Nucleo ID, struttura, budget e audit; gate chapter-plan automatizzato ma verificato manualmente secondo contratto."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-09T14:47:36.301Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T14:49:55.482Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T15:03:21.504Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T15:04:34.436Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T15:16:26.172Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T15:17:23.935Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-09T15:17:25.122Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-09T15:21:05.249Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-02-dlgs-152-mase-ispra-snpa-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-02-dlgs-152-mase-ispra-snpa-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-09T15:21:06.523Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T14:55:20.090Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano del capitolo 03 registrato in planning/05-piano-capitolo-03-via-vas-valutazioni-ambientali.md; verifica manuale di nuclei, confini, fonti, budget e audit svolta."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-10T15:02:38.380Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T15:11:14.720Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T17:16:12.762Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T17:26:07.657Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T17:29:07.337Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T17:38:58.880Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T17:39:12.210Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T17:39:43.750Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-03-via-vas-valutazioni-ambientali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-03-via-vas-valutazioni-ambientali-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-10T17:49:38.252Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T17:50:32.060Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano capitolo 04 registrato in planning/06-piano-capitolo-04-aia-aua-emissioni-autorizzazioni.md; verificati nuclei, confini, fonti, budget e audit."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-10T17:50:59.361Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T17:51:53.977Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T20:44:11.400Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T20:44:18.701Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T20:48:37.762Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T20:49:28.006Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T20:59:28.360Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T20:59:56.087Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-04-aia-aua-emissioni-autorizzazioni-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-04-aia-aua-emissioni-autorizzazioni-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-10T21:00:49.513Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T21:11:26.432Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano verificato manualmente: 6 nuclei stabili, fonti ufficiali consolidate, budget 4.300-4.800 parole, 6 quiz, caso, checklist autorizzativa e schema di verbale; confini con capitoli 04, 06 e 09 esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-10T21:23:17.847Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T21:23:19.148Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T21:26:18.734Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T21:26:32.460Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T21:27:08.817Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T21:27:36.767Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-10T21:29:00.846Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-10T21:31:01.881Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-05-acque-scarichi-servizio-idrico-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-05-acque-scarichi-servizio-idrico-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-05-acque-scarichi-servizio-idrico-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-11T09:40:02.100Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T10:21:19.489Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano verificato manualmente: sei nuclei stabili, source note ufficiale aggiornata all’11 agosto 2026, budget 4.800-5.300 parole, sei quiz, caso di classificazione e output registro/FIR; confini con capitoli 05, 07 e 09 esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-11T10:27:41.258Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-11T10:33:26.242Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-11T10:50:19.726Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T16:24:55.426Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T16:37:12.000Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T16:37:57.637Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T16:42:58.068Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T16:55:49.983Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-06-rifiuti-economia-circolare-rentri-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-06-rifiuti-economia-circolare-rentri-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-12T16:58:37.188Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T17:10:15.284Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano in sette nuclei, budget 5700-6400 parole, sei quiz, un caso istruttorio, fonti ufficiali consolidate, confini e audit specialistici espliciti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-12T17:19:14.649Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T17:20:20.598Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T17:28:48.156Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T17:32:28.458Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T18:06:27.437Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T18:09:06.896Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-12T18:20:04.352Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-12T18:20:39.668Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-07-bonifiche-siti-contaminati-danno-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-07-bonifiche-siti-contaminati-danno-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-12T19:16:38.833Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T13:54:06.457Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano in sei nuclei, budget 5200-5900 parole, sei quiz, un caso integrato aria-rumore, fonte ufficiale consolidata, confini e audit specialistici espliciti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-13T14:10:48.534Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T14:10:52.706Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-13T14:14:26.992Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T14:14:44.816Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-13T14:46:40.954Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T14:47:39.367Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-13T15:07:38.142Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T15:08:57.222Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-08-aria-rumore-monitoraggio-dati-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-08-aria-rumore-monitoraggio-dati-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-13T15:35:07.719Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T16:12:24.614Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano in sette nuclei, budget 5600-6200 parole, sei quiz, caso ispettivo integrato, fonte ufficiale consolidata al D.Lgs. 81/2026, confini e cinque audit specialistici espliciti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-13T16:44:37.368Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T16:48:07.097Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-13T17:52:18.182Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T17:53:26.163Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-13T17:55:27.400Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T17:55:48.652Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-13T18:13:11.850Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-13T18:13:34.066Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-09-controlli-sanzioni-reati-ambientali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-09-controlli-sanzioni-reati-ambientali-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-09-controlli-sanzioni-reati-ambientali-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-14T09:49:07.026Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T10:43:27.368Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano in sette nuclei, budget 5600-6200 parole, sei quiz, caso comunale integrato, fonte ufficiale consolidata, confine col capitolo 11 e sei audit specialistici espliciti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-14T12:48:37.764Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T12:49:27.376Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:21:45.796Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:26:56.076Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:37:50.743Z"
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:47:34.317Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-14T13:51:19.727Z"
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-14T13:53:37.056Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-10-sistema-protezione-civile-pianificazione-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-10-sistema-protezione-civile-pianificazione-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-11/12-moduli-m-tr04-ambiente-protezione-civile-chapters-10-sistema-protezione-civile-pianificazione-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-14T13:59:51.661Z"
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-17T09:21:45.352Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano in sette nuclei, budget 5900-6500 parole, sei quiz, caso Vallechiara a due rami, fonte ufficiale 2026 consolidata, confine col capitolo 10 e sette audit specialistici espliciti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-17T10:04:47.145Z"
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-17T10:05:01.686Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-17T19:36:09.256Z"
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-tr04-ambiente-protezione-civile",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-tr04-ambiente-protezione-civile",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-tr04-ambiente-protezione-civile",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-tr04-ambiente-protezione-civile",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-tr04-ambiente-protezione-civile",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-tr04-ambiente-protezione-civile",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-tr04-ambiente-protezione-civile",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-tr04-ambiente-protezione-civile",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "21:VOL-11",
+      "id": "21",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-11",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "22:VOL-11",
+      "id": "22",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-11",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "23:VOL-11",
+      "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-11",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "24:VOL-11",
+      "id": "24",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-11",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    }
+  ]
+}

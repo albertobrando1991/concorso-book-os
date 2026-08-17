@@ -2,14 +2,14 @@
 id: m-ir02-universita-afam
 type: specialist_module
 title: "M-IR02 - Universita e AFAM"
-status: scaffold
+status: outline_ready
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","istruzione-ricerca","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["il-metodo-bando","moduli-specialistici"]
-confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4","sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026","sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24"]
+book_refs: ["il-metodo-bando","moduli-specialistici","vol-06-scuola-universita-ricerca-cultura"]
+confidence: 0.72
+updated_at: 2026-07-29
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -18,11 +18,11 @@ book_id: m-ir02-universita-afam
 module_code: M-IR02
 module_family: istruzione-ricerca
 module_family_title: "Istruzione e Ricerca"
-module_status: scaffold
+module_status: outline_ready
 roadmap_phase: "3"
 companion_to: il-metodo-bando
-draft_stage: structure-ready
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
+draft_stage: outline-ready
+last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4"]
 ---
 
 # M-IR02 - Universita e AFAM
@@ -44,8 +44,12 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 
 ## Capitoli di lavoro
 - [[books/moduli/m-ir02-universita-afam/planning/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-ir02-universita-afam/planning/02-matrice-copertura-didattica|Matrice di copertura didattica v4]]
+- [[books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/01-indice-analitico#M-IR02--Università-e-AFAM|Indice analitico del modulo]]
 
 ## Fonti da consolidare
+- [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026|Corpus iniziale bandi 2025-2026]]
+- [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24|Quadro fonti ufficiali]]
 - Bandi rappresentativi recenti della famiglia.
 - Normativa e regolamenti ufficiali del settore.
 - Topic pages e source notes gia presenti nel wiki.

@@ -3311,3 +3311,1156 @@
 - atoms:
   - mem-20260805162301-h3d2eg | instruction | Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro.
   - mem-20260805162301-1o8jzn0 | result | Esito codex/git-publish: Commit e push di tutte le modifiche effettuate finora, inclusa la logica di pipeline e download per lo staff, senza sovrascrivere altro. -> Pubblicazione eseguita su origin/main con push fast-forward senza force, reset o rebase.
+## 2026-07-29T16:34:58.593Z - vol-06-scuola-universita-ricerca-cultura
+
+- conversation_id: conv-20260729163458-u8fjp8
+- route: codex/vol-06-dossier-pipeline
+- l0: l0/conv-20260729163458-u8fjp8.md
+- atoms:
+  - mem-20260729163458-1qeo8or | workflow | Analizza il dossier VOL-06, aggiungilo alla conoscenza, crea l indice completo per moduli e applica la pipeline volume.
+  - mem-20260729163458-16qsbf1 | result | Esito codex/vol-06-dossier-pipeline: Analizza il dossier VOL-06, aggiungilo alla conoscenza, crea l indice completo per moduli e applica la pipeline volume. -> Archiviato il dossier come raw source e source note, creato topic e volume index, definito indice di 50 capitoli nei moduli M-IR01, M-IR02, M-IR03 e M-IR04.
+
+## 2026-07-29T16:45:56.509Z - VOL-06
+
+- conversation_id: conv-20260729164556-hm11w9
+- route: pipeline-step-05-m-ir01
+- l0: l0/conv-20260729164556-hm11w9.md
+- atoms:
+  - mem-20260729164556-19u3oi3 | workflow | Procedi con la pipeline del Volume 6.
+  - mem-20260729164556-bogzi4 | result | Esito pipeline-step-05-m-ir01: Procedi con la pipeline del Volume 6. -> Step 05 M-IR01: consolidato corpus iniziale di sei procedure MIM/USR 2023-2025, con ricorrenze, differenze tra profili e lacune.
+
+## 2026-07-29T16:55:01.615Z - VOL-06
+
+- conversation_id: conv-20260729165501-vaof7y
+- route: pipeline-phase-b-m-ir01-complete
+- l0: l0/conv-20260729165501-vaof7y.md
+- atoms:
+  - mem-20260729165501-xt05gk | result | Esito pipeline-phase-b-m-ir01-complete: PROCEDI -> Completati step 05, 06 e 07 di M-IR01.
+
+## 2026-07-29T16:58:23.031Z - VOL-06
+
+- conversation_id: conv-20260729165823-1aj63l3
+- route: pipeline-step-05-m-ir02
+- l0: l0/conv-20260729165823-1aj63l3.md
+- atoms:
+  - mem-20260729165823-3h85nh | result | Esito pipeline-step-05-m-ir02: PROCEDI -> Step 05 M-IR02 completato con accettazione manuale: consolidato corpus di sei procedure complessive per amministrazione universitaria, contabilita, ricerca, biblioteche e AFAM; registrate ricorrenze, differenze e lacu...
+
+## 2026-07-29T17:03:33.743Z - VOL-06
+
+- conversation_id: conv-20260729170333-edxsf4
+- route: pipeline-phase-b-m-ir02-complete
+- l0: l0/conv-20260729170333-edxsf4.md
+- atoms:
+  - mem-20260729170333-bup06y | result | Esito pipeline-phase-b-m-ir02-complete: procedi -> Completati M-IR02 step 05, 06 e 07: corpus di sei procedure, fonti Normattiva/MUR/ANVUR e matrice di 12 nuclei; coverage gate passato senza blocker.
+
+## 2026-07-29T17:04:06.215Z - VOL-05
+
+- conversation_id: conv-20260729170406-3z93ok
+- route: source-acquisition
+- l0: l0/conv-20260729170406-3z93ok.md
+- atoms:
+  - mem-20260729170406-hdxqcx | result | Esito source-acquisition: Se il bando non è presente fai una ricerca e scarica quello che serve. -> Per VOL-05 M-FC05 sono stati acquisiti e verificati come PDF i bandi ufficiali Banca d’Italia 2025 (60 profili giuridici), ANAC 2026 (19 funzionari amministrativi) e CONSOB 2026 codice 207/26 (5 Vice Assistenti ammini...
+
+## 2026-07-29T17:05:58.898Z - VOL-06
+
+- conversation_id: conv-20260729170558-nisbkw
+- route: pipeline-step-05-m-ir03
+- l0: l0/conv-20260729170558-nisbkw.md
+- atoms:
+  - mem-20260729170558-1nn0tdv | result | Esito pipeline-step-05-m-ir03: procedi -> Step 05 M-IR03 concluso: corpus CNR, INFN e ISTAT consolidato con ponte grant; lacuna prioritaria documentata per bando autonomo grant manager EPR.
+
+## 2026-07-29T17:13:58.380Z - VOL-06
+
+- conversation_id: conv-20260729171358-16gv6bl
+- route: pipeline-phase-b-m-ir03-complete
+- l0: l0/conv-20260729171358-16gv6bl.md
+- atoms:
+  - mem-20260729171358-1ff685c | result | Esito pipeline-phase-b-m-ir03-complete: procedi -> M-IR03 step 06 e 07 completati: fonti EPR consolidate e matrice di 12 nuclei passata al gate.
+
+## 2026-07-29T17:18:37.759Z - VOL-05
+
+- conversation_id: conv-20260729171837-mfh07f
+- route: source-consolidation
+- l0: l0/conv-20260729171837-mfh07f.md
+- atoms:
+  - mem-20260729171837-oe5vug | result | Esito source-consolidation: Procedi. -> Consolidati i tre bandi ufficiali acquisiti nel Volume 5 in source note autonome.
+
+## 2026-07-29T17:22:00.682Z - VOL-06
+
+- conversation_id: conv-20260729172200-p5st1e
+- route: pipeline-phase-b-vol06-complete
+- l0: l0/conv-20260729172200-p5st1e.md
+- atoms:
+  - mem-20260729172200-7h9ftg | result | Esito pipeline-phase-b-vol06-complete: PROCEDI -> Completata la fase B del VOL-06: M-IR01, M-IR02, M-IR03 e M-IR04 hanno corpus bandi, fonti consolidate e matrici di copertura passate ai gate.
+
+## 2026-07-29T17:29:37.909Z - vol-06
+
+- conversation_id: conv-20260729172937-ic9q1b
+- route: editorial-pipeline
+- l0: l0/conv-20260729172937-ic9q1b.md
+- atoms:
+  - mem-20260729172937-ng36h6 | result | Esito editorial-pipeline: Procedi con la pipeline del Volume 6. -> M-IR01 capitolo 01 completato fino allo step 12.
+
+## 2026-07-29T17:31:14.594Z - vol-06
+
+- conversation_id: conv-20260729173114-1bi18mj
+- route: editorial-pipeline
+- l0: l0/conv-20260729173114-1bi18mj.md
+- atoms:
+  - mem-20260729173114-75wp0b | result | Esito editorial-pipeline: Procedi con il Volume 6. -> M-IR01 capitolo 02: piano operativo completato allo step 08.
+
+## 2026-07-29T17:36:56.630Z - VOL-05
+
+- conversation_id: conv-20260729173656-ydf3i8
+- route: target-notice-alignment
+- l0: l0/conv-20260729173656-ydf3i8.md
+- atoms:
+  - mem-20260729173656-1fhzbt8 | result | Esito target-notice-alignment: OK procedi dal primo punto. -> Creato il report di verifica dei tre bandi di riferimento Banca d’Italia, ANAC e CONSOB.
+
+## 2026-07-29T17:39:29.281Z - vol-06
+
+- conversation_id: conv-20260729173929-aea41n
+- route: editorial-pipeline
+- l0: l0/conv-20260729173929-aea41n.md
+- atoms:
+  - mem-20260729173929-1h7nh3t | result | Esito editorial-pipeline: Passa al prossimo step e procedi. -> M-IR01 capitolo 02 completato fino allo step 12.
+
+## 2026-07-29T17:41:29.458Z - vol-06
+
+- conversation_id: conv-20260729174129-uy8dlu
+- route: editorial-pipeline
+- l0: l0/conv-20260729174129-uy8dlu.md
+- atoms:
+  - mem-20260729174129-q7qrxs | result | Esito editorial-pipeline: Procedi. -> M-IR01 capitolo 03: step 08 piano completato.
+
+## 2026-07-29T17:42:17.492Z - VOL-05
+
+- conversation_id: conv-20260729174217-1oc32kq
+- route: editorial-preflight
+- l0: l0/conv-20260729174217-1oc32kq.md
+- atoms:
+  - mem-20260729174217-13a5thi | result | Esito editorial-preflight: Procedi. -> Eseguito il secondo gate come preflight editoriale-normativo, senza sostituire la firma umana.
+
+## 2026-07-29T18:17:07.538Z - vol-06
+
+- conversation_id: conv-20260729181707-1yjbd7x
+- route: editorial-pipeline
+- l0: l0/conv-20260729181707-1yjbd7x.md
+- atoms:
+  - mem-20260729181707-1m1ih3q | result | Esito editorial-pipeline: Procedi. -> M-IR01 capitolo 03 completato fino allo step 12.
+
+## 2026-07-29T18:24:34.310Z - vol-06
+
+- conversation_id: conv-20260729182434-kf549t
+- route: editorial-pipeline
+- l0: l0/conv-20260729182434-kf549t.md
+- atoms:
+  - mem-20260729182434-29zw2l | result | Esito editorial-pipeline: Procedi. -> M-IR01 capitolo 04: piano step 08 completato.
+
+## 2026-07-29T18:30:59.874Z - vol-06
+
+- conversation_id: conv-20260729183059-1a53bi7
+- route: editorial-pipeline
+- l0: l0/conv-20260729183059-1a53bi7.md
+- atoms:
+  - mem-20260729183059-1vcyrno | result | Esito editorial-pipeline: Procedi. -> M-IR01 capitolo 04 completato fino allo step 12.
+
+## 2026-07-29T18:36:03.805Z - vol-06
+
+- conversation_id: conv-20260729183603-1e8pb7h
+- route: editorial-pipeline
+- l0: l0/conv-20260729183603-1e8pb7h.md
+- atoms:
+  - mem-20260729183603-13d5bzp | result | Esito editorial-pipeline: Procedi. -> M-IR01 capitolo 05: piano step 08 completato.
+
+## 2026-07-29T18:43:30.160Z - vol-06
+
+- conversation_id: conv-20260729184330-zr2esg
+- route: editorial-pipeline
+- l0: l0/conv-20260729184330-zr2esg.md
+- atoms:
+  - mem-20260729184330-sho5sk | result | Esito editorial-pipeline: PROCEDI -> Completati gli step 09-12 del capitolo 05 M-IR01: testo editoriale, controllo di copertura, humanizer e report di revisione.
+
+## 2026-07-29T18:44:39.377Z - vol-06
+
+- conversation_id: conv-20260729184439-1dqtz1m
+- route: editorial-pipeline
+- l0: l0/conv-20260729184439-1dqtz1m.md
+- atoms:
+  - mem-20260729184439-qbp2ze | result | Esito editorial-pipeline: PROCEDI -> Pianificato il capitolo 06 M-IR01 su DSGA/EQ, uffici e personale.
+
+## 2026-07-29T18:49:32.494Z - vol-06
+
+- conversation_id: conv-20260729184932-1tfti7
+- route: editorial-pipeline
+- l0: l0/conv-20260729184932-1tfti7.md
+- atoms:
+  - mem-20260729184932-io97x7 | result | Esito editorial-pipeline: PROCEDI -> Completati gli step 09-12 del capitolo 06 M-IR01: testo editoriale, controllo di copertura, humanizer e report di revisione.
+
+## 2026-07-29T18:50:33.943Z - vol-06
+
+- conversation_id: conv-20260729185033-1yney9t
+- route: editorial-pipeline
+- l0: l0/conv-20260729185033-1yney9t.md
+- atoms:
+  - mem-20260729185033-1iolrr6 | result | Esito editorial-pipeline: PROCEDI -> Pianificato il capitolo 07 M-IR01 sulla contabilita scolastica.
+
+## 2026-07-29T18:53:00.200Z - vol-05-m-fc05
+
+- conversation_id: conv-20260729185300-1g5465e
+- route: layout-proof-reference-closure
+- l0: l0/conv-20260729185300-1g5465e.md
+- atoms:
+  - mem-20260729185300-1e52xrj | result | Esito layout-proof-reference-closure: Lascia in sospeso solo la firma editoriale normativa umana. -> Completate la prova interna di impaginazione KDP e la validazione dei bandi di riferimento.
+
+## 2026-07-29T19:08:05.736Z - vol-06
+
+- conversation_id: conv-20260729190805-qzjvpk
+- route: editorial-pipeline
+- l0: l0/conv-20260729190805-qzjvpk.md
+- atoms:
+  - mem-20260729190805-dnd2g9 | result | Esito editorial-pipeline: PROCEDI -> Completati gli step 09-12 del capitolo 07 M-IR01: testo editoriale, controllo di copertura, humanizer e report di revisione.
+
+## 2026-07-29T19:21:14.384Z - vol-06
+
+- conversation_id: conv-20260729192114-18fytft
+- route: editorial-pipeline
+- l0: l0/conv-20260729192114-18fytft.md
+- atoms:
+  - mem-20260729192114-1vuccq | result | Esito editorial-pipeline: PROCEDI -> Pianificato il capitolo 08 M-IR01 su acquisti, inventario e PNRR.
+
+## 2026-07-29T19:26:12.297Z - vol-06
+
+- conversation_id: conv-20260729192612-ili4so
+- route: editorial-pipeline
+- l0: l0/conv-20260729192612-ili4so.md
+- atoms:
+  - mem-20260729192612-1tr3qfi | result | Esito editorial-pipeline: PROCEDI CON IL PROSSIMO STEP -> Redatto il capitolo 08 M-IR01 su acquisti, inventario e PNRR.
+
+## 2026-07-29T19:35:45.010Z - vol-06
+
+- conversation_id: conv-20260729193545-u0mwzw
+- route: editorial-pipeline
+- l0: l0/conv-20260729193545-u0mwzw.md
+- atoms:
+  - mem-20260729193545-16alrdy | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 10 del capitolo 08 M-IR01: controllo di copertura superato.
+
+## 2026-07-29T20:21:31.241Z - vol-06
+
+- conversation_id: conv-20260729202131-8tffye
+- route: editorial-pipeline
+- l0: l0/conv-20260729202131-8tffye.md
+- atoms:
+  - mem-20260729202131-uirx0u | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 11 del capitolo 08 M-IR01.
+
+## 2026-07-29T20:24:03.085Z - vol-06
+
+- conversation_id: conv-20260729202403-qdmhpp
+- route: editorial-pipeline
+- l0: l0/conv-20260729202403-qdmhpp.md
+- atoms:
+  - mem-20260729202403-xq50vn | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 12 del capitolo 08 M-IR01.
+
+## 2026-07-29T20:26:33.586Z - vol-06
+
+- conversation_id: conv-20260729202633-t34lkk
+- route: editorial-pipeline
+- l0: l0/conv-20260729202633-t34lkk.md
+- atoms:
+  - mem-20260729202633-1ov55sq | result | Esito editorial-pipeline: PROCEDI CON IL PROSSIMO STEP -> Pianificato il capitolo 09 M-IR01 su dirigente scolastico, leadership e management.
+
+## 2026-07-29T20:32:59.137Z - vol-06
+
+- conversation_id: conv-20260729203259-16bssmt
+- route: editorial-pipeline
+- l0: l0/conv-20260729203259-16bssmt.md
+- atoms:
+  - mem-20260729203259-120gxay | result | Esito editorial-pipeline: PROCEDI -> Redatto e validato lo step 09 del capitolo 09 M-IR01 su dirigente scolastico, leadership e management.
+
+## 2026-07-29T20:37:25.001Z - vol-06
+
+- conversation_id: conv-20260729203725-soskk3
+- route: editorial-pipeline
+- l0: l0/conv-20260729203725-soskk3.md
+- atoms:
+  - mem-20260729203725-yds185 | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 10 del capitolo 09 M-IR01: il controllo di copertura e passato.
+
+## 2026-07-29T20:41:11.650Z - vol-06
+
+- conversation_id: conv-20260729204111-1ashexr
+- route: editorial-pipeline
+- l0: l0/conv-20260729204111-1ashexr.md
+- atoms:
+  - mem-20260729204111-wo2not | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 11 del capitolo 09 M-IR01.
+
+## 2026-07-29T20:43:28.914Z - vol-06
+
+- conversation_id: conv-20260729204328-rixv2t
+- route: editorial-pipeline
+- l0: l0/conv-20260729204328-rixv2t.md
+- atoms:
+  - mem-20260729204328-18fejng | result | Esito editorial-pipeline: OK PROCEDI CON IL PROSSIMO PASSAGGIO -> Completato lo step 12 del capitolo 09 M-IR01.
+
+## 2026-07-29T20:46:25.528Z - vol-06
+
+- conversation_id: conv-20260729204625-127q8rp
+- route: editorial-pipeline
+- l0: l0/conv-20260729204625-127q8rp.md
+- atoms:
+  - mem-20260729204625-1780q6w | result | Esito editorial-pipeline: PROCEDI -> Pianificato il capitolo 10 M-IR01 su relazioni sindacali, sicurezza e responsabilita.
+
+## 2026-07-29T20:50:26.135Z - vol-06
+
+- conversation_id: conv-20260729205026-aymzwy
+- route: editorial-pipeline
+- l0: l0/conv-20260729205026-aymzwy.md
+- atoms:
+  - mem-20260729205026-1ew3x9r | result | Esito editorial-pipeline: PROCEDI -> Redatto e validato lo step 09 del capitolo 10 M-IR01 su relazioni sindacali, sicurezza e responsabilita.
+
+## 2026-07-29T20:51:50.700Z - vol-06
+
+- conversation_id: conv-20260729205150-13jy7rg
+- route: editorial-pipeline
+- l0: l0/conv-20260729205150-13jy7rg.md
+- atoms:
+  - mem-20260729205150-4vndgw | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 10 del capitolo 10 M-IR01: il controllo di copertura e passato.
+
+## 2026-07-29T20:56:37.502Z - vol-06
+
+- conversation_id: conv-20260729205637-x6rfg4
+- route: editorial-pipeline
+- l0: l0/conv-20260729205637-x6rfg4.md
+- atoms:
+  - mem-20260729205637-1auqq3e | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 11 del capitolo 10 M-IR01.
+
+## 2026-07-29T20:58:40.680Z - vol-06
+
+- conversation_id: conv-20260729205840-1yt0doc
+- route: editorial-pipeline
+- l0: l0/conv-20260729205840-1yt0doc.md
+- atoms:
+  - mem-20260729205840-14867og | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 12 del capitolo 10 M-IR01.
+
+## 2026-07-29T21:01:28.032Z - vol-06
+
+- conversation_id: conv-20260729210128-1ik2x01
+- route: editorial-pipeline
+- l0: l0/conv-20260729210128-1ik2x01.md
+- atoms:
+  - mem-20260729210128-lki9b8 | result | Esito editorial-pipeline: OK PROCEDI -> Pianificato il capitolo 11 M-IR01 su pedagogia, psicologia e inclusione.
+
+## 2026-07-29T21:08:34.796Z - VOL-09
+
+- conversation_id: conv-20260729210834-waq874
+- route: codex/vol-09-dossier-pipeline
+- l0: l0/conv-20260729210834-waq874.md
+- atoms:
+  - mem-20260729210834-43e7w9 | workflow | Analizza il dossier VOL-09, aggiungilo alla conoscenza, crea indice completo per moduli e applica pipeline volume.
+  - mem-20260729210834-18a50h7 | result | Esito codex/vol-09-dossier-pipeline: Analizza il dossier VOL-09, aggiungilo alla conoscenza, crea indice completo per moduli e applica pipeline volume. -> Dossier archiviato come raw e consolidato in source note/topic/volume index.
+
+## 2026-07-29T21:12:31.861Z - vol-06
+
+- conversation_id: conv-20260729211231-1wv7y9q
+- route: editorial-pipeline
+- l0: l0/conv-20260729211231-1wv7y9q.md
+- atoms:
+  - mem-20260729211231-1t62vxz | result | Esito editorial-pipeline: PROCEDI -> Consolidate le fonti MIM per i programmi docenti e Normattiva per inclusione/disabilita e DSA; redatto e validato allo step 09 il capitolo M-IR01-11 Pedagogia, psicologia e inclusione, con caso non diagnostico, domand...
+
+## 2026-07-29T21:19:27.417Z - vol-06
+
+- conversation_id: conv-20260729211927-16puo4g
+- route: editorial-pipeline
+- l0: l0/conv-20260729211927-16puo4g.md
+- atoms:
+  - mem-20260729211927-11f84iv | result | Esito editorial-pipeline: RIPRENDI -> Eseguito e superato lo step 10 di audit copertura per M-IR01 capitolo 11: tutti i nuclei risultano completi; report delta salvato e review umana mantenuta per bando, posto e documentazione.
+
+## 2026-07-29T21:22:40.540Z - VOL-09
+
+- conversation_id: conv-20260729212240-1rxws31
+- route: codex/vol-09-step-09
+- l0: l0/conv-20260729212240-1rxws31.md
+- atoms:
+  - mem-20260729212240-1wbyy5u | workflow | Continua la pipeline VOL-09: step 09 scrittura capitolo 01.
+  - mem-20260729212240-xvd9f1 | result | Esito codex/vol-09-step-09: Continua la pipeline VOL-09: step 09 scrittura capitolo 01. -> Step 09 completato: redatto il capitolo 01 M-TR02 con struttura workbook, rinvii VOL-01, fonti consolidate e note di review; chapter-lint superato.
+
+## 2026-07-29T21:23:23.563Z - vol-06
+
+- conversation_id: conv-20260729212323-11go0ec
+- route: editorial-pipeline
+- l0: l0/conv-20260729212323-11go0ec.md
+- atoms:
+  - mem-20260729212323-5dq4u2 | result | Esito editorial-pipeline: CONTINUA -> Completato lo step 11 Humanizer del capitolo M-IR01-11: rimossi alcuni segnali stilistici meccanici, preservati significato, fonti, wikilink e struttura; citation-guard superato.
+
+## 2026-07-29T21:28:23.719Z - vol-06
+
+- conversation_id: conv-20260729212823-hjrkyh
+- route: editorial-pipeline
+- l0: l0/conv-20260729212823-hjrkyh.md
+- atoms:
+  - mem-20260729212823-1n0fkag | result | Esito editorial-pipeline: CONTINUA -> Completato lo step 12 Revisore Editoriale Totale per M-IR01 capitolo 11: report conforme al template, nessun errore grave o medio, pubblicabile con correzioni minori; citation e copertura confermate.
+
+## 2026-07-29T21:32:19.179Z - book:vol-09
+
+- conversation_id: conv-20260729213219-sqh4r1
+- route: pipeline-volume
+- l0: l0/conv-20260729213219-sqh4r1.md
+- atoms:
+  - mem-20260729213219-1kjiq3v | workflow | Continua pipeline VOL-09 capitolo 02
+  - mem-20260729213219-ifv1s1 | result | Esito pipeline-volume: Continua pipeline VOL-09 capitolo 02 -> Governance RUP, fasi, team e qualificazione redatto e revisionato; gate completati con warning normativi aperti.
+
+## 2026-07-29T21:32:33.406Z - vol-06
+
+- conversation_id: conv-20260729213233-dmcwtq
+- route: editorial-pipeline
+- l0: l0/conv-20260729213233-dmcwtq.md
+- atoms:
+  - mem-20260729213233-jtrspp | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 08 del capitolo M-IR01-12: piano operativo per metodologie, valutazione e digitale didattico, con confini 11/13, struttura workbook, fonti e source review obbligatoria.
+
+## 2026-07-29T21:38:46.736Z - vol-06
+
+- conversation_id: conv-20260729213846-1yezw07
+- route: editorial-pipeline
+- l0: l0/conv-20260729213846-1yezw07.md
+- atoms:
+  - mem-20260729213846-1mz1aa5 | result | Esito editorial-pipeline: PROCEDI -> Consolidate fonti ufficiali su D.Lgs 62/2017, O.M.
+
+## 2026-07-29T21:41:04.882Z - vol-06
+
+- conversation_id: conv-20260729214104-1wx1h3q
+- route: editorial-pipeline
+- l0: l0/conv-20260729214104-1wx1h3q.md
+- atoms:
+  - mem-20260729214104-1lucpq7 | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 10 del capitolo M-IR01-12: audit di copertura superato, metodologie, valutazione, competenze digitali e progettazione risultano completi; review umana mantenuta per segmento, bando, privacy e piatta...
+
+## 2026-07-29T21:41:11.635Z - book:vol-09
+
+- conversation_id: conv-20260729214111-18kgrxa
+- route: pipeline-volume
+- l0: l0/conv-20260729214111-18kgrxa.md
+- atoms:
+  - mem-20260729214111-1b3neeo | workflow | Procedi con lo step successivo VOL-09 capitolo 03
+  - mem-20260729214111-1lhtxja | result | Esito pipeline-volume: Procedi con lo step successivo VOL-09 capitolo 03 -> Capitolo 03 su strategia, fabbisogni e programmazione completato con step 08-12; warning normativi aperti per verifica umana.
+
+## 2026-07-29T21:44:37.062Z - vol-06
+
+- conversation_id: conv-20260729214437-axj55f
+- route: editorial-pipeline
+- l0: l0/conv-20260729214437-axj55f.md
+- atoms:
+  - mem-20260729214437-1824sqq | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 11 Humanizer del capitolo M-IR01-12: stile reso piu naturale, preservati significato, fonti, wikilink, norme e struttura; citation-guard superato.
+
+## 2026-07-29T21:47:20.190Z - vol-06
+
+- conversation_id: conv-20260729214720-1eog72e
+- route: editorial-pipeline
+- l0: l0/conv-20260729214720-1eog72e.md
+- atoms:
+  - mem-20260729214720-1dmjt5k | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 12 Revisore Editoriale Totale del capitolo M-IR01-12: report conforme, nessun errore oggettivo aperto, copertura completa, pubblicabile con correzioni minori; verifiche umane su segmento, atti, priv...
+
+## 2026-07-29T21:48:01.954Z - book:vol-09
+
+- conversation_id: conv-20260729214801-1j2ie8h
+- route: pipeline-volume
+- l0: l0/conv-20260729214801-1j2ie8h.md
+- atoms:
+  - mem-20260729214801-ynhhk0 | workflow | Procedi VOL-09 capitolo 04
+  - mem-20260729214801-16rkaft | result | Esito pipeline-volume: Procedi VOL-09 capitolo 04 -> Stato pipeline 23 done, 62 pending; prossimo capitolo 05.
+
+## 2026-07-29T21:49:13.169Z - vol-06
+
+- conversation_id: conv-20260729214913-1dqm888
+- route: editorial-pipeline
+- l0: l0/conv-20260729214913-1dqm888.md
+- atoms:
+  - mem-20260729214913-1hy5zug | result | Esito editorial-pipeline: PROCEDI -> Completato lo step 08 del capitolo M-IR01-13: piano operativo per progettazione e lezione simulata, con integrazione dei capitoli 11/12, fonti, casi, output e review obbligatoria sul bando concreto.
+
+## 2026-07-29T21:55:46.098Z - vol-06
+
+- conversation_id: conv-20260729215546-1tlgy4g
+- route: editorial-pipeline
+- l0: l0/conv-20260729215546-1tlgy4g.md
+- atoms:
+  - mem-20260729215546-134cjyc | result | Esito editorial-pipeline: PROCEDI -> Redatto il capitolo M-IR01-13 Progettazione e lezione simulata, con progetto, scaletta, caso, domande, esercizio, fonti e review sul bando concreto; chapter-lint superato.
+
+## 2026-07-29T21:57:18.994Z - book:vol-09
+
+- conversation_id: conv-20260729215718-gy8ruj
+- route: pipeline-volume
+- l0: l0/conv-20260729215718-gy8ruj.md
+- atoms:
+  - mem-20260729215718-1iqzujv | workflow | Procedi VOL-09 capitolo 05
+  - mem-20260729215718-10zy99m | result | Esito pipeline-volume: Procedi VOL-09 capitolo 05 -> Stato pipeline 28 done, 57 pending; prossimo capitolo 06.
+
+## 2026-07-29T22:00:57.650Z - vol-06
+
+- conversation_id: conv-20260729220057-1wl3zb9
+- route: editorial-pipeline
+- l0: l0/conv-20260729220057-1wl3zb9.md
+- atoms:
+  - mem-20260729220057-1t9z0fm | result | Esito editorial-pipeline: PROCEDI -> Audit di copertura completato per il capitolo 13: tutti i nuclei della matrice risultano completi, report registrato e gate 10 superato senza blocker o warning.
+
+## 2026-07-29T22:03:04.035Z - book:vol-09
+
+- conversation_id: conv-20260729220304-1rxxi3z
+- route: pipeline-volume
+- l0: l0/conv-20260729220304-1rxxi3z.md
+- atoms:
+  - mem-20260729220304-et1fmx | workflow | Procedi VOL-09 capitolo 06
+  - mem-20260729220304-svlnf2 | result | Esito pipeline-volume: Procedi VOL-09 capitolo 06 -> Stato pipeline 33 done, 52 pending; prossimo capitolo 07.
+
+## 2026-07-29T22:06:53.071Z - vol-06
+
+- conversation_id: conv-20260729220653-6yyrsc
+- route: editorial-pipeline
+- l0: l0/conv-20260729220653-6yyrsc.md
+- atoms:
+  - mem-20260729220653-7qtjwm | result | Esito editorial-pipeline: PROCEDI -> Humanizer completato per il capitolo 13: eliminate formulazioni artificiali e corrette forme tipografiche senza modificare fonti, wikilink o contenuto didattico.
+
+## 2026-07-29T22:08:25.927Z - vol-06
+
+- conversation_id: conv-20260729220825-lqetu8
+- route: editorial-pipeline
+- l0: l0/conv-20260729220825-lqetu8.md
+- atoms:
+  - mem-20260729220825-18upmfy | result | Esito editorial-pipeline: PROCEDI -> Revisione editoriale totale completata per il capitolo 13: report conforme, nessun errore oggettivo aperto, copertura completa, giudizio pubblicabile con correzioni minori; restano verifiche umane su bando e impaginaz...
+
+## 2026-07-29T22:09:45.659Z - book:vol-09
+
+- conversation_id: conv-20260729220945-1f9778f
+- route: pipeline-volume
+- l0: l0/conv-20260729220945-1f9778f.md
+- atoms:
+  - mem-20260729220945-lf9t6 | workflow | Procedi VOL-09 capitolo 07
+  - mem-20260729220945-197014j | result | Esito pipeline-volume: Procedi VOL-09 capitolo 07 -> Stato pipeline 38 done, 47 pending; prossimo capitolo 08.
+
+## 2026-07-29T22:10:54.663Z - vol-06
+
+- conversation_id: conv-20260729221054-1et0muc
+- route: editorial-pipeline
+- l0: l0/conv-20260729221054-1et0muc.md
+- atoms:
+  - mem-20260729221054-o0gh9q | result | Esito editorial-pipeline: OK VAI AVANTI -> Revisione trasversale completata per M-IR01: indice, matrice e capitoli 01-13 coerenti; copertura completa, nessun errore oggettivo aperto, pubblicabile con correzioni minori.
+
+## 2026-07-29T22:14:11.230Z - vol-06
+
+- conversation_id: conv-20260729221411-5cvaz9
+- route: editorial-pipeline
+- l0: l0/conv-20260729221411-5cvaz9.md
+- atoms:
+  - mem-20260729221411-8gj99f | result | Esito editorial-pipeline: OK PROCEDI -> Step 14 completato per M-IR01: il report di correzione conferma che non erano necessarie correzioni obbligatorie; gate review-report superato senza blocker o warning.
+
+## 2026-07-31T14:48:45.506Z - repo-sync
+
+- conversation_id: conv-20260731144845-6ksjyw
+- route: github-staff-alignment
+- l0: l0/conv-20260731144845-6ksjyw.md
+- atoms:
+  - mem-20260731144845-1v5f2rw | instruction | PRIMA DI PROSEGUIRE allinea il mio codice alle modifiche effettuate dallo staff e deployate su github, preservando i contenuti scritti da me.
+  - mem-20260731144845-klng53 | result | Esito github-staff-alignment: PRIMA DI PROSEGUIRE allinea il mio codice alle modifiche effettuate dallo staff e deployate su github, preservando i contenuti scritti da me. -> Verificato il repository: origin/main è già antenato del branch locale main tramite il commit staff a6e5bea; nessun nuovo commit remoto dopo fetch.
+
+## 2026-07-31T14:50:23.722Z - vol-06
+
+- conversation_id: conv-20260731145023-1lb3zu3
+- route: editorial-pipeline
+- l0: l0/conv-20260731145023-1lb3zu3.md
+- atoms:
+  - mem-20260731145023-1gt6suo | result | Esito editorial-pipeline: CONTINUA CON IL PROSSIMO STEP -> Step 15 completato per M-IR01: predisposto il pacchetto di review umana specialistica con checklist di claim, procedure, dati mobili, casi e fonti; gate human-signoff chiuso manualmente con note, senza applicare corre...
+
+## 2026-07-31T14:52:46.979Z - book:vol-09
+
+- conversation_id: conv-20260731145246-1ldotuw
+- route: pipeline-volume
+- l0: l0/conv-20260731145246-1ldotuw.md
+- atoms:
+  - mem-20260731145246-1kqekn1 | workflow | Continua VOL-09 capitolo 08
+  - mem-20260731145246-hqs4nm | result | Esito pipeline-volume: Continua VOL-09 capitolo 08 -> Stato pipeline 43 done, 42 pending; prossimo capitolo 09.
+
+## 2026-07-31T14:53:12.694Z - vol-06
+
+- conversation_id: conv-20260731145312-b4h018
+- route: pipeline-update-review
+- l0: l0/conv-20260731145312-b4h018.md
+- atoms:
+  - mem-20260731145312-1u2tmfx | instruction | PRIMA DI PROCEDERE , EFFETTUA REVISIONE SECONDO L'AGGIORNAMENTO DELLA PIPELINE
+  - mem-20260731145312-1fsy0w8 | result | Esito pipeline-update-review: PRIMA DI PROCEDERE , EFFETTUA REVISIONE SECONDO L'AGGIORNAMENTO DELLA PIPELINE -> Verificata la pipeline aggiornata: registro 00-24 coerente, status VOL-06 senza blocchi, test build-steps 13/13 superati.
+
+## 2026-07-31T15:03:01.012Z - book:vol-09
+
+- conversation_id: conv-20260731150301-1htpof0
+- route: pipeline-review
+- l0: l0/conv-20260731150301-1htpof0.md
+- atoms:
+  - mem-20260731150301-tci4q9 | instruction | Prima di procedere effettua revisione secondo aggiornamento pipeline
+  - mem-20260731150301-1748lm0 | result | Esito pipeline-review: Prima di procedere effettua revisione secondo aggiornamento pipeline -> Aggiornamento pipeline verificato e run-state riallineato senza variazioni.
+
+## 2026-07-31T15:08:10.957Z - book:vol-09
+
+- conversation_id: conv-20260731150810-161pic
+- route: pipeline-volume
+- l0: l0/conv-20260731150810-161pic.md
+- atoms:
+  - mem-20260731150810-1qmah28 | workflow | OK ora procedi con il prossimo step del libro VOL-09 capitolo 09
+  - mem-20260731150810-1vmc7xm | result | Esito pipeline-volume: OK ora procedi con il prossimo step del libro VOL-09 capitolo 09 -> Stato pipeline 48 done, 37 pending; blocker su repertorio ANAC e giurisprudenza mantenuto.
+
+## 2026-07-31T15:11:52.942Z - vol-06
+
+- conversation_id: conv-20260731151152-1oeu3ze
+- route: editorial-pipeline
+- l0: l0/conv-20260731151152-1oeu3ze.md
+- atoms:
+  - mem-20260731151152-jq36wj | result | Esito editorial-pipeline: PROCEDI -> Step 16 completato per M-IR01: creato manifest di text freeze con hash SHA-256 e commit di riferimento.
+
+## 2026-07-31T15:13:25.274Z - book:vol-09
+
+- conversation_id: conv-20260731151325-1qqo82e
+- route: pipeline-volume
+- l0: l0/conv-20260731151325-1qqo82e.md
+- atoms:
+  - mem-20260731151325-1kl3gj7 | workflow | Continua con il prossimo step VOL-09 capitolo 10
+  - mem-20260731151325-x2fikj | result | Esito pipeline-volume: Continua con il prossimo step VOL-09 capitolo 10 -> Stato pipeline 53 done, 32 pending; prossimo capitolo 11.
+
+## 2026-07-31T15:15:57.450Z - vol-06
+
+- conversation_id: conv-20260731151557-ma1941
+- route: editorial-pipeline
+- l0: l0/conv-20260731151557-ma1941.md
+- atoms:
+  - mem-20260731151557-1apkl58 | result | Esito editorial-pipeline: PROCEDI -> Step 08 completato per M-IR02 capitolo 01: piano operativo su sistema universitario e AFAM, quattro profili, confini con VOL-01 e capitoli 02-11, struttura KDP, caso, fonti e review obbligatoria.
+
+## 2026-07-31T15:21:09.156Z - vol-06
+
+- conversation_id: conv-20260731152109-1ef09i7
+- route: editorial-pipeline
+- l0: l0/conv-20260731152109-1ef09i7.md
+- atoms:
+  - mem-20260731152109-vrifka | result | Esito editorial-pipeline: PROCEDI -> Step 09 completato per M-IR02 capitolo 01: redatto il capitolo Sistema universitario e AFAM con mappa dei quattro profili, decoder del bando, caso, domande, esercizio, fonti consolidate e review su atti mobili.
+
+## 2026-07-31T15:21:24.014Z - book:vol-09
+
+- conversation_id: conv-20260731152124-4d8dj0
+- route: pipeline-volume
+- l0: l0/conv-20260731152124-4d8dj0.md
+- atoms:
+  - mem-20260731152124-1sdmq9l | workflow | Completato capitolo 11 VOL-09 con pipeline step 08-12
+  - mem-20260731152124-1jdrpv0 | result | Esito pipeline-volume: Completato capitolo 11 VOL-09 con pipeline step 08-12 -> Restano verifiche umane su manuali RGS, antifrode, doppio finanziamento e rettifiche.
+
+## 2026-07-31T15:26:41.711Z - vol-06
+
+- conversation_id: conv-20260731152641-ctv3ve
+- route: editorial-pipeline
+- l0: l0/conv-20260731152641-ctv3ve.md
+- atoms:
+  - mem-20260731152641-1ouy1gq | result | Esito editorial-pipeline: PROCEDI -> Step 10 completato per M-IR02 capitolo 01: audit di copertura superato, tutti i nuclei su sistema, profili, bando, fonti, caso e verifica restano completi; report delta registrato.
+
+## 2026-07-31T15:30:36.060Z - book:vol-09
+
+- conversation_id: conv-20260731153036-j7g0a0
+- route: pipeline-volume
+- l0: l0/conv-20260731153036-j7g0a0.md
+- atoms:
+  - mem-20260731153036-g8622h | workflow | Completato capitolo 12 VOL-09 DNSH CAM procurement sostenibile
+  - mem-20260731153036-1ae5uz8 | result | Esito pipeline-volume: Completato capitolo 12 VOL-09 DNSH CAM procurement sostenibile -> Restano verifiche umane su CAM vigenti, guida DNSH e modelli di controllo della misura.
+
+## 2026-07-31T15:43:31.756Z - book:vol-09
+
+- conversation_id: conv-20260731154331-5e0cs5
+- route: pipeline-volume
+- l0: l0/conv-20260731154331-5e0cs5.md
+- atoms:
+  - mem-20260731154331-60lsje | workflow | Completato capitolo 13 VOL-09 project management pubblico
+  - mem-20260731154331-1k7f649 | result | Esito pipeline-volume: Completato capitolo 13 VOL-09 project management pubblico -> Restano verifiche umane su metodologia dell ente, ruoli e conseguenze delle modifiche.
+
+## 2026-07-31T15:49:16.723Z - vol-06
+
+- conversation_id: conv-20260731154916-jntjes
+- route: editorial-pipeline
+- l0: l0/conv-20260731154916-jntjes.md
+- atoms:
+  - mem-20260731154916-gzpfo8 | result | Esito editorial-pipeline: CONTINUA -> Step 11 completato per M-IR02 capitolo 01: doppia passata Humanizer conclusa, formulazioni meccaniche ridotte e significato, fonti, source_refs e wikilink preservati.
+
+## 2026-07-31T15:51:12.941Z - book:vol-09
+
+- conversation_id: conv-20260731155112-10kbyxi
+- route: pipeline-volume
+- l0: l0/conv-20260731155112-10kbyxi.md
+- atoms:
+  - mem-20260731155112-rrcide | workflow | Completato capitolo 14 VOL-09 laboratorio atti casi simulazioni
+  - mem-20260731155112-1xuxxz1 | result | Esito pipeline-volume: Completato capitolo 14 VOL-09 laboratorio atti casi simulazioni -> Restano verifiche umane sui rinvii, fonti mobili e adattamento al bando target.
+
+## 2026-07-31T15:54:53.770Z - book:vol-09
+
+- conversation_id: conv-20260731155453-b8gygt
+- route: pipeline-volume
+- l0: l0/conv-20260731155453-b8gygt.md
+- atoms:
+  - mem-20260731155453-6n6e2r | result | Esito pipeline-volume: Completata revisione trasversale M-TR02 e predisposto pacchetto review umana -> Il modulo è pronto per la firma specialistica, ma il text freeze resta in attesa.
+
+## 2026-07-31T15:55:50.805Z - vol-06
+
+- conversation_id: conv-20260731155550-1o4oaa
+- route: editorial-pipeline
+- l0: l0/conv-20260731155550-1o4oaa.md
+- atoms:
+  - mem-20260731155550-1qqkx5s | result | Esito editorial-pipeline: PROCEDI -> Step 12 completato per M-IR02 capitolo 01: revisione editoriale totale conforme alla checklist a 30 punti; nessun errore oggettivo aperto, copertura completa e giudizio pubblicabile con correzioni minori.
+
+## 2026-07-31T16:05:21.073Z - book:vol-09
+
+- conversation_id: conv-20260731160521-1i3b6fj
+- route: pipeline-volume
+- l0: l0/conv-20260731160521-1i3b6fj.md
+- atoms:
+  - mem-20260731160521-z9jcn8 | workflow | Review umana personale completata e pipeline VOL-09 portata fino alla consegna
+  - mem-20260731160521-1pljb6j | result | Esito pipeline-volume: Review umana personale completata e pipeline VOL-09 portata fino alla consegna -> Restano fonti mobili CAM/DNSH/PM, preflight PDF e approvazione esplicita per commit/push.
+
+## 2026-08-03T18:52:40.401Z - VOL-06
+
+- conversation_id: conv-20260803185240-nnira2
+- route: undefined
+- l0: l0/conv-20260803185240-nnira2.md
+- atoms:
+  - mem-20260803185240-1tq6hch | project_fact | Riprendi con la scrittura del libro dal prossimo step.
+
+## 2026-08-03T19:51:45.845Z - editorial
+
+- conversation_id: conv-20260803195145-10jdjko
+- route: codex/vol-06-m-ir02-ch06-step-09
+- l0: l0/conv-20260803195145-10jdjko.md
+- atoms:
+  - mem-20260803195145-1bwoy9u | workflow | PROCEDI: continua la pipeline VOL-06 M-IR02 capitolo 06.
+  - mem-20260803195145-dssf5z | result | Esito codex/vol-06-m-ir02-ch06-step-09: PROCEDI: continua la pipeline VOL-06 M-IR02 capitolo 06. -> Step 09 completato: redatto Bilancio di ateneo con distinzione dei tre sistemi, ciclo budget-gestione-bilancio-reporting, protocollo B-G-S-R-A, caso, domande, esercizio, fonti consolidate e note di review.
+
+## 2026-08-03T19:56:43.204Z - editorial
+
+- conversation_id: conv-20260803195643-1e38gsz
+- route: codex/vol-06-m-ir02-ch06-step-10
+- l0: l0/conv-20260803195643-1e38gsz.md
+- atoms:
+  - mem-20260803195643-130891t | result | Esito codex/vol-06-m-ir02-ch06-step-10: PROCEDI: continua la pipeline VOL-06 M-IR02 capitolo 06. -> Step 10 completato: audit di copertura del capitolo Bilancio di ateneo superato.
+
+## 2026-08-03T19:58:33.471Z - editorial
+
+- conversation_id: conv-20260803195833-d6rj5f
+- route: codex/vol-06-m-ir02-ch06-step-11
+- l0: l0/conv-20260803195833-d6rj5f.md
+- atoms:
+  - mem-20260803195833-9qlbzf | workflow | Vai, procedi con la pipeline VOL-06 M-IR02 capitolo 06.
+  - mem-20260803195833-l4897l | result | Esito codex/vol-06-m-ir02-ch06-step-11: Vai, procedi con la pipeline VOL-06 M-IR02 capitolo 06. -> Step 11 completato: doppia passata Humanizer sul capitolo Bilancio di ateneo.
+
+## 2026-08-03T20:03:21.385Z - editorial
+
+- conversation_id: conv-20260803200321-15pksqn
+- route: codex/vol-06-m-ir02-ch06-step-12
+- l0: l0/conv-20260803200321-15pksqn.md
+- atoms:
+  - mem-20260803200321-1pdmn5c | result | Esito codex/vol-06-m-ir02-ch06-step-12: PROCEDI: continua la pipeline VOL-06 M-IR02 capitolo 06. -> Step 12 completato: revisione editoriale totale del capitolo Bilancio di ateneo con checklist a 30 punti e copertura v4.
+
+## 2026-08-04T07:36:21.980Z - editorial
+
+- conversation_id: conv-20260804073621-1bqcv5
+- route: codex/vol-06-m-ir02-ch07-design
+- l0: l0/conv-20260804073621-1bqcv5.md
+- atoms:
+  - mem-20260804073621-18u8wrp | workflow | Integrare tutte e tre le impostazioni nel capitolo 07: ciclo di vita, ruoli e costi/documenti.
+  - mem-20260804073621-1d827ic | result | Esito codex/vol-06-m-ir02-ch07-design: Integrare tutte e tre le impostazioni nel capitolo 07: ciclo di vita, ruoli e costi/documenti. -> Specificato il piano integrato: ciclo come asse, ruoli e raccordi organizzativi come lettura trasversale, budget-costi-documenti-rendicontazione come seconda lettura; confine netto con capitolo 08; spec committata.
+
+## 2026-08-04T08:08:23.486Z - editorial
+
+- conversation_id: conv-20260804080823-1unp2em
+- route: codex/vol-06-m-ir02-ch07-step-08
+- l0: l0/conv-20260804080823-1unp2em.md
+- atoms:
+  - mem-20260804080823-1kdy5zq | workflow | Approvo il piano integrato del capitolo 07; procedi.
+  - mem-20260804080823-1n6t1sz | result | Esito codex/vol-06-m-ir02-ch07-step-08: Approvo il piano integrato del capitolo 07; procedi. -> Step 08 completato: piano operativo approvato per Ricerca e grant management.
+
+## 2026-08-04T08:23:36.096Z - editorial
+
+- conversation_id: conv-20260804082336-uoeevv
+- route: codex/vol-06-m-ir02-ch07-step-09
+- l0: l0/conv-20260804082336-uoeevv.md
+- atoms:
+  - mem-20260804082336-10kujtx | workflow | PROCEDI con la scrittura del capitolo 07 VOL-06 M-IR02.
+  - mem-20260804082336-1qxj2td | result | Esito codex/vol-06-m-ir02-ch07-step-09: PROCEDI con la scrittura del capitolo 07 VOL-06 M-IR02. -> Step 09 completato: redatto Ricerca e grant management con ciclo di vita come asse, ruoli e raccordi organizzativi, budget-costi-documenti-rendicontazione, protocollo F-R-A-D-E, caso, domanda, trappola ed esercizio.
+
+## 2026-08-04T08:28:42.466Z - editorial
+
+- conversation_id: conv-20260804082842-17ui1fu
+- route: codex/vol-06-m-ir02-ch07-step-10
+- l0: l0/conv-20260804082842-17ui1fu.md
+- atoms:
+  - mem-20260804082842-1jg82do | workflow | PROCEDI con il controllo di copertura del capitolo 07 VOL-06 M-IR02.
+  - mem-20260804082842-15ti26b | result | Esito codex/vol-06-m-ir02-ch07-step-10: PROCEDI con il controllo di copertura del capitolo 07 VOL-06 M-IR02. -> Step 10 completato: audit di copertura di Ricerca e grant management superato.
+
+## 2026-08-04T08:30:52.507Z - editorial
+
+- conversation_id: conv-20260804083052-w064nd
+- route: codex/vol-06-m-ir02-ch07-step-11
+- l0: l0/conv-20260804083052-w064nd.md
+- atoms:
+  - mem-20260804083052-1n12g69 | workflow | PROCEDI con Humanizer del capitolo 07 VOL-06 M-IR02.
+  - mem-20260804083052-ffz4lw | result | Esito codex/vol-06-m-ir02-ch07-step-11: PROCEDI con Humanizer del capitolo 07 VOL-06 M-IR02. -> Step 11 completato: doppia passata Humanizer su Ricerca e grant management.
+
+## 2026-08-04T08:41:02.037Z - editorial
+
+- conversation_id: conv-20260804084102-1adtegz
+- route: codex/vol-06-m-ir02-ch07-step-12
+- l0: l0/conv-20260804084102-1adtegz.md
+- atoms:
+  - mem-20260804084102-mbnlh0 | workflow | OK vai con revisione editoriale del capitolo 07 VOL-06 M-IR02.
+  - mem-20260804084102-hc9puk | result | Esito codex/vol-06-m-ir02-ch07-step-12: OK vai con revisione editoriale del capitolo 07 VOL-06 M-IR02. -> Step 12 completato: revisione editoriale totale di Ricerca e grant management con checklist a 30 punti e copertura v4.
+
+## 2026-08-04T09:36:43.818Z - editorial
+
+- conversation_id: conv-20260804093643-yh0chh
+- route: codex/vol-06-m-ir02-ch08-design
+- l0: l0/conv-20260804093643-yh0chh.md
+- atoms:
+  - mem-20260804093643-9ctjta | workflow | Procedere con architettura integrata del capitolo 08: confronto programmi, catena controlli e checklist audit.
+  - mem-20260804093643-1wt26v9 | result | Esito codex/vol-06-m-ir02-ch08-design: Procedere con architettura integrata del capitolo 08: confronto programmi, catena controlli e checklist audit. -> Specificato il piano integrato per PRIN, Horizon, PNRR e audit.
+
+## 2026-08-04T09:49:18.951Z - editorial
+
+- conversation_id: conv-20260804094918-omkqyt
+- route: codex/vol-06-m-ir02-ch08-step-08
+- l0: l0/conv-20260804094918-omkqyt.md
+- atoms:
+  - mem-20260804094918-1xgkrst | result | Esito codex/vol-06-m-ir02-ch08-step-08: Approvato: consolida le fonti PRIN e Horizon e procedi. -> Step 08 completato.
+
+## 2026-08-04T09:56:30.317Z - editorial
+
+- conversation_id: conv-20260804095630-9rwxs0
+- route: codex/vol-06-m-ir02-ch08-step-09
+- l0: l0/conv-20260804095630-9rwxs0.md
+- atoms:
+  - mem-20260804095630-1xko7fi | workflow | PROCEDI con capitolo 08, ma non committare finché non lo dico io.
+  - mem-20260804095630-1gx7sbj | result | Esito codex/vol-06-m-ir02-ch08-step-09: PROCEDI con capitolo 08, ma non committare finché non lo dico io. -> Step 09 completato senza commit: redatto PRIN, Horizon, PNRR e audit con confronto programmi, matrice di ammissibilita, distinzione monitoraggio-rendicontazione-controllo-audit, focus PNRR, protocollo P-R-O-V-A, caso ...
+
+## 2026-08-04T10:00:22.838Z - editorial
+
+- conversation_id: conv-20260804100022-5w8wsz
+- route: codex/vol-06-m-ir02-ch08-step-10
+- l0: l0/conv-20260804100022-5w8wsz.md
+- atoms:
+  - mem-20260804100022-1u9phe2 | workflow | PROCEDI con controllo copertura capitolo 08; nessun commit finché non autorizzato.
+  - mem-20260804100022-1bmcylt | result | Esito codex/vol-06-m-ir02-ch08-step-10: PROCEDI con controllo copertura capitolo 08; nessun commit finché non autorizzato. -> Step 10 completato senza commit: audit copertura PRIN, Horizon, PNRR e audit superato.
+
+## 2026-08-04T10:05:51.643Z - editorial
+
+- conversation_id: conv-20260804100551-1ey6u1c
+- route: codex/vol-06-m-ir02-ch08-step-11
+- l0: l0/conv-20260804100551-1ey6u1c.md
+- atoms:
+  - mem-20260804100551-qcm1ov | workflow | PROCEDI con Humanizer capitolo 08; nessun commit.
+  - mem-20260804100551-1f2jcuy | result | Esito codex/vol-06-m-ir02-ch08-step-11: PROCEDI con Humanizer capitolo 08; nessun commit. -> Step 11 completato senza commit: doppia passata Humanizer su PRIN, Horizon, PNRR e audit.
+
+## 2026-08-04T10:14:10.921Z - pipeline-volume
+
+- conversation_id: conv-20260804101410-et5vl3
+- route: codex/vol-06-m-ir02-ch08-step-12
+- l0: l0/conv-20260804101410-et5vl3.md
+- atoms:
+  - mem-20260804101410-iry9qe | workflow | PROCEDI con revisione editoriale capitolo 08; nessun commit.
+  - mem-20260804101410-ge8p05 | result | Esito codex/vol-06-m-ir02-ch08-step-12: PROCEDI con revisione editoriale capitolo 08; nessun commit. -> Step 12 completato senza commit: revisione editoriale totale di PRIN, Horizon, PNRR e audit con checklist 30 punti e copertura v4.
+
+## 2026-08-04T10:31:50.966Z - pipeline-volume
+
+- conversation_id: conv-20260804103150-19yjbzv
+- route: codex/vol-06-m-ir02-ch09-step-08
+- l0: l0/conv-20260804103150-19yjbzv.md
+- atoms:
+  - mem-20260804103150-1k2tx3l | result | Esito codex/vol-06-m-ir02-ch09-step-08: PROCEDI; nessun commit finche non autorizzato. -> Step 08 completato senza commit per il capitolo 09 Biblioteche, cataloghi e open access.
+
+## 2026-08-05T16:09:46.109Z - pipeline-volume
+
+- conversation_id: conv-20260805160946-5g6m8p
+- route: codex/vol-06-m-ir02-ch09-source-consolidation
+- l0: l0/conv-20260805160946-5g6m8p.md
+- atoms:
+  - mem-20260805160946-f79yc1 | result | Esito codex/vol-06-m-ir02-ch09-source-consolidation: PROCEDI con il passaggio successivo; nessun commit finche non autorizzato. -> Consolidamento fonti completato senza commit per il capitolo 09.
+
+## 2026-08-08T08:47:19.706Z - VOL-11
+
+- conversation_id: conv-20260808084719-a3qcvg
+- route: codex/vol-11-dossier-pipeline
+- l0: l0/conv-20260808084719-a3qcvg.md
+- atoms:
+  - mem-20260808084719-16beosy | workflow | Analizza il dossier VOL-11, aggiungilo alla conoscenza, crea indice completo per moduli e applica pipeline volume.
+  - mem-20260808084719-1t0otqi | result | Esito codex/vol-11-dossier-pipeline: Analizza il dossier VOL-11, aggiungilo alla conoscenza, crea indice completo per moduli e applica pipeline volume. -> Dossier acquisito come raw immutabile e consolidato in source note, topic, entity, volume index, indice M-TR04, Bibbia e matrice v4.
+
+## 2026-08-09T14:47:54.035Z - VOL-11
+
+- conversation_id: conv-20260809144754-1gpy1sv
+- route: codex/vol-11-resume
+- l0: l0/conv-20260809144754-1gpy1sv.md
+- atoms:
+  - mem-20260809144754-1mojsj9 | workflow | Procedi con VOL-11 dalla pipeline bloccata.
+  - mem-20260809144754-1t14e59 | result | Esito codex/vol-11-resume: Procedi con VOL-11 dalla pipeline bloccata. -> Sbloccato il gate 07 con matrice v4 conforme; completati step 08-12 del capitolo 01 (piano, scrittura, densità, Humanizer, revisione).
+
+## 2026-08-10T16:36:20.688Z - manual-writer
+
+- conversation_id: conv-20260810163620-16f1prz
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260810163620-16f1prz.md
+- atoms:
+  - mem-20260810163620-psz6n2 | workflow | instruction=Scrivi il capitolo completo secondo il piano 05 e il contratto della pipeline: sei nuclei N-TR04-03-01/06, almeno 600 parole per nucleo, VIA/VAS/screening distinti, caso ragionato, sei quiz commentati.
+  - mem-20260810163620-ejdn53 | instruction | Usa solo conoscenza consolidata, nessun contenuto interno nel corpo.
+  - mem-20260810163620-1lm6i9m | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md mode=integrate instruction=Scrivi il capitolo completo secondo il piano 05 e il contratto della pipeline: sei nu... -> Manual Writer completato su books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md.
+
+## 2026-08-10T17:56:17.533Z - manual-writer
+
+- conversation_id: conv-20260810175617-1mgeta5
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260810175617-1mgeta5.md
+- atoms:
+  - mem-20260810175617-qujuby | workflow | instruction=Scrivi il capitolo completo secondo il piano 06 e il contratto pipeline: sei nuclei N-TR04-04-01/06 da almeno 600 parole, AIA/AUA/emissioni/BAT distinti, caso ragionato e sei quiz commentati.
+  - mem-20260810175617-183lmv0 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md mode=integrate instruction=Scrivi il capitolo completo secondo il piano 06 e il contratto pipeline: sei nuclei... -> Manual Writer completato su books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md.
+
+## 2026-08-10T18:54:03.271Z - manual-writer
+
+- conversation_id: conv-20260810185403-165s3eu
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260810185403-165s3eu.md
+- atoms:
+  - mem-20260810185403-lbahpb | workflow | instruction=Completa il capitolo 04: sei nuclei da almeno 600 parole, oltre 3600 parole, caso e sei quiz; elimina bozze generiche e linguaggio interno.
+  - mem-20260810185403-1xs23l2 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md mode=integrate instruction=Completa il capitolo 04: sei nuclei da almeno 600 parole, oltre 3600 parole, caso e... -> Manual Writer completato su books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md.
+
+## 2026-08-10T21:01:24.822Z - VOL-11
+
+- conversation_id: conv-20260810210124-n7wxho
+- route: codex/vol-11-chapter04-integral-rewrite
+- l0: l0/conv-20260810210124-n7wxho.md
+- atoms:
+  - mem-20260810210124-1g03pgf | workflow | Risolvi il problema del writer breve e completa la scrittura integrale del capitolo 04.
+  - mem-20260810210124-p6j7pm | result | Esito codex/vol-11-chapter04-integral-rewrite: Risolvi il problema del writer breve e completa la scrittura integrale del capitolo 04. -> Sostituito il fallback breve con una riscrittura diretta di 4.604 parole; create fonte ufficiale AIA/AUA/emissioni 2026; completati e superati gate 09-12; stato VOL-11 28 done, 58 pending, nessun blocco.
+
+## 2026-08-11T09:54:35.395Z - VOL-11
+
+- conversation_id: conv-20260811095435-tgyc3a
+- route: codex/vol-11-chapter05-integral-write
+- l0: l0/conv-20260811095435-tgyc3a.md
+- atoms:
+  - mem-20260811095435-1jefut0 | workflow | Procedi e completa la scrittura integrale del Volume 11 applicando la pipeline editoriale.
+  - mem-20260811095435-13l74ws | result | Esito codex/vol-11-chapter05-integral-write: Procedi e completa la scrittura integrale del Volume 11 applicando la pipeline editoriale. -> Capitolo 05 Acque, scarichi e servizio idrico completato integralmente.
+
+## 2026-08-11T10:33:24.855Z - VOL-11
+
+- conversation_id: conv-20260811103324-16y72k
+- route: codex/vol-11-chapter06-step08
+- l0: l0/conv-20260811103324-16y72k.md
+- atoms:
+  - mem-20260811103324-ow6scg | workflow | Procedi con il capitolo 06 della pipeline VOL-11.
+  - mem-20260811103324-1tv0ulp | result | Esito codex/vol-11-chapter06-step08: Procedi con il capitolo 06 della pipeline VOL-11. -> Step 08 completato: consolidata fonte ufficiale rifiuti-RENTRI-FIR-MUD aggiornata all 11 agosto 2026 e piano in sei nuclei approvato.
+
+## 2026-08-12T16:24:15.752Z - VOL-11
+
+- conversation_id: conv-20260812162415-10xhoar
+- route: codex/vol-11-chapter06-step09
+- l0: l0/conv-20260812162415-10xhoar.md
+- atoms:
+  - mem-20260812162415-198bo2w | workflow | Completare la scrittura integrale del capitolo 06 su rifiuti, economia circolare e RENTRI mediante pipeline.
+  - mem-20260812162415-1yitk6s | result | Esito codex/vol-11-chapter06-step09: Completare la scrittura integrale del capitolo 06 su rifiuti, economia circolare e RENTRI mediante pipeline. -> Step 09 completato: capitolo integrale di oltre 5.300 parole, sei nuclei, sei quiz, caso operativo, fonti ufficiali e dato operativo FIR verificato all 11 agosto 2026; prossimo step 10.
+
+## 2026-08-12T16:37:48.058Z - VOL-11
+
+- conversation_id: conv-20260812163748-1wk6ziu
+- route: codex/vol-11-chapter06-step10
+- l0: l0/conv-20260812163748-1wk6ziu.md
+- atoms:
+  - mem-20260812163748-1oq90ls | workflow | Proseguire con il controllo di copertura del capitolo 06.
+  - mem-20260812163748-xh92in | result | Esito codex/vol-11-chapter06-step10: Proseguire con il controllo di copertura del capitolo 06. -> Step 10 completato: matrice aggiornata con undici dimensioni, evidenze leggibili e delta; gate didactic-density superato senza avvisi; prossimo step 11 Humanizer.
+
+## 2026-08-12T16:50:13.009Z - VOL-11
+
+- conversation_id: conv-20260812165013-1blazap
+- route: codex/vol-11-chapter06-step11
+- l0: l0/conv-20260812165013-1blazap.md
+- atoms:
+  - mem-20260812165013-1qyj5bf | workflow | Applicare Humanizer al capitolo 06.
+  - mem-20260812165013-1dgybkx | result | Esito codex/vol-11-chapter06-step11: Applicare Humanizer al capitolo 06. -> Step 11 completato: doppia passata anti-AI con 12 correzioni stilistiche; struttura, source_refs, norme, date, casi e quiz preservati; citation-guard verde senza avvisi; prossimo step 12.
+
+## 2026-08-12T16:59:49.572Z - VOL-11
+
+- conversation_id: conv-20260812165949-1ug2llg
+- route: codex/vol-11-chapter06-step12
+- l0: l0/conv-20260812165949-1ug2llg.md
+- atoms:
+  - mem-20260812165949-u0chv5 | workflow | Procedere con revisione editoriale totale e completamento del capitolo 06.
+  - mem-20260812165949-1hwxmud | result | Esito codex/vol-11-chapter06-step12: Procedere con revisione editoriale totale e completamento del capitolo 06. -> Ciclo 08-12 del capitolo 06 completato.
+
+## 2026-08-12T17:20:18.673Z - VOL-11
+
+- conversation_id: conv-20260812172018-1v6b3xz
+- route: codex/vol-11-chapter07-step08
+- l0: l0/conv-20260812172018-1v6b3xz.md
+- atoms:
+  - mem-20260812172018-1kovf8o | workflow | Procedere con il capitolo 07 del Volume 11.
+  - mem-20260812172018-xvn6bx | result | Esito codex/vol-11-chapter07-step08: Procedere con il capitolo 07 del Volume 11. -> Step 08 completato con accettazione manuale motivata: fonte ufficiale bonifiche-danno ambientale consolidata e piano in sette nuclei approvato; prossimo step 09.
+
+## 2026-08-12T17:37:41.113Z - VOL-11/M-TR04
+
+- conversation_id: conv-20260812173741-10ib84w
+- route: codex/vol-11-chapter07-step09
+- l0: l0/conv-20260812173741-10ib84w.md
+- atoms:
+  - mem-20260812173741-17lcv0t | workflow | Procedere con la scrittura integrale del capitolo 07 su bonifiche, siti contaminati e danno ambientale.
+  - mem-20260812173741-1vvqmjp | result | Esito codex/vol-11-chapter07-step09: Procedere con la scrittura integrale del capitolo 07 su bonifiche, siti contaminati e danno ambientale. -> Step 09 completato: capitolo integrale di circa 5.800 parole, sette nuclei, sei quiz e caso istruttorio; gate CLI superato senza blocker o warning.
+
+## 2026-08-12T18:09:05.438Z - VOL-11/M-TR04
+
+- conversation_id: conv-20260812180905-17rkx1x
+- route: codex/vol-11-chapter07-step10
+- l0: l0/conv-20260812180905-17rkx1x.md
+- atoms:
+  - mem-20260812180905-1gl4546 | workflow | Proseguire con il controllo di copertura del capitolo 07.
+  - mem-20260812180905-bq060n | result | Esito codex/vol-11-chapter07-step10: Proseguire con il controllo di copertura del capitolo 07. -> Step 10 completato: matrice aggiornata con undici dimensioni e delta; due nuclei integrati sostanzialmente; tutti i sette nuclei superano 600 parole; gate verde senza warning.
+
+## 2026-08-12T18:20:38.293Z - VOL-11/M-TR04
+
+- conversation_id: conv-20260812182038-bbih45
+- route: codex/vol-11-chapter07-step11
+- l0: l0/conv-20260812182038-bbih45.md
+- atoms:
+  - mem-20260812182038-9oy7tt | workflow | Applicare Humanizer al capitolo 07.
+  - mem-20260812182038-7tmq92 | result | Esito codex/vol-11-chapter07-step11: Applicare Humanizer al capitolo 07. -> Step 11 completato: doppia passata anti-AI conservativa; segnali chatbot, promozionali, vaghi, gerundi ornamentali e rinvii interni assenti; source_refs e norme preservati; gate verde.
+
+## 2026-08-12T19:17:46.085Z - VOL-11/M-TR04
+
+- conversation_id: conv-20260812191746-vepshy
+- route: codex/vol-11-chapter07-steps08-12-complete
+- l0: l0/conv-20260812191746-vepshy.md
+- atoms:
+  - mem-20260812191746-1uikhq5 | workflow | Procedere e completare la scrittura integrale del Volume 11 secondo la pipeline canonica.
+  - mem-20260812191746-1prngkl | result | Esito codex/vol-11-chapter07-steps08-12-complete: Procedere e completare la scrittura integrale del Volume 11 secondo la pipeline canonica. -> Capitolo 07 Bonifiche, siti contaminati e danno ambientale completato negli step 08-12: fonte ufficiale e piano, 5.900+ parole, sette nuclei oltre 600 parole, sei quiz, caso istruttorio, matrice con undici dimensioni,...
+
+## 2026-08-13T14:10:50.824Z - VOL-11/M-TR04
+
+- conversation_id: conv-20260813141050-1o60mtk
+- route: codex/vol-11-chapter08-step08
+- l0: l0/conv-20260813141050-1o60mtk.md
+- atoms:
+  - mem-20260813141050-14dqnk0 | workflow | Procedere con il capitolo 08 del Volume 11.
+  - mem-20260813141050-1orzhnf | result | Esito codex/vol-11-chapter08-step08: Procedere con il capitolo 08 del Volume 11. -> Step 08 completato con accettazione manuale motivata: fonte ufficiale aria-rumore-dati consolidata e piano in sei nuclei approvato; prossimo step 09.
+
+## 2026-08-13T14:14:43.241Z - VOL-11/M-TR04
+
+- conversation_id: conv-20260813141443-1dtub5q
+- route: codex/vol-11-chapter08-step09
+- l0: l0/conv-20260813141443-1dtub5q.md
+- atoms:
+  - mem-20260813141443-66zyox | workflow | Procedere con la scrittura integrale del capitolo 08 su aria, rumore, monitoraggio e dati.
+  - mem-20260813141443-1p4xm97 | result | Esito codex/vol-11-chapter08-step09: Procedere con la scrittura integrale del capitolo 08 su aria, rumore, monitoraggio e dati. -> Step 09 completato: capitolo integrale di 4.800+ parole, sei nuclei, sei quiz e caso integrato; gate CLI superato.
+
+## 2026-08-13T15:08:53.490Z - pipeline-volume
+
+- conversation_id: conv-20260813150853-2076zw
+- route: codex/vol-11-chapter08-step11
+- l0: l0/conv-20260813150853-2076zw.md
+- atoms:
+  - mem-20260813150853-1vebe4g | workflow | Procedere con la scrittura integrale del capitolo 08 e applicare la pipeline.
+  - mem-20260813150853-15o6hlg | result | Esito codex/vol-11-chapter08-step11: Procedere con la scrittura integrale del capitolo 08 e applicare la pipeline. -> Step 11 completato: humanizzazione conservativa, doppia scansione anti-AI, source_refs e riferimenti normativi invariati, citation-guard superato.
+
+## 2026-08-13T15:37:44.765Z - pipeline-volume
+
+- conversation_id: conv-20260813153744-zlq49x
+- route: codex/vol-11-chapter08-steps08-12
+- l0: l0/conv-20260813153744-zlq49x.md
+- atoms:
+  - mem-20260813153744-okzban | workflow | Procedi con la scrittura integrale del Volume 11 applicando la pipeline.
+  - mem-20260813153744-1jen39p | result | Esito codex/vol-11-chapter08-steps08-12: Procedi con la scrittura integrale del Volume 11 applicando la pipeline. -> VOL-11 M-TR04 capitolo 08 completato negli step 08-12: fonte ufficiale consolidata, piano approvato, capitolo integrale, matrice v4 aggiornata, humanizer e revisione totale superati; prossimo target capitolo 09.
+
+## 2026-08-13T16:44:38.847Z - pipeline-volume
+
+- conversation_id: conv-20260813164438-141px51
+- route: codex/vol-11-chapter09-step08
+- l0: l0/conv-20260813164438-141px51.md
+- atoms:
+  - mem-20260813164438-1pa8wit | workflow | Procedere con il prossimo capitolo del Volume 11.
+  - mem-20260813164438-6fs3td | result | Esito codex/vol-11-chapter09-step08: Procedere con il prossimo capitolo del Volume 11. -> Step 08 capitolo 09 completato: fonte specialistica ufficiale consolidata con riforma 2026; piano in sette nuclei e caso ispettivo approvato manualmente secondo gate.
+
+## 2026-08-13T17:53:08.302Z - VOL-11
+
+- conversation_id: conv-20260813175308-126ol5u
+- route: pipeline-volume/step-09
+- l0: l0/conv-20260813175308-126ol5u.md
+- atoms:
+  - mem-20260813175308-1gujlnn | workflow | Procedi con la scrittura integrale del Volume 11 applicando la pipeline editoriale.
+  - mem-20260813175308-dvwnpy | result | Esito pipeline-volume/step-09: Procedi con la scrittura integrale del Volume 11 applicando la pipeline editoriale. -> Completato lo step 09 del capitolo 09 Controlli, sanzioni e reati ambientali: sette nuclei autonomi, 6078 parole, sei quiz e caso ispettivo Eco-Ripresa; quadro normativo aggiornato al D.Lgs.
+
+## 2026-08-13T17:55:39.905Z - VOL-11
+
+- conversation_id: conv-20260813175539-p60x24
+- route: pipeline-volume/step-10
+- l0: l0/conv-20260813175539-p60x24.md
+- atoms:
+  - mem-20260813175539-14ggdpy | workflow | Procedi con la pipeline integrale del Volume 11.
+  - mem-20260813175539-gnz33q | result | Esito pipeline-volume/step-10: Procedi con la pipeline integrale del Volume 11. -> Step 10 capitolo 09 completato: matrice aggiornata con undici dimensioni, fonte ufficiale specifica e delta; gate didactic-density superato senza avvisi.
+
+## 2026-08-13T18:13:24.691Z - VOL-11
+
+- conversation_id: conv-20260813181324-u2afn6
+- route: pipeline-volume/step-11
+- l0: l0/conv-20260813181324-u2afn6.md
+- atoms:
+  - mem-20260813181324-1q4uz3y | result | Esito pipeline-volume/step-11: Procedi con la revisione integrale del Volume 11. -> Step 11 capitolo 09 completato: doppia passata Humanizer conservativa, riferimenti e struttura preservati, citation-guard superato senza avvisi.
+
+## 2026-08-14T09:52:49.203Z - VOL-11
+
+- conversation_id: conv-20260814095249-1ufi2ji
+- route: pipeline-volume/step-12
+- l0: l0/conv-20260814095249-1ufi2ji.md
+- atoms:
+  - mem-20260814095249-1pbmyz3 | workflow | Procedi e completa la scrittura integrale del Volume 11 applicando la pipeline.
+  - mem-20260814095249-14pudhs | result | Esito pipeline-volume/step-12: Procedi e completa la scrittura integrale del Volume 11 applicando la pipeline. -> Completato il ciclo 08-12 del capitolo 09 Controlli, sanzioni e reati ambientali: piano, capitolo integrale, matrice di copertura, Humanizer e revisione editoriale; tutti i gate superati.
+
+## 2026-08-14T12:49:25.926Z - VOL-11
+
+- conversation_id: conv-20260814124925-1jq9472
+- route: pipeline-volume/step-08-chapter-10
+- l0: l0/conv-20260814124925-1jq9472.md
+- atoms:
+  - mem-20260814124925-7efsnh | workflow | Procedi con il capitolo 10 del Volume 11.
+  - mem-20260814124925-1s4jfpw | result | Esito pipeline-volume/step-08-chapter-10: Procedi con il capitolo 10 del Volume 11. -> Step 08 completato: fonte ufficiale 2026 consolidata e piano in sette nuclei approvato manualmente; prossimo step 09 scrittura integrale.
+
+## 2026-08-14T13:26:54.483Z - VOL-11
+
+- conversation_id: conv-20260814132654-tcdp71
+- route: pipeline-volume/step-09-chapter-10
+- l0: l0/conv-20260814132654-tcdp71.md
+- atoms:
+  - mem-20260814132654-iaote | workflow | Procedi con la scrittura integrale del capitolo 10.
+  - mem-20260814132654-1ju7qzu | result | Esito pipeline-volume/step-09-chapter-10: Procedi con la scrittura integrale del capitolo 10. -> Step 09 completato: capitolo 10 con sette nuclei, 5619 parole, sei quiz e caso Vallechiara; gate chapter-lint superato senza avvisi.
+
+## 2026-08-14T13:47:32.755Z - VOL-11
+
+- conversation_id: conv-20260814134732-ssq32c
+- route: pipeline-volume/step-10-chapter-10
+- l0: l0/conv-20260814134732-ssq32c.md
+- atoms:
+  - mem-20260814134732-15qfzc7 | workflow | Procedi con il controllo di copertura del capitolo 10.
+  - mem-20260814134732-1rtqxdm | result | Esito pipeline-volume/step-10-chapter-10: Procedi con il controllo di copertura del capitolo 10. -> Step 10 completato: matrice aggiornata con undici dimensioni e delta; gate didactic-density superato senza avvisi.
+
+## 2026-08-14T13:53:22.340Z - VOL-11
+
+- conversation_id: conv-20260814135322-27mbh9
+- route: pipeline-step-11
+- l0: l0/conv-20260814135322-27mbh9.md
+- atoms:
+  - mem-20260814135322-a6odnf | workflow | Procedi con la scrittura integrale del Volume 11 e applica la pipeline canonica.
+  - mem-20260814135322-1l89uyx | result | Esito pipeline-step-11: Procedi con la scrittura integrale del Volume 11 e applica la pipeline canonica. -> Completato step 11 Humanizer del capitolo 10; gate superato senza warning; significato, fonti, struttura, caso e quiz preservati.
+
+## 2026-08-14T14:00:45.442Z - VOL-11
+
+- conversation_id: conv-20260814140045-1uduvj7
+- route: pipeline-step-12
+- l0: l0/conv-20260814140045-1uduvj7.md
+- atoms:
+  - mem-20260814140045-1242z7s | workflow | Procedi con la scrittura integrale del Volume 11 e completa la revisione del capitolo 10.
+  - mem-20260814140045-f11qzj | result | Esito pipeline-step-12: Procedi con la scrittura integrale del Volume 11 e completa la revisione del capitolo 10. -> Completato step 12 del capitolo 10.
+
+## 2026-08-17T10:04:16.850Z - VOL-11
+
+- conversation_id: conv-20260817100416-dnzlp3
+- route: pipeline-step-08-chapter-11
+- l0: l0/conv-20260817100416-dnzlp3.md
+- atoms:
+  - mem-20260817100416-1tge7gy | workflow | Procedi con la scrittura integrale di VOL-11 applicando la pipeline.
+  - mem-20260817100416-617pwq | result | Esito pipeline-step-08-chapter-11: Procedi con la scrittura integrale di VOL-11 applicando la pipeline. -> Preparato il piano del capitolo 11 in sette nuclei, budget 5900-6500 parole, sei quiz, caso Vallechiara a due rami e sette audit; consolidata una source note ufficiale 2026 su allertamento, IT-alert ed emergenze.

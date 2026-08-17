@@ -54,7 +54,7 @@ Applicati i punti 1–26 e 28–30. Il punto 27 non è applicabile: non è dispo
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 73, 98, 118–120, 159 e note di review | 12. Fatti o norme da verificare | Media | Poteri informativi e ispettivi, accesso al fascicolo, deleghe, riservatezza e contraddittorio dipendono dalla fonte vigente del singolo ente. | Verificare al cut-off la legge, il regolamento procedimentale e gli atti organizzativi dell'ente target. | Da verificare |
+| V01 | Righe 73, 98, 118–120, 159 e note di review | 12. Fatti o norme da verificare | Media | Poteri informativi e ispettivi, accesso al fascicolo, deleghe, riservatezza e contraddittorio dipendono dalla fonte vigente del singolo ente. | Verificare al cut-off la legge, il regolamento procedimentale e gli atti organizzativi dell'ente target. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 Nessuno.

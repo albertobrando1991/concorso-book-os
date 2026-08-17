@@ -42,7 +42,7 @@ Revisione completata nell'ordine richiesto. Il capitolo presenta una struttura e
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| V01 | Parr. 84–160, nota di review | Normativa e prassi | Media | TUB, Codice delle assicurazioni private, normativa secondaria di Banca d'Italia e IVASS, Unione bancaria, Solvency II, distribuzione assicurativa, ABF e Arbitro Assicurativo richiedono verifica nella versione vigente. | Verificare fonte, riparto di competenza, termini, soggetti e rimedio alla data di chiusura editoriale. | Da verificare in chiusura |
+| V01 | Parr. 84–160, nota di review | Normativa e prassi | Media | TUB, Codice delle assicurazioni private, normativa secondaria di Banca d'Italia e IVASS, Unione bancaria, Solvency II, distribuzione assicurativa, ABF e Arbitro Assicurativo richiedono verifica nella versione vigente. | Verificare fonte, riparto di competenza, termini, soggetti e rimedio alla data di chiusura editoriale. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 6. Suggerimenti facoltativi
 

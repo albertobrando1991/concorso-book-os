@@ -38,6 +38,16 @@ const build = (phases: string) =>
   )
 
 describe("buildStepDrafts", () => {
+  it("runs phase-B source and coverage work for the first module before opening its phase-C chapters", () => {
+    const steps = build("B,C")
+    const firstChapter = steps.findIndex((step) => step.id === "08")
+    const lastPhaseB = Math.max(
+      ...steps.map((step, index) => (step.phase === "B" && step.target.includes("m-fc02-agenzie-fiscali") ? index : -1))
+    )
+
+    expect(firstChapter).toBeGreaterThan(lastPhaseB)
+  })
+
   it("walks modules by priority, not by declaration order", () => {
     expect([...new Set(build("C").map((step) => step.target.split("/chapters/")[0]))]).toEqual([
       "moduli/m-fc02-agenzie-fiscali",

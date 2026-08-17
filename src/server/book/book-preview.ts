@@ -183,7 +183,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     const sectionType = file.includes("/front-matter/") || parsed.data.type === "front_matter"
       ? "front_matter"
       : "chapter"
-    const outlineSection = String(parsed.data.outline_section || "")
+    const outlineSection = String(parsed.data.outline_section ?? "")
     const bookScope = resolveBookStudioScope(bookId, sectionType, outlineSection)
 
     return {
@@ -314,7 +314,11 @@ async function loadVolumeModuleBooks(store: FileWikiStore, volume: TextVolume): 
     const moduleCode = volume.modules[index] || (moduleBookId === "il-metodo-bando" ? "BASE" : moduleCodeFromBookId(moduleBookId))
     const moduleTitle = moduleData.title
     const chapters = moduleData.chapters
-      .filter((chapter) => chapter.sectionType === "chapter" && chapter.bookScope === "main")
+      .filter((chapter) =>
+        chapter.sectionType === "chapter" &&
+        chapter.bookScope === "main" &&
+        chapter.outlineSection !== "0"
+      )
       .map((chapter) => ({
         ...chapter,
         bookScope: "main" as const,
