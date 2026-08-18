@@ -64,6 +64,7 @@ export interface IntegrationContentUnit {
   reviewRequired: boolean
   contentState: "written" | "draft" | "structure"
   moduleCode?: string
+  moduleTitle?: string
   blocksFormat: typeof INTEGRATION_BLOCKS_FORMAT
   blocks: IntegrationContentBlock[]
 }
@@ -518,6 +519,7 @@ async function buildContentUnit(
       assetId: asset.id
     }
   })
+  const integrationModule = resolveIntegrationModule(chapter)
 
   return {
     id,
@@ -532,10 +534,56 @@ async function buildContentUnit(
     draftStage: chapter.draftStage,
     reviewRequired: chapter.reviewRequired,
     contentState: chapter.contentState,
-    ...(chapter.volumeModuleCode ? { moduleCode: chapter.volumeModuleCode } : {}),
+    ...(integrationModule
+      ? { moduleCode: integrationModule.code, moduleTitle: integrationModule.title }
+      : {}),
     blocksFormat: INTEGRATION_BLOCKS_FORMAT,
     blocks
   }
+}
+
+function resolveIntegrationModule(
+  chapter: BookStudioChapter
+): { code: string; title: string } | null {
+  if (chapter.volumeModuleCode) {
+    return { code: chapter.volumeModuleCode, title: chapter.volumeModuleCode }
+  }
+
+  if (chapter.sectionType === "front_matter" || chapter.outlineSection === "") {
+    return { code: "INTRO", title: "Introduzione" }
+  }
+
+  if (chapter.bookScope === "ricettario") {
+    return { code: "RICETTARIO", title: "Ricettario operativo digitale" }
+  }
+
+  const numericSection = Number.parseInt(chapter.outlineSection, 10)
+
+  if (Number.isInteger(numericSection)) {
+    if (numericSection <= 3) {
+      return { code: "PART-I", title: "Parte I - Capire il concorso prima di studiare" }
+    }
+    if (numericSection <= 12) {
+      return { code: "PART-II", title: "Parte II - Il nucleo comune dei concorsi pubblici" }
+    }
+    if (numericSection <= 18) {
+      return { code: "PART-III", title: "Parte III - Allenarsi come in prova" }
+    }
+    if (numericSection <= 22) {
+      return { code: "PART-IV", title: "Parte IV - Adattare il metodo ai profili concorsuali" }
+    }
+    if (numericSection <= 24) {
+      return { code: "PART-V", title: "Parte V - Kit finale del candidato" }
+    }
+  }
+
+  if (chapter.outlineSection === "CONCLUSIONE") {
+    return { code: "CONCLUSION", title: "Conclusione" }
+  }
+  if (/^[A-F]$/.test(chapter.outlineSection)) {
+    return { code: "APPENDICES", title: "Appendici" }
+  }
+  return { code: "MAIN", title: "Manuale" }
 }
 
 async function collectReleaseBlockers(input: {

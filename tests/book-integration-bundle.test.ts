@@ -45,6 +45,19 @@ describe("Book OS integration bundle v1", () => {
     expect(first.volume.chapters.filter((chapter) => chapter.scope === "ricettario")).toHaveLength(23)
     expect(first.volume.chapters.every((chapter) => chapter.sourcePath.startsWith("wiki/books/"))).toBe(true)
     expect(first.volume.chapters.every((chapter) => /^[0-9a-f]{64}$/.test(chapter.contentHash))).toBe(true)
+    const units = [...first.volume.frontMatter, ...first.volume.chapters]
+    expect(units.every((unit) => unit.moduleCode && unit.moduleTitle)).toBe(true)
+    expect(new Set(units.map((unit) => unit.moduleCode))).toEqual(new Set([
+      "INTRO",
+      "PART-I",
+      "PART-II",
+      "PART-III",
+      "PART-IV",
+      "PART-V",
+      "CONCLUSION",
+      "APPENDICES",
+      "RICETTARIO"
+    ]))
 
     expect(first.assets.length).toBeGreaterThan(0)
     expect(first.assets.every((asset) => ["image/png", "image/svg+xml"].includes(asset.mimeType))).toBe(true)
