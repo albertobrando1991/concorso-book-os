@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 30
     env:
       ARTIFACT_NAME: book-os-integration-VOL-01-${{ github.sha }}
-      BUNDLE_DIR: ${{ runner.temp }}/book-os-integration/VOL-01/candidate-${{ github.sha }}
+      BUNDLE_DIR: ${{ github.workspace }}/.artifacts/book-os-integration/VOL-01/candidate-${{ github.sha }}
 
     steps:
       - name: Checkout exact source commit
