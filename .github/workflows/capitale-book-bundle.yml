@@ -138,6 +138,7 @@ jobs:
                 headers: {
                   "content-type": "application/json",
                   "x-book-os-signature-256": `sha256=${signature}`,
+                  "x-github-event": "push",
                   "x-github-delivery": `${process.env.GITHUB_RUN_ID}-${process.env.GITHUB_RUN_ATTEMPT}`
                 },
                 body: payload
