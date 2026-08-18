@@ -5821,3 +5821,19 @@
 - l0: l0/conv-20260817085027-kuqzgk.md
 - atoms:
   - mem-20260817085027-vd7ewq | result | Esito codex/github-team-sync: Commit e push di tutte le modifiche, incluse tutte le fonti scaricate, senza sovrascrivere quelle dello staff; poi scaricare e allinearsi alle loro modifiche. -> Creato commit locale completo; integrati origin/main e memoria dello staff con merge non distruttivo, senza force, reset o rebase.
+
+## 2026-08-17T14:26:33.636Z - global-volume-overlap-audit
+
+- conversation_id: conv-20260817142633-15lyhjc
+- route: codex/global-volume-overlap-audit
+- l0: l0/conv-20260817142633-15lyhjc.md
+- atoms:
+  - mem-20260817142633-92lzva | result | Esito codex/global-volume-overlap-audit: Valutare globalmente tutti i volumi e individuare argomenti ripetuti tra un volume e l altro. -> Audit tematico su 12 volumi: 269 capitoli scritti; VOL-06, VOL-09 e VOL-11 sono ancora scaffold.
+
+## 2026-08-17T14:40:45.935Z - global-volume-overlap-audit
+
+- conversation_id: conv-20260817144045-1e0qfl4
+- route: codex/preprint-content-redistribution
+- l0: l0/conv-20260817144045-1e0qfl4.md
+- atoms:
+  - mem-20260817144045-1wo14r6 | result | Esito codex/preprint-content-redistribution: Prima della stampa e dell uso dei volumi come fonti di studio sul sito, valutare modifiche, ripetizioni e ridistribuzione dei contenuti. -> Decisione editoriale: non congelare ancora l intera collana.

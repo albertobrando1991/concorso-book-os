@@ -1657,9 +1657,12 @@ h1 {
   font-weight: 800;
 }
 
+/* Capitoli e sottocapitoli condividono la stessa griglia: titoli incolonnati sullo stesso
+   asse e numeri di pagina allineati a destra. La gerarchia è resa dal corpo del carattere e
+   dal rientro del solo numero, non spostando il titolo. */
 .indexLine {
   display: grid;
-  grid-template-columns: 56px minmax(0, 1fr) minmax(16px, 0.24fr) 24px;
+  grid-template-columns: 60px minmax(0, 1fr) minmax(16px, 0.24fr) 24px;
   align-items: end;
   column-gap: 5px;
   font-family: var(--manual-sans);
@@ -1667,7 +1670,6 @@ h1 {
 }
 
 .indexChapterLine {
-  grid-template-columns: 86px minmax(0, 1fr) minmax(16px, 0.24fr) 24px;
   margin: 5px 0 2px;
   color: var(--book-rich-black);
   font-size: 10px;
@@ -1691,7 +1693,6 @@ h1 {
 }
 
 .indexSubLine {
-  grid-template-columns: 32px minmax(0, 1fr) minmax(14px, 0.2fr) 22px;
   margin: 1.5px 0;
   color: #111827;
   font-size: 9px;
@@ -1706,9 +1707,13 @@ h1 {
   white-space: nowrap;
 }
 
+/* Il rientro segnala la subordinazione senza spostare il titolo, che resta incolonnato
+   con quello del capitolo. */
 .indexSubNumber {
+  padding-left: 11px;
   color: #334155;
   font-weight: 700;
+  white-space: nowrap;
 }
 
 .indexLineTitle {

@@ -36,7 +36,7 @@ describe("Volume 1 closing chapter and index layout", () => {
     const css = await readProjectFile("app/globals.css")
 
     expect(css).toMatch(
-      /\.indexChapterLine\s*\{[^}]*grid-template-columns:\s*86px\s+minmax\(0,\s*1fr\)/
+      /\.indexLine\s*\{[^}]*grid-template-columns:\s*60px\s+minmax\(0,\s*1fr\)\s+minmax\(16px,\s*0\.24fr\)\s+24px;/
     )
     expect(css).toMatch(
       /\.indexChapterLabel\s*\{[^}]*white-space:\s*nowrap;/
