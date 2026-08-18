@@ -2,14 +2,14 @@
 id: chapter-m-tr02-appalti-pnrr-fondi-ue-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale - M-TR02 Appalti, PNRR e fondi UE"
-status: structure
+status: outline_ready
 domain: "concorsi pubblici italiani"
-topics: ["moduli specialistici","trasversali","metodo bando"]
-entities: ["Metodo BANDO"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["m-tr02-appalti-pnrr-fondi-ue","il-metodo-bando"]
-confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+topics: ["moduli specialistici","trasversali","appalti pubblici","PNRR","procurement"]
+entities: ["Metodo BANDO","ANAC","MIT","MEF-RGS","Consip"]
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-09-appalti-pnrr-procurement-dossier-v4"]
+book_refs: ["m-tr02-appalti-pnrr-fondi-ue","vol-09-appalti-pnrr-procurement","il-metodo-bando"]
+confidence: 0.78
+updated_at: 2026-07-29
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -18,7 +18,7 @@ book_id: m-tr02-appalti-pnrr-fondi-ue
 draft_stage: structure-ready
 module_code: M-TR02
 module_family: trasversali
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/index.md"]
+last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/index.md","sources/vol-09-appalti-pnrr-procurement-dossier-v4"]
 ---
 
 # Piano editoriale - M-TR02 Appalti, PNRR e fondi UE
@@ -31,16 +31,8 @@ Trasformare il Metodo BANDO in un percorso operativo per la famiglia "Trasversal
 ### Lettore
 Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, materie comuni, prove e priorita a questa famiglia concorsuale.
 
-### Struttura prevista
-1. Mappa della famiglia concorsuale.
-2. Profili tipici e prove ricorrenti.
-3. Materie comuni da riusare dal libro principale.
-4. Materie specialistiche da aggiungere.
-5. Bando Decoder adattato alla famiglia.
-6. Piano 30/60/90 giorni specifico.
-7. Errori frequenti e tagli da evitare.
-8. Casi guidati, quiz o risposte sintetiche tipiche.
-9. Checklist finale del modulo.
+### Struttura approvata
+Front matter in sei blocchi, 14 capitoli specialistici e cinque appendici. L'elenco completo, con profili, output e confini, è in [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/planning/01-indice-analitico-vol-09|Indice analitico VOL-09]].
 
 ### Collegamenti obbligatori
 - Libro principale: [[books/il-metodo-bando/index|Il Metodo BANDO]]
@@ -49,10 +41,10 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 - Architettura moduli: [[books/moduli/architettura-moduli-specialistici|Architettura moduli specialistici]]
 
 ### Fonti da consolidare prima della scrittura
-- Bandi rappresentativi della famiglia.
-- Normativa ufficiale di settore.
-- Topic pages gia presenti nel wiki.
-- Source notes nuove se il modulo richiede aggiornamento o specialismo.
+- Bandi rappresentativi dei quattro profili.
+- Fonti ufficiali ANAC, MIT, Consip, RGS/ReGiS ed EUR-Lex.
+- Topic pages e source notes del modulo, a partire da [[sources/vol-09-appalti-pnrr-procurement-dossier-v4]].
+- Repertorio giurisprudenziale e atti mobili da verificare al cut-off.
 
 ## Testo editoriale
 Da sviluppare con Manual Writer Agent dopo consolidamento delle fonti specifiche.

@@ -54,7 +54,7 @@ Applicati i punti 1–26 e 28–30. Il punto 27 non è applicabile: manca un PDF
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| V01 | Righe 76, 90, 121–132 e 203 | 12. Fatti o norme da verificare | Media | Assetti degli organi, regolamenti di organizzazione e personale, disciplina contrattuale e bandi sono ente-specifici e suscettibili di aggiornamento. | Verificare alla data di cut-off le fonti ufficiali dell'ente target prima di inserire dati puntuali o usare il capitolo per una prova specifica. | Da verificare |
+| V01 | Righe 76, 90, 121–132 e 203 | 12. Fatti o norme da verificare | Media | Assetti degli organi, regolamenti di organizzazione e personale, disciplina contrattuale e bandi sono ente-specifici e suscettibili di aggiornamento. | Verificare alla data di cut-off le fonti ufficiali dell'ente target prima di inserire dati puntuali o usare il capitolo per una prova specifica. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 7. Suggerimenti facoltativi (non errori)
 Nessuno.

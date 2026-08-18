@@ -6,10 +6,10 @@ status: professional_draft
 domain: anticorruzione e trasparenza
 topics: ["anac", "prevenzione della corruzione", "trasparenza", "whistleblowing", "vigilanza"]
 entities: ["ANAC", "RPCT", "Persona segnalante"]
-source_refs: ["sources/anac-prevenzione-vigilanza-whistleblowing-2026-07-24.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md"]
+source_refs: ["sources/anac-prevenzione-vigilanza-whistleblowing-2026-07-24.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/anac-bando-19-funzionari-amministrativi-2026.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.91
-updated_at: 2026-07-27
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true

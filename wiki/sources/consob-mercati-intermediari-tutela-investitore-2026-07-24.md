@@ -6,10 +6,10 @@ status: consolidated
 domain: mercati finanziari
 topics: ["tutela investitore", "mercati", "intermediari", "abusi di mercato", "mifid", "mar"]
 entities: ["CONSOB", "Banca d'Italia", "ESMA", "ACF"]
-source_refs: ["sources/authority-indipendenti-leggi-istitutive.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
+source_refs: ["sources/authority-indipendenti-leggi-istitutive.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/consob-bando-vice-assistenti-amministrativi-207-26.md"]
 book_refs: ["vol-05-authority-regolazione", "m-fc05-authority-indipendenti"]
 confidence: 0.91
-updated_at: 2026-07-24
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true

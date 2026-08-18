@@ -9,7 +9,6 @@ export function buildStepDrafts(spec: VolumeSpec, phases: string[]): StepDraft[]
 
   const selected = STEP_REGISTRY.filter((step) => wanted.has(step.phase))
   const modules = [...spec.modules].sort((left, right) => left.priority - right.priority)
-
   return groupByScope(selected).flatMap((steps) =>
     isGlobal(steps[0]) ? volumeSteps(steps, spec) : modules.flatMap((module) => moduleSteps(steps, module, wanted))
   )
@@ -42,12 +41,22 @@ function moduleSteps(selected: StepDefinition[], module: VolumeSpecModule, wante
     )
   }
 
-  const perChapter = module.chapters.flatMap((chapter) =>
-    chapterSteps.map((step) => draft(step, `${module.moduleId}/${chapter.file}`))
-  )
-  const perModule = steps.filter((step) => step.scope === "module").map((step) => draft(step, module.moduleId))
+  const scopeGroups = steps.reduce<StepDefinition[][]>((groups, step) => {
+    const last = groups.at(-1)
 
-  return [...perChapter, ...perModule]
+    if (!last || last[0].scope !== step.scope) groups.push([step])
+    else last.push(step)
+
+    return groups
+  }, [])
+
+  return scopeGroups.flatMap((group) =>
+    group[0].scope === "chapter"
+      ? module.chapters.flatMap((chapter) =>
+          group.map((step) => draft(step, `${module.moduleId}/${chapter.file}`))
+        )
+      : group.map((step) => draft(step, module.moduleId))
+  )
 }
 
 function volumeSteps(selected: StepDefinition[], spec: VolumeSpec): StepDraft[] {

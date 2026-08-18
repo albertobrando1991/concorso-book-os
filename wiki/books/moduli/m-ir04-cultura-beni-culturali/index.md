@@ -2,14 +2,14 @@
 id: m-ir04-cultura-beni-culturali
 type: specialist_module
 title: "M-IR04 - Cultura e beni culturali"
-status: scaffold
+status: outline_ready
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","istruzione-ricerca","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
-book_refs: ["il-metodo-bando","moduli-specialistici"]
-confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4","sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026","sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24"]
+book_refs: ["il-metodo-bando","moduli-specialistici","vol-06-scuola-universita-ricerca-cultura"]
+confidence: 0.72
+updated_at: 2026-07-29
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -18,11 +18,11 @@ book_id: m-ir04-cultura-beni-culturali
 module_code: M-IR04
 module_family: istruzione-ricerca
 module_family_title: "Istruzione e Ricerca"
-module_status: scaffold
+module_status: outline_ready
 roadmap_phase: "3"
 companion_to: il-metodo-bando
-draft_stage: structure-ready
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
+draft_stage: outline-ready
+last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4"]
 ---
 
 # M-IR04 - Cultura e beni culturali
@@ -44,6 +44,8 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 
 ## Capitoli di lavoro
 - [[books/moduli/m-ir04-cultura-beni-culturali/planning/00-piano-editoriale|Piano editoriale del modulo]]
+- [[books/moduli/m-ir04-cultura-beni-culturali/planning/02-matrice-copertura-didattica|Matrice di copertura didattica v4]]
+- [[books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/01-indice-analitico#M-IR04--Cultura-e-MiC|Indice analitico del modulo]]
 
 ## Fonti da consolidare
 - Bandi rappresentativi recenti della famiglia.

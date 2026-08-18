@@ -43,7 +43,7 @@ Revisione completata nell'ordine richiesto. Il capitolo sviluppa in modo coerent
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| V01 | Parr. 85–149, nota di review | Normativa e prassi | Media | PNA vigente, PIAO e RPCT per tipologia di ente, atti ANAC su trasparenza e contratti, linee guida e regolamento whistleblowing, termini, canali e poteri richiedono controllo alla data editoriale. | Verificare fonti e atti organizzativi dell'ente di riferimento, nonché condizioni di utilizzo del canale esterno ANAC. | Da verificare in chiusura |
+| V01 | Parr. 85–149, nota di review | Normativa e prassi | Media | PNA vigente, PIAO e RPCT per tipologia di ente, atti ANAC su trasparenza e contratti, linee guida e regolamento whistleblowing, termini, canali e poteri richiedono controllo alla data editoriale. | Verificare fonti e atti organizzativi dell'ente di riferimento, nonché condizioni di utilizzo del canale esterno ANAC. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 6. Suggerimenti facoltativi
 

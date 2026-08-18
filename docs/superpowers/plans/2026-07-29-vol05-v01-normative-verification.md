@@ -24,24 +24,24 @@
 - Read: `wiki/sources/*-2026-07-24.md`
 - Create: `wiki/reviews/m-fc05-verifica-v01-normativa-2026-07-29.md`
 
-- [ ] Estrarre V01 e claim associati dei quindici capitoli.
-- [ ] Associare ciascun claim a una fonte primaria ufficiale e alla data di verifica.
+- [x] Estrarre V01 e claim associati dei quindici capitoli.
+- [x] Associare ciascun claim a una fonte primaria ufficiale e alla data di verifica.
 
 ### Task 2: Verifica normativa dei nuclei comuni e regolatori
 
 **Files:**
 - Read/modify when justified: source note e report dei Capitoli 1–7.
 
-- [ ] Verificare basi legali, procedimenti, AIR/VIR, poteri istruttori e rimedi con fonti UE, Normattiva e autorità competenti.
-- [ ] Registrare esito e difformità dimostrate.
+- [x] Verificare basi legali, procedimenti, AIR/VIR, poteri istruttori e rimedi con fonti UE, Normattiva e autorità competenti.
+- [x] Registrare esito e difformità dimostrate.
 
 ### Task 3: Verifica delle authority e del laboratorio
 
 **Files:**
 - Read/modify when justified: source note e report dei Capitoli 8–15.
 
-- [ ] Verificare competenze e atti delle authority, GDPR/EDPB, PNA e whistleblowing.
-- [ ] Verificare che le tracce del laboratorio restino dichiarate originali e subordinate al bando target.
+- [x] Verificare competenze e atti delle authority, GDPR/EDPB, PNA e whistleblowing.
+- [x] Verificare che le tracce del laboratorio restino dichiarate originali e subordinate al bando target.
 
 ### Task 4: Consolidamento e gate
 
@@ -49,6 +49,6 @@
 - Modify: `wiki/reviews/m-fc05-*.md`, solo per esiti effettivi.
 - Modify: `wiki/log.md`, `wiki/memory/agent/`.
 
-- [ ] Aggiornare gli stati V01 con esito, fonte e data.
-- [ ] Applicare eventuali correzioni inequivoche e registrarle.
-- [ ] Eseguire `git diff --check` e i test M-FC05 disponibili.
+- [x] Aggiornare gli stati V01 con esito, fonte e data.
+- [x] Applicare eventuali correzioni inequivoche e registrarle.
+- [x] Eseguire `git diff --check` e i test M-FC05 disponibili.

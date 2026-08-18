@@ -6,10 +6,10 @@ status: professional_draft
 domain: mercati finanziari
 topics: ["mercati finanziari", "intermediari", "tutela investitore", "abusi di mercato", "mifid", "mar"]
 entities: ["CONSOB", "Banca d'Italia", "ESMA", "ACF"]
-source_refs: ["sources/consob-mercati-intermediari-tutela-investitore-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
+source_refs: ["sources/consob-mercati-intermediari-tutela-investitore-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/consob-bando-vice-assistenti-amministrativi-207-26.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.88
-updated_at: 2026-07-27
+updated_at: 2026-07-29
 created_at: 2026-07-24
 review_required: true
 canonical: true

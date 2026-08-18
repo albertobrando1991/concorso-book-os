@@ -42,7 +42,7 @@ Revisione completata nell'ordine richiesto. Il capitolo è strutturalmente compl
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| V01 | Parr. 79–151, nota di review | Normativa e prassi | Media | GDPR, Codice privacy, regolamento n. 1/2019 del Garante, disciplina sanzionatoria per soggetti pubblici, provvedimenti del Garante, linee guida EDPB e criteri sullo sportello unico sono soggetti a evoluzione interpretativa e applicativa. | Verificare alla data di chiusura testo vigente, provvedimenti pertinenti, termini e riparto locale/transfrontaliero. | Da verificare in chiusura |
+| V01 | Parr. 79–151, nota di review | Normativa e prassi | Media | GDPR, Codice privacy, regolamento n. 1/2019 del Garante, disciplina sanzionatoria per soggetti pubblici, provvedimenti del Garante, linee guida EDPB e criteri sullo sportello unico sono soggetti a evoluzione interpretativa e applicativa. | Verificare alla data di chiusura testo vigente, provvedimenti pertinenti, termini e riparto locale/transfrontaliero. | Quadro generale verificato 29/07; target da acquisire |
 
 ## 6. Suggerimenti facoltativi
 

@@ -6,10 +6,10 @@ status: professional_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
-source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
+source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/m-fc05-verifica-normativa-2026-07-29.md","sources/vol-05-bandi-authority-2022-2025.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.85
-updated_at: 2026-07-24T20:25:00+02:00
+updated_at: 2026-07-29T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -35,7 +35,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-FC05
 - Copertura: Autorita indipendenti, regolazione, vigilanza e concorsi ad alta specializzazione.
 - Fase roadmap: 4
-- Stato: bozza professionale completa dei capitoli 1–15; resta necessaria la revisione normativa ed editoriale finale.
+- Stato: bozza professionale completa dei capitoli 1–15; revisione editoriale conclusa, verifica normativa generale eseguita al 29 luglio 2026 e prova interna di impaginazione completata. Il corpus conserva bandi ufficiali rappresentativi per le authority trattate; resta soltanto la firma editoriale-normativa umana.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -51,11 +51,13 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 Il modulo M-FC05 è un volume unico con cinque moduli interni. Il front matter di collana compare una sola volta nel volume; i moduli interni aprono solo con frontespizio e sommario.
 
 ## Fonti da consolidare
-- Bandi rappresentativi recenti della famiglia.
+- [[sources/vol-05-bandi-authority-2022-2025|Bandi rappresentativi recenti della famiglia]].
 - Normativa e regolamenti ufficiali del settore.
 - Topic pages e source notes gia presenti nel wiki.
 - Eventuali manuali o banche dati solo dopo schedatura in sources/.
 
-## Prossimo passo
+## Stato del bando di riferimento
 
-Sviluppare i capitoli usando il piano, il volume source-ready e le source note consolidate. I regolamenti del personale, i programmi Banca d'Italia/ANAC e la decisione su AIFA richiedono verifica ufficiale al cut-off.
+La verifica dei bandi di riferimento Banca d'Italia, ANAC e CONSOB è documentata in [[reviews/m-fc05-verifica-bandi-riferimento-2026-07-29]]. I programmi Banca d'Italia e ANAC sono stati acquisiti e consolidati; per l'edizione generale non è assegnato un bando target unico e non deriva da ciò alcuna attività aperta.
+
+Qualora il prodotto sia in futuro adattato a una procedura nominata, allineare allora ente, profilo, programma, prove, avvisi e regolamenti alla fonte primaria vigente. La decisione su AIFA resta esterna al perimetro M-FC05 e richiede valutazione editoriale separata.
