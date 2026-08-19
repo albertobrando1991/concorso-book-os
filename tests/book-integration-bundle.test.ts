@@ -8,6 +8,8 @@ import {
   stableStringify,
   validateBookIntegrationBundle
 } from "@/src/server/book/book-integration-bundle"
+import { buildBookStudioData, normalizeAssetPath } from "@/src/server/book/book-preview"
+import { FileWikiStore } from "@/src/server/wiki/file-store"
 
 const PROJECT_ROOT = path.resolve(".")
 const SOURCE_SHA = "a".repeat(40)
@@ -36,19 +38,50 @@ describe("Book OS integration bundle v1", () => {
     expect(new Set(first.catalog.modules.map((module) => module.code)).size).toBe(25)
 
     expect(first.volume.counts).toEqual({
-      frontMatter: 6,
-      chapters: 55,
-      mainChapters: 32,
+      frontMatter: 0,
+      chapters: 54,
+      mainChapters: 31,
       ricettarioModules: 23
     })
-    expect(new Set(first.volume.chapters.map((chapter) => chapter.id)).size).toBe(55)
+    expect(first.volume.frontMatter).toEqual([])
+    expect(first.volume.introduction).toEqual({
+      title: "Introduzione al Manuale base PA",
+      summary: "Metodo, materie comuni essenziali, prove e strumenti riusabili.",
+      topics: ["B-PA01/B-PA11", "Ricettario digitale collegato", "Bando Decoder e planner"],
+      copyrightNotice: expect.stringContaining("vietata la riproduzione"),
+      whyDifferent: expect.stringContaining("Questo libro nasce da quel problema")
+    })
+    expect(first.volume.introduction.copyrightNotice).toContain("Copyright")
+    expect(first.volume.introduction.copyrightNotice).not.toContain("www.capitalepersonale.it")
+    expect(first.volume.introduction.copyrightNotice).not.toContain("servizi digitali")
+    expect(new Set(first.volume.chapters.map((chapter) => chapter.id)).size).toBe(54)
     expect(first.volume.chapters.filter((chapter) => chapter.scope === "ricettario")).toHaveLength(23)
     expect(first.volume.chapters.every((chapter) => chapter.sourcePath.startsWith("wiki/books/"))).toBe(true)
+    expect(first.volume.chapters.every((chapter) => chapter.sectionType === "chapter")).toBe(true)
+    expect(first.volume.chapters.some((chapter) => chapter.sourcePath.includes("/front-matter/"))).toBe(false)
+    expect(first.volume.chapters.some((chapter) => chapter.sourcePath.endsWith("/chapters/introduzione.md"))).toBe(false)
+    const excludedConsumerRecords = [
+      ["frontmatter-servizi-digitali", "Servizi digitali inclusi", "wiki/books/il-metodo-bando/front-matter/01-servizi-digitali.md"],
+      ["frontmatter-frontespizio", "Frontespizio", "wiki/books/il-metodo-bando/front-matter/02-frontespizio.md"],
+      ["frontmatter-copyright-colophon", "Copyright e note editoriali", "wiki/books/il-metodo-bando/front-matter/03-copyright-colophon.md"],
+      ["frontmatter-sommario", "Sommario", "wiki/books/il-metodo-bando/front-matter/04-sommario.md"],
+      ["frontmatter-premessa", "Premessa", "wiki/books/il-metodo-bando/front-matter/05-premessa.md"],
+      ["frontmatter-indice-analitico", "Indice", "wiki/books/il-metodo-bando/front-matter/06-indice.md"],
+      ["chapter-introduzione-metodo-bando", "Perché questo libro è diverso", "wiki/books/il-metodo-bando/chapters/introduzione.md"]
+    ]
+    const consumerUnits = [...first.volume.frontMatter, ...first.volume.chapters]
+    const consumerUnitIds = new Set(consumerUnits.map((unit) => unit.id))
+    const consumerUnitTitles = new Set(consumerUnits.map((unit) => unit.title))
+    const consumerUnitPaths = new Set(consumerUnits.map((unit) => unit.sourcePath))
+    for (const [id, title, sourcePath] of excludedConsumerRecords) {
+      expect(consumerUnitIds).not.toContain(id)
+      expect(consumerUnitTitles).not.toContain(title)
+      expect(consumerUnitPaths).not.toContain(sourcePath)
+    }
     expect(first.volume.chapters.every((chapter) => /^[0-9a-f]{64}$/.test(chapter.contentHash))).toBe(true)
     const units = [...first.volume.frontMatter, ...first.volume.chapters]
     expect(units.every((unit) => unit.moduleCode && unit.moduleTitle)).toBe(true)
     expect(new Set(units.map((unit) => unit.moduleCode))).toEqual(new Set([
-      "INTRO",
       "PART-I",
       "PART-II",
       "PART-III",
@@ -62,6 +95,7 @@ describe("Book OS integration bundle v1", () => {
     expect(first.assets.length).toBeGreaterThan(0)
     expect(first.assets.every((asset) => ["image/png", "image/svg+xml"].includes(asset.mimeType))).toBe(true)
     expect(first.assets.every((asset) => asset.sourcePaths.every((sourcePath) => !sourcePath.includes("..")))).toBe(true)
+    expect(first.assets.every((asset) => asset.sourcePaths.every((sourcePath) => !sourcePath.includes("/front-matter/")))).toBe(true)
     expect(first.media.video).toEqual([])
     expect(first.media.audio).toEqual([])
     expect(first.media.slides).toEqual([])
@@ -73,6 +107,19 @@ describe("Book OS integration bundle v1", () => {
     expect(imageBlocks.length).toBeGreaterThan(0)
     expect(imageBlocks.every((block) => block.assetId?.startsWith("sha256:") && block.path?.startsWith("assets/"))).toBe(true)
 
+    const studio = await buildBookStudioData(new FileWikiStore(path.join(PROJECT_ROOT, "wiki")), "volumi/vol-01")
+    const referencedConsumerAssets = new Set(studio.chapters
+      .filter((chapter) => chapter.sectionType === "chapter" && !chapter.path.endsWith("/chapters/introduzione.md"))
+      .flatMap((chapter) => chapter.blocks)
+      .filter((block) => block.type === "image" && block.path)
+      .flatMap((block) => {
+        const sourcePath = normalizeAssetPath(block.path || "")
+        return sourcePath.endsWith(".png")
+          ? [sourcePath, `${sourcePath.slice(0, -4)}.svg`]
+          : [sourcePath]
+      }))
+    expect(first.assets.every((asset) => asset.sourcePaths.every((sourcePath) => referencedConsumerAssets.has(sourcePath)))).toBe(true)
+
     expect(first.gate.releaseEligible).toBe(false)
     expect(first.gate.blockers.map((blocker) => blocker.code)).toEqual(expect.arrayContaining([
       "book-status-not-ready",
@@ -80,6 +127,7 @@ describe("Book OS integration bundle v1", () => {
       "ricettario-status-not-ready",
       "ricettario-review-required",
       "chapter-review-required",
+      "digital-introduction-review-required",
       "pipeline-spec-missing",
       "release-approval-missing"
     ]))
@@ -128,6 +176,12 @@ describe("Book OS integration bundle v1", () => {
     expect(validateBookIntegrationBundle(changedContent)).toContain(
       `contentHash non corrispondente per ${changedContent.volume.chapters[0].id}.`
     )
+
+    const missingIntroduction = structuredClone(original) as Omit<typeof original, "volume"> & {
+      volume: Omit<typeof original.volume, "introduction"> & { introduction?: typeof original.volume.introduction }
+    }
+    delete missingIntroduction.volume.introduction
+    expect(validateBookIntegrationBundle(missingIntroduction)).toContain("Introduzione digitale mancante.")
   }, 60_000)
 
   it("ships the matching draft 2020-12 JSON Schema", async () => {
@@ -159,6 +213,7 @@ describe("Book OS integration bundle v1", () => {
     expect(workflow).toContain("CAPITALE_BOOK_OS_WEBHOOK_SECRET")
     expect(workflow).toContain('createHmac("sha256"')
     expect(workflow).toContain('"x-book-os-signature-256"')
+    expect(workflow).toContain('"x-github-event": "push"')
     expect(workflow).toContain("steps.webhook.outputs.configured == 'true'")
     expect(workflow.indexOf("Upload candidate artifact")).toBeLessThan(workflow.indexOf("Check webhook configuration"))
     expect(workflow).not.toContain("pull_request_target")

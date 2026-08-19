@@ -46,6 +46,14 @@ export interface IntegrationCatalog {
   modules: IntegrationCatalogModule[]
 }
 
+export interface IntegrationVolumeIntroduction {
+  title: string
+  summary: string
+  topics: string[]
+  copyrightNotice: string
+  whyDifferent: string
+}
+
 export interface IntegrationContentBlock extends MarkdownBlock {
   assetId?: string
 }
@@ -101,6 +109,7 @@ export interface BookIntegrationBundleV1 {
     code: string
     bookId: string
     title: string
+    introduction: IntegrationVolumeIntroduction
     counts: {
       frontMatter: number
       chapters: number
@@ -147,6 +156,14 @@ interface AssetDraft {
   sha256: string
 }
 
+interface DigitalIntroductionSources {
+  overview: BookStudioChapter
+  copyright: BookStudioChapter
+}
+
+const DIGITAL_INTRODUCTION_SOURCE = "books/il-metodo-bando/chapters/introduzione.md"
+const COPYRIGHT_NOTICE_SOURCE = "books/il-metodo-bando/front-matter/03-copyright-colophon.md"
+
 export async function buildBookIntegrationBundle(
   options: BuildBookIntegrationBundleOptions
 ): Promise<BookIntegrationBundleV1> {
@@ -176,12 +193,14 @@ export async function buildBookIntegrationBundle(
   if (!bookId) throw new Error(`${volumeCode} non dichiara un bookId.`)
 
   const studio = await buildBookStudioData(store, `volumi/${volumeCode.toLowerCase()}`)
-  const { assets, sourceAssets } = await buildAssets(store, studio.chapters)
-  const units = await Promise.all(studio.chapters.map((chapter) => buildContentUnit(store, chapter, sourceAssets)))
-  assertUniqueUnitIds(units)
+  const introductionSources = resolveDigitalIntroductionSources(studio.chapters)
+  const introduction = buildVolumeIntroduction(volume, introductionSources)
+  const consumerChapters = studio.chapters.filter(isConsumerChapter)
+  const { assets, sourceAssets } = await buildAssets(store, consumerChapters)
+  const chapters = await Promise.all(consumerChapters.map((chapter) => buildContentUnit(store, chapter, sourceAssets)))
+  assertUniqueUnitIds(chapters)
 
-  const frontMatter = units.filter((unit) => unit.sectionType === "front_matter")
-  const chapters = units.filter((unit) => unit.sectionType === "chapter")
+  const frontMatter: IntegrationContentUnit[] = []
   const mainChapters = chapters.filter((unit) => unit.scope === "main")
   const ricettarioModules = chapters.filter((unit) => unit.scope === "ricettario")
   const content = {
@@ -190,6 +209,7 @@ export async function buildBookIntegrationBundle(
       code: volume.code,
       bookId,
       title: studio.title,
+      introduction,
       counts: {
         frontMatter: frontMatter.length,
         chapters: chapters.length,
@@ -213,7 +233,8 @@ export async function buildBookIntegrationBundle(
     store,
     sourceSha,
     contentDigest,
-    chapters
+    chapters,
+    introductionSources: Object.values(introductionSources)
   })
   const unsigned = {
     schemaVersion: INTEGRATION_BUNDLE_SCHEMA_VERSION,
@@ -294,6 +315,25 @@ export function validateBookIntegrationBundle(bundle: unknown): string[] {
   if (value.catalog?.volumeCount !== 12 || value.catalog?.volumes?.length !== 12) issues.push("Il catalogo deve avere 12 volumi.")
   if (value.catalog?.moduleCount !== 25 || value.catalog?.modules?.length !== 25) issues.push("Il catalogo deve avere 25 moduli.")
   if (!Array.isArray(value.volume?.frontMatter) || !Array.isArray(value.volume?.chapters)) issues.push("Contenuti volume mancanti.")
+  if (value.volume?.introduction === undefined) {
+    issues.push("Introduzione digitale mancante.")
+  } else {
+    const introduction = value.volume.introduction
+    if (!introduction || typeof introduction !== "object") {
+      issues.push("Introduzione digitale non valida.")
+    } else {
+      if (![introduction.title, introduction.summary, introduction.copyrightNotice, introduction.whyDifferent]
+        .every((field) => typeof field === "string" && field.trim().length > 0)) {
+        issues.push("I campi dell'introduzione digitale sono obbligatori.")
+      }
+      if (!Array.isArray(introduction.topics)
+        || introduction.topics.length === 0
+        || introduction.topics.some((topic) => typeof topic !== "string" || topic.trim().length === 0)
+        || new Set(introduction.topics).size !== introduction.topics.length) {
+        issues.push("Gli argomenti dell'introduzione digitale non sono validi.")
+      }
+    }
+  }
   if (!Array.isArray(value.assets)) issues.push("assets deve essere un array.")
   if (!Array.isArray(value.media?.video) || !Array.isArray(value.media?.audio) || !Array.isArray(value.media?.slides)) {
     issues.push("Gli array media video/audio/slides sono obbligatori.")
@@ -416,6 +456,56 @@ function assertCatalogContract(catalog: IntegrationCatalog) {
   if (moduleBookIds.size !== 25 || catalog.modules.some((module) => !module.bookId)) {
     throw new Error("Catalogo invalido: ogni modulo deve avere un bookId univoco.")
   }
+}
+
+function resolveDigitalIntroductionSources(chapters: BookStudioChapter[]): DigitalIntroductionSources {
+  const overview = chapters.find((chapter) => chapter.path === DIGITAL_INTRODUCTION_SOURCE)
+  const copyright = chapters.find((chapter) => chapter.path === COPYRIGHT_NOTICE_SOURCE)
+
+  if (!overview) throw new Error(`Sorgente introduzione digitale mancante: ${DIGITAL_INTRODUCTION_SOURCE}.`)
+  if (!copyright) throw new Error(`Sorgente copyright editoriale mancante: ${COPYRIGHT_NOTICE_SOURCE}.`)
+
+  return { overview, copyright }
+}
+
+function buildVolumeIntroduction(
+  volume: TextVolume,
+  sources: DigitalIntroductionSources
+): IntegrationVolumeIntroduction {
+  const whyDifferent = sources.overview.blocks.find((block) => (
+    block.type === "paragraph" && block.text?.includes("Questo libro nasce da quel problema")
+  ))?.text?.trim()
+  const copyrightLines = sources.copyright.blocks
+    .filter((block) => block.type === "paragraph" || block.type === "callout")
+    .map((block) => block.text?.trim() || "")
+    .filter((text) => (
+      /^Copyright\b/i.test(text) || text.toLocaleLowerCase("it").includes("vietata la riproduzione")
+    ))
+
+  if (!whyDifferent) {
+    throw new Error(`Sintesi distintiva mancante in ${DIGITAL_INTRODUCTION_SOURCE}.`)
+  }
+  if (copyrightLines.length < 2) {
+    throw new Error(`Copyright editoriale incompleto in ${COPYRIGHT_NOTICE_SOURCE}.`)
+  }
+
+  const topics = [...new Set(volume.verticals.map((topic) => topic.trim()).filter(Boolean))]
+
+  if (!volume.promise.trim() || topics.length === 0) {
+    throw new Error(`Metadati catalogo insufficienti per l'introduzione digitale di ${volume.code}.`)
+  }
+
+  return {
+    title: `Introduzione al ${volume.title}`,
+    summary: volume.promise.trim(),
+    topics,
+    copyrightNotice: copyrightLines.join(" "),
+    whyDifferent
+  }
+}
+
+function isConsumerChapter(chapter: BookStudioChapter) {
+  return chapter.sectionType === "chapter" && chapter.path !== DIGITAL_INTRODUCTION_SOURCE
 }
 
 async function buildAssets(store: FileWikiStore, chapters: BookStudioChapter[]) {
@@ -592,6 +682,7 @@ async function collectReleaseBlockers(input: {
   sourceSha: string
   contentDigest: string
   chapters: IntegrationContentUnit[]
+  introductionSources: BookStudioChapter[]
 }) {
   const blockers: IntegrationGateBlocker[] = []
   const bookPath = "books/il-metodo-bando/index.md"
@@ -618,6 +709,16 @@ async function collectReleaseBlockers(input: {
       code: "chapter-review-required",
       message: `${pendingChapters.length} capitoli o moduli richiedono ancora review.`,
       count: pendingChapters.length
+    })
+  }
+
+  const pendingIntroductionSources = input.introductionSources.filter((chapter) => chapter.reviewRequired)
+  if (pendingIntroductionSources.length > 0) {
+    blockers.push({
+      code: "digital-introduction-review-required",
+      message: `${pendingIntroductionSources.length} sorgenti dell'introduzione digitale richiedono ancora review.`,
+      sourcePath: `wiki/${pendingIntroductionSources[0].path}`,
+      count: pendingIntroductionSources.length
     })
   }
 
