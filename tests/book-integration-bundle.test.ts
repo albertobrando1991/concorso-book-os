@@ -46,11 +46,19 @@ describe("Book OS integration bundle v1", () => {
     expect(first.volume.frontMatter).toEqual([])
     expect(first.volume.introduction).toEqual({
       title: "Introduzione al Manuale base PA",
-      summary: "Metodo, materie comuni essenziali, prove e strumenti riusabili.",
-      topics: ["B-PA01/B-PA11", "Ricettario digitale collegato", "Bando Decoder e planner"],
+      summary: expect.stringContaining("dalla lettura del bando alla costruzione del piano"),
+      topics: [
+        expect.stringContaining("piano di studio da 30, 60 o 90 giorni"),
+        expect.stringContaining("Costituzione, diritto amministrativo, pubblico impiego"),
+        expect.stringContaining("logica, comprensione del testo, informatica, inglese"),
+        expect.stringContaining("quiz, prova scritta, casi pratici e colloquio orale"),
+        expect.stringContaining("il diario degli errori, il ripasso, le checklist e il Ricettario operativo")
+      ],
       copyrightNotice: expect.stringContaining("vietata la riproduzione"),
-      whyDifferent: expect.stringContaining("Questo libro nasce da quel problema")
+      whyDifferent: expect.stringContaining("Invece di accumulare materiali, costruisci un sistema personale")
     })
+    expect(first.volume.introduction.summary).not.toContain("B-PA")
+    expect(first.volume.introduction.topics.join(" ")).not.toContain("B-PA")
     expect(first.volume.introduction.copyrightNotice).toContain("Copyright")
     expect(first.volume.introduction.copyrightNotice).not.toContain("www.capitalepersonale.it")
     expect(first.volume.introduction.copyrightNotice).not.toContain("servizi digitali")

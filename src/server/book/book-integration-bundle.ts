@@ -472,9 +472,6 @@ function buildVolumeIntroduction(
   volume: TextVolume,
   sources: DigitalIntroductionSources
 ): IntegrationVolumeIntroduction {
-  const whyDifferent = sources.overview.blocks.find((block) => (
-    block.type === "paragraph" && block.text?.includes("Questo libro nasce da quel problema")
-  ))?.text?.trim()
   const copyrightLines = sources.copyright.blocks
     .filter((block) => block.type === "paragraph" || block.type === "callout")
     .map((block) => block.text?.trim() || "")
@@ -482,22 +479,22 @@ function buildVolumeIntroduction(
       /^Copyright\b/i.test(text) || text.toLocaleLowerCase("it").includes("vietata la riproduzione")
     ))
 
-  if (!whyDifferent) {
-    throw new Error(`Sintesi distintiva mancante in ${DIGITAL_INTRODUCTION_SOURCE}.`)
-  }
   if (copyrightLines.length < 2) {
     throw new Error(`Copyright editoriale incompleto in ${COPYRIGHT_NOTICE_SOURCE}.`)
   }
 
-  const topics = [...new Set(volume.verticals.map((topic) => topic.trim()).filter(Boolean))]
+  const digitalIntroduction = volume.digitalIntroduction
+  const summary = digitalIntroduction?.summary.trim() || ""
+  const topics = [...new Set(digitalIntroduction?.topics.map((topic) => topic.trim()).filter(Boolean) || [])]
+  const whyDifferent = digitalIntroduction?.whyDifferent.trim() || ""
 
-  if (!volume.promise.trim() || topics.length === 0) {
-    throw new Error(`Metadati catalogo insufficienti per l'introduzione digitale di ${volume.code}.`)
+  if (!summary || topics.length === 0 || !whyDifferent) {
+    throw new Error(`Presentazione editoriale digitale incompleta per ${volume.code}.`)
   }
 
   return {
     title: `Introduzione al ${volume.title}`,
-    summary: volume.promise.trim(),
+    summary,
     topics,
     copyrightNotice: copyrightLines.join(" "),
     whyDifferent
