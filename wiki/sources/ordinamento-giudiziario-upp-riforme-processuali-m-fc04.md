@@ -6,7 +6,7 @@ status: processed
 domain: "concorsi pubblici italiani"
 topics: ["ordinamento giudiziario", "ufficio per il processo", "processo civile", "processo penale", "riforme Cartabia"]
 entities: ["Ufficio per il processo", "Uffici giudiziari", "Ministero della giustizia"]
-source_refs: ["sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md"]
+source_refs: ["sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md", "sources/vol-04-aggiornamento-normativo-2026-08-18.md"]
 book_refs: ["m-fc04-giustizia", "vol-04-giustizia-upp"]
 confidence: 0.9
 updated_at: 2026-07-18T18:05:00+02:00
@@ -28,7 +28,7 @@ Questa nota consolida le fonti per i capitoli 1-7 del VOL-04. Il candidato deve 
 ## Fonti principali
 - R.D. 30 gennaio 1941, n. 12, ordinamento giudiziario.
 - D.Lgs. 10 ottobre 2022, n. 151, Ufficio per il processo.
-- D.L. 12 giugno 2026, n. 100, da verificare in sede di conversione.
+- D.L. 12 giugno 2026, n. 100, non convertito entro la scadenza dell'11 agosto 2026 risultante dagli atti parlamentari consultati.
 - D.Lgs. 10 ottobre 2022, n. 149, riforma del processo civile.
 - D.Lgs. 10 ottobre 2022, n. 150, riforma del processo penale e giustizia riparativa.
 - D.Lgs. 31 ottobre 2024, n. 164, correttivo civile.
@@ -52,7 +52,7 @@ Questa nota consolida le fonti per i capitoli 1-7 del VOL-04. Il candidato deve 
 ## Note di review
 Evitare taglio da manuale universitario. Ogni nozione processuale deve essere collegata a un output concorsuale: risposta a quiz, mini-caso, ordine di attivita, scheda fascicolo, bozza o controllo procedimentale.
 
-Aggiornamento web ufficiale 2026-07-17: il disegno di legge di conversione del D.L. 12 giugno 2026, n. 100 risulta registrato al Senato come S.1939, con iter indicato come in corso di esame in commissione al 2 luglio 2026. Nei capitoli UPP non cristallizzare il testo come legge di conversione definitiva finche non sia pubblicata in Gazzetta Ufficiale.
+Aggiornamento web ufficiale 2026-08-18: la scheda del Senato per l'A.S. 1939 indica la scadenza dell'11 agosto 2026 e l'iter ancora in commissione nell'ultimo stato consultabile. Non risulta pubblicata entro il termine una legge di conversione. Ai sensi dell'art. 77 Cost., il decreto non convertito perde efficacia sin dall'inizio. Nei capitoli UPP non presentarlo come fonte vigente.
 
 Aggiornamento web ufficiale 2026-07-18: per il processo civile operativo usare il testo vigente del D.Lgs. 10 ottobre 2022, n. 149 su Normattiva, che indica aggiornamenti successivi fino all'atto pubblicato il 12 giugno 2026 nelle viste vigenti, e il D.Lgs. 31 ottobre 2024, n. 164, pubblicato in Gazzetta Ufficiale n. 264 dell'11 novembre 2024 con entrata in vigore il 26 novembre 2024. Nei capitoli sul processo civile non inserire termini numerici, formule o decorrenze senza verifica articolo per articolo sul testo vigente.
 

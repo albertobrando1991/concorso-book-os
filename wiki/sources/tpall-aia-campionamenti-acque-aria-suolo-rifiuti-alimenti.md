@@ -9,11 +9,11 @@ entities: ["Sistema nazionale a rete per la protezione dell'ambiente", "ISPRA", 
 source_refs: ["sources/tpall-sicurezza-ambiente-vigilanza-sanzioni", "sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale", "sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.94
-updated_at: 2026-07-29T17:22:00+02:00
+updated_at: 2026-08-18
 created_at: 2026-07-29T16:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["source", "tpall", "aia", "sampling", "snpa", "m-sa02"]
+tags: ["source", "tpall", "aia", "sampling", "snpa", "m-sa02", "step-15"]
 source_type: official_technical_corpus
 source_url: "https://www.snpambiente.it/pubblicazioni/linee-guida-snpa/controlli-su-installazioni-aia-di-competenza-regionale/"
 source_date: "2018-2024"

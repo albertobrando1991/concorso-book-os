@@ -85,7 +85,7 @@ function required(values: Map<string, string>, key: string) {
 
 function usage(message: string) {
   return new Error(
-    `${message}\nUso: npm run bundle:integration -- --volume VOL-01 --channel candidate --source-sha <sha40> [--out <directory>]`
+    `${message}\nUso: npm run bundle:integration -- --volume VOL-01..VOL-12 --channel candidate --source-sha <sha40> [--out <directory>]`
   )
 }
 

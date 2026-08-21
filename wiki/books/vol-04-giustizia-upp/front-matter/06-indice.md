@@ -2,19 +2,19 @@
 id: vol-04-fm-06-indice
 type: book_front_matter
 title: "Indice"
-status: source_ready
+status: reviewed
 book_id: vol-04-giustizia-upp
 volume_code: VOL-04
 order: 6
 canonical: true
-review_required: true
+review_required: false
 source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md"]
 ---
 
 # Indice
 
 ## Sezioni editoriali iniziali
-1. Servizi digitali inclusi
+1. Risorse digitali e aggiornamenti
 2. Frontespizio
 3. Copyright e note editoriali
 4. Sommario
@@ -35,7 +35,7 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 - Rinvii specialistici a VOL-08, VOL-09, VOL-10 e VOL-12
 
 ## Capitolo 1 - Il sistema Giustizia visto dal candidato
-1. Perche' i concorsi Giustizia non sono concorsi amministrativi generici
+1. Perché' i concorsi Giustizia non sono concorsi amministrativi generici
 2. La mappa essenziale: giurisdizione, amministrazione, uffici e servizi
 3. Profili ricorrenti: AUPP, funzionario giudiziario, cancelleria, UNEP, DAP, DGMC
 4. Materie comuni da richiamare dal VOL-01
@@ -48,13 +48,13 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 2. Organizzazione centrale e regolamenti di struttura
 3. Dipartimento per gli affari di giustizia e Dipartimento dell'organizzazione giudiziaria
 4. DAP: amministrazione penitenziaria, istituti e servizi
-5. DGMC: minorile, comunita e giustizia riparativa
-6. DGSIA e supporto digitale
+5. DGMC: minorile, comunità e giustizia riparativa
+6. DIT, DGSIA e supporto digitale
 7. Come collegare dipartimento, ufficio, profilo e prova concorsuale
 
 ## Capitolo 3 - Uffici giudiziari e ordinamento applicato al lavoro d'ufficio
 1. Ordinamento giudiziario in chiave operativa
-2. Uffici di merito, legittimita, requirenti e giudicanti
+2. Uffici di merito, legittimità, requirenti e giudicanti
 3. Presidenza, dirigenza amministrativa e cancellerie
 4. Ruoli del personale amministrativo negli uffici giudiziari
 5. Fascicolo, registro, ruolo, udienza e provvedimento
@@ -62,13 +62,13 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 7. Domande trappola su autonomia, gerarchia e competenze
 
 ## Capitolo 4 - Ufficio per il processo: struttura, progetto e flussi
-1. Origine, finalita e quadro normativo dell'UPP
+1. Origine, finalità e quadro normativo dell'UPP
 2. Modelli organizzativi e progetto dell'ufficio
-3. Attivita di supporto: studio, ricerca, scheda, bozza, monitoraggio
-4. UPP civile, penale, minorile e di legittimita
+3. Attività di supporto: studio, ricerca, scheda, bozza, monitoraggio
+4. UPP civile, penale, minorile e di legittimità
 5. Raccordo con magistrati, cancellerie e dirigenti
-6. Stabilizzazione, nuova fase PNRR e D.L. 100/2026 da verificare
-7. Indicatori, arretrato e qualita dell'output
+6. Stabilizzazione, nuova fase PNRR e caso del D.L. 100/2026 non convertito
+7. Indicatori, arretrato e qualità dell'output
 
 ## Capitolo 5 - Il lavoro dell'AUPP: fascicolo, udienza, ricerca e scheda
 1. Cosa fa concretamente l'addetto UPP
@@ -98,7 +98,7 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 7. Laboratorio: cronologia di un fascicolo penale
 
 ## Capitolo 8 - Servizi di cancelleria, registri, comunicazioni e certificazioni
-1. Cancelleria come servizio e come presidio di legalita procedurale
+1. Cancelleria come servizio e come presidio di legalità procedurale
 2. Registri, ruolo, fascicolo e archivi
 3. Depositi, comunicazioni, notificazioni e rilascio copie
 4. Certificazioni, attestazioni e rapporti con l'utenza
@@ -120,16 +120,16 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 2. Certificati, visure, richieste e soggetti legittimati
 3. Carichi pendenti e differenze rispetto al casellario
 4. Iscrizioni, eliminazioni, aggiornamenti e controlli
-5. Archivi, conservazione, privacy e limiti di conoscibilita
+5. Archivi, conservazione, privacy e limiti di conoscibilità
 6. Uso concorsuale: domande ricorrenti e casi pratici
-7. Laboratorio: quale certificato serve e per quale finalita
+7. Laboratorio: quale certificato serve e per quale finalità
 
-## Capitolo 11 - UNEP: notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario
+## Capitolo 11 - UNEP: notificazioni, esecuzioni, protesti e attività dell'ufficiale giudiziario
 1. UNEP nel sistema degli uffici giudiziari
-2. Ufficiale giudiziario: ruolo, competenze e responsabilita
+2. Ufficiale giudiziario: ruolo, competenze e responsabilità
 3. Notificazioni civili e penali in chiave operativa
 4. Esecuzioni mobiliari, immobiliari e presso terzi: mappa essenziale
-5. Protesti e attivita collegate
+5. Protesti e attività collegate
 6. Rapporti con cancellerie, avvocati, parti e utenti
 7. Laboratorio: richiesta di notifica o esecuzione
 
@@ -139,17 +139,17 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 3. Portale dei Servizi Telematici e consultazione
 4. Processo penale telematico: regole 2023-2026 e transizione
 5. Firma, PEC, attestazioni, anomalie e ricevute
-6. Sicurezza, privacy e responsabilita operative
+6. Sicurezza, privacy e responsabilità operative
 7. Laboratorio: lettura di un esito di deposito
 
-## Capitolo 13 - Giustizia minorile e di comunita: servizi, mediazione e riparativa
-1. DGMC, servizi minorili e giustizia di comunita
+## Capitolo 13 - Giustizia minorile e di comunità: servizi, mediazione e riparativa
+1. DGMC, servizi minorili e giustizia di comunità
 2. Processo penale minorile: principi e uffici coinvolti
 3. Servizi sociali minorili, equipe e progetto educativo
-4. Messa alla prova e misure di comunita
+4. Messa alla prova e misure di comunità
 5. Giustizia riparativa: principi, accesso e programmi
 6. Profili pedagogici e di mediazione nei bandi
-7. Laboratorio: caso servizio minorile/comunita
+7. Laboratorio: caso servizio minorile/comunità
 
 ## Capitolo 14 - Amministrazione penitenziaria: trattamento, istituti ed esecuzione esterna
 1. DAP, istituti penitenziari e servizi dell'esecuzione
@@ -171,10 +171,10 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 ### Appendice B - Tavole cancelleria, spese, casellario e UNEP
 - Registro/fascicolo/atto
 - Spesa/evento/ufficio
-- Certificato/soggetto/finalita
+- Certificato/soggetto/finalità
 - Notifica/esecuzione/documenti
 
-### Appendice C - Minorile, comunita e giustizia riparativa
+### Appendice C - Minorile, comunità e giustizia riparativa
 - Mappa DGMC
 - Servizi e misure
 - Messa alla prova
@@ -199,3 +199,14 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 4. Simulazione integrata VOL-04
 5. Griglia finale profilo-materia-output
 
+## Conclusione
+1. Dal programma al lavoro d'ufficio
+2. Checklist delle competenze finali
+3. Ultima simulazione e diario degli errori
+
+## Fonti e riferimenti essenziali
+1. Organizzazione del Ministero
+2. Normativa e atti ad alta mobilità
+3. Cancelleria, spese, certificazioni e dati giudiziari
+4. Minorile, comunità e ordinamento penitenziario
+5. Metodo di verifica prima della prova

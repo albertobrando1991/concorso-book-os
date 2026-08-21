@@ -1,0 +1,29 @@
+{
+  "volume": "VOL-04",
+  "title": "Giustizia e Ufficio per il processo",
+  "candidate_version": "VOL-04-candidate-2026.08.21.2",
+  "prepared_at": "2026-08-21",
+  "normative_cutoff": "2026-08-18",
+  "source_commit": "1014415c4a681c8eea0663319c8fb68e3ac4e5a7",
+  "source_branch": "agent/sync-volumi-04-05-06-09-20260817",
+  "publication_status": "candidate-pending-human-step-24",
+  "interior": {
+    "file": "vol-04-interior-kdp.pdf",
+    "physical_pages": 303,
+    "kdp_effective_pages": 304,
+    "trim_inches": [6.69, 9.61],
+    "bleed": false,
+    "ink": "black-and-white",
+    "paper": "white"
+  },
+  "cover": {
+    "file": "vol-04-cover-kdp.pdf",
+    "binding": "paperback",
+    "finish_candidate": "matte",
+    "bleed_inches": 0.125,
+    "spine_inches": 0.684608,
+    "spread_inches": [14.314608, 9.86]
+  },
+  "human_approval": false,
+  "kdp_upload_performed": false
+}

@@ -1,8 +1,8 @@
 ---
 id: chapter-m-fc04-11-unep-notificazioni-esecuzioni-protesti
 type: book_chapter
-title: "UNEP: notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario"
-status: revised_draft
+title: "UNEP: notificazioni, esecuzioni, protesti e attività dell'ufficiale giudiziario"
+status: reviewed
 domain: "concorsi pubblici italiani"
 topics: ["unep", "ufficiale giudiziario", "notificazioni", "esecuzioni", "protesti", "pignoramenti", "sfratti", "sequestri", "cancelleria", "processo civile", "processo penale"]
 entities: ["Ministero della giustizia", "UNEP", "Ufficiale giudiziario", "Cancelleria giudiziaria", "Metodo BANDO"]
@@ -15,15 +15,15 @@ source_refs: [
 ]
 book_refs: ["m-fc04-giustizia", "vol-04-giustizia-upp", "il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-07-18T19:36:00+02:00
+updated_at: 2026-08-18T12:00:00+02:00
 created_at: 2026-07-18T19:36:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc04", "professional-draft", "unep"]
 book_id: m-fc04-giustizia
 outline_section: 11
 volume_chapter: 11
-draft_stage: professional-draft
+draft_stage: reviewed
 module_code: M-FC04
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -41,70 +41,31 @@ last_compiled_from: [
 ]
 ---
 
-# UNEP: notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario
-
-## Specifica struttura madre
-
-### Obiettivo
-Coprire l'UNEP come area autonoma del volume, coerente con bandi e profili dedicati, senza trasformare il capitolo in un trattato di procedura civile o penale. Il candidato deve capire che l'Ufficio notificazioni, esecuzioni e protesti e' il punto in cui atti, titoli, richieste, termini, competenza territoriale, spese e responsabilita operative diventano servizio concreto.
-
-### Nuclei
-- UNEP nel sistema degli uffici giudiziari e raccordo con tribunali, corti e cancellerie.
-- Funzionario UNEP e ufficiale giudiziario: ruoli, attivita, responsabilita e differenze essenziali.
-- Notificazioni civili e penali in chiave operativa: richiesta, atto, destinatario, competenza, canale, relata/esito.
-- Esecuzioni: pignoramenti, sfratti, sequestri, riconsegne di beni, offerte reali e atti collegati.
-- Protesti cambiari e attivita connesse.
-- Registri, somme, indennita, anticipazioni, depositi e rapporto con il capitolo sulle spese di giustizia.
-- Rapporti con parti, avvocati, cancellerie, utenti, autorita e sistemi digitali.
-- Casi pratici di richiesta di notifica, richiesta di esecuzione e gestione dell'esito.
-
-### Output operativo
-Flusso notifica/esecuzione con documenti e controlli; tavola richiesta-atto-soggetto-ufficio-esito; mini-casi su notifica, pignoramento, rilascio/sfratto, protesto e richiesta incompleta.
-
-### Riferimenti consolidati
-- [[sources/cancelleria-spese-casellario-unep-m-fc04]]
-- [[sources/giustizia-digitale-pct-ppt-m-fc04]]
-- [[topics/giustizia-e-upp]]
-- [[entities/unep]]
-- [[books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria]]
-- [[books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni]]
-- [[books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero]]
-
-## Scheda di lavoro
-
-| Campo | Contenuto |
-|---|---|
-| Tema | UNEP, notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario |
-| Profilo | Funzionario UNEP, ufficiale giudiziario, assistente giudiziario, personale di cancelleria, candidato UPP che deve capire il raccordo con esecuzione e notifiche |
-| Rischio da concorso | Confondere comunicazione di cancelleria e notificazione; trattare l'UNEP come semplice sportello; ignorare titolo, competenza, destinatario, spese ed esito |
-| Metodo | Leggere ogni richiesta come sequenza: atto, soggetto, titolo, ufficio competente, adempimento, esito, registrazione |
-| Output | Flusso notifica/esecuzione e tavola richiesta-atto-controllo |
-
-## Testo editoriale
+# UNEP: notificazioni, esecuzioni, protesti e attività dell'ufficiale giudiziario
 
 ### Apertura editoriale
-L'UNEP e' una delle aree piu concrete del sistema Giustizia. Qui il procedimento esce dal fascicolo e incontra destinatari, beni, luoghi, scadenze, pagamenti, accessi, opposizioni, esiti e responsabilita operative. Una notificazione mal impostata puo' incidere sulla conoscenza legale di un atto. Un'esecuzione mal letta puo' far confondere titolo, precetto, pignoramento, rilascio, sequestro e competenza. Un protesto trattato come dettaglio storico puo' far perdere una domanda semplice.
+L'UNEP è una delle aree più concrete del sistema Giustizia. Qui il procedimento esce dal fascicolo e incontra destinatari, beni, luoghi, scadenze, pagamenti, accessi, opposizioni, esiti e responsabilità operative. Una notificazione mal impostata può incidere sulla conoscenza legale di un atto. Un'esecuzione mal letta può far confondere titolo, precetto, pignoramento, rilascio, sequestro e competenza. Un protesto trattato come dettaglio storico può far perdere una domanda semplice.
 
-Per questo il capitolo non deve essere studiato come appendice marginale della procedura civile. L'Ufficio notificazioni, esecuzioni e protesti e' un ufficio giudiziario specializzato, presente presso corti e tribunali, al quale sono assegnati funzionari UNEP e ufficiali giudiziari. Il Ministero della giustizia, nella pagina istituzionale sugli UNEP aggiornata al 24 febbraio 2025, collega l'attivita del personale UNEP al D.P.R. 15 dicembre 1959, n. 1229 e distingue le attivita del funzionario UNEP da quelle dell'ufficiale giudiziario.
+Per questo il capitolo non deve essere studiato come appendice marginale della procedura civile. L'Ufficio notificazioni, esecuzioni e protesti è un ufficio giudiziario specializzato, presente presso corti e tribunali, al quale sono assegnati funzionari UNEP e ufficiali giudiziari. Il Ministero della giustizia, nella pagina istituzionale sugli UNEP aggiornata al 24 febbraio 2025, collega l'attività del personale UNEP al D.P.R. 15 dicembre 1959, n. 1229 e distingue le attività del funzionario UNEP da quelle dell'ufficiale giudiziario.
 
 Il candidato deve imparare a rispondere a una domanda pratica:
 
 > quando arriva una richiesta di notifica, esecuzione o protesto, quali controlli deve fare l'ufficio prima di agire e quale esito deve restare tracciato?
 
-Questa domanda vale piu di un elenco di articoli. Nei concorsi Giustizia non basta sapere che l'ufficiale giudiziario "notifica ed esegue". Bisogna spiegare che ogni attivita parte da un atto, da un soggetto richiedente, da una competenza, da un destinatario o bene, da una spesa o anticipazione, da un registro e da un esito.
+Questa domanda vale più di un elenco di articoli. Nei concorsi Giustizia non basta sapere che l'ufficiale giudiziario "notifica ed esegue". Bisogna spiegare che ogni attività parte da un atto, da un soggetto richiedente, da una competenza, da un destinatario o bene, da una spesa o anticipazione, da un registro e da un esito.
 
 ### Obiettivo operativo del capitolo
 Al termine del capitolo devi saper fare sette operazioni:
 
 1. collocare l'UNEP nel sistema degli uffici giudiziari;
 2. distinguere funzionario UNEP, ufficiale giudiziario e cancelleria;
-3. descrivere una notificazione come flusso: richiesta, atto, destinatario, competenza, modalita, relata, esito;
-4. descrivere un'esecuzione come flusso: titolo, precetto o presupposto, richiesta, attivita esecutiva, verbale, somme, esito;
-5. riconoscere pignoramento, rilascio/sfratto, sequestro, riconsegna, offerta reale e protesto come attivita diverse;
-6. collegare UNEP, spese di giustizia, anticipazioni, depositi, registri e compensi senza trasformare il capitolo in contabilita;
+3. descrivere una notificazione come flusso: richiesta, atto, destinatario, competenza, modalità, relata, esito;
+4. descrivere un'esecuzione come flusso: titolo, precetto o presupposto, richiesta, attività esecutiva, verbale, somme, esito;
+5. riconoscere pignoramento, rilascio/sfratto, sequestro, riconsegna, offerta reale e protesto come attività diverse;
+6. collegare UNEP, spese di giustizia, anticipazioni, depositi, registri e compensi senza trasformare il capitolo in contabilità;
 7. usare una tavola richiesta-atto-soggetto-ufficio-esito per casi pratici e orale.
 
-La finalita non e' sostituire lo studio della procedura civile o penale. La finalita e' capire il lavoro dell'ufficio e parlare come un candidato che sa collegare norma, fascicolo, persona, territorio e servizio.
+La finalità non è sostituire lo studio della procedura civile o penale. La finalità è capire il lavoro dell'ufficio e parlare come un candidato che sa collegare norma, fascicolo, persona, territorio e servizio.
 
 ### Perimetro operativo
 Il capitolo copre il perimetro necessario ai concorsi del sistema Giustizia. Non sviluppa in modo analitico tutte le forme di notificazione, tutte le fasi dell'espropriazione forzata o tutte le regole sui titoli esecutivi. Questi temi appartengono ai manuali di procedura civile e penale. Qui interessa la lettura d'ufficio.
@@ -112,111 +73,113 @@ Il capitolo copre il perimetro necessario ai concorsi del sistema Giustizia. Non
 | Tema | Cosa serve al candidato |
 |---|---|
 | UNEP | Capire struttura, collocazione e funzione |
-| Ufficiale giudiziario | Riconoscere attivita di notificazione, esecuzione e protesto |
-| Funzionario UNEP | Vedere direzione, atti demandati, attivita amministrativo-contabile e gestione dell'unita |
-| Notificazioni | Distinguere richiesta, destinatario, modalita, relata, esito |
+| Ufficiale giudiziario | Riconoscere attività di notificazione, esecuzione e protesto |
+| Funzionario UNEP | Vedere direzione, atti demandati, attività amministrativo-contabile e gestione dell'unità |
+| Notificazioni | Distinguere richiesta, destinatario, modalità, relata, esito |
 | Esecuzioni | Collegare titolo, precetto, richiesta, beni, accesso, verbale e seguito |
 | Protesti | Capire la funzione di accertamento formale del mancato pagamento o accettazione |
-| Spese | Collegare anticipazioni, depositi, indennita, diritti e registrazioni |
-| Cancelleria | Distinguere comunicazioni di cancelleria e attivita UNEP |
+| Spese | Collegare anticipazioni, depositi, indennità, diritti e registrazioni |
+| Cancelleria | Distinguere comunicazioni di cancelleria e attività UNEP |
 | Digitale | Riconoscere notifiche telematiche e sistemi come ambiente operativo da verificare |
 
-Restano fuori: formule di relata, calcolo di indennita e trasferte, importi, zone territoriali locali, registri minute per ufficio, istruzioni di sportello, disciplina completa delle notifiche telematiche, procedura esecutiva avanzata e prassi locali.
+Restano fuori: formule di relata, calcolo di indennità e trasferte, importi, zone territoriali locali, registri minute per ufficio, istruzioni di sportello, disciplina completa delle notifiche telematiche, procedura esecutiva avanzata e prassi locali.
 
 ### Il posto dell'UNEP nel sistema Giustizia
-UNEP significa Ufficio notificazioni, esecuzioni e protesti. La sigla contiene gia' il programma del capitolo: notificare atti, curare attivita esecutive e levare protesti nei casi previsti.
+UNEP significa Ufficio notificazioni, esecuzioni e protesti. La sigla contiene già il programma del capitolo: notificare atti, curare attività esecutive e levare protesti nei casi previsti.
 
-Gli UNEP sono istituiti presso corti o tribunali. Questo dato e' importante perche evita di immaginarli come sportelli autonomi scollegati dal processo. L'UNEP lavora accanto agli uffici giudiziari, ma non coincide con la cancelleria. La cancelleria registra, comunica, rilascia copie, gestisce fascicoli e servizi interni; l'UNEP interviene su notificazioni, esecuzioni e protesti, cioe su attivita che spesso portano l'atto fuori dall'ufficio.
+Gli UNEP sono istituiti presso corti o tribunali. Questo dato è importante perché evita di immaginarli come sportelli autonomi scollegati dal processo. L'UNEP lavora accanto agli uffici giudiziari, ma non coincide con la cancelleria. La cancelleria registra, comunica, rilascia copie, gestisce fascicoli e servizi interni; l'UNEP interviene su notificazioni, esecuzioni e protesti, cioe su attività che spesso portano l'atto fuori dall'ufficio.
 
 | Ufficio/ruolo | Funzione prevalente |
 |---|---|
 | Cancelleria | Fascicolo, registri, comunicazioni, copie, certificazioni, adempimenti di ufficio |
-| UNEP | Notificazioni, esecuzioni, protesti e attivita dell'ufficiale giudiziario |
+| UNEP | Notificazioni, esecuzioni, protesti e attività dell'ufficiale giudiziario |
 | UPP | Supporto organizzativo e giuridico al lavoro dell'ufficio e del magistrato |
 | Magistrato | Decisione, provvedimento, direzione processuale secondo rito |
 | Avvocato/parte | Richiesta, impulso, atti e interessi processuali |
 
-La differenza tra comunicazione e notificazione, gia vista nei capitoli precedenti, qui diventa centrale. Una comunicazione di cancelleria e' un adempimento dell'ufficio nei casi previsti. Una notificazione e' un'attivita formale di trasmissione dell'atto a un destinatario, con regole, soggetti, modalita ed effetti propri. L'UNEP e' uno dei luoghi in cui questa differenza diventa concreta.
+La differenza tra comunicazione e notificazione, già vista nei capitoli precedenti, qui diventa centrale. Una comunicazione di cancelleria è un adempimento dell'ufficio nei casi previsti. Una notificazione è un'attività formale di trasmissione dell'atto a un destinatario, con regole, soggetti, modalità ed effetti propri. L'UNEP è uno dei luoghi in cui questa differenza diventa concreta.
 
 ### Fonti e aggiornamento
-La fonte storica centrale per l'ordinamento degli ufficiali giudiziari e degli aiutanti ufficiali giudiziari e' il D.P.R. 15 dicembre 1959, n. 1229. Alla verifica ufficiale del 18 luglio 2026, Normattiva mostra il testo vigente al 18 luglio 2026, con ultimo aggiornamento dell'atto indicato al 27 giugno 2015.
+La fonte storica centrale per l'ordinamento degli ufficiali giudiziari e degli aiutanti ufficiali giudiziari è il D.P.R. 15 dicembre 1959, n. 1229. Al cut-off normativo del volume, Normattiva mostra il testo vigente, con ultimo aggiornamento dell'atto indicato al 27 giugno 2015.
 
 La pagina Ministero della giustizia sugli Uffici notificazioni esecuzioni e protesti, aggiornata al 24 febbraio 2025, conferma il raccordo con il D.P.R. 1229/1959, con le norme di raccordo contrattuali e con il mansionario allegato al CCNI 29 luglio 2010. La pagina ministeriale sulle risposte operative "Notificazioni, Esecuzioni e Protesti", aggiornata al 2 dicembre 2025, raccoglie quesiti e circolari per funzionari e ufficiali giudiziari sulla gestione degli uffici, sull'applicazione del D.P.R. 1229/1959, sul CCNL 24 aprile 2002, sui compensi, su CPUG e su casi operativi.
 
-Per il manuale significa una cosa precisa: il capitolo deve insegnare la logica stabile dell'ufficio, mentre termini, modalita, compensi, indennita, importi, registri e istruzioni locali vanno verificati prima della pubblicazione.
+Il richiamo a mansionari e contratti storici non significa che essi esauriscano l'inquadramento corrente. Per area, famiglia professionale, requisiti di accesso e mansioni del posto messo a concorso prevalgono il bando e la disciplina contrattuale vigente alla sua data. Il capitolo usa le fonti storiche solo per ricostruire le funzioni stabili dell'UNEP e le confronta con le pagine ministeriali aggiornate.
+
+Per il manuale significa una cosa precisa: il capitolo insegna la logica stabile dell'ufficio, mentre termini, modalità, compensi, indennità, importi, registri e istruzioni locali vanno verificati alla data del bando e della prova.
 
 ### Funzionario UNEP e ufficiale giudiziario
-Nel linguaggio comune si parla quasi sempre di "ufficiale giudiziario". Nei concorsi, pero', conviene distinguere.
+Nel linguaggio comune si parla quasi sempre di "ufficiale giudiziario". Nei concorsi, però, conviene distinguere.
 
-La pagina ministeriale sugli UNEP sintetizza il mansionario: il funzionario UNEP compie gli atti demandati dalle norme all'ufficiale giudiziario, cura la connessa attivita istruttoria amministrativo-contabile, amministra le somme riscosse dall'unita organica NEP, dirige l'unita, partecipa ad attivita didattiche per materie di competenza e puo' svolgere attivita ispettiva se incaricato. L'ufficiale giudiziario cura l'attivita di notificazione, cura l'attivita di esecuzione se richiesta e leva protesti cambiari.
+La pagina ministeriale sugli UNEP sintetizza il mansionario: il funzionario UNEP compie gli atti demandati dalle norme all'ufficiale giudiziario, cura la connessa attività istruttoria amministrativo-contabile, amministra le somme riscosse dall'unità organica NEP, dirige l'unità, partecipa ad attività didattiche per materie di competenza e può svolgere attività ispettiva se incaricato. L'ufficiale giudiziario cura l'attività di notificazione, cura l'attività di esecuzione se richiesta e leva protesti cambiari.
 
 In chiave didattica:
 
 | Profilo | Lettura operativa |
 |---|---|
 | Funzionario UNEP | Atti, direzione, istruttoria amministrativo-contabile, somme, organizzazione |
-| Ufficiale giudiziario | Notificazioni, esecuzioni, protesti e attivita esterne con esito formale |
+| Ufficiale giudiziario | Notificazioni, esecuzioni, protesti e attività esterne con esito formale |
 | Operatore/assistente | Supporto amministrativo secondo organizzazione dell'ufficio |
 | Cancelleria | Raccordo su atti, fascicoli, titoli, copie e comunicazioni |
 
-L'errore da evitare e' ridurre tutto a "il messo che consegna atti". L'UNEP gestisce attivita giuridiche, amministrative, contabili e organizzative. La consegna materiale e' solo una parte visibile di un flusso regolato.
+L'errore da evitare è ridurre tutto a "il messo che consegna atti". L'UNEP gestisce attività giuridiche, amministrative, contabili e organizzative. La consegna materiale è solo una parte visibile di un flusso regolato.
 
 ### Notificazione: dal documento all'esito
-La notificazione e' l'attivita con cui un atto viene portato formalmente a conoscenza di un destinatario secondo regole previste. Non e' una spedizione qualunque. Ha presupposti, destinatari, modalita, tempi, relata ed effetti.
+La notificazione è l'attività con cui un atto viene portato formalmente a conoscenza di un destinatario secondo regole previste. Non è una spedizione qualunque. Ha presupposti, destinatari, modalità, tempi, relata ed effetti.
 
-Per il candidato la notificazione va letta cosi:
+Per il candidato la notificazione va letta così:
 
 1. chi chiede la notifica;
 2. quale atto deve essere notificato;
 3. a chi deve essere notificato;
 4. dove deve essere eseguita;
-5. con quale modalita;
+5. con quale modalità;
 6. entro quale termine o con quale urgenza;
 7. quali spese o anticipazioni sono necessarie;
 8. quale esito deve essere restituito e registrato.
 
 | Controllo | Domanda |
 |---|---|
-| Richiedente | Parte, avvocato, ufficio, autorita o altro soggetto legittimato? |
-| Atto | L'atto e' completo, sottoscritto, munito degli allegati necessari? |
-| Destinatario | Identita, indirizzo, domicilio, PEC o altro recapito sono corretti? |
-| Competenza | L'UNEP richiesto e' territorialmente competente o serve altro ufficio? |
-| Termine | C'e' scadenza processuale o urgenza da valutare? |
-| Canale | Notifica a mani, postale, telematica o altra modalita prevista? |
+| Richiedente | Parte, avvocato, ufficio, autorità o altro soggetto legittimato? |
+| Atto | L'atto è completo, sottoscritto, munito degli allegati necessari? |
+| Destinatario | Identità, indirizzo, domicilio, PEC o altro recapito sono corretti? |
+| Competenza | L'UNEP richiesto è territorialmente competente o serve altro ufficio? |
+| Termine | C'è scadenza processuale o urgenza da valutare? |
+| Canale | Notifica a mani, postale, telematica o altra modalità prevista? |
 | Spese | Sono dovuti anticipi, diritti o somme secondo istruzioni vigenti? |
-| Esito | Relata, ricevuta, restituzione, mancata notifica, irreperibilita o altro esito |
+| Esito | Relata, ricevuta, restituzione, mancata notifica, irreperibilità o altro esito |
 
-La relata o attestazione dell'esito non e' un dettaglio finale. E' la traccia formale dell'adempimento. In prova, una risposta professionale deve sempre chiudere con l'esito: una notifica non e' "fatta" solo perche l'atto e' stato consegnato all'ufficio.
+La relata o attestazione dell'esito non è un dettaglio finale. È la traccia formale dell'adempimento. In prova, una risposta professionale deve sempre chiudere con l'esito: una notifica non è "fatta" solo perché l'atto è stato consegnato all'ufficio.
 
 ### Notificazioni civili e penali
-Il capitolo 6 ha gia' introdotto il processo civile operativo; il capitolo 7 ha introdotto il processo penale operativo. Qui il punto e' raccordare quei flussi con l'UNEP.
+Il capitolo 6 ha già introdotto il processo civile operativo; il capitolo 7 ha introdotto il processo penale operativo. Qui il punto è raccordare quei flussi con l'UNEP.
 
-Nel civile, la notifica puo' collegarsi ad atti introduttivi, titoli, precetti, pignoramenti, intimazioni, provvedimenti, atti di parte e fasi esecutive. Nel penale, le notificazioni hanno regole proprie e incidono su conoscenza dell'atto, partecipazione, termini, difesa e regolarita del procedimento.
+Nel civile, la notifica può collegarsi ad atti introduttivi, titoli, precetti, pignoramenti, intimazioni, provvedimenti, atti di parte e fasi esecutive. Nel penale, le notificazioni hanno regole proprie e incidono su conoscenza dell'atto, partecipazione, termini, difesa e regolarità del procedimento.
 
 Non serve memorizzare tutte le regole del codice. Serve non confondere il piano.
 
 | Piano | Domanda da studio |
 |---|---|
-| Civile | La notifica e' collegata a domanda, titolo, precetto, esecuzione o provvedimento? |
+| Civile | La notifica è collegata a domanda, titolo, precetto, esecuzione o provvedimento? |
 | Penale | La notifica riguarda imputato, difensore, persona offesa, testimone o altro destinatario? |
-| Ufficio | L'attivita e' di cancelleria, UNEP, parte, difensore o altro canale? |
-| Esito | L'esito incide su termini, udienza, validita o prosecuzione? |
-| Digitale | La modalita telematica e' ammessa o obbligatoria nel caso concreto? |
+| Ufficio | L'attività è di cancelleria, UNEP, parte, difensore o altro canale? |
+| Esito | L'esito incide su termini, udienza, validità o prosecuzione? |
+| Digitale | La modalità telematica è ammessa o obbligatoria nel caso concreto? |
 
 Una buona risposta orale dice:
 
-> Le notificazioni civili e penali devono essere studiate in rapporto al rito, al destinatario, all'atto e all'effetto processuale. L'UNEP e' il presidio operativo quando la notificazione passa dall'ufficio notificazioni, ma non ogni comunicazione o trasmissione e' automaticamente attivita UNEP.
+> Le notificazioni civili e penali devono essere studiate in rapporto al rito, al destinatario, all'atto e all'effetto processuale. L'UNEP è il presidio operativo quando la notificazione passa dall'ufficio notificazioni, ma non ogni comunicazione o trasmissione è automaticamente attività UNEP.
 
 ### Esecuzioni: non un unico atto, ma un flusso
-L'esecuzione e' il secondo grande territorio dell'UNEP. La pagina ministeriale richiama, tra le attivita di esecuzione, sfratti, pignoramenti, sequestri, riconsegne di beni e offerte reali. In un concorso, questo elenco va trasformato in metodo.
+L'esecuzione è il secondo grande territorio dell'UNEP. La pagina ministeriale richiama, tra le attività di esecuzione, sfratti, pignoramenti, sequestri, riconsegne di beni e offerte reali. In un concorso, questo elenco va trasformato in metodo.
 
-Un'esecuzione non e' "andare a prendere qualcosa". E' una sequenza regolata:
+Un'esecuzione non è "andare a prendere qualcosa". È una sequenza regolata:
 
 1. esiste un titolo o un presupposto;
-2. c'e' un atto che avvia o prepara l'attivita;
+2. c'è un atto che avvia o prepara l'attività;
 3. una parte o un soggetto legittimato presenta richiesta;
-4. l'ufficio verifica competenza, documenti, spese e modalita;
-5. l'ufficiale giudiziario compie l'attivita nei limiti previsti;
+4. l'ufficio verifica competenza, documenti, spese e modalità;
+5. l'ufficiale giudiziario compie l'attività nei limiti previsti;
 6. viene redatto un verbale o un esito;
 7. l'esito torna nel fascicolo o nel circuito processuale.
 
@@ -224,50 +187,50 @@ Un'esecuzione non e' "andare a prendere qualcosa". E' una sequenza regolata:
 |---|---|
 | Pignoramento mobiliare | Ricerca e vincolo su beni mobili nei limiti di legge |
 | Pignoramento presso terzi | Coinvolge debitore, creditore e terzo; richiede attenzione a soggetti e dichiarazioni |
-| Pignoramento immobiliare | Flusso piu documentale e collegato a registri, trascrizioni e vendita |
+| Pignoramento immobiliare | Flusso più documentale e collegato a registri, trascrizioni e vendita |
 | Rilascio/sfratto | Accesso, eventuale forza pubblica, beni, persone, rinvii e verbale |
-| Sequestro | Vincolo o apprensione secondo titolo e finalita |
+| Sequestro | Vincolo o apprensione secondo titolo e finalità |
 | Riconsegna di beni | Restituzione coattiva o esecuzione di obbligo specifico |
-| Offerta reale | Attivita formale collegata all'adempimento offerto |
+| Offerta reale | Attività formale collegata all'adempimento offerto |
 
-Il candidato non deve trattare tutte queste ipotesi come identiche. Ogni attivita ha oggetto, luogo, soggetti, atti, rischi e traccia diversa.
+Il candidato non deve trattare tutte queste ipotesi come identiche. Ogni attività ha oggetto, luogo, soggetti, atti, rischi e traccia diversa.
 
 ### Pignoramenti e ricerca telematica dei beni
-Nei concorsi Giustizia puo' comparire il riferimento alla ricerca telematica dei beni da pignorare e al pignoramento presso terzi. La pagina ministeriale sulle risposte operative 2025 richiama, tra i quesiti, compensi e pignoramenti conseguenti a procedure ex art. 492-bis c.p.c. Questa informazione va usata con prudenza: non serve entrare nel calcolo dei compensi; serve ricordare che le procedure esecutive evolvono anche attraverso strumenti informativi e quesiti ministeriali.
+Nei concorsi Giustizia può comparire il riferimento alla ricerca telematica dei beni da pignorare e al pignoramento presso terzi. La pagina ministeriale sulle risposte operative 2025 richiama, tra i quesiti, compensi e pignoramenti conseguenti a procedure ex art. 492-bis c.p.c. Questa informazione va usata con prudenza: non serve entrare nel calcolo dei compensi; serve ricordare che le procedure esecutive evolvono anche attraverso strumenti informativi e quesiti ministeriali.
 
-La regola operativa e':
+La regola operativa è:
 
 | Passaggio | Controllo |
 |---|---|
 | Titolo | Esiste titolo esecutivo o presupposto idoneo? |
-| Precetto/atto | L'atto preparatorio e' presente quando richiesto? |
+| Precetto/atto | L'atto preparatorio è presente quando richiesto? |
 | Richiesta | Il creditore o soggetto legittimato formula richiesta corretta? |
-| Competenza | L'UNEP e' competente per territorio e attivita? |
+| Competenza | L'UNEP è competente per territorio e attività? |
 | Beni/terzi | Oggetto, luogo o terzo sono individuati? |
 | Spese | Anticipazioni, diritti, trasferta o somme sono trattate secondo istruzioni vigenti? |
 | Esito | Verbale, dichiarazione, mancata esecuzione, rinvio o restituzione |
 
-La tecnologia non elimina il controllo. La ricerca telematica e i sistemi digitali aiutano a individuare beni o rapporti, ma l'attivita resta giuridico-procedurale e deve essere collegata a titolo, richiesta, competenza e verbale.
+La tecnologia non elimina il controllo. La ricerca telematica e i sistemi digitali aiutano a individuare beni o rapporti, ma l'attività resta giuridico-procedurale e deve essere collegata a titolo, richiesta, competenza e verbale.
 
 ### Rilascio, sfratto, sequestro e riconsegna
-Le esecuzioni per rilascio e gli sfratti sono tra le attivita piu concrete e delicate. Coinvolgono un luogo, persone, beni, tempi, eventuale assistenza della forza pubblica, rinvii, verbali e gestione delle criticita. Il candidato deve evitare frasi semplicistiche come "l'ufficiale giudiziario manda via l'occupante".
+Le esecuzioni per rilascio e gli sfratti sono tra le attività più concrete e delicate. Coinvolgono un luogo, persone, beni, tempi, eventuale assistenza della forza pubblica, rinvii, verbali e gestione delle criticità. Il candidato deve evitare frasi semplicistiche come "l'ufficiale giudiziario manda via l'occupante".
 
-La lettura professionale e' diversa:
+La lettura professionale è diversa:
 
 | Fase | Domanda |
 |---|---|
 | Titolo | Quale provvedimento o titolo consente il rilascio? |
 | Preavviso/intimazione | Gli atti preparatori sono stati compiuti? |
 | Accesso | Dove e quando avviene l'accesso? |
-| Soggetti | Chi e' presente, chi rappresenta le parti, serve assistenza? |
+| Soggetti | Chi è presente, chi rappresenta le parti, serve assistenza? |
 | Beni | Ci sono beni mobili da gestire o custodire? |
-| Criticita | Resistenza, assenza, minori, fragilita, necessita di rinvio? |
+| Criticità | Resistenza, assenza, minori, fragilità, necessità di rinvio? |
 | Verbale | Che cosa viene attestato e con quale esito? |
 
 Il sequestro e la riconsegna richiedono la stessa disciplina mentale: non guardare solo l'azione materiale, ma titolo, oggetto, soggetti, luogo, limiti, custodia ed esito.
 
 ### Protesti
-Il protesto e' l'attivita formale con cui si accerta, secondo regole, il mancato pagamento o la mancata accettazione di titoli come cambiali o assegni nei casi previsti. Nel linguaggio ministeriale l'ufficiale giudiziario eleva i protesti cambiari.
+Il protesto è l'attività formale con cui si accerta, secondo regole, il mancato pagamento o la mancata accettazione di titoli come cambiali o assegni nei casi previsti. Nel linguaggio ministeriale l'ufficiale giudiziario eleva i protesti cambiari.
 
 Per molti candidati il protesto sembra un residuo del passato. Non bisogna farne il centro del capitolo, ma nemmeno ignorarlo: la P di UNEP lo rende parte del perimetro.
 
@@ -280,82 +243,99 @@ Per molti candidati il protesto sembra un residuo del passato. Non bisogna farne
 | Effetto | Traccia pubblica e conseguenze sul circuito del titolo |
 | Registro | Collegamento al registro informatico dei protesti dove rilevante |
 
-Nel 2019 le risposte operative ministeriali hanno trattato anche il Registro informatico dei protesti. Per il manuale il dato utile non e' la singola risposta, ma la consapevolezza che i protesti hanno un lato documentale e informativo, oltre all'atto formale.
+Nel 2019 le risposte operative ministeriali hanno trattato anche il Registro informatico dei protesti. Per il manuale il dato utile non è la singola risposta, ma la consapevolezza che i protesti hanno un lato documentale e informativo, oltre all'atto formale.
 
 ### Spese, somme e registri dell'UNEP
-L'UNEP non lavora solo sugli atti. Lavora anche con somme, anticipazioni, depositi, indennita, compensi, trasferte e registrazioni. Il capitolo 9 ha gia' spiegato la logica delle spese di giustizia; qui serve il raccordo.
+L'UNEP non lavora solo sugli atti. Lavora anche con somme, anticipazioni, depositi, indennità, compensi, trasferte e registrazioni. Il capitolo 9 ha già spiegato la logica delle spese di giustizia; qui serve il raccordo.
 
-Ogni richiesta puo' avere un profilo economico:
+Ogni richiesta può avere un profilo economico:
 
 - diritti o somme dovute;
 - anticipazioni per notifiche o esecuzioni;
-- indennita di trasferta;
+- indennità di trasferta;
 - deposito di somme;
 - recupero o ripartizione di compensi nei casi previsti;
 - registrazione amministrativo-contabile dell'operazione.
 
-Il candidato non deve indicare importi non verificati. Deve pero' sapere che l'UNEP deve trattare le somme in modo tracciato. Il D.P.R. 1229/1959 contiene anche capi su registri, diritti, percentuali, indennita, anticipazioni, depositi e amministrazione dei proventi. Le risposte operative ministeriali 2025 richiamano temi di compensi, fondo spese d'ufficio, polizze, recuperi e gestione amministrativa.
+Il candidato non deve indicare importi non verificati. Deve però sapere che l'UNEP deve trattare le somme in modo tracciato. Il D.P.R. 1229/1959 contiene anche capi su registri, diritti, percentuali, indennità, anticipazioni, depositi e amministrazione dei proventi. Le risposte operative ministeriali 2025 richiamano temi di compensi, fondo spese d'ufficio, polizze, recuperi e gestione amministrativa.
 
 | Profilo economico | Controllo |
 |---|---|
-| Anticipazione | E' dovuta? da chi? per quale attivita? |
+| Anticipazione | È dovuta? da chi? per quale attività? |
 | Deposito | Va acquisito prima dell'adempimento? |
-| Trasferta | L'attivita richiede spostamento e indennita? |
+| Trasferta | L'attività richiede spostamento e indennità? |
 | Compenso | Riguarda personale UNEP secondo disciplina? |
 | Recupero | Ci sono somme anticipate da recuperare? |
-| Registro | L'entrata o uscita e' tracciata correttamente? |
+| Registro | L'entrata o uscita è tracciata correttamente? |
 
-La frase utile e':
+La frase utile è:
 
-> l'attivita UNEP ha sempre un lato documentale e spesso un lato economico; entrambi devono essere collegati alla richiesta, all'atto e all'esito.
+> l'attività UNEP ha sempre un lato documentale e spesso un lato economico; entrambi devono essere collegati alla richiesta, all'atto e all'esito.
 
 ### Rapporti con cancelleria, avvocati e utenti
-L'UNEP e' un ufficio di confine. Riceve richieste da avvocati, parti, cancellerie, autorita e utenti. Restituisce esiti che possono incidere su fascicoli, udienze, termini, procedure esecutive e spese.
+L'UNEP è un ufficio di confine. Riceve richieste da avvocati, parti, cancellerie, autorità e utenti. Restituisce esiti che possono incidere su fascicoli, udienze, termini, procedure esecutive e spese.
 
-Il rapporto con la cancelleria e' importante. La cancelleria puo' avere bisogno dell'esito di una notifica o di un'esecuzione per aggiornare il fascicolo. L'UNEP puo' avere bisogno di atti, copie, titoli o dati presenti in cancelleria. Tuttavia i ruoli restano distinti.
+Il rapporto con la cancelleria è importante. La cancelleria può avere bisogno dell'esito di una notifica o di un'esecuzione per aggiornare il fascicolo. L'UNEP può avere bisogno di atti, copie, titoli o dati presenti in cancelleria. Tuttavia i ruoli restano distinti.
 
 | Relazione | Punto di attenzione |
 |---|---|
 | Avvocato-UNEP | Richiesta completa, atto, destinatario, spese, urgenza |
 | Parte-UNEP | Orientamento sul servizio senza consulenza legale impropria |
 | Cancelleria-UNEP | Atti, esiti, fascicolo, comunicazioni e registrazioni |
-| Autorita-UNEP | Attivita richiesta da provvedimento o ufficio competente |
+| Autorità-UNEP | Attività richiesta da provvedimento o ufficio competente |
 | Utente fragile | Chiarezza, limiti, rispetto, sicurezza e verbalizzazione |
 
-Un ufficio efficiente non e' quello che "fa tutto subito". E' quello che riceve una richiesta completa, verifica competenza e presupposti, agisce nei tempi e nei limiti, registra l'esito e restituisce informazioni corrette.
+Un ufficio efficiente non è quello che "fa tutto subito". È quello che riceve una richiesta completa, verifica competenza e presupposti, agisce nei tempi e nei limiti, registra l'esito e restituisce informazioni corrette.
 
 ### Digitale e UNEP
-La giustizia digitale tocca anche le notificazioni e le esecuzioni. Il capitolo 12 sviluppera PCT, PPT, fascicolo e depositi telematici. Qui basta fissare il criterio.
+La giustizia digitale tocca anche le notificazioni e le esecuzioni. Il capitolo 12 svilupperà PCT, PPT, fascicolo e depositi telematici. Qui basta fissare il criterio.
 
-Il digitale non trasforma la notifica in un clic senza responsabilita. PEC, domicilio digitale, registri, consultazioni, ricerche telematiche, pagamenti e sistemi informativi richiedono controlli:
+Il digitale non trasforma la notifica in un clic senza responsabilità. PEC, domicilio digitale, registri, consultazioni, ricerche telematiche, pagamenti e sistemi informativi richiedono controlli:
 
 | Elemento digitale | Controllo |
 |---|---|
-| Indirizzo digitale | E' corretto, valido e riferibile al destinatario? |
+| Indirizzo digitale | È corretto, valido e riferibile al destinatario? |
 | Ricevute | Dimostrano invio, consegna o esito secondo disciplina? |
 | Registro | L'esito viene annotato o restituito correttamente? |
 | Pignoramento telematico | Titolo, autorizzazione e dati vanno verificati |
 | Pagamento digitale | Ricevuta, causale e collegamento all'atto |
 | Fascicolo | L'esito deve rientrare nel procedimento corretto |
 
-Il candidato deve evitare due estremi: ignorare il digitale o pensare che il digitale cancelli l'UNEP. In realta, rende piu importante il controllo di identita, canale, ricevuta, tracciamento ed effetto.
+Il candidato deve evitare due estremi: ignorare il digitale o pensare che il digitale cancelli l'UNEP. In realtà, rende più importante il controllo di identità, canale, ricevuta, tracciamento ed effetto.
 
 ### Tavola richiesta-atto-soggetto-ufficio-esito
-L'output centrale del capitolo e' questa tavola.
+L'output centrale del capitolo è questa tavola.
 
 | Richiesta | Atto o presupposto | Soggetto richiedente | Controllo UNEP | Esito |
 |---|---|---|---|---|
 | Notifica atto civile | Atto da notificare e dati destinatario | Avvocato/parte/ufficio | Competenza, destinatario, termini, spese | Relata, ricevuta, mancata notifica |
-| Notifica atto penale | Atto processuale penale | Ufficio/autorita secondo rito | Destinatario, modalita, fase, riservatezza | Esito al fascicolo |
+| Notifica atto penale | Atto processuale penale | Ufficio/autorità secondo rito | Destinatario, modalità, fase, riservatezza | Esito al fascicolo |
 | Pignoramento mobiliare | Titolo e atti preparatori | Creditore/procuratore | Competenza, beni, accesso, spese | Verbale positivo, negativo o rinvio |
-| Pignoramento presso terzi | Titolo, precetto, dati terzo | Creditore/procuratore | Terzo, debitore, dati, modalita | Verbale/esito e seguito |
-| Rilascio/sfratto | Titolo di rilascio | Parte istante | Immobile, soggetti, accesso, assistenza | Verbale di rilascio, rinvio, criticita |
-| Sequestro | Provvedimento o titolo | Autorita/parte legittimata | Oggetto, luogo, custodia | Verbale e affidamento |
+| Pignoramento presso terzi | Titolo, precetto, dati terzo | Creditore/procuratore | Terzo, debitore, dati, modalità | Verbale/esito e seguito |
+| Rilascio/sfratto | Titolo di rilascio | Parte istante | Immobile, soggetti, accesso, assistenza | Verbale di rilascio, rinvio, criticità |
+| Sequestro | Provvedimento o titolo | Autorità/parte legittimata | Oggetto, luogo, custodia | Verbale e affidamento |
 | Riconsegna beni | Titolo o provvedimento | Parte legittimata | Oggetto, luogo, soggetti | Verbale di riconsegna o mancato esito |
-| Offerta reale | Presupposto di adempimento | Debitore/soggetto legittimato | Oggetto, modalita, destinatario | Verbale o esito formale |
+| Offerta reale | Presupposto di adempimento | Debitore/soggetto legittimato | Oggetto, modalità, destinatario | Verbale o esito formale |
 | Protesto | Titolo e mancato pagamento/accettazione | Soggetto legittimato | Titolo, termine, competenza | Atto di protesto |
 
-Questa tabella puo' diventare una risposta orale: "Per ogni attivita UNEP individuo richiesta, atto, soggetto, competenza, controllo, spese ed esito".
+Questa tabella può diventare una risposta orale: "Per ogni attività UNEP individuo richiesta, atto, soggetto, competenza, controllo, spese ed esito".
+
+### Laboratorio operativo: sportello UNEP
+
+Allo sportello arrivano una richiesta di notificazione, una richiesta di pignoramento e una domanda generica di “esecuzione urgente”. Per ciascuna pratica compila la stessa scheda di presa in carico.
+
+| Campo | Controllo |
+|---|---|
+| Richiedente | Identità, qualità, recapiti e potere di presentare la richiesta |
+| Atto o titolo | Documento, copie, attestazioni e allegati necessari |
+| Destinatario o debitore | Generalità, indirizzo, informazioni disponibili e dati da proteggere |
+| Competenza | Ufficio, territorio, tipo di attività e possibili rinvii |
+| Termine | Data dichiarata, fonte e urgenza effettivamente documentata |
+| Spese | Anticipazioni, ricevute e istruzioni vigenti |
+| Esecuzione | Attività richiesta, limiti e sequenza degli adempimenti |
+| Esito | Registrazione, restituzione, comunicazione o richiesta di integrazione |
+
+La domanda generica non va trasformata dall'operatore in una scelta processuale per l'utente. Occorre chiarire l'oggetto, indicare gli elementi mancanti e mantenere distinto l'orientamento sul servizio dalla consulenza legale.
 
 ### Mappa BANDO del capitolo
 Applica il Metodo BANDO all'UNEP.
@@ -373,26 +353,26 @@ Il Metodo BANDO impone di non studiare l'UNEP come lista di mansioni. Bisogna tr
 ### Caso guidato: richiesta di notifica incompleta
 Estratto sintetico:
 
-> Un avvocato deposita all'UNEP una richiesta di notifica urgente, ma l'indirizzo del destinatario e' incompleto e non e' chiaro se l'atto debba essere notificato a persona fisica, societa o difensore.
+> Un avvocato deposita all'UNEP una richiesta di notifica urgente, ma l'indirizzo del destinatario è incompleto e non è chiaro se l'atto debba essere notificato a persona fisica, società o difensore.
 
 Risposta debole:
 
 > L'ufficio prova comunque a notificare.
 
-La risposta e' debole perche ignora qualificazione del destinatario e competenza.
+La risposta è debole perché ignora qualificazione del destinatario e competenza.
 
 | Passaggio | Lettura corretta |
 |---|---|
 | Atto | Verificare quale atto deve essere notificato |
-| Destinatario | Persona, societa, difensore, domicilio, PEC o altro recapito |
-| Urgenza | Verificare scadenza e modalita compatibili |
+| Destinatario | Persona, società, difensore, domicilio, PEC o altro recapito |
+| Urgenza | Verificare scadenza e modalità compatibili |
 | Competenza | Controllare ufficio e territorio |
 | Spese | Verificare anticipazioni o diritti secondo istruzioni vigenti |
 | Esito | Procedere solo con dati sufficienti o richiedere integrazione |
 
 Risposta possibile:
 
-> L'UNEP deve qualificare la richiesta prima dell'attivita. Occorre individuare atto, destinatario, recapito, competenza, urgenza e spese; se i dati sono insufficienti, l'ufficio deve richiedere integrazione o trattare la richiesta secondo le istruzioni vigenti, perche una notifica mal indirizzata puo' produrre esito negativo o contestazioni.
+> L'UNEP deve qualificare la richiesta prima dell'attività. Occorre individuare atto, destinatario, recapito, competenza, urgenza e spese; se i dati sono insufficienti, l'ufficio deve richiedere integrazione o trattare la richiesta secondo le istruzioni vigenti, perché una notifica mal indirizzata può produrre esito negativo o contestazioni.
 
 ### Caso guidato: pignoramento mobiliare
 Estratto sintetico:
@@ -412,7 +392,7 @@ Risposta corretta:
 
 Formula utile:
 
-> Il pignoramento non e' un accesso materiale privo di filtro. E' un atto esecutivo che richiede titolo, richiesta, competenza, individuazione dei beni o del luogo, rispetto dei limiti e verbale dell'attivita svolta.
+> Il pignoramento non è un accesso materiale privo di filtro. È un atto esecutivo che richiede titolo, richiesta, competenza, individuazione dei beni o del luogo, rispetto dei limiti e verbale dell'attività svolta.
 
 ### Caso guidato: esecuzione per rilascio
 Estratto sintetico:
@@ -426,22 +406,22 @@ La risposta deve essere prudente:
 | Titolo | Verificare titolo e atti preparatori |
 | Accesso | Documentare presenza, soggetti e situazione |
 | Beni | Gestire secondo regole e istruzioni applicabili |
-| Fragilita | Segnalare criticita e raccordo con autorita/servizi se previsto |
-| Forza pubblica | Valutare necessita nei limiti dell'organizzazione |
-| Verbale | Descrivere cio' che avviene e l'esito |
+| Fragilità | Segnalare criticità e raccordo con autorità/servizi se previsto |
+| Forza pubblica | Valutare necessità nei limiti dell'organizzazione |
+| Verbale | Descrivere ciò che avviene e l'esito |
 
 Risposta possibile:
 
-> Nel rilascio l'ufficiale giudiziario non esegue un gesto meccanico. Deve operare sulla base del titolo e degli atti, verificare situazione del luogo, soggetti presenti, eventuali beni, criticita e necessita di supporto, lasciando traccia nel verbale e seguendo le istruzioni dell'ufficio.
+> Nel rilascio l'ufficiale giudiziario non esegue un gesto meccanico. Deve operare sulla base del titolo e degli atti, verificare situazione del luogo, soggetti presenti, eventuali beni, criticità e necessità di supporto, lasciando traccia nel verbale e seguendo le istruzioni dell'ufficio.
 
 ### Caso guidato: protesto cambiario
 Estratto sintetico:
 
-> Un candidato afferma che i protesti non riguardano piu l'UNEP perche sono materia commerciale.
+> Un candidato afferma che i protesti non riguardano più l'UNEP perché sono materia commerciale.
 
 Risposta corretta:
 
-> Il protesto resta nel perimetro UNEP quando la disciplina attribuisce all'ufficiale giudiziario la levata del protesto. Il punto non e' studiare diritto commerciale avanzato, ma sapere che il protesto e' l'accertamento formale del mancato pagamento o della mancata accettazione di un titolo, con registrazione ed effetti propri.
+> Il protesto resta nel perimetro UNEP quando la disciplina attribuisce all'ufficiale giudiziario la levata del protesto. Il punto non è studiare diritto commerciale avanzato, ma sapere che il protesto è l'accertamento formale del mancato pagamento o della mancata accettazione di un titolo, con registrazione ed effetti propri.
 
 La trappola sta nel ridurre UNEP alle sole notificazioni.
 
@@ -452,9 +432,9 @@ Estratto sintetico:
 
 La risposta deve distinguere:
 
-| Domanda | Perche conta |
+| Domanda | Perché conta |
 |---|---|
-| Che atto e'? | Non ogni provvedimento segue lo stesso canale |
+| Che atto è? | Non ogni provvedimento segue lo stesso canale |
 | Quale rito? | Procedura civile, penale o altro contesto |
 | Chi deve curare l'adempimento? | Cancelleria, parte, difensore, UNEP o canale telematico |
 | Quale effetto? | Conoscenza, decorrenza termine, impulso, esecuzione |
@@ -462,43 +442,43 @@ La risposta deve distinguere:
 
 Risposta possibile:
 
-> Non ogni conoscenza dell'atto passa dall'UNEP. Occorre distinguere comunicazione di cancelleria, notificazione a cura di parte o ufficio, canale telematico e attivita dell'ufficiale giudiziario. La risposta corretta dipende da atto, rito, destinatario, regola applicabile ed effetto processuale.
+> Non ogni conoscenza dell'atto passa dall'UNEP. Occorre distinguere comunicazione di cancelleria, notificazione a cura di parte o ufficio, canale telematico e attività dell'ufficiale giudiziario. La risposta corretta dipende da atto, rito, destinatario, regola applicabile ed effetto processuale.
 
 ### Da sapere in 5 righe
-- L'UNEP e' l'Ufficio notificazioni, esecuzioni e protesti, istituito presso corti o tribunali.
+- L'UNEP è l'Ufficio notificazioni, esecuzioni e protesti, istituito presso corti o tribunali.
 - L'ufficiale giudiziario cura notificazioni, esecuzioni e protesti; il funzionario UNEP ha anche funzioni organizzative e amministrativo-contabili.
-- Una notificazione richiede atto, destinatario, competenza, modalita, spese ed esito tracciato.
+- Una notificazione richiede atto, destinatario, competenza, modalità, spese ed esito tracciato.
 - Un'esecuzione richiede titolo, richiesta, oggetto, luogo, limiti, verbale e raccordo con il fascicolo.
 - Comunicazione di cancelleria, notificazione, esecuzione e protesto non sono sinonimi.
 
 ### Domanda da commissario
 **Quali sono le funzioni principali dell'UNEP e quali controlli richiedono?**
 
-Una risposta ordinata puo' essere:
+Una risposta ordinata può essere:
 
-1. l'UNEP e' l'ufficio notificazioni, esecuzioni e protesti presso corti e tribunali;
-2. l'ufficiale giudiziario cura notificazioni, attivita esecutive e protesti nei casi previsti;
-3. il funzionario UNEP puo' compiere atti demandati all'ufficiale giudiziario e cura anche profili organizzativi e amministrativo-contabili;
-4. per la notifica si controllano atto, destinatario, competenza, modalita, termini, spese ed esito;
+1. l'UNEP è l'ufficio notificazioni, esecuzioni e protesti presso corti e tribunali;
+2. l'ufficiale giudiziario cura notificazioni, attività esecutive e protesti nei casi previsti;
+3. il funzionario UNEP può compiere atti demandati all'ufficiale giudiziario e cura anche profili organizzativi e amministrativo-contabili;
+4. per la notifica si controllano atto, destinatario, competenza, modalità, termini, spese ed esito;
 5. per l'esecuzione si controllano titolo, richiesta, oggetto, luogo, soggetti, limiti e verbale;
 6. per i protesti si controllano titolo, mancato pagamento o accettazione, competenza e registrazione;
-7. ogni attivita deve raccordarsi con cancelleria, fascicolo, spese e tracciamento.
+7. ogni attività deve raccordarsi con cancelleria, fascicolo, spese e tracciamento.
 
 Chiusura efficace:
 
-> L'UNEP e' il presidio operativo degli atti che devono essere portati a conoscenza, eseguiti o formalmente accertati fuori dal fascicolo, ma sempre dentro regole, competenza e responsabilita dell'ufficio giudiziario.
+> L'UNEP è il presidio operativo degli atti che devono essere portati a conoscenza, eseguiti o formalmente accertati fuori dal fascicolo, ma sempre dentro regole, competenza e responsabilità dell'ufficio giudiziario.
 
 ### Domanda-trappola
-**L'UNEP e' solo l'ufficio che consegna gli atti?**
+**L'UNEP è solo l'ufficio che consegna gli atti?**
 
-Risposta: no. La consegna di atti e' solo una parte dell'attivita di notificazione. L'UNEP cura notificazioni, esecuzioni e protesti; gestisce richieste, competenza, atti, destinatari, accessi, verbali, esiti, somme e raccordi con fascicoli e uffici. Ridurlo a "consegna" cancella la dimensione giuridica e organizzativa del servizio.
+Risposta: no. La consegna di atti è solo una parte dell'attività di notificazione. L'UNEP cura notificazioni, esecuzioni e protesti; gestisce richieste, competenza, atti, destinatari, accessi, verbali, esiti, somme e raccordi con fascicoli e uffici. Ridurlo a "consegna" cancella la dimensione giuridica e organizzativa del servizio.
 
 La trappola misura se il candidato conosce il lavoro reale dell'ufficio o ripete una formula generica.
 
 ### Errore tipico
-L'errore piu frequente e' saltare l'esito.
+L'errore più frequente è saltare l'esito.
 
-Il candidato descrive la richiesta e l'attivita, ma non dice cosa resta dopo:
+Il candidato descrive la richiesta e l'attività, ma non dice cosa resta dopo:
 
 - relata di notifica;
 - ricevuta o esito telematico;
@@ -510,7 +490,7 @@ Il candidato descrive la richiesta e l'attivita, ma non dice cosa resta dopo:
 - registrazione contabile;
 - aggiornamento del fascicolo.
 
-La correzione e' semplice: ogni attivita UNEP va chiusa con una traccia.
+La correzione è semplice: ogni attività UNEP va chiusa con una traccia.
 
 ### Mini-esercizio
 Leggi l'estratto sintetico:
@@ -536,45 +516,61 @@ Soluzione attesa:
 - Pignoramento mobiliare: verificare titolo, atti preparatori, richiesta, luogo, debitore, competenza, spese e limiti; redigere verbale positivo, negativo o di rinvio.
 - Protesto: verificare titolo, mancato pagamento o accettazione, termine, competenza e registrazione dell'atto.
 - Rapporto con cancelleria: restituire o chiarire esito della notifica per aggiornamento del fascicolo, senza confondere comunicazione di cancelleria e notificazione UNEP.
-- Competenza: controllare territorio, ufficio competente e tipo di attivita.
+- Competenza: controllare territorio, ufficio competente e tipo di attività.
 - Spese/anticipazioni: non indicare importi a memoria; verificare istruzioni ufficiali e registrazione.
 - Esito/traccia: relata, verbale, ricevuta, atto di protesto, mancata esecuzione, rinvio o restituzione.
 - Errore da evitare: trattare tutte le richieste come semplice consegna allo sportello.
+
+### Quiz commentato
+
+1. **UNEP significa ufficio notificazioni, esecuzioni e protesti?**
+   - A. Sì
+   - B. No
+   - C. Solo presso le corti d'appello
+   **Risposta corretta: A.** La sigla identifica il servizio specializzato previsto presso gli uffici competenti.
+
+2. **Una richiesta di notifica incompleta va eseguita comunque?**
+   - A. Sì
+   - B. No, occorre verificare gli elementi necessari
+   - C. Solo se urgente
+   **Risposta corretta: B.** Atto, destinatario, territorio, copie e termine devono essere qualificati.
+
+3. **Pignoramento e notifica sono la stessa attività?**
+   - A. Sì
+   - B. No
+   - C. Solo nel penale
+   **Risposta corretta: B.** La notifica porta un atto a conoscenza; il pignoramento appartiene all'esecuzione forzata.
+
+4. **La competenza territoriale può essere ignorata?**
+   - A. Sì
+   - B. No
+   - C. Solo per i protesti
+   **Risposta corretta: B.** Il corretto ufficio e il luogo dell'adempimento sono controlli preliminari.
+
+5. **Il funzionario UNEP e l'ufficiale giudiziario hanno sempre mansioni identiche?**
+   - A. Sì
+   - B. No
+   - C. Solo nei tribunali piccoli
+   **Risposta corretta: B.** Fonti ordinamentali e contrattuali distinguono compiti e responsabilità.
+
+6. **Che cosa chiude correttamente il flusso?**
+   - A. La restituzione o registrazione dell'esito
+   - B. La sola ricezione della richiesta
+   - C. Una comunicazione informale
+   **Risposta corretta: A.** L'esito deve essere tracciato e collegato all'atto e al richiedente.
 
 ### Checklist di ripasso
 Prima di passare al capitolo 12, verifica:
 
 - So spiegare che cosa significa UNEP?
 - So distinguere funzione di cancelleria, UPP e UNEP?
-- So indicare le attivita essenziali dell'ufficiale giudiziario?
+- So indicare le attività essenziali dell'ufficiale giudiziario?
 - So descrivere il ruolo del funzionario UNEP senza confonderlo con un semplice addetto allo sportello?
-- So impostare una notifica partendo da atto, destinatario, competenza, modalita ed esito?
+- So impostare una notifica partendo da atto, destinatario, competenza, modalità ed esito?
 - So impostare un'esecuzione partendo da titolo, richiesta, oggetto, luogo e verbale?
 - So distinguere pignoramento, rilascio/sfratto, sequestro, riconsegna e offerta reale?
-- So dire che cosa e' il protesto in termini essenziali?
+- So dire che cosa è il protesto in termini essenziali?
 - So collegare UNEP, spese, anticipazioni, registri e capitolo 9?
 - So evitare importi, formule e termini non verificati?
 
-Se una risposta e' incerta, registrala nel diario errori. Le etichette utili sono: "UNEP come consegna", "notifica/comunicazione confuse", "titolo ignorato", "competenza saltata", "spese a memoria", "verbale mancante", "protesti ignorati", "digitale come automatismo".
-
-### Riferimenti consolidati
-- [[sources/cancelleria-spese-casellario-unep-m-fc04]]
-- [[sources/giustizia-digitale-pct-ppt-m-fc04]]
-- [[sources/bandi-rappresentativi-vol-04-giustizia-upp]]
-- [[sources/vol-04-dossier-redazionale-giustizia-upp]]
-- [[sources/vol-04-fonti-ufficiali-scaricate-2026-07-17]]
-- [[topics/giustizia-e-upp]]
-- [[entities/ministero-della-giustizia]]
-- [[entities/unep]]
-- [[books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria]]
-- [[books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria]]
-- [[books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni]]
-- [[books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero]]
-
-### Note di review
-- Prima della pubblicazione verificare il testo vigente del D.P.R. 15 dicembre 1959, n. 1229 su Normattiva e le modifiche successive.
-- Verificare sul Ministero della giustizia la pagina UNEP, il mansionario richiamato, le risposte operative aggiornate in materia di notificazioni, esecuzioni e protesti, e le eventuali circolari successive al 2 dicembre 2025.
-- Per notificazioni civili e penali verificare sempre codice di procedura civile, codice di procedura penale, norme speciali, regole telematiche e istruzioni DGSIA/PST applicabili.
-- Per esecuzioni, pignoramenti, rilasci, sequestri, offerte reali e protesti verificare termini, competenza, documenti, formule, registri e prassi dell'ufficio competente.
-- Per spese, anticipazioni, depositi, indennita, compensi e trasferte non inserire importi o calcoli senza controllo su D.P.R. 1229/1959, TUSG, CCNL, circolari e risposte ministeriali aggiornate.
-- Il capitolo 12 sviluppera in modo organico la giustizia digitale, PCT, processo penale telematico e fascicolo.
+Se una risposta è incerta, registrala nel diario errori. Le etichette utili sono: "UNEP come consegna", "notifica/comunicazione confuse", "titolo ignorato", "competenza saltata", "spese a memoria", "verbale mancante", "protesti ignorati", "digitale come automatismo".

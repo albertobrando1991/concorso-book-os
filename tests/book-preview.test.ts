@@ -53,6 +53,11 @@ describe("book preview assets", () => {
       expect(calloutBlock?.calloutType).toBe("warning")
       expect(calloutBlock?.title).toBe("Errore tipico")
       expect(calloutBlock?.text).toContain("priorita operative")
+      expect(data.chapters[0].blocks).not.toContainEqual({
+        type: "heading",
+        level: 1,
+        text: "Il nuovo candidato pubblico"
+      })
       expect(JSON.stringify(data.chapters[0].blocks)).not.toContain("riservata allo staff editoriale")
       expect(data.assets.map((asset) => asset.path)).toContain(
         "books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png"

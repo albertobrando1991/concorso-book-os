@@ -1,0 +1,4476 @@
+{
+  "volumeCode": "VOL-06",
+  "specPath": "books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/00-scheda-pipeline.md",
+  "specHash": "sha256:16427224662897bef0b1fd8136b11d66ca67ce581e7018439ad596054c09e1fa",
+  "createdAt": "2026-07-29T16:31:35.732Z",
+  "updatedAt": "2026-08-04T10:31:42.648Z",
+  "steps": [
+    {
+      "key": "05:moduli/m-ir01-scuola",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir01-scuola",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:41:14.905Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: interpretato il campione del dossier come sei procedure complessive rappresentative per M-IR01. Corpus, ricorrenze, differenze e lacune documentati; requisiti e programmi puntuali restano review_required."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T16:49:43.481Z"
+    },
+    {
+      "key": "06:moduli/m-ir01-scuola",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir01-scuola",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:49:44.232Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: matrice fonti prodotta per tutti i nuclei M-IR01, con fonti Normattiva/MIM/ARAN, collegamenti a topic ed entity, conflitti e parti mobili esplicitati."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T16:52:43.723Z"
+    },
+    {
+      "key": "07:moduli/m-ir01-scuola",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir01-scuola",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:52:44.458Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T16:54:47.408Z"
+    },
+    {
+      "key": "05:moduli/m-ir02-universita-afam",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:55:02.449Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure ufficiali/istituzionali rappresentative complessive per M-IR02 consolidate. Ricorrenze, differenze e lacuna tecnico di laboratorio registrate; PDF, allegati e dati mobili restano review_required."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T16:58:06.758Z"
+    },
+    {
+      "key": "06:moduli/m-ir02-universita-afam",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:58:07.742Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, MUR, ANVUR e source note wiki mappate su tutti i 12 capitoli; collegamenti a topic/entity, conflitti e parti mobili registrati."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:01:47.622Z"
+    },
+    {
+      "key": "07:moduli/m-ir02-universita-afam",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:01:49.081Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:03:19.594Z"
+    },
+    {
+      "key": "05:moduli/m-ir03-enti-ricerca",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:04:14.303Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure complessive CNR, INFN, ISTAT e ponte grant consolidate. Ricorrenze e differenze registrate; lacuna di un bando grant manager EPR autonomo mantenuta come review ad alta priorita."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:05:46.612Z"
+    },
+    {
+      "key": "06:moduli/m-ir03-enti-ricerca",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:08:08.814Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, EUR-Lex e istituzionali CNR/INFN/ISTAT mappate sui nuclei M-IR03. Parti mobili e lacuna grant manager EPR autonomo esplicitate."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:09:34.611Z"
+    },
+    {
+      "key": "07:moduli/m-ir03-enti-ricerca",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:09:35.979Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:13:44.376Z"
+    },
+    {
+      "key": "05:moduli/m-ir04-cultura-beni-culturali",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:16:31.129Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure complessive MiC/RIPAM/inPA consolidate. Ricorrenze e confini editoriali registrati; programma, modifiche e riapertura del MiC 577 restano review_required."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:18:00.509Z"
+    },
+    {
+      "key": "06:moduli/m-ir04-cultura-beni-culturali",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:18:47.847Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, MiC e istituti centrali mappate su tutti i nuclei M-IR04. Bandi 577 e 1.800, CCNL, standard e giurisprudenza restano review_required."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:20:02.791Z"
+    },
+    {
+      "key": "07:moduli/m-ir04-cultura-beni-culturali",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:20:04.032Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:21:46.550Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:22:35.846Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano separato del capitolo 01 salvato con nuclei, fonti, rinvii, struttura H1-H3, budget KDP, casi, verifiche e review richieste. Il gate chapter-plan non e ancora implementato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T17:23:42.363Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:23:43.494Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:25:01.609Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:25:08.594Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:25:09.687Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:25:18.873Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:25:46.611Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:27:11.045Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:29:11.660Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:29:49.025Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo del capitolo 02 redatto a partire da matrice, fonti consolidate, topic e confini VOL-01; gate chapter-plan non implementato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T17:31:04.212Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:34:53.373Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:36:53.677Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:37:00.947Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:37:34.084Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:37:42.262Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:38:24.072Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:38:31.613Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:39:19.405Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:40:15.720Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo del capitolo 03 redatto da matrice, fonti consolidate, topic, indice e capitoli 01-02; gate chapter-plan non implementato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T17:41:17.529Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:49:00.284Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:50:36.594Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:50:43.081Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:51:14.427Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:51:22.059Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:51:53.683Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:52:00.455Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:16:56.475Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:23:34.883Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo del capitolo 04 redatto da matrice, fonti consolidate, indice e capitoli M-IR01 precedenti; gate chapter-plan non implementato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T18:24:23.072Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:26:59.324Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:28:29.681Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:28:36.008Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:29:09.362Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:29:16.844Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:29:48.588Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:29:55.295Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:30:47.595Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:35:08.326Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo del capitolo 05 redatto da matrice, fonti consolidate scuola e PA digitale, corpus bandi e confini VOL-01; gate chapter-plan non implementato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T18:35:53.167Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:38:30.594Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:40:33.592Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:40:49.985Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:41:25.139Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:41:36.638Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:42:18.107Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:42:31.014Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S01: stato \"facoltativo\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir01-scuola-chapters-05-segreteria-ata-alunni-protocollo-carriere-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T18:43:29.675Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:43:43.321Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo completato e verificato manualmente: nuclei, confini, fonti, struttura KDP, caso, domande, esercizio e review umane sono esplicitati; il gate chapter-plan non e automatizzato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T18:44:38.894Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:45:50.477Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:47:32.396Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:47:41.955Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:48:12.844Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:48:13.324Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T18:48:43.750Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:48:44.649Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S01: stato \"facoltativo\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir01-scuola-chapters-06-dsga-eq-ruolo-uffici-personale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T18:49:31.986Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T18:49:46.763Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo completato e verificato manualmente: il ciclo contabile, i confini con i capitoli adiacenti, fonti, struttura KDP, caso, domande, esercizio e review umane sono esplicitati; il gate chapter-plan non e automatizzato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T18:50:33.008Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T19:04:31.638Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T19:06:09.277Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T19:06:18.366Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T19:06:48.436Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T19:06:48.828Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T19:07:14.620Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T19:07:14.993Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S01: stato \"facoltativo\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir01-scuola-chapters-07-contabilita-scolastica-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T19:08:05.283Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T19:20:23.303Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo completato e verificato manualmente: nuclei, confini con VOL-01 e capitoli adiacenti, fonti, struttura KDP, caso, domande, esercizio e review umane sono esplicitati; il gate chapter-plan non e automatizzato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T19:21:13.820Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T19:24:21.712Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T19:26:01.616Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T19:33:22.651Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T19:35:33.175Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:20:07.745Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T20:21:23.215Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:22:45.339Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S01: stato \"facoltativo\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir01-scuola-chapters-08-acquisti-inventario-pnrr-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T20:23:53.889Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:25:00.888Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano verificato manualmente: nucleo DS, confini con VOL-01 e capitoli 02-08, caso, output, fonti e review umane sono definiti nel piano del capitolo 09."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T20:26:25.287Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:30:53.527Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T20:32:50.820Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:36:40.673Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T20:37:15.803Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:40:09.999Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T20:41:03.840Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:42:20.359Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S01: stato \"facoltativo\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir01-scuola-chapters-09-dirigente-scolastico-leadership-management-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T20:43:19.309Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:45:16.030Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano verificato manualmente: nucleo DS/DSGA-EQ, confini con VOL-01 e capitoli 03, 06 e 09, scenario, output, fonti e review umane sono definiti nel piano del capitolo 10."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T20:46:17.388Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:48:27.241Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T20:50:18.066Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:51:07.868Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T20:51:43.155Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:55:37.009Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T20:56:29.956Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:57:35.271Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S01: stato \"facoltativo\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir01-scuola-chapters-10-relazioni-sindacali-sicurezza-responsabilita-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T20:58:32.473Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T20:59:32.332Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano verificato manualmente: nucleo docente, confini con capitoli 04, 12, 13 e VOL-01, caso e output sono definiti; il piano registra la necessaria consolidazione di fonti pedagogiche, psicologiche e inclusive prima della scrittura finale."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T21:01:19.236Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:09:46.957Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T21:12:15.617Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:17:55.827Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T21:19:18.167Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:22:37.196Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T21:23:13.717Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:27:21.485Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir01-scuola-chapters-11-pedagogia-psicologia-inclusione-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir01-scuola-chapters-11-pedagogia-psicologia-inclusione-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T21:28:13.938Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:30:51.568Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo completato: nuclei, confini con capitoli 11/13, struttura workbook, casi, output e fonti mappati. Piano approvato con source review obbligatoria su valutazione per segmento e strumenti digitali prima della redazione."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T21:32:22.251Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:36:55.609Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T21:38:37.135Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:40:18.682Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T21:40:55.171Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:43:41.029Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T21:44:27.882Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:46:23.286Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T21:47:10.615Z"
+    },
+    {
+      "key": "08:moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:47:47.098Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo completato: nuclei, confini con capitoli 11/12, struttura di progettazione e lezione simulata, casi, output, fonti e review umana sul bando concreto mappati. Approvato con source review obbligatoria su durata, criteri, classe/posto e prova pratica."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-29T21:49:01.934Z"
+    },
+    {
+      "key": "09:moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:53:57.822Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T21:55:36.559Z"
+    },
+    {
+      "key": "10:moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T21:58:53.325Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T22:00:49.661Z"
+    },
+    {
+      "key": "11:moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T22:06:00.595Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T22:06:45.621Z"
+    },
+    {
+      "key": "12:moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "status": "done",
+      "attempts": 0,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T22:08:18.354Z"
+    },
+    {
+      "key": "13:moduli/m-ir01-scuola",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir01-scuola",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T22:09:18.424Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T22:10:46.802Z"
+    },
+    {
+      "key": "14:moduli/m-ir01-scuola",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir01-scuola",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T22:12:20.219Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T22:13:55.481Z"
+    },
+    {
+      "key": "15:moduli/m-ir01-scuola",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir01-scuola",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T14:48:46.760Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"human-signoff\" dello step 15 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Pacchetto di review umana specialistica predisposto con checklist puntuale su claim normativi, procedure, dati mobili, casi, fonti e limiti. Chiusura manuale richiesta dal flusso: nessuna correzione applicata senza esito firmato; review_required resta attivo."
+          }
+        ],
+        "notImplemented": [
+          "human-signoff"
+        ]
+      },
+      "finishedAt": "2026-07-31T14:50:13.079Z"
+    },
+    {
+      "key": "16:moduli/m-ir01-scuola",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir01-scuola",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:10:08.124Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir01-scuola"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Manifest di text freeze creato con elenco dei capitoli e dei documenti di governo, hash SHA-256 e commit di riferimento. Copertura, Humanizer, revisioni e correzioni verificate; la review specialistica resta tracciata come chiusura manuale con review_required attivo sulle fonti mobili."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-07-31T15:11:42.233Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:14:16.145Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo verificato: nucleo, confini con capitoli 02-11 e VOL-01, struttura KDP, caso, output, fonti consolidate e review umana per bando/statuti/regolamenti sono mappati. Il capitolo non ? stato modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-31T15:15:44.402Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:19:18.639Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T15:20:59.679Z"
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:25:57.523Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T15:26:31.300Z"
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:39:36.572Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T15:49:08.668Z"
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:55:01.433Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T15:55:39.637Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T15:57:43.782Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano presente nel percorso di planning, include nuclei assegnati/completi/da sviluppare, sezioni da conservare, confini e duplicazioni, casi/domande/esercizi, fonti consolidate, review umane, struttura H1-H3 e budget KDP; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-31T15:59:10.107Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:03:53.201Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T16:05:26.958Z"
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:18:28.893Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T16:19:05.688Z"
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:27:42.304Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T16:28:31.205Z"
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:34:48.256Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T16:35:40.341Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:52:27.552Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano nel percorso planning con nuclei assegnati/completi/da sviluppare, continuita con capitoli 01-02, confini e rinvii precisi, duplicazioni da evitare, casi/domande/esercizi, fonti consolidate, limiti informativi, review umane, struttura H1-H3 e budget KDP; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-31T16:53:28.830Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:54:00.381Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T16:56:22.529Z"
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T17:02:36.543Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T17:03:09.711Z"
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T17:06:44.782Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T17:07:12.449Z"
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T17:07:53.804Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-31T17:08:38.494Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T17:15:41.932Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano presente nel planning con nuclei, stato, confini, rinvii, duplicazioni, struttura H1-H3, budget KDP, caso, domanda, esercizio, fonti consolidate, limiti su soglie/importi e review umane; capitolo non modificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-07-31T17:16:31.334Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T18:50:30.342Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T18:52:25.963Z"
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:04:49.371Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:05:54.687Z"
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:22:00.188Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:23:07.636Z"
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:25:05.031Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:26:04.721Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:29:42.136Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano presente con nuclei assegnati e da sviluppare, confini e rinvii precisi al VOL-01, struttura H1/H2/H3, budget KDP, caso, esercizio, fonti consolidate e review umane; nessun placeholder e git diff --check superato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-03T19:31:31.176Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:32:22.963Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:34:25.386Z"
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:36:14.687Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:36:59.466Z"
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:40:45.972Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:41:41.865Z"
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:43:41.356Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:44:35.890Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:45:27.105Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano presente con nuclei contabili assegnati e da sviluppare, confini precisi con VOL-01 e capitoli 02/04/05/07/08/11, struttura H1/H2/H3, budget KDP, caso scostamento, nota contabile, fonti consolidate e review umane; nessun placeholder e git diff --check superato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-03T19:46:56.136Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:49:08.072Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:51:36.866Z"
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:55:38.399Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:56:36.185Z"
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T19:57:30.280Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T19:58:25.634Z"
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-03T20:02:17.388Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-03T20:03:12.871Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T07:23:04.146Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano approvato dall'utente e verificato manualmente: copre nuclei assegnati, stato delle fonti, confini, struttura H1/H2/H3, budget KDP, casi, output concorsuali e review umane; nessun placeholder o ambiguita' bloccante."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T07:44:56.435Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T08:21:26.398Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T08:23:25.098Z"
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T08:27:51.641Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T08:28:33.568Z"
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T08:29:39.830Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T08:30:41.835Z"
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T08:39:37.016Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T08:40:51.697Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T09:14:52.891Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano approvato e verificato manualmente: confronto PRIN-Horizon-PNRR, catena ammissibilita-monitoraggio-rendicontazione-controllo-audit, checklist e review coperte. Blocker fonti risolto con due source note primarie/istituzionali consolidate e collegate al wiki."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T09:41:36.063Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T09:54:28.809Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T09:56:22.205Z"
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T09:59:29.262Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T10:00:14.033Z"
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T10:04:38.361Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T10:05:41.079Z"
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T10:12:05.884Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-04T10:12:55.767Z"
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-04T10:29:54.203Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: nuclei assegnati/completi/da sviluppare, sezioni da conservare, confini e duplicazioni, casi ed esercizi, fonti, review umane, struttura H1-H3 e budget KDP presenti; capitolo non modificato. Consolidamento specialistico esplicitato prima dello step 09."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-04T10:31:42.648Z"
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-ir02-universita-afam",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-ir02-universita-afam",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-ir02-universita-afam",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-ir02-universita-afam",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-ir03-enti-ricerca",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-ir03-enti-ricerca",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-ir03-enti-ricerca",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-ir03-enti-ricerca",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "id": "08",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "id": "09",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "id": "10",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "id": "11",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "id": "12",
+      "phase": "C",
+      "scope": "chapter",
+      "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "13:moduli/m-ir04-cultura-beni-culturali",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "14:moduli/m-ir04-cultura-beni-culturali",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "15:moduli/m-ir04-cultura-beni-culturali",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "16:moduli/m-ir04-cultura-beni-culturali",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "04:VOL-06",
+      "id": "04",
+      "phase": "B",
+      "scope": "volume",
+      "target": "VOL-06",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "21:VOL-06",
+      "id": "21",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-06",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "22:VOL-06",
+      "id": "22",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-06",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "23:VOL-06",
+      "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-06",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    }
+  ]
+}
