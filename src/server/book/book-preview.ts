@@ -190,10 +190,15 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       : "chapter"
     const outlineSection = String(parsed.data.outline_section || "")
     const bookScope = resolveBookStudioScope(bookId, sectionType, outlineSection)
+    const title = String(parsed.data.title || titleFromPath(file))
+    const parsedBlocks = markdownToBlocks(preview.markdown, file)
+    const blocks = sectionType === "chapter" && isDuplicateChapterTitle(parsedBlocks[0], title)
+      ? parsedBlocks.slice(1)
+      : parsedBlocks
 
     return {
       path: file,
-      title: String(parsed.data.title || titleFromPath(file)),
+      title,
       outlineSection,
       bookScope,
       sectionType,
@@ -207,7 +212,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
       sourceRefs: asStringArray(parsed.data.source_refs),
       wordCount: countWords(preview.markdown),
       contentState: sectionType === "front_matter" && preview.state !== "structure" ? "written" : preview.state,
-      blocks: markdownToBlocks(preview.markdown, file)
+      blocks
     }
   }))
   const chapters = loadedChapters.filter((chapter): chapter is BookStudioChapter => chapter !== null)
@@ -1210,6 +1215,12 @@ function extractHeadingSection(content: string, heading: string) {
   }
 
   return lines.slice(start + 1, end).join("\n").trim()
+}
+
+function isDuplicateChapterTitle(block: MarkdownBlock | undefined, title: string) {
+  return block?.type === "heading"
+    && block.level === 1
+    && normalizeIndexText(block.text || "") === normalizeIndexText(title)
 }
 
 function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[] {
