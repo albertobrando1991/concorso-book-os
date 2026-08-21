@@ -427,6 +427,22 @@ function reopenStartKeys(state: RunState, spec: VolumeSpec, context: Context) {
   const moduleCode = context.args.module?.trim()
   const chapter = context.args.chapter?.trim()
 
+  const definition = requireStepDefinition(stepId)
+
+  if (definition.scope === "volume") {
+    if (moduleCode || chapter) {
+      throw new Error("Lo step " + stepId + " is volume-scoped: remove --module and --chapter.")
+    }
+
+    const startKeys = state.steps.filter((step) => step.id === stepId && step.scope === "volume").map((step) => step.key)
+
+    if (!startKeys.length) {
+      throw new Error("Step " + stepId + " is not present in the run-state of " + state.volumeCode + ".")
+    }
+
+    return startKeys
+  }
+
   if (!moduleCode && !chapter) {
     throw new Error("pipeline reopen richiede --module o --chapter per risolvere i target dichiarati nella scheda del volume.")
   }
@@ -439,7 +455,6 @@ function reopenStartKeys(state: RunState, spec: VolumeSpec, context: Context) {
     throw new Error(`Modulo ${moduleCode} non dichiarato nella scheda di ${spec.volumeCode}.`)
   }
 
-  const definition = requireStepDefinition(stepId)
   let targets: string[]
 
   if (definition.scope === "chapter") {

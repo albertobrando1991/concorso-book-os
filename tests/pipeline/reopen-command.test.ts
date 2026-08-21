@@ -44,10 +44,10 @@ describe.sequential("pipeline reopen command", () => {
         command: "reopen",
         volumeCode: "VOL-08",
         startKeys: expectedStartKeys,
-        reopened: [stepKey("08", chapterOne), stepKey("09", chapterOne), stepKey("08", chapterTwo), stepKey("09", chapterTwo), stepKey("13", moduleId)]
+        reopened: [stepKey("08", chapterOne), stepKey("09", chapterOne), stepKey("08", chapterTwo), stepKey("09", chapterTwo), stepKey("13", moduleId), stepKey("21", "VOL-08")]
       }
     })
-    expect(updated.steps.map((step) => step.status)).toEqual(["pending", "pending", "pending", "pending", "pending", "pending"])
+    expect(updated.steps.map((step) => step.status)).toEqual(["pending", "pending", "pending", "pending", "pending", "pending", "pending"])
     expect(updated.steps[0].evidence).toContain("reopen: Retrofit formato 2 autorizzato")
     expect(updated.steps[2].evidence).toContain("reopen: Retrofit formato 2 autorizzato")
     expect(await readFile(path.join(fixtureRoot, "pipeline", "VOL-99", "run-state.json"), "utf8")).toBe('{"sentinel":true}\n')
@@ -67,6 +67,22 @@ describe.sequential("pipeline reopen command", () => {
     )
 
     expect(result.payload).toMatchObject({ startKeys: [stepKey("08", chapterTwo)] })
+  })
+
+
+  it("reopens a volume-scoped step without requiring a module or chapter", async () => {
+    const result = await runCommand(
+      parseArgs(["reopen", "VOL-08", "--step", "21", "--cascade", "--note", "Ripetere la revisione finale"])
+    )
+
+    expect(result.payload).toMatchObject({
+      startKeys: [stepKey("21", "VOL-08")],
+      reopened: [stepKey("21", "VOL-08")]
+    })
+    expect((await readState("VOL-08")).steps.find((step) => step.key === stepKey("21", "VOL-08"))).toMatchObject({
+      status: "pending",
+      evidence: ["complete.json", "reopen: Ripetere la revisione finale"]
+    })
   })
 
   it.each([
@@ -107,6 +123,7 @@ function completedState() {
     draft("08", "C", "chapter", chapterTwo),
     draft("09", "C", "chapter", chapterTwo),
     draft("13", "D", "module", moduleId),
+    draft("21", "F", "volume", "VOL-08"),
     draft("24", "F", "volume", "VOL-08")
   ]
   const initial = createRunState({ volumeCode: "VOL-08", specPath: "fixture", specHash: "sha256:fixture", steps: drafts, now })
