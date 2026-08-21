@@ -336,7 +336,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md"
           },
           {
@@ -449,7 +449,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md"
           },
           {
@@ -562,7 +562,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md"
           },
           {
@@ -675,7 +675,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md"
           },
           {
@@ -788,7 +788,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md"
           },
           {
@@ -907,7 +907,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md"
           },
           {
@@ -1026,7 +1026,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md"
           },
           {
@@ -1145,7 +1145,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md"
           },
           {
@@ -1264,7 +1264,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md"
           },
           {
@@ -1383,7 +1383,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md"
           },
           {
@@ -1502,7 +1502,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md"
           },
           {
@@ -1626,7 +1626,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md"
           },
           {
@@ -1739,7 +1739,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md"
           },
           {
@@ -1888,7 +1888,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"human-signoff\" dello step 15 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"human-signoff\" dello step 15 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola"
           },
           {
@@ -1921,7 +1921,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"text-freeze\" dello step 16 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola"
           },
           {
@@ -1954,12 +1954,12 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md"
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Piano operativo verificato: nucleo, confini con capitoli 02-11 e VOL-01, struttura KDP, caso, output, fonti consolidate e review umana per bando/statuti/regolamenti sono mappati. Il capitolo non è stato modificato."
+            "message": "Chiusura manuale di Anton: Piano operativo verificato: nucleo, confini con capitoli 02-11 e VOL-01, struttura KDP, caso, output, fonti consolidate e review umana per bando/statuti/regolamenti sono mappati. Il capitolo non ? stato modificato."
           }
         ],
         "notImplemented": [
@@ -2067,7 +2067,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md"
           },
           {
@@ -2180,7 +2180,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md"
           },
           {
@@ -2293,7 +2293,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md"
           },
           {
@@ -2406,7 +2406,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md"
           },
           {
@@ -2519,7 +2519,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md"
           },
           {
@@ -2632,7 +2632,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md"
           },
           {
@@ -2745,7 +2745,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md"
           },
           {
@@ -2858,7 +2858,7 @@
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"chapter-plan\" dello step 08 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md"
           },
           {

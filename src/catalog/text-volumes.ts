@@ -1,6 +1,12 @@
 export type TextVolumeTier = "base" | "standard" | "vertical" | "premium"
 export type TextLaunchWave = "foundation" | "first" | "second" | "third" | "continuous"
 
+export interface TextVolumeDigitalIntroduction {
+  summary: string
+  topics: string[]
+  whyDifferent: string
+}
+
 export interface TextVolume {
   code: string
   title: string
@@ -12,6 +18,7 @@ export interface TextVolume {
   audience: string
   promise: string
   verticals: string[]
+  digitalIntroduction?: TextVolumeDigitalIntroduction
   /**
    * Book id of a volume-level book holding chapters that open (low outline_section,
    * e.g. "how to use this volume") or close (outline_section >= 50, e.g. a final
@@ -33,7 +40,20 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
     bookIds: ["il-metodo-bando"],
     audience: "Tutti i candidati ai concorsi pubblici",
     promise: "Metodo, materie comuni essenziali, prove e strumenti riusabili.",
-    verticals: ["B-PA01/B-PA11", "Ricettario digitale collegato", "Bando Decoder e planner"]
+    verticals: ["B-PA01/B-PA11", "Ricettario digitale collegato", "Bando Decoder e planner"],
+    digitalIntroduction: {
+      summary:
+        "Il Manuale base PA è il punto di partenza della collana per chi prepara concorsi pubblici in amministrazioni e profili diversi. Accompagna il candidato dalla lettura del bando alla costruzione del piano, dallo studio delle materie comuni all'allenamento delle prove, fino al ripasso e alla gestione di più selezioni. L'obiettivo non è aggiungere un altro insieme di nozioni, ma dare ordine alla preparazione: capire che cosa studiare, con quale profondità, in quale sequenza e come verificare i progressi. Al termine, il lettore dispone di un nucleo riutilizzabile di conoscenze e di un metodo per adattarlo ai contenuti specifici del concorso scelto.",
+      topics: [
+        "Come leggere il bando, riconoscere prove, materie e priorità e trasformare queste informazioni in un piano di studio da 30, 60 o 90 giorni.",
+        "Il nucleo comune dei concorsi pubblici: Costituzione, diritto amministrativo, pubblico impiego, trasparenza, anticorruzione, privacy, contabilità e contratti pubblici essenziali.",
+        "Le competenze trasversali richieste nelle prove: logica, comprensione del testo, informatica, inglese e quesiti situazionali.",
+        "Come affrontare quiz, prova scritta, casi pratici e colloquio orale con tecniche, simulazioni e strategie di risposta.",
+        "Come usare il diario degli errori, il ripasso, le checklist e il Ricettario operativo per adattare il metodo a profili e concorsi diversi."
+      ],
+      whyDifferent:
+        "Questo non è un manuale da leggere in ordine e dimenticare dopo una prova. Integra teoria essenziale, metodo e strumenti operativi: parte dal bando, assegna priorità alle materie, trasforma ogni capitolo in attività verificabili e conserva ciò che impari come base per i concorsi successivi. Invece di accumulare materiali, costruisci un sistema personale che collega studio, quiz, errori, simulazioni e ripasso. Il risultato è una preparazione modulare: il nucleo comune resta, mentre cambiano soltanto gli approfondimenti richiesti dal profilo specifico."
+    }
   },
   {
     code: "VOL-02",

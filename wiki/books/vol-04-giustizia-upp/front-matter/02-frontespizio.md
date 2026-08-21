@@ -2,12 +2,12 @@
 id: vol-04-fm-02-frontespizio
 type: book_front_matter
 title: "Frontespizio"
-status: source_ready
+status: reviewed
 book_id: vol-04-giustizia-upp
 volume_code: VOL-04
 order: 2
 canonical: true
-review_required: true
+review_required: false
 ---
 
 # VOL-04
@@ -16,7 +16,7 @@ review_required: true
 
 ## Manuale specialistico per concorsi nel sistema Giustizia
 
-Addetti UPP, funzionari giudiziari, cancellerie, UNEP, DAP, DGMC, giustizia minorile, giustizia di comunita e amministrazione penitenziaria.
+Addetti UPP, funzionari giudiziari, cancellerie, UNEP, DAP, DGMC, giustizia minorile, giustizia di comunità e amministrazione penitenziaria.
 
 ### Collana Metodo BANDO
 

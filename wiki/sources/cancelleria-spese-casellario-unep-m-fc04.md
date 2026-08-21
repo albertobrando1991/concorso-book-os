@@ -6,7 +6,7 @@ status: processed
 domain: "concorsi pubblici italiani"
 topics: ["cancelleria", "spese di giustizia", "casellario", "unep", "ufficiale giudiziario"]
 entities: ["Cancelleria giudiziaria", "UNEP", "Ufficiale giudiziario", "Casellario giudiziale"]
-source_refs: ["sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md"]
+source_refs: ["sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md", "sources/vol-04-aggiornamento-normativo-2026-08-18.md"]
 book_refs: ["m-fc04-giustizia", "vol-04-giustizia-upp"]
 confidence: 0.9
 updated_at: 2026-07-18T19:55:00+02:00

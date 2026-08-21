@@ -9,11 +9,11 @@ entities: ["Pubblica amministrazione"]
 source_refs: []
 book_refs: ["il-metodo-bando"]
 confidence: 0.92
-updated_at: "2026-05-25T21:25:00+02:00"
+updated_at: 2026-08-18
 created_at: "2026-05-25T21:25:00+02:00"
 review_required: false
 canonical: true
-tags: ["source","law","normattiva","sanzioni-amministrative"]
+tags: ["source", "law", "normattiva", "sanzioni-amministrative", "step-15"]
 source_type: law
 source_url: "https://www.normattiva.it/eli/stato/LEGGE/1981/11/24/689/CONSOLIDATED"
 source_date: "1981-11-24"

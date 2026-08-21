@@ -9,11 +9,11 @@ entities: ["PNRR", "MEF", "Ragioneria generale dello Stato", "Soggetto attuatore
 source_refs: ["sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md"]
 book_refs: ["m-fl02-regioni-province-citta-metropolitane"]
 confidence: 0.9
-updated_at: 2026-07-20T12:45:00+02:00
+updated_at: 2026-08-18
 created_at: 2026-07-17T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["source", "pnrr", "regis", "dnsh", "monitoraggio"]
+tags: ["source", "pnrr", "regis", "dnsh", "monitoraggio", "step-15"]
 source_type: consolidated_official_sources
 source_url: "https://www.funzionepubblica.gov.it/it/il-dipartimento/notizie-del-dipartimento/la-piattaforma-regis-per-il-next-generation-eu-funzionalita-e-strutturazione/"
 official_reference_url: "https://www.funzionepubblica.gov.it/it/il-dipartimento/la-struttura/uffici/unita-di-missione-per-il-coordinamento-attuativo-del-pnrr/pnrr-documenti/"
@@ -32,7 +32,7 @@ Questa fonte consolida la nota locale su contratti, pagamenti, tracciabilita, PN
 - Il PNRR non va spiegato solo come politica pubblica: in prova rilevano progetto, milestone, target, dati, spesa, evidenze documentali e controlli.
 - ReGiS collega anagrafica progetto, cronoprogramma, fonti finanziarie, procedure, pagamenti, indicatori e rendicontazione.
 - Il soggetto attuatore deve alimentare i dati, conservare evidenze, rispettare le regole di ammissibilita della spesa e presidiare controlli amministrativo-contabili.
-- Il principio DNSH deve essere presentato come vincolo da verificare lungo il ciclo dell'intervento, non come formula finale.
+- Il principio DNSH deve essere presentato come vincolo da presidiare lungo il ciclo dell'intervento, non come formula finale.
 - Nei profili regionali e di area vasta il tema emerge su avvisi, lavori, servizi, contributi, assistenza agli enti locali e monitoraggio territoriale.
 
 ## Uso editoriale

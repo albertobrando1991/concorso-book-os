@@ -9,11 +9,11 @@ entities: ["SQ3R", "Diario degli errori"]
 source_refs: []
 book_refs: ["il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-05-30T12:18:00+02:00
+updated_at: 2026-08-18
 created_at: 2026-05-30T12:18:00+02:00
 review_required: false
 canonical: true
-tags: ["source", "learning-science", "chapter-13", "study-method"]
+tags: ["source", "learning-science", "chapter-13", "study-method", "step-15"]
 source_type: research_synthesis
 source_url: "https://gwern.net/doc/psychology/spaced-repetition/2013-dunlosky.pdf"
 source_date: 2013

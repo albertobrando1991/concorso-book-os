@@ -48,7 +48,7 @@ Questa regola vale per pubblico impiego, procedimento amministrativo generale, t
 | 1 | Il sistema Giustizia visto dal candidato | Dossier, bandi, CCNL | Bando Decoder Giustizia |
 | 2 | Ministero, dipartimenti e amministrazioni della Giustizia | Regolamenti ministeriali, fonti istituzionali | Mappa dipartimento-ufficio-profilo |
 | 3 | Uffici giudiziari e ordinamento applicato al lavoro d'ufficio | R.D. 12/1941, fonti uffici | Schema ufficio-funzione-output |
-| 4 | Ufficio per il processo: struttura, progetto e flussi | D.Lgs. 151/2022, D.L. 100/2026 | Mappa UPP e flussi |
+| 4 | Ufficio per il processo: struttura, progetto e flussi | D.Lgs. 151/2022; verifica esito D.L. 100/2026 | Mappa UPP e flussi |
 | 5 | Il lavoro dell'AUPP: fascicolo, udienza, ricerca e scheda | UPP, linee guida, bandi | Scheda fascicolo/udienza |
 | 6 | Processo civile operativo per UPP e cancelleria | D.Lgs. 149/2022, D.Lgs. 164/2024 | Flusso causa civile |
 | 7 | Processo penale operativo per UPP e cancelleria | D.Lgs. 150/2022, D.Lgs. 31/2024 | Cronologia fascicolo penale |
@@ -79,9 +79,8 @@ Questa regola vale per pubblico impiego, procedimento amministrativo generale, t
 | Griglia profilo-materia-output | AUPP, cancelleria, UNEP, DAP, DGMC |
 
 ## Review prima della scrittura finale
-- Verificare conversione e testo coordinato del D.L. 100/2026.
+- Verifica chiusa il 18 agosto 2026: non risulta conversione del D.L. 100/2026 entro la scadenza dell'11 agosto 2026.
 - Verificare decreti e specifiche DGSIA sul processo penale telematico.
 - Verificare assetto aggiornato del Ministero della giustizia dopo i regolamenti 2024-2025.
 - Verificare testo definitivo del CCNL Funzioni Centrali 2025-2027, se sottoscritto.
 - Integrare PDF integrali dei bandi quando disponibili, soprattutto per programmi, prove e allegati.
-
