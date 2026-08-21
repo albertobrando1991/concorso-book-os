@@ -3,7 +3,7 @@
   "specPath": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/planning/00-scheda-pipeline.md",
   "specHash": "sha256:382e55ca63892b7a95b5be356dc0a9ab1a860ee70770633028ef8a816caf123b",
   "createdAt": "2026-07-29T21:02:55.428Z",
-  "updatedAt": "2026-07-31T16:05:09.680Z",
+  "updatedAt": "2026-08-21T09:30:54.129Z",
   "steps": [
     {
       "key": "05:moduli/m-tr02-appalti-pnrr-fondi-ue",
@@ -2157,47 +2157,19 @@
       "target": "VOL-09",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
+      "evidence": [
+        "reopen: Il report precedente non copre la due diligence editoriale integrale richiesta: si ripetono revisione finale, preflight e consegna con checklist a 30 punti, tabella master e controllo finale."
+      ],
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T16:03:10.020Z",
+      "startedAt": "2026-08-21T08:17:52.604Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-09/21-vol-09.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-09/21-vol-09.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-09/21-vol-09.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V04: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-09/21-vol-09.md"
-          },
-          {
-            "code": "accepted:judgment-not-publishable",
-            "message": "Giudizio di pubblicabilità non sufficiente: \"Pubblicabile dopo intervento medio\".",
-            "location": "wiki/reviews/pipeline/VOL-09/21-vol-09.md"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Revisione finale personale eseguita sul corpus Markdown e sulla Bibbia del Volume: macrostruttura, capitoli, matrice, rinvii, fonti, cut-off e limiti di impaginazione verificati. Report con V01-V04 aperti; giudizio Pubblicabile dopo intervento medio."
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-31T16:03:39.661Z"
+      "finishedAt": "2026-08-21T09:24:11.207Z"
     },
     {
       "key": "22:VOL-09",
@@ -2208,10 +2180,10 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "Anton",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T16:03:47.576Z",
+      "startedAt": "2026-08-21T09:24:16.700Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2223,14 +2195,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Preflight personale eseguito: copertura M-TR02, frontmatter, source_refs, file presenti e git diff --check verificati. Test completi, typecheck/build ed export PDF/KDP restano non eseguiti per assenza di artefatto impaginato; report 22 registra esiti e limiti. Blocker di altre matrici non modificati."
+            "message": "Chiusura manuale di info: Preflight eseguito: audit format_version 2 e densita didattica superato per 14 capitoli; nessun wikilink reader-facing; git diff --check, 519 test, typecheck e build superati; PDF Book Studio VOL-09 esportato con 209 pagine stabili, font pronti e zero immagini mancanti. Limite registrato: Poppler/KDP Previewer non disponibili nel sandbox per ispezione visiva pagina per pagina."
           }
         ],
         "notImplemented": [
           "preflight"
         ]
       },
-      "finishedAt": "2026-07-31T16:04:34.907Z"
+      "finishedAt": "2026-08-21T09:28:51.934Z"
     },
     {
       "key": "23:VOL-09",
@@ -2241,10 +2213,10 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "Anton",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T16:04:43.235Z",
+      "startedAt": "2026-08-21T09:28:57.900Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2256,14 +2228,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Pacchetto di consegna preparato: versione v0.9, cut-off, manifest SHA-256, report pubblicabilità, preflight, changelog e limiti registrati. Nessun commit o push eseguito; consegna pronta per approvazione esplicita."
+            "message": "Chiusura manuale di info: Pacchetto candidato creato in delivery/VOL-09/candidate: PDF interno, VERSION, report, preflight, changelog, limiti, manutenzione e manifest SHA-256. Nessun file estraneo e nessuno staging/commit effettuato per non includere modifiche locali non pertinenti. Step 24 resta pendente per la conferma umana e l eventuale Previewer KDP."
           }
         ],
         "notImplemented": [
           "delivery"
         ]
       },
-      "finishedAt": "2026-07-31T16:05:09.680Z"
+      "finishedAt": "2026-08-21T09:30:54.129Z"
     }
   ]
 }
