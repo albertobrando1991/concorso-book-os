@@ -2,7 +2,7 @@
 id: chapter-m-fc04-07-processo-penale-operativo-upp-cancelleria
 type: book_chapter
 title: "Processo penale operativo per UPP e cancelleria"
-status: revised_draft
+status: reviewed
 domain: "concorsi pubblici italiani"
 topics: ["processo penale", "ufficio per il processo", "cancelleria", "segreteria penale", "fascicolo penale", "udienza", "ppt", "giustizia riparativa", "esecuzione penale"]
 entities: ["Ministero della giustizia", "Ufficio per il processo", "Cancelleria giudiziaria", "Processo penale telematico", "Giustizia riparativa", "Metodo BANDO"]
@@ -16,15 +16,15 @@ source_refs: [
 ]
 book_refs: ["m-fc04-giustizia", "vol-04-giustizia-upp", "il-metodo-bando"]
 confidence: 0.81
-updated_at: 2026-07-18T18:05:00+02:00
+updated_at: 2026-08-18T12:00:00+02:00
 created_at: 2026-07-18T18:05:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc04", "professional-draft", "processo-penale-operativo"]
 book_id: m-fc04-giustizia
 outline_section: 7
 volume_chapter: 7
-draft_stage: professional-draft
+draft_stage: reviewed
 module_code: M-FC04
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -45,62 +45,12 @@ last_compiled_from: [
 
 # Processo penale operativo per UPP e cancelleria
 
-## Specifica struttura madre
-
-### Obiettivo
-Presentare il processo penale negli snodi necessari ai profili UPP, cancelleria e segreteria penale: notizia di reato, registri, fascicolo, indagini, udienze, depositi, comunicazioni, notificazioni, provvedimenti, impugnazioni essenziali, esecuzione penale, giustizia riparativa e processo penale telematico.
-
-### Nuclei
-- Processo penale come flusso d'ufficio, non come preparazione da magistratura.
-- Differenza tra ufficio requirente e ufficio giudicante.
-- Notizia di reato, iscrizione nei registri, fascicolo e dati sensibili.
-- Indagini preliminari, archiviazione, esercizio dell'azione penale e fasi filtro.
-- Udienza preliminare, udienza predibattimentale, dibattimento e decisione come eventi organizzativi.
-- Comunicazioni, notificazioni, depositi e termini come punti di controllo.
-- Processo penale telematico come area in transizione normativa e tecnica.
-- Esecuzione penale e giustizia riparativa come collegamenti di sistema.
-
-### Output operativo
-Cronologia del fascicolo penale; griglia registro-fase-atto-ufficio; check-list udienza penale; mini-caso su notizia di reato, deposito e ruolo; risposta orale sul processo penale operativo.
-
-### Riferimenti consolidati
-- [[sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04]]
-- [[sources/giustizia-digitale-pct-ppt-m-fc04]]
-- [[sources/cancelleria-spese-casellario-unep-m-fc04]]
-- [[sources/minorile-comunita-giustizia-riparativa-m-fc04]]
-- [[sources/bandi-rappresentativi-vol-04-giustizia-upp]]
-- [[topics/giustizia-e-upp]]
-- [[entities/ufficio-per-il-processo]]
-
-## Scheda di lavoro
-Il processo penale richiede al candidato un cambio di prospettiva rispetto al processo civile.
-
-Nel civile il fascicolo nasce da una controversia tra parti private o pubbliche. Nel penale il flusso parte da una notizia di reato, coinvolge il pubblico ministero, la polizia giudiziaria, la persona sottoposta alle indagini, la persona offesa, il difensore, il giudice e gli uffici amministrativi che presidiano registri, fascicoli, comunicazioni e udienze.
-
-Per UPP e cancelleria non serve una trattazione completa del codice di procedura penale. Serve saper leggere il percorso del fascicolo:
-
-- da dove nasce il procedimento;
-- in quale registro viene iscritto;
-- quale ufficio lo tratta;
-- quali atti entrano nel fascicolo;
-- quale udienza deve essere preparata;
-- quali comunicazioni o notificazioni incidono sul flusso;
-- quali depositi sono cartacei, telematici o in transizione;
-- quale provvedimento apre la fase successiva;
-- quando si passa all'esecuzione o a programmi di giustizia riparativa.
-
-La domanda guida e':
-
-> come si segue un procedimento penale come sequenza di notizia di reato, registri, fascicolo, fase, udienza, provvedimento e adempimenti d'ufficio?
-
-## Testo editoriale
-
 ### Apertura editoriale
-Il processo penale e' spesso studiato in modo sbilanciato. Alcuni candidati si concentrano sui principi generali e perdono il flusso d'ufficio; altri memorizzano parole come indagini, archiviazione, imputazione, dibattimento e impugnazione senza capire che cosa producono dentro una procura, un tribunale o una cancelleria.
+Il processo penale è spesso studiato in modo sbilanciato. Alcuni candidati si concentrano sui principi generali e perdono il flusso d'ufficio; altri memorizzano parole come indagini, archiviazione, imputazione, dibattimento e impugnazione senza capire che cosa producono dentro una procura, un tribunale o una cancelleria.
 
-Nel VOL-04 il processo penale deve essere letto con un criterio diverso. Non stai preparando una prova da magistrato. Stai preparando una prova per lavorare dentro il sistema Giustizia, dove il fascicolo penale e' un oggetto amministrativo, organizzativo e digitale, oltre che processuale.
+Nel VOL-04 il processo penale deve essere letto con un criterio diverso. Non stai preparando una prova da magistrato. Stai preparando una prova per lavorare dentro il sistema Giustizia, dove il fascicolo penale è un oggetto amministrativo, organizzativo e digitale, oltre che processuale.
 
-Questo significa che ogni nozione deve essere collegata a un punto di lavoro. La notizia di reato non e' solo l'inizio astratto del procedimento: e' un dato che entra in un registro. L'indagine non e' solo attivita del pubblico ministero: produce atti, scadenze, richieste, comunicazioni e fascicoli. L'udienza non e' solo luogo del contraddittorio: richiede ruolo, fascicolo, avvisi, provvedimenti e aggiornamenti. Il provvedimento non e' solo decisione: genera adempimenti successivi, iscrizioni, comunicazioni, eventuale impugnazione o esecuzione.
+Questo significa che ogni nozione deve essere collegata a un punto di lavoro. La notizia di reato non è solo l'inizio astratto del procedimento: è un dato che entra in un registro. L'indagine non è solo attività del pubblico ministero: produce atti, scadenze, richieste, comunicazioni e fascicoli. L'udienza non è solo luogo del contraddittorio: richiede ruolo, fascicolo, avvisi, provvedimenti e aggiornamenti. Il provvedimento non è solo decisione: genera adempimenti successivi, iscrizioni, comunicazioni, eventuale impugnazione o esecuzione.
 
 Il candidato deve saper parlare con prudenza. La riforma del processo penale, il correttivo 2024 e la progressiva digitalizzazione del processo penale telematico hanno modificato molte regole. In un manuale professionale non si cristallizzano termini e decorrenze senza verifica del testo vigente. Si costruisce prima la mappa operativa, poi si controllano i dettagli normativi sulla fonte ufficiale.
 
@@ -115,7 +65,7 @@ Al termine del capitolo devi saper fare sette operazioni:
 6. spiegare il processo penale telematico come transizione organizzativa e tecnica;
 7. costruire una cronologia del fascicolo penale utile per prova scritta, orale o caso pratico.
 
-La finalita non e' ricordare ogni articolo. La finalita e' ordinare il procedimento in modo leggibile per l'ufficio.
+La finalità non è ricordare ogni articolo. La finalità è ordinare il procedimento in modo leggibile per l'ufficio.
 
 ### Perimetro operativo
 Il processo penale, in questo modulo, va studiato solo nella misura in cui serve ai profili amministrativi e funzionali della Giustizia.
@@ -149,14 +99,14 @@ Una mappa semplice aiuta a non perdersi.
 | Decisione | Sentenza o altro provvedimento | Quale effetto produce sull'ufficio? |
 | Seguito | Impugnazione o esecuzione | Si apre un nuovo grado o una fase esecutiva? |
 
-Questa tabella e' la base per ogni risposta. Se il candidato sa collocare un atto nella fase corretta, evita la maggior parte degli errori.
+Questa tabella è la base per ogni risposta. Se il candidato sa collocare un atto nella fase corretta, evita la maggior parte degli errori.
 
 ### Ufficio requirente e ufficio giudicante
-Nel processo penale la distinzione tra ufficio requirente e ufficio giudicante e' essenziale.
+Nel processo penale la distinzione tra ufficio requirente e ufficio giudicante è essenziale.
 
-L'ufficio requirente e' collegato al pubblico ministero. In procura si muovono notizie di reato, iscrizioni, indagini, richieste, avvisi, depositi, fascicoli, rapporti con polizia giudiziaria e interlocuzioni con difensori e persone offese nei limiti previsti. Il personale amministrativo opera nelle segreterie e nei servizi collegati, con un forte presidio di registri e dati.
+L'ufficio requirente è collegato al pubblico ministero. In procura si muovono notizie di reato, iscrizioni, indagini, richieste, avvisi, depositi, fascicoli, rapporti con polizia giudiziaria e interlocuzioni con difensori e persone offese nei limiti previsti. Il personale amministrativo opera nelle segreterie e nei servizi collegati, con un forte presidio di registri e dati.
 
-L'ufficio giudicante e' collegato al giudice. Qui il procedimento entra quando occorre una decisione, un controllo o una fase davanti al giudice: indagini con intervento del giudice, udienza preliminare, giudizio, impugnazioni, sorveglianza ed esecuzione nei casi previsti. Il personale amministrativo opera nelle cancellerie e nei servizi dell'ufficio.
+L'ufficio giudicante è collegato al giudice. Qui il procedimento entra quando occorre una decisione, un controllo o una fase davanti al giudice: indagini con intervento del giudice, udienza preliminare, giudizio, impugnazioni, sorveglianza ed esecuzione nei casi previsti. Il personale amministrativo opera nelle cancellerie e nei servizi dell'ufficio.
 
 | Piano | Ufficio requirente | Ufficio giudicante |
 |---|---|---|
@@ -169,7 +119,7 @@ L'ufficio giudicante e' collegato al giudice. Qui il procedimento entra quando o
 Una risposta orale corretta deve usare entrambe le parole: procura e giudice. Se il candidato parla solo del tribunale, perde una parte fondamentale del processo penale operativo.
 
 ### Notizia di reato, registri e fascicolo
-Il procedimento penale prende avvio dalla notizia di reato. Per il candidato amministrativo, il punto centrale non e' discutere in astratto la natura della notizia, ma capire che l'informazione deve essere registrata, tracciata, gestita e collegata agli atti successivi.
+Il procedimento penale prende avvio dalla notizia di reato. Per il candidato amministrativo, il punto centrale non è discutere in astratto la natura della notizia, ma capire che l'informazione deve essere registrata, tracciata, gestita e collegata agli atti successivi.
 
 La fase iniziale comprende:
 
@@ -181,7 +131,7 @@ La fase iniziale comprende:
 - eventuale produzione di richieste, avvisi, comunicazioni e depositi;
 - controllo della riservatezza e degli accessi.
 
-Il registro non e' un elenco neutro. E' lo strumento che consente di individuare procedimento, soggetti, fase, ufficio competente e stato del flusso. Per questo nei concorsi Giustizia la parola "registro" vale molto: collega procedura, cancelleria, segreteria, fascicolo, dati e responsabilita.
+Il registro non è un elenco neutro. È lo strumento che consente di individuare procedimento, soggetti, fase, ufficio competente e stato del flusso. Per questo nei concorsi Giustizia la parola "registro" vale molto: collega procedura, cancelleria, segreteria, fascicolo, dati e responsabilità.
 
 | Elemento | Lettura UPP | Lettura segreteria/cancelleria |
 |---|---|---|
@@ -189,16 +139,16 @@ Il registro non e' un elenco neutro. E' lo strumento che consente di individuare
 | Iscrizione | Punto iniziale della scheda | Tracciamento nel registro |
 | Soggetti | Indagato, persona offesa, difensori | Dati da gestire con cautela |
 | Atti iniziali | Materiale da ordinare | Documenti da acquisire e collegare |
-| Stato del fascicolo | Fase e prossime attivita | Aggiornamento e servizio d'ufficio |
+| Stato del fascicolo | Fase e prossime attività | Aggiornamento e servizio d'ufficio |
 
-Qui emerge una differenza importante rispetto al civile: il fascicolo penale contiene dati e atti spesso piu sensibili. Il candidato deve sempre collegare fascicolo penale, riservatezza, accesso consentito, segreto investigativo quando rilevante e tutela dei dati personali.
+Qui emerge una differenza importante rispetto al civile: il fascicolo penale contiene dati e atti spesso più sensibili. Il candidato deve sempre collegare fascicolo penale, riservatezza, accesso consentito, segreto investigativo quando rilevante e tutela dei dati personali.
 
 ### Indagini preliminari e scelte del pubblico ministero
 Le indagini preliminari sono la fase in cui il pubblico ministero, anche attraverso la polizia giudiziaria, raccoglie elementi per decidere il seguito del procedimento. Per l'UPP e la segreteria non si tratta di dirigere l'indagine, ma di comprendere quali atti e quali passaggi generano lavoro d'ufficio.
 
-Gli atti possono riguardare acquisizioni, richieste, avvisi, memorie, istanze, nomine, comunicazioni, provvedimenti del giudice quando necessari e depositi delle parti abilitate. Ogni atto deve essere collocato nel fascicolo corretto, nella fase corretta e con il livello di conoscibilita corretto.
+Gli atti possono riguardare acquisizioni, richieste, avvisi, memorie, istanze, nomine, comunicazioni, provvedimenti del giudice quando necessari e depositi delle parti abilitate. Ogni atto deve essere collocato nel fascicolo corretto, nella fase corretta e con il livello di conoscibilità corretto.
 
-Alla fine o durante questa fase il pubblico ministero puo' orientare il procedimento verso esiti diversi, tra cui la richiesta di archiviazione o l'esercizio dell'azione penale. Il candidato deve saper dire che questa scelta modifica il flusso:
+Alla fine o durante questa fase il pubblico ministero può orientare il procedimento verso esiti diversi, tra cui la richiesta di archiviazione o l'esercizio dell'azione penale. Il candidato deve saper dire che questa scelta modifica il flusso:
 
 - se si va verso archiviazione, entrano in gioco richiesta, eventuali avvisi e decisione del giudice;
 - se si esercita l'azione penale, il procedimento si sposta verso una fase davanti al giudice;
@@ -225,14 +175,14 @@ L'udienza preliminare, quando prevista, e le altre fasi di filtro richiedono lav
 | Provvedimento | Che effetto produce? | Che cosa deve aggiornare l'ufficio? |
 | Passaggio al dibattimento | Quale fascicolo arriva? | Quali atti seguono la fase successiva? |
 
-La risposta forte non recita soltanto "udienza preliminare". Spiega che e' uno snodo di selezione e organizzazione del procedimento.
+La risposta forte non recita soltanto "udienza preliminare". Spiega che è uno snodo di selezione e organizzazione del procedimento.
 
 ### Dibattimento, decisione e fase post-udienza
-Il dibattimento e' il momento del giudizio davanti al giudice competente, secondo le forme del rito. Per il candidato UPP/cancelleria la parola chiave e' "preparazione".
+Il dibattimento è il momento del giudizio davanti al giudice competente, secondo le forme del rito. Per il candidato UPP/cancelleria la parola chiave è "preparazione".
 
-Prima dell'udienza occorre che il fascicolo sia individuato, il ruolo sia organizzato, le parti siano correttamente avvisate quando previsto, gli atti rilevanti siano presenti e lo stato del procedimento sia leggibile. L'UPP puo' contribuire con schede, cronologie, ricerche e materiali preparatori. La cancelleria presidia ruolo, fascicolo, comunicazioni, verbali, provvedimenti e adempimenti conseguenti.
+Prima dell'udienza occorre che il fascicolo sia individuato, il ruolo sia organizzato, le parti siano correttamente avvisate quando previsto, gli atti rilevanti siano presenti e lo stato del procedimento sia leggibile. L'UPP può contribuire con schede, cronologie, ricerche e materiali preparatori. La cancelleria presidia ruolo, fascicolo, comunicazioni, verbali, provvedimenti e adempimenti conseguenti.
 
-Dopo l'udienza, il provvedimento produce un seguito. Puo' esserci rinvio, decisione, adempimento, deposito, comunicazione, impugnazione o passaggio all'esecuzione. L'errore tipico e' pensare che l'udienza finisca quando termina la discussione. Per l'ufficio, spesso l'attivita continua dopo.
+Dopo l'udienza, il provvedimento produce un seguito. Può esserci rinvio, decisione, adempimento, deposito, comunicazione, impugnazione o passaggio all'esecuzione. L'errore tipico è pensare che l'udienza finisca quando termina la discussione. Per l'ufficio, spesso l'attività continua dopo.
 
 | Momento | Cancelleria/segreteria | UPP |
 |---|---|---|
@@ -240,10 +190,10 @@ Dopo l'udienza, il provvedimento produce un seguito. Puo' esserci rinvio, decisi
 | Durante/in vista | Supporto organizzativo secondo prassi e regole | Materiali ordinati e aggiornabili |
 | Dopo | Verbali, provvedimenti, comunicazioni, aggiornamenti | Aggiornamento scheda, monitoraggio esiti |
 
-La distinzione dei ruoli resta netta: il magistrato decide; l'UPP supporta; la cancelleria e la segreteria gestiscono servizi e adempimenti; le parti esercitano le facolta processuali nei limiti previsti.
+La distinzione dei ruoli resta netta: il magistrato decide; l'UPP supporta; la cancelleria e la segreteria gestiscono servizi e adempimenti; le parti esercitano le facoltà processuali nei limiti previsti.
 
 ### Riti speciali e impugnazioni essenziali
-Il procedimento penale puo' seguire percorsi diversi. Il candidato deve conoscere i principali riti speciali come categorie operative, non come trattazione estesa.
+Il procedimento penale può seguire percorsi diversi. Il candidato deve conoscere i principali riti speciali come categorie operative, non come trattazione estesa.
 
 | Ambito | Che cosa deve capire il candidato |
 |---|---|
@@ -256,9 +206,9 @@ Il procedimento penale puo' seguire percorsi diversi. Il candidato deve conoscer
 
 Le impugnazioni vanno lette come apertura di un nuovo grado o di una nuova fase. Per la cancelleria possono significare iscrizione, trasmissione, comunicazioni, fascicolo e controllo degli atti. Per l'UPP possono richiedere sintesi del provvedimento impugnato, motivi, questioni, cronologia e ricerca.
 
-Non devi scrivere un manuale di appello o cassazione. Devi saper rispondere cosi:
+Non devi scrivere un manuale di appello o cassazione. Devi saper rispondere così:
 
-> l'impugnazione riapre il lavoro sul fascicolo, perche collega il provvedimento impugnato a un nuovo controllo, a un diverso ufficio o a una diversa fase, con adempimenti di registrazione, comunicazione, trasmissione e studio.
+> l'impugnazione riapre il lavoro sul fascicolo, perché collega il provvedimento impugnato a un nuovo controllo, a un diverso ufficio o a una diversa fase, con adempimenti di registrazione, comunicazione, trasmissione e studio.
 
 ### Comunicazioni, notificazioni, depositi e termini
 Nel processo penale questi quattro concetti sono decisivi.
@@ -267,20 +217,20 @@ Nel processo penale questi quattro concetti sono decisivi.
 |---|---|---|
 | Deposito | Inserimento formale di atti o documenti nel fascicolo | Trattarlo come semplice invio informale |
 | Comunicazione | Portare a conoscenza un atto secondo le regole d'ufficio | Confonderla con ogni contatto tra uffici |
-| Notificazione | Attivita formale verso un destinatario con effetti processuali | Dire che la cancelleria "notifica sempre tutto" |
-| Termine | Limite temporale che orienta facolta, decadenze o adempimenti | Memorizzare numeri senza testo vigente |
+| Notificazione | Attività formale verso un destinatario con effetti processuali | Dire che la cancelleria "notifica sempre tutto" |
+| Termine | Limite temporale che orienta facoltà, decadenze o adempimenti | Memorizzare numeri senza testo vigente |
 | Avviso | Atto di conoscenza previsto in specifici passaggi | Usarlo come sinonimo generico di comunicazione |
 
-Il candidato deve essere prudente per due motivi. Il primo e' tecnico: le notificazioni penali hanno regole articolate. Il secondo e' temporale: il processo penale telematico e le norme di transizione modificano strumenti e modalita. La formula corretta e':
+Il candidato deve essere prudente per due motivi. Il primo è tecnico: le notificazioni penali hanno regole articolate. Il secondo è temporale: il processo penale telematico e le norme di transizione modificano strumenti e modalità. La formula corretta è:
 
 > in materia penale bisogna verificare per ogni atto chi deve procedere, verso quale destinatario, con quale mezzo, in quale fase e con quale effetto sul procedimento.
 
-Per UPP e cancelleria questa e' una competenza operativa. Un fascicolo non e' pronto se non e' chiaro se un avviso, un deposito o una notificazione sono stati correttamente collocati nella cronologia.
+Per UPP e cancelleria questa è una competenza operativa. Un fascicolo non è pronto se non è chiaro se un avviso, un deposito o una notificazione sono stati correttamente collocati nella cronologia.
 
 ### Processo penale telematico
-Il processo penale telematico e' una delle aree piu instabili del modulo. Le fonti consolidate richiamano il D.M. 29 dicembre 2023, n. 217 e i decreti successivi che ne hanno modificato la disciplina, inclusi i decreti del 2024, del 2025 e del 2026. Alla verifica ufficiale del 18 luglio 2026, il D.M. 26 giugno 2026, n. 114 risulta pubblicato nella Gazzetta Ufficiale del 30 giugno 2026 ed entrato in vigore nella stessa data.
+Il processo penale telematico è una delle aree più instabili del modulo. Il quadro comprende il D.M. 29 dicembre 2023, n. 217 e i successivi decreti modificativi del 2024, 2025 e 2026. Al cut-off normativo del volume, fissato al 18 agosto 2026, il D.M. 26 giugno 2026, n. 114 risulta pubblicato nella Gazzetta Ufficiale del 30 giugno 2026 ed entrato in vigore nella stessa data.
 
-Per il capitolo 7 la regola e' questa: parlare del PPT come ambiente di transizione, non come schema definitivo semplificato.
+Per il capitolo 7 la regola è questa: parlare del PPT come ambiente di transizione, non come schema definitivo semplificato.
 
 Il candidato deve conoscere:
 
@@ -289,17 +239,17 @@ Il candidato deve conoscere:
 - regole tecniche e specifiche DGSIA come fonte da controllare;
 - fascicolo informatico e deposito telematico come passaggi organizzativi;
 - comunicazioni e notificazioni telematiche nei limiti della disciplina vigente;
-- possibilita di fasi, uffici o atti ancora soggetti a regime transitorio;
-- necessita di verificare sempre decreti, avvisi e specifiche aggiornate.
+- possibilità di fasi, uffici o atti ancora soggetti a regime transitorio;
+- necessità di verificare sempre decreti, avvisi e specifiche aggiornate.
 
-Per la cancelleria e la segreteria, il digitale non elimina il lavoro d'ufficio: lo rende piu tracciato e piu dipendente da stati, ricevute, controlli, abilitazioni, fascicoli e sistemi. Per l'UPP, il digitale consente consultazione e ordinamento, ma richiede attenzione a completezza, data, fase, provenienza dell'atto e accessibilita consentita.
+Per la cancelleria e la segreteria, il digitale non elimina il lavoro d'ufficio: lo rende più tracciato e più dipendente da stati, ricevute, controlli, abilitazioni, fascicoli e sistemi. Per l'UPP, il digitale consente consultazione e ordinamento, ma richiede attenzione a completezza, data, fase, provenienza dell'atto e accessibilità consentita.
 
 Una frase da prova orale:
 
-> Il processo penale telematico non va trattato come semplice informatizzazione del processo. E' una trasformazione del flusso di deposito, comunicazione, notificazione, consultazione e gestione del fascicolo, con regole tecniche e decorrenze da verificare sulle fonti ministeriali vigenti.
+> Il processo penale telematico non va trattato come semplice informatizzazione del processo. È una trasformazione del flusso di deposito, comunicazione, notificazione, consultazione e gestione del fascicolo, con regole tecniche e decorrenze da verificare sulle fonti ministeriali vigenti.
 
 ### Esecuzione penale essenziale
-L'esecuzione penale inizia quando la decisione deve essere attuata secondo le regole previste. In questo capitolo non si sviluppa l'ordinamento penitenziario, che avra un capitolo autonomo. Serve pero' capire il passaggio logico.
+L'esecuzione penale inizia quando la decisione deve essere attuata secondo le regole previste. In questo capitolo non si sviluppa l'ordinamento penitenziario, che avrà un capitolo autonomo. Serve però capire il passaggio logico.
 
 Il procedimento penale non termina sempre con la sentenza nel senso organizzativo. Dopo la decisione possono aprirsi:
 
@@ -311,21 +261,21 @@ Il procedimento penale non termina sempre con la sentenza nel senso organizzativ
 - spese di giustizia e recuperi;
 - collegamenti con DAP, UEPE, DGMC o servizi territoriali nei casi previsti.
 
-Questa e' la soglia che collega il capitolo 7 ai capitoli successivi: servizi di cancelleria, spese, casellario, minorile, comunita e penitenziario.
+Questa è la soglia che collega il capitolo 7 ai capitoli successivi: servizi di cancelleria, spese, casellario, minorile, comunità e penitenziario.
 
 Il candidato deve evitare due errori:
 
 - fermare la mappa alla sentenza;
-- confondere esecuzione penale, ordinamento penitenziario e misure di comunita come se fossero un unico blocco.
+- confondere esecuzione penale, ordinamento penitenziario e misure di comunità come se fossero un unico blocco.
 
 La risposta corretta distingue: decisione, esecuzione, uffici competenti, servizi collegati e dati da aggiornare.
 
 ### Giustizia riparativa nel quadro della riforma
 Il D.Lgs. 150/2022 ha introdotto una disciplina organica della giustizia riparativa. Nel VOL-04 il tema ha due funzioni.
 
-La prima e' sistemica: il candidato deve sapere che la giustizia riparativa non e' una semplice conciliazione informale, ne' una sostituzione privata del processo penale. E' un insieme di programmi regolati, con principi, garanzie, soggetti, servizi e valutazioni dell'autorita giudiziaria nei casi previsti.
+La prima è sistemica: il candidato deve sapere che la giustizia riparativa non è una semplice conciliazione informale, né una sostituzione privata del processo penale. È un insieme di programmi regolati, con principi, garanzie, soggetti, servizi e valutazioni dell'autorità giudiziaria nei casi previsti.
 
-La seconda e' editoriale: il capitolo 13 sviluppera minorile, comunita, mediazione e riparativa. Qui serve solo collocarla dentro il processo penale operativo.
+La seconda è editoriale: il capitolo 13 svilupperà minorile, comunità, mediazione e riparativa. Qui serve solo collocarla dentro il processo penale operativo.
 
 | Aspetto | Lettura corretta |
 |---|---|
@@ -333,17 +283,17 @@ La seconda e' editoriale: il capitolo 13 sviluppera minorile, comunita, mediazio
 | Accesso | Avviene secondo presupposti e garanzie previste |
 | Servizi | Coinvolge centri, operatori e organizzazione amministrativa |
 | Effetti | Possono rilevare nel procedimento secondo la disciplina vigente |
-| Per il candidato | Tema da collegare a DGMC, servizi, minorile e comunita |
+| Per il candidato | Tema da collegare a DGMC, servizi, minorile e comunità |
 
-Una domanda concorsuale potrebbe chiedere di distinguere giustizia riparativa, messa alla prova e misure penitenziarie. La risposta non deve confonderle. La giustizia riparativa riguarda programmi e percorsi con vittima, autore e comunita nei limiti della disciplina; la messa alla prova ha una struttura processuale propria; le misure penitenziarie o di comunita appartengono al piano dell'esecuzione e del trattamento secondo regole specifiche.
+Una domanda concorsuale potrebbe chiedere di distinguere giustizia riparativa, messa alla prova e misure penitenziarie. La risposta non deve confonderle. La giustizia riparativa riguarda programmi e percorsi con vittima, autore e comunità nei limiti della disciplina; la messa alla prova ha una struttura processuale propria; le misure penitenziarie o di comunità appartengono al piano dell'esecuzione e del trattamento secondo regole specifiche.
 
 ### Punti di controllo per UPP, cancelleria e segreteria
-Il cuore operativo del capitolo e' la check-list.
+Il cuore operativo del capitolo è la check-list.
 
-| Punto di controllo | Domanda | Profilo piu coinvolto |
+| Punto di controllo | Domanda | Profilo più coinvolto |
 |---|---|---|
 | Notizia di reato | Quale fatto ha avviato il procedimento? | Segreteria/UPP |
-| Registro | Dove e come e' tracciato il procedimento? | Segreteria/cancelleria |
+| Registro | Dove e come è tracciato il procedimento? | Segreteria/cancelleria |
 | Soggetti | Chi sono indagato, imputato, persona offesa, difensori? | Segreteria/cancelleria/UPP |
 | Fase | Siamo in indagini, filtro, giudizio, impugnazione o esecuzione? | UPP/cancelleria |
 | Atti | Quali atti sono presenti e quali mancano? | UPP/cancelleria |
@@ -353,10 +303,10 @@ Il cuore operativo del capitolo e' la check-list.
 | Digitale/PPT | Il deposito o la consultazione seguono il regime vigente? | Cancelleria/segreteria/UPP |
 | Esecuzione | Si apre una fase esecutiva o un raccordo con altri uffici? | Cancelleria/uffici esecuzione |
 
-Questa tabella puo' essere usata come griglia per casi pratici e risposte orali.
+Questa tabella può essere usata come griglia per casi pratici e risposte orali.
 
 ### Cronologia del fascicolo penale
-L'output principale del capitolo e' la cronologia. Una cronologia non e' un riassunto narrativo. E' una scheda ordinata che mostra evento, atto, ufficio, fase e prossimo passaggio.
+L'output principale del capitolo è la cronologia. Una cronologia non è un riassunto narrativo. È una scheda ordinata che mostra evento, atto, ufficio, fase e prossimo passaggio.
 
 | Voce | Contenuto da inserire |
 |---|---|
@@ -370,6 +320,22 @@ L'output principale del capitolo e' la cronologia. Una cronologia non e' un rias
 | Prossimo passaggio | Udienza, decisione, aggiornamento, trasmissione, esecuzione |
 
 Per l'UPP, questa cronologia aiuta a preparare scheda e udienza. Per la cancelleria o segreteria, aiuta a verificare stato del fascicolo e adempimenti. Per il candidato, diventa uno strumento per rispondere in modo ordinato.
+
+### Laboratorio operativo: controllo di un fascicolo penale
+
+Ricevi un fascicolo destinato all'udienza. La cronologia mostra un deposito recente, una notificazione con esito non immediatamente leggibile e un allegato indicato nell'indice ma non visibile.
+
+Procedi in questo ordine:
+
+1. identifica ufficio, numero di registro, fase, soggetti e data dell'udienza;
+2. ricostruisci l'ultimo evento certo senza colmare le lacune per intuizione;
+3. verifica deposito, allegati, ricevute e corretta associazione al fascicolo;
+4. qualifica l'esito della notificazione sulla base della documentazione disponibile;
+5. segnala l'allegato mancante, indicando dove dovrebbe trovarsi e chi deve intervenire;
+6. separa l'anomalia amministrativa dalla valutazione processuale riservata all'autorità competente;
+7. chiudi con una nota breve: fatto verificato, criticità, fonte, soggetto destinatario e urgenza.
+
+Il valore dell'esercizio non sta nell'indovinare l'esito del procedimento, ma nel consegnare un fascicolo leggibile, tracciato e privo di silenzi ambigui.
 
 ### Mappa BANDO del capitolo
 Applica il Metodo BANDO al processo penale operativo.
@@ -387,13 +353,13 @@ La mappa serve a mantenere il capitolo nel suo perimetro: abbastanza procedura p
 ### Caso guidato: notizia di reato e registro
 Estratto sintetico:
 
-> Una procura riceve una notizia di reato. Il candidato deve spiegare quali passaggi interessano il lavoro d'ufficio e come puo' essere costruita una prima cronologia.
+> Una procura riceve una notizia di reato. Il candidato deve spiegare quali passaggi interessano il lavoro d'ufficio e come può essere costruita una prima cronologia.
 
 Risposta debole:
 
 > La procura indaga e poi il giudice decide.
 
-La risposta e' troppo generica. Una risposta operativa distingue ingresso, registro, fascicolo e fase.
+La risposta è troppo generica. Una risposta operativa distingue ingresso, registro, fascicolo e fase.
 
 | Passaggio | Lettura corretta |
 |---|---|
@@ -401,17 +367,17 @@ La risposta e' troppo generica. Una risposta operativa distingue ingresso, regis
 | Registro | Strumento di tracciamento e gestione |
 | Fascicolo | Contenitore degli atti e dei dati |
 | Segreteria | Presidia registrazione, fascicolo e flussi dell'ufficio requirente |
-| UPP | Puo' supportare lettura, cronologia e organizzazione nei limiti del progetto |
+| UPP | Può supportare lettura, cronologia e organizzazione nei limiti del progetto |
 | Fase successiva | Indagini, richiesta, archiviazione o azione penale secondo esito |
 
 Risposta possibile:
 
-> La notizia di reato apre un flusso penale che deve essere registrato e collegato a un fascicolo. La segreteria dell'ufficio requirente presidia dati, registro, atti e stato del procedimento. L'UPP, se coinvolto secondo il progetto organizzativo, puo' aiutare a ricostruire cronologia, atti rilevanti e questioni. Il passaggio successivo dipende dalle determinazioni del pubblico ministero e dagli eventuali interventi del giudice.
+> La notizia di reato apre un flusso penale che deve essere registrato e collegato a un fascicolo. La segreteria dell'ufficio requirente presidia dati, registro, atti e stato del procedimento. L'UPP, se coinvolto secondo il progetto organizzativo, può aiutare a ricostruire cronologia, atti rilevanti e questioni. Il passaggio successivo dipende dalle determinazioni del pubblico ministero e dagli eventuali interventi del giudice.
 
 ### Caso guidato: udienza penale e fascicolo incompleto
 Estratto sintetico:
 
-> Prima di un'udienza penale emerge che nel fascicolo vi sono atti, avvisi e un provvedimento precedente, ma non e' chiaro se una comunicazione sia stata correttamente eseguita. Il candidato deve indicare come ragionare.
+> Prima di un'udienza penale emerge che nel fascicolo vi sono atti, avvisi e un provvedimento precedente, ma non è chiaro se una comunicazione sia stata correttamente eseguita. Il candidato deve indicare come ragionare.
 
 Risposta corretta:
 
@@ -420,22 +386,22 @@ Risposta corretta:
 3. verificare quali atti sono essenziali;
 4. controllare comunicazioni e notificazioni rilevanti;
 5. distinguere chi deve decidere e chi deve gestire l'adempimento;
-6. aggiornare la scheda o segnalare la criticita secondo le regole dell'ufficio.
+6. aggiornare la scheda o segnalare la criticità secondo le regole dell'ufficio.
 
 Formula utile:
 
-> In vista dell'udienza penale non basta sapere che il fascicolo esiste. Occorre verificare fase, atti, soggetti, avvisi, comunicazioni, notificazioni e provvedimenti precedenti. La cancelleria presidia gli adempimenti; l'UPP puo' predisporre una scheda di criticita e cronologia, senza sostituirsi al magistrato o all'ufficio competente.
+> In vista dell'udienza penale non basta sapere che il fascicolo esiste. Occorre verificare fase, atti, soggetti, avvisi, comunicazioni, notificazioni e provvedimenti precedenti. La cancelleria presidia gli adempimenti; l'UPP può predisporre una scheda di criticità e cronologia, senza sostituirsi al magistrato o all'ufficio competente.
 
 ### Caso guidato: deposito telematico penale
 Estratto sintetico:
 
-> Un candidato afferma: "Nel penale ormai ogni deposito e' telematico in ogni ufficio e per ogni atto". Il commissario chiede di precisare.
+> Un candidato afferma: "Nel penale ormai ogni deposito è telematico in ogni ufficio e per ogni atto". Il commissario chiede di precisare.
 
 La risposta deve essere cauta:
 
 | Punto | Correzione |
 |---|---|
-| Regola generale | Il PPT e' in progressiva attuazione |
+| Regola generale | Il PPT è in progressiva attuazione |
 | Fonte | Bisogna controllare D.M., specifiche DGSIA e avvisi PST |
 | Ambito | Uffici, atti e fasi possono avere regimi diversi |
 | Rischio | Generalizzare produce errore normativo |
@@ -443,19 +409,19 @@ La risposta deve essere cauta:
 
 Risposta possibile:
 
-> La formula e' eccessiva. Il processo penale telematico e' disciplinato da regole tecniche e decreti di attuazione in evoluzione. Occorre verificare per ciascun ufficio, atto e fase se il deposito debba avvenire con modalita telematica, se esistano regimi transitori e quali specifiche siano applicabili. Per un profilo di cancelleria o UPP e' essenziale saper leggere il regime vigente, non dare per scontata un'unica modalita.
+> La formula è eccessiva. Il processo penale telematico è disciplinato da regole tecniche e decreti di attuazione in evoluzione. Occorre verificare per ciascun ufficio, atto e fase se il deposito debba avvenire con modalità telematica, se esistano regimi transitori e quali specifiche siano applicabili. Per un profilo di cancelleria o UPP è essenziale saper leggere il regime vigente, non dare per scontata un'unica modalità.
 
 ### Da sapere in 5 righe
 - Il processo penale operativo parte da notizia di reato, registro e fascicolo.
 - Procura e giudice vanno distinti: segreteria e cancelleria hanno funzioni amministrative diverse.
 - UPP e cancelleria leggono il fascicolo per fase, atti, udienza, provvedimento e seguito.
 - Deposito, comunicazione, notificazione, avviso e termine non sono sinonimi.
-- Il processo penale telematico e' una transizione da verificare su D.M., specifiche DGSIA e PST aggiornati.
+- Il processo penale telematico è una transizione da verificare su D.M., specifiche DGSIA e PST aggiornati.
 
 ### Domanda da commissario
 **Come si deve studiare il processo penale per un profilo UPP o cancelleria?**
 
-Una risposta ordinata puo' essere:
+Una risposta ordinata può essere:
 
 1. come flusso d'ufficio, non come trattazione da magistratura;
 2. partendo da notizia di reato, registri e fascicolo;
@@ -467,21 +433,21 @@ Una risposta ordinata puo' essere:
 
 Chiusura efficace:
 
-> Per UPP e cancelleria il processo penale e' una cronologia controllata di fatti processuali, registri, atti, udienze, provvedimenti e adempimenti, da leggere sempre nel rispetto dei ruoli e delle garanzie.
+> Per UPP e cancelleria il processo penale è una cronologia controllata di fatti processuali, registri, atti, udienze, provvedimenti e adempimenti, da leggere sempre nel rispetto dei ruoli e delle garanzie.
 
 ### Domanda-trappola
-**Se so distinguere indagini, udienza preliminare e dibattimento, so gia lavorare sul fascicolo penale?**
+**Se so distinguere indagini, udienza preliminare e dibattimento, so già lavorare sul fascicolo penale?**
 
-Risposta: no. Quella distinzione e' necessaria, ma non sufficiente. Il lavoro d'ufficio richiede di collegare ogni fase a registro, fascicolo, atti, soggetti, comunicazioni, notificazioni, depositi, udienze, provvedimenti e aggiornamenti. La prova puo' premiare chi sa trasformare la sequenza processuale in una cronologia operativa.
+Risposta: no. Quella distinzione è necessaria, ma non sufficiente. Il lavoro d'ufficio richiede di collegare ogni fase a registro, fascicolo, atti, soggetti, comunicazioni, notificazioni, depositi, udienze, provvedimenti e aggiornamenti. La prova può premiare chi sa trasformare la sequenza processuale in una cronologia operativa.
 
 La trappola sta nel confondere conoscenza del rito e gestione del flusso.
 
 ### Errore tipico
-L'errore piu frequente e' studiare il processo penale come elenco di fasi senza indicare chi fa che cosa.
+L'errore più frequente è studiare il processo penale come elenco di fasi senza indicare chi fa che cosa.
 
-Il candidato scrive: notizia di reato, indagini, udienza preliminare, dibattimento, sentenza, impugnazione. E' corretto come scheletro, ma e' insufficiente per un profilo Giustizia.
+Il candidato scrive: notizia di reato, indagini, udienza preliminare, dibattimento, sentenza, impugnazione. È corretto come scheletro, ma è insufficiente per un profilo Giustizia.
 
-La correzione e' aggiungere cinque parole guida:
+La correzione è aggiungere cinque parole guida:
 
 1. registro;
 2. fascicolo;
@@ -518,7 +484,45 @@ Soluzione attesa:
 - Controllo di cancelleria/segreteria: registro, stato fascicolo, comunicazioni, notificazioni, depositi e dati.
 - Supporto UPP: cronologia, scheda fase, questioni, preparazione dell'udienza o del provvedimento nei limiti del ruolo.
 - Punto digitale/PPT: verificare regime di deposito e consultazione applicabile all'atto e all'ufficio.
-- Errore da evitare: dire che tutto e' telematico o che la cancelleria decide il seguito del procedimento.
+- Errore da evitare: dire che tutto è telematico o che la cancelleria decide il seguito del procedimento.
+
+### Quiz commentato
+
+1. **Il registro penale è un semplice indice privo di effetti organizzativi?**
+   - A. Sì
+   - B. No
+   - C. Solo nelle procure piccole
+   **Risposta corretta: B.** Registrazione, fascicolo e stato del procedimento guidano attività e controlli dell'ufficio.
+
+2. **Chi esercita le funzioni del pubblico ministero?**
+   - A. La cancelleria
+   - B. La magistratura requirente
+   - C. L'UNEP
+   **Risposta corretta: B.** La segreteria supporta l'ufficio, ma non esercita la funzione requirente.
+
+3. **Nel fascicolo penale, ogni dato è liberamente comunicabile?**
+   - A. Sì
+   - B. No
+   - C. Solo se digitale
+   **Risposta corretta: B.** Fase, segreto, soggetto richiedente e disciplina applicabile limitano la conoscibilità.
+
+4. **Il deposito penale telematico è identico per ogni atto e ufficio?**
+   - A. Sì
+   - B. No
+   - C. Solo dal 2023
+   **Risposta corretta: B.** Il regime va verificato per atto, ufficio, soggetto, fase e data.
+
+5. **Che cosa distingue l'esecuzione penale dalla decisione di cognizione?**
+   - A. La fase e le autorità coinvolte
+   - B. Nulla
+   - C. Solo il formato del fascicolo
+   **Risposta corretta: A.** Esecuzione, sorveglianza e servizi collegati hanno flussi propri.
+
+6. **La giustizia riparativa coincide con la pena?**
+   - A. Sì
+   - B. No
+   - C. Solo per i minori
+   **Risposta corretta: B.** È un istituto con presupposti, programmi e garanzie specifiche, distinto dalla pena.
 
 ### Checklist di ripasso
 Prima di passare al capitolo 8, verifica:
@@ -529,26 +533,7 @@ Prima di passare al capitolo 8, verifica:
 - So collocare indagini, archiviazione, azione penale, filtro, dibattimento, decisione e impugnazione?
 - So distinguere deposito, comunicazione, notificazione, avviso e termine?
 - So parlare di PPT come transizione normativa e tecnica, senza generalizzare?
-- So spiegare perche l'esecuzione penale collega il processo ai capitoli su casellario, spese, DAP, DGMC e misure?
+- So spiegare perché l'esecuzione penale collega il processo ai capitoli su casellario, spese, DAP, DGMC e misure?
 - So collocare la giustizia riparativa senza confonderla con messa alla prova o ordinamento penitenziario?
 
-Se una risposta e' incerta, registrala nel diario degli errori. Le etichette utili sono: "processo penale troppo teorico", "PM/giudice confusi", "registro ignorato", "notifiche/depositi confusi", "PPT generalizzato", "esecuzione penale saltata", "riparativa confusa con mediazione generica".
-
-### Riferimenti consolidati
-- [[sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04]]
-- [[sources/giustizia-digitale-pct-ppt-m-fc04]]
-- [[sources/cancelleria-spese-casellario-unep-m-fc04]]
-- [[sources/minorile-comunita-giustizia-riparativa-m-fc04]]
-- [[sources/bandi-rappresentativi-vol-04-giustizia-upp]]
-- [[sources/vol-04-dossier-redazionale-giustizia-upp]]
-- [[topics/giustizia-e-upp]]
-- [[entities/ufficio-per-il-processo]]
-- [[books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda]]
-- [[books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria]]
-
-### Note di review
-- Prima della pubblicazione verificare il testo vigente del codice di procedura penale, del D.Lgs. 10 ottobre 2022, n. 150 e del D.Lgs. 19 marzo 2024, n. 31.
-- Alla verifica web ufficiale del 18 luglio 2026, il D.Lgs. 150/2022 risulta su Normattiva con aggiornamenti successivi e il D.Lgs. 31/2024 risulta pubblicato in Gazzetta Ufficiale n. 67 del 20 marzo 2024, con entrata in vigore il 4 aprile 2024.
-- Per il processo penale telematico verificare D.M. 29 dicembre 2023, n. 217, D.M. 27 dicembre 2024, n. 206, D.M. 30 dicembre 2025, n. 206, D.M. 26 giugno 2026, n. 114, specifiche DGSIA e avvisi PST.
-- Non inserire nel testo finale termini numerici, formule di notificazione, obblighi di deposito o decorrenze senza controllo puntuale sull'atto vigente e sul portale ministeriale.
-- Il capitolo 8 sviluppera i servizi di cancelleria; il capitolo 10 sviluppera casellario e carichi pendenti; il capitolo 12 sviluppera il PPT; il capitolo 13 sviluppera giustizia minorile, comunita e riparativa; il capitolo 14 sviluppera esecuzione penitenziaria e trattamento.
+Se una risposta è incerta, registrala nel diario degli errori. Le etichette utili sono: "processo penale troppo teorico", "PM/giudice confusi", "registro ignorato", "notifiche/depositi confusi", "PPT generalizzato", "esecuzione penale saltata", "riparativa confusa con mediazione generica".

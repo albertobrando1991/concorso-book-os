@@ -1,28 +1,24 @@
 ---
 id: vol-04-fm-01-servizi-digitali
 type: book_front_matter
-title: "Servizi digitali inclusi"
-status: source_ready
+title: "Risorse digitali e aggiornamenti"
+status: reviewed
 book_id: vol-04-giustizia-upp
 volume_code: VOL-04
 order: 1
 canonical: true
-review_required: true
+review_required: false
 ---
 
-# Accedi ai servizi digitali
+# Risorse digitali e aggiornamenti
 
-Questo volume include l'accesso ai servizi digitali collegati a Capitale Personale per il percorso Giustizia e Ufficio per il processo.
+Il volume è autonomo e contiene tutto il percorso editoriale dichiarato nell'indice. Le informazioni soggette a cambiamento devono essere ricontrollate sulle fonti ufficiali indicate nel testo.
 
-## Cosa trovi online
-- materiali integrativi e aggiornamenti normativi;
-- schemi di ripasso per UPP, cancelleria, UNEP, DAP e DGMC;
-- esercitazioni e simulazioni coerenti con il Metodo BANDO;
-- eventuali aggiornamenti su bandi, conversioni legislative e processo telematico;
-- strumenti di studio per diario errori, pianificazione e ripasso attivo.
+## Come verificare gli aggiornamenti
 
-## Come usare i servizi
-L'accesso digitale completa il volume, ma non lo sostituisce. Il libro resta autonomo: contiene il percorso, l'indice delle materie, le mappe operative e le istruzioni di studio. I servizi online servono per aggiornare, esercitare e consolidare.
+- usa Gazzetta Ufficiale e Normattiva per testi e vigenza degli atti;
+- usa i siti istituzionali del Ministero della giustizia e del Portale dei Servizi Telematici per organizzazione, servizi e avvisi;
+- usa il bando, gli allegati e le comunicazioni dell'amministrazione per requisiti, prove e calendario;
+- annota nel diario degli errori la fonte e la data dell'ultimo controllo.
 
-Per accedere, utilizza il QR code o il link indicato nella pagina dedicata ai servizi digitali di Capitale Personale.
-
+Un eventuale servizio digitale collegato all'opera sarà indicato solo quando sarà disponibile un indirizzo verificato. Questa edizione non richiede un QR code per utilizzare appendici, strumenti o simulazioni.

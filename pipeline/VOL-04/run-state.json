@@ -3,7 +3,7 @@
   "specPath": "books/vol-04-giustizia-upp/planning/00-scheda-pipeline.md",
   "specHash": "sha256:cee1da75e2740c721e152832eec65e4907072f5b61eec5b962fbf31ca7d47737",
   "createdAt": "2026-08-17T19:42:16.355Z",
-  "updatedAt": "2026-08-17T19:42:31.962Z",
+  "updatedAt": "2026-08-20T15:51:09.011Z",
   "steps": [
     {
       "key": "21:VOL-04",
@@ -11,13 +11,19 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-04",
-      "status": "in-progress",
+      "status": "done",
       "attempts": 1,
       "evidence": [],
       "owner": "Anton",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-17T19:42:31.962Z"
+      "startedAt": "2026-08-17T19:42:31.962Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-18T20:55:22.626Z"
     },
     {
       "key": "22:VOL-04",
@@ -25,9 +31,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-04",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-18T20:56:17.918Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-04"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Preflight manuale documentato in wiki/reviews/pipeline/VOL-04/22-vol-04.md: matrice 14/14, 113/113 wikilink validi, 55 test pertinenti verdi, typecheck e build verdi, PDF KDP di 303 pagine senza overflow o pagine anomale. KDP Previewer ed EPUB non disponibili e dichiarati N/D."
+          }
+        ],
+        "notImplemented": [
+          "preflight"
+        ]
+      },
+      "finishedAt": "2026-08-18T21:50:40.421Z"
     },
     {
       "key": "23:VOL-04",
@@ -35,9 +64,32 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-04",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-18T23:16:07.089Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-04"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale delivery completata: pacchetto candidato versionato con cutoff, report, manifest, changelog, limiti, manutenzione, metadati e checklist KDP; PDF interno/copertina validati, manifest integro, diff selettivo pulito, 55/55 test, typecheck e build verdi. Step 24 umano non eseguito; nessun upload o pubblicazione."
+          }
+        ],
+        "notImplemented": [
+          "delivery"
+        ]
+      },
+      "finishedAt": "2026-08-20T15:51:09.011Z"
     },
     {
       "key": "24:VOL-04",
