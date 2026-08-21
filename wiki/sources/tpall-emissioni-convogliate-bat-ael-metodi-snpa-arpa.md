@@ -9,11 +9,11 @@ entities: ["Sistema nazionale a rete per la protezione dell'ambiente", "ISPRA", 
 source_refs: ["sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti", "sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.94
-updated_at: 2026-07-29T17:22:00+02:00
+updated_at: 2026-08-18
 created_at: 2026-07-29T17:22:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["source", "tpall", "emissioni", "bat-ael", "snpa", "arpa", "m-sa02"]
+tags: ["source", "tpall", "emissioni", "bat-ael", "snpa", "arpa", "m-sa02", "step-15"]
 source_type: official_technical_corpus
 source_url: "https://www.snpambiente.it/notizie/snpa/linee-guida-per-lapplicazione-dei-livelli-di-emissione-associati-alle-migliori-tecniche-disponibili-bat-ael/"
 source_date: "2020-2025"
