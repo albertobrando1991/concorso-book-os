@@ -6446,3 +6446,19 @@
 - l0: l0/conv-20260818155346-byfrbt.md
 - atoms:
   - mem-20260818155346-1itjkg4 | result | Esito codex/github-staff-volume-sync-20260818: Scarica dal progetto GitHub le modifiche effettuate dallo staff sui volumi 04, 05, 06 e 09, sulle fonti raw, sulla documentazione e sulla memoria operativa, senza sovrascrivere il lavoro locale. -> Integrato localmente il branch staff della draft PR #6 con un merge non distruttivo: 487 file, inclusi gli aggiornamenti attesi e ulteriori file VOL-11.
+
+## 2026-08-21T07:56:49.463Z - VOL-01
+
+- conversation_id: conv-20260821075649-7ob0b6
+- route: pdf-recovery-2026-08-21
+- l0: l0/conv-20260821075649-7ob0b6.md
+- atoms:
+  - mem-20260821075649-eh9v8s | result | Esito pdf-recovery-2026-08-21: Procedere dopo il controllo del PDF completo del Volume 1. -> Creato delivery/VOL-01/candidate/vol-01-interior-kdp.pdf: 593 pagine, font incorporati e nessuna introduzione dopo Appendice F.
+
+## 2026-08-21T08:04:15.859Z - VOL-01
+
+- conversation_id: conv-20260821080415-1ent44l
+- route: pdf-recovery-final-2026-08-21
+- l0: l0/conv-20260821080415-1ent44l.md
+- atoms:
+  - mem-20260821080415-ozscu5 | result | Esito pdf-recovery-final-2026-08-21: Candidato finale per proof KDP: 593 pagine, 6.69×9.61 in esatti, metadata Il Metodo BANDO/Capitale Personale, font incorporati, manifest verificato, nessuna introduzione dopo l'Appendice F.
