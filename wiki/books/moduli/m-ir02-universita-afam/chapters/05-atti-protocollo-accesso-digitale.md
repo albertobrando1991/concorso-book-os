@@ -1,6 +1,7 @@
 ---
 id: chapter-m-ir02-05-atti-protocollo-accesso-digitale
 type: book_chapter
+format_version: 2
 title: "Atti, protocollo, accesso e digitale"
 status: editorial_draft
 domain: "istruzione superiore italiana e concorsi pubblici"
@@ -22,195 +23,180 @@ last_compiled_from: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24"
 
 # Atti, protocollo, accesso e digitale
 
-## Apertura editoriale
+### N-IR02-05-01 · Atto, documento e dato: la pratica universitaria non comincia dal software
 
-Una domanda presentata sul portale dell'ateneo non diventa una pratica completa per il solo fatto di essere stata inviata. Deve arrivare nel sistema corretto, essere riconducibile a un documento, ricevere il trattamento documentale previsto, raggiungere l'ufficio competente ed entrare nel fascicolo pertinente. Solo allora puo' sostenere un'istruttoria e condurre a un esito tracciabile.
+In un ateneo, una domanda dello studente, una comunicazione di un docente, un decreto, una nota interna, una richiesta di accesso o un'istanza presentata tramite portale non sono la stessa cosa solo perche' entrano nello stesso ambiente digitale. La prima competenza da acquisire e' distinguere atto, documento e dato. L'atto e' il contenuto giuridico o amministrativo che esprime una decisione, una dichiarazione, una comunicazione, una proposta o un passaggio rilevante dell'attivita' amministrativa. Il documento e' la rappresentazione che rende quel contenuto gestibile, trasmissibile, verificabile e conservabile. Il dato e' l'elemento informativo che puo' comparire nel documento, alimentare una banca dati, sostenere un controllo o descrivere una posizione.
 
-Qui si incontrano regole amministrative, gestione documentale e servizio digitale. Il nome del software usato dall'universita' conta meno della funzione svolta in ciascun passaggio. Registrazione, classificazione, assegnazione, fascicolazione e conservazione non sono sinonimi. Una risposta ricca di sigle, se le confonde, resta fragile.
+La distinzione non e' teorica. Se uno studente aggiorna un indirizzo nel portale, l'ufficio tratta un dato; se presenta una richiesta di riconoscimento, tratta un'istanza; se l'ateneo adotta un provvedimento sulla richiesta, produce un atto; se l'esito viene formato in un file e comunicato, entra in gioco il documento amministrativo o informatico. Un dato presente nel gestionale della carriera non prova automaticamente tutto cio' che occorre per decidere una pratica. Un file allegato a una domanda non diventa, per il solo caricamento, un atto valido dell'amministrazione. Una scansione puo' riprodurre un contenuto, ma deve essere valutata rispetto alla disciplina applicabile: formazione, provenienza, integrita', eventuale sottoscrizione, canale, metadati e conservazione non si presumono dalla semplice esistenza del file.
 
-Il quadro consolidato collega il capitolo al Codice dell'amministrazione digitale, alle Linee guida AgID e alla disciplina generale su procedimento, accesso e protezione dei dati. Procedure, manuali e piattaforme del singolo ateneo restano mobili e devono essere verificati sugli atti vigenti. [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
+Nei concorsi universitari l'errore piu' frequente e' descrivere il flusso come se bastasse dire "si carica la pratica" o "si protocolla il documento". Una risposta professionale parte invece dalla funzione. Che cosa e' arrivato? Da chi proviene? Quale effetto vuole produrre? E' un documento originale, una copia, una dichiarazione, una ricevuta, una comunicazione o un dato gia' presente nel sistema? Quale ufficio deve trattarlo? Quale fonte disciplina il passaggio? Queste domande impediscono di confondere interfaccia, documento e procedimento.
 
-## Obiettivo del capitolo
+Il Codice dell'amministrazione digitale e le regole tecniche e organizzative sulla formazione, gestione e conservazione dei documenti informatici danno il quadro di base. Per lo studio non serve trasformare il capitolo in un catalogo di articoli: serve capire che la pubblica amministrazione digitale non elimina l'atto amministrativo, ma lo inserisce in un ambiente in cui documento, firma, identita', trasmissione, protocollo, fascicolo e conservazione devono essere ordinati. La firma riguarda la riconducibilita' e gli effetti del documento secondo la disciplina applicabile. La PEC o un altro canale qualificato riguardano la trasmissione e le relative evidenze. L'identita' digitale consente di accedere al servizio o associare un'operazione a un soggetto, ma non sostituisce automaticamente ogni requisito documentale o istruttorio.
 
-Al termine saprai:
+Nel contesto universitario questa logica attraversa carriere studenti, selezioni, ricerca, biblioteche, didattica e amministrazione AFAM. Una domanda di immatricolazione, una richiesta di accesso a un fascicolo concorsuale, una domanda di beneficio, una comunicazione su un progetto di ricerca o una pratica bibliotecaria hanno contenuti diversi, ma chiedono lo stesso metodo: qualificare l'oggetto, individuare la fonte, separare dato e documento, collegare il passaggio alla competenza e produrre un esito tracciabile. Le procedure locali dell'ateneo, i manuali di gestione documentale, i titolari di classificazione, le piattaforme e gli uffici competenti possono cambiare; il candidato non deve inventarli. Deve dire che vanno controllati sugli atti vigenti dell'istituzione interessata.
 
-- distinguere atto, documento e dato nel lavoro amministrativo universitario;
-- spiegare il ciclo del documento dalla formazione o ricezione alla conservazione;
-- separare protocollo, classificazione, assegnazione e fascicolazione;
-- collegare una richiesta di accesso al fascicolo e alla relativa istruttoria;
-- leggere un servizio online come processo amministrativo, non come semplice interfaccia;
-- costruire un flusso documentale per una prova scritta o orale.
+L'output da prova e' una griglia in cinque colonne: oggetto ricevuto, funzione amministrativa, documento o dato coinvolto, fonte da verificare, effetto possibile. Se la traccia presenta una domanda caricata online, nella prima colonna scrivi "istanza"; nella seconda "attiva una pratica"; nella terza "documento informatico o modulo con dati e allegati"; nella quarta "bando, regolamento, CAD, manuale o disciplina locale"; nella quinta "ricezione, integrazione, istruttoria, decisione o comunicazione". Questa griglia mostra padronanza senza stabilizzare regole mobili. La frase da portare all'orale e' semplice: il software e' un mezzo, non la fonte del potere amministrativo; cio' che conta e' il rapporto tra atto, documento, dato, competenza e fascicolo.
 
-Il procedimento, il provvedimento e la motivazione sono sviluppati nel capitolo generale del VOL-01. Le differenze tra accesso documentale e accessi civici, insieme al bilanciamento con la protezione dei dati, sono trattate nel capitolo dedicato a trasparenza e privacy. Qui quei nuclei vengono applicati al contesto universitario. [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati]] [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
+### N-IR02-05-02 · Protocollo, classificazione, assegnazione e fascicolo: rendere ricostruibile la pratica
 
-## Mappa BANDO
+Il protocollo informatico serve a registrare e rendere tracciabile un documento nel sistema di gestione documentale dell'amministrazione. In entrata, in uscita o nei flussi interni, la registrazione collega il documento a elementi che consentono di individuarlo, datarlo, seguirne il percorso e inserirlo nel trattamento amministrativo previsto. Questa funzione e' essenziale negli atenei perche' molte pratiche nascono da canali diversi: portali studenti, PEC, moduli online, comunicazioni interne, sistemi di reclutamento, piattaforme di progetto, sportelli o servizi digitali. Il canale acquisisce o trasmette; il protocollo registra quando e come previsto; l'istruttoria valuta; la decisione conclude. Sono passaggi distinti.
 
-Nel bando cerca espressioni come "legislazione universitaria", "procedimenti amministrativi", "gestione documentale", "protocollo informatico", "accesso agli atti", "amministrazione digitale", "CAD", "servizi online" e "protezione dei dati". Il corpus M-IR02 conferma che atti, procedure e servizi ricorrono nei profili amministrativi, ma il programma analitico e l'output della prova dipendono dalla selezione concreta. [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]]
+Protocollare non significa approvare. Una domanda incompleta puo' essere protocollata, ma resta incompleta se mancano requisiti o allegati richiesti. Un documento ricevuto in tempo puo' essere registrato, ma la sua ammissibilita' dipende dalla fonte applicabile. Una ricevuta di invio puo' dimostrare un passaggio tecnico o documentale, ma non garantisce automaticamente l'accoglimento della richiesta. In prova bisogna evitare l'automatismo "protocollato = valido". La protocollazione tutela la ricostruzione del flusso; non sostituisce firma, competenza, completezza, istruttoria, motivazione o conservazione.
 
-| Passaggio | Domanda | Output di studio |
-| --- | --- | --- |
-| **B - Bando** | Quali istituti digitali e documentali sono nominati? | perimetro della prova |
-| **A - Aree** | La traccia riguarda documento, fascicolo, accesso o servizio? | qualificazione del problema |
-| **N - Nuclei** | Quali passaggi e distinzioni devo conoscere? | mappa del flusso |
-| **D - Diario** | Ho confuso canale, protocollo, firma o conservazione? | errore classificato |
-| **O - Output** | Devo descrivere un ciclo, risolvere un caso o classificare azioni? | risposta coerente |
+Dopo la registrazione, il documento deve essere collocato nel contesto giusto. La classificazione lo inquadra secondo il sistema dell'amministrazione, cioe' secondo il titolario o classificario adottato. L'assegnazione lo indirizza all'ufficio, alla struttura o ai soggetti incaricati del trattamento. La fascicolazione lo collega alla pratica, all'affare, al procedimento o alla posizione documentale pertinente. Anche qui le parole non sono sinonimi. Un documento puo' essere protocollato e classificato correttamente ma assegnato all'ufficio sbagliato. Puo' arrivare all'ufficio corretto ma rimanere fuori dal fascicolo. Puo' essere fascicolato senza che sia ancora stata assunta alcuna decisione.
 
-## Dall'atto al documento
+Il fascicolo e' il punto in cui la pratica diventa ricostruibile. Non e' una cartella personale creata liberamente dall'operatore, ne' un deposito casuale di file. Nel fascicolo si raccolgono documenti ricevuti, atti istruttori, comunicazioni, richieste di integrazione, pareri se previsti, esiti, ricevute e ogni elemento utile a comprendere che cosa e' accaduto. In un ateneo, il fascicolo puo' riguardare una pratica studente, una selezione, un procedimento di accesso, una procedura di ricerca, una decisione didattica o un servizio. La struttura concreta dipende da manuale di gestione, regole dell'ente, organizzazione documentale e sistema informatico. Il candidato non deve inventare il titolario; deve spiegare che la fascicolazione corretta si verifica sugli atti vigenti.
 
-### Atto, documento e dato: tre oggetti diversi
+La conservazione chiude il ragionamento documentale, ma non coincide con una copia di sicurezza. Conservare significa mantenere nel tempo le caratteristiche necessarie affinche' il documento e il fascicolo restino affidabili, leggibili, reperibili e coerenti con il processo applicabile. Se la pratica e' stata trattata male prima, la conservazione non corregge magicamente errori di competenza, fascicolazione o istruttoria. Se il fascicolo e' incompleto, la ricostruzione resta fragile. Per questo la qualita' documentale nasce gia' nella ricezione e continua fino alla chiusura.
 
-L'atto amministrativo e' il contenuto giuridico o amministrativo prodotto nell'esercizio di una funzione. Il documento ne rappresenta e rende gestibile il contenuto. Il dato e' un elemento informativo che puo' comparire nel documento, alimentare un sistema o essere usato nell'istruttoria.
+Per rispondere in modo efficace usa la sequenza R-P-C-A-F-I-E-C: ricezione, protocollo, classificazione, assegnazione, fascicolazione, istruttoria, esito, conservazione. Alla ricezione chiedi quale canale e' ammesso. Al protocollo chiedi se e come il documento deve essere registrato. Alla classificazione chiedi in quale funzione ricade. All'assegnazione chiedi chi tratta la pratica. Alla fascicolazione chiedi a quale procedimento o affare appartiene. All'istruttoria chiedi quali controlli servono. All'esito chiedi quale atto o comunicazione chiude il percorso. Alla conservazione chiedi come il fascicolo resta disponibile nel tempo.
 
-La differenza si vede subito nella pratica. Un dato presente nel gestionale della carriera non e' il documento che lo attesta. Un file allegato a un'istanza non e' necessariamente l'atto che l'amministrazione dovra' adottare. Una scansione riproduce visivamente un documento, ma da sola non acquista tutte le caratteristiche di un documento informatico sottoscritto o formato secondo le regole applicabili. [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
+L'errore tipico e' usare "archivio", "protocollo", "fascicolo" e "conservazione" come parole intercambiabili. Non lo sono. Il protocollo registra; la classificazione colloca; l'assegnazione indirizza; il fascicolo collega; l'archivio organizza complessi documentari; la conservazione assicura la tenuta nel tempo secondo il quadro applicabile. In una prova teorico-pratica, la commissione puo' chiedere di descrivere che cosa fare davanti a una domanda ricevuta via portale. La risposta forte non elenca schermate: indica funzione, documento, registrazione, fascicolo, ufficio competente, istruttoria ed esito, con rinvio alle procedure locali senza trasformarle in regola nazionale.
 
-Una pratica universitaria puo' contenere dati strutturati, dichiarazioni e allegati, oltre alle comunicazioni e agli atti finali. Per ciascun elemento l'operatore individua la funzione e la disciplina che ne regola formazione, utilizzo e conservazione.
+### N-IR02-05-03 · Accesso, fascicoli e privacy: trasparenza non significa consegna indiscriminata
 
-### Formazione, sottoscrizione e trasmissione
+La parola "accesso" e' una delle piu' pericolose nelle prove amministrative, perche' sembra unica ma comprende istituti diversi. Puo' trattarsi di accesso documentale, accesso civico semplice, accesso civico generalizzato o anche di una richiesta informativa che non richiede l'apertura di un procedimento di accesso. Oggetto, presupposti, limiti, soggetti coinvolti ed esiti cambiano. Nel contesto universitario l'accesso puo' riguardare documenti di una selezione, atti di una carriera, verbali, provvedimenti, dati di una procedura, documentazione relativa a servizi o pratiche amministrative. La prima operazione non e' aprire tutto il fascicolo, ma qualificare la richiesta.
 
-Un documento informatico e' la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti. Aprire il file non basta per valutarlo. Bisogna ricostruire come e' stato formato, chi ne risulta autore, se e come e' stato sottoscritto, quale formato usa, come e' stato trasmesso e quali evidenze accompagnano il passaggio. [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
+Qualificare significa leggere che cosa chiede il richiedente e con quale possibile base. Se una persona chiede "tutto il fascicolo", l'ufficio deve capire se l'oggetto e' determinato o determinabile, quali documenti esistono, quale interesse o regime viene invocato, quali documenti sono nella disponibilita' dell'amministrazione, quale struttura e' competente e quale procedimento deve essere seguito. Il fascicolo aiuta a ricostruire i documenti, ma non autorizza automaticamente una consegna integrale. Un fascicolo universitario puo' contenere dati personali, elaborati, valutazioni, comunicazioni interne, informazioni riferite ad altri studenti o candidati, dati amministrativi e atti preparatori. Ogni elemento va valutato rispetto al tipo di accesso.
 
-Firma e canale di trasmissione non svolgono la stessa funzione. La firma riguarda il documento e la sua riconducibilita' al firmatario secondo la disciplina applicabile. La PEC riguarda il canale e le evidenze di invio e consegna. Anche l'identificazione dell'utente in un servizio online e' un passaggio distinto: consente di associare l'operazione a un soggetto, ma non sostituisce automaticamente ogni requisito previsto per il documento o per l'istanza.
+Privacy e accesso non sono slogan contrapposti. La protezione dei dati personali non significa segreto generalizzato; la trasparenza non significa diffusione indiscriminata. Il punto e' il bilanciamento secondo la disciplina applicabile. L'ufficio deve valutare pertinenza, minimizzazione, eventuale presenza di controinteressati, accesso parziale, oscuramento di parti non pertinenti, differimento, diniego motivato o accoglimento. Non si decide per simpatia verso il richiedente e non si nega per paura generica dei dati personali. Si istruisce.
 
-In prova conviene evitare formule assolute. Chiedi sempre quale documento, quale firma, quale canale e quale effetto siano indicati dalla traccia. Le regole analitiche su firme, PEC e identita' digitale sono nel nucleo comune del VOL-01. [[books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali]]
+In un ateneo il tema diventa concreto in molte situazioni. Un candidato a un concorso tecnico-amministrativo chiede gli atti della procedura. Uno studente contesta un esito e domanda documenti della propria pratica. Un terzo chiede dati su graduatorie, benefici o servizi. Un partecipante a una procedura vuole vedere elaborati o valutazioni di altri. In ciascun caso il candidato deve evitare due scorciatoie: consegnare tutto perche' "la PA e' trasparente" oppure negare tutto perche' "ci sono dati personali". La risposta professionale e' piu' faticosa ma piu' corretta: qualificazione dell'accesso, individuazione dei documenti, verifica della competenza, trattamento dei controinteressati quando rilevante, valutazione dei limiti, decisione motivata e comunicazione dell'esito.
 
-## Il ciclo della gestione documentale
+Il fascicolo ha una funzione decisiva: consente di sapere quali documenti esistono, dove sono collocati, quale procedimento li ha prodotti e quale relazione hanno con la richiesta. Se la fascicolazione e' debole, anche l'accesso diventa debole: si rischia di non trovare documenti, includere materiale non pertinente, omettere atti rilevanti o rispondere in modo generico. Per questo protocollo, fascicolo e accesso sono collegati. Una buona gestione documentale non serve solo all'archivio; serve alla tutela del richiedente, alla responsabilita' dell'amministrazione e alla difendibilita' della risposta.
 
-### Ricezione e registrazione di protocollo
+L'output da concorso puo' essere una mini-istruttoria di accesso. La struttura consigliata e' questa: oggetto della domanda; regime di accesso da qualificare; documenti ricercati; fascicolo o procedura di riferimento; ufficio competente; eventuali controinteressati; dati personali presenti; limiti applicabili; esito possibile; motivazione e comunicazione. Se la traccia non fornisce la disciplina locale o il regolamento dell'ateneo, non devi inventarlo: devi indicare che va verificato. Se la traccia contiene il regolamento, devi usarlo in modo puntuale. In ogni caso, non attribuire al protocollo il potere di decidere: il protocollo rende tracciabile la richiesta; l'ufficio competente istruisce e decide secondo la fonte.
 
-Il protocollo informatico registra i documenti in entrata, in uscita o interni secondo le regole organizzative e tecniche applicabili. La registrazione rende il documento tracciabile nel sistema di gestione documentale e produce gli elementi previsti dalla disciplina vigente. [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
+La domanda da commissario potrebbe essere: "Come gestirebbe una richiesta di accesso a un fascicolo universitario che contiene dati di terzi?". La risposta sintetica e' questa: registro e collego la richiesta secondo le regole documentali; qualifico il tipo di accesso; individuo i documenti esistenti; verifico competenza e disciplina applicabile; valuto dati personali, pertinenza, controinteressati e possibili limiti; considero accesso parziale, oscuramento, differimento o diniego se previsti; comunico un esito motivato e lo inserisco nel fascicolo. Questa risposta non inventa regole correnti e mostra il comportamento amministrativo atteso.
 
-Protocollare non significa approvare il contenuto, accertare tutti i requisiti o concludere l'istruttoria. La registrazione attesta un passaggio documentale; la valutazione amministrativa appartiene alla pratica. Se uno studente invia una domanda incompleta, la protocollazione non la rende completa. Consente pero' di individuarla, collocarla temporalmente e avviarne il trattamento secondo le regole.
+### N-IR02-05-04 · Servizi digitali, identita', ricevute e competenze: il portale e' solo la parte visibile
 
-Il canale di ricezione e la registrazione non coincidono. Un portale, una casella o un altro canale ammesso raccoglie o trasmette l'istanza; il sistema documentale ne gestisce la registrazione quando dovuta. Manuale di gestione, regole del servizio e disciplina applicabile stabiliscono i passaggi concreti dell'ateneo.
+Un servizio digitale universitario non coincide con la schermata che l'utente vede. Il portale e' la porta d'ingresso; il servizio amministrativo e' il processo che consente di identificare l'utente, acquisire dati e documenti, registrare la richiesta, assegnarla, istruirla, comunicare uno stato o un esito e conservare la documentazione. Se in prova descrivi soltanto "lo studente compila il modulo online", stai raccontando l'interfaccia, non il procedimento. Il candidato deve invece sapere collegare tecnologia, documento, competenza e responsabilita'.
 
-### Classificazione, assegnazione e fascicolazione
+L'identita' digitale, quando prevista, consente di accedere al servizio e associare l'operazione a un soggetto. Puo' essere SPID, CIE o altro strumento ammesso dal quadro applicabile, ma il dettaglio operativo va sempre verificato sul servizio concreto. L'autenticazione non equivale a decisione amministrativa. Dimostra che l'utente si e' presentato al sistema secondo certe modalita'; non prova da sola che la domanda sia completa, che il documento sia valido, che la firma sia sufficiente, che i requisiti siano soddisfatti o che l'ufficio abbia accolto l'istanza. Lo stesso vale per la ricevuta: e' un'evidenza dell'acquisizione o dell'operazione indicata dal sistema, non una patente universale di fondatezza.
 
-La classificazione colloca il documento nell'ambito funzionale corretto secondo il sistema adottato dall'amministrazione. L'assegnazione lo indirizza alla struttura o ai soggetti incaricati del trattamento. La fascicolazione lo collega all'unita' documentaria che raccoglie gli elementi della stessa pratica o del medesimo affare.
+La distinzione e' centrale nelle pratiche universitarie. Una procedura online per immatricolazione, beneficio, accesso a un servizio, domanda di certificazione, partecipazione a selezione o gestione di progetto puo' generare stati diversi: bozza, inviata, ricevuta, protocollata, in lavorazione, integrabile, conclusa. Queste etichette dipendono dal sistema e dalle regole locali. Non sono categorie giuridiche universali da usare senza controllo. In una risposta da concorso e' piu' solido parlare di ricezione, presa in carico, istruttoria, eventuale integrazione, decisione, comunicazione e conservazione. Se la traccia usa un'etichetta di piattaforma, il candidato deve tradurla nella funzione amministrativa corrispondente.
 
-Sono operazioni collegate, non sinonimi. Un documento puo' essere registrato ma assegnato alla struttura sbagliata; puo' raggiungere l'ufficio giusto ma non essere collegato al fascicolo corretto. In entrambi i casi la tracciabilita' della pratica si indebolisce.
+Il nodo delle competenze impedisce altri errori. Chi gestisce il portale non sempre decide la pratica. Chi riceve la domanda non sempre svolge l'intera istruttoria. Chi protocolla non sempre assegna. Chi comunica uno stato non sempre adotta l'atto finale. Negli atenei, competenze e responsabilita' dipendono da statuto, regolamenti, manuali, organigramma, atti di attribuzione, procedure di servizio e, per alcune misure, anche da soggetti esterni o regionali. L'operatore deve quindi ricostruire la catena: canale, ufficio ricevente, ufficio istruttore, responsabile del procedimento o struttura competente se previsto, soggetto decisore, ufficio comunicante, responsabili documentali e processo di conservazione.
 
-Il fascicolo permette di ricostruire il contesto. Riunisce documenti ricevuti, atti istruttori, comunicazioni ed esiti secondo le regole applicabili. Non e' una cartella creata liberamente sul computer dell'operatore: appartiene al sistema di gestione documentale e segue criteri organizzativi verificabili.
+Le procedure locali sono inevitabili ma mobili. Manuale di gestione documentale, regolamento su procedimento e accesso, manuale di conservazione, titolario, classificario, regole del portale, formati ammessi, profili autorizzativi, tempi interni, indirizzi e moduli non vanno presentati come regole nazionali. Il capitolo fornisce il metodo; il caso concreto richiede gli atti dell'istituzione interessata. Questa prudenza vale anche per AFAM: non e' corretto assumere che sistemi, manuali e competenze coincidano automaticamente con quelli degli atenei universitari.
 
-### Chiusura del fascicolo e conservazione
+Per affrontare una traccia usa il protocollo F-D-F-S-E. Fonte: quali norme, regolamenti, manuali e atti organizzativi disciplinano il servizio? Documento: quale istanza, dichiarazione, allegato o comunicazione viene formato o ricevuto? Fascicolo: a quale pratica o procedimento appartiene e quali altri documenti servono? Servizio: quale struttura prende in carico la richiesta, quali controlli compie e quale competenza ha? Esito: quale atto, comunicazione o registrazione chiude il percorso e come viene conservato? La sequenza aiuta a non confondere portale e amministrazione.
 
-Quando la pratica termina, il fascicolo deve rappresentare il percorso compiuto e l'esito raggiunto. Chiusura e conservazione non coincidono con il semplice spostamento di file in un archivio condiviso. La conservazione mira a mantenere nel tempo autenticita', integrita', affidabilita', leggibilita' e reperibilita' dei documenti secondo il quadro applicabile. [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
+L'output d'esame puo' essere uno schema di flusso. Esempio: "lo studente accede con identita' digitale; compila l'istanza; allega documenti; riceve evidenza di invio; la richiesta e' acquisita e registrata se previsto; viene classificata e assegnata; l'ufficio verifica requisiti e documenti; se manca qualcosa si procede secondo la fonte applicabile; il soggetto competente adotta o comunica l'esito; documenti ed esito entrano nel fascicolo e seguono il processo di conservazione". Questa risposta e' abbastanza concreta da essere utile e abbastanza prudente da non inventare regole correnti. L'errore da evitare e' dire "il portale decide": il portale supporta, il servizio amministrativo tratta, l'organo o l'ufficio competente decide secondo le fonti.
 
-In prova conta soprattutto la catena: il documento nasce o arriva, entra nella pratica e deve restare reperibile e affidabile nel tempo. Ruoli, formati, tempi, manuali e soluzioni tecniche dell'ateneo vanno controllati sulle fonti vigenti.
+### N-IR02-05-05 · Caso ragionato e output da esame: richiesta di accesso arrivata dal portale
 
-| Passaggio | Funzione | Errore da evitare | Evidenza da individuare |
-| --- | --- | --- | --- |
-| ricezione | acquisire il documento dal canale ammesso | confondere invio e ammissibilita' | ricevuta o altra evidenza prevista |
-| protocollo | registrare e rendere tracciabile | trattarlo come approvazione | registrazione prevista |
-| classificazione | collocare per funzione | usare una categoria intuitiva | voce del sistema applicabile |
-| assegnazione | portare il documento al responsabile trattamento | scambiarla per decisione | presa in carico o assegnazione |
-| fascicolazione | collegare il documento alla pratica | lasciare documenti isolati | fascicolo pertinente |
-| conservazione | mantenere affidabilita' e reperibilita' | ridurla a una copia di sicurezza | sistema e processo previsti |
+Immagina una traccia teorico-pratica. Un candidato a una selezione universitaria presenta tramite il portale dell'ateneo una richiesta di accesso a "tutto il fascicolo" della procedura. Il sistema produce una ricevuta di invio. Nel fascicolo sono presenti domanda del richiedente, verbali, comunicazioni, elaborati o dati riferiti ad altri partecipanti e atti dell'amministrazione. Il candidato sostiene che, essendo la richiesta inviata online e ricevuta dal sistema, l'ateneo debba consegnare immediatamente l'intero fascicolo. La commissione chiede di impostare la risposta dell'ufficio.
 
-## Accesso a documenti e fascicoli universitari
+La prima operazione e' separare portale, documento e procedimento. L'invio online dimostra che una richiesta e' stata presentata attraverso un canale; la ricevuta dimostra cio' che il sistema attesta secondo le proprie regole; nessuno dei due elementi decide il merito dell'accesso. L'ufficio deve acquisire la richiesta, verificare se deve essere registrata e collegarla al fascicolo o alla pratica corretta. Questa fase rende il percorso tracciabile, ma non produce ancora l'esito. Se il candidato in prova scrive che "la ricevuta comporta consegna automatica", commette un errore concettuale.
 
-### Qualificare la richiesta e individuare l'oggetto
+La seconda operazione e' qualificare il tipo di accesso. L'espressione "tutto il fascicolo" non basta. Bisogna capire se la richiesta e' documentale, civica o informativa, quale oggetto individua, quale interesse o regime viene prospettato, quali documenti sono effettivamente esistenti e quali uffici ne hanno la disponibilita'. Se la domanda e' troppo generica, l'amministrazione deve trattarla secondo la disciplina applicabile, senza trasformare la genericita' in consegna indiscriminata. Se l'oggetto e' determinabile, l'ufficio passa alla ricerca e alla valutazione dei documenti.
 
-La parola "accesso" puo' indicare istituti diversi. Prima di cercare il fascicolo bisogna qualificare la richiesta: accesso documentale, accesso civico semplice, accesso civico generalizzato o semplice richiesta informativa. Presupposti, oggetto, limiti ed esiti non sono intercambiabili. La teoria completa e' nel VOL-01. [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
+La terza operazione riguarda privacy e controinteressati. Il fascicolo di una selezione puo' contenere dati personali di altri candidati, valutazioni, elaborati, informazioni non pertinenti alla posizione del richiedente o documenti soggetti a limiti. La presenza di dati personali non genera automaticamente diniego, ma impone una valutazione. L'ufficio deve chiedersi se occorra coinvolgere controinteressati, se sia possibile un accesso parziale, se servano oscuramenti, se vi siano ragioni di differimento o se il diniego debba essere motivato. La risposta corretta non oppone "accesso" e "privacy" in astratto: mostra il bilanciamento operativo.
 
-Nel contesto universitario, l'interessato puo' indicare una pratica, un atto o un insieme generico di informazioni. L'ufficio deve individuare l'oggetto effettivo senza trasformare una richiesta di informazione in accesso documentale o viceversa. Il fascicolo aiuta a ricostruire i documenti esistenti, ma non autorizza una diffusione indiscriminata del suo contenuto.
+La quarta operazione e' ricostruire la competenza. Chi riceve la richiesta? Chi gestisce il fascicolo? Chi istruisce l'accesso? Chi decide? Chi comunica? Queste risposte dipendono da regolamento dell'ateneo, manuale di gestione, atti organizzativi e disciplina applicabile. La struttura che amministra la selezione puo' non coincidere con l'ufficio che presidia protocollo e gestione documentale; l'ufficio privacy puo' fornire supporto o pareri secondo l'organizzazione interna; il responsabile del procedimento o la struttura competente vanno individuati sulla fonte vigente. In assenza di dati nella traccia, non si inventa un organigramma.
 
-L'istruttoria collega il tipo di richiesta ai documenti individuati, alla fonte applicabile, alla competenza e al possibile esito. Senza uno di questi passaggi, la risposta rischia di essere generica.
+La quinta operazione e' produrre l'output. Una nota istruttoria efficace contiene: canale di ricezione e registrazione; qualificazione della richiesta; fascicolo interessato; documenti individuati; dati di terzi presenti; eventuali controinteressati; limiti e misure come accesso parziale o oscuramento; ufficio competente; proposta di esito; comunicazione al richiedente; inserimento dell'esito nel fascicolo e conservazione. Se l'esito e' accoglimento, la comunicazione indica documenti e modalita' nei limiti consentiti. Se e' accoglimento parziale, spiega parti escluse e ragione. Se e' differimento o diniego, deve essere motivato secondo la disciplina applicabile. Se servono integrazioni o chiarimenti, anche questo passaggio va tracciato.
 
-### Limiti, controinteressati e dati personali
+La risposta orale modello puo' essere formulata cosi': "Non parto dalla consegna, ma dalla qualificazione. L'invio tramite portale e la ricevuta attestano un passaggio del servizio, non l'accoglimento. Registro e collego la richiesta al fascicolo, individuo il tipo di accesso, verifico documenti esistenti, competenza, dati di terzi e controinteressati, valuto limiti e possibili modalita' di accesso, poi comunico un esito motivato e conservabile. Manuale, regolamento e procedure locali dell'ateneo definiscono i dettagli". In poche righe contiene amministrazione digitale, gestione documentale, accesso, privacy e competenza.
 
-Un fascicolo universitario puo' contenere dati dello studente, valutazioni, comunicazioni interne e informazioni riferite ad altre persone. La presenza di dati personali non impone sempre il diniego, ma richiede la valutazione prevista per il tipo di accesso. Possono rilevare controinteressati, oscuramento, accesso parziale, differimento o altri esiti disciplinati dalle fonti applicabili.
+Da sapere in cinque righe: il documento non e' il canale; il protocollo non e' l'accoglimento; il fascicolo non e' un pacchetto da consegnare sempre in blocco; la privacy non e' un divieto assoluto; il portale non decide al posto dell'amministrazione. Nelle prove universitarie la risposta migliore e' quella che ricostruisce il flusso atto-documento-servizio: fonte, ricezione, protocollo, classificazione, assegnazione, fascicolo, istruttoria, esito e conservazione. Il candidato deve mostrare di saper lavorare su regole nazionali, procedure locali e dati mobili senza inventare norme correnti.
 
-Trasparenza non significa pubblicazione totale; privacy non significa segreto generalizzato. L'ufficio deve trattare soltanto i dati pertinenti alla finalita' e motivare il percorso seguito. La disciplina completa di accessi e protezione dei dati resta nel capitolo dedicato del VOL-01.
+## ▣ Verifica
 
-## Dal portale al servizio amministrativo
+**Quiz 1.** Qual e' la distinzione corretta tra atto, documento e dato in una pratica universitaria?
 
-### Identificazione, istanza e ricevuta
+A. Sono sinonimi se compaiono nello stesso portale.
 
-Il portale e' la parte visibile del servizio. Una procedura online comprende anche l'identificazione, l'acquisizione dei dati, la formazione o il caricamento dei documenti e i controlli sul canale. Seguono la ricevuta, la registrazione e l'instradamento della pratica.
+B. L'atto e' il contenuto amministrativo o giuridico, il documento lo rappresenta e rende gestibile, il dato e' l'elemento informativo usato nel trattamento.
 
-L'identita' digitale puo' consentire l'accesso al servizio e associare l'operazione all'utente. La ricevuta dimostra cio' che il sistema dichiara di aver acquisito. Nessuno dei due passaggi prova automaticamente che tutti i requisiti sostanziali siano soddisfatti: questo dipende dalla disciplina della procedura e dall'istruttoria.
+C. Il dato sostituisce sempre il documento.
 
-### Presa in carico, stato della pratica ed esito
+D. Il documento esiste solo quando e' cartaceo.
 
-Un servizio digitale deve sostenere il procedimento anche dopo l'invio. La pratica raggiunge la struttura competente, viene collegata al fascicolo e passa attraverso i controlli previsti. Al termine, l'utente deve ricevere una comunicazione comprensibile.
+Risposta corretta: B. La pratica digitale richiede di distinguere contenuto, supporto documentale e informazione trattata.
 
-Lo stato mostrato all'utente va letto in base alla sua funzione. Etichette come "ricevuta", "in lavorazione" e "conclusa" dipendono dal servizio e non sono necessariamente categorie giuridiche universali. In una risposta concorsuale e' piu' solido descrivere ricezione, presa in carico, istruttoria ed esito, senza attribuire effetti non verificati a un'etichetta della piattaforma.
+**Quiz 2.** Che cosa dimostra di regola la protocollazione di un documento?
 
-## Il protocollo F-D-F-S-E
+A. L'accoglimento della domanda.
 
-Usa la sequenza **F-D-F-S-E** per risolvere una traccia.
+B. La registrazione e tracciabilita' del documento nel sistema applicabile.
 
-1. **Fonte**: quali norme, linee guida, regolamenti e manuali disciplinano il flusso?
-2. **Documento**: che cosa e' stato formato o ricevuto, da chi e attraverso quale canale?
-3. **Fascicolo**: a quale pratica appartiene e quali altri documenti servono?
-4. **Servizio**: quale struttura prende in carico la richiesta e quali passaggi compie?
-5. **Esito**: quale atto o comunicazione conclude il percorso e come viene conservato?
+C. La validita' sostanziale di ogni allegato.
 
-La sequenza non sostituisce il procedimento generale. Ne mette a fuoco il lato documentale nella pratica universitaria.
+D. La conclusione dell'istruttoria.
 
-> **Da sapere in 5 righe**
->
-> Atto, documento e dato non coincidono. Il protocollo registra e rende tracciabile il documento, ma non ne prova da solo validita', completezza o accoglimento. Classificazione, assegnazione e fascicolazione hanno funzioni diverse. L'accesso richiede di qualificare la domanda e valutare oggetto, limiti e dati personali. Un portale e' soltanto una parte del servizio: la pratica deve arrivare all'ufficio, essere istruita, comunicata e conservata.
+Risposta corretta: B. Il protocollo registra e rende rintracciabile; validita', completezza ed esito dipendono da controlli ulteriori.
 
-## Caso guidato: accesso a un fascicolo con dati di terzi
+**Quiz 3.** Qual e' la funzione della fascicolazione?
 
-Un candidato a una procedura universitaria chiede di vedere "tutto il fascicolo" relativo alla selezione. Nella documentazione sono presenti atti della procedura, elaborati e dati riferiti ad altri partecipanti. La richiesta arriva attraverso il canale indicato dall'ateneo.
+A. Collocare il documento nella pratica, nell'affare o nel procedimento pertinente.
 
-L'ufficio registra la richiesta secondo le regole applicabili e la collega al fascicolo pertinente. Prima di decidere qualifica l'istanza, perche' la formula usata dal richiedente non stabilisce da sola il regime giuridico. Individua quindi l'interesse dichiarato, l'oggetto e i documenti effettivamente esistenti.
+B. Sostituire la decisione dell'ufficio competente.
 
-Il fascicolo consente di ricostruire il contesto, ma non viene consegnato in blocco senza istruttoria. L'ufficio verifica la competenza, individua eventuali controinteressati e valuta i limiti connessi ai dati di terzi. Considera, secondo le fonti applicabili, se siano possibili accesso parziale, oscuramento, differimento o diniego motivato.
+C. Eliminare la necessita' di conservazione.
 
-L'esito deve risultare dal fascicolo e raggiungere il richiedente attraverso il canale previsto. La comunicazione chiarisce quali documenti sono interessati e quale determinazione e' stata assunta. Contrapporre in astratto accesso e privacy non risolve il caso: servono qualificazione, istruttoria e proporzionalita'.
+D. Rendere pubblici tutti i documenti contenuti.
 
-## Domanda da commissario
+Risposta corretta: A. Il fascicolo serve a ricostruire il contesto documentale della pratica, non a decidere o pubblicare indiscriminatamente.
 
-**Descriva il ciclo di un documento informatico ricevuto da un ateneo.**
+**Quiz 4.** Una richiesta di accesso a "tutto il fascicolo" che contiene dati di terzi deve essere gestita come?
 
-Risposta modello: il documento arriva attraverso un canale ammesso e viene valutato rispetto a formazione, provenienza, eventuale sottoscrizione e trasmissione. Quando previsto, e' registrato nel protocollo, classificato, assegnato alla struttura competente e collegato al fascicolo della pratica. L'ufficio svolge l'istruttoria e produce comunicazioni o atti, che entrano nello stesso contesto documentale. Alla conclusione, fascicolo e documenti seguono il processo di conservazione applicabile. Manuale di gestione e regole dell'ateneo definiscono i passaggi concreti.
+A. Con consegna integrale automatica.
 
-## Domanda-trappola
+B. Con diniego automatico per presenza di dati personali.
 
-**Un documento protocollato e' necessariamente valido, completo e destinato all'accoglimento?**
+C. Con qualificazione del tipo di accesso, individuazione dei documenti, verifica di competenza, limiti, controinteressati e possibile accesso parziale.
 
-No. La protocollazione svolge una funzione di registrazione e tracciabilita'. Validita' del documento, completezza della domanda e fondatezza della richiesta dipendono da controlli e fonti ulteriori. Anche la conservazione e' un processo distinto.
+D. Ignorando il fascicolo.
 
-## Errore tipico
+Risposta corretta: C. Accesso e privacy richiedono istruttoria e bilanciamento, non automatismi.
 
-Usare come sinonimi protocollo, fascicolo, archivio e conservazione. Il protocollo registra il documento; il fascicolo lo colloca nella pratica; l'archivio organizza complessi documentari; la conservazione mantiene nel tempo le caratteristiche richieste. Nel caso concreto, definizioni, ruoli e procedure vanno verificati sul sistema documentale vigente.
+**Quiz 5.** Perche' un portale online non coincide con il servizio amministrativo?
 
-## Mini-esercizio: classifica il passaggio documentale
+A. Perche' il portale e' la parte visibile, mentre il servizio include identificazione, acquisizione, registrazione, assegnazione, istruttoria, comunicazione, esito e conservazione.
 
-Assegna a ogni azione una categoria: `formazione`, `trasmissione`, `registrazione`, `classificazione`, `assegnazione`, `fascicolazione`, `istruttoria`, `conservazione`.
+B. Perche' i servizi digitali non hanno valore nella PA.
 
-| Azione | Categoria | Motivo e fonte da verificare |
-| --- | --- | --- |
-| lo studente compila e conferma un'istanza online |  |  |
-| il sistema produce una ricevuta di acquisizione |  |  |
-| il documento riceve gli elementi di protocollo previsti |  |  |
-| la pratica viene indirizzata all'ufficio competente |  |  |
-| l'istanza viene collegata alla carriera interessata |  |  |
-| l'ufficio controlla allegati e condizioni |  |  |
-| la comunicazione finale entra nel fascicolo |  |  |
-| i documenti conclusi passano al processo che ne assicura la tenuta nel tempo |  |  |
+C. Perche' il portale decide sempre in autonomia.
 
-Controllo finale: hai distinto il canale dal documento? Hai separato protocollo e fascicolo? Hai individuato chi prende in carico la pratica? Hai evitato di attribuire alla ricevuta un effetto non dichiarato? Hai collegato l'esito alla conservazione? Sai esporre il protocollo F-D-F-S-E in novanta secondi?
+D. Perche' i documenti digitali non devono essere conservati.
 
-## Riferimenti consolidati
+Risposta corretta: A. Il servizio digitale e' un processo amministrativo, non solo un'interfaccia.
 
-- [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
-- [[sources/pa-digitale-cad-identita-documenti-servizi-dati]]
-- [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]]
-- [[topics/m-ir02-universita-afam-fonti-e-profili]]
-- [[entities/ministero-universita-ricerca]]
-- [[books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio]]
-- [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati]]
-- [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
-- [[books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali]]
+**Quiz 6.** Qual e' l'errore piu' grave in una risposta su procedure locali di ateneo?
 
-## Note di review
+A. Dire che manuali, regolamenti, titolari, piattaforme e competenze vanno verificati sugli atti vigenti.
 
-Prima della pubblicazione verificare il CAD vigente e le Linee guida AgID applicabili alla formazione, gestione e conservazione dei documenti informatici. Controllare inoltre la disciplina vigente su accesso documentale, accessi civici e protezione dei dati, senza trasferire nel capitolo articoli, termini o regole tecniche non consolidati.
+B. Distinguere ricezione, protocollo, assegnazione e fascicolo.
 
-Per esempi riferiti a un ateneo acquisire manuale di gestione documentale, regolamento su procedimento e accesso, titolario o classificario, manuale di conservazione, organigramma, atti di attribuzione e regole dei servizi online. Verificare documenti soggetti a registrazione, eccezioni, ruoli, fascicolazione, controinteressati, accessi parziali, profili di autorizzazione, formati e modello di conservazione.
+C. Inventare nomi di software, termini, formati o competenze non presenti nella fonte.
 
-Procedure e piattaforme locali sono mobili. Il capitolo non stabilizza nomi di software, indirizzi, schermate, stati di lavorazione, moduli o tempi interni. Per AFAM occorre consultare le fonti settoriali e il capitolo 11, senza presumere che manuali, sistemi e competenze coincidano con quelli universitari.
+D. Richiamare il CAD come quadro generale.
+
+Risposta corretta: C. Le procedure locali sono mobili e non vanno trasformate in regole generali senza fonte.
+
+**Quiz 7.** In una prova teorico-pratica, quale output e' piu' adeguato davanti a una richiesta di accesso arrivata dal portale?
+
+A. Una nota istruttoria con canale di ricezione, qualificazione dell'accesso, fascicolo, documenti, dati di terzi, competenza, limiti, esito e conservazione.
+
+B. Una promessa di consegna immediata di tutti gli atti.
+
+C. Un rifiuto privo di motivazione.
+
+D. Una descrizione delle schermate del portale senza collegamento alla pratica.
+
+Risposta corretta: A. La nota istruttoria trasforma il caso in un flusso amministrativo verificabile.
+
+**Quiz 8.** Quale sequenza aiuta a descrivere il ciclo documentale in un ateneo?
+
+A. Pubblicazione, graduatoria, assunzione.
+
+B. Ricezione, protocollo, classificazione, assegnazione, fascicolazione, istruttoria, esito, conservazione.
+
+C. Login, colore della schermata, stampa.
+
+D. Archiviazione immediata senza istruttoria.
+
+Risposta corretta: B. La sequenza distingue le funzioni essenziali e impedisce di confondere canale, documento, fascicolo ed esito.

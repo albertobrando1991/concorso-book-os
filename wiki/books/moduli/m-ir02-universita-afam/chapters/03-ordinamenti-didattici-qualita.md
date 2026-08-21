@@ -1,7 +1,8 @@
 ---
 id: chapter-m-ir02-03-ordinamenti-didattici-qualita
 type: book_chapter
-title: "Ordinamenti didattici e qualita'"
+format_version: 2
+title: "Ordinamenti didattici e qualità"
 status: editorial_draft
 domain: "istruzione superiore italiana e concorsi pubblici"
 topics: ["universita", "ordinamenti didattici", "offerta formativa", "accreditamento", "qualita universitaria"]
@@ -20,189 +21,192 @@ draft_stage: editorial-draft
 last_compiled_from: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026", "topics/m-ir02-universita-afam-fonti-e-profili", "entities/ministero-universita-ricerca", "books/moduli/m-ir02-universita-afam/planning/03-piano-capitolo-03-ordinamenti-didattici-qualita"]
 ---
 
-# Ordinamenti didattici e qualita'
+# Ordinamenti didattici e qualità
 
-## Apertura editoriale
+### N-IR02-03-01 · Il sistema didattico universitario: ordinamento, corso e offerta
 
-Un corso non entra nell'offerta formativa perche' compare in un catalogo. Quella voce presuppone un ordinamento, regole didattiche, requisiti da controllare, decisioni dell'ateneo, passaggi di accreditamento e verifiche successive. In una prova concorsuale bisogna riconoscere la fase del processo prima di indicare la fonte, il documento o l'ufficio coinvolto.
+Un concorso universitario non chiede soltanto di ricordare il nome di una fonte. Chiede spesso di capire come un percorso di studio nasce, viene descritto, viene attivato, viene amministrato e viene controllato. Per questo il primo nucleo da fissare è la distinzione tra sistema didattico, ordinamento del corso, corso di studio effettivamente offerto e atti locali dell'ateneo. Se questi piani vengono confusi, la risposta diventa imprecisa: si attribuisce a un ufficio ciò che compete a un organo, si tratta una modifica strutturale come se fosse una comunicazione agli studenti, oppure si cita l'accreditamento come se fosse una formalità esterna al ciclo didattico.
 
-Questo capitolo offre una mappa del ciclo. Il quadro consolidato richiama il D.M. 270/2004, il D.M. 1154/2021, il sistema ANVUR/AVA e i regolamenti didattici. Requisiti, linee operative e discipline locali possono cambiare: per applicarli a un caso reale occorre consultare i testi ufficiali vigenti e gli atti dell'ateneo. [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
+Il sistema didattico universitario è il quadro entro cui l'ateneo organizza i propri corsi. Il riferimento consolidato comprende il D.M. 270/2004 per gli ordinamenti didattici universitari, il D.M. 1154/2021 per l'accreditamento e il sistema ANVUR/AVA per l'assicurazione della qualità. Questi riferimenti servono al candidato per collocare le parole chiave della prova: ordinamento didattico, corso di laurea, corso di laurea magistrale, crediti formativi universitari, regolamento didattico, offerta formativa, accreditamento, monitoraggio e riesame. Non autorizzano, però, a inventare requisiti numerici, scadenze, indicatori o procedure di piattaforma: tali elementi sono mobili e devono essere controllati nei testi ufficiali vigenti e negli atti dell'ateneo interessato.
 
-## Obiettivo del capitolo
+L'ordinamento didattico definisce l'architettura essenziale di un percorso. In termini concorsuali è la base regolativa del corso: indica che cosa si sta costruendo, dentro quale quadro, con quali obiettivi formativi, quali attività e quale titolo finale. Non coincide con la semplice pagina web del corso e non va confuso con il calendario delle lezioni o con una pratica individuale dello studente. Se una traccia parla di istituzione o modifica di un corso, la prima operazione è chiedersi se incide sull'ordinamento, sull'attivazione annuale dell'offerta, sulla gestione amministrativa o su un aspetto di comunicazione.
 
-Al termine saprai:
+Il corso di studio è il percorso organizzato che lo studente segue per conseguire un titolo. Nella risposta non serve trasformare il capitolo in un catalogo di tutte le tipologie di corsi: è più utile spiegare che ogni corso deve essere letto come combinazione di titolo, obiettivi, attività formative, crediti, regolamento e responsabilità. Il candidato deve saper distinguere il livello generale dal caso concreto. Una cosa è dire che un ateneo può organizzare la propria offerta secondo il quadro nazionale; altra cosa è affermare che uno specifico corso sia attivato, modificato o sospeso in un certo modo. Quest'ultima informazione richiede l'atto dell'ateneo e il controllo della fonte aggiornata.
 
-- distinguere ordinamento didattico, offerta formativa e regolamento didattico;
-- descrivere la funzione dell'accreditamento senza ridurlo a un adempimento isolato;
-- collegare progettazione, attuazione, monitoraggio e riesame;
-- individuare fonti, documenti e competenze da verificare in una modifica dell'offerta;
-- costruire uno schema decisionale adatto a una domanda orale o a un caso.
+L'offerta formativa è l'insieme dei percorsi che l'ateneo presenta e attiva nel periodo di riferimento secondo le regole applicabili. È il punto in cui l'ordinamento incontra programmazione, disponibilità di risorse, accreditamento, comunicazione istituzionale e servizi agli studenti. Per l'ufficio amministrativo, l'offerta non è una vetrina: è un fascicolo di decisioni, dati, controlli e atti. Una modifica dell'offerta può richiedere verifiche diverse a seconda che riguardi la struttura del corso, l'attivazione, la denominazione, un insegnamento, un requisito di accesso, una comunicazione o un servizio collegato.
 
-Le carriere individuali degli studenti sono trattate nel capitolo 04. Il procedimento amministrativo generale resta nel VOL-01; qui viene applicato al processo didattico universitario. Per l'ordinamento AFAM il rinvio e' al capitolo 11.
+La regola BANDO è questa: prima di studiare il dettaglio, colloca il problema. Nel bando cerca espressioni come "legislazione universitaria", "ordinamenti didattici", "offerta formativa", "didattica", "accreditamento", "qualità", "regolamenti di ateneo" e "servizi agli studenti". Poi trasformale in output. Se la prova è orale, devi spiegare la sequenza ordinamento, offerta, accreditamento, attuazione e qualità. Se la prova è scritta o teorico-pratica, devi costruire una mini-istruttoria: oggetto della modifica, fonte, requisiti da verificare, competenza, documento da produrre, controlli successivi. Se la prova è a quiz, devi riconoscere la differenza tra fase, documento e soggetto.
 
-## Mappa BANDO
+L'errore tipico è usare una parola tecnica come etichetta totale. "Corso", "ordinamento", "regolamento" e "offerta" non sono sinonimi. Il corso è il percorso; l'ordinamento è la sua architettura regolativa; il regolamento didattico traduce regole e scelte nel contesto dell'ateneo e del percorso; l'offerta è ciò che l'ateneo programma e rende disponibile. In una risposta efficace queste parole sono collegate ma non sovrapposte. Il candidato che mantiene la distinzione evita due rischi: descrivere una procedura locale come se fosse nazionale e ridurre il sistema didattico a un elenco di corsi.
 
-Nel bando cerca le espressioni "legislazione universitaria", "ordinamenti didattici", "offerta formativa", "accreditamento", "assicurazione della qualita'" e i richiami ai regolamenti dell'ateneo. Poi compila questa mappa.
+### N-IR02-03-02 · Corsi di studio, crediti e attività formative: come leggere la struttura
 
-| Passaggio | Domanda | Output di studio |
-| --- | --- | --- |
-| **B - Bando** | Quale parte del processo didattico compare nel programma? | perimetro della prova |
-| **A - Aree** | La questione riguarda progettazione, regole del corso, accreditamento o qualita'? | area corretta |
-| **N - Nuclei** | Quali fonti, documenti, soggetti e controlli devo distinguere? | schema del ciclo |
-| **D - Diario** | Ho confuso una fase, un documento o una competenza? | errore classificato |
-| **O - Output** | Devo spiegare, confrontare o costruire un'istruttoria? | risposta coerente |
+Un corso di studio universitario va letto come una struttura di apprendimento amministrata da regole. Questa frase è importante perché tiene insieme due dimensioni che nei concorsi si separano troppo spesso. Da un lato c'è la dimensione formativa: obiettivi, conoscenze, competenze, attività, insegnamenti, prove, titolo. Dall'altro c'è la dimensione amministrativa: atti, responsabilità, regolamenti, requisiti, controllo dell'offerta, comunicazioni, gestione dei dati e rapporti con gli studenti. Il candidato deve saper passare dall'una all'altra senza perdere il perimetro della domanda.
 
-Il corpus M-IR02 mostra che didattica, carriere e procedure possono avere peso elevato nei profili amministrativi. Questa ricorrenza orienta lo studio, ma il programma effettivo e il livello di dettaglio dipendono dal bando e dai suoi allegati. [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]]
+I corsi di studio appartengono a un sistema ordinato per titoli e livelli, ma la prova non richiede di trasformare ogni risposta in un inventario. È sufficiente, salvo programma più analitico, sapere che l'ateneo struttura percorsi finalizzati al conseguimento di titoli universitari e che la progettazione di un corso deve rendere leggibili finalità, contenuti, attività formative, crediti, modalità di verifica e sbocchi formativi o professionali. Se il bando richiede un dettaglio maggiore, quel dettaglio va ricavato dal programma e dalle fonti ufficiali, non da memoria generica o da un regolamento locale incontrato in un altro ateneo.
 
-## Dal quadro nazionale all'offerta dell'ateneo
+Il credito formativo universitario è la chiave organizzativa che consente di misurare e comporre il percorso. Per la risposta concorsuale, la cosa più importante non è ricordare formule isolate, ma capire la funzione del credito: rappresenta un'unità di carico di apprendimento e permette di collegare attività formative, piano degli studi, riconoscimenti, passaggi, mobilità e completamento del percorso. Quando una traccia parla di crediti, l'ufficio non deve ragionare come se si trattasse di un semplice numero in tabella. Deve chiedersi a quale attività si riferiscono, in quale regolamento sono disciplinati, quale effetto producono sulla carriera dello studente e quale atto deve registrarli o verificarli.
 
-### Ordinamento didattico e offerta formativa
+Le attività formative sono i contenuti organizzati del corso. Possono comprendere insegnamenti, laboratori, tirocini, attività a scelta, prove finali e altri elementi previsti dal percorso. Il capitolo non attribuisce a ciascuna attività requisiti specifici non consolidati, perché tali dettagli dipendono dal corso, dalla classe, dal regolamento e dagli atti vigenti. Il criterio operativo è più robusto: ogni attività deve essere collocata nel piano didattico, collegata a crediti e obiettivi, resa conoscibile allo studente e gestita in modo coerente dall'amministrazione. Se manca uno di questi collegamenti, il rischio non è solo didattico; diventa anche amministrativo, perché genera dati incoerenti, comunicazioni incomplete o pratiche difficili da decidere.
 
-L'ordinamento didattico definisce l'architettura regolativa del percorso. Serve a collocare il corso entro il sistema e a rendere riconoscibili i suoi elementi essenziali. L'offerta formativa e' invece l'insieme dei percorsi che l'ateneo propone e attiva secondo le regole applicabili.
+Per leggere un corso, usa una griglia in cinque domande. Prima: quale titolo o livello del percorso è in gioco? Seconda: quali obiettivi formativi e attività compongono la struttura? Terza: come sono distribuiti i crediti e quali effetti amministrativi producono? Quarta: quale regolamento o atto locale disciplina la scelta? Quinta: quale output deve produrre l'ufficio, ad esempio proposta, verifica, inserimento nell'offerta, comunicazione, registrazione in carriera o risposta allo studente? Questa griglia funziona perché separa il dato formativo dal passaggio amministrativo e costringe a cercare la fonte giusta.
 
-La distinzione cambia il modo di trattare la pratica. Una proposta che modifica un elemento dell'ordinamento non equivale a una semplice variazione nella comunicazione dell'offerta. Occorre prima qualificare l'oggetto della modifica e poi individuare fonte, requisiti, competenza e passaggi. Altrimenti anche un'istruttoria formalmente ordinata puo' seguire la procedura sbagliata.
+Nei bandi rappresentativi dell'area università e AFAM, didattica, carriere e procedure possono avere peso alto nei profili amministrativi. Questa ricorrenza non significa che ogni concorso chiederà lo stesso livello di dettaglio. Significa che il candidato deve allenarsi a spiegare il rapporto tra corso, regolamento, crediti e pratica amministrativa. In un profilo amministrativo-studenti, per esempio, una domanda può partire da una modifica dell'offerta e arrivare agli effetti su iscrizioni, passaggi, riconoscimenti o comunicazioni. Il capitolo successivo svilupperà le carriere individuali; qui interessa capire che la carriera dello studente non nasce nel vuoto, ma si appoggia alla struttura del corso.
 
-Il D.M. 270/2004 appartiene al quadro consolidato degli ordinamenti didattici; il D.M. 1154/2021 e il sistema ANVUR/AVA appartengono al quadro di accreditamento e qualita' richiamato dalla source note. Il capitolo non attribuisce a queste fonti requisiti analitici non schedati nel wiki: tali dettagli vanno controllati sui testi ufficiali vigenti. [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
+Un esempio semplice chiarisce il punto. Un dipartimento propone di introdurre una nuova attività formativa in un percorso. L'ufficio non deve chiedersi soltanto se l'attività "piace" o se risponde a un bisogno. Deve qualificare l'intervento: incide sull'ordinamento o sull'organizzazione annuale dell'offerta? Comporta crediti? Richiede una modifica di regolamento? Ha effetti sul manifesto, sul piano degli studi, sulle informazioni agli studenti o sui sistemi informativi? Chi istruisce e chi decide secondo gli atti locali? Quali controlli di qualità e accreditamento sono coinvolti? La risposta corretta non inventa il percorso; costruisce le verifiche.
 
-### Il ruolo dei regolamenti didattici
+L'errore da evitare è considerare i crediti come un linguaggio puramente didattico e l'offerta come un linguaggio puramente comunicativo. Nei concorsi universitari i due piani si incontrano. Il credito organizza il percorso e produce effetti amministrativi; l'offerta comunica il percorso ma presuppone decisioni e controlli; il regolamento dà stabilità alle regole; la qualità verifica che il sistema non sia solo formalmente corretto, ma osservabile e riesaminabile. Il candidato che vede questi nessi sa scrivere una risposta più utile di chi elenca definizioni senza applicarle.
 
-I regolamenti didattici traducono il quadro generale nella disciplina applicabile all'ateneo e ai suoi percorsi. Per il candidato sono fonti operative: aiutano a capire come una regola nazionale viene organizzata nel contesto concreto e quali ulteriori atti devono essere consultati.
+### N-IR02-03-03 · Regolamenti didattici e atti locali: dal quadro nazionale alla decisione dell'ateneo
 
-Non esiste, pero', un solo regolamento utile per ogni domanda. La questione determina il documento da aprire. Se la traccia riguarda la struttura del percorso, occorre cercare la disciplina pertinente all'ordinamento. Se riguarda l'attivazione o la gestione, possono servire atti sull'offerta, sulla programmazione o sull'organizzazione. Se riguarda una carriera individuale, il nucleo si sposta verso il capitolo 04.
+Il quadro nazionale non basta mai da solo a risolvere un caso concreto di didattica universitaria. È il punto di partenza, non il fascicolo completo. Il candidato deve conoscere questa gerarchia operativa: le fonti nazionali danno la cornice; lo statuto e i regolamenti dell'ateneo organizzano competenze e regole interne; gli atti di programmazione, deliberazione, attivazione e gestione applicano quelle regole al singolo corso o al singolo anno; gli uffici amministrativi curano istruttorie, comunicazioni, registrazioni e controlli secondo il ruolo assegnato. Se una risposta salta il livello locale, rischia di essere elegante ma inutilizzabile.
 
-Il metodo del capitolo 02 resta valido: non attribuire una competenza in base al nome dell'organo o alla prassi ricordata. Verifica statuto, regolamenti e atti dell'ateneo. [[books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi]]
+Il regolamento didattico di ateneo è una fonte locale centrale. Serve a tradurre il quadro generale in regole applicabili nell'istituzione: disciplina aspetti dell'organizzazione della didattica, del funzionamento dei corsi, degli adempimenti e dei rapporti con gli studenti secondo l'assetto dell'ateneo. Accanto ad esso possono operare regolamenti di corso, manifesti degli studi, guide, delibere, decreti, avvisi e documenti di qualità. Non tutti hanno la stessa natura e non tutti producono lo stesso effetto. In prova bisogna evitare la frase generica "lo stabilisce il regolamento" quando la domanda richiede di individuare quale regolamento, quale atto e quale passaggio.
 
-## Il ciclo ordinamento-accreditamento
+La prima distinzione riguarda l'oggetto. Se la questione incide sull'architettura del percorso, bisogna verificare l'ordinamento e gli atti che lo disciplinano. Se riguarda l'attivazione annuale, bisogna guardare all'offerta formativa e agli atti di programmazione. Se riguarda un insegnamento, un laboratorio o un piano degli studi, servono le regole del corso e le informazioni rese agli studenti. Se riguarda una posizione individuale, ci si sposta verso la carriera, le iscrizioni, i riconoscimenti o i benefici, che appartengono al capitolo successivo. Questa classificazione impedisce di usare la stessa procedura per problemi diversi.
 
-### Progettare e motivare l'offerta
+La seconda distinzione riguarda la competenza. Nei capitoli su autonomia, statuti e organi è già emersa una regola: non si attribuisce una decisione a un soggetto solo perché il suo nome sembra plausibile. In materia didattica la tentazione è forte: dipartimento, consiglio di corso, senato accademico, consiglio di amministrazione, rettore, direzione generale, presidio o ufficio possono comparire negli atti, ma il loro ruolo concreto dipende dallo statuto, dai regolamenti e dall'oggetto della pratica. Il candidato deve quindi usare una formula prudente e corretta: "la competenza va ricostruita dagli atti dell'ateneo; l'ufficio istruisce, propone, verifica o cura gli adempimenti nei limiti assegnati".
 
-La progettazione parte da un bisogno formativo e deve trasformarlo in una proposta controllabile. Non basta descrivere un corso desiderabile. L'istruttoria deve chiarire che cosa si vuole istituire o modificare, quali fonti regolano la scelta, quali requisiti devono essere verificati e quali effetti produrra' sull'offerta.
+La terza distinzione riguarda il documento. Un verbale non è automaticamente una decisione finale; una proposta non è un atto di attivazione; una scheda informativa non è sempre fonte regolativa; una pagina web non sostituisce il provvedimento; una comunicazione allo studente non basta se manca il presupposto. Nel caso pratico, questa distinzione è decisiva. La commissione può presentare un fascicolo incompleto e chiedere che cosa deve fare l'ufficio. Una risposta efficace non corre alla conclusione, ma ordina i documenti: richiesta, fonte nazionale, regolamento locale, atto istruttorio, parere o valutazione se previsto, decisione dell'organo competente, pubblicazione o comunicazione, aggiornamento dei sistemi, monitoraggio.
 
-Per leggere questa fase usa quattro domande:
+Per costruire l'istruttoria usa il protocollo Q-F-R-C-O-V. Q significa questione: che cosa cambia? F significa fonte: quali norme e atti locali devo aprire? R significa requisiti: quali condizioni devo verificare senza inventare soglie o indicatori? C significa competenza: chi istruisce, valuta e decide secondo l'ateneo? O significa output: quale documento o atto deve uscire dalla pratica? V significa verifica: come si controlleranno attuazione, coerenza e qualità? Questo protocollo è utile perché trasforma una materia ampia in una sequenza di lavoro. Non sostituisce la fonte; obbliga a cercarla.
 
-1. Qual e' l'oggetto esatto della proposta?
-2. Si interviene sull'ordinamento, sull'attivazione o su un aspetto gestionale?
-3. Quali documenti dimostrano presupposti, coerenza e fattibilita'?
-4. Quali competenze e passaggi risultano dalle fonti dell'ateneo?
+Nel rapporto tra quadro nazionale e atti locali, la prudenza non è debolezza. È precisione amministrativa. Dire "dipende dal regolamento dell'ateneo" non basta se diventa una fuga. Bisogna indicare che cosa si cercherebbe nel regolamento: competenza, procedimento, termini interni se previsti, documenti richiesti, responsabilità istruttorie, modalità di pubblicità, effetti sull'offerta, raccordo con sistemi informativi e qualità. Allo stesso modo, citare il D.M. 270/2004 o il D.M. 1154/2021 non basta se non si spiega quale funzione svolgono nel ragionamento.
 
-La risposta non deve inventare il soggetto decisore. Se la traccia non fornisce statuto e regolamento, indica la verifica necessaria. Se li fornisce, usa quelle disposizioni e non il modello di un altro ateneo.
+Il risultato atteso è una risposta verificabile. In un orale puoi dire: "Parto dall'oggetto della modifica; verifico se incide sull'ordinamento o sull'offerta; apro il regolamento didattico e gli atti locali; ricostruisco competenze e documenti; controllo l'eventuale impatto su accreditamento e qualità; produco l'atto o la comunicazione coerente". In uno scritto puoi trasformare gli stessi passaggi in tabella. In un quiz devi riconoscere quale affermazione confonde fonte, fase o soggetto. La sostanza non cambia: nel sistema universitario il livello locale non è un dettaglio, è la sede in cui la regola diventa pratica amministrativa.
 
-### Verificare requisiti e accreditamento
+### N-IR02-03-04 · Accreditamento e assicurazione della qualità: funzioni, responsabilità e controlli
 
-L'accreditamento collega la proposta a un controllo dei requisiti applicabili. La sua funzione e' verificare che l'offerta possa inserirsi e operare nel sistema secondo le condizioni previste. Non coincide con il solo atto finale: richiede dati, documenti, responsabilita' e controlli coerenti con la fase.
+Accreditamento e assicurazione della qualità sono spesso studiati come parole difficili, mentre nei concorsi vanno capiti come funzioni amministrative e organizzative. L'accreditamento collega un corso e l'offerta formativa alla verifica delle condizioni previste dal sistema. L'assicurazione della qualità organizza responsabilità, processi, documenti, dati, monitoraggi e riesami affinché la didattica non resti una dichiarazione formale. Il punto decisivo è questo: la qualità non arriva alla fine come un timbro; accompagna progettazione, attuazione e miglioramento.
 
-La source note consolidata individua D.M. 1154/2021 e ANVUR/AVA, ma segnala un rischio di mobilita' elevato per requisiti e linee. In preparazione puoi quindi studiare con sicurezza la funzione del processo e la relazione tra i suoi elementi. Prima di citare soglie, indicatori, termini o versioni del modello, devi verificarli sulle fonti ufficiali aggiornate. [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
+Il D.M. 1154/2021 e il sistema ANVUR/AVA sono indicati dalle fonti consolidate come riferimenti per accreditamento e qualità. Il candidato può quindi usare con sicurezza il livello funzionale: esiste un quadro nazionale e istituzionale che richiede verifiche, evidenze e processi di assicurazione della qualità. Non deve però inventare requisiti quantitativi, indicatori, formule di valutazione, scadenze o versioni operative non consolidate. In un concorso reale, questi dettagli si controllano sui testi vigenti, sulle linee applicabili e sugli atti dell'ateneo. Questa cautela è particolarmente importante perché i requisiti e le linee possono essere mobili.
 
-### Attuare, monitorare e riesaminare
+L'accreditamento va collegato al ciclo del corso. Prima c'è la progettazione: l'ateneo individua un bisogno formativo, costruisce una proposta, definisce obiettivi, attività, crediti, sostenibilità e coerenza del percorso. Poi c'è la verifica delle condizioni applicabili: il fascicolo deve dimostrare che la proposta può stare nel sistema secondo le regole vigenti. Seguono decisione, attivazione e gestione. Infine, l'attività va monitorata e riesaminata. Se la risposta si limita a dire "il corso deve essere accreditato", manca il pezzo che interessa all'amministrazione: quali informazioni si raccolgono, chi le valida, quale atto viene prodotto, quali conseguenze derivano da una criticità.
 
-Una volta attivata, l'offerta deve essere gestita e osservata. Il monitoraggio raccoglie elementi utili a capire come il percorso sta funzionando; il riesame usa tali elementi per individuare problemi e correzioni. La qualita' non e' quindi un controllo decorativo posto alla fine, ma accompagna il ciclo.
+L'assicurazione della qualità rende questo ciclo osservabile. Significa che l'ateneo deve organizzare ruoli e documenti in modo da sapere chi fa che cosa, quali dati vengono utilizzati, quali problemi emergono e quali azioni vengono decise. In una risposta concorsuale non è necessario nominare ogni struttura possibile, soprattutto se la traccia non fornisce l'assetto dell'ateneo. È invece necessario distinguere responsabilità politiche, accademiche, amministrative e tecniche. Gli organi competenti assumono decisioni secondo lo statuto e i regolamenti; le strutture didattiche partecipano alla progettazione e al monitoraggio secondo l'assetto locale; gli uffici curano istruttoria, dati, comunicazioni e adempimenti; il sistema di qualità raccoglie evidenze e alimenta il riesame.
 
-Ne derivano alcune conseguenze operative:
+MUR e ANVUR appartengono al livello istituzionale nazionale. L'ateneo appartiene al livello di applicazione organizzativa. Il Ministero dell'Università e della Ricerca e l'ANVUR non vanno citati come sigle ornamentali: bisogna spiegare che il quadro nazionale indirizza e controlla il sistema, mentre l'ateneo deve tradurre quel quadro in atti, processi e responsabilità locali. In prova, una buona risposta usa le sigle solo dopo aver chiarito la funzione. Dire "lo vede ANVUR" non basta; occorre dire quale fase del processo è in gioco e quali documenti o verifiche sarebbero rilevanti.
 
-- i dati devono essere collegati alla domanda che si vuole valutare;
-- ruoli e documenti devono essere riconoscibili e tracciabili;
-- una criticita' rilevata deve condurre a una valutazione e, quando previsto, a un intervento verificabile.
+La qualità si collega anche agli output d'esame. In un quiz, può essere chiesto quale affermazione è corretta: la risposta da scegliere sarà quella che distingue accreditamento, monitoraggio e riesame, evitando l'idea di autorizzazione una tantum. In un orale, può essere chiesto di collegare ordinamento, offerta e qualità: la risposta deve seguire la sequenza progettazione, verifica, attivazione, monitoraggio, riesame. In un caso, l'ufficio può ricevere una proposta incompleta: l'output sarà una lista ragionata di integrazioni istruttorie, fonti da verificare, responsabilità da ricostruire e atti conseguenti.
 
-I soggetti, i documenti e le cadenze concrete dipendono dalle fonti vigenti e dall'assetto dell'ateneo. Il candidato deve descrivere il processo senza colmare i dati mancanti con supposizioni.
+Un criterio pratico è la tabella fase, responsabilità, evidenza, output. Nella fase di progettazione, la responsabilità è costruire una proposta motivata; l'evidenza riguarda bisogni, obiettivi, attività e coerenza; l'output è il dossier istruttorio. Nella fase di verifica, la responsabilità è controllare requisiti e condizioni; l'evidenza viene dalle fonti vigenti; l'output è una valutazione documentata. Nella fase di attuazione, la responsabilità è rendere il corso operativo; l'evidenza riguarda atti, comunicazioni e sistemi; l'output è l'offerta gestita. Nella fase di monitoraggio, la responsabilità è osservare l'andamento; l'evidenza sono dati e segnalazioni; l'output è analisi. Nel riesame, la responsabilità è decidere se confermare, correggere o riprogettare; l'output è un'azione motivata.
 
-| Fase | Domanda centrale | Fonte o documento da verificare | Output |
-| --- | --- | --- | --- |
-| progettazione | che cosa si vuole istituire o modificare? | quadro nazionale e disciplina locale | proposta motivata |
-| verifica | quali condizioni devono essere dimostrate? | requisiti e linee vigenti | dossier istruttorio |
-| decisione e attivazione | chi compie i passaggi previsti? | statuto, regolamenti e atti | decisione e atti conseguenti |
-| monitoraggio | quali elementi mostrano l'andamento? | sistema di qualita' dell'ateneo | evidenze e analisi |
-| riesame | che cosa va confermato o corretto? | esiti del monitoraggio e disciplina applicabile | azione motivata |
+L'errore tipico è confondere controllo e qualità. Il controllo verifica un profilo; la qualità organizza un ciclo. Un sistema di qualità senza dati è una formalità; dati senza responsabilità non producono miglioramento; responsabilità senza atti non sono tracciabili; atti senza riesame non chiudono il ciclo. Questa catena è ciò che il candidato deve portare in prova. Non serve inventare il modello locale: serve mostrare di sapere dove guardare e come ragionare.
 
-## Qualita': funzione, soggetti e documenti da verificare
+### N-IR02-03-05 · Caso ragionato e output di prova: modificare l'offerta senza inventare regole
 
-### Assicurazione della qualita'
+Immagina questo caso. Un dipartimento propone di aggiornare un corso per renderlo più coerente con nuovi bisogni formativi e con richieste emerse dagli studenti. La proposta arriva all'ufficio didattico con una relazione sintetica, un elenco di attività formative da modificare e una bozza di comunicazione da pubblicare sul sito. Mancano però il riferimento al regolamento didattico, la qualificazione dell'intervento, l'indicazione degli effetti sui crediti, il controllo sull'accreditamento e la ricostruzione delle competenze. La domanda della prova è: come deve procedere l'ufficio?
 
-L'assicurazione della qualita' e' l'insieme organizzato di responsabilita', processi, documenti e verifiche con cui l'ateneo controlla e migliora le proprie attivita'. Nel perimetro didattico collega progettazione, attuazione, monitoraggio e riesame.
+La prima mossa è qualificare l'oggetto. L'ufficio non può trattare ogni aggiornamento come una semplice modifica informativa. Deve chiedersi se la proposta incide sull'ordinamento didattico, sull'offerta formativa annuale, sull'organizzazione di un insegnamento, sul piano degli studi o su una comunicazione agli studenti. Questa distinzione decide le fonti da aprire. Se l'intervento tocca elementi strutturali del percorso, il fascicolo è più delicato; se riguarda un aspetto gestionale, la procedura può essere diversa. In ogni caso, la risposta non deve concludere prima di aver classificato la fase.
 
-In una risposta concorsuale, non identificare la qualita' con un giudizio generico sul fatto che un corso sia "buono" e non ridurla alla compilazione di moduli. La sua funzione e' rendere il processo osservabile: chi deve fare cosa, quali evidenze usa, quale problema emerge e quale seguito viene deciso.
+La seconda mossa è aprire le fonti. Il quadro nazionale offre i riferimenti di sistema: D.M. 270/2004 per ordinamenti didattici universitari, D.M. 1154/2021 e sistema ANVUR/AVA per accreditamento e qualità. Tuttavia, il caso concreto si decide anche con statuto, regolamento didattico di ateneo, regolamento o disciplina del corso, atti di programmazione dell'offerta, eventuali delibere, documenti di assicurazione della qualità e indicazioni ufficiali dell'ateneo. Se la traccia non fornisce questi atti, il candidato deve indicarli come controlli necessari. Se li fornisce, deve usarli e non sostituirli con formule generiche.
 
-### MUR, ANVUR e livello di ateneo
+La terza mossa riguarda i crediti e le attività formative. La relazione del dipartimento non basta se non chiarisce gli effetti sull'assetto del corso. L'ufficio deve verificare se le attività modificate sono coerenti con obiettivi, crediti, piano degli studi, regolamento e informazioni agli studenti. Deve anche controllare se l'intervento produce conseguenze sulle carriere già in corso, sui passaggi, sui riconoscimenti o sulle comunicazioni. Questi effetti individuali saranno trattati con gli strumenti del capitolo sulle carriere, ma in questo caso vanno almeno intercettati: una modifica dell'offerta non può ignorare chi deve iscriversi, scegliere esami o completare il percorso.
 
-Il quadro consolidato collega MUR, ANVUR e sistema AVA ai processi di accreditamento e qualita'. Il livello nazionale definisce il sistema e le condizioni da consultare; l'ateneo organizza responsabilita' e processi interni attraverso le proprie fonti e i propri atti. [[entities/ministero-universita-ricerca]]
+La quarta mossa è ricostruire responsabilità e competenze. L'ufficio didattico può curare l'istruttoria, raccogliere dati, verificare completezza, predisporre schede, aggiornare sistemi o comunicare esiti, ma non bisogna attribuirgli automaticamente il potere di approvare la modifica. La decisione dipende dagli atti dell'ateneo e dall'oggetto della proposta. In una risposta d'esame è corretto scrivere: "L'ufficio ricostruisce la competenza dagli atti locali, distingue proposta, istruttoria, valutazione e decisione, e sottopone il fascicolo al soggetto competente secondo statuto e regolamenti". Questa formula è prudente e amministrativamente solida.
 
-In prova, non usare sigle e nomi istituzionali come sostituti della spiegazione. Devi chiarire quale funzione stai descrivendo e quale documento consulteresti. Per conoscere modello, requisiti, indicatori e procedure applicabili alla data della selezione, controlla le fonti ufficiali MUR e ANVUR richiamate nella source note.
+La quinta mossa è collegare accreditamento e qualità. Se la modifica incide sul corso in modo rilevante, occorre verificare se sono coinvolti requisiti, condizioni, documenti o passaggi del sistema di accreditamento. Non si inseriscono soglie o indicatori non presenti nella traccia; si dichiara il controllo sui riferimenti vigenti. L'assicurazione della qualità entra perché la proposta deve essere motivata, documentata, monitorabile e riesaminabile. Il fascicolo deve quindi contenere non solo la decisione iniziale, ma anche il modo in cui l'ateneo controllerà gli effetti della modifica.
 
-## Come si legge una modifica dell'offerta
+L'output finale dell'ufficio può essere organizzato come nota istruttoria. La nota dovrebbe contenere: oggetto della modifica; qualificazione della fase; fonti nazionali e locali da applicare; effetti su corso, attività, crediti e offerta; responsabilità e competenze; documenti mancanti; eventuale impatto su accreditamento e qualità; atti da adottare; comunicazioni agli studenti; controlli successivi. In prova scritta questa struttura permette di rispondere anche se non si conosce il regolamento di uno specifico ateneo. In prova orale permette di parlare in modo ordinato per novanta secondi. In un quiz permette di riconoscere che una comunicazione pubblicata senza atto presupposto non risolve la pratica.
 
-Applica il protocollo **Q-F-R-C-O-V**.
+La risposta modello al caso potrebbe essere questa: "L'ufficio non pubblica direttamente la bozza. Prima qualifica la modifica, verifica se incide sull'ordinamento o sull'offerta, apre regolamento didattico e atti locali, controlla effetti su crediti e attività formative, ricostruisce la competenza, integra il fascicolo con i documenti necessari, verifica l'eventuale raccordo con accreditamento e qualità, predispone l'output istruttorio e cura le comunicazioni solo dopo l'atto competente". È una risposta breve, ma contiene il metodo.
 
-1. **Questione**: che cosa cambia e a quale fase appartiene?
-2. **Fonte**: quali norme, regolamenti e atti disciplinano la modifica?
-3. **Requisiti**: quali condizioni devono essere dimostrate con fonti vigenti?
-4. **Competenza**: quali soggetti istruiscono, valutano e decidono secondo l'ateneo?
-5. **Output**: quale proposta, dossier, decisione o comunicazione deve essere prodotto?
-6. **Verifica**: come saranno controllati attuazione, risultati e necessita' di riesame?
+L'errore da evitare è inventare la regola mancante. Il candidato non deve dire che decide sempre un certo organo, che la modifica segue sempre una certa piattaforma, che l'accreditamento richiede sempre uno specifico indicatore o che la pubblicazione sul sito basta a rendere efficace l'offerta. Deve invece mostrare padronanza del ciclo e consapevolezza dei dati mobili. Nei concorsi universitari questa prudenza è un vantaggio: segnala capacità amministrativa, rispetto delle fonti e attenzione alla responsabilità dell'ufficio.
 
-La disciplina generale del procedimento e della motivazione resta nel VOL-01. Qui il protocollo serve a collocare l'istruttoria dentro il ciclo didattico. [[books/il-metodo-bando/chapters/diritto-amministrativo-operativo]]
+## ▣ Verifica
 
-> **Da sapere in 5 righe**
->
-> Ordinamento, offerta formativa e regolamento didattico hanno funzioni diverse. L'accreditamento verifica le condizioni applicabili alla proposta e alla sua operativita'. La qualita' accompagna progettazione, attuazione, monitoraggio e riesame. Fonti nazionali e atti dell'ateneo devono essere letti insieme. Requisiti, indicatori e passaggi locali vanno sempre verificati nella versione vigente.
+**Quiz 1.** In una domanda sugli ordinamenti didattici, qual è la distinzione più importante da fare all'inizio?
 
-## Caso guidato: una proposta di modifica dell'offerta
+A. Distinguere tra fonte nazionale, atto locale e fase del ciclo didattico.
 
-Una struttura propone di modificare un percorso per rispondere a un nuovo bisogno formativo. La richiesta arriva all'ufficio amministrativo con una breve motivazione, ma senza l'indicazione delle fonti, dei requisiti o dei passaggi decisionali.
+B. Scegliere subito l'organo che decide, anche senza leggere lo statuto.
 
-L'ufficio non puo' limitarsi a inoltrare la proposta ne' puo' decidere che la modifica sia ammissibile. Deve prima qualificare l'intervento: riguarda l'ordinamento, l'attivazione o un elemento gestionale? Da questa risposta dipendono fonti e documenti.
+C. Considerare l'offerta formativa come una pagina informativa priva di effetti amministrativi.
 
-Si costruisce quindi il fascicolo. L'istruttoria individua quadro nazionale, regolamenti e atti locali; elenca i requisiti da verificare sulle fonti vigenti; raccoglie i documenti che motivano e sostengono la proposta.
+D. Trattare accreditamento e qualità come sinonimi.
 
-Statuto e regolamenti permettono poi di ricostruire le competenze: chi cura l'istruttoria, chi esprime valutazioni e chi assume le decisioni. Se la traccia non contiene queste fonti, la risposta deve dichiarare il controllo necessario senza inventare i soggetti.
+Risposta corretta: A. La risposta deve partire dalla qualificazione della questione e dalle fonti applicabili; organi, documenti e output dipendono dal caso concreto.
 
-La proposta va infine collegata all'attuazione, indicando gli atti conseguenti, il monitoraggio e il possibile riesame. La modifica entra cosi' nel ciclo dell'offerta e della qualita' invece di restare una decisione isolata.
+**Quiz 2.** Perché i crediti formativi universitari sono rilevanti anche per l'ufficio amministrativo?
 
-## Domanda da commissario
+A. Perché servono solo alla comunicazione promozionale del corso.
 
-**Come si collegano ordinamento didattico, accreditamento e assicurazione della qualita'?**
+B. Perché collegano attività formative, piano degli studi, effetti sulla carriera e controlli del percorso.
 
-Risposta modello: l'ordinamento definisce l'architettura regolativa del percorso; la progettazione dell'offerta traduce quella cornice in una proposta dell'ateneo; l'accreditamento verifica le condizioni applicabili; l'assicurazione della qualita' accompagna attuazione, monitoraggio e riesame. Per descrivere un caso concreto bisogna aggiungere le fonti vigenti e gli atti dell'ateneo che individuano requisiti, competenze e documenti.
+C. Perché consentono di evitare il regolamento didattico.
 
-## Domanda-trappola
+D. Perché sostituiscono l'accreditamento.
 
-**Ottenuto l'accreditamento, il processo di qualita' puo' considerarsi concluso?**
+Risposta corretta: B. Il credito non è un numero isolato: organizza il percorso e può produrre effetti amministrativi su carriera, riconoscimenti e offerta.
 
-No. L'accreditamento non elimina attuazione, monitoraggio e riesame. La qualita' accompagna il funzionamento dell'offerta e usa evidenze per valutarla. Modalita', documenti e cadenze devono essere verificati nel sistema vigente e nelle fonti dell'ateneo.
+**Quiz 3.** Una proposta di modifica dell'offerta arriva senza indicazione degli atti locali. Qual è il comportamento corretto?
 
-## Errore tipico
+A. Pubblicarla, perché la proposta del dipartimento è sufficiente.
 
-Confondere fase, documento e soggetto: per esempio trattare un documento istruttorio come decisione finale oppure attribuire all'ufficio che raccoglie i dati il potere di approvare la modifica.
+B. Respingerla sempre, senza istruttoria.
 
-Correzione: prima di rispondere, scrivi sei parole sul foglio: **questione, fonte, requisiti, competenza, output, verifica**. Ogni affermazione deve trovare posto in una di queste caselle.
+C. Qualificare la modifica, individuare le fonti e chiedere o verificare gli atti locali necessari.
 
-## Mini-esercizio: costruisci lo schema decisionale
+D. Applicare il regolamento di un altro ateneo come modello.
 
-Scegli una modifica ipotetica dell'offerta e compila la griglia senza inventare dati mancanti.
+Risposta corretta: C. L'ufficio deve costruire il fascicolo e ricostruire competenze, fonti e documenti; non può inventare né trasferire regole esterne.
 
-| Campo | Risposta | Fonte o controllo |
-| --- | --- | --- |
-| Oggetto della modifica |  | proposta e disciplina pertinente |
-| Fase del ciclo |  | ordinamento, attivazione, gestione o riesame |
-| Fonti |  | quadro nazionale e atti dell'ateneo |
-| Requisiti |  | testo ufficiale vigente |
-| Soggetti e competenze |  | statuto e regolamenti |
-| Output |  | documento o atto previsto |
-| Monitoraggio e riesame |  | sistema di qualita' applicabile |
+**Quiz 4.** Quale affermazione descrive meglio l'assicurazione della qualità?
 
-Controllo finale: hai distinto ordinamento e offerta? Hai verificato se la questione riguarda accreditamento o gestione? Hai separato istruttoria e decisione? Hai indicato quali dettagli restano da controllare? Sai esporre lo schema in novanta secondi?
+A. È un giudizio generico sulla reputazione del corso.
 
-## Riferimenti consolidati
+B. È un controllo finale che si esaurisce con l'accreditamento.
 
-- [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
-- [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]]
-- [[topics/m-ir02-universita-afam-fonti-e-profili]]
-- [[entities/ministero-universita-ricerca]]
-- [[books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi]]
-- [[books/il-metodo-bando/chapters/diritto-amministrativo-operativo]]
+C. È un insieme di responsabilità, processi, evidenze, monitoraggi e riesami.
 
-## Note di review
+D. È la sola attività dell'ufficio comunicazione.
 
-Prima della pubblicazione verificare sui testi ufficiali vigenti D.M. 270/2004, D.M. 1154/2021, modello e linee ANVUR/AVA applicabili ed eventuali atti MUR sopravvenuti. Non inserire requisiti quantitativi, indicatori, termini o procedure di piattaforma senza una source note aggiornata.
+Risposta corretta: C. La qualità accompagna il ciclo didattico e rende osservabili progettazione, attuazione, monitoraggio e miglioramento.
 
-Per gli esempi concreti controllare statuto, regolamento didattico, sistema di assicurazione della qualita', organigramma e atti dell'ateneo scelto. Le attribuzioni locali non sono generalizzabili.
+**Quiz 5.** In una risposta orale, come vanno usati MUR e ANVUR?
 
-L'ordinamento AFAM segue fonti settoriali proprie ed e' sviluppato nel capitolo 11. Non trasferire automaticamente definizioni, organi o processi universitari alle istituzioni AFAM.
+A. Come sigle da citare senza spiegazione.
+
+B. Come livello istituzionale da collegare alla funzione di quadro, valutazione, accreditamento e qualità.
+
+C. Come sostituti dello statuto e del regolamento dell'ateneo.
+
+D. Come soggetti che decidono ogni modifica locale dell'offerta.
+
+Risposta corretta: B. Le sigle hanno valore solo se collegate alla funzione; gli atti locali restano necessari per l'applicazione concreta.
+
+**Quiz 6.** Qual è l'errore più grave in un caso su modifica dell'offerta formativa?
+
+A. Dichiarare che servono controlli sugli atti locali.
+
+B. Distinguere ordinamento, offerta, regolamento e qualità.
+
+C. Usare una tabella per ordinare fonti, requisiti, competenza e output.
+
+D. Attribuire competenze e requisiti specifici senza fonte vigente o atto locale.
+
+Risposta corretta: D. Nei processi universitari molti elementi sono mobili; una risposta prudente deve indicare i controlli necessari invece di inventare regole.
+
+**Quiz 7.** Quale output è più adatto a una prova teorico-pratica su questo capitolo?
+
+A. Una nota istruttoria che qualifica la modifica, indica fonti, requisiti da verificare, competenze, documenti, impatto su qualità e atti conseguenti.
+
+B. Una definizione astratta di università senza riferimento alla pratica.
+
+C. Un elenco di sigle privo di collegamento con il caso.
+
+D. Una comunicazione agli studenti preparata prima dell'atto competente.
+
+Risposta corretta: A. La prova teorico-pratica valuta la capacità di trasformare la teoria in un fascicolo amministrativo ordinato e verificabile.
+
+**Quiz 8.** Perché l'accreditamento non chiude da solo il ciclo della qualità?
+
+A. Perché dopo l'accreditamento restano attuazione, monitoraggio, analisi delle evidenze e riesame.
+
+B. Perché l'accreditamento riguarda solo le biblioteche.
+
+C. Perché la qualità è facoltativa.
+
+D. Perché il regolamento didattico non ha alcun ruolo.
+
+Risposta corretta: A. L'accreditamento è parte del ciclo; la qualità continua a seguire il funzionamento dell'offerta e le eventuali correzioni.

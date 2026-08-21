@@ -2,243 +2,187 @@
 id: chapter-m-ir02-06-bilancio-ateneo
 type: book_chapter
 title: "Bilancio di ateneo"
-status: editorial_draft
+status: candidate
 domain: "istruzione superiore italiana e concorsi pubblici"
 topics: ["universita", "bilancio di ateneo", "contabilita economico-patrimoniale", "contabilita analitica", "budget", "controllo di gestione"]
 entities: ["Ministero dell'Universita e della Ricerca", "Universita", "Ragioneria generale dello Stato"]
 source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026"]
 book_refs: ["m-ir02-universita-afam", "il-metodo-bando", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.8
-updated_at: 2026-08-03
+updated_at: 2026-08-21
 created_at: 2026-08-03
 review_required: true
 canonical: true
 tags: ["book-chapter", "module-code-m-ir02", "chapter-06", "bilancio", "budget", "controllo-di-gestione"]
 book_id: m-ir02-universita-afam
 outline_section: 6
-draft_stage: editorial-draft
+draft_stage: candidate
+format_version: 2
 last_compiled_from: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/contabilita-economico-patrimoniale-universita-enti-pubblici", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026", "topics/m-ir02-universita-afam-fonti-e-profili", "entities/ministero-universita-ricerca", "books/moduli/m-ir02-universita-afam/planning/03-piano-capitolo-06-bilancio-ateneo"]
 ---
 
 # Bilancio di ateneo
 
-## Apertura editoriale
+### N-IR02-06-01 · Bilancio universitario, fonti e funzione del budget
 
-Un servizio universitario ha previsto le risorse necessarie per funzionare durante l'anno. A gestione avviata, i costi superano le attese. Questo dato non basta per parlare di errore: lo scostamento potrebbe dipendere da un aumento delle attivita', da un evento imprevisto, da una diversa imputazione o da inefficienze. Qualunque correzione richiede prima un confronto omogeneo tra previsione e risultato, l'analisi delle cause e l'individuazione dei soggetti che dispongono delle informazioni e delle competenze necessarie.
+Il bilancio di ateneo non è un semplice fascicolo di numeri da ricordare per definizione. Per il candidato a un concorso amministrativo-contabile universitario è prima di tutto un sistema di lettura: mostra come l'università programma le attività, autorizza e governa l'impiego delle risorse, rileva i fatti di gestione, rappresenta il risultato e costruisce informazioni utili al controllo. Un ateneo non svolge una sola attività. Tiene insieme didattica, ricerca, servizi agli studenti, biblioteche, laboratori, internazionalizzazione, patrimonio, personale, acquisti, progetti e rapporti con soggetti finanziatori. Il bilancio consente di ricondurre questa pluralità a un quadro unitario, senza perdere la necessità di leggere responsabilità, centri, servizi e finalità specifiche.
 
-Il bilancio di ateneo collega programmazione, gestione, rappresentazione dei risultati e controllo. Nessun documento, però, svolge da solo tutte queste funzioni. E i numeri non sono separati dall'attivita' istituzionale: didattica, ricerca e servizi richiedono risorse, mentre la contabilita' ne rende leggibili gli effetti con regole e strumenti distinti.
+Il riferimento settoriale stabile è il D.Lgs. 18/2012, da coordinare con la normativa ministeriale applicabile alle università e con gli atti interni dell'ateneo. Questa frase va capita bene. La norma nazionale e gli atti del Ministero dell'Università e della Ricerca definiscono il quadro generale; statuto, regolamento di amministrazione, finanza e contabilità, manuale contabile, piano dei conti, procedure interne e deliberazioni dell'ateneo disciplinano la traduzione operativa. In prova non bisogna inventare l'organo competente, la scadenza, la forma della variazione o il nome del documento locale. Se la traccia richiede un caso concreto, si deve dire che la competenza e la procedura si verificano nelle fonti interne vigenti dell'ateneo, distinguendo il principio generale dall'applicazione locale.
 
-Il riferimento settoriale consolidato e' il D.Lgs. 18/2012, insieme alla disciplina ministeriale applicabile alle universita'. Schemi, principi tecnici, manuali e regolamenti del singolo ateneo devono però essere verificati nella versione vigente. [[sources/contabilita-economico-patrimoniale-universita-enti-pubblici]]
+La parola budget indica il passaggio dalla programmazione alla gestione. Il budget non è il bilancio consuntivo e non certifica ciò che è già accaduto. Esprime valori previsionali e obiettivi di riferimento, costruiti prima o durante la gestione secondo le regole applicabili. In un ateneo bisogna distinguere almeno il budget economico e il budget degli investimenti. Il budget economico guarda a costi e proventi attesi nell'esercizio; il budget degli investimenti riguarda impieghi destinati a incidere sulla struttura patrimoniale e sulla capacità operativa in modo non esaurito immediatamente. I due piani comunicano tra loro: un investimento può produrre ammortamenti, manutenzioni, costi di gestione, esigenze organizzative e conseguenze informative negli esercizi successivi.
 
-## Obiettivo del capitolo
+Il bilancio unico di ateneo ha una funzione unitaria. Serve a evitare una rappresentazione frammentata di strutture e attività, offrendo una lettura complessiva della situazione economica e patrimoniale. Questa unità non elimina la gestione interna. Un laboratorio, una biblioteca, un dipartimento, un progetto o un servizio agli studenti possono richiedere letture più analitiche, ma tali letture devono raccordarsi al quadro generale. Per il candidato, la chiave è non contrapporre meccanicamente bilancio unico e responsabilità interne: il primo rappresenta l'ateneo in modo unitario, le seconde servono a programmare, gestire, controllare e spiegare i fenomeni.
 
-Al termine saprai:
+Le parole ricorrenti nei bandi per profili contabili universitari confermano il perimetro di studio: contabilità universitaria, economico-patrimoniale, analitica, bilancio, budgeting, controllo, tesoreria, reporting, gestione dei dati e casi di bilancio. Non basta quindi conoscere una definizione astratta. Occorre saper produrre un output: una risposta orale ordinata, una breve nota contabile, una classificazione di un fatto gestionale, un'analisi dello scostamento, una distinzione tra documento programmatorio e documento di risultato. Il metodo più solido è chiedersi sempre: quale fase del ciclo sto osservando? Programmazione, gestione, rilevazione, bilancio, controllo o decisione?
 
-- distinguere contabilita' finanziaria, economico-patrimoniale e analitica;
-- spiegare la funzione del bilancio unico di ateneo;
-- separare budget economico e budget degli investimenti;
-- ricostruire il passaggio dalla programmazione alla rappresentazione dei risultati;
-- leggere uno scostamento senza trasformarlo automaticamente in un giudizio;
-- impostare una breve nota contabile per una prova concorsuale.
+Il primo errore da evitare è applicare automaticamente agli atenei lo schema mentale degli enti locali o di altre amministrazioni. I principi generali di contabilità pubblica aiutano a orientarsi, ma il regime universitario ha fonti e strumenti propri. Il secondo errore è trattare ogni documento come se avesse la stessa funzione. Budget, scrittura contabile, bilancio, report direzionale, deliberazione e manuale contabile non sono sinonimi. Il terzo errore è trasformare un numero in un giudizio. Un costo superiore al budget segnala uno scostamento; non dimostra da solo inefficienza, irregolarità o necessità di variazione. Prima servono confronto omogeneo, causa, impatto, fonte e competenza.
 
-I principi generali della contabilita' pubblica, le fasi delle entrate e delle spese e la tesoreria sono trattati nel VOL-01. Qui interessa la loro applicazione critica al contesto universitario, senza assimilare l'ateneo a un ente locale. [[books/il-metodo-bando/chapters/contabilita-pubblica-essenziale]]
+Per preparare la prova, conviene memorizzare una sequenza semplice: fonte, documento, dato, controllo, seguito. La fonte dice quale disciplina applicare; il documento dice in quale fase si colloca l'informazione; il dato va classificato; il controllo lo confronta con un riferimento; il seguito dipende da chi è competente e da quale procedura è prevista. Questa sequenza permette di rispondere anche quando la traccia è formulata come caso pratico e non come domanda teorica.
 
-## Mappa BANDO
+### N-IR02-06-02 · Contabilità finanziaria, economico-patrimoniale e analitica
 
-Nel bando cerca espressioni come "contabilita' universitaria", "contabilita' economico-patrimoniale", "contabilita' analitica", "bilancio unico", "budget", "budgeting", "controllo di gestione", "reporting" e "tesoreria". Il corpus consolidato mostra che questi nuclei ricorrono soprattutto nei profili amministrativo-contabili; la profondita' richiesta dipende però dal programma e dalla prova concreta. [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]]
+Un capitolo sul bilancio universitario richiede una distinzione preliminare tra tre linguaggi contabili: finanziario, economico-patrimoniale e analitico. La contabilità finanziaria osserva entrate e spese, flussi monetari e momenti autorizzatori o gestionali della finanza pubblica. Le parole tipiche sono accertamento, impegno, riscossione, pagamento, competenza e cassa, con significati che vanno sempre ricondotti al sistema applicabile. Per l'esame universitario questa contabilità è soprattutto un termine di confronto: aiuta a non confondere movimento di denaro, autorizzazione della spesa e risultato economico. Non deve però diventare un'applicazione automatica delle regole di Stato, regioni o enti locali all'ateneo.
 
-| Passaggio | Domanda operativa | Output di studio |
-| --- | --- | --- |
-| **B - Bando** | Quali sistemi, documenti e attivita' sono nominati? | perimetro della prova |
-| **A - Aree** | La traccia riguarda previsione, gestione, risultato o controllo? | qualificazione del problema |
-| **N - Nuclei** | Quali distinzioni contabili devo applicare? | mappa concettuale |
-| **D - Diario** | Ho confuso budget, bilancio, dato analitico o decisione? | errore classificato |
-| **O - Output** | Serve una spiegazione, un'analisi o una nota? | forma della risposta |
+La contabilità economico-patrimoniale risponde a domande diverse. Non chiede solo quali somme siano state incassate o pagate, ma quali costi e ricavi appartengano all'esercizio, quali attività e passività compongano la situazione patrimoniale, quale risultato economico emerga dalla gestione. Il suo criterio centrale è la competenza economica: il costo o il ricavo vanno riferiti al periodo in cui maturano secondo la disciplina applicabile, non semplicemente alla data del pagamento o dell'incasso. Per questo diventano importanti concetti come ammortamenti, ratei e risconti, da conoscere nella loro funzione anche quando la prova non richiede scritture tecniche puntuali.
 
-Memorizzare un piano dei conti isolato serve a poco. In prova bisogna riconoscere la funzione del dato, il documento in cui compare e il passaggio del ciclo cui appartiene.
+Il costo esprime il consumo di risorse riferibile all'attività e al periodo. Il ricavo, o provento secondo la terminologia del sistema adottato, rappresenta una componente positiva della gestione. Le attività sono elementi patrimoniali positivi; le passività sono obbligazioni o elementi negativi che gravano sulla situazione patrimoniale. L'investimento è diverso dal costo di esercizio: riguarda un impiego in un bene o fattore destinato a utilità non esaurita immediatamente. Un computer acquistato per un servizio può generare un pagamento, un bene iscritto nel patrimonio, un processo di ammortamento e costi accessori di gestione. Confondere questi piani significa perdere il senso del bilancio.
 
-## Tre sistemi da distinguere
+La contabilità analitica ha ancora un'altra funzione. Non è un secondo bilancio ufficiale da contrapporre al bilancio unico. È un sistema informativo interno che legge costi e risultati rispetto a oggetti di osservazione: centri di costo, servizi, attività, progetti, strutture, linee operative. Se la contabilità generale rappresenta l'ateneo nel suo complesso, quella analitica aiuta a capire dove le risorse vengono assorbite, con quali finalità e con quali risultati gestionali. La sua utilità emerge soprattutto nel controllo di gestione, nel reporting e nell'analisi degli scostamenti.
 
-### Contabilita' finanziaria
+La tabella mentale da portare in prova è questa. La contabilità finanziaria guarda a entrate, spese e flussi; l'errore tipico è ridurre ogni fenomeno al pagamento. La contabilità economico-patrimoniale guarda a costi, ricavi, patrimonio e risultato; l'errore tipico è confondere costo, uscita monetaria e investimento. La contabilità analitica guarda all'impiego delle risorse per oggetti interni; l'errore tipico è considerare il dato analitico come una decisione già assunta. Un report che segnala un costo elevato per un servizio non decide da solo il taglio del servizio. Offre informazione al soggetto competente, che dovrà valutarla nel quadro degli obiettivi e delle regole.
 
-La contabilita' finanziaria osserva entrate e spese attraverso le fasi e i vincoli propri della gestione pubblica. Ha una funzione autorizzatoria e di controllo dei flussi finanziari. Accertamento, impegno, riscossione e pagamento appartengono a questo linguaggio generale, che va approfondito nel capitolo comune del VOL-01.
+Questa distinzione è decisiva anche per la forma della risposta. Se la domanda chiede di "spiegare il bilancio di ateneo", bisogna partire dal quadro settoriale e poi distinguere strumenti di programmazione, rilevazione e rappresentazione. Se la domanda chiede di "analizzare uno scostamento", bisogna usare il linguaggio analitico e gestionale. Se la traccia parla di "tesoreria" o flussi, bisogna riconoscere il profilo finanziario senza abbandonare il raccordo con il sistema universitario. La risposta matura non sceglie un solo linguaggio: seleziona quello adeguato alla domanda e chiarisce i raccordi.
 
-Nel contesto universitario, i concetti usati per lo Stato o per gli enti territoriali non operano necessariamente allo stesso modo. La fonte speciale, la disciplina ministeriale e gli atti dell'ateneo determinano strumenti, raccordi e procedure applicabili.
+Un esempio senza numeri aiuta. Un ateneo prevede nel budget risorse per rinnovare una dotazione tecnica. Se acquista beni durevoli, non è corretto trattare l'intera vicenda come una semplice spesa corrente priva di effetti patrimoniali. Occorre chiedersi se si tratta di investimento, quale bene entra nel patrimonio, quali costi economici maturano nell'esercizio, quali documenti supportano la rilevazione e quali regole locali indicano classificazione e responsabilità. Se invece il servizio sostiene un costo per una prestazione consumata nell'anno, l'analisi economica sarà diversa. In entrambi i casi la risposta non inventa il conto o la scrittura: spiega il criterio e rinvia alla disciplina tecnica applicabile.
 
-### Contabilita' economico-patrimoniale
+Per l'orale, una formula efficace è: "Il medesimo fatto gestionale può essere letto sotto più profili. Il pagamento riguarda il flusso monetario; il costo riguarda la competenza economica; l'investimento riguarda la natura patrimoniale dell'impiego; il dato analitico riguarda l'oggetto interno cui attribuire il fenomeno". Questa frase dimostra padronanza perché separa le dimensioni senza isolarle.
 
-La contabilita' economico-patrimoniale rappresenta costi e ricavi, attivita' e passivita', patrimonio e risultato economico. Risponde a domande diverse da quelle puramente finanziarie: quale costo appartiene all'esercizio? Quali risorse e obbligazioni compongono la situazione patrimoniale? Quale risultato emerge dalla gestione?
+### N-IR02-06-03 · Ciclo budget-gestione-bilancio e documenti contabili
 
-Il costo esprime il consumo di risorse riferibile all'attivita' e al periodo; il ricavo rappresenta la componente positiva di reddito secondo la disciplina applicabile. Attivita' e passivita' descrivono invece elementi della situazione patrimoniale. Un investimento non coincide automaticamente con un costo interamente attribuito all'esercizio: l'acquisizione di un bene durevole produce effetti patrimoniali ed economici che devono essere rappresentati secondo i principi vigenti.
+Il ciclo del bilancio di ateneo può essere studiato come una catena: programmazione, budget, gestione, rilevazione, bilancio, confronto, reporting e azione eventuale. La programmazione nasce dagli obiettivi istituzionali e dalle attività previste. L'ateneo deve far funzionare corsi, servizi, ricerca, strutture amministrative e supporti tecnici; per farlo trasforma obiettivi e vincoli in previsioni economiche e di investimento. Il budget rende queste previsioni utilizzabili come riferimento gestionale. Non è un numero isolato: deve avere oggetto, periodo, perimetro, ipotesi e responsabilità informative.
 
-Queste distinzioni impediscono un errore frequente: far coincidere movimento di denaro, costo e investimento. Un pagamento e' un flusso monetario; il costo riguarda la competenza economica; l'investimento riguarda l'impiego di risorse in un fattore destinato a utilita' non esaurita immediatamente. Il loro collegamento va ricostruito, non presunto.
+La gestione è il momento in cui i fatti accadono: contratti, ordini, prestazioni, fatture, incassi, pagamenti, acquisizioni di beni, servizi resi, attività realizzate. Ogni fatto deve essere supportato da documenti e da un flusso tracciabile. Un candidato non deve descrivere il gestionale specifico di un ateneo se non è fornito dalla traccia, ma deve saper distinguere le funzioni: il contratto o l'atto presupposto fonda la relazione; il documento contabile alimenta la rilevazione; l'attestazione della prestazione o della regolare esecuzione conferma un passaggio operativo; la registrazione attribuisce il dato al sistema; il pagamento riguarda il flusso monetario; il report seleziona e interpreta informazioni per un destinatario.
 
-### Contabilita' analitica
+La rilevazione contabile traduce i fatti nel linguaggio del sistema. Qui entra la competenza economica: costi e ricavi sono riferiti all'esercizio di competenza secondo i principi applicabili. Se una prestazione riguarda un periodo diverso da quello del pagamento, il sistema deve evitare che il risultato dipenda solo dalla data monetaria. Ammortamenti, ratei e risconti servono proprio a rappresentare correttamente il rapporto tra tempo, utilità economica e risultato, ma in un manuale per concorsi non vanno trasformati in scritture inventate. Il candidato deve spiegare la funzione e, se richiesto, applicare il criterio a dati forniti dalla traccia.
 
-La contabilita' analitica legge costi e risultati rispetto a oggetti interni: centri di costo, attivita', progetti o servizi, secondo il modello adottato. Se la contabilita' generale offre una rappresentazione complessiva, quella analitica aiuta a capire dove le risorse sono state assorbite e per quale finalita'.
+Il bilancio della gestione conclusa non coincide con il budget. Il conto economico rappresenta componenti positive e negative e conduce alla determinazione del risultato economico dell'esercizio. Lo stato patrimoniale rappresenta attività, passività e patrimonio a una determinata data. Sono documenti collegati, ma non sostituibili. Un risultato economico positivo o negativo non dice da solo tutto sulla liquidità, sulla struttura patrimoniale o sulla sostenibilità di ogni servizio. Un bene iscritto tra le attività non equivale automaticamente a denaro disponibile. Per questo la lettura deve essere integrata, prudente e coerente con la funzione di ciascun documento.
 
-Non si tratta, dunque, di un terzo bilancio autonomo, ma di uno strumento informativo per la programmazione e il controllo. La configurazione dei centri, i criteri di attribuzione e le regole di ribaltamento dipendono dalle scelte tecniche e organizzative dell'ateneo.
+I documenti contabili universitari vanno letti insieme alle regole locali. Il regolamento di amministrazione, finanza e contabilità può disciplinare iter, competenze, responsabilità, variazioni e controlli. Il manuale contabile può dettagliare criteri tecnici, classificazioni, flussi e istruzioni operative. Il piano dei conti consente la classificazione dei fenomeni. Gli atti di budget e bilancio rendono visibili previsioni e risultati. I report interni organizzano informazioni per governo, direzione e strutture. In prova, quando questi documenti non sono allegati, non bisogna inventarne il contenuto. Bisogna indicare quali andrebbero consultati e perché.
 
-| Sistema | Che cosa osserva | Parole chiave | Errore da evitare |
-| --- | --- | --- | --- |
-| Finanziario | entrate, spese e relativi flussi | autorizzazione, accertamento, impegno, riscossione, pagamento | applicare automaticamente il modello di un altro ente |
-| Economico-patrimoniale | costi, ricavi, attivita', passivita' e patrimonio | competenza economica, risultato, conto economico, stato patrimoniale | confondere costo e pagamento |
-| Analitico | impiego delle risorse per oggetti interni | centro di costo, attivita', servizio, scostamento | scambiare il dato analitico per una decisione gia' presa |
+Il controllo nasce dal confronto tra valori omogenei. Non si può confrontare un budget riferito a un servizio con un dato consuntivo che include attività ulteriori; non si può confrontare un trimestre con un anno intero senza normalizzare il periodo; non si può confrontare un costo stimato con una rilevazione costruita su classificazioni diverse. La comparabilità è la prima regola del controllo. Solo dopo si può parlare di scostamento, causa, impatto e possibile seguito.
 
-I sistemi rispondono a domande differenti e possono essere raccordati. Non e' corretto sostenere, in astratto, che la contabilita' economico-patrimoniale renda sempre irrilevante ogni informazione finanziaria. [[sources/contabilita-economico-patrimoniale-universita-enti-pubblici]]
+Una risposta scritta può essere costruita con sei righe logiche. Primo: identifico il documento di partenza e la fase del ciclo. Secondo: individuo l'oggetto osservato, per esempio servizio, centro, progetto o investimento. Terzo: verifico la fonte del dato e il perimetro temporale. Quarto: distinguo previsione, rilevazione e risultato. Quinto: interpreto lo scostamento solo dopo aver controllato omogeneità e cause. Sesto: indico che l'azione eventuale dipende dalla competenza e dalla procedura prevista dalle fonti dell'ateneo. Questa struttura evita risposte generiche e impedisce di confondere dato contabile e decisione amministrativa.
 
-## Il quadro contabile dell'universita'
+Il ruolo degli uffici e degli organi va trattato con cautela. In astratto si possono distinguere organi di indirizzo e approvazione, strutture amministrativo-contabili, responsabili di centro, servizi di controllo e uffici che producono dati e documenti. Tuttavia il nome concreto, il potere di variazione, il flusso autorizzativo e il livello di responsabilità dipendono dalle fonti vigenti dell'ateneo. Il candidato competente non attribuisce poteri per analogia: usa la traccia, cita la necessità di verificare statuto e regolamento e ragiona sul ciclo.
 
-### D.Lgs. 18/2012, bilancio unico e fonti MUR
+### N-IR02-06-04 · Contabilità analitica, controllo di gestione e reporting
 
-Il D.Lgs. 18/2012 costituisce il riferimento legislativo settoriale per il sistema contabile e gli schemi di bilancio delle universita'. Il quadro va letto con gli atti ministeriali pertinenti e con la regolazione interna. La gerarchia delle fonti evita due estremi: trattare il regolamento locale come se fosse la norma primaria oppure ignorarlo quando disciplina il flusso operativo dell'ateneo.
+La contabilità analitica serve a trasformare il dato contabile in informazione utile per governare attività e servizi. Il bilancio unico offre una rappresentazione complessiva dell'ateneo; la contabilità analitica permette di osservare oggetti interni più circoscritti. Un costo aggregato dell'università dice poco sul funzionamento di una biblioteca, di un servizio di orientamento, di una segreteria studenti, di un laboratorio o di una linea progettuale. Attribuire i costi a centri, attività o servizi consente di capire meglio dove le risorse vengono assorbite e se l'andamento è coerente con gli obiettivi.
 
-Il bilancio unico offre una rappresentazione unitaria dell'ateneo, al posto di una lettura frammentata delle strutture. Restano comunque rilevanti responsabilita', centri e destinazioni. La contabilita' analitica mantiene questa lettura gestionale interna nel quadro complessivo.
+L'oggetto analitico non coincide sempre con un ufficio. Può essere un centro di costo, un centro di responsabilità, un processo, un servizio, un'attività, un progetto o una struttura. La scelta dipende dal modello organizzativo e contabile dell'ateneo. Anche i criteri di attribuzione richiedono attenzione. Alcuni costi sono direttamente riferibili a un oggetto; altri sono comuni e devono essere ripartiti con criteri ragionevoli, documentati e coerenti. Un ribaltamento arbitrario può produrre numeri apparentemente precisi ma gestionalmente deboli. In prova bisogna quindi parlare di "criteri di attribuzione" e "comparabilità", non di precisione assoluta del dato analitico.
 
-Una risposta concorsuale può seguire tre livelli:
+Il controllo di gestione utilizza queste informazioni per verificare l'andamento rispetto a obiettivi, risorse, tempi e risultati. Non sostituisce la decisione degli organi o dei responsabili competenti. Supporta la decisione. Questa distinzione è fondamentale: un indicatore non è un provvedimento; uno scostamento non è una colpa; un report non è una delibera. Il controllo produce conoscenza organizzata, evidenzia segnali, propone letture e può indicare opzioni, ma il seguito amministrativo richiede competenza, istruttoria e atto conforme alle regole.
 
-1. indicare il quadro legislativo e ministeriale;
-2. spiegare la funzione dello strumento contabile;
-3. rinviare a statuto, regolamento di amministrazione e contabilita', manuali e atti vigenti per competenze e procedure puntuali.
+Lo scostamento è la differenza tra un valore di riferimento e un valore rilevato, purché i valori siano omogenei. Può riguardare costi, proventi, volumi, tempi, indicatori di attività o altri parametri. Uno scostamento sfavorevole non significa automaticamente inefficienza; uno scostamento favorevole non significa automaticamente virtuosità. Una minore spesa può dipendere da risparmio, ma anche da attività non realizzata, ritardo, blocco procedurale o imputazione errata. Una maggiore spesa può dipendere da inefficienza, ma anche da aumento degli utenti serviti, ampliamento del servizio, incremento dei prezzi, costi straordinari o diversa classificazione. Il controllo serio non salta alla conclusione.
 
-Approvazione, variazione e controllo non vanno attribuiti a un organo per analogia. Le competenze si ricostruiscono sulle fonti dell'ateneo, come spiegato nel capitolo 02.
+L'analisi dello scostamento deve rispondere almeno a cinque domande. Primo: i valori hanno lo stesso perimetro? Secondo: riguardano lo stesso periodo? Terzo: sono costruiti con gli stessi criteri di classificazione? Quarto: la differenza dipende da quantità, prezzo, tempi, attività effettivamente svolta o errore di imputazione? Quinto: quale impatto produce sul servizio, sul centro, sul budget e sul quadro complessivo? Solo dopo queste domande si può formulare una proposta. Anche allora, la proposta va separata dalla decisione.
 
-### Budget economico e budget degli investimenti
+Il reporting è la forma comunicativa del controllo. Un buon report non accumula tabelle senza spiegazione. Seleziona dati pertinenti, indica fonte, periodo e perimetro, confronta valori omogenei, distingue fatto, ipotesi e interpretazione, chiarisce le verifiche ancora necessarie e individua il destinatario. Per una prova concorsuale, il report può diventare una breve nota contabile. La nota deve essere ordinata: oggetto, fonte, budget, dato rilevato, scostamento, causa accertata o da verificare, impatto, competenza, opzioni di seguito. Non deve inventare numeri; usa quelli forniti dalla traccia oppure ragiona qualitativamente.
 
-Il budget traduce la programmazione in valori di riferimento per la gestione. Il budget economico riguarda costi e proventi previsti secondo la prospettiva economica; il budget degli investimenti riguarda gli impieghi destinati a incidere sulla struttura patrimoniale e sulla capacita' operativa oltre l'utilizzo immediato.
+Le regole locali sono decisive nel passaggio dal report all'azione. Un ateneo può disciplinare con propri atti le responsabilità dei centri, le procedure di variazione, le soglie autorizzative, il flusso dei controlli, le classificazioni e le modalità di reporting. Il candidato non deve conoscere a memoria il manuale di ogni ateneo, ma deve sapere che per un caso concreto quei documenti sono vincolanti. Questo atteggiamento è spesso più importante di una risposta piena di dettagli non verificati: mostra consapevolezza amministrativa e riduce il rischio di affermazioni false.
 
-I due strumenti sono distinti, ma non indipendenti. Un investimento puo' produrre successivi costi di gestione e componenti economiche negli esercizi interessati. Anche una decisione operativa apparentemente limitata all'anno puo' richiedere beni, servizi o personale con effetti da coordinare.
+Per l'orale, una risposta solida può chiudersi così: "La contabilità analitica non sostituisce il bilancio unico; lo integra sul piano gestionale, attribuendo costi e risultati a oggetti interni. Il controllo di gestione usa tali dati per misurare scostamenti e supportare decisioni, mentre il reporting traduce l'analisi in informazioni comprensibili per il destinatario competente. Ogni seguito operativo richiede verifica delle fonti locali". In poche frasi si coprono funzione, limiti, output e prudenza sulle competenze.
 
-Il budget non certifica ciò che e' gia' avvenuto. Esprime una previsione e un riferimento gestionale, formato e approvato secondo le regole applicabili. Il bilancio riferito alla gestione conclusa rappresenta invece risultati e situazione emersi dalle rilevazioni. Confondere i due momenti impedisce di calcolare e spiegare gli scostamenti.
+### N-IR02-06-05 · Caso ragionato e output concorsuali
 
-## Dal budget al bilancio
+Immagina una traccia di prova scritta: "Un servizio universitario registra costi superiori a quanto previsto nel budget. Il candidato rediga una breve nota istruttoria indicando verifiche da svolgere, possibili cause dello scostamento e seguito amministrativo". La risposta non deve iniziare con una decisione. Deve iniziare con la qualificazione del problema. Il dato comunica uno scostamento tra una previsione e una rilevazione; non dimostra ancora la causa. La prima operazione è identificare il servizio, la voce interessata, il periodo, la versione del budget e il documento da cui deriva il dato rilevato.
 
-### Programmazione e autorizzazione interna
+Il secondo passaggio è verificare l'omogeneità. Il budget e il dato consuntivo riguardano lo stesso perimetro? Il servizio ha svolto le stesse attività previste? Il periodo è identico? Il dato rilevato comprende costi riferibili ad altri servizi, esercizi o progetti? Sono state usate le stesse classificazioni? Senza queste verifiche, la differenza può essere solo apparente. Un costo attribuito al centro sbagliato, una fattura riferita a un periodo diverso o un'attività aggiuntiva non prevista possono alterare il confronto.
 
-La programmazione parte dagli obiettivi istituzionali e dalle attivita' necessarie per perseguirli. I valori di budget devono essere collegati a ipotesi, tempi, responsabilita' e fonti informative. Un numero privo di queste coordinate e' difficile da controllare.
+Il terzo passaggio è distinguere le cause. Lo scostamento può dipendere da quantità maggiori, aumento dei prezzi, attivazione di prestazioni ulteriori, errore di imputazione, ritardo nella registrazione, investimento trattato impropriamente, modifica del servizio o evento non programmato. Alcune cause richiedono una correzione contabile; altre richiedono una decisione gestionale; altre ancora possono giustificare una proposta di variazione del budget, se la disciplina locale lo consente. La nota deve indicare quali cause sono documentate e quali restano da verificare.
 
-La presenza di una previsione non equivale a un'autorizzazione illimitata a sostenere qualunque operazione riconducibile alla stessa voce. Ogni gestione resta soggetta a competenze, procedure, vincoli e controlli. Se occorre modificare il budget, l'operatore non inventa la procedura: verifica regolamento, manuale e atto competente.
+Il quarto passaggio è valutare l'impatto. Un aumento di costo può essere grave se compromette il quadro complessivo o se segnala una criticità strutturale; può essere sostenibile se corrisponde a un ampliamento deliberato del servizio; può essere neutro sul piano gestionale se deriva da una riclassificazione. L'impatto va letto rispetto al servizio, agli obiettivi dell'ateneo, al centro osservato e al bilancio complessivo. Anche qui non servono dati inventati: se la traccia non fornisce numeri, il candidato ragiona per categorie e indica quali dati acquisirebbe.
 
-### Rilevazione della gestione e competenza economica
+Il quinto passaggio è individuare destinatario e competenza. La nota può essere indirizzata al responsabile della struttura, alla direzione amministrativa, all'ufficio contabilità, al controllo di gestione o ad altro soggetto indicato dalle fonti locali. Non bisogna attribuire automaticamente il potere di variazione o approvazione. La formula corretta è: "il seguito dovrà essere assunto dal soggetto competente secondo statuto, regolamento di amministrazione, finanza e contabilità, manuale contabile e atti organizzativi dell'ateneo". Questa non è una fuga dalla risposta; è precisione amministrativa.
 
-Durante la gestione, fatti e documenti alimentano le rilevazioni. La qualita' del risultato dipende dalla tracciabilita' del processo: contratto, ordine, documento contabile, attestazione della prestazione, pagamento e registrazione hanno funzioni differenti. Il ciclo documentale e' approfondito nel capitolo 05.
+Il sesto passaggio è formulare l'output. Una nota concorsuale efficace può avere questa struttura: oggetto della verifica; fonte del budget; fonte del dato rilevato; descrizione dello scostamento; controlli di omogeneità; possibili cause; causa documentata, se presente; impatto; uffici o soggetti da coinvolgere; proposta di seguito. Le opzioni di seguito possono essere diverse: correzione dell'imputazione, approfondimento istruttorio, rimodulazione gestionale, proposta di variazione, aggiornamento del report, monitoraggio successivo. Ogni opzione va motivata e subordinata alla procedura applicabile.
 
-La competenza economica attribuisce costi e ricavi al periodo cui si riferiscono, indipendentemente dalla sola data dell'incasso o del pagamento. Da qui derivano tecniche come ammortamenti, ratei e risconti. In questo capitolo interessa la loro funzione: evitare che il risultato dell'esercizio dipenda soltanto dal momento monetario. Le scritture specifiche devono essere verificate sui principi e sul manuale contabile vigente.
+Ecco una possibile risposta sintetica, senza numeri inventati: "Lo scostamento va preliminarmente qualificato come differenza tra budget e dato rilevato riferita a un servizio. Prima di proporre interventi occorre verificare che budget e consuntivo abbiano stesso perimetro, periodo e criterio di classificazione. Devono essere acquisiti documenti contabili, atti presupposti, eventuali ordini o contratti, attestazioni della prestazione e report analitici. Le cause possono riguardare aumento dei volumi, incremento dei prezzi, attività non prevista, errore di imputazione o diversa competenza economica. La nota deve distinguere dati accertati e ipotesi, valutare l'impatto sul servizio e trasmettere l'esito al soggetto competente secondo le regole dell'ateneo. Il seguito potrà consistere in correzione contabile, approfondimento, monitoraggio o proposta di variazione, se ne ricorrono presupposti e procedura".
 
-Un servizio puo' ricevere una fattura o effettuare un pagamento in un momento diverso da quello in cui ha utilizzato la risorsa. Il confronto tra budget e risultato ha senso soltanto se i valori sono costruiti su basi coerenti.
+Questo caso mostra anche gli output d'esame più probabili. All'orale può essere chiesto di spiegare il rapporto tra budget, bilancio e controllo. Nello scritto può comparire una nota istruttoria. Nei quiz può essere richiesto di distinguere costo, pagamento e investimento. In una prova pratica può essere dato un prospetto con valori e richiesto di individuare lo scostamento, ma il candidato deve sempre controllare comparabilità e fonte. In una domanda-trappola può comparire l'affermazione secondo cui la contabilità economico-patrimoniale elimina ogni informazione finanziaria o secondo cui il report decide automaticamente la variazione. Entrambe sono scorrette.
 
-### Conto economico, stato patrimoniale e risultato
+La regola finale è semplice: non trasformare il bilancio in aritmetica senza amministrazione. Nel contesto universitario i numeri sono leggibili solo se collegati a fonti, documenti, ruoli, competenze, criteri e finalità istituzionali. Il candidato preparato non recita un elenco di prospetti; costruisce una risposta che passa dalla fonte al dato, dal dato al controllo, dal controllo al report e dal report al seguito competente.
 
-Il conto economico rappresenta le componenti positive e negative e conduce alla determinazione del risultato economico dell'esercizio. Lo stato patrimoniale rappresenta attivita', passivita' e patrimonio a una determinata data. Sono prospetti collegati, ma non intercambiabili.
+## ▣ Verifica
 
-Il risultato economico, da solo, non descrive la liquidita', la composizione del patrimonio o la sostenibilita' di ogni attivita'. Neppure la presenza di un'attivita' patrimoniale prova che esistano risorse monetarie immediatamente disponibili. Per questo prospetti, note e informazioni gestionali vanno letti insieme.
+**Quiz 1.** Qual è la funzione principale del budget in un ateneo?
 
-| Fase | Oggetto | Domanda di controllo | Esito informativo |
-| --- | --- | --- | --- |
-| Budget | valori previsti | Che cosa si intende realizzare e con quali risorse? | riferimento della gestione |
-| Gestione | fatti amministrativi ed economici | Che cosa e' avvenuto e con quale documentazione? | rilevazioni tracciabili |
-| Bilancio | risultato e situazione patrimoniale | Come si rappresenta l'esercizio concluso? | quadro economico-patrimoniale |
-| Confronto | previsto e realizzato comparabili | Dove emergono scostamenti? | segnale da interpretare |
-| Reporting | dati selezionati e contestualizzati | Che cosa deve conoscere il destinatario? | supporto alla decisione |
-| Azione | intervento competente | Quale verifica o correzione e' giustificata? | seguito amministrativo |
+A. Certificare definitivamente i risultati della gestione conclusa.  
+B. Tradurre la programmazione in valori previsionali e riferimenti gestionali.  
+C. Sostituire il regolamento di amministrazione, finanza e contabilità.  
+D. Decidere automaticamente ogni variazione contabile.
 
-## Contabilita' analitica, controllo e reporting
+Risposta corretta: B. Il budget appartiene alla fase programmatoria e gestionale; il bilancio della gestione conclusa rappresenta invece risultati e situazione patrimoniale.
 
-### Centri di costo, attivita' e servizi
+**Quiz 2.** Quale affermazione distingue correttamente costo, pagamento e investimento?
 
-La contabilita' analitica rende il dato utile alla gestione interna. Un costo complessivo dell'ateneo dice poco sul funzionamento di una biblioteca, di un laboratorio o di un servizio agli studenti. Attribuire i costi a un oggetto di analisi consente confronti più mirati.
+A. Sono sempre la stessa cosa, perché tutti producono un'uscita.  
+B. Il pagamento è un flusso monetario, il costo riguarda la competenza economica, l'investimento riguarda un impiego con utilità non immediatamente esaurita.  
+C. Il costo esiste solo quando viene pagato nello stesso giorno.  
+D. L'investimento è sempre un costo corrente.
 
-L'oggetto non coincide necessariamente con un ufficio. Puo' essere una struttura, un servizio, un'attivita' o un progetto, secondo il modello adottato. Anche la distinzione tra costi direttamente riferibili e costi comuni richiede criteri verificabili. Un'attribuzione arbitraria produce precisione apparente, non informazione affidabile.
+Risposta corretta: B. I tre profili possono collegarsi nello stesso fatto gestionale, ma rispondono a domande diverse e vanno classificati secondo le regole applicabili.
 
-Il controllo di gestione usa queste informazioni per verificare l'andamento rispetto agli obiettivi e supportare decisioni. Non sostituisce gli organi competenti e non trasforma automaticamente un indicatore in un provvedimento.
+**Quiz 3.** A che cosa serve la contabilità analitica?
 
-### Scostamenti e report direzionale
+A. A sostituire il bilancio unico di ateneo.  
+B. A leggere costi e risultati rispetto a centri, servizi, attività o altri oggetti interni.  
+C. A eliminare la necessità di documenti contabili.  
+D. A stabilire da sola quale organo deve approvare il bilancio.
 
-Lo scostamento e' la differenza tra un valore di riferimento e un valore rilevato, purché i due siano comparabili. Puo' riguardare costi, ricavi, volumi o altri indicatori. Definirlo "favorevole" o "sfavorevole" non basta. Una minore spesa può derivare da efficienza oppure da un'attivita' non realizzata; una maggiore spesa può segnalare inefficienza oppure un servizio più ampio del previsto.
+Risposta corretta: B. La contabilità analitica è uno strumento informativo interno per programmazione, controllo e reporting; non sostituisce bilancio unico o competenze formali.
 
-L'analisi procede almeno attraverso cinque domande:
+**Quiz 4.** Uno scostamento tra budget e dato rilevato dimostra automaticamente inefficienza?
 
-- i valori hanno lo stesso perimetro e lo stesso periodo?
-- lo scostamento dipende dal volume, dal prezzo, dai tempi o dalla classificazione?
-- la causa e' documentata o soltanto ipotizzata?
-- quale effetto produce su servizio, obiettivo e situazione complessiva?
-- chi deve ricevere il report e quale seguito può disporre?
+A. Sì, ogni maggiore costo è inefficienza.  
+B. Sì, se riguarda un servizio agli studenti.  
+C. No, prima occorre verificare comparabilità, cause, perimetro, periodo e impatto.  
+D. No, perché gli scostamenti non vanno mai analizzati.
 
-Il report seleziona dati pertinenti, esplicita fonte e periodo, confronta valori omogenei e distingue fatto, interpretazione e proposta. Una tabella accurata ma priva di contesto non e' ancora un buon report.
+Risposta corretta: C. Lo scostamento è un segnale da interpretare; può dipendere da molte cause, incluse attività aggiuntive, prezzi, classificazioni o errori di imputazione.
 
-## Il protocollo B-G-S-R-A
+**Quiz 5.** Quale documento rappresenta componenti positive e negative della gestione e conduce al risultato economico dell'esercizio?
 
-Per risolvere un caso contabile usa la sequenza **B-G-S-R-A**:
+A. Conto economico.  
+B. Stato patrimoniale.  
+C. Manuale contabile.  
+D. Regolamento didattico.
 
-1. **Budget**: individua previsione, oggetto, periodo e ipotesi iniziali.
-2. **Gestione**: ricostruisci i fatti e i documenti che hanno prodotto il dato.
-3. **Scostamento**: confronta valori omogenei e quantifica la differenza solo se i dati sono verificati.
-4. **Report**: presenta causa accertata, causa da verificare, impatto e destinatario.
-5. **Azione**: indica il seguito possibile, subordinandolo alla competenza e alla procedura applicabile.
+Risposta corretta: A. Il conto economico riguarda componenti positive e negative; lo stato patrimoniale rappresenta attività, passività e patrimonio a una certa data.
 
-Il protocollo funziona se i passaggi restano distinti. Il budget non e' il risultato. Lo scostamento non coincide con la sua causa, il report non coincide con la decisione e una proposta non e' un atto gia' adottato.
+**Quiz 6.** In un caso concreto, dove si verificano competenze, procedure di variazione e flussi autorizzativi dell'ateneo?
 
-## Da sapere in 5 righe
+A. In analogia con il TUEL, senza altre verifiche.  
+B. Solo nella memoria personale del candidato.  
+C. Nelle fonti interne vigenti: statuto, regolamento di amministrazione, finanza e contabilità, manuale contabile e atti organizzativi.  
+D. Nel report, che decide sempre il seguito.
 
-Il sistema universitario collega budget, contabilita' economico-patrimoniale e contabilita' analitica. Il budget programma; le rilevazioni rappresentano la gestione; conto economico e stato patrimoniale descrivono risultato e situazione patrimoniale. La contabilita' analitica legge costi e risultati per oggetti interni. Il reporting interpreta gli scostamenti e supporta, senza sostituirla, la decisione competente.
+Risposta corretta: C. Le fonti nazionali danno il quadro; le regole locali disciplinano competenze e procedure concrete.
 
-## Caso guidato: uno scostamento nel budget di un servizio
+**Quiz 7.** Qual è il compito di un report direzionale o di controllo?
 
-Il responsabile di un servizio agli studenti segnala costi superiori al budget. Concludere subito che occorra ridurre la spesa o variare il budget sarebbe prematuro. La risposta deve partire dall'istruttoria.
+A. Accumulare dati senza selezione.  
+B. Selezionare dati pertinenti, indicare fonte e periodo, distinguere fatti, ipotesi e interpretazioni, supportando il destinatario competente.  
+C. Approvare automaticamente il bilancio.  
+D. Sostituire gli atti presupposti della gestione.
 
-**Primo passaggio: definire il confronto.** Si identificano voce, periodo, servizio e versione del budget. Si verifica che il consuntivo utilizzi lo stesso perimetro e che non comprenda costi riferiti ad altre attivita' o periodi.
+Risposta corretta: B. Il report è uno strumento informativo e argomentativo: supporta la decisione, ma non coincide con l'atto decisionale.
 
-**Secondo passaggio: ricostruire la gestione.** Si consultano documenti e rilevazioni. L'aumento può dipendere da più utenti serviti, maggior costo unitario, prestazioni ulteriori, ritardi nella contabilizzazione o classificazioni da correggere. Finché manca evidenza, queste restano ipotesi.
+**Quiz 8.** Quale risposta è più corretta davanti a una traccia su costi superiori al budget di un servizio universitario?
 
-**Terzo passaggio: valutare l'impatto.** Si considera se lo scostamento comprometta il servizio, altri obiettivi o l'equilibrio del centro osservato. Il dato locale viene raccordato al quadro complessivo dell'ateneo.
+A. Proporre subito il taglio del servizio.  
+B. Affermare subito che il responsabile ha violato il budget.  
+C. Verificare perimetro, periodo, fonte, classificazione, cause e competenza prima di proporre il seguito.  
+D. Ignorare il dato perché il budget non ha alcuna funzione.
 
-**Quarto passaggio: riferire.** La nota distingue dato accertato, causa documentata, verifiche ancora necessarie e opzioni. Indica le fonti consultate e il destinatario competente secondo l'organizzazione vigente.
-
-**Quinto passaggio: dare seguito.** Correzione contabile, rimodulazione operativa o modifica del budget non sono equivalenti. La scelta richiede presupposti e procedure specifici. Se il dato e' stato imputato male si corregge la rappresentazione; se la gestione e' cambiata si valuta l'azione sostanziale; se il riferimento programmatico non e' più adeguato si verifica la procedura prevista per aggiornarlo.
-
-## Domanda da commissario
-
-**Spieghi il rapporto tra budget, bilancio e reporting in un ateneo e il ruolo della contabilita' analitica.**
-
-La risposta parte dal quadro settoriale e distingue previsione e risultato. Spiega poi la competenza economica e i prospetti di bilancio, quindi colloca l'analitica come lettura per centri, attivita' o servizi. In chiusura chiarisce che il reporting confronta dati omogenei, interpreta gli scostamenti e fornisce elementi al soggetto competente. I dettagli locali non richiesti appesantiscono l'esposizione.
-
-## Domanda-trappola
-
-**La contabilita' economico-patrimoniale e quella finanziaria sono equivalenti, oppure la prima elimina sempre ogni funzione della seconda?**
-
-No. Osservano dimensioni differenti. La prima rappresenta costi, ricavi e patrimonio secondo la competenza economica; la seconda osserva entrate, spese e flussi secondo la disciplina finanziaria. Il sistema concretamente applicabile e i raccordi dipendono dalle fonti. Sono errate sia l'equivalenza sia l'affermazione assoluta della sostituzione totale. [[sources/contabilita-economico-patrimoniale-universita-enti-pubblici]]
-
-## Errore tipico
-
-L'errore più comune e' concatenare conclusioni non dimostrate: "il costo supera il budget, quindi vi e' inefficienza e occorre una variazione". Il dato segnala uno scostamento. L'inefficienza e' un'interpretazione da verificare, mentre la variazione e' un'azione eventuale, soggetta a competenza e procedura. Sono tre piani diversi.
-
-## Mini-esercizio: costruisci la nota contabile
-
-Immagina di ricevere un prospetto che segnala uno scostamento nel costo di un servizio. Senza inventare numeri, compila questa scheda:
-
-| Campo | Contenuto richiesto |
-| --- | --- |
-| Oggetto | servizio, attivita' o centro osservato |
-| Fonte | documenti e report da cui deriva il dato |
-| Budget | valore di riferimento, periodo e versione |
-| Risultato | valore rilevato sul medesimo perimetro |
-| Scostamento | differenza e relativo segno |
-| Causa | elemento documentato o ipotesi da verificare |
-| Impatto | effetto su servizio, obiettivo e quadro complessivo |
-| Competenza | soggetto da individuare nelle fonti dell'ateneo |
-| Seguito | verifica, correzione o proposta motivata |
-
-Controlla poi la nota con quattro domande: i dati sono comparabili? Ho separato fatti e ipotesi? Ho citato la fonte interna pertinente? Ho evitato di presentare la proposta come decisione gia' adottata?
-
-## Riferimenti consolidati
-
-- [[sources/contabilita-economico-patrimoniale-universita-enti-pubblici]] per sistemi contabili, D.Lgs. 18/2012, bilancio unico, budget e controllo;
-- [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]] per la mappa delle fonti ufficiali del modulo;
-- [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]] per la ricorrenza dei nuclei contabili nei profili amministrativo-contabili;
-- [[books/il-metodo-bando/chapters/contabilita-pubblica-essenziale]] per il nucleo generale di contabilita' pubblica.
-
-## Note di review
-
-Prima della pubblicazione occorre verificare la vigenza del D.Lgs. 18/2012 e degli atti MUR applicabili, nonche' eventuali aggiornamenti dei principi contabili universitari. Per un ateneo concreto vanno controllati regolamento di amministrazione e contabilita', manuale contabile, piano dei conti, budget, bilancio, sistema dei controlli e assetto delle competenze. Ogni schema, valore, termine, coefficiente o scrittura puntuale richiede una fonte aggiornata.
-
-Il capitolo non estende automaticamente il modello universitario alle istituzioni AFAM. La loro disciplina contabile deve essere verificata separatamente nel capitolo 11 e sulle fonti vigenti.
+Risposta corretta: C. La nota contabile deve separare dato, scostamento, causa, impatto e seguito, evitando conclusioni non dimostrate.

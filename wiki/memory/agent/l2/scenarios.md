@@ -7009,3 +7009,459 @@
 - l0: l0/conv-20260817195729-2ih0il.md
 - atoms:
   - mem-20260817195729-gnwoth | result | Esito codex/github-team-sync: Commit e push delle modifiche locali, includendo fonti e volumi 4, 5, 6 e 9, senza sovrascrivere il lavoro dello staff. -> Pubblicato il branch agent/sync-volumi-04-05-06-09-20260817 senza force; integrati i commit dello staff da origin/main; incluse fonti e lavorazioni dei volumi richiesti; test mirati 101/101 e typecheck superati; la su...
+
+## 2026-08-17T20:21:28.290Z - VOL-11
+
+- conversation_id: conv-20260817202128-18mrgvf
+- route: pipeline-step-08-chapter-12
+- l0: l0/conv-20260817202128-18mrgvf.md
+- atoms:
+  - mem-20260817202128-sx366w | result | Esito pipeline-step-08-chapter-12: Riprendi il lavoro sul Volume 11 e procedi. -> Completato lo step 08 del capitolo 12 M-TR04.
+
+## 2026-08-17T21:31:29.781Z - VOL-11
+
+- conversation_id: conv-20260817213129-lhsur5
+- route: pipeline-chapter-12-steps-08-12
+- l0: l0/conv-20260817213129-lhsur5.md
+- atoms:
+  - mem-20260817213129-1yr9et | result | Esito pipeline-chapter-12-steps-08-12: Riprendi il Volume 11 e procedi autonomamente. -> Completato il ciclo 08-12 del capitolo 12 M-TR04: source note ufficiale 2026, piano approvato, capitolo di circa 6.400 parole con 7 nuclei, caso Rivasole e 6 quiz, copertura v4, doppia passata humanizer e report edito...
+
+## 2026-08-17T21:50:51.956Z - VOL-04
+
+- conversation_id: conv-20260817215051-nhrrez
+- route: codex.vol04-final-editorial-review
+- l0: l0/conv-20260817215051-nhrrez.md
+- atoms:
+  - mem-20260817215051-f7ghs0 | result | Esito codex.vol04-final-editorial-review: Eseguire la revisione editoriale finale completa del Volume 4 con fact-check, tabella master, valutazione numerica e giudizio A-D. -> Revisione completata nel report wiki/reviews/pipeline/VOL-04/21-vol-04.md.
+
+## 2026-08-17T22:04:12.117Z - VOL-11
+
+- conversation_id: conv-20260817220412-c26oox
+- route: pipeline-step-08-chapter-13
+- l0: l0/conv-20260817220412-c26oox.md
+- atoms:
+  - mem-20260817220412-1738aof | workflow | Procedi con VOL-11 dal checkpoint del capitolo 12.
+  - mem-20260817220412-18bni1x | result | Esito pipeline-step-08-chapter-13: Procedi con VOL-11 dal checkpoint del capitolo 12. -> Completato lo step 08 del capitolo 13 DNSH, CAM e sostenibilita della PA.
+
+## 2026-08-17T22:12:20.516Z - manual-writer
+
+- conversation_id: conv-20260817221220-lp14xd
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260817221220-lp14xd.md
+- atoms:
+  - mem-20260817221220-1xcarkb | workflow | instruction=Scrivi il capitolo integrale secondo il piano 15: 6.200-6.800 parole, un solo H1, sette nuclei N-TR04-13-01/07 da almeno 600 parole ciascuno, apertura, obiettivo, Mappa BANDO, teoria completa, caso Rivasole con variante, matrice evidenze, errori, blocco ▣ Verifica con sei quiz commentati e caso ragionato, riferimenti leggibili.
+  - mem-20260817221220-8tlxda | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md mode=integrate instruction=Scrivi il capitolo integrale secondo il piano 15: 6.200-6.800 parole, un solo H1, sette nu... -> Manual Writer completato su books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md.
+
+## 2026-08-17T22:45:03.015Z - VOL-11
+
+- conversation_id: conv-20260817224503-1y3mrcr
+- route: pipeline-step-09-chapter-13
+- l0: l0/conv-20260817224503-1y3mrcr.md
+- atoms:
+  - mem-20260817224503-1rx5k5h | workflow | Procedi con la scrittura del capitolo 13 di VOL-11.
+  - mem-20260817224503-f1uzc2 | result | Esito pipeline-step-09-chapter-13: Procedi con la scrittura del capitolo 13 di VOL-11. -> Completato step 09 capitolo 13 DNSH, CAM e sostenibilita PA: 6.326 parole, 7 nuclei da almeno 600 parole, caso Rivasole con variante, matrice evidenze, 6 quiz e caso ragionato.
+
+## 2026-08-17T23:18:28.169Z - VOL-11
+
+- conversation_id: conv-20260817231828-147zfrk
+- route: pipeline-step-10-chapter-13-vol11
+- l0: l0/conv-20260817231828-147zfrk.md
+- atoms:
+  - mem-20260817231828-vnku7w | workflow | Prosegui la pipeline VOL-11 sul capitolo 13 e completa lo step 10 di copertura e densita didattica nel rispetto dei gate CLI.
+  - mem-20260817231828-4jovrr | result | Esito pipeline-step-10-chapter-13-vol11: Prosegui la pipeline VOL-11 sul capitolo 13 e completa lo step 10 di copertura e densita didattica nel rispetto dei gate CLI. -> Step 10 del capitolo 13 completato.
+
+## 2026-08-18T14:52:01.122Z - VOL-11
+
+- conversation_id: conv-20260818145201-ywzjnc
+- route: pipeline-step-11-chapter-13-vol11
+- l0: l0/conv-20260818145201-ywzjnc.md
+- atoms:
+  - mem-20260818145201-1pa8wz5 | workflow | Procedi con lo step successivo della pipeline VOL-11 sul capitolo 13.
+  - mem-20260818145201-1gepa57 | result | Esito pipeline-step-11-chapter-13-vol11: Procedi con lo step successivo della pipeline VOL-11 sul capitolo 13. -> Step 11 Humanizer del capitolo 13 completato.
+
+## 2026-08-18T15:36:00.717Z - VOL-11
+
+- conversation_id: conv-20260818153600-1kfwkse
+- route: pipeline-step-12-chapter-13-vol11
+- l0: l0/conv-20260818153600-1kfwkse.md
+- atoms:
+  - mem-20260818153600-ff0rft | workflow | Procedi con lo step successivo della pipeline VOL-11.
+  - mem-20260818153600-o5qkpj | result | Esito pipeline-step-12-chapter-13-vol11: Procedi con lo step successivo della pipeline VOL-11. -> Step 12 capitolo 13 completato con Revisore Editoriale Totale.
+
+## 2026-08-18T17:29:56.664Z - pipeline-volume
+
+- conversation_id: conv-20260818172956-fgpo64
+- route: vol-11-m-tr04-capitolo-14-steps-08-12
+- l0: l0/conv-20260818172956-fgpo64.md
+- atoms:
+  - mem-20260818172956-yxq6w2 | workflow | Proseguire il volume 11 completando insieme gli step 08-12 del capitolo 14 per velocizzare il lavoro.
+  - mem-20260818172956-1jfhiat | result | Esito vol-11-m-tr04-capitolo-14-steps-08-12: Proseguire il volume 11 completando insieme gli step 08-12 del capitolo 14 per velocizzare il lavoro. -> VOL-11 M-TR04 capitolo 14 completato in batch negli step 08-12: source note e piano approvati; capitolo con 7 nuclei, 10 simulazioni, 6 quiz e caso ragionato; matrice v4 aggiornata con evidenze; doppia passata Humaniz...
+
+## 2026-08-18T22:01:17.623Z - pipeline-volume
+
+- conversation_id: conv-20260818220117-7o6arm
+- route: vol-04-revisione-editoriale-finale-step-21-22
+- l0: l0/conv-20260818220117-7o6arm.md
+- atoms:
+  - mem-20260818220117-1n1gxaw | result | Esito vol-04-revisione-editoriale-finale-step-21-22: Completare la revisione editoriale totale del Volume 4 e procedere con tutti i punti residui. -> VOL-04 revisionato integralmente: 17 capitoli, front matter e indici consolidati; correzioni normative e istituzionali applicate con fonti ufficiali.
+
+## 2026-08-18T22:56:20.809Z - pipeline-volume
+
+- conversation_id: conv-20260818225620-2bk2m1
+- route: vol-04-pdf-final-checksum-correction
+- l0: l0/conv-20260818225620-2bk2m1.md
+- atoms:
+  - mem-20260818225620-16adf0d | result | Esito vol-04-pdf-final-checksum-correction: Finalizzare VOL-04 dopo il secondo controllo indipendente. -> Il secondo controllo ha sostituito l'autoriferimento 'nel testo editoriale' con 'nella risposta concorsuale' nel capitolo 4.
+
+## 2026-08-18T23:02:09.710Z - pipeline-volume
+
+- conversation_id: conv-20260818230209-166ztx8
+- route: vol-11-m-tr04-phase-d-steps-13-16
+- l0: l0/conv-20260818230209-166ztx8.md
+- atoms:
+  - mem-20260818230209-1kcoiu9 | result | Esito vol-11-m-tr04-phase-d-steps-13-16: Procedere con la fase D di VOL-11 e completare più step consecutivi. -> Fase D di VOL-11/M-TR04 completata il 19-08-2026: step 13 revisione trasversale chiusa dopo correzione di duplicazioni, mojibake, appendici promesse e densità; step 14 correzioni editoriali chiuse; step 15 audit speci...
+
+## 2026-08-19T10:43:15.719Z - pipeline-volume
+
+- conversation_id: conv-20260819104315-17m0oa6
+- route: vol-11-step-21-review
+- l0: l0/conv-20260819104315-17m0oa6.md
+- atoms:
+  - mem-20260819104315-7jjm5k | result | Esito vol-11-step-21-review: Procedere con il prossimo step di VOL-11. -> Step 21 di VOL-11 completato il 19-08-2026: revisione editoriale totale sui 14 capitoli e sull'impaginato KDP reale.
+
+## 2026-08-20T15:52:51.974Z - pipeline-volume
+
+- conversation_id: conv-20260820155251-1xtr6b6
+- route: codex.pipeline.VOL-04.step23
+- l0: l0/conv-20260820155251-1xtr6b6.md
+- atoms:
+  - mem-20260820155251-9drp4h | result | Esito codex.pipeline.VOL-04.step23: Completa per VOL-04 gli step tecnici successivi alla revisione, escludendo la revisione umana. -> Step 23 completato il 20 agosto 2026 tramite CLI con accettazione manuale del gate delivery non implementato.
+
+## 2026-08-20T16:01:59.633Z - pipeline-volume
+
+- conversation_id: conv-20260820160159-18kt455
+- route: vol-11-step-22-preflight
+- l0: l0/conv-20260820160159-18kt455.md
+- atoms:
+  - mem-20260820160159-1tpn6ip | result | Esito vol-11-step-22-preflight: VAI CON LO STEP 22 -> Step 22 di VOL-11 completato: preflight manuale PASS.
+
+## 2026-08-20T16:55:19.955Z - editorial-reviewer
+
+- conversation_id: conv-20260820165519-qj1vsc
+- route: Codex.preflight
+- l0: l0/conv-20260820165519-qj1vsc.md
+- atoms:
+  - mem-20260820165519-1obuxkp | result | Esito Codex.preflight: REVISONA IL VOLUME 6 -> Preflight editoriale VOL-06: il volume e in draft; 21 capitoli esistono su 50 previsti (M-IR01 13, M-IR02 8, M-IR03 0, M-IR04 0).
+
+## 2026-08-20T17:24:43.588Z - pipeline-volume
+
+- conversation_id: conv-20260820172443-3idg6x
+- route: pipeline/VOL-11/step-23
+- l0: l0/conv-20260820172443-3idg6x.md
+- atoms:
+  - mem-20260820172443-1i1wi26 | result | Esito pipeline/VOL-11/step-23: Completare lo Step 23 del Volume 11 con pacchetto candidato, staging selettivo e nessuna pubblicazione. -> VOL-11 Step 23 chiuso il 2026-08-20: candidato VOL-11-candidate-2026.08.20.1 creato; PDF interno SHA-256 0864ac2267d76713b02f21a64be21685c45121e8dd6b2f490f1ba65faa0dafca e manifest verificati; 18 test preview, typeche...
+
+## 2026-08-20T17:32:04.436Z - manual-writer
+
+- conversation_id: conv-20260820173204-1gbaxul
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260820173204-1gbaxul.md
+- atoms:
+  - mem-20260820173204-1onevvo | workflow | instruction=Redigi integralmente il capitolo 09 nel rispetto del prompt di pipeline: almeno cinque nuclei numerati N-M-IR02-09-01 fino a N-M-IR02-09-05 da almeno 600 parole ciascuno, almeno 3.000 parole complessive, caso ragionato e sei quiz commentati.
+  - mem-20260820173204-ub5z7u | instruction | Usa esclusivamente la knowledge consolidata e mantieni i confini stabiliti dal piano: biblioteca universitaria, cataloghi SBN e OPAC, ricerca e servizi, risorse elettroniche e licenze, open access e repository.
+  - mem-20260820173204-1kqm9o6 | instruction | Non usare wikilink nel corpo, non inventare clausole, durate, sistemi o dati locali.
+  - mem-20260820173204-1m6myey | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md mode=draft instruction=Redigi integralmente il capitolo 09 nel rispetto del prompt di pipeline: almeno cinque nuclei num... -> Manual Writer completato su books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md.
+
+## 2026-08-20T17:37:57.188Z - manual-writer
+
+- conversation_id: conv-20260820173757-1unpe9p
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820173757-1unpe9p.md
+- atoms:
+  - mem-20260820173757-1jrpqn4 | workflow | instruction=Correggi il corpo completo per superare il gate: restituisci esclusivamente un capitolo reader-facing con un unico H1 iniziale, H2 per Apertura editoriale, Obiettivo, Mappa BANDO, Spiegazione, Da sapere in 5 righe, Caso guidato, Domanda da commissario, Domanda-trappola, Mini-esercizio, Errore tipico, Verifica e Riferimenti essenziali; H3 soltanto per i cinque nuclei N-M-IR02-09-01 fino a N-M-IR02-09-05.
+  - mem-20260820173757-1pey6vw | instruction | Non usare un heading Bozza agente, nessun wikilink, nessun riferimento a fonti consolidate, wiki, corpus, piano, struttura madre o design system.
+  - mem-20260820173757-1a6pwxb | instruction | Mantieni almeno 3.000 parole, sei quiz commentati e il caso ragionato; conserva i contenuti corretti e le cautele su licenze, policy e dati mobili.
+  - mem-20260820173757-h2uooh | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md mode=humanizer_revision instruction=Correggi il corpo completo per superare il gate: restituisci esclusivamente un capit... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md.
+
+## 2026-08-20T17:42:33.443Z - manual-writer
+
+- conversation_id: conv-20260820174233-1nsuaau
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820174233-1nsuaau.md
+- atoms:
+  - mem-20260820174233-1vg5kbj | instruction | instruction=Correzione esclusivamente formale per il gate didactic-density: conserva integralmente il contenuto e usa esattamente cinque heading H3 nel formato N-IR02-09-01 · Titolo fino a N-IR02-09-05 · Titolo (senza M- e con punto mediano U+00B7).
+  - mem-20260820174233-1m7ad3z | instruction | Usa un heading H2 esattamente ▣ Verifica — sei quiz commentati (carattere U+25A3, non testo corrotto).
+  - mem-20260820174233-prakb7 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md mode=humanizer_revision instruction=Correzione esclusivamente formale per il gate didactic-density: conserva integralmen... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md.
+
+## 2026-08-20T17:46:29.581Z - manual-writer
+
+- conversation_id: conv-20260820174629-d5ys5p
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820174629-d5ys5p.md
+- atoms:
+  - mem-20260820174629-1upzac7 | instruction | instruction=Mantieni il capitolo invariato salvo integrare il solo nucleo N-IR02-09-01 con almeno 80 parole aggiuntive, pertinenti e reader-facing, sul raccordo tra domanda dell’utente, catalogo, condizioni di fruizione e servizio competente.
+  - mem-20260820174629-8pjtx2 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md mode=humanizer_revision instruction=Mantieni il capitolo invariato salvo integrare il solo nucleo N-IR02-09-01 con almen... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md.
+
+## 2026-08-20T18:02:55.252Z - manual-writer
+
+- conversation_id: conv-20260820180255-1htktfk
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820180255-1htktfk.md
+- atoms:
+  - mem-20260820180255-1qraeaq | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md mode=humanizer_revision instruction=Revisione stilistica finale: rendi il testo naturale e professionale, elimina formul... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md.
+
+## 2026-08-20T18:08:31.016Z - editorial-reviewer
+
+- conversation_id: conv-20260820180831-1n445ve
+- route: EditorialReviewerAgent.runReview
+- l0: l0/conv-20260820180831-1n445ve.md
+- atoms:
+  - mem-20260820180831-nwpufb | result | Esito EditorialReviewerAgent.runReview: bookId=m-ir02-universita-afam scope=chapter aspect=full -> Revisione editoriale completata su m-ir02-universita-afam.
+
+## 2026-08-20T18:17:32.001Z - manual-writer
+
+- conversation_id: conv-20260820181732-gspit6
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260820181732-gspit6.md
+- atoms:
+  - mem-20260820181732-ac0ys7 | workflow | instruction=Redigi il capitolo completo: cinque nuclei N-IR02-10-01 fino a N-IR02-10-05, almeno 600 parole ciascuno e 3000 parole totali; caso ragionato e sei quiz commentati.
+  - mem-20260820181732-gko74h | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md mode=draft instruction=Redigi il capitolo completo: cinque nuclei N-IR02-10-01 fino a N-IR02-10-05, almeno 600 parol... -> Manual Writer completato su books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md.
+
+## 2026-08-20T18:23:56.648Z - manual-writer
+
+- conversation_id: conv-20260820182356-1i9yde4
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820182356-1i9yde4.md
+- atoms:
+  - mem-20260820182356-1axjyeo | project_fact | instruction=Elimina esclusivamente ogni riferimento del corpo a wiki, fonti consolidate, corpus, piani, report, strumenti editoriali o istruzioni interne.
+  - mem-20260820182356-za30y9 | instruction | Mantieni un testo autosufficiente, cinque nuclei, caso, quiz e riferimenti leggibili; non inserire H1 duplicati.
+  - mem-20260820182356-vhijxf | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md mode=humanizer_revision instruction=Elimina esclusivamente ogni riferimento del corpo a wiki, fonti consolidate, cor... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md.
+
+## 2026-08-20T18:29:40.112Z - manual-writer
+
+- conversation_id: conv-20260820182940-yrfrx4
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820182940-yrfrx4.md
+- atoms:
+  - mem-20260820182940-1xpsegx | instruction | Mantieni contenuto e riferimenti.
+  - mem-20260820182940-1syh7ki | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md mode=humanizer_revision instruction=Correggi solo la gerarchia: H2 per le sezioni principali, H3 per N-IR02-10-01 fi... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md.
+
+## 2026-08-20T18:34:27.760Z - manual-writer
+
+- conversation_id: conv-20260820183427-167ajpg
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820183427-167ajpg.md
+- atoms:
+  - mem-20260820183427-r0gb7h | instruction | instruction=Mantieni il capitolo invariato salvo aggiungere almeno 50 parole al solo nucleo N-IR02-10-02, con applicazione prudente su placement, tirocinio, convenzione e comunicazione all utente.
+  - mem-20260820183427-m4vwfg | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md mode=humanizer_revision instruction=Mantieni il capitolo invariato salvo aggiungere almeno 50 parole al solo nucleo ... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md.
+
+## 2026-08-20T18:39:56.650Z - manual-writer
+
+- conversation_id: conv-20260820183956-iorjs6
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820183956-iorjs6.md
+- atoms:
+  - mem-20260820183956-16cmk2i | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md mode=humanizer_revision instruction=Humanizer: elimina rigidita, ripetizioni e formule artificiali; conserva struttu... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md.
+
+## 2026-08-20T18:52:11.477Z - manual-writer
+
+- conversation_id: conv-20260820185211-cvpcf8
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820185211-cvpcf8.md
+- atoms:
+  - mem-20260820185211-u446xq | instruction | Mantieni i nuclei 01-02 e struttura.
+  - mem-20260820185211-1jc7a6e | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md mode=humanizer_revision instruction=Correzione bloccante: sviluppa integralmente e con almeno 600 parole ciascuno N-... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md.
+
+## 2026-08-20T19:25:24.404Z - manual-writer
+
+- conversation_id: conv-20260820192524-1az52ae
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260820192524-1az52ae.md
+- atoms:
+  - mem-20260820192524-k265yb | workflow | instruction=Riscrivi integralmente il capitolo 10: 5 nuclei completi da 600 parole ciascuno: orientamento, placement, mobilita, terza missione, gestione integrata.
+  - mem-20260820192524-14cj0io | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md mode=draft instruction=Riscrivi integralmente il capitolo 10: 5 nuclei completi da 600 parole ciascuno: orientamento... -> Manual Writer completato su books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md.
+
+## 2026-08-20T20:27:16.668Z - VOL-06
+
+- conversation_id: conv-20260820202716-1j89qvg
+- route: codex/vol-06-m-ir02-ch10-step-12-resume
+- l0: l0/conv-20260820202716-1j89qvg.md
+- atoms:
+  - mem-20260820202716-8aiupf | result | Esito codex/vol-06-m-ir02-ch10-step-12-resume: Riprendi da dove hai interrotto con la revisione del Volume 6. -> Step 12 del capitolo 10 M-IR02 chiuso: verificato il file integrale, eliminata una bozza duplicata e sostituito il report obsoleto; gate review-report superato.
+
+## 2026-08-20T20:34:22.871Z - VOL-06
+
+- conversation_id: conv-20260820203422-1vgxkkg
+- route: codex/vol-06-m-ir02-ch11-step-08
+- l0: l0/conv-20260820203422-1vgxkkg.md
+- atoms:
+  - mem-20260820203422-18xeqzl | result | Esito codex/vol-06-m-ir02-ch11-step-08: Riprendi da dove hai interrotto con la revisione del Volume 6. -> Step 08 del capitolo 11 M-IR02 completato con accettazione manuale documentata: piano AFAM con cinque nuclei, fonti, confini, budget e audit.
+
+## 2026-08-20T20:45:11.943Z - manual-writer
+
+- conversation_id: conv-20260820204511-laadsa
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260820204511-laadsa.md
+- atoms:
+  - mem-20260820204511-10fgi5y | workflow | instruction=Capitolo AFAM: cinque nuclei N-IR02-11-01..05, legge 508/1999, DPR 132/2003, DPR 212/2005, caso e sei quiz.
+  - mem-20260820204511-yb8tfx | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md mode=draft instruction=Capitolo AFAM: cinque nuclei N-IR02-11-01..05, legge 508/1999, DPR 132/2003, DPR 212/2005, caso e ... -> Manual Writer completato su books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md.
+
+## 2026-08-20T20:46:42.556Z - manual-writer
+
+- conversation_id: conv-20260820204642-1kn5gd8
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260820204642-1kn5gd8.md
+- atoms:
+  - mem-20260820204642-1n2u0es | instruction | instruction=Redigi integralmente il capitolo 11 AFAM in italiano per concorsi: cinque nuclei N-IR02-11-01..05, ciascuno almeno 600 parole, capitolo oltre 3000 parole; usa solo le source note e il piano del progetto.
+  - mem-20260820204642-ki6ypa | project_fact | Il corpo non contiene wikilink né note di review.
+  - mem-20260820204642-1fhqh1m | project_fact | Frontmatter completo format_version 2, dati_operativi: [], source_refs e last_compiled_from.
+  - mem-20260820204642-1gd2fj5 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md mode=draft instruction=Redigi integralmente il capitolo 11 AFAM in italiano per concorsi: cinque nuclei N-IR02-11-01..05,... -> Manual Writer completato su books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md.
+
+## 2026-08-20T21:02:39.689Z - manual-writer
+
+- conversation_id: conv-20260820210239-hcec6u
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820210239-hcec6u.md
+- atoms:
+  - mem-20260820210239-1c77qrl | project_fact | Elimina solo ripetizioni, formule meta e wikilink interni dal corpo.
+  - mem-20260820210239-qn4yye | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md mode=humanizer_revision instruction=Humanizer conservativo: preserva norme, struttura, nuclei, caso e quiz. -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md.
+
+## 2026-08-20T21:15:16.862Z - manual-writer
+
+- conversation_id: conv-20260820211516-1gesd5
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260820211516-1gesd5.md
+- atoms:
+  - mem-20260820211516-1y304uv | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md mode=draft instruction=Laboratorio M-IR02: cinque nuclei N-IR02-12-01..05, quattro profili amministrativo studenti, contabile ... -> Manual Writer completato su books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md.
+
+## 2026-08-20T22:07:10.081Z - manual-writer
+
+- conversation_id: conv-20260820220710-1cbz00v
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260820220710-1cbz00v.md
+- atoms:
+  - mem-20260820220710-akuocf | project_fact | instruction=Humanizer conservativo: preserva nuclei, struttura, fonti, casi e quiz; rimuovi soltanto formule meta, ripetizioni e wikilink interni dal corpo.
+  - mem-20260820220710-64hyt4 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md mode=humanizer_revision instruction=Humanizer conservativo: preserva nuclei, struttura, fonti, casi e quiz; rimuovi soltanto f... -> Revisione humanizer completata su books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md.
+
+## 2026-08-20T22:08:16.782Z - VOL-06
+
+- conversation_id: conv-20260820220816-vine0g
+- route: codex/vol-06-m-ir02-ch12-step-11
+- l0: l0/conv-20260820220816-vine0g.md
+- atoms:
+  - mem-20260820220816-plutae | result | Esito codex/vol-06-m-ir02-ch12-step-11: PROCEDI -> Step 11 Humanizer completato per M-IR02 capitolo 12: revisione conservativa locale, struttura a cinque nuclei, caso, fonti e sei quiz preservati; citation-guard superato senza blocker o warning.
+
+## 2026-08-20T22:23:45.237Z - VOL-06
+
+- conversation_id: conv-20260820222345-1got080
+- route: codex/vol-06-m-ir02-ch12-step-12
+- l0: l0/conv-20260820222345-1got080.md
+- atoms:
+  - mem-20260820222345-3yzie6 | result | Esito codex/vol-06-m-ir02-ch12-step-12: PROCEDI -> Completati step 11 e 12 per il capitolo 12 M-IR02.
+
+## 2026-08-20T22:29:54.530Z - VOL-06
+
+- conversation_id: conv-20260820222954-b95fua
+- route: codex/vol-06-m-ir02-step-13
+- l0: l0/conv-20260820222954-b95fua.md
+- atoms:
+  - mem-20260820222954-ezexgt | result | Esito codex/vol-06-m-ir02-step-13: PROCEDI -> Step 13 M-IR02 completato.
+
+## 2026-08-20T22:47:10.873Z - VOL-06
+
+- conversation_id: conv-20260820224710-fop5z9
+- route: codex/vol-06-m-ir02-step-14-writer-block
+- l0: l0/conv-20260820224710-fop5z9.md
+- atoms:
+  - mem-20260820224710-1ru4qd6 | result | Esito codex/vol-06-m-ir02-step-14-writer-block: PROCEDI -> Step 14 M-IR02 avviato.
+
+## 2026-08-21T10:41:02.635Z - pipeline-volume
+
+- conversation_id: conv-20260821104102-eq8n9w
+- route: codex.git.vol04-publish
+- l0: l0/conv-20260821104102-eq8n9w.md
+- atoms:
+  - mem-20260821104102-70dv3v | result | Esito codex.git.vol04-publish: Autorizzazione a procedere con commit e push selettivi per VOL-04, senza includere o sovrascrivere il lavoro dello staff. -> Pubblicato commit 04a753fce38eaaed2781bdd7eb81df06ce9f2af3 sul ramo agent/sync-volumi-04-05-06-09-20260817.
+
+## 2026-08-21T11:09:29.933Z - pipeline-volume
+
+- conversation_id: conv-20260821110929-yfnxfq
+- route: codex.git.vol04-main-transfer
+- l0: l0/conv-20260821110929-yfnxfq.md
+- atoms:
+  - mem-20260821110929-1j0pbs6 | instruction | Portare solo le modifiche VOL-04 su main senza sovrascrivere le modifiche dello staff.
+  - mem-20260821110929-p3ixox | result | Esito codex.git.vol04-main-transfer: Portare solo le modifiche VOL-04 su main senza sovrascrivere le modifiche dello staff. -> Cherry-pick isolato del commit 04a753fce38eaaed2781bdd7eb81df06ce9f2af3 su origin/main bloccato da conflitto modify/delete su pipeline/VOL-04/run-state.json; abort eseguito, nessun push su main e nessuna modifica allo...
+
+## 2026-08-21T11:53:33.874Z - pipeline-volume
+
+- conversation_id: conv-20260821115333-1qqp3cl
+- route: codex.git.vol04-main-safe-resolution
+- l0: l0/conv-20260821115333-1qqp3cl.md
+- atoms:
+  - mem-20260821115333-wb7gx3 | instruction | Scegli la soluzione più sicura e migliore per riportare VOL-04 su main senza sovrascrivere lo staff.
+  - mem-20260821115333-bbyou | result | Esito codex.git.vol04-main-safe-resolution: Scegli la soluzione più sicura e migliore per riportare VOL-04 su main senza sovrascrivere lo staff. -> Scelta sicura: nessun push aggiuntivo.
+
+## 2026-08-21T12:14:07.857Z - manual-writer
+
+- conversation_id: conv-20260821121407-qf42ks
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821121407-qf42ks.md
+- atoms:
+  - mem-20260821121407-1flqypv | project_fact | instruction=Humanizer conservativo: preserva nuclei, fonti, casi, quiz e struttura; rimuovi soltanto meta-formule, ripetizioni e wikilink interni dal corpo.
+  - mem-20260821121407-umjus1 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md mode=humanizer_revision instruction=Humanizer conservativo: preserva nuclei, fonti, casi, quiz e struttura; rimuovi soltanto meta-formule... -> Revisione humanizer completata su books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md.
+
+## 2026-08-21T13:06:38.798Z - manual-writer
+
+- conversation_id: conv-20260821130638-fijigv
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821130638-fijigv.md
+- atoms:
+  - mem-20260821130638-wpqbvv | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md mode=humanizer_revision instruction=Humanizer conservativo: migliora naturalezza e leggibilita senza ridurre nuclei, fonti, caso... -> Revisione humanizer completata su books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md.
+
+## 2026-08-21T13:11:50.977Z - VOL-06
+
+- conversation_id: conv-20260821131150-19kj2t8
+- route: codex/vol-06-m-ir03-ch02
+- l0: l0/conv-20260821131150-19kj2t8.md
+- atoms:
+  - mem-20260821131150-19gi26u | result | Esito codex/vol-06-m-ir03-ch02: Procedi automaticamente con tutti i prossimi step fino al completamento. -> M-IR03 capitolo 02 completato: piano manualmente accettato, redazione e densita didattica superate, humanizer locale eseguito, review editoriale senza rilievi gravi o medi.
+
+## 2026-08-21T13:26:13.368Z - manual-writer
+
+- conversation_id: conv-20260821132613-ninf6
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821132613-ninf6.md
+- atoms:
+  - mem-20260821132613-et2rgv | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md mode=humanizer_revision instruction=Humanizer conservativo: preserva nuclei, fonti, caso, errore, verifica e quiz. -> Revisione humanizer completata su books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md.
+
+## 2026-08-21T13:29:56.773Z - VOL-06
+
+- conversation_id: conv-20260821132956-13mhg3x
+- route: codex/vol-06-m-ir03-ch03
+- l0: l0/conv-20260821132956-13mhg3x.md
+- atoms:
+  - mem-20260821132956-11d2bqa | result | Esito codex/vol-06-m-ir03-ch03: Procedi automaticamente con tutti i prossimi step fino al completamento. -> M-IR03 capitolo 03 completato: piano, redazione, densita didattica, humanizer locale e review editoriale superati; nessun rilievo grave o medio.
+
+## 2026-08-21T13:46:29.092Z - manual-writer
+
+- conversation_id: conv-20260821134629-1difk7a
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821134629-1difk7a.md
+- atoms:
+  - mem-20260821134629-wkmdlg | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md mode=humanizer_revision instruction=Humanizer conservativo: preserva struttura didattica, fonti, caso, errore e quiz. -> Revisione humanizer completata su books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md.
+
+## 2026-08-21T14:05:52.687Z - manual-writer
+
+- conversation_id: conv-20260821140552-8jf3hl
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821140552-8jf3hl.md
+- atoms:
+  - mem-20260821140552-12srllj | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md mode=humanizer_revision instruction=Humanizer conservativo: preserva struttura, fonti, casi, errore tipico e quiz. -> Revisione humanizer completata su books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md.
+
+## 2026-08-21T14:09:09.754Z - manual-writer
+
+- conversation_id: conv-20260821140909-f9cz16
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821140909-f9cz16.md
+- atoms:
+  - mem-20260821140909-hive6a | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md mode=humanizer_revision instruction=Humanizer conservativo: preserva nuclei, fonti, caso, errore tipico, verifica e quiz. -> Revisione humanizer completata su books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md.

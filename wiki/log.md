@@ -669,3 +669,32 @@
 - 2026-08-10T18:54:03.261Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
 - 2026-08-10T20:14:39.622Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
 - 2026-08-10T20:24:33.744Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
+
+- 2026-08-17T22:12:20.455Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
+- 2026-08-20T17:32:04.421Z | manual_writer | books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-20T17:37:57.183Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md | provider=codex | knowledge=1 | memory=5
+- 2026-08-20T17:42:33.437Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md | provider=codex | knowledge=1 | memory=5
+- 2026-08-20T17:46:29.557Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md | provider=codex | knowledge=1 | memory=5
+- 2026-08-20T18:02:55.239Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md | provider=local | knowledge=1 | memory=5
+- 2026-08-20T18:08:31.011Z | editorial_review | m-ir02-universita-afam | scope=chapter | provider=codex | chapters=1 | judgment=publishable_medium
+- 2026-08-20T18:17:31.992Z | manual_writer | books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-20T18:23:56.644Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md | provider=codex | knowledge=1 | memory=5
+- 2026-08-20T18:29:40.107Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md | provider=codex | knowledge=1 | memory=5
+- 2026-08-20T18:34:27.754Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md | provider=codex | knowledge=1 | memory=5
+- 2026-08-20T18:39:56.646Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md | provider=codex | knowledge=1 | memory=5
+- 2026-08-20T18:43:05.335Z | editorial_review | m-ir02-universita-afam | scope=chapter | provider=codex | chapters=1 | judgment=publishable_medium
+- 2026-08-20T18:52:11.467Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md | provider=local | knowledge=1 | memory=5
+- 2026-08-20T19:06:43.197Z | editorial_review | m-ir02-universita-afam | scope=chapter | provider=codex | chapters=1 | judgment=not_publishable
+- 2026-08-20T19:25:24.394Z | manual_writer | books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-20T19:36:39.841Z | editorial_review | m-ir02-universita-afam | scope=chapter | provider=codex | chapters=1 | judgment=not_publishable
+- 2026-08-20T20:45:11.935Z | manual_writer | books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-20T20:46:42.540Z | manual_writer | books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-20T21:02:39.641Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md | provider=local | knowledge=1 | memory=5
+- 2026-08-20T21:15:16.854Z | manual_writer | books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-20T22:07:10.075Z | humanizer_revision | books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md | provider=local | knowledge=1 | memory=5
+- 2026-08-21T12:14:07.851Z | humanizer_revision | books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md | provider=local | knowledge=1 | memory=5
+- 2026-08-21T13:06:38.791Z | humanizer_revision | books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md | provider=local | knowledge=1 | memory=5
+- 2026-08-21T13:26:13.359Z | humanizer_revision | books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md | provider=local | knowledge=1 | memory=5
+- 2026-08-21T13:46:29.084Z | humanizer_revision | books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md | provider=local | knowledge=1 | memory=5
+- 2026-08-21T14:05:52.677Z | humanizer_revision | books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md | provider=local | knowledge=1 | memory=5
+- 2026-08-21T14:09:09.749Z | humanizer_revision | books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md | provider=local | knowledge=1 | memory=5

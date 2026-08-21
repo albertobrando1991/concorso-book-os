@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/00-scheda-pipeline.md",
   "specHash": "sha256:16427224662897bef0b1fd8136b11d66ca67ce581e7018439ad596054c09e1fa",
   "createdAt": "2026-07-29T16:31:35.732Z",
-  "updatedAt": "2026-08-04T10:31:42.648Z",
+  "updatedAt": "2026-08-21T14:47:27.262Z",
   "steps": [
     {
       "key": "05:moduli/m-ir01-scuola",
@@ -2006,7 +2006,7 @@
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-31T15:26:31.300Z"
+      "finishedAt": "2026-08-20T23:04:45.617Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
@@ -2119,7 +2119,7 @@
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-31T16:19:05.688Z"
+      "finishedAt": "2026-08-21T09:18:53.843Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
@@ -2232,7 +2232,7 @@
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-31T17:03:09.711Z"
+      "finishedAt": "2026-08-21T09:40:16.779Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
@@ -2345,7 +2345,7 @@
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-03T19:05:54.687Z"
+      "finishedAt": "2026-08-21T09:48:00.489Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
@@ -2458,7 +2458,7 @@
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-03T19:36:59.466Z"
+      "finishedAt": "2026-08-21T10:16:18.187Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
@@ -2571,7 +2571,7 @@
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-03T19:56:36.185Z"
+      "finishedAt": "2026-08-21T10:23:28.995Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
@@ -2684,7 +2684,7 @@
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-04T08:28:33.568Z"
+      "finishedAt": "2026-08-21T10:38:12.020Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
@@ -2797,7 +2797,7 @@
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-04T10:00:14.033Z"
+      "finishedAt": "2026-08-21T10:49:17.242Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
@@ -2878,9 +2878,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T17:23:54.415Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T17:38:29.276Z"
     },
     {
       "key": "10:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
@@ -2888,9 +2898,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T17:38:40.957Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T17:46:37.508Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
@@ -2898,9 +2918,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T17:58:52.061Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T18:02:56.929Z"
     },
     {
       "key": "12:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
@@ -2908,9 +2938,55 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T18:06:06.885Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir02-universita-afam-chapters-09-biblioteche-cataloghi-open-access-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E02: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir02-universita-afam-chapters-09-biblioteche-cataloghi-open-access-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E03: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir02-universita-afam-chapters-09-biblioteche-cataloghi-open-access-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir02-universita-afam-chapters-09-biblioteche-cataloghi-open-access-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir02-universita-afam-chapters-09-biblioteche-cataloghi-open-access-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E06: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir02-universita-afam-chapters-09-biblioteche-cataloghi-open-access-md.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E07: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir02-universita-afam-chapters-09-biblioteche-cataloghi-open-access-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-20T18:08:31.834Z"
     },
     {
       "key": "08:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2918,9 +2994,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T18:09:24.804Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano operativo creato, cinque nuclei assegnati, confini con capitoli 04-05-07-08 e VOL-01 esplicitati, target didattici e audit definiti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-20T18:11:09.447Z"
     },
     {
       "key": "09:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2928,9 +3027,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T18:13:12.276Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T18:29:40.912Z"
     },
     {
       "key": "10:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2938,9 +3047,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T18:30:42.586Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T18:34:28.665Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2948,9 +3067,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T18:34:37.444Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T18:39:57.606Z"
     },
     {
       "key": "12:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2958,9 +3087,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T20:18:54.813Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T20:24:25.013Z"
     },
     {
       "key": "08:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -2968,9 +3107,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T20:27:17.620Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano presente nel percorso contrattuale, con cinque nuclei AFAM stabili, fonti consolidate, confini anti-duplicazione, struttura H1/H2/H3, budget 3.000 parole, caso e sei quiz; nessun claim locale non verificato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-20T20:35:55.362Z"
     },
     {
       "key": "09:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -2978,9 +3140,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T20:39:30.337Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T20:51:55.091Z"
     },
     {
       "key": "10:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -2988,9 +3160,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T20:56:16.883Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T21:00:14.200Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -2998,9 +3180,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T21:02:00.165Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T21:02:41.349Z"
     },
     {
       "key": "12:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -3008,9 +3200,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T21:05:47.928Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir02-universita-afam-chapters-11-afam-ordinamento-amministrazione-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-20T21:07:39.146Z"
     },
     {
       "key": "08:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3018,9 +3226,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T21:10:12.175Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: piano capitolo 12 presente, con cinque nuclei stabili per quattro profili, fonti consolidate, confini anti-duplicazione, struttura, budget e audit definiti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-20T21:11:23.936Z"
     },
     {
       "key": "09:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3028,9 +3259,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T21:14:00.190Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T21:15:48.033Z"
     },
     {
       "key": "10:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3038,9 +3279,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T21:16:12.551Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T21:56:54.925Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3048,9 +3299,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T22:01:30.758Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T22:07:35.475Z"
     },
     {
       "key": "12:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3058,9 +3319,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T22:11:40.993Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-20T22:23:32.198Z"
     },
     {
       "key": "13:moduli/m-ir02-universita-afam",
@@ -3068,9 +3339,25 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir02-universita-afam",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T22:24:39.755Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/13-moduli-m-ir02-universita-afam.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-20T22:29:41.650Z"
     },
     {
       "key": "14:moduli/m-ir02-universita-afam",
@@ -3078,9 +3365,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir02-universita-afam",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-20T22:30:05.712Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T10:49:50.217Z"
     },
     {
       "key": "15:moduli/m-ir02-universita-afam",
@@ -3088,9 +3385,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir02-universita-afam",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T10:50:30.582Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T10:52:08.589Z"
     },
     {
       "key": "16:moduli/m-ir02-universita-afam",
@@ -3098,9 +3405,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir02-universita-afam",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T10:52:20.350Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale documentata nel manifest artifacts/pipeline/VOL-06/16/moduli-m-ir02-universita-afam/text-freeze-manifest.md: 12 capitoli presenti, tutti format_version 2, almeno 5 nuclei e 6 quiz, audit specialistico step 15 chiuso, indice e matrice coerenti; gate text-freeze non implementato."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-21T10:56:44.219Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3108,9 +3438,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T11:05:05.314Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo creato in wiki/books/moduli/m-ir03-enti-ricerca/planning/03-piano-capitolo-01-epr-quattro-profili.md; gate chapter-plan non implementato, verifica manuale su matrice, fonti consolidate, cinque nuclei, budget e audit obbligatori."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-21T11:06:48.409Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3118,9 +3471,30 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T11:07:46.880Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "missing-updated-at",
+            "message": "Frontmatter senza updated_at: la data di ultima lavorazione manca.",
+            "location": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md"
+          },
+          {
+            "code": "missing-last-compiled-from",
+            "message": "Frontmatter senza last_compiled_from: la tracciabilità della compilazione è incompleta.",
+            "location": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-21T12:04:59.209Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3128,9 +3502,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T11:59:49.834Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3138,9 +3518,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T12:05:00.540Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T12:14:09.189Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3148,9 +3538,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T12:15:53.922Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T12:17:07.748Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3158,9 +3558,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T12:17:46.083Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo creato: cinque nuclei, fonti consolidate, confini, budget e audit su statuti, organi e atti mobili."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-21T12:25:40.118Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3168,9 +3591,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T12:27:05.627Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:04:39.689Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3178,9 +3611,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:04:59.936Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:05:02.897Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3188,9 +3631,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:05:15.775Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:06:40.775Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3198,9 +3651,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:08:59.025Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:11:48.355Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3208,9 +3671,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:12:06.895Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo creato: cinque nuclei sui profili EPR, fonti consolidate, confini, budget, caso comparativo e audit su CCNL, declaratorie e bando mobile."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-21T13:15:17.109Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3218,9 +3704,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:15:19.989Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:25:53.983Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3228,9 +3724,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:26:06.600Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:26:08.659Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3238,9 +3744,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:26:10.787Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:26:15.460Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3248,9 +3764,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:26:23.756Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:29:54.551Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3258,9 +3784,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:30:09.191Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo creato: cinque nuclei sul ciclo amministrativo EPR, fonti consolidate, confini, budget, caso contabile e audit su regolamenti, deleghe e bando mobile."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-21T13:30:46.466Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3268,9 +3817,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:45:15.869Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:46:13.692Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3278,9 +3837,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:45:17.978Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3288,9 +3853,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:46:25.680Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:46:31.373Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3298,9 +3873,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:46:53.874Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T13:49:33.172Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3308,9 +3893,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:49:35.244Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo creato: cinque nuclei su compliance, audit, acquisti e missioni, fonti consolidate, confini, budget, caso di errore e audit su atti mobili."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-21T13:50:15.929Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3318,9 +3926,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T13:50:18.009Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T14:05:30.751Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3328,9 +3946,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T14:05:50.118Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T14:08:54.312Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3338,9 +3966,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T14:09:07.961Z",
+      "finishedAt": "2026-08-21T14:09:11.331Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3348,9 +3986,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T14:10:35.029Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T14:11:07.899Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
@@ -3358,9 +4006,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T14:11:09.442Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Piano operativo creato: cinque nuclei su domanda, metodo, dati, piano di lavoro e mini-proposal; fonti consolidate, confini, budget e audit metodologico."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-21T14:12:15.692Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
@@ -3368,9 +4039,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T14:12:17.277Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T14:47:18.233Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
@@ -3378,9 +4059,29 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "blocked",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T14:47:26.065Z",
+      "gate": {
+        "passed": false,
+        "blockers": [
+          {
+            "code": "nucleo-troppo-breve",
+            "message": "Nuclei sotto 600 parole: N-IR03-06-02 (530), N-IR03-06-03 (297), N-IR03-06-04 (289), N-IR03-06-05 (231).",
+            "location": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md"
+          },
+          {
+            "code": "capitolo-troppo-breve",
+            "message": "Il corpo ha 2518 parole; minimo 3000.",
+            "location": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md"
+          }
+        ],
+        "warnings": []
+      }
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
