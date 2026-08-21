@@ -1,4 +1,4 @@
-name: Capitale Book OS bundle
+name: Capitale Book OS bundles
 
 on:
   push:
@@ -9,53 +9,74 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: book-os-candidates-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  candidate:
-    name: Build and deliver candidate
+  validate:
+    name: Validate integration contract
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    env:
-      ARTIFACT_NAME: book-os-integration-VOL-01-${{ github.sha }}
-      BUNDLE_DIR: ${{ github.workspace }}/.artifacts/book-os-integration/VOL-01/candidate-${{ github.sha }}
-
     steps:
       - name: Checkout exact source commit
         uses: actions/checkout@v4
         with:
           ref: ${{ github.sha }}
           fetch-depth: 1
-
       - name: Verify source provenance
         shell: bash
         run: |
           set -euo pipefail
           test "${#GITHUB_SHA}" -eq 40
           test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
-
       - name: Set up Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
-
       - name: Install locked dependencies
         run: npm ci
-
       - name: Run integration contract tests
         run: npm test -- --run tests/book-integration-bundle.test.ts tests/book-preview.test.ts tests/text-volumes.test.ts
-
       - name: Typecheck
         run: npm run typecheck
 
+  candidate:
+    name: Build and deliver ${{ matrix.volume }} candidate
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        volume: [VOL-01, VOL-02, VOL-03, VOL-04, VOL-05, VOL-06, VOL-07, VOL-08, VOL-09, VOL-10, VOL-11, VOL-12]
+    env:
+      VOLUME_CODE: ${{ matrix.volume }}
+      ARTIFACT_NAME: book-os-integration-${{ matrix.volume }}-${{ github.sha }}-${{ github.run_attempt }}
+      BUNDLE_DIR: ${{ github.workspace }}/.artifacts/book-os-integration/${{ matrix.volume }}/candidate-${{ github.sha }}
+    steps:
+      - name: Checkout exact source commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 1
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Install locked dependencies
+        run: npm ci
       - name: Build deterministic candidate bundle
         run: >-
           npm run bundle:integration --
-          --volume VOL-01
+          --volume "${VOLUME_CODE}"
           --channel candidate
           --source-sha "${GITHUB_SHA}"
           --out "${BUNDLE_DIR}"
-
-      - name: Read bundle metadata
+      - name: Read and preflight bundle metadata
         id: bundle
         shell: bash
         run: |
@@ -63,29 +84,30 @@ jobs:
           node <<'NODE' >> "$GITHUB_OUTPUT"
           const fs = require("node:fs")
           const path = require("node:path")
-          const bundle = JSON.parse(fs.readFileSync(path.join(process.env.BUNDLE_DIR, "bundle.json"), "utf8"))
-
+          const bundlePath = path.join(process.env.BUNDLE_DIR, "bundle.json")
+          const bundle = JSON.parse(fs.readFileSync(bundlePath, "utf8"))
           if (bundle.schemaVersion !== "book-os-integration-bundle/v1") throw new Error("Unexpected bundle schemaVersion")
           if (bundle.channel !== "candidate") throw new Error("Unexpected bundle channel")
           if (bundle.source.commit !== process.env.GITHUB_SHA) throw new Error("Bundle source SHA mismatch")
+          if (bundle.volume.code !== process.env.VOLUME_CODE) throw new Error("Bundle volume mismatch")
           if (!/^[0-9a-f]{64}$/.test(bundle.bundleDigest)) throw new Error("Invalid bundle digest")
           if (!/^[0-9a-f]{64}$/.test(bundle.contentDigest)) throw new Error("Invalid content digest")
-
+          if (fs.statSync(bundlePath).size > 25 * 1024 * 1024) throw new Error("bundle.json exceeds 25 MiB")
+          if (bundle.assets.some((asset) => asset.sizeBytes > 25 * 1024 * 1024)) throw new Error("An asset exceeds 25 MiB")
+          const declaredBytes = fs.statSync(bundlePath).size + bundle.assets.reduce((sum, asset) => sum + asset.sizeBytes, 0)
+          if (declaredBytes > 250 * 1024 * 1024) throw new Error("Bundle exceeds 250 MiB uncompressed")
           process.stdout.write(`schema_version=${bundle.schemaVersion}\n`)
           process.stdout.write(`bundle_digest=${bundle.bundleDigest}\n`)
           process.stdout.write(`content_digest=${bundle.contentDigest}\n`)
           NODE
-
       - name: Upload candidate artifact
-        id: artifact
         uses: actions/upload-artifact@v4
         with:
           name: ${{ env.ARTIFACT_NAME }}
           path: ${{ env.BUNDLE_DIR }}
           if-no-files-found: error
-          retention-days: 14
+          retention-days: 3
           compression-level: 6
-
       - name: Check webhook configuration
         id: webhook
         shell: bash
@@ -98,9 +120,8 @@ jobs:
             echo "configured=true" >> "$GITHUB_OUTPUT"
           else
             echo "configured=false" >> "$GITHUB_OUTPUT"
-            echo "::notice title=Capitale webhook skipped::Configure CAPITALE_BOOK_OS_WEBHOOK_URL and CAPITALE_BOOK_OS_WEBHOOK_SECRET to enable notification."
+            echo "::notice title=Capitale webhook skipped::Configure webhook URL and secret to enable notification."
           fi
-
       - name: Notify Capitale with signed metadata
         if: ${{ steps.webhook.outputs.configured == 'true' }}
         shell: bash
@@ -114,7 +135,6 @@ jobs:
           set -euo pipefail
           node <<'NODE'
           const { createHmac } = require("node:crypto")
-
           const payload = JSON.stringify({
             schemaVersion: process.env.SCHEMA_VERSION,
             repository: process.env.GITHUB_REPOSITORY,
@@ -122,35 +142,32 @@ jobs:
             sourceSha: process.env.GITHUB_SHA,
             runId: process.env.GITHUB_RUN_ID,
             artifactName: process.env.ARTIFACT_NAME,
+            volumeCode: process.env.VOLUME_CODE,
             bundleDigest: process.env.BUNDLE_DIGEST,
             contentDigest: process.env.CONTENT_DIGEST,
             channel: "candidate"
           })
           const signature = createHmac("sha256", process.env.WEBHOOK_SECRET).update(payload).digest("hex")
-
           void (async () => {
             try {
               const url = new URL(process.env.WEBHOOK_URL)
               if (url.protocol !== "https:") throw new Error("Webhook URL must use HTTPS")
-
               const response = await fetch(url, {
                 method: "POST",
                 headers: {
                   "content-type": "application/json",
                   "x-book-os-signature-256": `sha256=${signature}`,
                   "x-github-event": "push",
-                  "x-github-delivery": `${process.env.GITHUB_RUN_ID}-${process.env.GITHUB_RUN_ATTEMPT}`
+                  "x-github-delivery": `${process.env.GITHUB_RUN_ID}-${process.env.GITHUB_RUN_ATTEMPT}-${process.env.VOLUME_CODE}`
                 },
                 body: payload
               })
-
               if (!response.ok) {
                 console.error(`Capitale webhook returned HTTP ${response.status}.`)
                 process.exitCode = 1
                 return
               }
-
-              console.log(`Capitale webhook accepted candidate metadata (HTTP ${response.status}).`)
+              console.log(`Capitale webhook accepted ${process.env.VOLUME_CODE} candidate metadata (HTTP ${response.status}).`)
             } catch {
               console.error("Capitale webhook request failed.")
               process.exitCode = 1

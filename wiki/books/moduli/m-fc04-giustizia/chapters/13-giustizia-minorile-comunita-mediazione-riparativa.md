@@ -1,5 +1,5 @@
 ---
-id: chapter-m-fc04-13-giustizia-minorile-comunità-mediazione-riparativa
+id: chapter-m-fc04-13-giustizia-minorile-comunita-mediazione-riparativa
 type: book_chapter
 title: "Giustizia minorile e di comunità: servizi, mediazione e riparativa"
 status: reviewed

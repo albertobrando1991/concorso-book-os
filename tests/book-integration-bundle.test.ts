@@ -10,6 +10,7 @@ import {
 } from "@/src/server/book/book-integration-bundle"
 import { buildBookStudioData, normalizeAssetPath } from "@/src/server/book/book-preview"
 import { FileWikiStore } from "@/src/server/wiki/file-store"
+import { TEXT_VOLUME_CATALOG, textVolumeBookId } from "@/src/catalog/text-volumes"
 
 const PROJECT_ROOT = path.resolve(".")
 const SOURCE_SHA = "a".repeat(40)
@@ -150,6 +151,22 @@ describe("Book OS integration bundle v1", () => {
     })).rejects.toBeInstanceOf(IntegrationReleaseBlockedError)
   }, 60_000)
 
+  it.each(TEXT_VOLUME_CATALOG)("builds a valid fail-closed $code candidate", async (volume) => {
+    const bundle = await buildBookIntegrationBundle({
+      projectRoot: PROJECT_ROOT,
+      volumeCode: volume.code,
+      channel: "candidate",
+      sourceSha: SOURCE_SHA
+    })
+
+    expect(bundle.volume.code).toBe(volume.code)
+    expect(bundle.volume.bookId).toBe(textVolumeBookId(volume))
+    expect(bundle.volume.introduction.summary).not.toBe("")
+    expect(bundle.volume.introduction.topics.length).toBeGreaterThan(0)
+    expect(bundle.gate.releaseEligible).toBe(false)
+    expect(validateBookIntegrationBundle(bundle)).toEqual([])
+  }, 120_000)
+
   it("rejects short source SHAs", async () => {
     await expect(buildBookIntegrationBundle({
       projectRoot: PROJECT_ROOT,
@@ -216,7 +233,12 @@ describe("Book OS integration bundle v1", () => {
     expect(workflow).toContain("node-version: 20")
     expect(workflow).toContain("npm ci")
     expect(workflow).toContain("actions/upload-artifact@v4")
-    expect(workflow).toContain("retention-days: 14")
+    expect(workflow).toContain("retention-days: 3")
+    expect(workflow).toContain("fail-fast: false")
+    expect(workflow).toContain("max-parallel: 3")
+    expect(workflow).toContain("volume: [VOL-01, VOL-02, VOL-03, VOL-04, VOL-05, VOL-06, VOL-07, VOL-08, VOL-09, VOL-10, VOL-11, VOL-12]")
+    expect(workflow).toContain("volumeCode: process.env.VOLUME_CODE")
+    expect(workflow).toContain("-${process.env.VOLUME_CODE}`")
     expect(workflow).toContain("CAPITALE_BOOK_OS_WEBHOOK_URL")
     expect(workflow).toContain("CAPITALE_BOOK_OS_WEBHOOK_SECRET")
     expect(workflow).toContain('createHmac("sha256"')

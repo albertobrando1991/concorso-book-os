@@ -58,8 +58,8 @@
       "additionalProperties": false,
       "required": ["code", "bookId", "title", "introduction", "counts", "frontMatter", "chapters"],
       "properties": {
-        "code": { "const": "VOL-01" },
-        "bookId": { "const": "il-metodo-bando" },
+        "code": { "type": "string", "pattern": "^VOL-(0[1-9]|1[0-2])$" },
+        "bookId": { "type": "string", "minLength": 1 },
         "title": { "type": "string", "minLength": 1 },
         "introduction": { "$ref": "#/$defs/volumeIntroduction" },
         "counts": {

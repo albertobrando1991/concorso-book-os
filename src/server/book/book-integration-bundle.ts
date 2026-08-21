@@ -4,6 +4,7 @@ import path from "node:path"
 import {
   TEXT_CATALOG_MODULE_COUNT,
   TEXT_VOLUME_CATALOG,
+  textVolumeBookId,
   type TextVolume
 } from "../../catalog/text-volumes"
 import { FileWikiStore } from "../wiki/file-store"
@@ -157,8 +158,8 @@ interface AssetDraft {
 }
 
 interface DigitalIntroductionSources {
-  overview: BookStudioChapter
-  copyright: BookStudioChapter
+  overview?: BookStudioChapter
+  copyright?: BookStudioChapter
 }
 
 const DIGITAL_INTRODUCTION_SOURCE = "books/il-metodo-bando/chapters/introduzione.md"
@@ -175,10 +176,6 @@ export async function buildBookIntegrationBundle(
     throw new Error("sourceSha deve essere uno SHA Git completo di 40 caratteri esadecimali.")
   }
 
-  if (volumeCode !== "VOL-01") {
-    throw new Error("book-os-integration-bundle/v1 supporta attualmente solo VOL-01.")
-  }
-
   const volume = TEXT_VOLUME_CATALOG.find((item) => item.code === volumeCode)
 
   if (!volume) throw new Error(`Volume sconosciuto: ${volumeCode}.`)
@@ -188,16 +185,14 @@ export async function buildBookIntegrationBundle(
 
   const wikiRoot = path.join(projectRoot, "wiki")
   const store = new FileWikiStore(wikiRoot)
-  const bookId = volume.bookIds[0]
-
-  if (!bookId) throw new Error(`${volumeCode} non dichiara un bookId.`)
+  const bookId = textVolumeBookId(volume)
 
   const studio = await buildBookStudioData(store, `volumi/${volumeCode.toLowerCase()}`)
-  const introductionSources = resolveDigitalIntroductionSources(studio.chapters)
+  const introductionSources = resolveDigitalIntroductionSources(volume, studio.chapters)
   const introduction = buildVolumeIntroduction(volume, introductionSources)
-  const consumerChapters = studio.chapters.filter(isConsumerChapter)
+  const consumerChapters = studio.chapters.filter((chapter) => isConsumerChapter(volume, chapter))
   const { assets, sourceAssets } = await buildAssets(store, consumerChapters)
-  const chapters = await Promise.all(consumerChapters.map((chapter) => buildContentUnit(store, chapter, sourceAssets)))
+  const chapters = await Promise.all(consumerChapters.map((chapter) => buildContentUnit(store, chapter, sourceAssets, volume)))
   assertUniqueUnitIds(chapters)
 
   const frontMatter: IntegrationContentUnit[] = []
@@ -233,8 +228,9 @@ export async function buildBookIntegrationBundle(
     store,
     sourceSha,
     contentDigest,
+    volume,
     chapters,
-    introductionSources: Object.values(introductionSources)
+    introductionSources: Object.values(introductionSources).filter((source): source is BookStudioChapter => Boolean(source))
   })
   const unsigned = {
     schemaVersion: INTEGRATION_BUNDLE_SCHEMA_VERSION,
@@ -314,6 +310,12 @@ export function validateBookIntegrationBundle(bundle: unknown): string[] {
   if (!/^[0-9a-f]{40}$/.test(String(value.source?.commit || ""))) issues.push("source.commit non valido.")
   if (value.catalog?.volumeCount !== 12 || value.catalog?.volumes?.length !== 12) issues.push("Il catalogo deve avere 12 volumi.")
   if (value.catalog?.moduleCount !== 25 || value.catalog?.modules?.length !== 25) issues.push("Il catalogo deve avere 25 moduli.")
+  if (!/^VOL-(0[1-9]|1[0-2])$/.test(String(value.volume?.code || ""))) issues.push("Codice volume non valido.")
+  const catalogVolume = value.catalog?.volumes?.find((volume) => volume.code === value.volume?.code)
+  if (!catalogVolume) issues.push("Il volume non appartiene al catalogo canonico.")
+  if (value.volume?.bookId !== textVolumeBookIdForCode(String(value.volume?.code || ""))) {
+    issues.push("bookId aggregato non corrispondente al volume.")
+  }
   if (!Array.isArray(value.volume?.frontMatter) || !Array.isArray(value.volume?.chapters)) issues.push("Contenuti volume mancanti.")
   if (value.volume?.introduction === undefined) {
     issues.push("Introduzione digitale mancante.")
@@ -458,7 +460,17 @@ function assertCatalogContract(catalog: IntegrationCatalog) {
   }
 }
 
-function resolveDigitalIntroductionSources(chapters: BookStudioChapter[]): DigitalIntroductionSources {
+function textVolumeBookIdForCode(volumeCode: string) {
+  const volume = TEXT_VOLUME_CATALOG.find((item) => item.code === volumeCode)
+  return volume ? textVolumeBookId(volume) : ""
+}
+
+function resolveDigitalIntroductionSources(
+  volume: TextVolume,
+  chapters: BookStudioChapter[]
+): DigitalIntroductionSources {
+  if (volume.code !== "VOL-01") return {}
+
   const overview = chapters.find((chapter) => chapter.path === DIGITAL_INTRODUCTION_SOURCE)
   const copyright = chapters.find((chapter) => chapter.path === COPYRIGHT_NOTICE_SOURCE)
 
@@ -472,21 +484,22 @@ function buildVolumeIntroduction(
   volume: TextVolume,
   sources: DigitalIntroductionSources
 ): IntegrationVolumeIntroduction {
-  const copyrightLines = sources.copyright.blocks
+  const copyrightLines = (sources.copyright?.blocks || [])
     .filter((block) => block.type === "paragraph" || block.type === "callout")
     .map((block) => block.text?.trim() || "")
     .filter((text) => (
       /^Copyright\b/i.test(text) || text.toLocaleLowerCase("it").includes("vietata la riproduzione")
     ))
 
-  if (copyrightLines.length < 2) {
+  if (volume.code === "VOL-01" && copyrightLines.length < 2) {
     throw new Error(`Copyright editoriale incompleto in ${COPYRIGHT_NOTICE_SOURCE}.`)
   }
 
   const digitalIntroduction = volume.digitalIntroduction
-  const summary = digitalIntroduction?.summary.trim() || ""
-  const topics = [...new Set(digitalIntroduction?.topics.map((topic) => topic.trim()).filter(Boolean) || [])]
-  const whyDifferent = digitalIntroduction?.whyDifferent.trim() || ""
+  const summary = digitalIntroduction?.summary.trim() || volume.promise.trim()
+  const topics = [...new Set(digitalIntroduction?.topics.map((topic) => topic.trim()).filter(Boolean) || volume.verticals)]
+  const whyDifferent = digitalIntroduction?.whyDifferent.trim()
+    || `Percorso pensato per ${volume.audience}. ${volume.promise}`
 
   if (!summary || topics.length === 0 || !whyDifferent) {
     throw new Error(`Presentazione editoriale digitale incompleta per ${volume.code}.`)
@@ -496,13 +509,14 @@ function buildVolumeIntroduction(
     title: `Introduzione al ${volume.title}`,
     summary,
     topics,
-    copyrightNotice: copyrightLines.join(" "),
+    copyrightNotice: copyrightLines.join(" ") || "Copyright © 2026 Capitale Personale. Tutti i diritti riservati. È vietata la riproduzione non autorizzata.",
     whyDifferent
   }
 }
 
-function isConsumerChapter(chapter: BookStudioChapter) {
-  return chapter.sectionType === "chapter" && chapter.path !== DIGITAL_INTRODUCTION_SOURCE
+function isConsumerChapter(volume: TextVolume, chapter: BookStudioChapter) {
+  return chapter.sectionType === "chapter"
+    && (volume.code !== "VOL-01" || chapter.path !== DIGITAL_INTRODUCTION_SOURCE)
 }
 
 async function buildAssets(store: FileWikiStore, chapters: BookStudioChapter[]) {
@@ -583,7 +597,8 @@ async function buildAssets(store: FileWikiStore, chapters: BookStudioChapter[]) 
 async function buildContentUnit(
   store: FileWikiStore,
   chapter: BookStudioChapter,
-  sourceAssets: Map<string, IntegrationAsset>
+  sourceAssets: Map<string, IntegrationAsset>,
+  volume: TextVolume
 ): Promise<IntegrationContentUnit> {
   const source = await store.readText(chapter.path)
   const parsed = parseFrontmatter(source)
@@ -606,7 +621,7 @@ async function buildContentUnit(
       assetId: asset.id
     }
   })
-  const integrationModule = resolveIntegrationModule(chapter)
+  const integrationModule = resolveIntegrationModule(chapter, volume)
 
   return {
     id,
@@ -630,7 +645,8 @@ async function buildContentUnit(
 }
 
 function resolveIntegrationModule(
-  chapter: BookStudioChapter
+  chapter: BookStudioChapter,
+  volume: TextVolume
 ): { code: string; title: string } | null {
   if (chapter.volumeModuleCode) {
     return { code: chapter.volumeModuleCode, title: chapter.volumeModuleCode }
@@ -642,6 +658,10 @@ function resolveIntegrationModule(
 
   if (chapter.bookScope === "ricettario") {
     return { code: "RICETTARIO", title: "Ricettario operativo digitale" }
+  }
+
+  if (volume.code !== "VOL-01") {
+    return { code: "MAIN", title: volume.shortTitle }
   }
 
   const numericSection = Number.parseInt(chapter.outlineSection, 10)
@@ -678,26 +698,42 @@ async function collectReleaseBlockers(input: {
   store: FileWikiStore
   sourceSha: string
   contentDigest: string
+  volume: TextVolume
   chapters: IntegrationContentUnit[]
   introductionSources: BookStudioChapter[]
 }) {
   const blockers: IntegrationGateBlocker[] = []
-  const bookPath = "books/il-metodo-bando/index.md"
-  const ricettarioPath = "books/il-metodo-bando/ricettario-digitale.md"
-  const book = parseFrontmatter(await input.store.readText(bookPath)).data
-  const ricettario = parseFrontmatter(await input.store.readText(ricettarioPath)).data
+  const sourceBookIds = [...input.volume.bookIds, ...(input.volume.orientationBookId ? [input.volume.orientationBookId] : [])]
 
-  if (String(book.status || "") !== "publication-ready") {
-    blockers.push({ code: "book-status-not-ready", message: `VOL-01 ha status ${String(book.status || "missing")}.`, sourcePath: `wiki/${bookPath}` })
+  for (const sourceBookId of sourceBookIds) {
+    const bookPath = `books/${sourceBookId}/index.md`
+    if (!await input.store.exists(bookPath)) {
+      blockers.push({ code: "book-index-missing", message: `${sourceBookId} non ha un index editoriale.`, sourcePath: `wiki/${bookPath}` })
+      continue
+    }
+
+    const book = parseFrontmatter(await input.store.readText(bookPath)).data
+    if (String(book.status || "") !== "publication-ready") {
+      blockers.push({ code: "book-status-not-ready", message: `${sourceBookId} ha status ${String(book.status || "missing")}.`, sourcePath: `wiki/${bookPath}` })
+    }
+    if (Boolean(book.review_required)) {
+      blockers.push({ code: "book-review-required", message: `${sourceBookId} richiede ancora review.`, sourcePath: `wiki/${bookPath}` })
+    }
   }
-  if (Boolean(book.review_required)) {
-    blockers.push({ code: "book-review-required", message: "VOL-01 richiede ancora review.", sourcePath: `wiki/${bookPath}` })
+
+  if (input.volume.code === "VOL-01") {
+    const ricettarioPath = "books/il-metodo-bando/ricettario-digitale.md"
+    const ricettario = parseFrontmatter(await input.store.readText(ricettarioPath)).data
+    if (String(ricettario.status || "") !== "publication-ready") {
+      blockers.push({ code: "ricettario-status-not-ready", message: `Il Ricettario ha status ${String(ricettario.status || "missing")}.`, sourcePath: `wiki/${ricettarioPath}` })
+    }
+    if (Boolean(ricettario.review_required)) {
+      blockers.push({ code: "ricettario-review-required", message: "Il Ricettario richiede ancora review.", sourcePath: `wiki/${ricettarioPath}` })
+    }
   }
-  if (String(ricettario.status || "") !== "publication-ready") {
-    blockers.push({ code: "ricettario-status-not-ready", message: `Il Ricettario ha status ${String(ricettario.status || "missing")}.`, sourcePath: `wiki/${ricettarioPath}` })
-  }
-  if (Boolean(ricettario.review_required)) {
-    blockers.push({ code: "ricettario-review-required", message: "Il Ricettario richiede ancora review.", sourcePath: `wiki/${ricettarioPath}` })
+
+  if (input.chapters.length === 0) {
+    blockers.push({ code: "volume-content-missing", message: `${input.volume.code} non contiene capitoli importabili.` })
   }
 
   const pendingChapters = input.chapters.filter((chapter) => chapter.reviewRequired)
@@ -706,6 +742,15 @@ async function collectReleaseBlockers(input: {
       code: "chapter-review-required",
       message: `${pendingChapters.length} capitoli o moduli richiedono ancora review.`,
       count: pendingChapters.length
+    })
+  }
+
+  const incompleteChapters = input.chapters.filter((chapter) => chapter.contentState !== "written")
+  if (incompleteChapters.length > 0) {
+    blockers.push({
+      code: "chapter-content-incomplete",
+      message: `${incompleteChapters.length} capitoli o moduli non sono ancora in stato written.`,
+      count: incompleteChapters.length
     })
   }
 
@@ -719,26 +764,40 @@ async function collectReleaseBlockers(input: {
     })
   }
 
-  if (!await input.store.exists("books/il-metodo-bando/planning/00-scheda-pipeline.md")) {
+  const pipelinePath = path.join(input.projectRoot, "pipeline", input.volume.code, "run-state.json")
+  const pipeline = await readJsonOptional(pipelinePath)
+  if (!pipeline) {
     blockers.push({
       code: "pipeline-spec-missing",
-      message: "Manca la scheda pipeline di VOL-01.",
-      sourcePath: "wiki/books/il-metodo-bando/planning/00-scheda-pipeline.md"
+      message: `Manca lo stato pipeline di ${input.volume.code}.`,
+      sourcePath: `pipeline/${input.volume.code}/run-state.json`
     })
+  } else {
+    const finalStep = Array.isArray(pipeline.steps)
+      ? pipeline.steps.find((step: { id?: unknown }) => String(step.id || "") === "24")
+      : undefined
+    if (!finalStep || finalStep.status !== "done" || finalStep.gate?.passed !== true) {
+      blockers.push({
+        code: "pipeline-final-gate-pending",
+        message: `Lo step 24 di ${input.volume.code} non risulta completato e approvato.`,
+        sourcePath: `pipeline/${input.volume.code}/run-state.json`
+      })
+    }
   }
 
-  const approvalPath = path.join(input.projectRoot, "delivery", "VOL-01", "release-approval.json")
+  const approvalRelativePath = `delivery/${input.volume.code}/release-approval.json`
+  const approvalPath = path.join(input.projectRoot, "delivery", input.volume.code, "release-approval.json")
   const approval = await readJsonOptional(approvalPath)
 
   if (!approval) {
-    blockers.push({ code: "release-approval-missing", message: "Manca release-approval.json per VOL-01.", sourcePath: "delivery/VOL-01/release-approval.json" })
+    blockers.push({ code: "release-approval-missing", message: `Manca release-approval.json per ${input.volume.code}.`, sourcePath: approvalRelativePath })
   } else if (
     approval.status !== "approved" ||
-    approval.volumeCode !== "VOL-01" ||
+    approval.volumeCode !== input.volume.code ||
     approval.sourceCommit !== input.sourceSha ||
     approval.contentDigest !== input.contentDigest
   ) {
-    blockers.push({ code: "release-approval-stale", message: "L'approvazione non corrisponde a volume, SHA e digest del bundle.", sourcePath: "delivery/VOL-01/release-approval.json" })
+    blockers.push({ code: "release-approval-stale", message: "L'approvazione non corrisponde a volume, SHA e digest del bundle.", sourcePath: approvalRelativePath })
   }
 
   return blockers
