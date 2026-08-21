@@ -2,22 +2,22 @@
 id: source-aria-rumore-monitoraggio-dati-quadro-ufficiale-2026
 type: source
 title: "Aria, rumore, monitoraggio e dati — quadro ufficiale 2026"
-status: processed
+status: consolidated
 domain: "concorsi pubblici italiani"
 topics: ["qualità dell'aria", "inquinamento acustico", "monitoraggio ambientale", "qualità del dato", "informazione ambientale"]
 entities: ["MASE", "ISPRA", "SNPA", "ARPA", "Regioni", "Comuni"]
 source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti", "sources/aia-aua-emissioni-quadro-ufficiale-2026"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
-confidence: 0.93
+confidence: 0.95
 created_at: 2026-08-13
-updated_at: 2026-08-13
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: true
-tags: ["source", "m-tr04", "aria", "rumore", "monitoraggio", "dati", "2026"]
+tags: ["source", "m-tr04", "aria", "rumore", "monitoraggio", "dati", "2026", "step-15"]
 source_type: official_legal_and_technical_bundle
 source_url: "https://www.normattiva.it/eli/id/2010/09/15/010G0177/CONSOLIDATED/20180702"
-source_date: 2026-08-13
-authority_level: alta_con_review
+source_date: 2026-08-18
+authority_level: alta
 ---
 
 # Aria, rumore, monitoraggio e dati — quadro ufficiale 2026
@@ -31,7 +31,8 @@ Il capitolo deve insegnare a costruire un piano di monitoraggio e a leggere crit
 ## Fonti ufficiali principali
 
 - D.Lgs. 13 agosto 2010, n. 155, quadro nazionale unitario per valutazione e gestione della qualità dell'aria ambiente: [Normattiva](https://www.normattiva.it/eli/id/2010/09/15/010G0177/CONSOLIDATED/20180702) e [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=010G0177&atto.dataPubblicazioneGazzetta=2010-09-15).
-- Direttiva (UE) 2024/2881 sulla qualità dell'aria ambiente e un'aria più pulita in Europa, rifusione: [EUR-Lex](https://eur-lex.europa.eu/eli/dir/2024/2881/oj).
+- Direttiva (UE) 2024/2881 sulla qualità dell'aria ambiente e un'aria più pulita in Europa, rifusione: [EUR-Lex](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024L2881).
+- Decisione di esecuzione (UE) 2026/1208 del 9 giugno 2026 sui dettagli tecnici di modellizzazione e rappresentatività spaziale, in vigore e applicabile dal 30 giugno 2028: [EUR-Lex](https://eur-lex.europa.eu/eli/dec_impl/2026/1208/oj).
 - Legge 26 ottobre 1995, n. 447, legge quadro sull'inquinamento acustico: [Normattiva](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=095G0477&atto.dataPubblicazioneGazzetta=1995-10-30&classica=true&tipoDettaglio=singolavigenza).
 - D.P.C.M. 14 novembre 1997, determinazione dei valori limite delle sorgenti sonore: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/1997/12/01/097A9602/sg).
 - D.M. 16 marzo 1998, tecniche di rilevamento e misurazione dell'inquinamento acustico: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=098A2679&atto.dataPubblicazioneGazzetta=1998-04-01).
@@ -52,7 +53,7 @@ Il sistema considera, tra gli altri, particolato PM10 e PM2,5, biossido di azoto
 
 La direttiva (UE) 2024/2881 è entrata in vigore il 10 dicembre 2024 e rifonde il quadro europeo, rafforzando standard, monitoraggio, modellizzazione, informazione e pianificazione. Il termine di recepimento è l'11 dicembre 2026; le precedenti direttive sono abrogate con effetto dal 12 dicembre 2026 secondo l'articolo 31.
 
-Alla data di questa nota il termine di recepimento non è ancora scaduto. Il capitolo usa quindi il D.Lgs. n. 155/2010 come riferimento nazionale vigente consolidato e presenta la direttiva del 2024 come transizione da controllare al text freeze. Non trasferisce automaticamente nel diritto interno valori, procedure o date future. Anche la decisione di esecuzione (UE) 2026/1208 su modellizzazione e rappresentatività spaziale ha un'applicazione differita e va verificata nel ciclo editoriale successivo.
+Alla verifica del 18 agosto 2026 il termine di recepimento non è ancora scaduto. Il capitolo usa quindi il D.Lgs. n. 155/2010 come riferimento nazionale vigente consolidato e presenta la direttiva del 2024 come transizione europea, senza trasferire automaticamente nel diritto interno valori, procedure o date future. La decisione di esecuzione (UE) 2026/1208 del 9 giugno 2026 è in vigore e definisce dettagli tecnici di modellizzazione e rappresentatività spaziale, ma si applica dal 30 giugno 2028.
 
 ## Emissione, immissione e concentrazione nell'aria ambiente
 
@@ -91,7 +92,7 @@ Il decisore deve separare osservazione e attribuzione causale. Il monitoraggio p
 - Non anticipare sanzioni, reati, sequestro o attività di polizia giudiziaria del capitolo 09.
 - Distinguere sempre aria ambiente, emissioni convogliate, odori e ambiente di lavoro.
 - Distinguere classificazione acustica, misura sul ricettore, mappa strategica e valutazione previsionale.
-- Verificare al text freeze il recepimento italiano della direttiva (UE) 2024/2881 e ogni modifica del D.Lgs. n. 155/2010.
-- Verificare legge regionale, classificazione acustica, regolamenti e riparto locale prima di localizzare un caso.
-- Sottoporre a audit tecnico il piano di monitoraggio, la rappresentatività, i metodi, QA/QC e la validazione.
+- Alla verifica del 18 agosto 2026 la direttiva (UE) 2024/2881 non è ancora recepita in Italia; il D.Lgs. n. 155/2010 resta base nazionale vigente.
+- Nei casi localizzati occorrono legge regionale, classificazione acustica, regolamenti e riparto locale applicabili.
+- Il piano di monitoraggio deve esplicitare rappresentatività, metodi, QA/QC e validazione.
 

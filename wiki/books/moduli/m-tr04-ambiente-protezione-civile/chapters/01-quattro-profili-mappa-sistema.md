@@ -8,7 +8,7 @@ volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["ambiente", "protezione civile", "energia e clima", "sostenibilità", "profili concorsuali", "Metodo BANDO"]
 entities: ["M-TR04", "MASE", "ISPRA", "SNPA", "Dipartimento della Protezione Civile", "GSE", "ARPA"]
@@ -16,11 +16,11 @@ source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "s
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile", "il-metodo-bando"]
 last_compiled_from: ["wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/03-piano-capitolo-01-quattro-profili-mappa-sistema.md"]
 confidence: 0.7
-updated_at: 2026-08-08
+updated_at: 2026-08-18
 created_at: 2026-08-08
-review_required: true
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
@@ -52,7 +52,7 @@ Al termine saprai:
 | Qual è la materia dominante? | D.Lgs. 152/2006, protezione civile, energia, rifiuti, acque, DNSH/CAM o procedimento locale |
 | Quale prova? | Quiz, risposta aperta, orale, caso, piano, verbale, checklist o combinazione |
 | Quale output? | Documento breve e motivato, scenario, mappa competenze, piano di monitoraggio, risposta comparativa |
-| Quale rinvio? | VOL-01 per B-PA; VOL-02 per ordinamento locale generale; VOL-09 per procurement; VOL-10 per tecnica e lavori |
+| Quale confine di collana? | B-PA, ordinamento locale generale, procurement avanzato e progettazione tecnica non sono trattati in VOL-11; il modulo conserva solo il delta specialistico ambiente, protezione civile, energia e sostenibilità |
 
 ## N-TR04-01-01 · Perché M-TR04 è una famiglia trasversale
 Un ultimo controllo riguarda la consegna. Prima di chiudere la risposta rileggi la domanda e verifica che il documento prodotto corrisponda al destinatario, al tempo e al livello di dettaglio richiesti. Una mappa per il dirigente non ha la stessa forma di un verbale per il controllo; un briefing alla popolazione non ha la stessa forma di una relazione tecnica; una checklist di progetto non ha la stessa forma di una risposta orale. Adeguare il formato è parte della competenza e può fare la differenza anche quando la teoria è corretta.
@@ -187,7 +187,7 @@ Compila il decoder in cinque righe.
 
 **Riga 4 — Output.** Scrivi il documento che il candidato deve saper produrre: risposta sintetica, verbale, piano, scenario, checklist o mappa.
 
-**Riga 5 — Rinvio.** Segna ciò che appartiene a VOL-01, VOL-02, VOL-09 o VOL-10. Un rinvio preciso libera tempo e impedisce duplicazioni.
+**Riga 5 — Confine di collana.** Segna se la traccia esce dal perimetro di VOL-11: B-PA, ordinamento locale generale, procurement avanzato e progettazione tecnica vanno delimitati, non trattati qui come se fossero parte del modulo M-TR04.
 
 ### Domanda da commissario
 
@@ -223,123 +223,8 @@ Classifica questi tre avvisi: (A) “istruttoria di autorizzazioni ambientali e 
 3. Perché il nome dell’ente non basta a classificare il bando? **Perché lo stesso ente può bandire profili con funzioni diverse.**
 4. Qual è l’errore nel citare una FAQ come fonte del potere amministrativo? **La FAQ può spiegare l’operatività, ma non attribuisce competenze.**
 5. Che cosa deve contenere il Bando Decoder alla voce output? **Il documento o la prestazione che il candidato deve saper produrre.**
-6. Quando è corretto rinviare a VOL-09? **Quando il nucleo prevalente riguarda appalti, PNRR o procurement, con destinazione precisa.**
+6. Quando è corretto delimitare il confine con il procurement avanzato? **Quando il nucleo prevalente riguarda appalti, PNRR o procurement: in VOL-11 lo segnali come ambito non trattato qui e non lo usi come sostituto della spiegazione specialistica richiesta.**
 
 ## Riferimenti normativi e professionali essenziali
 
 Per il perimetro ambientale: D.Lgs. 3 aprile 2006, n. 152. Per il sistema di protezione civile: D.Lgs. 2 gennaio 2018, n. 1. Per energia, rinnovabili e sostenibilità: fonti europee e nazionali vigenti, regole GSE/ARERA, guida DNSH e CAM applicabili al caso. Per dati e controlli: fonti istituzionali MASE, ISPRA, SNPA, ARPA e Dipartimento della Protezione Civile. Le versioni mobili e i riferimenti puntuali devono essere verificati prima della pubblicazione.
-## N-TR04-01-01 · Laboratorio di classificazione del perimetro
-Un ultimo controllo riguarda la consegna. Prima di chiudere la risposta rileggi la domanda e verifica che il documento prodotto corrisponda al destinatario, al tempo e al livello di dettaglio richiesti. Una mappa per il dirigente non ha la stessa forma di un verbale per il controllo; un briefing alla popolazione non ha la stessa forma di una relazione tecnica; una checklist di progetto non ha la stessa forma di una risposta orale. Adeguare il formato è parte della competenza e può fare la differenza anche quando la teoria è corretta.
-Per rendere questa competenza trasferibile, lavora sempre con una sequenza di controllo. Prima riscrivi la richiesta del bando con parole tue, senza aggiungere materia non presente. Poi indica il risultato che l’ufficio deve raggiungere e separalo dall’attività preparatoria. Infine elenca la prova che dimostra il risultato: un dato validato, un verbale, una relazione, una prescrizione, un piano o una risposta motivata. La sequenza aiuta a mantenere il confine fra conoscenza e prestazione.
-
-Nel ripasso, prova a cambiare un solo elemento alla volta. Mantieni lo stesso problema e cambia l’ente; poi mantieni l’ente e cambia il profilo; infine mantieni il profilo e cambia la prova. Se la risposta resta identica in tutti e tre i casi, probabilmente stai recitando una definizione generica. Se invece cambiano soggetto, fonte o documento ma resta riconoscibile il principio, la mappa è diventata operativa.
-
-La stessa tecnica vale per l’errore. Descrivi l’errore in una riga, spiega perché è plausibile e indica il controllo che lo intercetta. “Attribuire ogni competenza al Comune” è plausibile perché il caso è locale; il controllo consiste nel verificare autorità, fonte e procedimento. “Trattare un indicatore come prova di conformità” è plausibile perché il dato sembra oggettivo; il controllo consiste nel collegarlo a metodo, soglia applicabile e prescrizione. “Confondere piano e ordine di servizio” è plausibile perché entrambi organizzano attività; il controllo consiste nel distinguere funzione, destinatari e livello di vincolo.
-
-Queste micro-sequenze diventano materiale per quiz, orale e caso. Una buona risposta non elimina la complessità: la ordina in passaggi verificabili. Per questo il capitolo apre il volume con una mappa e non con un catalogo di norme. I capitoli successivi potranno aggiungere profondità, ma il lettore dovrà sempre riconoscere il profilo, il problema, la fonte e l’output prima di entrare nel dettaglio.
-
-La classificazione del perimetro è una competenza concreta. Davanti a un bando, il candidato deve isolare il lavoro promesso, distinguere le attività principali da quelle accessorie e ordinare le fonti. Un profilo AMB può avere una componente di dati, un profilo PC una componente ambientale, un profilo EN una componente amministrativa e un profilo LOC una componente di protezione civile. Il fatto che una parola compaia nel programma non la rende automaticamente materia dominante.
-
-Per lavorare bene, annota tre verbi professionali, tre oggetti e tre documenti. I verbi indicano l’azione: valutare, istruire, controllare, pianificare, coordinare, monitorare, rendicontare. Gli oggetti indicano il problema: impianto, rischio, rifiuto, corpo idrico, consumo, progetto, segnalazione. I documenti indicano l’output: parere, piano, verbale, checklist, rapporto, risposta sintetica. La combinazione è più affidabile del titolo del posto.
-
-Un errore di classificazione produce un piano di studio sbilanciato. Se leggi come “ambiente” un profilo che in realtà richiede pianificazione di emergenza, passerai tempo sulle autorizzazioni e arriverai impreparato alla prova situazionale. Se leggi come “energia” un profilo che richiede controllo locale, studierai obiettivi e indicatori ma non saprai gestire una segnalazione. La correzione non consiste nel cancellare, ma nel ripesare: conserva la base comune e sposta le ore sul nucleo che determina l’output.
-
-Usa il decoder come una scheda di decisione. La prima versione può essere provvisoria; la seconda deve incorporare le prove e la terza gli errori delle simulazioni. Ogni volta che una domanda del bando non trova posto, aggiungi una riga “da verificare” e non improvvisare una nuova materia. Il metodo protegge dall’ansia da completezza e rende visibile il prossimo passo.
-
-## N-TR04-01-02 · Profili, competenze e responsabilità
-Un ultimo controllo riguarda la consegna. Prima di chiudere la risposta rileggi la domanda e verifica che il documento prodotto corrisponda al destinatario, al tempo e al livello di dettaglio richiesti. Una mappa per il dirigente non ha la stessa forma di un verbale per il controllo; un briefing alla popolazione non ha la stessa forma di una relazione tecnica; una checklist di progetto non ha la stessa forma di una risposta orale. Adeguare il formato è parte della competenza e può fare la differenza anche quando la teoria è corretta.
-Per rendere questa competenza trasferibile, lavora sempre con una sequenza di controllo. Prima riscrivi la richiesta del bando con parole tue, senza aggiungere materia non presente. Poi indica il risultato che l’ufficio deve raggiungere e separalo dall’attività preparatoria. Infine elenca la prova che dimostra il risultato: un dato validato, un verbale, una relazione, una prescrizione, un piano o una risposta motivata. La sequenza aiuta a mantenere il confine fra conoscenza e prestazione.
-
-Nel ripasso, prova a cambiare un solo elemento alla volta. Mantieni lo stesso problema e cambia l’ente; poi mantieni l’ente e cambia il profilo; infine mantieni il profilo e cambia la prova. Se la risposta resta identica in tutti e tre i casi, probabilmente stai recitando una definizione generica. Se invece cambiano soggetto, fonte o documento ma resta riconoscibile il principio, la mappa è diventata operativa.
-
-La stessa tecnica vale per l’errore. Descrivi l’errore in una riga, spiega perché è plausibile e indica il controllo che lo intercetta. “Attribuire ogni competenza al Comune” è plausibile perché il caso è locale; il controllo consiste nel verificare autorità, fonte e procedimento. “Trattare un indicatore come prova di conformità” è plausibile perché il dato sembra oggettivo; il controllo consiste nel collegarlo a metodo, soglia applicabile e prescrizione. “Confondere piano e ordine di servizio” è plausibile perché entrambi organizzano attività; il controllo consiste nel distinguere funzione, destinatari e livello di vincolo.
-
-Queste micro-sequenze diventano materiale per quiz, orale e caso. Una buona risposta non elimina la complessità: la ordina in passaggi verificabili. Per questo il capitolo apre il volume con una mappa e non con un catalogo di norme. I capitoli successivi potranno aggiungere profondità, ma il lettore dovrà sempre riconoscere il profilo, il problema, la fonte e l’output prima di entrare nel dettaglio.
-
-Un profilo concorsuale è una promessa di lavoro. Per capirla, chiediti quale decisione il dipendente dovrà sostenere, quali dati dovrà leggere, con chi dovrà coordinarsi e quale responsabilità documentale avrà. AMB lavora sulla correttezza tecnica e procedimentale; PC sulla preparazione e sul coordinamento; EN sulla trasformazione di obiettivi in progetti e indicatori; LOC sulla traduzione della disciplina in atti e servizi territoriali.
-
-La responsabilità non coincide con la firma. Un candidato deve sapere distinguere chi raccoglie il dato, chi istruisce, chi esprime un parere, chi decide e chi controlla. Nei sistemi ambientali e di protezione civile il lavoro è spesso interistituzionale: un ufficio può dipendere da un dato prodotto da un’altra amministrazione, da un parere tecnico o da una direttiva di coordinamento. La risposta d’esame deve rendere esplicito il raccordo, non attribuire tutto al profilo che sta parlando.
-
-Per esercitarti, costruisci una matrice a quattro colonne: attività, soggetto, fonte, output. Nella riga “monitorare” inserisci chi rileva, quale indicatore usa, quale rapporto produce e chi utilizza il risultato. Nella riga “pianificare” indica scenario, responsabilità, risorse e modalità di aggiornamento. Nella riga “controllare” separa osservazione, confronto con la regola, contestazione e correzione. Questa matrice diventa una risposta orale e una checklist per il caso pratico.
-
-La competenza specialistica comprende anche il limite. Un funzionario non deve promettere ciò che l’ente o il procedimento non consentono; uno specialista non deve trasformare una linea guida in una norma; un ufficio locale non deve sostituire l’autorità competente. Esplicitare il limite non indebolisce la risposta: dimostra consapevolezza istituzionale e riduce il rischio di una soluzione sproporzionata.
-
-## N-TR04-01-03 · Fonti, dati e catena di prova
-Un ultimo controllo riguarda la consegna. Prima di chiudere la risposta rileggi la domanda e verifica che il documento prodotto corrisponda al destinatario, al tempo e al livello di dettaglio richiesti. Una mappa per il dirigente non ha la stessa forma di un verbale per il controllo; un briefing alla popolazione non ha la stessa forma di una relazione tecnica; una checklist di progetto non ha la stessa forma di una risposta orale. Adeguare il formato è parte della competenza e può fare la differenza anche quando la teoria è corretta.
-Per rendere questa competenza trasferibile, lavora sempre con una sequenza di controllo. Prima riscrivi la richiesta del bando con parole tue, senza aggiungere materia non presente. Poi indica il risultato che l’ufficio deve raggiungere e separalo dall’attività preparatoria. Infine elenca la prova che dimostra il risultato: un dato validato, un verbale, una relazione, una prescrizione, un piano o una risposta motivata. La sequenza aiuta a mantenere il confine fra conoscenza e prestazione.
-
-Nel ripasso, prova a cambiare un solo elemento alla volta. Mantieni lo stesso problema e cambia l’ente; poi mantieni l’ente e cambia il profilo; infine mantieni il profilo e cambia la prova. Se la risposta resta identica in tutti e tre i casi, probabilmente stai recitando una definizione generica. Se invece cambiano soggetto, fonte o documento ma resta riconoscibile il principio, la mappa è diventata operativa.
-
-La stessa tecnica vale per l’errore. Descrivi l’errore in una riga, spiega perché è plausibile e indica il controllo che lo intercetta. “Attribuire ogni competenza al Comune” è plausibile perché il caso è locale; il controllo consiste nel verificare autorità, fonte e procedimento. “Trattare un indicatore come prova di conformità” è plausibile perché il dato sembra oggettivo; il controllo consiste nel collegarlo a metodo, soglia applicabile e prescrizione. “Confondere piano e ordine di servizio” è plausibile perché entrambi organizzano attività; il controllo consiste nel distinguere funzione, destinatari e livello di vincolo.
-
-Queste micro-sequenze diventano materiale per quiz, orale e caso. Una buona risposta non elimina la complessità: la ordina in passaggi verificabili. Per questo il capitolo apre il volume con una mappa e non con un catalogo di norme. I capitoli successivi potranno aggiungere profondità, ma il lettore dovrà sempre riconoscere il profilo, il problema, la fonte e l’output prima di entrare nel dettaglio.
-
-La mappa del sistema diventa solida quando ogni affermazione ha una fonte e ogni fonte ha una funzione. La norma stabilisce il quadro; il regolamento disciplina dettagli; la direttiva organizza il coordinamento; la linea guida rende applicabile un metodo; il rapporto documenta dati; il bando seleziona le competenze. Il candidato deve saper dire non soltanto “qual è la fonte”, ma “che cosa posso dimostrare con questa fonte”.
-
-In una risposta ambientale la catena di prova può iniziare da un dato di monitoraggio, passare per la qualificazione del fenomeno, arrivare a una prescrizione e chiudersi con una verifica. In protezione civile può partire da uno scenario, passare per la valutazione del rischio, attivare un livello di coordinamento e produrre un messaggio alla popolazione. In energia può partire da consumi e obiettivi, definire un intervento, raccogliere evidenze e rendicontare indicatori.
-
-La data di controllo è parte della qualità. Le regole operative di registri, piattaforme, incentivi, allertamento e CAM possono cambiare; il principio resta, ma il modello o il termine possono essere mobili. Per questo nel diario di studio separa “regola stabile” e “dato da aggiornare”. La prima entra nella spiegazione; il secondo viene verificato prima della prova e non viene memorizzato come formula assoluta.
-
-Quando il bando chiede riferimenti, seleziona le fonti con criterio: una fonte per il quadro, una per il metodo, una per l’esempio. Cita il nome leggibile dell’atto o dell’istituzione e spiega il collegamento. Una risposta che usa una fonte senza farne vedere l’effetto è una bibliografia, non una dimostrazione di competenza.
-
-## N-TR04-01-04 · Prove, output e criteri di correzione
-Un ultimo controllo riguarda la consegna. Prima di chiudere la risposta rileggi la domanda e verifica che il documento prodotto corrisponda al destinatario, al tempo e al livello di dettaglio richiesti. Una mappa per il dirigente non ha la stessa forma di un verbale per il controllo; un briefing alla popolazione non ha la stessa forma di una relazione tecnica; una checklist di progetto non ha la stessa forma di una risposta orale. Adeguare il formato è parte della competenza e può fare la differenza anche quando la teoria è corretta.
-Per rendere questa competenza trasferibile, lavora sempre con una sequenza di controllo. Prima riscrivi la richiesta del bando con parole tue, senza aggiungere materia non presente. Poi indica il risultato che l’ufficio deve raggiungere e separalo dall’attività preparatoria. Infine elenca la prova che dimostra il risultato: un dato validato, un verbale, una relazione, una prescrizione, un piano o una risposta motivata. La sequenza aiuta a mantenere il confine fra conoscenza e prestazione.
-
-Nel ripasso, prova a cambiare un solo elemento alla volta. Mantieni lo stesso problema e cambia l’ente; poi mantieni l’ente e cambia il profilo; infine mantieni il profilo e cambia la prova. Se la risposta resta identica in tutti e tre i casi, probabilmente stai recitando una definizione generica. Se invece cambiano soggetto, fonte o documento ma resta riconoscibile il principio, la mappa è diventata operativa.
-
-La stessa tecnica vale per l’errore. Descrivi l’errore in una riga, spiega perché è plausibile e indica il controllo che lo intercetta. “Attribuire ogni competenza al Comune” è plausibile perché il caso è locale; il controllo consiste nel verificare autorità, fonte e procedimento. “Trattare un indicatore come prova di conformità” è plausibile perché il dato sembra oggettivo; il controllo consiste nel collegarlo a metodo, soglia applicabile e prescrizione. “Confondere piano e ordine di servizio” è plausibile perché entrambi organizzano attività; il controllo consiste nel distinguere funzione, destinatari e livello di vincolo.
-
-Queste micro-sequenze diventano materiale per quiz, orale e caso. Una buona risposta non elimina la complessità: la ordina in passaggi verificabili. Per questo il capitolo apre il volume con una mappa e non con un catalogo di norme. I capitoli successivi potranno aggiungere profondità, ma il lettore dovrà sempre riconoscere il profilo, il problema, la fonte e l’output prima di entrare nel dettaglio.
-
-La prova determina il modo di studiare. Il quiz richiede riconoscimento e distinzione; la risposta aperta richiede definizione, struttura e conseguenze; l’orale richiede ordine e capacità di chiarire; il caso richiede qualificazione, scelta e motivazione; il piano richiede sequenza, risorse e verifica; il verbale richiede fatti, competenza, contestazione e tracciabilità.
-
-Per ogni capitolo prepara un output minimo. AMB: una nota istruttoria di una pagina. PC: una scheda scenario con soggetti e messaggi. EN: una matrice obiettivi–indicatori–evidenze. LOC: una checklist di procedimento e controllo. L’output non deve essere un atto reale né sostituire un regolamento: è uno strumento di allenamento che mostra se la teoria è diventata azione.
-
-La correzione si divide in cinque domande: ho qualificato il problema? ho indicato il soggetto competente? ho usato la fonte giusta? ho prodotto il formato richiesto? ho segnalato il limite o il dato mobile? Se una risposta fallisce una domanda, annota l’errore nel diario e ripeti lo stesso caso cambiando soltanto il profilo. Il confronto fa emergere ciò che resta stabile e ciò che deve essere adattato.
-
-Nelle risposte brevi evita due estremi: un elenco di articoli senza ragionamento e una soluzione pratica senza base normativa. La forma più robusta alterna principio, applicazione e controllo. Una frase definisce, una frase collega al caso, una frase indica l’errore o la verifica. Questo schema è utile anche quando il tempo è poco.
-
-## N-TR04-01-05 · Piano personale e adattamento del percorso
-Un ultimo controllo riguarda la consegna. Prima di chiudere la risposta rileggi la domanda e verifica che il documento prodotto corrisponda al destinatario, al tempo e al livello di dettaglio richiesti. Una mappa per il dirigente non ha la stessa forma di un verbale per il controllo; un briefing alla popolazione non ha la stessa forma di una relazione tecnica; una checklist di progetto non ha la stessa forma di una risposta orale. Adeguare il formato è parte della competenza e può fare la differenza anche quando la teoria è corretta.
-Per rendere questa competenza trasferibile, lavora sempre con una sequenza di controllo. Prima riscrivi la richiesta del bando con parole tue, senza aggiungere materia non presente. Poi indica il risultato che l’ufficio deve raggiungere e separalo dall’attività preparatoria. Infine elenca la prova che dimostra il risultato: un dato validato, un verbale, una relazione, una prescrizione, un piano o una risposta motivata. La sequenza aiuta a mantenere il confine fra conoscenza e prestazione.
-
-Nel ripasso, prova a cambiare un solo elemento alla volta. Mantieni lo stesso problema e cambia l’ente; poi mantieni l’ente e cambia il profilo; infine mantieni il profilo e cambia la prova. Se la risposta resta identica in tutti e tre i casi, probabilmente stai recitando una definizione generica. Se invece cambiano soggetto, fonte o documento ma resta riconoscibile il principio, la mappa è diventata operativa.
-
-La stessa tecnica vale per l’errore. Descrivi l’errore in una riga, spiega perché è plausibile e indica il controllo che lo intercetta. “Attribuire ogni competenza al Comune” è plausibile perché il caso è locale; il controllo consiste nel verificare autorità, fonte e procedimento. “Trattare un indicatore come prova di conformità” è plausibile perché il dato sembra oggettivo; il controllo consiste nel collegarlo a metodo, soglia applicabile e prescrizione. “Confondere piano e ordine di servizio” è plausibile perché entrambi organizzano attività; il controllo consiste nel distinguere funzione, destinatari e livello di vincolo.
-
-Queste micro-sequenze diventano materiale per quiz, orale e caso. Una buona risposta non elimina la complessità: la ordina in passaggi verificabili. Per questo il capitolo apre il volume con una mappa e non con un catalogo di norme. I capitoli successivi potranno aggiungere profondità, ma il lettore dovrà sempre riconoscere il profilo, il problema, la fonte e l’output prima di entrare nel dettaglio.
-
-Il piano 30/60/90 non è un calendario uguale per tutti. Nei primi 30 giorni costruisci la mappa e consolida il nucleo comune; nei successivi 30 sviluppi la teoria del profilo; negli ultimi 30 alleni output, tempi e correzione. Il numero di ore dipende dalla prova e dalla distanza dall’esame, ma la sequenza resta: orientamento, profondità, performance.
-
-Per AMB e LOC la prima dorsale è 02-06, seguita da bonifiche, monitoraggio e controlli. Per PC la dorsale è 10-11, con il capitolo 02 come base istituzionale e il 14 per gli scenari. Per EN la dorsale è 12-13, con i capitoli 02-04 per competenze, autorizzazioni e raccordi. Tutti devono leggere 01 e usare 14 per integrare.
-
-Ogni settimana scegli un obiettivo osservabile: classificare tre profili, redigere una mappa, rispondere a sei quiz, correggere un caso. A fine settimana registra tre dati: cosa so spiegare senza appunti, quale errore ripeto, quale fonte devo ricontrollare. Il piano diventa così un sistema di feedback, non una lista di pagine.
-
-L’adattamento serve anche quando il bando cambia. Se compare una prova pratica, aumenta gli output; se compare un orale, aggiungi risposte da due minuti; se il profilo è locale, intensifica procedimenti e controlli; se è tecnico-scientifico, intensifica dati, monitoraggio e fonti professionali. Mantieni il nucleo comune e cambia il peso, non l’identità del percorso.
-
-## ▣ Verifica aggiuntiva
-
-1. Qual è il primo criterio per distinguere due profili che citano la stessa norma?
-
-**Risposta corretta:** L’output e la responsabilità professionale richiesti dal bando.
-
-2. Perché la data di controllo va distinta dalla regola stabile?
-
-**Risposta corretta:** Perché dati operativi, modelli e procedure possono cambiare anche quando il principio resta valido.
-
-3. Quale matrice aiuta a collegare attività e competenza?
-
-**Risposta corretta:** Attività, soggetto, fonte e output.
-
-4. Che cosa deve fare il candidato quando una materia compare ma non è collegata a una prova?
-
-**Risposta corretta:** Verificare il baricentro del profilo e registrare il tema come da verificare, senza inventare una nuova area.
-
-5. Quale output è coerente con il profilo PC?
-
-**Risposta corretta:** Una scheda scenario, un piano sintetico o un briefing di coordinamento.
-
-6. Come si adatta il piano 30/60/90 a una prova orale?
-
-**Risposta corretta:** Si mantengono orientamento e teoria, aumentando risposte brevi, collegamenti e simulazioni orali.

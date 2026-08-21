@@ -1,14 +1,14 @@
 ---
 id: chapter-m-tr04-09-controlli-sanzioni-reati-ambientali
 type: book_chapter
-title: "Controlli, sanzioni e reati ambientali"
+title: "Capitolo 09 — Controlli, sanzioni e reati ambientali"
 status: draft
 book_id: m-tr04-ambiente-protezione-civile
 volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["controlli ambientali", "sanzioni amministrative", "contravvenzioni ambientali", "delitti contro l'ambiente", "prescrizioni", "responsabilità degli enti"]
 entities: ["MASE", "ISPRA", "SNPA", "ARPA", "Autorità giudiziaria", "Polizia giudiziaria", "Regioni", "Comuni"]
@@ -17,14 +17,14 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/11-piano-capitolo-09-controlli-sanzioni-reati-ambientali.md"]
 confidence: 0.93
 created_at: 2026-08-13
-updated_at: 2026-08-13
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
-# Controlli, sanzioni e reati ambientali
+# Capitolo 09 — Controlli, sanzioni e reati ambientali
 
 ## Apertura editoriale
 
@@ -41,7 +41,7 @@ Al termine saprai distinguere controllo amministrativo e attività di polizia gi
 | Passaggio | Domanda da porsi | Output di prova |
 |---|---|---|
 | Bando | La traccia richiede controlli, ispezioni, verbali, sanzioni, prescrizioni o reati ambientali? | perimetro della risposta |
-| Aree | Quale settore è coinvolto: titoli, acque, rifiuti, emissioni, bonifiche o danno? | norma e autorità da verificare |
+| Aree | Quale settore è coinvolto: titoli, acque, rifiuti, emissioni, bonifiche o danno? | norma e autorità da controllare |
 | Nuclei | Il fatto integra un'anomalia, un illecito amministrativo, una contravvenzione o un possibile delitto? | qualificazione provvisoria |
 | Diario | Quale passaggio probatorio o giuridico è stato saltato? | registro degli errori |
 | Output | Che cosa deve produrre il candidato? | verbale, matrice delle evidenze e flusso degli atti |
@@ -54,7 +54,7 @@ Il controllo ambientale collega una regola astratta a un fatto ricostruito con m
 
 Il **controllo ambientale** è l'insieme organizzato delle attività con cui un soggetto pubblico verifica rispetto di norme, titoli, prescrizioni e condizioni rilevanti per la tutela dell'ambiente. Può comprendere analisi documentale, ispezione, misurazione, campionamento, consultazione di banche dati, confronto con autorizzazioni e richiesta di chiarimenti. Non coincide con il solo sopralluogo: una parte decisiva del controllo avviene prima, nella preparazione, e dopo, nella validazione e nella qualificazione dei risultati.
 
-I controlli possono essere programmati sulla base di rischio, periodicità e obblighi settoriali; possono nascere da una segnalazione; possono seguire un incidente, un'anomalia o un precedente accertamento. L'origine incide su priorità e ampiezza, non sulla necessità di motivare il perimetro. Un esposto non prova la violazione, ma può fornire luogo, periodo, sorgente e condotta da verificare. Una visita programmata non autorizza invece a ignorare un fatto nuovo osservato legittimamente durante l'accesso.
+I controlli possono essere programmati sulla base di rischio, periodicità e obblighi settoriali; possono nascere da una segnalazione; possono seguire un incidente, un'anomalia o un precedente accertamento. L'origine incide su priorità e ampiezza, non sulla necessità di motivare il perimetro. Un esposto non prova la violazione, ma può fornire luogo, periodo, sorgente e condotta da accertare. Una visita programmata non autorizza invece a ignorare un fatto nuovo osservato legittimamente durante l'accesso.
 
 La legge 28 giugno 2016, n. 132 ha istituito il Sistema nazionale a rete per la protezione dell'ambiente, composto da ISPRA e dalle agenzie regionali e provinciali. Il Sistema svolge attività tecnico-scientifiche, conoscitive e di controllo secondo legge statale, disciplina regionale e attribuzioni dei singoli enti. L'obiettivo è rendere più omogenea l'azione pubblica, ma l'appartenenza alla rete non cancella le differenze di competenza. ARPA non diventa, per questo solo fatto, l'autorità titolare di ogni autorizzazione o sanzione.
 
@@ -74,7 +74,7 @@ Monitoraggio, controllo, ispezione e indagine penale sono attività collegate ma
 
 ## N-TR04-09-02 · Ispezione, prova e verbale
 
-L'ispezione efficace comincia dal fascicolo. Prima dell'accesso si ricostruiscono attività autorizzate, planimetrie, limiti e prescrizioni, comunicazioni del gestore, autocontrolli, precedenti verbali, dati di monitoraggio e segnalazioni. Si definiscono obiettivo, gruppo, strumenti, dispositivi, punti da verificare e possibili esigenze di campionamento. Questa preparazione non deve irrigidire l'accertamento: una discrepanza osservata sul posto può richiedere di estendere le verifiche nei limiti del potere esercitato.
+L'ispezione efficace comincia dal fascicolo. Prima dell'accesso si ricostruiscono attività autorizzate, planimetrie, limiti e prescrizioni, comunicazioni del gestore, autocontrolli, precedenti verbali, dati di monitoraggio e segnalazioni. Si definiscono obiettivo, gruppo, strumenti, dispositivi, punti da controllare e possibili esigenze di campionamento. Questa preparazione non deve irrigidire l'accertamento: una discrepanza osservata sul posto può richiedere di estendere le verifiche nei limiti del potere esercitato.
 
 All'ingresso vanno registrati data, ora, luogo, presenti, qualifiche e titolo dell'accesso. Si individua chi rappresenta il gestore e chi assiste alle operazioni. L'ispettore descrive ciò che vede prima di interpretarlo: “contenitore etichettato X collocato nell'area Y” è un fatto; “deposito illecito” è una qualificazione che richiede norma, caratteristiche del materiale e condizioni del titolo. Separare osservazione e giudizio rende il verbale controllabile.
 
@@ -148,7 +148,7 @@ Se lo stesso fatto sembra ricadere in più disposizioni, si verificano specialit
 
 ### Mini-esercizio
 
-Per ciascun fatto indica oggetto, prova necessaria e norma da verificare: scarico osservato ma non campionato; rifiuti collocati fuori dalla planimetria; registro privo di alcune movimentazioni; superamento analitico contestato; filtro fermo durante una fase produttiva; accesso impedito a un locale. Non attribuire ancora la sanzione: costruisci prima la matrice di qualificazione.
+Per ciascun fatto indica oggetto, prova necessaria e norma da controllare: scarico osservato ma non campionato; rifiuti collocati fuori dalla planimetria; registro privo di alcune movimentazioni; superamento analitico contestato; filtro fermo durante una fase produttiva; accesso impedito a un locale. Non attribuire ancora la sanzione: costruisci prima la matrice di qualificazione.
 
 ## N-TR04-09-05 · Prescrizione ed estinzione delle contravvenzioni
 
@@ -222,7 +222,7 @@ Eco-Ripresa S.r.l. gestisce un impianto di recupero di rifiuti non pericolosi. I
 
 ### 1. Definire potere e gruppo
 
-L'ordine di servizio indica obiettivo, componenti e base del controllo. Si chiarisce chi svolge la verifica tecnica, chi rappresenta l'autorità competente e chi esercita funzioni di polizia giudiziaria. Il gruppo consulta titolo, planimetrie, autocontrolli, registri, precedenti e dati meteorologici. L'esposto viene trattato come informazione da verificare.
+L'ordine di servizio indica obiettivo, componenti e base del controllo. Si chiarisce chi svolge la verifica tecnica, chi rappresenta l'autorità competente e chi esercita funzioni di polizia giudiziaria. Il gruppo consulta titolo, planimetrie, autocontrolli, registri, precedenti e dati meteorologici. L'esposto viene trattato come informazione da accertare.
 
 ### 2. Fotografare la situazione iniziale
 
@@ -262,10 +262,10 @@ Il verbale contiene cronologia, fatti, documenti, misure, campioni, dichiarazion
 
 ### Matrice conclusiva del caso
 
-| Fatto | Evidenza | Norma/atto da verificare | Qualificazione provvisoria | Esito possibile |
+| Fatto | Evidenza | Norma/atto da controllare | Qualificazione provvisoria | Esito possibile |
 |---|---|---|---|---|
 | abbattimento fermo | stato impianto, log, fase produttiva | prescrizione emissioni | non conformità o illecito da qualificare | misura, contestazione o notizia di reato |
-| materiali fuori area | foto, caratteristiche, provenienza | titolo e disciplina rifiuti | inosservanza o gestione illecita da verificare | conformazione e percorso sanzionatorio |
+| materiali fuori area | foto, caratteristiche, provenienza | titolo e disciplina rifiuti | inosservanza o gestione illecita da qualificare | conformazione e percorso sanzionatorio |
 | registri incoerenti | registro, giacenze, documenti | obblighi di tracciabilità | violazione documentale da qualificare | contestazione o trasmissione competente |
 | fumi notturni | esposto, log, misure valide | limiti, titolo e fattispecie penale | ipotesi non ancora provata | approfondimento tecnico |
 | possibile ostacolo | richieste, condotte, tempi | poteri di accesso e art. 452-septies | fatto da descrivere puntualmente | comunicazione all'autorità giudiziaria |

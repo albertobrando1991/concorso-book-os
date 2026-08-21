@@ -1,14 +1,14 @@
 ---
 id: chapter-m-tr04-11-rischi-allertamento-it-alert-emergenze
 type: book_chapter
-title: "Rischi, allertamento, IT-alert ed emergenze"
+title: "Capitolo 11 — Rischi, allertamento, IT-alert ed emergenze"
 status: draft
 book_id: m-tr04-ambiente-protezione-civile
 volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte II — Protezione civile e gestione del rischio"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["rischio di protezione civile", "scenario operativo", "sistema di allertamento nazionale", "Centri funzionali", "livelli di allerta", "IT-alert", "gestione dell'emergenza", "briefing operativo"]
 entities: ["Dipartimento della Protezione Civile", "Regioni", "Province autonome", "Centri funzionali", "Comuni", "Consiglio dei ministri"]
@@ -17,14 +17,14 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026.md", "wiki/sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/13-piano-capitolo-11-rischi-allertamento-it-alert-emergenze.md"]
 confidence: 0.95
 created_at: 2026-08-17
-updated_at: 2026-08-17
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
-dati_operativi: ["DO-TR04-11-IT-ALERT-2026-08-17"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
+dati_operativi: ["DO-TR04-11-IT-alert-2026-08-18"]
 ---
 
-# Rischi, allertamento, IT-alert ed emergenze
+# Capitolo 11 — Rischi, allertamento, IT-alert ed emergenze
 
 ## Apertura editoriale
 
@@ -175,14 +175,13 @@ La tecnologia usata è il **cell broadcast**. Il messaggio viene trasmesso dalle
 
 Il cell broadcast può funzionare anche quando la rete è congestionata, ma non garantisce una copertura perfetta. Un telefono spento, privo di campo o non correttamente configurato può non ricevere o non segnalare il messaggio. Le celle radio non coincidono esattamente con il perimetro del rischio: persone fuori area possono ricevere e persone nell'area stimata possono non essere raggiunte. Modello del dispositivo, versione del sistema operativo e condizioni della rete possono incidere. Il messaggio va quindi affiancato a sirene, portali, radio, comunicazioni locali, operatori sul territorio e reti di assistenza.
 
-### Dato operativo · IT-alert al 17 agosto 2026
+### Dato operativo · IT-alert al 18 agosto 2026
 
-- **ID:** DO-TR04-11-IT-ALERT-2026-08-17.
-- **Fonte ufficiale:** portale IT-alert e direttiva del Ministro per la Protezione civile e le Politiche del mare 12 febbraio 2026, pubblicata nella G.U. n. 100 del 2 maggio 2026.
-- **Ambito e versione:** stato nazionale verificato il 17 agosto 2026; da ricontrollare al text freeze.
-- **Casi operativi indicati dal portale:** incidente nucleare o emergenza radiologica; incidente rilevante in stabilimento industriale; collasso di una grande diga; attività vulcanica nelle aree dei Campi Flegrei, del Vesuvio e dell'isola di Vulcano.
-- **Casi non ancora operativi tramite lo stesso assetto:** sperimentazione per maremoto generato da sisma e attività vulcanica dello Stromboli prorogata fino al 31 dicembre 2026; per precipitazioni intense è prevista un'applicazione dedicata in luogo del cell broadcast, con obiettivo di operatività entro dodici mesi dalla direttiva.
-- **Area dell'audit automatico:** normativa IT-alert, stato dei casi d'uso, tecnologia e comunicazione alla popolazione.
+- **ID:** DO-TR04-11-IT-alert-2026-08-18.
+- **Fonte ufficiale:** portale IT-alert, pagine Normativa, Cos'è e Sperimentazione; direttiva del Ministro per la Protezione civile e le Politiche del mare 12 febbraio 2026, pubblicata nella G.U. n. 100 del 2 maggio 2026.
+- **Ambito e versione:** stato nazionale verificato il 18 agosto 2026 sul perimetro degli scenari operativi e sperimentali.
+- **Casi operativi indicati dal portale dal 13 febbraio 2024:** incidente nucleare o emergenza radiologica; incidente rilevante in stabilimento soggetto al D.Lgs. n. 105/2015; collasso di una grande diga; rischio vulcanico nelle aree dei Campi Flegrei, del Vesuvio e dell'isola di Vulcano.
+- **Casi non operativi tramite cell broadcast IT-alert alla stessa data:** sperimentazione per maremoto generato da sisma e rischio vulcanico Stromboli prorogata fino al 31 dicembre 2026; per precipitazioni intense la direttiva prevede un'applicazione dedicata, in luogo del cell broadcast IT-alert, da rendere operativa entro dodici mesi.
 
 Un messaggio deve essere letto senza aggiungere deduzioni non contenute. Il testo identifica scenario e area e fornisce prime indicazioni; gli aggiornamenti vanno cercati sui canali ufficiali. Il destinatario non deve chiamare numeri di emergenza soltanto per chiedere se il messaggio è autentico, salvo necessità reale. L'amministrazione, dal canto suo, non può presumere che tutti siano stati raggiunti né usare la ricezione come prova di avvenuta informazione individuale.
 

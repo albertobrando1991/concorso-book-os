@@ -9,14 +9,14 @@ entities: ["ARERA", "Acquirente Unico"]
 source_refs: ["sources/authority-indipendenti-leggi-istitutive.md", "sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24.md", "sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24.md"]
 book_refs: ["vol-05-authority-regolazione", "m-fc05-authority-indipendenti"]
 confidence: 0.91
-updated_at: 2026-07-29
+updated_at: 2026-08-18
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
-tags: ["m-fc05", "arera", "tariffe", "servizi-pubblici"]
+tags: ["m-fc05", "arera", "tariffe", "servizi-pubblici", "step-15"]
 source_type: primary_official_regulatory_sources
 source_url: "https://www.arera.it/area-operatori/rifiuti"
-source_date: 2026-07-29
+source_date: 2026-08-18
 authority_level: primary_official
 ---
 

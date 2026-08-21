@@ -1,9 +1,9 @@
 ---
 id: chapter-m-tr04-06-rifiuti-economia-circolare-rentri
-title: "Rifiuti, economia circolare e RENTRI"
+title: "Capitolo 06 — Rifiuti, economia circolare e RENTRI"
 type: book_chapter
 status: draft
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 module_id: M-TR04
 chapter_number: 6
@@ -19,14 +19,14 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/rifiuti-rentri-fir-mud-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/08-piano-capitolo-06-rifiuti-economia-circolare-rentri.md"]
 confidence: 0.91
 created_at: 2026-08-11
-updated_at: 2026-08-12
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
-dati_operativi: ["rentri-fir-transizione-2026-08-11"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
+dati_operativi: ["rentri-fir-transizione-2026-08-18"]
 ---
 
-# Rifiuti, economia circolare e RENTRI
+# Capitolo 06 — Rifiuti, economia circolare e RENTRI
 
 Un materiale che esce da un'attività non diventa automaticamente un rifiuto, così come un rifiuto non cessa di esserlo soltanto perché possiede un valore economico. La disciplina della parte quarta del decreto legislativo 3 aprile 2006, n. 152 richiede di ricostruire fatti, decisioni e documenti: da quale processo proviene il materiale, quale sorte gli attribuisce il detentore, quali caratteristiche presenta, chi lo prende in carico e con quale titolo. È questa sequenza, più di qualsiasi etichetta commerciale, a determinare il regime giuridico applicabile.
 
@@ -48,7 +48,7 @@ La nozione di rifiuto ruota intorno al comportamento del detentore. È rifiuto q
 
 La valutazione è concreta. Occorre esaminare l'origine del materiale, il processo che lo genera, le modalità di conservazione, l'esistenza di una destinazione effettiva, gli eventuali trattamenti necessari e il quadro tecnico ed economico. Un contratto di vendita è un indizio, non una prova decisiva. Anche la possibilità teorica di riutilizzo non è sufficiente se, nei fatti, il materiale è abbandonato, accumulato senza una destinazione certa o sottoposto a operazioni tipiche del trattamento dei rifiuti.
 
-Il **sottoprodotto** non è un rifiuto che ha cambiato nome. È una sostanza o un oggetto che, sin dall'origine, soddisfa tutte le condizioni dell'articolo 184-bis del d.lgs. n. 152/2006. Deve derivare da un processo di produzione il cui scopo primario non sia produrre quella sostanza o quell'oggetto. Il suo impiego successivo, nello stesso processo o in un processo diverso, deve essere certo. Inoltre, deve poter essere utilizzato direttamente, senza trattamenti ulteriori diversi dalla normale pratica industriale. L'impiego, infine, deve essere legale e non deve produrre impatti complessivi negativi sull'ambiente o sulla salute umana.
+Il **sottoprodotto** non è un rifiuto che ha cambiato nome. È una sostanza o un oggetto che, sin dall'origine, soddisfa tutte le condizioni dell'articolo 184-bis del D.Lgs. n. 152/2006. Deve derivare da un processo di produzione il cui scopo primario non sia produrre quella sostanza o quell'oggetto. Il suo impiego successivo, nello stesso processo o in un processo diverso, deve essere certo. Inoltre, deve poter essere utilizzato direttamente, senza trattamenti ulteriori diversi dalla normale pratica industriale. L'impiego, infine, deve essere legale e non deve produrre impatti complessivi negativi sull'ambiente o sulla salute umana.
 
 Le condizioni sono cumulative. Se manca la certezza dell'utilizzo, non serve discutere delle altre. Se occorre un trattamento che eccede la normale pratica industriale, la qualifica di sottoprodotto non può essere fondata sulla sola utilità finale. Se il successivo impiego viola requisiti di prodotto, prescrizioni ambientali o regole di settore, il materiale non diventa lecito per effetto di un accordo tra privati. L'onere di sostenere la qualifica richiede elementi coerenti e documentabili: caratteristiche del residuo, continuità del processo, destinazione, tempi, modalità di impiego e conformità tecnica.
 
@@ -64,7 +64,7 @@ Davanti a un materiale residuale, si pongono in ordine quattro domande: il deten
 
 ## N-TR04-06-02 · Gerarchia dei rifiuti ed economia circolare
 
-La gerarchia dell'articolo 179 del d.lgs. n. 152/2006 ordina le opzioni di gestione secondo una priorità: prevenzione; preparazione per il riutilizzo; riciclaggio; recupero di altro tipo, compreso quello energetico; smaltimento. Non è un elenco neutro. Esprime la preferenza dell'ordinamento per le soluzioni che evitano la produzione del rifiuto o mantengono più a lungo il valore di prodotti e materiali.
+La gerarchia dell'articolo 179 del D.Lgs. n. 152/2006 ordina le opzioni di gestione secondo una priorità: prevenzione; preparazione per il riutilizzo; riciclaggio; recupero di altro tipo, compreso quello energetico; smaltimento. Non è un elenco neutro. Esprime la preferenza dell'ordinamento per le soluzioni che evitano la produzione del rifiuto o mantengono più a lungo il valore di prodotti e materiali.
 
 La **prevenzione** opera prima che una sostanza, un materiale o un prodotto diventi rifiuto. Comprende misure che riducono quantità, impatti negativi e contenuto di sostanze pericolose. Un ente che acquista beni durevoli e riparabili, riduce gli imballaggi, condivide attrezzature poco utilizzate o programma la manutenzione per allungarne la vita agisce sul primo livello della gerarchia. La prevenzione non coincide con una migliore raccolta differenziata: quando il bene è già diventato rifiuto, la prevenzione è stata superata.
 
@@ -102,7 +102,7 @@ Un errore di codice può propagarsi a deposito, compatibilità dei contenitori, 
 
 ## N-TR04-06-04 · Responsabilità, deposito temporaneo e filiera autorizzata
 
-Il principio di responsabilità accompagna il rifiuto lungo la filiera. Il produttore iniziale o altro detentore provvede direttamente al trattamento, se autorizzato, oppure consegna il rifiuto a soggetti abilitati. L'articolo 188 del d.lgs. n. 152/2006 impedisce di considerare la semplice consegna come una liberazione automatica: la correttezza della gestione richiede verifiche sui soggetti coinvolti, sui titoli autorizzativi, sulla destinazione e sulla documentazione di ritorno.
+Il principio di responsabilità accompagna il rifiuto lungo la filiera. Il produttore iniziale o altro detentore provvede direttamente al trattamento, se autorizzato, oppure consegna il rifiuto a soggetti abilitati. L'articolo 188 del D.Lgs. n. 152/2006 impedisce di considerare la semplice consegna come una liberazione automatica: la correttezza della gestione richiede verifiche sui soggetti coinvolti, sui titoli autorizzativi, sulla destinazione e sulla documentazione di ritorno.
 
 Il primo tratto della filiera è spesso il **deposito temporaneo prima della raccolta**, disciplinato dall'articolo 185-bis. Esso consiste nel raggruppamento dei rifiuti nel luogo in cui sono prodotti, alle condizioni di legge, prima che siano raccolti. Non è un impianto di trattamento e non legittima miscelazioni o lavorazioni non consentite. I rifiuti devono essere raggruppati per categorie omogenee, nel rispetto delle norme tecniche e, per quelli pericolosi, delle regole su imballaggio, etichettatura e sostanze pericolose.
 
@@ -122,7 +122,7 @@ La responsabilità si governa con una catena di evidenze: scheda del rifiuto; re
 
 ## N-TR04-06-05 · RENTRI, registro cronologico, FIR e MUD
 
-La tracciabilità non coincide con un singolo documento. Il **Registro elettronico nazionale per la tracciabilità dei rifiuti (RENTRI)** è il sistema istituito nell'ambito dell'articolo 188-bis del d.lgs. n. 152/2006 e disciplinato, sul piano operativo, dal decreto ministeriale 4 aprile 2023, n. 59 e dai successivi provvedimenti. Il **registro cronologico di carico e scarico** documenta nel tempo la produzione e la gestione presso l'unità interessata. Il **formulario di identificazione del rifiuto (FIR)** accompagna la singola movimentazione. Il **MUD** è una comunicazione annuale relativa ai dati dell'anno precedente per i soggetti obbligati. Sistema, registro, documento di trasporto e dichiarazione annuale hanno quindi funzioni diverse.
+La tracciabilità non coincide con un singolo documento. Il **Registro elettronico nazionale per la tracciabilità dei rifiuti (RENTRI)** è il sistema istituito nell'ambito dell'articolo 188-bis del D.Lgs. n. 152/2006 e disciplinato, sul piano operativo, dal decreto ministeriale 4 aprile 2023, n. 59 e dai successivi provvedimenti. Il **registro cronologico di carico e scarico** documenta nel tempo la produzione e la gestione presso l'unità interessata. Il **formulario di identificazione del rifiuto (FIR)** accompagna la singola movimentazione. Il **MUD** è una comunicazione annuale relativa ai dati dell'anno precedente per i soggetti obbligati. Sistema, registro, documento di trasporto e dichiarazione annuale hanno quindi funzioni diverse.
 
 Il perimetro dei soggetti obbligati al RENTRI deve essere verificato sul testo vigente dell'articolo 188-bis e sulle indicazioni ufficiali. Dopo le modifiche normative intervenute, non è prudente decidere l'iscrizione considerando soltanto il numero dei dipendenti. Contano categoria del soggetto, attività svolta, tipologia dei rifiuti e specifiche esclusioni o semplificazioni. Ogni organizzazione dovrebbe conservare una scheda di assoggettamento datata, con la norma applicata, i flussi prodotti e la conclusione motivata.
 
@@ -134,12 +134,12 @@ Dal 13 febbraio 2025 è operativo il nuovo modello di FIR. Anche i soggetti non 
 
 ### Dato operativo — transizione del FIR nel 2026
 
-Alla data dell'11 agosto 2026, la disciplina transitoria introdotta dalla legge 27 febbraio 2026, n. 26 consente ai soggetti iscritti al RENTRI, per i trasporti effettuati dal 1° marzo al 15 settembre 2026, di scegliere per ciascun trasporto il FIR cartaceo oppure quello digitale; il formato prescelto vincola l'intera filiera di quella movimentazione. Secondo le indicazioni ufficiali vigenti, dal 16 settembre 2026 il FIR digitale diventa obbligatorio per tutti i soggetti iscritti al RENTRI, mentre i non iscritti continuano a utilizzare il FIR cartaceo nei casi in cui è richiesto.
+Alla verifica del 18 agosto 2026, il portale RENTRI conferma che le funzionalità per il FIR digitale sono attive dal 13 febbraio 2026 e che le modalità operative di sicurezza sono cessate alle ore 00:00 del 14 aprile 2026. La legge 27 febbraio 2026, n. 26 consente, per i trasporti effettuati dal 1° marzo al 15 settembre 2026, FIR digitale o cartaceo a scelta del produttore o detentore; il formato scelto vincola l'intera filiera di quella movimentazione. Dal 16 settembre 2026 il FIR digitale diventa obbligatorio per tutti i soggetti iscritti al RENTRI; i non iscritti continuano a usare il FIR cartaceo nei casi in cui è richiesto.
 
-- **Fonte ufficiale:** portale RENTRI, sezione dedicata alla fase transitoria del FIR, e legge n. 26/2026.
+- **Fonte ufficiale:** portale RENTRI, notizie su FIR digitale, chiusura delle modalità operative di sicurezza e aggiornamenti area operatori/API/App; legge n. 26/2026.
 - **Ambito:** scelta del formato del FIR e decorrenza dell'obbligo digitale; non modifica da sola classificazione, autorizzazioni o responsabilità della filiera.
-- **Versione e data di verifica:** quadro controllato l'11 agosto 2026.
-- **Audit:** prima dell'applicazione pratica va verificata la pagina ufficiale RENTRI, perché decreti direttoriali e aggiornamenti tecnici possono modificare modalità e specifiche operative.
+- **Versione e data di verifica:** quadro controllato il 18 agosto 2026.
+- **Cautela operativa:** le specifiche tecniche e i decreti direttoriali regolano l'esecuzione del sistema; nel capitolo non sono fissate soglie o procedure informatiche oltre il dato ufficiale consolidato.
 
 Durante la transizione, l'organizzazione deve evitare una gestione ibrida della stessa movimentazione. Se per un trasporto si sceglie il formato digitale, produttore, trasportatore e destinatario devono operare in modo coerente con quel formato. La scelta va compiuta prima della partenza, verificando che tutti gli attori siano pronti. Procedure interne, deleghe e continuità operativa devono prevedere anche indisponibilità dei sistemi e casi disciplinati dalle istruzioni ufficiali.
 

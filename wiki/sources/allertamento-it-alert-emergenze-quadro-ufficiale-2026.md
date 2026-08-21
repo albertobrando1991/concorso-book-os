@@ -2,20 +2,20 @@
 id: source-allertamento-it-alert-emergenze-quadro-ufficiale-2026
 type: source
 title: "Allertamento, IT-alert ed emergenze — quadro ufficiale 2026"
-status: processed
+status: consolidated
 domain: "protezione civile"
 topics: ["rischio di protezione civile", "sistema di allertamento nazionale", "Centri funzionali", "livelli di allerta", "IT-alert", "gestione dell'emergenza"]
 entities: ["Dipartimento della Protezione Civile", "Regioni", "Province autonome", "Centri funzionali", "Comuni", "Consiglio dei ministri"]
 source_refs: ["sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026", "sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
-confidence: 0.95
-updated_at: 2026-08-17
+confidence: 0.97
+updated_at: 2026-08-18
 created_at: 2026-08-17
-review_required: true
+review_required: false
 canonical: true
-tags: ["source", "protezione-civile", "allertamento", "it-alert", "emergenze", "fonti-ufficiali", "2026"]
+tags: ["source", "protezione-civile", "allertamento", "it-alert", "emergenze", "fonti-ufficiali", "2026", "step-15"]
 source_type: official_legal_and_institutional_bundle
-source_date: 2026-08-17
+source_date: 2026-08-18
 authority_level: alta
 ---
 
@@ -68,7 +68,7 @@ I messaggi viaggiano tramite cell broadcast. I dispositivi accesi e connessi all
 
 IT-alert integra, non sostituisce, piani, sistemi di allertamento, sirene, canali istituzionali, informazione locale e comportamenti appresi in precedenza. Non è un SMS e non è sinonimo di allerta regionale. Il messaggio deve essere letto, verificato attraverso i canali ufficiali e seguito secondo le indicazioni riportate.
 
-Alla verifica del 17 agosto 2026, il portale ufficiale indica l'operatività per quattro categorie: incidenti nucleari o emergenza radiologica; incidenti rilevanti in stabilimenti industriali; collasso di una grande diga; attività vulcanica nelle aree dei Campi Flegrei, del Vesuvio e dell'isola di Vulcano. La direttiva ministeriale 12 febbraio 2026 proroga fino al 31 dicembre 2026 la sperimentazione per maremoto generato da sisma e attività vulcanica dello Stromboli. Per le precipitazioni intense dispone l'orientamento verso un'applicazione dedicata, in luogo del cell broadcast, con obiettivo di operatività entro dodici mesi. Questi dati sono mobili e richiedono ricontrollo al text freeze.
+Alla verifica del 18 agosto 2026, il portale ufficiale indica l'operatività dal 13 febbraio 2024 per quattro categorie: incidente nucleare o emergenza radiologica; incidente rilevante in stabilimento soggetto al D.Lgs. n. 105/2015; collasso di una grande diga; rischio vulcanico nelle aree dei Campi Flegrei, del Vesuvio e dell'isola di Vulcano. La direttiva ministeriale 12 febbraio 2026 proroga fino al 31 dicembre 2026 la sperimentazione per maremoto generato da sisma e rischio vulcanico Stromboli. Per le precipitazioni intense prevede un'applicazione dedicata, in luogo del cell broadcast IT-alert, da rendere operativa entro dodici mesi.
 
 ## Gestione dell'emergenza e provvedimenti nazionali
 
@@ -93,13 +93,10 @@ Il briefing non deve nascondere l'incertezza né trasformare ipotesi in fatti. O
 - D.P.C.M. 19 giugno 2020, n. 110, modalità e criteri di attivazione e gestione di IT-alert.
 - Decreto del Capo del Dipartimento n. 148 del 19 gennaio 2024, indicazioni operative IT-alert.
 - Direttiva del Ministro per la Protezione civile e le Politiche del mare 12 febbraio 2026, pubblicata nella G.U. n. 100 del 2 maggio 2026.
-- Portali istituzionali `protezionecivile.gov.it`, `mappe.protezionecivile.gov.it` e `it-alert.gov.it`, verificati il 17 agosto 2026.
+- Portali istituzionali `protezionecivile.gov.it`, `mappe.protezionecivile.gov.it` e `it-alert.gov.it`, verificati il 18 agosto 2026.
 
-## Controlli al text freeze
+## Esito audit step 15
 
-- Testo vigente del D.Lgs. n. 1/2018, del Codice delle comunicazioni elettroniche e delle direttive richiamate.
-- Stato operativo o sperimentale di ciascun caso d'uso IT-alert dopo il 17 agosto 2026.
-- Sviluppo dell'applicazione dedicata alle precipitazioni intense prevista dalla direttiva 12 febbraio 2026.
-- Procedure regionali, zone di allerta, prodotti, fasi operative, canali e nomenclature applicabili al territorio.
-- Eventuali aggiornamenti delle indicazioni sui messaggi, sul CAP IT, sull'accessibilità e sulla comunicazione multicanale.
-- Dati locali, recapiti, aree, risorse, soglie, catene di reperibilità e tempi di aggiornamento.
+- D.Lgs. n. 1/2018 controllato su fonte Normattiva con ultimo aggiornamento dell'atto pubblicato il 19 luglio 2025.
+- Normativa IT-alert 2026 consolidata: scenari operativi, proroga della sperimentazione per maremoto e Stromboli fino al 31 dicembre 2026, applicazione dedicata per precipitazioni intense.
+- Procedure regionali, zone di allerta, canali, recapiti e risorse restano dati del piano o del caso concreto, non lacune della source note.

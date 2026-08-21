@@ -10,13 +10,13 @@ source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "s
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
 confidence: 0.91
 created_at: 2026-08-10
-updated_at: 2026-08-10
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: true
-tags: ["source", "vol-11", "m-tr04", "acque", "scarichi", "sii", "2026"]
+tags: ["source", "vol-11", "m-tr04", "acque", "scarichi", "sii", "2026", "step-15"]
 source_type: primary_official_consolidation
 source_url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152"
-source_date: 2026-08-10
+source_date: 2026-08-18
 authority_level: primary_official
 ---
 

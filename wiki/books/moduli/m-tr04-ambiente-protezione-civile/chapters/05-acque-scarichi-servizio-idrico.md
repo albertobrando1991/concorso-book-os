@@ -8,7 +8,7 @@ volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["tutela delle acque", "scarichi", "acque reflue", "autorizzazione agli scarichi", "campionamento", "servizio idrico integrato"]
 entities: ["MASE", "ARERA", "SNPA", "ARPA", "autorità competente", "ente di governo dell'ambito", "gestore del servizio idrico integrato"]
@@ -17,10 +17,10 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/acque-scarichi-servizio-idrico-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md", "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/07-piano-capitolo-05-acque-scarichi-servizio-idrico.md"]
 confidence: 0.91
 created_at: 2026-08-10
-updated_at: 2026-08-10
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
@@ -63,7 +63,7 @@ La classificazione non va fatta soltanto in base al luogo. Un refluo prodotto de
 | Reflue urbane | miscuglio raccolto nella rete dell'agglomerato | schema fognario e apporti | confonderle con ogni acqua che attraversa una città |
 | Meteoriche di dilavamento | precipitazione che dilava superfici | uso delle aree, separazione, disciplina regionale | considerarle sempre pulite o sempre industriali |
 
-Le acque meteoriche richiedono particolare prudenza. La disciplina nazionale rinvia in parte alle Regioni per forme di controllo e autorizzazione delle acque meteoriche di dilavamento e di prima pioggia. Non è quindi corretto applicare una formula uniforme. Un piazzale privo di attività inquinanti, un'area di carico di sostanze e una copertura possono produrre situazioni differenti. La risposta deve indicare superficie, uso, separazione delle reti, sostanze presenti, modalità di raccolta e normativa territoriale da verificare.
+Le acque meteoriche richiedono particolare prudenza. La disciplina nazionale rinvia in parte alle Regioni per forme di controllo e autorizzazione delle acque meteoriche di dilavamento e di prima pioggia. Non è quindi corretto applicare una formula uniforme. Un piazzale privo di attività inquinanti, un'area di carico di sostanze e una copertura possono produrre situazioni differenti. La risposta deve indicare superficie, uso, separazione delle reti, sostanze presenti, modalità di raccolta e normativa territoriale applicabile.
 
 Anche il ricettore conta. L'immissione può raggiungere acque superficiali, suolo, sottosuolo o rete fognaria nei casi e alle condizioni consentiti. Non tutte le destinazioni sono ammesse nello stesso modo e non si usa un'unica tabella per ogni situazione. La domanda corretta è: «Quale disciplina e quali condizioni si applicano a questo refluo verso questo ricettore?». Solo dopo si cercano limite e prescrizione pertinenti.
 

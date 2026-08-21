@@ -8,7 +8,7 @@ volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["AIA", "AUA", "emissioni in atmosfera", "BAT", "BAT-AEL", "autorizzazioni ambientali"]
 entities: ["MASE", "SNPA", "ARPA", "SUAP", "autorità competente", "gestore"]
@@ -17,10 +17,10 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/ambiente-controlli-locali-d-lgs-152-2006.md", "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/06-piano-capitolo-04-aia-aua-emissioni-autorizzazioni.md"]
 confidence: 0.9
 created_at: 2026-08-10
-updated_at: 2026-08-10
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
@@ -137,7 +137,7 @@ Una modifica merita attenzione particolare. L'aggiunta di una linea, la sostituz
 
 La gestione delle anomalie completa la disciplina. Avviamento, arresto, guasto o malfunzionamento possono produrre condizioni diverse dal normale esercizio. Il titolo deve indicare obblighi e azioni applicabili: registrazione dell'evento, comunicazione, misure di contenimento, ripristino e verifica. In un caso concorsuale non si inventano tempi o percentuali; si mostra che l'anomalia deve essere prevista, documentata e gestita.
 
-**Mini-esercizio:** per un forno industriale, compila sei righe: fase produttiva, sostanza potenzialmente emessa, sistema di captazione, punto di emissione, prescrizione da verificare, evidenza di monitoraggio. Poi indica quale dato manca per scegliere il metodo. L'esercizio allena il collegamento tra tecnica e atto amministrativo.
+**Mini-esercizio:** per un forno industriale, compila sei righe: fase produttiva, sostanza potenzialmente emessa, sistema di captazione, punto di emissione, prescrizione da controllare, evidenza di monitoraggio. Poi indica quale dato manca per scegliere il metodo. L'esercizio allena il collegamento tra tecnica e atto amministrativo.
 
 **Errore tipico:** confrontare due numeri senza verificare unità, condizioni di riferimento, metodo, incertezza e criterio di conformità. Una risposta professionale spiega prima se i dati sono comparabili.
 ## N-TR04-04-05 · Istruttoria, prescrizioni, modifiche e controlli
@@ -205,7 +205,7 @@ La soluzione del caso non dipende dalla quantità di sigle. Dipende dalla capaci
 
 ### Mini-esercizio
 
-Scrivi otto righe di nota istruttoria: fatto; dati mancanti; regime da verificare; autorità e soggetti; confronto emissivo; BAT; prescrizioni; controllo. Se una riga contiene solo una sigla, completala con la sua funzione nel caso.
+Scrivi otto righe di nota istruttoria: fatto; dati mancanti; regime da inquadrare; autorità e soggetti; confronto emissivo; BAT; prescrizioni; controllo. Se una riga contiene solo una sigla, completala con la sua funzione nel caso.
 
 ## ▣ Verifica
 

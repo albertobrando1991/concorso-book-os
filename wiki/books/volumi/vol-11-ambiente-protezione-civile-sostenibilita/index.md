@@ -30,9 +30,9 @@ Volume-workbook verticale per i profili ambiente, protezione civile, energia/cli
 ## Parti interne del modulo M-TR04
 
 1. **Ambiente e controlli** — capitoli 01-09: sistema ambientale, valutazioni, autorizzazioni, acque, rifiuti, bonifiche, monitoraggio e sanzioni.
-2. **Protezione civile e rischio** — capitoli 10-11 e appendice A: sistema nazionale, pianificazione, allertamento, IT-Alert e scenari.
-3. **Energia e clima** — capitolo 12 e appendice B: transizione, rinnovabili, CER, efficienza e indicatori.
-4. **Sostenibilità operativa e laboratorio** — capitoli 13-14 e appendici C-E: DNSH, CAM, ambiente locale, piattaforme e simulazioni.
+2. **Protezione civile e rischio** — capitoli 10-11: sistema nazionale, pianificazione, allertamento, IT-Alert e scenari.
+3. **Energia e clima** — capitolo 12: transizione, rinnovabili, CER, efficienza e indicatori.
+4. **Sostenibilità operativa e laboratorio** — capitoli 13-14: DNSH, CAM, ambiente locale, piattaforme e simulazioni.
 
 ## Regola di non duplicazione
 

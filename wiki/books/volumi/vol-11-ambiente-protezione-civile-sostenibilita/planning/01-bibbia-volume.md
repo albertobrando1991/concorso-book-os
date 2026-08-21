@@ -32,7 +32,7 @@ Il nucleo comune B-PA è in VOL-01. Appalti, PNRR e procurement avanzato rinvian
 3. Energia e clima: capitolo 12.
 4. Sostenibilità operativa e laboratorio: capitoli 13-14.
 
-Ordine di lavorazione: capitolo 01, capitoli 02-09, capitoli 10-11, capitolo 12, capitoli 13-14, appendici A-E.
+Ordine di lavorazione: capitolo 01, capitoli 02-09, capitoli 10-11, capitolo 12, capitoli 13-14. Il perimetro corrente dichiarato dalla scheda pipeline si chiude al capitolo 14.
 
 ## Terminologia
 

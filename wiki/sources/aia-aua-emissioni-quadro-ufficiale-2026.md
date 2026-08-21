@@ -2,7 +2,7 @@
 id: source-aia-aua-emissioni-quadro-ufficiale-2026
 type: source
 title: "AIA, AUA ed emissioni — quadro ufficiale verificato 2026"
-status: processed
+status: consolidated
 domain: "concorsi pubblici italiani"
 topics: ["AIA", "AUA", "emissioni in atmosfera", "BAT", "BAT-AEL", "monitoraggio"]
 entities: ["MASE", "SNPA", "ARPA", "SUAP", "autorità competente"]
@@ -10,13 +10,13 @@ source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "s
 book_refs: ["m-tr04-ambiente-protezione-civile", "vol-11-ambiente-protezione-civile-sostenibilita"]
 confidence: 0.93
 created_at: 2026-08-10
-updated_at: 2026-08-10
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: true
-tags: ["source", "aia", "aua", "emissioni", "bat-ael", "2026"]
+tags: ["source", "aia", "aua", "emissioni", "bat-ael", "2026", "step-15"]
 source_type: official_legal_and_technical_bundle
 source_url: "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2006/04/03/152/CONSOLIDATED"
-source_date: 2026-08-10
+source_date: 2026-08-18
 authority_level: alta
 ---
 

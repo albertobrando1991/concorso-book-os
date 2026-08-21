@@ -2,18 +2,18 @@
 id: source-controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026
 type: source
 title: "Controlli, sanzioni e reati ambientali — quadro ufficiale 2026"
-status: processed
+status: consolidated
 domain: "concorsi pubblici italiani"
 topics: ["controlli ambientali", "sanzioni amministrative", "contravvenzioni ambientali", "delitti contro l'ambiente", "prescrizioni", "responsabilità degli enti"]
 entities: ["MASE", "ISPRA", "SNPA", "ARPA", "Autorità giudiziaria", "Polizia giudiziaria"]
 source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "sources/legge-24-novembre-1981-n-689-sanzioni-amministrative"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
 confidence: 0.93
-updated_at: 2026-08-13
+updated_at: 2026-08-18
 created_at: 2026-08-13
-review_required: true
+review_required: false
 canonical: true
-tags: ["source", "vol-11", "m-tr04", "controlli", "sanzioni", "reati-ambientali", "2026"]
+tags: ["source", "vol-11", "m-tr04", "controlli", "sanzioni", "reati-ambientali", "2026", "step-15"]
 source_type: "official-legislation-and-guidance"
 source_url: "https://www.gazzettaufficiale.it/eli/id/2026/05/18/26G00096/sg"
 source_date: "2026-05-18"
@@ -46,7 +46,7 @@ La contestazione non è ancora l'ordinanza-ingiunzione. Il pagamento ridotto non
 
 Il D.Lgs. n. 152/2006 distribuisce fattispecie sanzionatorie nelle parti dedicate a VIA/AIA, acque, rifiuti, bonifiche ed emissioni. Molte violazioni sono costruite intorno a esercizio senza titolo, inosservanza di prescrizioni, superamento di limiti, gestione illecita, omissione di comunicazioni o impedimento del controllo. Non tutte hanno la stessa natura: possono essere illeciti amministrativi, contravvenzioni o, nei casi previsti, delitti.
 
-Il decreto-legge 8 agosto 2025, n. 116, convertito con modificazioni dalla legge 3 ottobre 2025, n. 147, ha inciso in modo esteso sul contrasto alle attività illecite in materia di rifiuti. Il successivo D.Lgs. n. 81/2026 ha modificato ancora, tra l'altro, l'art. 256, comma 4. Per questo il capitolo deve insegnare la qualificazione e non fissare un prontuario di importi: il text freeze deve confrontare il testo consolidato del D.Lgs. n. 152/2006 con la data del fatto.
+Il decreto-legge 8 agosto 2025, n. 116, convertito con modificazioni dalla legge 3 ottobre 2025, n. 147, ha inciso in modo esteso sul contrasto alle attività illecite in materia di rifiuti. Il successivo D.Lgs. n. 81/2026 ha modificato ancora, tra l'altro, l'art. 256, comma 4. Per questo il capitolo deve insegnare la qualificazione e non fissare un prontuario di importi: in un caso concreto il testo consolidato del D.Lgs. n. 152/2006 si confronta sempre con la data del fatto.
 
 ## Procedura estintiva della parte sesta-bis
 
@@ -85,4 +85,4 @@ La responsabilità dell'ente non discende automaticamente da ogni illecito comme
 
 ## Stato revisione e cautela editoriale
 
-Fonti ufficiali verificate il 13 agosto 2026. Prima del text freeze occorre controllare: testo consolidato degli articoli citati; disposizioni correttive del D.Lgs. n. 81/2026; linee guida del nuovo Sistema di coordinamento nazionale, da emanare entro sei mesi dall'entrata in vigore; strategia nazionale prevista entro il 21 maggio 2027; riparto territoriale delle competenze; protocolli tra procure, organi di polizia giudiziaria e agenzie; giurisprudenza sulle nozioni di abusività, compromissione, deterioramento, disastro, impedimento del controllo e applicazione della parte sesta-bis.
+Fonti ufficiali riallineate per l'audit specialistico del 18 agosto 2026. La source note non sostituisce il controllo del fatto concreto: data della condotta, testo vigente degli articoli citati, riparto territoriale, protocolli operativi e giurisprudenza applicabile restano elementi della qualificazione nel singolo caso.

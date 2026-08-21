@@ -8,7 +8,7 @@ volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["D.Lgs. 152/2006", "MASE", "ISPRA", "SNPA", "ARPA", "competenze ambientali"]
 entities: ["M-TR04", "MASE", "ISPRA", "SNPA", "ARPA"]
@@ -16,11 +16,11 @@ source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "s
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile", "il-metodo-bando"]
 last_compiled_from: ["wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/ambiente-controlli-locali-d-lgs-152-2006.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/04-piano-capitolo-02-dlgs-152-mase-ispra-snpa.md"]
 confidence: 0.68
-updated_at: 2026-08-09
+updated_at: 2026-08-18
 created_at: 2026-08-09
-review_required: true
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
@@ -46,7 +46,9 @@ Saprai descrivere la struttura funzionale del D.Lgs. 152/2006, distinguere MASE,
 | Dato | Quale informazione deve essere raccolta, validata e documentata? |
 | Output | Mappa competenze, nota istruttoria, piano di monitoraggio o risposta sintetica |
 
-## Spiegazione teorica`n`n## N-TR04-02-01 · La struttura funzionale del D.Lgs. 152/2006
+## Spiegazione teorica
+
+## N-TR04-02-01 · La struttura funzionale del D.Lgs. 152/2006
 
 Il D.Lgs. 152/2006 è un testo complesso che raccoglie discipline diverse. Per il candidato è più utile una lettura funzionale che una memorizzazione lineare. Le parti relative a valutazioni ambientali, tutela delle acque, gestione dei rifiuti, bonifiche, emissioni e danno ambientale rispondono a problemi distinti, anche quando riguardano lo stesso impianto o lo stesso territorio.
 
@@ -57,6 +59,12 @@ La seconda domanda è distinguere disciplina sostanziale e procedimento. La disc
 La terza domanda riguarda il tempo. Alcuni passaggi avvengono prima dell’intervento, altri durante l’esercizio e altri dopo un controllo o un incidente. La sequenza non è identica per tutte le materie. Per questo una risposta deve indicare il momento: ex ante, in corso di attività, ex post o in emergenza.
 
 Un modo pratico per studiare il decreto è costruire una scheda per ogni nucleo con cinque campi: problema, definizione, procedimento, soggetto, output. La scheda sui rifiuti non avrà lo stesso contenuto della scheda sulle acque; entrambe però useranno la stessa logica. Il candidato impara così una struttura riutilizzabile e non una lista di articoli isolati.
+
+Un'altra chiave di lettura è il raccordo fra disciplina, procedimento, tempo, competenza, dato e output. La disciplina indica il perimetro sostanziale: quale bene ambientale è coinvolto, quale obbligo o interesse pubblico entra in gioco, quale rischio deve essere prevenuto o corretto. Il procedimento traduce quel perimetro in passaggi controllabili: avvio, istruttoria, acquisizione degli elementi tecnici, valutazione, decisione e controllo successivo. Il tempo colloca questi passaggi nel momento giusto, perché una valutazione preventiva, una prescrizione in esercizio e una reazione a un'anomalia non hanno la stessa funzione.
+
+La competenza completa la lettura. Non basta dire che la materia è ambientale: occorre individuare il livello istituzionale e il soggetto che, nel caso concreto, raccoglie informazioni, svolge supporto tecnico, istruisce, decide o controlla. Quando la risposta non distingue questi ruoli, il decreto diventa un contenitore indistinto e la soluzione appare arbitraria. La prudenza richiesta al candidato consiste nel non inventare attribuzioni: se il dettaglio dipende da disciplina regionale, assetto organizzativo o atto vigente, lo si dichiara come passaggio da controllare nel caso concreto e si spiega il criterio generale.
+
+Il dato ambientale entra nella catena solo quando serve alla decisione. Un numero, un rapporto o una rilevazione non sono automaticamente una conclusione amministrativa: devono essere collegati a fonte, metodo, periodo, qualità e conseguenza. Per questo l'output finale non è una formula astratta, ma un documento leggibile: mappa competenze, nota istruttoria, checklist, schema di controllo o risposta sintetica. Studiare il D.Lgs. 152/2006 in modo funzionale significa quindi trasformare una disciplina ampia in una sequenza argomentativa: qualifico il problema, scelgo la parte pertinente, individuo il procedimento, colloco il tempo, verifico la competenza, uso il dato e chiudo con l'atto o la risposta richiesti. Questo controllo finale rende visibile il passaggio dalla norma alla prestazione richiesta.
 
 **Da sapere in 5 righe**
 
@@ -94,14 +102,15 @@ Una tabella semplice aiuta il ripasso:
 | ARPA/APPA | monitoraggi e controlli territoriali secondo competenze | attribuire poteri senza fonte |
 
 ## N-TR04-02-03 · Stato, Regioni ed enti locali
-In pratica, la qualità della risposta dipende dal collegamento fra regola e decisione. Una definizione senza soggetto resta incompleta; un soggetto senza fonte è arbitrario; una fonte senza dato non consente controllo; un dato senza output non dimostra utilità amministrativa. Il candidato deve chiudere sempre la catena indicando che cosa succede dopo e quale documento lo rende verificabile.
-Nella correzione annota anche il livello di certezza. Il principio generale può essere spiegato nel capitolo; il dettaglio mobile deve restare collegato alla fonte vigente. Questa distinzione rende il manuale riutilizzabile e impedisce di trasformare un esempio in una regola assoluta.
-Un controllo finale rende la risposta più precisa. Chiediti se hai indicato l’autorità, il supporto tecnico, il dato e l’atto; poi specifica quale passaggio deve essere verificato nella fonte vigente. Se il caso è locale, aggiungi il raccordo con gli altri livelli di governo. Se il caso è tecnico, descrivi il metodo e la qualità del dato. Se il caso è concorsuale, chiudi nel formato richiesto: mappa, nota, checklist o risposta sintetica. Questo controllo non sostituisce la disciplina, ma impedisce di lasciarla senza applicazione.
-Per trasformare questa spiegazione in prestazione d’esame, usa una scheda di controllo. Scrivi il problema in una frase, indica il livello di governo coinvolto, separa la fonte che attribuisce il potere dalla fonte che descrive il metodo, elenca il dato necessario e chiudi con il documento da produrre. La scheda evita due errori: rispondere con un solo nome istituzionale e descrivere un dato senza spiegare che cosa cambia nella decisione.
+Qui il controllo non riguarda il nome dell’ente in astratto, ma il livello di governo che la fonte chiama in causa. Una traccia può partire da un Comune e richiedere comunque raccordo regionale, supporto tecnico di agenzia o quadro statale; può partire da una Regione e richiedere un atto locale; può citare il Ministero senza escludere l’istruttoria territoriale. La risposta deve quindi passare dalla materia al riparto di funzioni, non dalla geografia alla competenza.
 
-Ripeti l’esercizio cambiando il caso. Un progetto nuovo richiama valutazione e autorizzazione; un impianto in esercizio richiama prescrizioni e controlli; una segnalazione locale richiama istruttoria e raccordo; un rapporto tecnico richiama validazione e interpretazione. La struttura resta la stessa, ma cambiano tempi, soggetti e output. In orale, questa capacità di adattamento mostra che conosci il sistema e non stai recitando una definizione.
+Quando il dettaglio regionale o organizzativo non è fornito dalla traccia, dichiaralo come dato da acquisire nella fonte vigente o nell’atto dell’ente. Non riempire il vuoto con una competenza presunta. La prudenza qui ha un contenuto preciso: separa il principio generale dalla regola locale che deve essere controllata prima di decidere.
 
-Quando manca un estremo puntuale, dichiara il limite e indica dove deve essere verificato: fonte statale, disciplina regionale, atto organizzativo o bando. Non colmare il vuoto con una competenza inventata. La prudenza documentata è una risposta professionale, soprattutto nei temi in cui il quadro operativo cambia.
+Per allenare il riparto, usa una griglia a tre colonne: funzione, soggetto, fonte da controllare. Nella colonna funzione non scrivere soltanto “decide” o “controlla”: indica se l’ente programma, autorizza, acquisisce un parere, produce un dato, gestisce un servizio o adotta un atto. Nella colonna soggetto separa il livello politico-amministrativo dal supporto tecnico. Nella colonna fonte annota se il riferimento è nazionale, regionale, locale o di bando.
+
+Questa griglia serve anche quando non conosci ogni dettaglio. Se la traccia chiede il ruolo del Comune in una segnalazione, puoi spiegare ricezione, prima qualificazione e raccordo, ma devi evitare di attribuire una valutazione tecnica che spetta all’organo competente. Se la traccia riguarda una Regione, puoi indicare programmazione o disciplina territoriale, ma devi controllare l’atto applicabile. L’esame premia la catena corretta più della risposta assertiva. Meglio dichiarare il passaggio da controllare nel caso concreto che chiudere con una competenza inventata.
+
+Nel caso orale, questa impostazione si traduce in una frase di chiusura semplice: “l’ente vicino al fatto non è sempre l’autorità che decide; verifico fonte, livello di governo e atto richiesto”. È una formula utile perché non introduce dati esterni e non promette più di quanto la traccia consenta. Se il commissario insiste sul dettaglio locale, la risposta corretta è indicare il documento da controllare, non inventare una delega. Così il candidato dimostra metodo, prudenza e padronanza del sistema multilivello.
 
 La tutela ambientale coinvolge più livelli di governo. Lo Stato definisce il quadro generale e gli standard; Regioni ed enti territoriali esercitano funzioni attribuite dalla legge e organizzano servizi e procedimenti nel proprio ambito. La ripartizione concreta dipende dalla materia, dalla norma applicabile e dalle regole regionali.
 
@@ -116,14 +125,17 @@ Per una risposta aperta usa questa sequenza: quadro statale, attribuzione normat
 ## N-TR04-02-04 · Dati ambientali, LEPTA e controlli
 
 Il controllo deve restare proporzionato, motivato e documentato.
-In pratica, la qualità della risposta dipende dal collegamento fra regola e decisione. Una definizione senza soggetto resta incompleta; un soggetto senza fonte è arbitrario; una fonte senza dato non consente controllo; un dato senza output non dimostra utilità amministrativa. Il candidato deve chiudere sempre la catena indicando che cosa succede dopo e quale documento lo rende verificabile.
-Nella correzione annota anche il livello di certezza. Il principio generale può essere spiegato nel capitolo; il dettaglio mobile deve restare collegato alla fonte vigente. Questa distinzione rende il manuale riutilizzabile e impedisce di trasformare un esempio in una regola assoluta.
-Un controllo finale rende la risposta più precisa. Chiediti se hai indicato l’autorità, il supporto tecnico, il dato e l’atto; poi specifica quale passaggio deve essere verificato nella fonte vigente. Se il caso è locale, aggiungi il raccordo con gli altri livelli di governo. Se il caso è tecnico, descrivi il metodo e la qualità del dato. Se il caso è concorsuale, chiudi nel formato richiesto: mappa, nota, checklist o risposta sintetica. Questo controllo non sostituisce la disciplina, ma impedisce di lasciarla senza applicazione.
-Per trasformare questa spiegazione in prestazione d’esame, usa una scheda di controllo. Scrivi il problema in una frase, indica il livello di governo coinvolto, separa la fonte che attribuisce il potere dalla fonte che descrive il metodo, elenca il dato necessario e chiudi con il documento da produrre. La scheda evita due errori: rispondere con un solo nome istituzionale e descrivere un dato senza spiegare che cosa cambia nella decisione.
+Per questo nucleo la scheda di controllo parte dal dato. Prima chiediti che cosa misura, chi lo ha prodotto, con quale metodo e in quale periodo. Poi collega il dato al parametro, alla prescrizione o al procedimento che lo rende utile. Solo a quel punto puoi spiegare se serve un controllo, un approfondimento, una misura correttiva o un atto amministrativo.
 
-Ripeti l’esercizio cambiando il caso. Un progetto nuovo richiama valutazione e autorizzazione; un impianto in esercizio richiama prescrizioni e controlli; una segnalazione locale richiama istruttoria e raccordo; un rapporto tecnico richiama validazione e interpretazione. La struttura resta la stessa, ma cambiano tempi, soggetti e output. In orale, questa capacità di adattamento mostra che conosci il sistema e non stai recitando una definizione.
+Se la traccia non indica metodo, soglia o fonte tecnica, segnala il limite. Un dato isolato non basta a provare conformità o violazione. La risposta resta completa se mostra il percorso di verifica e chiarisce quali elementi devono essere acquisiti prima della decisione.
 
-Quando manca un estremo puntuale, dichiara il limite e indica dove deve essere verificato: fonte statale, disciplina regionale, atto organizzativo o bando. Non colmare il vuoto con una competenza inventata. La prudenza documentata è una risposta professionale, soprattutto nei temi in cui il quadro operativo cambia.
+Nel ripasso, tratta ogni dato come una scheda di provenienza. Scrivi origine, oggetto misurato, periodo, metodo, controllo di qualità e uso nel procedimento. Se manca uno di questi elementi, la risposta non deve fermarsi; deve dire quale elemento manca e perché incide sulla decisione. Questa impostazione vale per monitoraggio, segnalazione, controllo programmato e accertamento successivo a un evento.
+
+La parte più delicata è il passaggio dal dato all’atto. Un rapporto tecnico può sostenere una prescrizione, una richiesta di integrazione, un approfondimento o una misura successiva, ma non diventa automaticamente decisione finale. Nella risposta scritta conviene usare verbi prudenti e verificabili: acquisire, confrontare, motivare, documentare, trasmettere, chiedere integrazione. Sono verbi che mostrano procedura senza inventare esiti. Quando il caso è locale, aggiungi il raccordo con l’autorità competente e con l’agenzia tecnica; quando il caso è ministeriale o regionale, indica il punto in cui il dato territoriale entra nell’istruttoria.
+
+Nel quiz o nella domanda breve, il controllo può essere ridotto a una sequenza di sei parole: dato, fonte, metodo, parametro, effetto, atto. Se ne manca una, la conclusione resta provvisoria. Questa sequenza impedisce due scorciatoie frequenti: trasformare un superamento numerico in sanzione automatica e trattare un monitoraggio ordinario come prova definitiva. La risposta resta concisa, ma mostra perché il dato deve essere validato, confrontato e inserito in un procedimento prima di produrre effetti.
+
+Per fissarlo nel diario, registra sempre l’errore corretto: “ho confuso dato e decisione”, “ho omesso il metodo”, “ho saltato il parametro”. Queste tre note bastano a trasformare il ripasso in controllo operativo.
 
 Un dato ambientale è utile solo se sai che cosa misura, con quale metodo, in quale periodo e con quale grado di affidabilità. Il candidato non deve trattare ogni numero come una prova automatica di violazione. Deve distinguere rilevazione, validazione, interpretazione e conseguenza amministrativa.
 
@@ -136,14 +148,9 @@ Il riferimento ai LEPTA e alla rete SNPA richiama l’esigenza di livelli essenz
 Un controllo può essere ordinario, programmato, su segnalazione o successivo a un evento. Cambiano priorità, documenti e tempi, ma resta la catena: obiettivo, dato, metodo, confronto, decisione, follow-up. Il capitolo 08 svilupperà monitoraggio e dati; il capitolo 09 controlli e sanzioni.
 
 ## N-TR04-02-05 · Caso guidato: chi fa cosa?
-In pratica, la qualità della risposta dipende dal collegamento fra regola e decisione. Una definizione senza soggetto resta incompleta; un soggetto senza fonte è arbitrario; una fonte senza dato non consente controllo; un dato senza output non dimostra utilità amministrativa. Il candidato deve chiudere sempre la catena indicando che cosa succede dopo e quale documento lo rende verificabile.
-Nella correzione annota anche il livello di certezza. Il principio generale può essere spiegato nel capitolo; il dettaglio mobile deve restare collegato alla fonte vigente. Questa distinzione rende il manuale riutilizzabile e impedisce di trasformare un esempio in una regola assoluta.
-Un controllo finale rende la risposta più precisa. Chiediti se hai indicato l’autorità, il supporto tecnico, il dato e l’atto; poi specifica quale passaggio deve essere verificato nella fonte vigente. Se il caso è locale, aggiungi il raccordo con gli altri livelli di governo. Se il caso è tecnico, descrivi il metodo e la qualità del dato. Se il caso è concorsuale, chiudi nel formato richiesto: mappa, nota, checklist o risposta sintetica. Questo controllo non sostituisce la disciplina, ma impedisce di lasciarla senza applicazione.
-Per trasformare questa spiegazione in prestazione d’esame, usa una scheda di controllo. Scrivi il problema in una frase, indica il livello di governo coinvolto, separa la fonte che attribuisce il potere dalla fonte che descrive il metodo, elenca il dato necessario e chiudi con il documento da produrre. La scheda evita due errori: rispondere con un solo nome istituzionale e descrivere un dato senza spiegare che cosa cambia nella decisione.
+Nel caso guidato la domanda è concreta: chi riceve la segnalazione, chi produce il dato tecnico, chi valuta l’effetto sul procedimento e quale documento chiude il passaggio. Non basta nominare MASE, ISPRA, SNPA, ARPA o Comune. Ogni soggetto deve essere collegato alla funzione che svolge nel caso.
 
-Ripeti l’esercizio cambiando il caso. Un progetto nuovo richiama valutazione e autorizzazione; un impianto in esercizio richiama prescrizioni e controlli; una segnalazione locale richiama istruttoria e raccordo; un rapporto tecnico richiama validazione e interpretazione. La struttura resta la stessa, ma cambiano tempi, soggetti e output. In orale, questa capacità di adattamento mostra che conosci il sistema e non stai recitando una definizione.
-
-Quando manca un estremo puntuale, dichiara il limite e indica dove deve essere verificato: fonte statale, disciplina regionale, atto organizzativo o bando. Non colmare il vuoto con una competenza inventata. La prudenza documentata è una risposta professionale, soprattutto nei temi in cui il quadro operativo cambia.
+Se un passaggio non è determinabile dalla traccia, la risposta lo dichiara e indica il controllo necessario: fonte regionale, atto organizzativo, titolo autorizzativo o bando. Questo non impoverisce la soluzione; al contrario evita di attribuire poteri senza base e mantiene leggibile la catena problema, fonte, soggetto, dato, atto.
 
 Un’azienda segnala un’anomalia nelle emissioni. Un Comune riceve la segnalazione; l’ARPA dispone di competenze tecniche; la Regione è coinvolta nel quadro autorizzativo; il MASE e ISPRA rappresentano riferimenti nazionali per il sistema e le metodologie.
 
@@ -200,10 +207,9 @@ Questa regola vale per quiz, orale, caso pratico e prova scritta.
 
 La consegna finale deve essere breve, leggibile e controllabile: il commissario deve capire subito chi interviene, su quale base e con quale risultato.
 La mappa è utile anche per il ripasso finale. Copri una colonna e ricostruisci il contenuto: se copri il soggetto, ricorda la funzione; se copri la fonte, ricorda il potere o il metodo; se copri l’output, ricorda la prova. In questo modo il candidato allena recupero attivo e collegamenti, non soltanto riconoscimento visivo.
-In pratica, la qualità della risposta dipende dal collegamento fra regola e decisione. Una definizione senza soggetto resta incompleta; un soggetto senza fonte è arbitrario; una fonte senza dato non consente controllo; un dato senza output non dimostra utilità amministrativa. Il candidato deve chiudere sempre la catena indicando che cosa succede dopo e quale documento lo rende verificabile.
-Una buona mappa consente inoltre di individuare il punto in cui una pratica può bloccarsi: dato mancante, competenza incerta, parere non acquisito, metodo non dichiarato o controllo non documentato. Indicare il punto di blocco e la richiesta di integrazione è spesso più corretto che proporre subito una decisione. Nel caso pratico, il candidato deve mostrare questa capacità di fermarsi, motivare e riattivare il procedimento.
-Nella correzione annota anche il livello di certezza. Il principio generale può essere spiegato nel capitolo; il dettaglio mobile deve restare collegato alla fonte vigente. Questa distinzione rende il manuale riutilizzabile e impedisce di trasformare un esempio in una regola assoluta.
-Un controllo finale rende la risposta più precisa. Chiediti se hai indicato l’autorità, il supporto tecnico, il dato e l’atto; poi specifica quale passaggio deve essere verificato nella fonte vigente. Se il caso è locale, aggiungi il raccordo con gli altri livelli di governo. Se il caso è tecnico, descrivi il metodo e la qualità del dato. Se il caso è concorsuale, chiudi nel formato richiesto: mappa, nota, checklist o risposta sintetica. Questo controllo non sostituisce la disciplina, ma impedisce di lasciarla senza applicazione.
+Una buona mappa consente di individuare il punto in cui una pratica può bloccarsi: dato mancante, competenza incerta, parere non acquisito, metodo non dichiarato o controllo non documentato. Indicare il punto di blocco e la richiesta di integrazione è spesso più corretto che proporre subito una decisione. Nel caso pratico, il candidato deve mostrare questa capacità di fermarsi, motivare e riattivare il procedimento.
+
+Per costruirla, compila una riga per ogni passaggio: fatto iniziale, soggetto che riceve l’informazione, fonte da controllare, dato necessario, atto o comunicazione finale. Poi rileggi la riga e chiediti se hai mescolato funzione tecnica e decisione amministrativa. Se le hai confuse, separale prima di scrivere la risposta. La mappa serve proprio a rendere visibile questa distinzione.
 
 Una mappa delle competenze deve permettere a un lettore esterno di seguire un caso senza conoscere l’organizzazione interna. Parti dal fatto: una segnalazione, un dato, un progetto, un impianto o un evento. Indica il primo ufficio che riceve l’informazione e il compito che gli spetta: protocollare, qualificare, chiedere integrazioni, attivare un controllo o informare l’autorità competente. Poi separa il supporto tecnico dalla decisione amministrativa e descrivi il documento che chiude il passaggio.
 
@@ -212,3 +218,7 @@ Nel caso di un controllo sulle emissioni, la mappa può contenere: segnalazione 
 Nel caso di un dato ambientale, aggiungi fonte, periodo, metodo e qualità. Un numero senza contesto non consente di decidere. Nel caso di un procedimento locale, aggiungi il raccordo con Regione, Provincia, gestore o altra autorità. Nel caso di una prova orale, chiudi con una frase di sintesi: “la competenza si ricava dalla norma applicabile; il dato tecnico sostiene l’istruttoria; la decisione spetta all’autorità individuata; il controllo successivo verifica l’effetto”.
 
 Questa mappa è un output concorsuale autonomo. Può essere disegnata in tabella o spiegata in otto frasi, ma deve sempre contenere problema, fonte, soggetto, dato, atto e controllo. È anche il ponte verso i capitoli successivi: il capitolo 03 svilupperà valutazioni, il 04 autorizzazioni, l’08 monitoraggio e il 09 controlli e sanzioni.
+
+Usala anche come controllo finale del capitolo. Dopo aver studiato D.Lgs. 152/2006, MASE, ISPRA, SNPA, ARPA e livelli territoriali, prova a compilare la mappa senza guardare il testo. Se riesci a collegare ogni soggetto a funzione, fonte, dato e output, il sistema è stato compreso. Se invece ricordi soltanto le sigle, torna ai nuclei precedenti e ricostruisci il passaggio mancante. La mappa non serve a decorare la risposta: serve a impedire errori di competenza, fonti vaghe e decisioni non motivate.
+
+Nel dubbio, riscrivi la mappa in forma di tabella a sei colonne. La tabella costringe a separare passaggi che nel discorso orale tendono a fondersi e rende visibile l’eventuale vuoto. Serve anche a controllare il lessico: soggetto, fonte e output non sono sinonimi.

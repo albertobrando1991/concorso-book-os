@@ -2,7 +2,7 @@
 id: source-bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026
 type: source
 title: "Bonifiche, siti contaminati e danno ambientale — quadro ufficiale 2026"
-status: processed
+status: consolidated
 domain: "concorsi pubblici italiani"
 topics: ["bonifiche", "siti contaminati", "CSC", "CSR", "analisi di rischio", "danno ambientale"]
 entities: ["MASE", "Regione", "Provincia", "Comune", "ARPA", "ISPRA"]
@@ -10,12 +10,12 @@ source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "s
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
 confidence: 0.94
 created_at: 2026-08-12
-updated_at: 2026-08-12
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: true
-tags: ["source", "bonifiche", "danno-ambientale", "m-tr04", "2026"]
+tags: ["source", "bonifiche", "danno-ambientale", "m-tr04", "2026", "step-15"]
 source_type: official_legal_and_technical_bundle
-source_date: 2026-08-12
+source_date: 2026-08-18
 authority_level: official_primary
 ---
 
@@ -95,7 +95,7 @@ La procedura di bonifica può costituire la via concreta di ripristino di un sit
 - Il capitolo 09 tratterà sanzioni e reati: qui non si anticipano fattispecie penali né procedimenti sanzionatori.
 - Terre e rocce da scavo e materiali di riporto sono richiamati solo per qualificazione e controllo; la disciplina esecutiva resta soggetta al D.P.R. n. 120/2017 e alle regole applicabili al caso.
 - Le competenze territoriali e la modulistica richiedono audit regionale prima di un caso localizzato.
-- Normattiva riportava, nelle pagine consultate, aggiornamenti del D.Lgs. n. 152/2006 fino agli atti pubblicati nel 2025. È stato verificato al 12 agosto 2026 anche il quadro ufficiale disponibile su Gazzetta Ufficiale e MASE; ogni modifica successiva deve essere riesaminata al text freeze.
+- Normattiva riportava, nelle pagine consultate, aggiornamenti del D.Lgs. n. 152/2006 fino agli atti pubblicati nel 2025. Il quadro ufficiale disponibile su Gazzetta Ufficiale, MASE e Normattiva è stato riallineato per l'audit specialistico del 18 agosto 2026; il capitolo conserva principi e sequenze, senza fissare modulistica territoriale come dato universale.
 
 ## Collegamenti web ufficiali
 

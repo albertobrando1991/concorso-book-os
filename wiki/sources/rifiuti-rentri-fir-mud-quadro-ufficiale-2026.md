@@ -8,15 +8,15 @@ topics: ["rifiuti", "economia circolare", "classificazione", "RENTRI", "registro
 entities: ["MASE", "Albo nazionale gestori ambientali", "ISPRA", "SNPA", "Camere di commercio"]
 source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
-confidence: 0.92
+confidence: 0.95
 created_at: 2026-08-11
-updated_at: 2026-08-11
-review_required: true
+updated_at: 2026-08-18
+review_required: false
 canonical: true
-tags: ["source", "vol-11", "m-tr04", "rifiuti", "rentri", "fir", "mud", "2026"]
+tags: ["source", "vol-11", "m-tr04", "rifiuti", "rentri", "fir", "mud", "2026", "step-15"]
 source_type: primary_official_consolidation
 source_url: "https://www.rentri.gov.it/"
-source_date: 2026-08-11
+source_date: 2026-08-18
 authority_level: primary_official
 ---
 
@@ -24,7 +24,7 @@ authority_level: primary_official
 
 ## Funzione e perimetro
 
-Questa nota consolida le fonti necessarie al capitolo 06 di M-TR04. Il nucleo normativo è la Parte quarta del D.Lgs. 3 aprile 2006, n. 152; il sistema digitale è disciplinato dal D.M. 4 aprile 2023, n. 59 e dai decreti direttoriali attuativi. Le regole operative mobili sono verificate sul portale istituzionale RENTRI alla data dell'11 agosto 2026.
+Questa nota consolida le fonti necessarie al capitolo 06 di M-TR04. Il nucleo normativo è la Parte quarta del D.Lgs. 3 aprile 2006, n. 152; il sistema digitale è disciplinato dal D.M. 4 aprile 2023, n. 59 e dai decreti direttoriali attuativi. Le regole operative mobili sono verificate sul portale istituzionale RENTRI alla data del 18 agosto 2026.
 
 ## Fonti primarie e istituzionali
 
@@ -46,12 +46,14 @@ Questa nota consolida le fonti necessarie al capitolo 06 di M-TR04. Il nucleo no
 6. Il deposito temporaneo prima della raccolta è un raggruppamento presso il luogo di produzione alle condizioni dell'art. 185-bis; se le condizioni mancano, l'etichetta aziendale non evita l'applicazione della disciplina autorizzativa pertinente.
 7. RENTRI, registro cronologico, FIR e MUD non sono sinonimi. RENTRI è il sistema nazionale; il registro documenta continuativamente carichi e scarichi; il FIR accompagna il trasporto; il MUD è una dichiarazione annuale riferita all'anno precedente.
 
-## Dato operativo RENTRI verificato l'11 agosto 2026
+## Dato operativo RENTRI verificato il 18 agosto 2026
 
 - Le tre finestre ordinarie di prima iscrizione previste dal D.M. 59/2023 si sono concluse; l'ultima, per i produttori obbligati del terzo scaglione, terminava il 13 febbraio 2026. La legge n. 199/2025 ha però modificato il perimetro soggettivo: l'obbligo va verificato sul testo vigente e non soltanto sul numero di dipendenti.
 - Gli iscritti tengono il registro cronologico in modalità digitale dalla decorrenza applicabile alla propria iscrizione e trasmettono i dati secondo le regole del sistema.
 - Il nuovo modello di FIR è operativo dal 13 febbraio 2025 anche per i soggetti non iscritti, con vidimazione digitale attraverso i servizi RENTRI quando usato in forma cartacea.
-- In forza della legge n. 26/2026, dal 1° marzo al 15 settembre 2026 gli iscritti possono scegliere, per ciascun trasporto, l'emissione del FIR cartaceo oppure digitale; il formato scelto dal produttore o detentore vincola l'intera filiera per quel FIR.
+- Dal 13 febbraio 2026 il portale ha attivato le funzionalità operative per il FIR digitale.
+- Le modalità operative di sicurezza per il FIR sono cessate alle ore 00:00 del 14 aprile 2026.
+- In forza della legge n. 26/2026, dal 1° marzo al 15 settembre 2026 il produttore o detentore può scegliere, per ciascun trasporto, l'emissione del FIR cartaceo oppure digitale; il formato scelto vincola l'intera filiera per quel FIR.
 - Dal 16 settembre 2026 il FIR digitale diventa obbligatorio per tutti gli iscritti al RENTRI. I produttori non tenuti all'iscrizione continuano a usare il FIR cartaceo nei casi in cui è richiesto.
 - Il D.P.C.M. 30 gennaio 2026 ha approvato il MUD 2026 per i dati 2025; il termine di presentazione era il 3 luglio 2026. Modello, soggetti, comunicazioni e termine vanno verificati per ogni annualità.
 
@@ -67,5 +69,5 @@ Questa nota consolida le fonti necessarie al capitolo 06 di M-TR04. Il nucleo no
 
 ## Limiti e aggiornamento
 
-Questa nota non sostituisce la matrice di assoggettamento del singolo operatore, le autorizzazioni, l'iscrizione all'Albo, le istruzioni del modello annuale né le norme tecniche di classificazione. DD 210/2026 e successivi aggiornamenti del portale possono modificare modalità operative: ogni procedura eseguibile va ricontrollata prima della pubblicazione o dell'uso professionale.
+Questa nota non sostituisce la matrice di assoggettamento del singolo operatore, le autorizzazioni, l'iscrizione all'Albo, le istruzioni del modello annuale né le norme tecniche di classificazione. DD 210/2026 e aggiornamenti del portale incidono sulle modalità esecutive; la nota conserva il dato ufficiale consolidato al 18 agosto 2026 e non sostituisce istruzioni tecniche operative del sistema.
 

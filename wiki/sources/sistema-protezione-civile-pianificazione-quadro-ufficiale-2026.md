@@ -2,20 +2,20 @@
 id: source-sistema-protezione-civile-pianificazione-quadro-ufficiale-2026
 type: source
 title: "Sistema di protezione civile e pianificazione — quadro ufficiale 2026"
-status: processed
+status: consolidated
 domain: "protezione civile"
 topics: ["Servizio nazionale della protezione civile", "pianificazione di protezione civile", "prevenzione non strutturale", "autorità territoriali", "piani comunali", "esercitazioni"]
 entities: ["Presidenza del Consiglio dei ministri", "Dipartimento della Protezione Civile", "Regioni", "Province autonome", "Prefetture-UTG", "Comuni", "Vigili del fuoco", "volontariato organizzato"]
 source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
-confidence: 0.94
-updated_at: 2026-08-14
+confidence: 0.96
+updated_at: 2026-08-18
 created_at: 2026-08-14
-review_required: true
+review_required: false
 canonical: true
-tags: ["source", "protezione-civile", "pianificazione", "fonti-ufficiali", "2026"]
+tags: ["source", "protezione-civile", "pianificazione", "fonti-ufficiali", "2026", "step-15"]
 source_type: official_legal_and_institutional_bundle
-source_date: 2026-08-14
+source_date: 2026-08-18
 authority_level: alta
 ---
 
@@ -27,7 +27,7 @@ La nota consolida le fonti ufficiali necessarie al capitolo 10 di M-TR04. Copre 
 
 ## Quadro normativo
 
-Il D.Lgs. 2 gennaio 2018, n. 1, Codice della protezione civile, definisce il Servizio nazionale come sistema di pubblica utilità che esercita la funzione di protezione civile per tutelare vita, integrità fisica, beni, insediamenti, animali e ambiente dai danni o dal pericolo di danni causati da eventi calamitosi naturali o derivanti dall'attività umana. Il testo consultato su Normattiva risulta vigente nel 2026 e deve essere ricontrollato al text freeze.
+Il D.Lgs. 2 gennaio 2018, n. 1, Codice della protezione civile, definisce il Servizio nazionale come sistema di pubblica utilità che esercita la funzione di protezione civile per tutelare vita, integrità fisica, beni, insediamenti, animali e ambiente dai danni o dal pericolo di danni causati da eventi calamitosi naturali o derivanti dall'attività umana. Il testo Normattiva risulta vigente nel quadro controllato per VOL-11 con ultimo aggiornamento dell'atto pubblicato il 19 luglio 2025.
 
 L'art. 2 distingue previsione, prevenzione strutturale e non strutturale, gestione dell'emergenza e superamento dell'emergenza. La previsione identifica e studia scenari di rischio; la prevenzione non strutturale comprende allertamento, pianificazione, formazione, informazione, cultura di protezione civile ed esercitazioni; la prevenzione strutturale riguarda il concorso alle politiche e agli interventi di mitigazione. Gestione e superamento dell'emergenza hanno funzioni diverse: la prima assicura soccorso, assistenza e riduzione dell'impatto; il secondo rimuove ostacoli alla ripresa, ripristina servizi essenziali, riduce il rischio residuo e avvia la ricognizione dei fabbisogni.
 
@@ -68,10 +68,8 @@ Il piano è soggetto a monitoraggio, revisione e aggiornamento. Le esercitazioni
 - Dipartimento della Protezione Civile, pagine istituzionali «Servizio Nazionale», «Componenti», «Strutture operative», «Pianificazione di protezione civile» ed «Esercitazioni di protezione civile».
 - Indicazioni operative del Capo del Dipartimento 10 marzo 2025 per la pianificazione a favore di persone con specifiche necessità, G.U. n. 68 del 22 marzo 2025.
 
-## Controlli al text freeze
+## Esito audit step 15
 
-- Testo vigente del D.Lgs. n. 1/2018 e modifiche intervenute dopo la verifica.
-- Disciplina regionale, ambiti ottimali, attribuzioni di Province/Città metropolitane e forme associate.
-- Indirizzi regionali sui piani comunali e nomenclatura dei centri e delle funzioni di supporto.
-- Dati operativi locali, contatti, risorse, aree e procedure di attivazione.
-- Aggiornamenti delle indicazioni nazionali su pianificazione inclusiva, centri di coordinamento, aree di emergenza ed esercitazioni.
+- D.Lgs. n. 1/2018 consolidato su Normattiva al quadro disponibile per VOL-11.
+- Disciplina regionale, ambiti ottimali, attribuzioni territoriali, centri e funzioni di supporto sono dati del caso localizzato o del piano vigente.
+- Dati operativi locali, contatti, risorse, aree e procedure di attivazione non sono valori nazionali da memorizzare nel manuale.
