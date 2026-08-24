@@ -2,7 +2,7 @@
 id: chapter-m-fc01-06-organizzazione-interna-ministeri
 type: book_chapter
 title: "Organizzazione interna dei Ministeri"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["ministeri", "dipartimenti", "direzioni generali", "uffici"]
 entities: ["Ministeri", "Dipartimenti", "Direzioni generali", "Dirigenti pubblici"]
@@ -13,14 +13,14 @@ source_refs: [
 ]
 book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-08-05
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
+tags: ["book-chapter", "module-code-m-fc01", "text-frozen"]
 book_id: m-fc01-ministeri
 outline_section: 6
-draft_stage: editorial-revision
+draft_stage: text_frozen
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

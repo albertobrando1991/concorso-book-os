@@ -9,9 +9,9 @@ entities: ["Ministero dell'Universita e della Ricerca", "Commissione europea", "
 source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/prin-2026-bando-mur-programma-rendicontazione", "sources/horizon-europe-quadro-work-programme-call-grant-agreement", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione", "sources/pnrr-regis-dnsh-monitoraggio-territoriale"]
 book_refs: ["m-ir02-universita-afam", "vol-06-scuola-universita-ricerca-cultura", "il-metodo-bando", "m-tr02-appalti-pnrr-fondi-ue"]
 confidence: 0.7
-updated_at: 2026-08-04
+updated_at: 2026-08-22
 created_at: 2026-08-04
-review_required: true
+review_required: false
 canonical: false
 tags: ["chapter-plan", "module-code-m-ir02", "chapter-08", "pipeline-step-08"]
 ---

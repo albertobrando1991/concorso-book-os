@@ -2,7 +2,7 @@
 id: chapter-m-fc02-civile-commerciale-applicati-fisco-dogane-riscossione
 type: book_chapter
 title: "Civile e commerciale applicati a fisco, dogane e riscossione"
-status: professional_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["diritto civile", "diritto commerciale", "obbligazioni", "contratti", "impresa", "societa", "crisi impresa", "agenzie fiscali"]
 entities: ["Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione"]
@@ -15,14 +15,14 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/05-checklist-civile-commerciale-fisco.png"
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc02", "professional-draft"]
+tags: ["book-chapter", "module-code-m-fc02", "text-frozen"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 12
-draft_stage: professional-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

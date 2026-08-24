@@ -2,21 +2,21 @@
 id: chapter-m-fc05-05-vigilanza-istruttoria-ispezioni-dati-prova
 type: book_chapter
 title: "Vigilanza, istruttoria, ispezioni, dati e prova"
-status: professional_draft
+status: final
 domain: procedimenti di vigilanza
 topics: ["vigilanza", "istruttoria", "ispezioni", "prova"]
 entities: ["AGCM", "ARERA", "CONSOB", "IVASS", "Garante per la protezione dei dati personali"]
 source_refs: ["sources/vigilanza-istruttoria-ispezioni-dati-prova-authority-2026-07-24.md", "sources/authority-indipendenti-leggi-istitutive.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.88
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "istruttoria"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 5
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/03-flusso-vigilanza-istruttoria-prova.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/04-distinzioni-vigilanza-istruttoria-prova.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/05-sintesi-vigilanza-istruttoria-prova.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # Vigilanza, istruttoria, ispezioni, dati e prova
 
-## Scheda di lavoro
+## N-MF05-05-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Ricostruire un fascicolo di vigilanza dalla segnalazione alla valutazione dell'evidenza, preservando competenza, riservatezza, contraddittorio e tracciabilità.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Piano istruttorio, richiesta di informazioni, indice ragionato del fascicolo e griglia per valutare la qualità di un dato o documento.
 
 > **Regola di metodo.** Non chiederti prima «quale sanzione applicare?». Chiediti: quale potere è attribuito, quale fatto deve essere accertato e quali elementi sono necessari per provarlo secondo il procedimento applicabile?
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -62,7 +62,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 5.1 — Mappa BANDO: Vigilanza, istruttoria e prova.](../assets/chapter-05/01-mappa-bando-vigilanza-istruttoria-prova.png)
 
-*Figura 5.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 5.1 — La tavola orienta la lettura di segnale di vigilanza e separa il perimetro dalle eccezioni.*
 
 ### Vigilanza e istruttoria: dalla notizia al fatto accertato
 
@@ -83,11 +83,13 @@ Per impostare bene un'attività istruttoria è utile redigere una scheda inizial
 | Fonti di evidenza | Quali documenti, dati, dichiarazioni o analisi sono necessari? | Acquisire tutto «per sicurezza» |
 | Garanzie | Quali comunicazioni, termini e forme di contraddittorio sono previste? | Rinviare le garanzie alla fase finale |
 
+## N-MF05-05-02 · Istituti e distinzioni
+
 Questo schema aiuta il funzionario a mantenere una distinzione decisiva: tra **notizia**, **ipotesi**, **evidenza** e **valutazione**. La notizia segnala un possibile problema; l'ipotesi orienta la ricerca; l'evidenza è un elemento acquisito e verificato nel fascicolo; la valutazione collega gli elementi alle conclusioni. Quando questi piani sono confusi, la motivazione rischia di presentare una supposizione come prova o un dato grezzo come conclusione.
 
 ![Figura 5.2 — Architettura: Vigilanza, istruttoria e prova.](../assets/chapter-05/02-architettura-vigilanza-istruttoria-prova.png)
 
-*Figura 5.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 5.2 — La tavola mette a confronto piano istruttorio e richieste di informazioni senza sovrapporli.*
 
 ### Il piano istruttorio: chiedere ciò che serve
 
@@ -109,7 +111,7 @@ Il piano deve poter cambiare quando emergono nuovi elementi. Modificarlo non è 
 
 ![Figura 5.3 — Sequenza operativa: Vigilanza, istruttoria e prova.](../assets/chapter-05/03-flusso-vigilanza-istruttoria-prova.png)
 
-*Figura 5.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 5.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Ispezioni: potere incisivo, perimetro rigoroso
 
@@ -120,6 +122,8 @@ L'articolo 14 della legge n. 287/1990 attribuisce all'AGCM, nel proprio settore,
 Anche il Garante per la protezione dei dati personali offre un esempio utile. La sua disciplina organizzativa individua, per l'attività ispettiva, un ordine di servizio che delimita destinatario del controllo, poteri utilizzati, ambito, luogo e responsabili dell'attività. Le deliberazioni periodiche di programmazione mostrano inoltre che l'attività ispettiva può essere organizzata secondo priorità e criteri, anche con la collaborazione della Guardia di finanza nei limiti della disciplina applicabile. Non si tratta di un protocollo trasferibile a CONSOB, IVASS, ARERA o AGCOM, ma di una conferma della necessità di perimetrare e documentare l'accesso.
 
 Per il funzionario, la check-list essenziale prima di un'attività ispettiva è questa:
+
+## N-MF05-05-03 · Poteri, procedura e conseguenze
 
 1. qual è la fonte del potere e quale ufficio o soggetto è competente?
 2. qual è l'oggetto dell'accertamento e quali elementi si cercano?
@@ -132,11 +136,11 @@ Questa lista non sostituisce la procedura dell'ente. Serve a ricordare che un'is
 
 ![Figura 5.4 — Distinzioni essenziali: Vigilanza, istruttoria e prova.](../assets/chapter-05/04-distinzioni-vigilanza-istruttoria-prova.png)
 
-*Figura 5.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 5.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Dati e documenti: dalla raccolta alla qualità dell'evidenza
 
-Nei procedimenti delle Autorità, il dato può essere economico, tecnico, contabile, contrattuale, digitale, personale o proveniente da un sistema informativo. Un documento può essere una comunicazione, un registro, un verbale, un report, una dichiarazione, una serie storica o l'esito di un'analisi. La varietà delle fonti non riduce l'esigenza di metodo; la aumenta.
+Nei procedimenti delle Autorità, il dato può essere economico, tecnico, contabile, contrattuale, digitale, personale o proveniente da un sistema informativo. Un documento può essere una comunicazione, un registro, un verbale, una relazione tecnica, una dichiarazione, una serie storica o l'esito di un'analisi. La varietà delle fonti non riduce l'esigenza di metodo; la aumenta.
 
 Prima di utilizzare un elemento nel ragionamento istruttorio, occorre porre almeno cinque domande:
 
@@ -173,11 +177,13 @@ Questo ordine rende visibile la catena **fatto → fonte → analisi → valutaz
 
 ![Figura 5.5 — Sintesi operativa: Vigilanza, istruttoria e prova.](../assets/chapter-05/05-sintesi-vigilanza-istruttoria-prova.png)
 
-*Figura 5.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 5.5 — La tavola chiude il percorso collegando qualità della prova a contraddittorio.*
 
 ### Mappa BANDO
 
 Nei bandi delle Autorità, le parole «vigilanza», «istruttoria», «poteri informativi», «ispezioni», «dati», «analisi economica» e «procedimenti» richiedono di collegare sempre potere e garanzia.
+
+## N-MF05-05-04 · Applicazione alla prova
 
 | Voce del bando | Nucleo da padroneggiare | Output da allenare |
 | --- | --- | --- |
@@ -237,10 +243,46 @@ Un operatore invia dati aggregati che sembrano incompatibili con gli obblighi in
 
 L'esercizio è corretto se la conclusione non compare prima dei fatti e se ogni richiesta è collegata a una domanda istruttoria precisa. Se hai scritto «acquisire tutta la documentazione», torna alla prima riga: probabilmente il perimetro non è ancora definito.
 
-### Riferimenti consolidati
+### Prova di trasferimento
 
-[[sources/vigilanza-istruttoria-ispezioni-dati-prova-authority-2026-07-24]], [[sources/authority-indipendenti-leggi-istitutive]], [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]], [[topics/vigilanza-istruttoria-ispezioni-dati-prova-authority]].
+## N-MF05-05-05 · Consolidamento e verifica
 
-### Note di review editoriale
+Immagina che la stessa questione su segnale di vigilanza compaia prima in un quiz, poi all'orale e infine in un caso. Nel quiz cerca la distinzione decisiva fra piano istruttorio e richieste di informazioni; all'orale enuncia criterio, limite ed esempio; nel caso individua fatti, fonte, competenza e passo istruttorio. Il contenuto di base non cambia, ma cambia la forma della prestazione: una risposta lunga non è automaticamente più completa e una risposta breve non può omettere il presupposto.
 
-Prima della chiusura del volume, verificare alla data di cut-off: poteri informativi e ispettivi, regole sul contraddittorio, accesso al fascicolo, segreto e riservatezza, modelli di verbale e disciplina dei dati dell'Autorità indicata dal bando. Il capitolo non attribuisce a un ente poteri o procedure ricavati da un altro ordinamento settoriale.
+Usa ispezioni come snodo operativo. Domandati quale documento manca, chi può richiederlo e quale conseguenza sarebbe prematura prima di acquisirlo. Per qualità della prova, controlla se la regola descritta è stabile o dipende da data, bando, elenco o atto applicativo. Chiudi su contraddittorio con una frase condizionata ai fatti realmente accertati. Questa prova di trasferimento serve anche al proofreading concettuale: se una stessa formula produce identica risposta in tre situazioni diverse, probabilmente il testo è troppo generico e va ricondotto al perimetro concreto.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito segnale di vigilanza senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra piano istruttorio e richieste di informazioni poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a ispezioni giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di qualità della prova e quale conseguenza produrrebbe su contraddittorio. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama segnale di vigilanza?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** piano istruttorio e richieste di informazioni possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato ispezioni nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di qualità della prova?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su contraddittorio?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama segnale di vigilanza e chiede un intervento immediato su contraddittorio. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere piano istruttorio da richieste di informazioni e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta ispezioni, si collega qualità della prova al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

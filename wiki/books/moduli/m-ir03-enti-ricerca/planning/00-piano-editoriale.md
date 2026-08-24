@@ -9,9 +9,9 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["m-ir03-enti-ricerca","il-metodo-bando"]
 confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+updated_at: 2026-08-23
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-ir03"]
 book_id: m-ir03-enti-ricerca

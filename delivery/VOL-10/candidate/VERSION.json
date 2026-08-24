@@ -1,0 +1,27 @@
+{
+  "volumeCode": "VOL-10",
+  "title": "Tecnico-ingegneristico, territorio e lavori pubblici",
+  "moduleCode": "M-TR03",
+  "candidateVersion": "VOL-10-candidate-2026.08.21.1",
+  "editorialVersion": "1.0.0-candidate",
+  "preparedAt": "2026-08-21",
+  "normativeCutoff": "2026-08-21",
+  "baseCommit": "fedfb0fe49cef4c111f18ac014c77d7eb1e1cd4a",
+  "remoteMainObserved": "c5f3ac01cc896b22563216eede96367235cd8fbe",
+  "branch": "codex/publish-volumes-01-03-05-10-11",
+  "pipeline": {
+    "completedThrough": 23,
+    "humanConfirmationRequiredAt": 24,
+    "status": "candidate_pending_human_confirmation"
+  },
+  "contents": {
+    "chapters": 13,
+    "nuclei": 88,
+    "interiorPages": 100,
+    "trimSizeInches": [6.6933, 9.61]
+  },
+  "interiorPdf": {
+    "file": "vol-10-interior-kdp.pdf",
+    "sha256": "03f3445d0a6f5ba821bc7d304a68839d0c9aa48ae00e4b8d12e0c25dde703117"
+  }
+}

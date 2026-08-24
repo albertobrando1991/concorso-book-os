@@ -1,29 +1,33 @@
-﻿---
+---
 id: chapter-m-fc03-13-piano-30-60-90-inps-inail-epne
 type: book_chapter
 title: "Piano 30/60/90 per INPS, INAIL ed EPNE"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["piano di studio","diario errori","metodo bando","enti pubblici non economici","bandi concorso"]
 entities: ["Metodo BANDO","INPS","INAIL","Enti pubblici non economici","inPA","Formez"]
 source_refs: ["sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-portali-bandi-concorsi-2023-2026.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","topics/enti-pubblici-non-economici-concorsi.md"]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.85
-updated_at: 2026-07-08T20:45:00+02:00
+updated_at: 2026-08-22T14:00:00+02:00
 created_at: 2026-07-02T20:05:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter","module-code-m-fc03","professional-draft","study-plan"]
+tags: ["book-chapter","module-code-m-fc03","specialist-audit-complete","study-plan"]
 book_id: m-fc03-enti-non-economici
 outline_section: 13
-draft_stage: professional-draft
+draft_stage: specialist_audit_done
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md","wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md","wiki/sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md","wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","wiki/topics/enti-pubblici-non-economici-concorsi.md","wiki/memory/agent/l1/atoms.jsonl"]
+format_version: 2
+dati_operativi: []
 ---
 # Piano 30/60/90 per INPS, INAIL ed EPNE
 
-## Testo editoriale
+## N-FC03-13-01 · Quadro e metodo
+
+### Testo editoriale
 
 ### Apertura editoriale
 
@@ -85,6 +89,8 @@ Il piano si divide in tre fasi. Ogni fase ha una funzione diversa.
 | Giorni 31-60 | Consolidare e trasformare in prova | So usare le materie in quiz, orale, casi e situazionali? |
 | Giorni 61-90 | Simulare, correggere, aggiornare | So reggere tempi, errori, avvisi e collegamenti? |
 
+## N-FC03-13-02 · Elementi e distinzioni
+
 La fase 1 non deve diventare lettura infinita. La fase 2 non deve restare ripasso passivo. La fase 3 non deve essere solo ansia da ultime settimane. Ogni fase deve chiudersi con un controllo.
 
 ### Giorni 1-30: perimetro, nucleo e prime prove
@@ -131,7 +137,7 @@ Qui entrano i capitoli 11 e 12: casi pratici e quesiti situazionali. Un candidat
 
 ### La settimana tipo 31-60
 
-| Giorno | Attivita principale | Output minimo |
+| Giorno | Attività principale | Output minimo |
 | --- | --- | --- |
 | 1 | Materia comune ad alta frequenza | 25 quiz o 1 schema orale. |
 | 2 | Delta EPNE | Scheda INPS/INAIL/ente + 10 domande secche. |
@@ -155,7 +161,9 @@ La domanda da farti è sempre: in che forma questa materia può uscire?
 | Privacy | Situazionale, caso, orale | Titolo, canale, minimizzazione, limiti. |
 | PIAO e performance | Orale, domanda trasversale | Collegare organizzazione, valore pubblico, trasparenza. |
 | Bilancio e controlli | Quiz, orale, caso interno | Distinguere bilancio, patrimonio, controlli, vigilanza. |
-| Personale e CCNL | Quiz, situazionale, orale | Area, doveri, comportamento, responsabilita. |
+| Personale e CCNL | Quiz, situazionale, orale | Area, doveri, comportamento, responsabilità. |
+
+## N-FC03-13-03 · Procedura e conseguenze
 
 Una materia è davvero studiata quando sai riconoscerla, spiegarla e applicarla.
 
@@ -165,7 +173,7 @@ Negli ultimi 30 giorni il piano deve diventare selettivo. Non si apre una nuova 
 
 La fase 61-90 ha tre obiettivi:
 
-1. aumentare stabilita e velocita;
+1. aumentare stabilità e velocità;
 2. ridurre errori ripetuti;
 3. impedire che un aggiornamento ufficiale arrivi troppo tardi nel piano.
 
@@ -233,6 +241,8 @@ Output ad alta resa:
 - un caso su rapporto con utente, impresa o servizio;
 - elenco dati da verificare prima della pubblicazione o della prova.
 
+## N-FC03-13-04 · Applicazione al profilo
+
 ### Da sapere in 5 righe
 
 Il piano 30/60/90 serve a trasformare bando, materie e prove in azioni controllabili. Nei primi 30 giorni si costruiscono perimetro e nucleo; nei giorni 31-60 si trasforma lo studio in quiz, orale, casi e situazionali; nei giorni 61-90 si simula, si corregge e si aggiorna. INPS, INAIL e altri EPNE richiedono lo stesso metodo ma priorità diverse. Il diario errori deve registrare fonte, perimetro, materia e output. Ogni dato instabile su bandi, prove, calendari o documenti ufficiali resta da verificare.
@@ -245,7 +255,7 @@ La lettura debole sarebbe: "studio l'l'INAIL e poi ripasso il resto". La lettura
 
 Nei primi 30 giorni Luca riattiva amministrativo, pubblico impiego, privacy e logica, ma dedica blocchi specifici ad assicurazione sociale, prevenzione, prestazioni e rapporto con lavoratori/imprese. Ogni settimana scrive una risposta orale breve e un caso.
 
-Nei giorni 31-60 passa a simulazioni parziali: quiz a tempo, caso INAIL in 20 righe, situazionali su dati e comportamento, scheda su materie integrative richieste dal bando. Nel diario scopre che sbaglia spesso quando la domanda contiene dati personali o richieste informali. Crea quindi una regola di correzione: prima identita e canale, poi competenza, poi informazione consentita.
+Nei giorni 31-60 passa a simulazioni parziali: quiz a tempo, caso INAIL in 20 righe, situazionali su dati e comportamento, scheda su materie integrative richieste dal bando. Nel diario scopre che sbaglia spesso quando la domanda contiene dati personali o richieste informali. Crea quindi una regola di correzione: prima identità e canale, poi competenza, poi informazione consentita.
 
 Negli ultimi 30 giorni Luca non apre nuovi manuali. Simula prove, ripassa mappe deboli, controlla avvisi ufficiali una volta a settimana e aggiorna il piano se escono istruzioni. Il suo obiettivo non è sapere "tutto sull'INAIL", ma presentarsi con una preparazione coerente con bando, profilo e prove.
 
@@ -267,7 +277,7 @@ Negli ultimi 30 giorni Luca non apre nuovi manuali. Simula prove, ripassa mappe 
 
 L'errore più frequente è fare un piano per materie, non per prove.
 
-Il candidato assegna una settimana ad amministrativo, una a pubblico impiego, una a INPS o INAIL, una a privacy, una a contabilità. Il calendario sembra ordinato, ma non risponde alla domanda decisiva: come uscira' quella materia in prova?
+Il candidato assegna una settimana ad amministrativo, una a pubblico impiego, una a INPS o INAIL, una a privacy, una a contabilità. Il calendario sembra ordinato, ma non risponde alla domanda decisiva: come uscirà quella materia in prova?
 
 La correzione è:
 
@@ -278,6 +288,8 @@ La correzione è:
 5. ogni contenuto fuori perimetro deve essere rinviato o tagliato.
 
 Un piano buono non è quello più ambizioso. È quello che resta eseguibile e verificabile.
+
+## N-FC03-13-05 · Consolidamento e verifica
 
 ### Mini-esercizio
 
@@ -298,30 +310,46 @@ Compila questa scheda usando un bando EPNE reale o simulato.
 | Errore più probabile | |
 | Correzione programmata | |
 
-Poi scrivi una settimana tipo con massimo sei blocchi. Se inserisci più di sei blocchi, probabilmente stai progettando un piano che non reggera'.
+Poi scrivi una settimana tipo con massimo sei blocchi. Se inserisci più di sei blocchi, probabilmente stai progettando un piano che non reggerà.
 
-### Riferimenti consolidati
+### Ciclo settimanale di controllo
 
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne]]
-- [[books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi]]
-- [[books/il-metodo-bando/chapters/scegliere-moduli-integrativi]]
-- [[books/il-metodo-bando/chapters/diario-degli-errori]]
+Ogni settimana il piano confronta tre dati: attività previste, output prodotti ed errori emersi. Le ore studiate non bastano. Un capitolo è consolidato quando il candidato sa spiegare i nuclei, risolvere domande nuove e riconoscere i punti che richiedono una fonte aggiornata. Se l'output manca, la sessione successiva non ripete passivamente la lettura: cambia metodo, per esempio da appunti a domande, da quiz a caso o da caso a risposta orale.
 
-### Note di review
+Il diario degli errori usa categorie stabili: definizione, distinzione, fonte, competenza, procedura, dato mobile e gestione del tempo. Dopo la correzione, ogni errore genera una microprova. Il candidato risponde di nuovo senza guardare la soluzione e annota la data. Un errore è chiuso soltanto quando non si ripete in un contesto diverso.
 
-- Il capitolo usa il piano 30/60/90 come metodo operativo, non come calendario valido per ogni procedura: prima della pubblicazione legata a un concorso specifico verificare bando, allegati, prove, soglie, calendari e avvisi ufficiali.
-- Non sono stati inseriti dati numerici instabili su posti, scadenze, calendari o prove future; eventuali esempi puntuali richiederanno source note dedicata.
-- Per capitoli o appendici su profili INPS-INAIL ispettivi, assistente sociale, ricerca, tecnologia o ICT, coordinare il piano con Appendice A, Appendice E, Appendice F o con i moduli specialistici pertinenti.
-- Le pagine istituzionali, PIAO, bilanci, statuti, regolamenti e carte dei servizi vanno ricontrollati alla data di pubblicazione se diventano oggetto di esempi specifici.
-- La memoria locale è stata richiamata come supporto operativo; i claim editoriali restano fondati su source notes, topic pages, piano e matrice consolidati.
+### Simulazione e recupero
 
+La simulazione deve riprodurre durata, varietà e livello della prova per quanto dichiarato dal bando. Il punteggio complessivo è meno informativo della distribuzione degli errori. Cinque errori concentrati su previdenza richiedono un intervento diverso da cinque errori casuali. Il recupero assegna quindi una sessione al nucleo debole, una verifica breve e una seconda simulazione mirata.
 
+Negli ultimi giorni il piano riduce i nuovi contenuti e aumenta richiamo, precisione e gestione del tempo. Eventuali avvisi ufficiali vengono controllati separatamente dallo studio. In questo modo un aggiornamento logistico non interrompe il ripasso e una lacuna teorica non viene nascosta dietro il monitoraggio della procedura.
 
+### ▣ Verifica
 
+**Quiz 1.** Per inquadrare correttamente diagnosi iniziale, qual è il primo controllo?
+
+**Risposta corretta:** individuare fonte, ambito e funzione del concetto prima di applicarlo. La sola etichetta non basta: nei quiz due opzioni possono usare parole simili ma riferirsi a istituti diversi.
+
+**Quiz 2.** priorità e ciclo 30 giorni possono essere trattati come sinonimi?
+
+**Risposta corretta:** no. Vanno distinti per presupposti, soggetti, funzione ed effetti; soltanto dopo si può verificare come interagiscono nel caso concreto.
+
+**Quiz 3.** Un esempio numerico o organizzativo contenuto nel capitolo prova che la stessa regola valga in ogni procedura?
+
+**Risposta corretta:** no. L'esempio serve a mostrare il metodo; soglie, termini, requisiti e assetti mobili si controllano sempre nella fonte vigente e nel bando applicabile.
+
+**Quiz 4.** Come si usa consolidamento in un caso pratico?
+
+**Risposta corretta:** si separano i fatti rilevanti, si individua la competenza, si ricostruisce il percorso procedurale e si motiva l'esito. Una risposta solo definitoria non dimostra capacità applicativa.
+
+**Quiz 5.** Quando è corretto richiamare il nucleo comune del VOL-01?
+
+**Risposta corretta:** quando la disciplina generale è già spiegata nel manuale base. Il richiamo non sostituisce però il delta specialistico su simulazione, che deve essere compreso e applicato nel contesto EPNE.
+
+**Quiz 6.** Quale controllo finale riduce gli errori su diario errori?
+
+**Risposta corretta:** confrontare la risposta con testo della domanda, fonte pertinente e conseguenza operativa. Se uno dei tre elementi non coincide, la soluzione va riesaminata.
+
+### Caso ragionato di chiusura
+
+Una candidata riconosce il tema generale, ma sceglie l'opzione che ripete una definizione astratta senza considerare il soggetto competente e il dato specifico del bando. La soluzione corretta è ricostruire il perimetro della domanda, distinguere regola stabile e dato mobile, quindi verificare quale conseguenza produce nel caso. Il metodo evita sia la risposta mnemonica sia l'uso improprio di un esempio come regola universale.

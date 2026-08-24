@@ -44,3 +44,147 @@ tags: ["coverage-matrix", "module-code-m-ir04", "pipeline-step-07"]
 - Bassa priorita': aggiornare esempi, repertori e riferimenti giurisprudenziali al text freeze.
 
 Il modulo non e' pubblicabile: redazione, verifica normativa e revisione sono ancora richieste.
+
+## Evidenza di copertura - capitolo 01
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-01-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 01 |
+| N-IR04-01-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 02 |
+| N-IR04-01-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 03 |
+| N-IR04-01-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 04 |
+| N-IR04-01-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 05 e verifica finale |
+
+Delta di redazione: la riga "MiC e profili" e' ora coperta dal capitolo 01 con cinque nuclei, tre casi e sette quiz commentati. Restano da redigere e verificare i capitoli 02-13.
+
+## Evidenza di copertura - capitolo 02
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-02-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e applicazione del nucleo 01 |
+| N-IR04-02-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e caso del nucleo 02 |
+| N-IR04-02-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e domanda del nucleo 03 |
+| N-IR04-02-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e caso del nucleo 04 |
+| N-IR04-02-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading, caso ragionato e verifica del nucleo 05 |
+
+Delta di redazione: la riga "Organizzazione" e' ora coperta dal capitolo 02 con cinque nuclei, tre casi e sette quiz commentati. Restano da redigere e verificare i capitoli 03-13.
+
+## Evidenza di copertura - capitolo 03
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-03-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e box del nucleo 01 |
+| N-IR04-03-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e classificazioni del nucleo 02 |
+| N-IR04-03-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e caso del nucleo 03 |
+| N-IR04-03-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e caso del nucleo 04 |
+| N-IR04-03-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading, caso e verifica del nucleo 05 |
+
+Delta di redazione: la riga "Codice dei beni culturali" e' ora coperta dal capitolo 03 con cinque nuclei, due casi e sette quiz commentati. Restano da redigere e verificare i capitoli 04-13.
+
+## Evidenza di copertura - capitolo 05
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-05-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 01: sequenza bene, istruttoria, provvedimento ed effetti |
+| N-IR04-05-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 02: verifica, soggetti ed esito del procedimento |
+| N-IR04-05-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 03: dichiarazione, motivazione e regime conseguente |
+| N-IR04-05-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 04: vincoli, autorizzazioni e controllo preventivo |
+| N-IR04-05-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 05, caso guidato e verifica finale |
+
+Delta di redazione: la riga "Procedimenti" è coperta dal capitolo 05 con cinque nuclei, un caso guidato e sette quiz commentati.
+
+## Evidenza di copertura - capitolo 06
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-06-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 01: catalogazione, inventariazione e gestione |
+| N-IR04-06-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 02: dati descrittivi, contesto e qualità |
+| N-IR04-06-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 03: standard, schede e vocabolari |
+| N-IR04-06-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 04: processo di digitalizzazione e controlli |
+| N-IR04-06-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 05, caso guidato e verifica finale |
+
+Delta di redazione: la riga "Catalogazione" è coperta dal capitolo 06 con cinque nuclei, un caso ragionato e sette quiz commentati.
+
+## Evidenza di copertura - capitolo 07
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-07-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | archivio, documento e distinzioni di base |
+| N-IR04-07-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ciclo di vita documentale e fasi |
+| N-IR04-07-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ordinamento, descrizione e strumenti di ricerca |
+| N-IR04-07-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | provenienza e rispetto dei fondi |
+| N-IR04-07-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | tutela, caso guidato e verifica finale |
+
+Delta di redazione: la riga "Archivi" è coperta dal capitolo 07 con cinque nuclei, casi guidati e sette quiz commentati.
+
+## Evidenza di copertura - capitolo 08
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-08-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | biblioteca e servizio |
+| N-IR04-08-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | catalogo e accesso |
+| N-IR04-08-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | raccolte e gestione |
+| N-IR04-08-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | servizi al pubblico |
+| N-IR04-08-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | reference, inclusione e verifica |
+
+Delta di redazione: la riga "Biblioteche" è coperta dal capitolo 08 con cinque nuclei, un caso ragionato e sette quiz commentati.
+
+## Evidenza di copertura - capitolo 09
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-09-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | archeologia e territorio |
+| N-IR04-09-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | rinvenimenti e cautele |
+| N-IR04-09-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | tutela territoriale |
+| N-IR04-09-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | archeologia preventiva |
+| N-IR04-09-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | caso e verifica finale |
+
+Delta di redazione: la riga "Archeologia" è coperta dal capitolo 09 con cinque nuclei, un caso ragionato e sette quiz commentati.
+
+## Evidenza di copertura - capitolo 10
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-10-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | lettura dell'opera |
+| N-IR04-10-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | museo e collezione |
+| N-IR04-10-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | allestimento e mediazione |
+| N-IR04-10-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | conservazione e cura |
+| N-IR04-10-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | fruizione e verifica |
+
+Delta di redazione: la riga "Museologia" è coperta dal capitolo 10 con cinque nuclei, due casi e otto quiz commentati.
+
+## Evidenza di copertura - capitolo 11
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-11-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | conservazione e responsabilità |
+| N-IR04-11-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | prevenzione e rischio |
+| N-IR04-11-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | restauro e limiti |
+| N-IR04-11-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | documentazione e tracciabilità |
+| N-IR04-11-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | decisione e verifica |
+
+Delta di redazione: la riga "Restauro" è coperta dal capitolo 11 con cinque nuclei, un caso e sette quiz commentati.
+
+## Evidenza di copertura - capitolo 12
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-12-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | architettura e contesto |
+| N-IR04-12-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | paesaggio e interesse pubblico |
+| N-IR04-12-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | trasformazioni e compatibilità |
+| N-IR04-12-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | cantieri e ruoli |
+| N-IR04-12-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | decisione e verifica |
+
+Delta di redazione: la riga "Architettura e paesaggio" è coperta dal capitolo 12 con cinque nuclei, un caso e sette quiz commentati.
+
+## Evidenza di copertura - capitolo 13
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N-IR04-13-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | fruizione come servizio pubblico |
+| N-IR04-13-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | vigilanza e presidio |
+| N-IR04-13-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | sicurezza organizzativa |
+| N-IR04-13-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | accessibilita e comunicazione |
+| N-IR04-13-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | flussi, caso e verifica |
+
+Delta di redazione: la riga "Fruizione, vigilanza e sicurezza" è coperta dal capitolo 13 con cinque nuclei, un caso ragionato e sette quiz commentati.

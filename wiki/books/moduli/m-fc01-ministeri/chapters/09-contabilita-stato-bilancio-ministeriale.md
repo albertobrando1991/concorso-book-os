@@ -3,20 +3,20 @@ id: chapter-m-fc01-09-contabilita-stato-bilancio-ministeriale
 type: book_chapter
 format_version: 2
 title: "Contabilità dello Stato e bilancio ministeriale"
-status: draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["contabilità pubblica", "bilancio dello Stato", "ministeri"]
 entities: ["MEF", "Ragioneria generale dello Stato", "Ministeri"]
 source_refs: ["sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica.md", "sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md", "sources/contabilita-generale-stato-e-bilancio-stato.md", "sources/corte-conti-controlli-responsabilita-agenti-contabili.md", "sources/rgs-conto-annuale-funzioni-centrali.md"]
 book_refs: ["m-fc01-ministeri"]
 confidence: 0.88
-updated_at: 2026-08-05T22:00:00+02:00
-review_required: true
+updated_at: 2026-08-22T14:30:00+02:00
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "full-draft"]
 book_id: m-fc01-ministeri
 outline_section: 9
-draft_stage: full-draft
+draft_stage: text_frozen
 module_code: M-FC01
 module_family: funzioni-centrali
 dati_operativi: []

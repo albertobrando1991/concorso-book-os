@@ -69,6 +69,44 @@ describe("book preview assets", () => {
     }
   })
 
+  it('keeps a complete chapter when ordinary prose contains the words da sviluppare', async () => {
+    const root = await mkdtemp(path.join(os.tmpdir(), 'book-preview-complete-prose-'))
+
+    try {
+      await mkdir(path.join(root, 'books/il-metodo-bando/chapters'), { recursive: true })
+      await writeFile(
+        path.join(root, 'books/il-metodo-bando/index.md'),
+        '---\ntitle: Il Metodo BANDO\n---\n# Il Metodo BANDO',
+        'utf8'
+      )
+      await writeFile(
+        path.join(root, 'books/il-metodo-bando/chapters/progetto-completo.md'),
+        [
+          '---',
+          'title: Progetto completo',
+          'outline_section: 1',
+          '---',
+          '# Progetto completo',
+          '',
+          'Questo capitolo completo spiega quali elaborati sono da sviluppare e come controllarli nel procedimento tecnico.',
+          '',
+          '## N-TR03-01-01 · Percorso operativo',
+          '',
+          'Il percorso collega bisogno, requisiti, progetto, verifica e decisione finale con evidenze leggibili.'
+        ].join('\n'),
+        'utf8'
+      )
+
+      const data = await buildBookStudioData(new FileWikiStore(root), 'il-metodo-bando')
+
+      expect(data.chapters[0].contentState).toBe('draft')
+      expect(data.chapters[0].blocks.some((block) => block.nucleusId === 'N-TR03-01-01')).toBe(true)
+      expect(JSON.stringify(data.chapters[0].blocks)).not.toContain('Capitolo in preparazione')
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  })
+
   it("serves raw uploaded assets and editorial book assets only", () => {
     expect(normalizeAssetPath("raw/assets/books/il-metodo-bando/schema.png")).toBe(
       "raw/assets/books/il-metodo-bando/schema.png"

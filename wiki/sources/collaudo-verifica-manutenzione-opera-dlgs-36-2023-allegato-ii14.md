@@ -9,14 +9,14 @@ entities: ["D.Lgs. 36/2023","Allegato II.14","Allegato I.7","D.P.R. 380/2001","R
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md","sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.94
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","vol-10","collaudo","regolare-esecuzione","manutenzione"]
 source_type: official_consolidated_text
 source_url: "https://www.normattiva.it/eli/id/2023/03/31/23G00044/CONSOLIDATED"
-source_date: "2026-07-30"
+source_date: 2026-08-21
 authority_level: alta
 ---
 
@@ -31,7 +31,7 @@ La scheda consolida i nuclei necessari al capitolo 9 di M-TR03:
 - D.P.R. 380/2001, art. 67, per il raccordo con il collaudo statico;
 - NTC vigenti, nei limiti già consolidati nella source note specialistica.
 
-Termini, soglie, sostituzioni e incompatibilità sono dati mobili. Devono essere ricontrollati sul testo vigente alla data del bando e prima della pubblicazione.
+Termini, soglie, sostituzioni e incompatibilità sono dati mobili. Il testo è stato ricontrollato il 21 agosto 2026; alla data del bando prevalgono sempre fonte vigente e disciplina del contratto.
 
 ## Claim consolidati
 
@@ -74,4 +74,3 @@ Termini, soglie, sostituzioni e incompatibilità sono dati mobili. Devono essere
 - Normattiva, [Allegato II.14, art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:29~art17!vig=).
 - Normattiva, [Allegato II.14, art. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36:29~art28!vig=).
 - Normattiva, [D.P.R. 380/2001 nel testo vigente](https://www.normattiva.it/eli/id/2001/10/20/001G0429/CONSOLIDATED).
-

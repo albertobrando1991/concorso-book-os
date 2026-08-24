@@ -198,3 +198,69 @@ Stato di copertura del piano: completo per assegnazione dei nuclei, fonti e outp
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
 |---|---|---|---|---|
 | N-TR04-11-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; collegata la fonte ufficiale specifica; documentati scenario, allertamento, fasi operative, IT-alert, gestione dell'emergenza e briefing senza sostituire la teoria con caso o quiz | completo verificato | sette nuclei oltre 600 parole, 5.800+ parole, caso guidato a due rami, Q:6, briefing operativo, frontmatter e riferimenti tracciabili |
+
+### Evidenze dimensionali — N-TR04-12-01
+
+| Dimensione | Esito | Evidenza nel capitolo 12 |
+|---|---|---|
+| Definizione | ✓ | `N-TR04-12-01`, `02`, `04` e `05`: mitigazione, adattamento, energia, potenza, efficienza, autoconsumo diffuso e CER |
+| Funzione | ✓ | `N-TR04-12-01`/`04`/`06`: governo degli obiettivi climatici, riduzione del fabbisogno e trasformazione delle priorità in piano attuabile |
+| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `01`/`03`/`05`: legge europea sul clima, governance UE, RED III, disciplina nazionale FER, TIAD e regole GSE |
+| Elementi | ✓ | `N-TR04-12-02`/`03`/`05`/`06`: profili, producibilità, titoli, tutele, rete, sostegno, partecipanti, baseline, indicatori, roadmap e rischi |
+| Distinzioni | ✓ | mitigazione/adattamento; kW/kWh; fonte/vettore; titolo/tutela/connessione/sostegno; energia prodotta, immessa, condivisa e incentivabile |
+| Conseguenze | ✓ | `N-TR04-12-03`/`04`/`05`/`06`: effetti istruttori dei regimi, qualità della baseline, requisiti della configurazione e condizioni di passaggio del piano |
+| Esempio/caso | ✓ | `N-TR04-12-07`: piano energia-clima di Rivasole sviluppato in otto passaggi con matrice operativa |
+| Uso nella prova | ✓ | `Mappa BANDO`, domande da commissario, domande-trappola, mini-esercizio, checklist istruttoria e risposta modello |
+| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sette nuclei |
+| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti a quattro opzioni e risposte commentate |
+| Tracciabilità | ✓ | Frontmatter con `source_refs`, `last_compiled_from` e dato operativo dichiarato; riferimenti UE, nazionali, ARERA e GSE leggibili nel corpo e in chiusura |
+
+### Delta step 10 — capitolo 12
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-TR04-12-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; documentate separazione tra obiettivi, misure e titoli, lettura dei dati energetici, efficienza, CER e pianificazione senza sostituire la teoria con caso o quiz | completo verificato | sette nuclei, oltre 6.100 parole, caso guidato, Q:6, piano energia-clima, frontmatter e riferimenti tracciabili |
+
+### Evidenze dimensionali — N-TR04-13-01
+
+| Dimensione | Esito | Evidenza nel capitolo 13 |
+|---|---|---|
+| Definizione | ✓ | `N-TR04-13-01`, `02`, `04` e `05`: sostenibilità della PA, tassonomia, DNSH, GPP, CAM, ciclo di vita, LCA e LCC |
+| Funzione | ✓ | `N-TR04-13-01`/`03`/`06`: distinzione degli strumenti, prevenzione del danno significativo e governo verificabile di requisiti ed evidenze |
+| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `02`/`03`/`04`: regolamento (UE) 2020/852, guida DNSH, D.Lgs. 36/2023, PAN GPP e CAM pertinenti |
+| Elementi | ✓ | `N-TR04-13-02`/`03`/`04`/`06`: sei obiettivi ambientali, fasi ex ante/in itinere/ex post, criteri, mezzi di prova, responsabili, esiti e azioni correttive |
+| Distinzioni | ✓ | contributo sostanziale/DNSH; tassonomia/DNSH; DNSH/CAM; specifica/clausola/criterio premiante; ciclo di vita/LCA/LCC; requisito/evidenza/risultato |
+| Conseguenze | ✓ | `N-TR04-13-03`/`04`/`06`: riapertura delle verifiche in caso di variante, gestione delle non conformità, controlli e aggiornamento del fascicolo |
+| Esempio/caso | ✓ | `N-TR04-13-07` e caso ragionato finale: palestra di Rivasole con variante, rifiuti, materiali e matrice delle evidenze |
+| Uso nella prova | ✓ | `Mappa BANDO`, domanda da commissario, domande-trappola, mini-esercizi, checklist e matrice operativa |
+| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sette nuclei |
+| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti a quattro opzioni, risposte commentate e caso ragionato |
+| Tracciabilità | ✓ | Frontmatter con `source_refs`, `last_compiled_from` e dati operativi; riferimenti UE, RGS, Codice dei contratti e MASE leggibili nel corpo e in chiusura |
+
+### Delta step 10 — capitolo 13
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-TR04-13-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; documentati tassonomia, DNSH, CAM, ciclo di vita e catena delle evidenze, con confini espliciti rispetto a procurement e progettazione specialistica | completo verificato | sette nuclei, 6.699 parole, caso guidato con variante, Q:6, matrice delle evidenze, frontmatter e riferimenti tracciabili |
+
+### Evidenze dimensionali — N-TR04-14-01
+
+| Dimensione | Esito | Evidenza nel capitolo 14 |
+|---|---|---|
+| Definizione | ✓ | `N-TR04-14-01`/`02`: protocollo di soluzione, consegna, output, vincoli, tesi iniziale, densità e revisione finale |
+| Funzione | ✓ | `N-TR04-14-01`/`07`: trasformare conoscenze specialistiche in prestazione valutabile e usare la correzione per il trasferimento tra aree |
+| Inquadramento | ✓ | `Spiegazione teorica` e riferimenti finali: raccordo metodologico con il Metodo BANDO e quadro specialistico dei capitoli 02-13 |
+| Elementi | ✓ | `N-TR04-14-01`/`03`/`05`/`07`: verbo, destinatario, fatti, dati mancanti, competenza, procedimento, evidenze, decisione, controllo, griglia e diario degli errori |
+| Distinzioni | ✓ | fatto/prova/regola/decisione/controllo; definizione/elenco/applicazione; allerta/fase operativa; obiettivo/misura/indicatore; requisito/evidenza/esito |
+| Conseguenze | ✓ | Le dieci simulazioni mostrano come omissioni, dati mancanti, qualificazioni e vincoli cambiano struttura, decisione e punteggio della risposta |
+| Esempio/caso | ✓ | `Simulazione 1`-`10`: due quesiti sintetici, sette casi settoriali e una prova integrata; caso ragionato ulteriore nella verifica |
+| Uso nella prova | ✓ | Limiti di righe e tempo, tracce di soluzione, risposte modello, griglie di correzione ed errori da registrare |
+| Errore tipico | ✓ | Richiami nei nuclei e nelle simulazioni, con registrazione dell'errore e controllo finale |
+| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti a quattro opzioni, risposte commentate e caso ragionato ulteriore |
+| Tracciabilità | ✓ | Frontmatter con `source_refs` e `last_compiled_from`; riferimenti normativi e rinvii pubblicabili ai capitoli specialistici leggibili nel corpo |
+
+### Delta step 10 — capitolo 14
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-TR04-14-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; documentata la progressione dal protocollo alla prova integrata e alla correzione, senza usare simulazioni e quiz come sostituti del metodo | completo verificato | sette nuclei, 5.927 parole, dieci simulazioni, Q:6, caso ragionato ulteriore, griglie, frontmatter e riferimenti tracciabili |

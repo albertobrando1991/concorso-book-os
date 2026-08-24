@@ -2,16 +2,16 @@
 id: source-aran-ccnl-funzioni-centrali-pcm-2022-2026
 type: source
 title: "ARAN - CCNL Funzioni Centrali e Presidenza del Consiglio"
-status: processed
+status: consolidated
 domain: "concorsi pubblici italiani"
 topics: ["ccnl","funzioni centrali","presidenza del consiglio","profili professionali","pubblico impiego"]
 entities: ["ARAN","Funzioni Centrali","Presidenza del Consiglio dei ministri","Dipendente pubblico"]
 source_refs: ["sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md","sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md"]
-book_refs: ["m-fc01-ministeri","il-metodo-bando"]
+book_refs: ["m-fc01-ministeri","m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.92
-updated_at: 2026-06-27T22:08:22+02:00
+updated_at: 2026-08-22T14:00:00+02:00
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","official-web","aran","ccnl","module-code-m-fc01"]
 source_type: official_contracts
@@ -41,12 +41,13 @@ Le fonti ARAN raccolte coprono il quadro contrattuale utile per M-FC01:
 - Area Funzioni Centrali, triennio 2022-2024, sottoscritto il 28 ottobre 2025.
 - Comparto autonomo Presidenza del Consiglio dei ministri, triennio 2019-2021, sottoscritto il 28 ottobre 2025.
 - Area Presidenza del Consiglio dei ministri, triennio 2019-2021, sottoscritto il 27 febbraio 2026.
+- Ipotesi di CCNL Comparto Funzioni Centrali 2025-2027, sottoscritta il 9 giugno 2026: alla data del 22 agosto 2026 non va confusa con un contratto definitivo.
 
 ## Nuclei da usare
 
 - Il bando deve sempre prevalere sulla denominazione generica del modulo: area, famiglia professionale, mansione e amministrazione concreta definiscono il piano di studio.
-- Il CCNL serve a capire profili, ordinamento professionale, istituti del rapporto di lavoro, responsabilita disciplinare e contesto organizzativo.
-- Nei capitoli non entrare in dettaglio economico se non necessario: per trattamento, indennita, progressioni e istituti specifici rinviare al CCNL applicabile.
+- Il CCNL serve a capire profili, ordinamento professionale, istituti del rapporto di lavoro, responsabilità disciplinare e contesto organizzativo.
+- Nei capitoli non entrare in dettaglio economico se non necessario: per trattamento, indennità, progressioni e istituti specifici consultare il CCNL definitivamente applicabile alla data del bando.
 - Distinguere Funzioni Centrali ordinarie da Presidenza del Consiglio, che ha comparto/area autonomi.
 
 ## Capitoli collegati
@@ -57,5 +58,4 @@ Le fonti ARAN raccolte coprono il quadro contrattuale utile per M-FC01:
 
 ## Stato revisione
 
-Fonte pronta per pianificazione e scrittura. Review necessaria per citazioni puntuali di articoli contrattuali e per qualsiasi dettaglio retributivo o disciplinare.
-
+Fonte consolidata al 22 agosto 2026. Le citazioni puntuali di articoli, i dettagli retributivi e gli istituti disciplinari devono essere ricavati dal testo contrattuale definitivamente applicabile alla data del bando; l'ipotesi 2025-2027 resta distinta dal CCNL definitivo 2022-2024.

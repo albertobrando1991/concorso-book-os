@@ -2,7 +2,7 @@
 id: chapter-m-fc02-adempimenti-fiscali-redditi-iva-dichiarazioni
 type: book_chapter
 title: "Adempimenti fiscali: redditi, IVA, dichiarazioni"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["adempimenti fiscali","IRPEF","IRES","categorie reddituali","reddito d'impresa","iva","dichiarazioni fiscali","versamenti"]
 entities: ["Agenzia delle Entrate"]
@@ -15,14 +15,14 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/05-servizi-compliance-controllo.png"
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft"]
+tags: ["book-chapter","module-code-m-fc02","text-frozen","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 6
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

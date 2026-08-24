@@ -1,20 +1,27 @@
-# VOL-01 — Candidato PDF di recupero
+# VOL-01 — Candidato di consegna
 
-Questo pacchetto contiene il candidato cartaceo di **Il Metodo BANDO** rigenerato dal Book Studio corrente dopo il riscontro di un errore nell'export legacy.
+**Stato:** candidato tecnico ed editoriale, in attesa della conferma umana dello step 24. Non è approvato, caricato o pubblicato.
 
-## Identità
+## Identificazione
 
-- Versione: `VOL-01-pdf-recovery-2026.08.21.1`
-- Formato: paperback KDP 6,69 × 9,61 in, bianco e nero, senza bleed
-- Pagine: 593
-- Stato: candidato tecnico per proof KDP; non approvato, non pubblicato
+- Titolo: Il Metodo BANDO.
+- Modulo: M-PA01.
+- Versione candidata: VOL-01-candidate-2026.08.22.1.
+- Cut-off normativo/editoriale: 21 agosto 2026.
+- Contenuto: 6 front matter, 32 sezioni editoriali, 152 immagini, 592 pagine.
 
-## Contenuto
+## Contenuto del pacchetto
 
-- `vol-01-interior-kdp.pdf` — interno normalizzato con trim esatto e metadati editoriali.
-- `PREFLIGHT.md` — evidenze tecniche del recupero.
-- `LIMITS.md` — verifiche e gate ancora aperti.
-- `VERSION.json` — identificativo strutturato della versione.
-- `MANIFEST.sha256` — hash di integrità del pacchetto.
+- vol-01-interior-kdp.pdf: interno paperback KDP 6,69 × 9,61 in;
+- VERSION.json: identificazione e stato della candidata;
+- PREFLIGHT.md: evidenze tecniche dello step 22;
+- REPORT-PUBBLICABILITA.md: esito della revisione editoriale;
+- CHANGELOG.md: modifiche incluse;
+- LIMITS.md: limiti e attività non dichiarate come concluse;
+- MAINTENANCE.md: ciclo di aggiornamento futuro;
+- KDP-UPLOAD-CHECKLIST.md: controlli da eseguire nel canale di pubblicazione;
+- MANIFEST.sha256: impronte di integrità del pacchetto.
 
-Il PDF legacy in `output/pdf/vol-01-il-metodo-bando-layout-corretto.pdf` non è stato modificato. Non usarlo per la pubblicazione: chiude con quattro pagine duplicate dell'introduzione.
+## Consegna allo staff
+
+Lo staff umano deve eseguire lo step 24 prima di qualunque pubblicazione. Deve inoltre confermare metadati commerciali, ISBN, diritti, prezzo, copertina e controllo nel KDP Previewer dopo il caricamento.

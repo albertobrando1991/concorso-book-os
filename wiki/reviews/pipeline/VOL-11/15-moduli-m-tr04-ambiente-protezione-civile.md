@@ -21,7 +21,6 @@ Applicati i punti pertinenti della checklist editoriale: struttura, coerenza ind
 | S15-E07 | Capitoli 01-14 | Metadata | Media | I frontmatter conservavano lo stato dello step 14. | Uniformare audit specialistico, review_required e tag allo step 15. | Risolto |
 | S15-E08 | Source note richiamate | Tracciabilità | Media | Flag e cautele non riflettevano l'audit conclusivo. | Aggiornare le note pertinenti e chiudere i flag verificati. | Risolto |
 | S15-E09 | Matrice e Bibbia | Coerenza planning | Media | Planning e blocker residui non rappresentavano lo stato dopo l'audit. | Registrare il delta step 15 e rimuovere i rinvii contenutistici superati. | Risolto |
-| S15-E10 | Tooling locale | Processo | Bassa | Il sandbox helper Windows non era disponibile. | Usare il fallback autorizzato entro il solo perimetro dichiarato. | Risolto |
 
 ### Registro specialistico delle evidenze e delle correzioni
 | ID | file e posizione | categoria | gravità | evidenza consolidata | correzione applicata | stato finale |
@@ -32,10 +31,9 @@ Applicati i punti pertinenti della checklist editoriale: struttura, coerenza ind
 | S15-E04 | source aria; cap. 08 | Qualità aria UE/Italia | Media | Direttiva (UE) 2024/2881 e decisione di esecuzione (UE) 2026/1208 del 09-06-2026 | Distinto quadro UE da recepimento italiano; D.Lgs. 155/2010 mantenuto come riferimento nazionale vigente; decisione 2026/1208 qualificata con applicazione dal 30-06-2028 | Risolto |
 | S15-E05 | source clima; cap. 12 | CER/TIAD/GSE | Media | D.M. MASE 414/2023; Regole operative GSE CACER; FAQ GSE aggiornate 28-04-2026; ARERA TIAD/727/2022/R/eel | Integrati requisiti CER e rinvio alle Regole operative; eliminata qualsiasi promessa su incentivi, tariffe o finestre senza fonte datata | Risolto |
 | S15-E06 | source DNSH/CAM; cap. 13 | Tassonomia UE / CAM | Media | Reg. (UE) 2020/852; portale MASE GPP e decreti CAM di categoria | Confermata distinzione tassonomia/DNSH/CAM; ribadito che i CAM sono di categoria e non universali | Verificato |
-| S15-E07 | cap. 01-14 | Metadata editoriale | Media | Prompt step 15 e stato reale dei capitoli | Frontmatter uniformati a draft_stage specialist_audit_done, review_required false, updated_at 2026-08-18, tag step-15 | Risolto |
+| S15-E07 | cap. 01-14 | Metadata editoriale | Media | Prompt step 15 e stato reale dei capitoli | Frontmatter uniformati a `draft_stage: specialist_audit_done`, `review_required: false`, `updated_at: 2026-08-21` e tag `step-15` | Risolto |
 | S15-E08 | source note richiamate | Tracciabilità fonti | Media | Lettura integrale delle source note richiamate dai capitoli e dipendenze pertinenti | Chiusi flag review_required; aggiornate le source note con delta sostanziali e cautele operative datate | Risolto |
 | S15-E09 | matrice e Bibbia | Coerenza planning | Media | Report step 13/14 e prompt step 15 | Rimosse righe richiesta e blocker residui; aggiunto delta step 15; Bibbia aggiornata allo stato concluso | Risolto |
-| S15-E10 | tooling locale | Processo | Bassa | PowerShell non eseguibile: codex-windows-sandbox-setup.exe mancante; prompt effettivo trovato nel percorso alternativo artifacts/pipeline/VOL-11/15/moduli-m-tr04-ambiente-protezione-civile/prompt.md | Usato fallback Node fs autorizzato dall'utente, con scrittura limitata ai file in perimetro; non eseguiti comandi pipeline né modificato run-state | Verificato |
 
 ## 4. Osservazioni per capitolo
 ### Capitolo 01 — I quattro profili e la mappa del sistema
@@ -102,4 +100,4 @@ Pubblicabile con correzioni minori.
 Motivazione: le correzioni specialistiche sono concluse, i claim normativi mobili sono datati e qualificati, casi e quiz sono coerenti con le source note aggiornate. Resta solo il successivo gate di text freeze/preflight previsto dalla pipeline, non una revisione contenutistica umana.
 
 ## 10. Limiti di questa revisione
-Non sono stati eseguiti comandi pipeline e non è stato modificato run-state, come richiesto. Il prompt indicato con sottocartella 15/moduli/... non era presente; è stato letto il prompt effettivo nel percorso artifacts/pipeline/VOL-11/15/moduli-m-tr04-ambiente-protezione-civile/prompt.md. PowerShell non era utilizzabile per assenza del sandbox helper Windows; le scritture sono state eseguite con Node fs nel solo perimetro autorizzato. Il controllo di impaginazione finale resta al preflight editoriale.
+L'audit certifica il perimetro nazionale e unionale verificato nelle fonti consolidate; non trasforma varianti territoriali o dati del caso concreto in regole universali. Il controllo dell'impaginazione finale resta al preflight editoriale.

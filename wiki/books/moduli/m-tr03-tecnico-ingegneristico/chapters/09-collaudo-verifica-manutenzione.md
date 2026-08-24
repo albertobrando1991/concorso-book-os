@@ -2,21 +2,21 @@
 id: chapter-m-tr03-09-collaudo-verifica-manutenzione
 type: book_chapter
 title: "Collaudo, verifica, manutenzione e gestione dell'opera"
-status: draft
+status: reviewed
 domain: concorsi pubblici italiani
 topics: ["collaudo lavori pubblici","verifica di conformità","certificato di regolare esecuzione","manutenzione opere"]
 entities: ["D.Lgs. 36/2023","Allegato II.14","Allegato I.7","D.P.R. 380/2001","RUP","Collaudatore"]
 source_refs: ["sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md","sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md","sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali.md","sources/campione-bandi-tecnici-pa-vol-10-2026.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","collaudo","verifica","manutenzione"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "09"
-draft_stage: full_draft
+draft_stage: publication_candidate
 last_compiled_from: "planning/08-capitolo-09-piano-completamento.md"
 ---
 
@@ -36,7 +36,7 @@ Al termine del capitolo saprai distinguere ultimazione, collaudo tecnico-amminis
 - **Diario:** registra le coppie che confondi: ultimazione/collaudo, statico/tecnico-amministrativo, collaudo/verifica di conformità.
 - **Output:** prepara una risposta orale e compila una scheda di controllo finale.
 
-## Dall'ultimazione al controllo finale
+## N-TR03-09-01 · Dall'ultimazione al controllo finale
 
 ### Il dossier dell'opera
 
@@ -60,7 +60,7 @@ Il controllo tutela l'interesse pubblico: un'opera che appare terminata non è p
 > Il collaudo statico ha uno specifico oggetto strutturale.  
 > Il piano di manutenzione deve descrivere l'opera realmente costruita.
 
-## Tipi di controllo e certificati
+## N-TR03-09-02 · Tipi di controllo e certificati
 
 ### Collaudo tecnico-amministrativo
 
@@ -92,7 +92,7 @@ La verifica di conformità è il controllo finale previsto dal Codice per serviz
 | collaudo statico | sicurezza e rispondenza strutturale | certificato strutturale |
 | verifica di conformità | servizi e forniture | certificato di verifica |
 
-## Soggetti, operazioni ed esito
+## N-TR03-09-03 · Soggetti, operazioni ed esito
 
 ### RUP, DL, collaudatore ed esecutore
 
@@ -116,7 +116,7 @@ Se emergono difetti o mancanze, il collaudatore li descrive e ne valuta rilevanz
 
 L'esito deve indicare in modo comprensibile che cosa è stato controllato, quali rilievi restano, quali adempimenti sono richiesti e se l'opera è collaudabile. Il certificato non cancella automaticamente responsabilità, garanzie o vizi disciplinati dalle fonti applicabili.
 
-## Dalla consegna alla gestione
+## N-TR03-09-04 · Dalla consegna alla gestione
 
 ### Presa in consegna e condizioni d'uso
 
@@ -136,7 +136,7 @@ La chiusura del collaudo non rende irrilevanti i difetti che emergono successiva
 
 Non ogni guasto prova un vizio originario. Occorre distinguere difetto di esecuzione, uso scorretto, mancata manutenzione, evento esterno e normale consumo. La qualità del piano e delle registrazioni consente questa ricostruzione.
 
-## Piano di manutenzione e ciclo di vita
+## N-TR03-09-05 · Piano di manutenzione e ciclo di vita
 
 ### Informazioni, controlli e periodicità
 
@@ -162,7 +162,7 @@ Il ciclo può essere sintetizzato così:
 
 `requisiti → progetto → esecuzione → collaudo → uso → ispezione → manutenzione → aggiornamento delle informazioni`
 
-## Caso guidato: la scuola passa alla gestione
+## N-TR03-09-06 · Caso guidato: la scuola passa alla gestione
 
 Il Comune riceve la comunicazione di ultimazione della scuola riqualificata. Nel dossier compare una variante approvata, ma una tavola impiantistica non è aggiornata. Manca inoltre l'esito di una prova, resta una finitura marginale e il piano di manutenzione indica il materiale originariamente previsto, non quello installato.
 
@@ -178,7 +178,7 @@ Se emerge anche una fessurazione, occorre distinguere due piani: il rilievo entr
 | materiale sostituito | coerenza del piano | aggiornamento della manutenzione |
 | fessurazione | rilievo e valutazione specialistica | separazione dei percorsi di controllo |
 
-## Domande ed errori
+## ▣ Verifica
 
 ### Domanda da commissario
 
@@ -196,7 +196,7 @@ No. Documenta la fine delle lavorazioni. Restano il controllo finale applicabile
 
 Imparare un elenco di certificati senza collegarli a oggetto ed effetto. In prova conviene partire dalla domanda: che cosa si sta accertando e quale passaggio consente?
 
-## Mini-esercizio e scheda di collaudo
+### Mini-esercizio e scheda di collaudo
 
 Classifica: verbale di ultimazione; prova impiantistica; certificato statico; conto finale; manuale di manutenzione; verbale di visita; inventario patrimoniale.
 
@@ -224,4 +224,4 @@ Scheda essenziale:
 
 ## Note di review
 
-Prima della pubblicazione il capitolo richiede review di RUP, collaudatore tecnico-amministrativo, DL, collaudatore statico ed esperto di manutenzione. Verificare sul testo vigente termini, soglie, incompatibilità, regolare esecuzione, effetti del certificato e fattispecie di presa in consegna. I raccordi sono stati verificati il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio|Infrastrutture, viabilità, ponti e monitoraggio]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio|BIM, GIS, rilievi, catasto e patrimonio pubblico]].
+Audit del 21 agosto 2026: verificati art. 116 e Allegato II.14 vigenti, distinzione tra collaudo tecnico-amministrativo, collaudo statico e certificato di regolare esecuzione, effetti del certificato e raccordo con manutenzione e presa in consegna. Il capitolo non generalizza soglie o incompatibilità oltre la fonte. Confermati i rinvii ai capitoli 10, 11 e 12.

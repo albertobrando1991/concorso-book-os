@@ -2,20 +2,20 @@
 id: chapter-m-ir02-universita-afam-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale - M-IR02 Universita e AFAM"
-status: structure
+status: editorial_review
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","istruzione-ricerca","metodo bando"]
 entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["m-ir02-universita-afam","il-metodo-bando"]
 confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+updated_at: 2026-08-22
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-ir02"]
 book_id: m-ir02-universita-afam
-draft_stage: structure-ready
+draft_stage: editorial-review
 module_code: M-IR02
 module_family: istruzione-ricerca
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-ir02-universita-afam/index.md"]
@@ -54,5 +54,5 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 - Topic pages gia presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
-## Testo editoriale
-Da sviluppare con Manual Writer Agent dopo consolidamento delle fonti specifiche.
+## Stato editoriale
+I dodici capitoli previsti sono redatti e hanno superato i gate individuali. Il modulo è nella revisione trasversale di fase D; restano audit specialistico delle fonti mobili, text freeze e preflight.

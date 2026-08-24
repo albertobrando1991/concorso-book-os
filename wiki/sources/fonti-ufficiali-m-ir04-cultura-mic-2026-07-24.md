@@ -9,7 +9,7 @@ entities: ["Ministero della cultura", "ICCD", "ICCU", "ICAR", "ICR"]
 source_refs: ["sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026"]
 book_refs: ["m-ir04-cultura-beni-culturali", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.8
-updated_at: 2026-07-29
+updated_at: 2026-08-23
 created_at: 2026-07-29
 review_required: true
 canonical: true
@@ -33,3 +33,9 @@ authority_level: alta
 ## Cautele
 
 CCNL, accordi MiC, procedure, programmi, standard e giurisprudenza specifica restano review-required. L'ipotesi CCNL Funzioni Centrali 2025-2027 non e' trattata come testo definitivo al cut-off. ICT specialistico, procurement avanzato e cantieri complessi restano rinvii rispettivamente a VOL-08, VOL-09 e VOL-10.
+
+## Verifica istituzionale del 23 agosto 2026
+
+Il portale istituzionale del Ministero della cultura continua a indicare il D.P.C.M. 15 marzo 2024, n. 57 e il D.M. 5 settembre 2024, n. 270 come riferimenti organizzativi. L'assetto comprende quattro dipartimenti, uffici centrali e periferici, istituti autonomi e uffici di diretta collaborazione; le competenze concrete vanno attribuite all'ufficio indicato dall'atto organizzativo vigente, non al solo nome del profilo.
+
+Il portale della trasparenza MiC descrive il concorso per 577 funzionari della famiglia tecnico-specialistica con quattro codici: architetto, bibliotecario, archivista e archeologo. Bando, allegati, comunicazioni e calendario restano mobili: nel capitolo sono quindi usati come esempi di famiglia professionale, mai come requisiti o calendario riproducibili senza verifica puntuale.

@@ -2,22 +2,22 @@
 id: chapter-m-fc02-catasto-cartografia-estimo-pubblicita-immobiliare
 type: book_chapter
 title: "Catasto, cartografia, estimo e pubblicita immobiliare"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["catasto", "cartografia", "estimo", "OMI", "pubblicita immobiliare"]
 entities: ["Agenzia delle Entrate", "Osservatorio del Mercato Immobiliare"]
 source_refs: ["sources/catasto-pubblicita-immobiliare-estimo-m-fc02.md", "sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md", "sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md"]
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.95
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
+tags: ["book-chapter", "module-code-m-fc02", "text-frozen", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 10
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 asset_refs: ["assets/chapter-10/01-mappa-bando-territorio-spi.png", "assets/chapter-10/02-sistema-catasto-cartografia-estimo-spi.png", "assets/chapter-10/03-identificativo-classamento-rendita.png", "assets/chapter-10/04-servizi-procedure-territorio.png", "assets/chapter-10/05-checklist-catasto-pubblicita-immobiliare.png"]

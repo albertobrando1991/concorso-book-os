@@ -1,257 +1,180 @@
 ---
 id: chapter-m-ir02-02-autonomia-statuti-organi
 type: book_chapter
+format_version: 2
 title: "Autonomia, statuti e organi"
-status: editorial_draft
+status: final
 domain: "istruzione superiore italiana e concorsi pubblici"
 topics: ["universita", "autonomia universitaria", "statuti", "organi di ateneo", "governance"]
 entities: ["Ministero dell'Universita e della Ricerca"]
 source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026"]
 book_refs: ["m-ir02-universita-afam", "il-metodo-bando", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.78
-updated_at: 2026-07-31
+updated_at: 2026-08-22
 created_at: 2026-07-31
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-ir02", "chapter-02", "autonomia-universitaria", "governance"]
 book_id: m-ir02-universita-afam
 outline_section: 2
-draft_stage: editorial-draft
+draft_stage: text_frozen
 last_compiled_from: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026", "topics/m-ir02-universita-afam-fonti-e-profili", "entities/ministero-universita-ricerca", "books/moduli/m-ir02-universita-afam/planning/03-piano-capitolo-02-autonomia-statuti-organi"]
 ---
 
 # Autonomia, statuti e organi
 
-## Apertura editoriale
+### N-IR02-02-01 · Autonomia universitaria: perimetro, funzione e limiti
 
-In una prova universitaria, conoscere il nome di un organo non basta. La commissione puo' chiedere chi decide, quale fonte attribuisce la competenza, quale struttura prepara l'istruttoria o perche' la soluzione adottata da un ateneo non vale automaticamente per un altro. Conviene partire da una domanda concreta: **dove trovo la regola applicabile?**
+Nei concorsi per università e istituzioni collegate, la parola "autonomia" non va trattata come una formula di apertura. È il criterio che spiega perché l'ateneo non è un semplice ufficio periferico, perché dispone di fonti interne proprie e perché una stessa domanda può richiedere risposte diverse a seconda dell'università indicata dal bando. L'autonomia consente all'istituzione universitaria di organizzare funzioni, organi, strutture, regolamenti e attività nel quadro dell'ordinamento nazionale. Non significa però autosufficienza assoluta, sovranità normativa o libertà di ignorare leggi, vincoli finanziari, regole sul personale, trasparenza, contratti, controlli e diritti degli utenti.
 
-L'autonomia consente alle universita' di definire il proprio assetto entro il quadro normativo. Proprio per questo il candidato deve tenere insieme due livelli. La disciplina nazionale offre le coordinate del sistema; statuto, regolamenti e atti organizzativi dell'ateneo precisano l'assetto concreto. Se si usa soltanto il primo livello, la risposta resta astratta. Se si usa soltanto il secondo, si rischia di trasformare una scelta locale in una regola universale. [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
+Il riferimento nazionale di base è dato dalla legge 9 maggio 1989, n. 168, che colloca l'università in un sistema dotato di autonomia, e dalla legge 30 dicembre 2010, n. 240, che ha inciso sulla governance universitaria, sugli organi e sull'organizzazione interna. Per il candidato non è necessario trasformare il capitolo in un commentario delle due leggi. Serve invece comprendere quale funzione svolgono: indicano il perimetro entro cui ogni ateneo disciplina se stesso attraverso statuto, regolamenti e atti organizzativi. Quando una traccia chiede di spiegare l'autonomia, la risposta deve quindi tenere insieme tre livelli: fonte nazionale, fonte interna e applicazione concreta.
 
-## Obiettivo del capitolo
+L'errore più frequente è ragionare per slogan. Dire che l'università è autonoma non risolve una questione di competenza, non individua l'organo competente, non stabilisce quale regolamento si applichi e non indica chi debba istruire una pratica. L'autonomia produce una conseguenza più esigente: prima di attribuire un potere bisogna verificare la fonte. Se il bando riguarda l'Università A, non è corretto usare lo statuto dell'Università B come se fosse una regola generale. Lo statuto di un ateneo può essere un buon esempio di metodo, ma non diventa la fonte applicabile a un'altra procedura.
 
-Al termine saprai:
+In prova, l'autonomia va spiegata come equilibrio. Da un lato, l'ateneo dispone di una sfera organizzativa propria: definisce il proprio assetto fondamentale, regola attività interne, distribuisce funzioni, articola strutture didattiche, scientifiche e amministrative. Dall'altro lato, questa sfera opera dentro fonti sovraordinate e dentro i limiti posti dall'ordinamento. La competenza locale non cancella la legge; la legge non sostituisce automaticamente il controllo dello statuto quando la domanda riguarda l'assetto concreto dell'ateneo.
 
-- spiegare la funzione dell'autonomia universitaria senza confonderla con indipendenza dall'ordinamento;
-- distinguere il quadro nazionale dalle fonti interne dell'ateneo;
-- collegare statuto, regolamenti, organi e strutture alla questione proposta;
-- ricostruire una competenza attraverso una sequenza verificabile;
-- impostare un caso di governance senza inventare attribuzioni locali.
+Una risposta solida può essere costruita con una sequenza breve. Primo: individua la materia, per esempio governance, didattica, carriere studenti, contabilità, ricerca, biblioteche o AFAM. Secondo: chiarisci il livello della fonte, distinguendo legge nazionale, statuto, regolamento e atto amministrativo interno. Terzo: spiega che l'autonomia serve a trasformare il quadro nazionale in organizzazione effettiva. Quarto: indica il limite, ciòè la necessità di rispettare competenze, procedimenti, controlli e fonti applicabili. Quinto: chiudi con l'output concorsuale richiesto, che può essere una definizione, una comparazione o una soluzione motivata di un caso.
 
-Il capitolo non riscrive il procedimento amministrativo, il pubblico impiego o la tecnica generale dei casi pratici, trattati nel VOL-01. Applica quei nuclei al contesto universitario. Per l'ordinamento e gli organi AFAM il riferimento specialistico e' il capitolo 11.
+Questo capitolo non duplica il diritto amministrativo generale. Non riscrive il procedimento, la responsabilità, il rapporto di lavoro pubblico o la distinzione tra indirizzo e gestione in astratto. Usa quei concetti solo dove servono per leggere l'ateneo come istituzione concreta. La domanda tipica non è "che cos'è un provvedimento?", ma "quale fonte universitaria devo aprire per capire chi adotta questa decisione?". Non è "che cos'è un ufficio pubblico?", ma "quale struttura dell'ateneo cura l'istruttoria e quale organo decide?". Non è "che cos'è la competenza?", ma "come dimostro la competenza in un assetto autonomo e variabile?".
 
-## Mappa BANDO
+La mappa da memorizzare è semplice: autonomia non è assenza di regole; è capacità regolata di organizzarsi. Lo statuto non è un allegato ornamentale; è la fonte interna fondamentale. I regolamenti non sono dettagli secondari; spesso contengono la disciplina operativa della materia. Gli organi non vanno elencati a memoria; vanno collegati a funzioni, atti e fonti. Le strutture non vanno confuse con i decisori; spesso preparano, gestiscono, supportano o eseguono. Il candidato che mantiene questi livelli separati evita la risposta generica e costruisce una soluzione credibile anche quando la traccia non fornisce tutti i dati locali.
 
-Quando il programma richiama legislazione universitaria, autonomia, statuto, regolamenti, organi oppure organizzazione, usa la sequenza BANDO.
+### N-IR02-02-02 · Quadro legale, statuto e regolamenti: la fonte giusta per la domanda giusta
 
-| Passaggio | Domanda operativa | Risultato |
-| --- | --- | --- |
-| **B - Bando** | Quale fonte, istituto o attivita' e' indicata nel programma? | perimetro della prova |
-| **A - Aree** | La questione riguarda autonomia, governance, organizzazione, didattica o gestione? | area corretta |
-| **N - Nuclei** | Quali fonte, funzione, organo o struttura devo distinguere? | mappa essenziale |
-| **D - Diario** | Quale competenza ho attribuito senza verificarla? | errore da correggere |
-| **O - Output** | Devo dare una definizione, confrontare fonti o risolvere un caso? | risposta adeguata |
+Il quadro legale nazionale fornisce le coordinate del sistema universitario, ma la prova specialistica chiede quasi sempre un passaggio ulteriore: riconoscere quando la risposta deve scendere allo statuto, ai regolamenti o agli atti dell'ateneo. La legge 168/1989 e la legge 240/2010 servono a collocare autonomia e governance; non bastano, da sole, per descrivere ogni assetto locale. Lo statuto e i regolamenti sono il punto in cui l'autonomia diventa organizzazione riconoscibile: organi, rapporti interni, strutture, procedimenti specifici, rinvii ad atti ulteriori e regole operative.
 
-Nel Bando Decoder annota anche gli allegati richiamati. Statuto, regolamenti e atti organizzativi possono essere decisivi per una domanda teorico-pratica. Il corpus dei bandi M-IR02 conferma che autonomia, organi e organizzazione sono un nucleo ricorrente; non dimostra, però, che ogni selezione richieda lo stesso livello di dettaglio o le medesime prove. [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]]
+Lo statuto è la fonte interna da aprire quando la domanda riguarda l'identità istituzionale dell'ateneo, i principi organizzativi, gli organi, le relazioni tra organi e l'assetto fondamentale. In un bando per personale tecnico-amministrativo può comparire come materia autonoma, oppure essere implicito in espressioni come "ordinamento universitario", "organizzazione dell'ateneo", "legislazione universitaria", "organi di governo" o "statuto e regolamenti". Il candidato deve leggerlo con un criterio funzionale, non come lista da recitare. Ogni disposizione va trasformata in una domanda: chi decide? con quale atto? su quale materia? dopo quale istruttoria? con quali limiti?
 
-## Autonomia universitaria: funzione e limiti
+I regolamenti hanno una funzione più ravvicinata. Possono disciplinare didattica, carriere, contabilità, accesso ai servizi, amministrazione, organizzazione delle strutture, funzionamento degli organi, procedimenti interni o altre materie. Non esiste una scorciatoia unica: la materia decide il regolamento da consultare. Se la questione riguarda un corso di studio, l'attenzione andrà verso l'ordinamento didattico e le regole di qualità; se riguarda una pratica studente, serviranno le fonti sulle carriere e sui servizi; se riguarda il bilancio, la fonte operativa sarà diversa; se riguarda una richiesta di accesso o un fascicolo digitale, il ragionamento si sposterà sugli atti, sul protocollo e sulla gestione documentale. In questo capitolo interessa il metodo trasversale: non usare una fonte solo perché è familiare, ma perché è pertinente alla questione.
 
-### Che cosa consente l'autonomia
+La sequenza operativa è: legge, statuto, regolamento, atto applicativo. Non è però una gerarchia meccanica da citare sempre per intero. È una pista di ricerca. Una domanda orale generale sull'autonomia può fermarsi alla legge e allo statuto; un caso pratico può richiedere regolamento, organigramma, decreto, delibera, avviso o allegato del bando. Una domanda a quiz può verificare se il candidato distingue fonte nazionale e fonte locale. Una traccia breve può chiedere di spiegare perché non sia prudente attribuire una competenza senza lo statuto dell'ateneo interessato.
 
-L'autonomia universitaria permette all'ateneo di organizzare le proprie funzioni attraverso statuto, regolamenti e scelte interne, nel rispetto del quadro normativo. La L. 168/1989 e la L. 240/2010 costituiscono i riferimenti nazionali consolidati per il nucleo affrontato in questo capitolo. [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
+Per lavorare bene, usa una griglia a cinque caselle: questione, fonte nazionale, fonte interna, soggetto competente, output. Nella casella "questione" scrivi il problema concreto, non una parola generica. Nella casella "fonte nazionale" inserisci la norma di cornice quando serve. Nella casella "fonte interna" annota statuto, regolamento o atto da verificare. Nella casella "soggetto competente" non scrivere il primo organo che ricordi: indica "da verificare nello statuto" o "da verificare nel regolamento" se il dato non è presente. Nella casella "output" stabilisci se devi produrre una risposta teorica, una motivazione, una matrice, una proposta istruttoria o una soluzione di caso.
 
-Per il candidato, il punto non e' recitare una formula generale, ma comprenderne l'effetto. Due atenei appartengono allo stesso sistema e operano entro fonti nazionali comuni; possono tuttavia presentare assetti, denominazioni, articolazioni e procedure interne da controllare nei rispettivi atti. L'autonomia rende quindi necessaria una lettura su piu' livelli.
+Questa cautela è decisiva perché le fonti locali sono mobili. Uno statuto può essere modificato, un regolamento può essere aggiornato, un atto organizzativo può ridisegnare strutture e denominazioni, un bando può restringere il programma a una parte delle fonti. Perciò il controllo locale non è un dettaglio da revisore: è una competenza d'esame. La commissione valuta anche la capacità di non inventare. In una prova scritta, una buona formula è: "in assenza del testo dello statuto o del regolamento dell'ateneo, la competenza deve essere verificata sulla fonte locale vigente; il quadro nazionale consente di impostare il ragionamento, ma non di sostituire il dato interno". Questa frase mostra consapevolezza specialistica e impedisce di trasformare un esempio in una regola universale.
 
-Una risposta completa mette in relazione questi elementi:
+Il rapporto tra statuto e regolamenti va quindi studiato come rapporto tra assetto e applicazione. Lo statuto orienta; il regolamento specifica; l'atto applicativo rende concreta la decisione o l'organizzazione. La legge resta il perimetro. L'output concorsuale consiste nel dimostrare quale fonte controlli, perché quella fonte è rilevante e quale conseguenza trae il candidato. È qui che il capitolo diventa workbook: non chiede di memorizzare ogni statuto d'Italia, ma di costruire un metodo affidabile per leggere lo statuto corretto quando il bando lo rende necessario.
 
-1. **funzione**: l'ateneo deve poter organizzare l'esercizio dei propri compiti;
-2. **strumenti**: statuto, regolamenti e atti interni definiscono il quadro applicativo;
-3. **limiti**: la scelta interna non opera fuori dalle fonti sovraordinate e dalle competenze previste.
+### N-IR02-02-03 · Organi, strutture e governance: come leggere l'ateneo senza inventare l'organigramma
 
-Questa impostazione evita sia di considerare tutte le universita' organizzate nello stesso modo, sia di descrivere l'autonomia come liberta' priva di vincoli. In entrambi i casi diventerebbe difficile risolvere correttamente una traccia concreta.
+La governance universitaria è l'insieme dei rapporti attraverso cui l'ateneo definisce indirizzi, assume decisioni, organizza attività, presidia controlli e collega funzioni scientifiche, didattiche e amministrative. Nei concorsi, però, il termine "governance" è spesso usato in modo vago. Per trasformarlo in punteggio bisogna separare tre piani: organi, strutture e competenze. L'organo esercita una funzione attribuita da una fonte; la struttura rende possibile l'attività attraverso uffici, persone, processi e supporto operativo; la competenza indica chi può fare cosa, su quale materia e con quale atto.
 
-### Perche' autonomia non significa indipendenza dalle fonti
+Il candidato deve resistere alla tentazione di compilare un catalogo universale di organi e attribuzioni. La legge 240/2010 ha un ruolo importante nella governance universitaria, ma la configurazione concreta dell'ateneo richiede lo statuto e gli atti interni. Alcune denominazioni sono familiari nel lessico universitario, come rettore, senato accademico, consiglio di amministrazione, direttore generale, dipartimenti, nuclei o organi di controllo e valutazione. Tuttavia l'esame non premia l'elenco nudo. Premia la capacità di dire: "questo soggetto va verificato nella fonte locale; questa funzione appartiene al livello di indirizzo, gestione, controllo o supporto; questo atto non può essere attribuito per analogia a un organo diverso".
 
-Un ateneo non puo' rispondere a una questione organizzativa invocando genericamente l'autonomia. Occorre individuare la materia, la fonte applicabile, il soggetto competente e l'atto necessario. L'utilita' di una scelta non sana l'assenza di competenza; la prassi di un ufficio non sostituisce automaticamente una previsione statutaria o regolamentare.
+Una distinzione utile riguarda indirizzo, gestione e controllo. L'indirizzo riguarda scelte fondamentali, priorità, approvazioni o decisioni istituzionali. La gestione riguarda il funzionamento amministrativo, l'istruttoria, l'organizzazione delle risorse e la traduzione delle decisioni in attività. Il controllo e la valutazione riguardano la verifica della regolarità, dei risultati, della qualità o del rispetto di passaggi previsti. Questa tripartizione non deve diventare un duplicato della teoria generale della pubblica amministrazione. Nel contesto universitario serve a leggere la domanda: se una pratica arriva a un ufficio, non è detto che l'ufficio decida; se un organo approva un indirizzo, non è detto che curi ogni passaggio istruttorio; se una struttura supporta una funzione, non è detto che abbia la competenza finale.
 
-Nella prova, formula il ragionamento in questo ordine:
+Le strutture universitarie meritano attenzione autonoma. Un ateneo può articolarsi in strutture didattiche, scientifiche, amministrative, bibliotecarie, tecniche o di servizio. Anche qui non bisogna generalizzare. Il bando può riguardare un profilo amministrativo, contabile, bibliotecario, ricerca/grant, servizi agli studenti o AFAM. Ogni profilo porta la governance verso un'area diversa. Il profilo contabile leggerà organi e strutture in relazione a bilancio, budget e controllo. Il profilo studenti li leggerà rispetto a carriere, diritto allo studio, servizi e regolamenti. Il profilo ricerca li leggerà rispetto a progetti, finanziamenti, rendicontazione e audit. Il profilo biblioteca li leggerà rispetto a cataloghi, servizi, risorse e accesso. L'amministrativo trasversale dovrà spesso raccordare più aree senza confonderle.
 
-- il quadro nazionale definisce il perimetro;
-- la fonte interna disciplina l'assetto o il passaggio concreto;
-- l'organo o la struttura esercita la funzione attribuita;
-- l'atto deve rispettare procedimento, competenza e controlli pertinenti.
+Per non inventare l'organigramma, usa una tabella mentale a quattro colonne. Prima colonna: "materia". Seconda: "fonte da consultare". Terza: "soggetto o struttura da verificare". Quarta: "atto o output". Se la materia è "funzionamento di un organo", la fonte sarà probabilmente statuto o regolamento di funzionamento. Se la materia è "procedura studente", la fonte sarà il regolamento relativo alla carriera o al servizio. Se la materia è "assetto amministrativo", serviranno statuto, regolamenti organizzativi e atti interni. Se la materia è "biblioteca", occorreranno le regole del servizio e le fonti indicate dal bando. In ogni caso, l'organo non si sceglie per familiarità, ma per competenza dimostrata.
 
-Il rinvio alle fonti interne, pero', non basta da solo. Se la traccia non offre lo statuto, spiega **quale verifica compieresti** e **per quale ragione**. Se invece allega un estratto, usa quel testo e non sostituirlo con l'assetto che ricordi da un altro ateneo.
+Un'altra cautela riguarda il confine con AFAM. Le istituzioni dell'alta formazione artistica, musicale e coreutica appartengono al perimetro MUR e ricorrono nei bandi del modulo, ma non devono essere assimilate meccanicamente all'università. Il capitolo AFAM sviluppa ordinamento, autonomia e amministrazione settoriale. Qui basta ricordare che il metodo è analogo, non l'assetto: anche per AFAM occorre aprire la fonte pertinente dell'istituzione e della procedura, non trasferire per copia la governance universitaria.
 
-## Dalla legge allo statuto e ai regolamenti
+In una risposta orale, puoi chiudere così: "La governance universitaria va letta per fonti e funzioni. La legge nazionale dà il quadro; statuto e regolamenti dell'ateneo individuano assetti e competenze; organi e strutture non coincidono sempre; l'attribuzione di una competenza deve essere dimostrata sulla fonte locale vigente". È una risposta breve, ma contiene il cuore del nucleo. Nella prova scritta, la stessa idea può diventare una matrice o una soluzione di caso. Nel quiz, diventa la distinzione tra risposta assoluta e risposta verificata.
 
-### La funzione dello statuto
+### N-IR02-02-04 · Attribuire una competenza: protocollo di verifica degli atti locali
 
-Lo statuto e' la fonte interna centrale per riconoscere l'identita' istituzionale e l'assetto fondamentale dell'ateneo. In una preparazione concorsuale serve soprattutto a orientarsi tra principi, organi, funzioni e organizzazione. Non va studiato come un elenco isolato: ogni disposizione utile deve essere collegata a una possibile domanda o decisione.
+Attribuire una competenza significa rispondere alla domanda: chi può assumere, proporre, istruire, approvare, controllare o eseguire una determinata attività nell'ateneo interessato? Nei concorsi universitari questa domanda è centrale perché l'autonomia rende decisiva la fonte locale. Il candidato deve quindi evitare due estremi. Il primo è rispondere solo con la legge nazionale, lasciando indeterminato l'assetto concreto. Il secondo è usare un esempio locale non pertinente, come se ogni università avesse la stessa distribuzione interna. La soluzione corretta è un protocollo di verifica.
 
-Puoi organizzare la lettura dello statuto in quattro colonne:
+Il protocollo può essere chiamato Q-F-S-A-V: questione, fonte, soggetto, atto, verifica. La questione è il problema da risolvere: non "organi", ma "chi approva una certa scelta"; non "regolamento", ma "quale regolamento disciplina questa procedura"; non "ufficio", ma "quale struttura cura l'istruttoria e quale soggetto decide". La fonte è il documento che fonda la risposta: legge nazionale, statuto, regolamento, bando, allegato, atto organizzativo o avviso interno. Il soggetto è l'organo o la struttura competente, da individuare senza automatismi. L'atto è il prodotto finale o intermedio: deliberazione, decreto, determinazione, proposta, verbale, comunicazione, fascicolo, relazione o altro output previsto. La verifica chiude il ragionamento: controllo della versione vigente, pertinenza della materia, rinvii tra fonti, eventuali passaggi istruttori e coerenza con il bando.
 
-| Questione | Che cosa cercare | Perche' serve |
-| --- | --- | --- |
-| Assetto | principi e articolazione dell'ateneo | collocare il problema |
-| Organi | denominazione, funzione e rapporti | individuare la competenza da verificare |
-| Strutture | articolazioni didattiche, scientifiche o amministrative | riconoscere il livello operativo |
-| Atti interni | rinvii a regolamenti o ulteriori discipline | completare la ricerca |
+Questo protocollo è particolarmente utile quando la traccia non consegna tutte le fonti. In quel caso non bisogna inventare il contenuto mancante. Bisogna dichiarare il controllo necessario e costruire una risposta prudente. Per esempio: "il quadro nazionale conferma che l'ateneo opera in autonomia; la competenza specifica deve essere verificata nello statuto e nel regolamento applicabile; l'ufficio ricevente può curare attività istruttorie solo se la fonte locale lo prevede o se l'organizzazione interna gliele assegna; l'atto finale spetta al soggetto competente indicato dalla fonte". Questa formula non elude la domanda: mostra metodo, legalità e consapevolezza del limite informativo.
 
-Questa griglia non anticipa le soluzioni del singolo ateneo. Indica dove cercarle. La denominazione di un organo, da sola, non prova che esso sia competente sulla questione proposta.
+La verifica degli atti locali richiede ordine. Prima controlla che l'atto appartenga all'ateneo della procedura. Sembra banale, ma è una fonte frequente di errori: materiale scaricato da un altro ateneo, schema didattico generico o organigramma non aggiornato possono portare a una risposta sbagliata. Poi controlla la versione: statuti e regolamenti possono essere modificati. Poi controlla l'oggetto: un regolamento può contenere una parola simile senza disciplinare la materia effettiva della traccia. Poi segui i rinvii: lo statuto può rinviare a un regolamento; il regolamento può rinviare ad atti attuativi; il bando può richiamare allegati che prevalgono per quella selezione. Infine collega la fonte al tipo di output richiesto dalla prova.
 
-### Il ruolo dei regolamenti
+Gli output concorsuali cambiano in base alla prova. Nel quiz, il candidato deve riconoscere la fonte corretta o scartare l'affermazione assoluta. Nella domanda aperta breve, deve scrivere una risposta compatta: definizione di autonomia, ruolo dello statuto, funzione dei regolamenti, necessità di verifica locale. Nel caso pratico, deve descrivere i passaggi: qualificazione della questione, individuazione fonti, separazione tra istruttoria e decisione, indicazione del soggetto competente se la fonte è disponibile, oppure segnalazione della verifica se non lo è. Nell'orale, deve parlare in modo controllato, evitando di trasformare un'incertezza in una falsa sicurezza.
 
-I regolamenti traducono il quadro statutario in discipline piu' specifiche. La materia della traccia indica quale regolamento aprire: una questione didattica non si risolve con il solo organigramma; una questione amministrativa non si ricava automaticamente dal regolamento didattico; una pratica contabile richiede le fonti pertinenti al bilancio e alla gestione.
+Il diario degli errori serve proprio qui. Ogni volta che durante lo studio attribuisci una competenza "perché mi sembra così", annota l'errore. Riscrivilo in forma corretta: "competenza da verificare nello statuto"; "regolamento da controllare"; "atto organizzativo necessario"; "bando non sufficiente a individuare l'organo"; "fonte locale non trasferibile". Dopo alcune ripetizioni, il metodo diventa automatico. In concorso questo ti protegge da domande-trappola come: "lo statuto di un ateneo attribuisce una funzione a un certo organo; tale attribuzione vale per tutti gli atenei?". La risposta corretta è negativa, salvo previsione nazionale generale: per l'ateneo concreto si controllano le sue fonti vigenti.
 
-Il capitolo 03 sviluppa ordinamenti didattici e qualita'; il capitolo 04 affronta carriere e diritto allo studio; il capitolo 05 applica atti, protocollo, accesso e digitale; il capitolo 06 tratta il bilancio di ateneo. Qui interessa il metodo comune: **scegliere la fonte in base alla questione**.
 
-Prima di affermare una regola locale, controlla:
 
-1. che l'atto appartenga all'ateneo della procedura;
-2. che il testo consultato sia quello applicabile;
-3. che la materia rientri nel suo oggetto;
-4. che eventuali rinvii siano stati seguiti;
-5. che bando e allegati non richiedano un perimetro piu' circoscritto.
+**Richiamo operativo.** Prima di concludere una risposta, il candidato separa sempre fonte generale, atto locale, ufficio istruttore, organo competente e forma dell esito: questa sequenza evita attribuzioni arbitrarie e rende verificabile il ragionamento.
 
-### Una mappa, non una gerarchia meccanica
+### N-IR02-02-05 · Caso ragionato e trasformazione in risposta d'esame
 
-La sequenza `fonte nazionale -> statuto -> regolamento -> atto` e' una mappa di ricerca, non una formula da applicare senza leggere la questione. Non ogni caso richiede tutti i passaggi nello stesso modo. Una domanda generale puo' fermarsi al quadro nazionale e statutario; una traccia operativa puo' richiedere regolamento, atto organizzativo e documenti del procedimento.
+Immagina questa traccia. Un ufficio amministrativo di ateneo riceve una richiesta relativa alla modifica organizzativa di un servizio rivolto agli studenti. La richiesta è urgente; il responsabile dell'ufficio vorrebbe rispondere direttamente, sostenendo che l'ufficio conosce il servizio e gestisce già le pratiche quotidiane. La traccia aggiunge che lo statuto e un regolamento interno disciplinano organi, strutture e procedure, ma non ne riporta il testo. Chiede di impostare la soluzione, distinguendo autonomia, fonti interne, organi, strutture e competenza.
 
-La qualita' della risposta dipende dalla pertinenza. Citare molte fonti non compensa la mancata individuazione della fonte decisiva.
+La prima mossa è qualificare la questione. Non siamo davanti a una semplice comunicazione di cortesia, ma a una richiesta che può incidere sull'organizzazione di un servizio universitario. Questo sposta il ragionamento dal piano operativo immediato al piano della competenza. L'ufficio che riceve la richiesta può essere coinvolto perché conosce i fatti, possiede dati, gestisce documenti o cura il rapporto con l'utente. Ma ricevere, istruire e decidere sono attività diverse. In un ateneo autonomo la risposta corretta non nasce dalla posizione materiale dell'ufficio, ma dalla fonte che attribuisce la funzione.
 
-## Organi, strutture e funzioni
+La seconda mossa è individuare le fonti. Il quadro nazionale serve a ricordare che l'ateneo opera in autonomia regolata; per la decisione concreta occorrono lo statuto, il regolamento interno sulla materia e gli atti organizzativi eventualmente richiamati. Se la traccia non riporta il contenuto di queste fonti, il candidato non deve fingere di conoscerlo. Deve dichiarare che la competenza specifica va verificata sulla fonte locale vigente. Questa non è debolezza della risposta: è il punto tecnico del caso. Una soluzione che inventa il decisore è meno corretta di una soluzione che indica il percorso di verifica.
 
-### Organo e struttura non sono sinonimi
+La terza mossa è separare i ruoli. L'ufficio ricevente può registrare l'istanza, verificare la documentazione, acquisire elementi, consultare il regolamento, predisporre una nota istruttoria e trasmettere la pratica al soggetto competente. La struttura amministrativa non diventa automaticamente organo decisore solo perché lavora sul servizio. Allo stesso modo, l'organo competente non necessariamente svolge ogni attività preparatoria. La governance funziona proprio attraverso questo raccordo: istruttoria, decisione, esecuzione e controllo sono collegati, ma non confusi.
 
-Nel linguaggio concorsuale e' utile distinguere tra organo e struttura organizzativa. L'organo esercita funzioni attribuite dall'ordinamento dell'ente; la struttura rende possibile l'attivita' attraverso uffici, risorse, istruttorie e supporto. La configurazione concreta deve essere verificata nelle fonti dell'ateneo.
+La quarta mossa è costruire l'output. In una prova scritta, puoi proporre una risposta in cinque frasi. Primo: l'autonomia universitaria consente all'ateneo di organizzare i propri servizi entro il quadro normativo. Secondo: la competenza sulla modifica organizzativa deve essere ricostruita nello statuto, nel regolamento e negli atti interni pertinenti. Terzo: l'ufficio che riceve la richiesta non può assumere la decisione finale se la fonte non gliela attribuisce. Quarto: l'ufficio può curare l'istruttoria e trasmettere una proposta motivata al soggetto competente, se ciò è coerente con l'organizzazione locale. Quinto: prima dell'atto finale occorre verificare versione vigente delle fonti, rinvii, passaggi procedurali e controlli previsti.
 
-Questa distinzione produce una conseguenza pratica: chi prepara il fascicolo non coincide necessariamente con chi adotta la decisione. Un ufficio puo' acquisire dati, controllare documenti, predisporre una proposta e trasmettere gli atti; la competenza finale va comunque ricostruita nella fonte pertinente.
+La quinta mossa è prevenire l'errore. Il caso contiene una trappola: scambiare l'efficienza con la competenza. Il fatto che l'ufficio conosca bene il servizio non basta a legittimare una decisione. L'efficienza operativa è importante, ma deve restare dentro la fonte corretta. Un'altra trappola è trasferire soluzioni da un ateneo all'altro. Se in un'università una certa modifica è approvata da un determinato organo, non puoi concludere che lo stesso valga per l'ateneo del bando. Devi ripetere la verifica sulle fonti locali.
 
-### Indirizzo e decisione
+La stessa traccia può diventare tre output diversi. Come risposta orale: "l'autonomia impone di controllare statuto e regolamenti; l'ufficio istruisce, ma la decisione spetta al soggetto competente individuato dalla fonte". Come mini-caso scritto: "qualifico la questione, apro le fonti, separo istruttoria e decisione, individuo l'atto, controllo i rinvii". Come quiz: "è falsa l'affermazione secondo cui l'ufficio ricevente decide sempre". Il candidato preparato non ha bisogno di sapere a memoria l'organigramma di ogni università; deve saper leggere quello giusto, nel momento giusto, con una risposta che non superi le fonti disponibili.
 
-La governance riguarda scelte, responsabilita' e rapporti tra soggetti diversi. In una risposta d'esame evita di usare "governance" come sinonimo generico di comando. Verifica invece:
+## ▣ Verifica
+**Quiz 1.** In una domanda sull'autonomia universitaria, quale affermazione è più corretta?
 
-- quale interesse o obiettivo e' coinvolto;
-- quale soggetto definisce o approva la scelta;
-- quale fonte gli attribuisce la funzione;
-- quale atto rende riconoscibile la decisione;
-- quali passaggi preparatori o controlli sono necessari.
+   A. L'autonomia consente all'ateneo di operare fuori dai limiti dell'ordinamento.
 
-Senza lo statuto dell'ateneo non e' corretto assegnare attribuzioni puntuali basandosi su un esempio ricordato. E' invece corretto descrivere il metodo di verifica e dichiarare il dato che manca.
+   B. L'autonomia consente all'ateneo di organizzarsi attraverso fonti interne nel quadro delle fonti nazionali.
 
-### Gestione e organizzazione amministrativa
+   C. L'autonomia elimina la necessità di statuti e regolamenti.
 
-La gestione trasforma obiettivi e decisioni in attivita'. Comprende l'organizzazione del lavoro, l'impiego delle risorse, l'istruttoria e la produzione degli output amministrativi. Il nucleo generale su organizzazione della PA, dirigenza e responsabilita' e' trattato nel capitolo dedicato del VOL-01; qui conta la sua applicazione all'ateneo. [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
+   Risposta corretta: B. L'autonomia universitaria è autonomia regolata: richiede fonti interne, ma resta dentro il quadro nazionale.
+**Quiz 2.** Per attribuire una competenza concreta in un ateneo, quale controllo è normalmente decisivo?
 
-Di fronte a un caso, separa sempre:
+   A. Ricordare come è organizzato un altro ateneo.
 
-- la scelta o decisione da assumere;
-- il lavoro istruttorio necessario;
-- il soggetto che cura ciascun passaggio;
-- la fonte che fonda la competenza;
-- l'output finale e la sua tracciabilita'.
+   B. Consultare lo statuto, il regolamento e gli atti pertinenti dell'ateneo della procedura.
 
-Questa scomposizione impedisce di attribuire all'ufficio che riceve la richiesta ogni potere sul suo esito.
+   C. Usare solo una definizione generale di pubblica amministrazione.
 
-### Controllo, valutazione e raccordo
+   Risposta corretta: B. La competenza concreta va verificata sulla fonte locale vigente e pertinente.
+**Quiz 3.** Qual è l'errore principale nel dire che l'ufficio che riceve una richiesta può sempre decidere?
 
-Dopo l'adozione dell'atto restano da considerare i controlli previsti, la verifica dei risultati e il raccordo tra organi e strutture. La configurazione concreta e' locale: statuto, regolamenti e atti dell'ateneo devono confermare soggetti e passaggi.
+   A. Confondere ricezione o istruttoria con competenza decisionale.
 
-In una domanda orale puoi mostrare padronanza collegando governance e responsabilita': una competenza chiara rende la decisione imputabile, l'istruttoria controllabile e il risultato verificabile. Non occorre inventare un sistema di controllo; occorre indicare quale fonte aprire per identificarlo.
+   B. Applicare la legge nazionale.
 
-## Come si attribuisce una competenza
+   C. Considerare il bando come fonte della procedura.
 
-Usa il protocollo **Q-F-S-A-V**.
+   Risposta corretta: A. L'ufficio può essere coinvolto nell'istruttoria, ma la decisione spetta al soggetto competente indicato dalla fonte.
+**Quiz 4.** Lo statuto di un'università può essere usato per stabilire automaticamente la competenza di un organo in un'altra università?
 
-1. **Questione**: descrivi con precisione il problema. E' didattico, organizzativo, amministrativo, contabile o relativo a un servizio?
-2. **Fonte**: individua il livello nazionale e la fonte interna pertinente. Non fermarti al primo documento che contiene una parola simile.
-3. **Soggetto**: verifica quale organo o struttura esercita la funzione e quali altri soggetti partecipano.
-4. **Atto**: identifica l'output richiesto: deliberazione, proposta, istruttoria, autorizzazione, comunicazione o altro atto previsto dalla disciplina applicabile.
-5. **Verifica**: controlla competenza, passaggi, motivazione, tracciabilita' e controlli pertinenti.
+   A. Sì, perché gli atenei hanno tutti la stessa organizzazione.
 
-La griglia non sostituisce la disciplina del procedimento amministrativo, sviluppata nel VOL-01. Serve a non perdere il tratto specialistico: nell'universita' la fonte interna puo' essere indispensabile per individuare soggetti e assetto. [[books/il-metodo-bando/chapters/diritto-amministrativo-operativo]]
+   B. No, salvo che si stia richiamando una regola nazionale generale; per l'ateneo concreto serve la sua fonte locale.
 
-| Questione | Fonte da aprire | Soggetto da verificare | Output |
-| --- | --- | --- | --- |
-| modifica di un assetto organizzativo | quadro nazionale, statuto, atto organizzativo pertinente | organo e struttura competenti | proposta e decisione secondo fonte |
-| disciplina di un'attivita' specifica | statuto e regolamento della materia | soggetti indicati dal regolamento | atto o istruttoria prevista |
-| richiesta ricevuta da un ufficio | regolamento, organizzazione e disciplina del procedimento | responsabile, ufficio e decisore | fascicolo, proposta o provvedimento |
+   C. Sì, se lo statuto è recente.
 
-> **Da sapere in 5 righe**
->
-> L'autonomia universitaria opera entro il quadro normativo. Lo statuto orienta sull'assetto fondamentale; i regolamenti disciplinano materie e processi specifici; gli atti organizzativi completano la ricostruzione concreta. Organo competente e ufficio istruttore non coincidono necessariamente. In prova, parti dalla questione e dimostra ogni attribuzione con la fonte dell'ateneo interessato.
+   Risposta corretta: B. Una fonte locale prova l'assetto dell'ateneo cui appartiene, non quello di tutti gli altri.
+**Quiz 5.** Nel protocollo Q-F-S-A-V, che cosa indica la lettera "F"?
 
-## Caso guidato: la richiesta arrivata all'ufficio sbagliato
+   A. La fonte da consultare e verificare.
 
-Un ufficio amministrativo riceve una richiesta relativa all'organizzazione di un servizio universitario. Il richiedente sollecita una decisione immediata. La traccia precisa che lo statuto e il regolamento dell'ateneo attribuiscono passaggi diversi a una struttura istruttoria e a un organo, ma non ne riporta il contenuto.
+   B. La forma grafica della risposta.
 
-Sarebbe sbagliato concludere che l'ufficio debba decidere soltanto perche' ha ricevuto la richiesta. Lo sarebbe anche assegnare la competenza a un organo ricordato da un altro ateneo. Il caso si risolve attraverso cinque controlli.
+   C. La facoltà universitaria coinvolta, sempre decisiva.
 
-**Qualifica la questione.** La richiesta riguarda l'organizzazione di un servizio; bisogna distinguere ricezione, istruttoria e decisione.
+   Risposta corretta: A. Il protocollo richiede di individuare la fonte pertinente: legge, statuto, regolamento, bando, allegato o atto locale.
+**Quiz 6.** Quale output è più adatto a un caso pratico su organi e competenze universitarie?
 
-**Identifica le fonti.** Occorre verificare lo statuto, il regolamento della materia e l'atto organizzativo pertinente. La traccia non consente di inventarne il contenuto.
+   A. Un elenco di organi senza fonte.
 
-**Separa i ruoli.** L'ufficio ricevente registra e indirizza correttamente la pratica, oppure cura l'istruttoria se competente. L'adozione della decisione spetta al soggetto individuato dalla fonte applicabile.
+   B. Una soluzione motivata che qualifica la questione, individua le fonti, separa istruttoria e decisione e indica l'atto o la verifica necessaria.
 
-**Costruisci l'output.** La soluzione deve lasciare traccia dei documenti acquisiti, della verifica di competenza, della proposta istruttoria e della trasmissione al decisore.
+   C. Una risposta che dichiara sempre competente il responsabile dell'ufficio.
 
-**Chiudi con la verifica.** Prima di indicare l'atto finale, controlla il testo vigente delle fonti dell'ateneo e gli eventuali passaggi o controlli previsti.
+   Risposta corretta: B. Il caso pratico richiede metodo, fonte e motivazione, non un automatismo organizzativo.
+**Quiz 7.** Perché i regolamenti di ateneo sono importanti nella preparazione concorsuale?
 
-Il caso applica il metodo generale del problem solving amministrativo senza duplicarlo. La tecnica completa per leggere fatti, soggetti, competenza, regola e soluzione resta nel VOL-01. [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo]]
+   A. Perché sostituiscono sempre la legge nazionale.
 
-## Domanda da commissario
+   B. Perché possono disciplinare in modo specifico materie, processi e passaggi operativi richiamati dalla traccia.
 
-**In che modo autonomia e statuto incidono sull'organizzazione di un'universita'?**
+   C. Perché sono identici in tutte le università.
 
-Risposta modello: l'autonomia consente all'ateneo di definire il proprio assetto entro il quadro normativo nazionale. Lo statuto rappresenta la fonte interna fondamentale per ricostruire principi, organi e organizzazione; i regolamenti e gli atti interni disciplinano aspetti piu' specifici. Per attribuire una competenza non basta quindi richiamare la legge nazionale o il nome di un organo: bisogna verificare la fonte vigente dell'ateneo e distinguere decisione, istruttoria, gestione e controllo.
+   Risposta corretta: B. I regolamenti traducono l'assetto statutario e il quadro normativo in discipline operative da verificare sulla materia.
+**Quiz 8.** Quando la traccia non riporta il testo dello statuto, quale comportamento è più corretto?
 
-## Domanda-trappola
+   A. Inventare l'organo più probabile.
 
-**Se lo statuto di un'universita' attribuisce una funzione a un determinato organo, la stessa attribuzione vale per tutti gli atenei?**
+   B. Dichiarare la verifica necessaria sulla fonte locale e motivare il ragionamento con i dati disponibili.
 
-No. La fonte consultata dimostra l'assetto di quell'ateneo, non una regola locale valida ovunque. Per un altro ateneo occorre ripetere la verifica sul relativo statuto, sui regolamenti e sugli atti organizzativi, mantenendo fermo il quadro nazionale. [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
+   C. Evitare ogni risposta.
 
-## Errore tipico
-
-Memorizzare un elenco di organi senza collegare ciascuna informazione a fonte, funzione, atto e responsabilita'.
-
-Correzione: per ogni questione usa quattro caselle: **chi**, **in base a quale fonte**, **per fare che cosa**, **con quale output**. Se una casella resta vuota, non colmarla con una supposizione: annota la verifica necessaria.
-
-## Mini-esercizio: matrice fonte-competenza-atto
-
-Completa la tabella usando lo statuto e i regolamenti dell'ateneo indicato dal tuo bando. Se la fonte non e' disponibile, scrivi “da verificare” e annota dove reperirla.
-
-| Situazione | Questione | Fonte pertinente | Organo o struttura | Atto/output | Verifica finale |
-| --- | --- | --- | --- | --- | --- |
-| proposta di modifica organizzativa |  |  |  |  |  |
-| richiesta relativa a un servizio |  |  |  |  |  |
-| attivita' disciplinata da regolamento |  |  |  |  |  |
-
-Controlla poi il lavoro:
-
-- hai distinto fonte nazionale e fonte locale?
-- hai separato istruttoria e decisione?
-- hai seguito gli eventuali rinvii tra statuto e regolamenti?
-- hai evitato di importare l'assetto di un altro ateneo?
-- sai trasformare ogni riga in una risposta orale di un minuto?
-
-Registra nel Diario degli errori ogni competenza attribuita per memoria ma non dimostrata dalla fonte.
-
-## Riferimenti consolidati
-
-- [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
-- [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]]
-- [[topics/m-ir02-universita-afam-fonti-e-profili]]
-- [[entities/ministero-universita-ricerca]]
-- [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
-- [[books/il-metodo-bando/chapters/diritto-amministrativo-operativo]]
-- [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo]]
-
-## Note di review
-
-Prima della pubblicazione verificare sul testo vigente della L. 168/1989 e della L. 240/2010 ogni formulazione normativa impiegata. Per gli esempi applicativi controllare statuto, regolamenti, organigramma e atti organizzativi dell'ateneo scelto, oltre al bando e ai suoi allegati.
-
-La fonte consolidata disponibile non espone analiticamente composizione e attribuzioni dei singoli organi. Il capitolo presenta quindi categorie e metodo di ricostruzione, senza trasformare assetti locali in regole generali. L'inserimento di attribuzioni puntuali richiede una source note ufficiale consolidata e review giuridico-organizzativa umana.
-
-Per AFAM non trasferire automaticamente il modello universitario: autonomia, organi, didattica e amministrazione sono sviluppati nel capitolo 11 e richiedono la verifica delle fonti settoriali e dell'istituzione concreta.
+   Risposta corretta: B. La risposta prudente e motivata mostra padronanza: non inventa il dato locale, ma indica come reperirlo e usarlo.

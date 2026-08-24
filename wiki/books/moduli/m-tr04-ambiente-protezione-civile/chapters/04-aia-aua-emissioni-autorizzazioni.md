@@ -8,7 +8,7 @@ volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["AIA", "AUA", "emissioni in atmosfera", "BAT", "BAT-AEL", "autorizzazioni ambientali"]
 entities: ["MASE", "SNPA", "ARPA", "SUAP", "autorità competente", "gestore"]
@@ -17,10 +17,10 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/ambiente-controlli-locali-d-lgs-152-2006.md", "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/06-piano-capitolo-04-aia-aua-emissioni-autorizzazioni.md"]
 confidence: 0.9
 created_at: 2026-08-10
-updated_at: 2026-08-10
-review_required: true
+updated_at: 2026-08-21
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
@@ -77,6 +77,8 @@ In prova conviene usare una catena costante: attività, impatto, titolo, autorit
 Per verificare il nucleo, prova infine a descrivere il titolo senza usare acronimi: se la funzione amministrativa resta chiara, la distinzione è stata compresa.
 
 ## N-TR04-04-02 · AIA, approccio integrato, BAT e BAT-AEL
+
+La qualificazione iniziale deve chiarire installazione, attività, capacità e disciplina vigente prima di associare prescrizioni o valori al caso concreto.
 
 L'autorizzazione integrata ambientale, disciplinata dal Titolo III-bis della Parte seconda del D.Lgs. 152/2006, autorizza l'esercizio delle installazioni rientranti nel relativo campo di applicazione alle condizioni necessarie per rispettare i requisiti della disciplina. L'obiettivo è conseguire un livello elevato di protezione dell'ambiente nel suo complesso. L'espressione «nel suo complesso» spiega la logica integrata: l'autorità non deve proteggere una matrice trasferendo semplicemente l'inquinamento su un'altra.
 

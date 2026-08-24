@@ -14,8 +14,9 @@ Applicati i controlli su struttura, progressione, autonomia, terminologia MASE/I
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | Riferimenti finali | Norma/fatto da verificare | Media | Attribuzioni e aggiornamenti operativi regionali devono essere controllati sulla fonte vigente. | Verificare atti regionali, LEPTA e direttive applicabili al bando concreto. | Da verificare |
-| E02 | Nucleo 02 | Chiarezza | Lieve | La distinzione tra rete SNPA e singole agenzie va mantenuta anche nei capitoli successivi. | Riutilizzare la stessa terminologia nella matrice e nei capitoli 08-09. | Proposto |
+| E01 | Riferimenti finali | Norma/fatto da verificare | Media | Attribuzioni regionali e dati mobili richiedevano audit specialistico. | Verificare fonti nazionali, atti regionali, LEPTA e disciplina del caso concreto senza generalizzazioni. | Risolto nello step 15; dipendenze territoriali qualificate |
+| E02 | Nuclei 02-06 | Ripetizione e struttura | Grave | Blocchi identici erano ripetuti nei nuclei 03-05 e il nucleo 06 risultava dopo verifica e riferimenti. | Conservare una sola spiegazione generale, sviluppare passaggi specifici e collocare il nucleo 06 prima della verifica. | Risolto il 21-08-2026 |
+| E03 | Tutti i nuclei | Densità didattica | Media | Dopo la rimozione delle copie alcuni nuclei risultavano sotto la soglia effettiva. | Integrare teoria specifica, casi e matrici senza usare quiz o checklist come sostituti. | Risolto; sei nuclei oltre 600 parole e gate 10 superato |
 
 ## 4. Osservazioni per capitolo
 ### Capitolo 2 — D.Lgs. 152, MASE, ISPRA e SNPA
@@ -42,9 +43,9 @@ Applicati i controlli su struttura, progressione, autonomia, terminologia MASE/I
 3. Eseguire preflight quando il modulo sarà completo.
 
 ## 9. Giudizio di pubblicabilità
-Non pubblicabile allo stato attuale.
+Pubblicabile con correzioni minori.
 
-Motivazione: il capitolo supera i gate di scrittura e densità, ma il volume richiede ancora verifica normativa specialistica e coerenza trasversale sui capitoli non scritti.
+Motivazione: il capitolo presenta sei nuclei univoci sopra soglia, gerarchia corretta, caso, verifica e riferimenti; la revisione trasversale e l’audit specialistico sono conclusi e il gate di densità è stato ricertificato il 21 agosto 2026.
 
 ## 10. Limiti di questa revisione
-Non è stato ispezionato un PDF impaginato. I capitoli successivi non sono ancora disponibili per il confronto globale. Le fonti mobili sono mantenute come elementi da verificare.
+Non è stato ancora riesaminato il PDF dopo questa correzione controllata; la resa grafica resta al preflight. I capitoli successivi sono stati confrontati negli step 13-15 e le fonti mobili sono state qualificate nel report specialistico.

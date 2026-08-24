@@ -2,21 +2,21 @@
 id: chapter-m-fc02-bando-decoder-fiscale
 type: book_chapter
 title: "Bando Decoder fiscale"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["bando decoder","agenzie fiscali","prove concorsuali","profili agenzie fiscali"]
 entities: ["Metodo BANDO","Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
 source_refs: ["sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","sources/agenzie-fiscali-organizzazione-ae-adm-ader.md","sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"]
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft"]
+tags: ["book-chapter","module-code-m-fc02","text-frozen","revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 2
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

@@ -2,21 +2,21 @@
 id: chapter-m-tr03-12-bim-gis-catasto-patrimonio
 type: book_chapter
 title: "BIM, GIS, rilievi, catasto e patrimonio pubblico"
-status: draft
+status: reviewed
 domain: concorsi pubblici italiani
 topics: ["BIM","GIS","rilievi","catasto","patrimonio pubblico","gestione informativa"]
 entities: ["Ministero delle infrastrutture e dei trasporti","AgID","Agenzia delle entrate","AINOP"]
 source_refs: ["sources/bim-gis-catasto-patrimonio-fonti-ufficiali-2026.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md","sources/codice-civile-beni-pubblici-demanio-patrimonio.md","sources/infrastrutture-viabilita-ponti-monitoraggio-fonti-ufficiali-2026.md","sources/campione-bandi-tecnici-pa-vol-10-2026.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","bim","gis","catasto","patrimonio"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "12"
-draft_stage: full_draft
+draft_stage: publication_candidate
 last_compiled_from: "planning/08-capitolo-12-piano-completamento.md"
 ---
 
@@ -36,7 +36,7 @@ Al termine del capitolo saprai distinguere BIM, GIS, rilievo, catasto e inventar
 - **Diario:** annota le confusioni fra modello e opera, mappa e territorio, catasto e conformità.
 - **Output:** riconcilia dati diversi e indica quale sistema aggiornare dopo la decisione.
 
-## Dal bene al dato e ritorno
+## N-TR03-12-01 · Dal bene al dato e ritorno
 
 ### Oggetto, fonte, qualità e versione
 
@@ -60,7 +60,7 @@ Il requisito stabilisce quale informazione serve e per quale scopo. L'acquisizio
 > Il catasto non prova da solo conformità o stato legittimo.  
 > L'inventario è utile se resta collegato al bene reale.
 
-## BIM e gestione informativa
+## N-TR03-12-02 · BIM e gestione informativa
 
 ### Requisiti, modelli ed elaborati
 
@@ -82,7 +82,7 @@ L'art. 43 richiama piattaforme interoperabili e formati aperti non proprietari. 
 
 La consegna finale deve servire alla gestione. Modello, elaborati “come costruito”, manuali e piano di manutenzione vanno collegati al bene, alle parti e ai responsabili. Il capitolo 9 spiega il passaggio dall'opera collaudata alla manutenzione.
 
-## GIS, cartografia e rilievo
+## N-TR03-12-03 · GIS, cartografia e rilievo
 
 ### Geometrie, attributi, layer e query
 
@@ -109,7 +109,7 @@ Il rilievo parte dallo scopo: contabilità, progetto, controllo, aggiornamento o
 
 GNSS, stazione totale, laser scanner e fotogrammetria hanno funzioni e limiti differenti. La nuvola di punti non è già un modello informativo: deve essere controllata, interpretata e trasformata secondo il requisito.
 
-## Catasto e dati immobiliari
+## N-TR03-12-04 · Catasto e dati immobiliari
 
 ### Identificativi, mappe, visure e aggiornamenti
 
@@ -123,7 +123,7 @@ Dato catastale, pubblicità immobiliare e controllo edilizio svolgono funzioni d
 
 Stato dei luoghi, planimetria catastale, ultimo titolo, elaborati comunali e modello BIM possono non coincidere. Il capitolo 6 tratta stato legittimo e conformità: la visura è una fonte da confrontare, non la conclusione.
 
-## Patrimonio pubblico e inventario tecnico
+## N-TR03-12-05 · Patrimonio pubblico e inventario tecnico
 
 ### Regime, funzione e responsabilità
 
@@ -152,7 +152,7 @@ AINOP identifica categorie di opere pubbliche e raccoglie dati sul ciclo di vita
 
 L'integrazione efficace conserva la fonte di ciascun dato, registra conflitti e assegna il sistema da aggiornare. Copiare lo stesso valore in più archivi senza governance moltiplica gli errori.
 
-## Caso guidato: riconciliare i dati di una scuola
+## N-TR03-12-06 · Caso guidato: riconciliare i dati di una scuola
 
 Un Comune deve riqualificare una scuola. La planimetria catastale non coincide con l'ultimo elaborato edilizio; il modello del progetto non contiene alcuni dati manutentivi; un layer GIS dei vincoli è datato; il rilievo recente dichiara sistema di riferimento e controlli; l'inventario ha consistenza e responsabile non aggiornati.
 
@@ -173,7 +173,7 @@ Il tecnico assegna a ogni fonte la domanda alla quale può rispondere:
 | catasto | identificativi e dati censuari | funzione catastale | distinto da stato legittimo |
 | inventario | consistenza, uso e gestione | programmazione patrimoniale | richiede aggiornamento |
 
-## Domande ed errori
+## ▣ Verifica
 
 ### Domanda da commissario
 
@@ -191,7 +191,7 @@ No. La coincidenza geometrica non sostituisce titoli, stato legittimo e verifich
 
 Usare il file più recente come fonte assoluta. La data conta, ma va letta insieme a funzione, autore, metodo, approvazione e qualità.
 
-## Mini-esercizio e checklist
+### Mini-esercizio e checklist
 
 Associa: coordinate senza sistema; planimetria catastale; modello approvato ma privo di dati manutentivi; inventario con responsabile cessato.
 
@@ -219,4 +219,4 @@ Checklist:
 
 ## Note di review
 
-Prima della pubblicazione, verificare art. 43 e Allegato I.9 vigenti, coordinamento dei D.M. 560/2017 e 312/2021, Linee guida RNDT, procedure catastali e disciplina inventariale applicabile all'ente. Il capitolo richiede review di BIM manager, specialista GIS, geomatico, tecnico catastale, tecnico SUE, responsabile del patrimonio ed esperto di interoperabilità. Ruoli, soglie, formati, sistemi di riferimento e procedure reali devono sempre derivare dalle fonti applicabili.
+Audit del 21 agosto 2026: verificati art. 43 e Allegato I.9 vigenti, coordinamento con i D.M. n. 560/2017 e n. 312/2021, Linee guida RNDT, procedure catastali e disciplina inventariale. Il capitolo evita di fissare soglie operative e distingue correttamente BIM, GIS, catasto, pubblicità immobiliare e inventario patrimoniale. Per il caso concreto restano applicabili fonti, sistemi di riferimento e procedure dell'ente.

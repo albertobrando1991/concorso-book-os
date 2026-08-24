@@ -2,21 +2,21 @@
 id: chapter-m-tr03-02-ufficio-tecnico-responsabilita-atti
 type: book_chapter
 title: "Ufficio tecnico pubblico, responsabilità e atti tecnici"
-status: draft
+status: reviewed
 domain: "concorsi pubblici italiani"
 topics: ["ufficio tecnico", "procedimento amministrativo", "atti tecnici", "responsabilità"]
 entities: ["Legge 241/1990", "Pubblica Amministrazione"]
 source_refs: ["sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva", "sources/legge-241-1990-procedimento-amministrativo", "sources/legge-14-gennaio-1994-n-20-responsabilita-erariale", "sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio", "sources/campione-bandi-tecnici-pa-vol-10-2026", "sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici", "il-metodo-bando"]
 confidence: 0.76
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "technical-office"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 2
-draft_stage: professional-draft
+draft_stage: publication_candidate
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-02-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md", "wiki/topics/procedimento-amministrativo.md", "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md"]
@@ -52,7 +52,7 @@ L’output è una mappa `ufficio–procedimento–atto`, accompagnata da una che
 
 Conta anche la forma dell’output. Una conoscenza corretta, inserita nel documento sbagliato, può indebolire l’intera risposta.
 
-## Che cos’è un ufficio tecnico pubblico
+## N-TR03-02-01 · Che cos’è un ufficio tecnico pubblico
 
 “Ufficio tecnico” è un’etichetta funzionale, non un organigramma identico per tutte le amministrazioni. Un comune può distribuire urbanistica, edilizia privata, lavori pubblici, manutenzioni e patrimonio tra settori diversi. Una regione o un’amministrazione centrale può organizzare competenze tecniche per direzioni, servizi, progetti o strutture specialistiche.
 
@@ -71,7 +71,7 @@ L’indirizzo definisce obiettivi e priorità. La gestione organizza risorse, pr
 
 Questi piani possono incontrarsi, ma non vanno confusi. Una relazione può suggerire una soluzione sulla base delle verifiche compiute; non per questo sostituisce automaticamente il provvedimento dell’organo competente. Allo stesso modo, la decisione amministrativa non può ignorare i presupposti tecnici senza rendere comprensibile il percorso seguito.
 
-## Dal fatto al procedimento
+## N-TR03-02-02 · Dal fatto al procedimento
 
 Il procedimento è la sequenza organizzata attraverso cui l’amministrazione forma la propria decisione. Nell’attività tecnica questa sequenza parte spesso da un fatto: una segnalazione, un degrado, una domanda edilizia, un’esigenza manutentiva, un controllo o una fase dell’esecuzione.
 
@@ -91,7 +91,7 @@ La valutazione tecnica interpreta i dati secondo conoscenze specialistiche. La d
 
 La distinzione evita una risposta frequente ma imprecisa: “il tecnico decide”. In alcuni casi il tecnico può anche essere titolare della competenza finale; in altri svolge accertamento, istruttoria o proposta. Il candidato deve sempre ricostruire il ruolo dal caso, non dalla qualifica.
 
-## I documenti del tecnico
+## N-TR03-02-03 · I documenti del tecnico
 
 Non esiste un unico modello legale valido per ogni ente e procedimento. Cambiano modulistica, sistemi documentali, competenze e disciplina settoriale. Restano però alcune funzioni riconoscibili.
 
@@ -133,7 +133,7 @@ Il parere esprime una valutazione richiesta nell’ambito del procedimento. La p
 
 Gli allegati devono avere una funzione riconoscibile. Ogni tavola, foto, computo o estratto deve avere un richiamo nel testo e una funzione. Un fascicolo pieno di documenti non citati è difficile da controllare quanto un fascicolo incompleto.
 
-## Tracciabilità e fascicolo
+## N-TR03-02-04 · Tracciabilità e fascicolo
 
 La tracciabilità consente di ricostruire chi ha svolto un’attività, su quali dati, in quale momento e con quale esito. Nel fascicolo tecnico devono essere riconoscibili almeno:
 
@@ -147,7 +147,7 @@ La tracciabilità consente di ricostruire chi ha svolto un’attività, su quali
 
 La tracciabilità non è burocrazia aggiunta al lavoro tecnico. È ciò che rende il lavoro verificabile, coordinabile e difendibile.
 
-## Responsabilità: una mappa per funzioni
+## N-TR03-02-05 · Responsabilità: una mappa per funzioni
 
 Le responsabilità non si attribuiscono per slogan. Occorre individuare la condotta, il dovere violato, il ruolo ricoperto, l’elemento soggettivo richiesto e la conseguenza prevista.
 
@@ -162,13 +162,13 @@ Le responsabilità non si attribuiscono per slogan. Occorre individuare la condo
 
 Un medesimo fatto può essere esaminato su più piani, ma nessuna responsabilità nasce automaticamente dalla sola presenza di un errore. In prova conviene ricostruire ruolo, condotta, nesso e fonte, evitando conclusioni sommarie.
 
-## Coordinamento e conferenza di servizi
+## N-TR03-02-06 · Coordinamento e conferenza di servizi
 
 Molti procedimenti tecnici richiedono pareri, nulla osta o altri atti di più uffici e amministrazioni. La conferenza di servizi è uno strumento di coordinamento previsto dalla disciplina generale del procedimento. Può avere funzione istruttoria, decisoria o preliminare.
 
 Per il tecnico conta soprattutto il metodo: individuare gli apporti necessari, formulare un quesito preciso, mettere a disposizione documenti leggibili e registrare gli esiti. Il coordinamento non elimina le competenze; le rende esercitabili dentro una sequenza comune.
 
-## Caso guidato: un sopralluogo su un immobile comunale
+## N-TR03-02-07 · Caso guidato: un sopralluogo su un immobile comunale
 
 Un ufficio riceve una segnalazione relativa al distacco di materiale da una porzione di facciata. Il candidato non deve saltare subito alla soluzione definitiva.
 
@@ -186,23 +186,23 @@ Verbale e relazione hanno funzioni diverse.
 La valutazione tecnica non coincide sempre con la decisione finale.  
 La responsabilità si ricostruisce da ruolo, condotta, fonte e conseguenza.
 
-## Domanda da commissario
+## ▣ Verifica
 
 **Qual è la differenza tra accertamento tecnico e decisione amministrativa?**
 
 L’accertamento ricostruisce fatti e dati mediante attività specialistiche. La valutazione tecnica interpreta tali elementi. La decisione amministrativa è adottata dal soggetto competente e produce gli effetti previsti. Le tre fasi possono appartenere alla stessa struttura, ma non sono concettualmente intercambiabili.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Chi firma la relazione tecnica è sempre responsabile anche del provvedimento finale?**
 
 No. La firma attesta la paternità e la responsabilità del documento nei limiti del ruolo svolto. La competenza sul provvedimento finale deve essere individuata nella disciplina e nell’organizzazione applicabili.
 
-## Errore tipico
+### Errore tipico
 
 La risposta descrive subito la soluzione tecnica e salta il procedimento. Mancano competenza, dati, documenti, istruttoria e soggetto decisore. Per correggerla, ricostruisci prima la catena documentale.
 
-## Mini-esercizio e checklist
+### Mini-esercizio e checklist
 
 Ordina questi elementi: decisione, sopralluogo, segnalazione, relazione, verifica della competenza, proposta, acquisizione dei precedenti.
 
@@ -229,6 +229,6 @@ Controlla poi:
 
 ## Note di review
 
-- Prima della pubblicazione verificare il testo vigente delle fonti normative e i rinvii puntuali al `VOL-01`.
+- Audit del 21 agosto 2026: testo vigente delle fonti normative e rinvii puntuali a `VOL-01` verificati. Per il caso concreto restano determinanti organizzazione dell'ente, atto di incarico e disciplina applicabile.
 - I modelli di verbale e relazione cambiano per ente e procedimento: la struttura proposta è didattica, non modulistica ufficiale.
 - La mappa delle responsabilità orienta la risposta ma non sostituisce la verifica dei presupposti della singola forma di responsabilità.

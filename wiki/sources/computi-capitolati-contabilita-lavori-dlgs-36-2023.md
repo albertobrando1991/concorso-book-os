@@ -9,14 +9,14 @@ entities: ["D.Lgs. 36/2023","Allegato I.7","Allegato II.14","RUP","Direttore dei
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md","sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.94
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","vol-10","computo","capitolato","contabilita-lavori"]
 source_type: official_consolidated_text
 source_url: "https://www.normattiva.it/eli/id/2023/03/31/23G00044/CONSOLIDATED"
-source_date: "2026-07-30"
+source_date: 2026-08-21
 authority_level: alta
 ---
 
@@ -24,7 +24,7 @@ authority_level: alta
 
 ## Perimetro verificato
 
-La scheda consolida D.Lgs. 36/2023, artt. 41, 82 e 115, Allegato I.7 e Allegato II.14. Le regole su prezzari, costi, documenti, riserve e piattaforme sono mobili e richiedono verifica alla data del bando.
+La scheda consolida D.Lgs. 36/2023, artt. 41, 82 e 115, Allegato I.7 e Allegato II.14, ricontrollati il 21 agosto 2026. Prezzari, costi e condizioni del contratto restano necessariamente riferiti a territorio, data e singola procedura.
 
 ## Claim consolidati
 
@@ -67,4 +67,3 @@ La scheda consolida D.Lgs. 36/2023, artt. 41, 82 e 115, Allegato I.7 e Allegato 
 - Normattiva, [art. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36~art115!vig=).
 - Normattiva, [Allegato I.7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:8!vig=).
 - Normattiva, [Allegato II.14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:29!vig=).
-

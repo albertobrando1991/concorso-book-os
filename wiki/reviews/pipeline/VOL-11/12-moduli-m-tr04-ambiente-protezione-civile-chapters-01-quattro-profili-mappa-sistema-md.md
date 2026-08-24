@@ -14,8 +14,8 @@ Applicati i controlli su struttura e indice, progressione, promesse formative, a
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 |----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | Riferimenti finali | Contenuto normativo | Media | Le versioni mobili 2026 di direttive, CAM, IT-Alert, GSE/ARERA e bandi non sono verificate individualmente. | Consolidare source note ufficiali e aggiornare frontmatter prima del text freeze. | Da verificare |
-| E02 | Nuclei 01-05 | Coerenza globale | Lieve | Alcuni nuclei riprendono la stessa sequenza problema–fonte–output per rinforzo didattico. | Conservare nel primo capitolo; ridurre eventuali ripetizioni dopo il confronto con i capitoli successivi. | Proposto |
+| E01 | Riferimenti finali | Contenuto normativo | Media | Le versioni mobili 2026 richiedevano audit specialistico. | Consolidare source note ufficiali e aggiornare frontmatter prima del text freeze. | Risolto nello step 15; ricontrollo ufficiale 21-08-2026 |
+| E02 | Nuclei 01-05 | Coerenza globale | Grave | Una seconda sequenza di cinque nuclei duplicava la struttura dopo i riferimenti finali. | Eliminare esclusivamente la seconda sequenza e conservare i cinque nuclei canonici, il caso e i quiz commentati. | Risolto il 21-08-2026; cinque nuclei univoci, tutti sopra 600 parole |
 
 ## 4. Osservazioni per capitolo
 
@@ -48,10 +48,10 @@ Applicati i controlli su struttura e indice, progressione, promesse formative, a
 
 ## 9. Giudizio di pubblicabilità
 
-Non pubblicabile allo stato attuale.
+Pubblicabile con correzioni minori.
 
-Motivazione: il capitolo supera i gate strutturali e di densità, ma le fonti mobili e il confronto trasversale con il modulo completo richiedono ancora verifica specialistica.
+Motivazione: il capitolo contiene una sola sequenza di cinque nuclei, tutti sopra soglia, sei risposte commentate e rinvii pubblicabili; l’audit specialistico del modulo e il ricontrollo ufficiale del 21 agosto 2026 hanno chiuso le fonti mobili.
 
 ## 10. Limiti di questa revisione
 
-Non è stato ispezionato un PDF impaginato. I capitoli 02-14 non sono ancora disponibili per il confronto globale. Le norme e i dati operativi 2026 sono stati mantenuti come elementi da verificare, non dichiarati definitivamente vigenti.
+Non è stato ancora riesaminato il PDF dopo questa correzione controllata; la resa grafica resta al preflight. I capitoli 02-14 sono stati confrontati nella revisione trasversale e nell’audit specialistico degli step 13-15.

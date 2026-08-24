@@ -1,7 +1,7 @@
 # Checklist caricamento KDP — VOL-11
 
 - [x] Interno PDF disponibile: `vol-11-interior-kdp.pdf`.
-- [x] Formato interno verificato: 6,69 × 9,61 in, 223 pagine, senza bleed.
+- [x] Formato interno verificato: 6,69 × 9,61 in, 225 pagine, senza bleed.
 - [x] Font incorporati e PDF non cifrato.
 - [x] Preflight locale e ispezione visiva completati.
 - [ ] Copertina completa conforme al template KDP selezionato.

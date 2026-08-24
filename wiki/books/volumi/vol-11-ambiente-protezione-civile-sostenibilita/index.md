@@ -2,16 +2,16 @@
 id: volume-vol-11-ambiente-protezione-civile-sostenibilita
 type: volume
 title: "VOL-11 — Ambiente, protezione civile e sostenibilità"
-status: outline_ready
+status: specialist_audit_done
 domain: "concorsi pubblici italiani"
 topics: ["VOL-11", "ambiente", "protezione civile", "sostenibilità", "energia e clima"]
 entities: ["M-TR04", "MASE", "ISPRA", "SNPA", "Dipartimento della Protezione Civile", "GSE", "ARPA"]
 source_refs: ["sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
 book_refs: ["m-tr04-ambiente-protezione-civile", "il-metodo-bando"]
-confidence: 0.78
-updated_at: 2026-08-07
+confidence: 0.93
+updated_at: 2026-08-21
 created_at: 2026-08-07
-review_required: true
+review_required: false
 canonical: true
 tags: ["volume", "volume-code-vol-11", "ambiente", "protezione-civile", "sostenibilita"]
 book_id: vol-11-ambiente-protezione-civile-sostenibilita
@@ -19,7 +19,7 @@ volume_code: VOL-11
 module_codes: ["M-TR04"]
 module_family: trasversali
 companion_to: il-metodo-bando
-draft_stage: outline-ready
+draft_stage: specialist_audit_done
 last_compiled_from: ["sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
 ---
 

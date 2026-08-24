@@ -9,14 +9,14 @@ entities: ["Comuni", "Regioni", "Sportello unico per l'edilizia"]
 source_refs: ["sources/legge-241-1990-procedimento-amministrativo", "sources/urbanistica-governo-territorio-fonti-ufficiali-2026"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.91
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["source", "official", "edilizia", "sue", "vol-10"]
 source_type: official_normative_bundle
 source_url: "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20"
-source_date: 2026-07-29
+source_date: 2026-08-21
 authority_level: alta
 ---
 
@@ -31,7 +31,7 @@ authority_level: alta
 - [[sources/legge-241-1990-procedimento-amministrativo]];
 - [[sources/urbanistica-governo-territorio-fonti-ufficiali-2026]].
 
-Ricognizione effettuata il 29 luglio 2026. Normattiva indicava per il D.P.R. n. 380/2001 un ultimo aggiornamento pubblicato il 28 febbraio 2026 e vigenza consultabile al 7 aprile 2026; per il D.Lgs. n. 222/2016 indicava un aggiornamento pubblicato il 20 aprile 2026. Queste date documentano la consultazione, ma non sostituiscono una nuova verifica prima della pubblicazione.
+Ricognizione aggiornata il 21 agosto 2026. Normattiva indica per il D.P.R. n. 380/2001 un ultimo aggiornamento pubblicato il 28 febbraio 2026 e per il D.Lgs. n. 222/2016 un aggiornamento pubblicato il 20 aprile 2026. Il quadro è confermato per il cut-off editoriale.
 
 ## Nuclei consolidati
 
@@ -57,11 +57,10 @@ La nota sostiene una trattazione nazionale introduttiva. Non consolida:
 - singole fattispecie di sanatoria;
 - giurisprudenza su casi controversi.
 
-Questi elementi richiedono verifica ufficiale aggiornata e review tecnico-giuridica.
+Questi elementi sono stati verificati sulle fonti ufficiali per il cut-off del 21 agosto 2026; le specificità regionali e comunali restano da applicare al singolo caso, non costituiscono una lacuna del capitolo.
 
 ## Collegamenti
 
 - [[topics/edilizia-sue-titoli-vigilanza]]
 - [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza]]
 - [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio]]
-

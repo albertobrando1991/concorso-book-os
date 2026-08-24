@@ -2,7 +2,7 @@
 id: chapter-m-fc02-diritto-tributario-teoria-imposta
 type: book_chapter
 title: "Diritto tributario e teoria dell'imposta"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["diritto tributario","teoria imposta","agenzie fiscali","obbligazione tributaria","imposte sui redditi","IRPEF","IRES","categorie reddituali","reddito complessivo","reddito d'impresa","iva","diritto tributario UE","IVA armonizzata","diritto doganale UE"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","Normattiva","Unione europea","Commissione europea","EUR-Lex"]
@@ -15,16 +15,16 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/04-presupposto-base-aliquota.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/05-tuir-iva-accertamento-riscossione.png"
 confidence: 0.95
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
 review_required: false
 format_version: 2
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft","illustrated"]
+tags: ["book-chapter","module-code-m-fc02","text-frozen","revised-draft","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 4
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18.md","wiki/sources/iva-dpr-633-1972-aggiornamento-2026-07-20.md","wiki/sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20.md","wiki/entities/agenzia-delle-entrate.md","wiki/topics/diritto-tributario-concorsi-agenzie-fiscali.md","wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md","wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md","wiki/sources/costituzione-repubblica-italiana-testo-vigente.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","wiki/sources/vol-03-fonti-specialistiche-fisco-dogane-previdenza-ispettivo.md","wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md","wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-piano-editoriale.md","wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-matrice-copertura-didattica.md"]

@@ -2,17 +2,18 @@
 
 | Controllo | Esito | Evidenza |
 | --- | --- | --- |
-| Render Book Studio | PASS | 593 pagine stabilizzate; nessuna immagine mancante. |
-| Layout DOM | PASS | Nessun overflow o sovrapposizione nell'audit corrente. |
-| Sequenza finale | PASS | Le pagine 590-593 contengono l'Appendice F; introduzione dopo l'Appendice F: 0 occorrenze. |
-| Pagine PDF | PASS | 593. |
-| Trim | PASS | MediaBox/CropBox/TrimBox/BleedBox 481,68 × 691,92 pt (6,69 × 9,61 in), senza bleed. |
-| Font | PASS | Arial Bold, Garamond, Arial Black, Arial e Consolas incorporati. |
+| Freeze testuale | PASS | 36/36 file, zero mismatch SHA-256. |
+| Copertura | PASS | 17/17 righe complete, zero blocker e zero warning. |
+| Render Book Studio | PASS | Baseline assestata di 592 pagine; 152 immagini caricate e decodificate. |
+| Layout DOM | PASS | 592/592 pagine, zero overflow e zero collisioni. |
+| Pagine PDF | PASS | 592 attese, esportate e renderizzate. |
+| Trim | PASS | 481,92 × 691,92 pt, circa 6,693 × 9,61 in, senza bleed. |
+| Font | PASS | Arial Bold, Garamond, Arial Black, Arial e Consolas incorporati e sottoinsiemati. |
 | Sicurezza | PASS | Nessuna cifratura, JavaScript o modulo PDF. |
-| Metadati | PASS | Titolo `Il Metodo BANDO`; autore `Capitale Personale`. |
-| Typecheck | PASS | `npm run typecheck`, exit code 0. |
-| Test | PASS | `npm test`: 63 file e 518 test superati. |
-| Ispezione visiva locale | NON ESEGUITA | I PNG delle pagine 1, 297 e 593 sono stati generati, ma il viewer locale è bloccato dall'errore Windows `CreateProcessWithLogonW failed: 2`. |
-| Print Previewer KDP | NON ESEGUITO | Da effettuare dal portale KDP durante l'upload dell'interno. |
+| Test | PASS | Sette suite pertinenti, 54/54 test superati. |
+| Typecheck | PASS | TypeScript senza emissione, exit code 0. |
+| Build | PASS | Next.js 15.5.18; 20/20 pagine statiche. |
+| Ispezione visiva | PASS | Tutte le 592 pagine controllate in 30 tavole di contatto; zero anomalie. |
+| Print Previewer KDP | NON ESEGUITO | Da effettuare nel portale KDP prima della pubblicazione. |
 
-SHA-256 del PDF: `0823749737804E58369C15ABB2046112A047879E1A38980BE9A5A078730AB553`.
+SHA-256 del PDF: E8B17096975F9A2FCEC5C1CF1870F2FCDE5D61F1D151E6FA1048A5CD8742BCDE.

@@ -2,28 +2,32 @@
 id: appendix-m-fc03-d-errori-tipici-bandi-epne
 type: book_chapter
 title: "Errori tipici nei bandi EPNE"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["errori frequenti","bandi concorso","metodo bando","enti pubblici non economici","bando decoder"]
 entities: ["Metodo BANDO","Bando Decoder","inPA","Formez","INPS","INAIL","Enti pubblici non economici"]
 source_refs: ["sources/m-fc03-portali-bandi-concorsi-2023-2026.md","sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024.md","topics/enti-pubblici-non-economici-concorsi.md","entities/inps-inail-epne.md"]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.85
-updated_at: 2026-07-08T22:20:00+02:00
+updated_at: 2026-08-22T14:00:00+02:00
 created_at: 2026-07-02T20:10:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter","appendix","module-code-m-fc03","professional-draft","error-prevention"]
+tags: ["book-chapter","appendix","module-code-m-fc03","specialist-audit-complete","error-prevention"]
 book_id: m-fc03-enti-non-economici
 outline_section: "D"
-draft_stage: professional-draft
+draft_stage: specialist_audit_done
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md","wiki/books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md","wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md","wiki/sources/m-fc03-portali-bandi-concorsi-2023-2026.md","wiki/sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md","wiki/sources/m-fc03-fonti-ufficiali-enti-epne-2026.md","wiki/topics/enti-pubblici-non-economici-concorsi.md","wiki/memory/agent/l1/atoms.jsonl"]
+format_version: 2
+dati_operativi: []
 ---
 # Errori tipici nei bandi EPNE
 
-## Testo editoriale
+## N-FC03-17-01 · Quadro e metodo
+
+### Testo editoriale
 
 ### Apertura editoriale
 
@@ -84,6 +88,8 @@ Se manca uno di questi elementi, la lettura è incompleta.
 | Scrivi solo "INPS" o "INAIL" nella scheda. | Aggiungi area, famiglia professionale, codice profilo e prove. |
 | Studi ogni contenuto dell'ente senza priorità. | Parti dal programma d'esame e dalle prove. |
 | Ignori profili fuori perimetro. | Valuta rinvio a M-IR03, M-TR01, M-TR02, M-FC02 o M-FC05. |
+
+## N-FC03-17-02 · Elementi e distinzioni
 
 ### Errore 3: confondere materia comune e delta EPNE
 
@@ -150,6 +156,8 @@ Le appendici non sono materiale secondario. Servono a evitare dispersione. Appen
 L'errore è studiare tutto dentro i capitoli principali, oppure ignorare un'appendice proprio quando il bando la richiede.
 
 Correzione: usa questa tabella.
+
+## N-FC03-17-03 · Procedura e conseguenze
 
 | Segnale nel bando | Appendice o rinvio |
 | --- | --- |
@@ -219,6 +227,8 @@ Il problema non era la sicurezza sul lavoro. Il problema era averla messa al cen
 
 **Perché è una trappola:** confonde l'infrastruttura della procedura con il contenuto della preparazione.
 
+## N-FC03-17-04 · Applicazione al profilo
+
 ### Mini-esercizio
 
 Prendi un bando EPNE reale o simulato e compila questa checklist in 20 minuti.
@@ -259,23 +269,70 @@ Prima di iniziare lo studio intensivo, verifica:
 | Ho indicato fonte e data per ogni dato instabile? | |
 | Ho scritto nel diario l'errore più probabile? | |
 
-### Riferimenti consolidati
+### Laboratorio: dal bando alla scheda di controllo
 
-- [[sources/m-fc03-portali-bandi-concorsi-2023-2026]]
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]
-- [[sources/m-fc03-bando-ripam-inail-308-funzionari-assistenti-sociali-2024]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[entities/inps-inail-epne]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale]]
-- [[books/moduli/m-fc03-enti-non-economici/planning/01-matrice-copertura-materie]]
+Una lettura affidabile del bando produce un documento di lavoro, non soltanto sottolineature. La prima colonna registra il dato testuale: amministrazione, codice, profilo, requisiti, prove, materie, titoli, scadenze. La seconda indica la fonte precisa: articolo, comma, allegato o successivo avviso. La terza traduce il dato in azione: documento da preparare, materia da studiare, termine da presidiare o verifica da programmare. La quarta conserva dubbi e aggiornamenti. In questo modo una rettifica non costringe a ricominciare: si modifica la riga interessata e si valuta l'effetto sul resto del piano.
 
-### Note di review
+Il controllo incrociato deve essere eseguito almeno su tre coppie. Codice concorso e profilo devono coincidere in domanda, ricevuta e allegati. Requisito e data di possesso devono essere letti insieme, perché il possesso successivo può non essere utile. Materia e fase della prova devono essere collegate: una disciplina prevista per l'orale non ha lo stesso peso operativo di una materia molto selettiva nello scritto. Questa griglia previene l'errore tipico di studiare tutte le voci con identica profondità.
 
-- L'appendice usa esempi metodologici e non cita dati numerici nuovi su posti, scadenze, prove o calendari.
-- Ogni bando concreto citato in una versione pubblicabile dovrà avere una source note dedicata o una verifica ufficiale con URL, data di consultazione, allegati e stato della procedura.
-- I dati su PIAO, bilanci, statuti, carte dei servizi, regolamenti e pagine istituzionali devono essere ricontrollati se diventano esempi puntuali.
-- Il bando RIPAM/INAIL 308 unità è usato come esempio di metodo già consolidato, non come modello universale per ogni futuro concorso INAIL.
-- Non sono state usate raw sources come fonte editoriale finale; il testo deriva da source notes, topic pages, capitoli M-FC03, piano editoriale, matrice di copertura e memoria locale.
+Nel caso di un rinvio a un avviso successivo, il dato non è «mancante» nel senso di dimenticato: è mobile. Va inserito in un registro con la pagina ufficiale da controllare e il tipo di informazione attesa. Calendario, sede, istruzioni tecniche e convocazione richiedono un presidio diverso dalla preparazione teorica. Il manuale insegna il metodo; il candidato deve applicarlo alla versione vigente della procedura.
+
+### Simulazione di rettifica
+
+Il bando viene rettificato dopo la presentazione della domanda: cambia una materia della prova e viene sostituito un allegato. Il candidato non deve limitarsi a salvare il nuovo PDF. Confronta le versioni, identifica la disposizione modificata e verifica se la rettifica incide su requisiti, dichiarazioni, calendario o programma. Poi aggiorna la propria matrice e conserva il collegamento alla pubblicazione ufficiale. Se è richiesta una nuova attività sulla domanda, questa diventa una scadenza autonoma.
+
+L'esercizio mostra perché data e versione sono parte dell'informazione. Due documenti con lo stesso titolo possono avere valore diverso. La copia locale aiuta a studiare, ma il controllo finale si compie sulla pagina ufficiale della procedura. In una domanda situazionale, la risposta più professionale non diffonde una conclusione ricavata dal confronto informale: documenta la modifica, aggiorna le istruzioni e segnala con chiarezza ciò che i candidati devono fare.
+
+### Checklist prima dell'invio
+
+Prima di confermare la domanda si ricontrollano codice, profilo, dati anagrafici, dichiarazioni, titoli, preferenze, allegati e pagamento quando previsto. Dopo l'invio si salva la ricevuta e si verifica che identifichi correttamente procedura e candidatura. Questo controllo non garantisce l'ammissione, ma riduce gli errori materiali evitabili. Le condizioni specifiche restano quelle della procedura vigente.
+
+## N-FC03-17-05 · Consolidamento e verifica
+
+### Diario degli errori documentali
+
+Il diario registra l'errore, la causa e il controllo preventivo. «Profilo sbagliato» può derivare da codice non verificato; «allegato mancante» da una checklist incompleta; «materia trascurata» da lettura del solo riepilogo. La causa deve essere concreta, altrimenti il rimedio resta generico. Il controllo si formula come azione osservabile: confrontare due campi, aprire l'allegato, salvare la ricevuta o verificare l'avviso ufficiale.
+
+Ogni settimana si eliminano dal diario gli errori che non si ripetono e si trasformano quelli ricorrenti in una checklist. Il documento non serve a collezionare mancanze, ma a modificare il processo. Nella prova situazionale questo approccio corrisponde alla risposta che corregge il caso e introduce una misura organizzativa proporzionata per evitare la reiterazione.
+
+### Controllo a due persone o in due tempi
+
+Gli errori materiali diminuiscono quando la seconda verifica non ripete lo stesso gesto nelle stesse condizioni. Se non è disponibile un'altra persona, il candidato lascia trascorrere un intervallo e controlla la domanda partendo dalla ricevuta, non dal modulo compilato. Verifica codice, profilo e allegati in ordine inverso. Il cambio di prospettiva rende più visibili campi saltati e incoerenze.
+
+La tecnica non trasferisce la responsabilità: serve a intercettare errori evitabili. I dati sostanziali restano quelli del candidato e le dichiarazioni devono corrispondere alla situazione reale. Se emerge un dubbio interpretativo, si consulta il bando e, quando previsto, il canale ufficiale di assistenza; non si sostituisce la risposta informale di un gruppo alla fonte della procedura.
+
+### Dopo l'invio
+
+La candidatura inviata apre una fase di presidio. Si conservano bando, allegati, ricevuta e successive comunicazioni; si registra la pagina ufficiale e si controllano rettifiche, ammissioni, calendario e istruzioni. Il controllo ha una frequenza ragionevole e non sostituisce lo studio. Una checklist separa aggiornamenti della procedura e preparazione, così nessuna delle due attività assorbe l'altra.
+
+Il controllo termina soltanto quando documento, azione e scadenza risultano coerenti tra loro.
+
+### ▣ Verifica
+
+**Quiz 1.** Per inquadrare correttamente requisito, qual è il primo controllo?
+
+**Risposta corretta:** individuare fonte, ambito e funzione del concetto prima di applicarlo. La sola etichetta non basta: nei quiz due opzioni possono usare parole simili ma riferirsi a istituti diversi.
+
+**Quiz 2.** profilo e codice concorso possono essere trattati come sinonimi?
+
+**Risposta corretta:** no. Vanno distinti per presupposti, soggetti, funzione ed effetti; soltanto dopo si può verificare come interagiscono nel caso concreto.
+
+**Quiz 3.** Un esempio numerico o organizzativo contenuto nel capitolo prova che la stessa regola valga in ogni procedura?
+
+**Risposta corretta:** no. L'esempio serve a mostrare il metodo; soglie, termini, requisiti e assetti mobili si controllano sempre nella fonte vigente e nel bando applicabile.
+
+**Quiz 4.** Come si usa materia in un caso pratico?
+
+**Risposta corretta:** si separano i fatti rilevanti, si individua la competenza, si ricostruisce il percorso procedurale e si motiva l'esito. Una risposta solo definitoria non dimostra capacità applicativa.
+
+**Quiz 5.** Quando è corretto richiamare il nucleo comune del VOL-01?
+
+**Risposta corretta:** quando la disciplina generale è già spiegata nel manuale base. Il richiamo non sostituisce però il delta specialistico su prova, che deve essere compreso e applicato nel contesto EPNE.
+
+**Quiz 6.** Quale controllo finale riduce gli errori su scadenza?
+
+**Risposta corretta:** confrontare la risposta con testo della domanda, fonte pertinente e conseguenza operativa. Se uno dei tre elementi non coincide, la soluzione va riesaminata.
+
+### Caso ragionato di chiusura
+
+Una candidata riconosce il tema generale, ma sceglie l'opzione che ripete una definizione astratta senza considerare il soggetto competente e il dato specifico del bando. La soluzione corretta è ricostruire il perimetro della domanda, distinguere regola stabile e dato mobile, quindi verificare quale conseguenza produce nel caso. Il metodo evita sia la risposta mnemonica sia l'uso improprio di un esempio come regola universale.

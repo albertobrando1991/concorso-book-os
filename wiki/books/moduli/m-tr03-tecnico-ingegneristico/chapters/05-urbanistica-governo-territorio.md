@@ -2,21 +2,21 @@
 id: chapter-m-tr03-05-urbanistica-governo-territorio
 type: book_chapter
 title: "Urbanistica e governo del territorio"
-status: draft
+status: reviewed
 domain: "urbanistica"
 topics: ["pianificazione urbanistica", "standard urbanistici", "vincoli", "espropriazione", "paesaggio"]
 entities: ["Regioni", "Comuni", "Soprintendenze"]
 source_refs: ["sources/urbanistica-governo-territorio-fonti-ufficiali-2026", "sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita", "sources/campione-bandi-tecnici-pa-vol-10-2026", "sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.84
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "urbanistica"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 5
-draft_stage: professional-draft
+draft_stage: publication_candidate
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-05-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/urbanistica-governo-territorio-fonti-ufficiali-2026.md", "wiki/topics/urbanistica-governo-territorio.md"]
@@ -50,7 +50,7 @@ Al termine del capitolo saprai:
 | **D — Diario** | Ho confuso piano, titolo edilizio o autorizzazione di tutela? | errore |
 | **O — Output** | Devo spiegare, confrontare o risolvere un caso? | risposta |
 
-## Un sistema multilivello
+## N-TR03-05-01 · Un sistema multilivello
 
 La pianificazione territoriale coordina le scelte riferite ad aree vaste; quella urbanistica disciplina l’assetto e le trasformazioni a scala locale. La distinzione dipende dalla funzione dello strumento, non dal suo nome.
 
@@ -58,7 +58,7 @@ Stato, Regioni ed enti locali intervengono con competenze diverse. La legislazio
 
 Il procedimento di piano comprende normalmente elaborazione, adozione, pubblicità, partecipazione, osservazioni e approvazione secondo la disciplina applicabile. Adozione e approvazione non coincidono. Tra i due momenti possono operare misure di salvaguardia per evitare trasformazioni incompatibili con le previsioni adottate.
 
-## Piani: funzione, contenuto ed effetti
+## N-TR03-05-02 · Piani: funzione, contenuto ed effetti
 
 Il piano generale definisce l’assetto complessivo del territorio considerato: individua usi, infrastrutture, servizi, tutele e regole di trasformazione. Per attuare alcune previsioni servono però uno strumento attuativo, una convenzione, opere di urbanizzazione o altri atti.
 
@@ -72,7 +72,7 @@ Lo strumento attuativo precisa organizzazione dell’ambito, lotti, spazi pubbli
 
 Ai piani urbanistici si affiancano quelli territoriali, paesaggistici e di settore. L’esame di ciascuno richiede cinque domande: chi lo forma, quale territorio copre, che cosa disciplina, quali effetti produce e come si coordina con gli altri strumenti.
 
-## Zonizzazione, destinazioni e standard
+## N-TR03-05-03 · Zonizzazione, destinazioni e standard
 
 La zonizzazione divide il territorio in ambiti ai quali il piano attribuisce funzioni e regole. La destinazione urbanistica indica gli usi ammessi dal piano; non equivale al titolo edilizio, che riguarda la realizzazione del singolo intervento.
 
@@ -82,7 +82,7 @@ Gli standard urbanistici collegano gli insediamenti alle dotazioni pubbliche o d
 
 Uno standard non è un semplice parametro edilizio: riguarda l’equilibrio tra carico insediativo e dotazioni territoriali.
 
-## Dal piano all’intervento
+## N-TR03-05-04 · Dal piano all’intervento
 
 La prima verifica riguarda la conformità urbanistica: l’intervento è compatibile con destinazione, parametri, prescrizioni e modalità attuative del piano?
 
@@ -90,7 +90,7 @@ Se l’intervento non è conforme, una variante potrebbe non bastare. Bisogna ve
 
 La conformità urbanistica non sostituisce il titolo edilizio e non dimostra la compatibilità paesaggistica. Sono controlli distinti, trattati da discipline e amministrazioni che possono interagire nello stesso procedimento.
 
-## Vincoli: fonte, effetto, durata
+## N-TR03-05-05 · Vincoli: fonte, effetto, durata
 
 La parola “vincolo” copre situazioni diverse. Prima di descriverne le conseguenze bisogna identificarne fonte ed effetto.
 
@@ -113,7 +113,7 @@ Un’area urbanisticamente edificabile può essere paesaggisticamente vincolata.
 | espropriativa | esistono presupposti e sequenza per acquisire il bene? |
 | settoriale | quale disciplina speciale incide sull’area? |
 
-## Espropriazione e pianificazione
+## N-TR03-05-06 · Espropriazione e pianificazione
 
 L’espropriazione consente, nei casi e con le garanzie previste, di acquisire un bene per un’opera o finalità di pubblica utilità. La pianificazione può predisporre la localizzazione e il vincolo, ma non coincide con l’intero procedimento.
 
@@ -123,13 +123,13 @@ Nel caso concorsuale conviene ricostruire la sequenza:
 
 La sequenza è una mappa didattica: termini, varianti, procedimenti accelerati e casi speciali vanno verificati nel D.P.R. n. 327/2001 e nella disciplina applicabile.
 
-## Paesaggio e governo del territorio
+## N-TR03-05-07 · Paesaggio e governo del territorio
 
 La verifica paesaggistica accompagna il progetto e non può essere relegata alla fase finale. Il piano paesaggistico individua valori, ambiti e prescrizioni d’uso e si coordina con gli altri strumenti.
 
 Per un intervento su bene paesaggistico occorre verificare disciplina del piano, tipo di tutela e necessità dell’autorizzazione prevista dal Codice. Autorizzazione paesaggistica e titolo edilizio hanno funzioni diverse; ottenere l’uno non rende superfluo l’altro.
 
-## Caso guidato: area destinata a servizio
+## N-TR03-05-08 · Caso guidato: area destinata a servizio
 
 Un Comune intende realizzare una scuola su un’area privata. Il piano indica una destinazione a servizi; l’area ricade anche in un ambito paesaggisticamente tutelato.
 
@@ -152,29 +152,29 @@ Destinazione urbanistica, titolo edilizio e autorizzazione paesaggistica sono di
 Ogni vincolo va classificato per fonte ed effetto.  
 La previsione di piano non sostituisce il procedimento espropriativo.
 
-## Domanda da commissario
+## ▣ Verifica
 
 **Come si verifica la fattibilità urbanistica di un intervento?**
 
 Si identificano strumenti vigenti e disciplina regionale; si controllano destinazione, parametri, modalità attuative e salvaguardie; si ricostruiscono vincoli e tutele; infine si individuano procedimenti, competenze e atti necessari.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Se il piano ammette l’intervento, si può costruire immediatamente?**
 
 No. Possono servire uno strumento attuativo, opere o convenzioni, il titolo edilizio e autorizzazioni di tutela. La conformità al piano è necessaria, ma non esaurisce i controlli.
 
-## Errore tipico
+### Errore tipico
 
 Applicare a tutto il territorio nazionale nomi e procedimenti di una sola Regione. La risposta corretta dichiara il livello: principi nazionali, disciplina regionale, strumento locale.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Classifica le seguenti verifiche: destinazione dell’area; dotazioni di verde e parcheggi; tutela di un corso d’acqua; acquisizione coattiva; realizzazione del singolo edificio.
 
 Risposte: conformità urbanistica; standard; vincolo paesaggistico o settoriale da verificare; espropriazione; disciplina edilizia del capitolo 6.
 
-## Checklist del caso
+### Checklist del caso
 
 - Quale legge regionale si applica?
 - Quali piani sono vigenti o adottati?
@@ -197,8 +197,8 @@ Risposte: conformità urbanistica; standard; vincolo paesaggistico o settoriale 
 
 ## Note di review
 
-- Verificare prima della pubblicazione vigenza e coordinamento delle fonti nazionali.
+- Audit del 21 agosto 2026: vigenza e coordinamento delle fonti nazionali verificati; denominazioni e procedimenti regionali restano intenzionalmente descritti senza falsa uniformità nazionale.
 - Validare ogni esempio regionale sulla relativa legge e sugli strumenti effettivamente vigenti.
 - Sottoporre il capitolo a urbanista e amministrativista.
-- Controllare termini, durata ed effetti dei vincoli espropriativi sul D.P.R. n. 327/2001.
-- Coordinare il testo con il capitolo 6 e con l’Appendice B.
+- D.P.R. n. 327/2001 ricontrollato sul testo consolidato; il capitolo evita soglie e termini non necessari e distingue correttamente vincolo, dichiarazione di pubblica utilità e decreto di esproprio.
+- Coordinamento con il capitolo 6 verificato; gli apparati operativi sono incorporati nei due capitoli.

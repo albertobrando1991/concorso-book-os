@@ -2,247 +2,179 @@
 id: chapter-m-ir02-07-ricerca-grant-management
 type: book_chapter
 title: "Ricerca e grant management"
-status: editorial_draft
+status: final
 domain: "istruzione superiore italiana e concorsi pubblici"
 topics: ["universita", "ricerca", "grant management", "progetto", "budget di progetto", "rendicontazione"]
 entities: ["Ministero dell'Universita e della Ricerca", "Universita", "CNR"]
 source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione"]
 book_refs: ["m-ir02-universita-afam", "vol-06-scuola-universita-ricerca-cultura", "il-metodo-bando"]
 confidence: 0.74
-updated_at: 2026-08-04
+updated_at: 2026-08-22
 created_at: 2026-08-04
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-ir02", "chapter-07", "ricerca", "grant-management", "rendicontazione"]
 book_id: m-ir02-universita-afam
 outline_section: 7
-draft_stage: editorial-draft
+draft_stage: text_frozen
+format_version: 2
 last_compiled_from: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione", "topics/m-ir02-universita-afam-fonti-e-profili", "entities/ministero-universita-ricerca", "books/moduli/m-ir02-universita-afam/planning/03-piano-capitolo-07-ricerca-grant-management"]
 ---
 
 # Ricerca e grant management
 
-## Apertura editoriale
+### N-IR02-07-01 · Progetto di ricerca, call e grant: il perimetro da riconoscere
 
-Durante un progetto di ricerca emerge la necessita' di acquistare un servizio utile alle attivita'. Il gruppo dispone delle risorse e il fornitore può eseguire la prestazione nei tempi richiesti. Il problema sembra semplice, finché l'ufficio verifica che la spesa non compare nel budget nella forma attesa.
+Un progetto di ricerca non è una semplice attività ordinaria svolta da un ufficio universitario. È un insieme coordinato di obiettivi, attività, tempi, risorse, responsabilità e risultati attesi, collocato dentro un perimetro riconoscibile. Il candidato deve partire da questa idea: nel grant management non si gestisce solo una spesa, ma una catena in cui la decisione scientifica, il supporto amministrativo, il budget, i documenti e i controlli devono restare leggibili dall’inizio alla fine.
 
-Il pagamento, da solo, non risolve il caso. Bisogna capire se la spesa e' collegata al progetto, se la fonte di finanziamento la consente, se ricade nel periodo previsto, quale modifica sia eventualmente ammessa e chi possa autorizzarla. I documenti dovranno provare anche il rapporto tra costo, attivita' e risultato.
+La call è l’atto o l’avviso che apre l’opportunità di finanziamento. Definisce finalità, destinatari, requisiti, tempi, modalità di presentazione, criteri di valutazione, documenti richiesti e regole di gestione. Non va trattata come uno sfondo generico: è la prima fonte operativa del progetto. La proposta è invece la candidatura costruita dal proponente, nella quale l’idea di ricerca viene tradotta in obiettivi, attività, risultati, organizzazione, cronoprogramma e budget. Il grant, in senso operativo, è il finanziamento concesso secondo l’esito della procedura e formalizzato nell’atto, nell’accordo o nel provvedimento applicabile. Call, proposta e grant non sono sinonimi: indicano momenti diversi e producono effetti diversi.
 
-Il grant management segue il progetto dalla call alla chiusura e coordina contenuto scientifico, attivita' amministrativa, budget, documenti e controlli. Ricercatori, contabilita' e uffici conservano le proprie funzioni; il grant management cura i raccordi necessari per realizzare e rendicontare il progetto secondo le regole applicabili.
+Questa distinzione è centrale in concorso. Se una traccia parla di “progetto finanziato”, il candidato non deve saltare direttamente al pagamento o alla fattura. Deve chiedersi quale sia la fonte del finanziamento, quale versione del progetto sia stata approvata, quale budget sia vigente, quali condizioni siano state eventualmente poste e quale periodo sia coperto. La proposta iniziale potrebbe essere stata rimodulata prima della concessione; il budget approvato potrebbe non coincidere con quello ipotizzato nella candidatura; alcune attività potrebbero essere ammesse solo entro limiti, tempi o categorie definite dalla fonte. Inventare percentuali, soglie, massimali o procedure non fornite dalla traccia sarebbe un errore.
 
-## Obiettivo del capitolo
+Il progetto di ricerca va letto come una catena: obiettivo, risultato atteso, attività, tempo, risorsa, evidenza. L’obiettivo spiega che cosa si vuole ottenere; il risultato atteso rende verificabile l’esito; l’attività indica ciò che deve essere svolto; il tempo colloca l’azione nel cronoprogramma; la risorsa dà copertura organizzativa ed economica; l’evidenza dimostra che il passaggio è realmente avvenuto. Se uno di questi elementi manca, la gestione diventa fragile. Una spesa utile ma non collegata a un’attività approvata può essere problematica; un’attività prevista ma senza risorsa adeguata può restare solo dichiarata; un risultato indicato senza evidenza è difficile da difendere in rendicontazione.
 
-Al termine saprai:
+Nel bando di concorso, il tema può comparire con formule diverse: gestione di progetti di ricerca, grant management, supporto alla ricerca, rendicontazione, monitoraggio, budget, competenze contabili, istruttoria amministrativa, controllo della documentazione. Il candidato deve tradurre queste parole in output d’esame. Può essere richiesta una risposta orale sul ciclo di vita del progetto, una nota istruttoria su una spesa, una scheda progetto, una classificazione di costi e documenti, oppure un ragionamento su ruoli e responsabilità. La preparazione efficace non consiste nel memorizzare una call specifica, ma nel costruire un metodo applicabile alla fonte concreta che la prova mette a disposizione.
 
-- distinguere progetto, call, proposta e grant;
-- ricostruire il ciclo di vita di un progetto finanziato;
-- collegare ogni fase a ruoli, attivita', documenti, budget e controlli;
-- separare costo sostenuto, costo collegato al progetto e costo rendicontabile;
-- analizzare una spesa non prevista senza inventare la soluzione;
-- costruire una scheda e un piano di progetto per una prova concorsuale.
+La regola da portare con sé è prudente: le fonti nazionali e istituzionali offrono il quadro, ma la disciplina concreta del progetto deriva dalla call, dall’atto di concessione o grant agreement, dagli allegati, dai regolamenti e dagli atti locali dell’ateneo. Per questo una risposta forte non dice “si può fare” o “non si può fare” in astratto. Dice quali elementi vanno verificati, quali documenti servono e quale funzione organizzativa deve intervenire. Il grant management, in questa prospettiva, è il governo del collegamento tra progetto, regola, attività, costo e prova.
 
-Il capitolo tratta il processo generale. Le regole di PRIN, Horizon Europe, PNRR, ammissibilita' specifica e audit appartengono al capitolo 08. La contabilita' generale dell'ateneo e il ciclo documentale sono sviluppati nei capitoli 06 e 05.
+Un ultimo criterio aiuta a non uscire dal perimetro: il capitolo generale sul grant management non stabilisce le regole tecniche di un programma specifico. PRIN, Horizon Europe, PNRR o altri finanziamenti possono usare lessici, categorie e controlli propri. Qui conta il metodo che permette di leggere la fonte senza sostituirla con memoria o abitudine.
 
-## Mappa BANDO
+### N-IR02-07-02 · Ciclo di vita del progetto: dalla candidatura alla chiusura
 
-Nel bando cerca espressioni come "progetti di ricerca", "grant management", "gestione amministrativa", "budget", "rendicontazione", "supporto alla ricerca", "monitoraggio" e "controllo". Il corpus M-IR02 collega questi nuclei ai profili contabile e ricerca, con possibili output quali una scheda progetto, un'istruttoria o l'analisi di una situazione gestionale. Programma, prova e livello di dettaglio devono però essere verificati nella procedura concreta. [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]]
+Il ciclo di vita di un progetto finanziato può essere studiato in sette passaggi: lettura della call, costruzione della proposta, concessione, avvio, gestione, rendicontazione e chiusura. Questa sequenza serve al candidato perché impedisce di confondere fasi che hanno finalità diverse. Nella fase di candidatura si verifica se l’opportunità è coerente con l’idea di ricerca, con i requisiti del proponente, con i tempi disponibili e con la capacità amministrativa dell’ateneo. Non basta che il tema scientifico sia interessante: la proposta deve essere realizzabile, sostenibile e documentabile.
 
-| Passaggio | Domanda | Output di studio |
-| --- | --- | --- |
-| **B - Bando** | Quali progetti, fonti e funzioni sono richiamati? | perimetro della prova |
-| **A - Aree** | La traccia riguarda proposta, gestione, budget o chiusura? | fase da analizzare |
-| **N - Nuclei** | Quali regole, ruoli e documenti servono? | mappa del processo |
-| **D - Diario** | Ho confuso utilita', ammissibilita' e pagamento? | errore classificato |
-| **O - Output** | Devo produrre una scheda, una nota o un piano? | risposta adeguata |
+La costruzione della proposta richiede coerenza interna. Le attività devono produrre risultati; il cronoprogramma deve permettere di svolgerle; il budget deve riflettere ciò che il piano prevede; i documenti richiesti devono essere prodotti nei tempi stabiliti. Un costo inserito senza relazione con un’attività è difficile da motivare; un’attività priva di risorse può creare uno scostamento già prevedibile; un risultato ambizioso ma non misurabile rende debole il monitoraggio. In questa fase il responsabile scientifico presidia il contenuto della ricerca, mentre le strutture di supporto aiutano a leggere regole, condizioni, budget, scadenze e adempimenti.
 
-La presenza del termine "grant" non prova che il concorso richieda ogni programma di finanziamento. La fonte del progetto e il programma della selezione definiscono la profondita' necessaria. [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]]
+Con la concessione del finanziamento cambia la posizione del progetto. Non si ragiona più solo sulla proposta presentata, ma sulla versione approvata e sulle condizioni formalizzate. Vanno individuati l’atto di concessione o l’accordo, il periodo di eleggibilità, il budget approvato, gli obblighi informativi, gli eventuali vincoli specifici e le condizioni poste dal finanziatore. L’avvio è il momento in cui si costruisce il fascicolo di progetto e si condividono le regole con tutti i soggetti coinvolti. Un gruppo scientifico che ignora i vincoli amministrativi rischia di chiedere attività non compatibili; un ufficio amministrativo che non conosce il cronoprogramma rischia di attivare procedure fuori tempo.
 
-## Progetto, grant e call: che cosa cambia
+Durante la gestione si realizzano attività, procedure, acquisti, incarichi, missioni, servizi, registrazioni e comunicazioni. Il monitoraggio non è un controllo finale: deve accompagnare il progetto mentre è ancora possibile correggere rotta. Serve a rilevare ritardi, costi diversi dal previsto, documenti mancanti, attività non svolte, risultati parziali o variazioni necessarie. Ogni cambiamento va qualificato. Può trattarsi di un semplice aggiornamento operativo, di una modifica interna consentita, di una rimodulazione da comunicare, oppure di una variazione soggetta ad autorizzazione. La risposta dipende dalla fonte del finanziamento e dagli atti locali, non dall’intuizione del singolo operatore.
 
-### Il progetto come sistema di obiettivi, attivita', tempi e risorse
+La rendicontazione collega attività svolte, costi sostenuti, regole di finanziamento ed evidenze. Una somma di pagamenti non è una rendicontazione. Per ogni costo bisogna poter ricostruire il titolo, il periodo, il collegamento con il progetto, la procedura seguita, la documentazione disponibile, l’imputazione contabile e la conformità alla regola applicabile. La chiusura comprende anche la verifica degli output scientifici e amministrativi: consegne, relazioni, prospetti, attestazioni, obblighi residui, conservazione documentale e disponibilità della traccia di audit.
 
-Un progetto organizza un insieme coordinato di attivita' per ottenere risultati definiti entro un periodo e con risorse determinate. Rispetto all'attivita' ordinaria, ha un perimetro riconoscibile: parte da un bisogno o da una domanda di ricerca, individua obiettivi, programma azioni, assegna responsabilita' e stabilisce come verificare l'avanzamento.
+Il candidato può usare una griglia costante: fase, soggetto, attività, documento, effetto sul budget, controllo. Nella fase call il documento è l’avviso con i suoi allegati e il controllo riguarda requisiti e coerenza; nella proposta i documenti sono piano, cronoprogramma e budget e il controllo riguarda la tenuta interna; nell’avvio contano atto, accordo e versione approvata; nella gestione contano atti, registrazioni e prove di esecuzione; nella rendicontazione contano prospetti, giustificativi ed evidenze; nella chiusura contano consegne finali e fascicolo. Questa griglia è utile sia nello scritto sia all’orale, perché trasforma un tema ampio in una risposta ordinata.
 
-Questi elementi dipendono l'uno dall'altro. Una modifica dell'attivita' può incidere su tempi, costi, documenti e risultati. Spendere il budget non compensa un risultato mancato; allo stesso modo, una spesa contenuta ma estranea all'obiettivo non migliora il progetto.
+L’errore tipico è ragionare solo sulla fase in cui il problema emerge. Se il problema compare in rendicontazione, spesso la causa nasce prima: budget costruito male, documento non acquisito, variazione non autorizzata, attività modificata senza aggiornamento, costo imputato senza perimetro chiaro. Un buon grant manager non cerca alla fine una giustificazione retroattiva; conserva lungo il percorso le condizioni che rendono difendibile il progetto.
 
-La scheda progetto rende visibile almeno questa catena:
+### N-IR02-07-03 · Ruoli, responsabilità funzionali e atti locali
 
-`obiettivo -> risultato atteso -> attivita' -> tempo -> risorsa -> evidenza`
+Il grant management non assegna una competenza universale a un solo soggetto. È un sistema di raccordi. Il responsabile scientifico presidia obiettivi, metodo, attività di ricerca, risultati attesi e coerenza scientifica del progetto. Fornisce agli uffici le informazioni necessarie per collegare le spese alle attività e per motivare eventuali esigenze di modifica. Questa funzione è decisiva, ma non significa che il responsabile scientifico possa autorizzare qualunque spesa, modificare da solo il budget, approvare procedure o rendicontare costi senza le verifiche previste.
 
-L'evidenza chiude il percorso informativo. Permette di dimostrare che l'attivita' si e' svolta, che il costo le e' collegato e che il risultato dichiarato può essere verificato.
+Il gruppo di progetto realizza le attività assegnate e produce evidenze. Chi partecipa al progetto deve sapere quali informazioni conservare, quando comunicarle e a chi trasmetterle. La documentazione non nasce solo in amministrazione: può nascere nel laboratorio, nel dipartimento, nel servizio che acquisisce una prestazione, nella relazione scientifica, nella registrazione di un’attività, nella comunicazione con il finanziatore. Se queste evidenze arrivano tardi o in modo disordinato, la rendicontazione diventa più debole.
 
-### Call, proposta e grant
+Le funzioni di supporto alla ricerca seguono la lettura delle call, la candidatura, i rapporti informativi con il finanziatore, le condizioni del progetto e, secondo l’assetto dell’ateneo, il coordinamento amministrativo del grant. Le strutture amministrative curano i procedimenti necessari alla realizzazione: atti, acquisizioni, incarichi, missioni, comunicazioni, protocollazione, fascicolo e flussi interni. La contabilità rileva i fatti secondo il sistema dell’ateneo e rende disponibili dati coerenti per budget, monitoraggio, reporting e rendicontazione. Il controllo di gestione o le funzioni di monitoraggio, ove previste, aiutano a leggere scostamenti, avanzamento e impatti.
 
-La call definisce l'opportunita' di finanziamento e le sue condizioni. Stabilisce destinatari, finalita', requisiti, criteri, tempi, documenti e regole che il proponente deve rispettare. Questi contenuti sono mobili: nessuna sintesi generale sostituisce il testo vigente e i suoi allegati.
+Questa descrizione riguarda funzioni, non organigrammi rigidi. Gli atenei possono distribuire attività tra amministrazione centrale, dipartimenti, centri, uffici ricerca, ragioneria, segreterie amministrative, strutture tecniche e altri soggetti. Per questo il candidato non deve inventare denominazioni locali. In una prova concorsuale è corretto dire che la competenza concreta va individuata nello statuto, nel regolamento di amministrazione, finanza e contabilità, nei manuali contabili o procedurali, negli atti di organizzazione, nelle deleghe e nella disciplina del singolo finanziamento. Questa prudenza non indebolisce la risposta: la rende amministrativamente credibile.
 
-La proposta traduce un'idea in un progetto valutabile. Collega obiettivi, attivita', risultati, tempi, organizzazione e budget secondo quanto chiede la call. Non e' ancora il finanziamento: e' la candidatura presentata al soggetto competente.
+Gli atti locali sono importanti perché traducono il quadro generale in flussi operativi. Possono disciplinare chi istruisce, chi propone, chi autorizza, chi firma, chi registra, chi controlla e chi conserva. Possono stabilire responsabilità dei centri, soglie, passaggi interni, modalità di variazione, flussi documentali, regole di classificazione e rapporti tra strutture. La call e l’accordo possono aggiungere vincoli esterni: comunicazioni al finanziatore, autorizzazioni preventive, termini, modelli, piattaforme, obblighi di conservazione. In una risposta matura bisogna sempre distinguere tra regola del finanziatore e regola interna dell’ateneo.
 
-Il grant e' il finanziamento concesso al progetto secondo l'esito della procedura e le condizioni formalizzate nell'atto o nell'accordo applicabile. La proposta approvata può essere accompagnata da prescrizioni, rimodulazioni o condizioni. All'avvio va dunque individuata la versione effettivamente vigente del progetto e del budget, che potrebbe non coincidere con il file originariamente inviato.
+Il punto più delicato riguarda le modifiche. Una spesa nuova, un ritardo, uno spostamento tra voci, una diversa attività o un cambiamento di partner non hanno lo stesso peso. Alcune modifiche possono essere consentite entro margini stabiliti; altre richiedono autorizzazione; altre possono non essere ammesse. Senza la fonte non si decide. L’operatore deve costruire l’istruttoria: descrivere la necessità, collegarla all’attività, verificare il budget, identificare la regola, individuare il soggetto competente, predisporre i documenti e conservare la decisione.
 
-## Il ciclo di vita del progetto
+Per l’esame, una formula efficace è questa: “Nel progetto di ricerca il responsabile scientifico governa il contenuto, ma la gestione amministrativa richiede il raccordo con le strutture competenti secondo call, atto di concessione e atti locali dell’ateneo. Nessun pagamento, variazione o rendicontazione può essere trattato come atto puramente informale”. La frase dimostra che il candidato conosce il valore dei ruoli senza attribuire poteri per analogia.
 
-### Dalla call alla proposta
+In una traccia pratica, quindi, conviene evitare formule assolute come “l’ufficio ricerca approva” o “il dipartimento decide” se la fonte non lo dice. Meglio scrivere che l’istruttoria individua il soggetto competente secondo gli atti dell’ateneo e documenta il passaggio. Questa precisione protegge la risposta da errori su organizzazioni locali diverse.
 
-Si comincia verificando la coerenza dell'opportunita' con le finalita' dell'ateneo, i requisiti del proponente, l'idea di ricerca, i tempi disponibili e la capacita' di realizzazione. Una candidatura formalmente possibile, ma costruita senza considerare carichi di lavoro, acquisti o dati necessari, rischia di diventare ingestibile dopo l'approvazione.
+### N-IR02-07-04 · Budget, costi, documentazione e rendicontabilità
 
-Il responsabile scientifico definisce il contenuto della ricerca e i risultati attesi. Le strutture di supporto aiutano a leggere le regole, organizzare la candidatura, costruire il budget e completare gli adempimenti. La distribuzione concreta delle funzioni dipende dall'ateneo e dalla call.
+Il budget di progetto traduce il piano delle attività in risorse previste. Non è un elenco libero di somme disponibili, ma una rappresentazione organizzata di ciò che il progetto intende fare, quando lo farà e con quali mezzi. Ogni voce dovrebbe essere riconducibile a un’attività, a un periodo, a un risultato e a una regola del finanziamento. Per questo il budget del grant si raccorda con la contabilità dell’ateneo, ma non coincide con l’intero bilancio universitario. Il bilancio di ateneo guarda al sistema complessivo; il budget di progetto guarda al perimetro del finanziamento.
 
-La proposta deve mantenere coerenza interna. Le attivita' producono risultati; i tempi devono consentirne lo svolgimento; le risorse devono essere adeguate; il budget deve riflettere ciò che il piano prevede. Un costo inserito senza legame con un'attivita' e' difficile da motivare, mentre un'attivita' priva di risorse può restare soltanto dichiarata.
+Il candidato deve distinguere tre concetti: costo sostenuto, pagamento e costo rendicontabile. Un costo sostenuto è un fatto della gestione; il pagamento è un flusso monetario; il costo rendicontabile è un costo che, secondo la fonte applicabile, può essere esposto al finanziatore. Questi tre elementi possono collegarsi, ma non sono equivalenti. Una spesa può essere pagata e utile al progetto, ma non rispettare una condizione della call; può essere corretta per l’ateneo, ma non imputabile al grant; può essere prevista nel budget, ma priva della documentazione richiesta; può essere documentata, ma sostenuta fuori periodo. La rendicontabilità non si presume.
 
-### Dalla concessione all'avvio
+In termini generali, la verifica di un costo richiede almeno sei controlli. Primo: collegamento con il progetto e con una specifica attività. Secondo: periodo di eleggibilità o comunque periodo ammesso dalla fonte. Terzo: previsione nel budget o modifica consentita e correttamente autorizzata. Quarto: procedura seguita per acquisire bene, servizio, incarico o altra utilità. Quinto: documentazione idonea a provare titolo, esecuzione, importo, imputazione e pagamento. Sesto: corretta attribuzione al progetto e alla voce pertinente. Le categorie, i limiti, i metodi di calcolo, i costi indiretti, i timesheet e le piattaforme non vanno inventati: cambiano secondo il programma e devono essere letti nella fonte concreta.
 
-Con la concessione del finanziamento cambia la fase del progetto. Vanno verificati l'atto, l'accordo, il budget approvato, il periodo, gli obblighi, le eventuali condizioni e i riferimenti necessari alla gestione. In questo momento si chiariscono anche flussi informativi e responsabilita' interne.
+Il fascicolo delle evidenze è lo strumento che rende ricostruibile la storia del progetto. Non è un deposito casuale di file. Deve consentire di collegare fonte, versione approvata, budget, decisioni, attività, procedure, documenti contabili, pagamenti, risultati, comunicazioni e controlli. La traccia di audit nasce da questo collegamento: chi verifica deve poter capire quale regola è stata applicata, chi ha assunto una decisione, su quale documento, con quale effetto sul budget e con quale prova dell’attività. Una fattura, da sola, raramente racconta tutto il percorso. Può servire anche il fabbisogno, l’atto presupposto, l’ordine, il contratto, l’attestazione della prestazione, la registrazione, il pagamento, la relazione tecnica o scientifica, la comunicazione al finanziatore e l’eventuale autorizzazione.
 
-L'avvio e' il momento per costruire una base comune. Il gruppo scientifico deve conoscere i vincoli che incidono sulle attivita'; gli uffici devono conoscere tempi e bisogni del progetto. Un calendario delle consegne senza il calendario degli acquisti e delle selezioni e' incompleto. Lo stesso vale per un budget che non indichi chi deve attivare le procedure o produrre i documenti.
+La tracciabilità assume rilievo particolare quando il progetto si collega a contratti pubblici, pagamenti, fondi vincolati o programmi con obblighi di monitoraggio. In questi casi occorre distinguere gli identificativi e gli adempimenti propri della procedura o del progetto, senza confondere strumenti diversi. Il CIG riguarda la tracciabilità della procedura o del contratto secondo la disciplina applicabile; il CUP identifica progetti di investimento pubblico quando richiesto; fatturazione elettronica, liquidazione, tempi di pagamento e verifica della prestazione incidono sul percorso contabile e documentale. Il punto da ricordare è semplice: il pagamento non è automatico dopo l’arrivo di una fattura; prima devono essere verificati titolo, regolarità, prestazione, importo, imputazione e adempimenti.
 
-La documentazione iniziale comprende le fonti che governano il progetto, la versione approvata della proposta, il budget, il cronoprogramma e gli atti interni pertinenti. La composizione concreta del fascicolo dipende dalle regole applicabili.
+Il reporting integra attività, budget e documenti. Un buon report di progetto non accumula tabelle: indica fonte del dato, periodo, perimetro, stato delle attività, costi rilevati, scostamenti, documenti disponibili, criticità e azioni proposte. Uno scostamento di costo va interpretato solo dopo aver verificato comparabilità, causa e impatto. Una spesa in linea con il budget ma priva di evidenza è un problema diverso da una spesa documentata ma classificata nella voce sbagliata. Una minore spesa può indicare risparmio, ma anche attività non svolta. Una maggiore spesa può derivare da inefficienza, ma anche da aumento dei volumi, prezzo diverso, attività aggiuntiva o errore di imputazione. La nota istruttoria deve separare dato, ipotesi, causa accertata, impatto e seguito competente.
 
-### Gestione, monitoraggio e cambiamenti
+### N-IR02-07-05 · Caso ragionato e output d’esame: spesa non prevista nel progetto
 
-La gestione attua le attivita' e controlla, durante il percorso, la coerenza di tempi, risorse e risultati. Il monitoraggio precede la rendicontazione finale: permette di rilevare ritardi, costi diversi dal previsto, risultati incompleti o fabbisogni nuovi quando e' ancora possibile intervenire.
+Immagina una traccia scritta: “Durante un progetto di ricerca universitario il responsabile scientifico chiede l’acquisizione di un servizio necessario per completare un’attività. Il costo non risulta previsto nel budget nella forma richiesta. Il candidato rediga una nota istruttoria indicando verifiche, documenti, ruoli e possibile seguito”. La risposta non deve cominciare con “si procede” o “si nega”. Deve cominciare con la qualificazione del problema: esiste una possibile esigenza progettuale, ma la sua gestione dipende dalla fonte del finanziamento, dalla versione approvata del progetto, dal budget vigente, dagli atti locali e dalla procedura applicabile.
 
-I cambiamenti non hanno tutti lo stesso peso. Un ritardo può richiedere un aggiornamento operativo oppure una modifica soggetta ad approvazione. Una diversa distribuzione dei costi può rientrare nella flessibilita' consentita o richiedere una procedura specifica. La risposta si trova nella fonte del progetto e nelle regole interne, non nell'intuizione.
+Il primo passaggio è la fonte. Bisogna acquisire call, allegati, atto di concessione o accordo, budget approvato, cronoprogramma e regole di gestione. La domanda da porsi è: la spesa appartiene a una categoria consentita? È collocata nel periodo ammesso? È coerente con l’attività approvata? Esiste una regola per inserire o rimodulare la voce? È richiesta una comunicazione o autorizzazione del finanziatore? Senza queste risposte non si può stabilire la rendicontabilità.
 
-Il report di avanzamento deve distinguere fatti e proposte. Registra lo stato delle attivita', i risultati disponibili, i costi rilevati, gli scostamenti e le questioni aperte. Se propone un intervento, precisa presupposto, destinatario e seguito necessario.
+Il secondo passaggio è l’attività. Il responsabile scientifico deve motivare il collegamento tra servizio, attività e risultato. Una frase generica come “serve al progetto” non basta. La nota deve chiedere una descrizione verificabile: quale attività viene resa possibile, quale output produce, perché non era prevista nella stessa forma, quale rischio si avrebbe in assenza del servizio e se esistono alternative compatibili. Questa parte dimostra che l’istruttoria non è solo contabile, ma collega contenuto scientifico e gestione amministrativa.
 
-### Rendicontazione e chiusura
+Il terzo passaggio è il budget. Occorre controllare disponibilità, voce interessata, eventuali economie, limiti di spostamento, necessità di variazione, impatto sulle altre attività e coerenza con il sistema contabile dell’ateneo. Una disponibilità finanziaria residua non autorizza qualunque impiego. Il budget di progetto è vincolato alla fonte e agli obiettivi approvati. Se la modifica è ammessa solo a certe condizioni, la nota deve indicare il soggetto competente e l’iter necessario; se non è ammessa, il costo potrebbe restare a carico di altra copertura o non essere imputabile al grant.
 
-La rendicontazione collega l'attivita' svolta alle risorse utilizzate e alle evidenze richieste. Una somma di pagamenti non e' ancora una rendicontazione. Per ciascun costo vanno ricostruiti la regola applicabile, il rapporto con il progetto, il periodo, il titolo, il documento e gli adempimenti previsti.
+Il quarto passaggio riguarda procedura e documenti. Se il servizio deve essere acquisito all’esterno, vanno rispettate le regole applicabili agli affidamenti, alla tracciabilità, alla verifica della prestazione, alla fatturazione, alla liquidazione e al pagamento. La nota deve prevedere un fascicolo ordinato: richiesta motivata, verifica della fonte, decisione o autorizzazione, atti della procedura, documento contabile, attestazione dell’esecuzione, imputazione, pagamento, comunicazioni e report. Questa è la traccia di audit: consente di ricostruire perché la spesa è stata considerata pertinente, chi ha deciso, con quale base e con quale effetto.
 
-La chiusura comprende anche la verifica dei risultati e degli obblighi residui. Il progetto può richiedere consegne scientifiche, amministrative e finanziarie diverse. L'invio di un prospetto economico non dimostra, da solo, che siano stati prodotti gli output attesi; una relazione scientifica non sostituisce i documenti di spesa.
+Il quinto passaggio è il reporting. La nota può concludere con più esiti possibili, non con una soluzione inventata. Si può procedere se la fonte consente la spesa, il budget è coerente o correttamente modificato, la competenza è rispettata e i documenti sono disponibili. Si può chiedere una modifica o autorizzazione preventiva se la regola lo richiede. Si può usare altra copertura se il costo è utile ma non rendicontabile sul grant. Si può non procedere se la spesa è estranea, tardiva, non documentabile o vietata. Ogni esito va motivato.
 
-Il fascicolo deve restare comprensibile anche dopo la fine delle attivita'. Conservare file senza una struttura logica rende difficile ricostruire decisioni, versioni e collegamenti. Le regole generali sulla gestione documentale sono nel capitolo 05.
+Per l’orale, lo stesso caso può diventare una risposta sintetica: “Analizzerei la spesa con il protocollo fonte, regola, attività, documento, effetto. Verificherei call, atto di concessione, budget approvato e atti locali; chiederei al responsabile scientifico il collegamento all’attività; controllerei periodo, voce, procedura, documentazione e competenza; distinguerei utilità, pagamento e rendicontabilità; infine proporrei il seguito in un report motivato”. Per una prova pratica, invece, l’output può essere una scheda progetto con campi fissi: fonte, obiettivo, attività, budget, ruolo, documento, rischio, controllo, stato. Per un quiz, l’elemento chiave è riconoscere che il pagamento non prova da solo la rendicontabilità.
 
-| Fase | Attivita' e documento | Ruolo da individuare | Effetto sul budget | Controllo essenziale |
-| --- | --- | --- | --- | --- |
-| Call | lettura di avviso e allegati | proponente e supporto | vincoli e categorie previste | requisiti e coerenza |
-| Proposta | piano, cronoprogramma e budget | responsabile scientifico e strutture coinvolte | costruzione della previsione | coerenza interna |
-| Avvio | atto, accordo e versione approvata | soggetti competenti dell'ateneo | apertura della gestione | condizioni e periodo |
-| Gestione | attivita', procedure e registrazioni | gruppo e funzioni amministrative | costi e scostamenti | avanzamento e documenti |
-| Rendicontazione | prospetti, giustificativi ed evidenze | funzioni previste dalle regole | costi esposti al finanziatore | collegamento e ammissibilita' |
-| Chiusura | consegne e fascicolo finale | responsabili individuati | quadro conclusivo | completezza e obblighi residui |
+Il candidato deve quindi allenarsi a produrre tre output: una mappa del ciclo di vita, una nota istruttoria su un costo e una scheda di monitoraggio. Tutti e tre richiedono lo stesso metodo: non partire dal giustificativo, ma dalla fonte; non confondere ruolo scientifico e competenza amministrativa; non inventare regole mobili; non trattare il budget come cassa libera; non chiudere la risposta senza documentazione, reporting e audit trail.
 
-## Ruoli e raccordi organizzativi
+## ▣ Verifica
 
-### Responsabile scientifico e gruppo di progetto
+**Quiz 1.** Quale affermazione distingue correttamente call, proposta e grant?
 
-Il responsabile scientifico presidia il contenuto della ricerca: obiettivi, metodo, attivita', risultati e coordinamento scientifico. Fornisce agli uffici le informazioni necessarie per collegare decisioni e costi al progetto. Non ne deriva, però, una competenza universale su acquisti, registrazioni contabili o variazioni.
+A. Sono tre nomi equivalenti per indicare lo stesso finanziamento.  
+B. La call apre l’opportunità e fissa condizioni; la proposta è la candidatura; il grant è il finanziamento concesso secondo l’atto applicabile.  
+C. La proposta è sempre successiva alla rendicontazione.  
+D. Il grant coincide con qualunque pagamento effettuato dall’ateneo.
 
-Il gruppo di progetto realizza le attivita' assegnate e produce le evidenze pertinenti. Chi svolge il lavoro deve sapere quali informazioni conservare e quando trasmetterle. Ricostruire tutto alla fine aumenta il rischio di documenti incompleti e collegamenti difficili da provare.
+Risposta corretta: B. Le tre parole indicano fasi diverse e producono effetti diversi sul progetto.
 
-### Supporto amministrativo, ricerca e contabilita'
+**Quiz 2.** Una spesa pagata dall’ateneo è automaticamente rendicontabile sul progetto?
 
-Le funzioni di supporto alla ricerca seguono call, candidatura, condizioni del finanziamento e rapporti informativi. Le funzioni amministrative curano i procedimenti necessari alla realizzazione. La contabilita' rileva i fatti secondo il sistema dell'ateneo e rende disponibili dati coerenti per budget e rendicontazione.
+A. Sì, perché il pagamento dimostra sempre la regolarità completa.  
+B. Sì, se il responsabile scientifico la considera utile.  
+C. No, occorre verificare fonte, periodo, collegamento al progetto, budget, procedura, documentazione e imputazione.  
+D. No, perché nessuna spesa universitaria può essere rendicontata.
 
-Questa distinzione riguarda le funzioni, non impone un organigramma. L'ateneo può distribuirle tra strutture centrali, dipartimenti e altre unita'. Il flusso deve comunque chiarire chi riceve l'informazione, verifica, propone, autorizza e registra.
+Risposta corretta: C. Pagamento, utilità e rendicontabilità sono concetti collegati ma distinti.
 
-### Nessuna competenza per analogia
+**Quiz 3.** Qual è il ruolo del responsabile scientifico nel grant management?
 
-La conoscenza del ciclo non autorizza ad attribuire una firma o un potere. Per ogni passaggio si consultano call, accordo, regolamenti, manuali e atti organizzativi vigenti. La prudenza vale soprattutto per modifiche del progetto, variazioni del budget, assunzione di obbligazioni e approvazione della rendicontazione.
+A. Decide da solo ogni spesa, variazione e rendicontazione.  
+B. Presidia contenuto scientifico, obiettivi, attività e risultati, raccordandosi con le funzioni amministrative competenti.  
+C. Sostituisce l’ufficio contabilità.  
+D. Approva sempre gli atti locali dell’ateneo.
 
-Se la traccia non fornisce le fonti locali, si descrive la funzione e si precisa che il soggetto competente va individuato nella disciplina applicabile. Una denominazione inventata indebolisce la risposta.
+Risposta corretta: B. Il responsabile scientifico è essenziale, ma non concentra tutte le competenze amministrative e contabili.
 
-## Budget, costi e documenti
+**Quiz 4.** Che cosa rende utile un fascicolo di progetto ai fini della traccia di audit?
 
-### Dal piano delle attivita' al budget
+A. Il fatto di contenere molti file non ordinati.  
+B. Il collegamento ricostruibile tra fonte, decisioni, attività, costi, documenti, pagamenti, risultati e controlli.  
+C. La sola presenza della fattura.  
+D. L’assenza di comunicazioni interne.
 
-Il budget di progetto traduce il piano in risorse previste. Ogni voce dovrebbe essere riconducibile a un'attivita', a un periodo e a un risultato. Questa relazione consente di motivare la previsione e, durante la gestione, di interpretare gli scostamenti.
+Risposta corretta: B. La traccia di audit richiede relazioni chiare tra regole, atti, evidenze e risultati.
 
-Il budget del grant si raccorda con il sistema contabile dell'ateneo, ma non coincide con l'intero bilancio. Il capitolo 06 spiega la distinzione tra previsione, costo, pagamento e risultato. Qui interessa il perimetro del progetto: quale risorsa e' prevista, per quale attivita' e secondo quale regola del finanziamento.
+**Quiz 5.** Quale elemento va verificato prima di proporre una variazione del budget di progetto?
 
-### Costo sostenuto e costo rendicontabile
+A. Solo la disponibilità residua di denaro.  
+B. La regola della call o dell’accordo, gli atti locali, la competenza e l’impatto sulle attività.  
+C. La preferenza del fornitore.  
+D. Il fatto che la spesa sia stata già pagata.
 
-Un costo sostenuto dall'ateneo e' un fatto della gestione. Per esporlo nella rendicontazione del progetto occorrono condizioni ulteriori, determinate dalla fonte applicabile. In termini generali si controllano almeno collegamento con il progetto, periodo, previsione o modifica ammessa, procedura, documentazione e corretta attribuzione.
+Risposta corretta: B. La variazione è un passaggio regolato, non una scelta libera fondata sulla sola disponibilità.
 
-Utilita' e rendicontabilita' non sono sinonimi. Una risorsa può essere utile alla ricerca e, nello stesso tempo, non rispettare una condizione della call. Il pagamento dimostra un flusso monetario, non tutti i presupposti del costo. Le fonti consolidate collegano infatti spesa, progetto, tracciabilita', documentazione e controlli. [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]]
+**Quiz 6.** In una nota istruttoria su una spesa non prevista, quale ordine logico è più corretto?
 
-Non esiste, in questo capitolo, un elenco universale di costi ammissibili. Categorie, limiti, metodi di calcolo e prove richieste cambiano con il finanziamento. Vanno letti nella call, nell'accordo e nelle istruzioni vigenti.
+A. Fattura, pagamento, conclusione.  
+B. Fonte, regola, attività, documento, effetto sul budget e seguito competente.  
+C. Fornitore, prezzo, firma informale.  
+D. Risultato scientifico, senza controlli amministrativi.
 
-### Il fascicolo delle evidenze
+Risposta corretta: B. L’ordine evita di cercare una giustificazione retroattiva partendo dal documento finale.
 
-Il fascicolo rende ricostruibile la storia del progetto. Collega fonte, versione approvata, decisioni, attivita', procedure, documenti contabili, pagamenti, risultati e comunicazioni. Non e' un deposito indiscriminato: classificazione e relazioni tra documenti devono permettere di trovare la prova pertinente.
+**Quiz 7.** Quale affermazione sul reporting di progetto è corretta?
 
-Per una spesa, il solo giustificativo e' raramente sufficiente a raccontare l'intero percorso. Servono, secondo il caso, evidenze del fabbisogno, della procedura, della prestazione, dell'imputazione, del pagamento e del rapporto con l'attivita'. Quali documenti siano obbligatori dipende dalla disciplina applicabile.
+A. Il report decide automaticamente la variazione del budget.  
+B. Il report deve distinguere stato delle attività, costi, scostamenti, documenti disponibili, criticità e azioni proposte.  
+C. Il report serve solo a elencare pagamenti.  
+D. Il report sostituisce call e atto di concessione.
 
-### Scostamenti e reporting
+Risposta corretta: B. Il reporting supporta la decisione e rende leggibile l’avanzamento, ma non sostituisce fonti e competenze.
 
-Uno scostamento confronta il valore previsto con quello rilevato su basi omogenee. Può dipendere da prezzi, volumi, tempi, attivita' modificate o classificazioni. La valutazione viene dopo la verifica della causa e dell'impatto.
+**Quiz 8.** Perché non bisogna inventare soglie, massimali o categorie ammissibili in una risposta?
 
-Il report di progetto integra almeno tre letture: avanzamento delle attivita', situazione del budget e stato delle evidenze. Una spesa in linea con il budget ma priva della documentazione richiesta costituisce un problema diverso da una spesa documentata ma collocata nella voce sbagliata. Anche un'attivita' completata con forte ritardo può incidere sulle consegne pur senza produrre uno scostamento di costo.
+A. Perché le regole specifiche cambiano secondo programma, call, accordo e atti applicabili.  
+B. Perché nei progetti di ricerca non esistono mai regole di costo.  
+C. Perché il budget non ha rilievo.  
+D. Perché l’ateneo non conserva documenti.
 
-## Il protocollo F-R-A-D-E
-
-Quando devi valutare un'operazione di progetto, usa **F-R-A-D-E**:
-
-1. **Fonte**: individua call, accordo, atto, manuale o regola pertinente.
-2. **Regola**: ricava requisito, limite, periodo, procedura e competenza.
-3. **Attivita'**: collega l'operazione a obiettivo, risultato e fase del progetto.
-4. **Documento**: verifica quali evidenze dimostrano decisione, esecuzione e costo.
-5. **Effetto**: valuta impatto su budget, tempi, risultati, rendicontazione e controlli.
-
-L'ordine evita di partire dal documento e cercare dopo una giustificazione. Una fattura può essere autentica e pagata, ma ciò non dimostra ancora che il costo rispetti la regola del grant.
-
-## Da sapere in 5 righe
-
-Il grant management accompagna il progetto dalla call alla chiusura. In ogni fase collega obiettivi, attivita', ruoli, budget e documenti. Il responsabile scientifico presidia il contenuto, mentre le funzioni amministrative e contabili assicurano i raccordi necessari secondo l'organizzazione vigente. Un costo pagato non e' automaticamente rendicontabile. La call e l'accordo determinano regole e verifiche specifiche.
-
-## Caso guidato: una spesa non prevista nel piano
-
-Il gruppo di ricerca chiede un servizio necessario per completare un'attivita'. Il costo non compare nel budget nella forma indicata dalla richiesta. Scegliere subito tra acquisto e rifiuto sarebbe prematuro.
-
-**Fonte e regola.** Recupera la versione vigente della call, del progetto approvato, del budget e dell'accordo. Verifica se la spesa appartenga a una categoria consentita e se esista una regola per modificare la previsione.
-
-**Attivita'.** Chiede al responsabile scientifico di spiegare il collegamento tra servizio, attivita' e risultato. L'affermazione generica "serve al progetto" non basta: occorre una relazione verificabile.
-
-**Budget ed effetto.** Controlla disponibilita', periodo e impatto sulle altre attivita'. Una risorsa finanziaria libera non prova che possa essere usata per qualunque scopo.
-
-**Competenza e procedura.** Individua chi può proporre, verificare e approvare l'eventuale modifica. Se la fonte richiede una comunicazione o autorizzazione esterna, l'operazione non può essere trattata come semplice scelta interna.
-
-**Documento.** Definisce quali atti ed evidenze devono precedere e seguire l'operazione. Solo dopo queste verifiche e' possibile formulare un esito motivato: procedere, chiedere una modifica, individuare altra copertura o non imputare il costo al grant. La soluzione dipende dalle fonti, non dall'utilita' astratta della spesa.
-
-## Domanda da commissario
-
-**Descriva il ciclo di vita di un progetto di ricerca e i raccordi tra responsabile scientifico e strutture amministrativo-contabili.**
-
-La risposta può seguire call, proposta, concessione, avvio, gestione, rendicontazione e chiusura. Per ogni fase indica attivita', ruolo, documento, effetto sul budget e controllo. Chiarisce poi che il responsabile scientifico presidia obiettivi e risultati, mentre le funzioni di supporto curano regole, procedure, rilevazioni e flussi informativi secondo l'assetto dell'ateneo.
-
-## Domanda-trappola
-
-**Una spesa e' rendicontabile perché e' stata pagata ed e' utile al progetto?**
-
-No. Pagamento e utilita' sono elementi da considerare, ma non provano da soli la rendicontabilita'. Occorre verificare fonte, regola, periodo, collegamento all'attivita', budget, procedura, competenza e documenti richiesti. L'esito dipende dalla disciplina del finanziamento.
-
-## Errore tipico
-
-L'errore più frequente e' partire dal giustificativo: si controlla la fattura, si trova il pagamento e si conclude che il costo sia corretto. Il percorso parte invece dalla fonte e dall'attivita', che danno al documento il suo significato nel progetto. Un giustificativo regolare può riferirsi a un costo estraneo, tardivo, non previsto o gestito con una procedura non conforme.
-
-## Mini-esercizio: costruisci la scheda progetto
-
-Scegli un progetto descritto in poche righe e completa la scheda senza inventare regole della call:
-
-| Campo | Domanda guida |
-| --- | --- |
-| Fonte | Quale call, atto o accordo governa il progetto? |
-| Obiettivo e output | Quale cambiamento si cerca e quale risultato lo dimostra? |
-| Attivita' e tempi | Che cosa va svolto e quando? |
-| Ruoli | Chi presidia contenuto, procedura, budget e documento? |
-| Budget | Quali risorse sono collegate alle attivita'? |
-| Evidenze | Quali documenti dimostrano avanzamento e costo? |
-| Rischio | Quale evento può compromettere tempo, risultato o rendicontazione? |
-| Controllo | Quale verifica permette di rilevarlo? |
-| Stato | Che cosa e' concluso, aperto o da autorizzare? |
-
-Rileggi infine la scheda lungo la catena `fase -> soggetto -> attivita' -> documento -> effetto sul budget -> controllo`. Se un passaggio resta vuoto, il piano non e' ancora pronto per essere eseguito o valutato.
-
-## Riferimenti consolidati
-
-- [[sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026]] per ricorrenza dei nuclei e output dei profili ricerca e contabile;
-- [[sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24]] per perimetro istituzionale, fonti e rischio mobile;
-- [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] per il raccordo generale tra progetto, spesa, tracciabilita', pagamenti e rendicontazione;
-- [[topics/m-ir02-universita-afam-fonti-e-profili]] ed [[entities/ministero-universita-ricerca]] per gerarchia delle fonti e confini del modulo.
-
-## Note di review
-
-Prima della pubblicazione occorre verificare il programma integrale del bando UNIBO richiamato dal corpus e la procedura CNR usata come confronto. Su una call reale vanno controllati requisiti, categorie e metodi di costo, periodo, variazioni, documenti, termini, piattaforme, conservazione e controlli. Grant agreement o atto di concessione, regolamenti, manuali, organigramma e deleghe dell'ateneo determinano competenze e procedure concrete.
-
-Il capitolo non stabilizza percentuali, soglie, massimali, costi indiretti, timesheet o modelli. PRIN, Horizon Europe, PNRR, ammissibilita' specifica, monitoraggio specialistico e audit sono sviluppati nel capitolo 08 e richiedono fonti proprie aggiornate.
+Risposta corretta: A. Le regole mobili vanno lette nella fonte concreta; il candidato deve indicare il metodo di verifica, non creare dati non forniti.

@@ -1,14 +1,14 @@
 ---
 id: chapter-m-tr04-11-rischi-allertamento-it-alert-emergenze
 type: book_chapter
-title: "Rischi, allertamento, IT-alert ed emergenze"
+title: "Capitolo 11 — Rischi, allertamento, IT-alert ed emergenze"
 status: draft
 book_id: m-tr04-ambiente-protezione-civile
 volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte II — Protezione civile e gestione del rischio"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["rischio di protezione civile", "scenario operativo", "sistema di allertamento nazionale", "Centri funzionali", "livelli di allerta", "IT-alert", "gestione dell'emergenza", "briefing operativo"]
 entities: ["Dipartimento della Protezione Civile", "Regioni", "Province autonome", "Centri funzionali", "Comuni", "Consiglio dei ministri"]
@@ -17,14 +17,14 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026.md", "wiki/sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/13-piano-capitolo-11-rischi-allertamento-it-alert-emergenze.md"]
 confidence: 0.95
 created_at: 2026-08-17
-updated_at: 2026-08-17
-review_required: true
+updated_at: 2026-08-21
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: ["DO-TR04-11-IT-ALERT-2026-08-17"]
 ---
 
-# Rischi, allertamento, IT-alert ed emergenze
+# Capitolo 11 — Rischi, allertamento, IT-alert ed emergenze
 
 ## Apertura editoriale
 

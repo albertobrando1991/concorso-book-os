@@ -9,14 +9,14 @@ entities: ["Ministero delle infrastrutture e dei trasporti","AgID","Agenzia dell
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024","sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18","sources/codice-civile-beni-pubblici-demanio-patrimonio"]
 book_refs: ["m-tr03-tecnico-ingegneristico","vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.93
-updated_at: 2026-07-30
+updated_at: 2026-08-21
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","official","bim","gis","catasto","patrimonio","vol-10"]
 source_type: official_normative_and_technical_bundle
 source_url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art43="
-source_date: 2026-07-30
+source_date: 2026-08-21
 authority_level: alta
 ---
 
@@ -36,7 +36,7 @@ La nota consolida:
 - [[sources/codice-civile-beni-pubblici-demanio-patrimonio]], per demanio e patrimonio;
 - [AINOP](https://ainop.mit.gov.it/portale/#/), per identificazione e dati sul ciclo di vita delle opere.
 
-Ricognizione effettuata il 30 luglio 2026. Obblighi, soglie, ruoli e allegati devono essere ricontrollati sul testo vigente.
+Ricognizione aggiornata il 21 agosto 2026. Art. 43, Allegato I.9, fonti GIS/RNDT, catastali e patrimoniali sono confermati per il cut-off editoriale; il manuale evita soglie operative non necessarie.
 
 ## Nuclei consolidati
 
@@ -61,7 +61,7 @@ La gestione patrimoniale collega regime del bene, identificazione, consistenza, 
 
 ## Limiti e review
 
-La nota sostiene una trattazione didattica generale. Non autorizza pratiche catastali, rilievi professionali, verifiche di conformità o configurazioni BIM/GIS reali. Standard, obblighi, soglie, ruoli, sistemi di riferimento e procedure puntuali richiedono fonte vigente e review specialistica.
+La nota sostiene una trattazione didattica generale. Non autorizza pratiche catastali, rilievi professionali, verifiche di conformità o configurazioni BIM/GIS reali. Per attività reali restano vincolanti standard, obblighi, sistemi di riferimento e procedure applicabili al caso concreto.
 
 ## Collegamenti
 

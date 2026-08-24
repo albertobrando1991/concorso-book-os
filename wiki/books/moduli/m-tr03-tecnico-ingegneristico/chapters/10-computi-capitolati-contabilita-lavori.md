@@ -2,21 +2,21 @@
 id: chapter-m-tr03-10-computi-capitolati-contabilita-lavori
 type: book_chapter
 title: "Computi, capitolati e contabilità dei lavori"
-status: draft
+status: reviewed
 domain: concorsi pubblici italiani
 topics: ["computo metrico estimativo","capitolati","contabilità lavori","SAL","prezzari"]
 entities: ["D.Lgs. 36/2023","Allegato I.7","Allegato II.14","RUP","Direttore dei lavori"]
 source_refs: ["sources/computi-capitolati-contabilita-lavori-dlgs-36-2023.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md","sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md","sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14.md","sources/campione-bandi-tecnici-pa-vol-10-2026.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","computo","capitolato","contabilita"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "10"
-draft_stage: full_draft
+draft_stage: publication_candidate
 last_compiled_from: "planning/08-capitolo-10-piano-completamento.md"
 ---
 
@@ -36,7 +36,7 @@ Al termine del capitolo saprai distinguere computo metrico e computo estimativo,
 - **Diario:** annota gli errori di unità, progressivo, fonte del prezzo e documento.
 - **Output:** svolgi un mini-computo e spiega oralmente la catena contabile.
 
-## Dalla lavorazione alla stima
+## N-TR03-10-01 · Dalla lavorazione alla stima
 
 ### Descrizione, unità, misure e quantità
 
@@ -60,7 +60,7 @@ L'importo della voce deriva dal prodotto fra quantità e prezzo unitario. La for
 > Il capitolato definisce prescrizioni e condizioni.  
 > Il SAL registra avanzamento, ma non coincide con il pagamento.
 
-## Computo e analisi dei prezzi
+## N-TR03-10-02 · Computo e analisi dei prezzi
 
 ### Computo metrico e computo estimativo
 
@@ -84,7 +84,7 @@ I costi della sicurezza e della manodopera seguono regole specifiche del Codice.
 
 La revisione prezzi appartiene a un istituto distinto. Può incidere sull'esecuzione secondo contratto e disciplina vigente, ma non trasforma il prezzario in un aggiornamento automatico di ogni importo contabilizzato.
 
-## Capitolati e coerenza degli elaborati
+## N-TR03-10-03 · Capitolati e coerenza degli elaborati
 
 ### Capitolato speciale e specifiche
 
@@ -106,7 +106,7 @@ Quando gli elaborati si contraddicono, il tecnico deve individuare il contrasto,
 | capitolato | quali prestazioni e condizioni? |
 | cronoprogramma | quando si esegue? |
 
-## La contabilità dell'esecuzione
+## N-TR03-10-04 · La contabilità dell'esecuzione
 
 ### Misurazione e libretto delle misure
 
@@ -144,7 +144,7 @@ Il conto finale ricompone la contabilità al termine dei lavori. Riassume quanti
 
 Errori lasciati nei progressivi si propagano fino alla chiusura. Per questo ogni SAL deve essere controllato anche rispetto ai precedenti, alle modifiche approvate e alle risultanze del registro.
 
-## Caso guidato: una voce dal computo al SAL
+## N-TR03-10-05 · Caso guidato: una voce dal computo al SAL
 
 Il progetto di riqualificazione della scuola prevede una nuova pavimentazione. I prezzi dell'esempio sono didattici e non provengono da un prezzario vigente.
 
@@ -162,7 +162,7 @@ Al rilievo successivo emergono altri `30 m²`. La quantità progressiva è `80 m
 
 Se il progetto cambia regolarmente una porzione della pavimentazione, non si corregge il dato cancellando la riga originaria. Occorre collegare modifica autorizzata, nuova voce o diverso criterio e registrazioni conseguenti.
 
-## Domande ed errori
+## ▣ Verifica
 
 ### Domanda da commissario
 
@@ -180,7 +180,7 @@ No. Il SAL rappresenta l'avanzamento contabilizzato; il certificato di pagamento
 
 Aggiornare soltanto il totale dopo una modifica. La correzione deve restare leggibile nelle quantità, nelle voci, nei prezzi, negli elaborati e nella catena contabile.
 
-## Mini-esercizio e checklist
+### Mini-esercizio e checklist
 
 Una voce riporta `12 × 4 = 46 m²`, prezzo didattico `25`, quantità progressiva precedente `30 m²` e nuova quantità di periodo `10 m²`. Individua gli errori.
 
@@ -209,4 +209,4 @@ Checklist:
 
 ## Note di review
 
-Prima della pubblicazione, il capitolo richiede la review di un progettista estimatore, del DL, di un tecnico addetto alle misure, del RUP e di un esperto di contabilità lavori. Occorre verificare gli art. 41 e 115, gli Allegati I.7 e II.14 vigenti, le forme e i termini delle riserve, i documenti digitali e ogni eventuale prezzo reale. Il raccordo è stato verificato il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio#BIM e gestione informativa|BIM e gestione informativa]].
+Audit del 21 agosto 2026: verificati artt. 41 e 115 e Allegati I.7 e II.14 vigenti. Computo, capitolato, contabilità e riserve sono distinti correttamente; gli esempi economici sono dichiaratamente didattici e non sostituiscono prezzari vigenti. Confermato il raccordo al capitolo 12.

@@ -2,21 +2,21 @@
 id: chapter-m-tr03-01-concorso-tecnico-pa-profili-prove
 type: book_chapter
 title: "Il concorso tecnico nella PA: profili, enti e prove"
-status: draft
+status: reviewed
 domain: "concorsi pubblici italiani"
 topics: ["concorsi tecnici pa", "profili tecnici", "prove concorsuali", "metodo bando"]
 entities: ["Metodo BANDO", "Pubblica Amministrazione"]
 source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10", "sources/campione-bandi-tecnici-pa-vol-10-2026", "sources/logica-volumi-copertura-concorsobook-v4", "sources/principio-copertura-didattica-integrale-2026-07-17"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici", "il-metodo-bando"]
 confidence: 0.78
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "technical-competitions"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 1
-draft_stage: professional-draft
+draft_stage: publication_candidate
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-01-piano-completamento.md", "wiki/books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/01-indice-completo.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md", "wiki/topics/tecnico-ingegneristico-territorio-lavori-pubblici-concorsi-pa.md"]
@@ -56,7 +56,7 @@ Nel percorso tecnico, le cinque lettere del Metodo BANDO diventano una sequenza 
 
 La mappa impedisce due errori opposti. Il primo è studiare tutto ciò che appartiene alla propria formazione, anche se non compare nel programma. Il secondo è ridurre la preparazione a un elenco di norme e formule, senza allenare la forma della prova.
 
-## Quattro profili, molti programmi
+## N-TR03-01-01 · Quattro profili, molti programmi
 
 Le quattro figure seguenti sono mappe editoriali. Non sostituiscono la denominazione usata dal singolo bando, che resta decisiva.
 
@@ -84,7 +84,7 @@ Qui il programma può concentrarsi su strade, ponti, opere d’arte, sistemi di 
 
 Questo percorso utilizza soprattutto i capitoli 3, 4, 7–9 e 11. Se il bando assegna un programma autonomo alla parte ambientale oppure a gara, RUP e procurement, tali materie escono dal perimetro di M-TR03. Il catalogo le instrada rispettivamente verso [[books/moduli/m-tr04-ambiente-protezione-civile/index|M-TR04 — Ambiente e protezione civile]] e [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/index|M-TR02 — Appalti, PNRR e fondi UE]]. Questi collegamenti definiscono il confine editoriale: non sostituiscono la verifica che il modulo di destinazione sia completo, aggiornato e adeguato al singolo bando.
 
-## Dove lavora il tecnico pubblico
+## N-TR03-01-02 · Dove lavora il tecnico pubblico
 
 Il contesto organizzativo modifica il peso delle materie.
 
@@ -94,7 +94,7 @@ La differenza non autorizza scorciatoie. Un candidato per un ente locale non dev
 
 Lo stesso criterio vale per i contratti pubblici. `VOL-10` tratta il delta tecnico di progettazione, esecuzione, direzione lavori e collaudo. Affidamento, procurement, RUP e PNRR avanzati ricadono nel perimetro di [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/index#Perimetro|M-TR02 — Perimetro]]; poiché tale modulo è ancora in sviluppo, il collegamento non sostituisce una spiegazione né consente di presumere la materia coperta.
 
-## Leggere un bando tecnico
+## N-TR03-01-03 · Leggere un bando tecnico
 
 La lettura efficace procede in tre passaggi: requisiti, materie, prove.
 
@@ -128,7 +128,7 @@ La forma della prova cambia il modo di studiare.
 
 Se non simuli l’output, rischi di riconoscere il tema senza saper produrre la risposta richiesta.
 
-## Bando Decoder tecnico
+## N-TR03-01-04 · Bando Decoder tecnico
 
 Compila una riga per ogni nucleo del programma.
 
@@ -148,7 +148,7 @@ Compila una riga per ogni nucleo del programma.
 
 Una riga non è completa se contiene solo il nome della materia. Deve indicare che cosa il candidato deve capire e che cosa deve saper produrre.
 
-## Caso guidato: tre bandi, tre piani
+## N-TR03-01-05 · Caso guidato: tre bandi, tre piani
 
 Immagina tre programmi.
 
@@ -168,23 +168,23 @@ Requisiti, materie e prove sono tre informazioni diverse.
 Ogni materia va scomposta in nuclei e collegata a un output.  
 Il piano nasce dalla matrice profilo–materia–prova, non dall’indice di un manuale.
 
-## Domanda da commissario
+## ▣ Verifica
 
 **Come tradurrebbe il programma di un bando tecnico in un piano di preparazione?**
 
 Una risposta efficace segue quattro passaggi: separa requisiti e materie; classifica i nuclei tra comune, specialistico, verticale e rinvio; collega ogni nucleo alla forma della prova; assegna esercizi e verifiche a un calendario. Conclude indicando come userà il diario degli errori per correggere il piano.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Se il bando ammette una determinata classe di laurea, tutte le materie tipiche di quel corso devono essere studiate?**
 
 No. Il titolo definisce l’accesso; il programma e le prove definiscono la preparazione. Si studiano i nuclei richiesti e quelli necessari a comprenderli, non l’intero percorso universitario.
 
-## Errore tipico
+### Errore tipico
 
 Il candidato copia le materie in un calendario e assegna a tutte lo stesso peso. In questo modo confonde una voce ampia con un nucleo, ignora la forma della prova e non vede i rinvii. La correzione consiste nel compilare il Decoder prima del calendario.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Prendi il tuo bando e scegli dieci voci del programma. Per ciascuna:
 
@@ -196,7 +196,7 @@ Prendi il tuo bando e scegli dieci voci del programma. Per ciascuna:
 
 Se una voce resta generica, non è pronta per il piano di studio.
 
-## Checklist finale
+### Checklist finale
 
 - Ho distinto requisiti, materie e prove.
 - Ho identificato il profilo reale oltre la denominazione.
@@ -222,4 +222,4 @@ Se una voce resta generica, non è pronta per il piano di studio.
 - Il campione ufficiale di sei procedure non consente di dichiarare frequenze statistiche; ogni requisito e programma resta vincolato al singolo bando e ai relativi allegati.
 - Denominazioni, requisiti e inquadramenti professionali devono essere verificati sui bandi e sui CCNL vigenti.
 - I collegamenti cross-family sono instradamenti di catalogo, non rinvii didattici sostitutivi, finché la destinazione non è completa, aggiornata e verificata. Le destinazioni correnti sono M-FL01 per l'ordinamento locale, M-TR02 per appalti/PNRR, M-TR04 per ambiente e [[books/moduli/m-sp02-vigili-fuoco/index#Perimetro|M-SP02 — Perimetro]] per le carriere tecniche VVF.
-- Il cut-off normativo del volume è il 29 luglio 2026; la verifica umana resta obbligatoria prima della pubblicazione.
+- Il cut-off normativo del volume è il 21 agosto 2026. L'audit specialistico ha verificato le fonti e i rinvii del capitolo; bando e atti dell'ente restano prevalenti per requisiti e prove della singola procedura.

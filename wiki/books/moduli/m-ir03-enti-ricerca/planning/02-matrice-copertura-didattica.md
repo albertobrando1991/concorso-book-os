@@ -9,9 +9,9 @@ entities: ["CNR", "INFN", "ISTAT"]
 source_refs: ["sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24", "sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025"]
 book_refs: ["m-ir03-enti-ricerca", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.76
-updated_at: 2026-07-29
+updated_at: 2026-08-23
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["coverage-matrix", "module-code-m-ir03", "pipeline-step-07"]
 ---

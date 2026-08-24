@@ -19,7 +19,7 @@ source_refs: ["sources/laboratorio-casi-quesiti-sintetici-vol-11-2026", "sources
 book_refs: ["m-tr04-ambiente-protezione-civile", "vol-11-ambiente-protezione-civile-sostenibilita", "il-metodo-bando"]
 last_compiled_from: ["wiki/sources/laboratorio-casi-quesiti-sintetici-vol-11-2026.md", "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/ambiente-controlli-locali-d-lgs-152-2006.md", "wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md", "wiki/sources/acque-scarichi-servizio-idrico-quadro-ufficiale-2026.md", "wiki/sources/rifiuti-rentri-fir-mud-quadro-ufficiale-2026.md", "wiki/sources/bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026.md", "wiki/sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026.md", "wiki/sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026.md", "wiki/sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026.md", "wiki/sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026.md", "wiki/sources/clima-energia-rinnovabili-cer-efficienza-quadro-ufficiale-2026.md", "wiki/sources/dnsh-cam-ciclo-vita-sostenibilita-pa-quadro-ufficiale-2026.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/16-piano-capitolo-14-laboratorio-casi-quesiti-sintetici.md"]
 confidence: 0.84
-updated_at: 2026-08-18
+updated_at: 2026-08-21
 created_at: 2026-08-18
 review_required: false
 canonical: true

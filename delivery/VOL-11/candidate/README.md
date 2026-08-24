@@ -6,9 +6,9 @@
 
 - Titolo: *Ambiente, protezione civile e sostenibilità*.
 - Modulo: M-TR04.
-- Versione candidata: `VOL-11-candidate-2026.08.20.1`.
-- Cut-off normativo/editoriale: 18 agosto 2026.
-- Contenuto: 14 capitoli, 90 nuclei didattici, 223 pagine.
+- Versione candidata: `VOL-11-candidate-2026.08.21.1`.
+- Cut-off normativo/editoriale: 21 agosto 2026.
+- Contenuto: 14 capitoli, 90 nuclei didattici, 225 pagine.
 
 ## Contenuto del pacchetto
 

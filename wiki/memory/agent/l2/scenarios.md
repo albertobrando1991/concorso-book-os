@@ -6446,3 +6446,374 @@
 - l0: l0/conv-20260818155346-byfrbt.md
 - atoms:
   - mem-20260818155346-1itjkg4 | result | Esito codex/github-staff-volume-sync-20260818: Scarica dal progetto GitHub le modifiche effettuate dallo staff sui volumi 04, 05, 06 e 09, sulle fonti raw, sulla documentazione e sulla memoria operativa, senza sovrascrivere il lavoro locale. -> Integrato localmente il branch staff della draft PR #6 con un merge non distruttivo: 487 file, inclusi gli aggiornamenti attesi e ulteriori file VOL-11.
+
+## 2026-08-18T16:35:32.307Z - VOL-05
+
+- conversation_id: conv-20260818163532-el786w
+- route: codex/editorial-reviewer/vol-05-final-due-diligence
+- l0: l0/conv-20260818163532-el786w.md
+- atoms:
+  - mem-20260818163532-jvijke | result | Esito codex/editorial-reviewer/vol-05-final-due-diligence: Richiesta di revisione editoriale finale completa e imparziale del VOL-05, con analisi macro/micro, fact-check, valutazione numerica, giudizio A-D, tabella master e secondo controllo zero-errori. -> Revisione integrale completata su indice, 15 capitoli, fonti e Book Studio.
+
+## 2026-08-21T08:23:48.690Z - VOL-09
+
+- conversation_id: conv-20260821082348-1jvxhwb
+- route: codex/editorial-review-vol-09-20260821
+- l0: l0/conv-20260821082348-1jvxhwb.md
+- atoms:
+  - mem-20260821082348-1j04jwc | instruction | Effettua sul volume 9 ciò che non è stato fatto nella revisione editoriale finale completa, senza limitarti ai refusi e usando il protocollo professionale di pubblicabilità.
+  - mem-20260821082348-exffub | result | Esito codex/editorial-review-vol-09-20260821: Effettua sul volume 9 ciò che non è stato fatto nella revisione editoriale finale completa, senza limitarti ai refusi e usando il protocollo professionale di pubblicabilità. -> Riaperto lo step 21 della pipeline e completata una due diligence editoriale.
+
+## 2026-08-21T08:31:05.163Z - manual-writer
+
+- conversation_id: conv-20260821083105-14qpnht
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821083105-14qpnht.md
+- atoms:
+  - mem-20260821083105-1blupw6 | workflow | instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, senza alterare il frontmatter.
+  - mem-20260821083105-jim48n | instruction | Mantieni tutti i concetti utili ma elimina ogni wikilink e ogni riferimento a fonti, corpus, review, pipeline o note interne.
+  - mem-20260821083105-9l3m7y | instruction | 36/2023, ANAC, Consip e ReGiS solo quando utile.
+  - mem-20260821083105-1cvabuo | project_fact | Conserva tono workbook Metodo BANDO, italiano naturale e paragrafi impaginabili.
+  - mem-20260821083105-ty801l | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, sen... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md.
+
+## 2026-08-21T08:34:05.612Z - manual-writer
+
+- conversation_id: conv-20260821083405-15ezevn
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821083405-15ezevn.md
+- atoms:
+  - mem-20260821083405-403wa6 | instruction | Mantieni i concetti e gli esempi validi, ma elimina ogni wikilink e ogni riferimento a fonti, corpus, review, pipeline o note interne.
+  - mem-20260821083405-na89zl | instruction | Conserva stile workbook Metodo BANDO, italiano naturale e paragrafi impaginabili.
+  - mem-20260821083405-hhkn1k | instruction | Non fissare soglie, termini, istruzioni di piattaforma o altri dati mobili: spiega il metodo e rimanda il controllo alla fonte istituzionale leggibile quando necessario.
+  - mem-20260821083405-vo6dxc | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicab... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md.
+
+## 2026-08-21T08:37:35.410Z - manual-writer
+
+- conversation_id: conv-20260821083735-s25eog
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821083735-s25eog.md
+- atoms:
+  - mem-20260821083735-xtlfrl | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile,... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md.
+
+## 2026-08-21T08:40:37.550Z - manual-writer
+
+- conversation_id: conv-20260821084037-glcdzx
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821084037-glcdzx.md
+- atoms:
+  - mem-20260821084037-1pf24fn | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, senza ... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md.
+
+## 2026-08-21T08:43:55.658Z - manual-writer
+
+- conversation_id: conv-20260821084355-1s2yc1t
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821084355-1s2yc1t.md
+- atoms:
+  - mem-20260821084355-1a1li1v | instruction | Usa obbligatoriamente almeno cinque heading di secondo livello nel formato esatto N-M-TR02-XX-01 - Titolo, N-M-TR02-XX-02 - Titolo e così via.
+  - mem-20260821084355-10yahxs | instruction | Inserisci esattamente due heading di secondo livello che iniziano con Verifica e, in ciascuno, tre sotto-heading di terzo livello nel formato Quiz 1, Quiz 2, Quiz 3 con risposta commentata.
+  - mem-20260821084355-zzwp3b | instruction | Non fissare soglie, termini, istruzioni di piattaforma o altri dati mobili: spiega il metodo e indica la necessità di controllare la fonte istituzionale leggibile quando necessario.
+  - mem-20260821084355-1vqoewm | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, ... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md.
+
+## 2026-08-21T08:46:31.709Z - manual-writer
+
+- conversation_id: conv-20260821084631-12icv3q
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821084631-12icv3q.md
+- atoms:
+  - mem-20260821084631-1cy2qj2 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabi... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md.
+
+## 2026-08-21T08:50:33.635Z - manual-writer
+
+- conversation_id: conv-20260821085033-73aq8r
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821085033-73aq8r.md
+- atoms:
+  - mem-20260821085033-1nfg14c | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, senza alte... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md.
+
+## 2026-08-21T08:53:12.290Z - manual-writer
+
+- conversation_id: conv-20260821085312-d1tbkm
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821085312-d1tbkm.md
+- atoms:
+  - mem-20260821085312-3361vm | instruction | Mantieni i concetti e gli esempi validi, ma elimina ogni wikilink e ogni riferimento a fonti, corpus, review, pipeline o note interne, comprese sezioni denominate Riferimenti consolidati o Note di review.
+  - mem-20260821085312-5w01s5 | instruction | Inserisci due heading di secondo livello che iniziano con Verifica e, in ciascuno, tre sotto-heading di terzo livello nel formato Quiz 1, Quiz 2, Quiz 3 con risposta commentata.
+  - mem-20260821085312-i4x688 | instruction | Non fissare soglie, termini, istruzioni di piattaforma, termini processuali o altri dati mobili: spiega il metodo e indica la necessità di verificare il documento o la fonte istituzionale vigente quando necessario.
+  - mem-20260821085312-1pq13cy | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, senza alterare i... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md.
+
+## 2026-08-21T08:56:00.930Z - manual-writer
+
+- conversation_id: conv-20260821085600-cvrhq
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821085600-cvrhq.md
+- atoms:
+  - mem-20260821085600-1inmh3o | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, s... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md.
+
+## 2026-08-21T08:58:54.924Z - manual-writer
+
+- conversation_id: conv-20260821085854-1h8fbc8
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821085854-1h8fbc8.md
+- atoms:
+  - mem-20260821085854-xdlasm | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, senza a... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md.
+
+## 2026-08-21T09:02:00.594Z - manual-writer
+
+- conversation_id: conv-20260821090200-mfv5wd
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821090200-mfv5wd.md
+- atoms:
+  - mem-20260821090200-1ood4tf | instruction | Non fissare requisiti CAM, soglie, termini o altri dati mobili: spiega il metodo e indica la necessità di verificare il documento o la fonte istituzionale vigente quando necessario.
+  - mem-20260821090200-1rqeyyb | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pu... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md.
+
+## 2026-08-21T09:06:02.500Z - manual-writer
+
+- conversation_id: conv-20260821090602-qptg7a
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821090602-qptg7a.md
+- atoms:
+  - mem-20260821090602-ukkuzz | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, se... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md.
+
+## 2026-08-21T09:08:50.248Z - manual-writer
+
+- conversation_id: conv-20260821090850-xmbap4
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821090850-xmbap4.md
+- atoms:
+  - mem-20260821090850-9ozcr0 | instruction | Non fissare metodologie di ente, soglie, termini o altri dati mobili: spiega il metodo e indica la necessità di verificare il documento o la fonte istituzionale vigente quando necessario.
+  - mem-20260821090850-1pgf7im | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, senza a... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md.
+
+## 2026-08-21T09:11:20.229Z - manual-writer
+
+- conversation_id: conv-20260821091120-121rskc
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821091120-121rskc.md
+- atoms:
+  - mem-20260821091120-751hc3 | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md mode=humanizer_revision instruction=Riscrivi integralmente il corpo del capitolo come testo finale pubblicabile, s... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md.
+
+## 2026-08-21T09:15:38.383Z - manual-writer
+
+- conversation_id: conv-20260821091538-1gezl8h
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821091538-1gezl8h.md
+- atoms:
+  - mem-20260821091538-azpzlq | workflow | instruction=Restituisci esclusivamente il corpo markdown completo sostitutivo di questo capitolo.
+  - mem-20260821091538-r9pd1b | workflow | Deve essere superiore a 3500 parole e integralmente destinato al lettore, senza wikilink né riferimenti a fonti, corpus, review, pipeline o note interne.
+  - mem-20260821091538-1s0uqic | instruction | Usa almeno cinque nuclei di secondo livello nel formato esatto N-M-TR02-07-01 · Titolo.
+  - mem-20260821091538-ldmki7 | instruction | Usa due heading nel formato esatto ▣ Verifica 1 e ▣ Verifica 2, ciascuno con tre quiz e formula Risposta corretta:.
+  - mem-20260821091538-rpti5c | project_fact | Italiano naturale, workbook Metodo BANDO.
+  - mem-20260821091538-esiuiw | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md mode=humanizer_revision instruction=Restituisci esclusivamente il corpo markdown completo sostitutivo di questo capitolo. -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md.
+
+## 2026-08-21T09:19:04.768Z - manual-writer
+
+- conversation_id: conv-20260821091904-120id2k
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260821091904-120id2k.md
+- atoms:
+  - mem-20260821091904-11ythhv | instruction | Usa almeno cinque nuclei di secondo livello nel formato esatto N-M-TR02-12-01 · Titolo.
+  - mem-20260821091904-p9120q | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md mode=humanizer_revision instruction=Restituisci esclusivamente il corpo markdown completo sostitutivo di questo cap... -> Revisione humanizer completata su books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md.
+
+## 2026-08-21T09:31:02.610Z - VOL-09
+
+- conversation_id: conv-20260821093102-t4xjo4
+- route: Codex.volume-publication-integration
+- l0: l0/conv-20260821093102-t4xjo4.md
+- atoms:
+  - mem-20260821093102-5y2xfq | result | Esito Codex.volume-publication-integration: Attua tutte le integrazioni previste per portare VOL-09 allo stato pubblicabile senza revisione umana. -> Integrati i 14 capitoli M-TR02 in format_version 2; superati audit didattico, test, typecheck, build ed export PDF.
+
+## 2026-08-22T21:38:27.051Z - VOL-06
+
+- conversation_id: conv-20260822213827-1ee1j8c
+- route: editorial-pipeline
+- l0: l0/conv-20260822213827-1ee1j8c.md
+- atoms:
+  - mem-20260822213827-1gej3de | result | Esito editorial-pipeline: Continua la revisione editoriale completa di VOL-06 includendo gli aggiornamenti staff, lasciando solo la verifica umana finale. -> M-IR02 chiuso fino al text freeze con audit fonti e manifest hash.
+
+## 2026-08-22T22:56:24.223Z - VOL-06
+
+- conversation_id: conv-20260822225624-9iuj1q
+- route: codex/vol-06-m-ir03-ch11-complete
+- l0: l0/conv-20260822225624-9iuj1q.md
+- atoms:
+  - mem-20260822225624-ejrlb | result | Esito codex/vol-06-m-ir03-ch11-complete: Procedi con la revisione automatizzata del VOL-06. -> M-IR03 capitolo 11 completato fino allo step 12: fonti UE/MUR, piano, capitolo 3761+ parole, cinque nuclei v2, sette quiz, due casi, lint e densità superati, report editoriale chiuso.
+
+## 2026-08-23T00:05:28.586Z - VOL-06
+
+- conversation_id: conv-20260823000528-1atwrp2
+- route: codex/vol-06-m-ir03-ch12-complete
+- l0: l0/conv-20260823000528-1atwrp2.md
+- atoms:
+  - mem-20260823000528-y7fub | result | Esito codex/vol-06-m-ir03-ch12-complete: Procedi con il laboratorio M-IR03. -> M-IR03 capitolo 12 completato fino allo step 12: cinque nuclei oltre soglia, quattro simulazioni, sette quiz, caso guidato, lint e densità superati, report editoriale chiuso.
+
+## 2026-08-23T00:55:39.323Z - VOL-06
+
+- conversation_id: conv-20260823005539-1x3vd6p
+- route: codex/vol-06-m-ir04-ch01-complete
+- l0: l0/conv-20260823005539-1x3vd6p.md
+- atoms:
+  - mem-20260823005539-782s59 | result | Esito codex/vol-06-m-ir04-ch01-complete: Procedi con la revisione automatizzata del VOL-06. -> M-IR04 capitolo 01 completato fino allo step 12: fonti MiC verificate, piano, capitolo v2 di 3983 parole, cinque nuclei, sette quiz, tre casi, lint, densità, humanizer e report editoriale chiuso.
+
+## 2026-08-23T13:02:49.356Z - VOL-06
+
+- conversation_id: conv-20260823130249-1f8h3yk
+- route: codex/vol-06-m-ir04-ch02-complete
+- l0: l0/conv-20260823130249-1f8h3yk.md
+- atoms:
+  - mem-20260823130249-34q4yl | result | Esito codex/vol-06-m-ir04-ch02-complete: Procedi con più punti. -> M-IR04 capitolo 02 completato fino allo step 12: piano, capitolo v2 di 3630+ parole, cinque nuclei, sette quiz, tre casi, lint, densità, humanizer e report editoriale chiuso.
+
+## 2026-08-23T13:32:28.379Z - manual-writer
+
+- conversation_id: conv-20260823133228-1ajehi5
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823133228-1ajehi5.md
+- atoms:
+  - mem-20260823133228-1k0s7pn | workflow | instruction=Redigi integralmente il capitolo 03 secondo il piano operativo esistente.
+  - mem-20260823133228-1a27akt | instruction | Mantieni format_version 2: cinque nuclei N-IR04-03-01..05, almeno 600 parole ciascuno, almeno 3000 parole, sette quiz con formula Risposta corretta:, almeno due casi, un blocco ▣ Verifica, spiegazione teorica, Mappa BANDO, box, errori tipici e riferimenti leggibili.
+  - mem-20260823133228-hul94h | instruction | Usa esclusivamente fonti consolidate, in particolare D.Lgs.
+  - mem-20260823133228-1f1g2up | project_fact | Il testo deve essere autosufficiente e non contenere wiki, source note, corpus o report.
+  - mem-20260823133228-1p6kkjh | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md mode=draft instruction=Redigi integralmente il capitolo 03 secondo il piano operativo esistente. -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md.
+
+## 2026-08-23T16:05:01.600Z - manual-writer
+
+- conversation_id: conv-20260823160501-oczq0
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823160501-oczq0.md
+- atoms:
+  - mem-20260823160501-th27h0 | workflow | instruction=Redigi integralmente il capitolo 04 secondo il piano operativo esistente.
+  - mem-20260823160501-whjhia | instruction | Mantieni format_version 2: cinque nuclei N-IR04-04-01..05, almeno 600 parole ciascuno, almeno 3000 parole, sette quiz con formula Risposta corretta:, almeno due casi, un blocco ▣ Verifica, spiegazione teorica, Mappa BANDO, box, errori tipici e riferimenti leggibili.
+  - mem-20260823160501-s6i7h6 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md mode=draft instruction=Redigi integralmente il capitolo 04 secondo il piano operativo esistente. -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md.
+
+## 2026-08-23T18:45:54.788Z - manual-writer
+
+- conversation_id: conv-20260823184554-omffdu
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823184554-omffdu.md
+- atoms:
+  - mem-20260823184554-jpg06n | workflow | instruction=Redigi integralmente il capitolo 05 secondo il piano operativo esistente.
+  - mem-20260823184554-unklot | instruction | Mantieni format_version 2: cinque nuclei N-IR04-05-01..05, almeno 600 parole ciascuno, almeno 3000 parole, sette quiz con formula Risposta corretta:, almeno due casi, un blocco ▣ Verifica, spiegazione teorica, Mappa BANDO, box, errori tipici e riferimenti leggibili.
+  - mem-20260823184554-amwlbl | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md mode=draft instruction=Redigi integralmente il capitolo 05 secondo il piano operativo esistente. -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md.
+
+## 2026-08-23T18:53:01.641Z - manual-writer
+
+- conversation_id: conv-20260823185301-1edgiqa
+- route: ManualWriterAgent.reviseChapter
+- l0: l0/conv-20260823185301-1edgiqa.md
+- atoms:
+  - mem-20260823185301-or7x2v | workflow | instruction=Consolida il file in un solo capitolo destinato al lettore: elimina tutte le bozze duplicate, frontmatter interni, titoli ripetuti e note redazionali.
+  - mem-20260823185301-3wjt7b | instruction | Mantieni un unico H1, cinque nuclei N-IR04-05-01..05 con separatore ·, almeno 600 parole ciascuno, una sola verifica con sette quiz commentati e due casi.
+  - mem-20260823185301-gfyu0w | workflow | Il corpo non deve citare wiki, source note, corpus, report o workflow.
+  - mem-20260823185301-1fknwqp | result | Esito ManualWriterAgent.reviseChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md mode=humanizer_revision instruction=Consolida il file in un solo capitolo destinato al lettore: elimina tutte le ... -> Revisione humanizer completata su books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md.
+
+## 2026-08-23T18:59:21.745Z - manual-writer
+
+- conversation_id: conv-20260823185921-15xed2e
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823185921-15xed2e.md
+- atoms:
+  - mem-20260823185921-y6p3p8 | instruction | instruction=Ricostruisci integralmente il capitolo per il lettore usando il piano capitolo e le fonti consolidate disponibili.
+  - mem-20260823185921-gwrv9q | instruction | Includi Apertura editoriale, Obiettivo didattico, Mappa BANDO, spiegazione teorica e cinque nuclei esattamente nel formato ### N-IR04-05-01 Â· Titolo fino a 05, di almeno 600 parole ciascuno; aggiungi due casi guidati, un errore tipico, una domanda-trappola e una sola sezione ### â–£ Verifica con sette quiz commentati e risposta corretta.
+  - mem-20260823185921-1pot4si | workflow | Non citare wiki, source note, corpus, report o workflow.
+  - mem-20260823185921-nrjse | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md mode=draft instruction=Ricostruisci integralmente il capitolo per il lettore usando il piano capitolo e le fonti ... -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md.
+
+## 2026-08-23T19:02:51.530Z - VOL-06
+
+- conversation_id: conv-20260823190251-5azwk9
+- route: codex/vol-06-m-ir04-ch05-complete
+- l0: l0/conv-20260823190251-5azwk9.md
+- atoms:
+  - mem-20260823190251-zby80e | result | Esito codex/vol-06-m-ir04-ch05-complete: Procedi autonomamente fino al completamento automatico. -> M-IR04 capitolo 05 completato fino allo step 12: stesura ricostruita, cinque nuclei v2, copertura, humanizer e report editoriale; resta sola verifica normativa finale al text freeze.
+
+## 2026-08-23T19:06:42.748Z - manual-writer
+
+- conversation_id: conv-20260823190642-i2un5f
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823190642-i2un5f.md
+- atoms:
+  - mem-20260823190642-e3hlbu | workflow | instruction=Scrivi SOLO il corpo Markdown del capitolo destinato al lettore, senza frontmatter YAML e senza note su agenti, bozze o revisioni.
+  - mem-20260823190642-mbw5a3 | instruction | Inserisci Apertura editoriale, Obiettivo didattico, Mappa BANDO e cinque nuclei esattamente nel formato ### N-IR04-06-01 Â· Titolo fino a 05; ogni nucleo deve avere almeno 600 parole e spiegare definizione, funzione, distinzioni, conseguenze, esempio e uso concorsuale.
+  - mem-20260823190642-u4g8ly | instruction | Usa prudenza: non inventare versioni, requisiti, standard, norme o piattaforme e non citare wiki, source note, corpus, report o workflow.
+  - mem-20260823190642-1pjbmu9 | instruction | Cita soltanto in forma leggibile il Ministero della cultura, ICCD e ICCU quando utile.
+  - mem-20260823190642-19nz79g | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md mode=draft instruction=Scrivi SOLO il corpo Markdown del capitolo destinato al lettore, senza frontmatter YAML e sen... -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md.
+
+## 2026-08-23T19:10:16.299Z - VOL-06
+
+- conversation_id: conv-20260823191016-11vlgw1
+- route: codex/vol-06-m-ir04-ch06-complete
+- l0: l0/conv-20260823191016-11vlgw1.md
+- atoms:
+  - mem-20260823191016-5bvyoc | result | Esito codex/vol-06-m-ir04-ch06-complete: Procedi autonomamente fino al completamento automatico. -> M-IR04 capitolo 06 completato fino allo step 12: piano, stesura v2, copertura, humanizer e report editoriale; resta verifica tecnica finale su standard ICCD/ICCU.
+
+## 2026-08-23T19:13:43.943Z - manual-writer
+
+- conversation_id: conv-20260823191343-1wqzc7i
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823191343-1wqzc7i.md
+- atoms:
+  - mem-20260823191343-1kxssa1 | instruction | Un solo H1, Apertura editoriale, Obiettivo didattico, Mappa BANDO e cinque nuclei nel formato ### N-IR04-07-01 · Titolo fino a 05, almeno 600 parole ciascuno.
+  - mem-20260823191343-4p2jl6 | workflow | Non inventare articoli, termini, procedure, standard o competenze; non citare wiki, source note, corpus, report o workflow.
+  - mem-20260823191343-1i0u0me | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md mode=draft instruction=Scrivi SOLO il corpo Markdown per il lettore, senza frontmatter e senza note redazionali. -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md.
+
+## 2026-08-23T19:21:16.711Z - manual-writer
+
+- conversation_id: conv-20260823192116-1hmxnle
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823192116-1hmxnle.md
+- atoms:
+  - mem-20260823192116-zgcdb3 | workflow | instruction=Scrivi SOLO il corpo Markdown del capitolo per il lettore.
+  - mem-20260823192116-3ho4zm | instruction | Un solo H1, Apertura editoriale, Obiettivo didattico, Mappa BANDO, Spiegazione teorica e cinque nuclei nel formato ### N-IR04-08-01 · Titolo fino a 05, almeno 600 parole ciascuno.
+  - mem-20260823192116-10kvh9o | workflow | Senza frontmatter, note redazionali, norme o standard inventati, né riferimenti a wiki, source note, corpus, report o workflow.
+  - mem-20260823192116-9dri5u | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md mode=draft instruction=Scrivi SOLO il corpo Markdown del capitolo per il lettore. -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md.
+
+## 2026-08-23T19:27:40.665Z - manual-writer
+
+- conversation_id: conv-20260823192740-y5u40b
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823192740-y5u40b.md
+- atoms:
+  - mem-20260823192740-16su76p | workflow | Nessun frontmatter, linguaggio redazionale o riferimento a wiki, source note, corpus, report o workflow.
+  - mem-20260823192740-rbcwse | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md mode=draft instruction=Scrivi SOLO il corpo Markdown per il lettore: un H1, Apertura editoriale, Obiettivo didattic... -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md.
+
+## 2026-08-23T19:34:33.185Z - manual-writer
+
+- conversation_id: conv-20260823193433-ndbpu7
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823193433-ndbpu7.md
+- atoms:
+  - mem-20260823193433-hiypx3 | instruction | Non usare frontmatter, linguaggio redazionale, wiki, source note, corpus, report o workflow.
+  - mem-20260823193433-1tu2xsn | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md mode=draft instruction=Scrivi SOLO il corpo Markdown. -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md.
+
+## 2026-08-23T19:40:25.320Z - manual-writer
+
+- conversation_id: conv-20260823194025-105bpni
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823194025-105bpni.md
+- atoms:
+  - mem-20260823194025-qfyf1u | instruction | Non usare frontmatter, wiki, source note, corpus, report o workflow.
+  - mem-20260823194025-150f3d6 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md mode=draft instruction=Scrivi SOLO il corpo Markdown. -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md.
+
+## 2026-08-23T19:46:34.729Z - manual-writer
+
+- conversation_id: conv-20260823194634-1en3ij2
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823194634-1en3ij2.md
+- atoms:
+  - mem-20260823194634-5beha6 | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md mode=draft instruction=Scrivi SOLO corpo Markdown: un H1, Apertura editoriale, Obiettivo didattico, Mappa BANDO, Sp... -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md.
+
+## 2026-08-23T19:58:22.245Z - manual-writer
+
+- conversation_id: conv-20260823195822-y9nkab
+- route: ManualWriterAgent.writeChapter
+- l0: l0/conv-20260823195822-y9nkab.md
+- atoms:
+  - mem-20260823195822-1e5yud1 | instruction | Un solo H1; poi Apertura editoriale, Obiettivo didattico, Mappa BANDO, Spiegazione teorica e cinque nuclei esattamente nel formato ### N-IR04-13-01 · Titolo fino a 05, almeno 600 parole ciascuno.
+  - mem-20260823195822-x6fv40 | instruction | Non usare frontmatter, wikilink, wiki, source note, corpus, report, workflow o meta-commenti.
+  - mem-20260823195822-i7nl8h | instruction | Mantieni un tono naturale, concreto e didattico per candidati a concorsi pubblici.
+  - mem-20260823195822-12quawy | result | Esito ManualWriterAgent.writeChapter: chapterPath=books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md mode=draft instruction=Scrivi SOLO il corpo Markdown destinato al lettore, sostituendo lo stub senza toccare il front... -> Manual Writer completato su books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md.
+
+## 2026-08-23T20:01:17.172Z - VOL-06
+
+- conversation_id: conv-20260823200117-qgr8jm
+- route: codex/vol-06-m-ir04-ch13-complete
+- l0: l0/conv-20260823200117-qgr8jm.md
+- atoms:
+  - mem-20260823200117-4lfxng | result | Esito codex/vol-06-m-ir04-ch13-complete: Procedi autonomamente fino al completamento automatico. -> M-IR04 capitolo 13 completato fino allo step 12: cinque nuclei, 5653 parole, sette quiz, caso, copertura e report editoriale chiusi.

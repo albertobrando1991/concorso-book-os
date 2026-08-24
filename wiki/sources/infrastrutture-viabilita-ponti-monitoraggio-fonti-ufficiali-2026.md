@@ -9,14 +9,14 @@ entities: ["Ministero delle infrastrutture e dei trasporti","Consiglio Superiore
 source_refs: ["sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["m-tr03-tecnico-ingegneristico","vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.94
-updated_at: 2026-07-30
+updated_at: 2026-08-21
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","official","ponti","viabilita","monitoraggio","vol-10"]
 source_type: official_normative_and_technical_bundle
 source_url: "https://www.mit.gov.it/index.php/normativa/decreto-del-presidente-del-consiglio-superiore-dei-lavori-pubblici-n-413-del-5112025"
-source_date: 2026-07-30
+source_date: 2026-08-21
 authority_level: alta
 ---
 
@@ -35,7 +35,7 @@ La nota consolida, per uso editoriale:
 - [AINOP — Archivio Informatico Nazionale delle Opere Pubbliche](https://ainop.mit.gov.it/portale/#/), per censimento, identificazione e dati sul ciclo di vita delle opere;
 - [[sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali]], per sicurezza strutturale, costruzioni esistenti e valutazione.
 
-Ricognizione eseguita il 30 luglio 2026. Vigenza, campo di applicazione e allegati devono essere ricontrollati prima della pubblicazione.
+Ricognizione aggiornata il 21 agosto 2026. Confermati vigenza e campo di applicazione delle fonti richiamate, incluso l'aggiornamento 2025 delle Istruzioni operative ANSFISA.
 
 ## Nuclei consolidati
 

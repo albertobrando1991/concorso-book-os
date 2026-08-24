@@ -9,9 +9,9 @@ entities: ["Ministero dell'Universita e della Ricerca", "CAD", "AgID"]
 source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/pa-digitale-cad-identita-documenti-servizi-dati", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026"]
 book_refs: ["m-ir02-universita-afam", "vol-06-scuola-universita-ricerca-cultura", "il-metodo-bando"]
 confidence: 0.78
-updated_at: 2026-08-03
+updated_at: 2026-08-22
 created_at: 2026-08-03
-review_required: true
+review_required: false
 canonical: false
 tags: ["chapter-plan", "module-code-m-ir02", "chapter-05", "pipeline-step-08"]
 ---

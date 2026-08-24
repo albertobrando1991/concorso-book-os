@@ -20,6 +20,23 @@ export interface ContactSheetRange {
   pages: number[]
 }
 
+export interface ContactSheetCaptureContract<TRange = ContactSheetRange> {
+  ranges: TRange[]
+  referenceSignature: string
+  readSignature(): Promise<string>
+  recover(): Promise<void>
+  capture(range: TRange): Promise<void>
+}
+
+export interface RectBounds {
+  left: number
+  right: number
+  top: number
+  bottom: number
+  width?: number
+  height?: number
+}
+
 export interface PageBlockDiagnostic {
   type: string
   continued: boolean
@@ -73,6 +90,7 @@ export interface PageDiagnostic {
   detachedBlocks: string[]
   nextPageStartsWithProtectedHeading: boolean
   nextFirstBlockHeight?: number
+  nextBackfillCandidateHeight?: number
   isFrontMatterContinuation: boolean
   isSectionTerminal: boolean
 }
@@ -114,6 +132,14 @@ export interface PageAuditReportInput {
 
 export function resolvePageAuditOptions(env?: Record<string, string | undefined>): PageAuditOptions
 export function buildContactSheetRanges(pageCount: number, sheetSize?: number): ContactSheetRange[]
+export function captureContactSheetsWithStablePagination<TRange>(
+  contract: ContactSheetCaptureContract<TRange>
+): Promise<void>
+export function visibleRectsContained(
+  rects: RectBounds[],
+  bounds: RectBounds,
+  tolerance?: number
+): boolean
 export function flaggedPageNumbers(
   issues: Array<{ page: number }>,
   explicitPages?: number[]

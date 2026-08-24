@@ -1,14 +1,14 @@
 ---
 id: chapter-m-tr04-09-controlli-sanzioni-reati-ambientali
 type: book_chapter
-title: "Controlli, sanzioni e reati ambientali"
+title: "Capitolo 09 — Controlli, sanzioni e reati ambientali"
 status: draft
 book_id: m-tr04-ambiente-protezione-civile
 volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["controlli ambientali", "sanzioni amministrative", "contravvenzioni ambientali", "delitti contro l'ambiente", "prescrizioni", "responsabilità degli enti"]
 entities: ["MASE", "ISPRA", "SNPA", "ARPA", "Autorità giudiziaria", "Polizia giudiziaria", "Regioni", "Comuni"]
@@ -17,14 +17,14 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/11-piano-capitolo-09-controlli-sanzioni-reati-ambientali.md"]
 confidence: 0.93
 created_at: 2026-08-13
-updated_at: 2026-08-13
-review_required: true
+updated_at: 2026-08-21
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
-# Controlli, sanzioni e reati ambientali
+# Capitolo 09 — Controlli, sanzioni e reati ambientali
 
 ## Apertura editoriale
 

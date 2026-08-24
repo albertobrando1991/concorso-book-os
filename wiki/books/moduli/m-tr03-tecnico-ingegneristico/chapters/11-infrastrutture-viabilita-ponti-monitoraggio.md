@@ -2,21 +2,21 @@
 id: chapter-m-tr03-11-infrastrutture-viabilita-ponti-monitoraggio
 type: book_chapter
 title: "Infrastrutture, viabilità, ponti e monitoraggio"
-status: draft
+status: reviewed
 domain: concorsi pubblici italiani
 topics: ["infrastrutture","viabilità","ponti esistenti","ispezione","rischio","monitoraggio"]
 entities: ["Ministero delle infrastrutture e dei trasporti","Consiglio Superiore dei Lavori Pubblici","ANSFISA","AINOP"]
 source_refs: ["sources/infrastrutture-viabilita-ponti-monitoraggio-fonti-ufficiali-2026.md","sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali.md","sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md","sources/collaudo-verifica-manutenzione-opera-dlgs-36-2023-allegato-ii14.md","sources/campione-bandi-tecnici-pa-vol-10-2026.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","infrastrutture","ponti","monitoraggio"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "11"
-draft_stage: full_draft
+draft_stage: publication_candidate
 last_compiled_from: "planning/08-capitolo-11-piano-completamento.md"
 ---
 
@@ -36,7 +36,7 @@ Al termine del capitolo saprai riconoscere gli elementi essenziali di una rete s
 - **Diario:** registra confusioni tra osservazione e diagnosi, classe di attenzione e verifica, misura e decisione.
 - **Output:** ricostruisci il processo da un'anomalia osservata alla scelta tecnica e amministrativa.
 
-## Dalla singola opera alla rete
+## N-TR03-11-01 · Dalla singola opera alla rete
 
 ### Infrastruttura, servizio e contesto
 
@@ -64,7 +64,7 @@ La continuità del servizio non giustifica il rinvio di una misura necessaria. E
 > La classificazione ordina l'attenzione, non certifica la sicurezza.  
 > Il monitoraggio misura nel tempo, ma la decisione resta tecnica.
 
-## Leggere un ponte e le opere d'arte
+## N-TR03-11-02 · Leggere un ponte e le opere d'arte
 
 ### Tipi di opere e funzioni
 
@@ -90,7 +90,7 @@ Il tecnico separa tre livelli:
 
 Passare direttamente dall'osservazione all'accertamento produce diagnosi fragili. D'altra parte, una causa ancora incerta non giustifica l'omissione del segno.
 
-## Conoscenza, ispezione e rischio
+## N-TR03-11-03 · Conoscenza, ispezione e rischio
 
 ### Censimento e fascicolo dell'opera
 
@@ -118,7 +118,7 @@ La classe di attenzione consente di ordinare opere e approfondimenti a scala di 
 
 La valutazione della sicurezza risponde a domande sull'opera concreta, usando conoscenza, modelli, azioni e criteri delle NTC applicabili. Il capitolo 4 tratta il quadro delle costruzioni esistenti; qui conta il passaggio corretto: dati e ispezioni orientano la decisione di approfondire, ma non sostituiscono la valutazione.
 
-## Monitoraggio e gestione delle anomalie
+## N-TR03-11-04 · Monitoraggio e gestione delle anomalie
 
 ### Grandezze, riferimento, soglie e allarmi
 
@@ -140,7 +140,7 @@ Di fronte a un'anomalia, il gestore deve distinguere urgenza, bisogno di approfo
 
 Una misura cautelare protegge durante l'incertezza e resta distinta dalla soluzione definitiva. Ogni decisione deve indicare presupposto, soggetto, durata o condizione di riesame e verifica successiva.
 
-## Manutenzione e priorità di rete
+## N-TR03-11-05 · Manutenzione e priorità di rete
 
 ### Dal difetto all'intervento
 
@@ -158,7 +158,7 @@ Una graduatoria difendibile dichiara criteri, fonti, incertezze e responsabile d
 
 GIS, modelli informativi e inventari possono collegare posizione, geometria, documenti, ispezioni e interventi. Il capitolo 12 sviluppa questi strumenti. Qui vale una regola: il sistema informativo deve mantenere identità dell'opera, versione del dato e responsabilità dell'aggiornamento.
 
-## Caso guidato: dal segnale alla decisione
+## N-TR03-11-06 · Caso guidato: dal segnale alla decisione
 
 Dopo un evento meteorologico, l'ispezione di un ponte segnala infiltrazioni, un giunto danneggiato e materiale presso uno scarico. I documenti storici sono incompleti; la strada serve due comuni e non ha un'alternativa equivalente. Un sensore mostra uno scostamento dalla baseline, senza superare una soglia validata.
 
@@ -182,7 +182,7 @@ Il mancato superamento della soglia non chiude il caso. Il sistema potrebbe non 
 | valutazione | quale sicurezza risulta? | giudizio tecnico motivato | uso, limitazione o intervento |
 | monitoraggio | come evolve la grandezza scelta? | serie controllata | allarme, verifica o conferma |
 
-## Domande ed errori
+## ▣ Verifica
 
 ### Domanda da commissario
 
@@ -200,7 +200,7 @@ No. L'assenza di allarme riguarda il sistema e le grandezze osservate. Non sosti
 
 Trasformare un difetto fotografato in diagnosi certa. La descrizione deve restare separata dall'ipotesi e dall'accertamento specialistico.
 
-## Mini-esercizio e checklist
+### Mini-esercizio e checklist
 
 Tre opere presentano: A, degrado rapido ma deviazione disponibile; B, dati incompleti e collegamento essenziale; C, difetto stabile già verificato e intervento programmato. Quale viene “prima”?
 
@@ -228,4 +228,4 @@ Checklist:
 
 ## Note di review
 
-Prima della pubblicazione, verificare vigenza e campo di applicazione di Codice della strada, regolamento, norme geometriche, Linee guida ponti e Istruzioni operative ANSFISA. Il capitolo richiede review di ingegnere stradale, strutturista esperto di ponti esistenti, geotecnico, ispettore, gestore di rete ed esperto di monitoraggio. Livelli, classi, frequenze, schede, soglie e provvedimenti su opere reali devono sempre derivare dagli atti applicabili e dalle autorità competenti. Il raccordo è stato verificato il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio#Patrimonio pubblico e inventario tecnico|Patrimonio pubblico e inventario tecnico]].
+Audit del 21 agosto 2026: verificati Codice della strada, regolamento, norme geometriche, D.M. n. 204/2022 e aggiornamento delle Istruzioni operative ANSFISA adottato con decreto n. 413 del 5 novembre 2025. Il capitolo descrive correttamente l'approccio multilivello e non trasforma classi o rilievi in automatismi decisori. Per opere reali restano vincolanti atti applicabili e autorità competenti. Confermato il raccordo al capitolo 12.

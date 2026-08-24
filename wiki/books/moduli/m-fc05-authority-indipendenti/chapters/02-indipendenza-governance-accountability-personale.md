@@ -2,21 +2,21 @@
 id: chapter-m-fc05-02-indipendenza-governance-accountability-personale
 type: book_chapter
 title: "Indipendenza, governance, accountability e personale"
-status: professional_draft
+status: final
 domain: concorsi pubblici italiani
 topics: ["authority indipendenti", "governance", "accountability", "personale"]
 entities: ["AGCM", "ARERA", "AGCOM", "CONSOB", "Banca d'Italia", "IVASS"]
 source_refs: ["sources/authority-indipendenti-leggi-istitutive.md", "sources/authority-indipendenti-governance-personale-2026-07-24.md", "sources/vol-05-bandi-authority-2022-2025.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.86
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "governance"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 2
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/03-flusso-indipendenza-governance-accountability-personale.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/04-distinzioni-indipendenza-governance-accountability-personale.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/05-sintesi-indipendenza-governance-accountability-personale.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # Indipendenza, governance, accountability e personale
 
-## Scheda di lavoro
+## N-MF05-02-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Distinguere l'indipendenza funzionale, organizzativa e di giudizio; leggere gli organi, le garanzie, i controlli e le fonti del rapporto di lavoro senza attribuire alle autorità un modello uniforme.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Una matrice per ricostruire ente, organi, poteri, responsabilità e fonte applicabile al personale; una risposta orale strutturata sul rapporto tra indipendenza e accountability.
 
 > **Regola di metodo.** Per ogni autorità, la sequenza corretta è: fonte istitutiva → organi e poteri → regolamenti interni → trasparenza e controlli → bando e profilo. L'analogia tra enti viene dopo, non prima.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -61,7 +61,7 @@ Alla fine del capitolo il lettore deve saper fare quattro operazioni:
 
 ![Figura 2.1 — Mappa BANDO: Indipendenza, governance e personale.](../assets/chapter-02/01-mappa-bando-indipendenza-governance-accountability-personale.png)
 
-*Figura 2.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 2.1 — La tavola orienta la lettura di indipendenza e separa il perimetro dalle eccezioni.*
 
 ### Indipendenza: una garanzia, non un privilegio
 
@@ -73,11 +73,13 @@ Il secondo è l'**indipendenza funzionale**. L'autorità deve poter svolgere i c
 
 Il terzo è l'**indipendenza organizzativa e amministrativa**. Le autorità possono disporre di regole e strutture interne proprie, stabilite nei limiti della fonte istitutiva e degli atti applicabili. Essa non comporta uniformità fra gli enti: organi, uffici, procedure di reclutamento, disciplina del personale e modalità di finanziamento devono essere verificati nel singolo ordinamento settoriale. Proprio per questo una risposta tecnicamente corretta usa espressioni come «secondo la disciplina dell'ente» e indica la fonte da controllare, anziché estendere meccanicamente il modello di un'autorità a tutte le altre.
 
+## N-MF05-02-02 · Istituti e distinzioni
+
 Le leggi istitutive di AGCM, ARERA e AGCOM mostrano, con configurazioni differenti, che l'indipendenza è inserita in un sistema di competenze definite e di garanzie istituzionali. Le fonti organizzative delle autorità confermano inoltre che l'autonomia di decisione convive con una struttura amministrativa disciplinata e con regole interne di funzionamento. Il punto non è memorizzare un numero di componenti o una denominazione d'ufficio: questi elementi possono cambiare o essere diversi da ente a ente. Il punto è ricostruire la funzione della garanzia e verificarne l'attuale configurazione nella fonte vigente.
 
 ![Figura 2.2 — Architettura: Indipendenza, governance e personale.](../assets/chapter-02/02-architettura-indipendenza-governance-accountability-personale.png)
 
-*Figura 2.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 2.2 — La tavola mette a confronto governance e accountability senza sovrapporli.*
 
 ### Governance: chi decide e chi istruisce
 
@@ -93,7 +95,7 @@ Anche nomine, durata dell'incarico e incompatibilità vanno lette in chiave funz
 
 ![Figura 2.3 — Sequenza operativa: Indipendenza, governance e personale.](../assets/chapter-02/03-flusso-indipendenza-governance-accountability-personale.png)
 
-*Figura 2.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 2.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Accountability: autonomia controllabile
 
@@ -108,13 +110,15 @@ L'accountability non si esaurisce in un documento annuale né coincide con la so
 - i controlli amministrativi, contabili o istituzionali previsti;
 - la possibilità di tutela davanti al giudice nei casi e nei modi disciplinati dall'ordinamento.
 
+## N-MF05-02-03 · Poteri, procedura e conseguenze
+
 Questi elementi rispondono a una medesima esigenza: rendere l'autonomia compatibile con il principio di legalità e con la tutela delle posizioni giuridiche coinvolte. È quindi improprio dire che un'autorità «risponde solo a se stessa». L'autorità agisce nel quadro della legge e le sue decisioni possono essere sottoposte alle verifiche previste. Ugualmente improprio sarebbe affermare che ogni atto di un'autorità segue lo stesso identico procedimento o la stessa forma di controllo: la disciplina cambia in base al potere esercitato e all'ente competente.
 
 Per il funzionario, accountability significa anche qualità del lavoro quotidiano. Una nota istruttoria deve distinguere fatti, dati, fonti, valutazioni e proposta; un fascicolo deve consentire di ricostruire le attività svolte; una comunicazione esterna deve rispettare competenza, riservatezza e canali formali. Queste attenzioni non sono meri adempimenti burocratici: proteggono l'ente, il decisore e il destinatario dell'atto.
 
 ![Figura 2.4 — Distinzioni essenziali: Indipendenza, governance e personale.](../assets/chapter-02/04-distinzioni-indipendenza-governance-accountability-personale.png)
 
-*Figura 2.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 2.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Personale: perché non esiste una scorciatoia unica
 
@@ -135,7 +139,7 @@ Dal punto di vista professionale, il personale concorre a rendere effettive indi
 
 ![Figura 2.5 — Sintesi operativa: Indipendenza, governance e personale.](../assets/chapter-02/05-sintesi-indipendenza-governance-accountability-personale.png)
 
-*Figura 2.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 2.5 — La tavola chiude il percorso collegando personale a controlli.*
 
 ### Mappa BANDO
 
@@ -149,6 +153,8 @@ Quando il bando richiama «ordinamento dell'autorità», «organizzazione», «c
 | Personale | Regolamento dell'ente, disciplina del rapporto e bando | Presumere un CCNL unico o un rinvio automatico ad ARAN |
 
 > **Da sapere in cinque righe.** L'autorità indipendente non è priva di vincoli: opera entro competenze legali e con garanzie che proteggono il giudizio. La governance distribuisce decisione, istruttoria, gestione e controllo secondo le fonti dell'ente. L'accountability rende l'autonomia verificabile mediante motivazione, trasparenza, rendicontazione e tutele. Il personale non segue necessariamente una disciplina uniforme: la fonte va individuata ente per ente. Il bando integra, ma non sostituisce, legge e regolamenti.
+
+## N-MF05-02-04 · Applicazione alla prova
 
 ### Caso guidato: la richiesta informale del soggetto regolato
 
@@ -194,10 +200,46 @@ Scegli l'autorità indicata dal tuo bando e completa la matrice seguente, riport
 
 L'esercizio è svolto correttamente solo quando ogni informazione deriva dalla propria fonte e la data di verifica è annotata. Questa precauzione evita di studiare assetti superati e trasforma la preparazione in una competenza direttamente spendibile nel lavoro.
 
-### Riferimenti consolidati
+### Prova di trasferimento
 
-[[sources/authority-indipendenti-leggi-istitutive]], [[sources/authority-indipendenti-governance-personale-2026-07-24]], [[sources/vol-05-bandi-authority-2022-2025]], [[topics/governance-accountability-personale-authority]].
+Immagina che la stessa questione su indipendenza compaia prima in un quiz, poi all'orale e infine in un caso. Nel quiz cerca la distinzione decisiva fra governance e accountability; all'orale enuncia criterio, limite ed esempio; nel caso individua fatti, fonte, competenza e passo istruttorio. Il contenuto di base non cambia, ma cambia la forma della prestazione: una risposta lunga non è automaticamente più completa e una risposta breve non può omettere il presupposto.
 
-### Note di review editoriale
+## N-MF05-02-05 · Consolidamento e verifica
 
-Prima della chiusura del volume, verificare alla data di cut-off: composizione effettiva degli organi, regolamenti organizzativi e del personale vigenti, disciplina contrattuale applicabile e bando di destinazione. Il capitolo evita volutamente di indicare dati contingenti non necessari alla comprensione del modello.
+Usa conflitti e incompatibilità come snodo operativo. Domandati quale documento manca, chi può richiederlo e quale conseguenza sarebbe prematura prima di acquisirlo. Per personale, controlla se la regola descritta è stabile o dipende da data, bando, elenco o atto applicativo. Chiudi su controlli con una frase condizionata ai fatti realmente accertati. Questa prova di trasferimento serve anche al proofreading concettuale: se una stessa formula produce identica risposta in tre situazioni diverse, probabilmente il testo è troppo generico e va ricondotto al perimetro concreto.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito indipendenza senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra governance e accountability poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a conflitti e incompatibilità giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di personale e quale conseguenza produrrebbe su controlli. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama indipendenza?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** governance e accountability possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato conflitti e incompatibilità nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di personale?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su controlli?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama indipendenza e chiede un intervento immediato su controlli. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere governance da accountability e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta conflitti e incompatibilità, si collega personale al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

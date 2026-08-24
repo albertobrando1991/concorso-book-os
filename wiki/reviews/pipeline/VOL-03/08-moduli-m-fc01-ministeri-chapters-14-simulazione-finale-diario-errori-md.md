@@ -1,0 +1,3 @@
+# Piano operativo — Simulazione finale e diario degli errori
+
+La scheda è priva del contenuto promesso. Si conservano obiettivo, originalità della simulazione e output. Cinque nuclei: N-FC01-14-01 progettazione e condizioni; 02 batteria quiz; 03 risposta sintetica e caso; 04 orale e situazionale; 05 correzione, diario e recupero. Budget minimo 3.400 parole, otto quiz commentati, due casi, prova orale, rubrica e blocco `▣ Verifica`. Fonti: dossier M-FC01 e documenti sulle prove; nessuna riproduzione di banche dati. Audit: regole della procedura, tempi, punteggi e materiali ammessi, da dichiarare quando noti. Evitare duplicazione della teoria dei capitoli 1-13: la simulazione deve testarla e spiegare la correzione.

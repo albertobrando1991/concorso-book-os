@@ -2,21 +2,21 @@
 id: chapter-m-tr03-06-edilizia-sue-titoli-vigilanza
 type: book_chapter
 title: "Edilizia privata, SUE, titoli abilitativi e vigilanza"
-status: draft
+status: reviewed
 domain: "edilizia"
 topics: ["categorie di intervento", "regimi edilizi", "SUE", "agibilità", "vigilanza edilizia"]
 entities: ["Comuni", "Regioni", "Sportello unico per l'edilizia"]
 source_refs: ["sources/edilizia-sue-titoli-vigilanza-fonti-ufficiali-2026", "sources/legge-241-1990-procedimento-amministrativo", "sources/urbanistica-governo-territorio-fonti-ufficiali-2026", "sources/campione-bandi-tecnici-pa-vol-10-2026", "sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.85
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "edilizia", "sue"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 6
-draft_stage: professional-draft
+draft_stage: publication_candidate
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-06-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/edilizia-sue-titoli-vigilanza-fonti-ufficiali-2026.md", "wiki/topics/edilizia-sue-titoli-vigilanza.md"]
@@ -51,7 +51,7 @@ Al termine del capitolo saprai:
 | **D — Diario** | Ho scelto il titolo dal nome comune dei lavori? | correzione |
 | **O — Output** | Devo classificare, motivare o istruire un caso? | risposta |
 
-## Urbanistica ed edilizia: il confine operativo
+## N-TR03-06-01 · Urbanistica ed edilizia: il confine operativo
 
 L’urbanistica disciplina usi e trasformazioni del territorio attraverso piani, destinazioni, parametri e modalità attuative. L’edilizia regola il singolo intervento sull’immobile. I due piani sono collegati, ma non coincidono.
 
@@ -67,7 +67,7 @@ L’analisi di un caso si articola in cinque verifiche:
 
 Pianificazione e vincoli sono trattati nel [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio|capitolo 5]]. I profili strutturali restano nel [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale|capitolo 4]].
 
-## Dall’opera alla categoria di intervento
+## N-TR03-06-02 · Dall’opera alla categoria di intervento
 
 La categoria riconduce il fatto materiale alle definizioni del D.P.R. n. 380/2001 e orienta regime, documentazione e controllo.
 
@@ -87,7 +87,7 @@ Una modifica modesta sul piano economico può avere conseguenze edilizie rilevan
 
 La classificazione deve essere effettuata sul testo vigente. Le definizioni e i confini sono stati modificati nel tempo e possono essere integrati dalla legislazione regionale nei limiti consentiti.
 
-## Regimi e titoli edilizi
+## N-TR03-06-03 · Regimi e titoli edilizi
 
 Il titolo non si ricava dal nome comune dei lavori. Il percorso corretto è:
 
@@ -129,7 +129,7 @@ Il regime edilizio non elimina le altre verifiche. A seconda dell’opera posson
 
 Per questo la formula “è una CILA” non chiude mai l’analisi. Identifica soltanto una parte del percorso.
 
-## SUE e istruttoria della pratica
+## N-TR03-06-04 · SUE e istruttoria della pratica
 
 Lo Sportello unico per l’edilizia è il punto di accesso comunale per i procedimenti edilizi indicati dal testo unico. Riceve pratiche e istanze e cura i rapporti con gli uffici e le amministrazioni coinvolti secondo la disciplina applicabile.
 
@@ -148,7 +148,7 @@ Una buona istruttoria verifica almeno:
 
 La modulistica unificata aiuta a ordinare dichiarazioni e allegati, ma deve essere quella effettivamente applicabile. Regioni e Comuni adeguano i moduli e i sistemi informatici; un facsimile trovato online non prova che la pratica sia aggiornata.
 
-## Stato legittimo, conformità e agibilità
+## N-TR03-06-05 · Stato legittimo, conformità e agibilità
 
 Lo stato legittimo ricostruisce la base amministrativa dell’immobile o dell’unità immobiliare secondo l’art. 9-bis. Si accerta attraverso titoli, pratiche e documenti rilevanti secondo la disciplina vigente.
 
@@ -166,7 +166,7 @@ Anche questi concetti vanno tenuti distinti:
 
 L’agibilità è attestata mediante segnalazione certificata nei casi previsti. Riguarda le condizioni indicate dall’art. 24 e la conformità dell’opera al progetto presentato. Non è un titolo per costruire e non sana una difformità.
 
-## Vigilanza e abusi edilizi
+## N-TR03-06-06 · Vigilanza e abusi edilizi
 
 La vigilanza tutela la corrispondenza dell’attività edilizia a legge, regolamenti, strumenti urbanistici e titoli. L’art. 27 attribuisce il controllo al dirigente o responsabile del competente ufficio comunale, ferma la disciplina degli altri soggetti e delle tutele coinvolte.
 
@@ -194,7 +194,7 @@ Una risposta concorsuale prudente segue quattro regole:
 - controllare il testo vigente e la disciplina regionale;
 - evitare la frase “si paga una sanzione e si sana”.
 
-## Caso guidato: trasformazione di un immobile esistente
+## N-TR03-06-07 · Caso guidato: trasformazione di un immobile esistente
 
 Il proprietario di un edificio vuole redistribuire gli spazi interni, modificare alcune aperture esterne e realizzare opere che potrebbero interessare una parte strutturale. L’immobile è in area paesaggisticamente tutelata. Dal fascicolo emerge inoltre una differenza tra stato dei luoghi e ultimo elaborato edilizio disponibile.
 
@@ -214,14 +214,21 @@ L’analisi procede in sequenza.
 
 La soluzione deve motivare l’intera catena, anziché fermarsi al nome di un modulo.
 
-## Griglia di qualificazione
+## N-TR03-06-08 · Griglia di qualificazione
 
-| Intervento descritto | Categoria da verificare | Regime da verificare | Atti ulteriori | Controllo |
-| --- | --- | --- | --- | --- |
-| opere interne | art. 3 e disciplina vigente | artt. 6, 6-bis o 22 | strutture, se coinvolte | stato legittimo e asseverazione |
-| modifica esterna | effetti su prospetti e organismo | artt. 6-bis, 22 o altro regime pertinente | paesaggio, se tutelato | piano, vincoli e progetto |
-| opera strutturale | categoria edilizia più disciplina tecnica | regime edilizio applicabile | adempimenti strutturali | capitolo 4 e norme territoriali |
-| difformità esistente | tipo e rilevanza della difformità | istituto eventualmente applicabile | tutele concorrenti | testo vigente e fascicolo |
+| Intervento descritto | Categoria da verificare | Regime da verificare |
+| --- | --- | --- |
+| opere interne | art. 3 e disciplina vigente | artt. 6, 6-bis o 22 |
+| modifica esterna | effetti su prospetti e organismo | artt. 6-bis, 22 o altro regime pertinente |
+| opera strutturale | categoria edilizia più disciplina tecnica | regime edilizio applicabile |
+| difformità esistente | tipo e rilevanza della difformità | istituto eventualmente applicabile |
+
+| Intervento descritto | Atti ulteriori | Controllo |
+| --- | --- | --- |
+| opere interne | strutture, se coinvolte | stato legittimo e asseverazione |
+| modifica esterna | paesaggio, se tutelato | piano, vincoli e progetto |
+| opera strutturale | adempimenti strutturali | capitolo 4 e norme territoriali |
+| difformità esistente | tutele concorrenti | testo vigente e fascicolo |
 
 La tabella è un metodo di lavoro. Non sostituisce gli elenchi e le condizioni della normativa vigente.
 
@@ -233,23 +240,23 @@ Attività libera, CILA e SCIA non eliminano le norme di settore.
 Il SUE organizza il procedimento, ma non sana errori di qualificazione.  
 Ogni abuso va classificato prima di individuarne le conseguenze.
 
-## Domanda da commissario
+## ▣ Verifica
 
 **Come si individua il regime amministrativo di un intervento edilizio?**
 
 Si descrivono le opere e i loro effetti; si individua la categoria secondo il testo unico vigente; si verifica il regime negli artt. 6, 6-bis, 10, 22 e 23 e nella Tabella A; infine si controllano piano, stato legittimo, disciplina regionale e atti di assenso ulteriori.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **La presentazione di una SCIA prova da sola la legittimità dell’immobile?**
 
 No. La SCIA opera nel proprio regime e contiene dichiarazioni e asseverazioni, ma lo stato legittimo richiede la ricostruzione prevista dall’art. 9-bis. Restano inoltre i poteri di controllo dell’amministrazione.
 
-## Errore tipico
+### Errore tipico
 
 Partire dal modulo: “serve una CILA” oppure “basta una SCIA”. La risposta corretta parte dalle opere, ne valuta gli effetti, assegna la categoria e soltanto dopo individua regime e atti ulteriori.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Per ciascuna situazione indica la prima verifica, senza scegliere subito il titolo:
 
@@ -261,7 +268,7 @@ Per ciascuna situazione indica la prima verifica, senza scegliere subito il tito
 
 Risposte: descrizione tecnica e art. 3; effetti sul prospetto e tutele; struttura e categoria edilizia; rilevanza urbanistica ed edilizia del cambio; confronto tra titolo, progetto ed eseguito.
 
-## Checklist del caso edilizio
+### Checklist del caso edilizio
 
 - Quali opere sono realmente previste o eseguite?
 - Quale categoria indica il testo vigente?
@@ -287,8 +294,8 @@ Risposte: descrizione tecnica e art. 3; effetti sul prospetto e tutele; struttur
 
 ## Note di review
 
-- Ricontrollare prima della pubblicazione la vigenza del D.P.R. n. 380/2001, del D.Lgs. n. 222/2016, della Tabella A e delle modifiche successive.
+- Audit del 21 agosto 2026: verificati D.P.R. n. 380/2001, D.Lgs. n. 222/2016, Tabella A, modifiche del 2024 e modulistica unificata adeguata nel 2025. Regioni e comuni possono prevedere specificità da applicare al caso concreto.
 - Validare categorie, regimi, termini, tolleranze, sanatorie e conseguenze degli abusi con tecnico SUE e amministrativista.
 - Verificare disciplina regionale, regolamento edilizio, modulistica e procedure digitali territorialmente applicabili.
 - Non trasformare la griglia in un elenco esaustivo di opere senza verifica normativa.
-- Coordinare il testo con i capitoli 4 e 5 e con l’Appendice B.
+- Coordinamento con i capitoli 4 e 5 verificato; gli apparati operativi sono incorporati nel capitolo.

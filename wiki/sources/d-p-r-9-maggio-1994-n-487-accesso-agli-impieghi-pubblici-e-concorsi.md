@@ -8,22 +8,23 @@ topics: ["anatomia del bando","diritto costituzionale","diritto amministrativo",
 entities: ["Costituzione della Repubblica Italiana"]
 source_refs: []
 book_refs: []
-confidence: 0.9
-updated_at: "2026-05-25T11:26:27.554Z"
+confidence: 0.99
+updated_at: "2026-08-21T00:00:00+02:00"
 created_at: "2026-05-25T11:26:27.554Z"
 review_required: false
 canonical: true
 tags: ["source","decree"]
 source_type: decree
 source_url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-05-09;487!vig=/"
-source_date: ""
+source_date: "testo vigente verificato il 2026-08-21; ultimo aggiornamento dell'atto pubblicato il 2023-06-29"
 authority_level: alta
 ---
 
 # D.P.R. 9 maggio 1994, n. 487 - accesso agli impieghi pubblici e concorsi
 
 ## Sintesi
-# D.P.R. 9 maggio 1994, n. 487 - accesso agli impieghi pubblici e concorsi URL: https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-05-09;487!vig=/ --> --> DECRETO DEL PRESIDENTE DELLA REPUBBLICA 9 maggio 1994, n.
+
+Regolamento quadro sull'accesso agli impieghi pubblici e sullo svolgimento dei concorsi, nel testo riformato dal D.P.R. 16 giugno 2023, n. 82. Il volume lo usa per modalità generali di accesso, requisiti, contenuto del bando, prove e commissioni, senza trasformarlo in una fonte di punteggi o soglie universali.
 
 ## Fonti
 - Raw source collegata: `wiki/raw/decrees/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md`
@@ -42,4 +43,5 @@ authority_level: alta
 - Da determinare durante la manutenzione del libro.
 
 ## Stato revisione
-Fonte processata automaticamente. Verifica umana richiesta solo per claim normativi di dettaglio.
+
+Fonte primaria ricontrollata nello step 15 della pipeline VOL-01. Il testo vigente risulta aggiornato all'atto pubblicato il 29 giugno 2023; i valori operativi dipendenti dal singolo concorso sono correttamente rinviati al bando.

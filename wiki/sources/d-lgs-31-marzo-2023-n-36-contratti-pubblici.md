@@ -8,26 +8,27 @@ topics: ["anatomia del bando","diritto costituzionale","diritto amministrativo",
 entities: ["Costituzione della Repubblica Italiana","ANAC","Codice dei contratti pubblici"]
 source_refs: []
 book_refs: []
-confidence: 0.9
-updated_at: "2026-05-25T10:34:57.583Z"
+confidence: 0.99
+updated_at: "2026-08-21T00:00:00+02:00"
 created_at: "2026-05-25T10:34:57.583Z"
 review_required: false
 canonical: true
 tags: ["source","decree"]
 source_type: decree
-source_url: "https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED/20250521"
-source_date: ""
+source_url: "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=23G00044&atto.dataPubblicazioneGazzetta=2023-03-31&tipoDettaglio=vigente"
+source_date: "testo vigente verificato il 2026-08-21; ultimo aggiornamento dell'atto pubblicato il 2026-03-23"
 authority_level: alta
 ---
 
 # D.Lgs. 31 marzo 2023, n. 36 - contratti pubblici
 
 ## Sintesi
-# D.Lgs. 31 marzo 2023, n. 36 - contratti pubblici URL: https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED/20250521 Richiesta originale: D.Lgs.
+
+Fonte primaria del Codice dei contratti pubblici. Il controllo conclusivo del 21 agosto 2026 ha verificato su Normattiva il testo vigente, il cui ultimo aggiornamento risulta pubblicato il 23 marzo 2026. Il volume usa principi, fasi e ruoli strutturali e non cristallizza soglie economiche o valori mobili.
 
 ## Fonti
 - Raw source collegata: `wiki/raw/decrees/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md`
-- URL: https://www.normattiva.it/eli/stato/DECRETO_LEGISLATIVO/2023/03/31/36/CONSOLIDATED/20250521
+- URL: https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=23G00044&atto.dataPubblicazioneGazzetta=2023-03-31&tipoDettaglio=vigente
 
 ## Topic rilevati
 - [[anatomia-del-bando|anatomia del bando]]
@@ -46,4 +47,5 @@ authority_level: alta
 - Da determinare durante la manutenzione del libro.
 
 ## Stato revisione
-Fonte processata automaticamente. Verifica umana richiesta solo per claim normativi di dettaglio.
+
+Fonte ricontrollata nello step 15 della pipeline VOL-01. I claim presenti nel capitolo sono coerenti con il testo vigente; soglie, importi, procedure speciali e discipline transitorie devono essere verificati sul bando o sul caso concreto e non sono presentati come valori universali.

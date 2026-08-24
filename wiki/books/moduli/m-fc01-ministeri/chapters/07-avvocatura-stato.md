@@ -2,7 +2,7 @@
 id: chapter-m-fc01-07-avvocatura-stato
 type: book_chapter
 title: "Avvocatura dello Stato"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["avvocatura dello stato", "contenzioso pubblico", "organizzazione amministrativa", "flussi documentali"]
 entities: ["Avvocatura dello Stato", "Avvocatura generale dello Stato", "Avvocature distrettuali", "Amministrazioni statali"]
@@ -13,14 +13,14 @@ source_refs: [
 ]
 book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-08-05
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
+tags: ["book-chapter", "module-code-m-fc01", "text-frozen"]
 book_id: m-fc01-ministeri
 outline_section: 7
-draft_stage: editorial-revision
+draft_stage: text_frozen
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -34,7 +34,7 @@ last_compiled_from: [
   "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
   "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
   "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
-  "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-operativo.md",
+  "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
   "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
   "wiki/books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy.md"
 ]
@@ -395,7 +395,7 @@ Leggi una traccia o un bando riferito all'Avvocatura e compila la griglia usando
 - [[books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni]]
 - [[books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale]]
 - [[books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri]]
-- [[books/il-metodo-bando/chapters/diritto-amministrativo-operativo]]
+- [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati]]
 - [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
 - [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy]]
 

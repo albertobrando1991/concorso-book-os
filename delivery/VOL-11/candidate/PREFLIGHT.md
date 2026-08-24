@@ -8,11 +8,11 @@ PASS locale, registrato allo step 22 della pipeline. Il gate automatico `preflig
 
 - 14 capitoli, 90 nuclei nel testo e 90 nell'indice;
 - audit su 37 file: copertura, wikilink, `source_refs` e frontmatter senza errori;
-- 89 tabelle Markdown parseabili; nessuna immagine reader-facing mancante o duplicata;
-- Book Studio: 223 pagine, zero overflow, zero sovrapposizioni, zero asset mancanti;
-- PDF: 223 pagine, 481,92 × 691,92 pt, testo estraibile in ogni pagina, font incorporati, non cifrato;
+- 90 tabelle Markdown parseabili; nessuna immagine reader-facing mancante o duplicata;
+- Book Studio: 225 pagine, zero overflow, zero sovrapposizioni, zero asset mancanti;
+- PDF: 225 pagine, 481,92 × 691,92 pt, testo estraibile in ogni pagina, font incorporati, non cifrato;
 - E21-01 risolto: le 14 aperture mostrano un titolo unico;
-- 58 test pertinenti, typecheck e build produzione superati;
+- 64 file di test e 537 test superati, oltre a typecheck e build di produzione;
 - `git diff --check` privo di errori di whitespace.
 
 ## Limite di canale

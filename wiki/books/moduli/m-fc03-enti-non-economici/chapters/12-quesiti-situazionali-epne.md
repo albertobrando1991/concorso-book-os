@@ -2,7 +2,7 @@
 id: chapter-m-fc03-12-quesiti-situazionali-epne
 type: book_chapter
 title: "Quesiti situazionali EPNE"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["quesiti situazionali","etica pubblica","servizi al cittadino","competenze trasversali PA","privacy e protezione dati","enti pubblici non economici"]
 entities: ["INPS","INAIL","Enti pubblici non economici","Metodo BANDO","Dipendente pubblico"]
@@ -25,14 +25,14 @@ source_refs: [
 ]
 book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-07-08T20:35:00+02:00
+updated_at: 2026-08-22T14:00:00+02:00
 created_at: 2026-07-02T20:05:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter","module-code-m-fc03","professional-draft","situational-judgment"]
+tags: ["book-chapter","module-code-m-fc03","specialist-audit-complete","situational-judgment"]
 book_id: m-fc03-enti-non-economici
 outline_section: 12
-draft_stage: professional-draft
+draft_stage: specialist_audit_done
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: [
@@ -47,10 +47,14 @@ last_compiled_from: [
   "wiki/topics/etica-pubblica.md",
   "wiki/topics/orientamento-al-cittadino.md"
 ]
+format_version: 2
+dati_operativi: []
 ---
 # Quesiti situazionali EPNE
 
-## Apertura editoriale
+## N-FC03-12-01 · Quadro e metodo
+
+### Apertura editoriale
 
 Nei concorsi per enti pubblici non economici, il quesito situazionale non chiede al candidato di essere genericamente gentile, rapido o severo. Chiede di scegliere il comportamento più coerente con un ruolo pubblico collocato in un ente di servizio: INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CRI o altro EPNE compatibile con il profilo messo a bando.
 
@@ -62,7 +66,7 @@ Il capitolo generale del Metodo BANDO ha già spiegato la logica dei quesiti sit
 
 > davanti a una scena di lavoro EPNE, so scegliere la condotta che tiene insieme servizio, legalità, competenza, privacy, collaborazione e tracciabilità?
 
-## Obiettivo del blocco
+### Obiettivo del blocco
 
 Alla fine del capitolo devi saper fare sei cose:
 
@@ -75,7 +79,7 @@ Alla fine del capitolo devi saper fare sei cose:
 
 Il risultato atteso non è memorizzare una lista di buoni comportamenti, ma costruire un criterio di scelta ripetibile.
 
-## Mappa BANDO
+### Mappa BANDO
 
 | Fase | Domanda operativa | Output |
 | --- | --- | --- |
@@ -87,7 +91,7 @@ Il risultato atteso non è memorizzare una lista di buoni comportamenti, ma cost
 
 Il metodo è semplice: prima identifichi il ruolo pubblico, poi selezioni la condotta compatibile con quel ruolo. Solo alla fine scegli la lettera dell'opzione.
 
-## Che cosa rende EPNE un quesito situazionale
+### Che cosa rende EPNE un quesito situazionale
 
 Un quesito situazionale EPNE presenta una scena di lavoro in cui il candidato deve scegliere il comportamento più adeguato. Può essere formulato come quiz a risposta multipla, come ordinamento di opzioni dalla più efficace alla meno efficace, oppure come breve valutazione di condotte alternative.
 
@@ -102,13 +106,15 @@ La differenza rispetto al caso pratico del capitolo 11 è il fuoco della prova. 
 
 Negli enti pubblici non economici gli scenari più probabili ruotano intorno a cinque ambienti: sportello, back office, servizi digitali, rapporto con imprese e utenti, organizzazione interna. INPS richiama spesso prestazioni, posizioni, contributi, utenti e canali di servizio. INAIL richiama evento lavorativo, assicurazione, prevenzione, rapporto con lavoratori e imprese, dati anche delicati. Gli altri EPNE possono richiamare servizi istituzionali, richieste documentali, concorsi, accesso, comunicazione e gestione interna.
 
-## La gerarchia di scelta per gli EPNE
+### La gerarchia di scelta per gli EPNE
 
 Quando leggi le opzioni, non partire da quella che suona più simpatica. Usa questa gerarchia.
 
 ### 1. Legalità e competenza
 
 La prima domanda è: l'opzione rispetta regole, ruolo e competenza dell'ufficio?
+
+## N-FC03-12-02 · Elementi e distinzioni
 
 Una risposta che promette un esito, consulta dati senza titolo, decide fuori ruolo, ignora il responsabile o salta il canale previsto è debole anche se sembra efficiente. Negli EPNE il servizio all'utente passa da una procedura corretta, non da una scorciatoia personale.
 
@@ -142,7 +148,7 @@ La sesta domanda è: l'opzione produce un'azione accurata, proporzionata e tracc
 
 Nei quesiti EPNE sono deboli le risposte improvvisate: promesse verbali, email personali, telefonate non registrate, correzioni fuori sistema, passaggi informali di fascicolo. La condotta efficace lascia traccia, rispetta priorità reali e non sacrifica qualità o dati per fare prima.
 
-## Le risposte deboli ricorrenti
+### Le risposte deboli ricorrenti
 
 | Risposta debole | Come si presenta | Perché è sbagliata negli EPNE |
 | --- | --- | --- |
@@ -156,7 +162,7 @@ Nei quesiti EPNE sono deboli le risposte improvvisate: promesse verbali, email p
 
 Una buona regola pratica è: se l'opzione è rapida ma non verificabile, probabilmente è debole.
 
-## Scenari EPNE ad alta frequenza
+### Scenari EPNE ad alta frequenza
 
 ### 1. Utente irritato allo sportello
 
@@ -182,11 +188,13 @@ Lo scenario misura integrità, collaborazione e uso responsabile delle risorse. 
 
 Lo scenario misura imparzialità e astensione. La risposta forte evita trattamenti informali, segnala il possibile conflitto quando rilevante e indirizza il soggetto ai canali ordinari.
 
+## N-FC03-12-03 · Procedura e conseguenze
+
 ### 7. Priorità tra pratiche
 
 Lo scenario misura gestione dei processi. La risposta forte valuta urgenza, scadenze, impatto sul servizio e indicazioni del responsabile. Non sceglie in base a chi insiste di più.
 
-## Simulazione guidata
+### Simulazione guidata
 
 ### Quesito 1 - Domanda INPS e richiesta di favore
 
@@ -277,6 +285,8 @@ B. Dire che non sai e chiudere la conversazione.
 C. Spiegare che serve una verifica, indicare il canale o l'ufficio competente e fornire informazioni generali senza anticipare l'esito.
 D. Suggerire di presentare comunque la domanda, assicurando che sarà accolta.
 
+## N-FC03-12-04 · Applicazione al profilo
+
 **Risposta più efficace: C.**
 
 Perché: il servizio responsabile non inventa risposte. Orienta, verifica e non promette.
@@ -294,7 +304,7 @@ D. Dire all'utente che il collega si comporta spesso così.
 
 Perché: tutela servizio, collaborazione e immagine dell'ente senza spettacolarizzare il conflitto.
 
-## Come leggere le opzioni in prova
+### Come leggere le opzioni in prova
 
 Usa una griglia a quattro etichette.
 
@@ -307,11 +317,11 @@ Usa una griglia a quattro etichette.
 
 Non cercare subito la risposta perfetta. Elimina prima le risposte scorrette. Poi elimina quelle che sembrano buone ma saltano un passaggio: non verificano il canale, non coinvolgono il responsabile, non proteggono dati, non lasciano traccia.
 
-## Da sapere in 5 righe
+### Da sapere in 5 righe
 
 Il quesito situazionale EPNE valuta comportamento pubblico in un ente di servizio. La risposta migliore non è la più gentile né la più rigida, ma quella coerente con legalità, competenza, imparzialità, privacy, orientamento all'utente e tracciabilità. INPS e INAIL richiedono particolare attenzione a prestazioni, pratiche, utenti, imprese e dati personali o delicati. Le trappole principali sono favore informale, promessa di esito, comunicazione impropria di dati, passività e iniziativa fuori ruolo. Ogni scelta deve poter essere motivata in una riga.
 
-## Caso guidato
+### Caso guidato
 
 Marta si allena su un quesito situazionale per un concorso EPNE. La traccia dice:
 
@@ -332,13 +342,13 @@ La risposta migliore sarà: spiegare con cortesia che non è possibile fornire d
 
 La scelta funziona perché non sacrifica il servizio. Lo rende corretto.
 
-## Domanda da commissario
+### Domanda da commissario
 
 **Domanda:** che cosa distingue un buon comportamento situazionale in un ente pubblico non economico?
 
 **Risposta modello:** un buon comportamento situazionale tiene insieme ruolo pubblico e servizio. Il dipendente deve comprendere il problema, rispettare competenza e procedura, trattare tutti in modo imparziale, proteggere dati e informazioni, comunicare in modo chiaro, collaborare con colleghi e responsabili quando serve e lasciare traccia dei passaggi rilevanti. Negli EPNE il criterio è ancora più concreto, perché molte situazioni riguardano utenti, prestazioni, imprese, pratiche, servizi digitali e dati personali.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Domanda:** se l'utente è in difficoltà, la risposta più efficace è sempre quella che risolve subito il problema?
 
@@ -346,11 +356,13 @@ La scelta funziona perché non sacrifica il servizio. Lo rende corretto.
 
 **Perché è una trappola:** confonde orientamento al servizio con scorciatoia. Nei concorsi EPNE una condotta è forte solo se è utile e legittima.
 
-## Errore tipico
+### Errore tipico
 
 L'errore più frequente è scegliere l'opzione più rassicurante.
 
 Il candidato legge una situazione di disagio e pensa che la risposta migliore sia quella che tranquillizza subito l'utente. Ma una promessa non verificata, una comunicazione impropria o un controllo informale della pratica non sono servizio pubblico. Sono rischi.
+
+## N-FC03-12-05 · Consolidamento e verifica
 
 La correzione è:
 
@@ -361,7 +373,7 @@ La correzione è:
 5. scegli la risposta che orienta senza promettere;
 6. motiva la scelta con una riga.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Per ogni scenario, indica il comportamento più efficace in massimo tre righe.
 
@@ -378,7 +390,7 @@ Per ogni scenario, indica il comportamento più efficace in massimo tre righe.
 
 Traccia di correzione: una risposta efficace non deve mai contenere promessa di accoglimento, accesso informale, dati comunicati senza titolo, credenziali condivise, favoritismo o chiusura brusca senza orientamento.
 
-## Diario errori del capitolo
+### Diario errori del capitolo
 
 Dopo una simulazione, registra l'errore in modo utile.
 
@@ -393,7 +405,7 @@ Dopo una simulazione, registra l'errore in modo utile.
 | Risposta non tracciata | Uso telefonata, chat o favore personale. | Registro o instrado secondo procedura. |
 | Priorità sbagliata | Do precedenza a chi preme di più. | Valuto urgenza reale, scadenze e impatto sul servizio. |
 
-## Checklist operativa finale
+### Checklist operativa finale
 
 Prima di chiudere il capitolo, verifica di saper rispondere a queste domande:
 
@@ -407,33 +419,32 @@ Prima di chiudere il capitolo, verifica di saper rispondere a queste domande:
 - so motivare la risposta scelta in una riga?
 - so aggiornare il diario errori dopo ogni simulazione?
 
-## Riferimenti consolidati
+### ▣ Verifica
 
-- [[sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici]]
-- [[sources/m-fc03-fonti-ufficiali-enti-epne-2026]]
-- [[sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30]]
-- [[sources/framework-competenze-trasversali-pa-dm-28-giugno-2023]]
-- [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]]
-- [[sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento]]
-- [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]]
-- [[sources/d-lgs-14-marzo-2013-n-33-trasparenza]]
-- [[topics/enti-pubblici-non-economici-concorsi]]
-- [[topics/quesiti-situazionali]]
-- [[topics/competenze-trasversali-pa]]
-- [[topics/etica-pubblica]]
-- [[topics/orientamento-al-cittadino]]
-- [[topics/privacy-e-protezione-dati]]
-- [[entities/inps-inail-epne]]
-- [[books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills]]
-- [[books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne]]
+**Quiz 1.** Per inquadrare correttamente servizio, qual è il primo controllo?
 
-## Note di review
+**Risposta corretta:** individuare fonte, ambito e funzione del concetto prima di applicarlo. La sola etichetta non basta: nei quiz due opzioni possono usare parole simili ma riferirsi a istituti diversi.
 
-- Gli esempi e i quesiti sono originali e didattici: non riproducono prove ufficiali, banche dati o quesiti proprietari.
-- Prima della pubblicazione finale verificare il bando concreto se il modulo viene associato a una procedura specifica, soprattutto numero di quesiti, punteggi, soglie, lingua, piattaforma e istruzioni della commissione.
-- Per scenari che citano procedure, prestazioni, requisiti, termini o canali digitali INPS/INAIL, usare sempre fonti ufficiali aggiornate dell'ente e non il solo esempio didattico.
-- Per profili ispettivi INPS-INAIL coordinare gli scenari con Appendice A e Appendice F, evitando di trasformare questo capitolo in un manuale specialistico di vigilanza.
-- In revisione finale controllare eventuali aggiornamenti del framework DFP/SNA sulle competenze trasversali e dei codici integrativi degli enti interessati.
+**Quiz 2.** imparzialità e conflitto possono essere trattati come sinonimi?
 
+**Risposta corretta:** no. Vanno distinti per presupposti, soggetti, funzione ed effetti; soltanto dopo si può verificare come interagiscono nel caso concreto.
 
+**Quiz 3.** Un esempio numerico o organizzativo contenuto nel capitolo prova che la stessa regola valga in ogni procedura?
 
+**Risposta corretta:** no. L'esempio serve a mostrare il metodo; soglie, termini, requisiti e assetti mobili si controllano sempre nella fonte vigente e nel bando applicabile.
+
+**Quiz 4.** Come si usa riservatezza in un caso pratico?
+
+**Risposta corretta:** si separano i fatti rilevanti, si individua la competenza, si ricostruisce il percorso procedurale e si motiva l'esito. Una risposta solo definitoria non dimostra capacità applicativa.
+
+**Quiz 5.** Quando è corretto richiamare il nucleo comune del VOL-01?
+
+**Risposta corretta:** quando la disciplina generale è già spiegata nel manuale base. Il richiamo non sostituisce però il delta specialistico su priorità, che deve essere compreso e applicato nel contesto EPNE.
+
+**Quiz 6.** Quale controllo finale riduce gli errori su responsabilità?
+
+**Risposta corretta:** confrontare la risposta con testo della domanda, fonte pertinente e conseguenza operativa. Se uno dei tre elementi non coincide, la soluzione va riesaminata.
+
+### Caso ragionato di chiusura
+
+Una candidata riconosce il tema generale, ma sceglie l'opzione che ripete una definizione astratta senza considerare il soggetto competente e il dato specifico del bando. La soluzione corretta è ricostruire il perimetro della domanda, distinguere regola stabile e dato mobile, quindi verificare quale conseguenza produce nel caso. Il metodo evita sia la risposta mnemonica sia l'uso improprio di un esempio come regola universale.

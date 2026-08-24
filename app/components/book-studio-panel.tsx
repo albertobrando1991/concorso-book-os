@@ -12,7 +12,7 @@ import {
   WandSparkles
 } from "lucide-react"
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
-import { canBackfillBlock, moveTrailingHeadingToNextPage, renderedPageGuard } from "@/src/book/pagination"
+import { backfillCandidateCount, moveTrailingHeadingToNextPage, paginationIsEquivalent, renderedPageGuard } from "@/src/book/pagination"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
 import { normalizePageBoundaries } from "@/src/server/book/book-studio-page-boundaries"
@@ -219,7 +219,7 @@ export function BookStudioPanel({
     const animationFrame = window.requestAnimationFrame(() => {
       const refined = normalizePageBoundaries(refineRenderedPageOverflows(measuredPages, bookPagesRef.current))
 
-      if (refined !== measuredPages) {
+      if (!paginationIsEquivalent(refined, measuredPages)) {
         setMeasuredPages(refined)
       }
     })
@@ -1408,19 +1408,17 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
     const availableHeight = currentFooter.getBoundingClientRect().top
       - renderedPageGuard(currentPage.chapter)
       - lastCurrentElement.getBoundingClientRect().bottom
-    const candidate = followingPage.blocks[0]
-    const followingBlockHeight = candidate.type === "heading"
-      ? outerHeight(followingElements[1])
-      : 0
-
-    if (!canBackfillBlock({
+    const moveCount = backfillCandidateCount({
       availableHeight,
-      candidateHeight: outerHeight(firstFollowingElement),
-      candidateType: candidate.type,
-      followingBlockHeight
-    })) continue
+      candidates: followingPage.blocks.map((candidate, candidateIndex) => ({
+        type: candidate.type,
+        continued: candidate.continued,
+        height: outerHeight(followingElements[candidateIndex])
+      }))
+    })
 
-    const moveCount = candidate.type === "heading" ? 2 : 1
+    if (moveCount === 0) continue
+
     currentPage.blocks.push(...followingPage.blocks.splice(0, moveCount))
 
     if (followingPage.blocks.length === 0) nextPages.splice(index + 1, 1)

@@ -2,21 +2,21 @@
 id: chapter-m-fc05-14-anac-prevenzione-vigilanza-whistleblowing
 type: book_chapter
 title: "ANAC: prevenzione, vigilanza e whistleblowing"
-status: professional_draft
+status: final
 domain: anticorruzione e trasparenza
 topics: ["anac", "prevenzione della corruzione", "trasparenza", "whistleblowing", "vigilanza"]
 entities: ["ANAC", "RPCT", "Persona segnalante"]
-source_refs: ["sources/anac-prevenzione-vigilanza-whistleblowing-2026-07-24.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/anac-bando-19-funzionari-amministrativi-2026.md"]
+source_refs: ["sources/anac-prevenzione-vigilanza-whistleblowing-2026-07-24.md", "sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md", "sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md", "sources/anac-bando-19-funzionari-amministrativi-2026.md", "sources/vol-05-aggiornamento-specialistico-2026-08-22.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.91
-updated_at: 2026-07-29
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "anac", "whistleblowing"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 14
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/03-flusso-anac-prevenzione-whistleblowing.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/04-distinzioni-anac-prevenzione-whistleblowing.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/05-sintesi-anac-prevenzione-whistleblowing.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # ANAC: prevenzione, vigilanza e whistleblowing
 
-## Scheda di lavoro
+## N-MF05-14-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Leggere ANAC come autorità di prevenzione e vigilanza, collegando PNA, trasparenza, contratti e whistleblowing senza duplicare la teoria generale già studiata nel VOL-01.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Mappa processo–rischio–misura, schema di vigilanza ANAC, caso whistleblowing e risposta orale.
 
 > **Regola di metodo.** Non chiamare “anticorruzione” ogni irregolarità. Individua processo, rischio, soggetti, misura preventiva, prova e canale di tutela. La qualificazione corretta viene prima dell'eventuale vigilanza o sanzione.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -60,7 +60,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 14.1 — Mappa BANDO: prevenzione e whistleblowing.](../assets/chapter-14/01-mappa-bando-anac-prevenzione-whistleblowing.png)
 
-*Figura 14.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 14.1 — La tavola orienta la lettura di prevenzione della corruzione e separa il perimetro dalle eccezioni.*
 
 ### ANAC e la prevenzione: dall'adempimento al governo del rischio
 
@@ -80,11 +80,13 @@ Il metodo è più importante dell'elenco. Un ente non previene il rischio copian
 
 ![Figura 14.2 — Architettura: ANAC: prevenzione e whistleblowing.](../assets/chapter-14/02-architettura-anac-prevenzione-whistleblowing.png)
 
-*Figura 14.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 14.2 — La tavola mette a confronto PNA e programmazione e RPCT senza sovrapporli.*
 
 ### PNA, programmazione e RPCT: una catena di responsabilità
 
 Il Piano Nazionale Anticorruzione costituisce il riferimento per la strategia nazionale di prevenzione e per gli indirizzi rivolti alle amministrazioni. Il PNA 2025, approvato da ANAC con delibera n. 19 del 28 gennaio 2026, va letto come strumento di orientamento: aiuta a costruire misure proporzionate ai processi e ai rischi, ma non autorizza la trasposizione meccanica di modelli uguali per enti diversi. La pianificazione interna deve essere coerente con dimensione, funzioni, risorse, contesto e disciplina applicabile, anche nel raccordo con gli strumenti di programmazione dell'ente.
+
+## N-MF05-14-02 · Istituti e distinzioni
 
 Il **Responsabile della prevenzione della corruzione e della trasparenza (RPCT)** ha una funzione di impulso, coordinamento e presidio del sistema interno secondo le attribuzioni normative e organizzative. Non può però sostituire organi di indirizzo, dirigenti, responsabili di procedimento, uffici di controllo o gestori dei canali di segnalazione. Se tutti gli obblighi sono scaricati sull'RPCT, l'ente costruisce un sistema apparente: il responsabile raccoglie dati e redige documenti, ma chi gestisce i processi non modifica comportamenti, controlli o flussi informativi.
 
@@ -100,7 +102,7 @@ La programmazione preventiva è efficace quando collega un rischio a un comporta
 
 ![Figura 14.3 — Sequenza operativa: ANAC: prevenzione e whistleblowing.](../assets/chapter-14/03-flusso-anac-prevenzione-whistleblowing.png)
 
-*Figura 14.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 14.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Vigilanza ANAC, trasparenza e contratti: distinguere gli oggetti
 
@@ -114,13 +116,15 @@ La vigilanza non è sinonimo di colpevolezza. Una segnalazione, un'anomalia nei 
 
 ![Figura 14.4 — Distinzioni essenziali: ANAC: prevenzione e whistleblowing.](../assets/chapter-14/04-distinzioni-anac-prevenzione-whistleblowing.png)
 
-*Figura 14.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 14.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Whistleblowing: emersione delle violazioni e protezione della persona segnalante
 
 Il whistleblowing, disciplinato dal d.lgs. n. 24/2023, protegge le persone che segnalano informazioni sulle violazioni acquisite nel contesto lavorativo, quando ricorrono le condizioni previste. La sua funzione è favorire l'emersione tempestiva di condotte o omissioni rilevanti nell'interesse pubblico o nell'integrità dell'amministrazione o dell'ente. Perciò non coincide con una contestazione personale sul proprio rapporto di lavoro, con una richiesta di riesame di un provvedimento, con una doglianza generica o con la diffusione indiscriminata di informazioni.
 
 Il sistema prevede canali e tutele differenziati. Il **canale interno** è un presidio centrale nel contesto di lavoro; l'ente deve assicurare modalità idonee, riservatezza e gestione corretta secondo la disciplina applicabile. Il **canale esterno** presso ANAC non è un'alternativa liberamente scegliibile per convenienza: è utilizzabile nelle condizioni stabilite dalla legge, tra le quali rientrano, in sintesi, assenza o non conformità del canale interno obbligatorio, mancato seguito alla segnalazione interna, rischio ragionevole di inefficacia o ritorsione, oppure pericolo imminente o palese per il pubblico interesse. Divulgazione pubblica e denuncia alle autorità competenti costituiscono ulteriori percorsi, con presupposti propri.
+
+## N-MF05-14-03 · Poteri, procedura e conseguenze
 
 | Elemento | Domanda di qualificazione | Errore frequente |
 | --- | --- | --- |
@@ -150,9 +154,18 @@ La correttezza del procedimento protegge tutte le persone coinvolte: chi segnala
 
 ![Figura 14.5 — Sintesi operativa: ANAC: prevenzione e whistleblowing.](../assets/chapter-14/05-sintesi-anac-prevenzione-whistleblowing.png)
 
-*Figura 14.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 14.5 — La tavola chiude il percorso collegando canali whistleblowing a prova della ritorsione.*
 
+### La prova della ritorsione
+
+La protezione non richiede al segnalante di dimostrare direttamente il movente interiore di chi ha adottato la misura. Nei procedimenti giudiziari o amministrativi e nelle controversie stragiudiziali, quando il segnalante prova di avere effettuato una segnalazione, denuncia o divulgazione conforme e di avere subito una condotta ritenuta ritorsiva, si presume il collegamento: chi ha adottato la misura deve dimostrare che essa è fondata su ragioni estranee. La presunzione opera anche nella valutazione ANAC, nel contraddittorio con il presunto responsabile.
+
+La regola non autorizza automatismi. Occorre verificare che ricorrano ambito soggettivo e oggettivo del d.lgs. n. 24/2023, condizioni della tutela e sequenza temporale; meri sospetti o voci non bastano. Inoltre l'inversione dell'onere della prova non si estende automaticamente ai soggetti collegati indicati dall'art. 3, comma 5 — come facilitatori, taluni colleghi ed enti — se sono essi a lamentare la ritorsione. La protezione può riguardarli, ma il regime probatorio resta distinto.
+
+Nel caso di un trasferimento successivo alla segnalazione, il funzionario non conclude subito che vi sia ritorsione. Registra segnalazione e misura, conserva date e atti, verifica le condizioni di tutela e chiede al soggetto che ha disposto il trasferimento le ragioni organizzative e la documentazione contemporanea alla decisione. ANAC accerta la ritorsione nei limiti delle proprie attribuzioni; la dichiarazione di nullità dell'atto spetta all'autorità giudiziaria. Questa distinzione fra presunzione, prova contraria, competenza amministrativa ed effetto civilistico rende la risposta precisa e impedisce di promettere rimedi automatici.
 ### Mappa BANDO
+
+## N-MF05-14-04 · Applicazione alla prova
 
 | Voce del bando | Nucleo da padroneggiare | Output da allenare |
 | --- | --- | --- |
@@ -207,10 +220,46 @@ Completa la griglia per una possibile criticità nel ciclo di affidamento di un 
 
 L'esercizio è corretto se non qualifica come corruzione ogni anomalia e se indica, per ciascun possibile seguito, la fonte e il procedimento da verificare.
 
-### Riferimenti consolidati
+### Prova di trasferimento
 
-[[sources/anac-prevenzione-vigilanza-whistleblowing-2026-07-24]], [[sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026]], [[sources/legge-6-novembre-2012-n-190-anticorruzione]], [[sources/d-lgs-10-marzo-2023-n-24-whistleblowing]], [[entities/anac]], [[topics/anac-prevenzione-vigilanza-whistleblowing]].
+## N-MF05-14-05 · Consolidamento e verifica
 
-### Note di review editoriale
+Immagina che la stessa questione su prevenzione della corruzione compaia prima in un quiz, poi all'orale e infine in un caso. Nel quiz cerca la distinzione decisiva fra PNA e programmazione e RPCT; all'orale enuncia criterio, limite ed esempio; nel caso individua fatti, fonte, competenza e passo istruttorio. Il contenuto di base non cambia, ma cambia la forma della prestazione: una risposta lunga non è automaticamente più completa e una risposta breve non può omettere il presupposto.
 
-Prima della chiusura del volume, verificare PNA vigente, disciplina del PIAO e del RPCT per la tipologia di ente, atti ANAC su trasparenza e contratti, linee guida whistleblowing aggiornate, regolamento ANAC per le segnalazioni esterne, termini, sanzioni, canali e misure di sostegno. Per ogni caso controllare soggetto, contesto lavorativo, fonte, competenza, riservatezza, prova, condizione per il canale esterno e rapporto con eventuali procedimenti disciplinari, penali, contabili o civili.
+Usa vigilanza e trasparenza come snodo operativo. Domandati quale documento manca, chi può richiederlo e quale conseguenza sarebbe prematura prima di acquisirlo. Per canali whistleblowing, controlla se la regola descritta è stabile o dipende da data, bando, elenco o atto applicativo. Chiudi su prova della ritorsione con una frase condizionata ai fatti realmente accertati. Questa prova di trasferimento serve anche al proofreading concettuale: se una stessa formula produce identica risposta in tre situazioni diverse, probabilmente il testo è troppo generico e va ricondotto al perimetro concreto.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito prevenzione della corruzione senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra PNA e programmazione e RPCT poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a vigilanza e trasparenza giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di canali whistleblowing e quale conseguenza produrrebbe su prova della ritorsione. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama prevenzione della corruzione?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** PNA e programmazione e RPCT possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato vigilanza e trasparenza nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di canali whistleblowing?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su prova della ritorsione?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama prevenzione della corruzione e chiede un intervento immediato su prova della ritorsione. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere PNA e programmazione da RPCT e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta vigilanza e trasparenza, si collega canali whistleblowing al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

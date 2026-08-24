@@ -2,21 +2,21 @@
 id: chapter-m-tr03-04-ntc-sismica-geotecnica-sicurezza-strutturale
 type: book_chapter
 title: "NTC, sismica, geotecnica e sicurezza strutturale"
-status: draft
+status: reviewed
 domain: "sicurezza strutturale"
 topics: ["norme tecniche per le costruzioni", "progettazione sismica", "geotecnica", "fondazioni", "collaudo statico"]
 entities: ["Ministero delle infrastrutture e dei trasporti", "Consiglio Superiore dei Lavori Pubblici", "Dipartimento della Protezione Civile"]
 source_refs: ["sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali", "sources/scienza-tecnica-costruzioni-fonti-universitarie", "sources/campione-bandi-tecnici-pa-vol-10-2026", "sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.86
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "ntc", "sismica", "geotecnica"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 4
-draft_stage: professional-draft
+draft_stage: publication_candidate
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-04-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali.md", "wiki/topics/ntc-sismica-geotecnica-sicurezza-strutturale.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md"]
@@ -28,7 +28,7 @@ Una verifica strutturale parte dall’opera, non dalla formula: funzione, uso, c
 
 In concorso, sigle e tabelle servono poco se non si sa ricostruire la catena logica: quale costruzione sto considerando? Quali prestazioni deve garantire? Quali azioni riceve, come la rappresento e quali stati limite devo controllare?
 
-Il riferimento consolidato di questo capitolo è costituito dalle NTC emanate con decreto ministeriale 17 gennaio 2018, dalle istruzioni della Circolare 21 gennaio 2019, n. 7 C.S.LL.PP., e dalle modifiche approvate nel 2023. La disciplina legislativa degli adempimenti strutturali e sismici si collega anche al D.P.R. 6 giugno 2001, n. 380. Prima della pubblicazione e dell’uso professionale va sempre ricontrollato il testo vigente applicabile.
+Il riferimento consolidato di questo capitolo è costituito dalle NTC emanate con decreto ministeriale 17 gennaio 2018, dalle istruzioni della Circolare del Consiglio Superiore dei Lavori Pubblici 21 gennaio 2019, n. 7, e dalle modifiche approvate nel 2023. La disciplina legislativa degli adempimenti strutturali e sismici si collega anche al D.P.R. 6 giugno 2001, n. 380. Il quadro è stato ricontrollato sulle fonti ufficiali il 21 agosto 2026; nell'uso professionale prevalgono sempre testo vigente e disposizioni territoriali applicabili.
 
 ## Obiettivo
 
@@ -56,7 +56,7 @@ L’output operativo è la sequenza `opera–uso–sito–azioni–modello–sta
 
 Un quiz può isolare una definizione. L’orale richiede collegamenti. Un caso scritto può partire da un edificio pubblico e chiedere quali informazioni acquisire prima di impostare le verifiche. Lo studio deve quindi unire lessico, relazioni e decisioni.
 
-## Dalla regola tecnica al percorso di verifica
+## N-TR03-04-01 · Dalla regola tecnica al percorso di verifica
 
 Le NTC raccolgono criteri generali di sicurezza, azioni, regole di progettazione, caratteristiche dei materiali, esecuzione, controlli e collaudo per opere nuove ed esistenti. La Circolare applicativa aiuta a leggere e applicare il quadro tecnico; non va confusa con la fonte prescrittiva. Le modifiche del 2023 devono essere considerate insieme al testo del 2018.
 
@@ -75,7 +75,7 @@ Il percorso generale comprende:
 
 Ogni passaggio condiziona il successivo. Se il sito è descritto male, il modello geotecnico è debole; se il modello è incoerente, la precisione del calcolo non salva il risultato.
 
-## Vita nominale, classe d’uso e periodo di riferimento
+## N-TR03-04-02 · Vita nominale, classe d’uso e periodo di riferimento
 
 La vita nominale esprime la durata per la quale la costruzione, sottoposta alla manutenzione prevista, deve poter essere utilizzata per lo scopo stabilito. Non è una previsione della data di demolizione e non autorizza a trascurare manutenzione, controlli o degrado.
 
@@ -91,7 +91,7 @@ Il periodo di riferimento per l’azione sismica collega vita nominale e classe 
 
 Nella risposta da concorso si parte dalla funzione dell’opera. Si motiva quindi la classe e se ne ricavano le conseguenze sul percorso di verifica.
 
-## Stati limite, azioni e verifiche
+## N-TR03-04-03 · Stati limite, azioni e verifiche
 
 Uno stato limite è una condizione oltre la quale la costruzione non soddisfa più un requisito previsto. Gli stati limite ultimi riguardano la perdita di requisiti essenziali di sicurezza, come equilibrio o capacità resistente. Gli stati limite di esercizio riguardano prestazioni durante l’uso, tra cui funzionalità, deformazioni, vibrazioni, fessurazione o altri requisiti pertinenti.
 
@@ -111,7 +111,7 @@ La verifica confronta domanda e capacità. La domanda deriva da azioni, combinaz
 
 Formule e coefficienti vanno sempre controllati sul testo ufficiale applicabile. In prova, una struttura logica corretta vale più di un coefficiente ricordato senza contesto.
 
-## Principi di progettazione sismica
+## N-TR03-04-04 · Principi di progettazione sismica
 
 Il rischio sismico deriva dalla combinazione di pericolosità, vulnerabilità ed esposizione. La pericolosità descrive la probabilità e l’intensità attesa del fenomeno in un sito; la vulnerabilità esprime la propensione della costruzione a subire danni; l’esposizione riguarda persone, attività e beni coinvolti.
 
@@ -133,7 +133,7 @@ Regolarità in pianta e in elevazione aiuta a rendere la risposta più leggibile
 
 I dettagli costruttivi rendono concreti questi principi. Se il modello presuppone un comportamento duttile, materiali, collegamenti, armature, esecuzione e controlli devono consentirlo davvero.
 
-## Geologia, geotecnica e modello del sottosuolo
+## N-TR03-04-05 · Geologia, geotecnica e modello del sottosuolo
 
 La relazione geologica ricostruisce assetto, origine, successione e condizioni del sito. La caratterizzazione geotecnica riguarda il comportamento meccanico dei terreni e delle rocce rilevante per l’opera. Il modello geotecnico seleziona unità, parametri e condizioni da usare nelle verifiche.
 
@@ -151,7 +151,7 @@ Il modello geotecnico descrive la risposta del terreno e le condizioni al contor
 
 Una fondazione molto rigida su un terreno deformabile non irrigidisce l’intero sistema. E la verifica della sola struttura fuori terra non dimostra l’adeguatezza dell’insieme.
 
-## Fondazioni e interazione terreno–struttura
+## N-TR03-04-06 · Fondazioni e interazione terreno–struttura
 
 Le fondazioni trasferiscono al terreno le azioni della costruzione. La scelta tra soluzioni superficiali e profonde dipende da geometria, carichi, stratigrafia, proprietà geotecniche, falda, cedimenti ammissibili, interferenze e modalità esecutive.
 
@@ -169,7 +169,7 @@ Le verifiche devono considerare, secondo il problema:
 
 La domanda giusta non è “quale fondazione è più resistente?”, ma “quale sistema terreno–fondazione–struttura soddisfa le prestazioni richieste nelle condizioni considerate?”.
 
-## Costruzioni esistenti, controlli e collaudo statico
+## N-TR03-04-07 · Costruzioni esistenti, controlli e collaudo statico
 
 Per una costruzione esistente il progetto non parte da un foglio bianco. Occorre ricostruire geometria, materiali, dettagli, trasformazioni, danni, degrado, uso e comportamento osservato. Documenti e rilievi possono essere incompleti; la conoscenza raggiunta condiziona modello e affidabilità della valutazione.
 
@@ -179,7 +179,7 @@ I controlli sui materiali e sull’esecuzione verificano che l’opera realizzat
 
 Il collaudo statico riguarda la sicurezza strutturale e la rispondenza dell’opera alle prescrizioni pertinenti. Non coincide con il collaudo tecnico-amministrativo, che riguarda la regolare esecuzione del contratto e sarà approfondito nel capitolo 9. Ruoli, casi, deposito e procedure devono essere verificati sul D.P.R. n. 380/2001, sulle NTC e sulle disposizioni territorialmente applicabili.
 
-## Caso guidato: edificio pubblico su un sito complesso
+## N-TR03-04-08 · Caso guidato: edificio pubblico su un sito complesso
 
 Un ente deve programmare un nuovo edificio destinato a una funzione pubblica rilevante. Il sito presenta una stratigrafia non uniforme e sono disponibili soltanto dati preliminari.
 
@@ -203,25 +203,25 @@ Zona sismica comunale e azione sismica di progetto non coincidono.
 Il terreno entra nel modello attraverso conoscenza, indagini e interpretazione.  
 Controlli e collaudo verificano la coerenza tra progetto, materiali ed esecuzione.
 
-## Domanda da commissario
+## ▣ Verifica
 
 **Qual è il percorso logico per impostare una verifica secondo le NTC?**
 
 Si definiscono opera, uso e prestazioni; si caratterizzano sito e materiali; si individuano azioni e combinazioni; si costruiscono modelli coerenti; si controllano gli stati limite pertinenti; si definiscono dettagli, controlli ed esigenze di durabilità; infine si verifica in esecuzione e collaudo la rispondenza dell’opera.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Una costruzione che soddisfa gli stati limite ultimi è certamente idonea all’uso?**
 
 No. Deve soddisfare anche gli stati limite di esercizio e gli altri requisiti pertinenti. Una struttura può essere lontana dal collasso ma risultare eccessivamente deformabile, fessurata, vibrante o non funzionale.
 
-## Errore tipico
+### Errore tipico
 
 L’errore più frequente è saltare dal nome dell’opera alla formula. Prima del calcolo compila sempre la sequenza:
 
 `funzione → classe → sito → azioni → modello → stato limite → verifica → controllo`.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Associa ogni domanda al nucleo corretto:
 
@@ -233,7 +233,7 @@ Associa ogni domanda al nucleo corretto:
 
 Risposte: classe d’uso; pericolosità sismica; modello geotecnico; stato limite di esercizio; controlli e collaudo.
 
-## Checklist per il caso tecnico
+### Checklist per il caso tecnico
 
 - Ho identificato funzione, vita nominale e classe d’uso?
 - Ho distinto zona sismica, pericolosità del sito e rischio?
@@ -256,8 +256,8 @@ Risposte: classe d’uso; pericolosità sismica; modello geotecnico; stato limit
 
 ## Note di review
 
-- Verificare nuovamente, prima della pubblicazione, vigenza e coordinamento di NTC 2018, Circolare 2019, modifiche 2023 e D.P.R. n. 380/2001.
+- Audit del 21 agosto 2026: vigenza e coordinamento di NTC 2018, Circolare 2019, modifiche 2023 e D.P.R. n. 380/2001 confermati sulle fonti ufficiali.
 - Sottoporre definizioni, distinzioni e casi a un ingegnere strutturista e a uno specialista geotecnico.
 - Controllare sul testo ufficiale qualsiasi futura formula, tabella, coefficiente, valore o procedura puntuale.
 - Validare categorie di intervento sulle costruzioni esistenti e adempimenti del collaudo statico rispetto al caso e alle disposizioni territoriali applicabili.
-- Coordinare le tavole di dettaglio con l’Appendice A ed evitare duplicazioni con i capitoli 7–9.
+- Le tavole di dettaglio sono incorporate nel capitolo; evitare duplicazioni con i capitoli 7–9.

@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Bando Decoder","Moduli Profilo","Piano 30/60/90 giorn
 source_refs: ["sources/struttura-madre-il-metodo-bando.md","sources/metodo-bando-progetto-editoriale.md","sources/vol-01-il-metodo-bando-struttura-2026-07-14.md","sources/logica-volumi-copertura-concorsobook-v4.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.96
-updated_at: 2026-07-14T19:00:00+02:00
+updated_at: 2026-08-21
 created_at: 2026-05-10T11:45:00+02:00
 review_required: false
 canonical: true
@@ -192,3 +192,7 @@ Contenuti: sintesi delle cinque promesse dell'introduzione, capitale riutilizzab
 
 ## Contenuti da non inserire nel libro base
 Tributario avanzato; processo civile e penale; codice della strada dettagliato; edilizia e urbanistica avanzata; contabilita enti locali avanzata; contabilita sanitaria; ordinamento scolastico dettagliato; diritto del lavoro e previdenza avanzati; fondi UE e PNRR avanzati; diritto internazionale; magistratura; carriera diplomatica; concorsi militari; prove fisiche; discipline sanitarie professionali; discipline tecniche specialistiche.
+
+## Registro di revisione trasversale — 21 agosto 2026
+
+La struttura è confermata come Bibbia editoriale del VOL-01. Il cartaceo comprende 32 sezioni autoriali: introduzione, capitoli 1-24, conclusione e appendici A-F. I 23 moduli con `outline_section` 25-47 appartengono al Ricettario operativo digitale e non confluiscono nell’interno KDP. La matrice canonica registra 17 nuclei completi; le verifiche giuridiche e delle fonti mobili restano un gate umano separato e non modificano il perimetro didattico.

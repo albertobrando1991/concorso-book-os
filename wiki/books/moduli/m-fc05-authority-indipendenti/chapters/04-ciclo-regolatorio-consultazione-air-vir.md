@@ -2,21 +2,21 @@
 id: chapter-m-fc05-04-ciclo-regolatorio-consultazione-air-vir
 type: book_chapter
 title: "Ciclo regolatorio, consultazione, AIR e VIR"
-status: professional_draft
+status: final
 domain: regolazione amministrativa
 topics: ["consultazione", "air", "vir", "regolazione"]
 entities: ["ARERA", "AGCOM", "AGCM"]
 source_refs: ["sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24.md", "sources/air-vir-qualita-regolazione-dpcm-169-2017.md", "sources/authority-indipendenti-leggi-istitutive.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.88
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "consultazione"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 4
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/03-flusso-ciclo-regolatorio-air-vir.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/04-distinzioni-ciclo-regolatorio-air-vir.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/05-sintesi-ciclo-regolatorio-air-vir.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # Ciclo regolatorio, consultazione, AIR e VIR
 
-## Scheda di lavoro
+## N-MF05-04-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Trasformare il ciclo regolatorio in una sequenza di lavoro: problema, evidenze, opzioni, consultazione, decisione, attuazione, monitoraggio e valutazione degli effetti.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Mini-AIR, matrice degli stakeholder, traccia di documento di consultazione e checklist per distinguere monitoraggio e VIR.
 
 > **Regola di metodo.** Una delibera finale non è il punto di partenza del ragionamento regolatorio: è l'esito di un percorso che deve restare leggibile, motivato e controllabile.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -62,7 +62,7 @@ Al termine del capitolo il lettore deve essere in grado di:
 
 ![Figura 4.1 — Mappa BANDO: Ciclo regolatorio, AIR e VIR.](../assets/chapter-04/01-mappa-bando-ciclo-regolatorio-air-vir.png)
 
-*Figura 4.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 4.1 — La tavola orienta la lettura di problema regolatorio e separa il perimetro dalle eccezioni.*
 
 ### Il ciclo regolatorio: una sequenza, non una formalità
 
@@ -82,9 +82,11 @@ La sequenza deve essere adattata alla natura del potere. Un atto generale di reg
 
 È importante, inoltre, non trasferire automaticamente alle Autorità indipendenti la disciplina prevista per le amministrazioni statali. Il D.P.C.M. 15 settembre 2017, n. 169 disciplina AIR, VIR e consultazioni per le amministrazioni statali e ne esclude espressamente le Autorità amministrative indipendenti. Il suo valore, in questo modulo, è soprattutto metodologico: aiuta a comprendere la logica ex ante ed ex post della qualità della regolazione. Per applicare la procedura concreta occorre invece consultare la legge istitutiva, il regolamento procedimentale e gli atti organizzativi dell'Autorità competente.
 
+## N-MF05-04-02 · Istituti e distinzioni
+
 ![Figura 4.2 — Architettura: Ciclo regolatorio, AIR e VIR.](../assets/chapter-04/02-architettura-ciclo-regolatorio-air-vir.png)
 
-*Figura 4.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 4.2 — La tavola mette a confronto consultazione e AIR senza sovrapporli.*
 
 ### Consultazione: ascoltare per decidere meglio
 
@@ -108,7 +110,7 @@ L'esempio ARERA mostra la concretezza di questo impianto. Nei suoi procedimenti 
 
 ![Figura 4.3 — Sequenza operativa: Ciclo regolatorio, AIR e VIR.](../assets/chapter-04/03-flusso-ciclo-regolatorio-air-vir.png)
 
-*Figura 4.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 4.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### AIR: valutare prima di regolare
 
@@ -127,11 +129,13 @@ Una mini-AIR può essere costruita con otto campi:
 7. **Consultazione:** quali informazioni mancanti devono essere richieste agli interessati?
 8. **Scelta e monitoraggio:** quale opzione è preferibile e con quali indicatori sarà seguita?
 
+## N-MF05-04-03 · Poteri, procedura e conseguenze
+
 Questo schema chiarisce anche il rapporto tra AIR e proporzionalità. Proporzionalità non significa scegliere sempre la misura meno onerosa in astratto. Significa verificare che la misura sia adeguata all'obiettivo, necessaria rispetto alle alternative disponibili e non eccessiva rispetto agli effetti che produce. L'AIR fornisce la struttura informativa per compiere e motivare questa valutazione; la decisione resta dell'Autorità competente.
 
 ![Figura 4.4 — Distinzioni essenziali: Ciclo regolatorio, AIR e VIR.](../assets/chapter-04/04-distinzioni-ciclo-regolatorio-air-vir.png)
 
-*Figura 4.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 4.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Monitoraggio e VIR: ciò che accade dopo la decisione
 
@@ -157,7 +161,7 @@ Per il funzionario, tracciabilità significa distinguere sempre quattro piani ne
 
 ![Figura 4.5 — Sintesi operativa: Ciclo regolatorio, AIR e VIR.](../assets/chapter-04/05-sintesi-ciclo-regolatorio-air-vir.png)
 
-*Figura 4.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 4.5 — La tavola chiude il percorso collegando monitoraggio e VIR a tracciabilità.*
 
 ### Mappa BANDO
 
@@ -172,6 +176,8 @@ Quando il programma di concorso richiama «regolazione», «consultazione», «q
 | Ordinamento dell'Autorità | Regolamento interno e atti applicabili | Checklist delle fonti dell'ente target |
 
 > **Da sapere in cinque righe.** Il ciclo regolatorio parte dal problema e termina con la verifica degli effetti, non con la sola adozione della delibera. La consultazione acquisisce contributi utili ma non sostituisce la decisione motivata dell'Autorità. L'AIR valuta ex ante opzioni e impatti; il monitoraggio segue l'attuazione; la VIR valuta ex post utilità, efficacia ed efficienza. Il D.P.C.M. n. 169/2017 è un riferimento metodologico, ma esclude le Autorità indipendenti dal proprio ambito soggettivo. Per la procedura concreta occorre sempre leggere le regole dell'ente competente.
+
+## N-MF05-04-04 · Applicazione alla prova
 
 ### Caso guidato: nuova qualità minima del servizio regolato
 
@@ -222,10 +228,46 @@ Redigi una mini-AIR di dieci righe sul seguente problema: «Gli utenti segnalano
 
 Controlla il risultato con una domanda finale: «Ho spiegato perché una certa opzione potrebbe essere preferibile, oppure ho soltanto descritto la mia soluzione?». Nel secondo caso, torna alle alternative e agli impatti.
 
-### Riferimenti consolidati
+### Laboratorio di qualificazione
 
-[[sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24]], [[sources/air-vir-qualita-regolazione-dpcm-169-2017]], [[sources/authority-indipendenti-leggi-istitutive]], [[topics/ciclo-regolatorio-consultazione-air-vir]].
+Per allenare problema regolatorio, parti da un fascicolo minimo: una richiesta, due documenti non perfettamente coerenti e una fonte che attribuisce il potere. Scrivi in colonne separate i fatti provati, le allegazioni e gli elementi ancora da acquisire. Poi confronta consultazione con AIR: annota soggetto, presupposto, funzione ed effetto di ciascun istituto. Il confronto impedisce di scegliere la soluzione soltanto perché una parola della traccia ricorda una definizione studiata.
 
-### Note di review editoriale
+## N-MF05-04-05 · Consolidamento e verifica
 
-Prima della chiusura del volume, verificare alla data di cut-off il regolamento procedimentale, la disciplina AIR/VIR, le forme di consultazione e gli atti di pubblicazione dell'Autorità destinataria del bando. Non estendere a enti diversi termini, esenzioni, documenti o metodologie propri di ARERA o di altra Autorità.
+Passa quindi a decisione e motivazione. Indica chi avvia l'attività, quali garanzie devono essere rispettate e quale atto può chiuderla. Se la fonte lascia un margine di valutazione, rendi espliciti i criteri: gravità, durata, diffusione, rischio, collaborazione e proporzionalità, secondo il settore applicabile. Collega monitoraggio e VIR al documento che ne permette la verifica e tratta tracciabilità come una conclusione da motivare, non come un'etichetta. La scheda è completa quando un secondo lettore può ricostruire il percorso senza conoscere l'intenzione di chi l'ha compilata.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito problema regolatorio senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra consultazione e AIR poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a decisione e motivazione giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di monitoraggio e VIR e quale conseguenza produrrebbe su tracciabilità. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama problema regolatorio?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** consultazione e AIR possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato decisione e motivazione nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di monitoraggio e VIR?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su tracciabilità?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama problema regolatorio e chiede un intervento immediato su tracciabilità. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere consultazione da AIR e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta decisione e motivazione, si collega monitoraggio e VIR al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

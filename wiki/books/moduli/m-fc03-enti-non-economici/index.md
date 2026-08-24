@@ -2,7 +2,7 @@
 id: m-fc03-enti-non-economici
 type: specialist_module
 title: "M-FC03 - Enti pubblici non economici"
-status: source_ready
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
@@ -16,19 +16,19 @@ source_refs: [
 ]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.84
-updated_at: 2026-07-02T21:20:00+02:00
+updated_at: 2026-08-22T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module","module-family-funzioni-centrali","module-code-m-fc03","source-ready"]
 book_id: m-fc03-enti-non-economici
 module_code: M-FC03
 module_family: funzioni-centrali
 module_family_title: "Funzioni Centrali"
-module_status: source_ready
+module_status: final
 roadmap_phase: "1"
 companion_to: il-metodo-bando
-draft_stage: source-ready
+draft_stage: text_frozen
 last_compiled_from: [
   "wiki/books/moduli/architettura-moduli-specialistici.md",
   "wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md",
@@ -47,12 +47,12 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-FC03
 - Copertura: INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CONI, CRI e altri EPNE compatibili con profili amministrativi, giuridici, economici, contabili, servizi e vigilanza non tecnica.
 - Fase roadmap: 1
-- Stato: source-ready per pianificazione e avvio scrittura capitoli.
+- Stato: testo revisionato e pronto per il text freeze.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non promette copertura totale di ogni bando né aggiornamento normativo automatico. I dati mobili vanno verificati nella procedura applicabile; il quadro specialistico del modulo è sottoposto all'audit conclusivo della pipeline.
 
 ## Piano editoriale
 - [[books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale|Piano editoriale del modulo]]
@@ -66,7 +66,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/moduli/m-fc03-enti-non-economici/front-matter/05-premessa|Premessa]]
 - [[books/moduli/m-fc03-enti-non-economici/front-matter/06-indice|Indice]]
 
-## Capitoli previsti
+## Capitoli
 - Lavorare negli enti pubblici non economici.
 - Ordinamento e governance degli EPNE.
 - INPS: previdenza, servizi e prestazioni.
@@ -89,11 +89,10 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - [[books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne|Appendice D - Errori tipici nei bandi EPNE]]
 - [[books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli|Appendice E - Rinvii ragionati ad altri moduli]]
 - [[books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam|Appendice F - Materie integrative INAIL/RIPAM]]
-## Fonti da consolidare
-- Statuti e regolamenti aggiornati degli enti, quando citati puntualmente.
-- Source notes dedicate per singoli bandi ufficiali se usati come casi pubblicabili.
-- Carte dei servizi, regolamenti accesso/URP e pagine prestazioni prima dei capitoli 3-5.
-- PIAO e bilanci annuali degli enti diversi da INAIL se diventano esempi nel testo.
+## Aggiornamento delle fonti
+- Statuti e regolamenti si controllano sul portale istituzionale quando vengono citati puntualmente.
+- I bandi usati come casi sono identificati per amministrazione, profilo e anno.
+- Carte dei servizi, regolamenti di accesso, PIAO e bilanci restano dati mobili da verificare alla data della procedura.
 
 ## Prossimo passo
-Sviluppare i capitoli effettivi con Manual Writer Agent usando libro principale, ricettario digitale, piano editoriale e source notes del modulo. I dati instabili su bandi, scadenze, prove e allegati richiedono verifica ufficiale alla data di scrittura.
+Text freeze, composizione del volume e preflight dei formati di pubblicazione. I dati instabili su bandi, scadenze, prove e allegati si verificano sempre sulla pagina ufficiale della procedura.

@@ -107,6 +107,21 @@ describe("didactic coverage CLI", () => {
     expect(result.stdout).toContain("1 blocker")
     expect(result.stdout).toContain("Totale: 1 matrici")
   })
+  it("honors --volume and excludes worktrees from the audit", () => {
+    const cwd = temporaryDirectory()
+    const live = join(cwd, "wiki", "books", "moduli", "m-fc01-ministeri", "planning")
+    const stale = join(cwd, ".worktrees", "stale", "wiki", "books", "moduli", "m-fc01-ministeri", "planning")
+    mkdirSync(live, { recursive: true })
+    mkdirSync(stale, { recursive: true })
+    writeFileSync(join(live, "02-matrice-copertura-didattica.md"), matrix("| M-FC01 | Amministrativo | Atto | alta | [[sources/atto]] | cap. 1 | definizione | caso | quiz | domanda | completo | review | |"))
+    writeFileSync(join(stale, "02-matrice-copertura-didattica.md"), matrix("| M-FC01 | Amministrativo | Atto | alta | [[sources/atto]] | cap. 1 | cenno | caso | quiz | domanda | parziale | review | |"))
+
+    const result = spawnSync(process.execPath, [script, "--volume", "VOL-03"], { cwd, encoding: "utf8" })
+    expect(result.status).toBe(0)
+    expect(result.stdout).toContain("m-fc01-ministeri")
+    expect(result.stdout).not.toContain(".worktrees")
+    expect(result.stdout).toContain("Totale: 1 matrici, 1 righe complete, 0 blocker")
+  })
 })
 
 function temporaryDirectory() { const directory = mkdtempSync(join(tmpdir(), "coverage-audit-")); directories.push(directory); return directory }

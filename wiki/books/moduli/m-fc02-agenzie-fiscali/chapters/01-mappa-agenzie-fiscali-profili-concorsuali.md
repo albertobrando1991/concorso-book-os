@@ -2,7 +2,7 @@
 id: chapter-m-fc02-mappa-agenzie-fiscali-profili-concorsuali
 type: book_chapter
 title: "Mappa delle Agenzie fiscali e dei profili concorsuali"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["agenzie fiscali","profili concorsuali","moduli specialistici","bando decoder fiscale"]
 entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
@@ -15,14 +15,14 @@ asset_refs:
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/04-nucleo-comune-delta-fiscale.png"
   - "books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/05-bando-decoder-fiscale.png"
 confidence: 0.94
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter","module-code-m-fc02","professional-draft","revised-draft","illustrated"]
+tags: ["book-chapter","module-code-m-fc02","text-frozen","revised-draft","illustrated"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 1
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

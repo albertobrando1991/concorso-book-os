@@ -1,12 +1,11 @@
 # Limiti dichiarati
 
-Il pacchetto corregge l'errore di sequenza del PDF legacy ed è tecnicamente pronto per il proof KDP. Non dichiara il volume pronto per la pubblicazione.
+Il pacchetto supera revisione editoriale, audit specialistico, text freeze, impaginazione, controllo pagina per pagina e preflight locale. Non dichiara conclusi:
 
-Restano obbligatori:
+1. conferma umana dello step 24;
+2. controllo proprietario nel KDP Previewer e risoluzione di eventuali warning del portale;
+3. approvazione di copertina, ISBN, diritti, prezzo e metadati commerciali;
+4. verifica di modifiche normative o operative successive al 21 agosto 2026;
+5. confronto con il singolo bando per requisiti, scadenze, punteggi e modalità di prova variabili.
 
-1. ispezione visiva delle pagine campione e del PDF completo nel Print Previewer KDP;
-2. risoluzione di eventuali warning del portale KDP;
-3. revisione editoriale e normativa ancora richiesta dal libro sorgente;
-4. sign-off umano pre-pubblicazione.
-
-Kindle Previewer non sostituisce il Print Previewer KDP per un interno paperback in PDF.
+Il PDF legacy con sequenza duplicata resta escluso dal pacchetto e non deve essere usato.

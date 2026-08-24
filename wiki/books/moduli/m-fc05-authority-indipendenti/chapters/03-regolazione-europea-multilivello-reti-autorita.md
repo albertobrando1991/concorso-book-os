@@ -2,21 +2,21 @@
 id: chapter-m-fc05-03-regolazione-europea-multilivello-reti-autorita
 type: book_chapter
 title: "Regolazione europea multilivello e reti delle autorità"
-status: professional_draft
+status: final
 domain: diritto dell'Unione europea
 topics: ["regolazione europea", "cooperazione", "reti delle autorità"]
 entities: ["AGCM", "ARERA", "AGCOM", "CONSOB", "Banca d'Italia", "IVASS", "Garante per la protezione dei dati personali", "Commissione europea", "ECN", "BEREC", "ACER", "EDPB", "EBA", "ESMA", "EIOPA"]
-source_refs: ["sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/regolazione-ue-multilivello-reti-authority-2026-07-24.md", "sources/authority-indipendenti-leggi-istitutive.md"]
+source_refs: ["sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/regolazione-ue-multilivello-reti-authority-2026-07-24.md", "sources/authority-indipendenti-leggi-istitutive.md", "sources/vol-05-aggiornamento-specialistico-2026-08-22.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.87
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "unione-europea"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 3
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/03-flusso-regolazione-europea-reti.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/04-distinzioni-regolazione-europea-reti.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/05-sintesi-regolazione-europea-reti.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # Regolazione europea multilivello e reti delle autorità
 
-## Scheda di lavoro
+## N-MF05-03-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Ricostruire il rapporto tra fonte dell'Unione, Autorità nazionale, istituzione o organismo europeo e rete di cooperazione, senza sovrapporre competenze nazionali e sovranazionali.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Una mappa «UE–Italia» per individuare fonte, potere, autorità competente, rete applicabile, flusso informativo e rimedio.
 
 > **Regola di metodo.** Non partire dal nome della rete. Parti dall'atto che disciplina il caso: solo dopo puoi stabilire se e come la rete collega le Autorità competenti.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -61,7 +61,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 3.1 — Mappa BANDO: Regolazione europea e reti.](../assets/chapter-03/01-mappa-bando-regolazione-europea-reti.png)
 
-*Figura 3.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 3.1 — La tavola orienta la lettura di fonti europee e separa il perimetro dalle eccezioni.*
 
 ### Dalla fonte UE al potere concreto
 
@@ -77,9 +77,11 @@ La regolazione multilivello nasce proprio da questo intreccio. Un regolamento pu
 
 ![Figura 3.2 — Architettura: Regolazione europea e reti.](../assets/chapter-03/02-architettura-regolazione-europea-reti.png)
 
-*Figura 3.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 3.2 — La tavola mette a confronto riparto multilivello e reti di regolatori senza sovrapporli.*
 
 ### Multilivello non significa gerarchia indistinta
+
+## N-MF05-03-02 · Istituti e distinzioni
 
 Parlare di sistema multilivello non significa immaginare una scala uniforme, con l'Unione sempre al vertice e le Autorità nazionali sempre in posizione esecutiva. In molti ambiti, il diritto UE distribuisce competenze parallele o complementari. In altri, individua un'autorità capofila, attribuisce poteri diretti a un organismo europeo o impone forme di consultazione e coordinamento. In altri ancora, l'applicazione concreta resta nazionale, ma deve rispettare criteri comuni e canali di cooperazione.
 
@@ -99,7 +101,7 @@ La stessa cautela vale per il rapporto con il giudice. Il fatto che una question
 
 ![Figura 3.3 — Sequenza operativa: Regolazione europea e reti.](../assets/chapter-03/03-flusso-regolazione-europea-reti.png)
 
-*Figura 3.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 3.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Le reti: funzione, non etichetta
 
@@ -113,13 +115,15 @@ Nelle comunicazioni elettroniche, **BEREC** contribuisce alla coerenza dell'appl
 
 Nel settore energetico, **ACER** sostiene e coordina il contributo delle autorità nazionali di regolazione alla realizzazione del mercato interno dell'energia. L'esempio REMIT evidenzia bene la distribuzione dei compiti: ACER raccoglie e analizza dati, monitora il mercato e coopera nei casi transfrontalieri; l'enforcement resta, secondo la disciplina applicabile, in capo alle autorità nazionali che monitorano, indagano e applicano i rimedi previsti nei rispettivi ordinamenti. Il candidato non deve ricordare ogni strumento tecnico: deve comprendere che l'integrazione del mercato richiede dati, cooperazione e responsabilità differenziate.
 
+## N-MF05-03-03 · Poteri, procedura e conseguenze
+
 Nel settore finanziario, il **Sistema europeo di vigilanza finanziaria** collega le Autorità europee di vigilanza — EBA, ESMA ed EIOPA —, il Comitato europeo per il rischio sistemico, il Comitato congiunto e le autorità nazionali competenti. Le Autorità nazionali continuano, in via generale, a vigilare sui singoli intermediari secondo il rispettivo perimetro; le Autorità europee concorrono alla qualità, all'efficienza e all'armonizzazione della regolazione e della vigilanza. Anche qui la formula utile è «ruoli differenziati e coordinati», non «competenza europea che assorbe automaticamente quella nazionale».
 
 Infine, nella protezione dei dati, il **Comitato europeo per la protezione dei dati (EDPB)** sostiene il funzionamento dei meccanismi di cooperazione e coerenza che collegano le Autorità di controllo nazionali. Nei casi transfrontalieri, il GDPR prevede il meccanismo dello sportello unico: l'autorità capofila coopera con le autorità interessate; se il consenso non è raggiunto, la questione può essere deferita all'EDPB per la decisione vincolante prevista dalla disciplina europea. Questo esempio è prezioso perché mostra che cooperazione non significa soltanto scambio di informazioni: può incidere sulla sequenza del procedimento e sulla formazione della decisione.
 
 ![Figura 3.4 — Distinzioni essenziali: Regolazione europea e reti.](../assets/chapter-03/04-distinzioni-regolazione-europea-reti.png)
 
-*Figura 3.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 3.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Schema di sintesi: dal problema transfrontaliero alla decisione
 
@@ -155,9 +159,18 @@ Questa impostazione è utile anche per l'esame. Trasforma una domanda ampia — 
 
 ![Figura 3.5 — Sintesi operativa: Regolazione europea e reti.](../assets/chapter-03/05-sintesi-regolazione-europea-reti.png)
 
-*Figura 3.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 3.5 — La tavola chiude il percorso collegando REMIT e poteri ACER a caso transfrontaliero.*
 
+### REMIT dopo la riforma del 2024
+
+Il mercato energetico all'ingrosso offre un esempio utile di amministrazione composita. Il regolamento REMIT vieta abuso di informazioni privilegiate e manipolazione del mercato e organizza raccolta, analisi e scambio dei dati. Dopo il regolamento (UE) 2024/1106, tuttavia, non è più corretto presentare ACER come un soggetto che si limita a coordinare le autorità nazionali. Quando la sospetta violazione ha una chiara dimensione transfrontaliera, l'Agenzia può condurre proprie indagini: può chiedere informazioni, raccogliere dichiarazioni ed effettuare ispezioni secondo presupposti, limiti e garanzie fissati dalla disciplina europea.
+
+Il potere investigativo europeo non elimina il livello nazionale. Il rapporto di ACER viene trasmesso alle autorità nazionali interessate; resta a queste ultime la competenza esclusiva a stabilire se la violazione si sia verificata e ad adottare le misure di enforcement, comprese le sanzioni consentite dall'ordinamento applicabile. In una risposta d'esame occorre dunque usare due verbi diversi: ACER **indaga** nei casi transfrontalieri previsti e coopera; l'autorità nazionale **accerta ed esegue** nel proprio sistema. Dire che «decide tutto ACER» è tanto impreciso quanto affermare che «ACER raccoglie soltanto dati».
+
+Un caso si risolve con quattro controlli. Primo, verificare se il prodotto e la condotta rientrano nel mercato energetico all'ingrosso. Secondo, individuare la dimensione nazionale o transfrontaliera del fatto. Terzo, distinguere acquisizione della prova, relazione investigativa e decisione finale. Quarto, ricostruire cooperazione, garanzie procedurali e rimedio. Questa sequenza vale anche fuori dal REMIT: impedisce di confondere una rete amministrativa con una gerarchia e mostra come più autorità possano contribuire allo stesso risultato senza esercitare il medesimo potere.
 ### Mappa BANDO
+
+## N-MF05-03-04 · Applicazione alla prova
 
 Le formule che seguono nel bando segnalano, di regola, una richiesta di ragionamento multilivello.
 
@@ -216,10 +229,46 @@ Scegli uno dei cinque esempi del capitolo — ECN, BEREC, ACER, ESFS o EDPB — 
 
 L'esercizio è completo solo se distingue chiaramente chi coordina, chi istruisce e chi decide. Se una riga resta generica, occorre tornare alla fonte: è il segnale che stai ricordando un acronimo ma non il sistema di competenze.
 
-### Riferimenti consolidati
+### Checklist per una nota d'ufficio
 
-[[sources/regolazione-ue-digitale-e-finanziaria-vol-05]], [[sources/regolazione-ue-multilivello-reti-authority-2026-07-24]], [[sources/authority-indipendenti-leggi-istitutive]], [[topics/regolazione-ue-multilivello-reti-authority]].
+## N-MF05-03-05 · Consolidamento e verifica
 
-### Note di review editoriale
+Una nota professionale su fonti europee deve consentire al decisore di capire che cosa è noto, quale regola si applica e che cosa resta da verificare. L'apertura contiene il quesito in una frase; il quadro distingue riparto multilivello da reti di regolatori; l'analisi collega ogni fatto a un documento. Le citazioni normative sostengono il ragionamento, ma non lo sostituiscono. Se due fonti sembrano divergere, controlla data, rango, ambito e disciplina transitoria prima di parlare di conflitto.
 
-Prima della chiusura del volume, verificare alla data di cut-off: atti UE settoriali richiamati dal bando, recepimenti nazionali delle direttive, linee guida e procedure operative delle reti, nonché l'Autorità italiana effettivamente designata per ciascun compito. Il capitolo espone il metodo e gli esempi strutturali, non sostituisce la verifica dell'atto vigente nel settore target.
+La sezione operativa descrive cooperazione in ordine cronologico e assegna ogni attività al soggetto competente. La parte su REMIT e poteri ACER espone rischio e alternativa, evitando verbi assoluti quando l'istruttoria è incompleta. La conclusione su caso transfrontaliero propone il passo successivo, il controllo da svolgere e, se utile, un termine interno di riesame che non venga confuso con un termine legale. Riletta da sola, la nota deve mostrare perché l'opzione scelta è preferibile e quali nuovi elementi potrebbero modificarla.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito fonti europee senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra riparto multilivello e reti di regolatori poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a cooperazione giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di REMIT e poteri ACER e quale conseguenza produrrebbe su caso transfrontaliero. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama fonti europee?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** riparto multilivello e reti di regolatori possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato cooperazione nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di REMIT e poteri ACER?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su caso transfrontaliero?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama fonti europee e chiede un intervento immediato su caso transfrontaliero. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere riparto multilivello da reti di regolatori e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta cooperazione, si collega REMIT e poteri ACER al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

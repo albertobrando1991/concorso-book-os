@@ -8,7 +8,7 @@ volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["tutela delle acque", "scarichi", "acque reflue", "autorizzazione agli scarichi", "campionamento", "servizio idrico integrato"]
 entities: ["MASE", "ARERA", "SNPA", "ARPA", "autorità competente", "ente di governo dell'ambito", "gestore del servizio idrico integrato"]
@@ -17,10 +17,10 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/acque-scarichi-servizio-idrico-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md", "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/07-piano-capitolo-05-acque-scarichi-servizio-idrico.md"]
 confidence: 0.91
 created_at: 2026-08-10
-updated_at: 2026-08-10
-review_required: true
+updated_at: 2026-08-21
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 

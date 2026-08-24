@@ -2,21 +2,21 @@
 id: chapter-m-fc05-11-consob-mercati-intermediari-tutela-investitore
 type: book_chapter
 title: "CONSOB: mercati, intermediari e tutela dell'investitore"
-status: professional_draft
+status: final
 domain: mercati finanziari
 topics: ["mercati finanziari", "intermediari", "tutela investitore", "abusi di mercato", "mifid", "mar"]
 entities: ["CONSOB", "Banca d'Italia", "ESMA", "ACF"]
-source_refs: ["sources/consob-mercati-intermediari-tutela-investitore-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/consob-bando-vice-assistenti-amministrativi-207-26.md"]
+source_refs: ["sources/consob-mercati-intermediari-tutela-investitore-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/consob-bando-vice-assistenti-amministrativi-207-26.md", "sources/vol-05-aggiornamento-specialistico-2026-08-22.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.88
-updated_at: 2026-07-29
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "consob", "investitori"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 11
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/03-flusso-consob-mercati-investitore.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/04-distinzioni-consob-mercati-investitore.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/05-sintesi-consob-mercati-investitore.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # CONSOB: mercati, intermediari e tutela dell'investitore
 
-## Scheda di lavoro
+## N-MF05-11-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Comprendere come CONSOB presidi trasparenza, correttezza e integrità dei mercati, distinguendo emittenti, intermediari, sedi di negoziazione e tutela individuale dell'investitore.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Mappa soggetti–obblighi, caso di market abuse, nota sull'investitore retail e risposta orale.
 
 > **Regola di metodo.** Non dedurre un illecito dalla perdita subita dall'investitore. Ricostruisci prodotto, servizio, informazione disponibile, comportamento dell'intermediario o dell'emittente, mercato coinvolto e fonte applicabile.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -60,7 +60,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 11.1 — Mappa BANDO: mercati e investitore.](../assets/chapter-11/01-mappa-bando-consob-mercati-investitore.png)
 
-*Figura 11.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 11.1 — La tavola orienta la lettura di emittenti e separa il perimetro dalle eccezioni.*
 
 ### Quattro soggetti, quattro domande
 
@@ -77,9 +77,11 @@ La vigilanza sui mercati persegue trasparenza, ordinato svolgimento delle negozi
 
 ![Figura 11.2 — Architettura: CONSOB: mercati e investitore.](../assets/chapter-11/02-architettura-consob-mercati-investitore.png)
 
-*Figura 11.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 11.2 — La tavola mette a confronto intermediari e mercati senza sovrapporli.*
 
 ### Intermediari e tutela dell'investitore: correttezza non significa rendimento garantito
+
+## N-MF05-11-02 · Istituti e distinzioni
 
 MiFID II e MiFIR costituiscono, insieme alla disciplina nazionale di attuazione, un riferimento essenziale per la prestazione dei servizi di investimento. In termini di metodo, il candidato deve ricordare che le regole di condotta servono a ridurre asimmetrie informative e conflitti di interesse, a rendere comprensibili caratteristiche e rischi, e a collegare il servizio alla situazione dell'investitore secondo le verifiche previste. Non è necessario recitare ogni categoria o ogni modulo: è necessario sapere che appropriatezza, adeguatezza, informazione, costi, incentivi e gestione dei conflitti assumono rilievo soltanto nel perimetro del servizio e della regola concreta.
 
@@ -89,7 +91,7 @@ La tutela dell'investitore è collegata, ma non identica, alla tutela bancaria d
 
 ![Figura 11.3 — Sequenza operativa: CONSOB: mercati e investitore.](../assets/chapter-11/03-flusso-consob-mercati-investitore.png)
 
-*Figura 11.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 11.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Mercati integri: MAR e abusi di mercato
 
@@ -107,9 +109,11 @@ Il linguaggio prudente è decisivo: non basta dire «il prezzo è salito, quindi
 
 ![Figura 11.4 — Distinzioni essenziali: CONSOB: mercati e investitore.](../assets/chapter-11/04-distinzioni-consob-mercati-investitore.png)
 
-*Figura 11.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 11.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Poteri, cooperazione e tutela stragiudiziale
+
+## N-MF05-11-03 · Poteri, procedura e conseguenze
 
 CONSOB dispone di poteri di regolazione secondaria, controllo, richiesta di informazioni, ispezione, intervento e sanzione nei limiti della legge e dei regolamenti applicabili. Come per ogni Authority, potere e garanzie procedimentali restano inseparabili: base legale, contestazione, acquisizione delle prove, partecipazione e difesa, valutazione, motivazione e controllo dell'atto. Anche gli impegni, quando previsti dalla disciplina, sono strumenti specifici e non un'alternativa disponibile liberamente in ogni caso.
 
@@ -119,8 +123,19 @@ L'**Arbitro per le controversie finanziarie (ACF)** è uno strumento di risoluzi
 
 ![Figura 11.5 — Sintesi operativa: CONSOB: mercati e investitore.](../assets/chapter-11/05-sintesi-consob-mercati-investitore.png)
 
-*Figura 11.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 11.5 — La tavola chiude il percorso collegando MAR a MiCAR e ACF.*
 
+### MiCAR e riparto nazionale delle competenze
+
+Il regolamento MiCAR è integralmente applicabile dal 30 dicembre 2024, dopo l'avvio anticipato del regime per asset-referenced token ed e-money token. Il d.lgs. n. 129/2024 individua Banca d'Italia e CONSOB come autorità nazionali competenti, secondo un riparto che dipende da soggetto, attività e tipo di cripto-attività. La Banca d'Italia presidia in particolare profili prudenziali e di gestione delle crisi; CONSOB presidia trasparenza, correttezza, ordinato svolgimento delle negoziazioni, tutela dei possessori e abusi di mercato nei rispettivi perimetri. Esistono eccezioni, competenze concorrenti e obblighi di cooperazione: la formula «le cripto-attività spettano alla CONSOB» è quindi inaffidabile.
+
+Per un crypto-asset service provider occorre distinguere autorizzazione o notifica, servizio prestato, natura dell'intermediario e rischio esaminato. Custodia, gestione di una piattaforma, esecuzione di ordini, consulenza e trasferimento sono servizi differenti; la disciplina non si applica perché un prodotto è chiamato commercialmente “token”, ma perché ricorrono le definizioni normative. Anche il product intervention richiede di identificare autorità e presupposti, senza ricavare il potere da una generica finalità di protezione.
+
+### Dalla vigilanza al rimedio dell'investitore
+
+L'Arbitro per le controversie finanziarie tratta, nei limiti di ammissibilità, controversie tra investitori retail e intermediari relative agli obblighi di diligenza, correttezza, informazione e trasparenza. Non è una sezione sanzionatoria della CONSOB e non sostituisce ogni tutela giudiziaria. In un caso di raccomandazione online o di servizio su cripto-attività bisogna separare quattro piani: eventuale abuso di mercato; correttezza dell'intermediario; competenza di vigilanza; rimedio concretamente accessibile al cliente. Una sola condotta può produrre domande diverse, ma ciascuna richiede fonte, fatti e procedimento propri.
+
+La risposta migliore non promette il recupero dell'investimento. Ricostruisce profilatura e informazioni, ordine o raccomandazione, caratteristiche del prodotto, nesso con il danno allegato, reclamo e condizioni dell'ADR. Sul piano pubblico, conserva evidenze e segnala il possibile rischio alla funzione competente; sul piano individuale, indica il rimedio senza confonderlo con l'accertamento sanzionatorio.
 ### Mappa BANDO
 
 | Voce del bando | Nucleo da padroneggiare | Output da allenare |
@@ -130,6 +145,8 @@ L'**Arbitro per le controversie finanziarie (ACF)** è uno strumento di risoluzi
 | MAR | Informazione privilegiata, comunicazione illecita e manipolazione | Schema fatto–prova–fattispecie |
 | Riparto autorità | CONSOB, Banca d'Italia, ESMA e fonti UE | Tabella funzione–autorità–limite |
 | Tutela individuale | Reclamo, ACF e giudice nei rispettivi ambiti | Percorso di tutela senza promesse improprie |
+
+## N-MF05-11-04 · Applicazione alla prova
 
 > **Da sapere in cinque righe.** CONSOB tutela investitori, trasparenza, correttezza e buon funzionamento dei mercati attraverso poteri previsti da fonti nazionali ed europee. Emittente, intermediario, mercato e investitore hanno obblighi e posizioni diverse. Le regole MiFID riguardano la prestazione dei servizi di investimento; MAR presidia l'integrità dei mercati contro insider dealing, comunicazione illecita e manipolazione. Una perdita non prova da sola una violazione. Il riparto con Banca d'Italia dipende dal settore e dalla fonte: prudenza e tutela del mercato non sono sinonimi.
 
@@ -176,10 +193,46 @@ Completa la griglia per una segnalazione di investimento ritenuto non corretto.
 
 L'esercizio è corretto se non conclude dalla perdita alla sanzione e se separa il profilo individuale da quello di integrità del mercato.
 
-### Riferimenti consolidati
+### Prova di trasferimento
 
-[[sources/consob-mercati-intermediari-tutela-investitore-2026-07-24]], [[sources/regolazione-ue-digitale-e-finanziaria-vol-05]], [[entities/consob]], [[topics/consob-mercati-intermediari-tutela-investitore]].
+Immagina che la stessa questione su emittenti compaia prima in un quiz, poi all'orale e infine in un caso. Nel quiz cerca la distinzione decisiva fra intermediari e mercati; all'orale enuncia criterio, limite ed esempio; nel caso individua fatti, fonte, competenza e passo istruttorio. Il contenuto di base non cambia, ma cambia la forma della prestazione: una risposta lunga non è automaticamente più completa e una risposta breve non può omettere il presupposto.
 
-### Note di review editoriale
+## N-MF05-11-05 · Consolidamento e verifica
 
-Prima della chiusura del volume, verificare TUF, regolamenti CONSOB, disciplina MiFID II/MiFIR, MAR, MiCAR, poteri sanzionatori e di product intervention, procedure ACF, orientamenti ESMA e protocolli di cooperazione con Banca d'Italia. Per ogni caso, controllare categorie di investitore, servizio prestato, prodotto, fonte vigente, autorità competente e rimedio effettivamente azionabile.
+Usa tutela dell'investitore come snodo operativo. Domandati quale documento manca, chi può richiederlo e quale conseguenza sarebbe prematura prima di acquisirlo. Per MAR, controlla se la regola descritta è stabile o dipende da data, bando, elenco o atto applicativo. Chiudi su MiCAR e ACF con una frase condizionata ai fatti realmente accertati. Questa prova di trasferimento serve anche al proofreading concettuale: se una stessa formula produce identica risposta in tre situazioni diverse, probabilmente il testo è troppo generico e va ricondotto al perimetro concreto.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito emittenti senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra intermediari e mercati poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a tutela dell'investitore giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di MAR e quale conseguenza produrrebbe su MiCAR e ACF. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama emittenti?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** intermediari e mercati possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato tutela dell'investitore nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di MAR?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su MiCAR e ACF?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama emittenti e chiede un intervento immediato su MiCAR e ACF. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere intermediari da mercati e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta tutela dell'investitore, si collega MAR al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

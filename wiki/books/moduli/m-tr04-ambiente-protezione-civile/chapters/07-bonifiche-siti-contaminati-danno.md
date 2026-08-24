@@ -1,14 +1,14 @@
 ---
 id: chapter-m-tr04-07-bonifiche-siti-contaminati-danno
 type: book_chapter
-title: "Bonifiche, siti contaminati e danno ambientale"
+title: "Capitolo 07 — Bonifiche, siti contaminati e danno ambientale"
 status: draft
 book_id: m-tr04-ambiente-protezione-civile
 volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["bonifiche", "siti contaminati", "CSC", "CSR", "analisi di rischio", "danno ambientale"]
 entities: ["MASE", "Regione", "Provincia", "Comune", "ARPA", "ISPRA"]
@@ -17,14 +17,14 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/09-piano-capitolo-07-bonifiche-siti-contaminati-danno.md"]
 confidence: 0.92
 created_at: 2026-08-12
-updated_at: 2026-08-12
-review_required: true
+updated_at: 2026-08-21
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
-# Bonifiche, siti contaminati e danno ambientale
+# Capitolo 07 — Bonifiche, siti contaminati e danno ambientale
 
 ## Apertura editoriale
 

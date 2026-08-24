@@ -1,14 +1,14 @@
 ---
 id: chapter-m-tr04-08-aria-rumore-monitoraggio-dati
 type: book_chapter
-title: "Aria, rumore, monitoraggio e dati"
+title: "Capitolo 08 — Aria, rumore, monitoraggio e dati"
 status: draft
 book_id: m-tr04-ambiente-protezione-civile
 volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte I — Ambiente e controlli"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["qualità dell'aria", "inquinamento acustico", "monitoraggio ambientale", "qualità del dato", "informazione ambientale"]
 entities: ["MASE", "ISPRA", "SNPA", "ARPA", "Regioni", "Comuni"]
@@ -17,14 +17,14 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md", "wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/10-piano-capitolo-08-aria-rumore-monitoraggio-dati.md"]
 confidence: 0.92
 created_at: 2026-08-13
-updated_at: 2026-08-13
-review_required: true
+updated_at: 2026-08-21
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
-# Aria, rumore, monitoraggio e dati
+# Capitolo 08 — Aria, rumore, monitoraggio e dati
 
 ## Apertura editoriale
 

@@ -9,9 +9,9 @@ entities: ["Ministero dell'Universita e della Ricerca", "Universita", "CNR"]
 source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026", "sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione"]
 book_refs: ["m-ir02-universita-afam", "vol-06-scuola-universita-ricerca-cultura", "il-metodo-bando"]
 confidence: 0.74
-updated_at: 2026-08-04
+updated_at: 2026-08-22
 created_at: 2026-08-04
-review_required: true
+review_required: false
 canonical: false
 tags: ["chapter-plan", "module-code-m-ir02", "chapter-07", "pipeline-step-08"]
 ---

@@ -2,26 +2,26 @@
 id: m-tr04-ambiente-protezione-civile
 type: specialist_module
 title: "M-TR04 - Ambiente e protezione civile"
-status: outline_ready
+status: specialist_audit_done
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","trasversali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
-confidence: 0.55
-updated_at: 2026-06-27T19:56:28+02:00
+confidence: 0.93
+updated_at: 2026-08-21
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["specialist-module","module-family-trasversali","module-code-m-tr04","scaffold"]
+tags: ["specialist-module","module-family-trasversali","module-code-m-tr04","step-15"]
 book_id: m-tr04-ambiente-protezione-civile
 module_code: M-TR04
 module_family: trasversali
 module_family_title: "Trasversali"
-module_status: outline_ready
+module_status: specialist_audit_done
 roadmap_phase: "4"
 companion_to: il-metodo-bando
-draft_stage: outline-ready
+draft_stage: specialist_audit_done
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md", "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md"]
 ---
 

@@ -137,7 +137,7 @@ describe("Book OS integration bundle v1", () => {
       "ricettario-review-required",
       "chapter-review-required",
       "digital-introduction-review-required",
-      "pipeline-spec-missing",
+      "pipeline-final-gate-pending",
       "release-approval-missing"
     ]))
   }, 60_000)

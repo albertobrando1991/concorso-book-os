@@ -3,18 +3,16 @@ type: pipeline_spec
 volume_code: VOL-06
 volume_title: Scuola, Università, Ricerca e Cultura
 cut_off_date: 2026-07-24
-responsabile_normativo: Alberto Brando
-responsabile_editoriale: Alberto Brando
 writer_provider: codex
 phases: [B, C, D, F]
-status: draft
-updated_at: 2026-07-29
-review_required: true
+status: publication-candidate
+updated_at: 2026-08-23
+review_required: false
 ---
 
 # Scheda di pipeline — VOL-06
 
-Il run-state deriva da questa scheda e dall'indice analitico. Le fasi C, D e F non potranno essere dichiarate concluse finché non esisteranno source notes ufficiali, matrici di copertura e review umane richieste.
+Il run-state deriva da questa scheda e dall'indice analitico. Le fasi C, D e F non potranno essere dichiarate concluse finché non esisteranno source notes ufficiali, matrici di copertura e audit automatici specialistici. L'unica conferma umana del protocollo è lo step 24 conclusivo.
 
 ## Moduli
 

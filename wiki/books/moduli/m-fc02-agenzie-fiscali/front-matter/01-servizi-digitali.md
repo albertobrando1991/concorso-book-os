@@ -2,22 +2,22 @@
 id: frontmatter-m-fc02-servizi-digitali
 type: front_matter
 title: "Servizi digitali inclusi"
-status: source_ready
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["servizi digitali","moduli specialistici","agenzie fiscali","metodo bando"]
 entities: ["Capitale Personale","Metodo BANDO","Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/m-fc02-dossier-redazionale-agenzie-fiscali.md"]
 book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-01T21:00:00+02:00
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["front-matter","digital-services","module-code-m-fc02"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: "FM1"
 front_matter_layout: digital-services
-draft_stage: source-ready
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/il-metodo-bando/front-matter/01-servizi-digitali.md","wiki/books/moduli/m-fc02-agenzie-fiscali/index.md"]

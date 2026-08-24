@@ -3,21 +3,21 @@ id: chapter-m-fc01-08-piao-performance-anticorruzione-valore-pubblico
 type: book_chapter
 format_version: 2
 title: "PIAO, performance, anticorruzione e valore pubblico"
-status: draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["piao", "performance", "anticorruzione", "trasparenza", "valore pubblico"]
 entities: ["Dipartimento della funzione pubblica", "ANAC", "Ministeri"]
 source_refs: ["sources/fonti-trasversali-m-fc01-piao-anac-agid.md", "sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "sources/legge-6-novembre-2012-n-190-anticorruzione.md", "sources/d-lgs-14-marzo-2013-n-33-trasparenza.md", "sources/d-lgs-27-ottobre-2009-n-150-performance.md"]
 book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-08-05T18:30:00+02:00
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "draft"]
 book_id: m-fc01-ministeri
 outline_section: 8
-draft_stage: full-draft
+draft_stage: text_frozen
 module_code: M-FC01
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/reviews/pipeline/VOL-03/08-moduli-m-fc01-ministeri-chapters-08-piao-performance-anticorruzione-valore-pubblico-md.md", "wiki/sources/fonti-trasversali-m-fc01-piao-anac-agid.md", "wiki/sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md", "wiki/sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md", "wiki/sources/d-lgs-27-ottobre-2009-n-150-performance.md", "wiki/sources/legge-6-novembre-2012-n-190-anticorruzione.md", "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md"]

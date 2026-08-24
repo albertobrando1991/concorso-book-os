@@ -2,22 +2,22 @@
 id: chapter-m-fc02-accise-giochi-monopoli
 type: book_chapter
 title: "Accise, giochi e monopoli"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["accise", "giochi pubblici", "monopoli", "adm", "deposito fiscale", "regime sospensivo"]
 entities: ["Agenzia delle Dogane e dei Monopoli", "Ministero dell'economia e delle finanze"]
 source_refs: ["sources/dogane-accise-giochi-monopoli-adm-m-fc02.md", "sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17.md", "sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md", "sources/reati-e-sanzioni-tributarie-m-fc02.md"]
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.95
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
+tags: ["book-chapter", "module-code-m-fc02", "text-frozen", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 companion_to: il-metodo-bando
 outline_section: 9
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 asset_refs: ["assets/chapter-09/01-mappa-bando-accise-giochi-monopoli.png", "assets/chapter-09/02-filiera-accise-regime-sospensivo.png", "assets/chapter-09/03-prodotti-giochi-monopoli-adm.png", "assets/chapter-09/04-controlli-adm-filiere-regolate.png", "assets/chapter-09/05-checklist-accise-giochi-monopoli.png"]

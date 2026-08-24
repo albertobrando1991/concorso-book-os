@@ -2,21 +2,21 @@
 id: chapter-m-fc02-tutela-processo-tributario
 type: book_chapter
 title: "Tutela e processo tributario"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["processo tributario", "tutela giurisdizionale", "autotutela", "ricorso tributario", "tutela cautelare", "conciliazione"]
 entities: ["Corti di giustizia tributaria", "Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione"]
 source_refs: ["sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md", "sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29.md", "sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md", "sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md", "sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md"]
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-18T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "tax-procedure", "tax-justice"]
+tags: ["book-chapter", "module-code-m-fc02", "text-frozen", "tax-procedure", "tax-justice"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 5b
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

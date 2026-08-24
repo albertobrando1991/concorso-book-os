@@ -65,6 +65,47 @@ export function buildContactSheetRanges(pageCount, sheetSize = 20) {
   return ranges
 }
 
+export async function captureContactSheetsWithStablePagination({
+  ranges,
+  referenceSignature,
+  readSignature,
+  recover,
+  capture
+}) {
+  const ensureCanonicalPagination = async () => {
+    if (await readSignature() === referenceSignature) return
+    await recover()
+    if (await readSignature() !== referenceSignature) {
+      throw new Error("Paginazione canonica non ripristinata")
+    }
+  }
+
+  for (const range of ranges) {
+    await ensureCanonicalPagination()
+    try {
+      await capture(range)
+    } catch (error) {
+      await recover()
+      if (await readSignature() !== referenceSignature) {
+        throw new Error("Paginazione canonica non ripristinata", { cause: error })
+      }
+      await capture(range)
+    }
+    await ensureCanonicalPagination()
+  }
+}
+
+export function visibleRectsContained(rects, bounds, tolerance = 1) {
+  return rects
+    .filter((rect) => rect.width > 0 && rect.height > 0)
+    .every((rect) =>
+      rect.left >= bounds.left - tolerance
+      && rect.right <= bounds.right + tolerance
+      && rect.top >= bounds.top - tolerance
+      && rect.bottom <= bounds.bottom + tolerance
+    )
+}
+
 export function flaggedPageNumbers(issues, explicitPages = []) {
   return [...new Set([
     ...issues.map((issue) => issue.page),
@@ -155,8 +196,11 @@ export function classifyPageDiagnostic(page, context) {
     add("detached-box", value, "media", "tenere box e primo contenuto insieme")
   }
   const whitespaceLimit = Math.max(180, context.medianFreeSpace + 120)
-  const nextBlockCannotFit = Number.isFinite(page.nextFirstBlockHeight)
-    && page.nextFirstBlockHeight > page.freeSpace
+  const nextCandidateHeight = Number.isFinite(page.nextBackfillCandidateHeight)
+    ? page.nextBackfillCandidateHeight
+    : page.nextFirstBlockHeight
+  const nextBlockCannotFit = Number.isFinite(nextCandidateHeight)
+    && nextCandidateHeight + 22 > page.freeSpace
   const exemptWhitespace = page.isSectionTerminal
     || page.sectionType === "front_matter"
     || page.frontMatterLayout === "module-opening"
@@ -212,6 +256,8 @@ export function renderPageAuditMarkdown({
   diagnostics,
   issues
 }) {
+  const volumeId = inferVolumeId(bookId)
+  const volumeTag = volumeId.toLowerCase()
   const registryRows = buildPageRegistryRows(diagnostics, issues)
   const blocking = issues.filter((issue) => issue.severity === "bloccante").length
   const significant = issues.filter((issue) => issue.severity === "media").length
@@ -233,9 +279,9 @@ export function renderPageAuditMarkdown({
     ).join("\n")
 
   return `---
-id: review-vol-07-step-20-page-audit
+id: review-${volumeTag}-step-20-page-audit
 type: review
-title: Audit pagina per pagina - VOL-07
+title: Audit pagina per pagina - ${volumeId}
 status: in-progress
 domain: concorsi pubblici italiani
 topics:
@@ -245,7 +291,7 @@ entities:
   - Amazon KDP
 source_refs: []
 book_refs:
-  - vol-07-sanita-amministrativa-professioni-sanitarie
+  - ${bookId}
 confidence: 1
 updated_at: ${generatedAt}
 created_at: ${generatedAt}
@@ -254,14 +300,14 @@ canonical: false
 tags:
   - pipeline-step-20
   - page-fill
-  - vol-07
+  - ${volumeTag}
 issue_type: page_fill
 severity: ${blocking > 0 ? "high" : significant > 0 ? "medium" : "none"}
 affected_pages:
-  - books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index.md
+  - books/${bookId}/index.md
 ---
 
-# Audit pagina per pagina - VOL-07
+# Audit pagina per pagina - ${volumeId}
 
 ## Sintesi
 
@@ -288,6 +334,12 @@ ${rows}
 - Revisione delle tavole-contatto: in attesa di ispezione completa.
 - Riesecuzione finale: in attesa delle correzioni e del controllo conclusivo.
 `
+}
+
+function inferVolumeId(bookId) {
+  if (bookId === "il-metodo-bando") return "VOL-01"
+  const match = String(bookId).match(/vol-(\d{1,2})/i)
+  return match ? `VOL-${match[1].padStart(2, "0")}` : "VOL-07"
 }
 
 export function validatePageAuditMarkdown(markdown, expectedPageCount) {

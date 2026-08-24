@@ -2,21 +2,21 @@
 id: chapter-m-fc02-sanzioni-amministrative-reati-tributari
 type: book_chapter
 title: "Sanzioni amministrative e reati tributari"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["sanzioni amministrative tributarie", "reati tributari", "illecito tributario", "ravvedimento", "agenzie fiscali"]
 entities: ["Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Agenzia delle Entrate-Riscossione", "Normattiva"]
 source_refs: ["sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md", "sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md", "sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md", "sources/delitti-contro-pa-codice-penale-2026.md"]
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 confidence: 0.91
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-18T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "tax-sanctions", "tax-crimes"]
+tags: ["book-chapter", "module-code-m-fc02", "text-frozen", "tax-sanctions", "tax-crimes"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 5a
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

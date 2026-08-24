@@ -2,14 +2,14 @@
 id: il-metodo-bando
 type: book
 title: "Il Metodo BANDO"
-status: draft
+status: publication_candidate
 domain: "concorsi pubblici italiani"
 topics: ["metodo bando","anatomia del bando","bando decoder","nucleo comune concorsi pubblici","studio concorsi","prove concorsuali","ricettario digitale","moduli specialistici","strategia punteggio prova concorsuale","giorno prova concorso","intervallo tra prove concorsuali","ripasso finale concorsi","caso completo metodo bando","banca dati ufficiale quiz","risposta sintetica concorsuale","confronto istituti simili","simulazioni concorsuali","schede operative studio","taglio priorita studio concorsi","mappe profilo","moduli integrativi","piano 30 60 90 giorni","diario errori","diritto amministrativo","pubblico impiego","trasparenza","anticorruzione","privacy","contabilità pubblica","contratti pubblici","pa digitale"]
 entities: ["Metodo BANDO","Bando Decoder","Moduli Profilo","Piano 30/60/90 giorni","Diario degli errori","inPA","Pubblica amministrazione","ANAC","RUP","D.Lgs. 165/2001","D.Lgs. 150/2009","D.Lgs. 36/2023"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/legge-241-1990-procedimento-amministrativo.md","sources/anac-trasparenza-e-anticorruzione.md","sources/manuale-diritto-amministrativo-lopilato.md","sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md","sources/simulazioni-concorsuali-metodo-bando.md","sources/schede-operative-studio-metodo-bando.md","sources/taglio-priorita-studio-concorsi-metodo-bando.md","sources/strategia-punteggio-prova-concorsuale-metodo-bando.md","sources/giorno-prova-concorso-metodo-bando.md","sources/intervallo-tra-prove-concorsuali-metodo-bando.md","sources/ripasso-finale-concorsi-metodo-bando.md","sources/caso-completo-bando-prova-metodo-bando.md","sources/banca-dati-ufficiale-quiz-metodo-bando.md","sources/risposta-sintetica-domande-aperte-metodo-bando.md","sources/confrontare-istituti-simili-metodo-bando.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.9
-updated_at: 2026-06-27T19:56:28+02:00
+updated_at: 2026-08-21
 created_at: 2026-05-09T01:05:00.000Z
 review_required: true
 canonical: true

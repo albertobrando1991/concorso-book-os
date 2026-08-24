@@ -1,0 +1,28 @@
+{
+  "volumeCode": "VOL-03",
+  "title": "Funzioni centrali, Fisco, Previdenza e Ispettivo",
+  "moduleCodes": ["M-FC01", "M-FC02", "M-FC03"],
+  "candidateVersion": "VOL-03-candidate-2026.08.22.1",
+  "editorialVersion": "1.0.0-candidate",
+  "preparedAt": "2026-08-22",
+  "normativeCutoff": "2026-08-22",
+  "baseCommit": "fedfb0fe49cef4c111f18ac014c77d7eb1e1cd4a",
+  "remoteMainObserved": "c5f3ac01cc896b22563216eede96367235cd8fbe",
+  "branch": "codex/publish-volumes-01-03-05-10-11",
+  "pipeline": {
+    "completedThrough": 23,
+    "humanConfirmationRequiredAt": 24,
+    "status": "candidate_pending_human_confirmation"
+  },
+  "contents": {
+    "chapters": 50,
+    "nuclei": 144,
+    "interiorPages": 738,
+    "trimSizeInches": [6.6933, 9.61]
+  },
+  "interiorPdf": {
+    "file": "vol-03-interior-kdp.pdf",
+    "bytes": 8707611,
+    "sha256": "9703e5135bc09e42878eac2e7303c672bd49266a083b5759a64bcf80503dac75"
+  }
+}

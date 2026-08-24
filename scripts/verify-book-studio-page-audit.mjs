@@ -1,6 +1,7 @@
 import fs from "node:fs/promises"
 import path from "node:path"
 import { chromium } from "@playwright/test"
+import { waitForStableBookPageCount } from "./book-studio-layout-options.mjs"
 import {
   buildContactSheetRanges,
   classifyPageDiagnostic,
@@ -32,18 +33,16 @@ const browser = await launchBrowser()
 const page = await browser.newPage({ viewport: { width: 1500, height: 1050 } })
 
 try {
-  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 180_000 })
-  await page.locator("#studio").waitFor({ state: "visible", timeout: 120_000 })
-  await page.locator("#studio").scrollIntoViewIfNeeded()
-  await page.getByRole("button", { name: "Libro", exact: true }).click()
-  await page.locator(".bookPages .bookPage").first().waitFor({ state: "visible", timeout: 120_000 })
-  await page.evaluate(() => document.fonts.ready)
-  await waitForBookImages(page)
-  const stableSignature = await waitForStablePagination(page)
+  const stableSignature = await openBookStudio(page, url)
+  const pageCountBeforeDiagnostics = await page.locator(".bookPages .bookPage").count()
   const diagnostics = await collectDiagnostics(page)
+  const pageCountAfterDiagnostics = await page.locator(".bookPages .bookPage").count()
 
   if (diagnostics.length !== expectedPageCount) {
-    throw new Error(`Conteggio pagine inatteso: ${diagnostics.length}, atteso ${expectedPageCount}`)
+    throw new Error(
+      `Conteggio pagine inatteso: ${diagnostics.length}, atteso ${expectedPageCount} `
+      + `(prima diagnosi: ${pageCountBeforeDiagnostics}, dopo diagnosi: ${pageCountAfterDiagnostics})`
+    )
   }
 
   const expectedSequence = Array.from({ length: diagnostics.length }, (_, index) => index + 1)
@@ -55,6 +54,7 @@ try {
   if (confirmationSignature !== stableSignature) {
     throw new Error("Paginazione cambiata durante la raccolta diagnostica")
   }
+  await cacheContactSheetPages(page, diagnostics.length)
 
   const eligibleFreeSpace = diagnostics
     .filter((item) => !item.isSectionTerminal && item.sectionType !== "front_matter")
@@ -72,6 +72,13 @@ try {
     await captureContactSheet(page, range, artifactPrefix)
   }
 
+  if (await pageSignature(page) !== stableSignature) {
+    const recoveredSignature = await openBookStudio(page, url)
+    if (recoveredSignature !== stableSignature) {
+      throw new Error("Paginazione canonica non ripristinata dopo le tavole-contatto")
+    }
+  }
+
   const screenshotPages = skipPageScreenshots
     ? []
     : flaggedPageNumbers(issues, explicitScreenshotPages)
@@ -86,6 +93,12 @@ try {
 
   const generatedAt = new Date().toISOString()
   const failures = []
+  const diagnosticsPath = `artifacts/${artifactPrefix}-diagnostics.json`
+  await fs.writeFile(
+    diagnosticsPath,
+    JSON.stringify({ generatedAt, bookId, diagnostics, issues }, null, 2),
+    "utf8"
+  )
 
   if (reportMode === "write") {
     await fs.writeFile(
@@ -109,6 +122,7 @@ try {
     blocking: issues.filter((issue) => issue.severity === "bloccante").length,
     significant: issues.filter((issue) => issue.severity === "media").length,
     medianFreeSpace: context.medianFreeSpace,
+    diagnosticsPath,
     reportMode
   }
 
@@ -183,6 +197,7 @@ async function collectDiagnostics(page) {
           const rects = [figure, image, caption]
             .filter(Boolean)
             .map((element) => element.getBoundingClientRect())
+            .filter((rect) => rect.width > 0 && rect.height > 0)
           return {
             label: `figure ${imageIndex + 1}`,
             loaded: Boolean(image?.complete && image.naturalWidth > 0),
@@ -261,6 +276,7 @@ async function collectDiagnostics(page) {
         nextFirstBlockHeight: nextVisibleBlocks[0]
           ? outerBlockHeight(nextVisibleBlocks[0])
           : 0,
+        nextBackfillCandidateHeight: backfillCandidateHeight(nextVisibleBlocks),
         isFrontMatterContinuation: Boolean(
           previousPage
           && sectionType === "front_matter"
@@ -280,6 +296,14 @@ async function collectDiagnostics(page) {
       return element.getBoundingClientRect().height
         + numberStyle(style.marginTop)
         + numberStyle(style.marginBottom)
+    }
+
+    function backfillCandidateHeight(elements) {
+      if (elements.length === 0) return 0
+      const mustMoveFinalPairTogether = elements.length === 2
+        && elements.every((element) => element.getAttribute("data-block-continued") === "true")
+      const selected = elements.slice(0, mustMoveFinalPairTogether ? 2 : 1)
+      return selected.reduce((total, element) => total + outerBlockHeight(element), 0)
     }
 
     function isVisible(element) {
@@ -423,8 +447,8 @@ async function collectDiagnostics(page) {
 async function captureContactSheet(page, range, prefix) {
   const clonedPages = await page.evaluate(({ pages }) => {
     document.querySelector("#bookAuditContactSheet")?.remove()
-    const sourcePages = Array.from(document.querySelectorAll(".bookPages .bookPage"))
-    const firstRect = sourcePages[0]?.getBoundingClientRect()
+    const sourcePages = window.__bookAuditContactSheetPages || []
+    const firstRect = window.__bookAuditContactSheetPageSize
     if (!firstRect) throw new Error("Nessuna pagina disponibile per la tavola-contatto")
 
     const scale = 0.205
@@ -433,7 +457,7 @@ async function captureContactSheet(page, range, prefix) {
     root.id = "bookAuditContactSheet"
     Object.assign(root.style, {
       position: "absolute",
-      top: `${document.documentElement.scrollHeight + 100}px`,
+      top: "0",
       left: "0",
       display: "grid",
       gridTemplateColumns: "repeat(4, max-content)",
@@ -492,13 +516,47 @@ async function captureContactSheet(page, range, prefix) {
 
   try {
     const sheet = page.locator("#bookAuditContactSheet")
-    await sheet.scrollIntoViewIfNeeded()
+    await waitForImages(page, "#bookAuditContactSheet img")
     await sheet.screenshot({
       path: `artifacts/${prefix}-contact-${pad(range.index, 2)}-pages-${pad(range.start, 3)}-${pad(range.end, 3)}.png`
     })
   } finally {
     await page.evaluate(() => document.querySelector("#bookAuditContactSheet")?.remove())
   }
+}
+
+async function cacheContactSheetPages(page, expectedPageCount) {
+  const cachedPageCount = await page.evaluate(() => {
+    const sourcePages = Array.from(document.querySelectorAll(".bookPages .bookPage"))
+    const firstRect = sourcePages[0]?.getBoundingClientRect()
+    window.__bookAuditContactSheetPages = sourcePages.map((source) => source.cloneNode(true))
+    window.__bookAuditContactSheetPageSize = firstRect
+      ? { width: firstRect.width, height: firstRect.height }
+      : null
+    return window.__bookAuditContactSheetPages.length
+  })
+
+  if (cachedPageCount !== expectedPageCount) {
+    throw new Error(`Snapshot tavole-contatto incompleto: ${cachedPageCount}/${expectedPageCount}`)
+  }
+}
+
+async function openBookStudio(page, url) {
+  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 180_000 })
+  await page.locator("#studio").waitFor({ state: "visible", timeout: 120_000 })
+  await page.evaluate(() => document.querySelector("#studio")?.scrollIntoView({ block: "start" }))
+  await page.getByRole("button", { name: "Libro", exact: true }).click()
+  await page.locator(".bookPages .bookPage").first().waitFor({ state: "visible", timeout: 120_000 })
+  await page.evaluate(() => document.fonts.ready)
+  await waitForBookImages(page)
+  await page.waitForTimeout(Number(process.env.BOOK_STUDIO_RENDER_SETTLE_MS || 25_000))
+  await waitForStableBookPageCount(page, {
+    stableReadings: 4,
+    intervalMs: 500,
+    confirmationDelayMs: 2_000,
+    maxReadings: 40
+  })
+  return waitForStablePagination(page)
 }
 
 async function waitForStablePagination(page) {
@@ -534,7 +592,11 @@ async function pageSignature(page) {
 }
 
 async function waitForBookImages(page) {
-  await page.$$eval(".bookPages img", async (images) => {
+  await waitForImages(page, ".bookPages img")
+}
+
+async function waitForImages(page, selector) {
+  await page.$$eval(selector, async (images) => {
     for (const image of images) image.loading = "eager"
     await Promise.all(images.map(async (image) => {
       if (!image.complete) {

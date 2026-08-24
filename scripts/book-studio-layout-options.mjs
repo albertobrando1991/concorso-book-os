@@ -29,3 +29,42 @@ export function resolveBookStudioLayoutOptions(env = process.env) {
     expectedCounts
   }
 }
+
+export async function waitForStableBookPageCount(page, options = {}) {
+  const selector = options.selector || ".bookPages .bookPage"
+  const stableReadings = options.stableReadings ?? 3
+  const intervalMs = options.intervalMs ?? 250
+  const confirmationDelayMs = options.confirmationDelayMs ?? 1_500
+  const maxReadings = options.maxReadings ?? 20
+  let previous = null
+  let streak = 0
+
+  for (let reading = 0; reading < maxReadings; reading += 1) {
+    const current = await page.locator(selector).count()
+
+    if (current > 0 && current === previous) {
+      streak += 1
+    } else {
+      previous = current
+      streak = current > 0 ? 1 : 0
+    }
+
+    if (streak >= stableReadings) {
+      await page.waitForTimeout(confirmationDelayMs)
+      const confirmation = await page.locator(selector).count()
+      if (confirmation === current) return current
+      previous = confirmation
+      streak = confirmation > 0 ? 1 : 0
+      continue
+    }
+    if (reading < maxReadings - 1) await page.waitForTimeout(intervalMs)
+  }
+
+  throw new Error(
+    "Conteggio pagine Book Studio non stabile dopo " +
+      maxReadings +
+      " letture (ultimo valore: " +
+      (previous ?? 0) +
+      ")"
+  )
+}

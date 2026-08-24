@@ -2,7 +2,7 @@
 id: frontmatter-m-fc03-sommario
 type: front_matter
 title: "Sommario"
-status: source_ready
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["sommario","moduli specialistici","enti pubblici non economici"]
 entities: ["Metodo BANDO","INPS","INAIL"]
@@ -11,13 +11,13 @@ book_refs: ["m-fc03-enti-non-economici","il-metodo-bando"]
 confidence: 0.82
 updated_at: 2026-07-01T20:15:00+02:00
 created_at: 2026-07-01T20:15:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["front-matter","summary","module-code-m-fc03"]
 book_id: m-fc03-enti-non-economici
 outline_section: "FM4"
 front_matter_layout: summary
-draft_stage: source-ready
+draft_stage: final
 module_code: M-FC03
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/moduli/m-fc03-enti-non-economici/planning/00-piano-editoriale.md"]

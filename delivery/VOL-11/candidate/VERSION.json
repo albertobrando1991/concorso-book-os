@@ -2,12 +2,12 @@
   "volumeCode": "VOL-11",
   "title": "Ambiente, protezione civile e sostenibilità",
   "moduleCode": "M-TR04",
-  "candidateVersion": "VOL-11-candidate-2026.08.20.1",
+  "candidateVersion": "VOL-11-candidate-2026.08.21.1",
   "editorialVersion": "1.0.0-candidate",
-  "preparedAt": "2026-08-20",
-  "normativeCutoff": "2026-08-18",
-  "baseCommit": "1014415c4a681c8eea0663319c8fb68e3ac4e5a7",
-  "branch": "agent/sync-volumi-04-05-06-09-20260817",
+  "preparedAt": "2026-08-21",
+  "normativeCutoff": "2026-08-21",
+  "baseCommit": "fedfb0fe49cef4c111f18ac014c77d7eb1e1cd4a",
+  "branch": "codex/publish-volumes-01-03-05-10-11",
   "pipeline": {
     "completedThrough": 23,
     "humanConfirmationRequiredAt": 24,
@@ -16,11 +16,11 @@
   "contents": {
     "chapters": 14,
     "nuclei": 90,
-    "interiorPages": 223,
+    "interiorPages": 225,
     "trimSizeInches": [6.6933, 9.61]
   },
   "interiorPdf": {
     "file": "vol-11-interior-kdp.pdf",
-    "sha256": "0864ac2267d76713b02f21a64be21685c45121e8dd6b2f490f1ba65faa0dafca"
+    "sha256": "83f89a8ac7c9bc950cdd6a7df79526a97dea3641c7a34cc8314da8e5c7f8bdcf"
   }
 }

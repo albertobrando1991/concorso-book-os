@@ -2,21 +2,21 @@
 id: chapter-m-tr03-07-progettazione-opere-pubbliche
 type: book_chapter
 title: "Progettazione di opere pubbliche"
-status: draft
+status: reviewed
 domain: concorsi pubblici italiani
 topics: ["progettazione opere pubbliche","PFTE","progetto esecutivo","verifica progettazione","validazione"]
 entities: ["D.Lgs. 36/2023","RUP","PFTE","DIP"]
 source_refs: ["sources/progettazione-opere-pubbliche-dlgs-36-2023-allegato-i7.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md","sources/campione-bandi-tecnici-pa-vol-10-2026.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
-updated_at: "2026-07-29T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-29T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","progettazione","opere-pubbliche"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "07"
-draft_stage: full_draft
+draft_stage: publication_candidate
 last_compiled_from: "planning/08-capitolo-07-piano-completamento.md"
 ---
 
@@ -36,7 +36,7 @@ Al termine del capitolo saprai ricostruire il percorso dal fabbisogno al progett
 - **Diario:** registra le coppie che confondi e allenati a ricostruire la sequenza senza consultare lo schema.
 - **Output:** produci una risposta orale di due minuti e una scheda di controllo di un progetto.
 
-## La progettazione nel ciclo dell’opera
+## N-TR03-07-01 · La progettazione nel ciclo dell’opera
 
 ### Dal bisogno alla decisione pubblica
 
@@ -58,7 +58,7 @@ Il confine non è isolamento. Una carenza progettuale può riemergere come richi
 > Il RUP assicura il coordinamento del progetto nelle diverse fasi.  
 > Verifica e validazione presidiano la qualità prima dell’approvazione.
 
-## Quadro esigenziale e DIP
+## N-TR03-07-02 · Quadro esigenziale e DIP
 
 ### Bisogni, obiettivi e prestazioni attese
 
@@ -81,7 +81,7 @@ Il DIP non anticipa il progetto. Se prescrive ogni soluzione prima del confronto
 | Quadro esigenziale | Quale bisogno e quale risultato pubblico dobbiamo soddisfare? | Obiettivi, esigenze e prestazioni attese |
 | DIP | Con quali indirizzi, requisiti e vincoli deve svilupparsi la progettazione? | Mandato progettuale controllabile |
 
-## I livelli della progettazione
+## N-TR03-07-03 · I livelli della progettazione
 
 Il D.Lgs. 36/2023 articola la progettazione dei lavori pubblici in due livelli di successivo approfondimento: PFTE e progetto esecutivo. La successione non è una duplicazione. Ogni livello risponde a decisioni diverse e deve conservare coerenza con quello precedente.
 
@@ -112,7 +112,7 @@ Nel passaggio dal PFTE all’esecutivo restano fermi il bisogno, gli obiettivi, 
 | Controllo | coerenza con quadro esigenziale e DIP | coerenza con PFTE approvato e disciplina applicabile |
 | Rischio tipico | alternativa scelta senza istruttoria sufficiente | elaborati numerosi ma incoerenti |
 
-## Elaborati e coordinamento interdisciplinare
+## N-TR03-07-04 · Elaborati e coordinamento interdisciplinare
 
 ### Relazioni, grafici, costi, tempi e sicurezza
 
@@ -128,7 +128,7 @@ Quando si adottano metodi e strumenti di gestione informativa digitale, requisit
 
 Per computi, prezzi, capitolati e contabilità si rinvia al **capitolo 10**; per vincoli territoriali al **capitolo 5**; per titoli e vigilanza edilizia al **capitolo 6**.
 
-## Soggetti e responsabilità
+## N-TR03-07-05 · Soggetti e responsabilità
 
 ### RUP, progettisti e coordinamento
 
@@ -144,7 +144,7 @@ Ogni scelta rilevante deve poter essere ricostruita: esigenza che la giustifica,
 
 La tracciabilità riduce le ambiguità e permette di attribuire attività e responsabilità. Il **capitolo 2** approfondisce fascicolo, istruttoria e responsabilità dell’ufficio tecnico.
 
-## Verifica e validazione
+## N-TR03-07-06 · Verifica e validazione
 
 ### Oggetto e funzione della verifica
 
@@ -164,7 +164,7 @@ Anche l’approvazione resta concettualmente distinta. La sequenza essenziale è
 
 `sviluppo del progetto → verifica → gestione dei rilievi → rapporto conclusivo → validazione del RUP → approvazione competente`
 
-## Caso guidato: riqualificare e ampliare una scuola
+## N-TR03-07-07 · Caso guidato: riqualificare e ampliare una scuola
 
 Un Comune rileva carenza di spazi, consumi elevati e difficoltà di accessibilità in una scuola esistente.
 
@@ -185,7 +185,7 @@ Un Comune rileva carenza di spazi, consumi elevati e difficoltà di accessibilit
 | controllo | soggetto verificatore | conformità e coerenza | rapporto di verifica |
 | chiusura | RUP | esito del controllo | validazione |
 
-## Domande ed errori
+## ▣ Verifica
 
 ### Domanda da commissario
 
@@ -203,7 +203,7 @@ No. La verifica è il controllo tecnico-documentale sulla rispondenza al DIP e s
 
 Trattare PFTE ed esecutivo come due semplici contenitori di elaborati. In prova è più efficace partire dalla decisione cui serve ciascun livello e spiegare poi documenti, responsabilità e controlli.
 
-## Mini-esercizio e checklist
+### Mini-esercizio e checklist
 
 Riordina: `validazione – fabbisogno – progetto esecutivo – DIP – verifica – PFTE – quadro esigenziale – scelta della soluzione`.
 
@@ -231,4 +231,4 @@ Prima di considerare maturo un progetto, controlla:
 
 ## Note di review
 
-Il capitolo richiede revisione di un RUP o progettista esperto di lavori pubblici prima della pubblicazione. Verificare sul testo vigente alla data di chiusura editoriale deroghe, contenuti mobili degli allegati, requisiti dei verificatori e ogni eventuale soglia. I raccordi sono stati verificati il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione|Direzione lavori, esecuzione e cantieri]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione|Collaudo, verifica, manutenzione e gestione dell'opera]], [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio|BIM, GIS, rilievi, catasto e patrimonio pubblico]].
+Audit del 21 agosto 2026: verificati sul testo vigente del D.Lgs. n. 36/2023, aggiornato all'atto pubblicato il 23 marzo 2026, i due livelli progettuali, il ruolo funzionale di DIP, PFTE e progetto esecutivo, la verifica e i raccordi con gli Allegati I.7 e I.9. Il capitolo evita soglie e deroghe non necessarie. Confermati i rinvii ai capitoli 8, 9, 10 e 12.

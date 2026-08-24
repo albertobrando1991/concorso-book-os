@@ -2,16 +2,16 @@
 id: didactic-coverage-matrix-m-fc02
 type: review
 title: "Matrice di copertura didattica - M-FC02 Agenzie fiscali"
-status: working
+status: final
 domain: concorsi-pubblici
 topics: [copertura-didattica-integrale, agenzie-fiscali]
 entities: [Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli, Agenzia delle Entrate-Riscossione]
 source_refs: [principio-copertura-didattica-integrale-2026-07-17, bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]
 book_refs: [m-fc02-agenzie-fiscali]
 confidence: 0.9
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-17
-review_required: true
+review_required: false
 canonical: false
 tags: [matrice, copertura-didattica, m-fc02]
 ---

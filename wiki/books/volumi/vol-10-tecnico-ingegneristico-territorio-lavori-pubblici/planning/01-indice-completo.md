@@ -2,14 +2,14 @@
 id: vol-10-indice-completo
 type: book_outline
 title: "Indice completo VOL-10"
-status: source-ready
+status: reviewed
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["vol-10-tecnico-ingegneristico-territorio-lavori-pubblici", "m-tr03-tecnico-ingegneristico"]
-confidence: 0.79
-updated_at: 2026-07-29
+confidence: 0.94
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["outline", "vol-10", "m-tr03"]
 ---
@@ -20,57 +20,52 @@ tags: ["outline", "vol-10", "m-tr03"]
 
 `VOL-10` contiene il solo modulo `M-TR03 — Tecnico-ingegneristico`. Le cinque parti seguenti sono sezioni didattiche interne. Il front matter compare una sola volta all’inizio del volume.
 
-## Front matter
+## Front matter canonico
 
-1. Come usare `VOL-01 + VOL-10`.
-2. A chi serve e quali profili copre.
-3. Cosa non contiene e dove rinvia.
-4. Mappa profilo–materia–prova.
-5. Tre bandi tecnici decodificati, dopo acquisizione ufficiale.
-6. Piano 30/60/90 giorni per percorso junior, urbanistico e infrastrutturale.
+1. Servizi digitali inclusi.
+2. Frontespizio.
+3. Copyright e note editoriali.
+4. Sommario.
+5. Premessa.
+6. Indice completo, con capitoli e 88 nuclei numerati.
 
-Target: 2.000–2.600 parole.
+Il Book Studio genera il front matter dal catalogo e dalla struttura reale del volume. Profili, uso combinato con `VOL-01`, perimetro e prove sono sviluppati nei capitoli 1, 2 e 13, evitando duplicazioni introduttive.
 
 ## Modulo M-TR03 — Parte I: profili, ufficio e atti tecnici
 
-1. **Il concorso tecnico nella PA: profili, enti e prove** — ingegnere, architetto, geometra, tecnico comunale/ministeriale e specialista infrastrutture; Bando Decoder tecnico; output: matrice profilo–materia–prova. Target: 1.600 parole.
-2. **Ufficio tecnico pubblico, responsabilità e atti tecnici** — procedimento applicato, sopralluogo, relazione, verbale, conferenza di servizi e responsabilità di ruolo; output: mappa ufficio–procedimento–atto. Target: 2.000 parole.
+1. **Il concorso tecnico nella PA: profili, enti e prove** — ingegnere, architetto, geometra, tecnico comunale/ministeriale e specialista infrastrutture; Bando Decoder tecnico; output: matrice profilo–materia–prova.
+2. **Ufficio tecnico pubblico, responsabilità e atti tecnici** — procedimento applicato, sopralluogo, relazione, verbale, conferenza di servizi e responsabilità di ruolo; output: mappa ufficio–procedimento–atto.
 
 ## Modulo M-TR03 — Parte II: costruzioni, territorio ed edilizia
 
-3. **Scienza e tecnica delle costruzioni per concorsi** — materiali, azioni, equilibrio, resistenza, stabilità e durabilità; output: quiz tecnici e schema orale. Target: 2.500 parole.
-4. **NTC, sismica, geotecnica e sicurezza strutturale** — principi NTC, vita nominale, classi d’uso, azione sismica, terreni, fondazioni, verifiche e collaudo statico; output: tavole operative. Target: 2.700 parole.
-5. **Urbanistica e governo del territorio** — pianificazione, livelli di piano, standard, vincoli, espropriazione e interfaccia paesaggistica; output: caso piano–intervento. Target: 2.400 parole.
-6. **Edilizia privata, SUE, titoli abilitativi e vigilanza** — categorie di intervento, CILA, SCIA, permesso, agibilità, abusi e controlli; output: caso guidato e griglia titoli. Target: 2.700 parole.
+3. **Scienza e tecnica delle costruzioni per concorsi** — materiali, azioni, equilibrio, resistenza, stabilità e durabilità; output: quiz tecnici e schema orale.
+4. **NTC, sismica, geotecnica e sicurezza strutturale** — principi NTC, vita nominale, classi d’uso, azione sismica, terreni, fondazioni, verifiche e collaudo statico; output: tavole operative.
+5. **Urbanistica e governo del territorio** — pianificazione, livelli di piano, standard, vincoli, espropriazione e interfaccia paesaggistica; output: caso piano–intervento.
+6. **Edilizia privata, SUE, titoli abilitativi e vigilanza** — categorie di intervento, CILA, SCIA, permesso, agibilità, abusi e controlli; output: caso guidato e griglia titoli.
 
 ## Modulo M-TR03 — Parte III: ciclo tecnico dell’opera pubblica
 
-7. **Progettazione di opere pubbliche** — quadro esigenziale, documento di indirizzo, PFTE, progetto esecutivo, verifiche e interfaccia con il Codice; output: flusso di progetto. Target: 2.300 parole.
-8. **Direzione lavori ed esecuzione** — ruoli, consegna, ordini di servizio, controlli, varianti, sospensioni e riserve nell’ottica tecnica; output: checklist DL. Target: 2.300 parole.
-9. **Collaudo, verifica, manutenzione e gestione dell’opera** — collaudo tecnico-amministrativo e statico, certificati, piano di manutenzione e ciclo di vita; output: scheda di collaudo. Target: 2.100 parole.
-10. **Computi, capitolati e contabilità lavori** — elenco prezzi, analisi prezzi, computo metrico estimativo, capitolati, libretti, registri, SAL e conto finale; output: mini-computo e SAL guidato. Target: 2.500 parole.
+7. **Progettazione di opere pubbliche** — quadro esigenziale, documento di indirizzo, PFTE, progetto esecutivo, verifiche e interfaccia con il Codice; output: flusso di progetto.
+8. **Direzione lavori, esecuzione e cantieri** — ruoli, consegna, ordini di servizio, controlli, varianti, sospensioni e riserve nell’ottica tecnica; output: checklist DL.
+9. **Collaudo, verifica, manutenzione e gestione dell’opera** — collaudo tecnico-amministrativo e statico, certificati, piano di manutenzione e ciclo di vita; output: scheda di collaudo.
+10. **Computi, capitolati e contabilità dei lavori** — elenco prezzi, analisi prezzi, computo metrico estimativo, capitolati, libretti, registri, SAL e conto finale; output: mini-computo e SAL guidato.
 
 ## Modulo M-TR03 — Parte IV: infrastrutture e patrimonio digitale
 
-11. **Infrastrutture, viabilità, ponti e monitoraggio** — strade, opere d’arte, trasporti, classificazione del rischio, ispezioni e manutenzione; output: checklist rischio–monitoraggio. Target: 2.400 parole.
-12. **BIM, GIS, rilievi, catasto e patrimonio pubblico** — gestione informativa, dati territoriali, rilievo, mappe, inventario e manutenzione patrimoniale; output: mappa dato–opera–decisione. Target: 2.100 parole.
+11. **Infrastrutture, viabilità, ponti e monitoraggio** — strade, opere d’arte, trasporti, classificazione del rischio, ispezioni e manutenzione; output: checklist rischio–monitoraggio.
+12. **BIM, GIS, rilievi, catasto e patrimonio pubblico** — gestione informativa, dati territoriali, rilievo, mappe, inventario e manutenzione patrimoniale; output: mappa dato–opera–decisione.
 
 ## Modulo M-TR03 — Parte V: laboratorio
 
-13. **Laboratorio delle prove tecniche** — scritto tecnico, prova scritto-grafica, caso, computo, sopralluogo, relazione e orale; almeno otto casi, simulazione e diario degli errori. Target: 2.300 parole.
+13. **Laboratorio delle prove tecniche** — scritto tecnico, prova scritto-grafica, caso, computo, sopralluogo, relazione e orale; almeno otto casi, simulazione e diario degli errori.
 
-## Appendici operative
+## Apparati operativi incorporati
 
-- **A. NTC, sismica e geotecnica in tavole** — 1.000 parole equivalenti.
-- **B. Urbanistica ed edilizia: titoli, atti ed errori** — 1.100.
-- **C. Computo, capitolato, SAL e collaudo** — 1.100.
-- **D. BIM/GIS per la PA tecnica** — 900.
-- **E. Ponti, strade e infrastrutture** — 800.
-- **F. Piano 30/60/90 giorni tecnico** — 500.
+Le tavole concettuali, le griglie su edilizia e opere pubbliche, i casi di computo e collaudo, le checklist su infrastrutture e dati e il piano di allenamento sono incorporati nei capitoli pertinenti. Non esistono appendici autonome del volume: questa scelta elimina rinvii interni non risolvibili e mantiene teoria, applicazione e verifica nello stesso contesto.
 
-## Target e controllo di completezza
+## Consistenza e controllo di completezza
 
-Target editoriale orientativo: 34.500–36.600 parole, di cui circa 28.000–28.600 nei capitoli e 5.400 nelle appendici. La lunghezza non dimostra completezza: ogni nucleo resta bloccato finché la matrice non attesta teoria, applicazione, output, verifica e fonti.
+Il testo reader-facing consta di circa 25.000 parole in 13 capitoli e 88 nuclei. La completezza non è dedotta dalla lunghezza: la matrice v4 del modulo attesta teoria, applicazione, output, verifica e fonti per tutti i nuclei, senza stati parziali, solo nominati o mancanti.
 
 ## Rinvii verificabili
 

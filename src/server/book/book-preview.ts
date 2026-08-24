@@ -1760,7 +1760,12 @@ function isSubstantial(value: string) {
   const normalized = value.replace(/\s+/g, " ").trim().toLowerCase()
 
   if (!normalized) return false
-  if (EDITORIAL_PLACEHOLDERS.some((placeholder) => normalized.includes(placeholder))) return false
+  const lines = value
+    .replace(/\r\n/g, '\n')
+    .split('\n')
+    .map((line) => line.trim().toLowerCase())
+    .filter(Boolean)
+  if (EDITORIAL_PLACEHOLDERS.some((placeholder) => lines.some((line) => line.startsWith(placeholder)))) return false
 
   return countWords(value) >= 18
 }

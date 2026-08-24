@@ -2,11 +2,13 @@ import { describe, expect, it } from "vitest"
 import {
   buildContactSheetRanges,
   buildPageRegistryRows,
+  captureContactSheetsWithStablePagination,
   classifyPageDiagnostic,
   flaggedPageNumbers,
   PAGE_AUDIT_TYPOGRAPHY,
   renderPageAuditMarkdown,
   resolvePageAuditOptions,
+  visibleRectsContained,
   validatePageAuditMarkdown
 } from "@/scripts/book-studio-page-audit-core.mjs"
 import type {
@@ -115,7 +117,53 @@ describe("contact sheet coverage", () => {
   })
 })
 
+describe("stable contact sheet capture", () => {
+  it("recovers the canonical pagination before retrying a failed sheet", async () => {
+    let signature = "canonical"
+    const captured: number[] = []
+    let firstAttempt = true
+
+    await captureContactSheetsWithStablePagination({
+      ranges: [{ index: 1 }, { index: 2 }],
+      referenceSignature: "canonical",
+      readSignature: async () => signature,
+      recover: async () => { signature = "canonical" },
+      capture: async (range: { index: number }) => {
+        if (range.index === 2 && firstAttempt) {
+          firstAttempt = false
+          signature = "missing-last-page"
+          throw new Error("Pagina finale assente")
+        }
+        captured.push(range.index)
+      }
+    })
+
+    expect(captured).toEqual([1, 2])
+  })
+
+  it("stops when recovery cannot restore the canonical pagination", async () => {
+    await expect(captureContactSheetsWithStablePagination({
+      ranges: [{ index: 1 }],
+      referenceSignature: "canonical",
+      readSignature: async () => "changed",
+      recover: async () => undefined,
+      capture: async () => undefined
+    })).rejects.toThrow("Paginazione canonica non ripristinata")
+  })
+})
+
 describe("page diagnostic classification", () => {
+  it("ignores zero-sized accessibility captions in image containment", () => {
+    const bounds = { left: 10, right: 100, top: 20, bottom: 200 }
+    expect(visibleRectsContained([
+      { left: 20, right: 80, top: 30, bottom: 90, width: 60, height: 60 },
+      { left: 0, right: 0, top: 0, bottom: 0, width: 0, height: 0 }
+    ], bounds)).toBe(true)
+    expect(visibleRectsContained([
+      { left: 5, right: 80, top: 30, bottom: 90, width: 75, height: 60 }
+    ], bounds)).toBe(false)
+  })
+
   it.each([
     ["page-number", { printedNumber: 2 }],
     ["page-size", { width: 620 }],
@@ -282,6 +330,21 @@ describe("page registry and Markdown report", () => {
     expect(markdown).toContain("<!-- page-audit-registry:start -->")
     expect(markdown).toContain("| 1 | nessuno | pagina | nessuna | nessuna | conforme |")
     expect(markdown).toContain("<!-- page-audit-registry:end -->")
+  })
+
+  it("renders volume-specific metadata for Il Metodo BANDO", () => {
+    const markdown = renderPageAuditMarkdown({
+      generatedAt: "2026-08-22T10:00:00+02:00",
+      bookId: "il-metodo-bando",
+      diagnostics: [basePage()],
+      issues: []
+    })
+
+    expect(markdown).toContain("id: review-vol-01-step-20-page-audit")
+    expect(markdown).toContain("title: Audit pagina per pagina - VOL-01")
+    expect(markdown).toContain("  - il-metodo-bando")
+    expect(markdown).toContain("  - books/il-metodo-bando/index.md")
+    expect(markdown).not.toContain("VOL-07")
   })
 
   it("rejects missing pages, open outcomes, and missing execution evidence", () => {

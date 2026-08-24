@@ -2,22 +2,22 @@
 id: chapter-m-fc05-01-authority-viste-dal-candidato
 type: book_chapter
 title: "Le authority viste dal candidato"
-status: professional_draft
+status: final
 domain: concorsi pubblici italiani
 topics: ["authority indipendenti", "regolazione", "concorsi authority", "metodo bando", "funzioni centrali"]
 entities: ["AGCM", "ARERA", "AGCOM", "CONSOB", "Banca d'Italia", "IVASS", "Garante per la protezione dei dati personali", "ANAC", "Metodo BANDO"]
 source_refs: ["sources/vol-05-dossier-editoriale-authority-regolazione-v4.md", "sources/vol-05-bandi-authority-2022-2025.md", "sources/authority-indipendenti-leggi-istitutive.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc05", "professional-draft", "authority"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 1
 volume_chapter: 1
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -28,46 +28,18 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/03-percorsi-g-e-p.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/04-nucleo-comune-delta-authority.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/05-bando-decoder-authority.png"
+format_version: 2
+dati_operativi: []
 ---
-
 # Le authority viste dal candidato
 
-## Specifica struttura madre
-
-### Obiettivo
-
-Costruire la mappa iniziale del VOL-05: distinguere autorità, settore, fonte del potere, profilo concorsuale, prova e output richiesto. Il capitolo non anticipa la disciplina analitica dei singoli comparti; insegna a scegliere il percorso di studio corretto.
-
-### Nuclei
-
-- Funzione delle authority e differenza rispetto a ministero, ente pubblico e amministrazione ordinaria.
-- Catena di lettura: fonte attributiva, interesse protetto, potere, procedimento, decisione e controllo.
-- Profili G, E e P e relativi percorsi.
-- Lettura dei bandi e separazione tra materie comuni VOL-01 e contenuti specialistici VOL-05.
-- Metodo BANDO applicato alle prove delle authority.
-
-### Output operativo
-
-Mappa authority–settore–potere; Bando Decoder M-FC05; risposta orale introduttiva; griglia di priorità del piano di studio.
-
-### Riferimenti consolidati
-
-- [[sources/vol-05-dossier-editoriale-authority-regolazione-v4]]
-- [[sources/vol-05-bandi-authority-2022-2025]]
-- [[sources/authority-indipendenti-leggi-istitutive]]
-- [[sources/regolazione-ue-digitale-e-finanziaria-vol-05]]
-- [[topics/authority-indipendenti-regolazione]]
-- [[entities/agcm]], [[entities/arera]], [[entities/agcom]], [[entities/consob]]
-
-## Scheda di lavoro
+## N-MF05-01-01 · Quadro e criterio di lettura
 
 Il candidato che legge la parola *authority* tende a commettere uno di due errori. Il primo è considerare tutte le autorità identiche e studiare un elenco di sigle. Il secondo è isolarsi in un solo settore senza capire quale parte del metodo, del procedimento e dell'economia della regolazione sia riutilizzabile. Entrambi gli errori fanno perdere tempo.
 
 La domanda che orienta il capitolo è questa:
 
 > quale interesse tutela l'autorità indicata dal bando, con quali poteri e attraverso quale tipo di lavoro dovrò dimostrare di ragionare?
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -110,6 +82,8 @@ Per prepararti, non chiederti subito: «Quali articoli devo memorizzare?». Part
 | Quale procedimento entra in gioco? | Consultazione, istruttoria, reclamo, segnalazione, controllo o procedura sanzionatoria. | Guida l'ordine della risposta scritta. |
 | Quale output chiede il bando? | Quesito, caso, schema di atto, analisi, memo o colloquio. | Decide come allenarti. |
 
+## N-MF05-01-02 · Istituti e distinzioni
+
 Questa sequenza è il filo conduttore dell'intero volume:
 
 > fonte → interesse protetto → potere → procedimento → decisione o rimedio → controllo.
@@ -145,6 +119,8 @@ La tabella seguente serve a orientare lo studio. Non sostituisce le pagine istit
 La funzione della tabella è selettiva. Se il bando riguarda un funzionario giuridico AGCM, non devi iniziare da Solvency II. Se il profilo è economico-regolatorio ARERA, non puoi rinviare economia della regolazione alla fine dello studio. Se il concorso è AGCOM con prova su nuove tecnologie e lingua, devi aggiungere piattaforme e memo tecnico, ma non trasformare il percorso in un corso di ingegneria informatica. Il volume ti aiuta a fare queste scelte; il bando le rende obbligatorie.
 
 ![Figura 1.2 — Authority, settori e poteri: l'interesse protetto orienta la selezione delle materie e delle funzioni da studiare.](../assets/chapter-01/02-authority-settori-poteri.png)
+
+## N-MF05-01-03 · Poteri, procedura e conseguenze
 
 *Figura 1.2 — La sigla dell'ente è solo il punto di partenza: la preparazione nasce dalla relazione tra settore, interesse e potere.*
 
@@ -184,7 +160,7 @@ Compila il Decoder prima di dividere le ore di studio. Un piano corretto non dic
 
 ### Materie comuni e contenuti specialistici
 
-Il VOL-05 è complementare ai capitoli del [[books/il-metodo-bando/index|VOL-01]] su [[books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato|costituzione e ordinamento dello Stato]], [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati|diritto amministrativo operativo]], [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa|pubblico impiego e organizzazione della PA]], [[books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy|trasparenza, anticorruzione e privacy]], [[books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali|informatica e PA digitale]], [[books/il-metodo-bando/chapters/inglese-concorsuale-essenziale|inglese concorsuale essenziale]] e [[books/il-metodo-bando/chapters/logica-comprensione-ragionamento|logica, comprensione e ragionamento]]. Non ripete queste materie nella loro parte fondativa, ma le richiama quando servono per capire un'autorità.
+Il VOL-05 è complementare ai capitoli del  su , , , , ,  e . Non ripete queste materie nella loro parte fondativa, ma le richiama quando servono per capire un'autorità.
 
 | Base da richiamare nel VOL-01 | Delta specialistico nel VOL-05 |
 |---|---|
@@ -196,6 +172,8 @@ Il VOL-05 è complementare ai capitoli del [[books/il-metodo-bando/index|VOL-01]
 
 La regola è semplice: la base risponde alla domanda «che cos'è un procedimento?». Il volume specialistico risponde alla domanda «come funziona un procedimento quando l'autorità raccoglie evidenze, consulta il mercato, istruisce una violazione o adotta una misura nel proprio settore?». Se una spiegazione di base è già completa nel VOL-01, il capitolo rinvia; se il bando chiede l'applicazione settoriale, il capitolo la sviluppa.
 
+## N-MF05-01-04 · Applicazione alla prova
+
 ![Figura 1.5 — Nucleo comune e delta authority: dalla base generale all'applicazione specialistica e all'output della prova.](../assets/chapter-01/04-nucleo-comune-delta-authority.png)
 
 *Figura 1.5 — La risposta concorsuale utile nasce dal collegamento tra categoria generale, applicazione settoriale e richiesta concreta della prova.*
@@ -204,7 +182,7 @@ La regola è semplice: la base risponde alla domanda «che cos'è un procediment
 
 **Traccia.** Un candidato trova un bando per un profilo economico-regolatorio. Nel programma compaiono energia, mercati, tariffe, regolazione, analisi dei dati, diritto UE e inglese. Decide di acquistare un manuale generale di diritto amministrativo e di ripassare soltanto definizioni di economia.
 
-**Analisi.** Il candidato ha riconosciuto alcune aree, ma non ha costruito il profilo. Diritto amministrativo e inglese sono basi necessarie, ma non sono il centro del programma. Il bando chiede di collegare servizi regolati, incentivi, tariffa, qualità, evidenze e decisione. Il percorso corretto è E: ripasso selettivo dei capitoli del VOL-01 su [[books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati|procedimento]], [[books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato|fonti UE]] e [[books/il-metodo-bando/chapters/inglese-concorsuale-essenziale|inglese]]; [[books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir|Capitolo 4]] per il ciclo regolatorio e [[books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita|Capitolo 7]] per l'economia; [[books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe|Capitolo 9]] per ARERA; [[books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority|laboratorio]] su consultazione e analisi tariffaria.
+**Analisi.** Il candidato ha riconosciuto alcune aree, ma non ha costruito il profilo. Diritto amministrativo e inglese sono basi necessarie, ma non sono il centro del programma. Il bando chiede di collegare servizi regolati, incentivi, tariffa, qualità, evidenze e decisione. Il percorso corretto è E: ripasso selettivo dei capitoli del VOL-01 su ,  e ;  per il ciclo regolatorio e  per l'economia;  per ARERA;  su consultazione e analisi tariffaria.
 
 **Soluzione operativa.** Nel Bando Decoder il candidato annota: settore = servizi pubblici regolati; poteri = regolazione e controllo; prova = output analitico da verificare nel bando; nuclei = tariffa, qualità, dati, incentivi, consultazione; esercizio = nota di duecento parole che distingua costo, qualità del servizio e tutela dell'utente. Solo dopo stabilisce il calendario.
 
@@ -238,19 +216,46 @@ Scegli il bando che stai preparando e completa in dieci minuti questa scheda:
 
 Poi esponi a voce, in novanta secondi, la catena «fonte, interesse, potere, procedimento, decisione, controllo». Se non riesci a completarla senza saltare dal nome dell'ente alla sanzione, il nucleo del capitolo deve essere ripassato.
 
-### Riferimenti consolidati
+### Laboratorio di qualificazione
 
-- [[sources/vol-05-dossier-editoriale-authority-regolazione-v4]]
-- [[sources/vol-05-bandi-authority-2022-2025]]
-- [[sources/authority-indipendenti-leggi-istitutive]]
-- [[sources/regolazione-ue-digitale-e-finanziaria-vol-05]]
-- [[topics/authority-indipendenti-regolazione]]
-- [[topics/concorrenza-servizi-comunicazioni-regolati]]
-- [[topics/vigilanza-finanziaria-privacy-integrita]]
-- [[entities/agcm]], [[entities/arera]], [[entities/agcom]], [[entities/consob]], [[entities/banca-ditalia]], [[entities/ivass]], [[entities/garante-protezione-dati-personali]], [[entities/anac]]
+Per allenare perimetro delle authority, parti da un fascicolo minimo: una richiesta, due documenti non perfettamente coerenti e una fonte che attribuisce il potere. Scrivi in colonne separate i fatti provati, le allegazioni e gli elementi ancora da acquisire. Poi confronta distinzione dagli altri enti pubblici con profili giuridico, economico e policy: annota soggetto, presupposto, funzione ed effetto di ciascun istituto. Il confronto impedisce di scegliere la soluzione soltanto perché una parola della traccia ricorda una definizione studiata.
 
-### Note di review
+Passa quindi a lettura del bando. Indica chi avvia l'attività, quali garanzie devono essere rispettate e quale atto può chiuderla. Se la fonte lascia un margine di valutazione, rendi espliciti i criteri: gravità, durata, diffusione, rischio, collaborazione e proporzionalità, secondo il settore applicabile. Collega materie comuni e specialistiche al documento che ne permette la verifica e tratta piano di studio come una conclusione da motivare, non come un'etichetta. La scheda è completa quando un secondo lettore può ricostruire il percorso senza conoscere l'intenzione di chi l'ha compilata.
 
-- Verificare, per il bando effettivamente scelto, programma, allegati, forma delle prove, titoli e criteri di valutazione: il campione non è una fonte sostitutiva.
-- Aggiornare al cut-off i regolamenti del personale e l'assetto degli organi di ciascuna autorità.
-- Acquisire dal portale ufficiale il programma dei bandi Banca d'Italia e ANAC prima di redigere le relative simulazioni specifiche.
+## N-MF05-01-05 · Consolidamento e verifica
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito perimetro delle authority senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra distinzione dagli altri enti pubblici e profili giuridico, economico e policy poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a lettura del bando giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di materie comuni e specialistiche e quale conseguenza produrrebbe su piano di studio. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama perimetro delle authority?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** distinzione dagli altri enti pubblici e profili giuridico, economico e policy possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato lettura del bando nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di materie comuni e specialistiche?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su piano di studio?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama perimetro delle authority e chiede un intervento immediato su piano di studio. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere distinzione dagli altri enti pubblici da profili giuridico, economico e policy e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta lettura del bando, si collega materie comuni e specialistiche al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

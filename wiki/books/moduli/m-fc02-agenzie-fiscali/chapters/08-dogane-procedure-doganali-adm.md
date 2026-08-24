@@ -2,7 +2,7 @@
 id: chapter-m-fc02-dogane-procedure-doganali-adm
 type: book_chapter
 title: "Dogane e procedure doganali ADM"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["dogane", "procedure doganali", "adm", "diritto ue", "origine", "valore", "classificazione"]
 entities: ["Agenzia delle Dogane e dei Monopoli", "Unione europea", "Commissione europea"]
@@ -16,14 +16,14 @@ asset_refs:
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 companion_to: il-metodo-bando
 confidence: 0.95
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
+tags: ["book-chapter", "module-code-m-fc02", "text-frozen", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 8
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/dogane-accise-giochi-monopoli-adm-m-fc02.md", "wiki/sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md", "wiki/sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17.md", "wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md", "wiki/topics/dogane-accise-monopoli-adm.md", "wiki/entities/agenzia-delle-dogane-e-dei-monopoli.md"]

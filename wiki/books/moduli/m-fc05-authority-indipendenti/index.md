@@ -2,26 +2,26 @@
 id: m-fc05-authority-indipendenti
 type: specialist_module
 title: "M-FC05 - Authority indipendenti"
-status: professional_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/m-fc05-verifica-normativa-2026-07-29.md","sources/vol-05-bandi-authority-2022-2025.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.85
-updated_at: 2026-07-29T00:00:00+02:00
+updated_at: 2026-08-22T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module","module-family-funzioni-centrali","module-code-m-fc05","scaffold"]
 book_id: m-fc05-authority-indipendenti
 module_code: M-FC05
 module_family: funzioni-centrali
 module_family_title: "Funzioni Centrali"
-module_status: professional_draft
+module_status: final
 roadmap_phase: "4"
 companion_to: il-metodo-bando
-draft_stage: professional-draft
+draft_stage: frozen
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md", "wiki/books/vol-05-authority-regolazione/index.md"]
 ---
 
@@ -35,12 +35,12 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-FC05
 - Copertura: Autorita indipendenti, regolazione, vigilanza e concorsi ad alta specializzazione.
 - Fase roadmap: 4
-- Stato: bozza professionale completa dei capitoli 1–15; revisione editoriale conclusa, verifica normativa generale eseguita al 29 luglio 2026 e prova interna di impaginazione completata. Il corpus conserva bandi ufficiali rappresentativi per le authority trattate; resta soltanto la firma editoriale-normativa umana.
+- Stato: corpus professionale completo dei capitoli 1–15, in revisione editoriale strutturale secondo la pipeline dei 25 prompt. Il precedente via libera del 29 luglio 2026 è storico; il testo viene ricertificato su copertura, fonti, naturalezza e impaginazione prima del pacchetto candidato.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source note consolidate e gate specialistico documentato; la conferma umana resta limitata allo step finale della pipeline.
 
 ## Indice e piano di lavoro
 

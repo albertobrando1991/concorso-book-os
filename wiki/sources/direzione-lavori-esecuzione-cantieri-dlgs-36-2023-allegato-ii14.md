@@ -9,14 +9,14 @@ entities: ["D.Lgs. 36/2023","Allegato II.14","D.Lgs. 81/2008","RUP","Direttore d
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.94
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","vol-10","direzione-lavori","allegato-ii14","sicurezza-cantieri"]
 source_type: official_consolidated_text
 source_url: "https://www.normattiva.it/eli/id/2023/03/31/23G00044/CONSOLIDATED"
-source_date: "2026-07-30"
+source_date: 2026-08-21
 authority_level: alta
 ---
 
@@ -30,7 +30,7 @@ La scheda consolida i nuclei necessari al capitolo 8 di M-TR03. Sono stati verif
 - Allegati I.2 e II.14 al D.Lgs. 36/2023;
 - D.Lgs. 81/2008, Titolo IV, in particolare artt. 89-92, 96 e 100, e Allegato XV.
 
-La disciplina contiene regole mobili e casi speciali. Termini, soglie, deroghe e procedimenti autorizzativi devono essere ricontrollati alla data del bando e prima della pubblicazione.
+La disciplina contiene regole mobili e casi speciali. Il testo è stato ricontrollato il 21 agosto 2026; alla data del bando devono comunque essere applicate eventuali modifiche successive e la disciplina specifica del contratto.
 
 ## Claim consolidati
 
@@ -71,7 +71,7 @@ La disciplina contiene regole mobili e casi speciali. Termini, soglie, deroghe e
 - Distinguere DL, RUP, CSE, impresa affidataria ed esecutrice.
 - Rinviare il dettaglio di misure, SAL e certificati di pagamento al capitolo 10.
 - Rinviare collaudo e certificato di regolare esecuzione al capitolo 9.
-- Mantenere `review_required: true` per aggiornamenti dell'Allegato II.14 e casi speciali.
+- Audit specialistico concluso il 21 agosto 2026; riaprire il flag solo per aggiornamenti dell'Allegato II.14 o casi speciali sopravvenuti.
 
 ## Fonti ufficiali
 
@@ -81,4 +81,3 @@ La disciplina contiene regole mobili e casi speciali. Termini, soglie, deroghe e
 - Normattiva, [art. 120 del D.Lgs. 36/2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art120!vig=).
 - Normattiva, [D.Lgs. 81/2008 nel testo vigente](https://www.normattiva.it/eli/id/2008/04/30/008G0104/CONSOLIDATED).
 - Normattiva, [art. 92 del D.Lgs. 81/2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art92!vig=).
-

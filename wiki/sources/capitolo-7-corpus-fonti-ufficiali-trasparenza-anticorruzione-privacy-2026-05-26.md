@@ -8,10 +8,10 @@ topics: ["anticorruzione e trasparenza","accesso documentale","accesso civico","
 entities: ["ANAC","Garante Privacy","RPCT","DPO","Pubblica amministrazione","Legge 241/1990"]
 source_refs: []
 book_refs: ["il-metodo-bando"]
-confidence: 0.96
-updated_at: "2026-07-21T14:20:00+02:00"
+confidence: 0.99
+updated_at: "2026-08-21T00:00:00+02:00"
 created_at: "2026-05-26T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","corpus","chapter-7","trasparenza","anticorruzione","privacy"]
 source_type: corpus
@@ -65,4 +65,4 @@ L'audit ha confermato il nucleo essenziale del capitolo e ha riallineato il racc
 
 ## Stato revisione
 
-Il corpus e i capitoli collegati non sono certificati per la pubblicazione: restano necessari controllo del testo vigente alla data di impaginazione e revisione umana delle applicazioni normative puntuali.
+Il corpus e i claim effettivamente utilizzati nel Capitolo 7 sono stati ricontrollati il 21 agosto 2026 su fonti istituzionali. Il parere del Garante dell'8 giugno 2026 sull'accesso civico conferma l'esigenza di bilanciare trasparenza e protezione dei dati; non sono stati rilevati contrasti con il testo del volume. La conferma umana del pacchetto finale resta il gate separato dello step 24.

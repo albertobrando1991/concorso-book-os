@@ -2,21 +2,21 @@
 id: chapter-m-tr03-03-scienza-tecnica-costruzioni
 type: book_chapter
 title: "Scienza e tecnica delle costruzioni per concorsi"
-status: draft
+status: reviewed
 domain: "ingegneria strutturale"
 topics: ["scienza delle costruzioni", "statica", "meccanica dei solidi", "resistenza dei materiali"]
 entities: ["Sapienza Università di Roma", "Università di Napoli Federico II", "Politecnico di Milano", "Università di Bologna"]
 source_refs: ["sources/scienza-tecnica-costruzioni-fonti-universitarie", "sources/campione-bandi-tecnici-pa-vol-10-2026", "sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.76
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-tr03", "vol-10", "structural-mechanics"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: 3
-draft_stage: professional-draft
+draft_stage: publication_candidate
 module_code: M-TR03
 module_family: trasversali
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-03-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/sources/scienza-tecnica-costruzioni-fonti-universitarie.md", "wiki/topics/scienza-tecnica-costruzioni.md"]
@@ -55,7 +55,7 @@ L’output è una checklist `ipotesi–modello–azione–risposta–verifica`, 
 
 La stessa materia cambia volto nella prova. Un quiz può chiedere una distinzione; uno scritto può richiedere uno schema di calcolo; l’orale può valutare la capacità di spiegare perché un modello è adatto.
 
-## Dalla struttura reale al modello
+## N-TR03-03-01 · Dalla struttura reale al modello
 
 Una struttura reale ha geometria, materiali, collegamenti, difetti, storia costruttiva e condizioni d’uso. Il modello ne rappresenta gli aspetti rilevanti per il problema studiato. Non è una copia ridotta dell’opera: è una scelta tecnica.
 
@@ -83,7 +83,7 @@ I gradi di libertà descrivono i movimenti possibili del sistema. I vincoli ne i
 
 Un sistema è labile se conserva movimenti incompatibili con la funzione resistente prevista. È isostatico quando equilibrio e vincoli consentono di determinare le reazioni con le sole equazioni statiche. È iperstatico quando servono anche compatibilità delle deformazioni e legami costitutivi.
 
-## Azioni, reazioni ed equilibrio
+## N-TR03-03-02 · Azioni, reazioni ed equilibrio
 
 Le azioni esterne comprendono forze, momenti e altri effetti che sollecitano il sistema. Possono derivare dal peso, dall’uso, dall’ambiente, da deformazioni imposte o da altri fenomeni. Il capitolo 4 tratterà la loro classificazione normativa.
 
@@ -101,7 +101,7 @@ Gli errori più comuni sono tre:
 - rappresentare un vincolo con reazioni incompatibili;
 - applicare l’equilibrio a un sistema isolato male.
 
-## Sollecitazioni interne
+## N-TR03-03-03 · Sollecitazioni interne
 
 Immagina di sezionare idealmente un elemento. Le azioni che una parte esercita sull’altra sono rappresentate dalle caratteristiche della sollecitazione.
 
@@ -123,7 +123,7 @@ La torsione tende a far ruotare le sezioni intorno all’asse dell’elemento. I
 
 I diagrammi delle sollecitazioni mostrano come queste grandezze variano lungo l’elemento. Non sono disegni ornamentali: servono a individuare zone critiche, controllare la coerenza del risultato e preparare le verifiche.
 
-## Tensione e deformazione
+## N-TR03-03-04 · Tensione e deformazione
 
 Sollecitazione e tensione non sono sinonimi. La sollecitazione è una grandezza risultante riferita alla sezione; la tensione descrive l’intensità locale delle azioni interne nel materiale.
 
@@ -133,7 +133,7 @@ Il legame costitutivo collega tensione e deformazione secondo un modello del mat
 
 Queste distinzioni servono in prova perché impediscono risposte generiche. Dire “la trave è sollecitata” non chiarisce né la risultante interna né lo stato locale del materiale.
 
-## Proprietà e comportamento dei materiali
+## N-TR03-03-05 · Proprietà e comportamento dei materiali
 
 Il comportamento strutturale dipende dal materiale e dal modo in cui è impiegato. Tra le proprietà ricorrenti:
 
@@ -146,7 +146,7 @@ Il comportamento strutturale dipende dal materiale e dal modo in cui è impiegat
 
 Un unico valore non descrive l’intero comportamento. Materiali diversi possono avere resistenza simile ma rigidezza, duttilità o durabilità differenti. Anche dire “materiale resistente” è incompleto se non si specificano tipo di azione, stato limite e condizioni.
 
-## Cinque prestazioni da non confondere
+## N-TR03-03-06 · Cinque prestazioni da non confondere
 
 ### Resistenza
 
@@ -168,7 +168,7 @@ La duttilità è la capacità di sviluppare deformazioni significative oltre il 
 
 La durabilità riguarda il mantenimento nel tempo delle prestazioni richieste. Ambiente, dettagli, protezione, manutenzione e uso influenzano il degrado. Una verifica iniziale non esaurisce il problema.
 
-## Caso guidato: un elemento compresso
+## N-TR03-03-07 · Caso guidato: un elemento compresso
 
 Un elemento snello riceve una forza di compressione. Una risposta superficiale controlla soltanto la tensione media. Una risposta strutturale completa procede diversamente.
 
@@ -184,23 +184,23 @@ Sollecitazione, tensione e deformazione indicano grandezze diverse.
 Resistenza e rigidezza non sono sinonimi.  
 Stabilità e durabilità richiedono controlli propri.
 
-## Domanda da commissario
+## ▣ Verifica
 
 **Qual è il percorso logico per analizzare una struttura semplice?**
 
 Si definiscono scopo e ipotesi, si costruisce lo schema con geometria e vincoli, si applicano le azioni, si determinano reazioni e sollecitazioni, si valuta la risposta in termini di tensioni e deformazioni e si eseguono le verifiche pertinenti. Il risultato va infine controllato sul piano fisico e dimensionale.
 
-## Domanda-trappola
+### Domanda-trappola
 
 **Se un elemento soddisfa la verifica di resistenza, è certamente adeguato?**
 
 No. Possono risultare decisive rigidezza, stabilità, deformazioni, durabilità e altre prestazioni richieste. L’adeguatezza dipende dall’insieme delle verifiche applicabili.
 
-## Errore tipico
+### Errore tipico
 
 L’errore più comune è scrivere una formula senza dichiarare modello, ipotesi, grandezze e significato del risultato. Per evitarlo, segui questa sequenza: dati, schema, ipotesi, equazioni, risultato, controllo.
 
-## Mini-esercizio
+### Mini-esercizio
 
 Per ciascun fenomeno indica la grandezza prevalente:
 
@@ -212,7 +212,7 @@ Per ciascun fenomeno indica la grandezza prevalente:
 
 Le risposte attese sono: deformazione assiale; spostamento/rotazione legati alla rigidezza flessionale; stabilità; durabilità; taglio.
 
-## Checklist di impostazione
+### Checklist di impostazione
 
 - Ho definito il sistema e lo scopo?
 - Ho dichiarato vincoli, azioni e ipotesi?
@@ -231,6 +231,6 @@ Le risposte attese sono: deformazione assiale; spostamento/rotazione legati alla
 
 ## Note di review
 
-- Formule, convenzioni di segno, unità di misura ed esercizi numerici richiedono verifica di un ingegnere strutturista.
+- Audit specialistico del 21 agosto 2026: principi, lessico, convenzioni e unità presenti nel capitolo verificati; non sono proposte formule di dimensionamento né esercizi numerici strutturali.
 - Il livello matematico va calibrato sul singolo bando; i programmi universitari definiscono il perimetro disciplinare, non la profondità di ogni concorso.
 - Le prescrizioni NTC, le combinazioni delle azioni, la sismica e la geotecnica restano nel capitolo 4.

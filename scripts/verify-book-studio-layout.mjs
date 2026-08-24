@@ -1,6 +1,9 @@
 import fs from "node:fs/promises"
 import { chromium } from "@playwright/test"
-import { resolveBookStudioLayoutOptions } from "./book-studio-layout-options.mjs"
+import {
+  resolveBookStudioLayoutOptions,
+  waitForStableBookPageCount
+} from "./book-studio-layout-options.mjs"
 
 const baseUrl = process.env.BOOK_STUDIO_URL || "http://127.0.0.1:3010"
 const { cases: configuredCases, artifactPrefix, expectedCounts } = resolveBookStudioLayoutOptions(process.env)
@@ -19,13 +22,16 @@ try {
     const page = await browser.newPage({ viewport: { width: 1500, height: 1050 } })
     await page.goto(current.url, { waitUntil: "domcontentloaded", timeout: 120_000 })
     await page.locator("#studio").waitFor({ state: "visible", timeout: 120_000 })
-    await page.locator("#studio").scrollIntoViewIfNeeded()
+    await page.evaluate(() => document.querySelector("#studio")?.scrollIntoView({ block: "start" }))
     await page.getByRole("button", { name: "Libro", exact: true }).click()
     await page.locator(".bookPages .bookPage").first().waitFor({ state: "visible", timeout: 120_000 })
     await page.evaluate(() => document.fonts.ready)
     await waitForBookImages(page)
-    await page.waitForTimeout(900)
+    await page.waitForTimeout(Number(process.env.BOOK_STUDIO_RENDER_SETTLE_MS || 25_000))
+    await waitForStableBookPageCount(page)
     await page.screenshot({ path: `artifacts/${artifactPrefix}-${current.label}.png`, fullPage: true })
+
+    await waitForStableBookPageCount(page)
 
     const studio = await page.evaluate(() => {
       const getRect = (selector) => {

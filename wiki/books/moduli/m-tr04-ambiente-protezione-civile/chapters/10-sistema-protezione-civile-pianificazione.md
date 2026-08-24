@@ -1,14 +1,14 @@
 ---
 id: chapter-m-tr04-10-sistema-protezione-civile-pianificazione
 type: book_chapter
-title: "Sistema di protezione civile e pianificazione"
+title: "Capitolo 10 — Sistema di protezione civile e pianificazione"
 status: draft
 book_id: m-tr04-ambiente-protezione-civile
 volume_code: VOL-11
 module_code: M-TR04
 module_family: trasversali
 outline_section: "Parte II — Protezione civile e gestione del rischio"
-draft_stage: revised_draft
+draft_stage: specialist_audit_done
 format_version: 2
 topics: ["Servizio nazionale della protezione civile", "pianificazione di protezione civile", "prevenzione non strutturale", "autorità territoriali", "piani comunali", "esercitazioni"]
 entities: ["Presidenza del Consiglio dei ministri", "Dipartimento della Protezione Civile", "Regioni", "Province autonome", "Prefetture-UTG", "Comuni", "Vigili del fuoco", "volontariato organizzato"]
@@ -17,14 +17,14 @@ book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-
 last_compiled_from: ["wiki/sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026.md", "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md", "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md", "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/12-piano-capitolo-10-sistema-protezione-civile-pianificazione.md"]
 confidence: 0.94
 created_at: 2026-08-14
-updated_at: 2026-08-14
-review_required: true
+updated_at: 2026-08-21
+review_required: false
 canonical: false
-tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-09"]
+tags: ["chapter", "m-tr04", "vol-11", "format-2", "step-15"]
 dati_operativi: []
 ---
 
-# Sistema di protezione civile e pianificazione
+# Capitolo 10 — Sistema di protezione civile e pianificazione
 
 ## Apertura editoriale
 

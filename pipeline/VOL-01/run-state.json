@@ -1,0 +1,306 @@
+{
+  "volumeCode": "VOL-01",
+  "specPath": "books/il-metodo-bando/planning/00-scheda-pipeline.md",
+  "specHash": "sha256:34fff7d50c27206eb924caa5da2e93486bf086483f91f944f700b73060dfb004",
+  "createdAt": "2026-08-21T17:01:29.084Z",
+  "updatedAt": "2026-08-22T10:22:22.843Z",
+  "steps": [
+    {
+      "key": "13:il-metodo-bando",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "il-metodo-bando",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T17:01:39.902Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T17:07:53.431Z"
+    },
+    {
+      "key": "14:il-metodo-bando",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "il-metodo-bando",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T17:08:00.840Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T17:08:33.157Z"
+    },
+    {
+      "key": "15:il-metodo-bando",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "il-metodo-bando",
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T17:14:00.283Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-21T17:38:23.173Z"
+    },
+    {
+      "key": "16:il-metodo-bando",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "il-metodo-bando",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T17:38:31.129Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "il-metodo-bando"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale text-freeze superata: 32 sezioni presenti, matrice senza stati parziale/solo-nominato/mancante, step 13-15 chiusi, manifest SHA-256 con 36/36 file esistenti e 0 mismatch; cut-off 2026-08-21."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-21T17:39:18.476Z"
+    },
+    {
+      "key": "17:VOL-01",
+      "id": "17",
+      "phase": "E",
+      "scope": "volume",
+      "target": "VOL-01",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T17:39:27.989Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 17 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-21T17:43:13.689Z"
+    },
+    {
+      "key": "18:il-metodo-bando",
+      "id": "18",
+      "phase": "E",
+      "scope": "module",
+      "target": "il-metodo-bando",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T17:43:16.505Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 18 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-21T17:55:22.116Z"
+    },
+    {
+      "key": "19:VOL-01",
+      "id": "19",
+      "phase": "E",
+      "scope": "volume",
+      "target": "VOL-01",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T17:55:25.356Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 19 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-21T17:56:09.043Z"
+    },
+    {
+      "key": "20:VOL-01",
+      "id": "20",
+      "phase": "E",
+      "scope": "volume",
+      "target": "VOL-01",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-21T17:56:12.168Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"page-fill\" dello step 20 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-01"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Audit manuale completato: baseline assestata 592/592, tavole-contatto 30/30 ispezionate, registro conforme, 0 bloccanti, 0 significativi, 0 overflow, 0 collisioni."
+          }
+        ],
+        "notImplemented": [
+          "page-fill"
+        ]
+      },
+      "finishedAt": "2026-08-22T09:56:41.787Z"
+    },
+    {
+      "key": "21:VOL-01",
+      "id": "21",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-01",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T09:56:52.185Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T09:59:18.683Z"
+    },
+    {
+      "key": "22:VOL-01",
+      "id": "22",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-01",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T09:59:32.160Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-01"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Preflight manuale completato: freeze 36/36 invariato, PDF 592/592 pagine, 30/30 tavole ispezionate, font incorporati, formato conforme, 54 test, typecheck e build verdi, zero anomalie bloccanti."
+          }
+        ],
+        "notImplemented": [
+          "preflight"
+        ]
+      },
+      "finishedAt": "2026-08-22T10:16:30.389Z"
+    },
+    {
+      "key": "23:VOL-01",
+      "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-01",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T10:16:39.819Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-01"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Delivery manuale completata: candidata VOL-01-candidate-2026.08.22.1, 10 file, manifest 9/9 senza mismatch, PDF 592 pagine, staging selettivo senza cache artifact output o VOL-06, remoto allineato."
+          }
+        ],
+        "notImplemented": [
+          "delivery"
+        ]
+      },
+      "finishedAt": "2026-08-22T10:22:22.843Z"
+    },
+    {
+      "key": "24:VOL-01",
+      "id": "24",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-01",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    }
+  ]
+}

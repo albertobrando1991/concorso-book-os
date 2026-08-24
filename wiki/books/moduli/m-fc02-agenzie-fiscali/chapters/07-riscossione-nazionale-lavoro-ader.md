@@ -2,7 +2,7 @@
 id: chapter-m-fc02-riscossione-nazionale-lavoro-ader
 type: book_chapter
 title: "Riscossione nazionale e lavoro in AdER"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["riscossione", "ader", "cartella di pagamento", "rateizzazione", "sospensione legale"]
 entities: ["Agenzia delle Entrate-Riscossione", "Agenzia delle Entrate", "enti creditori"]
@@ -16,14 +16,14 @@ asset_refs:
 book_refs: ["m-fc02-agenzie-fiscali", "il-metodo-bando"]
 companion_to: il-metodo-bando
 confidence: 0.95
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-01T21:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc02", "professional-draft", "revised-draft"]
+tags: ["book-chapter", "module-code-m-fc02", "text-frozen", "revised-draft"]
 book_id: m-fc02-agenzie-fiscali
 outline_section: 7
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 module_code: M-FC02
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/sources/riscossione-agenzia-entrate-riscossione-m-fc02.md", "wiki/sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md", "wiki/sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17.md", "wiki/sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md", "wiki/topics/riscossione-tributaria-ader.md", "wiki/entities/agenzia-entrate-riscossione.md"]

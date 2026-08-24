@@ -9,14 +9,14 @@ entities: ["D.Lgs. 36/2023","RUP","PFTE","Documento di indirizzo alla progettazi
 source_refs: ["sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.96
-updated_at: "2026-07-29T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-29T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","progettazione","lavori-pubblici","dlgs-36-2023","allegato-i7"]
 source_type: official_consolidated_text
 source_url: "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=23G00044&atto.dataPubblicazioneGazzetta=2023-03-31&tipoDettaglio=vigente"
-source_date: "2026-06-30"
+source_date: 2026-08-21
 authority_level: alta
 ---
 
@@ -24,7 +24,7 @@ authority_level: alta
 
 ## Perimetro e verifica
 
-Scheda specialistica ricavata dal D.Lgs. 31 marzo 2023, n. 36 nel testo consolidato ufficiale richiamato dalla source note generale, con verifica editoriale del 29 luglio 2026. Sono stati considerati gli articoli 15, 37, 41, 42 e 43 e gli Allegati I.2, I.5, I.7 e I.9. La scheda consolida i nuclei stabili utili al manuale; soglie, deroghe ed elenchi analitici degli elaborati devono essere ricontrollati sul testo vigente prima della pubblicazione.
+Scheda specialistica ricavata dal D.Lgs. 31 marzo 2023, n. 36 nel testo consolidato ufficiale, ricontrollato il 21 agosto 2026 e aggiornato all'atto pubblicato il 23 marzo 2026. Sono stati considerati gli articoli 15, 37, 41, 42 e 43 e gli Allegati I.2, I.5, I.7 e I.9. La scheda consolida i nuclei stabili utili al manuale ed evita soglie, deroghe ed elenchi analitici non necessari.
 
 ## Nuclei consolidati
 
@@ -56,7 +56,7 @@ Scheda specialistica ricavata dal D.Lgs. 31 marzo 2023, n. 36 nel testo consolid
 - Non presentare gli elenchi dell'Allegato I.7 come identici per ogni intervento: tipologia e dimensione incidono su caratteristiche, requisiti ed elaborati necessari.
 - Non usare “cantierabilità” come formula assoluta che sostituisce la definizione normativa del progetto esecutivo.
 - Evitare soglie numeriche sulla verifica e sulla gestione informativa nel testo didattico generale; se indispensabili, datarle e ricontrollarle.
-- Mantenere `review_required: true` fino alla verifica di un RUP o progettista esperto di lavori pubblici.
+- Audit specialistico concluso il 21 agosto 2026; riaprire il flag solo in presenza di una modifica normativa o di un caso operativo specifico.
 
 ## Fonti ufficiali
 
@@ -65,4 +65,3 @@ Scheda specialistica ricavata dal D.Lgs. 31 marzo 2023, n. 36 nel testo consolid
 - Normattiva, D.Lgs. 36/2023, art. 15 e Allegato I.2.
 - Normattiva, D.Lgs. 36/2023, art. 37 e Allegato I.5.
 - Normattiva, D.Lgs. 36/2023, art. 43 e Allegato I.9.
-

@@ -2,21 +2,21 @@
 id: chapter-m-fc05-12-banca-italia-ivass-vigilanza-prudenziale
 type: book_chapter
 title: "Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa"
-status: professional_draft
+status: final
 domain: vigilanza bancaria e assicurativa
 topics: ["vigilanza prudenziale", "vigilanza bancaria", "assicurazioni", "tutela della clientela"]
 entities: ["Banca d'Italia", "IVASS", "BCE", "Arbitro Assicurativo"]
-source_refs: ["sources/banca-italia-ivass-vigilanza-prudenziale-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/banca-italia-bando-60-giuristi-2025.md"]
+source_refs: ["sources/banca-italia-ivass-vigilanza-prudenziale-2026-07-24.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md", "sources/banca-italia-bando-60-giuristi-2025.md", "sources/vol-05-aggiornamento-specialistico-2026-08-22.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.9
-updated_at: 2026-07-29
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "banca-italia", "ivass", "prudenziale"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 12
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/03-flusso-banca-italia-ivass.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/04-distinzioni-banca-italia-ivass.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/05-sintesi-banca-italia-ivass.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa
 
-## Scheda di lavoro
+## N-MF05-12-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Distinguere la vigilanza prudenziale dalla tutela della clientela e dalla soluzione delle controversie, applicando la distinzione al sistema bancario e a quello assicurativo.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Schema Banca d'Italia–IVASS, griglia rischio–potere–prova e caso guidato su una controversia assicurativa.
 
 > **Regola di metodo.** Non usare “vigilanza” come parola-ombrello. Prima individua il settore e il soggetto; poi separa prudenza, condotta, stabilità, rimedio individuale e autorità effettivamente competente.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -60,7 +60,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 12.1 — Mappa BANDO: Banca d'Italia e IVASS.](../assets/chapter-12/01-mappa-bando-banca-italia-ivass.png)
 
-*Figura 12.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 12.1 — La tavola orienta la lettura di vigilanza prudenziale e separa il perimetro dalle eccezioni.*
 
 ### Vigilanza prudenziale: la tenuta dell'intermediario
 
@@ -79,9 +79,11 @@ Questa distinzione non separa compartimenti impermeabili. Un sistema organizzati
 
 ![Figura 12.2 — Architettura: Banca d'Italia e IVASS.](../assets/chapter-12/02-architettura-banca-italia-ivass.png)
 
-*Figura 12.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 12.2 — La tavola mette a confronto SSM e tutela bancaria e ABF senza sovrapporli.*
 
 ### Banca d'Italia: banche, intermediari, stabilità e clientela
+
+## N-MF05-12-02 · Istituti e distinzioni
 
 La Banca d'Italia esercita funzioni di vigilanza nel settore bancario e finanziario nei limiti stabiliti dalle fonti nazionali ed europee. L'attenzione prudenziale riguarda banche, gruppi e altri intermediari rientranti nei rispettivi perimetri, con l'obiettivo di verificare condizioni di sana e prudente gestione e di concorrere alla stabilità del sistema. La funzione non è soltanto reattiva: analizza informazioni, bilanci, assetti organizzativi, controlli interni, profili di rischio e piani dell'intermediario, ricorrendo quando necessario a verifiche ispettive e ad altri strumenti previsti dalla disciplina.
 
@@ -100,7 +102,7 @@ Accanto alla dimensione prudenziale, la Banca d'Italia svolge funzioni di **tute
 
 ![Figura 12.3 — Sequenza operativa: Banca d'Italia e IVASS.](../assets/chapter-12/03-flusso-banca-italia-ivass.png)
 
-*Figura 12.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 12.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### IVASS: impresa assicurativa, distribuzione e assicurati
 
@@ -110,7 +112,7 @@ La funzione IVASS ha anche una chiara dimensione di **condotta di mercato**. Nel
 
 | Soggetto o fenomeno | Profilo di vigilanza | Documenti e dati utili nel caso |
 | --- | --- | --- |
-| Impresa assicurativa | Solidità, riserve, rischi, governance e continuità | Bilanci, report di rischio, procedure, assetti e flussi informativi |
+| Impresa assicurativa | Solidità, riserve, rischi, governance e continuità | Bilanci, relazioni sui rischi, procedure, assetti e flussi informativi |
 | Gruppo assicurativo | Esposizioni e controlli su base di gruppo | Struttura del gruppo, partecipazioni, concentrazioni e governo |
 | Intermediario o distributore | Condotta, informazioni, correttezza della distribuzione | Preventivi, informativa, bisogni del cliente, comunicazioni e reclami |
 | Contraente o assicurato | Tutela nel rapporto e rimedi disponibili | Polizza, condizioni, denuncia di sinistro, corrispondenza e risposta al reclamo |
@@ -119,9 +121,11 @@ La distinzione è decisiva in sede d'esame. La solvibilità dell'impresa serve a
 
 ![Figura 12.4 — Distinzioni essenziali: Banca d'Italia e IVASS.](../assets/chapter-12/04-distinzioni-banca-italia-ivass.png)
 
-*Figura 12.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 12.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Dati, reclami e poteri: dal segnale all'intervento
+
+## N-MF05-12-03 · Poteri, procedura e conseguenze
 
 La vigilanza è informata dai dati. Segnalazioni prudenziali, informazioni periodiche, bilanci, comunicazioni di vigilanza, esiti delle ispezioni, reclami e dati sulla distribuzione consentono alle autorità di individuare anomalie e tendenze. Il reclamo è, in questa prospettiva, una doppia fonte: per il cittadino è un modo di esporre una criticità; per l'autorità può essere un indicatore di disfunzioni ripetute, pratiche scorrette o carenze organizzative.
 
@@ -137,8 +141,31 @@ Una polizza collegata a un investimento, un prodotto distribuito da un intermedi
 
 ![Figura 12.5 — Sintesi operativa: Banca d'Italia e IVASS.](../assets/chapter-12/05-sintesi-banca-italia-ivass.png)
 
-*Figura 12.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 12.5 — La tavola chiude il percorso collegando DORA a IVASS e Arbitro Assicurativo.*
 
+### SSM: chi vigila direttamente
+
+Nel Meccanismo di vigilanza unico la BCE esercita la vigilanza diretta sugli enti significativi. Gli enti meno significativi sono vigilati direttamente dalle autorità nazionali competenti, sotto la supervisione della BCE, che garantisce il funzionamento coerente del sistema e può assumere la vigilanza diretta quando ricorrono i presupposti. La distinzione non colloca gli enti meno significativi fuori dall'SSM: indica chi svolge ordinariamente l'attività diretta e come opera la supervisione europea.
+
+La qualificazione dipende dai criteri applicabili e dagli elenchi aggiornati, non dall'intuizione del candidato. In un caso è sufficiente esporre il metodo: identificare l'ente, verificare la classificazione vigente, distinguere compiti prudenziali e funzioni nazionali residue, quindi individuare il canale di cooperazione. Questa sequenza evita sia di cancellare la Banca d'Italia dal sistema sia di attribuirle in via esclusiva ogni scelta su una banca significativa.
+
+### Pagamenti, ABF e tutela della clientela
+
+Nei servizi di pagamento e nei rapporti bancari, vigilanza e rimedio individuale restano separati. La Banca d'Italia può usare reclami, esposti e dati aggregati per individuare carenze di trasparenza, correttezza o organizzazione. L'Arbitro Bancario Finanziario decide controversie nei limiti della propria competenza e delle condizioni di ricorso; non irroga la sanzione di vigilanza. Il candidato deve verificare previo reclamo, materia, soggetti, valore e termini vigenti, evitando di trasformare una regola operativa mobile in una nozione senza data.
+
+### Solvency II e DORA: due rischi, una governance responsabile
+
+Solvency II organizza la vigilanza assicurativa secondo un approccio basato sul rischio: requisiti quantitativi, governance e controllo, informativa e supervisione concorrono a valutare la capacità dell'impresa di far fronte agli impegni. Non basta citare il capitale. Occorre collegare riserve, rischi tecnici e finanziari, sistema dei controlli, valutazione interna e poteri dell'autorità. Un dato patrimoniale isolato non sostituisce la lettura complessiva della gestione.
+
+DORA, applicabile dal 17 gennaio 2025, riguarda la resilienza operativa digitale del settore finanziario. Impone presìdi su governance del rischio ICT, gestione e segnalazione degli incidenti, test di resilienza e fornitori terzi. Il d.lgs. n. 23/2025 adegua il quadro nazionale e distribuisce le competenze fra le autorità settoriali nei rispettivi perimetri. DORA non è una certificazione informatica che l'ufficio acquista all'esterno: l'organo di gestione conserva responsabilità, il rischio del fornitore va governato e gli incidenti devono essere classificati e trattati secondo la disciplina applicabile.
+
+### Arbitro Assicurativo operativo
+
+Dal 15 gennaio 2026 il pubblico può presentare ricorso online all'Arbitro Assicurativo. Il sistema, indipendente e imparziale, è sostenuto nel funzionamento dall'IVASS e decide sulla base dei documenti prodotti. Il previo reclamo all'impresa o all'intermediario è condizione di ammissibilità; alla data di cutoff, la pagina IVASS indica un costo di 20 euro, rimborsato in caso di accoglimento, e una decisione entro 180 giorni, prorogabile di 90 per casi complessi. Questi dati devono essere datati e ricontrollati nelle ristampe.
+
+## N-MF05-12-04 · Applicazione alla prova
+
+L'Arbitro non dispone nuove perizie e non trasforma la controversia contrattuale in vigilanza prudenziale. Nel caso del sinistro negato, il lettore deve prima raccogliere polizza, reclamo, risposta e documenti; poi verificare ammissibilità e oggetto del ricorso. I reclami seriali possono nel frattempo alimentare l'analisi di vigilanza, ma i due percorsi conservano finalità e decisioni diverse.
 ### Mappa BANDO
 
 | Voce del bando | Nucleo da padroneggiare | Output da allenare |
@@ -194,10 +221,46 @@ Compila la scheda per una segnalazione relativa a una polizza distribuita da una
 
 L'esercizio è corretto se separa il rischio dell'impresa dalla questione contrattuale del cliente e non attribuisce un potere senza averne verificato la fonte.
 
-### Riferimenti consolidati
+## N-MF05-12-05 · Consolidamento e verifica
 
-[[sources/banca-italia-ivass-vigilanza-prudenziale-2026-07-24]], [[sources/regolazione-ue-digitale-e-finanziaria-vol-05]], [[entities/banca-ditalia]], [[entities/ivass]], [[topics/banca-italia-ivass-vigilanza-prudenziale]].
+### Checklist per una nota d'ufficio
 
-### Note di review editoriale
+Una nota professionale su vigilanza prudenziale deve consentire al decisore di capire che cosa è noto, quale regola si applica e che cosa resta da verificare. L'apertura contiene il quesito in una frase; il quadro distingue SSM da tutela bancaria e ABF; l'analisi collega ogni fatto a un documento. Le citazioni normative sostengono il ragionamento, ma non lo sostituiscono. Se due fonti sembrano divergere, controlla data, rango, ambito e disciplina transitoria prima di parlare di conflitto.
 
-Prima della chiusura del volume, verificare TUB, Codice delle assicurazioni private, normativa secondaria di Banca d'Italia e IVASS, disciplina dell'Unione bancaria, Solvency II, distribuzione assicurativa, poteri ispettivi e sanzionatori, strumenti ABF e Arbitro Assicurativo. Per ogni caso concreto, controllare soggetto vigilato, attività, data del fatto, fonte vigente, riparto di competenze, procedura e rimedio effettivamente praticabile.
+La sezione operativa descrive Solvency II in ordine cronologico e assegna ogni attività al soggetto competente. La parte su DORA espone rischio e alternativa, evitando verbi assoluti quando l'istruttoria è incompleta. La conclusione su IVASS e Arbitro Assicurativo propone il passo successivo, il controllo da svolgere e, se utile, un termine interno di riesame che non venga confuso con un termine legale. Riletta da sola, la nota deve mostrare perché l'opzione scelta è preferibile e quali nuovi elementi potrebbero modificarla.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito vigilanza prudenziale senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra SSM e tutela bancaria e ABF poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a Solvency II giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di DORA e quale conseguenza produrrebbe su IVASS e Arbitro Assicurativo. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama vigilanza prudenziale?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** SSM e tutela bancaria e ABF possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato Solvency II nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di DORA?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su IVASS e Arbitro Assicurativo?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama vigilanza prudenziale e chiede un intervento immediato su IVASS e Arbitro Assicurativo. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere SSM da tutela bancaria e ABF e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta Solvency II, si collega DORA al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

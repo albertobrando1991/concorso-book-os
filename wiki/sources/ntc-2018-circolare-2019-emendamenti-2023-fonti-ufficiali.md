@@ -9,14 +9,14 @@ entities: ["Ministero delle infrastrutture e dei trasporti", "Consiglio Superior
 source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.94
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["source", "official", "ntc-2018", "sismica", "geotecnica", "vol-10"]
 source_type: official_normative_bundle
 source_url: "https://www.gazzettaufficiale.it/eli/id/2018/02/20/18A00716/sg"
-source_date: 2026-07-29
+source_date: 2026-08-21
 authority_level: alta
 ---
 
@@ -32,7 +32,7 @@ Questa nota consolida, per uso editoriale, il seguente pacchetto istituzionale:
 - [D.P.R. 6 giugno 2001, n. 380, testo vigente](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=001G0429&atto.dataPubblicazioneGazzetta=2001-10-20), per la cornice legislativa degli adempimenti strutturali e sismici;
 - [Dipartimento della Protezione Civile — Classificazione sismica](https://rischi.protezionecivile.gov.it/it/approfondimento/classificazione-sismica/), per distinguere classificazione amministrativa del territorio e pericolosità usata nella progettazione.
 
-La ricognizione è stata effettuata il 29 luglio 2026. Le fonti ufficiali consultate continuano a richiamare le NTC emanate con D.M. 17 gennaio 2018, tenendo conto degli emendamenti approvati nel 2023. La vigenza va comunque ricontrollata prima della pubblicazione definitiva.
+Ricognizione aggiornata il 21 agosto 2026. Le fonti ufficiali continuano a richiamare le NTC emanate con D.M. 17 gennaio 2018, la Circolare 2019 e gli emendamenti approvati nel 2023; il quadro è confermato per il cut-off editoriale.
 
 ## Nuclei consolidati
 
@@ -90,4 +90,3 @@ Formule, valori, procedure puntuali e adempimenti devono essere controllati sul 
 - [[topics/scienza-tecnica-costruzioni]]
 - [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni]]
 - [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale]]
-

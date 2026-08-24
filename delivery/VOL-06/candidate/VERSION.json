@@ -1,0 +1,15 @@
+{
+  "volume": "VOL-06",
+  "title": "Scuola, Università, Ricerca e Cultura",
+  "version": "VOL-06-candidate-2026.08.23.1",
+  "candidate_date": "2026-08-23",
+  "source_commit": "fedfb0fe",
+  "source_state": "candidate includes scoped uncommitted VOL-06 work",
+  "remote_main": "c5f3ac01",
+  "normative_cutoff": "2026-07-24",
+  "page_count": 530,
+  "trim_inches": [6.69, 9.61],
+  "bleed": false,
+  "status": "publication-candidate",
+  "human_signoff": "pending-step-24"
+}

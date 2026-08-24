@@ -9,14 +9,14 @@ entities: ["Normattiva", "Gazzetta Ufficiale", "Regioni", "Comuni"]
 source_refs: ["sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.91
-updated_at: 2026-07-29
+updated_at: 2026-08-21
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["source", "official", "urbanistica", "paesaggio", "vol-10"]
 source_type: official_normative_bundle
 source_url: "https://www.normattiva.it/eli/id/1942/10/16/042U1150/CONSOLIDATED/20250424"
-source_date: 2026-07-29
+source_date: 2026-08-21
 authority_level: alta
 ---
 

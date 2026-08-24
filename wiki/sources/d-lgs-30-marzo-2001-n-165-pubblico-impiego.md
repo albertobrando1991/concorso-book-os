@@ -8,15 +8,15 @@ topics: ["diritto costituzionale","diritto amministrativo","pubblico impiego","c
 entities: ["Costituzione della Repubblica Italiana"]
 source_refs: []
 book_refs: []
-confidence: 0.98
-updated_at: "2026-07-23T00:00:00+02:00"
+confidence: 0.99
+updated_at: "2026-08-21T00:00:00+02:00"
 created_at: "2026-05-25T10:34:52.221Z"
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","decree"]
 source_type: decree
 source_url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165!vig=/"
-source_date: "testo vigente verificato il 2026-07-21"
+source_date: "testo vigente verificato il 2026-08-21; ultimo aggiornamento dell'atto pubblicato il 2026-08-07"
 authority_level: alta
 ---
 
@@ -24,7 +24,7 @@ authority_level: alta
 
 ## Sintesi
 
-Fonte primaria generale sul lavoro alle dipendenze delle amministrazioni pubbliche. L'audit P7 ha verificato su Normattiva il testo con ultimo aggiornamento rilevato al 13 maggio 2025: l'art. 4 distingue indirizzo politico-amministrativo e gestione; gli artt. 55 e seguenti disciplinano responsabilita, infrazioni, sanzioni e procedimento disciplinare.
+Fonte primaria generale sul lavoro alle dipendenze delle amministrazioni pubbliche. Il controllo conclusivo del 21 agosto 2026 ha verificato su Normattiva il testo vigente, con ultimo aggiornamento dell'atto pubblicato il 7 agosto 2026: l'art. 4 continua a distinguere indirizzo politico-amministrativo e gestione; gli artt. 55 e seguenti disciplinano responsabilita, infrazioni, sanzioni e procedimento disciplinare. La legge 2 luglio 2026, n. 119 ha inoltre aggiornato carriera dirigenziale e valutazione della performance; il D.L. 7 agosto 2026, n. 144 ne coordina specifici profili transitori.
 
 ## Fonti
 - Raw source collegata: `wiki/raw/decrees/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md`
@@ -43,4 +43,4 @@ Fonte primaria generale sul lavoro alle dipendenze delle amministrazioni pubblic
 - [[books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa]]
 
 ## Stato revisione
-Fonte ricontrollata in P23 su Normattiva: ultimo aggiornamento dell'atto rilevato il 23 maggio 2026; artt. 4 e 55 e seguenti confermati. Verifica umana richiesta per CCNL, codici integrativi, termini disciplinari e disciplina applicabile alla singola amministrazione.
+Fonte ricontrollata nello step 15 della pipeline VOL-01. I claim effettivamente usati dal manuale sono coerenti con il testo vigente al 21 agosto 2026. CCNL, codici integrativi e discipline della singola amministrazione restano variabili esterne da verificare sul bando concreto, non dati fissati dal volume.

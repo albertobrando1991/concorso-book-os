@@ -2,16 +2,16 @@
 id: didactic-coverage-matrix-m-fc01
 type: review
 title: "Matrice di copertura didattica - M-FC01 Ministeri e Presidenza del Consiglio"
-status: working
+status: final
 domain: concorsi-pubblici
 topics: [copertura-didattica-integrale, ministeri, funzioni-centrali]
 entities: [Ministeri, Presidenza del Consiglio dei ministri, Avvocatura dello Stato]
 source_refs: [m-fc01-dossier-redazionale-ministeri-pcm-avvocatura, metodo-bando-progetto-editoriale]
 book_refs: [m-fc01-ministeri, il-metodo-bando]
 confidence: 0.86
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-08-04
-review_required: true
+review_required: false
 canonical: false
 tags: [matrice, copertura-didattica, m-fc01]
 ---
@@ -36,11 +36,11 @@ Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati 
 | M-FC01/tutti | Profilo | Collegare profilo, area, competenze e contesto centrale | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 2, `Qual è il profilo?` | funzione del profilo e distinzioni tra famiglie spiegate | confronto amministrativo, contabile, ICT, tecnico e gestionale | scelta del peso delle materie | griglia e caso guidato | completo | verificare bando e rinviare al cap. 3 | - |
 | M-FC01/tutti | Requisiti | Verificare requisiti generali, titolo, requisiti specifici e dichiarazioni | alta | [[sources/inpa-formez-ripam-concorsi-funzioni-centrali]] | cap. 2, `Quali requisiti devo possedere?` | funzione, elementi e conseguenza sull ammissione spiegati | mini-scheda requisito-prova-punto del bando | controllo pre-domanda | checklist e mini-esercizio | completo | requisiti mobili del bando | - |
 | M-FC01/tutti | Prove | Distinguere quiz, scritto, teorico-pratico, orale e accertamenti | alta | [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]] | cap. 2, `Quali prove sono previste?` | forme di prova e differenze spiegate | allenamento collegato a ciascuna forma | quiz/scritto/caso/orale | domanda da commissario e checklist | completo | D.P.R. 487/1994 vigente e bando | - |
-| M-FC01/tutti | Materie | Classificare materie obbligatorie, operative e ad alto rischio | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]; [[books/il-metodo-bando/chapters/leggere-bando-senza-perdersi]] | cap. 2, `Quali materie sono davvero centrali?` | categorie operative definite e separate dalle categorie giuridiche | priorità ricavate dal programma effettivo | mappa aree-nuclei | caso, esercizio ed errore tipico | completo | non aggiungere materie non richieste | - |
+| M-FC01/tutti | Materie | Classificare materie obbligatorie, operative e ad alto rischio | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]]; [[books/il-metodo-bando/chapters/anatomia-del-bando]] | cap. 2, `Quali materie sono davvero centrali?` | categorie operative definite e separate dalle categorie giuridiche | priorità ricavate dal programma effettivo | mappa aree-nuclei | caso, esercizio ed errore tipico | completo | non aggiungere materie non richieste | - |
 | M-FC01/tutti | Strategia | Leggere punteggi, soglie, titoli, graduatoria, preferenze e riserve | alta | [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]] | cap. 2, `Come funzionano punteggi, soglie e titoli?` | funzione ed elementi da estrarre spiegati senza valori inventati | peso delle prove trasformato in priorità | strategia di preparazione | griglia e checklist | completo | verificare valori e regole nel bando | - |
 | M-FC01/tutti | Calendario | Separare termini ufficiali e scadenze interne di studio | alta | [[sources/inpa-formez-ripam-concorsi-funzioni-centrali]] | cap. 2, `Quali scadenze governano la procedura?` | calendario ufficiale e calendario personale distinti | piano minimo per domanda, avvisi, primo giro e simulazioni | calendario operativo | checklist e diario | completo | monitorare avvisi e rettifiche | - |
 | M-FC01/tutti | Metodo | Compilare la griglia di lettura M-FC01 | alta | [[books/il-metodo-bando/struttura-madre]]; [[sources/inpa-formez-ripam-concorsi-funzioni-centrali]] | cap. 2, `Griglia di lettura del bando M-FC01` | campi, funzione e decisioni conseguenti spiegati | tabella compilabile a undici campi | scheda bando | esempio, checklist e mini-esercizio | completo | aggiornare i canali al cut-off | - |
-| M-FC01/tutti | Decisione | Trasformare elementi del bando in aree, nuclei e output | alta | [[books/il-metodo-bando/chapters/leggere-bando-senza-perdersi]] | cap. 2, `Esempio di scomposizione senza dati non verificati` e `Caso guidato` | sequenza amministrazione-profilo-prove-priorità spiegata | esempio anonimo e caso di Giulia | piano della prima settimana | domanda da commissario ed esercizio | completo | esempi dichiaratamente didattici | - |
+| M-FC01/tutti | Decisione | Trasformare elementi del bando in aree, nuclei e output | alta | [[books/il-metodo-bando/chapters/anatomia-del-bando]] | cap. 2, `Esempio di scomposizione senza dati non verificati` e `Caso guidato` | sequenza amministrazione-profilo-prove-priorità spiegata | esempio anonimo e caso di Giulia | piano della prima settimana | domanda da commissario ed esercizio | completo | esempi dichiaratamente didattici | - |
 | M-FC01/tutti | Verifica | Controllare che il piano derivi dal bando e dalla prova | alta | [[books/il-metodo-bando/struttura-madre]] | cap. 2, `Checklist prima di iniziare a studiare` e `Errore tipico` | criteri di controllo e conseguenze dello studio dispersivo spiegati | autoverifica su bando reale | checklist e primo output | tredici campi, trappola e correzione | completo | usare esclusivamente fonti ufficiali | - |
 | M-FC01/tutti | Profili | Distinguere comparto, area dirigenziale e area di inquadramento | alta | [[sources/aran-ccnl-funzioni-centrali-pcm-2022-2026]]; [[sources/ccnl-comparti-aree-famiglie-professionali-pa]] | cap. 3, `Comparto e area dirigenziale` | livelli, funzioni e ambiguità del termine area spiegati | lettura della formula contrattuale nel bando | classificazione dell'inquadramento | domanda da commissario e scheda | completo | verificare CCNL vigente | - |
 | M-FC01/tutti | Profili | Distinguere area, famiglia professionale e profilo | alta | [[sources/ccnl-comparti-aree-famiglie-professionali-pa]] | cap. 3, `Area di inquadramento e famiglia professionale` | sequenza e differenze spiegate | rischio di fermarsi a una sola etichetta | risposta comparativa | caso, domanda e mini-esercizio | completo | verificare denominazioni del bando | - |
@@ -84,11 +84,11 @@ Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati 
 | M-FC01/Avvocatura | Prove | Usare ruolo, funzioni e flussi in quiz, orale e caso | alta profilo | [[sources/rd-30-ottobre-1933-n-1611-avvocatura-stato]]; [[sources/avvocatura-stato-organizzazione-funzioni]] | cap. 7, Come può essere chiesto in prova | metodo differenziato per quiz, orale e caso spiegato | mappa funzione-ufficio-documento-rischio | quiz, orale e caso pratico | domanda, trappola, errore, esercizio e checklist | completo | adattare alle prove del bando | - |
 | M-FC01/contabile | Contabilità | Ciclo di bilancio dello Stato e applicazione ministeriale | alta profilo | [[sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica]]; [[sources/principi-costituzionali-finanza-pubblica-art-81-97-119]] | cap. 9 | teoria articolata in cinque nuclei | casi, esempi e schema decisionale | quiz, caso e orale | sei quiz commentati e due casi | completo | audit automatico sulle fonti vigenti | - |
 | M-FC01/tutti | Operatività | Contratti pubblici, PNRR e amministrazione digitale | alta se bando | [[sources/fonti-trasversali-m-fc01-piao-anac-agid]]; [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]; [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]] | cap. 10 | teoria sviluppata in sei nuclei | casi, tabelle e controlli applicativi | quiz, caso e orale | otto quiz e caso ragionato | completo | fonti mobili e PNRR da auditare | - |
-| M-FC01/tutti | Casi | Risolvere casi pratici ministeriali | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 11, `Da scrivere` | metodo del caso non sviluppato | casi non sviluppati | scritto/teorico-pratico/orale | griglia non sviluppata | mancante | adattare al bando | - |
-| M-FC01/tutti | Situazionali | Codice di comportamento, condotta e decisione | alta | [[sources/fonti-trasversali-m-fc01-piao-anac-agid]] | cap. 12, `Da scrivere` | criteri non sviluppati | scenari non sviluppati | quesito situazionale | verifica non sviluppata | mancante | codice e disciplina vigenti | - |
-| M-FC01/tutti | Piano | Matrice materie e piano 30/60/90 | alta | [[books/il-metodo-bando/struttura-madre]]; [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 13, `Da scrivere` | logica del piano non sviluppata | calendari non sviluppati | piano di studio | verifica non sviluppata | mancante | adattare al bando e al tempo reale | - |
-| M-FC01/tutti | Simulazione | Simulazione finale e diario errori | alta | [[books/il-metodo-bando/struttura-madre]] | cap. 14, `Da scrivere` | protocollo non sviluppato | simulazione non sviluppata | prova mista | correzione e recupero non sviluppati | mancante | adattare alle regole del bando | - |
-| M-FC01/tutti | Appendici | Glossario, tabelle, Decoder, checklist, domande e orale | media/alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 15, `Da scrivere` | apparati solo elencati | schede non sviluppate | strumenti di ripasso | verifica non sviluppata | mancante | aggiornare fonti vive | - |
+| M-FC01/tutti | Casi | Risolvere casi pratici ministeriali | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 11, nuclei 01-07 | metodo in sette nuclei, dalla diagnosi al controllo | sette casi e un caso integrato | scritto/teorico-pratico/orale | otto quiz, checklist e diario | completo | adattare regole e competenze al bando | - |
+| M-FC01/tutti | Situazionali | Codice di comportamento, condotta e decisione | alta | [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]] | cap. 12, nuclei 01-05 | metodo e criteri sviluppati | dieci scenari e caso integrato | quesito situazionale | dieci quiz e checklist | completo | codice generale e disciplina dell'ente vigenti | - |
+| M-FC01/tutti | Piano | Matrice materie e piano 30/60/90 | alta | [[books/il-metodo-bando/struttura-madre]]; [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 13, nuclei 01-05 | dati, matrice, priorità e cicli sviluppati | calendari, casi e cruscotto | piano di studio | otto quiz, caso e checklist | completo | adattare al bando e al tempo reale | - |
+| M-FC01/tutti | Simulazione | Simulazione finale e diario errori | alta | [[books/il-metodo-bando/struttura-madre]] | cap. 14, nuclei 01-05 | protocollo, rubriche e diario sviluppati | quiz, scritto, caso, orale e situazionale | prova mista | correzione e recupero completi | completo | adattare alle regole del bando | - |
+| M-FC01/tutti | Appendici | Glossario, tabelle, Decoder, checklist, domande e orale | media/alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 15, nuclei 01-05 | apparati completi e spiegati | schede e caso integrato | strumenti di ripasso | 100 domande e sei quiz commentati | completo | aggiornare fonti vive | - |
 
 ## Quadro sintetico iniziale
 
@@ -176,3 +176,159 @@ Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati 
 | N-FC01-10-04 | mancante | Sviluppato flusso PNRR | completo | nucleo 04 e Quiz 5/8 |
 | N-FC01-10-05 | mancante | Sviluppato procedimento CAD | completo | nucleo 05 e Quiz 6 |
 | N-FC01-10-06 | mancante | Integrati casi e metodo | completo | nucleo 06 e verifica |
+
+## Copertura atomica formato 2 — capitolo 11
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-11-01 | M-FC01/tutti | Metodo | Fatto, competenza, regola, decisione ed evidenza | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 11, nucleo 01 | Definisce il metodo e la griglia delle sette domande | Matrice dati certi-mancanti-verifiche | scritto, caso e orale | Q:0 C:0 E:2 — mini-esercizi e domanda-trappola | completo | Adattare fonti e termini alla traccia | - |
+| N-FC01-11-02 | M-FC01/tutti | Procedimento | Protocollo, assegnazione, competenza, termini, accesso e fascicolo | alta | [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]] | cap. 11, nucleo 02 | Distingue registrazione, flusso interno, competenza e procedimento di accesso | Istanza assegnata all'ufficio errato | caso, scritto e orale | Q:1 C:1 E:1 — Quiz 2 e mini-esercizio | completo | Verificare disciplina del procedimento applicabile | - |
+| N-FC01-11-03 | M-FC01/tutti | Integrità | Trasparenza, minimizzazione, conflitto e riservatezza | alta | [[sources/fonti-trasversali-m-fc01-piao-anac-agid]] | cap. 11, nucleo 03 | Coordina finalità, base, necessità, rischio e misura | Prospetto pubblico con dati eccedenti e segnalazione | quiz, caso e orale | Q:2 C:1 E:1 — Quiz 3 e 8; esercizio | completo | Verificare obbligo di pubblicazione e regole vigenti | - |
+| N-FC01-11-04 | M-FC01/tutti | Performance | Attività, output, risultato, indicatore, target e coordinamento | alta | [[sources/fonti-trasversali-m-fc01-piao-anac-agid]] | cap. 11, nucleo 04 | Spiega misurazione, responsabilità, scostamento e revisione | Obiettivo trasversale in ritardo | quiz, caso e scritto | Q:1 C:1 E:1 — Quiz 4 e mini-esercizio | completo | Verificare sistema di misurazione dell'ente | - |
+| N-FC01-11-05 | M-FC01/contabile | Spesa | Titolo, autorizzazione, copertura, esecuzione e liquidazione | alta profilo | [[sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica]] | cap. 11, nucleo 05 | Ricostruisce la catena tecnica, amministrativa e contabile | Servizio urgente e fattura | quiz, caso e orale | Q:1 C:1 E:1 — Quiz 5 e mini-esercizio | completo | Applicare disciplina contabile vigente | - |
+| N-FC01-11-06 | M-FC01/tutti | Contratti e digitale | Fabbisogno, esecuzione, accettazione, progetto e monitoraggio | alta se bando | [[sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici]]; [[sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale]] | cap. 11, nucleo 06 | Distingue ciclo contrattuale, progetto e dato | Servizio digitale finanziato in ritardo | quiz, caso e scritto | Q:1 C:1 E:1 — Quiz 6 e mini-esercizio | completo | Verificare contratto, programma e fonti vive | - |
+| N-FC01-11-07 | M-FC01/Avvocatura | Contenzioso | Termine, fascicolo, trasmissione, riservatezza e quesito legale | alta profilo | [[sources/rd-30-ottobre-1933-n-1611-avvocatura-stato]]; [[sources/avvocatura-stato-organizzazione-funzioni]] | cap. 11, nucleo 07 | Definisce responsabilità dell'amministrazione e raccordo con l'Avvocatura | Atto urgente e parere non istruito | quiz, caso e orale | Q:1 C:2 E:1 — Quiz 7 e mini-esercizio | completo | Verificare termini e competenze del caso | - |
+
+## Checklist dimensionale — capitolo 11
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-11-01 | ✓ caso come decisione tracciabile | ✓ ordinare il ragionamento | ✓ lavoro ministeriale | ✓ sette domande | ✓ fatti/dati mancanti/valutazioni | ✓ soluzione controllabile | ✓ griglia iniziale | ✓ scritto, orale e caso | ✓ citazioni senza percorso | ✓ esercizi e trappola | ✓ frontmatter e riferimenti nel corpo |
+| N-FC01-11-02 | ✓ protocollo e fascicolo | ✓ preservare il flusso | ✓ procedimento digitale | ✓ ricezione, assegnazione, termine, accesso | ✓ competenza/registrazione | ✓ correzione tracciata | ✓ istanza errata | ✓ risposta condizionata | ✓ cancellare la ricezione | ✓ Quiz 2 ed esercizio | ✓ frontmatter e CAD |
+| N-FC01-11-03 | ✓ pubblicazione e conflitto | ✓ coordinare interessi | ✓ trasparenza e integrità | ✓ finalità, base, dati, verifica | ✓ documento pubblico/fascicolo/istruttoria | ✓ misure proporzionate | ✓ prospetto e segnalazione | ✓ domanda da commissario | ✓ segnalazione come prova | ✓ Quiz 3 e 8 | ✓ fonte trasversale dichiarata |
+| N-FC01-11-04 | ✓ livelli della performance | ✓ diagnosticare e correggere | ✓ PIAO e coordinamento | ✓ obiettivo, indicatore, target, dato | ✓ attività/output/risultato/impatto | ✓ revisione motivata | ✓ obiettivo trasversale | ✓ risposta breve | ✓ «manca coordinamento» | ✓ Quiz 4 ed esercizio | ✓ frontmatter e fonte PIAO |
+| N-FC01-11-05 | ✓ catena della spesa | ✓ verificare la liquidazione | ✓ contabilità statale | ✓ titolo, autorizzazione, imputazione, prova | ✓ disponibilità/autorizzazione | ✓ pagamento o gestione irregolarità | ✓ fattura urgente | ✓ schema di risposta | ✓ urgenza come sanatoria | ✓ Quiz 5 ed esercizio | ✓ legge n. 196/2009 dichiarata |
+| N-FC01-11-06 | ✓ requisiti di acquisto digitale | ✓ governare risultato e scadenza | ✓ contratto e progetto | ✓ SLA, dati, sicurezza, accettazione | ✓ contratto/progetto/monitoraggio | ✓ riconciliazione e rimedi | ✓ piattaforma in ritardo | ✓ caso integrato | ✓ identificativo come garanzia totale | ✓ Quiz 6 ed esercizio | ✓ Codice e CAD dichiarati |
+| N-FC01-11-07 | ✓ fascicolo difensivo e quesito | ✓ tutelare e istruire | ✓ rapporto con Avvocatura | ✓ cronologia, indice, lacune, termine | ✓ difesa/decisione amministrativa | ✓ attivazione e integrazione | ✓ atto urgente e parere | ✓ risposta concorsuale | ✓ trasferire la decisione | ✓ Quiz 7 ed esercizio | ✓ r.d. n. 1611/1933 dichiarato |
+
+## Delta di copertura — capitolo 11
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FC01-11-01 | mancante | Sviluppati metodo, dati, competenze e struttura della soluzione | completo | nucleo 01; inquadramento teorico |
+| N-FC01-11-02 | mancante | Sviluppati protocollo, termine, accesso e fascicolo | completo | nucleo 02; Quiz 2 |
+| N-FC01-11-03 | mancante | Integrati trasparenza, privacy e conflitto | completo | nucleo 03; Quiz 3 e 8 |
+| N-FC01-11-04 | mancante | Distinti livelli della performance e correzione | completo | nucleo 04; Quiz 4 |
+| N-FC01-11-05 | mancante | Ricostruita la catena della spesa | completo | nucleo 05; Quiz 5 |
+| N-FC01-11-06 | mancante | Coordinati contratto digitale, progetto e dati | completo | nucleo 06; Quiz 6 |
+| N-FC01-11-07 | mancante | Sviluppati fascicolo contenzioso e richiesta di parere | completo | nucleo 07; Quiz 7 |
+
+## Copertura atomica formato 2 — capitolo 12
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-12-01 | M-FC01/tutti | Metodo situazionale | Fatto, rischio, ruolo, gradualità e criteri | alta | [[sources/prove-situazionali-concorsi-ripam-maeci-sna]] | cap. 12, nucleo 01 | Definizioni, griglia e graduatoria delle alternative | dato mancante e cittadino rinviato | quesito situazionale | Q:2 C:2 E:1 — Quiz 1-2 e mini-esercizio | completo | regole specifiche del bando | - |
+| N-FC01-12-02 | M-FC01/tutti | Doveri | Legalità, imparzialità, servizio, errore e responsabilità | alta | [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]] | cap. 12, nucleo 02 | Coordina vincolo, bisogno, ruolo e tracciabilità | favore personale e rettifica | quesito e orale | Q:1 C:2 E:1 — Quiz 3 e scenari | completo | codice vigente | - |
+| N-FC01-12-03 | M-FC01/tutti | Riservatezza | Dati, strumenti digitali, canale e comunicazione | alta | [[sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento]] | cap. 12, nucleo 03 | Spiega necessità, destinatario, contenimento e comunicazione | invio errato e social | quesito e caso | Q:2 C:2 E:1 — Quiz 4-5 | completo | regole dell'amministrazione | - |
+| N-FC01-12-04 | M-FC01/tutti | Integrità | Conflitto, regali, pressioni e segnalazione | alta | [[sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici]] | cap. 12, nucleo 04 | Distingue rischio, accertamento e misura preventiva | associazione, ospitalità, pressione | quesito e orale | Q:3 C:3 E:1 — Quiz 6-7 e scenario 9 | completo | codice generale e integrativo | - |
+| N-FC01-12-05 | M-FC01/tutti | Organizzazione | Gerarchia, collaborazione, priorità, errori e assertività | alta | [[sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego]] | cap. 12, nucleo 05 | Spiega ruoli, graduazione e sostenibilità del lavoro | urgenze incompatibili e direttiva ambigua | quesito e caso | Q:3 C:2 E:1 — Quiz 8-10 | completo | assetto e canali dell'ente | - |
+
+## Checklist dimensionale — capitolo 12
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-12-01 | ✓ quesito e alternativa | ✓ graduare efficacia | ✓ prove situazionali | ✓ cinque criteri | ✓ migliore/plausibile/inadeguata | ✓ escalation proporzionata | ✓ scenari 1-2 | ✓ scelta motivata | ✓ parole positive | ✓ Quiz 1-2 | ✓ frontmatter e corpo autonomo |
+| N-FC01-12-02 | ✓ doveri applicati | ✓ tutelare imparzialità e servizio | ✓ codice di comportamento | ✓ vincolo, bisogno, canale | ✓ imparzialità/identità di trattamento | ✓ rettifica e responsabilità | ✓ scenari 3-4 | ✓ alternativa preferibile | ✓ severità come legalità | ✓ Quiz 3 | ✓ riferimenti leggibili |
+| N-FC01-12-03 | ✓ riservatezza e minimizzazione | ✓ governare comunicazione | ✓ lavoro digitale | ✓ dato, destinatario, canale, tempo | ✓ silenzio/riservatezza | ✓ contenimento | ✓ scenari 5-6 | ✓ graduatoria | ✓ silenzio prudenziale | ✓ Quiz 4-5 | ✓ fonti in frontmatter |
+| N-FC01-12-04 | ✓ conflitto e utilità | ✓ prevenire interferenze | ✓ integrità pubblica | ✓ relazione, ruolo, pratica, misura | ✓ rischio/illecito | ✓ segnalazione proporzionata | ✓ scenari 7-9 | ✓ quesito situazionale | ✓ colpa anticipata | ✓ Quiz 6-7 | ✓ codice dichiarato |
+| N-FC01-12-05 | ✓ gerarchia e collaborazione | ✓ coordinare lavoro e rischio | ✓ organizzazione ministeriale | ✓ priorità, fatto, proposta, riscontro | ✓ assertività/aggressività | ✓ escalation graduata | ✓ scenario 10 | ✓ metodo finale | ✓ obbedienza meccanica | ✓ Quiz 8-10 e caso | ✓ fonti nel frontmatter |
+
+## Delta di copertura — capitolo 12
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FC01-12-01 | mancante | Sviluppato metodo di lettura e graduazione | completo | nucleo 01; Quiz 1-2 |
+| N-FC01-12-02 | mancante | Applicati legalità, servizio, imparzialità e responsabilità | completo | nucleo 02; scenari 3-4 |
+| N-FC01-12-03 | mancante | Sviluppati riservatezza, digitale e comunicazione | completo | nucleo 03; Quiz 4-5 |
+| N-FC01-12-04 | mancante | Integrati conflitto, regali, pressioni e segnalazione | completo | nucleo 04; scenari 7-9 |
+| N-FC01-12-05 | mancante | Sviluppati gerarchia, priorità ed errori | completo | nucleo 05; Quiz 8-10; caso ragionato |
+
+## Copertura atomica formato 2 — capitolo 13
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-13-01 | M-FC01/tutti | Baseline | Dati, tempo, livello e controllo | alta | [[sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026]] | cap. 13, nucleo 01 | Definisce input, vincoli, baseline e indicatori | piano a sessanta giorni | piano personale | Q:2 C:1 E:1 — Quiz 1-2 | completo | verificare bando e calendario | - |
+| N-FC01-13-02 | M-FC01/tutti | Matrice | Materia, profilo, prova, priorità e taglio | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 13, nucleo 02 | Sviluppa colonne, A/B/C, core/modulo/delta | matrice compilabile | matrice materie | Q:1 C:0 E:1 — Quiz 3 | completo | verificare perimetro del bando | - |
+| N-FC01-13-03 | M-FC01/tutti | Primo ciclo | Perimetro, fondamentali e output | alta | [[books/il-metodo-bando/struttura-madre]] | cap. 13, nucleo 03 | Spiega cinque funzioni e revisione al giorno 30 | lettura alta e resa bassa | calendario | Q:1 C:1 E:1 — Quiz 4 | completo | adattare al tempo reale | - |
+| N-FC01-13-04 | M-FC01/tutti | Secondo ciclo | Consolidamento, forme, diario e recupero | alta | [[books/il-metodo-bando/struttura-madre]] | cap. 13, nucleo 04 | Coordina riconoscimento, spiegazione e applicazione | quiz in crescita e orale fermo | settimana tipo | Q:2 C:1 E:1 — Quiz 5-6 | completo | adattare alle prove | - |
+| N-FC01-13-05 | M-FC01/tutti | Terzo ciclo | Simulazione, cruscotto, taglio e versioni | alta | [[sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026]] | cap. 13, nucleo 05 | Sviluppa ciclo di simulazione e decisione | avviso a venti giorni | piano finale | Q:2 C:1 E:1 — Quiz 7-8 e caso finale | completo | monitorare avvisi ufficiali | - |
+
+## Checklist dimensionale — capitolo 13
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-13-01 | ✓ baseline | ✓ istruire il piano | ✓ dati del bando | ✓ sei input e quattro prove | ✓ ore ideali/sostenibili | ✓ indicatori | ✓ 60 giorni | ✓ scheda avvio | ✓ calendario prematuro | ✓ Quiz 1-2 | ✓ frontmatter |
+| N-FC01-13-02 | ✓ matrice e priorità | ✓ allocare tempo | ✓ core/M-FC01/delta | ✓ otto colonne | ✓ A/B/C | ✓ taglio motivato | ✓ riga compilata | ✓ matrice | ✓ importanza assoluta | ✓ Quiz 3 | ✓ riferimenti leggibili |
+| N-FC01-13-03 | ✓ primo ciclo | ✓ costruire fondamentali | ✓ giorni 1-30 | ✓ cinque funzioni | ✓ lettura/output | ✓ nuova baseline | ✓ resa bassa | ✓ calendario | ✓ recupero con ore fittizie | ✓ Quiz 4 | ✓ frontmatter |
+| N-FC01-13-04 | ✓ consolidamento | ✓ trasferire tra forme | ✓ giorni 31-60 | ✓ settimana e diario | ✓ riconoscere/spiegare/applicare | ✓ recupero | ✓ orale fermo | ✓ output di prova | ✓ leggere la soluzione | ✓ Quiz 5-6 | ✓ metodo leggibile |
+| N-FC01-13-05 | ✓ simulazione e taglio | ✓ decidere nel finale | ✓ giorni 61-90 | ✓ cruscotto e registro | ✓ soglia ufficiale/obiettivo | ✓ piano aggiornato | ✓ avviso tardivo | ✓ simulazione | ✓ nuovi materiali | ✓ Quiz 7-8 e caso | ✓ fonti dichiarate |
+
+## Delta di copertura — capitolo 13
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FC01-13-01 | mancante | Sviluppati input e baseline | completo | nucleo 01 |
+| N-FC01-13-02 | mancante | Costruita matrice e regola di taglio | completo | nucleo 02 |
+| N-FC01-13-03 | mancante | Sviluppato primo ciclo | completo | nucleo 03 |
+| N-FC01-13-04 | mancante | Sviluppati consolidamento e diario | completo | nucleo 04 |
+| N-FC01-13-05 | mancante | Sviluppati simulazione, cruscotto e aggiornamento | completo | nucleo 05; caso ragionato |
+
+## Copertura atomica formato 2 — capitolo 14
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-14-01 | M-FC01/tutti | Progetto prova | Condizioni, blueprint, rubrica e qualità | alta | [[sources/inpa-formez-ripam-concorsi-funzioni-centrali]] | cap. 14, nucleo 01 | Definisce ciclo e condizioni confrontabili | scritto ancora generico | progetto simulazione | Q:0 C:1 E:1 — caso e controllo | completo | regole ufficiali della prova | - |
+| N-FC01-14-02 | M-FC01/tutti | Quiz | Classificazione, opzioni, cause e correzione | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 14, nucleo 02 | Spiega metodo e diagnosi del quiz | otto quesiti originali | batteria quiz | Q:8 C:0 E:1 — otto quiz | completo | perimetro del bando | - |
+| N-FC01-14-03 | M-FC01/tutti | Scritto | Consegna, scaletta, risposta e caso | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 14, nucleo 03 | Distingue contenuto, forma, condizione e controllo | risposta e caso digitale | scritto/caso | Q:0 C:2 E:1 — tracce e rubrica | completo | criteri ufficiali se disponibili | - |
+| N-FC01-14-04 | M-FC01/tutti | Orale/situazionale | Struttura, condotta, osservazione e feedback | alta | [[sources/prove-situazionali-concorsi-ripam-maeci-sna]] | cap. 14, nucleo 04 | Spiega risposta orale e scelta situazionale | due domande e scenario | orale/situazionale | Q:0 C:3 E:1 — esercizio registrato | completo | istruzioni della procedura | - |
+| N-FC01-14-05 | M-FC01/tutti | Diario | Errore, causa, regola, recupero e nuova prova | alta | [[books/il-metodo-bando/struttura-madre]] | cap. 14, nucleo 05 | Sviluppa ciclo di correzione e chiusura | dal punteggio al piano | diario errori | Q:0 C:1 E:2 — caso e checklist | completo | adattare al piano reale | - |
+
+## Checklist dimensionale — capitolo 14
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-14-01 | ✓ simulazione | ✓ produrre evidenze | ✓ regole del bando | ✓ condizioni-blueprint-rubrica | ✓ scenario/regola | ✓ confrontabilità | ✓ scritto generico | ✓ progetto | ✓ copia concorso passato | ✓ esercizio | ✓ frontmatter |
+| N-FC01-14-02 | ✓ quiz e distrattore | ✓ diagnosticare | ✓ nuclei M-FC01 | ✓ otto quesiti | ✓ conoscenza/lettura/tempo | ✓ recupero | ✓ batteria | ✓ quiz | ✓ lettera memorizzata | ✓ 8 risposte | ✓ riferimenti leggibili |
+| N-FC01-14-03 | ✓ risposta e caso | ✓ strutturare | ✓ prova scritta | ✓ consegna-scaletta-controllo | ✓ contenuto/forma | ✓ nuova prova | ✓ due tracce | ✓ scritto | ✓ scrittura immediata | ✓ rubrica | ✓ frontmatter |
+| N-FC01-14-04 | ✓ orale e situazionale | ✓ collegare e decidere | ✓ prove M-FC01 | ✓ modulo e criteri | ✓ fluidità/accuratezza | ✓ feedback operativo | ✓ domande e scenario | ✓ orale/situazionale | ✓ decisione aggressiva | ✓ registrazione | ✓ fonte prova |
+| N-FC01-14-05 | ✓ diario | ✓ correggere | ✓ ciclo BANDO | ✓ causa-regola-recupero-esito | ✓ errore/materia | ✓ piano selettivo | ✓ caso finale | ✓ autocorrezione | ✓ ripasso generico | ✓ nuova prova | ✓ frontmatter |
+
+## Delta di copertura — capitolo 14
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FC01-14-01 | mancante | Sviluppati progetto, rubrica e qualità | completo | nucleo 01 |
+| N-FC01-14-02 | mancante | Creata batteria originale e metodo di correzione | completo | nucleo 02 |
+| N-FC01-14-03 | mancante | Sviluppati scritto e caso | completo | nucleo 03 |
+| N-FC01-14-04 | mancante | Integrati orale e situazionale | completo | nucleo 04 |
+| N-FC01-14-05 | mancante | Sviluppati diario, recupero e secondo controllo | completo | nucleo 05 |
+
+## Copertura atomica formato 2 — capitolo 15
+
+| Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-15-01 | M-FC01/tutti | Glossario | 35 termini e distinzioni operative | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 15, nucleo 01 | Definizioni, funzione e coppie critiche | esempi ministeriali | richiamo/orale | Q:1 C:0 E:1 — domanda e esercizio | completo | fonti mobili | - |
+| N-FC01-15-02 | M-FC01/tutti | Tabelle | istituzioni, organizzazione, flussi e profili | alta | [[sources/governo-presidenza-consiglio-ministeri-organizzazione]] | cap. 15, nucleo 02 | Confronti con limiti e verifiche | pratica assegnata male | caso/orale | Q:1 C:1 E:1 — applicazione tabelle | completo | assetti vigenti | - |
+| N-FC01-15-03 | M-FC01/tutti | Decoder | dodici campi, procedura, profilo, prove e versioni | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 15, nucleo 03 | Spiega estrazione e decisione | bando multi-profilo | scheda bando | Q:1 C:1 E:1 — caso e esercizio | completo | bando e avvisi | - |
+| N-FC01-15-04 | M-FC01/tutti | Checklist/orale | domanda, studio, caso, situazionale e rubrica | alta | [[sources/aran-ccnl-funzioni-centrali-pcm-2022-2026]] | cap. 15, nucleo 04 | Spiega evidenze e schema in sei passaggi | profilo contabile | checklist/orale | Q:1 C:1 E:1 — caso ragionato | completo | requisiti e profilo | - |
+| N-FC01-15-05 | M-FC01/tutti | Ripasso | cento domande e tre giri di recupero | alta | [[sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura]] | cap. 15, nucleo 05 | Organizza richiamo, struttura e applicazione | estrazione casuale | ripasso misto | Q:6 C:0 E:2 — verifica finale | completo | domande originali | - |
+
+## Checklist dimensionale — capitolo 15
+
+| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| N-FC01-15-01 | ✓ 35 definizioni | ✓ richiamare | ✓ M-FC01 | ✓ voci e coppie | ✓ concetti contigui | ✓ uso corretto | ✓ esempi | ✓ orale/quiz | ✓ recitazione | ✓ esercizio | ✓ frontmatter |
+| N-FC01-15-02 | ✓ tabelle | ✓ confrontare | ✓ istituzioni e flussi | ✓ cinque schemi | ✓ identità/funzione | ✓ verifica fonte | ✓ pratica errata | ✓ caso/orale | ✓ gerarchia assoluta | ✓ applicazione | ✓ fonti leggibili |
+| N-FC01-15-03 | ✓ Decoder | ✓ decidere | ✓ bando M-FC01 | ✓ dodici campi | ✓ dato/conseguenza | ✓ piano aggiornato | ✓ multi-profilo | ✓ scheda | ✓ sola lettura materie | ✓ esercizio | ✓ frontmatter |
+| N-FC01-15-04 | ✓ checklist/rubrica | ✓ controllare output | ✓ domanda e prove | ✓ quattro checklist e sei passaggi | ✓ spunta/evidenza | ✓ correzione | ✓ caso integrato | ✓ orale/caso | ✓ rituale | ✓ rubrica | ✓ CCNL dichiarato |
+| N-FC01-15-05 | ✓ domande originali | ✓ recuperare | ✓ tutto il modulo | ✓ cinque blocchi | ✓ richiamo/applicazione | ✓ diario | ✓ estrazione | ✓ ripasso | ✓ lettura passiva | ✓ 6 quiz | ✓ fonti frontmatter |
+
+## Delta di copertura — capitolo 15
+
+| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
+|---|---|---|---|---|
+| N-FC01-15-01 | mancante | Sviluppato glossario operativo | completo | nucleo 01 |
+| N-FC01-15-02 | mancante | Create tabelle con limiti | completo | nucleo 02 |
+| N-FC01-15-03 | mancante | Creato Decoder compilabile | completo | nucleo 03 |
+| N-FC01-15-04 | mancante | Sviluppate checklist, schema e rubrica | completo | nucleo 04 |
+| N-FC01-15-05 | mancante | Create 100 domande originali e verifica | completo | nucleo 05; verifica finale |

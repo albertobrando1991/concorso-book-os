@@ -9,9 +9,9 @@ entities: ["Legge 241/1990", "Pubblica amministrazione"]
 source_refs: ["sources/legge-241-1990-procedimento-amministrativo.md"]
 book_refs: ["il-metodo-bando"]
 confidence: 0.99
-updated_at: "2026-07-21T14:45:00+02:00"
+updated_at: "2026-08-21T00:00:00+02:00"
 created_at: "2026-07-21T14:45:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["source", "law", "primary-source", "autotutela", "legge-182-2025"]
 source_type: law
@@ -45,4 +45,4 @@ La disposizione mantiene un regime specifico per provvedimenti conseguiti con fa
 
 ## Stato revisione
 
-Fonte primaria consolidata nell'audit P6. Controllare il testo vigente prima della pubblicazione.
+Fonte primaria ricontrollata nello step 15 della pipeline VOL-01. Il termine ordinario di sei mesi riportato nel capitolo è coerente con il testo vigente al 21 agosto 2026.

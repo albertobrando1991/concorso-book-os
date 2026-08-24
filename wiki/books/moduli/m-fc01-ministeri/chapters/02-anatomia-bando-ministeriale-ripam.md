@@ -2,21 +2,21 @@
 id: chapter-m-fc01-02-anatomia-bando-ministeriale-ripam
 type: book_chapter
 title: Anatomia del bando ministeriale/RIPAM
-status: revised_draft
+status: final
 domain: concorsi pubblici italiani
 topics: ["bando", "ripam", "inpa", "funzioni centrali"]
 entities: ["inPA", "Formez", "RIPAM", "Ministeri"]
 source_refs: ["sources/inpa-formez-ripam-concorsi-funzioni-centrali.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura.md"]
 book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.84
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: "2026-06-27T22:08:22+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "module-code-m-fc01", "structure"]
 book_id: m-fc01-ministeri
 outline_section: 2
-draft_stage: editorial-revision
+draft_stage: text_frozen
 module_code: M-FC01
 module_family: funzioni-centrali
 last_manual_writer_run: 2026-08-04
@@ -27,7 +27,7 @@ last_compiled_from: [
   "wiki/sources/inpa-formez-ripam-concorsi-funzioni-centrali.md",
   "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
   "wiki/sources/m-fc01-dossier-redazionale-ministeri-pcm-avvocatura.md",
-  "wiki/books/il-metodo-bando/chapters/leggere-bando-senza-perdersi.md"
+  "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md"
 ]
 ---
 
@@ -187,10 +187,10 @@ Se una risposta manca, il piano di studio non è ancora pronto.
 
 ## Da sapere in 5 righe
 
-Il bando ministeriale o RIPAM è la fonte operativa che trasforma il concorso in un piano di preparazione. 
-Il candidato deve leggere ente, profilo, requisiti, prove, materie, punteggi, soglie, titoli e scadenze prima di iniziare a studiare. 
-La forma della prova dipende dal bando specifico: quiz, scritto, teorico-pratico e orale richiedono allenamenti diversi. 
-inPA e gli altri canali ufficiali servono per cercare, presentare e monitorare la procedura, ma il bando resta il testo da decodificare. 
+Il bando ministeriale o RIPAM è la fonte operativa che trasforma il concorso in un piano di preparazione.
+Il candidato deve leggere ente, profilo, requisiti, prove, materie, punteggi, soglie, titoli e scadenze prima di iniziare a studiare.
+La forma della prova dipende dal bando specifico: quiz, scritto, teorico-pratico e orale richiedono allenamenti diversi.
+inPA e gli altri canali ufficiali servono per cercare, presentare e monitorare la procedura, ma il bando resta il testo da decodificare.
 Una buona scheda bando permette di passare da studio generico a preparazione mirata.
 
 ## Caso guidato
@@ -209,14 +209,14 @@ Dopo una settimana Giulia non sta più studiando "per un concorso pubblico" in m
 
 **Domanda:** perché il candidato non deve limitarsi a leggere l'elenco delle materie del bando?
 
-**Risposta modello:** 
+**Risposta modello:**
 Il candidato non deve limitarsi all'elenco delle materie perché il bando contiene anche il profilo, le prove, i punteggi, le soglie, i titoli, le scadenze e le modalità operative della procedura. Le materie indicano che cosa può essere richiesto, ma la forma della prova indica come quel contenuto verrà valutato. In un concorso ministeriale o RIPAM la stessa materia può richiedere un allenamento diverso se viene chiesta in un quiz, in una risposta scritta, in un caso teorico-pratico o all'orale. Per questo il bando deve essere trasformato in una scheda operativa di studio.
 
 ## Domanda-trappola
 
 **Domanda:** Se un concorso è pubblicato su inPA, è sufficiente controllare il portale per conoscere tutta la procedura?
 
-**Risposta corretta:** 
+**Risposta corretta:**
 No. inPA è il portale operativo per cercare bandi, profili, requisiti, prove e procedure, ma occorre leggere anche il bando, gli allegati, il sito dell'amministrazione procedente e gli altri canali ufficiali indicati. Il rischio è confondere il luogo digitale della procedura con il contenuto completo della disciplina concorsuale. Per studiare correttamente, il candidato deve decodificare il bando specifico.
 
 ## Mini-esercizio

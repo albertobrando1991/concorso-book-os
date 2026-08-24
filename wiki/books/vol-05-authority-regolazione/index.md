@@ -2,21 +2,21 @@
 id: vol-05-authority-regolazione
 type: book
 title: "VOL-05 — Authority e regolazione"
-status: professional_draft
+status: revision_in_progress
 domain: concorsi pubblici italiani
 topics: ["authority indipendenti", "regolazione", "vigilanza", "enforcement"]
 entities: ["AGCM", "ARERA", "AGCOM", "CONSOB", "Banca d'Italia", "IVASS", "Garante per la protezione dei dati personali", "ANAC"]
 source_refs: ["sources/vol-05-dossier-editoriale-authority-regolazione-v4.md", "sources/vol-05-bandi-authority-2022-2025.md", "sources/m-fc05-verifica-normativa-2026-07-29.md", "sources/authority-indipendenti-leggi-istitutive.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
 book_refs: ["il-metodo-bando", "m-fc05-authority-indipendenti"]
 confidence: 0.85
-updated_at: 2026-07-29
+updated_at: 2026-08-22
 created_at: 2026-07-24
 review_required: true
 canonical: true
 tags: ["vol-05", "m-fc05", "authority", "regolazione"]
 book_id: vol-05-authority-regolazione
 companion_to: il-metodo-bando
-draft_stage: professional-draft
+draft_stage: full_editorial_revision
 front_matter_layout: analytical-index
 index_detail: chapters-and-sections
 ---
@@ -33,12 +33,13 @@ Collana: **Il Metodo BANDO** · Volume specialistico M-FC05.
 
 Opera didattica per la preparazione concorsuale. Le norme, i bandi, i regolamenti del personale e gli atti di soft law richiedono verifica alla data del bando target. Il volume non sostituisce consulenza legale né le fonti ufficiali. I contenuti B-PA restano nel [[books/il-metodo-bando/struttura-madre|VOL-01]].
 
-## Servizi digitali inclusi
+## Strumenti operativi inclusi nel volume
 
-- Registro aggiornamenti normativi e concorsuali del volume.
-- Bando Decoder M-FC05 e matrice authority–materia–prova.
-- Schede compilabili per consultazione, istruttoria, decisione e memo regolatorio.
-- Laboratorio di casi, rubriche di autovalutazione e diario degli errori.
+- Bando Decoder M-FC05 e griglie authority–materia–prova integrate nei capitoli.
+- Schemi per consultazione, istruttoria, decisione e memo regolatorio.
+- Laboratorio di casi, rubriche di autovalutazione e diario degli errori nel capitolo 15.
+
+Non sono promessi servizi esterni, aggiornamenti automatici o materiali separati non inclusi nel libro.
 
 ## Sommario del volume
 
@@ -48,7 +49,7 @@ Opera didattica per la preparazione concorsuale. Le norme, i bandi, i regolament
 | 2 | Regolazione dei mercati e dei servizi | 8–10 |
 | 3 | Mercati finanziari e vigilanza prudenziale | 11–12 |
 | 4 | Privacy, integrità pubblica e responsabilità | 13–14 |
-| 5 | Laboratorio e strumenti | 15 + appendici |
+| 5 | Laboratorio, strumenti e conclusione | 15 |
 
 ## Premessa
 
@@ -170,7 +171,7 @@ Capitoli 13–14: poteri, procedimenti, cooperazione europea, whistleblowing e v
 
 #### Sommario del modulo
 
-Capitolo 15 e appendici: dieci simulazioni, tavole comparative e kit di aggiornamento.
+Capitolo 15: simulazioni, rubriche, piano di allenamento e conclusione operativa.
 
 15. **Laboratorio delle prove authority**
    - 15.1 Quesito sintetico su regolazione UE e rete europea
@@ -179,14 +180,7 @@ Capitolo 15 e appendici: dieci simulazioni, tavole comparative e kit di aggiorna
    - 15.4 Caso AGCOM su piattaforma e memo inglese
    - 15.5 Caso CONSOB/IVASS e decisione sanzionatoria
    - 15.6 Rubrica di correzione, diario degli errori e piano 30/60/90
-
-## Appendici operative
-
-- A. Atlante comparativo delle authority: fonti, organi, poteri, reti UE, personale e giudice.
-- B. Tavole dei procedimenti: consultazione, AIR/VIR, istruttoria, ispezione, impegni, sanzione e ricorso.
-- C. Toolkit Bando Decoder, matrice materie e registro fonti.
-- D. Lessico inglese regolatorio e modelli di memo.
-- E. Registro aggiornamenti normativi e concorsuali.
+   - 15.7 Conclusione: dalla fonte alla prova, senza automatismi
 
 ## Matrice di copertura e stato
 

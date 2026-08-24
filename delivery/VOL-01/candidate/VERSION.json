@@ -1,11 +1,28 @@
 {
-  "volume": "VOL-01",
+  "volumeCode": "VOL-01",
   "title": "Il Metodo BANDO",
-  "version": "VOL-01-pdf-recovery-2026.08.21.1",
-  "candidate_date": "2026-08-21",
-  "page_count": 593,
-  "trim_inches": [6.69, 9.61],
-  "bleed": false,
-  "status": "technical-proof-candidate",
-  "human_signoff": "pending"
+  "moduleCode": "M-PA01",
+  "candidateVersion": "VOL-01-candidate-2026.08.22.1",
+  "editorialVersion": "1.0.0-candidate",
+  "preparedAt": "2026-08-22",
+  "normativeCutoff": "2026-08-21",
+  "baseCommit": "fedfb0fe49cef4c111f18ac014c77d7eb1e1cd4a",
+  "remoteMainObserved": "c5f3ac01cc896b22563216eede96367235cd8fbe",
+  "branch": "codex/publish-volumes-01-03-05-10-11",
+  "pipeline": {
+    "completedThrough": 23,
+    "humanConfirmationRequiredAt": 24,
+    "status": "candidate_pending_human_confirmation"
+  },
+  "contents": {
+    "frontMatterSections": 6,
+    "editorialSections": 32,
+    "illustrations": 152,
+    "interiorPages": 592,
+    "trimSizeInches": [6.6933, 9.61]
+  },
+  "interiorPdf": {
+    "file": "vol-01-interior-kdp.pdf",
+    "sha256": "e8b17096975f9a2fcec5c1cf1870f2fcde5d61f1d151e6fa1048a5cd8742bcde"
+  }
 }

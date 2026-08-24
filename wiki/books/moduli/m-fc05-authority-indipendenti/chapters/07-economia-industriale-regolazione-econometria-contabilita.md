@@ -2,21 +2,21 @@
 id: chapter-m-fc05-07-economia-industriale-regolazione-econometria-contabilita
 type: book_chapter
 title: "Economia industriale, regolazione, econometria e contabilità regolatoria"
-status: professional_draft
+status: final
 domain: economia della regolazione
 topics: ["economia industriale", "tariffe", "econometria", "contabilità regolatoria"]
 entities: ["AGCM", "ARERA", "AGCOM", "Commissione europea"]
 source_refs: ["sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24.md", "sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24.md", "sources/vol-05-bandi-authority-2022-2025.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.87
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "economia-della-regolazione"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 7
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/03-flusso-economia-regolazione-dati.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/04-distinzioni-economia-regolazione-dati.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/05-sintesi-economia-regolazione-dati.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # Economia industriale, regolazione, econometria e contabilità regolatoria
 
-## Scheda di lavoro
+## N-MF05-07-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Usare i concetti economici come strumenti per leggere e motivare una decisione regolatoria, senza ridurli a formule isolate dal mercato, dalla fonte e dall'interesse pubblico tutelato.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Mappa mercato–problema–strumento, checklist per una nota economica, lettura di un indicatore e caso sulla contabilità regolatoria.
 
 > **Regola di metodo.** Non partire da un indice, da un prezzo o da una formula. Parti dal potere attribuito all'Autorità e dal problema da risolvere; poi verifica mercato, dati, assunzioni, effetti e limiti del metodo usato.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -62,7 +62,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 7.1 — Mappa BANDO: Economia della regolazione.](../assets/chapter-07/01-mappa-bando-economia-regolazione-dati.png)
 
-*Figura 7.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 7.1 — La tavola orienta la lettura di struttura del mercato e separa il perimetro dalle eccezioni.*
 
 ### Dalla struttura del mercato alla domanda regolatoria
 
@@ -82,9 +82,11 @@ Nei servizi a rete, ad esempio, le economie di scala e la rilevanza dell'infrast
 
 La qualità del ragionamento dipende da questa catena. Una misura che incide sui prezzi all'ingrosso, per esempio, deve spiegare quale problema di accesso o di incentivo intende affrontare e perché il mercato non lo corregga in modo sufficiente. Una decisione sulla qualità deve chiarire quale livello o quale modalità di servizio è rilevante per utenti e concorrenza. Il criterio non è trovare il termine economico più tecnico, ma rendere verificabile il nesso tra problema, intervento ed effetto atteso.
 
+## N-MF05-07-02 · Istituti e distinzioni
+
 ![Figura 7.2 — Architettura: Economia della regolazione.](../assets/chapter-07/02-architettura-economia-regolazione-dati.png)
 
-*Figura 7.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 7.2 — La tavola mette a confronto potere di mercato e incentivi e tariffe senza sovrapporli.*
 
 ### Regolare incentivi, costi, prezzi e qualità
 
@@ -108,7 +110,7 @@ La proporzionalità economica non coincide con il minor costo immediato. Richied
 
 ![Figura 7.3 — Sequenza operativa: Economia della regolazione.](../assets/chapter-07/03-flusso-economia-regolazione-dati.png)
 
-*Figura 7.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 7.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Econometria: descrivere, stimare, attribuire
 
@@ -129,9 +131,11 @@ Un indicatore affidabile richiede almeno sei informazioni: oggetto misurato, uni
 
 ![Figura 7.4 — Distinzioni essenziali: Economia della regolazione.](../assets/chapter-07/04-distinzioni-economia-regolazione-dati.png)
 
-*Figura 7.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 7.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Contabilità regolatoria: rendere leggibili costi e trasferimenti
+
+## N-MF05-07-03 · Poteri, procedura e conseguenze
 
 La contabilità regolatoria va distinta dalla contabilità civilistica. Il bilancio rappresenta la situazione economica, patrimoniale e finanziaria dell'impresa secondo la disciplina applicabile; la contabilità regolatoria, quando è prevista, organizza informazioni utili a un preciso controllo di settore. Può rendere comparabili costi, ricavi, attività e trasferimenti interni riferiti a servizi, segmenti o componenti sottoposti a regolazione.
 
@@ -169,8 +173,19 @@ La trasparenza metodologica protegge sia l'interesse pubblico sia il destinatari
 
 ![Figura 7.5 — Sintesi operativa: Economia della regolazione.](../assets/chapter-07/05-sintesi-economia-regolazione-dati.png)
 
-*Figura 7.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 7.5 — La tavola chiude il percorso collegando contabilità regolatoria a controfattuale.*
 
+### Strumenti quantitativi: leggere il numero senza subirlo
+
+La quota di mercato è un indizio, non una conclusione autosufficiente. Un indice di concentrazione come l'HHI, ottenuto sommando i quadrati delle quote degli operatori, rende confrontabili strutture diverse e segnala dove approfondire; non dimostra da solo potere di mercato né effetti anticoncorrenziali. La lettura richiede almeno definizione del mercato, barriere all'entrata, sostituibilità, potere degli acquirenti e dinamica temporale. Anche l'elasticità va interpretata: misura quanto una quantità reagisce alla variazione di un prezzo o di un'altra variabile, ma la stima dipende da dati, periodo, modello e comportamento osservato.
+
+Un'analisi econometrica credibile separa correlazione e attribuzione causale. La specificazione esplicita variabile dipendente, regressori, unità di osservazione e periodo; l'omissione di una variabile rilevante può trasferire sul coefficiente stimato un effetto che appartiene ad altro fattore. Per esempio, se dopo un aumento tariffario cresce la morosità, non basta correlare le due serie: reddito, stagione, inflazione, composizione dell'utenza e modifiche del servizio possono influenzare entrambe. Robustezza, intervalli di confidenza e analisi di sensibilità rendono visibile l'incertezza invece di nasconderla dietro una cifra decimale.
+
+Il controfattuale risponde alla domanda decisiva: che cosa sarebbe accaduto senza la misura o la condotta osservata? Può essere costruito con un gruppo di confronto, una serie storica coerente o un modello, purché le assunzioni siano dichiarate. In un esercizio didattico, un mercato passa da quattro operatori con quote 40, 30, 20 e 10 a tre operatori con quote 50, 30 e 20. L'HHI sale da 3.000 a 3.800 punti: il dato indica un aumento della concentrazione, ma la valutazione richiede ancora di sapere perché le quote sono cambiate, quali barriere esistono e se i clienti dispongono di alternative effettive.
+
+## N-MF05-07-04 · Applicazione alla prova
+
+La contabilità regolatoria aggiunge un altro livello di cautela. Costi comuni, costi direttamente attribuibili e trasferimenti infragruppo devono essere separati con criteri coerenti e verificabili. Una base di costo gonfiata può trasferire inefficienze sugli utenti; una base troppo stretta può compromettere qualità e investimenti. Il funzionario ricostruisce perimetro, metodo di allocazione, driver, riconciliazione con la contabilità generale e controlli. Solo dopo collega i numeri alla decisione, motivando benefici, oneri distributivi e margine di incertezza.
 ### Mappa BANDO
 
 Le espressioni «economia industriale», «regolazione tariffaria», «analisi dei dati», «contabilità regolatoria» o «valutazione d'impatto» richiedono un collegamento tra concetto, fonte e decisione.
@@ -219,6 +234,8 @@ No. L'andamento temporale prova una successione, non necessariamente un nesso ca
 
 Un regolatore osserva che, dopo una nuova misura, il costo totale dichiarato per un servizio passa da 100 a 108 e l'indice di qualità passa da 80 a 78. Completa la lettura preliminare senza attribuire cause non dimostrate.
 
+## N-MF05-07-05 · Consolidamento e verifica
+
 | Campo | Risposta da impostare |
 | --- | --- |
 | Variazione del costo totale | Aumento di 8 unità, pari all'8% rispetto alla base 100 |
@@ -229,10 +246,44 @@ Un regolatore osserva che, dopo una nuova misura, il costo totale dichiarato per
 
 L'esercizio è corretto se distingue calcolo, descrizione e interpretazione. La variazione percentuale è un'informazione; la decisione richiede ancora fonte, dati affidabili, criterio settoriale e motivazione.
 
-### Riferimenti consolidati
+### Laboratorio di qualificazione
 
-[[sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24]], [[sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24]], [[topics/economia-industriale-econometria-contabilita-regolatoria-authority]], [[topics/concorrenza-servizi-comunicazioni-regolati]].
+Per allenare struttura del mercato, parti da un fascicolo minimo: una richiesta, due documenti non perfettamente coerenti e una fonte che attribuisce il potere. Scrivi in colonne separate i fatti provati, le allegazioni e gli elementi ancora da acquisire. Poi confronta potere di mercato con incentivi e tariffe: annota soggetto, presupposto, funzione ed effetto di ciascun istituto. Il confronto impedisce di scegliere la soluzione soltanto perché una parola della traccia ricorda una definizione studiata.
 
-### Note di review editoriale
+Passa quindi a econometria. Indica chi avvia l'attività, quali garanzie devono essere rispettate e quale atto può chiuderla. Se la fonte lascia un margine di valutazione, rendi espliciti i criteri: gravità, durata, diffusione, rischio, collaborazione e proporzionalità, secondo il settore applicabile. Collega contabilità regolatoria al documento che ne permette la verifica e tratta controfattuale come una conclusione da motivare, non come un'etichetta. La scheda è completa quando un secondo lettore può ricostruire il percorso senza conoscere l'intenzione di chi l'ha compilata.
 
-Prima della chiusura del volume, verificare per ciascun quesito settoriale: fonte del potere, mercato o servizio di riferimento, soggetti obbligati, definizioni degli indicatori, dati e periodo osservato, metodologia economica, disciplina tariffaria vigente, obblighi di separazione contabile, manuali applicabili, eventuali verifiche esterne e atto che impone la raccolta. Non riportare coefficienti, valori di remunerazione, formule di recupero dei costi o soglie di potere di mercato senza la fonte ufficiale vigente richiesta dal caso.
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito struttura del mercato senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra potere di mercato e incentivi e tariffe poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a econometria giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di contabilità regolatoria e quale conseguenza produrrebbe su controfattuale. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama struttura del mercato?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** potere di mercato e incentivi e tariffe possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato econometria nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di contabilità regolatoria?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su controfattuale?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama struttura del mercato e chiede un intervento immediato su controfattuale. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere potere di mercato da incentivi e tariffe e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta econometria, si collega contabilità regolatoria al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

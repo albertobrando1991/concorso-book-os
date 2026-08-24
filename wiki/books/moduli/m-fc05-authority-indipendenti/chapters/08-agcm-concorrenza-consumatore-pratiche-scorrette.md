@@ -2,21 +2,21 @@
 id: chapter-m-fc05-08-agcm-concorrenza-consumatore-pratiche-scorrette
 type: book_chapter
 title: "AGCM: concorrenza, consumatore e pratiche scorrette"
-status: professional_draft
+status: final
 domain: concorrenza e consumatori
 topics: ["concorrenza", "consumatori", "pratiche scorrette", "intese", "abuso di posizione dominante"]
 entities: ["AGCM", "Commissione europea"]
 source_refs: ["sources/agcm-concorrenza-consumatori-pratiche-scorrette-2026-07-24.md", "sources/authority-indipendenti-leggi-istitutive.md", "sources/sanzioni-impegni-rimedi-giurisdizione-authority-2026-07-24.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.89
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "agcm", "antitrust", "consumatori"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 8
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/03-flusso-agcm-concorrenza-consumatore.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/04-distinzioni-agcm-concorrenza-consumatore.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/05-sintesi-agcm-concorrenza-consumatore.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # AGCM: concorrenza, consumatore e pratiche scorrette
 
-## Scheda di lavoro
+## N-MF05-08-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Ricostruire le competenze dell'AGCM distinguendo tutela del processo concorrenziale, tutela del consumatore e strumenti procedimentali applicabili ai diversi casi.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Griglia di qualificazione, caso antitrust, caso consumer, schema di provvedimento e risposta orale.
 
 > **Regola di metodo.** Non scegliere il rimedio prima della fattispecie. Identifica rapporto, soggetti, fonte e fatto rilevante; soltanto dopo puoi valutare istruttoria, poteri e decisione dell'AGCM.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -62,7 +62,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 8.1 — Mappa BANDO: concorrenza e consumatore.](../assets/chapter-08/01-mappa-bando-agcm-concorrenza-consumatore.png)
 
-*Figura 8.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 8.1 — La tavola orienta la lettura di intese e separa il perimetro dalle eccezioni.*
 
 ### La doppia prospettiva: concorrenza nel mercato e correttezza verso il consumatore
 
@@ -80,9 +80,11 @@ La tutela del consumatore guarda invece alla relazione tra professionista e dest
 
 La tabella non crea compartimenti stagni. La tutela del consumatore può rafforzare la qualità complessiva del mercato; un illecito antitrust può avere conseguenze anche per gli utenti finali. Tuttavia l'ufficio deve evitare salti logici: il danno al consumatore non dimostra da solo un'intesa, così come una posizione di mercato elevata non dimostra da sola una pratica commerciale scorretta. Ogni conclusione richiede la fattispecie e la prova proprie del procedimento applicato.
 
+## N-MF05-08-02 · Istituti e distinzioni
+
 ![Figura 8.2 — Architettura: AGCM: concorrenza e consumatore.](../assets/chapter-08/02-architettura-agcm-concorrenza-consumatore.png)
 
-*Figura 8.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 8.2 — La tavola mette a confronto abuso di posizione dominante e concentrazioni senza sovrapporli.*
 
 ### Intese, abuso di posizione dominante e concentrazioni
 
@@ -102,7 +104,7 @@ In tutti e tre i casi, il mercato rilevante è una chiave analitica e non una fo
 
 ![Figura 8.3 — Sequenza operativa: AGCM: concorrenza e consumatore.](../assets/chapter-08/03-flusso-agcm-concorrenza-consumatore.png)
 
-*Figura 8.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 8.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Pratiche commerciali scorrette: ingannevoli, aggressive, verificabili
 
@@ -121,11 +123,13 @@ Le pratiche **ingannevoli** possono veicolare informazioni non veritiere, parzia
 | Quale scelta può essere alterata? | Acquisto, adesione, rinnovo, recesso o altra decisione economica pertinente |
 | Qual è l'esito possibile? | Applicare solo il potere consentito da Codice, regolamento e caso concreto |
 
+## N-MF05-08-03 · Poteri, procedura e conseguenze
+
 In alcuni ambiti, la disciplina estende la tutela delle pratiche commerciali anche alle microimprese nei termini previsti dalla legge. Non è però corretto generalizzare l'estensione a ogni regola consumeristica o a ogni operatore economico. Nella risposta concorsuale è sufficiente dichiarare la regola metodologica: verificare destinatario e specifica disposizione, senza trasformare la categoria «microimpresa» in un sinonimo universale di consumatore.
 
 ![Figura 8.4 — Distinzioni essenziali: AGCM: concorrenza e consumatore.](../assets/chapter-08/04-distinzioni-agcm-concorrenza-consumatore.png)
 
-*Figura 8.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 8.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Dalla segnalazione alla decisione: procedimento, garanzie e limiti
 
@@ -147,7 +151,7 @@ Queste distinzioni consentono una risposta precisa: non «l'AGCM tutela sempre i
 
 ![Figura 8.5 — Sintesi operativa: AGCM: concorrenza e consumatore.](../assets/chapter-08/05-sintesi-agcm-concorrenza-consumatore.png)
 
-*Figura 8.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 8.5 — La tavola chiude il percorso collegando procedimento AGCM a tutela del consumatore.*
 
 ### Mappa BANDO
 
@@ -162,6 +166,8 @@ Le parole «AGCM», «antitrust», «consumatore», «pratica scorretta», «pub
 | Competenze consumeristiche vicine | Pubblicità, clausole vessatorie, diritti contrattuali e rating | Tabella «istituto–fonte–potere» |
 
 > **Da sapere in cinque righe.** AGCM tutela concorrenza e consumatori con procedimenti e fattispecie distinti. Nell'antitrust bisogna distinguere intesa, abuso e concentrazione: la posizione dominante non è vietata in sé. Nelle pratiche commerciali scorrette occorre verificare diligenza professionale e idoneità a condizionare in misura apprezzabile il consumatore medio; le pratiche possono essere ingannevoli o aggressive. Una segnalazione non prova l'illecito: servono istruttoria, contraddittorio, evidenze e motivazione. L'AGCM non liquida il risarcimento individuale del danno, che segue le vie competenti.
+
+## N-MF05-08-04 · Applicazione alla prova
 
 ### Caso guidato: l'offerta «senza costi»
 
@@ -205,10 +211,46 @@ Classifica le tre situazioni, indicando l'ipotesi da verificare e la prima prova
 
 L'esercizio è svolto correttamente se ogni riga indica una fattispecie **possibile** e una prova da acquisire. La sicurezza della risposta non dipende dall'anticipare la decisione, ma dal selezionare la disciplina e l'istruttoria corrette.
 
-### Riferimenti consolidati
+### Prova di trasferimento
 
-[[sources/agcm-concorrenza-consumatori-pratiche-scorrette-2026-07-24]], [[sources/authority-indipendenti-leggi-istitutive]], [[sources/sanzioni-impegni-rimedi-giurisdizione-authority-2026-07-24]], [[entities/agcm]], [[topics/agcm-concorrenza-consumatori-pratiche-scorrette]].
+Immagina che la stessa questione su intese compaia prima in un quiz, poi all'orale e infine in un caso. Nel quiz cerca la distinzione decisiva fra abuso di posizione dominante e concentrazioni; all'orale enuncia criterio, limite ed esempio; nel caso individua fatti, fonte, competenza e passo istruttorio. Il contenuto di base non cambia, ma cambia la forma della prestazione: una risposta lunga non è automaticamente più completa e una risposta breve non può omettere il presupposto.
 
-### Note di review editoriale
+## N-MF05-08-05 · Consolidamento e verifica
 
-Prima della chiusura del volume, verificare su testo vigente e provvedimenti ufficiali: soglie e moduli delle concentrazioni, criteri sanzionatori, programma di clemenza, disciplina e limiti degli impegni, regolamento istruttorio consumer applicabile, poteri cautelari, forme di pubblicazione, eventuale coordinamento con Commissione europea o autorità settoriale. Per casi digitali, controllare anche la disciplina UE e nazionale effettivamente applicabile, evitando sovrapposizioni automatiche tra tutela antitrust, consumeristica, privacy e regolazione di piattaforma.
+Usa pratiche scorrette come snodo operativo. Domandati quale documento manca, chi può richiederlo e quale conseguenza sarebbe prematura prima di acquisirlo. Per procedimento AGCM, controlla se la regola descritta è stabile o dipende da data, bando, elenco o atto applicativo. Chiudi su tutela del consumatore con una frase condizionata ai fatti realmente accertati. Questa prova di trasferimento serve anche al proofreading concettuale: se una stessa formula produce identica risposta in tre situazioni diverse, probabilmente il testo è troppo generico e va ricondotto al perimetro concreto.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito intese senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra abuso di posizione dominante e concentrazioni poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a pratiche scorrette giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di procedimento AGCM e quale conseguenza produrrebbe su tutela del consumatore. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama intese?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** abuso di posizione dominante e concentrazioni possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato pratiche scorrette nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di procedimento AGCM?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su tutela del consumatore?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama intese e chiede un intervento immediato su tutela del consumatore. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere abuso di posizione dominante da concentrazioni e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta pratiche scorrette, si collega procedimento AGCM al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

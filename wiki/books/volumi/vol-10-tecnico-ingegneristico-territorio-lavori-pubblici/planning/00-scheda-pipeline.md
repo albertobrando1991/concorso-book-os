@@ -2,14 +2,14 @@
 type: pipeline_spec
 volume_code: VOL-10
 volume_title: Tecnico-ingegneristico, territorio e lavori pubblici
-cut_off_date: 2026-07-29
+cut_off_date: 2026-08-21
 responsabile_normativo: Alberto Brando
 responsabile_editoriale: Alberto Brando
 writer_provider: codex
 phases: [A, B, C, D, E, F, G]
-status: draft
-updated_at: 2026-07-29
-review_required: true
+status: text_frozen
+updated_at: 2026-08-21
+review_required: false
 ---
 
 # Scheda di pipeline — VOL-10

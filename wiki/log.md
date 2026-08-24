@@ -669,3 +669,39 @@
 - 2026-08-10T18:54:03.261Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
 - 2026-08-10T20:14:39.622Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
 - 2026-08-10T20:24:33.744Z | manual_writer | books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | mode=integrate | target_heading=Testo editoriale | knowledge=1 | memory=5
+
+- 2026-08-21T08:31:05.157Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md | provider=codex | knowledge=5 | memory=5
+- 2026-08-21T08:34:05.606Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md | provider=codex | knowledge=4 | memory=5
+- 2026-08-21T08:37:35.406Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md | provider=codex | knowledge=3 | memory=5
+- 2026-08-21T08:40:37.547Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md | provider=codex | knowledge=3 | memory=5
+- 2026-08-21T08:43:55.653Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md | provider=codex | knowledge=3 | memory=5
+- 2026-08-21T08:46:31.706Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md | provider=codex | knowledge=3 | memory=5
+- 2026-08-21T08:50:33.630Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md | provider=local | knowledge=2 | memory=5
+- 2026-08-21T08:53:12.284Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md | provider=codex | knowledge=2 | memory=5
+- 2026-08-21T08:56:00.925Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md | provider=codex | knowledge=4 | memory=5
+- 2026-08-21T08:58:54.921Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md | provider=codex | knowledge=3 | memory=5
+- 2026-08-21T09:02:00.588Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md | provider=codex | knowledge=1 | memory=5
+- 2026-08-21T09:06:02.496Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md | provider=local | knowledge=4 | memory=5
+- 2026-08-21T09:08:50.242Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md | provider=codex | knowledge=4 | memory=5
+- 2026-08-21T09:11:20.225Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md | provider=codex | knowledge=5 | memory=5
+- 2026-08-21T09:15:38.378Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md | provider=codex | knowledge=2 | memory=5
+- 2026-08-21T09:19:04.762Z | humanizer_revision | books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md | provider=codex | knowledge=4 | memory=5
+- 2026-08-23T13:32:28.372Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T16:05:01.593Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T18:33:30.650Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T18:36:03.775Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T18:38:56.438Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T18:45:54.781Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T18:46:34.320Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T18:47:39.702Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T18:49:33.458Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T18:53:01.634Z | humanizer_revision | books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md | provider=local | knowledge=1 | memory=5
+- 2026-08-23T18:59:21.741Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T19:06:42.744Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T19:13:43.938Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T19:21:16.705Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T19:27:40.660Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T19:34:33.178Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T19:40:25.316Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T19:46:34.722Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-08-23T19:58:22.239Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5

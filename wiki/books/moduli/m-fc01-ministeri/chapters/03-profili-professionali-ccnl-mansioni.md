@@ -2,7 +2,7 @@
 id: chapter-m-fc01-03-profili-professionali-ccnl-mansioni
 type: book_chapter
 title: "Profili professionali, CCNL e mansioni"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["ccnl", "profili professionali", "mansioni", "funzioni centrali"]
 entities: ["ARAN", "Funzioni Centrali", "Presidenza del Consiglio dei ministri"]
@@ -14,14 +14,14 @@ source_refs: [
 ]
 book_refs: ["m-fc01-ministeri", "il-metodo-bando"]
 confidence: 0.86
-updated_at: 2026-08-04
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-06-27T22:08:22+02:00
-review_required: true
+review_required: false
 canonical: true
-tags: ["book-chapter", "module-code-m-fc01", "professional-draft"]
+tags: ["book-chapter", "module-code-m-fc01", "text-frozen"]
 book_id: m-fc01-ministeri
 outline_section: 3
-draft_stage: editorial-revision
+draft_stage: text_frozen
 module_code: M-FC01
 module_family: funzioni-centrali
 companion_to: il-metodo-bando

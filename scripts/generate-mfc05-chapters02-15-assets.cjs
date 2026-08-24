@@ -27,10 +27,18 @@ const chapters = [
 ]
 
 async function main() {
-  const browser = await chromium.launch({ headless: true })
+  const browser = await launchBrowser()
   try {
     for (const config of chapters) await buildChapter(config, browser)
   } finally { await browser.close() }
+}
+
+async function launchBrowser() {
+  try { return await chromium.launch({ channel: "msedge", headless: true }) }
+  catch {
+    try { return await chromium.launch({ channel: "chrome", headless: true }) }
+    catch { return chromium.launch({ headless: true }) }
+  }
 }
 
 async function buildChapter([number, slug, title, bando, cards, flow, distinctions, synthesis], browser) {
@@ -103,7 +111,7 @@ function flowFigure(title, items) {
 
 function distinctionsFigure(title, items) {
   return shell(`Distinzioni essenziali: ${title}`, "Tre confronti che impediscono errori di qualificazione e di metodo.", `
-  ${items.map((item, i) => { const x = 150 + i * 475; return `<g data-safe-box="${x} 270 350 350 8"><rect class="card" x="${x}" y="270" width="350" height="350" rx="28"/><circle cx="${x + 175}" cy="345" r="42" fill="${[p.navy,p.bordeaux,p.green][i]}"/><text class="label" x="${x + 175}" y="354" text-anchor="middle" fill="#FFFFFF">${i + 1}</text><text class="${["navy","bordeaux","green"][i]} label" x="${x + 175}" y="445" text-anchor="middle" style="font-size:21px">${esc(item)}</text><path class="thin" d="M${x + 42} 485 L${x + 308} 485"/><text class="muted small" x="${x + 175}" y="530" text-anchor="middle">definisci, distingui, applica</text></g>` }).join("\n")}
+  ${items.map((item, i) => { const x = 150 + i * 475; const fontSize = item.length > 30 ? 16 : item.length > 25 ? 18 : 21; return `<g data-safe-box="${x} 270 350 350 8"><rect class="card" x="${x}" y="270" width="350" height="350" rx="28"/><circle cx="${x + 175}" cy="345" r="42" fill="${[p.navy,p.bordeaux,p.green][i]}"/><text class="label" x="${x + 175}" y="354" text-anchor="middle" fill="#FFFFFF">${i + 1}</text><text class="${["navy","bordeaux","green"][i]} label" x="${x + 175}" y="445" text-anchor="middle" style="font-size:${fontSize}px">${esc(item)}</text><path class="thin" d="M${x + 42} 485 L${x + 308} 485"/><text class="muted small" x="${x + 175}" y="530" text-anchor="middle">definisci, distingui, applica</text></g>` }).join("\n")}
   ${note("Se non sai spiegare la differenza, non puoi ancora scegliere il potere, il procedimento o l'output corretto.")}`)
 }
 

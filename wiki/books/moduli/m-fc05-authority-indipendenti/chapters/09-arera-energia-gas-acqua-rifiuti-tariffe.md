@@ -2,21 +2,21 @@
 id: chapter-m-fc05-09-arera-energia-gas-acqua-rifiuti-tariffe
 type: book_chapter
 title: "ARERA: energia, gas, acqua, rifiuti e tariffe"
-status: professional_draft
+status: final
 domain: servizi pubblici regolati
 topics: ["energia", "tariffe", "servizi pubblici", "regolazione", "qualità", "rifiuti urbani"]
 entities: ["ARERA", "Acquirente Unico"]
-source_refs: ["sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md", "sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24.md", "sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24.md"]
+source_refs: ["sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md", "sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24.md", "sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24.md", "sources/vol-05-aggiornamento-specialistico-2026-08-22.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.88
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "arera", "tariffe"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 9
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/03-flusso-arera-servizi-tariffe.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/04-distinzioni-arera-servizi-tariffe.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/05-sintesi-arera-servizi-tariffe.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # ARERA: energia, gas, acqua, rifiuti e tariffe
 
-## Scheda di lavoro
+## N-MF05-09-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Leggere l'azione regolatoria ARERA come collegamento tra servizio, utenti, costi, qualità, investimenti, dati e tutela, senza ridurre la materia alla sola bolletta.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Mappa servizio–problema–strumento, analisi tariffaria, nota su qualità e dati, caso guidato e risposta orale.
 
 > **Regola di metodo.** Non confondere la tariffa con un prezzo deciso liberamente né con il costo dichiarato dal gestore. Individua prima il servizio, il perimetro regolatorio, il testo vigente, i dati e gli obiettivi di qualità; soltanto dopo valuta la componente economica.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -62,7 +62,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 9.1 — Mappa BANDO: servizi e tariffe.](../assets/chapter-09/01-mappa-bando-arera-servizi-tariffe.png)
 
-*Figura 9.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 9.1 — La tavola orienta la lettura di perimetro ARERA e separa il perimetro dalle eccezioni.*
 
 ### Il perimetro ARERA: servizi, utenti e regolazione multilivello
 
@@ -71,6 +71,8 @@ La regolazione di un servizio di pubblica utilità non elimina la pluralità del
 Nel servizio idrico, per esempio, la regolazione tariffaria è collegata a qualità contrattuale e tecnica, investimenti, validazione dei dati e specificità territoriali. Nel ciclo dei rifiuti urbani, il quadro ARERA si innesta su un'organizzazione territoriale articolata, su pianificazione, affidamenti e documenti economico-finanziari che non sono riducibili a un'unica decisione nazionale. Nei settori energetici occorre a loro volta distinguere attività, rete, vendita, clienti finali, qualità e assetti di mercato.
 
 La domanda corretta non è quindi «di chi è la tariffa?», ma: **quale norma attribuisce il potere; quale servizio o componente è regolato; quale soggetto predispone, applica o controlla il dato; quale decisione deve essere assunta e con quale procedimento?**. Questa sequenza previene sia l'accentramento immaginario di tutte le funzioni in ARERA sia il contrario errore di considerare l'Autorità irrilevante perché sono presenti enti locali o gestori.
+
+## N-MF05-09-02 · Istituti e distinzioni
 
 | Livello del problema | Domanda da porre | Esempio di output |
 | --- | --- | --- |
@@ -83,7 +85,7 @@ La domanda corretta non è quindi «di chi è la tariffa?», ma: **quale norma a
 
 ![Figura 9.2 — Architettura: ARERA: servizi e tariffe.](../assets/chapter-09/02-architettura-arera-servizi-tariffe.png)
 
-*Figura 9.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 9.2 — La tavola mette a confronto tariffe e qualità del servizio senza sovrapporli.*
 
 ### Tariffe: un criterio regolatorio, non un numero isolato
 
@@ -111,7 +113,7 @@ L'uso di espressioni come *price cap*, recupero dei costi o regolazione incentiv
 
 ![Figura 9.3 — Sequenza operativa: ARERA: servizi e tariffe.](../assets/chapter-09/03-flusso-arera-servizi-tariffe.png)
 
-*Figura 9.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 9.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Qualità contrattuale, qualità tecnica e tutela dell'utente
 
@@ -119,13 +121,15 @@ La regolazione di qualità impedisce che l'efficienza economica sia ottenuta com
 
 Nel settore idrico, le fonti ARERA mostrano un disegno che combina livelli e obiettivi di qualità contrattuale, indicatori, registrazione e verifica dei dati; la regolazione tecnica considera le condizioni specifiche dei diversi contesti. Il dato metodologico è più importante del singolo standard: definire una prestazione, misurarla in modo uniforme, rendere il gestore responsabile del dato, verificare gli scostamenti e collegare, nei casi previsti, conseguenze o incentivi alla performance.
 
+## N-MF05-09-03 · Poteri, procedura e conseguenze
+
 Gli indennizzi automatici rappresentano, nei regimi che li prevedono, un collegamento concreto tra standard e utente. Non sono un risarcimento integrale di ogni danno e non vanno supposti per qualsiasi disservizio; operano alle condizioni, per le prestazioni e nelle misure indicate dalla disciplina vigente. Questa distinzione consente al candidato di evitare una risposta assoluta: può spiegare la funzione dell'indennizzo senza inventarne importo, presupposti o settore di applicazione.
 
 La tutela dell'utente comprende anche informazione, reclami, segnalazioni e conciliazione. Lo Sportello per il consumatore Energia e Ambiente, gestito per conto dell'Autorità da Acquirente Unico, offre informazione e assistenza nei settori indicati dalla fonte. Il Servizio Conciliazione aiuta le parti a trovare un accordo con l'intervento di un conciliatore: non emette una pronuncia né liquida un danno come un giudice. Il tentativo di conciliazione, la sua obbligatorietà e gli strumenti alternativi devono essere verificati nel singolo settore; per i rifiuti urbani, ad esempio, la disciplina conosce un assetto specifico.
 
 ![Figura 9.4 — Distinzioni essenziali: ARERA: servizi e tariffe.](../assets/chapter-09/04-distinzioni-arera-servizi-tariffe.png)
 
-*Figura 9.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 9.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Dati, unbundling e contabilità regolatoria
 
@@ -151,7 +155,15 @@ Nei settori tariffari, una buona consultazione deve rendere intellegibili almeno
 
 ![Figura 9.5 — Sintesi operativa: ARERA: servizi e tariffe.](../assets/chapter-09/05-sintesi-arera-servizi-tariffe.png)
 
-*Figura 9.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 9.5 — La tavola chiude il percorso collegando unbundling a REMIT.*
+
+### REMIT e integrità dei mercati energetici all'ingrosso
+
+La regolazione dei servizi e delle tariffe non esaurisce il perimetro energetico. Il regolamento REMIT vieta abuso di informazioni privilegiate e manipolazione nei mercati dell'energia all'ingrosso e costruisce un sistema di registrazione, raccolta dei dati, monitoraggio e cooperazione. Nel caso concreto occorre distinguere la condotta sul mercato all'ingrosso da una controversia tariffaria o da un disservizio dell'utente finale: oggetto, prova, autorità e rimedio non coincidono.
+
+Il regolamento (UE) 2024/1106 ha rafforzato il ruolo di ACER. Quando una sospetta violazione presenta una chiara dimensione transfrontaliera, l'Agenzia può svolgere proprie indagini, chiedere informazioni, raccogliere dichiarazioni e compiere ispezioni alle condizioni previste. Il rapporto viene trasmesso alle autorità nazionali interessate; queste conservano la competenza esclusiva a stabilire se vi sia stata una violazione e ad adottare l'enforcement, comprese le sanzioni previste dal diritto applicabile. Le autorità nazionali mantengono inoltre poteri di monitoraggio e indagine nel proprio perimetro.
+
+Per risolvere un quesito, il candidato deve quindi verificare: prodotto energetico coinvolto; mercato all'ingrosso o servizio finale; dimensione nazionale o transfrontaliera; dato o comunicazione potenzialmente rilevante; soggetto che può investigare; autorità che adotta la decisione finale. La formula corretta non è «decide ACER» né «interviene soltanto ARERA», ma una ricostruzione del riparto basata sul caso e sulla fonte vigente. Questo metodo evita di trasferire al procedimento REMIT categorie tariffarie che hanno funzione diversa.
 
 ### Mappa BANDO
 
@@ -165,6 +177,8 @@ Le voci «ARERA», «tariffe», «qualità del servizio», «servizio idrico», 
 | Rifiuti e idrico | Specificità territoriale e quadro regolatorio | Caso su PEF/servizio/utente |
 | Dati e unbundling | Separazione, conti, riconciliazione e uso dei dati | Checklist contabile-regolatoria |
 | Tutela utenti | Reclamo, segnalazione, Sportello e conciliazione | Percorso di tutela da verificare |
+
+## N-MF05-09-04 · Applicazione alla prova
 
 > **Da sapere in cinque righe.** ARERA regola servizi di pubblica utilità attraverso strumenti che comprendono tariffe, qualità, dati, vigilanza e tutela degli utenti. La tariffa non coincide con il costo dichiarato dal gestore: dipende dal servizio, dai criteri vigenti, dai dati, dagli investimenti e dagli obiettivi di qualità. Qualità contrattuale e tecnica sono distinte ma complementari. Unbundling e conti annuali separati rendono i dati più leggibili ai fini regolatori, senza sostituire la decisione dell'Autorità. Reclami e conciliazione sono strumenti di tutela diversi dal giudizio e vanno verificati nel settore interessato.
 
@@ -214,10 +228,46 @@ Leggi l'affermazione: «Il costo del servizio è aumentato del 12%, quindi la ta
 
 L'esercizio è svolto correttamente se l'aumento dichiarato resta un dato da qualificare, non una conclusione tariffaria automatica. Il metodo evita risposte semplicistiche e rende la decisione difendibile nella sua motivazione.
 
-### Riferimenti consolidati
+### Checklist per una nota d'ufficio
 
-[[sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24]], [[sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24]], [[sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24]], [[entities/arera]], [[topics/arera-energia-gas-acqua-rifiuti-tariffe]].
+## N-MF05-09-05 · Consolidamento e verifica
 
-### Note di review editoriale
+Una nota professionale su perimetro ARERA deve consentire al decisore di capire che cosa è noto, quale regola si applica e che cosa resta da verificare. L'apertura contiene il quesito in una frase; il quadro distingue tariffe da qualità del servizio; l'analisi collega ogni fatto a un documento. Le citazioni normative sostengono il ragionamento, ma non lo sostituiscono. Se due fonti sembrano divergere, controlla data, rango, ambito e disciplina transitoria prima di parlare di conflitto.
 
-Prima della chiusura del volume, verificare per ciascun settore: testo integrato e periodo regolatorio vigenti, metodo tariffario applicabile, eventuali aggiornamenti o riforme dei corrispettivi, standard di qualità, raccolte dati, disciplina dell'unbundling, bonus e strumenti di tutela, ruolo degli enti territoriali e procedure di conciliazione. Non riportare coefficienti, componenti di prezzo, soglie, tempi o indennizzi senza la fonte ARERA vigente e pertinente al servizio trattato.
+La sezione operativa descrive tutela dell'utente in ordine cronologico e assegna ogni attività al soggetto competente. La parte su unbundling espone rischio e alternativa, evitando verbi assoluti quando l'istruttoria è incompleta. La conclusione su REMIT propone il passo successivo, il controllo da svolgere e, se utile, un termine interno di riesame che non venga confuso con un termine legale. Riletta da sola, la nota deve mostrare perché l'opzione scelta è preferibile e quali nuovi elementi potrebbero modificarla.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito perimetro ARERA senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra tariffe e qualità del servizio poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a tutela dell'utente giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di unbundling e quale conseguenza produrrebbe su REMIT. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama perimetro ARERA?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** tariffe e qualità del servizio possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato tutela dell'utente nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di unbundling?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su REMIT?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama perimetro ARERA e chiede un intervento immediato su REMIT. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere tariffe da qualità del servizio e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta tutela dell'utente, si collega unbundling al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

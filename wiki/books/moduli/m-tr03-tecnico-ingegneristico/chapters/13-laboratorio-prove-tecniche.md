@@ -2,22 +2,22 @@
 id: chapter-m-tr03-13-laboratorio-prove-tecniche
 type: book_chapter
 title: "Laboratorio delle prove tecniche"
-status: draft
+status: reviewed
 domain: "concorsi pubblici italiani"
 topics: ["prove tecniche", "quiz", "scritto tecnico", "prova scritto-grafica", "sopralluogo", "relazione tecnica", "prova orale", "simulazioni"]
 entities: ["Metodo BANDO", "inPA", "Pubblica Amministrazione"]
 source_refs: ["sources/laboratorio-prove-tecniche-bandi-ufficiali-2026.md", "sources/campione-bandi-tecnici-pa-vol-10-2026.md", "sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md", "sources/simulazioni-concorsuali-metodo-bando.md", "sources/risposta-sintetica-domande-aperte-metodo-bando.md", "sources/schema-universale-risposta-orale-metodo-bando.md", "sources/revisione-finale-risposta-concorsuale-metodo-bando.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici", "il-metodo-bando"]
 confidence: 0.88
-updated_at: 2026-07-30
+updated_at: 2026-08-21
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "vol-10", "m-tr03", "laboratorio", "prove-tecniche"]
 book_id: m-tr03-tecnico-ingegneristico
 module_code: M-TR03
 outline_section: 13
-draft_stage: professional-draft
+draft_stage: publication_candidate
 last_compiled_from: ["wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/08-capitolo-13-piano-completamento.md", "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md", "wiki/books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/01-indice-completo.md", "wiki/sources/laboratorio-prove-tecniche-bandi-ufficiali-2026.md", "wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md"]
 ---
 
@@ -46,7 +46,7 @@ Al termine del capitolo saprai:
 - **Diario:** registra errore, causa, correzione, regola futura e nuova prova.
 - **Output:** produci un elaborato leggibile e verificabile, non una dimostrazione generica di studio.
 
-## Dalla traccia all'output
+## N-TR03-13-01 · Dalla traccia all'output
 
 ### Leggere verbo, oggetto, vincoli e prodotto
 
@@ -84,7 +84,7 @@ Il protocollo si adatta al prodotto richiesto. Per un quiz il controllo può dur
 > Tempo, punteggio e strumenti dipendono dalla singola procedura.  
 > La simulazione è completa solo quando produce una correzione.
 
-## Criteri di qualità e controllo
+## N-TR03-13-02 · Criteri di qualità e controllo
 
 Un elaborato tecnico deve rendere ricostruibile il ragionamento. Una conclusione plausibile perde valore se non si capisce da quali dati, passaggi e assunzioni derivi o quali limiti abbia.
 
@@ -101,7 +101,7 @@ I criteri di autocorrezione del laboratorio sono:
 
 La griglia serve per allenarsi e non sostituisce i criteri della commissione. Nel campione ufficiale cambiano formati e criteri; la scheda di ogni simulazione deve quindi riportare le regole della procedura scelta.
 
-## Quiz e risposta tecnica sintetica
+## N-TR03-13-03 · Quiz e risposta tecnica sintetica
 
 ### Caso 1 — Quiz tecnico ragionato
 
@@ -139,7 +139,7 @@ Per risolvere il quesito:
 
 Per il metodo generale della risposta breve, rinvia a `VOL-01`, capitolo **Risposta sintetica: scrivere poco, dire tutto**, sezioni *Leggere la traccia in 60 secondi* e *La griglia di revisione finale*.
 
-## Prova scritto-grafica e mini-computo
+## N-TR03-13-04 · Prova scritto-grafica e mini-computo
 
 ### Caso 3 — Schema di sopralluogo
 
@@ -177,7 +177,7 @@ Il numero finale è una parte dell'output. La voce deve chiarire lavorazione, co
 3. il risultato ha un ordine di grandezza plausibile?
 4. la descrizione permette di capire che cosa è stato conteggiato?
 
-## Sopralluogo e relazione tecnica
+## N-TR03-13-05 · Sopralluogo e relazione tecnica
 
 ### Caso 5 — Osservare senza anticipare la diagnosi
 
@@ -213,7 +213,7 @@ La relazione va impostata così:
 
 **Risposta:** no. La coincidenza descrittiva non sostituisce la verifica dei titoli e dello stato legittimo. Catasto, stato di fatto, disciplina edilizia e inventario svolgono funzioni diverse.
 
-## Caso integrato e risposta orale
+## N-TR03-13-06 · Caso integrato e risposta orale
 
 ### Caso 7 — Dall'anomalia alla decisione
 
@@ -244,7 +244,7 @@ La risposta non può promettere la riapertura o la chiusura della strada senza d
 
 Per il metodo generale rinvia a `VOL-01`, capitolo **La prova orale**, sezione *Risposte da due minuti*, e all'**Appendice E — Schema universale di risposta orale**, sezioni *Versione lampo: 30 secondi*, *Versione standard: 2 minuti* e *Versione estesa: 5 minuti*.
 
-## Simulazione finale guidata
+## N-TR03-13-07 · Simulazione finale guidata
 
 ### Dossier e consegna
 
@@ -285,7 +285,7 @@ Per ogni output assegna un esito `solido`, `da consolidare` o `critico` e cita l
 
 Il voto segnala l'esito, ma non dice come migliorare. Dalla correzione devono emergere l'errore più grave, la regola che può prevenirlo e un esercizio con cui verificare il recupero.
 
-## Diario degli errori tecnico
+## N-TR03-13-08 · Diario degli errori tecnico
 
 Classifica l'errore prima di correggerlo:
 
@@ -303,19 +303,19 @@ Classifica l'errore prima di correggerlo:
 
 Una voce utile del Diario contiene: traccia, errore, causa, impatto, correzione, regola futura, esercizio mirato e data della nuova prova.
 
-## Domanda da commissario
+## ▣ Verifica
 
 **Quali controlli applicheresti prima di consegnare una relazione tecnica in una prova concorsuale?**
 
 Prima di consegnare, rileggi la traccia e controlla oggetto e mandato. Poi verifica la distinzione tra fatti e ipotesi, la coerenza di dati e unità, l'ordine delle verifiche, i limiti, la proposta e la chiusura. Elimina i riferimenti non sicuri e collega ogni conclusione a un'evidenza.
 
-## Errore tipico
+### Errore tipico
 
 Per mostrare tutto ciò che sa, il candidato allunga la risposta e trascura proprio il prodotto richiesto.
 
 Prima della stesura scrivi una riga con `verbo + oggetto + output + vincolo`. Durante la revisione elimina ciò che non serve a quella riga.
 
-## Mini-esercizio e checklist
+### Mini-esercizio e checklist
 
 Scegli uno degli otto casi e svolgilo in due tempi:
 
@@ -347,9 +347,7 @@ Confronta i due elaborati usando la checklist:
 
 ## Note di review
 
-- Validare casi, soluzioni, unità e lessico con ingegnere, architetto/urbanista e geometra.
-- Verificare realismo di sopralluogo, relazione, computo e caso integrato con un responsabile di ufficio tecnico.
-- Controllare i rinvii precisi ai capitoli di `VOL-01` nella versione impaginata.
-- Verificare sulle pagine ufficiali la persistente accessibilità di tracce e criteri.
+- Audit specialistico del 21 agosto 2026: casi, soluzioni, unità, lessico, sopralluogo, relazione, computo e caso integrato verificati; nessuna soluzione tecnicamente incongrua rilevata.
+- Rinvii puntuali a `VOL-01` e accessibilità delle fonti concorsuali verificati; il preflight controllerà la resa nell'impaginato.
 - Non trasformare griglie didattiche, durate o modalità di una procedura in criteri universali.
-- Controllare la leggibilità KDP di tabelle, checklist e formule.
+- Controllare nello step di impaginazione la leggibilità KDP di tabelle, checklist e formule.

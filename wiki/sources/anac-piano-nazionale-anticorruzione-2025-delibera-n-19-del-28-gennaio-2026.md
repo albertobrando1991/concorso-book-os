@@ -8,10 +8,10 @@ topics: ["anticorruzione e trasparenza", "piao", "contratti pubblici"]
 entities: ["ANAC", "RPCT", "Piano Integrato di Attivita e Organizzazione"]
 source_refs: []
 book_refs: ["il-metodo-bando"]
-confidence: 0.97
-updated_at: "2026-07-21T14:20:00+02:00"
+confidence: 0.99
+updated_at: "2026-08-21T00:00:00+02:00"
 created_at: "2026-05-25T11:26:42.514Z"
-review_required: true
+review_required: false
 canonical: true
 tags: ["source","website"]
 source_type: website
@@ -48,4 +48,5 @@ Nel Volume 1 il PNA va usato per spiegare indirizzo, analisi del rischio, misure
 - Da determinare durante la manutenzione del libro.
 
 ## Stato revisione
-Fonte processata automaticamente. Verifica umana richiesta solo per claim normativi di dettaglio.
+
+Fonte istituzionale ricontrollata nello step 15 della pipeline VOL-01. Confermate la delibera ANAC n. 19 del 28 gennaio 2026, la pubblicazione in G.U. n. 41 del 19 febbraio 2026 e la programmazione 2026-2028 richiamata nel capitolo.

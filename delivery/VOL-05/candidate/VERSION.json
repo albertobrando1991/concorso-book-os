@@ -1,0 +1,30 @@
+{
+  "volumeCode": "VOL-05",
+  "title": "Authority indipendenti e regolazione",
+  "moduleCodes": ["M-FC05"],
+  "candidateVersion": "VOL-05-candidate-2026.08.22.1",
+  "editorialVersion": "1.0.0-candidate",
+  "preparedAt": "2026-08-22",
+  "normativeCutoff": "2026-08-22",
+  "baseCommit": "fedfb0fe49cef4c111f18ac014c77d7eb1e1cd4a",
+  "remoteMainObserved": "c5f3ac01cc896b22563216eede96367235cd8fbe",
+  "remoteDivergence": { "localAhead": 30, "remoteAhead": 0 },
+  "branch": "codex/publish-volumes-01-03-05-10-11",
+  "pipeline": {
+    "completedThrough": 23,
+    "humanConfirmationRequiredAt": 24,
+    "status": "candidate_pending_human_confirmation"
+  },
+  "contents": {
+    "chapters": 15,
+    "nuclei": 75,
+    "figures": 75,
+    "interiorPages": 213,
+    "trimSizeInches": [6.6933, 9.61]
+  },
+  "interiorPdf": {
+    "file": "vol-05-interior-kdp.pdf",
+    "bytes": 4728100,
+    "sha256": "27abaae3e01e687eba287d4d3ca566caefbeaa6d71f5f578c5993084ea010131"
+  }
+}

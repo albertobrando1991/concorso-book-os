@@ -2,23 +2,23 @@
 id: planning-m-fc02-indice-analitico-2026
 type: module_planning
 title: "M-FC02 - Indice analitico Agenzie fiscali"
-status: revised_draft
+status: final
 domain: "concorsi pubblici italiani"
 topics: ["agenzie fiscali", "diritto tributario", "dogane", "riscossione"]
 entities: ["Agenzia delle Entrate", "ADM", "AdER"]
 source_refs: ["sources/m-fc02-corpus-ufficiale-integrativo-2026-07-17"]
 book_refs: ["m-fc02-agenzie-fiscali", "vol-03-fisco-dogane-previdenza-ispettivo"]
 confidence: 0.96
-updated_at: 2026-07-18T00:00:00+02:00
+updated_at: 2026-08-22T14:30:00+02:00
 created_at: 2026-07-17T20:20:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["module-code-m-fc02", "detailed-index"]
 book_id: m-fc02-agenzie-fiscali
 module_code: M-FC02
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
-draft_stage: revised-editorial-draft
+draft_stage: text_frozen
 ---
 
 # M-FC02 - Agenzie fiscali

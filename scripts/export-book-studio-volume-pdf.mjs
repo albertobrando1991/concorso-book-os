@@ -2,6 +2,7 @@ import fs from "node:fs/promises"
 import path from "node:path"
 import { chromium } from "@playwright/test"
 import { assertBookReady, createPdfExportContract } from "./book-studio-pdf-export-core.mjs"
+import { waitForStableBookPageCount } from "./book-studio-layout-options.mjs"
 
 const baseUrl = process.env.BOOK_STUDIO_URL || "http://127.0.0.1:3010"
 const bookId = process.env.BOOK_STUDIO_BOOK_ID || "volumi/vol-07"
@@ -45,20 +46,22 @@ try {
       await image.decode?.().catch(() => undefined)
     }))
   })
-  let stableCount = -1
-  let stableTicks = 0
-  const stabilizeDeadline = Date.now() + 300_000
-  while (Date.now() < stabilizeDeadline) {
-    const count = await page.evaluate(() => document.querySelectorAll(".bookPages .bookPage").length)
-    if (count === stableCount) {
-      stableTicks += 1
-      if (stableTicks >= 5) break
-    } else {
-      stableCount = count
-      stableTicks = 0
-    }
-    await page.waitForTimeout(1_000)
-  }
+  await page.waitForTimeout(Number(process.env.BOOK_STUDIO_RENDER_SETTLE_MS || 25_000))
+  await waitForStableBookPageCount(page, {
+    maxReadings: 1_200,
+    stableReadings: Number(process.env.BOOK_STUDIO_STABLE_READINGS || 12),
+    intervalMs: Number(process.env.BOOK_STUDIO_STABLE_INTERVAL_MS || 500),
+    confirmationDelayMs: Number(process.env.BOOK_STUDIO_STABLE_CONFIRMATION_MS || 5_000)
+  })
+  await page.locator(".bookPages .bookPage").last().scrollIntoViewIfNeeded()
+  await page.waitForTimeout(2_000)
+  await page.locator(".bookPages .bookPage").first().scrollIntoViewIfNeeded()
+  const stableCount = await waitForStableBookPageCount(page, {
+    maxReadings: 1_200,
+    stableReadings: Number(process.env.BOOK_STUDIO_STABLE_READINGS || 12),
+    intervalMs: Number(process.env.BOOK_STUDIO_STABLE_INTERVAL_MS || 500),
+    confirmationDelayMs: Number(process.env.BOOK_STUDIO_STABLE_CONFIRMATION_MS || 5_000)
+  })
   console.error(`Pagine stabilizzate a ${stableCount} (attese ${expectedPageCount}).`)
   await page.waitForTimeout(2_000)
 

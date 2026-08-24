@@ -3,8 +3,33 @@
   "specPath": "books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/00-scheda-pipeline.md",
   "specHash": "sha256:16427224662897bef0b1fd8136b11d66ca67ce581e7018439ad596054c09e1fa",
   "createdAt": "2026-07-29T16:31:35.732Z",
-  "updatedAt": "2026-08-04T10:31:42.648Z",
+  "updatedAt": "2026-08-23T20:50:34.548Z",
   "steps": [
+    {
+      "key": "04:VOL-06",
+      "id": "04",
+      "phase": "B",
+      "scope": "volume",
+      "target": "VOL-06",
+      "status": "done",
+      "attempts": 4,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T18:20:08.097Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 04 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-08-22T19:45:27.073Z"
+    },
     {
       "key": "05:moduli/m-ir01-scuola",
       "id": "05",
@@ -82,240 +107,6 @@
         "warnings": []
       },
       "finishedAt": "2026-07-29T16:54:47.408Z"
-    },
-    {
-      "key": "05:moduli/m-ir02-universita-afam",
-      "id": "05",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir02-universita-afam",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T16:55:02.449Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 05 non prevede un gate automatico."
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure ufficiali/istituzionali rappresentative complessive per M-IR02 consolidate. Ricorrenze, differenze e lacuna tecnico di laboratorio registrate; PDF, allegati e dati mobili restano review_required."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-29T16:58:06.758Z"
-    },
-    {
-      "key": "06:moduli/m-ir02-universita-afam",
-      "id": "06",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir02-universita-afam",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T16:58:07.742Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 06 non prevede un gate automatico."
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, MUR, ANVUR e source note wiki mappate su tutti i 12 capitoli; collegamenti a topic/entity, conflitti e parti mobili registrati."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-29T17:01:47.622Z"
-    },
-    {
-      "key": "07:moduli/m-ir02-universita-afam",
-      "id": "07",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir02-universita-afam",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T17:01:49.081Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T17:03:19.594Z"
-    },
-    {
-      "key": "05:moduli/m-ir03-enti-ricerca",
-      "id": "05",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir03-enti-ricerca",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T17:04:14.303Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 05 non prevede un gate automatico."
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure complessive CNR, INFN, ISTAT e ponte grant consolidate. Ricorrenze e differenze registrate; lacuna di un bando grant manager EPR autonomo mantenuta come review ad alta priorita."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-29T17:05:46.612Z"
-    },
-    {
-      "key": "06:moduli/m-ir03-enti-ricerca",
-      "id": "06",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir03-enti-ricerca",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T17:08:08.814Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 06 non prevede un gate automatico."
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, EUR-Lex e istituzionali CNR/INFN/ISTAT mappate sui nuclei M-IR03. Parti mobili e lacuna grant manager EPR autonomo esplicitate."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-29T17:09:34.611Z"
-    },
-    {
-      "key": "07:moduli/m-ir03-enti-ricerca",
-      "id": "07",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir03-enti-ricerca",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T17:09:35.979Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T17:13:44.376Z"
-    },
-    {
-      "key": "05:moduli/m-ir04-cultura-beni-culturali",
-      "id": "05",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir04-cultura-beni-culturali",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T17:16:31.129Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 05 non prevede un gate automatico."
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure complessive MiC/RIPAM/inPA consolidate. Ricorrenze e confini editoriali registrati; programma, modifiche e riapertura del MiC 577 restano review_required."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-29T17:18:00.509Z"
-    },
-    {
-      "key": "06:moduli/m-ir04-cultura-beni-culturali",
-      "id": "06",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir04-cultura-beni-culturali",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T17:18:47.847Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 06 non prevede un gate automatico."
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, MiC e istituti centrali mappate su tutti i nuclei M-IR04. Bandi 577 e 1.800, CCNL, standard e giurisprudenza restano review_required."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-29T17:20:02.791Z"
-    },
-    {
-      "key": "07:moduli/m-ir04-cultura-beni-culturali",
-      "id": "07",
-      "phase": "B",
-      "scope": "module",
-      "target": "moduli/m-ir04-cultura-beni-culturali",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-29T17:20:04.032Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-07-29T17:21:46.550Z"
     },
     {
       "key": "08:moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
@@ -1936,6 +1727,84 @@
       "finishedAt": "2026-07-31T15:11:42.233Z"
     },
     {
+      "key": "05:moduli/m-ir02-universita-afam",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:55:02.449Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure ufficiali/istituzionali rappresentative complessive per M-IR02 consolidate. Ricorrenze, differenze e lacuna tecnico di laboratorio registrate; PDF, allegati e dati mobili restano review_required."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T16:58:06.758Z"
+    },
+    {
+      "key": "06:moduli/m-ir02-universita-afam",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T16:58:07.742Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, MUR, ANVUR e source note wiki mappate su tutti i 12 capitoli; collegamenti a topic/entity, conflitti e parti mobili registrati."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:01:47.622Z"
+    },
+    {
+      "key": "07:moduli/m-ir02-universita-afam",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir02-universita-afam",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:01:49.081Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:03:19.594Z"
+    },
+    {
       "key": "08:moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
       "id": "08",
       "phase": "C",
@@ -2878,9 +2747,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T19:45:36.127Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T19:45:55.880Z"
     },
     {
       "key": "10:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
@@ -2888,9 +2767,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T19:46:01.740Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T19:46:12.399Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
@@ -2898,9 +2787,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T19:46:18.725Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T19:46:42.248Z"
     },
     {
       "key": "12:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
@@ -2908,9 +2807,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T19:46:47.624Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T19:48:04.816Z"
     },
     {
       "key": "08:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2918,9 +2827,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T19:48:10.851Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque Nucleo ID, perimetro e duplicazioni, H1/H2/H3, budget minimo 3000 parole/600 per nucleo, caso, sei quiz, fonti e audit specialistici documentati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T19:48:48.211Z"
     },
     {
       "key": "09:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2928,9 +2860,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T19:49:19.124Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T19:49:21.120Z"
     },
     {
       "key": "10:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2938,9 +2880,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T19:49:31.728Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:02:59.672Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2948,9 +2900,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:03:08.315Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:03:10.539Z"
     },
     {
       "key": "12:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
@@ -2958,9 +2920,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:03:48.545Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:03:50.555Z"
     },
     {
       "key": "08:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -2968,9 +2940,28 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: perimetro AFAM, cinque Nucleo ID, fonti nazionali e locali, confini con gli altri capitoli, struttura e budget Formato 2, audit specialistico e caso integrato sono esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:06:08.146Z"
     },
     {
       "key": "09:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -2978,9 +2969,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:06:22.715Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:06:24.730Z"
     },
     {
       "key": "10:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -2988,9 +2989,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:06:32.174Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:06:34.141Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -2998,9 +3009,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:06:40.883Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:06:42.899Z"
     },
     {
       "key": "12:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
@@ -3008,9 +3029,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:07:35.349Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:07:37.335Z"
     },
     {
       "key": "08:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3018,9 +3049,28 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: laboratorio conclusivo per quattro profili, cinque Nucleo ID, quattro casi, sei quiz, confini e fonti, budget Formato 2 e audit pre-freeze sono documentati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:07:58.358Z"
     },
     {
       "key": "09:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3028,9 +3078,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:09:44.055Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:28:21.408Z"
     },
     {
       "key": "10:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3038,9 +3098,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:28:27.753Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:28:29.540Z"
     },
     {
       "key": "11:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3048,9 +3118,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:28:37.454Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:28:39.185Z"
     },
     {
       "key": "12:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
@@ -3058,9 +3138,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:29:23.847Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:29:25.665Z"
     },
     {
       "key": "13:moduli/m-ir02-universita-afam",
@@ -3068,9 +3158,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir02-universita-afam",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:29:33.041Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:31:28.482Z"
     },
     {
       "key": "14:moduli/m-ir02-universita-afam",
@@ -3078,9 +3178,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir02-universita-afam",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:31:30.183Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:31:39.718Z"
     },
     {
       "key": "15:moduli/m-ir02-universita-afam",
@@ -3088,9 +3198,40 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir02-universita-afam",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:31:41.416Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S01: stato \"verificato\".",
+            "location": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir02-universita-afam.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S02: stato \"verificato\".",
+            "location": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir02-universita-afam.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S03: stato \"verificato\".",
+            "location": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir02-universita-afam.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto S04: stato \"verificato\".",
+            "location": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir02-universita-afam.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-22T20:32:32.344Z"
     },
     {
       "key": "16:moduli/m-ir02-universita-afam",
@@ -3098,9 +3239,110 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir02-universita-afam",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:32:34.081Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir02-universita-afam"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: 12/12 capitoli presenti e Formato 2; matrice senza stati bloccanti; gate 08-15 conclusi; fonti e dato PRIN 2026 verificati; metadati finali e manifest SHA-256 registrato in wiki/reviews/pipeline/VOL-06/16-moduli-m-ir02-universita-afam.md."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:35:30.661Z"
+    },
+    {
+      "key": "05:moduli/m-ir03-enti-ricerca",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:04:14.303Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure complessive CNR, INFN, ISTAT e ponte grant consolidate. Ricorrenze e differenze registrate; lacuna di un bando grant manager EPR autonomo mantenuta come review ad alta priorita."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:05:46.612Z"
+    },
+    {
+      "key": "06:moduli/m-ir03-enti-ricerca",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:08:08.814Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, EUR-Lex e istituzionali CNR/INFN/ISTAT mappate sui nuclei M-IR03. Parti mobili e lacuna grant manager EPR autonomo esplicitate."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:09:34.611Z"
+    },
+    {
+      "key": "07:moduli/m-ir03-enti-ricerca",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir03-enti-ricerca",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:09:35.979Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:13:44.376Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3108,9 +3350,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:35:40.001Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei stabili, budget minimo 3000 parole, almeno sei quiz e un caso; fonti, rinvii e audit specialistici dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:36:20.051Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3118,9 +3383,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:36:21.671Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "missing-last-compiled-from",
+            "message": "Frontmatter senza last_compiled_from: la tracciabilità della compilazione è incompleta.",
+            "location": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-22T20:37:07.958Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3128,9 +3409,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:37:41.082Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:37:42.739Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3138,9 +3429,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:37:49.843Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:37:51.478Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
@@ -3148,9 +3449,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:37:53.129Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:38:14.217Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3158,9 +3469,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:38:39.353Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei, budget e fonti dichiarati, rinvii e audit specialistici coerenti con la matrice."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:38:41.012Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3168,9 +3502,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:38:42.640Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:38:44.262Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3178,9 +3522,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:38:45.899Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:38:47.570Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3188,9 +3542,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:38:59.621Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:39:01.209Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
@@ -3198,9 +3562,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:02.767Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:39:04.319Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3208,9 +3582,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:13.439Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei, budget, fonti, rinvii e audit specialistici coerenti con la matrice."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:39:15.073Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3218,9 +3615,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:16.644Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:39:18.225Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3228,9 +3635,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:19.793Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:39:21.407Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3238,9 +3655,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:27.673Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:39:29.236Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
@@ -3248,9 +3675,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:30.818Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:39:32.427Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3258,9 +3695,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:39.956Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei, budget, fonti, rinvii e audit specialistici coerenti con la matrice."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:39:51.753Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3268,9 +3728,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:53.312Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:39:54.902Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3278,9 +3748,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:56.405Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:39:57.963Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3288,9 +3768,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:39:59.568Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:40:01.145Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
@@ -3298,9 +3788,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:40:02.695Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:40:04.305Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3308,9 +3808,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:40:14.692Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato manualmente: cinque nuclei, budget, fonti, rinvii e audit specialistici coerenti con la matrice."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:40:16.301Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3318,9 +3841,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:40:17.860Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:40:19.412Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3328,9 +3861,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:40:20.970Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:40:22.595Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3338,9 +3881,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:40:24.174Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:40:25.890Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
@@ -3348,9 +3901,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:40:27.512Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:40:29.089Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
@@ -3358,9 +3921,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:40:36.993Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato e attuato: cinque nuclei, fonti e audit coerenti; integrazioni sostanziali completate per rispettare budget e densità."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T20:43:27.228Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
@@ -3368,9 +3954,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:43:28.808Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:43:30.428Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
@@ -3378,9 +3974,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:43:32.002Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:43:33.594Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
@@ -3388,9 +3994,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:43:50.547Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:43:52.134Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
@@ -3398,9 +4014,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T20:43:53.719Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T20:44:26.370Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
@@ -3408,9 +4034,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:31:52.604Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano creato e verificato: cinque nuclei, 3000 parole minime, sette quiz, casi, fonti CNR-ALLEA-COPE e audit specialistici dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T21:31:54.230Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
@@ -3418,9 +4067,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:31:55.830Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:31:57.400Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
@@ -3428,9 +4087,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:31:59.101Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:32:00.785Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
@@ -3438,9 +4107,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:32:08.773Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:32:10.292Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
@@ -3448,9 +4127,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:32:11.795Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:32:39.874Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
@@ -3458,9 +4147,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:37:08.692Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato: cinque nuclei, 3000 parole minime, casi e sette quiz; fonti EPR e D.Lgs. 81/2008 verificate; audit su ruoli e procedure locali dichiarato."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T21:37:10.237Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
@@ -3468,9 +4180,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:37:11.813Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:37:13.364Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
@@ -3478,9 +4200,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:37:14.915Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:37:16.572Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
@@ -3488,9 +4220,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:37:18.142Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:37:19.759Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
@@ -3498,9 +4240,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:37:21.432Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:37:45.822Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
@@ -3508,9 +4260,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:51:40.980Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: cinque nuclei, fonti WIPO e Codice della proprietà industriale, confini legali e contrattuali espliciti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T21:54:37.637Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
@@ -3518,9 +4293,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:54:39.169Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:54:40.713Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
@@ -3528,9 +4313,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:54:42.251Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:54:43.794Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
@@ -3538,9 +4333,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:54:45.429Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:54:47.072Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
@@ -3548,9 +4353,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:55:10.923Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:55:29.778Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
@@ -3558,9 +4373,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:55:59.936Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato: cinque nuclei, fonti UE e GO FAIR, confini espliciti per dati, accesso e policy mobili."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T21:58:13.059Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
@@ -3568,9 +4406,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:58:14.551Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:58:16.067Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
@@ -3578,9 +4426,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:58:17.559Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:58:33.172Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
@@ -3588,9 +4446,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:58:34.860Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:58:36.580Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
@@ -3598,9 +4466,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T21:58:38.182Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T21:59:04.251Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
@@ -3608,9 +4486,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T22:17:41.188Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato: cinque nuclei, fonti UE e MUR, dati mobili e confini di ruolo esplicitati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-22T22:55:32.034Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
@@ -3618,9 +4519,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T22:55:33.589Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T22:55:35.220Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
@@ -3628,9 +4539,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T22:55:36.796Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T22:55:38.371Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
@@ -3638,9 +4559,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T22:55:40.012Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T22:55:41.600Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
@@ -3648,9 +4579,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T22:55:43.191Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-22T22:56:12.054Z"
     },
     {
       "key": "08:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
@@ -3658,9 +4599,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-22T23:43:04.492Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato: cinque nuclei, quattro simulazioni e confini di ruolo espliciti."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T00:04:34.345Z"
     },
     {
       "key": "09:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
@@ -3668,9 +4632,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:04:36.344Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T00:04:38.283Z"
     },
     {
       "key": "10:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
@@ -3678,9 +4652,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:04:40.207Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T00:04:42.114Z"
     },
     {
       "key": "11:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
@@ -3688,9 +4672,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:04:44.106Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T00:04:46.078Z"
     },
     {
       "key": "12:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
@@ -3698,9 +4692,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:04:48.050Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T00:05:17.245Z"
     },
     {
       "key": "13:moduli/m-ir03-enti-ricerca",
@@ -3708,9 +4712,30 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir03-enti-ricerca",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:44:14.187Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto 1: stato \"aperto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/13-moduli-m-ir03-enti-ricerca.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto 4: stato \"facoltativo\".",
+            "location": "wiki/reviews/pipeline/VOL-06/13-moduli-m-ir03-enti-ricerca.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T00:45:14.303Z"
     },
     {
       "key": "14:moduli/m-ir03-enti-ricerca",
@@ -3718,9 +4743,25 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir03-enti-ricerca",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:45:21.446Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto 4: stato \"facoltativo\".",
+            "location": "wiki/reviews/pipeline/VOL-06/14-moduli-m-ir03-enti-ricerca.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T00:46:20.069Z"
     },
     {
       "key": "15:moduli/m-ir03-enti-ricerca",
@@ -3728,9 +4769,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir03-enti-ricerca",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:46:26.127Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T00:47:24.889Z"
     },
     {
       "key": "16:moduli/m-ir03-enti-ricerca",
@@ -3738,9 +4789,110 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir03-enti-ricerca",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:47:32.206Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir03-enti-ricerca"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: 12 capitoli presenti, formato 2 e gate individuali superati, indice allineato, matrice senza nuclei parziali/mancanti, audit specialistico chiuso e manifest con hash creato."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-23T00:48:41.927Z"
+    },
+    {
+      "key": "05:moduli/m-ir04-cultura-beni-culturali",
+      "id": "05",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:16:31.129Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 05 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: sei procedure complessive MiC/RIPAM/inPA consolidate. Ricorrenze e confini editoriali registrati; programma, modifiche e riapertura del MiC 577 restano review_required."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:18:00.509Z"
+    },
+    {
+      "key": "06:moduli/m-ir04-cultura-beni-culturali",
+      "id": "06",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:18:47.847Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 06 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di Anton: Verifica manuale completata: fonti Normattiva, MiC e istituti centrali mappate su tutti i nuclei M-IR04. Bandi 577 e 1.800, CCNL, standard e giurisprudenza restano review_required."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-29T17:20:02.791Z"
+    },
+    {
+      "key": "07:moduli/m-ir04-cultura-beni-culturali",
+      "id": "07",
+      "phase": "B",
+      "scope": "module",
+      "target": "moduli/m-ir04-cultura-beni-culturali",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-29T17:20:04.032Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-07-29T17:21:46.550Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
@@ -3748,9 +4900,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:49:59.865Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo creato con cinque nuclei, confini, budget, fonti primarie e audit mobili; fonte MiC aggiornata con verifica istituzionale."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T00:51:32.565Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
@@ -3758,9 +4933,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:51:40.973Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T00:53:15.205Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
@@ -3768,9 +4953,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:53:22.734Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T00:54:28.956Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
@@ -3778,9 +4973,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:54:34.983Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T00:54:56.605Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
@@ -3788,9 +4993,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T00:55:01.334Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-01-mic-quattro-profili-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T00:55:38.271Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
@@ -3798,9 +5019,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T12:57:09.748Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: cinque nuclei, confini rispetto al capitolo 01 e al volume principale, budget didattico, fonti istituzionali e audit sull'assetto organizzativo mobile."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T12:57:38.008Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
@@ -3808,9 +5052,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T12:58:29.652Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T13:00:14.667Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
@@ -3818,9 +5072,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:01:04.070Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T13:01:21.555Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
@@ -3828,9 +5092,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:01:37.067Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T13:02:04.714Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
@@ -3838,9 +5112,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:02:09.650Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-02-organizzazione-centrale-periferica-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T13:02:48.543Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
@@ -3848,9 +5138,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:07:47.953Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato: cinque nuclei sul sistema del Codice, confini con i capitoli procedimentali e specialistici, budget didattico, fonte primaria e audit sul testo vigente."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T13:08:11.224Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
@@ -3858,9 +5171,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:28:04.912Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T13:43:45.912Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
@@ -3868,9 +5191,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:43:53.513Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T13:44:55.776Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
@@ -3878,9 +5211,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:45:07.219Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T13:45:31.563Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
@@ -3888,9 +5231,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:45:37.494Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-03-codice-beni-culturali-sistema-categorie-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T13:46:04.057Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
@@ -3898,9 +5257,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:46:11.304Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato: cinque nuclei, confini rispetto ai capitoli 03 e 05, budget didattico, fonte primaria e audit su piani e prassi mobili."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T13:52:00.600Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
@@ -3908,9 +5290,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T13:52:06.651Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T18:40:18.897Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
@@ -3918,9 +5310,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T18:40:26.076Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T18:40:51.964Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
@@ -3928,9 +5330,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T18:41:04.684Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T18:41:15.727Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
@@ -3938,9 +5350,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T18:41:23.100Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-04-tutela-valorizzazione-fruizione-paesaggio-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T18:41:48.999Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
@@ -3948,9 +5376,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T18:42:02.236Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano verificato con cinque nuclei, confini didattici, budget e audit sul testo vigente di vincoli, autorizzazioni e circolazione."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T18:42:31.318Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
@@ -3958,9 +5409,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T18:42:36.924Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:00:25.028Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
@@ -3968,9 +5429,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:00:45.009Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:01:19.015Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
@@ -3978,9 +5449,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:01:28.252Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:02:00.967Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
@@ -3988,9 +5469,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:02:09.621Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-05-procedimenti-vincoli-circolazione-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T19:02:42.439Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
@@ -3998,9 +5495,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:02:52.054Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: cinque nuclei, confini tematici, budget, caso, quiz e audit tecnico dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T19:03:41.119Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
@@ -4008,9 +5528,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:03:48.968Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:08:13.415Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
@@ -4018,9 +5548,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:08:20.014Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:08:45.312Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
@@ -4028,9 +5568,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:09:09.560Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:09:18.355Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
@@ -4038,9 +5588,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:09:25.136Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-06-catalogazione-digitalizzazione-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T19:09:56.990Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
@@ -4048,9 +5614,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:10:17.020Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: nuclei archivistici, confini, budget, caso, quiz e audit tecnico dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T19:10:52.245Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
@@ -4058,9 +5647,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:11:01.343Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:15:40.419Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
@@ -4068,9 +5667,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:15:47.910Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:16:16.817Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
@@ -4078,9 +5687,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:16:24.114Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:16:32.604Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
@@ -4088,9 +5707,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:16:42.560Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-07-archivistica-archivi-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T19:17:07.345Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
@@ -4098,9 +5733,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:17:31.548Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: nuclei biblioteconomici, confini, budget, caso, quiz e audit tecnico dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T19:17:58.788Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
@@ -4108,9 +5766,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:18:06.134Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:22:05.232Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
@@ -4118,9 +5786,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:22:39.086Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
@@ -4128,9 +5802,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:22:46.250Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:22:55.764Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
@@ -4138,9 +5822,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:23:02.381Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-08-biblioteconomia-servizi-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T19:23:27.140Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
@@ -4148,9 +5848,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:23:40.661Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: nuclei archeologici, confini, budget, caso, quiz e audit normativo dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T19:24:09.852Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
@@ -4158,9 +5881,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:24:16.944Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:28:57.553Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
@@ -4168,9 +5901,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:29:21.674Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
@@ -4178,9 +5917,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:29:31.019Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:29:45.725Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
@@ -4188,9 +5937,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:29:52.687Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-09-archeologia-tutela-territoriale-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T19:30:19.843Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
@@ -4198,9 +5963,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:30:31.710Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: nuclei museologici, confini, budget, caso, quiz e audit tecnico dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T19:30:58.407Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
@@ -4208,9 +5996,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:31:10.981Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:35:13.198Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
@@ -4218,9 +6016,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:35:42.084Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
@@ -4228,9 +6032,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:35:52.133Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:36:00.438Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
@@ -4238,9 +6052,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:36:23.243Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-10-storia-arte-museologia-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T19:36:50.284Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
@@ -4248,9 +6078,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:37:04.263Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: nuclei su conservazione e restauro, confini non operativi, budget, caso e audit dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T19:37:34.291Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
@@ -4258,9 +6111,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:37:46.906Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:41:12.487Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
@@ -4268,9 +6131,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:41:46.445Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
@@ -4278,9 +6147,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:41:57.620Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:42:07.297Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
@@ -4288,9 +6167,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:42:19.730Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-11-restauro-conservazione-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T19:42:47.214Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
@@ -4298,9 +6193,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:43:01.819Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: nuclei architettura-paesaggio, confini non operativi, budget, caso e audit normativo dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T19:43:31.508Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
@@ -4308,9 +6226,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:43:46.430Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:47:50.870Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
@@ -4318,9 +6246,15 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
-      "status": "pending",
+      "status": "done",
       "attempts": 0,
-      "evidence": []
+      "evidence": [],
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:48:55.155Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
@@ -4328,9 +6262,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:49:07.310Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T19:49:19.658Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
@@ -4338,9 +6282,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:49:38.276Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-12-architettura-paesaggio-cantieri-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T19:50:38.287Z"
     },
     {
       "key": "08:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
@@ -4348,9 +6308,32 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:50:54.135Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"chapter-plan\" dello step 08 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Piano operativo verificato: nuclei su fruizione, vigilanza e sicurezza, confini non operativi, budget, caso e audit dichiarati."
+          }
+        ],
+        "notImplemented": [
+          "chapter-plan"
+        ]
+      },
+      "finishedAt": "2026-08-23T19:55:35.067Z"
     },
     {
       "key": "09:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
@@ -4358,9 +6341,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T19:55:37.838Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T20:00:07.156Z"
     },
     {
       "key": "10:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
@@ -4368,9 +6361,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:00:09.971Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T20:00:16.852Z"
     },
     {
       "key": "11:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
@@ -4378,9 +6381,19 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:00:19.639Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T20:00:33.115Z"
     },
     {
       "key": "12:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
@@ -4388,9 +6401,25 @@
       "phase": "C",
       "scope": "chapter",
       "target": "moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:00:35.870Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E01: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/12-moduli-m-ir04-cultura-beni-culturali-chapters-13-fruizione-vigilanza-sicurezza-md.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T20:01:14.930Z"
     },
     {
       "key": "13:moduli/m-ir04-cultura-beni-culturali",
@@ -4398,9 +6427,30 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir04-cultura-beni-culturali",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:03:21.602Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E04: stato \"proposto\".",
+            "location": "wiki/reviews/pipeline/VOL-06/13-moduli-m-ir04-cultura-beni-culturali.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto E05: stato \"da verificare\".",
+            "location": "wiki/reviews/pipeline/VOL-06/13-moduli-m-ir04-cultura-beni-culturali.md"
+          }
+        ]
+      },
+      "finishedAt": "2026-08-23T20:13:58.014Z"
     },
     {
       "key": "14:moduli/m-ir04-cultura-beni-culturali",
@@ -4408,9 +6458,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir04-cultura-beni-culturali",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:14:00.789Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T20:14:33.065Z"
     },
     {
       "key": "15:moduli/m-ir04-cultura-beni-culturali",
@@ -4418,9 +6478,19 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir04-cultura-beni-culturali",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:14:35.829Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T20:16:04.808Z"
     },
     {
       "key": "16:moduli/m-ir04-cultura-beni-culturali",
@@ -4428,19 +6498,32 @@
       "phase": "D",
       "scope": "module",
       "target": "moduli/m-ir04-cultura-beni-culturali",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
-    },
-    {
-      "key": "04:VOL-06",
-      "id": "04",
-      "phase": "B",
-      "scope": "volume",
-      "target": "VOL-06",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:16:07.658Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-ir04-cultura-beni-culturali"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale completata: manifest presente, 13 capitoli v2 verificati, matrice senza stati parziali, Humanizer e audit specialistico conclusi; sono ammesse solo correzioni controllate."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-08-23T20:18:13.764Z"
     },
     {
       "key": "21:VOL-06",
@@ -4448,9 +6531,19 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-06",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:18:16.505Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-08-23T20:20:27.924Z"
     },
     {
       "key": "22:VOL-06",
@@ -4458,13 +6551,69 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-06",
-      "status": "pending",
-      "attempts": 0,
-      "evidence": []
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:40:30.967Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-06"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Preflight verificato: 4 matrici/50 righe complete, typecheck, build e 554 test verdi; PDF VOL-06 530 pagine 6.69x9.61 in, no bleed, font incorporati. Warning git diff-check limitato a hard break Markdown intenzionali M-IR02 e CRLF VOL-11 fuori scope; KDP Previewer non disponibile."
+          }
+        ],
+        "notImplemented": [
+          "preflight"
+        ]
+      },
+      "finishedAt": "2026-08-23T20:41:18.567Z"
     },
     {
       "key": "23:VOL-06",
       "id": "23",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-06",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-08-23T20:41:21.248Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "VOL-06"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Pacchetto candidato verificato manualmente: PDF 530 pagine presente e con hash E262D329A64D7D7B1867FC85FE88DA46CD433F0917CCEAA06886ABF35CDB5838; README, VERSION, report, preflight, changelog, limiti, manutenzione, checklist KDP e manifest presenti; hash del manifest coerenti; diff e diff cached limitati al pacchetto senza errori. Typecheck, build e 554 test verdi. Nessuno staging globale eseguito perché l'indice condiviso contiene modifiche esterne al perimetro."
+          }
+        ],
+        "notImplemented": [
+          "delivery"
+        ]
+      },
+      "finishedAt": "2026-08-23T20:50:34.548Z"
+    },
+    {
+      "key": "24:VOL-06",
+      "id": "24",
       "phase": "F",
       "scope": "volume",
       "target": "VOL-06",

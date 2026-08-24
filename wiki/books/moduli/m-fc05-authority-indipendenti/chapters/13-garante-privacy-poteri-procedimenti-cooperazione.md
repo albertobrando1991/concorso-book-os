@@ -2,21 +2,21 @@
 id: chapter-m-fc05-13-garante-privacy-poteri-procedimenti-cooperazione
 type: book_chapter
 title: "Garante privacy: poteri, procedimenti e cooperazione europea"
-status: professional_draft
+status: final
 domain: protezione dei dati personali
 topics: ["garante privacy", "reclami", "procedimenti", "poteri correttivi", "cooperazione europea"]
 entities: ["Garante per la protezione dei dati personali", "EDPB", "Autorità di controllo capofila"]
 source_refs: ["sources/garante-privacy-poteri-procedimenti-cooperazione-europea-2026-07-24.md", "sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
 book_refs: ["m-fc05-authority-indipendenti", "vol-05-authority-regolazione"]
 confidence: 0.91
-updated_at: 2026-07-27
+updated_at: 2026-08-22
 created_at: 2026-07-24
-review_required: true
+review_required: false
 canonical: true
 tags: ["book-chapter", "m-fc05", "garante-privacy", "gdpr", "edpb"]
 book_id: m-fc05-authority-indipendenti
 outline_section: 13
-draft_stage: professional-draft
+draft_stage: frozen
 module_code: M-FC05
 module_family: funzioni-centrali
 companion_to: il-metodo-bando
@@ -26,11 +26,13 @@ asset_refs:
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/03-flusso-garante-privacy-cooperazione.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/04-distinzioni-garante-privacy-cooperazione.png"
   - "books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/05-sintesi-garante-privacy-cooperazione.png"
+format_version: 2
+dati_operativi: []
+last_compiled_from: ["source_refs", "planning/02-matrice-copertura-didattica.md", "planning/03-bibbia-del-modulo.md"]
 ---
-
 # Garante privacy: poteri, procedimenti e cooperazione europea
 
-## Scheda di lavoro
+## N-MF05-13-01 · Quadro e criterio di lettura
 
 **Obiettivo.** Applicare i fondamenti GDPR al ruolo dell'autorità di controllo, distinguendo reclamo, segnalazione, istruttoria, misure correttive, sanzioni e cooperazione europea.
 
@@ -39,8 +41,6 @@ asset_refs:
 **Output operativo.** Schema reclamo–istruttoria–misura, mappa dei poteri del Garante, caso di trattamento digitale transfrontaliero e risposta orale.
 
 > **Regola di metodo.** Non partire dalla parola “privacy” né dalla sanzione. Parti dal trattamento concreto: dati, soggetti, finalità, base giuridica, rischio, documenti e rimedio. Solo allora individua il Garante, il procedimento e l'eventuale cooperazione europea.
-
-## Testo editoriale
 
 ### Apertura editoriale
 
@@ -60,7 +60,7 @@ Al termine del capitolo il lettore deve saper:
 
 ![Figura 13.1 — Mappa BANDO: Garante privacy e cooperazione.](../assets/chapter-13/01-mappa-bando-garante-privacy-cooperazione.png)
 
-*Figura 13.1 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 13.1 — La tavola orienta la lettura di ruolo del Garante e separa il perimetro dalle eccezioni.*
 
 ### Il Garante nel sistema GDPR: un'autorità di controllo, non il titolare del trattamento
 
@@ -80,9 +80,11 @@ Il riferimento al GDPR non rende irrilevante la disciplina nazionale. Il Codice 
 
 ![Figura 13.2 — Architettura: Garante privacy e cooperazione.](../assets/chapter-13/02-architettura-garante-privacy-cooperazione.png)
 
-*Figura 13.2 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 13.2 — La tavola mette a confronto poteri correttivi e reclamo e segnalazione senza sovrapporli.*
 
 ### Poteri: indagare, correggere, autorizzare, indirizzare
+
+## N-MF05-13-02 · Istituti e distinzioni
 
 I poteri del Garante non sono tutti della stessa natura. I **poteri di indagine** consentono di acquisire le informazioni necessarie per comprendere il trattamento, verificarne la liceità e accertare i fatti. I **poteri correttivi** permettono, quando ne ricorrano i presupposti, di intervenire sul trattamento: ad esempio con avvertimenti e ammonimenti, ingiunzioni di conformazione, ordini relativi all'esercizio dei diritti, limitazioni o divieti, rettifica o cancellazione dei dati e, nei casi previsti, sanzioni amministrative pecuniarie. Il GDPR attribuisce anche poteri autorizzatori e consultivi, che operano nei rispettivi ambiti.
 
@@ -99,7 +101,7 @@ La logica è comune alle altre autorità indipendenti: il potere non è libero p
 
 ![Figura 13.3 — Sequenza operativa: Garante privacy e cooperazione.](../assets/chapter-13/03-flusso-garante-privacy-cooperazione.png)
 
-*Figura 13.3 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 13.3 — La tavola ricostruisce il passaggio dai fatti alla competenza e alla decisione.*
 
 ### Reclamo e segnalazione: strumenti diversi, effetti diversi
 
@@ -119,9 +121,11 @@ Il ricorso al Garante non elimina gli altri rimedi previsti dall'ordinamento. Il
 
 ![Figura 13.4 — Distinzioni essenziali: Garante privacy e cooperazione.](../assets/chapter-13/04-distinzioni-garante-privacy-cooperazione.png)
 
-*Figura 13.4 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 13.4 — La tavola evidenzia le distinzioni da controllare prima di rispondere.*
 
 ### Istruttoria, ispezione e misura: dalla criticità al provvedimento
+
+## N-MF05-13-03 · Poteri, procedura e conseguenze
 
 Il procedimento serve a trasformare una possibile violazione in una decisione verificabile. Inizia dalla delimitazione del trattamento: non basta affermare che “sono stati violati dati personali”. Occorre capire quali dati sono coinvolti, chi li ha trattati, con quale finalità, su quale base giuridica, per quanto tempo, con quali destinatari e con quali misure di sicurezza. Una violazione di sicurezza, ad esempio, non si esaurisce nel fatto tecnico: impone di ricostruire l'evento, le misure preventive, l'impatto sugli interessati e gli adempimenti applicabili.
 
@@ -152,7 +156,7 @@ Questo bilanciamento mostra anche la differenza tra consulenza preventiva e cont
 
 ![Figura 13.5 — Sintesi operativa: Garante privacy e cooperazione.](../assets/chapter-13/05-sintesi-garante-privacy-cooperazione.png)
 
-*Figura 13.5 — Schema di ripasso: usa la mappa per collegare regola, funzione e output di prova.*
+*Figura 13.5 — La tavola chiude il percorso collegando cooperazione europea a bilanciamento con la trasparenza.*
 
 ### Mappa BANDO
 
@@ -163,6 +167,8 @@ Questo bilanciamento mostra anche la differenza tra consulenza preventiva e cont
 | Procedimenti | Reclamo, segnalazione, istruttoria, provvedimento e ricorso | Schema reclamo–prova–misura |
 | Cooperazione UE | Autorità capofila, interessate, EDPB e coerenza | Flow chart di un caso transfrontaliero |
 | PA e pubblicazione | Necessità, proporzionalità, minimizzazione e documentazione | Checklist prima della pubblicazione online |
+
+## N-MF05-13-04 · Applicazione alla prova
 
 > **Da sapere in cinque righe.** Il Garante controlla l'applicazione della disciplina sui dati personali, ma non sostituisce titolare, DPO o giudice. I suoi poteri includono indagine, correzione, sanzione, autorizzazione e consultazione nei rispettivi limiti. Reclamo e segnalazione sono strumenti diversi: il primo è circostanziato e può avviare un percorso di tutela, la seconda può far emergere una criticità da valutare. Ogni misura richiede fatto, fonte, istruttoria, garanzie e motivazione. Nei casi transfrontalieri il GDPR coordina autorità capofila e interessate; l'EDPB assicura coerenza e può risolvere conflitti tra autorità nei casi previsti.
 
@@ -211,10 +217,46 @@ Compila la griglia per una possibile diffusione indebita di dati in una pagina i
 
 L'esercizio è corretto se non identifica la sanzione prima di aver ricostruito trattamento, regola, prova e competenza.
 
-### Riferimenti consolidati
+### Laboratorio di qualificazione
 
-[[sources/garante-privacy-poteri-procedimenti-cooperazione-europea-2026-07-24]], [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]], [[sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr]], [[entities/garante-protezione-dati-personali]], [[topics/garante-privacy-poteri-procedimenti-cooperazione-europea]].
+## N-MF05-13-05 · Consolidamento e verifica
 
-### Note di review editoriale
+Per allenare ruolo del Garante, parti da un fascicolo minimo: una richiesta, due documenti non perfettamente coerenti e una fonte che attribuisce il potere. Scrivi in colonne separate i fatti provati, le allegazioni e gli elementi ancora da acquisire. Poi confronta poteri correttivi con reclamo e segnalazione: annota soggetto, presupposto, funzione ed effetto di ciascun istituto. Il confronto impedisce di scegliere la soluzione soltanto perché una parola della traccia ricorda una definizione studiata.
 
-Prima della chiusura del volume, verificare GDPR e Codice privacy vigenti, regolamento n. 1/2019 del Garante e successive modifiche, disciplina delle sanzioni nei confronti di soggetti pubblici, provvedimenti pertinenti, linee guida EDPB, criteri per l'autorità capofila, termini procedimentali e forme di ricorso. Per ciascun caso concreto, controllare data del fatto, trattamento, titolare/responsabile, competenza, carattere locale o transfrontaliero, prova disponibile e rimedio effettivamente azionabile.
+Passa quindi a istruttoria. Indica chi avvia l'attività, quali garanzie devono essere rispettate e quale atto può chiuderla. Se la fonte lascia un margine di valutazione, rendi espliciti i criteri: gravità, durata, diffusione, rischio, collaborazione e proporzionalità, secondo il settore applicabile. Collega cooperazione europea al documento che ne permette la verifica e tratta bilanciamento con la trasparenza come una conclusione da motivare, non come un'etichetta. La scheda è completa quando un secondo lettore può ricostruire il percorso senza conoscere l'intenzione di chi l'ha compilata.
+
+### Controllo incrociato
+
+Rileggi ora il risultato da tre prospettive. Come candidato, verifica di avere definito ruolo del Garante senza dilungarti su nozioni estranee. Come istruttore, controlla che la distinzione fra poteri correttivi e reclamo e segnalazione poggi su documenti e non su supposizioni. Come decisore, chiediti se il passaggio dedicato a istruttoria giustifichi davvero l'esito proposto. Se una prospettiva non trova risposta, riapri l'analisi nel punto preciso invece di aggiungere una conclusione generica.
+
+Completa il controllo con una riga dedicata alle alternative. Spiega quale diversa qualificazione sarebbe possibile se cambiasse un fatto decisivo, quale fonte farebbe mutare il perimetro di cooperazione europea e quale conseguenza produrrebbe su bilanciamento con la trasparenza. L'esercizio allena a riconoscere le opzioni quasi corrette: nei concorsi l'errore più insidioso non è sempre una regola falsa, ma una regola vera applicata al soggetto, al tempo o al procedimento sbagliato. La risposta finale deve perciò contenere anche il proprio limite di validità.
+
+### ▣ Verifica ragionata
+
+**Quesito 1.** Qual è il primo controllo quando la traccia richiama ruolo del Garante?
+
+**Risposta corretta:** individuare il fatto rilevante, la fonte e il perimetro della competenza prima di scegliere l'istituto. La parola usata nella traccia può orientare, ma non dimostra da sola quale autorità o quale potere siano applicabili. Una risposta efficace espone il criterio e poi lo applica ai dati disponibili.
+
+**Quesito 2.** poteri correttivi e reclamo e segnalazione possono essere trattati come espressioni equivalenti?
+
+**Risposta corretta:** no. Devono essere distinti per funzione, presupposti, soggetti ed effetti. Dopo la distinzione si può spiegare il loro coordinamento. Nei quiz, l'opzione errata spesso contiene una definizione plausibile ma trasferisce a un istituto la funzione dell'altro.
+
+**Quesito 3.** Un dato tratto da un bando storico o da una pagina operativa vale per ogni procedura successiva?
+
+**Risposta corretta:** no. Il dato è utile come esempio datato; requisiti, termini, soglie, composizione delle prove e modalità di ricorso devono essere ricontrollati nella fonte vigente e nel bando applicabile. La regola stabile va separata dal dato mobile.
+
+**Quesito 4.** Come va usato istruttoria nel caso proposto?
+
+**Risposta corretta:** va collegato a fatti, competenza, sequenza procedurale e conseguenza. Limitarsi a una definizione non dimostra capacità applicativa; anticipare l'esito senza istruttoria produce invece una conclusione non sostenuta. La motivazione deve rendere visibile il passaggio compiuto.
+
+**Quesito 5.** La finalità generale di tutela attribuisce automaticamente qualsiasi potere in materia di cooperazione europea?
+
+**Risposta corretta:** no. Ogni potere richiede una fonte attributiva, un oggetto e un procedimento. La missione istituzionale aiuta a interpretare il sistema, ma non sostituisce la verifica della competenza concreta né consente di confondere vigilanza, rimedio individuale e sanzione.
+
+**Quesito 6.** Quale controllo conclusivo riduce gli errori su bilanciamento con la trasparenza?
+
+**Risposta corretta:** confrontare la conclusione con la domanda, la fonte e i fatti effettivamente disponibili. Se manca un elemento, la risposta deve indicare quale documento o accertamento serve. Dichiarare il limite informativo è più professionale che colmarlo con un automatismo.
+
+### Caso ragionato di chiusura
+
+Un ufficio riceve una segnalazione che usa formule generiche, richiama ruolo del Garante e chiede un intervento immediato su bilanciamento con la trasparenza. Il fascicolo contiene una schermata, una comunicazione non datata e il riferimento a un bando precedente. La soluzione non consiste nello scegliere subito una sanzione. Occorre qualificare il fatto, verificare autenticità e data dei documenti, individuare la fonte vigente, distinguere poteri correttivi da reclamo e segnalazione e stabilire quale amministrazione possa acquisire gli elementi mancanti. Solo allora si valuta istruttoria, si collega cooperazione europea al potere pertinente e si motiva il passo successivo. Il caso è risolto correttamente quando la conclusione resta proporzionata alle prove e separa la regola stabile dai dati da aggiornare.

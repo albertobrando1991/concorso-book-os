@@ -144,7 +144,7 @@ async function status(context: Context): Promise<CommandResult> {
 
 async function next(context: Context): Promise<CommandResult> {
   const { state, spec } = await load(context)
-  const step = selectStep(state, context)
+  const step = selectStep(state, context, spec)
 
   if (!step) {
     return {
@@ -198,7 +198,7 @@ async function next(context: Context): Promise<CommandResult> {
 
 async function gate(context: Context): Promise<CommandResult> {
   const { state, spec } = await load(context)
-  const step = requireTargetStep(state, context)
+  const step = requireTargetStep(state, context, spec)
   const definition = requireStepDefinition(step.id)
   const result = await runGate(definition.gate, gateContext(spec, step, context))
 
@@ -211,7 +211,7 @@ async function gate(context: Context): Promise<CommandResult> {
 
 async function complete(context: Context): Promise<CommandResult> {
   const { state, spec } = await load(context)
-  const step = requireTargetStep(state, context)
+  const step = requireTargetStep(state, context, spec)
   const definition = requireStepDefinition(step.id)
   const evaluated = await runGate(definition.gate, gateContext(spec, step, context))
   const result = context.args.accept ? accepted(evaluated, context) : evaluated
@@ -361,22 +361,22 @@ export function reprojectRunState(fresh: RunState, existing: RunState): RunState
   }
 }
 
-function selectStep(state: RunState, context: Context) {
-  if (context.args.step) return requireTargetStep(state, context)
+function selectStep(state: RunState, context: Context, spec: VolumeSpec) {
+  if (context.args.step) return requireTargetStep(state, context, spec)
 
-  return nextStep(state, { phase: context.args.phase, from: context.args.from, target: targetFilter(state, context) })
+  return nextStep(state, { phase: context.args.phase, from: context.args.from, target: targetFilter(state, context, spec) })
 }
 
-function requireTargetStep(state: RunState, context: Context): StepRecord {
+function requireTargetStep(state: RunState, context: Context, spec?: VolumeSpec): StepRecord {
   if (!context.args.step) {
-    const upcoming = nextStep(state, { phase: context.args.phase, target: targetFilter(state, context) })
+    const upcoming = nextStep(state, { phase: context.args.phase, target: targetFilter(state, context, spec) })
 
     if (!upcoming) throw new Error('Nessuno step da valutare: indica --step oppure verifica lo stato con "pipeline status".')
 
     return upcoming
   }
 
-  const filtered = state.steps.filter((step) => step.id === context.args.step && matchesFilters(step, context))
+  const filtered = state.steps.filter((step) => step.id === context.args.step && matchesFilters(step, context, spec))
 
   if (!filtered.length) {
     throw new Error(
@@ -393,10 +393,10 @@ function requireTargetStep(state: RunState, context: Context): StepRecord {
   return filtered[0]
 }
 
-function matchesFilters(step: StepRecord, context: Context) {
+function matchesFilters(step: StepRecord, context: Context, spec?: VolumeSpec) {
   const { chapter, module } = context.args
 
-  if (chapter && !matchesChapter(step, chapter)) return false
+  if (chapter && !matchesChapter(step, chapter, spec)) return false
   if (module && !matchesModule(step, module)) return false
 
   return true
@@ -408,18 +408,28 @@ function describeFilters(context: Context) {
   return parts.filter(Boolean).length ? ` ${parts.filter(Boolean).join(" ")}` : ""
 }
 
-function matchesChapter(step: StepRecord, chapter: string) {
-  return step.target.includes(`/chapters/${chapter}-`) || step.target.endsWith(`/chapters/${chapter}.md`)
+export function matchesChapter(step: StepRecord, chapter: string, spec?: VolumeSpec) {
+  if (step.target.includes(`/chapters/${chapter}-`) || step.target.endsWith(`/chapters/${chapter}.md`)) return true
+  if (!spec) return false
+
+  const requested = chapter.replace(/^0+(?=\d)/, "")
+  return spec.modules.some((module) =>
+    module.chapters.some(
+      (candidate) =>
+        candidate.number.replace(/^0+(?=\d)/, "") === requested &&
+        step.target === `${module.moduleId}/${candidate.file}`
+    )
+  )
 }
 
 function matchesModule(step: StepRecord, module: string) {
   return step.target.toLowerCase().includes(module.trim().toLowerCase())
 }
 
-function targetFilter(state: RunState, context: Context) {
+function targetFilter(state: RunState, context: Context, spec?: VolumeSpec) {
   if (!context.args.chapter && !context.args.module) return undefined
 
-  return state.steps.find((step) => matchesFilters(step, context))?.target
+  return state.steps.find((step) => matchesFilters(step, context, spec))?.target
 }
 
 function reopenStartKeys(state: RunState, spec: VolumeSpec, context: Context) {

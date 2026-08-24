@@ -1,0 +1,3 @@
+# Piano operativo — Appendici operative
+
+La scheda elenca strumenti non ancora sviluppati. Struttura: N-FC01-15-01 glossario; 02 tabelle Ministeri/PCM/Avvocatura; 03 Bando Decoder; 04 checklist e schema orale; 05 cento domande originali con verifica commentata. Ogni nucleo avrà almeno 600 parole; il capitolo almeno 3.500, sei quiz commentati e un caso di utilizzo integrato. Fonti nel frontmatter, nessun link nel corpo. Audit: denominazioni, assetti, CCNL, competenze e specifico bando. Tabelle compilabili e stampabili; domande originali, non banca dati ufficiale. Evitare di duplicare la teoria: ogni voce deve definire funzione d'uso e rinviare internamente con indicazione leggibile solo quando necessario.

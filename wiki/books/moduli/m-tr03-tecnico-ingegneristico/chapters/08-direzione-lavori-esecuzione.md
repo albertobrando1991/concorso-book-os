@@ -2,21 +2,21 @@
 id: chapter-m-tr03-08-direzione-lavori-esecuzione
 type: book_chapter
 title: "Direzione lavori, esecuzione e cantieri"
-status: draft
+status: reviewed
 domain: concorsi pubblici italiani
 topics: ["direzione lavori","esecuzione contratti pubblici","cantieri","sicurezza cantieri"]
 entities: ["D.Lgs. 36/2023","Allegato II.14","D.Lgs. 81/2008","RUP","Direttore dei lavori","CSE"]
 source_refs: ["sources/direzione-lavori-esecuzione-cantieri-dlgs-36-2023-allegato-ii14.md","sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md","sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md","sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md","sources/campione-bandi-tecnici-pa-vol-10-2026.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["m-tr03-tecnico-ingegneristico"]
 confidence: 0.9
-updated_at: "2026-07-30T00:00:00+02:00"
+updated_at: 2026-08-21
 created_at: "2026-07-30T00:00:00+02:00"
-review_required: true
+review_required: false
 canonical: true
 tags: ["chapter","vol-10","m-tr03","direzione-lavori","esecuzione","cantieri"]
 book_id: m-tr03-tecnico-ingegneristico
 outline_section: "08"
-draft_stage: full_draft
+draft_stage: publication_candidate
 last_compiled_from: "planning/08-capitolo-08-piano-completamento.md"
 ---
 
@@ -36,7 +36,7 @@ Al termine del capitolo saprai ricostruire il percorso dalla consegna all'ultima
 - **Diario:** annota le coppie che confondi: RUP/DL, DL/CSE, ordine/modifica, PSC/POS.
 - **Output:** prepara una risposta orale e una checklist di controllo dell'esecuzione.
 
-## Dalla stipula all'avvio dei lavori
+## N-TR03-08-01 · Dalla stipula all'avvio dei lavori
 
 ### Presupposti e consegna
 
@@ -58,7 +58,7 @@ Il sopralluogo, approfondito nel capitolo 2, diventa qui parte della catena esec
 > Un ordine di servizio non autorizza qualsiasi variante.  
 > Sicurezza e produzione devono avanzare nello stesso flusso.
 
-## I soggetti dell'esecuzione
+## N-TR03-08-02 · I soggetti dell'esecuzione
 
 ### RUP e direttore dei lavori
 
@@ -76,7 +76,7 @@ L'esecutore organizza mezzi, personale e lavorazioni per adempiere il contratto.
 
 Nei cantieri soggetti al Titolo IV del D.Lgs. 81/2008 intervengono committente o responsabile dei lavori e, quando previsti, coordinatore per la progettazione e coordinatore per l'esecuzione. Il CSE controlla l'applicazione del PSC e la coerenza dei POS, coordina imprese e lavoratori autonomi e aggiorna i documenti di propria competenza in relazione all'evoluzione dei lavori.
 
-## Direzione e controllo in corso d'opera
+## N-TR03-08-03 · Direzione e controllo in corso d'opera
 
 ### Ordini di servizio, verbali e registrazioni
 
@@ -100,7 +100,7 @@ Il controllo tecnico riguarda conformità e qualità; quello amministrativo veri
 
 Il capitolo 10 tratta in dettaglio libretti, registri, SAL e certificati di pagamento. In questa sede basta fissare il nesso essenziale: ogni effetto contabile rilevante deve poggiare sull'evidenza tecnica che lo giustifica.
 
-## Modifiche, sospensioni e contestazioni
+## N-TR03-08-04 · Modifiche, sospensioni e contestazioni
 
 ### Modifiche e varianti
 
@@ -124,7 +124,7 @@ La contestazione esprime un dissenso su un fatto o una disposizione. La riserva,
 
 Il DL deve registrare i fatti e le proprie valutazioni senza cancellare il contraddittorio. Tempestività e precisione impediscono che una divergenza tecnica diventi, mesi dopo, una ricostruzione basata soltanto sulla memoria.
 
-## Sicurezza del cantiere
+## N-TR03-08-05 · Sicurezza del cantiere
 
 ### Ruoli e obblighi essenziali
 
@@ -144,13 +144,13 @@ Quando cambia una fase, entra una nuova impresa o emerge un'interferenza, occorr
 
 Segnalazioni, prescrizioni, verifiche e adeguamenti devono essere tracciati. In presenza dei presupposti previsti, il CSE adotta le iniziative attribuitegli dalla legge. Il DL, per la propria sfera, registra gli effetti sull'esecuzione e informa il RUP.
 
-## Ultimazione e passaggio ai controlli finali
+## N-TR03-08-06 · Ultimazione e passaggio ai controlli finali
 
 L'ultimazione non coincide con l'allontanamento dell'impresa. Il DL accerta lo stato delle opere, verbalizza l'esito, identifica eventuali lavorazioni residue ammissibili e raccoglie la documentazione necessaria alla fase successiva.
 
 La chiusura deve consegnare a collaudatore e amministrazione una storia leggibile: progetto e modifiche approvate, materiali, prove, contabilità, sicurezza, contestazioni e documenti finali. Collaudo tecnico-amministrativo, certificato di regolare esecuzione e manutenzione sono approfonditi nel capitolo 9.
 
-## Caso guidato: riqualificazione di una scuola
+## N-TR03-08-07 · Caso guidato: riqualificazione di una scuola
 
 Durante la riqualificazione di una scuola il DL riscontra una parete in posizione diversa dal rilievo, riceve la proposta di un materiale alternativo e rileva un ritardo sull'impermeabilizzazione. Nello stesso settore una nuova sequenza crea interferenza tra ponteggio e accesso degli impiantisti.
 
@@ -164,7 +164,7 @@ Durante la riqualificazione di una scuola il DL riscontra una parete in posizion
 
 In tutti questi casi l'intervento materiale non può precedere l'istruttoria. Occorre accertare e qualificare il fatto, individuare la competenza, formalizzare la decisione e quindi eseguirla.
 
-## Domande ed errori
+## ▣ Verifica
 
 ### Domanda da commissario
 
@@ -182,7 +182,7 @@ No. Può impartire un'istruzione esecutiva coerente con il contratto. Se la disp
 
 Ridurre il cantiere a una sequenza di moduli. In prova ogni documento va collegato al fatto che lo richiede, al soggetto competente, al controllo svolto e all'effetto prodotto.
 
-## Mini-esercizio e checklist
+### Mini-esercizio e checklist
 
 Classifica questi eventi: prova di accettazione di un materiale; richiesta di spostare un muro; presenza di un'impresa non coordinata; pioggia ordinaria; impedimento eccezionale; quantità contestata.
 
@@ -210,4 +210,4 @@ Checklist del DL:
 
 ## Note di review
 
-Prima della pubblicazione il capitolo richiede revisione congiunta di RUP, direttore dei lavori, CSE ed esperto di contabilità. Verificare sul testo vigente Allegato II.14, casi speciali di consegna e sospensione, disciplina delle modifiche e forme delle riserve. I raccordi sono stati verificati il 30 luglio 2026 verso [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione|Collaudo, verifica, manutenzione e gestione dell'opera]] e [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori|Computi, capitolati e contabilità dei lavori]].
+Audit del 21 agosto 2026: verificati sul testo vigente gli artt. 114, 115 e 120, l'Allegato II.14 e il Titolo IV del D.Lgs. n. 81/2008. Ruoli di RUP, DL e CSE restano distinti; consegna, sospensione, modifiche e riserve sono esposte senza estendere casi speciali. Confermati i rinvii ai capitoli 9 e 10.

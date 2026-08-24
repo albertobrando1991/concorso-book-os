@@ -2,16 +2,16 @@
 id: matrix-m-ir02-universita-afam-copertura-didattica
 type: coverage_matrix
 title: "Matrice di copertura didattica v4 — M-IR02 Universita e AFAM"
-status: planned_complete
+status: editorial_review
 domain: "concorsi pubblici italiani"
 topics: ["universita", "AFAM", "personale tecnico amministrativo", "biblioteche", "ricerca"]
 entities: ["Ministero dell'Universita e della Ricerca", "ANVUR", "Normattiva"]
 source_refs: ["sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24", "sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026"]
 book_refs: ["m-ir02-universita-afam", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.78
-updated_at: 2026-07-29
+updated_at: 2026-08-22
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["coverage-matrix", "module-code-m-ir02", "pipeline-step-07"]
 ---
@@ -45,4 +45,4 @@ tags: ["coverage-matrix", "module-code-m-ir02", "pipeline-step-07"]
 2. Media priorita': nessun blocker di progettazione; ricontrollare call, ANVUR/MUR e CCNL.
 3. Bassa priorita': aggiornare esempi e piattaforme al text freeze.
 
-Il modulo non e' pubblicabile: matrice progettata, capitoli ancora da scrivere, verificare e revisionare.
+I dodici capitoli hanno superato i gate individuali. Il modulo resta in revisione fino al controllo specialistico delle fonti mobili, al text freeze e al preflight finale.

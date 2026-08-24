@@ -2,20 +2,20 @@
 id: chapter-m-fc05-authority-indipendenti-piano-editoriale
 type: editorial_plan
 title: "Piano editoriale - M-FC05 Authority indipendenti"
-status: structure
+status: revision_in_progress
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
 entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-05-dossier-editoriale-authority-regolazione-v4.md","sources/vol-05-bandi-authority-2022-2025.md","sources/banca-italia-bando-60-giuristi-2025.md","sources/anac-bando-19-funzionari-amministrativi-2026.md","sources/consob-bando-vice-assistenti-amministrativi-207-26.md","sources/authority-indipendenti-leggi-istitutive.md"]
 book_refs: ["m-fc05-authority-indipendenti","il-metodo-bando"]
 confidence: 0.85
-updated_at: 2026-07-29T00:00:00+02:00
+updated_at: 2026-08-22T00:00:00+02:00
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["editorial-plan","specialist-module-plan","module-code-m-fc05"]
 book_id: m-fc05-authority-indipendenti
-draft_stage: source-ready-outline
+draft_stage: pipeline_revision
 module_code: M-FC05
 module_family: funzioni-centrali
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/books/moduli/m-fc05-authority-indipendenti/index.md"]
@@ -54,8 +54,9 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 - Topic pages gia presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
-## Testo editoriale
-Da sviluppare con Manual Writer Agent dopo consolidamento delle fonti specifiche.
+## Stato del testo editoriale
+
+I quindici capitoli esistono e costituiscono la base preservata della revisione. La pipeline 2026-08-22 integra le lacune individuate dal report del 18 agosto, rimuove l’apparato interno dal corpo, costruisce la matrice Formato 2 e ripete i gate fino al pacchetto candidato.
 
 ## Aggiornamento source-ready 2026-07-24
 
