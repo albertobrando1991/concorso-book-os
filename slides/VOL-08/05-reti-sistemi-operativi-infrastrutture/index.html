@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 05 — Reti, sistemi operativi e infrastrutture</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-05" data-volume="VOL-08" data-chapter="05" data-chapter-title="Reti, sistemi operativi e infrastrutture" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 05</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">Reti, sistemi operativi<br>e infrastrutture</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">Di fronte a un servizio che non risponde si accusa spesso la rete. Il guasto può stare nel collegamento, nell’indirizzamento, nel DNS, nella porta, nel processo, nei permessi o nelle risorse. Rete e sistema operativo non sono lo stesso piano di diagnosi.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">Separare i livelli prima di intervenire</h2>
+                    <p class="lead reveal d2">Il VOL-01 introduce sistema operativo, file, LAN/WAN, IP, TCP/IP, DNS, HTTP e dispositivi. Qui diventano strumenti di analisi. Il troubleshooting è il punto di incontro: il modello tecnico serve a localizzare il guasto, non a recitare sigle.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è la rete</h3>
+                            <p>Collega interfacce e sistemi perché scambino dati secondo regole condivise. I protocolli definiscono formato, significato dei campi e comportamento. Ogni livello offre servizi a quello superiore e usa quello inferiore.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Che cos’è il sistema operativo</h3>
+                            <p>Gestisce CPU, memoria, dispositivi, file, identità e comunicazioni. Il kernel opera con privilegi elevati; le applicazioni nello spazio utente chiedono servizi attraverso interfacce definite. Non è l’interfaccia grafica e non è la rete.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">MAC, IP, porta e nome DNS rispondono a domande diverse e non sono intercambiabili.</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">Il collegamento attivo prova che l’interfaccia vede il mezzo, non che l’IP è corretto. Un indirizzo assegnato non garantisce una rotta. Una porta raggiungibile non prova che l’applicazione restituisca il contenuto atteso.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · Distinzione</p>
+                    <h2 class="h-display section-title reveal d1">Rete non è sistema operativo</h2>
+                    <p class="lead reveal d2">La rete muove i messaggi fra interfacce. Il sistema operativo governa processi, memoria, file e socket sulla macchina. Un servizio «running» con porta chiusa è un problema di sistema; un nome che non si risolve è un problema di rete o di dato DNS.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th></th><th>Rete</th><th>Sistema operativo</th></tr></thead>
+                        <tbody>
+                            <tr><td>Oggetto</td><td>Collegamento, indirizzi, rotte, porte, nomi.</td><td>Processi, thread, memoria, file system, permessi, servizi.</td></tr>
+                            <tr><td>Domanda</td><td>Il messaggio arriva e torna?</td><td>Chi esegue, con quali risorse e diritti?</td></tr>
+                            <tr><td>Evidenza</td><td>Link, prefisso, gateway, DNS, test di porta.</td><td>Stato processo, listener, log, mount, quote.</td></tr>
+                            <tr><td>Errore</td><td>Cambiare DNS per un errore di instradamento già dimostrato sull’IP.</td><td>Riavviare il servizio cancellando gli indizi, o accusare «la rete».</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni su questo capitolo</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th></th><th>Che cosa fai</th><th>Se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>B — Bando</td><td>Separa concetti, comandi, apparati e SO nominati.</td><td>Studi un prodotto come se fosse il modello.</td></tr>
+                            <tr><td>A — Aree</td><td>Collegamento, rete, trasporto, servizio, processo, risorsa.</td><td>Mischi cloud, API o cybersecurity operativa.</td></tr>
+                            <tr><td>N — Nuclei</td><td>Mappa funzione-livello-evidenza.</td><td>Elenco OSI senza test discriminante.</td></tr>
+                            <tr><td>D — Diario</td><td>Sintomo, ipotesi, test, risultato, correzione.</td><td>Cambi più configurazioni insieme.</td></tr>
+                            <tr><td>O — Output</td><td>Quiz, orale, mappa o caso di troubleshooting.</td><td>Sai i nomi dei comandi, non l’ipotesi che verificano.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Livelli</p>
+                    <h2 class="h-display section-title reveal d1">Incapsulamento e rete locale</h2>
+                    <p class="lead reveal d2">Il modello OSI descrive sette livelli concettuali; TCP/IP ne raggruppa di meno. Non corrispondono voce per voce. In invio ogni livello aggiunge informazioni; il destinatario fa il percorso inverso. Ethernet usa indirizzi MAC. Lo switch inoltra frame nella LAN; il router inoltra pacchetti fra reti IP.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Funzione</th><th>Esempi</th><th>Domanda diagnostica</th></tr></thead>
+                        <tbody>
+                            <tr><td>Accesso alla rete</td><td>Ethernet, Wi-Fi, frame, MAC.</td><td>Il collegamento locale funziona?</td></tr>
+                            <tr><td>Rete</td><td>IPv4, IPv6, routing.</td><td>Esiste un percorso verso la destinazione?</td></tr>
+                            <tr><td>Trasporto</td><td>TCP, UDP, porte.</td><td>Il servizio è raggiungibile sulla porta prevista?</td></tr>
+                            <tr><td>Applicazione</td><td>DNS, HTTP, SMTP, SSH.</td><td>Il protocollo applicativo risponde correttamente?</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>VLAN</strong>
+                        <p>Separa logicamente domini sulla stessa infrastruttura di switching. La comunicazione fra VLAN richiede una funzione di livello rete. Non sostituisce da sola autorizzazioni e controlli di sicurezza. Un apparato reale può integrare switching, routing e filtraggio: le funzioni restano distinte.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">05 · Indirizzamento</p>
+                    <h2 class="h-display section-title reveal d1">Il prefisso, non le prime cifre decimali</h2>
+                    <p class="lead reveal d2">Un indirizzo IP identifica un’interfaccia. Il prefisso individua la rete; i bit restanti distinguono gli host. IPv4 ha 32 bit. Esempio CIDR: 192.0.2.64/26. Un /26 lascia 6 bit: 64 indirizzi, da .64 a .127. Nel modello tradizionale dell’esercizio: rete .64, broadcast .127, host .65–.126.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Routing</h3>
+                            <p>Se la destinazione è locale, recapito sul collegamento. Altrimenti il pacchetto va al gateway della tabella. Una rotta predefinita raccoglie ciò che non ha corrispondenza più specifica. Serve anche il percorso di ritorno: l’assenza di risposta non prova da sola che la richiesta non sia arrivata.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Esempio</h3>
+                            <p>192.0.2.70/26 e 192.0.2.120/26 sono nello stesso blocco; 192.0.2.130/26 no. ARP (IPv4) associa IP locale e MAC; IPv6 usa neighbor discovery. Non confondere ARP con DNS.</p>
+                        </div>
+                    </div>
+                    <div class="warn reveal d5">
+                        <strong>Errore ricorrente</strong>
+                        <p>Confrontare solo la notazione decimale. IPv6 ha 128 bit, notazione esadecimale e non usa il broadcast IPv4. In una prova generale conta distinguere ampiezza, notazione e principi.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">06 · Trasporto</p>
+                    <h2 class="h-display section-title reveal d1">TCP, UDP e servizi: «più veloce» non basta</h2>
+                    <p class="lead reveal d2">TCP e UDP usano porte sopra IP. TCP offre un flusso ordinato, con controllo degli errori e ritrasmissione. UDP invia datagrammi senza le stesse garanzie: l’applicazione può aggiungere i meccanismi. TCP non rende corretta l’applicazione; UDP non implica assenza di affidabilità complessiva.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Sintomo</th><th>Prima ipotesi utile</th><th>Evidenza</th></tr></thead>
+                        <tbody>
+                            <tr><td>Nome non risolto</td><td>DNS o resolver.</td><td>Risposta per il record atteso (A, AAAA, CNAME, MX, NS).</td></tr>
+                            <tr><td>Timeout verso l’indirizzo</td><td>Percorso, ritorno o filtro.</td><td>Test progressivi di raggiungibilità e rotta.</td></tr>
+                            <tr><td>Connessione rifiutata</td><td>Nessun listener o rifiuto esplicito.</td><td>Stato della porta sul server.</td></tr>
+                            <tr><td>Risposta HTTP inattesa</td><td>Applicazione, proxy o configurazione.</td><td>Codice, intestazioni, contenuto e log.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>NAT e proxy</strong>
+                        <p>Il NAT modifica informazioni di indirizzamento; un proxy agisce per conto di un client o server a livello applicativo o intermedio. Né NAT né proxy è, per definizione, sinonimo di firewall. DHCP assegna parametri; NTP sincronizza gli orologi; SSH offre accesso remoto protetto.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Processi</p>
+                    <h2 class="h-display section-title reveal d1">«Running» non è «in ascolto»</h2>
+                    <p class="lead reveal d2">Un programma è codice memorizzato; un processo è un’istanza con stato e risorse; un thread è un flusso dentro il processo. Lo scheduling assegna la CPU. Un processo che non usa CPU può attendere I/O o un lock: il basso consumo non prova che sia guasto.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Configurazione</h3><p>File e parametri leggibili e coerenti.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Processo</h3><p>Istanza avviata, stato, dipendenze.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Socket</h3><p>Porta in ascolto sull’interfaccia prevista.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Richiesta</h3><p>Prova locale, poi remota; log correlato all’orario.</p></div>
+                    </div>
+                    <div class="warn reveal d4">
+                        <strong>Caso breve</strong>
+                        <p>Servizio «running», porta non in ascolto. Il log di avvio mostra un errore di binding su un indirizzo non più assegnato. Si corregge un parametro, si verifica il listener, poi una richiesta locale e una remota. Un riavvio iniziale senza dati non avrebbe dimostrato nulla.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 19</span></div>
+            </section>
+
+            <section class="slide">
+                <div class="split-dark">
+                    <p class="kicker reveal">08 · Memoria</p>
+                    <h2 class="h-display reveal d1" style="font-size: 40px; margin: 20px 0 24px;">Virtuale non è «disco extra»</h2>
+                    <p class="lead reveal d2">Ogni processo ha uno spazio di indirizzamento. Il sistema traduce in memoria fisica. La page cache conserva dati di file; la swap può ospitare pagine espulse. Un solo numero di memoria «usata» non basta: libera, disponibile, cache recuperabile, swap e processi vanno correlati.</p>
+                </div>
+                <div class="split-light">
+                    <p class="kicker reveal d1">08 · File system</p>
+                    <h2 class="h-display reveal d2" style="font-size: 40px; margin: 20px 0 24px;">Scrittura fallita: cinque ipotesi</h2>
+                    <p class="lead reveal d3">Permessi, mount in sola lettura, spazio o metadati esauriti, quota, percorso errato, errore del dispositivo. I permessi si leggono come catena sul percorso, non sul solo file finale. Liberare cache a caso non risolve una crescita applicativa.</p>
+                </div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">09 · Disponibilità</p>
+                    <h2 class="h-display section-title reveal d1">Ridondanza, RAID e backup non coincidono</h2>
+                    <p class="lead reveal d2">La disponibilità è la capacità di offrire il servizio quando richiesto. Concorre l’intera catena: alimentazione, rete, calcolo, storage, applicazione, dati, dipendenze. Un singolo punto di guasto interrompe la funzione senza alternativa.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Concetto</th><th>Che cosa fa</th><th>Che cosa non fa</th></tr></thead>
+                        <tbody>
+                            <tr><td>Ridondanza</td><td>Duplica componenti o percorsi.</td><td>Non serve se condividono lo stesso dominio di guasto.</td></tr>
+                            <tr><td>RAID</td><td>Combina dischi per alcuni guasti o prestazioni.</td><td>Non sostituisce il backup: cancellazione e corruzione logica si propagano.</td></tr>
+                            <tr><td>Affidabilità</td><td>Probabilità di funzionare senza guasti in un intervallo.</td><td>Non misura da sola la rapidità di ripristino (manutenibilità).</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Trappola</strong>
+                        <p>Un RAID rende inutile il backup? No. Può mantenere il servizio in presenza di alcuni guasti dei dischi, secondo il livello. Non crea automaticamente una copia storica indipendente.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">10 · Troubleshooting</p>
+                    <h2 class="h-display section-title reveal d1">Un test che distingue due ipotesi</h2>
+                    <p class="lead reveal d2">Sintomo osservabile, perimetro e momento, configurazione di riferimento, ipotesi per livello, test discriminante, evidenza, una modifica controllata, verifica senza effetti collaterali. Gli strumenti (ping, traceroute, ip, ss, nslookup, curl, log) valgono solo se è chiaro quale ipotesi verificano.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Link</h3><p>Interfaccia attiva?</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>IP e rotta</h3><p>Prefisso, gateway, ritorno.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>DNS</h3><p>Il nome vale l’indirizzo atteso?</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Porta</h3><p>Trasporto raggiungibile?</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Processo</h3><p>In ascolto, poi risposta applicativa.</p></div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">portale.ente.interno non risponde</h2>
+                    <p class="lead reveal d2">Gli utenti segnalano il disservizio. Il server risulta acceso. Non si salta alla configurazione applicativa.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Controllo</th><th>Esito</th></tr></thead>
+                        <tbody>
+                            <tr><td>Client</td><td>Ottiene un indirizzo e raggiunge il gateway: il collegamento locale tiene.</td></tr>
+                            <tr><td>DNS</td><td>Il nome restituisce un indirizzo non più assegnato al server.</td></tr>
+                            <tr><td>Indirizzo corretto</td><td>La porta del servizio risponde.</td></tr>
+                            <tr><td>Log applicativi</td><td>Nessun errore sulle richieste di prova. La causa è il dato DNS, non il processo.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Correzione</strong>
+                        <p>Aggiornare il record previsto e verificare la propagazione nelle cache pertinenti. Riavviare il server non avrebbe corretto la causa. Le prove vanno eseguite nello stesso intervallo del sintomo: cache e stato possono cambiare.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3>Come affronta il malfunzionamento di un servizio di rete?</h3>
+                            <p>Parto da un sintomo osservabile e ne delimito utenti, sistemi e momento. I controlli vanno dal collegamento alla risposta applicativa: IP, percorso, DNS, porta, processo. Ogni prova discrimina un’ipotesi. Poi evidenza, modifica controllata, verifica senza effetti collaterali.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3>Un RAID rende inutile il backup?</h3>
+                            <p>No. Il RAID può mantenere disponibilità rispetto ad alcuni guasti dei dischi. Non crea una copia storica indipendente e non protegge da ogni cancellazione, corruzione o errore applicativo.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Mini-esercizio</p>
+                    <h2 class="h-display section-title reveal d1">Incapsulamento e sottorete</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Consegna</th><th>Esito</th></tr></thead>
+                        <tbody>
+                            <tr><td>Workstation verso un server in un’altra rete: ordina HTTP, TCP, IP, Ethernet; chi inoltra in LAN, chi instrada.</td><td>HTTP in TCP, poi IP, poi frame Ethernet. Switch in LAN; router fra reti.</td></tr>
+                            <tr><td>192.0.2.70/26: rete e broadcast nel modello IPv4 tradizionale.</td><td>Blocco da .64 a .127; rete .64, broadcast .127.</td></tr>
+                            <tr><td>Nome si risolve, porta non risponde.</td><td>Spostare la diagnosi su trasporto, processo, ascolto o filtraggio, non sul DNS.</td></tr>
+                            <tr><td>CPU poco utilizzata, servizio lento.</td><td>Il collo di bottiglia può essere storage, rete, lock o servizio esterno. Correlare metriche e sintomo.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d3">
+                        <strong>Errore tipico</strong>
+                        <p>Cambiare più configurazioni insieme. Se il servizio torna, non si sa quale modifica abbia risolto; se peggiora, è difficile tornare indietro. Una diagnosi riproducibile varia una condizione alla volta.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. Rete e sistema operativo si diagnosticano su piani diversi: messaggio fra interfacce versus processo, memoria, file e permessi.</p>
+                        <p class="lead reveal d3">2. MAC, IP, porta e DNS non sono intercambiabili. Ogni test copre un tratto preciso.</p>
+                        <p class="lead reveal d4">3. Il prefisso decide la sottorete; il gateway e il ritorno decidono la raggiungibilità. Non basta la somiglianza decimale.</p>
+                        <p class="lead reveal d5">4. TCP e UDP si scelgono dai requisiti, non dall’etichetta «veloce». «Running» non implica listener e risposta corretta.</p>
+                        <p class="lead reveal d6">5. Ridondanza, RAID e backup non coincidono. Il troubleshooting cambia una variabile alla volta e registra l’evidenza.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Evidenze</p>
+                    <h2 class="h-display section-title reveal d1">Che cosa sostiene un test, e che cosa no</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Evidenza osservata</th><th>Che cosa sostiene</th><th>Che cosa non dimostra</th></tr></thead>
+                        <tbody>
+                            <tr><td>Collegamento attivo</td><td>Interfaccia e mezzo a livello locale.</td><td>Indirizzamento, routing e servizio.</td></tr>
+                            <tr><td>MAC appreso dallo switch</td><td>Traffico sul segmento locale.</td><td>Raggiungibilità di una rete remota.</td></tr>
+                            <tr><td>Risposta dal gateway</td><td>Percorso locale fino al router.</td><td>Destinazione finale e applicazione.</td></tr>
+                            <tr><td>Connessione alla porta</td><td>Trasporto e listener rispondono.</td><td>Correttezza della risposta applicativa.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">16 · Confine</p>
+                    <h2 class="h-display section-title reveal d1">Cosa resta negli altri capitoli</h2>
+                    <div class="grid-3">
+                        <div class="card reveal d2">
+                            <h3>Capitolo 2</h3>
+                            <p>Architettura della CPU e gerarchia hardware della memoria: qui interessa l’esercizio di processi, memoria virtuale e file system.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <h3>Capitoli 6-7</h3>
+                            <p>API e interoperabilità; virtualizzazione, cloud e continuità operativa. Il troubleshooting di rete e SO resta il prerequisito.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Capitoli 8-9</h3>
+                            <p>Sicurezza operativa, IAM e incident response. Un filtro o un rifiuto di porta può essere un controllo, non solo un guasto.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>18 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">Ingegneria software, API e interoperabilità PA</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">Il servizio è raggiungibile. Resta da dimostrare che risponde a un bisogno, che il contratto con gli altri sistemi è esplicito e che l’interoperabilità non si esaurisce in un endpoint.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 06</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 19</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>

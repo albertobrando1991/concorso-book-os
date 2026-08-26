@@ -1,0 +1,458 @@
+{
+  "volume": "VOL-03",
+  "volume_title": "Funzioni centrali, Fisco, Previdenza e Ispettivo",
+  "spec": "wiki/books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/00-scheda-pipeline.md",
+  "order": "volume compilato: M-FC01, M-FC02, M-FC03",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "M-FC01",
+      "title": "Lavorare nei Ministeri e nelle Funzioni Centrali",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "folder": "01-lavorare-ministeri-funzioni-centrali",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "M-FC01",
+      "title": "Anatomia del bando ministeriale/RIPAM",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "folder": "02-anatomia-bando-ministeriale-ripam",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "M-FC01",
+      "title": "Profili professionali, CCNL e mansioni",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "folder": "03-profili-professionali-ccnl-mansioni",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-FC01",
+      "title": "Governo, Ministeri e amministrazione centrale",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "folder": "04-governo-ministeri-amministrazione-centrale",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-FC01",
+      "title": "Presidenza del Consiglio dei ministri",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "folder": "05-presidenza-consiglio-ministri",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-FC01",
+      "title": "Organizzazione interna dei Ministeri",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "folder": "06-organizzazione-interna-ministeri",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-FC01",
+      "title": "Avvocatura dello Stato",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "folder": "07-avvocatura-stato",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-FC01",
+      "title": "PIAO, performance, anticorruzione e valore pubblico",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "folder": "08-piao-performance-anticorruzione-valore-pubblico",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-FC01",
+      "title": "Contabilità dello Stato e bilancio ministeriale",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "folder": "09-contabilita-stato-bilancio-ministeriale",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-FC01",
+      "title": "Contratti pubblici, PNRR e amministrazione digitale",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "folder": "10-contratti-pubblici-pnrr-amministrazione-digitale",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-FC01",
+      "title": "Casi pratici ministeriali",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "folder": "11-casi-pratici-ministeriali",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-FC01",
+      "title": "Quesiti situazionali e codice di comportamento",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "folder": "12-quesiti-situazionali-codice-comportamento",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-FC01",
+      "title": "Matrice materie e piano 30/60/90",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "folder": "13-matrice-materie-piano-30-60-90",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "14",
+      "module": "M-FC01",
+      "title": "Simulazione finale e diario degli errori",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "folder": "14-simulazione-finale-diario-errori",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "15",
+      "module": "M-FC01",
+      "title": "Appendici operative",
+      "source": "wiki/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "folder": "15-appendici-operative",
+      "book_id": "m-fc01-ministeri",
+      "status": "ready"
+    },
+    {
+      "n": "16",
+      "module": "M-FC02",
+      "title": "Mappa delle Agenzie fiscali e dei profili concorsuali",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "folder": "16-mappa-agenzie-fiscali-profili-concorsuali",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "17",
+      "module": "M-FC02",
+      "title": "Bando Decoder fiscale",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "folder": "17-bando-decoder-fiscale",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "18",
+      "module": "M-FC02",
+      "title": "Ordinamento e organizzazione di AE, ADM e AdER",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "folder": "18-ordinamento-organizzazione-ae-adm-ader",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "19",
+      "module": "M-FC02",
+      "title": "Diritto tributario e teoria dell'imposta",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "folder": "19-diritto-tributario-teoria-imposta",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "20",
+      "module": "M-FC02",
+      "title": "Accertamento, controlli e compliance fiscale",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "folder": "20-accertamento-controlli-compliance-fiscale",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "21",
+      "module": "M-FC02",
+      "title": "Sanzioni amministrative e reati tributari",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "folder": "21-sanzioni-amministrative-reati-tributari",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "22",
+      "module": "M-FC02",
+      "title": "Tutela e processo tributario",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "folder": "22-tutela-processo-tributario",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "23",
+      "module": "M-FC02",
+      "title": "Adempimenti fiscali: redditi, IVA, dichiarazioni",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "folder": "23-adempimenti-fiscali-redditi-iva-dichiarazioni",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "24",
+      "module": "M-FC02",
+      "title": "Riscossione nazionale e lavoro in AdER",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "folder": "24-riscossione-nazionale-lavoro-ader",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "25",
+      "module": "M-FC02",
+      "title": "Dogane e procedure doganali ADM",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "folder": "25-dogane-procedure-doganali-adm",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "26",
+      "module": "M-FC02",
+      "title": "Accise, giochi e monopoli",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "folder": "26-accise-giochi-monopoli",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "27",
+      "module": "M-FC02",
+      "title": "Catasto, cartografia, estimo e pubblicita immobiliare",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "folder": "27-catasto-cartografia-estimo-pubblicita-immobiliare",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "28",
+      "module": "M-FC02",
+      "title": "Contabilita aziendale ed economia d'impresa per il fisco",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "folder": "28-contabilita-aziendale-economia-impresa-fisco",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "29",
+      "module": "M-FC02",
+      "title": "Civile e commerciale applicati a fisco, dogane e riscossione",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "folder": "29-civile-commerciale-applicati-fisco-dogane-riscossione",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "30",
+      "module": "M-FC02",
+      "title": "Casi pratici, quiz e orale nelle Agenzie fiscali",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "folder": "30-casi-pratici-quiz-orale-agenzie-fiscali",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "31",
+      "module": "M-FC02",
+      "title": "Appendici operative",
+      "source": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "folder": "31-appendici-operative",
+      "book_id": "m-fc02-agenzie-fiscali",
+      "status": "ready"
+    },
+    {
+      "n": "32",
+      "module": "M-FC03",
+      "title": "Lavorare negli enti pubblici non economici",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "folder": "32-lavorare-enti-pubblici-non-economici",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "33",
+      "module": "M-FC03",
+      "title": "Ordinamento e governance degli EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "folder": "33-ordinamento-governance-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "34",
+      "module": "M-FC03",
+      "title": "INPS: previdenza, servizi e prestazioni",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "folder": "34-inps-previdenza-servizi-prestazioni",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "35",
+      "module": "M-FC03",
+      "title": "INAIL: assicurazione sociale, prevenzione, salute e sicurezza",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "folder": "35-inail-assicurazione-prevenzione-prestazioni",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "36",
+      "module": "M-FC03",
+      "title": "Procedimenti EPNE e rapporto con cittadini e imprese",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "folder": "36-procedimenti-epne-cittadini-imprese",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "37",
+      "module": "M-FC03",
+      "title": "Bilancio, patrimonio e controlli negli EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "folder": "37-bilancio-patrimonio-controlli-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "38",
+      "module": "M-FC03",
+      "title": "Performance, PIAO e valore pubblico negli EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "folder": "38-performance-piao-valore-pubblico-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "39",
+      "module": "M-FC03",
+      "title": "Personale EPNE e CCNL Funzioni Centrali",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "folder": "39-personale-epne-ccnl-funzioni-centrali",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "40",
+      "module": "M-FC03",
+      "title": "Contratti, acquisti e forniture negli EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+      "folder": "40-contratti-acquisti-forniture-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "41",
+      "module": "M-FC03",
+      "title": "Bando Decoder EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "folder": "41-bando-decoder-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "42",
+      "module": "M-FC03",
+      "title": "Casi pratici EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+      "folder": "42-casi-pratici-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "43",
+      "module": "M-FC03",
+      "title": "Quesiti situazionali EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+      "folder": "43-quesiti-situazionali-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "44",
+      "module": "M-FC03",
+      "title": "Piano 30/60/90 per INPS, INAIL ed EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "folder": "44-piano-30-60-90-inps-inail-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "45",
+      "module": "M-FC03",
+      "title": "Vigilanza ispettiva INPS-INAIL",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "folder": "45-appendice-a-vigilanza-ispettiva-inps-inail",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "46",
+      "module": "M-FC03",
+      "title": "Glossario previdenza, assicurazione e prestazioni",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "folder": "46-appendice-b-glossario-previdenza-assicurazione-prestazioni",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "47",
+      "module": "M-FC03",
+      "title": "Schede rapide ACI, ENAC, ISTAT, ENEA, ASI, CONI e CRI",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "folder": "47-appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "48",
+      "module": "M-FC03",
+      "title": "Errori tipici nei bandi EPNE",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "folder": "48-appendice-d-errori-tipici-bandi-epne",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "49",
+      "module": "M-FC03",
+      "title": "Rinvii ragionati ad altri moduli",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "folder": "49-appendice-e-rinvii-ragionati-altri-moduli",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    },
+    {
+      "n": "50",
+      "module": "M-FC03",
+      "title": "Materie integrative INAIL/RIPAM",
+      "source": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "folder": "50-appendice-f-materie-integrative-inail-ripam",
+      "book_id": "m-fc03-enti-non-economici",
+      "status": "ready"
+    }
+  ]
+}

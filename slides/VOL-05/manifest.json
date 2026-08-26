@@ -1,0 +1,143 @@
+{
+  "volume": "VOL-05",
+  "volume_title": "Authority e regolazione",
+  "spec": "wiki/books/vol-05-authority-regolazione/planning/00-scheda-pipeline.md",
+  "order": "modulo unico M-FC05, capitoli 01–15",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "M-FC05",
+      "title": "Le authority viste dal candidato",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "folder": "01-authority-viste-dal-candidato",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "M-FC05",
+      "title": "Indipendenza, governance, accountability e personale",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "folder": "02-indipendenza-governance-accountability-personale",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "M-FC05",
+      "title": "Regolazione europea multilivello e reti delle autorità",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "folder": "03-regolazione-europea-multilivello-reti-autorita",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-FC05",
+      "title": "Ciclo regolatorio, consultazione, AIR e VIR",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "folder": "04-ciclo-regolatorio-consultazione-air-vir",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-FC05",
+      "title": "Vigilanza, istruttoria, ispezioni, dati e prova",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "folder": "05-vigilanza-istruttoria-ispezioni-dati-prova",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-FC05",
+      "title": "Sanzioni, impegni, rimedi e controllo giurisdizionale",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "folder": "06-sanzioni-impegni-rimedi-controllo-giurisdizionale",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-FC05",
+      "title": "Economia industriale, regolazione, econometria e contabilità regolatoria",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "folder": "07-economia-industriale-regolazione-econometria-contabilita",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-FC05",
+      "title": "AGCM: concorrenza, consumatore e pratiche scorrette",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "folder": "08-agcm-concorrenza-consumatore-pratiche-scorrette",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-FC05",
+      "title": "ARERA: energia, gas, acqua, rifiuti e tariffe",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "folder": "09-arera-energia-gas-acqua-rifiuti-tariffe",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-FC05",
+      "title": "AGCOM: comunicazioni, media, utenti e piattaforme",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "folder": "10-agcom-comunicazioni-media-utenti-piattaforme",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-FC05",
+      "title": "CONSOB: mercati, intermediari e tutela dell'investitore",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "folder": "11-consob-mercati-intermediari-tutela-investitore",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-FC05",
+      "title": "Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "folder": "12-banca-italia-ivass-vigilanza-prudenziale",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-FC05",
+      "title": "Garante privacy: poteri, procedimenti e cooperazione europea",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "folder": "13-garante-privacy-poteri-procedimenti-cooperazione",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "14",
+      "module": "M-FC05",
+      "title": "ANAC: prevenzione, vigilanza e whistleblowing",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "folder": "14-anac-prevenzione-vigilanza-whistleblowing",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    },
+    {
+      "n": "15",
+      "module": "M-FC05",
+      "title": "Laboratorio delle prove authority",
+      "source": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "folder": "15-laboratorio-prove-authority",
+      "book_id": "m-fc05-authority-indipendenti",
+      "status": "ready"
+    }
+  ]
+}

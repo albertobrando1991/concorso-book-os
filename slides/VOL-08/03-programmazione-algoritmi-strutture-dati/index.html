@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 03 — Programmazione, algoritmi e strutture dati</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-03" data-volume="VOL-08" data-chapter="03" data-chapter-title="Programmazione, algoritmi e strutture dati" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 03</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">Programmazione, algoritmi<br>e strutture dati</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">Conoscere una parola chiave non basta. Può essere necessario leggere un algoritmo, seguirne l’esecuzione, trovare un errore, scegliere una struttura o spiegare perché una soluzione rallenta al crescere dell’input.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">La sintassi cambia, il metodo no</h2>
+                    <p class="lead reveal d2">Il VOL-01 definisce programma, linguaggio, algoritmo, variabile, funzione, condizione e ciclo. Questo capitolo li sviluppa. Si parte dal problema, si rappresentano i dati, si ordinano i passi, si controllano i casi limite e si valuta il costo. Per questo si usa soprattutto lo pseudocodice.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è</h3>
+                            <p>Un problema computazionale descrive una relazione fra input e risultato atteso. Un’istanza è un caso concreto: «trovare una pratica dato un identificativo» è il problema; cercare «A-1042» è un’istanza.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>A che serve in prova</h3>
+                            <p>A trasformare un testo in input, vincoli e output; a tracciare lo stato; a motivare una struttura. Se il bando cita Java, Python o C#, va studiata anche quella sintassi. Lo pseudocodice non la sostituisce: separa la logica dalle regole del linguaggio.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">Un algoritmo è corretto se vale per tutti gli input ammessi, non per un esempio favorevole.</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">Deve inoltre terminare. I test trovano errori, ma non dimostrano da soli la correttezza su ogni input. Un’invariante semplice spiega perché il ragionamento resta valido durante le iterazioni.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni su questo capitolo</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th></th><th>Che cosa fai</th><th>Se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>B — Bando</td><td>Separa concetti, pseudocodice e linguaggi nominati.</td><td>Studi solo una sintassi o solo definizioni.</td></tr>
+                            <tr><td>A — Aree</td><td>Colloca controllo, funzioni, strutture, algoritmi, complessità.</td><td>Mischi query SQL o API in questo piano.</td></tr>
+                            <tr><td>N — Nuclei</td><td>Prepara micro-esempi e confronti, con precondizioni e casi limite.</td><td>Non sai eseguire i passi ad alta voce.</td></tr>
+                            <tr><td>D — Diario</td><td>Classifica l’errore: concetto, traccia, caso limite o costo.</td><td>Correggi il risultato senza la causa.</td></tr>
+                            <tr><td>O — Output</td><td>Quiz, orale o esercizio: riconoscimento, spiegazione, produzione.</td><td>Rileggi codice senza tracciarlo.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d3">
+                        <strong>Confine</strong>
+                        <p>Basi dati nel capitolo 4; ciclo di vita, test e API nel 6; algoritmi di machine learning nel 11. Qui conta la procedura, non il DBMS né il contratto di servizio.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · Specifica</p>
+                    <h2 class="h-display section-title reveal d1">Problema, algoritmo, programma</h2>
+                    <p class="lead reveal d2">L’algoritmo è una procedura finita e non ambigua che, ricevuto un input ammesso, produce l’output previsto. Il programma è l’implementazione in un linguaggio eseguibile in un ambiente. Prima dei passi: input e formato, output, vincoli, casi limite, criterio di correttezza.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Precondizione e postcondizione</h3>
+                            <p>La precondizione descrive ciò che deve essere vero prima; la postcondizione il risultato garantito al termine. Per una ricerca binaria, la precondizione essenziale è che la collezione sia ordinata secondo lo stesso criterio dei confronti.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Esempio</h3>
+                            <p>Contare le pratiche con stato DA_VERIFICARE. Input: collezione. Output: intero non negativo. Collezione vuota: zero. Stato non riconosciuto: va deciso se ignorarlo, segnalarlo o interrompere. Senza questa scelta il problema è incompleto.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Tracciamento</p>
+                    <h2 class="h-display section-title reveal d1">Lo pseudocodice si esegue, non si ammira</h2>
+                    <p class="lead reveal d2">Deve essere abbastanza preciso da permettere a un’altra persona di eseguire i passi. Convenzioni: freccia per l’assegnazione, uguale per il confronto, SE / ALTRIMENTI, PER OGNI e MENTRE, RESTITUISCI.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Iterazione</th><th>Stato letto</th><th>Conteggio</th></tr></thead>
+                        <tbody>
+                            <tr><td>iniziale</td><td>—</td><td>0</td></tr>
+                            <tr><td>1</td><td>COMPLETA</td><td>0</td></tr>
+                            <tr><td>2</td><td>DA_VERIFICARE</td><td>1</td></tr>
+                            <tr><td>3</td><td>DA_VERIFICARE</td><td>2</td></tr>
+                            <tr><td>4</td><td>ARCHIVIATA</td><td>2</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Errore classico sul ciclo</strong>
+                        <p>Dimenticare l’incremento dell’indice, oppure usare un limite che include una posizione inesistente. Il risultato è un ciclo infinito o un accesso fuori bound. La trace table fa emergere assegnazioni mancanti e condizioni invertite.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">05 · Controllo</p>
+                    <h2 class="h-display section-title reveal d1">Paradigma e flusso non coincidono</h2>
+                    <p class="lead reveal d2">Un paradigma è un modo di organizzare il calcolo. I linguaggi reali possono sostenerne più d’uno: un esempio non basta ad assegnare un linguaggio a una sola categoria.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Idea</th><th>Che cosa fa</th></tr></thead>
+                        <tbody>
+                            <tr><td>Imperativo / procedurale</td><td>Modifica uno stato con istruzioni, organizzate in procedure e funzioni.</td></tr>
+                            <tr><td>Orientato agli oggetti</td><td>Combina dati e comportamenti in oggetti di classi o tipi.</td></tr>
+                            <tr><td>Funzionale / dichiarativo</td><td>Privilegia composizione e controllo degli effetti, oppure descrive il risultato lasciando parte del procedimento al sistema.</td></tr>
+                            <tr><td>Sequenza, selezione, iterazione</td><td>Ordine, scelta su condizione, ripetizione. PER OGNI visita una collezione; MENTRE dipende da una condizione che deve progredire.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Micro-verifica</strong>
+                        <p>Contare le pratiche con importo negativo: un ciclo PER OGNI, una selezione sull’importo, un contatore. È una soluzione imperativa o procedurale. AND, OR e NOT combinano condizioni; negare una condizione composta è una fonte frequente di errore nei quiz.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">06 · Funzioni</p>
+                    <h2 class="h-display section-title reveal d1">Contratto, ambito, ricorsione</h2>
+                    <p class="lead reveal d2">Una funzione incapsula un calcolo e restituisce un valore. Una procedura, nel lessico didattico, esegue un’azione senza che il valore restituito sia lo scopo principale. I linguaggi usano terminologie diverse.</p>
+                    <div class="grid-3">
+                        <div class="card reveal d3">
+                            <h3>Parametro e argomento</h3>
+                            <p>Il parametro compare nella definizione; l’argomento è il valore fornito nella chiamata. Modificare una struttura ricevuta può produrre effetti visibili al chiamante.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Ambito</h3>
+                            <p>Una variabile locale appartiene al blocco che la dichiara. Una variabile condivisa amplia le dipendenze: lo stesso input esplicito può produrre risultati diversi se lo stato nascosto cambia.</p>
+                        </div>
+                        <div class="card reveal d5">
+                            <h3>Ricorsione</h3>
+                            <p>La funzione richiama sé stessa su un problema più piccolo. Serve un caso base raggiungibile. Non è automaticamente più efficiente di un ciclo: contano profondità, memoria e chiarezza.</p>
+                        </div>
+                    </div>
+                    <div class="warn reveal d6">
+                        <strong>Errore tipico</strong>
+                        <p>Descrivere una procedura come priva di effetti solo perché non restituisce un valore. Nell’orale va chiarito sia il risultato sia lo stato eventualmente modificato.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Strutture</p>
+                    <h2 class="h-display section-title reveal d1">Si sceglie dall’operazione, non dal nome</h2>
+                    <p class="lead reveal d2">Una struttura dati organizza valori e relazioni per rendere possibili determinate operazioni. Dire che «la lista è più veloce dell’array» non ha senso senza specificare operazione e rappresentazione.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Esigenza</th><th>Struttura candidata</th><th>Domanda da verificare</th></tr></thead>
+                        <tbody>
+                            <tr><td>Accesso per indice</td><td>Array</td><td>La dimensione cambia spesso? L’inserimento in mezzo sposta elementi.</td></tr>
+                            <tr><td>Ordine di arrivo</td><td>Coda (FIFO)</td><td>Esistono priorità diverse?</td></tr>
+                            <tr><td>Annullamento dell’ultima azione</td><td>Pila (LIFO)</td><td>Quante operazioni vanno conservate?</td></tr>
+                            <tr><td>Ricerca per identificativo</td><td>Mappa</td><td>Come sono gestite chiavi e collisioni?</td></tr>
+                            <tr><td>Valori unici</td><td>Insieme</td><td>Quale regola stabilisce l’uguaglianza?</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 19</span></div>
+            </section>
+
+            <section class="slide">
+                <div class="split-dark">
+                    <p class="kicker reveal">08 · Lineare</p>
+                    <h2 class="h-display reveal d1" style="font-size: 40px; margin: 20px 0 24px;">Array e lista non sono intercambiabili</h2>
+                    <p class="lead reveal d2">L’array offre accesso diretto per indice. In una lista concatenata raggiungere la posizione k richiede di attraversare i precedenti; inserimenti e cancellazioni possono essere convenienti quando il punto è già noto.</p>
+                </div>
+                <div class="split-light">
+                    <p class="kicker reveal d1">08 · Associativa</p>
+                    <h2 class="h-display reveal d2" style="font-size: 40px; margin: 20px 0 24px;">Duplicati e ordine sono proprietà separate</h2>
+                    <p class="lead reveal d3">Una lista può contenere duplicati e conservarli in sequenza. Un insieme elimina duplicati ma non garantisce un ordine. Una mappa richiede chiavi uniche; i valori possono ripetersi. Dichiara quali proprietà servono al problema.</p>
+                </div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">09 · Ricerca e ordinamento</p>
+                    <h2 class="h-display section-title reveal d1">La precondizione decide l’algoritmo</h2>
+                    <p class="lead reveal d2">La ricerca lineare esamina gli elementi uno dopo l’altro: nel caso peggiore visita tutti gli n, crescita O(n). La ricerca binaria confronta con l’elemento centrale e dimezza l’intervallo: O(log n). Senza ordinamento coerente il risultato è inaffidabile.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Insertion sort e merge sort</h3>
+                            <p>Insertion sort costruisce una parte ordinata inserendo ogni nuovo elemento: semplice, utile su collezioni piccole o quasi ordinate; nel caso peggiore O(n²). Merge sort divide, ordina e fonde: tipicamente O(n log n), con memoria aggiuntiva nella rappresentazione comune.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Stabilità e trappola</h3>
+                            <p>Un ordinamento è stabile se conserva l’ordine relativo degli elementi con la stessa chiave. Ordinare prima non rende sempre migliore la ricerca: se si interroga una sola volta, il costo dell’ordinamento può superare il risparmio.</p>
+                        </div>
+                    </div>
+                    <div class="note reveal d5">
+                        <strong>Alberi e grafi</strong>
+                        <p>Un albero è una gerarchia senza cicli nel modello radicato. Un grafo è fatto di vertici e archi e rappresenta relazioni più generali. Gli algoritmi avanzati sui grafi restano fuori perimetro: conta capire che la struttura influenza il procedimento.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">10 · Complessità</p>
+                    <h2 class="h-display section-title reveal d1">O grande misura la crescita, non i secondi</h2>
+                    <p class="lead reveal d2">La complessità temporale descrive come cresce il lavoro al crescere di n. Quella spaziale descrive la memoria aggiuntiva. La notazione O grande esprime un limite superiore asintotico: tralascia costanti e termini inferiori. Non misura il tempo su una macchina.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Crescita</th><th>Esempio intuitivo</th><th>Se n raddoppia</th></tr></thead>
+                        <tbody>
+                            <tr><td>O(1)</td><td>Accesso diretto a una posizione nota.</td><td>Il lavoro dominante resta costante.</td></tr>
+                            <tr><td>O(log n)</td><td>Ricerca binaria su dati ordinati.</td><td>Cresce di un passo circa.</td></tr>
+                            <tr><td>O(n)</td><td>Scansione completa.</td><td>Tende a raddoppiare.</td></tr>
+                            <tr><td>O(n log n)</td><td>Merge sort.</td><td>Cresce più del lineare, meno del quadratico.</td></tr>
+                            <tr><td>O(n²)</td><td>Doppio confronto fra molte coppie.</td><td>Tende a quadruplicare.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Errore tipico</strong>
+                        <p>Associare una complessità alla struttura senza operazione e rappresentazione. «La mappa è O(1)» è incompleto: alcune implementazioni hanno costo medio costante, altre logaritmico, e il caso peggiore può differire.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">Classificare le pratiche</h2>
+                    <p class="lead reveal d2">Un ufficio deve separare pratiche complete, incomplete e con stato non riconosciuto. Ogni pratica ha identificativo e stato. Una soluzione usa tre liste e un ciclo: visita ogni pratica una volta, tempo O(n); lo spazio delle tre liste è proporzionale al numero di pratiche.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Input</h3><p>Collezione di pratiche con stato.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Selezione</h3><p>COMPLETA, INCOMPLETA, oppure anomalia.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Tre liste</h3><p>Nessuno stato inatteso viene perso in silenzio.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Verifica</h3><p>Vuoto, un elemento, duplicati, stato ignoto.</p></div>
+                    </div>
+                    <div class="note reveal d4">
+                        <strong>Metodo sulla traccia</strong>
+                        <p>Definisci input e output, dichiara precondizioni, scegli struttura e algoritmo, tratta i casi limite, stima tempo e spazio, verifica con una trace table. Nel debug si riproduce il difetto con un input minimo, non si cambiano istruzioni a tentativi.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3>Come sceglie una struttura dati?</h3>
+                            <p>Parto dalle operazioni: accesso per posizione, ricerca per chiave, inserimento, cancellazione, ordine, FIFO o LIFO. Poi dimensione, frequenza, memoria e implementazione. Una struttura efficace per accessi indicizzati può non esserlo per inserimenti frequenti nel mezzo.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3>La ricerca binaria è sempre preferibile alla lineare?</h3>
+                            <p>No. Richiede dati ordinati e un accesso compatibile alla posizione centrale. Se la collezione non è ordinata e va cercata una sola volta, il costo dell’ordinamento può superare il beneficio. La lineare resta adatta a raccolte piccole o senza accesso diretto.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Mini-esercizio</p>
+                    <h2 class="h-display section-title reveal d1">Traccia e scegli</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Consegna</th><th>Esito da argomentare</th></tr></thead>
+                        <tbody>
+                            <tr><td>somma ← 0; PER OGNI x IN [3, 1, 4] somma ← somma + x</td><td>Valori successivi 3, 4, 8. Output finale 8.</td></tr>
+                            <tr><td>Servire richieste nell’ordine di arrivo</td><td>Coda FIFO. Una pila invertirebbe l’ordine; una coda di priorità seguirebbe un altro criterio.</td></tr>
+                            <tr><td>n raddoppia: quale crescita quadruplica il lavoro dominante?</td><td>O(n²), perché (2n)² = 4n² nel modello asintotico.</td></tr>
+                            <tr><td>Funzione ricorsiva</td><td>Richiede un caso base raggiungibile. Non è sempre più veloce di un ciclo.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d3">
+                        <strong>Mini-caso sull’ufficio</strong>
+                        <p>Evitare di elaborare due volte lo stesso identificativo, conservare l’ordine di arrivo e recuperare rapidamente lo stato. Una sola struttura può non bastare: coda per l’ordine, insieme per i duplicati, mappa per gli stati. Motiva anche il costo di mantenere più rappresentazioni coerenti.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. Prima la specifica: input, output, vincoli, casi limite. Poi i passi. Un algoritmo corretto termina e vale su tutti gli input ammessi.</p>
+                        <p class="lead reveal d3">2. Lo pseudocodice si traccia. Parametro e argomento, selezione e iterazione, ricorsione con caso base sono contratti eseguibili.</p>
+                        <p class="lead reveal d4">3. La struttura si sceglie dalle operazioni dominanti. Array, lista, pila, coda, mappa e insieme non sono etichette intercambiabili.</p>
+                        <p class="lead reveal d5">4. Ricerca binaria e ordinamento hanno precondizioni. Stabilità, memoria extra e stato iniziale dei dati pesano quanto O grande.</p>
+                        <p class="lead reveal d6">5. La complessità descrive la crescita, non i secondi. Dichiarare operazione, rappresentazione e caso (migliore, medio, peggiore) è parte della risposta.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Checklist</p>
+                    <h2 class="h-display section-title reveal d1">Riconosco, spiego, applico</h2>
+                    <p class="lead reveal d2">Una riga riconosciuta ma non spiegata non è pronta per l’orale. Per applicarla serve un esempio o un caso.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Competenza</th><th>Segnale di completezza</th></tr></thead>
+                        <tbody>
+                            <tr><td>Problema, algoritmo, programma</td><td>Sai separare relazione, procedura e implementazione.</td></tr>
+                            <tr><td>Trace table</td><td>Esegui i passi e confronti stato atteso e osservato.</td></tr>
+                            <tr><td>Flusso e funzioni</td><td>Scegli ciclo e selezione; dichiari parametri, effetti e caso base.</td></tr>
+                            <tr><td>Strutture</td><td>Motivi FIFO, LIFO, indice, chiave o unicità sul carico.</td></tr>
+                            <tr><td>Ricerca, ordinamento, O</td><td>Colleghi precondizione, crescita e memoria aggiuntiva.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">16 · Sequenza in prova</p>
+                    <h2 class="h-display section-title reveal d1">Dalla traccia alla risposta</h2>
+                    <div class="map reveal d2">
+                        <div class="node"><h3>Definire</h3><p>Input, output, precondizioni.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Scegliere</h3><p>Struttura e algoritmo sul carico.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Limitare</h3><p>Vuoto, duplicati, non valido.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Stimare</h3><p>Tempo e spazio asintotici.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Verificare</h3><p>Trace table o test minimo.</p></div>
+                    </div>
+                    <div class="note reveal d3">
+                        <strong>Due piani</strong>
+                        <p>La stima asintotica anticipa la crescita. La misurazione verifica un’implementazione su dati e ambiente dichiarati. Una risposta completa li tiene separati: l’etichetta O(n) non rende equivalenti due programmi lineari su input reali.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>18 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">Basi dati, SQL/NoSQL e qualità del dato</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">L’algoritmo visita una collezione. La base dati decide quali informazioni si possono registrare, quali errori vengono bloccati e con quale difficoltà si ottiene una risposta.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 04</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 19</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>

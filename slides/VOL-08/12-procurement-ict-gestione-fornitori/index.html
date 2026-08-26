@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 12 — Procurement ICT e gestione dei fornitori</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-12" data-volume="VOL-08" data-chapter="12" data-chapter-title="Procurement ICT e gestione dei fornitori" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 12</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">Procurement ICT e gestione dei fornitori</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">Anche un servizio aggiudicato correttamente può fallire durante l’esecuzione. Accade se il bisogno resta vago, i requisiti non sono verificabili o gli SLA misurano ciò che è facile contare invece di ciò che serve agli utenti. In altri casi l’ente scopre troppo tardi di non poter recuperare dati e configurazioni.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">Capitolato ICT ≠ appalto generale</h2>
+                    <p class="lead reveal d2">La competenza tecnica non sostituisce quella amministrativa. Entrambe traducono il fabbisogno in una prestazione, la precisano con requisiti e la verificano con evidenze. La disciplina generale dei contratti, le procedure, le soglie e gli appalti avanzati si approfondiscono in VOL-09. Qui resta il governo tecnico-organizzativo dell’acquisto ICT.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è</h3>
+                            <p>Un ciclo: risultato pubblico, baseline, perimetro, requisiti verificabili, SLA, esecuzione, sicurezza, modifiche, portabilità e uscita. Lo strumento di acquisto non decide che cosa sia necessario comprare.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>A che serve in prova</h3>
+                            <p>A distinguere requisito, criterio di accettazione, criterio di valutazione e SLA; a non confondere MEPA e Consip; a progettare l’exit all’ingresso, non alla scadenza.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">Acquistare non trasferisce all’esterno il governo del servizio.</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">La stipula non conclude il controllo dell’ente. Se nessuno sa verificare requisiti, dati, configurazioni e livelli di servizio, il fornitore finisce per controllare anche il significato delle misure con cui viene valutato.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni sull’acquisto ICT</h2>
+                    <p class="lead reveal d2">Procedure, soglie, penali e clausole dipendono dagli atti e dal quadro vigente. Questo capitolo non fissa valori universali: insegna a rendere la prestazione esaminabile.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th></th><th>Che cosa fai</th><th>Se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>B — Bisogno</td><td>Risultato pubblico, utenti, perimetro, baseline e vincoli.</td><td>Parti dalla piattaforma desiderata.</td></tr>
+                            <tr><td>A — Attori</td><td>RUP, direttore dell’esecuzione, owner, tecnici, sicurezza, DPO, fornitore.</td><td>Credi che la firma trasferisca il risultato pubblico.</td></tr>
+                            <tr><td>N — Nodi</td><td>Requisiti vaghi, misure ambigue, dipendenze, incidenti, lock-in.</td><td>Confondi SLA, KPI e brochure.</td></tr>
+                            <tr><td>D — Documenti</td><td>Capitolato, matrice requisiti, piano test, SLA, resoconto, exit plan.</td><td>Accetti la documentazione come se fosse la verifica.</td></tr>
+                            <tr><td>O — Output</td><td>Servizio accettato e controllato, con evidenze e possibilità reale di uscita.</td><td>Un elenco di file finali chiamato exit strategy.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · Fabbisogno</p>
+                    <h2 class="h-display section-title reveal d1">Risultato, baseline, perimetro</h2>
+                    <p class="lead reveal d2">«Acquistare una piattaforma cloud» indica già una soluzione. «Garantire ai cittadini l’accesso continuativo al servizio, riducendo tempi di indisponibilità e oneri di gestione» esplicita il risultato. Senza baseline non si dimostra se l’acquisto abbia migliorato il servizio.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Make, buy, reuse</h3>
+                            <p>Lo sviluppo interno aumenta controllo e chiede manutenzione. Un prodotto riduce il tempo iniziale ma può imporre interfacce e licenze. Il riuso è utile se l’ente può governarne evoluzione, sicurezza e integrazione. La scelta si motiva con obiettivo, vincoli, competenze, tempi, costo di gestione e possibilità di uscita, non con la popolarità del fornitore.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Costo totale</h3>
+                            <p>Il prezzo iniziale è una parte: contano migrazione, integrazioni, licenze, formazione, volumi, assistenza, modifiche, transizione e dismissione. Il risparmio può svanire se esportare dati e configurazioni costa troppo. Convenzioni, MEPA e mercati elettronici orientano il canale, non trasformano un fabbisogno vago in una buona prestazione.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Capitolato</p>
+                    <h2 class="h-display section-title reveal d1">Quattro elementi da non fondere</h2>
+                    <p class="lead reveal d2">Un requisito funzionale descrive ciò che il sistema deve fare; uno non funzionale riguarda qualità o vincoli: disponibilità, sicurezza, accessibilità, interoperabilità, portabilità. «Il sistema deve essere veloce» non è verificabile. Il collaudo riguarda i lavori; per servizi e forniture ICT si parla di verifica di conformità.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Elemento</th><th>Domanda</th><th>Se lo scambi</th></tr></thead>
+                        <tbody>
+                            <tr><td>Requisito</td><td>Che cosa deve fare o garantire la soluzione?</td><td>Descrivere una marca senza bisogno.</td></tr>
+                            <tr><td>Criterio di accettazione</td><td>Come dimostriamo che è soddisfatto?</td><td>Confondere la documentazione consegnata con l’accettazione.</td></tr>
+                            <tr><td>Criterio di valutazione</td><td>Come confrontiamo le offerte secondo gli atti?</td><td>Usarlo come se fosse un obbligo di esecuzione.</td></tr>
+                            <tr><td>SLA</td><td>Quale livello va mantenuto durante il servizio?</td><td>Pretendere in verifica una qualità mai descritta.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Matrice requisito-test-evidenza</strong>
+                        <p>Per ciascun requisito critico: identificativo, test, ambiente, dati di prova, responsabile, evidenza, esito. Se la migrazione produce un file che il sistema destinatario non legge, l’evidenza non dimostra ancora portabilità.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">05 · Misura</p>
+                    <h2 class="h-display section-title reveal d1">SLA, SLI e KPI non coincidono</h2>
+                    <p class="lead reveal d2">Lo SLA è l’impegno contrattuale. Lo SLI è l’indicatore osservato. La soglia indica il livello atteso. Un cruscotto con il numero di ticket aperti non è automaticamente uno SLA: può essere un KPI di governo. Una penale o un service credit non ripara da solo il servizio.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Campo della scheda</th><th>Perché serve</th></tr></thead>
+                        <tbody>
+                            <tr><td>Servizio, popolazione, formula, soglia</td><td>Senza perimetro la percentuale è equivoca.</td></tr>
+                            <tr><td>Finestra, periodo, fonte, punto di misura</td><td>La stessa disponibilità cambia se include o no le integrazioni.</td></tr>
+                            <tr><td>Esclusioni e severità</td><td>Si definiscono prima dell’incidente, non dopo.</td></tr>
+                            <tr><td>Rendicontazione, escalation, responsabile della verifica</td><td>Un dato del fornitore è fragile se l’ente non può ricostruirlo.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Tempi diversi</strong>
+                        <p>Presa in carico: il fornitore inizia a gestire. Ripristino: ritorno a una condizione operativa. Risoluzione: rimozione della causa. Un workaround può ripristinare senza chiudere il problema. Disponibilità 99,9% da sola non basta: mancano perimetro, finestra, fonte, periodo ed esclusioni.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">06 · Esecuzione</p>
+                    <h2 class="h-display section-title reveal d1">Ruoli, resoconto, non conformità</h2>
+                    <p class="lead reveal d2">Il RUP presidia il progetto secondo la disciplina applicabile. Il direttore dell’esecuzione, quando previsto, controlla l’esecuzione. L’owner presidia risultato e utenti. Una matrice RACI è uno strumento organizzativo: non modifica competenze di legge o di atto.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Resoconto utile</h3>
+                            <p>Confronta risultato atteso e osservato: livelli, scostamenti, incidenti, modifiche, rischi, azioni, responsabili e scadenze. Ticket «risolto» senza prova, resoconto firmato senza fonte e riunione senza decisioni lasciano il rischio invariato. Il kick-off traduce il contratto in canali, calendari, ambienti e escalation.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Non conformità</h3>
+                            <p>Scostamento rispetto a requisito, deliverable o obbligo verificabile. Serve evidenza, impatto, causa, azione, termine, responsabile e criterio di chiusura. L’escalation può essere tecnica, gestionale o contrattuale: saltare subito al vertice crea rumore; restare nel supporto quando il servizio è critico ritarda.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Sicurezza contrattuale</p>
+                    <h2 class="h-display section-title reveal d1">«Garantisce la sicurezza» non è una prestazione</h2>
+                    <p class="lead reveal d2">I requisiti possono riguardare accessi privilegiati, segregazione, logging, patching, vulnerabilità, cifratura, incidenti, backup, test di ripristino e conservazione delle evidenze. Ogni controllo deve essere proporzionato al rischio e verificabile. Lo SLA interno non sostituisce eventuali termini legali.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Oggetto</th><th>Che cosa chiedere</th><th>Errore</th></tr></thead>
+                        <tbody>
+                            <tr><td>Dati</td><td>Categorie, dove transitano, chi accede, restituzione o cancellazione, prova di export.</td><td>Rinviare tutto a una clausola generica.</td></tr>
+                            <tr><td>Subfornitori</td><td>Quale parte del servizio, quali dati, quali controlli, come si gestisce una variazione.</td><td>Lasciarli invisibili.</td></tr>
+                            <tr><td>Supply chain</td><td>Componenti, provenienza, vulnerabilità, supporto, eventuale SBOM se pertinente.</td><td>Trasformare l’ente nel gestore di ogni libreria, o ignorare le dipendenze.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Nota</strong>
+                        <p>Il capitolo 8 sviluppa la teoria di rischio e filiera; qui quegli elementi diventano requisiti, resoconto o condizioni di gestione. Ruoli privacy e trasferimenti si esaminano nel caso con le figure competenti.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">08 · Modifiche</p>
+                    <h2 class="h-display section-title reveal d1">Cutover, rollback, continuità</h2>
+                    <p class="lead reveal d2">Correzione di un difetto, manutenzione ordinaria, evoluzione funzionale, variazione di perimetro e modifica contrattuale non sono sinonimi. Backup, replica, alta disponibilità e disaster recovery rispondono a scopi diversi. Un piano non testato non dimostra capacità di ripristino.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Change</h3><p>Motivo, impatto, dipendenze, rischio, test, approvazione, versione.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Cutover</h3><p>Passaggio operativo con prerequisiti, go/no-go e comunicazioni.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Rollback</h3><p>Ritorno a una condizione precedente controllata se i criteri falliscono.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Prova</h3><p>RPO e RTO, spiegati nel capitolo 7, diventano requisiti da esercitare.</p></div>
+                    </div>
+                    <div class="warn reveal d4">
+                        <strong>Trappola</strong>
+                        <p>Il backup non è disaster recovery. Il cloud non trasferisce ogni responsabilità al provider. Una nuova versione il giorno prima del rilascio richiede impatto, test, approvazione, piano di cutover, criteri di go/no-go e rollback. L’obsolescenza e l’end of support appartengono al monitoraggio.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>10 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">09 · Uscita</p>
+                    <h2 class="h-display section-title reveal d1">Lock-in, portabilità, reversibilità</h2>
+                    <p class="lead reveal d2">Il lock-in non riguarda soltanto la tecnologia: formati, licenze, costi di estrazione, processi costruiti sul fornitore, documentazione incompleta, competenze solo esterne, dati o log non esportabili. Preparare l’exit plan soltanto alla scadenza è tardivo.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Concetto</th><th>Che cosa consente</th><th>Che cosa non basta</th></tr></thead>
+                        <tbody>
+                            <tr><td>Portabilità</td><td>Trasferire dati, applicazioni o carichi in un altro ambiente.</td><td>Un file senza schema, metadati e riuso nel destinatario.</td></tr>
+                            <tr><td>Reversibilità</td><td>Ritorno o passaggio controllato, con conoscenze, configurazioni e assistenza.</td><td>Dichiarare che i dati sono stati consegnati.</td></tr>
+                            <tr><td>Exit plan</td><td>Trigger, ruoli, inventario, formati, subentro, continuità, restituzione/cancellazione, chiusura.</td><td>Un elenco di file finali chiamato strategia.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Prova di uscita</strong>
+                        <p>Non richiede di migrare tutto. Un campione rappresentativo: export, schema, completezza, ricostruzione di una configurazione, dipendenze non trasferite. Se il test fallisce, requisito, documentazione o supporto al subentro sono insufficienti.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">10 · Strumenti</p>
+                    <h2 class="h-display section-title reveal d1">MEPA non è Consip</h2>
+                    <p class="lead reveal d2">Consip opera nel programma di razionalizzazione degli acquisti. Acquisti in Rete è il canale; il MEPA è uno degli strumenti. Convenzioni, accordi quadro e sistemi dinamici hanno logiche diverse. Nessuno elimina la necessità di definire fabbisogno, requisiti, copertura e controlli.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Ciclo digitale</h3>
+                            <p>La BDNCP è la banca dati nazionale gestita da ANAC. PCP e FVOE svolgono funzioni specifiche nell’ecosistema: non sono sinonimi. Dettagli operativi, procedure e soglie si verificano sulle fonti vigenti e restano nella sede contrattuale generale, cioè VOL-09.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Cosa resta qui</h3>
+                            <p>Descrivere l’oggetto, i vincoli e le evidenze; poi collocare la scelta nello strumento che gli atti consentono. Banca dati e piattaforme rendono tracciabile il ciclo, non decidono al posto dell’amministrazione che cosa acquistare.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">Servizio cloud comunale</h2>
+                    <p class="lead reveal d2">Un comune acquisisce migrazione, hosting, manutenzione e assistenza per un portale al cittadino. Il caso non determina procedura, soglia o penale: dipendono dagli atti.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Passaggio</th><th>Decisione</th></tr></thead>
+                        <tbody>
+                            <tr><td>Bisogno e perimetro</td><td>Accesso e continuità; baseline di utenti, carichi e incidenti; migrazione, ambienti, integrazioni, supporto, sicurezza, documentazione, uscita.</td></tr>
+                            <tr><td>Requisiti e accettazione</td><td>Funzioni più disponibilità, accessibilità, logging e portabilità; test con verbale.</td></tr>
+                            <tr><td>SLA e sicurezza</td><td>Indicatori distinti per disponibilità, presa in carico e ripristino; account privilegiati, log, vulnerabilità, incidenti, subfornitori.</td></tr>
+                            <tr><td>Esecuzione e change</td><td>Resoconto, registro rischi, non conformità; ogni rilascio ha impatto, test, go/no-go e rollback.</td></tr>
+                            <tr><td>Continuità e uscita</td><td>Backup e ripristino provati; RPO/RTO coerenti; export, documentazione, subentro, verifica di cancellazione.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3 style="margin-top:16px;">Come imposteresti un contratto cloud per i cittadini?</h3>
+                            <p>Partirei dal risultato pubblico, dalla baseline e dal perimetro. Tradurrei il bisogno in requisiti con criteri di accettazione. Definirei SLA con fonte, finestra, soglia ed esclusioni. Assegnerei ruoli. Governerei resoconto, non conformità, incidenti, modifiche, continuità e supply chain. Predisporrei portabilità ed exit plan. Procedura e clausole puntuali sugli atti vigenti.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3 style="margin-top:16px;">«Il portale deve essere sicuro» basta per accettare?</h3>
+                            <p>No. Occorrono requisiti osservabili, condizioni di prova, criterio di accettazione ed evidenza. Un’affermazione generica non permette di stabilire né il risultato né la chiusura di un’anomalia. Un requisito dettagliato, se manca condizione e prova, può restare altrettanto inverificabile.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Distinzioni</p>
+                    <h2 class="h-display section-title reveal d1">Quiz e trappole da tenere fermi</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Domanda</th><th>Risposta</th></tr></thead>
+                        <tbody>
+                            <tr><td>Primo passo se l’ufficio chiede «un nuovo cloud»?</td><td>Baseline, risultato pubblico, perimetro e vincoli, prima della soluzione.</td></tr>
+                            <tr><td>Il numero di ticket è uno SLA?</td><td>No: può essere un KPI. Allo SLA servono impegno, metrica, soglia, finestra, fonte, esclusioni.</td></tr>
+                            <tr><td>L’ente può limitarsi alla misura mensile del fornitore?</td><td>No: deve comprendere perimetro e fonte, registrare scostamenti e verificare le azioni.</td></tr>
+                            <tr><td>Un archivio dati alla scadenza dimostra l’exit?</td><td>Non ancora: completezza, struttura, metadati, configurazioni, supporto e riuso.</td></tr>
+                            <tr><td>MEPA è Consip? SLA e KPI sono sinonimi?</td><td>No e no. MEPA è uno strumento; Consip è il soggetto del programma.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Checklist</p>
+                    <h2 class="h-display section-title reveal d1">Il capitolato regge se…</h2>
+                    <p class="lead reveal d2">Se un paragrafo non entra nella catena requisito–scelta–rischio–controllo–evidenza, è ancora un’affermazione astratta. «Il portale deve essere intuitivo» va tradotto in compiti, profili, criteri di completamento e test appropriati.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Blocco</th><th>Controllo</th></tr></thead>
+                        <tbody>
+                            <tr><td>Bisogno</td><td>Baseline, utenti e perimetro sono chiari.</td></tr>
+                            <tr><td>Requisiti</td><td>Funzionali e non funzionali verificabili, con accettazione ed evidenza.</td></tr>
+                            <tr><td>SLA</td><td>Misura, soglia, finestra, fonte, esclusioni, rendicontazione.</td></tr>
+                            <tr><td>Governo</td><td>Ruoli, non conformità, escalation, sicurezza, subfornitori.</td></tr>
+                            <tr><td>Uscita</td><td>Change, cutover, rollback, portabilità ed exit plan provabili.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. Il capitolato ICT traduce un fabbisogno in prestazione verificabile; non sostituisce la disciplina generale dei contratti, che si approfondisce in VOL-09.</p>
+                        <p class="lead reveal d3">2. Requisito, accettazione, criterio di valutazione e SLA non sono sinonimi; un livello di servizio vale solo se misura, finestra, fonte ed esclusioni sono chiare.</p>
+                        <p class="lead reveal d4">3. Acquistare non trasferisce all’esterno il governo del servizio: resoconto, non conformità ed evidenze restano dell’ente.</p>
+                        <p class="lead reveal d5">4. «Garantisce la sicurezza» non è una prestazione; backup non è disaster recovery; una penale non chiude il disservizio.</p>
+                        <p class="lead reveal d6">5. Portabilità ed uscita si progettano prima della stipula e si verificano durante l’esecuzione; MEPA non è Consip.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">Laboratorio prove ICT</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">I nuclei tecnici sono sul tavolo. Resta da trasformarli in output di prova: quiz, scritto, orale e caso, sotto i vincoli del bando.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 13</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 18</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>

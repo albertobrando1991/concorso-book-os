@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 08 — Cybersecurity operativa: rischio, controlli e vulnerabilità</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-08" data-volume="VOL-08" data-chapter="08" data-chapter-title="Cybersecurity operativa: rischio, controlli e vulnerabilità" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 08</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">Cybersecurity operativa:<br>rischio, controlli e vulnerabilità</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">Una vulnerabilità critica non coincide automaticamente con il rischio più urgente per un ente. La priorità dipende dal servizio, dall’esposizione, dalla possibilità di sfruttamento, dagli impatti e dai controlli già presenti. La cybersecurity operativa traduce queste informazioni in decisioni motivate.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">Il punteggio non è il rischio</h2>
+                    <p class="lead reveal d2">Il VOL-01 introduce password, MFA, phishing, malware, firewall e backup. Qui quei prerequisiti diventano un ragionamento: si parte dagli asset, si collegano minacce e vulnerabilità a scenari, si valuta il rischio e si scelgono i controlli. Continuità e backup restano nel capitolo 7; identità, chiavi, log e incidente nel 9; i fornitori nel 12.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è</h3>
+                            <p>Un metodo per proteggere un servizio pubblico: inventario, scenario, probabilità, impatto, trattamento ed evidenza. Non è un elenco di prodotti. Non è neppure un punteggio tecnico isolato.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>A che serve in prova</h3>
+                            <p>A distinguere vulnerabilità, minaccia, evento, impatto e rischio; a non confondere inerente e residuo; a spiegare perché una patch con gravità alta può non essere la prima priorità.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">Il rischio nasce da uno scenario, non da un punteggio isolato.</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">Minaccia, vulnerabilità, evento e impatto restano concetti distinti. I controlli riducono probabilità o conseguenze e devono produrre evidenze. Senza scenario e scale dichiarate, «rischio alto» è una formula vuota.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni su questo capitolo</h2>
+                    <p class="lead reveal d2">In prova conviene un ordine stabile: contesto, asset, scenario, rischio, trattamento, evidenza e riesame. Lo strumento scelto è secondario rispetto alla coerenza del ragionamento.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th></th><th>Che cosa fai</th><th>Se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>B — Bando</td><td>Cerca rischio cyber, controlli, vulnerability management, threat modeling, secure coding, supply chain.</td><td>Studi un catalogo di attacchi.</td></tr>
+                            <tr><td>A — Aree</td><td>Colleghi servizio, asset, esposizione, dati e continuità.</td><td>Tratti la sicurezza come un tema isolato.</td></tr>
+                            <tr><td>N — Nuclei</td><td>Asset e CIA; scenario; inerente/residuo; controlli; CVE/CWE/CVSS; filiera.</td><td>Confondi vulnerabilità e rischio, o CVE e CWE.</td></tr>
+                            <tr><td>D — Diario</td><td>Segna «rischio alto» senza scenario, CVSS come priorità automatica, SBOM come certificato.</td><td>Ripeti le tre trappole all’orale.</td></tr>
+                            <tr><td>O — Output</td><td>Risk matrix, registro, piano di trattamento, modello di minaccia, verifica di filiera.</td><td>Elenco di sigle senza decisione.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · Proprietà e asset</p>
+                    <h2 class="h-display section-title reveal d1">La triade non è intercambiabile</h2>
+                    <p class="lead reveal d2">La classificazione non parte dalla tecnologia, ma dal servizio che l’ente deve rendere. Un archivio tecnicamente ordinario può essere essenziale se blocca una graduatoria, un pagamento o una pratica con scadenza.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Proprietà</th><th>Che cos’è</th><th>Errore se la isoli</th></tr></thead>
+                        <tbody>
+                            <tr><td>Riservatezza</td><td>Informazioni accessibili soltanto ai soggetti autorizzati.</td><td>La cifratura non garantisce da sola disponibilità o correttezza del processo.</td></tr>
+                            <tr><td>Integrità</td><td>Dati e sistemi non alterati in modo improprio; modifiche rilevabili.</td><td>Un servizio disponibile con dati corrotti resta un danno.</td></tr>
+                            <tr><td>Disponibilità</td><td>Informazioni e servizi accessibili quando servono.</td><td>Proteggere il server non basta se manca identità o connettività.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Nota</strong>
+                        <p>Si aggiungono, secondo il contesto, autenticità, tracciabilità, accountability e non ripudio. Il responsabile dell’asset non coincide sempre con chi amministra il server: il primo chiarisce valore e priorità; il secondo gestisce configurazione o controllo.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Valore</p>
+                    <h2 class="h-display section-title reveal d1">Priorità legata al servizio</h2>
+                    <p class="lead reveal d2">Un asset è qualcosa che ha valore e richiede protezione: informativo, tecnologico, umano, fisico, organizzativo o di servizio. L’inventario registra responsabile, collocazione, dipendenze, criticità e ciclo di vita. Classificare tutto come critico rende la priorità inutile.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Due archivi, due effetti</h3>
+                            <p>I manuali pubblici e il registro che abilita un pagamento dovuto richiedono entrambi protezione. Nel secondo la disponibilità può essere decisiva in una data precisa; nel primo può prevalere l’integrità delle versioni pubblicate.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Dipendenze</h3>
+                            <p>La sicurezza è proprietà del servizio, non del singolo apparato. Se il portale dipende dall’identità digitale e dal deposito dei documenti, un database integro non salva la prestazione. Valore non è solo costo di sostituzione: comprende obblighi, continuità e fiducia.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">05 · Linguaggio</p>
+                    <h2 class="h-display section-title reveal d1">Rischio ≠ vulnerabilità ≠ incidente</h2>
+                    <p class="lead reveal d2">Non tutte le minacce hanno un attore ostile: esistono errori, guasti ed eventi ambientali. Confondere il punteggio tecnico di una debolezza con il rischio dell’ente produce una priorità priva di contesto.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Termine</th><th>Definizione operativa</th><th>Esempio sul portale</th></tr></thead>
+                        <tbody>
+                            <tr><td>Minaccia</td><td>Circostanza o causa potenziale di un evento dannoso.</td><td>Un attore remoto può inviare una richiesta costruita.</td></tr>
+                            <tr><td>Vulnerabilità</td><td>Debolezza nel codice, nella configurazione, nel processo, nelle persone o nell’architettura.</td><td>Il portale usa un componente non aggiornato.</td></tr>
+                            <tr><td>Evento</td><td>Ciò che accade.</td><td>Il componente esegue un’operazione non prevista.</td></tr>
+                            <tr><td>Impatto</td><td>Conseguenza per l’organizzazione.</td><td>Pratiche e servizio diventano indisponibili o accessibili a chi non deve.</td></tr>
+                            <tr><td>Rischio</td><td>Combinazione di incertezza, probabilità e conseguenze rispetto agli obiettivi.</td><td>Lo scenario sul servizio esposto, non il solo nome della libreria.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Attenzione</strong>
+                        <p>L’exploit è il mezzo che sfrutta una vulnerabilità; il vettore è il percorso verso il bersaglio. L’incidente è l’evento gestito: appartiene al capitolo 9. Una vulnerabilità non è già un incidente.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">06 · Scenario</p>
+                    <h2 class="h-display section-title reveal d1">Cinque elementi, non una formula</h2>
+                    <p class="lead reveal d2">«Rischio ransomware alto» è troppo generico. Uno scenario indica asset e obiettivo compromesso, fonte o attore, vulnerabilità e condizioni, evento temuto e conseguenze. La medesima debolezza su un componente isolato o su uno esposto a Internet produce priorità diverse.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Superficie di attacco</h3>
+                            <p>Punti attraverso i quali un sistema può essere raggiunto: interfacce, API, account, dipendenze, dispositivi, persone e processi. Ridurla significa dismettere funzioni inutili, limitare privilegi, separare ambienti e rendere tracciabile una modifica.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Come si usa in prova</h3>
+                            <p>Non descrivere tecniche offensive. Spiega perché quella combinazione può compromettere una proprietà del servizio. Indica quale attore può raggiungere quale funzione, quale debolezza rende possibile l’evento e quale controllo limita il danno.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Valutazione</p>
+                    <h2 class="h-display section-title reveal d1">Inerente, residuo, trattamento</h2>
+                    <p class="lead reveal d2">La probabilità stima quanto sia plausibile lo scenario. L’impatto considera servizi, dati, persone, finanze, conformità e fiducia. Le scale (basso, medio, alto) vanno dichiarate prima del risultato, non a posteriori per giustificare una scelta.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Concetto</th><th>Che cosa misura</th><th>Errore tipico</th></tr></thead>
+                        <tbody>
+                            <tr><td>Rischio inerente</td><td>Livello prima di considerare i controlli pertinenti.</td><td>Saltarlo e «vedere già il residuo».</td></tr>
+                            <tr><td>Rischio residuo</td><td>Livello dopo controlli presenti e funzionanti.</td><td>Dichiararlo basso senza evidenza.</td></tr>
+                            <tr><td>Evitare</td><td>Cessare l’attività che genera il rischio.</td><td>Confonderlo con ignorare.</td></tr>
+                            <tr><td>Ridurre</td><td>Intervenire su probabilità o impatto, con azione, responsabile, data ed evidenza.</td><td>Scrivere «applicare un controllo» senza chiusura.</td></tr>
+                            <tr><td>Trasferire</td><td>Allocare parte delle conseguenze a un altro soggetto.</td><td>Credere che sparisca la responsabilità dell’ente.</td></tr>
+                            <tr><td>Accettare</td><td>Assumere il residuo entro autorità, durata e riesame.</td><td>Equivalerlo a non trattare.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">08 · Controlli</p>
+                    <h2 class="h-display section-title reveal d1">Natura, funzione, profondità</h2>
+                    <p class="lead reveal d2">Un controllo è adeguato quando risponde allo scenario e quando l’efficacia può essere verificata. La scelta non parte da un catalogo: si parte dalla condizione da modificare. Un controllo soltanto previsto non riduce il rischio.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Classificare per funzione</h3>
+                            <p>Preventivi riducono la probabilità; detective individuano eventi; correttivi rimuovono una condizione; di recupero ripristinano capacità; deterrenti scoraggiano; compensativi offrono una protezione alternativa, con durata definita. Formazione è organizzativa; segmentazione è tecnica; accesso ai locali è fisico.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Difesa in profondità</h3>
+                            <p>Il fallimento di un controllo non deve esporre direttamente l’asset. Due strumenti che dipendono dalla stessa identità amministrativa possono fallire insieme. Zero Trust, quando applicato, evita fiducia implicita per sola posizione di rete: verifica esplicita, minimo privilegio, contesto. Non è un prodotto.</p>
+                        </div>
+                    </div>
+                    <div class="note reveal d4">
+                        <strong>NIST CSF 2.0</strong>
+                        <p>Organizza outcome in Govern, Identify, Protect, Detect, Respond, Recover. Funzioni concorrenti, non fasi rigide. È un riferimento tecnico utile, non un obbligo generale della PA italiana e non sostituisce l’assessment.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>10 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">09 · Sequenza</p>
+                    <h2 class="h-display section-title reveal d1">Dal contesto al riesame</h2>
+                    <p class="lead reveal d2">Il registro conserva identificativo, asset, scenario, inerente, controlli, trattamento, responsabile, scadenza, evidenza, residuo e criterio di riesame. La matrice ordina; il registro spiega perché un livello è stato attribuito.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Contesto</h3><p>Scopo, metodo, scale e confini dichiarati prima del risultato.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Asset</h3><p>Servizio, dipendenze, proprietario e proprietà CIA esposta.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Scenario</h3><p>Minaccia, vulnerabilità, percorso, evento e impatto.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Trattamento</h3><p>Azione, evidenza, residuo e data di riesame.</p></div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">10 · Vulnerabilità</p>
+                    <h2 class="h-display section-title reveal d1">CVE identifica, CVSS comunica</h2>
+                    <p class="lead reveal d2">Il threat modeling anticipa domande di sicurezza: sistema, flussi, confini di fiducia, scenari, mitigazioni. STRIDE (spoofing, tampering, repudiation, information disclosure, denial of service, elevation of privilege) è una tassonomia possibile, non un elenco scollegato dal sistema.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Strumento</th><th>Che cosa fa</th><th>Che cosa non fa</th></tr></thead>
+                        <tbody>
+                            <tr><td>CVE</td><td>Identifica una vulnerabilità pubblicamente nota.</td><td>Non classifica la famiglia di debolezza.</td></tr>
+                            <tr><td>CWE</td><td>Descrive una classe di debolezze.</td><td>Non identifica un caso specifico.</td></tr>
+                            <tr><td>CVSS</td><td>Comunica caratteristiche e gravità con punteggio e vettore.</td><td>Non decide da solo la priorità dell’ente.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Trappola</strong>
+                        <p>Il CVSS più alto non è sempre la prima priorità. Contano sfruttabilità, esposizione, criticità del servizio, dati, controlli compensativi e rischio della correzione. Un falso positivo trattato come incidente genera lavoro inutile; una segnalazione ignorata senza motivazione nasconde il residuo.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Sviluppo</p>
+                    <h2 class="h-display section-title reveal d1">Sicurezza prima del rilascio</h2>
+                    <p class="lead reveal d2">Security by design considera minacce in progettazione; security by default fornisce configurazioni iniziali prudenti. Una scansione finale non corregge una scelta architetturale insicura. La validazione client non sostituisce quella lato server.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Tecnica</th><th>Osserva</th><th>Limite</th></tr></thead>
+                        <tbody>
+                            <tr><td>Code review</td><td>Logica e modifiche.</td><td>Non esegue l’applicazione.</td></tr>
+                            <tr><td>SAST</td><td>Codice o rappresentazioni, senza esecuzione.</td><td>Non vede il comportamento runtime.</td></tr>
+                            <tr><td>DAST</td><td>Applicazione in esecuzione.</td><td>Non sostituisce l’analisi del codice.</td></tr>
+                            <tr><td>SCA</td><td>Componenti e dipendenze.</td><td>Non prova che il prodotto sia sicuro.</td></tr>
+                            <tr><td>SBOM</td><td>Record formale di componenti e relazioni.</td><td>Non certifica aggiornamento né assenza di componenti non dichiarati.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>OWASP Top 10</strong>
+                        <p>Documento di awareness sui rischi delle applicazioni web. Non certifica la sicurezza e non sostituisce requisiti, threat modeling o test basati sul contesto. I requisiti contrattuali di filiera restano nel capitolo 12.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">Portale per le domande</h2>
+                    <p class="lead reveal d2">Un ente gestisce un portale per contributi. L’applicazione usa una libreria con una vulnerabilità pubblica; il servizio è esposto e tratta documenti personali. Un attore remoto sfrutta la libreria tramite il caricamento e accede a documenti non autorizzati.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Passaggio</th><th>Decisione</th></tr></thead>
+                        <tbody>
+                            <tr><td>Asset</td><td>Documenti, profili, applicazione e continuità del procedimento.</td></tr>
+                            <tr><td>Inerente</td><td>Probabilità alta per esposizione e applicabilità; impatto alto per riservatezza e servizio. Nella matrice 3×3 il rischio è alto.</td></tr>
+                            <tr><td>Controlli esistenti</td><td>Segmentazione, privilegi limitati e monitoraggio riducono la propagazione, ma non eliminano la debolezza.</td></tr>
+                            <tr><td>Trattamento</td><td>Patch dopo test; nel frattempo si limita la funzione, si rafforzano le regole e si monitora. Scadenza ed evidenze.</td></tr>
+                            <tr><td>Residuo</td><td>Rivalutato dopo verifica di versione e test. Il livello non scende automaticamente.</td></tr>
+                            <tr><td>Filiera</td><td>La SBOM individua altri servizi con la stessa libreria; si aggiornano requisiti e pipeline.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3 style="margin-top:16px;">Come imposteresti un risk assessment cyber?</h3>
+                            <p>Definirei scopo, metodo e criteri; identificherei asset e dipendenze; costruirei scenari con minacce, vulnerabilità, eventi e impatti; stimerei l’inerente; valuterei i controlli; sceglierei il trattamento con responsabile, scadenza ed evidenza; stimerei il residuo e fisserei il riesame.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3 style="margin-top:16px;">La vulnerabilità con CVSS più alto va sempre corretta per prima?</h3>
+                            <p>No. CVSS comunica la gravità tecnica. La priorità dipende anche da esposizione, sfruttabilità, criticità dell’asset, impatto, controlli e rischio della modifica. Il punteggio è un input, non la decisione.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Distinzioni</p>
+                    <h2 class="h-display section-title reveal d1">Cinque quiz da tenere fermi</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Domanda</th><th>Risposta</th><th>Perché</th></tr></thead>
+                        <tbody>
+                            <tr><td>Credenziali predefinite note?</td><td>Vulnerabilità</td><td>È una debolezza sfruttabile, non ancora un attore o un impatto.</td></tr>
+                            <tr><td>Rischio dopo i controlli?</td><td>Residuo</td><td>L’inerente è prima dei controlli; il CVE non è un livello di rischio.</td></tr>
+                            <tr><td>Identificatore di una vulnerabilità specifica?</td><td>CVE</td><td>CWE classifica la debolezza; CVSS ne comunica la gravità.</td></tr>
+                            <tr><td>Tecnica su applicazione in esecuzione?</td><td>DAST</td><td>SAST è statica; SBOM è inventario; il registro è di rischio.</td></tr>
+                            <tr><td>Che cosa è una SBOM?</td><td>Inventario di componenti e relazioni</td><td>Non certifica il software e non sostituisce i test.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d3">
+                        <strong>Errore tipico</strong>
+                        <p>Assegnare un «rischio alto» senza descrivere scenario e scale. Una valutazione verificabile esplicita asset, minaccia, vulnerabilità, impatto, probabilità, controlli e assunzioni.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Laboratorio</p>
+                    <h2 class="h-display section-title reveal d1">Una riga di risk matrix</h2>
+                    <p class="lead reveal d2">Compila mentalmente i campi prima di parlare di prodotti. Se un campo resta vuoto, la valutazione non è ancora governabile.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Campo</th><th>Domanda</th></tr></thead>
+                        <tbody>
+                            <tr><td>Asset</td><td>Che cosa ha valore e chi ne risponde?</td></tr>
+                            <tr><td>Scenario</td><td>Quale minaccia sfrutta quale vulnerabilità?</td></tr>
+                            <tr><td>Evento e impatto</td><td>Che cosa può accadere, con quale livello?</td></tr>
+                            <tr><td>Inerente / controlli</td><td>Livello prima dei controlli? Quali evidenze esistono?</td></tr>
+                            <tr><td>Trattamento e residuo</td><td>Evitare, ridurre, trasferire o accettare? Che cosa resta dopo la verifica?</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">16 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. Rischio, vulnerabilità e incidente non coincidono: la debolezza è una condizione, il rischio è uno scenario, l’incidente è l’evento da gestire.</p>
+                        <p class="lead reveal d3">2. Le scale si dichiarano prima del risultato; il residuo richiede evidenze, non un’etichetta di chiusura.</p>
+                        <p class="lead reveal d4">3. CVE identifica, CWE classifica, CVSS comunica gravità: nessuno dei tre decide da solo la priorità.</p>
+                        <p class="lead reveal d5">4. I controlli riducono probabilità o conseguenze e devono essere indipendenti quanto basta; un controllo dichiarato non è un controllo verificato.</p>
+                        <p class="lead reveal d6">5. Sviluppo sicuro e supply chain portano la prevenzione prima del rilascio; la SBOM aiuta a localizzare una libreria, non certifica il software.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>18 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">IAM, crittografia, logging e incident response</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">Lo scenario è costruito. Ora serve la catena operativa: chi accede, quali proprietà protegge la crittografia, quali tracce restano, chi decide quando l’evento diventa un incidente.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 09</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 19</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>

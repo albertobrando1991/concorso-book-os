@@ -1,0 +1,296 @@
+{
+  "volume": "VOL-12",
+  "volume_title": "Carriere speciali premium",
+  "spec": "wiki/books/volumi/vol-12-carriere-speciali-premium/planning/00-scheda-pipeline.md",
+  "order": "M-SP01 01–10 · M-SP02 11–18 · M-SP03 19–25 · M-SP04 26–32",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "M-SP01",
+      "title": "Mappa della famiglia e struttura della selezione",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "folder": "01-mappa-famiglia-struttura-selezione",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "M-SP01",
+      "title": "La tua posizione prima della domanda",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "folder": "02-posizione-prima-domanda",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "M-SP01",
+      "title": "I formati della prova scritta",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "folder": "03-formati-prova-scritta",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-SP01",
+      "title": "Gli accertamenti e la preparazione",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "folder": "04-accertamenti-preparazione",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-SP01",
+      "title": "Prova orale, titoli e lingua facoltativa",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "folder": "05-prova-orale-titoli-lingua",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-SP01",
+      "title": "Le materie: riuso dal VOL-01 e specialistiche",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "folder": "06-materie-riuso-specialistiche",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-SP01",
+      "title": "Bando Decoder della famiglia",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "folder": "07-bando-decoder",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-SP01",
+      "title": "Piano 30/60/90 a doppio binario",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "folder": "08-piano-30-60-90-doppio-binario",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-SP01",
+      "title": "Errori frequenti e casi guidati",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "folder": "09-errori-casi-guidati",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-SP01",
+      "title": "Checklist finale del modulo",
+      "source": "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "folder": "10-checklist-finale",
+      "book_id": "m-sp01-forze-ordine",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-SP02",
+      "title": "Mappa della famiglia: ruoli e selezioni",
+      "source": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "folder": "11-mappa-della-famiglia",
+      "book_id": "m-sp02-vigili-fuoco",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-SP02",
+      "title": "La tua posizione prima della domanda: requisiti, riserve e vie di accesso",
+      "source": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "folder": "12-la-tua-posizione-prima-della-domanda",
+      "book_id": "m-sp02-vigili-fuoco",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-SP02",
+      "title": "La preselezione: un cancello, non un esame",
+      "source": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "folder": "13-la-preselezione",
+      "book_id": "m-sp02-vigili-fuoco",
+      "status": "ready"
+    },
+    {
+      "n": "14",
+      "module": "M-SP02",
+      "title": "Le prove d'esame: tre prove motorio-attitudinali e i titoli",
+      "source": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "folder": "14-tre-prove-motorio-attitudinali",
+      "book_id": "m-sp02-vigili-fuoco",
+      "status": "ready"
+    },
+    {
+      "n": "15",
+      "module": "M-SP02",
+      "title": "Prove direttive e percorsi di specializzazione",
+      "source": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "folder": "15-prove-direttive-e-specializzazione",
+      "book_id": "m-sp02-vigili-fuoco",
+      "status": "ready"
+    },
+    {
+      "n": "16",
+      "module": "M-SP02",
+      "title": "Materie da riusare e Bando Decoder",
+      "source": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "folder": "16-riuso-e-bando-decoder",
+      "book_id": "m-sp02-vigili-fuoco",
+      "status": "ready"
+    },
+    {
+      "n": "17",
+      "module": "M-SP02",
+      "title": "Piano 30/60/90 per binario",
+      "source": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "folder": "17-piano-30-60-90",
+      "book_id": "m-sp02-vigili-fuoco",
+      "status": "ready"
+    },
+    {
+      "n": "18",
+      "module": "M-SP02",
+      "title": "Errori, casi guidati e checklist finale",
+      "source": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "folder": "18-errori-casi-checklist",
+      "book_id": "m-sp02-vigili-fuoco",
+      "status": "ready"
+    },
+    {
+      "n": "19",
+      "module": "M-SP03",
+      "title": "'Mappa delle tre professioni e scelta del binario'",
+      "source": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "folder": "19-mappa-scelta-binario",
+      "book_id": "m-sp03-magistratura-avvocatura-notariato",
+      "status": "ready"
+    },
+    {
+      "n": "20",
+      "module": "M-SP03",
+      "title": "'Magistratura ordinaria: accesso, prove e ordinamento'",
+      "source": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "folder": "20-magistratura-prove-ordinamento",
+      "book_id": "m-sp03-magistratura-avvocatura-notariato",
+      "status": "ready"
+    },
+    {
+      "n": "21",
+      "module": "M-SP03",
+      "title": "'Avvocatura dello Stato: selezione, prove e funzione'",
+      "source": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "folder": "21-avvocatura-stato-prove-ordinamento",
+      "book_id": "m-sp03-magistratura-avvocatura-notariato",
+      "status": "ready"
+    },
+    {
+      "n": "22",
+      "module": "M-SP03",
+      "title": "'Notariato: pratica, atti e ordinamento'",
+      "source": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "folder": "22-notariato-prove-ordinamento",
+      "book_id": "m-sp03-magistratura-avvocatura-notariato",
+      "status": "ready"
+    },
+    {
+      "n": "23",
+      "module": "M-SP03",
+      "title": "'Metodo per tema, atto e prova teorico-pratica'",
+      "source": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "folder": "23-metodo-prove-scritte",
+      "book_id": "m-sp03-magistratura-avvocatura-notariato",
+      "status": "ready"
+    },
+    {
+      "n": "24",
+      "module": "M-SP03",
+      "title": "'Piano pluriennale e gestione delle incognite'",
+      "source": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "folder": "24-piano-pluriennale",
+      "book_id": "m-sp03-magistratura-avvocatura-notariato",
+      "status": "ready"
+    },
+    {
+      "n": "25",
+      "module": "M-SP03",
+      "title": "'Errori tipici, casi integrati e checklist finale'",
+      "source": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "folder": "25-errori-casi-checklist",
+      "book_id": "m-sp03-magistratura-avvocatura-notariato",
+      "status": "ready"
+    },
+    {
+      "n": "26",
+      "module": "M-SP04",
+      "title": "'Mappa, scelta del binario e Bando Decoder'",
+      "source": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "folder": "26-mappa-scelta-bando-decoder",
+      "book_id": "m-sp04-prefettizia-diplomatica",
+      "status": "ready"
+    },
+    {
+      "n": "27",
+      "module": "M-SP04",
+      "title": "'Carriera prefettizia: prove, materie e ordinamento'",
+      "source": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "folder": "27-carriera-prefettizia-prove-materie-ordinamento",
+      "book_id": "m-sp04-prefettizia-diplomatica",
+      "status": "ready"
+    },
+    {
+      "n": "28",
+      "module": "M-SP04",
+      "title": "'Carriera diplomatica: prove, materie e ordinamento'",
+      "source": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "folder": "28-carriera-diplomatica-prove-materie-ordinamento",
+      "book_id": "m-sp04-prefettizia-diplomatica",
+      "status": "ready"
+    },
+    {
+      "n": "29",
+      "module": "M-SP04",
+      "title": "'Le lingue straniere: diagnosi, prove e manutenzione'",
+      "source": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "folder": "29-le-lingue-straniere",
+      "book_id": "m-sp04-prefettizia-diplomatica",
+      "status": "ready"
+    },
+    {
+      "n": "30",
+      "module": "M-SP04",
+      "title": "'La prova orale e la postura professionale'",
+      "source": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "folder": "30-prova-orale-postura-professionale",
+      "book_id": "m-sp04-prefettizia-diplomatica",
+      "status": "ready"
+    },
+    {
+      "n": "31",
+      "module": "M-SP04",
+      "title": "'Piano di preparazione, carico e tentativi'",
+      "source": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "folder": "31-piano-preparazione-tentativi",
+      "book_id": "m-sp04-prefettizia-diplomatica",
+      "status": "ready"
+    },
+    {
+      "n": "32",
+      "module": "M-SP04",
+      "title": "'Errori, casi e checklist finali'",
+      "source": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "folder": "32-errori-casi-checklist",
+      "book_id": "m-sp04-prefettizia-diplomatica",
+      "status": "ready"
+    }
+  ]
+}

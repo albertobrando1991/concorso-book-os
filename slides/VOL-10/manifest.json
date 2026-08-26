@@ -1,0 +1,125 @@
+{
+  "volume": "VOL-10",
+  "volume_title": "Tecnico-ingegneristico, territorio, lavori pubblici",
+  "spec": "wiki/books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
+  "order": "modulo unico M-TR03, capitoli 01–13",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "M-TR03",
+      "title": "Il concorso tecnico nella PA: profili, enti e prove",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+      "folder": "01-concorso-tecnico-pa-profili-prove",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "M-TR03",
+      "title": "Ufficio tecnico pubblico, responsabilità e atti tecnici",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+      "folder": "02-ufficio-tecnico-responsabilita-atti",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "M-TR03",
+      "title": "Scienza e tecnica delle costruzioni per concorsi",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+      "folder": "03-scienza-tecnica-costruzioni",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-TR03",
+      "title": "NTC, sismica, geotecnica e sicurezza strutturale",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+      "folder": "04-ntc-sismica-geotecnica-sicurezza-strutturale",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-TR03",
+      "title": "Urbanistica e governo del territorio",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+      "folder": "05-urbanistica-governo-territorio",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-TR03",
+      "title": "Edilizia privata, SUE, titoli abilitativi e vigilanza",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+      "folder": "06-edilizia-sue-titoli-vigilanza",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-TR03",
+      "title": "Progettazione di opere pubbliche",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+      "folder": "07-progettazione-opere-pubbliche",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-TR03",
+      "title": "Direzione lavori, esecuzione e cantieri",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+      "folder": "08-direzione-lavori-esecuzione",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-TR03",
+      "title": "Collaudo, verifica, manutenzione e gestione dell'opera",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+      "folder": "09-collaudo-verifica-manutenzione",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-TR03",
+      "title": "Computi, capitolati e contabilità dei lavori",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+      "folder": "10-computi-capitolati-contabilita-lavori",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-TR03",
+      "title": "Infrastrutture, viabilità, ponti e monitoraggio",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+      "folder": "11-infrastrutture-viabilita-ponti-monitoraggio",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-TR03",
+      "title": "BIM, GIS, rilievi, catasto e patrimonio pubblico",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+      "folder": "12-bim-gis-catasto-patrimonio",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-TR03",
+      "title": "Laboratorio delle prove tecniche",
+      "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+      "folder": "13-laboratorio-prove-tecniche",
+      "book_id": "m-tr03-tecnico-ingegneristico",
+      "status": "ready"
+    }
+  ]
+}

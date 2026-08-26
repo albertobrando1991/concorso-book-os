@@ -1,0 +1,416 @@
+{
+  "volume": "VOL-02",
+  "volume_title": "Enti locali, Camere di commercio e Polizia locale",
+  "spec": "wiki/books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
+  "order": "indice dettagliato volume moduli v4",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "orientamento",
+      "title": "Come usare VOL-02 insieme a VOL-01",
+      "source": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md",
+      "folder": "01-come-usare-vol-02-insieme-a-vol-01",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "orientamento",
+      "title": "Bando Decoder territoriale",
+      "source": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/02-bando-decoder-territoriale.md",
+      "folder": "02-bando-decoder-territoriale",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "orientamento",
+      "title": "Piano 30/60/90 giorni per VOL-02",
+      "source": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/03-piano-30-60-90-giorni-vol-02.md",
+      "folder": "03-piano-30-60-90-giorni-vol-02",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-FL01",
+      "title": "TUEL operativo: autonomia, organi e funzioni del Comune",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "folder": "04-tuel-operativo-autonomia-organi-funzioni-comune",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-FL01",
+      "title": "Statuto, regolamenti e autonomia normativa locale",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "folder": "05-statuto-regolamenti-autonomia-normativa-locale",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-FL01",
+      "title": "Organizzazione comunale, uffici, servizi e gestioni associate",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "folder": "06-organizzazione-comunale-uffici-servizi-gestioni-associate",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-FL01",
+      "title": "Deliberazioni, determinazioni, decreti, ordinanze e pareri",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "folder": "07-deliberazioni-determinazioni-decreti-ordinanze-pareri",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-FL01",
+      "title": "Procedimento locale, protocollo, albo, URP e accesso",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "folder": "08-procedimento-locale-protocollo-albo-urp-accesso",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-FL01",
+      "title": "Servizi digitali comunali, CAD, ANPR e gestione documentale",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "folder": "09-servizi-digitali-comunali-cad-anpr-gestione-documentale",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-FL01",
+      "title": "Servizi demografici ed elettorali",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "folder": "10-servizi-demografici-elettorali",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-FL01",
+      "title": "Welfare locale, servizi sociali, ISEE, minori e servizi educativi",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "folder": "11-welfare-locale-servizi-sociali-isee-minori-servizi-educativi",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-FL01",
+      "title": "Programmazione integrata comunale: DUP, bilancio, PEG, PIAO e performance",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "folder": "12-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-FL01",
+      "title": "Gestione finanziaria, rendiconto, tesoreria e controlli",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "folder": "13-gestione-finanziaria-rendiconto-tesoreria-controlli",
+      "status": "ready"
+    },
+    {
+      "n": "14",
+      "module": "M-FL01",
+      "title": "Entrate, tributi locali, patrimonio, economato e riscossione",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "folder": "14-entrate-tributi-locali-patrimonio-economato-riscossione",
+      "status": "ready"
+    },
+    {
+      "n": "15",
+      "module": "M-FL01",
+      "title": "Procurement operativo dell'ufficio comunale",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "folder": "15-procurement-operativo-ufficio-comunale",
+      "status": "ready"
+    },
+    {
+      "n": "16",
+      "module": "M-FL01",
+      "title": "Territorio, patrimonio, edilizia e lavori: interfaccia amministrativa",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "folder": "16-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa",
+      "status": "ready"
+    },
+    {
+      "n": "17",
+      "module": "M-FL01",
+      "title": "Laboratorio teorico-pratico per i quattro profili comunali",
+      "source": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "folder": "17-laboratorio-teorico-pratico-profili-comunali",
+      "status": "ready"
+    },
+    {
+      "n": "18",
+      "module": "M-FL02",
+      "title": "Il sistema territoriale multilivello",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "folder": "18-il-sistema-territoriale-multilivello",
+      "status": "ready"
+    },
+    {
+      "n": "19",
+      "module": "M-FL02",
+      "title": "Statuti, organi e organizzazione regionale",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "folder": "19-statuti-organi-organizzazione-regionale",
+      "status": "ready"
+    },
+    {
+      "n": "20",
+      "module": "M-FL02",
+      "title": "Funzioni regionali e rapporti con Stato ed enti locali",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "folder": "20-funzioni-regionali-rapporti-stato-enti-locali",
+      "status": "ready"
+    },
+    {
+      "n": "21",
+      "module": "M-FL02",
+      "title": "Procedimenti, atti e organizzazione amministrativa regionale",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "folder": "21-procedimenti-atti-organizzazione-amministrativa-regionale",
+      "status": "ready"
+    },
+    {
+      "n": "22",
+      "module": "M-FL02",
+      "title": "Programmazione, bilancio e controlli regionali",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "folder": "22-programmazione-bilancio-controlli-regionali",
+      "status": "ready"
+    },
+    {
+      "n": "23",
+      "module": "M-FL02",
+      "title": "Tecnica legislativa, AIR/VIR e drafting",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "folder": "23-tecnica-legislativa-air-vir-drafting",
+      "status": "ready"
+    },
+    {
+      "n": "24",
+      "module": "M-FL02",
+      "title": "Politiche di coesione e fondi UE",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "folder": "24-politiche-coesione-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "25",
+      "module": "M-FL02",
+      "title": "PNRR territoriale, ReGiS, DNSH e controlli",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "folder": "25-pnrr-territoriale-regis-dnsh-controlli",
+      "status": "ready"
+    },
+    {
+      "n": "26",
+      "module": "M-FL02",
+      "title": "Province e Città metropolitane dopo la L. 56/2014",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "folder": "26-province-citta-metropolitane-legge-56-2014",
+      "status": "ready"
+    },
+    {
+      "n": "27",
+      "module": "M-FL02",
+      "title": "Viabilità, edilizia scolastica, territorio ed espropri",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "folder": "27-viabilita-edilizia-scolastica-territorio-espropri",
+      "status": "ready"
+    },
+    {
+      "n": "28",
+      "module": "M-FL02",
+      "title": "Contratti, servizi pubblici locali e società partecipate",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "folder": "28-contratti-servizi-pubblici-locali-societa-partecipate",
+      "status": "ready"
+    },
+    {
+      "n": "29",
+      "module": "M-FL02",
+      "title": "Laboratorio per i quattro profili regionali e di area vasta",
+      "source": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "folder": "29-laboratorio-profili-regionali-area-vasta",
+      "status": "ready"
+    },
+    {
+      "n": "30",
+      "module": "M-FL04",
+      "title": "Diventare agente o ufficiale di Polizia locale",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "folder": "30-diventare-agente-ufficiale-polizia-locale",
+      "status": "ready"
+    },
+    {
+      "n": "31",
+      "module": "M-FL04",
+      "title": "Ordinamento nazionale e regionale della Polizia locale",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "folder": "31-ordinamento-nazionale-regionale-polizia-locale",
+      "status": "ready"
+    },
+    {
+      "n": "32",
+      "module": "M-FL04",
+      "title": "Qualifiche, poteri, dipendenze e organizzazione del servizio",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "folder": "32-qualifiche-poteri-dipendenze-organizzazione-servizio",
+      "status": "ready"
+    },
+    {
+      "n": "33",
+      "module": "M-FL04",
+      "title": "Servizi di polizia stradale",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "folder": "33-servizi-polizia-stradale",
+      "status": "ready"
+    },
+    {
+      "n": "34",
+      "module": "M-FL04",
+      "title": "Accertamento, contestazione, notificazione e ricorsi nel Codice della strada",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "folder": "34-accertamento-contestazione-notificazione-ricorsi-codice-strada",
+      "status": "ready"
+    },
+    {
+      "n": "35",
+      "module": "M-FL04",
+      "title": "Procedimento sanzionatorio amministrativo applicato",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "folder": "35-procedimento-sanzionatorio-amministrativo-applicato",
+      "status": "ready"
+    },
+    {
+      "n": "36",
+      "module": "M-FL04",
+      "title": "Polizia giudiziaria e atti essenziali",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "folder": "36-polizia-giudiziaria-atti-essenziali",
+      "status": "ready"
+    },
+    {
+      "n": "37",
+      "module": "M-FL04",
+      "title": "TULPS, pubblica sicurezza e immigrazione",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "folder": "37-tulps-pubblica-sicurezza-immigrazione",
+      "status": "ready"
+    },
+    {
+      "n": "38",
+      "module": "M-FL04",
+      "title": "Sicurezza urbana, ordinanze e coordinamento",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "folder": "38-sicurezza-urbana-ordinanze-coordinamento",
+      "status": "ready"
+    },
+    {
+      "n": "39",
+      "module": "M-FL04",
+      "title": "Commercio, pubblici esercizi e SUAP",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "folder": "39-commercio-pubblici-esercizi-suap",
+      "status": "ready"
+    },
+    {
+      "n": "40",
+      "module": "M-FL04",
+      "title": "Vigilanza edilizia e procedimenti repressivi",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "folder": "40-vigilanza-edilizia-procedimenti-repressivi",
+      "status": "ready"
+    },
+    {
+      "n": "41",
+      "module": "M-FL04",
+      "title": "Ambiente, rifiuti, rumore e tutela locale",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "folder": "41-ambiente-rifiuti-rumore-tutela-locale",
+      "status": "ready"
+    },
+    {
+      "n": "42",
+      "module": "M-FL04",
+      "title": "Sinistri, rilievi e gestione della prova",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "folder": "42-sinistri-rilievi-gestione-prova",
+      "status": "ready"
+    },
+    {
+      "n": "43",
+      "module": "M-FL04",
+      "title": "Ufficiale PL: comando, contenzioso ed emergenze",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "folder": "43-ufficiale-pl-comando-contenzioso-emergenze",
+      "status": "ready"
+    },
+    {
+      "n": "44",
+      "module": "M-FL04",
+      "title": "Laboratorio atti e verbali della Polizia locale",
+      "source": "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "folder": "44-laboratorio-atti-verbali-polizia-locale",
+      "status": "ready"
+    },
+    {
+      "n": "45",
+      "module": "M-FL03",
+      "title": "Camere di commercio, sistema camerale e Unioncamere",
+      "source": "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "folder": "45-camere-commercio-sistema-camerale-unioncamere",
+      "status": "ready"
+    },
+    {
+      "n": "46",
+      "module": "M-FL03",
+      "title": "Registro imprese, REA e pubblicità legale",
+      "source": "wiki/books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "folder": "46-registro-imprese-rea-pubblicita-legale",
+      "status": "ready"
+    },
+    {
+      "n": "47",
+      "module": "M-FL03",
+      "title": "Servizi alle imprese, regolazione del mercato e tutela",
+      "source": "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "folder": "47-servizi-imprese-regolazione-mercato-tutela",
+      "status": "ready"
+    },
+    {
+      "n": "48",
+      "module": "M-FL03",
+      "title": "Organizzazione, personale, procedimenti e trasparenza camerale",
+      "source": "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "folder": "48-organizzazione-personale-procedimenti-trasparenza-camerale",
+      "status": "ready"
+    },
+    {
+      "n": "49",
+      "module": "M-FL03",
+      "title": "Laboratorio bando camerale",
+      "source": "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "folder": "49-laboratorio-bando-camerale",
+      "status": "ready"
+    },
+    {
+      "n": "50",
+      "module": "finale",
+      "title": "Simulazione finale VOL-02",
+      "source": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md",
+      "folder": "50-simulazione-finale-vol-02",
+      "status": "ready"
+    },
+    {
+      "n": "51",
+      "module": "finale",
+      "title": "Conclusione VOL-02",
+      "source": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/51-conclusione-vol-02.md",
+      "folder": "51-conclusione-vol-02",
+      "status": "ready"
+    }
+  ]
+}

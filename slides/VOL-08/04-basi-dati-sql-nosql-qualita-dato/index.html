@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 04 — Basi dati, SQL/NoSQL e qualità del dato</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-04" data-volume="VOL-08" data-chapter="04" data-chapter-title="Basi dati, SQL/NoSQL e qualità del dato" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 04</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">Basi dati, SQL/NoSQL<br>e qualità del dato</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">La struttura di una base dati stabilisce quali informazioni si possono registrare, quali errori vengono bloccati e con quale difficoltà si ottiene una risposta. SQL e NoSQL non sono due nomi dello stesso modello.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">Dallo schema alla query, senza salti</h2>
+                    <p class="lead reveal d2">Il VOL-01 definisce database, DBMS, tabella, riga, colonna, chiave, relazione e i comandi SQL di base. Qui si traduce un requisito in entità, si diagnosticano anomalie, si scrivono join e aggregazioni, si spiegano transazioni e si confrontano famiglie NoSQL con controlli di qualità.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è</h3>
+                            <p>Uno schema descrive la struttura prevista; un’istanza è l’insieme dei dati in un momento. Il caso di riferimento è la gestione delle pratiche di un ente: stessi requisiti, schema, query e qualità lungo tutto il capitolo.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>A che serve in prova</h3>
+                            <p>A leggere uno schema, scegliere una chiave, completare una query, riconoscere un’anomalia o motivare relazionale contro NoSQL. Se il bando nomina un prodotto, affianca la documentazione: gli esempi usano un SQL semplice, non ogni dialetto.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">NoSQL non significa «senza schema» e SQL non è «l’unico modo di interrogare».</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">Anche un modello flessibile richiede decisioni su struttura, identificazione, validazione e accesso. La velocità non deriva dall’etichetta «documentale» o «relazionale»: va valutata su modello, implementazione, dati e carico.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni su questo capitolo</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th></th><th>Che cosa fai</th><th>Se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>B — Bando</td><td>Separa concetti, SQL, modellazione e DBMS nominati.</td><td>Studi un prodotto come se fosse la teoria.</td></tr>
+                            <tr><td>A — Aree</td><td>Modello, query, transazioni, indici, NoSQL, qualità, accessi.</td><td>Confondi API, governance o cybersecurity.</td></tr>
+                            <tr><td>N — Nuclei</td><td>Prepara uno schema minimo e query verificabili.</td><td>Sai le sigle, non le cardinalità.</td></tr>
+                            <tr><td>D — Diario</td><td>Classifica l’errore: modello, sintassi, cardinalità, dati, permessi.</td><td>Usi DISTINCT per nascondere una join sbagliata.</td></tr>
+                            <tr><td>O — Output</td><td>Quiz, SQL, schema, orale o diagnosi.</td><td>Rileggi definizioni senza scrivere una query.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · Modello</p>
+                    <h2 class="h-display section-title reveal d1">Dai requisiti alle tabelle</h2>
+                    <p class="lead reveal d2">Ogni pratica ha identificativo, data, stato e un ufficio responsabile. Un ufficio gestisce più pratiche. Una pratica può riguardare più soggetti e un soggetto più pratiche. Entità: Pratica, Ufficio, Soggetto. La relazione molti-a-molti richiede una tabella associativa, con eventuali attributi del collegamento come il ruolo.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Vincolo</th><th>Funzione</th></tr></thead>
+                        <tbody>
+                            <tr><td>PRIMARY KEY</td><td>Identifica univocamente la riga e non ammette valori nulli.</td></tr>
+                            <tr><td>FOREIGN KEY</td><td>Tutela il collegamento: una pratica non punta a un ufficio inesistente.</td></tr>
+                            <tr><td>UNIQUE</td><td>Impedisce duplicati sulla chiave dichiarata, anche se non è primaria.</td></tr>
+                            <tr><td>NOT NULL / CHECK</td><td>Rende obbligatorio un valore o impone una condizione sul dominio.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>NULL</strong>
+                        <p>Indica assenza o non disponibilità, non lo zero e non la stringa vuota. I confronti usano IS NULL / IS NOT NULL, non «= NULL». Uno-a-molti: chiave esterna in Pratica. Molti-a-molti: tabella PraticaSoggetto.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Normalizzazione</p>
+                    <h2 class="h-display section-title reveal d1">Ridurre anomalie, non spezzettare a caso</h2>
+                    <p class="lead reveal d2">Una tabella unica con pratica, nome ufficio e soggetti ripetuti produce ridondanza. Non si può registrare un ufficio senza pratica; cambiare un nome tocca molte righe; cancellare l’ultima pratica può perdere l’ufficio. Una dipendenza funzionale dice che un attributo ne determina un altro.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>1NF</h3><p>Ogni posizione ha un valore del dominio, non un elenco. «12, 18, 31» diventa righe in PraticaSoggetto.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>2NF</h3><p>Con chiave composta, ogni attributo non chiave dipende dall’intera chiave. La denominazione sta in Soggetto, non in PraticaSoggetto.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>3NF</h3><p>Niente dipendenze transitive: nome ufficio dipende da id_ufficio, quindi vive in Ufficio.</p></div>
+                    </div>
+                    <div class="warn reveal d4">
+                        <strong>Denormalizzazione</strong>
+                        <p>Può ridurre join o sostenere letture frequenti, ma introduce copie da sincronizzare. «È più veloce» senza carico e misura non è una motivazione tecnica.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">05 · SQL</p>
+                    <h2 class="h-display section-title reveal d1">Dichiarativo: chiedi il risultato, non il piano</h2>
+                    <p class="lead reveal d2">SELECT sceglie le colonne, FROM la sorgente, WHERE filtra le righe, ORDER BY ordina. Senza ORDER BY l’ordine non è garantito. SQL specifica il risultato; il DBMS sceglie un piano compatibile.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Costrutto</th><th>Funzione</th><th>Attenzione</th></tr></thead>
+                        <tbody>
+                            <tr><td>INNER JOIN</td><td>Combinazioni che soddisfano la condizione.</td><td>Esclude le righe senza corrispondenza.</td></tr>
+                            <tr><td>LEFT JOIN</td><td>Conserva tutte le righe a sinistra.</td><td>Completa con NULL se manca il match.</td></tr>
+                            <tr><td>GROUP BY / HAVING</td><td>Gruppi e filtro dopo l’aggregazione.</td><td>WHERE filtra le righe prima; COUNT(*) conta le righe, COUNT(colonna) ignora i NULL.</td></tr>
+                            <tr><td>UPDATE / DELETE</td><td>Modificano i dati.</td><td>Senza WHERE agiscono su tutte le righe.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Errore tipico</strong>
+                        <p>Usare DISTINCT per nascondere duplicati prodotti da una join errata. Se una pratica ha tre soggetti, tre righe possono essere corrette. Prima cardinalità e condizione, poi l’eventuale distintivo.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">06 · Transazioni</p>
+                    <h2 class="h-display section-title reveal d1">Un’unità, quattro obiettivi ACID</h2>
+                    <p class="lead reveal d2">Se l’archiviazione richiede aggiornare lo stato e registrare un evento, non è accettabile salvarne uno solo. BEGIN, operazioni, COMMIT; ROLLBACK se non si può completare.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>ACID</h3>
+                            <p>Atomicità: tutto o niente. Consistenza: da uno stato valido a un altro nel rispetto dei vincoli. Isolamento: le transazioni concorrenti non interferiscono in modo incompatibile con il livello scelto. Durabilità: dopo il commit gli effetti sopravvivono ai guasti contemplati.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Isolamento e indici</h3>
+                            <p>Un isolamento più forte può aumentare attese e conflitti. Un indice aiuta a trovare righe senza scansionare tutta la tabella, ma occupa spazio e va aggiornato. Chiave, vincolo e indice non sono sinonimi: il DBMS può creare indici per alcuni vincoli, i concetti restano distinti.</p>
+                        </div>
+                    </div>
+                    <div class="note reveal d5">
+                        <strong>In prova</strong>
+                        <p>Parti dal problema: due operazioni simultanee possono leggere o modificare dati sovrapposti. Il livello massimo non è la soluzione automatica. Un indice è candidato quando sostiene un pattern frequente e selettivo.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Distinzione</p>
+                    <h2 class="h-display section-title reveal d1">SQL non è NoSQL</h2>
+                    <p class="lead reveal d2">NoSQL raccoglie modelli non riconducibili a un’unica struttura relazionale. Non significa «senza query». Chiamarle tutte «NoSQL» non cancella le differenze di modello, interrogazione e consistenza.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th></th><th>Relazionale / SQL</th><th>Famiglie NoSQL</th></tr></thead>
+                        <tbody>
+                            <tr><td>Rappresentazione</td><td>Tabelle, chiavi, vincoli, join.</td><td>Chiave-valore, documenti, wide-column, grafo.</td></tr>
+                            <tr><td>Schema</td><td>Dichiarato e tutelato dal DBMS.</td><td>Più flessibile: la validazione può stare anche nell’applicazione, ma va progettata.</td></tr>
+                            <tr><td>Quando è candidato</td><td>Relazioni e vincoli centrali, join articolate, consistenza forte sul processo.</td><td>Aggregati letti insieme, accesso per chiave, percorsi di grafo, distribuzione orientata al pattern.</td></tr>
+                            <tr><td>Errore</td><td>Partire dalle colonne senza requisiti.</td><td>Dire «non richiede uno schema» o «è eventualmente consistente» in astratto.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 19</span></div>
+            </section>
+
+            <section class="slide">
+                <div class="split-dark">
+                    <p class="kicker reveal">08 · Incorporare</p>
+                    <h2 class="h-display reveal d1" style="font-size: 40px; margin: 20px 0 24px;">Dati letti e aggiornati insieme</h2>
+                    <p class="lead reveal d2">Nel modello documentale l’aggregato è l’unità. Incorporare riduce letture multiple e può rendere atomico l’aggiornamento. Una relazione uno-a-pochi stabile può adattarsi. Documenti enormi o dati condivisi che cambiano spesso rendono la copia difficile da governare.</p>
+                </div>
+                <div class="split-light">
+                    <p class="kicker reveal d1">08 · Referenziare</p>
+                    <h2 class="h-display reveal d2" style="font-size: 40px; margin: 20px 0 24px;">Entità autonome, relazioni molteplici</h2>
+                    <p class="lead reveal d3">Il riferimento separa le informazioni e può richiedere più letture. Una relazione molti-a-molti con entità autonome suggerisce spesso riferimenti. Prodotti e configurazioni offrono garanzie diverse: le etichette non sostituiscono l’analisi.</p>
+                </div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">09 · Qualità</p>
+                    <h2 class="h-display section-title reveal d1">Adeguato allo scopo, non perfetto in astratto</h2>
+                    <p class="lead reveal d2">Servono dimensioni, regole, metriche e soglie. «Lo stato deve essere corretto» è vago; «lo stato appartiene a PRESENTATA, IN_ISTRUTTORIA, CHIUSA» è controllabile. I vincoli del DBMS non garantiscono l’accuratezza del mondo reale.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Dimensione</th><th>Domanda</th><th>Controllo possibile</th></tr></thead>
+                        <tbody>
+                            <tr><td>Accuratezza</td><td>Il valore rappresenta il fenomeno?</td><td>Confronto con fonte autorevole o campionamento.</td></tr>
+                            <tr><td>Completezza</td><td>I valori necessari sono presenti?</td><td>Percentuale di campi obbligatori valorizzati.</td></tr>
+                            <tr><td>Coerenza / validità</td><td>Regole incrociate e dominio rispettati?</td><td>Integrità referenziale, tipo, CHECK, elenco ammesso.</td></tr>
+                            <tr><td>Unicità / tempestività</td><td>Duplicati? Aggiornato in tempo utile?</td><td>Chiavi, matching; differenza fra evento e aggiornamento.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">10 · Accessi</p>
+                    <h2 class="h-display section-title reveal d1">Privilegio minimo, backup verificato</h2>
+                    <p class="lead reveal d2">Chi produce statistiche può ricevere SELECT senza poter cancellare. Un servizio applicativo ottiene privilegi su un insieme circoscritto. Autenticazione, autorizzazione, cifratura, audit, backup e ripristino concorrono alla protezione, ma rispondono a problemi distinti.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Come funziona</h3>
+                            <p>Proprietà degli oggetti, ruoli, concessione e revoca vanno documentati. Correggere le sole righe anomale senza intervenire sull’origine produce recidive: rilevazione, classificazione, correzione controllata, prevenzione, nuova misura.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Errore da evitare</h3>
+                            <p>Il backup non equivale alla disponibilità immediata e non dimostra da solo il recupero. Un ripristino controllato mette alla prova le procedure. Governance, cataloghi e open data appartengono al capitolo 10.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">Una tabella sola, tre anomalie</h2>
+                    <p class="lead reveal d2">Colonne: id_pratica, stato, id_ufficio, nome_ufficio, soggetti. I soggetti sono identificativi separati da virgole. Il nome ufficio è ripetuto. Alcuni stati non sono previsti. La normalizzazione corregge la struttura, non rende automaticamente esatti i dati già presenti.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Passaggio</th><th>Azione</th></tr></thead>
+                        <tbody>
+                            <tr><td>Separare</td><td>Ufficio e Pratica con chiave esterna; Soggetto e PraticaSoggetto per il molti-a-molti.</td></tr>
+                            <tr><td>Vincolare</td><td>Dominio o CHECK sugli stati; chiavi che impediscano duplicati.</td></tr>
+                            <tr><td>Migrare</td><td>Validare i dati senza eliminare silenziosamente le anomalie.</td></tr>
+                            <tr><td>Indici e qualità</td><td>Indici dopo le query reali; misurare completezza, validità e unicità dopo la migrazione.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3>Come progetta una base per pratiche e uffici?</h3>
+                            <p>Parto dai requisiti: entità, attributi, relazioni, cardinalità. Chiavi stabili, esterna per l’uno-a-molti, associativa per il molti-a-molti. Poi vincoli e transazioni; query e indici sul carico reale; regole di qualità e privilegi coerenti con i ruoli.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3>Una base NoSQL non richiede uno schema?</h3>
+                            <p>No. Può consentire una struttura più flessibile o demandare validazione all’applicazione, ma campi, identificatori, relazioni, documenti incorporati, regole di accesso e pattern di aggiornamento devono essere progettati. «Schema flessibile» non è «assenza di modello».</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Mini-esercizio</p>
+                    <h2 class="h-display section-title reveal d1">Dipendenti e progetti</h2>
+                    <p class="lead reveal d2">Un dipendente può partecipare a più progetti e ogni progetto può coinvolgere più dipendenti. Non è una colonna elenco e non è una chiave esterna in una sola direzione.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Schema minimo</h3>
+                            <p>Tabella Dipendente con chiave. Tabella Progetto con chiave. Tabella associativa con le due chiavi esterne e, se serve, attributi del collegamento (ruolo, data). Chiave primaria composta o identificativo artificiale più UNIQUE sulla coppia.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Query di controllo</h3>
+                            <p>Prima di un UPDATE massivo, una SELECT con la stessa condizione mostra quante righe e quali. WHERE prima di HAVING. Se l’unità del risultato è l’ufficio, una join con soggetti può moltiplicare le righe prima dell’aggregazione.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. Lo schema nasce dai requisiti e dalle cardinalità, non dalle colonne abituali dell’ufficio.</p>
+                        <p class="lead reveal d3">2. Normalizzare significa analizzare dipendenze e anomalie; denormalizzare richiede carico, misura e controlli sulle copie.</p>
+                        <p class="lead reveal d4">3. SQL è dichiarativo: join, WHERE, HAVING e NULL hanno una semantica; DISTINCT non ripara una join sbagliata.</p>
+                        <p class="lead reveal d5">4. SQL e NoSQL sono modelli diversi. «Senza schema» e «eventualmente consistente» sono formule troppo generiche.</p>
+                        <p class="lead reveal d6">5. La qualità è adeguatezza allo scopo: regole misurabili, privilegio minimo, backup verificato con un ripristino.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Matrice di scelta</p>
+                    <h2 class="h-display section-title reveal d1">Domande prima della tecnologia</h2>
+                    <p class="lead reveal d2">Un sistema può affiancare al relazionale un motore specializzato. L’ibrido aumenta integrazione, monitoraggio, backup e competenze. Ha senso se un requisito misurabile giustifica il costo.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Domanda</th><th>Se sì, orientamento</th></tr></thead>
+                        <tbody>
+                            <tr><td>Relazioni e vincoli sono centrali? Servono join articolate?</td><td>Modello relazionale candidato naturale.</td></tr>
+                            <tr><td>L’unità di lettura è un documento variabile e autonomo?</td><td>Documentale può ridurre trasformazioni.</td></tr>
+                            <tr><td>Accesso prevalente mediante una chiave?</td><td>Chiave-valore; interrogazioni ricche sul contenuto non sono automatiche.</td></tr>
+                            <tr><td>Contano percorsi e relazioni complesse?</td><td>Grafo. Wide-column per grandi volumi distribuiti orientati alla chiave.</td></tr>
+                            <tr><td>Quale anomalia il processo può tollerare in lettura e scrittura?</td><td>La garanzia va dichiarata: statistica ≠ assegnazione esclusiva di una pratica.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">16 · Ordine logico della query</p>
+                    <h2 class="h-display section-title reveal d1">Prima il significato della riga</h2>
+                    <div class="map reveal d2">
+                        <div class="node"><h3>Sorgenti e join</h3><p>Quale unità rappresenta ogni riga attesa?</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>WHERE</h3><p>Filtra le righe prima dei gruppi.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>GROUP BY</h3><p>Aggrega. HAVING filtra i gruppi.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>ORDER BY</h3><p>Ordina l’output, se richiesto.</p></div>
+                    </div>
+                    <div class="note reveal d3">
+                        <strong>Portabilità</strong>
+                        <p>Tipi, date, limitazione dei risultati e dettagli delle transazioni possono variare. Se il bando nomina un prodotto, studiane il dialetto. La conoscenza generale resta utile per spiegare il procedimento e riconoscere ciò che dipende dall’implementazione.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>18 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">Reti, sistemi operativi e infrastrutture</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">Il dato è modellato. Il disservizio, però, può stare nel collegamento, nel DNS, nella porta o nel processo. Rete e sistema operativo si diagnosticano su livelli diversi.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 05</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 19</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>
