@@ -1,0 +1,185 @@
+{
+  "volume": "VOL-01",
+  "volume_title": "Manuale base PA — Il Metodo BANDO",
+  "book_id": "il-metodo-bando",
+  "wiki_root": "wiki/books/il-metodo-bando",
+  "spec": "wiki/books/il-metodo-bando/planning/00-scheda-pipeline.md",
+  "order": "scheda pipeline M-PA01",
+  "chapters": [
+    {
+      "n": "00",
+      "title": "Perché questo libro è diverso",
+      "source": "wiki/books/il-metodo-bando/chapters/introduzione.md",
+      "folder": "00-introduzione",
+      "status": "ready"
+    },
+    {
+      "n": "01",
+      "title": "Il nuovo candidato pubblico",
+      "source": "wiki/books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md",
+      "folder": "01-il-nuovo-candidato-pubblico",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "title": "Anatomia del bando",
+      "source": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+      "folder": "02-anatomia-del-bando",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "title": "Il Metodo BANDO",
+      "source": "wiki/books/il-metodo-bando/chapters/il-metodo-bando.md",
+      "folder": "03-il-metodo-bando",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "title": "Costituzione e ordinamento dello Stato",
+      "source": "wiki/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+      "folder": "04-costituzione-e-ordinamento-dello-stato",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "title": "Diritto amministrativo operativo",
+      "source": "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
+      "folder": "05-diritto-amministrativo-per-candidati",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "title": "Pubblico impiego e organizzazione della PA",
+      "source": "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
+      "folder": "06-pubblico-impiego-e-organizzazione-pa",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "title": "Trasparenza, anticorruzione e privacy",
+      "source": "wiki/books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy.md",
+      "folder": "07-trasparenza-anticorruzione-privacy",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "title": "Contabilità pubblica essenziale",
+      "source": "wiki/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+      "folder": "08-contabilita-pubblica-essenziale",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "title": "Contratti pubblici essenziali",
+      "source": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+      "folder": "09-contratti-pubblici-essenziali",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "title": "Informatica, PA digitale e competenze digitali",
+      "source": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+      "folder": "10-informatica-pa-digitale-competenze-digitali",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "title": "Inglese concorsuale essenziale",
+      "source": "wiki/books/il-metodo-bando/chapters/inglese-concorsuale-essenziale.md",
+      "folder": "11-inglese-concorsuale-essenziale",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "title": "Logica, comprensione del testo e ragionamento",
+      "source": "wiki/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+      "folder": "12-logica-comprensione-ragionamento",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "title": "Metodo di studio per concorsi",
+      "source": "wiki/books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi.md",
+      "folder": "13-metodo-di-studio-per-concorsi",
+      "status": "ready"
+    },
+    {
+      "n": "14",
+      "title": "La prova a quiz",
+      "source": "wiki/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+      "folder": "14-la-prova-a-quiz",
+      "status": "ready"
+    },
+    {
+      "n": "15",
+      "title": "La prova scritta e teorico-pratica",
+      "source": "wiki/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+      "folder": "15-prova-scritta-teorico-pratica",
+      "status": "ready"
+    },
+    {
+      "n": "16",
+      "title": "La prova orale",
+      "source": "wiki/books/il-metodo-bando/chapters/la-prova-orale.md",
+      "folder": "16-la-prova-orale",
+      "status": "ready"
+    },
+    {
+      "n": "17",
+      "title": "Casi pratici e problem solving amministrativo",
+      "source": "wiki/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+      "folder": "17-casi-pratici-problem-solving-amministrativo",
+      "status": "ready"
+    },
+    {
+      "n": "18",
+      "title": "Quesiti situazionali e soft skills",
+      "source": "wiki/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+      "folder": "18-quesiti-situazionali-soft-skills",
+      "status": "ready"
+    },
+    {
+      "n": "19",
+      "title": "Le famiglie dei concorsi pubblici",
+      "source": "wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+      "folder": "19-famiglie-concorsi-pubblici",
+      "status": "ready"
+    },
+    {
+      "n": "20",
+      "title": "Mappe profilo: cosa resta comune e cosa cambia",
+      "source": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "folder": "20-mappe-profilo-cosa-resta-comune-cosa-cambia",
+      "status": "ready"
+    },
+    {
+      "n": "21",
+      "title": "Come scegliere i moduli integrativi",
+      "source": "wiki/books/il-metodo-bando/chapters/scegliere-moduli-integrativi.md",
+      "folder": "21-scegliere-moduli-integrativi",
+      "status": "ready"
+    },
+    {
+      "n": "22",
+      "title": "Piano 30/60/90 giorni",
+      "source": "wiki/books/il-metodo-bando/chapters/sistema-adattabile.md",
+      "folder": "22-sistema-adattabile",
+      "status": "ready"
+    },
+    {
+      "n": "23",
+      "title": "Il diario degli errori",
+      "source": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+      "folder": "23-diario-degli-errori",
+      "status": "ready"
+    },
+    {
+      "n": "24",
+      "title": "Checklist operative",
+      "source": "wiki/books/il-metodo-bando/chapters/checklist-operative.md",
+      "folder": "24-checklist-operative",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "volume": "VOL-11",
+  "volume_title": "Ambiente, protezione civile e sostenibilità",
+  "spec": "wiki/books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/planning/00-scheda-pipeline.md",
+  "order": "modulo unico M-TR04, capitoli 01–14",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "M-TR04",
+      "title": "I quattro profili e la mappa del sistema",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "folder": "01-quattro-profili-mappa-sistema",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "M-TR04",
+      "title": "D.Lgs. 152, MASE, ISPRA e SNPA",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "folder": "02-dlgs-152-mase-ispra-snpa",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "M-TR04",
+      "title": "VIA, VAS e valutazioni ambientali",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "folder": "03-via-vas-valutazioni-ambientali",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-TR04",
+      "title": "AIA, AUA, emissioni e autorizzazioni",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "folder": "04-aia-aua-emissioni-autorizzazioni",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-TR04",
+      "title": "Acque, scarichi e servizio idrico",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "folder": "05-acque-scarichi-servizio-idrico",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-TR04",
+      "title": "Rifiuti, economia circolare e RENTRI",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "folder": "06-rifiuti-economia-circolare-rentri",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-TR04",
+      "title": "Bonifiche, siti contaminati e danno ambientale",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "folder": "07-bonifiche-siti-contaminati-danno",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-TR04",
+      "title": "Aria, rumore, monitoraggio e dati",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "folder": "08-aria-rumore-monitoraggio-dati",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-TR04",
+      "title": "Controlli, sanzioni e reati ambientali",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "folder": "09-controlli-sanzioni-reati-ambientali",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-TR04",
+      "title": "Sistema di protezione civile e pianificazione",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "folder": "10-sistema-protezione-civile-pianificazione",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-TR04",
+      "title": "Rischi, allertamento, IT-alert ed emergenze",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "folder": "11-rischi-allertamento-it-alert-emergenze",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-TR04",
+      "title": "Clima, energia, rinnovabili, CER ed efficienza",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "folder": "12-clima-energia-rinnovabili-cer",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-TR04",
+      "title": "DNSH, CAM e sostenibilità della PA",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "folder": "13-dnsh-cam-sostenibilita-pa",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    },
+    {
+      "n": "14",
+      "module": "M-TR04",
+      "title": "Laboratorio di casi e quesiti sintetici",
+      "source": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "folder": "14-laboratorio-casi-quesiti-sintetici",
+      "book_id": "m-tr04-ambiente-protezione-civile",
+      "status": "ready"
+    }
+  ]
+}

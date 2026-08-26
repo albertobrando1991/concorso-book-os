@@ -1,0 +1,134 @@
+{
+  "volume": "VOL-09",
+  "volume_title": "Appalti, PNRR e procurement",
+  "spec": "wiki/books/volumi/vol-09-appalti-pnrr-procurement/planning/00-scheda-pipeline.md",
+  "order": "modulo unico M-TR02, capitoli 01–14",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "M-TR02",
+      "title": "I quattro profili e il ciclo integrato",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md",
+      "folder": "01-quattro-profili-ciclo-integrato",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "M-TR02",
+      "title": "Governance: RUP, fasi, team e qualificazione",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md",
+      "folder": "02-governance-rup-fasi-team-qualificazione",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "M-TR02",
+      "title": "Strategia, fabbisogni e programmazione",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md",
+      "folder": "03-strategia-fabbisogni-programmazione",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-TR02",
+      "title": "Progettazione della gara e documenti",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md",
+      "folder": "04-progettazione-gara-documenti",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-TR02",
+      "title": "Sotto soglia e procurement operativo",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md",
+      "folder": "05-sotto-soglia-procurement-operativo",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-TR02",
+      "title": "Ecosistema digitale: PAD, PCP, BDNCP e FVOE",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "folder": "06-ecosistema-digitale-pad-pcp-bdncp-fvoe",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-TR02",
+      "title": "Consip, MEPA, AQ, SDAPA e ASP",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+      "folder": "07-consip-mepa-aq-sdapa-asp",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-TR02",
+      "title": "Governo dell'esecuzione",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md",
+      "folder": "08-governo-esecuzione",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-TR02",
+      "title": "Rimedi, precontenzioso e contenzioso",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md",
+      "folder": "09-rimedi-precontenzioso-contenzioso",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-TR02",
+      "title": "PNRR: architettura, milestone, target e ReGiS",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md",
+      "folder": "10-pnrr-milestone-target-regis",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-TR02",
+      "title": "Gestione finanziaria, rendicontazione e controlli",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md",
+      "folder": "11-gestione-finanziaria-rendicontazione-controlli",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-TR02",
+      "title": "DNSH, CAM e procurement sostenibile",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md",
+      "folder": "12-dnsh-cam-procurement-sostenibile",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-TR02",
+      "title": "Project management pubblico",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+      "folder": "13-project-management-pubblico",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    },
+    {
+      "n": "14",
+      "module": "M-TR02",
+      "title": "Laboratorio: atti, casi e simulazioni",
+      "source": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md",
+      "folder": "14-laboratorio-atti-casi-simulazioni",
+      "book_id": "m-tr02-appalti-pnrr-fondi-ue",
+      "status": "ready"
+    }
+  ]
+}

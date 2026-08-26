@@ -1,0 +1,125 @@
+{
+  "volume": "VOL-08",
+  "volume_title": "ICT, digitale, cybersecurity e dati",
+  "spec": "wiki/books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
+  "order": "modulo unico M-TR01, capitoli 01–13",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "M-TR01",
+      "title": "Lavorare come ICT nella PA: ruoli, enti e prove",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+      "folder": "01-lavorare-ict-pa-ruoli-enti-prove",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "M-TR01",
+      "title": "Informatica specialistica: cosa serve oltre il VOL-01",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md",
+      "folder": "02-informatica-specialistica-oltre-vol-01",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "M-TR01",
+      "title": "Programmazione, algoritmi e strutture dati",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+      "folder": "03-programmazione-algoritmi-strutture-dati",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-TR01",
+      "title": "Basi dati, SQL/NoSQL e qualità del dato",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+      "folder": "04-basi-dati-sql-nosql-qualita-dato",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-TR01",
+      "title": "Reti, sistemi operativi e infrastrutture",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
+      "folder": "05-reti-sistemi-operativi-infrastrutture",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-TR01",
+      "title": "Ingegneria software, API e interoperabilità PA",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+      "folder": "06-ingegneria-software-api-interoperabilita-pa",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-TR01",
+      "title": "Cloud PA, virtualizzazione, container e DevOps",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+      "folder": "07-cloud-pa-virtualizzazione-container-devops",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-TR01",
+      "title": "Cybersecurity operativa: rischio, controlli e vulnerabilità",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "folder": "08-cybersecurity-rischio-controlli-vulnerabilita",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-TR01",
+      "title": "IAM, crittografia, logging e incident response",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+      "folder": "09-iam-crittografia-logging-incident-response",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-TR01",
+      "title": "Data governance, open data, interoperabilità e qualità",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "folder": "10-data-governance-open-data-interoperabilita",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-TR01",
+      "title": "AI/ML nella PA: modelli, rischi e compliance",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+      "folder": "11-ai-ml-pa-rischi-compliance",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-TR01",
+      "title": "Procurement ICT e gestione dei fornitori",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+      "folder": "12-procurement-ict-gestione-fornitori",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-TR01",
+      "title": "Laboratorio prove ICT: quiz, scritto tecnico, orale e casi",
+      "source": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
+      "folder": "13-laboratorio-prove-ict",
+      "book_id": "m-tr01-ict-trasformazione-digitale",
+      "status": "ready"
+    }
+  ]
+}

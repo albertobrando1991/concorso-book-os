@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 07 — Cloud PA, virtualizzazione, container e DevOps</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-07" data-volume="VOL-08" data-chapter="07" data-chapter-title="Cloud PA, virtualizzazione, container e DevOps" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 07</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">Cloud PA, virtualizzazione,<br>container e DevOps</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">Spostare un servizio «su Internet» non lo modernizza. Una migrazione cambia erogazione delle risorse, distribuzione delle modifiche e responsabilità. Cloud, macchina virtuale e container non sono tre nomi della stessa cosa.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">Oltre le sigle IaaS, PaaS, SaaS</h2>
+                    <p class="lead reveal d2">Il VOL-01 introduce cloud computing e i criteri generali per la PA. Qui diventano competenza specialistica: caratteristiche operative, confine di responsabilità, confronto VM-container, migrazione, pipeline, osservabilità, backup e continuità.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è il cloud</h3>
+                            <p>Un modello con servizio su richiesta, accesso ampio in rete, condivisione delle risorse, elasticità rapida e servizio misurato. Un server remoto assegnato a mano e dimensionato una volta per tutte può essere infrastruttura esterna senza essere cloud.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>A che serve in prova</h3>
+                            <p>A collegare servizio, dati, soggetti e conseguenze per l’ente. «È nel cloud, se ne occupa tutto il fornitore» è una risposta sbagliata. Scalabilità sostiene più carico; elasticità adatta anche verso il basso.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">La tecnologia scelta deve rendere l’esercizio più controllabile, non soltanto più rapido da avviare.</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">Una migrazione ordinata parte dalla funzione pubblica, non dalla piattaforma. Ogni scelta lascia una motivazione, una prova e una via di ritorno praticabile.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · Distinzione</p>
+                    <h2 class="h-display section-title reveal d1">Cloud ≠ virtualizzazione ≠ container</h2>
+                    <p class="lead reveal d2">Il cloud è un modello operativo e di responsabilità. La virtualizzazione isola macchine su un host. Il container impacchetta un processo con le sue dipendenze, di norma condividendo il kernel. Possono convivere: molti cluster di container girano sopra VM, in un cloud o no.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th></th><th>Cloud</th><th>VM</th><th>Container</th></tr></thead>
+                        <tbody>
+                            <tr><td>Unità</td><td>Servizio misurato, elastico, su richiesta.</td><td>Sistema virtuale con OS guest.</td><td>Processo isolato con dipendenze.</td></tr>
+                            <tr><td>Kernel</td><td>Dipende dal modello (IaaS/PaaS/SaaS).</td><td>Normalmente proprio guest kernel.</td><td>Normalmente condiviso con l’host.</td></tr>
+                            <tr><td>Domanda decisiva</td><td>Chi configura, aggiorna, osserva, interviene?</td><td>Che ambiente si isola e con quale immagine?</td><td>Che cosa sopravvive al riavvio del processo?</td></tr>
+                            <tr><td>Errore</td><td>«Pubblico» = della PA.</td><td>Snapshot = backup indipendente.</td><td>Container = VM più veloce, stesse garanzie.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni su questo capitolo</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Segnale nel bando</th><th>Che cosa studi</th><th>Output</th></tr></thead>
+                        <tbody>
+                            <tr><td>IaaS / PaaS / SaaS</td><td>Modelli e responsabilità condivisa.</td><td>Confronto motivato, non elenco di sigle.</td></tr>
+                            <tr><td>Cloud PA, ACN</td><td>Classificazione e qualificazione vigente.</td><td>Piano di migrazione con inventario.</td></tr>
+                            <tr><td>Virtualizzazione, container</td><td>Hypervisor, immagini, orchestrazione.</td><td>Schema host-guest e confronto VM-container.</td></tr>
+                            <tr><td>DevOps, CI/CD</td><td>Pipeline, artefatti, rollback, IaC.</td><td>Flusso di rilascio con evidenze.</td></tr>
+                            <tr><td>Backup, DR, continuità</td><td>Copie, RPO, RTO, piani provati.</td><td>Scenario di recupero, non una promessa.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Modelli</p>
+                    <h2 class="h-display section-title reveal d1">Da IaaS a SaaS la gestione diretta diminuisce, la responsabilità no</h2>
+                    <p class="lead reveal d2">Restano classificazione dei dati, scelta del servizio, identità, autorizzazioni, configurazione, controllo del fornitore, continuità del processo e possibilità di uscita. Serverless nasconde il provisioning: non significa che i server non esistano.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Modello</th><th>Il provider offre</th><th>L’ente governa soprattutto</th></tr></thead>
+                        <tbody>
+                            <tr><td>IaaS</td><td>Calcolo, rete, storage, virtualizzazione.</td><td>Guest OS, middleware, applicazioni, dati, configurazioni.</td></tr>
+                            <tr><td>PaaS</td><td>Infrastruttura e piattaforma.</td><td>Applicazioni, dati, configurazioni e uso.</td></tr>
+                            <tr><td>SaaS</td><td>Applicazione completa.</td><td>Utenti, dati, configurazione funzionale e processi.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Cloud «pubblico»</strong>
+                        <p>È offerto a una pluralità di clienti: «pubblico» non significa «della pubblica amministrazione». Privato, ibrido e community descrivono altri modelli di distribuzione. Regione e zona sono domini infrastrutturali; due zone non creano continuità da sole.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">05 · Responsabilità</p>
+                    <h2 class="h-display section-title reveal d1">Quattro domande per ogni componente</h2>
+                    <p class="lead reveal d2">La linea fra provider e cliente varia con servizio e contratto. In un SaaS il fornitore può curare la disponibilità dell’applicazione, mentre l’ente decide chi accede, quali dati inserire e come controllare le configurazioni del procedimento.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Chi configura?</h3><p>Account, parametri, integrazioni.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Chi aggiorna?</h3><p>Piattaforma, guest, applicazione.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Chi osserva?</h3><p>Metriche, log, collegamenti.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Chi interviene?</h3><p>Guasto tecnico e comunicazione agli uffici.</p></div>
+                    </div>
+                    <div class="note reveal d4">
+                        <strong>Zone grigie</strong>
+                        <p>Il provider può garantire l’infrastruttura mentre l’ente mantiene account errati. Il servizio tecnico può essere disponibile mentre il procedimento non ha una modalità alternativa. «Più gestito» non significa automaticamente «più adatto».</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">06 · VM e container</p>
+                    <h2 class="h-display section-title reveal d1">Che cosa si isola, e che cosa deve sopravvivere</h2>
+                    <p class="lead reveal d2">L’hypervisor crea macchine virtuali. Tipo 1 opera sull’hardware; tipo 2 si appoggia a un OS host. Immagine e template sono basi di istanza; lo snapshot registra uno stato, ma può condividere storage e dominio di guasto con l’originale: non è automaticamente un backup.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Aspetto</th><th>Macchina virtuale</th><th>Container</th></tr></thead>
+                        <tbody>
+                            <tr><td>Unità</td><td>Sistema con OS guest, librerie, applicazioni.</td><td>Processo con codice e dipendenze.</td></tr>
+                            <tr><td>Avvio e portabilità</td><td>In genere più pesante; immagine dell’ambiente.</td><td>In genere più rapido; immagine applicativa, registry, runtime.</td></tr>
+                            <tr><td>Uso tipico</td><td>OS diversi, legacy, isolamento infrastrutturale.</td><td>Servizi replicabili; dati persistenti vanno progettati a parte.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Orchestrazione</strong>
+                        <p>Si dichiara lo stato desiderato; il control plane riconcilia. Un Pod è un esempio di unità distribuibile. Se tutte le repliche dipendono da un unico database fragile, quello resta il punto critico. Modificare a mano un container in esecuzione crea differenze non tracciate.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Cloud PA</p>
+                    <h2 class="h-display section-title reveal d1">Classificare prima di scegliere il prodotto</h2>
+                    <p class="lead reveal d2">La Strategia Cloud Italia si fonda su classificazione di dati e servizi, qualificazione dei servizi cloud e Polo Strategico Nazionale. La classificazione valuta l’impatto della compromissione e distingue dati e servizi strategici, critici e ordinari. Il PSN è un’infrastruttura ad alta affidabilità nel quadro della strategia: non è la destinazione automatica di ogni applicazione.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Qualificazione</h3>
+                            <p>È di competenza dell’ACN. Il quadro consolidato comprende il Regolamento unico adottato nel 2024 e il catalogo dei servizi qualificati. Disciplina e catalogo evolvono: ogni decisione richiede il controllo della versione vigente, senza trasformare il testo in un listino.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Assessment</h3>
+                            <p>Finalità, utenti, dati, componenti, dipendenze, volumi, identità, RPO/RTO, contratti, backup e uscita. L’inventario evita di scoprire dopo la migrazione che una dipendenza rimasta on premise rende il servizio inutilizzabile.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 19</span></div>
+            </section>
+
+            <section class="slide">
+                <div class="split-dark">
+                    <p class="kicker reveal">08 · Strategie R</p>
+                    <h2 class="h-display reveal d1" style="font-size: 40px; margin: 20px 0 24px;">Nessuna «R» è migliore in astratto</h2>
+                    <p class="lead reveal d2">Rehost, replatform, refactor, repurchase, retain, retire. La strategia può differire fra componenti dello stesso servizio. Rehost riduce il tempo iniziale e può conservare vincoli; refactor può migliorare portabilità ma aumenta il rischio di modifica.</p>
+                </div>
+                <div class="split-light">
+                    <p class="kicker reveal d1">08 · Cutover</p>
+                    <h2 class="h-display reveal d2" style="font-size: 40px; margin: 20px 0 24px;">Passaggio con rollback credibile</h2>
+                    <p class="lead reveal d3">Criteri di ingresso, sincronizzazione, test, comunicazioni, chi decide. Il rollback indica fino a quando si torna indietro e come si riallineano i dati. Dopo nuove transazioni non basta riavviare il vecchio ambiente. Exit: formati, tempi, costi, lock-in, cancellazione, test.</p>
+                </div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">09 · DevOps</p>
+                    <h2 class="h-display section-title reveal d1">Pipeline di responsabilità, non di velocità</h2>
+                    <p class="lead reveal d2">DevOps mette sviluppo, rilascio ed esercizio sullo stesso flusso. Il risultato atteso è una modifica identificabile, verificata e recuperabile. Non coincide con un team, una qualifica o un prodotto. L’artefatto verificato non dovrebbe cambiare mentre attraversa gli ambienti.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Codice</h3><p>Associato a una richiesta.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Build e test</h3><p>Controlli di qualità e sicurezza.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Artefatto</h3><p>Identificato, immutabile in promozione.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Gate</h3><p>Se fallisce, si ferma e produce evidenza.</p></div>
+                    </div>
+                    <div class="note reveal d4">
+                        <strong>CI, CD, IaC</strong>
+                        <p>Continuous integration verifica spesso le modifiche. Continuous delivery mantiene rilasciabile, con decisione esplicita per la produzione. Continuous deployment distribuisce automaticamente ciò che supera i gate. Infrastructure as Code descrive l’infrastruttura in file versionati: un errore codificato può replicarsi ovunque. Segreti separati dai file ordinari.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">10 · Osservabilità</p>
+                    <h2 class="h-display section-title reveal d1">Un server attivo non prova che la pratica si chiude</h2>
+                    <p class="lead reveal d2">Il monitoraggio verifica condizioni note. L’osservabilità permette di comprendere lo stato interno anche per problemi non previsti da una soglia. Capacità non è solo il numero di server: connessioni, code, spazio, limiti esterni e persone in grado di intervenire.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Segnale</th><th>Funzione</th></tr></thead>
+                        <tbody>
+                            <tr><td>Metrica</td><td>Misura numerica nel tempo: mostra un aumento di latenza.</td></tr>
+                            <tr><td>Log</td><td>Evento con contesto: spiega un rifiuto del database.</td></tr>
+                            <tr><td>Trace</td><td>Percorso di una richiesta fra componenti: localizza il tratto lento.</td></tr>
+                            <tr><td>Evento</td><td>Cambiamento significativo, come un deployment.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Autoscaling</strong>
+                        <p>Reagisce a segnali e politiche, ma non corregge una query inefficiente o una dipendenza satura. Il costo si collega a capacità richiesta, finestra, continuità e rischio. FinOps pesa il prezzo insieme a sicurezza, competenze e reversibilità.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Continuità</p>
+                    <h2 class="h-display section-title reveal d1">RPO, RTO, backup, DR, business continuity</h2>
+                    <p class="lead reveal d2">Il Recovery Point Objective è la perdita temporale massima di dati tollerabile. Il Recovery Time Objective è il tempo entro cui il servizio deve tornare utilizzabile. Nascono dall’analisi d’impatto, non da valori copiati per consuetudine. Nessun servizio essenziale può basarsi su un ripristino mai eseguito.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Concetto</th><th>Domanda</th></tr></thead>
+                        <tbody>
+                            <tr><td>Alta disponibilità</td><td>Come riduco le interruzioni ordinarie, senza condividere il dominio di guasto?</td></tr>
+                            <tr><td>Backup</td><td>Da quale copia recupero? Completo, incrementale o differenziale. Un job «ok» non prova il restore.</td></tr>
+                            <tr><td>Snapshot / replica</td><td>Stato rapido o copia aggiornata. La replica può propagare cancellazioni; lo snapshot può condividere il guasto.</td></tr>
+                            <tr><td>Disaster recovery</td><td>Come ripristino sistemi dopo un evento grave?</td></tr>
+                            <tr><td>Business continuity</td><td>Come mantengo le funzioni essenziali, anche con procedure manuali temporanee?</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">Portale comunale di occupazione suolo</h2>
+                    <p class="lead reveal d2">Front end, applicazione, database, archivio, autenticazione, protocollo e pagamenti. L’obiettivo non è trasferire un server, ma mantenere il procedimento accessibile e recuperabile. Il protocollo accetta solo indirizzi autorizzati; alcuni allegati sono su un file server locale.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Passaggio</th><th>Decisione</th></tr></thead>
+                        <tbody>
+                            <tr><td>Classificazione</td><td>Dati e servizio, impatto, inventario di dipendenze. Destinazione compatibile con la disciplina vigente, non «qualunque cloud».</td></tr>
+                            <tr><td>Architettura</td><td>Front end e applicazione in container; database su servizio gestito compatibile; protocollo inizialmente ibrido.</td></tr>
+                            <tr><td>Rilascio</td><td>Immagine identificata, preproduzione, cutover dopo sincronizzazione e prova della pratica, rollback dichiarato.</td></tr>
+                            <tr><td>Esercizio e uscita</td><td>Metriche, trace, backup provato; RPO/RTO dall’impatto sulle pratiche; esportazione, tempi, cancellazione.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3>Come distingue VM e container in un servizio PA?</h3>
+                            <p>La VM incapsula un ambiente con OS guest; il container impacchetta il processo e condivide di norma il kernel. Il container non eredita da solo isolamento, persistenza e continuità della VM. Possono convivere: VM per legacy o confini, container per servizi che si replicano. L’orchestratore riconcilia uno stato dichiarato; non rende magica un’applicazione con un unico punto di guasto.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3>Se è SaaS, l’ente non ha più responsabilità?</h3>
+                            <p>No. Diminuisce la gestione tecnica diretta. Restano dati, identità, configurazione, controllo del fornitore, continuità del procedimento e uscita. Una configurazione errata dell’ente può rendere indisponibile un servizio tecnicamente «up».</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Distribuzione</p>
+                    <h2 class="h-display section-title reveal d1">Rolling, blue-green, canary</h2>
+                    <p class="lead reveal d2">Il rolling update sostituisce gradualmente le istanze. Il blue-green prepara un ambiente parallelo e sposta il traffico dopo le verifiche. Il canary espone una quota limitata. Non sostituiscono compatibilità dei dati e rollback. Si può separare deployment e release: il codice distribuito senza attivare subito la funzione.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Quattro domande del gate</h3>
+                            <p>Quale modifica è stata richiesta? Quale artefatto è stato verificato? Chi ha autorizzato il passaggio? Quale evidenza dimostra l’esito? Utile anche con un fornitore: consegnare codice non è metterlo in esercizio.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Degradazione controllata</h3>
+                            <p>Mantiene le funzioni essenziali quando una parte non è disponibile. Due istanze sullo stesso host non proteggono dal guasto dell’host. Due zone non proteggono da una configurazione errata replicata ovunque.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. Il cloud è un modello operativo NIST, non una macchina remota. «Pubblico» non significa «della PA».</p>
+                        <p class="lead reveal d3">2. Virtualizzazione e container isolano oggetti diversi. Il container non è una VM più veloce con le stesse garanzie.</p>
+                        <p class="lead reveal d4">3. In Cloud PA si classifica e si verifica la qualificazione vigente prima del prodotto. Il PSN non è la destinazione di ogni applicazione.</p>
+                        <p class="lead reveal d5">4. DevOps è una catena di evidenze: artefatto immutabile, gate, rollback. L’automazione non elimina i controlli.</p>
+                        <p class="lead reveal d6">5. Backup, snapshot, replica, DR e business continuity rispondono a domande diverse. RPO e RTO nascono dall’impatto e si dimostrano con prove.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">16 · Checklist di migrazione</p>
+                    <h2 class="h-display section-title reveal d1">Domande che producono evidenze</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Area</th><th>Domanda</th><th>Evidenza</th></tr></thead>
+                        <tbody>
+                            <tr><td>Servizio e dati</td><td>Quale funzione, quali utenti, quale classificazione?</td><td>Scheda del servizio ed esito della classificazione.</td></tr>
+                            <tr><td>Dipendenze e carico</td><td>Sistemi, reti, identità, picchi, tempi?</td><td>Mappa e misure, non stime isolate.</td></tr>
+                            <tr><td>Destinazione</td><td>Qualificazione e requisiti compatibili?</td><td>Verifica della disciplina vigente.</td></tr>
+                            <tr><td>Cutover</td><td>Chi decide, come si torna indietro?</td><td>Runbook provato, responsabilità esplicite.</td></tr>
+                            <tr><td>Esercizio</td><td>Metriche, log, trace, backup, uscita?</td><td>Pannello, restore eseguito, piano di exit.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>18 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">Cybersecurity operativa: rischio, controlli e vulnerabilità</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">L’esercizio è governato. Resta da proteggere: asset, minaccia, controllo e trattamento del rischio, prima delle etichette di prodotto.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 08</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 19</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>

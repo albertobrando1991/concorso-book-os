@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 11 — AI/ML nella PA: modelli, rischi e compliance</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-11" data-volume="VOL-08" data-chapter="11" data-chapter-title="AI/ML nella PA: modelli, rischi e compliance" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 11</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">AI/ML nella PA:<br>modelli, rischi e compliance</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">Un sistema che assegna una priorità alle segnalazioni può aiutare un comune a mettere prima i casi urgenti. Può anche incorporare dati incompleti o indurre chi lavora allo sportello a fidarsi di un punteggio. La domanda d’esame non è soltanto «quanto è accurato il modello?».</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">AI non è ML</h2>
+                    <p class="lead reveal d2">Un algoritmo è una procedura finita che trasforma input in output. Un’automazione deterministica applica regole esplicite: se input e regole non cambiano, il risultato resta uguale. L’intelligenza artificiale non è il nome di un singolo programma: comprende, quando presente, il modello, i dati, il software, le interfacce, le istruzioni, le persone e il processo.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è il machine learning</h3>
+                            <p>Una parte delle regole viene appresa dai dati. Il modello riceve esempi, modifica parametri e tenta di ridurre l’errore. Le feature sono le caratteristiche in ingresso; la label è il risultato atteso nei problemi supervisionati. Un parametro si apprende; un iperparametro si decide nella configurazione.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>A che serve in prova</h3>
+                            <p>A non chiamare «AI» qualunque automazione e, all’opposto, a non pensare che un modello elimini regole, ruoli e controlli. L’output AI è un elemento istruttorio o operativo da verificare, non un soggetto che decide.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">La plausibilità non rende l’output una fonte.</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">Un sistema generativo può formulare un testo convincente e tuttavia errato. Controllare il contenuto non è correggere un refuso: occorre verificare fatti, fonti, destinatario e coerenza con l’atto. La responsabilità resta nella validazione umana.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni sul sistema AI</h2>
+                    <p class="lead reveal d2">L’unità di analisi è il caso d’uso. Una stessa tecnologia può sostenere una bozza interna a basso impatto o incidere su una scelta che richiede garanzie maggiori. Gli algoritmi generali restano nel capitolo 3; dati e qualità nei 4 e 10; contratti nel 12.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th></th><th>Che cosa fai</th><th>Se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>B — Bisogno</td><td>Problema amministrativo, finalità, destinatari e baseline.</td><td>Parti dal nome commerciale del prodotto.</td></tr>
+                            <tr><td>A — Attori</td><td>Responsabile del caso, tecnici, operatori, controllori e fornitore.</td><td>Attribuisci ogni decisione al modello.</td></tr>
+                            <tr><td>N — Nodi</td><td>Dati, errori, bias, sicurezza, diritti, drift e uso improprio.</td><td>Usi l’accuracy come certificato di qualità.</td></tr>
+                            <tr><td>D — Documenti</td><td>Scheda del caso, dati, versione, test, log e valutazioni.</td><td>Non sai ricostruire quale versione ha prodotto l’output.</td></tr>
+                            <tr><td>O — Output</td><td>Previsione, raccomandazione o contenuto in un procedimento governato.</td><td>Tratti l’output come atto o fonte.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · Componenti</p>
+                    <h2 class="h-display section-title reveal d1">Sistema, modello, inferenza</h2>
+                    <p class="lead reveal d2">L’addestramento stima il modello usando esempi; l’inferenza lo applica a casi nuovi. Una prestazione elevata sui dati già visti non dimostra che il sistema funzioni su situazioni nuove, né che sia utile nel procedimento. Un modello può essere aggiornato dal fornitore senza che l’ente se ne accorga.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Oggetto</th><th>Che cosa è</th><th>Che cosa non è</th></tr></thead>
+                        <tbody>
+                            <tr><td>Modello</td><td>Componente che elabora input dopo l’apprendimento o la configurazione.</td><td>Non è l’intero sistema e non «decide» da solo.</td></tr>
+                            <tr><td>Sistema AI</td><td>Dati, software, persone, istruzioni e processo d’uso.</td><td>Non coincide con l’etichetta commerciale.</td></tr>
+                            <tr><td>Predittivo</td><td>Stima una classe o un valore.</td><td>Non è automaticamente un raccomandatore.</td></tr>
+                            <tr><td>Generativo</td><td>Produce testo, immagini, audio o altro contenuto.</td><td>La plausibilità non trasferisce la responsabilità dell’atto.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Cinque domande prima del prodotto</strong>
+                        <p>Quale bisogno soddisfa, quale output produce, chi lo usa, quali dati riceve e quale scelta concreta cambia. Se la risposta è «nessuna», può essere uno strumento di ricerca; se cambia l’ordine delle pratiche, diventa un caso d’uso da descrivere.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Apprendimento</p>
+                    <h2 class="h-display section-title reveal d1">Train, validation, test</h2>
+                    <p class="lead reveal d2">Nel supervisionato gli esempi contengono input e risultato atteso: classificazione (urgente/non urgente) o regressione (tempo atteso). Nel non supervisionato non esiste una label-obiettivo: si cercano strutture. L’apprendimento per rinforzo usa ricompense: non va confuso con una classificazione comune.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Partizioni</h3>
+                            <p>Il training serve ad apprendere; la validation confronta configurazioni e soglie; il test misura la prestazione su dati non usati nelle decisioni di sviluppo. Se il test è consultato ripetutamente, perde indipendenza e diventa un altro set di validation. La separazione può essere temporale, o deve evitare che pratiche molto simili finiscano in entrambi i set.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Errori di metodo</h3>
+                            <p>Overfitting: il modello aderisce troppo al training e rende male su casi nuovi. Underfitting: troppo semplice per cogliere relazioni utili. Data leakage: informazioni che, al momento reale della decisione, non sarebbero disponibili, per esempio usare la data di chiusura per prevedere un ritardo all’apertura.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">05 · Dati</p>
+                    <h2 class="h-display section-title reveal d1">Il dataset disponibile non è quello necessario</h2>
+                    <p class="lead reveal d2">Ogni dataset ha provenienza, periodo, finalità, popolazione e trasformazioni. Se «urgenza» coincide con la priorità storicamente attribuita da un ufficio, il modello può imparare abitudini organizzative, non l’urgenza reale. La disponibilità tecnica non autorizza da sola raccolta, riuso o conclusione automatizzata.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Rischio</th><th>Che cosa succede</th><th>Che cosa chiedere</th></tr></thead>
+                        <tbody>
+                            <tr><td>Etichette storiche</td><td>Si riproducono errori e carichi diseguali del passato.</td><td>Come è nata la label e se ha un significato condiviso.</td></tr>
+                            <tr><td>Classi sbilanciate</td><td>Un modello che ignora i rari urgenti può avere accuracy elevata.</td><td>Quanti casi positivi reali ci sono e chi paga l’errore.</td></tr>
+                            <tr><td>Proxy</td><td>Una variabile apparentemente neutra riflette disuguaglianze.</td><td>Eliminare il campo visibile non elimina il rischio.</td></tr>
+                            <tr><td>Canale</td><td>Uno storico digitale rappresenta chi usa quel canale, non l’intera popolazione.</td><td>Confrontare sportello, telefono e digitale.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">06 · Metriche</p>
+                    <h2 class="h-display section-title reveal d1">Accuracy non certifica le urgenze</h2>
+                    <p class="lead reveal d2">Prima di misurare si fissa una baseline: regola semplice, procedimento attuale o prestazione minima. Senza confronto, un valore percentuale isolato non dice se il sistema migliora il servizio. La soglia non è un dato puramente matematico: è una scelta di servizio da motivare e riesaminare.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Metrica</th><th>Che cosa dice</th><th>Quando conta</th></tr></thead>
+                        <tbody>
+                            <tr><td>Accuracy</td><td>Quota complessiva di classificazioni corrette.</td><td>Può restare alta anche se molti urgenti non sono riconosciuti.</td></tr>
+                            <tr><td>Precision</td><td>Quanti casi segnalati come positivi lo sono davvero.</td><td>Se i falsi positivi saturano la verifica umana.</td></tr>
+                            <tr><td>Recall</td><td>Quanti casi realmente positivi vengono intercettati.</td><td>Se perdere un’urgenza è grave.</td></tr>
+                            <tr><td>F1</td><td>Sintesi di precision e recall.</td><td>Non è «la metrica migliore» in assoluto.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Matrice di confusione</strong>
+                        <p>Falso negativo: un’urgenza trattata come ordinaria. Falso positivo: una pratica ordinaria in cima alla coda. Chi sostiene il costo dell’errore deve essere visibile. Un modello può essere accurato e mal calibrato, o buono in media e debole proprio nel caso delicato.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Controllo umano</p>
+                    <h2 class="h-display section-title reveal d1">Un clic non è supervisione</h2>
+                    <p class="lead reveal d2">Human-in-the-loop, on-the-loop e in-command descrivono modelli di presenza, ma da soli non garantiscono nulla. L’automation bias spinge a privilegiare la raccomandazione anche quando vi sono segnali contrari. Una spiegazione convincente non prova che l’output sia corretto.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Controllo sostanziale</h3>
+                            <p>La persona comprende scopo e limiti, riceve informazioni utili, ha tempo e competenza, può discostarsi, sospendere o attivare un’escalation. Si traccia quando l’output è stato seguito o corretto e perché. Se tutti confermano il modello, il flusso forse impedisce di dissentire; se tutti lo correggono, il modello può non essere adatto.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Bias e fairness</h3>
+                            <p>Il bias può nascere nel campionamento, nelle etichette, nelle feature, nell’obiettivo o nel modo in cui il risultato entra nel lavoro. Una disparità osservata non prova da sola una discriminazione illecita, ma impone analisi. Le metriche di fairness sono contestuali: non esiste un numero universale che certifichi l’equità.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">08 · Ciclo di vita</p>
+                    <h2 class="h-display section-title reveal d1">Monitoraggio dal primo giorno</h2>
+                    <p class="lead reveal d2">MLOps porta nel ciclo pratiche di ingegneria: versionamento di dati, codice, configurazioni e modello; ambienti controllati; test ripetibili; osservazione in esercizio. Il risultato deve essere ricostruibile. Data drift è un cambiamento nella distribuzione degli input; concept drift riguarda la relazione tra input e risultato.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Definire</h3><p>Problema, finalità, baseline, usi esclusi e decisioni riservate alla persona.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Validare</h3><p>Dati, partizioni, metriche, sottogruppi e soglia motivata.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Esercire</h3><p>Logging, override, reclami, drift e usi fuori perimetro.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Riesaminare</h3><p>Correggere, limitare, rollback o dismettere, con responsabile.</p></div>
+                    </div>
+                    <div class="warn reveal d4">
+                        <strong>Errore tipico</strong>
+                        <p>Trattare monitoraggio e revisione come attività successive al rilascio. Un contratto non trasferisce automaticamente tutte le responsabilità dell’ente. Se il bisogno si risolve con una regola trasparente o mancano dati adeguati, una soluzione più semplice può essere preferibile.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>10 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">09 · Quadro</p>
+                    <h2 class="h-display section-title reveal d1">Rischio tecnico ≠ classificazione giuridica</h2>
+                    <p class="lead reveal d2">Il regolamento (UE) 2024/1689, noto come AI Act, adotta un approccio basato sul rischio. Distingue, tra l’altro, pratiche vietate, sistemi ad alto rischio, obblighi di trasparenza e modelli di IA per finalità generali. La classificazione non deriva dal fatto che un prodotto «usa AI».</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Fonte</th><th>Che cosa orienta</th><th>Che cosa non fa</th></tr></thead>
+                        <tbody>
+                            <tr><td>AI Act</td><td>Ruoli (provider, deployer), obblighi proporzionati al rischio, documentazione, sorveglianza umana.</td><td>Non si assegna una classe al caso di studio senza testo vigente e circostanze.</td></tr>
+                            <tr><td>L. 23 settembre 2025, n. 132</td><td>Principi e deleghe in materia di IA, da leggere in raccordo con il regolamento europeo.</td><td>Non sostituisce privacy, procedimento, trasparenza e cybersicurezza.</td></tr>
+                            <tr><td>NIST AI RMF</td><td>Linguaggio Govern, Map, Measure, Manage per il ciclo di vita.</td><td>Non è una norma europea obbligatoria.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Calendario</strong>
+                        <p>L’applicazione dell’AI Act è progressiva. In questo capitolo non si fissano scadenze operative: prima di un atto o di una gara si controlla la fonte ufficiale aggiornata. «Non ad alto rischio» non significa privo di responsabilità organizzative.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">10 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">Priorità alle segnalazioni</h2>
+                    <p class="lead reveal d2">Un comune vuole ordinare le segnalazioni su strade ed edifici. La baseline è la coda manuale. La decisione ragionata non consiste nel dichiarare subito una classe AI Act: consiste nel documentare finalità, persone, errori, controlli, ruoli e quadro applicabile.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Passaggio</th><th>Decisione</th></tr></thead>
+                        <tbody>
+                            <tr><td>Definizione</td><td>Che cosa è «urgenza»; controllo della provenienza delle etichette.</td></tr>
+                            <tr><td>Dati</td><td>Separazione training, validation e test; osservazione per territorio e canale.</td></tr>
+                            <tr><td>Metriche</td><td>Recall degli urgenti, precision e costo dei falsi negativi, non sola accuracy.</td></tr>
+                            <tr><td>Uso</td><td>Il punteggio è un supporto; gli operatori possono modificarlo e motivano gli override.</td></tr>
+                            <tr><td>Governo</td><td>Versioni di dati e modello, soglia, anomalie, condizioni di limitazione o ritorno al manuale.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3 style="margin-top:16px;">Come governi un modello per dare priorità alle segnalazioni?</h3>
+                            <p>Partirei da finalità e baseline, documenterei dati ed etichette, separerei training, validation e test, sceglierei metriche in base al costo degli errori e verificherei sottogruppi. Progetterei controllo umano, versioni, logging e monitoraggio; valuterei rischi, ruoli, fornitore e quadro sul caso concreto. Prevederei riesame, rollback e sospensione.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3 style="margin-top:16px;">Un’accuracy elevata prova che il sistema intercetta le urgenze?</h3>
+                            <p>No. Con classi sbilanciate può restare elevata anche se molti casi urgenti non sono riconosciuti. Occorre osservare almeno recall, precision e costo dei falsi negativi. Accuracy elevata non significa equità.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Distinzioni</p>
+                    <h2 class="h-display section-title reveal d1">Sei quiz da tenere fermi</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Domanda</th><th>Risposta</th><th>Perché</th></tr></thead>
+                        <tbody>
+                            <tr><td>Sistema AI e modello?</td><td>Il modello è una componente; il sistema comprende dati, persone e processo.</td><td>Evita di attribuire al modello decisioni organizzative.</td></tr>
+                            <tr><td>Test set usato per regolare?</td><td>No</td><td>Perde indipendenza e diventa validation.</td></tr>
+                            <tr><td>Eliminare un campo sensibile elimina il bias?</td><td>No</td><td>Altre variabili possono agire da proxy.</td></tr>
+                            <tr><td>Controllo umano effettivo?</td><td>Quando c’è competenza, tempo, informazione e potere di override.</td><td>Un clic di approvazione non basta.</td></tr>
+                            <tr><td>NIST AI RMF è una norma UE obbligatoria?</td><td>No</td><td>Riferimento tecnico volontario.</td></tr>
+                            <tr><td>Il fornitore assorbe tutte le responsabilità?</td><td>No</td><td>Ruoli e contratto vanno verificati; l’ente governa il caso d’uso.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Laboratorio</p>
+                    <h2 class="h-display section-title reveal d1">Griglia di rischio del caso AI</h2>
+                    <p class="lead reveal d2">Se non riesci a indicare evidenza, controllo e responsabile, il rischio non è ancora governato. La griglia non assegna automaticamente una classe giuridica.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Campo</th><th>Esempio di lettura</th></tr></thead>
+                        <tbody>
+                            <tr><td>Scenario e causa</td><td>Etichette storiche incoerenti.</td></tr>
+                            <tr><td>Evento temuto</td><td>Priorità distorta delle segnalazioni.</td></tr>
+                            <tr><td>Conseguenza</td><td>Ritardo dei casi urgenti.</td></tr>
+                            <tr><td>Evidenza</td><td>Campione etichettato e risultati per gruppi pertinenti.</td></tr>
+                            <tr><td>Controllo</td><td>Riesame delle etichette, test e override tracciati.</td></tr>
+                            <tr><td>Residuo e riesame</td><td>Quando cambiano dati, soglia o procedura.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Mini-caso</p>
+                    <h2 class="h-display section-title reveal d1">Bozza generativa per il cittadino</h2>
+                    <p class="lead reveal d2">Un ufficio usa un modello generativo per preparare una bozza. L’operatore non inserisce dati non autorizzati, verifica fatti e fonti, corregge il testo e approva l’invio secondo il processo previsto.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cosa resta fermo</h3>
+                            <p>L’output plausibile non viene trattato come atto o fonte. La responsabilità resta nella validazione umana, nelle istruzioni di uso, negli accessi e nella tracciabilità. La scheda del caso indica anche ciò che il sistema non fa.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Cinque campi prima dell’uso</h3>
+                            <p>Finalità, baseline, dati e loro limite, errore più grave, potere di override. Se manca un’evidenza o un responsabile per ciascun campo, il sistema non è ancora pronto.</p>
+                        </div>
+                    </div>
+                    <div class="warn reveal d4">
+                        <strong>Attenzione</strong>
+                        <p>Non concludere «conforme per sempre». Una modifica di finalità, dati, modello o fornitore può cambiare le valutazioni. Privacy, procedimento, trasparenza e cybersicurezza continuano ad applicarsi secondo i rispettivi presupposti.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. AI e ML non coincidono: il machine learning è un modo di apprendere dai dati; il sistema AI comprende anche processo, persone e istruzioni.</p>
+                        <p class="lead reveal d3">2. Dati, metriche e soglie si leggono in relazione agli effetti sugli utenti; l’accuracy non certifica qualità, equità o conformità.</p>
+                        <p class="lead reveal d4">3. Il controllo umano richiede competenza, tempo, informazione e autorità di override; un clic non è supervisione.</p>
+                        <p class="lead reveal d5">4. Rischio tecnico e classificazione giuridica sono collegati ma non coincidono; l’AI Act e la L. 132/2025 si verificano sul caso e sul testo vigente.</p>
+                        <p class="lead reveal d6">5. Versionamento, monitoraggio, rollback e inventario dei casi d’uso accompagnano l’intero ciclo; il fornitore non assorbe da solo la responsabilità dell’ente.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">Procurement ICT e gestione dei fornitori</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">Il caso d’uso è definito. Resta da tradurlo in una prestazione verificabile: requisito, SLA, evidenza ed exit, senza confondere il capitolato ICT con l’appalto generale.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 12</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 18</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>

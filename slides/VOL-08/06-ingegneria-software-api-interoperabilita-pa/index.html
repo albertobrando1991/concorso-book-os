@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 06 — Ingegneria software, API e interoperabilità PA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-06" data-volume="VOL-08" data-chapter="06" data-chapter-title="Ingegneria software, API e interoperabilità PA" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 06</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">Ingegneria software, API<br>e interoperabilità PA</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">Un servizio digitale nasce da un bisogno, non dal codice. Le API rendono espliciti i contratti fra sistemi. L’interoperabilità li collega a regole organizzative, semantiche e giuridiche. L’endpoint è soltanto l’interfaccia tecnica.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">Non basta realizzarlo</h2>
+                    <p class="lead reveal d2">Il VOL-01 introduce API, interoperabilità e PDND e distingue scambio autorizzato e pubblicazione open data. Qui quei prerequisiti diventano progettazione: requisiti verificabili, architettura, test, contratto API ed e-service.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è</h3>
+                            <p>L’ingegneria software disciplina il percorso da bisogno a esercizio. Un bisogno descrive il risultato atteso. Un requisito lo traduce in una proprietà del sistema. Un vincolo limita le soluzioni. Il criterio di accettazione è una condizione osservabile.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>A che serve in prova</h3>
+                            <p>A non rispondere con un elenco di acronimi. «Ridurre le richieste di certificati già disponibili» è un bisogno. «Verificare, previa autorizzazione, il possesso del requisito presso l’erogatore» è un requisito. Gli esiti per dato valido, inesistente o fruitore non abilitato sono criteri.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">Un’API che risponde non è ancora interoperabilità.</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">Due enti possono scambiare un campo chiamato «stato» e attribuirgli significati diversi, oppure condividere il significato senza finalità e responsabilità definite. Tecnico, semantico, organizzativo e giuridico sono livelli distinti.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni su questo capitolo</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th></th><th>Che cosa fai</th><th>Se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>B — Bando</td><td>Separa metodologie, testing, API, standard e piattaforme nominate.</td><td>Studi un prodotto come se fosse il contratto.</td></tr>
+                            <tr><td>A — Aree</td><td>Bisogno, progetto, test, contratto API, interoperabilità.</td><td>Confondi HTTP di rete, SQL o CI/CD operativa.</td></tr>
+                            <tr><td>N — Nuclei</td><td>Collega requisito, interfaccia, test, versione ed evidenza.</td><td>Disegni blocchi e li chiami microservizi.</td></tr>
+                            <tr><td>D — Diario</td><td>Assunzione che ha prodotto una modifica incompatibile.</td><td>Crei «la v2» senza piano di migrazione.</td></tr>
+                            <tr><td>O — Output</td><td>Orale, caso, specifica o matrice di tracciabilità.</td><td>Elenco di acronimi senza artefatto.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · Requisiti</p>
+                    <h2 class="h-display section-title reveal d1">Funzionali, non funzionali, tracciabili</h2>
+                    <p class="lead reveal d2">I funzionali descrivono comportamenti e risultati. I non funzionali qualificano il servizio: prestazioni, disponibilità, usabilità, accessibilità, sicurezza, manutenibilità, osservabilità. Un dato corretto con un servizio che non regge il carico è inadeguato.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Requisito</th><th>Componente o API</th><th>Criterio e test</th></tr></thead>
+                        <tbody>
+                            <tr><td>Verificare un requisito anagrafico</td><td>Servizio di verifica.</td><td>Esito coerente per tre classi di input; integrazione e accettazione.</td></tr>
+                            <tr><td>Registrare l’uso</td><td>Componente di audit.</td><td>Evento presente e correlabile; prova di sistema.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Ciclo di vita</strong>
+                        <p>Concezione, analisi, progetto, realizzazione, verifica, rilascio, esercizio, manutenzione, dismissione. Sequenziale, iterativo, incrementale o Agile: l’etichetta da sola dice poco. Conta produrre evidenze in tempo utile. Agile non elimina architettura, documentazione, controllo e responsabilità.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Architettura</p>
+                    <h2 class="h-display section-title reveal d1">Componenti, interfacce, dipendenze</h2>
+                    <p class="lead reveal d2">L’architettura descrive elementi significativi e decisioni che condizionano l’evoluzione. Alta coesione: responsabilità correlate. Basso accoppiamento: meno conoscenze inutili fra parti. Non sono valori assoluti. Il nome della forma viene dopo la motivazione.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Esigenza</th><th>Decisione da valutare</th><th>Conseguenza</th></tr></thead>
+                        <tbody>
+                            <tr><td>Modifiche frequenti a una funzione</td><td>Confine di componente più autonomo.</td><td>Impatto su dipendenze, test e rilascio.</td></tr>
+                            <tr><td>Integrazione con più fruitori</td><td>Contratto esterno stabile.</td><td>Compatibilità, documentazione, versioni.</td></tr>
+                            <tr><td>Dati sensibili</td><td>Separazione e accessi minimi.</td><td>Autorizzazioni, tracciabilità, superficie esposta.</td></tr>
+                            <tr><td>Tempi di risposta contenuti</td><td>Cache o elaborazione differita.</td><td>Coerenza, invalidazione, osservabilità.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Errore ricorrente</strong>
+                        <p>Disegnare molti blocchi e chiamarli «microservizi» non dimostra modularità. Occorre spiegare confini, dati, dipendenze e costo operativo. Monolite, livelli, client-server e servizi sono forme: la scelta dipende da scala, vincoli e qualità richieste.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">05 · Test</p>
+                    <h2 class="h-display section-title reveal d1">Verifica non è validazione</h2>
+                    <p class="lead reveal d2">La verifica controlla che il prodotto sia costruito secondo specifiche e progetto. La validazione controlla che risponda al bisogno d’uso. Una funzione può rispettare la specifica ed essere inadatta al procedimento perché il requisito era incompleto.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Livello</th><th>Oggetto</th><th>Esempio</th></tr></thead>
+                        <tbody>
+                            <tr><td>Unitario</td><td>Funzione o componente isolato.</td><td>Calcolo di una regola.</td></tr>
+                            <tr><td>Integrazione</td><td>Interazione fra elementi.</td><td>Chiamata fra servizio e database.</td></tr>
+                            <tr><td>Sistema</td><td>Comportamento complessivo.</td><td>Flusso end-to-end.</td></tr>
+                            <tr><td>Accettazione</td><td>Criteri con gli stakeholder.</td><td>Esito del caso amministrativo.</td></tr>
+                            <tr><td>Regressione</td><td>Funzioni già valide dopo una modifica.</td><td>Suite rieseguita sulla nuova release.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Difetto e failure</strong>
+                        <p>Il difetto è una carenza nel prodotto o in un artefatto; la failure è il comportamento osservato che non soddisfa l’atteso. Gravità misura l’impatto; priorità ordina l’intervento. «Testare l’API» non è un caso di test: servono operazione, classe di input, atteso e versione del contratto.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">06 · API</p>
+                    <h2 class="h-display section-title reveal d1">Il contratto, non l’implementazione</h2>
+                    <p class="lead reveal d2">Un’API definisce come un sistema può richiedere capacità o dati a un altro: operazioni, indirizzamento, parametri, rappresentazioni, precondizioni, risposte, errori, vincoli. L’interno può cambiare se il comportamento promesso resta compatibile. Non esporre il modello di persistenza.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>REST e SOAP</h3>
+                            <p>REST è uno stile; nelle API HTTP orienta risorse, identificatori e semantica del protocollo. SOAP è un protocollo di messaggistica basato su XML. Dire «REST usa JSON, SOAP usa XML» è incompleto: JSON è frequente ma non definisce REST.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Idempotenza</h3>
+                            <p>Ripetere richieste uguali produce lo stesso effetto previsto sul server della singola richiesta. Non significa che ogni risposta sia identica né che manchino effetti interni come il logging. GET non richiede una modifica di stato; POST invia dati per un’elaborazione.</p>
+                        </div>
+                    </div>
+                    <div class="warn reveal d5">
+                        <strong>Errori</strong>
+                        <p>Input non valido, risorsa assente, autorizzazione mancante, conflitto e indisponibilità non possono confluire in un generico errore interno. OpenAPI descrive la superficie: non implementa il comportamento e non prova che il servizio rispetti il contratto.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Evoluzione</p>
+                    <h2 class="h-display section-title reveal d1">Compatibile per il fruitore, non per il produttore</h2>
+                    <p class="lead reveal d2">Una modifica è compatibile quando i fruitori conformi al contratto precedente possono continuare. Aggiungere un campo opzionale può esserlo se i client ignorano elementi sconosciuti; rinominare un campo obbligatorio o cambiarne il tipo può rompere. Versione dell’API, dell’implementazione e della specifica OpenAPI sono concetti distinti.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Modifica</th><th>Rischio</th><th>Trattamento</th></tr></thead>
+                        <tbody>
+                            <tr><td>Campo opzionale aggiunto</td><td>Client rigidi rifiutano elementi ignoti.</td><td>Tolleranza e test dei fruitori.</td></tr>
+                            <tr><td>Rinomina di campo obbligatorio</td><td>Parsing o logica rotti.</td><td>Nuova versione o transizione esplicita.</td></tr>
+                            <tr><td>Cambio di significato</td><td>Risposta formalmente valida, semanticamente errata.</td><td>Nuovo contratto e migrazione documentata.</td></tr>
+                            <tr><td>Riduzione di un limite</td><td>Richieste prima valide rifiutate.</td><td>Preavviso, misura dell’uso, adeguamento.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 19</span></div>
+            </section>
+
+            <section class="slide">
+                <div class="split-dark">
+                    <p class="kicker reveal">08 · API</p>
+                    <h2 class="h-display reveal d1" style="font-size: 40px; margin: 20px 0 24px;">Contratto fra sistemi</h2>
+                    <p class="lead reveal d2">Operazioni, schemi, errori, idempotenza, versione. Un gateway può applicare politiche di accesso, throttling e pubblicazione. Non sostituisce governance, qualità del contratto o autorizzazione applicativa. SLO è un obiettivo misurabile; SLA formalizza impegni fra parti (profilo contrattuale nel capitolo 12).</p>
+                </div>
+                <div class="split-light">
+                    <p class="kicker reveal d1">08 · Interoperabilità</p>
+                    <h2 class="h-display reveal d2" style="font-size: 40px; margin: 20px 0 24px;">Uso corretto fra organizzazioni</h2>
+                    <p class="lead reveal d3">Livelli giuridico, organizzativo, semantico e tecnico. Finalità, minimizzazione, responsabilità, autorizzazioni e tracciabilità restano requisiti. Once only orienta a non richiedere di nuovo dati già legittimamente disponibili: non autorizza accessi indiscriminati.</p>
+                </div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">09 · Interoperabilità PA</p>
+                    <h2 class="h-display section-title reveal d1">Erogatore, fruitore, e-service, finalità</h2>
+                    <p class="lead reveal d2">Il Modello di interoperabilità della PA organizza tecnologie, pattern, sicurezza, profili e governance. Le fonti AgID richiamano API documentate ed evolvibili, catalogazione, tracciabilità, limitazioni d’uso e livelli di servizio. Nel contesto PDND l’e-service descrive il servizio disponibile nel catalogo e collega l’offerta alle API e alle condizioni di fruizione.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Giuridico</h3><p>Base e limiti dell’accesso.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Organizzativo</h3><p>Processi, ruoli, accordi.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Semantico</h3><p>Stesso significato dei dati.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Tecnico</h3><p>Protocollo, API, sicurezza di canale.</p></div>
+                    </div>
+                    <div class="note reveal d4">
+                        <strong>Verifica vigente</strong>
+                        <p>Versioni, richieste di fruizione, attributi, accordi e meccanismi tecnici si controllano sulla documentazione vigente prima di un caso reale. Il Regolamento (UE) 2024/903 inquadra l’interoperabilità del settore pubblico a livello europeo: in una prova generale conta la continuità fra i quattro livelli, non l’elenco puntuale degli obblighi.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">10 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">Verifica di un requisito anagrafico</h2>
+                    <p class="lead reveal d2">Un’amministrazione fruitrice deve verificare un requisito durante l’istruttoria. L’erogatrice possiede il dato autorevole. Restituire un esito invece dell’intero record riduce dati e accoppiamento.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Passo</th><th>Decisione</th></tr></thead>
+                        <tbody>
+                            <tr><td>Finalità e dato minimo</td><td>Solo per l’istruttoria prevista; esito, non l’intero profilo.</td></tr>
+                            <tr><td>Requisiti</td><td>Identificativo in ingresso; esito, data e riferimento correlabile. Tracciabilità, livello di servizio, errori classificati.</td></tr>
+                            <tr><td>Contratto e autorizzazione</td><td>Input, output, errori, schema, versione. Fruizione secondo ruoli, finalità e condizioni.</td></tr>
+                            <tr><td>Test ed evidenza</td><td>Esito positivo, requisito assente, input non valido, fruitore non abilitato, indisponibilità. Correlare richiesta, risposta, versione ed esito.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Configurazione</p>
+                    <h2 class="h-display section-title reveal d1">La release è un insieme identificabile</h2>
+                    <p class="lead reveal d2">La gestione della configurazione identifica codice, specifiche, schemi, configurazioni, test e documenti e ne governa le modifiche. Il controllo di versione conserva la storia. Un repository non garantisce qualità: servono revisione, test, approvazione, tracciabilità e ripristino.</p>
+                    <div class="grid-3">
+                        <div class="card reveal d3">
+                            <h3>Commit, branch, tag</h3>
+                            <p>Nel modello distribuito diffuso da Git: commit come stato, branch come linea, merge come integrazione, tag come punto significativo. L’integrazione continua automatizza controlli; la pipeline operativa sta nel capitolo 7.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Retry e timeout</h3>
+                            <p>Un timeout lascia incerto se l’operazione sia stata eseguita. Ripetere una creazione non idempotente può duplicare. Il contratto può prevedere una chiave idempotente o una consultazione di stato.</p>
+                        </div>
+                        <div class="card reveal d5">
+                            <h3>Deprecazione</h3>
+                            <p>Ha un inizio e una fine verificabili: alternativa, misura dell’uso, assistenza, controllo degli ultimi fruitori. Limitarsi a «creare la v2» sposta il problema.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3>Come si passa da un bisogno a un e-service?</h3>
+                            <p>Trasformo il bisogno in requisiti e criteri osservabili, scelgo componenti e contratto, collego test ed evidenze, definisco versione e autorizzazione. L’API è il contratto tecnico; l’interoperabilità aggiunge finalità, semantica e responsabilità fra enti.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3>Se l’API risponde, i due enti interoperano?</h3>
+                            <p>No. Possono scambiare byte con significati diversi, oppure senza finalità e accordi. Il livello tecnico è necessario, non sufficiente. OpenAPI non prova da sola il rispetto del contratto né l’uso legittimo del dato.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Mini-esercizio</p>
+                    <h2 class="h-display section-title reveal d1">Classifica l’esito del test</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Esito</th><th>Prima domanda</th><th>Azione</th></tr></thead>
+                        <tbody>
+                            <tr><td>Test fallito</td><td>Atteso, input e ambiente sono corretti?</td><td>Riprodurre e classificare.</td></tr>
+                            <tr><td>Test intermittente</td><td>Dipendenza da tempo, ordine o concorrenza?</td><td>Isolare la condizione.</td></tr>
+                            <tr><td>Test superato, utente insoddisfatto</td><td>Il criterio rappresenta il bisogno?</td><td>Riesaminare requisito e validazione.</td></tr>
+                            <tr><td>Regressione dopo modifica</td><td>Quale dipendenza è stata coinvolta?</td><td>Tracciare impatto e correggere.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d3">
+                        <strong>Errore ricorrente</strong>
+                        <p>Accumulare test senza strategia crea una suite lenta e poco informativa. Ogni prova protegge un requisito, un rischio o un contratto. I duplicati privi di valore aumentano manutenzione e falsi allarmi.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. Bisogno, requisito, vincolo e criterio di accettazione sono piani distinti. Senza criterio il requisito non è verificabile.</p>
+                        <p class="lead reveal d3">2. L’architettura si motiva con qualità e compromessi, non con il nome della forma. Coesione e accoppiamento si vedono da quali cambiamenti si propagano.</p>
+                        <p class="lead reveal d4">3. Verifica ≠ validazione. I livelli di test si completano; un caso di test ha precondizioni, input, atteso ed evidenza.</p>
+                        <p class="lead reveal d5">4. L’API è un contratto evolvibile. Compatibilità, idempotenza e versione si giudicano dal fruitore.</p>
+                        <p class="lead reveal d6">5. Interoperabilità PA ≠ API. Servono finalità, semantica, organizzazione e base dell’accesso, oltre all’endpoint.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 19</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Traccia operativa</p>
+                    <h2 class="h-display section-title reveal d1">Disegno essenziale di un’API</h2>
+                    <p class="lead reveal d2">Solo dopo queste decisioni un esempio di payload diventa utile. Asincrono non significa privo di risposta: può esserci conferma di ricezione o un’operazione per lo stato. Eventi richiedono schema, duplicati, ordine e correlazione.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Finalità</h3><p>Chi chiede che cosa, e perché.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Operazione</h3><p>Semantica, input minimo, output.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Errori ed effetti</h3><p>Classi distinte, idempotenza, retry.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Versione</h3><p>Contratto, test, evidenza.</p></div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 19</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">16 · Ruoli</p>
+                    <h2 class="h-display section-title reveal d1">Anche con un fornitore, le responsabilità restano esplicite</h2>
+                    <p class="lead reveal d2">Il committente definisce obiettivi e vincoli. Analisti precisano i requisiti; progettisti e sviluppatori costruiscono; i tester raccolgono evidenze; operations gestisce l’esercizio. Un responsabile di prodotto o servizio ordina priorità e accettazione.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Come funziona in prova</h3>
+                            <p>Una decisione architetturale collega una necessità a una conseguenza verificabile: test, metrica, prototipo o revisione. Senza criterio di verifica il disegno resta illustrativo. Si registra contesto, opzioni, scelta, motivazione e conseguenze.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Confine con altri capitoli</h3>
+                            <p>Programmazione nel 3, basi dati nel 4, HTTP come protocollo nel 5, cloud e CI/CD nel 7, IAM nel 9, governance semantica nel 10, SLA contrattuali nel 12.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>18 / 19</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">Cloud PA, virtualizzazione, container e DevOps</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">Il contratto è definito. Resta da scegliere dove gira, che cosa si isola, come si rilascia e come si ripristina. Cloud, macchina virtuale e container non sono sinonimi.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 07</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 19</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>

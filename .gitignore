@@ -35,3 +35,6 @@ artifacts/*.log
 
 # isolated feature worktrees
 .worktrees/
+
+# screenshot di QA delle slide (non vanno in GitHub)
+slides/**/qa/

@@ -1,0 +1,233 @@
+{
+  "volume": "VOL-07",
+  "volume_title": "Sanità amministrativa e professioni sanitarie",
+  "spec": "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/00-scheda-pipeline.md",
+  "order": "M-SA01, M-SA02, M-SA03, M-SA04 — 25 capitoli",
+  "chapters": [
+    {
+      "n": "01",
+      "module": "M-SA01",
+      "title": "Atti, procedimenti e flussi informativi nelle aziende sanitarie",
+      "source": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "folder": "01-atti-procedimenti-flussi-informativi",
+      "book_id": "m-sa01-sanita-amministrativa",
+      "status": "ready"
+    },
+    {
+      "n": "02",
+      "module": "M-SA01",
+      "title": "Documentazione sanitaria, accesso, privacy e conservazione",
+      "source": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "folder": "02-documentazione-accesso-conservazione",
+      "book_id": "m-sa01-sanita-amministrativa",
+      "status": "ready"
+    },
+    {
+      "n": "03",
+      "module": "M-SA01",
+      "title": "Front-office e comunicazione con l'utenza sanitaria",
+      "source": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "folder": "03-front-office-comunicazione-utenza",
+      "book_id": "m-sa01-sanita-amministrativa",
+      "status": "ready"
+    },
+    {
+      "n": "04",
+      "module": "M-SA01",
+      "title": "Contabilità, budget e controllo di gestione nelle aziende sanitarie",
+      "source": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "folder": "04-contabilita-budget-controllo-gestione",
+      "book_id": "m-sa01-sanita-amministrativa",
+      "status": "ready"
+    },
+    {
+      "n": "05",
+      "module": "M-SA01",
+      "title": "Procurement sanitario, farmaci, dispositivi e magazzino",
+      "source": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "folder": "05-procurement-farmaci-dispositivi-magazzino",
+      "book_id": "m-sa01-sanita-amministrativa",
+      "status": "ready"
+    },
+    {
+      "n": "06",
+      "module": "M-SA02",
+      "title": "Professioni sanitarie: profili, requisiti e prove",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "folder": "06-mappa-profili-e-prove",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "07",
+      "module": "M-SA02",
+      "title": "Discipline professionali: autonomia, responsabilità e deontologia",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "folder": "07-discipline-professionali-autonomia-responsabilita",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "08",
+      "module": "M-SA02",
+      "title": "Assistenza infermieristica, tecniche assistenziali e supporto OSS",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "folder": "08-assistenza-infermieristica-tecniche-assistenziali-oss",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "09",
+      "module": "M-SA02",
+      "title": "Valutazione clinica, triage, urgenza ed emergenza",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "folder": "09-valutazione-clinica-triage-urgenza-emergenza",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "10",
+      "module": "M-SA02",
+      "title": "Prevenzione, continuità assistenziale e presa in carico",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "folder": "10-prevenzione-continuita-presa-in-carico",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "11",
+      "module": "M-SA02",
+      "title": "Evidenze scientifiche, PICO, GRADE e applicabilità",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+      "folder": "11-evidenze-pico-grade-applicabilita",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "12",
+      "module": "M-SA02",
+      "title": "Igiene pubblica, epidemiologia, sorveglianza e screening",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "folder": "12-igiene-pubblica-epidemiologia-screening",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "13",
+      "module": "M-SA02",
+      "title": "Controlli TPALL, verbalizzazione, campionamento e sanzioni",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "folder": "13-controlli-tpall-verbalizzazione-campionamento-sanzioni",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "14",
+      "module": "M-SA02",
+      "title": "Prova pratica e casi professionali",
+      "source": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "folder": "14-prova-pratica-casi-professionali",
+      "book_id": "m-sa02-professioni-sanitarie",
+      "status": "ready"
+    },
+    {
+      "n": "15",
+      "module": "M-SA03",
+      "title": "Profili, requisiti e prove della dirigenza sanitaria",
+      "source": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "folder": "15-profili-requisiti-prove-dirigenza-sanitaria",
+      "book_id": "m-sa03-dirigenza-medica-sanitaria",
+      "status": "ready"
+    },
+    {
+      "n": "16",
+      "module": "M-SA03",
+      "title": "Programmazione sanitaria e organizzazione dei servizi",
+      "source": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+      "folder": "16-programmazione-sanitaria-organizzazione-servizi",
+      "book_id": "m-sa03-dirigenza-medica-sanitaria",
+      "status": "ready"
+    },
+    {
+      "n": "17",
+      "module": "M-SA03",
+      "title": "Linee guida, appropriatezza e decisioni cliniche",
+      "source": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md",
+      "folder": "17-linee-guida-appropriatezza-decisioni-cliniche",
+      "book_id": "m-sa03-dirigenza-medica-sanitaria",
+      "status": "ready"
+    },
+    {
+      "n": "18",
+      "module": "M-SA03",
+      "title": "Governo clinico, HTA, qualità, accreditamento e rischio",
+      "source": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "folder": "18-governo-clinico-hta-qualita-accreditamento-rischio",
+      "book_id": "m-sa03-dirigenza-medica-sanitaria",
+      "status": "ready"
+    },
+    {
+      "n": "19",
+      "module": "M-SA03",
+      "title": "Epidemiologia e sanità pubblica per la dirigenza",
+      "source": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+      "folder": "19-epidemiologia-sanita-pubblica-dirigenza",
+      "book_id": "m-sa03-dirigenza-medica-sanitaria",
+      "status": "ready"
+    },
+    {
+      "n": "20",
+      "module": "M-SA03",
+      "title": "Dirigenza medica: discipline e casi",
+      "source": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+      "folder": "20-dirigenza-medica-discipline-casi",
+      "book_id": "m-sa03-dirigenza-medica-sanitaria",
+      "status": "ready"
+    },
+    {
+      "n": "21",
+      "module": "M-SA03",
+      "title": "Dirigenza sanitaria non medica: discipline e casi",
+      "source": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "folder": "21-dirigenza-sanitaria-non-medica-discipline-casi",
+      "book_id": "m-sa03-dirigenza-medica-sanitaria",
+      "status": "ready"
+    },
+    {
+      "n": "22",
+      "module": "M-SA04",
+      "title": "TSLB e TSRM: profili, requisiti, prove e responsabilità",
+      "source": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+      "folder": "22-profili-tslb-tsrm-requisiti-prove-responsabilita",
+      "book_id": "m-sa04-tecnici-sanitari-prevenzione",
+      "status": "ready"
+    },
+    {
+      "n": "23",
+      "module": "M-SA04",
+      "title": "TSLB: processo di laboratorio, qualità e biosicurezza",
+      "source": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "folder": "23-tslb-processo-laboratorio-qualita-biosicurezza",
+      "book_id": "m-sa04-tecnici-sanitari-prevenzione",
+      "status": "ready"
+    },
+    {
+      "n": "24",
+      "module": "M-SA04",
+      "title": "TSRM: imaging, dosimetria e radioprotezione",
+      "source": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "folder": "24-tsrm-imaging-dosimetria-radioprotezione",
+      "book_id": "m-sa04-tecnici-sanitari-prevenzione",
+      "status": "ready"
+    },
+    {
+      "n": "25",
+      "module": "M-SA04",
+      "title": "Tecnologie, dispositivi, apparecchiature e rischio tecnologico",
+      "source": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "folder": "25-tecnologie-dispositivi-apparecchiature-rischio",
+      "book_id": "m-sa04-tecnici-sanitari-prevenzione",
+      "status": "ready"
+    }
+  ]
+}

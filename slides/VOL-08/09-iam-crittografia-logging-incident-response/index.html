@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VOL-08 · Capitolo 09 — IAM, crittografia, logging e incident response</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/capitale-personale.css">
+</head>
+<body data-edit-key="cp-vol08-09" data-volume="VOL-08" data-chapter="09" data-chapter-title="IAM, crittografia, logging e incident response" data-source="wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md">
+    <div class="edit-hotzone"></div>
+    <button class="edit-toggle" id="editToggle" title="Modifica (E)">Modifica</button>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage">
+
+            <section class="slide ancora active">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad">
+                    <p class="kicker reveal">VOL-08 · Capitolo 09</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <p class="cover-sub reveal d1">M-TR01</p>
+                    <h1 class="h-display cover-title reveal d2">IAM, crittografia, logging e incident response</h1>
+                    <p class="lead reveal d3" style="margin-top: 36px; max-width: 1200px;">Un servizio pubblico digitale è affidabile quando l’ente sa chi opera, che cosa può fare, quali tracce lascia e come reagire a un’anomalia. IAM, crittografia, logging e risposta all’incidente formano una catena, non quattro materie da elencare.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>Il Metodo BANDO</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">01 · Il problema in prova</p>
+                    <h2 class="h-display section-title reveal d1">IAM non è crittografia</h2>
+                    <p class="lead reveal d2">Il volume base tratta password, MFA e phishing. Qui si collega il ciclo di vita degli accessi, i privilegi, le chiavi, la rilevazione e la gestione di un incidente. Il capitolo 7 tratta continuità e disaster recovery; il 8 rischio e vulnerabilità; il 10 il governo del dato. Questo capitolo non fissa termini di notifica: dipendono da soggetto, caso e fonti ufficiali vigenti.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Che cos’è</h3>
+                            <p>IAM governa identità, account e privilegi. La crittografia protegge proprietà definite, se chiavi e secret sono governati. I log rendono osservabile il sistema. L’incident response coordina decisioni, continuità ed evidenze.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>A che serve in prova</h3>
+                            <p>A non trattare un login riuscito come autorizzazione; a non credere che un algoritmo robusto compensi un secret nel codice; a non confondere alert e incidente, né notifica cyber e data breach.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>02 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <div class="quote-mark reveal">“</div>
+                    <p class="quote-text reveal d1">Autenticare non significa autorizzare.</p>
+                    <hr class="gold-rule reveal d2" style="margin: 36px 0 24px;">
+                    <p class="lead reveal d3">Un login riuscito non prova il diritto a consultare una pratica o a disporre un pagamento. La MFA verifica il soggetto, non dimostra che il privilegio sia appropriato. L’identità rende attribuibile l’azione; l’autorizzazione la limita.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>03 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">02 · BANDO</p>
+                    <h2 class="h-display section-title reveal d1">Cinque decisioni su questo capitolo</h2>
+                    <p class="lead reveal d2">Ogni formula del bando si traduce in una domanda e in un output. Lo strumento è secondario rispetto a ruoli, evidenze e chiusura.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th></th><th>Che cosa fai</th><th>Se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>B — Bando</td><td>Cerca IAM, accessi, privilegi, crittografia, chiavi, logging, SIEM, incidente, CSIRT, NIS2.</td><td>Studi prodotti, non processi.</td></tr>
+                            <tr><td>A — Aree</td><td>Colleghi identità, autorizzazione, materiale crittografico, evidenze e risposta.</td><td>Fondi IAM e cifratura, o alert e incidente.</td></tr>
+                            <tr><td>N — Nuclei</td><td>Ciclo joiner-mover-leaver; AuthN/AuthZ; chiavi; triage; playbook; cyber ≠ privacy.</td><td>Disattivi «l’utente» e lasci sessioni e token attivi.</td></tr>
+                            <tr><td>D — Diario</td><td>Segna MFA come sicurezza completa, hash come cifratura, SIEM come soluzione.</td><td>Ripeti i tre automatismi all’orale.</td></tr>
+                            <tr><td>O — Output</td><td>Matrice ruolo-risorsa-permesso, checklist chiavi, matrice sorgente-evento, playbook e timeline.</td><td>Elenco di controlli senza sequenza.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>04 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">03 · Identità</p>
+                    <h2 class="h-display section-title reveal d1">Il ciclo di vita, non l’elenco account</h2>
+                    <p class="lead reveal d2">Un’identità digitale rappresenta una persona, un’applicazione, un servizio, un dispositivo o un workload. L’account è il contenitore operativo; la credenziale è un elemento associato; l’autenticatore dimostra il controllo; la sessione conserva l’esito. Disabilitare un account non revoca automaticamente sessioni, token, chiavi applicative o account amministrativi collegati.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Fase</th><th>Che cosa produce</th><th>Rischio se manca</th></tr></thead>
+                        <tbody>
+                            <tr><td>Joiner</td><td>Proofing, enrollment, provisioning di account e autorizzazioni.</td><td>Accessi senza titolare o senza evidenza.</td></tr>
+                            <tr><td>Mover</td><td>Nuovo ruolo e revoca di ciò che non serve più.</td><td>Accumulo di privilegi: è il passaggio più rischioso.</td></tr>
+                            <tr><td>Leaver</td><td>Deprovisioning, deleghe, caselle, dispositivi, fornitori.</td><td>Capacità tecniche attive senza responsabilità.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Nota</strong>
+                        <p>Gli account nominativi facilitano l’attribuzione. Quelli condivisi, se inevitabili, richiedono misure compensative e durata breve. Gli account di servizio hanno proprietario, scopo, privilegi minimi, scadenza e rotazione. Quelli di emergenza non sono scorciatoie permanenti.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>05 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">04 · Privilegi</p>
+                    <h2 class="h-display section-title reveal d1">Identificare, autenticare, autorizzare, registrare</h2>
+                    <p class="lead reveal d2">La MFA combina fattori indipendenti, non due copie dello stesso segreto. Due password non sono MFA. Nella federazione il servizio accetta un’asserzione, ma decide localmente quali operazioni autorizzare.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Modelli di autorizzazione</h3>
+                            <p>Nel RBAC i permessi sono associati a ruoli, utile per compiti stabili. Nell’ABAC la decisione usa attributi di soggetto, risorsa, azione e contesto, e dipende dalla qualità degli attributi. Un’ACL associa soggetti e permessi a una risorsa: risolve eccezioni, ma diventa ingestibile se sostituisce un modello. Deny by default: se nessuna regola consente, si nega. Il controllo sta lato servizio, non nel pulsante nascosto.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Minimo privilegio</h3>
+                            <p>Si assegna solo ciò che serve, per il tempo necessario. La separazione dei compiti evita che una persona svolga da sola attività incompatibili. Just-in-time e just-enough limitano durata e ampiezza. Un’eccezione senza scadenza diventa un ruolo parallelo. In un ufficio contributi l’istruttore aggiorna; l’approvazione appartiene a un responsabile diverso.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>06 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">05 · Crittografia</p>
+                    <h2 class="h-display section-title reveal d1">Protegge proprietà, non sostituisce l’IAM</h2>
+                    <p class="lead reveal d2">La cifratura del disco protegge il supporto quando esce dal sistema autorizzato; non impedisce a un account legittimo di leggere il dato. La cifratura del canale protegge il trasferimento, non un endpoint compromesso. Hash e cifratura non sono equivalenti.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Strumento</th><th>A che serve</th><th>Errore se lo scambi</th></tr></thead>
+                        <tbody>
+                            <tr><td>Cifratura simmetrica</td><td>Chiave condivisa; tutela soprattutto la riservatezza.</td><td>Non è «più debole» in assoluto.</td></tr>
+                            <tr><td>Cifratura asimmetrica</td><td>Coppia di chiavi, utile in scenari diversi.</td><td>Non è automaticamente più efficace.</td></tr>
+                            <tr><td>Hash</td><td>Impronta non reversibile.</td><td>Non è cifratura: non si «decifra».</td></tr>
+                            <tr><td>MAC / firma</td><td>Integrità e autenticità; la firma si verifica con la chiave pubblica.</td><td>Non sostituiscono gestione degli accessi.</td></tr>
+                            <tr><td>Certificato</td><td>Collega una chiave pubblica a un soggetto.</td><td>Scadenza e revoca interrompono integrazioni se non pianificate.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>07 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">06 · Chiavi</p>
+                    <h2 class="h-display section-title reveal d1">Rotazione non è revoca</h2>
+                    <p class="lead reveal d2">La sicurezza della chiave è parte della sicurezza del dato. Per ogni chiave, certificato o secret servono scopo, proprietario, custode, sistemi dipendenti, stato e scadenza. Un HSM o un servizio di key management riduce errori operativi, ma non decide da sé chi autorizza l’uso.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Ciclo di vita</h3>
+                            <p>Generazione, inventario, distribuzione, conservazione, uso, rotazione, revoca, eventuale recupero, archiviazione e distruzione. L’inventario registra riferimenti e dipendenze, non i valori segreti. Senza di esso la rotazione è una modifica rischiosa e la compromissione procede per tentativi.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Se un secret è esposto</h3>
+                            <p>Si capisce quali servizi dipendano da esso, si limita l’uso, si preservano evidenze, si valuta revoca o sostituzione, si distribuisce il nuovo materiale e si osservano i log. La rotazione sostituisce materiale ancora ritenuto affidabile; la revoca dichiara che non deve più essere accettato.</p>
+                        </div>
+                    </div>
+                    <div class="warn reveal d4">
+                        <strong>Attenzione</strong>
+                        <p>La pseudonimizzazione non coincide con la cifratura. Un algoritmo robusto non compensa un inventario assente o un secret inserito nel codice. Conservare lo stesso materiale troppo a lungo per timore del disservizio annulla la capacità di reagire.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>08 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">07 · Logging</p>
+                    <h2 class="h-display section-title reveal d1">Evento ≠ alert ≠ incidente</h2>
+                    <p class="lead reveal d2">Un evento è un fatto osservabile; un log è la sua registrazione; un audit trail ricostruisce attività rilevanti; un alert è una segnalazione da qualificare. Un alert non prova da solo l’esistenza di un incidente. Inserire password, token o dati personali non necessari nei log crea un nuovo rischio.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Elemento</th><th>Che cosa deve contenere</th><th>Se manca</th></tr></thead>
+                        <tbody>
+                            <tr><td>Record utile</td><td>Timestamp, identità o soggetto tecnico, azione, risorsa, esito, origine, correlazione.</td><td>La timeline diventa fragile.</td></tr>
+                            <tr><td>Integrità</td><td>Chi accede, configura, esporta; tracce di queste operazioni; privilegi separati.</td><td>Chi agisce può alterare la propria registrazione.</td></tr>
+                            <tr><td>SIEM</td><td>Raccoglie, normalizza e correla.</td><td>Non corregge log incompleti e non sostituisce l’analista.</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="note reveal d4">
+                        <strong>Triage</strong>
+                        <p>Separa fatti documentati e ipotesi. Chiarisce attendibilità, identità, privilegi, servizio, diffusione, dati e decisore. È preferibile dichiarare «origine da verificare» piuttosto che trasformare una correlazione in una certezza. La conservazione dipende da finalità, rischio e obblighi, non da una durata universale.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>09 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">08 · Sequenza</p>
+                    <h2 class="h-display section-title reveal d1">Dall’identità alla chiusura</h2>
+                    <p class="lead reveal d2">Il confine con il capitolo 8 è netto: lì si costruiscono scenario e trattamento; qui si applicano a identità, chiavi, log e gestione dell’evento. Il confine con il 7 riguarda il ripristino: la continuità rende possibile tornare operativi, la risposta decide come farlo senza perdere evidenze e causa.</p>
+                    <div class="map reveal d3">
+                        <div class="node"><h3>Identità</h3><p>Chi è, per quale scopo, fino a quando. Joiner, mover, leaver con evidenza.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Autorizzazione</h3><p>Che cosa può fare, lato servizio, con minimo privilegio e deny by default.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Chiavi e log</h3><p>Proprietà protette, materiale governato, segnali qualificabili.</p></div>
+                        <div class="arrow">→</div>
+                        <div class="node"><h3>Risposta</h3><p>Triage, contenimento, recupero, comunicazione, apprendimento.</p></div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>10 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">09 · Incident response</p>
+                    <h2 class="h-display section-title reveal d1">La risposta inizia prima dell’incidente</h2>
+                    <p class="lead reveal d2">Policy, contatti, ruoli, accessi di emergenza, logging e prove di coordinamento fanno parte della preparazione. Isolare un sistema può preservare sicurezza ma interrompere un servizio essenziale o modificare evidenze: serve un responsabile e una motivazione registrata.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Fase</th><th>Che cosa fai</th><th>Errore se la salti</th></tr></thead>
+                        <tbody>
+                            <tr><td>Analisi</td><td>Perimetro, vettore plausibile, identità, privilegi, sistemi, dati, timeline.</td><td>Contieni a caso e distruggi prove.</td></tr>
+                            <tr><td>Contenimento</td><td>Limiti danno e propagazione: sessioni, account, isolamento.</td><td>Reazione automatica senza impatto sul servizio.</td></tr>
+                            <tr><td>Eradicazione</td><td>Rimuovi causa e persistenza.</td><td>Ripristini con la stessa credenziale compromessa.</td></tr>
+                            <tr><td>Recupero</td><td>Verifichi identità, configurazioni, integrità, chiavi, dipendenze, monitoraggio.</td><td>Backup e replica non garantiscono dati affidabili.</td></tr>
+                            <tr><td>Chiusura</td><td>Servizio stabile, evidenze custodite, azioni residue, lesson learned.</td><td>Chiudere appena il servizio torna disponibile.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>11 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">10 · PA</p>
+                    <h2 class="h-display section-title reveal d1">Incidente cyber ≠ data breach</h2>
+                    <p class="lead reveal d2">Il d.lgs. 138/2024 recepisce la direttiva NIS2. ACN esercita le funzioni nazionali attribuite; CSIRT Italia opera nel sistema di gestione degli incidenti. Il candidato verifica inquadramento, significatività e procedure applicabili. Non trasforma un riferimento tecnico volontario, come NIST, in un obbligo generale della PA.</p>
+                    <div class="grid-2">
+                        <div class="card reveal d3">
+                            <h3>Due perimetri</h3>
+                            <p>L’incidente cyber riguarda un evento che può compromettere sicurezza o continuità. La violazione di dati personali richiede una valutazione specifica sul trattamento e sui rischi per le persone. Una stessa evidenza può interessare team tecnico, responsabile del servizio e funzione privacy, ma le decisioni non coincidono automaticamente.</p>
+                        </div>
+                        <div class="card reveal d4">
+                            <h3>Notifica e gestione</h3>
+                            <p>La notifica, quando dovuta, è un esito di valutazioni documentate: non sostituisce contenimento, recupero e comunicazione interna. In orale è prudente dire: verificherei perimetro del soggetto, natura e significatività, attivando in modo distinto le valutazioni cyber e privacy sulle fonti vigenti.</p>
+                        </div>
+                    </div>
+                    <div class="warn reveal d4">
+                        <strong>Attenzione</strong>
+                        <p>Non inventare soglie, canali o termini operativi. Il playbook consulta testo vigente, istruzioni ACN applicabili e valutazione privacy competente. Il vertice non può delegare tutta la governance alla sola funzione tecnica.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>12 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">11 · Caso guidato</p>
+                    <h2 class="h-display section-title reveal d1">Account privilegiato compromesso</h2>
+                    <p class="lead reveal d2">Alle 08:20 l’identity provider segnala l’accesso di un amministratore da una sorgente insolita. Poco dopo l’applicazione registra un’esportazione anomala; il titolare nega di essere operativo.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Ora</th><th>Fatto o decisione</th></tr></thead>
+                        <tbody>
+                            <tr><td>08:20</td><td>Alert IdP: si aprono triage e conservazione di log, con orologi allineati.</td></tr>
+                            <tr><td>08:27</td><td>Esportazione confermata dai log applicativi: si eleva la severità e si attivano i referenti.</td></tr>
+                            <tr><td>08:35</td><td>Il titolare nega l’accesso: si revocano sessioni e si sospende l’account, controllando token, recupero e account tecnici.</td></tr>
+                            <tr><td>Dopo</td><td>Si cercano modifiche ai privilegi e persistenze; il servizio valuta l’impatto; la privacy valuta separatamente l’eventuale violazione. Recupero con rotazione, privilegi minimi e monitoraggio rafforzato. Riesame: elevazione temporanea, revoca centralizzata, esercitazioni.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>13 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">12 · Verifica</p>
+                    <h2 class="h-display section-title reveal d1">Due domande da saper spiegare</h2>
+                    <div class="grid-2">
+                        <div class="card reveal d2">
+                            <div class="num">Commissario</div>
+                            <h3 style="margin-top:16px;">Come imposteresti la risposta alla compromissione di un account privilegiato?</h3>
+                            <p>Validerei il segnale e preserverei le evidenze; identificherei account, sessioni, privilegi, sistemi e dati; valuterei impatto e propagazione; attiverei i ruoli. Conterrei senza distruggere evidenze, rimuoverei causa e persistenze, ruoterei il materiale e ripristinerei con monitoraggio rafforzato. Chiuderei con timeline, azioni assegnate e lesson learned.</p>
+                        </div>
+                        <div class="card reveal d3">
+                            <div class="num">Trappola</div>
+                            <h3 style="margin-top:16px;">Una notifica cyber coincide sempre con un data breach?</h3>
+                            <p>No. I presupposti possono concorrere ma restano distinti. Il caso richiede valutazioni documentate e fonti ufficiali vigenti. Un login riuscito, analogamente, non dimostra il diritto di approvare una pratica.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>14 / 18</span></div>
+            </section>
+
+            <section class="slide pearl">
+                <div class="pad">
+                    <p class="kicker reveal">13 · Distinzioni</p>
+                    <h2 class="h-display section-title reveal d1">Sei quiz da tenere fermi</h2>
+                    <table class="dense reveal d2">
+                        <thead><tr><th>Domanda</th><th>Risposta</th><th>Perché</th></tr></thead>
+                        <tbody>
+                            <tr><td>Login riuscito = può approvare?</td><td>No</td><td>Autenticazione ≠ autorizzazione verificata dal servizio.</td></tr>
+                            <tr><td>Due password sono MFA?</td><td>No</td><td>I fattori devono essere indipendenti.</td></tr>
+                            <tr><td>Hash e cifratura equivalenti?</td><td>No</td><td>L’hash è un’impronta non reversibile.</td></tr>
+                            <tr><td>Alert = incidente?</td><td>No</td><td>È un segnale da qualificare prima dell’escalation.</td></tr>
+                            <tr><td>Revoca = rotazione?</td><td>No</td><td>La revoca dichiara la non validità del materiale.</td></tr>
+                            <tr><td>Cambio di ruolo: due azioni extra?</td><td>Revoca del vecchio ambito e verifica di sessioni, token, deleghe e account tecnici</td><td>Assegnare i nuovi permessi non basta.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>15 / 18</span></div>
+            </section>
+
+            <section class="slide ivory">
+                <div class="pad">
+                    <p class="kicker reveal">14 · Playbook</p>
+                    <h2 class="h-display section-title reveal d1">Campi da compilare prima dell’evento</h2>
+                    <p class="lead reveal d2">Un playbook mai provato contiene passaggi ambigui scoperti quando il tempo è scarso. Il fornitore può dare dati o intervenire su un componente; l’ente mantiene la visione delle conseguenze. Gli SLA dettagliati restano nel capitolo 12.</p>
+                    <table class="dense reveal d3">
+                        <thead><tr><th>Campo</th><th>Domanda</th></tr></thead>
+                        <tbody>
+                            <tr><td>Trigger</td><td>Quale evidenza avvia il triage?</td></tr>
+                            <tr><td>Severità</td><td>Quali servizio, privilegi, dati e diffusione sono coinvolti?</td></tr>
+                            <tr><td>Coordinatore</td><td>Chi mantiene decisioni e quadro di situazione?</td></tr>
+                            <tr><td>Escalation</td><td>Piani tecnico, servizio, privacy e istituzionale da valutare?</td></tr>
+                            <tr><td>Recupero e chiusura</td><td>Quali condizioni permettono il rientro? Quali evidenze confermano la stabilità?</td></tr>
+                        </tbody>
+                    </table>
+                    <div class="warn reveal d4">
+                        <strong>Errore tipico</strong>
+                        <p>Affidarsi a un solo controllo: una MFA con recupero debole, una cifratura con chiave esposta o un SIEM alimentato da log incompleti danno un falso senso di sicurezza.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>16 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <div class="pad">
+                    <p class="kicker reveal">15 · Da tenere ferme</p>
+                    <h2 class="h-display section-title reveal d1">Cinque regole, con il perché</h2>
+                    <div class="stack" style="max-width: 1580px;">
+                        <p class="lead reveal d2">1. IAM governa identità, account e privilegi lungo il ciclo di vita; non è un elenco di utenze né coincide con la crittografia.</p>
+                        <p class="lead reveal d3">2. Autenticare non significa autorizzare; la MFA verifica il soggetto, non l’appropriatezza del privilegio.</p>
+                        <p class="lead reveal d4">3. La crittografia protegge proprietà definite solo se chiavi, certificati e secret sono inventariati, ruotati e, se serve, revocati.</p>
+                        <p class="lead reveal d5">4. I log sono utili quando completi, coerenti e protetti; un alert apre una verifica, non chiude un incidente.</p>
+                        <p class="lead reveal d6">5. Incident response coordina triage, contenimento, recupero, comunicazione e apprendimento; incidente cyber e violazione di dati personali restano valutazioni distinte.</p>
+                    </div>
+                </div>
+                <div class="foot"><span>Capitale Personale · VOL-08</span><span>17 / 18</span></div>
+            </section>
+
+            <section class="slide ancora">
+                <img class="brand-logo" src="../../assets/logo.png" alt="Capitale Personale">
+                <div class="pad" style="display:flex; flex-direction:column; justify-content:center;">
+                    <p class="kicker reveal">Prossimo capitolo</p>
+                    <hr class="gold-rule reveal d1" style="margin: 28px 0 36px;">
+                    <h2 class="h-display reveal d2" style="font-size: 64px; max-width: 1500px;">Data governance, open data, interoperabilità e qualità</h2>
+                    <p class="lead reveal d3" style="max-width: 1100px;">Accessi e tracce sono in ordine. Resta da governare il significato del dato: chi decide, chi cura, che cosa si può aprire e che cosa si può soltanto scambiare.</p>
+                </div>
+                <div class="foot"><span>Capitale Personale</span><span>VOL-08 · Capitolo 10</span></div>
+            </section>
+
+        </main>
+    </div>
+    <nav class="deck-controls" aria-label="Avanzamento">
+        <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+        <span class="page-count" id="pageCount">01 / 18</span>
+    </nav>
+    <script src="../../assets/deck.js"></script>
+</body>
+</html>
