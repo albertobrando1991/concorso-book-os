@@ -16,12 +16,17 @@ import {
   type BookStudioChapter,
   type MarkdownBlock
 } from "./book-preview"
+import {
+  buildStudentSlideDecks,
+  compileStudentSlideDeckFile,
+  type IntegrationSlideDeck
+} from "./book-slide-decks"
 
 export const INTEGRATION_BUNDLE_SCHEMA_VERSION = "book-os-integration-bundle/v1" as const
 export const INTEGRATION_BLOCKS_FORMAT = "book-os-blocks/v1" as const
 
 export type IntegrationBundleChannel = "candidate" | "release"
-export type IntegrationAssetKind = "image-master" | "image-render"
+export type IntegrationAssetKind = "image-master" | "image-render" | "slide-deck"
 
 export interface IntegrationCatalogModule {
   code: string
@@ -83,7 +88,7 @@ export interface IntegrationAsset {
   kind: IntegrationAssetKind
   sourcePaths: string[]
   bundlePath: string
-  mimeType: "image/png" | "image/svg+xml"
+  mimeType: "image/png" | "image/svg+xml" | "text/html"
   sizeBytes: number
   sha256: string
 }
@@ -124,7 +129,7 @@ export interface BookIntegrationBundleV1 {
   media: {
     video: string[]
     audio: string[]
-    slides: string[]
+    slides: IntegrationSlideDeck[]
     renders: string[]
   }
   gate: {
@@ -194,6 +199,13 @@ export async function buildBookIntegrationBundle(
   const { assets, sourceAssets } = await buildAssets(store, consumerChapters)
   const chapters = await Promise.all(consumerChapters.map((chapter) => buildContentUnit(store, chapter, sourceAssets, volume)))
   assertUniqueUnitIds(chapters)
+  const slideDecks = await buildStudentSlideDecks({
+    projectRoot,
+    volumeCode: volume.code,
+    chapters,
+    ignoredSourcePaths: volume.code === "VOL-01" ? [`wiki/${DIGITAL_INTRODUCTION_SOURCE}`] : []
+  })
+  const integrationAssets = [...assets, ...slideDecks.assets].sort((left, right) => left.bundlePath.localeCompare(right.bundlePath))
 
   const frontMatter: IntegrationContentUnit[] = []
   const mainChapters = chapters.filter((unit) => unit.scope === "main")
@@ -214,11 +226,11 @@ export async function buildBookIntegrationBundle(
       frontMatter,
       chapters
     },
-    assets,
+    assets: integrationAssets,
     media: {
       video: [] as string[],
       audio: [] as string[],
-      slides: [] as string[],
+      slides: slideDecks.slides,
       renders: assets.filter((asset) => asset.kind === "image-render").map((asset) => asset.id).sort()
     }
   }
@@ -277,8 +289,9 @@ export async function writeBookIntegrationBundle(
 
   for (const asset of bundle.assets) {
     const destination = safeOutputPath(output, asset.bundlePath)
-    const source = safeProjectPath(path.join(root, "wiki"), asset.sourcePaths[0])
-    const bytes = await readFile(source)
+    const bytes = asset.kind === "slide-deck"
+      ? (await compileStudentSlideDeckFile(root, asset.sourcePaths[0])).bytes
+      : await readFile(safeProjectPath(path.join(root, "wiki"), asset.sourcePaths[0]))
 
     if (sha256(bytes) !== asset.sha256) {
       throw new Error(`Hash asset cambiato durante l'export: ${asset.sourcePaths[0]}.`)
@@ -369,13 +382,37 @@ export function validateBookIntegrationBundle(bundle: unknown): string[] {
   const assetsById = new Map<string, IntegrationAsset>()
 
   for (const asset of value.assets || []) {
-    if (!asset.sourcePaths.every((sourcePath) => isSafeAssetSourcePath(sourcePath))) {
+    if (!asset.sourcePaths.every((sourcePath) => isSafeAssetSourcePath(sourcePath, asset.kind))) {
       issues.push(`Asset path non sicuro: ${asset.sourcePaths.join(", ")}.`)
+    }
+    if (asset.kind === "slide-deck") {
+      if (asset.mimeType !== "text/html" || !/^assets\/[0-9a-f]{64}\.html$/.test(asset.bundlePath)) {
+        issues.push(`Formato asset slide non valido: ${asset.id}.`)
+      }
+    } else if (
+      !["image/png", "image/svg+xml"].includes(asset.mimeType)
+      || !/^assets\/[0-9a-f]{64}\.(png|svg)$/.test(asset.bundlePath)
+    ) {
+      issues.push(`Formato asset immagine non valido: ${asset.id}.`)
     }
     if (!/^[0-9a-f]{64}$/.test(asset.sha256)) issues.push(`Hash asset non valido: ${asset.id}.`)
     if (asset.id !== `sha256:${asset.sha256}`) issues.push(`ID asset non corrispondente: ${asset.id}.`)
     if (assetsById.has(asset.id)) issues.push(`ID asset duplicato: ${asset.id}.`)
     assetsById.set(asset.id, asset)
+  }
+
+  const slideChapterIds = new Set<string>()
+  for (const slide of value.media?.slides || []) {
+    const asset = assetsById.get(slide.assetId)
+    if (!unitIds.has(slide.chapterId)) issues.push(`Capitolo slide mancante: ${slide.chapterId}.`)
+    if (slideChapterIds.has(slide.chapterId)) issues.push(`Deck slide duplicato per ${slide.chapterId}.`)
+    slideChapterIds.add(slide.chapterId)
+    if (!asset || asset.kind !== "slide-deck" || asset.mimeType !== "text/html") {
+      issues.push(`Asset deck slide non risolto per ${slide.chapterId}.`)
+    }
+    if (!Number.isInteger(slide.slideCount) || slide.slideCount < 1 || slide.slideCount > 100) {
+      issues.push(`Conteggio slide non valido per ${slide.chapterId}.`)
+    }
   }
 
   for (const unit of units) {
@@ -823,7 +860,10 @@ function assertLocalImagePath(value: string) {
   return normalized
 }
 
-function isSafeAssetSourcePath(value: string) {
+function isSafeAssetSourcePath(value: string, kind: IntegrationAssetKind) {
+  if (kind === "slide-deck") {
+    return /^(?:slides\/VOL-(0[1-9]|1[0-2])\/\d{2}-[a-z0-9][a-z0-9-]*\/(?:index\.html|images\/[a-zA-Z0-9._-]+)|slides\/assets\/(?:capitale-personale\.css|logo\.png))$/.test(value)
+  }
   try {
     return assertLocalImagePath(value) === value
   } catch {

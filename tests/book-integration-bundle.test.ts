@@ -102,12 +102,20 @@ describe("Book OS integration bundle v1", () => {
     ]))
 
     expect(first.assets.length).toBeGreaterThan(0)
-    expect(first.assets.every((asset) => ["image/png", "image/svg+xml"].includes(asset.mimeType))).toBe(true)
+    expect(first.assets.some((asset) => asset.kind === "slide-deck" && asset.mimeType === "text/html")).toBe(true)
+    expect(first.assets.filter((asset) => asset.kind !== "slide-deck")
+      .every((asset) => ["image/png", "image/svg+xml"].includes(asset.mimeType))).toBe(true)
     expect(first.assets.every((asset) => asset.sourcePaths.every((sourcePath) => !sourcePath.includes("..")))).toBe(true)
     expect(first.assets.every((asset) => asset.sourcePaths.every((sourcePath) => !sourcePath.includes("/front-matter/")))).toBe(true)
     expect(first.media.video).toEqual([])
     expect(first.media.audio).toEqual([])
-    expect(first.media.slides).toEqual([])
+    expect(first.media.slides).toHaveLength(24)
+    expect(first.media.slides.every((slide) =>
+      slide.assetId.startsWith("sha256:")
+      && slide.slideCount >= 16
+      && first.volume.chapters.some((chapter) => chapter.id === slide.chapterId)
+      && first.assets.some((asset) => asset.id === slide.assetId && asset.kind === "slide-deck")
+    )).toBe(true)
     expect(first.media.renders.length).toBeGreaterThan(0)
 
     const imageBlocks = [...first.volume.frontMatter, ...first.volume.chapters]
@@ -127,7 +135,8 @@ describe("Book OS integration bundle v1", () => {
           ? [sourcePath, `${sourcePath.slice(0, -4)}.svg`]
           : [sourcePath]
       }))
-    expect(first.assets.every((asset) => asset.sourcePaths.every((sourcePath) => referencedConsumerAssets.has(sourcePath)))).toBe(true)
+    expect(first.assets.filter((asset) => asset.kind !== "slide-deck")
+      .every((asset) => asset.sourcePaths.every((sourcePath) => referencedConsumerAssets.has(sourcePath)))).toBe(true)
 
     expect(first.gate.releaseEligible).toBe(false)
     expect(first.gate.blockers.map((blocker) => blocker.code)).toEqual(expect.arrayContaining([
@@ -164,6 +173,7 @@ describe("Book OS integration bundle v1", () => {
     expect(bundle.volume.introduction.summary).not.toBe("")
     expect(bundle.volume.introduction.topics.length).toBeGreaterThan(0)
     expect(bundle.gate.releaseEligible).toBe(false)
+    expect(bundle.media.slides.length).toBeGreaterThan(0)
     expect(validateBookIntegrationBundle(bundle)).toEqual([])
   }, 120_000)
 
@@ -200,6 +210,13 @@ describe("Book OS integration bundle v1", () => {
     changedContent.volume.chapters[0].blocks.push({ type: "paragraph", text: "manomissione" })
     expect(validateBookIntegrationBundle(changedContent)).toContain(
       `contentHash non corrispondente per ${changedContent.volume.chapters[0].id}.`
+    )
+
+    const missingSlideAsset = structuredClone(original)
+    const firstSlide = missingSlideAsset.media.slides[0]
+    missingSlideAsset.assets = missingSlideAsset.assets.filter((asset) => asset.id !== firstSlide.assetId)
+    expect(validateBookIntegrationBundle(missingSlideAsset)).toContain(
+      `Asset deck slide non risolto per ${firstSlide.chapterId}.`
     )
 
     const missingIntroduction = structuredClone(original) as Omit<typeof original, "volume"> & {
