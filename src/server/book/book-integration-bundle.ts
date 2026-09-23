@@ -21,6 +21,11 @@ import {
   compileStudentSlideDeckFile,
   type IntegrationSlideDeck
 } from "./book-slide-decks"
+import {
+  assertValidBookCoverageManifest,
+  buildBookCoverageManifest,
+  stableStringify as stableStringifyCoverage
+} from "./book-coverage-manifest"
 
 export const INTEGRATION_BUNDLE_SCHEMA_VERSION = "book-os-integration-bundle/v1" as const
 export const INTEGRATION_BLOCKS_FORMAT = "book-os-blocks/v1" as const
@@ -285,7 +290,18 @@ export async function writeBookIntegrationBundle(
   const bundleText = `${stableStringify(bundle, 2)}\n`
   await writeFile(path.join(output, "bundle.json"), bundleText, "utf8")
 
-  const checksumRows: string[] = [`${sha256(bundleText)}  bundle.json`]
+  const coverageManifest = buildBookCoverageManifest({
+    repository: bundle.source.repository,
+    sourceSha: bundle.source.commit
+  })
+  assertValidBookCoverageManifest(coverageManifest)
+  const coverageText = `${stableStringifyCoverage(coverageManifest, 2)}\n`
+  await writeFile(path.join(output, "coverage-manifest.json"), coverageText, "utf8")
+
+  const checksumRows: string[] = [
+    `${sha256(bundleText)}  bundle.json`,
+    `${sha256(coverageText)}  coverage-manifest.json`
+  ]
 
   for (const asset of bundle.assets) {
     const destination = safeOutputPath(output, asset.bundlePath)
@@ -307,7 +323,10 @@ export async function writeBookIntegrationBundle(
   return {
     outputDirectory: output,
     bundlePath: path.join(output, "bundle.json"),
-    bundleFileSha256: sha256(bundleText)
+    bundleFileSha256: sha256(bundleText),
+    coverageManifestPath: path.join(output, "coverage-manifest.json"),
+    coverageManifestDigest: coverageManifest.manifestDigest,
+    coverageManifestFileSha256: sha256(coverageText)
   }
 }
 

@@ -30,6 +30,7 @@ async function main() {
     bundleId: bundle.bundleId,
     bundleDigest: bundle.bundleDigest,
     contentDigest: bundle.contentDigest,
+    coverageManifestDigest: written.coverageManifestDigest,
     channel: bundle.channel,
     releaseEligible: bundle.gate.releaseEligible,
     blockers: bundle.gate.blockers,

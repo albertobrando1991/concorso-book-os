@@ -38,7 +38,7 @@ jobs:
       - name: Install locked dependencies
         run: npm ci
       - name: Run integration contract tests
-        run: npm test -- --run tests/book-integration-bundle.test.ts tests/book-preview.test.ts tests/text-volumes.test.ts
+        run: npm test -- --run tests/book-coverage-manifest.test.ts tests/book-integration-bundle.test.ts tests/book-preview.test.ts tests/text-volumes.test.ts
       - name: Typecheck
         run: npm run typecheck
 
@@ -85,7 +85,9 @@ jobs:
           const fs = require("node:fs")
           const path = require("node:path")
           const bundlePath = path.join(process.env.BUNDLE_DIR, "bundle.json")
+          const coveragePath = path.join(process.env.BUNDLE_DIR, "coverage-manifest.json")
           const bundle = JSON.parse(fs.readFileSync(bundlePath, "utf8"))
+          const coverage = JSON.parse(fs.readFileSync(coveragePath, "utf8"))
           if (bundle.schemaVersion !== "book-os-integration-bundle/v1") throw new Error("Unexpected bundle schemaVersion")
           if (bundle.channel !== "candidate") throw new Error("Unexpected bundle channel")
           if (bundle.source.commit !== process.env.GITHUB_SHA) throw new Error("Bundle source SHA mismatch")
@@ -93,12 +95,19 @@ jobs:
           if (!/^[0-9a-f]{64}$/.test(bundle.bundleDigest)) throw new Error("Invalid bundle digest")
           if (!/^[0-9a-f]{64}$/.test(bundle.contentDigest)) throw new Error("Invalid content digest")
           if (fs.statSync(bundlePath).size > 25 * 1024 * 1024) throw new Error("bundle.json exceeds 25 MiB")
+          if (fs.statSync(coveragePath).size > 5 * 1024 * 1024) throw new Error("coverage-manifest.json exceeds 5 MiB")
           if (bundle.assets.some((asset) => asset.sizeBytes > 25 * 1024 * 1024)) throw new Error("An asset exceeds 25 MiB")
-          const declaredBytes = fs.statSync(bundlePath).size + bundle.assets.reduce((sum, asset) => sum + asset.sizeBytes, 0)
+          const declaredBytes = fs.statSync(bundlePath).size + fs.statSync(coveragePath).size + bundle.assets.reduce((sum, asset) => sum + asset.sizeBytes, 0)
           if (declaredBytes > 250 * 1024 * 1024) throw new Error("Bundle exceeds 250 MiB uncompressed")
+          if (coverage.schemaVersion !== "book-os-coverage/v1") throw new Error("Unexpected coverage schemaVersion")
+          if (coverage.source?.commit !== process.env.GITHUB_SHA) throw new Error("Coverage source SHA mismatch")
+          if (coverage.source?.repository !== bundle.source.repository) throw new Error("Coverage repository mismatch")
+          if (!/^[0-9a-f]{64}$/.test(coverage.manifestDigest)) throw new Error("Invalid coverage manifest digest")
           process.stdout.write(`schema_version=${bundle.schemaVersion}\n`)
           process.stdout.write(`bundle_digest=${bundle.bundleDigest}\n`)
           process.stdout.write(`content_digest=${bundle.contentDigest}\n`)
+          process.stdout.write(`coverage_schema_version=${coverage.schemaVersion}\n`)
+          process.stdout.write(`coverage_manifest_digest=${coverage.manifestDigest}\n`)
           NODE
       - name: Upload candidate artifact
         uses: actions/upload-artifact@v4
@@ -131,6 +140,8 @@ jobs:
           SCHEMA_VERSION: ${{ steps.bundle.outputs.schema_version }}
           BUNDLE_DIGEST: ${{ steps.bundle.outputs.bundle_digest }}
           CONTENT_DIGEST: ${{ steps.bundle.outputs.content_digest }}
+          COVERAGE_SCHEMA_VERSION: ${{ steps.bundle.outputs.coverage_schema_version }}
+          COVERAGE_MANIFEST_DIGEST: ${{ steps.bundle.outputs.coverage_manifest_digest }}
         run: |
           set -euo pipefail
           node <<'NODE'
@@ -145,6 +156,10 @@ jobs:
             volumeCode: process.env.VOLUME_CODE,
             bundleDigest: process.env.BUNDLE_DIGEST,
             contentDigest: process.env.CONTENT_DIGEST,
+            coverage: {
+              schemaVersion: process.env.COVERAGE_SCHEMA_VERSION,
+              manifestDigest: process.env.COVERAGE_MANIFEST_DIGEST
+            },
             channel: "candidate"
           })
           const signature = createHmac("sha256", process.env.WEBHOOK_SECRET).update(payload).digest("hex")
