@@ -1,0 +1,147 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://concorso-book-os.local/schemas/book-os-coverage-v1.schema.json",
+  "title": "Book OS coverage manifest v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "manifestId",
+    "manifestDigest",
+    "taxonomyVersion",
+    "source",
+    "catalogDigest",
+    "registryDigest",
+    "catalog",
+    "coverage"
+  ],
+  "properties": {
+    "schemaVersion": { "const": "book-os-coverage/v1" },
+    "manifestId": { "type": "string", "pattern": "^book-os-coverage/v1:[0-9a-f]{40}$" },
+    "manifestDigest": { "$ref": "#/$defs/sha256" },
+    "taxonomyVersion": { "const": "concorso-book/12-volumes-25-modules/2026-07-14" },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["repository", "commit"],
+      "properties": {
+        "repository": { "type": "string", "minLength": 1 },
+        "commit": { "type": "string", "pattern": "^[0-9a-f]{40}$" }
+      }
+    },
+    "catalogDigest": { "$ref": "#/$defs/sha256" },
+    "registryDigest": { "$ref": "#/$defs/sha256" },
+    "catalog": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["volumeCount", "moduleCount", "volumes"],
+      "properties": {
+        "volumeCount": { "const": 12 },
+        "moduleCount": { "const": 25 },
+        "volumes": {
+          "type": "array",
+          "minItems": 12,
+          "maxItems": 12,
+          "items": { "$ref": "#/$defs/catalogVolume" }
+        }
+      }
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["rowCount", "eligibleRowCount", "rows"],
+      "properties": {
+        "rowCount": { "type": "integer", "minimum": 0 },
+        "eligibleRowCount": { "type": "integer", "minimum": 0 },
+        "rows": { "type": "array", "items": { "$ref": "#/$defs/coverageRow" } }
+      }
+    }
+  },
+  "$defs": {
+    "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "nullableDateTime": {
+      "anyOf": [
+        { "type": "string", "format": "date-time" },
+        { "type": "null" }
+      ]
+    },
+    "catalogVolume": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["code", "title", "shortTitle", "modules", "bookIds"],
+      "properties": {
+        "code": { "type": "string", "pattern": "^VOL-[0-9]{2}$" },
+        "title": { "type": "string", "minLength": 1 },
+        "shortTitle": { "type": "string", "minLength": 1 },
+        "modules": { "type": "array", "items": { "type": "string", "pattern": "^M-[A-Z]{2}[0-9]{2}$" } },
+        "bookIds": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
+      }
+    },
+    "coverageRow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "volumeCode",
+        "moduleCodes",
+        "subject",
+        "subjectSlugs",
+        "concepts",
+        "profileScope",
+        "examOutputs",
+        "depth",
+        "status",
+        "chapterRefs",
+        "exclusions",
+        "sourceRefs",
+        "verifiedAt",
+        "validAsOf",
+        "reviewStatus"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+        "volumeCode": { "type": "string", "pattern": "^VOL-[0-9]{2}$" },
+        "moduleCodes": { "type": "array", "items": { "type": "string", "pattern": "^M-[A-Z]{2}[0-9]{2}$" } },
+        "subject": { "type": "string", "minLength": 1 },
+        "subjectSlugs": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "uniqueItems": true
+        },
+        "concepts": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "profileScope": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "examOutputs": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "depth": { "enum": ["orientation", "essential", "advanced"] },
+        "status": { "enum": ["verified", "partial", "planned", "unverified"] },
+        "chapterRefs": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "exclusions": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "sourceRefs": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "verifiedAt": { "$ref": "#/$defs/nullableDateTime" },
+        "validAsOf": { "$ref": "#/$defs/nullableDateTime" },
+        "reviewStatus": { "enum": ["approved", "pending", "rejected"] }
+      },
+      "allOf": [
+        {
+          "if": {
+            "required": ["status", "reviewStatus"],
+            "properties": {
+              "status": { "const": "verified" },
+              "reviewStatus": { "const": "approved" }
+            }
+          },
+          "then": {
+            "properties": {
+              "subjectSlugs": { "minItems": 1 },
+              "profileScope": { "minItems": 1 },
+              "examOutputs": { "minItems": 1 },
+              "chapterRefs": { "minItems": 1 },
+              "sourceRefs": { "minItems": 1 },
+              "verifiedAt": { "type": "string", "format": "date-time" },
+              "validAsOf": { "type": "string", "format": "date-time" }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

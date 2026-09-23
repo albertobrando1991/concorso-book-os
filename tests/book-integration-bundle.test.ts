@@ -1,4 +1,5 @@
-import { readFile } from "node:fs/promises"
+import { mkdtemp, readFile, rm } from "node:fs/promises"
+import os from "node:os"
 import path from "node:path"
 import { beforeAll, describe, expect, it } from "vitest"
 import {
@@ -6,7 +7,8 @@ import {
   IntegrationReleaseBlockedError,
   buildBookIntegrationBundle,
   stableStringify,
-  validateBookIntegrationBundle
+  validateBookIntegrationBundle,
+  writeBookIntegrationBundle
 } from "@/src/server/book/book-integration-bundle"
 import { buildBookStudioData, normalizeAssetPath } from "@/src/server/book/book-preview"
 import { FileWikiStore } from "@/src/server/wiki/file-store"
@@ -236,6 +238,34 @@ describe("Book OS integration bundle v1", () => {
     expect(schema.properties.schemaVersion.const).toBe(INTEGRATION_BUNDLE_SCHEMA_VERSION)
   })
 
+  it("writes the coverage manifest as a checksummed sidecar without changing bundle v1", async () => {
+    const output = await mkdtemp(path.join(os.tmpdir(), "book-os-integration-"))
+
+    try {
+      const written = await writeBookIntegrationBundle(PROJECT_ROOT, output, candidate)
+      const [bundle, coverage, checksums] = await Promise.all([
+        readFile(written.bundlePath, "utf8"),
+        readFile(written.coverageManifestPath, "utf8"),
+        readFile(path.join(output, "SHA256SUMS"), "utf8")
+      ])
+      const parsedBundle = JSON.parse(bundle) as { schemaVersion: string; coverage?: unknown }
+      const parsedCoverage = JSON.parse(coverage) as {
+        schemaVersion: string
+        manifestDigest: string
+        coverage: { eligibleRowCount: number }
+      }
+
+      expect(parsedBundle.schemaVersion).toBe(INTEGRATION_BUNDLE_SCHEMA_VERSION)
+      expect(parsedBundle.coverage).toBeUndefined()
+      expect(parsedCoverage.schemaVersion).toBe("book-os-coverage/v1")
+      expect(parsedCoverage.manifestDigest).toBe(written.coverageManifestDigest)
+      expect(parsedCoverage.coverage.eligibleRowCount).toBe(0)
+      expect(checksums).toContain(`${written.coverageManifestFileSha256}  coverage-manifest.json`)
+    } finally {
+      await rm(output, { recursive: true, force: true })
+    }
+  }, 60_000)
+
   it("defines a least-privilege candidate delivery workflow with optional HMAC notification", async () => {
     const workflow = await readFile(
       path.join(PROJECT_ROOT, ".github", "workflows", "capitale-book-bundle.yml"),
@@ -258,7 +288,17 @@ describe("Book OS integration bundle v1", () => {
     expect(workflow).toContain("-${process.env.VOLUME_CODE}`")
     expect(workflow).toContain("CAPITALE_BOOK_OS_WEBHOOK_URL")
     expect(workflow).toContain("CAPITALE_BOOK_OS_WEBHOOK_SECRET")
+    expect(workflow).toContain('coverage.schemaVersion !== "book-os-coverage/v1"')
+    expect(workflow).toContain("coverage.source?.commit !== process.env.GITHUB_SHA")
+    expect(workflow).toContain("coverage.source?.repository !== bundle.source.repository")
+    expect(workflow).toContain("coverage_schema_version=${coverage.schemaVersion}")
+    expect(workflow).toContain("coverage_manifest_digest=${coverage.manifestDigest}")
+    expect(workflow).toContain("COVERAGE_SCHEMA_VERSION: ${{ steps.bundle.outputs.coverage_schema_version }}")
+    expect(workflow).toContain("COVERAGE_MANIFEST_DIGEST: ${{ steps.bundle.outputs.coverage_manifest_digest }}")
+    expect(workflow).toContain("coverage: {")
+    expect(workflow).toContain("manifestDigest: process.env.COVERAGE_MANIFEST_DIGEST")
     expect(workflow).toContain('createHmac("sha256"')
+    expect(workflow.indexOf("coverage: {")).toBeLessThan(workflow.indexOf('createHmac("sha256"'))
     expect(workflow).toContain('"x-book-os-signature-256"')
     expect(workflow).toContain('"x-github-event": "push"')
     expect(workflow).toContain("steps.webhook.outputs.configured == 'true'")
