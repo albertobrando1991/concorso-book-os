@@ -8,14 +8,18 @@ import {
   stableStringify,
   validateBookCoverageManifest
 } from "@/src/server/book/book-coverage-manifest"
-import type { BookCoverageRegistryRow } from "@/src/catalog/book-coverage-registry"
+import {
+  BOOK_COVERAGE_REGISTRY,
+  type BookCoverageRegistryRow
+} from "@/src/catalog/book-coverage-registry"
+import { buildBookIntegrationBundle } from "@/src/server/book/book-integration-bundle"
 
 const PROJECT_ROOT = path.resolve(".")
 const SOURCE_SHA = "b".repeat(40)
 const REPOSITORY = "https://github.com/albertobrando1991/concorso-book-os.git"
 
 describe("Book OS coverage manifest v1", () => {
-  it("builds a deterministic fail-closed manifest from the canonical catalog", () => {
+  it("builds a deterministic manifest from the canonical catalog and verified coverage", () => {
     const first = buildBookCoverageManifest({ repository: REPOSITORY, sourceSha: SOURCE_SHA })
     const second = buildBookCoverageManifest({ repository: REPOSITORY, sourceSha: SOURCE_SHA })
 
@@ -24,8 +28,8 @@ describe("Book OS coverage manifest v1", () => {
     expect(first.catalog.volumeCount).toBe(12)
     expect(first.catalog.moduleCount).toBe(25)
     expect(first.catalog.volumes).toHaveLength(12)
-    expect(first.coverage.rowCount).toBe(0)
-    expect(first.coverage.eligibleRowCount).toBe(0)
+    expect(first.coverage.rowCount).toBe(9)
+    expect(first.coverage.eligibleRowCount).toBe(9)
     expect(first.manifestDigest).toBe(second.manifestDigest)
     expect(stableStringify(first)).toBe(stableStringify(second))
     expect(validateBookCoverageManifest(first)).toEqual([])
@@ -41,6 +45,47 @@ describe("Book OS coverage manifest v1", () => {
     expect(isEligibleCoverageRow(row({ profileScope: [] }))).toBe(false)
     expect(isEligibleCoverageRow(row({ examOutputs: [] }))).toBe(false)
   })
+
+  it("traces every approved row to shipped chapters and local editorial sources", async () => {
+    const [volumeOne, volumeTwo] = await Promise.all([
+      buildBookIntegrationBundle({
+        projectRoot: PROJECT_ROOT,
+        volumeCode: "VOL-01",
+        channel: "candidate",
+        sourceSha: SOURCE_SHA
+      }),
+      buildBookIntegrationBundle({
+        projectRoot: PROJECT_ROOT,
+        volumeCode: "VOL-02",
+        channel: "candidate",
+        sourceSha: SOURCE_SHA
+      })
+    ])
+    const chaptersByVolume = new Map([
+      ["VOL-01", new Set(volumeOne.volume.chapters.map((chapter) => chapter.id))],
+      ["VOL-02", new Set(volumeTwo.volume.chapters.map((chapter) => chapter.id))]
+    ])
+
+    expect(new Set(BOOK_COVERAGE_REGISTRY.map((coverage) => coverage.id)).size)
+      .toBe(BOOK_COVERAGE_REGISTRY.length)
+    expect(BOOK_COVERAGE_REGISTRY.some((coverage) =>
+      coverage.subjectSlugs.includes("enti-locali") && coverage.profileScope.includes("P0094")
+    )).toBe(true)
+
+    for (const coverage of BOOK_COVERAGE_REGISTRY) {
+      const chapterIds = chaptersByVolume.get(coverage.volumeCode)
+      expect(chapterIds, `bundle non caricato per ${coverage.volumeCode}`).toBeDefined()
+      expect(coverage.chapterRefs.every((chapterId) => chapterIds?.has(chapterId)), coverage.id).toBe(true)
+
+      const sourceRefs = new Set([
+        ...coverage.sourceRefs,
+        ...coverage.normativeRefs.flatMap((reference) => reference.sourceRefs)
+      ])
+      await Promise.all([...sourceRefs].map((sourceRef) =>
+        readFile(path.join(PROJECT_ROOT, "wiki", sourceRef), "utf8")
+      ))
+    }
+  }, 60_000)
 
   it("detects digest tampering, missing joins and modules outside the declared volume", () => {
     const manifest = buildBookCoverageManifest({ repository: REPOSITORY, sourceSha: SOURCE_SHA })
@@ -91,6 +136,7 @@ function row(overrides: Partial<BookCoverageRegistryRow> = {}): BookCoverageRegi
     chapterRefs: ["wiki/books/il-metodo-bando/chapters/chapter-05.md"],
     exclusions: [],
     sourceRefs: ["wiki/sources/example.md"],
+    normativeRefs: [],
     verifiedAt: "2026-09-23T00:00:00.000Z",
     validAsOf: "2026-09-23T00:00:00.000Z",
     reviewStatus: "approved",

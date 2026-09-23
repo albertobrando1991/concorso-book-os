@@ -94,6 +94,7 @@
         "chapterRefs",
         "exclusions",
         "sourceRefs",
+        "normativeRefs",
         "verifiedAt",
         "validAsOf",
         "reviewStatus"
@@ -116,6 +117,10 @@
         "chapterRefs": { "type": "array", "items": { "type": "string", "minLength": 1 } },
         "exclusions": { "type": "array", "items": { "type": "string", "minLength": 1 } },
         "sourceRefs": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "normativeRefs": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/normativeRef" }
+        },
         "verifiedAt": { "$ref": "#/$defs/nullableDateTime" },
         "validAsOf": { "$ref": "#/$defs/nullableDateTime" },
         "reviewStatus": { "enum": ["approved", "pending", "rejected"] }
@@ -142,6 +147,25 @@
           }
         }
       ]
+    },
+    "normativeRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["urn", "articles", "sourceRefs"],
+      "properties": {
+        "urn": { "type": "string", "pattern": "^urn:nir:" },
+        "articles": {
+          "anyOf": [
+            { "type": "string", "minLength": 1 },
+            { "type": "null" }
+          ]
+        },
+        "sourceRefs": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
     }
   }
 }

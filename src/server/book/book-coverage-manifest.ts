@@ -135,6 +135,15 @@ export function validateBookCoverageManifest(manifest: unknown): string[] {
         if (!Array.isArray(row.chapterRefs) || row.chapterRefs.length === 0 || !Array.isArray(row.sourceRefs) || row.sourceRefs.length === 0) {
           issues.push(`Coverage ${row.id} approvata senza evidenze.`)
         }
+        if (!Array.isArray(row.normativeRefs)) {
+          issues.push(`Coverage ${row.id} approvata senza dichiarazione delle normative.`)
+        } else if (row.normativeRefs.some((reference) =>
+          !reference.urn?.startsWith("urn:nir:") ||
+          !Array.isArray(reference.sourceRefs) ||
+          reference.sourceRefs.length === 0
+        )) {
+          issues.push(`Coverage ${row.id} contiene riferimenti normativi non tracciabili.`)
+        }
       }
     }
   }
@@ -182,7 +191,11 @@ function cloneCoverageRow(row: BookCoverageRegistryRow): BookCoverageRegistryRow
     examOutputs: [...row.examOutputs],
     chapterRefs: [...row.chapterRefs],
     exclusions: [...row.exclusions],
-    sourceRefs: [...row.sourceRefs]
+    sourceRefs: [...row.sourceRefs],
+    normativeRefs: row.normativeRefs.map((reference) => ({
+      ...reference,
+      sourceRefs: [...reference.sourceRefs]
+    }))
   }
 }
 

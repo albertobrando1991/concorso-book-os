@@ -259,7 +259,7 @@ describe("Book OS integration bundle v1", () => {
       expect(parsedBundle.coverage).toBeUndefined()
       expect(parsedCoverage.schemaVersion).toBe("book-os-coverage/v1")
       expect(parsedCoverage.manifestDigest).toBe(written.coverageManifestDigest)
-      expect(parsedCoverage.coverage.eligibleRowCount).toBe(0)
+      expect(parsedCoverage.coverage.eligibleRowCount).toBe(9)
       expect(checksums).toContain(`${written.coverageManifestFileSha256}  coverage-manifest.json`)
     } finally {
       await rm(output, { recursive: true, force: true })
