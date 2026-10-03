@@ -1,0 +1,1453 @@
+{
+  "nativeCount": 133,
+  "protectedCount": 19,
+  "native": [
+    {
+      "id": "F001",
+      "chapter": "il-nuovo-candidato-pubblico.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "1.1",
+      "chapterSHA256": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6"
+    },
+    {
+      "id": "F002",
+      "chapter": "il-nuovo-candidato-pubblico.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "1.2",
+      "chapterSHA256": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6"
+    },
+    {
+      "id": "F003",
+      "chapter": "il-nuovo-candidato-pubblico.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "1.3",
+      "chapterSHA256": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6"
+    },
+    {
+      "id": "F004",
+      "chapter": "il-nuovo-candidato-pubblico.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "1.4",
+      "chapterSHA256": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6"
+    },
+    {
+      "id": "F005",
+      "chapter": "il-nuovo-candidato-pubblico.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "1.5",
+      "chapterSHA256": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6"
+    },
+    {
+      "id": "F006",
+      "chapter": "anatomia-del-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "2.1",
+      "chapterSHA256": "d981c5e73cd90b675bcebefac4b4545364dee3efac158940caaf227cbfc01e90"
+    },
+    {
+      "id": "F007",
+      "chapter": "anatomia-del-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "2.2",
+      "chapterSHA256": "d981c5e73cd90b675bcebefac4b4545364dee3efac158940caaf227cbfc01e90"
+    },
+    {
+      "id": "F008",
+      "chapter": "anatomia-del-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "2.4",
+      "chapterSHA256": "d981c5e73cd90b675bcebefac4b4545364dee3efac158940caaf227cbfc01e90"
+    },
+    {
+      "id": "F009",
+      "chapter": "anatomia-del-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "2.5",
+      "chapterSHA256": "d981c5e73cd90b675bcebefac4b4545364dee3efac158940caaf227cbfc01e90"
+    },
+    {
+      "id": "F010",
+      "chapter": "il-metodo-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "3.1",
+      "chapterSHA256": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349"
+    },
+    {
+      "id": "F011",
+      "chapter": "il-metodo-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "3.2",
+      "chapterSHA256": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349"
+    },
+    {
+      "id": "F012",
+      "chapter": "il-metodo-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "3.3",
+      "chapterSHA256": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349"
+    },
+    {
+      "id": "F013",
+      "chapter": "il-metodo-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "3.4",
+      "chapterSHA256": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349"
+    },
+    {
+      "id": "F014",
+      "chapter": "il-metodo-bando.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "3.5",
+      "chapterSHA256": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349"
+    },
+    {
+      "id": "F015",
+      "chapter": "costituzione-e-ordinamento-dello-stato.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "4.1",
+      "chapterSHA256": "88074e86661a81ccda0129a7f27820b9469105fd4c295cb00fcb36214c431d72"
+    },
+    {
+      "id": "F016",
+      "chapter": "costituzione-e-ordinamento-dello-stato.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "4.2",
+      "chapterSHA256": "88074e86661a81ccda0129a7f27820b9469105fd4c295cb00fcb36214c431d72"
+    },
+    {
+      "id": "F017",
+      "chapter": "costituzione-e-ordinamento-dello-stato.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "4.3",
+      "chapterSHA256": "88074e86661a81ccda0129a7f27820b9469105fd4c295cb00fcb36214c431d72"
+    },
+    {
+      "id": "F018",
+      "chapter": "costituzione-e-ordinamento-dello-stato.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "4.5",
+      "chapterSHA256": "88074e86661a81ccda0129a7f27820b9469105fd4c295cb00fcb36214c431d72"
+    },
+    {
+      "id": "F019",
+      "chapter": "diritto-amministrativo-per-candidati.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "5.1",
+      "chapterSHA256": "1f8dd35ab622d0acd5626f66b5e795fa6898d3ae1580a1441a183c623be633bf"
+    },
+    {
+      "id": "F020",
+      "chapter": "diritto-amministrativo-per-candidati.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "5.2",
+      "chapterSHA256": "1f8dd35ab622d0acd5626f66b5e795fa6898d3ae1580a1441a183c623be633bf"
+    },
+    {
+      "id": "F021",
+      "chapter": "diritto-amministrativo-per-candidati.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "5.3",
+      "chapterSHA256": "1f8dd35ab622d0acd5626f66b5e795fa6898d3ae1580a1441a183c623be633bf"
+    },
+    {
+      "id": "F022",
+      "chapter": "diritto-amministrativo-per-candidati.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "5.4",
+      "chapterSHA256": "1f8dd35ab622d0acd5626f66b5e795fa6898d3ae1580a1441a183c623be633bf"
+    },
+    {
+      "id": "F023",
+      "chapter": "diritto-amministrativo-per-candidati.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "5.5",
+      "chapterSHA256": "1f8dd35ab622d0acd5626f66b5e795fa6898d3ae1580a1441a183c623be633bf"
+    },
+    {
+      "id": "F024",
+      "chapter": "pubblico-impiego-e-organizzazione-pa.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "6.1",
+      "chapterSHA256": "2d55148cb3a6b0110c04ad344e3743f093ed5ffdddcbbe2face370d5fede729b"
+    },
+    {
+      "id": "F025",
+      "chapter": "pubblico-impiego-e-organizzazione-pa.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "6.2",
+      "chapterSHA256": "2d55148cb3a6b0110c04ad344e3743f093ed5ffdddcbbe2face370d5fede729b"
+    },
+    {
+      "id": "F026",
+      "chapter": "pubblico-impiego-e-organizzazione-pa.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "6.3",
+      "chapterSHA256": "2d55148cb3a6b0110c04ad344e3743f093ed5ffdddcbbe2face370d5fede729b"
+    },
+    {
+      "id": "F027",
+      "chapter": "pubblico-impiego-e-organizzazione-pa.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "6.4",
+      "chapterSHA256": "2d55148cb3a6b0110c04ad344e3743f093ed5ffdddcbbe2face370d5fede729b"
+    },
+    {
+      "id": "F028",
+      "chapter": "pubblico-impiego-e-organizzazione-pa.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "6.5",
+      "chapterSHA256": "2d55148cb3a6b0110c04ad344e3743f093ed5ffdddcbbe2face370d5fede729b"
+    },
+    {
+      "id": "F029",
+      "chapter": "trasparenza-anticorruzione-privacy.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "7.1",
+      "chapterSHA256": "eaa6b57ec3cb4604e3524a952cf4f4b25eead4bbd00907627fcf245553b49756"
+    },
+    {
+      "id": "F030",
+      "chapter": "trasparenza-anticorruzione-privacy.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "7.2",
+      "chapterSHA256": "eaa6b57ec3cb4604e3524a952cf4f4b25eead4bbd00907627fcf245553b49756"
+    },
+    {
+      "id": "F031",
+      "chapter": "trasparenza-anticorruzione-privacy.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "7.3",
+      "chapterSHA256": "eaa6b57ec3cb4604e3524a952cf4f4b25eead4bbd00907627fcf245553b49756"
+    },
+    {
+      "id": "F032",
+      "chapter": "trasparenza-anticorruzione-privacy.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "7.4",
+      "chapterSHA256": "eaa6b57ec3cb4604e3524a952cf4f4b25eead4bbd00907627fcf245553b49756"
+    },
+    {
+      "id": "F033",
+      "chapter": "trasparenza-anticorruzione-privacy.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "7.5",
+      "chapterSHA256": "eaa6b57ec3cb4604e3524a952cf4f4b25eead4bbd00907627fcf245553b49756"
+    },
+    {
+      "id": "F034",
+      "chapter": "contabilita-pubblica-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "8.1",
+      "chapterSHA256": "50fc86000ea7ff81e9b8667e5b35655894bb7f594b3a8d80630ac1b73329676d"
+    },
+    {
+      "id": "F035",
+      "chapter": "contabilita-pubblica-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "8.3",
+      "chapterSHA256": "50fc86000ea7ff81e9b8667e5b35655894bb7f594b3a8d80630ac1b73329676d"
+    },
+    {
+      "id": "F036",
+      "chapter": "contabilita-pubblica-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "8.4",
+      "chapterSHA256": "50fc86000ea7ff81e9b8667e5b35655894bb7f594b3a8d80630ac1b73329676d"
+    },
+    {
+      "id": "F037",
+      "chapter": "contabilita-pubblica-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "8.5",
+      "chapterSHA256": "50fc86000ea7ff81e9b8667e5b35655894bb7f594b3a8d80630ac1b73329676d"
+    },
+    {
+      "id": "F038",
+      "chapter": "contabilita-pubblica-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "8.6",
+      "chapterSHA256": "50fc86000ea7ff81e9b8667e5b35655894bb7f594b3a8d80630ac1b73329676d"
+    },
+    {
+      "id": "F039",
+      "chapter": "contratti-pubblici-essenziali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "9.1",
+      "chapterSHA256": "884d699a5d7b7c9fc5b2b6c7c4b2614f34f2a5b195e873380b1350241ae682c6"
+    },
+    {
+      "id": "F040",
+      "chapter": "contratti-pubblici-essenziali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "9.4",
+      "chapterSHA256": "884d699a5d7b7c9fc5b2b6c7c4b2614f34f2a5b195e873380b1350241ae682c6"
+    },
+    {
+      "id": "F041",
+      "chapter": "contratti-pubblici-essenziali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "9.5",
+      "chapterSHA256": "884d699a5d7b7c9fc5b2b6c7c4b2614f34f2a5b195e873380b1350241ae682c6"
+    },
+    {
+      "id": "F042",
+      "chapter": "contratti-pubblici-essenziali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "9.6",
+      "chapterSHA256": "884d699a5d7b7c9fc5b2b6c7c4b2614f34f2a5b195e873380b1350241ae682c6"
+    },
+    {
+      "id": "F043",
+      "chapter": "informatica-pa-digitale-competenze-digitali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "10.1",
+      "chapterSHA256": "f5beb65b69d2a07881d5bfa3841943124c567df669dcc30d0ce6baae7b3d79cd"
+    },
+    {
+      "id": "F044",
+      "chapter": "informatica-pa-digitale-competenze-digitali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "10.2",
+      "chapterSHA256": "f5beb65b69d2a07881d5bfa3841943124c567df669dcc30d0ce6baae7b3d79cd"
+    },
+    {
+      "id": "F045",
+      "chapter": "informatica-pa-digitale-competenze-digitali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "10.4",
+      "chapterSHA256": "f5beb65b69d2a07881d5bfa3841943124c567df669dcc30d0ce6baae7b3d79cd"
+    },
+    {
+      "id": "F046",
+      "chapter": "informatica-pa-digitale-competenze-digitali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "10.5",
+      "chapterSHA256": "f5beb65b69d2a07881d5bfa3841943124c567df669dcc30d0ce6baae7b3d79cd"
+    },
+    {
+      "id": "F047",
+      "chapter": "informatica-pa-digitale-competenze-digitali.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "10.6",
+      "chapterSHA256": "f5beb65b69d2a07881d5bfa3841943124c567df669dcc30d0ce6baae7b3d79cd"
+    },
+    {
+      "id": "F048",
+      "chapter": "inglese-concorsuale-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "11.1",
+      "chapterSHA256": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36"
+    },
+    {
+      "id": "F049",
+      "chapter": "inglese-concorsuale-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "11.2",
+      "chapterSHA256": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36"
+    },
+    {
+      "id": "F050",
+      "chapter": "inglese-concorsuale-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "11.3",
+      "chapterSHA256": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36"
+    },
+    {
+      "id": "F051",
+      "chapter": "inglese-concorsuale-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "11.4",
+      "chapterSHA256": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36"
+    },
+    {
+      "id": "F052",
+      "chapter": "inglese-concorsuale-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "11.5",
+      "chapterSHA256": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36"
+    },
+    {
+      "id": "F053",
+      "chapter": "inglese-concorsuale-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "11.6",
+      "chapterSHA256": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36"
+    },
+    {
+      "id": "F054",
+      "chapter": "inglese-concorsuale-essenziale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "11.7",
+      "chapterSHA256": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36"
+    },
+    {
+      "id": "F055",
+      "chapter": "logica-comprensione-ragionamento.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "12.1",
+      "chapterSHA256": "ab5a32eb7541b1fcdf850e22ad31e9bae688f3c5f19aa2fe2e12f9af618f1f69"
+    },
+    {
+      "id": "F056",
+      "chapter": "logica-comprensione-ragionamento.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "12.2",
+      "chapterSHA256": "ab5a32eb7541b1fcdf850e22ad31e9bae688f3c5f19aa2fe2e12f9af618f1f69"
+    },
+    {
+      "id": "F057",
+      "chapter": "logica-comprensione-ragionamento.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "12.4",
+      "chapterSHA256": "ab5a32eb7541b1fcdf850e22ad31e9bae688f3c5f19aa2fe2e12f9af618f1f69"
+    },
+    {
+      "id": "F058",
+      "chapter": "logica-comprensione-ragionamento.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "12.5",
+      "chapterSHA256": "ab5a32eb7541b1fcdf850e22ad31e9bae688f3c5f19aa2fe2e12f9af618f1f69"
+    },
+    {
+      "id": "F059",
+      "chapter": "logica-comprensione-ragionamento.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "12.6",
+      "chapterSHA256": "ab5a32eb7541b1fcdf850e22ad31e9bae688f3c5f19aa2fe2e12f9af618f1f69"
+    },
+    {
+      "id": "F060",
+      "chapter": "logica-comprensione-ragionamento.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "12.7",
+      "chapterSHA256": "ab5a32eb7541b1fcdf850e22ad31e9bae688f3c5f19aa2fe2e12f9af618f1f69"
+    },
+    {
+      "id": "F061",
+      "chapter": "metodo-di-studio-per-concorsi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "13.1",
+      "chapterSHA256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "id": "F062",
+      "chapter": "metodo-di-studio-per-concorsi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "13.2",
+      "chapterSHA256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "id": "F063",
+      "chapter": "metodo-di-studio-per-concorsi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "13.3",
+      "chapterSHA256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "id": "F064",
+      "chapter": "metodo-di-studio-per-concorsi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "13.4",
+      "chapterSHA256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "id": "F065",
+      "chapter": "metodo-di-studio-per-concorsi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "13.5",
+      "chapterSHA256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "id": "F066",
+      "chapter": "metodo-di-studio-per-concorsi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "13.6",
+      "chapterSHA256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "id": "F067",
+      "chapter": "metodo-di-studio-per-concorsi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "13.7",
+      "chapterSHA256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "id": "F068",
+      "chapter": "la-prova-a-quiz.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "14.1",
+      "chapterSHA256": "ce59fe3c5fe4b6424cb294ec6bd8a932c9cb003336c5f78e66e800e663a09434"
+    },
+    {
+      "id": "F069",
+      "chapter": "la-prova-a-quiz.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "14.2",
+      "chapterSHA256": "ce59fe3c5fe4b6424cb294ec6bd8a932c9cb003336c5f78e66e800e663a09434"
+    },
+    {
+      "id": "F070",
+      "chapter": "la-prova-a-quiz.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "14.3",
+      "chapterSHA256": "ce59fe3c5fe4b6424cb294ec6bd8a932c9cb003336c5f78e66e800e663a09434"
+    },
+    {
+      "id": "F071",
+      "chapter": "la-prova-a-quiz.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "14.5",
+      "chapterSHA256": "ce59fe3c5fe4b6424cb294ec6bd8a932c9cb003336c5f78e66e800e663a09434"
+    },
+    {
+      "id": "F072",
+      "chapter": "la-prova-a-quiz.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "14.6",
+      "chapterSHA256": "ce59fe3c5fe4b6424cb294ec6bd8a932c9cb003336c5f78e66e800e663a09434"
+    },
+    {
+      "id": "F073",
+      "chapter": "la-prova-a-quiz.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "14.7",
+      "chapterSHA256": "ce59fe3c5fe4b6424cb294ec6bd8a932c9cb003336c5f78e66e800e663a09434"
+    },
+    {
+      "id": "F074",
+      "chapter": "prova-scritta-teorico-pratica.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "15.1",
+      "chapterSHA256": "a7a2d5fc5fc742b463c6e6865e7f578e60c15dbcb78ae43ff2109f128d12bcdd"
+    },
+    {
+      "id": "F075",
+      "chapter": "prova-scritta-teorico-pratica.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "15.2",
+      "chapterSHA256": "a7a2d5fc5fc742b463c6e6865e7f578e60c15dbcb78ae43ff2109f128d12bcdd"
+    },
+    {
+      "id": "F076",
+      "chapter": "prova-scritta-teorico-pratica.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "15.3",
+      "chapterSHA256": "a7a2d5fc5fc742b463c6e6865e7f578e60c15dbcb78ae43ff2109f128d12bcdd"
+    },
+    {
+      "id": "F077",
+      "chapter": "prova-scritta-teorico-pratica.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "15.5",
+      "chapterSHA256": "a7a2d5fc5fc742b463c6e6865e7f578e60c15dbcb78ae43ff2109f128d12bcdd"
+    },
+    {
+      "id": "F078",
+      "chapter": "prova-scritta-teorico-pratica.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "15.5",
+      "chapterSHA256": "a7a2d5fc5fc742b463c6e6865e7f578e60c15dbcb78ae43ff2109f128d12bcdd"
+    },
+    {
+      "id": "F079",
+      "chapter": "prova-scritta-teorico-pratica.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "15.7",
+      "chapterSHA256": "a7a2d5fc5fc742b463c6e6865e7f578e60c15dbcb78ae43ff2109f128d12bcdd"
+    },
+    {
+      "id": "F080",
+      "chapter": "la-prova-orale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "16.1",
+      "chapterSHA256": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+    },
+    {
+      "id": "F081",
+      "chapter": "la-prova-orale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "16.2",
+      "chapterSHA256": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+    },
+    {
+      "id": "F082",
+      "chapter": "la-prova-orale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "16.4",
+      "chapterSHA256": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+    },
+    {
+      "id": "F083",
+      "chapter": "la-prova-orale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "16.5",
+      "chapterSHA256": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+    },
+    {
+      "id": "F084",
+      "chapter": "la-prova-orale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "16.6",
+      "chapterSHA256": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+    },
+    {
+      "id": "F085",
+      "chapter": "la-prova-orale.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "16.7",
+      "chapterSHA256": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+    },
+    {
+      "id": "F086",
+      "chapter": "casi-pratici-problem-solving-amministrativo.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "17.1",
+      "chapterSHA256": "828caf40b8a6774fdd4a14f49cc0479c16f6c66f351762fbf87b228443b7172c"
+    },
+    {
+      "id": "F087",
+      "chapter": "casi-pratici-problem-solving-amministrativo.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "17.2",
+      "chapterSHA256": "828caf40b8a6774fdd4a14f49cc0479c16f6c66f351762fbf87b228443b7172c"
+    },
+    {
+      "id": "F088",
+      "chapter": "casi-pratici-problem-solving-amministrativo.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "17.3",
+      "chapterSHA256": "828caf40b8a6774fdd4a14f49cc0479c16f6c66f351762fbf87b228443b7172c"
+    },
+    {
+      "id": "F089",
+      "chapter": "casi-pratici-problem-solving-amministrativo.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "17.5",
+      "chapterSHA256": "828caf40b8a6774fdd4a14f49cc0479c16f6c66f351762fbf87b228443b7172c"
+    },
+    {
+      "id": "F090",
+      "chapter": "casi-pratici-problem-solving-amministrativo.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "17.6",
+      "chapterSHA256": "828caf40b8a6774fdd4a14f49cc0479c16f6c66f351762fbf87b228443b7172c"
+    },
+    {
+      "id": "F091",
+      "chapter": "casi-pratici-problem-solving-amministrativo.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "17.7",
+      "chapterSHA256": "828caf40b8a6774fdd4a14f49cc0479c16f6c66f351762fbf87b228443b7172c"
+    },
+    {
+      "id": "F092",
+      "chapter": "quesiti-situazionali-soft-skills.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "18.1",
+      "chapterSHA256": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+    },
+    {
+      "id": "F093",
+      "chapter": "quesiti-situazionali-soft-skills.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "18.2",
+      "chapterSHA256": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+    },
+    {
+      "id": "F094",
+      "chapter": "quesiti-situazionali-soft-skills.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "18.4",
+      "chapterSHA256": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+    },
+    {
+      "id": "F095",
+      "chapter": "quesiti-situazionali-soft-skills.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "18.5",
+      "chapterSHA256": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+    },
+    {
+      "id": "F096",
+      "chapter": "quesiti-situazionali-soft-skills.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "18.6",
+      "chapterSHA256": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+    },
+    {
+      "id": "F097",
+      "chapter": "quesiti-situazionali-soft-skills.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "18.7",
+      "chapterSHA256": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+    },
+    {
+      "id": "F098",
+      "chapter": "famiglie-concorsi-pubblici.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "19.1",
+      "chapterSHA256": "d17b48b84b51c84c0f9f6b257bdf630a77e639bbde13618428d208143952985f"
+    },
+    {
+      "id": "F099",
+      "chapter": "famiglie-concorsi-pubblici.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "19.2",
+      "chapterSHA256": "d17b48b84b51c84c0f9f6b257bdf630a77e639bbde13618428d208143952985f"
+    },
+    {
+      "id": "F100",
+      "chapter": "famiglie-concorsi-pubblici.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "19.3",
+      "chapterSHA256": "d17b48b84b51c84c0f9f6b257bdf630a77e639bbde13618428d208143952985f"
+    },
+    {
+      "id": "F101",
+      "chapter": "famiglie-concorsi-pubblici.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "19.4",
+      "chapterSHA256": "d17b48b84b51c84c0f9f6b257bdf630a77e639bbde13618428d208143952985f"
+    },
+    {
+      "id": "F102",
+      "chapter": "famiglie-concorsi-pubblici.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "19.5",
+      "chapterSHA256": "d17b48b84b51c84c0f9f6b257bdf630a77e639bbde13618428d208143952985f"
+    },
+    {
+      "id": "F103",
+      "chapter": "famiglie-concorsi-pubblici.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "19.6",
+      "chapterSHA256": "d17b48b84b51c84c0f9f6b257bdf630a77e639bbde13618428d208143952985f"
+    },
+    {
+      "id": "F104",
+      "chapter": "mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "20.1",
+      "chapterSHA256": "d5efed814a7ccfc74be5945e506cac772b24e0dc8c8825b22b6c059034a46c2e"
+    },
+    {
+      "id": "F105",
+      "chapter": "mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "20.1",
+      "chapterSHA256": "d5efed814a7ccfc74be5945e506cac772b24e0dc8c8825b22b6c059034a46c2e"
+    },
+    {
+      "id": "F106",
+      "chapter": "mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "20.3",
+      "chapterSHA256": "d5efed814a7ccfc74be5945e506cac772b24e0dc8c8825b22b6c059034a46c2e"
+    },
+    {
+      "id": "F107",
+      "chapter": "mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "20.4",
+      "chapterSHA256": "d5efed814a7ccfc74be5945e506cac772b24e0dc8c8825b22b6c059034a46c2e"
+    },
+    {
+      "id": "F108",
+      "chapter": "mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "20.5",
+      "chapterSHA256": "d5efed814a7ccfc74be5945e506cac772b24e0dc8c8825b22b6c059034a46c2e"
+    },
+    {
+      "id": "F109",
+      "chapter": "mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "20.7",
+      "chapterSHA256": "d5efed814a7ccfc74be5945e506cac772b24e0dc8c8825b22b6c059034a46c2e"
+    },
+    {
+      "id": "F110",
+      "chapter": "scegliere-moduli-integrativi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "21.1",
+      "chapterSHA256": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b"
+    },
+    {
+      "id": "F111",
+      "chapter": "scegliere-moduli-integrativi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "21.2",
+      "chapterSHA256": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b"
+    },
+    {
+      "id": "F112",
+      "chapter": "scegliere-moduli-integrativi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "21.3",
+      "chapterSHA256": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b"
+    },
+    {
+      "id": "F113",
+      "chapter": "scegliere-moduli-integrativi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "21.4",
+      "chapterSHA256": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b"
+    },
+    {
+      "id": "F114",
+      "chapter": "scegliere-moduli-integrativi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "21.5",
+      "chapterSHA256": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b"
+    },
+    {
+      "id": "F115",
+      "chapter": "scegliere-moduli-integrativi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "21.6",
+      "chapterSHA256": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b"
+    },
+    {
+      "id": "F116",
+      "chapter": "scegliere-moduli-integrativi.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "21.7",
+      "chapterSHA256": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b"
+    },
+    {
+      "id": "F117",
+      "chapter": "sistema-adattabile.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "22.1",
+      "chapterSHA256": "a37c797b42eb4abb9a79bee2761645d7182781f30333b8e659778a50ada3715c"
+    },
+    {
+      "id": "F118",
+      "chapter": "sistema-adattabile.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "22.1",
+      "chapterSHA256": "a37c797b42eb4abb9a79bee2761645d7182781f30333b8e659778a50ada3715c"
+    },
+    {
+      "id": "F119",
+      "chapter": "sistema-adattabile.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "22.2",
+      "chapterSHA256": "a37c797b42eb4abb9a79bee2761645d7182781f30333b8e659778a50ada3715c"
+    },
+    {
+      "id": "F120",
+      "chapter": "sistema-adattabile.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "22.4",
+      "chapterSHA256": "a37c797b42eb4abb9a79bee2761645d7182781f30333b8e659778a50ada3715c"
+    },
+    {
+      "id": "F121",
+      "chapter": "sistema-adattabile.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "22.5",
+      "chapterSHA256": "a37c797b42eb4abb9a79bee2761645d7182781f30333b8e659778a50ada3715c"
+    },
+    {
+      "id": "F122",
+      "chapter": "sistema-adattabile.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "22.6",
+      "chapterSHA256": "a37c797b42eb4abb9a79bee2761645d7182781f30333b8e659778a50ada3715c"
+    },
+    {
+      "id": "F123",
+      "chapter": "diario-degli-errori.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "23.1",
+      "chapterSHA256": "5dd2bb27abdc6fd1e4509fcff6c40bb9fd03d569638f9a7324ba9b1f4d43c9fa"
+    },
+    {
+      "id": "F124",
+      "chapter": "diario-degli-errori.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "23.3",
+      "chapterSHA256": "5dd2bb27abdc6fd1e4509fcff6c40bb9fd03d569638f9a7324ba9b1f4d43c9fa"
+    },
+    {
+      "id": "F125",
+      "chapter": "diario-degli-errori.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "23.3",
+      "chapterSHA256": "5dd2bb27abdc6fd1e4509fcff6c40bb9fd03d569638f9a7324ba9b1f4d43c9fa"
+    },
+    {
+      "id": "F126",
+      "chapter": "diario-degli-errori.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "23.5",
+      "chapterSHA256": "5dd2bb27abdc6fd1e4509fcff6c40bb9fd03d569638f9a7324ba9b1f4d43c9fa"
+    },
+    {
+      "id": "F127",
+      "chapter": "diario-degli-errori.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "23.6",
+      "chapterSHA256": "5dd2bb27abdc6fd1e4509fcff6c40bb9fd03d569638f9a7324ba9b1f4d43c9fa"
+    },
+    {
+      "id": "F128",
+      "chapter": "checklist-operative.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "24.1",
+      "chapterSHA256": "6014b6c0cca3c3e1d84e4b8c075cf3735e156968b2490ad95431ec6450ef7e81"
+    },
+    {
+      "id": "F129",
+      "chapter": "checklist-operative.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "24.3",
+      "chapterSHA256": "6014b6c0cca3c3e1d84e4b8c075cf3735e156968b2490ad95431ec6450ef7e81"
+    },
+    {
+      "id": "F130",
+      "chapter": "checklist-operative.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "24.4",
+      "chapterSHA256": "6014b6c0cca3c3e1d84e4b8c075cf3735e156968b2490ad95431ec6450ef7e81"
+    },
+    {
+      "id": "F131",
+      "chapter": "checklist-operative.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "24.5",
+      "chapterSHA256": "6014b6c0cca3c3e1d84e4b8c075cf3735e156968b2490ad95431ec6450ef7e81"
+    },
+    {
+      "id": "F132",
+      "chapter": "checklist-operative.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "24.6",
+      "chapterSHA256": "6014b6c0cca3c3e1d84e4b8c075cf3735e156968b2490ad95431ec6450ef7e81"
+    },
+    {
+      "id": "F133",
+      "chapter": "checklist-operative.md",
+      "originalReferenceAbsent": true,
+      "replacementCount": 1,
+      "originalAssetUnchanged": true,
+      "caption": "24.7",
+      "chapterSHA256": "6014b6c0cca3c3e1d84e4b8c075cf3735e156968b2490ad95431ec6450ef7e81"
+    }
+  ],
+  "protected": [
+    {
+      "id": "ciclo-appalti",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-09\\02-ciclo-fabbisogno-esecuzione-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "istanza",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-10\\07-istanza-online-conservazione-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "luca",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-22\\07-caso-luca-ciclo-controllo-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/sistema-adattabile.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "procedure",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-09\\03-procedure-affidamento-concorrenza-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "files",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-10\\03-file-office-dati-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "materie",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-02\\04-gerarchia-materie-bando-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "categorie",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-23\\02-sei-categorie-errore-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "pesatura",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-20\\06-semaforo-e-pesatura-tempo-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "04-organi-costituzionali-flussi-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-04\\04-organi-costituzionali-flussi-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "02-ciclo-entrate-spese-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-08\\02-ciclo-entrate-spese-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "03-parole-logiche-decisive-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-12\\03-parole-logiche-decisive-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "07-caso-marta-pattern-errori-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-23\\07-caso-marta-pattern-errori-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "04-banca-dati-quattro-passaggi-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-14\\04-banca-dati-quattro-passaggi-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "04-schema-risposta-concorsuale-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-15\\04-schema-risposta-concorsuale-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "03-struttura-universale-risposta-orale-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-16\\03-struttura-universale-risposta-orale-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/la-prova-orale.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "04-schema-risposta-caso-pratico-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-17\\04-schema-risposta-caso-pratico-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "03-anatomia-quesito-situazionale-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-18\\03-anatomia-quesito-situazionale-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "07-sequenza-famiglia-piano-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-19\\07-sequenza-famiglia-piano-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    },
+    {
+      "id": "02-tre-regole-checklist-stampa",
+      "asset": "wiki\\books\\il-metodo-bando\\assets\\chapter-24\\02-tre-regole-checklist-stampa.png",
+      "hashUnchanged": true,
+      "refs": [
+        {
+          "chapter": "wiki/books/il-metodo-bando/chapters/checklist-operative.md",
+          "count": 1,
+          "beforeCount": 1,
+          "unchanged": true
+        }
+      ]
+    }
+  ],
+  "allPassed": true
+}

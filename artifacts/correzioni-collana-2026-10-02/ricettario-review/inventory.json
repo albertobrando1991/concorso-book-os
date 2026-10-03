@@ -1,0 +1,186 @@
+[
+  {
+    "module": "R01",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\aggiornare-il-metodo-dopo-il-libro.md",
+    "sha256": "287d22e152841f73c30f3e9ac74aba62399e0489f6e50000ff0f4e4576ec9ff9",
+    "words": 3786,
+    "title": "Aggiornare il metodo dopo il libro",
+    "images": 7
+  },
+  {
+    "module": "R02",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\trasformare-ogni-concorso-in-capitale-di-studio.md",
+    "sha256": "3109d717e074e2d2d54e5c868b00fa30d5542be20b19163bf9ea865f31f39e90",
+    "words": 2654,
+    "title": "Trasformare ogni concorso in capitale di studio",
+    "images": 7
+  },
+  {
+    "module": "R03",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\gestire-concorsi-paralleli-senza-dispersersi.md",
+    "sha256": "653d2fd8aad08085a88edfc68e48fa3e168f64cf1d3498c3a1fdef08cb307a50",
+    "words": 2968,
+    "title": "Gestire concorsi paralleli senza disperdersi",
+    "images": 7
+  },
+  {
+    "module": "R04",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\usare-il-digitale-senza-perdere-il-metodo.md",
+    "sha256": "b01c7d285b86bc7d680418399c252e2332ff75aa57acba2cad810368d1c8b981",
+    "words": 2994,
+    "title": "Usare il digitale senza perdere il metodo",
+    "images": 7
+  },
+  {
+    "module": "R05",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\reggere-la-preparazione-energia-ansia-continuita.md",
+    "sha256": "bd771b90c4666a06e9990b9ad6807d99bf0c2fcbbc259e3fd0ecc36ff558e2d5",
+    "words": 2969,
+    "title": "Reggere la preparazione: energia, ansia e continuità",
+    "images": 7
+  },
+  {
+    "module": "R06",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\dopo-la-prova-esiti-graduatoria-prossima-mossa.md",
+    "sha256": "640d18fb7a35a391c8dc7efb7c0eedcc9e1e4274d1858afcd6980dedff899286",
+    "words": 3995,
+    "title": "Dopo la prova: esiti, graduatoria e prossima mossa",
+    "images": 7
+  },
+  {
+    "module": "R07",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\prendere-servizio-nella-pa-dal-concorso-al-ruolo.md",
+    "sha256": "369b365d3d1c8d57adbd2a2ac077a25d751a2eab2fa8d2af802381c4f939c023",
+    "words": 4005,
+    "title": "Prendere servizio nella PA: dal concorso al ruolo",
+    "images": 7
+  },
+  {
+    "module": "R08",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\il-tuo-sistema-bando-personale.md",
+    "sha256": "4ac743a987b5acf777de12ab754eb57f7f3e3519c449976595787a62d385b07a",
+    "words": 3045,
+    "title": "Il tuo sistema BANDO personale",
+    "images": 7
+  },
+  {
+    "module": "R09",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\manuali-corsi-banche-dati-scegliere-senza-disperdersi.md",
+    "sha256": "a4a9e8a27b4dc07596f635ee66ad58a36a7608c119f4ae15d02600834d2317ef",
+    "words": 3504,
+    "title": "Manuali, corsi e banche dati: scegliere senza disperdersi",
+    "images": 7
+  },
+  {
+    "module": "R10",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\simulazioni-concorsuali-dalla-preparazione-alla-prova.md",
+    "sha256": "cc119cc8f8595587321930cbd02760fef98c03deb89b74e04790851a9274647c",
+    "words": 3702,
+    "title": "Simulazioni concorsuali: dalla preparazione alla prova",
+    "images": 7
+  },
+  {
+    "module": "R11",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\schede-operative-trasformare-studio-ed-errori-in-risposte.md",
+    "sha256": "570505e72ec7c2a9d21e4b26b09d95dcbda2f4abf7070490a05a0b18c5b87c0d",
+    "words": 2881,
+    "title": "Schede operative: trasformare studio ed errori in risposte",
+    "images": 7
+  },
+  {
+    "module": "R12",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\tagliare-senza-perdere-punti-priorita-studio-alta-resa.md",
+    "sha256": "6beff5e1f6dbd02037ddeeb08752a9fdcaa159a72e4112dd0a2c96d84ce12248",
+    "words": 3401,
+    "title": "Tagliare senza perdere punti: priorità e studio ad alta resa",
+    "images": 7
+  },
+  {
+    "module": "R13",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\strategia-di-punteggio-soglie-tempo-rischio-prova.md",
+    "sha256": "a5d3bfff0a00f24796184d43c9f1e66731fbcdf7666fabd90361c1d52441b2db",
+    "words": 2992,
+    "title": "Strategia di punteggio: soglie, tempo e rischio nella prova",
+    "images": 7
+  },
+  {
+    "module": "R14",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\giorno-della-prova-routine-logistica-lucidita-operativa.md",
+    "sha256": "1e956395da5febf0e30981bbaaa6386fddd3689f80213a8cb53a5bc06fb04afa",
+    "words": 2372,
+    "title": "Il giorno della prova: routine, logistica e lucidità operativa",
+    "images": 7
+  },
+  {
+    "module": "R15",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\tra-una-prova-e-l-altra-ripianificare-senza-ricominciare.md",
+    "sha256": "cb4084946f52cc67c22aae2ec6e587217cb966cca2408b781c47cf280973147c",
+    "words": 2351,
+    "title": "Tra una prova e l'altra: ripianificare senza ricominciare",
+    "images": 7
+  },
+  {
+    "module": "R16",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\ripasso-finale-consolidare-senza-saturarsi.md",
+    "sha256": "abd2efb4918c74606f27e545ee1fbb5f8847e3f352842c5968c1a258dead3d10",
+    "words": 2820,
+    "title": "Ripasso finale: consolidare senza saturarsi",
+    "images": 7
+  },
+  {
+    "module": "R17",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\caso-completo-bando-dal-bando-alla-prova.md",
+    "sha256": "22cdb7c88f8a1bec91c7bb539fead834061749fcbb0e9eae2db59c0d06ff8f29",
+    "words": 3711,
+    "title": "Caso completo BANDO: dal bando alla prova",
+    "images": 7
+  },
+  {
+    "module": "R18",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\banca-dati-ufficiale-studiarla-senza-memorizzare-male.md",
+    "sha256": "0a642a243a45ac2b46285246d5121c101a39e23d7251426bd04c847009909edd",
+    "words": 4013,
+    "title": "Banca dati ufficiale: studiarla senza memorizzare male",
+    "images": 7
+  },
+  {
+    "module": "R19",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\risposta-sintetica-scrivere-poco-dire-tutto.md",
+    "sha256": "c60a32aab1828c9911451eee8e457c4178399771efaa3eed2dc4af610f5d211b",
+    "words": 3227,
+    "title": "Risposta sintetica: scrivere poco, dire tutto",
+    "images": 7
+  },
+  {
+    "module": "R20",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\confrontare-istituti-simili-differenze-che-fanno-punti.md",
+    "sha256": "069e33c806a40e7e83ca25c22defb61305214fc2734b53ce84295ba869383a70",
+    "words": 2707,
+    "title": "Confrontare istituti simili: differenze che fanno punti",
+    "images": 7
+  },
+  {
+    "module": "R21",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\collegare-le-materie-dal-programma-alla-risposta-integrata.md",
+    "sha256": "cccd2dafa192be8cb4d3dc0bfc6490853567887ed69829389d7c76156126dfd4",
+    "words": 2537,
+    "title": "Collegare le materie: dal programma alla risposta integrata",
+    "images": 7
+  },
+  {
+    "module": "R22",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\domande-impreviste-rispondere-senza-inventare.md",
+    "sha256": "cdb6062ecbb2052581f1b528c422f04e2119f98e673a357f8e22cf71a613a604",
+    "words": 3094,
+    "title": "Domande impreviste: rispondere senza inventare",
+    "images": 7
+  },
+  {
+    "module": "R23",
+    "source": "wiki\\books\\il-metodo-bando\\chapters\\revisione-finale-controllare-prima-di-consegnare.md",
+    "sha256": "857f05c4856fe7a018bc93213750de0a19e3c41a8a2f837e249ac4af1e693249",
+    "words": 2035,
+    "title": "Revisione finale: controllare prima di consegnare",
+    "images": 7
+  }
+]

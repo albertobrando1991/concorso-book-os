@@ -1,0 +1,1855 @@
+{
+  "volume": "VOL-06",
+  "scope": "Dipendenze sources dichiarate nel frontmatter o in wikilink dei capitoli/matrici, e dipendenze delle source note raggiunte. URL esterni esclusi.",
+  "edges": [
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "to": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026.md",
+      "to": "wiki/sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "to": "wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "to": "wiki/sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "to": "wiki/sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "to": "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "to": "wiki/sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "to": "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "to": "wiki/sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "to": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "to": "wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md",
+      "to": "wiki/sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "to": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/proprieta-intellettuale-trasferimento-2026-08-22.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/open-science-fair-dati-2026-08-22.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/integrita-pubblicazioni-ricerca-2026-08-22.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/integrita-pubblicazioni-ricerca-2026-08-22.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "to": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "to": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "to": "wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "to": "wiki/sources/vol-09-governance-contratti-verifica-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-09-governance-contratti-verifica-2026-10-03.md",
+      "to": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "to": "wiki/sources/delitti-contro-pa-codice-penale-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "to": "wiki/sources/vol-02-contabilita-piao-verifica-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "to": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "to": "wiki/sources/ministeri-rettifiche-organizzazione-contabilita-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "to": "wiki/sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ministeri-rettifiche-organizzazione-contabilita-2026-10-03.md",
+      "to": "wiki/sources/aran-ccnl-funzioni-centrali-pcm-2022-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ministeri-rettifiche-organizzazione-contabilita-2026-10-03.md",
+      "to": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/aran-ccnl-funzioni-centrali-pcm-2022-2026.md",
+      "to": "wiki/sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/aran-ccnl-funzioni-centrali-pcm-2022-2026.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/delitti-contro-pa-codice-penale-2026.md",
+      "to": "wiki/sources/legge-6-novembre-2012-n-190-anticorruzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md",
+      "to": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "to": "wiki/sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "to": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "to": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "to": "wiki/sources/open-science-fair-dati-2026-08-22.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "to": "wiki/sources/proprieta-intellettuale-trasferimento-2026-08-22.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "to": "wiki/sources/integrita-pubblicazioni-ricerca-2026-08-22.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "to": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "to": "wiki/sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
+      "to": "wiki/sources/legge-6-novembre-2012-n-190-anticorruzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "to": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "to": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "to": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "to": "wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "to": "wiki/sources/horizon-europe-quadro-work-programme-call-grant-agreement.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "to": "wiki/sources/prin-2026-bando-mur-programma-rendicontazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "to": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "to": "wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/horizon-europe-quadro-work-programme-call-grant-agreement.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "to": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "to": "wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "to": "wiki/sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "to": "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "to": "wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "to": "wiki/sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md",
+      "to": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "to": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "to": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "to": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "to": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "to": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "to": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "to": "wiki/sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "to": "wiki/sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "to": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "to": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "to": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "to": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "to": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "to": "wiki/sources/matrice-materie-profili-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "to": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "to": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "to": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "to": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/matrice-materie-profili-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/formazione-competenze-pa-syllabus-direttiva-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "to": "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
+      "to": "wiki/sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/formazione-competenze-pa-syllabus-direttiva-2025.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/formazione-competenze-pa-syllabus-direttiva-2025.md",
+      "to": "wiki/sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md",
+      "to": "wiki/sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/matrice-materie-profili-metodo-bando.md",
+      "to": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/matrice-materie-profili-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/matrice-materie-profili-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/matrice-materie-profili-metodo-bando.md",
+      "to": "wiki/sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/matrice-materie-profili-metodo-bando.md",
+      "to": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md",
+      "to": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "to": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "to": "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "to": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "to": "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "to": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "to": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "to": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "to": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "to": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "to": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "to": "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "to": "wiki/sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "to": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "to": "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "to": "wiki/sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "to": "wiki/sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "to": "wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "to": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    }
+  ],
+  "issues": []
+}

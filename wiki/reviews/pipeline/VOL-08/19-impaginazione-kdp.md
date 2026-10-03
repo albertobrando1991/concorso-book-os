@@ -1,82 +1,9 @@
----
-id: review-vol-08-pipeline-19-impaginazione-kdp
-type: review
-title: "VOL-08 - Impaginazione KDP"
-status: complete
-domain: "concorsi pubblici italiani"
-topics: ["impaginazione KDP", "Book Studio", "nuclei didattici"]
-entities: ["ConcorsoBook OS", "Metodo BANDO"]
-source_refs: []
-book_refs: ["vol-08-ict-digitale-cybersecurity-dati", "m-tr01-ict-trasformazione-digitale"]
-confidence: 1
-updated_at: 2026-08-12
-created_at: 2026-08-05
-review_required: false
-canonical: false
-tags: ["review", "pipeline", "vol-08", "kdp-layout", "complete"]
-issue_type: kdp_layout
-severity: none
-affected_pages: ["wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/"]
----
+# VOL-08 — Step19, prova corrente del3ottobre2026
 
-# VOL-08 - Impaginazione KDP
+PDF244pagine, SHA256`ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de`. Formato481,92×691,92pt, colonna singola, corpo Garamond10,99pt effettivi, indice/tabelle9,49–9,50pt, codice Consolas9,49pt. Margini speculari e numerazione conservati. Zero overflow DOM, zero testo oltre la pagina, font incorporati, nessun asset mancante. Conteggio DOM=PDF.
 
-## Esito sintetico
+Indice:13capitoli e82nuclei confrontati direttamente con le pagine PDF, zero discrepanze. Nessuna eliminazione di contenuti per ottenere il riflusso. Tabelle dense proiettate in gruppi collegati. Pseudocodice44, SQL66, timeline163–164, apertura222, diario237 echiusura244 esaminati ingranditi, oltre all’indice6.
 
-Il master editoriale canonico è applicato correttamente al Volume 08. Il retrofit Format 2 ha risolto i precedenti blocker: i Nucleo ID sono presenti e riconciliati con l'indice analitico, mentre gli apparati `▣ Verifica` ricevono il trattamento grafico dedicato. Non sono stati eliminati testo o immagini e non è stato generato anticipatamente il PDF.
+Copertura: tutte16tavole contatto delle244pagine,8ingrandimenti. Le miniature controllano geometria, ritmo e salti; non equivalgono a lettura di ogni parola alla piena risoluzione. Metriche per ogni pagina e registro esatto in artifacts/correzioni-collana-2026-10-02/vol-08-release-20261003-proof-audit/metrics.json e VOL-08-production-visual.json.
 
-## Evidenza Book Studio
-
-| Controllo | Esito |
-| --- | --- |
-| Formato | 6,69 × 9,61 in, pagina singola, bianco e nero, senza bleed |
-| Pagine | 231, numerazione progressiva 1-231 |
-| Front matter | 6 sezioni |
-| Aperture modulo | 1 |
-| Capitoli | 13 |
-| Nuclei nel testo | 82 |
-| Nuclei nell'indice analitico | 82 |
-| Blocchi `▣ Verifica` | 13 |
-| Tipografia | H1/H2/H3 Arial 20/14/12 pt; corpo Garamond 11 pt; tabelle e callout Arial 9,5 pt |
-| Interlinea corpo | 1,18 |
-| Colonne | 1 |
-| Margini | speculari, con gutter proporzionato al master paperback |
-| Overflow | 0 su 231 pagine |
-| Collisioni | 0 su 231 pagine |
-| Asset strip / preview | nessuna sovrapposizione |
-
-Comando di verifica:
-
-```text
-BOOK_STUDIO_URL=http://127.0.0.1:3027
-BOOK_STUDIO_BOOK_IDS=volumi/vol-08
-BOOK_STUDIO_ARTIFACT_PREFIX=vol-08-step-19
-BOOK_STUDIO_EXPECTED_COUNTS={"frontMatter":6,"moduleOpenings":1,"chapters":13,"nuclei":82}
-node scripts/verify-book-studio-layout.mjs
-```
-
-Esito: `Book Studio layout OK for vol-08`.
-
-## Requisiti soddisfatti
-
-- master paperback KDP 6,69 × 9,61 in, colonna singola e senza bleed;
-- Garamond e Arial alle dimensioni canoniche, testo giustificato e interlinea 1,18;
-- pagine singole numerate progressivamente;
-- front matter canonico e apertura del modulo;
-- indice analitico con 82 nuclei derivati dai Nucleo ID;
-- 13 apparati `▣ Verifica` riconoscibili dal renderer;
-- zero overflow e collisioni strutturali;
-- nessun contenuto eliminato o asset ridotto per forzare il layout.
-
-## Blocker
-
-Nessuno. I due blocker del report del 5 agosto 2026 — assenza dei Nucleo ID e degli apparati `▣ Verifica` — sono risolti dal retrofit Format 2.
-
-## Evidenze tecniche
-
-- `artifacts/vol-08-step-19-layout-report.json`;
-- `artifacts/vol-08-step-19-vol-08.png`.
-
-## Confine con lo step 20
-
-Questo step certifica struttura, conteggi, master tipografico, numerazione e contenimento del rendering completo. Lo step 20 eseguirà l'audit qualitativo di ogni pagina, comprese vedove, orfani, spazi bianchi, spezzature di tabelle e apparati di verifica. Il suo esito non è anticipato qui.
+Le difformità storiche P08-01–05 sono risolte nella prova: indice leggibile, timeline senza spezzature patologiche, diario compilabile, gerarchia dei titoli distinta, avvertenza integrata nella chiusura. Nessun nuovo difetto locale bloccante osservato. Promessa digitale e dati editoriali comuni restano aperti: questa verifica non dà il via libera alla pubblicazione, né certifica KDP o stampa fisica.

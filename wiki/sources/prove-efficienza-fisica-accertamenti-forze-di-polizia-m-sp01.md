@@ -42,7 +42,7 @@ Riferimento regolamentare a monte: **d.m. Interno 30 giugno 2003, n. 198**, sui 
 >
 > Il d.m. 198/2003 prevede una statura non inferiore a 1,65 m per gli uomini e 1,61 m per le donne. **Quel requisito è superato.** La legge 12 gennaio 2015, n. 2 e il d.P.R. 17 dicembre 2015, n. 207 lo hanno sostituito con tre parametri misurati — composizione corporea, forza muscolare, massa metabolicamente attiva — per i concorsi banditi dopo il 13 gennaio 2016.
 >
-> Per i **parametri di ammissione** si cita [[sources/parametri-fisici-concorsi-dpr-207-2015-vol-12]], non il d.m. 198/2003. Quest'ultimo resta rilevante per l'idoneità psichica e attitudinale.
+> Per i **parametri di ammissione** si cita [[sources/parametri-fisici-concorsi-dpr-207-2015-vol-12]], non il d.m. 198/2003. Quest’ultimo conserva anche altri requisiti fisici e sanitari della Polizia di Stato; non si applica indistintamente ad Arma e Guardia di finanza.
 >
 > **Nessun valore di statura va scritto in capitolo.** È un requisito abolito che gran parte del pubblico crede ancora vigente.
 
@@ -106,7 +106,7 @@ Entrambi i corpi adottano un impianto **sostanzialmente di idoneità, con un bon
 **Le due differenze che il capitolo deve rendere esplicite** restano dunque queste, e la seconda è cambiata rispetto alla precedente stesura:
 
 1. Il terzo esercizio non è lo stesso: trazioni contro piegamenti. Sono due gesti diversi, che si allenano in modo diverso. Chi prepara entrambi i concorsi deve allenarli entrambi.
-2. **L'Arma prevede una prova facoltativa che la Polizia di Stato non ha.** Un candidato che salta 140 cm porta un punto che non avrebbe potuto guadagnare altrove. È l'unico margine di miglioramento discrezionale del sistema, ed è a costo zero: chi non se la sente rinuncia senza penalità.
+2. **L'Arma prevede una prova facoltativa che la Polizia di Stato non ha.** Un candidato che salta 140 cm porta un punto che non avrebbe potuto guadagnare altrove. È l'unico margine di miglioramento discrezionale del sistema, ed non comporta perdita dell’idoneità già raggiunta se non superato secondo il bando applicabile; prepararlo richiede comunque tempo e carico fisico.
 
 ## Guardia di Finanza
 
@@ -139,3 +139,10 @@ Il modulo descrive prove e criteri; **non prescrive programmi di allenamento**. 
 - [x] norme tecniche GdF acquisite e lette;
 - [x] tre documenti PS riletti integralmente con copertura pagina per pagina e degli allegati;
 - [x] rapporto fra requisiti di condotta, cause di esclusione e giurisprudenza successiva — **risolto il 2026-08-13**, non per deduzione ma per lettura integrale della fonte: il d.m. 198/2003 non è la fonte del requisito di condotta (quest'ultimo è l'art. 26 L. 53/1989, valutazione caso per caso) e la Corte cost. n. 40/2024 ne è un'applicazione, non un conflitto aperto. Sintesi completa in [[sources/ordinamento-forze-di-polizia-quadro-normativo-m-sp01]] § «La condotta come requisito».
+
+
+## Rettifica di ambito del 3 ottobre 2026
+
+Le tabelle storiche sopra non sono parametri universali dei corpi. Prima di usarle occorre associare il documento tecnico alla specifica procedura, ruolo, sesso e versione. Per il capitolo 04 si adotta come esempio completo nel perimetro il bando **983 allievi marescialli GdF 2026**, art.14 e allegato4, non il bando69ufficiali escluso dal modulo. Struttura, bonus e certificato sono consolidati nella sezione di riscontro di [[sources/bandi-rappresentativi-m-sp01-forze-polizia-2026]]. Evitare prescrizioni di allenamento o deduzioni personali di idoneità sanitaria. La condotta segue la sintesi rettificata della sentenza40/2024 nella fonte ordinamentale: non esiste una generale eliminazione delle cause ostative.
+
+Raccordo editoriale: [[topics/m-sp01-forze-ordine-percorsi-prove]], [[entities/ministero-interno]], [[books/moduli/m-sp01-forze-ordine/index]]. Restano distinti riscontri puntuali e materiale storico non riattestato.

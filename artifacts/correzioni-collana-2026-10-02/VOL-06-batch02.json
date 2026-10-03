@@ -1,0 +1,21 @@
+{
+  "V06-04": {
+    "change": "Integrati ordinamenti essenziali, organi/composizioni/competenze/quorum e procedimento PTOF/SNV, con casi numerici risolti.",
+    "files": [
+      "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md"
+    ],
+    "evidence": "Consolidati D.Lgs. 297 artt. 5/7/8/10/37, DPR275 art.3 e fonti INVALSI; rilettura del delta, calcoli quorum e 35→28% svolti.",
+    "status": "applicato"
+  },
+  "V06-05": {
+    "change": "Caso completo di trasferimento con nota istruttoria e rubrica; piano ATA con proposta DSGA, adozione DS, attuazione DSGA, quadro contrattuale 2025 e aree/profili.",
+    "files": [
+      "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md"
+    ],
+    "evidence": "ARAN CCNL2007 art53 e CCNL2024/2025 letti nei passaggi pertinenti; caso originale con confini di competenza e privacy.",
+    "status": "applicato"
+  }
+}

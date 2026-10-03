@@ -1,0 +1,156 @@
+[
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  }
+]

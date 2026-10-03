@@ -1,0 +1,112 @@
+[
+  {
+    "n": 1,
+    "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/01-mappa-bando-sistema-multilivello.png",
+    "sha256": "85c7e3e05106f5fa00f572b16225ef2ee69281f2dc9a7c252606ba70e55ccf8a",
+    "chapter": "Il sistema territoriale multilivello",
+    "alt": "Figura 18.1 - Mappa BANDO del sistema multilivello: dal bando al livello competente, fino ad atto, controllo e output.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 2,
+    "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/02-architettura-stato-regione-area-vasta-comune.png",
+    "sha256": "d7e0d96e06cf8bcf5cf2dbe82f3241f817009343a4cad94238d9a280757c8d28",
+    "chapter": "Il sistema territoriale multilivello",
+    "alt": "Figura 18.2 - Architettura territoriale multilivello: Stato, Regione, area vasta e Comune non sono una gerarchia semplice.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 3,
+    "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/03-sussidiarieta-differenziazione-adeguatezza.png",
+    "sha256": "bd1932a64e82c422192a54a8a80e8fbaff7fd7ba81842809f43f3d3fd625bded",
+    "chapter": "Il sistema territoriale multilivello",
+    "alt": "Figura 18.3 - Tre principi per allocare le funzioni: sussidiarietà, differenziazione e adeguatezza decidono la scala.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 4,
+    "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/04-catena-avviso-regionale-comuni.png",
+    "sha256": "2c83091db46bc3c6b6795ed8e1dcaf318de9530e17676f7e115be2444307e7e3",
+    "chapter": "Il sistema territoriale multilivello",
+    "alt": "Figura 18.4 - Catena di un avviso regionale: programma, avviso, beneficiario, attuazione, rendicontazione e monitoraggio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 5,
+    "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/05-area-vasta-funzione-atto.png",
+    "sha256": "fefd992ea94efd1bce6daaff70eca8c00b2c7d138ccd8fc623fe610d52cd54ac",
+    "chapter": "Il sistema territoriale multilivello",
+    "alt": "Figura 18.5 - Area vasta, funzione e atto: Province e Città metropolitane governano funzioni sovracomunali.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 6,
+    "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/01-mappa-bando-sistema-camerale.png",
+    "sha256": "0bcea102bc97930cc1d657c6830a3456cff1154cbc6ce573ad0547b2fa33755d",
+    "chapter": "Camere di commercio, sistema camerale e Unioncamere",
+    "alt": "Figura 30.1 - Mappa BANDO del sistema camerale: dal bando camerale a ente, funzione, servizio e output di prova.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 7,
+    "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/02-autonomia-funzionale-camera-commercio.png",
+    "sha256": "6b632f0b63ce09d97a54cd6001b3bf3dbaabe1bd8937b81c43740e240a9fda27",
+    "chapter": "Camere di commercio, sistema camerale e Unioncamere",
+    "alt": "Figura 30.2 - Camera di commercio e autonomia funzionale: ente pubblico specializzato sul sistema delle imprese.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 8,
+    "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/03-sistema-camerale-unioncamere.png",
+    "sha256": "8f8bc002d51535289bf6f2f48cc57bb43048cf3b28cb1fe9cab5c1257ab65073",
+    "chapter": "Camere di commercio, sistema camerale e Unioncamere",
+    "alt": "Figura 30.3 - Sistema camerale e Unioncamere: una rete di enti, raccordi e strumenti comuni.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 9,
+    "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/04-funzioni-camerali-servizi-mercato.png",
+    "sha256": "7a35fdf6c4ee1ec7f08838c786d4f8615cac93ed0de92f9068f8769c4a3582fb",
+    "chapter": "Camere di commercio, sistema camerale e Unioncamere",
+    "alt": "Figura 30.4 - Funzioni camerali: dalla definizione istituzionale ai servizi visibili in prova.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 10,
+    "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/05-catena-impresa-camera-suap.png",
+    "sha256": "b0130e11f0448441d1f593a1950696e90168bd062a194c9a9a8154146a5ef1e4",
+    "chapter": "Camere di commercio, sistema camerale e Unioncamere",
+    "alt": "Figura 30.5 - Catena operativa impresa-Camera-SUAP: separare dato camerale, titolo amministrativo e output all’utente.",
+    "pixels": [
+      1600,
+      900
+    ]
+  }
+]

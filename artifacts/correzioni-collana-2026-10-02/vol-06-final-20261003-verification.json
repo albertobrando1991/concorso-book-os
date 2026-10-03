@@ -1,0 +1,556 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-06-final-20261003-proof.pdf",
+  "sha256": "59d7edb2eca2cce18eb3d7c74e0aee30368c1951ef70826cf3d4c38840affd0a",
+  "pages": 617,
+  "domPages": 617,
+  "pageCountMatch": true,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "indexEntries": [
+    {
+      "number": 1,
+      "title": "La scuola e i quattro profili",
+      "indexPage": 6,
+      "printedPage": 9,
+      "actualPage": 9,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md"
+    },
+    {
+      "number": 2,
+      "title": "Sistema nazionale, autonomia e organizzazione",
+      "indexPage": 6,
+      "printedPage": 13,
+      "actualPage": 13,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md"
+    },
+    {
+      "number": 3,
+      "title": "Organi collegiali e governance",
+      "indexPage": 6,
+      "printedPage": 22,
+      "actualPage": 22,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md"
+    },
+    {
+      "number": 4,
+      "title": "PTOF, RAV, PdM, valutazione e inclusione",
+      "indexPage": 6,
+      "printedPage": 31,
+      "actualPage": 31,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md"
+    },
+    {
+      "number": 5,
+      "title": "Segreteria ATA: alunni, protocollo e carriere",
+      "indexPage": 6,
+      "printedPage": 39,
+      "actualPage": 39,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md"
+    },
+    {
+      "number": 6,
+      "title": "DSGA/EQ: ruolo, uffici e personale",
+      "indexPage": 6,
+      "printedPage": 48,
+      "actualPage": 48,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md"
+    },
+    {
+      "number": 7,
+      "title": "Contabilità scolastica",
+      "indexPage": 6,
+      "printedPage": 58,
+      "actualPage": 58,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md"
+    },
+    {
+      "number": 8,
+      "title": "Acquisti, inventario e PNRR",
+      "indexPage": 6,
+      "printedPage": 68,
+      "actualPage": 68,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md"
+    },
+    {
+      "number": 9,
+      "title": "Dirigente scolastico: leadership e management",
+      "indexPage": 6,
+      "printedPage": 77,
+      "actualPage": 77,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md"
+    },
+    {
+      "number": 10,
+      "title": "Relazioni sindacali, sicurezza e responsabilità",
+      "indexPage": 6,
+      "printedPage": 85,
+      "actualPage": 85,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md"
+    },
+    {
+      "number": 11,
+      "title": "Pedagogia, psicologia e inclusione",
+      "indexPage": 6,
+      "printedPage": 93,
+      "actualPage": 93,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md"
+    },
+    {
+      "number": 12,
+      "title": "Metodologie, valutazione e digitale didattico",
+      "indexPage": 6,
+      "printedPage": 104,
+      "actualPage": 104,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md"
+    },
+    {
+      "number": 13,
+      "title": "Progettazione e lezione simulata",
+      "indexPage": 6,
+      "printedPage": 112,
+      "actualPage": 112,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md"
+    },
+    {
+      "number": 14,
+      "title": "Sistema universitario e AFAM",
+      "indexPage": 6,
+      "printedPage": 123,
+      "actualPage": 123,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md"
+    },
+    {
+      "number": 15,
+      "title": "Autonomia, statuti e organi",
+      "indexPage": 6,
+      "printedPage": 133,
+      "actualPage": 133,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md"
+    },
+    {
+      "number": 16,
+      "title": "Ordinamenti didattici e qualità",
+      "indexPage": 6,
+      "printedPage": 144,
+      "actualPage": 144,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md"
+    },
+    {
+      "number": 17,
+      "title": "Carriere studenti e diritto allo studio",
+      "indexPage": 6,
+      "printedPage": 156,
+      "actualPage": 156,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md"
+    },
+    {
+      "number": 18,
+      "title": "Atti, protocollo, accesso e digitale",
+      "indexPage": 6,
+      "printedPage": 168,
+      "actualPage": 168,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md"
+    },
+    {
+      "number": 19,
+      "title": "Bilancio di ateneo",
+      "indexPage": 6,
+      "printedPage": 178,
+      "actualPage": 178,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md"
+    },
+    {
+      "number": 20,
+      "title": "Ricerca e grant management",
+      "indexPage": 6,
+      "printedPage": 190,
+      "actualPage": 190,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md"
+    },
+    {
+      "number": 21,
+      "title": "PRIN, Horizon, PNRR e audit",
+      "indexPage": 6,
+      "printedPage": 201,
+      "actualPage": 201,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md"
+    },
+    {
+      "number": 22,
+      "title": "Biblioteche, cataloghi e open access",
+      "indexPage": 6,
+      "printedPage": 211,
+      "actualPage": 211,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md"
+    },
+    {
+      "number": 23,
+      "title": "Orientamento, placement e terza missione",
+      "indexPage": 6,
+      "printedPage": 228,
+      "actualPage": 228,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md"
+    },
+    {
+      "number": 24,
+      "title": "AFAM: ordinamento e amministrazione",
+      "indexPage": 6,
+      "printedPage": 243,
+      "actualPage": 243,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md"
+    },
+    {
+      "number": 25,
+      "title": "Laboratorio per i quattro profili",
+      "indexPage": 6,
+      "printedPage": 260,
+      "actualPage": 260,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+    },
+    {
+      "number": 26,
+      "title": "EPR e quattro profili",
+      "indexPage": 6,
+      "printedPage": 274,
+      "actualPage": 274,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md"
+    },
+    {
+      "number": 27,
+      "title": "Autonomia, statuti e governance degli enti pubblici di ricerca",
+      "indexPage": 7,
+      "printedPage": 285,
+      "actualPage": 285,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md"
+    },
+    {
+      "number": 28,
+      "title": "Profili e organizzazione del lavoro negli enti pubblici di ricerca",
+      "indexPage": 7,
+      "printedPage": 300,
+      "actualPage": 300,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md"
+    },
+    {
+      "number": 29,
+      "title": "Amministrazione, contabilità e controlli negli enti pubblici di ricerca",
+      "indexPage": 7,
+      "printedPage": 314,
+      "actualPage": 314,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md"
+    },
+    {
+      "number": 30,
+      "title": "Compliance, audit, acquisti e missioni",
+      "indexPage": 7,
+      "printedPage": 330,
+      "actualPage": 330,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md"
+    },
+    {
+      "number": 31,
+      "title": "Metodologia e progettazione",
+      "indexPage": 7,
+      "printedPage": 341,
+      "actualPage": 341,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md"
+    },
+    {
+      "number": 32,
+      "title": "Pubblicazioni, valutazione e integrità",
+      "indexPage": 7,
+      "printedPage": 353,
+      "actualPage": 353,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md"
+    },
+    {
+      "number": 33,
+      "title": "Tecnologo, laboratori e infrastrutture",
+      "indexPage": 7,
+      "printedPage": 365,
+      "actualPage": 365,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md"
+    },
+    {
+      "number": 34,
+      "title": "Proprietà intellettuale e trasferimento",
+      "indexPage": 7,
+      "printedPage": 377,
+      "actualPage": 377,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md"
+    },
+    {
+      "number": 35,
+      "title": "Open science, FAIR e dati",
+      "indexPage": 7,
+      "printedPage": 390,
+      "actualPage": 390,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md"
+    },
+    {
+      "number": 36,
+      "title": "Horizon, PNRR e grant management",
+      "indexPage": 7,
+      "printedPage": 403,
+      "actualPage": 403,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md"
+    },
+    {
+      "number": 37,
+      "title": "Laboratorio per i quattro profili",
+      "indexPage": 7,
+      "printedPage": 416,
+      "actualPage": 416,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md"
+    },
+    {
+      "number": 38,
+      "title": "MiC e quattro profili",
+      "indexPage": 7,
+      "printedPage": 430,
+      "actualPage": 430,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md"
+    },
+    {
+      "number": 39,
+      "title": "Organizzazione centrale e periferica",
+      "indexPage": 7,
+      "printedPage": 443,
+      "actualPage": 443,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md"
+    },
+    {
+      "number": 40,
+      "title": "Codice dei beni culturali: sistema e categorie",
+      "indexPage": 7,
+      "printedPage": 456,
+      "actualPage": 456,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md"
+    },
+    {
+      "number": 41,
+      "title": "Tutela, valorizzazione, fruizione e paesaggio",
+      "indexPage": 7,
+      "printedPage": 470,
+      "actualPage": 470,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md"
+    },
+    {
+      "number": 42,
+      "title": "Procedimenti, vincoli e circolazione",
+      "indexPage": 7,
+      "printedPage": 484,
+      "actualPage": 484,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md"
+    },
+    {
+      "number": 43,
+      "title": "Catalogazione e digitalizzazione",
+      "indexPage": 7,
+      "printedPage": 500,
+      "actualPage": 500,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md"
+    },
+    {
+      "number": 44,
+      "title": "Archivistica e archivi",
+      "indexPage": 7,
+      "printedPage": 513,
+      "actualPage": 513,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md"
+    },
+    {
+      "number": 45,
+      "title": "Biblioteconomia e servizi",
+      "indexPage": 7,
+      "printedPage": 527,
+      "actualPage": 527,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md"
+    },
+    {
+      "number": 46,
+      "title": "Archeologia e tutela territoriale",
+      "indexPage": 7,
+      "printedPage": 541,
+      "actualPage": 541,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md"
+    },
+    {
+      "number": 47,
+      "title": "Storia dell'arte e museologia",
+      "indexPage": 7,
+      "printedPage": 556,
+      "actualPage": 556,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md"
+    },
+    {
+      "number": 48,
+      "title": "Restauro e conservazione",
+      "indexPage": 7,
+      "printedPage": 573,
+      "actualPage": 573,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md"
+    },
+    {
+      "number": 49,
+      "title": "Architettura, paesaggio e cantieri",
+      "indexPage": 7,
+      "printedPage": 589,
+      "actualPage": 589,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md"
+    },
+    {
+      "number": 50,
+      "title": "Fruizione, vigilanza e sicurezza",
+      "indexPage": 7,
+      "printedPage": 603,
+      "actualPage": 603,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md"
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "name": "AAAAAA+Arial-BoldMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "BAAAAA+Garamond",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+Arial-Black",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "",
+      "type": "Type3",
+      "embedded": true
+    },
+    {
+      "name": "FAAAAA+CambriaMath",
+      "type": "Type0",
+      "embedded": true
+    }
+  ],
+  "allFontsEmbedded": true,
+  "overflowPages": [],
+  "internalLeaks": [],
+  "replacementGlyphs": 0,
+  "missingImages": 0,
+  "indexMinimumPt": 9.500025,
+  "limits": [
+    "Verifica tecnica locale; non equivale a revisione visiva o certificazione normativa.",
+    "Nessuna prova fisica o KDP Previewer eseguita."
+  ]
+}

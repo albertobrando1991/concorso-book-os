@@ -1,0 +1,2991 @@
+[
+  {
+    "page": 1,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 756,
+    "spanCount": 28,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 2,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 300,
+    "spanCount": 9,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 3,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 661,
+    "spanCount": 12,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 4,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 299,
+    "spanCount": 15,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 5,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 733,
+    "spanCount": 13,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 6,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2516,
+    "spanCount": 171,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "Cap. 1",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "1.1",
+        "size": 6.75
+      },
+      {
+        "text": "Quattro profili, molti programmi",
+        "size": 6.75
+      },
+      {
+        "text": "10",
+        "size": 6.75
+      },
+      {
+        "text": "1.2",
+        "size": 6.75
+      },
+      {
+        "text": "Dove lavora il tecnico pubblico",
+        "size": 6.75
+      },
+      {
+        "text": "11",
+        "size": 6.75
+      },
+      {
+        "text": "1.3",
+        "size": 6.75
+      },
+      {
+        "text": "Leggere un bando tecnico",
+        "size": 6.75
+      },
+      {
+        "text": "11",
+        "size": 6.75
+      },
+      {
+        "text": "1.4",
+        "size": 6.75
+      },
+      {
+        "text": "Bando Decoder tecnico",
+        "size": 6.75
+      },
+      {
+        "text": "12",
+        "size": 6.75
+      },
+      {
+        "text": "1.5",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: tre bandi, tre piani",
+        "size": 6.75
+      },
+      {
+        "text": "13",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 2",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "2.1",
+        "size": 6.75
+      },
+      {
+        "text": "Che cos’è un ufficio tecnico pubblico",
+        "size": 6.75
+      },
+      {
+        "text": "16",
+        "size": 6.75
+      },
+      {
+        "text": "2.2",
+        "size": 6.75
+      },
+      {
+        "text": "Dal fatto al procedimento",
+        "size": 6.75
+      },
+      {
+        "text": "17",
+        "size": 6.75
+      },
+      {
+        "text": "2.3",
+        "size": 6.75
+      },
+      {
+        "text": "I documenti del tecnico",
+        "size": 6.75
+      },
+      {
+        "text": "17",
+        "size": 6.75
+      },
+      {
+        "text": "2.4",
+        "size": 6.75
+      },
+      {
+        "text": "Tracciabilità e fascicolo",
+        "size": 6.75
+      },
+      {
+        "text": "18",
+        "size": 6.75
+      },
+      {
+        "text": "2.5",
+        "size": 6.75
+      },
+      {
+        "text": "Responsabilità: una mappa per funzioni",
+        "size": 6.75
+      },
+      {
+        "text": "19",
+        "size": 6.75
+      },
+      {
+        "text": "2.6",
+        "size": 6.75
+      },
+      {
+        "text": "Coordinamento e conferenza di servizi",
+        "size": 6.75
+      },
+      {
+        "text": "19",
+        "size": 6.75
+      },
+      {
+        "text": "2.7",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: un sopralluogo su un immobile comunale",
+        "size": 6.75
+      },
+      {
+        "text": "20",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 3",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "3.1",
+        "size": 6.75
+      },
+      {
+        "text": "Dalla struttura reale al modello",
+        "size": 6.75
+      },
+      {
+        "text": "23",
+        "size": 6.75
+      },
+      {
+        "text": "3.2",
+        "size": 6.75
+      },
+      {
+        "text": "Azioni, reazioni ed equilibrio",
+        "size": 6.75
+      },
+      {
+        "text": "24",
+        "size": 6.75
+      },
+      {
+        "text": "3.3",
+        "size": 6.75
+      },
+      {
+        "text": "Sollecitazioni interne",
+        "size": 6.75
+      },
+      {
+        "text": "24",
+        "size": 6.75
+      },
+      {
+        "text": "3.4",
+        "size": 6.75
+      },
+      {
+        "text": "Tensione e deformazione",
+        "size": 6.75
+      },
+      {
+        "text": "25",
+        "size": 6.75
+      },
+      {
+        "text": "3.5",
+        "size": 6.75
+      },
+      {
+        "text": "Proprietà e comportamento dei materiali",
+        "size": 6.75
+      },
+      {
+        "text": "25",
+        "size": 6.75
+      },
+      {
+        "text": "3.6",
+        "size": 6.75
+      },
+      {
+        "text": "Cinque prestazioni da non confondere",
+        "size": 6.75
+      },
+      {
+        "text": "26",
+        "size": 6.75
+      },
+      {
+        "text": "3.7",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: un elemento compresso",
+        "size": 6.75
+      },
+      {
+        "text": "26",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 4",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "4.1",
+        "size": 6.75
+      },
+      {
+        "text": "Dalla regola tecnica al percorso di verifica",
+        "size": 6.75
+      },
+      {
+        "text": "30",
+        "size": 6.75
+      },
+      {
+        "text": "4.2",
+        "size": 6.75
+      },
+      {
+        "text": "Vita nominale, classe d’uso e periodo di riferimento",
+        "size": 6.75
+      },
+      {
+        "text": "31",
+        "size": 6.75
+      },
+      {
+        "text": "4.3",
+        "size": 6.75
+      },
+      {
+        "text": "Stati limite, azioni e verifiche",
+        "size": 6.75
+      },
+      {
+        "text": "31",
+        "size": 6.75
+      },
+      {
+        "text": "4.4",
+        "size": 6.75
+      },
+      {
+        "text": "Principi di progettazione sismica",
+        "size": 6.75
+      },
+      {
+        "text": "32",
+        "size": 6.75
+      },
+      {
+        "text": "4.5",
+        "size": 6.75
+      },
+      {
+        "text": "Geologia, geotecnica e modello del sottosuolo",
+        "size": 6.75
+      },
+      {
+        "text": "33",
+        "size": 6.75
+      },
+      {
+        "text": "4.6",
+        "size": 6.75
+      },
+      {
+        "text": "Fondazioni e interazione terreno–struttura",
+        "size": 6.75
+      },
+      {
+        "text": "34",
+        "size": 6.75
+      },
+      {
+        "text": "4.7",
+        "size": 6.75
+      },
+      {
+        "text": "Costruzioni esistenti, controlli e collaudo statico",
+        "size": 6.75
+      },
+      {
+        "text": "34",
+        "size": 6.75
+      },
+      {
+        "text": "4.8",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: edificio pubblico su un sito complesso",
+        "size": 6.75
+      },
+      {
+        "text": "35",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 5",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "5.1",
+        "size": 6.75
+      },
+      {
+        "text": "Un sistema multilivello",
+        "size": 6.75
+      },
+      {
+        "text": "38",
+        "size": 6.75
+      },
+      {
+        "text": "5.2",
+        "size": 6.75
+      },
+      {
+        "text": "Piani: funzione, contenuto ed effetti",
+        "size": 6.75
+      },
+      {
+        "text": "38",
+        "size": 6.75
+      },
+      {
+        "text": "5.3",
+        "size": 6.75
+      },
+      {
+        "text": "Zonizzazione, destinazioni e standard",
+        "size": 6.75
+      },
+      {
+        "text": "38",
+        "size": 6.75
+      },
+      {
+        "text": "5.4",
+        "size": 6.75
+      },
+      {
+        "text": "Dal piano all’intervento",
+        "size": 6.75
+      },
+      {
+        "text": "39",
+        "size": 6.75
+      },
+      {
+        "text": "5.5",
+        "size": 6.75
+      },
+      {
+        "text": "Vincoli: fonte, effetto, durata",
+        "size": 6.75
+      },
+      {
+        "text": "39",
+        "size": 6.75
+      },
+      {
+        "text": "5.6",
+        "size": 6.75
+      },
+      {
+        "text": "Espropriazione e pianificazione",
+        "size": 6.75
+      },
+      {
+        "text": "40",
+        "size": 6.75
+      },
+      {
+        "text": "5.7",
+        "size": 6.75
+      },
+      {
+        "text": "Paesaggio e governo del territorio",
+        "size": 6.75
+      },
+      {
+        "text": "40",
+        "size": 6.75
+      },
+      {
+        "text": "5.8",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: area destinata a servizio",
+        "size": 6.75
+      },
+      {
+        "text": "40",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 6",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "6.1",
+        "size": 6.75
+      },
+      {
+        "text": "Urbanistica ed edilizia: il confine operativo",
+        "size": 6.75
+      },
+      {
+        "text": "44",
+        "size": 6.75
+      },
+      {
+        "text": "6.2",
+        "size": 6.75
+      },
+      {
+        "text": "Dall’opera alla categoria di intervento",
+        "size": 6.75
+      },
+      {
+        "text": "44",
+        "size": 6.75
+      },
+      {
+        "text": "6.3",
+        "size": 6.75
+      },
+      {
+        "text": "Regimi e titoli edilizi",
+        "size": 6.75
+      },
+      {
+        "text": "45",
+        "size": 6.75
+      },
+      {
+        "text": "6.4",
+        "size": 6.75
+      },
+      {
+        "text": "SUE e istruttoria della pratica",
+        "size": 6.75
+      },
+      {
+        "text": "46",
+        "size": 6.75
+      },
+      {
+        "text": "6.5",
+        "size": 6.75
+      },
+      {
+        "text": "Stato legittimo, conformità e agibilità",
+        "size": 6.75
+      },
+      {
+        "text": "47",
+        "size": 6.75
+      },
+      {
+        "text": "6.6",
+        "size": 6.75
+      },
+      {
+        "text": "Vigilanza e abusi edilizi",
+        "size": 6.75
+      },
+      {
+        "text": "47",
+        "size": 6.75
+      },
+      {
+        "text": "6.7",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: trasformazione di un immobile esistente",
+        "size": 6.75
+      },
+      {
+        "text": "48",
+        "size": 6.75
+      },
+      {
+        "text": "6.8",
+        "size": 6.75
+      },
+      {
+        "text": "Griglia di qualificazione",
+        "size": 6.75
+      },
+      {
+        "text": "49",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 7",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "7.1",
+        "size": 6.75
+      },
+      {
+        "text": "La progettazione nel ciclo dell’opera",
+        "size": 6.75
+      },
+      {
+        "text": "51",
+        "size": 6.75
+      },
+      {
+        "text": "7.2",
+        "size": 6.75
+      },
+      {
+        "text": "Quadro esigenziale e DIP",
+        "size": 6.75
+      },
+      {
+        "text": "52",
+        "size": 6.75
+      },
+      {
+        "text": "7.3",
+        "size": 6.75
+      },
+      {
+        "text": "I livelli della progettazione",
+        "size": 6.75
+      },
+      {
+        "text": "53",
+        "size": 6.75
+      },
+      {
+        "text": "7.4",
+        "size": 6.75
+      },
+      {
+        "text": "Elaborati e coordinamento interdisciplinare",
+        "size": 6.75
+      },
+      {
+        "text": "54",
+        "size": 6.75
+      },
+      {
+        "text": "7.5",
+        "size": 6.75
+      },
+      {
+        "text": "Soggetti e responsabilità",
+        "size": 6.75
+      },
+      {
+        "text": "55",
+        "size": 6.75
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT"
+    ]
+  },
+  {
+    "page": 7,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2057,
+    "spanCount": 142,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "7.6",
+        "size": 6.75
+      },
+      {
+        "text": "Verifica e validazione",
+        "size": 6.75
+      },
+      {
+        "text": "55",
+        "size": 6.75
+      },
+      {
+        "text": "7.7",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: riqualificare e ampliare una scuola",
+        "size": 6.75
+      },
+      {
+        "text": "56",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 8",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "8.1",
+        "size": 6.75
+      },
+      {
+        "text": "Dalla stipula all'avvio dei lavori",
+        "size": 6.75
+      },
+      {
+        "text": "59",
+        "size": 6.75
+      },
+      {
+        "text": "8.2",
+        "size": 6.75
+      },
+      {
+        "text": "I soggetti dell'esecuzione",
+        "size": 6.75
+      },
+      {
+        "text": "60",
+        "size": 6.75
+      },
+      {
+        "text": "8.3",
+        "size": 6.75
+      },
+      {
+        "text": "Direzione e controllo in corso d'opera",
+        "size": 6.75
+      },
+      {
+        "text": "61",
+        "size": 6.75
+      },
+      {
+        "text": "8.4",
+        "size": 6.75
+      },
+      {
+        "text": "Modifiche, sospensioni e contestazioni",
+        "size": 6.75
+      },
+      {
+        "text": "62",
+        "size": 6.75
+      },
+      {
+        "text": "8.5",
+        "size": 6.75
+      },
+      {
+        "text": "Sicurezza del cantiere",
+        "size": 6.75
+      },
+      {
+        "text": "63",
+        "size": 6.75
+      },
+      {
+        "text": "8.6",
+        "size": 6.75
+      },
+      {
+        "text": "Ultimazione e passaggio ai controlli finali",
+        "size": 6.75
+      },
+      {
+        "text": "63",
+        "size": 6.75
+      },
+      {
+        "text": "8.7",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: riqualificazione di una scuola",
+        "size": 6.75
+      },
+      {
+        "text": "64",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 9",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "9.1",
+        "size": 6.75
+      },
+      {
+        "text": "Dall'ultimazione al controllo finale",
+        "size": 6.75
+      },
+      {
+        "text": "66",
+        "size": 6.75
+      },
+      {
+        "text": "9.2",
+        "size": 6.75
+      },
+      {
+        "text": "Tipi di controllo e certificati",
+        "size": 6.75
+      },
+      {
+        "text": "67",
+        "size": 6.75
+      },
+      {
+        "text": "9.3",
+        "size": 6.75
+      },
+      {
+        "text": "Soggetti, operazioni ed esito",
+        "size": 6.75
+      },
+      {
+        "text": "68",
+        "size": 6.75
+      },
+      {
+        "text": "9.4",
+        "size": 6.75
+      },
+      {
+        "text": "Dalla consegna alla gestione",
+        "size": 6.75
+      },
+      {
+        "text": "69",
+        "size": 6.75
+      },
+      {
+        "text": "9.5",
+        "size": 6.75
+      },
+      {
+        "text": "Piano di manutenzione e ciclo di vita",
+        "size": 6.75
+      },
+      {
+        "text": "70",
+        "size": 6.75
+      },
+      {
+        "text": "9.6",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: la scuola passa alla gestione",
+        "size": 6.75
+      },
+      {
+        "text": "71",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 10",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "10.1",
+        "size": 6.75
+      },
+      {
+        "text": "Dalla lavorazione alla stima",
+        "size": 6.75
+      },
+      {
+        "text": "73",
+        "size": 6.75
+      },
+      {
+        "text": "10.2",
+        "size": 6.75
+      },
+      {
+        "text": "Computo e analisi dei prezzi",
+        "size": 6.75
+      },
+      {
+        "text": "74",
+        "size": 6.75
+      },
+      {
+        "text": "10.3",
+        "size": 6.75
+      },
+      {
+        "text": "Capitolati e coerenza degli elaborati",
+        "size": 6.75
+      },
+      {
+        "text": "75",
+        "size": 6.75
+      },
+      {
+        "text": "10.4",
+        "size": 6.75
+      },
+      {
+        "text": "La contabilità dell'esecuzione",
+        "size": 6.75
+      },
+      {
+        "text": "75",
+        "size": 6.75
+      },
+      {
+        "text": "10.5",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: una voce dal computo al SAL",
+        "size": 6.75
+      },
+      {
+        "text": "77",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 11",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "11.1",
+        "size": 6.75
+      },
+      {
+        "text": "Dalla singola opera alla rete",
+        "size": 6.75
+      },
+      {
+        "text": "79",
+        "size": 6.75
+      },
+      {
+        "text": "11.2",
+        "size": 6.75
+      },
+      {
+        "text": "Leggere un ponte e le opere d'arte",
+        "size": 6.75
+      },
+      {
+        "text": "80",
+        "size": 6.75
+      },
+      {
+        "text": "11.3",
+        "size": 6.75
+      },
+      {
+        "text": "Conoscenza, ispezione e rischio",
+        "size": 6.75
+      },
+      {
+        "text": "81",
+        "size": 6.75
+      },
+      {
+        "text": "11.4",
+        "size": 6.75
+      },
+      {
+        "text": "Monitoraggio e gestione delle anomalie",
+        "size": 6.75
+      },
+      {
+        "text": "82",
+        "size": 6.75
+      },
+      {
+        "text": "11.5",
+        "size": 6.75
+      },
+      {
+        "text": "Manutenzione e priorità di rete",
+        "size": 6.75
+      },
+      {
+        "text": "82",
+        "size": 6.75
+      },
+      {
+        "text": "11.6",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: dal segnale alla decisione",
+        "size": 6.75
+      },
+      {
+        "text": "83",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 12",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "12.1",
+        "size": 6.75
+      },
+      {
+        "text": "Dal bene al dato e ritorno",
+        "size": 6.75
+      },
+      {
+        "text": "86",
+        "size": 6.75
+      },
+      {
+        "text": "12.2",
+        "size": 6.75
+      },
+      {
+        "text": "BIM e gestione informativa",
+        "size": 6.75
+      },
+      {
+        "text": "87",
+        "size": 6.75
+      },
+      {
+        "text": "12.3",
+        "size": 6.75
+      },
+      {
+        "text": "GIS, cartografia e rilievo",
+        "size": 6.75
+      },
+      {
+        "text": "88",
+        "size": 6.75
+      },
+      {
+        "text": "12.4",
+        "size": 6.75
+      },
+      {
+        "text": "Catasto e dati immobiliari",
+        "size": 6.75
+      },
+      {
+        "text": "88",
+        "size": 6.75
+      },
+      {
+        "text": "12.5",
+        "size": 6.75
+      },
+      {
+        "text": "Patrimonio pubblico e inventario tecnico",
+        "size": 6.75
+      },
+      {
+        "text": "89",
+        "size": 6.75
+      },
+      {
+        "text": "12.6",
+        "size": 6.75
+      },
+      {
+        "text": "Caso guidato: riconciliare i dati di una scuola",
+        "size": 6.75
+      },
+      {
+        "text": "90",
+        "size": 6.75
+      },
+      {
+        "text": "Cap. 13",
+        "size": 6.600000381469727
+      },
+      {
+        "text": "13.1",
+        "size": 6.75
+      },
+      {
+        "text": "Dalla traccia all'output",
+        "size": 6.75
+      },
+      {
+        "text": "92",
+        "size": 6.75
+      },
+      {
+        "text": "13.2",
+        "size": 6.75
+      },
+      {
+        "text": "Criteri di qualità e controllo",
+        "size": 6.75
+      },
+      {
+        "text": "93",
+        "size": 6.75
+      },
+      {
+        "text": "13.3",
+        "size": 6.75
+      },
+      {
+        "text": "Quiz e risposta tecnica sintetica",
+        "size": 6.75
+      },
+      {
+        "text": "94",
+        "size": 6.75
+      },
+      {
+        "text": "13.4",
+        "size": 6.75
+      },
+      {
+        "text": "Prova scritto-grafica e mini-computo",
+        "size": 6.75
+      },
+      {
+        "text": "95",
+        "size": 6.75
+      },
+      {
+        "text": "13.5",
+        "size": 6.75
+      },
+      {
+        "text": "Sopralluogo e relazione tecnica",
+        "size": 6.75
+      },
+      {
+        "text": "96",
+        "size": 6.75
+      },
+      {
+        "text": "13.6",
+        "size": 6.75
+      },
+      {
+        "text": "Caso integrato e risposta orale",
+        "size": 6.75
+      },
+      {
+        "text": "97",
+        "size": 6.75
+      },
+      {
+        "text": "13.7",
+        "size": 6.75
+      },
+      {
+        "text": "Simulazione finale guidata",
+        "size": 6.75
+      },
+      {
+        "text": "97",
+        "size": 6.75
+      },
+      {
+        "text": "13.8",
+        "size": 6.75
+      },
+      {
+        "text": "Diario degli errori tecnico",
+        "size": 6.75
+      },
+      {
+        "text": "98",
+        "size": 6.75
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT"
+    ]
+  },
+  {
+    "page": 8,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 868,
+    "spanCount": 29,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 9,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1685,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 10,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2281,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 11,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2868,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 12,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1683,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 13,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1738,
+    "spanCount": 33,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 14,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1905,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 15,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1579,
+    "spanCount": 54,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 16,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1896,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 17,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2541,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 18,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1937,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 19,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1860,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 20,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2294,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 21,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 657,
+    "spanCount": 15,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 22,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1782,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 23,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1759,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 24,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2292,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 25,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2229,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 26,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2132,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 27,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1690,
+    "spanCount": 33,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 28,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 422,
+    "spanCount": 11,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 29,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1854,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 30,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1751,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 31,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2293,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 32,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2425,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 33,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2455,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 34,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2434,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 35,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2153,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 36,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1253,
+    "spanCount": 26,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 37,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1444,
+    "spanCount": 53,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 38,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2344,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 39,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2700,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 40,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2072,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 41,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1884,
+    "spanCount": 35,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 42,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 370,
+    "spanCount": 9,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 43,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1521,
+    "spanCount": 54,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 44,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1889,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 45,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2654,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 46,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1705,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 47,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1812,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 48,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2636,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 49,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1757,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 50,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1593,
+    "spanCount": 33,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 51,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2046,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 52,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2755,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 53,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2708,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 54,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2349,
+    "spanCount": 53,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 55,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2703,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 56,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2161,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 57,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1691,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 58,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 543,
+    "spanCount": 13,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 59,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2056,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 60,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2407,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 61,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2757,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 62,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2578,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 63,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2509,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 64,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1744,
+    "spanCount": 70,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 65,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1483,
+    "spanCount": 29,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 66,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2123,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 67,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2644,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 68,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2092,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 69,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2585,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 70,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2714,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 71,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1706,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 72,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1625,
+    "spanCount": 31,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 73,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2069,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 74,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2670,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 75,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2078,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 76,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2563,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 77,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2131,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 78,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 684,
+    "spanCount": 17,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 79,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1992,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 80,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2887,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 81,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2716,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 82,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2522,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 83,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2146,
+    "spanCount": 34,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 84,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1648,
+    "spanCount": 59,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 85,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1038,
+    "spanCount": 19,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 86,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1764,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 87,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2486,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 88,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2203,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 89,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2009,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 90,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1855,
+    "spanCount": 61,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 91,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1194,
+    "spanCount": 25,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 92,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2029,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.25
+      },
+      {
+        "text": "AREE",
+        "size": 5.25
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.25
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.25
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.25
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 93,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1808,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 94,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1775,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 95,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2306,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 96,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2037,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 97,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 2346,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 98,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1313,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 99,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 1527,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "Type3 (50 0 R)"
+    ]
+  },
+  {
+    "page": 100,
+    "width": 481.91998291015625,
+    "height": 691.9199829101562,
+    "chars": 763,
+    "spanCount": 18,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  }
+]

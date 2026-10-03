@@ -1,0 +1,7032 @@
+[
+  {
+    "page": 1,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 756,
+    "spanCount": 28,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 2,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 299,
+    "spanCount": 10,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 3,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 655,
+    "spanCount": 12,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 4,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 446,
+    "spanCount": 26,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 5,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 751,
+    "spanCount": 13,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 6,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2182,
+    "spanCount": 113,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "Cap. 1",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 2",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 3",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 4",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 5",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 6",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 7",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 8",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 9",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "9.1",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "Valutazione iniziale, priorità e rivalutazione",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "166",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "9.2",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "Deterioramento clinico, NEWS2 e sepsi",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "168",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "9.3",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "Triage e gestione dinamica della priorità",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "170",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "9.4",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "Team dell'emergenza, comunicazione e sicurezza",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "173",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "9.5",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "Arresto cardiaco nell'adulto: quadro BLS e ALS",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "175",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "9.6",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "Neonato e supporto vitale",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "177",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "9.7",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "Allarmi ostetrici e risposta multidisciplinare",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "178",
+        "size": 6.748319149017334
+      },
+      {
+        "text": "Cap. 10",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 11",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 12",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 13",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 14",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 15",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 16",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 17",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 18",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 19",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 20",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 21",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 22",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 23",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 24",
+        "size": 6.598356246948242
+      },
+      {
+        "text": "Cap. 25",
+        "size": 6.598356246948242
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT"
+    ]
+  },
+  {
+    "page": 7,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 550,
+    "spanCount": 22,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 8,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2351,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 9,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2124,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 10,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1573,
+    "spanCount": 34,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 11,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2543,
+    "spanCount": 75,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 12,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2495,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 13,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2002,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 14,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1799,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 15,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2252,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 16,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1854,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 17,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2001,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 18,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2385,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 19,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2954,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 20,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2811,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 21,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2420,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 22,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1817,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 23,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1993,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 24,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2571,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 25,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2197,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 26,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 686,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 27,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1934,
+    "spanCount": 35,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 28,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1674,
+    "spanCount": 29,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 29,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2168,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 30,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1902,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 31,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1881,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 32,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2419,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 33,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2281,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 34,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2100,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 35,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2800,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 36,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1866,
+    "spanCount": 70,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 37,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2320,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 38,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2474,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 39,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2311,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 40,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2044,
+    "spanCount": 54,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 41,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2008,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 42,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2235,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 43,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1861,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 44,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2382,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 45,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2449,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 46,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2055,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 47,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1891,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 48,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1699,
+    "spanCount": 26,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 49,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2165,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 50,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1788,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 51,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2135,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 52,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2104,
+    "spanCount": 73,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 53,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2519,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 54,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2122,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 55,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2019,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 56,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2087,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 57,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2150,
+    "spanCount": 62,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 58,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2770,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 59,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2315,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 60,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1864,
+    "spanCount": 65,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 61,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2627,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 62,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2484,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 63,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1796,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 64,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2063,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 65,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1140,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 66,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2006,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 67,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1650,
+    "spanCount": 26,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 68,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2170,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 69,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2160,
+    "spanCount": 75,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 70,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2393,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 71,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2614,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 72,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2587,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 73,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2337,
+    "spanCount": 63,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 74,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2237,
+    "spanCount": 78,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 75,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2157,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 76,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1852,
+    "spanCount": 61,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 77,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2434,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 78,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2403,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 79,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2109,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 80,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2073,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 81,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1845,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 82,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1431,
+    "spanCount": 56,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 83,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1858,
+    "spanCount": 80,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 84,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2579,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 85,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1747,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 86,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1586,
+    "spanCount": 65,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 87,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1566,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 88,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2246,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 89,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 662,
+    "spanCount": 12,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 90,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2229,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 91,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1838,
+    "spanCount": 67,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 92,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1920,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 93,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2416,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 94,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2480,
+    "spanCount": 73,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 95,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1783,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 96,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2507,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 97,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2607,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 98,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2206,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 99,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2047,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 100,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2031,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 101,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2570,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 102,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1792,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 103,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2236,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 104,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1257,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 105,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1893,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 106,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1636,
+    "spanCount": 61,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 107,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2278,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 108,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1781,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 109,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1749,
+    "spanCount": 77,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 110,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2440,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 111,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1181,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 112,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1415,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 113,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1536,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 114,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1128,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 115,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2268,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 116,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 829,
+    "spanCount": 13,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 117,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 787,
+    "spanCount": 30,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 118,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2148,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 119,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2632,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 120,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2666,
+    "spanCount": 62,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 121,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2226,
+    "spanCount": 72,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 122,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2773,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 123,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2361,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 124,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2172,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 125,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2444,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 126,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2467,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 127,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1799,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 128,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2038,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 129,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1639,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 130,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2164,
+    "spanCount": 53,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 131,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2882,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 132,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2781,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 133,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 3107,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 134,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2838,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 135,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 3184,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 136,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 3243,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 137,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 3157,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 138,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 3178,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 139,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1734,
+    "spanCount": 165,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT"
+    ]
+  },
+  {
+    "page": 140,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2727,
+    "spanCount": 76,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 141,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2279,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 142,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2700,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 143,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1827,
+    "spanCount": 32,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 144,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1630,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 145,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1927,
+    "spanCount": 61,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 146,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2717,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 147,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2371,
+    "spanCount": 60,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 148,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2525,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 149,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2548,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 150,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2563,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 151,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2822,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 152,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2964,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 153,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 3074,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 154,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2474,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 155,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2811,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 156,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2961,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 157,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2388,
+    "spanCount": 69,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 158,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2174,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 159,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1854,
+    "spanCount": 74,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 160,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2307,
+    "spanCount": 66,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 161,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2337,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 162,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1961,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 163,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2022,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 164,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1130,
+    "spanCount": 23,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 165,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1737,
+    "spanCount": 53,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 166,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2350,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 167,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2646,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 168,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2547,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 169,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 3085,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "TimesNewRomanPSMT"
+    ]
+  },
+  {
+    "page": 170,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2553,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 171,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2113,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 172,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2611,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 173,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2858,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 174,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2750,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 175,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2192,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 176,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2664,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 177,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2612,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 178,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 3027,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 179,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2460,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 180,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2781,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond",
+      "Type3 (417 0 R)"
+    ]
+  },
+  {
+    "page": 181,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2140,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 182,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2186,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 183,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2714,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 184,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1174,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 185,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1595,
+    "spanCount": 31,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 186,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2006,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 187,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1981,
+    "spanCount": 71,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 188,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1962,
+    "spanCount": 74,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 189,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2800,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 190,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2449,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 191,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2229,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 192,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2583,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 193,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2529,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 194,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2171,
+    "spanCount": 67,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 195,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2587,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 196,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2411,
+    "spanCount": 64,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 197,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2054,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 198,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2877,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 199,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2795,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 200,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2724,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 201,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2613,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 202,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2207,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 203,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2118,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 204,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2549,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 205,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1985,
+    "spanCount": 63,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 206,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1484,
+    "spanCount": 24,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 207,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2032,
+    "spanCount": 53,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 208,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2176,
+    "spanCount": 70,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 209,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1610,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 210,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2033,
+    "spanCount": 54,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 211,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1831,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 212,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2645,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 213,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1842,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 214,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2097,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 215,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2007,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 216,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2307,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 217,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1606,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 218,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2301,
+    "spanCount": 64,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 219,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2239,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 220,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2375,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 221,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1468,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 222,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2025,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 223,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1741,
+    "spanCount": 57,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 224,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2243,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 225,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2003,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 226,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1667,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 227,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2015,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 228,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1786,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 229,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1842,
+    "spanCount": 61,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 230,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2576,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 231,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2177,
+    "spanCount": 35,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 232,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2233,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 233,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2244,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 234,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2439,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 235,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2725,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 236,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2011,
+    "spanCount": 33,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 237,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2169,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 238,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1816,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 239,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1977,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 240,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1938,
+    "spanCount": 53,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 241,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1911,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 242,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1475,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 243,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2534,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 244,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1815,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 245,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1723,
+    "spanCount": 53,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 246,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2445,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 247,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2319,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 248,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1391,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 249,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2531,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 250,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2120,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 251,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1828,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 252,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1911,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 253,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 840,
+    "spanCount": 16,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 254,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1753,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 255,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2027,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 256,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2014,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 257,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2241,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 258,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2493,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 259,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2517,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 260,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2308,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 261,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2553,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 262,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2503,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 263,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1838,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 264,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1643,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 265,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1877,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 266,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2155,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 267,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 287,
+    "spanCount": 7,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 268,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 629,
+    "spanCount": 25,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 269,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2268,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 270,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2300,
+    "spanCount": 75,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 271,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2041,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 272,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2564,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 273,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2317,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 274,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2229,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 275,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2027,
+    "spanCount": 61,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 276,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1703,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 277,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1508,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 278,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1456,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 279,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2007,
+    "spanCount": 60,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 280,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2274,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 281,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1394,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 282,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1093,
+    "spanCount": 21,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 283,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1653,
+    "spanCount": 63,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 284,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2260,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 285,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2568,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 286,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2249,
+    "spanCount": 51,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 287,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2094,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 288,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 679,
+    "spanCount": 13,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 289,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1380,
+    "spanCount": 57,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 290,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1935,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 291,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2261,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 292,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 849,
+    "spanCount": 17,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 293,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1768,
+    "spanCount": 62,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 294,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2908,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 295,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2360,
+    "spanCount": 57,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 296,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1755,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 297,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2811,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 298,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2454,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 299,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1578,
+    "spanCount": 25,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 300,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1726,
+    "spanCount": 64,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 301,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2241,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 302,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2394,
+    "spanCount": 59,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 303,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2692,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 304,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2712,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 305,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2704,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 306,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2925,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 307,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1888,
+    "spanCount": 53,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 308,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2390,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 309,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2017,
+    "spanCount": 36,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 310,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 801,
+    "spanCount": 15,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 311,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1843,
+    "spanCount": 63,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 312,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2220,
+    "spanCount": 57,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 313,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2759,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 314,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2924,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 315,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2163,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 316,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1398,
+    "spanCount": 24,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 317,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1770,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 318,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1908,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 319,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2365,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 320,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2662,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 321,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2499,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 322,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2500,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 323,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1955,
+    "spanCount": 86,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 324,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2558,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 325,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2817,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 326,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2388,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 327,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1921,
+    "spanCount": 38,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 328,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 710,
+    "spanCount": 13,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 329,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 489,
+    "spanCount": 22,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 330,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2295,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 331,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2000,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 332,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2453,
+    "spanCount": 54,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 333,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2245,
+    "spanCount": 52,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 334,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2389,
+    "spanCount": 46,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 335,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2412,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 336,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2169,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 337,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1848,
+    "spanCount": 54,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 338,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1675,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 339,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2593,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 340,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2493,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 341,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1924,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 342,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2013,
+    "spanCount": 45,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 343,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 550,
+    "spanCount": 11,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 344,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1779,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 345,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1588,
+    "spanCount": 56,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 346,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2527,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 347,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2467,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 348,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1849,
+    "spanCount": 70,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 349,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2266,
+    "spanCount": 48,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 350,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1669,
+    "spanCount": 56,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 351,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2116,
+    "spanCount": 57,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 352,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2186,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 353,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2256,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 354,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2396,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 355,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2449,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 356,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2553,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 357,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2319,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 358,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1549,
+    "spanCount": 49,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 359,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1282,
+    "spanCount": 22,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 360,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2062,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 361,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2107,
+    "spanCount": 62,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 362,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2429,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 363,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1869,
+    "spanCount": 99,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 364,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2847,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 365,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2443,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 366,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2086,
+    "spanCount": 44,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 367,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2162,
+    "spanCount": 74,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 368,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2328,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 369,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1874,
+    "spanCount": 54,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 370,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1983,
+    "spanCount": 50,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 371,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2105,
+    "spanCount": 72,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 372,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2083,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 373,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2075,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 374,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2382,
+    "spanCount": 47,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 375,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2391,
+    "spanCount": 41,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 376,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1867,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 377,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2470,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 378,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1852,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [
+      {
+        "text": "BANDO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "AREE",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "NUCLEI",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "DIARIO",
+        "size": 5.248692512512207
+      },
+      {
+        "text": "OUTPUT",
+        "size": 5.248692512512207
+      }
+    ],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 379,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1518,
+    "spanCount": 59,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT"
+    ]
+  },
+  {
+    "page": 380,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2484,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 381,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2005,
+    "spanCount": 72,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 382,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1951,
+    "spanCount": 85,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 383,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2785,
+    "spanCount": 43,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 384,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2018,
+    "spanCount": 81,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 385,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1881,
+    "spanCount": 70,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 386,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2364,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 387,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2437,
+    "spanCount": 58,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-Black",
+      "Arial-BoldMT",
+      "ArialMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 388,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2088,
+    "spanCount": 39,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 389,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2405,
+    "spanCount": 40,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 390,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2433,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 391,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 2660,
+    "spanCount": 42,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 392,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1820,
+    "spanCount": 37,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 393,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1790,
+    "spanCount": 33,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  },
+  {
+    "page": 394,
+    "width": 481.67999267578125,
+    "height": 691.9199829101562,
+    "chars": 1655,
+    "spanCount": 28,
+    "outside": [],
+    "under7pt": [],
+    "replacementChars": 0,
+    "images": 0,
+    "fonts": [
+      "Arial-BoldMT",
+      "Garamond"
+    ]
+  }
+]

@@ -24,9 +24,11 @@ Il percorso consigliato è in tre passaggi.
 3. Usare VOL-04 per trasformare quelle conoscenze in competenze specifiche del sistema Giustizia: fascicolo, udienza, cancelleria, spese, casellario, notificazioni, telematico, minorile e penitenziario.
 
 ## Cosa non è questo volume
-VOL-04 non è un manuale per magistratura. Non sviluppa diritto civile, penale e processuale con profondità da concorso magistratuale. Quando serve, offre un ponte di orientamento verso M-SP03/VOL-12. Il suo compito è preparare ai concorsi amministrativi e funzionali del Ministero della giustizia e degli uffici collegati.
+VOL-04 non è un manuale per magistratura. Non sviluppa diritto civile, penale e processuale con profondità da concorso magistratuale. Quando serve, offre un ponte di orientamento verso il VOL-12, Carriere speciali premium, parte Magistratura, Avvocatura e Notariato, nelle sezioni «Mappa delle tre professioni e scelta del binario» e «Magistratura ordinaria: accesso, prove e ordinamento». Il suo compito è preparare ai concorsi amministrativi e funzionali del Ministero della giustizia e degli uffici collegati.
 
 ## Aggiornamento e confini
-Il cut-off normativo e istituzionale di questa edizione è il **18 agosto 2026**. Le procedure civili e penali sono presentate come mappe operative per UPP, cancelleria e segreteria: non sostituiscono un trattato processuale né dispensano dal controllo del bando e del testo vigente. Organigrammi, decorrenze telematiche, importi, modelli e istruzioni locali devono essere verificati nuovamente prima della prova.
+Il cut-off normativo e istituzionale di questa edizione è il **3 ottobre 2026**. Le procedure civili e penali sono presentate come mappe operative per UPP, cancelleria e segreteria: non sostituiscono un trattato processuale né dispensano dal controllo del bando e del testo vigente. Organigrammi, decorrenze telematiche, importi, modelli e istruzioni locali devono essere verificati nuovamente prima della prova.
 
 Le fonti ufficiali essenziali sono raccolte nell'apparato finale. Quando il testo distingue una regola nazionale da una prassi o da un avviso locale, la distinzione è parte del contenuto da apprendere.
+
+Per profili giuridico-pedagogici o di servizio sociale, questo volume sviluppa il quadro giuridico e organizzativo della giustizia. Le discipline professionali ulteriori richieste dal singolo bando richiedono lo studio specifico indicato dal relativo programma.

@@ -1,82 +1,62 @@
-# Report editoriale — Audit specialistico automatico M-SA01
+# M-SA01 — Audit specialistico automatico delle correzioni, 3 ottobre 2026
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: modulo specialistico e workbook per concorsi amministrativi nelle aziende sanitarie.
-- Pubblico target: candidati a profili amministrativi, URP, documentazione, controllo di gestione, acquisti ed economato sanitario.
-- Perimetro di questa revisione: indice, piano, matrice, Bibbia e cinque capitoli 04, 05, 06, 09 e 10.
-- Stato generale in una frase: audit normativo, privacy-documentale, contabile, procurement e tecnico-informativo concluso; nessun errore grave o medio resta aperto e il modulo è pronto per il text freeze.
+Riesaminati i delta dell’audit integrale e i relativi raccordi. Non risultano errori testuali gravi o medi aperti nei claim effettivamente insegnati e verificati. La lettura integrale diagnostica precedente costituisce la baseline; non si dichiara una nuova lettura integrale delle parti invariate. Nessuna dichiarazione di pubblicabilità dell’intero volume.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 1-26 e 28-30 della checklist: struttura, progressione, coerenza interna e trasversale, terminologia, completezza, definizioni, claim normativi, casi, tabelle, apparato delle fonti, lingua, stile didattico, uniformità e leggibilità. Applicato anche il gate di copertura didattica integrale: otto nuclei su otto sono `completo`. Il punto 27 non è applicabile perché non è disponibile un PDF impaginato.
+Punti 1–26 e 28–30 pertinenti: accuratezza, fonti, definizioni, autonomia, ambito professionale, casi, calcoli, risposte, lessico e raccordi. Micro-revisione e Humanizer sui delta. Punto 27 ancora da controllare nel nuovo PDF.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| A01 | Indice, piano, matrice, Bibbia e cinque capitoli | Workflow editoriale | Media | Gli apparati e i frontmatter conservavano `review_required: true` e rinviavano lo step 15 a revisori umani identificati. Evidenza: protocollo corrente VOL-07 e regola che riserva l'unico passaggio umano allo step 24. | Rimossi i rinvii umani, chiuse automaticamente le checklist e allineati `review_required`, `draft_stage`, stato e data. | corretto |
-| A02 | Capitolo 04, organizzazione, procedimenti e flussi | Normativa e definizioni tecniche | Media | Verificati D.Lgs. 502/1992, competenza, atto aziendale, procedimento, SDO e modelli CE/SP contro le source note consolidate; esempi regionali e aziendali restano esplicitamente contestualizzati. | Nessuna modifica sostanziale al corpo; chiuso il flag di review dopo esito positivo. | corretto |
-| A03 | Capitolo 05, accesso, privacy, FSE e conservazione | Privacy e documentazione | Media | Verificate le distinzioni tra accesso documentale, civico e diritti privacy, nonché tra documentazione sanitaria, FSE e dossier; deleghe, oscuramenti, consegna e conservazione sono presentati come istruttoria dipendente dal caso e dalla disciplina vigente. | Nessuna regola locale generalizzata; chiuso il flag di review. | corretto |
-| A04 | Capitolo 06, front-office e comunicazione | Procedure e privacy | Media | Verificati ruolo URP, qualificazione del bisogno, riservatezza, accessibilità, reclamo, tracciabilità ed escalation. Il testo non attribuisce allo sportello decisioni cliniche o giuridiche fuori competenza. | Nessuna correzione contenutistica necessaria; chiuso il flag di review. | corretto |
-| A05 | Capitolo 09, contabilità, modelli e budget | Contabilità sanitaria | Media | Verificati Titolo II del D.Lgs. 118/2011, distinzione tra bilancio e modelli NSIS, funzioni di CE, SP, LA e CP, budget, indicatori e scostamenti. Periodicità e istruzioni mobili sono qualificate temporalmente. | Nessuna soglia mobile aggiunta; chiuso il flag di review. | corretto |
-| A06 | Capitolo 10, procurement, farmaci, dispositivi e magazzino | Contratti pubblici e procedure | Media | Verificati RUP come responsabile unico del progetto, articolo 15 e Allegato I.2, decisione di contrarre, digitalizzazione dal 1° gennaio 2024, PAD, BDNCP, FVOE, CIG, esecuzione e ruolo informativo AIFA-OsMed. | Nessuna modifica sostanziale; mantenuta la distinzione tra regola nazionale, contratto e procedura aziendale; chiuso il flag di review. | corretto |
-| A07 | Matrice e apparati | Copertura e stato | Lieve | La matrice descriveva ancora le checklist come future benché gli otto nuclei fossero completi e i gate 10-14 chiusi. | Stato aggiornato a `complete` e audit 15 registrato come concluso. | corretto |
-
-Non risultano errori gravi, errori medi aperti, dati operativi non tracciati o rinvii a futura review umana.
+| V07-01 | 05-documentazione-accesso-conservazione.md, documentazione-sanitaria-accesso-fse-dossier-privacy.md | Audit specialistico | Grave | Esclusione assoluta FOIA per dati di salute e rischio di reidentificazione. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-02 | 05-documentazione-accesso-conservazione.md, documentazione-sanitaria-accesso-fse-dossier-privacy.md | Audit specialistico | Grave | Rango del diritto e indispensabilita per accesso documentale a salute di terzi. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-03 | 05-documentazione-accesso-conservazione.md, documentazione-sanitaria-accesso-fse-dossier-privacy.md | Audit specialistico | Grave | Termini sette/trenta giorni dalla stessa richiesta e caso risolto. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-04 | 05-documentazione-accesso-conservazione.md, documentazione-sanitaria-accesso-fse-dossier-privacy.md | Audit specialistico | Medio | Consenso alimentazione/consultazione FSE distinto dal dossier, oscuramento ed emergenza. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-05 | 05-documentazione-accesso-conservazione.md, documentazione-sanitaria-accesso-fse-dossier-privacy.md | Audit specialistico | Medio | Richiesta di integrazione separata dagli esiti finali; nessuna sospensione automatica. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-06 | 05-documentazione-accesso-conservazione.md, documentazione-sanitaria-accesso-fse-dossier-privacy.md | Audit specialistico | Medio | Documento informatico distinto da efficacia probatoria della scansione. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-07 | 04-atti-procedimenti-flussi-informativi.md | Audit specialistico | Lieve | Titolo e apertura raccordati a SSN, LEA, organi, accreditamento, atti e flussi; conservate integrazioni INT. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-08 | 06-front-office-comunicazione-utenza.md | Audit specialistico | Medio | Errori critici di riservatezza, accesso e competenza rendono insufficiente la risposta indipendentemente dal totale. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-09 | 06-front-office-comunicazione-utenza.md | Audit specialistico | Lieve | Riscrittura completa con delega, sportello, portale e pratica esplicitamente fittizi. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-10 | 09-contabilita-budget-controllo-gestione.md | Audit specialistico | Lieve | Variazione del costo medio corretta a −4,44% senza arrotondamenti intermedi, in entrambe le occorrenze. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-11 | 09-contabilita-budget-controllo-gestione.md, contabilita-budget-aziende-sanitarie.md | Audit specialistico | Medio | Documenti di bilancio, adozione, approvazione e consolidato; esempio risolto di ammortamento e contributo. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-12 | 10-procurement-farmaci-dispositivi-magazzino.md, procurement-farmaci-dispositivi-flussi-nsis.md | Audit specialistico | Grave | AIC e classi A/H/C, raccordo MDR/IVDR, centralizzazione e NSO con esempio. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-13 | 10-procurement-farmaci-dispositivi-magazzino.md, procurement-farmaci-dispositivi-flussi-nsis.md | Audit specialistico | Medio | FEFO, segregazione e catena del freddo; punto di riordino e caso risolti. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-14 | 10-procurement-farmaci-dispositivi-magazzino.md, 05-valutazione-clinica-triage-urgenza-emergenza.md | Audit specialistico | Lieve | Uniformati gli imperativi in SA01/10 e SA02/05. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
 
 ## 4. Osservazioni per capitolo
 
-### Capitolo 04 — Atti, procedimenti e flussi informativi nelle aziende sanitarie
+Capitolo 04: titolo riallineato in testo, indice e scheda; mantenute le integrazioni INT già riesaminate separatamente. Capitolo 05: divieto di accesso civico generalizzato ai dati sanitari, bilanciamento dell’accesso documentale, termini 7/30 giorni dell’art. 4 L. 24/2017 e distinzione FSE/dossier. Il termine per integrare non viene sommato automaticamente al primo termine. Capitolo 06: rubrica con errori critici su competenza, riservatezza e sicurezza che impediscono l’esito sufficiente anche con somma favorevole; esempio completo di delega e richiesta documentale.
 
-- Punti di forza: separa organizzazione nazionale, disciplina regionale, atto aziendale e procedimento; collega i flussi alla qualità del dato.
-- Criticità: nessuna voce aperta.
+Capitolo 09: risolti i calcoli di variazione (−4,44%), quota di ammortamento e sterilizzazione (20.000 euro, residuo 80.000). Il caso distingue contributo in conto capitale da contributo in conto esercizio; lettura integrale dei consolidati degli artt. 26, 29, 31 e 32 D.Lgs. 118/2011: documenti e scadenze 30 aprile, 31 maggio e 30 giugno confermati. La riconciliazione 8−6 = 2 milioni delle integrazioni preesistenti resta preservata.
 
-### Capitolo 05 — Documentazione sanitaria, accesso, privacy e conservazione
+Capitolo 10: AIC e rimborsabilità separate, classi A/H/C/C(nn), confini farmaco/dispositivo, FEFO/FIFO, quarantena e catena del freddo. Calcolo di riordino con disponibilità utilizzabile 530 dopo esclusione di 150 unità in quarantena. Il D.P.C.M. 11 febbraio 2026 è recepito dalla fonte ufficiale consolidata dal coordinamento: decorrenza, categorie, soglia farmaci 40.000 euro e regola della gara pluriennale non sono estesi impropriamente a ogni acquisto. NSO resta distinto da contratto, piattaforma e fatturazione.
 
-- Punti di forza: distingue correttamente regimi di accesso, diritti sui dati, FSE, dossier e conservazione.
-- Criticità: nessuna voce aperta; i dettagli aziendali restano da verificare sulla pratica concreta, non nel manuale generale.
-
-### Capitolo 06 — Front-office e comunicazione con l'utenza sanitaria
-
-- Punti di forza: integra ascolto, competenza, privacy, accessibilità, tracciabilità ed escalation.
-- Criticità: nessuna voce aperta.
-
-### Capitolo 09 — Contabilità, budget e controllo di gestione nelle aziende sanitarie
-
-- Punti di forza: definizioni e distinzioni tra bilancio, contabilità generale e analitica, modelli NSIS, budget e scostamenti sono coerenti.
-- Criticità: nessuna voce aperta; dataset numerici esplicitamente didattici.
-
-### Capitolo 10 — Procurement sanitario, farmaci, dispositivi e magazzino
-
-- Punti di forza: ciclo del contratto, digitalizzazione, esecuzione, scorte e ciclo passivo sono separati per competenza e funzione.
-- Criticità: nessuna voce aperta; il testo non trasforma requisiti tecnici o procedure di magazzino in standard universali.
+Riscontri ufficiali selettivi nei capitoli e nelle source pertinenti; non attestata una nuova lettura di ogni articolo di tutto il corpus sanitario. Le prove sono concorsuali e documentali, non autorizzano una pratica clinica.
 
 ## 5. Coerenza globale
 
-- Terminologia: coerente con la Bibbia del Modulo; RUP, FSE, dossier, CE, SP, LA, CP, BDNCP e tracciabilità mantengono significati distinti.
-- Struttura vs indice: cinque file, cinque link e cinque titoli canonici coincidenti.
-- Promesse dell'introduzione mantenute: sì; gli otto nuclei della matrice hanno teoria, applicazione, output e verifica.
-- Rinvii: tutti i rinvii a VOL-01 sono precisi e risolti; nessun rinvio sostituisce il delta sanitario.
+Il percorso mantiene i limiti di profilo e i rinvii agli altri moduli. Matrici e topic sono raccordati al contenuto aggiunto; i precedenti esiti sono storici. Nessun conteggio di righe viene usato come prova autonoma di completezza. I claim mobili conservano fonte e ambito.
 
-## 6. Contenuto da verificare
+## 6. Contenuti verificati
 
-Nessuna voce aperta per il text freeze. Il manuale non valida una legge regionale, un atto aziendale, un tracciato tecnico o una procedura locale diversi da quelli espressamente identificati: tali elementi devono sempre essere controllati sul caso concreto e non costituiscono debito editoriale del modulo.
+Evidenze e URL sono nelle source note del modulo e nel [[reviews/correzioni-collana-2026-10-02/VOL-07|registro per ID]]. Il precedente ostacolo di accesso Normattiva è superato per gli articoli elencati nella sezione 4, scaricati in `wiki/raw/correzioni-collana-2026-10-02/`. Sono controlli selettivi, non una certificazione integrale dei corpus. Nessun box «Dato operativo» è stato rilevato dal contratto CLI del modulo: non vi sono righe obbligatorie omesse.
 
-## 7. Suggerimenti facoltativi (non errori)
+## 7. Suggerimenti facoltativi
 
-In impaginazione si può distinguere graficamente regola nazionale, variabile regionale o aziendale e caso didattico, purché il segno resti leggibile in bianco e nero.
+Nessun ampliamento estraneo ai rilievi necessario per questo passaggio.
 
 ## 8. Priorità degli interventi
 
-1. Conservare questo report come evidenza dello step 15.
-2. Eseguire il text freeze dello step 16.
-3. Verificare il PDF nel preflight dedicato e presentare il pacchetto completo alla conferma umana finale dello step 24.
+Superare il gate CLI e registrare il freeze del testo; quindi generare e verificare effettivamente il nuovo PDF, compresi apparati, tabelle e spazi di risposta. Non trasformare il gate del report in una verifica visiva.
 
 ## 9. Giudizio di pubblicabilità
 
-**Pubblicabile con correzioni minori**, già applicate e chiuse. La tabella A01-A07 non contiene stati aperti; copertura, rinvii, fonti e workflow specialistico sono coerenti.
+Testo del modulo idoneo al freeze nel perimetro concorsuale dichiarato. Pubblicabilità del volume non attestata: PDF, preflight e conferma conclusiva restano separati.
 
 ## 10. Limiti di questa revisione
 
-L'audit valuta il testo editoriale e le fonti consolidate al cut-off del volume, con riscontri puntuali su portali istituzionali. Non sostituisce l'applicazione professionale a un caso concreto, non certifica procedure aziendali locali e non valuta un PDF impaginato. Nessun box `Dato operativo` è presente nel modulo.
+Audit automatico editoriale con riscontri esterni puntuali; non parere professionale per casi reali, validazione clinica o controllo di ogni norma territoriale. Gli esempi numerici originali non diventano standard. Le immagini originali hanno verifica distinta dal loro futuro impaginato. I report storici restano archiviati.

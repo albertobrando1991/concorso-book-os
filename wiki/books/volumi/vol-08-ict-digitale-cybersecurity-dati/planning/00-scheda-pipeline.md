@@ -2,13 +2,13 @@
 type: pipeline_spec
 volume_code: VOL-08
 volume_title: ICT, digitale, cybersecurity e dati
-cut_off_date: 2026-07-28
+cut_off_date: 2026-10-03
 responsabile_normativo: Alberto Brando
 responsabile_editoriale: Alberto Brando
 writer_provider: codex
 phases: [A, B, C, D, E, F, G]
 status: draft
-updated_at: 2026-07-28
+updated_at: 2026-10-03
 review_required: true
 ---
 

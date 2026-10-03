@@ -1,0 +1,781 @@
+[
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "groups": [
+      {
+        "id": "N-FC03-01-01",
+        "start": 0,
+        "end": 4942,
+        "heading": "Natura dell'ente, comparto e percorso di studio",
+        "words": 717
+      },
+      {
+        "id": "N-FC03-01-02",
+        "start": 4942,
+        "end": 10909,
+        "heading": "Che cosa comprende la famiglia M-FC03",
+        "words": 832
+      },
+      {
+        "id": "N-FC03-01-03",
+        "start": 10909,
+        "end": 16838,
+        "heading": "Strato 2: delta specialistico EPNE",
+        "words": 827
+      },
+      {
+        "id": "N-FC03-01-04",
+        "start": 16838,
+        "end": 22214,
+        "heading": "Cosa non devi fare",
+        "words": 767
+      },
+      {
+        "id": "N-FC03-01-05",
+        "start": 22214,
+        "end": 28301,
+        "heading": "Errore tipico",
+        "words": 842
+      }
+    ],
+    "total": 3985
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-02-01",
+        "start": 0,
+        "end": 4677,
+        "heading": "Apertura editoriale",
+        "words": 662
+      },
+      {
+        "id": "N-FC03-02-02",
+        "start": 4677,
+        "end": 10165,
+        "heading": "Mappa BANDO",
+        "words": 722
+      },
+      {
+        "id": "N-FC03-02-03",
+        "start": 10165,
+        "end": 15290,
+        "heading": "Governance interna e vigilanza esterna",
+        "words": 678
+      },
+      {
+        "id": "N-FC03-02-04",
+        "start": 15290,
+        "end": 21027,
+        "heading": "Schema organi-vigilanza-controlli",
+        "words": 763
+      },
+      {
+        "id": "N-FC03-02-05",
+        "start": 21027,
+        "end": 26768,
+        "heading": "Errore tipico",
+        "words": 794
+      }
+    ],
+    "total": 3619
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "groups": [
+      {
+        "id": "N-FC03-03-01",
+        "start": 0,
+        "end": 6052,
+        "heading": "Apertura editoriale",
+        "words": 827
+      },
+      {
+        "id": "N-FC03-03-02",
+        "start": 6052,
+        "end": 13248,
+        "heading": "Rapporto contributivo e automaticità",
+        "words": 991
+      },
+      {
+        "id": "N-FC03-03-03",
+        "start": 13248,
+        "end": 19785,
+        "heading": "I cinque nuclei da padroneggiare",
+        "words": 868
+      },
+      {
+        "id": "N-FC03-03-04",
+        "start": 19785,
+        "end": 26249,
+        "heading": "Caso guidato",
+        "words": 889
+      },
+      {
+        "id": "N-FC03-03-05",
+        "start": 26249,
+        "end": 32665,
+        "heading": "Checklist finale",
+        "words": 904
+      }
+    ],
+    "total": 4479
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "groups": [
+      {
+        "id": "N-FC03-04-01",
+        "start": 0,
+        "end": 6580,
+        "heading": "Apertura editoriale",
+        "words": 912
+      },
+      {
+        "id": "N-FC03-04-02",
+        "start": 6580,
+        "end": 12518,
+        "heading": "Caso di nesso e tutela",
+        "words": 833
+      },
+      {
+        "id": "N-FC03-04-03",
+        "start": 12518,
+        "end": 18748,
+        "heading": "I sei nuclei INAIL da padroneggiare",
+        "words": 834
+      },
+      {
+        "id": "N-FC03-04-04",
+        "start": 18748,
+        "end": 24848,
+        "heading": "Mappa assicurazione-prevenzione-prestazione",
+        "words": 812
+      },
+      {
+        "id": "N-FC03-04-05",
+        "start": 24848,
+        "end": 31189,
+        "heading": "Errore tipico",
+        "words": 855
+      }
+    ],
+    "total": 4246
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "groups": [
+      {
+        "id": "N-FC03-05-01",
+        "start": 0,
+        "end": 4653,
+        "heading": "Apertura editoriale",
+        "words": 628
+      },
+      {
+        "id": "N-FC03-05-02",
+        "start": 4653,
+        "end": 9476,
+        "heading": "I sette passaggi del caso EPNE",
+        "words": 637
+      },
+      {
+        "id": "N-FC03-05-03",
+        "start": 9476,
+        "end": 14482,
+        "heading": "Servizi digitali e documenti informatici",
+        "words": 668
+      },
+      {
+        "id": "N-FC03-05-04",
+        "start": 14482,
+        "end": 20067,
+        "heading": "Caso guidato",
+        "words": 752
+      },
+      {
+        "id": "N-FC03-05-05",
+        "start": 20067,
+        "end": 25028,
+        "heading": "Da sapere in 5 righe",
+        "words": 673
+      }
+    ],
+    "total": 3358
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-06-01",
+        "start": 0,
+        "end": 5600,
+        "heading": "Apertura editoriale",
+        "words": 790
+      },
+      {
+        "id": "N-FC03-06-02",
+        "start": 5600,
+        "end": 11276,
+        "heading": "Mappa BANDO",
+        "words": 772
+      },
+      {
+        "id": "N-FC03-06-03",
+        "start": 11276,
+        "end": 16969,
+        "heading": "Patrimonio, inventari e beni dell'ente",
+        "words": 752
+      },
+      {
+        "id": "N-FC03-06-04",
+        "start": 16969,
+        "end": 22978,
+        "heading": "Amministrazione trasparente: dove si vede il controllo",
+        "words": 794
+      },
+      {
+        "id": "N-FC03-06-05",
+        "start": 22978,
+        "end": 28595,
+        "heading": "Errore tipico",
+        "words": 777
+      }
+    ],
+    "total": 3885
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-07-01",
+        "start": 0,
+        "end": 5079,
+        "heading": "Apertura editoriale",
+        "words": 700
+      },
+      {
+        "id": "N-FC03-07-02",
+        "start": 5079,
+        "end": 9746,
+        "heading": "Perché il PIAO conta negli EPNE",
+        "words": 633
+      },
+      {
+        "id": "N-FC03-07-03",
+        "start": 9746,
+        "end": 14628,
+        "heading": "5. Valore pubblico e qualità del servizio",
+        "words": 626
+      },
+      {
+        "id": "N-FC03-07-04",
+        "start": 14628,
+        "end": 19429,
+        "heading": "Da sapere in 5 righe",
+        "words": 642
+      },
+      {
+        "id": "N-FC03-07-05",
+        "start": 19429,
+        "end": 24186,
+        "heading": "Diario errori del capitolo",
+        "words": 651
+      }
+    ],
+    "total": 3252
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+    "groups": [
+      {
+        "id": "N-FC03-08-01",
+        "start": 0,
+        "end": 4513,
+        "heading": "Apertura editoriale",
+        "words": 622
+      },
+      {
+        "id": "N-FC03-08-02",
+        "start": 4513,
+        "end": 9757,
+        "heading": "CCNL, comparto, area e profilo",
+        "words": 704
+      },
+      {
+        "id": "N-FC03-08-03",
+        "start": 9757,
+        "end": 14986,
+        "heading": "4. Doveri e codice di comportamento",
+        "words": 724
+      },
+      {
+        "id": "N-FC03-08-04",
+        "start": 14986,
+        "end": 19546,
+        "heading": "Domanda da commissario",
+        "words": 638
+      },
+      {
+        "id": "N-FC03-08-05",
+        "start": 19546,
+        "end": 24434,
+        "heading": "Checklist finale",
+        "words": 666
+      }
+    ],
+    "total": 3354
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-09-01",
+        "start": 0,
+        "end": 5512,
+        "heading": "Apertura editoriale",
+        "words": 726
+      },
+      {
+        "id": "N-FC03-09-02",
+        "start": 5512,
+        "end": 10600,
+        "heading": "Il ciclo dell'acquisto EPNE",
+        "words": 647
+      },
+      {
+        "id": "N-FC03-09-03",
+        "start": 10600,
+        "end": 15404,
+        "heading": "Strumenti digitali, MEPA e Consip",
+        "words": 643
+      },
+      {
+        "id": "N-FC03-09-04",
+        "start": 15404,
+        "end": 21142,
+        "heading": "Mini-caso operativo: acquisto di un servizio per sportelli EPNE",
+        "words": 743
+      },
+      {
+        "id": "N-FC03-09-05",
+        "start": 21142,
+        "end": 26280,
+        "heading": "Diario errori del capitolo",
+        "words": 693
+      }
+    ],
+    "total": 3452
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-10-01",
+        "start": 0,
+        "end": 5487,
+        "heading": "Natura dell'ente, comparto e percorso di studio",
+        "words": 808
+      },
+      {
+        "id": "N-FC03-10-02",
+        "start": 5487,
+        "end": 10799,
+        "heading": "Gerarchia delle fonti: che cosa conta davvero",
+        "words": 718
+      },
+      {
+        "id": "N-FC03-10-03",
+        "start": 10799,
+        "end": 15677,
+        "heading": "5. Avvisi, allegati e aggiornamenti",
+        "words": 680
+      },
+      {
+        "id": "N-FC03-10-04",
+        "start": 15677,
+        "end": 20440,
+        "heading": "Caso guidato",
+        "words": 700
+      },
+      {
+        "id": "N-FC03-10-05",
+        "start": 20440,
+        "end": 24812,
+        "heading": "Diario errori del capitolo",
+        "words": 637
+      }
+    ],
+    "total": 3543
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-11-01",
+        "start": 0,
+        "end": 5926,
+        "heading": "Apertura editoriale",
+        "words": 806
+      },
+      {
+        "id": "N-FC03-11-02",
+        "start": 5926,
+        "end": 11584,
+        "heading": "Lo schema di risposta per il caso EPNE",
+        "words": 746
+      },
+      {
+        "id": "N-FC03-11-03",
+        "start": 11584,
+        "end": 17636,
+        "heading": "Caso 2 - INAIL: evento lavorativo e richiesta di chiarimenti",
+        "words": 801
+      },
+      {
+        "id": "N-FC03-11-04",
+        "start": 17636,
+        "end": 23463,
+        "heading": "Caso 7 - Candidato a concorso e richiesta informale",
+        "words": 768
+      },
+      {
+        "id": "N-FC03-11-05",
+        "start": 23463,
+        "end": 29289,
+        "heading": "Errore tipico",
+        "words": 800
+      }
+    ],
+    "total": 3921
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-12-01",
+        "start": 0,
+        "end": 6135,
+        "heading": "Natura dell'ente, comparto e percorso di studio",
+        "words": 834
+      },
+      {
+        "id": "N-FC03-12-02",
+        "start": 6135,
+        "end": 12035,
+        "heading": "1. Legalità e competenza",
+        "words": 827
+      },
+      {
+        "id": "N-FC03-12-03",
+        "start": 12035,
+        "end": 18887,
+        "heading": "Simulazione situazionale: otto quesiti",
+        "words": 968
+      },
+      {
+        "id": "N-FC03-12-04",
+        "start": 18887,
+        "end": 23458,
+        "heading": "Come leggere le opzioni in prova",
+        "words": 633
+      },
+      {
+        "id": "N-FC03-12-05",
+        "start": 23458,
+        "end": 28960,
+        "heading": "Mini-esercizio",
+        "words": 727
+      }
+    ],
+    "total": 3989
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-13-01",
+        "start": 0,
+        "end": 4430,
+        "heading": "Apertura editoriale",
+        "words": 673
+      },
+      {
+        "id": "N-FC03-13-02",
+        "start": 4430,
+        "end": 9412,
+        "heading": "Giorni 1-30: perimetro, nucleo e prime prove",
+        "words": 662
+      },
+      {
+        "id": "N-FC03-13-03",
+        "start": 9412,
+        "end": 13965,
+        "heading": "Simulazioni",
+        "words": 634
+      },
+      {
+        "id": "N-FC03-13-04",
+        "start": 13965,
+        "end": 18043,
+        "heading": "Caso guidato",
+        "words": 609
+      },
+      {
+        "id": "N-FC03-13-05",
+        "start": 18043,
+        "end": 22123,
+        "heading": "Ciclo settimanale di controllo",
+        "words": 613
+      }
+    ],
+    "total": 3191
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+    "groups": [
+      {
+        "id": "N-FC03-14-01",
+        "start": 0,
+        "end": 6690,
+        "heading": "Apertura editoriale",
+        "words": 903
+      },
+      {
+        "id": "N-FC03-14-02",
+        "start": 6690,
+        "end": 12783,
+        "heading": "Poteri, atti e garanzie della vigilanza",
+        "words": 823
+      },
+      {
+        "id": "N-FC03-14-03",
+        "start": 12783,
+        "end": 18574,
+        "heading": "Materie da attivare",
+        "words": 754
+      },
+      {
+        "id": "N-FC03-14-04",
+        "start": 18574,
+        "end": 24223,
+        "heading": "Checklist finale",
+        "words": 757
+      },
+      {
+        "id": "N-FC03-14-05",
+        "start": 24223,
+        "end": 30506,
+        "heading": "Matrice di autoverifica dell'accertamento",
+        "words": 849
+      }
+    ],
+    "total": 4086
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+    "groups": [
+      {
+        "id": "N-FC03-15-01",
+        "start": 0,
+        "end": 5535,
+        "heading": "Apertura editoriale",
+        "words": 751
+      },
+      {
+        "id": "N-FC03-15-02",
+        "start": 5535,
+        "end": 10678,
+        "heading": "Glossario essenziale INAIL: assicurazione, prevenzione e tutela",
+        "words": 660
+      },
+      {
+        "id": "N-FC03-15-03",
+        "start": 10678,
+        "end": 15932,
+        "heading": "Coppie da non confondere",
+        "words": 667
+      },
+      {
+        "id": "N-FC03-15-04",
+        "start": 15932,
+        "end": 20549,
+        "heading": "Domanda-trappola",
+        "words": 628
+      },
+      {
+        "id": "N-FC03-15-05",
+        "start": 20549,
+        "end": 24970,
+        "heading": "Regola di chiusura",
+        "words": 617
+      }
+    ],
+    "total": 3323
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+    "groups": [
+      {
+        "id": "N-FC03-16-01",
+        "start": 0,
+        "end": 6536,
+        "heading": "Natura dell'ente, comparto e percorso di studio",
+        "words": 869
+      },
+      {
+        "id": "N-FC03-16-02",
+        "start": 6536,
+        "end": 11854,
+        "heading": "Scheda ACI",
+        "words": 681
+      },
+      {
+        "id": "N-FC03-16-03",
+        "start": 11854,
+        "end": 16417,
+        "heading": "Caso guidato",
+        "words": 665
+      },
+      {
+        "id": "N-FC03-16-04",
+        "start": 16417,
+        "end": 20774,
+        "heading": "Dalla missione al profilo concorsuale",
+        "words": 608
+      },
+      {
+        "id": "N-FC03-16-05",
+        "start": 20774,
+        "end": 25356,
+        "heading": "Esercizio di aggiornamento",
+        "words": 663
+      }
+    ],
+    "total": 3486
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+    "groups": [
+      {
+        "id": "N-FC03-17-01",
+        "start": 0,
+        "end": 4410,
+        "heading": "Apertura editoriale",
+        "words": 629
+      },
+      {
+        "id": "N-FC03-17-02",
+        "start": 4410,
+        "end": 9312,
+        "heading": "Errore 3: confondere materia comune e delta EPNE",
+        "words": 661
+      },
+      {
+        "id": "N-FC03-17-03",
+        "start": 9312,
+        "end": 13953,
+        "heading": "Errore 8: sottovalutare prove, soglie e output",
+        "words": 658
+      },
+      {
+        "id": "N-FC03-17-04",
+        "start": 13953,
+        "end": 18438,
+        "heading": "Mini-esercizio",
+        "words": 625
+      },
+      {
+        "id": "N-FC03-17-05",
+        "start": 18438,
+        "end": 23025,
+        "heading": "Diario degli errori documentali",
+        "words": 667
+      }
+    ],
+    "total": 3240
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "groups": [
+      {
+        "id": "N-FC03-18-01",
+        "start": 0,
+        "end": 5255,
+        "heading": "Apertura editoriale",
+        "words": 717
+      },
+      {
+        "id": "N-FC03-18-02",
+        "start": 5255,
+        "end": 10398,
+        "heading": "Quando restare in M-FC03",
+        "words": 717
+      },
+      {
+        "id": "N-FC03-18-03",
+        "start": 10398,
+        "end": 15475,
+        "heading": "Destinazioni disponibili e limite del rinvio",
+        "words": 720
+      },
+      {
+        "id": "N-FC03-18-04",
+        "start": 15475,
+        "end": 20307,
+        "heading": "Mini-esercizio",
+        "words": 722
+      },
+      {
+        "id": "N-FC03-18-05",
+        "start": 20307,
+        "end": 24923,
+        "heading": "Controllo dei riferimenti prima dello studio",
+        "words": 667
+      }
+    ],
+    "total": 3543
+  },
+  {
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+    "groups": [
+      {
+        "id": "N-FC03-19-01",
+        "start": 0,
+        "end": 6887,
+        "heading": "Apertura editoriale",
+        "words": 883
+      },
+      {
+        "id": "N-FC03-19-02",
+        "start": 6887,
+        "end": 13900,
+        "heading": "Distinzioni civilistiche applicate",
+        "words": 957
+      },
+      {
+        "id": "N-FC03-19-03",
+        "start": 13900,
+        "end": 21149,
+        "heading": "Sicurezza: attribuire gli obblighi al soggetto corretto",
+        "words": 984
+      },
+      {
+        "id": "N-FC03-19-04",
+        "start": 21149,
+        "end": 27949,
+        "heading": "Profilo assistente sociale: perimetro minimo",
+        "words": 925
+      },
+      {
+        "id": "N-FC03-19-05",
+        "start": 27949,
+        "end": 34217,
+        "heading": "Simulazione mista di dieci minuti",
+        "words": 893
+      }
+    ],
+    "total": 4642
+  }
+]

@@ -1,83 +1,50 @@
-# Report editoriale — M-SA03 Dirigenza medica e sanitaria, correzioni dello step 14
+# M-SA03 — Correzioni dopo l’audit integrale
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: modulo specialistico per concorsi della dirigenza medica e sanitaria.
-- Pubblico target: candidati a discipline mediche e sanitarie non mediche del SSN.
-- Perimetro di questa revisione: correzioni E01-E03 rilevate nello step 13.
-- Stato generale in una frase: metadati, indice, piano e Bibbia sono coerenti e non restano errori gravi o medi automatici aperti.
+Applicate le correzioni testuali autorizzate del modulo, con definizioni, distinzioni, esempi e soluzioni effettivamente presenti. La lettura integrale diagnostica precedente resta documentata nell’audit del 2 ottobre; questa revisione riguarda i delta e i raccordi. Non viene dichiarata una nuova lettura integrale del testo invariato.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 1, 2, 4, 7, 8, 21, 25, 26 e 30 a struttura, metadati, titoli, indice, stato e navigazione. Il corpo didattico non è cambiato; i relativi controlli non sono stati ripetuti. Il punto 27 non è applicabile senza PDF.
+Riesame dei punti 1–26 e 28–30 pertinenti alle modifiche: destinatario, copertura, autonomia, definizioni, coerenza normativa, esempi, casi, quiz, lingua, fonti e rinvii. Punto 27 da verificare sui nuovi PDF. Controllo Humanizer e micro-revisione eseguiti sui delta: frasi concrete, responsabilità esplicite, dati didattici separati dagli standard, nessuna istruzione interna aggiunta alla prosa pubblica.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| E01 | Capitolo 01, frontmatter | Coerenza metadati | Media | Il capitolo 01 usava valori diversi dai capitoli 02-07. | Uniformati `type`, `status`, `draft_stage` e `updated_at`. | Corretto |
-| E02 | Piano editoriale | Coerenza architetturale | Media | Il piano descriveva uno scaffold e capitoli non presenti. | Allineati fonti, obiettivo, lettore, sette capitoli, nove nuclei e stato 08-14. | Corretto |
-| E03 | Indice del modulo | Navigazione editoriale | Lieve | Mancava il link alla Bibbia. | Aggiunto il collegamento canonico e aggiornato lo stato del modulo. | Corretto |
-
-Nessuna correzione ha modificato un passaggio didattico; non è necessario ripetere copertura, Humanizer o micro-revisione del corpo.
+| V07-28 | 01-profili-requisiti-prove-dirigenza-sanitaria.md, 01-profili-tslb-tsrm-requisiti-prove-responsabilita.md | Correzione dell’audit | Grave | Distinti obbligo generale di inglese/informatica e modalità mobili; corretti esercizio, soluzione e rinvii SA04. | Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. | Applicato |
+| V07-29 | 01-profili-requisiti-prove-dirigenza-sanitaria.md, 01-mappa-profili-e-prove.md, 01-profili-tslb-tsrm-requisiti-prove-responsabilita.md | Correzione dell’audit | Medio | Inseriti punteggi e soglie nazionali DPR483 per quattro profili e DPR220 nei due moduli di comparto. | Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. | Applicato |
+| V07-30 | 02-programmazione-sanitaria-organizzazione-servizi.md, governo-clinico-appropriatezza-hta-qualita-accreditamento.md | Correzione dell’audit | Medio | Acquisita relazione ministeriale NSG valida, riconciliate esclusioni della source, aggiunto cruscotto originale e raccordo SA01. | Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. | Applicato |
+| V07-31 | 03-linee-guida-appropriatezza-decisioni-cliniche.md | Correzione dell’audit | Medio | Chiarita autonomia e responsabilità del medico abilitato distinta dai limiti del manuale. | Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. | Applicato |
+| V07-32 | 04-governo-clinico-hta-qualita-accreditamento-rischio.md | Correzione dell’audit | Medio | Definiti eventi, SIMES, RCA/FMEA e applicazione originale con rinvio SA04. | Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. | Applicato |
+| V07-33 | 06-dirigenza-medica-discipline-casi.md | Correzione dell’audit | Medio | Completato differenziale illustrativo con ipotesi, dati e verifiche discriminanti. | Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. | Applicato |
+| V07-34 | 07-dirigenza-sanitaria-non-medica-discipline-casi.md, deontologia-biologo-farmacista-psicologo-2026.md | Correzione dell’audit | Grave | Corretta vigenza CNOP e confrontati gli articoli pertinenti con il testo ufficiale attuale. | Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. | Applicato |
+| V07-41 | 04-tecnologie-dispositivi-apparecchiature-rischio.md, 06-dirigenza-medica-discipline-casi.md, 07-dirigenza-sanitaria-non-medica-discipline-casi.md | Correzione dell’audit | Medio | Eliminati residui Humanizer, gate e step dalla prosa pubblica SA03/06–07 e SA04/04, preservando limiti informativi per il candidato. | Ricerca mirata dei residui e rilettura dei paragrafi conclusivi. | Applicato |
 
 ## 4. Osservazioni per capitolo
 
-### Capitolo 01 — Profili, requisiti e prove della dirigenza sanitaria
-- Punti di forza: frontmatter ora uniforme; testo invariato.
-- Criticità: nessun errore automatico aperto.
-
-### Capitolo 02 — Programmazione sanitaria e organizzazione dei servizi
-- Punti di forza: metadati e collocazione già coerenti.
-- Criticità: nessuna correzione testuale.
-
-### Capitolo 03 — Linee guida, appropriatezza e decisioni cliniche
-- Punti di forza: posizione e funzione esplicitate nel piano.
-- Criticità: nessuna correzione testuale.
-
-### Capitolo 04 — Governo clinico, HTA, qualità, accreditamento e rischio
-- Punti di forza: titolo e perimetro già coerenti.
-- Criticità: nessuna correzione testuale.
-
-### Capitolo 05 — Epidemiologia e sanità pubblica per la dirigenza
-- Punti di forza: raccordo con programmazione e governance formalizzato nella Bibbia.
-- Criticità: nessuna correzione testuale.
-
-### Capitolo 06 — Dirigenza medica: discipline e casi
-- Punti di forza: verticale medico distinto nel piano.
-- Criticità: nessuna correzione testuale.
-
-### Capitolo 07 — Dirigenza sanitaria non medica: discipline e casi
-- Punti di forza: verticale non medico distinto nel piano.
-- Criticità: nessuna correzione testuale.
+Il dettaglio per capitolo, con file e hash, è nel [[reviews/correzioni-collana-2026-10-02/VOL-07|registro correzioni]]. Le nuove verifiche hanno soluzione; i calcoli didattici sono stati rieseguiti. Per SA02 sono distinti casi clinici non esecutivi e procedure giuridiche; per SA03 obbligo generale e modalità del concorso; per SA04 indicatori, dosi, rischio e competenze.
 
 ## 5. Coerenza globale
 
-- Terminologia: coerente e formalizzata nella Bibbia.
-- Struttura vs indice: sette capitoli e sette titoli coincidenti; nove nuclei completi.
-- Promesse dell'introduzione mantenute: sì dopo la correzione del piano.
-- Stato: descritti correttamente gli step automatici conclusi e il gate umano ancora aperto.
+Raccordati frontmatter, topic e matrice. Le attestazioni precedenti nelle matrici sono esplicitamente storicizzate rispetto ai delta correnti. Il totale del volume è 45 righe: 12 SA01, 15 SA02, 9 SA03 e 9 SA04. Il conteggio non attesta completezza. Preservate le integrazioni INT e i ruoli distinti dei profili.
 
 ## 6. Contenuto da verificare
 
-Restano allo step 15 disciplina concorsuale e contrattuale, linee guida, programmazione, HTA, rischio, epidemiologia, contenuti clinici e validazioni di biologo, farmacista e psicologo.
+Lo step 15 riesamina i claim specialistici modificati e le parti mobili. Gli errori delle fonti risolti comprendono codice CNOP e copia NSG valida. Le risposte challenge non sono classificate come fonti. Restano da documentare esplicitamente i limiti dei consolidati Normattiva non accessibili; i riscontri alternativi sono indicati nelle source. Nessun errore testuale noto viene rinviato a una futura persona; il prossimo passaggio è l’audit automatico specialistico.
 
-## 7. Suggerimenti facoltativi (non errori)
+## 7. Suggerimenti facoltativi
 
-Resta facoltativa la distinzione grafica dei casi medici e non medici nell'impaginato.
+Non applicati ampliamenti estranei ai rilievi obbligatori.
 
 ## 8. Priorità degli interventi
 
-1. Predisporre il pacchetto specialistico dello step 15.
-2. Ottenere esiti nominativi per materia e profilo.
-3. Riaprire i passaggi interessati se emergono correzioni sostanziali.
+Riesame specialistico, eventuali correzioni conseguenti, apparati, nuovo freeze, PDF e controllo visivo. La conferma conclusiva umana resta allo step 24.
 
 ## 9. Giudizio di pubblicabilità
 
-**Non pubblicabile allo stato attuale.**
-
-Motivazione: le correzioni automatiche sono chiuse, ma le validazioni specialistiche umane e le fasi successive restano obbligatorie.
+Correzioni testuali applicate. Nessuna dichiarazione di pubblicabilità del modulo o del volume prima degli audit e dei nuovi PDF. Il gate formale del report non certifica norme, pratica clinica o resa tipografica.
 
 ## 10. Limiti di questa revisione
 
-Sono stati controllati apparati e metadati Markdown. Non sono state sostituite le review giuridiche, cliniche, epidemiologiche, organizzative e professionali e non è stato esaminato il PDF.
+Riscontri normativi e scientifici selettivi sui claim effettivamente insegnati; nessuna validazione di procedure aziendali, pazienti o apparecchiature reali. Revisioni storiche immutate e copie dei report precedenti archiviate. Stato analitico nel registro correzioni; stato operativo esclusivamente nel CLI.

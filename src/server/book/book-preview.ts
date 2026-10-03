@@ -14,6 +14,7 @@ import {
 } from "../../catalog/text-volumes"
 import { buildEditorialPlan, type BookStudioEditorialPlan } from "./editorial-plan"
 import { getPreviewBlockMetadata } from "./book-preview-block-metadata"
+import { tokenizeMarkdownTableRow } from "../wiki/markdown-table"
 
 export { ricettarioModuleLabel } from "./book-studio-labels"
 
@@ -43,6 +44,7 @@ export interface MarkdownBlock {
   start?: number
   path?: string
   alt?: string
+  caption?: string
   headers?: string[]
   rows?: string[][]
   continued?: boolean
@@ -109,7 +111,6 @@ const EDITORIAL_PLACEHOLDERS = [
 ]
 
 const STAFF_ONLY_HEADINGS = [
-  "Obiettivo didattico",
   "Specifica struttura madre",
   "Strumenti da inserire",
   "Schede principali",
@@ -121,16 +122,13 @@ const STAFF_ONLY_HEADINGS = [
   "Riferimenti consolidati",
   "Fonti consolidate",
   "Norme o riferimenti",
-  "Quiz collegati",
-  "Spiegazione",
-  "Punti chiave",
-  "Esempi",
-  "Errori frequenti"
+  "Quiz collegati"
 ]
 
 const IMAGE_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"])
 const BOOK_ASSET_PATH = /^books\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\/assets\//
-const MAX_PREVIEW_BLOCKS = 520
+// Book Studio is also the print source: never silently truncate a chapter.
+const MAX_PREVIEW_BLOCKS = Number.POSITIVE_INFINITY
 const INDEX_PAGE_BUDGET = 1000
 const INDEX_FIRST_PAGE_HEADER_COST = 150
 const INDEX_RUNNING_HEADER_COST = 34
@@ -192,9 +190,7 @@ async function buildSingleBookStudioData(store: FileWikiStore, bookId: string): 
     const bookScope = resolveBookStudioScope(bookId, sectionType, outlineSection)
     const title = String(parsed.data.title || titleFromPath(file))
     const parsedBlocks = markdownToBlocks(preview.markdown, file)
-    const blocks = sectionType === "chapter" && isDuplicateChapterTitle(parsedBlocks[0], title)
-      ? parsedBlocks.slice(1)
-      : parsedBlocks
+    const blocks = sectionType === "chapter" ? removeRepeatedOpeningTitle(parsedBlocks, title) : parsedBlocks
 
     return {
       path: file,
@@ -340,6 +336,10 @@ async function loadVolumeOrientationData(store: FileWikiStore, volume: TextVolum
 }
 
 function mapChapterIntoVolume(chapter: BookStudioChapter, volumeChapterNumber: number): BookStudioChapter {
+  let nucleusNumber = 0
+  const suffixes = chapter.blocks.filter((block) => block.type === "heading" && block.nucleusId)
+    .map((block) => /-(\d{2})$/.exec(block.nucleusId!)?.[1])
+  const repeatedNumbers = new Set(suffixes).size !== suffixes.length
   return {
     ...chapter,
     moduleOutlineSection: chapter.outlineSection,
@@ -349,10 +349,11 @@ function mapChapterIntoVolume(chapter: BookStudioChapter, volumeChapterNumber: n
 
       const match = /-(\d{2})$/.exec(block.nucleusId)
       if (!match) return block
+      nucleusNumber += 1
 
       return {
         ...block,
-        number: `${volumeChapterNumber}.${Number.parseInt(match[1], 10)}`
+        number: `${volumeChapterNumber}.${repeatedNumbers ? nucleusNumber : Number.parseInt(match[1], 10)}`
       }
     })
   }
@@ -538,7 +539,7 @@ function buildVolumeDigitalServicesMarkdown(volume: TextVolume) {
     "| Bando Decoder | Trasforma il bando in piano di studio e priorità. |",
     "| Planner | Organizza tempi, prove, ripassi e simulazioni. |",
     "| Schede modulo | Adatta il Metodo BANDO alla famiglia concorsuale del volume. |",
-    "| Aggiornamenti | Segnala fonti ufficiali da verificare prima della pubblicazione o della prova. |",
+    "| Aggiornamenti | Aiuta a controllare sulle fonti ufficiali le novità rilevanti per il bando e per la prova. |",
     "",
     "> [!TIP]",
     "> Il volume resta utilizzabile anche senza piattaforma: il digitale accelera compilazione, verifica e aggiornamento, ma non sostituisce il libro."
@@ -565,7 +566,7 @@ function buildVolumeCopyrightMarkdown(volume: TextVolume) {
     "",
     "Questo volume appartiene alla linea ConcorsoBook OS / Capitale Personale ed è costruito come libro-workbook per la preparazione ai concorsi pubblici italiani.",
     "",
-    "Le informazioni normative e procedurali devono essere verificate sulle fonti ufficiali vive prima dell'uso professionale o della pubblicazione definitiva.",
+    "Per la tua candidatura controlla sempre il bando, gli allegati e gli avvisi ufficiali della procedura. Per l’uso professionale verifica le disposizioni vigenti e le regole applicabili al caso concreto.",
     "",
     "Il volume non promette copertura totale di ogni bando, né aggiornamento automatico: offre un metodo riusabile, una struttura modulare e strumenti di lavoro collegati al perimetro editoriale dichiarato.",
     "",
@@ -608,11 +609,11 @@ function buildVolumePrefaceMarkdown(volume: TextVolume, moduleBooks: VolumeModul
   return [
     "# Premessa",
     "",
-    `Questo volume tratta ${volume.title.toLowerCase()} come un unico libro. I moduli interni (${moduleList}) non sono libri separati per il lettore: sono sezioni coordinate dello stesso percorso editoriale.`,
+    `Questo volume accompagna la preparazione per ${volume.title.toLowerCase()}. I percorsi ${moduleList} collegano le materie specialistiche alle prove e agli strumenti di lavoro.`,
     "",
-    "La struttura segue una regola precisa: prima le pagine comuni del volume, poi il sommario, la premessa e l'indice completo; solo dopo iniziano i moduli interni, ciascuno con una pagina unica di frontespizio e sommario.",
+    "Parti dal bando: individua requisiti, materie, prove e criteri di valutazione. Usa l’indice per scegliere il percorso pertinente e le schede per trasformare lo studio in esercizi, ripassi e simulazioni.",
     "",
-    "Il lettore deve poter partire dal volume, capire subito il perimetro, vedere l'indice completo e poi attraversare i moduli nell'ordine previsto, senza incontrare di nuovo servizi digitali, copyright o premessa generale a ogni cambio modulo."
+    "Il volume specialistico si affianca al Metodo BANDO per le basi comuni. I rinvii indicano quali argomenti riprendere; gli strumenti cartacei permettono di lavorare anche senza piattaforma digitale."
   ].join("\n")
 }
 
@@ -1223,11 +1224,32 @@ function extractHeadingSection(content: string, heading: string) {
 
 function isDuplicateChapterTitle(block: MarkdownBlock | undefined, title: string) {
   return block?.type === "heading"
-    && block.level === 1
+    && (block.level || 1) <= 2
     && normalizeIndexText(block.text || "") === normalizeIndexText(title)
 }
 
-function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[] {
+function removeRepeatedOpeningTitle(blocks: MarkdownBlock[], title: string) {
+  let opening = true
+  return blocks.filter((block) => {
+    if (opening && isDuplicateChapterTitle(block, title)) return false
+    if (block.type === "heading") opening = false
+    return true
+  })
+}
+
+/** Same student projection as Book Studio, without its screen-preview truncation. */
+export function parseStudentChapterForExport(content: string, sourcePath: string) {
+  const parsed = parseFrontmatter(content)
+  if (isStaffOnlyBookDocument(sourcePath, parsed.data as Record<string, unknown>)) throw new Error("Documento riservato allo staff")
+  const preview = selectPreviewMarkdown(parsed.body)
+  const title = String(parsed.data.title || titleFromPath(sourcePath))
+  const blocks = markdownToBlocks(preview.markdown, sourcePath, Number.POSITIVE_INFINITY)
+  const contentState: ChapterContentState = preview.state === "draft" && parsed.data.draft_stage === "publication-ready" && parsed.data.review_required === false ? "written" : preview.state
+  return { title, markdown: preview.markdown, contentState, reviewRequired: parsed.data.review_required !== false,
+    blocks: removeRepeatedOpeningTitle(blocks, title) }
+}
+
+function markdownToBlocks(markdown: string, sourcePath: string, maxBlocks = MAX_PREVIEW_BLOCKS): MarkdownBlock[] {
   const blocks: MarkdownBlock[] = []
   const lines = markdown.replace(/\r\n/g, "\n").split("\n")
   let paragraph: string[] = []
@@ -1243,7 +1265,13 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
     const text = paragraph.join(" ").replace(/\s+/g, " ").trim()
 
     if (text) {
-      blocks.push({ type: "paragraph", text: cleanInlineText(text) })
+      const cleaned = cleanInlineText(text)
+      const previous = blocks.at(-1)
+      if (paragraph.length === 1 && /^Figura\s+\d+(?:\.\d+)*\s*[-—–:.]/i.test(cleaned) && previous?.type === "image") {
+        previous.caption = cleaned
+      } else {
+        blocks.push({ type: "paragraph", text: cleaned })
+      }
     }
 
     paragraph = []
@@ -1280,7 +1308,13 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
 
   function flushCallout() {
     if (calloutLines.length > 0) {
-      blocks.push(parseCallout(calloutLines))
+      const callout = parseCallout(calloutLines)
+      const previous = blocks.at(-1)
+      if (callout.calloutType === "caption" && previous?.type === "image") {
+        previous.caption = [callout.title, callout.text].filter(Boolean).join("\n")
+      } else {
+        blocks.push(callout)
+      }
     }
 
     calloutLines = []
@@ -1404,6 +1438,7 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
     }
 
     flushTable()
+    flushList()
     paragraph.push(line.trim())
   }
 
@@ -1413,13 +1448,13 @@ function markdownToBlocks(markdown: string, sourcePath: string): MarkdownBlock[]
   flushCallout()
   flushCode()
 
-  return splitOversizedBlocks(blocks).slice(0, MAX_PREVIEW_BLOCKS)
+  return splitOversizedBlocks(blocks).slice(0, maxBlocks)
 }
 
 function splitOversizedBlocks(blocks: MarkdownBlock[]) {
   const next: MarkdownBlock[] = []
 
-  for (const [blockIndex, block] of blocks.entries()) {
+  for (const [blockIndex, block] of blocks.flatMap(splitWideTable).entries()) {
     if (block.type === "paragraph" && countWords(block.text || "") > MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK) {
       splitTextIntoPreviewChunks(block.text || "", MAX_PARAGRAPH_WORDS_PER_PREVIEW_BLOCK).forEach((text, index) => {
         next.push({
@@ -1470,6 +1505,25 @@ function splitOversizedBlocks(blocks: MarkdownBlock[]) {
   }
 
   return next
+}
+
+// Keep all fields at the prescribed font size. Repeating the identifying column
+// makes each narrow panel usable independently, including across page breaks.
+function splitWideTable(block: MarkdownBlock): MarkdownBlock[] {
+  if (block.type !== "table" || (block.headers?.length || 0) <= 4) return [block]
+  const headers = block.headers!
+  // A malformed source row must remain visible for editorial repair, not lose
+  // its surplus fields while adapting an otherwise valid table to the page.
+  if ((block.rows || []).some((row) => row.length > headers.length)) return [block]
+  const panels: MarkdownBlock[] = []
+  for (let start = 1; start < headers.length; start += 3) {
+    panels.push({
+      ...block,
+      headers: [headers[0], ...headers.slice(start, start + 3)],
+      rows: (block.rows || []).map((row) => [row[0] || "", ...row.slice(start, start + 3)])
+    })
+  }
+  return panels
 }
 
 function tableRowsPerPreviewBlock(block: MarkdownBlock) {
@@ -1601,11 +1655,8 @@ function parseTable(lines: string[]): MarkdownBlock | null {
   if (lines.length < 2) return null
 
   const parsedRows = lines.map((line) =>
-    line
-      .replace(/^\|/, "")
-      .replace(/\|$/, "")
-      .split("|")
-      .map((cell) => cleanInlineText(cell.trim()))
+    tokenizeMarkdownTableRow(line.replace(/^\|/, "").replace(/\|$/, ""))
+      .map((cell) => cleanInlineText(cell.trim()).replace(/<br\s*\/?\s*>/gi, "\n"))
   )
   const separatorIndex = parsedRows.findIndex((row) => row.every((cell) => /^:?-{3,}:?$/.test(cell)))
 
@@ -1798,11 +1849,15 @@ export function resolveBookStudioScope(
 function outlineRank(value: string) {
   const normalized = value.trim()
   const frontMatter = /^FM(\d+)$/i.exec(normalized)
+  const numberedChapter = /^(?:capitolo\s+)?(\d+)([a-z]?)$/i.exec(normalized)
 
   if (frontMatter) return -100 + Number.parseInt(frontMatter[1], 10)
   if (!normalized) return 999
   if (normalized.toUpperCase() === "CONCLUSIONE") return 60
-  if (/^\d+$/.test(normalized)) return Number(normalized)
+  if (numberedChapter) {
+    const suffix = numberedChapter[2].toLowerCase()
+    return Number(numberedChapter[1]) + (suffix ? (suffix.charCodeAt(0) - 96) / 100 : 0)
+  }
   if (/^[A-Z]$/i.test(normalized)) return 100 + normalized.toUpperCase().charCodeAt(0) - 64
 
   return 900

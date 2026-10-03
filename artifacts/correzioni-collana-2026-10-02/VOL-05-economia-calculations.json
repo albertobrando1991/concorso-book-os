@@ -1,0 +1,21 @@
+{
+  "type": "invented didactic examples, not observed data",
+  "calculations": {
+    "priceCap": 102.0,
+    "revenueCap": 1020.0,
+    "revenueCapUnitPriceAt11": 92.72727272727273,
+    "priceCapRevenueAt11": 1122,
+    "elasticityAt50": -1.0,
+    "wacc": 0.06,
+    "allowedRevenue": 310000.0,
+    "allocationRegulated": 180000.0,
+    "allocationOther": 120000.0,
+    "did": -6,
+    "ols95CI": [
+      0.10799999999999998,
+      0.892
+    ],
+    "hhiBefore": 3000,
+    "hhiAfter": 3800
+  }
+}

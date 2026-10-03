@@ -1,0 +1,838 @@
+{
+  "volume": "VOL-03",
+  "updated": "2026-10-03",
+  "findings": [
+    {
+      "id": "V03-001",
+      "position": "fc02/05b, Apertura; mappa articoli; caso Omega; quiz 1",
+      "diagnosis": "«applicabile dal 1 gennaio 2026»: Il TU giustizia tributaria è presentato come disciplina applicabile nel 2026. La decorrenza è stata rinviata al 1 gennaio 2027. Errore propagato dalla source note e dalle matrici.",
+      "correction": "FC02/05b: regime 2026 D.Lgs. 545/546; TU dal 2027; vecchia fonte superata.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-002",
+      "position": "fc03/08, CCNL; riga 105",
+      "diagnosis": "«il contratto definitivo di riferimento»: Il testo presenta il 2025–2027 soltanto come ipotesi 9 giugno. Firma definitiva 6 agosto 2026, prima del cut-off dichiarato 22 agosto. Stesso errore nella source note ARAN.",
+      "correction": "FC03/08: CCNL definitivo del 6 agosto 2026, successione dei contratti e ferie dal 2027.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-003",
+      "position": "fc01/09, Nucleo gestione; definizione residui",
+      "diagnosis": "«residui attivi»: La definizione accertati non riscossi omette, nel bilancio dello Stato, le somme riscosse non versate.",
+      "correction": "FC01/09: residui attivi statali da riscuotere e da versare; caso 100/80/60 = 40.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-004",
+      "position": "fc02/05, Tabella tutela cautelare riga 167",
+      "diagnosis": "«grave o irreparabile»: La congiunzione alternativa altera il requisito cumulativo della sospensione.",
+      "correction": "FC02/05: danno grave e irreparabile.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-005",
+      "position": "fc02/08, Territorio/status; riga 81",
+      "diagnosis": "«vengono vincolate a un altro regime»: Il vincolo a un altro regime non determina in generale la cessazione della vigilanza sulle merci non unionali.",
+      "correction": "FC02/08: vigilanza e passaggio ad altro regime.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-006",
+      "position": "fc02/08, Fonti; riga 70",
+      "diagnosis": "«per le disposizioni non superate»: Formula che lascia indeterminata una sopravvivenza del DPR 43/1973 dopo abrogazione.",
+      "correction": "FC02/08: abrogazione TULD.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-007",
+      "position": "fc02/08, Rettifica della dichiarazione",
+      "diagnosis": "«rettifica»: La spiegazione arresta la rettifica alla fase anteriore allo svincolo, omettendo la possibilità successiva.",
+      "correction": "FC02/08: modifica dopo svincolo entro tre anni.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-008",
+      "position": "fc02/08, Caso componenti elettronici Cina/Turchia",
+      "diagnosis": "«Turchia»: Il caso orienta alla preferenza di origine senza distinguere la libera pratica nell’unione doganale UE-Turchia per merci industriali.",
+      "correction": "FC02/08: A.TR, libera pratica e origine nel caso Turchia.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-009",
+      "position": "fc02/14, Glossario riga 144",
+      "diagnosis": "«in proprio nome o per conto altrui»: La definizione di dichiarante include indistintamente il rappresentante diretto, in contrasto con la distinzione del cap 08.",
+      "correction": "FC02/14: definizione del dichiarante.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-010",
+      "position": "fc02/09, Soggetti accise; riga 88",
+      "diagnosis": "«detenerli indefinitamente in sospensione»: L’avverbio suggerisce una facoltà di detenzione temporanea in sospensione del destinatario registrato.",
+      "correction": "FC02/09: divieto di detenzione sospensiva del destinatario registrato.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-011",
+      "position": "fc02/14, Glossario EMCS riga 105",
+      "diagnosis": "«Sistema di controllo della circolazione in sospensione»: Definizione incompleta: dal 2023 comprende anche movimenti commerciali tra Stati UE di prodotti già immessi in consumo.",
+      "correction": "FC02/09 e 14: EMCS a imposta assolta, e-DAS e soggetti certificati.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-012",
+      "position": "fc02/11, Immobilizzazioni; riga 177",
+      "diagnosis": "«Le immobilizzazioni sono iscritte al costo e ammortizzate»: Generalizzazione a tutte le immobilizzazioni, incluse quelle finanziarie e terreni.",
+      "correction": "FC02/11: immobilizzazioni ammortizzabili e finanziarie, terreni.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-013",
+      "position": "fc02/11, Rimanenze riga 175; margini riga 209",
+      "diagnosis": "«secondo costo e valore di realizzo»: Manca il criterio del minore; margine di struttura non distingue configurazione primaria e secondaria.",
+      "correction": "FC02/11: minore costo/realizzo, due margini e calcoli.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-014",
+      "position": "fc03/appendice-f, Reati contro PA",
+      "diagnosis": "«Corruzione, concussione, peculato e abuso»: Abuso figura accanto ai reati senza qualificazione storica o chiarimento: induce a studiare l’abrogato art 323 come vigente.",
+      "correction": "Appendice F: abrogazione art. 323, distinzione dei reati vigenti e art. 314-bis.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-015",
+      "position": "fc 03/*, Verifica e caso ragionato di chiusura di tutti 19 file",
+      "diagnosis": "«individuare fonte, ambito e funzione»: 114 domande finali: sei scheletri con risposte identiche in 19 capitoli; identico caso conclusivo. Non verificano i nuclei dichiarati. Esempio F: obbligazioni e sicurezza sul lavoro sinonimi?",
+      "correction": "Tutti i 19 capitoli: 114 domande specifiche e 19 casi originali, con soluzioni separate e ragionate.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-016",
+      "position": "fc03/03, Intero capitolo; raccordo glossario B",
+      "diagnosis": "«previdenza, servizi e prestazioni»: Manca la teoria specialistica promessa per pensioni, ammortizzatori, invalidità, ISEE, contribuzione. Privacy e sportello occupano il posto di requisiti, istituti e distinzioni.",
+      "correction": "FC03/03: art. 38, previdenza/assistenza, contribuzione, automaticità, pensioni, NASpI, invalidità, ISEE/DSU e calcoli.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-017",
+      "position": "fc03/04, Infortunio, malattia e prestazioni; anche appendice B",
+      "diagnosis": "«Evento dannoso collegato»: Non sono spiegati causa violenta/occasione di lavoro, differenza causale della malattia professionale, prestazioni, premi e automaticità; il glossario non colma il vuoto.",
+      "correction": "FC03/04: rischio assicurato, causa e occasione di lavoro, in itinere, malattie tabellate/non, premi, prestazioni, danno biologico e limiti automaticità.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-018",
+      "position": "fc03/appendice-a, Poteri, verbale, contraddittorio; confronto appendice E",
+      "diagnosis": "«non deve memorizzare un catalogo indistinto di poteri»: Appendice prevalentemente metodologica: poteri, atti, diffide, rimedi e competenze non insegnati. Appendice E afferma che basta per il profilo vigilanza.",
+      "correction": "Appendice A: competenze, accesso, verbali, due diffide, conciliazione, recuperi, tutele e aggiornamento 2024.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-019",
+      "position": "fc03/02, Organi, indirizzo e gestione",
+      "diagnosis": "«organi»: L’ordinamento INPS/INAIL è ridotto a categorie; non insegna denominazione/competenze degli organi e vigilanza ministeriale.",
+      "correction": "FC03/02: Presidente, CdA, CIV, DG, Collegio dei sindaci e vigilanza ministeriale.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-020",
+      "position": "fc03/06, Bilancio, patrimonio e controlli",
+      "diagnosis": "«Bilancio dell’ente»: Nessuno sviluppo sufficiente degli strumenti contabili propri degli EPNE, delle fonti dedicate e delle competenze di adozione/approvazione.",
+      "correction": "FC03/06: DPR 97/2003, d.lgs. 91/2011, regolamenti, documenti preventivi/consuntivi, competenze e calcoli.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-021",
+      "position": "fc03/appendice-f, Civile, processo civile, finanze, sicurezza",
+      "diagnosis": "«Elencarli non basta»: Il testo stesso afferma che elencare soggetti non basta, ma non attribuisce obblighi. Distinzioni civilistiche e tributarie spesso solo nominate; processo previdenziale assente.",
+      "correction": "Appendice F: responsabilità e patologie civilistiche, rito lavoro/previdenza, ATP, obblighi 81/2008 e finanze con casi.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-022",
+      "position": "fc03/appendice-b, Voci premio e danno biologico",
+      "diagnosis": "«Concetto richiamato nel sistema INAIL»: Danno biologico non definito; premio descritto come termine legato al finanziamento. Il lettore non può imparare le due nozioni.",
+      "correction": "Appendice B: definizioni sostanziali di premio e danno biologico, soglie e rinvio al caso INAIL.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-023",
+      "position": "fc03/appendice-b, Coppie da non confondere; domanda commissario",
+      "diagnosis": "«Chiamare tutto genericamente \"previdenza\"»: Contrapposizione INPS-previdenza/INAIL-assicurazione rischia di escludere INAIL dalla previdenza sociale. Prestazione non diritto automatico è ambiguo.",
+      "correction": "Appendice B: INAIL nel sistema previdenziale; automaticità distinta dall’assenza di istruttoria.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-024",
+      "position": "fc03/appendice-c, Schede CRI, ISTAT, ENEA, ASI; ricorrenze 01/10/12",
+      "diagnosis": "«natura giuridica»: La prudenza su CRI non comunica il dato giuridico essenziale. Gli enti di ricerca possono essere editorialmente affini, ma il personale amministrativo non diventa per questo Funzioni Centrali.",
+      "correction": "Capitoli 01/10/12 e appendice C: CRI privata dal 2016; comparto Istruzione e Ricerca degli EPR anche amministrativi.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-025",
+      "position": "fc 03/*, Titoli N-FC03-xx e sottotitoli",
+      "diagnosis": "«Applicazione al profilo»: Segmentazione meccanica interrompe sottotitolo e paragrafo, domanda e soluzione: es.12 quiz 7, 10 Da sapere 5 righe, 11 caso 7. Le sezioni non corrispondono ai concetti della matrice.",
+      "correction": "Tutti i capitoli: 95 nuclei ricollocati a confini semantici, titoli specifici e matrice riconciliata senza moltiplicare i quiz.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-026",
+      "position": "fc03/appendice-e, Quando un rinvio è sufficiente; tabella moduli",
+      "diagnosis": "«volume, capitolo e paragrafo»: Il testo prescrive rinvii precisi ma offre prevalentemente codici di modulo, senza destinazione per materia. Le promesse di sufficienza non sono comprovate.",
+      "correction": "Appendice E: destinazioni esistenti per volume/capitolo/sezione, copertura e limiti espliciti; rinvio ispettivo e procurement ridimensionati.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-027",
+      "position": "fc02/05b, Ricorso, assistenza, competenza",
+      "diagnosis": "«termini numerici»: Omissione deliberata di termini essenziali, soglia difesa personale e competenza territoriale rende incompleta la preparazione al processo.",
+      "correction": "FC02/05b: termini, difesa personale, territorio e caso calendario.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-028",
+      "position": "fc02/05a, Reati tributari; responsabilità autore",
+      "diagnosis": "«struttura tipica»: Fattispecie nominate senza soglie/elementi sufficienti a distinguerle; mancano raccordi chiari sulla responsabilità delle persone giuridiche.",
+      "correction": "FC02/05a: soglie, condizioni, consumazione, calendario e imputazione sanzioni agli enti.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-029",
+      "position": "fc02/05, Accertamento, contraddittorio e autotutela",
+      "diagnosis": "«presupposti»: Metodi analitico/induttivo/sintetico/d’ufficio non sviluppati; contraddittorio e autotutela restano generici, rinvio 05↔05B circolare.",
+      "correction": "FC02/05: cinque metodi, 60 giorni di contraddittorio, limiti autotutela e TCF 2026.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-030",
+      "position": "fc02/06, Categorie reddituali e dichiarazioni",
+      "diagnosis": "«regole vigenti»: I criteri temporali e le modalità di determinazione sono spesso rinviati anziché insegnati; pensioni e cassa allargata non chiarite; dichiarazione tardiva priva del limite essenziale.",
+      "correction": "FC02/06: criteri reddituali, pensioni, cassa allargata, calcolo e 90 giorni.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-031",
+      "position": "fc02/12, Obbligazioni, patologie contrattuali, società",
+      "diagnosis": "«nullità»: Delegazione, espromissione, accollo e molte patologie/tipi societari nominati senza disciplina distintiva.",
+      "correction": "FC02/12: delegazione/espromissione/accollo, patologie e responsabilità societarie con casi.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-032",
+      "position": "fc02/03, Organi AE/ADM",
+      "diagnosis": "«direttore»: Quadro degli organi omette collegio dei revisori e funzioni, mentre per Ad ER elenco più completo.",
+      "correction": "FC02/03: Collegio dei revisori e funzione dei tre organi.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-033",
+      "position": "fc01/03, Aree e profili",
+      "diagnosis": "«aree»: Le quattro aree contrattuali non vengono nominate e spiegate nelle declaratorie essenziali.",
+      "correction": "FC01/03: quattro aree, declaratorie essenziali e requisiti di base.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-034",
+      "position": "fc01/05, Segretario generale e strutture missione",
+      "diagnosis": "«Segretario generale»: Funzione generale troppo generica; non esplicitata durata strutture missione in rapporto al Governo.",
+      "correction": "FC01/05: responsabilità del Segretario, autonomia contabile e limite di durata delle missioni.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-035",
+      "position": "fc01/06, Modelli organizzativi",
+      "diagnosis": "«direzioni generali»: Modelli presentati senza ruolo Segretario generale e limite di coesistenza col dipartimentale.",
+      "correction": "FC01/06: Segretario generale e incompatibilità con modello dipartimentale, con verifica applicativa.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-036",
+      "position": "fc01/07, Patrocinio; generale/distrettuali",
+      "diagnosis": "«secondo il perimetro stabilito»: Criterio di competenza e patrocinio obbligatorio/autorizzato insufficienti rispetto alla matrice completo.",
+      "correction": "FC01/07: patrocinio obbligatorio/autorizzato, competenza generale/distrettuale e foro dello Stato.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-037",
+      "position": "fc01/08, Struttura PIAO",
+      "diagnosis": "«struttura»: Schema concettuale non insegna le quattro sezioni formali e gli adempimenti fondamentali.",
+      "correction": "FC01/08: quattro sezioni formali PIAO, durata, aggiornamento, ruoli e pubblicazione.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-038",
+      "position": "fc01/09, Ciclo statale e controlli",
+      "diagnosis": "«rendiconto»: Delta contabilità Stato incompleto: struttura legge bilancio, documenti programmazione, unità voto, composizione rendiconto e controlli/parificazione.",
+      "correction": "FC01/09: due sezioni del bilancio, unità di voto, PSBMT/DFP/DPFP/DBP, due conti e parificazione.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-039",
+      "position": "fc01/10, Acquisti ministeriali",
+      "diagnosis": "«Consip»: Obblighi specifici di acquisto centralizzato non sviluppati, soglie/procedure rinviate genericamente.",
+      "correction": "FC01/10: obblighi Consip/MePA, distinzione da procedura e digitale, caso e rinvii precisi al core.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-040",
+      "position": "fc01/12, Ordine illegittimo; conflitto",
+      "diagnosis": "«coinvolge»: Soluzioni comportamentali non esplicitano rimostranza/conferma scritta e limite penale; conflitto richiede astensione oltre segnalazione.",
+      "correction": "FC01/12: rimostranza, rinnovo scritto, eccezioni penale/amministrativa; astensione e casi.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-041",
+      "position": "fc03/11, Casi 1/3 e mini-atto",
+      "diagnosis": "«documento mancante»: Richiesta integrazione all’utente senza previo controllo acquisizione d’ufficio; mini-atto non specifica documento/termine perché traccia non li fornisce.",
+      "correction": "FC03/11: acquisizione d’ufficio, caso residenza e caso P-18 con documento, data e canale autosufficienti.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-042",
+      "position": "fc03/12, Riservatezza; conflitto interessi",
+      "diagnosis": "«non possono essere comunicati per telefono»: Divieto assoluto sul mezzo contraddice corretta verifica identità/titolo/canale negli scenari successivi; astensione enunciata ma non resa operativa.",
+      "correction": "FC03/12: canale telefonico autorizzato e verificato, astensione nei casi dovuti.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-043",
+      "position": "fc02/07, Fermo",
+      "diagnosis": "«libera disponibilità»: Descrizione del fermo patrimoniale imprecisa rispetto al divieto di circolazione; tutele/limiti restano poco determinati.",
+      "correction": "FC02/07: fermo, circolazione, preavviso e strumentalità.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-044",
+      "position": "fc02/10, Pubblicità e estimo",
+      "diagnosis": "«nei casi previsti»: Efficacia costitutiva dell’iscrizione ipotecaria resta attenuata; procedimenti estimativi alternativi solo nominati.",
+      "correction": "FC02/10: iscrizione costitutiva e tre procedimenti estimativi con calcoli.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-045",
+      "position": "fc02/13, Svolgimenti guidati righe 291/313/335",
+      "diagnosis": "«**Svolgimento guidato»: Grassetto aperto in una riga e chiuso sulla successiva; intestazioni incoerenti e numerazione rinvii da ricontrollare.",
+      "correction": "FC02/13: tre etichette di svolgimento richiuse.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-046",
+      "position": "fc 01/*, Mappe BANDO cap 09/11/12",
+      "diagnosis": "«Decisione»: BANDO rimappato in alcuni capitoli: B Base normativa, A Attori, N Nessi, D Decisioni; cap 13 FC 02 usa D Domande.",
+      "correction": "FC01/09/11/12: espansione canonica Bando, Aree, Nuclei, Diario, Output.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-047",
+      "position": "fc02/13, Mappa BANDO",
+      "diagnosis": "«Domande»: La D viene usata come Domande anziché Diario.",
+      "correction": "FC02/13: D = Diario e relativa applicazione.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-048",
+      "position": "fc 01/*, Quiz/simulazioni soprattutto 10–14",
+      "diagnosis": "«Risposta corretta»: Molti distrattori caricaturali e risposta corretta più lunga; concentrazione lettereB/C. Soluzioni inline riducono simulazione autonoma.",
+      "correction": "FC01/08–15: 60 quiz riscritti, chiavi bilanciate e soluzioni separate; commenti allineati.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-049",
+      "position": "fc03/12, Otto scenari situazionali",
+      "diagnosis": "«Dire che non puoi fare nulla»: Chiavi C, B, B, C, B, C, C, C e commenti coerenti, ma alternative troppo evidentemente scorrette.",
+      "correction": "FC03/12: otto situazionali con alternative plausibili, chiavi A/B/C/D bilanciate e commenti coerenti.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-050",
+      "position": "fc01/15, Glossario e apparati",
+      "diagnosis": "«quattro tabelle»: Conteggio non allineato alle cinque tabelle; rinvio a glossario per competenza/cassa non fornisce le voci; definizione organo da precisare.",
+      "correction": "FC01/15: cinque tabelle, organo/ente, competenza finanziaria/cassa/residui e 100 criteri di correzione.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-051",
+      "position": "fc03/13, Caso Luca riga 254",
+      "diagnosis": "«l'l'INAIL»: Articolo duplicato; venerdi senza accento. Simulazione 10 scenari non individua banca di provenienza.",
+      "correction": "FC03/13: articolo duplicato e accento corretti; origine dei dieci scenari esplicitata.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-052",
+      "position": "fc 02/*, Correzione di bozze diffusa",
+      "diagnosis": "«stabilità»: Accenti/apostrofi incoerenti e sostituzioni errate: Sara per Sarà (cap 03), disciplina/funzione/priorità stabilità, operatore necessità, infiltra offerta (cap 09).",
+      "correction": "FC02: accenti e apostrofi, Sara/stabilita/necessita e frase sui controlli corretti in contesto.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-053",
+      "position": "fc 03/*, Corpo e appendici E/F",
+      "diagnosis": "«prima della pubblicazione»: Source note, wiki, audit, decisioni aperte e istruzioni di redazione sono consegnate al lettore. AppendiceF dice che la scrittura pubblicabile deve ancora decidere il perimetro sociale.",
+      "correction": "Corpo dei 19 capitoli: rimossi riferimenti staff, fonti nominate per il lettore; perimetro sociale esplicitamente definito.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-054",
+      "position": "fc 02/*, Corpo cap 04/05B/14",
+      "diagnosis": "«source note»: Commenti su consolidamento fonti, review e apertura gap editoriali interrompono il libro.",
+      "correction": "FC02: apparati staff archiviati, bibliografia leggibile, rinvii alla produzione sostituiti da istruzioni di studio; tre ancore corrette.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-055",
+      "position": "fc03/appendice-f, Simulazione mista dieci minuti",
+      "diagnosis": "«La seconda propone un inadempimento»: La simulazione descrive che cosa dovrebbe chiedere, senza fornire i fatti né vere domande e soluzioni.",
+      "correction": "Appendice F: cinque tracce complete, soluzioni applicate, tempi e rubrica 10 punti.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-056",
+      "position": "fc03/appendice-c, Tavola confronto operativo",
+      "diagnosis": "«ACI richiama mobilità»: CONI incluso in titolo e prime schede ma omesso nel confronto finale.",
+      "correction": "Appendice C: CONI nel confronto operativo finale.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V03-057",
+      "position": "fc03/appendice-d, Diario errori documentali",
+      "diagnosis": "«si eliminano dal diario»: Eliminazione settimanale degli errori non ripetuti perde lo storico e contrasta con verifica in contesto nuovo del cap 13.",
+      "correction": "Appendice D: recupero documentato e archivio degli errori, cancellazione dei soli duplicati.",
+      "status": "testo verificato e congelato; PDF verificato tecnicamente e con copertura visiva dichiarata; dipendenze comuni aperte"
+    }
+  ],
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "sha256": "3337ef20a7241607074de300abb288a8af080cd65f3797e8f2e82e7ff1516931",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "sha256": "61eacb5ea533a2161fd97a03b5cda5b0944d531fefbe7767c4af8b103466b1e3",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "sha256": "290db404db9f00b3d7a1dcd020cbefb65bdb55566a65c40fddec211f04abec31",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "sha256": "62aeb330546eeeff557c742fd75a9927dfabb562f8ff7f005e656ce6747fdd70",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "sha256": "bfde445695ce9ba12eda761f30d1eaa62713a6ab9c202c54895463b2a305dd7f",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "sha256": "a9ca399edf80b947bdacd62c61e14d22821bfecc134cb8a39b4f1472496c2b6d",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "sha256": "ffa01dcfecff142aafce760985552b64c1d5561e9598d7ab6d25f424bdefa28c",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "sha256": "2c961e542f95702d01044ea99a2963516e507596e7c75c5d50002a511acff6e8",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "sha256": "2da92721e7b266ede8c6cf1cccfb2e33fab7f74b504c0d6fdb1ce4b022e80420",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "sha256": "f10c8633f37c6439895d2c2bdb3c776ef3c67052b8452da8f2789f8bd9c6f22d",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "sha256": "0d078562fef647ceb92adfc2668d27528584b4a82ebb2d3dc71cb5c382fc4050",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "sha256": "f70634502bc3c9484219eb8d6d9479379d19c61dbe964d06f489abcc6f72889d",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "sha256": "f41c1da324df99393e20c57b2e201bf6eae1b2f7466eeca84b04e2791bc765c3",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "sha256": "efbec4cc335afdd462ed8e57f5a7a6ce4c5e176b8bc84b42fe07d43d132cab48",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "sha256": "a5fa9a66994f107e8c0d72a4d761fdde17480a6ba976fc200e04fe4e14664cd5",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "sha256": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "sha256": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "sha256": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "sha256": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "sha256": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "sha256": "2f1ae919ebd39f29331f8f5a8f6652342da65473e8106ed82ae8e9cb882412d0",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "sha256": "3608af42728c22184511f160b0ac4cfc4905bb07788f1dddc91a7b08fd4db730",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "sha256": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "sha256": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "sha256": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "sha256": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "sha256": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "sha256": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "sha256": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "sha256": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "sha256": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "sha256": "702ade162e6316d51373b7461d4368f80ec32ea3e60a1c3a5a1a591ab146f5e7",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "sha256": "89a5e0f43a36530404c63485d08a0c313adba7dc1bff9f88ab0ae1e869406bc5",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "sha256": "b41cf812ed9d3b0a12d1ba7408e34c8cad061b6b7f0c797a34c9bd0d4b114d58",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "sha256": "93bb466bb94751125235c9d05e735781551edcb5722ddb4c2449e74ed2cf286a",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "sha256": "5b3c9f477654903103b1130ce06d241f5f5725a3b297d1299f2dcec3308a121b",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "sha256": "05e57ead82830f32e37cf944b111cc9c4b0b0bff7f9b4f799805ddd4e532ff23",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "sha256": "96bb9255f664b94124062824c3be6bfe5ddded265763d4788054e5bf3fa4e725",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "sha256": "c6f479868b5d4315ddc4934953d5619506fdca99a48f5ecb89b6fd6ee67820fc",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+      "sha256": "0df6e3b86520c62c1c89cc4b2324f6fbf94ae0de7f6db95c0a7f3de5e4c481f9",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "sha256": "e5f24d61b4b6cb322ad239b2df0f835b9a5df00cfee1ac6f67ad646b7d387ec9",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+      "sha256": "3303040be0fb75c202ebfca2ed4ebaf4290d3fa87450707ea4e477f0e312ce5c",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+      "sha256": "6c7b92262d92848840a3fe48ba98c0f246817c754e24d6906499c17dd146036b",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "sha256": "91061250128fb426a71237fe8fb0335575affeb7506331fda210000387081f3f",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "sha256": "5710126a94e1bf9dca05ea563e923beb462f1aa85d44ba0bfb76a66ba0a6a534",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "sha256": "073c21893de8997357b6df51bcf4521e5051bf5aafe34823b4f216d395c08bc5",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "sha256": "4f3dc106820ac6c2aebea463e916869e234b4f965c8d41d697bf10cc6cc5eef5",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "sha256": "cebbe6e75cb68e5e5cf12ed3c37b6e57e3c05a6fc693eb656366e3f750c3c732",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "sha256": "889d8cab3c3713b73907d03f9a6027a01872818a92adf571b7a61b85f48c716d",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "sha256": "703fa41b14db9143a47cf3e8b5f89dda21c05d28bbb27279e9849180dcd5af39",
+      "textVerified": true,
+      "finalVerified": false,
+      "pdfTechnicalAndVisualReview": "contact sheets complete; targeted full resolution; see PDF-VOL-03"
+    }
+  ],
+  "production": {
+    "pdfSha256": "32e25d31b712ca18af78053e7f62daab47ea266106ca52dae16cd8407eff718c",
+    "pages": 813,
+    "findings": [
+      {
+        "id": "P03-01",
+        "position": "Indice, pp. 6–11",
+        "category": "Tipografia",
+        "severity": "grave",
+        "diagnosis": "Indice precedente a 6,75 pt.",
+        "correction": "Indice corrente a 9,5 pt; 194 destinazioni verificate direttamente nel PDF.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P03-02",
+        "position": "Capitoli 13, 14 e 31; tre workbook",
+        "category": "Usabilità",
+        "severity": "grave",
+        "diagnosis": "Otto/dieci colonne spezzavano le parole e riducevano lo spazio di scrittura.",
+        "correction": "Tre schede verticali a due colonne; campi vuoti con due righe; contenuti originali conservati.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P03-03",
+        "position": "Capitoli 30–31; mappe, appendici e rinvii",
+        "category": "Layout e navigazione",
+        "severity": "medio",
+        "diagnosis": "Riga Output isolata, schemi ridondanti illeggibili e slug visibili.",
+        "correction": "Mappa BANDO a due colonne; schemi nativi; etichette umane per 126 link e allineamento di 113 righe di rinvii.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P03-04",
+        "position": "Sequenza capitoli fiscali 20–23",
+        "category": "Struttura",
+        "severity": "grave",
+        "diagnosis": "05a e 05b erano collocati dopo le appendici.",
+        "correction": "Ordine 05,05a,05b,06; indice globale 20,21,22,23 e riscontro dei titoli fisici.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P03-05",
+        "position": "Schemi 30.1,31.1,31.2,31.5",
+        "category": "Correttezza didattica",
+        "severity": "grave",
+        "diagnosis": "Espansione BANDO e mappa delle appendici non corrispondevano al testo.",
+        "correction": "Bando/Aree/Nuclei/Diario/Output; appendici A–H corrispondenti ai contenuti effettivi.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P03-06",
+        "position": "Schemi 20.2,23.3,24.3,25.4,29.3,30.3",
+        "category": "Correttezza didattica",
+        "severity": "grave",
+        "diagnosis": "Frecce trasformavano alternative, tempi diversi e contesti distinti in fasi obbligatorie.",
+        "correction": "Tabelle native distinguono esiti del controllo, dichiarazione/liquidazione/versamento, titoli della riscossione, AEO e casi per ente.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P03-07",
+        "position": "Schemi 18.2 e 31.5",
+        "category": "Correttezza istituzionale",
+        "severity": "grave",
+        "diagnosis": "Profili come quarto ente; EORI confuso con AEO.",
+        "correction": "Profili come criterio di studio; enti e relazioni corretti; EORI identificazione, AEO status autorizzato.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P03-08",
+        "position": "FC03 appendice E, §49.3",
+        "category": "Rinvii errati",
+        "severity": "medio",
+        "diagnosis": "Cybersecurity, Consip e authority indicavano altri volumi; capitoli locali ambigui.",
+        "correction": "Master corretto: VOL-08, VOL-09, VOL-05; ricerca e fisco rinviati al modulo e titolo effettivi. Gate 14/15/16 rieseguiti.",
+        "status": "Corretto e verificato"
+      }
+    ],
+    "report": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-03.md",
+    "visualReview": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol03-proof\\visual-review.json",
+    "finalSignoff": false
+  }
+}

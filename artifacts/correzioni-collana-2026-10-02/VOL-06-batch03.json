@@ -1,0 +1,20 @@
+{
+  "V06-06": {
+    "change": "Inseriti programma annuale e consuntivo con ruoli/termini ordinari, fasi entrata/spesa, residui, riconciliazione numerica e inventario con consegnatario/ricognizione/scarico.",
+    "files": [
+      "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md"
+    ],
+    "evidence": "D.I.129 artt.5/23 su GU e12/13/15/16/17/30/31/33 consolidati; caso 30.000+10.000−15.000=25.000 risolto.",
+    "status": "applicato"
+  },
+  "V06-07": {
+    "change": "Esposti art.25 D.Lgs.165, relazioni del CCNL23dicembre2025 e ruoli sicurezza/ente edilizio; protezione urgente anteposta alla documentazione nello scenario e nella domanda-trappola.",
+    "files": [
+      "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md"
+    ],
+    "evidence": "Art.25 e art.18, commi3.1–3.3, consolidati; ARAN artt.5/6/11; scenario soffitto risolto rispettando i confini tecnici.",
+    "status": "applicato"
+  }
+}

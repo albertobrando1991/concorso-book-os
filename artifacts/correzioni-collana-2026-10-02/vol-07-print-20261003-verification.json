@@ -1,0 +1,311 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-07-print-20261003-proof.pdf",
+  "sha256": "9026efd4571dc3825c8338c69344d0877971ec98813b8d2f69a122af5715d2cf",
+  "pages": 454,
+  "domPages": 454,
+  "pageCountMatch": true,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "indexEntries": [
+    {
+      "number": 1,
+      "title": "SSN, aziende sanitarie, atti e flussi informativi",
+      "indexPage": 6,
+      "printedPage": 9,
+      "actualPage": 9,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md"
+    },
+    {
+      "number": 2,
+      "title": "Documentazione sanitaria, accesso, privacy e conservazione",
+      "indexPage": 6,
+      "printedPage": 41,
+      "actualPage": 41,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md"
+    },
+    {
+      "number": 3,
+      "title": "Front-office e comunicazione con l'utenza sanitaria",
+      "indexPage": 6,
+      "printedPage": 62,
+      "actualPage": 62,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md"
+    },
+    {
+      "number": 4,
+      "title": "Contabilità, budget e controllo di gestione nelle aziende sanitarie",
+      "indexPage": 6,
+      "printedPage": 81,
+      "actualPage": 81,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md"
+    },
+    {
+      "number": 5,
+      "title": "Procurement sanitario, farmaci, dispositivi e magazzino",
+      "indexPage": 6,
+      "printedPage": 111,
+      "actualPage": 111,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md"
+    },
+    {
+      "number": 6,
+      "title": "Professioni sanitarie: profili, requisiti e prove",
+      "indexPage": 6,
+      "printedPage": 142,
+      "actualPage": 142,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md"
+    },
+    {
+      "number": 7,
+      "title": "Discipline professionali: autonomia, responsabilità e deontologia",
+      "indexPage": 6,
+      "printedPage": 154,
+      "actualPage": 154,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md"
+    },
+    {
+      "number": 8,
+      "title": "Assistenza infermieristica, tecniche assistenziali e supporto OSS",
+      "indexPage": 6,
+      "printedPage": 172,
+      "actualPage": 172,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md"
+    },
+    {
+      "number": 9,
+      "title": "Valutazione clinica, triage, urgenza ed emergenza",
+      "indexPage": 6,
+      "printedPage": 196,
+      "actualPage": 196,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md"
+    },
+    {
+      "number": 10,
+      "title": "Prevenzione, continuità assistenziale e presa in carico",
+      "indexPage": 6,
+      "printedPage": 220,
+      "actualPage": 220,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md"
+    },
+    {
+      "number": 11,
+      "title": "Evidenze scientifiche, PICO, GRADE e applicabilità",
+      "indexPage": 6,
+      "printedPage": 242,
+      "actualPage": 242,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md"
+    },
+    {
+      "number": 12,
+      "title": "Igiene pubblica, epidemiologia, sorveglianza e screening",
+      "indexPage": 6,
+      "printedPage": 264,
+      "actualPage": 264,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md"
+    },
+    {
+      "number": 13,
+      "title": "Controlli TPALL, verbalizzazione, campionamento e sanzioni",
+      "indexPage": 6,
+      "printedPage": 278,
+      "actualPage": 278,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md"
+    },
+    {
+      "number": 14,
+      "title": "Prova pratica e casi professionali",
+      "indexPage": 6,
+      "printedPage": 296,
+      "actualPage": 296,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md"
+    },
+    {
+      "number": 15,
+      "title": "Profili, requisiti e prove della dirigenza sanitaria",
+      "indexPage": 7,
+      "printedPage": 313,
+      "actualPage": 313,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md"
+    },
+    {
+      "number": 16,
+      "title": "Programmazione sanitaria e organizzazione dei servizi",
+      "indexPage": 7,
+      "printedPage": 329,
+      "actualPage": 329,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md"
+    },
+    {
+      "number": 17,
+      "title": "Linee guida, appropriatezza e decisioni cliniche",
+      "indexPage": 7,
+      "printedPage": 336,
+      "actualPage": 336,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md"
+    },
+    {
+      "number": 18,
+      "title": "Governo clinico, HTA, qualità, accreditamento e rischio",
+      "indexPage": 7,
+      "printedPage": 340,
+      "actualPage": 340,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md"
+    },
+    {
+      "number": 19,
+      "title": "Epidemiologia e sanità pubblica per la dirigenza",
+      "indexPage": 7,
+      "printedPage": 348,
+      "actualPage": 348,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md"
+    },
+    {
+      "number": 20,
+      "title": "Dirigenza medica: discipline e casi",
+      "indexPage": 7,
+      "printedPage": 359,
+      "actualPage": 359,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md"
+    },
+    {
+      "number": 21,
+      "title": "Dirigenza sanitaria non medica: discipline e casi",
+      "indexPage": 7,
+      "printedPage": 366,
+      "actualPage": 366,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md"
+    },
+    {
+      "number": 22,
+      "title": "TSLB e TSRM: profili, requisiti, prove e responsabilità",
+      "indexPage": 7,
+      "printedPage": 379,
+      "actualPage": 379,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md"
+    },
+    {
+      "number": 23,
+      "title": "TSLB: processo di laboratorio, qualità e biosicurezza",
+      "indexPage": 7,
+      "printedPage": 393,
+      "actualPage": 393,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md"
+    },
+    {
+      "number": 24,
+      "title": "TSRM: imaging, dosimetria e radioprotezione",
+      "indexPage": 7,
+      "printedPage": 414,
+      "actualPage": 414,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md"
+    },
+    {
+      "number": 25,
+      "title": "Tecnologie, dispositivi, apparecchiature e rischio tecnologico",
+      "indexPage": 7,
+      "printedPage": 437,
+      "actualPage": 437,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md"
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "name": "AAAAAA+Arial-BoldMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "BAAAAA+Garamond",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+Arial-Black",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "EAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "FAAAAA+TimesNewRomanPSMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "",
+      "type": "Type3",
+      "embedded": true
+    }
+  ],
+  "allFontsEmbedded": true,
+  "overflowPages": [],
+  "internalLeaks": [],
+  "replacementGlyphs": 0,
+  "missingImages": 0,
+  "indexMinimumPt": 9.500025,
+  "limits": [
+    "Verifica tecnica locale; non equivale a revisione visiva o certificazione normativa.",
+    "Nessuna prova fisica o KDP Previewer eseguita."
+  ]
+}

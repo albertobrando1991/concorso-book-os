@@ -1,0 +1,34 @@
+{
+  "verifiedAt": "2026-10-03T13:40:51.220591+00:00",
+  "records": 582,
+  "verified": 577,
+  "openOrPartial": [
+    {
+      "id": "EXP-02",
+      "status": "parzialmente-applicato"
+    },
+    {
+      "id": "V01-50",
+      "status": "parzialmente-applicato"
+    },
+    {
+      "id": "V01-51",
+      "status": "parzialmente-applicato"
+    },
+    {
+      "id": "P12-04",
+      "status": "parzialmente-applicato"
+    },
+    {
+      "id": "P12-07",
+      "status": "da-applicare"
+    }
+  ],
+  "csvAligned": true,
+  "evidenceHashMismatches": [],
+  "packageFiles": 2580,
+  "all12PackagesVerified": true,
+  "originalAuditUnchanged": true,
+  "originalApplicationRegisterUnchanged": true,
+  "releaseApproved": false
+}

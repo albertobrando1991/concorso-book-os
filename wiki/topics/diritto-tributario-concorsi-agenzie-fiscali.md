@@ -37,3 +37,11 @@ Nel modulo M-FC02 il diritto tributario e' materia centrale ma va trattato in mo
 
 ## Stato revisione
 Pronto per struttura e prima scrittura. Review umana richiesta su norme vigenti, soglie, decorrenze e dettagli articolo-per-articolo.
+
+## Integrazione operativa del 3 ottobre 2026
+
+Le source notes [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]] e [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]] consolidano soglie e consumazione penale e imputazione delle sanzioni agli enti nel regime 2026. Applicazione: FC02/05a; esercizi numerici distinti da quantificazione della pena.
+
+## Rettifica didattica del 3 ottobre 2026
+
+FC02/05 integra metodi di accertamento, termine minimo di contraddittorio e limiti dell'autotutela; FC02/06 confronta criteri temporali reddituali e dichiarazione entro/oltre 90 giorni. Delta consolidati nelle rispettive source notes datati 3 ottobre. Il rinvio a testi vigenti non sostituisce la regola necessaria alla soluzione del caso.

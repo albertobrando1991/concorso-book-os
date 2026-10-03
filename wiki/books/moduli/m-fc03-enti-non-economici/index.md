@@ -7,6 +7,7 @@ domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","funzioni-centrali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: [
+  "sources/epne-previdenza-assicurazione-rettifiche-2026-10-03.md",
   "sources/metodo-bando-progetto-editoriale.md",
   "sources/struttura-madre-il-metodo-bando.md",
   "sources/m-fc03-dossier-redazionale-enti-pubblici-non-economici.md",
@@ -16,7 +17,7 @@ source_refs: [
 ]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.84
-updated_at: 2026-08-22T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -45,9 +46,9 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 ## Perimetro
 - Famiglia: Funzioni Centrali
 - Codice modulo: M-FC03
-- Copertura: INPS, INAIL, ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CONI, CRI e altri EPNE compatibili con profili amministrativi, giuridici, economici, contabili, servizi e vigilanza non tecnica.
+- Copertura: INPS e INAIL per i profili amministrativi, giuridici, economici, contabili e di servizio; orientamento alle funzioni di ACI, ENAC e CONI. ISTAT, ASI ed ENEA conservano il comparto Istruzione e Ricerca anche per i profili amministrativi; CRI è un’associazione privata dal 2016. Le schede comparative non mutano questi confini. La vigilanza ispettiva e il servizio sociale richiedono le integrazioni specialistiche dichiarate nelle appendici.
 - Fase roadmap: 1
-- Stato: testo revisionato e pronto per il text freeze.
+- Stato: testo congelato il 3 ottobre 2026; controlli del PDF e della produzione ancora distinti.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -95,4 +96,4 @@ Non promette copertura totale di ogni bando né aggiornamento normativo automati
 - Carte dei servizi, regolamenti di accesso, PIAO e bilanci restano dati mobili da verificare alla data della procedura.
 
 ## Prossimo passo
-Text freeze, composizione del volume e preflight dei formati di pubblicazione. I dati instabili su bandi, scadenze, prove e allegati si verificano sempre sulla pagina ufficiale della procedura.
+Testo congelato il 3 ottobre 2026; seguono composizione del volume e preflight dei formati di pubblicazione. I dati instabili su bandi, scadenze, prove e allegati si verificano sempre sulla pagina ufficiale della procedura.

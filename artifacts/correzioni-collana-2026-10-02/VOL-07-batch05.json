@@ -1,0 +1,28 @@
+{
+  "V07-25": {
+    "change": "Esposte fasi e termini L689, prescrizione D758 e parte VI-bis ambientale con differenze, condizioni e oneri vigenti.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md"
+    ],
+    "evidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-26": {
+    "change": "Integrati AIA/AUA, DVR e ruoli, HACCP/rintracciabilità, controperizia/controversia e verbale compilato originale.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md"
+    ],
+    "evidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-27": {
+    "change": "Aggiunti cinque casi completi specifici per infermiere, OSS, ostetrica, fisioterapista e TPALL, con obiettivi, decisioni e verifica.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md"
+    ],
+    "evidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti.",
+    "status": "applicato"
+  }
+}

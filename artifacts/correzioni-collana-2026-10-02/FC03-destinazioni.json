@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Ricerca, anche personale amministrativo",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+    "section": "Obiettivo didattico",
+    "exists": true
+  },
+  {
+    "label": "Sicurezza informatica",
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+    "section": "Obiettivo e confine con il volume base",
+    "exists": true
+  },
+  {
+    "label": "Strumenti di acquisto specialistici",
+    "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+    "section": "Obiettivo del capitolo",
+    "exists": true
+  },
+  {
+    "label": "Fisco, dogane e riscossione",
+    "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+    "section": "Obiettivo del capitolo",
+    "exists": true
+  },
+  {
+    "label": "Autorità indipendenti",
+    "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+    "section": "Obiettivo operativo del capitolo",
+    "exists": true
+  }
+]

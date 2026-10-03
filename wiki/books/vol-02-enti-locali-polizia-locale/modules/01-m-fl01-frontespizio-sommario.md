@@ -9,7 +9,7 @@ entities: ["Comune", "Metodo BANDO"]
 source_refs: ["sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/servizi-demografici-elettorali-anagrafe-stato-civile.md", "sources/servizi-sociali-educativi-enti-locali.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["vol-02-enti-locali-polizia-locale", "m-fl01-comuni-unioni"]
 confidence: 0.88
-updated_at: 2026-07-17T16:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-09T18:30:00+02:00
 review_required: true
 canonical: true
@@ -27,7 +27,7 @@ draft_stage: professional-draft-started
 
 ### Sommario del modulo
 
-| Cap. | Capitolo | Output di studio |
+| Cap. volume | Capitolo | Output di studio |
 |---:|---|---|
 | 4 | [[books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune|TUEL operativo: autonomia, organi e funzioni del Comune]] | Schema organi-competenze-atti. |
 | 5 | [[books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale|Statuto, regolamenti e autonomia normativa locale]] | Caso su fonte interna e regola locale. |

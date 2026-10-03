@@ -24,3 +24,8 @@ chapter_refs: []
 La classificazione di ogni contenuto segue una sola sequenza: comune in `VOL-01`, specialistico nella famiglia corretta, sottoprofilo in appendice o verticale necessario, altra famiglia tramite rinvio. La nota canonica e' [[sources/logica-volumi-copertura-concorsobook-v4|Logica dei volumi e della copertura ConcorsoBook v4]].
 
 Per il catalogo effettivo, le eccezioni di riconciliazione e lo stato dei 25 moduli fare sempre riferimento a [[books/moduli/architettura-moduli-specialistici|Architettura moduli specialistici Metodo BANDO]].
+
+
+## Calendari e perimetro del 3 ottobre 2026
+
+[[sources/vol-01-esempi-logica-inglese-metodo-2026-10-02]] documenta i giorni residui dei piani, le quattro dimensioni della classificazione delle materie e la selezione di 13 mappe sulle 15 famiglie. Corrette promesse non documentate; controllo PDF ancora aperto.

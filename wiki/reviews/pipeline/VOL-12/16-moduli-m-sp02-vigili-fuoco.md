@@ -1,41 +1,20 @@
----
-id: vol-12-step16-m-sp02-text-freeze
-type: review
-title: "Manifest di text freeze · M-SP02"
-status: completed
-module: M-SP02
-updated_at: 2026-08-14T18:40:00+02:00
-review_required: false
-canonical: true
-issue_type: text_freeze
-tags: [vol-12, m-sp02, text-freeze]
----
+# M-SP02 — Manifest testuale del 3 ottobre 2026
 
-# Manifest di text freeze — M-SP02 Vigili del fuoco
+Verifica manuale, esito CLI registrato separatamente.
 
-**Text freeze rigenerato il 14 agosto 2026 dopo la revisione finale di volume.** Gli hash recepiscono l'allineamento dei metadati editoriali e degli indici; l'unica rifinitura nel corpo è una formula stilistica di M-SP02 senza variazione informativa. Gli audit dei quattro moduli e il layout sono stati rieseguiti con esito verde.
+- 8 capitoli, 40 nuclei almeno 600 parole, 48 quiz commentati.
+- Calcoli, casi, chiavi, rinvii e fonti dei delta riesaminati.
+- Step 15 passato con zero blocker e warning; indice e matrice riconciliati.
 
-Il gate `text-freeze` non è implementato: questo manifest aggiornato conserva l'evidenza di chiusura.
+| File | Stato | Data | SHA256 |
+| --- | --- | --- | --- |
+| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md | text-freeze | 2026-10-03 | dd8fa22d6862813fb9a16979fdb4f123ce3c3ca1679af3d85c83b9159bab5529 |
+| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md | text-freeze | 2026-10-03 | da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c |
+| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md | text-freeze | 2026-10-03 | c5157b01ebe99339b4ac84224d70b60dc05ab44edcdf4a6f835ad5e9595323b1 |
+| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md | text-freeze | 2026-10-03 | 5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821 |
+| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md | text-freeze | 2026-10-03 | abd877e7316bc28d67a0724af7cf126aa0285e032805356caa4780b4be6e827a |
+| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md | text-freeze | 2026-10-03 | e7cf9d1af54dd1732ba03ff11a9e31be652b16ae4e95bea82a027f8a371a3d21 |
+| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md | text-freeze | 2026-10-03 | 33aeea6cbc946a8f4e9caf15dda3ae81a640640c7991abd0725dbe9d68d6afde |
+| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md | text-freeze | 2026-10-03 | c60d59483769f97d7cb4dce54b4b9b19bf021198f4357648ccc870fdf814d9c8 |
 
-## Manifest SHA-256
-
-| File | SHA-256 |
-| --- | --- |
-| wiki/books/moduli/m-sp02-vigili-fuoco/index.md | e1148dc280954b262cc2e3b3b82506d4e940c85b6756be65654440ab3e809fb0 |
-| wiki/books/moduli/m-sp02-vigili-fuoco/planning/00-piano-editoriale.md | 2ddd2c4f22257ef3ef63efeea6ab61faf1cc3d0d8d39ee5ebbfc41fa9013c8f6 |
-| wiki/books/moduli/m-sp02-vigili-fuoco/planning/02-matrice-copertura-didattica.md | d39d5e4e488fd05236b4f6aab5621076873d7bed31bcbf3ff2c5a67f186e226b |
-| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md | db9fba2a0014e37c9a7dc95815564fe30a4454e73885889e59ff80372e886f75 |
-| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md | 08716dce23085e39a965c95f6419fda6e4261a8c1ae8dbf7dfac0f5a57533e69 |
-| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md | 5141e3d94e47f017b52ad68bc14cdf01f67f57c4a90a263927ed91cf2142c674 |
-| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md | abe36479b45862692e662d16f806e5d48cf024b6da5b297b1fb61e6a17f3854d |
-| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md | f0e7adc07ae46dfa96762ea1a52d3129e7b43c63281010851a94e99cc2e968dc |
-| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md | 7cfb7d96b3493ebde24a5bbc56ff9013338ed252c4b1b3759e9a93c110739d3d |
-| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md | 1c3e806ab84503fc4294652740658871d66f82006a4107fa9694da68f4462b00 |
-| wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md | 2bd5d4353c9da627c029c676b21f57b96e4a81936e9e1b9ef3bf9535829f7b8f |
-| wiki/reviews/pipeline/VOL-12/13-moduli-m-sp02-vigili-fuoco.md | 844917e37d3518283b4246a4f8b64408acf3572d751719b68f8a50e4b289cdf5 |
-| wiki/reviews/pipeline/VOL-12/14-moduli-m-sp02-vigili-fuoco.md | 5e3be82ab2890315d632609072cd4d866def83b16d650c51884af5c102eeb03b |
-| wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md | 71684d8a3fe47e6f94499dd355c1d0ff1528d23e96a8a896ecf6a2d068f11343 |
-
-## Regola successiva al freeze
-
-Ogni modifica sostanziale a teoria, fonti, casi, quiz, struttura o perimetro riapre i gate 10-15 e richiede un nuovo manifest.
+Nuovo PDF e altri moduli del volume ancora da completare. Fonti normative verificate selettivamente; avviso 7 ottobre futuro al controllo.

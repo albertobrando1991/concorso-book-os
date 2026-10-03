@@ -1,67 +1,91 @@
----
-id: review-vol-06-m-ir04-specialist-audit
-type: editorial_review
-title: "Audit specialistico conclusivo - M-IR04 Cultura e beni culturali"
-status: completed
-source_refs: ["sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24", "sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026"]
-book_refs: ["m-ir04-cultura-beni-culturali"]
-updated_at: 2026-08-23
-created_at: 2026-08-23
-review_required: false
-canonical: false
-tags: ["pipeline-step-15", "specialist-audit", "module-code-m-ir04"]
-issue_type: specialist_audit
-severity: none_open
-affected_pages: ["books/moduli/m-ir04-cultura-beni-culturali/index.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters"]
----
-
-# Report editoriale - Audit specialistico M-IR04 Cultura e beni culturali
+# M-IR04 — Audit specialistico del 3 ottobre 2026
 
 ## 1. Sintesi editoriale
-- Genere editoriale: modulo specialistico per concorsi pubblici.
-- Pubblico target: candidati dell'area cultura e beni culturali.
-- Perimetro di questa revisione: claim normativi, definizioni settoriali, casi, dati mobili, frontmatter e confini operativi dei tredici capitoli.
-- Stato generale in una frase: l'audit non rileva errori gravi o medi aperti, dati operativi non tracciati o dipendenze editoriali nel testo lettore.
 
-## 2. Punti applicati della checklist
-Verificati: D.Lgs. 42/2004 come quadro di riferimento; richiamo dell'articolo 9 della Costituzione; D.P.C.M. 15 marzo 2024, n. 57; D.M. 5 settembre 2024, n. 270; definizioni di tutela, valorizzazione, fruizione, paesaggio, archivio, biblioteca, catalogazione, restauro e archeologia preventiva; casi; assenza di soglie e procedure eseguibili; frontmatter; dati operativi; autonomia didattica.
+Riesaminati i rilievi testuali corretti; zero errori gravi o medi aperti nel perimetro descritto; tredici capitoli, 65 nuclei e 78 quiz disciplinari. Pubblicabilità non attestata prima del nuovo PDF.
+
+## 2. Checklist
+
+Copertura, autonomia, definizioni, categorie e termini normativi, competenze dei profili, dati e ipotesi, casi risolti, quiz e spiegazioni, rinvii, stile e superficie. Impaginazione separatamente da verificare.
 
 ## 3. Tabella errori
+
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-|----|-----------|-----------|---------|-------------|----------------------|-------|
-| A01 | Capp. 01-02, riferimenti all'organizzazione MiC | Claim normativo | Media | D.P.C.M. 15 marzo 2024, n. 57 e D.M. 5 settembre 2024, n. 270 sono richiamati come atti organizzativi, senza attribuzioni rigide non verificate. | Confermati contro i portali istituzionali MiC; mantenuta la formulazione prudente sulle competenze puntuali. | Risolto |
-| A02 | Capp. 03-05, 09 e 12, Codice dei beni culturali e del paesaggio | Claim normativo | Media | Il D.Lgs. 22 gennaio 2004, n. 42 è il quadro centrale per patrimonio, tutela, valorizzazione, paesaggio e circolazione. | Confermato sul testo vigente di Normattiva; nessun termine, soglia o articolo non necessario è stato aggiunto. | Risolto |
-| A03 | Tutti i capitoli, frontmatter dati_operativi | Dato operativo | Media | Ogni capitolo dichiara `dati_operativi: []`; nessun box operativo è presente. | Nessuna correzione necessaria. | Risolto |
-| A04 | Capp. 04-13, testo lettore | Separazione editoriale | Media | Le note interne precedentemente rilevate sono state rimosse dai capitoli. | Verificata l'assenza di note di review, report o workflow nel corpo destinato al lettore. | Risolto |
-| A05 | Tutti i capitoli, frontmatter | Stato di revisione | Lieve | I capitoli risultavano ancora marcati `review_required: true` dopo l'audit. | Aggiornato a `review_required: false` con audit concluso. | Risolto |
+| --- | --- | --- | --- | --- | --- | --- |
+| V06-25 | 02 | Testo e didattica | Media | Organigramma e competenze | Integrazione e raccordo applicati | Corretto |
+| V06-26 | 03–05 | Testo e didattica | Media | Categorie, procedimenti e termini | Integrazione e raccordo applicati | Corretto |
+| V06-27 | 03–04 | Testo e didattica | Media | Usi incompatibili vietati | Integrazione e raccordo applicati | Corretto |
+| V06-28 | 06 | Testo e didattica | Media | Catalogazione come metadati descrittivi | Integrazione e raccordo applicati | Corretto |
+| V06-29 | 07 | Testo e didattica | Media | ISAD, ISAAR, scarto, consultazione e diplomatica | Integrazione e raccordo applicati | Corretto |
+| V06-30 | 09–11 | Testo e didattica | Media | Stratigrafia, opera concreta e art. 29 | Integrazione e raccordo applicati | Corretto |
+| V06-31 | 12 | Testo e didattica | Media | Prova tecnica distinta da amministrativa | Integrazione e raccordo applicati | Corretto |
+| V06-32 | 13 | Testo e didattica | Media | Obblighi lavoratore, addetti e piano locale | Integrazione e raccordo applicati | Corretto |
+| V06-11 quota IR04 | 06–08 | Testo e didattica | Media | Standard, catalogazione e preservazione | Integrazione e raccordo applicati | Corretto |
+| V06-33/35/36 quota IR04 | Tutti | Testo e didattica | Media | Superficie, matrice e 78 quiz disciplinari | Integrazione e raccordo applicati | Corretto |
 
 ## 4. Osservazioni per capitolo
-### Capitoli 01-03
-- Fonti organizzative e quadro del Codice riferiti in modo tracciabile e proporzionato alla prova concorsuale.
 
-### Capitoli 04-05
-- Tutela, valorizzazione, fruizione e procedimenti sono trattati senza termini procedurali o articoli superflui; la duplicazione del capitolo 04 resta risolta.
+01: Decoder del profilo e prodotto della prova; quattro percorsi distinti.
 
-### Capitoli 06-13
-- Definizioni tecniche e casi sono formulati in chiave amministrativa e didattica; non emergono istruzioni fisiche, soglie non tracciate o dati operativi.
+02: Quattro dipartimenti e DG; SABAP, soprintendenze archivistiche, Archivi di Stato e autonomia.
+
+03: Art. 10 per categorie; presupposti e tutela interinale, verifica/dichiarazione, divieti.
+
+04: Compatibilità della valorizzazione e distinzione fra divieto e autorizzazione.
+
+05: Art. 21 aggiornato alla legge 40/2026; termini 30/60/180, alienazione e soglie 50.000/13.500.
+
+06: Metadati descrittivi, standard, master/derivati e doppio controllo integrità/corrispondenza.
+
+07: Diplomatica essenziale; ISAD/ISAAR, scheda multilivello, scarto, versamento e consultabilità.
+
+08: REICAT/ISBD/UNIMARC/SBNMARC; authority, soggetto, classificazione/collocazione, ILL/DD.
+
+09: US positive/negative e sequenza 10→12→13; ritrovamento entro 24 ore e custodia.
+
+10: Scheda Botticelli con cronologia, tecnica e incertezza; lettura e correzione guidata.
+
+11: Art. 29 e caso prevenzione/manutenzione/restauro; competenze professionali.
+
+12: Prova amministrativa distinta da tecnica; doppia consegna e atti del cantiere.
+
+13: Art. 20 D.Lgs. 81: lavoratore/addetto, piano locale e caso odore di bruciato.
 
 ## 5. Coerenza globale
-- Terminologia: coerente e graduata dal quadro generale alle applicazioni specialistiche.
-- Struttura vs indice: coerente con i tredici capitoli e con il modulo complementare al VOL-01.
-- Promesse dell'introduzione mantenute: sì; il modulo non sostituisce il metodo comune e non promette copertura automatica di ogni bando.
 
-## 6. Contenuto da verificare
-Nessun contenuto aperto: i riferimenti mobili sono formulati con prudenza e ancorati alle fonti istituzionali consolidate; l'audit ha verificato gli atti richiamati senza introdurre dettagli non necessari.
+Cinque nuclei per capitolo; verifica unica con sei quiz commentati, casi e richiami alla fonte leggibili. Originali archiviati; rimosse equivalenze false, promesse di esenzione dalla prova tecnica e appiattimenti sulle autorizzazioni. Rinvio ai livelli di progettazione con heading esistente.
 
-## 7. Suggerimenti facoltativi (non errori)
-Nessuno.
+## 6. Fonti
 
-## 8. Priorità degli interventi
-1. Procedere al text freeze del modulo.
-2. Includere il modulo nei controlli finali di volume.
+Letti 19 articoli del Codice e art. 20 D.Lgs. 81, organigramma e competenze DGA; ISAD nelle pagine dichiarate, ISAAR e linee guida digitalizzazione; standard bibliografici già consolidati, scheda Uffizi e sezioni universitarie sulla stratigrafia. L'art. 21 e le soglie dell'art. 65 recepiscono le modifiche del 2026. La nota documenta limiti e acquisizioni.
 
-## 9. Giudizio di pubblicabilità
-Pubblicabile con correzioni minori: l'audit specialistico è concluso, senza errori gravi o medi aperti.
+## 7. Suggerimenti facoltativi
 
-## 10. Limiti di questa revisione
-L'audit verifica il testo e le fonti istituzionali citate; non sostituisce l'ispezione della resa grafica in PDF, prevista nel preflight del volume.
+Nessun ampliamento indiscriminato a ogni tecnica professionale. I casi specialistici coprono il perimetro dichiarato del modulo.
+
+## 8. Priorità
+
+Audit specialistico concluso; manifest testuale e nuovo PDF, con controllo dell'ordine dei capitoli e delle bibliografie.
+
+## 9. Pubblicabilità
+
+Non attestata: testo corretto, ma nuova produzione PDF e verifiche di volume necessarie.
+
+## 10. Limiti
+
+Audit integrale della baseline già svolto; ora controllo dei delta e raccordi, non nuova lettura integrale dichiarata delle parti invariate. Normativa e standard verificati selettivamente, non certificati integralmente. Nessun record MARC eseguibile o progetto tecnico professionale completo simulato. Le definizioni introduttive di diplomatica non sono un corso specialistico completo.
+
+
+### Riscontri puntuali dell'audit
+
+- V06-25: corrispondenza dei quattro dipartimenti e delle DG con il portale istituzionale; competenze archivistiche distinte dalla tutela SABAP. I quiz 2/1 e 2/6 distinguono DiT e DiAC.
+- V06-26/27: categorie e presupposti degli artt. 10/12/13/14; nessuna soglia settantennale applicata agli archivi pubblici; uso incompatibile vietato, non semplicemente autorizzabile. Controllati avvio, osservazioni e tutela interinale.
+- Art. 21: eliminata la generalizzazione che assimila spostamento e autorizzazione; recepita l'abrogazione 2026, denuncia preventiva e comunicazione specifica degli archivi correnti. Prestito e opere restano procedimenti distinti.
+- Circolazione: denuncia 30 giorni, prelazione ordinaria 60 e speciale 180; categorie art. 54/55 e tutela dopo alienazione; soglia generale 50.000 e libri 13.500, senza applicarle ai beni già vietati all'uscita. ALC cinque anni e termine quaranta giorni; nessun caso ambiguo esattamente sulla soglia.
+- V06-11/28: catalogazione compresa nei metadati descrittivi; master/derivati distinti; checksum prova confronto dei bit, non corretta attribuzione. Collaudo con due associazioni errate e un file alterato correttamente negativo.
+- V06-29: gerarchia ISAD e produttore ISAAR; scarto/versamento distinti; caso 1990/2026 pari a 36 anni, inferiore al limite di 70 per salute. Consultazione anticipata non equivale a pubblicazione. Diplomatia nel solo perimetro introduttivo e con limite di fonte dichiarato.
+- V06-30: sequenza stratigrafica 10→12→13 coerente; denuncia del rinvenimento 24 ore e custodia distinta da manipolazione. Scheda Botticelli confrontata con Uffizi, committenza mantenuta probabile. Art. 29 con riserva professionale circoscritta a mobili e superfici decorate.
+- V06-31/32: nessuna esclusione generale della progettazione dalle prove per architetti; lavoratore e addetto distinti, piano locale senza manovre universali. Caso di pericolo conforme all'art. 20, senza passività assoluta.
+- V06-36: 78 chiavi controllate contro opzioni e spiegazioni; nessun commento rimappa lettere di vecchi distrattori. Sei quesiti per capitolo. Dati operativi: nessun box rilevato dal CLI; numeri dei casi dichiarati didattici e termini normativi riferiti all'articolo.
+
+Tredici capitoli e 65 nuclei sopra la soglia di 600 parole; il conteggio non è usato come prova sufficiente della copertura. Controllo didattico e stilistico dei delta concluso. Nuovo PDF da verificare separatamente.

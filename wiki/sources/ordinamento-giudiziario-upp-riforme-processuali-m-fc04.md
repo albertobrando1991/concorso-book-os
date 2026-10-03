@@ -28,7 +28,7 @@ Questa nota consolida le fonti per i capitoli 1-7 del VOL-04. Il candidato deve 
 ## Fonti principali
 - R.D. 30 gennaio 1941, n. 12, ordinamento giudiziario.
 - D.Lgs. 10 ottobre 2022, n. 151, Ufficio per il processo.
-- D.L. 12 giugno 2026, n. 100, non convertito entro la scadenza dell'11 agosto 2026 risultante dagli atti parlamentari consultati.
+- D.L. 12 giugno 2026, n. 100, convertito senza modificazioni dalla L. 7 agosto 2026, n. 145.
 - D.Lgs. 10 ottobre 2022, n. 149, riforma del processo civile.
 - D.Lgs. 10 ottobre 2022, n. 150, riforma del processo penale e giustizia riparativa.
 - D.Lgs. 31 ottobre 2024, n. 164, correttivo civile.
@@ -52,7 +52,7 @@ Questa nota consolida le fonti per i capitoli 1-7 del VOL-04. Il candidato deve 
 ## Note di review
 Evitare taglio da manuale universitario. Ogni nozione processuale deve essere collegata a un output concorsuale: risposta a quiz, mini-caso, ordine di attivita, scheda fascicolo, bozza o controllo procedimentale.
 
-Aggiornamento web ufficiale 2026-08-18: la scheda del Senato per l'A.S. 1939 indica la scadenza dell'11 agosto 2026 e l'iter ancora in commissione nell'ultimo stato consultabile. Non risulta pubblicata entro il termine una legge di conversione. Ai sensi dell'art. 77 Cost., il decreto non convertito perde efficacia sin dall'inizio. Nei capitoli UPP non presentarlo come fonte vigente.
+Rettifica 2026-10-03: il DL100/2026 è convertito dalla L.145/2026, GU8agosto, in vigore9agosto. La precedente conclusione di decadenza era errata; backup conservato. Prevale [[sources/vol-04-organizzazione-upp-verifica-2026-10-03]], anche per DL144art7 e UPP coordinato.
 
 Aggiornamento web ufficiale 2026-07-18: per il processo civile operativo usare il testo vigente del D.Lgs. 10 ottobre 2022, n. 149 su Normattiva, che indica aggiornamenti successivi fino all'atto pubblicato il 12 giugno 2026 nelle viste vigenti, e il D.Lgs. 31 ottobre 2024, n. 164, pubblicato in Gazzetta Ufficiale n. 264 dell'11 novembre 2024 con entrata in vigore il 26 novembre 2024. Nei capitoli sul processo civile non inserire termini numerici, formule o decorrenze senza verifica articolo per articolo sul testo vigente.
 

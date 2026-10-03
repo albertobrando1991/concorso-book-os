@@ -8,10 +8,10 @@ topics: ["carriere-speciali", "vigili del fuoco", "bandi", "ordinamento", "prove
 entities: ["Corpo nazionale dei vigili del fuoco", "Ministero dell'Interno", "Dipartimento dei vigili del fuoco del soccorso pubblico e della difesa civile", "inPA"]
 book_refs: ["m-sp02-vigili-fuoco", "vol-12-carriere-speciali-premium"]
 cut_off_date: 2026-08-10
-checked_at: 2026-08-13
+checked_at: 2026-10-03
 confidence: 0.96
 authority_level: alta
-updated_at: 2026-08-13T00:00:00+02:00
+updated_at: 2026-10-03
 review_required: true
 canonical: true
 tags: ["source", "vol-12", "m-sp02", "bandi", "step-05", "step-06"]
@@ -131,7 +131,7 @@ I titoli valutabili, per un massimo di **5 punti** non cumulabili fra loro, sono
 - **categoria B**: B, BE;
 - **categoria C**: C1, C, C1E, CE, **CQC Merci**, D1, D, D1E, DE, **CQC Persone**.
 
-> **L'unica leva interamente sotto controllo del candidato.** Le prove motorio-attitudinali valgono 90 punti e dipendono dal corpo; i titoli valgono 5 punti e dipendono da una scelta amministrativa fatta con mesi di anticipo. In un concorso dove si entra in graduatoria per somma, cinque punti conseguibili conseguendo una patente superiore sono un vantaggio che quasi nessuno pianifica.
+> **Una leva di pianificazione soggetta a condizioni e tempi.** Le prove motorio-attitudinali valgono 90 punti e dipendono dal corpo; i titoli valgono 5 punti e dipendono da una scelta amministrativa fatta con mesi di anticipo. In un concorso dove si entra in graduatoria per somma, cinque punti conseguibili conseguendo una patente superiore sono un vantaggio che quasi nessuno pianifica.
 >
 > Va scritto come azione, non come informazione: è il tipo di contenuto operativo che giustifica il posizionamento del volume.
 
@@ -239,9 +239,9 @@ L'accertamento dei parametri fisici avviene con le modalità della **direttiva t
 | **vigile del fuoco** | ≥ 14/10 complessivi come somma dei due occhi, non meno di 6/10 nell'occhio peggiore | **NON ammessa** |
 | **ispettore antincendi** e **vice direttore** | ≥ 14/10 complessivi, non meno di 6/10 nell'occhio peggiore | **ammessa** |
 
-> **È il requisito più selettivo e meno noto dell'intero modulo.** Un candidato che non raggiunge 14/10 naturali è escluso dal ruolo di vigile del fuoco in modo assoluto, perché la correzione non è ammessa — ma **lo stesso candidato è ammissibile al binario ispettivo o direttivo**, dove la correzione è consentita.
+> Il valore del visus naturale inferiore al requisito non consente una prognosi permanente né dimostra idoneità ad altri ruoli. La correzione con lenti ammessa per ispettore antincendi e vice direttore ha limiti specifici; ulteriori parametri oculari, uditivi e condizioni restano da accertare dalla commissione.
 >
-> Non è un dettaglio medico: è una **decisione di binario che si prende prima di studiare**, e che il candidato può verificare da solo in una visita oculistica. Va collocata nel capitolo di scelta del binario, con l'invito esplicito a verificare il proprio visus **prima** di impostare la preparazione.
+> L’accertamento preliminare con un professionista orienta la conoscenza della propria situazione; non sostituisce il giudizio medico-legale concorsuale.
 >
 > Il rinvio dell'art. 1 lett. b) al d.P.R. 207/2015 conferma inoltre la catena già ricostruita: i parametri fisici del Corpo sono gli stessi delle Forze armate e delle Forze di polizia. Vedi [[sources/parametri-fisici-concorsi-dpr-207-2015-vol-12]].
 
@@ -281,3 +281,51 @@ Il bando ispettivo non sostituisce il bando per vice direttore ordinario, ora ac
 - [x] d.lgs. 139/2006 acquisito e letto per funzioni, soccorso pubblico, difesa civile e protezione civile;
 - [x] d.m. 49/2022 e d.m. 19 giugno 2019 acquisiti e letti;
 - [ ] avviso sulle modalità della preselettiva del concorso a 400 vigili: **non ancora pubblicato alla data del 2026-08-13**. Il bando fissa al 15 settembre 2026 la comunicazione delle modalità; numero di quesiti, durata, penalità e disponibilità di una banca dati restano quindi incognite dichiarate, non blocker per la fase C.
+
+## Rettifica e consolidamento del 3 ottobre 2026
+
+Riletti bando 400, artt. 1–2 (PDF pp. 4–6), artt. 7–8 nelle evidenze già consolidate; Allegato A, pagine 1–6 e 8–13 nei passaggi pertinenti; D.M. 166/2019 artt. 1–2, PDF pp. 2–3. Il bando è un caso datato, non la regola di qualunque futuro reclutamento.
+
+- Riserve nominali 180/140/60 su 400, residuo nominale 20. Il residuo non è un minimo garantito ai soli candidati senza riserve: anche i riservatari concorrono secondo merito. I posti riservati non coperti sono devoluti agli altri idonei. Esempio puramente aritmetico: 10 posti non coperti nella quota 140 producono 30 posti non vincolati a quella riserva, da attribuire secondo graduatoria; nessuna previsione di probabilità individuale.
+- Requisiti: non aver compiuto 26 anni alla scadenza, elevazione per servizio militare effettivo fino a tre anni; volontari iscritti da almeno un anno limite di 37. Questa agevolazione non equivale alla riserva del 35%, che richiede tre anni e 120 giorni. Le condizioni possono maturare durante il periodo di domanda, entro il termine pertinente. Eccezione diploma entro preselettiva; idoneità psico-fisica al momento dell'accertamento e sino all'immissione. Condotta generale e singole cause ostative sono distinte; la condanna irrevocabile per delitto non colposo non esaurisce il controllo.
+- Visus: nessuna idoneità complessiva si deduce da 12/10 naturali; la somma non informa sul valore dell'occhio peggiore, sul campo visivo, visione binoculare e motilità. Per ruoli operativi interessati, correzione ammessa nei limiti dell'art. 1 e non per il vigile. La valutazione attuale non è una prognosi permanente. Udito: oltre alla media di 25 dB sulle frequenze 500–3000, esiste il limite di 45 dB sulle frequenze 4000–8000 e divieto di protesi acustiche; evitare presentazione parziale come test d'idoneità completo.
+- Prova 1: media aritmetica dei tre moduli, ciascuno almeno 21. Trave: soli esiti utili 30/25/21 nei tentativi ammessi e nel tempo complessivo. Non assegnare 28 alla trave. Modulo C: regolazione con braccia in alto e dita distese/unite; successiva posizione di partenza con braccia lungo i fianchi.
+- L'ordine delle prove è stabilito dalla commissione e può variare. Il cronometraggio elettronico non elimina rimedi o controlli; in caso di guasti è previsto il tempo manuale più favorevole nelle condizioni dell'allegato. La regola sull'infortunio riguarda l'istanza specifica di riesame, non cancella ogni tutela giuridica.
+- I rapporti fra valori minimi/massimi non misurano il rendimento individuale dell'allenamento. Prima validità e soglie, poi stabilità, tempi disponibili e miglioramento realistico. Un punto aggiunto a un modulo della Prova 1 pesa un terzo nella sua media, mentre un punto di una prova monomodulo pesa uno. Non ricavare punteggi intermedi da interpolazione non prevista nella tabella acquisita.
+- Patenti: massimo 5 e non cumulabilità; possesso e dichiarazione entro domanda, valutazione dopo il superamento delle prove. Conseguire una patente non è esito certo né una scelta che precede sempre la sicurezza o l'idoneità.
+
+## Diario VVF del 28 settembre 2026 — acquisizione completa
+
+https://portale.inpa.gov.it/api/media/f199127d-d327-4730-8f20-fb0992b61209 , allegato alla scheda inPA del concorso 400, pubblicato il 28 settembre. Letto integralmente, tre pagine. Prova 14–15 ottobre all'Ergife di Roma con turni per cognome; tablet dell'organizzazione associato al candidato, lettera di partecipazione e documento, check-in/check-out e conferma dell'invio. Le istruzioni d'uso sono fornite in sede; il diario non permette di inventare interfaccia, numero dei quesiti o penalità. Annuncia ulteriori comunicazioni il 7 ottobre, data futura rispetto al presente controllo. Nel libro le date sono esempio del bando campione, non promessa di calendario stabile.
+
+Il bando elenca quattro tipologie e ne prevede raggruppamento/ordinamento, ma non va trasformato nell'affermazione che l'elenco testuale fissi necessariamente l'ordine dei blocchi nel tablet. Avviso corrente sostituisce l'ipotesi precedente di lettura ottica cartacea.
+
+Calcolo didattico, non punteggio ufficiale VVF: con corretto +G, errore −P e omissione O, E=pG−(1−p)P; conviene rispetto all'omissione se p>(P+O)/(G+P), per G+P positivo. Con +1/−0,1 e O=0, quattro opzioni equiprobabili danno 0,175; la sola penalità non rende negativo ogni tentativo casuale. Una penalità dell'omissione va inserita con O negativo.
+
+Raw `wiki/raw/correzioni-collana-2026-10-02/vvf-diario-20260928.pdf`, SHA256 `294e42bd5d3f8755f387477a2ea17e257cd16383aebba8ecd9d08e299696aa79`.
+
+Raw `wiki/raw/correzioni-collana-2026-10-02/dpr207-art3-current.html`, SHA256 `942e338a57d64c21fcf8d18e47fa8cb62110b2faf036b74cfaff07e5e5cef993`.
+
+
+## Riscontro documentale aggiuntivo del 3 ottobre 2026
+
+Bando 400 PDF pp. 11–14: art. 7 ammissione dieci volte i posti più pari merito; art. 8 certificato agonistico emesso non oltre 45 giorni prima della prova, soggetti abilitati espressamente elencati, soglia 21 per ciascun modulo e media. Allegato B letto integralmente (una pagina): B 1, BE 2, C1/D1 3, C/D 4, categorie estese e CQC 5; nessuna cumulabilità. La descrizione editoriale non prescrive esami clinici indistintamente e non promette il conseguimento di una patente.
+
+
+## Prevenzione incendi: funzione e procedimenti — 3 ottobre 2026
+
+Normattiva, testi correnti acquisiti e letti integralmente per gli articoli indicati:
+
+- D.Lgs. 139/2006, art. 13: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-08;139~art13!vig= . Funzione pubblica che previene insorgenza e limita conseguenze, per vita, persone, beni e ambiente; criteri uniformi e competenze concorrenti di altre amministrazioni preservate. Evitare equivalenza fra prevenzione e sola estinzione.
+- D.P.R. 151/2011, art. 3: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2011-08-01;151~art3!vig= . Attività soggette categorie B/C: valutazione progetti nuovi e modifiche con aggravio; integrazioni entro 30 giorni; pronuncia entro 60 dalla documentazione completa.
+- Art. 4 dello stesso decreto: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2011-08-01;151~art4!vig= . SCIA prima dell’esercizio per attività dell’allegato I; ricevuta dopo verifica formale, non collaudo materiale. A/B: controlli anche a campione entro 60 giorni; C: visite entro 60, CPI entro 15 dalla visita positiva. In carenza: divieto motivato e rimozione effetti, salvo conformazione possibile entro 45 giorni. Comma 6: modifiche rilevanti impongono nuovo avvio, fermo art. 3 per aggravio. Questi sono procedimenti distinti: non basta avere un progetto esaminato per omettere SCIA, né basta ricevuta per escludere controlli.
+
+La lezione è una mappa istituzionale e procedurale per il programma direttivo, non un progetto antincendio eseguibile né un manuale completo di tutte le regole tecniche. La scelta della regola tecnica, dei dati e delle soluzioni resta dipendente da attività, progetto e disciplina specifica.
+
+Raw `wiki/raw/correzioni-collana-2026-10-02/dl139-art13-current.html`, SHA256 `3901c77fb64812aa4a5c2a5944c0d3b2b4707325ba3bd5b7313fe77e0d9c3262`.
+
+Raw `wiki/raw/correzioni-collana-2026-10-02/dpr151-art3-current.html`, SHA256 `4ddbb8e5427f4bc2459b90d7847db8cfc23c7decf96060387e2c0d5fd281de78`.
+
+Raw `wiki/raw/correzioni-collana-2026-10-02/dpr151-art4-current.html`, SHA256 `c40023da3bc84e65e8c59d631572cd7a6e4086b4dc57924e12fd5eed3f473519`.
+
+Raccordo aggiornato: [[topics/m-sp02-vigili-fuoco-percorsi-prove]], [[entities/ministero-interno]], [[books/moduli/m-sp02-vigili-fuoco/index]]. Le rettifiche del 3 ottobre prevalgono sulle descrizioni storiche di acquisizione sopra riportate.

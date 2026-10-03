@@ -1,0 +1,1068 @@
+{
+  "volume": "VOL-06",
+  "status": "text-review-complete",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "sha256": "542963681518405f48a3f0884f2fe874b2b8ca694eb0a0e6e429c8da0407b4cc",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "sha256": "f73fe98289808a97e78e780db0d95ebde4e56e99a8a444339a81fe6dfa0a74ed",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-04",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "sha256": "383f9b6ebded5e383bfab2594aa8baaf5dcda1f83916b5c1b076df8be37a601e",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-04",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "sha256": "8b2a38841b3ed7d27d46af0f01253d6572a4fa1456e4396e2d693df06fdcf522",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-04",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "sha256": "f42ed38bf7dbc0b3779b75e0c798c730944393760846296d63dee5faa99a27b1",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-05",
+          "url": "https://www.aranagenzia.it/documento_pubblico/contratto-collettivo-nazionale-di-lavoro-del-personale-del-comparto-istruzione-e-ricerca-periodo-2019-2021/",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-05",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "sha256": "dfcbec21d5d47dcc2757a956b6018bcab4b29e80f82e0408c6b842cc9b03587d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-05",
+          "url": "https://www.aranagenzia.it/documento_pubblico/contratto-collettivo-nazionale-di-lavoro-del-personale-del-comparto-istruzione-e-ricerca-periodo-2019-2021/",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-05",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "sha256": "835b26dd35b2a795af5e31942f0eacb8fa3b4c755d82ce33ad5d4bcc523bec64",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-06",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "sha256": "2a2485be599bebb65e97b274ae89b80adc9b8d67b3e7a189c2d8c9496d6ebda8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-23",
+          "url": "https://sharepa.dfp.gov.it/supporto/faq",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-06",
+        "V06-23",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "sha256": "dc9f13d28e51645bc7154576ab69bb90dccc021a1983c17d9e22317f6d413573",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-07",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "sha256": "5e7cfe1cd49f060b166aae90c962a74efbc03bf32fc644d96af62e25455cb027",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-07",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "sha256": "e413c9384a5441b696f65c189136611c22bcaf05e2cb20f3738023fa69c72e94",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-08",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "sha256": "e555371c0a175da3b7c6b00c5533f5aa9e5d061acbbf48c092062919ccbb0760",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-01",
+          "url": "https://www.iccastelcovati.edu.it/documento/nuova-valutazione-scuola-primaria/",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        },
+        {
+          "finding": "V06-02",
+          "url": "https://joint-research-centre.ec.europa.eu/scientific-activities/key-competences-lifelong-learning/digcompedu/digcompedu-framework_en",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-01",
+        "V06-02",
+        "V06-03",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "sha256": "fc0ebd63ad555c91cf274ed86aade248ad881e9a0339bfdb70b54bb1c74fcaaa",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-03",
+        "V06-08",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "sha256": "027dbb3955bb421c7456e7e86e33ee2eac12f4cd5d8a38ba4dfaf978a9cb426c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "sha256": "b2f2999c3e5a119789769a26015e376d66175de7eb54fa03332966141f25b30d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-09",
+        "V06-33",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "sha256": "54fd9da78b900b6a6ad6b817a81f17363c6078b0802aacad1a3c225ea8158df7",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-09",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "sha256": "b9afcab845f9c745b88fc2293126a9cc55ff570109b86dc445388adf6abda007",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-09",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "sha256": "252435dd68534d6bd36f9a86e6a0e9427bfdfe8675fab713eb6467f813a3d777",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "sha256": "af897e34b08c9ddb9c2a1aa67b2c20444f440bff861ee2e3759f09b0ea7644f5",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-10",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "sha256": "53038c1a9bdd1ecac2659b7a5b9486376247c66958e35e5e92f13fa93d8ecc70",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-10",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "sha256": "808c17a502c0412ef7148dd11d253fe52c2ba33e07ad38ee40ea1a7455c6d02d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "DD2298/10-04-2026 PRIN confermato",
+          "url": "https://www.mur.gov.it/it/atti-e-normativa/decreto-direttoriale-n-2298-del-10-04-2026"
+        }
+      ],
+      "findings": [
+        "V06-10",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "sha256": "fb3fe850ad98da27e59407a353fd7e521178040333add0b99a3ce93661efd135",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-11",
+        "V06-34",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "sha256": "e1083dd851a254c61a5ea9d7ab8710f2212f3e7b17f459ef576eb5d9c0aea535",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-12",
+        "V06-33",
+        "V06-34",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "sha256": "ec2ede48bec3de62284223f2c838b63e70dbc1c0978c913ceaacd1ae067a48a2",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-13",
+          "url": "https://www.mur.gov.it/it/aree-tematiche/afam/rilevazioni-statistiche",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-13",
+        "V06-14",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "sha256": "d3abf0a7b16c349f7dc9235d0bc9a0f570dd77dbaa58924b7cfce5f4bed66564",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-13",
+          "url": "https://www.mur.gov.it/it/aree-tematiche/afam/rilevazioni-statistiche",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-13",
+        "V06-15",
+        "V06-16",
+        "V06-24",
+        "V06-35"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "sha256": "8653bfa045736367f7e5e9e2657c87dbad851c56364bf9a2c3a02eec1e42bc07",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-17",
+          "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?qid=1789222273653&uri=OJ%3AL_202402509",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-17",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "sha256": "c1ea276e4ca66302c8d7f5fad30b0cf92208af7cfb8e9c238e829eb9c4d072fe",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-18",
+        "V06-33",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "sha256": "a5317e4cc78ab60f463cd5aef298f0dd230e2521121941fe9abb79dbab4baa6d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-18",
+        "V06-33",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "sha256": "dab1c5c354ee880badd9d91c002c86508eee924d601e3740eb2ebeab0c560eaa",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-10",
+        "V06-33",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "sha256": "bc7528d31e7f82efe11e68e0aabda8dcc3a935c0e1a549ef32e3e3bd8cc34505",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-19",
+        "V06-33",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "sha256": "e7448bff41b2ad60f23ded545822804a6a60daa7c5001a4fbae915e54bba69c0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-20",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "sha256": "98c7bba14f66c6b3c9321087f23e8c6c83b5b119cf1b856cbc54885b8e13183f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-21",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "sha256": "e99240cae7ed8cf43f9e7116a0f1033ab2c112a1b23cf6ed1a09d0aecfc1cf17",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-21",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "sha256": "d13fda878ef4d215828e84a4b7271337a1a47c64613c236b5a99f65368f86202",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-22",
+          "url": "https://def.finanze.it/DocTribFrontend/executePrintArticolo.do?articolo=Articolo+3&codiceOrdinamento=200000300000000&id=%7BF49CAAA2-A6BE-46C6-9FC0-65241938AEBA%7D",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-22",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "sha256": "033160403d829a2a369857cbe8524747579bb12007c11fc426b82f63cfbc6b26",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-24",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "sha256": "e4f73505c14e3a663388e06aa899d30c7accf333f2e4b8891e95371a401b1797",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-23",
+          "url": "https://sharepa.dfp.gov.it/supporto/faq",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-10",
+        "V06-23",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "sha256": "4a0f39bc391ba5e88cd1030c063aaac156e329ef217ca55b1829cccefb91ea78",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-24",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "sha256": "f499499a6cb0606e39ae652e2cfdbfdadaeba68011d0a7e0a327d5715d5f2ad4",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-30",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "sha256": "c167e96478a98431ab0b3c95c76847b1fccad3578e98bb541bd7c0e8ddc76eb2",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-31",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "sha256": "1f52e62b53718bc65c55e2767389ae5aacb0fe2adbe9b1c3b7292df840284656",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-29",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "sha256": "1498ffe577ed3f847c5918473189379ef4879fc96906ce86e8b9cde761dc9f9c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-11",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "sha256": "cea3ab315de37362c823d313d640b3a1c296794d9b1b8c2d1f980a38b731a03a",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-11",
+        "V06-28",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "sha256": "101ce52153e7e368adaf30f7c055c1a9b586d12fc1f32fdcc35f25056b387d52",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "finding": "V06-27",
+          "url": "https://trasparenza.cultura.gov.it/archivio16_procedimenti_0_8684_25_1.html",
+          "scope": "Verifica mirata descritta nella sezione 6 del rapporto; non certificazione integrale normativa"
+        }
+      ],
+      "findings": [
+        "V06-26",
+        "V06-27",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "sha256": "cbac57f157e2b7ac3d162d2bac49319f43a3a900cc4a01d21530f5aa49e3642c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-32",
+        "V06-33",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "sha256": "53d84fb78bab28a7759bbc06066d77b76f56f4fd2dffd9f0457e71a1e09e38e9",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "sha256": "262531d3c231b0fe9464384a1df4b58a13c7029bb48a4bfcd0f08088bce99385",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-25",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "sha256": "e9687a184f006ebea572176176d8adfa93f412e0c1698259ad07580febb977b6",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-26",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "sha256": "dcdccaa9e747b6ebc9c0c4d0766959bc43fb610de9a20b93db512a1226dac469",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-30",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "sha256": "9f5e66c10102c3d182ee1a493a38f82811897ac5d3eefef38c21ae9d20f44b7c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-30",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "sha256": "d1ccdfc88ee24a32c4fee8b11fe13e4799ba13635732af086e2de8904188b43a",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V06-26",
+        "V06-35",
+        "V06-36"
+      ],
+      "limitations": [
+        "PDF non esaminato da questo revisore",
+        "Verifica esterna limitata ai claim elencati; tutti testo, casi e quiz letti integralmente"
+      ]
+    }
+  ],
+  "supportingSources": [
+    {
+      "path": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "a1d264559635b8b11ff75f72a3f9be33c6bddf352dfa24f8af8f521e8bdcbf9f"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "b224a5f422d37ee7c61c58eaecdac1fd466b0e94ab15d28306e01a82247fdf8d"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "c12692f5ae9579306315c3642898657fe7b601f390dcabbcba2159e99bef5efb"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "dd7a6eb31f87a1167d4c5dc6cb686b16fabcf6c2b4c119ac51d6c7bde93265de"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "265f9890db449787490618017853383818c1e01aec08b70daf9ec4573b55338e"
+    },
+    {
+      "path": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "764ba8aa12932247fea369cb9d480330a8a07d9043beb913b9bf5a7b4220f0a0"
+    },
+    {
+      "path": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "54a6efeeda9a413b05cda484cbcfcd647de411ac91e18c0cf578c7d6bd033f5f"
+    },
+    {
+      "path": "wiki/sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "7088842c3c6650b11601bce6810fa407f97cb8beccdaf623bb10df5a31db5c98"
+    },
+    {
+      "path": "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "f5d8d691ca4237e8edac180d4fbfce7b71d8a97e8d5e3fe638c9bc11be5c4ceb"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "d1de4937bd4e4cacde7f9ee7013be32fd3b9ca44dfc7c4bb7f795fc787a322bb"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "c8b08e585e9a19906be15ec4e5cbc97f77b8016387f38edb2145322e502fefff"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "bca44ea6653c761886b3c4edfbc45cb3418af881d1d1d11fee86ced102a7acd6"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "fda3e1178ef5c57560406858d629d5549213133e6672c0e5e0e6dae3104b3c41"
+    },
+    {
+      "path": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "096eaea19fcf12132dd7361bd3ca7b33d18013a3475380fbb186d297f5251c64"
+    },
+    {
+      "path": "wiki/sources/horizon-europe-quadro-work-programme-call-grant-agreement.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "c3abb19544e9c7cd9842662f29a29f21077bc5a0713026a4074066d134696ee1"
+    },
+    {
+      "path": "wiki/sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "d802c5d73c1e5857f8d01ecbbd0570159306549938c4b764665e4359318d6848"
+    },
+    {
+      "path": "wiki/sources/integrita-pubblicazioni-ricerca-2026-08-22.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "bef988dc1ff5844cae08540c45b9f8048e2097b397c35dd2f73b8bf1c6438fe4"
+    },
+    {
+      "path": "wiki/sources/open-science-fair-dati-2026-08-22.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "0b8e98972a84529b992858de1f149d8fda06ed1e3dba7550cc0ff04a09d91f90"
+    },
+    {
+      "path": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "98d0740cd4486601f3465104925f7277414938263163bee411f265ad4836a29b"
+    },
+    {
+      "path": "wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "890dc83c83d72104dc5d12fd81fed54e112a7572ba8d46d725a95d8e4ccf52e0"
+    },
+    {
+      "path": "wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "4db2cb2c39ce6b5abfbfad67f81cacd867a991aa7d96a11417766decc3e6f458"
+    },
+    {
+      "path": "wiki/sources/prin-2026-bando-mur-programma-rendicontazione.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "69e2cc200160a47c51f58c35df74e091b2a80d3d4cebd6458172998a96176942"
+    },
+    {
+      "path": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "31c96840d1ee42a2308de6e43cc2acb845e9c36feb8d793fdc759ecf3f7e4e12"
+    },
+    {
+      "path": "wiki/sources/proprieta-intellettuale-trasferimento-2026-08-22.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "fdcdc16ee3d04101976b9d1f6125c20e5ada274b134e78da68b0c20bd674259f"
+    },
+    {
+      "path": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "9e9154e4413b6bd0e9d44e9e36780bed1869052ebffd1d99f627ab5a00ed2e2f"
+    },
+    {
+      "path": "wiki/sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "cf291a413905199cd2595e827bd55c893997697d405a13ea97dfae7b6e1660a1"
+    },
+    {
+      "path": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "50225a344c67ee0611498d49c15ba5032b8007714e293d8bbfb6416413e14ac0"
+    },
+    {
+      "path": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "c26a2551b0022f51aa15452d7fa6cfef79793939c63d40aa1e51d84243893fc0"
+    },
+    {
+      "path": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "2bb2186ec7772a8a79690ee6af55c20168af418fafbf280a841d1c9198ae6051"
+    },
+    {
+      "path": "wiki/sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md",
+      "exists": false,
+      "readComplete": false,
+      "sha256": null
+    }
+  ],
+  "readCompleteCount": 50,
+  "quizCountIR02IR03IR04": 261,
+  "IR01QuizNote": "Domande aperte integralmente risolte e commenti confrontati; nessuna MCQ",
+  "externalReview": "targeted",
+  "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-06.md",
+  "hashChangesSinceRead": []
+}

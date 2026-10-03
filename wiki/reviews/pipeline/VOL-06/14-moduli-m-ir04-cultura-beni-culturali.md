@@ -1,63 +1,76 @@
----
-id: review-vol-06-m-ir04-corrections
-type: editorial_review
-title: "Correzioni del report editoriale - M-IR04 Cultura e beni culturali"
-status: completed
-source_refs: ["sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24"]
-book_refs: ["m-ir04-cultura-beni-culturali"]
-updated_at: 2026-08-23
-created_at: 2026-08-23
-review_required: false
-canonical: false
-tags: ["pipeline-step-14", "editorial-corrections", "module-code-m-ir04"]
-issue_type: editorial_corrections
-severity: none_open
-affected_pages: ["books/moduli/m-ir04-cultura-beni-culturali/index.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md", "books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md"]
----
-
-# Report editoriale - Correzioni M-IR04 Cultura e beni culturali
+# M-IR04 — Correzioni del 3 ottobre 2026
 
 ## 1. Sintesi editoriale
-- Genere editoriale: modulo specialistico per concorsi pubblici.
-- Pubblico target: candidati dell'area cultura e beni culturali.
-- Perimetro di questa revisione: attuazione delle correzioni aperte nella revisione trasversale del modulo.
-- Stato generale in una frase: tutte le correzioni obbligatorie emerse dal report trasversale sono state applicate e verificate.
 
-## 2. Punti applicati della checklist
-Applicati controllo delle duplicazioni, separazione tra testo lettore e artefatti interni, coerenza dei metadata, gerarchia dei titoli, densità del capitolo corretto e coerenza del report.
+Applicati i rilievi testuali del modulo; tredici capitoli, 65 nuclei e 78 quiz disciplinari. Pubblicabilità non attestata prima del nuovo PDF.
+
+## 2. Checklist
+
+Copertura, autonomia, definizioni, categorie e termini normativi, competenze dei profili, dati e ipotesi, casi risolti, quiz e spiegazioni, rinvii, stile e superficie. Impaginazione separatamente da verificare.
 
 ## 3. Tabella errori
+
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-|----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | Capitolo 04 | Struttura e ridondanza | Grave | Due stesure consecutive duplicavano nuclei, caso e quiz. | Mantenuta una sola stesura completa; controllo densità: 5 nuclei, 5.181 parole, 7 quiz, 1 caso. | Risolto |
-| E02 | Capitoli 04-06, 08-13 | Separazione testo lettore / artefatti interni | Media | Le sezioni "Note di review" restavano nel corpo per studenti. | Rimosse dai capitoli; le evidenze restano nei report della pipeline. | Risolto |
-| E03 | index.md M-IR04 | Coerenza editoriale e metadata | Media | Stato e prossimo passo erano ancora da scaffold. | Allineati a revisione editoriale e text freeze in preparazione. | Risolto |
+| --- | --- | --- | --- | --- | --- | --- |
+| V06-25 | 02 | Testo e didattica | Media | Organigramma e competenze | Integrazione e raccordo applicati | Corretto |
+| V06-26 | 03–05 | Testo e didattica | Media | Categorie, procedimenti e termini | Integrazione e raccordo applicati | Corretto |
+| V06-27 | 03–04 | Testo e didattica | Media | Usi incompatibili vietati | Integrazione e raccordo applicati | Corretto |
+| V06-28 | 06 | Testo e didattica | Media | Catalogazione come metadati descrittivi | Integrazione e raccordo applicati | Corretto |
+| V06-29 | 07 | Testo e didattica | Media | ISAD, ISAAR, scarto, consultazione e diplomatica | Integrazione e raccordo applicati | Corretto |
+| V06-30 | 09–11 | Testo e didattica | Media | Stratigrafia, opera concreta e art. 29 | Integrazione e raccordo applicati | Corretto |
+| V06-31 | 12 | Testo e didattica | Media | Prova tecnica distinta da amministrativa | Integrazione e raccordo applicati | Corretto |
+| V06-32 | 13 | Testo e didattica | Media | Obblighi lavoratore, addetti e piano locale | Integrazione e raccordo applicati | Corretto |
+| V06-11 quota IR04 | 06–08 | Testo e didattica | Media | Standard, catalogazione e preservazione | Integrazione e raccordo applicati | Corretto |
+| V06-33/35/36 quota IR04 | Tutti | Testo e didattica | Media | Superficie, matrice e 78 quiz disciplinari | Integrazione e raccordo applicati | Corretto |
 
 ## 4. Osservazioni per capitolo
-### Capitolo 04 - Tutela, valorizzazione, fruizione e paesaggio
-- Correzione applicata: eliminata la prima stesura duplicata, conservando la versione con struttura didattica completa.
-- Micro-revisione: verificata la presenza di un solo H1, cinque nuclei univoci, caso e blocco di verifica.
 
-### Capitoli 05-06 e 08-13
-- Correzione applicata: rimosse esclusivamente le note editoriali interne; testo didattico, fonti in frontmatter, casi e verifiche invariati.
+01: Decoder del profilo e prodotto della prova; quattro percorsi distinti.
+
+02: Quattro dipartimenti e DG; SABAP, soprintendenze archivistiche, Archivi di Stato e autonomia.
+
+03: Art. 10 per categorie; presupposti e tutela interinale, verifica/dichiarazione, divieti.
+
+04: Compatibilità della valorizzazione e distinzione fra divieto e autorizzazione.
+
+05: Art. 21 aggiornato alla legge 40/2026; termini 30/60/180, alienazione e soglie 50.000/13.500.
+
+06: Metadati descrittivi, standard, master/derivati e doppio controllo integrità/corrispondenza.
+
+07: Diplomatica essenziale; ISAD/ISAAR, scheda multilivello, scarto, versamento e consultabilità.
+
+08: REICAT/ISBD/UNIMARC/SBNMARC; authority, soggetto, classificazione/collocazione, ILL/DD.
+
+09: US positive/negative e sequenza 10→12→13; ritrovamento entro 24 ore e custodia.
+
+10: Scheda Botticelli con cronologia, tecnica e incertezza; lettura e correzione guidata.
+
+11: Art. 29 e caso prevenzione/manutenzione/restauro; competenze professionali.
+
+12: Prova amministrativa distinta da tecnica; doppia consegna e atti del cantiere.
+
+13: Art. 20 D.Lgs. 81: lavoratore/addetto, piano locale e caso odore di bruciato.
 
 ## 5. Coerenza globale
-- Terminologia: invariata e coerente.
-- Struttura vs indice: riallineata alla fase effettiva del modulo.
-- Promesse dell'introduzione mantenute: sì; nessuna correzione ha ridotto la copertura assegnata.
 
-## 6. Contenuto da verificare
-DA VERIFICARE: non dispongo di elementi sufficienti per confermare la vigenza puntuale di regolamenti e competenze istituzionali al text freeze. La verifica passa all'audit specialistico automatico.
+Cinque nuclei per capitolo; verifica unica con sei quiz commentati, casi e richiami alla fonte leggibili. Originali archiviati; rimosse equivalenze false, promesse di esenzione dalla prova tecnica e appiattimenti sulle autorizzazioni. Rinvio ai livelli di progettazione con heading esistente.
 
-## 7. Suggerimenti facoltativi (non errori)
-Nessun suggerimento facoltativo applicato automaticamente.
+## 6. Fonti
 
-## 8. Priorità degli interventi
-1. Eseguire l'audit specialistico automatico delle fonti e delle formulazioni settoriali.
-2. Procedere al text freeze solo dopo l'esito positivo dell'audit.
+Letti 19 articoli del Codice e art. 20 D.Lgs. 81, organigramma e competenze DGA; ISAD nelle pagine dichiarate, ISAAR e linee guida digitalizzazione; standard bibliografici già consolidati, scheda Uffizi e sezioni universitarie sulla stratigrafia. L'art. 21 e le soglie dell'art. 65 recepiscono le modifiche del 2026. La nota documenta limiti e acquisizioni.
 
-## 9. Giudizio di pubblicabilità
-Pubblicabile con correzioni minori: le criticità strutturali e redazionali obbligatorie del modulo sono risolte; restano i controlli automatici successivi previsti dalla pipeline.
+## 7. Suggerimenti facoltativi
 
-## 10. Limiti di questa revisione
-La verifica concerne il testo Markdown e non una resa PDF; gli aspetti normativi puntuali saranno verificati al passo di audit specialistico.
+Nessun ampliamento indiscriminato a ogni tecnica professionale. I casi specialistici coprono il perimetro dichiarato del modulo.
+
+## 8. Priorità
+
+Audit specialistico, manifest testuale e nuovo PDF, con controllo dell'ordine dei capitoli e delle bibliografie.
+
+## 9. Pubblicabilità
+
+Non attestata: testo corretto, ma nuova produzione PDF e verifiche di volume necessarie.
+
+## 10. Limiti
+
+Audit integrale della baseline già svolto; ora controllo dei delta e raccordi, non nuova lettura integrale dichiarata delle parti invariate. Normativa e standard verificati selettivamente, non certificati integralmente. Nessun record MARC eseguibile o progetto tecnico professionale completo simulato. Le definizioni introduttive di diplomatica non sono un corso specialistico completo.

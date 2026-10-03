@@ -1,0 +1,93 @@
+[
+  {
+    "name": "corte-cost-3-2010",
+    "url": "https://www.cortecostituzionale.it/scheda-pronuncia/2010/3",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/corte-cost-3-2010.html",
+    "sha256": "94f05104e8d2a9c105575f0a8f71a3d39ec3684e98f2ce106eed5ddac7ce55c6",
+    "readComplete": false
+  },
+  {
+    "name": "unep-offerta-circolare2006",
+    "url": "https://www.giustizia.it/giustizia/it/mg_1_8_1.page?contentId=SDC1284731",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/unep-offerta-circolare2006.html",
+    "sha256": "08e85de954eeed4bccd7c8e2cf9af1c34af36f23205def36dd6b44edb4327e9d",
+    "readComplete": false
+  },
+  {
+    "name": "casellario-datore-faq",
+    "url": "https://www.giustizia.it/giustizia/it/mg_3_3_7.page?tab=f",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-datore-faq.html",
+    "sha256": "b1fa40178bc3c782439e4f9430e130fc7bf87fbb65d568bbc7540d77cfdba7db",
+    "readComplete": false
+  },
+  {
+    "name": "casellario-pendenti-scheda",
+    "url": "https://www.giustizia.it/giustizia/it/mg_3_3_3.page?tab=w",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-pendenti-scheda.html",
+    "sha256": "5bececde117c959e94a8630e75762f923a24b95043173e25b1f951734c8ac486",
+    "readComplete": false
+  },
+  {
+    "name": "casellario-pescara-2026",
+    "url": "https://procura-pescara.giustizia.it/it/nuove_procedure.page",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-pescara-2026.html",
+    "sha256": "d869fc66a0f7c40df75223d091886273e9e95593d99d4ff757934390b4c39ad8",
+    "readComplete": false
+  },
+  {
+    "name": "casellario-datore-padova",
+    "url": "https://procura-padova.giustizia.it/it/cert_art_25bis_dpr_3132002.page",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-datore-padova.html",
+    "sha256": "37dfe7cbedae50c2751c5eac198ffd36cc862b796486c573253423212849e4b7",
+    "readComplete": false
+  },
+  {
+    "name": "patrocinio-decreto2025",
+    "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=25A03904&atto.dataPubblicazioneGazzetta=2025-07-11&tipoSerie=serie_generale&tipoVigenza=originario",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/patrocinio-decreto2025.html",
+    "sha256": "a7fdef7feb4231407df5fd21027895ba082b5c20e619879817a4b103b409ec69",
+    "readComplete": false
+  },
+  {
+    "name": "patrocinio-circolare20250424",
+    "url": "https://www.giustizia.it/giustizia/page/it/provvedimento_ministeriale_selezionato?contentId=SDC1454004",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/patrocinio-circolare20250424.html",
+    "sha256": "25a827e71feba23869799759e7317ac8a71402516081b5c79bf3b214f2aa501c",
+    "readComplete": false
+  },
+  {
+    "name": "spedigius-ministero",
+    "url": "https://www.giustizia.it/giustizia/page/it/come_fare_per_liquidazioni_spese_giustizia?tab=f",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spedigius-ministero.html",
+    "sha256": "6b6cff89dc16329e35a27f81b10c718a4cd725e0c74c70c7ae5562252839c7a5",
+    "readComplete": false
+  },
+  {
+    "name": "spedigius-udine",
+    "url": "https://tribunale-udine.giustizia.it/it/liquidazioni_s_g.page",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spedigius-udine.html",
+    "sha256": "23bbb61064700cefbd52047d7dfe0f7dfbb11839f9c8e02492cd9297e9e60003",
+    "readComplete": false
+  },
+  {
+    "name": "spese-circolari2025",
+    "url": "https://www.giustizia.it/giustizia/page/it/decreti_circolari_direttive_provvedimenti_note?facetNode_1=0_50&facetNode_2=1_1%282025%29&selectedNode=0_50_2",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-circolari2025.html",
+    "sha256": "bcd2a4231d4be87afa5d9acb409e122a786d28a53d37abebf3aa25c31a67e10c",
+    "readComplete": false
+  },
+  {
+    "name": "corte-cost-106-2016",
+    "url": "https://www.cortecostituzionale.it/scheda-pronuncia/2016/106",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/corte-cost-106-2016.html",
+    "sha256": "6b6320b99bbeb40b9d56d5cd1fdf63800a0c32c1f9e0880248b6c85c7241626d",
+    "readComplete": false
+  },
+  {
+    "name": "patrocinio-cagliari",
+    "url": "https://tribunale-cagliari.giustizia.it/it/patrocinio_spese_stato.page",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/patrocinio-cagliari.html",
+    "sha256": "5f6e484e7f7b6e74ffac1287587face7e4741422028b7a8a477752c564f41b55",
+    "readComplete": false
+  }
+]

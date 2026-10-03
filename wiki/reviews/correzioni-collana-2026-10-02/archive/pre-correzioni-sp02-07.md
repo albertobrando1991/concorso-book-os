@@ -1,0 +1,275 @@
+---
+id: m-sp02-cap-07-piano-30-60-90
+type: chapter
+title: "Piano 30/60/90 per binario"
+book_id: m-sp02-vigili-fuoco
+module_code: M-SP02
+binario: comune
+status: revised_draft
+format_version: 2
+outline_section: 7
+domain: "concorsi pubblici italiani"
+nuclei: ["N-SP02-12-01", "N-SP02-12-02", "N-SP02-12-03", "N-SP02-12-04", "N-SP02-12-05"]
+source_refs: ["sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02"]
+book_refs: ["m-sp02-vigili-fuoco", "il-metodo-bando"]
+cut_off_date: 2026-08-13
+updated_at: 2026-08-14T18:25:00+02:00
+created_at: 2026-08-13T00:00:00+02:00
+review_required: false
+canonical: false
+draft_stage: specialist-audit-complete
+last_compiled_from: [wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md, wiki/books/il-metodo-bando/index.md]
+tags: ["m-sp02", "piano-studio", "30-60-90"]
+---
+
+# Piano 30/60/90 per binario
+
+Novanta giorni non sono una promessa di preparazione sufficiente. Sono una finestra di controllo: trenta giorni per misurare, trenta per costruire, trenta per simulare. Il punto di partenza e la data reale della prova possono imporre un ciclo diverso.
+
+## Obiettivo del capitolo
+
+Al termine saprai costruire un piano operativo o direttivo, assegnare output settimanali, misurare il margine e ripianificare senza confondere ore impiegate e progresso.
+
+## Mappa BANDO del capitolo
+
+| Fase | Output nel piano |
+| --- | --- |
+| B | Scadenze e prove in calendario. |
+| A | Tempo distribuito per peso reale. |
+| N | Nuclei settimanali verificabili. |
+| D | Indicatori e diario degli errori. |
+| O | Simulazioni complete e decisioni. |
+
+Il ciclo è progressivo: prima misura la distanza, poi costruisce la prestazione, infine la rende ripetibile sotto vincolo. La tabella è una base compilabile; date e carichi personali vanno adattati al calendario reale e, per la parte fisica, alla valutazione di professionisti competenti.
+
+### Binario operativo
+
+| Fase | Contenuti dominanti | Output minimo della fase |
+| --- | --- | --- |
+| giorni 1-30 | requisiti, allegati, baseline dei moduli, diagnosi per area di quiz | scheda requisiti, baseline datata, profilo errori, calendario |
+| giorni 31-60 | tecnica, continuità, margine sulle soglie, serie miste | sequenze registrate e diario quiz aggiornato |
+| giorni 61-90 | simulazioni, logistica, documenti, specificità | simulazioni coerenti e cartella di convocazione |
+
+| Fase | Controllo che autorizza il passaggio |
+| --- | --- |
+| giorni 1-30 | ogni modulo è misurato in sicurezza e il vincolo più fragile è identificato |
+| giorni 31-60 | il margine cresce senza deteriorare sicurezza e recupero |
+| giorni 61-90 | prestazione ripetibile e nessun adempimento critico aperto |
+
+### Binario direttivo
+
+| Fase | Contenuti dominanti | Output minimo della fase |
+| --- | --- | --- |
+| giorni 1-30 | ammissibilità, scomposizione del programma, prime produzioni | almeno 4 produzioni tecniche e 30 risposte orali |
+| giorni 31-60 | elaborati completi, scelta fra tracce, orale integrato | fascicolo corretto e registrazioni con griglia comune |
+| giorni 61-90 | simulazioni sotto vincolo, consolidamento, logistica | elaborati stabili, repertorio orale, registro fonti corrente |
+
+| Fase | Controllo che autorizza il passaggio |
+| --- | --- |
+| giorni 1-30 | le lacune sono classificate per contenuto, forma e tempo |
+| giorni 31-60 | gli errori generano esercizi di ritorno e diminuiscono |
+| giorni 61-90 | qualità ripetibile e incognite collegate a fonte, azione e data |
+
+## N-SP02-12-01 · Principi del piano operativo: misurare prima di caricare
+
+Il primo mese operativo serve a stabilire se il progetto è sostenibile. Chi parte dalla palestra senza leggere requisiti e protocollo rischia di allenare l'esercizio sbagliato; chi aspetta di «finire la teoria» perde adattamenti fisici che richiedono tempo. La prima settimana contiene quindi controlli documentali, valutazione professionale dello stato fisico e lettura integrale degli allegati.
+
+Il test iniziale riproduce soltanto ciò che può essere eseguito in sicurezza. Registra per ciascun modulo esito, tecnica, margine e limite. Non inseguire subito il punteggio massimo: identifica prima qualsiasi soglia a rischio. Corsa e acquaticità richiedono ambienti e assistenza adeguati; trave ed esercizi di forza vanno appresi senza improvvisazioni pericolose.
+
+La preselezione entra nello stesso mese con una diagnosi separata per storia, chimica-fisica, logica, informatica e inglese. Usa serie brevi per riconoscere i buchi. Il punteggio non va confrontato con una soglia inventata: serve a distribuire il lavoro. Le quattro informazioni non presenti nel bando — numero, durata, penalità, banca dati — restano aperte nel registro.
+
+Dal giorno otto costruisci una settimana tipo. Le sedute fisiche seguono recupero e progressione; lo studio occupa blocchi brevi e frequenti. Almeno una seduta unisce più moduli per osservare la perdita dovuta alla sequenza, ma soltanto quando le tecniche di base sono sicure. Ogni carico ha una ragione e un indicatore.
+
+Il certificato agonistico e gli altri documenti si pianificano a ritroso dalla convocazione secondo la finestra prevista, senza procurarseli tanto presto da renderli inutilizzabili né così tardi da non avere margine. Il piano registra prenotazione, rilascio e controllo formale.
+
+Alla fine dei trenta giorni devi possedere quattro output: scheda requisiti chiusa; baseline fisica per modulo; profilo degli errori ai quiz; calendario delle successive otto settimane. Se manca un requisito non sanabile, la decisione viene prima dell'investimento. Se emerge dolore o rischio, si interrompe l'improvvisazione e si ricorre al professionista appropriato.
+
+Il successo del mese non è il record personale. È conoscere la distanza dalla soglia, aver costruito continuità e sapere quale area riceverà la prossima ora. Questa conoscenza rende il piano adattabile quando arriveranno gli avvisi.
+
+### Settimana tipo e regole di sicurezza
+
+Una settimana iniziale alterna sedute di tecnica, lavoro di base e recupero; non replica ogni giorno l'intera prova. Il calendario personale va costruito con un professionista quando condizioni, esperienza o sintomi lo richiedono. Registra carico percepito, esito e qualità: il solo numero finale non spiega se la tecnica si sta deteriorando.
+
+Per l'acqua pianifica accesso a una struttura adatta e assistenza. L'apnea non si allena da soli. Per trave e forza utilizza attrezzature sicure e progressioni compatibili. Il manuale non prescrive allenamenti individuali: trasforma il protocollo in domande da portare a chi può seguirti.
+
+Nei blocchi di studio alterna area debole e serie mista. Una sessione di correzione vale quanto il quiz: trascrivi perché hai sbagliato e costruisci una domanda di ritorno. Alla fine della settimana confronta percentuali per tipologia, non soltanto il totale.
+
+Il giorno libero non viene recuperato con un doppio carico impulsivo. Se il piano salta, redistribuisci sulla base delle priorità. La continuità di quattro settimane offre un'informazione più utile di una seduta eccezionale.
+
+Al termine di ogni seduta scrivi una sola correzione tecnica e una decisione per la volta successiva. Un diario con dieci impressioni non guida l'azione. Ogni sette giorni controlla se il carico previsto è stato sostenibile; se il recupero peggiora, chiedi supporto e modifica il piano invece di inseguire il calendario originario.
+
+La baseline va ripetuta nelle stesse condizioni per quanto possibile. Questo rende confrontabili i dati e impedisce di celebrare un risultato ottenuto con protocollo diverso. La specificità cresce soltanto dopo che sicurezza e continuità sono stabili. Il confronto viene datato.
+
+## N-SP02-12-02 · Operativo, giorni 31-90: errori di soglia, margine e sequenza
+
+Nel secondo mese la priorità resta il modulo più vicino alla non idoneità. Una media alta non compensa una soglia minima mancata quando il protocollo richiede il superamento di ogni componente. Ordina quindi gli esercizi per rischio: rosso se instabile o sotto soglia, giallo se il margine è piccolo, verde se ripetibile.
+
+Le settimane 5-6 consolidano tecnica e volume sostenibile. Le settimane 7-8 introducono più sequenze complete. Ogni simulazione registra condizioni, recuperi, esito e qualità. Confrontare tempi ottenuti in contesti diversi senza annotarli genera progressi immaginari.
+
+La preselezione cresce soltanto fino a un margine ragionevole. Esegui serie miste e per tipologia; usa il diario per distinguere ignoranza, distrazione e lentezza. Se l'accuratezza è stabile, trasferisci ore al fisico. Se un avviso pubblica modalità o banca dati, ricostruisci le simulazioni senza abbandonare l'allenamento.
+
+Nel terzo mese aumenta la specificità e diminuisce l'esperimento. Prova attrezzatura e abbigliamento ammessi, prepara la logistica e simula la sequenza. Non inserire all'ultimo esercizi rischiosi per inseguire un salto di punteggio. Il picco utile è ripetibile, non occasionale.
+
+Prevedi settimane di scarico e giorni di recupero. Il bando disciplina l'eventuale differimento per infortunio, ma non è una strategia di pianificazione. Allenarsi lesionati per paura di perdere giorni può distruggere l'intero progetto. Le decisioni sanitarie appartengono a professionisti.
+
+Ogni domenica aggiorna tre indicatori: margine minimo fra i moduli, percentuale corretta per area di quiz, adempimenti aperti. Se uno peggiora per due rilevazioni, il piano cambia. Le ore non sono un indicatore sufficiente.
+
+Al giorno novanta devi poter eseguire simulazioni coerenti, conoscere il modulo fragile e avere pronta la cartella di convocazione. Se la prova è più lontana, inizi un nuovo ciclo basato sui dati; se è vicina, proteggi recupero e affidabilità.
+
+### Scenari di adattamento
+
+Se il margine fisico cresce ma i quiz restano instabili, aggiungi brevi sessioni frequenti e non una giornata monolitica. Se accade l'opposto, riduci la ricerca del massimo al filtro e restituisci tempo al modulo debole. Se entrambi peggiorano, verifica recupero, carico complessivo e qualità del piano prima di aggiungere ore.
+
+Un avviso può anticipare o posticipare la prova. Con meno tempo, proteggi soglie e adempimenti, tagliando attività senza output. Con più tempo, non prolunghi indefinitamente la stessa intensità: apri un nuovo ciclo con obiettivi diversi e settimane di recupero.
+
+Se una struttura necessaria non è disponibile, il problema è logistico e va risolto presto. Prenotazioni, spostamenti e alternative entrano nel calendario come attività. Scoprire a ridosso della convocazione di non aver mai provato un contesto simile non è una lacuna atletica, ma di pianificazione.
+
+Ogni scenario termina con una decisione scritta: cosa cambia, perché, fino a quando e quale indicatore dirà se ha funzionato.
+
+Negli ultimi trenta giorni stabilisci anche un limite agli esperimenti. Nuove tecniche, attrezzature o programmi vengono introdotti soltanto se risolvono un problema concreto e se c'è tempo per verificarli. La novità a ridosso della prova aumenta variabilità e rischio.
+
+Programma due simulazioni di convocazione: prepara la cartella, calcola viaggio e orari, rileggi le prescrizioni, quindi esegui la sequenza consentita. La prima serve a trovare lacune; la seconda a controllare che siano chiuse. Non è necessario simulare aspetti che l'avviso non ha ancora definito: restano righe aperte.
+
+Il mantenimento dei quiz utilizza serie brevi distribuite. Se la prestazione cala, individua l'area responsabile invece di aumentare tutto. Storia e scienze possono richiedere ripasso; logica può richiedere velocità; informatica e inglese possono dipendere dalla forma pubblicata.
+
+Il piano è pronto quando sa reagire senza perdere il vincolo dominante: superare il filtro e presentare una prestazione fisica affidabile.
+
+Verifica sempre la versione corrente degli allegati prima della simulazione. Conserva l'esito del controllo.
+
+## N-SP02-12-03 · Direttivo, giorni 1-30: programma e prime produzioni
+
+Il primo mese direttivo parte dall'ammissibilità: laurea, equiparazione, abilitazione, età e dichiarazioni. Subito dopo il programma ufficiale viene scomposto in nuclei da scritto, nuclei da orale e nuclei comuni. Ogni riga riceve fonte, profondità e output.
+
+La diagnosi iniziale non è un'autovalutazione generica. Scegli una traccia tecnica, produci una scaletta senza fonti e segna dove il ragionamento si interrompe. Registra separatamente modello, calcolo, norma tecnica, chiarezza e tempo. Per l'orale estrai dieci domande e misura la qualità del primo minuto.
+
+Le prime due settimane costruiscono schemi di soluzione e schede orali. Non aspettare di completare tutte le materie per scrivere: la produzione precoce rivela lacune che la rilettura nasconde. Ogni giorno deve lasciare almeno un artefatto verificabile.
+
+Le settimane 3-4 introducono elaborati parziali a tempo e risposte registrate. Le materie giuridiche vengono preparate con fonte, principio, struttura e applicazione; quelle tecniche con ipotesi, procedimento e controllo. Informatica e lingua seguono la forma indicata dalla procedura.
+
+Distribuisci il tempo secondo peso e distanza, non secondo piacere. La materia professionale già praticata può richiedere meno ripasso ma più allenamento a comunicarla; una materia laterale può richiedere basi nuove. Il piano distingue conoscenza e output.
+
+Alla fine del mese devi avere: requisiti chiusi, matrice del programma, almeno quattro produzioni tecniche, trenta risposte orali e un diario degli errori classificato. Se possiedi soltanto appunti, il mese non ha ancora prodotto preparazione concorsuale.
+
+La possibile preselezione resta monitorata. Finché non è confermata, non assorbe il piano. Se le sue materie coincidono con il programma, scegli attività riutilizzabili; se divergono, attendi la fonte prima di creare un corso parallelo.
+
+### Il contratto settimanale del direttivo
+
+Ogni lunedì definisci cinque consegne: una scaletta tecnica, una sezione sviluppata, un controllo di calcolo, cinque risposte orali e una revisione delle fonti. Le quantità possono cambiare, ma devono produrre oggetti che venerdì possono essere corretti.
+
+Dividi il programma in nuclei abbastanza piccoli da essere verificati. «Scienza delle costruzioni» non è un compito settimanale; un problema tipico con ipotesi e controllo lo è. «Diritto amministrativo» non è misurabile; una risposta su un istituto e il suo uso lo è.
+
+Prevedi un revisore o una griglia quando possibile. L'autocorrezione tecnica ha limiti, ma può comunque individuare passaggi omessi, unità e struttura. Per l'orale la registrazione rende udibili premesse eccessive e conclusioni mancanti.
+
+Il venerdì non premi le ore: confronti consegne e qualità. Le attività rimaste aperte non vengono copiate automaticamente nella settimana seguente; ne analizzi la causa. Un compito troppo grande va diviso, uno evitato va anticipato, uno inutile va eliminato.
+
+Ogni due settimane svolgi una mini-prova che combina scelta, scaletta e una sezione sviluppata. Serve a evitare che gli esercizi frammentati migliorino senza ricomporsi. Confronta l'esito con la prima diagnosi e identifica una sola debolezza trasversale.
+
+Dedica un blocco alla manutenzione delle fonti. Aggiorna programma, avvisi e riferimenti normativi; separa testo vigente e appunti. Se trovi una modifica, indica quali schede e risposte tocca. Questo lavoro non deve occupare le ore migliori della produzione, ma non può essere rimandato alla vigilia.
+
+Inserisci infine un giorno di recupero cognitivo. L'accumulo di lettura tecnica riduce la qualità senza essere visibile nelle ore. Una settimana sostenibile produce più elaborati corretti di una settimana massima seguita da interruzione.
+
+Il contratto settimanale include una colonna «criterio di accettazione». Una scaletta è chiusa se contiene ipotesi, sequenza e controllo; una risposta orale se definisce, ordina e conclude. Senza criterio, ogni bozza può essere dichiarata finita o incompleta secondo l'umore. Con il criterio, sai quali consegne passano e quali tornano nel ciclo.
+
+Conserva almeno una produzione iniziale non corretta. Al giorno trenta confrontala con quella recente: la differenza mostra se è migliorata la prestazione, non soltanto la quantità di appunti.
+
+## N-SP02-12-04 · Direttivo, giorni 31-90: elaborati completi e orale integrato
+
+Nel secondo mese passi dagli schemi agli elaborati completi. Una simulazione settimanale misura impostazione, sviluppo, controllo e leggibilità. La correzione genera il lavoro della settimana successiva: ogni errore riceve causa, correzione ed esercizio di ritorno.
+
+La scelta fra tracce va allenata. Confronta per pochi minuti familiarità, rischio e possibilità di controllo, poi decidi. Preparare una sola opzione può costringerti a svolgere una traccia sfavorevole; studiare tutto allo stesso livello impedisce profondità. Costruisci una specializzazione principale e una soglia di lettura delle alternative.
+
+L'orale cresce in parallelo. Ogni elaborato produce domande sui passaggi usati; le aree aggiuntive vengono distribuite in cicli. Alterna risposta breve, approfondimento e collegamento. Registra parole vaghe, riferimenti insicuri e incapacità di chiudere.
+
+Nel terzo mese le simulazioni rispettano tempo e strumenti comunicati. Se questi dettagli non sono ancora pubblicati, dichiara l'ipotesi e prova più configurazioni senza presentarle come regola. Quando esce l'avviso, aggiorna immediatamente.
+
+La revisione finale non apre nuovi manuali salvo lacuna dimostrata. Consolida schemi, errori ricorrenti, formule e fonti. Prepara documenti e viaggio separatamente dal tempo di studio. L'accertamento psico-fisico successivo resta nel calendario degli adempimenti.
+
+Al giorno novanta dovresti avere un fascicolo di elaborati corretti, un repertorio di risposte orali e indicatori di stabilità. Se il programma resta sbilanciato, avvii un nuovo ciclo mirato; non dichiari «finito» perché hai attraversato tutte le pagine.
+
+La misura principale è la qualità ripetibile sotto vincolo. Un buon elaborato occasionale segnala potenziale; tre elaborati controllati mostrano preparazione. Lo stesso vale per l'orale: conoscenza senza consegna ordinata non è ancora output.
+
+### Simulazione integrata e settimana finale
+
+Una simulazione integrata parte dalla scelta della traccia, continua con l'elaborato e termina con domande orali sui passaggi usati. Non pretende di riprodurre nello stesso giorno l'intera procedura; serve a verificare i collegamenti. Registra la scelta iniziale e controlla dopo se era giustificata.
+
+Nelle ultime due settimane riduci l'apertura di nuovi fronti. Mantieni un elenco di lacune critiche, uno di dettagli e uno di curiosità. Solo il primo modifica il piano. Il secondo riceve tempo residuo; il terzo resta fuori. Questa triage protegge la stabilità.
+
+Prepara un fascicolo di formule, schemi e riferimenti essenziali conforme agli strumenti effettivamente ammessi. Non dare per scontato di poterlo portare alla prova. Anche quando resta materiale di studio, deve essere abbastanza breve da sostenere la revisione e non riaprire interi manuali.
+
+La vigilia non è una simulazione tardiva. Controlla logistica, documenti e riposo. Il piano ha valore se consegna una prestazione disponibile il giorno previsto, non se esaurisce il candidato la sera prima.
+
+Durante le settimane 9-10 alterna elaborato completo e correzione profonda. Nelle settimane 11-12 riduci la quantità e aumenta la qualità del controllo. Ripeti gli errori ad alta frequenza e le domande orali instabili; non riapri intere materie perché una risposta è stata imperfetta.
+
+Chiedi a chi corregge di usare sempre la stessa griglia. Cambiare criteri a ogni elaborato rende i punteggi incomparabili. Se non hai un correttore, conserva una checklist oggettiva e rivedi il testo a distanza. Distingui comunque ciò che puoi validare da solo da ciò che richiede competenza esterna.
+
+L'orale finale include domande casuali e interruzioni. Allenarsi soltanto su sequenze note produce fluidità apparente. Una risposta buona deve sopravvivere al cambio di ordine, consegnare subito il nucleo e chiudersi quando la commissione passa oltre.
+
+Inserisci una simulazione con un interlocutore non specialista. Se non comprende la struttura, potresti aver sostituito la chiarezza con gergo. Poi ripeti con un tecnico, che controlla accuratezza e profondità. I due riscontri non sono equivalenti, ma insieme mostrano se l'esposizione è leggibile e corretta.
+
+Il fascicolo finale elenca anche le incognite ancora aperte. Per ciascuna indica la fonte che dovrà scioglierla e l'effetto previsto sul piano. Così un avviso tardivo produce un aggiornamento controllato, non panico.
+
+## N-SP02-12-05 · Indicatori e ripianificazione quindicinale
+
+Ogni piano fallisce se non contiene una regola per cambiarlo. La revisione quindicinale confronta obiettivi, output e dati. Non premia la disciplina astratta: decide dove va la prossima quota di tempo.
+
+Per l'operativo usa margine minimo per modulo, ripetibilità, presenza di dolore segnalata al professionista, accuratezza e tempo ai quiz, adempimenti. Per il direttivo usa elaborati prodotti, errori tecnici per categoria, nuclei orali consegnati, copertura verificata e ritardi documentali.
+
+Definisci prima le soglie di intervento. Due rilevazioni ferme attivano una modifica; una regressione fisica accompagnata da sintomi attiva prudenza e consulto; un errore ricorrente allo scritto genera esercizio specifico. Senza regola, il diario diventa cronaca.
+
+La ripianificazione conserva il vincolo dominante. Nell'operativo non sacrifica continuità fisica per perfezionare il filtro oltre il margine. Nel direttivo non sostituisce elaborati con lettura passiva. Può cambiare quantità, sequenza, supporto o materiale, ma deve spiegare la causa.
+
+Il registro delle fonti entra nella revisione. Un avviso può cambiare calendario o modalità e rendere obsoleto un blocco. Ogni modifica normativa viene tradotta in effetti; non basta aggiornare la cifra.
+
+### Verbale di revisione in dieci minuti
+
+Scrivi data, indicatori, scostamento e una sola decisione principale per binario. Nell'operativo può essere proteggere il recupero o aumentare la frequenza di un modulo; nel direttivo può essere anticipare gli elaborati o restringere un'area. Troppe modifiche simultanee impediscono di capire quale ha funzionato.
+
+Confronta la decisione precedente con il risultato. Se non ha prodotto effetto, verifica se è stata applicata e se l'indicatore era adeguato. Non aumentare automaticamente l'intensità. A volte il problema è tecnico, logistico o di correzione, non di impegno.
+
+Chiudi il verbale con il prossimo controllo e l'evento ufficiale da monitorare. Conserva le versioni: la sequenza mostra se il piano reagisce ai dati o oscilla con l'umore. Dopo novanta giorni, questa cronologia è il materiale principale per progettare il ciclo successivo.
+
+Il verbale contiene anche un controllo delle risorse: accesso a piscina o spazi, correttore tecnico, tempo di lavoro, spostamenti, riposo. Un indicatore fermo può dipendere da un vincolo che il piano non ha riconosciuto. In quel caso la soluzione non è aumentare la volontà, ma ridisegnare l'ambiente o l'obiettivo.
+
+Usa una matrice impatto-costo per scegliere la modifica. Prima vengono azioni ad alto impatto e costo sostenibile; poi quelle necessarie ma onerose. Le attività comode e poco utili vengono tagliate. Nel binario operativo la sicurezza resta un vincolo non negoziabile; nel direttivo lo resta la correttezza tecnica.
+
+Ogni quarto verbale esegui un controllo di direzione: la procedura scelta è ancora accessibile e desiderata? Una variazione del bando o della situazione personale può rendere razionale fermarsi. La pianificazione serve anche a riconoscere presto un no-go, non soltanto a perseverare.
+
+Chiudi con una previsione verificabile per le due settimane successive. Alla revisione seguente non giudichi la persona: confronti previsione e risultato, impari e correggi.
+
+Prevedi un indicatore di sovraccarico: sedute saltate, qualità in calo, errori di attenzione o recupero insufficiente. Non usarlo per formulare diagnosi, ma come segnale per ridurre, consultare chi ti segue e ristabilire sostenibilità. Un piano che ignora il limite personale smette di essere operativo.
+
+Confronta infine gli indicatori con la data della prova. Lo stesso margine richiede decisioni diverse a novanta o a dieci giorni. Scrivi il tempo residuo accanto alla criticità e scegli soltanto correzioni che possono produrre effetto in quella finestra.
+
+### Caso guidato: quaranta ore, nessun output
+
+Giulia registra quaranta ore di studio direttivo, ma non ha scritto un elaborato. Paolo migliora i quiz operativi mentre il suo modulo acquatico resta instabile. Entrambi sembrano diligenti e stanno evitando la prova dominante. La revisione sostituisce ore con output: Giulia programma due produzioni; Paolo riduce i quiz e lavora in sicurezza sul modulo fragile.
+
+## ▣ Verifica 07.A · Quiz ragionati
+
+1. Il primo mese operativo parte dal massimale? A. Sì; B. No, da requisiti e baseline; C. Solo dal quiz; D. Dal viaggio.
+
+   **Risposta corretta: B.** Prima si misura in sicurezza e si individua la soglia a rischio. Le altre opzioni misurano attività o preferenze, non l'output e il vincolo che governano questa fase.
+
+2. Una media alta compensa un modulo sotto soglia? A. Sempre; B. No; C. Solo in piscina; D. Solo con titoli.
+
+   **Risposta corretta: B.** Conta il regime specifico di superamento di ogni modulo. Le altre opzioni misurano attività o preferenze, non l'output e il vincolo che governano questa fase.
+
+3. Quando si inizia a produrre per il direttivo? A. Dopo tutto il programma; B. Nel primo mese; C. Dopo l'orale; D. Mai.
+
+   **Risposta corretta: B.** La produzione precoce scopre lacune invisibili alla lettura. Le altre opzioni misurano attività o preferenze, non l'output e il vincolo che governano questa fase.
+
+4. Qual è la misura dello scritto? A. Pagine; B. Elaborati corretti; C. Evidenziatori; D. Manuali.
+
+   **Risposta corretta: B.** L'output sotto vincolo è verificabile. Le altre opzioni misurano attività o preferenze, non l'output e il vincolo che governano questa fase.
+
+5. A che serve la revisione quindicinale? A. A celebrare le ore; B. A riallocare il tempo; C. A cambiare concorso; D. A stimare i posti.
+
+   **Risposta corretta: B.** Confronta indicatori e modifica il piano. Le altre opzioni misurano attività o preferenze, non l'output e il vincolo che governano questa fase.
+
+6. Un dato nuovo cambia solo il registro? A. Sì; B. No, anche le attività a valle; C. Solo il titolo; D. Mai.
+
+   **Risposta corretta: B.** Calendario, documenti e simulazioni possono dipenderne. Le altre opzioni misurano attività o preferenze, non l'output e il vincolo che governano questa fase.
+
+## In sintesi
+
+Il ciclo 30/60/90 misura, costruisce e simula. I due binari usano indicatori diversi ma la stessa disciplina: output reali, revisione quindicinale e priorità alla prova dominante.

@@ -1,0 +1,4942 @@
+{
+  "pdf": "vol-06-release-20261003-proof.pdf",
+  "sha256": "2b3391c9f83856c5444a36efe542aeac180521f78e91309203375d02482dd15a",
+  "pages": [
+    {
+      "page": 1,
+      "review": "pixel identici alla pagina 1 della prova precedente già vista",
+      "words": 106,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Layout leggibile; dipendenza editoriale del front matter ancora aperta"
+    },
+    {
+      "page": 2,
+      "review": "pixel identici alla pagina 2 della prova precedente già vista",
+      "words": 34,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 3,
+      "review": "pixel identici alla pagina 3 della prova precedente già vista",
+      "words": 94,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Layout leggibile; dipendenza editoriale del front matter ancora aperta"
+    },
+    {
+      "page": 4,
+      "review": "pixel identici alla pagina 4 della prova precedente già vista",
+      "words": 54,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 5,
+      "review": "pixel identici alla pagina 5 della prova precedente già vista",
+      "words": 90,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 6,
+      "review": "pixel identici alla pagina 6 della prova precedente già vista",
+      "words": 213,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 7,
+      "review": "pixel identici alla pagina 7 della prova precedente già vista",
+      "words": 198,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 8,
+      "review": "pixel identici alla pagina 8 della prova precedente già vista",
+      "words": 98,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 9,
+      "review": "pixel identici alla pagina 9 della prova precedente già vista",
+      "words": 247,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 10,
+      "review": "pixel identici alla pagina 10 della prova precedente già vista",
+      "words": 306,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 11,
+      "review": "pixel identici alla pagina 11 della prova precedente già vista",
+      "words": 387,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 12,
+      "review": "pixel identici alla pagina 12 della prova precedente già vista",
+      "words": 194,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 13,
+      "review": "pixel identici alla pagina 13 della prova precedente già vista",
+      "words": 298,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 14,
+      "review": "pixel identici alla pagina 14 della prova precedente già vista",
+      "words": 314,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 15,
+      "review": "pixel identici alla pagina 15 della prova precedente già vista",
+      "words": 340,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 16,
+      "review": "pixel identici alla pagina 16 della prova precedente già vista",
+      "words": 304,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 17,
+      "review": "pixel identici alla pagina 17 della prova precedente già vista",
+      "words": 361,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 18,
+      "review": "pixel identici alla pagina 18 della prova precedente già vista",
+      "words": 376,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 19,
+      "review": "pixel identici alla pagina 19 della prova precedente già vista",
+      "words": 361,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 20,
+      "review": "pixel identici alla pagina 20 della prova precedente già vista",
+      "words": 154,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 21,
+      "review": "pixel identici alla pagina 21 della prova precedente già vista",
+      "words": 117,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 22,
+      "review": "pixel identici alla pagina 22 della prova precedente già vista",
+      "words": 311,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 23,
+      "review": "pixel identici alla pagina 23 della prova precedente già vista",
+      "words": 303,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 24,
+      "review": "pixel identici alla pagina 24 della prova precedente già vista",
+      "words": 383,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 25,
+      "review": "pixel identici alla pagina 25 della prova precedente già vista",
+      "words": 384,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 26,
+      "review": "pixel identici alla pagina 26 della prova precedente già vista",
+      "words": 361,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 27,
+      "review": "pixel identici alla pagina 27 della prova precedente già vista",
+      "words": 358,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 28,
+      "review": "pixel identici alla pagina 28 della prova precedente già vista",
+      "words": 374,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 29,
+      "review": "pixel identici alla pagina 29 della prova precedente già vista",
+      "words": 141,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 30,
+      "review": "pixel identici alla pagina 30 della prova precedente già vista",
+      "words": 104,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 31,
+      "review": "pixel identici alla pagina 31 della prova precedente già vista",
+      "words": 252,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 32,
+      "review": "pixel identici alla pagina 32 della prova precedente già vista",
+      "words": 329,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 33,
+      "review": "pixel identici alla pagina 33 della prova precedente già vista",
+      "words": 280,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 34,
+      "review": "pixel identici alla pagina 34 della prova precedente già vista",
+      "words": 385,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 35,
+      "review": "pixel identici alla pagina 35 della prova precedente già vista",
+      "words": 436,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 36,
+      "review": "pixel identici alla pagina 36 della prova precedente già vista",
+      "words": 291,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 37,
+      "review": "pixel identici alla pagina 37 della prova precedente già vista",
+      "words": 279,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 38,
+      "review": "pixel identici alla pagina 38 della prova precedente già vista",
+      "words": 116,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 39,
+      "review": "pixel identici alla pagina 39 della prova precedente già vista",
+      "words": 284,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 40,
+      "review": "pixel identici alla pagina 40 della prova precedente già vista",
+      "words": 282,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 41,
+      "review": "pixel identici alla pagina 41 della prova precedente già vista",
+      "words": 291,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 42,
+      "review": "pixel identici alla pagina 42 della prova precedente già vista",
+      "words": 346,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 43,
+      "review": "pixel identici alla pagina 43 della prova precedente già vista",
+      "words": 378,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 44,
+      "review": "pixel identici alla pagina 44 della prova precedente già vista",
+      "words": 419,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 45,
+      "review": "pixel identici alla pagina 45 della prova precedente già vista",
+      "words": 353,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 46,
+      "review": "pixel identici alla pagina 46 della prova precedente già vista",
+      "words": 262,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 47,
+      "review": "pixel identici alla pagina 47 della prova precedente già vista",
+      "words": 136,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 48,
+      "review": "pixel identici alla pagina 48 della prova precedente già vista",
+      "words": 323,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 49,
+      "review": "pixel identici alla pagina 49 della prova precedente già vista",
+      "words": 309,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 50,
+      "review": "pixel identici alla pagina 50 della prova precedente già vista",
+      "words": 358,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 51,
+      "review": "pixel identici alla pagina 51 della prova precedente già vista",
+      "words": 299,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 52,
+      "review": "pixel identici alla pagina 52 della prova precedente già vista",
+      "words": 458,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 53,
+      "review": "pixel identici alla pagina 53 della prova precedente già vista",
+      "words": 385,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 54,
+      "review": "pixel identici alla pagina 54 della prova precedente già vista",
+      "words": 315,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 55,
+      "review": "pixel identici alla pagina 55 della prova precedente già vista",
+      "words": 234,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 56,
+      "review": "pixel identici alla pagina 56 della prova precedente già vista",
+      "words": 116,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 57,
+      "review": "pixel identici alla pagina 57 della prova precedente già vista",
+      "words": 50,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 58,
+      "review": "pixel identici alla pagina 58 della prova precedente già vista",
+      "words": 307,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 59,
+      "review": "pixel identici alla pagina 59 della prova precedente già vista",
+      "words": 268,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 60,
+      "review": "pixel identici alla pagina 60 della prova precedente già vista",
+      "words": 414,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 61,
+      "review": "pixel identici alla pagina 61 della prova precedente già vista",
+      "words": 364,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 62,
+      "review": "pixel identici alla pagina 62 della prova precedente già vista",
+      "words": 327,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 63,
+      "review": "pixel identici alla pagina 63 della prova precedente già vista",
+      "words": 360,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 64,
+      "review": "pixel identici alla pagina 64 della prova precedente già vista",
+      "words": 296,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 65,
+      "review": "pixel identici alla pagina 65 della prova precedente già vista",
+      "words": 289,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 66,
+      "review": "pixel identici alla pagina 66 della prova precedente già vista",
+      "words": 147,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 67,
+      "review": "pixel identici alla pagina 67 della prova precedente già vista",
+      "words": 96,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 68,
+      "review": "pixel identici alla pagina 68 della prova precedente già vista",
+      "words": 304,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 69,
+      "review": "pixel identici alla pagina 69 della prova precedente già vista",
+      "words": 316,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 70,
+      "review": "pixel identici alla pagina 70 della prova precedente già vista",
+      "words": 354,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 71,
+      "review": "pixel identici alla pagina 71 della prova precedente già vista",
+      "words": 330,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 72,
+      "review": "pixel identici alla pagina 72 della prova precedente già vista",
+      "words": 451,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 73,
+      "review": "pixel identici alla pagina 73 della prova precedente già vista",
+      "words": 285,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 74,
+      "review": "pixel identici alla pagina 74 della prova precedente già vista",
+      "words": 366,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 75,
+      "review": "pixel identici alla pagina 75 della prova precedente già vista",
+      "words": 202,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 76,
+      "review": "pixel identici alla pagina 76 della prova precedente già vista",
+      "words": 99,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 77,
+      "review": "pixel identici alla pagina 77 della prova precedente già vista",
+      "words": 279,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 78,
+      "review": "pixel identici alla pagina 78 della prova precedente già vista",
+      "words": 348,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 79,
+      "review": "pixel identici alla pagina 79 della prova precedente già vista",
+      "words": 376,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 80,
+      "review": "pixel identici alla pagina 80 della prova precedente già vista",
+      "words": 297,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 81,
+      "review": "pixel identici alla pagina 81 della prova precedente già vista",
+      "words": 428,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 82,
+      "review": "pixel identici alla pagina 82 della prova precedente già vista",
+      "words": 319,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 83,
+      "review": "pixel identici alla pagina 83 della prova precedente già vista",
+      "words": 330,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 84,
+      "review": "pixel identici alla pagina 84 della prova precedente già vista",
+      "words": 156,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 85,
+      "review": "pixel identici alla pagina 85 della prova precedente già vista",
+      "words": 303,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 86,
+      "review": "pixel identici alla pagina 86 della prova precedente già vista",
+      "words": 338,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 87,
+      "review": "pixel identici alla pagina 87 della prova precedente già vista",
+      "words": 335,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 88,
+      "review": "pixel identici alla pagina 88 della prova precedente già vista",
+      "words": 348,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 89,
+      "review": "pixel identici alla pagina 89 della prova precedente già vista",
+      "words": 435,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 90,
+      "review": "pixel identici alla pagina 90 della prova precedente già vista",
+      "words": 334,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 91,
+      "review": "pixel identici alla pagina 91 della prova precedente già vista",
+      "words": 307,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 92,
+      "review": "pixel identici alla pagina 92 della prova precedente già vista",
+      "words": 219,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 93,
+      "review": "pixel identici alla pagina 93 della prova precedente già vista",
+      "words": 292,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 94,
+      "review": "pixel identici alla pagina 94 della prova precedente già vista",
+      "words": 304,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 95,
+      "review": "pixel identici alla pagina 95 della prova precedente già vista",
+      "words": 360,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 96,
+      "review": "pixel identici alla pagina 96 della prova precedente già vista",
+      "words": 310,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 97,
+      "review": "pixel identici alla pagina 97 della prova precedente già vista",
+      "words": 340,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 98,
+      "review": "pixel identici alla pagina 98 della prova precedente già vista",
+      "words": 383,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 99,
+      "review": "pixel identici alla pagina 99 della prova precedente già vista",
+      "words": 405,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 100,
+      "review": "pixel identici alla pagina 100 della prova precedente già vista",
+      "words": 469,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 101,
+      "review": "pixel identici alla pagina 101 della prova precedente già vista",
+      "words": 291,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 102,
+      "review": "pixel identici alla pagina 102 della prova precedente già vista",
+      "words": 372,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 103,
+      "review": "pixel identici alla pagina 103 della prova precedente già vista",
+      "words": 198,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 104,
+      "review": "pixel identici alla pagina 104 della prova precedente già vista",
+      "words": 292,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 105,
+      "review": "pixel identici alla pagina 105 della prova precedente già vista",
+      "words": 330,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 106,
+      "review": "pixel identici alla pagina 106 della prova precedente già vista",
+      "words": 325,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 107,
+      "review": "pixel identici alla pagina 107 della prova precedente già vista",
+      "words": 373,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 108,
+      "review": "pixel identici alla pagina 108 della prova precedente già vista",
+      "words": 284,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 109,
+      "review": "pixel identici alla pagina 109 della prova precedente già vista",
+      "words": 292,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 110,
+      "review": "pixel identici alla pagina 110 della prova precedente già vista",
+      "words": 238,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 111,
+      "review": "pixel identici alla pagina 111 della prova precedente già vista",
+      "words": 71,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 112,
+      "review": "pixel identici alla pagina 112 della prova precedente già vista",
+      "words": 294,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 113,
+      "review": "pixel identici alla pagina 113 della prova precedente già vista",
+      "words": 338,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 114,
+      "review": "pixel identici alla pagina 114 della prova precedente già vista",
+      "words": 285,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 115,
+      "review": "pixel identici alla pagina 115 della prova precedente già vista",
+      "words": 277,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 116,
+      "review": "pixel identici alla pagina 116 della prova precedente già vista",
+      "words": 365,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 117,
+      "review": "pixel identici alla pagina 117 della prova precedente già vista",
+      "words": 338,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 118,
+      "review": "pixel identici alla pagina 118 della prova precedente già vista",
+      "words": 329,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 119,
+      "review": "pixel identici alla pagina 119 della prova precedente già vista",
+      "words": 265,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 120,
+      "review": "pixel identici alla pagina 120 della prova precedente già vista",
+      "words": 246,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 121,
+      "review": "pixel identici alla pagina 121 della prova precedente già vista",
+      "words": 99,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 122,
+      "review": "pixel identici alla pagina 122 della prova precedente già vista",
+      "words": 92,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 123,
+      "review": "pixel identici alla pagina 123 della prova precedente già vista",
+      "words": 441,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 124,
+      "review": "pixel identici alla pagina 124 della prova precedente già vista",
+      "words": 467,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 125,
+      "review": "pixel identici alla pagina 125 della prova precedente già vista",
+      "words": 464,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 126,
+      "review": "pixel identici alla pagina 126 della prova precedente già vista",
+      "words": 450,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 127,
+      "review": "pixel identici alla pagina 127 della prova precedente già vista",
+      "words": 455,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 128,
+      "review": "pixel identici alla pagina 128 della prova precedente già vista",
+      "words": 433,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 129,
+      "review": "pixel identici alla pagina 129 della prova precedente già vista",
+      "words": 504,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 130,
+      "review": "pixel identici alla pagina 130 della prova precedente già vista",
+      "words": 423,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 131,
+      "review": "pixel identici alla pagina 131 della prova precedente già vista",
+      "words": 326,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 132,
+      "review": "pixel identici alla pagina 132 della prova precedente già vista",
+      "words": 356,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 133,
+      "review": "pixel identici alla pagina 133 della prova precedente già vista",
+      "words": 384,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 134,
+      "review": "pixel identici alla pagina 134 della prova precedente già vista",
+      "words": 479,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 135,
+      "review": "pixel identici alla pagina 135 della prova precedente già vista",
+      "words": 522,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 136,
+      "review": "pixel identici alla pagina 136 della prova precedente già vista",
+      "words": 311,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 137,
+      "review": "pixel identici alla pagina 137 della prova precedente già vista",
+      "words": 434,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 138,
+      "review": "pixel identici alla pagina 138 della prova precedente già vista",
+      "words": 379,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 139,
+      "review": "pixel identici alla pagina 139 della prova precedente già vista",
+      "words": 429,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 140,
+      "review": "pixel identici alla pagina 140 della prova precedente già vista",
+      "words": 410,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 141,
+      "review": "pixel identici alla pagina 141 della prova precedente già vista",
+      "words": 454,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 142,
+      "review": "pixel identici alla pagina 142 della prova precedente già vista",
+      "words": 283,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 143,
+      "review": "pixel identici alla pagina 143 della prova precedente già vista",
+      "words": 252,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 144,
+      "review": "pixel identici alla pagina 144 della prova precedente già vista",
+      "words": 434,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 145,
+      "review": "pixel identici alla pagina 145 della prova precedente già vista",
+      "words": 440,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 146,
+      "review": "pixel identici alla pagina 146 della prova precedente già vista",
+      "words": 420,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 147,
+      "review": "pixel identici alla pagina 147 della prova precedente già vista",
+      "words": 478,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 148,
+      "review": "pixel identici alla pagina 148 della prova precedente già vista",
+      "words": 405,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 149,
+      "review": "pixel identici alla pagina 149 della prova precedente già vista",
+      "words": 432,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 150,
+      "review": "pixel identici alla pagina 150 della prova precedente già vista",
+      "words": 478,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 151,
+      "review": "pixel identici alla pagina 151 della prova precedente già vista",
+      "words": 469,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 152,
+      "review": "pixel identici alla pagina 152 della prova precedente già vista",
+      "words": 459,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 153,
+      "review": "pixel identici alla pagina 153 della prova precedente già vista",
+      "words": 405,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 154,
+      "review": "pixel identici alla pagina 154 della prova precedente già vista",
+      "words": 334,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 155,
+      "review": "pixel identici alla pagina 155 della prova precedente già vista",
+      "words": 247,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 156,
+      "review": "pixel identici alla pagina 156 della prova precedente già vista",
+      "words": 378,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 157,
+      "review": "pixel identici alla pagina 157 della prova precedente già vista",
+      "words": 396,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 158,
+      "review": "pixel identici alla pagina 158 della prova precedente già vista",
+      "words": 310,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 159,
+      "review": "pixel identici alla pagina 159 della prova precedente già vista",
+      "words": 447,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 160,
+      "review": "pixel identici alla pagina 160 della prova precedente già vista",
+      "words": 483,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 161,
+      "review": "pixel identici alla pagina 161 della prova precedente già vista",
+      "words": 516,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 162,
+      "review": "pixel identici alla pagina 162 della prova precedente già vista",
+      "words": 436,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 163,
+      "review": "pixel identici alla pagina 163 della prova precedente già vista",
+      "words": 472,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 164,
+      "review": "pixel identici alla pagina 164 della prova precedente già vista",
+      "words": 509,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 165,
+      "review": "pixel identici alla pagina 165 della prova precedente già vista",
+      "words": 363,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 166,
+      "review": "pixel identici alla pagina 166 della prova precedente già vista",
+      "words": 337,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 167,
+      "review": "pixel identici alla pagina 167 della prova precedente già vista",
+      "words": 163,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 168,
+      "review": "pixel identici alla pagina 168 della prova precedente già vista",
+      "words": 417,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 169,
+      "review": "pixel identici alla pagina 169 della prova precedente già vista",
+      "words": 444,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 170,
+      "review": "pixel identici alla pagina 170 della prova precedente già vista",
+      "words": 464,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 171,
+      "review": "pixel identici alla pagina 171 della prova precedente già vista",
+      "words": 395,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 172,
+      "review": "pixel identici alla pagina 172 della prova precedente già vista",
+      "words": 476,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 173,
+      "review": "pixel identici alla pagina 173 della prova precedente già vista",
+      "words": 462,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 174,
+      "review": "pixel identici alla pagina 174 della prova precedente già vista",
+      "words": 446,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 175,
+      "review": "pixel identici alla pagina 175 della prova precedente già vista",
+      "words": 389,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 176,
+      "review": "pixel identici alla pagina 176 della prova precedente già vista",
+      "words": 306,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 177,
+      "review": "pixel identici alla pagina 177 della prova precedente già vista",
+      "words": 178,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 178,
+      "review": "pixel identici alla pagina 178 della prova precedente già vista",
+      "words": 451,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 179,
+      "review": "pixel identici alla pagina 179 della prova precedente già vista",
+      "words": 461,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 180,
+      "review": "pixel identici alla pagina 180 della prova precedente già vista",
+      "words": 431,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 181,
+      "review": "pixel identici alla pagina 181 della prova precedente già vista",
+      "words": 415,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 182,
+      "review": "pixel identici alla pagina 182 della prova precedente già vista",
+      "words": 423,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 183,
+      "review": "pixel identici alla pagina 183 della prova precedente già vista",
+      "words": 435,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 184,
+      "review": "pixel identici alla pagina 184 della prova precedente già vista",
+      "words": 451,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 185,
+      "review": "pixel identici alla pagina 185 della prova precedente già vista",
+      "words": 485,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 186,
+      "review": "pixel identici alla pagina 186 della prova precedente già vista",
+      "words": 462,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 187,
+      "review": "pixel identici alla pagina 187 della prova precedente già vista",
+      "words": 411,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 188,
+      "review": "pixel identici alla pagina 188 della prova precedente già vista",
+      "words": 292,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 189,
+      "review": "pixel identici alla pagina 189 della prova precedente già vista",
+      "words": 283,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 190,
+      "review": "pixel identici alla pagina 190 della prova precedente già vista",
+      "words": 409,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 191,
+      "review": "pixel identici alla pagina 191 della prova precedente già vista",
+      "words": 442,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 192,
+      "review": "pixel identici alla pagina 192 della prova precedente già vista",
+      "words": 443,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 193,
+      "review": "pixel identici alla pagina 193 della prova precedente già vista",
+      "words": 430,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 194,
+      "review": "pixel identici alla pagina 194 della prova precedente già vista",
+      "words": 311,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 195,
+      "review": "pixel identici alla pagina 195 della prova precedente già vista",
+      "words": 504,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 196,
+      "review": "pixel identici alla pagina 196 della prova precedente già vista",
+      "words": 434,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 197,
+      "review": "pixel identici alla pagina 197 della prova precedente già vista",
+      "words": 440,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 198,
+      "review": "pixel identici alla pagina 198 della prova precedente già vista",
+      "words": 416,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 199,
+      "review": "pixel identici alla pagina 199 della prova precedente già vista",
+      "words": 275,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 200,
+      "review": "pixel identici alla pagina 200 della prova precedente già vista",
+      "words": 258,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 201,
+      "review": "pixel identici alla pagina 201 della prova precedente già vista",
+      "words": 454,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 202,
+      "review": "pixel identici alla pagina 202 della prova precedente già vista",
+      "words": 459,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 203,
+      "review": "pixel identici alla pagina 203 della prova precedente già vista",
+      "words": 465,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 204,
+      "review": "pixel identici alla pagina 204 della prova precedente già vista",
+      "words": 476,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 205,
+      "review": "pixel identici alla pagina 205 della prova precedente già vista",
+      "words": 454,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 206,
+      "review": "pixel identici alla pagina 206 della prova precedente già vista",
+      "words": 457,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 207,
+      "review": "pixel identici alla pagina 207 della prova precedente già vista",
+      "words": 471,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 208,
+      "review": "pixel identici alla pagina 208 della prova precedente già vista",
+      "words": 409,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 209,
+      "review": "pixel identici alla pagina 209 della prova precedente già vista",
+      "words": 329,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 210,
+      "review": "pixel identici alla pagina 210 della prova precedente già vista",
+      "words": 125,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 211,
+      "review": "pixel identici alla pagina 211 della prova precedente già vista",
+      "words": 384,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 212,
+      "review": "pixel identici alla pagina 212 della prova precedente già vista",
+      "words": 207,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 213,
+      "review": "pixel identici alla pagina 213 della prova precedente già vista",
+      "words": 298,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 214,
+      "review": "pixel identici alla pagina 214 della prova precedente già vista",
+      "words": 459,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 215,
+      "review": "pixel identici alla pagina 215 della prova precedente già vista",
+      "words": 459,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 216,
+      "review": "pixel identici alla pagina 216 della prova precedente già vista",
+      "words": 465,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 217,
+      "review": "pixel identici alla pagina 217 della prova precedente già vista",
+      "words": 437,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 218,
+      "review": "pixel identici alla pagina 218 della prova precedente già vista",
+      "words": 466,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 219,
+      "review": "pixel identici alla pagina 219 della prova precedente già vista",
+      "words": 415,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 220,
+      "review": "pixel identici alla pagina 220 della prova precedente già vista",
+      "words": 447,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 221,
+      "review": "pixel identici alla pagina 221 della prova precedente già vista",
+      "words": 338,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 222,
+      "review": "pixel identici alla pagina 222 della prova precedente già vista",
+      "words": 393,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 223,
+      "review": "pixel identici alla pagina 223 della prova precedente già vista",
+      "words": 472,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 224,
+      "review": "pixel identici alla pagina 224 della prova precedente già vista",
+      "words": 326,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 225,
+      "review": "pixel identici alla pagina 225 della prova precedente già vista",
+      "words": 285,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 226,
+      "review": "pixel identici alla pagina 226 della prova precedente già vista",
+      "words": 308,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 227,
+      "review": "pixel identici alla pagina 227 della prova precedente già vista",
+      "words": 287,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 228,
+      "review": "pixel identici alla pagina 228 della prova precedente già vista",
+      "words": 292,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 229,
+      "review": "pixel identici alla pagina 229 della prova precedente già vista",
+      "words": 283,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 230,
+      "review": "pixel identici alla pagina 230 della prova precedente già vista",
+      "words": 433,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 231,
+      "review": "pixel identici alla pagina 231 della prova precedente già vista",
+      "words": 442,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 232,
+      "review": "pixel identici alla pagina 232 della prova precedente già vista",
+      "words": 464,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 233,
+      "review": "pixel identici alla pagina 233 della prova precedente già vista",
+      "words": 392,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 234,
+      "review": "pixel identici alla pagina 234 della prova precedente già vista",
+      "words": 413,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 235,
+      "review": "pixel identici alla pagina 235 della prova precedente già vista",
+      "words": 413,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 236,
+      "review": "pixel identici alla pagina 236 della prova precedente già vista",
+      "words": 427,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 237,
+      "review": "pixel identici alla pagina 237 della prova precedente già vista",
+      "words": 447,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 238,
+      "review": "pixel identici alla pagina 238 della prova precedente già vista",
+      "words": 453,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 239,
+      "review": "pixel identici alla pagina 239 della prova precedente già vista",
+      "words": 427,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 240,
+      "review": "pixel identici alla pagina 240 della prova precedente già vista",
+      "words": 313,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 241,
+      "review": "pixel identici alla pagina 241 della prova precedente già vista",
+      "words": 286,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 242,
+      "review": "pixel identici alla pagina 242 della prova precedente già vista",
+      "words": 329,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 243,
+      "review": "pixel identici alla pagina 243 della prova precedente già vista",
+      "words": 330,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 244,
+      "review": "pixel identici alla pagina 244 della prova precedente già vista",
+      "words": 281,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 245,
+      "review": "pixel identici alla pagina 245 della prova precedente già vista",
+      "words": 431,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 246,
+      "review": "pixel identici alla pagina 246 della prova precedente già vista",
+      "words": 424,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 247,
+      "review": "pixel identici alla pagina 247 della prova precedente già vista",
+      "words": 439,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 248,
+      "review": "pixel identici alla pagina 248 della prova precedente già vista",
+      "words": 275,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 249,
+      "review": "pixel identici alla pagina 249 della prova precedente già vista",
+      "words": 440,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 250,
+      "review": "pixel identici alla pagina 250 della prova precedente già vista",
+      "words": 407,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 251,
+      "review": "pixel identici alla pagina 251 della prova precedente già vista",
+      "words": 382,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 252,
+      "review": "pixel identici alla pagina 252 della prova precedente già vista",
+      "words": 456,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 253,
+      "review": "pixel identici alla pagina 253 della prova precedente già vista",
+      "words": 378,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 254,
+      "review": "pixel identici alla pagina 254 della prova precedente già vista",
+      "words": 421,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 255,
+      "review": "pixel identici alla pagina 255 della prova precedente già vista",
+      "words": 397,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 256,
+      "review": "pixel identici alla pagina 256 della prova precedente già vista",
+      "words": 302,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 257,
+      "review": "pixel identici alla pagina 257 della prova precedente già vista",
+      "words": 230,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 258,
+      "review": "pixel identici alla pagina 258 della prova precedente già vista",
+      "words": 254,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 259,
+      "review": "pixel identici alla pagina 259 della prova precedente già vista",
+      "words": 98,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 260,
+      "review": "pixel identici alla pagina 260 della prova precedente già vista",
+      "words": 256,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 261,
+      "review": "pixel identici alla pagina 261 della prova precedente già vista",
+      "words": 446,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 262,
+      "review": "pixel identici alla pagina 262 della prova precedente già vista",
+      "words": 466,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 263,
+      "review": "pixel identici alla pagina 263 della prova precedente già vista",
+      "words": 435,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 264,
+      "review": "pixel identici alla pagina 264 della prova precedente già vista",
+      "words": 446,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 265,
+      "review": "pixel identici alla pagina 265 della prova precedente già vista",
+      "words": 467,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 266,
+      "review": "pixel identici alla pagina 266 della prova precedente già vista",
+      "words": 414,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 267,
+      "review": "pixel identici alla pagina 267 della prova precedente già vista",
+      "words": 424,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 268,
+      "review": "pixel identici alla pagina 268 della prova precedente già vista",
+      "words": 414,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 269,
+      "review": "pixel identici alla pagina 269 della prova precedente già vista",
+      "words": 418,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 270,
+      "review": "pixel identici alla pagina 270 della prova precedente già vista",
+      "words": 348,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 271,
+      "review": "pixel identici alla pagina 271 della prova precedente già vista",
+      "words": 359,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 272,
+      "review": "panoramica corrente",
+      "words": 376,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 273,
+      "review": "pixel identici alla pagina 273 della prova precedente già vista",
+      "words": 105,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 274,
+      "review": "pixel identici alla pagina 274 della prova precedente già vista",
+      "words": 415,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 275,
+      "review": "pixel identici alla pagina 275 della prova precedente già vista",
+      "words": 444,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 276,
+      "review": "pixel identici alla pagina 276 della prova precedente già vista",
+      "words": 481,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 277,
+      "review": "pixel identici alla pagina 277 della prova precedente già vista",
+      "words": 464,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 278,
+      "review": "pixel identici alla pagina 278 della prova precedente già vista",
+      "words": 486,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 279,
+      "review": "pixel identici alla pagina 279 della prova precedente già vista",
+      "words": 472,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 280,
+      "review": "pixel identici alla pagina 280 della prova precedente già vista",
+      "words": 423,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 281,
+      "review": "pixel identici alla pagina 281 della prova precedente già vista",
+      "words": 462,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 282,
+      "review": "pixel identici alla pagina 282 della prova precedente già vista",
+      "words": 469,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 283,
+      "review": "pixel identici alla pagina 283 della prova precedente già vista",
+      "words": 294,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 284,
+      "review": "pixel identici alla pagina 284 della prova precedente già vista",
+      "words": 320,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 285,
+      "review": "pixel identici alla pagina 285 della prova precedente già vista",
+      "words": 233,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 286,
+      "review": "pixel identici alla pagina 286 della prova precedente già vista",
+      "words": 395,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 287,
+      "review": "pixel identici alla pagina 287 della prova precedente già vista",
+      "words": 422,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 288,
+      "review": "pixel identici alla pagina 288 della prova precedente già vista",
+      "words": 470,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 289,
+      "review": "pixel identici alla pagina 289 della prova precedente già vista",
+      "words": 520,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 290,
+      "review": "pixel identici alla pagina 290 della prova precedente già vista",
+      "words": 445,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 291,
+      "review": "pixel identici alla pagina 291 della prova precedente già vista",
+      "words": 325,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 292,
+      "review": "pixel identici alla pagina 292 della prova precedente già vista",
+      "words": 404,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 293,
+      "review": "pixel identici alla pagina 293 della prova precedente già vista",
+      "words": 461,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 294,
+      "review": "pixel identici alla pagina 294 della prova precedente già vista",
+      "words": 462,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 295,
+      "review": "pixel identici alla pagina 295 della prova precedente già vista",
+      "words": 482,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 296,
+      "review": "pixel identici alla pagina 296 della prova precedente già vista",
+      "words": 474,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 297,
+      "review": "pixel identici alla pagina 297 della prova precedente già vista",
+      "words": 399,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 298,
+      "review": "pixel identici alla pagina 298 della prova precedente già vista",
+      "words": 231,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 299,
+      "review": "pixel identici alla pagina 299 della prova precedente già vista",
+      "words": 207,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 300,
+      "review": "pixel identici alla pagina 300 della prova precedente già vista",
+      "words": 263,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 301,
+      "review": "pixel identici alla pagina 301 della prova precedente già vista",
+      "words": 446,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 302,
+      "review": "pixel identici alla pagina 302 della prova precedente già vista",
+      "words": 461,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 303,
+      "review": "pixel identici alla pagina 303 della prova precedente già vista",
+      "words": 425,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 304,
+      "review": "pixel identici alla pagina 304 della prova precedente già vista",
+      "words": 432,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 305,
+      "review": "pixel identici alla pagina 305 della prova precedente già vista",
+      "words": 470,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 306,
+      "review": "pixel identici alla pagina 306 della prova precedente già vista",
+      "words": 387,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 307,
+      "review": "pixel identici alla pagina 307 della prova precedente già vista",
+      "words": 419,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 308,
+      "review": "pixel identici alla pagina 308 della prova precedente già vista",
+      "words": 409,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 309,
+      "review": "pixel identici alla pagina 309 della prova precedente già vista",
+      "words": 349,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 310,
+      "review": "pixel identici alla pagina 310 della prova precedente già vista",
+      "words": 308,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 311,
+      "review": "pixel identici alla pagina 311 della prova precedente già vista",
+      "words": 396,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 312,
+      "review": "pixel identici alla pagina 312 della prova precedente già vista",
+      "words": 312,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 313,
+      "review": "pixel identici alla pagina 313 della prova precedente già vista",
+      "words": 325,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 314,
+      "review": "pixel identici alla pagina 314 della prova precedente già vista",
+      "words": 338,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 315,
+      "review": "pixel identici alla pagina 315 della prova precedente già vista",
+      "words": 474,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 316,
+      "review": "pixel identici alla pagina 316 della prova precedente già vista",
+      "words": 433,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 317,
+      "review": "pixel identici alla pagina 317 della prova precedente già vista",
+      "words": 393,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 318,
+      "review": "pixel identici alla pagina 318 della prova precedente già vista",
+      "words": 501,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 319,
+      "review": "pixel identici alla pagina 319 della prova precedente già vista",
+      "words": 446,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 320,
+      "review": "pixel identici alla pagina 320 della prova precedente già vista",
+      "words": 442,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 321,
+      "review": "pixel identici alla pagina 321 della prova precedente già vista",
+      "words": 497,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 322,
+      "review": "pixel identici alla pagina 322 della prova precedente già vista",
+      "words": 424,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 323,
+      "review": "pixel identici alla pagina 323 della prova precedente già vista",
+      "words": 489,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 324,
+      "review": "pixel identici alla pagina 324 della prova precedente già vista",
+      "words": 429,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 325,
+      "review": "pixel identici alla pagina 325 della prova precedente già vista",
+      "words": 488,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 326,
+      "review": "pixel identici alla pagina 326 della prova precedente già vista",
+      "words": 441,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 327,
+      "review": "pixel identici alla pagina 327 della prova precedente già vista",
+      "words": 293,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 328,
+      "review": "pixel identici alla pagina 328 della prova precedente già vista",
+      "words": 210,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 329,
+      "review": "pixel identici alla pagina 329 della prova precedente già vista",
+      "words": 138,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 330,
+      "review": "pixel identici alla pagina 330 della prova precedente già vista",
+      "words": 339,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 331,
+      "review": "pixel identici alla pagina 331 della prova precedente già vista",
+      "words": 348,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 332,
+      "review": "pixel identici alla pagina 332 della prova precedente già vista",
+      "words": 497,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 333,
+      "review": "pixel identici alla pagina 333 della prova precedente già vista",
+      "words": 425,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 334,
+      "review": "pixel identici alla pagina 334 della prova precedente già vista",
+      "words": 501,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 335,
+      "review": "pixel identici alla pagina 335 della prova precedente già vista",
+      "words": 426,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 336,
+      "review": "pixel identici alla pagina 336 della prova precedente già vista",
+      "words": 478,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 337,
+      "review": "pixel identici alla pagina 337 della prova precedente già vista",
+      "words": 390,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 338,
+      "review": "pixel identici alla pagina 338 della prova precedente già vista",
+      "words": 433,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 339,
+      "review": "pixel identici alla pagina 339 della prova precedente già vista",
+      "words": 281,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 340,
+      "review": "pixel identici alla pagina 340 della prova precedente già vista",
+      "words": 270,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 341,
+      "review": "pixel identici alla pagina 341 della prova precedente già vista",
+      "words": 355,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 342,
+      "review": "pixel identici alla pagina 342 della prova precedente già vista",
+      "words": 403,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 343,
+      "review": "pixel identici alla pagina 343 della prova precedente già vista",
+      "words": 457,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 344,
+      "review": "pixel identici alla pagina 344 della prova precedente già vista",
+      "words": 388,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 345,
+      "review": "pixel identici alla pagina 345 della prova precedente già vista",
+      "words": 426,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 346,
+      "review": "pixel identici alla pagina 346 della prova precedente già vista",
+      "words": 403,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 347,
+      "review": "pixel identici alla pagina 347 della prova precedente già vista",
+      "words": 455,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 348,
+      "review": "pixel identici alla pagina 348 della prova precedente già vista",
+      "words": 410,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 349,
+      "review": "pixel identici alla pagina 349 della prova precedente già vista",
+      "words": 475,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 350,
+      "review": "pixel identici alla pagina 350 della prova precedente già vista",
+      "words": 403,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 351,
+      "review": "pixel identici alla pagina 351 della prova precedente già vista",
+      "words": 281,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 352,
+      "review": "pixel identici alla pagina 352 della prova precedente già vista",
+      "words": 70,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 353,
+      "review": "pixel identici alla pagina 353 della prova precedente già vista",
+      "words": 320,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 354,
+      "review": "pixel identici alla pagina 354 della prova precedente già vista",
+      "words": 376,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 355,
+      "review": "pixel identici alla pagina 355 della prova precedente già vista",
+      "words": 462,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 356,
+      "review": "pixel identici alla pagina 356 della prova precedente già vista",
+      "words": 437,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 357,
+      "review": "pixel identici alla pagina 357 della prova precedente già vista",
+      "words": 374,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 358,
+      "review": "pixel identici alla pagina 358 della prova precedente già vista",
+      "words": 340,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 359,
+      "review": "pixel identici alla pagina 359 della prova precedente già vista",
+      "words": 444,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 360,
+      "review": "pixel identici alla pagina 360 della prova precedente già vista",
+      "words": 340,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 361,
+      "review": "pixel identici alla pagina 361 della prova precedente già vista",
+      "words": 404,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 362,
+      "review": "pixel identici alla pagina 362 della prova precedente già vista",
+      "words": 314,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 363,
+      "review": "pixel identici alla pagina 363 della prova precedente già vista",
+      "words": 221,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 364,
+      "review": "pixel identici alla pagina 364 della prova precedente già vista",
+      "words": 256,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 365,
+      "review": "pixel identici alla pagina 365 della prova precedente già vista",
+      "words": 318,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 366,
+      "review": "pixel identici alla pagina 366 della prova precedente già vista",
+      "words": 381,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 367,
+      "review": "pixel identici alla pagina 367 della prova precedente già vista",
+      "words": 431,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 368,
+      "review": "pixel identici alla pagina 368 della prova precedente già vista",
+      "words": 351,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 369,
+      "review": "pixel identici alla pagina 369 della prova precedente già vista",
+      "words": 436,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 370,
+      "review": "pixel identici alla pagina 370 della prova precedente già vista",
+      "words": 345,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 371,
+      "review": "pixel identici alla pagina 371 della prova precedente già vista",
+      "words": 358,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 372,
+      "review": "pixel identici alla pagina 372 della prova precedente già vista",
+      "words": 357,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 373,
+      "review": "pixel identici alla pagina 373 della prova precedente già vista",
+      "words": 342,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 374,
+      "review": "pixel identici alla pagina 374 della prova precedente già vista",
+      "words": 376,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 375,
+      "review": "pixel identici alla pagina 375 della prova precedente già vista",
+      "words": 253,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 376,
+      "review": "pixel identici alla pagina 376 della prova precedente già vista",
+      "words": 281,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 377,
+      "review": "pixel identici alla pagina 377 della prova precedente già vista",
+      "words": 383,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 378,
+      "review": "pixel identici alla pagina 378 della prova precedente già vista",
+      "words": 399,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 379,
+      "review": "pixel identici alla pagina 379 della prova precedente già vista",
+      "words": 440,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 380,
+      "review": "pixel identici alla pagina 380 della prova precedente già vista",
+      "words": 385,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 381,
+      "review": "pixel identici alla pagina 381 della prova precedente già vista",
+      "words": 413,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 382,
+      "review": "pixel identici alla pagina 382 della prova precedente già vista",
+      "words": 340,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 383,
+      "review": "pixel identici alla pagina 383 della prova precedente già vista",
+      "words": 435,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 384,
+      "review": "pixel identici alla pagina 384 della prova precedente già vista",
+      "words": 306,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 385,
+      "review": "pixel identici alla pagina 385 della prova precedente già vista",
+      "words": 413,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 386,
+      "review": "pixel identici alla pagina 386 della prova precedente già vista",
+      "words": 355,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 387,
+      "review": "pixel identici alla pagina 387 della prova precedente già vista",
+      "words": 382,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 388,
+      "review": "pixel identici alla pagina 388 della prova precedente già vista",
+      "words": 259,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 389,
+      "review": "pixel identici alla pagina 389 della prova precedente già vista",
+      "words": 200,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 390,
+      "review": "pixel identici alla pagina 390 della prova precedente già vista",
+      "words": 386,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 391,
+      "review": "pixel identici alla pagina 391 della prova precedente già vista",
+      "words": 339,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 392,
+      "review": "pixel identici alla pagina 392 della prova precedente già vista",
+      "words": 391,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 393,
+      "review": "pixel identici alla pagina 393 della prova precedente già vista",
+      "words": 393,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 394,
+      "review": "pixel identici alla pagina 394 della prova precedente già vista",
+      "words": 427,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 395,
+      "review": "pixel identici alla pagina 395 della prova precedente già vista",
+      "words": 359,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 396,
+      "review": "pixel identici alla pagina 396 della prova precedente già vista",
+      "words": 441,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 397,
+      "review": "pixel identici alla pagina 397 della prova precedente già vista",
+      "words": 286,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 398,
+      "review": "pixel identici alla pagina 398 della prova precedente già vista",
+      "words": 428,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 399,
+      "review": "pixel identici alla pagina 399 della prova precedente già vista",
+      "words": 322,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 400,
+      "review": "pixel identici alla pagina 400 della prova precedente già vista",
+      "words": 353,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 401,
+      "review": "pixel identici alla pagina 401 della prova precedente già vista",
+      "words": 288,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 402,
+      "review": "pixel identici alla pagina 402 della prova precedente già vista",
+      "words": 54,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 403,
+      "review": "pixel identici alla pagina 403 della prova precedente già vista",
+      "words": 344,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 404,
+      "review": "pixel identici alla pagina 404 della prova precedente già vista",
+      "words": 384,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 405,
+      "review": "pixel identici alla pagina 405 della prova precedente già vista",
+      "words": 401,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 406,
+      "review": "pixel identici alla pagina 406 della prova precedente già vista",
+      "words": 306,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 407,
+      "review": "pixel identici alla pagina 407 della prova precedente già vista",
+      "words": 495,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 408,
+      "review": "pixel identici alla pagina 408 della prova precedente già vista",
+      "words": 359,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 409,
+      "review": "pixel identici alla pagina 409 della prova precedente già vista",
+      "words": 440,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 410,
+      "review": "pixel identici alla pagina 410 della prova precedente già vista",
+      "words": 376,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 411,
+      "review": "pixel identici alla pagina 411 della prova precedente già vista",
+      "words": 449,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 412,
+      "review": "pixel identici alla pagina 412 della prova precedente già vista",
+      "words": 362,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 413,
+      "review": "pixel identici alla pagina 413 della prova precedente già vista",
+      "words": 285,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 414,
+      "review": "pixel identici alla pagina 414 della prova precedente già vista",
+      "words": 279,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 415,
+      "review": "pixel identici alla pagina 415 della prova precedente già vista",
+      "words": 61,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 416,
+      "review": "panoramica corrente",
+      "words": 365,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 417,
+      "review": "panoramica corrente",
+      "words": 337,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 418,
+      "review": "panoramica corrente",
+      "words": 472,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 419,
+      "review": "panoramica corrente",
+      "words": 335,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 420,
+      "review": "panoramica corrente",
+      "words": 448,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 421,
+      "review": "panoramica corrente",
+      "words": 327,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 422,
+      "review": "panoramica corrente",
+      "words": 486,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 423,
+      "review": "panoramica corrente",
+      "words": 330,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 424,
+      "review": "panoramica corrente",
+      "words": 414,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 425,
+      "review": "panoramica corrente",
+      "words": 331,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 426,
+      "review": "panoramica corrente",
+      "words": 470,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 427,
+      "review": "panoramica corrente",
+      "words": 259,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 428,
+      "review": "panoramica corrente",
+      "words": 165,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 429,
+      "review": "pixel identici alla pagina 429 della prova precedente già vista",
+      "words": 92,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 430,
+      "review": "panoramica corrente",
+      "words": 427,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 431,
+      "review": "pixel identici alla pagina 431 della prova precedente già vista",
+      "words": 380,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 432,
+      "review": "pixel identici alla pagina 432 della prova precedente già vista",
+      "words": 368,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 433,
+      "review": "pixel identici alla pagina 433 della prova precedente già vista",
+      "words": 332,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 434,
+      "review": "pixel identici alla pagina 434 della prova precedente già vista",
+      "words": 326,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 435,
+      "review": "pixel identici alla pagina 435 della prova precedente già vista",
+      "words": 336,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 436,
+      "review": "pixel identici alla pagina 436 della prova precedente già vista",
+      "words": 378,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 437,
+      "review": "pixel identici alla pagina 437 della prova precedente già vista",
+      "words": 356,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 438,
+      "review": "pixel identici alla pagina 438 della prova precedente già vista",
+      "words": 403,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 439,
+      "review": "pixel identici alla pagina 439 della prova precedente già vista",
+      "words": 388,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 440,
+      "review": "pixel identici alla pagina 440 della prova precedente già vista",
+      "words": 314,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 441,
+      "review": "pixel identici alla pagina 441 della prova precedente già vista",
+      "words": 240,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 442,
+      "review": "pixel identici alla pagina 442 della prova precedente già vista",
+      "words": 84,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 443,
+      "review": "pixel identici alla pagina 443 della prova precedente già vista",
+      "words": 342,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 444,
+      "review": "pixel identici alla pagina 444 della prova precedente già vista",
+      "words": 265,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 445,
+      "review": "pixel identici alla pagina 445 della prova precedente già vista",
+      "words": 383,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 446,
+      "review": "pixel identici alla pagina 446 della prova precedente già vista",
+      "words": 398,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 447,
+      "review": "pixel identici alla pagina 447 della prova precedente già vista",
+      "words": 288,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 448,
+      "review": "pixel identici alla pagina 448 della prova precedente già vista",
+      "words": 430,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 449,
+      "review": "pixel identici alla pagina 449 della prova precedente già vista",
+      "words": 309,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 450,
+      "review": "pixel identici alla pagina 450 della prova precedente già vista",
+      "words": 412,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 451,
+      "review": "pixel identici alla pagina 451 della prova precedente già vista",
+      "words": 344,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 452,
+      "review": "pixel identici alla pagina 452 della prova precedente già vista",
+      "words": 375,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 453,
+      "review": "pixel identici alla pagina 453 della prova precedente già vista",
+      "words": 318,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 454,
+      "review": "pixel identici alla pagina 454 della prova precedente già vista",
+      "words": 216,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 455,
+      "review": "pixel identici alla pagina 455 della prova precedente già vista",
+      "words": 148,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 456,
+      "review": "pixel identici alla pagina 456 della prova precedente già vista",
+      "words": 383,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 457,
+      "review": "pixel identici alla pagina 457 della prova precedente già vista",
+      "words": 154,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 458,
+      "review": "pixel identici alla pagina 458 della prova precedente già vista",
+      "words": 472,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 459,
+      "review": "pixel identici alla pagina 459 della prova precedente già vista",
+      "words": 359,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 460,
+      "review": "pixel identici alla pagina 460 della prova precedente già vista",
+      "words": 491,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 461,
+      "review": "pixel identici alla pagina 461 della prova precedente già vista",
+      "words": 422,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 462,
+      "review": "pixel identici alla pagina 462 della prova precedente già vista",
+      "words": 454,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 463,
+      "review": "pixel identici alla pagina 463 della prova precedente già vista",
+      "words": 459,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 464,
+      "review": "pixel identici alla pagina 464 della prova precedente già vista",
+      "words": 482,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 465,
+      "review": "pixel identici alla pagina 465 della prova precedente già vista",
+      "words": 404,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 466,
+      "review": "pixel identici alla pagina 466 della prova precedente già vista",
+      "words": 452,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 467,
+      "review": "pixel identici alla pagina 467 della prova precedente già vista",
+      "words": 345,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 468,
+      "review": "pixel identici alla pagina 468 della prova precedente già vista",
+      "words": 265,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 469,
+      "review": "pixel identici alla pagina 469 della prova precedente già vista",
+      "words": 185,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 470,
+      "review": "pixel identici alla pagina 470 della prova precedente già vista",
+      "words": 333,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 471,
+      "review": "pixel identici alla pagina 471 della prova precedente già vista",
+      "words": 295,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 472,
+      "review": "pixel identici alla pagina 472 della prova precedente già vista",
+      "words": 503,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 473,
+      "review": "pixel identici alla pagina 473 della prova precedente già vista",
+      "words": 446,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 474,
+      "review": "pixel identici alla pagina 474 della prova precedente già vista",
+      "words": 502,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 475,
+      "review": "pixel identici alla pagina 475 della prova precedente già vista",
+      "words": 503,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 476,
+      "review": "pixel identici alla pagina 476 della prova precedente già vista",
+      "words": 448,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 477,
+      "review": "pixel identici alla pagina 477 della prova precedente già vista",
+      "words": 431,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 478,
+      "review": "pixel identici alla pagina 478 della prova precedente già vista",
+      "words": 493,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 479,
+      "review": "pixel identici alla pagina 479 della prova precedente già vista",
+      "words": 393,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 480,
+      "review": "pixel identici alla pagina 480 della prova precedente già vista",
+      "words": 338,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 481,
+      "review": "pixel identici alla pagina 481 della prova precedente già vista",
+      "words": 216,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 482,
+      "review": "pixel identici alla pagina 482 della prova precedente già vista",
+      "words": 269,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 483,
+      "review": "pixel identici alla pagina 483 della prova precedente già vista",
+      "words": 88,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 484,
+      "review": "pixel identici alla pagina 484 della prova precedente già vista",
+      "words": 326,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 485,
+      "review": "pixel identici alla pagina 485 della prova precedente già vista",
+      "words": 289,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 486,
+      "review": "pixel identici alla pagina 486 della prova precedente già vista",
+      "words": 376,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 487,
+      "review": "pixel identici alla pagina 487 della prova precedente già vista",
+      "words": 459,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 488,
+      "review": "pixel identici alla pagina 488 della prova precedente già vista",
+      "words": 432,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 489,
+      "review": "pixel identici alla pagina 489 della prova precedente già vista",
+      "words": 471,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 490,
+      "review": "pixel identici alla pagina 490 della prova precedente già vista",
+      "words": 390,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 491,
+      "review": "pixel identici alla pagina 491 della prova precedente già vista",
+      "words": 368,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 492,
+      "review": "pixel identici alla pagina 492 della prova precedente già vista",
+      "words": 446,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 493,
+      "review": "pixel identici alla pagina 493 della prova precedente già vista",
+      "words": 426,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 494,
+      "review": "pixel identici alla pagina 494 della prova precedente già vista",
+      "words": 465,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 495,
+      "review": "pixel identici alla pagina 495 della prova precedente già vista",
+      "words": 451,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 496,
+      "review": "pixel identici alla pagina 496 della prova precedente già vista",
+      "words": 417,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 497,
+      "review": "pixel identici alla pagina 497 della prova precedente già vista",
+      "words": 368,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 498,
+      "review": "pixel identici alla pagina 498 della prova precedente già vista",
+      "words": 257,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 499,
+      "review": "pixel identici alla pagina 499 della prova precedente già vista",
+      "words": 101,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 500,
+      "review": "pixel identici alla pagina 500 della prova precedente già vista",
+      "words": 303,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 501,
+      "review": "pixel identici alla pagina 501 della prova precedente già vista",
+      "words": 318,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 502,
+      "review": "pixel identici alla pagina 502 della prova precedente già vista",
+      "words": 493,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 503,
+      "review": "pixel identici alla pagina 503 della prova precedente già vista",
+      "words": 439,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 504,
+      "review": "pixel identici alla pagina 504 della prova precedente già vista",
+      "words": 461,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 505,
+      "review": "pixel identici alla pagina 505 della prova precedente già vista",
+      "words": 435,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 506,
+      "review": "pixel identici alla pagina 506 della prova precedente già vista",
+      "words": 446,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 507,
+      "review": "pixel identici alla pagina 507 della prova precedente già vista",
+      "words": 456,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 508,
+      "review": "pixel identici alla pagina 508 della prova precedente già vista",
+      "words": 461,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 509,
+      "review": "pixel identici alla pagina 509 della prova precedente già vista",
+      "words": 403,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 510,
+      "review": "pixel identici alla pagina 510 della prova precedente già vista",
+      "words": 387,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 511,
+      "review": "pixel identici alla pagina 511 della prova precedente già vista",
+      "words": 287,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 512,
+      "review": "pixel identici alla pagina 512 della prova precedente già vista",
+      "words": 297,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 513,
+      "review": "pixel identici alla pagina 513 della prova precedente già vista",
+      "words": 298,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 514,
+      "review": "pixel identici alla pagina 514 della prova precedente già vista",
+      "words": 310,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 515,
+      "review": "pixel identici alla pagina 515 della prova precedente già vista",
+      "words": 462,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 516,
+      "review": "pixel identici alla pagina 516 della prova precedente già vista",
+      "words": 439,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 517,
+      "review": "pixel identici alla pagina 517 della prova precedente già vista",
+      "words": 403,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 518,
+      "review": "pixel identici alla pagina 518 della prova precedente già vista",
+      "words": 449,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 519,
+      "review": "pixel identici alla pagina 519 della prova precedente già vista",
+      "words": 471,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 520,
+      "review": "pixel identici alla pagina 520 della prova precedente già vista",
+      "words": 501,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 521,
+      "review": "pixel identici alla pagina 521 della prova precedente già vista",
+      "words": 411,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 522,
+      "review": "pixel identici alla pagina 522 della prova precedente già vista",
+      "words": 467,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 523,
+      "review": "pixel identici alla pagina 523 della prova precedente già vista",
+      "words": 362,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 524,
+      "review": "pixel identici alla pagina 524 della prova precedente già vista",
+      "words": 325,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 525,
+      "review": "pixel identici alla pagina 525 della prova precedente già vista",
+      "words": 223,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 526,
+      "review": "pixel identici alla pagina 526 della prova precedente già vista",
+      "words": 100,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 527,
+      "review": "pixel identici alla pagina 527 della prova precedente già vista",
+      "words": 374,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 528,
+      "review": "pixel identici alla pagina 528 della prova precedente già vista",
+      "words": 400,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 529,
+      "review": "pixel identici alla pagina 529 della prova precedente già vista",
+      "words": 456,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 530,
+      "review": "pixel identici alla pagina 530 della prova precedente già vista",
+      "words": 460,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 531,
+      "review": "pixel identici alla pagina 531 della prova precedente già vista",
+      "words": 465,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 532,
+      "review": "pixel identici alla pagina 532 della prova precedente già vista",
+      "words": 475,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 533,
+      "review": "pixel identici alla pagina 533 della prova precedente già vista",
+      "words": 438,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 534,
+      "review": "pixel identici alla pagina 534 della prova precedente già vista",
+      "words": 420,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 535,
+      "review": "pixel identici alla pagina 535 della prova precedente già vista",
+      "words": 502,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 536,
+      "review": "pixel identici alla pagina 536 della prova precedente già vista",
+      "words": 471,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 537,
+      "review": "pixel identici alla pagina 537 della prova precedente già vista",
+      "words": 444,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 538,
+      "review": "pixel identici alla pagina 538 della prova precedente già vista",
+      "words": 432,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 539,
+      "review": "pixel identici alla pagina 539 della prova precedente già vista",
+      "words": 241,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 540,
+      "review": "pixel identici alla pagina 540 della prova precedente già vista",
+      "words": 225,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 541,
+      "review": "pixel identici alla pagina 541 della prova precedente già vista",
+      "words": 327,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 542,
+      "review": "pixel identici alla pagina 542 della prova precedente già vista",
+      "words": 419,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 543,
+      "review": "pixel identici alla pagina 543 della prova precedente già vista",
+      "words": 430,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 544,
+      "review": "pixel identici alla pagina 544 della prova precedente già vista",
+      "words": 411,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 545,
+      "review": "pixel identici alla pagina 545 della prova precedente già vista",
+      "words": 406,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 546,
+      "review": "pixel identici alla pagina 546 della prova precedente già vista",
+      "words": 386,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 547,
+      "review": "pixel identici alla pagina 547 della prova precedente già vista",
+      "words": 452,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 548,
+      "review": "pixel identici alla pagina 548 della prova precedente già vista",
+      "words": 430,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 549,
+      "review": "pixel identici alla pagina 549 della prova precedente già vista",
+      "words": 474,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 550,
+      "review": "pixel identici alla pagina 550 della prova precedente già vista",
+      "words": 441,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 551,
+      "review": "pixel identici alla pagina 551 della prova precedente già vista",
+      "words": 494,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 552,
+      "review": "pixel identici alla pagina 552 della prova precedente già vista",
+      "words": 350,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 553,
+      "review": "pixel identici alla pagina 553 della prova precedente già vista",
+      "words": 290,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 554,
+      "review": "pixel identici alla pagina 554 della prova precedente già vista",
+      "words": 222,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 555,
+      "review": "pixel identici alla pagina 555 della prova precedente già vista",
+      "words": 105,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 556,
+      "review": "pixel identici alla pagina 556 della prova precedente già vista",
+      "words": 332,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 557,
+      "review": "pixel identici alla pagina 557 della prova precedente già vista",
+      "words": 208,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 558,
+      "review": "pixel identici alla pagina 558 della prova precedente già vista",
+      "words": 351,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 559,
+      "review": "pixel identici alla pagina 559 della prova precedente già vista",
+      "words": 431,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 560,
+      "review": "pixel identici alla pagina 560 della prova precedente già vista",
+      "words": 457,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 561,
+      "review": "pixel identici alla pagina 561 della prova precedente già vista",
+      "words": 456,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 562,
+      "review": "pixel identici alla pagina 562 della prova precedente già vista",
+      "words": 496,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 563,
+      "review": "pixel identici alla pagina 563 della prova precedente già vista",
+      "words": 385,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 564,
+      "review": "pixel identici alla pagina 564 della prova precedente già vista",
+      "words": 433,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 565,
+      "review": "pixel identici alla pagina 565 della prova precedente già vista",
+      "words": 427,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 566,
+      "review": "pixel identici alla pagina 566 della prova precedente già vista",
+      "words": 423,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 567,
+      "review": "pixel identici alla pagina 567 della prova precedente già vista",
+      "words": 471,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 568,
+      "review": "pixel identici alla pagina 568 della prova precedente già vista",
+      "words": 384,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 569,
+      "review": "pixel identici alla pagina 569 della prova precedente già vista",
+      "words": 409,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 570,
+      "review": "pixel identici alla pagina 570 della prova precedente già vista",
+      "words": 302,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 571,
+      "review": "pixel identici alla pagina 571 della prova precedente già vista",
+      "words": 210,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 572,
+      "review": "pixel identici alla pagina 572 della prova precedente già vista",
+      "words": 89,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 573,
+      "review": "pixel identici alla pagina 573 della prova precedente già vista",
+      "words": 304,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 574,
+      "review": "pixel identici alla pagina 574 della prova precedente già vista",
+      "words": 292,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 575,
+      "review": "pixel identici alla pagina 575 della prova precedente già vista",
+      "words": 454,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 576,
+      "review": "pixel identici alla pagina 576 della prova precedente già vista",
+      "words": 489,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 577,
+      "review": "pixel identici alla pagina 577 della prova precedente già vista",
+      "words": 444,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 578,
+      "review": "pixel identici alla pagina 578 della prova precedente già vista",
+      "words": 474,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 579,
+      "review": "pixel identici alla pagina 579 della prova precedente già vista",
+      "words": 451,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 580,
+      "review": "pixel identici alla pagina 580 della prova precedente già vista",
+      "words": 472,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 581,
+      "review": "pixel identici alla pagina 581 della prova precedente già vista",
+      "words": 386,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 582,
+      "review": "pixel identici alla pagina 582 della prova precedente già vista",
+      "words": 445,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 583,
+      "review": "pixel identici alla pagina 583 della prova precedente già vista",
+      "words": 458,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 584,
+      "review": "pixel identici alla pagina 584 della prova precedente già vista",
+      "words": 455,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 585,
+      "review": "pixel identici alla pagina 585 della prova precedente già vista",
+      "words": 359,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 586,
+      "review": "pixel identici alla pagina 586 della prova precedente già vista",
+      "words": 223,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 587,
+      "review": "pixel identici alla pagina 587 della prova precedente già vista",
+      "words": 247,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 588,
+      "review": "pixel identici alla pagina 588 della prova precedente già vista",
+      "words": 25,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 589,
+      "review": "pixel identici alla pagina 589 della prova precedente già vista",
+      "words": 240,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 590,
+      "review": "pixel identici alla pagina 590 della prova precedente già vista",
+      "words": 166,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 591,
+      "review": "pixel identici alla pagina 591 della prova precedente già vista",
+      "words": 404,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 592,
+      "review": "pixel identici alla pagina 592 della prova precedente già vista",
+      "words": 409,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 593,
+      "review": "pixel identici alla pagina 593 della prova precedente già vista",
+      "words": 384,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 594,
+      "review": "pixel identici alla pagina 594 della prova precedente già vista",
+      "words": 483,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 595,
+      "review": "pixel identici alla pagina 595 della prova precedente già vista",
+      "words": 429,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 596,
+      "review": "pixel identici alla pagina 596 della prova precedente già vista",
+      "words": 437,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 597,
+      "review": "pixel identici alla pagina 597 della prova precedente già vista",
+      "words": 479,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 598,
+      "review": "pixel identici alla pagina 598 della prova precedente già vista",
+      "words": 418,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 599,
+      "review": "pixel identici alla pagina 599 della prova precedente già vista",
+      "words": 452,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 600,
+      "review": "pixel identici alla pagina 600 della prova precedente già vista",
+      "words": 360,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 601,
+      "review": "pixel identici alla pagina 601 della prova precedente già vista",
+      "words": 268,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 602,
+      "review": "pixel identici alla pagina 602 della prova precedente già vista",
+      "words": 226,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 603,
+      "review": "pixel identici alla pagina 603 della prova precedente già vista",
+      "words": 375,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 604,
+      "review": "pixel identici alla pagina 604 della prova precedente già vista",
+      "words": 386,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 605,
+      "review": "pixel identici alla pagina 605 della prova precedente già vista",
+      "words": 398,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 606,
+      "review": "pixel identici alla pagina 606 della prova precedente già vista",
+      "words": 426,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 607,
+      "review": "pixel identici alla pagina 607 della prova precedente già vista",
+      "words": 492,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 608,
+      "review": "pixel identici alla pagina 608 della prova precedente già vista",
+      "words": 468,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 609,
+      "review": "pixel identici alla pagina 609 della prova precedente già vista",
+      "words": 462,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 610,
+      "review": "pixel identici alla pagina 610 della prova precedente già vista",
+      "words": 440,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 611,
+      "review": "pixel identici alla pagina 611 della prova precedente già vista",
+      "words": 432,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 612,
+      "review": "pixel identici alla pagina 612 della prova precedente già vista",
+      "words": 432,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 613,
+      "review": "pixel identici alla pagina 613 della prova precedente già vista",
+      "words": 399,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 614,
+      "review": "pixel identici alla pagina 614 della prova precedente già vista",
+      "words": 371,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 615,
+      "review": "pixel identici alla pagina 615 della prova precedente già vista",
+      "words": 367,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 616,
+      "review": "pixel identici alla pagina 616 della prova precedente già vista",
+      "words": 261,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    },
+    {
+      "page": 617,
+      "review": "pixel identici alla pagina 617 della prova precedente già vista",
+      "words": 212,
+      "imageCount": 0,
+      "overflow": [],
+      "status": "Nessun difetto geometrico rilevato nella panoramica; non è rilettura integrale a piena risoluzione"
+    }
+  ]
+}

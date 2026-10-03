@@ -23,7 +23,7 @@ authority_level: alta
 # Ministero della giustizia: organizzazione e dipartimenti
 
 ## Sintesi
-La struttura ministeriale è il quadro amministrativo dei profili M-FC04. Il candidato deve distinguere uffici giudiziari e amministrazione centrale, i cinque dipartimenti DAG, DOG, DIT, DAP e DGMC, le direzioni e le linee di servizio. La DGSIA va collocata come struttura tecnico-amministrativa, non come dipartimento alternativo al DIT.
+La struttura ministeriale è il quadro amministrativo dei profili M-FC04. Il candidato deve distinguere uffici giudiziari e amministrazione centrale, i cinque dipartimenti DAG, DOG, DIT, DAP e DGMC, le direzioni e le linee di servizio. DGSIA è denominazione storica; il DIT comprende DGSAP, DGINFRA, DGSTAT e DGCOE.
 
 ## Fonti principali
 - D.P.C.M. 15 giugno 2015, n. 84.
@@ -35,7 +35,7 @@ La struttura ministeriale è il quadro amministrativo dei profili M-FC04. Il can
 ## Nuclei da usare
 - Distinguere funzione giurisdizionale, supporto amministrativo, servizi di cancelleria, esecuzione esterna, istituti penitenziari e servizi minorili.
 - Spiegare il Ministero come amministrazione di organizzazione, personale, risorse, servizi digitali e supporto, non come organo che decide le cause.
-- Collegare i dipartimenti ai profili di bando: DAG/affari e servizi di giustizia; DOG/uffici giudiziari e cancellerie; DIT/innovazione tecnologica; DAP/profili penitenziari; DGMC/minorile e comunità. Richiamare la DGSIA per specifiche e servizi informatici quando pertinente, con rinvio al volume ICT per i profili tecnici.
+- Collegare i dipartimenti ai profili di bando: DAG/affari e servizi di giustizia; DOG/uffici giudiziari e cancellerie; DIT/innovazione tecnologica; DAP/profili penitenziari; DGMC/minorile e comunità. Qualificare storicamente la DGSIA nelle specifiche pregresse, con rinvio al volume ICT per i profili tecnici.
 
 ## Capitoli collegati
 - Capitolo 1 - Il sistema Giustizia visto dal candidato
@@ -47,3 +47,8 @@ La struttura ministeriale è il quadro amministrativo dei profili M-FC04. Il can
 
 ## Note di review
 Verificare l'assetto organizzativo vigente prima della pubblicazione, perche' i regolamenti di riorganizzazione 2024-2025 incidono su denominazioni, direzioni generali e competenze interne.
+
+
+## Rettifica del 3 ottobre 2026
+
+Organigramma verificato e competenze: [[sources/vol-04-organizzazione-upp-verifica-2026-10-03]].

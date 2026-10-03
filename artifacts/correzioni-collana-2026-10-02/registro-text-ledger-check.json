@@ -1,0 +1,26 @@
+[
+  {
+    "volume": "VOL-06",
+    "ids": 36,
+    "statuses": {
+      "verificato": 36
+    },
+    "hashMismatches": []
+  },
+  {
+    "volume": "VOL-07",
+    "ids": 41,
+    "statuses": {
+      "verificato": 41
+    },
+    "hashMismatches": []
+  },
+  {
+    "volume": "VOL-12",
+    "ids": 66,
+    "statuses": {
+      "verificato": 66
+    },
+    "hashMismatches": []
+  }
+]

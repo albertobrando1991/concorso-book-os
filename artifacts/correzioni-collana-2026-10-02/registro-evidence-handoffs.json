@@ -1,0 +1,189 @@
+{
+  "readyToMerge": true,
+  "note": "Handoff finali ricevuti e pacchetti verificati per tutti i dodici volumi. EXP02 e V01-50/51 parziali; P12-04 parziale, P12-07 aperto non bloccante. Nessuna approvazione alla pubblicazione.",
+  "volumes": {
+    "VOL-01": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-01.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-01.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff.",
+      "packageManifest": "delivery/VOL-01/candidate-2026-10-03/package-manifest.json",
+      "packageHashVerification": "artifacts/correzioni-collana-2026-10-02/registro-package-verification.json"
+    },
+    "VOL-02": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-02.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-02.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff."
+    },
+    "VOL-03": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-03.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-03.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff."
+    },
+    "VOL-04": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-04.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-04.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Front matter autoriale applicato nella proiezione locale senza promesse digitali; nessun signoff24.",
+      "packageManifest": "delivery/VOL-04/candidate-2026-10-03/package-manifest.json",
+      "packageHashVerification": "artifacts/correzioni-collana-2026-10-02/registro-package-verification.json"
+    },
+    "VOL-05": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-05.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-05.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff.",
+      "packageManifest": "delivery/VOL-05/candidate-2026-10-03/package-manifest.json",
+      "packageHashVerification": "artifacts/correzioni-collana-2026-10-02/registro-handoff-package-check.json"
+    },
+    "VOL-06": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-06.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-06.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff.",
+      "packageManifest": "delivery/VOL-06/candidate-2026-10-03/manifest.json",
+      "packageHashVerification": "artifacts/correzioni-collana-2026-10-02/registro-handoff-package-check.json"
+    },
+    "VOL-07": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-07.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-07.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff.",
+      "packageManifest": "delivery/VOL-07/candidate-2026-10-03/manifest.json",
+      "packageHashVerification": "artifacts/correzioni-collana-2026-10-02/registro-handoff-package-check.json"
+    },
+    "VOL-08": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-08.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-08.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff."
+    },
+    "VOL-09": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-09.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-09.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff.",
+      "chapterRoot": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters"
+    },
+    "VOL-10": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-10.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-10.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff."
+    },
+    "VOL-11": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-11.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-11.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff."
+    },
+    "VOL-12": {
+      "textReport": "wiki/reviews/correzioni-collana-2026-10-02/VOL-12.md",
+      "pdfReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-12.md",
+      "textVerified": true,
+      "pdfVerified": true,
+      "finalEvidenceApproved": true,
+      "productionStatus": "verificato-nella-copertura-dichiarata",
+      "note": "Dipendenze digitali/editoriali comuni aperte; non equivale a signoff.",
+      "packageManifest": "delivery/VOL-12/candidate-2026-10-03/manifest.json",
+      "packageHashVerification": "artifacts/correzioni-collana-2026-10-02/registro-handoff-package-check.json"
+    }
+  },
+  "overrides": {
+    "P12-04": {
+      "status": "parzialmente-applicato",
+      "reason": "Verifica PDF conclusa; prova fisica della compilazione a penna non eseguita.",
+      "evidence": [
+        "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-12.md"
+      ]
+    },
+    "P12-07": {
+      "status": "da-applicare",
+      "reason": "Bianco residuo a pagina 129; intervento facoltativo non eseguito, non bloccante.",
+      "evidence": [
+        "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-12.md"
+      ]
+    },
+    "V02-20": {
+      "status": "applicato-verificato-testo",
+      "reason": "La riga conserva uno stato intermedio; il riepilogo finale del medesimo rapporto attesta 58/58 riesaminati e simulazioni verificate dopo i gate dei quattro moduli.",
+      "evidence": [
+        "wiki/reviews/correzioni-collana-2026-10-02/VOL-02.md",
+        "artifacts/correzioni-collana-2026-10-02/VOL-02-text-handoff.json",
+        "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-02.md"
+      ]
+    },
+    "EXP-01": {
+      "status": "applicato-verificato-pdf",
+      "reason": "I cinque nuclei di IR02/09 sono conservati nel candidato VOL06 e verificati nella proiezione corrente; il difetto di filtraggio storico risulta risolto.",
+      "evidence": [
+        "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-06.md",
+        "artifacts/correzioni-collana-2026-10-02/VOL-06-production-findings.json"
+      ]
+    },
+    "EXP-02": {
+      "status": "parzialmente-applicato",
+      "reason": "Residui e apparati sono stati corretti nei perimetri documentati; i preliminari comuni conservano promesse digitali e dati editoriali da consolidare. Non chiuso sulla sola rimozione dei residui interni.",
+      "evidence": [
+        "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-01.md",
+        "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-05.md",
+        "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-06.md",
+        "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-12.md"
+      ]
+    },
+    "EXP-03": {
+      "status": "applicato-verificato-pdf",
+      "reason": "Tutti i dodici pacchetti correnti hanno manifest con hash verificati, sorgenti e candidato identificato; VOL02 distribuito in due tomi. I PDF storici sono superati per la consegna. La verifica di identita non autorizza la pubblicazione e non estingue EXP02.",
+      "evidence": [
+        "artifacts/correzioni-collana-2026-10-02/registro-package-verification.json",
+        "delivery/VOL-01/candidate-2026-10-03/package-manifest.json",
+        "delivery/VOL-02/candidate-tomi-2026-10-03/manifest.json",
+        "delivery/VOL-03/candidate-2026-10-03/package-manifest.json",
+        "delivery/VOL-04/candidate-2026-10-03/package-manifest.json",
+        "delivery/VOL-05/candidate-2026-10-03/package-manifest.json",
+        "delivery/VOL-06/candidate-2026-10-03/manifest.json",
+        "delivery/VOL-07/candidate-2026-10-03/manifest.json",
+        "delivery/VOL-08/candidate-2026-10-03/package-manifest.json",
+        "delivery/VOL-09/candidate-2026-10-03/package-manifest.json",
+        "delivery/VOL-10/candidate-2026-10-03/package-manifest.json",
+        "delivery/VOL-11/candidate-2026-10-03/package-manifest.json",
+        "delivery/VOL-12/candidate-2026-10-03/manifest.json"
+      ]
+    }
+  }
+}

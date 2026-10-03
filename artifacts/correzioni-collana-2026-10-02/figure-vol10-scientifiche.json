@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "name": "vincoli-piani",
+      "pdf": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/vincoli-piani.pdf",
+      "png": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/vincoli-piani.png",
+      "sha256": "f10e25869d12b3402d02978fabd465fb8afa7f1ab8d1332f64d5a4d8f64dbe70"
+    },
+    {
+      "name": "trave-carico-taglio-momento",
+      "pdf": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/trave-carico-taglio-momento.pdf",
+      "png": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/trave-carico-taglio-momento.png",
+      "sha256": "ec759249b3caf36d4412c7ccdac7f3023b41429de4047005df5388fe211b46a9"
+    },
+    {
+      "name": "planimetria-sopralluogo",
+      "pdf": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/planimetria-sopralluogo.pdf",
+      "png": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/planimetria-sopralluogo.png",
+      "sha256": "71605d6fd3f9703cea210873e51281e21c4202b74f06ae1f3a6ab9e5947da815"
+    }
+  ],
+  "checks": {
+    "beam": {
+      "L_m": 4,
+      "q_kN_m": 10,
+      "RA_kN": 20,
+      "RB_kN": 20,
+      "V_zero_m": 2,
+      "M_max_kNm": 20
+    },
+    "plan": {
+      "total_area_m2": 96,
+      "room_A_m2": 36,
+      "room_B_m2": 36,
+      "corridor_m2": 24,
+      "stain_projection_m2": 2,
+      "whole_ceiling_cost_eur": 864
+    }
+  },
+  "visualReview": "Tre tavole visionate integralmente, corretti punto di applicazione reazioni e lessico del momento; F01 osservata e coerente con finalita illustrativa. Verifica PDF impaginato ancora necessaria."
+}

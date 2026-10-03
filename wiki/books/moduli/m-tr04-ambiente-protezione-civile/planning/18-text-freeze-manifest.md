@@ -1,74 +1,51 @@
----
-id: m-tr04-text-freeze-manifest
-type: text_freeze_manifest
-title: "Text freeze — M-TR04 Ambiente, protezione civile e sostenibilità"
-status: frozen
-domain: "concorsi pubblici italiani"
-book_id: m-tr04-ambiente-protezione-civile
-volume_code: VOL-11
-module_code: M-TR04
-freeze_date: 2026-08-21
-reference_commit: fedfb0fe49cef4c111f18ac014c77d7eb1e1cd4a
-updated_at: 2026-08-21T12:00:00+02:00
-created_at: 2026-08-19T00:58:22+02:00
-review_required: false
-canonical: true
-tags: ["text-freeze", "vol-11", "m-tr04", "pipeline-step-16"]
----
+# M-TR04 — Congelamento del testo, 3 ottobre 2026
 
-# Text freeze — M-TR04 Ambiente, protezione civile e sostenibilità
+Gate automatico non implementato; verifica manuale prevista dal CLI. Il presente manifest sostituisce quello di agosto, archiviato. Nessun commit effettuato.
 
-## Esito
-
-Il modulo entra in congelamento testuale il 19 agosto 2026. I quattordici capitoli e i 90 nuclei sono presenti; la matrice non contiene stati parziale, solo-nominato o mancante; gli errori obbligatori degli step 13-15 sono chiusi; indice, Bibbia, fonti e apparati risultano coerenti. Il gate text-freeze non è ancora implementato e viene chiuso con accettazione manuale motivata dopo questa verifica.
-
-Da questo manifest sono ammesse soltanto correzioni controllate. Ogni modifica sostanziale a teoria, fonti, casi, quiz, riferimenti o struttura riapre i gate 10-15.
-
-## Riferimento di versione
-
-- Commit di base: fedfb0fe49cef4c111f18ac014c77d7eb1e1cd4a.
-- Stato da congelare: modifiche correnti degli step 13-16, identificate dagli hash seguenti e destinate al successivo commit di pipeline.
-- Algoritmo: SHA-256 sul contenuto dei file.
-- Cut-off dell'audit specialistico: 18 agosto 2026, secondo le fonti ufficiali e le source note consolidate nel progetto.
-- Ricontrollo indipendente: 21 agosto 2026 su Gazzetta Ufficiale, RENTRI, Dipartimento della Protezione civile, EUR-Lex, ARERA e GSE.
-
-## Verifica delle condizioni
-
-| Condizione | Evidenza | Esito |
-| --- | --- | --- |
-| Capitoli presenti | Quattordici target, quattordici file e un solo H1 per capitolo | superata |
-| Copertura integrale | 90 nuclei; nessuno stato parziale, solo-nominato o mancante nella matrice | superata |
-| Rinvii | Rinvii editoriali precisati; slug, ID e source_refs preservati | superata |
-| Humanizer | Tutti i quattordici step 11 risultano chiusi; passaggi sostanziali dello step 15 micro-revisionati | superata |
-| Errori obbligatori | Step 13 e 14 chiusi; gate step 15 verde senza blocker né warning | superata |
-| Audit specialistico | VIA, FIR/RENTRI, IT-alert, aria, CER/TIAD e DNSH/CAM consolidati nel report step 15 | superata |
-| Indice | Quattordici voci e quattordici capitoli; matrice e Bibbia allineate | superata |
-| Fonti e cut-off | Source refs presenti in tutti i capitoli; cut-off specialistico 21-08-2026 dichiarato | superata |
-| Dati mobili | Nessun box Dato operativo rilevato dal contratto; dati 2026 individuati nei metadati e auditati nello step 15 | superata |
-
-## File congelati
+- 14 capitoli presenti; lettura integrale della baseline e riesame dei delta e contesti documentati.
+- 44 rilievi testuali applicati; errori gravi e medi chiusi.
+- 90 nuclei nella matrice, 14 unità aggregate di verifica; zero stati incompleti.
+- 14 gate di capitolo superati senza blocker né warning; audit 14 e 15 superati.
+- Rinvii del corpo risolti; indici e cinque appendici nel capitolo 14 coerenti.
+- Lingua e ripetizioni riesaminate; casi, calcoli e 84 domande finali verificati.
+- Tre box operativi verificati manualmente; fonti consolidate e cut-off 3 ottobre 2026.
+- Gate text-freeze non implementato; verifica manuale richiesta dal CLI eseguita.
 
 | File | Stato | SHA-256 |
 | --- | --- | --- |
-| index.md | frozen | 09149c2db711249312e05b773e7dba5cc6728530cbd7d952a2c9cecae9462900 |
-| planning/01-indice-analitico-vol-11.md | frozen | 86458d70ded013e355b972f6f727dc44c5fb774272f31776ba5c4922a5a1365d |
-| planning/02-matrice-copertura-didattica.md | frozen | 5423bcc1583a5fbb2372e693633c7a23dcfa66aa376089a4db0368b11dc99069 |
-| planning/17-bibbia-del-modulo.md | frozen | 07b75a61dd3021891d5398ae6cf763f6ad0195ee4ac1e21f547dbd6542650ade |
-| chapters/01-quattro-profili-mappa-sistema.md | frozen | fe727db84e5811000259c3ac5bd7494cdb3bf06eb288509cb352843cf9e3a569 |
-| chapters/02-dlgs-152-mase-ispra-snpa.md | frozen | 7a4ff4fab5ff89eec01012028c4a27fad5c26b80835590dba427dd125e1bbd1f |
-| chapters/03-via-vas-valutazioni-ambientali.md | frozen | 007d86b372cf52a6d7ceb1d5271deae63f6dfc8bcc3fc1634d866d2f84ee9cec |
-| chapters/04-aia-aua-emissioni-autorizzazioni.md | frozen | 92ed87e06cb293f7994f7e1da7b1446531b5eb4acc8201bdda85778396e3ec5c |
-| chapters/05-acque-scarichi-servizio-idrico.md | frozen | ec304e0d8bffb1cf7ccf58cc74f8b3328db73c77d3da1dcf5552824da6e802bd |
-| chapters/06-rifiuti-economia-circolare-rentri.md | frozen | d1e8c0bd3d4c4723b6b16d57024e86b228b6693230e9e16c4fd32f680802301c |
-| chapters/07-bonifiche-siti-contaminati-danno.md | frozen | 0654c4ae0a8c7c6765a666e40d2b1f72d3ed7775031f24c56868d0660f3b3762 |
-| chapters/08-aria-rumore-monitoraggio-dati.md | frozen | 790ef3e8d9e592dbee8c3e243303e9e97cf687d5a6425133c9f090fe6e9a3d56 |
-| chapters/09-controlli-sanzioni-reati-ambientali.md | frozen | 012fc1659be9dfce7653ddec509cef9a1ec9278ddc5799d48586392c3ecee011 |
-| chapters/10-sistema-protezione-civile-pianificazione.md | frozen | c5b12ef36d68c451fe16a30c2125abed20b51e84a1f95379ee109fd73f352b9f |
-| chapters/11-rischi-allertamento-it-alert-emergenze.md | frozen | 235f875e7dabaec1ad38f3a9b7bc2db7906d0bc3f8d3a73fbbb09c7b81290cda |
-| chapters/12-clima-energia-rinnovabili-cer.md | frozen | 0b0f3172028d4db7771d80bd73d7be59738292fe4687e9fea66a2b1da4b6fd3b |
-| chapters/13-dnsh-cam-sostenibilita-pa.md | frozen | 1653d60448669c03a974dc8f5171917973006117d2f42122d1afabb8f85ee3c1 |
-| chapters/14-laboratorio-casi-quesiti-sintetici.md | frozen | f973e39064bf1fe77782e938c4ad705cba9c681dd76fe4d9f02883af50a06570 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md | text-frozen | e6a90ca41609999535e75610d5f63aec2e0e66a27891758ad991915fcdb0f1ed |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md | text-frozen | 567cc1ba7270b0f8bc6026e28697ee719cb55f56cdd9117e7e13a1036a78e8b6 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md | text-frozen | 825ad25c4c1716eca85ec911dc0a45b772507419fbda0d6dca2e9af379445ede |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md | text-frozen | 18040fc69e3e1d13a6b8450b0a39c84ed7b852f3a717fe0dcd602a4ddf3ee840 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md | text-frozen | 7dd7437328f8b37fb043d70bb741aa4ad031bb4c19a08bc67a50c1db82ea78ae |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md | text-frozen | f86c41aac568e56591382ca6c4a3269adc680e56def3ca7be7fa175cdd251d91 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md | text-frozen | b4bf7d8d0a1c5e794f71d8df87844a150744b4b361a5f0edf15d93e7aa1de40c |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md | text-frozen | 041645664116fc6d2f59e9321bc591828d4444af396f587c7c16b4d4d06683b9 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md | text-frozen | 7984408a25d54bda801b760c5b59b5d2a8a3f375d7277a437ee240574153ef2c |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md | text-frozen | a96a899f7377bc375da1c7bb40df5964b3230b7f43b0076278b3eb7ccda7af44 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md | text-frozen | d345eaf14d035e2cb1ac5921efb7afa56dbf62128464503246ee67b0c90cb930 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md | text-frozen | f4f7deba4de1c61e924384c073f60bedeb9d7d54c531de230e06a37c1734244c |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md | text-frozen | 79223b82b1abfa10bd4307ddca2caef65a4aaa9b1abbde5bf53f382a061fdc04 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md | text-frozen | d146d2f2a386f1b5fc270135ad1362705d3c5501fe78686d809a80e6552cd91d |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/index.md | text-frozen | ee5d37867817a1a32e23bef4fc5752ba6cd5ace7fc67ac9ad7fb8ce0f6c669a6 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/02-matrice-copertura-didattica.md | text-frozen | a851b2e2ef2d3151a397b6937570ed5617b62d0cb9619907d2a737175e73e799 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/17-bibbia-del-modulo.md | text-frozen | f1d2b37dbd555093e27bbd57cc5bf81c096be90055dde673ae6fbcdbb50e7079 |
+| wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11.md | text-frozen | 43c6149a135a6f4030e72313bfaf49ed41a9767674f39aa5254edc15611e7f3d |
+| wiki/books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/index.md | text-frozen | 449d764c63d0a2094f04a531e86f18835b5cfd566b41dd931276e8d4e4d49d9d |
+| wiki/topics/ambiente-rettifiche-2026.md | text-frozen | 9cc4f7d75750fb951e4a1f5f6e1cebf56e6660588b3d31998e2b437b4c1e406e |
+| wiki/sources/vol-11-ambiente-rettifiche-2026-10-03.md | text-frozen | caaa7d7a8998927b8d7992d3515f8bc01a9fc28bb256a2396226f16b4a2789d2 |
+| wiki/sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03.md | text-frozen | 0b72e4e287001f301d51b54e1920b5ff60cf82dfd1dff0bd52284ac9baeca7eb |
+| wiki/sources/legge-689-procedura-verifica-2026-10-03.md | text-frozen | 37cb276ae59b9414bf43b9cc03dfd6c9f05892137c0fd2967c26575c8c098e3d |
+| wiki/sources/vol-11-protezione-civile-verifica-2026-10-03.md | text-frozen | ced232365171cbd86ccad964bcf0ebcc03618f2ae34b72c4e4fb0d5a57ce279b |
+| wiki/sources/vol-11-energia-sostenibilita-verifica-2026-10-03.md | text-frozen | c747f4040896aa08bc731d55ea13c3f3a1e3354908d3ede76c308b125c39df67 |
+| wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md | text-frozen | f90b069c2904e90ba77038eadd7f16c5b87ed2b2fea87df1527b13d621ce1a35 |
+| wiki/sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026.md | text-frozen | b083d29a79e187fa6db6dd6a06780a11cf50b46ab14d6c5e487bf8f13a267bf5 |
+| wiki/sources/clima-energia-rinnovabili-cer-efficienza-quadro-ufficiale-2026.md | text-frozen | ce4684e0da984fdd907406c9e90b0ef4127fbc66f1ded1a1585075b45f558816 |
+| wiki/sources/bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026.md | text-frozen | a3c29cf7f34585228f5b04bd9ac146add692b7e33bfb730c01a5e35413f57400 |
+| wiki/sources/laboratorio-casi-quesiti-sintetici-vol-11-2026.md | text-frozen | 1e58fbd79c3f3148f0d553d8dac2ee9f55f45cb6e6254cd5081cfd0929b1fcbf |
 
-## Regola successiva al freeze
+## Limiti
 
-Ogni modifica sostanziale successiva deve essere tracciata e sottoposta nuovamente a copertura, Humanizer, revisione trasversale e audit specialistico prima di un nuovo freeze.
+PDF aggiornato, controllo grafico e preflight ancora da completare. Verifica normativa mirata ai passaggi registrati; non attestata lettura integrale dei testi unici.
+
+Ogni modifica sostanziale riapre i gate 10–15; le correzioni controllate devono aggiornare gli hash.

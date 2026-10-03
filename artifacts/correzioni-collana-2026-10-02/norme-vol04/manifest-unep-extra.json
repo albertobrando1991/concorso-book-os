@@ -1,0 +1,242 @@
+[
+  {
+    "name": "unep-allegato",
+    "article": 106,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=16&art.flagTipoArticolo=1&art.codiceRedazionale=059U1229&art.idArticolo=106&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1960-02-01&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/unep-allegato-art106.html",
+    "sha256": "dd8612136ee556749e12d07180c66c0644fd9931e9ae0eb9dc69ea1a52007812",
+    "characters": 743,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "unep-allegato",
+    "article": 107,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=16&art.flagTipoArticolo=1&art.codiceRedazionale=059U1229&art.idArticolo=107&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1960-02-01&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/unep-allegato-art107.html",
+    "sha256": "310e8f6db931b5ba13009171f5bde85964470b45e4f4b9bb9969b92b7d1b80ae",
+    "characters": 1089,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 137,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=137&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art137.html",
+    "sha256": "6c02af82d3ecd15d416cf261073f1b9f95596736b87d735e640fb42fbb19246c",
+    "characters": 2323,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 138,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=138&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art138.html",
+    "sha256": "204dd45615a2710a54fede62a2a1d7ce47e61763e39c673c3ed03c1029827e67",
+    "characters": 483,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 147,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=147&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art147.html",
+    "sha256": "c619e0423444aafb0c77675f25abb85de6aff3dab3821cbf36e4565a5c7beaa4",
+    "characters": 716,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 148,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=148&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art148.html",
+    "sha256": "551a1688062d6997e798d93af912ac77e2b9c5668aab85f794edfcbc32da23f7",
+    "characters": 480,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 149,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=149&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art149.html",
+    "sha256": "58f7e004f658155195296349abd3f6afd38190e41afad0ce132ee32136667f23",
+    "characters": 689,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": "149bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=6&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=149&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art149bis.html",
+    "sha256": "c2025db3191869cad62f29130ab9da605f4cd6e539296c52272153c7d40a32ba",
+    "characters": 3380,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 479,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=82&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=479&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art479.html",
+    "sha256": "ab62788734eea37c0eca166e2cddadde09d492610466aa40ed798b81c86a66aa",
+    "characters": 589,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 492,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=11&art.idGruppo=84&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=492&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art492.html",
+    "sha256": "59ed4313d1c82888316a0abadbeb1de0fc888a9cfc3192032a152d22a7e4ee18",
+    "characters": 5951,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 513,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=88&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=513&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art513.html",
+    "sha256": "1d6a45911ea7d8c04dfcbb651a4388dcf32f5a19f9e1150d5cb8243c26a4277e",
+    "characters": 1079,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 514,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=88&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=514&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art514.html",
+    "sha256": "6e56f475f74079e02bb8bc026af2187e1044b87a787baead63da2f46c3d3315a",
+    "characters": 1522,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 518,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=6&art.idGruppo=88&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=518&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art518.html",
+    "sha256": "071357335fdf0ec97fd6a7c6fd8c6994c82658898ac8a8a2282b857727327ab9",
+    "characters": 2867,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 543,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=9&art.idGruppo=92&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=543&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art543.html",
+    "sha256": "93cef412a177229ff86178b80b7e9a40a2f18a842f28f37d5d12c25df52fa9ba",
+    "characters": 4171,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 555,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=94&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=555&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art555.html",
+    "sha256": "f9ba86c56264e326ca1f7550b23460a1abe811d950e4884ed763f2413ff2e3d8",
+    "characters": 822,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 557,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=94&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=557&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art557.html",
+    "sha256": "1f6e16dbdd113d87fbd2e2c7aba6830a5dfb093df713e984ef688d831b8226b7",
+    "characters": 972,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 608,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=104&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=608&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art608.html",
+    "sha256": "80f54bf65141cfa711bb85c719af4cb2fe7543d4b864bb3dfb409ce3456e720e",
+    "characters": 669,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 615,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=107&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=615&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art615.html",
+    "sha256": "ab8233c6c0625e45ebb0a02936f2faecbb93498e9678e52ba7ef42c92493e94b",
+    "characters": 1275,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 617,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=108&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=617&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art617.html",
+    "sha256": "5976d95a3a9882ec6ddeb3833d16eafb74cbbffa5d19551673c231d6cd437ffa",
+    "characters": 863,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cc-allegato",
+    "article": 1206,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=150&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1206&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cc-allegato-art1206.html",
+    "sha256": "103b6c6dfc5b840bc87798fceb6af40461a9c54a207a0011d17fc252ee6291f9",
+    "characters": 242,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cc-allegato",
+    "article": 1207,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=150&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1207&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cc-allegato-art1207.html",
+    "sha256": "8955b78e333dcf456c00c7ab014fac9f34989fa73290f7433c2f554d11500cba",
+    "characters": 575,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cc-allegato",
+    "article": 1208,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=150&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1208&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cc-allegato-art1208.html",
+    "sha256": "1cfd8517a061811881a48ee4704818e3ed0557a63a35353af11e090b92b17ffa",
+    "characters": 915,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cc-allegato",
+    "article": 1209,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=150&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1209&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cc-allegato-art1209.html",
+    "sha256": "8bfcfe377dbd7d6ffd84631f8ba70c4a3c7a0b7bbad78ab9d8cffdf14c2ffbb3",
+    "characters": 420,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cc-allegato",
+    "article": 1210,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=150&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=1210&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cc-allegato-art1210.html",
+    "sha256": "fd35629f17520f5566b53fd7ccf1ca9b9bf1ce2e6b073c37fe54c5de078f996b",
+    "characters": 413,
+    "readComplete": false,
+    "validExtraction": true
+  }
+]

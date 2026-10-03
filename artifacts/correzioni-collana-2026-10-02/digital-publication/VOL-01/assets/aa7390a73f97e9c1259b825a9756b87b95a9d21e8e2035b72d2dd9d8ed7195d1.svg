@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Protocollo AI sicuro</title>
+  <desc id="desc">Contesto, output verificabile, verifica e archiviazione.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Protocollo AI sicuro</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Contesto, output verificabile, verifica e archiviazione.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="150 330 265 250 8">
+    <rect x="150" y="330" width="265" height="250" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="282.5" cy="386" r="34" fill="#10233F"/>
+    <text class="label whiteText" x="282.5" y="395" text-anchor="middle">1</text>
+    <text class="label" x="282.5" y="460" text-anchor="middle">Contesto</text>
+    <text class="small" x="282.5" y="508" text-anchor="middle">blocca la fonte</text>
+  </g>
+<g data-safe-box="485 330 265 250 8">
+    <rect x="485" y="330" width="265" height="250" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="617.5" cy="386" r="34" fill="#10233F"/>
+    <text class="label whiteText" x="617.5" y="395" text-anchor="middle">2</text>
+    <text class="label" x="617.5" y="460" text-anchor="middle">Output</text>
+    <text class="small" x="617.5" y="508" text-anchor="middle">tabella o schema</text>
+  </g>
+<g data-safe-box="820 330 265 250 8">
+    <rect x="820" y="330" width="265" height="250" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="952.5" cy="386" r="34" fill="#10233F"/>
+    <text class="label whiteText" x="952.5" y="395" text-anchor="middle">3</text>
+    <text class="label" x="952.5" y="460" text-anchor="middle">Verifica</text>
+    <text class="small" x="952.5" y="508" text-anchor="middle">controllo riga per riga</text>
+  </g>
+<g data-safe-box="1155 330 265 250 8">
+    <rect x="1155" y="330" width="265" height="250" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="1287.5" cy="386" r="34" fill="#10233F"/>
+    <text class="label whiteText" x="1287.5" y="395" text-anchor="middle">4</text>
+    <text class="label" x="1287.5" y="460" text-anchor="middle">Archivia</text>
+    <text class="small" x="1287.5" y="508" text-anchor="middle">salva solo il corretto</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M415 455 L485 455"/>
+<path class="line" marker-end="url(#arrow)" d="M750 455 L820 455"/>
+<path class="line" marker-end="url(#arrow)" d="M1085 455 L1155 455"/>
+    <g data-safe-box="480 645 640 150 8">
+    <rect x="480" y="645" width="640" height="150" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="480" y="645" width="640" height="12" rx="6" fill="#7A2430"/>
+    <text class="label" x="800" y="697" text-anchor="middle">Condizione di ingresso</text>
+    <text class="small" x="800" y="727" text-anchor="middle">se non puoi verificarlo, non entra nel sistema</text>
+  </g>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Uno spunto puo restare spunto; capitale di studio diventa solo cio che hai controllato.</text>
+  </g>
+
+</svg>

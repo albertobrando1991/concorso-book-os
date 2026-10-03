@@ -1,0 +1,112 @@
+{
+  "volume": "VOL-10",
+  "module": "M-TR03",
+  "date": "2026-10-03",
+  "verification": "manuale dopo gate-not-implemented",
+  "checks": [
+    "Tredici capitoli presenti e letti integralmente nella baseline; delta riesaminati.",
+    "Diciotto rilievi obbligatori applicati e verificati; nessuna riduzione di promessa.",
+    "Matrice e indice coerenti; zero rinvii del corpo irrisolti.",
+    "Calcoli e soluzioni controllati, relazione di 149 parole nel limite di 250; dossier completo.",
+    "Tredici gate di capitolo senza blocker: warning legacy dichiarati (13 retrofit, 11 squilibrio).",
+    "Dodici test export passati; quattro figure inserite e visionate come asset.",
+    "Audit 14 e 15 passati; fonti consolidate e cut-off 3 ottobre 2026.",
+    "Text-freeze non implementato: verifica manuale richiesta dal CLI eseguita."
+  ],
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+      "sha256": "5e7bfee866eee59f9812ed2ca4e1e84858331889875c868f812fe6a4ec8cb9ed",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+      "sha256": "081b1d87caaa7d41470485b36f167e92a1141726672c56541e9b5d611f8ae0c9",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+      "sha256": "6b7b3d57b34ed9bfb454120a975d6389ab7cfc819ad8925bed9fe9a6f4101f76",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+      "sha256": "2c067daa2eec10f10fe434276a92a4bb73c7f392af66cc76d5f515d30c599862",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+      "sha256": "2b534c1de4a730f4f4be11552d6ec3229302e0c59b6f1e6e1c1526740dc725e4",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+      "sha256": "3481eaa6ecb4ff7caf0f9ffe21cb714b78303cc9e9e49d21a89d22ae1c484b07",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+      "sha256": "f6d8e041a1cbd11a58e61751bfa66f980e420622c974b34d2ea3221c90f13b1c",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+      "sha256": "e84646f4f0df73f77479e29f234e4006a0330965b2134aadfed764398457282a",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+      "sha256": "b03fa476b8fc220deca4e972d52b71e37a3e5f92422650c87b712366c24426d1",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+      "sha256": "0fe915e6765874978eb8f7b23444bf8df530cdc124964ca6cc5081c838335710",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+      "sha256": "08a2fd1f77121b89b319e501362aaceb3339ff0a6a1be71d3fe94989fec4f196",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+      "sha256": "a9e059525acb744aab2beda366e6577f6ebbf8c039e0693bb10f11fa6f359e1e",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+      "sha256": "6e3557c9a5c97f09eb9f014a67921c9fb1d4c6869f35ec7899623a742a909ba2",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/index.md",
+      "sha256": "f8cee793af958d28d119ca43684a1029b97ba51da64f9210548cda14a61bcdff",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md",
+      "sha256": "0b26b68123552100fc54fc60018784c056f3a8e8035220d6fb68b516c699e50c",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo.md",
+      "sha256": "10900669673b8f83e3c338bd401be2cdcf447bbcc87c6d145b33bb4dd943b033",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-10-tecnico-rettifiche-2026-10-03.md",
+      "sha256": "fc7ff890afdf2cc8859c60e711358e97126dcb4b80b1ac31ab42b443a3d7f168",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/topics/tecnico-ingegneristico-rettifiche-2026.md",
+      "sha256": "c38bda5c4298bc3d000ae5fd207c04ddb0b44377b0099abb803531d2b2a0c998",
+      "status": "text-frozen"
+    }
+  ],
+  "limitations": [
+    "PDF candidato corrente e resa delle figure non certificati; produzione e preflight da completare.",
+    "Fonti verificate nel perimetro dichiarato, non interi testi unici né allegati CAM integrali."
+  ]
+}

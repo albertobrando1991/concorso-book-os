@@ -1,0 +1,914 @@
+[
+  {
+    "chapter": "01",
+    "question": 1,
+    "text": "Un bando INPS amministrativo include previdenza e procedimento. Quale parte del programma richiede un'integrazione specialistica?",
+    "answer": "La previdenza, con rapporto contributivo, requisiti e prestazioni INPS. Il procedimento comune si riusa, applicandolo alle domande dell'ente: studiare solo amministrativo lascia scoperta una materia espressa.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "01",
+    "question": 2,
+    "text": "Il portale che pubblica il bando coincide necessariamente con il datore di lavoro?",
+    "answer": "No. Si distingue il portale di pubblicazione dal soggetto che assume e dall'eventuale gestore della selezione. inPA può ospitare procedure di amministrazioni diverse.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "01",
+    "question": 3,
+    "text": "Una funzione di riscossione rende automaticamente economico un ente pubblico?",
+    "answer": "No. La qualificazione dipende dall'ordinamento e dalla natura dell'attività istituzionale, non dall'esistenza di entrate. Un EPNE può riscuotere contributi senza diventare impresa pubblica.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "01",
+    "question": 4,
+    "text": "Un amministrativo ENEA applica il CCNL Funzioni Centrali perché svolge mansioni d'ufficio?",
+    "answer": "No. L'ente di ricerca rientra nel comparto Istruzione e Ricerca. Si riusano competenze amministrative, ma comparto e istituti contrattuali devono restare quelli pertinenti.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "01",
+    "question": 5,
+    "text": "Quale differenza essenziale impedisce di scambiare INPS e INAIL nel caso di un infortunio?",
+    "answer": "INAIL assicura il rischio di infortunio e malattia professionale nei presupposti di legge; INPS gestisce altre tutele previdenziali e assistenziali. L'appartenenza comune alla protezione sociale non rende intercambiabili le competenze.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "01",
+    "question": 6,
+    "text": "La presenza di CRI nella scheda comparativa prova che sia un EPNE delle Funzioni Centrali?",
+    "answer": "No. CRI è associazione di diritto privato dal 2016. La scheda ha funzione orientativa; il reclutamento e il contratto si identificano in base al soggetto e alla procedura.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "02",
+    "question": 1,
+    "text": "Chi approva il bilancio INPS predisposto dal CdA?",
+    "answer": "Il CIV, nell'ambito delle attribuzioni previste, con relazioni e controlli dovuti. La predisposizione del CdA e l'approvazione del CIV sono passaggi distinti.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "02",
+    "question": 2,
+    "text": "Chi ha la rappresentanza legale e presiede il CdA?",
+    "answer": "Il Presidente dell'Istituto. Non va confuso con il presidente del CIV, che appartiene all'organo di indirizzo e vigilanza.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "02",
+    "question": 3,
+    "text": "Quale organo coordina la tecnostruttura e la gestione?",
+    "answer": "Il direttore generale. Gli obiettivi strategici non autorizzano il CIV a sostituirsi alla struttura nella lavorazione ordinaria dei fascicoli.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "02",
+    "question": 4,
+    "text": "Il Collegio dei sindaci decide le domande di prestazione?",
+    "answer": "No. Svolge controllo amministrativo e contabile e riferisce sui documenti di bilancio; l'istruttoria e la decisione sulle prestazioni seguono le competenze degli uffici.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "02",
+    "question": 5,
+    "text": "La vigilanza ministeriale coincide con il controllo del CIV?",
+    "answer": "No. La prima è esterna e discende dai poteri legali dei ministeri; il CIV è organo dell'ente con funzioni strategiche e di verifica. Nemmeno il controllo della Corte dei conti coincide con i due.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "02",
+    "question": 6,
+    "text": "Si può applicare l'elenco degli organi INPS a qualsiasi EPNE?",
+    "answer": "No. La comparazione aiuta, ma per l'altro ente si leggono legge e statuto. Non si inventa un CIV dove l'ordinamento non lo prevede.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "03",
+    "question": 1,
+    "text": "Perché l'assegno sociale non richiede la stessa anzianità contributiva della vecchiaia?",
+    "answer": "È una prestazione assistenziale, fondata sui requisiti personali, di soggiorno e di bisogno economico previsti. La vecchiaia è una prestazione previdenziale con requisiti assicurativi e contributivi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "03",
+    "question": 2,
+    "text": "Nel 2026 una persona di 67 anni con 18 anni di contributi soddisfa la regola ordinaria della vecchiaia?",
+    "answer": "No: la regola ordinaria richiede almeno 20 anni. Prima dell'esito definitivo si verificano eventuali deroghe e periodi utili; l'età da sola non basta.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "03",
+    "question": 3,
+    "text": "La stessa percentuale di invalidità civile dimostra automaticamente il requisito per l'assegno ordinario della legge 222/1984?",
+    "answer": "No. L'assegno considera la capacità lavorativa nelle occupazioni confacenti alle attitudini, ridotta a meno di un terzo, e richiede contribuzione. Il giudizio assistenziale non si trasferisce automaticamente.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "03",
+    "question": 4,
+    "text": "Quaranta settimane utili nel quadriennio, mai impiegate per precedenti NASpI, quale durata teorica producono?",
+    "answer": "Venti settimane, applicando il criterio della metà, se sussistono tutti i requisiti. Il calcolo della durata resta distinto dalle condizioni di accesso e dalle vicende che possono sospendere o far decadere la prestazione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "03",
+    "question": 5,
+    "text": "Con reddito rilevante 18.000, patrimonio rilevante 10.000 e scala 2, quanto vale l'ISEE semplificato dell'esercizio?",
+    "answer": "10.000 euro: (18.000 + 0,20 × 10.000) / 2. I valori sono già determinati per l'esercizio; il risultato non prova da solo il diritto a una prestazione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "03",
+    "question": 6,
+    "text": "L'omesso contributo del datore comporta sempre il rigetto della domanda del dipendente?",
+    "answer": "No. Si verifica l'automaticità dell'articolo 2116 e la disciplina speciale, con limiti e prescrizione. Non si elimina però l'accertamento del lavoro e dei requisiti assicurativi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "04",
+    "question": 1,
+    "text": "La causa violenta richiede necessariamente un'aggressione?",
+    "answer": "No. Indica una causa concentrata nel tempo. Una lesione durante un'operazione di lavoro può integrare il requisito senza aggressione, purché ricorrano occasione di lavoro e ulteriori presupposti assicurativi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "04",
+    "question": 2,
+    "text": "Una malattia non tabellata è esclusa dalla tutela?",
+    "answer": "No. Il lavoratore può provare il nesso causale professionale. La tabella, nelle proprie condizioni, facilita la prova mediante presunzione; non esaurisce tutte le malattie tutelabili.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "04",
+    "question": 3,
+    "text": "Postumi del 10% e del 18% danno la stessa forma d'indennizzo nel regime del d.lgs. 38/2000?",
+    "answer": "No. Il 10% rientra nel capitale; il 18% nella rendita. Le percentuali riguardano la menomazione permanente, non il premio o la durata dell'assenza.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "04",
+    "question": 4,
+    "text": "Il mancato pagamento del premio da parte del datore esclude il dipendente assicurato?",
+    "answer": "No. Opera l'automaticità delle prestazioni, fermo l'accertamento dei presupposti. Il recupero del premio dal datore è distinto dal diritto del lavoratore.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "04",
+    "question": 5,
+    "text": "L'artigiano autonomo irregolare gode senza condizioni della stessa automaticità economica del dipendente?",
+    "answer": "No. Per l'autonomo la regolarizzazione contributiva condiziona le prestazioni economiche; restano garantite le prestazioni sanitarie e riabilitative nel quadro previsto.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "04",
+    "question": 6,
+    "text": "Una deviazione per fare acquisti personali equivale a quella imposta da una strada chiusa nel percorso casa-lavoro?",
+    "answer": "No. Nell'in itinere si valutano normalità del percorso e necessità della deviazione. L'esigenza personale non dimostra da sola il collegamento protetto.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "05",
+    "question": 1,
+    "text": "La mancanza di un certificato già detenuto da un'altra PA giustifica sempre una richiesta al cittadino?",
+    "answer": "No. L'ufficio acquisisce d'ufficio i dati e i documenti nei presupposti dell'articolo 18 della legge 241 e dell'articolo 43 del DPR 445; chiede gli elementi necessari a reperirli.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "05",
+    "question": 2,
+    "text": "Una richiesta di notizie sullo stato della domanda equivale a istanza di accesso integrale?",
+    "answer": "No. Si qualifica ciò che è richiesto: informazione sullo stato, accesso documentale e accesso civico hanno presupposti e limiti diversi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "05",
+    "question": 3,
+    "text": "La motivazione può limitarsi a 'requisiti non soddisfatti'?",
+    "answer": "Una formula generica non rende comprensibile il percorso. Occorre indicare i presupposti e le ragioni pertinenti al caso, consentendo di comprendere l'esito e le tutele.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "05",
+    "question": 4,
+    "text": "La trasparenza impone di pubblicare il fascicolo sanitario di un assicurato?",
+    "answer": "No. Gli obblighi di pubblicazione non autorizzano diffusione indiscriminata di dati sanitari. Finalità, base giuridica, limiti e minimizzazione restano vincolanti.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "05",
+    "question": 5,
+    "text": "Il dipendente allo sportello può promettere l'accoglimento dopo un'integrazione?",
+    "answer": "No. L'integrazione permette di proseguire l'istruttoria; non sostituisce la verifica complessiva dei requisiti e la decisione competente.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "05",
+    "question": 6,
+    "text": "Un familiare conosce numero di pratica e codice fiscale: questi dati provano la delega?",
+    "answer": "No. Conoscere identificativi non dimostra il titolo a ricevere informazioni. Si verifica identità, legittimazione e canale secondo la procedura.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "06",
+    "question": 1,
+    "text": "Quale disciplina impedisce di usare automaticamente il DUP comunale come documento degli EPNE?",
+    "answer": "Il quadro proprio degli enti, a partire dal DPR 97/2003, dall'armonizzazione del d.lgs. 91/2011 e dai regolamenti applicabili. Gli strumenti del TUEL non diventano universali.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "06",
+    "question": 2,
+    "text": "Cassa 200, residui attivi 100, passivi 150: quale risultato amministrativo semplificato?",
+    "answer": "150: 200 + 100 − 150. La cassa da sola non misura il risultato e questo va poi letto con vincoli e condizioni della gestione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "06",
+    "question": 3,
+    "text": "Il pagamento di un bene strumentale coincide necessariamente col costo economico dell'anno?",
+    "answer": "No. La spesa finanziaria e l'uscita possono concentrarsi all'acquisto, mentre il costo si distribuisce tramite ammortamento secondo le regole applicabili.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "06",
+    "question": 4,
+    "text": "Chi predispone e chi approva il preventivo INPS?",
+    "answer": "Il CdA predispone e il CIV approva nelle rispettive attribuzioni, con i controlli previsti. Il direttore generale non assorbe entrambi i compiti.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "06",
+    "question": 5,
+    "text": "Dove si leggono attività, passività e patrimonio netto?",
+    "answer": "Nello stato patrimoniale. Il conto economico riguarda il risultato economico e il conto del bilancio la gestione finanziaria: i tre documenti non sono sinonimi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "06",
+    "question": 6,
+    "text": "Una variazione di bilancio può essere eseguita modificando soltanto il file dell'ufficio?",
+    "answer": "No. Richiede il procedimento e l'atto dell'organo competente. Aggiornare il dato tecnico non sostituisce l'autorizzazione contabile.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "07",
+    "question": 1,
+    "text": "Ridurre i tempi di una pratica e aumentare il numero delle pratiche sono lo stesso indicatore?",
+    "answer": "No. Il primo misura tempestività, il secondo quantità. Per giudicare il servizio servono anche accuratezza, accessibilità e risultato: più pratiche non provano da sole maggiore valore pubblico.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "07",
+    "question": 2,
+    "text": "Il PIAO sostituisce il bilancio dell'ente?",
+    "answer": "No. Integra programmazione di attività e organizzazione, ma deve essere coerente con risorse e documenti contabili, senza sostituirli.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "07",
+    "question": 3,
+    "text": "Che differenza c'è fra output e impatto?",
+    "answer": "L'output è il prodotto dell'attività, come domande lavorate; l'impatto riguarda gli effetti sui destinatari e sul bisogno pubblico. Il secondo non si deduce automaticamente dal primo.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "07",
+    "question": 4,
+    "text": "Un obiettivo 'migliorare il servizio' è già misurabile?",
+    "answer": "No. Occorrono indicatore, valore di partenza, risultato atteso, tempo e responsabilità. Senza questi elementi non si può verificare il progresso.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "07",
+    "question": 5,
+    "text": "Un rischio corruttivo si esaurisce nella probabilità di un reato accertato?",
+    "answer": "No. La prevenzione considera processi, esposizioni e misure organizzative prima dell'accertamento penale. Il monitoraggio verifica se le misure operano davvero.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "07",
+    "question": 6,
+    "text": "Pubblicare il piano conclude il ciclo della performance?",
+    "answer": "No. Alla programmazione seguono gestione, monitoraggio, misurazione, valutazione e rendicontazione. La pubblicazione rende conoscibile il documento, non prova il risultato.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "08",
+    "question": 1,
+    "text": "Il CCNL Funzioni Centrali 2025–2027 era ancora una sola ipotesi il 3 ottobre 2026?",
+    "answer": "No. È stato sottoscritto definitivamente il 6 agosto 2026. L'ipotesi del 9 giugno è una fase precedente, da non usare come stato corrente.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "08",
+    "question": 2,
+    "text": "La firma del contratto rende immediatamente operativa ogni disposizione?",
+    "answer": "No. Si legge la decorrenza del singolo istituto: la disciplina delle ferie dell'articolo 21 opera dal 1 gennaio 2027, distinta dalla firma del 2026.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "08",
+    "question": 3,
+    "text": "Quali sono le quattro aree del comparto Funzioni Centrali?",
+    "answer": "Operatori, Assistenti, Funzionari ed Elevate professionalità. Area, famiglia e profilo hanno funzioni diverse: il bando specifica requisiti e contenuti del posto.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "08",
+    "question": 4,
+    "text": "Un ordine manifestamente illegittimo va eseguito senza rilievi perché gerarchico?",
+    "answer": "No. Si applicano rimostranza e rinnovo scritto secondo la disciplina contrattuale; non si esegue comunque se vietato dalla legge penale o costituente illecito amministrativo.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "08",
+    "question": 5,
+    "text": "Un familiare interessato a una pratica richiede soltanto maggiore attenzione?",
+    "answer": "Il dipendente deve segnalare il conflitto e astenersi nei casi previsti, seguendo la decisione organizzativa competente. L'accuratezza non neutralizza il conflitto.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "08",
+    "question": 6,
+    "text": "Il profilo amministrativo di un ente di ricerca basta per applicare Funzioni Centrali?",
+    "answer": "No. Il comparto dipende dall'amministrazione e dal personale incluso nel CCNQ, non dal solo aggettivo amministrativo.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "09",
+    "question": 1,
+    "text": "La presenza di fondi autorizza direttamente il pagamento di una fornitura?",
+    "answer": "No. Occorrono il corretto ciclo di acquisto, l'obbligazione, la verifica dell'esecuzione e gli adempimenti contabili. Disponibilità e regolarità della spesa sono condizioni distinte.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "09",
+    "question": 2,
+    "text": "MEPA e convenzione Consip sono lo stesso strumento?",
+    "answer": "No. Il mercato elettronico consente strumenti di acquisto e negoziazione nel proprio ambito; la convenzione contiene condizioni contrattuali cui aderire. Si verificano obblighi e disponibilità dello strumento pertinente.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "09",
+    "question": 3,
+    "text": "Il RUP può essere identificato con qualunque addetto che usa la piattaforma?",
+    "answer": "No. La funzione di responsabile unico del progetto deriva dalla nomina e dai requisiti, con compiti propri. L'accesso tecnico al sistema non attribuisce automaticamente la funzione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "09",
+    "question": 4,
+    "text": "Si può dividere un acquisto unitario per collocare ogni parte sotto una soglia?",
+    "answer": "Non per eludere le regole. Il valore stimato si determina secondo il codice, considerando il fabbisogno e gli elementi rilevanti, prima di scegliere la procedura.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "09",
+    "question": 5,
+    "text": "Una fattura prova sempre la corretta esecuzione?",
+    "answer": "No. È un documento della richiesta di pagamento; la verifica di conformità o regolare esecuzione confronta prestazione, contratto e risultati dovuti.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "09",
+    "question": 6,
+    "text": "Una difficoltà tecnica della piattaforma permette automaticamente di usare un acquisto informale?",
+    "answer": "No. Si attivano assistenza e procedure autorizzate, documentando la criticità. Il problema tecnico non elimina competenza, tracciabilità e obblighi di digitalizzazione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "10",
+    "question": 1,
+    "text": "Un bando distingue tre codici profilo: basta una sola scheda materie?",
+    "answer": "No. Si selezionano codice, requisiti e prove del profilo scelto. Le disposizioni comuni si condividono; le differenze non si cancellano in una media fra programmi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "10",
+    "question": 2,
+    "text": "Un articolo divulgativo riporta una data diversa dall'avviso di rettifica ufficiale: quale si registra?",
+    "answer": "La data dell'atto ufficiale pertinente, con collegamento e data di verifica. Si conserva la traccia della rettifica per non studiare o presentare domanda sulla versione precedente.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "10",
+    "question": 3,
+    "text": "La presenza di un diploma fra i titoli valutabili prova che sia titolo di accesso?",
+    "answer": "No. Requisiti di ammissione e titoli che attribuiscono punteggio sono sezioni diverse del bando.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "10",
+    "question": 4,
+    "text": "Una prova di 40 domande in 60 minuti quale tempo medio lascia per quesito?",
+    "answer": "Novanta secondi, prima di riservare tempo al controllo finale. Il dato serve a progettare l'allenamento, non a imporre lo stesso tempo a ogni domanda.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "10",
+    "question": 5,
+    "text": "Il gestore RIPAM/Formez coincide necessariamente con l'amministrazione di destinazione?",
+    "answer": "No. Si distinguono gestione della procedura e posti presso gli enti indicati. La materia ordinamentale dipende dal programma e dall'ente di destinazione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "10",
+    "question": 6,
+    "text": "Un bando campione del 2024 autorizza a usare nel 2026 gli stessi punteggi?",
+    "answer": "No. È un esempio di lettura. Numero di quesiti, penalità, soglie e tempi vanno presi dal bando effettivamente seguito.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "11",
+    "question": 1,
+    "text": "Nel caso 1 si deve chiedere all'utente il certificato comunale di residenza?",
+    "answer": "No. È un dato detenuto da un'altra PA: l'ufficio lo acquisisce d'ufficio con gli elementi per reperirlo. La domanda non va respinta né accolta automaticamente.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "11",
+    "question": 2,
+    "text": "Qual è il termine della dichiarazione sulle lavorazioni nel caso P-18?",
+    "answer": "Il 21 ottobre 2026, stabilito dalla traccia come dato didattico. Non va presentato come termine generale per tutte le integrazioni INAIL.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "11",
+    "question": 3,
+    "text": "La richiesta di copia integrale dell'impresa nel caso P-18 consente di inviare subito i dati sanitari del lavoratore?",
+    "answer": "No. Si qualifica l'accesso, si verificano legittimazione, limiti e controinteressati, proteggendo i dati non ostensibili. Il sollecito non sostituisce questi controlli.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "11",
+    "question": 4,
+    "text": "Una risposta modello che cita molte norme ma non indica il prossimo atto è sufficiente?",
+    "answer": "No. Deve applicare le regole ai fatti e produrre l'output richiesto, come comunicazione, acquisizione d'ufficio o istruttoria motivata.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "11",
+    "question": 5,
+    "text": "Quali dati rendono verificabile una richiesta di integrazione?",
+    "answer": "Pratica, elemento necessario, ragione della richiesta, termine e canale quando determinati, conseguenze e riferimento dell'ufficio. Prima si esclude ciò che è acquisibile d'ufficio.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "11",
+    "question": 6,
+    "text": "L'errore presente in un fascicolo può essere corretto senza traccia per evitare ritardi?",
+    "answer": "No. Si verifica la fonte del dato e si segue la procedura di rettifica, conservando responsabilità e tracciabilità dei passaggi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "12",
+    "question": 1,
+    "text": "Il telefono è sempre vietato per informazioni su una pratica?",
+    "answer": "No. È utilizzabile nei limiti della procedura autorizzata, dopo verifica di identità e titolo e per i dati comunicabili. L'urgenza dichiarata non sostituisce queste condizioni.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "12",
+    "question": 2,
+    "text": "Un conoscente chiede di anticipare la propria pratica: basta non accettare regali?",
+    "answer": "No. Si evita il favore, si verifica e segnala il conflitto e ci si astiene nei casi dovuti. L'imparzialità riguarda anche priorità e accessi informativi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "12",
+    "question": 3,
+    "text": "Un collega senza password può usare le credenziali del dipendente presente?",
+    "answer": "No. Si attiva recupero/supporto e si gestisce l'urgenza con il responsabile. L'eventuale riassegnazione deve essere autorizzata e tracciata, con credenziali personali.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "12",
+    "question": 4,
+    "text": "Un invio interno con dati eccedenti può essere ignorato perché il destinatario lavora nello stesso ente?",
+    "answer": "No. Si segnala tramite i canali previsti e si collabora al contenimento e alla valutazione. La natura interna non esclude un trattamento improprio.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "12",
+    "question": 5,
+    "text": "La persona che protesta più forte ha automaticamente priorità?",
+    "answer": "No. Si applicano urgenza effettiva, scadenze e criteri del servizio, dando informazioni chiare senza favoritismi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "12",
+    "question": 6,
+    "text": "Una risposta incerta sul requisito può essere presentata come sicura per rassicurare l'utente?",
+    "answer": "No. Si distingue l'informazione generale dalla verifica necessaria, si indica il canale competente e si organizza un riscontro senza promettere l'esito.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "13",
+    "question": 1,
+    "text": "Un piano di 30 giorni può essere ottenuto tagliando a un terzo ogni attività di quello da 90?",
+    "answer": "Non automaticamente. Si rivalutano preparazione iniziale, priorità del bando, tempi e output indispensabili, preservando simulazione e recupero degli errori.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "13",
+    "question": 2,
+    "text": "Un candidato legge molto ma non produce risposte: quale misura manca?",
+    "answer": "La verifica della prestazione: quiz, caso, orale o elaborato a tempo. Le ore impiegate non dimostrano da sole capacità di risposta.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "13",
+    "question": 3,
+    "text": "Come si formulerebbe una voce di recupero utile per un errore sul danno biologico?",
+    "answer": "Indicare la distinzione da riscrivere, l'esercizio da rifare e una data: per esempio confrontare capitale/rendita, risolvere due casi e verificare il risultato venerdì. 'Ripassare INAIL' è troppo vago.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "13",
+    "question": 4,
+    "text": "Dove si trovano i dieci scenari previsti dalla sessione del capitolo?",
+    "answer": "Negli otto quesiti del capitolo 12, nel suo caso sul familiare e nel caso ragionato di chiusura. Gli ultimi due richiedono una condotta motivata, non una lettera inventata.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "13",
+    "question": 5,
+    "text": "Un errore risolto una volta va cancellato dal diario?",
+    "answer": "No. Si archivia con data e prova di recupero e si riprova in contesto diverso. Si eliminano duplicati, non lo storico utile al controllo.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "13",
+    "question": 6,
+    "text": "Se una materia già solida pesa poco e una debole pesa molto, come si distribuisce il tempo?",
+    "answer": "Si aumenta la priorità della materia debole e rilevante, mantenendo richiami delle altre. Il piano incrocia peso, lacuna e tempo necessario, non divide automaticamente le ore in parti uguali.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "14",
+    "question": 1,
+    "text": "La diffida accertativa dell'articolo 12 recupera per l'INPS ogni contributo omesso?",
+    "answer": "No. Riguarda crediti patrimoniali del lavoratore risultanti dall'accertamento. Il credito contributivo dell'ente segue la propria disciplina e non coincide con la retribuzione dovuta.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "14",
+    "question": 2,
+    "text": "Quale atto documenta lavoratori, attività e richieste alla conclusione del primo accesso?",
+    "answer": "Il verbale di primo accesso, distinto dal verbale unico che espone gli esiti conclusivi e le violazioni. Una richiesta istruttoria non è già una sanzione definitiva.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "14",
+    "question": 3,
+    "text": "Entro quale termine generale il datore può promuovere conciliazione contro la diffida accertativa?",
+    "answer": "Entro trenta giorni dalla notifica. In alternativa può ricorrere al direttore dell'ufficio, notificando al lavoratore: il percorso non coincide con la diffida alla regolarizzazione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "14",
+    "question": 4,
+    "text": "Il ricorso contro la diffida accertativa produce silenzio-rigetto dopo sessanta giorni?",
+    "answer": "No. È previsto il termine per la decisione, ma non si ricostruisce un silenzio-rigetto automatico. L'esecutività è sospesa secondo la disciplina del ricorso.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "14",
+    "question": 5,
+    "text": "La diffida accertativa riformata richiede sempre una successiva validazione per divenire titolo?",
+    "answer": "No. Acquista efficacia esecutiva nei presupposti dell'articolo 12 riformato: inutile decorso del termine, mancato accordo o rigetto. Non si ripropone la procedura anteriore al 2020.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "14",
+    "question": 6,
+    "text": "Il coordinamento INL dimostra che INPS e INAIL non abbiano più propri ispettori?",
+    "answer": "No. Occorre leggere il quadro aggiornato, incluse le modifiche del 2024 sui ruoli. Coordinamento e titolarità delle funzioni non equivalgono ad assorbimento indistinto.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "15",
+    "question": 1,
+    "text": "Che cosa distingue premio e indennizzo INAIL?",
+    "answer": "Il premio finanzia la copertura ed è dovuto dal soggetto obbligato; l'indennizzo è una prestazione a favore dell'assicurato nei presupposti. Sono flussi con funzione e destinatari diversi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "15",
+    "question": 2,
+    "text": "Danno biologico significa soltanto diminuzione dello stipendio?",
+    "answer": "No. È menomazione dell'integrità psicofisica valutabile medico-legalmente. Le conseguenze patrimoniali sono un piano distinto, pur potendo rilevare nella rendita.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "15",
+    "question": 3,
+    "text": "L'assicurazione INAIL è estranea alla previdenza sociale?",
+    "answer": "No. Ne è una componente, specializzata nei rischi professionali tutelati. La distinzione rispetto a INPS concerne funzioni e prestazioni, non l'esclusione dalla previdenza.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "15",
+    "question": 4,
+    "text": "La domanda presentata prova già il diritto alla prestazione?",
+    "answer": "No. Attiva il procedimento; il diritto dipende dai presupposti legali da accertare. Ciò non nega l'automaticità contro l'omissione assicurativa del datore.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "15",
+    "question": 5,
+    "text": "DSU e ISEE sono sinonimi?",
+    "answer": "No. La DSU raccoglie dichiarazioni e dati; l'ISEE è l'indicatore elaborato secondo le regole. Nessuno dei due coincide con l'erogazione del beneficio.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "15",
+    "question": 6,
+    "text": "Occasione di lavoro significa solo presenza fisica in azienda?",
+    "answer": "No. Richiede il collegamento funzionale con il lavoro e il rischio protetto. La coincidenza di luogo non prova da sola la tutela assicurativa.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "16",
+    "question": 1,
+    "text": "ENAC coincide con l'operatore ENAV?",
+    "answer": "No. ENAC esercita funzioni amministrative di regolazione, certificazione e vigilanza dell'aviazione civile; non si identifica con il gestore dei servizi della navigazione aerea.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "16",
+    "question": 2,
+    "text": "La natura di ente di ricerca cambia se il posto ISTAT è amministrativo?",
+    "answer": "No. Il profilo orienta competenze e programma, ma non trasforma ente e comparto. Il personale amministrativo resta nel quadro Istruzione e Ricerca.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "16",
+    "question": 3,
+    "text": "Qual è il dato giuridico essenziale sulla CRI dal 2016?",
+    "answer": "È associazione di diritto privato. La presenza nella scheda comparativa non la rende EPNE delle Funzioni Centrali e non determina il contratto della selezione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "16",
+    "question": 4,
+    "text": "Quale delta distingue la scheda CONI da quella ACI?",
+    "answer": "CONI richiede il raccordo con ordinamento e amministrazione dello sport; ACI con mobilità e servizi automobilistici. Le materie amministrative comuni non annullano la missione specifica.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "16",
+    "question": 5,
+    "text": "Un bando ASI amministrativo impone necessariamente di studiare ingegneria spaziale?",
+    "answer": "No. Si studiano i contenuti del programma e l'organizzazione dell'ente. La missione spaziale non coincide da sola con il livello tecnico richiesto al profilo.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "16",
+    "question": 6,
+    "text": "Quali tre verifiche precedono il riuso di un percorso per un altro ente?",
+    "answer": "Natura e ordinamento dell'ente, comparto/personale interessato, profilo e programma effettivi. Solo dopo si selezionano le parti comuni e quelle da integrare.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "17",
+    "question": 1,
+    "text": "Una schermata del portale basta se il bando rinvia a un allegato sui requisiti?",
+    "answer": "No. L'allegato è parte della documentazione da leggere. La scheda deve riportare il requisito completo e la sua fonte, non la sola sintesi della schermata.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "17",
+    "question": 2,
+    "text": "Un avviso successivo va ignorato se la domanda è già inviata?",
+    "answer": "No. Può incidere su prove, convocazioni o adempimenti. Si controllano i canali indicati dal bando e si conserva la ricevuta degli eventuali aggiornamenti.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "17",
+    "question": 3,
+    "text": "Quale errore si commette attribuendo a Formez il posto offerto da INAIL?",
+    "answer": "Si confonde gestore della selezione con amministrazione di destinazione. La confusione può alterare anche il piano sulle materie ordinamentali.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "17",
+    "question": 4,
+    "text": "Il requisito presente nel bando dell'anno precedente vale in quello nuovo?",
+    "answer": "Solo se è nuovamente previsto dalla fonte attuale. Il confronto storico aiuta a leggere, ma non sostituisce il testo della procedura seguita.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "17",
+    "question": 5,
+    "text": "Un errore non ripetuto per sette giorni va cancellato?",
+    "answer": "No. Si marca recuperato con data ed evidenza e si conserva per un controllo differito; si eliminano soltanto righe duplicate.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "17",
+    "question": 6,
+    "text": "Il nome identico di due profili dimostra programmi identici?",
+    "answer": "No. Si confrontano codici, requisiti, prove e materie. Il titolo sintetico non contiene tutte le condizioni della selezione.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "18",
+    "question": 1,
+    "text": "Un rinvio al solo nome 'modulo ICT' prova la copertura di una materia?",
+    "answer": "No. Occorrono destinazione esistente, capitolo e sezione pertinenti. Il rinvio deve spiegare quale conoscenza si trova lì e quale resta da integrare.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "18",
+    "question": 2,
+    "text": "L'appendice ispettiva rende inutile il programma specialistico di diritto del lavoro?",
+    "answer": "No. Offre istituti e sequenza essenziale, ma le specifiche fattispecie richieste dal bando devono essere sviluppate o reperite in una trattazione completa.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "18",
+    "question": 3,
+    "text": "Una scheda orientativa CRI può valere come manuale di servizio sociale?",
+    "answer": "No. Natura dell'organizzazione e formazione professionale sono oggetti diversi. Il raccordo amministrativo non copre metodologia e legislazione del profilo sociale.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "18",
+    "question": 4,
+    "text": "Quale criterio distingue un riuso utile da una duplicazione?",
+    "answer": "Il riuso indica una trattazione comune precisa e sviluppa soltanto l'applicazione specialistica; la duplicazione ripete il comune senza aggiungere il delta richiesto.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "18",
+    "question": 5,
+    "text": "Il capitolo EPNE sugli acquisti copre automaticamente un profilo di procurement specialistico?",
+    "answer": "No. Serve il percorso di contratti e acquisti approfonditi, con programma e rinvii verificati; il caso amministrativo ordinario non basta a dimostrare tutta la copertura.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "18",
+    "question": 6,
+    "text": "Se una destinazione promessa non esiste nel catalogo, come si registra?",
+    "answer": "Come contenuto fuori perimetro da reperire, senza dichiararlo coperto. Non si trasforma il codice di un modulo in una pagina disponibile.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "19",
+    "question": 1,
+    "text": "Nel 2026 l'articolo 323 c.p. può essere elencato come reato vigente di abuso d'ufficio?",
+    "answer": "No. È stato abrogato dalla legge 114/2024. Il 314-bis ha una fattispecie distinta e non ricrea automaticamente ogni precedente ipotesi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "19",
+    "question": 2,
+    "text": "Chi conserva la valutazione dei rischi e la designazione del RSPP come obblighi non delegabili?",
+    "answer": "Il datore di lavoro ai sensi dell'articolo 17 del d.lgs. 81/2008. Il supporto tecnico del consulente non trasferisce questi obblighi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "19",
+    "question": 3,
+    "text": "Una mancata consegna in un contratto valido dimostra necessariamente nullità?",
+    "answer": "No. Si esaminano inadempimento, adempimento o risoluzione e risarcimento nei presupposti; la nullità riguarda vizi originari diversi.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "19",
+    "question": 4,
+    "text": "Ogni controversia INAIL richiede l'ATP dell'articolo 445-bis c.p.c.?",
+    "answer": "No. L'ATP opera nelle controversie sanitarie espressamente elencate. Non si estende a ogni prestazione o controversia previdenziale solo per la presenza di un ente assicuratore.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "19",
+    "question": 5,
+    "text": "Imposta di 2.000 su 20.000 e 4.000 su 40.000: è dimostrata progressività?",
+    "answer": "No. L'aliquota media resta il 10%, quindi l'esempio è proporzionale. L'aumento dell'importo assoluto non prova l'aumento dell'incidenza.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  },
+  {
+    "chapter": "19",
+    "question": 6,
+    "text": "Il RLS adotta il DVR in sostituzione del datore?",
+    "answer": "No. È consultato e rappresenta i lavoratori nelle attribuzioni previste. Consultazione, supporto tecnico e obbligo datoriale di valutazione sono funzioni distinte.",
+    "format": "risposta aperta",
+    "review": "controllata sul nucleo e sui fatti"
+  }
+]

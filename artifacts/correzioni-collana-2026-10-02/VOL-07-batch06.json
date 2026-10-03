@@ -1,0 +1,63 @@
+{
+  "V07-28": {
+    "change": "Distinti obbligo generale di inglese/informatica e modalità mobili; corretti esercizio, soluzione e rinvii SA04.",
+    "files": [
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md"
+    ],
+    "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-29": {
+    "change": "Inseriti punteggi e soglie nazionali DPR483 per quattro profili e DPR220 nei due moduli di comparto.",
+    "files": [
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md"
+    ],
+    "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-30": {
+    "change": "Acquisita relazione ministeriale NSG valida, riconciliate esclusioni della source, aggiunto cruscotto originale e raccordo SA01.",
+    "files": [
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+      "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md"
+    ],
+    "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-31": {
+    "change": "Chiarita autonomia e responsabilità del medico abilitato distinta dai limiti del manuale.",
+    "files": [
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md"
+    ],
+    "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-32": {
+    "change": "Definiti eventi, SIMES, RCA/FMEA e applicazione originale con rinvio SA04.",
+    "files": [
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md"
+    ],
+    "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-33": {
+    "change": "Completato differenziale illustrativo con ipotesi, dati e verifiche discriminanti.",
+    "files": [
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md"
+    ],
+    "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-34": {
+    "change": "Corretta vigenza CNOP e confrontati gli articoli pertinenti con il testo ufficiale attuale.",
+    "files": [
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "wiki/sources/deontologia-biologo-farmacista-psicologo-2026.md"
+    ],
+    "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+    "status": "applicato"
+  }
+}

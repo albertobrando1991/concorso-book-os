@@ -7,9 +7,9 @@ domain: "concorsi pubblici italiani"
 source_refs: ["sources/modulo-m-tr03-tecnico-ingegneristico-vol-10", "sources/logica-volumi-copertura-concorsobook-v4", "sources/principio-copertura-didattica-integrale-2026-07-17"]
 book_refs: ["m-tr03-tecnico-ingegneristico", "vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.82
-updated_at: 2026-07-30
+updated_at: 2026-10-03
 created_at: 2026-07-30
-review_required: true
+review_required: false
 canonical: false
 tags: ["editorial-review", "book-bible", "m-tr03", "vol-10"]
 ---
@@ -58,7 +58,7 @@ La sequenza procede da lettura del bando e contesto amministrativo a fondamenti 
 
 ## Struttura didattica ricorrente
 
-Ogni capitolo mantiene, con adattamenti motivati: obiettivo, Mappa BANDO, teoria, distinzioni operative, esempio o caso, domanda da commissario, domanda-trappola o errore tipico, esercizio/checklist, riferimenti consolidati e note di review. Il capitolo 13 integra gli output e non sostituisce la teoria dei capitoli 1-12.
+Ogni capitolo mantiene, con adattamenti motivati: obiettivo, Mappa BANDO, teoria, distinzioni operative, esempio o caso, domanda da commissario, domanda-trappola o errore tipico, esercizio/checklist, riferimenti normativi e professionali leggibili; note di review soltanto nello staff. Il capitolo 13 integra gli output e non sostituisce la teoria dei capitoli 1-12.
 
 ## Confini di collana
 
@@ -69,5 +69,9 @@ Ogni capitolo mantiene, con adattamenti motivati: obiettivo, Mappa BANDO, teoria
 
 ## Stato della copertura
 
-La matrice v4 registra 16 nuclei: 15 `completo` e 1 `rinviato` con destinazioni precise in VOL-01. Non risultano nuclei `parziale`, `solo-nominato` o `mancante`. Questo dato non sostituisce la review normativa, professionale e visuale ancora richiesta prima della pubblicazione.
+La matrice v4 registra 16 righe di materia/perimetro: 15 `completo` e 1 `rinviato` con destinazioni precise in VOL-01. Non risultano nuclei `parziale`, `solo-nominato` o `mancante`. Questo dato non sostituisce la review normativa, professionale e visuale ancora richiesta prima della pubblicazione.
 
+
+## Riesame del 3 ottobre 2026
+
+Diciotto rilievi applicati e verificati: esempi quantitativi, regole nazionali, transitori e dossier cartaceo autosufficiente. Quattro figure didattiche collegate ai capitoli 3 e 13. Le nuove fonti e il rapporto corrente prevalgono sulle attestazioni storiche; nessuna pubblicabilità del PDF è anticipata. Capitoli legacy fuori dal ciclo 08–12: avvisi di retrofit e squilibrio conservati.

@@ -705,3 +705,67 @@
 - 2026-08-23T19:40:25.316Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
 - 2026-08-23T19:46:34.722Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
 - 2026-08-23T19:58:22.239Z | manual_writer | books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md | mode=draft | target_heading=Bozza agente | knowledge=1 | memory=5
+- 2026-10-02 | integration_scope | VOL-01 e VOL-07/M-SA01 | Autorizzate integrazioni nazionali; escluse Campania/ASL Caserta e cultura generale. Cultura generale rinviata a banca dati quiz senza teoria, non avviata. Audit e piano in reviews/piano-integrazioni-vol-01-vol-07-2026-10-02.md. Step14 riaperti con cascata e presi in carico tramite CLI; nessun gate dichiarato superato. Prosa libri non ancora modificata: in attesa scelta sul modello obbligatorio con CLI non autenticato. PDF Angela v2 non reperito; confronto integrale dei due piani non concluso.
+
+- 2026-10-02 | audit_prepubblicazione_collana | VOL-01/VOL-12 | Ricognizione dei 12 volumi: 349 file, 326 capitoli/appendici cartacei; 321 gate tentati (266 PASS, 6 non passati per densita, 49 non disponibili nel run-state corrente). Primo rapporto E01-E12 e registro per capitolo in reviews/audit-prepubblicazione-collana-2026-10-02.md e reviews/registro-audit-collana-2026-10-02.md. Verifiche esterne mirate MIM/ARAN/NTC. Nessuna correzione ai libri o modifica della pipeline; revisione integrale dei contenuti, quiz e PDF NON conclusa.
+
+- 2026-10-02 | integration_execution | VOL-01 e VOL-07/M-SA01 | Rettifica stato del precedente integration_scope: utente autorizza modello corrente per questa sessione, senza cambiare modello permanente. Scritte INT01-08 in cinque capitoli, 43 nuovi quiz commentati, casi ed esercizi; revisioni indipendenti del delta senza errori sostanziali residui. Fonti consolidate e collegate; matrice aggiornata. Esclusioni Campania e cultura generale confermate; PDF Angela v2 ancora non reperito. M-SA01 report14/15 passed e freeze16 verificato manualmente, gate automatico non implementato; nuova impaginazione/PDF non ancora approvati.
+- 2026-10-02 | pipeline_recovery | VOL-07 | Una nota tra heading Moduli e tabella ha fatto perdere al parser i moduli e al sync157 record. Nessuna perdita di capitoli. Nota spostata e parser verificato4moduli/25capitoli; recuperato esclusivamente proprio errore del run-state da HEAD identico all'index, poi sync senza added/dropped e replay CLI reopen14 cascade, next/complete14-15. Ripristinati169target e storico estraneo; timestamp delle operazioni recenti ricreati tramite esecuzioni reali. Nessun JSON editato a mano.
+- 2026-10-02 | persistent_layout_preference | Tutti i volumi | Utente: «ricorda di ottimizzare sempre anche il layout delle pagine». Salvato tramite LocalAgentMemory e aggiunto a wiki/AGENTS.md: controllo di spazi, tabelle, quiz, titoli orfani, interruzioni, margini e leggibilità sul nuovo impaginato; niente miniaturizzazione per ridurre pagine. Avviata ricognizione Book Studio e divisione controllata delle tabelle dense. Text freeze distinto da approvazione del PDF.
+- 2026-10-02 | integration_text_freeze_and_layout | VOL-01 e M-SA01 | Entrambi chiusi fino16 tramiteCLI:14/15passed,16manuale motivato perché non implementato. Matrici21 e12nuclei completi; manifest35 e12hash ricontrollati senza mismatch. Nove tabelle suddivise in2–3colonne nei cinque capitoli, conservando dati e testi;114tuple sanitarie verificate. Corretta etichetta orfana sanità mediante due sottotitoli, senza nuove nozioni. Lint/rinvii dei5capitoli e coverage2matrici passed. Preview controllata con diagnostica e campione visivo, non approvazione PDF. VOL-01 prossimo17; VOL-07 18in-progress, residui layout/PDF/preflight espliciti. Nessun commit/push o pubblicazione.
+
+- 2026-10-02 | audit_integrale_collana_concluso | VOL-01/VOL-12 | Revisione diagnostica conclusa: 326/326 capitoli e appendici cartacei letti con quiz/casi; 582 voci di intervento (503 testo, 79 PDF/figure/export). Panorama di 4861 pagine su 12 candidati, dettagli mirati e 308 immagini originali; verificati checksum. Fonti ufficiali controllate selettivamente, nessuna certificazione universale dei claim. Dossier e registro MD/CSV in reviews/audit-integrale-2026-10-02/. I precedenti report parziali sono storici. Nessuna correzione ai manoscritti, PDF o pipeline applicata da questo audit; preservate integrazioni di altri incarichi. Tutti i volumi richiedono interventi prima della pubblicazione. Ricettario digitale separato escluso; limiti e priorità espliciti.
+
+## 2026-10-03 — Applicazione correzioni collana autorizzata
+
+L'utente ha autorizzato tutte le modifiche e integrazioni dell'audit integrale. Avviato registro di applicazione e snapshot dei 326 manoscritti; step 14 riaperti tramite CLI, lavori paralleli con ownership distinta. Stato ancora in corso: nessun volume dichiarato pubblicabile. Dossier: [[reviews/correzioni-collana-2026-10-02/README]]. Memoria LocalAgentMemory aggiornata. Correzioni ai nuclei costituzionali e agli strumenti didattici VOL-01 applicate, con verifica indipendente e PDF ancora da completare.
+2026-10-03 — Correzioni collana in corso: consolidati aggiornamenti VOL01 e VOL09, esempi VOL01 verificati con esecuzione SQL e calcoli; dodici figure VOL01 corrette e collegate con manifest/hash, sette ulteriori in revisione grafica. VOL03 testo verificato dal revisore con freeze dei tre moduli. PDF finali e gate di pubblicazione ancora da completare; nessuna dichiarazione di pubblicabilità. Memoria locale aggiornata e fonti indicizzate.
+
+## 3 ottobre 2026 — Completamento applicazione rilievi testuali VOL-09
+
+Interventi registrati su tutti i 38 rilievi testuali del volume: fonti normative primarie, chiusura PNRR, tracciabilità/antifrode, DNSH/CAM, dieci simulazioni svolte, piano30/60/90 e kit cartaceo. Acquisiti tre bandi specialistici ufficiali; verificati direttamente commi449/450 e510/512/516 mediante paginazione Normattiva. Eliminata la promessa di appendici autonome inesistenti, con strumenti effettivi e destinazioni nel corpo. Formato2: 14capitoli,73nuclei, tutti sopra600parole e senza warning di densità dopo riequilibrio; il controllo quantitativo non sostituisce quello sostanziale. Matrice, audit15, freeze e nuovi PDF restano da chiudere. VOL01: 49/51testo,19figure corrette; frontespizi e verifica servizi digitali pendenti. Agenti: VOL03/07/08/10 testo verificato e congelato, nuovi PDF pendenti; VOL02/06 in corso; VOL11 preso in carico da review_vol03 dopo10; VOL04/05/12 ancora da correggere. Nessun via libera alla pubblicazione.
+
+
+## 2026-10-03 — Testi base e affidabilità del signoff
+
+VOL-01:49rilievi dei capitoli verificati,32unità congelate con41hash; due preliminari ancora aperti. Step14passato conwarning dichiarati,15passato,16manuale,17filosofia aggiornata,18in corso. Nuova prova666p. Corretto cascadeCLI per invalidare24 dopo modifiche;38test e typecheck passati. Riassegnati VOL04al coordinatore eVOL05al revisore03dopo11. Nessuna pubblicazione finale.
+
+
+## 2026-10-03 — Rettifica normativa Giustizia e figure VOL-01
+
+Consolidati conversione DL100/L145, UPP D.Lgs.151 coordinato, DL144 art.7, D.Lgs.240 e organigramma DIT. Rettificata fonte errata del 18 agosto con backup; collegati topic ed entità. VOL04 in correzione, gate13 ancora aperto. Installate tutte le19 figure VOL01 con etichette grandi; manifest e delta controllati aggiornati. Nuovo PDF necessario: nessuna pubblicabilità attestata.
+
+
+## 2026-10-03 — Giustizia primi sei capitoli e nuove prove PDF
+
+Applicati cap01–06VOL04,36quiz, mappa uffici/doppia dirigenza, UPP coordinato, dossier8documenti e CPCcon calendario; fonti/topic/entitycollegati, auditfinaleaperto. VOL01nuova prova675pagine:19figure corrette viste integralmente su pagina,43contatti ancora da esaminare. VOL11prova253p eVOL12prova487p,zerooverflowautomatici; visiva pendente. Nessuna pubblicabilità finale.
+
+
+## 2026-10-03 — Consolidamento processo penale VOL04
+
+Letti articoli CPP e circolare7maggio2026; source penale collegata a topic/entità. Rilevata omissione parser del pre-comma533c1, verificato HTML ufficiale. Nuova annotazione45-bis distinta da iscrizione e archiviazione. Preparazione integrazione07–08; nessun gate finale chiuso.
+
+
+## 2026-10-03 — Fonti cancelleria VOL04
+
+Consolidati artt76disp.att.CPC,116CPP,475CPCconduplicato,GDPR9/10eD.Lgs51. Distinti registri e applicativi, modello45bis aggiornato. Sezioni storiche2016 utilizzate per tassonomia senza trasferire le regole processuali superate.
+
+
+## 2026-10-03 — Fonti spese VOL04
+
+Consolidati TUSG, decreto reddituale2025, circolare24aprile2025 e Corte137/2026; CU minimo non annullato, patrocinio e recupero distinti per rito. Verificato avvio nazionale SPEdiGIUS nella scheda ministeriale19agosto2026.
+
+
+## 2026-10-03 — Correzioni Giustizia avanzate
+
+Applicati07–11con fonti consolidate,casi,30quiz; ricevuti13–14con12quiz e2dossier. Totale13capitoli78quiz, restano12eapparati, audit ePDF. Nuoveprove06(612p),07(448p),08(243p)con0overflowautomatici;visivaancoraaperta. Nessuna pubblicabilità finale.
+
+## 2026-10-03 — Consegna degli interni revisionati della collana
+
+Applicate e verificate 577 correzioni sui 582 rilievi originari (501 testuali e 76 di produzione); quattro parziali e una miglioria non bloccante restano esplicite. Tredici rilievi aggiuntivi registrati separatamente. Dodici pacchetti locali con PDF e manifest, VOL-02 in due tomi. Copertura panoramica dei candidati e dettagli mirati documentati nei registri visuali. Build finale, typecheck e 52 test mirati superati; diff globale e test source graph con limiti documentati. VOL-04 ha superato 21, ma 22 resta aperto senza accettazione manuale. Dati digitali/editoriali, copertine, verifiche di stampa e conferma 24 non conclusi. Nessuna pubblicazione, commit o push. Indice: delivery/COLLANA-REVISIONATA-2026-10-03.md. I precedenti eventi di avanzamento sono storici e vengono aggiornati da questo riscontro.
+
+- 2026-10-03 | publication_refinements | collana 12 volumi / 13 interni | 13 copertine complete create e controllate; interni VOL01/06/09/10 rifiniti; audit 13 PDF senza font mancanti, testo fuori pagina o immagini sotto 300ppi; 2580 file verificati nei pacchetti; typecheck PASS; estratto schede VOL12 pronto, prova fisica non eseguita | report=../delivery/PUBBLICABILITA-2026-10-03.md | status=local-technical-delivery-ready-publication-pending | pending=dati editoriali reali, ISBN, condizioni digitali, canale e prova fisica; nessuna conferma24, upload o acquisto
+
+- 2026-10-03 | digital_publication_scope | priorità utente: volumi digitali corretti e completi sul sito, requisiti stampa separati | 12 candidate online, 348 unità e 251 asset verificati; 23 moduli Ricettario fuori dal precedente perimetro; tre richiami interni corretti in R4/R11/R20; nessuna promozione fittizia dei metadati e nessun rilascio | report=reviews/correzioni-collana-2026-10-02/DIGITALE.md | pending=forma di fruizione sito, revisione Ricettario, confronto proiezioni e collaudo sito
+
+- 2026-10-03 | editorial_staff_sync | autorizzati commit e push; preparato branch codex/revisione-collana-2026-10-03 con sorgenti, fonti, report, pacchetti correnti e strumenti editoriali; typecheck e 123 test mirati superati, 2580 file dei pacchetti e integrità digitale verificati | handoff=../docs/ALLINEAMENTO-STAFF-2026-10-03.md | revisione Ricettario in corso: testi R1-R11 letti, R12-R23 e immagini da completare; nessuna pubblicabilità o conferma24; esito del push da verificare sul remoto

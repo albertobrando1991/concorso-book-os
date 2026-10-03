@@ -1,0 +1,499 @@
+{
+  "volume": "VOL-08",
+  "module": "M-TR01",
+  "date": "2026-10-03",
+  "reviewType": "baseline integrale documentata nel ledger audit più riesame dei delta correnti",
+  "textVerified": true,
+  "finalVerified": false,
+  "findings": [
+    {
+      "id": "V08-01",
+      "position": "Indice modulo, r.1",
+      "category": "Stato editoriale",
+      "severity": "medio",
+      "diagnosis": "«publication-ready»: L’indice dichiara la pubblicabilità ma il suo Stato editoriale rinvia ancora agli step 13–24; M-TR02 è descritto come incompleto.",
+      "correction": "Indice e matrice riconciliati: nessuna pubblicabilità anticipata; M-TR02 è un rinvio effettivo al VOL-09.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-02",
+      "position": "Cap. 10, r.35",
+      "category": "Coerenza del metodo",
+      "severity": "grave",
+      "diagnosis": "«Base; Attori; Nodi; Documenti»: BANDO cambia significato nei capitoli 10, 11 (r. 35) e 12 (r. 47), rispetto a Bando, Aree, Nuclei, Diario, Output usato nel resto della collana.",
+      "correction": "Bando, Aree, Nuclei, Diario, Output ripristinati nei capitoli 10–12.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-03",
+      "position": "Cap. 01, r.1",
+      "category": "Destinazione editoriale",
+      "severity": "medio",
+      "diagnosis": "«Apparato di verifica dei nuclei»: Tutti i capitoli mantengono apparati di tracciabilità e formule rivolte al verificatore, non al candidato.",
+      "correction": "Tutte le 13 tabelle staff spostate in planning/verifiche; audit conserva controllo atomico dei target reali.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-04",
+      "position": "Cap. 02, r.137",
+      "category": "Precisione tecnica",
+      "severity": "medio",
+      "diagnosis": "«rappresentazione»: Complemento a due non nominato né mostrato; la virgola mobile è descritta con grandezza invece di esponente e significando.",
+      "correction": "Complemento a due su otto bit, intervalli, overflow e modello segno/esponente/significando con 1,5.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-05",
+      "position": "Cap. 03, r.367",
+      "category": "Precisione tecnica",
+      "severity": "medio",
+      "diagnosis": "«memoria aggiuntiva»: La complessità spaziale è identificata con la sola memoria ausiliaria.",
+      "correction": "Spazio totale e ausiliario distinti; scansione con contatore e modello dichiarato.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-06",
+      "position": "Cap. 03, r.381",
+      "category": "Precisione tecnica",
+      "severity": "medio",
+      "diagnosis": "«cresce linearmente»: O grande è definito come limite superiore ma poi interpretato come crescita esatta, anche nel raddoppio quadratico del quiz 5.",
+      "correction": "Limite O distinto da Theta; quiz 5 usa funzioni dominanti esplicite e calcolo del raddoppio.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-07",
+      "position": "Cap. 03, r.561",
+      "category": "Fonti",
+      "severity": "medio",
+      "diagnosis": "«materiali didattici universitari»: Le fonti di algoritmi non sono identificabili.",
+      "correction": "Fonte bibliografica identificata: Pat Morin, Open Data Structures, versione Python, § 1.3.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-08",
+      "position": "Cap. 04, r.97",
+      "category": "Esempio tecnico",
+      "severity": "medio",
+      "diagnosis": "«id_ufficio»: Lo schema non impone NOT NULL sulla chiave esterna benché ogni pratica debba appartenere a un ufficio; l’esempio Assegnazione a r. 169 ragiona inoltre su un attributo non riportato nello schema.",
+      "correction": "FK obbligatoria NOT NULL e id_ufficio esplicitato nello schema Assegnazione.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-09",
+      "position": "Cap. 04, r.305",
+      "category": "Copertura didattica",
+      "severity": "grave",
+      "diagnosis": "«livelli di isolamento»: L’isolamento è promesso ma mancano i quattro livelli e le anomalie che permettono di distinguerli.",
+      "correction": "Quattro livelli SQL, anomalie, specificità PostgreSQL 18 e sequenza concorrente risolta.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-10",
+      "position": "Cap. 05, r.377",
+      "category": "Precisione tecnica",
+      "severity": "medio",
+      "diagnosis": "«richiesta HTTP»: L’incapsulamento presume TCP senza precisare la versione di HTTP.",
+      "correction": "Esempio circoscritto a HTTP/1.1; HTTP/2 TCP e HTTP/3 QUIC distinti.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-11",
+      "position": "Cap. 06, r.146",
+      "category": "Coerenza tecnica",
+      "severity": "medio",
+      "diagnosis": "«Livello»: La regressione compare fra i livelli di test; a r. 415 il capitolo spiega correttamente che è uno scopo trasversale.",
+      "correction": "Regressione descritta come finalità trasversale ai livelli di test.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-12",
+      "position": "Cap. 06, r.357",
+      "category": "Esercitazione",
+      "severity": "medio",
+      "diagnosis": "«veloce»: La soluzione dell’esercizio sul requisito misurabile dice cosa specificare ma non formula un requisito verificabile.",
+      "correction": "Requisito risolto: utenti, dati, percentile, durata, latenza e tasso di errore.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-13",
+      "position": "Cap. 06, r.1",
+      "category": "Copertura didattica",
+      "severity": "medio",
+      "diagnosis": "«API»: La progettazione di API resta descrittiva: mancano un payload, codici di risposta e un contratto minimo concreto.",
+      "correction": "Vincoli REST, richiesta/risposta API, autorizzazione per oggetto, stati ed errori.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-14",
+      "position": "Cap. 07, r.177",
+      "category": "Copertura normativa",
+      "severity": "grave",
+      "diagnosis": "«strategici, critici e ordinari»: Le classi cloud sono nominate senza i criteri di impatto; il regolamento 2024 resta privo di estremi e regime.",
+      "correction": "Classificazione ordinario/critico/strategico e impatti; regolamento ACN 21007/24 e qualificazione distinta.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-15",
+      "position": "Cap. 08, r.287",
+      "category": "Terminologia",
+      "severity": "medio",
+      "diagnosis": "«STRIDE»: Le sei categorie sono elencate in inglese senza spiegazione applicativa.",
+      "correction": "Sei categorie STRIDE tradotte con minaccia, esempio e controllo.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-16",
+      "position": "Cap. 08, r.530",
+      "category": "Esercitazione",
+      "severity": "medio",
+      "diagnosis": "«risposta aperta»: Due soluzioni si limitano al criterio generale di correzione.",
+      "correction": "Due aperte cybersecurity risolte sul caso dei fascicoli e sui controlli temporanei.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-17",
+      "position": "Cap. 09, r.149",
+      "category": "Copertura normativa",
+      "severity": "grave",
+      "diagnosis": "«verificare»: NIS2 è ridotta al richiamo del d.lgs. 138/2024 e alla verifica futura: non insegna essenziali/importanti, obblighi di governance, criteri e sequenza delle notifiche; manca il raccordo con legge 90/2024.",
+      "correction": "NIS2 artt. 6 e 23–25, governance, coorti ACN 2025/2026, timeline e raccordo legge 90/GDPR.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-18",
+      "position": "Cap. 09, r.86",
+      "category": "Copertura tecnica",
+      "severity": "grave",
+      "diagnosis": "«crittografia»: Per un percorso cyber specialistico la trattazione non rende operative le differenze tra chiavi simmetriche/asimmetriche, firma, hash, certificati e catena di fiducia.",
+      "correction": "Simmetrica/asimmetrica, firme, hash, MAC, password, certificati, catena, revoca e TLS.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-19",
+      "position": "Cap. 09, r.218",
+      "category": "Qualità dei quiz",
+      "severity": "medio",
+      "diagnosis": "«NO»: Tutte le sei domande dei capitoli 9 e 10 hanno risposta negativa prevedibile; nel 9 la domanda 6 confronta una notifica con un evento data breach.",
+      "correction": "Dodici quiz riscritti nei capitoli 9–10, tre chiavi per lettera e commenti corrispondenti.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-20",
+      "position": "Cap. 09, r.100",
+      "category": "Refuso",
+      "severity": "lieve",
+      "diagnosis": "«nel ignorare»: Preposizione articolata errata.",
+      "correction": "Refuso “nell’ignorare” corretto.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-21",
+      "position": "Cap. 10, r.192",
+      "category": "Definizione normativa",
+      "severity": "grave",
+      "diagnosis": "«quando pertinente»: La definizione di open data rende eventuale il formato leggibile meccanicamente e non espone i tre requisiti cumulativi del CAD art. 1 l-ter.",
+      "correction": "Tre requisiti cumulativi della definizione CAD di dati di tipo aperto.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-22",
+      "position": "Cap. 10, r.196",
+      "category": "Copertura normativa",
+      "severity": "medio",
+      "diagnosis": "«possono includere»: Gli obblighi HVD sono formulati come possibilità indistinta.",
+      "correction": "HVD: API e formati obbligatori, bulk dove previsto; licenze, metadati e documentazione.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-23",
+      "position": "Cap. 10, r.223",
+      "category": "Rinvio insufficiente",
+      "severity": "medio",
+      "diagnosis": "«procedure di adesione»: Il rinvio al capitolo 6 promette procedure e dettagli PDND che quel capitolo non contiene.",
+      "correction": "Rinvio PDND delimitato e destinazione cap. 06 integrata con flusso, ruoli, voucher e caso.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-24",
+      "position": "Cap. 10, r.111",
+      "category": "Refuso",
+      "severity": "lieve",
+      "diagnosis": "«usare interno»: Forma verbale al posto del sostantivo.",
+      "correction": "Refuso “uso interno” corretto.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-25",
+      "position": "Cap. 11, r.169",
+      "category": "Copertura normativa",
+      "severity": "grave",
+      "diagnosis": "«calendario»: La compliance non sviluppa definizioni dei ruoli, criteri di rischio, principali obblighi PA né calendario; la legge 132/2025 resta un titolo, senza art. 14.",
+      "correction": "Ruoli e rischio AI, obblighi PA e legge 132 art. 14; calendario modificato dal regolamento 1744/2026 e transitori distinti.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-26",
+      "position": "Cap. 11, r.102",
+      "category": "Copertura didattica",
+      "severity": "grave",
+      "diagnosis": "«F1»: Il profilo data/AI non è sostenuto da algoritmi spiegati né da un calcolo completo di metriche; il cap. 3 r. 46 promette algoritmi ML nel cap. 11.",
+      "correction": "Albero decisionale, k-means, matrice di confusione, precision/recall/F1 e baseline calcolati.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-27",
+      "position": "Cap. 12, r.65",
+      "category": "Copertura normativa ICT",
+      "severity": "grave",
+      "diagnosis": "«riuso»: La scelta sviluppare/acquistare/riusare non espone valutazione comparativa e riuso degli artt. 68–69 CAD; il richiamo Consip non spiega gli obblighi specifici ICT.",
+      "correction": "CAD 68–69, confronto TCO, riuso e legge 208/2015 commi 512 e seguenti.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-28",
+      "position": "Cap. 12, r.115",
+      "category": "Esercitazione",
+      "severity": "medio",
+      "diagnosis": "«valore»: Nessun esempio numerico consente di calcolare disponibilità, SLA o scostamento, nonostante la promessa misurativa.",
+      "correction": "SLA su 43.200 minuti: 90 di fermo, 99,7917%, scostamento e limite di penali/esclusioni.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-29",
+      "position": "Cap. 12, r.216",
+      "category": "Ruoli",
+      "severity": "medio",
+      "diagnosis": "«quando previsto»: La funzione di direzione dell’esecuzione appare eventuale, senza distinguere esercizio da parte del RUP e nomina separata del DEC.",
+      "correction": "Funzione della direzione dell’esecuzione distinta dalla nomina di un DEC separato.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-30",
+      "position": "Cap. 12, r.263",
+      "category": "Ruoli privacy",
+      "severity": "medio",
+      "diagnosis": "«validazione»: La necessaria validazione del DPO è formulata come potere autorizzativo, in tensione con il cap. 10 che ne descrive il ruolo consultivo.",
+      "correction": "Decisione al titolare; DPO consiglia e sorveglia, senza approvazione sostitutiva.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-31",
+      "position": "Cap. 13, r.475",
+      "category": "Esercitazione",
+      "severity": "grave",
+      "diagnosis": "«Caso autonomo»: Il caso autonomo ha una rubrica ma non una soluzione modello; lo scritto tecnico a r. 445 offre una scaletta senza un elaborato effettivo.",
+      "correction": "Elaborato completo, diagnosi con tre ipotesi e prova SQL/algoritmo/metriche con risultati e rubrica.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V08-32",
+      "position": "Cap. 07, r.238",
+      "category": "Stile e progressione",
+      "severity": "medio",
+      "diagnosis": "«DevOps»: Ripetizioni additive estese nei capitoli 7–13; nel 10 le definizioni arrivano dopo applicazioni e riprese.",
+      "correction": "Definizioni prima delle applicazioni nel cap. 10; riprese condensate in 7/12/13; spazio usato per esempi e soluzioni.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    }
+  ],
+  "chapterGates": "13/13 senza warning",
+  "format2": {
+    "nuclei": 82,
+    "passed": true,
+    "staffEvidence": "planning/verifiche",
+    "testsPassed": 47
+  },
+  "newMcQuestions": 12,
+  "answerDistribution": {
+    "A": 3,
+    "B": 3,
+    "C": 3,
+    "D": 3
+  },
+  "bodyLinksUnresolved": 0,
+  "externalClaimsChecked": [
+    "https://cloud.italia.it/qualificazione-servizi-cloud/",
+    "https://csrc.nist.gov/Projects/log-management",
+    "https://csrc.nist.gov/projects/key-management/key-management-guidelines",
+    "https://csrc.nist.gov/pubs/sp/800/92/final",
+    "https://def.finanze.it/DocTribFrontend/executePrintArticolo.do?articolo=Articolo+1&codiceOrdinamento=0000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7BAA11E7C0-AFF2-4925-B787-55C9CF7A0C55%7D",
+    "https://def.finanze.it/DocTribFrontend/getAttoNormativoDetail.do?ACTION=getArticolo&codiceOrdinamento=0000000000000010000000000000000000000000005160000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7B87A9A68D-F316-4522-97DB-D295E5E1FB14%7D",
+    "https://developer.pagopa.it/pdnd-interoperabilita/guides/manuale-operativo-pdnd-interoperabilita/riferimenti-tecnici/glossario",
+    "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+    "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/acquisizione-software/valutazione-comparativa.html",
+    "https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-e-tabella-sinottica-degli-elementi-necessari-al-percorso-decisionale.html",
+    "https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2026-04-20/_rst/capo1_sezione1_art1.html",
+    "https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0138",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32026R1744",
+    "https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm",
+    "https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/",
+    "https://opendatastructures.org/ods-python/1_3_Mathematical_Background.html",
+    "https://scikit-learn.org/stable/modules/clustering.html#k-means",
+    "https://scikit-learn.org/stable/modules/tree.html",
+    "https://www.acn.gov.it/portale/documents/d/guest/detacn_misuresicurezza-v4_post",
+    "https://www.acn.gov.it/portale/documents/d/guest/detacn_obblighi_2511-v3_signed",
+    "https://www.acn.gov.it/portale/nis/la-normativa",
+    "https://www.agid.gov.it/en/domande-frequenti/suap",
+    "https://www.anticorruzione.it/documents/91439/d65e8b95-df51-493e-a7ed-896e801e07d7",
+    "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25G00143&art.dataPubblicazioneGazzetta=2025-09-25&art.flagTipoArticolo=0&art.idArticolo=14&art.idGruppo=2&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1",
+    "https://www.gazzettaufficiale.it/eli/gu/2024/10/01/230/sg/pdf",
+    "https://www.postgresql.org/docs/18/transaction-iso.html",
+    "https://www.rfc-editor.org/rfc/rfc9114.html"
+  ],
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+      "sha256": "0964ed1a8847d871bceae09f3f39faa1ae5f9dfe60650758b4d9b2a6b553652f",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md",
+      "sha256": "50b95d5b3e1d80197aacd73e135597bfde68bd7fe9b8aa9c0d20a77e6e0eff2f",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+      "sha256": "af390158e90e3bd57b7a9600e772d6f07c92403a3e131f93e2bdc469652bcb7f",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+      "sha256": "be77f3293722e2aea4057a9c3dfedd8339669464ba09b5d9473104558d6f0199",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
+      "sha256": "01dc0e85b978010ec9dfe0bf35f8e7c86e2d68262e0561c732c41e4bc290bf5b",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+      "sha256": "3dd4289386c3c372f93cc74e69c3be7c44e33f42d8b32ff7337720eafa6f62e1",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+      "sha256": "57c3c5b26d7bdf5319434a25a8291c1fd7b20d1e8b2ee095e94090600273af37",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "sha256": "b9b11a25f0609d704198171301a8f3b501d823f110618e495dd2d8e510699661",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+      "sha256": "95b8dc570b02aab9db21846acadcafe1c1d6f55d13c72e1a0666448058c5944d",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "sha256": "66f5e4c154a0bf270b3d2dc6699e634e03c39f0665d909a938b57fea377ab149",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+      "sha256": "a549642f409bebe77ba51a6003141cd557a7638febbd80eb5ed877bb10a00a88",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+      "sha256": "5ad8bc1b3dc719e5fc78daea2ab565b131928fe0a09c0e75053cab95f7a77ff7",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
+      "sha256": "5d04e416276b1dd88cb42989764412a19b64274a843336afdbad80ffe2bbc10b",
+      "readComplete": "baseline audit integrale; delta riletti e controllati",
+      "quizReview": "baseline completa; nuove domande e soluzioni ricontrollate",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    }
+  ],
+  "limitations": [
+    "ANAC: riscontro indicizzato, download fallito dichiarato; nessuna soglia non letta inserita",
+    "Nessuna lettura integrale dichiarata del regolamento UE di 41 pagine o della Gazzetta intera; passaggi pertinenti verificati",
+    "Produzione locale verificata; dipendenze comuni digitali/editoriali aperte. Nessun signoff24."
+  ],
+  "freezeManifest": "artifacts/correzioni-collana-2026-10-02/M-TR01-freeze.json",
+  "production": {
+    "volume": "VOL-08",
+    "pages": 244,
+    "pdfSha256": "ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de",
+    "report": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-08.md",
+    "visualReview": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/VOL-08-production-visual.json",
+    "indexEntriesVerified": 95,
+    "finalSignoff": false,
+    "findings": [
+      {
+        "id": "P08-01",
+        "position": "Indice, pp.6–8",
+        "category": "Tipografia",
+        "severity": "medio",
+        "diagnosis": "Indice storico a6,75pt.",
+        "correction": "Corpo minimo9,5pt e95destinazioni reali verificate.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P08-02",
+        "position": "Timeline, pp.163–164",
+        "category": "Tabelle",
+        "severity": "grave",
+        "diagnosis": "Parole spezzate e intestazioni ripetute sulla stessa pagina.",
+        "correction": "Gruppi di colonne collegati, sequenza delle fasi e responsabili leggibili.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P08-03",
+        "position": "Diario, p.237",
+        "category": "Usabilità",
+        "severity": "grave",
+        "diagnosis": "Otto colonne troppo strette per compilare.",
+        "correction": "Tre gruppi4/4/2 con campi brevi e righe vuote leggibili.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P08-04",
+        "position": "Aperture, controllo p.222",
+        "category": "Gerarchia",
+        "severity": "medio",
+        "diagnosis": "Titoli duplicati senza distinzione gerarchica.",
+        "correction": "Titolo capitolo distinto dalla prima sezione e riflusso verificato.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P08-05",
+        "position": "Chiusura, p.244",
+        "category": "Ritmo",
+        "severity": "lieve",
+        "diagnosis": "Avvertenza isolata nella pagina finale.",
+        "correction": "Avvertenza integrata con checklist e riferimenti.",
+        "status": "Corretto e verificato localmente"
+      }
+    ]
+  }
+}

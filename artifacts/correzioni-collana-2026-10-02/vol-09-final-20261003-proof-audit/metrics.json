@@ -1,0 +1,2012 @@
+{
+  "pdf": "artifacts\\correzioni-collana-2026-10-02\\vol-09-final-20261003-proof.pdf",
+  "pages": 267,
+  "pageSizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "fonts": [
+    {
+      "name": "Garamond",
+      "pt": 10.99,
+      "characters": 494601
+    },
+    {
+      "name": "ArialMT",
+      "pt": 9.49,
+      "characters": 60294
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 7.99,
+      "characters": 13357
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 12.0,
+      "characters": 10294
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 8.5,
+      "characters": 6818
+    },
+    {
+      "name": "Arial-Black",
+      "pt": 9.49,
+      "characters": 5710
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 13.99,
+      "characters": 3000
+    },
+    {
+      "name": "Arial-Black",
+      "pt": 10.0,
+      "characters": 630
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 19.99,
+      "characters": 584
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 9.49,
+      "characters": 439
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 5.25,
+      "characters": 378
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 10.99,
+      "characters": 160
+    },
+    {
+      "name": "Arial-Black",
+      "pt": 9.0,
+      "characters": 144
+    },
+    {
+      "name": "Arial-Black",
+      "pt": 7.5,
+      "characters": 70
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 10.0,
+      "characters": 36
+    },
+    {
+      "name": "Type3 (56 0 R)",
+      "pt": 12.0,
+      "characters": 28
+    },
+    {
+      "name": "Arial-Black",
+      "pt": 9.75,
+      "characters": 24
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 18.0,
+      "characters": 15
+    },
+    {
+      "name": "Arial-BoldMT",
+      "pt": 30.0,
+      "characters": 6
+    },
+    {
+      "name": "Georgia",
+      "pt": 10.99,
+      "characters": 1
+    }
+  ],
+  "pagesData": [
+    {
+      "page": 1,
+      "words": 106,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 2,
+      "words": 35,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 3,
+      "words": 94,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 4,
+      "words": 42,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 5,
+      "words": 87,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 6,
+      "words": 304,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 7,
+      "words": 287,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 8,
+      "words": 61,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 9,
+      "words": 112,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 10,
+      "words": 381,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 11,
+      "words": 386,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 12,
+      "words": 367,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 13,
+      "words": 291,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 14,
+      "words": 427,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 15,
+      "words": 448,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 16,
+      "words": 296,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 17,
+      "words": 398,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 18,
+      "words": 317,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 19,
+      "words": 328,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 20,
+      "words": 287,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 21,
+      "words": 444,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 22,
+      "words": 344,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 23,
+      "words": 268,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 24,
+      "words": 203,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 25,
+      "words": 342,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 26,
+      "words": 306,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 27,
+      "words": 291,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 28,
+      "words": 452,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 29,
+      "words": 371,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 30,
+      "words": 432,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 31,
+      "words": 388,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 32,
+      "words": 513,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 33,
+      "words": 267,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 34,
+      "words": 338,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 35,
+      "words": 350,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 36,
+      "words": 307,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 37,
+      "words": 321,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 38,
+      "words": 283,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 39,
+      "words": 309,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 40,
+      "words": 75,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 41,
+      "words": 310,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 42,
+      "words": 270,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 43,
+      "words": 376,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 44,
+      "words": 310,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 45,
+      "words": 331,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 46,
+      "words": 291,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 47,
+      "words": 273,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 48,
+      "words": 492,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 49,
+      "words": 348,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 50,
+      "words": 282,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 51,
+      "words": 299,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 52,
+      "words": 275,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 53,
+      "words": 336,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 54,
+      "words": 364,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 55,
+      "words": 371,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 56,
+      "words": 323,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 57,
+      "words": 161,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 58,
+      "words": 322,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 59,
+      "words": 325,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 60,
+      "words": 232,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 61,
+      "words": 382,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 62,
+      "words": 338,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 63,
+      "words": 249,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 64,
+      "words": 313,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 65,
+      "words": 352,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 66,
+      "words": 433,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 67,
+      "words": 376,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 68,
+      "words": 264,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 69,
+      "words": 421,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 70,
+      "words": 344,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 71,
+      "words": 315,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 72,
+      "words": 347,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 73,
+      "words": 238,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 74,
+      "words": 315,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 75,
+      "words": 344,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 76,
+      "words": 303,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 77,
+      "words": 333,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 78,
+      "words": 167,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 79,
+      "words": 282,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 80,
+      "words": 365,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 81,
+      "words": 387,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 82,
+      "words": 285,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 83,
+      "words": 263,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 84,
+      "words": 350,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 85,
+      "words": 302,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 86,
+      "words": 393,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 87,
+      "words": 264,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 88,
+      "words": 409,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 89,
+      "words": 348,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 90,
+      "words": 361,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 91,
+      "words": 312,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 92,
+      "words": 374,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 93,
+      "words": 266,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 94,
+      "words": 195,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 95,
+      "words": 185,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 96,
+      "words": 305,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 97,
+      "words": 252,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 98,
+      "words": 322,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 99,
+      "words": 335,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 100,
+      "words": 346,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 101,
+      "words": 366,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 102,
+      "words": 297,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 103,
+      "words": 388,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 104,
+      "words": 252,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 105,
+      "words": 274,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 106,
+      "words": 259,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 107,
+      "words": 422,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 108,
+      "words": 315,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 109,
+      "words": 409,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 110,
+      "words": 331,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 111,
+      "words": 324,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 112,
+      "words": 264,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 113,
+      "words": 235,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 114,
+      "words": 302,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 115,
+      "words": 343,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 116,
+      "words": 253,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 117,
+      "words": 278,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 118,
+      "words": 263,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 119,
+      "words": 277,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 120,
+      "words": 397,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 121,
+      "words": 392,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 122,
+      "words": 336,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 123,
+      "words": 390,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 124,
+      "words": 344,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 125,
+      "words": 448,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 126,
+      "words": 431,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 127,
+      "words": 238,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 128,
+      "words": 420,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 129,
+      "words": 376,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 130,
+      "words": 300,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 131,
+      "words": 297,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 132,
+      "words": 314,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 133,
+      "words": 77,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 134,
+      "words": 290,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 135,
+      "words": 243,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 136,
+      "words": 313,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 137,
+      "words": 268,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 138,
+      "words": 294,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 139,
+      "words": 310,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 140,
+      "words": 344,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 141,
+      "words": 358,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 142,
+      "words": 426,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 143,
+      "words": 400,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 144,
+      "words": 443,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 145,
+      "words": 397,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 146,
+      "words": 410,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 147,
+      "words": 272,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 148,
+      "words": 282,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 149,
+      "words": 297,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 150,
+      "words": 354,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 151,
+      "words": 191,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 152,
+      "words": 350,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 153,
+      "words": 408,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 154,
+      "words": 344,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 155,
+      "words": 409,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 156,
+      "words": 269,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 157,
+      "words": 301,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 158,
+      "words": 442,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 159,
+      "words": 318,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 160,
+      "words": 394,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 161,
+      "words": 359,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 162,
+      "words": 258,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 163,
+      "words": 301,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 164,
+      "words": 270,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 165,
+      "words": 345,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 166,
+      "words": 417,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 167,
+      "words": 286,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 168,
+      "words": 170,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 169,
+      "words": 368,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 170,
+      "words": 368,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 171,
+      "words": 322,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 172,
+      "words": 363,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 173,
+      "words": 312,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 174,
+      "words": 354,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 175,
+      "words": 391,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 176,
+      "words": 425,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 177,
+      "words": 331,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 178,
+      "words": 453,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 179,
+      "words": 289,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 180,
+      "words": 273,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 181,
+      "words": 476,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 182,
+      "words": 457,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 183,
+      "words": 410,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 184,
+      "words": 243,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 185,
+      "words": 144,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 186,
+      "words": 287,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 187,
+      "words": 383,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 188,
+      "words": 291,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 189,
+      "words": 471,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 190,
+      "words": 481,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 191,
+      "words": 274,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 192,
+      "words": 398,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 193,
+      "words": 322,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 194,
+      "words": 358,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 195,
+      "words": 421,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 196,
+      "words": 423,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 197,
+      "words": 361,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 198,
+      "words": 371,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 199,
+      "words": 446,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 200,
+      "words": 326,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 201,
+      "words": 377,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 202,
+      "words": 288,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 203,
+      "words": 296,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 204,
+      "words": 273,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 205,
+      "words": 348,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 206,
+      "words": 383,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 207,
+      "words": 396,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 208,
+      "words": 304,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 209,
+      "words": 356,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 210,
+      "words": 302,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 211,
+      "words": 461,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 212,
+      "words": 279,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 213,
+      "words": 335,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 214,
+      "words": 319,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 215,
+      "words": 395,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 216,
+      "words": 357,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 217,
+      "words": 401,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 218,
+      "words": 372,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 219,
+      "words": 382,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 220,
+      "words": 303,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 221,
+      "words": 371,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 222,
+      "words": 351,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 223,
+      "words": 365,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 224,
+      "words": 230,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 225,
+      "words": 257,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 226,
+      "words": 281,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 227,
+      "words": 328,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 228,
+      "words": 263,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 229,
+      "words": 339,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 230,
+      "words": 327,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 231,
+      "words": 353,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 232,
+      "words": 322,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 233,
+      "words": 236,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 234,
+      "words": 344,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 235,
+      "words": 327,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 236,
+      "words": 406,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 237,
+      "words": 378,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 238,
+      "words": 236,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 239,
+      "words": 175,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 240,
+      "words": 199,
+      "images": [
+        {
+          "bbox": [
+            37.5,
+            132.0,
+            415.5,
+            405.75
+          ],
+          "width": 1040,
+          "height": 752
+        }
+      ],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 241,
+      "words": 435,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 242,
+      "words": 345,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 243,
+      "words": 399,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 244,
+      "words": 308,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 245,
+      "words": 183,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 246,
+      "words": 362,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 247,
+      "words": 209,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 248,
+      "words": 374,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 249,
+      "words": 385,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 250,
+      "words": 435,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 251,
+      "words": 377,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 252,
+      "words": 420,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 253,
+      "words": 422,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 254,
+      "words": 330,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 255,
+      "words": 403,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 256,
+      "words": 424,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 257,
+      "words": 340,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 258,
+      "words": 287,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 259,
+      "words": 373,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 260,
+      "words": 407,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 261,
+      "words": 299,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 262,
+      "words": 310,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 263,
+      "words": 256,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 264,
+      "words": 267,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 265,
+      "words": 333,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 266,
+      "words": 240,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    },
+    {
+      "page": 267,
+      "words": 382,
+      "images": [],
+      "replacementGlyphs": 0,
+      "textOutsidePage": []
+    }
+  ],
+  "contacts": [
+    "contact-001-016.png",
+    "contact-017-032.png",
+    "contact-033-048.png",
+    "contact-049-064.png",
+    "contact-065-080.png",
+    "contact-081-096.png",
+    "contact-097-112.png",
+    "contact-113-128.png",
+    "contact-129-144.png",
+    "contact-145-160.png",
+    "contact-161-176.png",
+    "contact-177-192.png",
+    "contact-193-208.png",
+    "contact-209-224.png",
+    "contact-225-240.png",
+    "contact-241-256.png",
+    "contact-257-267.png"
+  ],
+  "limits": "Controlli geometrici e tavole da esaminare; non equivale a lettura visiva."
+}

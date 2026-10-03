@@ -15,7 +15,7 @@ source_refs:
   - "sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
-updated_at: 2026-07-29T16:38:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T15:58:00+02:00
 review_required: true
 canonical: true
@@ -63,3 +63,7 @@ Il corpus non copre integralmente tutte le emergenze ostetriche, non sostituisce
 ## Stato revisione
 
 Il gap documentale su eclampsia, sepsi materna, tromboembolismo, distocia di spalla e prolasso di funicolo è ridotto, ma il verticale ostetrico resta `parziale`. Non sono soddisfatti i gate relativi a linee guida correnti, protocollo del setting, ulteriori emergenze residue, validazione clinica delle prove e confini professionali.
+
+## Integrazione concettuale verificata il 3 ottobre 2026
+
+Definizioni consolidate: eclampsia come crisi convulsiva nel contesto della malattia ipertensiva ostetrica, non attribuibile ad altre cause; la diagnosi differenziale rimane necessaria. Riferimento ISS: https://www.epicentro.iss.it/itoss/pdf/Dossier-ipertensione-gravidanza-2016.pdf. Il dossier sepsi acquisito, pp. 5–6, definisce la sepsi materna attraverso infezione e disfunzione d’organo durante gravidanza, parto, post-aborto o puerperio: la febbre isolata non basta e la sua assenza non esclude la condizione. Sono definizioni, non recepimento dei regimi terapeutici storici dei dossier.

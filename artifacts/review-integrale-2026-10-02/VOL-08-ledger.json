@@ -1,0 +1,834 @@
+{
+  "volume": "VOL-08",
+  "date": "2026-10-02",
+  "status": "text-review-complete",
+  "chapters": [
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+      "title": "Lavorare come ICT nella PA: ruoli, enti e prove",
+      "sha256": "f8835447ef8efbf7ef9124461563abda634934f060e04f51d86e0ea40d79bd23",
+      "lines": 472,
+      "words": 5125,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Apparato di tracciabilità dei nuclei è backstage; quiz chiavi A B C B C C corrette, distrattori troppo facili; ripetizione metodo e rinvio base generico."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-03"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md",
+      "title": "Informatica specialistica: cosa serve oltre il VOL-01",
+      "sha256": "905c66e61274f38a2b23cd7bfef93ccef926543ad760362ac8771846fb8e7ec8",
+      "lines": 431,
+      "words": 5209,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz C B A B A B coerenti; riga137 complemento a due solo perifrasi e nessun esempio conversione/overflow; riga198 DMA senza nome; riga139 grandezza al posto esponente e significando; approfondimento consigliato per promessa specialistica; apparato tracciabilità interno."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-04"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+      "title": "Programmazione, algoritmi e strutture dati",
+      "sha256": "565c5fe4bbc85224fc7ebe7874a00a603d140943d83de9ef810a0dfa311f88cd",
+      "lines": 563,
+      "words": 5104,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Tutti pseudocodici e trace verificati (somma 3,4,8; classificazione O(n)); quiz C A B A D B coerenti. Righe367/385 complessità spaziale confusa con ausiliaria; righe369/381 e quiz5 O grande limite superiore poi usato come crescita esatta, chiarire Theta o termine dominante. OOP solo descritta, nessun incapsulamento/ereditarietà/polimorfismo; fonti algoritmi universitarie non identificabili."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-05",
+        "V08-06",
+        "V08-07"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+      "title": "Basi dati, SQL/NoSQL e qualità del dato",
+      "sha256": "d59c7207126dfb6f3412202a93abf3e358f168a6f849ea85a249de31b2b565ef",
+      "lines": 586,
+      "words": 5434,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            4
+          ],
+          "claim": "Livelli di isolamento e anomalie; differenze PostgreSQL esplicite",
+          "url": "https://www.postgresql.org/docs/current/transaction-iso.html",
+          "outcome": "Conferma integrazione necessaria, non errore delle query esistenti."
+        }
+      ],
+      "findings": [
+        "SQL verificato, quiz C B B C A C corretti. Isolamento righe305/324 promette livelli ma non nomina né distingue Read Uncommitted/Committed/Repeatable Read/Serializable, né dirty/nonrepeatable/phantom con caso. Schema riga97 senza NOT NULL non garantisce ufficio obbligatorio. UNIQUE e NULL da precisare. Esempio Assegnazione169 parla id_ufficio che schema non contiene."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-08",
+        "V08-09"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
+      "title": "Reti, sistemi operativi e infrastrutture",
+      "sha256": "1b563b93c4ef1edb87f44f9f17f9e392016e23c0522869c30a11867899a37d84",
+      "lines": 498,
+      "words": 5594,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            5
+          ],
+          "claim": "HTTP/3 usa QUIC",
+          "url": "https://www.rfc-editor.org/rfc/rfc9114.html",
+          "outcome": "Conferma necessità di dichiarare versione nell’esempio TCP."
+        }
+      ],
+      "findings": [
+        "Quiz C B B D A C corretti; subnet /26 64-127 e128-191 corretti. OSI sette livelli non nominati; permessi Unix non spiega r/w/x directory; processi senza sincronizzazione/deadlock da confronto matrice. Microverifica377 assume HTTP su TCP senza ipotesi HTTP1.1/2 (HTTP3 usa QUIC/UDP)."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-10"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+      "title": "Ingegneria software, API e interoperabilità PA",
+      "sha256": "ccd20507686c319cda26ec95c1fc32861ea244658ac03402055f3769b3e23c10",
+      "lines": 472,
+      "words": 5569,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz C C B B C C coerenti. Tabella146 regressione come livello contraddice corretta spiegazione415 scopo trasversale; correggere colonna/riga. Riferimenti API mancano esempi payload/OpenAPI e codici di stato; esercizio1 veloce risposta solo metaregola senza concreto SLA. Reg2024/903 solo quadro, obblighi rinviati non insegnati (verificare matrice); REST senza vincoli caratterizzanti."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-11",
+        "V08-12",
+        "V08-13"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+      "title": "Cloud PA, virtualizzazione, container e DevOps",
+      "sha256": "7a01159f81eacbe139626d13d5da2c67f4a436cc131371c375345db61407c1da",
+      "lines": 520,
+      "words": 5653,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            7
+          ],
+          "claim": "Classificazione cloud per impatto",
+          "url": "https://cloud.italia.it/strategia-cloud-pa/classificazione-di-dati-e-servizi/",
+          "outcome": "Definizioni ufficiali disponibili, assenti nel corpo."
+        },
+        {
+          "chapters": [
+            7
+          ],
+          "claim": "Regolamento cloud21007/24 e regime agosto2024",
+          "url": "https://cloud.italia.it/qualificazione-servizi-cloud/",
+          "outcome": "Confermato quadro; catalogo e successive modifiche non certificati integralmente."
+        }
+      ],
+      "findings": [
+        "Quiz B B B A B e aperte6/7 corretti; RPO/RTO distinti. Ripetizioni additive estese (metriche log trace295-316; DevOps238-283). Cloud PA classi177 nominali senza definizione impatti né matrice destinazioni; righe181/236 rinvio a vigente senza numero/entrata regime Regolamento2024 (verifica fonte). Mini-esercizio senza esempio soluzione."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-14",
+        "V08-32"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "title": "Cybersecurity operativa: rischio, controlli e vulnerabilità",
+      "sha256": "84db332d2c02f3beb3ca75c2f975dec0271e45ef9e973f301cb4de773973d376",
+      "lines": 558,
+      "words": 5496,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            8
+          ],
+          "claim": "OWASP Top10 2025 è release finale",
+          "url": "https://owasp.org/projects/top-ten",
+          "outcome": "Confermato; non segnalato come riferimento futuro."
+        }
+      ],
+      "findings": [
+        "Quiz B B B A B corretti; due aperte risposta530 solo criterio non soluzione concreta. STRIDE287 categorie inglesi non tradotte/spiegate; nessun esempio parametrizzazione/XSS/autorizzazione pur secure coding promesso. Dupliche titoli60/62,150/152,215/217 e paragrafi riempitivi. OWASP2025/CVSS4/CSF2 da riscontro. Fonti557 quadro italiano rinvio indeterminato."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-15",
+        "V08-16"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+      "title": "IAM, crittografia, logging e incident response",
+      "sha256": "e8de9bfcdd649a78f2023bb5f8b63138a66b1ef3e8880e3c07bd2247caa88799",
+      "lines": 246,
+      "words": 4872,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            9
+          ],
+          "claim": "Sequenza notifiche NIS2 e governance",
+          "url": "https://www.mimit.gov.it/images/stories/digitale/seminari/23_ottobre_2025/SintesiNIS2.pdf",
+          "outcome": "Conferma quadro24/72ore/mese e obblighi governance; documento2025 non certifica tutte le decorrenze delle coorti2026."
+        }
+      ],
+      "findings": [
+        "Grave lacuna NIS2:149-167 perimetro, essenziali/importanti, obblighi/termini tutti sostituiti con verificare fonti; legge90/2024 assente;161 backstage disciplina editoriale. Crittografia86 no uso chiavi pubblica/privata, collisioni/preimage, PKI/catena/TLS/pwd saltedhash; IAM non OAuth2/OIDC/SAML. Sei quiz218-223 tutti risposta NO, non diagnosticano abilità; Q6 compara atto notifica con evento breach. Refuso100 nel ignorare."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-17",
+        "V08-18",
+        "V08-19",
+        "V08-20"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "title": "Data governance, open data, interoperabilità e qualità",
+      "sha256": "de1eeae510376c05fe35c3f5a7f3b4b9fdde3f957c3e03f9e9607c75f82b31b8",
+      "lines": 323,
+      "words": 5744,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            10
+          ],
+          "claim": "Definizione CAD dati aperti",
+          "url": "https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2026-04-20/_rst/capo1_sezione1_art1.html",
+          "outcome": "Tre requisiti cumulativi confermati, lettera l-ter."
+        }
+      ],
+      "findings": [
+        "BANDO35-39 rimappato Base/Attori/Nodi/Documenti contro canonico. Sei quiz tutti NO; trattazioni ripetute e definizioni posposte esempi. Rinvio223 promette procedure adesione PDND non contenute06. Open data192 definizione generica, quando pertinente indebolisce requisiti CAD1l-ter formato/licenza/gratuità; licenze sempre rinviate198, HVD196 obblighi solo possono includere. Refuso111 usare interno."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-02",
+        "V08-21",
+        "V08-22",
+        "V08-23",
+        "V08-24"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+      "title": "AI/ML nella PA: modelli, rischi e compliance",
+      "sha256": "c90020317f6f33888214e40e166674eb04cda12c11f378695d3357790e445641",
+      "lines": 262,
+      "words": 5728,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            11
+          ],
+          "claim": "Legge132/2025 art14 PA",
+          "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25G00143&art.dataPubblicazioneGazzetta=2025-09-25&art.flagTipoArticolo=0&art.idArticolo=14&art.idGruppo=2&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1",
+          "outcome": "Confermati conoscibilità, tracciabilità, supporto alla decisione umana e misure tecniche/organizzative/formative nel testo originario; Normattiva riporta aggiornamento2026, consultazione intero atto fallita."
+        },
+        {
+          "chapters": [
+            11
+          ],
+          "claim": "AI Act calendario modificato2026",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+          "outcome": "La Commissione segnala Omnibus in vigore27luglio2026, alto rischio allegatoIII2dicembre2027 e prodotti2agosto2028; link al testo1744/2026 bloccato da controllo browser. Non certificata ricostruzione articolo per articolo."
+        }
+      ],
+      "findings": [
+        "BANDO35-39 rimappato. Grave compliance169-188 categorie/ruoli solo nominati, vietate/alto rischio/deployer/FRIA senza condizioni/esempi e calendario volutamente omesso179; legge132 art14 PA non spiegato. 03r46 promette algoritmi ML qui mai spiegati (neppure regressione/alberi/kmeans). F1 solo sintetizza102 manca formula/caso confusione; recall90/100 corretto. Quiz aperti tutti coerenti ma elementari. Definizione sistema43 non distingue art3AIAct."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-25",
+        "V08-26"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+      "title": "Procurement ICT e gestione dei fornitori",
+      "sha256": "d1175b5d5b2bf25b003c7ef77bbca2e91bf9f319f494a14448dd8479832bb8a8",
+      "lines": 540,
+      "words": 7697,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            12
+          ],
+          "claim": "Percorso comparativo acquisizione/riuso software PA",
+          "url": "https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-e-tabella-sinottica-degli-elementi-necessari-al-percorso-decisionale.html",
+          "outcome": "Percorso ufficiale disponibile e non sviluppato nel capitolo."
+        }
+      ],
+      "findings": [
+        "BANDO47-50 rimappato; grave delta ICT CAD68/69 valutazione comparativa/riuso e L208/2015 acquisti Consip assenti. SLI/SLA richiesti ma nessun esempio numerico/formula disponibilità; caso cloud solo checklist. RinviogenericoVOL09 e no rinvioesattoVOL01; strumenti431/433 nominati senza funzioni PCP/FVOE. DEC216 quando previsto va distinto funzione RUP/DEC separato. DPO263 validazione necessaria contraddice10r81 ruolo consultivo. Ripetizione tre strati per nucleo; quiz perlopiù NO."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-27",
+        "V08-28",
+        "V08-29",
+        "V08-30"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
+      "title": "Laboratorio prove ICT: quiz, scritto tecnico, orale e casi",
+      "sha256": "53c5c2dd5649dc32943987004e53783196b78e88885a903acd54eaa12cf161c7",
+      "lines": 615,
+      "words": 6689,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz 1-12 B C B C C A B A C C A A e 6 aperti coerenti. Caso autonomo475 senza soluzione modello/test specifici; elaborato445 solo scaletta non artefatto concreto. Nessuna simulazione SQL/pseudocodice/subnet/metriche nonostante output promessa (cap03-05 soli esercizi elementari). Rubriche0-2 definite orale ma altre senza descrittori. Molta duplicazione metodo ripetuto VOL01, rinvio48 capitoli interi. Numerazione quiz riparte più volte, chiavi spesso inline."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V08-01",
+        "V08-31"
+      ],
+      "hashMatches": true
+    }
+  ],
+  "externalClaimsChecked": [
+    {
+      "chapters": [
+        4
+      ],
+      "claim": "Livelli di isolamento e anomalie; differenze PostgreSQL esplicite",
+      "url": "https://www.postgresql.org/docs/current/transaction-iso.html",
+      "outcome": "Conferma integrazione necessaria, non errore delle query esistenti."
+    },
+    {
+      "chapters": [
+        5
+      ],
+      "claim": "HTTP/3 usa QUIC",
+      "url": "https://www.rfc-editor.org/rfc/rfc9114.html",
+      "outcome": "Conferma necessità di dichiarare versione nell’esempio TCP."
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "claim": "Classificazione cloud per impatto",
+      "url": "https://cloud.italia.it/strategia-cloud-pa/classificazione-di-dati-e-servizi/",
+      "outcome": "Definizioni ufficiali disponibili, assenti nel corpo."
+    },
+    {
+      "chapters": [
+        7
+      ],
+      "claim": "Regolamento cloud21007/24 e regime agosto2024",
+      "url": "https://cloud.italia.it/qualificazione-servizi-cloud/",
+      "outcome": "Confermato quadro; catalogo e successive modifiche non certificati integralmente."
+    },
+    {
+      "chapters": [
+        8
+      ],
+      "claim": "OWASP Top10 2025 è release finale",
+      "url": "https://owasp.org/projects/top-ten",
+      "outcome": "Confermato; non segnalato come riferimento futuro."
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "claim": "Sequenza notifiche NIS2 e governance",
+      "url": "https://www.mimit.gov.it/images/stories/digitale/seminari/23_ottobre_2025/SintesiNIS2.pdf",
+      "outcome": "Conferma quadro24/72ore/mese e obblighi governance; documento2025 non certifica tutte le decorrenze delle coorti2026."
+    },
+    {
+      "chapters": [
+        10
+      ],
+      "claim": "Definizione CAD dati aperti",
+      "url": "https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2026-04-20/_rst/capo1_sezione1_art1.html",
+      "outcome": "Tre requisiti cumulativi confermati, lettera l-ter."
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "claim": "Legge132/2025 art14 PA",
+      "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25G00143&art.dataPubblicazioneGazzetta=2025-09-25&art.flagTipoArticolo=0&art.idArticolo=14&art.idGruppo=2&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1",
+      "outcome": "Confermati conoscibilità, tracciabilità, supporto alla decisione umana e misure tecniche/organizzative/formative nel testo originario; Normattiva riporta aggiornamento2026, consultazione intero atto fallita."
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "claim": "AI Act calendario modificato2026",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "outcome": "La Commissione segnala Omnibus in vigore27luglio2026, alto rischio allegatoIII2dicembre2027 e prodotti2agosto2028; link al testo1744/2026 bloccato da controllo browser. Non certificata ricostruzione articolo per articolo."
+    },
+    {
+      "chapters": [
+        12
+      ],
+      "claim": "Percorso comparativo acquisizione/riuso software PA",
+      "url": "https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-e-tabella-sinottica-degli-elementi-necessari-al-percorso-decisionale.html",
+      "outcome": "Percorso ufficiale disponibile e non sviluppato nel capitolo."
+    }
+  ],
+  "findings": [
+    {
+      "id": "V08-01",
+      "chapter": 0,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/index.md",
+      "line": 1,
+      "category": "Stato editoriale",
+      "severity": "medio",
+      "excerpt": "publication-ready",
+      "problem": "L’indice dichiara la pubblicabilità ma il suo Stato editoriale rinvia ancora agli step 13–24; M-TR02 è descritto come incompleto.",
+      "proposal": "Riconciliare indice, matrice e stato effettivo senza trasformare il metadato in certificazione.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-02",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "line": 35,
+      "category": "Coerenza del metodo",
+      "severity": "grave",
+      "excerpt": "Base; Attori; Nodi; Documenti",
+      "problem": "BANDO cambia significato nei capitoli 10, 11 (r.35) e 12 (r.47), rispetto a Bando, Aree, Nuclei, Diario, Output usato nel resto della collana.",
+      "proposal": "Ripristinare le cinque voci canoniche e ricollocare attori/documenti al loro interno.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-03",
+      "chapter": 1,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+      "line": 1,
+      "category": "Destinazione editoriale",
+      "severity": "medio",
+      "excerpt": "Apparato di verifica dei nuclei",
+      "problem": "Tutti i capitoli mantengono apparati di tracciabilità e formule rivolte al verificatore, non al candidato.",
+      "proposal": "Conservare la tracciabilità nei file di lavoro; rendere il riepilogo per il lettore una mappa di studio senza linguaggio di audit.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-04",
+      "chapter": 2,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md",
+      "line": 137,
+      "category": "Precisione tecnica",
+      "severity": "medio",
+      "excerpt": "rappresentazione",
+      "problem": "Complemento a due non nominato né mostrato; la virgola mobile è descritta con grandezza invece di esponente e significando.",
+      "proposal": "Dare nomi corretti, intervalli e un esempio breve di rappresentazione e overflow; distinguere il modello dalla precisione effettiva.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-05",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+      "line": 367,
+      "category": "Precisione tecnica",
+      "severity": "medio",
+      "excerpt": "memoria aggiuntiva",
+      "problem": "La complessità spaziale è identificata con la sola memoria ausiliaria.",
+      "proposal": "Distinguere spazio totale, spazio dell’input e spazio ausiliario, dichiarando la convenzione degli esercizi.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-06",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+      "line": 381,
+      "category": "Precisione tecnica",
+      "severity": "medio",
+      "excerpt": "cresce linearmente",
+      "problem": "O grande è definito come limite superiore ma poi interpretato come crescita esatta, anche nel raddoppio quadratico del quiz 5.",
+      "proposal": "Usare Theta per l’ordine stretto oppure dichiarare il termine dominante e l’ipotesi semplificata del quiz.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-07",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+      "line": 561,
+      "category": "Fonti",
+      "severity": "medio",
+      "excerpt": "materiali didattici universitari",
+      "problem": "Le fonti di algoritmi non sono identificabili.",
+      "proposal": "Indicare autore, titolo, edizione o documentazione primaria e sezioni usate.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-08",
+      "chapter": 4,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+      "line": 97,
+      "category": "Esempio tecnico",
+      "severity": "medio",
+      "excerpt": "id_ufficio",
+      "problem": "Lo schema non impone NOT NULL sulla chiave esterna benché ogni pratica debba appartenere a un ufficio; l’esempio Assegnazione a r.169 ragiona inoltre su un attributo non riportato nello schema.",
+      "proposal": "Allineare vincoli e schema alla cardinalità dichiarata; esplicitare gli attributi dell’esempio di normalizzazione.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-09",
+      "chapter": 4,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+      "line": 305,
+      "category": "Copertura didattica",
+      "severity": "grave",
+      "excerpt": "livelli di isolamento",
+      "problem": "L’isolamento è promesso ma mancano i quattro livelli e le anomalie che permettono di distinguerli.",
+      "proposal": "Aggiungere una tabella di livelli/anomalie e una sequenza di due transazioni; segnalare differenze del DBMS scelto.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-10",
+      "chapter": 5,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
+      "line": 377,
+      "category": "Precisione tecnica",
+      "severity": "medio",
+      "excerpt": "richiesta HTTP",
+      "problem": "L’incapsulamento presume TCP senza precisare la versione di HTTP.",
+      "proposal": "Dichiarare HTTP/1.1 o HTTP/2 nell’esempio; ricordare HTTP/3 su QUIC.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-11",
+      "chapter": 6,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+      "line": 146,
+      "category": "Coerenza tecnica",
+      "severity": "medio",
+      "excerpt": "Livello",
+      "problem": "La regressione compare fra i livelli di test; a r.415 il capitolo spiega correttamente che è uno scopo trasversale.",
+      "proposal": "Separare livelli e finalità del test in tabella.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-12",
+      "chapter": 6,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+      "line": 357,
+      "category": "Esercitazione",
+      "severity": "medio",
+      "excerpt": "veloce",
+      "problem": "La soluzione dell’esercizio sul requisito misurabile dice cosa specificare ma non formula un requisito verificabile.",
+      "proposal": "Fornire un esempio con soglia e carico dichiarati come ipotetici e relativo test di accettazione.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-13",
+      "chapter": 6,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+      "line": 1,
+      "category": "Copertura didattica",
+      "severity": "medio",
+      "excerpt": "API",
+      "problem": "La progettazione di API resta descrittiva: mancano un payload, codici di risposta e un contratto minimo concreto.",
+      "proposal": "Aggiungere un esempio end-to-end, con autorizzazione, errore e versionamento; spiegare i vincoli REST prima delle scelte implementative.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-14",
+      "chapter": 7,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+      "line": 177,
+      "category": "Copertura normativa",
+      "severity": "grave",
+      "excerpt": "strategici, critici e ordinari",
+      "problem": "Le classi cloud sono nominate senza i criteri di impatto; il regolamento 2024 resta privo di estremi e regime.",
+      "proposal": "Inserire tabella classi/impatti/esempi e riferimento al decreto 21007/24, separando quadro stabile e verifica corrente della qualificazione.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-15",
+      "chapter": 8,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "line": 287,
+      "category": "Terminologia",
+      "severity": "medio",
+      "excerpt": "STRIDE",
+      "problem": "Le sei categorie sono elencate in inglese senza spiegazione applicativa.",
+      "proposal": "Tradurre e associare a ciascuna una minaccia e un controllo sul caso della PA.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-16",
+      "chapter": 8,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "line": 530,
+      "category": "Esercitazione",
+      "severity": "medio",
+      "excerpt": "risposta aperta",
+      "problem": "Due soluzioni si limitano al criterio generale di correzione.",
+      "proposal": "Mostrare una risposta svolta con asset, minaccia, rischio e controllo motivato.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-17",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+      "line": 149,
+      "category": "Copertura normativa",
+      "severity": "grave",
+      "excerpt": "verificare",
+      "problem": "NIS2 è ridotta al richiamo del d.lgs.138/2024 e alla verifica futura: non insegna essenziali/importanti, obblighi di governance, criteri e sequenza delle notifiche; manca il raccordo con legge90/2024.",
+      "proposal": "Sviluppare il nucleo normativo datato con presupposti, soggetti, atti ACN e decorrenze per coorte; distinguere 24/72 ore e relazione finale, GDPR e altri regimi senza universalizzare.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-18",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+      "line": 86,
+      "category": "Copertura tecnica",
+      "severity": "grave",
+      "excerpt": "crittografia",
+      "problem": "Per un percorso cyber specialistico la trattazione non rende operative le differenze tra chiavi simmetriche/asimmetriche, firma, hash, certificati e catena di fiducia.",
+      "proposal": "Aggiungere schema delle chiavi, esempi di cifratura/firma, proprietà del digest, PKI/TLS e password hashing, distinguendo concetti da prescrizioni di algoritmo.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-19",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+      "line": 218,
+      "category": "Qualità dei quiz",
+      "severity": "medio",
+      "excerpt": "NO",
+      "problem": "Tutte le sei domande dei capitoli 9 e 10 hanno risposta negativa prevedibile; nel 9 la domanda6 confronta una notifica con un evento data breach.",
+      "proposal": "Alternare casi e opzioni plausibili; confrontare incidente cyber e violazione di dati, poi i rispettivi obblighi di notifica.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-20",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+      "line": 100,
+      "category": "Refuso",
+      "severity": "lieve",
+      "excerpt": "nel ignorare",
+      "problem": "Preposizione articolata errata.",
+      "proposal": "Sostituire con nell’ignorare.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-21",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "line": 192,
+      "category": "Definizione normativa",
+      "severity": "grave",
+      "excerpt": "quando pertinente",
+      "problem": "La definizione di open data rende eventuale il formato leggibile meccanicamente e non espone i tre requisiti cumulativi del CAD art.1 l-ter.",
+      "proposal": "Esporre licenza/uso anche commerciale, formato aperto utilizzabile automaticamente con metadati, gratuità o regole di costo ammesse; distinguere dalle esclusioni di pubblicazione.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-22",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "line": 196,
+      "category": "Copertura normativa",
+      "severity": "medio",
+      "excerpt": "possono includere",
+      "problem": "Gli obblighi HVD sono formulati come possibilità indistinta.",
+      "proposal": "Indicare per quali serie e condizioni sono richiesti API, formato e download massivo secondo regolamento2023/138 e allegato; non generalizzare oltre il campo di applicazione.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-23",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "line": 223,
+      "category": "Rinvio insufficiente",
+      "severity": "medio",
+      "excerpt": "procedure di adesione",
+      "problem": "Il rinvio al capitolo6 promette procedure e dettagli PDND che quel capitolo non contiene.",
+      "proposal": "Aggiungere una spiegazione sufficiente o rinviare a una sezione effettiva e a documentazione ufficiale puntuale, correggendo la promessa.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-24",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "line": 111,
+      "category": "Refuso",
+      "severity": "lieve",
+      "excerpt": "usare interno",
+      "problem": "Forma verbale al posto del sostantivo.",
+      "proposal": "Sostituire con uso interno.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-25",
+      "chapter": 11,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+      "line": 169,
+      "category": "Copertura normativa",
+      "severity": "grave",
+      "excerpt": "calendario",
+      "problem": "La compliance non sviluppa definizioni dei ruoli, criteri di rischio, principali obblighi PA né calendario; la legge132/2025 resta un titolo, senza art.14.",
+      "proposal": "Inserire casi classificati, responsabilità del deployer e regole PA; ricostruire il calendario dal testo vigente comprensivo delle modifiche2026 e distinguere obblighi già applicabili/futuri.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-26",
+      "chapter": 11,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+      "line": 102,
+      "category": "Copertura didattica",
+      "severity": "grave",
+      "excerpt": "F1",
+      "problem": "Il profilo data/AI non è sostenuto da algoritmi spiegati né da un calcolo completo di metriche; il cap.3 r.46 promette algoritmi ML nel cap.11.",
+      "proposal": "Aggiungere almeno un metodo supervisionato e uno non supervisionato con esempio e una matrice di confusione svolta con precision/recall/F1; oppure delimitare esplicitamente la promessa del profilo.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-27",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+      "line": 65,
+      "category": "Copertura normativa ICT",
+      "severity": "grave",
+      "excerpt": "riuso",
+      "problem": "La scelta sviluppare/acquistare/riusare non espone valutazione comparativa e riuso degli artt.68–69 CAD; il richiamo Consip non spiega gli obblighi specifici ICT.",
+      "proposal": "Sviluppare CAD68–69 e linee guida AgID con una decisione motivata; verificare e integrare legge208/2015 commi512ss. con ambito/eccezioni e rinvio preciso al VOL09.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-28",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+      "line": 115,
+      "category": "Esercitazione",
+      "severity": "medio",
+      "excerpt": "valore",
+      "problem": "Nessun esempio numerico consente di calcolare disponibilità, SLA o scostamento, nonostante la promessa misurativa.",
+      "proposal": "Dare un dataset minimo e calcolo svolto con periodo, esclusioni e soglia ipotetica, evitando numeri presentati come obblighi universali.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-29",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+      "line": 216,
+      "category": "Ruoli",
+      "severity": "medio",
+      "excerpt": "quando previsto",
+      "problem": "La funzione di direzione dell’esecuzione appare eventuale, senza distinguere esercizio da parte del RUP e nomina separata del DEC.",
+      "proposal": "Spiegare la distinzione e rinviare al presupposto normativo preciso per il DEC distinto dal RUP.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-30",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+      "line": 263,
+      "category": "Ruoli privacy",
+      "severity": "medio",
+      "excerpt": "validazione",
+      "problem": "La necessaria validazione del DPO è formulata come potere autorizzativo, in tensione con il cap.10 che ne descrive il ruolo consultivo.",
+      "proposal": "Attribuire la decisione al titolare e qualificare informazione/consulenza/sorveglianza del DPO secondo il caso, senza creare un visto generale obbligatorio.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-31",
+      "chapter": 13,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
+      "line": 475,
+      "category": "Esercitazione",
+      "severity": "grave",
+      "excerpt": "Caso autonomo",
+      "problem": "Il caso autonomo ha una rubrica ma non una soluzione modello; lo scritto tecnico a r.445 offre una scaletta senza un elaborato effettivo.",
+      "proposal": "Fornire architettura motivata, alternative, assunzioni, test e criteri di punteggio con esempi di risposte; inserire una simulazione tecnica con artefatti verificabili.",
+      "status": "proposto, non applicato"
+    },
+    {
+      "id": "V08-32",
+      "chapter": 7,
+      "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+      "line": 238,
+      "category": "Stile e progressione",
+      "severity": "medio",
+      "excerpt": "DevOps",
+      "problem": "Ripetizioni additive estese nei capitoli7–13; nel10 le definizioni arrivano dopo applicazioni e riprese.",
+      "proposal": "Accorpare i paragrafi che non aggiungono concetti; usare spazio recuperato per teoria, esempi e soluzioni mancanti.",
+      "status": "proposto, non applicato"
+    }
+  ],
+  "limitations": [
+    "Lettura integrale dei13capitoli correnti; matrici lette nelle righe canoniche e nei blocchi pertinenti, non integralmente in ogni appendice.",
+    "Controlli esterni mirati, non certificazione di ogni fonte, versione tecnica o norma. Atti ACN2026 e testo UE1744/2026 richiedono controllo ulteriore.",
+    "PDF separato: questo rapporto non certifica geometria, stampa o leggibilità delle pagine.",
+    "Nessun contenuto editoriale modificato; le proposte restano da applicare."
+  ]
+}

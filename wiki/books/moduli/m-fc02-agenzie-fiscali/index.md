@@ -18,14 +18,14 @@ source_refs: [
   "sources/adempimenti-contabilita-civile-commerciale-m-fc02.md",
   "sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md",
   "sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md",
-  "sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md",
+  "sources/processo-tributario-regime-2026-rettifica-2026-10-03.md",
   "sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md",
   "sources/metodo-bando-progetto-editoriale.md",
   "sources/struttura-madre-il-metodo-bando.md"
 ]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.86
-updated_at: 2026-08-22T14:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -38,7 +38,7 @@ module_status: revised_draft
 roadmap_phase: "2"
 companion_to: il-metodo-bando
 draft_stage: text_frozen
-last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","wiki/sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","wiki/sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md"]
+last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","wiki/sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","wiki/sources/processo-tributario-regime-2026-rettifica-2026-10-03.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md"]
 ---
 
 # M-FC02 - Agenzie Fiscali
@@ -53,7 +53,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Con cautela: profili AE gestionali/RU se il bando contiene fiscalita o organizzazione fiscale.
 - Fuori: ICT/AI/cybersecurity e big data (M-TR01), gare/appalti/PNRR (M-TR02), tecnico-ingegneristico puro/logistica/sicurezza (M-TR03), EPNE non fiscali (M-FC03).
 - Fase roadmap: 2
-- Stato: 14 capitoli numerati più due intercalari 5A/5B sviluppati; la matrice registra 80 nuclei completi e nessun blocker didattico. Restano aperte le review normative/tecniche e il preflight KDP.
+- Stato: 14 capitoli numerati più due intercalari 5A/5B sviluppati; la matrice registra 80 nuclei completi e nessun blocker didattico. Il riesame normativo del testo è concluso il 3 ottobre 2026; restano controllo delle figure, PDF candidato e preflight KDP.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia fiscale.
@@ -101,7 +101,7 @@ FM6. [[books/moduli/m-fc02-agenzie-fiscali/front-matter/06-indice|Indice]]
 - [[sources/catasto-pubblicita-immobiliare-estimo-m-fc02]]
 - [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]]
 - [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]
-- [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
+- [[sources/processo-tributario-regime-2026-rettifica-2026-10-03]]
 - [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]]
 
 ## Fonti raw scaricate

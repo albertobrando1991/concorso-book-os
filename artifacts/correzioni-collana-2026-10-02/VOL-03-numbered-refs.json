@@ -1,0 +1,290 @@
+[
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+    "text": "quali materie vanno collegate al capitolo 10 del modulo M-FC02."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+    "text": "Il capitolo non sostituisce lo studio specialistico dei capitoli 5, 6 e 7. Prepara il terreno. Se non distingui presupposto, base imponibile e obbligazione, farai fatica a comprendere accertamento e adempimenti. Se confondi accertamento e riscossione, leggerai male i profili AdER. Se parli di IVA o imposte sui redditi senza sapere qual è la logica del tributo, rischi una preparazione mnemonica e fragile."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+    "text": "Questa frase collega il capitolo 4 ai capitoli successivi."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+    "text": "Per la sequenza dichiarativa e il passaggio da imponibile a dichiarazione, liquidazione e versamento, la destinazione responsabile è il capitolo 6, Il ciclo dell'adempimento fiscale."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+    "text": "Questo capitolo spiega perché il raccordo esiste. La meccanica contabile e gli esercizi sulle variazioni competono al capitolo 11, Dal bilancio al reddito imponibile."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+    "text": "La mappa teorica termina qui con la catena fatturazione -> registrazione -> liquidazione -> dichiarazione annuale. La funzione, l'ordine e le regole operative di documentazione, registrazione delle operazioni attive e degli acquisti, liquidazione periodica e dichiarazione IVA sono sviluppati nel capitolo 6, sezione \"Operazioni IVA e ciclo degli adempimenti\". Il rinvio non comprende accertamento, sanzioni, riscossione o rimedi, affidati ai rispettivi capitoli 5, 5A, 5B e 7."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+    "text": "Il capitolo 5 sviluppera' accertamento, controlli e compliance. Il capitolo 7 sviluppera' la riscossione. Qui devi fissare la distinzione base."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+    "text": "Prima di passare al capitolo 5, verifica questi punti."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+    "text": "Il punto richiede il quadro processuale completo del capitolo 5B?"
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+    "text": "Il capitolo 5B, sezione 'Autotutela e strumenti deflativi: perimetro corretto' sviluppa il raccordo con ricorso, cautela, conciliazione e processo. Il rinvio non autorizza a trattare autotutela, adesione, acquiescenza o conciliazione come istituti equivalenti."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+    "text": "La tecnica contabile e il raccordo tra utile e imponibile sono spiegati nel capitolo 11, sezione \"Dal bilancio al reddito imponibile\". Qui interessa il passaggio successivo: come quei dati entrano nella selezione e nell'istruttoria fiscale."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+    "text": "Il profilo ACFI integra diritto tributario internazionale, analisi economico-aziendale e controllo del rischio. Trasforma un'operazione transnazionale in una sequenza verificabile: qualificare soggetti e presenza, individuare le fonti, ricostruire funzioni e rischi, controllare la documentazione e tradurre l'esito nel Tax Control Framework. Le nozioni generali sul tributo restano nel capitolo 4; dichiarazioni e adempimenti nel capitolo 6; bilancio e analisi economica nel capitolo 11."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+    "text": "Il riesame in autotutela consente all'amministrazione di valutare la legittimità o fondatezza del proprio atto secondo presupposti, doveri e poteri vigenti. Il capitolo 5 sviluppa il raccordo con accertamento, contraddittorio e atto finale: 05 Accertamento Controlli Compliance Fiscale#Autotutela, Definizione E Tutela Giurisdizionale. Qui conta la distinzione processuale: istanza, provvedimento amministrativo e ricorso sono atti diversi."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+    "text": "Gli strumenti deflativi mirano a prevenire, ridurre o chiudere la controversia nei casi previsti. Adesione, definizioni e conciliazione non sono sinonimi. Per le sanzioni, ravvedimento e definizione seguono inoltre la disciplina illustrata nel capitolo 5a: 05a Sanzioni Amministrative Reati Tributari#8."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+    "text": "Si identificano atto, autorità, IVA, periodo, maggiore imposta, interessi e sanzioni. L'errore sull'omonimo, i versamenti e la qualificazione delle operazioni sono motivi distinti. La parte sanzionatoria rinvia al capitolo 5a e non va fusa con il tributo."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+    "text": "Il capitolo sviluppa la grammatica introdotta in Diritto tributario e teoria dell'imposta. Controlli e accertamento sono approfonditi nel capitolo 5; la riscossione appartiene al capitolo 7."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+    "text": "Il capitolo 4, IRPEF e IRES: il quadro sistematico spiega presupposto, soggetti e architettura generale. Qui quella grammatica diventa operativa: si identifica il soggetto, si qualifica ciascun provento, si applicano determinazione e imputazione proprie della categoria e solo dopo si costruiscono reddito complessivo, imponibile e imposta."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+    "text": "La base contabile — partita doppia, competenza economica, assestamento e formazione del risultato — è spiegata nel capitolo 11, § 14, Dal bilancio al reddito imponibile. Qui interessa la conseguenza tributaria:"
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+    "text": "Il capitolo 4 presenta l'IVA come imposta armonizzata sui consumi e spiega la catena rivalsa, detrazione e liquidazione. Qui quella struttura diventa un metodo per trattare la singola operazione e seguirla fino all'eventuale correzione:"
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+    "text": "Controllo finale. Se Alfa omettesse la fattura dal registro vendite, dovrebbe riallineare documento, registrazione, liquidazione, eventuale comunicazione/dichiarazione e pagamento con gli strumenti vigenti. Il capitolo 5 tratta il controllo; il capitolo 5A le sanzioni; il capitolo 5B la tutela; il capitolo 7 la riscossione."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+    "text": "ADM e Agenzia delle Entrate appartengono alla stessa famiglia istituzionale, ma non svolgono lo stesso lavoro. Nel settore doganale l'oggetto immediato sono merci, operatori, regimi, dati commerciali e controlli alla frontiera o successivi. Per questo cambiano lessico, documenti e sequenza operativa. Il quadro generale dell'organizzazione resta nel capitolo 3; qui interessa la funzione doganale concreta."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+    "text": "Per i beni immobili vanno tenuti distinti titolo, forma, trascrizione e voltura catastale. Il capitolo 10 approfondisce pubblicità immobiliare e catasto."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+    "text": "Le scritture contabili sostengono informazione e controllo. Il capitolo 11 ne approfondisce la logica economica; qui rilevano come documentazione dell'organizzazione e dei rapporti. Chi firma per l'impresa deve inoltre disporre di poteri adeguati: qualifica interna, procura e pubblicità non sono dati intercambiabili."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+    "text": "AdER. Obbligazione, coobbligazione, successione, garanzia patrimoniale, pegno, ipoteca e fideiussione costituiscono il lessico di base. La riscossione pubblica conserva però atti, poteri e limiti propri, sviluppati nel capitolo 7."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+    "text": "Esempio compilato: origine = legame economico con un Paese; funzione = trattamento doganale; distinzione = provenienza; rinvio = capitolo 8, paragrafo 7."
+  },
+  {
+    "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+    "text": "La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relativa trattazione. La teoria completa si trova nei capitoli 4, 5A, 5B e 8."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "text": "Attiva capitoli 1, 3, 5, 8, 10, 11, 12 e 13."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "text": "Attiva capitoli 1, 4, 5, 6, 8, 10, 11, 12 e Appendice F se il bando include materie integrative."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "text": "Nel bando, cerca segnali come previdenza sociale, protezione sociale, prestazioni, servizi, contributi, rapporto con utenti, domande, fascicoli, gestione documentale, comunicazioni e prova situazionale. Se compaiono, il capitolo 3 diventerà centrale."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "text": "Nel bando, cerca segnali come assicurazione obbligatoria, infortuni sul lavoro, malattie professionali, prevenzione, salute e sicurezza, premi, prestazioni, rapporto con imprese e lavoratori. Se compaiono, il capitolo 4 e l'Appendice F vanno attivati."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "text": "La preparazione non diventa più facile. Diventa più ordinata. Sara non studia tutto allo stesso livello: usa il libro base per il core, il capitolo 4 per INAIL, l'Appendice F per i contenuti integrativi e il capitolo 12 per i situazionali."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "text": "Prima di passare al capitolo 2, devi poter rispondere senza appunti:"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "text": "Attivazione del capitolo 2."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "text": "Nel bando, i segnali da intercettare sono: bilancio, patrimonio, controlli, vigilanza, rendiconto, regolarità amministrativo-contabile, Corte dei conti, Ragioneria generale dello Stato, revisione, performance, valore pubblico e amministrazione trasparente. Se compaiono, devi collegare il capitolo 2 con il capitolo 6 del modulo e con la contabilità pubblica essenziale del libro base."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "text": "Prima di passare al capitolo 3, devi poter rispondere senza appunti:"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "text": "Decisione: capitolo 3 centrale o solo di orientamento."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "text": "Il capitolo non sostituisce il capitolo 5 sui procedimenti EPNE. Lo anticipa dal punto di vista dell'INPS: qui impari il linguaggio dell'ente; nel capitolo 5 lo trasformi in procedimento, accesso, comunicazione e privacy."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "text": "Decisione: capitolo 4 centrale e Appendice F da valutare."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "text": "identifica l'ente: INAIL, quindi capitolo 4 centrale;"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "text": "Prima di passare al capitolo 5, verifica se sai rispondere:"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "text": "Attivazione del capitolo 5."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "text": "La mappa serve per non disperdere lo studio. Se il bando chiede genericamente diritto amministrativo, il capitolo 5 ti aiuta ad applicarlo. Se il bando chiede servizi, prestazioni, utenza o pratiche digitali, il capitolo diventa centrale."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "text": "Attivazione del capitolo 6 e raccordo con il capitolo base di contabilità."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "text": "Nel capitolo 6 interessano soprattutto tre aree:"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "text": "INPS, INAIL e gli altri enti del perimetro M-FC03 non operano nel vuoto. Gestiscono domande, prestazioni, fascicoli, pratiche, controlli, servizi digitali, rapporto con utenti e imprese, personale, rischi corruttivi, dati personali, acquisti e bilanci. Performance e PIAO servono a tenere insieme questi elementi. Per questo il capitolo dialoga con il capitolo 6, ma non lo duplica: il capitolo 6 guarda a risorse e controlli; questo guarda a obiettivi, organizzazione, risultati e qualità dell'azione amministrativa."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "text": "Attivazione del capitolo 7."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "text": "Negli enti pubblici non economici il PIAO è particolarmente utile perché rende visibile il passaggio dall'ordinamento alla gestione. Il capitolo 2 ti ha spiegato organi, governance, vigilanza e fonti; il capitolo 6 ti ha mostrato bilancio, patrimonio e controlli. Il PIAO collega questi piani a obiettivi, personale, rischi, trasparenza e organizzazione concreta."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "text": "La performance non finisce con la programmazione. Occorre monitorare l'andamento, confrontare obiettivi e risultati, correggere scostamenti, rendicontare e migliorare. Questo nucleo collega il capitolo 7 al capitolo 6: senza dati, bilancio, controlli e documenti, la performance resta dichiarativa."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "text": "Prima di passare al capitolo 8, verifica se sai rispondere:"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+    "text": "Il secondo nucleo collega personale e governance. Un dipendente EPNE non lavora nel vuoto: opera in un ufficio, dentro processi, obiettivi, documenti di programmazione, controlli e servizi. Per questo il capitolo 8 dialoga con i capitoli su governance, procedimenti, performance e PIAO. La domanda operativa è: quale pezzo dell'organizzazione deve servire questo profilo?"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+    "text": "Attivazione del capitolo 9 e del capitolo base sui contratti."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "text": "La scheda è valida solo se ogni riga produce una decisione. Scrivere \"INAIL\" nel campo ente non basta. Devi indicare che cosa cambia nel piano: capitolo 4, eventuale Appendice F, materie INAIL, casi, situazionali e fonti da monitorare."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "text": "Ente: INAIL, quindi M-FC03 e capitolo 4 sono centrali."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "text": "Prima di passare ai casi pratici del capitolo 11, verifica se sai rispondere:"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+    "text": "Attivazione del capitolo 11."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+    "text": "La differenza rispetto al caso pratico del capitolo 11 è il fuoco della prova. Nel caso pratico devi costruire una soluzione amministrativa; nel quesito situazionale devi scegliere una condotta. I due piani si toccano, ma non coincidono."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "text": "La prima settimana serve a trasformare il bando in mappa. Usa il capitolo 10 come strumento: fonte ufficiale, ente, soggetto gestore, profilo, prove, punteggi, materie, allegati, avvisi e canali da monitorare."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "text": "Qui entrano i capitoli 11 e 12: casi pratici e quesiti situazionali. Un candidato che conosce le definizioni ma non sa rispondere a un utente, classificare una domanda incompleta, proteggere dati personali o scegliere il comportamento corretto in ufficio non è ancora pronto per un concorso EPNE."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "text": "Otto quesiti del capitolo 12, più caso del familiare e caso ragionato di chiusura dello stesso capitolo"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "text": "4. Risposta corretta: Negli otto quesiti del capitolo 12, nel suo caso sul familiare e nel caso ragionato di chiusura. Gli ultimi due richiedono una condotta motivata, non una lettera inventata."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+    "text": "Regime d.lgs. 38/2000: sotto 6% franchigia, 6–15% capitale, dal 16% rendita; esempio del capitolo 4."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+    "text": "Questa appendice non sostituisce il Bando Decoder EPNE del capitolo 10. Lo completa: raccoglie gli errori ricorrenti, mostra come riconoscerli e propone una correzione operativa."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "Capitoli 2–9 per le materie; 11–12 per casi e situazionali."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "Attivare Appendice D e capitolo 10."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "Il capitolo 9 di M-FC03 copre contratti, acquisti e forniture applicati agli EPNE. Questo offre il raccordo EPNE con la teoria del VOL-01, capitolo Contratti pubblici essenziali, sezioni «9. Soglie e scelta della procedura» e «16. Consip, Acquisti in Rete, MEPA, convenzioni e accordi quadro». La sufficienza rispetto alla prova dipende dal programma effettivo. Non è sufficiente quando il bando è centrato su procurement specialistico, PNRR, fondi europei, programmazione avanzata, gestione di interventi complessi, rendicontazione multilivello o supporto specialistico a stazioni appaltanti."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "VOL-06, capitolo 03: Profili e organizzazione del lavoro negli enti pubblici di ricerca; sezione «Obiettivo didattico»"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "VOL-09, capitolo 08: Cybersecurity operativa: rischio, controlli e vulnerabilità; sezione «Obiettivo e confine con il volume base»"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "VOL-10, capitolo 07: Consip, MEPA, AQ, SDAPA e ASP; sezione «Obiettivo del capitolo»"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "VOL-03, capitolo 01: Mappa delle Agenzie fiscali e dei profili concorsuali; sezione «Obiettivo del capitolo»"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "VOL-08, capitolo 01: Le authority viste dal candidato; sezione «Obiettivo operativo del capitolo»"
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "text": "Per civile e responsabilità: in questo VOL-03, modulo Agenzie fiscali, capitolo 12 «Civile e commerciale applicati a fisco, dogane e riscossione», sezioni «5. Responsabilità civile» e «7. Invalidità e scioglimento». Per le differenze INPS/INAIL usa qui i capitoli 3 e 4, non una scheda di un altro ente. Se il bando introduce una materia non sviluppata nella destinazione, la registri come integrazione necessaria: il rinvio non la rende completa per definizione."
+  },
+  {
+    "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+    "text": "Il capitolo 12 del modulo Agenzie fiscali, sezioni «7. Invalidità e scioglimento» e «5. Responsabilità civile», sviluppa le distinzioni e i relativi casi civilistici. Nel contesto INAIL il danno biologico assicurato e il risarcimento civile non coincidono: il primo segue presupposti e indennizzi dell'assicurazione sociale; il secondo richiede il titolo di responsabilità e può porre questioni di danno differenziale e azioni dell'Istituto."
+  }
+]

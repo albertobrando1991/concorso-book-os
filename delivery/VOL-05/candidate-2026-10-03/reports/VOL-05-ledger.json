@@ -1,0 +1,709 @@
+{
+  "volume": "VOL-05",
+  "module": "M-FC05",
+  "date": "2026-10-03",
+  "textVerified": true,
+  "finalVerified": false,
+  "readingCheckpoint": "artifacts/correzioni-collana-2026-10-02/VOL-05-reading-checkpoint.json",
+  "findings": [
+    {
+      "id": "V05-01",
+      "position": "Cap.1, 15 — Rinvii al base; mappa delle aree: «Il VOL-05 è complementare ai capitoli del su , , , , , e .»",
+      "severity": "Grave",
+      "diagnosis": "Rinvii privi di testo visibile nel cap.1 e nel laboratorio15; il lettore non può individuare le materie o i capitoli richiamati.",
+      "correction": "Rinvii al base ricostruiti con capitolo, titolo e heading esistente; mappa del laboratorio completata.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-02",
+      "position": "Cap.1–15 — Blocchi finali; Verifica ragionata; Caso ragionato di chiusura: «Come va usato; intervento immediato su piano di studio»",
+      "severity": "Grave",
+      "diagnosis": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+      "correction": "Riscritti tutti i 90 quesiti aperti e i 15 casi finali con fatti e soluzioni specifici.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-03",
+      "position": "Cap.1–15 — Nucleo ID e rapporto con indice/matrice: «N-MF05; Q:6 C:1 E:1»",
+      "severity": "Grave",
+      "diagnosis": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+      "correction": "Inventario dei 75 nuclei effettivi e 15 unità aggregate; conteggio unico di 90 quesiti. Ricollocati heading che dividevano didascalie, introduzioni e tabelle.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-04",
+      "position": "Cap.1, 15 — Percorsi G/E/P e blocchi finali: «premium; policy»",
+      "severity": "Medio",
+      "diagnosis": "P indica percorso giuridico-economico nel corpo e policy nei blocchi aggiunti; premium è una qualifica commerciale priva di valore didattico.",
+      "correction": "P definito giuridico-economico in testo, indice e Bibbia; rimossa etichetta premium.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-05",
+      "position": "Cap.2 — Governance, nomina, personale: «Il punto non è memorizzare un numero di componenti»",
+      "severity": "Grave",
+      "diagnosis": "Il capitolo non insegna composizione, nomina, durata, rinnovo, incompatibilità e regime del personale delle singole authority; affida al lettore una matrice da riempire.",
+      "correction": "Otto schede di organi, nomine, durata, rinnovo, incompatibilità, personale e controlli con fonti puntuali.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-06",
+      "position": "Cap.2 — Definizione di accountability: «capacità»",
+      "severity": "Lieve",
+      "diagnosis": "La resa insiste sulla capacità di rendere contestabile la decisione, riducendo il significato di responsabilità e obbligo di rendere conto.",
+      "correction": "Accountability definita obbligo di rendere conto, motivazione e responsabilità verificabile.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-07",
+      "position": "Cap.3 — Fonti UE e reti: «ECN; BEREC; ACER; EDPB»",
+      "severity": "Medio",
+      "diagnosis": "Reti, agenzie e autorità di vigilanza sono accostate senza una scheda comparativa della loro natura e delle fonti; decisioni vincolanti e standard tecnici non sono sufficientemente distinti dalla soft law.",
+      "correction": "Fonti UE 288–291 e tabella di reti, agenzie e autorità; RTS/ITS distinti da progetti e orientamenti.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-08",
+      "position": "Cap.4 — Mini-AIR e caso: «opzioni»",
+      "severity": "Grave",
+      "diagnosis": "La mini-AIR promessa non è un elaborato svolto: mancano alternative concrete, dati, costi/benefici, confronto e decisione. Nei blocchi finali ricompaiono criteri sanzionatori non adattati alla regolazione.",
+      "correction": "Mini-AIR numerica con baseline, alternative, benefici netti, scenario avverso e distribuzione; delibera ARERA 255/2025/A identificata.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-09",
+      "position": "Cap.5 — Ispezioni, garanzie e richiesta dati: «istruttoria»",
+      "severity": "Grave",
+      "diagnosis": "La distinzione fra attività è buona, ma non sono insegnate le garanzie specifiche e non è fornita una richiesta di informazioni compilata. Avvio formale e acquisizioni preliminari rischiano di sovrapporsi.",
+      "correction": "Ispezioni AGCM/Garante, domicilio e autorizzazioni, tutela difensiva nel suo ambito; richiesta dati compilata e fase preliminare distinta.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-10",
+      "position": "Cap.6 — Tutela giurisdizionale: «I termini e la sede non sono riportati»",
+      "severity": "Grave",
+      "diagnosis": "Il capitolo rinuncia esplicitamente a insegnare giudice, rito e termini: non realizza la mappa dei rimedi promessa al profilo G.",
+      "correction": "Tabella giudici, riti e termini, incluse novità TUF del 2026 e transitorio; privacy al Tribunale ordinario.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-11",
+      "position": "Cap.6 — Sanzioni, impegni e rimedi: «legalità; impegni»",
+      "severity": "Grave",
+      "diagnosis": "Garanzie punitive, presupposti cautelari ed effetti sono evocati senza uno sviluppo studiabile; impegni non corredati da scansione procedimentale; ottemperanza amministrativa e giudiziale da distinguere.",
+      "correction": "Garanzie punitive, ne bis in idem, impegni 14-ter, transazione e due tipi di ottemperanza spiegati e applicati.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-12",
+      "position": "Cap.7 — Strumenti di regolazione: «prezzi o ricavi»",
+      "severity": "Medio",
+      "diagnosis": "Il price cap è descritto in modo da sovrapporlo al revenue cap.",
+      "correction": "Price cap e revenue cap separati, formule didattiche ed effetti dei volumi calcolati.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-13",
+      "position": "Cap.7 — Econometria, economia industriale e contabilità: «correlazione; controfattuale»",
+      "severity": "Grave",
+      "diagnosis": "Il profilo economico riceve definizioni introduttive, ma non un percorso minimo di analisi: elasticità senza calcolo, econometria senza modello o interpretazione di coefficienti, contabilità senza allocazione risolta.",
+      "correction": "Elasticità, regressione e intervallo, differenza delle differenze, strutture di mercato, RAB/WACC e costi comuni con esercizi risolti.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-14",
+      "position": "Cap.8 — Concorrenza e procedimento: «intese; abuso; concentrazioni»",
+      "severity": "Grave",
+      "diagnosis": "Distinzioni iniziali corrette ma non bastano per il profilo giuridico: mancano sviluppo artt.101/102, oggetto/effetto, esenzione, clemenza, tipi di abuso, criterio e perimetro del controllo delle concentrazioni.",
+      "correction": "Articoli 101/102, esenzione e clemenza; SIEC, competenza e soglie AGCM 2026, incluse operazioni sotto soglia.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-15",
+      "position": "Cap.8 — Consumatore e caso senza costi: «pratiche scorrette»",
+      "severity": "Grave",
+      "diagnosis": "Non sono sviluppate le liste di pratiche sempre vietate né le conseguenze del qualificare una promozione gratis; rating e conflitti di interessi promessi dall’indice non sono trattati adeguatamente.",
+      "correction": "Codice consumo 20–26 e liste, gratis alla lettera v (rettifica della proposta originaria), clausole, rating, conflitti e delibera 31356; aggiornamento green claims 2026.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-16",
+      "position": "Cap.9 — Tariffe e caso; analisi economica: «analisi tariffaria»",
+      "severity": "Grave",
+      "diagnosis": "Nessun calcolo tariffario svolto; PEF e livelli istituzionali restano etichette. La frase secondo cui ARERA approverebbe ogni tariffa comunale è giudicata solo incompleta.",
+      "correction": "PEF: gestore, ETC e ARERA distinti; esempio numerico, limite di crescita, MTR-3 e MTI-4.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-17",
+      "position": "Cap.9 — Unbundling e tutela utente: «separazione contabile»",
+      "severity": "Medio",
+      "diagnosis": "Unbundling tende a coincidere con separazione contabile; reclamo, indennizzo e conciliazione rimangono senza condizioni operative.",
+      "correction": "Tre tipi di unbundling; reclamo, indennizzo e conciliazione con termini e differenze per settore, incluso teleriscaldamento.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-18",
+      "position": "Cap.10 — Comunicazioni, media, Corecom: «pluralismo; Corecom»",
+      "severity": "Grave",
+      "diagnosis": "SMP, accesso, servizio universale, spettro e pluralismo non sono sviluppati; il percorso Corecom non insegna presupposti, termini ed effetti dei rimedi.",
+      "correction": "CCE e TUSMA, SMP, accesso, servizio universale, spettro/pluralismo; percorso Corecom e rimedi distinti.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-19",
+      "position": "Cap.10 — DSA e DMA: «obblighi supplementari»",
+      "severity": "Grave",
+      "diagnosis": "La competenza esclusiva della Commissione sugli obblighi supplementari è corretta, ma manca il restante riparto e il contenuto operativo delle due discipline.",
+      "correction": "Categorie e obblighi DSA, intero riparto essenziale dell’articolo 56; gatekeeper e criteri DMA con casi separati.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-20",
+      "position": "Cap.11 — Intermediari e investitori: «appropriatezza; adeguatezza»",
+      "severity": "Grave",
+      "diagnosis": "Le due valutazioni sono nominate senza insegnare quando operano, quali informazioni richiedono e quali effetti producono.",
+      "correction": "Adeguatezza, appropriatezza ed execution only; conflitti, incentivi e best execution con caso numerico.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-21",
+      "position": "Cap.11 — Emittenti, MAR e MiCAR: «informazione privilegiata»",
+      "severity": "Grave",
+      "diagnosis": "Emittenti/prospetto/OPA non sono sviluppati; MAR non rende applicabili tutti i requisiti e obblighi; MiCAR è aggiornato ma non spiega categorie e competenze autorizzative.",
+      "correction": "Prospetto e OPA corrente; MAR dopo Listing Act dal 5 giugno 2026; ART/EMT/CASP e riparto, transitorio MiCAR concluso.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-22",
+      "position": "Cap.11, 12 — ACF, ABF, Arbitro Assicurativo: «risoluzione stragiudiziale»",
+      "severity": "Grave",
+      "diagnosis": "Le finalità sono distinte dalla vigilanza ma mancano perimetro, ammissibilità, termini e natura degli esiti; i dati AAS presenti sono corretti.",
+      "correction": "Tabella ABF/ACF/AAS con valori, termini, effetti e condizioni; transitorio del primo anno AAS preservato.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-23",
+      "position": "Cap.12 — Vigilanza prudenziale e crisi: «SSM; Solvency II»",
+      "severity": "Grave",
+      "diagnosis": "Il riparto significativo/meno significativo è spiegato correttamente ma capitale, liquidità, SREP, crisi e Solvency II restano introduttivi; requisiti del profilo prudenziale non sono soddisfatti.",
+      "correction": "SSM, procedure comuni, TUB/CRR/CRD, capitale/liquidità/SREP, crisi e Solvency II; nucleo minimo privato/societario/AML.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-24",
+      "position": "Cap.13 — Caso piattaforma per concorso pubblico; cooperazione: «Un eventuale trattamento transfrontaliero»",
+      "severity": "Grave",
+      "diagnosis": "La soluzione non applica l’esclusione specifica dell’art.55(2) GDPR ai trattamenti dell’autorità pubblica. Il generico richiamo ai presupposti dello sportello unico lascia aperto il percorso sbagliato nel caso centrale.",
+      "correction": "Articolo 55(2) applicato al concorso pubblico: niente sportello unico; distinto riuso autonomo del fornitore.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-25",
+      "position": "Cap.13 — Reclami, procedimento e sanzioni: «reclamo; segnalazione»",
+      "severity": "Grave",
+      "diagnosis": "Legittimazione, effetti, andamento del reclamo, garanzie e ricorso non sono insegnati con sufficiente precisione; anche i livelli sanzionatori restano assenti.",
+      "correction": "Poteri 58, fasce 83, reclamo 77/78, Codice e regolamento 1/2019 aggiornato; tre, nove/dodici mesi e trenta giorni distinti.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-26",
+      "position": "Cap.14 — RPCT e canali: «gestori dei canali»",
+      "severity": "Medio",
+      "diagnosis": "La distinzione fra RPCT e gestori può far perdere la coincidenza prevista per i soggetti pubblici obbligati a nominare il RPCT.",
+      "correction": "RPCT gestore del canale interno nei soggetti pubblici obbligati ex articolo 4(5).",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-27",
+      "position": "Cap.14 — Tabella whistleblowing, interesse: «Mira all’interesse pubblico»",
+      "severity": "Medio",
+      "diagnosis": "La formulazione può essere letta come requisito del movente personale del segnalante.",
+      "correction": "Interesse pubblico riferito all’oggetto; motivi personali irrilevanti ex articolo 16(2).",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-28",
+      "position": "Cap.14, 15 — Caso guidato ritorsioni; simulazione G3: «ritorsione»",
+      "severity": "Grave",
+      "diagnosis": "La presunzione è già correttamente insegnata nel paragrafo aggiornato del14, ma non entra nelle soluzioni dei casi; la verifica del nesso può così sembrare tutta a carico del segnalante.",
+      "correction": "Presunzione applicata ai casi e alla G3, limiti per soggetti collegati; articolo 19 distinto da articolo 6, ANAC distinto dal giudice.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-29",
+      "position": "Cap.14 — Prevenzione, vigilanza e canali: «PNA; vigilanza»",
+      "severity": "Grave",
+      "diagnosis": "Il delta specialistico non sviluppa raccordo PIAO/PTPCT, precontenzioso e poteri ANAC sui contratti; canali e tutele non diventano una disciplina studiabile.",
+      "correction": "PNA/PIAO/PTPCT, caso di rischio compilato, articoli 220/222; ambito pubblico/privato, canali, termini e riservatezza.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Normativa e procedura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-30",
+      "position": "Cap.15 — Dieci simulazioni, soluzioni e rubrica: «fonte richiamata o dichiarata necessità di verifica»",
+      "severity": "Grave",
+      "diagnosis": "Le10simulazioni sono reali consegne distinte, ma le chiavi sono scalette metodologiche; quelle economiche non hanno dati numerici. La rubrica equipara richiamo della fonte e dichiarazione di non conoscerla.",
+      "correction": "Dieci dossier e soluzioni complete; tre simulazioni economiche con calcoli. Rubrica richiede la regola corretta, non semplice dichiarazione di ignorarla.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-31",
+      "position": "Cap.15 — Simulazione inglese P4: «national decision»",
+      "severity": "Medio",
+      "diagnosis": "La conclusione preimpostata presuppone sempre una decisione nazionale anche quando la competenza finale può essere europea.",
+      "correction": "Memo effettivo di 107 parole: VLOP e competenza esclusiva Commissione per gli obblighi del caso.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-32",
+      "position": "Cap.6, 9, 15 — Refusi e concordanze: «Nel privacy; occorre a loro volta; nel elaborato»",
+      "severity": "Lieve",
+      "diagnosis": "Refusi locali e concordanze meccaniche deteriorano la leggibilità.",
+      "correction": "Refusi corretti e blocchi automatici sostituiti; concordanze riesaminate nei nuovi passaggi.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    },
+    {
+      "id": "V05-33",
+      "position": "Cap.1–15 — Apparati e fonti accessibili al lettore: «source_refs»",
+      "severity": "Medio",
+      "diagnosis": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+      "correction": "Repertori leggibili per capitolo; URL DORA corretto a 25G00032 e vecchio slug del capitolo 12 riparato.",
+      "status": "Risolto nel testo; PDF separato",
+      "category": "Didattica e struttura",
+      "evidence": "Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger"
+    }
+  ],
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "sha256": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "sha256": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "sha256": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "sha256": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "sha256": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "sha256": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "sha256": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "sha256": "46f43f3b336f8c59413b2ec9513d5c8ca1e79b18f9d7e306e7132e64873ff265",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "sha256": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "sha256": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "sha256": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "sha256": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "sha256": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "sha256": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "sha256": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368",
+      "readComplete": true,
+      "readingScope": "Originale letto integralmente nel ciclo, modifiche e contesto riesaminati",
+      "quizReview": "complete",
+      "pdfReview": "All-page visual coverage with 53 detailed pages; declared limits in PDF-VOL-05"
+    }
+  ],
+  "externalClaimsChecked": [
+    "https://acer.europa.eu/remit/remit-investigations",
+    "https://agcm.it/per-le-imprese/imprese-e-consumatori/regolamento-agcm-sulle-procedure-istruttorie-in-materia-di-tutela-del-consumatore",
+    "https://competition-policy.ec.europa.eu/antitrust-and-cartels/european-competition-network_en",
+    "https://competition-policy.ec.europa.eu/mergers/procedures_en",
+    "https://curia.europa.eu/site/upload/docs/application/pdf/2010-09/cp100090it.pdf",
+    "https://digital-markets-act.ec.europa.eu/index_en",
+    "https://digital-strategy.ec.europa.eu/en/policies/dsa-enforcement",
+    "https://eba.europa.eu/sites/default/files/document_library/Publications/Consultations/2023/Consultation%20on%20RTS%20and%20ITS%20on%20supervisory%20colleges%20under%20CRD/1055870/CP%20with%20RTS-ITS%20on%20supervisory%20colleges.pdf",
+    "https://ec.europa.eu/regional_policy/sources/policy/evaluations/helpdesk/052018/4.Practicioners-guide-CIB.pdf",
+    "https://eu-cap-network.ec.europa.eu/training/evaluation-learning-portal/learning-portal-difference-differences-method_en",
+    "https://eur-lex.europa.eu/eli/reg/2022/2065/",
+    "https://eur-lex.europa.eu/legal-content/GA/TXT/?uri=CELEX%3A02013R0575-20260101",
+    "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A62020CA0117",
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022R1925",
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32024R2809",
+    "https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32018R1971",
+    "https://knowledge4policy.ec.europa.eu/microeconomic-evaluation/policy-impact-evaluation-methods-data_en",
+    "https://uif.bancaditalia.it/normativa/norm-antiricic/documenti/2025/Istruzioni-UIF-per-la-rilevazione-e-la-segnalazione-delle-operazioni-sospette.pdf",
+    "https://uif.bancaditalia.it/sistema-antiriciclaggio/ordinamento-italiano/index.html",
+    "https://www.acf.consob.it/ricorso/quando-come-fare-ricorso",
+    "https://www.agcm.it/competenze/conflitto-di-interessi/",
+    "https://www.agcm.it/competenze/rating-di-legalita/FAQ-Regolamento-Rating-2026",
+    "https://www.agcm.it/competenze/tutela-della-concorrenza/intese-e-abusi/programma-di-clemenza",
+    "https://www.agcm.it/media-e-comunicazione/dettaglio-notizia?id=a1200b3d-1395-4ce6-bdd3-aab387104d6b&parent=News&parentUrl=%2Fmedia-e-comunicazione%2Fnews",
+    "https://www.agcm.it/per-le-imprese/Concorrenza/concentrazioni/soglie-di-fatturato",
+    "https://www.agcm.it/per-le-imprese/Concorrenza/intese-e-abusi/procedura-di-transazione",
+    "https://www.agcom.it/competenze/comunicazioni-elettroniche/reti/frequenze/frequenze-radio-e-TV",
+    "https://www.agcom.it/competenze/comunicazioni-elettroniche?page=2",
+    "https://www.agcom.it/competenze/piattaforme-online/digital-service-act/soggetti-destinatari",
+    "https://www.agcom.it/node/1014/printable/print",
+    "https://www.agcom.it/provvedimenti/delibera-203-18-cons",
+    "https://www.agcom.it/sites/default/files/media/allegato/2024/allegato%20A%20delibera%2066-24-cons.pdf",
+    "https://www.agcom.it/sites/default/files/migration/attachment/Allegato%203-1-2024.pdf",
+    "https://www.anticorruzione.it/-/del.n.478-26.11.2025.llgg.wb",
+    "https://www.anticorruzione.it/-/piano-nazionale-anticorruzione-2025",
+    "https://www.anticorruzione.it/en/-/whistleblowing",
+    "https://www.arbitroassicurativo.org/faq/index.html",
+    "https://www.arbitrobancariofinanziario.it/abf/index.html",
+    "https://www.arbitrobancariofinanziario.it/presentare-ricorso/invio-ricorso/",
+    "https://www.arbitrobancariofinanziario.it/presentare-ricorso/verifiche-preliminari/index.html",
+    "https://www.arera.it/allegati/schede/137-16st.pdf",
+    "https://www.arera.it/area-operatori/teleriscaldamento/teleriscaldamento-e-teleraffrescamento",
+    "https://www.arera.it/atti-e-provvedimenti/dettaglio/15/296-15",
+    "https://www.arera.it/chi-siamo",
+    "https://www.arera.it/comunicati-operatore/dettaglio/raccolta-dati-tariffa-rifiuti-pef-aggiornamento-2026-2029",
+    "https://www.arera.it/consumatori/conciliazione/servizio-conciliazione-domande-e-risposte",
+    "https://www.arera.it/en/comunicati-stampa/dettaglio/acqua-nuovo-metodo-tariffario-mti-4-e-nuove-regole-per-la-qualita-tecnica",
+    "https://www.arera.it/fileadmin/allegati/docs/25/255-25.pdf",
+    "https://www.arera.it/fileadmin/allegati/docs/25/397-2025-R-rif.pdf",
+    "https://www.arera.it/schede-tecniche/dettaglio/it/schedetecniche/23/163-23st",
+    "https://www.arera.it/single-digital-gateway-acqua",
+    "https://www.bancaditalia.it/chi-siamo/funzioni-governance/direttorio/",
+    "https://www.bancaditalia.it/chi-siamo/funzioni-governance/disposizioni-generali/statuto.pdf",
+    "https://www.bancaditalia.it/compiti/risoluzione-gestione-crisi/index.html?com.dotmarketing.htmlpage.language=102",
+    "https://www.bancaditalia.it/media/approfondimenti/2015/gestione-crisi-bancarie/index.html?dotcache=refresh",
+    "https://www.bancaditalia.it/media/notizie/2024/MICAR-CONSOB-Nota-ricognitiva-ITA.pdf",
+    "https://www.bankingsupervision.europa.eu/about/banking-supervision-explained/html/srep.en.html",
+    "https://www.bankingsupervision.europa.eu/framework/relocating/html/index.ga.html",
+    "https://www.bankingsupervision.europa.eu/framework/supervised-banks/criteria/html/index.en.html",
+    "https://www.bankingsupervision.europa.eu/press/pr/date/2025/html/ssm.pr251118~fb9a8367f3.ro.html",
+    "https://www.bankingsupervision.europa.eu/press/speeches/date/2015/html/se150930.en.html",
+    "https://www.bankingsupervision.europa.eu/press/supervisory-newsletters/newsletter/2018/html/ssm.nl181114_3.de.html",
+    "https://www.consilium.europa.eu/en/policies/digital-services-package/",
+    "https://www.consob.it/documents/1912911/1950567/reg_consob_2018_20307.pdf/11dc97e0-da97-7aa9-ce44-45e11f7ff7bb",
+    "https://www.consob.it/en/web/consob/w/cripto-attivit%C3%A0-dal-primo-luglio-scade-il-periodo-transitorio-mica-l-esma-chiarisce-gli-obblighi-per-gli-operatori-e-avvisa-gli-investitori",
+    "https://www.cortecostituzionale.it/scheda-pronuncia/2019/63",
+    "https://www.cortecostituzionale.it/scheda-pronuncia/2023/169",
+    "https://www.cortecostituzionale.it/scheda-pronuncia/2026/73",
+    "https://www.eba.europa.eu/about-us/legal-and-policy-framework/compliance-eba-regulatory-products",
+    "https://www.eiopa.europa.eu/browse/supervisory-convergence/supervisory-convergence-tools_en",
+    "https://www.esma.europa.eu/sites/default/files/2025-07/ESMA35-24871704-2591_Compliance_table_on_MiCA_crypto-asset_transfer_Guidelines.pdf",
+    "https://www.esma.europa.eu/sites/default/files/2026-05/ESMA24-229244789-5649_SMSG_advice_-_MAR_Guidelines_on_delayed_disclosure.pdf",
+    "https://www.europarl.europa.eu/factsheets/it/sheet/6/subsidiarity",
+    "https://www.garanteprivacy.it/diritti/come-agire-per-tutelare-i-tuoi-dati-personali/reclamo/",
+    "https://www.gazzettaufficiale.it/eli/gu/2026/03/09/56/sg/pdf",
+    "https://www.gazzettaufficiale.it/eli/gu/2026/04/14/86/so/14/sg/pdf",
+    "https://www.gazzettaufficiale.it/eli/id/2025/03/11/25G00032/sg",
+    "https://www.gazzettaufficiale.it/eli/id/2026/07/23/26G00145/sg",
+    "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9107633",
+    "https://www.ivass.it/chi-siamo/organizzazione/consiglio/index.html",
+    "https://www.ivass.it/normativa/focus/solvency/index.html",
+    "https://www.ivass.it/normativa/nazionale/primaria/Statuto_IVASS.pdf",
+    "https://www.ivass.it/pubblicazioni-e-statistiche/pubblicazioni/altre-pubblicazioni/2016/guida-solvency-ii/Guida_Solvency_II.pdf",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-30;217!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-04-08;95~art1!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248~art47quater!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50~art52quater!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art195!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art143!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art158!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150~art13!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-06-25;128~art10!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art14!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262~art29quater!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262~art29ter!vig="
+  ],
+  "normativeEvidence": [
+    "artifacts/correzioni-collana-2026-10-02/VOL-05-external-reading-scope.json"
+  ],
+  "chapterGates": {
+    "passed": 15,
+    "blockers": 0,
+    "warnings": 0
+  },
+  "coverageNuclei": 75,
+  "quizCount": 90,
+  "finalCaseCount": 15,
+  "solvedSimulations": 10,
+  "limitations": [
+    "PDF aggiornato da verificare",
+    "Riscontri normativi mirati, nessuna dichiarazione di lettura integrale di ogni testo unico",
+    "Schemi e pacchetto finale in lavorazione"
+  ],
+  "freezeManifest": "artifacts/correzioni-collana-2026-10-02/M-FC05-freeze.json",
+  "controlledLayoutDelta": {
+    "date": "2026-10-03",
+    "previousManifest": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\M-FC05-freeze-before-graphics.json",
+    "nativeSchemes": 75,
+    "allBodyOutsideDeclaredDeltaPreserved": true,
+    "checkpoint": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\VOL-05-native-checkpoint.json",
+    "projectionManifest": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol05-proof\\projection-manifest.json"
+  },
+  "production": {
+    "pdfSha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5",
+    "pages": 239,
+    "report": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-05.md",
+    "visualReview": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol05-proof\\visual-review.json",
+    "nativeSchemes": 75,
+    "baselinePDFAndFigureIDsClosed": [
+      "P05-01",
+      "P05-02",
+      "P05-03",
+      "P05-04",
+      "P05-20",
+      "P05-21",
+      "P05-22",
+      "P05-23"
+    ],
+    "findings": [
+      {
+        "id": "P05-01",
+        "position": "75 schemi, capitoli 1–15",
+        "category": "Didascalie",
+        "severity": "media",
+        "description": "Doppie didascalie e titoli interposti nel PDF storico.",
+        "correction": "Un solo titolo Schema N.N con tabella nativa; didascalie duplicate eliminate.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-02",
+        "position": "Tutti gli schemi; Decoder pp. 17–18",
+        "category": "Leggibilità",
+        "severity": "media",
+        "description": "Microtesto e giallo poco contrastato nelle figure raster.",
+        "correction": "75 schemi a caratteri nativi, tabelle 9,5 pt; Decoder verticale compilabile.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-03",
+        "position": "Schemi 3.3 e 10.4 e serie collegata",
+        "category": "Didattica visuale",
+        "severity": "media",
+        "description": "Etichette generiche senza presupposti o conseguenze.",
+        "correction": "Reti, competenze e designazioni distinte con contenuti specifici.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-04",
+        "position": "Capitolo 1, rinvii alla base",
+        "category": "Rinvii",
+        "severity": "grave",
+        "description": "Sequenza stampata «su , e ;», riscontro di V05-01.",
+        "correction": "Destinazioni e titoli ricostruiti; zero rinvii sorgente irrisolti e nessuna sequenza vuota.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-20",
+        "position": "70 tavole originali dei capitoli 2–15",
+        "category": "Didattica visuale",
+        "severity": "grave",
+        "description": "Cinque modelli ripetuti con riempitivi.",
+        "correction": "70 schemi specifici; ulteriori cinque iniziali convertiti dopo prova di stampa.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-21",
+        "position": "Quindici mappe BANDO",
+        "category": "Metodo",
+        "severity": "grave",
+        "description": "Lettere associate a concetti estranei al metodo.",
+        "correction": "Bando, Aree, Nuclei, Diario e Output applicati alla preparazione del tema.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-22",
+        "position": "Mappe BANDO",
+        "category": "Connettori",
+        "severity": "lieve",
+        "description": "Ramo Output staccato dalla linea comune.",
+        "correction": "Relazioni espresse in tabelle; nessun connettore ambiguo residuo.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-23",
+        "position": "Schemi 11.3 e 14.3, pp. 164 e 209",
+        "category": "Sequenze e garanzie",
+        "severity": "media",
+        "description": "Sanzione necessaria e protezione soltanto dopo l’istruttoria.",
+        "correction": "Esiti condizionati del controllo; riservatezza e protezione lungo il percorso.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-24",
+        "position": "Bibliografie dei capitoli 1–14",
+        "category": "Composizione",
+        "severity": "media",
+        "description": "20 link esterni stampati con sintassi Markdown.",
+        "correction": "Titolo e dominio nella proiezione; URL completi nei master e manifest.",
+        "status": "Risolto e verificato"
+      },
+      {
+        "id": "P05-25",
+        "position": "Capitolo 2, pp. 35–39; capitolo 14, pp. 219–220",
+        "category": "Riflusso",
+        "severity": "media",
+        "description": "Grande vuoto prima del nucleo 2.4 e bibliografia isolata in chiusura ANAC.",
+        "correction": "Sottotitolo breve nel capoverso; bibliografia ANAC prima del caso. Tutte le parole conservate; bianchi finali di chiusura restano ammessi.",
+        "status": "Risolto nel perimetro dichiarato"
+      },
+      {
+        "id": "C05-01",
+        "position": "Front matter, pp. 1–4",
+        "category": "Dipendenza comune",
+        "severity": "grave",
+        "description": "Promessa di servizi digitali non verificata; colophon commerciale incompleto; descrizione «modulo premium per target ristretto».",
+        "correction": "Consolidare offerta e dati editoriali; sostituire la descrizione interna; proiettare i preliminari corretti e ricontrollare.",
+        "status": "Aperto; coordinamento comune"
+      }
+    ],
+    "finalSignoff": false
+  }
+}

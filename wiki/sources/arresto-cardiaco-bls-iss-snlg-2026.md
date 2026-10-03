@@ -10,7 +10,7 @@ source_refs:
   - "sources/metodo-evidenze-sistema-nazionale-linee-guida-iss"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.98
-updated_at: 2026-07-29T11:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T11:00:00+02:00
 review_required: true
 canonical: true
@@ -46,3 +46,7 @@ La linea guida acquisita riguarda la prima area tematica, BLS. Non autorizza con
 ## Stato revisione
 
 Risolto il vuoto assoluto sulla rianimazione di base corrente. Il nucleo clinica-emergenza resta `parziale` per deterioramento, ALS, urgenze specifiche per profilo e validazione dei casi.
+
+## Integrazione concettuale verificata il 3 ottobre 2026
+
+La lettura mirata del PDF ISS-SNLG acquisito (sezione sul riconoscimento telefonico, pp. 165–166) conferma che respirazione agonale/gasping e valutazioni prolungate possono ritardare il riconoscimento e l’allerta. Nel testo didattico: persona non responsiva con respiro assente o anormale, attivazione immediata della risposta, compressioni e DAE secondo formazione e istruzioni del sistema di emergenza. Non si usa il gasping come prova di respirazione normale.

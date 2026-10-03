@@ -9,7 +9,7 @@ entities: ["CNR", "ALLEA", "COPE"]
 source_refs: ["sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24"]
 book_refs: ["m-ir03-enti-ricerca", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.91
-updated_at: 2026-08-22
+updated_at: 2026-10-03
 created_at: 2026-08-22
 review_required: false
 canonical: true
@@ -36,3 +36,9 @@ authority_level: alta
 - Non presentare indicatori bibliometrici, peer review o prestigio della sede editoriale come prova automatica di qualità o integrità.
 - Autorialità, contributi, conflitti di interesse, gestione dei dati e comunicazione dei risultati dipendono anche da disciplina, policy, accordi e sede di pubblicazione.
 - Correzione, espressione di preoccupazione e ritrattazione non sono sanzioni intercambiabili: l'atto concreto e la procedura vanno verificati presso editore e istituzione competenti.
+
+## Bibliometria — integrazione del 3 ottobre 2026
+
+Hirsch, *An index to quantify an individual's scientific research output* (2005), abstract e definizione originali https://arxiv.org/abs/physics/0508025 . h è il massimo intero per cui almeno h lavori hanno almeno h citazioni ciascuno. Dataset didattico 18, 11, 7, 4, 3, 1: h=4; il quinto ha tre citazioni. Somma=44 e media circa 7,33 sono indicatori differenti. Sensibilità a banca dati, omonimie, periodo, anzianità, disciplina e coautorialità impedisce equiparazione automatica a qualità o merito; nessuna soglia concorsuale universale. Il caso è originale, non dati di una persona reale. Collegamento [[books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita]].
+
+- `raw/correzioni-collana-2026-10-02/hirsch-hindex.html` — SHA256 20b9f52ec9e4a6f234293ad8ea7768ab53af098df7b6622160233d7a59230aab.

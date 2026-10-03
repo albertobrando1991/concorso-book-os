@@ -189,3 +189,19 @@ La seconda passata ha verificato precisione, uniformità, ordine di lettura, mar
 ## Esito finale
 
 Tutti i 152 asset superano il controllo funzionale e tecnico. Non è stata aggiunta grafica decorativa e non sono state introdotte modifiche post-freeze al testo. Le tabelle dense restano testo nativo del Book Studio, non immagini: la loro resa finale è verificata negli step 19-20 senza riduzione arbitraria del carattere.
+
+## Nuova revisione di stampa — 3 ottobre 2026, in corso
+
+L'esito precedente descrive la revisione storica. La successiva prova di stampa ha evidenziato etichette troppo piccole nei 133 asset originari residui. Questi apparati sono stati esaminati singolarmente e convertiti in schemi, tabelle e sequenze Markdown. Le 19 immagini già ridisegnate per la stampa sono state conservate con hash e riferimenti invariati.
+
+Il registro aggiornato è [VOL-01 — Schemi nativi](../../correzioni-collana-2026-10-02/VOL-01-schemi-nativi.md). La terza prova, `artifacts/correzioni-collana-2026-10-02/vol-01-native-20261003-proof.pdf`, conta 670 pagine. Sono state viste 194 pagine mirate in 49 tavole, con copertura di tutti i 133 schemi e delle 19 immagini: testi leggibili, nessun taglio o sovrapposizione osservati. Il controllo geometrico dell'intero PDF rileva zero elementi testuali fuori pagina; corpo circa 11 pt e tabelle circa 9,5 pt.
+
+Restano 20 titoli e descrizioni di schema separati dal corpo nella pagina successiva, registrati in `VOL-01-native-layout-findings.json`, oltre ad alcuni raccordi analoghi preesistenti. Sono necessarie la correzione dell'impaginazione e una nuova prova. Le due domande isolate corrette con «Perché» iniziale sono successive al PDF esaminato. Lo step 18 rimane in corso: questa nota non è un'approvazione finale e non abilita il gate 24.
+
+## Chiusura della revisione degli apparati — 3 ottobre 2026
+
+La prova `artifacts/correzioni-collana-2026-10-02/vol-01-native-release-20261003-proof.pdf` conta 687 pagine, con DOM e PDF coerenti, zero overflow e zero testo fuori pagina. Tutti i 133 schemi sono leggibili e hanno titolo e primo contenuto sulla stessa pagina; le 19 immagini protette conservano hash e riferimenti. Risolti i 20 raccordi segnalati e i cinque aggiuntivi. Verificati anche mini-esercizio, rinvio alle percentuali e maiuscole delle domande.
+
+Il registro [Schemi nativi](../../correzioni-collana-2026-10-02/VOL-01-schemi-nativi.md) contiene le dieci sezioni della revisione e le 133 righe asset → problema → correzione → verifica → esito. La copertura visiva della release comprende 178 pagine degli apparati: 169 equivalenti per confronto esatto del rendering a pagine già viste e nove riesaminate direttamente, oltre a cinque pagine aggiuntive. Le 177 pagine della prova intermedia sono state viste in 45 tavole. Il registro distingue i due metodi senza dichiarare una lettura integrale del PDF. Le evidenze sono `VOL-01-native-release-visual-ledger.json`, `VOL-01-native-layout-resolutions.json`, `VOL-01-native-release-chain-audit.json` e `VOL-01-native-verifica.json`.
+
+La seconda passata conferma uniformità e precisione degli apparati. I 127 test del renderer pertinenti e il typecheck passano. Revisione degli apparati conclusa; resta il percorso successivo della pipeline, senza gate 24 e senza pubblicabilità complessiva dichiarata.

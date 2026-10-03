@@ -1,7 +1,7 @@
 ---
 id: m-ir03-enti-ricerca
 type: specialist_module
-title: "M-IR03 - Enti di ricerca"
+title: "M-IR03 — Enti di ricerca"
 status: final
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","istruzione-ricerca","metodo bando"]
@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4","sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025","sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.9
-updated_at: 2026-08-23
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -25,7 +25,7 @@ draft_stage: text_frozen
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md", "sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4", "books/moduli/m-ir03-enti-ricerca/planning/02-matrice-copertura-didattica", "reviews/pipeline/VOL-06/13-moduli-m-ir03-enti-ricerca"]
 ---
 
-# M-IR03 - Enti di ricerca
+# M-IR03 — Enti di ricerca
 
 ## Ruolo del modulo
 Modulo specialistico per la preparazione a concorsi negli enti pubblici di ricerca. Collega il quadro degli EPR a quattro profili: ricercatore, tecnologo, amministrativo e supporto grant. Trasforma norme, atti, progetti, infrastrutture e controlli in risposte utilizzabili nelle prove scritte e orali.
@@ -35,7 +35,7 @@ Modulo specialistico per la preparazione a concorsi negli enti pubblici di ricer
 - Codice modulo: M-IR03
 - Copertura: enti di ricerca, governance, organizzazione, amministrazione, compliance, progettazione, integrità, infrastrutture, proprietà intellettuale, dati, grant management e laboratorio per quattro profili.
 - Fase roadmap: 3
-- Stato: revisione editoriale trasversale completata; in attesa di audit specialistico e text freeze.
+- Stato: correzioni e audit specialistico testuale del 3 ottobre conclusi; nuovo PDF da verificare.
 
 ## Confine editoriale
 Il modulo integra il metodo generale con contenuti e casi tipici degli EPR. Non sostituisce bando, statuto, regolamenti, policy o accordi applicabili al caso concreto.
@@ -59,4 +59,4 @@ Non promette copertura totale di ogni bando né aggiornamento normativo automati
 
 ## Stato editoriale
 
-I dodici capitoli hanno superato i gate individuali e la revisione trasversale. Il modulo procede ora all'audit specialistico automatico, al text freeze e ai controlli di volume. La conferma umana conclusiva resta lo step 24 della pipeline.
+I dodici capitoli hanno completato correzioni e audit specialistico testuale. Il manifest dello step 16 identifica il testo congelato; restano il nuovo PDF e i controlli del volume. La conferma umana conclusiva resta lo step 24 della pipeline.

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "privacy-reg2019.html",
+    "url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9107633",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\privacy-reg2019.html",
+    "sha256": "ee87d1ed9ac480a64fec8a56275810ac9016a757c4537d2c3b1dc29289c4470c",
+    "characters": 61736,
+    "readComplete": false
+  },
+  {
+    "id": "privacy-art140bis.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art140bis!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\privacy-art140bis.html",
+    "sha256": "e14bb4bea26313ef76c6c6f873e2d4e4063f9f74d6c49e3cd4306a7723d9bf6a",
+    "characters": 13379,
+    "readComplete": false
+  },
+  {
+    "id": "privacy-art142.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art142!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\privacy-art142.html",
+    "sha256": "1ada8ceba1bc2f0644635b99c20108565d0544ed34c9a92c7f6da7884fef20aa",
+    "characters": 13964,
+    "readComplete": false
+  },
+  {
+    "id": "privacy-art143.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art143!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\privacy-art143.html",
+    "sha256": "3a44799b42e369411884b2952a58d26f07d00b017252ad0776ec1be2f07f8109",
+    "characters": 13847,
+    "readComplete": false
+  },
+  {
+    "id": "privacy-art144.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art144!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\privacy-art144.html",
+    "sha256": "49faf5344b160cf4cfb0eaf9283e37b4ddbc3db731879ed8f0e986b4de36d920",
+    "characters": 12991,
+    "readComplete": false
+  }
+]

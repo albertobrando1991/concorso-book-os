@@ -1,0 +1,31 @@
+{
+  "V01-": {
+    "statuses": {
+      "applicato-da-verificare": 49,
+      "da-applicare": 2
+    },
+    "open": [
+      "V01-50",
+      "V01-51"
+    ]
+  },
+  "P01-": {
+    "statuses": {
+      "da-applicare": 3,
+      "applicato-da-verificare": 9
+    },
+    "open": [
+      "P01-01",
+      "P01-03",
+      "P01-02"
+    ]
+  },
+  "V09-": {
+    "statuses": {
+      "applicato-da-verificare": 38
+    },
+    "open": []
+  },
+  "missingImages": [],
+  "internalBodyRefs": []
+}

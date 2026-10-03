@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Matrice di compatibilita</title>
+  <desc id="desc">La scelta diventa visibile quando tutti i bandi stanno nella stessa pagina.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Matrice di compatibilita</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">La scelta diventa visibile quando tutti i bandi stanno nella stessa pagina.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="185 215 1230 495 4">
+      <rect x="185" y="215" width="1230" height="495" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+      <rect x="185" y="215" width="307.5" height="62" fill="#10233F" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong whiteText" x="338.75" y="254" text-anchor="middle">Criterio</text>
+<rect x="492.5" y="215" width="307.5" height="62" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="646.25" y="254" text-anchor="middle">Concorso A</text>
+<rect x="800" y="215" width="307.5" height="62" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="953.75" y="254" text-anchor="middle">Concorso B</text>
+<rect x="1107.5" y="215" width="307.5" height="62" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="1261.25" y="254" text-anchor="middle">Concorso C</text>
+      <rect x="185" y="270" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="338.75" y="312" text-anchor="middle">Profilo</text>
+<rect x="492.5" y="270" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="646.25" y="312" text-anchor="middle">alto</text>
+<rect x="800" y="270" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="953.75" y="312" text-anchor="middle">medio</text>
+<rect x="1107.5" y="270" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="1261.25" y="312" text-anchor="middle">basso</text>
+<rect x="185" y="338" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="338.75" y="380" text-anchor="middle">Scadenza</text>
+<rect x="492.5" y="338" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="646.25" y="380" text-anchor="middle">vicina</text>
+<rect x="800" y="338" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="953.75" y="380" text-anchor="middle">gestibile</text>
+<rect x="1107.5" y="338" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="1261.25" y="380" text-anchor="middle">sovrapposta</text>
+<rect x="185" y="406" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="338.75" y="448" text-anchor="middle">Materie comuni</text>
+<rect x="492.5" y="406" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="646.25" y="448" text-anchor="middle">molte</text>
+<rect x="800" y="406" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="953.75" y="448" text-anchor="middle">alcune</text>
+<rect x="1107.5" y="406" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="1261.25" y="448" text-anchor="middle">poche</text>
+<rect x="185" y="474" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="338.75" y="516" text-anchor="middle">Materie nuove</text>
+<rect x="492.5" y="474" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="646.25" y="516" text-anchor="middle">poche</text>
+<rect x="800" y="474" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="953.75" y="516" text-anchor="middle">medie</text>
+<rect x="1107.5" y="474" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="1261.25" y="516" text-anchor="middle">molte</text>
+<rect x="185" y="542" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="338.75" y="584" text-anchor="middle">Prova</text>
+<rect x="492.5" y="542" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="646.25" y="584" text-anchor="middle">scritta</text>
+<rect x="800" y="542" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="953.75" y="584" text-anchor="middle">quiz</text>
+<rect x="1107.5" y="542" width="307.5" height="68" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="1261.25" y="584" text-anchor="middle">diversa</text>
+<rect x="185" y="610" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small strong" x="338.75" y="652" text-anchor="middle">Decisione</text>
+<rect x="492.5" y="610" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="646.25" y="652" text-anchor="middle">guida</text>
+<rect x="800" y="610" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="953.75" y="652" text-anchor="middle">satellite</text>
+<rect x="1107.5" y="610" width="307.5" height="68" fill="#EAF2FB" stroke="#CBD5E1" stroke-width="2"/>
+      <text class="small" x="1261.25" y="652" text-anchor="middle">parcheggio</text>
+    </g>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Non serve precisione matematica: serve una decisione visibile.</text>
+  </g>
+
+</svg>

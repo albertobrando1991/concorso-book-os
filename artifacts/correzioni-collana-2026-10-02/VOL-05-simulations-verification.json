@@ -1,0 +1,40 @@
+{
+  "count": 10,
+  "readOriginalComplete": true,
+  "solutionsApplied": [
+    "G1",
+    "G2",
+    "G3",
+    "E1",
+    "E2",
+    "E3",
+    "P1",
+    "P2",
+    "P3",
+    "P4"
+  ],
+  "englishWordCount": 107,
+  "calculations": {
+    "E1": [
+      14,
+      26,
+      14
+    ],
+    "E2": [
+      6000,
+      7000,
+      -5000
+    ],
+    "E3": {
+      "regulatedCommon": 180000,
+      "nonRegulatedCommon": 120000,
+      "regulatedOperating": 680000,
+      "totalRevenue": 790000,
+      "tariff": 79,
+      "incorrectTariff": 91,
+      "difference": 12
+    },
+    "P3SCR": 0.9
+  },
+  "legalSources": "Sources consolidated for chapters 4–14; dates and conditions embedded in each dossier."
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "dm114-art1.html",
+    "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=0&art.flagTipoArticolo=0&art.codiceRedazionale=26G00134&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2026-06-30&art.progressivo=0",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dm114-art1.html",
+    "sha256": "12b650caee76febb59694b0f251c47eb94819b037b6de0ec99fa160064b68bc6",
+    "readComplete": true,
+    "readScope": "Testo del documento/articolo acquisito letto integralmente."
+  },
+  {
+    "name": "cassazione-rassegna-tematica2025.pdf",
+    "url": "https://www.cortedicassazione.it/resources/cms/documents/Rassegna_tematica_aggiornata_al_30_giugno_2025.pdf",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cassazione-rassegna-tematica2025.pdf",
+    "sha256": "9b7762bee7fa78140dfaa5da342b2ab1d4371858766e17b3413420f53cf4a273",
+    "readComplete": false,
+    "readScope": "Sezione deposito civile, pagine stampate 109–110 (PDF 112–113); non intera rassegna."
+  },
+  {
+    "name": "pct-specifiche2024.pdf",
+    "url": "https://pst.giustizia.it/PST/resources/cms/documents/m_dg.DOG07.07082024.0004292.ID_SPECIFICHETECNICHE_DM_44_2011_FINALE_31_.pdf",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/pct-specifiche2024.pdf",
+    "sha256": "eb08225f91aaf9900ed1b291b034cdfc2a98a0618a85fdc85828bdf6b195039b",
+    "readComplete": false,
+    "readScope": "Artt. 7, 15–17 e 19; non lettura integrale delle 28 pagine."
+  },
+  {
+    "name": "pct-rettifica-settembre2024.pdf",
+    "url": "https://pst.giustizia.it/PST/resources/cms/documents/m_dg.DOG07.16092024.0004740.ID_20240912_Modifica_art._27_comma_1_ST_V.pdf",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/pct-rettifica-settembre2024.pdf",
+    "sha256": "f12532eb5ce0ea87cfc9ce305fac924c75c6ae48313b1d04619dd5cca965401c",
+    "readComplete": true,
+    "readScope": "Testo del documento/articolo acquisito letto integralmente."
+  },
+  {
+    "name": "pct-rettifica-ottobre2024.pdf",
+    "url": "https://pst.giustizia.it/PST/resources/cms/documents/m_dg.DOG07.30102024.0005785.ID_RettificaSpecificheTecniche_v2_signed.pdf",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/pct-rettifica-ottobre2024.pdf",
+    "sha256": "c7aef9bf9fef40576a5e6620631e4088e1cdf4aa8495e6c078aac8b4c7b9c431",
+    "readComplete": true,
+    "readScope": "Testo del documento/articolo acquisito letto integralmente."
+  },
+  {
+    "name": "pct-accettazione2024.pdf",
+    "url": "https://pst.giustizia.it/PST/resources/cms/documents/m_dg.DOG07.19092024.0034552.U_20240916_Comunicazione_Dip._su_accetta.pdf",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/pct-accettazione2024.pdf",
+    "sha256": "69faa24fd2d3476c4eee3334ca6c5f42d5329a34efbb4740f6eedc72397f7e29",
+    "readComplete": true,
+    "readScope": "Testo del documento/articolo acquisito letto integralmente."
+  },
+  {
+    "name": "pct-reginde.html",
+    "url": "https://pst.giustizia.it/PST/it/paginadettaglio.page?contentId=ACC405",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/pct-reginde.html",
+    "sha256": "0f407ec07b670a98f1d07760693a4b01970dd0c7feb31ee2c8018d63e6a83d77",
+    "readComplete": false,
+    "readScope": "Descrizione del registro e soggetti abilitati; dettagli storici CEC-PAC non assunti come procedura corrente."
+  }
+]

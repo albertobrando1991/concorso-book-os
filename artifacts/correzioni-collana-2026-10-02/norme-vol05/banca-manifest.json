@@ -1,0 +1,34 @@
+[
+  {
+    "id": "aas-faq.html",
+    "url": "https://www.arbitroassicurativo.org/faq/index.html",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\aas-faq.html",
+    "sha256": "f10fadb35f217bc393b5f8b5cd488f5bea381e75667a4d88e0849ade2e2601fe",
+    "characters": 25917,
+    "readComplete": false
+  },
+  {
+    "id": "ivass-solvency-guida.pdf",
+    "url": "https://www.ivass.it/pubblicazioni-e-statistiche/pubblicazioni/altre-pubblicazioni/2016/guida-solvency-ii/Guida_Solvency_II.pdf",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\ivass-solvency-guida.pdf",
+    "sha256": "11c02aa7c28a09947b193f9b7d0f84cd071b2b1dca69bbefd374a994a47c761d",
+    "characters": 82146,
+    "readComplete": false
+  },
+  {
+    "id": "uif-ordinamento.html",
+    "url": "https://uif.bancaditalia.it/sistema-antiriciclaggio/ordinamento-italiano/index.html",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\uif-ordinamento.html",
+    "sha256": "d2b6187cbd14488d5e64f6013f29d43f8eeee1d30feb1ad1c59bb653771a1287",
+    "characters": 24492,
+    "readComplete": false
+  },
+  {
+    "id": "abf-presentare.html",
+    "url": "https://www.arbitrobancariofinanziario.it/presentare-ricorso/index.html",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\abf-presentare.html",
+    "sha256": "47d0af3fa853509aeb319d6b2520128416e22e4c2fe4348f55c7ad28072ae1c9",
+    "characters": 5334,
+    "readComplete": false
+  }
+]

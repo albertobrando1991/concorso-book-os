@@ -1,0 +1,1235 @@
+{
+  "volume": "VOL-04",
+  "reviewStatus": "text-review-complete",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md",
+      "sha256": "de559e86604515d678f124c1db386c6c15ddaa88b2c567707f9a531c793c9c28",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-01",
+          "position": "Mappa funzioni; Errore tipico",
+          "excerpt": "funzione giurisdizionale; processo civile",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "L’esercizio dell’azione penale è ricondotto senza distinzione alla funzione giurisdizionale; l’esempio passa impropriamente dal civile al DAP.",
+          "proposal": "Distinguere funzione giudiziaria, giudicante e requirente; nell’esempio usare materia processuale o esplicitare il cambio di settore.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,A,B,B,B,B",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+      "sha256": "15293fb85342e226223388932e5c9a0d858c20a7d9f2b4d5439604efcc36a45c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V04-02",
+          "claim": "Il testo mantiene DGSIA come articolazione attuale del DIT senza spiegare la riorganizzazione. La pagina corrente elenca DGSAP, DGINFRA, DGSTAT e DGCOE.",
+          "urls": [
+            "https://www.giustizia.it/giustizia/page/it/dipartimento_innovazione_tecnologica_della_giustizia"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V04-02",
+          "position": "DIT e DGSIA; tabella strutture",
+          "excerpt": "inclusa DGSIA",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Il testo mantiene DGSIA come articolazione attuale del DIT senza spiegare la riorganizzazione. La pagina corrente elenca DGSAP, DGINFRA, DGSTAT e DGCOE.",
+          "proposal": "Aggiornare organigramma e competenze, qualificando DGSIA nelle fonti storiche; allineare indice e source notes.",
+          "sources": [
+            "https://www.giustizia.it/giustizia/page/it/dipartimento_innovazione_tecnologica_della_giustizia"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-03",
+          "position": "Competenze e uffici",
+          "excerpt": "mappa",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Le strutture sono nominate ma manca una mappa studiabile di competenze, composizione e territorio; anche la doppia dirigenza resta generica.",
+          "proposal": "Integrare DAG/DOG e direzioni essenziali, uffici di merito e legittimità, GIP/GUP, assise e minorile; precisare funzioni del magistrato dirigente e dirigente amministrativo secondo D.Lgs.240/2006.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "C,B,A,B,B,A",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md",
+      "sha256": "69a7329a1cc4d16612e170233584f5c4bd46aa84e5b7b366bfcaf61943a6392c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-03",
+          "position": "Competenze e uffici",
+          "excerpt": "mappa",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Le strutture sono nominate ma manca una mappa studiabile di competenze, composizione e territorio; anche la doppia dirigenza resta generica.",
+          "proposal": "Integrare DAG/DOG e direzioni essenziali, uffici di merito e legittimità, GIP/GUP, assise e minorile; precisare funzioni del magistrato dirigente e dirigente amministrativo secondo D.Lgs.240/2006.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "A,B,B,B,B,A",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md",
+      "sha256": "f08dce75183e50307568e3ebe3f266e5c53c9ab852fea9bfa83c0a056fe139a8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V04-04",
+          "claim": "Il DL100/2026 è dichiarato decaduto. Risulta convertito dalla L.7 agosto2026 n.145, GU183 dell’8 agosto, già prima del cut-off dichiarato18 agosto. Il quiz4 insegna la risposta normativa errata.",
+          "urls": [
+            "https://www.parlamento.it/841?shadow_atto_normativo_anno=2026",
+            "https://www.normattiva.it/eli/id/2026/06/12/26G00119/ORIGINAL"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        },
+        {
+          "findingId": "V04-05",
+          "claim": "Non sono sviluppati composizione, costituzione e coordinamento dell’UPP; il personale AUPP rischia di essere identificato con l’intera struttura, che può comprendere magistrati onorari.",
+          "urls": [
+            "https://def.finanze.it/DocTribFrontend/executePrintArticolo.do?articolo=Articolo+1&codiceOrdinamento=200000100000000&id=%7B234BC0D2-3D60-4CB6-B932-2819A9DD1184%7D"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V04-04",
+          "position": "Quadro normativo, tabella, Da sapere, quiz4, diario; fonti",
+          "excerpt": "non convertito",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Il DL100/2026 è dichiarato decaduto. Risulta convertito dalla L.7 agosto2026 n.145, GU183 dell’8 agosto, già prima del cut-off dichiarato18 agosto. Il quiz4 insegna la risposta normativa errata.",
+          "proposal": "Correggere tutte le occorrenze, inclusi indice, pianificazione e fonti; verificare disposizioni coordinate e transitorie. Nel quiz4 la risposta alla conversione diventa A oppure riscrivere quesito e spiegazione con data esplicita.",
+          "sources": [
+            "https://www.parlamento.it/841?shadow_atto_normativo_anno=2026",
+            "https://www.normattiva.it/eli/id/2026/06/12/26G00119/ORIGINAL"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-05",
+          "position": "Struttura UPP e ruoli",
+          "excerpt": "supporto",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Non sono sviluppati composizione, costituzione e coordinamento dell’UPP; il personale AUPP rischia di essere identificato con l’intera struttura, che può comprendere magistrati onorari.",
+          "proposal": "Aggiungere scheda D.Lgs.151/2022 artt.1–4 e compiti per ambito; distinguere struttura, qualifica individuale e titolarità della decisione.",
+          "sources": [
+            "https://def.finanze.it/DocTribFrontend/executePrintArticolo.do?articolo=Articolo+1&codiceOrdinamento=200000100000000&id=%7B234BC0D2-3D60-4CB6-B932-2819A9DD1184%7D"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,B,A,B,A,B",
+      "quizOutcome": "Q4 errata normativamente; altre chiavi coerenti"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md",
+      "sha256": "439d92d165cc644ade6ac5d517685c471db4aa0eb0c782ace5c5b67b30cbfd3f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-06",
+          "position": "Laboratori e toolkit",
+          "excerpt": "scheda fascicolo",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "I modelli sono campi da compilare e istruzioni, senza dossier con dati o prodotto interamente compilato che mostri il livello atteso.",
+          "proposal": "Fornire fascicolo fittizio, cronologia datata, distinzione fatti documentati/allegazioni, scheda causa, nota udienza e ricerca realmente compilate, seguite da esercizio e soluzione.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-28",
+          "position": "Refusi locali",
+          "excerpt": "c’e; necessità; cioe; percio; meta; Distingue",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti e imperativi da uniformare; indice usa Perché apostrofato e tabelle Si senza accento.",
+          "proposal": "c’è, necessita, cioè, perciò, metà; Distingui nella scheda udienza; Perché e Sì dove richiesti. Ricontrollare le occorrenze esatte prima del passaggio tipografico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,A,B,B,A,A",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md",
+      "sha256": "490a05486432952cf245d9b556252654ceb061ae18ed41617fc6c4b1e9bb2114",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-07",
+          "position": "Termini, riti, impugnazioni",
+          "excerpt": "Il capitolo non inserisce un elenco numerico di termini",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Il delta processuale promesso non insegna termini e presupposti essenziali: citazione/ricorso, costituzione, verifiche preliminari, memorie, provvedimenti, riti e impugnazioni restano perlopiù etichette.",
+          "proposal": "Integrare flusso ordinario vigente con artt.166,171-bis,171-ter CPC, confronto rito ordinario/semplificato/lavoro e sentenza/ordinanza/decreto; calendario datato e caso risolto. Verificare ogni regola prima della scrittura, senza rinviare genericamente al base che non contiene questa materia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "A,B,B,A,A,A",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md",
+      "sha256": "20984402d333ae9124c9df944e0cacf0d0a45f8997f38d1cc62bdfcaf61dd938",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V04-08",
+          "claim": "Si presuppone un UPP ordinario presso la Procura; art.1 D.Lgs.151 distingue strutture giudicanti e quelle presso Procura generale della Cassazione.",
+          "urls": [
+            "https://def.finanze.it/DocTribFrontend/executePrintArticolo.do?articolo=Articolo+1&codiceOrdinamento=200000100000000&id=%7B234BC0D2-3D60-4CB6-B932-2819A9DD1184%7D"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V04-08",
+          "position": "Tabella uffici requirenti e caso notizia di reato",
+          "excerpt": "UPP",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Si presuppone un UPP ordinario presso la Procura; art.1 D.Lgs.151 distingue strutture giudicanti e quelle presso Procura generale della Cassazione.",
+          "proposal": "Riformulare attività della Procura come segreteria del PM e collocare supporto UPP presso ufficio giudicante pertinente; se si intende un progetto particolare, identificarne la base normativa e organizzativa.",
+          "sources": [
+            "https://def.finanze.it/DocTribFrontend/executePrintArticolo.do?articolo=Articolo+1&codiceOrdinamento=200000100000000&id=%7B234BC0D2-3D60-4CB6-B932-2819A9DD1184%7D"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-09",
+          "position": "Fasi, riti, termini",
+          "excerpt": "prova penale sostanziale",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Mancano status indagato/imputato, garanzie, distinzione fascicolo PM/dibattimento, principali avvisi e riti con presupposti ed effetti; la locuzione citata confonde diritto sostanziale e processo.",
+          "proposal": "Integrare schede335/415-bis CPP, archiviazione richiesta dal PM e decisa dal giudice, riti alternativi e impugnazioni essenziali; correggere la locuzione e costruire una cronologia con date e atti.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,B,B,B,A,B",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md",
+      "sha256": "9e2fbdccb26b3d9cda87069660c4de1cc6013c9a6fa4e86134bd9f308b09ee16",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-10",
+          "position": "Forma della copia; Errore tipico",
+          "excerpt": "semplice, autentica o esecutiva",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Residui della vecchia categoria esecutiva contraddicono il corretto aggiornamento sull’abolizione della formula esecutiva presente nello stesso capitolo.",
+          "proposal": "Uniformare al regime vigente dell’art.475 CPC: copia attestata conforme nei casi previsti, distinguendo regime storico e transitorio.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-11",
+          "position": "Registri; accesso; dati",
+          "excerpt": "dati sensibili",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Registri e accesso processuale sono solo orientativi; manca applicazione concreta delle regole, mentre dati giudiziari e categorie particolari sono confusi nel lessico.",
+          "proposal": "Aggiungere registri civili e penali essenziali, esempi di iscrizione/correzione, art.76 disp.att.CPC e116 CPP; distinguere artt.9/10 GDPR e D.Lgs.51/2018 per trattamenti penali pertinenti.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,B,B,B,A,B",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md",
+      "sha256": "7cb793e3e8b94fb3950c3ad10847efb3405667e52ee551ffb0573df5bbf59457",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V04-12",
+          "claim": "Non si riporta alcuna soglia o calcolo; mancano reddito familiare, eccezioni, differenze civile/penale e competenze dell’ammissione.",
+          "urls": [
+            "https://ca-bolzano.giustizia.it/resources/cms/documents/Decreto_adeguamento_limite_reddito.pdf"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V04-12",
+          "position": "Patrocinio a spese dello Stato",
+          "excerpt": "limite reddituale",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Non si riporta alcuna soglia o calcolo; mancano reddito familiare, eccezioni, differenze civile/penale e competenze dell’ammissione.",
+          "proposal": "Indicare soglia verificata di13.659,64 euro del decreto22aprile2025, data e meccanismo di aggiornamento; aggiungere caso di calcolo familiare, condizioni ed effetti. Qualificare l’ammissione COA come anticipata e provvisoria.",
+          "sources": [
+            "https://ca-bolzano.giustizia.it/resources/cms/documents/Decreto_adeguamento_limite_reddito.pdf"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-13",
+          "position": "Contributo, liquidazione, recupero e caso",
+          "excerpt": "Si iscrive comunque",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Il caso evita la decisione richiesta e il capitolo non insegna regole di iscrizione, esenzioni, calcolo del contributo, opposizione alla liquidazione e recupero.",
+          "proposal": "Inserire caso numerico e soluzione con rami pagamento/esenzione/patrocinio, aggiornando art.14 TUSG e istruzioni2025–2026; sviluppare termini e autorità per liquidazione e recupero. Verificare eventuale evoluzione costituzionale prima di fissare la regola sull’iscrizione.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,B,B,B,A,B",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md",
+      "sha256": "d18f2935ecefb29e0bfcbe65f578cd8e1b66d1b59ad1fc49ea40d6fbe246d3e8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V04-15",
+          "claim": "Mancano momento di assunzione della qualità di imputato, esempi di menzionabilità/eliminazione, validità; art.25-bis è trattato come possibilità senza evidenziare l’obbligo pertinente.",
+          "urls": [
+            "https://www.giustizia.it/giustizia/it/mg_3_3_3.page?tab=w",
+            "https://www.giustizia.it/giustizia/it/mg_3_3_7.page?tab=f"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        },
+        {
+          "claim": "Carichi pendenti nazionali non ancora attivati; ambito territoriale del certificato",
+          "urls": [
+            "https://www.giustizia.it/giustizia/it/mg_3_3_3.page?tab=w"
+          ],
+          "outcome": "confermato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V04-14",
+          "position": "Tabella casellario",
+          "excerpt": "Persona o ente",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Il casellario della persona fisica viene sovrapposto all’anagrafe delle sanzioni amministrative dipendenti da reato degli enti, distinta correttamente più avanti.",
+          "proposal": "Separare le due righe, soggetti, contenuti e prodotti certificativi.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-15",
+          "position": "Carichi pendenti, iscrizioni, art.25-bis",
+          "excerpt": "datore di lavoro",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Mancano momento di assunzione della qualità di imputato, esempi di menzionabilità/eliminazione, validità; art.25-bis è trattato come possibilità senza evidenziare l’obbligo pertinente.",
+          "proposal": "Spiegare differenza da iscrizione335 CPP e dare esempi art.3/5/24 TUC; scheda obbligo del datore prima del rapporto con contatti diretti e regolari con minori, perimetro certificato e condizioni.",
+          "sources": [
+            "https://www.giustizia.it/giustizia/it/mg_3_3_3.page?tab=w",
+            "https://www.giustizia.it/giustizia/it/mg_3_3_7.page?tab=f"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-28",
+          "position": "Refusi locali",
+          "excerpt": "c’e; necessità; cioe; percio; meta; Distingue",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti e imperativi da uniformare; indice usa Perché apostrofato e tabelle Si senza accento.",
+          "proposal": "c’è, necessita, cioè, perciò, metà; Distingui nella scheda udienza; Perché e Sì dove richiesti. Ricontrollare le occorrenze esatte prima del passaggio tipografico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,B,B,A,B,B",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md",
+      "sha256": "b1d768ec2e210d25c28f7b765c0d13c32c3ec46a9e68d456fc17312172871de4",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-16",
+          "position": "Notificazioni, esecuzioni, laboratorio",
+          "excerpt": "formule",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Le forme delle notificazioni e i presupposti dell’esecuzione vengono rinviati a manuali non identificati; non sono insegnati nuclei indispensabili per il profilo UNEP.",
+          "proposal": "Sviluppare competenza territoriale, differenze artt.139/140/143 CPC, relata compilata, titolo e precetto, efficacia e termini essenziali, tipologie di pignoramento e492-bis. Dare verbale fittizio completo e caso con calendario.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-17",
+          "position": "Attività dell’ufficiale giudiziario",
+          "excerpt": "offerte reali",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "L’offerta reale è accostata alle esecuzioni senza chiarire che serve alla liberazione del debitore e alla mora del creditore.",
+          "proposal": "Distinguere questa attività dall’espropriazione coattiva e precisarne finalità e presupposti essenziali.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-28",
+          "position": "Refusi locali",
+          "excerpt": "c’e; necessità; cioe; percio; meta; Distingue",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti e imperativi da uniformare; indice usa Perché apostrofato e tabelle Si senza accento.",
+          "proposal": "c’è, necessita, cioè, perciò, metà; Distingui nella scheda udienza; Perché e Sì dove richiesti. Ricontrollare le occorrenze esatte prima del passaggio tipografico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "A,B,B,B,B,A",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md",
+      "sha256": "36775518d66f77d1012805535a292d9984f2705eb0f83a46609b84f3ad98088b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V04-02",
+          "claim": "Il testo mantiene DGSIA come articolazione attuale del DIT senza spiegare la riorganizzazione. La pagina corrente elenca DGSAP, DGINFRA, DGSTAT e DGCOE.",
+          "urls": [
+            "https://www.giustizia.it/giustizia/page/it/dipartimento_innovazione_tecnologica_della_giustizia"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        },
+        {
+          "claim": "DM114/2026: pubblicazione ed efficacia30giugno2026; scadenze principali2027/2028/2029/2030 coerenti, con eccezioni da conservare",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=26G00134&art.dataPubblicazioneGazzetta=2026-06-30&art.flagTipoArticolo=0&art.idArticolo=1&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1"
+          ],
+          "outcome": "confermato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V04-02",
+          "position": "DIT e DGSIA; tabella strutture",
+          "excerpt": "inclusa DGSIA",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Il testo mantiene DGSIA come articolazione attuale del DIT senza spiegare la riorganizzazione. La pagina corrente elenca DGSAP, DGINFRA, DGSTAT e DGCOE.",
+          "proposal": "Aggiornare organigramma e competenze, qualificando DGSIA nelle fonti storiche; allineare indice e source notes.",
+          "sources": [
+            "https://www.giustizia.it/giustizia/page/it/dipartimento_innovazione_tecnologica_della_giustizia"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-18",
+          "position": "Deposito civile e anomalie",
+          "excerpt": "ricevute",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "La sequenza delle quattro ricevute è corretta ma manca il collegamento alla regola di perfezionamento e alla scadenza del deposito; anomalie senza esempi tecnici interpretabili.",
+          "proposal": "Integrare art.196-sexies disp.att.CPC, ricevuta rilevante e termine giornaliero verificati; esempio con orari, WARN/ERROR/FATAL, conseguenza e condotta motivata.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-19",
+          "position": "Regole e strumenti digitali",
+          "excerpt": "In prova non ti chiederanno",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Previsione assoluta non fondata sul bando; RegIndE e differenze dei registri pubblici non sono abbastanza spiegati.",
+          "proposal": "Qualificare secondo tipo di prova; sciogliere RegIndE, distinguere INI-PEC/INAD/IPA e aggiungere fonti tecniche puntuali.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-28",
+          "position": "Refusi locali",
+          "excerpt": "c’e; necessità; cioe; percio; meta; Distingue",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti e imperativi da uniformare; indice usa Perché apostrofato e tabelle Si senza accento.",
+          "proposal": "c’è, necessita, cioè, perciò, metà; Distingui nella scheda udienza; Perché e Sì dove richiesti. Ricontrollare le occorrenze esatte prima del passaggio tipografico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,B,B,A,B,B",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md",
+      "sha256": "2cb4c6b6089839bd3081c4fca6eca8dc22bdae7b7473a4d80927cc1505176f2c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V04-21",
+          "claim": "La formazione del mediatore è espressa impropriamente come informazione; i programmi e le garanzie legali sono incompleti.",
+          "urls": [
+            "https://pg-perugia.giustizia.it/cmsresources/cms/documents/D%20Lgsvo%202022%20150%20cpp.pdf"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V04-20",
+          "position": "Messa alla prova e misure di comunità",
+          "excerpt": "misure di comunità",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Mancano presupposti, durata, autorità ed effetti di MAP minorile/adulti, inclusa estinzione del reato per esito positivo; misure penali di comunità non sviluppate.",
+          "proposal": "Aggiungere confronto28–29 DPR448 e168-bisCP/464-bis ss.CPP, limiti aggiornati, ruolo del lavoro di pubblica utilità; capacità penale per età, garanzie minorili e misure D.Lgs.121/2018 con caso.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-21",
+          "position": "Mediazione e riparativa",
+          "excerpt": "adeguatamente informati",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "La formazione del mediatore è espressa impropriamente come informazione; i programmi e le garanzie legali sono incompleti.",
+          "proposal": "Scrivere formati; precisare almeno due mediatori nei programmi ex art.53 D.Lgs.150, accesso, consenso, riservatezza e non valutazione negativa della mancata partecipazione; mantenere persona indicata come autore dell’offesa nei casi pendenti.",
+          "sources": [
+            "https://pg-perugia.giustizia.it/cmsresources/cms/documents/D%20Lgsvo%202022%20150%20cpp.pdf"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-28",
+          "position": "Refusi locali",
+          "excerpt": "c’e; necessità; cioe; percio; meta; Distingue",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti e imperativi da uniformare; indice usa Perché apostrofato e tabelle Si senza accento.",
+          "proposal": "c’è, necessita, cioè, perciò, metà; Distingui nella scheda udienza; Perché e Sì dove richiesti. Ricontrollare le occorrenze esatte prima del passaggio tipografico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,B,B,B,B,B",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md",
+      "sha256": "659b68718f34f97a8c91625840aa9595a0d7763e58e7819e218df0cad3d691b3",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-22",
+          "position": "Misure, benefici, reclami",
+          "excerpt": "Non serve qui sviluppare tutte le soglie",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "La rinuncia a presupposti e soglie lascia un elenco di misure non studiabile per il profilo giuridico-pedagogico; reclami non distinti per rimedio.",
+          "proposal": "Integrare tabella con contenuto, requisiti, autorità ed effetti di affidamento, detenzione domiciliare, semilibertà, liberazione anticipata, permessi e lavoro esterno; distinguere35-bis/35-ter e sviluppare un caso risolto.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-23",
+          "position": "Istituti, trattamento e definizioni",
+          "excerpt": "sottoposto a misura di sicurezza",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Internato è definito troppo ampiamente; istituti non distinti per funzione e procedura trattamentale priva dei principali passaggi normativi.",
+          "proposal": "Precisare misura di sicurezza detentiva; distinguere casa circondariale/reclusione, programma e approvazione, lavoro, disciplina e garanzie con fonti e regole applicabili.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-24",
+          "position": "Giurisprudenza",
+          "excerpt": "99/2019;253/2019;10/2024",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Le decisioni fungono da richiami a valori senza rendere abbastanza riconoscibili i rispettivi effetti operativi e i successivi mutamenti.",
+          "proposal": "Dedicare scheda problema/dispositivo/effetto per salute psichica, permessi per reati ostativi, affettività; verificare4-bis vigente e collegare rimedi concreti.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-27",
+          "position": "Quiz dei14capitoli",
+          "excerpt": "Risposta corretta: B",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "84 quiz con 61 chiavi B, 22 A e 1 C (chiavi stampate); cap.13 tutte B. Distrattori spesso assurdi o assoluti e risposte più caute individuabili senza conoscere la materia.",
+          "proposal": "Ribilanciare posizioni dopo revisione, creare distrattori plausibili e domande su regole realmente insegnate; correggere prima quiz4 del cap4.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-28",
+          "position": "Refusi locali",
+          "excerpt": "c’e; necessità; cioe; percio; meta; Distingue",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti e imperativi da uniformare; indice usa Perché apostrofato e tabelle Si senza accento.",
+          "proposal": "c’è, necessita, cioè, perciò, metà; Distingui nella scheda udienza; Perché e Sì dove richiesti. Ricontrollare le occorrenze esatte prima del passaggio tipografico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "B,B,B,B,B,A",
+      "quizOutcome": "Chiavi coerenti; limiti didattici V04-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md",
+      "sha256": "9e4412639c4cb6a73601172711d836b45b176bb40021a51a9df4fd2cfb5c4df0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-06",
+          "position": "Laboratori e toolkit",
+          "excerpt": "scheda fascicolo",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "I modelli sono campi da compilare e istruzioni, senza dossier con dati o prodotto interamente compilato che mostri il livello atteso.",
+          "proposal": "Fornire fascicolo fittizio, cronologia datata, distinzione fatti documentati/allegazioni, scheda causa, nota udienza e ricerca realmente compilate, seguite da esercizio e soluzione.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-25",
+          "position": "Simulazione integrata e griglia",
+          "excerpt": "simulazione",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Sei consegne generiche senza dossier né soluzioni specifiche; rubriche non ancorate a prestazioni. La somma dei punteggi20 è corretta, ma non consente correzione affidabile.",
+          "proposal": "Fornire documenti e dati, risposta modello per ogni consegna e descrittori di punteggio; conservare la griglia dopo taratura su soluzioni verificabili.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-28",
+          "position": "Refusi locali",
+          "excerpt": "c’e; necessità; cioe; percio; meta; Distingue",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti e imperativi da uniformare; indice usa Perché apostrofato e tabelle Si senza accento.",
+          "proposal": "c’è, necessita, cioè, perciò, metà; Distingui nella scheda udienza; Perché e Sì dove richiesti. Ricontrollare le occorrenze esatte prima del passaggio tipografico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-29",
+          "position": "Rinvii al base e ponte magistratura",
+          "excerpt": "M-SP03",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Diversi rinvii rimangono a codici o volumi interi, e le checklist finali attestano competenze non esercitate nel corpo.",
+          "proposal": "Indicare titolo commerciale e capitolo/paragrafo; rivalutare le competenze finali dopo integrazione, distinguendo livello base e avanzato.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "Nessun quiz a scelta multipla; casi e strumenti letti",
+      "quizOutcome": "Strumenti e casi valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md",
+      "sha256": "bdcb1d26b0a859b4aa0ab40dfbc0aed3654b61bc1600fa1115a4d4f10a2e1a6b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V04-29",
+          "position": "Rinvii al base e ponte magistratura",
+          "excerpt": "M-SP03",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Diversi rinvii rimangono a codici o volumi interi, e le checklist finali attestano competenze non esercitate nel corpo.",
+          "proposal": "Indicare titolo commerciale e capitolo/paragrafo; rivalutare le competenze finali dopo integrazione, distinguendo livello base e avanzato.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "Nessun quiz a scelta multipla; casi e strumenti letti",
+      "quizOutcome": "Strumenti e casi valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md",
+      "sha256": "b5d011e8bd7fd7a4a8d87fd1988ce57f69831d1760d26d98c7ba01be087c92f3",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V04-04",
+          "claim": "Il DL100/2026 è dichiarato decaduto. Risulta convertito dalla L.7 agosto2026 n.145, GU183 dell’8 agosto, già prima del cut-off dichiarato18 agosto. Il quiz4 insegna la risposta normativa errata.",
+          "urls": [
+            "https://www.parlamento.it/841?shadow_atto_normativo_anno=2026",
+            "https://www.normattiva.it/eli/id/2026/06/12/26G00119/ORIGINAL"
+          ],
+          "scope": "Verifica mirata tramite fonte ufficiale o estratto indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V04-04",
+          "position": "Quadro normativo, tabella, Da sapere, quiz4, diario; fonti",
+          "excerpt": "non convertito",
+          "severity": "Grave",
+          "category": "Contenuto e didattica",
+          "description": "Il DL100/2026 è dichiarato decaduto. Risulta convertito dalla L.7 agosto2026 n.145, GU183 dell’8 agosto, già prima del cut-off dichiarato18 agosto. Il quiz4 insegna la risposta normativa errata.",
+          "proposal": "Correggere tutte le occorrenze, inclusi indice, pianificazione e fonti; verificare disposizioni coordinate e transitorie. Nel quiz4 la risposta alla conversione diventa A oppure riscrivere quesito e spiegazione con data esplicita.",
+          "sources": [
+            "https://www.parlamento.it/841?shadow_atto_normativo_anno=2026",
+            "https://www.normattiva.it/eli/id/2026/06/12/26G00119/ORIGINAL"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V04-26",
+          "position": "Apparato delle fonti",
+          "excerpt": "Fonti e riferimenti essenziali",
+          "severity": "Medio",
+          "category": "Contenuto e didattica",
+          "description": "Mancano riferimenti centrali come D.Lgs.151/2022, codici processuali aggiornati, DPR448, D.Lgs.121 e DPR230; Torreggiani rinvia a comunicato anziché chiaramente alla sentenza.",
+          "proposal": "Completare bibliografia essenziale collegata ai capitoli e agli articoli; distinguere testo vigente, atto modificativo, sentenza e comunicato; inserire legge di conversione145/2026.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizKeysPrinted": "Nessun quiz a scelta multipla; casi e strumenti letti",
+      "quizOutcome": "Strumenti e casi valutati"
+    }
+  ],
+  "supportingFiles": [
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/01-servizi-digitali.md",
+      "sha256": "5611d568f7e5692d973956f1186e70dfe7575d28bafd9bc89c68e12e18b82d9c",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/02-frontespizio.md",
+      "sha256": "633ea60ce34e88816f52acab7d908e2dba57cacda73f3d15cbba4972c81faf69",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/03-copyright-colophon.md",
+      "sha256": "9431a8e8167e04aa6264dc236240b9aa3a5e00710f5833ec3607b94727b8432b",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/04-sommario.md",
+      "sha256": "a9d22eb59526ec8cbec4ecad791f384d815acb33236a415373d85a887013598e",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/05-premessa.md",
+      "sha256": "1ccf85e6c3e3670fc2ae996994dcc7455e60570143a2f017117b6378825f3d41",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/06-indice.md",
+      "sha256": "fec47e422640f2295e87c8346dde2a1aaff736e79227b43f215963dc76957526",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V04-04"
+      ],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/modules/01-m-fc04-frontespizio-sommario.md",
+      "sha256": "701f45e118a44c8a978fb74e4767588a289e355d364ecceb5a62d4820b4b06d0",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/index.md",
+      "sha256": "d5c6fb5d0ae1d2a4bbf640ce69854f9b5788c47217ab434c84cd5eacd1c08b44",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/planning/01-indice-dettagliato-volume-moduli-v4.md",
+      "sha256": "cb58ca4c17880b02a03bf7116e059276ff1596706ef9f8e718fbe24fb9d54b04",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V04-04"
+      ],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/planning/02-matrice-copertura-didattica.md",
+      "sha256": "e342955454f15659b49e32c2a060c174a6cd5f8c09731b1a58a1c1b499e5c47d",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Copertura dichiarata completa non sostenuta dai nuclei insegnati"
+      ],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/planning/00-piano-editoriale.md",
+      "sha256": "c8c6c8a44de8aeb899bb31532b0cde0821e2d0cd02c6e58677f4fa9d6ffdcf85",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-vol-04-giustizia-upp.md",
+      "sha256": "92ecfb4bcb94a5c3a566ac1a3f0bcb613103e612cc4b96df7de6f35640768514",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/vol-04-aggiornamento-normativo-2026-08-18.md",
+      "sha256": "9118bd553e5c071fda17f8dd8bcd70fbf974c650e43a9c22de063813d0582b8c",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V04-04"
+      ],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/vol-04-dossier-redazionale-giustizia-upp.md",
+      "sha256": "10f7bed06eb337f3862a8b9ae21b6294549eca30705d5678f9bfe0222bffc96e",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04.md",
+      "sha256": "09ddd4919f4000669ba980adb639f7a8988584eee48ecfb03f51d277b7fd707b",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V04-04"
+      ],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/ministero-giustizia-organizzazione-dipartimenti-m-fc04.md",
+      "sha256": "7be60fefe6528b2a4b7cd22cc2d6eff2d53f48ad76b275270c3e2483e3621373",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/cancelleria-spese-casellario-unep-m-fc04.md",
+      "sha256": "61158be4c176730bea8db2f50d5c98fcc20423778ad40522c581f4b323e04360",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/giustizia-digitale-pct-ppt-m-fc04.md",
+      "sha256": "f81609d55035bc216c0755c281f71a9ea17983109b04ba292d8a37a1fec2a0e9",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/minorile-comunita-giustizia-riparativa-m-fc04.md",
+      "sha256": "94426686a5f45bdb63e019ca1eafb17335797b032592b6cc9c221e032126c01b",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/ordinamento-penitenziario-trattamento-misure-m-fc04.md",
+      "sha256": "34a6de7e43a6573087c018c11cad75afe7b5a82942bffeeaeb6c4eb24918384e",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/giurisprudenza-penitenziaria-m-fc04.md",
+      "sha256": "969adda0c3169f95bdc8a291c2624b947e4d1edc8a31e2f8bb1b5a3cdc75bef9",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    },
+    {
+      "path": "wiki/sources/ccnl-funzioni-centrali-giustizia-2022-2027.md",
+      "sha256": "7de3a33f428f483e4538c727788caf2b10ea5425abe431cd60cd42369dc853e7",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Fonti archiviate integrali e PDF dei bandi non riesaminati integralmente"
+      ]
+    }
+  ],
+  "summary": {
+    "chaptersRead": 17,
+    "chaptersExpected": 17,
+    "quizReviewed": 84,
+    "findings": 29,
+    "verdict": "Non pubblicabile nello stato attuale",
+    "pdfReview": "separata, da completare",
+    "normativeScope": "Verifica selettiva esplicitata per file; nessuna certificazione di tutta la normativa"
+  },
+  "pdfReview": {
+    "candidate": "delivery/VOL-04/candidate/vol-04-interior-kdp.pdf",
+    "sha256": "151cf2370bb3a3d60b4e6b99a748f8ea25ff130d289b01ebe09df26c47342755",
+    "pages": 303,
+    "contactSheetsViewed": 13,
+    "allContactSheetsViewed": true,
+    "zoomPages": [
+      6,
+      8,
+      52,
+      65,
+      97,
+      152,
+      300,
+      303
+    ],
+    "mode": "all-pages-contact-sheet-plus-targeted-full-page",
+    "fullLegibilityAllPages": false,
+    "report": "wiki/reviews/audit-integrale-2026-10-02/PDF-VOL-04.md",
+    "findingIds": [
+      "P04-01",
+      "P04-02",
+      "P04-03",
+      "P04-04"
+    ],
+    "changesApplied": false
+  }
+}

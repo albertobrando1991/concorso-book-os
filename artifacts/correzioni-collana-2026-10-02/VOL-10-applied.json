@@ -1,0 +1,164 @@
+[
+  {
+    "id": "V10-01",
+    "position": "Cap. 1, N-TR03-01-02",
+    "category": "Coerenza collana",
+    "severity": "Media",
+    "diagnosis": "M-TR02 è descritto come «ancora in sviluppo», mentre il relativo volume è presente nel catalogo e dispone di quattordici capitoli. Il lettore riceve uno stato editoriale non allineato.",
+    "correction": "Stato editoriale eliminato; rinvio funzionale al volume 9, capitoli 3–6 e 10–12.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-02",
+    "position": "Cap. 2, conferenza di servizi; cap. 4, 6, 8–12",
+    "category": "Copertura",
+    "severity": "Grave",
+    "diagnosis": "La formula «verificare la disciplina» ricorre dove servono presupposti e differenze già compresi nella promessa didattica. Nel cap. 2 le conferenze istruttoria, decisoria e preliminare sono nominate ma non distinte; il rinvio generico al VOL-01 non risolve il problema, perché anche il capitolo base si limita a nominarle.",
+    "correction": "Conferenze istruttoria, decisoria e preliminare distinte per funzione e presupposti, con esempi e verifica; regole tecniche sviluppate nei capitoli pertinenti.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-03",
+    "position": "Cap. 3, N-TR03-03-01/03; matrice, riga scienza delle costruzioni",
+    "category": "Copertura e figure",
+    "severity": "Grave",
+    "diagnosis": "Si promettono passaggio al modello, vincoli e lettura delle sollecitazioni. La matrice indica «diagramma di corpo libero» come applicazione, ma il capitolo ne dà soltanto la definizione: nessun diagramma, schema dei vincoli o esempio di reazioni e sollecitazioni è fornito.",
+    "correction": "Vincoli piani, tre gradi di libertà, reazioni e trave L=4 m, q=10 kN/m con equilibrio, taglio, momento, segni e due figure.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-04",
+    "position": "Cap. 4, N-TR03-04-02/03",
+    "category": "Copertura NTC",
+    "severity": "Grave",
+    "diagnosis": "Vita nominale, classe d'uso e periodo di riferimento sono definiti senza le classi I–IV, la relazione fra grandezze e un esempio. Stati limite e combinazioni restano generici, pur essendo centrali nella promessa.",
+    "correction": "Vita nominale, classi I–IV, coefficienti e V_R; stati sismici e combinazioni, esercizio da 135 kN.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-05",
+    "position": "Cap. 4, N-TR03-04-07",
+    "category": "Copertura costruzioni esistenti",
+    "severity": "Grave",
+    "diagnosis": "«Riparazione locale, miglioramento e adeguamento non sono sinonimi» non spiega in che cosa differiscono né quando si applicano. È il rilievo E04 dell'audit preliminare, confermato dalla lettura integrale.",
+    "correction": "Intervento locale, miglioramento e adeguamento: campo, condizioni, ζ_E, esempi e collaudo.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-06",
+    "position": "Cap. 4, domanda-trappola SLU/SLE",
+    "category": "Precisione del campo",
+    "severity": "Media",
+    "diagnosis": "La risposta «deve soddisfare anche gli stati limite di esercizio» non distingue progettazione di nuove opere e valutazione delle costruzioni esistenti. Il §8.3 NTC ammette per queste ultime valutazioni limitate agli SLU, con la previsione specifica sugli SLE per classe IV.",
+    "correction": "Risposta distinta per nuove costruzioni e valutazione delle esistenti, con eccezione SLE della classe IV.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-07",
+    "position": "Cap. 5, zonizzazione/standard; vincoli e durata",
+    "category": "Copertura urbanistica",
+    "severity": "Grave",
+    "diagnosis": "Zone e standard sono introdotti senza classificazione nazionale, quantità o caso; il titolo sui vincoli promette anche la durata, ma non insegna il termine del vincolo preordinato all'esproprio.",
+    "correction": "Zone A–F, standard e articolazioni, esercizio da 7.200 m²; vincolo quinquennale, decadenza e reiterazione.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-08",
+    "position": "Cap. 6, «Permesso di costruire»",
+    "category": "Precisione normativa",
+    "severity": "Grave",
+    "diagnosis": "La definizione «è il provvedimento espresso» omette completamente la formazione per silenzio-assenso nei casi dell'art. 20, comma 8, D.P.R. 380/2001. Il lettore può dedurne che sia sempre necessario il rilascio espresso.",
+    "correction": "Permesso come titolo, conclusione espressa o tacita; art. 20 aggiornato dalla legge 182/2025, assensi formali di tutela già acquisiti.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-09",
+    "position": "Cap. 6, categorie/regimi/abusi",
+    "category": "Copertura edilizia",
+    "severity": "Grave",
+    "diagnosis": "L'art. 3 è elencato senza definire le categorie; SCIA ordinaria e alternativa non espongono tempi e differenze operative; le modifiche del 2024 sono richiamate senza insegnare gli istituti. Il caso non arriva a una qualificazione, perché mancano dati e regole.",
+    "correction": "Categorie definite; CILA, SCIA e alternativa con tempi; artt. 34-bis, 36 e 36-bis; tre casi con dati e qualificazione.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-10",
+    "position": "Cap. 8, N-TR03-08-01",
+    "category": "Regola ed eccezioni",
+    "severity": "Media",
+    "diagnosis": "«La fase esecutiva presuppone un contratto efficace» è presentata senza il regime dell'esecuzione anticipata e d'urgenza.",
+    "correction": "Avvio ordinario distinto da anticipato e urgente ex artt. 17 e 50, con requisiti e responsabilità.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-11",
+    "position": "Cap. 8, chiusura caso guidato",
+    "category": "Coerenza e sicurezza",
+    "severity": "Grave",
+    "diagnosis": "«In tutti questi casi l'intervento materiale non può precedere l'istruttoria» include l'interferenza di sicurezza, dopo una tabella che prescrive di fermare la lavorazione incompatibile. L'assoluto può indurre a rinviare una cautela urgente.",
+    "correction": "Eliminato assoluto che rinviava le cautele; CSE sospende subito le lavorazioni nei presupposti dell’art. 92.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-12",
+    "position": "Cap. 8, modifiche/sospensioni/PSC-POS",
+    "category": "Copertura esecuzione",
+    "severity": "Grave",
+    "diagnosis": "Il testo chiede di riconoscere quando occorrano variante, sospensione e coordinamento, ma demanda i presupposti alle norme. Le funzioni generali dei soggetti sono corrette; mancano i criteri per classificare un fatto.",
+    "correction": "Fattispecie dell’art. 120, soglie non sufficienti da sole, quinto; sospensione DL/RUP e ripresa; nomine CSP/CSE.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-13",
+    "position": "Cap. 9, collaudo/CRE/manutenzione",
+    "category": "Copertura",
+    "severity": "Grave",
+    "diagnosis": "«Termini, carattere dell'atto e passaggi di approvazione vanno verificati sul testo vigente» sostituisce nozioni fondamentali: il lettore non apprende termine, provvisorietà/definitività, condizioni del CRE e chi lo emette. Il piano manutentivo non è articolato nei documenti previsti.",
+    "correction": "Tempi e carattere del collaudo; soglie ed esclusioni CRE, DL/RUP; manuali e programma manutentivo con esempio.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-14",
+    "position": "Cap. 10, analisi prezzi e contabilità",
+    "category": "Copertura operativa",
+    "severity": "Grave",
+    "diagnosis": "I prodotti quantità×prezzo sono corretti, ma non dimostrano come leggere/costruire l'analisi promessa. Sicurezza, manodopera, riserve e pagamenti sono rinviati genericamente alla legge; mancano soggetti e principali scadenze.",
+    "correction": "Analisi 126,50 €/m², quadro economico 150.000 euro, sicurezza/manodopera, TOL, riserve e calendario SAL/certificato/pagamento.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-15",
+    "position": "Cap. 11, viabilità e processo multilivello ponti",
+    "category": "Copertura specialistica",
+    "severity": "Grave",
+    "diagnosis": "Il testo afferma che il Codice classifica le strade senza esporre le categorie. Per i ponti si dice che «livelli, schede e frequenze vanno letti negli atti vigenti», senza insegnare i livelli del metodo ufficiale.",
+    "correction": "Classi stradali A–F-bis, livelli ponti 0–5 e cinque classi di attenzione; scheda P17 senza diagnosi inventate.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-16",
+    "position": "Cap. 12, BIM/catasto/patrimonio; rinvio dal cap. 7",
+    "category": "Copertura e rinvii",
+    "severity": "Grave",
+    "diagnosis": "Il cap. 7 promette qui approfondimento di ruoli e documenti BIM, che non sono neppure identificati puntualmente. «PREGEO, DOCFA e voltura hanno funzioni distinte» non insegna le differenze; demanio e patrimoni sono nominati senza regime ed esempi.",
+    "correction": "BIM 2 milioni e soglia beni culturali, CI/OGI/PGI e ruoli; raster/vettori e 50 m; PREGEO/DOCFA/voltura; beni pubblici.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-17",
+    "position": "Cap. 13, N-TR03-13-03",
+    "category": "Rinvio non autosufficiente",
+    "severity": "Media",
+    "diagnosis": "«Risposta sintetica: scrivere poco, dire tutto» appartiene al Ricettario digitale R19, non al corpo cartaceo del VOL-01. Confermato E10.",
+    "correction": "Rinvio cartaceo a due sezioni effettive del capitolo 15, R19 dichiarato digitale opzionale.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  },
+  {
+    "id": "V10-18",
+    "position": "Cap. 13, caso 3 e N-TR03-13-07",
+    "category": "Esercizi incompleti",
+    "severity": "Grave",
+    "diagnosis": "Il caso scritto-grafico richiede una planimetria non fornita. La simulazione richiede dossier, fotografia, due documenti discordanti e misure senza metterli a disposizione. Il lettore deve costruire da solo il materiale da esaminare.",
+    "correction": "Dossier S1/D1/D2/R1/F01/E1, planimetria e illustrazione, traccia di 50 minuti, modello e computo 864 euro, rubrica di 30 punti didattici.",
+    "status": "Applicato e riesaminato nel testo; PDF da verificare"
+  }
+]

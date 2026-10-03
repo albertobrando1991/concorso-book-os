@@ -1,0 +1,209 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-01-native-20261003-proof.pdf",
+  "sha256": "1a6f20d6d02733dcb07d381cd53daaf5f8b91e079186ab1833dae1cbc97560f0",
+  "pages": 670,
+  "selectedPages": 194,
+  "sheetsViewed": 49,
+  "nativeReviewed": 133,
+  "protectedReviewed": 19,
+  "findings": [
+    {
+      "page": 47,
+      "nextPage": 48,
+      "ids": [
+        "F013"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 134,
+      "nextPage": 135,
+      "ids": [
+        "F027"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 166,
+      "nextPage": 167,
+      "ids": [
+        "F030"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 225,
+      "nextPage": 226,
+      "ids": [
+        "F041"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 314,
+      "nextPage": 315,
+      "ids": [
+        "F055"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 349,
+      "nextPage": 350,
+      "ids": [
+        "F062"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 353,
+      "nextPage": 354,
+      "ids": [
+        "F064"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 356,
+      "nextPage": 357,
+      "ids": [
+        "F066"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 369,
+      "nextPage": 370,
+      "ids": [
+        "F071"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 399,
+      "nextPage": 400,
+      "ids": [
+        "F084"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 406,
+      "nextPage": 407,
+      "ids": [
+        "F087"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 424,
+      "nextPage": 425,
+      "ids": [
+        "F093"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 439,
+      "nextPage": 440,
+      "ids": [
+        "F099"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 456,
+      "nextPage": 457,
+      "ids": [
+        "F103"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 461,
+      "nextPage": 462,
+      "ids": [
+        "F104"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 485,
+      "nextPage": 486,
+      "ids": [
+        "F112"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 495,
+      "nextPage": 496,
+      "ids": [
+        "F115"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 508,
+      "nextPage": 509,
+      "ids": [
+        "F121"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 549,
+      "nextPage": 550,
+      "ids": [
+        "F131"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    },
+    {
+      "page": 551,
+      "nextPage": 552,
+      "ids": [
+        "F132"
+      ],
+      "issue": "Titolo e descrizione dello schema nella pagina precedente al corpo dello schema.",
+      "status": "pending-renderer"
+    }
+  ],
+  "otherOrphans": [
+    462,
+    476,
+    492,
+    537,
+    394
+  ],
+  "caseCorrectionsAfterProof": [
+    "diario-degli-errori.md: domanda Perché il diario",
+    "famiglie-concorsi-pubblici.md: domanda Perché un candidato"
+  ],
+  "miniExercise19": "Titolo, introduzione e griglia uniti a pagina 459; verificato visivamente.",
+  "crossReference20": "Le percentuali dell’esempio precedente: corretto nel manoscritto e verificato nel PDF a pagina 478.",
+  "limitations": [
+    "Non è una rilettura integrale delle 670 pagine.",
+    "Modifiche di maiuscole successive alla prova da rigenerare.",
+    "Difetti di raccordo titolo-corpo ancora aperti."
+  ]
+}

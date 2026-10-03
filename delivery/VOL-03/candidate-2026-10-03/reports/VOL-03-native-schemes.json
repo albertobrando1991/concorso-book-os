@@ -1,0 +1,638 @@
+{
+  "date": "2026-10-03",
+  "count": 70,
+  "originalsPreserved": true,
+  "method": "Native Markdown tables, individually authored after visual review of all originals. No raster editing.",
+  "records": [
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "schema": "1.1",
+      "originalImage": "../assets/chapter-01/01-mappa-bando-agenzie-fiscali.png",
+      "nativeText": "**Schema 1.1 — Dalla selezione al percorso fiscale**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Ente, codice del profilo e prove. |\n| A — Aree | Base comune e contenuti fiscali richiesti. |\n| N — Nuclei | Tributi, dogane, riscossione e distinzioni essenziali. |\n| D — Diario | Rischi di perimetro ed errori da correggere. |\n| O — Output | Piano, quiz, casi e risposte orali. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "cc3ca07649bc49c6d12488a2c2fc2c288a7f5549a50cfa3b95b432de3fd81104",
+      "sha256After": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "schema": "1.2",
+      "originalImage": "../assets/chapter-01/02-perimetro-mfc02-dentro-fuori.png",
+      "nativeText": "**Schema 1.2 — Scegliere il perimetro**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Dentro il percorso | AE tributario e territorio; ADM dogane, accise, giochi e monopoli; AdER riscossione. |\n| Da valutare | Profili gestionali, risorse umane o misti: pesare il programma effettivo. |\n| Altra specializzazione | ICT, appalti o tecnico puro richiedono il percorso corrispondente. |\n\nSono categorie alternative: il nome dell’ente, da solo, non sceglie il programma.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "cc3ca07649bc49c6d12488a2c2fc2c288a7f5549a50cfa3b95b432de3fd81104",
+      "sha256After": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "schema": "1.3",
+      "originalImage": "../assets/chapter-01/03-tre-porte-ae-adm-ader.png",
+      "nativeText": "**Schema 1.3 — Tre funzioni, tre preparazioni**\n\n| Elemento | Lettura operativa |\n|---|---|\n| AE | Tributi, servizi fiscali, accertamento, catasto e pubblicità immobiliare. |\n| ADM | Dogane, accise, giochi, monopoli e controlli sui flussi. |\n| AdER | Riscossione, pagamenti, rateizzazione e relazione con il debitore. |\n\nCondividere materie generali non significa avere le stesse priorità.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "cc3ca07649bc49c6d12488a2c2fc2c288a7f5549a50cfa3b95b432de3fd81104",
+      "sha256After": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "schema": "1.4",
+      "originalImage": "../assets/chapter-01/04-nucleo-comune-delta-fiscale.png",
+      "nativeText": "**Schema 1.4 — Dalla base comune alla prova**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Base | Amministrativo, pubblico impiego, trasparenza, privacy, inglese e digitale. |\n| Applicazione fiscale | Tributi, accertamento, dogane, riscossione o catasto secondo il bando. |\n| Allenamento | Quiz, caso, orale o attività di sportello nel formato richiesto. |\n\nCollega i tre livelli per costruire una risposta pertinente al profilo.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "cc3ca07649bc49c6d12488a2c2fc2c288a7f5549a50cfa3b95b432de3fd81104",
+      "sha256After": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "schema": "1.5",
+      "originalImage": "../assets/chapter-01/05-bando-decoder-fiscale.png",
+      "nativeText": "**Schema 1.5 — Scheda minima del Decoder**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Ente e profilo | Annota amministrazione, codice e funzione. |\n| Prove e materie | Distingui formato, programma comune e parte specialistica. |\n| Rinvii | Individua eventuali parti ICT, appalti o tecniche. |\n| Rischio | Segna perimetri incerti e materie decisive. |\n| Output | Trasforma i dati in piano, diario e simulazione. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "cc3ca07649bc49c6d12488a2c2fc2c288a7f5549a50cfa3b95b432de3fd81104",
+      "sha256After": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "schema": "2.1",
+      "originalImage": "../assets/chapter-02/01-mappa-bando-decoder-fiscale.png",
+      "nativeText": "**Schema 2.1 — Il Decoder fiscale**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Ente, codice, prove e scadenze ufficiali. |\n| A — Aree | Base comune e parte fiscale. |\n| N — Nuclei | Tributi, dogane, riscossione e catasto richiesti. |\n| D — Diario | Dubbi da verificare ed errori ricorrenti. |\n| O — Output | Quiz, caso, orale o checklist coerenti con il bando. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0608926cdcfed878d87bd17e8688701bcb649c2754b2938f2c3ad020e204827d",
+      "sha256After": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "schema": "2.2",
+      "originalImage": "../assets/chapter-02/02-codice-profilo-famiglia.png",
+      "nativeText": "**Schema 2.2 — Dal codice al programma**\n\n| Elemento | Lettura operativa |\n|---|---|\n| 1. Ente | Identifica AE, ADM o AdER. |\n| 2. Codice | Leggi sigla e descrizione del profilo, senza dedurre tutto dalla sigla. |\n| 3. Programma | Separa materie comuni, fiscali e di altra specializzazione. |\n| 4. Percorso | Decidi se il percorso fiscale guida lo studio o offre solo un supporto. |\n\nLa funzione richiesta e il programma verificano l’ipotesi suggerita dal codice.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0608926cdcfed878d87bd17e8688701bcb649c2754b2938f2c3ad020e204827d",
+      "sha256After": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "schema": "2.3",
+      "originalImage": "../assets/chapter-02/03-prove-output-decoder.png",
+      "nativeText": "**Schema 2.3 — Allenamento per tipo di prova**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Quiz | Precisione, tempo, differenze tra istituti; diario degli errori. |\n| Scritto | Definizione, funzione ed esempio; schema di risposta. |\n| Caso | Fatti, soggetti, vincoli e decisione; griglia ragionata. |\n| Orale | Lessico e collegamenti; risposta breve cronometrata. |\n| Situazionale | Ruolo, servizio e legalità; motivazione della scelta. |\n| Titoli | Documenti, requisiti e ricevute; checklist. |\n\nLe righe sono formati differenti, non fasi obbligatorie della stessa selezione.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0608926cdcfed878d87bd17e8688701bcb649c2754b2938f2c3ad020e204827d",
+      "sha256After": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "schema": "2.4",
+      "originalImage": "../assets/chapter-02/04-priorita-studio-fiscale.png",
+      "nativeText": "**Schema 2.4 — Quattro priorità possibili**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Studio subito | Nuclei decisivi per profilo, prova o comprensione delle altre materie. |\n| Studio dopo | Contenuti utili al completamento del programma. |\n| Verifico | Sigle, allegati, soglie, banca dati e avvisi ufficiali. |\n| Cambio percorso | Il programma prevalente appartiene a ICT, contratti o ambito tecnico. |\n\nLa priorità dipende dal bando concreto; nessuna materia è secondaria per definizione.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0608926cdcfed878d87bd17e8688701bcb649c2754b2938f2c3ad020e204827d",
+      "sha256After": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "schema": "2.5",
+      "originalImage": "../assets/chapter-02/05-caso-tre-decoder-fiscali.png",
+      "nativeText": "**Schema 2.5 — Tre esempi di Decoder**\n\n| Elemento | Lettura operativa |\n|---|---|\n| AE tributario | Tributi, accertamento e adempimenti; evitare una preparazione solo generale. |\n| ADM | Dogane, accise, giochi e monopoli; evitare di copiare il piano AE. |\n| AdER | Riscossione, pagamenti e rateizzazione; distinguere dalla fase impositiva. |\n\nUna base comune sostiene tre piani specialistici differenti.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0608926cdcfed878d87bd17e8688701bcb649c2754b2938f2c3ad020e204827d",
+      "sha256After": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "schema": "3.1",
+      "originalImage": "../assets/chapter-03/01-mappa-bando-organizzazione-fiscale.png",
+      "nativeText": "**Schema 3.1 — Organizzazione e risposta d’esame**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Ente e profilo della selezione. |\n| A — Aree | Entrate, dogane, monopoli e riscossione. |\n| N — Nuclei | MEF, autonomie, organi e uffici. |\n| D — Diario | Confusioni AE/ADM/AdER e accertamento/riscossione. |\n| O — Output | Risposta orale e scheda funzione-prova. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "f2348f3a047e9c6ce994b2c4ceff5866771760897beac5d985c7d1699f4040e9",
+      "sha256After": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "schema": "3.2",
+      "originalImage": "../assets/chapter-03/02-modello-mef-agenzie-fiscali.png",
+      "nativeText": "**Schema 3.2 — Istituzioni e relazioni**\n\n| Elemento | Lettura operativa |\n|---|---|\n| MEF | Indirizzo e vigilanza secondo l’ordinamento. |\n| AE e ADM | Agenzie fiscali con autonomia e funzioni tecnico-operative proprie. |\n| AdER | Ente pubblico economico strumentale ad AE; AE esercita indirizzo operativo e controllo. |\n| Profilo concorsuale | Chiave per scegliere lessico, materie e prove; non è un ente dell’organigramma. |\n\nLa relazione istituzionale non rende identiche le funzioni dei soggetti.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "f2348f3a047e9c6ce994b2c4ceff5866771760897beac5d985c7d1699f4040e9",
+      "sha256After": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "schema": "3.3",
+      "originalImage": "../assets/chapter-03/03-tre-funzioni-ae-adm-ader.png",
+      "nativeText": "**Schema 3.3 — Lessico delle tre funzioni**\n\n| Elemento | Lettura operativa |\n|---|---|\n| AE | Contribuente, adempimento, controllo, accertamento, territorio. |\n| ADM | Merce, operatore, dogana, accisa, gioco pubblico e vigilanza. |\n| AdER | Debitore, cartella, pagamento, rateizzazione e sospensione. |\n\nPrima identifica l’ente competente, poi usa il lessico della funzione.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "f2348f3a047e9c6ce994b2c4ceff5866771760897beac5d985c7d1699f4040e9",
+      "sha256After": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "schema": "3.4",
+      "originalImage": "../assets/chapter-03/04-centro-territorio-canali.png",
+      "nativeText": "**Schema 3.4 — Centro e articolazioni territoriali**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Strutture centrali | Indirizzo organizzativo, coordinamento, supporto e controllo. |\n| Rete AE | Servizi e atti verso contribuenti e professionisti. |\n| Presidi ADM | Operatori, merci e settori regolati. |\n| Sportelli AdER | Posizioni debitorie, pagamenti, rate e sospensioni. |\n\nÈ un confronto funzionale tra enti distinti; l’organigramma concreto va verificato per ciascuno.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "f2348f3a047e9c6ce994b2c4ceff5866771760897beac5d985c7d1699f4040e9",
+      "sha256After": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "schema": "3.5",
+      "originalImage": "../assets/chapter-03/05-accertamento-riscossione.png",
+      "nativeText": "**Schema 3.5 — Pretesa e riscossione**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Accertamento | L’ente competente verifica e determina o rettifica la pretesa. |\n| Titolo e affidamento | La disciplina del titolo stabilisce il raccordo con la riscossione. |\n| Riscossione | AdER gestisce i carichi affidati e le attività di propria competenza. |\n\nNon ogni accertamento conduce a una cartella: distinguere percorso ordinario e atti esecutivi.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "f2348f3a047e9c6ce994b2c4ceff5866771760897beac5d985c7d1699f4040e9",
+      "sha256After": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "schema": "4.1",
+      "originalImage": "../assets/chapter-04/01-mappa-bando-diritto-tributario.png",
+      "nativeText": "**Schema 4.1 — La teoria dell’imposta nella prova**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Tributi e fonti richiesti dal programma. |\n| A — Aree | Principi, redditi e IVA. |\n| N — Nuclei | Presupposto, soggetti e base imponibile. |\n| D — Diario | Confusioni tassa/imposta e accertamento/riscossione. |\n| O — Output | Risposta orale, quiz e casi. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "1f69b8806e85bee7cf900d72b27c4292e73566d4b5915e7e29e37de1d6ef4115",
+      "sha256After": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "schema": "4.2",
+      "originalImage": "../assets/chapter-04/02-sequenza-nascita-tributo.png",
+      "nativeText": "**Schema 4.2 — Come leggere un rapporto tributario**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Qualificazione | Fatto rilevante, presupposto e soggetto obbligato. |\n| Determinazione | Base imponibile, aliquota e disciplina dell’imposta. |\n| Adempimenti | Documenti, dichiarazione e versamenti secondo il tributo. |\n| Verifiche eventuali | Controlli e atti nei presupposti; non tutti i rapporti subiscono accertamento. |\n| Riscossione | Adempimento spontaneo o forme previste per il recupero. |\n\nLa tavola distingue funzioni: non impone controllo e recupero a ogni contribuente.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "1f69b8806e85bee7cf900d72b27c4292e73566d4b5915e7e29e37de1d6ef4115",
+      "sha256After": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "schema": "4.3",
+      "originalImage": "../assets/chapter-04/03-categorie-del-tributo.png",
+      "nativeText": "**Schema 4.3 — Specie del tributo**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Imposta | Prelievo collegato alla capacità contributiva, senza uno specifico servizio individuale. |\n| Tassa | Prelievo collegato a un’attività o servizio pubblico secondo la legge. |\n| Contributo | Prelievo collegato a una posizione o a un vantaggio particolare nel quadro normativo. |\n\nTributo è il genere; tassa non è un sinonimo universale di imposta.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "1f69b8806e85bee7cf900d72b27c4292e73566d4b5915e7e29e37de1d6ef4115",
+      "sha256After": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "schema": "4.4",
+      "originalImage": "../assets/chapter-04/04-presupposto-base-aliquota.png",
+      "nativeText": "**Schema 4.4 — Le domande prima del calcolo**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Presupposto | Quale fatto, atto o situazione fa sorgere l’obbligo? |\n| Soggetto | Chi è obbligato, e con quale ruolo? |\n| Base imponibile | Su quale grandezza si calcola il tributo? |\n| Aliquota e regole | Quale misura si applica e quali correttivi incidono? |\n\nLa base imponibile non coincide con la somma finale da versare.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "1f69b8806e85bee7cf900d72b27c4292e73566d4b5915e7e29e37de1d6ef4115",
+      "sha256After": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "schema": "4.5",
+      "originalImage": "../assets/chapter-04/05-tuir-iva-accertamento-riscossione.png",
+      "nativeText": "**Schema 4.5 — Dalle nozioni alle discipline**\n\n| Elemento | Lettura operativa |\n|---|---|\n| TUIR | Soggetti e categorie di reddito; studio negli adempimenti fiscali. |\n| IVA | Operazioni, rivalsa e detrazione; studio negli adempimenti fiscali. |\n| Accertamento | Poteri, garanzie e atti; studio di controlli e compliance. |\n| Riscossione | Titoli, cartella, pagamenti e rateizzazione; studio del lavoro AdER. |\n\nI titoli indicano ambiti di approfondimento, senza numeri locali che possano confondersi con quelli del volume.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "1f69b8806e85bee7cf900d72b27c4292e73566d4b5915e7e29e37de1d6ef4115",
+      "sha256After": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "schema": "5.1",
+      "originalImage": "../assets/chapter-05/01-mappa-bando-accertamento-compliance.png",
+      "nativeText": "**Schema 5.1 — Dal dato alla verifica**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Accertamento, controllo e compliance nel programma. |\n| A — Aree | Controlli e istruttoria. |\n| N — Nuclei | Atto, motivazione e garanzie. |\n| D — Diario | Confusioni su contraddittorio e riscossione. |\n| O — Output | Caso fiscale e checklist dell’atto. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "c149041ea1590eaaaac7cd78fcead0c7e1b4da8364fcf12cd5b270d6d88a631e",
+      "sha256After": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "schema": "5.2",
+      "originalImage": "../assets/chapter-05/02-sequenza-controllo-accertamento.png",
+      "nativeText": "**Schema 5.2 — Controllo: passaggi ed esiti**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Avvio | Dati, anomalie o altri presupposti attivano il controllo competente. |\n| Istruttoria | Si raccolgono e valutano elementi nel rispetto dei poteri e delle garanzie. |\n| Confronto | Il contraddittorio si svolge nei casi e modi previsti. |\n| Esito senza pretesa | Chiarimenti o archiviazione chiudono il rilievo quando ne ricorrono le condizioni. |\n| Esito impositivo | Se fondato, l’atto motiva fatti, regole e pretesa; tutela e riscossione seguono la propria disciplina. |\n\nArchiviazione e atto impositivo sono esiti alternativi: la prima non conduce obbligatoriamente al secondo.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "c149041ea1590eaaaac7cd78fcead0c7e1b4da8364fcf12cd5b270d6d88a631e",
+      "sha256After": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "schema": "5.3",
+      "originalImage": "../assets/chapter-05/03-poteri-garanzie-atto.png",
+      "nativeText": "**Schema 5.3 — Poteri e garanzie da collegare**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Potere | Richiesta, accesso o analisi devono avere fonte, finalità e competenza. |\n| Istruttoria | Documenti e dati diventano elementi valutabili. |\n| Garanzie | Legalità, pertinenza, contraddittorio nei presupposti e tutela. |\n| Eventuale atto | Motivazione, destinatario, pretesa e rimedi devono essere coerenti. |\n\nIl potere istruttorio non predetermina un esito sfavorevole.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "c149041ea1590eaaaac7cd78fcead0c7e1b4da8364fcf12cd5b270d6d88a631e",
+      "sha256After": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "schema": "5.4",
+      "originalImage": "../assets/chapter-05/04-compliance-rischio-fiscale.png",
+      "nativeText": "**Schema 5.4 — Gestire il rischio fiscale**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Prevenire | Comunicazioni e servizi favoriscono l’adempimento corretto. |\n| Orientare | Chiarimenti e strumenti di correzione aiutano a rimediare agli errori. |\n| Selezionare | L’analisi del rischio indirizza i controlli. |\n| Accertare | Le irregolarità fondate sono trattate con gli strumenti previsti. |\n\nSono funzioni coordinate; compliance non significa rinuncia al controllo.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "c149041ea1590eaaaac7cd78fcead0c7e1b4da8364fcf12cd5b270d6d88a631e",
+      "sha256After": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "schema": "5.5",
+      "originalImage": "../assets/chapter-05/05-adempimento-collaborativo-tcf.png",
+      "nativeText": "**Schema 5.5 — TCF e dialogo preventivo**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Organizzazione | Individua operazioni complesse e responsabilità. |\n| Tax Control Framework | Rileva e presidia i rischi; documenta controlli e responsabilità. |\n| Interlocuzione | Trasparenza e cooperazione preventiva nel regime applicabile. |\n| Accesso | Requisiti, soglie e certificazioni seguono la disciplina illustrata nel capitolo. |\n\nIl solo possesso di controlli interni non attribuisce automaticamente l’accesso al regime.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "c149041ea1590eaaaac7cd78fcead0c7e1b4da8364fcf12cd5b270d6d88a631e",
+      "sha256After": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "schema": "6.1",
+      "originalImage": "../assets/chapter-06/01-mappa-bando-adempimenti-fiscali.png",
+      "nativeText": "**Schema 6.1 — Adempimenti da distinguere**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Redditi, IVA e obblighi richiesti. |\n| A — Aree | Qualificazione, dichiarazione e pagamento. |\n| N — Nuclei | Debito, credito e controllo. |\n| D — Diario | Scambio delle fasi; IVA confusa con utile. |\n| O — Output | Mappa degli adempimenti e soluzione del caso. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "66af6b871a88b158320980d3ea8c8d307083de14e457698f06501f0305bf0f04",
+      "sha256After": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "schema": "6.2",
+      "originalImage": "../assets/chapter-06/02-redditi-iva-due-logiche.png",
+      "nativeText": "**Schema 6.2 — Redditi e IVA: confronto**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Imposte sui redditi | Soggetto, periodo, categoria reddituale e regole di determinazione. |\n| IVA | Operazione, soggetto, territorio, rivalsa e detrazione; liquidazione e dichiarazione. |\n\nI due tributi possono interessare lo stesso fatto economico, ma uno non è una fase dell’altro.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "66af6b871a88b158320980d3ea8c8d307083de14e457698f06501f0305bf0f04",
+      "sha256After": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "schema": "6.3",
+      "originalImage": "../assets/chapter-06/03-flusso-dichiarazione-versamento-controllo.png",
+      "nativeText": "**Schema 6.3 — Funzioni e tempi degli adempimenti**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Documento e registri | Rappresentano operazioni e dati fiscalmente rilevanti. |\n| Liquidazione | Determina il risultato; nell’IVA periodica precede la dichiarazione annuale. |\n| Versamento | Esegue il pagamento alla propria scadenza; non è sostituito dalla dichiarazione. |\n| Dichiarazione | Espone dati e risultanze del periodo; ha funzione e termine propri. |\n| Assistenza e controllo | Possono intervenire secondo esigenze e presupposti, senza una sequenza universale. |\n\nNon memorizzare “dichiarare → liquidare → versare” come calendario valido per ogni tributo.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "66af6b871a88b158320980d3ea8c8d307083de14e457698f06501f0305bf0f04",
+      "sha256After": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "schema": "6.4",
+      "originalImage": "../assets/chapter-06/04-credito-rimborso-compensazione.png",
+      "nativeText": "**Schema 6.4 — Tre usi distinti del credito**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Riporto | L’eccedenza è trasferita al periodo successivo alle condizioni previste. |\n| Compensazione | Il credito è utilizzato contro debiti con presupposti, limiti e controlli propri. |\n| Rimborso | La restituzione richiede i presupposti e la procedura applicabili. |\n\nL’esistenza del credito non rende automatico nessuno dei tre esiti.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "66af6b871a88b158320980d3ea8c8d307083de14e457698f06501f0305bf0f04",
+      "sha256After": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "schema": "6.5",
+      "originalImage": "../assets/chapter-06/05-servizi-compliance-controllo.png",
+      "nativeText": "**Schema 6.5 — Assistenza, compliance e controllo**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Servizi | Accesso ai dati, canali e assistenza all’adempimento. |\n| Compliance | Interlocuzione e correzione spontanea secondo gli strumenti disponibili. |\n| Controllo | Verifica della coerenza e della legalità nei presupposti. |\n\nL’ufficio assiste entro competenza: il servizio non sostituisce una decisione né elimina i controlli.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "66af6b871a88b158320980d3ea8c8d307083de14e457698f06501f0305bf0f04",
+      "sha256After": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "schema": "7.1",
+      "originalImage": "../assets/chapter-07/01-mappa-bando-riscossione-ader.png",
+      "nativeText": "**Schema 7.1 — La funzione della riscossione**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | AdER, selezione e attività richieste. |\n| A — Aree | Ente creditore e agente della riscossione. |\n| N — Nuclei | Titolo, carico e pagamento. |\n| D — Diario | Confusioni tra potere, fase e atto. |\n| O — Output | Flusso ragionato e caso di sportello. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "de31a9c456df9acf1fc275581b6b2eae786f42c5074882a6ffef9db940654d41",
+      "sha256After": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "schema": "7.2",
+      "originalImage": "../assets/chapter-07/02-accertamento-riscossione-distinti.png",
+      "nativeText": "**Schema 7.2 — Due funzioni collegate**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Accertamento | L’ente competente determina o rettifica la pretesa con il relativo atto. |\n| Riscossione | Gestisce il pagamento e il recupero del credito secondo titolo e competenza. |\n\nUn problema sulla cartella non autorizza AdER a decidere qualsiasi questione sul merito del tributo.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "de31a9c456df9acf1fc275581b6b2eae786f42c5074882a6ffef9db940654d41",
+      "sha256After": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "schema": "7.3",
+      "originalImage": "../assets/chapter-07/03-flusso-riscossione-nazionale.png",
+      "nativeText": "**Schema 7.3 — Riscossione: due percorsi e più opzioni**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Percorso ordinario | Formazione del ruolo, affidamento e cartella secondo la disciplina applicabile. |\n| Accertamento esecutivo | L’atto impositivo esecutivo precede l’affidamento; non occorre una nuova cartella. |\n| Pagamento | Può estinguere il debito; la rateizzazione è un’opzione nei presupposti. |\n| Tutela | Sospensione, sgravio e ricorso hanno condizioni, soggetti ed effetti distinti. |\n| Recupero | In mancanza di pagamento, misure cautelari o esecutive richiedono le condizioni previste. |\n\nRateizzazione, sospensione e ricorso non sono tappe obbligatorie consecutive.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "de31a9c456df9acf1fc275581b6b2eae786f42c5074882a6ffef9db940654d41",
+      "sha256After": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "schema": "7.4",
+      "originalImage": "../assets/chapter-07/04-cartella-rateizzazione-sospensione.png",
+      "nativeText": "**Schema 7.4 — Parole vicine, effetti diversi**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Cartella | Porta a conoscenza il carico e la richiesta di pagamento nel percorso ordinario. |\n| Pagamento | Adempimento da effettuare con modalità tracciabili. |\n| Rateizzazione | Distribuisce il pagamento nel tempo; non cancella il debito. |\n| Sospensione | Arresta temporaneamente gli effetti nei presupposti; non coincide con lo sgravio. |\n\nPer scegliere il rimedio identifica atto, motivo, competenza e termine.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "de31a9c456df9acf1fc275581b6b2eae786f42c5074882a6ffef9db940654d41",
+      "sha256After": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "schema": "7.5",
+      "originalImage": "../assets/chapter-07/05-front-office-ader-checklist.png",
+      "nativeText": "**Schema 7.5 — Checklist dello sportello AdER**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Identità | Verifica soggetto e legittimazione. |\n| Atto e credito | Individua documento, ente creditore e posizione. |\n| Richiesta | Distingui pagamento, rate, sospensione e contestazione. |\n| Documenti | Controlla ricevute, istanze e informazioni pertinenti. |\n| Esito | Indica il canale competente e registra l’azione, entro i limiti dell’ufficio. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "de31a9c456df9acf1fc275581b6b2eae786f42c5074882a6ffef9db940654d41",
+      "sha256After": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "schema": "8.1",
+      "originalImage": "../assets/chapter-08/01-mappa-bando-dogane-adm.png",
+      "nativeText": "**Schema 8.1 — Dogane nella prova ADM**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Profilo, dogane e operazioni richieste. |\n| A — Aree | UE, regimi e controlli. |\n| N — Nuclei | Dichiarazione, classificazione, origine e valore. |\n| D — Diario | Origine confusa con spedizione; valore con fattura. |\n| O — Output | Caso guidato e checklist della merce. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0bc7153aab62408b99ff2c1d2a206a0183cf78367d9f133bfc8c94f74d8ba911",
+      "sha256After": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "schema": "8.2",
+      "originalImage": "../assets/chapter-08/02-flusso-procedura-doganale.png",
+      "nativeText": "**Schema 8.2 — Lettura della procedura doganale**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Operatore e merce | Identifica ruolo, rappresentanza e caratteristiche tecniche. |\n| Ingresso e presentazione | Colloca le formalità applicabili al movimento concreto. |\n| Regime e dichiarazione | Individua destinazione doganale, dati e documenti. |\n| Controllo e svincolo | Le verifiche seguono rischio e presupposti; lo svincolo richiede le condizioni del regime. |\n| Dopo lo svincolo | Restano possibili verifiche successive secondo la disciplina. |\n\nÈ una traccia per il caso: importazione, esportazione e transito non hanno tutte le stesse formalità.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0bc7153aab62408b99ff2c1d2a206a0183cf78367d9f133bfc8c94f74d8ba911",
+      "sha256After": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "schema": "8.3",
+      "originalImage": "../assets/chapter-08/03-triade-classificazione-origine-valore.png",
+      "nativeText": "**Schema 8.3 — La triade tecnica**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Classificazione | Qual è la voce tariffaria della merce? |\n| Origine | Qual è il suo legame economico con un Paese, secondo le regole applicabili? |\n| Valore | Quale base economica si determina secondo le regole doganali? |\n\nNome commerciale, Paese di spedizione e prezzo di fattura non risolvono automaticamente le tre domande.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0bc7153aab62408b99ff2c1d2a206a0183cf78367d9f133bfc8c94f74d8ba911",
+      "sha256After": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "schema": "8.4",
+      "originalImage": "../assets/chapter-08/04-controlli-doganali-rischio-aeo.png",
+      "nativeText": "**Schema 8.4 — Rischio, controlli e status AEO**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Analisi del rischio | Orienta selezione e intensità delle verifiche. |\n| Dati e documenti | Consentono riscontri sulle dichiarazioni e sulle operazioni. |\n| Controlli fisici | Verificano le merci quando disposti; non attribuiscono lo status AEO. |\n| AEO | Autorizzazione basata su requisiti e affidabilità; può comportare facilitazioni e minori controlli. |\n\nAEO resta soggetto a controlli. L’autorizzazione è distinta dalla sequenza della singola operazione.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0bc7153aab62408b99ff2c1d2a206a0183cf78367d9f133bfc8c94f74d8ba911",
+      "sha256After": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "schema": "8.5",
+      "originalImage": "../assets/chapter-08/05-checklist-dichiarazione-doganale.png",
+      "nativeText": "**Schema 8.5 — Checklist della dichiarazione doganale**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Soggetto | Operatore, ruolo e rappresentanza. |\n| Merce e regime | Descrizione tecnica e destinazione doganale. |\n| Triade | Classificazione, origine e valore, ciascuno con i propri elementi. |\n| Documenti | Prove, fatture, autorizzazioni e dati necessari. |\n| Rischio | Controlli coerenti con merci, operatore e operazione. |\n\nPrima qualifica il caso; il calcolo del dazio viene dopo.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "0bc7153aab62408b99ff2c1d2a206a0183cf78367d9f133bfc8c94f74d8ba911",
+      "sha256After": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "schema": "9.1",
+      "originalImage": "../assets/chapter-09/01-mappa-bando-accise-giochi-monopoli.png",
+      "nativeText": "**Schema 9.1 — Accise, giochi e monopoli**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Profilo ADM e settori richiesti. |\n| A — Aree | Prodotti, giochi e monopoli. |\n| N — Nuclei | Deposito, regime, titolo e controllo. |\n| D — Diario | IVA/accisa e gioco legale/illecito. |\n| O — Output | Glossario settoriale e caso guidato. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "9f20d4bad7030609a3e96e5c1fb729a5e777841fd24c167747f459dcad8a7ee1",
+      "sha256After": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "schema": "9.2",
+      "originalImage": "../assets/chapter-09/02-filiera-accise-regime-sospensivo.png",
+      "nativeText": "**Schema 9.2 — Seguire una filiera di accisa**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Prodotto | Individua la categoria e la disciplina pertinente. |\n| Soggetto e luogo | Distingui qualifiche, deposito e autorizzazioni. |\n| Regime | Separa sospensione e prodotto già immesso in consumo. |\n| Movimento | Usa documenti e circuito corretti: e-AD ed e-DAS unionale non coincidono. |\n| Esigibilità | Individua il fatto rilevante secondo la disciplina, senza confonderlo con la mera circolazione. |\n| Controllo | Verifica coerenza di merci, documenti e titoli. |\n\nSospensione non significa esenzione; il destinatario registrato non acquista una generale facoltà di detenzione sospensiva.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "9f20d4bad7030609a3e96e5c1fb729a5e777841fd24c167747f459dcad8a7ee1",
+      "sha256After": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "schema": "9.3",
+      "originalImage": "../assets/chapter-09/03-prodotti-giochi-monopoli-adm.png",
+      "nativeText": "**Schema 9.3 — Settori da riconoscere**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Prodotti energetici ed energia | Prodotto, uso, fornitura, circolazione e regime. |\n| Alcole e bevande alcoliche | Filiera, soggetti e imposizione specifica. |\n| Tabacchi | Prodotti regolati, rete e titoli. |\n| Giochi | Concessioni, legalità, dati e vigilanza. |\n\nLa tavola confronta settori: non equipara tutti i giochi ai prodotti soggetti ad accisa.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "9f20d4bad7030609a3e96e5c1fb729a5e777841fd24c167747f459dcad8a7ee1",
+      "sha256After": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "schema": "9.4",
+      "originalImage": "../assets/chapter-09/04-controlli-adm-filiere-regolate.png",
+      "nativeText": "**Schema 9.4 — Elementi del controllo ADM**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Prodotto | Natura e quantità. |\n| Luogo | Deposito, punto vendita o altro luogo rilevante. |\n| Soggetto | Qualifica, titolo e attività. |\n| Documenti e dati | Tracciati, coerenza e anomalie. |\n| Esito | Riscontro, verbalizzazione e conseguenze nei presupposti. |\n\nProdotto, luogo, soggetto e dati si valutano insieme: non sono passaggi cronologici obbligati.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "9f20d4bad7030609a3e96e5c1fb729a5e777841fd24c167747f459dcad8a7ee1",
+      "sha256After": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "schema": "9.5",
+      "originalImage": "../assets/chapter-09/05-checklist-accise-giochi-monopoli.png",
+      "nativeText": "**Schema 9.5 — Checklist per la risposta settoriale**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Materia e prodotto | Accisa, gioco o monopolio; categoria concreta. |\n| Luogo e soggetto | Rete, deposito, operatore e titolo. |\n| Regime e documenti | Sospensione o consumo; circuito e tracciati corretti. |\n| Controllo | Rischio, legalità e riscontri. |\n| Conseguenze | Qualifica la violazione e usa la norma vigente, evitando sanzioni presunte. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "9f20d4bad7030609a3e96e5c1fb729a5e777841fd24c167747f459dcad8a7ee1",
+      "sha256After": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "schema": "10.1",
+      "originalImage": "../assets/chapter-10/01-mappa-bando-territorio-spi.png",
+      "nativeText": "**Schema 10.1 — Territorio e pubblicità immobiliare**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Profilo tecnico, catastale o SPI. |\n| A — Aree | Catasto, cartografia, estimo, OMI e registri. |\n| N — Nuclei | Dato, mappa, valore e formalità. |\n| D — Diario | Visura/proprietà e rendita/mercato. |\n| O — Output | Glossario, caso e checklist. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "597e4d5e6ab97b9b42994cadff169024f7bcfd6e87faebbb383476e71125d7f0",
+      "sha256After": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "schema": "10.2",
+      "originalImage": "../assets/chapter-10/02-sistema-catasto-cartografia-estimo-spi.png",
+      "nativeText": "**Schema 10.2 — Quattro piani del territorio**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Catasto | Identifica e classifica i beni. |\n| Cartografia | Rappresenta territorio e particelle. |\n| Estimo e OMI | La stima valuta il bene; OMI offre dati di mercato di supporto. |\n| Pubblicità immobiliare | Rende conoscibili vicende giuridiche tramite registri e formalità. |\n\nI piani dialogano, ma non coincidono.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "597e4d5e6ab97b9b42994cadff169024f7bcfd6e87faebbb383476e71125d7f0",
+      "sha256After": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "schema": "10.3",
+      "originalImage": "../assets/chapter-10/03-identificativo-classamento-rendita.png",
+      "nativeText": "**Schema 10.3 — Identificare e qualificare il bene**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Identificativo | Comune, foglio, particella e, ove presente, subalterno. |\n| Classamento | Categoria, classe e consistenza secondo la disciplina del bene. |\n| Rendita | Dato catastale risultante dal sistema applicabile. |\n| Titolo giuridico | Si ricostruisce con gli atti e i registri pertinenti. |\n\nLa sequenza di lettura non trasforma l’identificativo o la rendita in prova della proprietà.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "597e4d5e6ab97b9b42994cadff169024f7bcfd6e87faebbb383476e71125d7f0",
+      "sha256After": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "schema": "10.4",
+      "originalImage": "../assets/chapter-10/04-servizi-procedure-territorio.png",
+      "nativeText": "**Schema 10.4 — Scegliere il servizio**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Visura | Consulta dati catastali per immobile o soggetto. |\n| Planimetria e cartografia | Rappresentano l’unità o il territorio nei rispettivi sistemi. |\n| Voltura e rettifica | Aggiornano intestazioni o correggono dati nei presupposti. |\n| Ispezione | Consulta registri e formalità di pubblicità immobiliare. |\n| OMI | Fornisce quotazioni utili al confronto, non una perizia individuale. |\n\nLa domanda dell’utente determina quale servizio è pertinente.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "597e4d5e6ab97b9b42994cadff169024f7bcfd6e87faebbb383476e71125d7f0",
+      "sha256After": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "schema": "10.5",
+      "originalImage": "../assets/chapter-10/05-checklist-catasto-pubblicita-immobiliare.png",
+      "nativeText": "**Schema 10.5 — Checklist del caso immobiliare**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Ambito | Catasto, stima, cartografia o pubblicità immobiliare? |\n| Identificativo e dato | Localizza il bene e distingue categoria, classe e rendita. |\n| Servizio e mappa | Scegli consultazione o aggiornamento pertinente. |\n| Valore e formalità | Separa stima e dati OMI da trascrizione o iscrizione. |\n| Risposta | Esplicita limite del dato e documento necessario. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "597e4d5e6ab97b9b42994cadff169024f7bcfd6e87faebbb383476e71125d7f0",
+      "sha256After": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "schema": "11.1",
+      "originalImage": "../assets/chapter-11/01-mappa-bando-bilancio-fisco.png",
+      "nativeText": "**Schema 11.1 — Bilancio e fisco**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Contabilità ed economia d’impresa nel programma. |\n| A — Aree | Bilancio, scritture e raccordo fiscale. |\n| N — Nuclei | Ricavi, costi e patrimonio. |\n| D — Diario | Utile/reddito e ricavo/incasso. |\n| O — Output | Mini-caso numerico e risposta orale. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "41426ff910530190685edfb45e7ae1654fe7fca9a1da02423661ad1efe9b01aa",
+      "sha256After": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "schema": "11.2",
+      "originalImage": "../assets/chapter-11/02-bilancio-quattro-documenti.png",
+      "nativeText": "**Schema 11.2 — Documenti del bilancio ordinario**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Stato patrimoniale | Attività, passività e patrimonio netto alla chiusura. |\n| Conto economico | Ricavi, costi e risultato dell’esercizio. |\n| Rendiconto finanziario | Flussi delle disponibilità liquide. |\n| Nota integrativa | Criteri, dettagli e informazioni esplicative. |\n\nLe forme abbreviate e per micro-imprese prevedono gli esoneri di legge: i quattro documenti descrivono il bilancio ordinario.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "41426ff910530190685edfb45e7ae1654fe7fca9a1da02423661ad1efe9b01aa",
+      "sha256After": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "schema": "11.3",
+      "originalImage": "../assets/chapter-11/03-ricavi-costi-incassi-pagamenti.png",
+      "nativeText": "**Schema 11.3 — Competenza e movimento monetario**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Piano economico | Ricavi e costi concorrono al risultato secondo competenza. |\n| Piano monetario | Incassi e pagamenti modificano la liquidità. |\n| Vendita a credito | Un ricavo di dicembre può essere incassato a gennaio. |\n| Pagamento anticipato | Il pagamento odierno può riferirsi a costi di periodi successivi. |\n\nRicavo non significa incasso; costo non significa pagamento.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "41426ff910530190685edfb45e7ae1654fe7fca9a1da02423661ad1efe9b01aa",
+      "sha256After": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "schema": "11.4",
+      "originalImage": "../assets/chapter-11/04-utile-reddito-imposta.png",
+      "nativeText": "**Schema 11.4 — Dal risultato contabile al tributo**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Operazioni e scritture | Ricostruisci fatti economici e documenti. |\n| Bilancio | Determina utile o perdita secondo regole contabili. |\n| Regole fiscali | Applica variazioni e limiti per determinare il reddito imponibile. |\n| Imposta e dichiarazione | Calcola e rappresenta le risultanze secondo la disciplina. |\n| Controllo eventuale | Verifica documenti e coerenza nei presupposti. |\n\nUtile, reddito imponibile e imposta sono grandezze diverse.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "41426ff910530190685edfb45e7ae1654fe7fca9a1da02423661ad1efe9b01aa",
+      "sha256After": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "schema": "11.5",
+      "originalImage": "../assets/chapter-11/05-checklist-bilancio-fisco.png",
+      "nativeText": "**Schema 11.5 — Checklist bilancio-fisco**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Documento | Bilancio, fattura, scrittura o altro dato? |\n| Grandezza | Ricavo, costo, credito, debito o flusso? |\n| Piano | Economico, patrimoniale, monetario o fiscale? |\n| Regola | Individua periodo e criterio pertinente. |\n| Output | Spiega il calcolo o la distinzione e controlla l’errore tipico. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "41426ff910530190685edfb45e7ae1654fe7fca9a1da02423661ad1efe9b01aa",
+      "sha256After": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "schema": "12.1",
+      "originalImage": "../assets/chapter-12/01-mappa-bando-civile-commerciale.png",
+      "nativeText": "**Schema 12.1 — Civile e commerciale nel caso fiscale**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Materie civilistiche richieste. |\n| A — Aree | Obbligazioni e contratti. |\n| N — Nuclei | Impresa, società e soggetti. |\n| D — Diario | Piani confusi e automatismi sulla crisi. |\n| O — Output | Caso qualificato e checklist. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "02fe0a5358dfdb6345bc979a31d95e59334f40d2494a241648f0069eb2f83a3b",
+      "sha256After": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "schema": "12.2",
+      "originalImage": "../assets/chapter-12/02-credito-debito-piani-giuridici.png",
+      "nativeText": "**Schema 12.2 — La parola credito su tre piani**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Rapporto privato | Contratto, fornitore, cliente e adempimento. |\n| Obbligo tributario | Presupposto, soggetto, dichiarazione e pagamento. |\n| Riscossione | Ente creditore, titolo, posizione e tutela. |\n\nLa parola comune non rende uguali fonti, competenze e rimedi.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "02fe0a5358dfdb6345bc979a31d95e59334f40d2494a241648f0069eb2f83a3b",
+      "sha256After": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "schema": "12.3",
+      "originalImage": "../assets/chapter-12/03-contratto-fattura-pagamento.png",
+      "nativeText": "**Schema 12.3 — Contratto, fattura, pagamento e scrittura**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Contratto | Regola il rapporto e le obbligazioni. |\n| Fattura | Documenta l’operazione secondo la disciplina fiscale. |\n| Pagamento | È un flusso monetario, con un proprio momento. |\n| Contabilità | Rileva i fatti secondo le regole; può precedere incasso o pagamento. |\n| Fisco | Applica i propri presupposti e criteri. |\n\nNon è una cronologia universale: fattura e pagamento possono avere tempi diversi; la contabilità non attende sempre il pagamento.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "02fe0a5358dfdb6345bc979a31d95e59334f40d2494a241648f0069eb2f83a3b",
+      "sha256After": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "schema": "12.4",
+      "originalImage": "../assets/chapter-12/04-impresa-societa-applicazioni-agenzie.png",
+      "nativeText": "**Schema 12.4 — La stessa impresa, domande diverse**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Soggetto | Individua impresa o società, poteri e patrimonio. |\n| Nel caso AE | Dichiarazioni, bilancio e controlli fiscali. |\n| Nel caso ADM | Merci, operatore, titoli e documenti doganali. |\n| Nel caso AdER | Posizione debitoria, pagamento e strumenti previsti. |\n\nLe righe confrontano applicazioni diverse, non una gerarchia fra enti.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "02fe0a5358dfdb6345bc979a31d95e59334f40d2494a241648f0069eb2f83a3b",
+      "sha256After": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "schema": "12.5",
+      "originalImage": "../assets/chapter-12/05-checklist-civile-commerciale-fisco.png",
+      "nativeText": "**Schema 12.5 — Checklist civile-commerciale**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Soggetto e poteri | Persona, società o ente; rappresentanza e delega. |\n| Rapporto | Contratto o altra fonte dell’obbligazione. |\n| Documento e patrimonio | Fattura, bilancio, beni, crediti e debiti. |\n| Disciplina | Separa civile, fisco, dogane e riscossione. |\n| Crisi e output | Verifica i presupposti senza automatismi e formula la risposta al caso. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "02fe0a5358dfdb6345bc979a31d95e59334f40d2494a241648f0069eb2f83a3b",
+      "sha256After": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "schema": "13.1",
+      "originalImage": "../assets/chapter-13/01-mappa-bando-performance-finale.png",
+      "nativeText": "**Schema 13.1 — Dallo studio alla prestazione**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Formato, soglie, tempi e avvisi della prova. |\n| A — Aree | Tributi, dogane e riscossione pertinenti. |\n| N — Nuclei | Enti, atti, competenze e sequenze. |\n| D — Diario | Errori di memoria, lettura o confusione dei piani. |\n| O — Output | Simulazione e piano di recupero 30/60/90. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "6f16976c3e3b3c75d98ff5582a9507834842d1c36780e2b60199f35009ad00a9",
+      "sha256After": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "schema": "13.2",
+      "originalImage": "../assets/chapter-13/02-quiz-quattro-mosse-parole-spia.png",
+      "nativeText": "**Schema 13.2 — Quiz in quattro mosse**\n\n| Elemento | Lettura operativa |\n|---|---|\n| 1. Leggi | Individua richiesta, negazioni e parole decisive. |\n| 2. Escludi | Elimina opzioni incompatibili con soggetto, fase o istituto. |\n| 3. Scegli | Confronta le alternative rimaste nel perimetro della domanda. |\n| 4. Controlla | Rileggi assoluti e negazioni prima di confermare. |\n\nCon banca dati verifica versione e programma; senza banca dati allena i nuclei del bando. Nel diario annota causa dell’errore e azione correttiva.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "6f16976c3e3b3c75d98ff5582a9507834842d1c36780e2b60199f35009ad00a9",
+      "sha256After": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "schema": "13.3",
+      "originalImage": "../assets/chapter-13/03-casi-ae-adm-ader-griglia.png",
+      "nativeText": "**Schema 13.3 — Tre casi, una griglia di lettura**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Caso AE | Dichiarazioni, controlli e compliance. |\n| Caso ADM | Merci, classificazione, origine, valore e controlli. |\n| Caso AdER | Titolo, pagamento, rateizzazione e sportello. |\n| Griglia comune | Fatto, soggetti, materia, istituto, fase e output. |\n\nAE, ADM e AdER sono contesti alternativi: non rappresentano tre tappe consecutive del caso.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "6f16976c3e3b3c75d98ff5582a9507834842d1c36780e2b60199f35009ad00a9",
+      "sha256After": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "schema": "13.4",
+      "originalImage": "../assets/chapter-13/04-orale-90-secondi-domande-trappola.png",
+      "nativeText": "**Schema 13.4 — Risposta orale da 90 secondi**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Definizione e funzione | Spiega l’istituto e a che cosa serve. |\n| Soggetti e sequenza | Indica competenze e passaggi pertinenti. |\n| Esempio | Applica la distinzione al profilo fiscale. |\n| Limite | Chiudi precisando ciò che non va confuso. |\n\nSe la domanda contiene una premessa errata, correggila prima di sviluppare la risposta.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "6f16976c3e3b3c75d98ff5582a9507834842d1c36780e2b60199f35009ad00a9",
+      "sha256After": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "schema": "13.5",
+      "originalImage": "../assets/chapter-13/05-simulazione-diario-piano-30-60-90.png",
+      "nativeText": "**Schema 13.5 — Simulazione e recupero**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Quiz — 35 minuti | Registra punteggio e domande lente. |\n| Caso — 25 minuti | Compila griglia e conclusione. |\n| Orale — 20 minuti | Prepara, prova e riesamina tre risposte brevi. |\n| Diario — 10 minuti | Individua cause degli errori e azioni verificabili. |\n| Piano 30/60/90 | Riorganizza fondamentali, casi, simulazioni e rifinitura secondo i risultati. |\n\nI tempi sono un allenamento proposto; il calendario della selezione resta quello del bando.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "6f16976c3e3b3c75d98ff5582a9507834842d1c36780e2b60199f35009ad00a9",
+      "sha256After": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "schema": "14.1",
+      "originalImage": "../assets/chapter-14/01-mappa-bando-appendici-operative.png",
+      "nativeText": "**Schema 14.1 — Usare le appendici operative**\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Parole-spia, peso e forma della prova. |\n| A — Aree | Ciclo operativo cui appartiene il problema. |\n| N — Nuclei | Definizioni e distinzioni del glossario. |\n| D — Diario | Errori da recuperare e nuovi tentativi. |\n| O — Output | Canvas, checklist orale e piano di ripasso. |",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "333279f28970c97a00144a45bf8594967708df30948a268d6be59660e68dcd07",
+      "sha256After": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "schema": "14.2",
+      "originalImage": "../assets/chapter-14/05-allerta-bando-glossario-output.png",
+      "nativeText": "**Schema 14.2 — Dalla domanda allo strumento**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Definizione incerta | Appendice A: glossario ragionato. |\n| Istituti simili | Appendice B: tavole di confronto. |\n| Tempi e passaggi | Appendici C e D: scadenziario e schemi di processo. |\n| Applicazione | Appendice E: canvas compilabili; F: sanzioni, reati, processo e UE. |\n| Verifica e recupero | Appendice G: checklist orale; H: piano di ripasso. |\n\nScegli lo strumento, compilalo, confrontalo con l’esempio e annota l’errore: le lettere indicano queste appendici effettive.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "333279f28970c97a00144a45bf8594967708df30948a268d6be59660e68dcd07",
+      "sha256After": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "schema": "14.3",
+      "originalImage": "../assets/chapter-14/04-front-office-privacy-protocollo.png",
+      "nativeText": "**Schema 14.3 — Protocollo di front-office**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Ascolta e identifica | Qualifica richiesta, urgenza, identità e legittimazione. |\n| Distingui la competenza | AE, ADM, AdER o altro soggetto; verifica atto e posizione. |\n| Proteggi i dati | Usa soltanto informazioni necessarie e canali consentiti. |\n| Orienta | Indica documenti, termini e ufficio pertinente senza promettere esiti. |\n| Chiudi e traccia | Registra l’azione e inoltra il caso quando eccede la competenza. |\n\nLa protezione dei dati accompagna ogni passaggio, non inizia solo a pratica conclusa.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "333279f28970c97a00144a45bf8594967708df30948a268d6be59660e68dcd07",
+      "sha256After": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "schema": "14.4",
+      "originalImage": "../assets/chapter-14/02-reati-sanzioni-condotte-rischio.png",
+      "nativeText": "**Schema 14.4 — Qualificare condotte e conseguenze**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Fatto | Identifica condotta, soggetto e documento. |\n| Piano | Distingui recupero del tributo, illecito amministrativo e fattispecie penale. |\n| Regola | Verifica elementi, condizioni e disciplina temporale applicabile. |\n| Tutela | Collega procedimento e rimedio corretto. |\n| Risposta | Motiva la qualificazione, senza usare “reato” per ogni irregolarità. |\n\nDoveri del dipendente, responsabilità tributaria e responsabilità penale restano piani distinti.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "333279f28970c97a00144a45bf8594967708df30948a268d6be59660e68dcd07",
+      "sha256After": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "schema": "14.5",
+      "originalImage": "../assets/chapter-14/03-diritto-ue-doganale-mappa-operativa.png",
+      "nativeText": "**Schema 14.5 — UE, dogane e operatore**\n\n| Elemento | Lettura operativa |\n|---|---|\n| Cornice UE e CDU | Individuano regole comuni, regimi e formalità doganali. |\n| ADM | Applica e controlla nell’ambito delle proprie attribuzioni. |\n| Merce | Dichiarazione, classificazione, origine e valore qualificano l’operazione. |\n| EORI | Numero di registrazione e identificazione dell’operatore nei rapporti doganali. |\n| AEO | Status autorizzato in presenza di requisiti; facilitazioni e controlli secondo la disciplina. |\n\nEORI non certifica affidabilità AEO. Lo status AEO non elimina il potere di controllo.",
+      "sourceNote": "wiki/sources/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "sha256Before": "333279f28970c97a00144a45bf8594967708df30948a268d6be59660e68dcd07",
+      "sha256After": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1"
+    }
+  ]
+}

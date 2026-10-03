@@ -1,0 +1,62 @@
+{
+  "math": "passed",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "semanticAnswers": "preserved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "semanticAnswers": "preserved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "nuclei": 7,
+      "quiz": 7,
+      "links": "resolved",
+      "semanticAnswers": "preserved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "semanticAnswers": "preserved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "semanticAnswers": "preserved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "semanticAnswers": "preserved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "semanticAnswers": "preserved",
+      "bodyInternalLinks": 0
+    }
+  ],
+  "legalCheckScope": "Selective checks of two competition notices, article 21 DL90/2014 and official MAECI deadline; older ordinance evidence remains dated in source."
+}

@@ -9,9 +9,9 @@ entities: ["ICCU", "Servizio bibliotecario nazionale", "Universita degli Studi d
 source_refs: ["sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026", "sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24"]
 book_refs: ["m-ir02-universita-afam", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.86
-updated_at: 2026-08-05
+updated_at: 2026-10-03
 created_at: 2026-08-05
-review_required: true
+review_required: false
 canonical: true
 tags: ["source", "biblioteche-universitarie", "cataloghi", "sbn", "open-access", "module-code-m-ir02", "cutoff-2026-08-05"]
 source_type: official_calls_and_institutional_documentation
@@ -152,11 +152,26 @@ Il caso Unibo autorizza esempi su repository istituzionale, deposito, metadati, 
 - Universita' di Bologna, repository AMS Acta: <https://amsacta.unibo.it/>.
 - Commissione europea, open science: <https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/open-science_en>.
 
-## Review richiesta
+## Perimetro del controllo specialistico
 
-- Bibliotecario catalogatore: verificare terminologia, distinzioni e livello tecnico coerente con 2523/2524.
-- Esperto di risorse elettroniche: verificare ogni esempio di accesso, licenza e document delivery.
-- Esperto open access: verificare policy, versione, diritti, embargo, licenza e repository dell'esempio selezionato.
-- Revisore giuridico: controllare ogni richiamo puntuale a diritto d'autore, privacy e banche dati prima del text freeze.
-- Redazione: ricontrollare pagine, allegati e tracce delle procedure, perche' programmi e piattaforme sono mobili.
+- Terminologia e distinzioni catalografiche controllate nelle parti indicate nell’integrazione del 3 ottobre; non certificato un record importabile.
+- Gli esempi non attribuiscono diritti a licenze reali non esaminate: applicano condizioni dichiarate nella traccia.
+- Versione, diritti e licenza restano campi da verificare per ogni deposito concreto; nessun embargo universale insegnato.
+- Non sono aggiunte soglie di riproduzione o eccezioni giuridiche analitiche: il testo distingue reperibilità, accesso e riuso.
+- Bandi e piattaforme restano esempi datati; non vengono attestati requisiti di selezioni future.
 
+
+## Integrazione catalografica verificata il 3 ottobre 2026
+
+Supera, per i concetti qui circoscritti, il precedente limite che permetteva soltanto di nominare gli standard. REICAT è il codice nazionale di catalogazione; ISBD organizza elementi descrittivi, sequenza e punteggiatura; UNIMARC rappresenta dati per scambio e trattamento informatico; SBNMARC è il protocollo di colloquio con l'Indice e usa semantica UNIMARC. Non sono quattro cataloghi né quattro nomi del medesimo standard. Il codice non coincide con la codifica.
+
+L'authority control distingue identità da stringhe: forma autorizzata, varianti, qualificazioni e relazioni evitano di separare lo stesso autore o fondere omonimi. La soggettazione descrive il contenuto concettuale con accessi controllati; il Nuovo soggettario BNCF comprende guida, thesaurus e manuale applicativo. La classificazione attribuisce una posizione in uno schema; la collocazione localizza l'esemplare. ILL movimenta un documento in prestito fra biblioteche; document delivery fornisce una riproduzione consentita, con condizioni da verificare.
+
+Fonti lette selettivamente: REICAT introduzione 0.4.3, https://norme.iccu.sbn.it/w/index.php?title=Reicat%2FIntroduzione%2F0.4%2F0.4.3 ; ICCU, paragrafi introduttivi, descrizione bibliografica e authority, https://www.iccu.sbn.it/it/SBN/catalogazione-e-manutenzione-del-catalogo-sbn/le-attivita-di-catalogazione-e-il-protocollo-sbnmarc/index.html ; IFLA, descrizione e presentazione edizioni ISBD, https://www.ifla.org/g/isbd-rg/isbd-editions/ ; BNCF, presentazione Nuovo soggettario, https://thes.bncf.firenze.sbn.it/ . Non attestata lettura integrale dei manuali né validazione di un tracciato MARC eseguibile. Il record didattico originale usa campi leggibili, non simula una notizia SBN autentica; non inventa ISBN o identificativi reali.
+
+Collegamenti: [[topics/m-ir02-universita-afam-fonti-e-profili]], [[entities/ministero-universita-ricerca]], [[books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access]].
+
+- `raw/correzioni-collana-2026-10-02/reicat-accessi.html` — SHA256 3bbf457ff0d89f66e46f7cc2f2f5f31bea0cd484c3f5e674234c6abc43ed4fdd.
+- `raw/correzioni-collana-2026-10-02/iccu-sbnmarc.html` — SHA256 8c8cde522f9a1aeeffb79507501b10f2b787c1011c746091ecdd28bfbe774e91.
+- `raw/correzioni-collana-2026-10-02/bncf-soggettario.html` — SHA256 21863ef2b019d92be3125bc84d04d3e6677d844a3c123fcc9ea04ee21decf34d.
+- `raw/correzioni-collana-2026-10-02/ifla-isbd.html` — SHA256 3f23378c750ba9e25c275424a3a873975c6e302fd8553dd009324e74c9fbb4e7.

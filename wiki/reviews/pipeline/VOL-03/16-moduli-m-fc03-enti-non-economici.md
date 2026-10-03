@@ -1,0 +1,38 @@
+# M-FC03 — Congelamento del testo, 3 ottobre 2026
+
+Il CLI ha restituito `gate-not-implemented`: verifica manuale svolta e documentata prima del comando `--accept`. Il precedente manifest è conservato negli artefatti, senza attribuire ai revisori storici le correzioni correnti.
+
+- 19 capitoli presenti e coerenti con l’indice.
+- 22 rilievi del modulo corretti; audit integrale e riesame specialistico corrente documentati.
+- Matrice: censimento storico e delta delle integrazioni riconciliati; nessuna lacuna nota aperta nel perimetro auditato.
+- Rinvii nel corpo: scansione dedicata con zero destinazioni o ancore irrisolte.
+- Micro-revisione dei delta e conservazione dei nuclei legittimi; correzioni normative verificate su fonti primarie.
+- Gate 14 e 15 superati; text-freeze restituisce gate-not-implemented e richiede verifica manuale.
+
+| File | Stato | Data | SHA-256 |
+| --- | --- | --- | --- |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md | text-frozen | 2026-10-03 | 702ade162e6316d51373b7461d4368f80ec32ea3e60a1c3a5a1a591ab146f5e7 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md | text-frozen | 2026-10-03 | 89a5e0f43a36530404c63485d08a0c313adba7dc1bff9f88ab0ae1e869406bc5 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md | text-frozen | 2026-10-03 | b41cf812ed9d3b0a12d1ba7408e34c8cad061b6b7f0c797a34c9bd0d4b114d58 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md | text-frozen | 2026-10-03 | 93bb466bb94751125235c9d05e735781551edcb5722ddb4c2449e74ed2cf286a |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md | text-frozen | 2026-10-03 | 5b3c9f477654903103b1130ce06d241f5f5725a3b297d1299f2dcec3308a121b |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md | text-frozen | 2026-10-03 | 05e57ead82830f32e37cf944b111cc9c4b0b0bff7f9b4f799805ddd4e532ff23 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md | text-frozen | 2026-10-03 | 96bb9255f664b94124062824c3be6bfe5ddded265763d4788054e5bf3fa4e725 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md | text-frozen | 2026-10-03 | c6f479868b5d4315ddc4934953d5619506fdca99a48f5ecb89b6fd6ee67820fc |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md | text-frozen | 2026-10-03 | 0df6e3b86520c62c1c89cc4b2324f6fbf94ae0de7f6db95c0a7f3de5e4c481f9 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md | text-frozen | 2026-10-03 | e5f24d61b4b6cb322ad239b2df0f835b9a5df00cfee1ac6f67ad646b7d387ec9 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md | text-frozen | 2026-10-03 | 3303040be0fb75c202ebfca2ed4ebaf4290d3fa87450707ea4e477f0e312ce5c |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md | text-frozen | 2026-10-03 | 6c7b92262d92848840a3fe48ba98c0f246817c754e24d6906499c17dd146036b |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md | text-frozen | 2026-10-03 | 91061250128fb426a71237fe8fb0335575affeb7506331fda210000387081f3f |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md | text-frozen | 2026-10-03 | 5710126a94e1bf9dca05ea563e923beb462f1aa85d44ba0bfb76a66ba0a6a534 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md | text-frozen | 2026-10-03 | 073c21893de8997357b6df51bcf4521e5051bf5aafe34823b4f216d395c08bc5 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md | text-frozen | 2026-10-03 | 4f3dc106820ac6c2aebea463e916869e234b4f965c8d41d697bf10cc6cc5eef5 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md | text-frozen | 2026-10-03 | cebbe6e75cb68e5e5cf12ed3c37b6e57e3c05a6fc693eb656366e3f750c3c732 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md | text-frozen | 2026-10-03 | 13bc483185454ea06c1ea38c8b3acb5887f0b30a5d2e03de8e67a4261b663220 |
+| wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md | text-frozen | 2026-10-03 | 703fa41b14db9143a47cf3e8b5f89dda21c05d28bbb27279e9849180dcd5af39 |
+| wiki/books/moduli/m-fc03-enti-non-economici/index.md | text-frozen | 2026-10-03 | e0f5dc777c0a7a1ebdcf0e657445de3650094091e8d2bf4c08a6b709613ffcb3 |
+| wiki/books/moduli/m-fc03-enti-non-economici/planning/02-matrice-copertura-didattica.md | text-frozen | 2026-10-03 | 35c4bfb1f46afefd7557e3be4badf22bc819f13489b7460c238b7c52bf9caab3 |
+
+## Limiti e riapertura
+
+Congelamento del testo del modulo, non delle figure e non di tutto VOL-03. PDF aggiornato e preflight restano necessari; nessuna dichiarazione di pubblicabilità. Ogni modifica sostanziale richiede riapertura dei gate editoriali pertinenti e aggiornamento del manifest.

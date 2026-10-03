@@ -8,259 +8,149 @@ module_code: M-TR04
 volume_code: VOL-11
 topics: ["ambiente", "protezione civile", "energia e clima", "sostenibilità"]
 source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
-updated_at: 2026-08-17
-review_required: true
+updated_at: 2026-10-03
+review_required: false
 canonical: false
 tags: ["planning", "coverage-matrix", "vol-11"]
 ---
 
-# Matrice di copertura didattica M-TR04 v4
+# Copertura effettiva M-TR04 — 3 ottobre 2026
 
-Stato di copertura del piano: completo per assegnazione dei nuclei, fonti e output; review normativa e source note individuali restano obbligatorie prima della scrittura finale.
+90 nuclei effettivi in 14 capitoli. La tabella analitica inventaria tutti i nuclei; la tabella canonica di copertura seguente mantiene le 14 unità di capitolo della matrice originaria, esplicitandone il perimetro aggregato. I conteggi Q/C/E di queste unità non sono attribuiti separatamente a ciascuno dei 90 nuclei. Le righe descrivono la copertura didattica del testo, non una certificazione integrale di ogni norma o bando. Il precedente scaffold e le attestazioni storiche sono archiviati in `planning/revisioni-2026-10-03/matrice-precedente.md`.
 
-| Nucleo ID | Famiglia/Profilo | Materia | Concetto | Priorità | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Note |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| N-TR04-01-01 | tutti | profili | differenze AMB/PC/EN/LOC | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 01 | mappa | caso classificazione | decoder | Q:6 C:1 E:1 | completo | richiesta | consolidare bandi |
-| N-TR04-02-01 | AMB/LOC | ambiente | D.Lgs. 152 e competenze MASE/ISPRA/SNPA | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 02 | teoria assegnata | caso applicativo assegnato | mappa competenze | Q:6 C:1 E:1 | completo | richiesta | source gap |
-| N-TR04-03-01 | AMB | valutazioni | VIA/VAS e screening | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 03 | teoria assegnata | caso applicativo assegnato | istruttoria | Q:6 C:1 E:1 | completo | richiesta | source gap |
-| N-TR04-04-01 | AMB/LOC | autorizzazioni | AIA/AUA/emissioni | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 04 | teoria assegnata | caso applicativo assegnato | checklist | Q:6 C:1 E:1 | completo | richiesta | source gap |
-| N-TR04-05-01 | AMB/LOC | acque | scarichi e servizio idrico | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 05 | teoria assegnata | caso applicativo assegnato | autorizzazione | Q:6 C:1 E:1 | completo | richiesta | source gap |
-| N-TR04-06-01 | AMB/LOC | rifiuti | classificazione, RENTRI, FIR, MUD | alta | sources/rifiuti-rentri-fir-mud-quadro-ufficiale-2026 | cap. 06 | teoria integrale verificata | caso manutenzione sviluppato | scheda classificazione + registro/FIR | Q:6 C:1 E:1 | completo | eseguita 2026-08-11 | verificato; dato FIR marcato e datato |
-| N-TR04-07-01 | AMB/LOC | bonifiche | contaminazione, bonifica, danno | alta | sources/bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026 | cap. 07 | teoria integrale verificata | caso ex area produttiva sviluppato | piano istruttorio in dieci passaggi | Q:6 C:1 E:1 | completo | eseguita 2026-08-12 | verificato; competenze territoriali da ricontrollare sul caso concreto |
-| N-TR04-08-01 | AMB/LOC | monitoraggio | aria, rumore, dati ARPA | media | sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026 | cap. 08 | teoria integrale verificata | caso scuola-traffico-attività sviluppato | piano integrato aria-rumore | Q:6 C:1 E:1 | completo | eseguita 2026-08-13 | verificato; recepimento direttiva UE e competenze territoriali al text freeze |
-| N-TR04-09-01 | AMB/LOC | controlli | sanzioni e reati ambientali | alta | sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026 | cap. 09 | teoria integrale verificata | caso Eco-Ripresa sviluppato | verbale + matrice fatto/prova/norma/esito | Q:6 C:1 E:1 | completo | eseguita 2026-08-13 | verificato; D.Lgs. 81/2026, riforma rifiuti, competenze territoriali e giurisprudenza da ricontrollare al text freeze |
-| N-TR04-10-01 | PC | protezione civile | Servizio nazionale e pianificazione | alta | sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026 | cap. 10 | teoria integrale verificata | caso Vallechiara sviluppato | piano sintetico + matrice scenario/azione/responsabile/risorsa/verifica | Q:6 C:1 E:1 | completo | eseguita 2026-08-14 | verificato; testo del Codice, disciplina regionale, indirizzi territoriali e dati operativi da ricontrollare al text freeze |
-| N-TR04-11-01 | PC | rischi | allertamento, IT-Alert, emergenze | alta | sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026 | cap. 11 | teoria integrale verificata | caso Vallechiara a due rami sviluppato | briefing operativo + matrice situazione/decisione/azione/verifica | Q:6 C:1 E:1 | completo | richiesta | copertura verificata; casi d'uso IT-alert, direttiva 2026, procedure regionali e dati operativi da ricontrollare al text freeze |
-| N-TR04-12-01 | EN | energia/clima | rinnovabili, CER, efficienza | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 12 | teoria assegnata | caso applicativo assegnato | piano energia | Q:6 C:1 E:1 | completo | richiesta | normativa mobile |
-| N-TR04-13-01 | EN/AMB | sostenibilità | DNSH, CAM, ciclo di vita | alta | sources/m-tr04-source-bundle-ambiente-protezione-civile-2026 | cap. 13 | teoria assegnata | caso applicativo assegnato | checklist | Q:6 C:1 E:1 | completo | richiesta | rinvio VOL-09 solo per procurement |
-| N-TR04-14-01 | tutti | prove | casi e quesiti sintetici | media | dossier + fonti capitoli 02-13 | cap. 14 | teoria assegnata | simulazione assegnata | simulazione | Q:6 C:1 E:1 | completo | richiesta | dipende dalla copertura |
+| Nucleo | Contenuto | Capitolo | Fonti del delta | Evidenza didattica | Esito | Limite |
+|---|---|---|---|---|---|---|
+| N-TR04-01-01 | Perché M-TR04 è una famiglia trasversale | 01 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-01-02 | I quattro profili in una pagina | 01 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Quattro consegne sullo stesso territorio; AMB — Funzionario ambiente, MASE, ISPRA o ARPA; PC — Specialista di protezione civile | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-01-03 | Dal dato alla decisione pubblica | 01 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Dalla misura alla conclusione: una scheda compilata | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-01-04 | Enti, fonti e responsabilità | 01 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Gerarchia e aggiornamento: come leggere tre documenti | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-01-05 | Il Bando Decoder M-TR04 | 01 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Decoder compilato: una selezione didattica; Domanda da commissario; Domanda-trappola | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-02-01 | La struttura funzionale del D.Lgs. 152/2006 | 02 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Parti e principi da collegare ai casi | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-02-02 | MASE, ISPRA, SNPA e ARPA | 02 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-02-03 | Stato, Regioni ed enti locali | 02 | sources/vol-11-ambiente-rettifiche-2026-10-03 | La base costituzionale | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-02-04 | Dati ambientali, LEPTA e controlli | 02 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Che cosa sono i LEPTA; Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-02-05 | Caso guidato: chi fa cosa? | 02 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Domanda da commissario; Domanda-trappola; Errore tipico | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-02-06 | Applicazione: la mappa “chi fa cosa?” | 02 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Due mappe compilate da confrontare | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-03-01 | Funzione delle valutazioni ambientali | 03 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-03-02 | Valutazione Ambientale Strategica | 03 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-03-03 | Valutazione di Impatto Ambientale | 03 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-03-04 | Screening e verifica preliminare | 03 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Tre procedimenti distinti, tre domande | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-03-05 | Procedimento, soggetti e partecipazione | 03 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Competenza, partecipazione e provvedimenti unici | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-03-06 | Uso concorsuale: distinguere, applicare, rispondere | 03 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-04-01 | La funzione delle autorizzazioni ambientali | 04 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-04-02 | AIA, approccio integrato, BAT e BAT-AEL | 04 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Campo AIA e riesame | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-04-03 | AUA: semplificazione, SUAP e autorità competente | 04 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Durata e calendario AUA | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-04-04 | Emissioni in atmosfera: stabilimento, punti e monitoraggio | 04 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Regime ordinario e regimi dell'art. 272 | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-04-05 | Istruttoria, prescrizioni, modifiche e controlli | 04 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-04-06 | Caso ragionato: scegliere l'iter e costruire la checklist | 04 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Checklist finale del caso; Domanda-trappola; Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-05-01 | Tutela delle acque e qualificazione del refluo | 05 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Qualità del corpo idrico e pianificazione | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-05-02 | Scarico, rete fognaria e rifiuto liquido | 05 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-05-03 | Autorizzazione agli scarichi e istruttoria | 05 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Durata, rinnovo e recapiti vietati; Checklist istruttoria della domanda | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-05-04 | Limiti, campionamento e controllo | 05 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Caso numerico: solidi sospesi in fognatura; Traccia minima del verbale | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-05-05 | Servizio idrico integrato e riparto dei ruoli | 05 | sources/vol-11-ambiente-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-05-06 | Caso ragionato: nuovo scarico industriale in fognatura | 05 | sources/vol-11-ambiente-rettifiche-2026-10-03 | 1. Qualificazione del refluo; 2. Titolo e competenza; 3. Integrazioni da richiedere | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-06-01 | Rifiuto, sottoprodotto e cessazione della qualifica di rifiuto | 06 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Quando il recupero produce un materiale che non è più rifiuto; Metodo di soluzione | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-06-02 | Gerarchia dei rifiuti ed economia circolare | 06 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Spiegazione e applicazioni del nucleo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-06-03 | Classificazione: origine, codice EER e caratteristiche di pericolo | 06 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Codici reali e voci specchio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-06-04 | Responsabilità, deposito temporaneo e filiera autorizzata | 06 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Titolo dell'impianto e titolo del trasportatore | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-06-05 | RENTRI, registro cronologico, FIR e MUD | 06 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Chi si iscrive e chi è escluso; Dato operativo — FIR digitale dal 16 settembre 2026 | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-06-06 | Caso guidato: rifiuti prodotti durante una manutenzione | 06 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Registro e FIR: esempio compilato e riconciliato; Modello essenziale di controllo | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-07-01 | Perimetro, matrici, CSC e CSR | 07 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Il caso di uguaglianza alla soglia; Da sapere in 5 righe | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-07-02 | Evento, prevenzione e avvio della procedura | 07 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-07-03 | Caratterizzazione e analisi di rischio sito-specifica | 07 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Calendario della procedura ordinaria; Checklist di lettura dell'analisi di rischio; Domanda-trappola | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-07-04 | Responsabile, proprietario non responsabile e intervento pubblico | 07 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Errore tipico | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-07-05 | Bonifica, messe in sicurezza e certificazione | 07 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-07-06 | Siti orfani, siti di interesse nazionale e danno ambientale | 07 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Responsabilità e confini della Parte sesta | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-07-07 | Caso guidato: piano istruttorio per un'ex area produttiva | 07 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | 1. Qualificare la segnalazione e l'urgenza; 2. Controllare comunicazioni e soggetti; 3. Costruire la storia del sito | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-08-01 | Perimetro: aria ambiente, emissioni, rumore e dato | 08 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Da sapere in 5 righe | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-08-02 | Qualità dell'aria: quadro, zonizzazione e valutazione | 08 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Valori e tempi di mediazione; Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-08-03 | Reti e qualità del dato atmosferico | 08 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Checklist del dato utilizzabile | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-08-04 | Rumore: legge quadro, classificazione e valori | 08 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Classi acustiche e limiti assoluti di immissione; Domanda-trappola | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-08-05 | Misura acustica, mappe e piani d'azione | 08 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Leq, Lden e Lnight; Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-08-06 | Caso guidato: piano integrato di monitoraggio | 08 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Accesso alle informazioni ambientali; 1. Definire le domande; 2. Acquisire il quadro esistente | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-09-01 | Sistema dei controlli e soggetti | 09 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Da sapere in 5 righe | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-09-02 | Ispezione, prova e verbale | 09 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Checklist del verbale | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-09-03 | Misure amministrative e sanzioni | 09 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Il percorso della L. 689/1981; Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-09-04 | Contravvenzioni ambientali speciali | 09 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | La pena distingue contravvenzione e delitto; Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-09-05 | Prescrizione ed estinzione delle contravvenzioni | 09 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Sequenza e termini della procedura estintiva; Domanda-trappola; Confronto con acque ed emissioni | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-09-06 | Delitti contro l'ambiente e riforma del 2026 | 09 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Schema di lettura del possibile delitto | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-09-07 | Responsabilità dell'ente e caso ispettivo | 09 | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | Caso guidato: sopralluogo presso Eco-Ripresa S.r.l.; 1. Definire potere e gruppo; 2. Fotografare la situazione iniziale | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-10-01 | Funzione e attività di protezione civile | 10 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Da sapere in 5 righe | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-10-02 | Autorità, componenti e strutture operative | 10 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-10-03 | Competenze territoriali e sussidiarietà | 10 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Centri e direzione tecnica; Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-10-04 | Pianificazione come prevenzione non strutturale | 10 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Domanda-trappola | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-10-05 | Costruire il piano e il modello d'intervento | 10 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Tre aree con funzioni diverse; Checklist operativa del piano | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-10-06 | Partecipazione, inclusione, aggiornamento ed esercitazioni | 10 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Volontariato: attivazione e benefici; Errore tipico | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-10-07 | Caso guidato: il piano sintetico di Vallechiara | 10 | sources/vol-11-protezione-civile-verifica-2026-10-03 | 1. Definire il mandato; 2. Ricostruire il territorio; 3. Formulare gli scenari | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-11-01 | Dal rischio allo scenario operativo | 11 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Il fenomeno cambia la catena di previsione e risposta; Da sapere in 5 righe | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-11-02 | Architettura del sistema di allertamento | 11 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-11-03 | Prodotti, zone, soglie, criticità e colori | 11 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-11-04 | Dall'allerta alla fase operativa | 11 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Errore tipico | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-11-05 | IT-alert: sistema, casi d'uso e limiti | 11 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Dato operativo · IT-alert al 3 ottobre 2026; Domanda-trappola | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-11-06 | Gestire l'emergenza e costruire il briefing | 11 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Checklist del briefing | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-11-07 | Caso guidato: due rami per Vallechiara | 11 | sources/vol-11-protezione-civile-verifica-2026-10-03 | Ramo A · Allerta meteo-idrogeologica; Ramo B · Incidente rilevante nell'area produttiva; Matrice decisionale del caso | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-12-01 | Governare clima ed energia | 12 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Dato operativo · Quadro climatico UE verificato il 18 agosto 2026; Da sapere in 5 righe; Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-12-02 | Leggere il sistema energetico e le rinnovabili | 12 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Mini-esercizio; Errore tipico | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-12-03 | Dalla fonte al titolo: regimi e dipendenze | 12 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Tre casi e i termini del testo vigente; Domanda-trappola; Checklist istruttoria | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-12-04 | Efficienza prima dell'offerta | 12 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Obblighi, APE e diagnosi: soggetti diversi; Calcolo completo di risparmio e ritorno; Da sapere in 5 righe | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-12-05 | Autoconsumo diffuso e CER | 12 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Partecipazione, controllo e perimetro; Esercizio TIAD: il minimo va calcolato ora per ora; Esempio ragionato | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-12-06 | Costruire il piano energia-clima | 12 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Checklist del piano; Risposta modello | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-12-07 | Caso guidato: il piano di Rivasole | 12 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | 1. Definire mandato e perimetro; 2. Ripulire inventario e baseline; 3. Stabilire obiettivi e criteri | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-13-01 | Mappa degli strumenti di sostenibilità | 13 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Da sapere in 5 righe; Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-13-02 | Tassonomia UE e sei obiettivi ambientali | 13 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Schema rapido; Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-13-03 | Applicare il DNSH lungo l'intervento | 13 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Come scegliere e applicare il regime; Checklist DNSH; Domanda-trappola | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-13-04 | GPP, PAN e Criteri ambientali minimi | 13 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Palestra: applicare un criterio CAM reale; Tabella di distinzione; Errore tipico | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-13-05 | Pensare e misurare il ciclo di vita | 13 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Le quattro fasi della LCA; LCC numerico su cinque anni; Da sapere in 5 righe | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-13-06 | Dalla regola alla matrice delle evidenze | 13 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | Matrice base delle evidenze; Domanda-trappola | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-13-07 | Caso guidato: la palestra sostenibile di Rivasole | 13 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | 1. Delimitare l'intervento; 2. Mappare i sei obiettivi; 3. Separare DNSH e CAM | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-14-01 | Il protocollo di soluzione | 14 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03; sources/vol-11-ambiente-rettifiche-2026-10-03; sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03; sources/legge-689-procedura-verifica-2026-10-03; sources/vol-11-protezione-civile-verifica-2026-10-03 | Dato mancante o regola da conoscere?; Da sapere in 5 righe; Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-14-02 | Scrivere una risposta sintetica valutabile | 14 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03; sources/vol-11-ambiente-rettifiche-2026-10-03; sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03; sources/legge-689-procedura-verifica-2026-10-03; sources/vol-11-protezione-civile-verifica-2026-10-03 | Simulazione 1 — Ruoli di MASE, ISPRA, SNPA e ARPA; Simulazione 2 — VIA, VAS, AIA e AUA; Errore tipico | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-14-03 | Risolvere il caso ambientale | 14 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03; sources/vol-11-ambiente-rettifiche-2026-10-03; sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03; sources/legge-689-procedura-verifica-2026-10-03; sources/vol-11-protezione-civile-verifica-2026-10-03 | Simulazione 3 — Scarico incerto; Simulazione 4 — Rifiuti da manutenzione; Mini-esercizio | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-14-04 | Dal sito contaminato al controllo | 14 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03; sources/vol-11-ambiente-rettifiche-2026-10-03; sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03; sources/legge-689-procedura-verifica-2026-10-03; sources/vol-11-protezione-civile-verifica-2026-10-03 | Simulazione 5 — Ex area produttiva; Simulazione 6 — Esposto per rumore ed emissioni; Domanda-trappola | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-14-05 | Gestire scenario ed emergenza | 14 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03; sources/vol-11-ambiente-rettifiche-2026-10-03; sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03; sources/legge-689-procedura-verifica-2026-10-03; sources/vol-11-protezione-civile-verifica-2026-10-03 | Simulazione 7 — Allerta a Vallechiara; Da sapere in 5 righe | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-14-06 | Decidere su energia e sostenibilità | 14 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03; sources/vol-11-ambiente-rettifiche-2026-10-03; sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03; sources/legge-689-procedura-verifica-2026-10-03; sources/vol-11-protezione-civile-verifica-2026-10-03 | Simulazione 8 — Piano energia-clima di Rivasole; Simulazione 9 — Variante alla palestra; Domanda da commissario | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
+| N-TR04-14-07 | Correggere e trasferire: la prova integrata | 14 | sources/vol-11-energia-sostenibilita-verifica-2026-10-03; sources/vol-11-ambiente-rettifiche-2026-10-03; sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03; sources/legge-689-procedura-verifica-2026-10-03; sources/vol-11-protezione-civile-verifica-2026-10-03 | Simulazione 10 — Evento integrato a Marina Verde; Mini-esercizio di trasferimento; Errori e trappole da evitare | Verificato nel perimetro concorsuale | Norme territoriali e fattispecie ulteriori da verificare nel caso concreto |
 
-## Totali
+## Apparati e verifiche
 
-- Righe: 14.
-- Completo: 14.
-- Parziale: 0.
-- Solo-nominato: 0.
-- Mancante: 0.
-- Rinviato: 0.
+84 quesiti finali originari, con soluzioni riesaminate; nuovi casi numerici e dieci simulazioni con formato richiesto. Appendici A–E nel capitolo 14; percorsi AMB/PC/EN/LOC e calendari alternativi nel capitolo 01. Il registro dei 44 rilievi specifica intervento ed evidenza. PDF aggiornato ancora da verificare.
 
-## Blocker ordinati
+## Copertura canonica delle 14 unità di capitolo
 
-1. Alta: consolidare fonti primarie e teoria per i nuclei 02-07, 09-13.
-2. Media: consolidare campione bandi e output per nuclei 01, 08, 14.
-3. Bassa: completare appendici e dati operativi dopo la copertura teorica.
-## Checklist dimensionale v4
+| Nucleo ID | Materia | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
+|---|---|---|---|---|---|---|---|---|---|
+| N-TR04-01-01 | Unità aggregata: Capitolo 01 — I quattro profili e la mappa del sistema | sources/vol-11-ambiente-rettifiche-2026-10-03 | cap. 01 | 5 nuclei da N-TR04-01-01 a N-TR04-01-05 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-02-01 | Unità aggregata: Capitolo 02 — D.Lgs. 152, MASE, ISPRA e SNPA | sources/vol-11-ambiente-rettifiche-2026-10-03 | cap. 02 | 6 nuclei da N-TR04-02-01 a N-TR04-02-06 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-03-01 | Unità aggregata: Capitolo 03 — VIA, VAS e valutazioni ambientali | sources/vol-11-ambiente-rettifiche-2026-10-03 | cap. 03 | 6 nuclei da N-TR04-03-01 a N-TR04-03-06 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-04-01 | Unità aggregata: Capitolo 04 — AIA, AUA, emissioni e autorizzazioni | sources/vol-11-ambiente-rettifiche-2026-10-03 | cap. 04 | 6 nuclei da N-TR04-04-01 a N-TR04-04-06 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-05-01 | Unità aggregata: Capitolo 05 — Acque, scarichi e servizio idrico | sources/vol-11-ambiente-rettifiche-2026-10-03 | cap. 05 | 6 nuclei da N-TR04-05-01 a N-TR04-05-06 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-06-01 | Unità aggregata: Capitolo 06 — Rifiuti, economia circolare e RENTRI | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | cap. 06 | 6 nuclei da N-TR04-06-01 a N-TR04-06-06 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-07-01 | Unità aggregata: Capitolo 07 — Bonifiche, siti contaminati e danno ambientale | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | cap. 07 | 7 nuclei da N-TR04-07-01 a N-TR04-07-07 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-08-01 | Unità aggregata: Capitolo 08 — Aria, rumore, monitoraggio e dati | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | cap. 08 | 6 nuclei da N-TR04-08-01 a N-TR04-08-06 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-09-01 | Unità aggregata: Capitolo 09 — Controlli, sanzioni e reati ambientali | sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03 | cap. 09 | 7 nuclei da N-TR04-09-01 a N-TR04-09-07 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-10-01 | Unità aggregata: Capitolo 10 — Sistema di protezione civile e pianificazione | sources/vol-11-protezione-civile-verifica-2026-10-03 | cap. 10 | 7 nuclei da N-TR04-10-01 a N-TR04-10-07 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-11-01 | Unità aggregata: Capitolo 11 — Rischi, allertamento, IT-alert ed emergenze | sources/vol-11-protezione-civile-verifica-2026-10-03 | cap. 11 | 7 nuclei da N-TR04-11-01 a N-TR04-11-07 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-12-01 | Unità aggregata: Capitolo 12 — Clima, energia, rinnovabili, CER ed efficienza | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | cap. 12 | 7 nuclei da N-TR04-12-01 a N-TR04-12-07 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-13-01 | Unità aggregata: Capitolo 13 — DNSH, CAM e sostenibilità della PA | sources/vol-11-energia-sostenibilita-verifica-2026-10-03 | cap. 13 | 7 nuclei da N-TR04-13-01 a N-TR04-13-07 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+| N-TR04-14-01 | Unità aggregata: Capitolo 14 — Laboratorio di casi e quesiti sintetici | sources/vol-11-energia-sostenibilita-verifica-2026-10-03; sources/vol-11-ambiente-rettifiche-2026-10-03; sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03; sources/legge-689-procedura-verifica-2026-10-03; sources/vol-11-protezione-civile-verifica-2026-10-03 | cap. 14 | 7 nuclei da N-TR04-14-01 a N-TR04-14-07 | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |
+
+## Checklist dimensionale delle unità aggregate
+
+Le dimensioni si riferiscono al capitolo intero: teoria nei nuclei elencati, applicazione nel caso e nei mini-esercizi, verifica nei sei quesiti finali. Il registro per ID identifica le integrazioni che colmano le lacune precedenti. Non si attesta che ogni paragrafo ripeta tutte le dimensioni.
 
 | Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Errore tipico | Verifica | Fonti |
 |---|---|---|---|---|---|---|---|---|---|---|
-| N-TR04-01-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-02-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-03-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-04-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-05-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-06-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-07-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-08-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-09-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-10-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-11-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-12-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-13-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| N-TR04-14-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-### Evidenze dimensionali — N-TR04-06-01
-
-| Dimensione | Esito | Evidenza nel capitolo 06 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-06-01`: nozione di rifiuto, sottoprodotto ed end of waste |
-| Funzione | ✓ | `N-TR04-06-02` e `N-TR04-06-05`: gerarchia, prevenzione e funzioni distinte degli strumenti di tracciabilità |
-| Inquadramento | ✓ | Apertura e `Spiegazione teorica`: parte quarta del D.Lgs. 152/2006 e sequenza della gestione |
-| Elementi | ✓ | `N-TR04-06-03`/`04`/`05`: codice EER, HP, deposito, titoli, registro, FIR, RENTRI e MUD |
-| Distinzioni | ✓ | Urbano/speciale, pericoloso/non pericoloso, sottoprodotto/end of waste, registro/FIR/MUD |
-| Conseguenze | ✓ | `N-TR04-06-03` e `04`: propagazione dell'errore di classificazione e responsabilità della filiera |
-| Esempio/caso | ✓ | `N-TR04-06-06`: manutenzione con assorbenti, solventi, imballaggi e liquidi aspirati |
-| Uso nella prova | ✓ | `Mappa BANDO`, metodo di soluzione, modello essenziale di controllo e sei quesiti commentati |
-| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sei nuclei |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti e risposte motivate |
-| Tracciabilità | ✓ | Frontmatter con `source_refs` e `last_compiled_from`; riferimenti normativi leggibili nel corpo e in chiusura |
-
-### Delta step 10 — capitolo 06
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-06-01 | completo per assegnazione | verificata la copertura dimensionale sul capitolo integrale; consolidata la fonte specifica e marcato il dato operativo FIR | completo verificato | sei nuclei, 5.000+ parole, caso guidato, Q:6, frontmatter tracciabile |
-
-### Evidenze dimensionali — N-TR04-07-01
-
-| Dimensione | Esito | Evidenza nel capitolo 07 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-07-01`: CSC, CSR e qualificazione di sito potenzialmente contaminato, contaminato o non contaminato |
-| Funzione | ✓ | `N-TR04-07-01`/`02`/`03`: funzione di screening delle CSC, funzione decisionale delle CSR e progressione prevenzione-caratterizzazione-analisi di rischio |
-| Inquadramento | ✓ | Apertura e `Spiegazione teorica`: parte quarta, titolo V, del D.Lgs. 152/2006 e rapporto distinto con la parte sesta |
-| Elementi | ✓ | `N-TR04-07-02`/`03`/`05`: comunicazioni, misure immediate, piano di caratterizzazione, modello concettuale, progetto, controlli e certificazione |
-| Distinzioni | ✓ | CSC/CSR, responsabile/proprietario non responsabile, bonifica/MISE/MISO/MISP, procedimento di bonifica/danno ambientale |
-| Conseguenze | ✓ | `N-TR04-07-01`/`04`/`06`: effetti del superamento delle soglie, ordini al responsabile, intervento pubblico e obblighi di riparazione |
-| Esempio/caso | ✓ | `N-TR04-07-07`: caso guidato dell'ex area produttiva con piano istruttorio in dieci passaggi |
-| Uso nella prova | ✓ | `Mappa BANDO`, domande da commissario, checklist, mini-esercizio e piano istruttorio essenziale |
-| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sette nuclei |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti e risposte commentate |
-| Tracciabilità | ✓ | Frontmatter con `source_refs` e `last_compiled_from`; fonti normative ufficiali richiamate nel corpo e nei riferimenti finali |
-
-### Delta step 10 — capitolo 07
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-07-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; sostituita la fonte generica con la source note ufficiale specifica; esplicitata la cautela sulle competenze territoriali | completo verificato | sette nuclei, oltre 5.700 parole, caso guidato, Q:6, frontmatter e riferimenti tracciabili |
-
-### Evidenze dimensionali — N-TR04-08-01
-
-| Dimensione | Esito | Evidenza nel capitolo 08 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-08-01`, `02` e `04`: aria ambiente, emissione, monitoraggio, dato ambientale e inquinamento acustico |
-| Funzione | ✓ | `N-TR04-08-02`/`03`/`05`: valutazione, gestione, QA/QC, accertamento, mappatura e piano d'azione |
-| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `02`/`04`: D.Lgs. 155/2010, direttiva UE 2024/2881, legge 447/1995 e D.Lgs. 194/2005 |
-| Elementi | ✓ | `N-TR04-08-03`, `05` e `06`: domanda, punti, tempi, metodi, strumenti, controlli, validazione, confronto e comunicazione |
-| Distinzioni | ✓ | aria ambiente/emissione; misura/monitoraggio/valutazione/controllo; dato grezzo/validato; emissione/immissione acustica; mappa/accertamento locale |
-| Conseguenze | ✓ | `N-TR04-08-02` e `06`: piani e misure, escalation, approfondimento, informazione e decisione amministrativa |
-| Esempio/caso | ✓ | `N-TR04-08-06`: scuola tra strada e attività produttiva, con dati civici e piano integrato |
-| Uso nella prova | ✓ | `Mappa BANDO`, domande da commissario, checklist del dato, mini-esercizio e piano operativo essenziale |
-| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sei nuclei |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti e risposte commentate |
-| Tracciabilità | ✓ | Frontmatter con `source_refs` e `last_compiled_from`; fonti normative e SNPA leggibili nel corpo e nei riferimenti finali |
-
-### Delta step 10 — capitolo 08
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-08-01 | completo per assegnazione | verificata la copertura delle undici dimensioni; consolidata la fonte specifica; rafforzati ruoli, confine col rumore professionale, rappresentatività della misura acustica e tracciabilità | completo verificato | sei nuclei oltre 600 parole, caso guidato, Q:6, piano integrato, frontmatter e riferimenti tracciabili |
-
-### Evidenze dimensionali — N-TR04-09-01
-
-| Dimensione | Esito | Evidenza nel capitolo 09 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-09-01`, `03`, `04` e `05`: controllo ambientale, misura conformativa e cautelare, sanzione, contravvenzione e procedura estintiva |
-| Funzione | ✓ | `N-TR04-09-01`/`02`/`03`: programmazione del controllo, formazione della prova, conformazione, protezione e accertamento della responsabilità |
-| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `01`/`05`/`06`/`07`: legge n. 132/2016, D.Lgs. n. 152/2006, legge n. 689/1981, codice penale e D.Lgs. n. 231/2001 |
-| Elementi | ✓ | `N-TR04-09-02`, `05` e `07`: fascicolo, accesso, campioni, catena di custodia, prescrizione, asseverazione, verifica, pagamento e requisiti della responsabilità dell'ente |
-| Distinzioni | ✓ | controllo/indagine; fatto/qualificazione; misura/sanzione; illecito amministrativo/contravvenzione/delitto; persona fisica/ente |
-| Conseguenze | ✓ | `N-TR04-09-03`/`05`/`06`/`07`: diffida, sospensione, ordinanza-ingiunzione, estinzione della contravvenzione, risposta penale e sanzioni all'ente |
-| Esempio/caso | ✓ | `N-TR04-09-07`: sopralluogo presso Eco-Ripresa S.r.l. risolto in dieci passaggi e matrice fatto/prova/norma/esito |
-| Uso nella prova | ✓ | `Mappa BANDO`, checklist del verbale, domande da commissario, mini-esercizi, sequenze operative e matrice conclusiva |
-| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sette nuclei |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti e risposte commentate |
-| Tracciabilità | ✓ | Frontmatter con `source_refs` e `last_compiled_from`; fonti normative ufficiali e Linee guida SNPA leggibili nel corpo e nei riferimenti finali |
-
-### Delta step 10 — capitolo 09
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-09-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; sostituita la fonte generica con la source note ufficiale specifica; esplicitati aggiornamento 2026, riforma rifiuti, competenze territoriali e controllo della giurisprudenza al text freeze | completo verificato | sette nuclei oltre 600 parole, 6.000+ parole, caso guidato, Q:6, verbale e matrice fatto/prova/norma/esito, frontmatter e riferimenti tracciabili |
-
-### Evidenze dimensionali — N-TR04-10-01
-
-| Dimensione | Esito | Evidenza nel capitolo 10 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-10-01`, `02` e `04`: Servizio nazionale, attività di protezione civile, autorità, componenti, strutture operative e pianificazione |
-| Funzione | ✓ | `N-TR04-10-01`/`04`/`05`: tutela, previsione, prevenzione, risposta, superamento e organizzazione preventiva del modello d'intervento |
-| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `01`/`03`/`04`: D.Lgs. n. 1/2018 e direttiva PCM 30 aprile 2021 |
-| Elementi | ✓ | `N-TR04-10-04`/`05`/`06`: livelli del piano, quadro territoriale, scenari, strategia, coordinamento, procedure, risorse, inclusione, aggiornamento ed esercitazioni |
-| Distinzioni | ✓ | previsione/prevenzione/gestione/superamento; rischio/evento; autorità/componente/struttura; piano/allerta; prevenzione strutturale/non strutturale |
-| Conseguenze | ✓ | `N-TR04-10-03`/`04`/`06`: attivazione del livello adeguato, richiesta di supporto, approvazione, informazione, aggiornamento e correzioni dopo esercitazione |
-| Esempio/caso | ✓ | `N-TR04-10-07`: Comune di Vallechiara risolto in dieci passaggi con quattro scenari nella matrice conclusiva |
-| Uso nella prova | ✓ | `Mappa BANDO`, domanda da commissario, mini-esercizio, domanda-trappola, checklist del piano e piano comunale sintetico |
-| Errore tipico | ✓ | Sezione `Errori e trappole da evitare`, box `Errore tipico` e limiti distribuiti nei sette nuclei |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti e risposte commentate |
-| Tracciabilità | ✓ | Frontmatter con `source_refs` e `last_compiled_from`; Codice, direttiva 2021 e indicazioni 2025 leggibili nel corpo e nei riferimenti finali |
-
-### Delta step 10 — capitolo 10
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-10-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; sostituita la fonte generica con la source note ufficiale specifica; consolidati distinzione dei ruoli, sostenibilità del piano, inclusione, aggiornamento ed esercitazioni | completo verificato | sette nuclei oltre 600 parole, 5.600+ parole, caso guidato, Q:6, piano sintetico e matrice scenario/azione/responsabile/risorsa/verifica, frontmatter e riferimenti tracciabili |
-
-### Evidenze dimensionali — N-TR04-11-01
-
-| Dimensione | Esito | Evidenza nel capitolo 11 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-11-01`, `02`, `03` e `05`: pericolosità, esposizione, vulnerabilità, scenario, allertamento, criticità, allerta e sistema IT-alert |
-| Funzione | ✓ | `N-TR04-11-02`, `04` e `05`: trasformazione delle valutazioni in attivazione, raccordo tra allerta e azioni locali, allarme pubblico per l'autoprotezione |
-| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `02`, `05` e `06`: art. 17 del D.Lgs. n. 1/2018, direttive sull'allertamento e IT-alert, artt. 7, 24 e 25 sulla gestione dell'emergenza |
-| Elementi | ✓ | `N-TR04-11-01`, `03`, `05` e `06`: componenti dello scenario, campi dei prodotti, cell broadcast, limiti tecnici e struttura del briefing |
-| Distinzioni | ✓ | rischio/scenario; previsione/monitoraggio; criticità/allerta/fase operativa; allerta/IT-alert; attivazione immediata/stato di emergenza/ordinanza |
-| Conseguenze | ✓ | `N-TR04-11-04`/`05`/`06`: attivazione graduata, presidi e comunicazioni, gestione dei mancati recapiti, escalation, tracciabilità e aggiornamento |
-| Esempio/caso | ✓ | `N-TR04-11-07`: Vallechiara sviluppata nei rami allerta meteo-idrogeologica e incidente industriale con messaggio IT-alert |
-| Uso nella prova | ✓ | `Mappa BANDO`, domanda da commissario, domanda-trappola, mini-esercizio, checklist e briefing modello in dodici punti |
-| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sette nuclei |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti a quattro opzioni e risposte commentate |
-| Tracciabilità | ✓ | Frontmatter con `source_refs`, `last_compiled_from` e dato operativo dichiarato; riferimenti normativi e professionali leggibili nel corpo e in chiusura |
-
-### Delta step 10 — capitolo 11
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-11-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; collegata la fonte ufficiale specifica; documentati scenario, allertamento, fasi operative, IT-alert, gestione dell'emergenza e briefing senza sostituire la teoria con caso o quiz | completo verificato | sette nuclei oltre 600 parole, 5.800+ parole, caso guidato a due rami, Q:6, briefing operativo, frontmatter e riferimenti tracciabili |
-
-### Evidenze dimensionali — N-TR04-12-01
-
-| Dimensione | Esito | Evidenza nel capitolo 12 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-12-01`, `02`, `04` e `05`: mitigazione, adattamento, energia, potenza, efficienza, autoconsumo diffuso e CER |
-| Funzione | ✓ | `N-TR04-12-01`/`04`/`06`: governo degli obiettivi climatici, riduzione del fabbisogno e trasformazione delle priorità in piano attuabile |
-| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `01`/`03`/`05`: legge europea sul clima, governance UE, RED III, disciplina nazionale FER, TIAD e regole GSE |
-| Elementi | ✓ | `N-TR04-12-02`/`03`/`05`/`06`: profili, producibilità, titoli, tutele, rete, sostegno, partecipanti, baseline, indicatori, roadmap e rischi |
-| Distinzioni | ✓ | mitigazione/adattamento; kW/kWh; fonte/vettore; titolo/tutela/connessione/sostegno; energia prodotta, immessa, condivisa e incentivabile |
-| Conseguenze | ✓ | `N-TR04-12-03`/`04`/`05`/`06`: effetti istruttori dei regimi, qualità della baseline, requisiti della configurazione e condizioni di passaggio del piano |
-| Esempio/caso | ✓ | `N-TR04-12-07`: piano energia-clima di Rivasole sviluppato in otto passaggi con matrice operativa |
-| Uso nella prova | ✓ | `Mappa BANDO`, domande da commissario, domande-trappola, mini-esercizio, checklist istruttoria e risposta modello |
-| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sette nuclei |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti a quattro opzioni e risposte commentate |
-| Tracciabilità | ✓ | Frontmatter con `source_refs`, `last_compiled_from` e dato operativo dichiarato; riferimenti UE, nazionali, ARERA e GSE leggibili nel corpo e in chiusura |
-
-### Delta step 10 — capitolo 12
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-12-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; documentate separazione tra obiettivi, misure e titoli, lettura dei dati energetici, efficienza, CER e pianificazione senza sostituire la teoria con caso o quiz | completo verificato | sette nuclei, oltre 6.100 parole, caso guidato, Q:6, piano energia-clima, frontmatter e riferimenti tracciabili |
-
-### Evidenze dimensionali — N-TR04-13-01
-
-| Dimensione | Esito | Evidenza nel capitolo 13 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-13-01`, `02`, `04` e `05`: sostenibilità della PA, tassonomia, DNSH, GPP, CAM, ciclo di vita, LCA e LCC |
-| Funzione | ✓ | `N-TR04-13-01`/`03`/`06`: distinzione degli strumenti, prevenzione del danno significativo e governo verificabile di requisiti ed evidenze |
-| Inquadramento | ✓ | `Spiegazione teorica` e nuclei `02`/`03`/`04`: regolamento (UE) 2020/852, guida DNSH, D.Lgs. 36/2023, PAN GPP e CAM pertinenti |
-| Elementi | ✓ | `N-TR04-13-02`/`03`/`04`/`06`: sei obiettivi ambientali, fasi ex ante/in itinere/ex post, criteri, mezzi di prova, responsabili, esiti e azioni correttive |
-| Distinzioni | ✓ | contributo sostanziale/DNSH; tassonomia/DNSH; DNSH/CAM; specifica/clausola/criterio premiante; ciclo di vita/LCA/LCC; requisito/evidenza/risultato |
-| Conseguenze | ✓ | `N-TR04-13-03`/`04`/`06`: riapertura delle verifiche in caso di variante, gestione delle non conformità, controlli e aggiornamento del fascicolo |
-| Esempio/caso | ✓ | `N-TR04-13-07` e caso ragionato finale: palestra di Rivasole con variante, rifiuti, materiali e matrice delle evidenze |
-| Uso nella prova | ✓ | `Mappa BANDO`, domanda da commissario, domande-trappola, mini-esercizi, checklist e matrice operativa |
-| Errore tipico | ✓ | Sezione `Errori e trappole da evitare` e richiami distribuiti nei sette nuclei |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti a quattro opzioni, risposte commentate e caso ragionato |
-| Tracciabilità | ✓ | Frontmatter con `source_refs`, `last_compiled_from` e dati operativi; riferimenti UE, RGS, Codice dei contratti e MASE leggibili nel corpo e in chiusura |
-
-### Delta step 10 — capitolo 13
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-13-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; documentati tassonomia, DNSH, CAM, ciclo di vita e catena delle evidenze, con confini espliciti rispetto a procurement e progettazione specialistica | completo verificato | sette nuclei, 6.699 parole, caso guidato con variante, Q:6, matrice delle evidenze, frontmatter e riferimenti tracciabili |
-
-### Evidenze dimensionali — N-TR04-14-01
-
-| Dimensione | Esito | Evidenza nel capitolo 14 |
-|---|---|---|
-| Definizione | ✓ | `N-TR04-14-01`/`02`: protocollo di soluzione, consegna, output, vincoli, tesi iniziale, densità e revisione finale |
-| Funzione | ✓ | `N-TR04-14-01`/`07`: trasformare conoscenze specialistiche in prestazione valutabile e usare la correzione per il trasferimento tra aree |
-| Inquadramento | ✓ | `Spiegazione teorica` e riferimenti finali: raccordo metodologico con il Metodo BANDO e quadro specialistico dei capitoli 02-13 |
-| Elementi | ✓ | `N-TR04-14-01`/`03`/`05`/`07`: verbo, destinatario, fatti, dati mancanti, competenza, procedimento, evidenze, decisione, controllo, griglia e diario degli errori |
-| Distinzioni | ✓ | fatto/prova/regola/decisione/controllo; definizione/elenco/applicazione; allerta/fase operativa; obiettivo/misura/indicatore; requisito/evidenza/esito |
-| Conseguenze | ✓ | Le dieci simulazioni mostrano come omissioni, dati mancanti, qualificazioni e vincoli cambiano struttura, decisione e punteggio della risposta |
-| Esempio/caso | ✓ | `Simulazione 1`-`10`: due quesiti sintetici, sette casi settoriali e una prova integrata; caso ragionato ulteriore nella verifica |
-| Uso nella prova | ✓ | Limiti di righe e tempo, tracce di soluzione, risposte modello, griglie di correzione ed errori da registrare |
-| Errore tipico | ✓ | Richiami nei nuclei e nelle simulazioni, con registrazione dell'errore e controllo finale |
-| Verifica | ✓ | Blocco `▣ Verifica` con sei quesiti a quattro opzioni, risposte commentate e caso ragionato ulteriore |
-| Tracciabilità | ✓ | Frontmatter con `source_refs` e `last_compiled_from`; riferimenti normativi e rinvii pubblicabili ai capitoli specialistici leggibili nel corpo |
-
-### Delta step 10 — capitolo 14
-
-| Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
-|---|---|---|---|---|
-| N-TR04-14-01 | completo per assegnazione | verificata la copertura delle undici dimensioni sul capitolo integrale; documentata la progressione dal protocollo alla prova integrata e alla correzione, senza usare simulazioni e quiz come sostituti del metodo | completo verificato | sette nuclei, 5.927 parole, dieci simulazioni, Q:6, caso ragionato ulteriore, griglie, frontmatter e riferimenti tracciabili |
+| N-TR04-01-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-02-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-03-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-04-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-05-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-06-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-07-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-08-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-09-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-10-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-11-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-12-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-13-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |
+| N-TR04-14-01 | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo | ✓ capitolo |

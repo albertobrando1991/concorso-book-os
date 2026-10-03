@@ -133,6 +133,8 @@ Sullo step 15 `next` estrae automaticamente ogni box `Dato operativo` dai capito
 
 La review umana avviene una sola volta, allo step 24, dopo revisione totale, preflight e preparazione della consegna. La scheda volume non contiene assegnazioni nominative: la persona conferma la validità del pacchetto già completo oppure lo respinge, riaprendo i gate automatici pertinenti.
 
+Una riapertura con `--cascade` invalida anche la conferma dello step 24: il pacchetto modificato deve essere approvato nuovamente dopo i controlli. La conferma precedente rimane nella cronologia delle evidenze, mentre stato, gate e data di completamento tornano pendenti. Questo non concede una nuova approvazione e non consente di chiudere automaticamente lo step umano.
+
 Le soglie ordinarie sono dichiarate nel contratto degli step 09-10 e possono essere aumentate per capitolo con le colonne `Min parole` e `Min quiz` della scheda. La matrice di modulo è autoritativa; quella di volume si genera con `node scripts/aggregate-coverage-matrices.mjs`.
 
 Strumenti retrofit: `scripts/retrofit/audit-debito.mjs`, `pulisci-contratto.mjs`, `proponi-nuclei.mjs` ed `estrai-item.mjs`. L'audit campiona anche la checklist dimensionale; la proposta nuclei incrocia gli heading con la matrice. Solo `pulisci-contratto.mjs --write` modifica i capitoli.

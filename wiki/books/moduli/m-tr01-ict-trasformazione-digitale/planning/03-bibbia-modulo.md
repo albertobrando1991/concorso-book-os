@@ -7,7 +7,7 @@ domain: "concorsi pubblici italiani"
 source_refs: ["sources/logica-volumi-copertura-concorsobook-v4", "sources/principio-copertura-didattica-integrale-2026-07-17"]
 book_refs: ["m-tr01-ict-trasformazione-digitale"]
 confidence: 0.9
-updated_at: 2026-08-05
+updated_at: 2026-10-03
 created_at: 2026-08-05
 review_required: false
 canonical: false
@@ -47,3 +47,7 @@ Distinguere autenticazione/autorizzazione; evento/log/alert/incidente; rischio i
 ## Stato delle verifiche
 
 I gate individuali 08-12 dei capitoli 01-13 sono completati. La revisione trasversale del modulo è allo step 13, attualmente in corso; correzioni, audit specialistico automatico dello step 15 e text freeze degli step 14-16 non sono ancora svolti. Le verifiche visive, l'audit di impaginazione e la conferma umana restano nelle rispettive fasi successive; fonti mobili e vigenza si ricontrollano quando cambia cut-off o bando target.
+
+## Rettifiche del 3 ottobre 2026
+
+I 32 rilievi dell’audit integrale sono applicati. Fonti puntuali e topic sono consolidati; tabelle interne di verifica spostate in `planning/verifiche/`. La pubblicabilità richiede nuovi controlli sulle figure e sul PDF, distinti dal testo. Il CLI possiede l’ordine e lo stato dei gate.

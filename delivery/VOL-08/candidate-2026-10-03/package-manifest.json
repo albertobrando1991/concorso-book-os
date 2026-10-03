@@ -1,0 +1,577 @@
+{
+  "volume": "VOL-08",
+  "date": "2026-10-03",
+  "pdfSha256": "ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de",
+  "finalSignoff": false,
+  "files": [
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-08-cover.pdf",
+      "bytes": 149836,
+      "sha256": "93cbd7568540d03173ffdd2b856947c3d079782dc6de0b080ed3db0328443834"
+    },
+    {
+      "path": "dom-metrics.json",
+      "bytes": 605783,
+      "sha256": "108d1cb4ccf7ed2c53f39a8ca7402a6f3f55db874d8c5c74c1e1a7012bda1cf5"
+    },
+    {
+      "path": "index-subentries.json",
+      "bytes": 13858,
+      "sha256": "1b339e74e8a074616cdcddf546a57fd83dc67c99a4f95d1686b21469a6f56bd7"
+    },
+    {
+      "path": "page-ledger.json",
+      "bytes": 105890,
+      "sha256": "0896804bb89ced255f54d107b64bf91785fbd3944f66208ee26f04fd1d192eb1"
+    },
+    {
+      "path": "payload.json",
+      "bytes": 677785,
+      "sha256": "c35e6174b7bbb6817f598da6522b48f0a902dcde26ed117132efdaf370e11771"
+    },
+    {
+      "path": "pdf-geometry.json",
+      "bytes": 36064,
+      "sha256": "6badd35fd125fcfeef4f472392bd88fb1a3838977b7f96f8025808963bd2f521"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1922,
+      "sha256": "05317bb09eb007157dc003a7c338fadfe81f6b8263fe5dbe1de8d369e375df5f"
+    },
+    {
+      "path": "renderer-source-hashes.json",
+      "bytes": 1428,
+      "sha256": "9647ea01c1e333aeee481996057d992e77a69f6066c59abab6cc59d7e602faa7"
+    },
+    {
+      "path": "reports/M-TR01-freeze.json",
+      "bytes": 8615,
+      "sha256": "2f485e235915302dd78bb14e35a02fc6000308d0662d6ed0d96d900adb4ed8be"
+    },
+    {
+      "path": "reports/PDF-VOL-08.md",
+      "bytes": 5041,
+      "sha256": "eb92ef69bf84356ce99b2fb040d5f9e12750db1d81ceda25aa8d2f9c47f54ec8"
+    },
+    {
+      "path": "reports/VOL-08-ledger.json",
+      "bytes": 29551,
+      "sha256": "4417d415999bc5809e51563360d3c31bf7f07f598156673017cd64cb04aa510c"
+    },
+    {
+      "path": "reports/VOL-08.md",
+      "bytes": 16498,
+      "sha256": "b7895043192b9e23ab5dbe23e6b5726f6dfd5c1e663897d1600854d7e6728230"
+    },
+    {
+      "path": "reproduction/export-frozen.mjs",
+      "bytes": 4493,
+      "sha256": "6b0d1256ae6f3ca2d24cbc854f3bb5f30238ec9b30fc00bb82810642a3ae179d"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+      "bytes": 37054,
+      "sha256": "0964ed1a8847d871bceae09f3f39faa1ae5f9dfe60650758b4d9b2a6b553652f"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md",
+      "bytes": 36965,
+      "sha256": "50b95d5b3e1d80197aacd73e135597bfde68bd7fe9b8aa9c0d20a77e6e0eff2f"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+      "bytes": 36379,
+      "sha256": "af390158e90e3bd57b7a9600e772d6f07c92403a3e131f93e2bdc469652bcb7f"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+      "bytes": 40667,
+      "sha256": "be77f3293722e2aea4057a9c3dfedd8339669464ba09b5d9473104558d6f0199"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
+      "bytes": 38125,
+      "sha256": "01dc0e85b978010ec9dfe0bf35f8e7c86e2d68262e0561c732c41e4bc290bf5b"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+      "bytes": 44631,
+      "sha256": "3dd4289386c3c372f93cc74e69c3be7c44e33f42d8b32ff7337720eafa6f62e1"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+      "bytes": 42745,
+      "sha256": "57c3c5b26d7bdf5319434a25a8291c1fd7b20d1e8b2ee095e94090600273af37"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "bytes": 41745,
+      "sha256": "b9b11a25f0609d704198171301a8f3b501d823f110618e495dd2d8e510699661"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+      "bytes": 41332,
+      "sha256": "95b8dc570b02aab9db21846acadcafe1c1d6f55d13c72e1a0666448058c5944d"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+      "bytes": 43859,
+      "sha256": "66f5e4c154a0bf270b3d2dc6699e634e03c39f0665d909a938b57fea377ab149"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+      "bytes": 44820,
+      "sha256": "a549642f409bebe77ba51a6003141cd557a7638febbd80eb5ed877bb10a00a88"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+      "bytes": 60146,
+      "sha256": "5ad8bc1b3dc719e5fc78daea2ab565b131928fe0a09c0e75053cab95f7a77ff7"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
+      "bytes": 53169,
+      "sha256": "5d04e416276b1dd88cb42989764412a19b64274a843336afdbad80ffe2bbc10b"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/index.md",
+      "bytes": 16453,
+      "sha256": "d1496208022e4cfb74ec57281fdbf903553c710faa367338583abd252179d2b3"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/02-matrice-copertura-didattica.md",
+      "bytes": 421094,
+      "sha256": "e919408f5599d9d18add70853d2d75c030dc9b7f0a94c4319f0e386d11ef46c2"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/10-manifest-nuclei-format-2.json",
+      "bytes": 222379,
+      "sha256": "9dcfd3ec79d147f7490102fabebfb361730bfaf9b8aea632066d0cf23f64282c"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/01-lavorare-ict-pa-ruoli-enti-prove.md",
+      "bytes": 631,
+      "sha256": "ae0468a5a38213b511247e13195ed495606f0a424a802a8100a6abc5f2af1b06"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/02-informatica-specialistica-oltre-vol-01.md",
+      "bytes": 688,
+      "sha256": "0a3af5ccaea7cf5cdac5b458c80dbf21786a6292ce782e315f46b0f982ed4500"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/03-programmazione-algoritmi-strutture-dati.md",
+      "bytes": 629,
+      "sha256": "35b293fab3aae1d942cb69abfd6b6967ec7939a50a80733015ad3fc2c8475282"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/04-basi-dati-sql-nosql-qualita-dato.md",
+      "bytes": 675,
+      "sha256": "3681c65ca039f1cf7cd76a10c68fde9600b57ba0016cc988cf814c969e147268"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/05-reti-sistemi-operativi-infrastrutture.md",
+      "bytes": 661,
+      "sha256": "7191f49c1a3d322bf1b56c1a587188c15ce5357e8f4db487272397b0c13b2a6b"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/06-ingegneria-software-api-interoperabilita-pa.md",
+      "bytes": 692,
+      "sha256": "aa44a57fa75f3aae835554656886dfcde848a7a49b94f5d72e5b93829ec483f5"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/07-cloud-pa-virtualizzazione-container-devops.md",
+      "bytes": 766,
+      "sha256": "1fea7404e8dc0980a3183989f2978767f347a3e5438a996c600452e175a329fd"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "bytes": 889,
+      "sha256": "4f4c6a8795daba925992b351758cd0c8694dc84baccf52208efba370d46fa9bb"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/09-iam-crittografia-logging-incident-response.md",
+      "bytes": 1135,
+      "sha256": "02994ec68c232e350c7df1c871133db31ce693487249feea23e523ac38ec0548"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/10-data-governance-open-data-interoperabilita.md",
+      "bytes": 1253,
+      "sha256": "2431949116abb340eb7222c34700b704f8e7f3fc8b2dfac9a5a05c322ee94b62"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/11-ai-ml-pa-rischi-compliance.md",
+      "bytes": 1040,
+      "sha256": "0beb9a2acaf5fdcc47c79efe01dd6af12b4cd79fb6b0d327eec7c43bd9ce81a6"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/12-procurement-ict-gestione-fornitori.md",
+      "bytes": 866,
+      "sha256": "5680775798bf9b5bb7e8d6d87caa2b99a080134825669c4228620fd4cab050ef"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/13-laboratorio-prove-ict.md",
+      "bytes": 740,
+      "sha256": "6f46097d8e6f2d088542012236815035ab012661acc5746fa42d045d21bdec1b"
+    },
+    {
+      "path": "snapshot/wiki/books/volumi/vol-08-ict-digitale-cybersecurity-dati/index.md",
+      "bytes": 1406,
+      "sha256": "54db51bee80507eb817d4f3336cc39a40a2413f901815ace14f81c329bc3ac03"
+    },
+    {
+      "path": "snapshot/wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+      "bytes": 2891,
+      "sha256": "242b547136e3ab8e3263b8fbd7c71fa47ec9fe7ba550d75da4e78c54d7e11945"
+    },
+    {
+      "path": "snapshot/wiki/sources/ai-ml-governance-rischi-compliance-fonti-primarie.md",
+      "bytes": 5883,
+      "sha256": "57aceb2f8e0c0576de3aad3c70ac804a74dac58ea6e0de86defcb7e9b2aa6fa8"
+    },
+    {
+      "path": "snapshot/wiki/sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche.md",
+      "bytes": 5515,
+      "sha256": "c491605a38e8a0af83dad396516456610e547c19065b21c8f31ce264bcd7ea1a"
+    },
+    {
+      "path": "snapshot/wiki/sources/audit-bandi-rappresentativi-m-tr01-2026-07-28.md",
+      "bytes": 16915,
+      "sha256": "4de69d1f3a092ac16e21c3dc47b1e18fa270b2e2b9adc5f0be196c550409d1a3"
+    },
+    {
+      "path": "snapshot/wiki/sources/basi-dati-sql-nosql-qualita-fonti-tecniche.md",
+      "bytes": 6216,
+      "sha256": "1afd5717014d1cab413a72dc127aa88f6cb03acd07db40914afc6a5daa14ba2f"
+    },
+    {
+      "path": "snapshot/wiki/sources/campione-bandi-ict-pa-vol-08-2024-2026.md",
+      "bytes": 3644,
+      "sha256": "8db63bb9f0e5303d68c465605a471a106587df7600c181da01e62e7c879c3704"
+    },
+    {
+      "path": "snapshot/wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+      "bytes": 4162,
+      "sha256": "cc6c4f4a20663a6633e62a13ebcf8cce3388e938c19025455a249659d210385b"
+    },
+    {
+      "path": "snapshot/wiki/sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie.md",
+      "bytes": 6409,
+      "sha256": "9affd2368961d9578b7c76cefe12d969abdc5a72af77d17968a6f3173d942d18"
+    },
+    {
+      "path": "snapshot/wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "bytes": 8988,
+      "sha256": "54a6efeeda9a413b05cda484cbcfcd647de411ac91e18c0cf578c7d6bd033f5f"
+    },
+    {
+      "path": "snapshot/wiki/sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie.md",
+      "bytes": 4944,
+      "sha256": "3f3c491e76595cfa474a31e0ed57d28b3e84c4a70517b11af11dbae39b62d595"
+    },
+    {
+      "path": "snapshot/wiki/sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md",
+      "bytes": 2424,
+      "sha256": "b9feb7c934947fff69575385c37723f01e8e5323901e5633f098eb8eda1dbf55"
+    },
+    {
+      "path": "snapshot/wiki/sources/data-governance-open-data-interoperabilita-fonti-primarie.md",
+      "bytes": 5150,
+      "sha256": "0db38823480f629efe6838e031eb2f97c7a10c02d3b0dad2fccc10f617b9d69a"
+    },
+    {
+      "path": "snapshot/wiki/sources/database-programmazione-formati-concorsi.md",
+      "bytes": 3347,
+      "sha256": "3250c87cd307fc1aeb7b1a6c31fb324f6dd159b2477fd479e7a1271a4dc4c4bd"
+    },
+    {
+      "path": "snapshot/wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md",
+      "bytes": 5896,
+      "sha256": "afdc60399702cecee2baa6828b3a8302e518170b03736a4f762262dea5f5f3c8"
+    },
+    {
+      "path": "snapshot/wiki/sources/iam-crittografia-logging-incident-response-fonti-primarie.md",
+      "bytes": 7465,
+      "sha256": "0a606a05e369d408c071cfac799868d63594ef16c4d45325d0952a78a77c087f"
+    },
+    {
+      "path": "snapshot/wiki/sources/ict-rettifiche-specialistiche-2026-10-03.md",
+      "bytes": 10775,
+      "sha256": "c7db2281421e061c6082eac1cfa5be11a4ffb07a3e7aa50a4fd5b4a906b3209d"
+    },
+    {
+      "path": "snapshot/wiki/sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md",
+      "bytes": 4733,
+      "sha256": "6487c4d47d0d515c82f71718483674f93770eb8e17311645d47d53fd0a43c156"
+    },
+    {
+      "path": "snapshot/wiki/sources/informatica-operativa-office-sistemi-hardware.md",
+      "bytes": 4311,
+      "sha256": "15848dc6c05eabb41c378b72617330b23c76d3b1fa2898ce35cda70fe741bf74"
+    },
+    {
+      "path": "snapshot/wiki/sources/ingegneria-software-api-interoperabilita-fonti-tecniche.md",
+      "bytes": 6813,
+      "sha256": "588decf654519263e7b999e2a345b9e2cd87e7cc317b80fa81c50cbe348343fa"
+    },
+    {
+      "path": "snapshot/wiki/sources/legge-23-settembre-2025-n-132-intelligenza-artificiale.md",
+      "bytes": 2404,
+      "sha256": "5407b99c8cab6617d063a616cc43ceec14a64ab5d28d4234ba8df12e2e26e100"
+    },
+    {
+      "path": "snapshot/wiki/sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici.md",
+      "bytes": 3029,
+      "sha256": "2f3694b38a3297dc256b4f2a0a548c3ca7f17d86546a2f9312e82579b4b73fc0"
+    },
+    {
+      "path": "snapshot/wiki/sources/logica-volumi-copertura-concorsobook-v4.md",
+      "bytes": 6300,
+      "sha256": "e916cf152c82669cea93a172ef73dccd21cc43f60624ae0bc07d78d2402b62e7"
+    },
+    {
+      "path": "snapshot/wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md",
+      "bytes": 5542,
+      "sha256": "5dd7389cf52878ee575c1bd41f5b52b391ad9bafa663d3d5a877674bc07a4a87"
+    },
+    {
+      "path": "snapshot/wiki/sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08.md",
+      "bytes": 1833,
+      "sha256": "6061580b69d39a5a8c9db61d16135a74b68a62e11b2e298551bd933d9d77077d"
+    },
+    {
+      "path": "snapshot/wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "bytes": 7122,
+      "sha256": "98d0740cd4486601f3465104925f7277414938263163bee411f265ad4836a29b"
+    },
+    {
+      "path": "snapshot/wiki/sources/procurement-ict-sla-vendor-management-fonti-consolidate.md",
+      "bytes": 6736,
+      "sha256": "4728c4142516ad1d4232fb4238b616917058a630b4ae9c4b4948b145af536145"
+    },
+    {
+      "path": "snapshot/wiki/sources/programmazione-algoritmi-strutture-dati-fonti-tecniche.md",
+      "bytes": 4262,
+      "sha256": "703b2f79c97feea5d6c23a276a5f7c9177d430db24f449e9fcc7c210c6774632"
+    },
+    {
+      "path": "snapshot/wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "bytes": 3463,
+      "sha256": "9e9154e4413b6bd0e9d44e9e36780bed1869052ebffd1d99f627ab5a00ed2e2f"
+    },
+    {
+      "path": "snapshot/wiki/sources/reti-sistemi-infrastrutture-fonti-tecniche.md",
+      "bytes": 4541,
+      "sha256": "5965dcd6fbbb13581016e3496b9b665c0300efa76b23c5d08b100d96900ebf10"
+    },
+    {
+      "path": "snapshot/wiki/sources/reti-web-protocolli-concorsi.md",
+      "bytes": 3188,
+      "sha256": "3faa6eec824ba1e3c59169094c1336109e92882d2d5d02cc27b27b1749c3e8eb"
+    },
+    {
+      "path": "snapshot/wiki/sources/revisione-finale-risposta-concorsuale-metodo-bando.md",
+      "bytes": 5156,
+      "sha256": "300b6f665bb7b79ba564f0bd0a9a70d62af30ebb684a41df2fe570c9fda5dc20"
+    },
+    {
+      "path": "snapshot/wiki/sources/risposta-sintetica-domande-aperte-metodo-bando.md",
+      "bytes": 5103,
+      "sha256": "e954b0bcc83cb3aa5005c9d8e972ae80925ab82567f64cca4cfbcd24ae1d3ec8"
+    },
+    {
+      "path": "snapshot/wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "bytes": 2809,
+      "sha256": "50225a344c67ee0611498d49c15ba5032b8007714e293d8bbfb6416413e14ac0"
+    },
+    {
+      "path": "snapshot/wiki/sources/sicurezza-informatica-privacy-nis2-pa.md",
+      "bytes": 4113,
+      "sha256": "8a9e239633903843529e3d523cef79980851e23a2c7e6251bb76c15f90c403dd"
+    },
+    {
+      "path": "snapshot/wiki/sources/simulazioni-concorsuali-metodo-bando.md",
+      "bytes": 4512,
+      "sha256": "756bdf2c226d0ac9c2669a90c8a1aa5d65fd9781752b4b801eabf950274a2c12"
+    },
+    {
+      "path": "snapshot/wiki/sources/strategia-punteggio-prova-concorsuale-metodo-bando.md",
+      "bytes": 4856,
+      "sha256": "67a565e81f87474b43b1fbea68849e9edb6181b1f9a26464202b8329b0ee3f1d"
+    },
+    {
+      "path": "source-hashes.json",
+      "bytes": 20371,
+      "sha256": "f478345562079138e04ced8d8f5f9a3d89fa2391868fc2ec4bdf5c5f1b9524ce"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 6140,
+      "sha256": "d4ab2461114acc72b98689a57caa908d3fa20923e248259abfe2b3a1594e3033"
+    },
+    {
+      "path": "visual/release/contact-001-016.png",
+      "bytes": 500373,
+      "sha256": "09caf48a3a2cecd109ef7b4c43aca1d52ee246932a1e15a6cfa5d691180890a6"
+    },
+    {
+      "path": "visual/release/contact-017-032.png",
+      "bytes": 615049,
+      "sha256": "144948a71a4a0d0a9bfb3dababc5a7f4be0273fa49aad0e4576af2896d0637b3"
+    },
+    {
+      "path": "visual/release/contact-033-048.png",
+      "bytes": 598539,
+      "sha256": "c2f29ba25579611f9d243966023c793abda0276b69bef50c91670f9a2d50482c"
+    },
+    {
+      "path": "visual/release/contact-049-064.png",
+      "bytes": 515237,
+      "sha256": "380d736e413dbf0d07ec7b58d8157022a3dbf138dcf619b35ff038c42d026e2a"
+    },
+    {
+      "path": "visual/release/contact-065-080.png",
+      "bytes": 617224,
+      "sha256": "d6545a660e5c781c4dd0ed8894924bd4cedeaf68dd16d04df73382416ad96141"
+    },
+    {
+      "path": "visual/release/contact-081-096.png",
+      "bytes": 631335,
+      "sha256": "a1a848df5f38fef74eebbb01d3db8070b5953a6239ba04fadbd0e07d58640c36"
+    },
+    {
+      "path": "visual/release/contact-097-112.png",
+      "bytes": 661633,
+      "sha256": "fd0acbe0d577e9068673c315b9e979f65e472f2f63f182deb5d59e9a0cdb53c2"
+    },
+    {
+      "path": "visual/release/contact-113-128.png",
+      "bytes": 649183,
+      "sha256": "6fe1a35e942eef11b94f21f32e7dafffe2595e372bc264305012a01f5601486f"
+    },
+    {
+      "path": "visual/release/contact-129-144.png",
+      "bytes": 631667,
+      "sha256": "a7737b7478670e0b2e8f5a06251fcc47aaef93dd1b111540146408736ea0d93c"
+    },
+    {
+      "path": "visual/release/contact-145-160.png",
+      "bytes": 670773,
+      "sha256": "09df63c16358f841b27a096755205a07bcc8daa1b8ff8f483229dc72899f17a5"
+    },
+    {
+      "path": "visual/release/contact-161-176.png",
+      "bytes": 682431,
+      "sha256": "cef0683d98ef58b104983d60b5e24bd2a4766e99386294d35252322c80961f9d"
+    },
+    {
+      "path": "visual/release/contact-177-192.png",
+      "bytes": 735198,
+      "sha256": "5c59009b00acfa887f3861f094a3fdecbde1f8277d30ea1f665e7a3a13ec24fd"
+    },
+    {
+      "path": "visual/release/contact-193-208.png",
+      "bytes": 692178,
+      "sha256": "f3215c221bd20c8f4e476073144e1d47d116a03f63096184bb986bde6e96d853"
+    },
+    {
+      "path": "visual/release/contact-209-224.png",
+      "bytes": 636840,
+      "sha256": "a5b4f516c9051fb1aa8b7f025c7528f63bac5c9be6e2cf92c635454f5f7fa240"
+    },
+    {
+      "path": "visual/release/contact-225-240.png",
+      "bytes": 696672,
+      "sha256": "1ab84708bf2e9bbe1f61fba61f15ef1793903b5aee58b8fbc029b17eb907cfd9"
+    },
+    {
+      "path": "visual/release/contact-241-244.png",
+      "bytes": 117725,
+      "sha256": "da0464ce195c7d9becd6c6b66357da688953fc39a3fa62828626b74f684ca172"
+    },
+    {
+      "path": "visual/release/zoom-006.png",
+      "bytes": 180346,
+      "sha256": "41d472b4cda1a817bbd46ed5710482e9c514d4b190e7b5d351c85c147da2e467"
+    },
+    {
+      "path": "visual/release/zoom-044.png",
+      "bytes": 139133,
+      "sha256": "c97872eb55339eb26880fb9e1c982c23c3d44b1c6fca1f2880095ad5d3b8e919"
+    },
+    {
+      "path": "visual/release/zoom-066.png",
+      "bytes": 141502,
+      "sha256": "7b49a2b97ad51f410ecdeb82ca8b362229d2e42b177c6ffc978e6003297755bb"
+    },
+    {
+      "path": "visual/release/zoom-163.png",
+      "bytes": 145792,
+      "sha256": "8d1f668cd36a5a92eb9ecbf405a09da9da75b0308f15dfed85245d7dff51f477"
+    },
+    {
+      "path": "visual/release/zoom-164.png",
+      "bytes": 179124,
+      "sha256": "18ad2a118f9eddc6e4ef4700beda69cd6a3310866890824e64d4bfda57f8be45"
+    },
+    {
+      "path": "visual/release/zoom-222.png",
+      "bytes": 174464,
+      "sha256": "92bed08f96e2eadb8e23f908bf31e52ea8ba1671d1a590806c26cdea86afea64"
+    },
+    {
+      "path": "visual/release/zoom-237.png",
+      "bytes": 155555,
+      "sha256": "b095fecaecab8b5c0e37d216e0f84d01be4b8455e575ed40f235d5dde96ffad4"
+    },
+    {
+      "path": "visual/release/zoom-244.png",
+      "bytes": 137038,
+      "sha256": "00da0d9d738a437881eedfe7923e549265b2d34e53dd8987e1a3b1abe84ba55a"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 1289,
+      "sha256": "74a48a4b1f14ce5b8cb60c253227e4d32ccde5d8d1d50748ee248fe12db946c6"
+    },
+    {
+      "path": "vol-08-interior-kdp.pdf",
+      "bytes": 1692055,
+      "sha256": "ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de"
+    }
+  ],
+  "covers": [
+    {
+      "key": "08",
+      "volume": "VOL-08",
+      "title": "ICT, digitale, cybersecurity e dati",
+      "cover": "delivery/copertine-2026-10-03/vol-08-cover.pdf",
+      "coverSha256": "93cbd7568540d03173ffdd2b856947c3d079782dc6de0b080ed3db0328443834",
+      "interior": "delivery/VOL-08/candidate-2026-10-03/vol-08-interior-kdp.pdf",
+      "interiorSha256": "ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de",
+      "pdfPages": 244,
+      "kdpPages": 244,
+      "spineInches": 0.549488,
+      "widthInches": 14.179488,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 13.25058228906255,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/08.png",
+      "path": "covers/vol-08-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

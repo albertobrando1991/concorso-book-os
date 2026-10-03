@@ -1,0 +1,774 @@
+{
+  "oldPages": 127,
+  "newPages": 127,
+  "renderScale": 1.8,
+  "changedPages": [
+    28,
+    31,
+    122
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "oldRasterSha256": "3c57b961a07b157581ec8fa6927b793de9c0df742b5fb95a70094ceb3d83759d",
+      "newRasterSha256": "3c57b961a07b157581ec8fa6927b793de9c0df742b5fb95a70094ceb3d83759d",
+      "identical": true
+    },
+    {
+      "page": 2,
+      "oldRasterSha256": "166649025867db54528a97586a3308b15a070709e1c488cc97f58cf1408ba617",
+      "newRasterSha256": "166649025867db54528a97586a3308b15a070709e1c488cc97f58cf1408ba617",
+      "identical": true
+    },
+    {
+      "page": 3,
+      "oldRasterSha256": "7b8d3269917e89a5e8f036125da7464e3b7ddb2e11848c98fdc0fe80e7098baa",
+      "newRasterSha256": "7b8d3269917e89a5e8f036125da7464e3b7ddb2e11848c98fdc0fe80e7098baa",
+      "identical": true
+    },
+    {
+      "page": 4,
+      "oldRasterSha256": "bcb14cf3c3993b35bdefe2eb70136f60e8ec84d48fd7cbf046477d135b044db2",
+      "newRasterSha256": "bcb14cf3c3993b35bdefe2eb70136f60e8ec84d48fd7cbf046477d135b044db2",
+      "identical": true
+    },
+    {
+      "page": 5,
+      "oldRasterSha256": "a9f57b9097a0007f53f43f21f31c8ac1ad3174db6ef5d0c9ce997f074a616a7a",
+      "newRasterSha256": "a9f57b9097a0007f53f43f21f31c8ac1ad3174db6ef5d0c9ce997f074a616a7a",
+      "identical": true
+    },
+    {
+      "page": 6,
+      "oldRasterSha256": "97f0b577bd314c1d0ce0393c00c0c29da18f5f98c0a4d47863ddc77635bebeaf",
+      "newRasterSha256": "97f0b577bd314c1d0ce0393c00c0c29da18f5f98c0a4d47863ddc77635bebeaf",
+      "identical": true
+    },
+    {
+      "page": 7,
+      "oldRasterSha256": "a7fa002008a6e3e551ba497786910c842ca85eff6e41d1e0cefb12884a5387d0",
+      "newRasterSha256": "a7fa002008a6e3e551ba497786910c842ca85eff6e41d1e0cefb12884a5387d0",
+      "identical": true
+    },
+    {
+      "page": 8,
+      "oldRasterSha256": "49890bea6cef1586a005dff6a92019af045b5fef4d27e378eeef374911c4e138",
+      "newRasterSha256": "49890bea6cef1586a005dff6a92019af045b5fef4d27e378eeef374911c4e138",
+      "identical": true
+    },
+    {
+      "page": 9,
+      "oldRasterSha256": "17a496efe7b1d9eb5c5a1d31c1b174b1e2d68f4191c181032714d358c7464a79",
+      "newRasterSha256": "17a496efe7b1d9eb5c5a1d31c1b174b1e2d68f4191c181032714d358c7464a79",
+      "identical": true
+    },
+    {
+      "page": 10,
+      "oldRasterSha256": "1344add2a56c53156bb7c6ba0e5bff9a0fc4b02b5111763d64ddf51948cb6412",
+      "newRasterSha256": "1344add2a56c53156bb7c6ba0e5bff9a0fc4b02b5111763d64ddf51948cb6412",
+      "identical": true
+    },
+    {
+      "page": 11,
+      "oldRasterSha256": "3978e6f40cd569c282fee019474221448dbc6959bc4cd5f98d181766f1825fb5",
+      "newRasterSha256": "3978e6f40cd569c282fee019474221448dbc6959bc4cd5f98d181766f1825fb5",
+      "identical": true
+    },
+    {
+      "page": 12,
+      "oldRasterSha256": "a074826798ae2d43fc7b9615445bff085a50ca9d2a8f54e019a51fca552f87b8",
+      "newRasterSha256": "a074826798ae2d43fc7b9615445bff085a50ca9d2a8f54e019a51fca552f87b8",
+      "identical": true
+    },
+    {
+      "page": 13,
+      "oldRasterSha256": "94b9a6d51fac372e6bd283721434ffb713d403c28978fa3d1b2eaa91d831c9ed",
+      "newRasterSha256": "94b9a6d51fac372e6bd283721434ffb713d403c28978fa3d1b2eaa91d831c9ed",
+      "identical": true
+    },
+    {
+      "page": 14,
+      "oldRasterSha256": "ecc548bbca80281cb124a54f28d04377b6526f02cbc99b242c4efaa3d0bc4c8b",
+      "newRasterSha256": "ecc548bbca80281cb124a54f28d04377b6526f02cbc99b242c4efaa3d0bc4c8b",
+      "identical": true
+    },
+    {
+      "page": 15,
+      "oldRasterSha256": "42711432861d766861e0484536587227c747a82a64b1f42db24c1dae7f504a22",
+      "newRasterSha256": "42711432861d766861e0484536587227c747a82a64b1f42db24c1dae7f504a22",
+      "identical": true
+    },
+    {
+      "page": 16,
+      "oldRasterSha256": "a1822eb731d2f16448ae17ea347ecac183bf383741c9c699fa12aa39365baf8e",
+      "newRasterSha256": "a1822eb731d2f16448ae17ea347ecac183bf383741c9c699fa12aa39365baf8e",
+      "identical": true
+    },
+    {
+      "page": 17,
+      "oldRasterSha256": "2a4490c15ceebc3ddb98fc338d4f8a5a2481b853d563476f9aecb07c61de0af7",
+      "newRasterSha256": "2a4490c15ceebc3ddb98fc338d4f8a5a2481b853d563476f9aecb07c61de0af7",
+      "identical": true
+    },
+    {
+      "page": 18,
+      "oldRasterSha256": "51f11c804d6b6d00bd072a5ee7056b363f7002e23fdda39ead146d21814902e6",
+      "newRasterSha256": "51f11c804d6b6d00bd072a5ee7056b363f7002e23fdda39ead146d21814902e6",
+      "identical": true
+    },
+    {
+      "page": 19,
+      "oldRasterSha256": "4053f186e5148b6bb06b8e6eac3d38fb0f972cedd1d6d9d73322374040b35153",
+      "newRasterSha256": "4053f186e5148b6bb06b8e6eac3d38fb0f972cedd1d6d9d73322374040b35153",
+      "identical": true
+    },
+    {
+      "page": 20,
+      "oldRasterSha256": "57789cbfb121293249c51af7569ccf5100b9bbb36a77037650f0540d624cb3e2",
+      "newRasterSha256": "57789cbfb121293249c51af7569ccf5100b9bbb36a77037650f0540d624cb3e2",
+      "identical": true
+    },
+    {
+      "page": 21,
+      "oldRasterSha256": "5cd4e66a5d9f734255628d90839a39f8fc0eaf589fd2ea924f14206c9ab477cc",
+      "newRasterSha256": "5cd4e66a5d9f734255628d90839a39f8fc0eaf589fd2ea924f14206c9ab477cc",
+      "identical": true
+    },
+    {
+      "page": 22,
+      "oldRasterSha256": "7496d45d29e62c4b028168631d79e7982c34c1bed2334fc82663b07001ea4952",
+      "newRasterSha256": "7496d45d29e62c4b028168631d79e7982c34c1bed2334fc82663b07001ea4952",
+      "identical": true
+    },
+    {
+      "page": 23,
+      "oldRasterSha256": "96adf11e590dd2a33236d105789d33900821503fdcd139216e3b4f9fc0f98d93",
+      "newRasterSha256": "96adf11e590dd2a33236d105789d33900821503fdcd139216e3b4f9fc0f98d93",
+      "identical": true
+    },
+    {
+      "page": 24,
+      "oldRasterSha256": "8f8f62c3dbcfb4fa9f3547e73b3f8e1cc120820d65c8ddd700ccb19204acdf28",
+      "newRasterSha256": "8f8f62c3dbcfb4fa9f3547e73b3f8e1cc120820d65c8ddd700ccb19204acdf28",
+      "identical": true
+    },
+    {
+      "page": 25,
+      "oldRasterSha256": "c934a811ca0c1807ea82af39985fc45c6c7dfaf362af9b1741b69d027906c3d6",
+      "newRasterSha256": "c934a811ca0c1807ea82af39985fc45c6c7dfaf362af9b1741b69d027906c3d6",
+      "identical": true
+    },
+    {
+      "page": 26,
+      "oldRasterSha256": "c8e25344a6725d8f493fbf7b335530b04601a4d556f9ba24decfadd286aeef93",
+      "newRasterSha256": "c8e25344a6725d8f493fbf7b335530b04601a4d556f9ba24decfadd286aeef93",
+      "identical": true
+    },
+    {
+      "page": 27,
+      "oldRasterSha256": "fc524e65d8b7be0edf6fc81a3ad589f0480c72a5b158920325cf62705ac1bbe0",
+      "newRasterSha256": "fc524e65d8b7be0edf6fc81a3ad589f0480c72a5b158920325cf62705ac1bbe0",
+      "identical": true
+    },
+    {
+      "page": 28,
+      "oldRasterSha256": "724a9ecbf3e16ecf79c34dc9205318492ebc25dd8e98018226874c17c75791b2",
+      "newRasterSha256": "6498458525a3e8cba1d39ce24751ef48c11f69293adaa8458cb55024b5378ec4",
+      "identical": false
+    },
+    {
+      "page": 29,
+      "oldRasterSha256": "8ef84e714ecb31a0133ac5514402be18ecaad7a5f5f8f93ab41a7317eb7449bb",
+      "newRasterSha256": "8ef84e714ecb31a0133ac5514402be18ecaad7a5f5f8f93ab41a7317eb7449bb",
+      "identical": true
+    },
+    {
+      "page": 30,
+      "oldRasterSha256": "fee9cb2cbdea0587bb9eb5373b17f8531ef81ff894cb3bc224146152e1254198",
+      "newRasterSha256": "fee9cb2cbdea0587bb9eb5373b17f8531ef81ff894cb3bc224146152e1254198",
+      "identical": true
+    },
+    {
+      "page": 31,
+      "oldRasterSha256": "bf7b4d3ab33aaf9061715f1fee981248b6ebc5486c68c0a22f33188669789a1a",
+      "newRasterSha256": "a28a5a9a1fdaf6f860874a2025670d3bab4bac2f67fa1fb7966f0c08c3310d6b",
+      "identical": false
+    },
+    {
+      "page": 32,
+      "oldRasterSha256": "f7961f5db78f714370e548d88d64ea9aee3c9e99da93cf4ad1bc720d62c64966",
+      "newRasterSha256": "f7961f5db78f714370e548d88d64ea9aee3c9e99da93cf4ad1bc720d62c64966",
+      "identical": true
+    },
+    {
+      "page": 33,
+      "oldRasterSha256": "b5bbb33088af9931bf394dd46376eb4b4f8cfa4b79e93ef6094b2da73b59c478",
+      "newRasterSha256": "b5bbb33088af9931bf394dd46376eb4b4f8cfa4b79e93ef6094b2da73b59c478",
+      "identical": true
+    },
+    {
+      "page": 34,
+      "oldRasterSha256": "525b9a62cee15794728c0ca5288cfec447b9941bb5d7dd9ff7456fd1cd8d1748",
+      "newRasterSha256": "525b9a62cee15794728c0ca5288cfec447b9941bb5d7dd9ff7456fd1cd8d1748",
+      "identical": true
+    },
+    {
+      "page": 35,
+      "oldRasterSha256": "efd3e882a4b8af1a72ac5ebe9958617580a1eb92c362642e778cf0acd484608e",
+      "newRasterSha256": "efd3e882a4b8af1a72ac5ebe9958617580a1eb92c362642e778cf0acd484608e",
+      "identical": true
+    },
+    {
+      "page": 36,
+      "oldRasterSha256": "a5843303c8166d106bd287256ea3ab27e61a169aa4e6d5cebce56375a213dded",
+      "newRasterSha256": "a5843303c8166d106bd287256ea3ab27e61a169aa4e6d5cebce56375a213dded",
+      "identical": true
+    },
+    {
+      "page": 37,
+      "oldRasterSha256": "1faace4080014694f1aa867fda4c92ad89c566e6992730e98d199b3f5382e22b",
+      "newRasterSha256": "1faace4080014694f1aa867fda4c92ad89c566e6992730e98d199b3f5382e22b",
+      "identical": true
+    },
+    {
+      "page": 38,
+      "oldRasterSha256": "5ca579c6a307dba772a04799239f84673f10653b13ea19ab60e344219398f934",
+      "newRasterSha256": "5ca579c6a307dba772a04799239f84673f10653b13ea19ab60e344219398f934",
+      "identical": true
+    },
+    {
+      "page": 39,
+      "oldRasterSha256": "1c31c7d4df5aafba05599214d71e0e949e4b54e283890df84faa564808c1a7d9",
+      "newRasterSha256": "1c31c7d4df5aafba05599214d71e0e949e4b54e283890df84faa564808c1a7d9",
+      "identical": true
+    },
+    {
+      "page": 40,
+      "oldRasterSha256": "59d063f00882c7b3befb22d910cd6e57f574f98877dcd5f29d35763bf4434998",
+      "newRasterSha256": "59d063f00882c7b3befb22d910cd6e57f574f98877dcd5f29d35763bf4434998",
+      "identical": true
+    },
+    {
+      "page": 41,
+      "oldRasterSha256": "9788bb9ca6180c63d411ce196b50b9e1670db77315500c335b9f54607bc86590",
+      "newRasterSha256": "9788bb9ca6180c63d411ce196b50b9e1670db77315500c335b9f54607bc86590",
+      "identical": true
+    },
+    {
+      "page": 42,
+      "oldRasterSha256": "7490dfab9f89a9cf4acd63773b66ce2ddf7082a52286b89a10f3dcf13e34432f",
+      "newRasterSha256": "7490dfab9f89a9cf4acd63773b66ce2ddf7082a52286b89a10f3dcf13e34432f",
+      "identical": true
+    },
+    {
+      "page": 43,
+      "oldRasterSha256": "d5889299d832b64421ed8915b4e9da95e6c52efb0d11c39de0dd4e8fb840c0fe",
+      "newRasterSha256": "d5889299d832b64421ed8915b4e9da95e6c52efb0d11c39de0dd4e8fb840c0fe",
+      "identical": true
+    },
+    {
+      "page": 44,
+      "oldRasterSha256": "d6cfc1c91cfaf5d715963cacdc285439fbb2df433aa17035a66bfe8e3342d2f6",
+      "newRasterSha256": "d6cfc1c91cfaf5d715963cacdc285439fbb2df433aa17035a66bfe8e3342d2f6",
+      "identical": true
+    },
+    {
+      "page": 45,
+      "oldRasterSha256": "b9e73ac27f8152dc428bb77a073659b575d4b7f543181f59de2b18f58ea46f7d",
+      "newRasterSha256": "b9e73ac27f8152dc428bb77a073659b575d4b7f543181f59de2b18f58ea46f7d",
+      "identical": true
+    },
+    {
+      "page": 46,
+      "oldRasterSha256": "0db10f34f6258bbe30d775d80854d192a90b9676ea44f98dc04690ef4e0a2a1e",
+      "newRasterSha256": "0db10f34f6258bbe30d775d80854d192a90b9676ea44f98dc04690ef4e0a2a1e",
+      "identical": true
+    },
+    {
+      "page": 47,
+      "oldRasterSha256": "4ee52ecc0ca89ce2ecc22c5996096563ce3335100eba1cb4eec2b68392569402",
+      "newRasterSha256": "4ee52ecc0ca89ce2ecc22c5996096563ce3335100eba1cb4eec2b68392569402",
+      "identical": true
+    },
+    {
+      "page": 48,
+      "oldRasterSha256": "69971e30306e4d9ce9f3477c08d54675695067183e1c8963fc4f3df5f69be673",
+      "newRasterSha256": "69971e30306e4d9ce9f3477c08d54675695067183e1c8963fc4f3df5f69be673",
+      "identical": true
+    },
+    {
+      "page": 49,
+      "oldRasterSha256": "e4afa0eb3cba5c029000db5b876d9ec04810bc60094c260067bd2ddbbf60ff41",
+      "newRasterSha256": "e4afa0eb3cba5c029000db5b876d9ec04810bc60094c260067bd2ddbbf60ff41",
+      "identical": true
+    },
+    {
+      "page": 50,
+      "oldRasterSha256": "f5e6d5a62680ba4062805d542321c33e19d8791f9fa30f31bcc78fa294494099",
+      "newRasterSha256": "f5e6d5a62680ba4062805d542321c33e19d8791f9fa30f31bcc78fa294494099",
+      "identical": true
+    },
+    {
+      "page": 51,
+      "oldRasterSha256": "b42e81503afb4bd60d35721dcb7fba4cc9710f3a024ca5b44541b5c7de637790",
+      "newRasterSha256": "b42e81503afb4bd60d35721dcb7fba4cc9710f3a024ca5b44541b5c7de637790",
+      "identical": true
+    },
+    {
+      "page": 52,
+      "oldRasterSha256": "074700a28287e36f13b57e9834245abf5667f0fa6d3baaf913266bb70a3c330a",
+      "newRasterSha256": "074700a28287e36f13b57e9834245abf5667f0fa6d3baaf913266bb70a3c330a",
+      "identical": true
+    },
+    {
+      "page": 53,
+      "oldRasterSha256": "6c17bd80285963f7aefb2770de4729f3ceea0cf422d97d9325ecf575fe29a454",
+      "newRasterSha256": "6c17bd80285963f7aefb2770de4729f3ceea0cf422d97d9325ecf575fe29a454",
+      "identical": true
+    },
+    {
+      "page": 54,
+      "oldRasterSha256": "c1dcf66f2186bce608022dc84fa9097fc7c5de9ee11e5ea2dc04ba9f6946d00a",
+      "newRasterSha256": "c1dcf66f2186bce608022dc84fa9097fc7c5de9ee11e5ea2dc04ba9f6946d00a",
+      "identical": true
+    },
+    {
+      "page": 55,
+      "oldRasterSha256": "320ecfd6b2e6b7f0c7775445ca78bbc7e1c8bf812942937882acf7699ac3b427",
+      "newRasterSha256": "320ecfd6b2e6b7f0c7775445ca78bbc7e1c8bf812942937882acf7699ac3b427",
+      "identical": true
+    },
+    {
+      "page": 56,
+      "oldRasterSha256": "5f64c61dc02aa8202756137b729e60aa1098d7a250b1216ee5d7547a9f8e25a3",
+      "newRasterSha256": "5f64c61dc02aa8202756137b729e60aa1098d7a250b1216ee5d7547a9f8e25a3",
+      "identical": true
+    },
+    {
+      "page": 57,
+      "oldRasterSha256": "e3bb57075be141415d268c1e0c0fb5cd5af3617b8f0cd3ee8ba237c5dac26c25",
+      "newRasterSha256": "e3bb57075be141415d268c1e0c0fb5cd5af3617b8f0cd3ee8ba237c5dac26c25",
+      "identical": true
+    },
+    {
+      "page": 58,
+      "oldRasterSha256": "acb4fa83d7931516cdd71e2bcf5a9a9ced4f6a6bb5a58fdf586cc3de4b92439e",
+      "newRasterSha256": "acb4fa83d7931516cdd71e2bcf5a9a9ced4f6a6bb5a58fdf586cc3de4b92439e",
+      "identical": true
+    },
+    {
+      "page": 59,
+      "oldRasterSha256": "604ed74eb1b7c674509b123caf65823bc377b1a9d11d91719ed2fe2538e57108",
+      "newRasterSha256": "604ed74eb1b7c674509b123caf65823bc377b1a9d11d91719ed2fe2538e57108",
+      "identical": true
+    },
+    {
+      "page": 60,
+      "oldRasterSha256": "a5251644aa1ce6765fa33a37fbbe47bc88f578f7e860e39dab1b359766e34c84",
+      "newRasterSha256": "a5251644aa1ce6765fa33a37fbbe47bc88f578f7e860e39dab1b359766e34c84",
+      "identical": true
+    },
+    {
+      "page": 61,
+      "oldRasterSha256": "3e7a93355443a0646f8b58717d9d04de127a5af4f3c10573907d4eb4f90a4b03",
+      "newRasterSha256": "3e7a93355443a0646f8b58717d9d04de127a5af4f3c10573907d4eb4f90a4b03",
+      "identical": true
+    },
+    {
+      "page": 62,
+      "oldRasterSha256": "9df6258bb2c4c5d68229d15b31f784fc91e0fc6b8bd46ea29d9c2b139257dc8f",
+      "newRasterSha256": "9df6258bb2c4c5d68229d15b31f784fc91e0fc6b8bd46ea29d9c2b139257dc8f",
+      "identical": true
+    },
+    {
+      "page": 63,
+      "oldRasterSha256": "6c0c0065b28a44ae8de0984062942ddd1f0abf2f7a0bf37b92511ec48aa759fb",
+      "newRasterSha256": "6c0c0065b28a44ae8de0984062942ddd1f0abf2f7a0bf37b92511ec48aa759fb",
+      "identical": true
+    },
+    {
+      "page": 64,
+      "oldRasterSha256": "0a8b2f683a43869fa1868e5ecf68d1be77a79a0b9ca49680dc6770d208aedc9f",
+      "newRasterSha256": "0a8b2f683a43869fa1868e5ecf68d1be77a79a0b9ca49680dc6770d208aedc9f",
+      "identical": true
+    },
+    {
+      "page": 65,
+      "oldRasterSha256": "e396739f3af1130877ae587e180ecae5a16c8de1ed06843458c58fe6d3f7d9a3",
+      "newRasterSha256": "e396739f3af1130877ae587e180ecae5a16c8de1ed06843458c58fe6d3f7d9a3",
+      "identical": true
+    },
+    {
+      "page": 66,
+      "oldRasterSha256": "1078309c3f390bbe455e1a87990ee99aabab6c6b02b1b25ca9ff2bf0e763e54d",
+      "newRasterSha256": "1078309c3f390bbe455e1a87990ee99aabab6c6b02b1b25ca9ff2bf0e763e54d",
+      "identical": true
+    },
+    {
+      "page": 67,
+      "oldRasterSha256": "3974bac1dce1a604af48010bc45cc88efc7b41e3ec4f032385752e810addbea5",
+      "newRasterSha256": "3974bac1dce1a604af48010bc45cc88efc7b41e3ec4f032385752e810addbea5",
+      "identical": true
+    },
+    {
+      "page": 68,
+      "oldRasterSha256": "f5419c03cd6beca7ecb77a6cadb7a3e2ec494e1e72a0e56f558b337676aec503",
+      "newRasterSha256": "f5419c03cd6beca7ecb77a6cadb7a3e2ec494e1e72a0e56f558b337676aec503",
+      "identical": true
+    },
+    {
+      "page": 69,
+      "oldRasterSha256": "87fb3b3e8407f1b5e07f335d154eb07076d2275863860bf01c2bb4502f8c213f",
+      "newRasterSha256": "87fb3b3e8407f1b5e07f335d154eb07076d2275863860bf01c2bb4502f8c213f",
+      "identical": true
+    },
+    {
+      "page": 70,
+      "oldRasterSha256": "d04f20d3f88eac851ddfc1de8f702edba8fb475f3204d455d1ddc42dd1cee91b",
+      "newRasterSha256": "d04f20d3f88eac851ddfc1de8f702edba8fb475f3204d455d1ddc42dd1cee91b",
+      "identical": true
+    },
+    {
+      "page": 71,
+      "oldRasterSha256": "85500ba9c834425df2989ed63a916c31fda619651b2130ed4f41926cb2d956cf",
+      "newRasterSha256": "85500ba9c834425df2989ed63a916c31fda619651b2130ed4f41926cb2d956cf",
+      "identical": true
+    },
+    {
+      "page": 72,
+      "oldRasterSha256": "ad1f20a62287bdd55103e087e0acd458d2e3cf81ec2baebf243c3446d5b1c9ca",
+      "newRasterSha256": "ad1f20a62287bdd55103e087e0acd458d2e3cf81ec2baebf243c3446d5b1c9ca",
+      "identical": true
+    },
+    {
+      "page": 73,
+      "oldRasterSha256": "1fa4bcfac6b4009df1f3ae2cb2ae3150d2f0d3b8f387d96aa34f26511d1abf1d",
+      "newRasterSha256": "1fa4bcfac6b4009df1f3ae2cb2ae3150d2f0d3b8f387d96aa34f26511d1abf1d",
+      "identical": true
+    },
+    {
+      "page": 74,
+      "oldRasterSha256": "27ee4d28e3c6a877101c63d3e2a098eeebd951ae83bc606341c78d936a1945eb",
+      "newRasterSha256": "27ee4d28e3c6a877101c63d3e2a098eeebd951ae83bc606341c78d936a1945eb",
+      "identical": true
+    },
+    {
+      "page": 75,
+      "oldRasterSha256": "dbe1ebba9790b3dbd6860cd89ed62b18bed002d8592b11f2d58a86d45a34e5a8",
+      "newRasterSha256": "dbe1ebba9790b3dbd6860cd89ed62b18bed002d8592b11f2d58a86d45a34e5a8",
+      "identical": true
+    },
+    {
+      "page": 76,
+      "oldRasterSha256": "ac548276f1273bebd83f915d8bebbf18577ad9545c7e22628d88c6252373342c",
+      "newRasterSha256": "ac548276f1273bebd83f915d8bebbf18577ad9545c7e22628d88c6252373342c",
+      "identical": true
+    },
+    {
+      "page": 77,
+      "oldRasterSha256": "77a85a2cf3e6387cc517fc573226b11faee82d368041ff052f06f9168cea91bf",
+      "newRasterSha256": "77a85a2cf3e6387cc517fc573226b11faee82d368041ff052f06f9168cea91bf",
+      "identical": true
+    },
+    {
+      "page": 78,
+      "oldRasterSha256": "a3d7b2dbedbcf4f145fa019fe01072ad52b8312a2deace899e26c53bd0137a92",
+      "newRasterSha256": "a3d7b2dbedbcf4f145fa019fe01072ad52b8312a2deace899e26c53bd0137a92",
+      "identical": true
+    },
+    {
+      "page": 79,
+      "oldRasterSha256": "3f4839e6e3805f1c0b3f9a3a12e45f8a5fc53f1bb94d5a6f29b2a22f03e7e357",
+      "newRasterSha256": "3f4839e6e3805f1c0b3f9a3a12e45f8a5fc53f1bb94d5a6f29b2a22f03e7e357",
+      "identical": true
+    },
+    {
+      "page": 80,
+      "oldRasterSha256": "07ecebb91f1b196fb1de3a0478dbd599bcc173fb52438d43dfd6de16cfd5397b",
+      "newRasterSha256": "07ecebb91f1b196fb1de3a0478dbd599bcc173fb52438d43dfd6de16cfd5397b",
+      "identical": true
+    },
+    {
+      "page": 81,
+      "oldRasterSha256": "4cf408297190b90fa1939a08c79112c73aeb0e572a48a0a38b925413506d4247",
+      "newRasterSha256": "4cf408297190b90fa1939a08c79112c73aeb0e572a48a0a38b925413506d4247",
+      "identical": true
+    },
+    {
+      "page": 82,
+      "oldRasterSha256": "b70df7d9094ff89db24a2397623808389408e507a7005b2d35c09c7d351d67a1",
+      "newRasterSha256": "b70df7d9094ff89db24a2397623808389408e507a7005b2d35c09c7d351d67a1",
+      "identical": true
+    },
+    {
+      "page": 83,
+      "oldRasterSha256": "e7d46c0f60014c7f021d9ee674601603a0d6d5f99cb542c9f67bd5066f4d0aaa",
+      "newRasterSha256": "e7d46c0f60014c7f021d9ee674601603a0d6d5f99cb542c9f67bd5066f4d0aaa",
+      "identical": true
+    },
+    {
+      "page": 84,
+      "oldRasterSha256": "bd4d9245397e5b75472112072c83aef799f760e0e846402fbc48e412df10055e",
+      "newRasterSha256": "bd4d9245397e5b75472112072c83aef799f760e0e846402fbc48e412df10055e",
+      "identical": true
+    },
+    {
+      "page": 85,
+      "oldRasterSha256": "2d1e57b8a390dd1b189219531466e747b6f6c6bcda553fbd6c905c44d8730cf7",
+      "newRasterSha256": "2d1e57b8a390dd1b189219531466e747b6f6c6bcda553fbd6c905c44d8730cf7",
+      "identical": true
+    },
+    {
+      "page": 86,
+      "oldRasterSha256": "9c0da24e736f0d9f3f2ee699a8884643a0fb36392f40626666993292a9a335e9",
+      "newRasterSha256": "9c0da24e736f0d9f3f2ee699a8884643a0fb36392f40626666993292a9a335e9",
+      "identical": true
+    },
+    {
+      "page": 87,
+      "oldRasterSha256": "7c7ca579a11024b0f3d107cce01417dc3c10c368ab9f424a7bc1725f80d6752f",
+      "newRasterSha256": "7c7ca579a11024b0f3d107cce01417dc3c10c368ab9f424a7bc1725f80d6752f",
+      "identical": true
+    },
+    {
+      "page": 88,
+      "oldRasterSha256": "cb033d700c57bbfe8d4842d03d451d4978fbca84dfb19139dcfa6111ded31ca0",
+      "newRasterSha256": "cb033d700c57bbfe8d4842d03d451d4978fbca84dfb19139dcfa6111ded31ca0",
+      "identical": true
+    },
+    {
+      "page": 89,
+      "oldRasterSha256": "49cfc8584c646b67b438954ee35245b5212c538273ebcf7fc754367c0becbb95",
+      "newRasterSha256": "49cfc8584c646b67b438954ee35245b5212c538273ebcf7fc754367c0becbb95",
+      "identical": true
+    },
+    {
+      "page": 90,
+      "oldRasterSha256": "e350fb5b37d424ea7cbbd29403f26fa02f4ce0f6ec7b34f5a6dc5011615f694b",
+      "newRasterSha256": "e350fb5b37d424ea7cbbd29403f26fa02f4ce0f6ec7b34f5a6dc5011615f694b",
+      "identical": true
+    },
+    {
+      "page": 91,
+      "oldRasterSha256": "f8642391017a1bca50819b4078fedeafe3bf6c7f0a3415f3276ddd6340d81b01",
+      "newRasterSha256": "f8642391017a1bca50819b4078fedeafe3bf6c7f0a3415f3276ddd6340d81b01",
+      "identical": true
+    },
+    {
+      "page": 92,
+      "oldRasterSha256": "53a9ccb3d5438a0f707c2eabf667eee3f3d54f04252b135f1b1956968a164d9f",
+      "newRasterSha256": "53a9ccb3d5438a0f707c2eabf667eee3f3d54f04252b135f1b1956968a164d9f",
+      "identical": true
+    },
+    {
+      "page": 93,
+      "oldRasterSha256": "c496823fb285139fa0a9e166fa29a0e364a6ced2c8304446eca0510a92b85b31",
+      "newRasterSha256": "c496823fb285139fa0a9e166fa29a0e364a6ced2c8304446eca0510a92b85b31",
+      "identical": true
+    },
+    {
+      "page": 94,
+      "oldRasterSha256": "c28258aca2c9d66e6509828e3cb6e467efc3092844f01e491c0aa2b1b5bcfd0a",
+      "newRasterSha256": "c28258aca2c9d66e6509828e3cb6e467efc3092844f01e491c0aa2b1b5bcfd0a",
+      "identical": true
+    },
+    {
+      "page": 95,
+      "oldRasterSha256": "33535848fba7a0bc35234acd0575bf03d889062433ce3f7c0f1ece7f497ca2cd",
+      "newRasterSha256": "33535848fba7a0bc35234acd0575bf03d889062433ce3f7c0f1ece7f497ca2cd",
+      "identical": true
+    },
+    {
+      "page": 96,
+      "oldRasterSha256": "392be701e4212464e9505d90c46c4a220941b881e555a33090850d45217ebc82",
+      "newRasterSha256": "392be701e4212464e9505d90c46c4a220941b881e555a33090850d45217ebc82",
+      "identical": true
+    },
+    {
+      "page": 97,
+      "oldRasterSha256": "d2085cdae68737239c1cdb3e0bafbcb1d70bf6799d2435aa53a28ed83576a05c",
+      "newRasterSha256": "d2085cdae68737239c1cdb3e0bafbcb1d70bf6799d2435aa53a28ed83576a05c",
+      "identical": true
+    },
+    {
+      "page": 98,
+      "oldRasterSha256": "4e0ad9fed83d5d18c3cf620c851ba3625efcdf2ea5930ef634a1dc9057897376",
+      "newRasterSha256": "4e0ad9fed83d5d18c3cf620c851ba3625efcdf2ea5930ef634a1dc9057897376",
+      "identical": true
+    },
+    {
+      "page": 99,
+      "oldRasterSha256": "3f9db450d94d3139d90ca804df0861be586e2ffe0e8d884c10e8c1392a7c7282",
+      "newRasterSha256": "3f9db450d94d3139d90ca804df0861be586e2ffe0e8d884c10e8c1392a7c7282",
+      "identical": true
+    },
+    {
+      "page": 100,
+      "oldRasterSha256": "fc24c8f879d689eb13a1ebf369025acbc2fc1dba8401ea09bb867f3f2f87cb44",
+      "newRasterSha256": "fc24c8f879d689eb13a1ebf369025acbc2fc1dba8401ea09bb867f3f2f87cb44",
+      "identical": true
+    },
+    {
+      "page": 101,
+      "oldRasterSha256": "51d45d659840bed615a089eec2b666920d259356ec983dff409e5b8e6eedbf1d",
+      "newRasterSha256": "51d45d659840bed615a089eec2b666920d259356ec983dff409e5b8e6eedbf1d",
+      "identical": true
+    },
+    {
+      "page": 102,
+      "oldRasterSha256": "859f6c559a0e56c15d13fc28ab0f2e9baeb92bd90192f9ff04af1636159039a5",
+      "newRasterSha256": "859f6c559a0e56c15d13fc28ab0f2e9baeb92bd90192f9ff04af1636159039a5",
+      "identical": true
+    },
+    {
+      "page": 103,
+      "oldRasterSha256": "0bd08c4d3965fb2d49a2be255d7e65a0e99bd9e90caee5b19f00496612fb0bd1",
+      "newRasterSha256": "0bd08c4d3965fb2d49a2be255d7e65a0e99bd9e90caee5b19f00496612fb0bd1",
+      "identical": true
+    },
+    {
+      "page": 104,
+      "oldRasterSha256": "8d7fd37b5b7f1d953a46b90f03628c5b99df744b384b08ef1539db06ebb6b9f3",
+      "newRasterSha256": "8d7fd37b5b7f1d953a46b90f03628c5b99df744b384b08ef1539db06ebb6b9f3",
+      "identical": true
+    },
+    {
+      "page": 105,
+      "oldRasterSha256": "690d9542cf39ad835e6018ac4d4c3521f99625dd45c588a78b2fed5b2c23d93a",
+      "newRasterSha256": "690d9542cf39ad835e6018ac4d4c3521f99625dd45c588a78b2fed5b2c23d93a",
+      "identical": true
+    },
+    {
+      "page": 106,
+      "oldRasterSha256": "620f63fc63b55d2054189331ebdbfed0836ed1675d478927ab2811d18ff13b47",
+      "newRasterSha256": "620f63fc63b55d2054189331ebdbfed0836ed1675d478927ab2811d18ff13b47",
+      "identical": true
+    },
+    {
+      "page": 107,
+      "oldRasterSha256": "85439a583967c2d7d48d5e86d33322c668518124cef47056fd9b58072cc33466",
+      "newRasterSha256": "85439a583967c2d7d48d5e86d33322c668518124cef47056fd9b58072cc33466",
+      "identical": true
+    },
+    {
+      "page": 108,
+      "oldRasterSha256": "a1a07ab7adf25052a026d6f5832982d173db55e4448acf67fec556a62ea07b86",
+      "newRasterSha256": "a1a07ab7adf25052a026d6f5832982d173db55e4448acf67fec556a62ea07b86",
+      "identical": true
+    },
+    {
+      "page": 109,
+      "oldRasterSha256": "f9e6e0f16d6482fb0cb7ec9f617e8ab9351c9baccfbc9d63c0d6bb55d562833a",
+      "newRasterSha256": "f9e6e0f16d6482fb0cb7ec9f617e8ab9351c9baccfbc9d63c0d6bb55d562833a",
+      "identical": true
+    },
+    {
+      "page": 110,
+      "oldRasterSha256": "b22b65ccb57d4ac84d32ba766ce862008a8ac46914369fdef579e581a726bf8f",
+      "newRasterSha256": "b22b65ccb57d4ac84d32ba766ce862008a8ac46914369fdef579e581a726bf8f",
+      "identical": true
+    },
+    {
+      "page": 111,
+      "oldRasterSha256": "556d984388fda7cdfaaa9b61c11be6041d089b6ec4e6f2b2a56c610fa4a4a1b5",
+      "newRasterSha256": "556d984388fda7cdfaaa9b61c11be6041d089b6ec4e6f2b2a56c610fa4a4a1b5",
+      "identical": true
+    },
+    {
+      "page": 112,
+      "oldRasterSha256": "0c54b922b7bc8e788cebc98e06935dc344656133d59947ec94ad0bf310abcaf2",
+      "newRasterSha256": "0c54b922b7bc8e788cebc98e06935dc344656133d59947ec94ad0bf310abcaf2",
+      "identical": true
+    },
+    {
+      "page": 113,
+      "oldRasterSha256": "2a32933d4d84aa67b66d1337268cde1612a0a722cbfdada698dd231beb6f166b",
+      "newRasterSha256": "2a32933d4d84aa67b66d1337268cde1612a0a722cbfdada698dd231beb6f166b",
+      "identical": true
+    },
+    {
+      "page": 114,
+      "oldRasterSha256": "cbae4efb4c8b2ddb7b02baaa28419554060e0218ce24c1dc76d7dc11cf3fafb1",
+      "newRasterSha256": "cbae4efb4c8b2ddb7b02baaa28419554060e0218ce24c1dc76d7dc11cf3fafb1",
+      "identical": true
+    },
+    {
+      "page": 115,
+      "oldRasterSha256": "9f5110fef8b9fc46004757368ab05a241d966c823fa952bb55584c3b1fb76833",
+      "newRasterSha256": "9f5110fef8b9fc46004757368ab05a241d966c823fa952bb55584c3b1fb76833",
+      "identical": true
+    },
+    {
+      "page": 116,
+      "oldRasterSha256": "9dc81dd947bd77e98f954aedf5a1f75aec51514c55197c9948351f07ca8c829f",
+      "newRasterSha256": "9dc81dd947bd77e98f954aedf5a1f75aec51514c55197c9948351f07ca8c829f",
+      "identical": true
+    },
+    {
+      "page": 117,
+      "oldRasterSha256": "5beca4ca54a5cb0c6373eea50370ce80c6cd5056cb3aa16ed0ea056c136e70f2",
+      "newRasterSha256": "5beca4ca54a5cb0c6373eea50370ce80c6cd5056cb3aa16ed0ea056c136e70f2",
+      "identical": true
+    },
+    {
+      "page": 118,
+      "oldRasterSha256": "53d1120e01ea659b4c75c372a803b22b5d648e348a38d5eaeba7bbe533533ff5",
+      "newRasterSha256": "53d1120e01ea659b4c75c372a803b22b5d648e348a38d5eaeba7bbe533533ff5",
+      "identical": true
+    },
+    {
+      "page": 119,
+      "oldRasterSha256": "673387a3ff74b9b78325bf837d24a13ec99b820b78f54f879fde8f58c2e98169",
+      "newRasterSha256": "673387a3ff74b9b78325bf837d24a13ec99b820b78f54f879fde8f58c2e98169",
+      "identical": true
+    },
+    {
+      "page": 120,
+      "oldRasterSha256": "1954ebc7e34b6a1d77c3e07ad50266872caa3d94ea97de086d873af938be61b2",
+      "newRasterSha256": "1954ebc7e34b6a1d77c3e07ad50266872caa3d94ea97de086d873af938be61b2",
+      "identical": true
+    },
+    {
+      "page": 121,
+      "oldRasterSha256": "7760f195667f86165d1feb446c7fc636a620ace4d73f9334e21a16d68094ab7a",
+      "newRasterSha256": "7760f195667f86165d1feb446c7fc636a620ace4d73f9334e21a16d68094ab7a",
+      "identical": true
+    },
+    {
+      "page": 122,
+      "oldRasterSha256": "4e9a06661bcb6be5fa4fc5803d03863d435abbe1378411f54409edd423d2b5a8",
+      "newRasterSha256": "74b4eb5ad53e914e631062d94276bbda9ca80ce13bbf0831a547517813d9a9a0",
+      "identical": false
+    },
+    {
+      "page": 123,
+      "oldRasterSha256": "59f7f9f89f1155dea4b72fb469d534325853feaf26998049aaf0b561cfb63bab",
+      "newRasterSha256": "59f7f9f89f1155dea4b72fb469d534325853feaf26998049aaf0b561cfb63bab",
+      "identical": true
+    },
+    {
+      "page": 124,
+      "oldRasterSha256": "43ad4d9a212a4685223c579a26e5ec2e4f31e1aaaba9d27db32afc0bad6a13d7",
+      "newRasterSha256": "43ad4d9a212a4685223c579a26e5ec2e4f31e1aaaba9d27db32afc0bad6a13d7",
+      "identical": true
+    },
+    {
+      "page": 125,
+      "oldRasterSha256": "96df5c9b8b7037bfc4fb9eb84e0bf88498d504e8475e479ad4453a87bc818fee",
+      "newRasterSha256": "96df5c9b8b7037bfc4fb9eb84e0bf88498d504e8475e479ad4453a87bc818fee",
+      "identical": true
+    },
+    {
+      "page": 126,
+      "oldRasterSha256": "8884cccc103eadb80be09727884b94f6da6d317b14c1300038201d1b2afbdf95",
+      "newRasterSha256": "8884cccc103eadb80be09727884b94f6da6d317b14c1300038201d1b2afbdf95",
+      "identical": true
+    },
+    {
+      "page": 127,
+      "oldRasterSha256": "62a8570b3f0920c60e09387258d31fcf39e02e6f4d097d9bb34894043bce26e2",
+      "newRasterSha256": "62a8570b3f0920c60e09387258d31fcf39e02e6f4d097d9bb34894043bce26e2",
+      "identical": true
+    }
+  ]
+}

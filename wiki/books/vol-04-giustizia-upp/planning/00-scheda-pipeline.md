@@ -2,11 +2,11 @@
 type: pipeline_spec
 volume_code: VOL-04
 volume_title: Giustizia e Ufficio per il processo
-cut_off_date: 2026-08-17
+cut_off_date: 2026-10-03
 writer_provider: codex
-phases: [F]
+phases: [D, F]
 status: active
-updated_at: 2026-08-17
+updated_at: 2026-10-03
 review_required: true
 ---
 
@@ -20,7 +20,7 @@ Il protocollo dei 25 prompt resta in
 
 | Codice | Module id | Priorità | Fasi |
 | --- | --- | ---: | --- |
-| M-FC04 | moduli/m-fc04-giustizia | 1 | F |
+| M-FC04 | moduli/m-fc04-giustizia | 1 | D,F |
 
 I capitoli non sono dichiarati: la pipeline li deriva da
 `moduli/m-fc04-giustizia/chapters/` e registra nel run-state
@@ -28,7 +28,7 @@ I capitoli non sono dichiarati: la pipeline li deriva da
 
 ## Perimetro della fase finale
 
-- revisione editoriale totale dei quattordici capitoli di M-FC04;
+- revisione editoriale totale dei diciassette file di M-FC04: quattordici capitoli, appendici, conclusione e fonti;
 - controllo incrociato con front matter, indice, matrice didattica e promesse
   del volume commerciale;
 - fact-check dei claim normativi e tecnici mobili alla data di chiusura;
@@ -37,6 +37,8 @@ I capitoli non sono dichiarati: la pipeline li deriva da
 - conferma umana esclusivamente allo step 24.
 
 ## Stato di partenza
+
+Il 3 ottobre 2026 si riaprono correzioni, audit specialistico e freeze dopo la revisione integrale del 2 ottobre: 29 rilievi testuali da risolvere, oltre ai rilievi PDF. Le precedenti chiusure della fase F documentano soltanto il candidato storico, non il nuovo testo. Il perimetro resta legacy, senza promozione automatica al formato 2.
 
 - volume commerciale: `[[books/vol-04-giustizia-upp/index]]`;
 - modulo: `[[books/moduli/m-fc04-giustizia/index]]`;

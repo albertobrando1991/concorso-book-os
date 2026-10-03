@@ -1,0 +1,517 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-09-final-20261003-proof.pdf",
+  "entries": [
+    {
+      "number": "1.1",
+      "title": "Profili, perimetro e lettura del bando",
+      "indexPage": 6,
+      "targetPage": 10,
+      "match": true
+    },
+    {
+      "number": "1.2",
+      "title": "Ciclo contrattuale e specialista appalti",
+      "indexPage": 6,
+      "targetPage": 12,
+      "match": true
+    },
+    {
+      "number": "1.3",
+      "title": "Procurement, PNRR e project management",
+      "indexPage": 6,
+      "targetPage": 16,
+      "match": true
+    },
+    {
+      "number": "1.4",
+      "title": "Confini di materia e caso integrato",
+      "indexPage": 6,
+      "targetPage": 18,
+      "match": true
+    },
+    {
+      "number": "1.5",
+      "title": "Classificazione del bando e allenamento",
+      "indexPage": 6,
+      "targetPage": 21,
+      "match": true
+    },
+    {
+      "number": "2.1",
+      "title": "Governance e separazione delle funzioni",
+      "indexPage": 6,
+      "targetPage": 25,
+      "match": true
+    },
+    {
+      "number": "2.2",
+      "title": "Nomina del RUP e responsabili di fase",
+      "indexPage": 6,
+      "targetPage": 27,
+      "match": true
+    },
+    {
+      "number": "2.3",
+      "title": "Qualificazione e matrice RACI",
+      "indexPage": 6,
+      "targetPage": 31,
+      "match": true
+    },
+    {
+      "number": "2.4",
+      "title": "Competenze mancanti e scelta organizzativa",
+      "indexPage": 6,
+      "targetPage": 35,
+      "match": true
+    },
+    {
+      "number": "2.5",
+      "title": "Verifica dei ruoli e costruzione della RACI",
+      "indexPage": 6,
+      "targetPage": 37,
+      "match": true
+    },
+    {
+      "number": "3.1",
+      "title": "Fabbisogno, dati e nota istruttoria",
+      "indexPage": 6,
+      "targetPage": 41,
+      "match": true
+    },
+    {
+      "number": "3.2",
+      "title": "Programmazione e scelta dei lotti",
+      "indexPage": 6,
+      "targetPage": 44,
+      "match": true
+    },
+    {
+      "number": "3.3",
+      "title": "Valore stimato, opzioni e strategia",
+      "indexPage": 6,
+      "targetPage": 47,
+      "match": true
+    },
+    {
+      "number": "3.4",
+      "title": "Confronto delle opzioni e priorità",
+      "indexPage": 6,
+      "targetPage": 52,
+      "match": true
+    },
+    {
+      "number": "3.5",
+      "title": "KPI, decisione e nota di fabbisogno",
+      "indexPage": 6,
+      "targetPage": 55,
+      "match": true
+    },
+    {
+      "number": "4.1",
+      "title": "Decisione di contrarre e documenti",
+      "indexPage": 6,
+      "targetPage": 59,
+      "match": true
+    },
+    {
+      "number": "4.2",
+      "title": "Requisiti, esclusioni, RTI e avvalimento",
+      "indexPage": 6,
+      "targetPage": 63,
+      "match": true
+    },
+    {
+      "number": "4.3",
+      "title": "Criteri, soccorso e specifiche tecniche",
+      "indexPage": 6,
+      "targetPage": 68,
+      "match": true
+    },
+    {
+      "number": "4.4",
+      "title": "Proporzionalità: correggere il caso",
+      "indexPage": 6,
+      "targetPage": 73,
+      "match": true
+    },
+    {
+      "number": "4.5",
+      "title": "Controllo del fascicolo e matrice requisiti",
+      "indexPage": 6,
+      "targetPage": 76,
+      "match": true
+    },
+    {
+      "number": "5.1",
+      "title": "Soglie europee e percorsi nazionali",
+      "indexPage": 6,
+      "targetPage": 80,
+      "match": true
+    },
+    {
+      "number": "5.2",
+      "title": "Procedure, rotazione e casi di confine",
+      "indexPage": 6,
+      "targetPage": 84,
+      "match": true
+    },
+    {
+      "number": "5.3",
+      "title": "Motivazione e controlli dei requisiti",
+      "indexPage": 6,
+      "targetPage": 87,
+      "match": true
+    },
+    {
+      "number": "5.4",
+      "title": "Istruttoria e scelta nel caso concreto",
+      "indexPage": 6,
+      "targetPage": 91,
+      "match": true
+    },
+    {
+      "number": "5.5",
+      "title": "Errori, verifiche e riepilogo operativo",
+      "indexPage": 6,
+      "targetPage": 93,
+      "match": true
+    },
+    {
+      "number": "6.1",
+      "title": "Funzioni del ciclo digitale",
+      "indexPage": 6,
+      "targetPage": 98,
+      "match": true
+    },
+    {
+      "number": "6.2",
+      "title": "PAD, banche dati e pubblicità",
+      "indexPage": 6,
+      "targetPage": 101,
+      "match": true
+    },
+    {
+      "number": "6.3",
+      "title": "Qualità del dato e continuità operativa",
+      "indexPage": 6,
+      "targetPage": 107,
+      "match": true
+    },
+    {
+      "number": "6.4",
+      "title": "Gestione degli errori e verifiche",
+      "indexPage": 6,
+      "targetPage": 109,
+      "match": true
+    },
+    {
+      "number": "6.5",
+      "title": "Ricostruire il flusso del fascicolo",
+      "indexPage": 6,
+      "targetPage": 111,
+      "match": true
+    },
+    {
+      "number": "7.1",
+      "title": "Obblighi, categorie e deroghe",
+      "indexPage": 6,
+      "targetPage": 115,
+      "match": true
+    },
+    {
+      "number": "7.2",
+      "title": "Convenzioni, accordi quadro e MePA",
+      "indexPage": 6,
+      "targetPage": 121,
+      "match": true
+    },
+    {
+      "number": "7.3",
+      "title": "Negoziazioni, SDA e gare in ASP",
+      "indexPage": 7,
+      "targetPage": 124,
+      "match": true
+    },
+    {
+      "number": "7.4",
+      "title": "Scelta dello strumento nel caso concreto",
+      "indexPage": 7,
+      "targetPage": 127,
+      "match": true
+    },
+    {
+      "number": "7.5",
+      "title": "Esercizi e verifica degli strumenti",
+      "indexPage": 7,
+      "targetPage": 130,
+      "match": true
+    },
+    {
+      "number": "8.1",
+      "title": "Avvio della fase esecutiva",
+      "indexPage": 7,
+      "targetPage": 134,
+      "match": true
+    },
+    {
+      "number": "8.2",
+      "title": "Documenti e controlli della prestazione",
+      "indexPage": 7,
+      "targetPage": 136,
+      "match": true
+    },
+    {
+      "number": "8.3",
+      "title": "Subappalto, modifiche e sospensioni",
+      "indexPage": 7,
+      "targetPage": 139,
+      "match": true
+    },
+    {
+      "number": "8.4",
+      "title": "Prezzi, pagamenti e chiusura",
+      "indexPage": 7,
+      "targetPage": 142,
+      "match": true
+    },
+    {
+      "number": "8.5",
+      "title": "Decisioni e rimedi nel caso concreto",
+      "indexPage": 7,
+      "targetPage": 145,
+      "match": true
+    },
+    {
+      "number": "8.6",
+      "title": "Allenamento sui controlli esecutivi",
+      "indexPage": 7,
+      "targetPage": 147,
+      "match": true
+    },
+    {
+      "number": "9.1",
+      "title": "Qualificazione del problema e accesso",
+      "indexPage": 7,
+      "targetPage": 150,
+      "match": true
+    },
+    {
+      "number": "9.2",
+      "title": "Precontenzioso e parere ANAC",
+      "indexPage": 7,
+      "targetPage": 154,
+      "match": true
+    },
+    {
+      "number": "9.3",
+      "title": "Rimedi esecutivi, ricorso e divieti di stipula",
+      "indexPage": 7,
+      "targetPage": 158,
+      "match": true
+    },
+    {
+      "number": "9.4",
+      "title": "Caso di aggiudicazione contestata",
+      "indexPage": 7,
+      "targetPage": 162,
+      "match": true
+    },
+    {
+      "number": "9.5",
+      "title": "Timeline e scelta del rimedio",
+      "indexPage": 7,
+      "targetPage": 165,
+      "match": true
+    },
+    {
+      "number": "10.1",
+      "title": "Architettura del Piano e responsabilità",
+      "indexPage": 7,
+      "targetPage": 169,
+      "match": true
+    },
+    {
+      "number": "10.2",
+      "title": "Risultati, indicatori e identificativi",
+      "indexPage": 7,
+      "targetPage": 173,
+      "match": true
+    },
+    {
+      "number": "10.3",
+      "title": "ReGiS, dati e validazione",
+      "indexPage": 7,
+      "targetPage": 175,
+      "match": true
+    },
+    {
+      "number": "10.4",
+      "title": "Controlli, ritardi e chiusura 2026",
+      "indexPage": 7,
+      "targetPage": 178,
+      "match": true
+    },
+    {
+      "number": "10.5",
+      "title": "Report di avanzamento e allenamento",
+      "indexPage": 7,
+      "targetPage": 182,
+      "match": true
+    },
+    {
+      "number": "11.1",
+      "title": "Fasi della spesa e identificativi",
+      "indexPage": 7,
+      "targetPage": 186,
+      "match": true
+    },
+    {
+      "number": "11.2",
+      "title": "Tracciabilità e condizioni di pagamento",
+      "indexPage": 7,
+      "targetPage": 188,
+      "match": true
+    },
+    {
+      "number": "11.3",
+      "title": "Fascicolo, conflitti e controlli antifrode",
+      "indexPage": 7,
+      "targetPage": 192,
+      "match": true
+    },
+    {
+      "number": "11.4",
+      "title": "Ammissibilità, duplicazioni e rettifiche",
+      "indexPage": 7,
+      "targetPage": 196,
+      "match": true
+    },
+    {
+      "number": "11.5",
+      "title": "Riconciliazione e verifiche conclusive",
+      "indexPage": 7,
+      "targetPage": 200,
+      "match": true
+    },
+    {
+      "number": "12.1",
+      "title": "DNSH: obiettivi e regimi",
+      "indexPage": 7,
+      "targetPage": 203,
+      "match": true
+    },
+    {
+      "number": "12.2",
+      "title": "CAM: obblighi minimi e criteri premianti",
+      "indexPage": 7,
+      "targetPage": 208,
+      "match": true
+    },
+    {
+      "number": "12.3",
+      "title": "Verifica ambientale e caso notebook",
+      "indexPage": 7,
+      "targetPage": 213,
+      "match": true
+    },
+    {
+      "number": "12.4",
+      "title": "Fascicolo ambientale e non conformità",
+      "indexPage": 7,
+      "targetPage": 218,
+      "match": true
+    },
+    {
+      "number": "12.5",
+      "title": "Caso arredi e allenamento conclusivo",
+      "indexPage": 7,
+      "targetPage": 222,
+      "match": true
+    },
+    {
+      "number": "13.1",
+      "title": "Charter, output e benefici",
+      "indexPage": 7,
+      "targetPage": 227,
+      "match": true
+    },
+    {
+      "number": "13.2",
+      "title": "Pianificazione, dipendenze e rischi",
+      "indexPage": 7,
+      "targetPage": 230,
+      "match": true
+    },
+    {
+      "number": "13.3",
+      "title": "Modifiche, report e chiusura",
+      "indexPage": 7,
+      "targetPage": 233,
+      "match": true
+    },
+    {
+      "number": "13.4",
+      "title": "Decisioni sul progetto in ritardo",
+      "indexPage": 7,
+      "targetPage": 236,
+      "match": true
+    },
+    {
+      "number": "13.5",
+      "title": "WBS e calendario: soluzione completa",
+      "indexPage": 7,
+      "targetPage": 238,
+      "match": true
+    },
+    {
+      "number": "13.6",
+      "title": "Laboratorio di verifica del progetto",
+      "indexPage": 7,
+      "targetPage": 242,
+      "match": true
+    },
+    {
+      "number": "14.1",
+      "title": "Lettura dei fatti e metodo di risposta",
+      "indexPage": 8,
+      "targetPage": 246,
+      "match": true
+    },
+    {
+      "number": "14.2",
+      "title": "Simulazioni di programmazione e affidamento",
+      "indexPage": 8,
+      "targetPage": 248,
+      "match": true
+    },
+    {
+      "number": "14.3",
+      "title": "Simulazioni di esecuzione, rimedi e PNRR",
+      "indexPage": 8,
+      "targetPage": 253,
+      "match": true
+    },
+    {
+      "number": "14.4",
+      "title": "Recupero del ritardo e decisioni",
+      "indexPage": 8,
+      "targetPage": 257,
+      "match": true
+    },
+    {
+      "number": "14.5",
+      "title": "Autovalutazione, diario e piano di studio",
+      "indexPage": 8,
+      "targetPage": 260,
+      "match": true
+    },
+    {
+      "number": "14.6",
+      "title": "Kit cartaceo per atti e aggiornamenti",
+      "indexPage": 8,
+      "targetPage": 265,
+      "match": true
+    }
+  ],
+  "mismatches": []
+}

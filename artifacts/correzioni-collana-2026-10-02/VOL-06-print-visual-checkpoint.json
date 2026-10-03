@@ -1,0 +1,16 @@
+{
+  "pdf": "vol-06-print-20261003-proof.pdf",
+  "pages": 617,
+  "panoramaViewedPages": [
+    1,
+    617
+  ],
+  "contactsViewed": 39,
+  "contactsTotal": 39,
+  "method": "Tutte le tavole panoramiche esaminate; dettagli da vedere separatamente.",
+  "findings": [
+    "13 H1 locali duplicati nel modulo IR04; corretti dopo questa prova, final in produzione.",
+    "Schede IR01 più leggibili in due colonne; singola riga di continuazione a pagina56 e riferimenti isolati a57: rifinitura facoltativa."
+  ],
+  "noObservedCutsOrOverlaps": true
+}

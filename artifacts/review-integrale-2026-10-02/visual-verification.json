@@ -1,0 +1,1755 @@
+{
+  "complete": true,
+  "pdfCount": 12,
+  "panoramaPages": 4861,
+  "figures": 308,
+  "pdfs": [
+    {
+      "volume": "VOL-01",
+      "file": "delivery/VOL-01/candidate/vol-01-interior-kdp.pdf",
+      "sha256": "e8b17096975f9a2fcec5c1cf1870f2fcde5d61f1d151e6fa1048a5cd8742bcde",
+      "pages": 592,
+      "allPagesPanorama": true,
+      "detailPages": [
+        7,
+        21,
+        55,
+        135,
+        300,
+        460,
+        578
+      ]
+    },
+    {
+      "volume": "VOL-02",
+      "file": "delivery/VOL-02/candidate/vol-02-interior-kdp-rebuild.pdf",
+      "sha256": "84cf9c406d5b12c33e7ca611af34087360510ae10e538ccbaeeaf567fd490231",
+      "pages": 867,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        27,
+        148,
+        184,
+        292,
+        315,
+        576,
+        580,
+        655,
+        730,
+        832,
+        867
+      ]
+    },
+    {
+      "volume": "VOL-03",
+      "file": "delivery/VOL-03/candidate/vol-03-interior-kdp.pdf",
+      "sha256": "9703e5135bc09e42878eac2e7303c672bd49266a083b5759a64bcf80503dac75",
+      "pages": 738,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        161,
+        177,
+        435,
+        459
+      ]
+    },
+    {
+      "volume": "VOL-04",
+      "file": "delivery/VOL-04/candidate/vol-04-interior-kdp.pdf",
+      "sha256": "151cf2370bb3a3d60b4e6b99a748f8ea25ff130d289b01ebe09df26c47342755",
+      "pages": 303,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        8,
+        52,
+        65,
+        97,
+        152,
+        300,
+        303
+      ]
+    },
+    {
+      "volume": "VOL-05",
+      "file": "delivery/VOL-05/candidate/vol-05-interior-kdp.pdf",
+      "sha256": "27abaae3e01e687eba287d4d3ca566caefbeaa6d71f5f578c5993084ea010131",
+      "pages": 213,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        10,
+        14,
+        18,
+        37,
+        46,
+        137,
+        213
+      ]
+    },
+    {
+      "volume": "VOL-06",
+      "file": "delivery/VOL-06/candidate/vol-06-interior-kdp.pdf",
+      "sha256": "e262d329a64d7d7b1867fc85fe88da46cd433f0917cceaa06886abf35cdb5838",
+      "pages": 530,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        47,
+        88,
+        179,
+        184,
+        199,
+        361,
+        453
+      ]
+    },
+    {
+      "volume": "VOL-07",
+      "file": "delivery/VOL-07/candidate/vol-07-interior-kdp.pdf",
+      "sha256": "2ba9c6c130cb52a17767815213a4f90ed7c876e6078e68ad71515a67aeb940a6",
+      "pages": 394,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        8,
+        86,
+        139,
+        169,
+        232,
+        353,
+        394
+      ]
+    },
+    {
+      "volume": "VOL-08",
+      "file": "delivery/VOL-08/candidate/vol-08-interior-kdp.pdf",
+      "sha256": "78c20cd78374432a0a9d7b9f64b33325eb670def84d68a0724d697955697daea",
+      "pages": 231,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        63,
+        157,
+        211,
+        223,
+        231
+      ]
+    },
+    {
+      "volume": "VOL-09",
+      "file": "delivery/VOL-09/candidate/vol-09-interior-kdp.pdf",
+      "sha256": "0c1fca1dcf32fc27b4d37c198e69bb59723407df699e7f2af394fe78dcf1f676",
+      "pages": 209,
+      "allPagesPanorama": true,
+      "detailPages": [
+        11,
+        68,
+        85,
+        127,
+        168,
+        183,
+        209
+      ]
+    },
+    {
+      "volume": "VOL-10",
+      "file": "delivery/VOL-10/candidate/vol-10-interior-kdp.pdf",
+      "sha256": "03f3445d0a6f5ba821bc7d304a68839d0c9aa48ae00e4b8d12e0c25dde703117",
+      "pages": 100,
+      "allPagesPanorama": true,
+      "detailPages": [
+        24,
+        28,
+        42,
+        58,
+        64,
+        98
+      ]
+    },
+    {
+      "volume": "VOL-11",
+      "file": "delivery/VOL-11/candidate/vol-11-interior-kdp.pdf",
+      "sha256": "83f89a8ac7c9bc950cdd6a7df79526a97dea3641c7a34cc8314da8e5c7f8bdcf",
+      "pages": 225,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        151,
+        159,
+        163,
+        188,
+        204,
+        206,
+        225
+      ]
+    },
+    {
+      "volume": "VOL-12",
+      "file": "delivery/VOL-12/candidate/vol-12-interior-kdp.pdf",
+      "sha256": "f8ecf8499c19bf7727f4bb72314caa84df828c911dd16d0918daa278079609f9",
+      "pages": 459,
+      "allPagesPanorama": true,
+      "detailPages": [
+        6,
+        11,
+        102,
+        120,
+        123,
+        124,
+        174,
+        285,
+        286,
+        349,
+        351,
+        459
+      ]
+    }
+  ],
+  "figureRecords": [
+    {
+      "file": "wiki/books/il-metodo-bando/assets/front-matter/qr-capitale-personale.png",
+      "sha256": "612550cab9b2852b5500d0751fb799f49b6ef070e5ee8a6781ae63909108808f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-01/01-candidato-accumulatore-vs-strategico.png",
+      "sha256": "a669287df0257b6c9499be37c0728e7ed0796482ac1e621ed0b925b98c39af72",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-01/02-cabina-regia-bando.png",
+      "sha256": "73fd6f17d288b7d07815235f9317b738808797aa52de3eadded7215b9cef51e3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-01/03-tipo-prova-allenamento.png",
+      "sha256": "52c9f5f12285d2dcb110bb2332140d153bba5e5017750e7700b516ebcef2de18",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png",
+      "sha256": "61c664d959658cbf593d32eff356d244002b60d391c98ad20ee6da3e0b68def2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-01/05-capitale-comune-moduli-specifici.png",
+      "sha256": "6c97d076a10d544df554a2b83dab2acd7ddecfeddaee91a2ff3be5999c6325ea",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-02/01-bando-prima-del-manuale.png",
+      "sha256": "f1dc46eeb9462d0d220b88a01e4da47a24c18e6634dce414d72d7dadcabf7f43",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-02/02-tre-letture-del-bando.png",
+      "sha256": "68111898f1b0a7f06485bbacd158a8970a6805a04a277313ed51db9b6a3180c5",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-02/04-gerarchia-materie-bando.png",
+      "sha256": "448973631b6beac78bde3121f49db785c975fb2615364f47de99a3e19b95c9a3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-02/03-mappa-informazioni-bando.png",
+      "sha256": "bfbe065f382f63e3075c6f51750fbe917b048a7c5defb62d5b652394f8463983",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-02/05-bando-decoder-doppia-pagina.png",
+      "sha256": "a672306b5b34d562ec0e86c85f3463f306933861244a55bbaa8a1d9c849e5782",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-03/01-metodo-bando-mappa-generale.png",
+      "sha256": "9b5b4e102bc20518f6188869a8ab452b8ea3053d5c55b8e160bb32f5e95bb9f4",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-03/02-materiali-dispersi-procedura-bando.png",
+      "sha256": "97e5143267b87e9971cdde684ebfde88f8c59f06e4c97f75145f8877938cf38c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-03/03-fasi-bando-prodotti-concreti.png",
+      "sha256": "59425109d2f698fda4acf5763088df909d693647bb3b4f7b12463ddaa856182c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-03/04-metodo-lineare-vs-ciclico.png",
+      "sha256": "d3a5f27475d97a5a47f6b92e50d327c08d8ad1ba0a08957d8714d190b9538536",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-03/05-piano-bando-30-60-90.png",
+      "sha256": "92c4449cdf601afc201722f5843b684801fbfa6e1d54bdf98483183fe500d869",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-04/01-costituzione-mappa-concorso.png",
+      "sha256": "71529e2b6aa4a4235aded57f2859335b9f3e11a1f5232e1fb5a2134c3e0615d4",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-04/02-stato-costituzione-forme-v3.png",
+      "sha256": "c9b052a9739f7dfb462c14bd67692af5383f7334528e3f235cdef42ee7ff2a19",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-04/03-fonti-criteri-ordinamento-v3.png",
+      "sha256": "f092169081d5e1ce9728790f074573765bceb383d88ccc9010330b4c880bb622",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-04/04-organi-costituzionali-flussi.png",
+      "sha256": "505783274d6583e1f3df9d036d0eb7c98f8a07cbb946fa65f487c06a119c268e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-04/05-costituzione-pa-concorso-v3.png",
+      "sha256": "bf64cb417d170948408122c6b76b60fc926ea8eac8c59f96995e365fbef12529",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-05/01-diritto-amministrativo-mappa-operativa.png",
+      "sha256": "8f5ed2029c7e5b28eb17d7668d6f0d0d4ceb47913a54e3251e7f4c8212c325ae",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-05/02-procedimento-amministrativo-flusso.png",
+      "sha256": "78568a1c7309d7302ee81bbf6e19c7cf1386bcee0eb95e9d1d7424dc075ef121",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-05/03-provvedimento-vizi-autotutela.png",
+      "sha256": "07ccdf5edaffdc3b1b045af2f950ae5a48d2f362ba316d98b8177899f83ee1b0",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-05/05-silenzio-rimedi-decisione.png",
+      "sha256": "18a6c6f18050a671c5a74ac12e1c0ebea116750894b5b279ee98e6d4c64fa166",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-05/04-accessi-trasparenza-limiti.png",
+      "sha256": "82135fdeac8e76185ebec7be39e0180c02e6922d8d062c58e4a4121a7989d792",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-06/01-pubblico-impiego-mappa-operativa.png",
+      "sha256": "fa26620ad9e9c1bbe4d67858271e5898a61547fcd3f1e760741e0e41e2cadf0b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-06/02-accesso-pubblico-impiego-flusso.png",
+      "sha256": "1420b4577d7635e99fff485f543631e725bc1f576058cf8b8fd38a3c38218c6c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-06/03-doveri-codice-comportamento.png",
+      "sha256": "02be4093d0c5b5ea9f9afe82d56e365dd1a75330df8d24b79a7662a5e2cbbba8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-06/04-responsabilita-dipendente-dirigente.png",
+      "sha256": "4254ac3af1766bc86e81ec623e37d0d99631cd419b034da6e165ab6dd3ff3697",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-06/05-dirigenza-performance-piao.png",
+      "sha256": "d9a1580e3aade5077202df0cbb32eaa927d0ec239575645685f3d7dfeef9b3b2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-07/01-trasparenza-anticorruzione-privacy-mappa.png",
+      "sha256": "6262cd734611466e9425049caae387e7171a76eab83814a448de0342d7ef754b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-07/02-tre-accessi-decisione.png",
+      "sha256": "762cd32197b42775f257f6c69d9bc4e372908e2070a78b3bd6bc23f57ab1a7d8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-07/03-bilanciamento-foia-privacy.png",
+      "sha256": "f019040b0597c63caefe5fdb3822b948f0992e56e8bd7360c9f0234ff037b17e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-07/04-sistema-anticorruzione-rpct-piao.png",
+      "sha256": "5897bf6061474968762437e06f45cce300c8788f6af04f39f627effb7cd36048",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-07/05-soggetti-gdpr-pa.png",
+      "sha256": "e852332b209e36ab242c54911265c91e772fd3d6e73d0c42bf55d1991feb3bf9",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-08/01-contabilita-pubblica-mappa.png",
+      "sha256": "3d1995cd7016ec23dd52c02b88e6a7d5500b2754448b4316f889dde6cab137f1",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-08/02-ciclo-entrate-spese.png",
+      "sha256": "3e57f49efcf7c865eab38dfc507abf40e3fce6898c3640a990a839f22e1eed6d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-08/03-competenza-cassa-residui.png",
+      "sha256": "034b132612773fdf9440157d29463178b5cdbcb391d4a6411f79ffa617b71045",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-08/05-controlli-corte-responsabilita.png",
+      "sha256": "30d80bc1ea9dd983e99aa89e784f500e34625d8a41ff012a5cd2e2a8f6ea36a2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-08/04-ciclo-enti-locali.png",
+      "sha256": "8033cccef14423e55cc0745a6d1f6bd98ad381a3fd1fe0e90ad7a0e5d9e057fb",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-08/06-pnrr-pagamenti-rendicontazione.png",
+      "sha256": "bb418f0252d9ea1d93b92f0b5a3f4d1cc1e73194fdcad6540abdf089acd3a8e1",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-09/01-contratti-pubblici-mappa.png",
+      "sha256": "b995f4c5247053e5d907dee9c693bc8951eeda10710a8878f0db1f6a4f2957c9",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-09/02-ciclo-fabbisogno-esecuzione.png",
+      "sha256": "5c4e71f3781c1bafcd1945aa2b7c4de8b6bd2285212116836eb189abd7b02d51",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-09/03-procedure-affidamento-concorrenza.png",
+      "sha256": "410f062e332b99ca6fb4c274b62e25cf0865022c0a626a1a8c1c3c4ea055e254",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-09/04-documenti-gara-offerte-stipula.png",
+      "sha256": "dbe66fd02e4a17bc18525ea4509a7af0a26723ffe18de806bc3cd75a8ad45d9a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-09/05-ecosistema-digitale-contratti.png",
+      "sha256": "234f0a6c113c25f5a0045f21cf52ac937952443f9282fd0725fd381070d8778e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-09/06-acquisti-controlli-responsabilita.png",
+      "sha256": "5b5b1d22a41a3602bfe4294398b914a0ed890c85797d5fa45b55e38045407a5c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-10/01-mappa-informatica-pa-digitale.png",
+      "sha256": "53cda46415f20047b4757405091fc203f85b0870d3cba2f6bf28ca895ce66d6b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-10/02-hardware-software-dati.png",
+      "sha256": "c2573cf23c28504efddad7d2a3430bc5f5059e6f5e737c3ba584adc8978dd0c6",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-10/03-file-office-dati.png",
+      "sha256": "d55fd1a9b0797ec415b6ef86f37a68b0b83781c7d4ece0480ee552dd99db06dc",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-10/04-internet-reti-protocolli.png",
+      "sha256": "3d6d6b52b7810559decdbed4d6121483b6cc02c666bd17dd9575cdd60749c901",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-10/05-sicurezza-informatica-pa.png",
+      "sha256": "c1af3cbb2713af5e8def056772925405c4cf9e7efb6acc0eb1fc8ab99261b1af",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-10/06-ecosistema-pa-digitale.png",
+      "sha256": "85f965061335c23d9b15fe5060ef21741a7252238ba9b9ce55a7778b05cfbc21",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-10/07-istanza-online-conservazione.png",
+      "sha256": "456d7ebdb2efe258f5cb605ebbaa971dffcc9c2d858a784f09e746bf1109f8a2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-11/01-mappa-inglese-concorsuale.png",
+      "sha256": "62157be3e2253abd347d5581bd0ed8b376b234d3a4124df3a4e4ea7c6164062c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-11/02-metodo-cloze.png",
+      "sha256": "99be5d7cf0eb55c281496d3a462cf675180c31ef8ef0b16820f405ffc26416b3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-11/03-tempi-verbali-segnali.png",
+      "sha256": "eb3683e35b1c949be110d5949f450496179f401ed93eefad415325f62a671d53",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-11/04-ausiliari-modali.png",
+      "sha256": "fb1893c0c9f92b93e2ca530526e5a2718e4b2044097fc27e2e2fcbc9af7f71d7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-11/05-preposizioni-lessico-false-friends.png",
+      "sha256": "78005b16be187064558554d643b3bcb3c00a40a402ca66300beee27c6de22545",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-11/06-reading-email-orale.png",
+      "sha256": "6e2213a660eb5f6e937e536bbb3a007eca34d1d536c1b3389431889f86706bed",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-11/07-ripasso-diario-errori.png",
+      "sha256": "e04561afbd089b2a86f3924791383c0b4afc93aae9420410901ffd6f0fef86d5",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-12/01-mappa-logica-comprensione-ragionamento.png",
+      "sha256": "d75fc3afd7a249d1ccd1d813803e466ccfa3ee6639828a53580b3550a8f61fe2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-12/02-classifica-prima-di-risolvere.png",
+      "sha256": "0d1d1278e94cc209b069fdb101fd4c5096c3a910396bc9096b1a2a2c2879e2f8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-12/03-parole-logiche-decisive.png",
+      "sha256": "e4ce7e689d07235a77a5b52d85ede801c0c0b1b4b81cbb52845f929d18f270a2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-12/04-vincoli-serie-pattern.png",
+      "sha256": "cf173d28922d07ed7e155653df8e46a1f54f27ac43cbcd650d7efd1f26f18c7c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-12/05-testo-argomento-evidenza.png",
+      "sha256": "b23f25b43ac0161f2628347763d02315c0d84088880c69310b928017b087bf2a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-12/06-ragionamento-numerico-rapido.png",
+      "sha256": "31690d54ea9cff0d7a7740c6b11a24a2aa7f987b18f25c7bad288e4cdb23ccc0",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-12/07-tempo-esclusione-diario-errori.png",
+      "sha256": "f2e99b146187ba66748c5272a02cc62a567e2001818f27b4cdb3919c720dd77b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-13/01-mappa-metodo-studio-bando.png",
+      "sha256": "f116816423c2a52071235f3aee01532cab43e3f2f0c2588bd7732deed66543b4",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-13/02-dal-bando-alla-scheda-concorso.png",
+      "sha256": "6b23bf59afe70acd92f45d80a63fd703088b040c24c0245a356b3f1cbc10daa1",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-13/03-calendario-inverso.png",
+      "sha256": "a3d80af0f8c6526ebdf460581c603a1729f78afa2f2645e8411fb7ffee19b2bc",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-13/04-sq3r-nuclei-alta-resa.png",
+      "sha256": "8cadcf7587173ec9ecc6bc1a34df1c479fc6aec90aae2754d508e100d2486ec2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-13/05-active-recall-ripasso-distribuito.png",
+      "sha256": "22131d73fac2e7fd694facaac3b8715eaed492eb98a935f18a2531e5f88aad73",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-13/06-blocco-studio-50-minuti.png",
+      "sha256": "a533cfceeb15934bef4c28c6bca7cfeea6d4001a05ea4ce8bbf5019b7e0953ce",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-13/07-diario-output-recupero.png",
+      "sha256": "e62e92022ee094a5f77d0fca20bebf570d31f3add31998e95747f4f9cfd6b817",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-14/01-mappa-operativa-prova-quiz.png",
+      "sha256": "f3cf27271e92a810b342e531283104f2867987c0f86daf3f644b2c11d2b0faa1",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-14/02-banca-dati-albero-decisionale.png",
+      "sha256": "caffbee350565b9022db98ae7f690fd0ad6f4613db0fa394bacb17e51a1f803c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-14/03-scheda-tecnica-prova.png",
+      "sha256": "21c5360c70c6f4ae593ae177b1956242fbac90ffe83aa5d837496224258f83ae",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-14/04-banca-dati-quattro-passaggi.png",
+      "sha256": "030d7cb32432084a23c1ce8e1ab20f765e41bd0e5c784d1cca7559e0e1ca8b2a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-14/05-routine-tre-giri.png",
+      "sha256": "48d13cc28bbf33306a0e1dabf4db08a06354fd539e6c859f49d9531f68ad899d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-14/06-anatomia-del-distrattore.png",
+      "sha256": "d3b15836133ee36929b2c156e68e2c20690046d82dbed1a2f80a482ce4b8d31e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-14/07-dal-punteggio-al-diario-errori.png",
+      "sha256": "5f3830bcd15b46001c9e8df4b4bf5817ce349c8f1d559f2337bf0e51fb9642e8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-15/01-mappa-operativa-scritto.png",
+      "sha256": "ec7b17cc87b39c34417473c3545652699b6b32324a78b83037779bcce29e8f33",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-15/02-formati-prova-scritta.png",
+      "sha256": "9670bf8d3e5452f5ba44d95af746548d5020a069471357478b38d545d13d276a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-15/03-lettura-traccia.png",
+      "sha256": "d243ad9278531e086a98ffd0db7fc7f7e647fa73f8c6e8f7ed1e7053429fb267",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-15/04-schema-risposta-concorsuale.png",
+      "sha256": "45516f4397fac3c46149744bb0c573e86068406d19879db3829da92c4875679a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-15/05-risposte-10-20-30-righe.png",
+      "sha256": "b6828dd242f57b2773a4f78c6de437aab8ada314033a9e19ec5bf246155c7612",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-15/06-caso-teorico-pratico.png",
+      "sha256": "bb38fdc4258d40c83261eafb39607481cf914d3936e81746dc592a11241fac3e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-15/07-tempo-diario-scritto.png",
+      "sha256": "0919702d460e1a045e4b0142088474ef7fa90b78a1863d2f96c5e56c2fd5aa63",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-16/01-mappa-operativa-prova-orale.png",
+      "sha256": "282055e4c86c7529451caa152e90ee073d61e7cf161f15e1a37b437c39a557c7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-16/02-scheda-orale-bando.png",
+      "sha256": "dcf4e1f0c7d8cfefe2c55f3b6956e091f0d3bf352684340bcbb3baec0fc99ac7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-16/03-struttura-universale-risposta-orale.png",
+      "sha256": "a363fa9849c3c854f15fbf7dfba1c63b5aa1bee20a50d1d2850799bc31f476b9",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-16/04-risposta-due-minuti.png",
+      "sha256": "4a1c25c47a6cd73a0ce381ea34145c80cf9473eb092d45bb67c80237444a7e35",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-16/05-collegamenti-domande-incrociate.png",
+      "sha256": "d77af741f2467d968c238adb800e1692ca74644e4dfff6b66b4bfec2d9c1e095",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-16/06-domande-simulazioni-progressive.png",
+      "sha256": "fe2239dd294df1a85639d7ee982bf4882f1442cd71f26f3c5498050ce4215e03",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-16/07-diario-ultimi-sette-giorni.png",
+      "sha256": "2fd4a5ebaca439479f4e8c5f1503490b486d6c71e59139b715240135acdec9dd",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-17/01-mappa-bando-caso-pratico.png",
+      "sha256": "5c4bf42313003cacefdd74d4ad4c327f6289a5ec9bba0fb3b02fa30361e8dbe0",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-17/02-caso-come-fascicolo-amministrativo.png",
+      "sha256": "7cddc0e98d614919de95ce8438458352b8c7241d6353deb33561b965792a447e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-17/03-griglia-otto-domande.png",
+      "sha256": "12fed5091b78524184f41be3b9ebeb8d8b599e5d19ef5c02c17a2810d95960a2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-17/04-schema-risposta-caso-pratico.png",
+      "sha256": "dee5741596be689fd4ac2c8b45b6854347bd9c96ce32bd13d4be945d9130caca",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-17/05-nuclei-alto-rendimento.png",
+      "sha256": "9287dfb1f604474be61c8b7824b18ec72057c5d20a365df9014cd6fa54cb392f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-17/06-matrice-casi-ricorrenti.png",
+      "sha256": "ba7acc6b898c0b885dcd6a38a4575095cf91fda1cdc9cd69055472401920887d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-17/07-output-diario-casi.png",
+      "sha256": "3feed269f72dfa79eda5aee1c78fba5d76338d1e95187ef4ed2ef335a681e117",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-18/01-mappa-bando-quesiti-situazionali.png",
+      "sha256": "87b883a6f8b8ad742bf99ec4a987ed74686df9863ae821bf7f46419c522a7730",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-18/02-competenze-trasversali-pa.png",
+      "sha256": "7744ea8c54f6781b9ae44b76d8e526a3211fd8a488ef74e321c4f4ac048350e2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-18/03-anatomia-quesito-situazionale.png",
+      "sha256": "179464268555a1cb596d12f32d789d4419661ffb6db746580c21e46da0c6bf6a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-18/04-gerarchia-di-scelta.png",
+      "sha256": "b3e03476bb9340b570be821e72f15b565445f57671b59442e1e33b7134824f37",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-18/05-quattro-risposte-deboli.png",
+      "sha256": "988a2633a7912285af56a6660c85e771bc349f18dbfdcc4ac098c5020dc30ac3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-18/06-lettura-guidata-opzioni.png",
+      "sha256": "6a1e6a66547bfed925b11f0f8c14fbcad27054bddeea77ddcabe2de240617666",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-18/07-routine-diario-errori-situazionali.png",
+      "sha256": "a0e73e09347dbd2467ba1b9e39f5d79718c4151e837799e15f51e4505552619d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-19/01-mappa-bando-famiglie-concorsuali.png",
+      "sha256": "37ae850d865afc547b873ff35ff4cda4d8ed6810dee57387b77f7d8b4ba307e8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-19/02-due-errori-da-evitare.png",
+      "sha256": "24d232d2c19fd06317442f594f25d672aa891413ea4c56b38864412a1d3fc2c7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-19/03-quattro-domande-famiglia.png",
+      "sha256": "39a7a03c7920580e379c890649d5bf33e8f31774c2ed2607fe70a5b90c3ce16e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-19/05-nucleo-comune-modulo-profilo.png",
+      "sha256": "a1ceecd90e5168fc1e7c0e61bbeacb4b6229608049767e9184819fef2d91d277",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-19/04-atlante-famiglie-concorsuali.png",
+      "sha256": "296ac1ccd50c9af6083268f1781483a589b552630c23916914e948e9997f4807",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-19/06-caso-guidato-tre-bandi.png",
+      "sha256": "21d539acb7971d30ab9ddde9513594bc92314661d03f6b1ebfd8bf83076037e8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-19/07-sequenza-famiglia-piano.png",
+      "sha256": "75620da4583282e0d5aeb9fb201f3d1dcc0aed6293e8e46d47d24506d4e39697",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-20/01-mappa-bando-mappe-profilo.png",
+      "sha256": "a7ef5a5c4cafbe543c74b1d2f066102cbf2c081bfb4c12a02ba59ae28ce6ea39",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-20/02-core-modulo-prova-reale.png",
+      "sha256": "0d3770988a76fb82c1a1309767e02fe62c6a3434f6ef9edd4f69f155e46570a5",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-20/03-scheda-unica-profilo.png",
+      "sha256": "7b4a982acf868ad2c9c83619ec31fd116ab9e4646308fb1063b680d74af780ff",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-20/04-profili-amministrativi-e-centrali.png",
+      "sha256": "7f9ed5ab2bb1ea8c4f78794b8821dbed3c6dadd869e340eff70bc81adba950a3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-20/05-profili-specialistici-e-servizi.png",
+      "sha256": "ea6e48396f7809f45118298ebcd3b4e70e53bf919f7cf710c4aa712282ec6d81",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-20/06-semaforo-e-pesatura-tempo.png",
+      "sha256": "475a53e0a7632bd487c26091d2294e903338266c27976645a02fe5c770a097f8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-20/07-caso-guidato-conversione-profilo.png",
+      "sha256": "228056aec4ea4ad05754de7008a84e62d133596c3c187bab6d6d2c4cbb3f05d7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-21/01-mappa-bando-moduli-integrativi.png",
+      "sha256": "56d6092e07072bbccb0d367e3e6d9f3b8410f4f1ecf443b855aa9fef4e93dad2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-21/02-core-modulo-approfondimento.png",
+      "sha256": "a6a204a5d292ce6bcefbce54f2faec812c2fe58b5c125b3e9dc203408164524f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-21/03-quattro-requisiti-del-modulo.png",
+      "sha256": "b221062d31624bbf01ad067e914448de6f3b9139c13ab6a6b93439481bc3fdba",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-21/04-cinque-filtri-di-scelta.png",
+      "sha256": "a5ac31911339a1b0437f877141bcd4e28a28c69168139af95d4095933be17f6c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-21/05-matrice-decisione-moduli.png",
+      "sha256": "3a660fb203cd819e007e0ce0d5d2649a751a6dc17950c6bb3c19878e145a2a8a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-21/06-atlante-moduli-integrativi.png",
+      "sha256": "e46ffe06b53b4abf756a8692cd704b5ff48d06991d1998a453afa7e856cf142d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-21/07-scheda-modulo-e-caso-sara.png",
+      "sha256": "44cc80218c16aed254330c2a794bee988d91b61901bc5b73ecc81c8a15627229",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-22/01-cinque-dati-obbligatori.png",
+      "sha256": "b6e0167221c373f97809677b9f1663d0ced9568f23f40687f0c43daaadd97e50",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-22/02-mappa-bando-del-piano.png",
+      "sha256": "173b8302d6fedaadf010da2484423696b216d4b045d5d7166feb381dab67b6a5",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-22/03-struttura-base-ogni-piano.png",
+      "sha256": "1b25354169361f38ff57d2d13275eed3943472d122a2808b41e31671115edfae",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-22/04-confronto-30-60-90-giorni.png",
+      "sha256": "cb1fde65babdb77061692fe416db4c849cfbec9799c048f9a78faeb59f5cb6cf",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-22/05-piano-15-giorni-e-tagli.png",
+      "sha256": "0891a203e6c6fc599f83da3f86284aeb18a8f282d1bcfa44f4a11b3d0f285848",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-22/06-settimana-tipo-output.png",
+      "sha256": "997d7e327e5a4b88f37a3a148dd9b553e0b7be6f45d67f1cf21b0bdd2c6ac0a1",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-22/07-caso-luca-ciclo-controllo.png",
+      "sha256": "0996335156fe5b6ff26fdb3eb345d02d1ce7e45c3563b27ad00ffaf0b878e14b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-23/01-mappa-bando-diario-errori.png",
+      "sha256": "f63389e7fd82b13f85e50bc8ffca28dc4fd3218c0b660f3f169a13d0ef55f037",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-23/02-sei-categorie-errore.png",
+      "sha256": "7c00a97563984933cb231c48b7bc44af5f3adb5f5cd9f269ce99c644faa8ab10",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-23/03-protocollo-sei-passaggi.png",
+      "sha256": "48824a5a02bb2593024fc10b8b373f69bfa95ee26d8eb2251bf2fbb2a6f6561c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-23/04-scheda-diario-errori.png",
+      "sha256": "9a6fd6237d345c76d704898b1798dc4f21dbc53f040f9f4a17d97e7e93975558",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-23/05-diario-per-prove.png",
+      "sha256": "a70d077d807a233da3cb21fd7e93d2ae37a15e7ed3754a605b53fbdb3c3fd709",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-23/06-flashcard-ripasso-materia-peggiora.png",
+      "sha256": "8a9465352764a8caa394449f321035fe942fc086c3a52aba8748be049e17d907",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-23/07-caso-marta-pattern-errori.png",
+      "sha256": "d41bde99b4c44b2907b4eee361c960a7e0e437b0de31bd53dd9d054b5f3a3168",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-24/02-tre-regole-checklist.png",
+      "sha256": "4e879d907fa37db643223b90b70c887307f4816bc3b5e6ef0c37e2bc95c07c74",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-24/01-mappa-bando-checklist.png",
+      "sha256": "853ca52a4392584003d6c714a2ef4edea6acdf52b4fcec72c47ded49d655e75c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-24/03-percorso-domanda-comunicazioni.png",
+      "sha256": "613c9a6c923c6d2aab1be604ce21e2d6a1563c504bfdfae81c445b47ec81385b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-24/04-checklist-preparazione-prove.png",
+      "sha256": "d2790c416631b0e788452ec2a2ba77b5d627b7f5ce9cb0b27065eb825f1e0077",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-24/05-ultimi-sette-giorni-ventiquattro-ore.png",
+      "sha256": "f60545ef8a2cf0ee1ca8ef52cbe44351fe5e7093bd1600bb108d3b2c5c8e8803",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-24/06-logistica-ansia-tenuta.png",
+      "sha256": "3b7251709a4ec0483e1f765c9f00e49c7910c9f008ea3a144626613c59e6c950",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/assets/chapter-24/07-checklist-unica-bando-caso-giulia.png",
+      "sha256": "df6e611891f23541fd2890516b1bf448185c541c464305dd7e522d62ae9d8726",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/01-mappa-bando-sistema-multilivello.png",
+      "sha256": "85c7e3e05106f5fa00f572b16225ef2ee69281f2dc9a7c252606ba70e55ccf8a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/02-architettura-stato-regione-area-vasta-comune.png",
+      "sha256": "d7e0d96e06cf8bcf5cf2dbe82f3241f817009343a4cad94238d9a280757c8d28",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/03-sussidiarieta-differenziazione-adeguatezza.png",
+      "sha256": "bd1932a64e82c422192a54a8a80e8fbaff7fd7ba81842809f43f3d3fd625bded",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/04-catena-avviso-regionale-comuni.png",
+      "sha256": "2c83091db46bc3c6b6795ed8e1dcaf318de9530e17676f7e115be2444307e7e3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/assets/chapter-01/05-area-vasta-funzione-atto.png",
+      "sha256": "fefd992ea94efd1bce6daaff70eca8c00b2c7d138ccd8fc623fe610d52cd54ac",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/01-mappa-bando-sistema-camerale.png",
+      "sha256": "0bcea102bc97930cc1d657c6830a3456cff1154cbc6ce573ad0547b2fa33755d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/02-autonomia-funzionale-camera-commercio.png",
+      "sha256": "6b632f0b63ce09d97a54cd6001b3bf3dbaabe1bd8937b81c43740e240a9fda27",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/03-sistema-camerale-unioncamere.png",
+      "sha256": "8f8bc002d51535289bf6f2f48cc57bb43048cf3b28cb1fe9cab5c1257ab65073",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/04-funzioni-camerali-servizi-mercato.png",
+      "sha256": "7a35fdf6c4ee1ec7f08838c786d4f8615cac93ed0de92f9068f8769c4a3582fb",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/assets/chapter-01/05-catena-impresa-camera-suap.png",
+      "sha256": "b0130e11f0448441d1f593a1950696e90168bd062a194c9a9a8154146a5ef1e4",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/01-mappa-bando-agenzie-fiscali.png",
+      "sha256": "8483b19ec8c456094eb9563bcf4b0606c6b2cb873fe27bbbcf9e3c451244ca5f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/02-perimetro-mfc02-dentro-fuori.png",
+      "sha256": "4e691c0b03e199c2297998c1dad1ba798402d7f36e61c1ebd57191f8b5ebf943",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/03-tre-porte-ae-adm-ader.png",
+      "sha256": "c9a14b49160ff94369aa2893b9d2cfccd27c4b12dc7e36ba86a35e747706027d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/04-nucleo-comune-delta-fiscale.png",
+      "sha256": "acb582766505798a2e4ece17e3067f27f7f96087ecfd3de47919b479442e53e3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/05-bando-decoder-fiscale.png",
+      "sha256": "2ce57e12e4d4679ce93ca2cc4858a2ca1f97c03effef152be9d646a020f274d6",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/01-mappa-bando-decoder-fiscale.png",
+      "sha256": "225c2f85059457eedb90d2a9bdc04296a58624c81e27e03924feb72156e80828",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/02-codice-profilo-famiglia.png",
+      "sha256": "c4b38ff0af962cc663cbba58be60a0e33fafb0e3425aee05549e4d6f3e4bbda9",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/03-prove-output-decoder.png",
+      "sha256": "8e0e83c3b5a7cf9e7b20675fa4d9e1fcd45fab58f53e942ed14fe095e026e10a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/04-priorita-studio-fiscale.png",
+      "sha256": "773d4a54a68206399b066e2c8a0fb4b789713083a21e6f0ca9edc5179293afa3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/05-caso-tre-decoder-fiscali.png",
+      "sha256": "4cbf6b423bdf12cf27bf420ff4dcb253b43282561c4b425b67b5cb23d87c6462",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/01-mappa-bando-organizzazione-fiscale.png",
+      "sha256": "dd3730d5e40331a1a7437a60f7ec66cfd5b0635e88df23241cc8bb5a07b9b573",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/02-modello-mef-agenzie-fiscali.png",
+      "sha256": "f4d981164c6617a2fee5900e02119fcdd2241ef911da4e079df8a5b6f77b56cd",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/03-tre-funzioni-ae-adm-ader.png",
+      "sha256": "2c6688bea4bbbe6ff4b334993b41c6ecb61024de9953ecb22a7bbbf3316407b8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/04-centro-territorio-canali.png",
+      "sha256": "75e84e0f3e3c9debb3128e46bec28f09d18468fac0c50696ff9a01e274907509",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/05-accertamento-riscossione.png",
+      "sha256": "3a29409f40e08f319e2c1b987cf26b9ba1f587f7697cd7ad56e146a270834238",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/01-mappa-bando-diritto-tributario.png",
+      "sha256": "cd3ac0c3afaff5963e5afa6305b418325d35bef28b92c5d94e4c3130d114824b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/02-sequenza-nascita-tributo.png",
+      "sha256": "f368f75f9e3219d18cbfde5d0a999d5b617e1245c1b507e34680a36321d60d99",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/03-categorie-del-tributo.png",
+      "sha256": "214d9af615a884889e3399addc26ddb4c156f1387b25bc69fae3d4fa7ae9161b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/04-presupposto-base-aliquota.png",
+      "sha256": "91179a98b484a7e3773843d14fcf023dfd0e4b9a0780ad3b67f77daede886489",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/05-tuir-iva-accertamento-riscossione.png",
+      "sha256": "ddc0441180489ef659abe3c83eb0ce35dabea8e5ee224f55fedbb1a0a33fbec5",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/01-mappa-bando-accertamento-compliance.png",
+      "sha256": "63a21d4e043bada7a2edd3a3b428ee23aa666ea6720c07470d324e9fb0c37d7f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/02-sequenza-controllo-accertamento.png",
+      "sha256": "63f4d621496f8555ec6c3ffea8e09fad2babfb6179a4621344de63abbc5b6246",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/03-poteri-garanzie-atto.png",
+      "sha256": "e247658d9d7300707ca07efeea4dc90eaeeecdf05a7a3a417892c256cd850e16",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/04-compliance-rischio-fiscale.png",
+      "sha256": "444b6baba60b198fbebd579c7a3e66236bba9d9a1d1e739f05261223c0a85231",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/05-adempimento-collaborativo-tcf.png",
+      "sha256": "eaaae306c1043c319f711a757e9d7ace21115db52a21937279378b99bdbf81dd",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/01-mappa-bando-adempimenti-fiscali.png",
+      "sha256": "d5c37c8bc6d670592e54a63617e9c2285ed0d2da3a5d8b7d452a6e4bf63e80a0",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/02-redditi-iva-due-logiche.png",
+      "sha256": "a838455f10b5b9384eaad84b7faf9f26309c6b5395bdc7436fa35a52c788e123",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/03-flusso-dichiarazione-versamento-controllo.png",
+      "sha256": "e1f01de4774dce7eef2e038bb997253ce43aef808911a9432589769e8ec6ba53",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/04-credito-rimborso-compensazione.png",
+      "sha256": "aad553d360d1acb05e6f397856fb095dee16e301ba0ae1e51dd33b6c4b2d8c78",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/05-servizi-compliance-controllo.png",
+      "sha256": "0b1b35ca8ccebfe4ddefd62302d4e1f1c09834c3bb1ad703c966acac32a53f59",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/01-mappa-bando-riscossione-ader.png",
+      "sha256": "f1389702857b011fe186e40838c6f7c69e0c8c4c6d2a9bfc5a1113b1024a9846",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/02-accertamento-riscossione-distinti.png",
+      "sha256": "a18f181f7a5592650aa73245ede8b503267b4c65188ad996c5a55ad6c6d143d2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/03-flusso-riscossione-nazionale.png",
+      "sha256": "81c2f11df25b0df04270c30d4ebb881ea44454991eb46c9e996a3cd99ce05e3a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/04-cartella-rateizzazione-sospensione.png",
+      "sha256": "ae655c36873ffde3f43c40c9a0838e1201f2b3e747de002b88f462d20b5ca44e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/05-front-office-ader-checklist.png",
+      "sha256": "f10319039de3bb9a3d4d8b733075fd398ac50a745e3145a7b0b68d918231a347",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/01-mappa-bando-dogane-adm.png",
+      "sha256": "d3803c93d1b946adf54edb311d1c4f98a65f2e3176c4c3c7bbad519a6f218a65",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/02-flusso-procedura-doganale.png",
+      "sha256": "c0df739ac970e7dfe57464126262172a2644e6a87cf3675f2271dc6681464dd4",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/03-triade-classificazione-origine-valore.png",
+      "sha256": "66c754a2cfc22db67171aa0280856a1854129982aaa2a155fe3e9db981d2f4e1",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/04-controlli-doganali-rischio-aeo.png",
+      "sha256": "335cae929e8ddce7b81ea06bde46c5f4136b3d0c01bf29931c4adf997ae05b0b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/05-checklist-dichiarazione-doganale.png",
+      "sha256": "3ebc4eea833cdeceebd9c321f1327e0f57bb4b4d5023d98e62db2717e61c541b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/01-mappa-bando-accise-giochi-monopoli.png",
+      "sha256": "071f58cd68df4a856bf19bb62c97e959523c957200de8a938645152d0cae634a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/02-filiera-accise-regime-sospensivo.png",
+      "sha256": "471a6cbd6a8a3cafecad64803ea6b69639590d430fa050139a20fae1f1d30cb8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/03-prodotti-giochi-monopoli-adm.png",
+      "sha256": "8e6723d4cc8f8c0f7ede79d0e9622341234c7daf5a6256c39f132c5602836e1e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/04-controlli-adm-filiere-regolate.png",
+      "sha256": "6a21a6f93be8190ba47995daf0adff44fdb44badb45d05abe5cac49bfc958495",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/05-checklist-accise-giochi-monopoli.png",
+      "sha256": "e71eae8d1e337bc4cc89e4e3e727e5ddde0b698a03d1b7e687051f69aef8084d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/01-mappa-bando-territorio-spi.png",
+      "sha256": "696f18b11381f060e75f96f84b3651738589d5e7469c4b0ad01cb903266e415c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/02-sistema-catasto-cartografia-estimo-spi.png",
+      "sha256": "64243bfaf29fea9e8cee2876263d7b3363d8dedcf3afe71614a7d3dd9e5253c1",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/03-identificativo-classamento-rendita.png",
+      "sha256": "ee2f36845e1b4ffd13c6e96ecef6c939511a65371522544011ce69cec9e907d7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/04-servizi-procedure-territorio.png",
+      "sha256": "d1d33e5b5ff137477457978e5a28f90393f7ee8d068f17a24dcbd04f9613633c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/05-checklist-catasto-pubblicita-immobiliare.png",
+      "sha256": "1559886387296e15f4777eea580f0fe839dfca6ea4984a66296eda0cc3cbe1cf",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/01-mappa-bando-bilancio-fisco.png",
+      "sha256": "28931708b95d3ffa26f24dec9cd4645b273532e43f1635df42eb0ba3e57a299e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/02-bilancio-quattro-documenti.png",
+      "sha256": "67bef6fa7d9522f13e0ac3e8e6144458c3436696c7422ebd790ba6d4677b71a2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/03-ricavi-costi-incassi-pagamenti.png",
+      "sha256": "1f914a05e003b77dbc5e4f5700dbadfd4f11a85ec8f7cb22db0e0532c162eb95",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/04-utile-reddito-imposta.png",
+      "sha256": "b21b1ac114e34159be113318cc3bf65676b5aa599eb2c464073ad1eb934de307",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/05-checklist-bilancio-fisco.png",
+      "sha256": "17c55914bf2d6f707978644053fb2892e364e6a76ebb62858cd47a54fa54b4ca",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/01-mappa-bando-civile-commerciale.png",
+      "sha256": "d595cf4afa4e73885247aea85f429a264294e37dd7f8db9e25335993784dfb2e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/02-credito-debito-piani-giuridici.png",
+      "sha256": "b4445c916c6e24c441fe650271af25a203201538ae8efb1375b6279208b846b7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/03-contratto-fattura-pagamento.png",
+      "sha256": "bf4b29e3a154c97543402d3e2812c444d01b2edff76b265f7428c5a5c0daf42b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/04-impresa-societa-applicazioni-agenzie.png",
+      "sha256": "66019cd7ebd1bd5fded2fb5aba9abbd7271542d98a48eb6a2b68189e013019d2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/05-checklist-civile-commerciale-fisco.png",
+      "sha256": "791ab9864acbe9cb3a31481bd0bedcbc04d2b4770447617d0d408575094e2c1e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/01-mappa-bando-performance-finale.png",
+      "sha256": "f87d84975b7dd61557dc5f81f3a858595d19fb9123a08f72d2124ce67d73520d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/02-quiz-quattro-mosse-parole-spia.png",
+      "sha256": "d29637208ae3f93c05b05739b4421fbf691d01b6d1424ee59122b9c621becbcc",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/03-casi-ae-adm-ader-griglia.png",
+      "sha256": "6945c1a8e05bd5412bb0e21009acbf4b46e9c6518c2b8b3b8097bc5c96cd1241",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/04-orale-90-secondi-domande-trappola.png",
+      "sha256": "3a04df9ddefc7608454acff5c6740f3cf771bc282f675f563f7fc05e16a07b57",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/05-simulazione-diario-piano-30-60-90.png",
+      "sha256": "b8b1a1f6856bff45ce07f1dcc341c2a2e4d927c9e5314a13aa34b87be19f2eae",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/01-mappa-bando-appendici-operative.png",
+      "sha256": "556f09935e821cd34d28a3f8d727dc2d4fb95a182be762f9f01919853fce138c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/05-allerta-bando-glossario-output.png",
+      "sha256": "38c60bed5fab0772f6c08a7bce2fdd9f61ba7beb8e72abdd14778ecb3b569b7e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/04-front-office-privacy-protocollo.png",
+      "sha256": "3c867d8bbadb592bc59f6700a1cae5b510391d69826e45158abd6cfdd1396d01",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/02-reati-sanzioni-condotte-rischio.png",
+      "sha256": "7bcec3c6e92c35c12a0879369cf633dca6d884b1eef7428493bbe3a7c042a570",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/03-diritto-ue-doganale-mappa-operativa.png",
+      "sha256": "a043a03ef8cea9f2526cf6fe9abc6e1b7890b17ee93e0d755ca5dc022cb3d969",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/01-mappa-bando-authority.png",
+      "sha256": "f162ea0cba66d83bdc035d38f4383123a8a68feef920cc99f3d505c136d67c67",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/02-authority-settori-poteri.png",
+      "sha256": "c4a2037bdf250e30309db9c7ac74442693594a6b7af701c7552848e1800cdfef",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/03-percorsi-g-e-p.png",
+      "sha256": "bd1cd757d157f5402e1fc2979079bec74549379f3f22cea0dabb9fa17231f909",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/05-bando-decoder-authority.png",
+      "sha256": "6cf005a57ad9597981c661c062ede23157da6264e5be806906009f34a469954c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/04-nucleo-comune-delta-authority.png",
+      "sha256": "857c2847e9d389c1a751512421fc91a00d3601c11bc6ceb7ec7501dadcc6275d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/01-mappa-bando-indipendenza-governance-accountability-personale.png",
+      "sha256": "9b74208b2d7b5d4cda0f986a0213f167b81be19ffb34ec60e99d763aecd9d802",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/02-architettura-indipendenza-governance-accountability-personale.png",
+      "sha256": "2431719f8bd41f789fd8ee551c5f6e75987d68a33db827feaf904788507ae08a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/03-flusso-indipendenza-governance-accountability-personale.png",
+      "sha256": "8ca7bba4bcd39498e405aea0e7c2a82a4c6e01d180ad22a779b230c942885d7f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/04-distinzioni-indipendenza-governance-accountability-personale.png",
+      "sha256": "d653eb8ab5280f8429a9a32c17906ce5b9869c3cba3c14646c0d2125ffe39152",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/05-sintesi-indipendenza-governance-accountability-personale.png",
+      "sha256": "09fb0678dcc3e712307c3cb2a20a28ed1a6ab42371ef94c17ab30280327f67ac",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/01-mappa-bando-regolazione-europea-reti.png",
+      "sha256": "7c612afbc025288f65de499b108a1f460789f4b532c562dac256fcaf6e69932a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/02-architettura-regolazione-europea-reti.png",
+      "sha256": "ce0a3e8d90828f4a3f0aa54e278df1ebbb87a264aa989a7193e19304ed37fe62",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/03-flusso-regolazione-europea-reti.png",
+      "sha256": "11bee7af624b49880220c00a341ea4031f133b5037f785fd5c4efae08666dca1",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/04-distinzioni-regolazione-europea-reti.png",
+      "sha256": "49390dad6f241f34b62f1014b969dd6c1182c6de7647c504e9e1d3c621d2df33",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/05-sintesi-regolazione-europea-reti.png",
+      "sha256": "1cd2c4b23a2915c6f29260a27ec0520318c4a571339bffd3653aa4aef643412d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/01-mappa-bando-ciclo-regolatorio-air-vir.png",
+      "sha256": "9e9c1695865995bce4389b4780b1dc3e4c0ec0dd89b6297f5ad4c268849e4f4a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/02-architettura-ciclo-regolatorio-air-vir.png",
+      "sha256": "975bd3705f456fc1bbac628e9b25bbd14bc6c915d3388b5116d25d30eda9411a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/03-flusso-ciclo-regolatorio-air-vir.png",
+      "sha256": "f6f1fd80c528b4087fd791a4c70c0e648f834198f37c260014f58baa457e6a38",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/04-distinzioni-ciclo-regolatorio-air-vir.png",
+      "sha256": "8b3501a84e80cd53051ccb55d070e593565ec4509d1754c08a63ae203db572ca",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/05-sintesi-ciclo-regolatorio-air-vir.png",
+      "sha256": "b894c8e57745e9c52ff81f17a884b7a5df186b8f8d7cbb7289a9610e19436af0",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/01-mappa-bando-vigilanza-istruttoria-prova.png",
+      "sha256": "3e27e267bcbe2cca71200934a5d6ae70c584790c1911b194f5115e1297947f90",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/02-architettura-vigilanza-istruttoria-prova.png",
+      "sha256": "d5063294687e433b83f14d27dab6c6bc31336a95e3c0bbb0c28586683c902331",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/03-flusso-vigilanza-istruttoria-prova.png",
+      "sha256": "5436a9f88a199a02cc500cc052b7ba0ca79f10121b5eb1ba6d576bd3c42ff345",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/04-distinzioni-vigilanza-istruttoria-prova.png",
+      "sha256": "5f75d8ee0c111b27261d478ddb600e0a4602bd936df29d0e4b55d5a9f729f79c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/05-sintesi-vigilanza-istruttoria-prova.png",
+      "sha256": "fefd333f57b802342acb72d0986eedf2039e57ca485b90785e5ae62d7ab2c44c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/01-mappa-bando-sanzioni-impegni-rimedi.png",
+      "sha256": "db020da15f1e357a2ce4a8a428b35b3932d9bc17b860ac2c53b89db0dcfb3e2f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/02-architettura-sanzioni-impegni-rimedi.png",
+      "sha256": "10e00bc1b6e2c1211f6272250ee3dad084e80b74f4605402a79b26bff83097d2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/03-flusso-sanzioni-impegni-rimedi.png",
+      "sha256": "927fda4eda053c100f4e6d9c859d4002894f2f80971701036b75bc91ff49d3e8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/04-distinzioni-sanzioni-impegni-rimedi.png",
+      "sha256": "8bc8c03a29ac5d292579b9892ab660db2e73cf8263fc18694a84bb9b54cc2960",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/05-sintesi-sanzioni-impegni-rimedi.png",
+      "sha256": "42f78da4f1b82873dbe12a680fd5ce410f9735b0823ee8d082cdca5f21859029",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/01-mappa-bando-economia-regolazione-dati.png",
+      "sha256": "e6ce526cb57c32779cb654351d68f56563361c1bd491a034a29459c454891961",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/02-architettura-economia-regolazione-dati.png",
+      "sha256": "0696b1601db2a049ca8ce7bde050468ebf5dd9af67b60d58e536d93c5ceda2ce",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/03-flusso-economia-regolazione-dati.png",
+      "sha256": "df1e986853acdb6b3615911137fe463bc001b2d5d0227ec49deaedc70f407d84",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/04-distinzioni-economia-regolazione-dati.png",
+      "sha256": "60fc71e379435b1d3f393781ceaaac4921496457e92b8c677d3f71940b422577",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/05-sintesi-economia-regolazione-dati.png",
+      "sha256": "54f236691e1a5bbca02cfd6cea6c00133795b62684745bebf979d10bd55164d5",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/01-mappa-bando-agcm-concorrenza-consumatore.png",
+      "sha256": "a172a8b6597e1adefb016a3dcc450f1808ca4681a91990a16694015b98255bfa",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/02-architettura-agcm-concorrenza-consumatore.png",
+      "sha256": "4cb0eae1100a0d246f1dff14da367620e01befcc474c1ced876698999783b852",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/03-flusso-agcm-concorrenza-consumatore.png",
+      "sha256": "40832742c4f73b79112eeb3861386383ef0399914da77659a9d36c390542cf1a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/04-distinzioni-agcm-concorrenza-consumatore.png",
+      "sha256": "296cd6bdd0332c51422f17b897f144cfe4ed76012de4e9096f827dda53718efd",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/05-sintesi-agcm-concorrenza-consumatore.png",
+      "sha256": "7948954801acff7bca1d431187175b70ac4bf86b4ac0abd31aae64790afc4cf2",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/01-mappa-bando-arera-servizi-tariffe.png",
+      "sha256": "e6e583a8e8ee37c5d36cfcaa0067152a92e3f2365b0556df59ec647e8c64b3b3",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/02-architettura-arera-servizi-tariffe.png",
+      "sha256": "ad9045a039cc44cedcf7fec34f451bf9dd08d676203ed99068d29f47805e4fe6",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/03-flusso-arera-servizi-tariffe.png",
+      "sha256": "49fde054edd829605a3e9c9114a0b5794a95ac6ebed30ac810a3bbe2a7be8849",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/04-distinzioni-arera-servizi-tariffe.png",
+      "sha256": "ae2decd75c8940e2e78398647435871e31cc9581ff6c4b7e0e5c516157b643a9",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/05-sintesi-arera-servizi-tariffe.png",
+      "sha256": "0378f22561aebfad0752406e2906eaaa0ab5da621ac527676d37d126a7c1fbc6",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/01-mappa-bando-agcom-media-piattaforme.png",
+      "sha256": "cf10c6d2d240f61dce6e9635f5bc6931f7521f7341285ad1349a0a1b15925a7d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/02-architettura-agcom-media-piattaforme.png",
+      "sha256": "a314c35f00de0406ee9695b6fd5414c7be110529535e5f86c39cca9775481ed6",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/03-flusso-agcom-media-piattaforme.png",
+      "sha256": "02d261e7e3e89fde48e06143c3bb1493ed731aeb3bd87b94af5b6c2fd1cece04",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/04-distinzioni-agcom-media-piattaforme.png",
+      "sha256": "ef7c891384d6b6f56569cce390fc4193be7b1bc82a9414d1cf9b5fe06c1a324d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/05-sintesi-agcom-media-piattaforme.png",
+      "sha256": "25fbaaddec69f03dacecc9ee6fffcb9e5b831f1db14e9a73b94db902016a902b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/01-mappa-bando-consob-mercati-investitore.png",
+      "sha256": "03703c2eae26b7dfd8b6393f435c16469d223446c85e0bf3533851e9a52f7327",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/02-architettura-consob-mercati-investitore.png",
+      "sha256": "40f80a6c99fa08b099375145f0379a4a3d1539bb0f9397e453e879a06d05a69b",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/03-flusso-consob-mercati-investitore.png",
+      "sha256": "a015145f21d7dc9dfda00ad8d46ce506ec02f8a8a70626a8ec93de6f0c78e562",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/04-distinzioni-consob-mercati-investitore.png",
+      "sha256": "3441d2862a1cf2865a76b7dac04fa0e7d9a379379afe3499aeb5e2fc62ea5955",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/05-sintesi-consob-mercati-investitore.png",
+      "sha256": "dc3b4350fe923bcfefcb9fa8928f4bf29213d731c9e5ed49013772b7320117b7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/01-mappa-bando-banca-italia-ivass.png",
+      "sha256": "168579fc3e3e093c498eced07743a191fa4599ed55ae97071e350626b97e0c3a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/02-architettura-banca-italia-ivass.png",
+      "sha256": "a44859462ebdb6d07af7173f023506a39a58fc12fe332ccdbda9ac8f19d40dac",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/03-flusso-banca-italia-ivass.png",
+      "sha256": "cd72d77d9e23229456ccd0ef05cd9e918c4afb5c22e25513b1ab0e35ebd8a726",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/04-distinzioni-banca-italia-ivass.png",
+      "sha256": "cb135f65a22b87240ada32759522319d81267b0e62bc9c5d9f5a9cd327685e3f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/05-sintesi-banca-italia-ivass.png",
+      "sha256": "fa52e5a0acb289834a16825bc854c246f31c2598889868aa7f9900f7605dd368",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/01-mappa-bando-garante-privacy-cooperazione.png",
+      "sha256": "839d294febd90faf22bb40ba76b4ee66f3c5e0369eff9d9192f86f8f3daedd63",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/02-architettura-garante-privacy-cooperazione.png",
+      "sha256": "1d0655e85cc1fb1f55343c827483c02a98be5c3b0a8375e417608cd4bc0f1066",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/03-flusso-garante-privacy-cooperazione.png",
+      "sha256": "719fe13557d2c80d24a89805e1ff37789b64fe2ecb4092f4686939b34d15f5c7",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/04-distinzioni-garante-privacy-cooperazione.png",
+      "sha256": "564361ab741bf9f2d3b60c9094eaec50156872d70c54b3192e87fa1cf984a56a",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/05-sintesi-garante-privacy-cooperazione.png",
+      "sha256": "7f7201145366a50d80496823981fda6918b942a206239793f1ce1667bf3b64c8",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/01-mappa-bando-anac-prevenzione-whistleblowing.png",
+      "sha256": "edf08f45991036c4c18eefac0a90d4a88397e8f98336b13ce15a3e0e7a10778c",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/02-architettura-anac-prevenzione-whistleblowing.png",
+      "sha256": "ebe6ce7dc1572cd40d1c987c5ef42ed9274ebdab8be4a9873b3e1c09f21464ed",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/03-flusso-anac-prevenzione-whistleblowing.png",
+      "sha256": "c7800adb3142e23526105d42e4ddc158ef48f892df98b49c2d6737cde5d0c643",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/04-distinzioni-anac-prevenzione-whistleblowing.png",
+      "sha256": "f72f66eef483889315418e15f8a419cc95f1d5cadb1b632995c9d4ba24939f3d",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/05-sintesi-anac-prevenzione-whistleblowing.png",
+      "sha256": "436d232b50fbebce28f3e8bdda0ae86918b4b2ba3945a35ab63d5bdcea479c0e",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/01-mappa-bando-laboratorio-prove-authority.png",
+      "sha256": "5b6bbdf392a62c62b7efd34f329f3704b3b2293ca3906059e3d4413071c3b79f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/02-architettura-laboratorio-prove-authority.png",
+      "sha256": "73dd637afa1733d1aaf7ec3699d3a2056548f6c4706c7a1e30eaebfcb4d9c514",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/03-flusso-laboratorio-prove-authority.png",
+      "sha256": "2e877eeb1396baba02be92236fbf49b7983e68b6d0a04081d618060a04ae947f",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/04-distinzioni-laboratorio-prove-authority.png",
+      "sha256": "0359650e70cff616c368f0fb31eb1ef5cfce686489598bf633789a306967ed50",
+      "visuallyInspected": true
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/05-sintesi-laboratorio-prove-authority.png",
+      "sha256": "70b6d632a31f26b5c998e7342fde9c08ccefcadd460c6f9adb06ab5e3ba66b8f",
+      "visuallyInspected": true
+    }
+  ],
+  "problems": [],
+  "limitations": "Panorama of all PDF pages plus selected details; no full-size second proofreading or physical print. All figures inspected; QR service not tested."
+}

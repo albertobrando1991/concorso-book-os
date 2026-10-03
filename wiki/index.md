@@ -1,8 +1,27 @@
 # ConcorsoBook OS Index
 
+## Audit prepubblicazione della collana — 2 ottobre 2026
+
+- [[reviews/audit-integrale-2026-10-02/README]] — revisione diagnostica conclusa: 12 volumi, 326 capitoli/appendici letti integralmente; panorama dei 12 PDF e controllo delle figure. Correzioni da applicare; collana non pronta alla pubblicazione.
+- [[reviews/audit-integrale-2026-10-02/registro-interventi]] — 582 voci operative con posizione, gravità e proposta; disponibile anche il CSV nella stessa cartella.
+- [[reviews/audit-prepubblicazione-collana-2026-10-02]] — primo rapporto, conservato come storico e superato dal dossier integrale.
+- [[reviews/registro-audit-collana-2026-10-02]] — registro preliminare storico; per lo stato conclusivo usare il dossier integrale.
+
+## Integrazioni in lavorazione — 2 ottobre 2026
+
+- [[reviews/piano-integrazioni-vol-01-vol-07-2026-10-02]] — cinque capitoli integrati, 43 nuovi quiz commentati, revisioni indipendenti concluse; impaginazione e consegna ancora da chiudere. Escluse Campania e cultura generale.
+- [[reviews/integrazione-base-verifica-indipendente-2026-10-02]] — documentazione, rimedi e incarichi.
+- [[reviews/integrazione-cap12-verifica-indipendente-2026-10-02]] — aritmetica e logica, chiavi e ambiguità.
+- [[reviews/integrazione-sanita-verifica-indipendente-2026-10-02]] — organizzazione, servizi, accreditamento e finanziamento nazionali.
+- [[reviews/integrazione-layout-verifica-preview-2026-10-02]] — nove tabelle riorganizzate; geometria su 160 pagine e campione visivo, non certificazione del PDF.
+
 Aggiornato: 2026-08-04T00:00:00+02:00
 
 ## Sources
+- [[sources/ricorsi-amministrativi-e-tutela-dl19-2026]]
+- [[sources/incarichi-extraistituzionali-art53-verifica-2026]]
+- [[sources/integrazione-sociosanitaria-accreditamento-quadro-nazionale-2026]]
+- [[sources/lea-aggiornamenti-pubblicati-settembre-2026]]
 - [[sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026]]
 - [[sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss]]
 - [[sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani]]
@@ -236,6 +255,8 @@ Aggiornato: 2026-08-04T00:00:00+02:00
 - [[sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici]]
 
 ## Topics
+- [[topics/documentazione-amministrativa-e-rimedi-operativi]]
+- [[topics/incompatibilita-inconferibilita-e-incarichi-esterni]]
 - [[topics/giustizia-e-upp]]
 - [[topics/polizia-locale]]
 - [[topics/servizi-demografici-elettorali]]
@@ -856,3 +877,49 @@ Aggiornato: 2026-08-04T00:00:00+02:00
 - [[books/volumi/vol-03-fisco-dogane-previdenza-ispettivo/planning/02-indice-analitico-ricostruito-2026]]
 - [[reviews/vol-03-audit-iniziale-2026-07-17]]
 - [[reviews/vol-03-gap-report-2026-07-17]]
+
+- [[reviews/correzioni-collana-2026-10-02/README]] — Applicazione autorizzata dei rilievi prepubblicazione: in corso, gate finali aperti.
+- [[sources/vol-01-costituzione-correzioni-2026-10-02]] — Fonti costituzionali consolidate per le correzioni del volume base.
+- [[sources/vol-01-esempi-logica-inglese-metodo-2026-10-02]] — Verifica esempi, inglese e pianificazione VOL-01.
+- [[sources/vol-01-digitale-esempi-correzioni-2026-10-03]] — Esempi e regole digitali del volume base.
+- [[sources/vol-01-procedimento-correzioni-2026-10-03]] — Procedimento e atti, aggiornamento delle condizioni normative.
+- [[sources/vol-01-accesso-privacy-correzioni-2026-10-03]] — Accesso, privacy e segnalazioni.
+- [[sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03]] — Impiego, contabilità, affidamenti e calcoli.
+- [[sources/vol-01-candidatura-casi-correzioni-2026-10-03]] — Candidatura e casi applicativi.
+- [[sources/vol-09-governance-contratti-verifica-2026-10-03]] — RUP, qualificazione e responsabilità.
+- [[sources/vol-09-programmazione-sottosoglia-verifica-2026-10-03]] — Valore, programmi, soglie e rotazione.
+- [[sources/vol-09-gara-requisiti-verifica-2026-10-03]] — Requisiti, avvalimento, RTI, soccorso e criteri.
+- [[sources/vol-09-accesso-rimedi-verifica-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-bandi-specialistici-verificati-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-ciclo-digitale-verifica-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-consip-strumenti-obblighi-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-dnsh-cam-casi-verificati-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-esecuzione-verifica-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-laboratorio-soluzioni-verificate-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-pnrr-architettura-chiusura-regis-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-project-management-esempi-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+- [[sources/vol-09-tracciabilita-antifrode-spesa-2026-10-03]] — Verifica e integrazioni VOL-09, ottobre 2026.
+
+- [[sources/vol-04-organizzazione-upp-verifica-2026-10-03]] — rettifica conversione, UPP e organigramma Giustizia; verifica normativa 3 ottobre 2026.
+
+- [[sources/vol-04-processo-civile-verifica-2026-10-03]] — termini, riti e calendario verificati per il volume Giustizia.
+
+- [[sources/vol-04-processo-penale-verifica-2026-10-03]] — regole processuali penali, riti, termini e registro45-bis.
+
+- [[sources/vol-04-cancelleria-verifica-2026-10-03]] — registri, accesso processuale, copie e dati personali.
+
+- [[sources/vol-04-spese-verifica-2026-10-03]] — spese, patrocinio, CU, liquidazioni e SPEdiGIUS.
+
+- [[sources/vol-04-casellario-verifica-2026-10-03]] — iscrizioni, certificati, dati e accessi del casellario.
+
+- [[sources/vol-04-unep-verifica-2026-10-03]] — notificazioni ed esecuzioni UNEP.
+
+- [[sources/vol-04-digitale-verifica-2026-10-03]] ? deposito civile/penale, ricevute e transizione al 3 ottobre 2026.
+
+## Consegna revisionata della collana, 3 ottobre 2026
+
+- [[reviews/correzioni-collana-2026-10-02/DIGITALE]] — priorità utente: correttezza e completezza dei volumi sul sito; dodici candidate online verificati per integrità, 23 moduli del Ricettario fuori dal precedente perimetro e tre richiami interni corretti. Nessun via libera digitale dichiarato.
+
+- [Indice dei dodici pacchetti locali](../delivery/COLLANA-REVISIONATA-2026-10-03.md).
+- [Chiusura tecnica e dipendenze residue](../delivery/PUBBLICABILITA-2026-10-03.md) — tredici copertine create, quattro interni rifiniti, 2.580 file verificati; dati editoriali e digitale ancora da confermare.
+- [[reviews/correzioni-collana-2026-10-02/registro-applicazione-consolidato-2026-10-03]] — 582 rilievi riconciliati, 577 verificati, 4 parziali e 1 facoltativo aperto; nessun via libera globale.

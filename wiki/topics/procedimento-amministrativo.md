@@ -61,3 +61,8 @@ Copertura demo sufficiente per bozza. Verificare riferimenti puntuali prima dell
 
 ## Note editoriali
 Nel capitolo collegare sempre procedimento, trasparenza e responsabilita amministrativa.
+
+
+## Procedimento: consolidamento del 3 ottobre 2026
+
+[[sources/vol-01-procedimento-correzioni-2026-10-03]] verifica termini conferenza30/60 dopo DL19/L50 del2026, distingue SCIA, motivazione, invalidità e revoca. Il raw storico della L241 contiene un indice e non prova lettura integrale degli articoli; riscontri sostanziali e limiti sono nella nuova nota.

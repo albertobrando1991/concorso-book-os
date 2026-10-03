@@ -39,3 +39,13 @@ Un caso pratico e' una traccia che chiede di applicare regole, principi e compor
 - [[topics/procedimento-amministrativo]]
 - [[topics/prova-scritta-teorico-pratica]]
 - [[books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo]]
+
+
+## Procedimento: consolidamento del 3 ottobre 2026
+
+[[sources/vol-01-procedimento-correzioni-2026-10-03]] verifica termini conferenza30/60 dopo DL19/L50 del2026, distingue SCIA, motivazione, invalidità e revoca. Il raw storico della L241 contiene un indice e non prova lettura integrale degli articoli; riscontri sostanziali e limiti sono nella nuova nota.
+
+
+## Candidatura e applicazioni — 3 ottobre 2026
+
+[[sources/vol-01-candidatura-casi-correzioni-2026-10-03]] verifica misure di partecipazione e ambito DPR487, quattro dossier risolti e otto situazionali con chiavi bilanciate.

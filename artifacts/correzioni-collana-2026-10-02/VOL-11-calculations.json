@@ -1,0 +1,23 @@
+{
+  "SST_excess_percent": 20.0,
+  "noise_differences_dB": [
+    2,
+    7
+  ],
+  "payment_689": 1000.0,
+  "payment_318": 4500.0,
+  "CER_hourly_kWh": 70,
+  "energy_saving_percent": 25.0,
+  "net_saving_euro": 6000.0,
+  "payback_years": 6.0,
+  "hypothetical_CO2e_t": 7.5,
+  "soil_m3": [
+    75.0,
+    90.0
+  ],
+  "LCC_euro": [
+    24601.73,
+    23590.72
+  ],
+  "difference_euro": 1011.01
+}

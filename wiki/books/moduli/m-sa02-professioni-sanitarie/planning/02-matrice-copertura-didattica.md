@@ -2,7 +2,7 @@
 id: m-sa02-matrice-copertura-didattica
 type: planning
 title: "M-SA02 - Matrice di copertura didattica"
-status: complete
+status: reviewed
 domain: "concorsi pubblici italiani"
 source_refs:
   - "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026"
@@ -43,7 +43,7 @@ source_refs:
   - "sources/territorio-cot-continuita-pdta-persona-fragile-toscana"
   - "sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-08-04T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-28T22:20:00+02:00
 review_required: false
 canonical: true
@@ -127,3 +127,15 @@ Le sette righe seguenti sostituiscono la precedente riga aggregata `Clinica gene
 ## Regola di uscita
 
 Lo step 07 ha superato il gate con fonti, teoria, applicazione non esecutiva e verifica per ogni riga. Gli audit indicati sono stati eseguiti e chiusi automaticamente allo step 15 prima del congelamento. La conferma umana interviene soltanto allo step 24 sul pacchetto già completo.
+
+## Stato corrente dopo l’audit integrale
+
+Le attestazioni di chiusura nelle righe precedenti descrivono la baseline di agosto. Sono riaperte per i delta dell’audit integrale: il registro del 3 ottobre prevale su quella baseline. Le correzioni sono applicate, ma audit specialistico, nuovo freeze e PDF devono essere chiusi tramite CLI. Nessuna riga viene promossa soltanto perché il file esiste.
+
+SA02/01: quadro DPR 220; /03: responsabilità e consenso; /04: assistenza e ICA; /05: NEWS2, triage e principi emergenze; /06: standard DM 77; /08: PASSI, screening e PREMAL; /09: procedure amministrative/penali, sicurezza, AIA/AUA e alimenti; /10: casi con esito per profilo. Nuove domande e soluzioni sono effettivamente presenti.
+
+Evidenza: [[reviews/correzioni-collana-2026-10-02/VOL-07]] e report correnti degli step 14–15.
+
+### Esito del riesame automatico del 3 ottobre 2026
+
+I delta del modulo sono stati riesaminati nello [[reviews/pipeline/VOL-07/15-moduli-m-sa02-professioni-sanitarie|step 15 corrente]]: nessun errore testuale noto residuo nel perimetro. Il nuovo freeze segue il gate CLI; apparati degli altri moduli e PDF di volume restano separati.

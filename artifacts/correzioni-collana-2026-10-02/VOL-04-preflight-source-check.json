@@ -1,0 +1,109 @@
+{
+  "chapters": 17,
+  "rows": [
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md",
+      "sourceRefs": 10,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+      "sourceRefs": 10,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md",
+      "sourceRefs": 8,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md",
+      "sourceRefs": 8,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md",
+      "sourceRefs": 7,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md",
+      "sourceRefs": 6,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md",
+      "sourceRefs": 8,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md",
+      "sourceRefs": 9,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md",
+      "sourceRefs": 6,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md",
+      "sourceRefs": 7,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md",
+      "sourceRefs": 6,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md",
+      "sourceRefs": 9,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md",
+      "sourceRefs": 9,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md",
+      "sourceRefs": 8,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md",
+      "sourceRefs": 9,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md",
+      "sourceRefs": 9,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    },
+    {
+      "file": "wiki/books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md",
+      "sourceRefs": 9,
+      "brokenGlyphs": 0,
+      "bodyStaffLinks": false
+    }
+  ],
+  "missing": [],
+  "scope": "Current17sourcechapters; exact source_refs and body staff links"
+}

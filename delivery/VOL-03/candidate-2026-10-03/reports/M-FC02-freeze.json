@@ -1,0 +1,134 @@
+{
+  "volume": "VOL-03",
+  "module": "M-FC02",
+  "date": "2026-10-03",
+  "verification": "manuale; gate non implementato",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "sha256": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "sha256": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "sha256": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "sha256": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "sha256": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "sha256": "2f1ae919ebd39f29331f8f5a8f6652342da65473e8106ed82ae8e9cb882412d0",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "sha256": "3608af42728c22184511f160b0ac4cfc4905bb07788f1dddc91a7b08fd4db730",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "sha256": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "sha256": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "sha256": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "sha256": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "sha256": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "sha256": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "sha256": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "sha256": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "sha256": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/index.md",
+      "sha256": "0de48b5d14b2699eef85b79bca2dbde1299c75c3e0dae4055062e9403f715463",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md",
+      "sha256": "6202f27ddc922a767b39512882a18d8772172ef52bcc4c7b40db1d6988ddd5dd",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    }
+  ],
+  "checks": [
+    "16 capitoli presenti, inclusi 05a e 05b nell’ordine corretto dell’indice.",
+    "23 rilievi del modulo corretti; audit integrale e riesame specialistico corrente documentati.",
+    "Matrice: censimento storico e delta delle integrazioni riconciliati; nessuna lacuna nota aperta nel perimetro auditato.",
+    "Rinvii nel corpo: scansione dedicata con zero destinazioni o ancore irrisolte.",
+    "Micro-revisione dei delta e conservazione dei nuclei legittimi; correzioni normative verificate su fonti primarie.",
+    "Gate 14 e 15 superati; text-freeze restituisce gate-not-implemented e richiede verifica manuale."
+  ],
+  "limitations": [
+    "Congelamento del testo del modulo, non delle figure e non di tutto VOL-03.",
+    "PDF aggiornato e preflight restano necessari; nessuna dichiarazione di pubblicabilità."
+  ],
+  "controlledDelta": "70 native diagrams and one IVA chronology paragraph; checked by VOL-03-native-checkpoint.json",
+  "pdfChecked": {
+    "sha256": "32e25d31b712ca18af78053e7f62daab47ea266106ca52dae16cd8407eff718c",
+    "method": "all-page contact sheets and selected full resolution; geometry/index all pages",
+    "finalSignoff": false
+  }
+}

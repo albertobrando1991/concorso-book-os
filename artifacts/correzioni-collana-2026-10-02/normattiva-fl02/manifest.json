@@ -1,0 +1,243 @@
+[
+  {
+    "name": "l131-art8",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131~art8!vig=",
+    "sha256": "88520a686f7b6feee268cf0ca4dea8808af8d383cbd0ed3137dfeec6790a5752",
+    "parts": 6,
+    "characters": 2760,
+    "readComplete": true
+  },
+  {
+    "name": "d281-art8",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8!vig=",
+    "sha256": "8eb3ac3c3ce38992d1758826c1c3ddd15a67bf44202d7c32bfe431b574e9b5ee",
+    "parts": 4,
+    "characters": 1744,
+    "readComplete": true
+  },
+  {
+    "name": "d281-art9",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art9!vig=",
+    "sha256": "da3ed6aa3d69ee3642cf8eb936187190a6f76b87a935d96ea1938749bf76d508",
+    "parts": 7,
+    "characters": 4357,
+    "readComplete": true
+  },
+  {
+    "name": "d118-art36",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art36!vig=",
+    "sha256": "dea01e7e912b80d9bee02af683626dbfb55d204e62a0904cf00d3a090b2400f0",
+    "parts": 7,
+    "characters": 2095,
+    "readComplete": true
+  },
+  {
+    "name": "d118-art39",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art39!vig=",
+    "sha256": "66e183f7914ed608208007fdbd93ddb6cdcbcbdb6d3e1fb697a535847802df14",
+    "parts": 18,
+    "characters": 7701,
+    "readComplete": true
+  },
+  {
+    "name": "d118-art50",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art50!vig=",
+    "sha256": "6cbf2a68986739ebfa3794ca12e3d72563e2d3de83291592ace5aec6e7a750fe",
+    "parts": 4,
+    "characters": 2104,
+    "readComplete": true
+  },
+  {
+    "name": "d118-art63",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art63!vig=",
+    "sha256": "f2246d202c2052146c3ebd4934b025eb8d286a8fff4bdf4be3b30d33388c38ee",
+    "parts": 13,
+    "characters": 5065,
+    "readComplete": true
+  },
+  {
+    "name": "d118-art68",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art68!vig=",
+    "sha256": "cacd960d82d6d882b2d963afb8e10ccad294140f8e54a79488630fdc9ee7970c",
+    "parts": 6,
+    "characters": 978,
+    "readComplete": true
+  },
+  {
+    "name": "l56-art1",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56~art1!vig=",
+    "sha256": "7612849fc8a96f35170d6815694337bbdfb8b5185a43fbd9e3fe9a6d6fdfa26a",
+    "parts": 158,
+    "characters": 79524,
+    "readComplete": false,
+    "readSections": "commi1–38,40–46,50–80; aggiornamento24"
+  },
+  {
+    "name": "d118-art18",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art18!vig=",
+    "sha256": "c1c5533b34fd4f0172c497c06528f13d90950edff0a896cc25c9c29693fd417c",
+    "parts": 2,
+    "characters": 978,
+    "readComplete": true
+  },
+  {
+    "name": "d118-art57",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art57!vig=",
+    "sha256": "920e4ee607762e19001aa58a4142be1f21dfc762e39c3c86116059af5f2a451b",
+    "parts": 3,
+    "characters": 679,
+    "readComplete": true
+  },
+  {
+    "name": "d118-art58",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118~art58!vig=",
+    "sha256": "81924b0ebba791e5e046aadb4e25420fc65645b6aec2bd952f92303ca87da077",
+    "parts": 10,
+    "characters": 3155,
+    "readComplete": true
+  },
+  {
+    "name": "l23-art3",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-11;23~art3!vig=",
+    "sha256": "b2ad3d6e960ecf97e880f85d8d032647fae72c11a15460884b8351be77793a28",
+    "parts": 5,
+    "characters": 1758,
+    "readComplete": true
+  },
+  {
+    "name": "d201-art2",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;201~art2!vig=",
+    "sha256": "320fb82b9251b360d568cf3fc3fdc512f0f9efb822d5c74f18b0263a6eb50c8f",
+    "parts": 1,
+    "characters": 2752,
+    "readComplete": true
+  },
+  {
+    "name": "d201-art4",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;201~art4!vig=",
+    "sha256": "f0d2556b91aac0c7b07730113726a7c418b552ca30034693e0dd9c17d6fb1774",
+    "parts": 1,
+    "characters": 383,
+    "readComplete": true
+  },
+  {
+    "name": "d201-art14",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;201~art14!vig=",
+    "sha256": "77bf8937a8f57fef1ac97eb3c4f5a8949834c0af25737c2070074176b9a041e3",
+    "parts": 5,
+    "characters": 3611,
+    "readComplete": true
+  },
+  {
+    "name": "d201-art17",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;201~art17!vig=",
+    "sha256": "8977656c4e8caa24cc9dff1a84330bfb356faeab93d97bfc09bb2a246107f5dc",
+    "parts": 5,
+    "characters": 3150,
+    "readComplete": true
+  },
+  {
+    "name": "d201-art27",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;201~art27!vig=",
+    "sha256": "e6c9bbedd60cda8fae1dcc7e4ff1aa7b2a7f3ce586fd9234139477517753dbcd",
+    "parts": 3,
+    "characters": 668,
+    "readComplete": true
+  },
+  {
+    "name": "d201-art30",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;201~art30!vig=",
+    "sha256": "c99689ab59d76f9e45423f8e7f2973aec1887287f9dc2bf1e655c0d3059ff03f",
+    "parts": 6,
+    "characters": 3552,
+    "readComplete": true
+  },
+  {
+    "name": "d201-art32",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;201~art32!vig=",
+    "sha256": "215150344c648d84cee9e6324f90652de1dbe652d2269eab0fe5da12e72cea07",
+    "parts": 4,
+    "characters": 1125,
+    "readComplete": true
+  },
+  {
+    "name": "d175-art2",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;175~art2!vig=",
+    "sha256": "96a989b7b5892f845a443d26d083fdab4ba1580ffdd61f99d41d59661e370cc6",
+    "parts": 1,
+    "characters": 3850,
+    "readComplete": true
+  },
+  {
+    "name": "d175-art16",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;175~art16!vig=",
+    "sha256": "6c6f35e89a267ba148506636e85815d92a556aa98419fb1ea14d52f978604760",
+    "parts": 10,
+    "characters": 3362,
+    "readComplete": true
+  },
+  {
+    "name": "d175-art20",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;175~art20!vig=",
+    "sha256": "3fa29d78413ddef50f91389f9a1194eee90213256e611c7ef9d6d258d388ee10",
+    "parts": 10,
+    "characters": 5303,
+    "readComplete": true
+  },
+  {
+    "name": "d36-art177",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art177!vig=",
+    "sha256": "9bc6d47ad15b3e7d95e46bfb9e0406732afe16952224cb7d4b2f9e7e1c7432d3",
+    "parts": 7,
+    "characters": 4443,
+    "readComplete": true
+  },
+  {
+    "name": "d327-art8",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327~art8!vig=",
+    "sha256": "0fd6cb890c403cc812f609e2655497c7dce23e91d520be0e71ffa8dc2b4127e9",
+    "parts": 1,
+    "characters": 400,
+    "readComplete": true
+  },
+  {
+    "name": "d327-art9",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327~art9!vig=",
+    "sha256": "ac1055a9ae6ac9df6fac6eb8e580dd80825bc7083910135f5adbca3c52ec72cb",
+    "parts": 2,
+    "characters": 2225,
+    "readComplete": true
+  },
+  {
+    "name": "d327-art12",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327~art12!vig=",
+    "sha256": "1e9ff05300b8eb51d6be8248ede652a953458d293b1e3ea3f39adbe0d8e6dd32",
+    "parts": 3,
+    "characters": 1575,
+    "readComplete": true
+  },
+  {
+    "name": "d327-art13",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327~art13!vig=",
+    "sha256": "8f499f25fe8b888258ce2bdcbaaadeefe18b0c50987a0a9bef86cf1775ae1fa2",
+    "parts": 8,
+    "characters": 1829,
+    "readComplete": true
+  },
+  {
+    "name": "d327-art23",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327~art23!vig=",
+    "sha256": "6b6276e228859029d7575af781a79e9be3f0b01065fe3338a81280cc9fb002e3",
+    "parts": 5,
+    "characters": 2626,
+    "readComplete": true
+  },
+  {
+    "name": "d327-art24",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327~art24!vig=",
+    "sha256": "cd5482a32c9251767d02722ccd5cb2b9cd41be633cfd660ccb7585fc340790f8",
+    "parts": 7,
+    "characters": 1498,
+    "readComplete": true
+  }
+]

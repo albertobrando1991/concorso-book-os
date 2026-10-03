@@ -1,0 +1,588 @@
+{
+  "volume": "VOL-01",
+  "module": "M-PA01",
+  "date": "2026-10-03",
+  "textVerified": true,
+  "finalPublicationVerified": false,
+  "scope": "32chapter units only; front matter excluded",
+  "checks": [
+    "32unità autoriali cartacee:49rilievi testuali risolti; Ricettario25–47 escluso.",
+    "Step14superato con due warning espliciti relativi ai preliminari; step15concluso sul testo dei capitoli.",
+    "Fonti normative puntuali, esempi e raccordi verificati; integrazioni precedenti preservate.",
+    "Inventario:zero immagini mancanti, fonti mancanti e riferimenti staff nel corpo.",
+    "19figure corrette presenti nel manifest dedicato; asset e PDF richiedono il controllo dell’impaginato.",
+    "Preliminari V01-50/51 esclusi dal freeze:servizio digitale, errata e identificativi ancora da completare.",
+    "Gate16non automatizzato:controllo manuale e hash; nessuna certificazione di pubblicabilità finale."
+  ],
+  "figureManifest": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\figure-vol01-corrette-manifest.json",
+  "files": [
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/introduzione.md",
+      "sha256": "eb08c80ff9e3a3eeb0dcd3c78b8c9915a3dea51c7be8e5fbc5dd058d0cee3da0"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md",
+      "sha256": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+      "sha256": "a0a1677d08227d58cff2b85bae54f6575cb5879d4e551ee1093d8e04317fc00f"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/il-metodo-bando.md",
+      "sha256": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+      "sha256": "d75bb3479ec3a7f522511de2d6bf1282454c7cbe19d8c67d16591d964c1e4fff"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
+      "sha256": "d0ad85968c4720c1e203054e66afe0aa20d491f8b65a8e00f6289b7fa2859320"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
+      "sha256": "c50f7ddde04f4cba736cbdc733c4658d61c3acdffc8fcaafcf9da6204f65a02f"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy.md",
+      "sha256": "57ef4dd410e492092f3c4b70ad3869b542aed9aa188f555e5ae64beeaf2a4daf"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+      "sha256": "125e4761f5e0909c88c6c22ebfe6870874883cb817d1e591793375c6c9d86aa4"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+      "sha256": "9ee4694deb4d75ffe300f1f0c0230f47a241fb715e57cf92f3481cc143b9e181"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+      "sha256": "0643202024f4cd3984d333119185ccf3055bb6583a118f4a8d8bc22c428407bf"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/inglese-concorsuale-essenziale.md",
+      "sha256": "dc594fa61790f2f4842c01aafed7009a1a0180c03ff85aebd9d1a56ab58a22f6"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+      "sha256": "f2cfc251cb84d80834e3e3d72b68f35cf98baecbfd254760830116397b661fe5"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi.md",
+      "sha256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+      "sha256": "efc43564610d8746af068eafffea9de4949fe323fd60504e1399766cec753171"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+      "sha256": "cdd87513b2e39bddd49d0e62fd7f0412f0a1c89f4501bcb6e31d1688df9a2cfe"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/la-prova-orale.md",
+      "sha256": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+      "sha256": "4de303521708ca7ac433229a904ae811d00ff4ba9ebc9a79cb92a5c074a4c562"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+      "sha256": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+      "sha256": "d4f4b016097aa60e3785c1e52ec1e5d2df6ec8c8a04305bb74c82bb5d07d72e6"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "sha256": "c3fe7be36009dd4275ab4624a9ed644f77182923bab4b2187a8026580860b1fc"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/scegliere-moduli-integrativi.md",
+      "sha256": "c69abf438edf218fccc7d97d58ab719734c0252affc6f3d43f1d3438c940f75a"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/sistema-adattabile.md",
+      "sha256": "ede356566559a2a5e9c58d2e97ac22e7a0507f25e323c07fa4e47e993cff4dac"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+      "sha256": "4a9558d7246c9df74ed4bbf0001563f60b6784c8f4d4f9115afc163219ae925e"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/checklist-operative.md",
+      "sha256": "523e29b411f43c9de5e2cfab0027c0b032d96239986ce2dec177a432bf6f4284"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/conclusione.md",
+      "sha256": "3108246aeec5f3f94ebf38050de7874381aa0ee5471375d8b2a03eb9756b0b75"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-a-glossario-essenziale-pa.md",
+      "sha256": "d56758ac92eb52d8afeb04e9eaa83a4edd6b65ce71c699bd836042bf01aa13f9"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-b-100-parole-chiave-concorsi.md",
+      "sha256": "09b93e1e9451d3fb29c3f2f5ac400bb5aa820e9d9eb7c25d41cc841a9445ed41"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-c-template-bando-decoder.md",
+      "sha256": "1b6d4a871a927c7082b6b19ae26cde8e224ad96591962f1ec5e1914ceec585b2"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-d-piano-studio-personale.md",
+      "sha256": "472a1d840ed63b30ba880e8d709e698bb8cfc8e8504bcdd23c4bf5c9295b0b89"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-e-schema-universale-risposta-orale.md",
+      "sha256": "aeee69d89c2753975aff77ffdc406dd1d6a837429c670b35dd762966ba2280a8"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-f-matrice-materie-profili.md",
+      "sha256": "7ad2a6ec408e9880dc2e1f3e51cc1a1ac63987f06962b5c2329b67dc76662348"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/planning/00-scheda-pipeline.md",
+      "sha256": "a1e88e917d6b63a107bf599423ecefce568639ed2a5219e67eafc603ff4f714d"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/planning/02-matrice-copertura-didattica.md",
+      "sha256": "91d61a1b23d5cb7c47ac680b58134d5aa64f52f9f52602c0eb7bb3b60076fede"
+    },
+    {
+      "path": "wiki/sources/vol-01-accesso-privacy-correzioni-2026-10-03.md",
+      "sha256": "bf4e68c5317b8d584152b9f2cb30e16489354920f25e403366d5d67786ac2eca"
+    },
+    {
+      "path": "wiki/sources/vol-01-candidatura-casi-correzioni-2026-10-03.md",
+      "sha256": "05a5a818902493d28eb3565f6b5941d282c396a869705fc1287315b2b53244e9"
+    },
+    {
+      "path": "wiki/sources/vol-01-costituzione-correzioni-2026-10-02.md",
+      "sha256": "a6dff351cecd03cee9816cf833247c556965948d96a30c22783becc6b85d9e06"
+    },
+    {
+      "path": "wiki/sources/vol-01-digitale-esempi-correzioni-2026-10-03.md",
+      "sha256": "ec3aa596d748dc1c6160104a8dfa356a4cd5f43e8fb2cc3c143add9ec27148a7"
+    },
+    {
+      "path": "wiki/sources/vol-01-esempi-logica-inglese-metodo-2026-10-02.md",
+      "sha256": "8d4503cc686d98de6e8d60568216257f7b9692ad0d04d87fcb4cf7941a7feb2a"
+    },
+    {
+      "path": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "sha256": "0cdac23a47f4aec2259956f0e6757fd69f62cf67570cbe1e45d9dfc46e956977"
+    },
+    {
+      "path": "wiki/sources/vol-01-procedimento-correzioni-2026-10-03.md",
+      "sha256": "f8fc340ed0119094bcb6037f7b33be17b23a1fda38203f9af42cacb4fc31e346"
+    }
+  ],
+  "controlledPrintCorrections": {
+    "date": "2026-10-03",
+    "changes": [
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+        "before": "0d555486897446ad581be77d0d58cfd56221d315246e44f602223c3f75953d45",
+        "after": "6390dcebe064df43cab2b45995478307fb40cf4cdc17cb828cdf27dfd12536c4"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+        "before": "e0cb43ed71a74a4af388e7a86b28d804aedaa9ef2d593f6cb0323e1f4d8d7f04",
+        "after": "bb41c6824a5f945c4d24cafd247f6d749eacc1c48792b25afb02a06ec148e316"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+        "before": "c31f7b8a8918d7040125866705a45483ecbd27861811338ec32ee24f90189488",
+        "after": "8949192b4e82b42dd4a84a085880c4472836a5448af1626a7c6a7345b16724dd"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+        "before": "074c3acb935346dfc4f333ed383df61f8ffb82ffbdcb7453b762dd4de4081a8c",
+        "after": "fc2050f0870dc4de2526d0356ecf25da4be56bfa59341df728180ec90f81d30d"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+        "before": "25200b879b6b80ec8afce612319d0e4e91736af73d3c2913784bca4080de017b",
+        "after": "a334531a2854e5f59c1b88c6e280e4d4da5dbbb3079a31f1f377d68be02ad57e"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+        "before": "96866a8c3ff6d9a9d1c629d59c4d0d07a984e652cfbf584b4a052c8a3f46b08c",
+        "after": "ded5ee158fde38fc182b4c941a8301fdc840e04bcfc7fd2efb9d659f19415ae3"
+      }
+    ],
+    "description": "Sette figure ridisegnate con testo grande; alt/caption allineati e modalità quiz/prova pratica esplicitate. Nessuna dichiarazione di PDF finale."
+  },
+  "controlledPrintCorrectionsSecond": {
+    "date": "2026-10-03",
+    "changes": [
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+        "before": "6390dcebe064df43cab2b45995478307fb40cf4cdc17cb828cdf27dfd12536c4",
+        "after": "fef87e244f6f7769818b8b8d2cf70e5366dfcd6bc1c14e0f73daf0d1b7f2d7ec"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+        "before": "d5d3e911909857b32a4cdb5a6f0bcd156437a38e8c476e58c82369711560b19f",
+        "after": "4778ff2aac48e37371ccaed9a6ca7f4f5f269fad7453ccf94d46a0f65deb499f"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+        "before": "27e7893f58645d1c032bd3dcd51c03498c3cdc4cb7af8dbfdcfd4e71cc2ca978",
+        "after": "dcd1ca52abcb0247236e13e95261ff80e7ca82fefff33767a61eba0c97819c8d"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/la-prova-orale.md",
+        "before": "73898780f0e1db74f92235fd75c34b892fc6c796624f40ab7ceb0e5b7a36a63a",
+        "after": "e2748204e79aa8e9e9b1aeb1d0c8c17d8a67a2046bf9b60322bc65fc773f02f9"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+        "before": "8c60d1b5e1b37d58e9fceb219f6b4537ed6119ca71e6e5bded93a7e24ecec3b9",
+        "after": "b09e27ea2d5f6cb2a48ec08772ffa56492d042ebe1d797f18c05791abc0a48b0"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+        "before": "b452c625377d21fdff889d2b0f02296872a9d39b31225916c0aec022e0d5d829",
+        "after": "b8c046714241d7df2e87e5198843e411a3d4236d0f8954bf27c9541ec997ec3a"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+        "before": "e98802f235a868ea629a236a28af370f773d0c3d1a6a3df2c9dfb297b236d2e1",
+        "after": "adb977ca9ee1491d586be003a32fb13c7cf9d9fda9a9e769e052960791a06c62"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+        "before": "1badd91e56f6a6b91e4fc5e04d9a4c760fa54298295fcd1723ecaa9f303d00e7",
+        "after": "85e6c13abd191cac21a82a5bc3f8832a1b5b531fc79a615d8e0bb9729bd1ac39"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/sistema-adattabile.md",
+        "before": "4af9733c9a5926336296eb8fc4b26ab30ca864af145b8a06a4ddc81b4ae8a1b2",
+        "after": "8cbb58bb222732f29559e52de04ad7fa789d7590819bdc402e8c249e3962c72b"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+        "before": "036b1f54aa52a76f07a72893341035ec58d6bc301271ad6b2e633e7987028e37",
+        "after": "67cc3d6caa04af6903190e097b793260f53ab21260919e49d7db85dad8e19d5d"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/checklist-operative.md",
+        "before": "f68adc9a748d9e23536100c12a9290d27b52ac0bf59d857772ada592508ccc29",
+        "after": "3183e4fa9388e577b952331de168132ee432733833789d41ae5f3e188aef449f"
+      }
+    ],
+    "description": "Dodici figure con caratteri grandi; didascalie coerenti. PDF da rigenerare e verificare."
+  },
+  "controlledNativePrintCorrections": {
+    "date": "2026-10-03",
+    "changes": [
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+        "before": "fef87e244f6f7769818b8b8d2cf70e5366dfcd6bc1c14e0f73daf0d1b7f2d7ec",
+        "after": "d981c5e73cd90b675bcebefac4b4545364dee3efac158940caaf227cbfc01e90"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+        "before": "b09e27ea2d5f6cb2a48ec08772ffa56492d042ebe1d797f18c05791abc0a48b0",
+        "after": "828caf40b8a6774fdd4a14f49cc0479c16f6c66f351762fbf87b228443b7172c"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/checklist-operative.md",
+        "before": "3183e4fa9388e577b952331de168132ee432733833789d41ae5f3e188aef449f",
+        "after": "6014b6c0cca3c3e1d84e4b8c075cf3735e156968b2490ad95431ec6450ef7e81"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+        "before": "8949192b4e82b42dd4a84a085880c4472836a5448af1626a7c6a7345b16724dd",
+        "after": "50fc86000ea7ff81e9b8667e5b35655894bb7f594b3a8d80630ac1b73329676d"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+        "before": "fc2050f0870dc4de2526d0356ecf25da4be56bfa59341df728180ec90f81d30d",
+        "after": "884d699a5d7b7c9fc5b2b6c7c4b2614f34f2a5b195e873380b1350241ae682c6"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+        "before": "bb41c6824a5f945c4d24cafd247f6d749eacc1c48792b25afb02a06ec148e316",
+        "after": "88074e86661a81ccda0129a7f27820b9469105fd4c295cb00fcb36214c431d72"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+        "before": "67cc3d6caa04af6903190e097b793260f53ab21260919e49d7db85dad8e19d5d",
+        "after": "5dd2bb27abdc6fd1e4509fcff6c40bb9fd03d569638f9a7324ba9b1f4d43c9fa"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
+        "before": "436f2bd2e177703dd768b0f9d1801a70e4cfec0d7ec8792ea6f6a36dc44c1d33",
+        "after": "1f8dd35ab622d0acd5626f66b5e795fa6898d3ae1580a1441a183c623be633bf"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+        "before": "adb977ca9ee1491d586be003a32fb13c7cf9d9fda9a9e769e052960791a06c62",
+        "after": "d17b48b84b51c84c0f9f6b257bdf630a77e639bbde13618428d208143952985f"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/il-metodo-bando.md",
+        "before": "d431236b4307f3e06ce906cc1c5c9495893bc5b18ecc621b0bdb35def9a60dc0",
+        "after": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md",
+        "before": "87f69bf7691fea3c80611be86ab9a176e5cc9e9f2533b7c8c493941d51d97333",
+        "after": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+        "before": "a334531a2854e5f59c1b88c6e280e4d4da5dbbb3079a31f1f377d68be02ad57e",
+        "after": "f5beb65b69d2a07881d5bfa3841943124c567df669dcc30d0ce6baae7b3d79cd"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/inglese-concorsuale-essenziale.md",
+        "before": "16634476245a9873c5f4a241a35175da20b139d5d71f2a91a211bc1a3d1bf902",
+        "after": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+        "before": "4778ff2aac48e37371ccaed9a6ca7f4f5f269fad7453ccf94d46a0f65deb499f",
+        "after": "ce59fe3c5fe4b6424cb294ec6bd8a932c9cb003336c5f78e66e800e663a09434"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/la-prova-orale.md",
+        "before": "e2748204e79aa8e9e9b1aeb1d0c8c17d8a67a2046bf9b60322bc65fc773f02f9",
+        "after": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+        "before": "ded5ee158fde38fc182b4c941a8301fdc840e04bcfc7fd2efb9d659f19415ae3",
+        "after": "ab5a32eb7541b1fcdf850e22ad31e9bae688f3c5f19aa2fe2e12f9af618f1f69"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+        "before": "85e6c13abd191cac21a82a5bc3f8832a1b5b531fc79a615d8e0bb9729bd1ac39",
+        "after": "d5efed814a7ccfc74be5945e506cac772b24e0dc8c8825b22b6c059034a46c2e"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi.md",
+        "before": "6a96334997f227868d868e0aed74ae5ed3524de91992c91b36c7dada7770142a",
+        "after": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+        "before": "dcd1ca52abcb0247236e13e95261ff80e7ca82fefff33767a61eba0c97819c8d",
+        "after": "a7a2d5fc5fc742b463c6e6865e7f578e60c15dbcb78ae43ff2109f128d12bcdd"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
+        "before": "e669f2966c6675470d0e3bc78aaa1b0daf6e442f53e4766b1db10add6fff31cf",
+        "after": "2d55148cb3a6b0110c04ad344e3743f093ed5ffdddcbbe2face370d5fede729b"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+        "before": "b8c046714241d7df2e87e5198843e411a3d4236d0f8954bf27c9541ec997ec3a",
+        "after": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/scegliere-moduli-integrativi.md",
+        "before": "767987d0d12e1ca54d772376a6d36b6b64b7f8510ca82e6bca5c3377d449dd2f",
+        "after": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/sistema-adattabile.md",
+        "before": "8cbb58bb222732f29559e52de04ad7fa789d7590819bdc402e8c249e3962c72b",
+        "after": "a37c797b42eb4abb9a79bee2761645d7182781f30333b8e659778a50ada3715c"
+      },
+      {
+        "path": "wiki/books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy.md",
+        "before": "61433919d6a97ba39e4df59aee3b86ba78e68b00fdd32644177a8ab32fa41cd7",
+        "after": "eaa6b57ec3cb4604e3524a952cf4f4b25eead4bbd00907627fcf245553b49756"
+      }
+    ],
+    "nativeSchemas": 133,
+    "protectedImages": 19,
+    "ledger": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/VOL-01-native-ledger.json",
+    "verification": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/VOL-01-native-verifica.json",
+    "description": "133 schemi nativi verificati semanticamente e nella prova release; 19 immagini protette invariate. Tutti i 25 raccordi segnalati risolti. Revisione degli apparati conclusa, nessuna pubblicabilità complessiva dichiarata.",
+    "proof": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-01-native-release-20261003-proof.pdf",
+    "proofSHA256": "e4641d58decbc590377695556221f2d07a48378687c566a2c54b5d61e3c4370e",
+    "visualEvidence": "VOL-01-native-release-visual-ledger.json"
+  },
+  "controlledTableLabels": [
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+      "before": "d981c5e73cd90b675bcebefac4b4545364dee3efac158940caaf227cbfc01e90",
+      "after": "a0a1677d08227d58cff2b85bae54f6575cb5879d4e551ee1093d8e04317fc00f",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+      "before": "88074e86661a81ccda0129a7f27820b9469105fd4c295cb00fcb36214c431d72",
+      "after": "d75bb3479ec3a7f522511de2d6bf1282454c7cbe19d8c67d16591d964c1e4fff",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
+      "before": "1f8dd35ab622d0acd5626f66b5e795fa6898d3ae1580a1441a183c623be633bf",
+      "after": "d0ad85968c4720c1e203054e66afe0aa20d491f8b65a8e00f6289b7fa2859320",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
+      "before": "2d55148cb3a6b0110c04ad344e3743f093ed5ffdddcbbe2face370d5fede729b",
+      "after": "c50f7ddde04f4cba736cbdc733c4658d61c3acdffc8fcaafcf9da6204f65a02f",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy.md",
+      "before": "eaa6b57ec3cb4604e3524a952cf4f4b25eead4bbd00907627fcf245553b49756",
+      "after": "57ef4dd410e492092f3c4b70ad3869b542aed9aa188f555e5ae64beeaf2a4daf",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+      "before": "50fc86000ea7ff81e9b8667e5b35655894bb7f594b3a8d80630ac1b73329676d",
+      "after": "125e4761f5e0909c88c6c22ebfe6870874883cb817d1e591793375c6c9d86aa4",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+      "before": "884d699a5d7b7c9fc5b2b6c7c4b2614f34f2a5b195e873380b1350241ae682c6",
+      "after": "9ee4694deb4d75ffe300f1f0c0230f47a241fb715e57cf92f3481cc143b9e181",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+      "before": "f5beb65b69d2a07881d5bfa3841943124c567df669dcc30d0ce6baae7b3d79cd",
+      "after": "0643202024f4cd3984d333119185ccf3055bb6583a118f4a8d8bc22c428407bf",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/inglese-concorsuale-essenziale.md",
+      "before": "45e98b57689f4d0d8db0f3b49e4ea3815f98f19822c6cb21738bb93eeb80ee36",
+      "after": "dc594fa61790f2f4842c01aafed7009a1a0180c03ff85aebd9d1a56ab58a22f6",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+      "before": "ab5a32eb7541b1fcdf850e22ad31e9bae688f3c5f19aa2fe2e12f9af618f1f69",
+      "after": "f2cfc251cb84d80834e3e3d72b68f35cf98baecbfd254760830116397b661fe5",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+      "before": "ce59fe3c5fe4b6424cb294ec6bd8a932c9cb003336c5f78e66e800e663a09434",
+      "after": "efc43564610d8746af068eafffea9de4949fe323fd60504e1399766cec753171",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+      "before": "a7a2d5fc5fc742b463c6e6865e7f578e60c15dbcb78ae43ff2109f128d12bcdd",
+      "after": "cdd87513b2e39bddd49d0e62fd7f0412f0a1c89f4501bcb6e31d1688df9a2cfe",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+      "before": "828caf40b8a6774fdd4a14f49cc0479c16f6c66f351762fbf87b228443b7172c",
+      "after": "4de303521708ca7ac433229a904ae811d00ff4ba9ebc9a79cb92a5c074a4c562",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+      "before": "d17b48b84b51c84c0f9f6b257bdf630a77e639bbde13618428d208143952985f",
+      "after": "d4f4b016097aa60e3785c1e52ec1e5d2df6ec8c8a04305bb74c82bb5d07d72e6",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "before": "d5efed814a7ccfc74be5945e506cac772b24e0dc8c8825b22b6c059034a46c2e",
+      "after": "c3fe7be36009dd4275ab4624a9ed644f77182923bab4b2187a8026580860b1fc",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/scegliere-moduli-integrativi.md",
+      "before": "777a47125388c0834db3ca11320a41d86310771408289bb62b142e9b0cf36b2b",
+      "after": "c69abf438edf218fccc7d97d58ab719734c0252affc6f3d43f1d3438c940f75a",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/sistema-adattabile.md",
+      "before": "a37c797b42eb4abb9a79bee2761645d7182781f30333b8e659778a50ada3715c",
+      "after": "ede356566559a2a5e9c58d2e97ac22e7a0507f25e323c07fa4e47e993cff4dac",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+      "before": "5dd2bb27abdc6fd1e4509fcff6c40bb9fd03d569638f9a7324ba9b1f4d43c9fa",
+      "after": "4a9558d7246c9df74ed4bbf0001563f60b6784c8f4d4f9115afc163219ae925e",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/checklist-operative.md",
+      "before": "6014b6c0cca3c3e1d84e4b8c075cf3735e156968b2490ad95431ec6450ef7e81",
+      "after": "523e29b411f43c9de5e2cfab0027c0b032d96239986ce2dec177a432bf6f4284",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-c-template-bando-decoder.md",
+      "before": "080fde615f579d6973f1232f498703e94993da6e6ee9a871781d0d76bf4c0708",
+      "after": "1b6d4a871a927c7082b6b19ae26cde8e224ad96591962f1ec5e1914ceec585b2",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-d-piano-studio-personale.md",
+      "before": "e9de4fc2ffcc432292483453db0ee1a2f441d981a4f5940aebcec408399a0da0",
+      "after": "472a1d840ed63b30ba880e8d709e698bb8cfc8e8504bcdd23c4bf5c9295b0b89",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/appendice-f-matrice-materie-profili.md",
+      "before": "c247ef5110878f6970d05b2a2444c0c0616ed731d628e634c8ac5e24c2dcb70f",
+      "after": "7ad2a6ec408e9880dc2e1f3e51cc1a1ac63987f06962b5c2329b67dc76662348",
+      "reason": "Spazi ai separatori nelle celle per ritorno fra parole; significato e valori invariati."
+    }
+  ],
+  "freezeChainReconciliation": [
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md",
+      "before": "87f69bf7691fea3c80611be86ab9a176e5cc9e9f2533b7c8c493941d51d97333",
+      "after": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6",
+      "evidence": "controlledNativePrintCorrections changes; original history preserved"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/il-metodo-bando.md",
+      "before": "d431236b4307f3e06ce906cc1c5c9495893bc5b18ecc621b0bdb35def9a60dc0",
+      "after": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349",
+      "evidence": "controlledNativePrintCorrections changes; original history preserved"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi.md",
+      "before": "6a96334997f227868d868e0aed74ae5ed3524de91992c91b36c7dada7770142a",
+      "after": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c",
+      "evidence": "controlledNativePrintCorrections changes; original history preserved"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/la-prova-orale.md",
+      "before": "e2748204e79aa8e9e9b1aeb1d0c8c17d8a67a2046bf9b60322bc65fc773f02f9",
+      "after": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59",
+      "evidence": "controlledNativePrintCorrections changes; original history preserved"
+    },
+    {
+      "path": "wiki/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+      "before": "b8c046714241d7df2e87e5198843e411a3d4236d0f8954bf27c9541ec997ec3a",
+      "after": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f",
+      "evidence": "controlledNativePrintCorrections changes; original history preserved"
+    }
+  ],
+  "pdfChecked": {
+    "path": "delivery/VOL-01/candidate-2026-10-03/vol-01-interior-kdp.pdf",
+    "sha256": "0ad5da004f152d53d4eef5998b89b838a68fb276ade3ea9e9cc49517cfbc3670",
+    "pages": 686,
+    "indexEntries": 437,
+    "visualLedger": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/VOL-01-reader-final-visual-review.json",
+    "finalSignoff": false
+  }
+}

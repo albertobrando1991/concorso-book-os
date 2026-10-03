@@ -1,0 +1,300 @@
+{
+  "review": "All source matches reviewed, explicit VOL-01/Il Metodo BANDO and budget chapters preserved",
+  "changes": [
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "before": "Usa il capitolo 3 per uffici e servizi, il capitolo 4 per l’atto corretto e il VOL-01 per la teoria generale. Qui devi localizzare il procedimento nel Comune.",
+      "after": "Usa il capitolo 6 per uffici e servizi, il capitolo 7 per l’atto corretto e il VOL-01 per la teoria generale. Qui devi localizzare il procedimento nel Comune."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "before": "Questo capitolo va letto dopo il capitolo 5. Li puoi distinguere così:",
+      "after": "Questo capitolo va letto dopo il capitolo 8. Li puoi distinguere così:"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "before": "il capitolo 5 spiega il flusso amministrativo: istanza, protocollo, fascicolo, istruttoria, atto, pubblicazione e accesso;",
+      "after": "il capitolo 8 spiega il flusso amministrativo: istanza, protocollo, fascicolo, istruttoria, atto, pubblicazione e accesso;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "before": "il capitolo 6 spiega gli strumenti digitali che sostengono quel flusso: identità, domicilio, documento informatico, fascicolo informatico, conservazione, ANPR, interoperabilità, sicurezza e accessibilità.",
+      "after": "il capitolo 9 spiega gli strumenti digitali che sostengono quel flusso: identità, domicilio, documento informatico, fascicolo informatico, conservazione, ANPR, interoperabilità, sicurezza e accessibilità."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "before": "Il capitolo 5 ha spiegato il protocollo come tracciabilità del procedimento. Qui aggiungiamo il profilo digitale.",
+      "after": "Il capitolo 8 ha spiegato il protocollo come tracciabilità del procedimento. Qui aggiungiamo il profilo digitale."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "before": "Si applica il metodo del Capitolo 5 di questo modulo, “Procedimento locale, protocollo, albo, URP e accesso”:",
+      "after": "Si applica il metodo del Capitolo 8 di questo modulo, “Procedimento locale, protocollo, albo, URP e accesso”:"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "before": "Il bilancio di previsione copre un orizzonte almeno triennale. Nel primo esercizio sono presenti previsioni di competenza e di cassa; negli esercizi successivi operano le previsioni di competenza previste dal sistema. La competenza indica le obbligazioni riferite all’esercizio secondo le regole contabili; la cassa riguarda incassi e pagamenti. L’approfondimento tecnico sulla competenza finanziaria potenziata e sull’esigibilità appartiene al capitolo 10.",
+      "after": "Il bilancio di previsione copre un orizzonte almeno triennale. Nel primo esercizio sono presenti previsioni di competenza e di cassa; negli esercizi successivi operano le previsioni di competenza previste dal sistema. La competenza indica le obbligazioni riferite all’esercizio secondo le regole contabili; la cassa riguarda incassi e pagamenti. L’approfondimento tecnico sulla competenza finanziaria potenziata e sull’esigibilità appartiene al capitolo 13."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "before": "Prendiamo un contributo regionale destinato ai servizi educativi. La disponibilità annunciata non basta. L’ente deve verificare il titolo dell’entrata, il vincolo, la corretta previsione, l’eventuale variazione, l’assegnazione al responsabile e le condizioni di utilizzo. Solo dopo potrà adottare gli atti di gestione e misurare il risultato. Nel capitolo 10 la stessa situazione sarà osservata attraverso accertamento, impegno, liquidazione e rendicontazione.",
+      "after": "Prendiamo un contributo regionale destinato ai servizi educativi. La disponibilità annunciata non basta. L’ente deve verificare il titolo dell’entrata, il vincolo, la corretta previsione, l’eventuale variazione, l’assegnazione al responsabile e le condizioni di utilizzo. Solo dopo potrà adottare gli atti di gestione e misurare il risultato. Nel capitolo 13 la stessa situazione sarà osservata attraverso accertamento, impegno, liquidazione e rendicontazione."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "before": "I singoli tipi di variazione saranno studiati nel capitolo 10. In una prova pratica conta prima di tutto mostrare che una decisione sopravvenuta richiede la verifica degli strumenti e delle competenze prima di entrare nella gestione.",
+      "after": "I singoli tipi di variazione saranno studiati nel capitolo 13. In una prova pratica conta prima di tutto mostrare che una decisione sopravvenuta richiede la verifica degli strumenti e delle competenze prima di entrare nella gestione."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "before": "Capitolo 4 sugli atti",
+      "after": "Capitolo 7 sugli atti"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "before": "Capitolo 5 sul procedimento",
+      "after": "Capitolo 8 sul procedimento"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "before": "Capitolo 6 sui servizi digitali",
+      "after": "Capitolo 9 sui servizi digitali"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "before": "Capitolo 10 sulla contabilità",
+      "after": "Capitolo 13 sulla contabilità"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "before": "Capitolo 11 su entrate e patrimonio",
+      "after": "Capitolo 14 su entrate e patrimonio"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "before": "Capitolo 12 sul procurement",
+      "after": "Capitolo 15 sul procurement"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "before": "Il capitolo 11 ha già spiegato demanio, patrimonio indisponibile e patrimonio disponibile. Qui usiamo quella distinzione dentro i casi territoriali.",
+      "after": "Il capitolo 14 ha già spiegato demanio, patrimonio indisponibile e patrimonio disponibile. Qui usiamo quella distinzione dentro i casi territoriali."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "before": "Il capitolo 12 ha spiegato il procurement. Qui applichiamo quel ciclo ai lavori.",
+      "after": "Il capitolo 15 ha spiegato il procurement. Qui applichiamo quel ciclo ai lavori."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 3 su uffici e organizzazione;",
+      "after": "Capitolo 6 su uffici e organizzazione;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 4 su atti;",
+      "after": "Capitolo 7 su atti;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 5 su procedimento, accesso, albo, URP;",
+      "after": "Capitolo 8 su procedimento, accesso, albo, URP;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 6 su gestione documentale;",
+      "after": "Capitolo 9 su gestione documentale;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 12 su procurement;",
+      "after": "Capitolo 15 su procurement;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 4 su determinazioni;",
+      "after": "Capitolo 7 su determinazioni;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 9 su DUP, bilancio, PEG, PIAO e performance;",
+      "after": "Capitolo 12 su DUP, bilancio, PEG, PIAO e performance;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 10 su gestione finanziaria;",
+      "after": "Capitolo 13 su gestione finanziaria;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 12 su procurement;",
+      "after": "Capitolo 15 su procurement;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 11 se il caso coinvolge entrate o patrimonio.",
+      "after": "Capitolo 14 se il caso coinvolge entrate o patrimonio."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 5 su procedimento e accesso;",
+      "after": "Capitolo 8 su procedimento e accesso;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 11 su entrate e patrimonio;",
+      "after": "Capitolo 14 su entrate e patrimonio;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 13 su territorio, SUE, SUAP, patrimonio e lavori;",
+      "after": "Capitolo 16 su territorio, SUE, SUAP, patrimonio e lavori;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 4 su atti;",
+      "after": "Capitolo 7 su atti;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 6 su pratica digitale e fascicolo.",
+      "after": "Capitolo 9 su pratica digitale e fascicolo."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 5 su procedimento, URP e accesso;",
+      "after": "Capitolo 8 su procedimento, URP e accesso;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 6 su servizi digitali e gestione documentale;",
+      "after": "Capitolo 9 su servizi digitali e gestione documentale;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 8 su welfare, ISEE, minori e servizi educativi;",
+      "after": "Capitolo 11 su welfare, ISEE, minori e servizi educativi;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 3 su uffici e servizi;",
+      "after": "Capitolo 6 su uffici e servizi;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 2 su regolamenti;",
+      "after": "Capitolo 5 su regolamenti;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 3 su uffici;",
+      "after": "Capitolo 6 su uffici;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 4 su atti;",
+      "after": "Capitolo 7 su atti;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 5 su procedimento e accesso;",
+      "after": "Capitolo 8 su procedimento e accesso;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 6 su digitale;",
+      "after": "Capitolo 9 su digitale;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 8 su servizi educativi;",
+      "after": "Capitolo 11 su servizi educativi;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 9 su programmazione e bilancio;",
+      "after": "Capitolo 12 su programmazione e bilancio;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 11 su patrimonio e tariffe;",
+      "after": "Capitolo 14 su patrimonio e tariffe;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 12 su procurement;",
+      "after": "Capitolo 15 su procurement;"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Capitolo 13 su patrimonio e interfaccia tecnica.",
+      "after": "Capitolo 16 su patrimonio e interfaccia tecnica."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Ripasso capitolo 4 con casi.",
+      "after": "Ripasso capitolo 7 con casi."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Griglia procedimento del capitolo 5.",
+      "after": "Griglia procedimento del capitolo 8."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Checklist capitolo 6.",
+      "after": "Checklist capitolo 9."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Ripasso capitoli 7 e 8.",
+      "after": "Ripasso capitoli 10 e 11."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Simulazione capitolo 10.",
+      "after": "Simulazione capitolo 13."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Ripasso capitolo 11.",
+      "after": "Ripasso capitolo 14."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Ripasso capitolo 12.",
+      "after": "Ripasso capitolo 15."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Ripasso capitolo 13.",
+      "after": "Ripasso capitolo 16."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "Ripasso capitolo 4 se sbaglio atto.",
+      "after": "Ripasso capitolo 7 se sbaglio atto."
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "1, 2, 3, 4, 5, 6, 12",
+      "after": "4, 5, 6, 7, 8, 9, 15"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "9, 10, 11, 12",
+      "after": "12, 13, 14, 15"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "11, 12, 13",
+      "after": "14, 15, 16"
+    },
+    {
+      "path": "books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "before": "5, 6, 7, 8",
+      "after": "8, 9, 10, 11"
+    }
+  ]
+}

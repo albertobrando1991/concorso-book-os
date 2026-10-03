@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Scheda, Diario e capitale</title>
+  <desc id="desc">La prova diventa utile quando produce dati, errori corretti e materiali riusabili.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Scheda, Diario e capitale</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">La prova diventa utile quando produce dati, errori corretti e materiali riusabili.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="120 285 390 355 8">
+    <rect x="120" y="285" width="390" height="355" rx="28" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="120" y="285" width="390" height="14" rx="7" fill="#10233F"/>
+    <text class="label" style="fill:#10233F" x="315" y="357" text-anchor="middle">Scheda</text>
+    <text class="small" x="315" y="415" text-anchor="middle">dati prova</text>
+<text class="small" x="315" y="457" text-anchor="middle">materie forti</text>
+<text class="small" x="315" y="499" text-anchor="middle">punti deboli</text>
+  </g>
+<g data-safe-box="605 285 390 355 8">
+    <rect x="605" y="285" width="390" height="355" rx="28" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="605" y="285" width="390" height="14" rx="7" fill="#7A2430"/>
+    <text class="label" style="fill:#7A2430" x="800" y="357" text-anchor="middle">Diario</text>
+    <text class="small" x="800" y="415" text-anchor="middle">errore</text>
+<text class="small" x="800" y="457" text-anchor="middle">causa</text>
+<text class="small" x="800" y="499" text-anchor="middle">una azione</text>
+  </g>
+<g data-safe-box="1090 285 390 355 8">
+    <rect x="1090" y="285" width="390" height="355" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="1090" y="285" width="390" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" style="fill:#2F7D5A" x="1285" y="357" text-anchor="middle">Capitale</text>
+    <text class="small" x="1285" y="415" text-anchor="middle">nuclei</text>
+<text class="small" x="1285" y="457" text-anchor="middle">flashcard</text>
+<text class="small" x="1285" y="499" text-anchor="middle">routine utile</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M510 465 L605 465"/>
+    <path class="line" marker-end="url(#arrow)" d="M995 465 L1090 465"/>
+    <g data-safe-box="470 675 660 150 8">
+    <rect x="470" y="675" width="660" height="150" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <rect x="470" y="675" width="660" height="12" rx="6" fill="#D4AF37"/>
+    <text class="label" x="800" y="727" text-anchor="middle">Regola di trasformazione</text>
+    <text class="small" x="800" y="757" text-anchor="middle">ogni errore produce una sola azione verificabile</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Il candidato metodico archivia la prova come capitale, non solo come bene o male.</text>
+  </g>
+
+</svg>

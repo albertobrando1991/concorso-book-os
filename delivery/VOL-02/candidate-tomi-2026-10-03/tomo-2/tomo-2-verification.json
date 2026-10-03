@@ -1,0 +1,678 @@
+{
+  "tomo": "tomo-2",
+  "pdfSha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+  "pages": 268,
+  "indexEntries": [
+    {
+      "number": "Cap. 1",
+      "title": "Come usare questo tomo insieme a VOL-01",
+      "printedPage": 9,
+      "actualPage": 9,
+      "match": true
+    },
+    {
+      "number": "Cap. 2",
+      "title": "Bando Decoder territoriale",
+      "printedPage": 11,
+      "actualPage": 11,
+      "match": true
+    },
+    {
+      "number": "Cap. 3",
+      "title": "Piano 30/60/90 giorni per VOL-02",
+      "printedPage": 15,
+      "actualPage": 15,
+      "match": true
+    },
+    {
+      "number": "Cap. 35",
+      "title": "Diventare agente o ufficiale di Polizia locale",
+      "printedPage": 20,
+      "actualPage": 20,
+      "match": true
+    },
+    {
+      "number": "35.1",
+      "title": "Dal bando al profilo di Polizia locale",
+      "printedPage": 21,
+      "actualPage": 21,
+      "match": true
+    },
+    {
+      "number": "35.2",
+      "title": "Funzione locale e sistema delle fonti",
+      "printedPage": 24,
+      "actualPage": 24,
+      "match": true
+    },
+    {
+      "number": "35.3",
+      "title": "Profilo, mansioni e qualifiche operative",
+      "printedPage": 25,
+      "actualPage": 25,
+      "match": true
+    },
+    {
+      "number": "35.4",
+      "title": "Materie, prove e delta specialistico",
+      "printedPage": 28,
+      "actualPage": 28,
+      "match": true
+    },
+    {
+      "number": "35.5",
+      "title": "Piano di studio e prestazione concorsuale",
+      "printedPage": 30,
+      "actualPage": 30,
+      "match": true
+    },
+    {
+      "number": "Cap. 36",
+      "title": "Ordinamento nazionale e regionale della Polizia locale",
+      "printedPage": 37,
+      "actualPage": 37,
+      "match": true
+    },
+    {
+      "number": "36.1",
+      "title": "Legge quadro nazionale e funzione comunale",
+      "printedPage": 39,
+      "actualPage": 39,
+      "match": true
+    },
+    {
+      "number": "36.2",
+      "title": "Scala nazionale, regionale e locale",
+      "printedPage": 40,
+      "actualPage": 40,
+      "match": true
+    },
+    {
+      "number": "36.3",
+      "title": "Comune, gestione associata, Corpo e servizio",
+      "printedPage": 43,
+      "actualPage": 43,
+      "match": true
+    },
+    {
+      "number": "36.4",
+      "title": "Legge regionale, regolamenti e atti dell’ente",
+      "printedPage": 44,
+      "actualPage": 44,
+      "match": true
+    },
+    {
+      "number": "36.5",
+      "title": "Applicazione al bando e risposta d’esame",
+      "printedPage": 46,
+      "actualPage": 46,
+      "match": true
+    },
+    {
+      "number": "Cap. 37",
+      "title": "Qualifiche, poteri, dipendenze e organizzazione del servizio",
+      "printedPage": 51,
+      "actualPage": 51,
+      "match": true
+    },
+    {
+      "number": "37.1",
+      "title": "Funzione, qualifica, potere e organizzazione",
+      "printedPage": 53,
+      "actualPage": 53,
+      "match": true
+    },
+    {
+      "number": "37.2",
+      "title": "Ente, territorio e dipendenze funzionali",
+      "printedPage": 55,
+      "actualPage": 55,
+      "match": true
+    },
+    {
+      "number": "37.3",
+      "title": "Polizia giudiziaria e polizia stradale",
+      "printedPage": 57,
+      "actualPage": 57,
+      "match": true
+    },
+    {
+      "number": "37.4",
+      "title": "Agente di pubblica sicurezza e ruolo del prefetto",
+      "printedPage": 59,
+      "actualPage": 59,
+      "match": true
+    },
+    {
+      "number": "37.5",
+      "title": "Corpo, servizio, comando e caso integrato",
+      "printedPage": 61,
+      "actualPage": 61,
+      "match": true
+    },
+    {
+      "number": "Cap. 38",
+      "title": "Servizi di polizia stradale",
+      "printedPage": 67,
+      "actualPage": 67,
+      "match": true
+    },
+    {
+      "number": "38.1",
+      "title": "Sistema delle fonti e mappa dei servizi",
+      "printedPage": 69,
+      "actualPage": 69,
+      "match": true
+    },
+    {
+      "number": "38.2",
+      "title": "Organi, competenza e organizzazione del servizio",
+      "printedPage": 71,
+      "actualPage": 71,
+      "match": true
+    },
+    {
+      "number": "38.3",
+      "title": "Regolazione della circolazione, provvedimenti e segnaletica",
+      "printedPage": 72,
+      "actualPage": 72,
+      "match": true
+    },
+    {
+      "number": "38.4",
+      "title": "Controllo su strada e documentazione",
+      "printedPage": 76,
+      "actualPage": 76,
+      "match": true
+    },
+    {
+      "number": "38.5",
+      "title": "Aggiornamento normativo e caso operativo integrato",
+      "printedPage": 79,
+      "actualPage": 79,
+      "match": true
+    },
+    {
+      "number": "Cap. 39",
+      "title": "Accertamento, contestazione, notificazione e ricorsi nel Codice della strada",
+      "printedPage": 86,
+      "actualPage": 86,
+      "match": true
+    },
+    {
+      "number": "39.1",
+      "title": "Accertamento, prova e formazione del verbale",
+      "printedPage": 88,
+      "actualPage": 88,
+      "match": true
+    },
+    {
+      "number": "39.2",
+      "title": "Contestazione immediata e differita",
+      "printedPage": 90,
+      "actualPage": 90,
+      "match": true
+    },
+    {
+      "number": "39.3",
+      "title": "Notificazione e conoscenza legale",
+      "printedPage": 92,
+      "actualPage": 92,
+      "match": true
+    },
+    {
+      "number": "39.4",
+      "title": "Pagamento e rimedi alternativi",
+      "printedPage": 94,
+      "actualPage": 94,
+      "match": true
+    },
+    {
+      "number": "39.5",
+      "title": "Cronologia, errori e caso integrato",
+      "printedPage": 97,
+      "actualPage": 97,
+      "match": true
+    },
+    {
+      "number": "Cap. 40",
+      "title": "Procedimento sanzionatorio amministrativo applicato",
+      "printedPage": 103,
+      "actualPage": 103,
+      "match": true
+    },
+    {
+      "number": "40.1",
+      "title": "Legalità, illecito e fonte speciale",
+      "printedPage": 104,
+      "actualPage": 104,
+      "match": true
+    },
+    {
+      "number": "40.2",
+      "title": "Accertamento, contestazione e verbale",
+      "printedPage": 107,
+      "actualPage": 107,
+      "match": true
+    },
+    {
+      "number": "40.3",
+      "title": "Pagamento, difese e istruttoria",
+      "printedPage": 109,
+      "actualPage": 109,
+      "match": true
+    },
+    {
+      "number": "40.4",
+      "title": "Archiviazione, ordinanza-ingiunzione e opposizione",
+      "printedPage": 111,
+      "actualPage": 111,
+      "match": true
+    },
+    {
+      "number": "40.5",
+      "title": "Discipline speciali e caso amministrativo locale",
+      "printedPage": 113,
+      "actualPage": 113,
+      "match": true
+    },
+    {
+      "number": "Cap. 41",
+      "title": "Polizia giudiziaria e atti essenziali",
+      "printedPage": 119,
+      "actualPage": 119,
+      "match": true
+    },
+    {
+      "number": "41.1",
+      "title": "Funzioni, qualifiche e limiti della PG locale",
+      "printedPage": 120,
+      "actualPage": 120,
+      "match": true
+    },
+    {
+      "number": "41.2",
+      "title": "Notizia di reato e comunicazione al pubblico ministero",
+      "printedPage": 122,
+      "actualPage": 122,
+      "match": true
+    },
+    {
+      "number": "41.3",
+      "title": "Documentazione e atti essenziali di iniziativa",
+      "printedPage": 124,
+      "actualPage": 124,
+      "match": true
+    },
+    {
+      "number": "41.4",
+      "title": "Garanzie, fonti di prova e rapporto con l’autorità giudiziaria",
+      "printedPage": 128,
+      "actualPage": 128,
+      "match": true
+    },
+    {
+      "number": "41.5",
+      "title": "Doppio binario amministrativo-penale e prova concorsuale",
+      "printedPage": 130,
+      "actualPage": 130,
+      "match": true
+    },
+    {
+      "number": "Cap. 42",
+      "title": "TULPS, pubblica sicurezza e immigrazione",
+      "printedPage": 137,
+      "actualPage": 137,
+      "match": true
+    },
+    {
+      "number": "42.1",
+      "title": "TULPS, titoli e polizia amministrativa",
+      "printedPage": 139,
+      "actualPage": 139,
+      "match": true
+    },
+    {
+      "number": "42.2",
+      "title": "Pubblica sicurezza, sicurezza urbana e polizia giudiziaria",
+      "printedPage": 141,
+      "actualPage": 141,
+      "match": true
+    },
+    {
+      "number": "42.3",
+      "title": "Comune, sindaco, Prefetto e Questore",
+      "printedPage": 143,
+      "actualPage": 143,
+      "match": true
+    },
+    {
+      "number": "42.4",
+      "title": "Esercizi, manifestazioni e controlli",
+      "printedPage": 146,
+      "actualPage": 146,
+      "match": true
+    },
+    {
+      "number": "42.5",
+      "title": "Immigrazione e caso operativo",
+      "printedPage": 148,
+      "actualPage": 148,
+      "match": true
+    },
+    {
+      "number": "Cap. 43",
+      "title": "Sicurezza urbana, ordinanze e coordinamento",
+      "printedPage": 155,
+      "actualPage": 155,
+      "match": true
+    },
+    {
+      "number": "43.1",
+      "title": "Sicurezza integrata, urbana e ordine pubblico",
+      "printedPage": 156,
+      "actualPage": 156,
+      "match": true
+    },
+    {
+      "number": "43.2",
+      "title": "Regolamenti e strumenti ordinari",
+      "printedPage": 158,
+      "actualPage": 158,
+      "match": true
+    },
+    {
+      "number": "43.3",
+      "title": "Ordinanze sindacali e limiti",
+      "printedPage": 160,
+      "actualPage": 160,
+      "match": true
+    },
+    {
+      "number": "43.4",
+      "title": "Coordinamento con Prefetto e forze statali",
+      "printedPage": 162,
+      "actualPage": 162,
+      "match": true
+    },
+    {
+      "number": "43.5",
+      "title": "Aggiornamenti e caso urbano",
+      "printedPage": 164,
+      "actualPage": 164,
+      "match": true
+    },
+    {
+      "number": "Cap. 44",
+      "title": "Commercio, pubblici esercizi e SUAP",
+      "printedPage": 171,
+      "actualPage": 171,
+      "match": true
+    },
+    {
+      "number": "44.1",
+      "title": "SUAP e coordinamento procedimentale",
+      "printedPage": 172,
+      "actualPage": 172,
+      "match": true
+    },
+    {
+      "number": "44.2",
+      "title": "SCIA, autorizzazione, comunicazione e controllo successivo",
+      "printedPage": 174,
+      "actualPage": 174,
+      "match": true
+    },
+    {
+      "number": "44.3",
+      "title": "Commercio, pubblici esercizi e disciplina multilivello",
+      "printedPage": 176,
+      "actualPage": 176,
+      "match": true
+    },
+    {
+      "number": "44.4",
+      "title": "Sopralluogo, verbalizzazione e costruzione del fascicolo",
+      "printedPage": 179,
+      "actualPage": 179,
+      "match": true
+    },
+    {
+      "number": "44.5",
+      "title": "Dall’accertamento al seguito sanzionatorio",
+      "printedPage": 181,
+      "actualPage": 181,
+      "match": true
+    },
+    {
+      "number": "Cap. 45",
+      "title": "Vigilanza edilizia e procedimenti repressivi",
+      "printedPage": 186,
+      "actualPage": 186,
+      "match": true
+    },
+    {
+      "number": "45.1",
+      "title": "Vigilanza edilizia e riparto delle competenze",
+      "printedPage": 187,
+      "actualPage": 187,
+      "match": true
+    },
+    {
+      "number": "45.2",
+      "title": "Regimi e titoli edilizi nel controllo",
+      "printedPage": 189,
+      "actualPage": 189,
+      "match": true
+    },
+    {
+      "number": "45.3",
+      "title": "Sopralluogo, rilievi e costruzione del fascicolo",
+      "printedPage": 191,
+      "actualPage": 191,
+      "match": true
+    },
+    {
+      "number": "45.4",
+      "title": "Procedimenti repressivi e provvedimenti edilizi",
+      "printedPage": 193,
+      "actualPage": 193,
+      "match": true
+    },
+    {
+      "number": "45.5",
+      "title": "Doppio binario amministrativo e penale",
+      "printedPage": 197,
+      "actualPage": 197,
+      "match": true
+    },
+    {
+      "number": "Cap. 46",
+      "title": "Ambiente, rifiuti, rumore e tutela locale",
+      "printedPage": 202,
+      "actualPage": 202,
+      "match": true
+    },
+    {
+      "number": "46.1",
+      "title": "Perimetro ambientale e metodo di controllo",
+      "printedPage": 203,
+      "actualPage": 203,
+      "match": true
+    },
+    {
+      "number": "46.2",
+      "title": "Rifiuti, abbandono e gestione ordinaria",
+      "printedPage": 205,
+      "actualPage": 205,
+      "match": true
+    },
+    {
+      "number": "46.3",
+      "title": "Rumore e tutela acustica locale",
+      "printedPage": 208,
+      "actualPage": 208,
+      "match": true
+    },
+    {
+      "number": "46.4",
+      "title": "Comune, gestore, uffici, ARPA e autorità",
+      "printedPage": 210,
+      "actualPage": 210,
+      "match": true
+    },
+    {
+      "number": "46.5",
+      "title": "Verbale, relazione, ordinanza e doppio binario",
+      "printedPage": 212,
+      "actualPage": 212,
+      "match": true
+    },
+    {
+      "number": "Cap. 47",
+      "title": "Sinistri, rilievi e gestione della prova",
+      "printedPage": 217,
+      "actualPage": 217,
+      "match": true
+    },
+    {
+      "number": "47.1",
+      "title": "Arrivo, soccorso e sicurezza",
+      "printedPage": 218,
+      "actualPage": 218,
+      "match": true
+    },
+    {
+      "number": "47.2",
+      "title": "Fotografie, misure e rappresentazione planimetrica",
+      "printedPage": 220,
+      "actualPage": 220,
+      "match": true
+    },
+    {
+      "number": "47.3",
+      "title": "Identificazione, dichiarazioni e testimoni",
+      "printedPage": 223,
+      "actualPage": 223,
+      "match": true
+    },
+    {
+      "number": "47.4",
+      "title": "Fascicolo, dati personali e accesso",
+      "printedPage": 225,
+      "actualPage": 225,
+      "match": true
+    },
+    {
+      "number": "47.5",
+      "title": "Violazioni, responsabilità e possibile canale di PG",
+      "printedPage": 226,
+      "actualPage": 226,
+      "match": true
+    },
+    {
+      "number": "Cap. 48",
+      "title": "Ufficiale PL: comando, contenzioso ed emergenze",
+      "printedPage": 232,
+      "actualPage": 232,
+      "match": true
+    },
+    {
+      "number": "48.1",
+      "title": "Profili, comando, qualifiche e gestione",
+      "printedPage": 233,
+      "actualPage": 233,
+      "match": true
+    },
+    {
+      "number": "48.2",
+      "title": "Ordine di servizio e controllo operativo",
+      "printedPage": 235,
+      "actualPage": 235,
+      "match": true
+    },
+    {
+      "number": "48.3",
+      "title": "Personale, turni e priorità operative",
+      "printedPage": 237,
+      "actualPage": 237,
+      "match": true
+    },
+    {
+      "number": "48.4",
+      "title": "Contenzioso, accesso, reclami e fascicolo",
+      "printedPage": 240,
+      "actualPage": 240,
+      "match": true
+    },
+    {
+      "number": "48.5",
+      "title": "Emergenze e comunicazione istituzionale",
+      "printedPage": 242,
+      "actualPage": 242,
+      "match": true
+    },
+    {
+      "number": "Cap. 49",
+      "title": "Laboratorio atti e verbali della Polizia locale",
+      "printedPage": 248,
+      "actualPage": 248,
+      "match": true
+    },
+    {
+      "number": "49.1",
+      "title": "Dalla traccia al documento",
+      "printedPage": 249,
+      "actualPage": 249,
+      "match": true
+    },
+    {
+      "number": "49.2",
+      "title": "Verbale stradale e verbale amministrativo",
+      "printedPage": 250,
+      "actualPage": 250,
+      "match": true
+    },
+    {
+      "number": "49.3",
+      "title": "Annotazione, relazione e comunicazione",
+      "printedPage": 254,
+      "actualPage": 254,
+      "match": true
+    },
+    {
+      "number": "49.4",
+      "title": "Laboratorio multisettoriale e controllo sul campo",
+      "printedPage": 257,
+      "actualPage": 257,
+      "match": true
+    },
+    {
+      "number": "49.5",
+      "title": "Revisione dell’atto e prova finale",
+      "printedPage": 259,
+      "actualPage": 259,
+      "match": true
+    },
+    {
+      "number": "Cap. 50",
+      "title": "Simulazione finale — Tomo II",
+      "printedPage": 264,
+      "actualPage": 264,
+      "match": true
+    },
+    {
+      "number": "Cap. 51",
+      "title": "Dal tomo al prossimo bando",
+      "printedPage": 268,
+      "actualPage": 268,
+      "match": true
+    }
+  ],
+  "indexMismatches": [],
+  "overflowPages": [],
+  "internalLeaks": [],
+  "budgetAmountPreserved": true,
+  "oldReferenceTableAbsent": true,
+  "newReferenceTablePresent": true
+}

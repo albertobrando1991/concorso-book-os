@@ -1,0 +1,14 @@
+[
+  {
+    "tomo": "tomo-1",
+    "pages": 700,
+    "entries": 177,
+    "pdfTargetMismatches": []
+  },
+  {
+    "tomo": "tomo-2",
+    "pages": 268,
+    "entries": 95,
+    "pdfTargetMismatches": []
+  }
+]

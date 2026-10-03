@@ -24,3 +24,14 @@ Audit integrale dei 10 capitoli secondo «Soglia Governabile»: immagini Markdow
 ## Esito
 
 Audit chiuso senza rilievi aperti. Le verifiche che dipendono dalla paginazione saranno ripetute sul candidato PDF agli step 19–20; nessuna verifica su asset è pendente perché il modulo non contiene immagini.
+
+
+## Riesame di produzione del 3 ottobre 2026
+
+Questa verifica aggiorna il precedente inventario senza cancellarlo. Prova corrente: `vol-12-final-20261003-proof.pdf`; hash e copertura nel registro `VOL-12-production-visual-checkpoint.json`.
+
+| Asset | Problema | Correzione | Verifica nel Book Studio | Esito |
+| --- | --- | --- | --- | --- |
+| Apparati di M-SP01 | Verifica del contesto dopo le correzioni editoriali | Bando Decoder a pagine 126–129: campi vuoti reali, tre tabelle native, consegna unita al primo blocco. Piano 30/60/90 a pagina 142 leggibile e con spazi ripristinati. | Proiezione Book Studio esportata e controllata in PDF; panoramica di tutte le pagine e dettagli indicati | Verificato nel perimetro dichiarato |
+
+La seconda passata ha controllato uniformità, margini, proporzioni e raccordi nelle tavole e nei dettagli. Corpo nominale 11 pt e tabelle 9,5 pt; nessun overflow geometrico o asset mancante. Le tavole panoramiche non equivalgono a lettura a piena risoluzione di ogni pagina. Nessun giudizio di pubblicabilità complessiva: promesse digitali e dati editoriali comuni restano aperti.

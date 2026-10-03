@@ -1,0 +1,101 @@
+{
+  "V06-10": {
+    "change": "CNR 2025: documenti di bilancio, assestamenti e caso quadrato; grant con forme AGA e calcoli. Completa le integrazioni IR02/06–08 già applicate.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md",
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  },
+  "V06-17": {
+    "change": "Sostituito il quadro finanziario UE 2018/1046 con 2024/2509 e relativa decorrenza, anche nella fonte.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  },
+  "V06-18": {
+    "change": "Distinti ambiti 213/218; principi EPR, statuti CNR/ISTAT, livelli e declaratorie funzionali.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  },
+  "V06-19": {
+    "change": "Eliminati duplicati; conflitto e astensione, deroga EPR delimitata, missione con documenti e saldo, follow-up audit.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  },
+  "V06-20": {
+    "change": "Scelte progettuali ammesse se dichiarate; mini-proposta con dati, strumenti, calendario e rubrica.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  },
+  "V06-21": {
+    "change": "h-index con calcolo e limiti; piano tecnico con requisiti, accettazione e regressione.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  },
+  "V06-22": {
+    "change": "Art. 65 CPI vigente, comunicazione e deposito, terzi, brevetto e licenza/cessione spiegati con caso.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  },
+  "V06-23": {
+    "change": "DNSH qualificato come obbligo RRF; adempimenti specifici distinti. Completa la quota IR01 già applicata.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  },
+  "V06-24": {
+    "change": "DMP compilato e quattro elaborati con dati, soluzioni, tempi e griglia. Completa la quota IR02/12 già applicata.",
+    "files": [
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md",
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+    ],
+    "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+    "status": "applicato"
+  }
+}

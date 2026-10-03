@@ -1,0 +1,32 @@
+[
+  {
+    "path": "wiki/raw/correzioni-collana-2026-10-02/garante-data-breach-20261003.html",
+    "url": "https://www.garanteprivacy.it/data-breach",
+    "bytes": 163145,
+    "sha256": "12ea61f2120a078779833e796195de91845d1940de24a896dc129cabc10f9556"
+  },
+  {
+    "path": "wiki/raw/correzioni-collana-2026-10-02/garante-diritti-20261003.html",
+    "url": "https://www.garanteprivacy.it/regolamentoue/diritti-degli-interessati",
+    "bytes": 120555,
+    "sha256": "7de9e35ba0a8e1365f5691db40ae4e01ae0998a479629e8af6cfb313b4c2c894"
+  },
+  {
+    "path": "wiki/raw/correzioni-collana-2026-10-02/gu-foia-circolare2-2017.html",
+    "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticoloDefault/originario?atto.codiceRedazionale=17A04795&atto.dataPubblicazioneGazzetta=2017-07-13&atto.tipoProvvedimento=CIRCOLARE",
+    "bytes": 50971,
+    "sha256": "410b895ff68742dc7c7b813dcf9f56673d7947c531f8c9d5a9cce89d88d5ed67"
+  },
+  {
+    "path": "wiki/raw/correzioni-collana-2026-10-02/gu-foia-lineeguida-2016.html",
+    "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticoloDefault/originario?atto.codiceRedazionale=17A00068&atto.dataPubblicazioneGazzetta=2017-01-10&atto.tipoProvvedimento=DELIBERA",
+    "bytes": 115345,
+    "sha256": "95e410cc796bc75b4c9be82594c0a0a45f13f1d30900bd67ecad78a4652eca40"
+  },
+  {
+    "path": "wiki/raw/correzioni-collana-2026-10-02/garante-salute-10177128.html",
+    "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10177128",
+    "bytes": 155837,
+    "sha256": "175bf988458553a640a7f6d2fc9b239a041249d730b96867cc52912672688530"
+  }
+]

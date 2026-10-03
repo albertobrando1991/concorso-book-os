@@ -55,3 +55,8 @@ Il Capitolo 9 deve essere autonomo ma non specialistico. I dettagli avanzati su 
 ## Stato revisione
 
 Copertura consolidata al 26 maggio 2026 sulla base di fonti ufficiali scaricate in `wiki/raw/chapter-9-contratti-pubblici/`. Il Capitolo 9 puo essere scritto usando queste schede, senza ricorrere direttamente ai raw.
+
+
+## Integrazioni comuni — 3 ottobre 2026
+
+[[sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03]] consolida distinzioni concorsuali, termini disciplinari, PIAO, residui statali/armonizzati, calcoli del risultato e dati essenziali dei contratti. Destinazioni: capitoli 6, 8, 9 e glossari del Metodo BANDO.

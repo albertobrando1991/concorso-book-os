@@ -13,10 +13,26 @@ afterEach(() => {
   while (temporaryRoots.length) rmSync(temporaryRoots.pop()!, { recursive: true, force: true })
 })
 
-function fixtureRoot() {
+function fixtureRoot(legacyChapterApparatus = true) {
   const root = mkdtempSync(join(tmpdir(), "vol08-nuclei-"))
   temporaryRoots.push(root)
   cpSync(join(repositoryRoot, moduleRelative), join(root, moduleRelative), { recursive: true })
+  if (legacyChapterApparatus) {
+    const manifestPath = join(root, moduleRelative, "planning", "10-manifest-nuclei-format-2.json")
+    const manifest = JSON.parse(readFileSync(manifestPath, "utf8"))
+    for (const chapter of manifest.chapters) {
+      const staffPath = join(root, moduleRelative, "planning", "verifiche", chapter.file)
+      const staff = readFileSync(staffPath, "utf8")
+      const table = staff.match(/^## Apparato di verifica dei nuclei[\s\S]*?(?=^## (?!Apparato di verifica dei nuclei))/m)![0]
+      const chapterPath = join(root, moduleRelative, "chapters", chapter.file)
+      writeFileSync(chapterPath, readFileSync(chapterPath, "utf8") + "\n\n" + table + "\n## Fine apparato della fixture\n", "utf8")
+      rmSync(staffPath)
+    }
+    manifest.verificationAttestations.forEach((item: any) => {
+      item.sourceLocation = item.sourceLocation.replace("planning/verifiche/", "chapters/")
+    })
+    writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), "utf8")
+  }
   return root
 }
 
@@ -38,6 +54,25 @@ function replacePrimaryCell(root: string, cellIndex: number, value: string, nucl
 }
 
 describe("audit-vol08-format2-nuclei", () => {
+  it("validates staff mappings outside reader chapters against actual reader units", () => {
+    const root = fixtureRoot(false)
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    expect(readFileSync(chapter, "utf8")).not.toContain("## Apparato di verifica dei nuclei")
+    expect(audit(root).status).toBe(0)
+  })
+  it("rejects a staff mapping whose target appears only in the staff file", () => {
+    const root = fixtureRoot(false)
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8").replace("### Quiz 2", "### Domanda rimossa"), "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
+  it("rejects duplicate mappings in both staff file and reader chapter", () => {
+    const root = fixtureRoot(false)
+    const staff = readFileSync(join(root, moduleRelative, "planning", "verifiche", "01-lavorare-ict-pa-ruoli-enti-prove.md"), "utf8")
+    const chapter = join(root, moduleRelative, "chapters", "01-lavorare-ict-pa-ruoli-enti-prove.md")
+    writeFileSync(chapter, readFileSync(chapter, "utf8") + "\n" + staff, "utf8")
+    expect(audit(root).status).not.toBe(0)
+  })
   it("preserves a completed canonical matrix when running with --write", () => {
     const root = fixtureRoot()
     const matrix = join(root, moduleRelative, "planning", "02-matrice-copertura-didattica.md")
@@ -271,7 +306,7 @@ describe("audit-vol08-format2-nuclei", () => {
     const source = readFileSync(chapter, "utf8")
     const table = source.match(/^## Apparato di verifica dei nuclei[\s\S]*?(?=^## (?!Apparato di verifica dei nuclei))/m)?.[0]
     expect(table).toBeTruthy()
-    const withoutTable = source.replace(table!, "").replace("**Quiz 1.** La governance del dato coincide con l'amministrazione tecnica del database?", "**Quiz sostitutivo.** La domanda ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¨ stata spostata.")
+    const withoutTable = source.replace(table!, "").replace(/\*\*Quiz 1\.[^\n]+/, "**Quiz sostitutivo.** La domanda è stata spostata.")
     writeFileSync(chapter, `${withoutTable.trimEnd()}\n\n${table}\n`, "utf8")
     expect(audit(root).status).not.toBe(0)
   })

@@ -1,0 +1,121 @@
+{
+  "volume": "VOL-12",
+  "module": "M-SP02",
+  "date": "2026-10-03",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "sha256": "dd8fa22d6862813fb9a16979fdb4f123ce3c3ca1679af3d85c83b9159bab5529",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "sha256": "da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "sha256": "c5157b01ebe99339b4ac84224d70b60dc05ab44edcdf4a6f835ad5e9595323b1",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "sha256": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "sha256": "abd877e7316bc28d67a0724af7cf126aa0285e032805356caa4780b4be6e827a",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "sha256": "e7cf9d1af54dd1732ba03ff11a9e31be652b16ae4e95bea82a027f8a371a3d21",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "sha256": "33aeea6cbc946a8f4e9caf15dda3ae81a640640c7991abd0725dbe9d68d6afde",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "sha256": "c60d59483769f97d7cb4dce54b4b9b19bf021198f4357648ccc870fdf814d9c8",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    }
+  ],
+  "checks": [
+    "8 capitoli, 40 nuclei almeno 600 parole, 48 quiz commentati.",
+    "Calcoli, casi, chiavi, rinvii e fonti dei delta riesaminati.",
+    "Step 15 passato con zero blocker e warning; indice e matrice riconciliati."
+  ],
+  "limitations": [
+    "Nuovo PDF e altri moduli del volume ancora da completare.",
+    "Fonti normative verificate selettivamente; avviso 7 ottobre futuro al controllo."
+  ],
+  "controlledPrintCorrections": {
+    "date": "2026-10-03",
+    "files": [],
+    "referenceCorrections": [
+      {
+        "volume": "VOL-12",
+        "module": "M-SP02",
+        "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+        "beforeSHA256": "c5157b01ebe99339b4ac84224d70b60dc05ab44edcdf4a6f835ad5e9595323b1",
+        "sha256": "36dec5979357d1125592339ca03446d4b450182f2a9df5c00a6664e72a8df21c",
+        "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+      },
+      {
+        "volume": "VOL-12",
+        "module": "M-SP02",
+        "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+        "beforeSHA256": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+        "sha256": "89c4584cfeca46ebb968a5fe25337601516dd55b895614de350503b65e471dcc",
+        "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+      },
+      {
+        "volume": "VOL-12",
+        "module": "M-SP02",
+        "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+        "beforeSHA256": "e7cf9d1af54dd1732ba03ff11a9e31be652b16ae4e95bea82a027f8a371a3d21",
+        "sha256": "c2f486609d7b086b02927517f5c1761c068c26f72d18065206c386e2a66af7b4",
+        "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+      },
+      {
+        "volume": "VOL-12",
+        "module": "M-SP02",
+        "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+        "beforeSHA256": "c60d59483769f97d7cb4dce54b4b9b19bf021198f4357648ccc870fdf814d9c8",
+        "sha256": "80e9494a3650cd22f4b3e8fab4a263184275014a5d52b87e4c5eb68ddc55799e",
+        "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+      }
+    ],
+    "referenceVerification": "Destinazioni riscontrate nei titoli canonici; nuova prova PDF necessaria.",
+    "verification": "Verificato nella prova di produzione e nel registro visivo del 3 ottobre 2026; nessuna attestazione normativa aggiuntiva."
+  },
+  "productionReview": {
+    "pdf": "vol-12-final-20261003-proof.pdf",
+    "sha256": "70f546098427dd2dfaa02dad1ce8df3ac266f92671e991aa891782809df8ee88",
+    "report": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-12.md",
+    "method": "Panoramica di tutte le pagine, direttamente o mediante corrispondenza pixel con pagine già viste; dettagli a piena risoluzione nelle pagine elencate. Il confronto esclude soltanto i 40 pt inferiori del piè di pagina; numerazione e indice verificati separatamente sul PDF.",
+    "effectiveFileHashes": {
+      "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md": "dd8fa22d6862813fb9a16979fdb4f123ce3c3ca1679af3d85c83b9159bab5529",
+      "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md": "da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c",
+      "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md": "36dec5979357d1125592339ca03446d4b450182f2a9df5c00a6664e72a8df21c",
+      "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md": "89c4584cfeca46ebb968a5fe25337601516dd55b895614de350503b65e471dcc",
+      "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md": "abd877e7316bc28d67a0724af7cf126aa0285e032805356caa4780b4be6e827a",
+      "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md": "c2f486609d7b086b02927517f5c1761c068c26f72d18065206c386e2a66af7b4",
+      "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md": "33aeea6cbc946a8f4e9caf15dda3ae81a640640c7991abd0725dbe9d68d6afde",
+      "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md": "80e9494a3650cd22f4b3e8fab4a263184275014a5d52b87e4c5eb68ddc55799e"
+    },
+    "frontMatterUnresolved": true
+  }
+}

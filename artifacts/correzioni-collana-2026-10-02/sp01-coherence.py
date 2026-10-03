@@ -1,0 +1,30 @@
+from pathlib import Path
+import re
+B=Path('wiki/books/moduli/m-sp01-forze-ordine/chapters')
+for p in sorted(B.glob('*.md')):
+ t=p.read_text(encoding='utf8');fm,body=t.split('\n---\n',1)
+ if p.name[:2]=='08':
+  fm=fm.replace(' T ','T').replace(' Z"','Z"')
+  body=body.replace('come documentato nella tornata ispettiva della Polizia di Stato 2026. Questo dato va letto come caratteristica di quella tornata, non come regola eterna.','come nello scenario didattico di 33 giorni proposto qui. Lo scenario non è un intervallo garantito dal bando.')
+  body=re.sub(r'(?<=\d),(?=\d+ ore)', ', ',body);body=body.replace('quesito,240','quesito, 240')
+ if p.name[:2] in ['03','08']:
+  body=re.sub(r'> \*\*Fonte della tornata citata\.\*\*[^\n]+', '> **Fonte dell’esempio.** Il bando PS per 1.000 vice ispettori del 19 gennaio 2026, art. 9, prevede 5.000 quesiti (2.000 penale, 2.000 procedura penale, 1.000 costituzionale) e una prova scritta di 100 quesiti. Il calendario dipende dagli avvisi; gli intervalli usati negli esercizi sono ipotesi didattiche. [Bando e scheda ufficiale inPA](https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a0b299e8e76042898f13d0b72e326cae).',body)
+  body=body.replace('Un dato merita attenzione particolare: nella tornata documentata dei vice ispettori della Polizia di Stato 2026, il tempo tra pubblicazione della banca dati e prova è stato poco più di un mese. Questo non significa che ogni futura procedura ispettiva avrà lo stesso intervallo.','Un problema merita attenzione particolare: una banca dati può essere pubblicata a poche settimane dalla prova. Nel capitolo 8 useremo uno scenario di 33 giorni per misurare il carico di 5.000 quesiti. Non è un intervallo garantito da ogni procedura ispettiva.')
+  body=body.replace('Nella tornata documentata dei vice ispettori della Polizia di Stato 2026, il dato strategico centrale è stato la compressione temporale: poco più di un mese tra pubblicazione della banca dati e prova. Questo dato non va trasformato in regola generale. Non puoi dire che ogni concorso ispettivo avrà lo stesso intervallo.','Nello scenario didattico di una banca di 5.000 quesiti da lavorare in 33 giorni, il problema centrale è la compressione temporale. I 33 giorni sono un’ipotesi di piano, non un termine normativo. Il bando PS 1.000 del 2026 fornisce invece il dato reale della consistenza della banca e delle materie.')
+  body=body.replace('L’intervallo di poco più di un mese riguarda la tornata documentata dei vice ispettori della Polizia di Stato 2026.','L’intervallo didattico di 33 giorni permette di verificare se il ritmo ipotizzato è sostenibile.')
+  body=body.replace('Perché la tornata vice ispettori PS 2026 è rilevante in questo capitolo?','Perché associare la banca PS di 5.000 quesiti a uno scenario didattico di tempo ridotto?')
+  body=body.replace('mostra l’impatto della compressione temporale tra pubblicazione della banca dati e prova.','permette di calcolare carico, ripassi e simulazioni entro il tempo ipotizzato.')
+  body=body.replace('Per il livello ispettivo della Polizia di Stato, il riferimento metodologico è la tornata documentata dei vice ispettori 2026, da usare solo per comprendere l’effetto della compressione temporale tra pubblicazione della banca dati e prova, non come regola automatica per procedure future.','Per il livello ispettivo della Polizia di Stato, il bando 1.000 del 2026, artt. 8–10, documenta materie, banca, struttura dello scritto e limite di ammissione. I ritmi personali del piano non modificano quelle regole.')
+ if p.name[:2]=='07':
+  body=body.replace('se un dato essenziale è non pubblicato','se un dato essenziale non è ancora pubblicato')
+  body=body.replace('In questo caso devi impostare un controllo periodico della fonte ufficiale e una soglia di attivazione:', 'Se la domanda è già aperta, l’attesa non deve far perdere il termine: decidi e presenta tempestivamente la candidatura quando i requisiti sono verificati. Imposta inoltre un controllo della fonte e una soglia per aggiornare la preparazione:')
+  body=body.replace('| Ignoto dichiarato | Dato non pubblicato |  |\n| Ignoto dichiarato | Dato non dichiarato |  |','| Stato del dato | Non reperito / non ancora pubblicato / non previsto / da verificare, con motivo |  |')
+ p.write_text(fm+'\n---\n'+body,encoding='utf8')
+p=Path('wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md');t=p.read_text(encoding='utf8')
+t=t.replace('dalle 00.00 del 23 gennaio 2026 alle 23.59 del 21 febbraio 2026','scheda inPA: apertura 22 gennaio 2026 ore 18:15; chiusura 21 febbraio 2026 ore 23:59 (ricontrollo 3 ottobre)')
+t=t.replace('**Due decreti di modifica** successivi, del 18 marzo e del 10 aprile 2026.','**Due allegati di modifica pubblicati** su inPA il 18 marzo e il 10 aprile 2026. Il primo decreto reca la data del 10 marzo 2026: non confondere data dell’atto e pubblicazione.')
+t=t.replace('| Banca dati | 5.000 quesiti, pubblicati il 22 aprile 2026 |','| Banca dati | 5.000 quesiti, consistenza verificata nell’art. 9. Data storica del 22 aprile riportata nella precedente acquisizione ma non riscontrata nel controllo corrente: non usata nel testo corretto |')
+t=t.replace('| Prova scritta | dal 25 al 28 maggio 2026, Ergife Palace Hotel, Roma |','| Prova scritta | Date e sede della precedente acquisizione non riscontrate nel controllo corrente; sito PS restituisce accesso negato. Testo corretto usa i dati dell’art. 9 e scenari di piano dichiarati |')
+t+='\n## Controllo finale del 3 ottobre 2026\n\nLe schede inPA PS 1.000 e CC 898 sono state riaperte: confermati apertura/chiusura e distinta data di pubblicazione degli allegati. Le date storiche di banca e scritto PS non sono state riattestate e sono escluse dai capitoli corretti. L’acquisizione `ps1000-bando-2026.pdf` nella cartella correzioni è incompleta e non è una fonte utilizzabile; la copia valida è `ps1000-bando-2026-completo.pdf` (24 pagine). Restano validi soltanto i riscontri puntuali espressamente descritti.\n'
+p.write_text(t,encoding='utf8')
+print('SP01 coherence applied')

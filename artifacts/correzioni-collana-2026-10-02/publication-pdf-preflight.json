@@ -1,0 +1,491 @@
+{
+  "checkedAt": "2026-10-03T13:02:23.477662+00:00",
+  "scope": "Physical PDF properties and effective raster resolution; not a new content review or Print Previewer",
+  "pdfs": [
+    {
+      "volume": "VOL-01",
+      "pdf": "delivery/VOL-01/candidate-2026-10-03/vol-01-interior-kdp.pdf",
+      "sha256": "46accfc1fe82a3779263805532d34f2461415a55d92e1d988f7249b2294662aa",
+      "pages": 686,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 20,
+      "imagesUnder300Ppi": [],
+      "images": [
+        {
+          "page": 1,
+          "width": 1155,
+          "height": 1155,
+          "dpi": 1026.67
+        },
+        {
+          "page": 36,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 68,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 193,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 221,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 224,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 252,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 279,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 327,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 375,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 389,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 403,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 418,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 436,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 469,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 489,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 529,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 534,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 546,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        },
+        {
+          "page": 550,
+          "width": 1254,
+          "height": 1254,
+          "dpi": 302.47
+        }
+      ]
+    },
+    {
+      "volume": "VOL-02",
+      "pdf": "delivery/VOL-02/candidate-tomi-2026-10-03/tomo-1/vol-02-tomo-1-proof.pdf",
+      "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+      "pages": 700,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 368,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    },
+    {
+      "volume": "VOL-02",
+      "pdf": "delivery/VOL-02/candidate-tomi-2026-10-03/tomo-2/vol-02-tomo-2-proof.pdf",
+      "sha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+      "pages": 268,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 98,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    },
+    {
+      "volume": "VOL-03",
+      "pdf": "delivery/VOL-03/candidate-2026-10-03/vol-03-interior-kdp.pdf",
+      "sha256": "32e25d31b712ca18af78053e7f62daab47ea266106ca52dae16cd8407eff718c",
+      "pages": 813,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 275,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    },
+    {
+      "volume": "VOL-04",
+      "pdf": "delivery/VOL-04/candidate-2026-10-03/vol-04-interior-kdp.pdf",
+      "sha256": "b2a48f8dc70238ead3133a0f859d8bddc9eb9aa0f20e1f54644f16ca7889e09e",
+      "pages": 367,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    },
+    {
+      "volume": "VOL-05",
+      "pdf": "delivery/VOL-05/candidate-2026-10-03/vol-05-interior-kdp.pdf",
+      "sha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5",
+      "pages": 239,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 69,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    },
+    {
+      "volume": "VOL-06",
+      "pdf": "delivery/VOL-06/candidate-2026-10-03/vol-06-interior-kdp.pdf",
+      "sha256": "34b57193a490375dcab8c48f858de6fb360d3d05af1c183b29d114b32380ab94",
+      "pages": 617,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 319,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    },
+    {
+      "volume": "VOL-07",
+      "pdf": "delivery/VOL-07/candidate-2026-10-03/artifacts/correzioni-collana-2026-10-02/vol-07-release-20261003-proof.pdf",
+      "sha256": "60e7814e7a9d17ea36f1af9b5a7652206f83ce33fe0870b0aebc6d588df43e16",
+      "pages": 456,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 469,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 3,
+      "imagesUnder300Ppi": [],
+      "images": [
+        {
+          "page": 404,
+          "width": 1600,
+          "height": 980,
+          "dpi": 304.47
+        },
+        {
+          "page": 423,
+          "width": 1600,
+          "height": 980,
+          "dpi": 304.47
+        },
+        {
+          "page": 424,
+          "width": 1600,
+          "height": 980,
+          "dpi": 304.47
+        }
+      ]
+    },
+    {
+      "volume": "VOL-08",
+      "pdf": "delivery/VOL-08/candidate-2026-10-03/vol-08-interior-kdp.pdf",
+      "sha256": "ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de",
+      "pages": 244,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 69,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    },
+    {
+      "volume": "VOL-09",
+      "pdf": "delivery/VOL-09/candidate-2026-10-03/vol-09-interior-kdp.pdf",
+      "sha256": "8dd41fc17e9e2cf638e8b1e3279a1f679b68243fb624853fa620ac9b99cb9097",
+      "pages": 267,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 56,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 1,
+      "imagesUnder300Ppi": [],
+      "images": [
+        {
+          "page": 240,
+          "width": 1950,
+          "height": 1410,
+          "dpi": 370.85
+        }
+      ]
+    },
+    {
+      "volume": "VOL-10",
+      "pdf": "delivery/VOL-10/candidate-2026-10-03/vol-10-interior-kdp.pdf",
+      "sha256": "288dcce6dd4f93c8e72ffc7350a5ae3b529c050fc32a3a18729bfb6e58fb4c4f",
+      "pages": 127,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 53,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 4,
+      "imagesUnder300Ppi": [],
+      "images": [
+        {
+          "page": 28,
+          "width": 1950,
+          "height": 1980,
+          "dpi": 371.25
+        },
+        {
+          "page": 31,
+          "width": 1950,
+          "height": 2160,
+          "dpi": 370.95
+        },
+        {
+          "page": 122,
+          "width": 1950,
+          "height": 2100,
+          "dpi": 371.27
+        },
+        {
+          "page": 123,
+          "width": 1536,
+          "height": 1024,
+          "dpi": 302.47
+        }
+      ]
+    },
+    {
+      "volume": "VOL-11",
+      "pdf": "delivery/VOL-11/candidate-2026-10-03/vol-11-interior-kdp.pdf",
+      "sha256": "eb67bedb161968004879438a2dad8ce37d86f4deb7d53d40f7e8db9d2c41b425",
+      "pages": 253,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 64,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    },
+    {
+      "volume": "VOL-12",
+      "pdf": "delivery/VOL-12/candidate-2026-10-03/artifacts/correzioni-collana-2026-10-02/vol-12-final-20261003-proof.pdf",
+      "sha256": "70f546098427dd2dfaa02dad1ce8df3ac266f92671e991aa891782809df8ee88",
+      "pages": 492,
+      "pageSizesPt": [
+        [
+          481.92,
+          691.92
+        ]
+      ],
+      "unembeddedFontXrefs": [],
+      "embeddedType3": [
+        {
+          "xref": 94,
+          "glyphStreams": 2,
+          "embedded": true
+        }
+      ],
+      "encrypted": false,
+      "textOutsidePage": [],
+      "imageCount": 0,
+      "imagesUnder300Ppi": [],
+      "images": []
+    }
+  ]
+}

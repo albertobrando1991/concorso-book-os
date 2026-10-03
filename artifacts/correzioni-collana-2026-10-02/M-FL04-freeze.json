@@ -1,0 +1,105 @@
+{
+  "module": "M-FL04",
+  "cutoff": "2026-10-03",
+  "files": [
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "4c134c611033a987b7664575b0ac6ae0baeb3a7610797b650bb7f07b6b7f5743"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "580fe6591113b4e7fca9841ff978372533d947fc0b297c864ff008ce759058b8"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "487c1ebcd4198cf48da200140a6d09cdf9931452d128204cce8255cf43a36e1c"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "1b1c74c6201d012bb8fad4760f8a340f93e25a6f9d0662c024b231688806543b"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "4826c1dbc69a9b0cfca56695cdd4a07cb0f50ba4a126384804aa57f67f461efe"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "ea92667e22988021878bcdf3778ebdc3fb7185c466c3c994f71b44a85871d896"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "1fdccb401958726cb8370dd889c744bbf638cbf0b65ee5fdfe1d8a85dc073bb8"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "0c6fca021f9c95b1b2ebea800f574b36befad03a4690d1576b01d4b28e8e1140"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "728b1aa58f111c2c3f5c70eecf6288bae84b00a64eb6765f73b93dd64a293c18"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "92f8eca05ad020f64b5624aac7177375f3edb57519781b58b0390544d414da44"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "4c87e7506ace5989926522823028d0477da406dae671310c9e692c45c023b79b"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "e59e5c247cd876521c0e35cabe01a6cfebb22445a5158d460dfc56855988d5d1"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "becb09c309710257d53b37d638fe5e82181908b1c7a5708d12e8a0e0f1c05ce9"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "dacbca3cf7e699b8d500d5d836bc8f932d1234c4182ed0c0c69112cd26b4334e"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "14f3de3cf3d8d62852816f02beb67574ad00bf3da3232bf5e707f930511d70db"
+    }
+  ],
+  "pdfChecked": true,
+  "pdfReviewMethod": "Whole-PDF contact sheets plus targeted closeups; see PDF-VOL-02.md, not all-page full-resolution reading",
+  "pdfProof": {
+    "id": "tomo-2",
+    "pdf": "tomo-2\\vol-02-tomo-2-proof.pdf",
+    "sha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+    "pages": 268,
+    "indexEntries": 95
+  }
+}

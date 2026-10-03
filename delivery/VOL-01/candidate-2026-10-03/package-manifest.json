@@ -1,0 +1,949 @@
+{
+  "volume": "VOL-01",
+  "date": "2026-10-03",
+  "pdfSha256": "46accfc1fe82a3779263805532d34f2461415a55d92e1d988f7249b2294662aa",
+  "files": [
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-01-cover.pdf",
+      "bytes": 149724,
+      "sha256": "eb2a6722f8a201f7a879d2c2dcbdf4910d140b26f4c40d2dabb7fc0d4ceacb3d"
+    },
+    {
+      "path": "dom-metrics.json",
+      "bytes": 1176867,
+      "sha256": "c4499e0f5b2b5bb63a4af824aac19c135d6e588166e2112a5656bb7d5e625ce3"
+    },
+    {
+      "path": "index-verification.json",
+      "bytes": 82629,
+      "sha256": "240ee9b8e686dbccee1da4e604c906998f1b6f7201610f7f92d793a075c877a1"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-02/04-gerarchia-materie-bando-stampa.png",
+      "bytes": 1075066,
+      "sha256": "97d2f84d598cab836729b4461845f8f8a6e6da353f8f4f74a133053e7f22f628"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-04/04-organi-costituzionali-flussi-stampa.png",
+      "bytes": 1062171,
+      "sha256": "efdb6822ae8f511235584bb7b9dc83c7cd9e6ebeaf27c8c7c6932f3cfbfa8bdd"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-08/02-ciclo-entrate-spese-stampa.png",
+      "bytes": 992009,
+      "sha256": "b6be47de35c79b3f8f7e1daed49f9d9d97c4668a27d32e35f5da8053ba8564f1"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-09/02-ciclo-fabbisogno-esecuzione-stampa.png",
+      "bytes": 948173,
+      "sha256": "5a4918dd2e016b158709ce35f4655eaaf78200e79cb27ac04bc5e67e62099446"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-09/03-procedure-affidamento-concorrenza-stampa.png",
+      "bytes": 989735,
+      "sha256": "811274a9df209390fa48f5aa263a4692b932d190e13d3cd2ff6086ed2cabda48"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-10/03-file-office-dati-stampa.png",
+      "bytes": 999266,
+      "sha256": "142ae2162f9bf574db143604a7ea8afa4cabdebf1e54110adddb2bb41744a294"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-10/07-istanza-online-conservazione-stampa.png",
+      "bytes": 1023557,
+      "sha256": "a8eadc17f0163828237cd3679ec670c82098c3d1c4a8c9d2643c126a66be7c3b"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-12/03-parole-logiche-decisive-stampa.png",
+      "bytes": 979498,
+      "sha256": "39603bcea10815fcdc69ddcab6144ea0541d0885ed3142f33ae087be6fb9341e"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-14/04-banca-dati-quattro-passaggi-stampa.png",
+      "bytes": 1061632,
+      "sha256": "9720b0511eb672b575851c3321b4f58cb4eb5ebf639120e325907f6270c05a2a"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-15/04-schema-risposta-concorsuale-stampa.png",
+      "bytes": 1001811,
+      "sha256": "4f6800847772b02fb93f64e491de61f4fd60035cafb2d2a955741f59eb2ccce8"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-16/03-struttura-universale-risposta-orale-stampa.png",
+      "bytes": 1033475,
+      "sha256": "88d057017f95a1c3767fa7a2ec0e1ed099078489c3a3f6defdf448e0abba192f"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-17/04-schema-risposta-caso-pratico-stampa.png",
+      "bytes": 1020307,
+      "sha256": "a008f51b8b8e4d36c5c2a4a5ac06540f10690a4f17740477e12fc8d38276cae4"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-18/03-anatomia-quesito-situazionale-stampa.png",
+      "bytes": 978149,
+      "sha256": "c3114079072523a6d379a4f79c5ce1292fc35bc58ecc539b0283666830be2fd4"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-19/07-sequenza-famiglia-piano-stampa.png",
+      "bytes": 938026,
+      "sha256": "389abf9ddc39fa48cb923ab627c5f135b76dfb95d2303641bfbd4090c1f6a97e"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-20/06-semaforo-e-pesatura-tempo-stampa.png",
+      "bytes": 1114123,
+      "sha256": "83a174af2a10ff659d05210d02fe55a30f2f83a0d549c94d443a8ac1b0ec05bc"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-22/07-caso-luca-ciclo-controllo-stampa.png",
+      "bytes": 1053940,
+      "sha256": "38249adc3e181ccc0cab0944fa7d3910e7d1a00e86839fe685d30bf173b3d9eb"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-23/02-sei-categorie-errore-stampa.png",
+      "bytes": 1113322,
+      "sha256": "4b636d2247afbb2cc6c401346bf198fd8412d4dd40c1234cc7d4f9777d7a4017"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-23/07-caso-marta-pattern-errori-stampa.png",
+      "bytes": 1144023,
+      "sha256": "76edd252356c084e5eeb436c73c674b7df2af91a9d36460d7b7709904d8b62d1"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/chapter-24/02-tre-regole-checklist-stampa.png",
+      "bytes": 1045313,
+      "sha256": "a2b3ab7dbcb2e9f342c961bc3cee8480c6bd7950ae798ce27bd1df1ea7275fc4"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/assets/front-matter/qr-capitale-personale.png",
+      "bytes": 7628,
+      "sha256": "612550cab9b2852b5500d0751fb799f49b6ef070e5ee8a6781ae63909108808f"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+      "bytes": 18772,
+      "sha256": "a0a1677d08227d58cff2b85bae54f6575cb5879d4e551ee1093d8e04317fc00f"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/appendice-a-glossario-essenziale-pa.md",
+      "bytes": 30498,
+      "sha256": "d56758ac92eb52d8afeb04e9eaa83a4edd6b65ce71c699bd836042bf01aa13f9"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/appendice-b-100-parole-chiave-concorsi.md",
+      "bytes": 24857,
+      "sha256": "09b93e1e9451d3fb29c3f2f5ac400bb5aa820e9d9eb7c25d41cc841a9445ed41"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/appendice-c-template-bando-decoder.md",
+      "bytes": 14660,
+      "sha256": "1b6d4a871a927c7082b6b19ae26cde8e224ad96591962f1ec5e1914ceec585b2"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/appendice-d-piano-studio-personale.md",
+      "bytes": 13908,
+      "sha256": "472a1d840ed63b30ba880e8d709e698bb8cfc8e8504bcdd23c4bf5c9295b0b89"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/appendice-e-schema-universale-risposta-orale.md",
+      "bytes": 21728,
+      "sha256": "aeee69d89c2753975aff77ffdc406dd1d6a837429c670b35dd762966ba2280a8"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/appendice-f-matrice-materie-profili.md",
+      "bytes": 21911,
+      "sha256": "7ad2a6ec408e9880dc2e1f3e51cc1a1ac63987f06962b5c2329b67dc76662348"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+      "bytes": 35035,
+      "sha256": "4de303521708ca7ac433229a904ae811d00ff4ba9ebc9a79cb92a5c074a4c562"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/checklist-operative.md",
+      "bytes": 26361,
+      "sha256": "523e29b411f43c9de5e2cfab0027c0b032d96239986ce2dec177a432bf6f4284"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/conclusione.md",
+      "bytes": 5931,
+      "sha256": "3108246aeec5f3f94ebf38050de7874381aa0ee5471375d8b2a03eb9756b0b75"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+      "bytes": 49728,
+      "sha256": "125e4761f5e0909c88c6c22ebfe6870874883cb817d1e591793375c6c9d86aa4"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+      "bytes": 53516,
+      "sha256": "9ee4694deb4d75ffe300f1f0c0230f47a241fb715e57cf92f3481cc143b9e181"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+      "bytes": 63817,
+      "sha256": "d75bb3479ec3a7f522511de2d6bf1282454c7cbe19d8c67d16591d964c1e4fff"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/diario-degli-errori.md",
+      "bytes": 20737,
+      "sha256": "4a9558d7246c9df74ed4bbf0001563f60b6784c8f4d4f9115afc163219ae925e"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
+      "bytes": 98097,
+      "sha256": "d0ad85968c4720c1e203054e66afe0aa20d491f8b65a8e00f6289b7fa2859320"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+      "bytes": 33323,
+      "sha256": "d4f4b016097aa60e3785c1e52ec1e5d2df6ec8c8a04305bb74c82bb5d07d72e6"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/il-metodo-bando.md",
+      "bytes": 16726,
+      "sha256": "7e67c3bff3c4916c953e52b962abbb6ef5d74011c2483ad2af6bbe9a223cb349"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md",
+      "bytes": 17312,
+      "sha256": "4d65330f91d68d59bdc9a23534a67bfbe79b98e54ad3a1f5f8793c663adfd0c6"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+      "bytes": 80643,
+      "sha256": "0643202024f4cd3984d333119185ccf3055bb6583a118f4a8d8bc22c428407bf"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/inglese-concorsuale-essenziale.md",
+      "bytes": 50913,
+      "sha256": "dc594fa61790f2f4842c01aafed7009a1a0180c03ff85aebd9d1a56ab58a22f6"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/introduzione.md",
+      "bytes": 8572,
+      "sha256": "eb08c80ff9e3a3eeb0dcd3c78b8c9915a3dea51c7be8e5fbc5dd058d0cee3da0"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+      "bytes": 23407,
+      "sha256": "efc43564610d8746af068eafffea9de4949fe323fd60504e1399766cec753171"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/la-prova-orale.md",
+      "bytes": 19145,
+      "sha256": "1846b7bf37539c58dc242b59e5bc56ae9a8ce4c581cf123fdc599cfe30f34c59"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+      "bytes": 62745,
+      "sha256": "f2cfc251cb84d80834e3e3d72b68f35cf98baecbfd254760830116397b661fe5"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "bytes": 29255,
+      "sha256": "c3fe7be36009dd4275ab4624a9ed644f77182923bab4b2187a8026580860b1fc"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi.md",
+      "bytes": 24428,
+      "sha256": "bf944c060842cafd4dcf4d3e7367d77f98503a76222e2ad5609fe8fb1bd7aa5c"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+      "bytes": 26897,
+      "sha256": "cdd87513b2e39bddd49d0e62fd7f0412f0a1c89f4501bcb6e31d1688df9a2cfe"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
+      "bytes": 73018,
+      "sha256": "c50f7ddde04f4cba736cbdc733c4658d61c3acdffc8fcaafcf9da6204f65a02f"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+      "bytes": 25576,
+      "sha256": "8298a43dea028d97e9c84e699b97a7bd2b02832fb4f702ca40d95f3048d09b5f"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/scegliere-moduli-integrativi.md",
+      "bytes": 30090,
+      "sha256": "c69abf438edf218fccc7d97d58ab719734c0252affc6f3d43f1d3438c940f75a"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/sistema-adattabile.md",
+      "bytes": 19298,
+      "sha256": "ede356566559a2a5e9c58d2e97ac22e7a0507f25e323c07fa4e47e993cff4dac"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy.md",
+      "bytes": 54093,
+      "sha256": "57ef4dd410e492092f3c4b70ad3869b542aed9aa188f555e5ae64beeaf2a4daf"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/front-matter/01-servizi-digitali.md",
+      "bytes": 2623,
+      "sha256": "0fdbd71342a5fb8891d2d6359e4d000ef5dab33d0e2769e9bf5583f7008b9231"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/front-matter/02-frontespizio.md",
+      "bytes": 1107,
+      "sha256": "c091d224eb3b8e164462246d72e4e0dc3668e1d8603d1c53e35ebfea8ecb9359"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/front-matter/03-copyright-colophon.md",
+      "bytes": 2193,
+      "sha256": "b1e8a76506c110d6a0854ae0a90843d6e542c3891c6b154a201a644376779e6b"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/front-matter/04-sommario.md",
+      "bytes": 2154,
+      "sha256": "68f19b5c1e372c456f14125f6d9c33f59f43aa767e136dad96c12a367249ac67"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/front-matter/05-premessa.md",
+      "bytes": 2502,
+      "sha256": "cb53ff32e5cf48cb1c35a2599eac9d02f70d5a1ca7bf708831a9126bf4cf1ba6"
+    },
+    {
+      "path": "masters/books/il-metodo-bando/front-matter/06-indice.md",
+      "bytes": 653,
+      "sha256": "e3b5146996cc3cc77eb9fb38bac182373fa6fb196c823aa7f69fe28cedb131c2"
+    },
+    {
+      "path": "payload.json",
+      "bytes": 2204449,
+      "sha256": "6715304208d4117f0557e44ab5a0cd88372885d47b63952454116f3bcff592a9"
+    },
+    {
+      "path": "pdf-geometry.json",
+      "bytes": 101165,
+      "sha256": "86823314688125c0ad45a60fe2deb1a829f79117f6c5834d646d0f97b40df9cb"
+    },
+    {
+      "path": "publication-refinements/export-publication-refinements.mjs",
+      "bytes": 8386,
+      "sha256": "e08c2912e3d810aaa717b28a53decf819d3faebba7be53c52dc862c379d8a8ee"
+    },
+    {
+      "path": "publication-refinements/normalize-base-orphan.py",
+      "bytes": 1935,
+      "sha256": "f91dae99473f0e11b85aac9fef439a9d9408f97f1856fc42ee6418e61e81e01d"
+    },
+    {
+      "path": "publication-refinements/PDF-VOL-01.md",
+      "bytes": 8035,
+      "sha256": "d4ec9fea3001f6073ba59e36550eea1ca6b9c1f8c122a6c978a538c7b5a37ff5"
+    },
+    {
+      "path": "publication-refinements/verify-publication-refinements.py",
+      "bytes": 3831,
+      "sha256": "24ba17c2bb9bd716f0ec1afd6cecb9818e4eae1e12313d7f8bdb66f8047dfb33"
+    },
+    {
+      "path": "publication-refinements/VOL-01-orphan-normalization.json",
+      "bytes": 747,
+      "sha256": "4bf0d13dae0bb1434e477b675e7bfd8164ae375f75f0411dad960b60f0e35294"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-008.png",
+      "bytes": 154790,
+      "sha256": "58e11295750cac969837d1ef1f0b2e113343638d639f22ec9efeea0d50570c30"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-036.png",
+      "bytes": 235682,
+      "sha256": "1c00159f433fd66aa6818e30c2d99f2ceeefe263c7ea87328e759cee760c4e69"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-068.png",
+      "bytes": 256075,
+      "sha256": "dfed72bded397d1bcdf6256034989bc5dd2745d6df6e6b27fcbce770357e10d0"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-079.png",
+      "bytes": 78392,
+      "sha256": "50e7d042aff968075b909e89063b801158484d1715a6b905ce7afe70f4fe8c13"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-080.png",
+      "bytes": 102321,
+      "sha256": "b777f6906b261c3884a8b1ce3ae353bd2ae8024b3246cacc1dd0884a1c71ca49"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-081.png",
+      "bytes": 128212,
+      "sha256": "4a6938efef84628a8225237d4826b987a576675f6f83f19737cf2eff75627189"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-082.png",
+      "bytes": 179305,
+      "sha256": "1b28d4d5c062a0e989060e435b9f8b7cf43d80d20bdbfed2deab481bf1f7921f"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-083.png",
+      "bytes": 77957,
+      "sha256": "4930232fe36ccf659babbe84f88efc739a6ad5775568f3f2c903b4ce2cf92277"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-193.png",
+      "bytes": 240531,
+      "sha256": "e1926713d2deb6d82100b259aa3a094792f1fa0716b6c23fb8f2aad4fdadd08e"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-221.png",
+      "bytes": 202531,
+      "sha256": "0c7900d6be1a568eb5d75635b6bc00dd659ba916627e4f40e5ccb3acf7c725e0"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-224.png",
+      "bytes": 246665,
+      "sha256": "39d23c0443f7b465836a5d6960a18a5d3e030d16e4e729e7f5c52450259e1244"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-252.png",
+      "bytes": 225910,
+      "sha256": "bfae28b0aed094c3ab6735b45554dfadfe794b28ddd90ddf35a69a3f89ed40a6"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-279.png",
+      "bytes": 221416,
+      "sha256": "adcd41b4d12ebac271ef79af887261f43d36a08b3afe736e3ab423c6ad72dae7"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-327.png",
+      "bytes": 215119,
+      "sha256": "ac626a543f9e8d046da9d0de8835f6b838135fa622b8053b3f34dc15717c7a68"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-375.png",
+      "bytes": 221665,
+      "sha256": "a1b65de86eef75b7d435099033802f615b0ca6209e56c177144938fc6635c4e6"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-389.png",
+      "bytes": 227434,
+      "sha256": "0179cfd2036bb97eb218dacb6b19b80d2e755d42c1380ca3281f968d405286a5"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-403.png",
+      "bytes": 201976,
+      "sha256": "ae17aa3547fd02af22f236fd9b00342ff95e8cfeb69c7c58f89e7b8d7e5a4e22"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-418.png",
+      "bytes": 220817,
+      "sha256": "9209127bb96f320ef477a4bc4b1c52b1b1a2db3be249d9285244527f4e49bb21"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-436.png",
+      "bytes": 228535,
+      "sha256": "52665faf3f064b764acc388a33db42131a2b1e8484b06f34648ea6ef654b98b2"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-469.png",
+      "bytes": 185547,
+      "sha256": "19b1e9e15b7dc9420aa15fe7604afdbbeb8907775a52954b42dcee03ed280429"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-489.png",
+      "bytes": 255020,
+      "sha256": "8ec4057eec334eed178cf20b8feca25498a3644dcbaa879ddb9c5a03f08848e5"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-529.png",
+      "bytes": 234293,
+      "sha256": "d90d51e483cf99b9001ebc22c483d2ac88662d1d74a5bfad35a23f4d1c7f4a7a"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-534.png",
+      "bytes": 249305,
+      "sha256": "985a6213a29aa84a3f9a451e7413074550beb3d988647d87015a18d4e43ce088"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-546.png",
+      "bytes": 262439,
+      "sha256": "012326717e85742ec07f40cd9744e5e90354539fac774b02cd435d09d6bb1134"
+    },
+    {
+      "path": "publication-refinements/vol-01-page-550.png",
+      "bytes": 230815,
+      "sha256": "688965dc60e635a66b3fe9caa9e4dadbbff231118c87bd57c2e951d32efb97f4"
+    },
+    {
+      "path": "publication-refinements/VOL-01-publication-index-verification.json",
+      "bytes": 82582,
+      "sha256": "bf372594e2ac94c62adb9c66a1881774e928e4b3ccda3b570958a0333af93927"
+    },
+    {
+      "path": "publication-refinements/vol-01-publication-refined-20261003-figure-placement.json",
+      "bytes": 6998,
+      "sha256": "8aa3a09a39b61595adf5289f5734ed51b5212a6b9e44d2da965a3dfa0ca25b76"
+    },
+    {
+      "path": "publication-refinements/vol-01-publication-refined-20261003-payload.json",
+      "bytes": 2204449,
+      "sha256": "6715304208d4117f0557e44ab5a0cd88372885d47b63952454116f3bcff592a9"
+    },
+    {
+      "path": "publication-refinements/vol-01-publication-refined-20261003-proof-metrics.json",
+      "bytes": 1176818,
+      "sha256": "95bc82d38b6b136fd9e170009ea1fc36cd518d323aca993617b28778897bcdf3"
+    },
+    {
+      "path": "publication-refinements/VOL-01-verification.json",
+      "bytes": 4515,
+      "sha256": "24c6f32ad86e989b89f08517d1bf0a00e87e97173b304a83f962f7bd2940fea5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2754,
+      "sha256": "19419774a8e0cb8726888711c303732b743e2c9f42a08834bd976eb091bc4207"
+    },
+    {
+      "path": "renderer-source-hashes.json",
+      "bytes": 844,
+      "sha256": "39dab3d5e3d80316b22665fb88ae3adfb8c47c08a3991d19e21f2b8f478ea2c2"
+    },
+    {
+      "path": "reports/21-vol-01.md",
+      "bytes": 7244,
+      "sha256": "eaa8c90653727dc988dc910c45ac1e4f87d586075c77987cfb4a7e061fdf119f"
+    },
+    {
+      "path": "reports/figure-vol01-corrette-manifest.json",
+      "bytes": 19392,
+      "sha256": "71faaf5d76e193f881ea2939c8f198d3a60cdf717dde31d74a6b8ff03911e48e"
+    },
+    {
+      "path": "reports/M-PA01-freeze.json",
+      "bytes": 32187,
+      "sha256": "09c20564179b4973be64c2bfeddcfbe6197cd9ee1c279bbdb932fce84ae9a38e"
+    },
+    {
+      "path": "reports/PDF-VOL-01.md",
+      "bytes": 8035,
+      "sha256": "d4ec9fea3001f6073ba59e36550eea1ca6b9c1f8c122a6c978a538c7b5a37ff5"
+    },
+    {
+      "path": "reports/VOL-01-final-labels.json",
+      "bytes": 8087,
+      "sha256": "1f9bff36aca2da28ccf2f2495c4ef8a5558aa28b06a7d3b6c8c13de514a63b3f"
+    },
+    {
+      "path": "reports/VOL-01-index-labels.json",
+      "bytes": 2826,
+      "sha256": "f8b4af11d1404a7b5edaca31d534f1e222c8fb6bb78cbf70e71129d62e669008"
+    },
+    {
+      "path": "reports/VOL-01-native-inventory.json",
+      "bytes": 615717,
+      "sha256": "d8101058e359ec287513ac5cd40da5225b3316ce29ea1e878fee96d37ea0793a"
+    },
+    {
+      "path": "reports/VOL-01-native-ledger.json",
+      "bytes": 176174,
+      "sha256": "32a232e20c16ced728493e2151874fcbec05de7927218804d89e83c4a50b47c6"
+    },
+    {
+      "path": "reports/VOL-01-native-release-chain-audit.json",
+      "bytes": 29563,
+      "sha256": "3c10efb48cf62c5dc90477927d16f7ce2956a7ce13ebc9b955c5456cadb4ebab"
+    },
+    {
+      "path": "reports/VOL-01-native-release-visual-ledger.json",
+      "bytes": 25680,
+      "sha256": "c64b1d6025447d98df3d9551a15081b08ed132db8af24686266e1afc3eb66fec"
+    },
+    {
+      "path": "reports/VOL-01-native-verifica.json",
+      "bytes": 49962,
+      "sha256": "35563dc3fa1ee98f826f057597acb9bfc7894818ad67c063ae5f8418207823d1"
+    },
+    {
+      "path": "reports/VOL-01-schemi-nativi.md",
+      "bytes": 57390,
+      "sha256": "d16c9bb5d39bedf922e5c9dc91dfe39b508d4427fb611ee82fc654e51e6366b5"
+    },
+    {
+      "path": "reports/VOL-01.md",
+      "bytes": 25199,
+      "sha256": "a5f01ac8f7d7e6b334003b85fc6e132ff672cc3f1f7b07c0d458e1345016e17a"
+    },
+    {
+      "path": "reports/vol01-esempi-verificati.json",
+      "bytes": 1291,
+      "sha256": "1274d21133ad259bcae4b6aa78173aa6748eede4cc1ca90476fbfc98b059026f"
+    },
+    {
+      "path": "reproduction/export-vol01-final.mjs",
+      "bytes": 5178,
+      "sha256": "4483857046dc79f0a2a73956a0956858641ff8730eea23ae237bb725958a4cba"
+    },
+    {
+      "path": "sources/vol-01-accesso-privacy-correzioni-2026-10-03.md",
+      "bytes": 6391,
+      "sha256": "bf4e68c5317b8d584152b9f2cb30e16489354920f25e403366d5d67786ac2eca"
+    },
+    {
+      "path": "sources/vol-01-candidatura-casi-correzioni-2026-10-03.md",
+      "bytes": 3170,
+      "sha256": "05a5a818902493d28eb3565f6b5941d282c396a869705fc1287315b2b53244e9"
+    },
+    {
+      "path": "sources/vol-01-costituzione-correzioni-2026-10-02.md",
+      "bytes": 8278,
+      "sha256": "a6dff351cecd03cee9816cf833247c556965948d96a30c22783becc6b85d9e06"
+    },
+    {
+      "path": "sources/vol-01-digitale-esempi-correzioni-2026-10-03.md",
+      "bytes": 4089,
+      "sha256": "ec3aa596d748dc1c6160104a8dfa356a4cd5f43e8fb2cc3c143add9ec27148a7"
+    },
+    {
+      "path": "sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "bytes": 6659,
+      "sha256": "0cdac23a47f4aec2259956f0e6757fd69f62cf67570cbe1e45d9dfc46e956977"
+    },
+    {
+      "path": "sources/vol-01-procedimento-correzioni-2026-10-03.md",
+      "bytes": 6113,
+      "sha256": "f8fc340ed0119094bcb6037f7b33be17b23a1fda38203f9af42cacb4fc31e346"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 1442,
+      "sha256": "ec65bf0a56f94bf0638b904ba83dd0a369f893c89bcfcdc24bb0783fcbee7196"
+    },
+    {
+      "path": "visual/contact-001-016.png",
+      "bytes": 524803,
+      "sha256": "156448f22f6af3dc956965cd3af8d5ebde22dc04e5582f581d4ba63908abc0db"
+    },
+    {
+      "path": "visual/contact-017-032.png",
+      "bytes": 544417,
+      "sha256": "72fbec3de9b63937ee68336c44b7655558a1dbc6df37f4252e79dd50edec4b65"
+    },
+    {
+      "path": "visual/contact-033-048.png",
+      "bytes": 531481,
+      "sha256": "8766cad4e0a92f6b8dd3f3fe3915edb61f648d94edd8a0af81669a40265630ca"
+    },
+    {
+      "path": "visual/contact-049-064.png",
+      "bytes": 538010,
+      "sha256": "2ccc27185b913ee70dd194da10e1d4cf9017c73fcf55a06e5a8d1842ce80dafc"
+    },
+    {
+      "path": "visual/contact-065-080.png",
+      "bytes": 635094,
+      "sha256": "462e418fc3409ce34e0f37fcef3a23cce343e1ac1673e07d1c8702b1daf182a3"
+    },
+    {
+      "path": "visual/contact-081-096.png",
+      "bytes": 612895,
+      "sha256": "6a06bbd11664c1433a6d5cd5b7fe1e57f6a2115ffba0718cfae890ce27a0cb67"
+    },
+    {
+      "path": "visual/contact-097-112.png",
+      "bytes": 672217,
+      "sha256": "b4eab196f6447d48ddfec49ede0f11b81f3e6d12b5b258e714029b22efb83832"
+    },
+    {
+      "path": "visual/contact-113-128.png",
+      "bytes": 575704,
+      "sha256": "91b4799886b3fa1119e881a10ad26c08ccffad596468e693a6ee10fb0b93c6e0"
+    },
+    {
+      "path": "visual/contact-129-144.png",
+      "bytes": 606262,
+      "sha256": "a2baa178f8b35897963a34398769f58a5730a4775df4de7e433b1eb93b559624"
+    },
+    {
+      "path": "visual/contact-145-160.png",
+      "bytes": 590314,
+      "sha256": "cdf3040191bc9f8b9683bb46a27a0413ae3c1bf8d79a6d15ca00e641f2991e51"
+    },
+    {
+      "path": "visual/contact-161-176.png",
+      "bytes": 580907,
+      "sha256": "833490eeecb1f4819a70299f5c1df60053f566b4bcb0790d87c85fb199a50432"
+    },
+    {
+      "path": "visual/contact-177-192.png",
+      "bytes": 587807,
+      "sha256": "5e5ad79b1968c907233473de55aff5d4665d765f943dd360f40b073a0396064f"
+    },
+    {
+      "path": "visual/contact-193-208.png",
+      "bytes": 638080,
+      "sha256": "fcb93a5593d937fab5907e57fe00a797403659b50e7de4ad1ac6c73a8024cd8b"
+    },
+    {
+      "path": "visual/contact-209-224.png",
+      "bytes": 575500,
+      "sha256": "7e8c6c6006c86c62d349e33a70e44f9d70e0598513d074ed94aa8d91d5ea997d"
+    },
+    {
+      "path": "visual/contact-225-240.png",
+      "bytes": 532319,
+      "sha256": "f1ef88a26d08d60e030bdf297857516556b3a36288f13a7a304f0e496c6b1f28"
+    },
+    {
+      "path": "visual/contact-241-256.png",
+      "bytes": 566969,
+      "sha256": "b3d2fd619de3d226b4d6773e4a22a6bdab27b4fea999f8fdba33e8224c661e97"
+    },
+    {
+      "path": "visual/contact-257-272.png",
+      "bytes": 562545,
+      "sha256": "8e3371f664e149acd22e1b79b06e6a410bed12377da062338b82cd9d854c7e95"
+    },
+    {
+      "path": "visual/contact-273-288.png",
+      "bytes": 567428,
+      "sha256": "d6b4ec01fed7cd648c29d031700df49aba17743bddad73882572fedd85259ed0"
+    },
+    {
+      "path": "visual/contact-289-304.png",
+      "bytes": 468947,
+      "sha256": "554393cff488cffd25850241ac32e6400b3f8122751cadd13fb4103dcd1142d2"
+    },
+    {
+      "path": "visual/contact-305-320.png",
+      "bytes": 426496,
+      "sha256": "519ba72da9ad585e9b258c3fa3d270aecd86b02ab507fc67e53e1eb1dabaa986"
+    },
+    {
+      "path": "visual/contact-321-336.png",
+      "bytes": 581669,
+      "sha256": "755aa44224b4d8a6c870787bf9122de8f81b1ac3df35f1216a375c14382ef0dc"
+    },
+    {
+      "path": "visual/contact-337-352.png",
+      "bytes": 551314,
+      "sha256": "2f90f6c261472c5db1cecf37092744b8b8339903987c8c3902fd64974f4d2241"
+    },
+    {
+      "path": "visual/contact-353-368.png",
+      "bytes": 462609,
+      "sha256": "30ad9202b834e5bbfdb94986af38cb90f5ce6e8ed230143e79f20eb3d79cc10c"
+    },
+    {
+      "path": "visual/contact-369-384.png",
+      "bytes": 512705,
+      "sha256": "3555183aa290fbbfc3e5bab72b0cb2ee712fbcdc7b82839d82d6805b12b55370"
+    },
+    {
+      "path": "visual/contact-385-400.png",
+      "bytes": 536885,
+      "sha256": "93e24f3866ae1f7a549f275aee6971ce263b22ce05a1a1d168aa1d6fb81b18b7"
+    },
+    {
+      "path": "visual/contact-401-416.png",
+      "bytes": 498716,
+      "sha256": "52e6a002a3d208d7aad1be3cfb5df4c5859ea77a77e26cbf1f92220a2c4a3103"
+    },
+    {
+      "path": "visual/contact-417-432.png",
+      "bytes": 575008,
+      "sha256": "98c1bd13aa963b07efeb5105aed95b87b6361190c5b6f53ec806afca896ea9bc"
+    },
+    {
+      "path": "visual/contact-433-448.png",
+      "bytes": 523681,
+      "sha256": "29200978c0ef2f7a2627e2090eaac284e030a630ce77c97f8d13148ba9abfe13"
+    },
+    {
+      "path": "visual/contact-449-464.png",
+      "bytes": 426192,
+      "sha256": "126242e57b22727dd507f2a96b9f4d50708d86854909d53e22fa50dd380b9f12"
+    },
+    {
+      "path": "visual/contact-465-480.png",
+      "bytes": 444715,
+      "sha256": "b02c971f99a10c4e1f11097fc153c43deabdab5c11dd624f9ee749104eada7fc"
+    },
+    {
+      "path": "visual/contact-481-496.png",
+      "bytes": 461086,
+      "sha256": "f7c34ddf7d49741ea8f66a0ba2e0f4f9def2b963e427dc79fdf9898bf75e2569"
+    },
+    {
+      "path": "visual/contact-497-512.png",
+      "bytes": 460279,
+      "sha256": "060baf82a20a04cf87a0daaf9c83a076de1360e9dc4e4ffc50a7a0623706e6a9"
+    },
+    {
+      "path": "visual/contact-513-528.png",
+      "bytes": 354393,
+      "sha256": "37868de602b97d065dd61a51c283d111b7e0a64414da981cb6e8833e4caac4db"
+    },
+    {
+      "path": "visual/contact-529-544.png",
+      "bytes": 462558,
+      "sha256": "062a86e51610852d487660a66b6cca711270d037be9237942edf9cbb13c9cc34"
+    },
+    {
+      "path": "visual/contact-545-560.png",
+      "bytes": 428881,
+      "sha256": "a630541b6717ed5ad89e382d77b82cfab28ee8d00a47aace375162fc7c356a93"
+    },
+    {
+      "path": "visual/contact-561-576.png",
+      "bytes": 369409,
+      "sha256": "ee8df3f3f848fbe7e550ca9eb352628c4d6f899c6a23b12051cd950827e8887b"
+    },
+    {
+      "path": "visual/contact-577-592.png",
+      "bytes": 439356,
+      "sha256": "4c96addfd1bbbcf8a45c7cacb3c5cb73f7dd89bf6cbdc5a1b134623d4bcea86d"
+    },
+    {
+      "path": "visual/contact-593-608.png",
+      "bytes": 368172,
+      "sha256": "290e07e2b09faaef8b5debf2e904fabc544d152edb4af404061171ad159c5548"
+    },
+    {
+      "path": "visual/contact-609-624.png",
+      "bytes": 354992,
+      "sha256": "01ed687fff7b82964a3ce8705e1aedaab0e962a6508a55a43cb859cad127bb9a"
+    },
+    {
+      "path": "visual/contact-625-640.png",
+      "bytes": 289342,
+      "sha256": "bd59aaccef7aea87f569b9964100a90bf47847b366cd59fd4fbb6b56f5ab9d58"
+    },
+    {
+      "path": "visual/contact-641-656.png",
+      "bytes": 327627,
+      "sha256": "641e76a5cb4b5d53eb1e0b03531a3b78637f3818234ece20b6ec3871b39c720b"
+    },
+    {
+      "path": "visual/contact-657-672.png",
+      "bytes": 407084,
+      "sha256": "b2ec9f57ae9fffa30aaa34ff7e55a9700ad1be21f147947594113908506f0012"
+    },
+    {
+      "path": "visual/contact-673-686.png",
+      "bytes": 324931,
+      "sha256": "b6eb42114c46f5fd01c70b047a4793be3880feb2a5c017d4087301b5e4cd89f5"
+    },
+    {
+      "path": "visual/page-007.png",
+      "bytes": 143979,
+      "sha256": "8906592d3ecf24a083a52368ba874f1031fab9d502419b2fdbc00d6725846b7d"
+    },
+    {
+      "path": "visual/page-016.png",
+      "bytes": 156127,
+      "sha256": "250f50ced6635f2b7f03379b600b8056af81194683d72ea066ca16a83f1b082b"
+    },
+    {
+      "path": "visual/page-017.png",
+      "bytes": 76067,
+      "sha256": "7cc5496f35af16e5bc94caf5805f17e58b5410b26405ae7a771f0e7c8b526d6c"
+    },
+    {
+      "path": "visual/page-051.png",
+      "bytes": 101536,
+      "sha256": "98f4357e55ca7a64048b85315784eeb2c29a756d60b6eb7c81f7c6dea0907ec9"
+    },
+    {
+      "path": "visual/page-052.png",
+      "bytes": 30548,
+      "sha256": "75e9eeb65eaa565f8271a645e8f877b12f1775e604bcb6981c31d1865878cf32"
+    },
+    {
+      "path": "visual/page-066.png",
+      "bytes": 167837,
+      "sha256": "4fd856649b10a497d02ddab1362d9c89a32b879a6f45733b107f135eb077c601"
+    },
+    {
+      "path": "visual/page-488.png",
+      "bytes": 48645,
+      "sha256": "0ad6d03340f042143e62a71a2b6fa1758b9aa40de6353231b3b9f8a539fdd6e2"
+    },
+    {
+      "path": "visual/page-536.png",
+      "bytes": 90078,
+      "sha256": "0e8fad06c183c924d8b4b6127cf97c081643bf680b06feb3abbf1dd6c76f7c81"
+    },
+    {
+      "path": "visual/page-542.png",
+      "bytes": 87392,
+      "sha256": "2e7a439d00c655b04dc883859bd8b355f6d6f03d8afb10042c2ad8abe7cc1ee0"
+    },
+    {
+      "path": "visual/page-546.png",
+      "bytes": 360145,
+      "sha256": "a6e2e606d8fc774fd046193d4f0c6edce17bc19547188109145c424e32ccda46"
+    },
+    {
+      "path": "visual/page-552.png",
+      "bytes": 75186,
+      "sha256": "f58bd75aef38e7fa7c197268555799b5feb0b0d4aa9dd53b3b8bd986d62bf3a8"
+    },
+    {
+      "path": "visual/page-640.png",
+      "bytes": 57455,
+      "sha256": "e0a517291c5c6094008428c0e9e74c6167968988c10bc07a0d21e98ddd1a943a"
+    },
+    {
+      "path": "visual/page-670.png",
+      "bytes": 66788,
+      "sha256": "52fce91547919ee2235c565a9c1e5d9e29d889433a1303f6002423e00e33aad8"
+    },
+    {
+      "path": "visual/page-673.png",
+      "bytes": 91891,
+      "sha256": "d2e3f745bdb910b92c3684c6fa175d98056b242e6e846defa9d99594ab9af4a8"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 9351,
+      "sha256": "ed83294fa8011fb469e199dc64ebe4965016737008c94c8cbab2856c05d09914"
+    },
+    {
+      "path": "vol-01-interior-kdp.pdf",
+      "bytes": 22580831,
+      "sha256": "46accfc1fe82a3779263805532d34f2461415a55d92e1d988f7249b2294662aa"
+    }
+  ],
+  "pdf": "vol-01-interior-kdp.pdf",
+  "pages": 686,
+  "previousInteriorSha256": "0ad5da004f152d53d4eef5998b89b838a68fb276ade3ea9e9cc49517cfbc3670",
+  "covers": [
+    {
+      "key": "01",
+      "volume": "VOL-01",
+      "title": "Il Metodo BANDO",
+      "cover": "delivery/copertine-2026-10-03/vol-01-cover.pdf",
+      "coverSha256": "eb2a6722f8a201f7a879d2c2dcbdf4910d140b26f4c40d2dabb7fc0d4ceacb3d",
+      "interior": "delivery\\VOL-01\\candidate-2026-10-03\\vol-01-interior-kdp.pdf",
+      "interiorSha256": "46accfc1fe82a3779263805532d34f2461415a55d92e1d988f7249b2294662aa",
+      "pdfPages": 686,
+      "kdpPages": 686,
+      "spineInches": 1.544872,
+      "widthInches": 15.174872,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 49.084429019531285,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/01.png",
+      "path": "covers/vol-01-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

@@ -1,71 +1,33 @@
 ---
 id: m-fl04-text-freeze-manifest
 type: text_freeze_manifest
-title: "Text freeze — M-FL04 Polizia locale"
+title: "Text freeze — M-FL04"
 status: frozen
-domain: "concorsi pubblici italiani"
-book_id: m-fl04-polizia-locale
 module_code: M-FL04
-freeze_date: 2026-08-08
-reference_commit: 0ddef2c6d295cd77431cf76d2d63e6a5d1f25712
-updated_at: 2026-08-08T22:20:00+02:00
-created_at: 2026-08-08T22:20:00+02:00
+freeze_date: 2026-10-03
+updated_at: 2026-10-03
 review_required: false
 canonical: true
-tags: ["text-freeze", "m-fl04", "pipeline-step-16"]
 ---
 
-# Text freeze — M-FL04 Polizia locale
+# Text freeze — M-FL04
 
-## Esito
+Quindici capitoli presenti; nuclei della matrice e indice coerenti. Rilievi V02-39–51 e parti PL di 17/20/38/53/54 corretti; il V02-20 mantiene il distinto intervento sulla simulazione del volume. Controllati 61 wikilink e 90 quiz, con verifiche editoriali documentate nel report 15. Humanizer e audit specialistico dei passaggi modificati completati. Gate 14 e 15 passati senza blocker o warning. Cut-off 3 ottobre 2026; fonti, ambiti e limiti nel manifest M-FL04-source-review.json. Questa verifica manuale del freeze non simula il gate automatico non implementato. Il PDF successivo resta da produrre e verificare.
 
-Il modulo entra in congelamento testuale l'8 agosto 2026. Sono presenti quindici capitoli e 75 nuclei completi; gli step 11, 13, 14 e 15 sono chiusi; indice, Bibbia e matrice sono coerenti. Da questo manifest sono ammesse soltanto correzioni controllate. Ogni modifica sostanziale riapre i gate 10-15.
-
-## Riferimento di versione
-
-- Commit di base: `0ddef2c6d295cd77431cf76d2d63e6a5d1f25712`.
-- Stato da congelare: modifiche correnti degli step 13-16, identificate dagli hash seguenti.
-- Algoritmo: SHA-256 sul contenuto dei file.
-- Cut-off dell'audit specialistico: 8 agosto 2026.
-
-## Verifica delle condizioni
-
-| Condizione | Evidenza | Esito |
-| --- | --- | --- |
-| Capitoli presenti | Quindici target e quindici file | superata |
-| Copertura integrale | 75 nuclei completi; nessuno stato bloccante | superata |
-| Rinvii | Nessuna dipendenza interna nel corpo; riferimenti leggibili e frontmatter tracciabile | superata |
-| Humanizer | Tutti i quindici step 11 chiusi | superata |
-| Errori obbligatori | Step 13-14 chiusi; E13-01/E13-02 risolti | superata |
-| Audit specialistico | Step 15 verde, zero warning e zero esiti aperti | superata |
-| Indice | Quindici voci e quindici capitoli | superata |
-| Fonti e cut-off | Normattiva e ARAN; cut-off dichiarato | superata |
-| Dati operativi | Nessun box rilevato | superata |
-
-## File congelati
-
-| File | Stato | SHA-256 |
-| --- | --- | --- |
-| `index.md` | frozen | `bff4cc5d1a4d9fc8b2b566170f53cacd4fa805d630ce51e01b3967a945b94390` |
-| `planning/00-piano-editoriale.md` | frozen | `a571292618142f453bcf374a41cc3e7a7e7381d0f763aa54dd25aab8a0e9cccb` |
-| `planning/02-matrice-copertura-didattica.md` | frozen | `d5bc73880ac681bc2241fc2d573cbd7108132e99b4c3cb4a5bff32a74652c2ad` |
-| `planning/09-bibbia-del-modulo.md` | frozen | `916710441fc08edef0e3b212ffe272d855d97c278085e76a0bcdec6daf9b43d9` |
-| `chapters/01-diventare-agente-ufficiale-polizia-locale.md` | frozen | `a554a044c7ad42a5e3f2a16d495890c16bfc515cd218424fe70662051940d2a5` |
-| `chapters/02-ordinamento-nazionale-regionale-polizia-locale.md` | frozen | `54f4fde6e21c3e937de623dece8ecb046fbc8eaad2a4581e17e22cbab9f93ed8` |
-| `chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md` | frozen | `8f880b8090068e490138ca5d862ae9fa1d1245f1c92ba1d806726a721d58dcf5` |
-| `chapters/04-servizi-polizia-stradale.md` | frozen | `1918d618a46903d7d02cd4bd2905ed1e4e8adfe5c9a782e62731c4b96a0086f0` |
-| `chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md` | frozen | `ad4c0bb00299a7fff0ce8cddd2c34f4adf1e3e562f831b3e1667190702da4d48` |
-| `chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md` | frozen | `e4da6ce66189a7a0a26a86cbb5a34f97970d9f7b504e05c2ee9f7b33bb1061b4` |
-| `chapters/07-polizia-giudiziaria-atti-essenziali.md` | frozen | `e5d72096a87bee0bdc5227e3f278bec53e38ad9c68ab262a9ec5afb8c9ef0db3` |
-| `chapters/08-tulps-pubblica-sicurezza-immigrazione.md` | frozen | `261621d77941c98a38ad588e40ce45b9f58d0f48ddda1c95c1b7a6e4ae4f0a6e` |
-| `chapters/09-sicurezza-urbana-ordinanze-coordinamento.md` | frozen | `e8a5b4a94b8f6ecb2fee148c5aaf2265fceef6ca137cf2047f52defbd901164e` |
-| `chapters/10-commercio-pubblici-esercizi-suap.md` | frozen | `0539979eefd2d5b82e21ad27485e884f4afc09b4579257f0ed8dd155818dcf4a` |
-| `chapters/11-vigilanza-edilizia-procedimenti-repressivi.md` | frozen | `af47dc9c08da4ecfb0a266f54e589f535790a06f6c7f41465f8a9522a01dabba` |
-| `chapters/12-ambiente-rifiuti-rumore-tutela-locale.md` | frozen | `43db1d2549e438d4fb03792f55af256a595d37a4037822399a706258610d93c7` |
-| `chapters/13-sinistri-rilievi-gestione-prova.md` | frozen | `f578887a415a48760d79a5db2bcdd247283d7b6d58f8400fd555d08a82435ffb` |
-| `chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md` | frozen | `7560c79934c909db65ee694cc858977a2c5b0c6b9ed87c49955dd44ce59fbb97` |
-| `chapters/15-laboratorio-atti-verbali-polizia-locale.md` | frozen | `9beee0036d8932915acdb345abf1dc3482bc0006155bdf0b7dcb1f046eeb0878` |
-
-## Regola successiva al freeze
-
-Ogni modifica sostanziale successiva deve essere tracciata e sottoposta nuovamente a copertura, Humanizer, revisione trasversale e audit specialistico prima di un nuovo freeze.
+| File | Stato | Data | SHA-256 |
+|---|---|---|---|
+| 01-diventare-agente-ufficiale-polizia-locale.md | text-freeze | 2026-10-03 | `4c134c611033a987b7664575b0ac6ae0baeb3a7610797b650bb7f07b6b7f5743` |
+| 02-ordinamento-nazionale-regionale-polizia-locale.md | text-freeze | 2026-10-03 | `580fe6591113b4e7fca9841ff978372533d947fc0b297c864ff008ce759058b8` |
+| 03-qualifiche-poteri-dipendenze-organizzazione-servizio.md | text-freeze | 2026-10-03 | `487c1ebcd4198cf48da200140a6d09cdf9931452d128204cce8255cf43a36e1c` |
+| 04-servizi-polizia-stradale.md | text-freeze | 2026-10-03 | `1b1c74c6201d012bb8fad4760f8a340f93e25a6f9d0662c024b231688806543b` |
+| 05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md | text-freeze | 2026-10-03 | `4826c1dbc69a9b0cfca56695cdd4a07cb0f50ba4a126384804aa57f67f461efe` |
+| 06-procedimento-sanzionatorio-amministrativo-applicato.md | text-freeze | 2026-10-03 | `ea92667e22988021878bcdf3778ebdc3fb7185c466c3c994f71b44a85871d896` |
+| 07-polizia-giudiziaria-atti-essenziali.md | text-freeze | 2026-10-03 | `1fdccb401958726cb8370dd889c744bbf638cbf0b65ee5fdfe1d8a85dc073bb8` |
+| 08-tulps-pubblica-sicurezza-immigrazione.md | text-freeze | 2026-10-03 | `0c6fca021f9c95b1b2ebea800f574b36befad03a4690d1576b01d4b28e8e1140` |
+| 09-sicurezza-urbana-ordinanze-coordinamento.md | text-freeze | 2026-10-03 | `728b1aa58f111c2c3f5c70eecf6288bae84b00a64eb6765f73b93dd64a293c18` |
+| 10-commercio-pubblici-esercizi-suap.md | text-freeze | 2026-10-03 | `92f8eca05ad020f64b5624aac7177375f3edb57519781b58b0390544d414da44` |
+| 11-vigilanza-edilizia-procedimenti-repressivi.md | text-freeze | 2026-10-03 | `4c87e7506ace5989926522823028d0477da406dae671310c9e692c45c023b79b` |
+| 12-ambiente-rifiuti-rumore-tutela-locale.md | text-freeze | 2026-10-03 | `e59e5c247cd876521c0e35cabe01a6cfebb22445a5158d460dfc56855988d5d1` |
+| 13-sinistri-rilievi-gestione-prova.md | text-freeze | 2026-10-03 | `becb09c309710257d53b37d638fe5e82181908b1c7a5708d12e8a0e0f1c05ce9` |
+| 14-ufficiale-pl-comando-contenzioso-emergenze.md | text-freeze | 2026-10-03 | `dacbca3cf7e699b8d500d5d836bc8f932d1234c4182ed0c0c69112cd26b4334e` |
+| 15-laboratorio-atti-verbali-polizia-locale.md | text-freeze | 2026-10-03 | `14f3de3cf3d8d62852816f02beb67574ad00bf3da3232bf5e707f930511d70db` |

@@ -114,3 +114,7 @@ Per la scrittura pubblicabile occorre aprire ogni avviso su inPA, INPS, INAIL o 
 - Verificare se i profili ispettivi INPS-INAIL richiedono un sottocapitolo o una appendice autonoma piu ampia.
 - Evitare promesse di copertura totale dei bandi EPNE: il modulo offre metodo, mappa e allenamento, ma il bando ufficiale resta fonte vincolante.
 
+
+## Rettifica puntuale del 3 ottobre 2026
+
+Per natura degli enti, comparti, organi, contabilità, prestazioni e vigilanza prevalgono i riscontri specifici di [[sources/epne-previdenza-assicurazione-rettifiche-2026-10-03]] e il topic [[topics/epne-previdenza-assicurazione-rettifiche-2026]]. Le precedenti pagine indice documentavano i canali, non tutte le nozioni sostanziali. CRI è associazione privata dal 2016; ISTAT, ENEA e ASI mantengono Istruzione e Ricerca anche nei profili amministrativi. Per vigilanza leggere il d.lgs. 149/2015 con le modifiche del 2024 e la diffida accertativa riformata nel 2020. La raccolta storica è conservata per tracciabilità, senza attribuirle conferme non svolte.

@@ -1,0 +1,55 @@
+{
+  "math": "passed",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "nuclei": 5,
+      "quiz": 9,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    }
+  ],
+  "legalCheckScope": "Selective article and procedure checks documented in source; not certification of all law."
+}

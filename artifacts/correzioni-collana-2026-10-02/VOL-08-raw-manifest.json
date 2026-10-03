@@ -1,0 +1,37 @@
+[
+  {
+    "path": "wiki/raw/correzioni-vol08-2026-10-03/acn-127434-2026.pdf",
+    "sha256": "84709af41c8e017885d007fffc57d333b77f02d6416552028839ad6b364bd20a",
+    "bytes": 343856,
+    "validPdf": true,
+    "limitation": ""
+  },
+  {
+    "path": "wiki/raw/correzioni-vol08-2026-10-03/acn-379907-2025.pdf",
+    "sha256": "dfb9d02bb11de75bc14f913d768eeece1e4f5ca7ef9d72ff939bf445c3979127",
+    "bytes": 284034,
+    "validPdf": true,
+    "limitation": ""
+  },
+  {
+    "path": "wiki/raw/correzioni-vol08-2026-10-03/anac-dec.pdf",
+    "sha256": "8bc4aef42ffc8d5a6294500c5a4d61a5a449adb75e7ede48e4c42ea4fd76e019",
+    "bytes": 320,
+    "validPdf": false,
+    "limitation": "ANAC download returned error body, not normative PDF"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol08-2026-10-03/gu-dlgs-138-2024.pdf",
+    "sha256": "056dfbb1ddd34c163585250ae5631270ed8d27ce16ac5b30576cff4e88169e36",
+    "bytes": 3359696,
+    "validPdf": true,
+    "limitation": ""
+  },
+  {
+    "path": "wiki/raw/correzioni-vol08-2026-10-03/ue-1744-2026.pdf",
+    "sha256": "0bea4d808256b08275777949ba9cb3c70b7d02e4ebb3ac9b205671b1f552d386",
+    "bytes": 1121625,
+    "validPdf": true,
+    "limitation": ""
+  }
+]

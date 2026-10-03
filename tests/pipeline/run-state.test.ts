@@ -162,6 +162,26 @@ describe("mergeRunStates", () => {
 })
 
 describe("reopenSteps", () => {
+  it("invalidates a completed human signoff when its approved delivery is reopened", () => {
+    const initial = createRunState({
+      volumeCode: "VOL-01", specPath: "fixture", specHash: "fixture", now,
+      steps: ["23", "24"].map(id => ({ ...draft(id, "VOL-01"), scope: "volume" as const, phase: "F" }))
+    })
+    const approved: RunState = { ...initial, steps: initial.steps.map(step => ({
+      ...step, status: "done", attempts: 1, owner: "editor", finishedAt: now,
+      gate: { passed: true, blockers: [], warnings: [] }, evidence: ["previous-approval.json"]
+    })) }
+    const result = reopenSteps(approved, { startKeys: ["23:VOL-01"], cascade: true, note: "Nuova edizione corretta", now: later })
+    expect(result.reopenedKeys).toEqual(["23:VOL-01", "24:VOL-01"])
+    const signoff = result.state.steps.find(step => step.id === "24")!
+    expect(signoff.status).toBe("pending")
+    expect(signoff.gate).toBeUndefined()
+    expect(signoff.finishedAt).toBeUndefined()
+    expect(signoff.owner).toBeUndefined()
+    expect(signoff.evidence).toEqual(["previous-approval.json", "reopen: Nuova edizione corretta"])
+    expect(approved.steps[1].status).toBe("done")
+  })
+
   const retrofitDoneState = (): RunState => {
     const steps = [
       ...["08", "09", "10", "11", "12"].map((id) => ({ ...draft(id, "moduli/m-tr01/chapters/01.md"), target: "moduli/m-tr01/chapters/01.md" })),
@@ -208,7 +228,7 @@ describe("reopenSteps", () => {
       now: later
     })
 
-    expect(result.reopenedKeys).toEqual(doneState.steps.slice(0, -1).map((step) => step.key))
+    expect(result.reopenedKeys).toEqual(doneState.steps.map((step) => step.key))
     expect(result.state.steps.at(-1)?.id).toBe("24")
     expect(result.state.steps.at(-1)?.status).toBe("pending")
     expect(result.state.steps[0]).toMatchObject({ status: "pending", attempts: 0 })
@@ -258,11 +278,14 @@ describe("reopenSteps", () => {
     expect(result.reopenedKeys).toEqual([
       ...["08", "09", "10", "11", "12"].map((id) => stepKey(id, selectedChapter)),
       ...["13", "14", "15", "16", "18"].map((id) => stepKey(id, moduleTarget)),
-      ...["17", "19", "20", "21", "22", "23"].map((id) => stepKey(id, volumeTarget))
+      ...["17", "19", "20", "21", "22", "23", "24"].map((id) => stepKey(id, volumeTarget))
     ])
     expect(result.state.steps.filter((step) => ["00", "01", "02", "03", "04", "05", "06", "07"].includes(step.id)).every((step) => step.status === "done")).toBe(true)
     expect(result.state.steps.filter((step) => step.target === otherChapter).every((step) => step.status === "done")).toBe(true)
-    expect(result.state.steps.find((step) => step.id === "24")).toEqual(signoffBefore)
+    expect(result.state.steps.find((step) => step.id === "24")).toMatchObject({
+      status: "pending", evidence: [...signoffBefore!.evidence, "reopen: Retrofit formato 2 autorizzato"]
+    })
+    expect(result.state.steps.find((step) => step.id === "24")?.owner).toBeUndefined()
   })
 
   it("rejects an unknown starting key without mutating the input", () => {

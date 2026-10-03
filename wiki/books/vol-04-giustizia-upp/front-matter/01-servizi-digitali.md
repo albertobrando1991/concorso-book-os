@@ -12,7 +12,7 @@ review_required: false
 
 # Risorse digitali e aggiornamenti
 
-Il volume è autonomo e contiene tutto il percorso editoriale dichiarato nell'indice. Le informazioni soggette a cambiamento devono essere ricontrollate sulle fonti ufficiali indicate nel testo.
+Il volume contiene spiegazioni, esercizi e soluzioni del percorso specialistico dichiarato nell'indice. Presuppone le basi comuni richiamate nella premessa; appendici e simulazioni si svolgono senza servizi digitali aggiuntivi. Le informazioni soggette a cambiamento devono essere ricontrollate sulle fonti ufficiali indicate nel testo.
 
 ## Come verificare gli aggiornamenti
 

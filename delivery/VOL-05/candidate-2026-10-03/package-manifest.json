@@ -1,0 +1,741 @@
+{
+  "volume": "VOL-05",
+  "date": "2026-10-03",
+  "pdfSha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5",
+  "files": [
+    {
+      "path": "balance-comparison.json",
+      "bytes": 2551,
+      "sha256": "f45912a4db5027d78a42cc03fc6d97188d2260d4ab3e92424fb9dba1da32a7b9"
+    },
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-05-cover.pdf",
+      "bytes": 149849,
+      "sha256": "062e98d7259ca14e87ec35a372b0715788dfb3f9145702a58340da455d4f826b"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "bytes": 30092,
+      "sha256": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "bytes": 34427,
+      "sha256": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "bytes": 32530,
+      "sha256": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "bytes": 30590,
+      "sha256": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "bytes": 33410,
+      "sha256": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "bytes": 34659,
+      "sha256": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "bytes": 39014,
+      "sha256": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "bytes": 40341,
+      "sha256": "46f43f3b336f8c59413b2ec9513d5c8ca1e79b18f9d7e306e7132e64873ff265"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "bytes": 36891,
+      "sha256": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "bytes": 35549,
+      "sha256": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "bytes": 33199,
+      "sha256": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "bytes": 40933,
+      "sha256": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "bytes": 32566,
+      "sha256": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "bytes": 37131,
+      "sha256": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "bytes": 46291,
+      "sha256": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/index.md",
+      "bytes": 4582,
+      "sha256": "52a7aace45f161cf679c80fc7443cd6cbe64bf0730ec1ddf9737a7fc60b994cf"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/planning/00-piano-editoriale.md",
+      "bytes": 5776,
+      "sha256": "42b8329f096d424a6bb49244a0b391e592b967432ce6835c45146779bec5b1bb"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/planning/02-matrice-copertura-didattica.md",
+      "bytes": 31024,
+      "sha256": "21c57c0fdb6bc3e2d2312cbddf1d9a985015fbc374f2131bfbdc16cf4547fe68"
+    },
+    {
+      "path": "masters/books/moduli/m-fc05-authority-indipendenti/planning/03-bibbia-del-modulo.md",
+      "bytes": 3046,
+      "sha256": "92d80209bec09a99ede4a1e7cb9e30b638e00b905ef21436fddfc9503b37ce52"
+    },
+    {
+      "path": "masters/books/vol-05-authority-regolazione/index.md",
+      "bytes": 10150,
+      "sha256": "bbe2e09646c4628e4af5492e906f93c49785715a6d9f9205e5047fd560f01b9a"
+    },
+    {
+      "path": "masters/sources/vol-05-agcm-verifica-2026-10-03.md",
+      "bytes": 5454,
+      "sha256": "c97db12bb221594ba9bf38ae238bcbd57f380ba873a5accb32f951b601dc11ba"
+    },
+    {
+      "path": "masters/sources/vol-05-agcom-verifica-2026-10-03.md",
+      "bytes": 5021,
+      "sha256": "d93d0bddd4bd5645b35bf9132fd9319a79750dd5b1156199bf5cf3d0949acce8"
+    },
+    {
+      "path": "masters/sources/vol-05-aggiornamento-specialistico-2026-08-22.md",
+      "bytes": 8833,
+      "sha256": "dd4c71505cf7ff83825db81c45bd8a61a9b5352540caf8e3578fc255f547bd53"
+    },
+    {
+      "path": "masters/sources/vol-05-air-verifica-2026-10-03.md",
+      "bytes": 2572,
+      "sha256": "7d20a0f0c1a859d0cb6b8b1dab893b86e37e5fb50206fcd822465262fa296b3a"
+    },
+    {
+      "path": "masters/sources/vol-05-anac-whistleblowing-verifica-2026-10-03.md",
+      "bytes": 4216,
+      "sha256": "c65d0ba99cd69b9428d4c09b686c090fa757e60cba3e6d37592e0802e275624d"
+    },
+    {
+      "path": "masters/sources/vol-05-arera-verifica-2026-10-03.md",
+      "bytes": 3956,
+      "sha256": "be9e95c3210520ff340ea6eaa70bd5ce9d90bbab73d60704cb90f3d67df7d82c"
+    },
+    {
+      "path": "masters/sources/vol-05-banca-ivass-verifica-2026-10-03.md",
+      "bytes": 6670,
+      "sha256": "92ed4f3d4e092003e858940372ae6fcae1b073c923e00ec2543a90091071b3d9"
+    },
+    {
+      "path": "masters/sources/vol-05-bandi-authority-2022-2025.md",
+      "bytes": 4175,
+      "sha256": "3f985f24bf82c8beb2473644bed2855e3c55086721c769398ef330222d5e5c75"
+    },
+    {
+      "path": "masters/sources/vol-05-consob-verifica-2026-10-03.md",
+      "bytes": 6576,
+      "sha256": "47fdb2fb5cff8966d05117ed58bb79d72401ea31dd9a9943a8880b731f1232ac"
+    },
+    {
+      "path": "masters/sources/vol-05-economia-esempi-verifica-2026-10-03.md",
+      "bytes": 3257,
+      "sha256": "47ca1f4ea46a7071191cd56a52a3f3123156adde29e88ea709d1770dda89443d"
+    },
+    {
+      "path": "masters/sources/vol-05-garante-procedimenti-verifica-2026-10-03.md",
+      "bytes": 3975,
+      "sha256": "49eeb5f86128e470a0946c03272e671dc81aad4291602984c5e69930f236a8ef"
+    },
+    {
+      "path": "masters/sources/vol-05-governance-verifica-2026-10-03.md",
+      "bytes": 8917,
+      "sha256": "720be26e9fe20d63794819f33ac429b1fd164ebcab37e70cafe6dcb789bc439d"
+    },
+    {
+      "path": "masters/sources/vol-05-istruttoria-verifica-2026-10-03.md",
+      "bytes": 3571,
+      "sha256": "2dac438b8e631e67f5164806e05c7b4c68a6971714a25be9c1fc1e25b9795bc7"
+    },
+    {
+      "path": "masters/sources/vol-05-reti-ue-verifica-2026-10-03.md",
+      "bytes": 4540,
+      "sha256": "cf773fc9d1f10dc789fdfef2015f2a53d0fe0d3cc802edbf6158221168153e68"
+    },
+    {
+      "path": "masters/sources/vol-05-sanzioni-giurisdizione-verifica-2026-10-03.md",
+      "bytes": 5821,
+      "sha256": "7317053b64320b51d78b9756b674241272510512fe9ca6161230137fd859f124"
+    },
+    {
+      "path": "masters/topics/authority-rettifiche-2026.md",
+      "bytes": 7164,
+      "sha256": "cae38b556d146367895f6907c57d4e959d70df9af0354e85a6f34f1496db76ab"
+    },
+    {
+      "path": "page-review.json",
+      "bytes": 55774,
+      "sha256": "f52dd42d289af2ce72505bc541850e8bf98854bdb3bb406a50f4bc0bcab8e0b0"
+    },
+    {
+      "path": "payload.json",
+      "bytes": 704548,
+      "sha256": "48c683103d93620921739027a298eaf65363b25d32da264b8b94abe0ddc1885e"
+    },
+    {
+      "path": "projection-manifest.json",
+      "bytes": 11294,
+      "sha256": "453d26dd933de0801cd8c44fcde79fae1841e2e854fceca68135e4d078358db2"
+    },
+    {
+      "path": "projection-preservation.json",
+      "bytes": 3524,
+      "sha256": "bbfbe253090aa6fc0f7fe568345fd21fdfb0e775e5d35965561613ca4bd3e290"
+    },
+    {
+      "path": "proof-metrics.json",
+      "bytes": 576788,
+      "sha256": "8c778fe79bce0709a3240a78e0b833987c55a1f483574c2a0c22aaf53f53d909"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2421,
+      "sha256": "10368c6e6e3fab4570149fff4dfa5d3e04cbf0d76fe338946c674b18a58cf659"
+    },
+    {
+      "path": "renderer-source-hashes.json",
+      "bytes": 1446,
+      "sha256": "6bbffdca2018cd6378313472878343595260229da44becbcc2b1dd41698c8613"
+    },
+    {
+      "path": "reports/14-moduli-m-fc05-authority-indipendenti.md",
+      "bytes": 17931,
+      "sha256": "142af929f5e0240b42cf4fae584f6d1f0f2170225962999885c5205101eeeea0"
+    },
+    {
+      "path": "reports/15-moduli-m-fc05-authority-indipendenti.md",
+      "bytes": 17931,
+      "sha256": "142af929f5e0240b42cf4fae584f6d1f0f2170225962999885c5205101eeeea0"
+    },
+    {
+      "path": "reports/16-moduli-m-fc05-authority-indipendenti.md",
+      "bytes": 7256,
+      "sha256": "ad60f4404247b4c8152f710febfb8b555b604fd9a9778fe27c642832f1c0a028"
+    },
+    {
+      "path": "reports/18-moduli-m-fc05-authority-indipendenti.md",
+      "bytes": 22520,
+      "sha256": "2594933afd7fa2c3d9ddcc368cd8da5361564622734e981f5bd3829bceed513a"
+    },
+    {
+      "path": "reports/19-vol-05-impaginazione-kdp.md",
+      "bytes": 1218,
+      "sha256": "0b8965f8a88911c782aaa43e1467c81579c1bb97c057fd5f0d4e2396e52f8b21"
+    },
+    {
+      "path": "reports/19-vol-05.md",
+      "bytes": 1422,
+      "sha256": "56c1e2edee485e09158e6423e6207b2334edb384309723cc08eda28aeb510989"
+    },
+    {
+      "path": "reports/20-vol-05.md",
+      "bytes": 31723,
+      "sha256": "1bbf029046263834c644b3a1e1c40312ada3979bc5a5604f00632ec415e8ffbd"
+    },
+    {
+      "path": "reports/21-vol-05.md",
+      "bytes": 9030,
+      "sha256": "0b5fb1f2fbc23a8428632499ecc832bb32669d24259c74f51431614a99e5caa5"
+    },
+    {
+      "path": "reports/M-FC05-freeze-before-graphics.json",
+      "bytes": 9256,
+      "sha256": "b2a1dfd2ae92c60512a6113f465621ab4114110b602cdaf5ee29b663145ec501"
+    },
+    {
+      "path": "reports/M-FC05-freeze.json",
+      "bytes": 11812,
+      "sha256": "f59ffc0879f3f76adf2bea88be09146dc59d636c9171ef27d07c1902dbb5ae27"
+    },
+    {
+      "path": "reports/PDF-VOL-05.md",
+      "bytes": 8955,
+      "sha256": "f719a51b957c8da4e84e114d3f81904e9f02179b12fdb30d0931fff8a3f4811f"
+    },
+    {
+      "path": "reports/VOL-05-economia-calculations.json",
+      "bytes": 508,
+      "sha256": "9bf0dee550bcc1fe00902a3fa1650913d5a77eb80835d316afddfe49019c8073"
+    },
+    {
+      "path": "reports/VOL-05-external-reading-scope.json",
+      "bytes": 1656,
+      "sha256": "c9ebac246efaea5b0eb8a6efd7cb29b353f480c5b2514d706d2a58a76b32a4e4"
+    },
+    {
+      "path": "reports/VOL-05-FC05-gates.json",
+      "bytes": 4379,
+      "sha256": "988411ee21e9c17b37bd149811532ecacdfbfb8b38fea325abe6f9eab7347342"
+    },
+    {
+      "path": "reports/VOL-05-FC05-links.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "reports/VOL-05-ledger.json",
+      "bytes": 46534,
+      "sha256": "e2b3bde9fe1c7aacad51d1bac054a346584d12566778867ea7abcffa828625cd"
+    },
+    {
+      "path": "reports/VOL-05-native-checkpoint.json",
+      "bytes": 6566,
+      "sha256": "c013c61e4ecde2219c5d559ad8a1faa3a9d94dc9d6068a52741307f176e5cead"
+    },
+    {
+      "path": "reports/VOL-05-native-schemes.json",
+      "bytes": 81964,
+      "sha256": "f61f346ee38bbe4471733e3fb42a21a7495486a390ee3e746738d543d272a2e7"
+    },
+    {
+      "path": "reports/VOL-05-simulations-verification.json",
+      "bytes": 724,
+      "sha256": "0a17f0773f4a2442ce26f427bd339c8f5098d75d7b9b6b59c04c292d37d1a2f3"
+    },
+    {
+      "path": "reports/VOL-05.md",
+      "bytes": 18205,
+      "sha256": "ce4094c6c0afb77292d5b455b4a7f213e678c8fd83fc8b90ac9de6106f34b7d8"
+    },
+    {
+      "path": "reproduction/build-vol05-proof.py",
+      "bytes": 3407,
+      "sha256": "cd13f1255c03587e08b1844ecfc597930a5e45eb5dc1113117fc70cf795148c9"
+    },
+    {
+      "path": "reproduction/export-vol05-proof.mjs",
+      "bytes": 4502,
+      "sha256": "2b600a047b17065c8708a324992c40f46fb4a5d34d45bed0e87a6c71a03771af"
+    },
+    {
+      "path": "reproduction/verify-vol05-proof.py",
+      "bytes": 5415,
+      "sha256": "a6c755663072e573d4e06034df5d730436bb7dbdedff5086f6a540443fd7efd3"
+    },
+    {
+      "path": "source-payload.json",
+      "bytes": 687331,
+      "sha256": "79cfa19ba37b7858da213cb528f2b422e2cce355d26c82252f2095624bc8de74"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 172642,
+      "sha256": "ce62e5872f675429fc6f7f18ef56abe2a0640367350e4bb82837875b4e6f8082"
+    },
+    {
+      "path": "visual/contact-01.jpg",
+      "bytes": 421486,
+      "sha256": "bff1c0fc65a5640dc01ccf53593973c715ee0d99071e76ea1b55249b7998b31f"
+    },
+    {
+      "path": "visual/contact-02.jpg",
+      "bytes": 602848,
+      "sha256": "c7cc418f547277ebce335831abc932589acc1b70783d166a0cfdbd4a80580add"
+    },
+    {
+      "path": "visual/contact-03.jpg",
+      "bytes": 608521,
+      "sha256": "bcc1834981c013a884d148412dba8c26f69130e8f3a3dfe916fe15a28463b516"
+    },
+    {
+      "path": "visual/contact-04.jpg",
+      "bytes": 601504,
+      "sha256": "b90fc94990713d2061c4713fe24eff43445407e3be9f77a7004780de9829c9e7"
+    },
+    {
+      "path": "visual/contact-05.jpg",
+      "bytes": 615110,
+      "sha256": "ac6846b092bfe7afb376377d81e16b0698cb43f7bd87c7f11bc1293ee0d1ccb1"
+    },
+    {
+      "path": "visual/contact-06.jpg",
+      "bytes": 603778,
+      "sha256": "5b2cca38866cdaa405a290e8b5378706ef24b7e73c963656a5297215fc0a86a1"
+    },
+    {
+      "path": "visual/contact-07.jpg",
+      "bytes": 629971,
+      "sha256": "767d109551984d8193a51cde4b10ee20b338e5e54fdace189db5cd627882d8bb"
+    },
+    {
+      "path": "visual/contact-08.jpg",
+      "bytes": 651731,
+      "sha256": "245a5a84e084552e617805299413be0480660f9cfbf8c05402bdb2b372ca5a5c"
+    },
+    {
+      "path": "visual/contact-09.jpg",
+      "bytes": 624162,
+      "sha256": "e33181a9c0dedb867eafbefb150d709df1aa250660149b0f2a9ba4c881c4a4ea"
+    },
+    {
+      "path": "visual/contact-10.jpg",
+      "bytes": 629812,
+      "sha256": "5a516a9f6ae82086aad325a8c90786de3e52c5d4a8006eebdb76f2cb25aac817"
+    },
+    {
+      "path": "visual/contact-11.jpg",
+      "bytes": 619405,
+      "sha256": "9e793b4d42cf941d1b5dbab256823591dd9a863823bfd938ec4891ed2ceed10b"
+    },
+    {
+      "path": "visual/contact-12.jpg",
+      "bytes": 637461,
+      "sha256": "ffdd9f62d1fc49426c6308fb78e832b0b2358372678263ae40b545a9b23df431"
+    },
+    {
+      "path": "visual/contact-13.jpg",
+      "bytes": 626953,
+      "sha256": "016ee4581461fec1450bb5ef7e0bcdc6ea09d6ab81912573358919a03b11fed6"
+    },
+    {
+      "path": "visual/contact-14.jpg",
+      "bytes": 598772,
+      "sha256": "bd80465ffe07d099afe2f327047cf9f46e7721e3c62a5a6e36e529d300fcbcef"
+    },
+    {
+      "path": "visual/contact-15.jpg",
+      "bytes": 617804,
+      "sha256": "db7bcf586377fa4e741eb6608ccfd2b70f171f8883dd5b3ac39b620492f15ded"
+    },
+    {
+      "path": "visual/page-001.png",
+      "bytes": 69054,
+      "sha256": "dac0a12c292b9964084718f88d92b8708d2309fd070c531e662d733370274800"
+    },
+    {
+      "path": "visual/page-003.png",
+      "bytes": 53327,
+      "sha256": "352cf33a75a6c5ee108aea1c6c67baad3d065613919b945111333532b64baa6e"
+    },
+    {
+      "path": "visual/page-006.png",
+      "bytes": 129320,
+      "sha256": "0c16e5e4c2b9420946c595f1ab5f9671b90d4c9e62881ff947a23914a2fb6e36"
+    },
+    {
+      "path": "visual/page-011.png",
+      "bytes": 101013,
+      "sha256": "fbfa69a3018e209e5b2b99a4d0d17bb935faa5adf6039e500ebd478248ab2e91"
+    },
+    {
+      "path": "visual/page-014.png",
+      "bytes": 112712,
+      "sha256": "f65332caba4b0cb5de2d2c357b458e309f5daa864f194e155370a273c846a7fb"
+    },
+    {
+      "path": "visual/page-016.png",
+      "bytes": 132041,
+      "sha256": "44f049e8ca4adc93edec55cb0cba07556d050f3fcce7d77cbb50ce44924a3ef1"
+    },
+    {
+      "path": "visual/page-017.png",
+      "bytes": 112629,
+      "sha256": "520855bd5f27d482645535f8f558a1c7aa9a36f72877792e4471d316b4eff91c"
+    },
+    {
+      "path": "visual/page-018.png",
+      "bytes": 135720,
+      "sha256": "01ea916d1190f165f31b99638990d0057e040f033418b90eb3e5ec6d565fcb7a"
+    },
+    {
+      "path": "visual/page-023.png",
+      "bytes": 135964,
+      "sha256": "48238c9607e179f3392d7b603386d5ff8375b7a9ba0827712a0fc722e2d5f9f6"
+    },
+    {
+      "path": "visual/page-026.png",
+      "bytes": 138104,
+      "sha256": "c7e09984873a036107d12c1dc728bc68dca0dcba2fc6606eed6162bfc2cc60f0"
+    },
+    {
+      "path": "visual/page-027.png",
+      "bytes": 141296,
+      "sha256": "1793a6c9afa98181bde79027e0307adfa971d6b1ab9a7fa9912113e0c4c97836"
+    },
+    {
+      "path": "visual/page-030.png",
+      "bytes": 142881,
+      "sha256": "023ffa6e2dcc82d40e5eb6261c6a50418ec0b9357f1ffef4694500c4bc0ad899"
+    },
+    {
+      "path": "visual/page-035.png",
+      "bytes": 149301,
+      "sha256": "c0f0f4602a7d6536a8b4e2e42fb7d6ab4f39f68d6fb698a2911baf8955edecd7"
+    },
+    {
+      "path": "visual/page-036.png",
+      "bytes": 150971,
+      "sha256": "f8fe1ba3e1dbb9e4b82c3100d780351f7b8190e813693ba15627d84ee2046d25"
+    },
+    {
+      "path": "visual/page-037.png",
+      "bytes": 132108,
+      "sha256": "3215f0f2a775fbb7348166e218237dca25538084915be3f4bd3b2dfe53b1e677"
+    },
+    {
+      "path": "visual/page-038.png",
+      "bytes": 174207,
+      "sha256": "1c624495a9b64e7c95e832558e62fd880e9ff20d0557bb0e2b90fcaebbd290e3"
+    },
+    {
+      "path": "visual/page-039.png",
+      "bytes": 57266,
+      "sha256": "27386dfaae3e952da2c7c48e18518c21200fe21fbd609233167cf8c244f50943"
+    },
+    {
+      "path": "visual/page-047.png",
+      "bytes": 104388,
+      "sha256": "a6055ff96d1e6081406e5742bc002624c493cb0b7a46d1d41964db0acbdc91c7"
+    },
+    {
+      "path": "visual/page-053.png",
+      "bytes": 155516,
+      "sha256": "38881751c8aba888abfdfc241cd04b2844d6e28c8a6ad9e1498b455364591e1f"
+    },
+    {
+      "path": "visual/page-065.png",
+      "bytes": 146295,
+      "sha256": "cf50bf45980f3e14b55cf44ded7116f13c15a453de74fa3b5fc0d533f17bb3c3"
+    },
+    {
+      "path": "visual/page-067.png",
+      "bytes": 111900,
+      "sha256": "0a913767703c606630126b8181bbc5068f95d42ff8a523e4930d9bd92a5441c9"
+    },
+    {
+      "path": "visual/page-073.png",
+      "bytes": 182792,
+      "sha256": "3c4f304e6844576d592cc8c9cc21d2ffec67e70a9a7a7dee5bd64387420d178e"
+    },
+    {
+      "path": "visual/page-081.png",
+      "bytes": 126161,
+      "sha256": "781e45654abafc5a6b4354fc9b54f31ed237f20641b6cefb8041381cb45820e6"
+    },
+    {
+      "path": "visual/page-090.png",
+      "bytes": 145472,
+      "sha256": "82622fb78b2b4c604badc9045dda29db40dd0641d3c126b66e770bba667e18eb"
+    },
+    {
+      "path": "visual/page-096.png",
+      "bytes": 90639,
+      "sha256": "1d35db373b6d47b0eff683fff717050e72b5b558f2a16cea6c67849fd615039a"
+    },
+    {
+      "path": "visual/page-107.png",
+      "bytes": 161597,
+      "sha256": "2d01e2a03dfb643f3f019f33db1bbe7c878d1853e09bb6151862d611476c6ea2"
+    },
+    {
+      "path": "visual/page-108.png",
+      "bytes": 177285,
+      "sha256": "c8406098deaaee1a0307d0b6bde71d9a757e3b911efc58c358f1aee18c5f167d"
+    },
+    {
+      "path": "visual/page-113.png",
+      "bytes": 82118,
+      "sha256": "1efe7c5b4a49a844995c823286c57ae0307a70265b3d85a46297cbaace42d881"
+    },
+    {
+      "path": "visual/page-119.png",
+      "bytes": 190800,
+      "sha256": "3b03733c532e27b3d6482699933dddf600aa864d656a34a699897625c5076b36"
+    },
+    {
+      "path": "visual/page-129.png",
+      "bytes": 92389,
+      "sha256": "4e54820c1057ac08108ca4faa2261f09ec6364f5914d0461c898d9758559d529"
+    },
+    {
+      "path": "visual/page-144.png",
+      "bytes": 147164,
+      "sha256": "26eb5ab7d6d4c4c0f02dab93174e3ed9396684e65e98ca6c8723eaae824ba617"
+    },
+    {
+      "path": "visual/page-153.png",
+      "bytes": 164423,
+      "sha256": "523f432fe8ca0ebdef179756c6242b60e0ea35d54775e506327d86fd4293bf90"
+    },
+    {
+      "path": "visual/page-159.png",
+      "bytes": 119891,
+      "sha256": "eb464e8fcf626d53f0d2300764fb98db8b7cf1a41cf41ade8b76f8b9eae3daa0"
+    },
+    {
+      "path": "visual/page-164.png",
+      "bytes": 184480,
+      "sha256": "865a88d03d44d3533e3dc9076e45e72747b67a3a2dbe4ca049d1924264cefbe9"
+    },
+    {
+      "path": "visual/page-168.png",
+      "bytes": 138554,
+      "sha256": "ae8e18ff4c17ff7cae040d4fa477ed246cf233827c56e05ba661636361cf424f"
+    },
+    {
+      "path": "visual/page-173.png",
+      "bytes": 159937,
+      "sha256": "7cec113a2d1e0bab01cf028448b77b61c793e9bdb3d132409fe3f7adf995d4c8"
+    },
+    {
+      "path": "visual/page-184.png",
+      "bytes": 154992,
+      "sha256": "98921f62f1ebefedffa024f0c3dba2f9ac7d725eb5cbf6c9a30f55096b73f30a"
+    },
+    {
+      "path": "visual/page-190.png",
+      "bytes": 162023,
+      "sha256": "1b00b639bb64627924fc988cc06353660f8c5d35064e3f8327cec6da76e23011"
+    },
+    {
+      "path": "visual/page-195.png",
+      "bytes": 130493,
+      "sha256": "0c0528b305dacb59e99805d2489e3908cacc33909fc2d8f1f2846aeb11395ff1"
+    },
+    {
+      "path": "visual/page-198.png",
+      "bytes": 155168,
+      "sha256": "bbb5ad1af84ef8f5198f8a36bbfcdc053c69941ae347d9404edfdedde6378183"
+    },
+    {
+      "path": "visual/page-204.png",
+      "bytes": 151921,
+      "sha256": "1187b548e6885327a4815b00ad48049d53fa2be7fae8131bc761a86b95822879"
+    },
+    {
+      "path": "visual/page-209.png",
+      "bytes": 155265,
+      "sha256": "fce17af8bf030856b87e111dce6f43809883ff26d9f11ed1f9fec0dfb1873318"
+    },
+    {
+      "path": "visual/page-214.png",
+      "bytes": 130375,
+      "sha256": "78bf44d61c0b7a543a16b2a25a262a3eccd9074377f090404d67ea96e01629e5"
+    },
+    {
+      "path": "visual/page-219.png",
+      "bytes": 183697,
+      "sha256": "130b37aa07b35a8121416f185133c7fbec781401e97c6f41ef8de55cb17f7c1b"
+    },
+    {
+      "path": "visual/page-220.png",
+      "bytes": 46287,
+      "sha256": "0bb80eae1c75e3432b0811453c9106bb955d6e455a97e35b9a4672de72685044"
+    },
+    {
+      "path": "visual/page-227.png",
+      "bytes": 167168,
+      "sha256": "3b2038df9ed768664957cc2e71e1b591c53a84013a3a0de6d88121fdf358ad20"
+    },
+    {
+      "path": "visual/page-228.png",
+      "bytes": 188767,
+      "sha256": "e1f550785db1fa4bc044b65479df06875342252266d714c745b94153c61c7f5e"
+    },
+    {
+      "path": "visual/page-229.png",
+      "bytes": 185158,
+      "sha256": "205eb83873c1dbd44edea1f90a358d44bfb85ba73d604695fc6d960a8fb4dfaa"
+    },
+    {
+      "path": "visual/page-230.png",
+      "bytes": 195250,
+      "sha256": "4a128d683d3b0e461acd5843989c2848aff1cffc37895149fce6c302b65f67c7"
+    },
+    {
+      "path": "visual/page-231.png",
+      "bytes": 191031,
+      "sha256": "99125fdafbea27060a7366fc9ee4753a1228c64def58cce4d1ef0a872113841b"
+    },
+    {
+      "path": "visual/page-232.png",
+      "bytes": 127810,
+      "sha256": "342d8c44c24e158c99b43abf3a28efb3f5e7749451e0ce4f35503fcc8817a017"
+    },
+    {
+      "path": "visual/page-238.png",
+      "bytes": 154646,
+      "sha256": "3dc24fb06016e22254d56958f32e9383e75ec85ee91e5fe9c4ed35d59997aa31"
+    },
+    {
+      "path": "visual/page-239.png",
+      "bytes": 137938,
+      "sha256": "ab0448eca3ec3d94d81c6dcf990fff967864d7c4e9f13351190942790d55b031"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 9987,
+      "sha256": "f3b49932d8e0685a1b58c22efaad8d1e7dbedf5f4b10f561bc6ec5e0614acee3"
+    },
+    {
+      "path": "vol-05-interior-kdp.pdf",
+      "bytes": 1504101,
+      "sha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5"
+    }
+  ],
+  "covers": [
+    {
+      "key": "05",
+      "volume": "VOL-05",
+      "title": "Authority e regolazione",
+      "cover": "delivery/copertine-2026-10-03/vol-05-cover.pdf",
+      "coverSha256": "062e98d7259ca14e87ec35a372b0715788dfb3f9145702a58340da455d4f826b",
+      "interior": "delivery/VOL-05/candidate-2026-10-03/vol-05-interior-kdp.pdf",
+      "interiorSha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5",
+      "pdfPages": 239,
+      "kdpPages": 240,
+      "spineInches": 0.5404800000000001,
+      "widthInches": 14.170480000000001,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 12.926347109375001,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/05.png",
+      "path": "covers/vol-05-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

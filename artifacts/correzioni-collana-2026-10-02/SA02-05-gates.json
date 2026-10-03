@@ -1,0 +1,34 @@
+{
+  "density": {
+    "passed": true,
+    "blockers": [],
+    "warnings": []
+  },
+  "coverage": {
+    "passed": true,
+    "blockers": [],
+    "warnings": []
+  },
+  "operational": [
+    {
+      "id": "DO-SA02-05-NEWS2-ER-2024",
+      "title": "DO-SA02-05-NEWS2-ER-2024",
+      "file": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\wiki\\books\\moduli\\m-sa02-professioni-sanitarie\\chapters\\05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "line": 141,
+      "auditArea": "clinico-assistenziale",
+      "source": "Regione Emilia-Romagna, NEWS2; RCP, NEWS2",
+      "version": "settembre 2024 / dicembre 2017",
+      "verifiedAt": "2026-10-03"
+    },
+    {
+      "id": "DO-SA02-05-TRIAGE-2019",
+      "title": "DO-SA02-05-TRIAGE-2019",
+      "file": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\wiki\\books\\moduli\\m-sa02-professioni-sanitarie\\chapters\\05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "line": 195,
+      "auditArea": "clinico-assistenziale",
+      "source": "Ministero della Salute, *Linee di indirizzo nazionali sul triage intraospedaliero*, tabelle 1–2",
+      "version": "2019",
+      "verifiedAt": "2026-10-03"
+    }
+  ]
+}

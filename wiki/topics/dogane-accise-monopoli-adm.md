@@ -39,3 +39,7 @@ ADM ha un baricentro diverso da AE: dogane, accise, giochi e monopoli. Per il ca
 
 ## Stato revisione
 Pronto per capitoli ADM. Il raw EUR-Lex e' bloccato da WAF e va sostituito manualmente prima della pubblicazione.
+
+## Rettifiche del 3 ottobre 2026
+
+La nuova [[sources/dogane-accise-rettifiche-2026-10-03]] precisa vigilanza delle merci non unionali, modifica dopo svincolo entro tre anni, abrogazione del TULD, A.TR distinto da origine, qualifica del destinatario registrato ed estensione EMCS ai trasferimenti commerciali a imposta assolta. Le correzioni sono applicate ai capitoli 08, 09 e 14 di M-FC02.

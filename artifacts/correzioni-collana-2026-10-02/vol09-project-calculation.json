@@ -1,0 +1,90 @@
+{
+  "tasks": {
+    "A": {
+      "duration": 2,
+      "predecessors": [],
+      "ES": 0,
+      "EF": 2,
+      "LS": 0,
+      "LF": 2,
+      "float": 0,
+      "start": "2026-10-06",
+      "end": "2026-10-07"
+    },
+    "B": {
+      "duration": 4,
+      "predecessors": [
+        "A"
+      ],
+      "ES": 2,
+      "EF": 6,
+      "LS": 2,
+      "LF": 6,
+      "float": 0,
+      "start": "2026-10-08",
+      "end": "2026-10-13"
+    },
+    "C": {
+      "duration": 3,
+      "predecessors": [
+        "A"
+      ],
+      "ES": 2,
+      "EF": 5,
+      "LS": 3,
+      "LF": 6,
+      "float": 1,
+      "start": "2026-10-08",
+      "end": "2026-10-12"
+    },
+    "D": {
+      "duration": 2,
+      "predecessors": [
+        "B",
+        "C"
+      ],
+      "ES": 6,
+      "EF": 8,
+      "LS": 6,
+      "LF": 8,
+      "float": 0,
+      "start": "2026-10-14",
+      "end": "2026-10-15"
+    },
+    "E": {
+      "duration": 1,
+      "predecessors": [
+        "B"
+      ],
+      "ES": 6,
+      "EF": 7,
+      "LS": 7,
+      "LF": 8,
+      "float": 1,
+      "start": "2026-10-14",
+      "end": "2026-10-14"
+    },
+    "F": {
+      "duration": 1,
+      "predecessors": [
+        "D",
+        "E"
+      ],
+      "ES": 8,
+      "EF": 9,
+      "LS": 8,
+      "LF": 9,
+      "float": 0,
+      "start": "2026-10-16",
+      "end": "2026-10-16"
+    }
+  },
+  "duration": 9,
+  "criticalPath": [
+    "A",
+    "B",
+    "D",
+    "F"
+  ],
+  "verified": true
+}

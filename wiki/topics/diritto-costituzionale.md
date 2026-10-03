@@ -121,3 +121,8 @@ Consolidato con fonte primaria locale e manuale autorizzato dall'utente. Verific
 ## Note editoriali
 Il capitolo deve privilegiare: principi fondamentali, organi e funzioni, fonti del diritto, autonomie territoriali e principi costituzionali della PA.
 La fonte manualistica autorizzata aiuta a ordinare: nozioni introduttive, forme di Stato, forme di governo, organizzazione costituzionale italiana, Regioni/governo locale, giustizia, fonti, giustizia costituzionale, diritti/liberta/doveri.
+
+
+## Correzioni consolidate del 2 ottobre 2026
+
+[[sources/vol-01-costituzione-correzioni-2026-10-02]] distingue riunioni e preavviso, trattamenti obbligatori, collocazione dello sport, controlli della Corte dei conti e decisioni UE. Consolida inoltre composizione/elettorato, maggioranze e procedimenti parlamentari, fiducia e revisione costituzionale con esempi e quiz nel capitolo 4. I rinvii specialistici agli enti locali restano da verificare sulla versione corretta del VOL-02.

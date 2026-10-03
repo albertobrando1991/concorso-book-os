@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-03",
+  "reason": "Riferimenti finali in paragrafo con etichetta, corpo11pt; evita una riga di titolo isolata dal flusso finale. Nessuna fonte rimossa.",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+      "before": "5e7bfee866eee59f9812ed2ca4e1e84858331889875c868f812fe6a4ec8cb9ed",
+      "after": "c4051ae29a075107758d9bf42e54effd84fdad96c054de4c4bf10f9c2dccf646",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+      "before": "081b1d87caaa7d41470485b36f167e92a1141726672c56541e9b5d611f8ae0c9",
+      "after": "c4a2f32fa84de0fcea9d428d42c5fedb2fbe4365342a31157440ba386e65f143",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+      "before": "6b7b3d57b34ed9bfb454120a975d6389ab7cfc819ad8925bed9fe9a6f4101f76",
+      "after": "1206810594458720e193b319e904ca508dc87b9159e1a0375058642c0e9b7bad",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+      "before": "2c067daa2eec10f10fe434276a92a4bb73c7f392af66cc76d5f515d30c599862",
+      "after": "c8d114023eef8b99bbb3ea991a66b06a6a34013b7fc6056bf67b771e4e57a57b",
+      "referenceTextPreserved": true,
+      "placement": "Riferimenti NTC integrati nell’apertura, prima degli obiettivi; testo conservato integralmente."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+      "before": "2b534c1de4a730f4f4be11552d6ec3229302e0c59b6f1e6e1c1526740dc725e4",
+      "after": "7431ed4fc0634535817c58b265f3bf7b6daa7a13a0468af9820d8a82ac4e0e2d",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+      "before": "3481eaa6ecb4ff7caf0f9ffe21cb714b78303cc9e9e49d21a89d22ae1c484b07",
+      "after": "922999a94881c8e068f59d56a54b2ee10fae2f76a6e8c545460fd36160da4a6d",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+      "before": "f6d8e041a1cbd11a58e61751bfa66f980e420622c974b34d2ea3221c90f13b1c",
+      "after": "4a9695dfb340627a2dd1302862e9f118485bbb6fcc87010afa4ba506d1344a61",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+      "before": "e84646f4f0df73f77479e29f234e4006a0330965b2134aadfed764398457282a",
+      "after": "361cf14cb3189ac5980565dc901ea16811f288637ec3f5bdbef32edde7053b4a",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+      "before": "b03fa476b8fc220deca4e972d52b71e37a3e5f92422650c87b712366c24426d1",
+      "after": "b5561d1689ce2b55241b2d04265af98f2bb8005dd2843da134917dafff81aa6e",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+      "before": "0fe915e6765874978eb8f7b23444bf8df530cdc124964ca6cc5081c838335710",
+      "after": "c08e301cb519c6229d54518e2f98fdce8f99d98ce8630e365c04c5bd87955290",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+      "before": "08a2fd1f77121b89b319e501362aaceb3339ff0a6a1be71d3fe94989fec4f196",
+      "after": "92b1a37069cdf99ccc0324d867a6f7e42dff7ad0e1705f2e32ce7aebbaaa8b5e",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+      "before": "a9e059525acb744aab2beda366e6577f6ebbf8c039e0693bb10f11fa6f359e1e",
+      "after": "ccfee0d6857cc496ff28b5e16f65b617104c940611a72b1c800a2cc7f9e6bf55",
+      "referenceTextPreserved": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+      "before": "6e3557c9a5c97f09eb9f014a67921c9fb1d4c6869f35ec7899623a742a909ba2",
+      "after": "13f938bdb6a0ee39fc3f23ccc3b7c707c4d84b1c637d797ce3ee0d82bda07c26",
+      "referenceTextPreserved": true
+    }
+  ]
+}

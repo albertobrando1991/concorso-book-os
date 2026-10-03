@@ -1,0 +1,216 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-04-reader-final-20261003-proof.pdf",
+  "sha256": "b2a48f8dc70238ead3133a0f859d8bddc9eb9aa0f20e1f54644f16ca7889e09e",
+  "pages": 367,
+  "domPages": 367,
+  "pageCountMatch": true,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "indexEntries": [
+    {
+      "number": 1,
+      "title": "Il sistema Giustizia visto dal candidato",
+      "indexPage": 6,
+      "printedPage": 8,
+      "actualPage": 8,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "number": 2,
+      "title": "Ministero, dipartimenti e amministrazioni della Giustizia",
+      "indexPage": 6,
+      "printedPage": 24,
+      "actualPage": 24,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "number": 3,
+      "title": "Uffici giudiziari e ordinamento applicato al lavoro d'ufficio",
+      "indexPage": 6,
+      "printedPage": 39,
+      "actualPage": 39,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "number": 4,
+      "title": "Ufficio per il processo: struttura, progetto e flussi",
+      "indexPage": 6,
+      "printedPage": 54,
+      "actualPage": 54,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "number": 5,
+      "title": "Il lavoro dell'AUPP: fascicolo, udienza, ricerca e scheda",
+      "indexPage": 6,
+      "printedPage": 72,
+      "actualPage": 72,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "number": 6,
+      "title": "Processo civile operativo per UPP e cancelleria",
+      "indexPage": 6,
+      "printedPage": 92,
+      "actualPage": 92,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "number": 7,
+      "title": "Processo penale operativo per UPP e cancelleria",
+      "indexPage": 6,
+      "printedPage": 113,
+      "actualPage": 113,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "number": 8,
+      "title": "Servizi di cancelleria, registri, comunicazioni e certificazioni",
+      "indexPage": 6,
+      "printedPage": 137,
+      "actualPage": 137,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "number": 9,
+      "title": "Spese di giustizia, patrocinio e recupero",
+      "indexPage": 6,
+      "printedPage": 165,
+      "actualPage": 165,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "number": 10,
+      "title": "Casellario, carichi pendenti, archivi e certificati",
+      "indexPage": 6,
+      "printedPage": 191,
+      "actualPage": 191,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "number": 11,
+      "title": "UNEP: notificazioni, esecuzioni, protesti e attività dell'ufficiale giudiziario",
+      "indexPage": 6,
+      "printedPage": 220,
+      "actualPage": 220,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "number": 12,
+      "title": "Giustizia digitale: PCT, processo penale telematico e fascicolo",
+      "indexPage": 6,
+      "printedPage": 250,
+      "actualPage": 250,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "number": 13,
+      "title": "Giustizia minorile e di comunità: servizi, mediazione e riparativa",
+      "indexPage": 6,
+      "printedPage": 278,
+      "actualPage": 278,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "number": 14,
+      "title": "Amministrazione penitenziaria: trattamento, istituti ed esecuzione esterna",
+      "indexPage": 6,
+      "printedPage": 307,
+      "actualPage": 307,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "number": 15,
+      "title": "Appendici operative e strumenti finali",
+      "indexPage": 6,
+      "printedPage": 343,
+      "actualPage": 343,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "number": 16,
+      "title": "Conclusione — Dal programma al lavoro d'ufficio",
+      "indexPage": 6,
+      "printedPage": 363,
+      "actualPage": 363,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md"
+    },
+    {
+      "number": 17,
+      "title": "Fonti e riferimenti essenziali",
+      "indexPage": 6,
+      "printedPage": 365,
+      "actualPage": 365,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md"
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "name": "AAAAAA+Arial-BoldMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "BAAAAA+Garamond",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+Arial-Black",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    }
+  ],
+  "allFontsEmbedded": true,
+  "overflowPages": [],
+  "internalLeaks": [],
+  "replacementGlyphs": 0,
+  "missingImages": 0,
+  "indexMinimumPt": 9.500025,
+  "limits": [
+    "Verifica tecnica locale; non equivale a revisione visiva o certificazione normativa.",
+    "Nessuna prova fisica o KDP Previewer eseguita."
+  ]
+}

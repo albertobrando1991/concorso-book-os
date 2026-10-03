@@ -1,0 +1,55 @@
+{
+  "volume": "VOL-07",
+  "pdf": "vol-07-release-20261003-proof.pdf",
+  "sha256": "60e7814e7a9d17ea36f1af9b5a7652206f83ce33fe0870b0aebc6d588df43e16",
+  "findings": [
+    {
+      "id": "P07-01",
+      "position": "pp. 201–202",
+      "status": "verificato",
+      "evidence": "Parametri NEWS2 resi in celle reali; scala 2 e limiti leggibili. Tabella nativa con fonte e ambito; dettagli riletti."
+    },
+    {
+      "id": "P07-02",
+      "position": "SA01/04 e SA02/02, pp. 103–108 e 167–168",
+      "status": "verificato",
+      "evidence": "Matrici da otto/sei colonne ridotte e articolate in tabelle distinte. Tipografia conservata, campi e intestazioni leggibili."
+    },
+    {
+      "id": "P07-03",
+      "position": "Aperture dei capitoli",
+      "status": "verificato",
+      "evidence": "Titolo principale non duplicato sotto BANDO. Proiezione dei titoli corretta."
+    },
+    {
+      "id": "P07-04",
+      "position": "Indice pp. 6–7",
+      "status": "verificato",
+      "evidence": "Voci interne a 9,5 pt nominali; 32 destinazioni controllate. Indice distribuito e verificato."
+    },
+    {
+      "id": "P07-05",
+      "position": "pp. 201–204, conclusione volume",
+      "status": "verificato",
+      "evidence": "Nessun ID DO, Humanizer, gate o step nel corpo esportato. Audit nel frontmatter, fonti e limiti nel corpo."
+    },
+    {
+      "id": "V07-35/V07-39",
+      "position": "pp. 404, 423–424",
+      "status": "verificato",
+      "evidence": "Tre figure originali inserite e controllate in dettaglio con didascalie, domande e soluzioni. Grafici didattici presenti, leggibili e coerenti con i dati."
+    },
+    {
+      "id": "FM07-01",
+      "position": "p. 1",
+      "status": "pendente",
+      "evidence": "La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione. Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa."
+    },
+    {
+      "id": "FM07-02",
+      "position": "p. 3",
+      "status": "pendente",
+      "evidence": "Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione. Completare i dati effettivi prima della pubblicazione."
+    }
+  ]
+}

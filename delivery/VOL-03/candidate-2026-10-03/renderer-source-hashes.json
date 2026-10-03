@@ -1,0 +1,42 @@
+[
+  {
+    "path": "src\\book\\pagination.ts",
+    "sha256": "25a6a382f60b9280d6540936dba1fde3a551c375ad8f45cbd0ddd12a4ba29cbc"
+  },
+  {
+    "path": "src\\server\\book\\book-preview.ts",
+    "sha256": "92e1e5393040c1720d6f6e9361891f352a6de6fed491760460961f1265644050"
+  },
+  {
+    "path": "scripts\\book-studio-pdf-export-core.mjs",
+    "sha256": "ded0240ccfbbe8047a29b89d32ddb0a4eeef98bd810acac1fd1d4ca5ed5170a5"
+  },
+  {
+    "path": "scripts\\book-studio-layout-options.mjs",
+    "sha256": "50f73aaff5db3a371bf970c933ca9aa2401c094625aa15fba537111987999cf9"
+  },
+  {
+    "path": "app\\globals.css",
+    "sha256": "232aaf3b37be372ea69edaa84b2b602f03332f06f50b1a2117e45727436bf499"
+  },
+  {
+    "path": "app\\study-plans\\study-plans.css",
+    "sha256": "dafff2e135e07f85c24e25279842710b33a17fbd5604b587f903a14624f08161"
+  },
+  {
+    "path": "app\\components\\book-creator-panel.tsx",
+    "sha256": "cca0aeedcba66635f5a768a0659b5be4cdacc5dc05e5d1d502fc462b03f47432"
+  },
+  {
+    "path": "app\\components\\book-selector.tsx",
+    "sha256": "33d71eb7c02fa0b302c7bbb2380aa92413d6aade79a61e62a6e5eb89476f3b89"
+  },
+  {
+    "path": "app\\components\\book-studio-panel.tsx",
+    "sha256": "b096374db7e1324c49557206f02417e4cd3d4bf430a775dd9e24ee38db59e152"
+  },
+  {
+    "path": "app\\components\\book-studio-preview-table.tsx",
+    "sha256": "0e7c12626403f38cdbcf68de6576c90448072ae6878c25c40dc27ed1684e5b42"
+  }
+]

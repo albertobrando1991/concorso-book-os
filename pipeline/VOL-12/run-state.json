@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-12-carriere-speciali-premium/planning/00-scheda-pipeline.md",
   "specHash": "sha256:157af4c8bdcaf385e155c4e07dd3c204afd1f6be87af1e7030300e6209197123",
   "createdAt": "2026-08-11T16:49:44.557Z",
-  "updatedAt": "2026-08-14T17:20:11.288Z",
+  "updatedAt": "2026-10-03T11:46:46.762Z",
   "steps": [
     {
       "key": "00:VOL-12",
@@ -1358,17 +1358,19 @@
       "target": "moduli/m-sp01-forze-ordine",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata rilievi V12-01–15 e quote trasversali 63–66; fonti, casi, quiz e piani da correggere."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:42.172Z",
+      "startedAt": "2026-10-03T01:26:27.806Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-14T13:43:42.184Z"
+      "finishedAt": "2026-10-03T01:48:49.904Z"
     },
     {
       "key": "15:moduli/m-sp01-forze-ordine",
@@ -1382,13 +1384,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:42.192Z",
+      "startedAt": "2026-10-03T01:48:53.210Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-14T13:43:42.207Z"
+      "finishedAt": "2026-10-03T01:49:30.414Z"
     },
     {
       "key": "16:moduli/m-sp01-forze-ordine",
@@ -1402,7 +1404,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:42.216Z",
+      "startedAt": "2026-10-03T01:49:35.735Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1414,14 +1416,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata in wiki/reviews/pipeline/VOL-12/16-moduli-m-sp01-forze-ordine.md; 10/10 capitoli, matrice 50/50, report 12-15 chiusi, 12 source_refs risolte e 16 SHA-256 registrati."
+            "message": "Chiusura manuale di info: Verifica manuale documentata in 16-moduli-m-sp01-forze-ordine.md e M-SP01-freeze.json: dieci capitoli, cinquanta nuclei, 71 quiz, rinvii e matrice coerenti, Humanizer dei delta e audit 15 passato senza rilievi aperti nel perimetro. Nuovo PDF e controlli di volume separatamente necessari; nessuna attestazione di pubblicabilita."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-14T13:43:42.236Z"
+      "finishedAt": "2026-10-03T01:50:14.826Z"
     },
     {
       "key": "08:moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
@@ -2417,17 +2419,19 @@
       "target": "moduli/m-sp02-vigili-fuoco",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata rilievi V12-16–35 e trasversali"
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:43.198Z",
+      "startedAt": "2026-10-03T01:08:36.132Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-14T13:43:43.209Z"
+      "finishedAt": "2026-10-03T01:24:33.867Z"
     },
     {
       "key": "15:moduli/m-sp02-vigili-fuoco",
@@ -2441,13 +2445,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:43.219Z",
+      "startedAt": "2026-10-03T01:24:38.916Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-14T13:43:43.232Z"
+      "finishedAt": "2026-10-03T01:25:23.980Z"
     },
     {
       "key": "16:moduli/m-sp02-vigili-fuoco",
@@ -2461,7 +2465,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:43.241Z",
+      "startedAt": "2026-10-03T01:25:29.820Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2473,14 +2477,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata in wiki/reviews/pipeline/VOL-12/16-moduli-m-sp02-vigili-fuoco.md; 8/8 capitoli, matrice 40/40, report 12-15 chiusi, 2 source_refs risolte e 14 SHA-256 registrati."
+            "message": "Chiusura manuale di info: Verifica manuale documentata nel manifest M-SP02-freeze.json: 8 capitoli presenti, 40 nuclei completi nel perimetro dichiarato, rinvii letti e risolti, indice e matrice coerenti, fonti e cut-off espliciti, audit 15 passato. Nuovo PDF e revisione di volume separatamente necessari; gate text-freeze non implementato."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-14T13:43:43.261Z"
+      "finishedAt": "2026-10-03T01:26:13.408Z"
     },
     {
       "key": "08:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
@@ -3363,17 +3367,19 @@
       "target": "moduli/m-sp03-magistratura-avvocatura-notariato",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata dei rilievi V12-36–47 e quote trasversali; riapertura per correzione e audit prima del nuovo freeze."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:44.145Z",
+      "startedAt": "2026-10-03T01:50:53.062Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-14T13:43:44.157Z"
+      "finishedAt": "2026-10-03T09:22:34.032Z"
     },
     {
       "key": "15:moduli/m-sp03-magistratura-avvocatura-notariato",
@@ -3387,13 +3393,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:44.169Z",
+      "startedAt": "2026-10-03T09:22:50.729Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-14T13:43:44.182Z"
+      "finishedAt": "2026-10-03T09:23:38.610Z"
     },
     {
       "key": "16:moduli/m-sp03-magistratura-avvocatura-notariato",
@@ -3407,7 +3413,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:44.192Z",
+      "startedAt": "2026-10-03T09:23:44.864Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -3419,14 +3425,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata in wiki/reviews/pipeline/VOL-12/16-moduli-m-sp03-magistratura-avvocatura-notariato.md; 7/7 capitoli, matrice 35/35, report 12-15 chiusi, 1 source_refs risolte e 13 SHA-256 registrati."
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata nel report 16 e manifest M-SP03-freeze.json. Sette capitoli, 35 nuclei, 57 quiz; indice e matrice coerenti, gate 15 passato senza blocker o warning, errori obbligatori del modulo chiusi. Nuovo PDF e controlli del volume restano separati."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-14T13:43:44.211Z"
+      "finishedAt": "2026-10-03T09:24:36.610Z"
     },
     {
       "key": "08:moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
@@ -4309,17 +4315,19 @@
       "target": "moduli/m-sp04-prefettizia-diplomatica",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata V12-48–62 e chiusura quote trasversali prima del nuovo freeze."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:45.113Z",
+      "startedAt": "2026-10-03T09:25:02.533Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-14T13:43:45.125Z"
+      "finishedAt": "2026-10-03T09:36:31.374Z"
     },
     {
       "key": "15:moduli/m-sp04-prefettizia-diplomatica",
@@ -4333,13 +4341,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:45.135Z",
+      "startedAt": "2026-10-03T09:36:33.428Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-14T13:43:45.150Z"
+      "finishedAt": "2026-10-03T09:37:23.385Z"
     },
     {
       "key": "16:moduli/m-sp04-prefettizia-diplomatica",
@@ -4353,7 +4361,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:45.161Z",
+      "startedAt": "2026-10-03T09:38:02.747Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4365,14 +4373,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale documentata in wiki/reviews/pipeline/VOL-12/16-moduli-m-sp04-prefettizia-diplomatica.md; 7/7 capitoli, matrice 37/37, report 12-15 chiusi, 1 source_refs risolte e 13 SHA-256 registrati."
+            "message": "Chiusura manuale di info: Verifica manuale completata: sette capitoli, 37 nuclei, 43 quiz; matrice e rinvii coerenti, audit 15 passato senza blocker, fonti e cut-off dichiarati, manifest SHA256 M-SP04-freeze.json. Gate non implementato, non simulato. Nuovo PDF e verifica di volume restano necessari."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-14T13:43:45.178Z"
+      "finishedAt": "2026-10-03T09:38:34.303Z"
     },
     {
       "key": "17:VOL-12",
@@ -4386,7 +4394,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:43:56.991Z",
+      "startedAt": "2026-10-03T11:11:25.911Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4397,7 +4405,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-14T13:47:33.699Z"
+      "finishedAt": "2026-10-03T11:11:33.762Z"
     },
     {
       "key": "18:moduli/m-sp01-forze-ordine",
@@ -4411,7 +4419,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:47:39.594Z",
+      "startedAt": "2026-10-03T11:11:34.701Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4422,7 +4430,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-14T13:59:47.261Z"
+      "finishedAt": "2026-10-03T11:42:55.494Z"
     },
     {
       "key": "18:moduli/m-sp02-vigili-fuoco",
@@ -4436,7 +4444,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:59:47.274Z",
+      "startedAt": "2026-10-03T11:42:56.243Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4447,7 +4455,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-14T13:59:47.286Z"
+      "finishedAt": "2026-10-03T11:43:08.865Z"
     },
     {
       "key": "18:moduli/m-sp03-magistratura-avvocatura-notariato",
@@ -4461,7 +4469,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:59:47.296Z",
+      "startedAt": "2026-10-03T11:43:09.642Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4472,7 +4480,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-14T13:59:47.307Z"
+      "finishedAt": "2026-10-03T11:43:46.589Z"
     },
     {
       "key": "18:moduli/m-sp04-prefettizia-diplomatica",
@@ -4486,7 +4494,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:59:47.317Z",
+      "startedAt": "2026-10-03T11:43:47.388Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4497,7 +4505,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-14T13:59:47.328Z"
+      "finishedAt": "2026-10-03T11:44:13.813Z"
     },
     {
       "key": "19:VOL-12",
@@ -4511,7 +4519,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T13:59:52.398Z",
+      "startedAt": "2026-10-03T11:44:14.695Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4522,7 +4530,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-14T14:12:13.927Z"
+      "finishedAt": "2026-10-03T11:45:37.210Z"
     },
     {
       "key": "20:VOL-12",
@@ -4531,12 +4539,12 @@
       "scope": "volume",
       "target": "VOL-12",
       "status": "done",
-      "attempts": 2,
+      "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T16:14:42.584Z",
+      "startedAt": "2026-10-03T11:45:38.046Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4548,14 +4556,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale documentata in 20-vol-12-audit-pagina-per-pagina.md: 459/459 pagine registrate, 23/23 tavole-contatto, 0 blocker, 0 problemi significativi; layout stabile e indice nuclei 162/162."
+            "message": "Chiusura manuale di info: Verifica manuale: 492 pagine coperte in panoramica e dettagli mirati; indice e geometria verificati sul PDF. Evidenze in 20-vol-12.md e VOL-12-page-audit.json; P12-07 facoltativo e limiti dichiarati. Page-fill non implementato, nessuna simulazione di gate automatico."
           }
         ],
         "notImplemented": [
           "page-fill"
         ]
       },
-      "finishedAt": "2026-08-14T16:15:26.027Z"
+      "finishedAt": "2026-10-03T11:46:45.899Z"
     },
     {
       "key": "21:VOL-12",
@@ -4563,19 +4571,13 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-12",
-      "status": "done",
+      "status": "in-progress",
       "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-14T16:15:33.407Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-14T16:23:58.647Z"
+      "startedAt": "2026-10-03T11:46:46.762Z"
     },
     {
       "key": "22:VOL-12",
@@ -4583,32 +4585,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-12",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-14T16:24:05.375Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-12"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Preflight documentato in 22-vol-12-preflight.md: 162 nuclei, 90/90 link, 57 source_refs risolti, 452 test, typecheck e build verdi; PDF 459 pagine, trim 481.68x691.92 pt, font incorporati, SHA-256 F8ECF8499C19BF7727F4BB72314CAA84DF828C911DD16D0918DAA278079609F9. KDP Previewer non installato e dichiarato non eseguito."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-14T16:57:00.068Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-12",
@@ -4616,32 +4595,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-12",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-14T16:57:05.905Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-12"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Pacchetto verificato in delivery/VOL-12/candidate: 9 file, 8/8 hash, 0 extra, manifest C74A1DA20F285742514657C746D597C6291B7B6E09F5AFE1CA6EB24FC0757AA8. Remoto verificato; staging preesistente dello staff lasciato intatto e selezione garantita dal manifest. Nessun commit o push; step 24 resta umano."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-14T17:20:11.288Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "24:VOL-12",
@@ -4651,7 +4607,12 @@
       "target": "VOL-12",
       "status": "pending",
       "attempts": 0,
-      "evidence": []
+      "evidence": [
+        "reopen: Applicazione autorizzata rilievi V12-16–35 e trasversali",
+        "reopen: Applicazione autorizzata rilievi V12-01–15 e quote trasversali 63–66; fonti, casi, quiz e piani da correggere.",
+        "reopen: Applicazione autorizzata dei rilievi V12-36–47 e quote trasversali; riapertura per correzione e audit prima del nuovo freeze.",
+        "reopen: Applicazione autorizzata V12-48–62 e chiusura quote trasversali prima del nuovo freeze."
+      ]
     }
   ]
 }

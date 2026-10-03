@@ -1,0 +1,1180 @@
+{
+  "volume": "VOL-02",
+  "changes": {
+    "V02-03": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md"
+      ],
+      "change": "Separate presidenza Giunta e Consiglio; art.54 per ufficiale del Governo.",
+      "evidence": "Confronto artt.39/50/54; riesame normativo complessivo ancora aperto. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md": "c52a961fc88e87f428f36e62e67e04538bb36ea9523a99dbfce4ca56bf72a167"
+      }
+    },
+    "V02-04": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md"
+      ],
+      "change": "Eccezione Giunta per regolamento uffici e servizi coordinata fra teoria, tabelle e risposte.",
+      "evidence": "Raccordo TUEL48c3 nella nota fonte; rilettura dei passaggi modificati. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md": "b08aa52e25a39bdf259cee1d67b8e80d888cad8effe704e5eb4223ba71c30174",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md": "f1ff49454321effccf883c01897a9cfadf2b250dfb7451fb9a86cd885bfc2792"
+      }
+    },
+    "V02-05": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md"
+      ],
+      "change": "Procedura statutaria con quorum, due votazioni, pubblicazione, esempio13componenti e verifica; caso tardività/soccorso risolto.",
+      "evidence": "Fonti DAIT e CdS129/2021; esempio9voti contro7 e distinzione requisito/documento. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md": "b08aa52e25a39bdf259cee1d67b8e80d888cad8effe704e5eb4223ba71c30174"
+      }
+    },
+    "V02-06": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md"
+      ],
+      "change": "Presupposti pareri49, visto183c7, pubblicazione124/esecutività134; caso riflessi indiretti.",
+      "evidence": "Note fonti Camera/DAIT; esempio1200entrate perse e800spese. Computo calendario controverso non automatizzato. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md": "f1ff49454321effccf883c01897a9cfadf2b250dfb7451fb9a86cd885bfc2792"
+      }
+    },
+    "V02-16": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md"
+      ],
+      "change": "Riscritti i sei commenti incongruenti; Q3 coordinata con silenzio-assenso.",
+      "evidence": "Risoluzione analitica alternative: C,A,D,C,D,A,A; verifica testo dei distrattori e ruoloRUP. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md": "bbba572a0795006b016e2f0c874269621c0f6d311436dfea6a430e1f7f0ab715"
+      }
+    },
+    "V02-17": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md"
+      ],
+      "change": "Titolo espresso/silenzio-assenso, SCIA22 e alternativa23 distinti; integrazione L182/2025 sui vincoli. Permesso espresso/tacito; SCIA ordinaria e alternativa trenta giorni; assensi vincolistici e rinvio preciso a VOL10.",
+      "evidence": "Fonte e topic dedicati; esempio assensi già validi. Resta applicazione FL04/11. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md": "bbba572a0795006b016e2f0c874269621c0f6d311436dfea6a430e1f7f0ab715",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md": "4c87e7506ace5989926522823028d0477da406dae671310c9e692c45c023b79b"
+      }
+    },
+    "V02-18": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md"
+      ],
+      "change": "Caso tetto biforcato fra manutenzione e somma urgenza, verbale, perizia, riconoscimento e copertura.",
+      "evidence": "MEF art140 in vigore20luglio2025 e TUEL191; controllati presupposti,10/20/30giorni e separabilità rifacimento. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md": "bbba572a0795006b016e2f0c874269621c0f6d311436dfea6a430e1f7f0ab715"
+      }
+    },
+    "V02-07": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md"
+      ],
+      "change": "Divieto art26c4 specifico per salute/disagio e distinzione pubblicazione/comunicazione/accesso.",
+      "evidence": "Garante2014 e2025; casi anonimizzazione e accesso civico semplice confrontati. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md": "856e1f20ad0bb974db48367c4b2dce9c7b10b9e2b499c993ce8cc452c57eaf90",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md": "e6a652df01f9b94ac59f1bf74be2b63e11dea2971d86b9543f7a62d3257ac94e"
+      }
+    },
+    "V02-08": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md"
+      ],
+      "change": "Definiti documento informatico, forma/prova e copie; separati effetti e obblighi documentali.",
+      "evidence": "CAD20 DocsItalia versione20aprile2026; controesempio omissione protocollo senza annullamento automatico istanza. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md": "72084d5e00151be82b06bdf3e38163cfcb868cf313bde809d1f6254039ac6832"
+      }
+    },
+    "V02-09": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md"
+      ],
+      "change": "Decertificazione come regola obbligatoria, coordinata in teoria, risposta e soluzione stato famiglia.",
+      "evidence": "Funzione pubblica artt40/43; riesame della richiesta insistita del cittadino. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md": "f2aa59f4260dd07f5abfcb5c0570268b510325800fb773281124ee22aac5bda2"
+      }
+    },
+    "V02-10": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md"
+      ],
+      "change": "Dimora abituale,2giorni/45giorni/decorrenza; AIRE90giorni, revisioni elettorali, estratti e copie con casi.",
+      "evidence": "Fonti Interno/MAECI/DAIT; calendario5–7ottobre2026 e distinzione assenza occasionale/dimora; copia minore motivata. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md": "f2aa59f4260dd07f5abfcb5c0570268b510325800fb773281124ee22aac5bda2"
+      }
+    },
+    "V02-11": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md"
+      ],
+      "change": "Separate decadenza/revoca/annullamento e rapporti appalto/accreditamento/CTS55/56; due casi risolti.",
+      "evidence": "DM72/2021 e ANACart6; riesame APS iscritta2mesi e acquisto2000ore; revoca vantaggio non per mero ripensamento. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md": "e6a652df01f9b94ac59f1bf74be2b63e11dea2971d86b9543f7a62d3257ac94e"
+      }
+    },
+    "V02-12": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md"
+      ],
+      "change": "PIAO istituito nel2021; caso50dipendenti e regime ANAC; PEG facoltativo sotto5000 e calendario ordinario.",
+      "evidence": "Confronto DPR81/DM132/PNA2022, distinzione termini ordinari/proroghe e presentazione/approvazione. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. Calendario aggiornato: consolidato 31 ottobre, art.151c8 vigente.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md": "d420eceaeda95976c663e6028673b8f3986acea99341cee70024e690838071ee"
+      }
+    },
+    "V02-13": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md"
+      ],
+      "change": "Calendario, FPV/FCDE numerici, formula risultato/scomposizione, variazioni e ratifica, revisori, esercizio provvisorio, debiti e crisi.",
+      "evidence": "Risolti170totale/20disponibile e variante−10; quiz ratifica31dicembre; cinque categorie194 e caso8mila/6mila. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. Art.187c2 aggiornato2026, art.163c3 e art.175c3 esplicitati; quiz20dicembre con fattispecie ammessa.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md": "d420eceaeda95976c663e6028673b8f3986acea99341cee70024e690838071ee",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md": "47a0c35aa27749476d0741774cfa60b62fecf6882944147ba5161913323ba46d"
+      }
+    },
+    "V02-14": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md"
+      ],
+      "change": "Schede IMU/TARI su presupposti, soggetti, base, esclusioni/riduzioni; caso datato e distinzione decadenza/prescrizione.",
+      "evidence": "Calcolo840su84mila con aliquota ipotetica; locazione4mesi vs12; termini2030/2031 distinti per adempimento. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md": "34753206dfe016f42fd1ed79be6e1433dcf4671fb297cc064772fe2a1d6c2dbe"
+      }
+    },
+    "V02-15": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md"
+      ],
+      "change": "MePA costruzione/manutenzione, art192TUEL coordinato con17/18Codice e caso concreto.",
+      "evidence": "Consip2022 e pagina mercato; controllo finalità/oggetto/forma/clausole/modalità/motivazione. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md": "277283bf874b6baae2df8dee7242fdb959bf0585f66d021bcaf1ae23550bc0ce"
+      }
+    },
+    "V02-19": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md"
+      ],
+      "change": "Fasce0–16, rinvio programmazione09, quadro normativo e RUP nel primo atto.",
+      "evidence": "Otto criteri0–2: fasce0–6,7–11,12–14,15–16 coprono dominio senza sovrapposizioni. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.",
+      "status": "Applicato e riesaminato in M-FL01; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md": "9e8b0631bd6a9d8854254ba5da03423d634c33b1e973c1da0d8136db486b7320"
+      }
+    },
+    "V02-20": {
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md"
+      ],
+      "change": "Determina completa fittizia con dossier, istruttoria, dispositivo, visto e correzione ancorata ai dati; restano laboratori regionali/PL e simulazione finale.; M-FL02/12: elaborato completo di liquidazione regionale con traccia, calcoli, premesse, dispositivo e griglia20punti. Laboratorio FL04: verbale L689 completo e annotazione PG svolta. Simulazione integrata con20quiz, quattro dossier, risposte, casi, documenti e orale.",
+      "evidence": "Calcolo6000+1320=7320 e residuo2680; RUPprimoatto, contratto dopo efficacia, verifica prima liquidazione. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.; Contributo48000×80%=38400, anticipo16000, saldo22400 e riduzione1600 già disposta dopo contraddittorio. Pagamento200/difese30gg, qualificazione rifiuto255 e CNR distinta; dati e norma settoriale didattica espressamente fittizi. Soluzioni specifiche e rubriche ancorate a ciascun percorso.",
+      "status": "Applicato in laboratori e simulazione; riesame finale aperto",
+      "sha256": {
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md": "9e8b0631bd6a9d8854254ba5da03423d634c33b1e973c1da0d8136db486b7320",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md": "7707c8f74536b5004d4f80213ad624451f32085c1d3182d959a1abe7d5334cfb",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md": "14f3de3cf3d8d62852816f02beb67574ad00bf3da3232bf5e707f930511d70db",
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md": "800e81bed95c01f642ee9ed85a6d3936b1398c63a5a20f0bea3f2fec0ab913a8"
+      }
+    },
+    "V02-21": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md"
+      ],
+      "change": "Procedimento statutario123 con quorum, intervallo, ricorso e referendum; elezione122 e crisi126; casi31componenti e sfiducia, due nuovi quiz commentati.",
+      "evidence": "PDF ufficiale Quirinale artt122/123/126 letto; caso16voti su31 e intervallo40giorni insufficiente; quiz7C/8D motivati. Fonte/topic consolidati prima della scrittura.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md": "4089a2b939951744d2df28ada6d05e7587000dff553daba67b595ebb1a3e2148"
+      }
+    },
+    "V02-22": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md"
+      ],
+      "change": "Esemplificato art117; presupposti/soggetto120 e procedimento8L131; completata Stato-città e composizione delle tre conferenze, distinta da conferenza di servizi.",
+      "evidence": "L131art8 e D281art8/9 scaricati e letti integralmente; PDFQuirinale117/120, sitoPCMcomposizione, Corte210/2024 e76/2009. Casi salute/reato e tutela/valorizzazione risolti.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md": "26db56b6ffa9a716a146a4642f85ae6f1b607fa6779b67ca62d1529873a01044"
+      }
+    },
+    "V02-23": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md"
+      ],
+      "change": "Sequenza esplicita del saldo con controllo prima della liquidazione, poi mandato e pagamento; eventualità di integrazione/revoca; imperativi uniformati.",
+      "evidence": "Art57/58D118 acquisiti e letti, soluzione ordinata confrontata con caso e tabella.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md": "6b6f420603c09f4e96613b6651e32d931905dbcfedd8ccbab24a43b949702d46"
+      }
+    },
+    "V02-24": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md"
+      ],
+      "change": "Calendario regionale con DEFR, bilancio, doppia fase rendiconto, assestamento e consolidato31ottobre; liquidazione distinta da ordinazione/pagamento; caso numerico saldo.",
+      "evidence": "Artt18/36/39/50/57/58/63/68D118 letti; paginaistituzionaleDEFR; saldo18000−8000=10000, confrontoComune/Regione.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md": "2fd6b9ca1f4db19201c42d458a4a72bc5cdcbc9e8710386aa4a80ac31df8560d"
+      }
+    },
+    "V02-25": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md"
+      ],
+      "change": "Ripristinati A=Aree,D=Diario,O=Output e raccordo metodologico Diario/Output.",
+      "evidence": "Confronto con struttura madre e mappa BANDO degli altri capitoli.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md": "3e9626a406e49888f1d31b4e524340299b3f2e9dca9097b6ad3819fbbc51f799"
+      }
+    },
+    "V02-26": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md"
+      ],
+      "change": "Clausola finanziaria con ipotesi esplicite, importi peranno e mezzo di copertura; termine90giorni con decorrenza; transitorio comprende data iniziale.",
+      "evidence": "Art81Cost e fonte contabilità consolidata; modello100000/80000/60000 con riduzione corrispondente, totale240000; distinzione diritto/tetto discrezionale.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md": "3e9626a406e49888f1d31b4e524340299b3f2e9dca9097b6ad3819fbbc51f799"
+      }
+    },
+    "V02-27": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md"
+      ],
+      "change": "Esplicitati regolamenti 1060/1058/1057/1056/1059, AdG/AdA e funzione contabile; costi reali/unitari/somme/tassi, limiti e tre esempi con quiz; test aiuti107TFUE.",
+      "evidence": "RDC consolidato 1luglio2026 artt53/54/71–77 letti via browser; calcoli22000−2000=20000,180×100=18000,40000×7%=2800.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md": "1678c73296fa326731fe06b2b8091e3506a9dd7d32428212f06243078bdee2a3"
+      }
+    },
+    "V02-28": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md"
+      ],
+      "change": "Titolarità centrale della misura distinta da attuazione/coordinamento regionale in tabella e risposta modello; chiarita titolarità del progetto.",
+      "evidence": "DL77/2021 artt8–9 riscontrati Camera e soggetti attuatori Ministero salute; circolare4/2022 chiarisce lessico.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md": "999db3a2b744e62ad04f8e12460fdfc99e7140fe1a73669ab5d1a48b54ebf84d"
+      }
+    },
+    "V02-29": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md"
+      ],
+      "change": "Corretto quiz doppio finanziamento senza condizione fonti incompatibili; esempio quote60/40 e duplicazione100/100; basi DNSH; scadenze2026, ReGiS e caso92/100.",
+      "evidence": "Art9RRF nel raw acquisito; note VOL09 chiusura/DNSH verificate e riusate; data aggiornamento3ottobre, termini agosto/settembre presentati trascorsi.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md": "999db3a2b744e62ad04f8e12460fdfc99e7140fe1a73669ab5d1a48b54ebf84d"
+      }
+    },
+    "V02-30": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md"
+      ],
+      "change": "Organi provinciali e metropolitani: elettorato, durate, composizione, assemblea/conferenza, statuto e bilancio, caso numerico e quiz; deroga18mesi2025–2027.",
+      "evidence": "L56 commi pertinenti e nota24 letti; controllo quorum10/30 e260000/500000; distinta durata4/2/5anni.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md": "64ff4ecc67d82df5d907fa0ec4839767ab2ff6e33fb049ec29b0caff338d96f7"
+      }
+    },
+    "V02-31": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md"
+      ],
+      "change": "Anticipata nomina RUP al primo atto di avvio in tabelle, casi, sequenze, esercizi e soluzioni.",
+      "evidence": "Confronto con art15 consolidato VOL09; ricerca nelle sequenze e verifica posizione prima della progettazione.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md": "a5cec2ff1f905bb1085b48611373deb6ab766e91a076937c51712f8d3d14bfe6",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md": "7707c8f74536b5004d4f80213ad624451f32085c1d3182d959a1abe7d5334cfb"
+      }
+    },
+    "V02-32": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md"
+      ],
+      "change": "Riparto edilizia scolastica L23/1996; espropri con vincolo, PU, indennità, decreto condizionato a notifica/esecuzione e tre termini distinti.",
+      "evidence": "L23art3 e DPR327art8/9/12/13/23/24 letti integralmente; prorogaPU vigente4anni, notifica7giorni con eccezione contestuale, esecuzione2anni.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md": "a5cec2ff1f905bb1085b48611373deb6ab766e91a076937c51712f8d3d14bfe6"
+      }
+    },
+    "V02-33": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md"
+      ],
+      "change": "Concessione e rischio operativo; in house con tre requisiti e caso80%; ambitoSPL; ricognizioni annuali e piano correttivo vigente, quiz.",
+      "evidence": "D36art177,D175art2/16/20,D201art2/4/14/17/27/30/32 letti integralmente;83? no:8,2/10=82%; soglia oltre80 rigorosa.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md": "d9a86b0c3476a8b2b6d1f8af472adcb21ea9d239b8420b49c5cb942b79075676"
+      }
+    },
+    "V02-34": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md"
+      ],
+      "change": "Traccia digitalizzazione qualificata espressamente PNRR con obblighi ReGiS/DNSH dati e titolarità centrale distinta.",
+      "evidence": "Coerenza con cap08 e fonte PNRR consolidata; non estesa disciplina a generico FESR.",
+      "status": "Applicato e riesaminato in M-FL02; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md": "7707c8f74536b5004d4f80213ad624451f32085c1d3182d959a1abe7d5334cfb"
+      }
+    },
+    "V02-35": {
+      "files": [
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md"
+      ],
+      "change": "Sezioni e soggetti, pubblicità dichiarativa/costitutiva/notizia, eccezione agricola, conservatore e rimedi 8/15 giorni, ComUnica e decertificazione PA.",
+      "evidence": "33 articoli nel manifest normattiva-fl03; casi su art. 2193, rimedi e quiz 7–8; fonte camerale consolidata.",
+      "status": "Applicato e riesaminato in M-FL03; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md": "3fb15605fa8f8b9d0d0d5302b6d720c9ee2a899b2de2cb3ff84b175ce894f986"
+      }
+    },
+    "V02-36": {
+      "files": [
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md"
+      ],
+      "change": "Mediazione e arbitrato distinti per esito; protesti: pagamento, cancellazione, riabilitazione e ricorso; metrologia: soggetti, termini ed eccezione camerale 2026; rimosso rinvio a step interno.",
+      "evidence": "Casi risolti su controversia, cambiale 8/14 mesi e bilancia; quiz 7–8; D.M. 93 art. 4 vigente verificato.",
+      "status": "Applicato e riesaminato in M-FL03; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md": "1ae64ae0c5245d72706701ca06c4608a1266f88600ebf69b29f5a4d63de6a470"
+      }
+    },
+    "V02-37": {
+      "files": [
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md"
+      ],
+      "change": "Quattro organi con formazione, funzioni e durata; distinto segretario generale; CCNL 23 febbraio 2026, quattro aree, incarichi EQ e progressioni.",
+      "evidence": "Tabella e caso programma/pratica; quiz 7–8; L. 580 artt. 9–20 e ARAN 2022/2026.",
+      "status": "Applicato e riesaminato in M-FL03; gate 15 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md": "70f14694c053f66fa20800387d3303c41920b12f70327ab8796229d33ded0363"
+      }
+    },
+    "V02-38": {
+      "files": [
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md"
+      ],
+      "change": "Esempi camerali dichiarati compositi; distinta pubblicità del Registro da accesso al fascicolo istruttorio; variante risolta del caso di laboratorio. Esempi di bando PL dichiarati compositi; eliminata attribuzione generica al campione ufficiale. Anche esempio introduttivo del cap02 dichiarato didattico.",
+      "evidence": "Letti integralmente cap. 01 e 05 correnti; cap. 04 già letto; nessun interesse qualificato imposto alla visura pubblica. Resta parte FL04/01.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md": "1c0f21ce241f8b26bbece2d69a991bce564979dabe159e124fdf2cf2684bf176",
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md": "70f14694c053f66fa20800387d3303c41920b12f70327ab8796229d33ded0363",
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md": "b69c727308b50f223810947efa20400a00b4e35eec135a60fbfefcdc5c3fa17e",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md": "4c134c611033a987b7664575b0ac6ae0baeb3a7610797b650bb7f07b6b7f5743"
+      }
+    },
+    "V02-39": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md"
+      ],
+      "change": "Condizione di servizio e territorio ex art. 57; requisiti PS, perdita della qualità, dipendenza operativa e missioni esterne tipizzate.",
+      "evidence": "L.65 artt.3–5/9 e CPP57 letti; caso rinforzo/flagranza; rinvio nominativo al capitolo PG.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md": "487c1ebcd4198cf48da200140a6d09cdf9931452d128204cce8255cf43a36e1c"
+      }
+    },
+    "V02-41": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md"
+      ],
+      "change": "Termini 90/100/360, pagamento 60 e sconto entro5, rimedi prefetto60/GdP30–60, titolo esecutivo e casi.",
+      "evidence": "Artt.201–204bis e D1507 vigenti; calcolo100→70; caso ricorso al giorno40.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md": "4826c1dbc69a9b0cfca56695cdd4a07cb0f50ba4a126384804aa57f67f461efe"
+      }
+    },
+    "V02-42": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md"
+      ],
+      "change": "Notifica solidale anche dopo contestazione al conducente; distinti casi tipizzati e impedimento motivato.",
+      "evidence": "Art.201 commi1/1bis/1ter; esempio società proprietaria non presente.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md": "4826c1dbc69a9b0cfca56695cdd4a07cb0f50ba4a126384804aa57f67f461efe"
+      }
+    },
+    "V02-43": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md"
+      ],
+      "change": "Responsabilità personale/solidale, termini, formula, prescrizione, opposizione e ordinanza didattica con motivazione e rimedi.",
+      "evidence": "L6892/3/6/28 e nota14/16/18; D1506; calcoli800/1000 e distinzione ordinanza400.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md": "ea92667e22988021878bcdf3778ebdc3fb7185c466c3c994f71b44a85871d896"
+      }
+    },
+    "V02-44": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md"
+      ],
+      "change": "Presupposti, soggetti, difesa e termini artt.349/350/351/354/355; CNR ordinaria e urgente; annotazione completa con attività e fonti distinte.",
+      "evidence": "Quattordici articoli processuali letti integralmente; tabella e caso temporale 48+48; sei quiz con quattro opzioni.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md": "1fdccb401958726cb8370dd889c744bbf638cbf0b65ee5fdfe1d8a85dc073bb8"
+      }
+    },
+    "V02-40": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md"
+      ],
+      "change": "Regole stradali, segnaletica, documenti/revisione/assicurazione, fasce alcol e art.187 interpretato da Corte10/2026, riforma2024 e sospensione breve.",
+      "evidence": "Fonte vigente consolidata; casi numerici0,8/1,1 e tasso zero; quiz4/5 risolti; distinzione misure su veicolo e patente.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md": "1b1c74c6201d012bb8fad4760f8a340f93e25a6f9d0662c024b231688806543b"
+      }
+    },
+    "V02-45": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md"
+      ],
+      "change": "TULPS8–11/68–69/80/100, autorità locale PS, spettacoli200/2000, soggiorno aggiornato90giorni e garanzie.",
+      "evidence": "Articoli letti e fonte consolidata; casi concerto1500 e ricevuta rinnovo; sei quiz A–D.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md": "0c6fca021f9c95b1b2ebea800f574b36befad03a4690d1576b01d4b28e8e1140"
+      }
+    },
+    "V02-46": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md"
+      ],
+      "change": "MisureDL14 con presupposti, competenza,48ore/12–24mesi, zone2026, rimedi e distinzione ordinanze.",
+      "evidence": "Artt.9/10 correnti e CPA29; caso allontanamento ore18; esclusa convalidaabrogata; quiz6 concreto.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md": "728b1aa58f111c2c3f5c70eecf6288bae84b00a64eb6765f73b93dd64a293c18"
+      }
+    },
+    "V02-47": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md"
+      ],
+      "change": "Categorie commerciali, requisiti morali/professionali, SCIA unica/condizionata e autorizzazione anche tacita.",
+      "evidence": "D59 artt64/65/71 e L24119bis/20 correnti; TabellaA pagine pertinenti e schede DFP; caso preposto e concentrazione.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md": "92f8eca05ad020f64b5624aac7177375f3edb57519781b58b0390544d414da44"
+      }
+    },
+    "V02-48": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md"
+      ],
+      "change": "Titoli/silenzio, sospensione45, comunicazioni27, demolizione90/proroga240, acquisizione, sanatorie e ramo44.",
+      "evidence": "DPR38027/31/44; fonteVOL10 per20/34bis/36bis; casi termini e costruzione senza permesso; rinvio nominativo.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md": "4c87e7506ace5989926522823028d0477da406dae671310c9e692c45c023b79b"
+      }
+    },
+    "V02-49": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md"
+      ],
+      "change": "Mappa255/255bis/255ter, residui amministrativi, art192 responsabilità soggettiva proprietario e ordine ripristinatorio.",
+      "evidence": "Articoli correnti letti; casi mobile, cassonetto, mozzicone e proprietario; CNR anche contro ignoti; refuso area rimossa corretto.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md": "e59e5c247cd876521c0e35cabe01a6cfebb22445a5158d460dfc56855988d5d1"
+      }
+    },
+    "V02-50": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md"
+      ],
+      "change": "Rilievo metrico con croquis, coordinate e controlli; lesioni/omicidio e caso penale aggravato risolto.",
+      "evidence": "Art189, CP589bis/590bis integralmente letti; distinte fonti misurate/dichiarate, querela/aggravanti e art187.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md": "becb09c309710257d53b37d638fe5e82181908b1c7a5708d12e8a0e0f1c05ce9"
+      }
+    },
+    "V02-51": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md"
+      ],
+      "change": "Regole CCNL23feb2026, turni/riposi, art9L65; sei quiz sostituiti con distrattori plausibili.",
+      "evidence": "CCNL22–26 letti; D662/4/7/8/9; caso intervallo7ore e correzione11; distinta esclusione attività operative.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md": "dacbca3cf7e699b8d500d5d836bc8f932d1234c4182ed0c0c69112cd26b4334e"
+      }
+    },
+    "V02-53": {
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md"
+      ],
+      "change": "Microcorrezioni dei refusi segnalati nei moduli FL02 e FL03 applicate durante i relativi interventi. Corretto lavorerà; riesaminato anche rifiuti rimossi nel cap12.",
+      "evidence": "Rilettura dei passaggi corretti e ricerca delle forme errate.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md": "b8769366b6a8ab1b178cd558f17a202fd020fa039a5d390ef1fa8ba7f9e35619",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md": "2fd6b9ca1f4db19201c42d458a4a72bc5cdcbc9e8710386aa4a80ac31df8560d",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md": "3e9626a406e49888f1d31b4e524340299b3f2e9dca9097b6ad3819fbbc51f799",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md": "999db3a2b744e62ad04f8e12460fdfc99e7140fe1a73669ab5d1a48b54ebf84d",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md": "d9a86b0c3476a8b2b6d1f8af472adcb21ea9d239b8420b49c5cb942b79075676",
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md": "b69c727308b50f223810947efa20400a00b4e35eec135a60fbfefcdc5c3fa17e",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md": "4c134c611033a987b7664575b0ac6ae0baeb3a7610797b650bb7f07b6b7f5743",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md": "e59e5c247cd876521c0e35cabe01a6cfebb22445a5158d460dfc56855988d5d1"
+      }
+    },
+    "V02-54": {
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md"
+      ],
+      "change": "Uniformate quattro alternative e separazione a paragrafi; titoli Quiz, punteggiatura e distrattori nei capitoli indicati.",
+      "evidence": "Quiz03–15 riesaminati durante interventi; opzioni inline separate; 13C/D e 11D corretti.",
+      "status": "Applicato e riesaminato; gate 15 M-FL04 superato",
+      "sha256": {
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md": "4c134c611033a987b7664575b0ac6ae0baeb3a7610797b650bb7f07b6b7f5743",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md": "580fe6591113b4e7fca9841ff978372533d947fc0b297c864ff008ce759058b8",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md": "487c1ebcd4198cf48da200140a6d09cdf9931452d128204cce8255cf43a36e1c",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md": "1b1c74c6201d012bb8fad4760f8a340f93e25a6f9d0662c024b231688806543b",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md": "4826c1dbc69a9b0cfca56695cdd4a07cb0f50ba4a126384804aa57f67f461efe",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md": "ea92667e22988021878bcdf3778ebdc3fb7185c466c3c994f71b44a85871d896",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md": "1fdccb401958726cb8370dd889c744bbf638cbf0b65ee5fdfe1d8a85dc073bb8",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md": "0c6fca021f9c95b1b2ebea800f574b36befad03a4690d1576b01d4b28e8e1140",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md": "728b1aa58f111c2c3f5c70eecf6288bae84b00a64eb6765f73b93dd64a293c18",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md": "92f8eca05ad020f64b5624aac7177375f3edb57519781b58b0390544d414da44",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md": "4c87e7506ace5989926522823028d0477da406dae671310c9e692c45c023b79b",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md": "e59e5c247cd876521c0e35cabe01a6cfebb22445a5158d460dfc56855988d5d1",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md": "becb09c309710257d53b37d638fe5e82181908b1c7a5708d12e8a0e0f1c05ce9",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md": "dacbca3cf7e699b8d500d5d836bc8f932d1234c4182ed0c0c69112cd26b4334e",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md": "14f3de3cf3d8d62852816f02beb67574ad00bf3da3232bf5e707f930511d70db"
+      }
+    },
+    "V02-01": {
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md"
+      ],
+      "change": "Percorso camerale descritto come cinque capitoli presenti, con destinatari; rimosso stato superato.",
+      "evidence": "Confronto coi cinque capitoli FL03 congelati e con la promessa introduttiva. Verifica finale nei due tomi: indice, selezione, rinvii e soluzioni; rapporto PDF-VOL-02.",
+      "status": "Applicato e riesaminato; apparati e prove dei due tomi verificati",
+      "sha256": {
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md": "52448ebc9d5ff90c86920b9f5832136d6e663eaa0f4b365b3a88e9015fe59105"
+      }
+    },
+    "V02-02": {
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/03-piano-30-60-90-giorni-vol-02.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md"
+      ],
+      "change": "Rinvii al lettore indirizzati a capitoli, norme e siti ufficiali; rimossi source note e apparati interni.",
+      "evidence": "Correzione della simulazione interamente su soluzioni stampate e capitoli nominati. Verifica finale nei due tomi: indice, selezione, rinvii e soluzioni; rapporto PDF-VOL-02.",
+      "status": "Applicato e riesaminato; apparati e prove dei due tomi verificati",
+      "sha256": {
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/03-piano-30-60-90-giorni-vol-02.md": "6810a3ab58b0f719391b2e8f3fca4cfcebba8a8f5324a87a95f8e6e5e76dac2a",
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md": "800e81bed95c01f642ee9ed85a6d3936b1398c63a5a20f0bea3f2fec0ab913a8"
+      }
+    },
+    "V02-52": {
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/51-conclusione-vol-02.md"
+      ],
+      "change": "Aggiornato conteggio a cinquantuno capitoli.",
+      "evidence": "3 introduttivi +14+12+5+15 moduli +simulazione+conclusione =51. Verifica finale nei due tomi: indice, selezione, rinvii e soluzioni; rapporto PDF-VOL-02.",
+      "status": "Applicato e riesaminato; apparati e prove dei due tomi verificati",
+      "sha256": {
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/51-conclusione-vol-02.md": "1cfa22056ab7790a9dd6de1cdf67b0bc3ee27ebedd1689e71be5f6c854c3f2d3"
+      }
+    },
+    "V02-FM1": {
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/05-premessa.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/04-sommario.md"
+      ],
+      "change": "Eliminata condizionale commerciale e dicitura modulo di riconciliazione.",
+      "evidence": "Presenza e freeze dei cinque capitoli camerali. Verifica finale nei due tomi: indice, selezione, rinvii e soluzioni; rapporto PDF-VOL-02.",
+      "status": "Applicato e riesaminato; apparati e prove dei due tomi verificati",
+      "sha256": {
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/05-premessa.md": "df3d5b720a0fe0960845cdf7bef4d04c24da61cbd7ebe8f490b869f54cf10e97",
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/04-sommario.md": "7a02507f85a458c352cd80c9563d93333f71e7c491f44b3b77851583644df448"
+      }
+    },
+    "V02-FM2": {
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/04-sommario.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md"
+      ],
+      "change": "Promessa allineata a20quiz e quattro percorsi con tutti gli output e soluzioni.",
+      "evidence": "Somma30punti; tempo70minuti; separazione famiglie dichiarata. Verifica finale nei due tomi: indice, selezione, rinvii e soluzioni; rapporto PDF-VOL-02.",
+      "status": "Applicato e riesaminato; apparati e prove dei due tomi verificati",
+      "sha256": {
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/04-sommario.md": "7a02507f85a458c352cd80c9563d93333f71e7c491f44b3b77851583644df448",
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md": "800e81bed95c01f642ee9ed85a6d3936b1398c63a5a20f0bea3f2fec0ab913a8"
+      }
+    },
+    "V02-FM3": {
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md"
+      ],
+      "change": "Indice1–51 e blocchi30–34/35–49; tolti piani interni e appendici non presenti.",
+      "evidence": "Numerazione sorgente verificata; corrispondenza pagine da verificare sul nuovo PDF. Verifica finale nei due tomi: indice, selezione, rinvii e soluzioni; rapporto PDF-VOL-02.",
+      "status": "Applicato e riesaminato; apparati e prove dei due tomi verificati",
+      "sha256": {
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md": "8cfb27bcf4d2fa7701693e35461252318f1ee1f7bd64c8a9727ddc95e1192885"
+      }
+    },
+    "V02-FM4": {
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/01-m-fl01-frontespizio-sommario.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/02-m-fl02-frontespizio-sommario.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/03-m-fl04-frontespizio-sommario.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare.md"
+      ],
+      "change": "Sommari con numerazione volume coerente; camerale attuale e senza note interne.",
+      "evidence": "FL01 4–17, FL02 18–29, FL03 30–34, FL04 35–49; PDF successivo ancora da verificare. Verifica finale nei due tomi: indice, selezione, rinvii e soluzioni; rapporto PDF-VOL-02.",
+      "status": "Applicato e riesaminato; apparati e prove dei due tomi verificati",
+      "sha256": {
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/01-m-fl01-frontespizio-sommario.md": "092775daff5fd262a22d1ecdc45ddb2c3c6fa2a4a65e7bc312d1f317f725dfa7",
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/02-m-fl02-frontespizio-sommario.md": "6363571a6b03c95388a163020478b702ccc10e8709233b9e0cbbe122ee904843",
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/03-m-fl04-frontespizio-sommario.md": "4670c698bfb0daf12e07478e4e5caff790050cbac990428ffa883cac14484e9f",
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare.md": "9d93c3b5db053a26a2a10fac9a0669e3d5d35641cde8de6ae38e931458add1cf"
+      }
+    }
+  },
+  "limitations": [
+    "58/58 ID con intervento scritto; riesame finale dei nuovi apparati e simulazione in corso.",
+    "Step21 aperto: nuovo PDF e distribuzione in tomi ancora da produrre/verificare; nessuna pubblicabilità finale.",
+    "Gate14/15 dei quattro moduli passati; freeze16 manuali dichiarati per gate non implementato."
+  ],
+  "findings": [
+    {
+      "id": "V02-04",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md"
+      ],
+      "proposal": "Esplicitare eccezione regolamento uffici e servizi: Giunta, nel rispetto dei criteri generali del Consiglio (TUEL48c3). Fonti: [ufficiale1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2000-08-18;267~art48!vig=)"
+    },
+    {
+      "id": "V02-05",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md"
+      ],
+      "proposal": "Aggiungere scheda TUEL6c4–5; distinguere domanda tardiva da irregolarità sanabile e richiamare L241/1990 art.6c1b. Fonti: [ufficiale1](https://prefettura.interno.gov.it/sites/default/files/3/2024-03/legge_241_del_90.pdf)"
+    },
+    {
+      "id": "V02-06",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md"
+      ],
+      "proposal": "Insegnare presupposti, organo ed effetto di artt.49,134,183c7, con confronto delibera/determina e caso completo."
+    },
+    {
+      "id": "V02-09",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md"
+      ],
+      "proposal": "Rispondere: per stati, qualità e fatti certificabili, salve deroghe di legge, acquisizione d’ufficio o dichiarazione sostitutiva; non richiedere certificato da produrre alla PA (DPR44540/43). Fonti: [ufficiale1](https://www.funzionepubblica.gov.it/it/il-dipartimento/area-di-interesse/semplificazione/decertificazione-e-autocertificazione/la-decertificazione/)"
+    },
+    {
+      "id": "V02-10",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md"
+      ],
+      "proposal": "Inserire schede residenza: dichiarazione, iscrizione entro2giorni, verifiche45giorni ed effetti; scheda revisioni liste e documento/estratto/copia con requisiti e caso. Fonti: [ufficiale1](https://dait.interno.gov.it/servizi-demografici/circolari/circolare-n9-del-27-aprile-2012)"
+    },
+    {
+      "id": "V02-11",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md"
+      ],
+      "proposal": "Separare revoca, annullamento e decadenza; sviluppare differenze e presupposti appalto, accreditamento, convenzioni art.56 e coprogettazione art.55 CTS."
+    },
+    {
+      "id": "V02-13",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md"
+      ],
+      "proposal": "Aggiungere calendario con proroghe separate; bilancio almeno triennale; PEG facoltativo<5000; formula avanzo comprendente sottrazione FPV; casi variazioni/ratifica, revisori, debiti fuori bilancio/esercizio provvisorio/dissesto al livello del profilo."
+    },
+    {
+      "id": "V02-14",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md"
+      ],
+      "proposal": "Schede IMU/TARI e caso accertamento datato: separare regole nazionali, aliquote/regolamenti locali, decadenza e prescrizione."
+    },
+    {
+      "id": "V02-16",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md"
+      ],
+      "proposal": "Chiavi corrette C,A,D,C,D,A,A. Q1 commento C→B; Q2 A/B→B/C; Q3 D→C; Q4 errate A,B,D; Q6 A/B→B/C; Q7 errate B,C,D. Riscrivere motivazioni legandole al contenuto di ciascuna alternativa."
+    },
+    {
+      "id": "V02-17",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md"
+      ],
+      "proposal": "Integrare silenzio-assenso art.20c8 con esclusioni; distinguere SCIA ordinaria e alternativa ex art.23 con presentazione almeno30giorni prima. Fonti: [ufficiale1](https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Apresidente.repubblica%3Adecreto%3A2001%3B380~art20=), [ufficiale2](https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.della.repubblica%3A2001-06-06%3B380~art23%21vig=)"
+    },
+    {
+      "id": "V02-20",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md"
+      ],
+      "proposal": "Aggiungere almeno determina completa fittizia, elaborato regionale, verbale CdS/689 e annotazione PG; simulazione con dossier, quiz, risposta breve, caso, orale e rubriche ancorate a soluzioni."
+    },
+    {
+      "id": "V02-21",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md"
+      ],
+      "proposal": "Scheda maggioranza assoluta, due deliberazioni a distanza≥2mesi, ricorso30giorni, referendum3mesi; completare elezione e cessazione organi con rinvio puntuale. Fonti: [ufficiale1](https://www.senato.it/istituzione/la-costituzione/parte-ii/titolo-v/articolo-123)"
+    },
+    {
+      "id": "V02-22",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md"
+      ],
+      "proposal": "Inserire classificazione esemplificata117, scheda sostituzione Governo e sistema conferenze distinguendo composizione/funzione."
+    },
+    {
+      "id": "V02-24",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md"
+      ],
+      "proposal": "Definire liquidazione come determinazione della somma certa e liquida su documenti/verifiche, poi ordinazione e pagamento; aggiungere calendario DEFR/bilancio/assestamento/rendiconto/consolidato. Fonti: [ufficiale1](https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/ARCONET/Normativa/Dlgs_118-2011_coordinato_con_il_Dlgs_126-2014.pdf)"
+    },
+    {
+      "id": "V02-25",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md"
+      ],
+      "proposal": "Ripristinare D=Diario e O=Output; correggere il paragrafo che attribuisce l’output alla faseD."
+    },
+    {
+      "id": "V02-26",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md"
+      ],
+      "proposal": "Inserire ipotesi esplicite e campi di quantificazione/copertura; non trattare limite annuo come copertura universale; aggiungere dies a quo e a decorrere dalla data."
+    },
+    {
+      "id": "V02-27",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md"
+      ],
+      "proposal": "Citare regolamenti2021/1060,1058,1057,1056,1059; spiegare costi reali vs opzioni semplificate e controlli; dare rinvio puntuale per aiuti e audit avanzati. Fonti: [ufficiale1](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=OJ%3AC_202407467)"
+    },
+    {
+      "id": "V02-28",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md"
+      ],
+      "proposal": "Distinguere amministrazioni centrali titolari da soggetti attuatori/regionali e deleghe; qualificare eventuali casi particolari con atto specifico. Fonti: [ufficiale1](https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/CIRCOLARI/2022/09/Allegato-alla-Circolare-del-10-febbraio-2022-n-9-Istruzioni-Tecniche-Sigeco-PNRR.pdf), [ufficiale2](https://www.regione.piemonte.it/web/temi/piano-nazionale-ripresa-resilienza/cose-pnrr)"
+    },
+    {
+      "id": "V02-30",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md"
+      ],
+      "proposal": "Insegnare elezione indiretta, presidente4anni/consiglio2anni, composizione e assemblea; distinguere discipline speciali e proposte di riforma dalla norma vigente."
+    },
+    {
+      "id": "V02-31",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md"
+      ],
+      "proposal": "Spostare nomina all’avvio dell’intervento secondo art.15 D.Lgs.36/2023, prima delle attività da presidiare; distinguere programmazione/progettazione/approvazione."
+    },
+    {
+      "id": "V02-32",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md"
+      ],
+      "proposal": "Aggiungere riparto Comuni/Province e scheda vincolo/dichiarazionePU/decreto/esecuzione; rinvio preciso verificato all’approfondimento tecnico per ulteriori dettagli."
+    },
+    {
+      "id": "V02-33",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md"
+      ],
+      "proposal": "Definire rischio operativo, influenza determinante e altri requisiti in house; delimitare campo D201/2022; inserire ricognizione/relazioni e revisione partecipate con termine ordinario."
+    },
+    {
+      "id": "V02-35",
+      "files": [
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md"
+      ],
+      "proposal": "Tabella sezioni/soggetti/effetti con eccezioni, caso opponibilità, flusso ComUnica e distinzione certificati verso privati/PA; rinvio verificato per contenzioso. Fonti: [ufficiale1](https://www.registroimprese.it/l-anagrafe-nazionale-delle-imprese), [ufficiale2](https://www.rm.camcom.it/canali-menu/servizi/registro-imprese-visure-certificazioni/registro-imprese/pagina3518.html)"
+    },
+    {
+      "id": "V02-36",
+      "files": [
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md"
+      ],
+      "proposal": "Eliminare frase interna; sviluppare DM93/2017 ruoli verificazione/vigilanza/titolare, accordo di mediazione vs lodo, scheda protesti e rimedi essenziali."
+    },
+    {
+      "id": "V02-37",
+      "files": [
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md"
+      ],
+      "proposal": "Distinguere quattro organi L580art9 dal segretario generale; tabella poteri/designazione/durata e rinvio contrattuale aggiornato e puntuale."
+    },
+    {
+      "id": "V02-39",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md"
+      ],
+      "proposal": "Completare art.57CPP condizione di servizio, requisitiPS L65art5c2 e missioni art4; rinviare a cap07 per dipendenza funzionaleAG."
+    },
+    {
+      "id": "V02-40",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md"
+      ],
+      "proposal": "Aggiungere nuclei regole/comportamenti e conseguenze, gerarchia segnaletica, patente/documenti, guida alcol/stupefacenti con versione vigente; non sostituire la teoria con avviso aggiornamento."
+    },
+    {
+      "id": "V02-41",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md"
+      ],
+      "proposal": "Tabella datata: notifica ordinaria90, solidale dopo immediata100, estero360; pagamento60/sconto30%entro5 con esclusioni; ricorsoPrefetto60 e giudice secondo disciplina richiamata; esempi di decorrenza e scelta rimedio. Fonti: [ufficiale1](https://aci.gov.it/codice-della-strada/art-201/), [ufficiale2](https://aci.gov.it/codice-della-strada/art-202/), [ufficiale3](https://aci.gov.it/codice-della-strada/art-203/), [ufficiale4](https://aci.gov.it/codice-della-strada/art-204-bis/)"
+    },
+    {
+      "id": "V02-42",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md"
+      ],
+      "proposal": "Integrare notifica anche dopo contestazione al conducente nei casi art201; distinguere motivazione della mancata contestazione e ipotesi tipizzate c1bis/1ter. Fonti: [ufficiale1](https://aci.gov.it/codice-della-strada/art-201/)"
+    },
+    {
+      "id": "V02-43",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md"
+      ],
+      "proposal": "Insegnare artt2/3/6/14/16/18/28: condizioni,90/360giorni,60giorni e minore tra un terzo massimo/doppio minimo,30giorni memorie,5anni prescrizione; opposizione D150art6 e ordinanza esemplificata."
+    },
+    {
+      "id": "V02-44",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md"
+      ],
+      "proposal": "Tabella per349/350/351/354/355CPP: soggetto, presupposto, difesa, termine/convalida; distinguere urgenze della CNR347; aggiungere annotazione didattica completa."
+    },
+    {
+      "id": "V02-45",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md"
+      ],
+      "proposal": "Schede autorizzazioni/requisiti/prescrizioni/revoca, spettacoli e poteriQuestore; autorità localePS nei casi previsti; minimi D286 su soggiorno/obblighi/raccordo e garanzie senza estendere indebitamente i poteriPL."
+    },
+    {
+      "id": "V02-46",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md"
+      ],
+      "proposal": "Aggiungere presupposti, competenza, durata e tutela nella versione verificata; distinguere ordinanze ordinarie e contingibili/urgenti nel box sul pericolo."
+    },
+    {
+      "id": "V02-47",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md"
+      ],
+      "proposal": "Tabella categorie/requisiti D59art71 e disciplina territoriale; SCIA unica/condizionata art19bis e D222; qualificare il silenzio-assenso dove ammesso, senza generalizzarlo."
+    },
+    {
+      "id": "V02-48",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md"
+      ],
+      "proposal": "Scheda sospensione45giorni, demolizione/acquisizione e relativo procedimento, comunicazioni27c4, fattispecie44; inquadrare34bis/36bis senza promettere consulenza tecnica; rinvio nominativoVOL10."
+    },
+    {
+      "id": "V02-49",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md"
+      ],
+      "proposal": "Integrare mappa aggiornata255/255bis/255ter e fattispecie amministrative residue; responsabilità proprietario con dolo/colpa ex192, autorità e ordine di rimozione. Verificare ogni ramo sul testo vigente. Fonti: [ufficiale1](https://www.gazzettaufficiale.it/eli/gu/2025/10/07/233/sg/pdf), [ufficiale2](https://www.conferenzastatocitta.gov.it/home/approfondimenti/tematiche-di-interesse/la-riforma-del-sistema-rifiuti-e-la-governance-locale/le-novita-di-diretto-interesse-per-gli-enti-locali/)"
+    },
+    {
+      "id": "V02-FM2",
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/04-sommario.md"
+      ],
+      "proposal": "Allineare promessa e contenuto completando la simulazione come V02-20."
+    },
+    {
+      "id": "V02-01",
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md"
+      ],
+      "proposal": "Sostituire con descrizione attuale del percorso camerale e dei suoi destinatari."
+    },
+    {
+      "id": "V02-02",
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/03-piano-30-60-90-giorni-vol-02.md",
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md"
+      ],
+      "proposal": "Indicare norma o fonte ufficiale puntuale, oppure capitolo e paragrafo consultabili."
+    },
+    {
+      "id": "V02-03",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md"
+      ],
+      "proposal": "Separare presidenza della Giunta e del Consiglio; citare art.54 per il sindaco ufficiale del Governo."
+    },
+    {
+      "id": "V02-07",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md"
+      ],
+      "proposal": "Esplicitare divieto di pubblicare identificativi nei casi art.26c4 D.Lgs.33/2013; distinguere comunicazione al beneficiario e pubblicazione."
+    },
+    {
+      "id": "V02-08",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md"
+      ],
+      "proposal": "Distinguere efficacia e valore probatorio ex CAD20/22/23 da obblighi organizzativi di gestione e conservazione; definire documento informatico."
+    },
+    {
+      "id": "V02-12",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md"
+      ],
+      "proposal": "Indicare DL80/2021 art.6 e attuazione2022; confrontare le locuzioni meno di50 del DM132 e non più di50 del DPR81, esplicitando il caso di50 con fonte interpretativa invece di lasciarlo irrisolto. Fonti: [ufficiale1](https://funzionepubblica.gov.it/it/il-dipartimento/documentazione/autorizzazioni-a-bandire-e-ad-assumere/2023/versione-testuale/dpcm-11-maggio-2023/)"
+    },
+    {
+      "id": "V02-15",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md"
+      ],
+      "proposal": "Aggiornare oggetto dei bandi lavori, evitando soglie desunte dalla notizia2023; inserire raccordo concreto con art.192 TUEL e capitolo base. Fonti: [ufficiale1](https://www.consip.it/notizie-e-comunicati/lofferta-per-i-lavori-pubblici-sui-mercati-telematici-consip)"
+    },
+    {
+      "id": "V02-18",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md"
+      ],
+      "proposal": "Aggiungere biforcazione intervento ordinario/somma urgenza art.140 D.Lgs.36 e art.191c3 TUEL con condizioni, competenze e copertura."
+    },
+    {
+      "id": "V02-19",
+      "files": [
+        "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md"
+      ],
+      "proposal": "Portare tutte le fasce nel dominio0–16; rinviare alla programmazione cap09; bando normativo→quadro normativo; RUP o responsabile progetto→RUP."
+    },
+    {
+      "id": "V02-23",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md"
+      ],
+      "proposal": "Fornire sequenza esplicita subordinando liquidazione ai presupposti verificati; uniformare imperativi indica/distingui/individua."
+    },
+    {
+      "id": "V02-29",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md"
+      ],
+      "proposal": "Riformulare Q6 sulla stessa spesa; inserire Reg2021/241, tassonomia2020/852, circolare/guida DNSH vigente e calendario RRF con data di verifica."
+    },
+    {
+      "id": "V02-34",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md"
+      ],
+      "proposal": "Dichiarare espressamente ipotesi PNRR oppure offrire rami coesione/PNRR con strumenti appropriati."
+    },
+    {
+      "id": "V02-38",
+      "files": [
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md"
+      ],
+      "proposal": "Citare ente/data/profilo/ID o qualificare caso composito; esplicitare i due regimi nel caso camerale."
+    },
+    {
+      "id": "V02-50",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md"
+      ],
+      "proposal": "Aggiungere scenario con croquis, quote e fonti dichiarate, distinguendo dichiarato/accertato; raccordare lesioni/omicidio stradale e guida alterata ai presupposti vigenti."
+    },
+    {
+      "id": "V02-51",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md"
+      ],
+      "proposal": "Integrare orario/riposi e rapporto comandante-sindaco L65art9; sostituire distrattori con errori plausibili. Date CCNL23feb2026 confermate, non correggerle. Fonti: [ufficiale1](https://www.aranagenzia.it/novita/ccnl-comparto-funzioni-locali-triennio-2022-2024/), [ufficiale2](https://www.aranagenzia.it/novita/sottoscritto-il-ccnl-dellarea-funzioni-locali-triennio-2022-2024/)"
+    },
+    {
+      "id": "V02-52",
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/chapters/51-conclusione-vol-02.md"
+      ],
+      "proposal": "Scrivere51capitoli oppure46capitoli specialistici più percorso introduttivo, simulazione e conclusione."
+    },
+    {
+      "id": "V02-FM1",
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/05-premessa.md"
+      ],
+      "proposal": "Presentare direttamente i destinatari camerali e il modulo attuale."
+    },
+    {
+      "id": "V02-FM3",
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md"
+      ],
+      "proposal": "Riconciliare pianificazione51capitoli conFL03=30–34,FL04=35–49; verificare effettivo indice esportato."
+    },
+    {
+      "id": "V02-FM4",
+      "files": [
+        "wiki/books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare.md"
+      ],
+      "proposal": "Aggiornare entrambi i sommari sorgente; eliminare stato di lavorazione dall’eventuale corpo esportato dopo il controllo renderer."
+    },
+    {
+      "id": "V02-53",
+      "files": [
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+        "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+        "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md"
+      ],
+      "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa."
+    },
+    {
+      "id": "V02-54",
+      "files": [
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+        "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md"
+      ],
+      "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri."
+    }
+  ],
+  "productionReport": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-02.md",
+  "proofs": [
+    {
+      "id": "tomo-1",
+      "pdf": "tomo-1\\vol-02-tomo-1-proof.pdf",
+      "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+      "pages": 700,
+      "indexEntries": 177
+    },
+    {
+      "id": "tomo-2",
+      "pdf": "tomo-2\\vol-02-tomo-2-proof.pdf",
+      "sha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+      "pages": 268,
+      "indexEntries": 95
+    }
+  ],
+  "openDependencies": [
+    "Common digital services and editorial metadata",
+    "Formal gates21-23 after common dependency, signoff24",
+    "External print preview/covers"
+  ]
+}

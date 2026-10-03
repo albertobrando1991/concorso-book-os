@@ -46,3 +46,8 @@ Nel Metodo BANDO questo topic sostiene:
 ## Stato revisione
 
 Topic pronto per uso editoriale. Prima della pubblicazione finale verificare che le tabelle siano impaginabili come pagine workbook.
+
+
+## Calendari e perimetro del 3 ottobre 2026
+
+[[sources/vol-01-esempi-logica-inglese-metodo-2026-10-02]] documenta i giorni residui dei piani, le quattro dimensioni della classificazione delle materie e la selezione di 13 mappe sulle 15 famiglie. Corrette promesse non documentate; controllo PDF ancora aperto.

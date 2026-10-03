@@ -1,64 +1,60 @@
-# Report editoriale — Correzioni M-FL04 Polizia locale
+# Correzioni autorizzate — M-FL04
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: modulo specialistico e workbook per concorsi di Polizia locale.
-- Pubblico target: agenti, istruttori, ufficiali, funzionari e comandanti.
-- Perimetro di questa revisione: correzioni conseguenti al report trasversale dello step 13.
-- Stato generale in una frase: tutte le correzioni editoriali accertate sono applicate; resta aperto soltanto l'audit specialistico V13-01 dello step 15.
+Applicati i rilievi V02-39–51 e le parti PL di V02-17/20/38/53/54 nei quindici capitoli. Il laboratorio contiene due elaborati svolti, il capitolo sinistri un croquis misurato e un caso penale risolto. Il V02-20 conserva il separato intervento sulla simulazione50.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 1, 2, 4-8, 12, 15, 18, 20, 23-26, 28 e 30, pertinenti alle correzioni documentali richieste. Il punto 27 non è applicabile perché non è disponibile un PDF impaginato. Gli altri punti erano già verificati nello step 13 e non sono stati modificati.
+Contenuti, norme, completezza delle integrazioni, esempi, soluzioni, coerenza terminologica, rinvii, lingua e formato quiz. Humanizer dei passaggi modificati: eliminati attribuzioni vaghe, formule prive di istruttoria e distrattori assurdi. Layout PDF non incluso in questo gate.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-| --- | --- | --- | --- | --- | --- | --- |
-| E13-01 | `index.md`, metadati e Note di review | Coerenza documentale | Media | Stato e nota erano anteriori al completamento dei quindici capitoli. | Allineare metadati e nota alla revisione trasversale conclusa. | Risolto |
-| E13-02 | `planning/09-bibbia-del-modulo.md` | Coerenza terminologica | Lieve | Mancava la Bibbia editoriale del modulo. | Creare Bibbia con promessa, architettura, terminologia, confini e audit. | Risolto |
-| V13-01 | Intero modulo | Accuratezza normativa | Lieve | Restano controlli di vigenza, territorialità, modulistica e protocolli. | Eseguire il pacchetto di audit specialistico nello step 15. | Da verificare |
-
-### Registro delle correzioni
-
-| ID | File modificato | Correzione | Fonte/evidenza | Stato finale |
-| --- | --- | --- | --- | --- |
-| E13-01 | `wiki/books/moduli/m-fl04-polizia-locale/index.md` | Aggiornati stato, fase, tag, data e nota di revisione sui quindici capitoli. | Run-state VOL-02; quindici capitoli Formato 2; report step 13. | Risolto |
-| E13-02 | `wiki/books/moduli/m-fl04-polizia-locale/planning/09-bibbia-del-modulo.md` | Creata Bibbia trasversale con terminologia e confini. | Indice, matrice, capitoli 01-15 e report individuali. | Risolto |
-| V13-01 | Nessun testo modificato | Voce mantenuta aperta e instradata allo step 15; non è un errore fattuale già verificato. | Report step 12 e 13. | Da verificare |
+|---|---|---|---|---|---|---|
+| V02-39 | 03 | Norme/didattica/forma | Grave | L.65 artt.3–5/9 e CPP57 letti; caso rinforzo/flagranza; rinvio nominativo al capitolo PG. | Condizione di servizio e territorio ex art. 57; requisiti PS, perdita della qualità, dipendenza operativa e missioni esterne tipizzate. | Applicato nel modulo; audit15 successivo |
+| V02-40 | 04 | Norme/didattica/forma | Grave | Fonte vigente consolidata; casi numerici0,8/1,1 e tasso zero; quiz4/5 risolti; distinzione misure su veicolo e patente. | Regole stradali, segnaletica, documenti/revisione/assicurazione, fasce alcol e art.187 interpretato da Corte10/2026, riforma2024 e sospensione breve. | Applicato nel modulo; audit15 successivo |
+| V02-41 | 05 | Norme/didattica/forma | Grave | Artt.201–204bis e D1507 vigenti; calcolo100→70; caso ricorso al giorno40. | Termini 90/100/360, pagamento 60 e sconto entro5, rimedi prefetto60/GdP30–60, titolo esecutivo e casi. | Applicato nel modulo; audit15 successivo |
+| V02-42 | 05 | Norme/didattica/forma | Grave | Art.201 commi1/1bis/1ter; esempio società proprietaria non presente. | Notifica solidale anche dopo contestazione al conducente; distinti casi tipizzati e impedimento motivato. | Applicato nel modulo; audit15 successivo |
+| V02-43 | 06 | Norme/didattica/forma | Grave | L6892/3/6/28 e nota14/16/18; D1506; calcoli800/1000 e distinzione ordinanza400. | Responsabilità personale/solidale, termini, formula, prescrizione, opposizione e ordinanza didattica con motivazione e rimedi. | Applicato nel modulo; audit15 successivo |
+| V02-44 | 07 | Norme/didattica/forma | Grave | Quattordici articoli processuali letti integralmente; tabella e caso temporale 48+48; sei quiz con quattro opzioni. | Presupposti, soggetti, difesa e termini artt.349/350/351/354/355; CNR ordinaria e urgente; annotazione completa con attività e fonti distinte. | Applicato nel modulo; audit15 successivo |
+| V02-45 | 08 | Norme/didattica/forma | Grave | Articoli letti e fonte consolidata; casi concerto1500 e ricevuta rinnovo; sei quiz A–D. | TULPS8–11/68–69/80/100, autorità locale PS, spettacoli200/2000, soggiorno aggiornato90giorni e garanzie. | Applicato nel modulo; audit15 successivo |
+| V02-46 | 09 | Norme/didattica/forma | Grave | Artt.9/10 correnti e CPA29; caso allontanamento ore18; esclusa convalidaabrogata; quiz6 concreto. | MisureDL14 con presupposti, competenza,48ore/12–24mesi, zone2026, rimedi e distinzione ordinanze. | Applicato nel modulo; audit15 successivo |
+| V02-47 | 10 | Norme/didattica/forma | Grave | D59 artt64/65/71 e L24119bis/20 correnti; TabellaA pagine pertinenti e schede DFP; caso preposto e concentrazione. | Categorie commerciali, requisiti morali/professionali, SCIA unica/condizionata e autorizzazione anche tacita. | Applicato nel modulo; audit15 successivo |
+| V02-48 | 11 | Norme/didattica/forma | Grave | DPR38027/31/44; fonteVOL10 per20/34bis/36bis; casi termini e costruzione senza permesso; rinvio nominativo. | Titoli/silenzio, sospensione45, comunicazioni27, demolizione90/proroga240, acquisizione, sanatorie e ramo44. | Applicato nel modulo; audit15 successivo |
+| V02-49 | 12 | Norme/didattica/forma | Grave | Articoli correnti letti; casi mobile, cassonetto, mozzicone e proprietario; CNR anche contro ignoti; refuso area rimossa corretto. | Mappa255/255bis/255ter, residui amministrativi, art192 responsabilità soggettiva proprietario e ordine ripristinatorio. | Applicato nel modulo; audit15 successivo |
+| V02-50 | 13 | Norme/didattica/forma | Media | Art189, CP589bis/590bis integralmente letti; distinte fonti misurate/dichiarate, querela/aggravanti e art187. | Rilievo metrico con croquis, coordinate e controlli; lesioni/omicidio e caso penale aggravato risolto. | Applicato nel modulo; audit15 successivo |
+| V02-51 | 14 | Norme/didattica/forma | Media | CCNL22–26 letti; D662/4/7/8/9; caso intervallo7ore e correzione11; distinta esclusione attività operative. | Regole CCNL23feb2026, turni/riposi, art9L65; sei quiz sostituiti con distrattori plausibili. | Applicato nel modulo; audit15 successivo |
+| V02-17 | 11 | Norme/didattica/forma | Grave | Fonte e topic dedicati; esempio assensi già validi. Resta applicazione FL04/11. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Titolo espresso/silenzio-assenso, SCIA22 e alternativa23 distinti; integrazione L182/2025 sui vincoli. Permesso espresso/tacito; SCIA ordinaria e alternativa trenta giorni; assensi vincolistici e rinvio preciso a VOL10. | Applicato nel modulo; audit15 successivo |
+| V02-20 | 15 | Norme/didattica/forma | Grave | Calcolo6000+1320=7320 e residuo2680; RUPprimoatto, contratto dopo efficacia, verifica prima liquidazione. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01.; Contributo48000×80%=38400, anticipo16000, saldo22400 e riduzione1600 già disposta dopo contraddittorio. Pagamento200/difese30gg, qualificazione rifiuto255 e CNR distinta; dati e norma settoriale didattica espressamente fittizi. | Determina completa fittizia con dossier, istruttoria, dispositivo, visto e correzione ancorata ai dati; restano laboratori regionali/PL e simulazione finale.; M-FL02/12: elaborato completo di liquidazione regionale con traccia, calcoli, premesse, dispositivo e griglia20punti. Laboratorio FL04: verbale L689 completo e annotazione PG svolta. | Applicato nel modulo; audit15 successivo |
+| V02-38 | 01 | Norme/didattica/forma | Grave | Letti integralmente cap. 01 e 05 correnti; cap. 04 già letto; nessun interesse qualificato imposto alla visura pubblica. Resta parte FL04/01. | Esempi camerali dichiarati compositi; distinta pubblicità del Registro da accesso al fascicolo istruttorio; variante risolta del caso di laboratorio. Esempi di bando PL dichiarati compositi; eliminata attribuzione generica al campione ufficiale. Anche esempio introduttivo del cap02 dichiarato didattico. | Applicato nel modulo; audit15 successivo |
+| V02-53 | 01, 12 | Norme/didattica/forma | Lieve | Rilettura dei passaggi corretti e ricerca delle forme errate. | Microcorrezioni dei refusi segnalati nei moduli FL02 e FL03 applicate durante i relativi interventi. Corretto lavorerà; riesaminato anche rifiuti rimossi nel cap12. | Applicato nel modulo; audit15 successivo |
+| V02-54 | 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15 | Norme/didattica/forma | Lieve | Quiz03–15 riesaminati durante interventi; opzioni inline separate; 13C/D e 11D corretti. | Uniformate quattro alternative e separazione a paragrafi; titoli Quiz, punteggiatura e distrattori nei capitoli indicati. | Applicato nel modulo; audit15 successivo |
 
 ## 4. Osservazioni per capitolo
 
-### Capitoli 01-15
-
-- Punti di forza: nessun capitolo richiede correzioni conseguenti allo step 13.
-- Criticità: le verifiche normative e territoriali sono aggregate in V13-01.
-- Controlli ripetuti: non necessari, poiché le correzioni hanno interessato soltanto indice e Bibbia, senza cambiare passaggi didattici.
+01–02 esempi didattici e numerazione; 03 qualifiche/territorio; 04 circolazione e conseguenze; 05 termini/ricorsi; 06 soggetti, pagamento e opposizione; 07 atti/garanzie PG; 08 autorità PS, eventi e immigrazione; 09 ordinanze e allontanamenti; 10 categorie/requisiti/regimi; 11 titoli e repressione; 12 rifiuti vigenti/ripristino; 13 quote e ramo penale; 14 CCNL e comando; 15 atti svolti.
 
 ## 5. Coerenza globale
 
-- Terminologia: fissata dalla Bibbia del Modulo.
-- Struttura vs indice: coerente.
-- Promesse dell'introduzione: mantenute.
-- Matrice e frontmatter: nessuna modifica necessaria; gli stati completi restano veritieri.
+Numerazione volume35–49. Rinvio VOL10 al titolo effettivo Urbanistica e governo del territorio. L689/CdS, CNR/annotazione, art187/aggravanti di evento, autorizzazione/SCIA e esclusioneD66/CCNL restano distinti.
 
 ## 6. Contenuto da verificare
 
-Resta la sola voce V13-01: fonti nazionali e settoriali vigenti, variabili regionali e locali, CCNL, modulistica, protocolli e direttive territoriali.
+Eseguire gate15 sul testo corretto. Fonti e ambiti di lettura nel manifest M-FL04-source-review.json; limiti parziali di art116CdS, art5D286, CCNL e TabellaA espliciti. Nessuna copia incongrua impiegata come prova.
 
 ## 7. Suggerimenti facoltativi (non errori)
 
-Nessun suggerimento del report step 13 è stato applicato come correzione obbligatoria.
+Nessun catalogo esaustivo di regole regionali: gli esempi sono territorialmente delimitati.
 
 ## 8. Priorità degli interventi
 
-1. Eseguire lo step 15 e chiudere V13-01 con evidenze automatiche.
-2. Procedere al text freeze solo dopo l'esito positivo dell'audit.
+Audit specialistico15, freeze16; simulazione/apparati del volume e nuova produzione.
 
 ## 9. Giudizio di pubblicabilità
 
-**Pubblicabile con correzioni minori.** Le correzioni editoriali sono concluse. La pubblicabilità definitiva resta subordinata all'audit specialistico e ai gate successivi.
+Modulo corretto nel perimetro dei rilievi, da sottoporre al gate15. Nessuna attestazione di pubblicabilità del volume: apparati e nuova prova PDF sono ancora aperti.
 
 ## 10. Limiti di questa revisione
 
-Non sono state svolte nello step 14 nuove verifiche normative esterne né ispezioni del PDF. La voce V13-01 appartiene espressamente allo step 15.
+Audit storico integrale conservato; in questa fase rilettura dei passaggi interessati e delle integrazioni, senza dichiarare una seconda lettura integrale di ogni pagina immutata. Fonti verificate per gli articoli e le pagine documentati. PDF non ancora rigenerato né verificato.

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Il minimo efficace</title>
+  <desc id="desc">Nei giorni difficili basta mantenere vivo il filo del metodo.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Il minimo efficace</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Nei giorni difficili basta mantenere vivo il filo del metodo.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="455 220 690 150 8">
+    <rect x="455" y="220" width="690" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="455" y="220" width="690" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="272" text-anchor="middle">Domanda giusta</text>
+    <text class="small" x="800" y="302" text-anchor="middle">qual e' il minimo che mantiene vivo il metodo?</text>
+  </g>
+    <g data-safe-box="125 375 240 205 8">
+    <rect x="125" y="375" width="240" height="205" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <text class="label" style="fill:#2F7D5A" x="245" y="453" text-anchor="middle">10 minuti</text>
+    <text class="small strong" x="245" y="505" text-anchor="middle">Diario errori</text>
+  </g>
+<g data-safe-box="410 375 240 205 8">
+    <rect x="410" y="375" width="240" height="205" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <text class="label" style="fill:#2F7D5A" x="530" y="453" text-anchor="middle">5 schede</text>
+    <text class="small strong" x="530" y="505" text-anchor="middle">flashcard mirate</text>
+  </g>
+<g data-safe-box="695 375 240 205 8">
+    <rect x="695" y="375" width="240" height="205" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <text class="label" style="fill:#2F7D5A" x="815" y="453" text-anchor="middle">1 risposta</text>
+    <text class="small strong" x="815" y="505" text-anchor="middle">orale registrato</text>
+  </g>
+<g data-safe-box="980 375 240 205 8">
+    <rect x="980" y="375" width="240" height="205" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <text class="label" style="fill:#2F7D5A" x="1100" y="453" text-anchor="middle">10 quiz</text>
+    <text class="small strong" x="1100" y="505" text-anchor="middle">domande brevi</text>
+  </g>
+<g data-safe-box="1265 375 240 205 8">
+    <rect x="1265" y="375" width="240" height="205" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <text class="label" style="fill:#2F7D5A" x="1385" y="453" text-anchor="middle">1 scelta</text>
+    <text class="small strong" x="1385" y="505" text-anchor="middle">priorita domani</text>
+  </g>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Il minimo efficace non sostituisce lo studio pieno: impedisce l'uscita dal sistema.</text>
+  </g>
+
+</svg>

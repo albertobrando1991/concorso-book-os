@@ -23,7 +23,7 @@ source_refs: [
 ]
 book_refs: ["il-metodo-bando", "moduli-specialistici"]
 confidence: 0.86
-updated_at: 2026-08-22T14:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -102,4 +102,4 @@ Appendici. [[books/moduli/m-fc01-ministeri/chapters/15-appendici-operative|Appen
 Le fonti grezze del modulo sono in `wiki/raw/m-fc01-ministeri/`: dossier utente, Normattiva, Governo/PCM, ARAN, Avvocatura, RGS Conto annuale, inPA, Formez, PIAO DFP, ANAC e AgID.
 
 ## Prossimo passo
-Scrivere i capitoli in sequenza con Manual Writer Agent usando questo modulo come `book_id`, il libro principale come base, il ricettario digitale come laboratorio operativo e le source notes M-FC01 come vincolo di tracciabilità.
+Il testo è congelato al 3 ottobre 2026. Restano verifica delle figure, PDF candidato, preflight e chiusura della pipeline di volume.

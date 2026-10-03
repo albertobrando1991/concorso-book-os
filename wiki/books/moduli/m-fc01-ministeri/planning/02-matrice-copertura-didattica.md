@@ -9,7 +9,7 @@ entities: [Ministeri, Presidenza del Consiglio dei ministri, Avvocatura dello St
 source_refs: [m-fc01-dossier-redazionale-ministeri-pcm-avvocatura, metodo-bando-progetto-editoriale]
 book_refs: [m-fc01-ministeri, il-metodo-bando]
 confidence: 0.86
-updated_at: 2026-08-22T14:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-08-04
 review_required: false
 canonical: false
@@ -317,7 +317,7 @@ Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati 
 
 | Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| N-FC01-15-01 | ✓ 35 definizioni | ✓ richiamare | ✓ M-FC01 | ✓ voci e coppie | ✓ concetti contigui | ✓ uso corretto | ✓ esempi | ✓ orale/quiz | ✓ recitazione | ✓ esercizio | ✓ frontmatter |
+| N-FC01-15-01 | ✓ definizioni integrate con competenza finanziaria, cassa e residui | ✓ richiamare | ✓ M-FC01 | ✓ voci e coppie | ✓ concetti contigui | ✓ uso corretto | ✓ esempi | ✓ orale/quiz | ✓ recitazione | ✓ esercizio | ✓ frontmatter |
 | N-FC01-15-02 | ✓ tabelle | ✓ confrontare | ✓ istituzioni e flussi | ✓ cinque schemi | ✓ identità/funzione | ✓ verifica fonte | ✓ pratica errata | ✓ caso/orale | ✓ gerarchia assoluta | ✓ applicazione | ✓ fonti leggibili |
 | N-FC01-15-03 | ✓ Decoder | ✓ decidere | ✓ bando M-FC01 | ✓ dodici campi | ✓ dato/conseguenza | ✓ piano aggiornato | ✓ multi-profilo | ✓ scheda | ✓ sola lettura materie | ✓ esercizio | ✓ frontmatter |
 | N-FC01-15-04 | ✓ checklist/rubrica | ✓ controllare output | ✓ domanda e prove | ✓ quattro checklist e sei passaggi | ✓ spunta/evidenza | ✓ correzione | ✓ caso integrato | ✓ orale/caso | ✓ rituale | ✓ rubrica | ✓ CCNL dichiarato |
@@ -332,3 +332,22 @@ Audit iniziale del testo reale dei quindici file numerati del modulo. Gli stati 
 | N-FC01-15-03 | mancante | Creato Decoder compilabile | completo | nucleo 03 |
 | N-FC01-15-04 | mancante | Sviluppate checklist, schema e rubrica | completo | nucleo 04 |
 | N-FC01-15-05 | mancante | Create 100 domande originali e verifica | completo | nucleo 05; verifica finale |
+
+## Delta della revisione integrale del 3 ottobre 2026
+
+Il censimento storico è conservato. Le integrazioni correnti correggono le lacune dell’audit integrale; i relativi stati sono documentati nei rapporti 14 e 15 correnti. Non è una nuova attestazione di pubblicabilità del PDF.
+
+| ID | Collocazione | Integrazione verificabile | Verifica | Stato |
+| --- | --- | --- | --- | --- |
+| V03-003 | fc01/09, Nucleo gestione; definizione residui | FC01/09: residui attivi statali da riscuotere e da versare; caso 100/80/60 = 40. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-033 | fc01/03, Aree e profili | FC01/03: quattro aree, declaratorie essenziali e requisiti di base. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-034 | fc01/05, Segretario generale e strutture missione | FC01/05: responsabilità del Segretario, autonomia contabile e limite di durata delle missioni. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-035 | fc01/06, Modelli organizzativi | FC01/06: Segretario generale e incompatibilità con modello dipartimentale, con verifica applicativa. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-036 | fc01/07, Patrocinio; generale/distrettuali | FC01/07: patrocinio obbligatorio/autorizzato, competenza generale/distrettuale e foro dello Stato. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-037 | fc01/08, Struttura PIAO | FC01/08: quattro sezioni formali PIAO, durata, aggiornamento, ruoli e pubblicazione. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-038 | fc01/09, Ciclo statale e controlli | FC01/09: due sezioni del bilancio, unità di voto, PSBMT/DFP/DPFP/DBP, due conti e parificazione. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-039 | fc01/10, Acquisti ministeriali | FC01/10: obblighi Consip/MePA, distinzione da procedura e digitale, caso e rinvii precisi al core. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-040 | fc01/12, Ordine illegittimo; conflitto | FC01/12: rimostranza, rinnovo scritto, eccezioni penale/amministrativa; astensione e casi. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-046 | fc 01/*, Mappe BANDO cap 09/11/12 | FC01/09/11/12: espansione canonica Bando, Aree, Nuclei, Diario, Output. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-048 | fc 01/*, Quiz/simulazioni soprattutto 10–14 | FC01/08–15: 60 quiz riscritti, chiavi bilanciate e soluzioni separate; commenti allineati. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |
+| V03-050 | fc01/15, Glossario e apparati | FC01/15: cinque tabelle, organo/ente, competenza finanziaria/cassa/residui e 100 criteri di correzione. | caso, domanda o batteria commentata nel capitolo | integrato, audit 15 corrente |

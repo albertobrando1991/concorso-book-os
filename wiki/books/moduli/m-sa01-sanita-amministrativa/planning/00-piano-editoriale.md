@@ -9,7 +9,7 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026","sources/ssn-organizzazione-aziende-standard-lea","sources/ccnl-comparto-sanita-2022-2024","sources/documentazione-sanitaria-accesso-fse-dossier-privacy","sources/contabilita-budget-aziende-sanitarie","sources/procurement-farmaci-dispositivi-flussi-nsis"]
 book_refs: ["m-sa01-sanita-amministrativa","il-metodo-bando","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.88
-updated_at: 2026-08-04T00:00:00+02:00
+updated_at: 2026-10-02
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -33,7 +33,7 @@ Candidato che prepara prove scritte, orali o teorico-pratiche per ruoli amminist
 
 ### Struttura canonica
 
-1. Capitolo 04 — Atti, procedimenti e flussi informativi nelle aziende sanitarie.
+1. Capitolo 04 — SSN, aziende sanitarie, atti e flussi informativi.
 2. Capitolo 05 — Documentazione sanitaria, accesso, privacy e conservazione.
 3. Capitolo 06 — Front-office e comunicazione con l'utenza sanitaria.
 4. Capitolo 09 — Contabilità, budget e controllo di gestione nelle aziende sanitarie.
@@ -67,4 +67,4 @@ Atti e procedimenti aziendali; documentazione, accesso e conservazione; front-of
 
 ## Stato editoriale
 
-I cinque capitoli hanno completato gli step 08-12. La revisione trasversale e le correzioni degli step 13-14 hanno allineato indice, piano e Bibbia del Modulo; lo step 15 ha chiuso l'audit automatico normativo, privacy/documentale, contabile e procurement. Non restano errori gravi o medi aperti; il modulo è congelato allo step 16. Ogni modifica sostanziale riapre i gate 10-15.
+I cinque capitoli hanno completato il ciclo storico degli step 08-12. Nel ciclo del 2 ottobre 2026, le integrazioni nazionali dei capitoli 04 e 09 hanno superato correzione e audit specialistico; gli altri tre capitoli conservano l'esito storico al relativo cut-off. Il nuovo manifest dello step 16 identifica il testo consolidato. Non restano errori gravi o medi aperti sulle integrazioni; impaginato e preflight vanno ripetuti. Ogni modifica sostanziale riapre i gate 10-15. Campania e cultura generale restano escluse dall'integrazione corrente.

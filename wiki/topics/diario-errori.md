@@ -70,3 +70,8 @@ Il Capitolo 46 aggiunge il Diario dell'incertezza: distinguere non sapere, non r
 
 ## Delta editoriale 2026-06-19
 Il Capitolo 47 aggiunge il Diario della revisione: registrare gli errori che potevano essere intercettati negli ultimi 60 secondi e trasformarli in una regola 5P.
+
+
+## Correzioni didattiche del 2 ottobre 2026
+
+[[sources/vol-01-esempi-logica-inglese-metodo-2026-10-02]] consolida le correzioni di quiz e possessivi, limiti QCER, condizioni logiche, distribuzione delle ore, punteggio del caso Marta e valore atteso. Applicazione nei rispettivi capitoli del VOL-01; verifica indipendente e grafica ancora aperta.

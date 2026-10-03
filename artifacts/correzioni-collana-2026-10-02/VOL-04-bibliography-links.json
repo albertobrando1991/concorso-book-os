@@ -1,0 +1,123 @@
+{
+  "chapter": "wiki/books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md",
+  "before": "5376073b335f6b46cbe5b751ae27559d9164d58a9dc19ae77a6f99c5396e0c59",
+  "after": "0aabb6f7badd4453f53f043bccf05a875d5cc173d1c0cf13ac035bb005af23be",
+  "links": [
+    {
+      "label": "legge di conversione, GU 8 agosto 2026",
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/08/08/26G00164/SG",
+      "printDomain": "gazzettaufficiale.it"
+    },
+    {
+      "label": "articolazione degli uffici",
+      "url": "https://www.giustizia.it/giustizia/page/it/articolazione_degli_uffici",
+      "printDomain": "giustizia.it"
+    },
+    {
+      "label": "dipartimenti",
+      "url": "https://www.giustizia.it/giustizia/page/it/dipartimenti",
+      "printDomain": "giustizia.it"
+    },
+    {
+      "label": "Testo vigente su Normattiva",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-28;1443",
+      "printDomain": "normattiva.it"
+    },
+    {
+      "label": "Testo vigente su Normattiva",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447",
+      "printDomain": "normattiva.it"
+    },
+    {
+      "label": "Testo unico vigente",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115",
+      "printDomain": "normattiva.it"
+    },
+    {
+      "label": "GU n. 159 dell'11 luglio 2025",
+      "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.codiceRedazionale=25A03904&atto.dataPubblicazioneGazzetta=2025-07-11&tipoSerie=serie_generale&tipoVigenza=originario",
+      "printDomain": "gazzettaufficiale.it"
+    },
+    {
+      "label": "circolare 24 aprile 2025 sul contributo minimo e patrocinio",
+      "url": "https://www.giustizia.it/giustizia/page/it/provvedimento_ministeriale_selezionato?contentId=SDC1454004",
+      "printDomain": "giustizia.it"
+    },
+    {
+      "label": "servizi per liquidazione e SPEdiGIUS",
+      "url": "https://www.giustizia.it/giustizia/page/it/come_fare_per_liquidazioni_spese_giustizia?tab=f",
+      "printDomain": "giustizia.it"
+    },
+    {
+      "label": "Testo unico vigente",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313",
+      "printDomain": "normattiva.it"
+    },
+    {
+      "label": "certificato del datore di lavoro: domande frequenti",
+      "url": "https://www.giustizia.it/giustizia/it/mg_3_3_7.page?tab=f",
+      "printDomain": "giustizia.it"
+    },
+    {
+      "label": "carichi pendenti",
+      "url": "https://www.giustizia.it/giustizia/it/mg_3_3_3.page?tab=w",
+      "printDomain": "giustizia.it"
+    },
+    {
+      "label": "Corte costituzionale n. 3/2010",
+      "url": "https://www.cortecostituzionale.it/scheda-pronuncia/2010/3",
+      "printDomain": "cortecostituzionale.it"
+    },
+    {
+      "label": "Specifiche tecniche del 7 agosto 2024 e rettifiche del 16 settembre e 30 ottobre 2024",
+      "url": "https://pst.giustizia.it/PST/it/paginadettaglio.page?contentId=ACC3429",
+      "printDomain": "pst.giustizia.it"
+    },
+    {
+      "label": "Circolari sull'accettazione automatica",
+      "url": "https://pst.giustizia.it/PST/it/paginadettaglio.page?contentId=ACC3517",
+      "printDomain": "pst.giustizia.it"
+    },
+    {
+      "label": "114/2026",
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/06/30/26G00134/sg",
+      "printDomain": "gazzettaufficiale.it"
+    },
+    {
+      "label": "Rassegna tematica aggiornata al 30 giugno 2025",
+      "url": "https://www.cortedicassazione.it/resources/cms/documents/Rassegna_tematica_aggiornata_al_30_giugno_2025.pdf",
+      "printDomain": "cortedicassazione.it"
+    },
+    {
+      "label": "PST Giustizia",
+      "url": "https://pst.giustizia.it",
+      "printDomain": "pst.giustizia.it"
+    },
+    {
+      "label": "n. 99/2019",
+      "url": "https://www.cortecostituzionale.it/scheda-pronuncia/2019/99",
+      "printDomain": "cortecostituzionale.it"
+    },
+    {
+      "label": "n. 253/2019",
+      "url": "https://www.cortecostituzionale.it/scheda-pronuncia/2019/253",
+      "printDomain": "cortecostituzionale.it"
+    },
+    {
+      "label": "n. 10/2024",
+      "url": "https://www.cortecostituzionale.it/scheda-pronuncia/2024/10",
+      "printDomain": "cortecostituzionale.it"
+    },
+    {
+      "label": "testo della sentenza, traduzione italiana del Ministero su HUDOC",
+      "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?filename=001-116248.pdf&id=001-116248&library=ECHR",
+      "printDomain": "hudoc.echr.coe.int"
+    },
+    {
+      "label": "comunicato stampa coevo",
+      "url": "https://hudoc.echr.coe.int/app/conversion/pdf?filename=Chamber+judgment+Torreggiani+and+Others+v.+Italy+08.01.2013.pdf&id=003-4212710-5000451&library=ECHR",
+      "printDomain": "hudoc.echr.coe.int"
+    }
+  ],
+  "reason": "Bibliografia per stampa: titoli e domini leggibili; URL completi preservati nel registro e nelle source notes."
+}

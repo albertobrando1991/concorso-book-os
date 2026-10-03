@@ -46,3 +46,8 @@ L'inglese concorsuale è l'insieme delle competenze linguistiche minime o interm
 - [[cloze-test-inglese]]
 - [[grammatica-inglese-concorsi]]
 - [[lessico-inglese-pa]]
+
+
+## Correzioni didattiche del 2 ottobre 2026
+
+[[sources/vol-01-esempi-logica-inglese-metodo-2026-10-02]] consolida le correzioni di quiz e possessivi, limiti QCER, condizioni logiche, distribuzione delle ore, punteggio del caso Marta e valore atteso. Applicazione nei rispettivi capitoli del VOL-01; verifica indipendente e grafica ancora aperta.

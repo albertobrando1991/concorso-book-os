@@ -1,0 +1,431 @@
+[
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+    "chapter": 1,
+    "words": 4279,
+    "nuclei": [
+      {
+        "id": "N-IR04-01-01",
+        "words": 942,
+        "heading": "N-IR04-01-01 · Perimetro del Ministero e lettura del bando"
+      },
+      {
+        "id": "N-IR04-01-02",
+        "words": 735,
+        "heading": "N-IR04-01-02 · Organizzazione utile al candidato"
+      },
+      {
+        "id": "N-IR04-01-03",
+        "words": 743,
+        "heading": "N-IR04-01-03 · Architetto e archeologo: tutela, contesto, istruttoria"
+      },
+      {
+        "id": "N-IR04-01-04",
+        "words": 711,
+        "heading": "N-IR04-01-04 · Bibliotecario e archivista: documenti, servizi, accesso"
+      },
+      {
+        "id": "N-IR04-01-05",
+        "words": 631,
+        "heading": "N-IR04-01-05 · Confronto dei quattro profili e risposta situata"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+    "chapter": 2,
+    "words": 4207,
+    "nuclei": [
+      {
+        "id": "N-IR04-02-01",
+        "words": 699,
+        "heading": "N-IR04-02-01 · Organizzazione e competenza: il criterio di lettura"
+      },
+      {
+        "id": "N-IR04-02-02",
+        "words": 881,
+        "heading": "N-IR04-02-02 · Centro, dipartimenti e direzioni generali"
+      },
+      {
+        "id": "N-IR04-02-03",
+        "words": 803,
+        "heading": "N-IR04-02-03 · Territorio, soprintendenze e istruttoria"
+      },
+      {
+        "id": "N-IR04-02-04",
+        "words": 727,
+        "heading": "N-IR04-02-04 · Istituti autonomi e luoghi della cultura"
+      },
+      {
+        "id": "N-IR04-02-05",
+        "words": 625,
+        "heading": "N-IR04-02-05 · Competenza nel caso concreto e risposta concorsuale"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+    "chapter": 3,
+    "words": 5265,
+    "nuclei": [
+      {
+        "id": "N-IR04-03-01",
+        "words": 655,
+        "heading": "N-IR04-03-01 · Patrimonio culturale, principi e architettura del Codice"
+      },
+      {
+        "id": "N-IR04-03-02",
+        "words": 949,
+        "heading": "N-IR04-03-02 · Beni culturali: nozione, appartenenza e categorie principali"
+      },
+      {
+        "id": "N-IR04-03-03",
+        "words": 842,
+        "heading": "N-IR04-03-03 · Accertamento dell'interesse culturale: verifica, dichiarazione e regime del bene"
+      },
+      {
+        "id": "N-IR04-03-04",
+        "words": 746,
+        "heading": "N-IR04-03-04 · Tutela, conservazione, fruizione e valorizzazione"
+      },
+      {
+        "id": "N-IR04-03-05",
+        "words": 709,
+        "heading": "N-IR04-03-05 · Beni paesaggistici: categorie, pianificazione e autorizzazione"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+    "chapter": 4,
+    "words": 5186,
+    "nuclei": [
+      {
+        "id": "N-IR04-04-01",
+        "words": 679,
+        "heading": "N-IR04-04-01 · Patrimonio culturale: beni culturali e beni paesaggistici"
+      },
+      {
+        "id": "N-IR04-04-02",
+        "words": 636,
+        "heading": "N-IR04-04-02 · Tutela: riconoscere, proteggere e conservare"
+      },
+      {
+        "id": "N-IR04-04-03",
+        "words": 821,
+        "heading": "N-IR04-04-03 · Valorizzazione: conoscenza, uso pubblico e sviluppo della cultura"
+      },
+      {
+        "id": "N-IR04-04-04",
+        "words": 726,
+        "heading": "N-IR04-04-04 · Fruizione: accesso pubblico, servizi culturali e limiti di compatibilità"
+      },
+      {
+        "id": "N-IR04-04-05",
+        "words": 774,
+        "heading": "N-IR04-04-05 · Paesaggio: territorio, valori e governo delle trasformazioni"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+    "chapter": 5,
+    "words": 5912,
+    "nuclei": [
+      {
+        "id": "N-IR04-05-01",
+        "words": 627,
+        "heading": "N-IR04-05-01 · Procedimento di tutela e funzione amministrativa"
+      },
+      {
+        "id": "N-IR04-05-02",
+        "words": 744,
+        "heading": "N-IR04-05-02 · Verifica dell’interesse culturale"
+      },
+      {
+        "id": "N-IR04-05-03",
+        "words": 647,
+        "heading": "N-IR04-05-03 · Dichiarazione dell’interesse culturale"
+      },
+      {
+        "id": "N-IR04-05-04",
+        "words": 850,
+        "heading": "N-IR04-05-04 · Vincoli, autorizzazioni e controllo sugli interventi"
+      },
+      {
+        "id": "N-IR04-05-05",
+        "words": 1020,
+        "heading": "N-IR04-05-05 · Circolazione giuridica e materiale dei beni culturali"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+    "chapter": 6,
+    "words": 5060,
+    "nuclei": [
+      {
+        "id": "N-IR04-06-01",
+        "words": 603,
+        "heading": "N-IR04-06-01 · Catalogazione"
+      },
+      {
+        "id": "N-IR04-06-02",
+        "words": 673,
+        "heading": "N-IR04-06-02 · Dati e contesto"
+      },
+      {
+        "id": "N-IR04-06-03",
+        "words": 774,
+        "heading": "N-IR04-06-03 · Standard e vocabolari"
+      },
+      {
+        "id": "N-IR04-06-04",
+        "words": 870,
+        "heading": "N-IR04-06-04 · Digitalizzazione"
+      },
+      {
+        "id": "N-IR04-06-05",
+        "words": 662,
+        "heading": "N-IR04-06-05 · Metadati e accesso"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+    "chapter": 7,
+    "words": 5216,
+    "nuclei": [
+      {
+        "id": "N-IR04-07-01",
+        "words": 761,
+        "heading": "N-IR04-07-01 · Archivio e documento"
+      },
+      {
+        "id": "N-IR04-07-02",
+        "words": 666,
+        "heading": "N-IR04-07-02 · Ciclo di vita e fasi archivistiche"
+      },
+      {
+        "id": "N-IR04-07-03",
+        "words": 859,
+        "heading": "N-IR04-07-03 · Ordinamento e descrizione"
+      },
+      {
+        "id": "N-IR04-07-04",
+        "words": 639,
+        "heading": "N-IR04-07-04 · Provenienza e rispetto dei fondi"
+      },
+      {
+        "id": "N-IR04-07-05",
+        "words": 1289,
+        "heading": "N-IR04-07-05 · Tutela, consultazione e scarto"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+    "chapter": 8,
+    "words": 5779,
+    "nuclei": [
+      {
+        "id": "N-IR04-08-01",
+        "words": 710,
+        "heading": "N-IR04-08-01 · Biblioteca e servizio"
+      },
+      {
+        "id": "N-IR04-08-02",
+        "words": 991,
+        "heading": "N-IR04-08-02 · Catalogo e accesso"
+      },
+      {
+        "id": "N-IR04-08-03",
+        "words": 803,
+        "heading": "N-IR04-08-03 · Raccolte e gestione"
+      },
+      {
+        "id": "N-IR04-08-04",
+        "words": 844,
+        "heading": "N-IR04-08-04 · Servizi al pubblico"
+      },
+      {
+        "id": "N-IR04-08-05",
+        "words": 763,
+        "heading": "N-IR04-08-05 · Reference e inclusione"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+    "chapter": 9,
+    "words": 5473,
+    "nuclei": [
+      {
+        "id": "N-IR04-09-01",
+        "words": 793,
+        "heading": "N-IR04-09-01 · Archeologia come conoscenza del territorio"
+      },
+      {
+        "id": "N-IR04-09-02",
+        "words": 841,
+        "heading": "N-IR04-09-02 · Rinvenimenti e prudenza amministrativa"
+      },
+      {
+        "id": "N-IR04-09-03",
+        "words": 759,
+        "heading": "N-IR04-09-03 · Tutela territoriale e decisione pubblica"
+      },
+      {
+        "id": "N-IR04-09-04",
+        "words": 782,
+        "heading": "N-IR04-09-04 · Archeologia preventiva e lavori pubblici"
+      },
+      {
+        "id": "N-IR04-09-05",
+        "words": 816,
+        "heading": "N-IR04-09-05 · Risposta concorsuale e output operativo"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+    "chapter": 10,
+    "words": 6197,
+    "nuclei": [
+      {
+        "id": "N-IR04-10-01",
+        "words": 973,
+        "heading": "N-IR04-10-01 · Metodo di lettura dell'opera"
+      },
+      {
+        "id": "N-IR04-10-02",
+        "words": 748,
+        "heading": "N-IR04-10-02 · Museo, collezione e patrimonio come servizio pubblico"
+      },
+      {
+        "id": "N-IR04-10-03",
+        "words": 815,
+        "heading": "N-IR04-10-03 · Allestimento, percorso e mediazione culturale"
+      },
+      {
+        "id": "N-IR04-10-04",
+        "words": 831,
+        "heading": "N-IR04-10-04 · Conservazione preventiva, documentazione e cura materiale"
+      },
+      {
+        "id": "N-IR04-10-05",
+        "words": 851,
+        "heading": "N-IR04-10-05 · Fruizione, accessibilità e output del candidato"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+    "chapter": 11,
+    "words": 5804,
+    "nuclei": [
+      {
+        "id": "N-IR04-11-01",
+        "words": 929,
+        "heading": "N-IR04-11-01 · Conservazione come funzione permanente"
+      },
+      {
+        "id": "N-IR04-11-02",
+        "words": 796,
+        "heading": "N-IR04-11-02 · Prevenzione e gestione del rischio conservativo"
+      },
+      {
+        "id": "N-IR04-11-03",
+        "words": 844,
+        "heading": "N-IR04-11-03 · Restauro: significato, limiti e responsabilità"
+      },
+      {
+        "id": "N-IR04-11-04",
+        "words": 780,
+        "heading": "N-IR04-11-04 · Documentazione, tracciabilità e memoria dell’intervento"
+      },
+      {
+        "id": "N-IR04-11-05",
+        "words": 842,
+        "heading": "N-IR04-11-05 · Decisione interdisciplinare e responsabilità pubblica"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+    "chapter": 12,
+    "words": 4995,
+    "nuclei": [
+      {
+        "id": "N-IR04-12-01",
+        "words": 785,
+        "heading": "N-IR04-12-01 · Architettura storica e funzione amministrativa"
+      },
+      {
+        "id": "N-IR04-12-02",
+        "words": 611,
+        "heading": "N-IR04-12-02 · Paesaggio come interesse pubblico"
+      },
+      {
+        "id": "N-IR04-12-03",
+        "words": 631,
+        "heading": "N-IR04-12-03 · Trasformazioni e compatibilità amministrativa"
+      },
+      {
+        "id": "N-IR04-12-04",
+        "words": 667,
+        "heading": "N-IR04-12-04 · Cantieri e presidio amministrativo"
+      },
+      {
+        "id": "N-IR04-12-05",
+        "words": 624,
+        "heading": "N-IR04-12-05 · Tutela, valorizzazione e decisione pubblica"
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+    "chapter": 13,
+    "words": 5892,
+    "nuclei": [
+      {
+        "id": "N-IR04-13-01",
+        "words": 688,
+        "heading": "N-IR04-13-01 · Fruizione organizzata"
+      },
+      {
+        "id": "N-IR04-13-02",
+        "words": 798,
+        "heading": "N-IR04-13-02 · Vigilanza e presidio"
+      },
+      {
+        "id": "N-IR04-13-03",
+        "words": 1040,
+        "heading": "N-IR04-13-03 · Sicurezza organizzativa"
+      },
+      {
+        "id": "N-IR04-13-04",
+        "words": 759,
+        "heading": "N-IR04-13-04 · Accessibilita' e comunicazione"
+      },
+      {
+        "id": "N-IR04-13-05",
+        "words": 816,
+        "heading": "N-IR04-13-05 · Flussi e miglioramento"
+      }
+    ],
+    "quiz": 6
+  }
+]

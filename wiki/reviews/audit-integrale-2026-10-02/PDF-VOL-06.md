@@ -1,0 +1,16 @@
+# VOL-06 — Controllo PDF, 2 ottobre 2026
+
+Esaminato `delivery/VOL-06/candidate/vol-06-interior-kdp.pdf`, **530 pagine**, identificato con SHA-256 nell'inventario `artifacts/review-integrale-2026-10-02/pdf/inventory.json`. Viste tutte le 23 tavole di contatto; approfondite le pagine 6, 47, 88, 179, 184, 199, 361 e 453. Il controllo panoramico individua anomalie macroscopiche, non equivale a rilettura di ogni parola del PDF; il testo integrale corrente è documentato in [VOL-06.md](VOL-06.md). Nessuna prova fisica di stampa o modifica applicata.
+
+| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
+| --- | --- | --- | --- | --- | --- | --- |
+| P06-01 | PDF p. 47 e schede analoghe | Tabelle compilabili | Grave | Le intestazioni a sei colonne spezzano «proteggere» e «coinvolgere» lasciando una sola lettera sulla riga seguente; le celle sono molto strette per scrivere. | Ridistribuire larghezze, abbreviare intestazioni senza perdere significato e sviluppare il workbook su più spazio. Collaudare una compilazione reale alla dimensione finale. | Aperto |
+| P06-02 | PDF pp. 184 e 198 | Gerarchia tipografica | Media | I riferimenti sono resi come un intero paragrafo in stile titolo, rosso e grande. È la conseguenza visibile del Markdown già segnalato in V06-34. | Separare heading e voci bibliografiche; verificare entrambe le pagine dopo esportazione. | Aperto |
+| P06-03 | Blocco M-IR04, PDF pp. 361–530; esempi pp. 361 e 453 | Ordine e numerazione | Grave | Il modulo comincia con Archeologia, identificata anche come «Capitolo 09»; «MiC e quattro profili», presentato nel testo come mappa iniziale e «Capitolo 01», arriva soltanto a p. 453. Coesistono numero globale 38/45 e numero locale non spiegato. L'ordine apparentemente alfabetico altera la progressione didattica. | Applicare l'ordine canonico del modulo mediante chiave numerica esplicita; uniformare titoli e rinvii usando un solo criterio chiaramente dichiarato. Rigenerare indice e frontespizio del modulo. | Aperto |
+| P06-04 | PDF p. 6, cap. 29; p. 262 | Titolo generato | Media | Il titolo è «04 Amministrazione Contabilita Controlli», con numero spurio e formulazione da nome file. | Correggere il metadato del titolo e ricostruire indice, intestazioni e titolo principale; coordinare l'osservazione già presente nel rapporto testuale IR03/04. | Aperto |
+
+**EXP-01 confermato nel PDF:** a p. 179 la Mappa BANDO è seguita direttamente da «Da sapere in 5 righe»; nel capitolo pp. 178–184 mancano i cinque nuclei della Spiegazione. Il rilievo e la correzione sono registrati una sola volta in [EXPORT-COLLANA.md](EXPORT-COLLANA.md).
+
+La pagina 199 non mostra nel PDF gli escape letterali presenti nel sorgente: non confondere quindi il problema di pulizia del manoscritto V06-14 con un artefatto necessariamente visibile in questa versione esportata. Numerose pagine IR02/IR03 hanno paragrafi lunghi e poco spazio di orientamento: miglioramento didattico da coordinare con la riduzione delle ripetizioni, non semplice aumento del corpo.
+
+L'estrazione automatica non rileva testo fuori pagina, caratteri sostitutivi o pagine sotto la soglia tecnica di 30 caratteri. Questo non dimostra integrità dei contenuti o conformità editoriale. **PDF non approvato per la pubblicazione.**

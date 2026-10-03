@@ -1,58 +1,74 @@
-# Report editoriale — M-TR01 ICT e trasformazione digitale
+# VOL-08 — Audit specialistico conclusivo del testo, 3 ottobre 2026
 
-## 1. Sintesi editoriale
+## 1. Sintesi
 
-- Genere: manuale professionale per concorsi pubblici.
-- Perimetro: premessa, indice, matrice didattica, manifest Format 2 e capitoli 01-13.
-- Cut-off: 12 agosto 2026.
-- Esito: modulo completo, autonomo e idoneo al text freeze.
+Applicati i 32 rilievi testuali dell’audit integrale. Il lavoro si basa sulla lettura completa dei tredici originali documentata nell’audit precedente, sul riesame dei passaggi modificati, sulla verifica delle soluzioni e sul confronto con fonti primarie. La chiusura riguarda il testo; figure e PDF aggiornato restano da verificare.
 
-## 2. Punti applicati della checklist
+## 2. Checklist applicata
 
-Applicati i punti 1-26 e 28-30 del Revisore Editoriale Totale, oltre ai controlli specialistici su claim normativi, definizioni tecniche, procedure, dati mobili, casi, esercizi, marcatori `review_required`, copertura didattica e apparati di verifica. Il punto 27, relativo alla resa del PDF impaginato, resta di competenza del preflight di produzione e non costituisce revisione contenutistica umana.
+Riesaminati i punti testuali 1–26 e 28–30: correttezza, chiarezza, progressione, autonomia, fonti, aggiornamento, ruoli, terminologia, quiz, esempi, rinvii, coerenza con matrice e indice. Punto 27: il precedente audit visuale non vale per il PDF dopo queste modifiche. Nessuna nuova attestazione di lettura integrale dei PDF normativi di 41 pagine o della Gazzetta intera: letti i passaggi pertinenti; i due provvedimenti ACN di cinque e tre pagine sono letti integralmente, senza allegati separati.
 
-## 3. Tabella errori
+## 3. Registro per ID
 
-| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
+| ID | Posizione | Categoria | Gravità | Evidenza originaria | Correzione applicata | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| E01 | Matrice Format 2, 82 righe canoniche | Copertura didattica | Media | Stati e dimensioni non erano integralmente chiusi. | Consolidate teoria, applicazione, output concorsuale, Q/C/E, fonti e audit specialistico per ogni nucleo. | Risolto |
-| E02 | Manifest e capitoli 01-13 | Evidenza atomica | Media | Le attestazioni dovevano essere verificabili per singolo nucleo e dimensione. | Registrate 164 attestazioni didattiche e mapping atomici verso gli apparati di verifica. | Risolto |
-| E03 | Script e test dell'audit Format 2 | Integrità del workflow | Media | L'opzione `--write` poteva rigenerare una matrice aperta sopra quella completata. | Rimossa la riscrittura distruttiva e aggiunto test di regressione. | Risolto |
-| E04 | Test del gate Format 2 | Qualità automatizzata | Lieve | Fixture storiche dipendevano da placeholder non più presenti. | Allineate le fixture ai record canonici correnti; suite 44/44 verde. | Risolto |
-| E05 | Capitoli 01-13 | Accuratezza specialistica | Media | Claim, procedure, definizioni e dati mobili richiedevano chiusura conclusiva. | Riesaminati nel perimetro dello step 15 e consolidati con fonti e note di aggiornamento. | Risolto |
-| E06 | Intero modulo | Dati operativi | Lieve | Il contratto richiede una riga per ogni box `Dato operativo`. | Nessun box `Dato operativo` rilevato; assenza verificata senza introdurre dati artificiali. | Risolto |
-| E07 | Indice analitico e apparati | Coerenza strutturale | Media | Occorreva garantire corrispondenza univoca tra nuclei, destinazioni e verifiche. | Verificata corrispondenza 82/82/82 senza duplicati, omissioni o destinazioni malformate. | Risolto |
+| V08-01 | Indice modulo, r.1 | Stato editoriale | medio | «publication-ready»: L’indice dichiara la pubblicabilità ma il suo Stato editoriale rinvia ancora agli step 13–24; M-TR02 è descritto come incompleto. | Indice e matrice riconciliati: nessuna pubblicabilità anticipata; M-TR02 è un rinvio effettivo al VOL-09. | Verificato e chiuso |
+| V08-02 | Cap. 10, r.35 | Coerenza del metodo | grave | «Base; Attori; Nodi; Documenti»: BANDO cambia significato nei capitoli 10, 11 (r. 35) e 12 (r. 47), rispetto a Bando, Aree, Nuclei, Diario, Output usato nel resto della collana. | Bando, Aree, Nuclei, Diario, Output ripristinati nei capitoli 10–12. | Verificato e chiuso |
+| V08-03 | Cap. 01, r.1 | Destinazione editoriale | medio | «Apparato di verifica dei nuclei»: Tutti i capitoli mantengono apparati di tracciabilità e formule rivolte al verificatore, non al candidato. | Tutte le 13 tabelle staff spostate in planning/verifiche; audit conserva controllo atomico dei target reali. | Verificato e chiuso |
+| V08-04 | Cap. 02, r.137 | Precisione tecnica | medio | «rappresentazione»: Complemento a due non nominato né mostrato; la virgola mobile è descritta con grandezza invece di esponente e significando. | Complemento a due su otto bit, intervalli, overflow e modello segno/esponente/significando con 1,5. | Verificato e chiuso |
+| V08-05 | Cap. 03, r.367 | Precisione tecnica | medio | «memoria aggiuntiva»: La complessità spaziale è identificata con la sola memoria ausiliaria. | Spazio totale e ausiliario distinti; scansione con contatore e modello dichiarato. | Verificato e chiuso |
+| V08-06 | Cap. 03, r.381 | Precisione tecnica | medio | «cresce linearmente»: O grande è definito come limite superiore ma poi interpretato come crescita esatta, anche nel raddoppio quadratico del quiz 5. | Limite O distinto da Theta; quiz 5 usa funzioni dominanti esplicite e calcolo del raddoppio. | Verificato e chiuso |
+| V08-07 | Cap. 03, r.561 | Fonti | medio | «materiali didattici universitari»: Le fonti di algoritmi non sono identificabili. | Fonte bibliografica identificata: Pat Morin, Open Data Structures, versione Python, § 1.3. | Verificato e chiuso |
+| V08-08 | Cap. 04, r.97 | Esempio tecnico | medio | «id_ufficio»: Lo schema non impone NOT NULL sulla chiave esterna benché ogni pratica debba appartenere a un ufficio; l’esempio Assegnazione a r. 169 ragiona inoltre su un attributo non riportato nello schema. | FK obbligatoria NOT NULL e id_ufficio esplicitato nello schema Assegnazione. | Verificato e chiuso |
+| V08-09 | Cap. 04, r.305 | Copertura didattica | grave | «livelli di isolamento»: L’isolamento è promesso ma mancano i quattro livelli e le anomalie che permettono di distinguerli. | Quattro livelli SQL, anomalie, specificità PostgreSQL 18 e sequenza concorrente risolta. | Verificato e chiuso |
+| V08-10 | Cap. 05, r.377 | Precisione tecnica | medio | «richiesta HTTP»: L’incapsulamento presume TCP senza precisare la versione di HTTP. | Esempio circoscritto a HTTP/1.1; HTTP/2 TCP e HTTP/3 QUIC distinti. | Verificato e chiuso |
+| V08-11 | Cap. 06, r.146 | Coerenza tecnica | medio | «Livello»: La regressione compare fra i livelli di test; a r. 415 il capitolo spiega correttamente che è uno scopo trasversale. | Regressione descritta come finalità trasversale ai livelli di test. | Verificato e chiuso |
+| V08-12 | Cap. 06, r.357 | Esercitazione | medio | «veloce»: La soluzione dell’esercizio sul requisito misurabile dice cosa specificare ma non formula un requisito verificabile. | Requisito risolto: utenti, dati, percentile, durata, latenza e tasso di errore. | Verificato e chiuso |
+| V08-13 | Cap. 06, r.1 | Copertura didattica | medio | «API»: La progettazione di API resta descrittiva: mancano un payload, codici di risposta e un contratto minimo concreto. | Vincoli REST, richiesta/risposta API, autorizzazione per oggetto, stati ed errori. | Verificato e chiuso |
+| V08-14 | Cap. 07, r.177 | Copertura normativa | grave | «strategici, critici e ordinari»: Le classi cloud sono nominate senza i criteri di impatto; il regolamento 2024 resta privo di estremi e regime. | Classificazione ordinario/critico/strategico e impatti; regolamento ACN 21007/24 e qualificazione distinta. | Verificato e chiuso |
+| V08-15 | Cap. 08, r.287 | Terminologia | medio | «STRIDE»: Le sei categorie sono elencate in inglese senza spiegazione applicativa. | Sei categorie STRIDE tradotte con minaccia, esempio e controllo. | Verificato e chiuso |
+| V08-16 | Cap. 08, r.530 | Esercitazione | medio | «risposta aperta»: Due soluzioni si limitano al criterio generale di correzione. | Due aperte cybersecurity risolte sul caso dei fascicoli e sui controlli temporanei. | Verificato e chiuso |
+| V08-17 | Cap. 09, r.149 | Copertura normativa | grave | «verificare»: NIS2 è ridotta al richiamo del d.lgs. 138/2024 e alla verifica futura: non insegna essenziali/importanti, obblighi di governance, criteri e sequenza delle notifiche; manca il raccordo con legge 90/2024. | NIS2 artt. 6 e 23–25, governance, coorti ACN 2025/2026, timeline e raccordo legge 90/GDPR. | Verificato e chiuso |
+| V08-18 | Cap. 09, r.86 | Copertura tecnica | grave | «crittografia»: Per un percorso cyber specialistico la trattazione non rende operative le differenze tra chiavi simmetriche/asimmetriche, firma, hash, certificati e catena di fiducia. | Simmetrica/asimmetrica, firme, hash, MAC, password, certificati, catena, revoca e TLS. | Verificato e chiuso |
+| V08-19 | Cap. 09, r.218 | Qualità dei quiz | medio | «NO»: Tutte le sei domande dei capitoli 9 e 10 hanno risposta negativa prevedibile; nel 9 la domanda 6 confronta una notifica con un evento data breach. | Dodici quiz riscritti nei capitoli 9–10, tre chiavi per lettera e commenti corrispondenti. | Verificato e chiuso |
+| V08-20 | Cap. 09, r.100 | Refuso | lieve | «nel ignorare»: Preposizione articolata errata. | Refuso “nell’ignorare” corretto. | Verificato e chiuso |
+| V08-21 | Cap. 10, r.192 | Definizione normativa | grave | «quando pertinente»: La definizione di open data rende eventuale il formato leggibile meccanicamente e non espone i tre requisiti cumulativi del CAD art. 1 l-ter. | Tre requisiti cumulativi della definizione CAD di dati di tipo aperto. | Verificato e chiuso |
+| V08-22 | Cap. 10, r.196 | Copertura normativa | medio | «possono includere»: Gli obblighi HVD sono formulati come possibilità indistinta. | HVD: API e formati obbligatori, bulk dove previsto; licenze, metadati e documentazione. | Verificato e chiuso |
+| V08-23 | Cap. 10, r.223 | Rinvio insufficiente | medio | «procedure di adesione»: Il rinvio al capitolo 6 promette procedure e dettagli PDND che quel capitolo non contiene. | Rinvio PDND delimitato e destinazione cap. 06 integrata con flusso, ruoli, voucher e caso. | Verificato e chiuso |
+| V08-24 | Cap. 10, r.111 | Refuso | lieve | «usare interno»: Forma verbale al posto del sostantivo. | Refuso “uso interno” corretto. | Verificato e chiuso |
+| V08-25 | Cap. 11, r.169 | Copertura normativa | grave | «calendario»: La compliance non sviluppa definizioni dei ruoli, criteri di rischio, principali obblighi PA né calendario; la legge 132/2025 resta un titolo, senza art. 14. | Ruoli e rischio AI, obblighi PA e legge 132 art. 14; calendario modificato dal regolamento 1744/2026 e transitori distinti. | Verificato e chiuso |
+| V08-26 | Cap. 11, r.102 | Copertura didattica | grave | «F1»: Il profilo data/AI non è sostenuto da algoritmi spiegati né da un calcolo completo di metriche; il cap. 3 r. 46 promette algoritmi ML nel cap. 11. | Albero decisionale, k-means, matrice di confusione, precision/recall/F1 e baseline calcolati. | Verificato e chiuso |
+| V08-27 | Cap. 12, r.65 | Copertura normativa ICT | grave | «riuso»: La scelta sviluppare/acquistare/riusare non espone valutazione comparativa e riuso degli artt. 68–69 CAD; il richiamo Consip non spiega gli obblighi specifici ICT. | CAD 68–69, confronto TCO, riuso e legge 208/2015 commi 512 e seguenti. | Verificato e chiuso |
+| V08-28 | Cap. 12, r.115 | Esercitazione | medio | «valore»: Nessun esempio numerico consente di calcolare disponibilità, SLA o scostamento, nonostante la promessa misurativa. | SLA su 43.200 minuti: 90 di fermo, 99,7917%, scostamento e limite di penali/esclusioni. | Verificato e chiuso |
+| V08-29 | Cap. 12, r.216 | Ruoli | medio | «quando previsto»: La funzione di direzione dell’esecuzione appare eventuale, senza distinguere esercizio da parte del RUP e nomina separata del DEC. | Funzione della direzione dell’esecuzione distinta dalla nomina di un DEC separato. | Verificato e chiuso |
+| V08-30 | Cap. 12, r.263 | Ruoli privacy | medio | «validazione»: La necessaria validazione del DPO è formulata come potere autorizzativo, in tensione con il cap. 10 che ne descrive il ruolo consultivo. | Decisione al titolare; DPO consiglia e sorveglia, senza approvazione sostitutiva. | Verificato e chiuso |
+| V08-31 | Cap. 13, r.475 | Esercitazione | grave | «Caso autonomo»: Il caso autonomo ha una rubrica ma non una soluzione modello; lo scritto tecnico a r. 445 offre una scaletta senza un elaborato effettivo. | Elaborato completo, diagnosi con tre ipotesi e prova SQL/algoritmo/metriche con risultati e rubrica. | Verificato e chiuso |
+| V08-32 | Cap. 07, r.238 | Stile e progressione | medio | «DevOps»: Ripetizioni additive estese nei capitoli 7–13; nel 10 le definizioni arrivano dopo applicazioni e riprese. | Definizioni prima delle applicazioni nel cap. 10; riprese condensate in 7/12/13; spazio usato per esempi e soluzioni. | Verificato e chiuso |
 
-## 4. Osservazioni per capitolo
+## 4. Fonti ed evidenze
 
-- Capitoli 01-05: profili ICT, fondamenti, algoritmi, dati, reti e sistemi risultano definiti e applicati con apparati coerenti.
-- Capitoli 06-09: software, interoperabilità, cloud, cybersecurity, IAM, logging e incident response distinguono correttamente regole, procedure e limiti.
-- Capitoli 10-12: data governance, AI e procurement ICT mantengono separati principi stabili e componenti soggette ad aggiornamento.
-- Capitolo 13: quiz, casi, elaborato e orale verificano contenuti effettivamente trattati e dispongono di soluzioni o rubriche.
-- Criticità aperte: nessuna.
+Fonte consolidata `ict-rettifiche-specialistiche-2026-10-03` e topic collegato, con URL ufficiali ACN, Commissione/EUR-Lex, Gazzetta Ufficiale, MEF, AgID, PagoPA, NIST, PostgreSQL, RFC e fonti tecniche originali. La nota distingue acquisizioni valide e riscontri indicizzati. L’errore del download ANAC è esplicitato nel manifest raw e non viene presentato come PDF normativo letto. Le soglie non verificate non sono introdotte. Le raccolte storiche conservano i propri limiti; il nuovo consolidamento prevale sui claim rettificati.
 
-## 5. Coerenza globale
+## 5. Copertura e autonomia
 
-Terminologia, indice, tredici capitoli, matrice, manifest e indice analitico sono coerenti. L'audit automatico rileva 13 capitoli e 82 nuclei in capitoli, matrice e indice, senza duplicati, omissioni, warning o failure. Tutte le 82 righe canoniche risultano complete e prive di blocker di copertura.
+Ottantadue nuclei mantengono identità e destinazione. Le verifiche staff sono in planning, non nel prodotto; il controllo atomico confronta ancora i target con unità effettivamente presenti nel testo. Le nuove attestazioni sostituiscono solo citazioni supersedute, senza retrodatare il riesame o attribuirlo ai revisori storici. Capitoli 7–13 includono le integrazioni necessarie senza duplicare il diritto generale di VOL-01/VOL-09.
 
-## 6. Contenuto da verificare
+## 6. Verifiche
 
-Nessuna voce aperta al cut-off del 12 agosto 2026. In caso di nuovo bando o nuovo cut-off dovranno essere rieseguiti i normali controlli di aggiornamento sulle fonti mobili; ciò non costituisce un rinvio della revisione corrente.
+Tredici gate di densità/copertura passati senza blocchi o avvisi. Rinvii wikilink del corpo: zero destinazioni e ancore irrisolte. Audit Format 2: 82 nuclei coerenti tra capitoli, matrice e indice, senza duplicati o target mancanti. Dodici quiz nuovi risolti, chiavi A/B/C/D distribuite tre volte ciascuna; aperte cybersecurity con risposte specifiche. Verificati calcoli binari, costo quadratico, isolamento, SLA, TCO, Gini, centroidi, precision/recall/F1, query SQL e caso vuoto. I 47 test di regressione passano, insieme al controllo TypeScript. Nessun box Dato operativo rilevato dal CLI. Il test di regressione riproduce prima il mancato supporto ai mapping esterni e controlla che un target presente solo nello staff non basti.
 
 ## 7. Suggerimenti facoltativi
 
-Nel preflight controllare soltanto resa delle tabelle, spezzature, link e leggibilità del PDF definitivo.
+Nessuna scelta facoltativa usata per eludere una correzione obbligatoria. L’eventuale spazio ulteriore per esercizi verrà valutato sul PDF senza ridurre corpo tipografico o teoria.
 
-## 8. Priorità degli interventi
+## 8. Priorità residue
 
-1. Nessun intervento contenutistico o strutturale residuo.
-2. Proseguire con i successivi gate automatici della pipeline.
-3. Eseguire il controllo di produzione sul PDF quando disponibile.
+Audit specialistico concluso: zero errori gravi o medi noti aperti nel perimetro riesaminato; procedere al freeze tramite CLI; poi allineamento figure, esportazione, controllo visivo e preflight del volume. Il calendario AI nelle figure deve distinguere 2027/2028 dai transitori, mentre quello NIS deve distinguere le coorti.
 
-## 9. Giudizio di pubblicabilità
+## 9. Giudizio
 
-Pubblicabile con correzioni minori già applicate. Non restano errori gravi o medi, rinvii a revisione umana, nuclei incompleti o affermazioni presentate come verificate senza evidenza consolidata.
+Le correzioni note sono applicate e controllate nel testo. La pubblicabilità non è ancora dichiarata: occorre il candidato PDF aggiornato e il completamento dei gate di produzione.
 
-## 10. Limiti di questa revisione
+## 10. Limiti
 
-La revisione riguarda i sorgenti editoriali e gli artefatti strutturati disponibili al 12 agosto 2026. La resa visiva del PDF sarà verificata nel preflight di produzione; il limite non incide sulla completezza editoriale e specialistica del testo.
+Riesame mirato dei claim tecnici/normativi coinvolti, datato 3 ottobre 2026; nessuna promessa di copertura di ogni bando ICT o validazione integrale di ogni documento citato. Esempi e cifre originali sono didattici, non prezzi, soglie normative o benchmark di amministrazioni. Gli hash identificano la versione verificata e non certificano figure/PDF.

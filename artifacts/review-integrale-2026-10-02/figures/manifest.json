@@ -1,0 +1,1685 @@
+[
+  {
+    "n": 1,
+    "file": "wiki/books/il-metodo-bando/assets/front-matter/qr-capitale-personale.png",
+    "sha256": "612550cab9b2852b5500d0751fb799f49b6ef070e5ee8a6781ae63909108808f",
+    "chapter": "Servizi digitali inclusi",
+    "alt": "QR code per accedere a Capitale Personale",
+    "pixels": [
+      1155,
+      1155
+    ]
+  },
+  {
+    "n": 2,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-01/01-candidato-accumulatore-vs-strategico.png",
+    "sha256": "a669287df0257b6c9499be37c0728e7ed0796482ac1e621ed0b925b98c39af72",
+    "chapter": "Il nuovo candidato pubblico",
+    "alt": "Schema comparativo tra candidato accumulatore e candidato strategico.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 3,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-01/02-cabina-regia-bando.png",
+    "sha256": "73fd6f17d288b7d07815235f9317b738808797aa52de3eadded7215b9cef51e3",
+    "chapter": "Il nuovo candidato pubblico",
+    "alt": "Schema della cabina di regia del Metodo BANDO: bando, aree, nuclei, diario e output.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 4,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-01/03-tipo-prova-allenamento.png",
+    "sha256": "52c9f5f12285d2dcb110bb2332140d153bba5e5017750e7700b516ebcef2de18",
+    "chapter": "Il nuovo candidato pubblico",
+    "alt": "Mappa che collega ciascun tipo di prova concorsuale al relativo allenamento principale.",
+    "pixels": [
+      1600,
+      1100
+    ]
+  },
+  {
+    "n": 5,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-01/04-scala-profondita-profilo.png",
+    "sha256": "61c664d959658cbf593d32eff356d244002b60d391c98ad20ee6da3e0b68def2",
+    "chapter": "Il nuovo candidato pubblico",
+    "alt": "Scala della profondità richiesta per operatori, istruttori, funzionari, elevate qualificazioni e dirigenti.",
+    "pixels": [
+      1600,
+      1100
+    ]
+  },
+  {
+    "n": 6,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-01/05-capitale-comune-moduli-specifici.png",
+    "sha256": "6c97d076a10d544df554a2b83dab2acd7ddecfeddaee91a2ff3be5999c6325ea",
+    "chapter": "Il nuovo candidato pubblico",
+    "alt": "Schema del capitale comune riutilizzabile e dei moduli specifici da adattare ai singoli concorsi.",
+    "pixels": [
+      1600,
+      1050
+    ]
+  },
+  {
+    "n": 7,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-02/01-bando-prima-del-manuale.png",
+    "sha256": "f1dc46eeb9462d0d220b88a01e4da47a24c18e6634dce414d72d7dadcabf7f43",
+    "chapter": "Anatomia del bando",
+    "alt": "Schema che confronta la partenza debole dal manuale generico con la partenza professionale dal bando.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 8,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-02/02-tre-letture-del-bando.png",
+    "sha256": "68111898f1b0a7f06485bbacd158a8970a6805a04a277313ed51db9b6a3180c5",
+    "chapter": "Anatomia del bando",
+    "alt": "Schema delle tre letture del bando: ammissibilità, profilo reale, prove e soglie.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 9,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-02/04-gerarchia-materie-bando.png",
+    "sha256": "448973631b6beac78bde3121f49db785c975fb2615364f47de99a3e19b95c9a3",
+    "chapter": "Anatomia del bando",
+    "alt": "Schema per classificare le materie del bando in obbligatorie, probabili, accessorie, killer e solo orali.",
+    "pixels": [
+      1600,
+      1100
+    ]
+  },
+  {
+    "n": 10,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-02/03-mappa-informazioni-bando.png",
+    "sha256": "bfbe065f382f63e3075c6f51750fbe917b048a7c5defb62d5b652394f8463983",
+    "chapter": "Anatomia del bando",
+    "alt": "Tabella visuale che mostra dove cercare requisiti, profilo, domanda, prove, materie, punteggi e comunicazioni nel bando.",
+    "pixels": [
+      1600,
+      1100
+    ]
+  },
+  {
+    "n": 11,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-02/05-bando-decoder-doppia-pagina.png",
+    "sha256": "a672306b5b34d562ec0e86c85f3463f306933861244a55bbaa8a1d9c849e5782",
+    "chapter": "Anatomia del bando",
+    "alt": "Schema della doppia pagina del Bando Decoder, dalla identità del concorso alla strategia di prova.",
+    "pixels": [
+      1600,
+      1050
+    ]
+  },
+  {
+    "n": 12,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-03/01-metodo-bando-mappa-generale.png",
+    "sha256": "9b5b4e102bc20518f6188869a8ab452b8ea3053d5c55b8e160bb32f5e95bb9f4",
+    "chapter": "Il Metodo BANDO",
+    "alt": "Mappa generale delle cinque fasi del Metodo BANDO: Bando, Aree, Nuclei, Diario e Output.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 13,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-03/02-materiali-dispersi-procedura-bando.png",
+    "sha256": "97e5143267b87e9971cdde684ebfde88f8c59f06e4c97f75145f8877938cf38c",
+    "chapter": "Il Metodo BANDO",
+    "alt": "Schema che mostra il passaggio dai materiali dispersi alla procedura BANDO con decisioni, priorità, calendario e simulazioni.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 14,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-03/03-fasi-bando-prodotti-concreti.png",
+    "sha256": "59425109d2f698fda4acf5763088df909d693647bb3b4f7b12463ddaa856182c",
+    "chapter": "Il Metodo BANDO",
+    "alt": "Schema che collega ogni fase del Metodo BANDO al relativo prodotto concreto: Decoder, mappa, lista, diario e output.",
+    "pixels": [
+      1600,
+      1050
+    ]
+  },
+  {
+    "n": 15,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-03/04-metodo-lineare-vs-ciclico.png",
+    "sha256": "d3a5f27475d97a5a47f6b92e50d327c08d8ad1ba0a08957d8714d190b9538536",
+    "chapter": "Il Metodo BANDO",
+    "alt": "Confronto tra metodo lineare e metodo ciclico BANDO, con ritorno continuo su bando, aree, nuclei, diario e output.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 16,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-03/05-piano-bando-30-60-90.png",
+    "sha256": "92c4449cdf601afc201722f5843b684801fbfa6e1d54bdf98483183fe500d869",
+    "chapter": "Il Metodo BANDO",
+    "alt": "Schema comparativo dell’applicazione del Metodo BANDO con 30, 60 e 90 giorni disponibili.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 17,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-04/01-costituzione-mappa-concorso.png",
+    "sha256": "71529e2b6aa4a4235aded57f2859335b9f3e11a1f5232e1fb5a2134c3e0615d4",
+    "chapter": "Costituzione e ordinamento dello Stato",
+    "alt": "Figura 4.1 - La Costituzione è una mappa di collegamento: principi, fonti, organi, diritti, autonomie e PA.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 18,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-04/02-stato-costituzione-forme-v3.png",
+    "sha256": "c9b052a9739f7dfb462c14bd67692af5383f7334528e3f235cdef42ee7ff2a19",
+    "chapter": "Costituzione e ordinamento dello Stato",
+    "alt": "Figura 4.2 - Stato, Costituzione, forma di Stato e forma di governo vanno tenuti distinti.",
+    "pixels": [
+      1600,
+      1100
+    ]
+  },
+  {
+    "n": 19,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-04/03-fonti-criteri-ordinamento-v3.png",
+    "sha256": "f092169081d5e1ce9728790f074573765bceb383d88ccc9010330b4c880bb622",
+    "chapter": "Costituzione e ordinamento dello Stato",
+    "alt": "Figura 4.3 - Le fonti si studiano con gerarchia, competenza, criterio cronologico e riserva di legge.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 20,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-04/04-organi-costituzionali-flussi.png",
+    "sha256": "505783274d6583e1f3df9d036d0eb7c98f8a07cbb946fa65f487c06a119c268e",
+    "chapter": "Costituzione e ordinamento dello Stato",
+    "alt": "Figura 4.4 - Gli organi costituzionali vanno ricordati attraverso funzioni e rapporti reciproci.",
+    "pixels": [
+      1600,
+      1100
+    ]
+  },
+  {
+    "n": 21,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-04/05-costituzione-pa-concorso-v3.png",
+    "sha256": "bf64cb417d170948408122c6b76b60fc926ea8eac8c59f96995e365fbef12529",
+    "chapter": "Costituzione e ordinamento dello Stato",
+    "alt": "Figura 4.5 - Il concorso pubblico traduce principi costituzionali in requisiti, prove, valutazione e tutela.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 22,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-05/01-diritto-amministrativo-mappa-operativa.png",
+    "sha256": "8f5ed2029c7e5b28eb17d7668d6f0d0d4ceb47913a54e3251e7f4c8212c325ae",
+    "chapter": "Diritto amministrativo operativo",
+    "alt": "Figura 5.1 - Il diritto amministrativo operativo collega fonti, organizzazione, procedimento, provvedimento, accesso, silenzio e responsabilità.",
+    "pixels": [
+      1600,
+      560
+    ]
+  },
+  {
+    "n": 23,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-05/02-procedimento-amministrativo-flusso.png",
+    "sha256": "78568a1c7309d7302ee81bbf6e19c7cf1386bcee0eb95e9d1d7424dc075ef121",
+    "chapter": "Diritto amministrativo operativo",
+    "alt": "Figura 5.2 - Il procedimento amministrativo va letto come sequenza: avvio, responsabile, comunicazione, partecipazione, istruttoria, decisione e controllo.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 24,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-05/03-provvedimento-vizi-autotutela.png",
+    "sha256": "07ccdf5edaffdc3b1b045af2f950ae5a48d2f362ba316d98b8177899f83ee1b0",
+    "chapter": "Diritto amministrativo operativo",
+    "alt": "Figura 5.3 - Per rispondere su un provvedimento occorre distinguere elementi, vizi, effetti e rimedi di autotutela.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 25,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-05/05-silenzio-rimedi-decisione.png",
+    "sha256": "18a6c6f18050a671c5a74ac12e1c0ebea116750894b5b279ee98e6d4c64fa166",
+    "chapter": "Diritto amministrativo operativo",
+    "alt": "Figura 5.4 - Il silenzio amministrativo si qualifica verificando procedimento, termine, disciplina applicabile e rimedio.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 26,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-05/04-accessi-trasparenza-limiti.png",
+    "sha256": "82135fdeac8e76185ebec7be39e0180c02e6922d8d062c58e4a4121a7989d792",
+    "chapter": "Diritto amministrativo operativo",
+    "alt": "Figura 5.5 - Accesso documentale, accesso civico semplice e accesso generalizzato hanno presupposti, funzioni e limiti diversi.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 27,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-06/01-pubblico-impiego-mappa-operativa.png",
+    "sha256": "fa26620ad9e9c1bbe4d67858271e5898a61547fcd3f1e760741e0e41e2cadf0b",
+    "chapter": "Pubblico impiego e organizzazione della PA",
+    "alt": "Figura 6.1 - Mappa del pubblico impiego: rapporto di lavoro, servizio pubblico, accesso, doveri, responsabilità, dirigenza, performance e PIAO.",
+    "pixels": [
+      1600,
+      940
+    ]
+  },
+  {
+    "n": 28,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-06/02-accesso-pubblico-impiego-flusso.png",
+    "sha256": "1420b4577d7635e99fff485f543631e725bc1f576058cf8b8fd38a3c38218c6c",
+    "chapter": "Pubblico impiego e organizzazione della PA",
+    "alt": "Figura 6.2 - Accesso al pubblico impiego: fabbisogno, bando, prove, graduatoria e assunzione nel rispetto di pubblicità, imparzialità e buon andamento.",
+    "pixels": [
+      1600,
+      760
+    ]
+  },
+  {
+    "n": 29,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-06/03-doveri-codice-comportamento.png",
+    "sha256": "02be4093d0c5b5ea9f9afe82d56e365dd1a75330df8d24b79a7662a5e2cbbba8",
+    "chapter": "Pubblico impiego e organizzazione della PA",
+    "alt": "Figura 6.3 - Doveri e codice di comportamento: dal fatto concreto alla condotta corretta, passando per dovere violato e rischio.",
+    "pixels": [
+      1600,
+      820
+    ]
+  },
+  {
+    "n": 30,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-06/04-responsabilita-dipendente-dirigente.png",
+    "sha256": "4254ac3af1766bc86e81ec623e37d0d99631cd419b034da6e165ab6dd3ff3697",
+    "chapter": "Pubblico impiego e organizzazione della PA",
+    "alt": "Figura 6.4 - Responsabilità nel pubblico impiego: una condotta può rilevare sul piano disciplinare, contabile, civile, penale o dirigenziale.",
+    "pixels": [
+      1600,
+      820
+    ]
+  },
+  {
+    "n": 31,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-06/05-dirigenza-performance-piao.png",
+    "sha256": "d9a1580e3aade5077202df0cbb32eaa927d0ec239575645685f3d7dfeef9b3b2",
+    "chapter": "Pubblico impiego e organizzazione della PA",
+    "alt": "Figura 6.5 - Dirigenza, performance e PIAO: indirizzo politico, gestione amministrativa, obiettivi, rischi e risultati.",
+    "pixels": [
+      1600,
+      820
+    ]
+  },
+  {
+    "n": 32,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-07/01-trasparenza-anticorruzione-privacy-mappa.png",
+    "sha256": "6262cd734611466e9425049caae387e7171a76eab83814a448de0342d7ef754b",
+    "chapter": "Trasparenza, anticorruzione e privacy",
+    "alt": "Figura 7.1 - Trasparenza, anticorruzione e privacy: conoscibilità dell’azione amministrativa, prevenzione del rischio e protezione dei dati personali.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 33,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-07/02-tre-accessi-decisione.png",
+    "sha256": "762cd32197b42775f257f6c69d9bc4e372908e2070a78b3bd6bc23f57ab1a7d8",
+    "chapter": "Trasparenza, anticorruzione e privacy",
+    "alt": "Figura 7.2 - Tre accessi: schema decisionale per distinguere accesso documentale, accesso civico semplice e accesso civico generalizzato.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 34,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-07/03-bilanciamento-foia-privacy.png",
+    "sha256": "f019040b0597c63caefe5fdb3822b948f0992e56e8bd7360c9f0234ff037b17e",
+    "chapter": "Trasparenza, anticorruzione e privacy",
+    "alt": "Figura 7.3 - Bilanciamento tra accesso e privacy: richiesta, fonte, limiti e soluzione proporzionata.",
+    "pixels": [
+      1600,
+      820
+    ]
+  },
+  {
+    "n": 35,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-07/04-sistema-anticorruzione-rpct-piao.png",
+    "sha256": "5897bf6061474968762437e06f45cce300c8788f6af04f39f627effb7cd36048",
+    "chapter": "Trasparenza, anticorruzione e privacy",
+    "alt": "Figura 7.4 - Sistema anticorruzione: indirizzi ANAC e PNA, sezione PIAO, ruolo del RPCT, misure e monitoraggio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 36,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-07/05-soggetti-gdpr-pa.png",
+    "sha256": "e852332b209e36ab242c54911265c91e772fd3d6e73d0c42bf55d1991feb3bf9",
+    "chapter": "Trasparenza, anticorruzione e privacy",
+    "alt": "Figura 7.5 - Soggetti privacy nella PA: titolare, responsabile, autorizzati, DPO/RPD, interessato, contitolari e Garante Privacy.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 37,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-08/01-contabilita-pubblica-mappa.png",
+    "sha256": "3d1995cd7016ec23dd52c02b88e6a7d5500b2754448b4316f889dde6cab137f1",
+    "chapter": "Contabilità pubblica essenziale",
+    "alt": "Figura 8.1 - Contabilità pubblica essenziale: programmare, autorizzare, gestire, controllare e rendicontare le risorse pubbliche.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 38,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-08/02-ciclo-entrate-spese.png",
+    "sha256": "3e57f49efcf7c865eab38dfc507abf40e3fce6898c3640a990a839f22e1eed6d",
+    "chapter": "Contabilità pubblica essenziale",
+    "alt": "Figura 8.2 - Entrate e spese: accertamento, riscossione e versamento; impegno, liquidazione, ordinazione e pagamento.",
+    "pixels": [
+      1600,
+      880
+    ]
+  },
+  {
+    "n": 39,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-08/03-competenza-cassa-residui.png",
+    "sha256": "034b132612773fdf9440157d29463178b5cdbcb391d4a6411f79ffa617b71045",
+    "chapter": "Contabilità pubblica essenziale",
+    "alt": "Figura 8.3 - Competenza, cassa e residui: differenza tra diritto, movimento di denaro, residui, FPV e FCDE.",
+    "pixels": [
+      1600,
+      880
+    ]
+  },
+  {
+    "n": 40,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-08/05-controlli-corte-responsabilita.png",
+    "sha256": "30d80bc1ea9dd983e99aa89e784f500e34625d8a41ff012a5cd2e2a8f6ea36a2",
+    "chapter": "Contabilità pubblica essenziale",
+    "alt": "Figura 8.4 - Controlli, Corte dei conti, responsabilità e agenti contabili.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 41,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-08/04-ciclo-enti-locali.png",
+    "sha256": "8033cccef14423e55cc0745a6d1f6bd98ad381a3fd1fe0e90ad7a0e5d9e057fb",
+    "chapter": "Contabilità pubblica essenziale",
+    "alt": "Figura 8.5 - Enti locali: ciclo finanziario da DUP, bilancio e PEG a gestione, rendiconto, servizio finanziario e revisori.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 42,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-08/06-pnrr-pagamenti-rendicontazione.png",
+    "sha256": "bb418f0252d9ea1d93b92f0b5a3f4d1cc1e73194fdcad6540abdf089acd3a8e1",
+    "chapter": "Contabilità pubblica essenziale",
+    "alt": "Figura 8.6 - PNRR, pagamenti e rendicontazione: CUP, CIG, impegno, esecuzione, pagamento, monitoraggio e conservazione documentale.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 43,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-09/01-contratti-pubblici-mappa.png",
+    "sha256": "b995f4c5247053e5d907dee9c693bc8951eeda10710a8878f0db1f6a4f2957c9",
+    "chapter": "Contratti pubblici essenziali",
+    "alt": "Figura 9.1 - Contratti pubblici essenziali: dal fabbisogno pubblico a procedura, operatore, esecuzione e controllo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 44,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-09/02-ciclo-fabbisogno-esecuzione.png",
+    "sha256": "5c4e71f3781c1bafcd1945aa2b7c4de8b6bd2285212116836eb189abd7b02d51",
+    "chapter": "Contratti pubblici essenziali",
+    "alt": "Figura 9.2 - Dal fabbisogno all’esecuzione: la sequenza completa che impedisce di ridurre il contratto pubblico alla sola gara.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 45,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-09/03-procedure-affidamento-concorrenza.png",
+    "sha256": "410f062e332b99ca6fb4c274b62e25cf0865022c0a626a1a8c1c3c4ea055e254",
+    "chapter": "Contratti pubblici essenziali",
+    "alt": "Figura 9.3 - Procedure di affidamento: al crescere di importo, complessità e impatto sul mercato aumentano concorrenza, pubblicità, formalità e controlli.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 46,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-09/04-documenti-gara-offerte-stipula.png",
+    "sha256": "dbe66fd02e4a17bc18525ea4509a7af0a26723ffe18de806bc3cd75a8ad45d9a",
+    "chapter": "Contratti pubblici essenziali",
+    "alt": "Figura 9.4 - Documenti, requisiti e stipula: bando, disciplinare, capitolato, offerta, aggiudicazione e contratto hanno funzioni diverse.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 47,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-09/05-ecosistema-digitale-contratti.png",
+    "sha256": "234f0a6c113c25f5a0045f21cf52ac937952443f9282fd0725fd381070d8778e",
+    "chapter": "Contratti pubblici essenziali",
+    "alt": "Figura 9.5 - Ecosistema digitale dei contratti pubblici: BDNCP, PCP, FVOE, CIG e piattaforme presidiano passaggi diversi del ciclo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 48,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-09/06-acquisti-controlli-responsabilita.png",
+    "sha256": "5b5b1d22a41a3602bfe4294398b914a0ed890c85797d5fa45b55e38045407a5c",
+    "chapter": "Contratti pubblici essenziali",
+    "alt": "Figura 9.6 - Dal portale al controllo: Consip, Acquisti in Rete, MEPA e strumenti digitali restano dentro motivazione, tracciabilità, esecuzione e responsabilità.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 49,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-10/01-mappa-informatica-pa-digitale.png",
+    "sha256": "53cda46415f20047b4757405091fc203f85b0870d3cba2f6bf28ca895ce66d6b",
+    "chapter": "Informatica, PA digitale e competenze digitali",
+    "alt": "Figura 10.1 - Informatica e PA digitale: mappa dei blocchi ad alto rendimento per concorsi pubblici.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 50,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-10/02-hardware-software-dati.png",
+    "sha256": "c2573cf23c28504efddad7d2a3430bc5f5059e6f5e737c3ba584adc8978dd0c6",
+    "chapter": "Informatica, PA digitale e competenze digitali",
+    "alt": "Figura 10.2 - Hardware, software e dati: dal componente fisico all’informazione utile per l’azione amministrativa.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 51,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-10/03-file-office-dati.png",
+    "sha256": "d55fd1a9b0797ec415b6ef86f37a68b0b83781c7d4ece0480ee552dd99db06dc",
+    "chapter": "Informatica, PA digitale e competenze digitali",
+    "alt": "Figura 10.3 - File, Office e dati strutturati: distinguere file system, produttività personale e database.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 52,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-10/04-internet-reti-protocolli.png",
+    "sha256": "3d6d6b52b7810559decdbed4d6121483b6cc02c666bd17dd9575cdd60749c901",
+    "chapter": "Informatica, PA digitale e competenze digitali",
+    "alt": "Figura 10.4 - Internet, Web e protocolli: browser, DNS, server, posta e cloud su livelli diversi della rete.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 53,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-10/05-sicurezza-informatica-pa.png",
+    "sha256": "c1af3cbb2713af5e8def056772925405c4cf9e7efb6acc0eb1fc8ab99261b1af",
+    "chapter": "Informatica, PA digitale e competenze digitali",
+    "alt": "Figura 10.5 - Sicurezza informatica nella PA: minacce, controlli e risposta agli incidenti.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 54,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-10/06-ecosistema-pa-digitale.png",
+    "sha256": "85f965061335c23d9b15fe5060ef21741a7252238ba9b9ce55a7778b05cfbc21",
+    "chapter": "Informatica, PA digitale e competenze digitali",
+    "alt": "Figura 10.6 - Ecosistema della PA digitale: CAD, identità, documenti, comunicazioni, pagamenti, dati e qualità dei servizi.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 55,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-10/07-istanza-online-conservazione.png",
+    "sha256": "456d7ebdb2efe258f5cb605ebbaa971dffcc9c2d858a784f09e746bf1109f8a2",
+    "chapter": "Informatica, PA digitale e competenze digitali",
+    "alt": "Figura 10.7 - Dall’istanza online alla conservazione: flusso operativo del procedimento digitale.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 56,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-11/01-mappa-inglese-concorsuale.png",
+    "sha256": "62157be3e2253abd347d5581bd0ed8b376b234d3a4124df3a4e4ea7c6164062c",
+    "chapter": "Inglese concorsuale essenziale",
+    "alt": "Figura 11.1 - Inglese concorsuale essenziale: mappa dei blocchi ad alto rendimento per bando, cloze, grammatica, lessico e output.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 57,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-11/02-metodo-cloze.png",
+    "sha256": "99be5d7cf0eb55c281496d3a462cf675180c31ef8ef0b16820f405ffc26416b3",
+    "chapter": "Inglese concorsuale essenziale",
+    "alt": "Figura 11.2 - Cloze e completamento frase: metodo in sei passaggi per scegliere la forma corretta.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 58,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-11/03-tempi-verbali-segnali.png",
+    "sha256": "eb3683e35b1c949be110d5949f450496179f401ed93eefad415325f62a671d53",
+    "chapter": "Inglese concorsuale essenziale",
+    "alt": "Figura 11.3 - Tempi verbali e segnali: collegare present, past, perfect, future, passive e conditionals agli indicatori della frase.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 59,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-11/04-ausiliari-modali.png",
+    "sha256": "fb1893c0c9f92b93e2ca530526e5a2718e4b2044097fc27e2e2fcbc9af7f71d7",
+    "chapter": "Inglese concorsuale essenziale",
+    "alt": "Figura 11.4 - Ausiliari e modali: be, do, have, modali e risposte brevi senza errori di forma.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 60,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-11/05-preposizioni-lessico-false-friends.png",
+    "sha256": "78005b16be187064558554d643b3bcb3c00a40a402ca66300beee27c6de22545",
+    "chapter": "Inglese concorsuale essenziale",
+    "alt": "Figura 11.5 - Preposizioni, lessico PA e false friends: studiare parole e collocazioni nel contesto amministrativo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 61,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-11/06-reading-email-orale.png",
+    "sha256": "6e2213a660eb5f6e937e536bbb3a007eca34d1d536c1b3389431889f86706bed",
+    "chapter": "Inglese concorsuale essenziale",
+    "alt": "Figura 11.6 - Reading, email e orale: tre output ricorrenti per comunicare in inglese in modo semplice e corretto.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 62,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-11/07-ripasso-diario-errori.png",
+    "sha256": "e04561afbd089b2a86f3924791383c0b4afc93aae9420410901ffd6f0fef86d5",
+    "chapter": "Inglese concorsuale essenziale",
+    "alt": "Figura 11.7 - Piano di ripasso e diario errori: priorità, simulazione e correzione per categoria.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 63,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-12/01-mappa-logica-comprensione-ragionamento.png",
+    "sha256": "d75fc3afd7a249d1ccd1d813803e466ccfa3ee6639828a53580b3550a8f61fe2",
+    "chapter": "Logica, comprensione del testo e ragionamento",
+    "alt": "Figura 12.1 - Logica, comprensione e ragionamento: mappa dei blocchi ad alto rendimento per brani, deduzioni, vincoli, serie, numerico e argomenti.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 64,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-12/02-classifica-prima-di-risolvere.png",
+    "sha256": "0d1d1278e94cc209b069fdb101fd4c5096c3a910396bc9096b1a2a2c2879e2f8",
+    "chapter": "Logica, comprensione del testo e ragionamento",
+    "alt": "Figura 12.2 - Classifica prima di risolvere: scegliere lo strumento giusto per brano, premesse, vincoli, calcolo e serie.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 65,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-12/03-parole-logiche-decisive.png",
+    "sha256": "e4ce7e689d07235a77a5b52d85ede801c0c0b1b4b81cbb52845f929d18f270a2",
+    "chapter": "Logica, comprensione del testo e ragionamento",
+    "alt": "Figura 12.3 - Le parole logiche decisive: connettivi, condizioni, quantificatori e negazioni da tradurre prima di scegliere l’opzione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 66,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-12/04-vincoli-serie-pattern.png",
+    "sha256": "cf173d28922d07ed7e155653df8e46a1f54f27ac43cbcd650d7efd1f26f18c7c",
+    "chapter": "Logica, comprensione del testo e ragionamento",
+    "alt": "Figura 12.4 - Vincoli, serie e pattern: trasformare informazioni sparse in blocchi, griglie, linee e regole controllabili.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 67,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-12/05-testo-argomento-evidenza.png",
+    "sha256": "b23f25b43ac0161f2628347763d02315c0d84088880c69310b928017b087bf2a",
+    "chapter": "Logica, comprensione del testo e ragionamento",
+    "alt": "Figura 12.5 - Testo e argomento: distinguere dato esplicito, inferenza, premessa, conclusione e assunzione nascosta.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 68,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-12/06-ragionamento-numerico-rapido.png",
+    "sha256": "31690d54ea9cff0d7a7740c6b11a24a2aa7f987b18f25c7bad288e4cdb23ccc0",
+    "chapter": "Logica, comprensione del testo e ragionamento",
+    "alt": "Figura 12.6 - Ragionamento numerico rapido: percentuali, proporzioni, tabelle e controllo di plausibilità partono dalla base corretta.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 69,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-12/07-tempo-esclusione-diario-errori.png",
+    "sha256": "f2e99b146187ba66748c5272a02cc62a567e2001818f27b4cdb3919c720dd77b",
+    "chapter": "Logica, comprensione del testo e ragionamento",
+    "alt": "Figura 12.7 - Tempo, esclusione e diario errori: gestire la prova a più giri e correggere ogni errore per categoria.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 70,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-13/01-mappa-metodo-studio-bando.png",
+    "sha256": "f116816423c2a52071235f3aee01532cab43e3f2f0c2588bd7732deed66543b4",
+    "chapter": "Metodo di studio per concorsi",
+    "alt": "Figura 13.1 - Metodo di studio per concorsi: il Metodo BANDO trasforma bando, aree, nuclei, diario e output in una settimana governata.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 71,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-13/02-dal-bando-alla-scheda-concorso.png",
+    "sha256": "6b23bf59afe70acd92f45d80a63fd703088b040c24c0245a356b3f1cbc10daa1",
+    "chapter": "Metodo di studio per concorsi",
+    "alt": "Figura 13.2 - Dal bando alla scheda concorso: estrarre prove, materie, vincoli e decisioni prima di costruire il calendario.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 72,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-13/03-calendario-inverso.png",
+    "sha256": "a3d80af0f8c6526ebdf460581c603a1729f78afa2f2645e8411fb7ffee19b2bc",
+    "chapter": "Metodo di studio per concorsi",
+    "alt": "Figura 13.3 - Calendario inverso: dalla data della prova si risale a setup, apprendimento base, consolidamento e rifinitura.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 73,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-13/04-sq3r-nuclei-alta-resa.png",
+    "sha256": "8cadcf7587173ec9ecc6bc1a34df1c479fc6aec90aae2754d508e100d2486ec2",
+    "chapter": "Metodo di studio per concorsi",
+    "alt": "Figura 13.4 - SQ3R per i nuclei ad alta resa: survey, question, read, recite e review trasformano la lettura in verifica.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 74,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-13/05-active-recall-ripasso-distribuito.png",
+    "sha256": "22131d73fac2e7fd694facaac3b8715eaed492eb98a935f18a2531e5f88aad73",
+    "chapter": "Metodo di studio per concorsi",
+    "alt": "Figura 13.5 - Active recall e ripasso distribuito: il test costruisce apprendimento e programma il ritorno sugli errori.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 75,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-13/06-blocco-studio-50-minuti.png",
+    "sha256": "a533cfceeb15934bef4c28c6bca7cfeea6d4001a05ea4ce8bbf5019b7e0953ce",
+    "chapter": "Metodo di studio per concorsi",
+    "alt": "Figura 13.6 - Blocco di studio da 50 minuti: obiettivo, teoria breve, richiamo, quiz o output e diario finale.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 76,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-13/07-diario-output-recupero.png",
+    "sha256": "e62e92022ee094a5f77d0fca20bebf570d31f3add31998e95747f4f9cfd6b817",
+    "chapter": "Metodo di studio per concorsi",
+    "alt": "Figura 13.7 - Diario, output e recupero: classificare l’errore permette di decidere drill, ripasso, recupero o taglio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 77,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-14/01-mappa-operativa-prova-quiz.png",
+    "sha256": "f3cf27271e92a810b342e531283104f2867987c0f86daf3f644b2c11d2b0faa1",
+    "chapter": "La prova a quiz",
+    "alt": "Figura 14.1 - La prova a quiz: mappa operativa per collegare bando, aree, nuclei, diario, output, tempo, rischio e correzione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 78,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-14/02-banca-dati-albero-decisionale.png",
+    "sha256": "caffbee350565b9022db98ae7f690fd0ad6f4613db0fa394bacb17e51a1f803c",
+    "chapter": "La prova a quiz",
+    "alt": "Figura 14.2 - Banca dati o no: albero decisionale per scegliere copertura completa, lavoro sui nuclei o calendario flessibile.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 79,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-14/03-scheda-tecnica-prova.png",
+    "sha256": "21c5360c70c6f4ae593ae177b1956242fbac90ffe83aa5d837496224258f83ae",
+    "chapter": "La prova a quiz",
+    "alt": "Figura 14.3 - Scheda tecnica della prova: cruscotto per numero domande, tempo, materie, punteggi, soglia, banca dati, modalità e ritorno.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 80,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-14/04-banca-dati-quattro-passaggi.png",
+    "sha256": "030d7cb32432084a23c1ce8e1ab20f765e41bd0e5c784d1cca7559e0e1ca8b2a",
+    "chapter": "La prova a quiz",
+    "alt": "Figura 14.4 - Metodo con banca dati in quattro passaggi: copertura, errori, consolidamento e simulazione con ritorno sugli errori.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 81,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-14/05-routine-tre-giri.png",
+    "sha256": "48d13cc28bbf33306a0e1dabf4db08a06354fd539e6c859f49d9531f68ad899d",
+    "chapter": "La prova a quiz",
+    "alt": "Figura 14.5 - Routine dei tre giri in prova: punti rapidi, domande lavorabili e rischio controllato in base a tempo e penalità.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 82,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-14/06-anatomia-del-distrattore.png",
+    "sha256": "d3b15836133ee36929b2c156e68e2c20690046d82dbed1a2f80a482ce4b8d31e",
+    "chapter": "La prova a quiz",
+    "alt": "Figura 14.6 - Anatomia del distrattore: segnali ricorrenti nelle risposte quasi vere, fuori domanda o costruite sulla fretta.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 83,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-14/07-dal-punteggio-al-diario-errori.png",
+    "sha256": "5f3830bcd15b46001c9e8df4b4bf5817ce349c8f1d559f2337bf0e51fb9642e8",
+    "chapter": "La prova a quiz",
+    "alt": "Figura 14.7 - Dal punteggio al diario errori: trasformare simulazione, categorie di errore e drill mirato nella prossima decisione di studio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 84,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-15/01-mappa-operativa-scritto.png",
+    "sha256": "ec7b17cc87b39c34417473c3545652699b6b32324a78b83037779bcce29e8f33",
+    "chapter": "La prova scritta e teorico-pratica",
+    "alt": "Figura 15.1 - La prova scritta: mappa operativa per collegare bando, formati, traccia, schema risposta, diario e output.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 85,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-15/02-formati-prova-scritta.png",
+    "sha256": "9670bf8d3e5452f5ba44d95af746548d5020a069471357478b38d545d13d276a",
+    "chapter": "La prova scritta e teorico-pratica",
+    "alt": "Figura 15.2 - Formati della prova scritta: risposta sintetica, domanda teorica, elaborato breve, caso pratico, teorico-pratica e prova mista.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 86,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-15/03-lettura-traccia.png",
+    "sha256": "d243ad9278531e086a98ffd0db7fc7f7e647fa73f8c6e8f7ed1e7053429fb267",
+    "chapter": "La prova scritta e teorico-pratica",
+    "alt": "Figura 15.3 - Lettura della traccia: verbo operativo, materia, istituto, soggetti, vincoli e output prima della scrittura.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 87,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-15/04-schema-risposta-concorsuale.png",
+    "sha256": "45516f4397fac3c46149744bb0c573e86068406d19879db3829da92c4875679a",
+    "chapter": "La prova scritta e teorico-pratica",
+    "alt": "Figura 15.4 - Schema della risposta concorsuale: definizione, riferimento sicuro, funzione, applicazione e conclusione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 88,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-15/05-risposte-10-20-30-righe.png",
+    "sha256": "b6828dd242f57b2773a4f78c6de437aab8ada314033a9e19ec5bf246155c7612",
+    "chapter": "La prova scritta e teorico-pratica",
+    "alt": "Figura 15.5 - Risposte in 10, 20 e 30 righe: selezionare contenuti e sviluppo in base allo spazio disponibile.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 89,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-15/06-caso-teorico-pratico.png",
+    "sha256": "bb38fdc4258d40c83261eafb39607481cf914d3936e81746dc592a11241fac3e",
+    "chapter": "La prova scritta e teorico-pratica",
+    "alt": "Figura 15.6 - Caso teorico-pratico: trasformare fatti, problema, soggetti e regola in una soluzione ordinata.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 90,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-15/07-tempo-diario-scritto.png",
+    "sha256": "0919702d460e1a045e4b0142088474ef7fa90b78a1863d2f96c5e56c2fd5aa63",
+    "chapter": "La prova scritta e teorico-pratica",
+    "alt": "Figura 15.7 - Tempo, revisione e diario dello scritto: simulare, correggere pertinenza, struttura e lessico, poi decidere il recupero.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 91,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-16/01-mappa-operativa-prova-orale.png",
+    "sha256": "282055e4c86c7529451caa152e90ee073d61e7cf161f15e1a37b437c39a557c7",
+    "chapter": "La prova orale",
+    "alt": "Figura 16.1 - La prova orale: mappa operativa per collegare bando, aree, nuclei, diario e output a voce.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 92,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-16/02-scheda-orale-bando.png",
+    "sha256": "dcf4e1f0c7d8cfefe2c55f3b6956e091f0d3bf352684340bcbb3baec0fc99ac7",
+    "chapter": "La prova orale",
+    "alt": "Figura 16.2 - Scheda orale del bando: materie, inglese, informatica, profilo, criteri, soglia e logistica da verificare prima della preparazione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 93,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-16/03-struttura-universale-risposta-orale.png",
+    "sha256": "a363fa9849c3c854f15fbf7dfba1c63b5aa1bee20a50d1d2850799bc31f476b9",
+    "chapter": "La prova orale",
+    "alt": "Figura 16.3 - Struttura universale della risposta orale: apertura, definizione, funzione, riferimento sicuro, esempio o collegamento e chiusura.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 94,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-16/04-risposta-due-minuti.png",
+    "sha256": "4a1c25c47a6cd73a0ce381ea34145c80cf9473eb092d45bb67c80237444a7e35",
+    "chapter": "La prova orale",
+    "alt": "Figura 16.4 - Risposta orale in due minuti: inquadramento, sviluppo, esempio o collegamento e chiusura entro 120 secondi.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 95,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-16/05-collegamenti-domande-incrociate.png",
+    "sha256": "d77af741f2467d968c238adb800e1692ca74644e4dfff6b66b4bfec2d9c1e095",
+    "chapter": "La prova orale",
+    "alt": "Figura 16.5 - Collegamenti e domande incrociate: rispondere al punto, usare esempi, distinzioni, casi nuovi e ponti brevi senza perdere ordine.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 96,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-16/06-domande-simulazioni-progressive.png",
+    "sha256": "fe2239dd294df1a85639d7ee982bf4882f1442cd71f26f3c5498050ce4215e03",
+    "chapter": "La prova orale",
+    "alt": "Figura 16.6 - Domande e simulazioni progressive: trasformare ogni nucleo in domanda base, confronto, applicazione e colloquio misto.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 97,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-16/07-diario-ultimi-sette-giorni.png",
+    "sha256": "2fd4a5ebaca439479f4e8c5f1503490b486d6c71e59139b715240135acdec9dd",
+    "chapter": "La prova orale",
+    "alt": "Figura 16.7 - Diario orale e ultimi sette giorni: simulare, registrare, classificare e correggere fino alla prova.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 98,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-17/01-mappa-bando-caso-pratico.png",
+    "sha256": "5c4bf42313003cacefdd74d4ad4c327f6289a5ec9bba0fb3b02fa30361e8dbe0",
+    "chapter": "Casi pratici e problem solving amministrativo",
+    "alt": "Figura 17.1 - Mappa BANDO del caso pratico: trasformare bando, aree, nuclei, diario e output in una soluzione amministrativa corretta.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 99,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-17/02-caso-come-fascicolo-amministrativo.png",
+    "sha256": "7cddc0e98d614919de95ce8438458352b8c7241d6353deb33561b965792a447e",
+    "chapter": "Casi pratici e problem solving amministrativo",
+    "alt": "Figura 17.2 - Il caso come fascicolo amministrativo ridotto: separare dettagli narrativi da fatti, soggetti, procedimento, regola, vincoli e output.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 100,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-17/03-griglia-otto-domande.png",
+    "sha256": "12fed5091b78524184f41be3b9ebeb8d8b599e5d19ef5c02c17a2810d95960a2",
+    "chapter": "Casi pratici e problem solving amministrativo",
+    "alt": "Figura 17.3 - Griglia in otto domande: richiesta, fatti, soggetti, competenza, nucleo, vincoli, soluzione e output.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 101,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-17/04-schema-risposta-caso-pratico.png",
+    "sha256": "dee5741596be689fd4ac2c8b45b6854347bd9c96ce32bd13d4be945d9130caca",
+    "chapter": "Casi pratici e problem solving amministrativo",
+    "alt": "Figura 17.4 - Schema di risposta al caso pratico: fatti, problema, regola, applicazione, soluzione e cautele.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 102,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-17/05-nuclei-alto-rendimento.png",
+    "sha256": "9287dfb1f604474be61c8b7824b18ec72057c5d20a365df9014cd6fa54cb392f",
+    "chapter": "Casi pratici e problem solving amministrativo",
+    "alt": "Figura 17.5 - Nuclei ad alto rendimento nei casi pratici: competenza, responsabile, termini, motivazione, accesso, privacy, trasparenza, comportamento, contratti e riesame.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 103,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-17/06-matrice-casi-ricorrenti.png",
+    "sha256": "ba7acc6b898c0b885dcd6a38a4575095cf91fda1cdc9cd69055472401920887d",
+    "chapter": "Casi pratici e problem solving amministrativo",
+    "alt": "Figura 17.6 - Matrice degli otto casi ricorrenti di base: istanza incompleta, accesso con dati, ritardo, sportello sbagliato, graduatoria, ufficio non competente, acquisto urgente e riesame.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 104,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-17/07-output-diario-casi.png",
+    "sha256": "3feed269f72dfa79eda5aee1c78fba5d76338d1e95187ef4ed2ef335a681e117",
+    "chapter": "Casi pratici e problem solving amministrativo",
+    "alt": "Figura 17.7 - Output e diario dei casi pratici: adattare lo stesso ragionamento a quiz, scritto e orale, poi classificare l’errore per correggere il passaggio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 105,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-18/01-mappa-bando-quesiti-situazionali.png",
+    "sha256": "87b883a6f8b8ad742bf99ec4a987ed74686df9863ae821bf7f46419c522a7730",
+    "chapter": "Quesiti situazionali e soft skills",
+    "alt": "Figura 18.1 - Mappa BANDO dei quesiti situazionali: dal bando alla scelta motivata, con scenario, criteri, diario e output.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 106,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-18/02-competenze-trasversali-pa.png",
+    "sha256": "7744ea8c54f6781b9ae44b76d8e526a3211fd8a488ef74e321c4f4ac048350e2",
+    "chapter": "Quesiti situazionali e soft skills",
+    "alt": "Figura 18.2 - Competenze trasversali nella PA: capire il contesto, interagire, realizzare valore e gestire risorse dentro integrità, inclusione e sostenibilità.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 107,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-18/03-anatomia-quesito-situazionale.png",
+    "sha256": "179464268555a1cb596d12f32d789d4419661ffb6db746580c21e46da0c6bf6a",
+    "chapter": "Quesiti situazionali e soft skills",
+    "alt": "Figura 18.3 - Anatomia del quesito situazionale: scenario, ruolo, tensione, opzioni e richiesta vanno letti separatamente.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 108,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-18/04-gerarchia-di-scelta.png",
+    "sha256": "b3e03476bb9340b570be821e72f15b565445f57671b59442e1e33b7134824f37",
+    "chapter": "Quesiti situazionali e soft skills",
+    "alt": "Figura 18.4 - Gerarchia di scelta: legalità e competenza vengono prima, poi imparzialità, riservatezza, servizio, collaborazione e tracciabilità.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 109,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-18/05-quattro-risposte-deboli.png",
+    "sha256": "988a2633a7912285af56a6660c85e771bc349f18dbfdcc4ac098c5020dc30ac3",
+    "chapter": "Quesiti situazionali e soft skills",
+    "alt": "Figura 18.5 - Le quattro risposte deboli: buonismo, rigidità, passività e iniziativa fuori ruolo sono trappole ricorrenti.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 110,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-18/06-lettura-guidata-opzioni.png",
+    "sha256": "6a1e6a66547bfed925b11f0f8c14fbcad27054bddeea77ddcabe2de240617666",
+    "chapter": "Quesiti situazionali e soft skills",
+    "alt": "Figura 18.6 - Lettura guidata delle opzioni: classificare ogni alternativa come scorretta, debole, accettabile o efficace prima di scegliere.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 111,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-18/07-routine-diario-errori-situazionali.png",
+    "sha256": "a0e73e09347dbd2467ba1b9e39f5d79718c4151e837799e15f51e4505552619d",
+    "chapter": "Quesiti situazionali e soft skills",
+    "alt": "Figura 18.7 - Routine e diario degli errori situazionali: allenare il criterio di scelta e registrare la categoria dell’errore.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 112,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-19/01-mappa-bando-famiglie-concorsuali.png",
+    "sha256": "37ae850d865afc547b873ff35ff4cda4d8ed6810dee57387b77f7d8b4ba307e8",
+    "chapter": "Le famiglie dei concorsi pubblici",
+    "alt": "Figura 19.1 - Mappa BANDO delle famiglie concorsuali: usare la famiglia per leggere bando, aree, nuclei, diario e output senza saltare il bando.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 113,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-19/02-due-errori-da-evitare.png",
+    "sha256": "24d232d2c19fd06317442f594f25d672aa891413ea4c56b38864412a1d3fc2c7",
+    "chapter": "Le famiglie dei concorsi pubblici",
+    "alt": "Figura 19.2 - Due errori da evitare: trattare tutti i concorsi come uguali oppure ricominciare da zero ogni volta.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 114,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-19/03-quattro-domande-famiglia.png",
+    "sha256": "39a7a03c7920580e379c890649d5bf33e8f31774c2ed2607fe70a5b90c3ce16e",
+    "chapter": "Le famiglie dei concorsi pubblici",
+    "alt": "Figura 19.3 - Quattro domande per riconoscere la famiglia: chi assume, quale profilo, quale funzione e quale prova seleziona davvero.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 115,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-19/05-nucleo-comune-modulo-profilo.png",
+    "sha256": "a1ceecd90e5168fc1e7c0e61bbeacb4b6229608049767e9184819fef2d91d277",
+    "chapter": "Le famiglie dei concorsi pubblici",
+    "alt": "Figura 19.4 - Nucleo comune e modulo profilo: la base riutilizzabile va completata dal modulo che distingue famiglia, ruolo e prova.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 116,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-19/04-atlante-famiglie-concorsuali.png",
+    "sha256": "296ac1ccd50c9af6083268f1781483a589b552630c23916914e948e9997f4807",
+    "chapter": "Le famiglie dei concorsi pubblici",
+    "alt": "Figura 19.5 - Atlante operativo delle famiglie concorsuali: raggruppare i concorsi per contesto, rischio e modulo da aggiungere.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 117,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-19/06-caso-guidato-tre-bandi.png",
+    "sha256": "21d539acb7971d30ab9ddde9513594bc92314661d03f6b1ebfd8bf83076037e8",
+    "chapter": "Le famiglie dei concorsi pubblici",
+    "alt": "Figura 19.6 - Caso guidato dei tre bandi: stesso nucleo comune, ma moduli diversi per comune contabile, agenzia fiscale e università.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 118,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-19/07-sequenza-famiglia-piano.png",
+    "sha256": "75620da4583282e0d5aeb9fb201f3d1dcc0aed6293e8e46d47d24506d4e39697",
+    "chapter": "Le famiglie dei concorsi pubblici",
+    "alt": "Figura 19.7 - Sequenza operativa dalla famiglia al piano: famiglia, profilo, programma, materiali e simulazioni coerenti.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 119,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-20/01-mappa-bando-mappe-profilo.png",
+    "sha256": "a7ef5a5c4cafbe543c74b1d2f066102cbf2c081bfb4c12a02ba59ae28ce6ea39",
+    "chapter": "Mappe profilo: cosa resta comune e cosa cambia",
+    "alt": "Figura 20.1 - Mappa BANDO delle mappe profilo",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 120,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-20/02-core-modulo-prova-reale.png",
+    "sha256": "0d3770988a76fb82c1a1309767e02fe62c6a3434f6ef9edd4f69f155e46570a5",
+    "chapter": "Mappe profilo: cosa resta comune e cosa cambia",
+    "alt": "Figura 20.2 - Formula core, modulo profilo e prova reale",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 121,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-20/03-scheda-unica-profilo.png",
+    "sha256": "7b4a982acf868ad2c9c83619ec31fd116ab9e4646308fb1063b680d74af780ff",
+    "chapter": "Mappe profilo: cosa resta comune e cosa cambia",
+    "alt": "Figura 20.3 - Scheda unica di mappa profilo",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 122,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-20/04-profili-amministrativi-e-centrali.png",
+    "sha256": "7f9ed5ab2bb1ea8c4f78794b8821dbed3c6dadd869e340eff70bc81adba950a3",
+    "chapter": "Mappe profilo: cosa resta comune e cosa cambia",
+    "alt": "Figura 20.4 - Profili amministrativi e centrali",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 123,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-20/05-profili-specialistici-e-servizi.png",
+    "sha256": "ea6e48396f7809f45118298ebcd3b4e70e53bf919f7cf710c4aa712282ec6d81",
+    "chapter": "Mappe profilo: cosa resta comune e cosa cambia",
+    "alt": "Figura 20.5 - Profili specialistici e servizi",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 124,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-20/06-semaforo-e-pesatura-tempo.png",
+    "sha256": "475a53e0a7632bd487c26091d2294e903338266c27976645a02fe5c770a097f8",
+    "chapter": "Mappe profilo: cosa resta comune e cosa cambia",
+    "alt": "Figura 20.6 - Semaforo e pesatura del tempo",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 125,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-20/07-caso-guidato-conversione-profilo.png",
+    "sha256": "228056aec4ea4ad05754de7008a84e62d133596c3c187bab6d6d2c4cbb3f05d7",
+    "chapter": "Mappe profilo: cosa resta comune e cosa cambia",
+    "alt": "Figura 20.7 - Caso guidato: convertire una preparazione",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 126,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-21/01-mappa-bando-moduli-integrativi.png",
+    "sha256": "56d6092e07072bbccb0d367e3e6d9f3b8410f4f1ecf443b855aa9fef4e93dad2",
+    "chapter": "Come scegliere i moduli integrativi",
+    "alt": "Figura 21.1 - Mappa BANDO dei moduli integrativi",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 127,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-21/02-core-modulo-approfondimento.png",
+    "sha256": "a6a204a5d292ce6bcefbce54f2faec812c2fe58b5c125b3e9dc203408164524f",
+    "chapter": "Come scegliere i moduli integrativi",
+    "alt": "Figura 21.2 - Core, modulo e approfondimento",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 128,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-21/03-quattro-requisiti-del-modulo.png",
+    "sha256": "b221062d31624bbf01ad067e914448de6f3b9139c13ab6a6b93439481bc3fdba",
+    "chapter": "Come scegliere i moduli integrativi",
+    "alt": "Figura 21.3 - Quattro requisiti del modulo",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 129,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-21/04-cinque-filtri-di-scelta.png",
+    "sha256": "a5ac31911339a1b0437f877141bcd4e28a28c69168139af95d4095933be17f6c",
+    "chapter": "Come scegliere i moduli integrativi",
+    "alt": "Figura 21.4 - I cinque filtri di scelta",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 130,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-21/05-matrice-decisione-moduli.png",
+    "sha256": "3a660fb203cd819e007e0ce0d5d2649a751a6dc17950c6bb3c19878e145a2a8a",
+    "chapter": "Come scegliere i moduli integrativi",
+    "alt": "Figura 21.5 - Matrice di decisione dei moduli",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 131,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-21/06-atlante-moduli-integrativi.png",
+    "sha256": "e46ffe06b53b4abf756a8692cd704b5ff48d06991d1998a453afa7e856cf142d",
+    "chapter": "Come scegliere i moduli integrativi",
+    "alt": "Figura 21.6 - Atlante operativo dei moduli integrativi",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 132,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-21/07-scheda-modulo-e-caso-sara.png",
+    "sha256": "44cc80218c16aed254330c2a794bee988d91b61901bc5b73ecc81c8a15627229",
+    "chapter": "Come scegliere i moduli integrativi",
+    "alt": "Figura 21.7 - Scheda modulo e caso Sara",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 133,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-22/01-cinque-dati-obbligatori.png",
+    "sha256": "b6e0167221c373f97809677b9f1663d0ced9568f23f40687f0c43daaadd97e50",
+    "chapter": "Piano 30/60/90 giorni",
+    "alt": "Figura 22.1 - Cinque dati obbligatori prima del piano",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 134,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-22/02-mappa-bando-del-piano.png",
+    "sha256": "173b8302d6fedaadf010da2484423696b216d4b045d5d7166feb381dab67b6a5",
+    "chapter": "Piano 30/60/90 giorni",
+    "alt": "Figura 22.2 - Mappa BANDO del piano 30/60/90",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 135,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-22/03-struttura-base-ogni-piano.png",
+    "sha256": "1b25354169361f38ff57d2d13275eed3943472d122a2808b41e31671115edfae",
+    "chapter": "Piano 30/60/90 giorni",
+    "alt": "Figura 22.3 - Struttura base di ogni piano",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 136,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-22/04-confronto-30-60-90-giorni.png",
+    "sha256": "cb1fde65babdb77061692fe416db4c849cfbec9799c048f9a78faeb59f5cb6cf",
+    "chapter": "Piano 30/60/90 giorni",
+    "alt": "Figura 22.4 - Confronto operativo 30/60/90 giorni",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 137,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-22/05-piano-15-giorni-e-tagli.png",
+    "sha256": "0891a203e6c6fc599f83da3f86284aeb18a8f282d1bcfa44f4a11b3d0f285848",
+    "chapter": "Piano 30/60/90 giorni",
+    "alt": "Figura 22.5 - Piano 15 giorni e tagli",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 138,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-22/06-settimana-tipo-output.png",
+    "sha256": "997d7e327e5a4b88f37a3a148dd9b553e0b7be6f45d67f1cf21b0bdd2c6ac0a1",
+    "chapter": "Piano 30/60/90 giorni",
+    "alt": "Figura 22.6 - Settimana tipo orientata agli output",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 139,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-22/07-caso-luca-ciclo-controllo.png",
+    "sha256": "0996335156fe5b6ff26fdb3eb345d02d1ce7e45c3563b27ad00ffaf0b878e14b",
+    "chapter": "Piano 30/60/90 giorni",
+    "alt": "Figura 22.7 - Caso Luca: ciclo di controllo",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 140,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-23/01-mappa-bando-diario-errori.png",
+    "sha256": "f63389e7fd82b13f85e50bc8ffca28dc4fd3218c0b660f3f169a13d0ef55f037",
+    "chapter": "Il diario degli errori",
+    "alt": "Figura 23.1 - Mappa BANDO del diario degli errori",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 141,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-23/02-sei-categorie-errore.png",
+    "sha256": "7c00a97563984933cb231c48b7bc44af5f3adb5f5cd9f269ce99c644faa8ab10",
+    "chapter": "Il diario degli errori",
+    "alt": "Figura 23.2 - Le sei categorie di errore",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 142,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-23/03-protocollo-sei-passaggi.png",
+    "sha256": "48824a5a02bb2593024fc10b8b373f69bfa95ee26d8eb2251bf2fbb2a6f6561c",
+    "chapter": "Il diario degli errori",
+    "alt": "Figura 23.3 - Protocollo in sei passaggi",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 143,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-23/04-scheda-diario-errori.png",
+    "sha256": "9a6fd6237d345c76d704898b1798dc4f21dbc53f040f9f4a17d97e7e93975558",
+    "chapter": "Il diario degli errori",
+    "alt": "Figura 23.4 - Scheda professionale del diario",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 144,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-23/05-diario-per-prove.png",
+    "sha256": "a70d077d807a233da3cb21fd7e93d2ae37a15e7ed3754a605b53fbdb3c3fd709",
+    "chapter": "Il diario degli errori",
+    "alt": "Figura 23.5 - Usare il diario nelle diverse prove",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 145,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-23/06-flashcard-ripasso-materia-peggiora.png",
+    "sha256": "8a9465352764a8caa394449f321035fe942fc086c3a52aba8748be049e17d907",
+    "chapter": "Il diario degli errori",
+    "alt": "Figura 23.6 - Dall’errore al ripasso mirato",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 146,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-23/07-caso-marta-pattern-errori.png",
+    "sha256": "d41bde99b4c44b2907b4eee361c960a7e0e437b0de31bd53dd9d054b5f3a3168",
+    "chapter": "Il diario degli errori",
+    "alt": "Figura 23.7 - Caso Marta: leggere i pattern",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 147,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-24/02-tre-regole-checklist.png",
+    "sha256": "4e879d907fa37db643223b90b70c887307f4816bc3b5e6ef0c37e2bc95c07c74",
+    "chapter": "Checklist operative",
+    "alt": "Figura 24.1 - Tre regole per usare le checklist",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 148,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-24/01-mappa-bando-checklist.png",
+    "sha256": "853ca52a4392584003d6c714a2ef4edea6acdf52b4fcec72c47ded49d655e75c",
+    "chapter": "Checklist operative",
+    "alt": "Figura 24.2 - Mappa BANDO delle checklist",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 149,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-24/03-percorso-domanda-comunicazioni.png",
+    "sha256": "613c9a6c923c6d2aab1be604ce21e2d6a1563c504bfdfae81c445b47ec81385b",
+    "chapter": "Checklist operative",
+    "alt": "Figura 24.3 - Percorso domanda e comunicazioni",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 150,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-24/04-checklist-preparazione-prove.png",
+    "sha256": "d2790c416631b0e788452ec2a2ba77b5d627b7f5ce9cb0b27065eb825f1e0077",
+    "chapter": "Checklist operative",
+    "alt": "Figura 24.4 - Preparazione delle prove",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 151,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-24/05-ultimi-sette-giorni-ventiquattro-ore.png",
+    "sha256": "f60545ef8a2cf0ee1ca8ef52cbe44351fe5e7093bd1600bb108d3b2c5c8e8803",
+    "chapter": "Checklist operative",
+    "alt": "Figura 24.5 - Ultimi 7 giorni e ultime 24 ore",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 152,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-24/06-logistica-ansia-tenuta.png",
+    "sha256": "3b7251709a4ec0483e1f765c9f00e49c7910c9f008ea3a144626613c59e6c950",
+    "chapter": "Checklist operative",
+    "alt": "Figura 24.6 - Logistica, ansia e tenuta",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 153,
+    "file": "wiki/books/il-metodo-bando/assets/chapter-24/07-checklist-unica-bando-caso-giulia.png",
+    "sha256": "df6e611891f23541fd2890516b1bf448185c541c464305dd7e522d62ae9d8726",
+    "chapter": "Checklist operative",
+    "alt": "Figura 24.7 - Checklist unica BANDO: caso Giulia",
+    "pixels": [
+      1600,
+      900
+    ]
+  }
+]

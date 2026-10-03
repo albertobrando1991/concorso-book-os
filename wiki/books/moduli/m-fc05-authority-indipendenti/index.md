@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/m-fc05-verifica-normativa-2026-07-29.md","sources/vol-05-bandi-authority-2022-2025.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.85
-updated_at: 2026-08-22T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -21,7 +21,7 @@ module_family_title: "Funzioni Centrali"
 module_status: final
 roadmap_phase: "4"
 companion_to: il-metodo-bando
-draft_stage: frozen
+draft_stage: specialist_audit_done
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md", "wiki/books/vol-05-authority-regolazione/index.md"]
 ---
 
@@ -61,3 +61,11 @@ Il modulo M-FC05 è un volume unico con cinque moduli interni. Il front matter d
 La verifica dei bandi di riferimento Banca d'Italia, ANAC e CONSOB è documentata in [[reviews/m-fc05-verifica-bandi-riferimento-2026-07-29]]. I programmi Banca d'Italia e ANAC sono stati acquisiti e consolidati; per l'edizione generale non è assegnato un bando target unico e non deriva da ciò alcuna attività aperta.
 
 Qualora il prodotto sia in futuro adattato a una procedura nominata, allineare allora ente, profilo, programma, prove, avvisi e regolamenti alla fonte primaria vigente. La decisione su AIFA resta esterna al perimetro M-FC05 e richiede valutazione editoriale separata.
+
+## Versione del 3 ottobre 2026
+
+Quindici capitoli; percorsi G giuridico, E economico-regolatorio e P giuridico-economico. Novanta quesiti aperti specifici, quindici casi finali e dieci simulazioni svolte con dossier, tre prove economiche numeriche e memo inglese. Il capitolo 1 contiene rinvii puntuali al base e piani di studio alternativi. Il perimetro non comprende un corso avanzato di econometria né ogni materia di qualsiasi bando.
+
+## Congelamento del testo
+
+Testo verificato al 3 ottobre 2026; audit 14 e 15 superati. Freeze 16 manuale con manifest SHA-256 perché il gate automatico non è implementato. Trentatré rilievi testuali chiusi; schemi, PDF aggiornato e pacchetto finale in lavorazione. Ogni modifica sostanziale riapre i gate pertinenti.

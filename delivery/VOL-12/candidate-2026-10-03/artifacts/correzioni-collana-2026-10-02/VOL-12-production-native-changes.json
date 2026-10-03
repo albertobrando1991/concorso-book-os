@@ -1,0 +1,14 @@
+[
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+    "beforeSHA256": "d4b771c4e0f1a86deb773af86fa10de36dbbcfb5ee9feab70d26f9632223df61",
+    "sha256": "55d2812a7756ad8614411224d347e8e0ea1d8b058db340fad897b31a9f11d78b",
+    "change": "Scheda a tre tabelle native: conservati tutti i 16 campi e rimossa separazione tra consegna e campi."
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+    "beforeSHA256": "4881ecc1676119883f51598d9225795b7d162aa7f471c89f547f85a0a906f69f",
+    "sha256": "b48d54605d8842e1d6f1832e4a2253f43b7afe51e4881af98f328fb8bef678c8",
+    "change": "Ripristinati gli spazi mancanti dopo virgole nel piano orario e in PS viceispettori."
+  }
+]

@@ -1,115 +1,87 @@
----
-id: review-pipeline-vol-05-step-18-m-fc05
-type: review
-title: "VOL-05 step 18 — audit immagini M-FC05"
-status: complete
-book_id: vol-05-authority-regolazione
-module_code: M-FC05
-updated_at: 2026-08-22
-review_required: false
-canonical: true
----
+# VOL-05 — Verifica grafica, 3 ottobre 2026
 
-# Audit e ottimizzazione immagini — M-FC05
+75 tavole convertite in schemi nativi specifici; preservati tutti gli originali raster. Filosofia visiva in planning/17-filosofia-visiva-2026-10-03.md. Controllo finale sul PDF di 239 pagine, SHA-256 7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5.
 
-## Esito
+| Asset | Problema | Correzione | Verifica Book Studio/PDF | Esito |
+|---|---|---|---|---|
+| ../assets/chapter-02/01-mappa-bando-indipendenza-governance-accountability-personale.png | Tavola minuta o generica; relazione da esplicitare | Schema 2.1 — Studiare l’ordinamento dell’ente | Pagina 25; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-02/02-architettura-indipendenza-governance-accountability-personale.png | Tavola minuta o generica; relazione da esplicitare | Schema 2.2 — Tre dimensioni dell’indipendenza | Pagina 30; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-02/03-flusso-indipendenza-governance-accountability-personale.png | Tavola minuta o generica; relazione da esplicitare | Schema 2.3 — Organi, uffici e controlli | Pagina 32; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-02/04-distinzioni-indipendenza-governance-accountability-personale.png | Tavola minuta o generica; relazione da esplicitare | Schema 2.4 — Tre nomine da non scambiare | Pagina 33; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-02/05-sintesi-indipendenza-governance-accountability-personale.png | Tavola minuta o generica; relazione da esplicitare | Schema 2.5 — Accountability verificabile | Pagina 34; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-03/01-mappa-bando-regolazione-europea-reti.png | Tavola minuta o generica; relazione da esplicitare | Schema 3.1 — Ragionare sul livello europeo | Pagina 41; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-03/02-architettura-regolazione-europea-reti.png | Tavola minuta o generica; relazione da esplicitare | Schema 3.2 — Fonti dell’articolo 288 TFUE | Pagina 42; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-03/03-flusso-regolazione-europea-reti.png | Tavola minuta o generica; relazione da esplicitare | Schema 3.3 — Dal fatto transfrontaliero alla competenza | Pagina 44; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-03/04-distinzioni-regolazione-europea-reti.png | Tavola minuta o generica; relazione da esplicitare | Schema 3.4 — Organismi distinti | Pagina 46; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-03/05-sintesi-regolazione-europea-reti.png | Tavola minuta o generica; relazione da esplicitare | Schema 3.5 — Verificare la forza di un documento | Pagina 48; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-04/01-mappa-bando-ciclo-regolatorio-air-vir.png | Tavola minuta o generica; relazione da esplicitare | Schema 4.1 — Allenare il ciclo regolatorio | Pagina 55; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-04/02-architettura-ciclo-regolatorio-air-vir.png | Tavola minuta o generica; relazione da esplicitare | Schema 4.2 — Consultazione, AIR e VIR | Pagina 57; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-04/03-flusso-ciclo-regolatorio-air-vir.png | Tavola minuta o generica; relazione da esplicitare | Schema 4.3 — Un ciclo con riesame | Pagina 58; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-04/04-distinzioni-ciclo-regolatorio-air-vir.png | Tavola minuta o generica; relazione da esplicitare | Schema 4.4 — Leggere una mini-AIR | Pagina 59; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-04/05-sintesi-ciclo-regolatorio-air-vir.png | Tavola minuta o generica; relazione da esplicitare | Schema 4.5 — Conclusione motivata | Pagina 61; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-05/01-mappa-bando-vigilanza-istruttoria-prova.png | Tavola minuta o generica; relazione da esplicitare | Schema 5.1 — Costruire un’istruttoria | Pagina 69; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-05/02-architettura-vigilanza-istruttoria-prova.png | Tavola minuta o generica; relazione da esplicitare | Schema 5.2 — Quattro livelli dell’evidenza | Pagina 71; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-05/03-flusso-vigilanza-istruttoria-prova.png | Tavola minuta o generica; relazione da esplicitare | Schema 5.3 — Richiesta dati delimitata | Pagina 72; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-05/04-distinzioni-vigilanza-istruttoria-prova.png | Tavola minuta o generica; relazione da esplicitare | Schema 5.4 — Ispezioni: verificare il luogo | Pagina 74; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-05/05-sintesi-vigilanza-istruttoria-prova.png | Tavola minuta o generica; relazione da esplicitare | Schema 5.5 — Qualità del fascicolo | Pagina 76; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-06/01-mappa-bando-sanzioni-impegni-rimedi.png | Tavola minuta o generica; relazione da esplicitare | Schema 6.1 — Scegliere il rimedio corretto | Pagina 83; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-06/02-architettura-sanzioni-impegni-rimedi.png | Tavola minuta o generica; relazione da esplicitare | Schema 6.2 — Strumenti con presupposti diversi | Pagina 85; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-06/03-flusso-sanzioni-impegni-rimedi.png | Tavola minuta o generica; relazione da esplicitare | Schema 6.3 — Esiti alternativi del procedimento | Pagina 86; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-06/04-distinzioni-sanzioni-impegni-rimedi.png | Tavola minuta o generica; relazione da esplicitare | Schema 6.4 — Due ottemperanze | Pagina 88; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-06/05-sintesi-sanzioni-impegni-rimedi.png | Tavola minuta o generica; relazione da esplicitare | Schema 6.5 — Prima del ricorso | Pagina 91; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-07/01-mappa-bando-economia-regolazione-dati.png | Tavola minuta o generica; relazione da esplicitare | Schema 7.1 — Usare i numeri nella prova | Pagina 98; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-07/02-architettura-economia-regolazione-dati.png | Tavola minuta o generica; relazione da esplicitare | Schema 7.2 — Concentrazione e potere di mercato | Pagina 100; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-07/03-flusso-economia-regolazione-dati.png | Tavola minuta o generica; relazione da esplicitare | Schema 7.3 — Dal dato alla scelta | Pagina 102; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-07/04-distinzioni-economia-regolazione-dati.png | Tavola minuta o generica; relazione da esplicitare | Schema 7.4 — Tetto ai prezzi e ai ricavi | Pagina 103; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-07/05-sintesi-economia-regolazione-dati.png | Tavola minuta o generica; relazione da esplicitare | Schema 7.5 — RAB, WACC e imputazione | Pagina 106; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-08/01-mappa-bando-agcm-concorrenza-consumatore.png | Tavola minuta o generica; relazione da esplicitare | Schema 8.1 — Qualificare il caso AGCM | Pagina 115; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-08/02-architettura-agcm-concorrenza-consumatore.png | Tavola minuta o generica; relazione da esplicitare | Schema 8.2 — Antitrust e consumatore | Pagina 116; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-08/03-flusso-agcm-concorrenza-consumatore.png | Tavola minuta o generica; relazione da esplicitare | Schema 8.3 — Il controllo AGCM | Pagina 120; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-08/04-distinzioni-agcm-concorrenza-consumatore.png | Tavola minuta o generica; relazione da esplicitare | Schema 8.4 — Pratiche scorrette | Pagina 122; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-08/05-sintesi-agcm-concorrenza-consumatore.png | Tavola minuta o generica; relazione da esplicitare | Schema 8.5 — Promessa e costo nascosto | Pagina 124; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-09/01-mappa-bando-arera-servizi-tariffe.png | Tavola minuta o generica; relazione da esplicitare | Schema 9.1 — Leggere il servizio regolato | Pagina 131; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-09/02-architettura-arera-servizi-tariffe.png | Tavola minuta o generica; relazione da esplicitare | Schema 9.2 — Tre livelli del PEF rifiuti | Pagina 132; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-09/03-flusso-arera-servizi-tariffe.png | Tavola minuta o generica; relazione da esplicitare | Schema 9.3 — Costo, qualità e tariffa | Pagina 135; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-09/04-distinzioni-arera-servizi-tariffe.png | Tavola minuta o generica; relazione da esplicitare | Schema 9.4 — Tre separazioni | Pagina 137; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-09/05-sintesi-arera-servizi-tariffe.png | Tavola minuta o generica; relazione da esplicitare | Schema 9.5 — Reclamo, indennizzo e conciliazione | Pagina 139; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-10/01-mappa-bando-agcom-media-piattaforme.png | Tavola minuta o generica; relazione da esplicitare | Schema 10.1 — Separare comunicazioni e piattaforme | Pagina 146; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-10/02-architettura-agcom-media-piattaforme.png | Tavola minuta o generica; relazione da esplicitare | Schema 10.2 — Fonti e interessi | Pagina 148; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-10/03-flusso-agcom-media-piattaforme.png | Tavola minuta o generica; relazione da esplicitare | Schema 10.3 — Reclamo e controversia dell’utente | Pagina 150; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-10/04-distinzioni-agcom-media-piattaforme.png | Tavola minuta o generica; relazione da esplicitare | Schema 10.4 — SMP, VLOP e gatekeeper | Pagina 152; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-10/05-sintesi-agcom-media-piattaforme.png | Tavola minuta o generica; relazione da esplicitare | Schema 10.5 — Chi decide nel DSA | Pagina 153; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-11/01-mappa-bando-consob-mercati-investitore.png | Tavola minuta o generica; relazione da esplicitare | Schema 11.1 — Studiare la tutela dell’investitore | Pagina 161; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-11/02-architettura-consob-mercati-investitore.png | Tavola minuta o generica; relazione da esplicitare | Schema 11.2 — Tre soggetti del mercato | Pagina 162; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-11/03-flusso-consob-mercati-investitore.png | Tavola minuta o generica; relazione da esplicitare | Schema 11.3 — Controllo e possibili esiti | Pagina 164; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-11/04-distinzioni-consob-mercati-investitore.png | Tavola minuta o generica; relazione da esplicitare | Schema 11.4 — Tre valutazioni del servizio | Pagina 166; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-11/05-sintesi-consob-mercati-investitore.png | Tavola minuta o generica; relazione da esplicitare | Schema 11.5 — Condotta e rimedi | Pagina 167; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-12/01-mappa-bando-banca-italia-ivass.png | Tavola minuta o generica; relazione da esplicitare | Schema 12.1 — Leggere la prudenza e le tutele | Pagina 175; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-12/02-architettura-banca-italia-ivass.png | Tavola minuta o generica; relazione da esplicitare | Schema 12.2 — Vigilanza e controversia | Pagina 176; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-12/03-flusso-banca-italia-ivass.png | Tavola minuta o generica; relazione da esplicitare | Schema 12.3 — Dalla segnalazione all’intervento | Pagina 178; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-12/04-distinzioni-banca-italia-ivass.png | Tavola minuta o generica; relazione da esplicitare | Schema 12.4 — Capitale e liquidità | Pagina 179; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-12/05-sintesi-banca-italia-ivass.png | Tavola minuta o generica; relazione da esplicitare | Schema 12.5 — Tre ADR, tre oggetti | Pagina 180; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-13/01-mappa-bando-garante-privacy-cooperazione.png | Tavola minuta o generica; relazione da esplicitare | Schema 13.1 — Applicare i poteri del Garante | Pagina 192; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-13/02-architettura-garante-privacy-cooperazione.png | Tavola minuta o generica; relazione da esplicitare | Schema 13.2 — Poteri e istanze non sono sinonimi | Pagina 193; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-13/03-flusso-garante-privacy-cooperazione.png | Tavola minuta o generica; relazione da esplicitare | Schema 13.3 — Il percorso del reclamo | Pagina 195; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-13/05-sintesi-garante-privacy-cooperazione.png | Tavola minuta o generica; relazione da esplicitare | Schema 13.5 — Concorso pubblico e fornitore estero | Pagina 200; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-13/04-distinzioni-garante-privacy-cooperazione.png | Tavola minuta o generica; relazione da esplicitare | Schema 13.4 — Avvertimento, ammonimento e danni | Pagina 199; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-14/01-mappa-bando-anac-prevenzione-whistleblowing.png | Tavola minuta o generica; relazione da esplicitare | Schema 14.1 — Qualificare prevenzione e whistleblowing | Pagina 206; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-14/02-architettura-anac-prevenzione-whistleblowing.png | Tavola minuta o generica; relazione da esplicitare | Schema 14.2 — Indirizzo e attuazione | Pagina 207; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-14/03-flusso-anac-prevenzione-whistleblowing.png | Tavola minuta o generica; relazione da esplicitare | Schema 14.3 — Protezione lungo il percorso | Pagina 209; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-14/04-distinzioni-anac-prevenzione-whistleblowing.png | Tavola minuta o generica; relazione da esplicitare | Schema 14.4 — Quattro distinzioni del caso | Pagina 210; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-14/05-sintesi-anac-prevenzione-whistleblowing.png | Tavola minuta o generica; relazione da esplicitare | Schema 14.5 — Prova della ritorsione | Pagina 214; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-15/01-mappa-bando-laboratorio-prove-authority.png | Tavola minuta o generica; relazione da esplicitare | Schema 15.1 — Trasformare lo studio in prova | Pagina 222; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-15/02-architettura-laboratorio-prove-authority.png | Tavola minuta o generica; relazione da esplicitare | Schema 15.2 — Tre percorsi integrabili | Pagina 223; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-15/03-flusso-laboratorio-prove-authority.png | Tavola minuta o generica; relazione da esplicitare | Schema 15.3 — Dalla traccia alla risposta | Pagina 224; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-15/04-distinzioni-laboratorio-prove-authority.png | Tavola minuta o generica; relazione da esplicitare | Schema 15.4 — Numeri da interpretare | Pagina 225; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-15/05-sintesi-laboratorio-prove-authority.png | Tavola minuta o generica; relazione da esplicitare | Schema 15.5 — Recupero programmato | Pagina 234; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-01/01-mappa-bando-authority.png | Tavola minuta o generica; relazione da esplicitare | Schema 1.1 — Dal bando alla prima prova | Pagina 11; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-01/02-authority-settori-poteri.png | Tavola minuta o generica; relazione da esplicitare | Schema 1.2 — Dall’ente al problema | Pagina 15; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-01/03-percorsi-g-e-p.png | Tavola minuta o generica; relazione da esplicitare | Schema 1.3 — Tre percorsi, tre prodotti | Pagina 16; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-01/05-bando-decoder-authority.png | Tavola minuta o generica; relazione da esplicitare | Schema 1.4 — Decoder da compilare | Pagina 17; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
+| ../assets/chapter-01/04-nucleo-comune-delta-authority.png | Tavola minuta o generica; relazione da esplicitare | Schema 1.5 — Collegare base e specializzazione | Pagina 19; schema presente, titolo con primo blocco e tabella a 9,5 pt | Sostituito; originale e hash preservati |
 
-Audit automatico e seconda passata di precisione su 75 asset PNG e relativi master SVG. Verificati: dimensioni, rapporto, esistenza del master, riferimenti nei capitoli, metadati accessibili, viewBox, geometria del testo rispetto ai safe-box, margini globali e coerenza del set.
+Seconda passata: tutte le 15 tavole di contatto e 50 pagine di dettaglio, comprendenti indice, tabelle dense, nuova modulistica, fonti e simulazioni. Garamond 11 pt, Arial 9,5 pt nelle tabelle. Zero overflow, zero asset mancanti, 75 titoli univoci. La copertura di contatto non equivale a rilettura integrale del testo minuto. Ledger visuale: vol05-proof/visual-review.json; differenziale: VOL-05-native-checkpoint.json.
 
-Nessun overflow, ritaglio, collisione o riferimento rotto rilevato. Tutti gli asset sono 1600×1000 px, hanno master SVG e sono collocati nel rispettivo capitolo.
+Front matter e dipendenze editoriali comuni restano aperti; nessun giudizio finale di pubblicabilità. Il marker della skill PDF non è disponibile nella repo; usato l’export canonico Book Studio già predisposto dal coordinatore.
 
-## Matrice operativa
-
-| Asset | Problema | Correzione | Verifica nel Book Studio | Esito |
-| --- | --- | --- | --- | --- |
-| `chapter-01/01-mappa-bando-authority.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 21 testi SVG controllati | conforme |
-| `chapter-01/02-authority-settori-poteri.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 28 testi SVG controllati | conforme |
-| `chapter-01/03-percorsi-g-e-p.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 20 testi SVG controllati | conforme |
-| `chapter-01/04-nucleo-comune-delta-authority.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 17 testi SVG controllati | conforme |
-| `chapter-01/05-bando-decoder-authority.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 20 testi SVG controllati | conforme |
-| `chapter-02/01-mappa-bando-indipendenza-governance-accountability-personale.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-02/02-architettura-indipendenza-governance-accountability-personale.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-02/03-flusso-indipendenza-governance-accountability-personale.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-02/04-distinzioni-indipendenza-governance-accountability-personale.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-02/05-sintesi-indipendenza-governance-accountability-personale.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-03/01-mappa-bando-regolazione-europea-reti.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-03/02-architettura-regolazione-europea-reti.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-03/03-flusso-regolazione-europea-reti.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-03/04-distinzioni-regolazione-europea-reti.png` | due etichette superavano il safe-box nella prima passata | font adattivo ridotto da 21 a 16 px e coppia SVG/PNG rigenerata | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-03/05-sintesi-regolazione-europea-reti.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-04/01-mappa-bando-ciclo-regolatorio-air-vir.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-04/02-architettura-ciclo-regolatorio-air-vir.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-04/03-flusso-ciclo-regolatorio-air-vir.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-04/04-distinzioni-ciclo-regolatorio-air-vir.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-04/05-sintesi-ciclo-regolatorio-air-vir.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-05/01-mappa-bando-vigilanza-istruttoria-prova.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-05/02-architettura-vigilanza-istruttoria-prova.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-05/03-flusso-vigilanza-istruttoria-prova.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-05/04-distinzioni-vigilanza-istruttoria-prova.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-05/05-sintesi-vigilanza-istruttoria-prova.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-06/01-mappa-bando-sanzioni-impegni-rimedi.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-06/02-architettura-sanzioni-impegni-rimedi.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-06/03-flusso-sanzioni-impegni-rimedi.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-06/04-distinzioni-sanzioni-impegni-rimedi.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-06/05-sintesi-sanzioni-impegni-rimedi.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-07/01-mappa-bando-economia-regolazione-dati.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-07/02-architettura-economia-regolazione-dati.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-07/03-flusso-economia-regolazione-dati.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-07/04-distinzioni-economia-regolazione-dati.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-07/05-sintesi-economia-regolazione-dati.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-08/01-mappa-bando-agcm-concorrenza-consumatore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-08/02-architettura-agcm-concorrenza-consumatore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-08/03-flusso-agcm-concorrenza-consumatore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-08/04-distinzioni-agcm-concorrenza-consumatore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-08/05-sintesi-agcm-concorrenza-consumatore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-09/01-mappa-bando-arera-servizi-tariffe.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-09/02-architettura-arera-servizi-tariffe.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-09/03-flusso-arera-servizi-tariffe.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-09/04-distinzioni-arera-servizi-tariffe.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-09/05-sintesi-arera-servizi-tariffe.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-10/01-mappa-bando-agcom-media-piattaforme.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-10/02-architettura-agcom-media-piattaforme.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-10/03-flusso-agcom-media-piattaforme.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-10/04-distinzioni-agcom-media-piattaforme.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-10/05-sintesi-agcom-media-piattaforme.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-11/01-mappa-bando-consob-mercati-investitore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-11/02-architettura-consob-mercati-investitore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-11/03-flusso-consob-mercati-investitore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-11/04-distinzioni-consob-mercati-investitore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-11/05-sintesi-consob-mercati-investitore.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-12/01-mappa-bando-banca-italia-ivass.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-12/02-architettura-banca-italia-ivass.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-12/03-flusso-banca-italia-ivass.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-12/04-distinzioni-banca-italia-ivass.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-12/05-sintesi-banca-italia-ivass.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-13/01-mappa-bando-garante-privacy-cooperazione.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-13/02-architettura-garante-privacy-cooperazione.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-13/03-flusso-garante-privacy-cooperazione.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-13/04-distinzioni-garante-privacy-cooperazione.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-13/05-sintesi-garante-privacy-cooperazione.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-14/01-mappa-bando-anac-prevenzione-whistleblowing.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-14/02-architettura-anac-prevenzione-whistleblowing.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-14/03-flusso-anac-prevenzione-whistleblowing.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-14/04-distinzioni-anac-prevenzione-whistleblowing.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-14/05-sintesi-anac-prevenzione-whistleblowing.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-| `chapter-15/01-mappa-bando-laboratorio-prove-authority.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 15 testi SVG controllati | conforme |
-| `chapter-15/02-architettura-laboratorio-prove-authority.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-15/03-flusso-laboratorio-prove-authority.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 11 testi SVG controllati | conforme |
-| `chapter-15/04-distinzioni-laboratorio-prove-authority.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 12 testi SVG controllati | conforme |
-| `chapter-15/05-sintesi-laboratorio-prove-authority.png` | nessuno | nessuna modifica necessaria | riferimento presente; 1600×1000; 13 testi SVG controllati | conforme |
-
-## Controlli di insieme
-
-- 15 cartelle capitolo, ciascuna con 5 PNG e 5 SVG.
-- Palette, tratti, raggi, font e proporzione 8:5 coerenti con il movimento “Regolazione trasparente”.
-- Le cinque funzioni ricorrenti — mappa, architettura, sequenza, distinzioni e sintesi — hanno raccordo testuale nel capitolo e didascalie differenziate.
-- Nessuna griglia supera tre colonne compatte; il testo resta supporto della composizione e non sostituisce la spiegazione nel capitolo.
-- Il colore non è l'unico codice: titoli, forme e posizione mantengono la lettura anche in scala di grigi.
-
-## Seconda passata
-
-La seconda passata ha ricontrollato allineamenti, margini, viewBox, safe-box, ruolo accessibile, corrispondenza PNG/SVG e presenza delle 75 occorrenze nel manoscritto. Non sono emersi difetti residui; non sono stati aggiunti elementi decorativi.
-
-## Ispezione visiva
-
-I tre contact sheet da 25 figure sono stati ispezionati al 100%: gerarchia, contrasto, ritmo, coerenza di palette, leggibilità delle etichette e assenza di contenuto decorativo non funzionale risultano conformi. Le tavole di controllo sono in artifacts/VOL-05/image-audit/.
+Ultimo delta di riflusso: 232 pagine pixel-identiche, sette riesaminate a dettaglio. La copertura finale è documentata in visual-review.json; 53 pagine distinte di dettaglio.

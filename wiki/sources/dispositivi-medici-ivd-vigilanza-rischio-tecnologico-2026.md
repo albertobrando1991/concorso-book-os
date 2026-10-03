@@ -9,7 +9,7 @@ entities: ["Ministero della Salute", "AGENAS", "Unione europea", "TSLB", "TSRM"]
 source_refs: ["sources/profili-professionali-tslb-tsrm-dm-745-746", "sources/governo-clinico-appropriatezza-hta-qualita-accreditamento", "sources/sicurezza-cure-responsabilita-consenso-leggi-24-219"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.97
-updated_at: 2026-08-01T10:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-08-01T10:30:00+02:00
 review_required: true
 canonical: true
@@ -74,3 +74,9 @@ Il rischio tecnologico nasce dall'interazione tra caratteristiche del dispositiv
 ## Destinazioni
 
 Fonte principale per M-SA04 capitolo 04. Utilizzabile per teoria non esecutiva, casi su anomalie e incidenti, vigilanza, HTA e rischio tecnologico. Non autorizza istruzioni di riparazione, parametri, tarature, soglie tecniche, decisioni di rimessa in servizio o attribuzioni universali di responsabilità.
+
+## Integrazione verificata il 3 ottobre 2026
+
+L'incidente grave comprende conseguenze effettive o possibili, dirette o indirette: morte, grave deterioramento temporaneo o permanente della salute, grave minaccia per la salute pubblica. Il D.M. 31 marzo 2022 recepisce tali definizioni per la rete. Restano corretti i termini degli operatori dei D.M. 1° luglio 2025: tempestivamente entro dieci giorni per grave, facoltà entro trenta per non grave; non si sostituiscono con i diversi termini dei fabbricanti.
+
+Fonti ufficiali consultate: [Ministero, classi MDR](https://www.salute.gov.it/new/it/tema/dispositivi-medici/procedure-di-valutazione-della-conformita-dei-dispositivi-medici/) (contenuto indicizzato: apertura diretta bloccata), [Commissione, quadro IVDR e classi](https://health.ec.europa.eu/medical-devices-vitro-diagnostics/transitional-provisions_en), [Commissione, UDI](https://health.ec.europa.eu/medical-devices-topics-interest/unique-device-identifier-udi_it), [INFARMED, definizioni vigilanza](https://www.infarmed.pt/web/infarmed/entidades/dispositivos-medicos/vigilancia-de-dispositivos-medicos). MDR: I, IIa, IIb, III; IVDR: A, B, C, D. La classificazione deriva da destinazione e regole dell'allegato VIII del rispettivo regolamento, non da prezzo o complessità apparente. UDI-DI identifica fabbricante/modello; UDI-PI identifica produzione, ad esempio lotto o seriale. UDI non sostituisce etichetta né inventario locale. FSCA è l'azione del fabbricante per prevenire/ridurre un incidente grave; FSN è la comunicazione relativa a tale azione agli utilizzatori/clienti. I tentativi di aprire i PDF consolidati EUR-Lex hanno restituito challenge, non un regolamento acquisito: nessuna falsa attestazione di lettura integrale.

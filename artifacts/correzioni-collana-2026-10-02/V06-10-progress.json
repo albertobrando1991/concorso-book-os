@@ -1,0 +1,23 @@
+{
+  "status": "parziale",
+  "completed": [
+    "M-IR02/06",
+    "M-IR02/07",
+    "M-IR02/08"
+  ],
+  "pending": [
+    "M-IR03/04",
+    "M-IR03/11"
+  ],
+  "numericalChecks": {
+    "amortization": 12000,
+    "prepaid": 9000,
+    "accrual": 600,
+    "profit": 14400,
+    "cash": 158000,
+    "balance": 215000,
+    "unitCost": 3360,
+    "flatRate": 2000,
+    "targetActual": 112
+  }
+}

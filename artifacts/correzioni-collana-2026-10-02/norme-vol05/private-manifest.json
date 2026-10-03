@@ -1,0 +1,110 @@
+[
+  {
+    "id": "civile",
+    "article": 1218,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1218!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\civile-art1218.html",
+    "sha256": "be19254db9fd9f8c0ac3e2c4c67c3ad48e0623da30435bec8ab0b90914fdcd0f",
+    "characters": 280,
+    "readComplete": true
+  },
+  {
+    "id": "civile",
+    "article": 1325,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1325!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\civile-art1325.html",
+    "sha256": "5f47e0f438c06b380d70540d24bb3a82e7c7019310fb37fdb0babfe1bd26474a",
+    "characters": 204,
+    "readComplete": true
+  },
+  {
+    "id": "civile",
+    "article": 1418,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1418!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\civile-art1418.html",
+    "sha256": "91854f9516f417ccb0526fd08469348ecf8b4bab862f113f66c0c77648829edc",
+    "characters": 453,
+    "readComplete": true
+  },
+  {
+    "id": "civile",
+    "article": 1425,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1425!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\civile-art1425.html",
+    "sha256": "5c759a3d5b6fef26a7cb0b7bbb87c456c5fd1de5d2bcfb041407b6bb2a482652",
+    "characters": 271,
+    "readComplete": true
+  },
+  {
+    "id": "civile",
+    "article": 1427,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art1427!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\civile-art1427.html",
+    "sha256": "9a2822379ae9f5af6dbab8c4364803997600a982414f7c1d641867485e7a6a0d",
+    "characters": 205,
+    "readComplete": true
+  },
+  {
+    "id": "civile",
+    "article": 2325,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2325!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\civile-art2325.html",
+    "sha256": "5b38437c0104889a2fdea0e8b9263ac82107c8444c17917e5fa17cff59a140e3",
+    "characters": 485,
+    "readComplete": true
+  },
+  {
+    "id": "civile",
+    "article": 2380,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2380!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\civile-art2380.html",
+    "sha256": "62c6b5df13740c6ed040c92921161b69b11d0188dcbc956c471f93aacbbb592c",
+    "characters": 961,
+    "readComplete": true
+  },
+  {
+    "id": "civile",
+    "article": 2392,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262:2~art2392!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\civile-art2392.html",
+    "sha256": "83800bacc37379af98acc8a47ed044050a40ed2aef84d495b6d71ca59e08eec4",
+    "characters": 1108,
+    "readComplete": true
+  },
+  {
+    "id": "aml",
+    "article": 18,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-21;231~art18!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\aml-art18.html",
+    "sha256": "a7d3fb3bd96edaadf30ae69ea9ae63aa6c392384e9c736d2adcc20429b856bc6",
+    "characters": 4273,
+    "readComplete": true
+  },
+  {
+    "id": "aml",
+    "article": 31,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-21;231~art31!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\aml-art31.html",
+    "sha256": "50bb9bd632e73cf6417c28fea4da9a827d4892094c1b5c005abb6b1eb15f6025",
+    "characters": 1692,
+    "readComplete": true
+  },
+  {
+    "id": "aml",
+    "article": 35,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-21;231~art35!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\aml-art35.html",
+    "sha256": "7b7f891d7593ea04456c97f646f835e817941b6d19b1aeede27246a433e44e03",
+    "characters": 3639,
+    "readComplete": true
+  },
+  {
+    "id": "aml",
+    "article": 39,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-21;231~art39!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\aml-art39.html",
+    "sha256": "884679d8bd2abde55ff99871b44465ec652df105a264d6c41545feb1d174a462",
+    "characters": 3018,
+    "readComplete": true
+  }
+]

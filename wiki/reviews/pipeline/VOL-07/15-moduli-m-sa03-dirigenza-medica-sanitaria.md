@@ -1,93 +1,58 @@
-# Report editoriale — Audit specialistico automatico M-SA03
+# M-SA03 — Audit specialistico automatico delle correzioni
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: modulo specialistico e workbook per concorsi della dirigenza medica e sanitaria non medica nel Servizio sanitario nazionale.
-- Pubblico target: candidati a discipline mediche e a profili sanitari non medici, in particolare biologi, farmacisti e psicologi.
-- Perimetro di questa revisione: indice, piano, matrice, Bibbia e sette capitoli del modulo.
-- Stato generale in una frase: audit giuridico-concorsuale, contrattuale, organizzativo, clinico non esecutivo, epidemiologico e professionale concluso; nessun errore grave o medio resta aperto e il modulo è pronto per il text freeze.
+Concluso il riesame specialistico automatico dei delta richiesti dall’audit integrale. Le correzioni sono presenti, hanno teoria autonoma e verifiche coerenti. Questa conclusione riguarda il perimetro del modulo e non il PDF, gli apparati SA04 o la pubblicabilità dell’intero volume.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 1-26 e 28-30 della checklist: struttura, progressione, coerenza interna e trasversale, terminologia, completezza, definizioni, claim normativi, procedure, casi, esercizi, tabelle, apparato delle fonti, lingua, stile didattico, uniformità e leggibilità. Applicato anche il gate di copertura didattica integrale: nove nuclei su nove sono `completo`. Il punto 27 non è applicabile perché non è disponibile un PDF impaginato.
+Punti 1–26 e 28–30 verificati sui delta e sui raccordi, usando la lettura integrale diagnostica precedente come baseline. Non dichiarata una nuova lettura integrale dei passaggi invariati. Controllati contenuto, fonti, termini, confini professionali, casi, calcoli e soluzioni. Micro-revisione e Humanizer svolti sui passaggi sostanziali. Punto 27 rinviato al controllo effettivo dei nuovi PDF.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| A01 | Indice, piano, matrice, Bibbia e sette capitoli | Workflow editoriale | Media | Gli apparati e i frontmatter conservavano `review_required: true`, stati antecedenti allo step 15 e rinvii a revisioni umane intermedie. Il protocollo corrente riserva l'unico passaggio umano obbligatorio allo step 24. | Allineati data, `review_required`, `draft_stage`, stato della matrice e prossimo passo; sostituiti i rinvii umani con la regola di riapertura dei gate in caso di espansioni sostanziali. | corretto |
-| A02 | Indice, sezione “Perimetro” | Perimetro editoriale | Media | L'indice includeva dirigenza professionale, tecnica e amministrativa, mentre la Bibbia del volume e i sette capitoli delimitano M-SA03 alla dirigenza medica e sanitaria non medica. | Ricondotta la copertura al perimetro canonico del modulo. | corretto |
-| A03 | Matrice, colonna “Collocazione” e riga HTA | Copertura e rinvii | Media | Le destinazioni citavano capitoli 11 e 12 e verticali non presenti nel modulo; la riga HTA includeva inoltre i dirigenti amministrativi. I file canonici disponibili sono i capitoli 01-07. | Sostituite tutte le destinazioni con i capitoli effettivi e corretta la famiglia destinataria della riga HTA. | corretto |
-| A04 | Capitolo 01 | Requisiti, prove e contratto | Media | D.P.R. 483/1997, distinzione per profilo e disciplina e CCNL Area Sanità 2022-2024 risultano coerenti con la source note consolidata e con i portali istituzionali; i dati del singolo bando restano qualificati come mobili. | Nessuna modifica sostanziale al corpo; chiuso il flag di review dopo esito positivo. | corretto |
-| A05 | Capitoli 03-04 | Linee guida, governo clinico e HTA | Media | Terminologia SNLG/GRADE, appropriatezza, audit, rischio, accreditamento e HTA mantiene funzioni distinte; versione del manuale metodologico SNLG e fase operativa PNHTA-DM 2026-2028 risultano coerenti con le fonti ISS e AGENAS consolidate. | Nessuna soglia o procedura locale generalizzata; chiuso il flag di review. | corretto |
-| A06 | Capitolo 05 | Epidemiologia e sanità pubblica | Media | Formule ed esercizi su incidenza, prevalenza, rischio relativo, sensibilità e specificità sono corretti; PREMAL e Piano nazionale della prevenzione sono presentati con atti e date versionate, senza trasformare flussi o definizioni di caso in regole immobili. | Nessuna modifica contenutistica necessaria; chiuso il flag di review. | corretto |
-| A07 | Capitolo 06 | Casi e procedure cliniche | Media | Il caso medico resta non esecutivo: struttura ragionamento, priorità, evidenze, sicurezza e rivalutazione senza dosaggi, algoritmi terapeutici o protocolli universali. | Rimosso il rinvio a futura review clinica indipendente e introdotta la riapertura dei gate per nuovi claim clinici sostanziali. | corretto |
-| A08 | Capitolo 07 | Profili sanitari non medici e deontologia | Media | Requisiti e prove per biologo, farmacista e psicologo restano distinti; codici deontologici e ruolo informativo OsMed sono riferiti alle rispettive fonti ufficiali; non sono presenti protocolli tecnici esecutivi. | Rimossi i rinvii a futura revisione professionale e introdotta la riapertura dei gate per nuovi verticali o protocolli sostanziali. | corretto |
-
-Non risultano errori gravi, errori medi aperti, box `Dato operativo` non tracciati o rinvii a futura review umana intermedia.
+| V07-28 | 01-profili-requisiti-prove-dirigenza-sanitaria.md, 01-profili-tslb-tsrm-requisiti-prove-responsabilita.md | Audit specialistico | Grave | Distinti obbligo generale di inglese/informatica e modalità mobili; corretti esercizio, soluzione e rinvii SA04. | Riesame del delta e delle fonti consolidate descritto sotto | Corretto |
+| V07-29 | 01-profili-requisiti-prove-dirigenza-sanitaria.md, 01-mappa-profili-e-prove.md, 01-profili-tslb-tsrm-requisiti-prove-responsabilita.md | Audit specialistico | Medio | Inseriti punteggi e soglie nazionali DPR483 per quattro profili e DPR220 nei due moduli di comparto. | Riesame del delta e delle fonti consolidate descritto sotto | Corretto |
+| V07-30 | 02-programmazione-sanitaria-organizzazione-servizi.md, governo-clinico-appropriatezza-hta-qualita-accreditamento.md | Audit specialistico | Medio | Acquisita relazione ministeriale NSG valida, riconciliate esclusioni della source, aggiunto cruscotto originale e raccordo SA01. | Riesame del delta e delle fonti consolidate descritto sotto | Corretto |
+| V07-31 | 03-linee-guida-appropriatezza-decisioni-cliniche.md | Audit specialistico | Medio | Chiarita autonomia e responsabilità del medico abilitato distinta dai limiti del manuale. | Riesame del delta e delle fonti consolidate descritto sotto | Corretto |
+| V07-32 | 04-governo-clinico-hta-qualita-accreditamento-rischio.md | Audit specialistico | Medio | Definiti eventi, SIMES, RCA/FMEA e applicazione originale con rinvio SA04. | Riesame del delta e delle fonti consolidate descritto sotto | Corretto |
+| V07-33 | 06-dirigenza-medica-discipline-casi.md | Audit specialistico | Medio | Completato differenziale illustrativo con ipotesi, dati e verifiche discriminanti. | Riesame del delta e delle fonti consolidate descritto sotto | Corretto |
+| V07-34 | 07-dirigenza-sanitaria-non-medica-discipline-casi.md, deontologia-biologo-farmacista-psicologo-2026.md | Audit specialistico | Grave | Corretta vigenza CNOP e confrontati gli articoli pertinenti con il testo ufficiale attuale. | Riesame del delta e delle fonti consolidate descritto sotto | Corretto |
+| V07-41 | 04-tecnologie-dispositivi-apparecchiature-rischio.md, 06-dirigenza-medica-discipline-casi.md, 07-dirigenza-sanitaria-non-medica-discipline-casi.md | Audit specialistico | Medio | Eliminati residui Humanizer, gate e step dalla prosa pubblica SA03/06–07 e SA04/04, preservando limiti informativi per il candidato. | Riesame del delta e delle fonti consolidate descritto sotto | Corretto |
 
 ## 4. Osservazioni per capitolo
 
-### Capitolo 01 — Profili, requisiti e prove della dirigenza sanitaria
+Quadro concorsuale: art. 37 D.Lgs. 165/2001 distingue obbligo generale di informatica/inglese e modalità del bando; DPR 483, articoli per medico, farmacista, biologo e psicologo, conferma schema ordinario 20 titoli e 80 prove, soglie 21/30 e 14/20. I casi speciali non sono ricondotti automaticamente al modello. DPR 220 è stato trattato nei moduli di personale non dirigente.
 
-- Punti di forza: separa famiglia, profilo, disciplina, requisiti, titoli e forme di prova; tratta il bando come fonte decisiva per i dati mobili.
-- Criticità: nessuna voce aperta.
+Programmazione: copia valida della relazione NSG ministeriale 2022 ospitata dalla Camera; riscontro diretto metodologia alle pp. PDF 19–20: soglia di sufficienza 60 in ciascuna area, senza compensazione. Il testo non usa il documento come risultato sanitario 2026. Il cruscotto è originale: 180/200 = 90%, 72/80 = 90%, 8/160 = 5%, target esplicitamente didattici e denominatori definiti.
 
-### Capitolo 02 — Programmazione sanitaria e organizzazione dei servizi
+Qualità: evento avverso, near miss ed evento sentinella distinti, SIMES e reporting interno collegati senza identificarli; RCA retrospettiva e FMEA proattiva applicate a un esempio. Autonomia medica: rimosso il divieto generale improprio; il manuale non sostituisce la responsabilità clinica del professionista. Caso differenziale: ipotesi esemplificative e dati discriminanti, nessuna diagnosi certa dalla sola associazione temporale col farmaco.
 
-- Punti di forza: collega bisogni, obiettivi, risorse, reti e indicatori senza trasformare target didattici o assetti regionali in standard nazionali.
-- Criticità: nessuna voce aperta.
-
-### Capitolo 03 — Linee guida, appropriatezza e decisioni cliniche
-
-- Punti di forza: distingue raccomandazione, qualità dell'evidenza, forza, applicabilità e giudizio sul caso.
-- Criticità: nessuna voce aperta.
-
-### Capitolo 04 — Governo clinico, HTA, qualità, accreditamento e rischio
-
-- Punti di forza: separa governo clinico, audit, accreditamento, rischio e HTA e li ricompone in una logica decisionale verificabile.
-- Criticità: nessuna voce aperta; manuali e assetti regionali restano contestualizzati.
-
-### Capitolo 05 — Epidemiologia e sanità pubblica per la dirigenza
-
-- Punti di forza: formule, denominatori, tempi, disegni, bias e sorveglianze sono presentati con limiti e interpretazione.
-- Criticità: nessuna voce aperta; definizioni di caso e flussi restano dati mobili.
-
-### Capitolo 06 — Dirigenza medica: discipline e casi
-
-- Punti di forza: offre una griglia concorsuale robusta senza simulare un manuale clinico universale.
-- Criticità: nessuna voce aperta; futuri claim clinici sostanziali richiedono fonti verticali e riapertura dei gate.
-
-### Capitolo 07 — Dirigenza sanitaria non medica: discipline e casi
-
-- Punti di forza: mantiene separati biologo, farmacista, psicologo e altri profili, con casi e prove coerenti con ciascun ruolo.
-- Criticità: nessuna voce aperta; futuri protocolli tecnici o nuovi profili verticali riaprono i gate.
+CNOP: pagina ufficiale del codice attualmente vigente confrontata con archivio 1 dicembre 2023–24 dicembre 2024. Letti i passaggi pertinenti su competenza, segreto, custodia, consenso e committenza, inclusi articoli 16–17, 24–25 e 32. Eliminata la falsa vigenza del testo 2023. Gli altri codici non sono stati sostituiti con fonti non controllate.
 
 ## 5. Coerenza globale
 
-- Terminologia: coerente con la Bibbia del modulo; profilo, disciplina, requisito, incarico, linea guida, appropriatezza, governo clinico, HTA, accreditamento, rischio ed esito mantengono significati distinti.
-- Struttura vs indice: sette file, sette link e sette titoli canonici coincidenti.
-- Promesse dell'introduzione mantenute: sì; i nove nuclei della matrice hanno teoria, applicazione, output e verifica.
-- Rinvii: le collocazioni della matrice puntano esclusivamente ai capitoli 01-07 esistenti; nessun rinvio sostituisce il contenuto necessario allo studio.
+Nessun conflitto noto residuo nei delta del modulo. I nuovi esempi usano dati sufficienti e non trasformano il manuale in una procedura clinica o aziendale. Frontmatter e matrici vengono aggiornati all’esito del riesame; la baseline storica resta distinguibile. Registro per ID: [[reviews/correzioni-collana-2026-10-02/VOL-07]].
 
-## 6. Contenuto da verificare
+## 6. Contenuti verificati
 
-Nessuna voce aperta per il text freeze. Requisiti, equipollenze, discipline, versioni di linee guida, definizioni di caso, flussi, piani regionali, protocolli del setting e contenuti tecnici del singolo bando devono essere verificati nell'applicazione concreta: sono dati mobili dichiarati, non debito editoriale del modulo.
+Le evidenze sono nelle source note dei capitoli, aggiornate prima del testo, e negli artifact del 3 ottobre. Riscontri selettivi su fonti ufficiali, con esclusione delle risposte challenge. Il controllo non certifica ogni articolo di ogni corpus né procedure locali mai fornite. Non restano richieste di futura revisione umana come prerequisito del testo.
 
-## 7. Suggerimenti facoltativi (non errori)
+Nessun box Dato operativo rilevato dal contratto CLI nel modulo. Le tabelle didattiche sono dichiarate come tali.
 
-In impaginazione si può distinguere graficamente regola comune, variabile di disciplina o territorio e caso didattico, purché il sistema resti leggibile in bianco e nero.
+## 7. Suggerimenti facoltativi
+
+Nessun ampliamento facoltativo necessario alla chiusura dei rilievi assegnati al modulo.
 
 ## 8. Priorità degli interventi
 
-1. Conservare questo report come evidenza dello step 15.
-2. Eseguire il text freeze dello step 16.
-3. Verificare il PDF nel preflight dedicato e presentare il pacchetto completo alla conferma umana finale dello step 24.
+Completare il gate CLI, poi text freeze del modulo. A livello di volume restano gli apparati di SA04 e i nuovi PDF: devono essere realmente verificati, non sostituiti dall’esito di questo audit.
 
 ## 9. Giudizio di pubblicabilità
 
-**Pubblicabile con correzioni minori**, già applicate e chiuse. La tabella A01-A08 non contiene stati aperti; copertura, rinvii, fonti e workflow specialistico sono coerenti.
+Testo del modulo idoneo al successivo freeze nel perimetro concorsuale dichiarato. Nessuna autorizzazione alla pubblicazione del volume: la resa editoriale e gli apparati richiedono il nuovo candidato PDF e il controllo conclusivo.
 
 ## 10. Limiti di questa revisione
 
-L'audit valuta il testo editoriale e le fonti consolidate al cut-off del volume, con riscontri puntuali su portali istituzionali. Non sostituisce l'applicazione professionale a un caso concreto, non certifica procedure cliniche o aziendali locali e non valuta un PDF impaginato. Nessun box `Dato operativo` è presente nel modulo.
+Audit automatico editoriale e specialistico, non certificazione clinica o parere professionale per casi reali. I confronti esterni sono selettivi e documentati. Nessun dato clinico individuale, prova strumentale reale o legge regionale viene validato per uso operativo. Le parti mobili conservano data e ambito.

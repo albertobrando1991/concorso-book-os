@@ -65,3 +65,8 @@ Review richiesta: copertura migliorata, ma servono fonti primarie sul lavoro pub
 
 ## Note editoriali
 Integrare con disciplina del lavoro pubblico e responsabilita disciplinare.
+
+
+## Integrazioni comuni — 3 ottobre 2026
+
+[[sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03]] consolida distinzioni concorsuali, termini disciplinari, PIAO, residui statali/armonizzati, calcoli del risultato e dati essenziali dei contratti. Destinazioni: capitoli 6, 8, 9 e glossari del Metodo BANDO.

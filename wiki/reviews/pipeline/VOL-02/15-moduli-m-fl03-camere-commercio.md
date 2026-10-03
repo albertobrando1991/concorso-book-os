@@ -1,67 +1,53 @@
-# Report editoriale — Audit specialistico M-FL03 Camere di commercio
+# Audit specialistico correttivo — M-FL03
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: modulo specialistico per concorsi camerali.
-- Pubblico target: profili amministrativi e specialistici del sistema camerale.
-- Perimetro: cinque capitoli, matrice, Bibbia, fonti ufficiali consolidate e campione bandi 2026.
-- Stato generale: audit concluso senza errori gravi o medi aperti e senza dati operativi da validare.
+Applicati V02-35–37, parte camerale di V02-38 e refusi pertinenti di V02-53 nei cinque capitoli. Le lacune normative sono integrate con regole, esempi e verifiche. V02-38 resta aperto nel modulo di polizia locale.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 6-26 e 28-30, il controllo normativo/fattuale e il gate di copertura integrale. Il punto 27 non è applicabile in assenza del PDF.
+Riesaminati contenuti, promesse, norme, esempi, quiz, coerenza terminologica e leggibilità dei passaggi modificati. Le figure restano oggetto di verifica del PDF successivo. Applicate Professional Writer, Humanizer nei passaggi e checklist del Revisore Editoriale Totale.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| A15-01 | Cap. 01 | Ordinamento camerale | lieve | Verificare natura dell'ente, sistema e ruolo di Unioncamere. | Confermati dalle fonti Normattiva e Unioncamere consolidate; mantenuti i limiti su numero, assetti e competenze. | risolto |
-| A15-02 | Cap. 02 | Registro e REA | lieve | Verificare definizioni, documenti ed effetti. | Confermati Registro, REA e distinzione visura/certificato; il testo non generalizza effetti, termini o costi. | risolto |
-| A15-03 | Cap. 03 | Servizi e regolazione | lieve | Verificare promozione, metrologia, sicurezza e SUAP. | Confermate formule generali; esclusi poteri, sanzioni e procedure settoriali non supportati. | risolto |
-| A15-04 | Cap. 04 | Organizzazione e personale | lieve | Verificare comparto, organizzazione e trasparenza. | Confermato comparto Funzioni Locali per il personale non dirigente; mantenuta cautela su profilo, organigramma, accesso e dati. | risolto |
-| A15-05 | Cap. 05 | Bandi e prove | lieve | Verificare campione e variabilità delle procedure. | Confermati profili e prove del campione ufficiale 2026; nessun dato del campione è presentato come universale. | risolto |
+| V02-35 | Capitoli 02 | Normativa/didattica | Grave | 33 articoli nel manifest normattiva-fl03; casi su art. 2193, rimedi e quiz 7–8; fonte camerale consolidata. | Sezioni e soggetti, pubblicità dichiarativa/costitutiva/notizia, eccezione agricola, conservatore e rimedi 8/15 giorni, ComUnica e decertificazione PA. | Chiuso nel modulo |
+| V02-36 | Capitoli 03 | Normativa/didattica | Grave | Casi risolti su controversia, cambiale 8/14 mesi e bilancia; quiz 7–8; D.M. 93 art. 4 vigente verificato. | Mediazione e arbitrato distinti per esito; protesti: pagamento, cancellazione, riabilitazione e ricorso; metrologia: soggetti, termini ed eccezione camerale 2026; rimosso rinvio a step interno. | Chiuso nel modulo |
+| V02-37 | Capitoli 04 | Normativa/didattica | Grave | Tabella e caso programma/pratica; quiz 7–8; L. 580 artt. 9–20 e ARAN 2022/2026. | Quattro organi con formazione, funzioni e durata; distinto segretario generale; CCNL 23 febbraio 2026, quattro aree, incarichi EQ e progressioni. | Chiuso nel modulo |
+| V02-38 | Capitoli 01, 04, 05 | Normativa/didattica | Grave | Letti integralmente cap. 01 e 05 correnti; cap. 04 già letto; nessun interesse qualificato imposto alla visura pubblica. Resta parte FL04/01. | Esempi camerali dichiarati compositi; distinta pubblicità del Registro da accesso al fascicolo istruttorio; variante risolta del caso di laboratorio. | Chiuso nel modulo |
+| V02-53 | Capitolo 05 | Lingua | Lieve | Necessità usato come verbo; segnalo anziché imperativo | Corrette necessita e segnalalo; punteggiatura quiz 6 | Applicato nel perimetro camerale |
+
+Aggiornamento produzione 3 ottobre 2026: Cinque figure raster del capitolo 01 sostituite da schemi Markdown nativi. Confrontati i dieci originali e la teoria adiacente; preservati sequenze, distinzioni e relazioni. Eliminati microtesti, bollini sovrapposti e accenti mancanti; nessuna modifica dei PNG archiviati. Lo schema 30.3 nomina rappresentanza, raccordo regionale, strumenti condivisi e rapporto con utenti; artt.1?3 Statuto Unioncamere riletti sulla pagina ufficiale e consolidati nella nota fonte camerale. Riletti e microrevisionati tutti i cinque schemi, con massimo due colonne. PDF da rigenerare: nessuna chiusura visiva anticipata.
 
 ## 4. Osservazioni per capitolo
 
-### Capitoli 01-05
-- Punti di forza: claim proporzionati alle fonti; casi applicano regole spiegate; termini e dati mobili non sono inventati.
-- Criticità: nessuna aperta. Le variabili del singolo bando sono trattate come input del Decoder, non come contenuto fisso.
+01: esplicitata natura simulata del bando. 02: effetti e rimedi ora studiabili, inclusa decertificazione. 03: servizi distinti con presupposti ed esiti; metrologia aggiornata. 04: organi e personale con casi e quiz. 05: laboratorio composito e dati pubblici/fascicolo distinti.
 
 ## 5. Coerenza globale
 
-- Terminologia: conforme alla Bibbia e alle verifiche ufficiali.
-- Struttura vs indice: coerente.
-- Promesse dell'introduzione: mantenute.
-- Matrice: venticinque nuclei completi.
-- Dati operativi: nessun box rilevato; `dati_operativi: []` in tutti i capitoli.
+Verificati 62 wikilink: nessun file o heading mancante. Risolti nuovamente i quiz nuovi: cap. 02, 7B/8C; cap. 03, 7B/8A; cap. 04, 7D/8B. Il caso dell'art. 2193 non deduce conoscenza effettiva da una comunicazione mai recapitata. I rimedi distinguono rifiuto su domanda (otto giorni) e determinazioni d'ufficio ex art. 40 (quindici dalla comunicazione). Il pagamento della cambiale a otto mesi soddisfa il requisito temporale, quello a quattordici no; la cancellazione richiede istanza e documenti. Per la bilancia, il controllo a richiesta non sostituisce la verifica periodica. Le tre vicende lavorative distinguono differenziale, incarico EQ e progressione tra aree. La visura del concorrente è pubblica; gli allegati della pratica di contributo seguono il regime di accesso pertinente.
+
+La rilettura ha eliminato l'equivoco fra limite certificativo della visura e opponibilità dei fatti iscritti. Il capitolo 03 include la possibilità vigente di riabilitazione con atto notarile e l'eccezione camerale nella verificazione metrologica; le vecchie pagine istituzionali non aggiornate non sono state usate per negarle. La fonte del CCNL distingue rinnovo firmato nel 2026 e disposizioni 2022 ancora richiamate.
+
+Numerazione volume dei cinque file riallineata a 30–34. Il Registro pubblico non è trattato come fascicolo riservato. Lodo rituale e accordo di mediazione distinti. Le scadenze della verificazione metrologica distinguono richiesta ed esecuzione. Il nuovo CCNL non è confuso con un’ipotesi di accordo.
 
 ## 6. Contenuto da verificare
 
-Nessuna voce aperta per il testo nazionale. Il lettore deve comunque applicare al concorso concreto il bando vigente, come insegnato nel laboratorio; ciò non costituisce una review editoriale pendente.
+Riesaminati tutti i nuclei integrati, nessuna criticità normativa grave o media residua nel perimetro camerale. Nessun box Dato operativo rilevato dal CLI. Il gate 14 è passato senza blocchi. Fonte: [[sources/vol-02-camerale-verifica-2026-10-03]]; manifest con 33 articoli validi letti e 16 risposte URN incongrue escluse. Capitoli non derivati dalle acquisizioni errate.
 
 ## 7. Suggerimenti facoltativi (non errori)
 
-Nessuno necessario prima del freeze.
+Non aggiunto un catalogo di bandi senza prove verificabili; le simulazioni sono dichiarate originali.
 
 ## 8. Priorità degli interventi
 
-1. Eseguire il text freeze.
-2. Conservare nel preflight i controlli su link, tabelle e impaginazione.
+Registrare gate 15 e freeze CLI; produzione e verifica del nuovo PDF restano passaggi distinti.
 
 ## 9. Giudizio di pubblicabilità
 
-**Pubblicabile con correzioni minori già applicate.** Zero errori gravi o medi aperti, zero stati pendenti e nessun rinvio a futura revisione umana.
+Testo camerale idoneo al freeze nel perimetro riesaminato. Nessuna dichiarazione di pubblicabilità del VOL-02: mancano correzioni di altri moduli e nuova produzione.
 
 ## 10. Limiti di questa revisione
 
-L'audit si fonda sulle verifiche ufficiali consolidate del 22-23 luglio 2026 e non certifica una futura procedura non ancora pubblicata. Il PDF non è stato ispezionato.
-
-### Registro specialistico
-
-| ID | File e posizione | Categoria | Gravità | Evidenza consolidata | Correzione applicata | Stato finale |
-| --- | --- | --- | --- | --- | --- | --- |
-| A15-01 | Cap. 01 | ordinamento | lieve | L. 580/1993, D.Lgs. 219/2016, Unioncamere | chiuso `review_required` | risolto |
-| A15-02 | Cap. 02 | Registro/REA | lieve | D.P.R. 581/1995, MIMIT, Registroimprese.it | chiuso `review_required` | risolto |
-| A15-03 | Cap. 03 | mercato | lieve | Unioncamere, MIMIT, impresainungiorno | chiuso `review_required` | risolto |
-| A15-04 | Cap. 04 | personale/trasparenza | lieve | ARAN, Unioncamere, fonti amministrative consolidate | chiuso `review_required` | risolto |
-| A15-05 | Cap. 05 | bandi | lieve | bandi ufficiali Pistoia-Prato e Torino 2026 | chiuso `review_required` | risolto |
+Lettura attuale dei cinque capitoli svolta durante il riesame, con rilettura delle integrazioni e soluzioni. Non verificato il PDF successivo. Le fonti sono verificate per gli articoli elencati, non per tutti i testi unici completi. Il controllo dimensionale del formato 2 non sostituisce quello didattico e non è simulato.

@@ -1,0 +1,52 @@
+{
+  "V07-35": {
+    "change": "Integrati principi delle discipline, precisione/esattezza, calibrazione/QC e serie numerica commentata; gruppi biologici, contenimento, cappe, decontaminazione e categorie rifiuti.",
+    "files": [
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md"
+    ],
+    "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+    "status": "applicato"
+  },
+  "V07-36": {
+    "change": "Integrati principi delle discipline, precisione/esattezza, calibrazione/QC e serie numerica commentata; gruppi biologici, contenimento, cappe, decontaminazione e categorie rifiuti.",
+    "files": [
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md"
+    ],
+    "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+    "status": "applicato"
+  },
+  "V07-37": {
+    "change": "Aggiunti CTDIvol, DLP, DAP, esempio calcolato, effetti, protezione, limiti normativi; rischi RM, impianti e gravidanza.",
+    "files": [
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md"
+    ],
+    "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+    "status": "applicato"
+  },
+  "V07-38": {
+    "change": "Aggiunti CTDIvol, DLP, DAP, esempio calcolato, effetti, protezione, limiti normativi; rischi RM, impianti e gravidanza.",
+    "files": [
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md"
+    ],
+    "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+    "status": "applicato"
+  },
+  "V07-40": {
+    "change": "Esplicitati esiti dell’incidente grave, classi MDR/IVDR, UDI e FSCA/FSN; preservati termini 10/30 giorni.",
+    "files": [
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md"
+    ],
+    "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+    "status": "applicato"
+  },
+  "V07-41": {
+    "change": "Eliminati residui Humanizer, gate e step dalla prosa pubblica SA03/06–07 e SA04/04, preservando limiti informativi per il candidato.",
+    "files": [
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+      "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md"
+    ],
+    "evidence": "Ricerca mirata dei residui e rilettura dei paragrafi conclusivi.",
+    "status": "applicato"
+  }
+}

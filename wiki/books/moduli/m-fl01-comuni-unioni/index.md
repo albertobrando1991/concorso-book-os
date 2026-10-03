@@ -1,7 +1,7 @@
 ---
 id: m-fl01-comuni-unioni
 type: specialist_module
-title: "M-FL01 - Comuni e Unioni"
+title: "M-FL01 — Comuni e Unioni"
 status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici", "funzioni-locali", "metodo bando", "enti locali", "comuni", "unioni di comuni", "tuel", "entrate locali", "tributi locali", "patrimonio", "contratti pubblici", "procurement", "mepa", "cig"]
@@ -9,9 +9,9 @@ entities: ["Metodo BANDO", "Capitale Personale", "Comune", "Unione di Comuni", "
 source_refs: ["sources/d-lgs-18-agosto-2000-n-267-enti-locali.md", "sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md", "sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md", "sources/servizi-demografici-elettorali-anagrafe-stato-civile.md", "sources/servizi-sociali-educativi-enti-locali.md", "sources/ministero-interno-dait-anpr-finanza-locale.md", "sources/pa-digitale-cad-identita-documenti-servizi-dati.md", "sources/servizi-pubblici-locali-d-lgs-201-2022.md", "sources/suap-commercio-polizia-amministrativa-locale.md", "sources/edilizia-urbanistica-dpr-380-2001.md", "sources/bandi-inpa-vol-02-campione-2026.md", "sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md", "sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md", "sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md"]
 book_refs: ["il-metodo-bando", "moduli-specialistici", "vol-02-enti-locali-polizia-locale"]
 confidence: 0.88
-updated_at: 2026-08-05T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["specialist-module", "module-family-funzioni-locali", "module-code-m-fl01", "module-review-complete"]
 book_id: m-fl01-comuni-unioni
@@ -25,7 +25,7 @@ draft_stage: reviewed-draft
 last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md", "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md"]
 ---
 
-# M-FL01 - Comuni e Unioni
+# M-FL01 — Comuni e Unioni
 
 ## Ruolo del modulo
 Modulo specialistico del VOL-02 dedicato a Comuni, Unioni di Comuni, servizi comunali e profili amministrativi, contabili, tecnici di interfaccia e servizi locali. Il modulo applica il Metodo BANDO al lavoro comunale: non ripete il nucleo comune del VOL-01, ma trasforma ordinamento locale, atti, servizi, contabilità, digitale e casi di sportello in output di prova.
@@ -72,4 +72,4 @@ Il candidato deve arrivare a tre risultati:
 14. [[books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali|Laboratorio teorico-pratico per i quattro profili comunali]]
 
 ## Note di review
-I capitoli 01-14 hanno completato la revisione individuale e trasversale. La copertura v4 è completa; restano l'audit specialistico automatico, il text freeze, gli apparati e il preflight previsti dalla pipeline prima della conferma umana finale.
+I capitoli 01–14 hanno completato il riesame correttivo e l’audit specialistico del 3 ottobre 2026. Il manifest di text freeze riporta gli hash correnti. La chiusura del modulo non certifica il restante volume né il nuovo PDF: restano gli apparati e il preflight del pacchetto complessivo prima della conferma finale.

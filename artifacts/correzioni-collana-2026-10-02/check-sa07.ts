@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {runDidacticDensityGate} from '../../src/pipeline/gates/didactic-density-gate';
+import {runCoverageGate} from '../../src/pipeline/gates/coverage-gate';
+import {extractOperationalDataReviewRows} from '../../src/pipeline/review/operational-data';
+const dir='wiki/books/moduli/m-sa02-professioni-sanitarie';
+const chapterPath=path.resolve(dir,'chapters/05-valutazione-clinica-triage-urgenza-emergenza.md');
+const matrixPath=path.resolve(dir,'planning/02-matrice-copertura-didattica.md');
+const content=fs.readFileSync(chapterPath,'utf8');
+const report={density:runDidacticDensityGate({content,chapterPath}),coverage:runCoverageGate({matrix:fs.readFileSync(matrixPath,'utf8'),matrixPath,chapterNumber:'05'}),operational:extractOperationalDataReviewRows(content,chapterPath)};
+fs.writeFileSync('artifacts/correzioni-collana-2026-10-02/SA02-05-gates.json',JSON.stringify(report,null,2));
+console.log(JSON.stringify(report,null,2));

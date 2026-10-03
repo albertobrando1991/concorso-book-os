@@ -1,0 +1,83 @@
+[
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/statuto-ivass.pdf",
+    "url": "https://www.ivass.it/normativa/nazionale/primaria/Statuto_IVASS.pdf",
+    "sha256": "92244bd7bbaccdb91e6d6a13564737a55f6c182943b52c10e3ef68f6f6abbfcf",
+    "bytes": 306254,
+    "readComplete": false,
+    "readScope": "Lettura visiva pagine PDF 6–7: articoli 9, 11 e 12; non statuto intero"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/statuto-banca.pdf",
+    "url": "https://www.bancaditalia.it/chi-siamo/funzioni-governance/disposizioni-generali/statuto.pdf",
+    "sha256": "b4c07ad2115520c8ff03cf84777aa246cdeb7985de6a241d8d72eb238bf2fba7",
+    "bytes": 194794,
+    "readComplete": false,
+    "readScope": "Passaggi artt. 18–23 tramite testo web primario; art. 19 solo passaggi pertinenti"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/ptpct-banca-2026.pdf",
+    "url": "https://www.bancaditalia.it/chi-siamo/responsabile-trasparenza/Piano-triennale-prevenzione-corruzione-2026-2028.pdf",
+    "sha256": "c9a4b692243ebc74a7e3031ed4ecf4e9cade0fe5b92e2e966e93ba5930e22a6a",
+    "bytes": 794670,
+    "readComplete": false,
+    "readScope": "Pagina PDF 12, aggiornamenti incompatibilità e investimenti; non piano intero"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/arera-air-255-2025.pdf",
+    "url": "https://www.arera.it/fileadmin/allegati/docs/25/255-2025-A.pdf",
+    "sha256": "b1713088b032aabee56cb20bf02760857e4f23699f8b931dc04ca7ab435e9f45",
+    "bytes": 444425,
+    "readComplete": false
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/arera-chi-siamo.html",
+    "url": "https://www.arera.it/chi-siamo",
+    "sha256": "055eb9b61b5cdb866e421f6c3397b4fbd1b68837a7b90ed4d27ad74446fd9c8c",
+    "bytes": 189524,
+    "readComplete": false,
+    "readScope": "Pagina istituzionale corrente: composizione, nomina e mandato; lettura web"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/anac-personale-art52quater.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50~art52quater!vig=",
+    "sha256": "4752bd4efb0f1fa109033e1b4286e7974a7568e4bc9c5bad575a569f920640c5",
+    "bytes": 127717,
+    "readComplete": true,
+    "readScope": "Articolo 52-quater intero"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/banca-art19bis.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262~art19bis!vig=",
+    "sha256": "274d414028fa5c0556b1382df45fb347f3fa0f5fa802d5527ccf49d8f57484dc",
+    "bytes": 91844,
+    "readComplete": false,
+    "usableForClaim": false,
+    "readScope": "URN non valido: restituisce art. 1; escluso dalle prove"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/banca-art19ter.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262~art19ter!vig=",
+    "sha256": "274d414028fa5c0556b1382df45fb347f3fa0f5fa802d5527ccf49d8f57484dc",
+    "bytes": 91844,
+    "readComplete": false,
+    "usableForClaim": false,
+    "readScope": "URN non valido: restituisce art. 1; escluso dalle prove"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/banca-art29ter.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262~art29ter!vig=",
+    "sha256": "416e9918bd42150c8fa5ce7d46cf0d6bb4d603ff7c59df2e66ac974b6a7446b0",
+    "bytes": 94897,
+    "readComplete": true,
+    "readScope": "Articolo 29-ter intero"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/banca-art29quater.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262~art29quater!vig=",
+    "sha256": "33d5d7c77e227bf25a5e6c04cc12cf2904dbaf3395ac7d5439aede8fcc5aa851",
+    "bytes": 93110,
+    "readComplete": true,
+    "readScope": "Articolo 29-quater intero"
+  }
+]

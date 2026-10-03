@@ -1,0 +1,669 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pagina di manutenzione</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <style>
+/* =========================
+   FONT FACE (Bliss Pro)
+   ========================= */
+@font-face{
+  font-family: "Bliss Pro";
+  src: url("https://www.acquistinretepa.it/opencms/export/restyle.template/resources/fonts/BlissProMedium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "Bliss Pro";
+  src: url("https://www.acquistinretepa.it/opencms/export/restyle.template/resources/fonts/BlissProLight.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* =========================
+   VARIABLES
+   ========================= */
+:root{
+  --bg: #f2f2f2;
+  --text: #0a0b0d;
+  --muted: #0a0b0d;
+  --brand: #2a8863;
+  --card: #ffffff;
+  --shadow: 0 2px 10px rgba(0,0,0,.08);
+  --radius: 14px;
+  --max: 1100px;
+
+  --font-title: "Bliss Pro", "Archivo", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  --font-text: "Archivo", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+/* =========================
+   BASE
+   ========================= */
+*{ box-sizing:border-box; margin:0; padding:0; }
+
+body{
+  font-family: var(--font-text);
+  font-weight: 300; /* Archivo Light */
+  background: var(--bg);
+  color: var(--text);
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+a{ color: inherit; }
+
+/* Focus visibile (tastiera) */
+a:focus-visible,
+summary:focus-visible{
+  outline: 3px solid rgba(255,255,255,.65);
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+/* Layout wrapper */
+.container{
+  width: min(100% - 32px, var(--max));
+  margin-inline: auto;
+}
+
+/* =========================
+   HEADER
+   ========================= */
+header{
+  background: #fff;
+  border-bottom: 1px solid rgba(0,0,0,.06);
+}
+header .container{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding: 16px 0;
+}
+
+.logo-container{
+  display:flex;
+  align-items:center;
+  gap: 12px;
+  min-height: 56px;
+}
+.logo-container svg{
+  display:block;
+  max-width: 100%;
+  height: 40px;
+}
+
+/* =========================
+   MAIN / CARDS
+   ========================= */
+main{ padding: 28px 0 40px; }
+
+.card{
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 24px;
+}
+
+.page-description{
+  text-align:center;
+  padding: 28px 18px;
+}
+
+.page-description h1{
+  font-family: var(--font-title);
+  font-weight: 500; /* Bliss Pro Medium */
+  font-size: clamp(1.6rem, 2.6vw, 2.2rem);
+  line-height: 1.15;
+  color: var(--brand);
+  margin-bottom: 12px;
+  letter-spacing: -0.01em;
+}
+
+.page-description p{
+  color: var(--muted);
+  max-width: 70ch;
+  margin: 0 auto;
+  font-weight: 300; /* Archivo Light */
+}
+.page-description p + p{ margin-top: 8px; }
+
+/* =========================
+   PERIODO MANUTENZIONE
+   ========================= */
+.maintenance-period{ 
+	margin-top: 18px; 
+	margin-bottom: 60px;
+}
+
+.maintenance-period h2{
+  font-family: var(--font-title);
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin-bottom: 16px;
+  text-align:center;
+  
+}
+
+.period-grid{
+  display:grid;
+  grid-template-columns: 1fr auto 1fr; /* inizio | freccia | fine */
+  align-items:center;
+  justify-items:center;
+  gap: 18px;
+  padding: 18px;
+}
+
+.period-block{
+  width: 100%;
+  max-width: 340px;
+  background: rgba(42,136,99,.06);
+  border: 1px solid rgba(42,136,99,.18);
+  border-radius: 12px;
+  padding: 16px 16px 14px;
+  text-align:center;
+}
+
+.period-label{
+  display:inline-block;
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: rgba(10,11,13,.7);
+  margin-bottom: 8px;
+}
+
+.period-date{
+  display:block;
+  font-family: var(--font-title);
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  color: var(--text);
+}
+.period-time{
+  display:block;
+  margin-top: 6px;
+  font-size: 1.2rem;
+  color: rgba(10,11,13,.78);
+  font-weight: 300;
+}
+
+.period-arrow{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width: 64px;
+  height: 64px;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.08);
+  box-shadow: 0 1px 6px rgba(0,0,0,.06);
+  flex: 0 0 auto;
+}
+.period-arrow svg{
+  width: 28px;
+  height: 28px;
+  color: var(--brand);
+  display:block;
+}
+
+/* quando lo spazio diventa “strano”: impila */
+@media (max-width: 860px){
+  .period-grid{ grid-template-columns: 1fr; }
+  .period-arrow{ transform: rotate(90deg); }
+  .period-block{ max-width: 520px; }
+}
+
+/* =========================
+   DESCRIZIONE
+   ========================= */
+.description{
+  margin-top: 18px;
+  text-align:center;
+  color: var(--muted);
+  padding: 0 8px;
+  font-weight: 300;
+}
+
+/* =========================
+   NUMERI ASSISTENZA
+   ========================= */
+.blocks{
+  margin-top: 18px;
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+@media (max-width: 980px){
+  .blocks{ grid-template-columns: 1fr; }
+}
+
+.block{
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 22px;
+  text-align:center;
+}
+
+.block h3{
+  font-family: var(--font-title);
+  font-weight: 400;
+  font-size: 1.1rem;
+  /*margin-bottom: 10px;*/
+}
+
+.number{
+  font-family: var(--font-title);
+  font-weight: 400;
+  font-size: clamp(1.6rem, 3.2vw, 2.1rem);
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+  margin: 6px 0 6px;
+}
+.number.green{ color: #118a49; }
+.number.black{ color: #111827; }
+
+.block p{
+  color: var(--muted);
+  font-size: .98rem;
+  font-weight: 300;
+}
+
+/* =========================
+   COLLAPSIBLE
+   ========================= */
+details{
+  margin-top: 16px;
+  background: #fff;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 16px 18px;
+}
+
+details > summary{
+  cursor:pointer;
+  font-style: italic;
+  color: rgba(10,11,13,.85);
+  list-style: none;
+  outline: none;
+  font-size: 16px;
+}
+details > summary::-webkit-details-marker{ display:none; }
+details[open] > summary{ margin-bottom: 10px; }
+
+.details-content{
+  color: var(--muted);
+  font-size: 0.98rem;
+  font-weight: 300;
+}
+
+.NumberBox{
+  display:grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin: 12px 0;
+}
+@media (max-width: 980px){
+  .NumberBox{ grid-template-columns: 1fr; }
+}
+.NumberBox .box{
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 12px;
+  padding: 14px;
+}
+.NumberBox .Title{
+  display:inline-block;
+  font-family: var(--font-title);
+  font-weight: 500;
+  color: var(--brand);
+  margin-bottom: 6px;
+  font-style: normal;
+}
+
+/* =========================
+   FOOTER
+   ========================= */
+footer{
+  background: #0d442d;
+  color: #fff;
+  margin-top: 32px;
+}
+
+footer .container{
+  padding: 18px 0;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+footer p{
+  margin:0;
+  opacity: .95;
+  font-size: .95rem;
+  font-weight: 300;
+}
+
+/* Loghi in riga, senza “effetto sfocato” */
+.logo-wrapper{
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+  flex-wrap: nowrap;
+  gap: 0;
+}
+
+.logo-wrapper a{
+  display:flex;
+  align-items:center;
+  line-height: 0; /* evita baseline gap */
+}
+
+/* SVG nitidi e consistenti */
+.logo-wrapper svg{
+  display:block;
+  height: 40px;
+  width: auto;
+}
+
+/* Separatore verticale: 1px x 50px + 40px/40px di aria */
+.logo-separator{
+  width: 1px;
+  height: 50px;
+  background: rgba(255,255,255,.95);
+  margin: 0 40px; /* 40 + 40 */
+  flex: 0 0 auto;
+}
+
+/* Responsive footer: riduco dimensioni e aria, restano in riga */
+@media (max-width: 520px){
+  footer .container{ gap: 12px; }
+  .logo-wrapper svg{ height: 34px; }
+  .logo-separator{
+    height: 40px;
+    margin: 0 16px;
+  }
+}
+/* =========================
+   FOOTER LOGOS (parametrici)
+   ========================= */
+
+:root{
+  /* Desktop */
+  --logo-consip-h: 38px;
+  --logo-mef-h: 55px;       /* mettilo uguale a consip per uniformarli */
+  --logo-sep-h: 50px;
+  --logo-sep-gap: 40px;     /* 40px + 40px ai lati */
+}
+
+/* Wrapper */
+.logo-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: nowrap;      /* restano in riga */
+  gap: 0;
+}
+
+.logo-wrapper .logo-link{
+  display: flex;
+  align-items: center;
+  line-height: 0;         /* elimina spazi fantasma */
+}
+
+/* SVG base */
+.logo-wrapper svg{
+  display: block;
+  width: auto;
+  max-width: none;        /* evita compressioni strane */
+}
+
+/* Altezze per-logo (controllo separato) */
+.logo-wrapper .logo-consip svg{ height: var(--logo-consip-h); margin-top:7px }
+.logo-wrapper .logo-mef svg{ height: var(--logo-mef-h); }
+
+/* Separatore verticale */
+.logo-separator{
+  width: 1px;
+  height: var(--logo-sep-h);
+  background: #fff;
+  margin: 0 var(--logo-sep-gap);
+  flex: 0 0 auto;
+  opacity: .9;
+}
+
+/* Responsive: riduci proporzionalmente */
+@media (max-width: 900px){
+  :root{
+    --logo-consip-h: 40px;
+    --logo-mef-h: 40px;
+    --logo-sep-h: 46px;
+    --logo-sep-gap: 28px;
+  }
+}
+
+@media (max-width: 520px){
+  :root{
+    --logo-consip-h: 32px;
+    --logo-mef-h: 32px;
+    --logo-sep-h: 40px;
+    --logo-sep-gap: 16px;
+  }
+}
+
+
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <div class="logo-container" aria-label="Logo Acquisti in Rete PA">
+        <!-- Il tuo SVG logo (in alto) -->
+<svg width="254" height="35" viewBox="0 0 254 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M243.129 26.8092C241.545 26.8092 240.117 26.4132 238.845 25.6212C237.573 24.8292 236.577 23.7492 235.857 22.3812C235.137 21.0132 234.777 19.4772 234.777 17.7732C234.777 16.0452 235.137 14.4972 235.857 13.1292C236.577 11.7612 237.573 10.6812 238.845 9.88916C240.117 9.09716 241.545 8.70116 243.129 8.70116C244.377 8.70116 245.493 8.95316 246.477 9.45716C247.132 9.79221 247.696 10.2174 248.169 10.7328V9.06116H252.849V26.4492H248.169V24.7615C247.696 25.2716 247.132 25.7021 246.477 26.0532C245.493 26.5572 244.377 26.8092 243.129 26.8092ZM243.993 22.4532C245.313 22.4532 246.381 22.0212 247.197 21.1572C248.013 20.2692 248.421 19.1292 248.421 17.7372C248.421 16.8252 248.229 16.0212 247.845 15.3252C247.485 14.6052 246.969 14.0532 246.297 13.6692C245.649 13.2612 244.881 13.0572 243.993 13.0572C243.129 13.0572 242.361 13.2612 241.689 13.6692C241.041 14.0532 240.525 14.6052 240.141 15.3252C239.781 16.0212 239.601 16.8252 239.601 17.7372C239.601 18.6732 239.781 19.5012 240.141 20.2212C240.525 20.9172 241.041 21.4692 241.689 21.8772C242.361 22.2612 243.129 22.4532 243.993 22.4532Z" stroke="#2A8862"></path>
+<path d="M224.341 26.8092C223.093 26.8092 221.965 26.5572 220.957 26.0532C220.357 25.7387 219.829 25.3603 219.373 24.9182V33.7212H214.693V9.06116H219.409V10.6227C219.863 10.1799 220.379 9.80338 220.957 9.49316C221.965 8.96516 223.093 8.70116 224.341 8.70116C225.949 8.70116 227.389 9.09716 228.661 9.88916C229.933 10.6812 230.929 11.7612 231.649 13.1292C232.393 14.4972 232.765 16.0452 232.765 17.7732C232.765 19.4772 232.393 21.0132 231.649 22.3812C230.929 23.7492 229.933 24.8292 228.661 25.6212C227.389 26.4132 225.949 26.8092 224.341 26.8092ZM223.513 22.4532C224.377 22.4532 225.145 22.2612 225.817 21.8772C226.489 21.4692 227.005 20.9172 227.365 20.2212C227.749 19.5012 227.941 18.6732 227.941 17.7372C227.941 16.8252 227.749 16.0212 227.365 15.3252C227.005 14.6052 226.489 14.0532 225.817 13.6692C225.145 13.2612 224.377 13.0572 223.513 13.0572C222.673 13.0572 221.917 13.2612 221.245 13.6692C220.573 14.0532 220.045 14.6052 219.661 15.3252C219.301 16.0212 219.121 16.8252 219.121 17.7372C219.121 18.6732 219.301 19.5012 219.661 20.2212C220.045 20.9172 220.561 21.4692 221.209 21.8772C221.881 22.2612 222.649 22.4532 223.513 22.4532Z" stroke="#2A8862"></path>
+<path d="M203.532 26.8092C201.708 26.8092 200.088 26.4252 198.672 25.6572C197.256 24.8652 196.128 23.7852 195.288 22.4172C194.472 21.0492 194.064 19.4892 194.064 17.7372C194.064 16.0092 194.46 14.4732 195.252 13.1292C196.068 11.7612 197.172 10.6812 198.564 9.88916C199.956 9.07316 201.504 8.66516 203.208 8.66516C204.888 8.66516 206.364 9.04916 207.636 9.81716C208.932 10.5612 209.94 11.5932 210.66 12.9132C211.404 14.2092 211.776 15.6852 211.776 17.3412C211.776 17.6532 211.752 17.9772 211.704 18.3132C211.68 18.6252 211.62 18.9852 211.524 19.3932L196.908 19.4292V15.9012L209.328 15.8652L207.42 17.3412C207.372 16.3092 207.18 15.4452 206.844 14.7492C206.532 14.0532 206.064 13.5252 205.44 13.1652C204.84 12.7812 204.096 12.5892 203.208 12.5892C202.272 12.5892 201.456 12.8052 200.76 13.2372C200.064 13.6452 199.524 14.2332 199.14 15.0012C198.78 15.7452 198.6 16.6332 198.6 17.6652C198.6 18.7212 198.792 19.6452 199.176 20.4372C199.584 21.2052 200.16 21.8052 200.904 22.2372C201.648 22.6452 202.512 22.8492 203.496 22.8492C204.384 22.8492 205.188 22.7052 205.908 22.4172C206.628 22.1052 207.252 21.6492 207.78 21.0492L210.552 23.8212C209.712 24.8052 208.68 25.5492 207.456 26.0532C206.256 26.5572 204.948 26.8092 203.532 26.8092Z" fill="#2A8862"></path>
+<path d="M184.203 26.4492V1.82516H188.919V26.4492H184.203ZM180.135 13.2012V9.06116H192.987V13.2012H180.135Z" fill="#2A8862"></path>
+<path d="M170.872 26.8092C169.048 26.8092 167.428 26.4252 166.012 25.6572C164.596 24.8652 163.468 23.7852 162.628 22.4172C161.812 21.0492 161.404 19.4892 161.404 17.7372C161.404 16.0092 161.8 14.4732 162.592 13.1292C163.408 11.7612 164.512 10.6812 165.904 9.88916C167.296 9.07316 168.844 8.66516 170.548 8.66516C172.228 8.66516 173.704 9.04916 174.976 9.81716C176.272 10.5612 177.28 11.5932 178 12.9132C178.744 14.2092 179.116 15.6852 179.116 17.3412C179.116 17.6532 179.092 17.9772 179.044 18.3132C179.02 18.6252 178.96 18.9852 178.864 19.3932L164.248 19.4292V15.9012L176.668 15.8652L174.76 17.3412C174.712 16.3092 174.52 15.4452 174.184 14.7492C173.872 14.0532 173.404 13.5252 172.78 13.1652C172.18 12.7812 171.436 12.5892 170.548 12.5892C169.612 12.5892 168.796 12.8052 168.1 13.2372C167.404 13.6452 166.864 14.2332 166.48 15.0012C166.12 15.7452 165.94 16.6332 165.94 17.6652C165.94 18.7212 166.132 19.6452 166.516 20.4372C166.924 21.2052 167.5 21.8052 168.244 22.2372C168.988 22.6452 169.852 22.8492 170.836 22.8492C171.724 22.8492 172.528 22.7052 173.248 22.4172C173.968 22.1052 174.592 21.6492 175.12 21.0492L177.892 23.8212C177.052 24.8052 176.02 25.5492 174.796 26.0532C173.596 26.5572 172.288 26.8092 170.872 26.8092Z" fill="#2A8862"></path>
+<path d="M148.072 26.4492V9.06116H152.788V26.4492H148.072ZM152.788 16.8372L150.952 15.6132C151.168 13.4772 151.792 11.7972 152.824 10.5732C153.856 9.32516 155.344 8.70116 157.288 8.70116C158.128 8.70116 158.884 8.84516 159.556 9.13316C160.228 9.39716 160.84 9.84116 161.392 10.4652L158.44 13.8492C158.176 13.5612 157.852 13.3452 157.468 13.2012C157.108 13.0572 156.688 12.9852 156.208 12.9852C155.2 12.9852 154.372 13.3092 153.724 13.9572C153.1 14.5812 152.788 15.5412 152.788 16.8372Z" fill="#2A8862"></path>
+<path d="M139.755 16.4768V26.4488H144.471V15.4328C144.471 14.2568 144.183 13.1648 143.607 12.1568C143.031 11.1248 142.239 10.2968 141.231 9.67281C140.223 9.02481 139.083 8.70081 137.811 8.70081C136.491 8.70081 135.303 8.98881 134.247 9.56481C133.692 9.8742 133.2 10.2494 132.771 10.6903V9.06081H128.055V26.4488H132.771V16.4768C132.771 15.7808 132.915 15.1688 133.203 14.6408C133.515 14.1128 133.935 13.7048 134.463 13.4168C134.991 13.1288 135.591 12.9848 136.263 12.9848C137.295 12.9848 138.135 13.3088 138.783 13.9568C139.431 14.6048 139.755 15.4448 139.755 16.4768Z" stroke="#2A8862"></path>
+<path d="M118.929 26.4492V9.06116H123.681V26.4492H118.929ZM121.305 6.25316C120.537 6.25316 119.901 6.00116 119.397 5.49716C118.893 4.96916 118.641 4.32116 118.641 3.55316C118.641 2.80916 118.893 2.17316 119.397 1.64516C119.901 1.11716 120.537 0.853157 121.305 0.853157C122.097 0.853157 122.733 1.11716 123.213 1.64516C123.717 2.17316 123.969 2.80916 123.969 3.55316C123.969 4.32116 123.717 4.96916 123.213 5.49716C122.733 6.00116 122.097 6.25316 121.305 6.25316Z" stroke="#2A8862"></path>
+<path d="M107.492 26.4492V1.82516H112.208V26.4492H107.492ZM103.424 13.2012V9.06116H116.276V13.2012H103.424Z" fill="#2A8862"></path>
+<path d="M94.9155 26.8452C93.9315 26.8452 92.9595 26.7132 91.9995 26.4492C91.0635 26.1852 90.1995 25.8252 89.4075 25.3692C88.6155 24.8892 87.9315 24.3132 87.3555 23.6412L90.1635 20.7972C90.7635 21.4692 91.4595 21.9732 92.2515 22.3092C93.0435 22.6452 93.9195 22.8132 94.8795 22.8132C95.6475 22.8132 96.2235 22.7052 96.6075 22.4892C97.0155 22.2732 97.2195 21.9492 97.2195 21.5172C97.2195 21.0372 97.0035 20.6652 96.5715 20.4012C96.1635 20.1372 95.6235 19.9212 94.9515 19.7532C94.2795 19.5612 93.5715 19.3572 92.8275 19.1412C92.1075 18.9012 91.4115 18.6012 90.7395 18.2412C90.0675 17.8572 89.5155 17.3412 89.0835 16.6932C88.6755 16.0212 88.4715 15.1572 88.4715 14.1012C88.4715 12.9972 88.7355 12.0372 89.2635 11.2212C89.8155 10.4052 90.5955 9.76916 91.6035 9.31316C92.6115 8.85716 93.7995 8.62916 95.1675 8.62916C96.6075 8.62916 97.9035 8.88116 99.0555 9.38516C100.231 9.88916 101.203 10.6452 101.971 11.6532L99.1275 14.4972C98.5995 13.8492 97.9995 13.3812 97.3275 13.0932C96.6795 12.8052 95.9715 12.6612 95.2035 12.6612C94.5075 12.6612 93.9675 12.7692 93.5835 12.9852C93.2235 13.2012 93.0435 13.5012 93.0435 13.8852C93.0435 14.3172 93.2475 14.6532 93.6555 14.8932C94.0875 15.1332 94.6395 15.3492 95.3115 15.5412C95.9835 15.7092 96.6795 15.9132 97.3995 16.1532C98.1435 16.3692 98.8395 16.6812 99.4875 17.0892C100.159 17.4972 100.699 18.0372 101.107 18.7092C101.539 19.3812 101.755 20.2452 101.755 21.3012C101.755 23.0052 101.143 24.3612 99.9195 25.3692C98.6955 26.3532 97.0275 26.8452 94.9155 26.8452Z" fill="#2A8862"></path>
+<path d="M80.0107 26.4492V9.06116H84.7627V26.4492H80.0107ZM82.3867 6.25316C81.6187 6.25316 80.9827 6.00116 80.4787 5.49716C79.9747 4.96916 79.7227 4.32116 79.7227 3.55316C79.7227 2.80916 79.9747 2.17316 80.4787 1.64516C80.9827 1.11716 81.6187 0.853157 82.3867 0.853157C83.1787 0.853157 83.8147 1.11716 84.2947 1.64516C84.7987 2.17316 85.0507 2.80916 85.0507 3.55316C85.0507 4.32116 84.7987 4.96916 84.2947 5.49716C83.8147 6.00116 83.1787 6.25316 82.3867 6.25316Z" fill="#2A8862"></path>
+<path d="M68.4055 26.8092C66.8695 26.8092 65.5015 26.4852 64.3015 25.8372C63.1255 25.1892 62.2015 24.2892 61.5295 23.1372C60.8575 21.9852 60.5215 20.6532 60.5215 19.1412V9.06116H65.2735V19.0332C65.2735 19.7532 65.3935 20.3772 65.6335 20.9052C65.8735 21.4092 66.2335 21.7932 66.7135 22.0572C67.1935 22.3212 67.7575 22.4532 68.4055 22.4532C69.3895 22.4532 70.1575 22.1532 70.7095 21.5532C71.2615 20.9532 71.5375 20.1132 71.5375 19.0332V9.06116H76.2535V19.1412C76.2535 20.6772 75.9175 22.0212 75.2455 23.1732C74.5975 24.3252 73.6735 25.2252 72.4735 25.8732C71.2975 26.4972 69.9415 26.8092 68.4055 26.8092Z" fill="#2A8862"></path>
+<path d="M47.0981 26.8092C45.5141 26.8092 44.0861 26.4132 42.8141 25.6212C41.5421 24.8292 40.5461 23.7492 39.8261 22.3812C39.1061 21.0132 38.7461 19.4772 38.7461 17.7732C38.7461 16.0452 39.1061 14.4972 39.8261 13.1292C40.5461 11.7612 41.5421 10.6812 42.8141 9.88916C44.0861 9.09716 45.5141 8.70116 47.0981 8.70116C48.3461 8.70116 49.4621 8.95316 50.4461 9.45716C51.4301 9.96116 52.2101 10.6692 52.7861 11.5812C53.3861 12.4692 53.7101 13.4772 53.7581 14.6052V20.8692C53.7101 22.0212 53.3861 23.0412 52.7861 23.9292C52.2101 24.8172 51.4301 25.5252 50.4461 26.0532C49.4621 26.5572 48.3461 26.8092 47.0981 26.8092ZM47.9621 22.4532C49.2821 22.4532 50.3501 22.0212 51.1661 21.1572C51.9821 20.2692 52.3901 19.1292 52.3901 17.7372C52.3901 16.8252 52.1981 16.0212 51.8141 15.3252C51.4541 14.6052 50.9381 14.0532 50.2661 13.6692C49.6181 13.2612 48.8501 13.0572 47.9621 13.0572C47.0981 13.0572 46.3301 13.2612 45.6581 13.6692C45.0101 14.0532 44.4941 14.6052 44.1101 15.3252C43.7501 16.0212 43.5701 16.8252 43.5701 17.7372C43.5701 18.6732 43.7501 19.5012 44.1101 20.2212C44.4941 20.9172 45.0101 21.4692 45.6581 21.8772C46.3301 22.2612 47.0981 22.4532 47.9621 22.4532ZM52.1381 33.7212V22.0572L52.8941 17.8452L52.1381 13.6332V9.06116H56.8181V33.7212H52.1381Z" fill="#2A8862"></path>
+<path d="M30.7018 26.8092C28.9258 26.8092 27.3298 26.4132 25.9138 25.6212C24.4978 24.8292 23.3818 23.7492 22.5658 22.3812C21.7498 21.0132 21.3418 19.4772 21.3418 17.7732C21.3418 16.0452 21.7498 14.4972 22.5658 13.1292C23.3818 11.7612 24.4978 10.6812 25.9138 9.88916C27.3538 9.07316 28.9498 8.66516 30.7018 8.66516C32.0698 8.66516 33.3298 8.91716 34.4818 9.42116C35.6338 9.92516 36.6298 10.6452 37.4698 11.5812L34.4458 14.6412C33.9898 14.1372 33.4378 13.7532 32.7898 13.4892C32.1658 13.2252 31.4698 13.0932 30.7018 13.0932C29.8378 13.0932 29.0578 13.2972 28.3618 13.7052C27.6898 14.0892 27.1498 14.6292 26.7418 15.3252C26.3578 15.9972 26.1658 16.8012 26.1658 17.7372C26.1658 18.6492 26.3578 19.4652 26.7418 20.1852C27.1498 20.8812 27.6898 21.4332 28.3618 21.8412C29.0578 22.2252 29.8378 22.4172 30.7018 22.4172C31.4938 22.4172 32.2018 22.2852 32.8258 22.0212C33.4738 21.7332 34.0258 21.3252 34.4818 20.7972L37.5418 23.8572C36.6538 24.8172 35.6338 25.5492 34.4818 26.0532C33.3298 26.5572 32.0698 26.8092 30.7018 26.8092Z" fill="#2A8862"></path>
+<path d="M8.602 26.8092C7.018 26.8092 5.59 26.4132 4.318 25.6212C3.046 24.8292 2.05 23.7492 1.33 22.3812C0.61 21.0132 0.25 19.4772 0.25 17.7732C0.25 16.0452 0.61 14.4972 1.33 13.1292C2.05 11.7612 3.046 10.6812 4.318 9.88916C5.59 9.09716 7.018 8.70116 8.602 8.70116C9.85 8.70116 10.966 8.95316 11.95 9.45716C12.934 9.96116 13.714 10.6692 14.29 11.5812C14.89 12.4692 15.214 13.4772 15.262 14.6052V20.8692C15.214 22.0212 14.89 23.0412 14.29 23.9292C13.714 24.8172 12.934 25.5252 11.95 26.0532C10.966 26.5572 9.85 26.8092 8.602 26.8092ZM9.466 22.4532C10.786 22.4532 11.854 22.0212 12.67 21.1572C13.486 20.2692 13.894 19.1292 13.894 17.7372C13.894 16.8252 13.702 16.0212 13.318 15.3252C12.958 14.6052 12.442 14.0532 11.77 13.6692C11.122 13.2612 10.354 13.0572 9.466 13.0572C8.602 13.0572 7.834 13.2612 7.162 13.6692C6.514 14.0532 5.998 14.6052 5.614 15.3252C5.254 16.0212 5.074 16.8252 5.074 17.7372C5.074 18.6732 5.254 19.5012 5.614 20.2212C5.998 20.9172 6.514 21.4692 7.162 21.8772C7.834 22.2612 8.602 22.4532 9.466 22.4532ZM13.642 26.4492V21.7692L14.398 17.5212L13.642 13.3452V9.06116H18.322V26.4492H13.642Z" fill="#2A8862"></path>
+</svg>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+
+      <section class="card page-description" aria-labelledby="titolo-manutenzione">
+        <h1 id="titolo-manutenzione">Il portale Acquisti in rete è in manutenzione</h1>
+        <p>Il nostro sito web è al momento in fase di manutenzione.</p>
+        <p>Stiamo lavorando per migliorare l’esperienza degli utenti e rendere il portale più efficiente e affidabile.</p>
+      </section>
+
+      <section class="card maintenance-period" aria-labelledby="titolo-periodo">
+        <h2 id="titolo-periodo">Periodo di manutenzione</h2>
+
+        <div class="period-grid" role="group" aria-label="Intervallo di manutenzione">
+          <div class="period-block" aria-label="Inizio manutenzione">
+            <span class="period-label">Inizio</span>
+            <span class="period-date">02/10/2026</span>
+            <span class="period-time">ore 20:00</span>
+          </div>
+
+          <div class="period-arrow" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+              <path fill="currentColor" fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/>
+            </svg>
+          </div>
+
+          <div class="period-block" aria-label="Fine manutenzione">
+            <span class="period-label">Fine</span>
+            <span class="period-date">04/10/2026</span>
+            <span class="period-time">ore 20:00</span>
+          </div>
+        </div>
+      </section>
+
+      <p class="description">Se hai bisogno di assistenza, puoi contattare i numeri dedicati e parlare con un operatore.</p>
+
+      <section class="blocks" aria-label="Contatti assistenza">
+        <div class="block">
+          <h3>Pubblica Amministrazione</h3>
+          <div class="number green">800 753 783</div>
+          <p>Numero verde unico</p>
+        </div>
+
+        <div class="block">
+          <h3>Imprese</h3>
+          <div class="number green">800 062 060</div>
+          <p>Numero verde per malfunzionamenti sul Portale Acquisti in rete</p>
+        </div>
+
+        <div class="block">
+          <h3>Imprese</h3>
+          <div class="number black">895 858 5859</div>
+          <p>Numero a pagamento* per tutte le esigenze informative</p>
+        </div>
+      </section>
+
+      <details>
+        <summary>* Informazione sui costi del numero a pagamento</summary>
+        <div class="details-content">
+          <p>
+            Il prefisso 895 identifica le numerazioni attraverso le quali possono essere erogati unicamente servizi di assistenza e consulenza tecnico-professionali.
+            È stato introdotto dal nuovo Piano di Numerazione Nazionale, pubblicato sulla G.U. n. 172 del 24 luglio 2008.
+          </p>
+
+          <p style="margin-top:10px;">
+            Se il tuo telefono fisso è bloccato e non riesci a chiamare il numero, puoi richiedere gratuitamente al tuo operatore l’abilitazione/disabilitazione ai codici a tariffa maggiorata (es. <strong>895 858 5859</strong>).
+          </p>
+
+          <p style="margin-top:10px;">
+            Ogni telefonata al prefisso 895 è preceduta da un messaggio gratuito che indica tipologia del servizio, costo al minuto e costo massimo della singola telefonata.
+            Se interrompi durante il messaggio iniziale, non viene addebitato nulla.
+          </p>
+
+          <p style="margin-top:10px;">
+            Costo da rete fissa: <strong>€ 0,6344/min</strong> IVA inclusa.
+          </p>
+
+          <p style="margin-top:10px;">Costo da rete mobile (principali operatori):</p>
+
+          <div class="NumberBox" aria-label="Costi rete mobile">
+
+<div class="box">
+              <span class="Title">ILIAD</span><br>
+              Costo al minuto: <strong>1,016626€</strong><br>
+              Scatto alla risposta: <strong>0,157502€</strong><br>
+              <em>IVA inclusa</em>
+            </div>
+
+            <div class="box">
+              <span class="Title">TIM</span><br>
+              Costo al minuto: <strong>0,945134€</strong><br>
+              Scatto alla risposta: <strong>0,157502€</strong><br>
+              <em>IVA inclusa</em>
+            </div>
+
+       
+
+            <div class="box">
+              <span class="Title">VODAFONE</span><br>
+              Costo al minuto: <strong>1,016626€</strong><br>
+              Scatto alla risposta: <strong>0,061€</strong><br>
+              <em>IVA inclusa</em>
+            </div>
+			  
+ <div class="box">
+              <span class="Title">WINDTRE</span><br>
+              Costo al minuto: <strong>0,9760€</strong><br>
+              Scatto alla risposta: <strong>0,1525€</strong><br>
+              <em>IVA inclusa</em>
+            </div>
+          </div>
+
+          <p>
+            Costo massimo della singola telefonata: <strong>15,25€</strong> <em>IVA inclusa</em>.
+          </p>
+        </div>
+      </details>
+
+    </div>
+  </main>
+
+  <footer>
+        <div class="container">
+      <p id="LogoMef">© 2026 Acquisti in rete PA. Tutti i diritti riservati.</p>
+
+      <div class="logo-wrapper" aria-label="Link istituzionali">
+  <a href="https://urldefense.com/v3/__http://www.consip.it__;!!OrxsNty6D4my!9E5b7-X_bO2DJdSc-4Y1J_NqCXDTGMXpyOYPUECYPEMSpBMWinnjfsEFZj67c-JUtdT9wxEIMvQpR_Rb9lTm21H8IgIRcWg$" target="_blank" rel="noopener noreferrer" aria-label="Vai al sito Consip" class="logo-link logo-consip">
+    <!-- CONSIP: viewBox corretto per non tagliare i path -->
+    <svg
+      id="LogoConsip"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 1100 300"
+      preserveAspectRatio="xMidYMid meet"
+      role="img"
+      aria-label="Logo Consip"
+    >
+      <defs>
+        <style>
+          .cls-1 { fill: #fff; }
+        </style>
+      </defs>
+
+      <!-- I TUOI PATH (copiati, senza modifiche di contenuto) -->
+      <path class="cls-1" d="M132.15,162.12l21.75,32.3c-3.83,3.68-8.59,7.03-14.3,10.03-6.9,3.63-14.6,6.47-23.08,8.54-8.48,2.06-16.97,3.09-25.45,3.09-13.31,0-25.54-2.19-36.68-6.56-11.15-4.37-20.8-10.55-28.94-18.55-8.15-8-14.43-17.48-18.84-28.45-4.41-10.97-6.61-23.05-6.61-36.24s2.33-24.74,6.99-35.63c4.65-10.89,11.14-20.37,19.46-28.45,8.32-8.08,18.09-14.35,29.32-18.8,11.23-4.45,23.58-6.68,37.05-6.68,8.32,0,16.47,1.07,24.45,3.22,7.98,2.15,15.38,5.32,22.21,9.52,4.42,2.73,8.45,5.82,12.17,9.2l-22.82,33.89c-2.66-2.76-5.55-5.21-8.69-7.34-3.91-2.64-8.15-4.7-12.73-6.19-4.58-1.48-9.52-2.23-14.85-2.23-6.66,0-12.89,1.16-18.71,3.46-5.82,2.31-10.9,5.65-15.22,10.02-4.33,4.37-7.73,9.61-10.23,15.71-2.49,6.1-3.74,13.03-3.74,20.78s1.2,14.19,3.62,20.29c2.41,6.1,5.9,11.3,10.48,15.59,4.57,4.29,10.02,7.63,16.34,10.02,6.32,2.39,13.31,3.59,20.96,3.59,5.15,0,10.14-.74,14.97-2.23,4.82-1.48,9.27-3.5,13.35-6.06,2.81-1.76,5.39-3.71,7.77-5.83h0ZM562.17,48.01c-9.74-6.09-20.76-9.14-33.05-9.14s-24.18,2.76-34.27,8.28c-5.47,2.99-10.27,6.63-14.44,10.87v-15.7h-45.57v166.61h45.57v-95.55c0-6.67,1.45-12.53,4.35-17.59,2.9-5.06,6.9-8.97,12-11.73,5.1-2.76,10.9-4.14,17.39-4.14,9.97,0,18.09,3.1,24.35,9.31,6.26,6.21,9.39,14.26,9.39,24.15v95.55h45.57v-105.55c0-11.26-2.78-21.79-8.35-31.56-5.57-9.77-13.22-17.71-22.96-23.8h0ZM678.49,79.92c3.59-2.07,8.75-3.1,15.48-3.1,7.42,0,14.32,1.38,20.7,4.14,6.37,2.76,12.12,7.24,17.22,13.45l27.48-27.25c-7.43-9.66-16.76-16.9-28-21.73-11.25-4.83-23.83-7.24-37.75-7.24s-24.7,2.19-34.44,6.55c-9.74,4.37-17.22,10.47-22.44,18.28-5.22,7.82-7.83,17.02-7.83,27.6s2.03,18.34,6.09,24.66c4.05,6.33,9.33,11.27,15.83,14.83,6.49,3.57,13.27,6.44,20.35,8.62,7.07,2.19,13.86,4.14,20.35,5.86,6.49,1.73,11.77,3.85,15.83,6.38,4.06,2.53,6.09,6.1,6.09,10.69,0,4.14-1.91,7.24-5.74,9.31-3.83,2.07-9.45,3.1-16.87,3.1-9.28,0-17.74-1.61-25.4-4.83-7.65-3.22-14.38-8.05-20.18-14.49l-27.14,27.25c5.57,6.44,12.18,11.9,19.83,16.39,7.65,4.48,16.06,7.99,25.22,10.52,9.16,2.53,18.49,3.79,28.01,3.79,20.41,0,36.53-4.77,48.36-14.32,11.83-9.54,17.74-22.48,17.74-38.81,0-10.12-2.03-18.4-6.09-24.84-4.06-6.43-9.28-11.61-15.65-15.52-6.38-3.91-13.11-6.95-20.18-9.14-7.08-2.18-13.86-4.14-20.35-5.87-6.5-1.72-11.77-3.73-15.83-6.04-4.06-2.3-6.09-5.52-6.09-9.66,0-3.68,1.79-6.55,5.39-8.62h0ZM793.4,208.93h45.92V42.32h-45.92v166.61ZM1037.37,109.3c0,13.79-3.18,25.68-9.52,35.73-6.33,10.02-14.97,17.77-25.9,23.24-10.95,5.47-23.27,8.22-36.96,8.22h-43.24v32.44h-41.7V42.11h84.94c13.7,0,26.02,2.72,36.96,8.2,10.92,5.47,19.57,13.22,25.9,23.27,6.35,10.02,9.52,21.94,9.52,35.73h0ZM995.64,107.67c0-6.89-1.52-9.62-4.6-14.67-3.06-5.07-7.25-8.93-12.56-11.56-5.33-2.63-11.25-3.96-17.79-3.96h-38.95v61.98h38.95c6.54,0,12.46-1.3,17.79-3.93,5.31-2.65,9.5-6.44,12.56-11.42,3.08-4.95,4.6-9.36,4.6-16.44ZM381.44,126.39c0-49.57-40.33-89.9-89.9-89.9s-89.9,40.33-89.9,89.9,40.33,89.9,89.9,89.9,89.9-40.33,89.9-89.9ZM338.49,126.39c0,25.89-21.06,46.96-46.96,46.96s-46.96-21.06-46.96-46.96,21.06-46.96,46.96-46.96,46.96,21.06,46.96,46.96Z"/>
+      <path class="cls-1" d="M300.49,242.43c-12.43,0-24.92-1.94-37.1-5.84h0c-30.83-9.87-55.96-31.16-70.78-59.94-14.81-28.78-17.53-61.61-7.66-92.43C205.33,20.59,273.69-14.6,337.32,5.79c30.83,9.87,55.96,31.16,70.77,59.94,14.81,28.78,17.53,61.61,7.66,92.43-9.87,30.83-31.16,55.96-59.94,70.77-17.41,8.96-36.3,13.5-55.33,13.5h0ZM300.23,10.37c-17.4,0-34.66,4.15-50.58,12.34-26.31,13.54-45.77,36.52-54.79,64.69-9.03,28.18-6.54,58.18,7,84.49,13.54,26.31,36.52,45.77,64.69,54.79h0c28.18,9.03,58.18,6.54,84.49-7,26.31-13.54,45.77-36.52,54.79-64.69,9.03-28.18,6.54-58.18-7-84.49-13.54-26.31-36.52-45.77-64.69-54.79-11.13-3.57-22.55-5.34-33.92-5.34h0Z"/>
+      <path class="cls-1" d="M280.14,257.68c-6.26,0-12.55-.47-18.85-1.41-33.2-4.96-62.49-22.56-82.45-49.55-41.22-55.71-29.43-134.58,26.29-175.8,55.72-41.22,134.58-29.43,175.8,26.29,19.97,26.99,28.23,60.14,23.26,93.34s-22.56,62.49-49.55,82.45c-21.87,16.18-47.78,24.67-74.49,24.67h0ZM279.73,16.73c-23.82,0-47.84,7.34-68.42,22.56-24.75,18.31-40.89,45.17-45.45,75.63-4.55,30.45,3.02,60.86,21.34,85.61s45.17,40.89,75.63,45.45c30.46,4.55,60.86-3.02,85.61-21.34,24.75-18.31,40.89-45.17,45.45-75.62s-3.02-60.86-21.34-85.61c-22.58-30.52-57.49-46.67-92.82-46.67h0Z"/>
+    </svg>
+  </a>
+
+  <span class="logo-separator" aria-hidden="true"></span>
+
+  <a href="https://urldefense.com/v3/__https://www.mef.gov.it__;!!OrxsNty6D4my!9E5b7-X_bO2DJdSc-4Y1J_NqCXDTGMXpyOYPUECYPEMSpBMWinnjfsEFZj67c-JUtdT9wxEIMvQpR_Rb9lTm21H8U3tEGjw$" target="_blank" rel="noopener noreferrer" aria-label="Vai al sito MEF" class="logo-link logo-mef">
+	  
+    <!-- MEF: SVG pulito (una sola chiusura) -->
+    <svg width="38" height="33" viewBox="0 0 38 33" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo MEF">
+      <g clip-path="url(#clip0_4565_67945)">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0189 22.795H20.2523C21.4575 22.795 22.6994 22.5046 23.6141 21.6867L23.2636 23.4727C22.7394 23.5128 22.0985 23.5695 21.3974 23.5695H15.7822C16.2095 22.9085 16.2696 21.9003 16.2696 21.0257V13.7213C16.2696 12.8466 16.2696 11.8351 15.8423 11.1741H22.6226L22.6994 12.6697C22.0183 12.0855 20.9701 11.9519 19.825 11.9519H18.0189V16.5956C19.5145 16.5956 21.0903 16.5956 22.5859 16.4587C21.9048 17.5671 19.7082 17.5671 18.5064 17.5671H18.0189V22.795Z" fill="white"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M27.3046 21.0277C27.3046 21.9024 27.3046 22.9139 27.7319 23.5716H25.1279C25.5552 22.9106 25.5552 21.9024 25.5552 21.0277V13.7233C25.5552 12.8487 25.5953 11.8371 25.168 11.1761H31.1938C31.6779 11.1761 32.0885 11.1761 32.0885 11.3497V12.8654H31.9917C31.4475 11.9707 30.2223 11.9507 29.3109 11.9507H27.3079V16.9449C28.8035 16.9449 30.3792 16.9449 31.8748 16.808C31.1971 17.9164 29.0005 17.9164 27.7953 17.9164H27.3112V21.0244L27.3046 21.0277Z" fill="white"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.87238 10.0586C6.81229 10.2021 6.87238 10.369 7.00926 10.4358C7.14613 10.5026 7.30637 10.4458 7.37648 10.3056C7.41654 10.2288 11.3759 2.48376 21.0305 2.48376C30.6851 2.48376 35.1953 10.7563 35.5225 16.3181C35.6994 19.3126 34.6812 23.0282 32.7783 26.0094C31.1492 28.5599 28.198 31.7381 23.3707 32.4091C23.2171 32.4291 23.1103 32.5827 23.1304 32.7396C23.1504 32.8965 23.2873 33.0167 23.4408 32.9967C31.4596 32.0152 37.5622 24.9478 37.5622 16.5584C37.5589 7.44461 30.3713 0.0267071 21.598 0H21.4879C15.1115 0.0267071 9.37952 3.96935 6.87238 10.0586Z" fill="#C6C7C8"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.30679 23.7774C8.45337 28.7149 13.1071 32.3271 18.749 32.9947C18.8992 33.0114 19.0327 32.9013 19.0494 32.751C19.0695 32.6041 18.9626 32.4606 18.8157 32.4406C14.1086 31.8096 10.9572 28.9853 9.36809 26.5917C8.37993 25.0994 7.62211 23.4135 7.15474 21.7377L10.6467 13.4885C10.7034 13.3316 10.7635 13.1981 10.9004 13.1981C11.0373 13.1981 11.0373 13.4318 11.0373 13.6254V20.0785C11.0373 21.1668 11.0373 22.6057 10.6868 23.5771H13.5444C13.1171 22.7993 13.0403 21.9079 12.9435 21.0333C12.6898 18.7031 12.7866 16.2727 12.7866 13.9392C12.7866 12.9677 12.7265 11.9195 13.1739 11.1783H11.1909C10.7035 11.1783 10.5699 11.5856 10.393 11.9929L7.03122 20.0952C6.91438 20.3656 6.85762 20.5626 6.68069 20.5626C6.52378 20.5626 6.46703 20.2321 6.37022 19.9416L3.60937 11.4688C3.53259 11.2151 3.23881 11.1783 3.00512 11.1783H0.487973C0.955348 11.4688 0.975378 11.7425 0.975378 12.2667V17.124C0.975378 19.2239 0.898595 22.2952 0.177503 23.3234L0.00390625 23.5771H2.31741C1.8901 22.9362 1.8901 21.6742 1.8901 20.1586L1.91013 13.8424C1.91013 13.5519 1.91013 13.2014 2.08372 13.2014C2.25732 13.2014 2.39419 13.6688 2.60785 14.2296L6.30679 23.7841V23.7774Z" fill="white"></path>
+      </g>
+      <defs>
+        <clipPath id="clip0_4565_67945">
+          <rect width="37.5602" height="33" fill="white"></rect>
+        </clipPath>
+      </defs>
+    </svg>
+  </a>
+</div>
+
+    </div>
+  </footer>
+</body>
+</html>

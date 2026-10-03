@@ -35,3 +35,8 @@ Le competenze digitali concorsuali uniscono abilita pratiche e conoscenza dei se
 ## Note editoriali
 
 Trasformare il tema in checklist di competenze minime e domande pratiche, non in teoria astratta.
+
+
+## Correzioni consolidate del 3 ottobre 2026
+
+[[sources/vol-01-digitale-esempi-correzioni-2026-10-03]] corregge la tassonomia documentale, domicilio e open data; aggiunge esempi originali Office/SQL nel capitolo 10 e coordina i glossari.

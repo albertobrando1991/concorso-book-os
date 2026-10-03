@@ -42,3 +42,7 @@ Il blocco compliance serve per il capitolo su accertamento e controlli e per i p
 
 ## Stato revisione
 Usabile per impostazione capitolo. Richiede review su norme vigenti e su eventuali soglie/requisiti aggiornati.
+
+## Rettifica didattica del 3 ottobre 2026
+
+Per il regime pieno, art. 7 D.Lgs. 128/2015: soglia dimensionale almeno 500 milioni di euro dal 2026; almeno 100 milioni dal 2028 secondo calendario vigente. Parametro più elevato tra ricavi e volume d'affari nel triennio precedente la domanda. Gruppi con almeno un soggetto sopra soglia e TCF integrato certificato, non automatica ammissione di qualsiasi piccola impresa. Art. 4: sistema di controllo del rischio fiscale e certificazione nei casi prescritti da professionisti indipendenti abilitati. Fonti: [testo coordinato Gazzetta 5 agosto 2024](https://www.gazzettaufficiale.it/eli/gu/2024/08/05/182/sg/pdf), circolare AE 6/E del 6 agosto 2026 ([sistema MEF](https://def.giustiziatributaria.gov.it/DocTribFrontend/getPrassiDetail.do?id=%7B109739A0-0000-CA1D-80E0-9C1A2B0F3FD8%7D)). Distinguere il regime opzionale TCF dai requisiti del regime pieno.

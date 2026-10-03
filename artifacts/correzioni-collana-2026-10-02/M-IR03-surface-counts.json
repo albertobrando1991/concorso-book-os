@@ -1,0 +1,326 @@
+[
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+    "words": 4726,
+    "nuclei": [
+      {
+        "id": "N-IR03-01-01",
+        "words": 708
+      },
+      {
+        "id": "N-IR03-01-02",
+        "words": 773
+      },
+      {
+        "id": "N-IR03-01-03",
+        "words": 769
+      },
+      {
+        "id": "N-IR03-01-04",
+        "words": 691
+      },
+      {
+        "id": "N-IR03-01-05",
+        "words": 853
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+    "words": 5891,
+    "nuclei": [
+      {
+        "id": "N-IR03-02-01",
+        "words": 805
+      },
+      {
+        "id": "N-IR03-02-02",
+        "words": 1109
+      },
+      {
+        "id": "N-IR03-02-03",
+        "words": 902
+      },
+      {
+        "id": "N-IR03-02-04",
+        "words": 1146
+      },
+      {
+        "id": "N-IR03-02-05",
+        "words": 1169
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+    "words": 5269,
+    "nuclei": [
+      {
+        "id": "N-IR03-03-01",
+        "words": 781
+      },
+      {
+        "id": "N-IR03-03-02",
+        "words": 794
+      },
+      {
+        "id": "N-IR03-03-03",
+        "words": 982
+      },
+      {
+        "id": "N-IR03-03-04",
+        "words": 993
+      },
+      {
+        "id": "N-IR03-03-05",
+        "words": 1009
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+    "words": 6409,
+    "nuclei": [
+      {
+        "id": "N-IR03-04-01",
+        "words": 967
+      },
+      {
+        "id": "N-IR03-04-02",
+        "words": 1230
+      },
+      {
+        "id": "N-IR03-04-03",
+        "words": 927
+      },
+      {
+        "id": "N-IR03-04-04",
+        "words": 891
+      },
+      {
+        "id": "N-IR03-04-05",
+        "words": 1631
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+    "words": 4409,
+    "nuclei": [
+      {
+        "id": "N-IR03-05-01",
+        "words": 650
+      },
+      {
+        "id": "N-IR03-05-02",
+        "words": 721
+      },
+      {
+        "id": "N-IR03-05-03",
+        "words": 852
+      },
+      {
+        "id": "N-IR03-05-04",
+        "words": 833
+      },
+      {
+        "id": "N-IR03-05-05",
+        "words": 642
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+    "words": 4493,
+    "nuclei": [
+      {
+        "id": "N-IR03-06-01",
+        "words": 657
+      },
+      {
+        "id": "N-IR03-06-02",
+        "words": 769
+      },
+      {
+        "id": "N-IR03-06-03",
+        "words": 619
+      },
+      {
+        "id": "N-IR03-06-04",
+        "words": 650
+      },
+      {
+        "id": "N-IR03-06-05",
+        "words": 1060
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+    "words": 4221,
+    "nuclei": [
+      {
+        "id": "N-IR03-07-01",
+        "words": 646
+      },
+      {
+        "id": "N-IR03-07-02",
+        "words": 865
+      },
+      {
+        "id": "N-IR03-07-03",
+        "words": 624
+      },
+      {
+        "id": "N-IR03-07-04",
+        "words": 626
+      },
+      {
+        "id": "N-IR03-07-05",
+        "words": 632
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+    "words": 4171,
+    "nuclei": [
+      {
+        "id": "N-IR03-08-01",
+        "words": 615
+      },
+      {
+        "id": "N-IR03-08-02",
+        "words": 616
+      },
+      {
+        "id": "N-IR03-08-03",
+        "words": 903
+      },
+      {
+        "id": "N-IR03-08-04",
+        "words": 619
+      },
+      {
+        "id": "N-IR03-08-05",
+        "words": 615
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+    "words": 4638,
+    "nuclei": [
+      {
+        "id": "N-IR03-09-01",
+        "words": 636
+      },
+      {
+        "id": "N-IR03-09-02",
+        "words": 627
+      },
+      {
+        "id": "N-IR03-09-03",
+        "words": 1022
+      },
+      {
+        "id": "N-IR03-09-04",
+        "words": 794
+      },
+      {
+        "id": "N-IR03-09-05",
+        "words": 675
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+    "words": 4340,
+    "nuclei": [
+      {
+        "id": "N-IR03-10-01",
+        "words": 612
+      },
+      {
+        "id": "N-IR03-10-02",
+        "words": 614
+      },
+      {
+        "id": "N-IR03-10-03",
+        "words": 757
+      },
+      {
+        "id": "N-IR03-10-04",
+        "words": 966
+      },
+      {
+        "id": "N-IR03-10-05",
+        "words": 613
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+    "words": 4471,
+    "nuclei": [
+      {
+        "id": "N-IR03-11-01",
+        "words": 763
+      },
+      {
+        "id": "N-IR03-11-02",
+        "words": 648
+      },
+      {
+        "id": "N-IR03-11-03",
+        "words": 906
+      },
+      {
+        "id": "N-IR03-11-04",
+        "words": 617
+      },
+      {
+        "id": "N-IR03-11-05",
+        "words": 772
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+    "words": 4683,
+    "nuclei": [
+      {
+        "id": "N-IR03-12-01",
+        "words": 621
+      },
+      {
+        "id": "N-IR03-12-02",
+        "words": 784
+      },
+      {
+        "id": "N-IR03-12-03",
+        "words": 767
+      },
+      {
+        "id": "N-IR03-12-04",
+        "words": 792
+      },
+      {
+        "id": "N-IR03-12-05",
+        "words": 880
+      }
+    ],
+    "quiz": 6
+  }
+]

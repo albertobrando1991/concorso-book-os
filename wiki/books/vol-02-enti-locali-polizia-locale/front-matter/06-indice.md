@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Comune", "Regione", "Polizia locale", "Camera di com
 source_refs: ["sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "sources/vol-02-fonti-ufficiali-scaricate-2026-07-09.md", "sources/bandi-inpa-vol-02-campione-2026.md", "sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md", "sources/ccnl-area-funzioni-locali-2022-2024-aran.md", "sources/legge-177-2024-sicurezza-stradale-codice-strada.md", "sources/bandi-camerali-m-fl03-2026.md"]
 book_refs: ["vol-02-enti-locali-polizia-locale"]
 confidence: 0.9
-updated_at: 2026-08-09T11:45:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-09T18:30:00+02:00
 review_required: false
 canonical: true
@@ -24,8 +24,7 @@ last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/planning/00-p
 
 # Indice
 
-> [!NOTE]
-> Questo file e il piano redazionale dettagliato del volume, con la descrizione di ogni capitolo. L'indice realmente stampato (FM6) e generato automaticamente da `buildVolumeIndexBlocks` in `src/server/book/book-preview.ts` a partire dai capitoli presenti nel vault, con numerazione continua 1-50 (capitoli di apertura, poi M-FL01, M-FL02, M-FL03, M-FL04, poi la simulazione finale). L'ordine dei moduli qui sotto e stato allineato a quello reale del volume pubblicato; la numerazione dei capitoli in questa pagina resta quella del piano originale e puo non coincidere cifra per cifra con quella stampata.
+Il percorso comprende 51 capitoli: orientamento 1–3; Comuni 4–17; Regioni e area vasta 18–29; Camere di commercio 30–34; Polizia locale 35–49; simulazione 50 e conclusione 51.
 
 ## Prime pagine del volume
 
@@ -99,7 +98,6 @@ Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/mo
 11. **[[books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi|Welfare locale, servizi sociali, ISEE, minori e servizi educativi]]**
     - Accesso ai servizi, istruttoria, benefici, controlli e presa in carico.
     - Sistema integrato 0-6 e servizi educativi comunali.
-    - Nota di review: campione bandi da rafforzare per servizi sociali/educativi.
 
 12. **[[books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance|Programmazione integrata comunale: DUP, bilancio, PEG, PIAO e performance]]**
     - Programmazione strategica, operativa e gestionale.
@@ -163,7 +161,6 @@ Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/mo
 23. **Tecnica legislativa, AIR/VIR e drafting**
     - Struttura dell'atto normativo regionale.
     - Analisi tecnico-normativa, AIR, VIR, clausole valutative e qualità della regolazione.
-    - Nota di review: acquisire un bando dedicato a funzionario legislativo.
 
 24. **Politiche di coesione e fondi UE**
     - Programmazione 2021-2027, fondi, beneficiari, controlli e rendicontazione.
@@ -199,133 +196,114 @@ Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/mo
 
 Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare|M-FL03 - Camere di commercio]]
 
-45. **[[books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere|Camere di commercio, sistema camerale e Unioncamere]]**
+30. **[[books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere|Camere di commercio, sistema camerale e Unioncamere]]**
     - Ordinamento camerale, autonomia funzionale, organi e sistema Unioncamere.
     - Rapporto con imprese, territorio, enti locali e Stato.
-    - Stato: modulo incluso, da validare con ulteriore audit bandi.
 
-46. **[[books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale|Registro imprese, REA e pubblicità legale]]**
+31. **[[books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale|Registro imprese, REA e pubblicità legale]]**
     - Registro imprese, REA, pubblicità legale, fascicolo d'impresa e certificazioni.
     - Procedimenti, sportello, controlli documentali e rapporto con SUAP.
     - Caso: iscrizione, variazione o certificazione camerale.
 
-47. **[[books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela|Servizi alle imprese, regolazione del mercato e tutela]]**
+32. **[[books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela|Servizi alle imprese, regolazione del mercato e tutela]]**
     - Promozione economica, internazionalizzazione, digitalizzazione, mediazione, metrologia e tutela del mercato.
     - Servizi anagrafici, tutela consumatore e controllo amministrativo.
     - Rinvio a diritto commerciale essenziale senza duplicare manuali civilistici.
 
-48. **[[books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale|Organizzazione, personale, procedimenti e trasparenza camerale]]**
+33. **[[books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale|Organizzazione, personale, procedimenti e trasparenza camerale]]**
     - Uffici camerali, profili amministrativi, comunicazione istituzionale e supporto organizzativo.
     - Procedimento, accesso, privacy, trasparenza e servizi digitali.
     - Collegamento al CCNL Funzioni Locali ove applicabile.
 
-49. **[[books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale|Laboratorio bando camerale]]**
-    - Decodifica di bandi camerali 2026.
+34. **[[books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale|Laboratorio bando camerale]]**
+    - Decodifica di un bando camerale didattico composito.
     - Prova scritta, orale, caso di sportello e risposta su Registro imprese/servizi alle imprese.
-    - Nota di review: acquisire almeno altri due bandi prima della pubblicazione.
 
 ## Modulo M-FL04 - Polizia locale
 
 Frontespizio e sommario del modulo: [[books/vol-02-enti-locali-polizia-locale/modules/03-m-fl04-frontespizio-sommario|M-FL04 - Polizia locale]]
 
-30. **[[books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale|Diventare agente o ufficiale di Polizia locale]]**
+35. **[[books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale|Diventare agente o ufficiale di Polizia locale]]**
     - Profilo, prove, requisiti, funzioni e differenza rispetto ai corpi statali.
     - Agente, ufficiale, specialista settoriale e comandante.
     - Bando Decoder PL e piano di studio.
 
-31. **[[books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale|Ordinamento nazionale e regionale della Polizia locale]]**
+36. **[[books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale|Ordinamento nazionale e regionale della Polizia locale]]**
     - L. 65/1986, leggi regionali e regolamenti locali.
     - Corpo o servizio, organizzazione, coordinamento e limiti.
     - Nota: atlante regionale da aggiornare sui bandi effettivi.
 
-32. **[[books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio|Qualifiche, poteri, dipendenze e organizzazione del servizio]]**
+37. **[[books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio|Qualifiche, poteri, dipendenze e organizzazione del servizio]]**
     - Polizia amministrativa, stradale, giudiziaria e funzioni ausiliarie.
     - Rapporti con sindaco, prefetto, autorità giudiziaria e procura.
     - Caso: individuare autorità, organo accertatore e atto corretto.
 
-33. **[[books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale|Servizi di polizia stradale]]**
+38. **[[books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale|Servizi di polizia stradale]]**
     - D.Lgs. 285/1992, D.P.R. 495/1992 e aggiornamenti L. 177/2024.
     - Circolazione, sicurezza, controlli, segnaletica essenziale e ordinanze viabilistiche.
     - Scenario: controllo su strada e sequenza operativa.
 
-34. **[[books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada|Accertamento, contestazione, notificazione e ricorsi nel Codice della strada]]**
+39. **[[books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada|Accertamento, contestazione, notificazione e ricorsi nel Codice della strada]]**
     - Verbale, contestazione immediata/differita, notificazione, pagamento e ricorsi.
     - Autorità competente, prefetto, giudice di pace e termini da verificare.
     - Cronologia operativa del procedimento.
 
-35. **[[books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato|Procedimento sanzionatorio amministrativo applicato]]**
+40. **[[books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato|Procedimento sanzionatorio amministrativo applicato]]**
     - L. 689/1981, illecito, sanzione, pagamento in misura ridotta e ordinanza-ingiunzione.
     - Opposizione e rapporto con discipline speciali.
     - Laboratorio: dal fatto accertato all'atto.
 
-36. **[[books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali|Polizia giudiziaria e atti essenziali]]**
+41. **[[books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali|Polizia giudiziaria e atti essenziali]]**
     - Notizia di reato, qualifiche, atti di iniziativa e rapporto con la procura.
     - Differenza tra illecito amministrativo e reato.
     - Caso guidato: sopralluogo con profili penali.
 
-37. **[[books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione|TULPS, pubblica sicurezza e immigrazione]]**
+42. **[[books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione|TULPS, pubblica sicurezza e immigrazione]]**
     - Licenze, autorizzazioni, controlli e pubblica sicurezza in forma essenziale.
     - Rapporti con Questore, Prefetto e autorità locali.
     - Casi tipici: esercizio pubblico, manifestazione, controllo documentale.
 
-38. **[[books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento|Sicurezza urbana, ordinanze e coordinamento]]**
+43. **[[books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento|Sicurezza urbana, ordinanze e coordinamento]]**
     - Sicurezza urbana, ordinanze, regolamenti, patti e coordinamento interistituzionale.
     - Limiti di legalità, proporzionalità e competenza.
     - Domanda-trappola: ordine pubblico e polizia locale non coincidono.
 
-39. **[[books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap|Commercio, pubblici esercizi e SUAP]]**
+44. **[[books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap|Commercio, pubblici esercizi e SUAP]]**
     - SCIA, autorizzazioni, controlli commerciali e annonari.
     - Rapporti tra SUAP, regolamenti locali, TULPS e sanzioni.
     - Sopralluogo: check-list minima.
 
-40. **[[books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi|Vigilanza edilizia e procedimenti repressivi]]**
+45. **[[books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi|Vigilanza edilizia e procedimenti repressivi]]**
     - DPR 380/2001 in chiave PL: vigilanza, abuso, segnalazione e ordinanza.
     - Ruolo tecnico e ruolo di controllo.
     - Rinvio: VOL-10 per edilizia e urbanistica avanzate.
 
-41. **[[books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale|Ambiente, rifiuti, rumore e tutela locale]]**
+46. **[[books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale|Ambiente, rifiuti, rumore e tutela locale]]**
     - D.Lgs. 152/2006, regolamenti locali, controlli e verbali.
     - Rifiuti, abbandono, rumore, igiene urbana e coordinamento con uffici tecnici.
     - Rinvio: VOL-11 per ambiente avanzato e protezione civile.
 
-42. **[[books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova|Sinistri, rilievi e gestione della prova]]**
+47. **[[books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova|Sinistri, rilievi e gestione della prova]]**
     - Infortunistica stradale, rilievi, documentazione, dichiarazioni e catena probatoria.
     - Dati personali, accesso agli atti e comunicazioni.
     - Schema: dal sinistro al fascicolo.
 
-43. **[[books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze|Ufficiale PL: comando, contenzioso ed emergenze]]**
+48. **[[books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze|Ufficiale PL: comando, contenzioso ed emergenze]]**
     - Organizzazione del servizio, turni, ordini di servizio, contenzioso e responsabilità.
     - Gestione emergenze, coordinamento e comunicazione istituzionale.
-    - Nota di review: rafforzare campione ufficiali/comandanti.
 
-44. **[[books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale|Laboratorio atti e verbali della Polizia locale]]**
+49. **[[books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale|Laboratorio atti e verbali della Polizia locale]]**
     - Verbale CdS, verbale amministrativo, annotazione, relazione di servizio e ordinanza.
     - Errori che invalidano o indeboliscono l'atto.
     - Simulazioni: strada, commercio, edilizia, ambiente, sicurezza urbana.
 
-## Parte finale - Simulazione, appendici e strumenti
+## Parte finale — Simulazione e conclusione
 
 50. **[[books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02|Simulazione finale VOL-02]]**
     - Bando locale integrato.
     - Quiz, risposta sintetica, caso pratico, verbale/atto e orale.
     - Diario degli errori e piano di recupero.
 
-## Appendici operative — non incluse nel volume pubblicato
-
-Le otto appendici elencate in questa sezione del piano editoriale non sono state scritte
-e il motore di composizione del volume (`buildVolumeBookStudioData` in
-`src/server/book/book-preview.ts`) non ha oggi alcun meccanismo per includerle nel PDF
-stampato: genera solo FM1-FM6, i frontespizi di modulo e i capitoli dei quattro moduli.
-La tabella resta come nota di lavoro futuro, non come contenuto da considerare presente
-nel volume.
-
-| Appendice | Titolo | Funzione |
-|---|---|---|
-| A | Schemi di atti locali | Delibera, determina, ordinanza, verbale, nota istruttoria. |
-| B | Contabilità locale in schemi | DUP, PEG, bilancio, rendiconto, residui, controlli. |
-| C | Servizi demografici, ANPR, stato civile ed elettorale | Procedure ricorrenti, documenti, errori e casi. |
-| D | Polizia locale: verbali e cronologie sanzionatorie | CdS, L. 689/1981, TULPS, commercio, edilizia, ambiente. |
-| E | Atlante essenziale leggi regionali PL | Da compilare sui bandi effettivi e sulle Regioni più ricorrenti. |
-| F | Camere di commercio e Registro imprese | Schema ordinamento, Registro imprese, servizi e bandi. |
-| G | Tabella profili, materie, prove e output | Mappa per amministrativi, contabili, tecnici, servizi, PL, territoriali e camerali. |
-| H | Rinvii specialistici | VOL-09 Appalti/PNRR, VOL-10 Tecnico, VOL-11 Ambiente/protezione civile, VOL-12 corpi statali. |
+51. **[[books/vol-02-enti-locali-polizia-locale/chapters/51-conclusione-vol-02|Conclusione — Dal volume al bando]]**
+    - Risultati del percorso, scelta del modulo e riuso della preparazione.
+    - Dal Diario degli errori al successivo bando.

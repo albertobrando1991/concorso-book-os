@@ -1,0 +1,66 @@
+{
+  "pdfSha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+  "pages": 700,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "fonts": [
+    {
+      "xref": 6,
+      "name": "AAAAAA+Arial-BoldMT",
+      "extension": "ttf",
+      "type": "Type0",
+      "embeddedBytes": 43232,
+      "embeddedType3CharProcs": false
+    },
+    {
+      "xref": 7,
+      "name": "BAAAAA+Garamond",
+      "extension": "ttf",
+      "type": "Type0",
+      "embeddedBytes": 57860,
+      "embeddedType3CharProcs": false
+    },
+    {
+      "xref": 8,
+      "name": "CAAAAA+Arial-Black",
+      "extension": "ttf",
+      "type": "Type0",
+      "embeddedBytes": 21080,
+      "embeddedType3CharProcs": false
+    },
+    {
+      "xref": 9,
+      "name": "DAAAAA+ArialMT",
+      "extension": "ttf",
+      "type": "Type0",
+      "embeddedBytes": 61984,
+      "embeddedType3CharProcs": false
+    },
+    {
+      "xref": 21,
+      "name": "EAAAAA+ArialMT",
+      "extension": "ttf",
+      "type": "Type0",
+      "embeddedBytes": 48496,
+      "embeddedType3CharProcs": false
+    },
+    {
+      "xref": 368,
+      "name": "",
+      "extension": "n/a",
+      "type": "Type3",
+      "embeddedBytes": 0,
+      "embeddedType3CharProcs": true
+    }
+  ],
+  "indexEntriesChecked": 177,
+  "indexMismatches": 0,
+  "geometricOverflow": 0,
+  "bodyNominalPt": 11,
+  "indexMinimumPt": 9.5,
+  "croquisNominalPt": null,
+  "kdpLimit": 828,
+  "kdpScope": "6.69x9.61in black ink white paper; local checks only"
+}

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">AI: assistente, non fonte</title>
+  <desc id="desc">L'AI trasforma materiale verificato; non decide requisiti, prove o scadenze.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">AI: assistente, non fonte</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">L'AI trasforma materiale verificato; non decide requisiti, prove o scadenze.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="130 255 420 375 8">
+    <rect x="130" y="255" width="420" height="375" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="130" y="255" width="420" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" style="fill:#2F7D5A" x="340" y="325" text-anchor="middle">Uso controllabile</text>
+    <text class="small" x="340" y="380" text-anchor="middle">domande di ripasso</text>
+<text class="small" x="340" y="422" text-anchor="middle">schema da verificare</text>
+<text class="small" x="340" y="464" text-anchor="middle">simulazione orale</text>
+<text class="small" x="340" y="506" text-anchor="middle">categorie del diario</text>
+  </g>
+    <g data-safe-box="1050 255 420 375 8">
+    <rect x="1050" y="255" width="420" height="375" rx="28" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="1050" y="255" width="420" height="14" rx="7" fill="#7A2430"/>
+    <text class="label" style="fill:#7A2430" x="1260" y="325" text-anchor="middle">Da non delegare</text>
+    <text class="small" x="1260" y="380" text-anchor="middle">requisiti</text>
+<text class="small" x="1260" y="422" text-anchor="middle">scadenze</text>
+<text class="small" x="1260" y="464" text-anchor="middle">prove</text>
+<text class="small" x="1260" y="506" text-anchor="middle">documenti allegati</text>
+  </g>
+    <g data-safe-box="555 300 490 150 8">
+    <rect x="555" y="300" width="490" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="555" y="300" width="490" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="352" text-anchor="middle">Verifica obbligatoria</text>
+    <text class="small" x="800" y="382" text-anchor="middle">bando, avvisi, portale</text>
+<text class="small" x="800" y="410" text-anchor="middle">source notes consolidate</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M495 455 L555 455"/>
+    <path class="line" marker-end="url(#arrow)" d="M1045 455 L1050 455"/>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">L'AI puo organizzare la domanda; non puo firmare la risposta al posto tuo.</text>
+  </g>
+
+</svg>

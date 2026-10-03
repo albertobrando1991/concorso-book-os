@@ -1,0 +1,636 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-11-final-20261003-proof.pdf",
+  "entries": [
+    {
+      "number": "1.1",
+      "title": "Perché M-TR04 è una famiglia trasversale",
+      "indexPage": 6,
+      "targetPage": 11,
+      "match": true
+    },
+    {
+      "number": "1.2",
+      "title": "I quattro profili in una pagina",
+      "indexPage": 6,
+      "targetPage": 12,
+      "match": true
+    },
+    {
+      "number": "1.3",
+      "title": "Dal dato alla decisione pubblica",
+      "indexPage": 6,
+      "targetPage": 14,
+      "match": true
+    },
+    {
+      "number": "1.4",
+      "title": "Enti, fonti e responsabilità",
+      "indexPage": 6,
+      "targetPage": 16,
+      "match": true
+    },
+    {
+      "number": "1.5",
+      "title": "Il Bando Decoder M-TR04",
+      "indexPage": 6,
+      "targetPage": 18,
+      "match": true
+    },
+    {
+      "number": "2.1",
+      "title": "La struttura funzionale del D.Lgs. 152/2006",
+      "indexPage": 6,
+      "targetPage": 23,
+      "match": true
+    },
+    {
+      "number": "2.2",
+      "title": "MASE, ISPRA, SNPA e ARPA",
+      "indexPage": 6,
+      "targetPage": 25,
+      "match": true
+    },
+    {
+      "number": "2.3",
+      "title": "Stato, Regioni ed enti locali",
+      "indexPage": 6,
+      "targetPage": 27,
+      "match": true
+    },
+    {
+      "number": "2.4",
+      "title": "Dati ambientali, LEPTA e controlli",
+      "indexPage": 6,
+      "targetPage": 29,
+      "match": true
+    },
+    {
+      "number": "2.5",
+      "title": "Caso guidato: chi fa cosa?",
+      "indexPage": 6,
+      "targetPage": 31,
+      "match": true
+    },
+    {
+      "number": "2.6",
+      "title": "Applicazione: la mappa “chi fa cosa?”",
+      "indexPage": 6,
+      "targetPage": 33,
+      "match": true
+    },
+    {
+      "number": "3.1",
+      "title": "Funzione delle valutazioni ambientali",
+      "indexPage": 6,
+      "targetPage": 37,
+      "match": true
+    },
+    {
+      "number": "3.2",
+      "title": "Valutazione Ambientale Strategica",
+      "indexPage": 6,
+      "targetPage": 38,
+      "match": true
+    },
+    {
+      "number": "3.3",
+      "title": "Valutazione di Impatto Ambientale",
+      "indexPage": 6,
+      "targetPage": 40,
+      "match": true
+    },
+    {
+      "number": "3.4",
+      "title": "Screening e verifica preliminare",
+      "indexPage": 6,
+      "targetPage": 41,
+      "match": true
+    },
+    {
+      "number": "3.5",
+      "title": "Procedimento, soggetti e partecipazione",
+      "indexPage": 6,
+      "targetPage": 43,
+      "match": true
+    },
+    {
+      "number": "3.6",
+      "title": "Uso concorsuale: distinguere, applicare, rispondere",
+      "indexPage": 6,
+      "targetPage": 46,
+      "match": true
+    },
+    {
+      "number": "4.1",
+      "title": "La funzione delle autorizzazioni ambientali",
+      "indexPage": 6,
+      "targetPage": 53,
+      "match": true
+    },
+    {
+      "number": "4.2",
+      "title": "AIA, approccio integrato, BAT e BAT-AEL",
+      "indexPage": 6,
+      "targetPage": 54,
+      "match": true
+    },
+    {
+      "number": "4.3",
+      "title": "AUA: semplificazione, SUAP e autorità competente",
+      "indexPage": 6,
+      "targetPage": 57,
+      "match": true
+    },
+    {
+      "number": "4.4",
+      "title": "Emissioni in atmosfera: stabilimento, punti e monitoraggio",
+      "indexPage": 6,
+      "targetPage": 59,
+      "match": true
+    },
+    {
+      "number": "4.5",
+      "title": "Istruttoria, prescrizioni, modifiche e controlli",
+      "indexPage": 6,
+      "targetPage": 61,
+      "match": true
+    },
+    {
+      "number": "4.6",
+      "title": "Caso ragionato: scegliere l'iter e costruire la checklist",
+      "indexPage": 6,
+      "targetPage": 62,
+      "match": true
+    },
+    {
+      "number": "5.1",
+      "title": "Tutela delle acque e qualificazione del refluo",
+      "indexPage": 6,
+      "targetPage": 67,
+      "match": true
+    },
+    {
+      "number": "5.2",
+      "title": "Scarico, rete fognaria e rifiuto liquido",
+      "indexPage": 6,
+      "targetPage": 69,
+      "match": true
+    },
+    {
+      "number": "5.3",
+      "title": "Autorizzazione agli scarichi e istruttoria",
+      "indexPage": 6,
+      "targetPage": 71,
+      "match": true
+    },
+    {
+      "number": "5.4",
+      "title": "Limiti, campionamento e controllo",
+      "indexPage": 6,
+      "targetPage": 73,
+      "match": true
+    },
+    {
+      "number": "5.5",
+      "title": "Servizio idrico integrato e riparto dei ruoli",
+      "indexPage": 6,
+      "targetPage": 76,
+      "match": true
+    },
+    {
+      "number": "5.6",
+      "title": "Caso ragionato: nuovo scarico industriale in fognatura",
+      "indexPage": 6,
+      "targetPage": 78,
+      "match": true
+    },
+    {
+      "number": "6.1",
+      "title": "Rifiuto, sottoprodotto e cessazione della qualifica di rifiuto",
+      "indexPage": 7,
+      "targetPage": 83,
+      "match": true
+    },
+    {
+      "number": "6.2",
+      "title": "Gerarchia dei rifiuti ed economia circolare",
+      "indexPage": 7,
+      "targetPage": 84,
+      "match": true
+    },
+    {
+      "number": "6.3",
+      "title": "Classificazione: origine, codice EER e caratteristiche di pericolo",
+      "indexPage": 7,
+      "targetPage": 86,
+      "match": true
+    },
+    {
+      "number": "6.4",
+      "title": "Responsabilità, deposito temporaneo e filiera autorizzata",
+      "indexPage": 7,
+      "targetPage": 88,
+      "match": true
+    },
+    {
+      "number": "6.5",
+      "title": "RENTRI, registro cronologico, FIR e MUD",
+      "indexPage": 7,
+      "targetPage": 90,
+      "match": true
+    },
+    {
+      "number": "6.6",
+      "title": "Caso guidato: rifiuti prodotti durante una manutenzione",
+      "indexPage": 7,
+      "targetPage": 92,
+      "match": true
+    },
+    {
+      "number": "7.1",
+      "title": "Perimetro, matrici, CSC e CSR",
+      "indexPage": 7,
+      "targetPage": 99,
+      "match": true
+    },
+    {
+      "number": "7.2",
+      "title": "Evento, prevenzione e avvio della procedura",
+      "indexPage": 7,
+      "targetPage": 101,
+      "match": true
+    },
+    {
+      "number": "7.3",
+      "title": "Caratterizzazione e analisi di rischio sito-specifica",
+      "indexPage": 7,
+      "targetPage": 103,
+      "match": true
+    },
+    {
+      "number": "7.4",
+      "title": "Responsabile, proprietario non responsabile e intervento pubblico",
+      "indexPage": 7,
+      "targetPage": 105,
+      "match": true
+    },
+    {
+      "number": "7.5",
+      "title": "Bonifica, messe in sicurezza e certificazione",
+      "indexPage": 7,
+      "targetPage": 107,
+      "match": true
+    },
+    {
+      "number": "7.6",
+      "title": "Siti orfani, siti di interesse nazionale e danno ambientale",
+      "indexPage": 7,
+      "targetPage": 109,
+      "match": true
+    },
+    {
+      "number": "7.7",
+      "title": "Caso guidato: piano istruttorio per un'ex area produttiva",
+      "indexPage": 7,
+      "targetPage": 111,
+      "match": true
+    },
+    {
+      "number": "8.1",
+      "title": "Perimetro: aria ambiente, emissioni, rumore e dato",
+      "indexPage": 7,
+      "targetPage": 118,
+      "match": true
+    },
+    {
+      "number": "8.2",
+      "title": "Qualità dell'aria: quadro, zonizzazione e valutazione",
+      "indexPage": 7,
+      "targetPage": 120,
+      "match": true
+    },
+    {
+      "number": "8.3",
+      "title": "Reti e qualità del dato atmosferico",
+      "indexPage": 7,
+      "targetPage": 122,
+      "match": true
+    },
+    {
+      "number": "8.4",
+      "title": "Rumore: legge quadro, classificazione e valori",
+      "indexPage": 7,
+      "targetPage": 124,
+      "match": true
+    },
+    {
+      "number": "8.5",
+      "title": "Misura acustica, mappe e piani d'azione",
+      "indexPage": 7,
+      "targetPage": 126,
+      "match": true
+    },
+    {
+      "number": "8.6",
+      "title": "Caso guidato: piano integrato di monitoraggio",
+      "indexPage": 7,
+      "targetPage": 128,
+      "match": true
+    },
+    {
+      "number": "9.1",
+      "title": "Sistema dei controlli e soggetti",
+      "indexPage": 7,
+      "targetPage": 135,
+      "match": true
+    },
+    {
+      "number": "9.2",
+      "title": "Ispezione, prova e verbale",
+      "indexPage": 7,
+      "targetPage": 137,
+      "match": true
+    },
+    {
+      "number": "9.3",
+      "title": "Misure amministrative e sanzioni",
+      "indexPage": 7,
+      "targetPage": 138,
+      "match": true
+    },
+    {
+      "number": "9.4",
+      "title": "Contravvenzioni ambientali speciali",
+      "indexPage": 7,
+      "targetPage": 140,
+      "match": true
+    },
+    {
+      "number": "9.5",
+      "title": "Prescrizione ed estinzione delle contravvenzioni",
+      "indexPage": 7,
+      "targetPage": 142,
+      "match": true
+    },
+    {
+      "number": "9.6",
+      "title": "Delitti contro l'ambiente e riforma del 2026",
+      "indexPage": 7,
+      "targetPage": 145,
+      "match": true
+    },
+    {
+      "number": "9.7",
+      "title": "Responsabilità dell'ente e caso ispettivo",
+      "indexPage": 7,
+      "targetPage": 147,
+      "match": true
+    },
+    {
+      "number": "10.1",
+      "title": "Funzione e attività di protezione civile",
+      "indexPage": 7,
+      "targetPage": 154,
+      "match": true
+    },
+    {
+      "number": "10.2",
+      "title": "Autorità, componenti e strutture operative",
+      "indexPage": 7,
+      "targetPage": 156,
+      "match": true
+    },
+    {
+      "number": "10.3",
+      "title": "Competenze territoriali e sussidiarietà",
+      "indexPage": 7,
+      "targetPage": 157,
+      "match": true
+    },
+    {
+      "number": "10.4",
+      "title": "Pianificazione come prevenzione non strutturale",
+      "indexPage": 7,
+      "targetPage": 159,
+      "match": true
+    },
+    {
+      "number": "10.5",
+      "title": "Costruire il piano e il modello d'intervento",
+      "indexPage": 7,
+      "targetPage": 161,
+      "match": true
+    },
+    {
+      "number": "10.6",
+      "title": "Partecipazione, inclusione, aggiornamento ed esercitazioni",
+      "indexPage": 8,
+      "targetPage": 163,
+      "match": true
+    },
+    {
+      "number": "10.7",
+      "title": "Caso guidato: il piano sintetico di Vallechiara",
+      "indexPage": 8,
+      "targetPage": 165,
+      "match": true
+    },
+    {
+      "number": "11.1",
+      "title": "Dal rischio allo scenario operativo",
+      "indexPage": 8,
+      "targetPage": 171,
+      "match": true
+    },
+    {
+      "number": "11.2",
+      "title": "Architettura del sistema di allertamento",
+      "indexPage": 8,
+      "targetPage": 173,
+      "match": true
+    },
+    {
+      "number": "11.3",
+      "title": "Prodotti, zone, soglie, criticità e colori",
+      "indexPage": 8,
+      "targetPage": 175,
+      "match": true
+    },
+    {
+      "number": "11.4",
+      "title": "Dall'allerta alla fase operativa",
+      "indexPage": 8,
+      "targetPage": 177,
+      "match": true
+    },
+    {
+      "number": "11.5",
+      "title": "IT-alert: sistema, casi d'uso e limiti",
+      "indexPage": 8,
+      "targetPage": 179,
+      "match": true
+    },
+    {
+      "number": "11.6",
+      "title": "Gestire l'emergenza e costruire il briefing",
+      "indexPage": 8,
+      "targetPage": 180,
+      "match": true
+    },
+    {
+      "number": "11.7",
+      "title": "Caso guidato: due rami per Vallechiara",
+      "indexPage": 8,
+      "targetPage": 183,
+      "match": true
+    },
+    {
+      "number": "12.1",
+      "title": "Governare clima ed energia",
+      "indexPage": 8,
+      "targetPage": 190,
+      "match": true
+    },
+    {
+      "number": "12.2",
+      "title": "Leggere il sistema energetico e le rinnovabili",
+      "indexPage": 8,
+      "targetPage": 192,
+      "match": true
+    },
+    {
+      "number": "12.3",
+      "title": "Dalla fonte al titolo: regimi e dipendenze",
+      "indexPage": 8,
+      "targetPage": 193,
+      "match": true
+    },
+    {
+      "number": "12.4",
+      "title": "Efficienza prima dell'offerta",
+      "indexPage": 8,
+      "targetPage": 196,
+      "match": true
+    },
+    {
+      "number": "12.5",
+      "title": "Autoconsumo diffuso e CER",
+      "indexPage": 8,
+      "targetPage": 199,
+      "match": true
+    },
+    {
+      "number": "12.6",
+      "title": "Costruire il piano energia-clima",
+      "indexPage": 8,
+      "targetPage": 202,
+      "match": true
+    },
+    {
+      "number": "12.7",
+      "title": "Caso guidato: il piano di Rivasole",
+      "indexPage": 8,
+      "targetPage": 204,
+      "match": true
+    },
+    {
+      "number": "13.1",
+      "title": "Mappa degli strumenti di sostenibilità",
+      "indexPage": 8,
+      "targetPage": 213,
+      "match": true
+    },
+    {
+      "number": "13.2",
+      "title": "Tassonomia UE e sei obiettivi ambientali",
+      "indexPage": 8,
+      "targetPage": 215,
+      "match": true
+    },
+    {
+      "number": "13.3",
+      "title": "Applicare il DNSH lungo l'intervento",
+      "indexPage": 8,
+      "targetPage": 217,
+      "match": true
+    },
+    {
+      "number": "13.4",
+      "title": "GPP, PAN e Criteri ambientali minimi",
+      "indexPage": 8,
+      "targetPage": 219,
+      "match": true
+    },
+    {
+      "number": "13.5",
+      "title": "Pensare e misurare il ciclo di vita",
+      "indexPage": 8,
+      "targetPage": 222,
+      "match": true
+    },
+    {
+      "number": "13.6",
+      "title": "Dalla regola alla matrice delle evidenze",
+      "indexPage": 8,
+      "targetPage": 224,
+      "match": true
+    },
+    {
+      "number": "13.7",
+      "title": "Caso guidato: la palestra sostenibile di Rivasole",
+      "indexPage": 8,
+      "targetPage": 226,
+      "match": true
+    },
+    {
+      "number": "14.1",
+      "title": "Il protocollo di soluzione",
+      "indexPage": 8,
+      "targetPage": 234,
+      "match": true
+    },
+    {
+      "number": "14.2",
+      "title": "Scrivere una risposta sintetica valutabile",
+      "indexPage": 8,
+      "targetPage": 236,
+      "match": true
+    },
+    {
+      "number": "14.3",
+      "title": "Risolvere il caso ambientale",
+      "indexPage": 8,
+      "targetPage": 238,
+      "match": true
+    },
+    {
+      "number": "14.4",
+      "title": "Dal sito contaminato al controllo",
+      "indexPage": 8,
+      "targetPage": 239,
+      "match": true
+    },
+    {
+      "number": "14.5",
+      "title": "Gestire scenario ed emergenza",
+      "indexPage": 8,
+      "targetPage": 241,
+      "match": true
+    },
+    {
+      "number": "14.6",
+      "title": "Decidere su energia e sostenibilità",
+      "indexPage": 8,
+      "targetPage": 243,
+      "match": true
+    },
+    {
+      "number": "14.7",
+      "title": "Correggere e trasferire: la prova integrata",
+      "indexPage": 8,
+      "targetPage": 245,
+      "match": true
+    }
+  ],
+  "mismatches": []
+}

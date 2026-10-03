@@ -1,0 +1,76 @@
+[
+  {
+    "volume": "VOL-01",
+    "pages": 592,
+    "panoramicCoverage": "all 25 contact sheets",
+    "detailPages": [
+      7,
+      21,
+      55,
+      135,
+      300,
+      460,
+      578
+    ],
+    "report": "wiki/reviews/audit-integrale-2026-10-02/PDF-VOL-01.md"
+  },
+  {
+    "volume": "VOL-06",
+    "pages": 530,
+    "panoramicCoverage": "all 23 contact sheets",
+    "detailPages": [
+      6,
+      47,
+      88,
+      179,
+      184,
+      199,
+      361,
+      453
+    ],
+    "report": "wiki/reviews/audit-integrale-2026-10-02/PDF-VOL-06.md"
+  },
+  {
+    "volume": "VOL-10",
+    "pages": 100,
+    "panoramicCoverage": "all 5 contact sheets",
+    "detailPages": [
+      24,
+      28,
+      42,
+      58,
+      64,
+      98
+    ],
+    "report": "wiki/reviews/audit-integrale-2026-10-02/PDF-VOL-10.md"
+  },
+  {
+    "volume": "VOL-03",
+    "pages": 738,
+    "panoramicCoverage": "all 31 contact sheets",
+    "detailPages": [
+      6,
+      161,
+      177,
+      435,
+      459
+    ],
+    "report": "wiki/reviews/audit-integrale-2026-10-02/PDF-VOL-03.md"
+  },
+  {
+    "volume": "VOL-07",
+    "pages": 394,
+    "panoramicCoverage": "all 17 contact sheets",
+    "detailPages": [
+      6,
+      8,
+      86,
+      139,
+      169,
+      232,
+      353,
+      394
+    ],
+    "report": "wiki/reviews/audit-integrale-2026-10-02/PDF-VOL-07.md"
+  }
+]

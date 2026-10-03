@@ -1,0 +1,205 @@
+{
+  "sourceHashes": [
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "sha256": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "sha256": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "sha256": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "sha256": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "sha256": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "sha256": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "sha256": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "sha256": "46f43f3b336f8c59413b2ec9513d5c8ca1e79b18f9d7e306e7132e64873ff265"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "sha256": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "sha256": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "sha256": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "sha256": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "sha256": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "sha256": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "sha256": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368"
+    }
+  ],
+  "externalLinkChanges": [
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "label": "AGCM 2024, funzionari giuristi",
+      "url": "https://www.agcm.it/dotcmsdoc/concorsi-e-praticantato/2024F6G_Bando_Funzionari_giuristi.pdf",
+      "printed": "AGCM 2024, funzionari giuristi (www.agcm.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "label": "Banca d'Italia 2025, 60 laureati con orientamento giuridico",
+      "url": "https://www.bancaditalia.it/chi-siamo/lavorare-bi/informazioni-concorsi/2025/bando-60-giuristi/index.html",
+      "printed": "Banca d'Italia 2025, 60 laureati con orientamento giuridico (www.bancaditalia.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "label": "Normattiva",
+      "url": "https://www.normattiva.it/",
+      "printed": "Normattiva (www.normattiva.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "label": "Statuto Banca d'Italia",
+      "url": "https://www.bancaditalia.it/chi-siamo/funzioni-governance/disposizioni-generali/statuto.pdf",
+      "printed": "Statuto Banca d'Italia (www.bancaditalia.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "label": "Statuto IVASS",
+      "url": "https://www.ivass.it/normativa/nazionale/primaria/Statuto_IVASS.pdf",
+      "printed": "Statuto IVASS (www.ivass.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "label": "ECN",
+      "url": "https://competition-policy.ec.europa.eu/antitrust-and-cartels/european-competition-network_en",
+      "printed": "ECN (competition-policy.ec.europa.eu)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "label": "indagini REMIT ACER",
+      "url": "https://acer.europa.eu/remit/remit-investigations",
+      "printed": "indagini REMIT ACER (acer.europa.eu)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "label": "conformità agli orientamenti EBA",
+      "url": "https://www.eba.europa.eu/about-us/legal-and-policy-framework/compliance-eba-regulatory-products",
+      "printed": "conformità agli orientamenti EBA (www.eba.europa.eu)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "label": "deliberazione 18 giugno 2025, 255/2025/A",
+      "url": "https://www.arera.it/fileadmin/allegati/docs/25/255-25.pdf",
+      "printed": "deliberazione 18 giugno 2025, 255/2025/A (www.arera.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "label": "Normattiva",
+      "url": "https://www.normattiva.it/",
+      "printed": "Normattiva (www.normattiva.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "label": "D.Lgs. 128/2026",
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/07/23/26G00145/sg",
+      "printed": "D.Lgs. 128/2026 (www.gazzettaufficiale.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "label": "JRC, metodi di valutazione microeconomica",
+      "url": "https://knowledge4policy.ec.europa.eu/microeconomic-evaluation/policy-impact-evaluation-methods-data_en",
+      "printed": "JRC, metodi di valutazione microeconomica (knowledge4policy.ec.europa.eu)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "label": "AGCM, soglie vigenti",
+      "url": "https://www.agcm.it/per-le-imprese/Concorrenza/concentrazioni/soglie-di-fatturato",
+      "printed": "AGCM, soglie vigenti (www.agcm.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "label": "ARERA, condizioni del Servizio Conciliazione",
+      "url": "https://www.arera.it/consumatori/conciliazione/servizio-conciliazione-domande-e-risposte",
+      "printed": "ARERA, condizioni del Servizio Conciliazione (www.arera.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "label": "AGCOM, regolamento e aggiornamenti",
+      "url": "https://www.agcom.it/provvedimenti/delibera-203-18-cons",
+      "printed": "AGCOM, regolamento e aggiornamenti (www.agcom.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "label": "ACF, condizioni del ricorso",
+      "url": "https://www.acf.consob.it/ricorso/quando-come-fare-ricorso",
+      "printed": "ACF, condizioni del ricorso (www.acf.consob.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "label": "ABF, verifiche preliminari",
+      "url": "https://www.arbitrobancariofinanziario.it/presentare-ricorso/verifiche-preliminari/index.html",
+      "printed": "ABF, verifiche preliminari (www.arbitrobancariofinanziario.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "label": "AAS, FAQ",
+      "url": "https://www.arbitroassicurativo.org/faq/index.html",
+      "printed": "AAS, FAQ (www.arbitroassicurativo.org)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "label": "Garante, come presentare reclamo",
+      "url": "https://www.garanteprivacy.it/diritti/come-agire-per-tutelare-i-tuoi-dati-personali/reclamo/",
+      "printed": "Garante, come presentare reclamo (www.garanteprivacy.it)"
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "label": "ANAC, whistleblowing",
+      "url": "https://www.anticorruzione.it/en/-/whistleblowing",
+      "printed": "ANAC, whistleblowing (www.anticorruzione.it)"
+    }
+  ],
+  "blockMoves": [
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "change": "Breve sottotitolo incorporato nel capoverso dopo il nucleo 2.4; tutte le parole preservate.",
+      "reason": "Due titoli consecutivi impedivano il recupero dello spazio a pagina 35."
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "change": "Bibliografia collocata prima del caso finale, nello stesso nucleo; nessun testo omesso.",
+      "reason": "La prova iniziale lasciava la sola bibliografia a pagina 220."
+    },
+    {
+      "path": "books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "change": "Traccia e primo capoverso di soluzione riuniti nello stesso paragrafo; parole invariate.",
+      "reason": "Tenere titolo e porzione sostanziale del caso insieme, riequilibrando la chiusura."
+    }
+  ],
+  "masterChanges": false,
+  "allNormativeReferencesPreserved": true
+}

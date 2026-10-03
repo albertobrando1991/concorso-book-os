@@ -1,0 +1,37 @@
+[
+  {
+    "path": "wiki\\books\\moduli\\m-ir01-scuola\\chapters\\02-sistema-nazionale-autonomia-organizzazione.md",
+    "line": 184,
+    "heading": "## Mini-esercizio: completa lo schema dei poteri",
+    "table": "| Situazione | Problema | Livello o soggetto | Leva | Output o verifica |\n| --- | --- | --- | --- | --- |\n| Gli studenti partecipano poco a un'attività di orientamento. | | | | |\n| Una nuova attività didattica richiede coordinamento di tempi e comunicazioni. | | | | |\n| La scuola vuole capire se una sperimentazione ha migliorato l'inclusione. | | | | |\n",
+    "cols": 5
+  },
+  {
+    "path": "wiki\\books\\moduli\\m-ir01-scuola\\chapters\\03-organi-collegiali-governance.md",
+    "line": 177,
+    "heading": "## Mini-esercizio: attribuisci senza semplificare",
+    "table": "| Situazione | Questione | Organo o soggetto da verificare | Contributo ATA/EQ-DSGA o dirigente | Atto, passaggio o verifica |\n| --- | --- | --- | --- | --- |\n| Serve coordinare una scelta didattica comune. | | | | |\n| Una proposta riguarda l'organizzazione dell'istituto nel suo insieme. | | | | |\n| Una classe presenta un problema che richiede raccordo fra docenti. | | | | |\n",
+    "cols": 5
+  },
+  {
+    "path": "wiki\\books\\moduli\\m-ir01-scuola\\chapters\\04-ptof-rav-pdm-valutazione-inclusione.md",
+    "line": 168,
+    "heading": "## Mini-esercizio: costruisci una matrice essenziale",
+    "table": "| Problema osservato | Priorità e obiettivo | Azione nel perimetro della scuola | Indicatore o evidenza | Verifica inclusiva |\n| --- | --- | --- | --- | --- |\n| Partecipazione irregolare a un'attività | | | | |\n| Comunicazioni poco chiare alle famiglie | | | | |\n| Difficoltà di raccordo fra soggetti coinvolti | | | | |\n",
+    "cols": 5
+  },
+  {
+    "path": "wiki\\books\\moduli\\m-ir01-scuola\\chapters\\06-dsga-eq-ruolo-uffici-personale.md",
+    "line": 174,
+    "heading": "## Mini-esercizio: costruisci una proposta organizzativa",
+    "table": "| Problema osservato | Servizio da proteggere | Attività prioritaria | Azione nel perimetro del caso | Soggetto da coinvolgere | Evidenza di verifica |\n| --- | --- | --- | --- | --- | --- |\n| richieste urgenti senza primo riscontro | | | | | |\n| duplicazione di istruttorie | | | | | |\n| assenza di un addetto | | | | | |\n",
+    "cols": 6
+  },
+  {
+    "path": "wiki\\books\\moduli\\m-ir01-scuola\\chapters\\07-contabilita-scolastica.md",
+    "line": 189,
+    "heading": "## Mini-esercizio: riconosci la fase e la verifica",
+    "table": "| Situazione | Fase prevalente | Domanda di controllo | Evidenza o raccordo da indicare |\n| --- | --- | --- | --- |\n| La scuola valuta un'attività che richiede risorse | | | |\n| Un ufficio deve ricostruire un passaggio già svolto | | | |\n| Occorre leggere i risultati della gestione dell'anno | | | |\n| Un riscontro evidenzia una documentazione incompleta | | | |\n",
+    "cols": 4
+  }
+]

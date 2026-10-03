@@ -5,7 +5,7 @@ volume_title: Scuola, Università, Ricerca e Cultura
 cut_off_date: 2026-07-24
 writer_provider: codex
 phases: [B, C, D, F]
-status: publication-candidate
+status: editorial_revision
 updated_at: 2026-08-23
 review_required: false
 ---

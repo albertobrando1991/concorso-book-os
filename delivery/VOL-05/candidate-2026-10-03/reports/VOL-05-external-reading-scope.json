@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-03",
+  "mainManifest": "norme-vol05/manifest.json",
+  "additionalScopes": {
+    "privacy-reg2019.html": "articoli 8–20 pertinenti; non intero regolamento",
+    "privacy-art140bis.html": "articolo intero",
+    "privacy-art142.html": "articolo intero",
+    "privacy-art143.html": "articolo intero",
+    "privacy-art144.html": "articolo intero",
+    "tuf-riforma47-gu.pdf": "articoli 11–16, PDF pagine 47–50; non fascicolo GU intero",
+    "consob-intermediari.pdf": "articoli 40–54; documento 2022, nessuna attestazione di lettura integrale",
+    "micar-riparto.pdf": "sezioni 1, 2.1–2.4 e tabelle riparto, pagine 3–7; non intero documento",
+    "mar-listing-act.pdf": "acquisizione vuota esclusa; usati estratti primari EUR-Lex indicizzati",
+    "mar-delegato2026.pdf": "acquisizione vuota esclusa; nessuna regola ricavata da questo file",
+    "aas-faq.html": "FAQ 1–5 pertinenti e transitorio primo anno",
+    "ivass-solvency-guida.pdf": "pagine 18–22 e 26–28; guida 2016, non usati minimi nominali storici",
+    "uif-ordinamento.html": "passaggi istituzionali AML; dettaglio dagli articoli 231 letti",
+    "abf-presentare.html": "istruzioni principali; condizioni confrontate con verifiche preliminari ufficiali"
+  },
+  "GDPR": "articoli 55, 58, 77, 78, 83 interi; 56 e 60–65 per passaggi pertinenti",
+  "TFUE": "101,102,288–291",
+  "private": "12 articoli elencati nel private-manifest integralmente letti",
+  "otherScopes": "Note consolidate per settore precisano letture parziali, documenti istituzionali e verifiche indicizzate; readComplete false non viene promosso senza riscontro."
+}

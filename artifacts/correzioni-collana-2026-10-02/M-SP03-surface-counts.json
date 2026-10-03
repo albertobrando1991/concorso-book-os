@@ -1,0 +1,233 @@
+[
+  {
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+    "chapter": 1,
+    "words": 5510,
+    "nuclei": [
+      {
+        "id": "N-SP03-01-01",
+        "heading": "Tre funzioni giuridiche che non vanno sovrapposte",
+        "words": 738
+      },
+      {
+        "id": "N-SP03-01-02",
+        "heading": "Requisiti di accesso: costruire tre fascicoli separati",
+        "words": 687
+      },
+      {
+        "id": "N-SP03-01-03",
+        "heading": "Pratica notarile: durata, continuità e prova documentale",
+        "words": 687
+      },
+      {
+        "id": "N-SP03-01-04",
+        "heading": "Età, categorie e finestre: il requisito che cambia la strategia",
+        "words": 900
+      },
+      {
+        "id": "N-SP03-01-05",
+        "heading": "Bando Decoder: leggere senza contaminare le tornate",
+        "words": 828
+      }
+    ],
+    "quiz": 8
+  },
+  {
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+    "chapter": 2,
+    "words": 5882,
+    "nuclei": [
+      {
+        "id": "N-SP03-02-01",
+        "heading": "Accesso diretto del laureato e categorie tuttora autonome",
+        "words": 700
+      },
+      {
+        "id": "N-SP03-02-02",
+        "heading": "Tre elaborati teorici e una soglia per ogni materia",
+        "words": 846
+      },
+      {
+        "id": "N-SP03-02-03",
+        "heading": "Modalità tradizionale e facoltà informatica non sono la stessa cosa",
+        "words": 646
+      },
+      {
+        "id": "N-SP03-02-04",
+        "heading": "Quattro inidoneità e gestione responsabile del tentativo",
+        "words": 664
+      },
+      {
+        "id": "N-SP03-02-05",
+        "heading": "Indipendenza, imparzialità e ordinamento come materia viva",
+        "words": 639
+      }
+    ],
+    "quiz": 9
+  },
+  {
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+    "chapter": 3,
+    "words": 5251,
+    "nuclei": [
+      {
+        "id": "N-SP03-03-01",
+        "heading": "Sette posti e una finestra anagrafica decisiva",
+        "words": 840
+      },
+      {
+        "id": "N-SP03-03-02",
+        "heading": "Rappresentanza, difesa e consulenza come criterio di scelta",
+        "words": 638
+      },
+      {
+        "id": "N-SP03-03-03",
+        "heading": "Tre temi teorico-pratici in otto ore",
+        "words": 923
+      },
+      {
+        "id": "N-SP03-03-04",
+        "heading": "Orale ampio e manutenzione delle materie laterali",
+        "words": 647
+      },
+      {
+        "id": "N-SP03-03-05",
+        "heading": "Ordinamento: perimetro verificato e disciplina corrente",
+        "words": 664
+      }
+    ],
+    "quiz": 8
+  },
+  {
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+    "chapter": 4,
+    "words": 5467,
+    "nuclei": [
+      {
+        "id": "N-SP03-04-01",
+        "heading": "Tre elaborati: atto e principi devono stare insieme",
+        "words": 666
+      },
+      {
+        "id": "N-SP03-04-02",
+        "heading": "Testi di consultazione: una regola mobile, non una promessa",
+        "words": 632
+      },
+      {
+        "id": "N-SP03-04-03",
+        "heading": "Pratica compiuta, dichiarazione in domanda, certificato dopo l'orale",
+        "words": 1094
+      },
+      {
+        "id": "N-SP03-04-04",
+        "heading": "Cinque inidoneità: contare prima di decidere",
+        "words": 717
+      },
+      {
+        "id": "N-SP03-04-05",
+        "heading": "Funzione notarile, legalità e responsabilità professionale",
+        "words": 703
+      }
+    ],
+    "quiz": 8
+  },
+  {
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+    "chapter": 5,
+    "words": 6362,
+    "nuclei": [
+      {
+        "id": "N-SP03-05-01",
+        "heading": "Analizzare la traccia prima di studiarla",
+        "words": 652
+      },
+      {
+        "id": "N-SP03-05-02",
+        "heading": "Costruire il tema teorico",
+        "words": 646
+      },
+      {
+        "id": "N-SP03-05-03",
+        "heading": "Sviluppare il teorico-pratico",
+        "words": 632
+      },
+      {
+        "id": "N-SP03-05-04",
+        "heading": "Redigere l'atto notarile",
+        "words": 625
+      },
+      {
+        "id": "N-SP03-05-05",
+        "heading": "Correggere e riscrivere",
+        "words": 631
+      }
+    ],
+    "quiz": 8
+  },
+  {
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+    "chapter": 6,
+    "words": 6046,
+    "nuclei": [
+      {
+        "id": "N-SP03-06-01",
+        "heading": "Dalla tornata al trimestre",
+        "words": 740
+      },
+      {
+        "id": "N-SP03-06-02",
+        "heading": "Dal trimestre alla settimana",
+        "words": 1241
+      },
+      {
+        "id": "N-SP03-06-03",
+        "heading": "Integrare studio e simulazioni",
+        "words": 654
+      },
+      {
+        "id": "N-SP03-06-04",
+        "heading": "Gestire i tre binari senza dispersione",
+        "words": 1227
+      },
+      {
+        "id": "N-SP03-06-05",
+        "heading": "Aggiornare il piano quando cambia il bando",
+        "words": 656
+      }
+    ],
+    "quiz": 8
+  },
+  {
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+    "chapter": 7,
+    "words": 6055,
+    "nuclei": [
+      {
+        "id": "N-SP03-07-01",
+        "heading": "Confondere i tre binari",
+        "words": 796
+      },
+      {
+        "id": "N-SP03-07-02",
+        "heading": "Trasformare un dato mobile in regola stabile",
+        "words": 837
+      },
+      {
+        "id": "N-SP03-07-03",
+        "heading": "Studiare senza produrre",
+        "words": 1129
+      },
+      {
+        "id": "N-SP03-07-04",
+        "heading": "Caso integrato di scelta e requisito",
+        "words": 938
+      },
+      {
+        "id": "N-SP03-07-05",
+        "heading": "Checklist finale di prontezza",
+        "words": 661
+      }
+    ],
+    "quiz": 8
+  }
+]

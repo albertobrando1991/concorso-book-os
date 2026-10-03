@@ -2,14 +2,14 @@
 id: didactic-coverage-matrix-m-fc02
 type: review
 title: "Matrice di copertura didattica - M-FC02 Agenzie fiscali"
-status: final
+status: review-in-progress
 domain: concorsi-pubblici
 topics: [copertura-didattica-integrale, agenzie-fiscali]
 entities: [Agenzia delle Entrate, Agenzia delle Dogane e dei Monopoli, Agenzia delle Entrate-Riscossione]
 source_refs: [principio-copertura-didattica-integrale-2026-07-17, bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026]
 book_refs: [m-fc02-agenzie-fiscali]
 confidence: 0.9
-updated_at: 2026-08-22T14:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-17
 review_required: false
 canonical: false
@@ -46,7 +46,7 @@ Audit semantico del testo reale dei 14 capitoli numerati e dei due intercalari 5
 | M-FC02/tributario | IVA | Presupposti, operazioni, rivalsa, detrazione, liquidazione | alta | [[sources/iva-dpr-633-1972-aggiornamento-2026-07-20]] | cap. 4, `IVA: operazioni, soggetti, detrazione e adempimenti`; cap. 6, `Operazioni IVA e ciclo degli adempimenti` | funzione, armonizzazione, presupposti, soggetti, quattro classi, base, rivalsa, detrazione, documentazione e liquidazione spiegati | caso Alfa e caso comparativo su quattro operazioni | caso/quiz/orale | verifiche, quiz e checklist | completo | review tributaria/UE; dati mobili esclusi | - |
 | M-FC02/tributario | Accertamento | Controllo automatico, formale, sostanziale | alta | [[sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17]] | cap. 5, sezione omonima | differenze e funzione spiegate | caso | quiz/orale | quiz | completo | verificare articoli | - |
 | M-FC02/tributario | Accertamento | Selezione, istruttoria, contraddittorio, atto | alta | [[sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17]] | cap. 5, sezioni `Dal dato`-`Atto finale` | sequenza, poteri, prova e motivazione spiegati | caso guidato | caso/orale | esercizio | completo | art. 6-bis e termini mobili | - |
-| M-FC02/tributario | Tutela amministrativa/deflativa | Autotutela obbligatoria e facoltativa; adesione, acquiescenza e conciliazione | alta | [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29]]; [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]] | cap. 5, `Autotutela, definizione e tutela giurisdizionale`; cap. 5B, sez. 1-2 e 10 | presupposti, fasi, autorita, funzioni ed effetti distinti | caso classificatorio e caso Omega | orale/caso | griglia effetti, quiz e verifiche | completo | termini, riduzioni e dettagli mobili da review | - |
+| M-FC02/tributario | Tutela amministrativa/deflativa | Autotutela obbligatoria e facoltativa; adesione, acquiescenza e conciliazione | alta | [[sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29]]; [[sources/processo-tributario-regime-2026-rettifica-2026-10-03]] | cap. 5, `Autotutela, definizione e tutela giurisdizionale`; cap. 5B, sez. 1-2 e 10 | presupposti, fasi, autorita, funzioni ed effetti distinti | caso classificatorio e caso Omega | orale/caso | griglia effetti, quiz e verifiche | completo | termini, riduzioni e dettagli mobili da review | - |
 | M-FC02/tributario | Compliance | Compliance ordinaria | alta | [[sources/adempimento-collaborativo-compliance-fiscale-m-fc02]] | cap. 5, `Compliance fiscale ordinaria` | funzione e strumenti spiegati | esempio comunicazione | orale/caso | checklist | completo | aggiornare strumenti | - |
 | M-FC02/ACFI | Compliance | Adempimento collaborativo e tax control framework | alta profilo | [[sources/adempimento-collaborativo-compliance-fiscale-m-fc02]] | cap. 5, sezione omonima | struttura, rischio e interlocuzione spiegati | caso | orale/caso | quiz | completo | soglie/requisiti mobili | - |
 | M-FC02/ACFI | Fiscalita internazionale | Residenza, stabile organizzazione, convenzioni e doppia imposizione, transfer pricing, documentazione e operazioni infragruppo, rischio fiscale e Tax Control Framework | alta profilo | [[sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18]] | cap. 5, `Profili ACFI e fiscalita internazionale`, da `Fonti e metodo operativo` a `Commissario, trappole, esercizio e quiz` | istituti, fonti e metodo operativo spiegati nel perimetro ACFI selettivo | caso completo ACFI e mini-esercizio risolto | domanda da commissario, checklist e mappa dei rischi | verifiche risolte e quiz dedicati | completo | review didattica ACFI superata il 2026-07-18; manutenzione normativa e verifica delle fonti vigenti ancora obbligatorie | - |
@@ -97,7 +97,7 @@ Audit semantico del testo reale dei 14 capitoli numerati e dei due intercalari 5
 | M-FC02/tutti | Piano | Simulazioni e recupero 30/60/90 | alta | [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]] | cap. 13, `Mini-simulazione finale M-FC02` - `Piano breve 14/7 giorni` | simulazione diagnostica, diario, griglia, recupero e progressione temporale spiegati | simulazione mista e caso guidato ultimi 30 giorni | simulazione | diario, piano e checklist | completo | adattare tempi e regole al bando | - |
 | M-FC02/tutti | Sanzioni | Sanzioni amministrative tributarie | alta da indice | [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]] | cap. 5A, sez. 1-9 | principi, autore, cause, concorsi, fattispecie, ravvedimento e procedimento spiegati | caso dichiarazione/ravvedimento | caso/quiz/orale | mini-esercizio, quiz e checklist | completo | review tributaria e disciplina temporale | - |
 | M-FC02/tutti | Reati | Reati tributari e raccordo reati contro PA | alta da piano | [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]] | cap. 5A, sez. 10-16 | famiglie D.Lgs. 74/2000, dolo, pagamento, confisca e raccordi spiegati; PA con rinvio verificato | documenti inesistenti e sottrazione | caso/quiz/orale | esercizio, quiz e checklist | completo | review penal-tributaria; TU 173 dal 2027 | - |
-| M-FC02/tutti | Processo | Tutela e processo tributario | alta da indice | [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]] | cap. 5B, sez. 1-13 | tutela, organi, parti, atti, ricorso, prova, cautela, conciliazione, decisione, impugnazioni ed esecuzione spiegati | caso Omega atto-esito | caso/quiz/orale | esercizi, quiz e checklist PTT | completo | TU 175 vigente; review processuale | - |
+| M-FC02/tutti | Processo | Tutela e processo tributario | alta da indice | [[sources/processo-tributario-regime-2026-rettifica-2026-10-03]] | cap. 5B, sez. 1-13 | tutela, organi, parti, atti, ricorso, prova, cautela, conciliazione, decisione, impugnazioni ed esecuzione spiegati | caso Omega atto-esito | caso/quiz/orale | esercizi, quiz e checklist PTT | completo | TU 175 vigente; review processuale | - |
 | M-FC02/tutti | UE | Diritto UE fiscale e doganale trasversale | media/alta | [[sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18]] | cap. 4, `Quadro UE fiscale, IVA e dogane`; rinvio cap. 8, sez. 1 | competenze, fonti, regolamento/direttiva, IVA armonizzata e sistema CDU-2446-2447 spiegati | importazione e vendita interna | quiz/orale/caso | domanda-trappola, errori e verifica | completo | versioni EUR-Lex e attuazione nazionale | - |
 | M-FC02/front-office | Relazione | Comunicazione, data protection, contribuente/operatore | alta profilo | [[sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali]] | cap. 14, `Protocollo front-office e protezione dati` | finalita e limiti del protocollo, identita e titolo, competenza, necessita e minimizzazione, canale, linguaggio, tracciabilita ed escalation spiegati | caso della richiesta telefonica di dati di un terzo | situazionale/orale | autoverifica in sette domande, errore tipico e canvas | completo | GDPR, procedure interne e policy enti da review | - |
 | M-FC02/tutti | Lessico | Glossario fiscale-doganale-catastale 80-100 voci | media | [[sources/m-fc02-dossier-redazionale-agenzie-fiscali]] | cap. 14, appendice A | 80 voci uniche con definizione funzionale, distinzione e rinvio preciso | esempi incorporati negli strumenti | ripasso/orale | checklist e piano | completo | aggiornamento terminologico al cut-off | - |
@@ -130,3 +130,31 @@ Le sei righe seguenti sono l'overlay verificabile del capitolo in formato 2. Le 
 ## Totali
 
 La classificazione contiene 80 nuclei: 80 `completo`, 0 `parziale`, 0 `solo-nominato`, 0 `rinviato`, 0 `mancante`. Il validatore non rileva blocker editoriali di copertura.
+
+## Delta della revisione integrale del 3 ottobre 2026
+
+Le righe precedenti conservano il censimento storico. La revisione corrente integra le lacune sotto riportate; lo stato «integrato» attesta testo ed esercizi presenti, non approvazione normativa finale né pubblicabilità. Audit specialistico 15 eseguito e documentato; il freeze 16 è documentato nel manifest del 3 ottobre; resta il controllo dell’export candidato.
+
+| Nucleo | Collocazione verificabile | Teoria e applicazione aggiunte | Fonte | Stato corrente |
+| --- | --- | --- | --- | --- |
+| Organi fiscali | cap. 03, Organi | Collegio dei revisori, Direttore e Comitato, con funzioni distinte | D.Lgs. 300/1999, art. 67 | integrato; verificato nello step 15 del 3 ottobre |
+| Metodi di accertamento | cap. 05, I metodi di accertamento | Cinque metodi, presupposti e scelta guidata | D.P.R. 600/1973, artt. 38–41 | integrato; verificato nello step 15 del 3 ottobre |
+| Garanzie e TCF | cap. 05, contraddittorio/autotutela/TCF | 60 giorni, limiti dell’autotutela, accesso 2026 e caso | L. 212/2000; D.Lgs. 128/2015 | integrato; verificato nello step 15 del 3 ottobre |
+| Sanzioni e reati | cap. 05a, soglie e termini | Imputazione agli enti, soglie cumulative, consumazione e due casi numerici | D.Lgs. 472/1997 e 74/2000, con D.Lgs. 87/2024 | integrato; verificato nello step 15 del 3 ottobre |
+| Processo | cap. 05b, regime 2026, termini e difesa | D.Lgs. 546/1992, ricorso/costituzione/appelli, 3.000 euro e calendario | Fonte rettifica processo 3 ottobre; TU dal 2027 | integrato; verificato nello step 15 del 3 ottobre |
+| Redditi e dichiarazioni | cap. 06, Determinazione e periodo | Cassa/competenza, pensioni, 12 gennaio, calcolo e 90 giorni | TUIR e D.P.R. 322/1998 | integrato; verificato nello step 15 del 3 ottobre |
+| Fermo | cap. 07, Fermo: preavviso, circolazione e tutele | Effetto corretto, strumentalità e caso | art. 86 D.P.R. 602/1973; AdER | integrato; verificato nello step 15 del 3 ottobre |
+| Dogane e accise | capp. 08–09 e glossario 14 | A.TR/origine, art. 173, vigilanza, destinatario registrato, EMCS a imposta assolta | CDU; direttiva 2020/262; note ADM | integrato; verificato nello step 15 del 3 ottobre |
+| Estimo e ipoteca | cap. 10, Tre calcoli estimativi | Comparazione, capitalizzazione e costo con risultati; iscrizione costitutiva | Fonte estimativa e codice civile art. 2808 | integrato; verificato nello step 15 del 3 ottobre |
+| Valutazioni di bilancio | cap. 11, immobilizzazioni/rimanenze/indici | Terreni, finanziarie, minore costo/realizzo, due margini | OIC 13/16/24 e codice civile | integrato; verificato nello step 15 del 3 ottobre |
+| Civile e società | cap. 12, sez. 4, 7 e 11 | Delegazione/espromissione/accollo, patologie, sei tipi societari e casi | codice civile e source notes pertinenti | integrato; verificato nello step 15 del 3 ottobre |
+| Metodo e apparati | capp. 01–14 | D = Diario; riferimenti pubblici; rimozione note staff archiviate; ancore corrette | Audit integrale e snapshot | integrato; verificato nello step 15 del 3 ottobre |
+
+## Chiusura del riesame specialistico
+
+Le indicazioni storiche di review nelle righe del censimento sono assolte, per il testo corrente, dal rapporto `wiki/reviews/pipeline/VOL-03/15-moduli-m-fc02-agenzie-fiscali.md` del 3 ottobre 2026. Non costituiscono deleghe a review umane future. Le versioni mobili saranno nuovamente verificate in caso di aggiornamento del testo.
+
+
+## Delta figure — 3 ottobre 2026
+
+70 diagrammi testuali sostituiti da tavole native nei capitoli 01–14 (05a/05b privi di immagini). Preservati tutti i nuclei, casi e quiz: verifica differenziale `VOL-03-native-checkpoint.json`. Relazioni fiscali e rimandi alle appendici riallineati a fonti e master. PDF e rinvii numerici di volume da controllare nella produzione, senza anticipare la pubblicabilità.

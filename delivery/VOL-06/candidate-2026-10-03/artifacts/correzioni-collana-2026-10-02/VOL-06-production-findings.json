@@ -1,0 +1,49 @@
+{
+  "volume": "VOL-06",
+  "pdf": "vol-06-release-20261003-proof.pdf",
+  "sha256": "2b3391c9f83856c5444a36efe542aeac180521f78e91309203375d02482dd15a",
+  "findings": [
+    {
+      "id": "P06-01",
+      "position": "Schede IR01, dettagli 20–67",
+      "status": "verificato",
+      "evidence": "Griglie strette dell’audit storico sostituite con campi a due colonne; nessuna parola spezzata in lettere isolate nei dettagli. Correzione applicata e resa controllata."
+    },
+    {
+      "id": "P06-02",
+      "position": "IR02/09–10; dettaglio 227",
+      "status": "verificato",
+      "evidence": "Bibliografie ora separate dal titolo e rese come corpo. Separazione heading/lista applicata."
+    },
+    {
+      "id": "P06-03",
+      "position": "IR04, capitoli 38–50 da p. 430",
+      "status": "verificato",
+      "evidence": "Ordine canonico ripristinato; MiC precede gli approfondimenti. Titoli e rinvii uniformati."
+    },
+    {
+      "id": "P06-04",
+      "position": "Indice e IR03/04",
+      "status": "verificato",
+      "evidence": "Titolo editoriale sostituisce il nome file spurio. Metadati corretti e indice verificato sul PDF."
+    },
+    {
+      "id": "EXP-01",
+      "position": "IR02/09, p. 212 e seguenti",
+      "status": "verificato",
+      "evidence": "I cinque nuclei prima esclusi sono presenti nella proiezione corretta. Correzione comune del renderer; evidenza nel PDF."
+    },
+    {
+      "id": "FM06-01",
+      "position": "p. 1",
+      "status": "pendente",
+      "evidence": "La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione. Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa."
+    },
+    {
+      "id": "FM06-02",
+      "position": "p. 3",
+      "status": "pendente",
+      "evidence": "Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione. Completare i dati effettivi prima della pubblicazione."
+    }
+  ]
+}

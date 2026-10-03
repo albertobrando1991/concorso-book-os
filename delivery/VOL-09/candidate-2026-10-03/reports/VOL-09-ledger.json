@@ -1,0 +1,82 @@
+{
+  "volume": "VOL-09",
+  "note": "Registro di produzione; audit testuale nel rapporto VOL-09.md e manifest M-TR02-freeze.json.",
+  "production": {
+    "volume": "VOL-09",
+    "pages": 267,
+    "pdfSha256": "26c5a13f5488ff83a27c20da486c0b55936c943b21f539dc61a4e2797904d466",
+    "report": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-09.md",
+    "visualReview": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/VOL-09-production-visual.json",
+    "indexEntriesVerified": 87,
+    "finalSignoff": false,
+    "findings": [
+      {
+        "id": "P09-01",
+        "position": "Tabella, p.13",
+        "category": "Formattazione",
+        "severity": "grave",
+        "diagnosis": "Tabella Markdown non resa nella prova storica.",
+        "correction": "Tabella completa con nove righe, intestazioni e celle leggibili.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P09-02",
+        "position": "Quiz, pp.106–107,157,212–213",
+        "category": "Gerarchia",
+        "severity": "medio",
+        "diagnosis": "Titoli interferivano con le alternative.",
+        "correction": "Unità domanda/alternative/soluzione distinte e continue.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P09-03",
+        "position": "Sezione13.1, p.227",
+        "category": "Residui interni",
+        "severity": "medio",
+        "diagnosis": "N-TR02-XX-04 visibile al lettore.",
+        "correction": "Titolo descrittivo e numerazione13.1 nel PDF.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P09-04",
+        "position": "Kit14.6, pp.265–267",
+        "category": "Apparati",
+        "severity": "grave",
+        "diagnosis": "Promesse di appendici non presenti.",
+        "correction": "Rinvii puntuali ai capitoli e schede effettive; promessa riallineata.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P09-05",
+        "position": "Indice, pp.6–7",
+        "category": "Tipografia",
+        "severity": "medio",
+        "diagnosis": "Indice troppo piccolo.",
+        "correction": "Corpo9,5pt e87destinazioni verificate.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P09-06",
+        "position": "Tabelle nel volume",
+        "category": "Continuità",
+        "severity": "medio",
+        "diagnosis": "Frammenti sulla stessa pagina.",
+        "correction": "Intestazioni regolari e gruppi semantici collegati senza perdita di righe.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P09-07",
+        "position": "Scheda affidamento, p.266",
+        "category": "Refuso",
+        "severity": "medio",
+        "diagnosis": "Segno+ univa Controlli svolti e Risorse.",
+        "correction": "Eliminato il segno e separati i due campi in paragrafi; delta verificato nel nuovo PDF.",
+        "status": "Corretto e verificato localmente"
+      }
+    ]
+  },
+  "finalVerified": false,
+  "limitations": [
+    "Produzione locale verificata; dipendenze comuni digitali/editoriali aperte. Nessun signoff24."
+  ]
+}

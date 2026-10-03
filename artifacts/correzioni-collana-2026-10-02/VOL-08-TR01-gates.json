@@ -1,0 +1,145 @@
+[
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  }
+]

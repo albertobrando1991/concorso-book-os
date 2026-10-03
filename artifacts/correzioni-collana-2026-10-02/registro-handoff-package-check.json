@@ -1,0 +1,30 @@
+[
+  {
+    "volume": "VOL-05",
+    "manifest": "delivery\\VOL-05\\candidate-2026-10-03\\package-manifest.json",
+    "files": 139,
+    "mismatches": [],
+    "pdfSha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5"
+  },
+  {
+    "volume": "VOL-06",
+    "manifest": "delivery\\VOL-06\\candidate-2026-10-03\\manifest.json",
+    "files": 396,
+    "mismatches": [],
+    "pdfSha256": "2b3391c9f83856c5444a36efe542aeac180521f78e91309203375d02482dd15a"
+  },
+  {
+    "volume": "VOL-07",
+    "manifest": "delivery\\VOL-07\\candidate-2026-10-03\\manifest.json",
+    "files": 428,
+    "mismatches": [],
+    "pdfSha256": "60e7814e7a9d17ea36f1af9b5a7652206f83ce33fe0870b0aebc6d588df43e16"
+  },
+  {
+    "volume": "VOL-12",
+    "manifest": "delivery\\VOL-12\\candidate-2026-10-03\\manifest.json",
+    "files": 413,
+    "mismatches": [],
+    "pdfSha256": "70f546098427dd2dfaa02dad1ce8df3ac266f92671e991aa891782809df8ee88"
+  }
+]

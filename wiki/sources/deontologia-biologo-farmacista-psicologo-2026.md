@@ -9,9 +9,9 @@ entities: ["FNOB", "FOFI", "CNOP"]
 source_refs: ["sources/dirigenza-sanitaria-concorsi-ccnl-2026"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.95
-updated_at: 2026-07-31T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-31T00:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["source", "m-sa03", "deontology", "fnob", "fofi", "cnop"]
 source_type: official_professional_corpus
@@ -24,7 +24,7 @@ authority_level: professional_official
 
 ## Corpus ufficiale e vigenza editoriale
 
-La Federazione Nazionale degli Ordini dei Biologi pubblica il proprio [Codice deontologico](https://www.fnob.it/wp-content/uploads/2024/10/CODICE-DEONTOLOGICO.pdf) nella pagina dei regolamenti interni, con data di pubblicazione 31 ottobre 2024. La Federazione degli Ordini dei Farmacisti Italiani mantiene nella pagina [Codice deontologico](https://www.fofi.it/pg_f.php?id=20) il testo approvato dal Consiglio nazionale il 7 maggio 2018 e il relativo commentario approvato l'11 ottobre 2018. Il Consiglio Nazionale dell'Ordine degli Psicologi pubblica il [Codice deontologico vigente](https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/), nella revisione entrata in vigore il 1° dicembre 2023.
+La Federazione Nazionale degli Ordini dei Biologi pubblica il proprio [Codice deontologico](https://www.fnob.it/wp-content/uploads/2024/10/CODICE-DEONTOLOGICO.pdf) nella pagina dei regolamenti interni, con data di pubblicazione 31 ottobre 2024. La Federazione degli Ordini dei Farmacisti Italiani mantiene nella pagina [Codice deontologico](https://www.fofi.it/pg_f.php?id=20) il testo approvato dal Consiglio nazionale il 7 maggio 2018 e il relativo commentario approvato l'11 ottobre 2018. Il Consiglio Nazionale dell'Ordine degli Psicologi pubblica il [Codice deontologico vigente](https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/), nel testo vigente nuovamente applicabile dal 24 dicembre 2024, successivo alla decisione del Consiglio di Stato sul referendum 2023.
 
 Il CNOP ha avviato nel 2026 un nuovo processo di revisione. Alla data di controllo, l'avvio del progetto non equivale all'entrata in vigore di un nuovo testo: per ogni uso successivo al cut-off occorre verificare la pagina ufficiale.
 
@@ -51,3 +51,11 @@ Nei casi concorsuali devono quindi comparire domanda, mandato, destinatario, com
 I tre codici condividono alcuni assi — competenza, autonomia, responsabilità, riservatezza, correttezza e tutela della persona o della collettività — ma li applicano a professioni e atti diversi. Il capitolo può usare una griglia comune per leggere il problema; non può ricavarne una competenza sanitaria indistinta.
 
 La source note sostiene principi deontologici e confini di ragionamento. Non sostituisce normativa, bando, ordinamento della professione, disciplina specialistica, linee guida, metodi validati, test, SOP o procedure aziendali. Review indipendente di biologo, farmacista e psicologo obbligatoria allo step 15.
+
+## Correzione della vigenza CNOP — 3 ottobre 2026
+
+Confrontato il [testo attualmente indicato come vigente dal CNOP](https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/) con le proposizioni recepite: artt. 3–7 responsabilità, dignità, competenza, autonomia e attendibilità; 11–17 segreto e documentazione; 24 informazione/consenso; 25 strumenti diagnostici; 32 committenza e destinatario. I principi sintetizzati restano sostenuti dal testo vigente, senza recepire la premessa etica del codice 2023. Il [riscontro dell'Ordine siciliano](https://www.oprs.it/per-la-professione/codice-deontologico/) documenta il ritorno del precedente testo dal 24 dicembre 2024. Il PDF 2023 resta storico e non è fonte di vigenza.
+
+## Esito editoriale corrente
+
+Riesame automatico dei claim recepiti nei capitoli concluso il 3 ottobre 2026 nei report 15 M-SA02/M-SA03 pertinenti. Questa attestazione aggiorna i rinvii storici a future review; non amplia il perimetro a procedure locali o a tutti gli articoli del corpus. Le fonti mobili mantengono versione e ambito dichiarati.

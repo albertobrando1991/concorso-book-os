@@ -1,0 +1,227 @@
+[
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+    "sha256": "e6a90ca41609999535e75610d5f63aec2e0e66a27891758ad991915fcdb0f1ed",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+    "sha256": "567cc1ba7270b0f8bc6026e28697ee719cb55f56cdd9117e7e13a1036a78e8b6",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+    "sha256": "825ad25c4c1716eca85ec911dc0a45b772507419fbda0d6dca2e9af379445ede",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+    "sha256": "18040fc69e3e1d13a6b8450b0a39c84ed7b852f3a717fe0dcd602a4ddf3ee840",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+    "sha256": "7dd7437328f8b37fb043d70bb741aa4ad031bb4c19a08bc67a50c1db82ea78ae",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+    "sha256": "f86c41aac568e56591382ca6c4a3269adc680e56def3ca7be7fa175cdd251d91",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+    "sha256": "b4bf7d8d0a1c5e794f71d8df87844a150744b4b361a5f0edf15d93e7aa1de40c",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+    "sha256": "041645664116fc6d2f59e9321bc591828d4444af396f587c7c16b4d4d06683b9",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+    "sha256": "7984408a25d54bda801b760c5b59b5d2a8a3f375d7277a437ee240574153ef2c",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+    "sha256": "82f439710a5848166078e2e51d17925434830eafd5c2dd01bf8160407c2be657",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+    "sha256": "2ec9ad2b1bac459d80ad394a475cb9b93d88252d444d055a2cb7c90e35e2a131",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+    "sha256": "5b7a6654bcce48b481e4c8ea07a741536fd942def9f3393227e91ebcf26c9586",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+    "sha256": "79223b82b1abfa10bd4307ddca2caef65a4aaa9b1abbde5bf53f382a061fdc04",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+    "sha256": "df28db81cc3ee59f3614c16bc45336049081228f394a9820abcbe58471b97275",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/index.md",
+    "sha256": "ee5d37867817a1a32e23bef4fc5752ba6cd5ace7fc67ac9ad7fb8ce0f6c669a6",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/index.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11.md",
+    "sha256": "43c6149a135a6f4030e72313bfaf49ed41a9767674f39aa5254edc15611e7f3d",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/02-matrice-copertura-didattica.md",
+    "sha256": "a851b2e2ef2d3151a397b6937570ed5617b62d0cb9619907d2a737175e73e799",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/02-matrice-copertura-didattica.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/17-bibbia-del-modulo.md",
+    "sha256": "f1d2b37dbd555093e27bbd57cc5bf81c096be90055dde673ae6fbcdbb50e7079",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/17-bibbia-del-modulo.md"
+  },
+  {
+    "path": "wiki/books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/index.md",
+    "sha256": "449d764c63d0a2094f04a531e86f18835b5cfd566b41dd931276e8d4e4d49d9d",
+    "snapshot": "snapshot/wiki/books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/index.md"
+  },
+  {
+    "path": "wiki/sources/acque-scarichi-servizio-idrico-quadro-ufficiale-2026.md",
+    "sha256": "9518fd6dbddd007d14b6abae15041c49e39cb034908f0cf6ad700ae9155c75a5",
+    "snapshot": "snapshot/wiki/sources/acque-scarichi-servizio-idrico-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md",
+    "sha256": "f90b069c2904e90ba77038eadd7f16c5b87ed2b2fea87df1527b13d621ce1a35",
+    "snapshot": "snapshot/wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026.md",
+    "sha256": "3eb57385530bb598af9ac4b6d12f5f9510101173e9402a98426600b222d97df0",
+    "snapshot": "snapshot/wiki/sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/ambiente-controlli-locali-d-lgs-152-2006.md",
+    "sha256": "8fe1c0b56ce066671cf180cd7f72ae694d51064a08f2ca68135a47ab1c72f7af",
+    "snapshot": "snapshot/wiki/sources/ambiente-controlli-locali-d-lgs-152-2006.md"
+  },
+  {
+    "path": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+    "sha256": "a1d264559635b8b11ff75f72a3f9be33c6bddf352dfa24f8af8f521e8bdcbf9f",
+    "snapshot": "snapshot/wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md"
+  },
+  {
+    "path": "wiki/sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md",
+    "sha256": "fa35087a555dc7df9747b773b63e55f9cd9fc18fd27ebef8e3d65baa33cb1e06",
+    "snapshot": "snapshot/wiki/sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md"
+  },
+  {
+    "path": "wiki/sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026.md",
+    "sha256": "b083d29a79e187fa6db6dd6a06780a11cf50b46ab14d6c5e487bf8f13a267bf5",
+    "snapshot": "snapshot/wiki/sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026.md",
+    "sha256": "a3c29cf7f34585228f5b04bd9ac146add692b7e33bfb730c01a5e35413f57400",
+    "snapshot": "snapshot/wiki/sources/bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/clima-energia-rinnovabili-cer-efficienza-quadro-ufficiale-2026.md",
+    "sha256": "ce4684e0da984fdd907406c9e90b0ef4127fbc66f1ded1a1585075b45f558816",
+    "snapshot": "snapshot/wiki/sources/clima-energia-rinnovabili-cer-efficienza-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026.md",
+    "sha256": "1b164d2147436ebc578013d72785743d39fc625aebfe19dc53f5efc92018947c",
+    "snapshot": "snapshot/wiki/sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/dnsh-cam-ciclo-vita-sostenibilita-pa-quadro-ufficiale-2026.md",
+    "sha256": "1a6ac164a2fe9604f07f248bffe21baec434a8f4d596a436523b4a3ae0fd809e",
+    "snapshot": "snapshot/wiki/sources/dnsh-cam-ciclo-vita-sostenibilita-pa-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/laboratorio-casi-quesiti-sintetici-vol-11-2026.md",
+    "sha256": "1e58fbd79c3f3148f0d553d8dac2ee9f55f45cb6e6254cd5081cfd0929b1fcbf",
+    "snapshot": "snapshot/wiki/sources/laboratorio-casi-quesiti-sintetici-vol-11-2026.md"
+  },
+  {
+    "path": "wiki/sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md",
+    "sha256": "1691e1b2d1a90fdba4bd3e653455824ebf99c7316dfc40dc2df1c97a2c531b9f",
+    "snapshot": "snapshot/wiki/sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md"
+  },
+  {
+    "path": "wiki/sources/legge-689-procedura-verifica-2026-10-03.md",
+    "sha256": "37cb276ae59b9414bf43b9cc03dfd6c9f05892137c0fd2967c26575c8c098e3d",
+    "snapshot": "snapshot/wiki/sources/legge-689-procedura-verifica-2026-10-03.md"
+  },
+  {
+    "path": "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md",
+    "sha256": "4bc0fd258c37f32aec869c8bf87cddde6c2940c9ad6c2a9ecfb48878e148da52",
+    "snapshot": "snapshot/wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md"
+  },
+  {
+    "path": "wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+    "sha256": "4db2cb2c39ce6b5abfbfad67f81cacd867a991aa7d96a11417766decc3e6f458",
+    "snapshot": "snapshot/wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md"
+  },
+  {
+    "path": "wiki/sources/rifiuti-rentri-fir-mud-quadro-ufficiale-2026.md",
+    "sha256": "eb190928bf3865bbba956ef443904cf1694ed26f1a393572b638dbf66340020a",
+    "snapshot": "snapshot/wiki/sources/rifiuti-rentri-fir-mud-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026.md",
+    "sha256": "a5a84bb4bcae763c5f37d6de3e49fd6671931ca9e1b9b2db9c030cf32c864e10",
+    "snapshot": "snapshot/wiki/sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026.md"
+  },
+  {
+    "path": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+    "sha256": "9c95189551a5964a77f80808d35719ff0b7733f6429d80c69654978f9e032999",
+    "snapshot": "snapshot/wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md"
+  },
+  {
+    "path": "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md",
+    "sha256": "40366885ddd5eb8bb8e16e08490b2a98b86570995690d6a04be5d43b45b762f1",
+    "snapshot": "snapshot/wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md"
+  },
+  {
+    "path": "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md",
+    "sha256": "d9150bdd8f6d34bc57069e78fddb11f56ace2034d191692ef9896cb05890e1db",
+    "snapshot": "snapshot/wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md"
+  },
+  {
+    "path": "wiki/sources/vol-11-ambiente-rettifiche-2026-10-03.md",
+    "sha256": "caaa7d7a8998927b8d7992d3515f8bc01a9fc28bb256a2396226f16b4a2789d2",
+    "snapshot": "snapshot/wiki/sources/vol-11-ambiente-rettifiche-2026-10-03.md"
+  },
+  {
+    "path": "wiki/sources/vol-11-energia-sostenibilita-verifica-2026-10-03.md",
+    "sha256": "c747f4040896aa08bc731d55ea13c3f3a1e3354908d3ede76c308b125c39df67",
+    "snapshot": "snapshot/wiki/sources/vol-11-energia-sostenibilita-verifica-2026-10-03.md"
+  },
+  {
+    "path": "wiki/sources/vol-11-protezione-civile-verifica-2026-10-03.md",
+    "sha256": "ced232365171cbd86ccad964bcf0ebcc03618f2ae34b72c4e4fb0d5a57ce279b",
+    "snapshot": "snapshot/wiki/sources/vol-11-protezione-civile-verifica-2026-10-03.md"
+  },
+  {
+    "path": "wiki/sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03.md",
+    "sha256": "0b72e4e287001f301d51b54e1920b5ff60cf82dfd1dff0bd52284ac9baeca7eb",
+    "snapshot": "snapshot/wiki/sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03.md"
+  },
+  {
+    "path": "wiki/topics/ambiente-rettifiche-2026.md",
+    "sha256": "9cc4f7d75750fb951e4a1f5f6e1cebf56e6660588b3d31998e2b437b4c1e406e",
+    "snapshot": "snapshot/wiki/topics/ambiente-rettifiche-2026.md"
+  }
+]

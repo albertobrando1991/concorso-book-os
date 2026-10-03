@@ -1,0 +1,32 @@
+[
+  {
+    "chapter": 7,
+    "old": "DevOps mette in relazione sviluppo, rilascio ed esercizio. Il suo risultato atteso è una modifica identificabile, verificata e recuperabile, non una sequenza più veloce di passaggi non controllati.",
+    "new": "",
+    "reason": "concetto già sviluppato nel nucleo; preservati passaggi non ripetuti"
+  },
+  {
+    "chapter": 7,
+    "old": "L'Infrastructure as Code applica lo stesso principio alla configurazione. Una modifica a rete, capacità o ambiente non resta in una console amministrativa priva di storia: viene proposta, letta, testata e applicata con un identificativo. Il vantaggio non è l'assenza di errori, ma la possibilità di confrontare lo stato previsto con quello reale e di riprodurre un ambiente. Gli elementi sensibili, come segreti e credenziali, non vanno copiati nei file ordinari: richiedono gestione separata e accessi controllati. Dopo un rilascio il lavoro continua con la verifica delle funzioni, delle prestazioni e degli effetti sui dati.",
+    "new": "Dopo il rilascio si verificano funzioni, prestazioni ed effetti sui dati; la configurazione versionata conserva il collegamento tra modifica ed esito.",
+    "reason": "concetto già sviluppato nel nucleo; preservati passaggi non ripetuti"
+  },
+  {
+    "chapter": 7,
+    "old": "Un servizio governato produce segnali leggibili e li collega a decisioni. Osservare non significa accumulare dati: significa poter spiegare un degrado, decidere una priorità e verificare se l'intervento ha funzionato.",
+    "new": "",
+    "reason": "concetto già sviluppato nel nucleo; preservati passaggi non ripetuti"
+  },
+  {
+    "chapter": 12,
+    "old": "La scelta resta quindi un atto di governo: documentare assunzioni, alternative scartate, dipendenze e criterio di verifica rende la decisione esaminabile anche quando cambiano persone o fornitori. Il costo iniziale non esaurisce la valutazione: migrazione, formazione, integrazioni, manutenzione, crescita dei volumi e uscita possono modificare il costo effettivo del servizio. Una risposta concorsuale completa esplicita questo ciclo e non presenta make, buy o reuse come formule automatiche.",
+    "new": "Conserva motivazione e alternative scartate: chi subentra deve poter riesaminare la decisione se cambiano fabbisogno o costi.",
+    "reason": "concetto già sviluppato nel nucleo; preservati passaggi non ripetuti"
+  },
+  {
+    "chapter": 13,
+    "old": "Rileggi il testo cercando la catena requisito, scelta, rischio, controllo, evidenza. Se un paragrafo non entra nella catena, chiediti se è davvero pertinente. Se una scelta non ha un limite, un rischio o una verifica, probabilmente è ancora un'affermazione astratta. Questo controllo evita sia l'elenco di prodotti sia l'architettura universale immaginaria.",
+    "new": "",
+    "reason": "concetto già sviluppato nel nucleo; preservati passaggi non ripetuti"
+  }
+]

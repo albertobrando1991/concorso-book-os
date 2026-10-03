@@ -34,3 +34,8 @@ Nei capitoli M-FC04 il casellario serve a spiegare come un dato giudiziario dive
 
 ## Note di review
 Prima della pubblicazione verificare testo vigente del D.P.R. 313/2002, stato del certificato nazionale dei carichi pendenti, istruzioni Ministero della giustizia su SIC/CERPA/SAC/ECRIS e limiti privacy aggiornati.
+
+
+## Casellario — verifica del 3 ottobre 2026
+
+[[sources/vol-04-casellario-verifica-2026-10-03]] distingue iscrizione, menzionabilita ed eliminazione, obbligo25bis, carichi da qualita imputato, art39PDND e accordi, rimedio40.

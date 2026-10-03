@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/planning/00-scheda-pipeline.md",
   "specHash": "sha256:9b1e66289415c3b991ef2d9cc52a2cd4e40830108670b2e20e1edbbf70340df5",
   "createdAt": "2026-08-07T14:01:35.080Z",
-  "updatedAt": "2026-08-21T15:36:22.605Z",
+  "updatedAt": "2026-10-03T11:31:13.734Z",
   "steps": [
     {
       "key": "00:VOL-11",
@@ -2011,17 +2011,20 @@
       "target": "moduli/m-tr04-ambiente-protezione-civile",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata dei 44 rilievi integrali: teoria, casi, fonti 2026 e apparati; nessuna pubblicabilità anticipata.",
+        "reopen: P11-02: due ID interni ancora visibili; P11-01: intestazione spezzata. Delta di produzione e nuovo freeze."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:23:57.999Z",
+      "startedAt": "2026-10-03T11:28:42.595Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-21T15:24:00.845Z"
+      "finishedAt": "2026-10-03T11:29:49.759Z"
     },
     {
       "key": "15:moduli/m-tr04-ambiente-protezione-civile",
@@ -2035,13 +2038,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:24:12.060Z",
+      "startedAt": "2026-10-03T11:30:27.925Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-21T15:24:14.929Z"
+      "finishedAt": "2026-10-03T11:30:32.408Z"
     },
     {
       "key": "16:moduli/m-tr04-ambiente-protezione-civile",
@@ -2055,7 +2058,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:24:44.694Z",
+      "startedAt": "2026-10-03T11:30:59.781Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2067,14 +2070,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Ricertificazione manuale 2026-08-21 dopo correzione codifica cap.03: 14/14 capitoli, 90 nuclei completi, gate 10-15 verdi, zero warning, review_required=false, residui mojibake/accenti sostitutivi assenti, manifest 18 file con SHA-256 ricontrollati e zero mismatch."
+            "message": "Chiusura manuale di info: Verifica manuale: tutti30file confrontati con SHA256; soli4delta controllati, altri26immutati. Intestazione e formula rilette; 30000x0.25/1000=7.5t. Due metadati audit rilevati correttamente dal prompt15. Gate14/15 passati. Nessun signoff produzione."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-21T15:24:58.514Z"
+      "finishedAt": "2026-10-03T11:31:12.671Z"
     },
     {
       "key": "21:VOL-11",
@@ -2082,19 +2085,13 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-11",
-      "status": "done",
+      "status": "in-progress",
       "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:25:11.183Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-21T15:29:01.543Z"
+      "startedAt": "2026-10-03T11:31:13.734Z"
     },
     {
       "key": "22:VOL-11",
@@ -2102,32 +2099,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-11",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-21T15:29:15.025Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-11"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Preflight manuale completato e documentato: 14/14 capitoli e metadati verificati; 56 source_refs e 14 wikilink risolti; zero caratteri corrotti; 90 tabelle; git diff --check, 64 suite/537 test, typecheck e build tutti PASS; PDF 225 pagine con font incorporati, dimensioni e margini conformi; tutte le pagine ispezionate e le 14 pagine cambiate riesaminate."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-21T15:34:37.893Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-11",
@@ -2135,32 +2109,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-11",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-21T15:34:45.214Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-11"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Pacchetto candidato VOL-11-candidate-2026.08.21.1 verificato: PDF 225 pagine e 1.572.227 byte con SHA-256 83f89a8ac7c9bc950cdd6a7df79526a97dea3641c7a34cc8314da8e5c7f8bdcf; VERSION.json valido; manifest con 9 file e zero mismatch; report, preflight, changelog, limiti, manutenzione e checklist presenti; git diff --check senza errori; log, cache, temporanei e altri volumi esclusi. Restano allo step 24 i controlli umani e commerciali."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-21T15:36:22.605Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "24:VOL-11",
@@ -2170,7 +2121,9 @@
       "target": "VOL-11",
       "status": "pending",
       "attempts": 0,
-      "evidence": []
+      "evidence": [
+        "reopen: P11-02: due ID interni ancora visibili; P11-01: intestazione spezzata. Delta di produzione e nuovo freeze."
+      ]
     }
   ]
 }

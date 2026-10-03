@@ -1,0 +1,254 @@
+[
+  {
+    "chapter": 1,
+    "question": 1,
+    "oldKey": "A",
+    "newKey": "D",
+    "addedDistractor": "Funzione giudicante del pubblico ministero e controllo amministrativo del giudice."
+  },
+  {
+    "chapter": 1,
+    "question": 2,
+    "oldKey": "C",
+    "newKey": "D",
+    "addedDistractor": "Cancelleria civile, limitatamente al rilascio delle copie dei provvedimenti."
+  },
+  {
+    "chapter": 1,
+    "question": 3,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "Studiando soltanto le mansioni riportate nell’organigramma dell’ufficio."
+  },
+  {
+    "chapter": 1,
+    "question": 4,
+    "oldKey": "A",
+    "newKey": "A",
+    "addedDistractor": "Gestione generale del tempo nel volume Giustizia; atti del fascicolo UPP nel manuale base."
+  },
+  {
+    "chapter": 1,
+    "question": 5,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "Procedimenti disciplinari del personale ministeriale, senza studio dell’esecuzione penale."
+  },
+  {
+    "chapter": 1,
+    "question": 6,
+    "oldKey": "C",
+    "newKey": "C",
+    "addedDistractor": "La descrizione sintetica pubblicata in una pagina promozionale della selezione."
+  },
+  {
+    "chapter": 2,
+    "question": 1,
+    "oldKey": "B",
+    "newKey": "D",
+    "addedDistractor": "DAG, DOG, DIT, DAP e Direzione generale degli archivi notarili."
+  },
+  {
+    "chapter": 2,
+    "question": 2,
+    "oldKey": "C",
+    "newKey": "C",
+    "addedDistractor": "Usarlo come denominazione attuale dell’intero Dipartimento dell’organizzazione giudiziaria."
+  },
+  {
+    "chapter": 2,
+    "question": 3,
+    "oldKey": "A",
+    "newKey": "D",
+    "addedDistractor": "DAG, in quanto ogni rapporto di lavoro costituisce un affare di giustizia."
+  },
+  {
+    "chapter": 2,
+    "question": 4,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "DAP, anche per la generalità delle richieste civili internazionali."
+  },
+  {
+    "chapter": 2,
+    "question": 5,
+    "oldKey": "A",
+    "newKey": "A",
+    "addedDistractor": "DAP per tutti gli interventi sui minorenni; DGMC soltanto per le adozioni internazionali."
+  },
+  {
+    "chapter": 2,
+    "question": 6,
+    "oldKey": "C",
+    "newKey": "C",
+    "addedDistractor": "DGSTAT per le applicazioni processuali e DGSAP per la sola statistica giudiziaria."
+  },
+  {
+    "chapter": 3,
+    "question": 1,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "Il tribunale opera sul distretto e la corte d’appello sull’intero territorio nazionale."
+  },
+  {
+    "chapter": 3,
+    "question": 2,
+    "oldKey": "C",
+    "newKey": "D",
+    "addedDistractor": "Un magistrato togato e sei giudici popolari, mentre il tribunale collegiale ha due togati."
+  },
+  {
+    "chapter": 3,
+    "question": 3,
+    "oldKey": "A",
+    "newKey": "A",
+    "addedDistractor": "Il dirigente amministrativo della procura, che impartisce le direttive investigative."
+  },
+  {
+    "chapter": 3,
+    "question": 4,
+    "oldKey": "C",
+    "newKey": "C",
+    "addedDistractor": "Il Ministero approva il programma annuale in sostituzione dei due responsabili dell’ufficio."
+  },
+  {
+    "chapter": 3,
+    "question": 5,
+    "oldKey": "A",
+    "newKey": "D",
+    "addedDistractor": "Sì, purché il capo dell’ufficio autorizzi ogni spesa anche oltre le risorse assegnate."
+  },
+  {
+    "chapter": 3,
+    "question": 6,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "È sempre una funzione collegiale della corte d’appello."
+  },
+  {
+    "chapter": 4,
+    "question": 1,
+    "oldKey": "C",
+    "newKey": "C",
+    "addedDistractor": "Gli addetti amministrativi nominati dal dirigente sostituiscono i magistrati nel coordinamento."
+  },
+  {
+    "chapter": 4,
+    "question": 2,
+    "oldKey": "A",
+    "newKey": "A",
+    "addedDistractor": "Il Ministero adotta direttamente ogni progetto organizzativo locale senza intervento del capo dell’ufficio."
+  },
+  {
+    "chapter": 4,
+    "question": 3,
+    "oldKey": "B",
+    "newKey": "D",
+    "addedDistractor": "Sì, perché ogni segreteria del pubblico ministero coincide per legge con un UPP."
+  },
+  {
+    "chapter": 4,
+    "question": 4,
+    "oldKey": "A",
+    "newKey": "D",
+    "addedDistractor": "La conversione ha effetto soltanto dopo una successiva circolare ministeriale."
+  },
+  {
+    "chapter": 4,
+    "question": 5,
+    "oldKey": "C",
+    "newKey": "C",
+    "addedDistractor": "Sì, ma le attività di cancelleria diventano la funzione esclusiva di ogni addetto UPP."
+  },
+  {
+    "chapter": 4,
+    "question": 6,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "L’addetto firma il provvedimento se il magistrato ha approvato oralmente la bozza."
+  },
+  {
+    "chapter": 5,
+    "question": 1,
+    "oldKey": "C",
+    "newKey": "C",
+    "addedDistractor": "Dimostra da sola la responsabilità del trasportatore per tutti i danni denunciati."
+  },
+  {
+    "chapter": 5,
+    "question": 2,
+    "oldKey": "A",
+    "newKey": "A",
+    "addedDistractor": "Prova l’estinzione integrale del debito, indipendentemente dall’importo ordinato."
+  },
+  {
+    "chapter": 5,
+    "question": 3,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "La selezione dipende esclusivamente dalla data di pubblicazione delle sentenze reperite."
+  },
+  {
+    "chapter": 5,
+    "question": 4,
+    "oldKey": "C",
+    "newKey": "D",
+    "addedDistractor": "L’addetto considera tempestiva ogni memoria presente nel fascicolo senza confrontare le date."
+  },
+  {
+    "chapter": 5,
+    "question": 5,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "Si ordinano prima i documenti favorevoli all’attore e poi quelli favorevoli al convenuto."
+  },
+  {
+    "chapter": 5,
+    "question": 6,
+    "oldKey": "A",
+    "newKey": "D",
+    "addedDistractor": "Si registra l’accoglimento della domanda salvo successiva modifica del giudice."
+  },
+  {
+    "chapter": 6,
+    "question": 1,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "Almeno quaranta giorni prima dell’udienza, in tutti i casi del rito ordinario."
+  },
+  {
+    "chapter": 6,
+    "question": 2,
+    "oldKey": "A",
+    "newKey": "A",
+    "addedDistractor": "Quaranta, venti e dieci giorni dalla notificazione della citazione."
+  },
+  {
+    "chapter": 6,
+    "question": 3,
+    "oldKey": "C",
+    "newKey": "D",
+    "addedDistractor": "Sessanta giorni liberi anche quando la notificazione avviene in Italia."
+  },
+  {
+    "chapter": 6,
+    "question": 4,
+    "oldKey": "B",
+    "newKey": "B",
+    "addedDistractor": "Fa decorrere il termine breve soltanto quando il destinatario legge materialmente la PEC."
+  },
+  {
+    "chapter": 6,
+    "question": 5,
+    "oldKey": "A",
+    "newKey": "A",
+    "addedDistractor": "Il termine si proroga automaticamente di tanti giorni quanti sono i festivi del mese."
+  },
+  {
+    "chapter": 6,
+    "question": 6,
+    "oldKey": "C",
+    "newKey": "C",
+    "addedDistractor": "Ordinanza e decreto devono sempre avere la stessa motivazione analitica della sentenza."
+  }
+]

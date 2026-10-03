@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Calendario unico a blocchi</title>
+  <desc id="desc">Un solo calendario: comune, specifico, output e controllo.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Calendario unico a blocchi</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Un solo calendario: comune, specifico, output e controllo.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <text class="label navy" x="800" y="225" text-anchor="middle">Ogni blocco deve avere un'etichetta: comune, specifico, output o controllo</text>
+    <g data-safe-box="155 285 185 340 4">
+    <rect x="155" y="285" width="185" height="340" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="label" x="247.5" y="339" text-anchor="middle">Lun</text>
+
+      <rect x="173" y="377" width="150" height="82" rx="16" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+      <text class="small strong" x="248" y="427" text-anchor="middle" fill="#10233F">Comune</text>
+
+      <rect x="173" y="489" width="150" height="82" rx="16" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+      <text class="small strong" x="248" y="539" text-anchor="middle" fill="#2F7D5A">Output</text>
+  </g>
+<g data-safe-box="370 285 185 340 4">
+    <rect x="370" y="285" width="185" height="340" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="label" x="462.5" y="339" text-anchor="middle">Mar</text>
+
+      <rect x="388" y="377" width="150" height="82" rx="16" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+      <text class="small strong" x="463" y="427" text-anchor="middle" fill="#7A2430">Specifico</text>
+
+      <rect x="388" y="489" width="150" height="82" rx="16" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+      <text class="small strong" x="463" y="539" text-anchor="middle" fill="#10233F">Comune</text>
+  </g>
+<g data-safe-box="585 285 185 340 4">
+    <rect x="585" y="285" width="185" height="340" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="label" x="677.5" y="339" text-anchor="middle">Mer</text>
+
+      <rect x="603" y="377" width="150" height="82" rx="16" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+      <text class="small strong" x="678" y="427" text-anchor="middle" fill="#2F7D5A">Output</text>
+
+      <rect x="603" y="489" width="150" height="82" rx="16" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+      <text class="small strong" x="678" y="539" text-anchor="middle" fill="#1F6F78">Controllo</text>
+  </g>
+<g data-safe-box="800 285 185 340 4">
+    <rect x="800" y="285" width="185" height="340" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="label" x="892.5" y="339" text-anchor="middle">Gio</text>
+
+      <rect x="818" y="377" width="150" height="82" rx="16" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+      <text class="small strong" x="893" y="427" text-anchor="middle" fill="#10233F">Comune</text>
+
+      <rect x="818" y="489" width="150" height="82" rx="16" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+      <text class="small strong" x="893" y="539" text-anchor="middle" fill="#7A2430">Specifico</text>
+  </g>
+<g data-safe-box="1015 285 185 340 4">
+    <rect x="1015" y="285" width="185" height="340" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="label" x="1107.5" y="339" text-anchor="middle">Ven</text>
+
+      <rect x="1033" y="377" width="150" height="82" rx="16" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+      <text class="small strong" x="1108" y="427" text-anchor="middle" fill="#1F6F78">Controllo</text>
+
+      <rect x="1033" y="489" width="150" height="82" rx="16" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+      <text class="small strong" x="1108" y="539" text-anchor="middle" fill="#2F7D5A">Output</text>
+  </g>
+<g data-safe-box="1230 285 185 340 4">
+    <rect x="1230" y="285" width="185" height="340" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="label" x="1322.5" y="339" text-anchor="middle">Sab</text>
+
+      <rect x="1248" y="377" width="150" height="82" rx="16" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+      <text class="small strong" x="1323" y="427" text-anchor="middle" fill="#10233F">Comune</text>
+
+      <rect x="1248" y="489" width="150" height="82" rx="16" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+      <text class="small strong" x="1323" y="539" text-anchor="middle" fill="#D4AF37">Recupero</text>
+  </g>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Calendari separati nascondono dispersione; il calendario unico la rende visibile.</text>
+  </g>
+
+</svg>

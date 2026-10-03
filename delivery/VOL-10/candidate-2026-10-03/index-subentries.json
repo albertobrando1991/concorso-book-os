@@ -1,0 +1,622 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-10-final-20261003-proof.pdf",
+  "entries": [
+    {
+      "number": "1.1",
+      "title": "Quattro profili, molti programmi",
+      "indexPage": 6,
+      "targetPage": 11,
+      "match": true
+    },
+    {
+      "number": "1.2",
+      "title": "Dove lavora il tecnico pubblico",
+      "indexPage": 6,
+      "targetPage": 12,
+      "match": true
+    },
+    {
+      "number": "1.3",
+      "title": "Leggere un bando tecnico",
+      "indexPage": 6,
+      "targetPage": 12,
+      "match": true
+    },
+    {
+      "number": "1.4",
+      "title": "Bando Decoder tecnico",
+      "indexPage": 6,
+      "targetPage": 13,
+      "match": true
+    },
+    {
+      "number": "1.5",
+      "title": "Caso guidato: tre bandi, tre piani",
+      "indexPage": 6,
+      "targetPage": 14,
+      "match": true
+    },
+    {
+      "number": "2.1",
+      "title": "Che cos’è un ufficio tecnico pubblico",
+      "indexPage": 6,
+      "targetPage": 18,
+      "match": true
+    },
+    {
+      "number": "2.2",
+      "title": "Dal fatto al procedimento",
+      "indexPage": 6,
+      "targetPage": 19,
+      "match": true
+    },
+    {
+      "number": "2.3",
+      "title": "I documenti del tecnico",
+      "indexPage": 6,
+      "targetPage": 19,
+      "match": true
+    },
+    {
+      "number": "2.4",
+      "title": "Tracciabilità e fascicolo",
+      "indexPage": 6,
+      "targetPage": 21,
+      "match": true
+    },
+    {
+      "number": "2.5",
+      "title": "Responsabilità: una mappa per funzioni",
+      "indexPage": 6,
+      "targetPage": 21,
+      "match": true
+    },
+    {
+      "number": "2.6",
+      "title": "Coordinamento e conferenza di servizi",
+      "indexPage": 6,
+      "targetPage": 22,
+      "match": true
+    },
+    {
+      "number": "2.7",
+      "title": "Caso guidato: un sopralluogo su un immobile comunale",
+      "indexPage": 6,
+      "targetPage": 22,
+      "match": true
+    },
+    {
+      "number": "3.1",
+      "title": "Dalla struttura reale al modello",
+      "indexPage": 6,
+      "targetPage": 26,
+      "match": true
+    },
+    {
+      "number": "3.2",
+      "title": "Azioni, reazioni ed equilibrio",
+      "indexPage": 6,
+      "targetPage": 28,
+      "match": true
+    },
+    {
+      "number": "3.3",
+      "title": "Sollecitazioni interne",
+      "indexPage": 6,
+      "targetPage": 29,
+      "match": true
+    },
+    {
+      "number": "3.4",
+      "title": "Tensione e deformazione",
+      "indexPage": 6,
+      "targetPage": 32,
+      "match": true
+    },
+    {
+      "number": "3.5",
+      "title": "Proprietà e comportamento dei materiali",
+      "indexPage": 6,
+      "targetPage": 32,
+      "match": true
+    },
+    {
+      "number": "3.6",
+      "title": "Cinque prestazioni da non confondere",
+      "indexPage": 6,
+      "targetPage": 32,
+      "match": true
+    },
+    {
+      "number": "3.7",
+      "title": "Caso guidato: un elemento compresso",
+      "indexPage": 6,
+      "targetPage": 33,
+      "match": true
+    },
+    {
+      "number": "4.1",
+      "title": "Dalla regola tecnica al percorso di verifica",
+      "indexPage": 6,
+      "targetPage": 36,
+      "match": true
+    },
+    {
+      "number": "4.2",
+      "title": "Vita nominale, classe d’uso e periodo di riferimento",
+      "indexPage": 6,
+      "targetPage": 37,
+      "match": true
+    },
+    {
+      "number": "4.3",
+      "title": "Stati limite, azioni e verifiche",
+      "indexPage": 6,
+      "targetPage": 38,
+      "match": true
+    },
+    {
+      "number": "4.4",
+      "title": "Principi di progettazione sismica",
+      "indexPage": 6,
+      "targetPage": 40,
+      "match": true
+    },
+    {
+      "number": "4.5",
+      "title": "Geologia, geotecnica e modello del sottosuolo",
+      "indexPage": 6,
+      "targetPage": 41,
+      "match": true
+    },
+    {
+      "number": "4.6",
+      "title": "Fondazioni e interazione terreno–struttura",
+      "indexPage": 6,
+      "targetPage": 41,
+      "match": true
+    },
+    {
+      "number": "4.7",
+      "title": "Costruzioni esistenti, controlli e collaudo statico",
+      "indexPage": 6,
+      "targetPage": 42,
+      "match": true
+    },
+    {
+      "number": "4.8",
+      "title": "Caso guidato: edificio pubblico su un sito complesso",
+      "indexPage": 6,
+      "targetPage": 43,
+      "match": true
+    },
+    {
+      "number": "5.1",
+      "title": "Un sistema multilivello",
+      "indexPage": 6,
+      "targetPage": 47,
+      "match": true
+    },
+    {
+      "number": "5.2",
+      "title": "Piani: funzione, contenuto ed effetti",
+      "indexPage": 6,
+      "targetPage": 47,
+      "match": true
+    },
+    {
+      "number": "5.3",
+      "title": "Zonizzazione, destinazioni e standard",
+      "indexPage": 6,
+      "targetPage": 47,
+      "match": true
+    },
+    {
+      "number": "5.4",
+      "title": "Dal piano all’intervento",
+      "indexPage": 6,
+      "targetPage": 49,
+      "match": true
+    },
+    {
+      "number": "5.5",
+      "title": "Vincoli: fonte, effetto, durata",
+      "indexPage": 6,
+      "targetPage": 49,
+      "match": true
+    },
+    {
+      "number": "5.6",
+      "title": "Espropriazione e pianificazione",
+      "indexPage": 7,
+      "targetPage": 50,
+      "match": true
+    },
+    {
+      "number": "5.7",
+      "title": "Paesaggio e governo del territorio",
+      "indexPage": 7,
+      "targetPage": 51,
+      "match": true
+    },
+    {
+      "number": "5.8",
+      "title": "Caso guidato: area destinata a servizio",
+      "indexPage": 7,
+      "targetPage": 52,
+      "match": true
+    },
+    {
+      "number": "6.1",
+      "title": "Urbanistica ed edilizia: il confine operativo",
+      "indexPage": 7,
+      "targetPage": 55,
+      "match": true
+    },
+    {
+      "number": "6.2",
+      "title": "Dall’opera alla categoria di intervento",
+      "indexPage": 7,
+      "targetPage": 55,
+      "match": true
+    },
+    {
+      "number": "6.3",
+      "title": "Regimi e titoli edilizi",
+      "indexPage": 7,
+      "targetPage": 56,
+      "match": true
+    },
+    {
+      "number": "6.4",
+      "title": "SUE e istruttoria della pratica",
+      "indexPage": 7,
+      "targetPage": 59,
+      "match": true
+    },
+    {
+      "number": "6.5",
+      "title": "Stato legittimo, conformità e agibilità",
+      "indexPage": 7,
+      "targetPage": 59,
+      "match": true
+    },
+    {
+      "number": "6.6",
+      "title": "Vigilanza e abusi edilizi",
+      "indexPage": 7,
+      "targetPage": 60,
+      "match": true
+    },
+    {
+      "number": "6.7",
+      "title": "Caso guidato: trasformazione di un immobile esistente",
+      "indexPage": 7,
+      "targetPage": 62,
+      "match": true
+    },
+    {
+      "number": "6.8",
+      "title": "Griglia di qualificazione",
+      "indexPage": 7,
+      "targetPage": 63,
+      "match": true
+    },
+    {
+      "number": "7.1",
+      "title": "La progettazione nel ciclo dell’opera",
+      "indexPage": 7,
+      "targetPage": 65,
+      "match": true
+    },
+    {
+      "number": "7.2",
+      "title": "Quadro esigenziale e DIP",
+      "indexPage": 7,
+      "targetPage": 66,
+      "match": true
+    },
+    {
+      "number": "7.3",
+      "title": "I livelli della progettazione",
+      "indexPage": 7,
+      "targetPage": 67,
+      "match": true
+    },
+    {
+      "number": "7.4",
+      "title": "Elaborati e coordinamento interdisciplinare",
+      "indexPage": 7,
+      "targetPage": 68,
+      "match": true
+    },
+    {
+      "number": "7.5",
+      "title": "Soggetti e responsabilità",
+      "indexPage": 7,
+      "targetPage": 69,
+      "match": true
+    },
+    {
+      "number": "7.6",
+      "title": "Verifica e validazione",
+      "indexPage": 7,
+      "targetPage": 70,
+      "match": true
+    },
+    {
+      "number": "7.7",
+      "title": "Caso guidato: riqualificare e ampliare una scuola",
+      "indexPage": 7,
+      "targetPage": 71,
+      "match": true
+    },
+    {
+      "number": "8.1",
+      "title": "Dalla stipula all'avvio dei lavori",
+      "indexPage": 7,
+      "targetPage": 73,
+      "match": true
+    },
+    {
+      "number": "8.2",
+      "title": "I soggetti dell'esecuzione",
+      "indexPage": 7,
+      "targetPage": 74,
+      "match": true
+    },
+    {
+      "number": "8.3",
+      "title": "Direzione e controllo in corso d'opera",
+      "indexPage": 7,
+      "targetPage": 75,
+      "match": true
+    },
+    {
+      "number": "8.4",
+      "title": "Modifiche, sospensioni e contestazioni",
+      "indexPage": 7,
+      "targetPage": 76,
+      "match": true
+    },
+    {
+      "number": "8.5",
+      "title": "Sicurezza del cantiere",
+      "indexPage": 7,
+      "targetPage": 78,
+      "match": true
+    },
+    {
+      "number": "8.6",
+      "title": "Ultimazione e passaggio ai controlli finali",
+      "indexPage": 7,
+      "targetPage": 79,
+      "match": true
+    },
+    {
+      "number": "8.7",
+      "title": "Caso guidato: riqualificazione di una scuola",
+      "indexPage": 7,
+      "targetPage": 79,
+      "match": true
+    },
+    {
+      "number": "9.1",
+      "title": "Dall'ultimazione al controllo finale",
+      "indexPage": 7,
+      "targetPage": 82,
+      "match": true
+    },
+    {
+      "number": "9.2",
+      "title": "Tipi di controllo e certificati",
+      "indexPage": 7,
+      "targetPage": 83,
+      "match": true
+    },
+    {
+      "number": "9.3",
+      "title": "Soggetti, operazioni ed esito",
+      "indexPage": 7,
+      "targetPage": 85,
+      "match": true
+    },
+    {
+      "number": "9.4",
+      "title": "Dalla consegna alla gestione",
+      "indexPage": 7,
+      "targetPage": 86,
+      "match": true
+    },
+    {
+      "number": "9.5",
+      "title": "Piano di manutenzione e ciclo di vita",
+      "indexPage": 7,
+      "targetPage": 86,
+      "match": true
+    },
+    {
+      "number": "9.6",
+      "title": "Caso guidato: la scuola passa alla gestione",
+      "indexPage": 7,
+      "targetPage": 88,
+      "match": true
+    },
+    {
+      "number": "10.1",
+      "title": "Dalla lavorazione alla stima",
+      "indexPage": 7,
+      "targetPage": 90,
+      "match": true
+    },
+    {
+      "number": "10.2",
+      "title": "Computo e analisi dei prezzi",
+      "indexPage": 7,
+      "targetPage": 91,
+      "match": true
+    },
+    {
+      "number": "10.3",
+      "title": "Capitolati e coerenza degli elaborati",
+      "indexPage": 7,
+      "targetPage": 93,
+      "match": true
+    },
+    {
+      "number": "10.4",
+      "title": "La contabilità dell'esecuzione",
+      "indexPage": 7,
+      "targetPage": 94,
+      "match": true
+    },
+    {
+      "number": "10.5",
+      "title": "Caso guidato: una voce dal computo al SAL",
+      "indexPage": 7,
+      "targetPage": 96,
+      "match": true
+    },
+    {
+      "number": "11.1",
+      "title": "Dalla singola opera alla rete",
+      "indexPage": 8,
+      "targetPage": 98,
+      "match": true
+    },
+    {
+      "number": "11.2",
+      "title": "Leggere un ponte e le opere d'arte",
+      "indexPage": 8,
+      "targetPage": 100,
+      "match": true
+    },
+    {
+      "number": "11.3",
+      "title": "Conoscenza, ispezione e rischio",
+      "indexPage": 8,
+      "targetPage": 101,
+      "match": true
+    },
+    {
+      "number": "11.4",
+      "title": "Monitoraggio e gestione delle anomalie",
+      "indexPage": 8,
+      "targetPage": 102,
+      "match": true
+    },
+    {
+      "number": "11.5",
+      "title": "Manutenzione e priorità di rete",
+      "indexPage": 8,
+      "targetPage": 103,
+      "match": true
+    },
+    {
+      "number": "11.6",
+      "title": "Caso guidato: dal segnale alla decisione",
+      "indexPage": 8,
+      "targetPage": 104,
+      "match": true
+    },
+    {
+      "number": "12.1",
+      "title": "Dal bene al dato e ritorno",
+      "indexPage": 8,
+      "targetPage": 107,
+      "match": true
+    },
+    {
+      "number": "12.2",
+      "title": "BIM e gestione informativa",
+      "indexPage": 8,
+      "targetPage": 108,
+      "match": true
+    },
+    {
+      "number": "12.3",
+      "title": "GIS, cartografia e rilievo",
+      "indexPage": 8,
+      "targetPage": 110,
+      "match": true
+    },
+    {
+      "number": "12.4",
+      "title": "Catasto e dati immobiliari",
+      "indexPage": 8,
+      "targetPage": 111,
+      "match": true
+    },
+    {
+      "number": "12.5",
+      "title": "Patrimonio pubblico e inventario tecnico",
+      "indexPage": 8,
+      "targetPage": 112,
+      "match": true
+    },
+    {
+      "number": "12.6",
+      "title": "Caso guidato: riconciliare i dati di una scuola",
+      "indexPage": 8,
+      "targetPage": 113,
+      "match": true
+    },
+    {
+      "number": "13.1",
+      "title": "Dalla traccia all'output",
+      "indexPage": 8,
+      "targetPage": 115,
+      "match": true
+    },
+    {
+      "number": "13.2",
+      "title": "Criteri di qualità e controllo",
+      "indexPage": 8,
+      "targetPage": 116,
+      "match": true
+    },
+    {
+      "number": "13.3",
+      "title": "Quiz e risposta tecnica sintetica",
+      "indexPage": 8,
+      "targetPage": 117,
+      "match": true
+    },
+    {
+      "number": "13.4",
+      "title": "Prova scritto-grafica e mini-computo",
+      "indexPage": 8,
+      "targetPage": 118,
+      "match": true
+    },
+    {
+      "number": "13.5",
+      "title": "Sopralluogo e relazione tecnica",
+      "indexPage": 8,
+      "targetPage": 119,
+      "match": true
+    },
+    {
+      "number": "13.6",
+      "title": "Caso integrato e risposta orale",
+      "indexPage": 8,
+      "targetPage": 120,
+      "match": true
+    },
+    {
+      "number": "13.7",
+      "title": "Simulazione finale guidata",
+      "indexPage": 8,
+      "targetPage": 121,
+      "match": true
+    },
+    {
+      "number": "13.8",
+      "title": "Diario degli errori tecnico",
+      "indexPage": 8,
+      "targetPage": 126,
+      "match": true
+    }
+  ],
+  "mismatches": []
+}

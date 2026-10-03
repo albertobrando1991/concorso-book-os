@@ -1,0 +1,376 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-12-final-20261003-proof.pdf",
+  "sha256": "70f546098427dd2dfaa02dad1ce8df3ac266f92671e991aa891782809df8ee88",
+  "pages": 492,
+  "domPages": 492,
+  "pageCountMatch": true,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "indexEntries": [
+    {
+      "number": 1,
+      "title": "Mappa della famiglia e struttura della selezione",
+      "indexPage": 6,
+      "printedPage": 13,
+      "actualPage": 13,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md"
+    },
+    {
+      "number": 2,
+      "title": "La tua posizione prima della domanda",
+      "indexPage": 6,
+      "printedPage": 29,
+      "actualPage": 29,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md"
+    },
+    {
+      "number": 3,
+      "title": "I formati della prova scritta",
+      "indexPage": 6,
+      "printedPage": 45,
+      "actualPage": 45,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md"
+    },
+    {
+      "number": 4,
+      "title": "Gli accertamenti e la preparazione",
+      "indexPage": 6,
+      "printedPage": 63,
+      "actualPage": 63,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md"
+    },
+    {
+      "number": 5,
+      "title": "Prova orale, titoli e lingua facoltativa",
+      "indexPage": 6,
+      "printedPage": 78,
+      "actualPage": 78,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md"
+    },
+    {
+      "number": 6,
+      "title": "Le materie: riuso dal VOL-01 e specialistiche",
+      "indexPage": 6,
+      "printedPage": 93,
+      "actualPage": 93,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md"
+    },
+    {
+      "number": 7,
+      "title": "Bando Decoder della famiglia",
+      "indexPage": 7,
+      "printedPage": 109,
+      "actualPage": 109,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md"
+    },
+    {
+      "number": 8,
+      "title": "Piano 30/60/90 a doppio binario",
+      "indexPage": 7,
+      "printedPage": 130,
+      "actualPage": 130,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md"
+    },
+    {
+      "number": 9,
+      "title": "Errori frequenti e casi guidati",
+      "indexPage": 7,
+      "printedPage": 148,
+      "actualPage": 148,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md"
+    },
+    {
+      "number": 10,
+      "title": "Checklist finale del modulo",
+      "indexPage": 7,
+      "printedPage": 166,
+      "actualPage": 166,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md"
+    },
+    {
+      "number": 11,
+      "title": "Mappa della famiglia: ruoli e selezioni",
+      "indexPage": 7,
+      "printedPage": 181,
+      "actualPage": 181,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md"
+    },
+    {
+      "number": 12,
+      "title": "La tua posizione prima della domanda: requisiti, riserve e vie di accesso",
+      "indexPage": 7,
+      "printedPage": 191,
+      "actualPage": 191,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md"
+    },
+    {
+      "number": 13,
+      "title": "La preselezione: un cancello, non un esame",
+      "indexPage": 8,
+      "printedPage": 207,
+      "actualPage": 207,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md"
+    },
+    {
+      "number": 14,
+      "title": "Le prove d'esame: tre prove motorio- attitudinali e i titoli",
+      "indexPage": 8,
+      "printedPage": 221,
+      "actualPage": 221,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md"
+    },
+    {
+      "number": 15,
+      "title": "Prove direttive e percorsi di specializzazione",
+      "indexPage": 8,
+      "printedPage": 237,
+      "actualPage": 237,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md"
+    },
+    {
+      "number": 16,
+      "title": "Materie da riusare e Bando Decoder",
+      "indexPage": 8,
+      "printedPage": 250,
+      "actualPage": 250,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md"
+    },
+    {
+      "number": 17,
+      "title": "Piano 30/60/90 per binario",
+      "indexPage": 8,
+      "printedPage": 262,
+      "actualPage": 262,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md"
+    },
+    {
+      "number": 18,
+      "title": "Errori, casi guidati e checklist finale",
+      "indexPage": 8,
+      "printedPage": 274,
+      "actualPage": 274,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md"
+    },
+    {
+      "number": 19,
+      "title": "Mappa delle tre professioni e scelta del binario",
+      "indexPage": 9,
+      "printedPage": 288,
+      "actualPage": 288,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md"
+    },
+    {
+      "number": 20,
+      "title": "Magistratura ordinaria: accesso, prove e ordinamento",
+      "indexPage": 9,
+      "printedPage": 303,
+      "actualPage": 303,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md"
+    },
+    {
+      "number": 21,
+      "title": "Avvocatura dello Stato: selezione, prove e funzione",
+      "indexPage": 9,
+      "printedPage": 319,
+      "actualPage": 319,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md"
+    },
+    {
+      "number": 22,
+      "title": "Notariato: pratica, atti e ordinamento",
+      "indexPage": 9,
+      "printedPage": 333,
+      "actualPage": 333,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md"
+    },
+    {
+      "number": 23,
+      "title": "Metodo per tema, atto e prova teorico- pratica",
+      "indexPage": 9,
+      "printedPage": 348,
+      "actualPage": 348,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md"
+    },
+    {
+      "number": 24,
+      "title": "Piano pluriennale e gestione delle incognite",
+      "indexPage": 10,
+      "printedPage": 366,
+      "actualPage": 366,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md"
+    },
+    {
+      "number": 25,
+      "title": "Errori tipici, casi integrati e checklist finale",
+      "indexPage": 10,
+      "printedPage": 383,
+      "actualPage": 383,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md"
+    },
+    {
+      "number": 26,
+      "title": "Mappa, scelta del binario e Bando Decoder",
+      "indexPage": 10,
+      "printedPage": 401,
+      "actualPage": 401,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md"
+    },
+    {
+      "number": 27,
+      "title": "Carriera prefettizia: prove, materie e ordinamento",
+      "indexPage": 10,
+      "printedPage": 413,
+      "actualPage": 413,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md"
+    },
+    {
+      "number": 28,
+      "title": "Carriera diplomatica: prove, materie e ordinamento",
+      "indexPage": 10,
+      "printedPage": 426,
+      "actualPage": 426,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md"
+    },
+    {
+      "number": 29,
+      "title": "Le lingue straniere: diagnosi, prove e manutenzione",
+      "indexPage": 11,
+      "printedPage": 442,
+      "actualPage": 442,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md"
+    },
+    {
+      "number": 30,
+      "title": "La prova orale e la postura professionale",
+      "indexPage": 11,
+      "printedPage": 455,
+      "actualPage": 455,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md"
+    },
+    {
+      "number": 31,
+      "title": "Piano di preparazione, carico e tentativi",
+      "indexPage": 11,
+      "printedPage": 468,
+      "actualPage": 468,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md"
+    },
+    {
+      "number": 32,
+      "title": "Errori, casi e checklist finali",
+      "indexPage": 11,
+      "printedPage": 482,
+      "actualPage": 482,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md"
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "name": "AAAAAA+Arial-BoldMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "BAAAAA+Garamond",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+Arial-Black",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "EAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "",
+      "type": "Type3",
+      "embedded": true
+    }
+  ],
+  "allFontsEmbedded": true,
+  "overflowPages": [],
+  "internalLeaks": [],
+  "replacementGlyphs": 0,
+  "missingImages": 0,
+  "indexMinimumPt": 9.500025,
+  "limits": [
+    "Verifica tecnica locale; non equivale a revisione visiva o certificazione normativa.",
+    "Nessuna prova fisica o KDP Previewer eseguita."
+  ]
+}

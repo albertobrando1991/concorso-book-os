@@ -1,0 +1,204 @@
+{
+  "verifiedAt": "2026-10-03T13:40:12.651711+00:00",
+  "all12PackagesVerified": true,
+  "volumes": [
+    {
+      "volume": "VOL-01",
+      "status": "verified",
+      "manifest": "delivery/VOL-01/candidate-2026-10-03/package-manifest.json",
+      "manifestSha256": "f88d395548fb1aa2999cb34d12b89436563fce57a409b6771520f6d87b31dec5",
+      "fileCount": 182,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-01-interior-kdp.pdf",
+          "bytes": 22580831,
+          "sha256": "46accfc1fe82a3779263805532d34f2461415a55d92e1d988f7249b2294662aa"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-02",
+      "status": "verified",
+      "manifest": "delivery/VOL-02/candidate-tomi-2026-10-03/manifest.json",
+      "manifestSha256": "0a2e5456fcfb510fb64960c02a4988ac81bc2d9aea2225b3ee91911a980a3328",
+      "fileCount": 85,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "tomo-1/vol-02-tomo-1-proof.pdf",
+          "bytes": 4198725,
+          "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38"
+        },
+        {
+          "path": "tomo-2/vol-02-tomo-2-proof.pdf",
+          "bytes": 1703317,
+          "sha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-03",
+      "status": "verified",
+      "manifest": "delivery/VOL-03/candidate-2026-10-03/package-manifest.json",
+      "manifestSha256": "f7cd0ee8298ab6bb54a971e2377d4ce48c78ebdf638d12627d24c2dd48b7f8a0",
+      "fileCount": 198,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-03-interior-kdp.pdf",
+          "bytes": 4610078,
+          "sha256": "32e25d31b712ca18af78053e7f62daab47ea266106ca52dae16cd8407eff718c"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-04",
+      "status": "verified",
+      "manifest": "delivery/VOL-04/candidate-2026-10-03/package-manifest.json",
+      "manifestSha256": "68526c3e9c456d18ec9cfc80b74486259dae00cc86dc2b9b52f56b00c1d09af4",
+      "fileCount": 266,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-04-interior-kdp.pdf",
+          "bytes": 2130608,
+          "sha256": "b2a48f8dc70238ead3133a0f859d8bddc9eb9aa0f20e1f54644f16ca7889e09e"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-05",
+      "status": "verified",
+      "manifest": "delivery/VOL-05/candidate-2026-10-03/package-manifest.json",
+      "manifestSha256": "f840e9f469d1fda687174ce9159e062999fc8bf26f7c4f9c3b415bfc3f2408c5",
+      "fileCount": 141,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-05-interior-kdp.pdf",
+          "bytes": 1504101,
+          "sha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-06",
+      "status": "verified",
+      "manifest": "delivery/VOL-06/candidate-2026-10-03/manifest.json",
+      "manifestSha256": "b892d95a7db5ea7191e4abae0e8162ea6375f68a3b0aaf667f4af4a11c053aaa",
+      "fileCount": 412,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-06-interior-kdp.pdf",
+          "bytes": 4086622,
+          "sha256": "34b57193a490375dcab8c48f858de6fb360d3d05af1c183b29d114b32380ab94"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-07",
+      "status": "verified",
+      "manifest": "delivery/VOL-07/candidate-2026-10-03/manifest.json",
+      "manifestSha256": "86151a5cf15a78128fe5629079dea9c6cad3617f30588df5779b427fc9f75c83",
+      "fileCount": 430,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "artifacts/correzioni-collana-2026-10-02/vol-07-release-20261003-proof.pdf",
+          "bytes": 3859465,
+          "sha256": "60e7814e7a9d17ea36f1af9b5a7652206f83ce33fe0870b0aebc6d588df43e16"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-08",
+      "status": "verified",
+      "manifest": "delivery/VOL-08/candidate-2026-10-03/package-manifest.json",
+      "manifestSha256": "58e939640a0ec1b058245380e10d6cfe883c4cc2267f325713a5a934cfa80bc4",
+      "fileCount": 108,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-08-interior-kdp.pdf",
+          "bytes": 1692055,
+          "sha256": "ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-09",
+      "status": "verified",
+      "manifest": "delivery/VOL-09/candidate-2026-10-03/package-manifest.json",
+      "manifestSha256": "207815f8669e09925dbc7ed173d2840ba729d3bdf9f304df0ec4883809dcaff7",
+      "fileCount": 123,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-09-interior-kdp.pdf",
+          "bytes": 1890565,
+          "sha256": "8dd41fc17e9e2cf638e8b1e3279a1f679b68243fb624853fa620ac9b99cb9097"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-10",
+      "status": "verified",
+      "manifest": "delivery/VOL-10/candidate-2026-10-03/package-manifest.json",
+      "manifestSha256": "07851c86d80642ccb6729cc245f36cc89b534e1625d98e67cf3e120df5a2ad8e",
+      "fileCount": 99,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-10-interior-kdp.pdf",
+          "bytes": 3729797,
+          "sha256": "288dcce6dd4f93c8e72ffc7350a5ae3b529c050fc32a3a18729bfb6e58fb4c4f"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-11",
+      "status": "verified",
+      "manifest": "delivery/VOL-11/candidate-2026-10-03/package-manifest.json",
+      "manifestSha256": "42a532efb358e5168c18da71b4844f0c63c9c56b9b000b39f8adb0b145203e29",
+      "fileCount": 121,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "vol-11-interior-kdp.pdf",
+          "bytes": 1805041,
+          "sha256": "eb67bedb161968004879438a2dad8ce37d86f4deb7d53d40f7e8db9d2c41b425"
+        }
+      ],
+      "releaseApproved": false
+    },
+    {
+      "volume": "VOL-12",
+      "status": "verified",
+      "manifest": "delivery/VOL-12/candidate-2026-10-03/manifest.json",
+      "manifestSha256": "ddf0912437a9691fc12c5abef7bbcac580193334096121ff787be680beea88ff",
+      "fileCount": 415,
+      "errors": [],
+      "candidatePdfs": [
+        {
+          "path": "artifacts/correzioni-collana-2026-10-02/vol-12-final-20261003-proof.pdf",
+          "bytes": 3293402,
+          "sha256": "70f546098427dd2dfaa02dad1ce8df3ac266f92671e991aa891782809df8ee88"
+        }
+      ],
+      "releaseApproved": false
+    }
+  ],
+  "scope": "Package file hashes and declared candidate identity only; no publication approval or new textual/visual review."
+}

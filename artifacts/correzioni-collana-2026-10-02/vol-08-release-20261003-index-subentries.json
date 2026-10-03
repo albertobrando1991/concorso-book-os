@@ -1,0 +1,580 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-08-release-20261003-proof.pdf",
+  "entries": [
+    {
+      "number": "1.1",
+      "title": "Il profilo ICT pubblico",
+      "indexPage": 6,
+      "targetPage": 10,
+      "match": true
+    },
+    {
+      "number": "1.2",
+      "title": "Le famiglie di profilo",
+      "indexPage": 6,
+      "targetPage": 12,
+      "match": true
+    },
+    {
+      "number": "1.3",
+      "title": "Enti e contesti di lavoro",
+      "indexPage": 6,
+      "targetPage": 14,
+      "match": true
+    },
+    {
+      "number": "1.4",
+      "title": "La Mappa BANDO del profilo ICT",
+      "indexPage": 6,
+      "targetPage": 16,
+      "match": true
+    },
+    {
+      "number": "1.5",
+      "title": "Requisiti, materie e prove",
+      "indexPage": 6,
+      "targetPage": 18,
+      "match": true
+    },
+    {
+      "number": "1.6",
+      "title": "Il Bando Decoder ICT",
+      "indexPage": 6,
+      "targetPage": 20,
+      "match": true
+    },
+    {
+      "number": "2.1",
+      "title": "L’elaboratore come sistema",
+      "indexPage": 6,
+      "targetPage": 27,
+      "match": true
+    },
+    {
+      "number": "2.2",
+      "title": "Rappresentare dati e istruzioni",
+      "indexPage": 6,
+      "targetPage": 29,
+      "match": true
+    },
+    {
+      "number": "2.3",
+      "title": "La gerarchia di memoria",
+      "indexPage": 6,
+      "targetPage": 31,
+      "match": true
+    },
+    {
+      "number": "2.4",
+      "title": "Input/output e gestione degli eventi",
+      "indexPage": 6,
+      "targetPage": 33,
+      "match": true
+    },
+    {
+      "number": "2.5",
+      "title": "Capire le prestazioni",
+      "indexPage": 6,
+      "targetPage": 34,
+      "match": true
+    },
+    {
+      "number": "2.6",
+      "title": "Il sistema operativo come gestore delle risorse",
+      "indexPage": 6,
+      "targetPage": 36,
+      "match": true
+    },
+    {
+      "number": "3.1",
+      "title": "Problema, algoritmo e correttezza",
+      "indexPage": 6,
+      "targetPage": 43,
+      "match": true
+    },
+    {
+      "number": "3.2",
+      "title": "Paradigmi e flusso di controllo",
+      "indexPage": 6,
+      "targetPage": 45,
+      "match": true
+    },
+    {
+      "number": "3.3",
+      "title": "Funzioni e procedure",
+      "indexPage": 6,
+      "targetPage": 47,
+      "match": true
+    },
+    {
+      "number": "3.4",
+      "title": "Strutture lineari e associative",
+      "indexPage": 6,
+      "targetPage": 49,
+      "match": true
+    },
+    {
+      "number": "3.5",
+      "title": "Alberi, grafi, ricerca e ordinamento",
+      "indexPage": 6,
+      "targetPage": 51,
+      "match": true
+    },
+    {
+      "number": "3.6",
+      "title": "Complessità e output concorsuale",
+      "indexPage": 6,
+      "targetPage": 53,
+      "match": true
+    },
+    {
+      "number": "4.1",
+      "title": "Dai requisiti al modello relazionale",
+      "indexPage": 6,
+      "targetPage": 61,
+      "match": true
+    },
+    {
+      "number": "4.2",
+      "title": "Vincoli, NULL e normalizzazione",
+      "indexPage": 6,
+      "targetPage": 64,
+      "match": true
+    },
+    {
+      "number": "4.3",
+      "title": "SQL per interrogare e modificare",
+      "indexPage": 6,
+      "targetPage": 65,
+      "match": true
+    },
+    {
+      "number": "4.4",
+      "title": "Transazioni, concorrenza e indici",
+      "indexPage": 6,
+      "targetPage": 68,
+      "match": true
+    },
+    {
+      "number": "4.5",
+      "title": "Famiglie NoSQL e criteri di scelta",
+      "indexPage": 6,
+      "targetPage": 71,
+      "match": true
+    },
+    {
+      "number": "4.6",
+      "title": "Qualità, accessi e output concorsuale",
+      "indexPage": 6,
+      "targetPage": 73,
+      "match": true
+    },
+    {
+      "number": "5.1",
+      "title": "Livelli, incapsulamento e rete locale",
+      "indexPage": 6,
+      "targetPage": 80,
+      "match": true
+    },
+    {
+      "number": "5.2",
+      "title": "Indirizzamento, subnetting e routing",
+      "indexPage": 6,
+      "targetPage": 82,
+      "match": true
+    },
+    {
+      "number": "5.3",
+      "title": "Trasporto e servizi di rete",
+      "indexPage": 6,
+      "targetPage": 83,
+      "match": true
+    },
+    {
+      "number": "5.4",
+      "title": "Sistema operativo, processi e servizi",
+      "indexPage": 6,
+      "targetPage": 85,
+      "match": true
+    },
+    {
+      "number": "5.5",
+      "title": "Memoria virtuale, file system e risorse",
+      "indexPage": 6,
+      "targetPage": 87,
+      "match": true
+    },
+    {
+      "number": "5.6",
+      "title": "Disponibilità e troubleshooting infrastrutturale",
+      "indexPage": 6,
+      "targetPage": 89,
+      "match": true
+    },
+    {
+      "number": "6.1",
+      "title": "Requisiti e ciclo di vita verificabile",
+      "indexPage": 6,
+      "targetPage": 97,
+      "match": true
+    },
+    {
+      "number": "6.2",
+      "title": "Architettura e qualità del software",
+      "indexPage": 6,
+      "targetPage": 99,
+      "match": true
+    },
+    {
+      "number": "6.3",
+      "title": "Verifica, validazione, test e configurazione",
+      "indexPage": 7,
+      "targetPage": 101,
+      "match": true
+    },
+    {
+      "number": "6.4",
+      "title": "API come contratto",
+      "indexPage": 7,
+      "targetPage": 103,
+      "match": true
+    },
+    {
+      "number": "6.5",
+      "title": "Evoluzione e gestione delle API",
+      "indexPage": 7,
+      "targetPage": 106,
+      "match": true
+    },
+    {
+      "number": "6.6",
+      "title": "Interoperabilità PA ed e-service",
+      "indexPage": 7,
+      "targetPage": 108,
+      "match": true
+    },
+    {
+      "number": "7.1",
+      "title": "Quadro, modelli cloud e responsabilità",
+      "indexPage": 7,
+      "targetPage": 116,
+      "match": true
+    },
+    {
+      "number": "7.2",
+      "title": "Virtualizzazione, container e orchestrazione",
+      "indexPage": 7,
+      "targetPage": 118,
+      "match": true
+    },
+    {
+      "number": "7.3",
+      "title": "Cloud PA e percorso di migrazione",
+      "indexPage": 7,
+      "targetPage": 120,
+      "match": true
+    },
+    {
+      "number": "7.4",
+      "title": "DevOps, CI/CD e Infrastructure as Code",
+      "indexPage": 7,
+      "targetPage": 123,
+      "match": true
+    },
+    {
+      "number": "7.5",
+      "title": "Operabilità, osservabilità, capacità e costi",
+      "indexPage": 7,
+      "targetPage": 125,
+      "match": true
+    },
+    {
+      "number": "7.6",
+      "title": "Resilienza, backup, disaster recovery e continuità operativa",
+      "indexPage": 7,
+      "targetPage": 126,
+      "match": true
+    },
+    {
+      "number": "8.1",
+      "title": "Obiettivi di sicurezza e asset",
+      "indexPage": 7,
+      "targetPage": 134,
+      "match": true
+    },
+    {
+      "number": "8.2",
+      "title": "Minacce, vulnerabilità e scenari",
+      "indexPage": 7,
+      "targetPage": 136,
+      "match": true
+    },
+    {
+      "number": "8.3",
+      "title": "Valutazione e trattamento del rischio",
+      "indexPage": 7,
+      "targetPage": 138,
+      "match": true
+    },
+    {
+      "number": "8.4",
+      "title": "Controlli e difesa per livelli",
+      "indexPage": 7,
+      "targetPage": 140,
+      "match": true
+    },
+    {
+      "number": "8.5",
+      "title": "Threat modeling e gestione delle vulnerabilità",
+      "indexPage": 7,
+      "targetPage": 142,
+      "match": true
+    },
+    {
+      "number": "8.6",
+      "title": "Secure SDLC e software supply chain",
+      "indexPage": 7,
+      "targetPage": 144,
+      "match": true
+    },
+    {
+      "number": "9.1",
+      "title": "Identità, account e ciclo di vita",
+      "indexPage": 7,
+      "targetPage": 151,
+      "match": true
+    },
+    {
+      "number": "9.2",
+      "title": "Autenticazione, autorizzazione e privilegi",
+      "indexPage": 7,
+      "targetPage": 153,
+      "match": true
+    },
+    {
+      "number": "9.3",
+      "title": "Crittografia e gestione delle chiavi",
+      "indexPage": 7,
+      "targetPage": 154,
+      "match": true
+    },
+    {
+      "number": "9.4",
+      "title": "Logging, rilevazione e triage",
+      "indexPage": 7,
+      "targetPage": 157,
+      "match": true
+    },
+    {
+      "number": "9.5",
+      "title": "Incident response e continuità del servizio",
+      "indexPage": 7,
+      "targetPage": 158,
+      "match": true
+    },
+    {
+      "number": "9.6",
+      "title": "PA, ACN, CSIRT, NIS2 e privacy",
+      "indexPage": 7,
+      "targetPage": 160,
+      "match": true
+    },
+    {
+      "number": "10.1",
+      "title": "Il dato come asset informativo e le decisioni di governo",
+      "indexPage": 7,
+      "targetPage": 167,
+      "match": true
+    },
+    {
+      "number": "10.2",
+      "title": "Ruoli, decisioni, RACI ed evidenze",
+      "indexPage": 7,
+      "targetPage": 169,
+      "match": true
+    },
+    {
+      "number": "10.3",
+      "title": "Ciclo di vita, classificazione e lineage",
+      "indexPage": 7,
+      "targetPage": 171,
+      "match": true
+    },
+    {
+      "number": "10.4",
+      "title": "Inventario, catalogo, glossario e metadati",
+      "indexPage": 7,
+      "targetPage": 172,
+      "match": true
+    },
+    {
+      "number": "10.5",
+      "title": "Qualità del dato: regole, metriche, anomalie e rimedio",
+      "indexPage": 7,
+      "targetPage": 174,
+      "match": true
+    },
+    {
+      "number": "10.6",
+      "title": "Open data, riuso, distribuzioni e limiti",
+      "indexPage": 7,
+      "targetPage": 176,
+      "match": true
+    },
+    {
+      "number": "10.7",
+      "title": "Interoperabilità, privacy, sicurezza e responsabilizzazione",
+      "indexPage": 7,
+      "targetPage": 177,
+      "match": true
+    },
+    {
+      "number": "11.1",
+      "title": "Algoritmo, sistema AI, modello e inferenza",
+      "indexPage": 7,
+      "targetPage": 183,
+      "match": true
+    },
+    {
+      "number": "11.2",
+      "title": "Paradigmi, partizioni e generalizzazione",
+      "indexPage": 7,
+      "targetPage": 185,
+      "match": true
+    },
+    {
+      "number": "11.3",
+      "title": "Dati, provenienza, etichette e rappresentatività",
+      "indexPage": 7,
+      "targetPage": 187,
+      "match": true
+    },
+    {
+      "number": "11.4",
+      "title": "Baseline, metriche e conseguenze degli errori",
+      "indexPage": 7,
+      "targetPage": 188,
+      "match": true
+    },
+    {
+      "number": "11.5",
+      "title": "Bias, fairness, spiegabilità e controllo umano",
+      "indexPage": 7,
+      "targetPage": 190,
+      "match": true
+    },
+    {
+      "number": "11.6",
+      "title": "Lifecycle, MLOps, rischio e governance",
+      "indexPage": 8,
+      "targetPage": 191,
+      "match": true
+    },
+    {
+      "number": "11.7",
+      "title": "Quadro UE e italiano: ruoli, rischio e confini",
+      "indexPage": 8,
+      "targetPage": 194,
+      "match": true
+    },
+    {
+      "number": "12.1",
+      "title": "Fabbisogno, baseline e strategia di acquisizione",
+      "indexPage": 8,
+      "targetPage": 200,
+      "match": true
+    },
+    {
+      "number": "12.2",
+      "title": "Requisiti verificabili e capitolato tecnico",
+      "indexPage": 8,
+      "targetPage": 203,
+      "match": true
+    },
+    {
+      "number": "12.3",
+      "title": "SLA, SLI, KPI e misurazione del servizio",
+      "indexPage": 8,
+      "targetPage": 206,
+      "match": true
+    },
+    {
+      "number": "12.4",
+      "title": "Ruoli, evidenze e governo dell'esecuzione",
+      "indexPage": 8,
+      "targetPage": 208,
+      "match": true
+    },
+    {
+      "number": "12.5",
+      "title": "Sicurezza, dati e supply chain contrattuale",
+      "indexPage": 8,
+      "targetPage": 210,
+      "match": true
+    },
+    {
+      "number": "12.6",
+      "title": "Modifiche, rilasci e continuità del servizio",
+      "indexPage": 8,
+      "targetPage": 212,
+      "match": true
+    },
+    {
+      "number": "12.7",
+      "title": "Lock-in, portabilità, reversibilità ed exit strategy",
+      "indexPage": 8,
+      "targetPage": 214,
+      "match": true
+    },
+    {
+      "number": "13.1",
+      "title": "Mappa BANDO: decodifica della prova e della consegna ICT",
+      "indexPage": 8,
+      "targetPage": 222,
+      "match": true
+    },
+    {
+      "number": "13.2",
+      "title": "Quiz tecnico: decisione, distrattori e correzione",
+      "indexPage": 8,
+      "targetPage": 225,
+      "match": true
+    },
+    {
+      "number": "13.3",
+      "title": "Risposta breve e domanda aperta",
+      "indexPage": 8,
+      "targetPage": 227,
+      "match": true
+    },
+    {
+      "number": "13.4",
+      "title": "Elaborato tecnico: progetto, rischi ed evidenze",
+      "indexPage": 8,
+      "targetPage": 229,
+      "match": true
+    },
+    {
+      "number": "13.5",
+      "title": "Prova orale ICT: struttura e controllo",
+      "indexPage": 8,
+      "targetPage": 231,
+      "match": true
+    },
+    {
+      "number": "13.6",
+      "title": "Caso tecnico: diagnosi, decisione e verifica",
+      "indexPage": 8,
+      "targetPage": 233,
+      "match": true
+    },
+    {
+      "number": "13.7",
+      "title": "Simulazione, autocorrezione e diario degli errori",
+      "indexPage": 8,
+      "targetPage": 236,
+      "match": true
+    }
+  ],
+  "mismatches": []
+}

@@ -1,70 +1,60 @@
----
-id: review-package-vol-03-step-15-m-fc02
-type: review
-title: Pacchetto di review umana specialistica M-FC02
-status: human_review_accepted
-domain: concorsi-pubblici
-book_refs: [m-fc02-agenzie-fiscali]
-source_refs: [principio-copertura-didattica-integrale-2026-07-17]
-confidence: 0.9
-updated_at: 2026-08-04
-created_at: 2026-08-04
-review_required: true
-canonical: false
-tags: [pipeline, vol-03, m-fc02, human-review]
----
+# Audit specialistico conclusivo M-FC02 — 3 ottobre 2026
 
-# Pacchetto di review umana specialistica — M-FC02
+## 1. Sintesi editoriale
 
-- Revisore responsabile: Alberto Brando
-- Data di preparazione: 4 agosto 2026
-- Perimetro: 14 capitoli numerati, intercalari 5A/5B, matrice di copertura e casi applicativi.
-- Stato: review accettata esplicitamente da Alberto Brando il 4 agosto 2026.
-- Limiti: il dossier non attesta vigenza normativa, correttezza professionale o pubblicabilità; organizza i controlli da svolgere.
+Riesaminati i claim specialistici del candidato fiscale dopo le 23 correzioni dell’audit integrale. Il controllo parte dalla lettura integrale dei 16 capitoli e di quiz/casi del 2 ottobre, confronta le modifiche attuali e ricontrolla norme, soglie e applicazioni interessate. Individuati e corretti anche due residui nel passaggio dal TU futuro al processo vigente. Nessun rinvio a una successiva revisione umana del testo; la verifica del PDF resta un distinto gate di produzione.
 
-## Istruzioni per la firma
-Per ogni riga compilare Esito con Approvato, Correggere o Non applicabile; indicare data e iniziali. Ogni correzione deve riportare il testo sostitutivo o la fonte ufficiale da usare. Nessun esito viene integrato senza attribuzione esplicita.
+## 2. Perimetro e metodo
 
-## Checklist puntuale
-| ID | File e posizione | Affermazione | Fonte consolidata | Domanda al revisore | Esito | Eventuale correzione |
+Controllati: qualificazioni degli enti; principi tributari e UE; accertamento/garanzie; TUIR e dichiarazioni; sanzioni e processo; riscossione; dogane/accise; estimo/pubblicità; bilancio e civile. Estrazione dei claim numerici e dei riferimenti articolo per articolo conservata negli artefatti; rilettura in contesto dei passaggi corretti. I quiz preesistenti restano quelli risolti nell’audit integrale; le correzioni non cambiano chiavi o ordine delle opzioni. Nuovi casi numerici e calendario ricalcolati separatamente. Nessun box Dato operativo di formato 2 è presente nel modulo, come attesta il prompt generato dalla pipeline.
+
+## 3. Rilievi ed esiti conclusivi
+
+| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| HR01 | Cap. 3, Il punto di partenza e Ministero/agenzia/ente | AE e ADM sono agenzie fiscali; AdER è ente pubblico economico distinto e strumentale. | sources/agenzie-fiscali-organizzazione-ae-adm-ader; D.Lgs. 300/1999; D.L. 193/2016 | Natura, vigilanza e organi sono descritti correttamente al cut-off? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR02 | Cap. 3, Organizzazione centrale e rete territoriale | Il testo usa un modello funzionale e lascia mobili dettagli di strutture e regolamenti. | sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17 | I rinvii agli assetti ufficiali sono sufficienti e aggiornati? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR03 | Cap. 4, principi costituzionali | Legalità, capacità contributiva e progressività sono distinti e collegati agli artt. 23 e 53 Cost. | sources/costituzione-repubblica-italiana-testo-vigente | Gli articoli e le conseguenze didattiche sono formulati senza semplificazioni fuorvianti? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR04 | Capp. 4 e 6, IRPEF/IRES | Sei categorie reddituali, soggetti, determinazione e ponte utile-imponibile. | sources/irpef-ires-categorie-reddito-impresa-aggiornamento-2026-07-18 | Quali passaggi richiedono rettifica per TUIR vigente o disciplina articolo-specifica? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR05 | Capp. 4 e 6, IVA | Presupposti, quattro classi di operazioni, rivalsa, detrazione, liquidazione e territorialità. | sources/iva-dpr-633-1972-aggiornamento-2026-07-20 | Definizioni, sequenza e casi Alfa sono corretti rispetto al DPR 633/1972 e quadro UE? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR06 | Cap. 5, controlli e contraddittorio | Distinzione tra controllo automatico, formale, sostanziale e art. 6-bis Statuto. | sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17 | Ambito, esclusioni e sequenza del contraddittorio sono aggiornati? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR07 | Cap. 5, autotutela e deflativi | Autotutela obbligatoria/facoltativa, adesione, acquiescenza e conciliazione hanno funzioni ed effetti distinti. | sources/autotutela-adesione-deflativi-aggiornamento-2026-07-29 | Presupposti, autorità, termini e riduzioni richiedono correzioni? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR08 | Cap. 5, ACFI e fiscalità internazionale | Residenza, stabile organizzazione, convenzioni, transfer pricing e TCF sono trattati in perimetro selettivo. | sources/fiscalita-internazionale-acfi-aggiornamento-2026-07-18 | Il perimetro è corretto per i profili ACFI e le fonti sono vigenti? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR09 | Cap. 5A, sanzioni tributarie | Principi, autore, concorsi, ravvedimento e procedimento sanzionatorio. | sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18 | Disciplina temporale, riduzioni e cause di non punibilità sono aggiornate? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR10 | Cap. 5A, reati tributari | Famiglie del D.Lgs. 74/2000, dolo, pagamento e confisca; TU futuro segnalato dal 2027. | sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18 | Fattispecie, soglie e regime temporale sono corretti al cut-off? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR11 | Cap. 5B, processo tributario | Parti, ricorso, prova, cautela, conciliazione, impugnazioni ed esecuzione. | sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18 | Termini, PTT, disciplina transitoria e TU 175 sono presentati correttamente? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR12 | Cap. 6, dichiarazioni e F24 | Originaria/correttiva/integrativa/omessa; versamento unitario e compensazioni. | sources/dichiarazioni-versamenti-compensazioni-aggiornamento-2026-07-20 | Modelli, termini, visto, limiti, canali e cause ostative sono aggiornati? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR13 | Cap. 7, ruolo, cartella e accertamento esecutivo | Due percorsi distinti di formazione della pretesa esecutiva. | sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17 | Titoli, presa in carico, notifiche e competenze sono descritti correttamente? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR14 | Cap. 7, rateizzazione | Per richieste 2025-2026 il testo indica fino a 84 rate entro 120.000 euro, con dati marcati mobili. | art. 19 DPR 602/1973; D.Lgs. 110/2024; fonte AdER consolidata | Soglia, numero di rate, documentazione e decadenza sono corretti alla data della review? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR15 | Cap. 7, sospensione e recupero | Sospensione legale entro 60 giorni; distinzione tra sgravio, ricorso, cautela ed esecuzione. | L. 228/2012; DPR 602/1973; sources/riscossione-agenzia-entrate-riscossione-m-fc02 | Termine, cause, competenze, soglie ed esclusioni sono vigenti? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR16 | Cap. 8, procedure doganali | CDU, dichiarazione, rappresentanza, triade classificazione-origine-valore, regimi, debito e garanzia. | sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17 | Definizioni, ordine dei metodi e casi sono conformi a CDU e atti 2446/2447 vigenti? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR17 | Cap. 8, controlli e AEO | Analisi del rischio, controlli documentali/fisici, revisione successiva e diritto di essere ascoltati. | CDU e sources/dogane-accise-giochi-monopoli-adm-m-fc02 | Procedura, limiti e facilitazioni AEO sono descritti senza automatismi errati? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR18 | Cap. 9, accise | Fatto generatore, esigibilità, deposito fiscale, sospensione, e-AD/EMCS e prodotti. | sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17 | Soggetti, documenti, circolazione e dati mobili sono aggiornati? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR19 | Cap. 9, giochi e monopoli | Riserva statale, monopolio fiscale, concessione, gestione diretta e filiera sono distinti. | sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17 | La terminologia riflette il riordino vigente e le procedure ADM? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR20 | Cap. 10, catasto e cartografia | Catasto non prova proprietà o regolarità urbanistica; DOCFA, PREGEO, Docte e voltura hanno funzioni distinte. | sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18 | Definizioni tecniche, software e procedure sono corretti e attuali? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR21 | Cap. 10, estimo e SPI | Procedimenti estimativi, limiti OMI, trascrizione/iscrizione/annotazione e continuità. | sources/catasto-pubblicita-immobiliare-estimo-m-fc02 | Casi, terminologia e conseguenze civilistiche richiedono rettifiche? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR22 | Cap. 11, contabilità | Partita doppia, assestamento, bilancio, rendiconto, indici e ponte utile-imponibile. | sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18 | Scritture, formule, OIC e raccordi fiscali sono tecnicamente corretti? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR23 | Cap. 12, civile e commerciale | Obbligazioni, contratti, rappresentanza, impresa, società, garanzie e crisi. | sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17; sources/diritto-commerciale-impresa-societa-m-fc02-2026-07-17 | Definizioni, responsabilità e casi rispettano codice civile e leggi speciali vigenti? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR24 | Cap. 13, casi integrati | Casi AE/ADM/AdER/Territorio applicano regole specialistiche e distinguono competenze. | Fonti dei capp. 4-12; topics/casi-pratici | Ogni soluzione è professionalmente corretta e non promette esiti indebiti? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR25 | Cap. 13, bandi e prove | Bandi, calendari, soglie, penalità, banche dati e criteri sono dati mobili. | sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026 | Quali esempi devono essere aggiornati o rimossi prima della pubblicazione? | Approvato — Alberto Brando, 2026-08-04 | |
-| HR26 | Cap. 14, front-office e privacy | Identità, titolo, competenza, minimizzazione, canale, tracciabilità ed escalation. | sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali | Protocollo e caso telefonico rispettano GDPR e policy degli enti? | Approvato — Alberto Brando, 2026-08-04 | |
+| FC02-S01 | 05b, mappa normativa e prova | Norma | Grave | Restavano numerazione del TU e due occorrenze «546/1992 175». | Mappa 545/546, articoli 1–70 secondo il decreto processuale; onere della prova art. 7, comma 5-bis. Fonte ufficiale integrale 546 acquisita e nota rettifica processo. | Corretto e verificato |
+| FC02-S02 | 05b, notificazione e deposito | Coerenza | Media | Una frase dichiarava assenti i termini già inseriti. | Richiamo coerente 60/30/60; calendario 2 marzo–4 maggio e 20 aprile–20 maggio ricalcolato. | Corretto e verificato |
+| FC02-S03 | 07, sospensione legale | Procedura | Media | Formula generica sull’atto notificato. | Precisati agente notificante, domanda non ripetibile, esclusioni per avviso impositivo e sollecito ordinario. Fonte AdER Sospensione, riletta il 3 ottobre. | Corretto e verificato |
+| FC02-S04 | 03, nota sugli organigrammi | Testo lettore | Media | Residuo «prima della pubblicazione definitiva». | Istruzione di studio collegata a statuto/organigramma alla data del bando; regolamento ADM 541/2026 riscontrato sul portale ufficiale. | Corretto e verificato |
+| FC02-S05 | 01–14 e 05a/05b | Ortografia e rimandi | Media | Grafie residue perciò/infedeltà/né e ancore da verificare dopo pulizia. | Correzioni contestuali; zero file o titoli di destinazione mancanti. Test retrofit FC02 2/2 superati. | Corretto e verificato |
+| FC02-S06 | Delta dei 23 ID V03 | Specialistica | Grave | Verifica delle integrazioni normative e didattiche prima del freeze. | Fonti primarie e casi verificati come indicato sotto; mantenuti presupposti e distinzioni, senza sopprimere materia. | Corretto e verificato |
 
-## Conflitti e incertezze da chiudere
-- Nessun conflitto didattico grave aperto dopo lo step 14.
-- Tutti i capitoli mantengono review_required: true fino alla firma specialistica.
-- Soglie, termini, aliquote, modelli, software, canali e assetti organizzativi restano dati mobili.
-- La resa KDP e L01 non rientrano nella firma normativa: saranno verificati nel preflight.
+## 4. Riscontri per area
 
-## Registro della review
-| Data | Revisore | Perimetro firmato | Esito complessivo | Limiti dichiarati | Firma/attribuzione |
-| --- | --- | --- | --- | --- | --- |
-| 2026-08-04 | Alberto Brando | Intero pacchetto HR01-HR26 | Approvato | Restano obbligatori aggiornamento delle fonti vive e preflight KDP | Accettazione esplicita in chat: accept |
+- **Processo:** D.Lgs. 545 e 546 nel 2026, TU 175 dal 2027; territorio art. 4, difesa fino a 3.000, ricorso/costituzione 60/30/60, feriale, appelli 60 giorni/sei mesi; art. 7, comma 5-bis e cautela con danno grave e irreparabile. Evidenze nella nuova source note e PDF ufficiale acquisito.
+- **Accertamento e sanzioni:** artt. 38–41 D.P.R. 600/1973; 6-bis e 10-quater/quinquies Statuto; TCF 500 milioni dal 2026; D.Lgs. 472/1997, art. 2, comma 2-bis; D.Lgs. 74/2000 e modifiche 87/2024. Distinti soglia ordinaria/residua e regime futuro. Fonti Gazzetta/MEF e circolare AE 6/E 2026 nelle note.
+- **Redditi:** AKN TUIR già acquisito, letti gli artt. 45, 49, 51, 54, 66 e 109; confronto con art. 51 corrente MEF. Cassa, competenza, pensioni e deroghe non ridotte a un'unica regola. D.P.R. 322/1998: 90 giorni e diverso effetto oltre termine.
+- **Riscossione:** istruzioni AdER correnti su 84 rate, 120.000 per istanza, 60 giorni sospensione, 30 giorni preavviso fermo, strumentalità e circolazione; separati ente creditore e agente.
+- **Dogane/accise:** CDU artt. 134 e 173, D.Lgs. 141/2024, A.TR e libera pratica, direttiva 2020/262/EMCS; regimi sospensivi e a imposta assolta distinti. Il caso Turchia non deduce l’origine dal documento A.TR.
+- **Estimo/contabilità/civile:** art. 2808 c.c.; OIC 13/16/24 e art. 2426; calcoli estimativi e margini con convenzioni dichiarate; modificazioni soggettive, patologie e responsabilità dei sei tipi societari confrontate con le note codicistiche. La regola dei terreni ammette l'utilità esauribile e non include le immobilizzazioni finanziarie nell'ammortamento.
 
-## Integrazioni successive
-Il revisore ha approvato il pacchetto senza richiedere correzioni ulteriori. Nessuna modifica normativa o contenutistica aggiuntiva è stata integrata.
+## 5. Coerenza globale
+
+Nessun TU anticipato nel regime 2026; riferimenti staff sostituiti con bibliografia pubblica; corretto D = Diario. La parte legittima del Decoder è integralmente conservata dopo controllo differenziale. Fonti e topic alimentano gli stessi concetti dei capitoli. I limiti dei casi sono dichiarati senza demandare la spiegazione necessaria a documenti interni.
+
+## 6. Verifiche eseguite
+
+Controllo normativo e tecnico delle aree sopra elencate; ricalcolo dei nuovi esempi; controllo di tutti i wikilink del corpo (zero irrisolti); test di copertura e densità del pilota FC02/04 (2/2). Gli hash dei 16 file sono nel ledger conclusivo specialistico. Non è stato prodotto un nuovo PDF in questo step.
+
+## 7. Suggerimenti facoltativi
+
+Nessuna ulteriore integrazione è necessaria per correggere i 23 rilievi assegnati al modulo. La frequenza dei richiami istituzionali va mantenuta nelle future edizioni in funzione della data del bando.
+
+## 8. Priorità di produzione
+
+Text freeze tramite CLI, successivamente export e controllo visivo del candidato. I rilievi sulle figure sono gestiti nel registro iconografico coordinato e non sono dichiarati chiusi da questo audit testuale.
+
+## 9. Giudizio sul testo
+
+Testo specialistico corretto per il passaggio al text freeze; zero errori gravi o medi aperti nel perimetro riesaminato. Il giudizio non attesta la pubblicabilità del PDF o la chiusura degli altri moduli del volume.
+
+## 10. Limiti
+
+Questo è un riesame specialistico del candidato rispetto alla baseline integralmente letta, non una dichiarazione di nuova lettura pagina per pagina del PDF. Non si attesta aggiornamento automatico dopo il 3 ottobre 2026. Nomi dei titolari degli uffici, aliquote annuali non necessarie ai casi e calendari di bandi aperti non sono inventati per ampliare il perimetro.
+
+
+### Riesame specialistico del delta grafico, 3 ottobre 2026
+
+Riesaminati i 70 schemi rispetto ai 70 originali, al contesto dei capitoli e alla nuova nota ol-03-schemi-fiscali-verifica-2026-10-03. P03-05/06/07 sono corretti semanticamente: BANDO e appendici coerenti, alternative esplicite, liquidazione periodica distinta dalla dichiarazione annuale, riscossione ordinaria distinta dall’accertamento esecutivo, EORI distinto da AEO e AEO dal singolo controllo, AE/ADM/AdER distinti per funzione. Qualificati il bilancio ordinario e i rapporti contabili senza cronologie obbligatorie. Il solo capoverso aggiuntivo IVA elimina il medesimo automatismo nel testo.
+
+Verifica di preservazione: 14 hash iniziali corrispondono al freeze; invertendo i 70 schemi e il capoverso dichiarato il corpo coincide integralmente con lo snapshot. Casi, quiz, risposte, soglie e termini restano invariati. Zero wikilink irrisolti. Nessun nuovo dato mobile non verificato; nessun errore specialistico grave o medio aperto nel delta. La leggibilità della nuova impaginazione resta controllo PDF separato, non un riesame normativo rinviato. Evidenza: VOL-03-native-checkpoint.json.

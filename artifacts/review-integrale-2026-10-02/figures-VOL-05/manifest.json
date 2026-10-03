@@ -1,0 +1,827 @@
+[
+  {
+    "n": 1,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/01-mappa-bando-authority.png",
+    "sha256": "f162ea0cba66d83bdc035d38f4383123a8a68feef920cc99f3d505c136d67c67",
+    "chapter": "Le authority viste dal candidato",
+    "alt": "Figura 1.1 — Mappa BANDO delle authority: dal bando al percorso di studio, fino all'output da allenare.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 2,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/02-authority-settori-poteri.png",
+    "sha256": "c4a2037bdf250e30309db9c7ac74442693594a6b7af701c7552848e1800cdfef",
+    "chapter": "Le authority viste dal candidato",
+    "alt": "Figura 1.2 — Authority, settori e poteri: l'interesse protetto orienta la selezione delle materie e delle funzioni da studiare.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 3,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/03-percorsi-g-e-p.png",
+    "sha256": "bd1cd757d157f5402e1fc2979079bec74549379f3f22cea0dabb9fa17231f909",
+    "chapter": "Le authority viste dal candidato",
+    "alt": "Figura 1.3 — Percorsi G, E e P: priorità, linguaggi e rischi di studio per i tre profili del modulo.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 4,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/05-bando-decoder-authority.png",
+    "sha256": "6cf005a57ad9597981c661c062ede23157da6264e5be806906009f34a469954c",
+    "chapter": "Le authority viste dal candidato",
+    "alt": "Figura 1.4 — Bando Decoder M-FC05: campi essenziali per ordinare ente, profilo, materie, rischi e output.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 5,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-01/04-nucleo-comune-delta-authority.png",
+    "sha256": "857c2847e9d389c1a751512421fc91a00d3601c11bc6ceb7ec7501dadcc6275d",
+    "chapter": "Le authority viste dal candidato",
+    "alt": "Figura 1.5 — Nucleo comune e delta authority: dalla base generale all'applicazione specialistica e all'output della prova.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 6,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/01-mappa-bando-indipendenza-governance-accountability-personale.png",
+    "sha256": "9b74208b2d7b5d4cda0f986a0213f167b81be19ffb34ec60e99d763aecd9d802",
+    "chapter": "Indipendenza, governance, accountability e personale",
+    "alt": "Figura 2.1 — Mappa BANDO: Indipendenza, governance e personale.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 7,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/02-architettura-indipendenza-governance-accountability-personale.png",
+    "sha256": "2431719f8bd41f789fd8ee551c5f6e75987d68a33db827feaf904788507ae08a",
+    "chapter": "Indipendenza, governance, accountability e personale",
+    "alt": "Figura 2.2 — Architettura: Indipendenza, governance e personale.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 8,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/03-flusso-indipendenza-governance-accountability-personale.png",
+    "sha256": "8ca7bba4bcd39498e405aea0e7c2a82a4c6e01d180ad22a779b230c942885d7f",
+    "chapter": "Indipendenza, governance, accountability e personale",
+    "alt": "Figura 2.3 — Sequenza operativa: Indipendenza, governance e personale.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 9,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/04-distinzioni-indipendenza-governance-accountability-personale.png",
+    "sha256": "d653eb8ab5280f8429a9a32c17906ce5b9869c3cba3c14646c0d2125ffe39152",
+    "chapter": "Indipendenza, governance, accountability e personale",
+    "alt": "Figura 2.4 — Distinzioni essenziali: Indipendenza, governance e personale.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 10,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-02/05-sintesi-indipendenza-governance-accountability-personale.png",
+    "sha256": "09fb0678dcc3e712307c3cb2a20a28ed1a6ab42371ef94c17ab30280327f67ac",
+    "chapter": "Indipendenza, governance, accountability e personale",
+    "alt": "Figura 2.5 — Sintesi operativa: Indipendenza, governance e personale.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 11,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/01-mappa-bando-regolazione-europea-reti.png",
+    "sha256": "7c612afbc025288f65de499b108a1f460789f4b532c562dac256fcaf6e69932a",
+    "chapter": "Regolazione europea multilivello e reti delle autorità",
+    "alt": "Figura 3.1 — Mappa BANDO: Regolazione europea e reti.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 12,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/02-architettura-regolazione-europea-reti.png",
+    "sha256": "ce0a3e8d90828f4a3f0aa54e278df1ebbb87a264aa989a7193e19304ed37fe62",
+    "chapter": "Regolazione europea multilivello e reti delle autorità",
+    "alt": "Figura 3.2 — Architettura: Regolazione europea e reti.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 13,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/03-flusso-regolazione-europea-reti.png",
+    "sha256": "11bee7af624b49880220c00a341ea4031f133b5037f785fd5c4efae08666dca1",
+    "chapter": "Regolazione europea multilivello e reti delle autorità",
+    "alt": "Figura 3.3 — Sequenza operativa: Regolazione europea e reti.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 14,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/04-distinzioni-regolazione-europea-reti.png",
+    "sha256": "49390dad6f241f34b62f1014b969dd6c1182c6de7647c504e9e1d3c621d2df33",
+    "chapter": "Regolazione europea multilivello e reti delle autorità",
+    "alt": "Figura 3.4 — Distinzioni essenziali: Regolazione europea e reti.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 15,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-03/05-sintesi-regolazione-europea-reti.png",
+    "sha256": "1cd2c4b23a2915c6f29260a27ec0520318c4a571339bffd3653aa4aef643412d",
+    "chapter": "Regolazione europea multilivello e reti delle autorità",
+    "alt": "Figura 3.5 — Sintesi operativa: Regolazione europea e reti.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 16,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/01-mappa-bando-ciclo-regolatorio-air-vir.png",
+    "sha256": "9e9c1695865995bce4389b4780b1dc3e4c0ec0dd89b6297f5ad4c268849e4f4a",
+    "chapter": "Ciclo regolatorio, consultazione, AIR e VIR",
+    "alt": "Figura 4.1 — Mappa BANDO: Ciclo regolatorio, AIR e VIR.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 17,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/02-architettura-ciclo-regolatorio-air-vir.png",
+    "sha256": "975bd3705f456fc1bbac628e9b25bbd14bc6c915d3388b5116d25d30eda9411a",
+    "chapter": "Ciclo regolatorio, consultazione, AIR e VIR",
+    "alt": "Figura 4.2 — Architettura: Ciclo regolatorio, AIR e VIR.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 18,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/03-flusso-ciclo-regolatorio-air-vir.png",
+    "sha256": "f6f1fd80c528b4087fd791a4c70c0e648f834198f37c260014f58baa457e6a38",
+    "chapter": "Ciclo regolatorio, consultazione, AIR e VIR",
+    "alt": "Figura 4.3 — Sequenza operativa: Ciclo regolatorio, AIR e VIR.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 19,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/04-distinzioni-ciclo-regolatorio-air-vir.png",
+    "sha256": "8b3501a84e80cd53051ccb55d070e593565ec4509d1754c08a63ae203db572ca",
+    "chapter": "Ciclo regolatorio, consultazione, AIR e VIR",
+    "alt": "Figura 4.4 — Distinzioni essenziali: Ciclo regolatorio, AIR e VIR.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 20,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-04/05-sintesi-ciclo-regolatorio-air-vir.png",
+    "sha256": "b894c8e57745e9c52ff81f17a884b7a5df186b8f8d7cbb7289a9610e19436af0",
+    "chapter": "Ciclo regolatorio, consultazione, AIR e VIR",
+    "alt": "Figura 4.5 — Sintesi operativa: Ciclo regolatorio, AIR e VIR.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 21,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/01-mappa-bando-vigilanza-istruttoria-prova.png",
+    "sha256": "3e27e267bcbe2cca71200934a5d6ae70c584790c1911b194f5115e1297947f90",
+    "chapter": "Vigilanza, istruttoria, ispezioni, dati e prova",
+    "alt": "Figura 5.1 — Mappa BANDO: Vigilanza, istruttoria e prova.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 22,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/02-architettura-vigilanza-istruttoria-prova.png",
+    "sha256": "d5063294687e433b83f14d27dab6c6bc31336a95e3c0bbb0c28586683c902331",
+    "chapter": "Vigilanza, istruttoria, ispezioni, dati e prova",
+    "alt": "Figura 5.2 — Architettura: Vigilanza, istruttoria e prova.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 23,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/03-flusso-vigilanza-istruttoria-prova.png",
+    "sha256": "5436a9f88a199a02cc500cc052b7ba0ca79f10121b5eb1ba6d576bd3c42ff345",
+    "chapter": "Vigilanza, istruttoria, ispezioni, dati e prova",
+    "alt": "Figura 5.3 — Sequenza operativa: Vigilanza, istruttoria e prova.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 24,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/04-distinzioni-vigilanza-istruttoria-prova.png",
+    "sha256": "5f75d8ee0c111b27261d478ddb600e0a4602bd936df29d0e4b55d5a9f729f79c",
+    "chapter": "Vigilanza, istruttoria, ispezioni, dati e prova",
+    "alt": "Figura 5.4 — Distinzioni essenziali: Vigilanza, istruttoria e prova.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 25,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-05/05-sintesi-vigilanza-istruttoria-prova.png",
+    "sha256": "fefd333f57b802342acb72d0986eedf2039e57ca485b90785e5ae62d7ab2c44c",
+    "chapter": "Vigilanza, istruttoria, ispezioni, dati e prova",
+    "alt": "Figura 5.5 — Sintesi operativa: Vigilanza, istruttoria e prova.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 26,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/01-mappa-bando-sanzioni-impegni-rimedi.png",
+    "sha256": "db020da15f1e357a2ce4a8a428b35b3932d9bc17b860ac2c53b89db0dcfb3e2f",
+    "chapter": "Sanzioni, impegni, rimedi e controllo giurisdizionale",
+    "alt": "Figura 6.1 — Mappa BANDO: Sanzioni, impegni e rimedi.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 27,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/02-architettura-sanzioni-impegni-rimedi.png",
+    "sha256": "10e00bc1b6e2c1211f6272250ee3dad084e80b74f4605402a79b26bff83097d2",
+    "chapter": "Sanzioni, impegni, rimedi e controllo giurisdizionale",
+    "alt": "Figura 6.2 — Architettura: Sanzioni, impegni e rimedi.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 28,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/03-flusso-sanzioni-impegni-rimedi.png",
+    "sha256": "927fda4eda053c100f4e6d9c859d4002894f2f80971701036b75bc91ff49d3e8",
+    "chapter": "Sanzioni, impegni, rimedi e controllo giurisdizionale",
+    "alt": "Figura 6.3 — Sequenza operativa: Sanzioni, impegni e rimedi.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 29,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/04-distinzioni-sanzioni-impegni-rimedi.png",
+    "sha256": "8bc8c03a29ac5d292579b9892ab660db2e73cf8263fc18694a84bb9b54cc2960",
+    "chapter": "Sanzioni, impegni, rimedi e controllo giurisdizionale",
+    "alt": "Figura 6.4 — Distinzioni essenziali: Sanzioni, impegni e rimedi.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 30,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-06/05-sintesi-sanzioni-impegni-rimedi.png",
+    "sha256": "42f78da4f1b82873dbe12a680fd5ce410f9735b0823ee8d082cdca5f21859029",
+    "chapter": "Sanzioni, impegni, rimedi e controllo giurisdizionale",
+    "alt": "Figura 6.5 — Sintesi operativa: Sanzioni, impegni e rimedi.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 31,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/01-mappa-bando-economia-regolazione-dati.png",
+    "sha256": "e6ce526cb57c32779cb654351d68f56563361c1bd491a034a29459c454891961",
+    "chapter": "Economia industriale, regolazione, econometria e contabilità regolatoria",
+    "alt": "Figura 7.1 — Mappa BANDO: Economia della regolazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 32,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/02-architettura-economia-regolazione-dati.png",
+    "sha256": "0696b1601db2a049ca8ce7bde050468ebf5dd9af67b60d58e536d93c5ceda2ce",
+    "chapter": "Economia industriale, regolazione, econometria e contabilità regolatoria",
+    "alt": "Figura 7.2 — Architettura: Economia della regolazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 33,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/03-flusso-economia-regolazione-dati.png",
+    "sha256": "df1e986853acdb6b3615911137fe463bc001b2d5d0227ec49deaedc70f407d84",
+    "chapter": "Economia industriale, regolazione, econometria e contabilità regolatoria",
+    "alt": "Figura 7.3 — Sequenza operativa: Economia della regolazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 34,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/04-distinzioni-economia-regolazione-dati.png",
+    "sha256": "60fc71e379435b1d3f393781ceaaac4921496457e92b8c677d3f71940b422577",
+    "chapter": "Economia industriale, regolazione, econometria e contabilità regolatoria",
+    "alt": "Figura 7.4 — Distinzioni essenziali: Economia della regolazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 35,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-07/05-sintesi-economia-regolazione-dati.png",
+    "sha256": "54f236691e1a5bbca02cfd6cea6c00133795b62684745bebf979d10bd55164d5",
+    "chapter": "Economia industriale, regolazione, econometria e contabilità regolatoria",
+    "alt": "Figura 7.5 — Sintesi operativa: Economia della regolazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 36,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/01-mappa-bando-agcm-concorrenza-consumatore.png",
+    "sha256": "a172a8b6597e1adefb016a3dcc450f1808ca4681a91990a16694015b98255bfa",
+    "chapter": "AGCM: concorrenza, consumatore e pratiche scorrette",
+    "alt": "Figura 8.1 — Mappa BANDO: concorrenza e consumatore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 37,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/02-architettura-agcm-concorrenza-consumatore.png",
+    "sha256": "4cb0eae1100a0d246f1dff14da367620e01befcc474c1ced876698999783b852",
+    "chapter": "AGCM: concorrenza, consumatore e pratiche scorrette",
+    "alt": "Figura 8.2 — Architettura: AGCM: concorrenza e consumatore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 38,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/03-flusso-agcm-concorrenza-consumatore.png",
+    "sha256": "40832742c4f73b79112eeb3861386383ef0399914da77659a9d36c390542cf1a",
+    "chapter": "AGCM: concorrenza, consumatore e pratiche scorrette",
+    "alt": "Figura 8.3 — Sequenza operativa: AGCM: concorrenza e consumatore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 39,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/04-distinzioni-agcm-concorrenza-consumatore.png",
+    "sha256": "296cd6bdd0332c51422f17b897f144cfe4ed76012de4e9096f827dda53718efd",
+    "chapter": "AGCM: concorrenza, consumatore e pratiche scorrette",
+    "alt": "Figura 8.4 — Distinzioni essenziali: AGCM: concorrenza e consumatore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 40,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-08/05-sintesi-agcm-concorrenza-consumatore.png",
+    "sha256": "7948954801acff7bca1d431187175b70ac4bf86b4ac0abd31aae64790afc4cf2",
+    "chapter": "AGCM: concorrenza, consumatore e pratiche scorrette",
+    "alt": "Figura 8.5 — Sintesi operativa: AGCM: concorrenza e consumatore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 41,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/01-mappa-bando-arera-servizi-tariffe.png",
+    "sha256": "e6e583a8e8ee37c5d36cfcaa0067152a92e3f2365b0556df59ec647e8c64b3b3",
+    "chapter": "ARERA: energia, gas, acqua, rifiuti e tariffe",
+    "alt": "Figura 9.1 — Mappa BANDO: servizi e tariffe.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 42,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/02-architettura-arera-servizi-tariffe.png",
+    "sha256": "ad9045a039cc44cedcf7fec34f451bf9dd08d676203ed99068d29f47805e4fe6",
+    "chapter": "ARERA: energia, gas, acqua, rifiuti e tariffe",
+    "alt": "Figura 9.2 — Architettura: ARERA: servizi e tariffe.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 43,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/03-flusso-arera-servizi-tariffe.png",
+    "sha256": "49fde054edd829605a3e9c9114a0b5794a95ac6ebed30ac810a3bbe2a7be8849",
+    "chapter": "ARERA: energia, gas, acqua, rifiuti e tariffe",
+    "alt": "Figura 9.3 — Sequenza operativa: ARERA: servizi e tariffe.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 44,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/04-distinzioni-arera-servizi-tariffe.png",
+    "sha256": "ae2decd75c8940e2e78398647435871e31cc9581ff6c4b7e0e5c516157b643a9",
+    "chapter": "ARERA: energia, gas, acqua, rifiuti e tariffe",
+    "alt": "Figura 9.4 — Distinzioni essenziali: ARERA: servizi e tariffe.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 45,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-09/05-sintesi-arera-servizi-tariffe.png",
+    "sha256": "0378f22561aebfad0752406e2906eaaa0ab5da621ac527676d37d126a7c1fbc6",
+    "chapter": "ARERA: energia, gas, acqua, rifiuti e tariffe",
+    "alt": "Figura 9.5 — Sintesi operativa: ARERA: servizi e tariffe.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 46,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/01-mappa-bando-agcom-media-piattaforme.png",
+    "sha256": "cf10c6d2d240f61dce6e9635f5bc6931f7521f7341285ad1349a0a1b15925a7d",
+    "chapter": "AGCOM: comunicazioni, media, utenti e piattaforme",
+    "alt": "Figura 10.1 — Mappa BANDO: comunicazioni e piattaforme.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 47,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/02-architettura-agcom-media-piattaforme.png",
+    "sha256": "a314c35f00de0406ee9695b6fd5414c7be110529535e5f86c39cca9775481ed6",
+    "chapter": "AGCOM: comunicazioni, media, utenti e piattaforme",
+    "alt": "Figura 10.2 — Architettura: AGCOM: comunicazioni e piattaforme.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 48,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/03-flusso-agcom-media-piattaforme.png",
+    "sha256": "02d261e7e3e89fde48e06143c3bb1493ed731aeb3bd87b94af5b6c2fd1cece04",
+    "chapter": "AGCOM: comunicazioni, media, utenti e piattaforme",
+    "alt": "Figura 10.3 — Sequenza operativa: AGCOM: comunicazioni e piattaforme.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 49,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/04-distinzioni-agcom-media-piattaforme.png",
+    "sha256": "ef7c891384d6b6f56569cce390fc4193be7b1bc82a9414d1cf9b5fe06c1a324d",
+    "chapter": "AGCOM: comunicazioni, media, utenti e piattaforme",
+    "alt": "Figura 10.4 — Distinzioni essenziali: AGCOM: comunicazioni e piattaforme.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 50,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-10/05-sintesi-agcom-media-piattaforme.png",
+    "sha256": "25fbaaddec69f03dacecc9ee6fffcb9e5b831f1db14e9a73b94db902016a902b",
+    "chapter": "AGCOM: comunicazioni, media, utenti e piattaforme",
+    "alt": "Figura 10.5 — Sintesi operativa: AGCOM: comunicazioni e piattaforme.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 51,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/01-mappa-bando-consob-mercati-investitore.png",
+    "sha256": "03703c2eae26b7dfd8b6393f435c16469d223446c85e0bf3533851e9a52f7327",
+    "chapter": "CONSOB: mercati, intermediari e tutela dell'investitore",
+    "alt": "Figura 11.1 — Mappa BANDO: mercati e investitore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 52,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/02-architettura-consob-mercati-investitore.png",
+    "sha256": "40f80a6c99fa08b099375145f0379a4a3d1539bb0f9397e453e879a06d05a69b",
+    "chapter": "CONSOB: mercati, intermediari e tutela dell'investitore",
+    "alt": "Figura 11.2 — Architettura: CONSOB: mercati e investitore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 53,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/03-flusso-consob-mercati-investitore.png",
+    "sha256": "a015145f21d7dc9dfda00ad8d46ce506ec02f8a8a70626a8ec93de6f0c78e562",
+    "chapter": "CONSOB: mercati, intermediari e tutela dell'investitore",
+    "alt": "Figura 11.3 — Sequenza operativa: CONSOB: mercati e investitore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 54,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/04-distinzioni-consob-mercati-investitore.png",
+    "sha256": "3441d2862a1cf2865a76b7dac04fa0e7d9a379379afe3499aeb5e2fc62ea5955",
+    "chapter": "CONSOB: mercati, intermediari e tutela dell'investitore",
+    "alt": "Figura 11.4 — Distinzioni essenziali: CONSOB: mercati e investitore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 55,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-11/05-sintesi-consob-mercati-investitore.png",
+    "sha256": "dc3b4350fe923bcfefcb9fa8928f4bf29213d731c9e5ed49013772b7320117b7",
+    "chapter": "CONSOB: mercati, intermediari e tutela dell'investitore",
+    "alt": "Figura 11.5 — Sintesi operativa: CONSOB: mercati e investitore.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 56,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/01-mappa-bando-banca-italia-ivass.png",
+    "sha256": "168579fc3e3e093c498eced07743a191fa4599ed55ae97071e350626b97e0c3a",
+    "chapter": "Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa",
+    "alt": "Figura 12.1 — Mappa BANDO: Banca d'Italia e IVASS.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 57,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/02-architettura-banca-italia-ivass.png",
+    "sha256": "a44859462ebdb6d07af7173f023506a39a58fc12fe332ccdbda9ac8f19d40dac",
+    "chapter": "Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa",
+    "alt": "Figura 12.2 — Architettura: Banca d'Italia e IVASS.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 58,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/03-flusso-banca-italia-ivass.png",
+    "sha256": "cd72d77d9e23229456ccd0ef05cd9e918c4afb5c22e25513b1ab0e35ebd8a726",
+    "chapter": "Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa",
+    "alt": "Figura 12.3 — Sequenza operativa: Banca d'Italia e IVASS.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 59,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/04-distinzioni-banca-italia-ivass.png",
+    "sha256": "cb135f65a22b87240ada32759522319d81267b0e62bc9c5d9f5a9cd327685e3f",
+    "chapter": "Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa",
+    "alt": "Figura 12.4 — Distinzioni essenziali: Banca d'Italia e IVASS.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 60,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-12/05-sintesi-banca-italia-ivass.png",
+    "sha256": "fa52e5a0acb289834a16825bc854c246f31c2598889868aa7f9900f7605dd368",
+    "chapter": "Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa",
+    "alt": "Figura 12.5 — Sintesi operativa: Banca d'Italia e IVASS.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 61,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/01-mappa-bando-garante-privacy-cooperazione.png",
+    "sha256": "839d294febd90faf22bb40ba76b4ee66f3c5e0369eff9d9192f86f8f3daedd63",
+    "chapter": "Garante privacy: poteri, procedimenti e cooperazione europea",
+    "alt": "Figura 13.1 — Mappa BANDO: Garante privacy e cooperazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 62,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/02-architettura-garante-privacy-cooperazione.png",
+    "sha256": "1d0655e85cc1fb1f55343c827483c02a98be5c3b0a8375e417608cd4bc0f1066",
+    "chapter": "Garante privacy: poteri, procedimenti e cooperazione europea",
+    "alt": "Figura 13.2 — Architettura: Garante privacy e cooperazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 63,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/03-flusso-garante-privacy-cooperazione.png",
+    "sha256": "719fe13557d2c80d24a89805e1ff37789b64fe2ecb4092f4686939b34d15f5c7",
+    "chapter": "Garante privacy: poteri, procedimenti e cooperazione europea",
+    "alt": "Figura 13.3 — Sequenza operativa: Garante privacy e cooperazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 64,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/04-distinzioni-garante-privacy-cooperazione.png",
+    "sha256": "564361ab741bf9f2d3b60c9094eaec50156872d70c54b3192e87fa1cf984a56a",
+    "chapter": "Garante privacy: poteri, procedimenti e cooperazione europea",
+    "alt": "Figura 13.4 — Distinzioni essenziali: Garante privacy e cooperazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 65,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-13/05-sintesi-garante-privacy-cooperazione.png",
+    "sha256": "7f7201145366a50d80496823981fda6918b942a206239793f1ce1667bf3b64c8",
+    "chapter": "Garante privacy: poteri, procedimenti e cooperazione europea",
+    "alt": "Figura 13.5 — Sintesi operativa: Garante privacy e cooperazione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 66,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/01-mappa-bando-anac-prevenzione-whistleblowing.png",
+    "sha256": "edf08f45991036c4c18eefac0a90d4a88397e8f98336b13ce15a3e0e7a10778c",
+    "chapter": "ANAC: prevenzione, vigilanza e whistleblowing",
+    "alt": "Figura 14.1 — Mappa BANDO: prevenzione e whistleblowing.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 67,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/02-architettura-anac-prevenzione-whistleblowing.png",
+    "sha256": "ebe6ce7dc1572cd40d1c987c5ef42ed9274ebdab8be4a9873b3e1c09f21464ed",
+    "chapter": "ANAC: prevenzione, vigilanza e whistleblowing",
+    "alt": "Figura 14.2 — Architettura: ANAC: prevenzione e whistleblowing.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 68,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/03-flusso-anac-prevenzione-whistleblowing.png",
+    "sha256": "c7800adb3142e23526105d42e4ddc158ef48f892df98b49c2d6737cde5d0c643",
+    "chapter": "ANAC: prevenzione, vigilanza e whistleblowing",
+    "alt": "Figura 14.3 — Sequenza operativa: ANAC: prevenzione e whistleblowing.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 69,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/04-distinzioni-anac-prevenzione-whistleblowing.png",
+    "sha256": "f72f66eef483889315418e15f8a419cc95f1d5cadb1b632995c9d4ba24939f3d",
+    "chapter": "ANAC: prevenzione, vigilanza e whistleblowing",
+    "alt": "Figura 14.4 — Distinzioni essenziali: ANAC: prevenzione e whistleblowing.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 70,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-14/05-sintesi-anac-prevenzione-whistleblowing.png",
+    "sha256": "436d232b50fbebce28f3e8bdda0ae86918b4b2ba3945a35ab63d5bdcea479c0e",
+    "chapter": "ANAC: prevenzione, vigilanza e whistleblowing",
+    "alt": "Figura 14.5 — Sintesi operativa: ANAC: prevenzione e whistleblowing.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 71,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/01-mappa-bando-laboratorio-prove-authority.png",
+    "sha256": "5b6bbdf392a62c62b7efd34f329f3704b3b2293ca3906059e3d4413071c3b79f",
+    "chapter": "Laboratorio delle prove authority",
+    "alt": "Figura 15.1 — Mappa BANDO: Laboratorio delle prove authority.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 72,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/02-architettura-laboratorio-prove-authority.png",
+    "sha256": "73dd637afa1733d1aaf7ec3699d3a2056548f6c4706c7a1e30eaebfcb4d9c514",
+    "chapter": "Laboratorio delle prove authority",
+    "alt": "Figura 15.2 — Architettura: Laboratorio delle prove authority.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 73,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/03-flusso-laboratorio-prove-authority.png",
+    "sha256": "2e877eeb1396baba02be92236fbf49b7983e68b6d0a04081d618060a04ae947f",
+    "chapter": "Laboratorio delle prove authority",
+    "alt": "Figura 15.3 — Sequenza operativa: Laboratorio delle prove authority.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 74,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/04-distinzioni-laboratorio-prove-authority.png",
+    "sha256": "0359650e70cff616c368f0fb31eb1ef5cfce686489598bf633789a306967ed50",
+    "chapter": "Laboratorio delle prove authority",
+    "alt": "Figura 15.4 — Distinzioni essenziali: Laboratorio delle prove authority.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 75,
+    "file": "wiki/books/moduli/m-fc05-authority-indipendenti/assets/chapter-15/05-sintesi-laboratorio-prove-authority.png",
+    "sha256": "70b6d632a31f26b5c998e7342fde9c08ccefcadd460c6f9adb06ab5e3ba66b8f",
+    "chapter": "Laboratorio delle prove authority",
+    "alt": "Figura 15.5 — Sintesi operativa: Laboratorio delle prove authority.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  }
+]

@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/00-scheda-pipeline.md",
   "specHash": "sha256:16427224662897bef0b1fd8136b11d66ca67ce581e7018439ad596054c09e1fa",
   "createdAt": "2026-07-29T16:31:35.732Z",
-  "updatedAt": "2026-08-23T20:50:34.548Z",
+  "updatedAt": "2026-10-03T10:52:14.614Z",
   "steps": [
     {
       "key": "04:VOL-06",
@@ -1648,17 +1648,19 @@
       "target": "moduli/m-ir01-scuola",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
+      "evidence": [
+        "reopen: Correzioni autorizzate audit integrale V06-01/08,23,33/36; preservare lavoro altrui."
+      ],
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-29T22:12:20.219Z",
+      "startedAt": "2026-10-02T22:35:30.826Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-07-29T22:13:55.481Z"
+      "finishedAt": "2026-10-03T00:18:49.638Z"
     },
     {
       "key": "15:moduli/m-ir01-scuola",
@@ -1669,29 +1671,16 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "Anton",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T14:48:46.760Z",
+      "startedAt": "2026-10-03T00:18:59.692Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"human-signoff\" dello step 15 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "moduli/m-ir01-scuola"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Pacchetto di review umana specialistica predisposto con checklist puntuale su claim normativi, procedure, dati mobili, casi, fonti e limiti. Chiusura manuale richiesta dal flusso: nessuna correzione applicata senza esito firmato; review_required resta attivo."
-          }
-        ],
-        "notImplemented": [
-          "human-signoff"
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-31T14:50:13.079Z"
+      "finishedAt": "2026-10-03T00:19:49.901Z"
     },
     {
       "key": "16:moduli/m-ir01-scuola",
@@ -1702,29 +1691,29 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "Anton",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T15:10:08.124Z",
+      "startedAt": "2026-10-03T00:19:54.661Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": [
           {
             "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"text-freeze\" dello step 16 non ? ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "moduli/m-ir01-scuola"
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Manifest di text freeze creato con elenco dei capitoli e dei documenti di governo, hash SHA-256 e commit di riferimento. Copertura, Humanizer, revisioni e correzioni verificate; la review specialistica resta tracciata come chiusura manuale con review_required attivo sulle fonti mobili."
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale 13 capitoli, matrice riconciliata, audit15 passed, indice e fonti verificati; manifest M-IR01-freeze.json con SHA256. Legacy dichiarato, nuovo PDF escluso da questo esito."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-07-31T15:11:42.233Z"
+      "finishedAt": "2026-10-03T00:20:23.810Z"
     },
     {
       "key": "05:moduli/m-ir02-universita-afam",
@@ -3180,17 +3169,19 @@
       "target": "moduli/m-ir02-universita-afam",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Correzioni autorizzate V06-09/16,24,33/35: completare contenuti e casi, preservare correzioni export del renderer."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T20:31:30.183Z",
+      "startedAt": "2026-10-03T00:20:38.353Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-22T20:31:39.718Z"
+      "finishedAt": "2026-10-03T00:34:45.507Z"
     },
     {
       "key": "15:moduli/m-ir02-universita-afam",
@@ -3200,38 +3191,19 @@
       "target": "moduli/m-ir02-universita-afam",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Gate richiamato prima della scrittura del nuovo report per errore nello script di conteggio quiz: esito precedente non valido per questa revisione; ripetere audit e controllo."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T20:31:41.416Z",
+      "startedAt": "2026-10-03T00:36:14.658Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S01: stato \"verificato\".",
-            "location": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir02-universita-afam.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S02: stato \"verificato\".",
-            "location": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir02-universita-afam.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S03: stato \"verificato\".",
-            "location": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir02-universita-afam.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto S04: stato \"verificato\".",
-            "location": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir02-universita-afam.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-08-22T20:32:32.344Z"
+      "finishedAt": "2026-10-03T00:36:19.628Z"
     },
     {
       "key": "16:moduli/m-ir02-universita-afam",
@@ -3245,7 +3217,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T20:32:34.081Z",
+      "startedAt": "2026-10-03T00:36:26.046Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -3257,14 +3229,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale completata: 12/12 capitoli presenti e Formato 2; matrice senza stati bloccanti; gate 08-15 conclusi; fonti e dato PRIN 2026 verificati; metadati finali e manifest SHA-256 registrato in wiki/reviews/pipeline/VOL-06/16-moduli-m-ir02-universita-afam.md."
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato. Verifica manuale: 12 capitoli e hash nel manifest M-IR02-freeze.json, 60 nuclei, 86 quiz, matrice e indice riconciliati, audit15 corrente passato senza blocker/warning, fonti e limiti dichiarati. Nuovo PDF ancora da verificare; nessuna pubblicabilità del volume."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-22T20:35:30.661Z"
+      "finishedAt": "2026-10-03T00:37:12.570Z"
     },
     {
       "key": "05:moduli/m-ir03-enti-ricerca",
@@ -4745,23 +4717,19 @@
       "target": "moduli/m-ir03-enti-ricerca",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata V06-17/24 e quote 10,33,35,36: norme EPR, bilanci, contratti, ricerca, proprietà industriale e casi disciplinari."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-23T00:45:21.446Z",
+      "startedAt": "2026-10-03T00:37:19.797Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto 4: stato \"facoltativo\".",
-            "location": "wiki/reviews/pipeline/VOL-06/14-moduli-m-ir03-enti-ricerca.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-08-23T00:46:20.069Z"
+      "finishedAt": "2026-10-03T00:51:25.413Z"
     },
     {
       "key": "15:moduli/m-ir03-enti-ricerca",
@@ -4775,13 +4743,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-23T00:46:26.127Z",
+      "startedAt": "2026-10-03T00:51:26.240Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-23T00:47:24.889Z"
+      "finishedAt": "2026-10-03T00:52:10.021Z"
     },
     {
       "key": "16:moduli/m-ir03-enti-ricerca",
@@ -4795,7 +4763,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-23T00:47:32.206Z",
+      "startedAt": "2026-10-03T00:52:10.862Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -4807,14 +4775,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale completata: 12 capitoli presenti, formato 2 e gate individuali superati, indice allineato, matrice senza nuclei parziali/mancanti, audit specialistico chiuso e manifest con hash creato."
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale eseguita. Dodici capitoli, matrice riconciliata, 60 nuclei, 72 quiz, fonti selettive consolidate, rinvio verificato, audit15 passato e manifest SHA256 M-IR03-freeze.json. PDF nuovo ancora da controllare; nessuna pubblicabilita attestata."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-23T00:48:41.927Z"
+      "finishedAt": "2026-10-03T00:52:59.283Z"
     },
     {
       "key": "05:moduli/m-ir04-cultura-beni-culturali",
@@ -6460,17 +6428,19 @@
       "target": "moduli/m-ir04-cultura-beni-culturali",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata dei rilievi V06-11 e V06-25-36: completamento tutela, catalogazione, archivi, profili e quiz; nuovi PDF successivi."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-23T20:14:00.789Z",
+      "startedAt": "2026-10-03T00:53:10.001Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-23T20:14:33.065Z"
+      "finishedAt": "2026-10-03T01:05:51.495Z"
     },
     {
       "key": "15:moduli/m-ir04-cultura-beni-culturali",
@@ -6484,13 +6454,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-23T20:14:35.829Z",
+      "startedAt": "2026-10-03T01:06:00.314Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-23T20:16:04.808Z"
+      "finishedAt": "2026-10-03T01:07:10.321Z"
     },
     {
       "key": "16:moduli/m-ir04-cultura-beni-culturali",
@@ -6504,7 +6474,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-23T20:16:07.658Z",
+      "startedAt": "2026-10-03T01:07:18.038Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -6516,14 +6486,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale completata: manifest presente, 13 capitoli v2 verificati, matrice senza stati parziali, Humanizer e audit specialistico conclusi; sono ammesse solo correzioni controllate."
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato; verifica manuale conclusa: 13 capitoli, 65 nuclei, 78 quiz, matrice e indice riconciliati, fonti selettive e limiti dichiarati, step15 passato, manifest SHA256 in artifacts/correzioni-collana-2026-10-02/M-IR04-freeze.json. Nuovo PDF ancora da verificare."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-23T20:18:13.764Z"
+      "finishedAt": "2026-10-03T01:08:00.214Z"
     },
     {
       "key": "21:VOL-06",
@@ -6531,19 +6501,13 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-06",
-      "status": "done",
+      "status": "in-progress",
       "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-23T20:18:16.505Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-23T20:20:27.924Z"
+      "startedAt": "2026-10-03T10:52:14.614Z"
     },
     {
       "key": "22:VOL-06",
@@ -6551,32 +6515,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-06",
-      "status": "done",
-      "attempts": 2,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-23T20:40:30.967Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-06"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Preflight verificato: 4 matrici/50 righe complete, typecheck, build e 554 test verdi; PDF VOL-06 530 pagine 6.69x9.61 in, no bleed, font incorporati. Warning git diff-check limitato a hard break Markdown intenzionali M-IR02 e CRLF VOL-11 fuori scope; KDP Previewer non disponibile."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-23T20:41:18.567Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-06",
@@ -6584,32 +6525,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-06",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-23T20:41:21.248Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-06"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Pacchetto candidato verificato manualmente: PDF 530 pagine presente e con hash E262D329A64D7D7B1867FC85FE88DA46CD433F0917CCEAA06886ABF35CDB5838; README, VERSION, report, preflight, changelog, limiti, manutenzione, checklist KDP e manifest presenti; hash del manifest coerenti; diff e diff cached limitati al pacchetto senza errori. Typecheck, build e 554 test verdi. Nessuno staging globale eseguito perché l'indice condiviso contiene modifiche esterne al perimetro."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-23T20:50:34.548Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "24:VOL-06",

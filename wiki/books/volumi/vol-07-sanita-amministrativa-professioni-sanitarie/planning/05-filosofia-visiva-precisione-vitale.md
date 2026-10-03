@@ -17,7 +17,7 @@ book_refs:
   - vol-07-sanita-amministrativa-professioni-sanitarie
   - il-metodo-bando
 confidence: 0.98
-updated_at: 2026-08-04T14:00:00+02:00
+updated_at: 2026-10-02
 created_at: 2026-08-04T14:00:00+02:00
 review_required: false
 canonical: true
@@ -38,6 +38,6 @@ Scala e ritmo trasformano la complessità sanitaria in sequenze leggibili. Una s
 
 La composizione cerca equilibrio tra sistema e persona senza ricorrere a icone cliniche stereotipate, fotografie stock o gesti illustrativi ornamentali. Griglie invisibili sostengono allineamenti rigorosi; linee e forme rendono espliciti flussi, alternative, confini di competenza e punti di escalation. Pieni e vuoti si compensano, ogni pagina offre un percorso principale e nessun segno compete con l'informazione. L'esecuzione deve avere precisione magistrale: nessuna collisione, sovrapposizione, ambiguità o densità ottenuta sacrificando la leggibilità.
 
-La gerarchia visiva precede la lettura verbale. Il testo è raro e indispensabile: titoli brevi, etichette esatte, numeri o verbi d'azione e didascalie essenziali. Arial governa gli elementi interni di diagrammi, tabelle, quiz e strumenti; Garamond resta alla prosa e alle didascalie editoriali. Il significato deve emergere prima da posizione, scala, contrasto, sequenza e relazione, con parole usate solo quando una forma non può comunicare la distinzione con sufficiente precisione.
+La gerarchia visiva precede la lettura verbale. Negli schemi il testo è raro e indispensabile: titoli brevi, etichette esatte, numeri o verbi d'azione e didascalie essenziali. Arial governa diagrammi, tabelle, quiz, strumenti e didascalie; Garamond resta alla prosa. Il significato emerge da posizione, scala, contrasto, sequenza e relazione, senza sostituire le spiegazioni necessarie nei capitoli. Le integrazioni nazionali del 2 ottobre adottano confronti brevi e quiz separati dalle soluzioni: nessuna nuova immagine decorativa è necessaria.
 
-Ogni artefatto deve essere compatibile con il design system ConcorsoBook OS e con il formato KDP verticale 6,69 × 9,61 pollici, senza bleed salvo eccezione dichiarata. Linee, campiture, margini e caratteri devono restare nitidi sulla carta, nel Book Studio e in bianco e nero; gli esercizi privilegiano lo spazio compilabile rispetto alla densità. Prima della consegna, una seconda passata controlla allineamenti, margini sicuri, ritmo, contrasto, coerenza dei segni, accuratezza del testo e rapporto con i blocchi adiacenti. Il risultato deve testimoniare maestria, esperienza profonda e un lavoro paziente di sottrazione, lasciando comunque libertà sufficiente perché ogni nuovo asset trovi una forma originale e necessaria.
+Ogni artefatto deve essere compatibile con il design system ConcorsoBook OS e con il formato KDP verticale 6,69 × 9,61 pollici, senza bleed salvo eccezione dichiarata. Linee, campiture, margini e caratteri devono restare nitidi sulla carta, nel Book Studio e in bianco e nero; gli esercizi privilegiano lo spazio compilabile rispetto alla densità. A ogni integrazione una nuova passata controlla spazi bianchi, titoli orfani, tabelle, interruzioni, allineamenti, margini, contrasto e rapporto con i blocchi adiacenti sul PDF rigenerato. Le griglie dense si dividono, non si rendono minuscole. Il risultato deve testimoniare maestria, esperienza profonda e un lavoro paziente di sottrazione, lasciando libertà sufficiente perché ogni nuovo asset trovi una forma originale e necessaria.

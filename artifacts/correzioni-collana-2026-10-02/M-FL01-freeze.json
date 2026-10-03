@@ -1,0 +1,99 @@
+{
+  "module": "M-FL01",
+  "cutoff": "2026-10-03",
+  "files": [
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "c52a961fc88e87f428f36e62e67e04538bb36ea9523a99dbfce4ca56bf72a167"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "b08aa52e25a39bdf259cee1d67b8e80d888cad8effe704e5eb4223ba71c30174"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "971f582a951294559f2044d62444dc0d854bde73e7eb4a1e81b439c90a4f9804"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "f1ff49454321effccf883c01897a9cfadf2b250dfb7451fb9a86cd885bfc2792"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "856e1f20ad0bb974db48367c4b2dce9c7b10b9e2b499c993ce8cc452c57eaf90"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "72084d5e00151be82b06bdf3e38163cfcb868cf313bde809d1f6254039ac6832"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "f2aa59f4260dd07f5abfcb5c0570268b510325800fb773281124ee22aac5bda2"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "e6a652df01f9b94ac59f1bf74be2b63e11dea2971d86b9543f7a62d3257ac94e"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "d420eceaeda95976c663e6028673b8f3986acea99341cee70024e690838071ee"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "47a0c35aa27749476d0741774cfa60b62fecf6882944147ba5161913323ba46d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "34753206dfe016f42fd1ed79be6e1433dcf4671fb297cc064772fe2a1d6c2dbe"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "277283bf874b6baae2df8dee7242fdb959bf0585f66d021bcaf1ae23550bc0ce"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "bbba572a0795006b016e2f0c874269621c0f6d311436dfea6a430e1f7f0ab715"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "9e8b0631bd6a9d8854254ba5da03423d634c33b1e973c1da0d8136db486b7320"
+    }
+  ],
+  "pdfChecked": true,
+  "pdfReviewMethod": "Whole-PDF contact sheets plus targeted closeups; see PDF-VOL-02.md, not all-page full-resolution reading",
+  "pdfProof": {
+    "id": "tomo-1",
+    "pdf": "tomo-1\\vol-02-tomo-1-proof.pdf",
+    "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+    "pages": 700,
+    "indexEntries": 177
+  }
+}

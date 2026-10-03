@@ -1,0 +1,201 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-09-release-20261003-proof.pdf",
+  "sha256": "5d673dcc24634e02766c3cee81663164cbab23ab2381d2b4c36d5683f49f6377",
+  "pages": 267,
+  "domPages": 267,
+  "pageCountMatch": true,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "indexEntries": [
+    {
+      "number": 1,
+      "title": "I quattro profili e il ciclo integrato",
+      "indexPage": 6,
+      "printedPage": 10,
+      "actualPage": 10,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md"
+    },
+    {
+      "number": 2,
+      "title": "Governance: RUP, fasi, team e qualificazione",
+      "indexPage": 6,
+      "printedPage": 25,
+      "actualPage": 25,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md"
+    },
+    {
+      "number": 3,
+      "title": "Strategia, fabbisogni e programmazione",
+      "indexPage": 6,
+      "printedPage": 41,
+      "actualPage": 41,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md"
+    },
+    {
+      "number": 4,
+      "title": "Progettazione della gara e documenti",
+      "indexPage": 6,
+      "printedPage": 59,
+      "actualPage": 59,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md"
+    },
+    {
+      "number": 5,
+      "title": "Sotto soglia e procurement operativo",
+      "indexPage": 6,
+      "printedPage": 80,
+      "actualPage": 80,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md"
+    },
+    {
+      "number": 6,
+      "title": "Ecosistema digitale: PAD, PCP, BDNCP e FVOE",
+      "indexPage": 6,
+      "printedPage": 98,
+      "actualPage": 98,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md"
+    },
+    {
+      "number": 7,
+      "title": "Consip, MEPA, AQ, SDAPA e ASP",
+      "indexPage": 6,
+      "printedPage": 115,
+      "actualPage": 115,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md"
+    },
+    {
+      "number": 8,
+      "title": "Governo dell'esecuzione",
+      "indexPage": 7,
+      "printedPage": 134,
+      "actualPage": 134,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md"
+    },
+    {
+      "number": 9,
+      "title": "Rimedi, precontenzioso e contenzioso",
+      "indexPage": 7,
+      "printedPage": 150,
+      "actualPage": 150,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md"
+    },
+    {
+      "number": 10,
+      "title": "PNRR: architettura, milestone, target e ReGiS",
+      "indexPage": 7,
+      "printedPage": 169,
+      "actualPage": 169,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md"
+    },
+    {
+      "number": 11,
+      "title": "Gestione finanziaria, rendicontazione e controlli",
+      "indexPage": 7,
+      "printedPage": 186,
+      "actualPage": 186,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md"
+    },
+    {
+      "number": 12,
+      "title": "DNSH, CAM e procurement sostenibile",
+      "indexPage": 7,
+      "printedPage": 203,
+      "actualPage": 203,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md"
+    },
+    {
+      "number": 13,
+      "title": "Project management pubblico",
+      "indexPage": 7,
+      "printedPage": 227,
+      "actualPage": 227,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md"
+    },
+    {
+      "number": 14,
+      "title": "Laboratorio: atti, casi e simulazioni",
+      "indexPage": 8,
+      "printedPage": 246,
+      "actualPage": 246,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md"
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "name": "AAAAAA+Arial-BoldMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "BAAAAA+Garamond",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+Arial-Black",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "EAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "",
+      "type": "Type3",
+      "embedded": true
+    },
+    {
+      "name": "GAAAAA+Georgia",
+      "type": "Type0",
+      "embedded": true
+    }
+  ],
+  "allFontsEmbedded": true,
+  "overflowPages": [],
+  "internalLeaks": [],
+  "replacementGlyphs": 0,
+  "missingImages": 0,
+  "indexMinimumPt": 9.500025,
+  "limits": [
+    "Verifica tecnica locale; non equivale a revisione visiva o certificazione normativa.",
+    "Nessuna prova fisica o KDP Previewer eseguita."
+  ]
+}

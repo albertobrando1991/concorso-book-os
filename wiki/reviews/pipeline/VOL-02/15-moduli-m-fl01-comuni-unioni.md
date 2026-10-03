@@ -1,89 +1,71 @@
-# Report editoriale — Audit specialistico M-FL01 Comuni e Unioni
+# Audit specialistico conclusivo — M-FL01, correzioni del 3 ottobre 2026
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: modulo specialistico per concorsi comunali.
-- Pubblico target: candidati a profili amministrativi, contabili, tecnico-amministrativi e di servizi locali.
-- Perimetro di questa revisione: quattordici capitoli, matrice, claim normativi, procedure, casi e dati mobili.
-- Stato generale in una frase: audit specialistico concluso senza errori gravi o medi residui; i flag di revisione sono chiusi e il modulo può accedere al text freeze.
+Perimetro: quattordici capitoli Comuni e Unioni, con lettura integrale documentata dall’audit storico VOL-02 e riesame correttivo dei passaggi normativi, casi, quiz e rinvii. Il capitolo 03, privo di rilievi assegnati, è stato nuovamente letto per intero; per gli altri capitoli sono stati riletti i passaggi modificati con il contesto. Le criticità del modulo sono state corrette. Non si estende questo esito agli altri moduli, alla simulazione finale o al PDF precedente. V02-17 e V02-20 restano parziali nel registro complessivo, perché comprendono parti esterne a M-FL01.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 6-15 e 21-25: autonomia, coerenza trasversale, terminologia, completezza, definizioni, errori concettuali e normativi, casi, apparato normativo, contraddizioni, grammatica dei riferimenti e refusi. Verificati inoltre tutti i nuclei della matrice, le formule mobili e i punti `review_required`. Nessun box `Dato operativo` è presente, come confermato dal contratto della pipeline. Il punto 27 non è applicabile in assenza di PDF.
+Controlli 1–26 e 28–30 applicati al testo: struttura, progressione, gerarchia, promesse, raccordi, terminologia, completezza dei nuclei integrati, definizioni, norme, esempi, quiz, riferimenti, sintassi, chiarezza, tono, ridondanze, contraddizioni, grammatica, ortografia, punteggiatura, uniformità Markdown e leggibilità. Il controllo 27 e la resa tipografica definitiva richiedono il nuovo PDF e non sono certificati da questo audit specialistico. Copertura di famiglia: approfondimenti comunali; il nucleo B-PA rimane nel volume base.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| A01 | Capitoli 01-04 | TUEL, fonti e atti | — | Definizioni e riparto sono formulati nel livello amministrativo corretto e rinviano alla disciplina vigente quando l'assetto dipende dall'ente. | Nessuna modifica testuale; chiuso `review_required`. | Chiuso |
-| A02 | Capitoli 05-08 | Procedimento, digitale e servizi | — | Accesso, dati, CAD, ANPR/ANSC, demografici, welfare e ISEE sono esposti senza termini assoluti o procedure locali universalizzate. | Nessuna modifica testuale; chiuso `review_required`. | Chiuso |
-| A03 | Capitoli 09-11 | Programmazione, finanza ed entrate | — | La sequenza programmazione-gestione-rendiconto e le distinzioni su entrate, patrimonio ed economato sono coerenti con le fonti consolidate. | Nessuna modifica testuale; chiuso `review_required`. | Chiuso |
-| A04 | Capitolo 12 | Contratti pubblici | — | RUP, decisione di contrarre, digitalizzazione, CIG, BDNCP, FVOE e strumenti di acquisto sono descritti per funzione, senza soglie mobili nel corpo. | Nessuna modifica testuale; chiuso `review_required`. | Chiuso |
-| A05 | Capitoli 13-14 | Territorio e casi integrati | — | SUE, SUAP, patrimonio, edilizia e lavori rispettano il confine amministrativo/tecnico; i casi chiedono verifica della disciplina locale. | Nessuna modifica testuale; chiuso `review_required`. | Chiuso |
-
-### Registro specialistico
-
-| ID | File e posizione | Categoria | Gravità | Evidenza consolidata | Correzione applicata | Stato finale |
-| --- | --- | --- | --- | --- | --- | --- |
-| A01 | cap. 01-04, intero testo | TUEL e atti | — | D.Lgs. 267/2000 vigente e source notes collegate | aggiornati i soli flag di audit | Chiuso |
-| A02 | cap. 05-08, intero testo | procedimento e servizi | — | L. 241/1990, D.Lgs. 33/2013, CAD, fonti DAIT/ANPR e GDPR consolidate | aggiornati i soli flag di audit | Chiuso |
-| A03 | cap. 09-11, intero testo | contabilità ed entrate | — | TUEL, D.Lgs. 118/2011, art. 52 D.Lgs. 446/1997 e fonti contabili consolidate | aggiornati i soli flag di audit | Chiuso |
-| A04 | cap. 12, nuclei N-FL01-12-01/07 | procurement | — | D.Lgs. 36/2023 vigente, correttivo D.Lgs. 209/2024 e servizi ANAC su PCP/BDNCP/FVOE | aggiornato il flag; nessun claim da riscrivere | Chiuso |
-| A05 | cap. 13-14, casi SUAP/SUE | territorio | — | D.P.R. 380/2001, D.P.R. 160/2010 e fonti consolidate di settore | aggiornati i flag; nessun claim da riscrivere | Chiuso |
+| V02-03 | 01-tuel-operativo-autonomia-organi-funzioni-comune.md | Normativa/didattica | Grave | Confronto artt.39/50/54; riesame normativo complessivo ancora aperto. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Separate presidenza Giunta e Consiglio; art.54 per ufficiale del Governo. | Chiuso nel perimetro M-FL01 |
+| V02-04 | 02-statuto-regolamenti-autonomia-normativa-locale.md, 04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md | Normativa/didattica | Grave | Raccordo TUEL48c3 nella nota fonte; rilettura dei passaggi modificati. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Eccezione Giunta per regolamento uffici e servizi coordinata fra teoria, tabelle e risposte. | Chiuso nel perimetro M-FL01 |
+| V02-05 | 02-statuto-regolamenti-autonomia-normativa-locale.md | Normativa/didattica | Grave | Fonti DAIT e CdS129/2021; esempio9voti contro7 e distinzione requisito/documento. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Procedura statutaria con quorum, due votazioni, pubblicazione, esempio13componenti e verifica; caso tardività/soccorso risolto. | Chiuso nel perimetro M-FL01 |
+| V02-06 | 04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md | Normativa/didattica | Grave | Note fonti Camera/DAIT; esempio1200entrate perse e800spese. Computo calendario controverso non automatizzato. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Presupposti pareri49, visto183c7, pubblicazione124/esecutività134; caso riflessi indiretti. | Chiuso nel perimetro M-FL01 |
+| V02-07 | 05-procedimento-locale-protocollo-albo-urp-accesso.md, 08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md | Normativa/didattica | Grave | Garante2014 e2025; casi anonimizzazione e accesso civico semplice confrontati. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Divieto art26c4 specifico per salute/disagio e distinzione pubblicazione/comunicazione/accesso. | Chiuso nel perimetro M-FL01 |
+| V02-08 | 06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md | Normativa/didattica | Grave | CAD20 DocsItalia versione20aprile2026; controesempio omissione protocollo senza annullamento automatico istanza. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Definiti documento informatico, forma/prova e copie; separati effetti e obblighi documentali. | Chiuso nel perimetro M-FL01 |
+| V02-09 | 07-servizi-demografici-elettorali.md | Normativa/didattica | Grave | Funzione pubblica artt40/43; riesame della richiesta insistita del cittadino. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Decertificazione come regola obbligatoria, coordinata in teoria, risposta e soluzione stato famiglia. | Chiuso nel perimetro M-FL01 |
+| V02-10 | 07-servizi-demografici-elettorali.md | Normativa/didattica | Grave | Fonti Interno/MAECI/DAIT; calendario5–7ottobre2026 e distinzione assenza occasionale/dimora; copia minore motivata. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Dimora abituale,2giorni/45giorni/decorrenza; AIRE90giorni, revisioni elettorali, estratti e copie con casi. | Chiuso nel perimetro M-FL01 |
+| V02-11 | 08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md | Normativa/didattica | Grave | DM72/2021 e ANACart6; riesame APS iscritta2mesi e acquisto2000ore; revoca vantaggio non per mero ripensamento. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Separate decadenza/revoca/annullamento e rapporti appalto/accreditamento/CTS55/56; due casi risolti. | Chiuso nel perimetro M-FL01 |
+| V02-12 | 09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md | Normativa/didattica | Grave | Confronto DPR81/DM132/PNA2022, distinzione termini ordinari/proroghe e presentazione/approvazione. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. Calendario aggiornato: consolidato 31 ottobre, art.151c8 vigente. | Applicata: PIAO istituito nel2021; caso50dipendenti e regime ANAC; PEG facoltativo sotto5000 e calendario ordinario. | Chiuso nel perimetro M-FL01 |
+| V02-13 | 09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md, 10-gestione-finanziaria-rendiconto-tesoreria-controlli.md | Normativa/didattica | Grave | Risolti170totale/20disponibile e variante−10; quiz ratifica31dicembre; cinque categorie194 e caso8mila/6mila. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. Art.187c2 aggiornato2026, art.163c3 e art.175c3 esplicitati; quiz20dicembre con fattispecie ammessa. | Applicata: Calendario, FPV/FCDE numerici, formula risultato/scomposizione, variazioni e ratifica, revisori, esercizio provvisorio, debiti e crisi. | Chiuso nel perimetro M-FL01 |
+| V02-14 | 11-entrate-tributi-locali-patrimonio-economato-riscossione.md | Normativa/didattica | Grave | Calcolo840su84mila con aliquota ipotetica; locazione4mesi vs12; termini2030/2031 distinti per adempimento. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Schede IMU/TARI su presupposti, soggetti, base, esclusioni/riduzioni; caso datato e distinzione decadenza/prescrizione. | Chiuso nel perimetro M-FL01 |
+| V02-15 | 12-procurement-operativo-ufficio-comunale.md | Normativa/didattica | Medio | Consip2022 e pagina mercato; controllo finalità/oggetto/forma/clausole/modalità/motivazione. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: MePA costruzione/manutenzione, art192TUEL coordinato con17/18Codice e caso concreto. | Chiuso nel perimetro M-FL01 |
+| V02-16 | 13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md | Normativa/didattica | Grave | Risoluzione analitica alternative: C,A,D,C,D,A,A; verifica testo dei distrattori e ruoloRUP. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Riscritti i sei commenti incongruenti; Q3 coordinata con silenzio-assenso. | Chiuso nel perimetro M-FL01 |
+| V02-17 | 13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md | Normativa/didattica | Grave | Fonte e topic dedicati; esempio assensi già validi. Resta applicazione FL04/11. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Titolo espresso/silenzio-assenso, SCIA22 e alternativa23 distinti; integrazione L182/2025 sui vincoli. | Chiuso nel perimetro M-FL01 |
+| V02-18 | 13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md | Normativa/didattica | Grave | MEF art140 in vigore20luglio2025 e TUEL191; controllati presupposti,10/20/30giorni e separabilità rifacimento. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Caso tetto biforcato fra manutenzione e somma urgenza, verbale, perizia, riconoscimento e copertura. | Chiuso nel perimetro M-FL01 |
+| V02-19 | 14-laboratorio-teorico-pratico-profili-comunali.md | Normativa/didattica | Medio | Otto criteri0–2: fasce0–6,7–11,12–14,15–16 coprono dominio senza sovrapposizioni. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Fasce0–16, rinvio programmazione09, quadro normativo e RUP nel primo atto. | Chiuso nel perimetro M-FL01 |
+| V02-20 | 14-laboratorio-teorico-pratico-profili-comunali.md | Normativa/didattica | Grave | Calcolo6000+1320=7320 e residuo2680; RUPprimoatto, contratto dopo efficacia, verifica prima liquidazione. Audit specialistico correttivo 3 ottobre 2026: report pipeline 15 M-FL01. | Applicata: Determina completa fittizia con dossier, istruttoria, dispositivo, visto e correzione ancorata ai dati; restano laboratori regionali/PL e simulazione finale. | Chiuso nel perimetro M-FL01 |
+| N02-01 | Cap. 09, calendario | Aggiornamento normativo | Medio | Art. 151, comma 8, testo Normattiva letto | Inserito consolidato al 31 ottobre per gli enti obbligati | Chiuso |
+| N02-02 | Cap. 10, risultato e variazioni | Aggiornamento normativo | Medio | Artt. 163, 175 e 187 letti integralmente | Esplicitati vincoli dell’esercizio provvisorio, eccezione del 20 dicembre e destinazioni dell’avanzo aggiornate nel 2026 | Chiuso |
+| N02-03 | Cap. 08, autotutela | Termine normativo | Medio | GU 281/2025, art. 1 L. 182 e testo coordinato art. 21-nonies | Sei mesi per autorizzazioni/vantaggi, altri presupposti e deroga qualificata separati | Chiuso |
 
 ## 4. Osservazioni per capitolo
 
-### Capitoli 01-04
-
-- Punti di forza: distinguono ente, organi, uffici, fonti e atti senza attribuzioni assolute incompatibili con l'organizzazione concreta.
-- Criticità: nessuna.
-
-### Capitoli 05-08
-
-- Punti di forza: procedimenti e servizi sono costruiti per fasi; privacy e digitale operano come vincoli trasversali, non come formule di blocco.
-- Criticità: nessuna.
-
-### Capitoli 09-11
-
-- Punti di forza: separano programmazione, gestione, residui, rendiconto, entrate tributarie e patrimoniali.
-- Criticità: nessuna.
-
-### Capitolo 12
-
-- Punti di forza: il testo evita soglie numeriche mobili e spiega la digitalizzazione attraverso funzioni verificabili.
-- Criticità: nessuna.
-
-### Capitoli 13-14
-
-- Punti di forza: il confine con i profili tecnici resta esplicito; i casi non sostituiscono pareri o regole locali.
-- Criticità: nessuna.
+01–02: attribuzioni degli organi, eccezione regolamenti uffici e servizi, quorum dello statuto e due votazioni; esempio con 13 componenti risolto. 03: organizzazione e gestione associata coerenti con artt. 32, 97 e 107; nessuna modifica sostanziale necessaria. 04: pareri art. 49, visto art. 183 e pubblicazione/esecutività distinti. 05: divieto di diffusione dati salute/disagio e accesso separati. 06: documento informatico, forma/prova e copie. 07: residenza, AIRE, elettorale, copie di stato civile e decertificazione. 08: autotutela/decadenza e rapporti ETS. 09: calendario e PIAO. 10: gestione finanziaria, risultati, revisione, debiti e crisi. 11: IMU/TARI e termini. 12: MePA e decisione a contrarre. 13: titoli edilizi, quiz e somma urgenza. 14: rubrica e determina interamente svolta con dati fittizi.
 
 ## 5. Coerenza globale
 
-- Terminologia: coerente con la Bibbia del Modulo.
-- Struttura vs indice: quattordici capitoli completi e ordinati.
-- Promesse dell'introduzione mantenute: sì.
-- Dati mobili: non risultano soglie economiche, termini procedimentali o scadenze operative presentati come universali.
-- Dati operativi: nessun box rilevato; nessuna riga obbligatoria da validare.
+RUP collocato nel primo atto; liquidazione distinta da pagamento; criteri pubblicazione/privacy coerenti fra procedimento e welfare; titoli edilizi coerenti fra spiegazione e risposta. Ricalcolati FPV 60.000, FCDE 30.000 sui presupposti dichiarati, risultato 170/disponibile 20 e variante −10; IMU 840 su imponibile 84.000 con aliquota ipotetica; determina 6.000 + 1.320 = 7.320, residuo 2.680. La rubrica copre tutti i punteggi 0–16 senza intervalli scoperti. Per i quiz del capitolo 13 riesaminata ogni alternativa: chiavi C, A, D, C, D, A, A. Il quiz sulla ratifica indica una variazione ammessa in dicembre, non un’urgenza astratta.
 
 ## 6. Contenuto da verificare
 
-Nessuna voce aperta. Le aree individuate nello step 13 sono state controllate contro source notes consolidate e, per TUEL e contratti, contro i testi vigenti e i servizi ufficiali disponibili. Non sono stati introdotti dati nuovi nel capitolo.
+Nessuna criticità specialistica grave o media resta aperta nel perimetro M-FL01. Le source notes registrano ambiti, fonti e limiti:
+
+- [[sources/vol-02-verifica-tuel-atti-statuti-2026-10-02]].
+- [[sources/vol-02-edilizia-somma-urgenza-verifica-2026-10-02]].
+- [[sources/vol-02-servizi-comunali-verifica-2026-10-02]].
+- [[sources/vol-02-contabilita-piao-verifica-2026-10-03]].
+- [[sources/vol-02-tributi-procurement-verifica-2026-10-03]].
+
+I 33 articoli TUEL scaricati sono stati letti integralmente; il manifest conserva URL e hash. Per le leggi tributarie sono stati letti i commi pertinenti, non l’intera legge. Le formule superate ancora visibili nel testo TUEL o nel comma IMU sono coordinate con le norme successive e la sentenza 209/2022. Il PDF ministeriale TUEL ottobre 2025 contiene una formula superata nell’art. 191: non è stato assunto a prova della vigenza. Il manuale PIAO 2025 è stato consultato solo nelle pagine pertinenti 2, 4 e 32; non è fonte normativa sostitutiva del DM 132/2022. Nessun box Dato operativo risulta nel contratto CLI.
 
 ## 7. Suggerimenti facoltativi (non errori)
 
-Nessuno per il testo. Le scelte grafiche restano al preflight.
+Nessuna integrazione decorativa necessaria. Il laboratorio usa identificativi didattici dichiarati fittizi e non sostituisce la documentazione di una procedura reale.
 
 ## 8. Priorità degli interventi
 
-1. Eseguire il text freeze.
-2. Preservare i riferimenti verificati nelle fasi di apparato.
-3. Controllare il PDF nel preflight dedicato.
+Il modulo può proseguire al text freeze tramite CLI. Gli interventi esterni al modulo restano nel registro VOL-02 e nei relativi gate; la produzione deve utilizzare gli hash successivi alle correzioni.
 
 ## 9. Giudizio di pubblicabilità
 
-**Pubblicabile con correzioni minori: nessuna correzione specialistica residua.** Tutte le aree A01-A05 sono chiuse; non risultano errori gravi o medi, dati non verificati o rinvii a futura revisione umana.
+Testo M-FL01 idoneo al text freeze per il perimetro specialistico esaminato. Il pacchetto VOL-02 non è ancora pubblicabile: altri moduli e simulazione richiedono correzioni, il PDF va ricomposto e controllato e la distribuzione in tomi va risolta senza comprimere la tipografia. Nessuna firma finale di volume viene anticipata.
 
 ## 10. Limiti di questa revisione
 
-L'audit riguarda il testo e le fonti normative/professionali collegate, non un PDF impaginato. Statuti, regolamenti e bandi del singolo ente restano correttamente trattati come variabili da verificare nel caso concreto.
+Audit correttivo fondato sulla lettura integrale storica e sul riesame puntuale attuale, non dichiarato seconda lettura integrale indipendente di tutti i quattordici capitoli. Verifica normativa alla data indicata, senza garanzia di invariabilità futura. Non applicati regolamenti di un singolo Comune a tutti gli enti. Nessuna ispezione di PDF ricomposto dopo le modifiche. Il controllo Humanizer riguarda i passaggi nuovi: spiegazioni concrete, termini normativi preservati, casi con presupposti e conclusioni espliciti.

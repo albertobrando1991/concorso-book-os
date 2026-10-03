@@ -39,3 +39,14 @@ La seconda passata conferma sette file di capitolo, zero directory `assets/`, ze
 ## Regola per asset futuri
 
 Ogni asset futuro deve seguire `Precisione Vitale`, dichiarare una funzione didattica e superare i controlli su testo, ordine di lettura, contrasto in bianco e nero, margini, risoluzione, proporzioni, didascalia, coerenza visuale e anteprima nel Book Studio prima dell'inserimento. Tabelle ed esercizi visuali non devono superare tre colonne compatte; le griglie dense vanno divise senza ridurre il carattere.
+
+
+## Riesame di produzione del 3 ottobre 2026
+
+Questa verifica aggiorna il precedente inventario senza cancellarlo. Prova corrente: `vol-07-release-20261003-proof.pdf`; hash e copertura nel registro `VOL-07-production-visual-checkpoint.json`.
+
+| Asset | Problema | Correzione | Verifica nel Book Studio | Esito |
+| --- | --- | --- | --- | --- |
+| Apparati di M-SA03 | Verifica del contesto dopo le correzioni editoriali | Schede comparative e casi della dirigenza sanitaria osservati nelle pagine 315–379. Non sono presenti immagini raster. | Proiezione Book Studio esportata e controllata in PDF; panoramica di tutte le pagine e dettagli indicati | Verificato nel perimetro dichiarato |
+
+La seconda passata ha controllato uniformità, margini, proporzioni e raccordi nelle tavole e nei dettagli. Corpo nominale 11 pt e tabelle 9,5 pt; nessun overflow geometrico o asset mancante. Le tavole panoramiche non equivalgono a lettura a piena risoluzione di ogni pagina. Nessun giudizio di pubblicabilità complessiva: promesse digitali e dati editoriali comuni restano aperti.

@@ -2,7 +2,7 @@
 id: m-fc04-giustizia
 type: specialist_module
 title: "M-FC04 - Giustizia e Ufficio per il processo"
-status: reviewed
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici", "funzioni-centrali", "giustizia", "ufficio per il processo", "cancelleria", "unep", "dap", "dgmc", "metodo bando"]
 entities: ["Metodo BANDO", "Capitale Personale", "Ministero della giustizia", "Ufficio per il processo", "UNEP", "DAP", "DGMC"]
@@ -22,16 +22,16 @@ source_refs: [
 ]
 book_refs: ["il-metodo-bando", "moduli-specialistici", "vol-04-giustizia-upp"]
 confidence: 0.9
-updated_at: 2026-08-18T12:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
-review_required: false
+review_required: true
 canonical: true
 tags: ["specialist-module", "module-family-funzioni-centrali", "module-code-m-fc04", "source-ready"]
 book_id: m-fc04-giustizia
 module_code: M-FC04
 module_family: funzioni-centrali
 module_family_title: "Funzioni Centrali"
-module_status: reviewed
+module_status: revised_draft
 roadmap_phase: "3"
 companion_to: il-metodo-bando
 volume_code: VOL-04
@@ -91,3 +91,21 @@ Il modulo non sostituisce il VOL-01. Parte dalle materie comuni del libro base e
 
 ## Stato
 Il modulo ha completato revisione editoriale, fact-check prioritario, proofreading, controllo didattico e preflight del PDF KDP. I quattordici capitoli disciplinari, le appendici operative, i cinque strumenti finali, la conclusione e l'apparato delle fonti sono presenti. Restano le normali verifiche di aggiornamento immediatamente precedenti alla distribuzione.
+
+
+## Rettifica di stato — 3 ottobre 2026
+
+Le attestazioni di completezza e preflight sopra riportate descrivono il ciclo storico. La revisione integrale del 2 ottobre ha identificato 29 rilievi testuali e ulteriori problemi PDF: stato corrente **in correzione, non pubblicabile**. Le righe della matrice saranno riconciliate sull’effettivo testo corretto, con prove specifiche.
+
+
+## Delta normativo del 3 ottobre 2026
+
+- [[sources/vol-04-cancelleria-verifica-2026-10-03]]
+- [[sources/vol-04-casellario-verifica-2026-10-03]]
+- [[sources/vol-04-digitale-verifica-2026-10-03]]
+- [[sources/vol-04-minorile-penitenziario-verifica-2026-10-03]]
+- [[sources/vol-04-organizzazione-upp-verifica-2026-10-03]]
+- [[sources/vol-04-processo-civile-verifica-2026-10-03]]
+- [[sources/vol-04-processo-penale-verifica-2026-10-03]]
+- [[sources/vol-04-spese-verifica-2026-10-03]]
+- [[sources/vol-04-unep-verifica-2026-10-03]]

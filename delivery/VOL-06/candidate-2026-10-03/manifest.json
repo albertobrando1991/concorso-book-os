@@ -1,0 +1,2108 @@
+{
+  "volume": "VOL-06",
+  "date": "2026-10-03",
+  "status": "reviewable-interior-pending-common-front-matter",
+  "pdf": "vol-06-interior-kdp.pdf",
+  "pdfSha256": "34b57193a490375dcab8c48f858de6fb360d3d05af1c183b29d114b32380ab94",
+  "pages": 617,
+  "chapters": 50,
+  "textFindingsVerified": 36,
+  "pipelineSignoff24": false,
+  "digitalServicesVerified": false,
+  "coverage": "artifacts\\correzioni-collana-2026-10-02\\VOL-06-production-visual-checkpoint.json",
+  "unresolvedReferencedNotes": [],
+  "files": [
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/export-proof.mjs",
+      "bytes": 4152,
+      "sha256": "f34a798b1c1ab86fbf7cfc4f411ec8ab66ffe206ac03617c103ef7734b8fc965"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/inspect-current-pdf.py",
+      "bytes": 1909,
+      "sha256": "94bd2418686841272696e0a2b45a9b1cc1e01793376e1ca651aa5286ff564de4"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/M-IR01-freeze.json",
+      "bytes": 10128,
+      "sha256": "06ec0fbe3a2d06cfeec3262ce594af392179d133170dac14c8544e252fa14586"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/M-IR02-freeze.json",
+      "bytes": 7651,
+      "sha256": "fb0e58a2da9ba2ca4f1c76aae93fba791da59a53abbbf09b101d48b3b5109e63"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/M-IR03-freeze.json",
+      "bytes": 7222,
+      "sha256": "52d06508b40b97e4623cc5f9e614e4c4fce35801173f30fea8530625424f7656"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/M-IR04-freeze.json",
+      "bytes": 13840,
+      "sha256": "af009f474c053bd770e420d96b14ffc45bd9e4b4845080e63576086c8160d14f"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/production-index-subentries.py",
+      "bytes": 937,
+      "sha256": "1482c6d344682ed8ff01b4ba4c2d3c2b5e1abc5b12a3712160f432252694deef"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/production-pdf-verify.py",
+      "bytes": 2418,
+      "sha256": "d4e4e95fc97c4af7eb313219c9eda8196f812d072a13aa4af459e0ac67a38874"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/VOL-06-07-12-production-reference-changes.json",
+      "bytes": 5049,
+      "sha256": "04a535a8e474b3989d03e9472b7b38ba887a979ff3a373559ecb728a8ebc4c31"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/VOL-06-changes.json",
+      "bytes": 77734,
+      "sha256": "0d440850ca4bcfeeacf5ecc339d63457e0eef4d2fe3e65c76746c69d9456c7b2"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/VOL-06-package-source-graph.json",
+      "bytes": 68474,
+      "sha256": "22a2cfdeabe694ae2f702aae8a7c0729f5b814779104210f9b0c89073c5edbfb"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/VOL-06-page-audit.json",
+      "bytes": 188602,
+      "sha256": "5c94144a5c49286f0979d060b72379228c38da9682f261309e14b8c135186018"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/VOL-06-production-findings.json",
+      "bytes": 2030,
+      "sha256": "e0f0567129e9248c61ec545253160fe93e87359ac307794a87fe570c092a75c8"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/VOL-06-production-heading-changes.json",
+      "bytes": 5551,
+      "sha256": "ec326cfbfd6598b8a51b1719245282db2a6928f196d682b5d3cc87b498c108ad"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/VOL-06-production-native-changes.json",
+      "bytes": 2413,
+      "sha256": "fba87b2119ea310aa45ef5a72f585ca496266157b134298455b17a29d7517d03"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/VOL-06-production-visual-checkpoint.json",
+      "bytes": 42938,
+      "sha256": "70c81ed9db5722661c97f117c791d2ccd2f07be2c161d1f231126ce247607566"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/vol-06-release-20261003-proof-audit/metrics.json",
+      "bytes": 87542,
+      "sha256": "33b9fdf0eba8965f3717ac19d41c9ab815d499f4b567eb8b94dd79f69e405f83"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/vol-06-release-20261003-proof.pdf",
+      "bytes": 4086610,
+      "sha256": "2b3391c9f83856c5444a36efe542aeac180521f78e91309203375d02482dd15a"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/vol-06-release-20261003-render-comparison.json",
+      "bytes": 42941,
+      "sha256": "e97f6044f4fc44a4e668a65d7caaab03cd52760676f2854d0d4d5db864be5444"
+    },
+    {
+      "path": "artifacts/correzioni-collana-2026-10-02/vol-06-release-20261003-verification.json",
+      "bytes": 17141,
+      "sha256": "38237e22a71226836f339923d51c984ec333a265e311fed9055f4e7f4c6d5402"
+    },
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-06-cover.pdf",
+      "bytes": 149901,
+      "sha256": "67e17c7e2ecda6ae0673d606927726ae8fe40fc7b39c58e2063f50b8a813353f"
+    },
+    {
+      "path": "publication-refinements/export-publication-refinements.mjs",
+      "bytes": 8386,
+      "sha256": "e08c2912e3d810aaa717b28a53decf819d3faebba7be53c52dc862c379d8a8ee"
+    },
+    {
+      "path": "publication-refinements/PDF-VOL-06.md",
+      "bytes": 9802,
+      "sha256": "a3bd7724b1f1bca8b05b47c7aa63b0362650cbf5b2ce0cfa09187865d24b3e65"
+    },
+    {
+      "path": "publication-refinements/verify-publication-refinements.py",
+      "bytes": 3831,
+      "sha256": "24ba17c2bb9bd716f0ec1afd6cecb9818e4eae1e12313d7f8bdb66f8047dfb33"
+    },
+    {
+      "path": "publication-refinements/vol-06-page-002.png",
+      "bytes": 33134,
+      "sha256": "bb6a3423901f573ce782e2bb44b61ab40704b31593e095979da3c41761ebeac6"
+    },
+    {
+      "path": "publication-refinements/vol-06-page-003.png",
+      "bytes": 53913,
+      "sha256": "806a2d05c2c60db5229949da3866d10738e3af232eab53a3322ce261bac9f479"
+    },
+    {
+      "path": "publication-refinements/vol-06-page-005.png",
+      "bytes": 52152,
+      "sha256": "c13cc58df2adac1bfc80f8c6254b2e25da857382fc61165b3c668d9f83eb60e4"
+    },
+    {
+      "path": "publication-refinements/vol-06-page-008.png",
+      "bytes": 63421,
+      "sha256": "09cff1f8811553368d70d99d4e367aac7703c374d0b3f54e7d56f62d3c55865b"
+    },
+    {
+      "path": "publication-refinements/vol-06-page-122.png",
+      "bytes": 58443,
+      "sha256": "d0775d1f503fbbb5a1f34ba5c0c404b45b99d94684743b0559df1fbc5e9a82f2"
+    },
+    {
+      "path": "publication-refinements/vol-06-page-273.png",
+      "bytes": 63639,
+      "sha256": "efa6cd07b723a48bf74c026ca883bd51deebd2abae94475aecfa464edf46727b"
+    },
+    {
+      "path": "publication-refinements/vol-06-page-429.png",
+      "bytes": 61123,
+      "sha256": "4d57e008683a556d481f77a851914f8f99e17be7629204edca34e4fb2de7e87f"
+    },
+    {
+      "path": "publication-refinements/vol-06-publication-refined-20261003-payload.json",
+      "bytes": 1872250,
+      "sha256": "e87bb6174b9185f33aac7cd0bae29c850d9339e84b4cd5beb1b3b57b15b33e08"
+    },
+    {
+      "path": "publication-refinements/vol-06-publication-refined-20261003-proof-metrics.json",
+      "bytes": 1732525,
+      "sha256": "61c97b24ce84261ea6631592f8c96d483c2385a297fd21623b414d293874a29d"
+    },
+    {
+      "path": "publication-refinements/VOL-06-verification.json",
+      "bytes": 1839,
+      "sha256": "825f588597ebf92be4f12979189f93f75c1d15064815cb7de0226d93ce243ab0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2394,
+      "sha256": "77c4904b673cc48cfaa5dc14a9f00fbb48520ab73de398ccb6b49ab6553ecd16"
+    },
+    {
+      "path": "vol-06-interior-kdp.pdf",
+      "bytes": 4086622,
+      "sha256": "34b57193a490375dcab8c48f858de6fb360d3d05af1c183b29d114b32380ab94"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "bytes": 8800,
+      "sha256": "eda6bdbd27d4089b88c18d058ea8fb081a728203569743c3fa50869a94dbf871"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "bytes": 19949,
+      "sha256": "1addb591bed4d3b94532382b312584704e182a9bcfe6f0e025a44131b49d9e0d"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "bytes": 20306,
+      "sha256": "e64284a7dce72650b96815994ae57a431b8280a5d026b2f765e8976ab7c9e821"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "bytes": 18067,
+      "sha256": "ab68eefc368b81ff54ea198f1ff03608f6714ccda4547a8e1da2c0fa70aac5e8"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "bytes": 20773,
+      "sha256": "f1abe4357c2da4914527b7013961e32911fd94839bd28652dbb7258fc3a1ad87"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "bytes": 20933,
+      "sha256": "df2d5754dc6a30cdd66921adc793b9fa8a20dbc7e47db734ca0475783448788b"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "bytes": 21420,
+      "sha256": "b625abac49bc04c9d2d8d79a100bd33957c394deb564f2f69b4ecb32e9a89723"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "bytes": 20519,
+      "sha256": "447028cf8790712e71460a81fbba41021fd92d7ad5de4219023409adbc2cc449"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "bytes": 19539,
+      "sha256": "3576a7d850bfa4d1eb58585824eb6fbeffd2e04c641333a43506f9ac2f817ff2"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "bytes": 20264,
+      "sha256": "1057481a1aa0bffbf76391086aef88ab538549f11fd90dee82ea54625c99bca5"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "bytes": 28198,
+      "sha256": "3fd89201602e1a572d5e75e361de0597ef0675824cb1ce83064dbeedfe556ec2"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "bytes": 17473,
+      "sha256": "3f96e2f88fd4a735445e6f759363a1a8c206a056bb9bdc3386ef0ef9bff9420d"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "bytes": 21298,
+      "sha256": "1a7c65219a48a2612dd4d53efdb151fe56424d393c48aef5fc86ae9759017ade"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/index.md",
+      "bytes": 4920,
+      "sha256": "e53947777af8a664afe5255108fc6e14578cd0600d7b2297395bdca67f9723a9"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "bytes": 9938,
+      "sha256": "9ef7f2801371aa59356534b84203845963891269c9d438eba223a26a528f798a"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/planning/03-piano-capitolo-12-metodologie-valutazione-digitale-didattico.md",
+      "bytes": 8244,
+      "sha256": "110176d71a5291493bcef2dd0e872b74cd0c48d664b88605e93bb7a02f2679bd"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir01-scuola/planning/03-piano-capitolo-13-progettazione-lezione-simulata.md",
+      "bytes": 7025,
+      "sha256": "1f34250b510ac3e4a3f6e7eb41caf7fd8bc8642de0eddca137f0015fdbda84ce"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+      "bytes": 31442,
+      "sha256": "2d714de8d79478cfa2a7595f2fe70a19410f59a750811e6247d38077c5c37dfe"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+      "bytes": 31698,
+      "sha256": "f23d5d6cd95b244b259677c932c4303ad9b55232b7ee1b804b8bf92e5ae623fd"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+      "bytes": 36382,
+      "sha256": "9227cc061b73cef64d40b76e939d24db65a279db2dee8046e0b7d64a458c17d7"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+      "bytes": 34741,
+      "sha256": "0836b98d783a2043c461b1a41c2f54e4db9bb37237dc8b4698415349ea882443"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+      "bytes": 30067,
+      "sha256": "87682121593d68dfb4c86e99d168cb37a665917df7858ede8e1ceb770903c6c3"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+      "bytes": 36738,
+      "sha256": "2f80ee90f100d5189ad0ed07939f6b6058ee297562d32bafcb9c257266fbd44c"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+      "bytes": 32316,
+      "sha256": "f4fc9a2733c2648848eba15d28a3ef874d9396add72a754db7920054f21253a9"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+      "bytes": 30093,
+      "sha256": "f6ab1bb95ab44d20d704f5ff08f77c2e331f0323198a39a0ee99537ea13257a8"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "bytes": 47115,
+      "sha256": "0628aeaac1c7580b124fb99f07ed23677ec262820854e9494f992d777f48d270"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "bytes": 43413,
+      "sha256": "6a665ac49b86d9fe6f232ceffc9d99fd6a06f35f01cf98b78585a6171a19a199"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "bytes": 43474,
+      "sha256": "b8e4937d5866478913f0e0fe1232abfd7e8581a51bbf043eacbc0415e431f182"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+      "bytes": 38917,
+      "sha256": "19096bac3632e73f97ccd8b4158833d36aea260ed6c44e971af0fc3620676594"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/index.md",
+      "bytes": 4801,
+      "sha256": "46f26d9bec11d2334e671e819070801c989a230e668bea5dd892895688112132"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir02-universita-afam/planning/02-matrice-copertura-didattica.md",
+      "bytes": 8946,
+      "sha256": "14df3f49b9fdccc4765f2b358b249134e99ef295b9c20c2871427ca23f9a9376"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "bytes": 33622,
+      "sha256": "550e483ea9d58720f3d4fc1b0fe2dfc7503402f7edb4b811a4884dfb755c8567"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "bytes": 41155,
+      "sha256": "caf233af8900f6bb6d432559ab0ac9950eff4f3d780c9c71602f62dcf483863e"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "bytes": 39015,
+      "sha256": "475c95e3d2c4aa200bdf89c80f4b22e7b478b84677f523c24a998b2f4e02a348"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "bytes": 45954,
+      "sha256": "2de2d7cdb8378fd1dccb6577bd7e1a28cca2c4d570fabb7eb3cfe240d03de169"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "bytes": 31974,
+      "sha256": "f5764a3c176060d82f7c1c91ca84f63d34952c16f63b455491d94a45b838455a"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "bytes": 32567,
+      "sha256": "63b49e5c2f8450d00bd3229a702408b8e1d93690397f4699f2351bb92fc21b02"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "bytes": 31687,
+      "sha256": "ec901b65bf52845e124f474987ab06998cc509c50ffba6c7af365f65c7d1d48c"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "bytes": 31760,
+      "sha256": "35426fbb60598f3ecc649b6ac6536c96d1a6b3c2a00468d56d49731c1e43e4b4"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "bytes": 35275,
+      "sha256": "a31938d35216d5a076d41d66dd0954ff3adf0f0c3b7608160c8fdfbd83ec4e43"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "bytes": 32249,
+      "sha256": "cb4825f7f7669c80db1b5e784cc66c68cdb872e00c51f5909907e3e4f8422eb3"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "bytes": 32611,
+      "sha256": "b071985b0e32a19a802c8fbb14c738061d3f5a213f240a401df88fa107d399a0"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "bytes": 34036,
+      "sha256": "5fbaf2ca60876f3c03ef4682912fdf9ca6a991ca9e449bbe08e97f471fd2b4cd"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/index.md",
+      "bytes": 3915,
+      "sha256": "770bdc0459c2526eb7e3539e74b031deb3d2fd6b54fc4b72419449836f7d4a2c"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir03-enti-ricerca/planning/02-matrice-copertura-didattica.md",
+      "bytes": 7744,
+      "sha256": "1e581199c8d2592cba56f9a18027484ed2612ada0d57d09c890d385bc8e280e1"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "bytes": 31179,
+      "sha256": "6f65e745b5da8f3e46fad63c203b8eab57a4bf563d7c1612a493b31e2c4bad15"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "bytes": 31441,
+      "sha256": "9f7dc6ea7d4282162b68abfeb4265a6e036e6f66400739a49a298c055252cfc4"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "bytes": 37818,
+      "sha256": "305719bd1f1d0c9aecfa110e51c62a671566e9ee3268fca23930493840d7130d"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "bytes": 37945,
+      "sha256": "6a9162e29b7edadfca61010947bed2073e4f5de46e5d2b75055b2afa35c7fca9"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "bytes": 43782,
+      "sha256": "49f4caaaa82a8d1e58a24f620776cd1a392f4f12c22fb9b45af5c70c6cc990aa"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "bytes": 37596,
+      "sha256": "7101ca94b6b65bdccf9fa5fdcf05e5765961081b866daa3edff108fbca802d8a"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "bytes": 37571,
+      "sha256": "6628993881eb14ad265759b14d7f12928564e3d7d4426e494a2c81b2ff1d58ce"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "bytes": 42317,
+      "sha256": "4f10c6d90643ec58392c86fae047dee07a66bde8678093c1748ddb33d39ac500"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "bytes": 42425,
+      "sha256": "052e3a1d6e6761aad2893bb9437452f6ea1ee79968b9e252bbd39ab1c3596e0c"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "bytes": 44676,
+      "sha256": "091eee6f0d3daf1a76c7990e5007b5dfe8d7c17971c39ff6ad2e3d0a6d416745"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "bytes": 44286,
+      "sha256": "e303c6f46aed01ca24bbb5183806b1c2d5eb4eb30d93d7380a7d0950b61d4983"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "bytes": 38627,
+      "sha256": "3778f4b584b9ee25f80b30c2cd5c2f1f49bf3936bd0bbd0d8d2a7e211b2faf87"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "bytes": 43819,
+      "sha256": "b598b572d3cf6803d2890c8652919ed9042107cff57f0d6918a51938d27cf0ae"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/index.md",
+      "bytes": 4640,
+      "sha256": "01abbf1a15985089889b339fd7db1f35c7c23574c2c22c3a8d4d528625f5da19"
+    },
+    {
+      "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/planning/02-matrice-copertura-didattica.md",
+      "bytes": 20063,
+      "sha256": "f5ef4ccdd50a23fb5cb1a2a0a26a77d6c96ee77271101c34f983041f0064feec"
+    },
+    {
+      "path": "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/index.md",
+      "bytes": 2855,
+      "sha256": "3b5e01f8d258fd1c295270bb08a1552b3d60fb8b6fc8a8b3311ee3275a66f033"
+    },
+    {
+      "path": "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/00-scheda-pipeline.md",
+      "bytes": 7433,
+      "sha256": "08e1cc2bb7d79f68e1dfa8dd6a28d765b5400248b482076e8c01e18305831297"
+    },
+    {
+      "path": "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/01-indice-analitico.md",
+      "bytes": 7380,
+      "sha256": "11d8e40fe58381585f43de64b99641a405effd0f4d785b03e3870a18dcb7b06e"
+    },
+    {
+      "path": "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/04-inventario-apparati-correzioni-2026-10-03.md",
+      "bytes": 7238,
+      "sha256": "9dd95a367211967dcc71f78cbe4a3429a89de60f9c8c5d2de78099e2a68c6766"
+    },
+    {
+      "path": "wiki/entities/anac.md",
+      "bytes": 2027,
+      "sha256": "04b1c096290ad8927c06e96cb05099b5069268b1e99c7f26ac1819f649744634"
+    },
+    {
+      "path": "wiki/entities/casellario-giudiziale.md",
+      "bytes": 2237,
+      "sha256": "a3baad063c3c225be6a534489f72762ee75b203d05586e7eafafd317fe009022"
+    },
+    {
+      "path": "wiki/entities/codice-dei-contratti-pubblici.md",
+      "bytes": 3998,
+      "sha256": "eb98deebaa1768002db681b8cea7987ead5dff3f7918681c680ef3811d5293ab"
+    },
+    {
+      "path": "wiki/entities/codice-del-processo-amministrativo.md",
+      "bytes": 993,
+      "sha256": "9207de19be70dea913e0e70e0e093470c9f52ac8dfbf04c8414d22d6e3cb1bea"
+    },
+    {
+      "path": "wiki/entities/consiglio-di-stato.md",
+      "bytes": 1736,
+      "sha256": "d668de37501f494c43a924885dbe6979df82f41985f2bf484f285b66a76a6c16"
+    },
+    {
+      "path": "wiki/entities/decreto-legislativo-104-2010.md",
+      "bytes": 973,
+      "sha256": "90f0006c360c1311c5d4b851b09e905ff9769006497c0e5f4d0530c9acc89e10"
+    },
+    {
+      "path": "wiki/entities/legge-241-1990.md",
+      "bytes": 2441,
+      "sha256": "3d5b2610eb0cbef8fd628dea496348d0e33e5e2e2460e492a059bd4ae053b618"
+    },
+    {
+      "path": "wiki/entities/ministero-cultura.md",
+      "bytes": 1047,
+      "sha256": "758b6526a8d1b2446692807e4d17af9bbd5e7e7ecb8adad353162a21483cbad6"
+    },
+    {
+      "path": "wiki/entities/ministero-della-giustizia.md",
+      "bytes": 5279,
+      "sha256": "3ffa256a97111d82446a03f192da5369a3677ba5ef26a8900f2f3a241f7a770f"
+    },
+    {
+      "path": "wiki/entities/ministero-istruzione-merito.md",
+      "bytes": 1485,
+      "sha256": "2c03c7cbef7858deaa7696c3484e7d75e8c1ca44c95c8d4d565c40624ecb12f8"
+    },
+    {
+      "path": "wiki/entities/ministero-universita-ricerca.md",
+      "bytes": 1117,
+      "sha256": "3fcd59dd6029192c784764e7fca6822187e016d325c39ed878d791f27a55f52e"
+    },
+    {
+      "path": "wiki/entities/pubblica-amministrazione.md",
+      "bytes": 1845,
+      "sha256": "72c11713bc00eedcbb3050eaccd0a40c4a9f6d3d55d95e27d0150c291bbe3fc9"
+    },
+    {
+      "path": "wiki/entities/ufficio-per-il-processo.md",
+      "bytes": 4567,
+      "sha256": "59106b196408c6837e396848527e4b96a79b6f003a264a732360775f2b0fca91"
+    },
+    {
+      "path": "wiki/entities/unep.md",
+      "bytes": 1897,
+      "sha256": "be771aefd0dc58e2191b97751e52d9cf170911a1bf951b48c11f304127899acf"
+    },
+    {
+      "path": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-06.md",
+      "bytes": 9802,
+      "sha256": "a3bd7724b1f1bca8b05b47c7aa63b0362650cbf5b2ce0cfa09187865d24b3e65"
+    },
+    {
+      "path": "wiki/reviews/correzioni-collana-2026-10-02/VOL-06.md",
+      "bytes": 40368,
+      "sha256": "f9aaffecb6e40459229ed6683d91ddab359402ca7335dab3ba41eb3762318584"
+    },
+    {
+      "path": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md",
+      "bytes": 6282,
+      "sha256": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3"
+    },
+    {
+      "path": "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md",
+      "bytes": 7320,
+      "sha256": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+    },
+    {
+      "path": "wiki/reviews/pipeline/VOL-06/21-vol-06.md",
+      "bytes": 9157,
+      "sha256": "b9b030799f336dced3a72338d4b77b38b4c8ba2a0810481a25a5d37237896b65"
+    },
+    {
+      "path": "wiki/sources/agcm-concorrenza-consumatori-pratiche-scorrette-2026-07-24.md",
+      "bytes": 5725,
+      "sha256": "3c167dbd09080b2d1bdc2eb2f43d82975257409c2b255f5597aac38eb3170456"
+    },
+    {
+      "path": "wiki/sources/agcom-comunicazioni-media-utenti-piattaforme-2026-07-24.md",
+      "bytes": 4241,
+      "sha256": "e7da23e2123ccbff8df0b57ead87c292933f0a2ac6658f8cc0efe16a8db4bce5"
+    },
+    {
+      "path": "wiki/sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale.md",
+      "bytes": 2543,
+      "sha256": "345ee21db10f036b69c4bee8b4c5d888cb0cfb5e1b1e3f589a751d3573ed2674"
+    },
+    {
+      "path": "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md",
+      "bytes": 3101,
+      "sha256": "86beb604eecf27c6db25550eaa752892b3ad70b4263fd95eb2f1c3b55c7ac7ed"
+    },
+    {
+      "path": "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+      "bytes": 2891,
+      "sha256": "242b547136e3ab8e3263b8fbd7c71fa47ec9fe7ba550d75da4e78c54d7e11945"
+    },
+    {
+      "path": "wiki/sources/air-vir-qualita-regolazione-dpcm-169-2017.md",
+      "bytes": 4578,
+      "sha256": "5d04fc93a2e6d627e776580afa880d67e78800caf96e945da8292d3dc9e01041"
+    },
+    {
+      "path": "wiki/sources/anac-bando-19-funzionari-amministrativi-2026.md",
+      "bytes": 2756,
+      "sha256": "d4f9e065930531d66696d4af56c1beda5dfd190a3dc04d45e870b95aa7ce0564"
+    },
+    {
+      "path": "wiki/sources/anac-piano-nazionale-anticorruzione-2025-delibera-n-19-del-28-gennaio-2026.md",
+      "bytes": 4656,
+      "sha256": "375e4649d1265bf6598904730de3f6dd1b5914a5047c9a38cdf2293c0d76b90b"
+    },
+    {
+      "path": "wiki/sources/anac-prevenzione-vigilanza-whistleblowing-2026-07-24.md",
+      "bytes": 4700,
+      "sha256": "3a4c929e9f86b340121d31bbe4ceca180becdbf6e9b0356d0bd7c09eb0c2b611"
+    },
+    {
+      "path": "wiki/sources/anac-trasparenza-e-anticorruzione.md",
+      "bytes": 1377,
+      "sha256": "0c179377f6281c74fe0ea6d6f4d8383b6d0934738f6c757f5dcc6e5c7db7d204"
+    },
+    {
+      "path": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "bytes": 3559,
+      "sha256": "a1d264559635b8b11ff75f72a3f9be33c6bddf352dfa24f8af8f521e8bdcbf9f"
+    },
+    {
+      "path": "wiki/sources/aran-ccnl-funzioni-centrali-pcm-2022-2026.md",
+      "bytes": 5349,
+      "sha256": "0b8bf80f373c154c0faf51859bde73b6295f5f648b65693afd2f545669f98df2"
+    },
+    {
+      "path": "wiki/sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md",
+      "bytes": 2393,
+      "sha256": "570c1b1b6f6acb4c00f626623d2891833fc80f5f489066953df272d11c1062cf"
+    },
+    {
+      "path": "wiki/sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md",
+      "bytes": 5306,
+      "sha256": "fa35087a555dc7df9747b773b63e55f9cd9fc18fd27ebef8e3d65baa33cb1e06"
+    },
+    {
+      "path": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "bytes": 5099,
+      "sha256": "76a1694fbcfc8bc07b5ae7575ebe0de6b5c6e82dfd339c51f9c606345e1abefe"
+    },
+    {
+      "path": "wiki/sources/authority-indipendenti-governance-personale-2026-07-24.md",
+      "bytes": 3491,
+      "sha256": "52026a7cf8422e8ceed9031555604a876c1f4e582e333c9716f407a82927e0a8"
+    },
+    {
+      "path": "wiki/sources/authority-indipendenti-leggi-istitutive.md",
+      "bytes": 1913,
+      "sha256": "6ab691db1aa93571aa0937f84075cf6cfc6362b5ca4e966864df6dcccd6c5fa4"
+    },
+    {
+      "path": "wiki/sources/banca-italia-bando-60-giuristi-2025.md",
+      "bytes": 2831,
+      "sha256": "a894f4f9f4eb5e37d19e08e409758f383bf0f1dfe5f7f41f24e333f36707b800"
+    },
+    {
+      "path": "wiki/sources/banca-italia-ivass-vigilanza-prudenziale-2026-07-24.md",
+      "bytes": 4415,
+      "sha256": "f7e2bed430b4292bccd779a385857eb4c2a3941d08ddd43b877e576c35d2d7f5"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-ir01-scuola-2023-2025.md",
+      "bytes": 7978,
+      "sha256": "b224a5f422d37ee7c61c58eaecdac1fd466b0e94ab15d28306e01a82247fdf8d"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026.md",
+      "bytes": 5129,
+      "sha256": "c12692f5ae9579306315c3642898657fe7b601f390dcabbcba2159e99bef5efb"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-ir03-enti-ricerca-2025.md",
+      "bytes": 3746,
+      "sha256": "dd7a6eb31f87a1167d4c5dc6cb686b16fabcf6c2b4c119ac51d6c7bde93265de"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026.md",
+      "bytes": 3295,
+      "sha256": "265f9890db449787490618017853383818c1e01aec08b70daf9ec4573b55338e"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-tr02-appalti-pnrr-2025-2026.md",
+      "bytes": 6740,
+      "sha256": "d907a3c2f0d80dc937ccef82efc5df8fe422d36456ed00b43a9a1a47a3cfc98d"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-profili-concorsuali-inpa-agenzie-enti-2025-2026.md",
+      "bytes": 4330,
+      "sha256": "065b59bf2eb1eeebae70c215e518a49b12a864ea2c69d2d69f9c8ba96f32aad5"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-vol-04-giustizia-upp.md",
+      "bytes": 2990,
+      "sha256": "92ecfb4bcb94a5c3a566ac1a3f0bcb613103e612cc4b96df7de6f35640768514"
+    },
+    {
+      "path": "wiki/sources/biblioteche-universitarie-cataloghi-sbn-risorse-open-access-2026-08-05.md",
+      "bytes": 16746,
+      "sha256": "2bdf7e33791c9227e0d7563a37f5bcc9d732fb2f7be428c37df77bd6fc10fe1a"
+    },
+    {
+      "path": "wiki/sources/cancelleria-spese-casellario-unep-m-fc04.md",
+      "bytes": 8986,
+      "sha256": "47e2d035dfee057c0e50b09b19c81928e6589c63bfa01ae71a60eac77c6977b4"
+    },
+    {
+      "path": "wiki/sources/capitale-studio-riutilizzabile-metodo-bando.md",
+      "bytes": 5571,
+      "sha256": "3b6008c7475829b41b5d8bbfcda02fa6fd1ea4446d701b426b5572597944675d"
+    },
+    {
+      "path": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "bytes": 6381,
+      "sha256": "ac22a53ac422b5147a0b448ba9ebbf2d67abd723f768d1ecf8e28cba74ff14a2"
+    },
+    {
+      "path": "wiki/sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28.md",
+      "bytes": 6138,
+      "sha256": "6a9febd26647538bda5b3001f2434686210398ea97e54d2208362cc4e8cefa1e"
+    },
+    {
+      "path": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "bytes": 7154,
+      "sha256": "95cec916337d8a9340b00bff876c32c55320fa1628bd11a7c8c7ee9d043ab155"
+    },
+    {
+      "path": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "bytes": 5145,
+      "sha256": "04823486bebcf810238a7759b081a247a54b58b8cc90abd664ef603486c70fa3"
+    },
+    {
+      "path": "wiki/sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md",
+      "bytes": 7802,
+      "sha256": "ab26411d3fc5887ef69c279e00bbedc4a5bb28a50999eb63bd836cad09711939"
+    },
+    {
+      "path": "wiki/sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md",
+      "bytes": 6333,
+      "sha256": "bb6f0a7a02c036286998e9098d517b814a7806fd3c33a46340b0b8560e0f42d7"
+    },
+    {
+      "path": "wiki/sources/ccnl-comparti-aree-famiglie-professionali-pa.md",
+      "bytes": 3703,
+      "sha256": "2d942b68f48aead2461d0cace92f02c0eed3c561a877eaea6ff340d1c634a3e6"
+    },
+    {
+      "path": "wiki/sources/ccnl-funzioni-centrali-giustizia-2022-2027.md",
+      "bytes": 2710,
+      "sha256": "7de3a33f428f483e4538c727788caf2b10ea5425abe431cd60cd42369dc853e7"
+    },
+    {
+      "path": "wiki/sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6-cedu.md",
+      "bytes": 2289,
+      "sha256": "839b70f16265da071db1b73db3606d859e6247b83d6d61359ab41ddcc61b1bc6"
+    },
+    {
+      "path": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "bytes": 3305,
+      "sha256": "0f28d52994256faf1397c939ca6b162b9acad3972ea5c7c3da1cf232018a7b6e"
+    },
+    {
+      "path": "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+      "bytes": 4162,
+      "sha256": "cc6c4f4a20663a6633e62a13ebcf8cce3388e938c19025455a249659d210385b"
+    },
+    {
+      "path": "wiki/sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24.md",
+      "bytes": 3923,
+      "sha256": "aa8bf025d133339b52b06aa338945741b35012e562b59e8055ea4ed6900a7f49"
+    },
+    {
+      "path": "wiki/sources/codice-civile-beni-pubblici-demanio-patrimonio.md",
+      "bytes": 2692,
+      "sha256": "f270aebdb257e902786df265d59cf0f924fbe82d19a3a2e39427b94d4f6236cf"
+    },
+    {
+      "path": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "bytes": 8988,
+      "sha256": "54a6efeeda9a413b05cda484cbcfcd647de411ac91e18c0cf578c7d6bd033f5f"
+    },
+    {
+      "path": "wiki/sources/collegare-materie-risposta-integrata-metodo-bando.md",
+      "bytes": 5018,
+      "sha256": "c85da04ac67c9c34c00d2d2e8fe027ab897a8b0c1a8b9ac74b4e617e1425f2e1"
+    },
+    {
+      "path": "wiki/sources/confrontare-istituti-simili-metodo-bando.md",
+      "bytes": 5254,
+      "sha256": "f10d70f617547b5263fdb89a82a1d6f01024a343bf19e40953565694e590dd58"
+    },
+    {
+      "path": "wiki/sources/consob-bando-vice-assistenti-amministrativi-207-26.md",
+      "bytes": 2631,
+      "sha256": "1b6567d624b000e914a607e783db9ee934a484f5ae9c36571e38022ad9a1ac1b"
+    },
+    {
+      "path": "wiki/sources/consob-mercati-intermediari-tutela-investitore-2026-07-24.md",
+      "bytes": 4726,
+      "sha256": "229f4551ea65dabfba2eb282b5e4619c786278f68deb18093aa6a3e227c1082f"
+    },
+    {
+      "path": "wiki/sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md",
+      "bytes": 6940,
+      "sha256": "81549a3d4873feff7bd7e87536c37b53ab4adf3e7edfd311ac2b523fc5d85e44"
+    },
+    {
+      "path": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "bytes": 6883,
+      "sha256": "ba54b6bbd1f0bac8548233ec296d90f05cd6329e6c443eabd338ec54c4e7dd9e"
+    },
+    {
+      "path": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "bytes": 6411,
+      "sha256": "819183e31231d8fc80e2ae1e1e93566e4948253dfe939170e870556887dc39be"
+    },
+    {
+      "path": "wiki/sources/corte-costituzionale-concorso-pubblico-e-pubblico-impiego-g-u-15-marzo-2017.md",
+      "bytes": 2613,
+      "sha256": "75f131a6bfe263dc3941b2ae38c123e5bb5a526b27d32f22940549f29c3c31a8"
+    },
+    {
+      "path": "wiki/sources/corte-costituzionale-deroghe-al-concorso-pubblico-e-buon-andamento-g-u-9-dicembre-2021.md",
+      "bytes": 2350,
+      "sha256": "a46083d538245a34b1c4e866b636227a1442037df83aefa7853578f5c928286e"
+    },
+    {
+      "path": "wiki/sources/corte-costituzionale-pubblico-concorso-e-stabilizzazioni-g-u-5-maggio-2010.md",
+      "bytes": 2528,
+      "sha256": "406708c44093f6d58d41030402826ec2dc2fc1e923543b7c01ffbf2d1e8a60b6"
+    },
+    {
+      "path": "wiki/sources/corte-costituzionale-requisiti-concorsuali-polizia-di-stato-g-u-27-gennaio-2021.md",
+      "bytes": 3095,
+      "sha256": "6c977170dbd7548f28eaacae95c58f664021440b2cfd715fac79f23c67487500"
+    },
+    {
+      "path": "wiki/sources/d-l-11-aprile-2025-n-48-convertito-dalla-l-9-giugno-2025-n-80-sicurezza-urbana.md",
+      "bytes": 2648,
+      "sha256": "50448bef3922f7e89af953e8c233bcc890bc60763d9e55b1ea88ae5f1f6f6297"
+    },
+    {
+      "path": "wiki/sources/d-l-14-marzo-2025-n-25-convertito-dalla-l-9-maggio-2025-n-69-capacita-amministrativa.md",
+      "bytes": 2279,
+      "sha256": "121db2dee3afe3d6749048e6abbed88e068b265e91eb7d8de91c66cef07ae2fd"
+    },
+    {
+      "path": "wiki/sources/d-l-31-agosto-2013-n-101-trasformazione-civit-anac-e-pubblico-impiego.md",
+      "bytes": 2048,
+      "sha256": "6e4d95d6adc57b377579919f9f2312e7e5b7fdf3f4fe01a3d38fc82de707f4d9"
+    },
+    {
+      "path": "wiki/sources/d-lgs-10-marzo-2023-n-24-whistleblowing.md",
+      "bytes": 2060,
+      "sha256": "bb4070092ac908c363473adb8ec1b0320e7d752d789d1d6759e9daacfd1cfa23"
+    },
+    {
+      "path": "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md",
+      "bytes": 1818,
+      "sha256": "f9903cade75c912cef754188797cbf8ca808bbd65396fd7c907e1c61fa56df13"
+    },
+    {
+      "path": "wiki/sources/d-lgs-2-luglio-2010-n-104-processo-amministrativo.md",
+      "bytes": 1755,
+      "sha256": "11bbcb82289557d39e1d0017765629dfd66dda272a7d0cc9a404cc0954078e64"
+    },
+    {
+      "path": "wiki/sources/d-lgs-25-maggio-2016-n-97-foia-e-revisione-trasparenza.md",
+      "bytes": 1923,
+      "sha256": "e70a33e8c94d8725ccd27a2c7ae0b727d98886adb0e3465e692555a8db4e3b4d"
+    },
+    {
+      "path": "wiki/sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md",
+      "bytes": 2996,
+      "sha256": "bc48f331c5caa0111c40f6d27b81bfad064d196c3bdd0a476cc638b6e6dc4ef5"
+    },
+    {
+      "path": "wiki/sources/d-lgs-27-ottobre-2009-n-150-performance.md",
+      "bytes": 3326,
+      "sha256": "8decfc222938c16b5559cf50bac82baeb7b3806e02015ee664742c89681f4e36"
+    },
+    {
+      "path": "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md",
+      "bytes": 2611,
+      "sha256": "a23e2232b6a2749de9691e420db476d93400acc6a8359eb3b3a685a3e385983f"
+    },
+    {
+      "path": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "bytes": 2395,
+      "sha256": "127feb09c4d29fdf0df477114cd022cae8e721dc29228517faf273710cc9b613"
+    },
+    {
+      "path": "wiki/sources/d-lgs-31-dicembre-2024-n-209-correttivo-codice-contratti-pubblici.md",
+      "bytes": 1787,
+      "sha256": "6be725209940e5c2538a5ce93c10027e36bb741251172c771c53d56698cf8de0"
+    },
+    {
+      "path": "wiki/sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md",
+      "bytes": 2456,
+      "sha256": "4d4b499f6851ec41ff42630c538c0b7d7b81afacdf1bff0e56a3703cd050ac7d"
+    },
+    {
+      "path": "wiki/sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md",
+      "bytes": 2424,
+      "sha256": "b9feb7c934947fff69575385c37723f01e8e5323901e5633f098eb8eda1dbf55"
+    },
+    {
+      "path": "wiki/sources/d-lgs-8-aprile-2013-n-39-inconferibilita-e-incompatibilita-incarichi.md",
+      "bytes": 4283,
+      "sha256": "ca2444decad2996ca231651f6c44504784ce3d3656be598f1f1134011c588b92"
+    },
+    {
+      "path": "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md",
+      "bytes": 1957,
+      "sha256": "f5d8d691ca4237e8edac180d4fbfce7b71d8a97e8d5e3fe638c9bc11be5c4ceb"
+    },
+    {
+      "path": "wiki/sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md",
+      "bytes": 2252,
+      "sha256": "e7d267499bf9df4e5692b4b6b5caccdcfcdefa632a8f990eb246599617fa83a5"
+    },
+    {
+      "path": "wiki/sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
+      "bytes": 2281,
+      "sha256": "d8360a927500f66ebb5a3387e72f2bbec3852b4daa9bfb67e06564ba37cc85ca"
+    },
+    {
+      "path": "wiki/sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md",
+      "bytes": 2637,
+      "sha256": "57480fecb66b7faaee7765288c7d2fe0302f6a1ba69dce6789a705552b65dd33"
+    },
+    {
+      "path": "wiki/sources/d-p-r-24-giugno-2022-n-81-piao-adempimenti-assorbiti.md",
+      "bytes": 1895,
+      "sha256": "4e63aa3ba4f828a418553a17dec84b15b46e73856d793e4481349c2f993de571"
+    },
+    {
+      "path": "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md",
+      "bytes": 13302,
+      "sha256": "87dd8ae46c439ea00336b7b12d1413d5e86f1057b7f02dc958b473f43a0be39a"
+    },
+    {
+      "path": "wiki/sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md",
+      "bytes": 2124,
+      "sha256": "614b529bbfa7473bc5130b8df619860dee7f1fa6d5bc0ac4ff9ce914afd825a0"
+    },
+    {
+      "path": "wiki/sources/database-programmazione-formati-concorsi.md",
+      "bytes": 3347,
+      "sha256": "3250c87cd307fc1aeb7b1a6c31fb324f6dd159b2477fd479e7a1271a4dc4c4bd"
+    },
+    {
+      "path": "wiki/sources/decreto-30-giugno-2022-n-132-piano-tipo-piao.md",
+      "bytes": 1822,
+      "sha256": "d4095050c747c9227d5a38dc6892cd82bd0a2abd394a5553e937078c3ec6d898"
+    },
+    {
+      "path": "wiki/sources/decreto-legislativo-2-luglio-2010-n-104-codice-del-processo-amministrativo-c-p-a-testo-vigente-normattiva.md",
+      "bytes": 3088,
+      "sha256": "dced802e54cdd21cb160c489e271a86e7b64e61782f6a3b1907e191767042ef9"
+    },
+    {
+      "path": "wiki/sources/decreto-presidente-consiglio-di-stato-9-maggio-2025-regole-tecnico-operative-pat.md",
+      "bytes": 2439,
+      "sha256": "420f26a930e318a10052d4765b29950a4d3d54bf1b095d2f174412bce3dab6a0"
+    },
+    {
+      "path": "wiki/sources/delitti-contro-pa-codice-penale-2026.md",
+      "bytes": 4041,
+      "sha256": "de071602ddda51e8270c49b899b1272d6a8e01a4d1e8dc6cefcd5cf35a4004cd"
+    },
+    {
+      "path": "wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md",
+      "bytes": 5896,
+      "sha256": "afdc60399702cecee2baa6828b3a8302e518170b03736a4f762262dea5f5f3c8"
+    },
+    {
+      "path": "wiki/sources/dlgs-267-2000-enti-locali.md",
+      "bytes": 1146,
+      "sha256": "aa3b528b93a9ee1a7f1cd9fa4bc4e58f64ce543a3d69c1bd3d0b3b584f3120d3"
+    },
+    {
+      "path": "wiki/sources/domande-impreviste-risposta-sicura-metodo-bando.md",
+      "bytes": 5368,
+      "sha256": "93e02a9cfec8c689a4318afef399b8457a93aa095d0368df7e81045195119417"
+    },
+    {
+      "path": "wiki/sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24.md",
+      "bytes": 5416,
+      "sha256": "c820a95e96ea442e71de5eaea068d578db323d0fa01af09fd76006f07e7b7dd5"
+    },
+    {
+      "path": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "bytes": 6810,
+      "sha256": "01ad2ca1e114def720f23ce9d8cabdc54e33e5d1c6d37e1e9283fa8b156ef54c"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-aggiornamento-metodo-bando-2026-06-03.md",
+      "bytes": 6690,
+      "sha256": "4d4fcae6e16f5bb06f1aea9cb0cd5a4a57717951474b3411384521667e71443f"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-m-ir01-scuola-2026-07-24.md",
+      "bytes": 15346,
+      "sha256": "c4a3bb764222f2a167d846e6111e9e99feab549b4bd06453eebfab74776c4f26"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md",
+      "bytes": 13218,
+      "sha256": "a1b4b88b305db38665f3b5bd6f0d06766bd78302cba758d6e7d1f1cc7db15ada"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+      "bytes": 10586,
+      "sha256": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080"
+    },
+    {
+      "path": "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "bytes": 15668,
+      "sha256": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5"
+    },
+    {
+      "path": "wiki/sources/formazione-competenze-pa-syllabus-direttiva-2025.md",
+      "bytes": 3380,
+      "sha256": "fa5a72f89f11d232f807cbe85b31dbef8720522fabd2db045ba76d2156d6edc7"
+    },
+    {
+      "path": "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
+      "bytes": 4869,
+      "sha256": "ba053fa7f04b0dfcf631ac200483051de4ea610150e94463fec553700ea7cc3b"
+    },
+    {
+      "path": "wiki/sources/framework-comprensione-ragionamento-invalsi-oecd.md",
+      "bytes": 3490,
+      "sha256": "e5d04633aecc42395793d023c64b75cdb5cf1c2d800a5d68d82c8d1ed2477ad3"
+    },
+    {
+      "path": "wiki/sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md",
+      "bytes": 4024,
+      "sha256": "f8b53077e33d2c635ae044659b005568cc32917100277630a16b068cc07b70d3"
+    },
+    {
+      "path": "wiki/sources/garante-privacy-poteri-procedimenti-cooperazione-europea-2026-07-24.md",
+      "bytes": 4589,
+      "sha256": "c7a869ab65cd06419b92be22945765d0c97cfef79c721007dea70d1ccaa90c82"
+    },
+    {
+      "path": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "bytes": 2735,
+      "sha256": "80851fb11e1357d3772069e5066bf73780823b1f651c0465ff01e57ea52612ff"
+    },
+    {
+      "path": "wiki/sources/gazzetta-ufficiale-n-111-del-15-maggio-2025-decreto-pat-e-formweb.md",
+      "bytes": 1752,
+      "sha256": "5ff4a0186ddc6f9c7344f12cc481e5e6f2de98c1694d6de3bde0dbcd13ebe624"
+    },
+    {
+      "path": "wiki/sources/giurisprudenza-costituzionale-recente-principio-del-concorso-pubblico-art-97-cost.md",
+      "bytes": 2280,
+      "sha256": "abe51a01b2e90dfe32fb565b11d491d3437f0732a25f422a4cd8dbfc3eb7be46"
+    },
+    {
+      "path": "wiki/sources/giurisprudenza-penitenziaria-m-fc04.md",
+      "bytes": 2240,
+      "sha256": "969adda0c3169f95bdc8a291c2624b947e4d1edc8a31e2f8bb1b5a3cdc75bef9"
+    },
+    {
+      "path": "wiki/sources/giustizia-digitale-pct-ppt-m-fc04.md",
+      "bytes": 4668,
+      "sha256": "f81609d55035bc216c0755c281f71a9ea17983109b04ba292d8a37a1fec2a0e9"
+    },
+    {
+      "path": "wiki/sources/glossario-essenziale-pa-metodo-bando.md",
+      "bytes": 3305,
+      "sha256": "faad0001a568493e01b6ee1059f13cae48345db45d79bc28e3fa18995e0a1fb8"
+    },
+    {
+      "path": "wiki/sources/grant-management-horizon-pnrr-2026-08-23.md",
+      "bytes": 4627,
+      "sha256": "5d6d955d54a1b7aa99cdf3d721e9b2d43cc2ec721ea1261dd3affbffa4efbec9"
+    },
+    {
+      "path": "wiki/sources/horizon-europe-quadro-work-programme-call-grant-agreement.md",
+      "bytes": 4296,
+      "sha256": "c3abb19544e9c7cd9842662f29a29f21077bc5a0713026a4074066d134696ee1"
+    },
+    {
+      "path": "wiki/sources/idea-business-vendita-libri-capitale-personale-2026-07-03.md",
+      "bytes": 4386,
+      "sha256": "cd7c90cf1f120b7637ce12787551131450f4f2ebbf4ced5552e0b3aef6de8503"
+    },
+    {
+      "path": "wiki/sources/incarichi-extraistituzionali-art53-verifica-2026.md",
+      "bytes": 3400,
+      "sha256": "6ffc2548946f2c3b6ae824a650d87b03f7dd504d0478c57d916691c2a0ee4aae"
+    },
+    {
+      "path": "wiki/sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010.md",
+      "bytes": 7030,
+      "sha256": "7aee47b0b6db45b8d3750727545d8f98ed47afc5c4a9a6bb7c350881fe685839"
+    },
+    {
+      "path": "wiki/sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md",
+      "bytes": 4733,
+      "sha256": "6487c4d47d0d515c82f71718483674f93770eb8e17311645d47d53fd0a43c156"
+    },
+    {
+      "path": "wiki/sources/informatica-operativa-office-sistemi-hardware.md",
+      "bytes": 4311,
+      "sha256": "15848dc6c05eabb41c378b72617330b23c76d3b1fa2898ce35cda70fe741bf74"
+    },
+    {
+      "path": "wiki/sources/inglese-concorsi-corpus-fonti-ufficiali-2026-05-28.md",
+      "bytes": 7113,
+      "sha256": "2e84a7e488efa8e737efb93f9b7301c5a23f502d85938fb7e021cb5f3e15cf40"
+    },
+    {
+      "path": "wiki/sources/inglese-grammatica-concorsuale-cloze-tempi-modali-preposizioni.md",
+      "bytes": 5369,
+      "sha256": "a573ed2b8e2adb0573883f0402ac7ef9c0e20282d3c4e92a0f03084f4add741d"
+    },
+    {
+      "path": "wiki/sources/inglese-lessico-funzioni-comunicative-comprensione.md",
+      "bytes": 4106,
+      "sha256": "d98cdc2d597d654fa5a0009cb9d44ee361320c1c86f0935a5920bd3ac1ba4053"
+    },
+    {
+      "path": "wiki/sources/integrita-pubblicazioni-ricerca-2026-08-22.md",
+      "bytes": 3822,
+      "sha256": "9bcc2013fc150cb48d21d3973f34f55cbabf1a37aaa28e113afdcacb807aaf57"
+    },
+    {
+      "path": "wiki/sources/laboratorio-prove-authority-2026-07-24.md",
+      "bytes": 3469,
+      "sha256": "7e3267dc56c51cf7a45c73438ff91ddf2c30eaa3fec61459cb80f016db4b2ddc"
+    },
+    {
+      "path": "wiki/sources/legge-11-marzo-2026-n-34-legge-annuale-pmi-e-consorzi-stabili.md",
+      "bytes": 1640,
+      "sha256": "2dad3dc0612eaadc216b5cf641e09b87077293952dabf87290fe3c578902f34d"
+    },
+    {
+      "path": "wiki/sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md",
+      "bytes": 2421,
+      "sha256": "c20a523e11e1239623a21af69c2f2b716a3f31f6071ab6d600104d7ec89eada8"
+    },
+    {
+      "path": "wiki/sources/legge-2-dicembre-2025-n-182-semplificazione-e-digitalizzazione-procedimenti.md",
+      "bytes": 2614,
+      "sha256": "61a0186d90a12d78c930059da6b0da43fa3ec057cf1a6612253b0440212742d5"
+    },
+    {
+      "path": "wiki/sources/legge-2-dicembre-2025-n-182-semplificazioni-autotutela.md",
+      "bytes": 2970,
+      "sha256": "61e1332db47d3e0e0fdaed88e35c2f6275188d1400a51f30714e6e3356a9b470"
+    },
+    {
+      "path": "wiki/sources/legge-23-agosto-1988-n-400-governo-e-potesta-normativa.md",
+      "bytes": 2440,
+      "sha256": "12a19936bfa998774c5dc43b24765ffa4ce8f24073f742e085ee5cadc29fad72"
+    },
+    {
+      "path": "wiki/sources/legge-23-settembre-2025-n-132-intelligenza-artificiale.md",
+      "bytes": 2404,
+      "sha256": "5407b99c8cab6617d063a616cc43ceec14a64ab5d28d4234ba8df12e2e26e100"
+    },
+    {
+      "path": "wiki/sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md",
+      "bytes": 2033,
+      "sha256": "1691e1b2d1a90fdba4bd3e653455824ebf99c7316dfc40dc2df1c97a2c531b9f"
+    },
+    {
+      "path": "wiki/sources/legge-241-1990-procedimento-amministrativo.md",
+      "bytes": 3990,
+      "sha256": "c2fd891f64d26e3241c4e11e33943c39fa10409b97092134349f77cc62b07137"
+    },
+    {
+      "path": "wiki/sources/legge-27-dicembre-2019-n-160-bilancio-2020-e-graduatorie-concorsi.md",
+      "bytes": 2915,
+      "sha256": "33a46495e95e13315f3d5907c1ca52b2c2e05ecf2b1d6bdd7c4da654168da22d"
+    },
+    {
+      "path": "wiki/sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici.md",
+      "bytes": 3029,
+      "sha256": "2f3694b38a3297dc256b4f2a0a548c3ca7f17d86546a2f9312e82579b4b73fc0"
+    },
+    {
+      "path": "wiki/sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica.md",
+      "bytes": 2098,
+      "sha256": "a4d15d3d0c9ec47aa9e3a9160d21f444f30b9be571d5494affa4ebef58630422"
+    },
+    {
+      "path": "wiki/sources/legge-6-novembre-2012-n-190-anticorruzione.md",
+      "bytes": 3148,
+      "sha256": "1ab34ad37ffbb725304048f14d7cd6624706e7321ea5507fe8754d4d82cb6e12"
+    },
+    {
+      "path": "wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md",
+      "bytes": 3329,
+      "sha256": "20916fa63996299291b368b292e8017c60811b287e2834607d52554db34cfd7f"
+    },
+    {
+      "path": "wiki/sources/legge-7-gennaio-2026-n-1-corte-dei-conti-e-responsabilita-erariale.md",
+      "bytes": 2645,
+      "sha256": "8826f663b1feb0f8ab45b4cfcfbd78bbda3e5f7181331915d043d8d19202b234"
+    },
+    {
+      "path": "wiki/sources/logica-volumi-copertura-concorsobook-v4.md",
+      "bytes": 6300,
+      "sha256": "e916cf152c82669cea93a172ef73dccd21cc43f60624ae0bc07d78d2402b62e7"
+    },
+    {
+      "path": "wiki/sources/manuale-diritto-amministrativo-lopilato.md",
+      "bytes": 2642,
+      "sha256": "fac2b82341ca617b401d6ee4253d4c6ce0efe77338d19fba6950a5713d845ac1"
+    },
+    {
+      "path": "wiki/sources/manuali-open-logica-ragionamento-critico.md",
+      "bytes": 2921,
+      "sha256": "06b241f2ec2599f1b9183524eae57709abaa723365e991214ceb67d278729902"
+    },
+    {
+      "path": "wiki/sources/matrice-materie-profili-metodo-bando.md",
+      "bytes": 2977,
+      "sha256": "d120d4896c49cbc03091f7c939b626974124e44e405caef768362dd457b283dc"
+    },
+    {
+      "path": "wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md",
+      "bytes": 5542,
+      "sha256": "5dd7389cf52878ee575c1bd41f5b52b391ad9bafa663d3d5a877674bc07a4a87"
+    },
+    {
+      "path": "wiki/sources/metodo-bando-capitolo-13-bozza-sito-2026-05-30.md",
+      "bytes": 4315,
+      "sha256": "b40705e9363d8c18387a7cdee16221ca998a8f38b6758b4e300d68c5ef7ee8c8"
+    },
+    {
+      "path": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "bytes": 2643,
+      "sha256": "603e6d7ed2fe8439638fe4fce484712949e14641781e7ba8deda65f2267dbd3b"
+    },
+    {
+      "path": "wiki/sources/ministeri-rettifiche-organizzazione-contabilita-2026-10-03.md",
+      "bytes": 6104,
+      "sha256": "3d812766195bd34138ae84978e2dde374630a8df550fa38e75609276e9cc7789"
+    },
+    {
+      "path": "wiki/sources/ministero-giustizia-organizzazione-dipartimenti-m-fc04.md",
+      "bytes": 3004,
+      "sha256": "7cd0ea79576b6f95b275a1cf0ac292f45ceb50696038e51f99cb9677cbbe2c9c"
+    },
+    {
+      "path": "wiki/sources/minorile-comunita-giustizia-riparativa-m-fc04.md",
+      "bytes": 6855,
+      "sha256": "94426686a5f45bdb63e019ca1eafb17335797b032592b6cc9c221e032126c01b"
+    },
+    {
+      "path": "wiki/sources/open-science-fair-dati-2026-08-22.md",
+      "bytes": 1819,
+      "sha256": "0b8e98972a84529b992858de1f149d8fda06ed1e3dba7550cc0ff04a09d91f90"
+    },
+    {
+      "path": "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md",
+      "bytes": 7287,
+      "sha256": "0a431929de9a5a4f15b8dd557a227e637e66a5223ccef76db11bc33f96c127fe"
+    },
+    {
+      "path": "wiki/sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04.md",
+      "bytes": 4754,
+      "sha256": "a5587bb13c3eb757b1c8c00b73e8d4a8a63ac4a1e4d52b1a3c2c6fd7d5c95047"
+    },
+    {
+      "path": "wiki/sources/ordinamento-penitenziario-trattamento-misure-m-fc04.md",
+      "bytes": 8912,
+      "sha256": "34a6de7e43a6573087c018c11cad75afe7b5a82942bffeeaeb6c4eb24918384e"
+    },
+    {
+      "path": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "bytes": 7122,
+      "sha256": "98d0740cd4486601f3465104925f7277414938263163bee411f265ad4836a29b"
+    },
+    {
+      "path": "wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md",
+      "bytes": 3992,
+      "sha256": "890dc83c83d72104dc5d12fd81fed54e112a7572ba8d46d725a95d8e4ccf52e0"
+    },
+    {
+      "path": "wiki/sources/parole-chiave-concorsi-metodo-bando.md",
+      "bytes": 2963,
+      "sha256": "99d4e8dd54180be1a214b0dd6d8203e200cd8f160a2d275ce84431728b90f366"
+    },
+    {
+      "path": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "bytes": 2724,
+      "sha256": "212d849625fd73df43f5f35d1be791ac0d2e78a88ab926f4b0fbbaa8ab3050c2"
+    },
+    {
+      "path": "wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "bytes": 5358,
+      "sha256": "4db2cb2c39ce6b5abfbfad67f81cacd867a991aa7d96a11417766decc3e6f458"
+    },
+    {
+      "path": "wiki/sources/prin-2026-bando-mur-programma-rendicontazione.md",
+      "bytes": 4364,
+      "sha256": "ef22c9e5f037171ac9c842541af8345a2ba84a648af1c81085b520a27ed5d2fe"
+    },
+    {
+      "path": "wiki/sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md",
+      "bytes": 3154,
+      "sha256": "de2300d6d9b1bfae022ddf7fbc79e18c626f942c83e0022fe7f59e7e6567626d"
+    },
+    {
+      "path": "wiki/sources/procedure-affidamento-gare-appalti-concessioni-soglie.md",
+      "bytes": 4634,
+      "sha256": "4f9ce783cc1f490faf9c3e73abd760d048a48d0bb5b33ae3c870498d39d2265a"
+    },
+    {
+      "path": "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md",
+      "bytes": 5517,
+      "sha256": "4511b1d87d1dae95e8736d365efd28112136f03769facb9a75e631723fa4da0a"
+    },
+    {
+      "path": "wiki/sources/proprieta-intellettuale-trasferimento-2026-08-22.md",
+      "bytes": 4548,
+      "sha256": "e88172f0e249f4915be97557a7059238289119d81ba866f6436f8a320cb6cbc6"
+    },
+    {
+      "path": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "bytes": 3463,
+      "sha256": "9e9154e4413b6bd0e9d44e9e36780bed1869052ebffd1d99f627ab5a00ed2e2f"
+    },
+    {
+      "path": "wiki/sources/prove-situazionali-concorsi-ripam-maeci-sna.md",
+      "bytes": 3770,
+      "sha256": "39f819cb19bfba4f016e93dca50fe0379260d3f5a5d56e65f7e1155979796f24"
+    },
+    {
+      "path": "wiki/sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md",
+      "bytes": 2067,
+      "sha256": "4c21f4878246f7bd12718e97c8652e5bca63afbfbca4b81f341d89bd9b7b94b3"
+    },
+    {
+      "path": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "bytes": 3306,
+      "sha256": "564c46c94749a4e2107de39d79dfc807d306e72a9ed22c529e63987e44bc0ccf"
+    },
+    {
+      "path": "wiki/sources/regolazione-ue-digitale-e-finanziaria-vol-05.md",
+      "bytes": 1912,
+      "sha256": "1a9614e0fc06ce10c1a208a2d9823302a9c598e0cf62268267486f706aaf7476"
+    },
+    {
+      "path": "wiki/sources/regolazione-ue-multilivello-reti-authority-2026-07-24.md",
+      "bytes": 4594,
+      "sha256": "311a898739464b785f18951b40d81408233cd038de13b51e25228e988f4fad92"
+    },
+    {
+      "path": "wiki/sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md",
+      "bytes": 3406,
+      "sha256": "cf291a413905199cd2595e827bd55c893997697d405a13ea97dfae7b6e1660a1"
+    },
+    {
+      "path": "wiki/sources/reti-web-protocolli-concorsi.md",
+      "bytes": 3188,
+      "sha256": "3faa6eec824ba1e3c59169094c1336109e92882d2d5d02cc27b27b1749c3e8eb"
+    },
+    {
+      "path": "wiki/sources/revisione-finale-risposta-concorsuale-metodo-bando.md",
+      "bytes": 5156,
+      "sha256": "300b6f665bb7b79ba564f0bd0a9a70d62af30ebb684a41df2fe570c9fda5dc20"
+    },
+    {
+      "path": "wiki/sources/ricorsi-amministrativi-e-tutela-dl19-2026.md",
+      "bytes": 4451,
+      "sha256": "e221fd58d3ed35bba42216fe3b1a514491dfbdd26d9165245c26288ef28e375b"
+    },
+    {
+      "path": "wiki/sources/ripam-giustizia-791-prove-logico-critico-verbale.md",
+      "bytes": 3547,
+      "sha256": "e53a3a759a85c8f023ca599cd7117fda3985cf403db18591bcfe7517456b79ec"
+    },
+    {
+      "path": "wiki/sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md",
+      "bytes": 4801,
+      "sha256": "49e42c3221522645499fff0ca5c2159684b74088917937e4d3555215d6dc2592"
+    },
+    {
+      "path": "wiki/sources/risposta-sintetica-domande-aperte-metodo-bando.md",
+      "bytes": 5103,
+      "sha256": "e954b0bcc83cb3aa5005c9d8e972ae80925ab82567f64cca4cfbcd24ae1d3ec8"
+    },
+    {
+      "path": "wiki/sources/sanzioni-impegni-rimedi-giurisdizione-authority-2026-07-24.md",
+      "bytes": 4670,
+      "sha256": "e948361eab5862625335fc54da140237f16c9c212dd8e65342f850a7087aef91"
+    },
+    {
+      "path": "wiki/sources/scelta-materiali-studio-concorsi-metodo-bando.md",
+      "bytes": 5797,
+      "sha256": "ac9071a30f9cabfe715f218477cdca6970f89f4015f26eea2013579b19618808"
+    },
+    {
+      "path": "wiki/sources/schede-operative-studio-metodo-bando.md",
+      "bytes": 4418,
+      "sha256": "94aac0826d304c1a74b04656e3a66491293626ea1249d0af1a54f049f445032d"
+    },
+    {
+      "path": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "bytes": 2809,
+      "sha256": "50225a344c67ee0611498d49c15ba5032b8007714e293d8bbfb6416413e14ac0"
+    },
+    {
+      "path": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "bytes": 3701,
+      "sha256": "c26a2551b0022f51aa15452d7fa6cfef79793939c63d40aa1e51d84243893fc0"
+    },
+    {
+      "path": "wiki/sources/sicurezza-informatica-privacy-nis2-pa.md",
+      "bytes": 4113,
+      "sha256": "8a9e239633903843529e3d523cef79980851e23a2c7e6251bb76c15f90c403dd"
+    },
+    {
+      "path": "wiki/sources/simulazioni-concorsuali-metodo-bando.md",
+      "bytes": 4512,
+      "sha256": "756bdf2c226d0ac9c2669a90c8a1aa5d65fd9781752b4b801eabf950274a2c12"
+    },
+    {
+      "path": "wiki/sources/sostenibilita-preparazione-concorsi-metodo-bando.md",
+      "bytes": 4252,
+      "sha256": "86efed2061d614068711c8c5e94f83b579df3ea7e61543a238158d8fe05c79b7"
+    },
+    {
+      "path": "wiki/sources/strategia-punteggio-prova-concorsuale-metodo-bando.md",
+      "bytes": 4856,
+      "sha256": "67a565e81f87474b43b1fbea68849e9edb6181b1f9a26464202b8329b0ee3f1d"
+    },
+    {
+      "path": "wiki/sources/strumenti-digitali-metodo-bando.md",
+      "bytes": 4296,
+      "sha256": "2bb2186ec7772a8a79690ee6af55c20168af418fafbf280a841d1c9198ae6051"
+    },
+    {
+      "path": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "bytes": 3223,
+      "sha256": "9b95030a1c3d650f9eae91771aaff2312e09d21d5911fcbf668e54d60d82fa10"
+    },
+    {
+      "path": "wiki/sources/taglio-priorita-studio-concorsi-metodo-bando.md",
+      "bytes": 5420,
+      "sha256": "b967f5d711f147d3988536101c477336bbf7212c904181c5dea92fc5cffb76e5"
+    },
+    {
+      "path": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "bytes": 2627,
+      "sha256": "df050b1793e2a2b0eb3369429672844f54664eeb3cc0c020b1dc697634260bc5"
+    },
+    {
+      "path": "wiki/sources/tesoreria-unica-siope-siope-plus.md",
+      "bytes": 3995,
+      "sha256": "c83cab10a8d8115bbb91f46806c357b3c8c598c3a384b8f5811df8e53a975064"
+    },
+    {
+      "path": "wiki/sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md",
+      "bytes": 4288,
+      "sha256": "0b9e1333d88dba2e3dd671dd0bdde7a04adebbcbda64715cf432411af1de4a19"
+    },
+    {
+      "path": "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md",
+      "bytes": 5424,
+      "sha256": "685984c9492cdc3154ce9d1c77d847e1ae0edc50966abe0d7d6bd061723bcea8"
+    },
+    {
+      "path": "wiki/sources/vigilanza-istruttoria-ispezioni-dati-prova-authority-2026-07-24.md",
+      "bytes": 4637,
+      "sha256": "cf07ee3e1111c8af3d922910e99252e16342f467d7c80d858a84f252dc7db16c"
+    },
+    {
+      "path": "wiki/sources/vol-01-accesso-privacy-correzioni-2026-10-03.md",
+      "bytes": 6391,
+      "sha256": "bf4e68c5317b8d584152b9f2cb30e16489354920f25e403366d5d67786ac2eca"
+    },
+    {
+      "path": "wiki/sources/vol-01-candidatura-casi-correzioni-2026-10-03.md",
+      "bytes": 3170,
+      "sha256": "05a5a818902493d28eb3565f6b5941d282c396a869705fc1287315b2b53244e9"
+    },
+    {
+      "path": "wiki/sources/vol-01-digitale-esempi-correzioni-2026-10-03.md",
+      "bytes": 4089,
+      "sha256": "ec3aa596d748dc1c6160104a8dfa356a4cd5f43e8fb2cc3c143add9ec27148a7"
+    },
+    {
+      "path": "wiki/sources/vol-01-esempi-logica-inglese-metodo-2026-10-02.md",
+      "bytes": 4979,
+      "sha256": "8d4503cc686d98de6e8d60568216257f7b9692ad0d04d87fcb4cf7941a7feb2a"
+    },
+    {
+      "path": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "bytes": 6659,
+      "sha256": "0cdac23a47f4aec2259956f0e6757fd69f62cf67570cbe1e45d9dfc46e956977"
+    },
+    {
+      "path": "wiki/sources/vol-01-procedimento-correzioni-2026-10-03.md",
+      "bytes": 6113,
+      "sha256": "f8fc340ed0119094bcb6037f7b33be17b23a1fda38203f9af42cacb4fc31e346"
+    },
+    {
+      "path": "wiki/sources/vol-02-contabilita-piao-verifica-2026-10-03.md",
+      "bytes": 7719,
+      "sha256": "671307548a97a1afeac2236dfeed0449ac3be888d92bb1e3ce6cf1ec0c95b202"
+    },
+    {
+      "path": "wiki/sources/vol-04-aggiornamento-normativo-2026-08-18.md",
+      "bytes": 3300,
+      "sha256": "164246be5d3d3a72608437c7bfba7384c1afa7ff9c422ba433026fcdac5fb6a2"
+    },
+    {
+      "path": "wiki/sources/vol-04-cancelleria-verifica-2026-10-03.md",
+      "bytes": 6168,
+      "sha256": "90433bd2b1db8882ecd0f0e946f6b87a44665eba441491f81f70b53b42b0d33b"
+    },
+    {
+      "path": "wiki/sources/vol-04-casellario-verifica-2026-10-03.md",
+      "bytes": 5314,
+      "sha256": "b9467b109d9e3482215607e804fe67b1fceb958ee5b2ab2d8dc4ec76e925a6da"
+    },
+    {
+      "path": "wiki/sources/vol-04-digitale-verifica-2026-10-03.md",
+      "bytes": 8911,
+      "sha256": "00fe3f2fae6ba00363520f882826bb255c7edd08f104073c0402645dd0b97391"
+    },
+    {
+      "path": "wiki/sources/vol-04-dossier-redazionale-giustizia-upp.md",
+      "bytes": 3314,
+      "sha256": "10f7bed06eb337f3862a8b9ae21b6294549eca30705d5678f9bfe0222bffc96e"
+    },
+    {
+      "path": "wiki/sources/vol-04-fonti-ufficiali-scaricate-2026-07-17.md",
+      "bytes": 4680,
+      "sha256": "89fb7085e44beba22c2e2d2c3f76d75b74bd6d3302b84b2cd51806f300c16ea3"
+    },
+    {
+      "path": "wiki/sources/vol-04-organizzazione-upp-verifica-2026-10-03.md",
+      "bytes": 9167,
+      "sha256": "21433442e23f5ae5376cd54077aaeec440aa4ae46a377f0f90b61e3598cf6447"
+    },
+    {
+      "path": "wiki/sources/vol-04-processo-civile-verifica-2026-10-03.md",
+      "bytes": 5720,
+      "sha256": "a0614a865d015dad7a0eb30130978af45ce21e1ec622fb15b0ef3daf88767478"
+    },
+    {
+      "path": "wiki/sources/vol-04-processo-penale-verifica-2026-10-03.md",
+      "bytes": 12060,
+      "sha256": "ed8c0832c4d80acc711b2b9b5143e6f0f8483cd33a2f285a57bc9a20cef3488c"
+    },
+    {
+      "path": "wiki/sources/vol-04-spese-verifica-2026-10-03.md",
+      "bytes": 8976,
+      "sha256": "bee838df30d559fd84b9bf849e2fe4acc6794ba4f63e6a00356dc0499e89c17c"
+    },
+    {
+      "path": "wiki/sources/vol-04-unep-verifica-2026-10-03.md",
+      "bytes": 6658,
+      "sha256": "2528c09929ce54265158f38c70fea1d40d99b2e048e054954fb4db4367178388"
+    },
+    {
+      "path": "wiki/sources/vol-05-bandi-authority-2022-2025.md",
+      "bytes": 4175,
+      "sha256": "3f985f24bf82c8beb2473644bed2855e3c55086721c769398ef330222d5e5c75"
+    },
+    {
+      "path": "wiki/sources/vol-05-dossier-editoriale-authority-regolazione-v4.md",
+      "bytes": 2415,
+      "sha256": "d022ba8d1da3818867477cad13cf37919404145a9a32cef8cdcd501bcb398b71"
+    },
+    {
+      "path": "wiki/sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4.md",
+      "bytes": 2696,
+      "sha256": "0c0760012774dade2b4877fb3388e6a585c7d2fe187a2c182d26e811bf7ac487"
+    },
+    {
+      "path": "wiki/sources/vol-09-accesso-rimedi-verifica-2026-10-03.md",
+      "bytes": 5553,
+      "sha256": "8251b31bcd26ab0e0b21f8091502434b99f4f0ec725735e781d2184dc76b908a"
+    },
+    {
+      "path": "wiki/sources/vol-09-appalti-pnrr-procurement-dossier-v4.md",
+      "bytes": 3222,
+      "sha256": "1634e705528fb4ffd340d37988ad77a0f0a77793f9d397189a42fdd05529c1fd"
+    },
+    {
+      "path": "wiki/sources/vol-09-bandi-specialistici-verificati-2026-10-03.md",
+      "bytes": 5230,
+      "sha256": "43941ee1097322f5e924ba87e240f7bfb626cc1829d3d4d43044435dc6e1afc4"
+    },
+    {
+      "path": "wiki/sources/vol-09-ciclo-digitale-verifica-2026-10-03.md",
+      "bytes": 3241,
+      "sha256": "da43ea766b9191b26d9f5cbda2fd5acf6a8991668340b0685c0f0a95805e9fd9"
+    },
+    {
+      "path": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "bytes": 6381,
+      "sha256": "c94c09f167d00c026d54b30ad1b7c9b60fe14fba46a265918a3d15eadb9fa800"
+    },
+    {
+      "path": "wiki/sources/vol-09-dnsh-cam-casi-verificati-2026-10-03.md",
+      "bytes": 6511,
+      "sha256": "078c54e3a0f1ede6e12878f9be43bf1905b9d2c97514233e6059905744386e62"
+    },
+    {
+      "path": "wiki/sources/vol-09-esecuzione-verifica-2026-10-03.md",
+      "bytes": 7893,
+      "sha256": "a95b470c5a37424172bfa6e9e3530d2ae748c050f34afb96b176bf4df6a88a2a"
+    },
+    {
+      "path": "wiki/sources/vol-09-gara-requisiti-verifica-2026-10-03.md",
+      "bytes": 5755,
+      "sha256": "a6ea07118c9f241131c7d186d21b8493e8eed43c7ff24ddd5d6dacf180940fc8"
+    },
+    {
+      "path": "wiki/sources/vol-09-governance-contratti-verifica-2026-10-03.md",
+      "bytes": 5329,
+      "sha256": "4556de1392d09e39463cc0cdf10aa4809357ed2ce118ade40c4ec5ad61a8d125"
+    },
+    {
+      "path": "wiki/sources/vol-09-laboratorio-soluzioni-verificate-2026-10-03.md",
+      "bytes": 5270,
+      "sha256": "78ded3b4d6424467b7e9f46d9d9388541b6dde72b65fc010dd217d3d9d2d2017"
+    },
+    {
+      "path": "wiki/sources/vol-09-pnrr-architettura-chiusura-regis-2026-10-03.md",
+      "bytes": 8191,
+      "sha256": "a927bc410fe5b4a2dbeb1b965084c8c6af22075e7b8cba6e6f59b861e9e6a8e3"
+    },
+    {
+      "path": "wiki/sources/vol-09-programmazione-sottosoglia-verifica-2026-10-03.md",
+      "bytes": 4680,
+      "sha256": "365d51dfc3428d4fa606442f645da0dc5ea971ea888ba2bb5aa3ff794c7e12d4"
+    },
+    {
+      "path": "wiki/sources/vol-09-project-management-esempi-2026-10-03.md",
+      "bytes": 3621,
+      "sha256": "800e29482a9c8e7f5a381c8489c7f5aba484659513bd5c3559ed5617eaab67fe"
+    },
+    {
+      "path": "wiki/sources/vol-09-tracciabilita-antifrode-spesa-2026-10-03.md",
+      "bytes": 6703,
+      "sha256": "d6be97bc54426b89275f6428a1ab38e6aa3642b2fb41b11cfe463c67005620c8"
+    },
+    {
+      "path": "wiki/topics/aggiornamento-fonti-concorsi.md",
+      "bytes": 3035,
+      "sha256": "0235ac4d551332057b70f8e6b3196f575df0869fb9b88da3f5d73aef3c6aee20"
+    },
+    {
+      "path": "wiki/topics/anatomia-del-bando.md",
+      "bytes": 17958,
+      "sha256": "680ed250f0ebb1a6355bdd2781cfbef1d929a1990ec6be09cb1280071991bd79"
+    },
+    {
+      "path": "wiki/topics/anticorruzione-e-trasparenza.md",
+      "bytes": 16385,
+      "sha256": "f6858ef3bbe2267841e1e4a3de2fbb45e7edae2846e977672f0a34052034c981"
+    },
+    {
+      "path": "wiki/topics/attivita-amministrativa.md",
+      "bytes": 1308,
+      "sha256": "72607539b04c4d573a6e20f97b5b17d9973ab82761c3bfc17ff8c956f7a6010c"
+    },
+    {
+      "path": "wiki/topics/authority-indipendenti-regolazione.md",
+      "bytes": 3232,
+      "sha256": "746f955335a70c02bca7d99a62eccd91de2834f72fc2c8efb4f7a6665383480a"
+    },
+    {
+      "path": "wiki/topics/bando-decoder.md",
+      "bytes": 1697,
+      "sha256": "aab6313595e8c341dde670656d89cfff80f6c7d8d76bdebdac3d01c8fba5e151"
+    },
+    {
+      "path": "wiki/topics/capitale-studio-riutilizzabile.md",
+      "bytes": 2942,
+      "sha256": "de09b566c81e8410fdc53c545ef210c21c5999a6d16b087ccacbdd227ec4eadd"
+    },
+    {
+      "path": "wiki/topics/casi-pratici.md",
+      "bytes": 2003,
+      "sha256": "d29cb08d808db76c5c1d771e4413570bb861318ab88c24da620eae2e96490a26"
+    },
+    {
+      "path": "wiki/topics/checklist-concorsi.md",
+      "bytes": 1985,
+      "sha256": "db1a54b1aa8393305ad2d68529c4b6e56c3a10b5bb06a27ca5e94c9690f99dc5"
+    },
+    {
+      "path": "wiki/topics/cloze-test-inglese.md",
+      "bytes": 1498,
+      "sha256": "879236c2ba12ae30f0cd40ef8e2e2a3cd4f9db461f1b0db2411baedb9900ba62"
+    },
+    {
+      "path": "wiki/topics/collegamenti-materie-concorsuali.md",
+      "bytes": 4377,
+      "sha256": "fd8622a612a1b2cfd5628df1588e1230d8255231e8c760272572b07a3603c932"
+    },
+    {
+      "path": "wiki/topics/competenze-digitali.md",
+      "bytes": 1835,
+      "sha256": "553d13c5c949625e7639cffac08dd0c7447417bdbd0e86f939d8f88f7f744ecf"
+    },
+    {
+      "path": "wiki/topics/competenze-trasversali-pa.md",
+      "bytes": 1591,
+      "sha256": "cd31f5793ea39a83f01cad709b814c84d943b3253baa727ccaeaefb576e728e1"
+    },
+    {
+      "path": "wiki/topics/comprensione-del-testo-concorsuale.md",
+      "bytes": 3611,
+      "sha256": "2c6d3c1fb1db5716f7cf91c3959253e364cc48289aa51a7e87d8f8b21f970840"
+    },
+    {
+      "path": "wiki/topics/concorsi-pubblici.md",
+      "bytes": 5138,
+      "sha256": "aa2ee1f39110e8f6023fbd32eab8ce12cc87b28a039652b658b46a5fd8a81acc"
+    },
+    {
+      "path": "wiki/topics/confronto-istituti-simili.md",
+      "bytes": 3376,
+      "sha256": "c12532bedd69dc6cb437f21cfd4ac7fa4afc55e695a0290a65595549488016a1"
+    },
+    {
+      "path": "wiki/topics/contabilita-pubblica.md",
+      "bytes": 6993,
+      "sha256": "1bb53c5741915c7f2c0d3472443017323aa40a986db3075968ab82d9e09b7e25"
+    },
+    {
+      "path": "wiki/topics/contratti-pubblici.md",
+      "bytes": 4337,
+      "sha256": "7b501ccb2f3d981067a57d1ad25ff3649daa6b549b874d1c4d54cded4707a10b"
+    },
+    {
+      "path": "wiki/topics/diario-errori.md",
+      "bytes": 5189,
+      "sha256": "8e2edb7d73eda3fd90fa0a073c67b6a8d067fbba5d4f0bb41c3300b845a224bc"
+    },
+    {
+      "path": "wiki/topics/diritto-amministrativo.md",
+      "bytes": 28151,
+      "sha256": "c4aba01f302923f6a560422c0abf35027bb920727431f2df36ecbcf7296457c2"
+    },
+    {
+      "path": "wiki/topics/documentazione-amministrativa-e-rimedi-operativi.md",
+      "bytes": 2608,
+      "sha256": "df031df3b5a06f6762528ce40887a3cfe0bc40de83db3b08caca87730dc2a919"
+    },
+    {
+      "path": "wiki/topics/domande-impreviste-concorsi.md",
+      "bytes": 3209,
+      "sha256": "4bc28324f19600ba2941948990c9ec587d070426c27aa42c60dd12a60a99bb84"
+    },
+    {
+      "path": "wiki/topics/etica-pubblica.md",
+      "bytes": 1508,
+      "sha256": "d716c04e25389eab1ec34a24d33a593e2addb6791f9a4f9b91d63f66a8d6585f"
+    },
+    {
+      "path": "wiki/topics/giustizia-e-upp.md",
+      "bytes": 8468,
+      "sha256": "609e37f848e016f06fbcc753e07cec8e0542329384f81b14b9dfcc98070f7e22"
+    },
+    {
+      "path": "wiki/topics/grammatica-inglese-concorsi.md",
+      "bytes": 1506,
+      "sha256": "b28c8ca9a3a3dce79a4382462e5852fcfce56296db11563894c19d1d197aa0aa"
+    },
+    {
+      "path": "wiki/topics/incompatibilita-inconferibilita-e-incarichi-esterni.md",
+      "bytes": 2142,
+      "sha256": "884080e6a980776bf91df01a9acc774176cdc20f918c0825cdb45a36ad7d9bf7"
+    },
+    {
+      "path": "wiki/topics/informatica.md",
+      "bytes": 2231,
+      "sha256": "6e466aa8e8d459813d47608c4dc0a5a821fcd7f3239fdfff66fc645718cf38d6"
+    },
+    {
+      "path": "wiki/topics/inglese-concorsuale.md",
+      "bytes": 2391,
+      "sha256": "71f8dbc1fb3c168ecaba3d1d848f7869b3da25bec320a950ef6f870900aaaa60"
+    },
+    {
+      "path": "wiki/topics/laboratorio-prove-authority.md",
+      "bytes": 1966,
+      "sha256": "59edc04cdd94d0faf41f95f0647d2daa4aeb064d7725e01f1240140c0f1ea920"
+    },
+    {
+      "path": "wiki/topics/lessico-inglese-pa.md",
+      "bytes": 1490,
+      "sha256": "bf161750ac6e63725436b68852887c58cd6ab99b50ac3b8e95e263cc5f7dcf5b"
+    },
+    {
+      "path": "wiki/topics/logica-concorsuale.md",
+      "bytes": 3910,
+      "sha256": "0a3e0dc9ba54d5a34b3a8f4013b9f65253b32a8414b6bc65715b86d00622a902"
+    },
+    {
+      "path": "wiki/topics/logica-copertura-volumi-concorsobook.md",
+      "bytes": 1663,
+      "sha256": "2bc29df173f6dd9665fd963529138516395dc1174a79ca87babd4c903319de48"
+    },
+    {
+      "path": "wiki/topics/m-ir01-scuola-fonti-e-profili.md",
+      "bytes": 2991,
+      "sha256": "d5ebeed4ef2ae689f51a09d121c5038c4a3dd0b3820a7e20b5ea00fc11ebe8bf"
+    },
+    {
+      "path": "wiki/topics/m-ir02-universita-afam-fonti-e-profili.md",
+      "bytes": 2456,
+      "sha256": "9c53bd34c8f23eb00ea5c3fde8ab561aa422521c58cb534c8e374c2f80a0366d"
+    },
+    {
+      "path": "wiki/topics/m-ir03-enti-ricerca-fonti-e-profili.md",
+      "bytes": 1604,
+      "sha256": "7362fae6a77a5d976773d97b1676bcfb8e4e5fda4b22c713ac41199dad8c3676"
+    },
+    {
+      "path": "wiki/topics/m-ir04-cultura-fonti-e-profili.md",
+      "bytes": 3336,
+      "sha256": "d00392e71a623f0440646fd677d4d85eded2bc710efdb971cd8f51fc95069a24"
+    },
+    {
+      "path": "wiki/topics/mappe-profilo.md",
+      "bytes": 2923,
+      "sha256": "fc30ff24acf0892ad0f422b9ae37904e1a843abb25be80be769b38c043fa0dec"
+    },
+    {
+      "path": "wiki/topics/matrice-materie-profili.md",
+      "bytes": 2792,
+      "sha256": "89e03bd38f461c14d17c1794a2e68ada08553654b1ca832f6a9b5e7c7b2715aa"
+    },
+    {
+      "path": "wiki/topics/metodo-bando.md",
+      "bytes": 5080,
+      "sha256": "dcda7f1e2791e9eaed9f3aa71fe49e13d739dde203a401ab2f6acaefb94d55ed"
+    },
+    {
+      "path": "wiki/topics/metodo-di-studio.md",
+      "bytes": 3439,
+      "sha256": "76bac08b2e37a2d67b4b70570da82ac24f15378c87f746becb9cfd631221f83d"
+    },
+    {
+      "path": "wiki/topics/ministeri-organizzazione-bilancio-rettifiche-2026.md",
+      "bytes": 2087,
+      "sha256": "73fdacbb1305dcfda9580c5c847587834b5d8ec8691cc1e0c7a602c5b6b815d2"
+    },
+    {
+      "path": "wiki/topics/moduli-integrativi.md",
+      "bytes": 2957,
+      "sha256": "35541e1e4a47a11de35eceb0d3e968f4e36b641afa8778e3b3ed103d716e2dd1"
+    },
+    {
+      "path": "wiki/topics/moduli-profilo.md",
+      "bytes": 3250,
+      "sha256": "980a0126f45a054046b2a2208b1da96ec0258c564c517266275a96e4e75e66f4"
+    },
+    {
+      "path": "wiki/topics/nucleo-comune-concorsi-pubblici.md",
+      "bytes": 1974,
+      "sha256": "33b85d71a749e129064d9d435976905a20be937517356d8e121eed732645196c"
+    },
+    {
+      "path": "wiki/topics/orientamento-al-cittadino.md",
+      "bytes": 1824,
+      "sha256": "138ac61545b9d2ffe6aa51bca7182a0504af4241e53a2c4a8a3343b7141c3d88"
+    },
+    {
+      "path": "wiki/topics/pa-digitale.md",
+      "bytes": 2044,
+      "sha256": "af6134071a08c44ada3b31594b2cf3dee43bd2c3f4dca84b5e3fe0e6d27988b2"
+    },
+    {
+      "path": "wiki/topics/parole-chiave-concorsi.md",
+      "bytes": 2040,
+      "sha256": "4822dbd688d8130a31ec163e6014a6f696a755c26ea916a1a6846c14f23c0dab"
+    },
+    {
+      "path": "wiki/topics/piano-30-60-90-giorni.md",
+      "bytes": 3672,
+      "sha256": "851de075f2d07318749e12fb4407f3dbe44243c748741c0fc97b20bdab9bf2ae"
+    },
+    {
+      "path": "wiki/topics/pnrr.md",
+      "bytes": 1270,
+      "sha256": "974cd9acdb61614e4a1d0fcb7c725b21b250e8f3989415df504f674389798782"
+    },
+    {
+      "path": "wiki/topics/privacy-e-protezione-dati.md",
+      "bytes": 2813,
+      "sha256": "263797ee2b3f5b5cfc9b958bfbf694b5c8ba17a314d43d1d3f842a1bbdf642c9"
+    },
+    {
+      "path": "wiki/topics/problem-solving-amministrativo.md",
+      "bytes": 1838,
+      "sha256": "640673a7c4a750de7de5ca8514e9ccfe300e9dabca9249ce20e5bddced262593"
+    },
+    {
+      "path": "wiki/topics/procedimento-amministrativo.md",
+      "bytes": 9280,
+      "sha256": "65460e0780b6fe7d915dcd4d57252417a4460926dd0c57f0de61e59cd4efe063"
+    },
+    {
+      "path": "wiki/topics/processo-amministrativo.md",
+      "bytes": 2045,
+      "sha256": "878e31b55aaf99fbecd8dd8cc8bc811d567181708d44a9776253afd7ade634cb"
+    },
+    {
+      "path": "wiki/topics/prova-a-quiz.md",
+      "bytes": 3011,
+      "sha256": "d5272a73611152263d691fad11b2946212705dfa8eddef12c03605f65bf4457a"
+    },
+    {
+      "path": "wiki/topics/prova-orale.md",
+      "bytes": 4469,
+      "sha256": "0d9d61436a0ac290f99a60c65fdeeba7046162ec6408947a06ff02bc84063c1c"
+    },
+    {
+      "path": "wiki/topics/prova-scritta-teorico-pratica.md",
+      "bytes": 4822,
+      "sha256": "c6bf6b68ff9981eb3ec31e716f1a923d186f6fe8220a6f0e29a7d535acd3b698"
+    },
+    {
+      "path": "wiki/topics/prove-concorsuali.md",
+      "bytes": 3332,
+      "sha256": "f2ed27fd4984f94491e6d58abc8f0dc4ed57f20f88a97f72e5bd8183d1b4b9e5"
+    },
+    {
+      "path": "wiki/topics/pubblico-impiego.md",
+      "bytes": 8566,
+      "sha256": "ead5f6d32addec85a1b36596007da0354933c643b898290f8a98da6733d08bcc"
+    },
+    {
+      "path": "wiki/topics/quesiti-situazionali.md",
+      "bytes": 2083,
+      "sha256": "29f65c6b4f37d47f4580cf9776f09a800f089a0aa9df5d11ebe49df7fb9e81d1"
+    },
+    {
+      "path": "wiki/topics/ragionamento-concorsuale.md",
+      "bytes": 8215,
+      "sha256": "0ddcbfe8da00adcaba13a65fcbbf12f8aabc024b9bdd8eed0936c50866fd8c84"
+    },
+    {
+      "path": "wiki/topics/revisione-risposta-concorsuale.md",
+      "bytes": 3196,
+      "sha256": "14675f1e85341b6c05af75e3bf8dd74373ee5c7954615aa2a8a71f06ac828c67"
+    },
+    {
+      "path": "wiki/topics/risposta-concorsuale.md",
+      "bytes": 5337,
+      "sha256": "bee2535acfd580715f6867e3db8e66b59ac4c9106a2aac2a713416d7035f350b"
+    },
+    {
+      "path": "wiki/topics/risposta-sintetica-concorsuale.md",
+      "bytes": 4341,
+      "sha256": "43b61b61751250c557537e4ca6f733e669f842acbbd705d49776e30854e82f3b"
+    },
+    {
+      "path": "wiki/topics/scelta-materiali-studio-concorsi.md",
+      "bytes": 4186,
+      "sha256": "e2dca8746cc719584b86d205899fce18fbfa5a8fbe8fc892b55c87245539fd8d"
+    },
+    {
+      "path": "wiki/topics/schede-operative-studio.md",
+      "bytes": 4274,
+      "sha256": "bf6dd68d122498790a5f8beff371c3f7dd6cd18a1f95e02b8c0de2a467042888"
+    },
+    {
+      "path": "wiki/topics/schema-risposta-orale.md",
+      "bytes": 5155,
+      "sha256": "61356955dc2d37c8a7d46edbec657f3de16d6b7d16f53054e8de65ad98af69d6"
+    },
+    {
+      "path": "wiki/topics/simulazioni-concorsuali.md",
+      "bytes": 5161,
+      "sha256": "f7d2afb89ab5ce1df0285067e292f766587e4f8279043f15e03009a5ee24edf7"
+    },
+    {
+      "path": "wiki/topics/soft-skills-pa.md",
+      "bytes": 1450,
+      "sha256": "de9276efeb5aede4ccdc217cc1556213766dfe794273c88153456899a3db58ca"
+    },
+    {
+      "path": "wiki/topics/sostenibilita-preparazione-concorsi.md",
+      "bytes": 3269,
+      "sha256": "8cb25c5667302f6ef49fc333df29da3ec6f4ae7a72cd72ccb96617f5db1609d9"
+    },
+    {
+      "path": "wiki/topics/strategia-punteggio-prova-concorsuale.md",
+      "bytes": 4328,
+      "sha256": "5cf78bbc959f3e5153ef04ca16a9703cf032b5595852bf0b36495500651781a1"
+    },
+    {
+      "path": "wiki/topics/strumenti-digitali-metodo-bando.md",
+      "bytes": 3539,
+      "sha256": "f2229226fd21593d40c91f445289979d442f75951bed1dc0fbf84a04ac91f5b0"
+    },
+    {
+      "path": "wiki/topics/taglio-priorita-studio-concorsi.md",
+      "bytes": 4629,
+      "sha256": "3c9ccb0f4799cafc1f6ac3a95ff13f06e48c9b232bc8b568add9bc20171c72e1"
+    },
+    {
+      "path": "wiki/topics/test-attitudinali-ripam.md",
+      "bytes": 2343,
+      "sha256": "b1cefddec74bb0556b197bed278a6bdc28a075303cdb758ba5141ffb289b819a"
+    },
+    {
+      "path": "wiki/topics/vol-06-istruzione-ricerca-cultura.md",
+      "bytes": 2291,
+      "sha256": "a3197ad32516bb4b36784b74bb583256745f5792b01a3ca540134d2fd9686052"
+    },
+    {
+      "path": "wiki/topics/vol-09-appalti-pnrr-procurement.md",
+      "bytes": 6161,
+      "sha256": "af1a33d88f51bc718903953a359163aeab1fa58b0f163eb58603246482a93327"
+    }
+  ],
+  "sourceGraphAudit": "artifacts/correzioni-collana-2026-10-02/VOL-06-package-source-graph.json",
+  "directSourceGraphIssues": [],
+  "previousInteriorSha256": "2b3391c9f83856c5444a36efe542aeac180521f78e91309203375d02482dd15a",
+  "covers": [
+    {
+      "key": "06",
+      "volume": "VOL-06",
+      "title": "Scuola, Università, Ricerca, Cultura",
+      "cover": "delivery/copertine-2026-10-03/vol-06-cover.pdf",
+      "coverSha256": "67e17c7e2ecda6ae0673d606927726ae8fe40fc7b39c58e2063f50b8a813353f",
+      "interior": "delivery\\VOL-06\\candidate-2026-10-03\\vol-06-interior-kdp.pdf",
+      "interiorSha256": "34b57193a490375dcab8c48f858de6fb360d3d05af1c183b29d114b32380ab94",
+      "pdfPages": 617,
+      "kdpPages": 618,
+      "spineInches": 1.391736,
+      "widthInches": 15.021736,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 43.57157647265626,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/06.png",
+      "path": "covers/vol-06-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

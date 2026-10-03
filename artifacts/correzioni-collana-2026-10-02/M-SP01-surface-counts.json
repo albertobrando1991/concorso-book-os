@@ -1,0 +1,332 @@
+[
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+    "chapter": 1,
+    "words": 6183,
+    "nuclei": [
+      {
+        "id": "N-SP01-01-01",
+        "heading": "La famiglia Polizia, Carabinieri e Guardia di Finanza",
+        "words": 764
+      },
+      {
+        "id": "N-SP01-01-02",
+        "heading": "Amministrazioni, status e funzioni da non confondere",
+        "words": 796
+      },
+      {
+        "id": "N-SP01-01-03",
+        "heading": "I due binari di accesso: base e ispettivo",
+        "words": 1103
+      },
+      {
+        "id": "N-SP01-01-04",
+        "heading": "La sequenza scritta, efficienza fisica, psico-fisici e attitudinale",
+        "words": 735
+      },
+      {
+        "id": "N-SP01-01-05",
+        "heading": "La procedura come catena eliminatoria e i punti di arresto",
+        "words": 813
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+    "chapter": 2,
+    "words": 5942,
+    "nuclei": [
+      {
+        "id": "N-SP01-02-01",
+        "heading": "La posizione del candidato prima della domanda",
+        "words": 871
+      },
+      {
+        "id": "N-SP01-02-02",
+        "heading": "Il bando come regola di accesso nei binari base e ispettivo",
+        "words": 880
+      },
+      {
+        "id": "N-SP01-02-03",
+        "heading": "Età, diploma e parametri fisici: leggere la formula esatta",
+        "words": 734
+      },
+      {
+        "id": "N-SP01-02-04",
+        "heading": "Condotta, cause ostative e accertamenti personali",
+        "words": 725
+      },
+      {
+        "id": "N-SP01-02-05",
+        "heading": "Controllo documentale iniziale e verifica dinamica dei requisiti",
+        "words": 878
+      }
+    ],
+    "quiz": 7
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+    "chapter": 3,
+    "words": 6713,
+    "nuclei": [
+      {
+        "id": "N-SP01-03-01",
+        "heading": "Banca dati chiusa del binario base",
+        "words": 840
+      },
+      {
+        "id": "N-SP01-03-02",
+        "heading": "Banca dati PS ispettiva e compressione temporale",
+        "words": 842
+      },
+      {
+        "id": "N-SP01-03-03",
+        "heading": "Italiano a quesiti: l’esempio Carabinieri 898 marescialli",
+        "words": 718
+      },
+      {
+        "id": "N-SP01-03-04",
+        "heading": "Tema o prova di cultura generale GdF",
+        "words": 984
+      },
+      {
+        "id": "N-SP01-03-05",
+        "heading": "Funzione e strategia della preselezione",
+        "words": 770
+      }
+    ],
+    "quiz": 8
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+    "chapter": 4,
+    "words": 6272,
+    "nuclei": [
+      {
+        "id": "N-SP01-04-01",
+        "heading": "Efficienza fisica nei tre corpi",
+        "words": 1069
+      },
+      {
+        "id": "N-SP01-04-02",
+        "heading": "Idoneità psico-fisica e parametri",
+        "words": 874
+      },
+      {
+        "id": "N-SP01-04-03",
+        "heading": "Accertamento attitudinale",
+        "words": 781
+      },
+      {
+        "id": "N-SP01-04-04",
+        "heading": "Preparazione integrata e trappole procedurali",
+        "words": 742
+      },
+      {
+        "id": "N-SP01-04-05",
+        "heading": "Calendario, recupero, documentazione e gestione del rischio di esclusione",
+        "words": 973
+      }
+    ],
+    "quiz": 7
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+    "chapter": 5,
+    "words": 5958,
+    "nuclei": [
+      {
+        "id": "N-SP01-05-01",
+        "heading": "Struttura del colloquio",
+        "words": 679
+      },
+      {
+        "id": "N-SP01-05-02",
+        "heading": "Criteri, soglie e valutazione",
+        "words": 711
+      },
+      {
+        "id": "N-SP01-05-03",
+        "heading": "Gestione dell'esposizione",
+        "words": 705
+      },
+      {
+        "id": "N-SP01-05-04",
+        "heading": "Valutazione dei titoli",
+        "words": 723
+      },
+      {
+        "id": "N-SP01-05-05",
+        "heading": "Prova facoltativa di lingua e decisione di sostenerla",
+        "words": 892
+      }
+    ],
+    "quiz": 7
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+    "chapter": 6,
+    "words": 6219,
+    "nuclei": [
+      {
+        "id": "N-SP01-06-01",
+        "heading": "Riuso dal VOL-01 e delta di famiglia",
+        "words": 1072
+      },
+      {
+        "id": "N-SP01-06-02",
+        "heading": "Ordinamento dei corpi",
+        "words": 934
+      },
+      {
+        "id": "N-SP01-06-03",
+        "heading": "Diritto e procedura penale con polizia giudiziaria",
+        "words": 766
+      },
+      {
+        "id": "N-SP01-06-04",
+        "heading": "Pubblica sicurezza e polizia amministrativa",
+        "words": 670
+      },
+      {
+        "id": "N-SP01-06-05",
+        "heading": "Costruzione di una risposta integrata che separa i tre piani",
+        "words": 740
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+    "chapter": 7,
+    "words": 6854,
+    "nuclei": [
+      {
+        "id": "N-SP01-07-01",
+        "heading": "Accesso e scelta del binario",
+        "words": 982
+      },
+      {
+        "id": "N-SP01-07-02",
+        "heading": "Sequenza e valore delle prove",
+        "words": 937
+      },
+      {
+        "id": "N-SP01-07-03",
+        "heading": "Fonti, versione e gerarchia documentale",
+        "words": 961
+      },
+      {
+        "id": "N-SP01-07-04",
+        "heading": "Dati mobili, dati stabili e ignoti dichiarati",
+        "words": 928
+      },
+      {
+        "id": "N-SP01-07-05",
+        "heading": "Decisione finale e azioni dei prossimi sette giorni",
+        "words": 994
+      }
+    ],
+    "quiz": 8
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+    "chapter": 8,
+    "words": 6867,
+    "nuclei": [
+      {
+        "id": "N-SP01-08-01",
+        "heading": "Architettura del piano base",
+        "words": 742
+      },
+      {
+        "id": "N-SP01-08-02",
+        "heading": "Architettura del piano ispettivo e variante banca dati pubblicata",
+        "words": 1281
+      },
+      {
+        "id": "N-SP01-08-03",
+        "heading": "Giorni 0-30",
+        "words": 802
+      },
+      {
+        "id": "N-SP01-08-04",
+        "heading": "Giorni 31-60",
+        "words": 776
+      },
+      {
+        "id": "N-SP01-08-05",
+        "heading": "Giorni 61-90, simulazioni e decisione finale",
+        "words": 791
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+    "chapter": 9,
+    "words": 7173,
+    "nuclei": [
+      {
+        "id": "N-SP01-09-01",
+        "heading": "Errori di accesso e binario",
+        "words": 892
+      },
+      {
+        "id": "N-SP01-09-02",
+        "heading": "Errori sullo scritto",
+        "words": 886
+      },
+      {
+        "id": "N-SP01-09-03",
+        "heading": "Errori negli accertamenti",
+        "words": 930
+      },
+      {
+        "id": "N-SP01-09-04",
+        "heading": "Errori su dati mobili, fonti e avvisi",
+        "words": 989
+      },
+      {
+        "id": "N-SP01-09-05",
+        "heading": "Errori nella catena procedurale",
+        "words": 927
+      }
+    ],
+    "quiz": 8
+  },
+  {
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+    "chapter": 10,
+    "words": 5436,
+    "nuclei": [
+      {
+        "id": "N-SP01-10-01",
+        "heading": "Ammissibilità, binario e documenti",
+        "words": 611
+      },
+      {
+        "id": "N-SP01-10-02",
+        "heading": "Prova scritta",
+        "words": 611
+      },
+      {
+        "id": "N-SP01-10-03",
+        "heading": "Accertamenti, salute e prudenza",
+        "words": 638
+      },
+      {
+        "id": "N-SP01-10-04",
+        "heading": "Orale, titoli, lingua e logistica",
+        "words": 640
+      },
+      {
+        "id": "N-SP01-10-05",
+        "heading": "Due decisioni distinte e un piano di recupero",
+        "words": 698
+      }
+    ],
+    "quiz": 8
+  }
+]

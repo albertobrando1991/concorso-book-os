@@ -1,7 +1,7 @@
 ---
 id: m-ir02-universita-afam
 type: specialist_module
-title: "M-IR02 - Universita e AFAM"
+title: "M-IR02 — Università e AFAM"
 status: final
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","istruzione-ricerca","metodo bando"]
@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4","sources/bandi-rappresentativi-m-ir02-universita-afam-2025-2026","sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.72
-updated_at: 2026-08-22
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -25,7 +25,7 @@ draft_stage: text_frozen
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4"]
 ---
 
-# M-IR02 - Universita e AFAM
+# M-IR02 — Università e AFAM
 
 ## Ruolo del modulo
 Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Serve ad applicare il metodo, le materie comuni e la logica workbook a una famiglia concorsuale specifica.
@@ -35,12 +35,12 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-IR02
 - Copertura: Universita, AFAM, personale tecnico-amministrativo e procedure accademiche di base.
 - Fase roadmap: 3
-- Stato: testi completi, in revisione trasversale del modulo.
+- Stato: correzioni testuali e audit specialistico conclusi; nuovo PDF da verificare.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono fonti consolidate e audit specialistico; la conferma umana riguarda il pacchetto finale.
 
 ## Indice di studio
 - [[books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam|01 — Sistema universitario e AFAM]]
@@ -71,4 +71,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - Eventuali manuali o banche dati solo dopo schedatura in sources/.
 
 ## Prossimo passo
-Completare audit verticale, controllo specialistico delle fonti mobili e preflight del modulo tramite pipeline.
+Verificare il nuovo PDF e completare i controlli del volume tramite pipeline. Il manifest corrente documenta il testo congelato.

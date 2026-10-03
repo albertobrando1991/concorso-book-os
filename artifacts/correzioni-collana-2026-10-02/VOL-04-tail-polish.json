@@ -1,0 +1,18 @@
+[
+  {
+    "path": "wiki/books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+    "before": "fc84104038c879d27d48fefdb40e1bc7e4ec8a785ffb0372f6ee10d4f6e6d783",
+    "after": "91c747f47587362a5134cf42f234a993028c4e7e103a98fa9fafcef4e5ad2568",
+    "old": "Se una risposta è incerta, inseriscila nel diario degli errori. Le etichette utili sono: \"Ministero/giurisdizione confusi\", \"sigla senza funzione\", \"DAP e DGMC confusi\", \"DIT e DGSIA confusi\", \"bando non collegato all'ufficio\", \"organigramma senza output\".",
+    "new": "Annota nel diario le distinzioni incerte e ripassa le relative funzioni.",
+    "reason": "Richiamo ripetitivo al diario condensato; distinzioni già sviluppate nel capitolo e nella checklist. Nessuna modifica a norme, quiz o soluzioni."
+  },
+  {
+    "path": "wiki/books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md",
+    "before": "ca3e5f530d961323d2ff3e15c5ac5b2f09ee9c017dd7748dcd2235bc69331e04",
+    "after": "84ef8199d7e610fe9c18e632a5d0c833c44a04a68838cdfc17930d9023c10e35",
+    "old": "Se una risposta è incerta, registrala nel diario degli errori. Le etichette utili sono: \"processo penale troppo teorico\", \"PM/giudice confusi\", \"registro ignorato\", \"notifiche/depositi confusi\", \"PPT generalizzato\", \"esecuzione penale saltata\", \"riparativa confusa con mediazione generica\".",
+    "new": "Annota nel diario le distinzioni incerte e ripassa le relative funzioni.",
+    "reason": "Richiamo ripetitivo al diario condensato; distinzioni già sviluppate nel capitolo e nella checklist. Nessuna modifica a norme, quiz o soluzioni."
+  }
+]

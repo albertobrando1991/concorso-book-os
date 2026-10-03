@@ -1,0 +1,112 @@
+[
+  {
+    "name": "civile-codice-art822",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:1942;262:2~art822!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/civile-codice-art822-urn.html",
+    "sha256": "f8d708ca23830efcd1074450b1507cf1200f10af12e266f070a53816bfdb577f",
+    "characters": 696,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "civile-codice-art823",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:1942;262:2~art823!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/civile-codice-art823-urn.html",
+    "sha256": "f5a80e003c128cc5c4c0933b1de3a8a09954c61e21393c7dfb8aa608c82e0e35",
+    "characters": 498,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "civile-codice-art826",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:1942;262:2~art826!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/civile-codice-art826-urn-complete.html",
+    "sha256": "83598655fc311c482709fcbed919ed7852f887617ffa1f74aec14fd0c421c924",
+    "characters": 1050,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "civile-codice-art828",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:1942;262:2~art828!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/civile-codice-art828-urn.html",
+    "sha256": "0221c31c88fe7ad213f92be0e25eb85d67c0880b7da1b825e5e3e53c9f6758fe",
+    "characters": 429,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "i7-art5",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:8~art5!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/i7-art5-urn.html",
+    "sha256": "199040d2950737e9bfbe0e1800abdde490697f9b6fcb010f812291a1df3b20f0",
+    "characters": 3981,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "i7-art27",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:8~art27!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/i7-art27-urn.html",
+    "sha256": "05897a2ec1a3c62e2c7526fe23e6fc0a5fefaff8cf9a73a2bef343cd8125b9d3",
+    "characters": 5687,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "i7-art31",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:8~art31!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/i7-art31-urn.html",
+    "sha256": "12df1ab723afcf3a003cf88600bf9fa0ccdec0096cb4f64cf3318196d86049a5",
+    "characters": 6624,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "i9-art1",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:10~art1!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/i9-art1-urn.html",
+    "sha256": "4bfa6bd9f7a80a6d38cb19fbc9387d37af747d0bca06237627b25a02fcd0f0d4",
+    "characters": 16016,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "ii14-art7",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:29~art7!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/ii14-art7-urn.html",
+    "sha256": "0a878f1bac7aa17626f284783aec023e156cf91cd14abad18f6b539586590fa3",
+    "characters": 3687,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "ii14-art12",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:29~art12!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/ii14-art12-urn.html",
+    "sha256": "01e4957437e9bc4bea9405e95a17ecdb4c9b1bb514d3e91f3b4298b8f2014f9b",
+    "characters": 12261,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  },
+  {
+    "name": "ii14-art28",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:2023;36:29~art28!vig=",
+    "path": "wiki/raw/correzioni-vol10-2026-10-03/ii14-art28-urn.html",
+    "sha256": "f9313f2abf9ca1ac91e0284b827c0a870bb2ed6636197de29f67caadb78e191c",
+    "characters": 2102,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente",
+    "evidenceValid": true
+  }
+]

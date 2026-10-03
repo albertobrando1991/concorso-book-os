@@ -1,49 +1,52 @@
-# Audit specialistico conclusivo — M-FC01 Ministeri, PCM e Avvocatura dello Stato
+# M-FC01 — Audit specialistico conclusivo, 3 ottobre 2026
 
-## Esito
+## 1. Sintesi editoriale
 
-Audit specialistico concluso sull'intero modulo. I riferimenti normativi, istituzionali, contrattuali e digitali utilizzati nei capitoli sono coerenti con le fonti ufficiali consultate alla data del 22 agosto 2026. Le formulazioni relative a bandi, prove, organizzazioni interne e procedure mobili restano correttamente condizionate alla disciplina vigente e alla singola procedura. Non risultano errori gravi o medi aperti, dati operativi privi di fonte o rinvii a una futura revisione umana.
+Riesaminate le dodici correzioni dell'audit integrale, i nuovi claim e le verifiche applicative. Il testo può passare al congelamento tramite CLI: nessun errore grave o medio noto resta aperto nel perimetro riesaminato. Il giudizio non attesta il PDF finale.
 
-## Tabella errori
+## 2. Perimetro e metodo
 
-| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-|---|---|---|---|---|---|---|
-| AUD-01 | Capitoli 01-03 | Ordinamento | Importante | Verificare che l'inquadramento di Ministeri e Presidenza del Consiglio non irrigidisca assetti organizzativi mobili. | Confermare le basi legislative e mantenere la distinzione tra principi stabili e assetti da verificare sul bando. | Corretto |
-| AUD-02 | Capitoli 04-05 | Pubblico impiego e contrattazione | Importante | Verificare aggiornamento e perimetro dei CCNL delle Funzioni centrali. | Consolidare periodi contrattuali e date di sottoscrizione; non attribuire al manuale trattamenti economici mobili. | Corretto |
-| AUD-03 | Capitolo 06 | Avvocatura dello Stato | Importante | Verificare funzioni e articolazione generale dell'istituto. | Confermare patrocinio, consulenza e articolazione centrale/distrettuale su fonti istituzionali. | Corretto |
-| AUD-04 | Capitoli 07-08 | PIAO, performance, integrità | Importante | Verificare coerenza tra programmazione, performance, prevenzione della corruzione e codice di comportamento. | Confermare il quadro vigente e conservare la formulazione sistemica, priva di automatismi non normati. | Corretto |
-| AUD-05 | Capitoli 09-10 | Contabilità, contratti e digitale | Importante | Verificare che esempi e procedure non presentino soglie o sequenze mobili come regole assolute. | Mantenere gli importi come esempi didattici dichiarati e le procedure come schemi subordinati alla normativa vigente. | Corretto |
-| AUD-06 | Capitoli 11-15 | Applicazione e simulazioni | Importante | Verificare che casi e quesiti applichino correttamente le regole del modulo. | Controllo incrociato di soluzioni, distrattori, motivazioni e rinvii ai nuclei didattici. | Corretto |
-| AUD-07 | Intero modulo | Bandi e dati mobili | Importante | Possibile assolutizzazione di prove, requisiti, termini o assetti organizzativi. | Conservare le clausole di dipendenza dalla singola procedura e dalle fonti vigenti. | Corretto |
-| AUD-08 | Intero modulo | Dato operativo | Lieve | La pipeline non rileva box `Dato operativo`. | Nessun intervento necessario. | Corretto |
+Baseline integralmente letta nell'audit VOL-03. Riesame attuale dei blocchi modificati e delle 106 righe estratte per norme, date e termini, comprese alcune righe di metadata. Controllati CCNL, fonti organizzative, PIAO, contabilità statale, acquisti e comportamento. Dati operativi: nessun box dichiarato o rilevato dal contratto CLI.
 
-## Registro specialistico delle evidenze
+## 3. Registro specialistico
 
-| ID | File e posizione | Categoria | Gravità | Evidenza consolidata | Correzione applicata | Stato finale |
-|---|---|---|---|---|---|---|
-| AUD-01 | `chapters/01-assetto-ministeri.md`; `02-presidenza-consiglio.md`; `03-organizzazione-ministeriale.md` | Ordinamento | Importante | D.lgs. 300/1999, d.lgs. 165/2001, legge 400/1988 e d.lgs. 303/1999; le fonti distinguono struttura generale e disciplina organizzativa specifica. | Verificato che il testo non trasforma organigrammi o attribuzioni mobili in regole universali. | Chiuso |
-| AUD-02 | `chapters/04-personale-ministeri.md`; `05-contrattazione-funzioni-centrali.md` | Contrattazione | Importante | ARAN: CCNL Comparto Funzioni centrali 2022-2024 sottoscritto il 27 gennaio 2025; CCNL Area Funzioni centrali 2022-2024 sottoscritto il 28 ottobre 2025. | Il manoscritto richiama il CCNL applicabile senza fissare importi o condizioni economiche decontestualizzate. | Chiuso |
-| AUD-03 | `chapters/06-avvocatura-stato.md` | Ordinamento specialistico | Importante | Portale istituzionale dell'Avvocatura dello Stato: patrocinio, consulenza e organizzazione centrale e distrettuale; base storica nel r.d. 1611/1933. | Terminologia e descrizione generale confermate; nessun assetto secondario mobile è presentato come immutabile. | Chiuso |
-| AUD-04 | `chapters/07-ciclo-performance-piao.md`; `08-trasparenza-anticorruzione.md`; `12-quesiti-situazionali-codice-comportamento.md` | Programmazione e integrità | Importante | DPR 81/2022, DM 132/2022, d.lgs. 150/2009, legge 190/2012, d.lgs. 33/2013, DPR 62/2013 e Linee guida PIAO 2025 del Dipartimento della funzione pubblica. | Controllata la separazione tra finalità degli strumenti e applicazione concreta; i casi non introducono deroghe o automatismi. | Chiuso |
-| AUD-05 | `chapters/09-contabilita-ministeriale.md`; `10-contratti-pubblici-digitale.md` | Contabilità, contratti, CAD | Importante | Legge 196/2009, d.lgs. 36/2023, d.lgs. 82/2005 e Linee guida AgID vigenti. | Gli importi 10.000, 15.000 e 25.000 euro restano esempi aritmetici esplicitamente didattici; nessuna soglia giuridica è inferita dagli esempi. | Chiuso |
-| AUD-06 | `chapters/11-casi-pratici-ministeriali.md`–`15-appendici-operative.md` | Casi ed esercizi | Importante | Coerenza verificata con i nuclei 01-10 e con la matrice di copertura didattica; gate chapter-lint, densità, citazioni e revisione già superati. | Controllati esiti, motivazioni e distinzione tra dato stabile, ipotesi del caso e informazione da reperire nel bando. | Chiuso |
-| AUD-07 | Intero modulo | Dati mobili | Importante | I dettagli della procedura concorsuale, i calendari, i requisiti specifici e gli assetti di dettaglio dipendono dagli atti vigenti e dalla singola amministrazione. | Verificata la presenza di formule condizionali e inviti alla lettura della fonte primaria; nessun valore mobile è presentato come sempre valido. | Chiuso |
-| AUD-08 | Intero modulo | Dato operativo | Lieve | Nessun box `Dato operativo` rilevato automaticamente nei capitoli. | Nessuna correzione necessaria. | Chiuso |
+| ID | Posizione | Categoria | Gravità | Evidenza consolidata | Correzione applicata | Stato |
+| --- | --- | --- | --- | --- | --- | --- |
+| FC01-S01 | 03; 12 | Contratto e comportamento | Grave | CCNL 9 maggio 2022 art. 12/allegato A e art. 42; definitivo 6 agosto 2026 acquisito | Quattro aree; rinnovo definitivo; rimostranza e limite penale o amministrativo | Verificato e chiuso |
+| FC01-S02 | 05–07 | Organizzazione | Media | D.Lgs. 303/1999 artt. 7–8; D.Lgs. 300/1999 artt. 3/5/6; R.D. 1611/1933, regolamento e fonti Avvocatura | Responsabilità, durata missioni, modelli alternativi, patrocinio e competenza | Verificato e chiuso |
+| FC01-S03 | 08 | PIAO | Media | D.M. 132/2022 e allegato; D.L. 80/2021 | Quattro sezioni, tre anni, aggiornamento annuale e termine ordinario; ruoli distinti | Verificato e chiuso |
+| FC01-S04 | 09 | Bilancio dello Stato | Grave | RGS residui, L. 196/2009, DFP 2026 Camera e DPFP RGS | Riscosso non versato; 40 residui nell'esempio; unità di voto, sezioni, due conti, parificazione | Verificato e chiuso |
+| FC01-S05 | 10 | Acquisti | Media | L. 296/2006 commi 449–450 e tabella Consip corrente | Convenzione distinta da procedura, MePA distinto da piattaforma, soglia 5.000 e caso | Verificato e chiuso |
+| FC01-S06 | 12; 14 | Imparzialità | Media | L. 241/1990 art. 6-bis e D.P.R. 62/2013 artt. 6–7 | Segnalazione accompagnata da astensione quando dovuta, anche nell'istruttoria | Verificato e chiuso |
+| FC01-S07 | 08–15 | Quiz e strumenti | Media | 60 righe nel ledger; cento criteri; confronto con sezioni teoriche | Soluzioni separate, 15 chiavi per lettera, criteri di correzione; criterio 82 allineato alle sette domande effettive | Verificato e chiuso |
+| FC01-S08 | 01; 07; rinvii | Autonomia del lettore | Media | Scansione e rilettura dei passaggi | Rimossi residui di linguaggio staff; fonti pubbliche; ancore core precise e risolte | Verificato e chiuso |
 
-## Fonti ufficiali consolidate
+## 4. Riscontri normativi
 
-- Normattiva, DPR 62/2013, codice di comportamento dei dipendenti pubblici, testo vigente.
-- ARAN, CCNL del Comparto Funzioni centrali 2022-2024, sottoscritto il 27 gennaio 2025.
-- ARAN, CCNL dell'Area Funzioni centrali 2022-2024, sottoscritto il 28 ottobre 2025.
-- Avvocatura dello Stato, pagine istituzionali su funzioni, organizzazione e organigramma.
-- Dipartimento della funzione pubblica, Linee guida PIAO 2025.
-- Normattiva, d.lgs. 82/2005, Codice dell'amministrazione digitale, testo vigente.
-- AgID, Linee guida e FAQ sul documento informatico.
+Il contratto 2025–2027 è definitivo dal 6 agosto 2026; le decorrenze puntuali restano distinte (ferie art. 21 dal 1° gennaio 2027). La struttura professionale del 2022 resta il riferimento per le quattro aree. L'ordine rinnovato per iscritto non consente atti penalmente vietati o illeciti amministrativi. La missione PCM ordinaria non supera la durata del Governo istitutore; discipline speciali sono esplicitamente distinte.
 
-## Controllo dei punti `review_required`
+Il DFP 2026 risulta presentato il 22 aprile. Il testo distingue quel documento dal Piano di medio termine, dal DPFP già impiegato nel 2025 e dal DBP europeo; non presume approvazioni autunnali 2026 non acquisite. I residui attivi includono le due componenti statali. Programma e tipologia sono unità di voto; conto del bilancio e patrimonio sono componenti del rendiconto, non le due sezioni della legge di previsione.
 
-Le dichiarazioni di frontmatter sono trattate come indicatori di processo e non come errori residui. I capitoli revisionati hanno superato i gate editoriali previsti; le affermazioni specialistiche sono state ricontrollate sulle fonti primarie sopra elencate. Non rimangono passaggi marcati nel corpo come incompleti, provvisori o da verificare.
+## 5. Fonti e tracciabilità
 
-## Giudizio di pubblicabilità
+URL, riferimenti puntuali e limiti nelle note `ministeri-rettifiche-organizzazione-contabilita-2026-10-03`, `aran-ccnl-funzioni-centrali-pcm-2022-2026` e `contabilita-generale-stato-e-bilancio-stato`. Topic nuovo collegato a fonti e capitoli. Testo definitivo CCNL acquisito in raw senza alterare le fonti storiche. Snapshot dei manoscritti e apparati staff conservati negli artefatti.
 
-Il modulo è idoneo al text freeze. L'audit specialistico non lascia criticità gravi o medie aperte e non richiede modifiche sostanziali ai capitoli: il testo distingue correttamente principi stabili, esempi didattici e dati dipendenti dalla procedura concreta.
+## 6. Verifiche eseguite
+
+60 opzioni corrette confrontate con i rispettivi commenti e alternative; distribuzione complessiva A/B/C/D = 15/15/15/15. Tutte le batterie sono autocorreggibili e i casi conservati. Ricalcolo residui 20+20=40. Cento criteri confrontati con le domande, incluso il riallineamento del criterio 82. Zero rinvii irrisolti. Gate di densità 08–15 superati; due warning di lunghezza sul nucleo delle cento risposte, esplicitamente conservati e motivati dall'autonomia del workbook.
+
+## 7. Suggerimenti facoltativi
+
+Nessuna nuova integrazione contenutistica obbligatoria nel perimetro dei dodici rilievi. La suddivisione visiva delle risposte è valutata sul PDF, preservando integralmente i criteri.
+
+## 8. Priorità di produzione
+
+Freeze manuale documentato se il gate CLI resta non implementato. Seguono controllo figure, esportazione del candidato e preflight; nessun rinvio a futura revisione umana del testo.
+
+## 9. Giudizio sul testo
+
+Correzioni specialistiche concluse nel perimetro indicato. Passaggio consentito al text freeze; nessuna dichiarazione di pubblicabilità di VOL-03 nel suo complesso, perché FC03 e PDF hanno verifiche separate.
+
+## 10. Limiti
+
+Riesame del candidato rispetto alla baseline letta, non nuova lettura visuale di ogni pagina. Le verifiche non estendono i claim a ogni eccezione settoriale, elenco di uffici, importo economico o calendario futuro. I warning di lunghezza restano registrati; nessun font è ridotto per assorbirli.

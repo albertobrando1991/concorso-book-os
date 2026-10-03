@@ -1,0 +1,20 @@
+{
+  "id": "P03-08",
+  "file": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+  "before": "13bc483185454ea06c1ea38c8b3acb5887f0b30a5d2e03de8e67a4261b663220",
+  "after": "889d8cab3c3713b73907d03f9a6027a01872818a92adf571b7a61b85f48c716d",
+  "changes": {
+    "VOL-06, capitolo 03: Profili": "VOL-06, modulo Enti di ricerca, capitolo «Profili",
+    "Profili e organizzazione del lavoro negli enti pubblici di ricerca; sezione": "Profili e organizzazione del lavoro negli enti pubblici di ricerca»; sezione",
+    "VOL-09, capitolo 08: Cybersecurity": "VOL-08, capitolo 08: Cybersecurity",
+    "VOL-10, capitolo 07: Consip": "VOL-09, capitolo 07: Consip",
+    "VOL-03, capitolo 01: Mappa": "VOL-03, modulo Agenzie fiscali, capitolo «Mappa",
+    "Mappa delle Agenzie fiscali e dei profili concorsuali; sezione": "Mappa delle Agenzie fiscali e dei profili concorsuali»; sezione",
+    "VOL-08, capitolo 01: Le authority": "VOL-05, capitolo 01: Le authority"
+  },
+  "evidence": [
+    "src/catalog/text-volumes.ts",
+    "wiki/books/moduli/architettura-moduli-specialistici.md"
+  ],
+  "status": "corrected and checked in source; proof pending"
+}

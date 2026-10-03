@@ -12,7 +12,7 @@ source_refs:
   - "sources/contabilita-budget-aziende-sanitarie"
   - "sources/procurement-farmaci-dispositivi-flussi-nsis"
 book_refs: ["m-sa01-sanita-amministrativa", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-08-04T00:00:00+02:00
+updated_at: 2026-10-02
 created_at: 2026-08-01T11:45:00+02:00
 review_required: false
 canonical: true
@@ -36,7 +36,7 @@ Gli ID tecnici restano 04, 05, 06, 09 e 10. Nella vista composita del VOL-07 cor
 
 | ID tecnico | Titolo canonico | Funzione didattica | Confine principale |
 | --- | --- | --- | --- |
-| 04 | Atti, procedimenti e flussi informativi nelle aziende sanitarie | fondare organizzazione, competenza, procedimento e qualità dei flussi | non sostituisce la disciplina completa del procedimento del VOL-01 |
+| 04 | SSN, aziende sanitarie, atti e flussi informativi | fondare organizzazione, competenza, procedimento e qualità dei flussi | non sostituisce la disciplina completa del procedimento del VOL-01 |
 | 05 | Documentazione sanitaria, accesso, privacy e conservazione | distinguere documenti, regimi di accesso, diritti sui dati e ciclo documentale | non trasforma una procedura locale in regola nazionale |
 | 06 | Front-office e comunicazione con l'utenza sanitaria | gestire contatto, qualificazione del bisogno, riservatezza, reclamo ed escalation | non decide questioni cliniche o giuridiche fuori competenza |
 | 09 | Contabilità, budget e controllo di gestione nelle aziende sanitarie | leggere sistemi contabili, modelli, budget, indicatori e scostamenti | non applica automaticamente regole contabili di Comuni o altri enti |
@@ -102,4 +102,6 @@ Questi punti sono checklist concluse nel report dello step 15. Le procedure loca
 
 ## Criterio di uscita
 
-La revisione automatica del modulo è chiusa: indice, piano, titoli e capitoli sono coerenti; tutti gli otto nuclei della matrice sono coperti; non restano errori gravi o medi; i rinvii sono precisi; l'audit specialistico dello step 15 è concluso. Il testo è congelato allo step 16; restano il preflight e la conferma umana finale dello step 24.
+La matrice comprende ora dodici nuclei completi: gli otto storici e quattro integrazioni nazionali nei capitoli 04 e 09. I report 14 e 15 del 2 ottobre 2026 chiudono la revisione del delta; il manifest 16 identifica la versione testuale. Le verifiche degli altri tre capitoli conservano il cut-off storico, senza attestazione di una nuova ricognizione normativa integrale. Campania/ASL Caserta e cultura generale restano escluse dall'integrazione.
+
+Il text freeze non certifica l'impaginazione. Prima della consegna occorrono PDF rigenerato, ottimizzazione del layout pagina per pagina, preflight e conferma umana finale allo step 24. Controllare spazi bianchi, titoli orfani, tabelle, quiz e soluzioni, interruzioni, margini e leggibilità; dividere i blocchi densi senza ridurre arbitrariamente il corpo tipografico.

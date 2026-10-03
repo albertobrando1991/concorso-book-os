@@ -1,0 +1,759 @@
+{
+  "date": "2026-10-03",
+  "count": 75,
+  "originalsPreserved": true,
+  "method": "Sostituzione editoriale controllata con schemi Markdown, non modifica raster. Contenuto specifico derivato dal testo corretto.",
+  "records": [
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "schema": "2.1",
+      "originalImage": "../assets/chapter-02/01-mappa-bando-indipendenza-governance-accountability-personale.png",
+      "originalSHA256": "9b74208b2d7b5d4cda0f986a0213f167b81be19ffb34ec60e99d763aecd9d802",
+      "nativeText": "#### Schema 2.1 — Studiare l’ordinamento dell’ente\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Individua l’autorità e il programma. |\n| A — Aree | Governance, personale e controlli. |\n| N — Nuclei | Nomina, durata, incompatibilità e responsabilità. |\n| D — Diario | Registra gli scambi fra enti e organi. |\n| O — Output | Tabella comparativa e risposta orale. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "6ea4aaf063661dc10278e12eb919bbf9f0ad18bbc7e40c389dec3a6859b6d2a7",
+      "sha256After": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "schema": "2.2",
+      "originalImage": "../assets/chapter-02/02-architettura-indipendenza-governance-accountability-personale.png",
+      "originalSHA256": "2431719f8bd41f789fd8ee551c5f6e75987d68a33db827feaf904788507ae08a",
+      "nativeText": "#### Schema 2.2 — Tre dimensioni dell’indipendenza\n\n| Elemento | Lettura operativa |\n|---|---|\n| Funzionale | Il potere attribuito si esercita senza interferenze estranee. |\n| Organizzativa | Strutture e risorse sostengono le funzioni secondo legge. |\n| Di giudizio | La decisione si fonda su fatti e regole, non su pressioni. |\n\nNessuna dimensione elimina legalità, motivazione o controllo del giudice.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "6ea4aaf063661dc10278e12eb919bbf9f0ad18bbc7e40c389dec3a6859b6d2a7",
+      "sha256After": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "schema": "2.3",
+      "originalImage": "../assets/chapter-02/03-flusso-indipendenza-governance-accountability-personale.png",
+      "originalSHA256": "8ca7bba4bcd39498e405aea0e7c2a82a4c6e01d180ad22a779b230c942885d7f",
+      "nativeText": "#### Schema 2.3 — Organi, uffici e controlli\n\n| Elemento | Lettura operativa |\n|---|---|\n| Organo collegiale | Assume le decisioni attribuite e ne risponde. |\n| Uffici | Svolgono istruttoria e gestione nei rispettivi ruoli. |\n| Controlli | Rendicontazione, Corte dei conti e giudice secondo la disciplina. |\n\nLe attribuzioni concrete sono quelle dell’ente: il modello non uniforma gli otto ordinamenti.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "6ea4aaf063661dc10278e12eb919bbf9f0ad18bbc7e40c389dec3a6859b6d2a7",
+      "sha256After": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "schema": "2.4",
+      "originalImage": "../assets/chapter-02/04-distinzioni-indipendenza-governance-accountability-personale.png",
+      "originalSHA256": "d653eb8ab5280f8429a9a32c17906ce5b9869c3cba3c14646c0d2125ffe39152",
+      "nativeText": "#### Schema 2.4 — Tre nomine da non scambiare\n\n| Elemento | Lettura operativa |\n|---|---|\n| AGCM | Presidente e due membri nominati d’intesa dai Presidenti delle Camere. |\n| Garante privacy | Quattro membri eletti dalle Camere; il Collegio elegge il Presidente. |\n| IVASS | Presidente è il Direttore generale della Banca d’Italia; distinguere Consiglio e Direttorio integrato. |\n\nDurata, rinnovo e incompatibilità sono nella tabella del capitolo, verificata al 3 ottobre 2026.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "6ea4aaf063661dc10278e12eb919bbf9f0ad18bbc7e40c389dec3a6859b6d2a7",
+      "sha256After": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "schema": "2.5",
+      "originalImage": "../assets/chapter-02/05-sintesi-indipendenza-governance-accountability-personale.png",
+      "originalSHA256": "09fb0678dcc3e712307c3cb2a20a28ed1a6ab42371ef94c17ab30280327f67ac",
+      "nativeText": "#### Schema 2.5 — Accountability verificabile\n\n| Elemento | Lettura operativa |\n|---|---|\n| Motivazione | Rende comprensibili fatti, regole e scelta. |\n| Rendicontazione | Espone attività, risorse e risultati. |\n| Trasparenza | Permette conoscibilità nei limiti di legge. |\n| Controlli e rimedi | Consentono valutazione e contestazione nelle sedi competenti. |\n\nÈ un obbligo di rendere conto, non soltanto una capacità comunicativa.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "6ea4aaf063661dc10278e12eb919bbf9f0ad18bbc7e40c389dec3a6859b6d2a7",
+      "sha256After": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "schema": "3.1",
+      "originalImage": "../assets/chapter-03/01-mappa-bando-regolazione-europea-reti.png",
+      "originalSHA256": "7c612afbc025288f65de499b108a1f460789f4b532c562dac256fcaf6e69932a",
+      "nativeText": "#### Schema 3.1 — Ragionare sul livello europeo\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Leggi fonti e cooperazione richieste. |\n| A — Aree | Diritto UE e regolazione settoriale. |\n| N — Nuclei | Atti, organismi e riparto dei poteri. |\n| D — Diario | Segna gli errori fra rete, agenzia e gerarchia. |\n| O — Output | Mappa delle competenze e caso transfrontaliero. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "bd2cc74063e6997fa09c1eb9d3bac8ba7a30de6587856a54a82fe8746ab632f1",
+      "sha256After": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "schema": "3.2",
+      "originalImage": "../assets/chapter-03/02-architettura-regolazione-europea-reti.png",
+      "originalSHA256": "ce0a3e8d90828f4a3f0aa54e278df1ebbb87a264aa989a7193e19304ed37fe62",
+      "nativeText": "#### Schema 3.2 — Fonti dell’articolo 288 TFUE\n\n| Elemento | Lettura operativa |\n|---|---|\n| Regolamento | Obbligatorio in tutti gli elementi e direttamente applicabile. |\n| Direttiva | Vincola il risultato per gli Stati destinatari; richiede il raccordo nazionale. |\n| Decisione | Obbligatoria; se designa destinatari vincola questi. |\n| Raccomandazione e parere | Non vincolanti. |\n\nAtto delegato e atto di esecuzione seguono gli articoli 290 e 291, con funzioni diverse.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "bd2cc74063e6997fa09c1eb9d3bac8ba7a30de6587856a54a82fe8746ab632f1",
+      "sha256After": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "schema": "3.3",
+      "originalImage": "../assets/chapter-03/03-flusso-regolazione-europea-reti.png",
+      "originalSHA256": "11bee7af624b49880220c00a341ea4031f133b5037f785fd5c4efae08666dca1",
+      "nativeText": "#### Schema 3.3 — Dal fatto transfrontaliero alla competenza\n\n| Elemento | Lettura operativa |\n|---|---|\n| Trattamento o servizio | Identifica attività, soggetti, stabilimenti ed effetti. |\n| Fonte | Individua il meccanismo settoriale, senza presumere uno sportello unico. |\n| Riparto | Separa potere nazionale, europeo e cooperazione. |\n| Esito | L’istituzione competente decide secondo procedimento e garanzie. |\n\nLa cooperazione non trasferisce automaticamente il potere di adottare l’atto finale.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "bd2cc74063e6997fa09c1eb9d3bac8ba7a30de6587856a54a82fe8746ab632f1",
+      "sha256After": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "schema": "3.4",
+      "originalImage": "../assets/chapter-03/04-distinzioni-regolazione-europea-reti.png",
+      "originalSHA256": "49390dad6f241f34b62f1014b969dd6c1182c6de7647c504e9e1d3c621d2df33",
+      "nativeText": "#### Schema 3.4 — Organismi distinti\n\n| Elemento | Lettura operativa |\n|---|---|\n| ECN | Rete delle autorità di concorrenza e Commissione. |\n| BEREC | Organismo dei regolatori delle comunicazioni; distinguere l’Ufficio di supporto. |\n| ACER | Agenzia UE dell’energia con poteri attribuiti, anche dopo REMIT II. |\n| EDPB | Comitato GDPR: orientamenti e decisioni vincolanti nei casi previsti. |\n| EBA, ESMA, EIOPA | Autorità europee del sistema finanziario; competenze settoriali proprie. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "bd2cc74063e6997fa09c1eb9d3bac8ba7a30de6587856a54a82fe8746ab632f1",
+      "sha256After": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "schema": "3.5",
+      "originalImage": "../assets/chapter-03/05-sintesi-regolazione-europea-reti.png",
+      "originalSHA256": "1cd2c4b23a2915c6f29260a27ec0520318c4a571339bffd3653aa4aef643412d",
+      "nativeText": "#### Schema 3.5 — Verificare la forza di un documento\n\n| Elemento | Lettura operativa |\n|---|---|\n| Progetto RTS/ITS | Proposta tecnica; non equivale all’atto adottato dalla Commissione. |\n| Orientamento | Guida l’applicazione con il regime pertinente; non è automaticamente un regolamento. |\n| Decisione vincolante | Richiede fonte, presupposto e destinatario identificati. |\n\nNel diario annota l’errore preciso: forma dell’atto, fase di adozione o competenza.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "bd2cc74063e6997fa09c1eb9d3bac8ba7a30de6587856a54a82fe8746ab632f1",
+      "sha256After": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "schema": "4.1",
+      "originalImage": "../assets/chapter-04/01-mappa-bando-ciclo-regolatorio-air-vir.png",
+      "originalSHA256": "9e9c1695865995bce4389b4780b1dc3e4c0ec0dd89b6297f5ad4c268849e4f4a",
+      "nativeText": "#### Schema 4.1 — Allenare il ciclo regolatorio\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Individua se la prova chiede AIR, consultazione o valutazione. |\n| A — Aree | Economia, procedimento e qualità della regolazione. |\n| N — Nuclei | Problema, alternative, impatti e monitoraggio. |\n| D — Diario | Registra confusione fra beneficio lordo e netto. |\n| O — Output | Mini-AIR e motivazione della scelta. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1d5164109b5d6141fbd24d4a19b08d8a6aad51dd46eed2ee13c03aa2db573162",
+      "sha256After": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "schema": "4.2",
+      "originalImage": "../assets/chapter-04/02-architettura-ciclo-regolatorio-air-vir.png",
+      "originalSHA256": "975bd3705f456fc1bbac628e9b25bbd14bc6c915d3388b5116d25d30eda9411a",
+      "nativeText": "#### Schema 4.2 — Consultazione, AIR e VIR\n\n| Elemento | Lettura operativa |\n|---|---|\n| Consultazione | Raccoglie dati e argomenti degli interessati. |\n| AIR | Confronta opzioni e impatti prima della decisione. |\n| VIR | Valuta effetti e adeguatezza dopo l’attuazione. |\n\nSono strumenti coordinati; la consultazione non è un voto sull’opzione più popolare.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1d5164109b5d6141fbd24d4a19b08d8a6aad51dd46eed2ee13c03aa2db573162",
+      "sha256After": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "schema": "4.3",
+      "originalImage": "../assets/chapter-04/03-flusso-ciclo-regolatorio-air-vir.png",
+      "originalSHA256": "f6f1fd80c528b4087fd791a4c70c0e648f834198f37c260014f58baa457e6a38",
+      "nativeText": "#### Schema 4.3 — Un ciclo con riesame\n\n| Elemento | Lettura operativa |\n|---|---|\n| Problema e baseline | Definisci scostamento, dati e situazione senza intervento. |\n| Opzioni | Confronta alternative realistiche, inclusa l’assenza di nuova misura. |\n| Decisione | Motiva costi, benefici, distribuzione e incertezza. |\n| Attuazione e monitoraggio | Misura risultati; la valutazione può richiedere una modifica. |\n\nIl riesame può riportare alla formulazione del problema: non è una sequenza irreversibile.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1d5164109b5d6141fbd24d4a19b08d8a6aad51dd46eed2ee13c03aa2db573162",
+      "sha256After": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "schema": "4.4",
+      "originalImage": "../assets/chapter-04/04-distinzioni-ciclo-regolatorio-air-vir.png",
+      "originalSHA256": "8b3501a84e80cd53051ccb55d070e593565ec4509d1754c08a63ae203db572ca",
+      "nativeText": "#### Schema 4.4 — Leggere una mini-AIR\n\n| Elemento | Lettura operativa |\n|---|---|\n| Costo | Risorse richieste, soggetto che le sostiene e periodo. |\n| Beneficio | Effetto stimato rispetto alla baseline. |\n| Saldo netto | Beneficio meno costo, senza nascondere la distribuzione. |\n| Scenario avverso | Verifica se la preferenza cambia quando mutano le ipotesi. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1d5164109b5d6141fbd24d4a19b08d8a6aad51dd46eed2ee13c03aa2db573162",
+      "sha256After": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "schema": "4.5",
+      "originalImage": "../assets/chapter-04/05-sintesi-ciclo-regolatorio-air-vir.png",
+      "originalSHA256": "b894c8e57745e9c52ff81f17a884b7a5df186b8f8d7cbb7289a9610e19436af0",
+      "nativeText": "#### Schema 4.5 — Conclusione motivata\n\n| Elemento | Lettura operativa |\n|---|---|\n| Scelta | Indica l’opzione e la ragione determinante. |\n| Limite | Dichiara dato mancante e sensibilità del risultato. |\n| Indicatore | Misura l’obiettivo effettivo, non solo l’attività svolta. |\n| Riesame | Definisci quando verificare gli effetti. |\n\nUsa le regole procedurali dell’autorità: il DPCM 169/2017 non si estende automaticamente alle authority.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1d5164109b5d6141fbd24d4a19b08d8a6aad51dd46eed2ee13c03aa2db573162",
+      "sha256After": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "schema": "5.1",
+      "originalImage": "../assets/chapter-05/01-mappa-bando-vigilanza-istruttoria-prova.png",
+      "originalSHA256": "3e27e267bcbe2cca71200934a5d6ae70c584790c1911b194f5115e1297947f90",
+      "nativeText": "#### Schema 5.1 — Costruire un’istruttoria\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Riconosci richiesta di nota, atto o caso. |\n| A — Aree | Vigilanza, prova e garanzie. |\n| N — Nuclei | Segnale, acquisizioni, ispezioni e valutazione. |\n| D — Diario | Annota conclusioni anticipate e richieste eccessive. |\n| O — Output | Piano istruttorio e richiesta dati motivata. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "85d1d8e82d9cd741dcdbd19a6cb7b225b9faae858e1fc98eb672ad2a53cad023",
+      "sha256After": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "schema": "5.2",
+      "originalImage": "../assets/chapter-05/02-architettura-vigilanza-istruttoria-prova.png",
+      "originalSHA256": "d5063294687e433b83f14d27dab6c6bc31336a95e3c0bbb0c28586683c902331",
+      "nativeText": "#### Schema 5.2 — Quattro livelli dell’evidenza\n\n| Elemento | Lettura operativa |\n|---|---|\n| Notizia | Segnala un possibile problema. |\n| Ipotesi | Propone una qualificazione da controllare. |\n| Evidenza | Elemento acquisito, verificabile e pertinente. |\n| Valutazione | Collega gli elementi alla regola e alle alternative. |\n\nUna segnalazione circostanziata non coincide con l’avvio formale antitrust.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "85d1d8e82d9cd741dcdbd19a6cb7b225b9faae858e1fc98eb672ad2a53cad023",
+      "sha256After": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "schema": "5.3",
+      "originalImage": "../assets/chapter-05/03-flusso-vigilanza-istruttoria-prova.png",
+      "originalSHA256": "5436a9f88a199a02cc500cc052b7ba0ca79f10121b5eb1ba6d576bd3c42ff345",
+      "nativeText": "#### Schema 5.3 — Richiesta dati delimitata\n\n| Elemento | Lettura operativa |\n|---|---|\n| Fonte e oggetto | Indica potere, fattispecie e finalità. |\n| Periodo e campione | Seleziona dati pertinenti e proporzionati. |\n| Formato e termine | Rendi la risposta utilizzabile e tracciabile. |\n| Garanzie | Specifica riservatezza, interlocuzione e regole procedimentali. |\n\nAcquisire tutto non significa provare meglio.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "85d1d8e82d9cd741dcdbd19a6cb7b225b9faae858e1fc98eb672ad2a53cad023",
+      "sha256After": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "schema": "5.4",
+      "originalImage": "../assets/chapter-05/04-distinzioni-vigilanza-istruttoria-prova.png",
+      "originalSHA256": "5f75d8ee0c111b27261d478ddb600e0a4602bd936df29d0e4b55d5a9f729f79c",
+      "nativeText": "#### Schema 5.4 — Ispezioni: verificare il luogo\n\n| Elemento | Lettura operativa |\n|---|---|\n| AGCM | Poteri antitrust e garanzie propri; locali non aziendali richiedono i presupposti e l’autorizzazione previsti. |\n| Garante | Accertamenti ex articoli 157–158; per domicilio verificare assenso o autorizzazione giudiziaria pertinente. |\n| Assistenza e tutela difensiva | Documentare le eccezioni nel rispettivo ambito, senza immunità generiche. |\n\nNon trasferire l’autorizzazione prevista per un’autorità al procedimento di un’altra.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "85d1d8e82d9cd741dcdbd19a6cb7b225b9faae858e1fc98eb672ad2a53cad023",
+      "sha256After": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "schema": "5.5",
+      "originalImage": "../assets/chapter-05/05-sintesi-vigilanza-istruttoria-prova.png",
+      "originalSHA256": "fefd333f57b802342acb72d0986eedf2039e57ca485b90785e5ae62d7ab2c44c",
+      "nativeText": "#### Schema 5.5 — Qualità del fascicolo\n\n| Elemento | Lettura operativa |\n|---|---|\n| Autenticità | Il documento è ciò che dichiara di essere? |\n| Tempo | Riguarda il periodo contestato? |\n| Pertinenza | Dimostra il fatto rilevante o un dato diverso? |\n| Contraddittorio | Le difese e gli elementi contrari sono valutati? |\n\nUna schermata autentica ma successiva alla campagna non prova da sola la versione precedente.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "85d1d8e82d9cd741dcdbd19a6cb7b225b9faae858e1fc98eb672ad2a53cad023",
+      "sha256After": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "schema": "6.1",
+      "originalImage": "../assets/chapter-06/01-mappa-bando-sanzioni-impegni-rimedi.png",
+      "originalSHA256": "db020da15f1e357a2ce4a8a428b35b3932d9bc17b860ac2c53b89db0dcfb3e2f",
+      "nativeText": "#### Schema 6.1 — Scegliere il rimedio corretto\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Identifica atto, autorità e data. |\n| A — Aree | Sanzioni, garanzie e giurisdizione. |\n| N — Nuclei | Impegni, cautela, ottemperanza e ricorso. |\n| D — Diario | Registra scambi fra riti e termini. |\n| O — Output | Tabella atto–giudice e caso motivato. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "9130062c795f9a9fb29289ea208a942f291ef273b7028bd0da2319d35c695221",
+      "sha256After": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "schema": "6.2",
+      "originalImage": "../assets/chapter-06/02-architettura-sanzioni-impegni-rimedi.png",
+      "originalSHA256": "10e00bc1b6e2c1211f6272250ee3dad084e80b74f4605402a79b26bff83097d2",
+      "nativeText": "#### Schema 6.2 — Strumenti con presupposti diversi\n\n| Elemento | Lettura operativa |\n|---|---|\n| Sanzione | Reagisce alla violazione accertata secondo fattispecie e garanzie. |\n| Impegni | Misure rese obbligatorie nei presupposti, senza necessario accertamento dell’infrazione. |\n| Rimedio correttivo | Rimuove o limita la criticità secondo il potere attribuito. |\n| Cautela | Intervento provvisorio nei presupposti specifici. |\n\nNon ogni authority dispone di ogni strumento.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "9130062c795f9a9fb29289ea208a942f291ef273b7028bd0da2319d35c695221",
+      "sha256After": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "schema": "6.3",
+      "originalImage": "../assets/chapter-06/03-flusso-sanzioni-impegni-rimedi.png",
+      "originalSHA256": "927fda4eda053c100f4e6d9c859d4002894f2f80971701036b75bc91ff49d3e8",
+      "nativeText": "#### Schema 6.3 — Esiti alternativi del procedimento\n\n| Elemento | Lettura operativa |\n|---|---|\n| Accertamenti | Valuta fatti, regola e difese. |\n| Nessuna violazione provata | Esito di chiusura nei termini della disciplina. |\n| Violazione accertata | Misura o sanzione proporzionata, se prevista. |\n| Percorso impegni | Solo nei presupposti, con obbligatorietà e monitoraggio. |\n\nLa vigilanza non conduce necessariamente a una multa.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "9130062c795f9a9fb29289ea208a942f291ef273b7028bd0da2319d35c695221",
+      "sha256After": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "schema": "6.4",
+      "originalImage": "../assets/chapter-06/04-distinzioni-sanzioni-impegni-rimedi.png",
+      "originalSHA256": "8bc8c03a29ac5d292579b9892ab660db2e73cf8263fc18694a84bb9b54cc2960",
+      "nativeText": "#### Schema 6.4 — Due ottemperanze\n\n| Elemento | Lettura operativa |\n|---|---|\n| Alla decisione amministrativa | Rispetto dell’ordine o degli impegni e relativo controllo. |\n| Alla decisione giudiziaria | Esecuzione del giudicato o dell’atto giudiziale nel rito pertinente. |\n\nViolazione di impegni e inosservanza di una sentenza hanno fonti e rimedi distinti.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "9130062c795f9a9fb29289ea208a942f291ef273b7028bd0da2319d35c695221",
+      "sha256After": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "schema": "6.5",
+      "originalImage": "../assets/chapter-06/05-sintesi-sanzioni-impegni-rimedi.png",
+      "originalSHA256": "42f78da4f1b82873dbe12a680fd5ce410f9735b0823ee8d082cdca5f21859029",
+      "nativeText": "#### Schema 6.5 — Prima del ricorso\n\n| Elemento | Lettura operativa |\n|---|---|\n| Oggetto | Distingui atto regolatorio, sanzione e misura individuale. |\n| Giudice e sede | Applica CPA o disciplina speciale. |\n| Termine e decorrenza | Verifica comunicazione, residenza e transitorio. |\n| Cautela | Valuta presupposti; il ricorso non sospende sempre l’atto. |\n\nPrivacy, TUB e TUF non seguono una formula processuale unica: usa la tabella aggiornata del capitolo.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "9130062c795f9a9fb29289ea208a942f291ef273b7028bd0da2319d35c695221",
+      "sha256After": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "schema": "7.1",
+      "originalImage": "../assets/chapter-07/01-mappa-bando-economia-regolazione-dati.png",
+      "originalSHA256": "e6ce526cb57c32779cb654351d68f56563361c1bd491a034a29459c454891961",
+      "nativeText": "#### Schema 7.1 — Usare i numeri nella prova\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Leggi il peso della parte quantitativa. |\n| A — Aree | Mercato, incentivi, dati e contabilità. |\n| N — Nuclei | Elasticità, regressione, controfattuale e costi. |\n| D — Diario | Registra unità, segni e attribuzioni causali errate. |\n| O — Output | Calcolo con interpretazione e limiti. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "12a08512e00291e166968a28680bbd9f39f047d03d674be34bc5de796d83106c",
+      "sha256After": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "schema": "7.2",
+      "originalImage": "../assets/chapter-07/02-architettura-economia-regolazione-dati.png",
+      "originalSHA256": "0696b1601db2a049ca8ce7bde050468ebf5dd9af67b60d58e536d93c5ceda2ce",
+      "nativeText": "#### Schema 7.2 — Concentrazione e potere di mercato\n\n| Elemento | Lettura operativa |\n|---|---|\n| Quote e HHI | Descrivono struttura e concentrazione. |\n| Sostituibilità | Contribuisce a definire il mercato pertinente. |\n| Barriere ed entrata | Aiutano a valutare la pressione competitiva. |\n| Condotta | Richiede una distinta qualificazione. |\n\nHHI elevato non dimostra da solo un abuso di posizione dominante.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "12a08512e00291e166968a28680bbd9f39f047d03d674be34bc5de796d83106c",
+      "sha256After": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "schema": "7.3",
+      "originalImage": "../assets/chapter-07/03-flusso-economia-regolazione-dati.png",
+      "originalSHA256": "df1e986853acdb6b3615911137fe463bc001b2d5d0227ec49deaedc70f407d84",
+      "nativeText": "#### Schema 7.3 — Dal dato alla scelta\n\n| Elemento | Lettura operativa |\n|---|---|\n| Descrizione | Indica unità, periodo, fonte e popolazione. |\n| Stima | Esplicita modello, coefficiente e incertezza. |\n| Causalità | Motiva il controfattuale e le ipotesi. |\n| Decisione | Collega risultato, competenza e obiettivo. |\n\nUn coefficiente statisticamente significativo non prova automaticamente causalità o rilevanza regolatoria.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "12a08512e00291e166968a28680bbd9f39f047d03d674be34bc5de796d83106c",
+      "sha256After": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "schema": "7.4",
+      "originalImage": "../assets/chapter-07/04-distinzioni-economia-regolazione-dati.png",
+      "originalSHA256": "60fc71e379435b1d3f393781ceaaac4921496457e92b8c677d3f71940b422577",
+      "nativeText": "#### Schema 7.4 — Tetto ai prezzi e ai ricavi\n\n| Elemento | Lettura operativa |\n|---|---|\n| Price cap | Limita il prezzo; i ricavi variano anche con i volumi. |\n| Revenue cap | Limita il ricavo; il prezzo medio dipende dalla quantità. |\n| Esempio didattico | Prezzo 102 e volume 11: ricavi 1.122; ricavo vincolato 1.020 su 11: prezzo medio 92,73. |\n\nControlla sempre il metodo settoriale effettivo e gli aggiustamenti previsti.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "12a08512e00291e166968a28680bbd9f39f047d03d674be34bc5de796d83106c",
+      "sha256After": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "schema": "7.5",
+      "originalImage": "../assets/chapter-07/05-sintesi-economia-regolazione-dati.png",
+      "originalSHA256": "54f236691e1a5bbca02cfd6cea6c00133795b62684745bebf979d10bd55164d5",
+      "nativeText": "#### Schema 7.5 — RAB, WACC e imputazione\n\n| Elemento | Lettura operativa |\n|---|---|\n| RAB | Base patrimoniale ammessa dal metodo, non ricavo annuo. |\n| WACC | Tasso applicato alla base pertinente per la remunerazione. |\n| Ammortamento | Componente distinta dalla remunerazione. |\n| Costi comuni | Riparto con driver verificabile; riconciliazione fra attività. |\n\nUn calcolo corretto non sana un driver non causale.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "12a08512e00291e166968a28680bbd9f39f047d03d674be34bc5de796d83106c",
+      "sha256After": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "schema": "8.1",
+      "originalImage": "../assets/chapter-08/01-mappa-bando-agcm-concorrenza-consumatore.png",
+      "originalSHA256": "a172a8b6597e1adefb016a3dcc450f1808ca4681a91990a16694015b98255bfa",
+      "nativeText": "#### Schema 8.1 — Qualificare il caso AGCM\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Separa programma antitrust e consumer. |\n| A — Aree | Concorrenza, consumatore, rating e conflitti. |\n| N — Nuclei | Intese, abuso, concentrazioni e pratiche. |\n| D — Diario | Annota la fattispecie scambiata. |\n| O — Output | Nota istruttoria e risposta sul rimedio. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "849ad339d949f3e0f48644e8ebe8745a046fff2921a04ba9c857817be8fb74aa",
+      "sha256After": "3af0ca5e4ed8ff9eec885042829665ad52d9daec8c28fc686946c03036ce6395"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "schema": "8.2",
+      "originalImage": "../assets/chapter-08/02-architettura-agcm-concorrenza-consumatore.png",
+      "originalSHA256": "4cb0eae1100a0d246f1dff14da367620e01befcc474c1ced876698999783b852",
+      "nativeText": "#### Schema 8.2 — Antitrust e consumatore\n\n| Elemento | Lettura operativa |\n|---|---|\n| Intesa | Accordo o coordinamento da valutare ex articolo 101 e disciplina nazionale. |\n| Abuso | Condotta di impresa dominante, non semplice dimensione. |\n| Concentrazione | Modifica strutturale soggetta ai presupposti di controllo. |\n| Pratica commerciale | Condotta verso il consumatore che può alterarne la scelta. |\n\nLo stesso mercato non rende equivalenti queste fattispecie.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "849ad339d949f3e0f48644e8ebe8745a046fff2921a04ba9c857817be8fb74aa",
+      "sha256After": "3af0ca5e4ed8ff9eec885042829665ad52d9daec8c28fc686946c03036ce6395"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "schema": "8.3",
+      "originalImage": "../assets/chapter-08/03-flusso-agcm-concorrenza-consumatore.png",
+      "originalSHA256": "40832742c4f73b79112eeb3861386383ef0399914da77659a9d36c390542cf1a",
+      "nativeText": "#### Schema 8.3 — Il controllo AGCM\n\n| Elemento | Lettura operativa |\n|---|---|\n| Competenza | Qualifica materia e dimensione nazionale/UE. |\n| Istruttoria | Acquisisci elementi e garantisci difesa. |\n| Valutazione | Applica la fattispecie, considerando elementi contrari. |\n| Esito | Archiviazione, misura, impegni o sanzione nei rispettivi presupposti. |\n\nIl tipo di procedimento stabilisce scansioni e strumenti; non esiste un unico iter indistinto.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "849ad339d949f3e0f48644e8ebe8745a046fff2921a04ba9c857817be8fb74aa",
+      "sha256After": "3af0ca5e4ed8ff9eec885042829665ad52d9daec8c28fc686946c03036ce6395"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "schema": "8.4",
+      "originalImage": "../assets/chapter-08/04-distinzioni-agcm-concorrenza-consumatore.png",
+      "originalSHA256": "296cd6bdd0332c51422f17b897f144cfe4ed76012de4e9096f827dda53718efd",
+      "nativeText": "#### Schema 8.4 — Pratiche scorrette\n\n| Elemento | Lettura operativa |\n|---|---|\n| Clausola generale | Diligenza professionale e alterazione del comportamento economico. |\n| Ingannevole | Informazione falsa o presentazione/omissione fuorviante. |\n| Aggressiva | Molestia, coercizione o indebito condizionamento. |\n| Liste | Pratiche sempre vietate quando ricorrono gli elementi descritti. |\n\nPer il prodotto presentato come gratis si controlla l’articolo 23, lettera v, non una lettera scelta per analogia.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "849ad339d949f3e0f48644e8ebe8745a046fff2921a04ba9c857817be8fb74aa",
+      "sha256After": "3af0ca5e4ed8ff9eec885042829665ad52d9daec8c28fc686946c03036ce6395"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "schema": "8.5",
+      "originalImage": "../assets/chapter-08/05-sintesi-agcm-concorrenza-consumatore.png",
+      "originalSHA256": "7948954801acff7bca1d431187175b70ac4bf86b4ac0abd31aae64790afc4cf2",
+      "nativeText": "#### Schema 8.5 — Promessa e costo nascosto\n\n| Elemento | Lettura operativa |\n|---|---|\n| Messaggio | Che cosa comprende il consumatore prima di acquistare? |\n| Condizioni | Quando e come emerge il costo? |\n| Prova | Versioni, schermate, percorso e contratti. |\n| Tutela | Enforcement pubblico distinto da rimborso e danni individuali. |\n\nLa presenza di una clausola remota non dimostra da sola informazione chiara e tempestiva.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "849ad339d949f3e0f48644e8ebe8745a046fff2921a04ba9c857817be8fb74aa",
+      "sha256After": "3af0ca5e4ed8ff9eec885042829665ad52d9daec8c28fc686946c03036ce6395"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "schema": "9.1",
+      "originalImage": "../assets/chapter-09/01-mappa-bando-arera-servizi-tariffe.png",
+      "originalSHA256": "e6e583a8e8ee37c5d36cfcaa0067152a92e3f2365b0556df59ec647e8c64b3b3",
+      "nativeText": "#### Schema 9.1 — Leggere il servizio regolato\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Individua energia, acqua, rifiuti o teleriscaldamento. |\n| A — Aree | Tariffe, qualità e tutela utente. |\n| N — Nuclei | Costi, metodo, standard e competenze. |\n| D — Diario | Segna scambi fra tariffa, imposta e rimborso. |\n| O — Output | PEF didattico e percorso di tutela. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "2f222cc0828567670a64e410fc5870863d09b56ba23d97e2e6234be582eab4d1",
+      "sha256After": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "schema": "9.2",
+      "originalImage": "../assets/chapter-09/02-architettura-arera-servizi-tariffe.png",
+      "originalSHA256": "ad9045a039cc44cedcf7fec34f451bf9dd08d676203ed99068d29f47805e4fe6",
+      "nativeText": "#### Schema 9.2 — Tre livelli del PEF rifiuti\n\n| Elemento | Lettura operativa |\n|---|---|\n| Gestore | Predispone dati e documentazione del piano. |\n| ETC | Valida e assume le determinazioni di competenza. |\n| ARERA | Verifica coerenza e approva secondo il metodo. |\n\nGli enti locali e il gestore non scompaiono dal procedimento; ARERA non determina ogni singola bolletta.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "2f222cc0828567670a64e410fc5870863d09b56ba23d97e2e6234be582eab4d1",
+      "sha256After": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "schema": "9.3",
+      "originalImage": "../assets/chapter-09/03-flusso-arera-servizi-tariffe.png",
+      "originalSHA256": "49fde054edd829605a3e9c9114a0b5794a95ac6ebed30ac810a3bbe2a7be8849",
+      "nativeText": "#### Schema 9.3 — Costo, qualità e tariffa\n\n| Elemento | Lettura operativa |\n|---|---|\n| Perimetro | Identifica servizio, attività e periodo. |\n| Costi | Verifica pertinenza, riconoscibilità e assenza di duplicazioni. |\n| Qualità | Misura standard e scostamenti secondo metodo. |\n| Tariffa | Applica componenti, limiti e procedimento pertinenti. |\n\nUn costo contabilizzato non è automaticamente un costo ammesso.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "2f222cc0828567670a64e410fc5870863d09b56ba23d97e2e6234be582eab4d1",
+      "sha256After": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "schema": "9.4",
+      "originalImage": "../assets/chapter-09/04-distinzioni-arera-servizi-tariffe.png",
+      "originalSHA256": "ae2decd75c8940e2e78398647435871e31cc9581ff6c4b7e0e5c516157b643a9",
+      "nativeText": "#### Schema 9.4 — Tre separazioni\n\n| Elemento | Lettura operativa |\n|---|---|\n| Contabile | Distingue conti e imputazioni delle attività. |\n| Funzionale | Presidia indipendenza gestionale e comportamenti nei regimi previsti. |\n| Proprietaria | Separa assetti proprietari nei casi disciplinati. |\n\nUnbundling non è sinonimo della sola separazione contabile.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "2f222cc0828567670a64e410fc5870863d09b56ba23d97e2e6234be582eab4d1",
+      "sha256After": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "schema": "9.5",
+      "originalImage": "../assets/chapter-09/05-sintesi-arera-servizi-tariffe.png",
+      "originalSHA256": "0378f22561aebfad0752406e2906eaaa0ab5da621ac527676d37d126a7c1fbc6",
+      "nativeText": "#### Schema 9.5 — Reclamo, indennizzo e conciliazione\n\n| Elemento | Lettura operativa |\n|---|---|\n| Reclamo | Chiede risposta all’operatore sul problema. |\n| Indennizzo automatico | Conseguenza prevista per specifiche violazioni di standard. |\n| Conciliazione | Ricerca un accordo alle condizioni e nei termini del settore. |\n| Risarcimento | Segue i presupposti e la sede competente. |\n\nUsa la tabella settoriale: i tempi e gli effetti dell’accordo non sono identici per tutti i servizi.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "2f222cc0828567670a64e410fc5870863d09b56ba23d97e2e6234be582eab4d1",
+      "sha256After": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "schema": "10.1",
+      "originalImage": "../assets/chapter-10/01-mappa-bando-agcom-media-piattaforme.png",
+      "originalSHA256": "cf10c6d2d240f61dce6e9635f5bc6931f7521f7341285ad1349a0a1b15925a7d",
+      "nativeText": "#### Schema 10.1 — Separare comunicazioni e piattaforme\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Leggi il settore e la forma della prova. |\n| A — Aree | CCE, TUSMA, utenti e servizi digitali. |\n| N — Nuclei | SMP, Corecom, DSA e DMA. |\n| D — Diario | Registra lo scambio fra designazioni e competenze. |\n| O — Output | Caso con percorso nazionale/UE motivato. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "010e431c3e47f713bc14209f188eaaabcbb80a49d2fc155ab8da37b2c52beb9b",
+      "sha256After": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "schema": "10.2",
+      "originalImage": "../assets/chapter-10/02-architettura-agcom-media-piattaforme.png",
+      "originalSHA256": "a314c35f00de0406ee9695b6fd5414c7be110529535e5f86c39cca9775481ed6",
+      "nativeText": "#### Schema 10.2 — Fonti e interessi\n\n| Elemento | Lettura operativa |\n|---|---|\n| CCE | Reti e servizi di comunicazione elettronica. |\n| TUSMA | Servizi di media e interessi disciplinati, incluso pluralismo. |\n| DSA | Servizi intermediari e obblighi graduati per categoria. |\n| DMA | Gatekeeper designati e obblighi per contendibilità/equità. |\n\nEssere online non colloca ogni attività nella stessa disciplina.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "010e431c3e47f713bc14209f188eaaabcbb80a49d2fc155ab8da37b2c52beb9b",
+      "sha256After": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "schema": "10.3",
+      "originalImage": "../assets/chapter-10/03-flusso-agcom-media-piattaforme.png",
+      "originalSHA256": "02d261e7e3e89fde48e06143c3bb1493ed731aeb3bd87b94af5b6c2fd1cece04",
+      "nativeText": "#### Schema 10.3 — Reclamo e controversia dell’utente\n\n| Elemento | Lettura operativa |\n|---|---|\n| Operatore | Riceve reclamo su fatturazione o disservizio. |\n| Conciliazione | Tentativo nel sistema competente alle condizioni previste. |\n| Definizione | Procedimento successivo nei casi e termini applicabili. |\n| Giudice | Domande risarcitorie e tutela secondo disciplina. |\n\nCorecom esercita funzioni delegate; non gli si attribuisce ogni controversia digitale.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "010e431c3e47f713bc14209f188eaaabcbb80a49d2fc155ab8da37b2c52beb9b",
+      "sha256After": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "schema": "10.4",
+      "originalImage": "../assets/chapter-10/04-distinzioni-agcom-media-piattaforme.png",
+      "originalSHA256": "ef7c891384d6b6f56569cce390fc4193be7b1bc82a9414d1cf9b5fe06c1a324d",
+      "nativeText": "#### Schema 10.4 — SMP, VLOP e gatekeeper\n\n| Elemento | Lettura operativa |\n|---|---|\n| SMP | Posizione nel mercato rilevante e regolazione ex ante delle comunicazioni. |\n| VLOP/VLOSE | Designazione DSA e obblighi supplementari pertinenti. |\n| Gatekeeper | Designazione DMA; criteri e obblighi distinti. |\n\nUna qualifica non implica automaticamente le altre.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "010e431c3e47f713bc14209f188eaaabcbb80a49d2fc155ab8da37b2c52beb9b",
+      "sha256After": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "schema": "10.5",
+      "originalImage": "../assets/chapter-10/05-sintesi-agcom-media-piattaforme.png",
+      "originalSHA256": "25fbaaddec69f03dacecc9ee6fffcb9e5b831f1db14e9a73b94db902016a902b",
+      "nativeText": "#### Schema 10.5 — Chi decide nel DSA\n\n| Elemento | Lettura operativa |\n|---|---|\n| Capo III, sezione 5, VLOP/VLOSE | Commissione: competenza esclusiva ex articolo 56. |\n| Altri obblighi VLOP/VLOSE | Poteri Commissione e coordinatore secondo il riparto, evitando duplicazioni. |\n| Coordinatore nazionale | Vigilanza e cooperazione nei compiti attribuiti. |\n\nLa cooperazione non attribuisce a un’autorità nazionale la decisione riservata alla Commissione.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "010e431c3e47f713bc14209f188eaaabcbb80a49d2fc155ab8da37b2c52beb9b",
+      "sha256After": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "schema": "11.1",
+      "originalImage": "../assets/chapter-11/01-mappa-bando-consob-mercati-investitore.png",
+      "originalSHA256": "03703c2eae26b7dfd8b6393f435c16469d223446c85e0bf3533851e9a52f7327",
+      "nativeText": "#### Schema 11.1 — Studiare la tutela dell’investitore\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Individua emittenti, mercati o servizi richiesti. |\n| A — Aree | TUF, MiFID, MAR e MiCAR. |\n| N — Nuclei | Informazione, condotta e competenze. |\n| D — Diario | Annota errori fra adeguatezza e appropriatezza. |\n| O — Output | Caso di investimento e scelta del rimedio. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1752a141ccdc175384569feedc95eb61ea0892d8ff2fe604883536f8ba5afdc1",
+      "sha256After": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "schema": "11.2",
+      "originalImage": "../assets/chapter-11/02-architettura-consob-mercati-investitore.png",
+      "originalSHA256": "40f80a6c99fa08b099375145f0379a4a3d1539bb0f9397e453e879a06d05a69b",
+      "nativeText": "#### Schema 11.2 — Tre soggetti del mercato\n\n| Elemento | Lettura operativa |\n|---|---|\n| Emittente | Offre o emette strumenti e adempie gli obblighi pertinenti. |\n| Intermediario | Presta servizi nel proprio perimetro autorizzato. |\n| Investitore | Riceve informazioni e tutele in base a servizio e categoria. |\n\nL’approvazione del prospetto non garantisce rendimento o adeguatezza per il singolo cliente.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1752a141ccdc175384569feedc95eb61ea0892d8ff2fe604883536f8ba5afdc1",
+      "sha256After": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "schema": "11.3",
+      "originalImage": "../assets/chapter-11/03-flusso-consob-mercati-investitore.png",
+      "originalSHA256": "a015145f21d7dc9dfda00ad8d46ce506ec02f8a8a70626a8ec93de6f0c78e562",
+      "nativeText": "#### Schema 11.3 — Controllo e possibili esiti\n\n| Elemento | Lettura operativa |\n|---|---|\n| Informazioni e fatti | Acquisisci documenti, condotta e contesto. |\n| Valutazione | Verifica obblighi, difese e competenza. |\n| Esito senza violazione | Chiusura nei presupposti. |\n| Esito con criticità | Misura correttiva o sanzione, soltanto se prevista e motivata. |\n\nLa sanzione è eventuale; il controllo non la rende inevitabile.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1752a141ccdc175384569feedc95eb61ea0892d8ff2fe604883536f8ba5afdc1",
+      "sha256After": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "schema": "11.4",
+      "originalImage": "../assets/chapter-11/04-distinzioni-consob-mercati-investitore.png",
+      "originalSHA256": "3441d2862a1cf2865a76b7dac04fa0e7d9a379379afe3499aeb5e2fc62ea5955",
+      "nativeText": "#### Schema 11.4 — Tre valutazioni del servizio\n\n| Elemento | Lettura operativa |\n|---|---|\n| Adeguatezza | Consulenza/gestione: esperienza, situazione finanziaria e obiettivi. |\n| Appropriatezza | Altri servizi: conoscenza/esperienza; avvertenza nei casi pertinenti. |\n| Execution only | Esenzione dalla verifica soltanto alle condizioni previste. |\n\nL’avvertenza non autorizza una raccomandazione senza informazioni necessarie all’adeguatezza.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1752a141ccdc175384569feedc95eb61ea0892d8ff2fe604883536f8ba5afdc1",
+      "sha256After": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "schema": "11.5",
+      "originalImage": "../assets/chapter-11/05-sintesi-consob-mercati-investitore.png",
+      "originalSHA256": "dc3b4350fe923bcfefcb9fa8928f4bf29213d731c9e5ed49013772b7320117b7",
+      "nativeText": "#### Schema 11.5 — Condotta e rimedi\n\n| Elemento | Lettura operativa |\n|---|---|\n| Documenti | Profilatura, raccomandazione, costi, conflitti e registrazioni. |\n| Vigilanza Consob | Controlla obblighi e adotta gli atti attribuiti. |\n| ACF | Controversia retail nei requisiti, entro il valore previsto. |\n| Giudice | Tutela individuale con presupposti propri. |\n\nLa perdita non prova da sola l’illecito e la sanzione non è il risarcimento del cliente.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "1752a141ccdc175384569feedc95eb61ea0892d8ff2fe604883536f8ba5afdc1",
+      "sha256After": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "schema": "12.1",
+      "originalImage": "../assets/chapter-12/01-mappa-bando-banca-italia-ivass.png",
+      "originalSHA256": "168579fc3e3e093c498eced07743a191fa4599ed55ae97071e350626b97e0c3a",
+      "nativeText": "#### Schema 12.1 — Leggere la prudenza e le tutele\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Verifica il peso di banca, assicurazione e diritto privato. |\n| A — Aree | Capitale, liquidità, governance e clientela. |\n| N — Nuclei | SSM, SREP, SCR/MCR/ORSA e ADR. |\n| D — Diario | Registra scambi fra stock, flussi e requisiti. |\n| O — Output | Rapporti numerici e canale di tutela motivato. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "37424b17a6b4a9bfc0d3b5727094811a361acf108fdd23e96bd40ccc8c32a640",
+      "sha256After": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "schema": "12.2",
+      "originalImage": "../assets/chapter-12/02-architettura-banca-italia-ivass.png",
+      "originalSHA256": "a44859462ebdb6d07af7173f023506a39a58fc12fe332ccdbda9ac8f19d40dac",
+      "nativeText": "#### Schema 12.2 — Vigilanza e controversia\n\n| Elemento | Lettura operativa |\n|---|---|\n| Prudenza | Tenuta dell’intermediario, rischi, capitale e liquidità. |\n| Condotta | Obblighi verso cliente o assicurato. |\n| ADR | Controversia individuale nel perimetro ABF/ACF/AAS. |\n\nUna banca può distribuire una polizza: il nome del venditore non decide da solo l’ADR.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "37424b17a6b4a9bfc0d3b5727094811a361acf108fdd23e96bd40ccc8c32a640",
+      "sha256After": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "schema": "12.3",
+      "originalImage": "../assets/chapter-12/03-flusso-banca-italia-ivass.png",
+      "originalSHA256": "cd72d77d9e23229456ccd0ef05cd9e918c4afb5c22e25513b1ab0e35ebd8a726",
+      "nativeText": "#### Schema 12.3 — Dalla segnalazione all’intervento\n\n| Elemento | Lettura operativa |\n|---|---|\n| Dati | Bilanci, flussi prudenziali, reclami e controlli. |\n| Analisi | Qualifica rischio, qualità del dato e responsabilità. |\n| Misura | Scegli potere e garanzie del regime. |\n| Monitoraggio | Verifica l’attuazione e gli effetti. |\n\nRedditività in calo non equivale automaticamente a dissesto o risoluzione.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "37424b17a6b4a9bfc0d3b5727094811a361acf108fdd23e96bd40ccc8c32a640",
+      "sha256After": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "schema": "12.4",
+      "originalImage": "../assets/chapter-12/04-distinzioni-banca-italia-ivass.png",
+      "originalSHA256": "cb135f65a22b87240ada32759522319d81267b0e62bc9c5d9f5a9cd327685e3f",
+      "nativeText": "#### Schema 12.4 — Capitale e liquidità\n\n| Elemento | Lettura operativa |\n|---|---|\n| Capitale | Capacità di assorbire perdite con fondi ammissibili. |\n| Liquidità | Capacità di sostenere deflussi e scadenze. |\n| LCR | Resistenza a stress di breve periodo. |\n| NSFR | Struttura stabile di finanziamento. |\n\nPatrimonio positivo non garantisce disponibilità di cassa per ogni scadenza.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "37424b17a6b4a9bfc0d3b5727094811a361acf108fdd23e96bd40ccc8c32a640",
+      "sha256After": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "schema": "12.5",
+      "originalImage": "../assets/chapter-12/05-sintesi-banca-italia-ivass.png",
+      "originalSHA256": "fa52e5a0acb289834a16825bc854c246f31c2598889868aa7f9900f7605dd368",
+      "nativeText": "#### Schema 12.5 — Tre ADR, tre oggetti\n\n| Elemento | Lettura operativa |\n|---|---|\n| ABF | Servizi bancari e finanziari, inclusi pagamenti nel perimetro. |\n| ACF | Obblighi nei servizi di investimento verso retail. |\n| AAS | Controversie da contratto assicurativo concluso. |\n\nReclamo, valori e termini sono nella tabella aggiornata; nel primo anno AAS opera il transitorio indicato.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "37424b17a6b4a9bfc0d3b5727094811a361acf108fdd23e96bd40ccc8c32a640",
+      "sha256After": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "schema": "13.1",
+      "originalImage": "../assets/chapter-13/01-mappa-bando-garante-privacy-cooperazione.png",
+      "originalSHA256": "839d294febd90faf22bb40ba76b4ee66f3c5e0369eff9d9192f86f8f3daedd63",
+      "nativeText": "#### Schema 13.1 — Applicare i poteri del Garante\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Individua GDPR, procedimenti e cooperazione nel programma. |\n| A — Aree | Dati personali e tutela amministrativa/giudiziale. |\n| N — Nuclei | Ruoli, poteri, reclamo e competenza. |\n| D — Diario | Registra automatismi sullo sportello unico. |\n| O — Output | Istruttoria e misura proporzionata. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "d613f6ad2764976478a5b120cf71364304256fb30cbbb694245f1d3b48829adb",
+      "sha256After": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "schema": "13.2",
+      "originalImage": "../assets/chapter-13/02-architettura-garante-privacy-cooperazione.png",
+      "originalSHA256": "1d0655e85cc1fb1f55343c827483c02a98be5c3b0a8375e417608cd4bc0f1066",
+      "nativeText": "#### Schema 13.2 — Poteri e istanze non sono sinonimi\n\n| Elemento | Lettura operativa |\n|---|---|\n| Indagine | Acquisisce dati e documenti per accertare. |\n| Correzione | Avvertimenti, ammonimenti, ordini e limiti nei presupposti. |\n| Reclamo | Istanza dell’interessato circostanziata. |\n| Segnalazione | Chiunque può sollecitare un controllo. |\n\nReclamo e segnalazione non sono tipi di sanzione.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "d613f6ad2764976478a5b120cf71364304256fb30cbbb694245f1d3b48829adb",
+      "sha256After": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "schema": "13.3",
+      "originalImage": "../assets/chapter-13/03-flusso-garante-privacy-cooperazione.png",
+      "originalSHA256": "719fe13557d2c80d24a89805e1ff37789b64fe2ecb4092f4686939b34d15f5c7",
+      "nativeText": "#### Schema 13.3 — Il percorso del reclamo\n\n| Elemento | Lettura operativa |\n|---|---|\n| Ricezione | Verifica regolarità, contenuto e competenza. |\n| Istruttoria preliminare | Valuta elementi e possibile chiusura. |\n| Procedimento eventuale | Contestazione e difesa per gli atti previsti. |\n| Esito | Archiviazione o misura motivata; non multa automatica. |\n\nTre mesi per informare non coincidono con il termine di decisione del reclamo.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "d613f6ad2764976478a5b120cf71364304256fb30cbbb694245f1d3b48829adb",
+      "sha256After": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "schema": "13.5",
+      "originalImage": "../assets/chapter-13/05-sintesi-garante-privacy-cooperazione.png",
+      "originalSHA256": "7f7201145366a50d80496823981fda6918b942a206239793f1ce1667bf3b64c8",
+      "nativeText": "#### Schema 13.5 — Concorso pubblico e fornitore estero\n\n| Elemento | Lettura operativa |\n|---|---|\n| Trattamento dell’ente italiano | Articolo 55(2): Garante; non si applica articolo 56. |\n| Responsabile estero | Il luogo del fornitore non sposta da solo la competenza sull’ente. |\n| Riuso autonomo del fornitore | Qualificazione separata, con eventuale riparto transfrontaliero. |\n\nLa stessa piattaforma può ospitare trattamenti giuridicamente diversi.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "d613f6ad2764976478a5b120cf71364304256fb30cbbb694245f1d3b48829adb",
+      "sha256After": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "schema": "13.4",
+      "originalImage": "../assets/chapter-13/04-distinzioni-garante-privacy-cooperazione.png",
+      "originalSHA256": "564361ab741bf9f2d3b60c9094eaec50156872d70c54b3192e87fa1cf984a56a",
+      "nativeText": "#### Schema 13.4 — Avvertimento, ammonimento e danni\n\n| Elemento | Lettura operativa |\n|---|---|\n| Avvertimento | Trattamento previsto che può violare il GDPR. |\n| Ammonimento | Violazione già commessa. |\n| Sanzione | Importo determinato con criteri e categorie, non massimo automatico. |\n| Risarcimento | Domanda al giudice, non liquidazione del Garante. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "d613f6ad2764976478a5b120cf71364304256fb30cbbb694245f1d3b48829adb",
+      "sha256After": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "schema": "14.1",
+      "originalImage": "../assets/chapter-14/01-mappa-bando-anac-prevenzione-whistleblowing.png",
+      "originalSHA256": "edf08f45991036c4c18eefac0a90d4a88397e8f98336b13ce15a3e0e7a10778c",
+      "nativeText": "#### Schema 14.1 — Qualificare prevenzione e whistleblowing\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Leggi materie e prova ANAC. |\n| A — Aree | Prevenzione, trasparenza, contratti e canali. |\n| N — Nuclei | RPCT, misure, tutele e competenze. |\n| D — Diario | Annota errori fra motivi personali e oggetto. |\n| O — Output | Mappa del rischio e caso di ritorsione. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "da183e444bf4f5cbaf9fe24914129d62a11834481dceac5f571ac6396f4c3e4a",
+      "sha256After": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "schema": "14.2",
+      "originalImage": "../assets/chapter-14/02-architettura-anac-prevenzione-whistleblowing.png",
+      "originalSHA256": "ebe6ce7dc1572cd40d1c987c5ef42ed9274ebdab8be4a9873b3e1c09f21464ed",
+      "nativeText": "#### Schema 14.2 — Indirizzo e attuazione\n\n| Elemento | Lettura operativa |\n|---|---|\n| PNA | Strategia e indirizzi nazionali. |\n| PIAO/PTPCT | Collocano la programmazione interna secondo il regime dell’ente. |\n| RPCT | Propone, coordina e monitora; gestisce il canale interno nei soggetti obbligati. |\n| Dirigenti e uffici | Attuano le misure nei processi e ne rendono conto. |\n\nIl RPCT non assorbe ogni responsabilità organizzativa.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "da183e444bf4f5cbaf9fe24914129d62a11834481dceac5f571ac6396f4c3e4a",
+      "sha256After": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "schema": "14.3",
+      "originalImage": "../assets/chapter-14/03-flusso-anac-prevenzione-whistleblowing.png",
+      "originalSHA256": "c7800adb3142e23526105d42e4ddc158ef48f892df98b49c2d6737cde5d0c643",
+      "nativeText": "#### Schema 14.3 — Protezione lungo il percorso\n\n| Elemento | Lettura operativa |\n|---|---|\n| Segnalazione qualificata | Contesto, oggetto, fondati motivi e canale nei presupposti. |\n| Gestione | Riservatezza e diligente seguito accompagnano l’esame. |\n| Ritorsione eventuale | Comunicazione ad ANAC ex articolo 19, distinta dal canale esterno della violazione. |\n| Tutela | Presunzioni nei limiti soggettivi; giudice per nullità, ripristino e danni. |\n\nLa protezione non nasce soltanto dopo la conclusione dell’istruttoria.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "da183e444bf4f5cbaf9fe24914129d62a11834481dceac5f571ac6396f4c3e4a",
+      "sha256After": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "schema": "14.4",
+      "originalImage": "../assets/chapter-14/04-distinzioni-anac-prevenzione-whistleblowing.png",
+      "originalSHA256": "f72f66eef483889315418e15f8a419cc95f1d5cadb1b632995c9d4ba24939f3d",
+      "nativeText": "#### Schema 14.4 — Quattro distinzioni del caso\n\n| Elemento | Lettura operativa |\n|---|---|\n| Oggetto/movente | Violazione pertinente; i motivi personali sono irrilevanti. |\n| Articoli 6/19 | Segnalazione esterna della violazione e comunicazione di ritorsione. |\n| Segnalante/facilitatore | Tutele estese, presunzioni non automaticamente identiche. |\n| ANAC/giudice | Accertamento e sanzioni amministrative distinti dai rimedi giudiziari. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "da183e444bf4f5cbaf9fe24914129d62a11834481dceac5f571ac6396f4c3e4a",
+      "sha256After": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "schema": "14.5",
+      "originalImage": "../assets/chapter-14/05-sintesi-anac-prevenzione-whistleblowing.png",
+      "originalSHA256": "436d232b50fbebce28f3e8bdda0ae86918b4b2ba3945a35ab63d5bdcea479c0e",
+      "nativeText": "#### Schema 14.5 — Prova della ritorsione\n\n| Elemento | Lettura operativa |\n|---|---|\n| Presupposti | Verifica segnalazione protetta e misura lamentata. |\n| Presunzione | Per il segnalante nel perimetro dell’articolo 17. |\n| Prova contraria | Chi adotta la misura dimostra ragioni estranee. |\n| Soggetti collegati | Valuta la categoria; non estendere automaticamente l’inversione. |\n\nUna motivazione generica di servizio non sostituisce documenti e criteri verificabili.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "da183e444bf4f5cbaf9fe24914129d62a11834481dceac5f571ac6396f4c3e4a",
+      "sha256After": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "schema": "15.1",
+      "originalImage": "../assets/chapter-15/01-mappa-bando-laboratorio-prove-authority.png",
+      "originalSHA256": "5b6bbdf392a62c62b7efd34f329f3704b3b2293ca3906059e3d4413071c3b79f",
+      "nativeText": "#### Schema 15.1 — Trasformare lo studio in prova\n\n| Elemento | Lettura operativa |\n|---|---|\n| B — Bando | Rileva formato, tempo, soglia e programma. |\n| A — Aree | Seleziona la materia della traccia. |\n| N — Nuclei | Applica regola, fatti e competenza. |\n| D — Diario | Registra errore e azione di recupero. |\n| O — Output | Elaborato, calcolo, memo o orale corretto. |",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "5a1289874027650c4b8c84ed20b8a12d051f5ccb9cedb11d138f0a01dfc3b721",
+      "sha256After": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "schema": "15.2",
+      "originalImage": "../assets/chapter-15/02-architettura-laboratorio-prove-authority.png",
+      "originalSHA256": "73dd637afa1733d1aaf7ec3699d3a2056548f6c4706c7a1e30eaebfcb4d9c514",
+      "nativeText": "#### Schema 15.2 — Tre percorsi integrabili\n\n| Elemento | Lettura operativa |\n|---|---|\n| G — Giuridico | Potere, presupposto, procedimento e rimedio. |\n| E — Economico-regolatorio | Dati, metodo, impatto e incertezza. |\n| P — Giuridico-economico | Integra regola, mercato e decisione. |\n\nIl percorso prevalente orienta il tempo di studio, non elimina le competenze complementari.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "5a1289874027650c4b8c84ed20b8a12d051f5ccb9cedb11d138f0a01dfc3b721",
+      "sha256After": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "schema": "15.3",
+      "originalImage": "../assets/chapter-15/03-flusso-laboratorio-prove-authority.png",
+      "originalSHA256": "2e877eeb1396baba02be92236fbf49b7983e68b6d0a04081d618060a04ae947f",
+      "nativeText": "#### Schema 15.3 — Dalla traccia alla risposta\n\n| Elemento | Lettura operativa |\n|---|---|\n| Decodifica | Verbo, oggetto, fatti certi e output. |\n| Regola e competenza | Applica il quadro pertinente, senza inventare dati mancanti. |\n| Analisi | Collega documenti, calcoli e garanzie. |\n| Conclusione | Proponi il passo operativo e il suo limite. |\n| Correzione | Confronta la soluzione e ripeti la prova. |\n\nDichiarare di non conoscere una norma richiesta non vale il punto fonte della rubrica.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "5a1289874027650c4b8c84ed20b8a12d051f5ccb9cedb11d138f0a01dfc3b721",
+      "sha256After": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "schema": "15.4",
+      "originalImage": "../assets/chapter-15/04-distinzioni-laboratorio-prove-authority.png",
+      "originalSHA256": "0359650e70cff616c368f0fb31eb1ef5cfce686489598bf633789a306967ed50",
+      "nativeText": "#### Schema 15.4 — Numeri da interpretare\n\n| Elemento | Lettura operativa |\n|---|---|\n| E1 | Media 14/26 giorni: controlla l’effetto composizione. |\n| E2 | Netti 6.000/7.000 euro; scenario avverso B −5.000. |\n| E3 | Driver 60/40: costi comuni 180.000/120.000; tariffa didattica 79. |\n\nI dati sono quelli dei dossier del laboratorio, non valori osservati di operatori reali.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "5a1289874027650c4b8c84ed20b8a12d051f5ccb9cedb11d138f0a01dfc3b721",
+      "sha256After": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "schema": "15.5",
+      "originalImage": "../assets/chapter-15/05-sintesi-laboratorio-prove-authority.png",
+      "originalSHA256": "70b6d632a31f26b5c998e7342fde9c08ccefcadd460c6f9adb06ab5e3ba66b8f",
+      "nativeText": "#### Schema 15.5 — Recupero programmato\n\n| Elemento | Lettura operativa |\n|---|---|\n| Entro 30 giorni | Mappa, fondamentali e prime quattro prove. |\n| Entro 60 giorni | Verticale dell’ente e altre quattro simulazioni. |\n| Entro 90 giorni | Dieci tracce corrette, prova a tempo e rifinitura. |\n| Dopo ogni prova | Errore preciso, causa, azione e nuovo tentativo. |\n\nAdatta il calendario al bando; non è una garanzia di preparazione universale.",
+      "sourceEvidence": "source_refs del capitolo, note di verifica 3 ottobre 2026",
+      "sha256Before": "5a1289874027650c4b8c84ed20b8a12d051f5ccb9cedb11d138f0a01dfc3b721",
+      "sha256After": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "schema": "1.1",
+      "originalImage": "../assets/chapter-01/01-mappa-bando-authority.png",
+      "originalSHA256": "f162ea0cba66d83bdc035d38f4383123a8a68feef920cc99f3d505c136d67c67",
+      "nativeText": "#### Schema 1.1 — Dal bando alla prima prova\n\n| Passaggio | Decisione da prendere |\n|---|---|\n| B — Bando | Ente, profilo, programma e formato della prova. |\n| A — Aree | Base comune nel VOL-01 e contenuti specialistici pertinenti. |\n| N — Nuclei | Fonte, interesse protetto, potere e procedura. |\n| D — Diario | Errore preciso, rinvio e azione di recupero. |\n| O — Output | Quiz, memo, caso o risposta orale previsti dal bando. |\n\nIl percorso parte dal programma effettivo: non dalla notorietà dell’ente.",
+      "sourceEvidence": "Capitolo 01 corretto e prova PDF iniziale pagine 11,15,17,18,20",
+      "sha256Before": "ee30d6423cbabf83309c161f753acedebf65182cfaab6209c37ea5500ec98f8c",
+      "sha256After": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "schema": "1.2",
+      "originalImage": "../assets/chapter-01/02-authority-settori-poteri.png",
+      "originalSHA256": "c4a2037bdf250e30309db9c7ac74442693594a6b7af701c7552848e1800cdfef",
+      "nativeText": "#### Schema 1.2 — Dall’ente al problema\n\n| Ente | Problema da riconoscere |\n|---|---|\n| AGCM | Concorrenza e correttezza delle pratiche verso il consumatore. |\n| ARERA | Qualità, tariffe e tutela nei servizi regolati. |\n| AGCOM | Comunicazioni, media, utenti e piattaforme nei rispettivi regimi. |\n| Consob | Mercati, informazione e condotta verso l’investitore. |\n| Banca d’Italia / IVASS | Rischi prudenziali e tutele nei settori bancario e assicurativo. |\n| Garante privacy | Dati personali, poteri correttivi e cooperazione. |\n| ANAC | Prevenzione, trasparenza, vigilanza e whistleblowing. |\n\nSettore e interesse orientano lo studio; il singolo potere richiede sempre la propria fonte.",
+      "sourceEvidence": "Capitolo 01 corretto e prova PDF iniziale pagine 11,15,17,18,20",
+      "sha256Before": "ee30d6423cbabf83309c161f753acedebf65182cfaab6209c37ea5500ec98f8c",
+      "sha256After": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "schema": "1.3",
+      "originalImage": "../assets/chapter-01/03-percorsi-g-e-p.png",
+      "originalSHA256": "bd1cd757d157f5402e1fc2979079bec74549379f3f22cea0dabb9fa17231f909",
+      "nativeText": "#### Schema 1.3 — Tre percorsi, tre prodotti\n\n| Percorso | Prodotto da allenare |\n|---|---|\n| G — Giuridico | Ricostruzione del procedimento con fonte, garanzia e rimedio. |\n| E — Economico-regolatorio | Calcolo o analisi con dati, ipotesi, risultato e limite. |\n| P — Giuridico-economico | Memo che collega norma, mercato, evidenza e decisione. |\n\nLa base è comune. Cambiano peso delle materie e forma dell’allenamento; nessun percorso autorizza a ignorare il programma.",
+      "sourceEvidence": "Capitolo 01 corretto e prova PDF iniziale pagine 11,15,17,18,20",
+      "sha256Before": "ee30d6423cbabf83309c161f753acedebf65182cfaab6209c37ea5500ec98f8c",
+      "sha256After": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "schema": "1.4",
+      "originalImage": "../assets/chapter-01/05-bando-decoder-authority.png",
+      "originalSHA256": "6cf005a57ad9597981c661c062ede23157da6264e5be806906009f34a469954c",
+      "nativeText": "#### Schema 1.4 — Decoder da compilare\n\n| Campo | Il tuo bando |\n|---|---|\n| Ente, settore e codice del concorso | ________________________________ |\n| Profilo e percorso prevalente | ________________________________ |\n| Scadenza della domanda | ________________________________ |\n| Prove, durata e soglia | ________________________________ |\n| Materie comuni da richiamare | ________________________________ |\n| Capitoli specialistici prioritari | ________________________________ |\n| Nuclei più deboli e rischio principale | ________________________________ |\n| Output e data del primo tentativo | ________________________________ |\n\nCompila da bando e allegati. Se un dato manca, annota che cosa verificare: non inventarlo. L’esempio compilato segue nel caso guidato.",
+      "sourceEvidence": "Capitolo 01 corretto e prova PDF iniziale pagine 11,15,17,18,20",
+      "sha256Before": "ee30d6423cbabf83309c161f753acedebf65182cfaab6209c37ea5500ec98f8c",
+      "sha256After": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278"
+    },
+    {
+      "file": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "schema": "1.5",
+      "originalImage": "../assets/chapter-01/04-nucleo-comune-delta-authority.png",
+      "originalSHA256": "857c2847e9d389c1a751512421fc91a00d3601c11bc6ceb7ec7501dadcc6275d",
+      "nativeText": "#### Schema 1.5 — Collegare base e specializzazione\n\n| Livello | Uso nella risposta |\n|---|---|\n| Categoria generale | Richiama dal VOL-01 il principio o l’istituto necessario. |\n| Applicazione settoriale | Identifica interesse, fonte, potere e procedimento dell’autorità. |\n| Richiesta della prova | Usa questi elementi per concludere il caso o produrre l’output richiesto. |\n\nUna risposta utile unisce i tre livelli: non ripete soltanto una definizione né elenca sigle.",
+      "sourceEvidence": "Capitolo 01 corretto e prova PDF iniziale pagine 11,15,17,18,20",
+      "sha256Before": "ee30d6423cbabf83309c161f753acedebf65182cfaab6209c37ea5500ec98f8c",
+      "sha256After": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278"
+    }
+  ],
+  "additionalFiveReason": "PDF iniziale: etichette raster minute e Decoder non praticabile su carta."
+}

@@ -79,3 +79,8 @@ Da verificare periodicamente per aggiornamenti e linee guida.
 
 ## Note editoriali
 Evidenziare differenza tra accesso documentale e accesso civico solo dopo consolidamento fonti.
+
+
+## Accesso e privacy — correzioni del 3 ottobre 2026
+
+[[sources/vol-01-accesso-privacy-correzioni-2026-10-03]] consolida termini FOIA e diritti GDPR, limiti tipizzati, canali whistleblowing, data breach e DPIA. Applicazione nei capitoli 7 e 10 del base, con casi risolti e distinzione tra accesso e pubblicazione sanitaria.

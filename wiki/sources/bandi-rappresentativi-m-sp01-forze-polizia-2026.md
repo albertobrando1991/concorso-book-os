@@ -8,9 +8,9 @@ topics: ["carriere-speciali", "forze di polizia", "bandi", "requisiti di accesso
 entities: ["Polizia di Stato", "Arma dei Carabinieri", "Guardia di Finanza", "Ministero dell'Interno", "inPA"]
 book_refs: ["m-sp01-forze-ordine", "vol-12-carriere-speciali-premium"]
 cut_off_date: 2026-08-10
-checked_at: 2026-08-13
+checked_at: 2026-10-03
 confidence: 0.9
-updated_at: 2026-08-13T00:00:00+02:00
+updated_at: 2026-10-03T00:00:00+02:00
 review_required: true
 canonical: true
 tags: ["source", "vol-12", "m-sp01", "bandi", "step-05"]
@@ -44,14 +44,14 @@ Nessun dato di questa nota può essere usato come dato attuale al momento della 
 | Posti | 4.400 |
 | Ripartizione | 2.398 procedura AG2026 (civili) · 1.962 procedura VFP2026 (volontari in ferma prefissata delle Forze armate) · 40 procedura BIL2026 (bilinguisti) |
 | Cittadinanza | italiana |
-| Età | massimo **29 anni non compiuti** per civili e bilinguisti; **28 non compiuti** per VFP; elevabile fino a 3 anni per servizio militare prestato |
+| Età | 18 compiuti e **26 non compiuti** per civili e bilinguisti; **25 non compiuti** per VFP; elevazione pari al servizio militare effettivo, non superiore a tre anni (art. 2, p. 8) |
 | Titolo di studio | diploma di scuola media superiore |
 | Prove | 1) prova scritta · 2) accertamento dell'efficienza fisica · 3) accertamenti psico-fisici · 4) accertamento attitudinale · 5) valutazione dei titoli |
 | Materie della prova scritta | non elencate nella pagina; rinvio alle **banche dati dei quesiti** pubblicate separatamente |
 | Domande | dalle 00.00 del 30 aprile 2026 alle 23.59 del 29 maggio 2026 |
 | Pubblicazione | portale unico del reclutamento inPA |
 
-> **Rilievo di fact-checking.** Numerose fonti secondarie di settore riportano per questo bando un limite di età di «18-26 anni». La pagina ufficiale indica **29 anni non compiuti** per civili e bilinguisti e 28 per i VFP. Il dato secondario è errato o riferito a un bando diverso. È il caso esemplare del perché il modulo non può basarsi su fonti di settore.
+> **Rettifica del 3 ottobre 2026.** La precedente nota aveva scambiato i massimi comprensivi di elevazione con le soglie ordinarie. La lettura visiva dell’originale, art. 2 a p. 8, conferma 26/25 anni non compiuti, non 29/28 come soglie generali.
 
 *DA VERIFICARE (fonte secondaria):* diario delle prove pubblicato il 1° luglio 2026; prove sostenute il 20 luglio (VFP), dal 22 al 27 luglio (civili), il 27 luglio (bilinguisti); assenza di fase preselettiva; svolgimento integralmente in presenza.
 
@@ -65,12 +65,12 @@ Nessun dato di questa nota può essere usato come dato attuale al momento della 
 | Atto | Decreto del Capo della Polizia — Direttore generale della pubblica sicurezza, 19 gennaio 2026 |
 | Tipo | concorso pubblico **per esami** |
 | Posti | 1.000 |
-| Ripartizione | 666 aperti · 167 riservati al ruolo dei sovrintendenti con titolo di studio prescritto · 167 riservati a personale della Polizia di Stato con almeno 3 anni di anzianità di effettivo servizio |
+| Ripartizione | 167 riservati ai sovrintendenti e 167 al personale PS con almeno tre anni di effettivo servizio; ulteriori riserve dell’art. 2 (3 bilinguisti, 50 superstiti, 20 ufficiali con ferma biennale conclusa senza demerito, 10 diplomati Centro studi Fermo). Non chiamare 666 posti tutti liberi da riserve |
 | Requisiti | cittadinanza italiana e requisiti dell'art. 3 del bando; PEC e identità digitale per la domanda |
 | Prove | prova scritta · accertamento dell'efficienza fisica · accertamenti psico-fisici e attitudinali · **prova orale** |
-| Banca dati | 5.000 quesiti, pubblicati il 22 aprile 2026 |
-| Prova scritta | dal 25 al 28 maggio 2026, Ergife Palace Hotel, Roma |
-| Domande | dalle 00.00 del 23 gennaio 2026 alle 23.59 del 21 febbraio 2026 |
+| Banca dati | 5.000 quesiti, consistenza verificata nell’art. 9. Data storica del 22 aprile riportata nella precedente acquisizione ma non riscontrata nel controllo corrente: non usata nel testo corretto |
+| Prova scritta | Date e sede della precedente acquisizione non riscontrate nel controllo corrente; sito PS restituisce accesso negato. Testo corretto usa i dati dell’art. 9 e scenari di piano dichiarati |
+| Domande | scheda inPA: apertura 22 gennaio 2026 ore 18:15; chiusura 21 febbraio 2026 ore 23:59 (ricontrollo 3 ottobre) |
 | Piattaforma | `concorsionline.poliziadistato.it`, accesso con SPID o CIE |
 
 ---
@@ -91,18 +91,18 @@ Ente banditore secondo inPA: **Arma dei Carabinieri — Centro Nazionale Selezio
 | Atto | bando n. 184/1-1-2025 CC, per esami e titoli |
 | Posti | 3.081 |
 | Ripartizione | 2.134 VFP in servizio o in congedo · 915 civili · 32 bilinguisti (Provincia autonoma di Bolzano) |
-| Età | non superiore a 24 anni per i civili, fino a 26 per i volontari |
+| Età | civili: non superato il giorno del 24° compleanno, domanda possibile dai 17 anni con consenso; VFP: non superiore a 25 anni compiuti. Art. 2, p. 4; formule non intercambiabili |
 | Titolo di studio | diploma di istruzione secondaria di secondo grado |
 | Requisito ulteriore | idoneità psicofisica al servizio militare incondizionato; condotta incensurabile |
-| Prove | prova scritta · prove di efficienza fisica · accertamenti sanitari e psico-attitudinali · valutazione titoli · colloquio |
-| Domande | entro le 23.59 del 7 aprile 2026, esclusivamente tramite inPA |
+| Prove | prova scritta di selezione · efficienza fisica · accertamenti psicofisici · accertamenti attitudinali · valutazione titoli (art. 6). Nessuna prova orale autonoma |
+| Domande | entro le 23.59 del 7 aprile 2026; invio nell’area concorsi di carabinieri.it, con SPID o CIE. inPA pubblica il bando e reindirizza (artt. 3–4) |
 | Prova scritta | dal 21 aprile al 22 maggio 2026 — sedi di Padova, Bari, Catania, Santa Maria Capua Vetere, Roma |
 
 ### B2. 898 allievi marescialli — 16° corso triennale
 
 **Livello: VERIFICATO** — bando ufficiale scaricato: `wiki/raw/m-sp01-forze-ordine/cc-ist16-bando-898-allievi-marescialli.pdf`, emesso dal **Ministero della Difesa — Direzione generale per il personale militare** in data 16 febbraio 2026. Decreto di modifica scaricato: `cc-ist16-decreto-modifica-bando.pdf`. Scheda: [inPA](https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=76d9484ac2af4d1eab70aa548fd60305).
 
-Ente banditore secondo inPA: Arma dei Carabinieri — Centro Nazionale Selezione e Reclutamento. Candidature dal 18 febbraio al 19 marzo 2026 (23.59). **Due decreti di modifica** successivi, del 18 marzo e del 10 aprile 2026. Avviso di graduatoria di merito dell'11 agosto 2026.
+Ente banditore secondo inPA: Arma dei Carabinieri — Centro Nazionale Selezione e Reclutamento. Candidature dal 18 febbraio al 19 marzo 2026 (23.59). **Due allegati di modifica pubblicati** su inPA il 18 marzo e il 10 aprile 2026. Il primo decreto reca la data del 10 marzo 2026: non confondere data dell’atto e pubblicazione. Avviso di graduatoria di merito dell'11 agosto 2026.
 
 Il bando richiama espressamente il Codice dell'ordinamento militare, con particolare riferimento agli articoli 679 comma 2-bis lett. a), 683 commi 1 e 7 lett. a), 684, 686 commi 1, 3 e 4, 687, 688, 689 e 703.
 
@@ -112,9 +112,9 @@ Il bando richiama espressamente il Codice dell'ordinamento militare, con partico
 | --- | --- |
 | Ente | Comando Generale dell'Arma dei Carabinieri |
 | Posti | 898, di cui 199 riservati (fra cui coniugi e figli superstiti di personale deceduto in servizio, allievi di scuole militari) |
-| Età | compiuti 17 anni, non compiuti 26 alla scadenza |
+| Età | civili: 17 compiuti e non superato il giorno del 26° compleanno; elevazione al giorno del 28° per il servizio militare qualificato dall’art. 2; personale dell’Arma indicato dalla norma: non superato il giorno del 30° |
 | Titolo di studio | diploma di scuola secondaria di secondo grado, conseguibile nell'a.s. 2025/2026 |
-| Prove | preselezione scritta · prova scritta di **componimento di italiano** · prove di efficienza fisica · accertamenti psico-fisici e attitudinali · prova orale |
+| Prove | prova preliminare · prova scritta di italiano a **60 quesiti a risposta multipla**, non componimento (allegato C, p. 28) · efficienza fisica · accertamenti psicofisici e attitudinali · orale · facoltative lingua e informatica; titoli per graduatoria |
 | Domande | dal 18 febbraio al 19 marzo 2026 |
 | Esito | ammissione al 16° corso triennale presso la Scuola Marescialli e Brigadieri dei Carabinieri di Firenze, con percorso universitario a indirizzo giuridico-amministrativo |
 
@@ -156,17 +156,17 @@ Procedure rilevate sul portale ufficiale alla data di controllo:
 
 Lingue ammesse alla prova facoltativa: **inglese, francese, tedesco, spagnolo**.
 
-Limite ai tentativi: la partecipazione al concorso per i posti del contingente di mare **non è ammessa per più di due volte** (art. 1, comma 5). I candidati possono presentare domanda per un solo contingente e per una sola specializzazione (comma 6).
+Limite ai tentativi: la partecipazione per i soli posti riservati ai motoristi navali descritti al comma 3 (otto posti nella specializzazione tecnico di macchine) **non è ammessa per più di due volte** (art. 1, comma 5). I candidati possono presentare domanda per un solo contingente e per una sola specializzazione (comma 6).
 
-> **Rilievo di fact-checking.** Le fonti secondarie descrivono concordemente la seconda prova come un «tema di 6 ore». Il bando la denomina **«prova scritta di cultura generale»**. La descrizione secondaria potrebbe riferirsi alla modalità concreta di svolgimento, ma non è la denominazione dell'atto e non va usata nel libro.
+> **Riscontro del 3 ottobre 2026.** L’art. 12, comma 3, p. 17 del bando definisce espressamente la prova come composizione italiana della durata di sei ore. Il dato è ufficiale e utilizzabile come esempio datato.
 
 | Voce | Dato |
 | --- | --- |
 | Ente | Comando Generale della Guardia di Finanza |
 | Tipo | per titoli ed esami |
 | Posti | 983 — 923 contingente ordinario (di cui 8 riservati a superstiti di personale deceduto in servizio) · 60 contingente di mare |
-| Contingente di mare | 30 nocchiere abilitato al comando (NAC) · 10 nocchiere (NCH) · 16 tecnico di macchine (TDM) · 4 tecnico dei sistemi di comunicazione e rilevamento (TSC) |
-| Età | da 17 a 26 anni non compiuti alla scadenza; fino a 35 per militari già in servizio nel Corpo |
+| Contingente di mare | 30 nocchiere abilitato al comando (NAC) · 10 nocchiere (NCH) · 16 tecnico di macchine (TDM) · 4 tecnico dei sistemi di comunicazione e scoperta (TSC) |
+| Età | civili: 17 compiuti e non superato il giorno del 26° compleanno alla scadenza; categorie militari del Corpo elencate all’art. 2: non superato il giorno del 35° (non beneficio indistinto per tutti i militari) |
 | Titolo di studio | diploma che consenta l'iscrizione all'università, conseguibile nell'a.s. 2025/2026 |
 | Iter | preselezione (100 quiz) → **tema, 6 ore** → prove di efficienza fisica → accertamenti psico-fisici → accertamenti attitudinali → prova orale → prova facoltativa di lingua straniera → valutazione dei titoli |
 | Domande | entro il 23 marzo 2026 ore 12.00, tramite `concorsi.gdf.gov.it` con SPID o CIE |
@@ -211,7 +211,7 @@ Nessuno dei dati seguenti può essere scritto nel libro come valore stabile:
 9. presenza della prova facoltativa di lingua straniera e suo peso;
 10. distinzione fra procedura pubblica e procedura interna per la singola tornata.
 
-Il capitolo deve insegnare **come verificarli**, non riportarli.
+Il capitolo insegna come verificarli e può riportare esempi datati con esatta procedura, categoria e fonte, senza trasformarli in regole permanenti.
 
 ## Catena di provenienza
 
@@ -223,3 +223,29 @@ Fonti istituzionali consultate il 2026-08-11 per il cut-off 2026-08-10:
 - `carabinieri.it/concorsi` — area concorsi dell'Arma.
 
 Nessun testo di bando è stato trasferito in forma diretta. Le voci classificate DA VERIFICARE richiedono il riscontro sul PDF del bando prima dell'uso in capitolo.
+
+
+## Riscontro sugli originali del 3 ottobre 2026
+
+PS 4.400: PDF ufficiale locale, pp. 7–9 lette visivamente; art. 1 quote, art. 2 età, diploma conseguibile entro la prima prova scritta e speciale titolo per VFP in servizio/congedati al 31 dicembre 2020. La pagina PS oggi nega accesso: la verifica è sull’originale conservato, non sul sommario web.
+
+PS 1.000: originale completo di 24 pagine acquisito da https://portale.inpa.gov.it/api/media/ad7af019-8205-4f49-9b33-6cdf5099733a e conservato in `wiki/raw/correzioni-collana-2026-10-02/ps1000-bando-2026-completo.pdf`. Lette visivamente pp. 7–10 e 13–15. Art. 3: 28 anni non compiuti, elevazione effettivo servizio militare sino a tre; nessun limite per personale PS con tre anni di servizio alla data del bando; 33 per appartenenti ai ruoli civili dell’Interno. Diploma conseguibile entro la prima prova, non generalizzare questa eccezione. Art. 4: annullare e rinviare la domanda modificata entro termine. Art. 8: scritto su penale, procedura penale, costituzionale; orale aggiunge amministrativo/pubblica sicurezza, civile (persone, famiglia, diritti reali, obbligazioni, tutela), inglese con traduzione e conversazione, informatica anche pratica. Art. 9: banca di 5.000 (2.000 penale, 2.000 procedura, 1.000 costituzionale), quesiti a cinque opzioni, scritto di 100 quesiti, tempo e criteri commissione. Art. 10: primi 4.000 con almeno 18/30 più pari merito all’ultimo; non basta 18/30 per tutti. Art. 7 consente riorganizzare ordine degli accertamenti anche dopo l’orale. Non usare ordine come immutabile.
+
+CC 3.081: letti artt. 2–6, pp. 4–7: le rettifiche sopra prevalgono sul precedente sommario. Titolo: diploma entro a.s. 2025/26, speciale scuola secondaria di primo grado per militari già in servizio o congedati al 31 dicembre 2020. Ricevuta PDF va salvata; art. 4 consente annullare e reinviare entro termine.
+
+CC 898: letti artt. 2, 6, 9–10 e allegato C p. 28. Prova scritta di italiano: 60 quesiti; soglia 18/30. Non è un tema. Prova preliminare comprende anche lingua scelta e comprensione: banca non comprende tutte queste componenti. Età secondo formule letterali sopra. Le facoltative non trasformano il concorso in un terzo percorso ufficiali.
+
+GdF 983: letti artt. 1–2, 12–14, pp. 5–6, 17–19. Composizione sei ore, minimo 10/20. Ordinario: obbligatorie salto in alto, 1.000 m, piegamenti; facoltativa scelta in domanda fra 100 m e 25 m nuoto. Mare: obbligatorie salto, 1.000 m, nuoto25; facoltativa100 m o piegamenti. Un obbligatorio insufficiente esclude; facoltativo insufficiente non toglie idoneità. Punti fisici1–12 convertiti in maggiorazione0,05–0,40 secondo fasce dell’art.14, non aggiunti tal quali. Certificato agonistico valido per atletica o altro sport tabellaB DM18 febbraio1982 da specialista abilitato. Usare questo esempio ispettivo e il relativo allegato4, non quello69ufficiali.
+
+Tracciabilità: [[topics/m-sp01-forze-ordine-percorsi-prove]]; [[entities/ministero-interno]]. Le letture sono mirate ai claim citati, non attestano una nuova lettura integrale di ogni allegato né un censimento di tutti gli avvisi successivi.
+
+
+Ulteriore controllo CC3.081: art.4 commi4–8, p.6: posta ordinaria per copia della domanda da esibire alla prima prova, PEC attiva per notifiche, fototessera digitale; annullamento e nuovo invio per variazioni entrotermine; regolarizzazione di vizi sanabili non equivale a proroga generale. Ricerca testuale integrale nelPDF51p di «pagamento», «versamento», «contributo»: nessuna tassa concorsuale rilevata; unica occorrenza contributo riguarda copie di dati personali nell’informativa privacy. Il decoder distingue «contributo non previsto negli articoli della domanda» da importi inventati.
+
+CC898 decreto modifica locale letto per intero: numero0000222, **10marzo2026**, sostituisce allegatoE per tempi corsa; la precedente nota attribuiva imprecisamente date18marzo/10aprile senza riscontro nelPDF locale. L’esempio utilizzato deve nominare l’atto effettivamente acquisito, non presentare le due date come entrambe accertate.
+
+## Controllo finale del 3 ottobre 2026
+
+Le schede inPA PS 1.000 e CC 898 sono state riaperte: confermati apertura/chiusura e distinta data di pubblicazione degli allegati. Le date storiche di banca e scritto PS non sono state riattestate e sono escluse dai capitoli corretti. L’acquisizione `ps1000-bando-2026.pdf` nella cartella correzioni è incompleta e non è una fonte utilizzabile; la copia valida è `ps1000-bando-2026-completo.pdf` (24 pagine). Restano validi soltanto i riscontri puntuali espressamente descritti.
+
+Raccordo editoriale: [[topics/m-sp01-forze-ordine-percorsi-prove]], [[entities/ministero-interno]], [[books/moduli/m-sp01-forze-ordine/index]]. Restano distinti riscontri puntuali e materiale storico non riattestato.

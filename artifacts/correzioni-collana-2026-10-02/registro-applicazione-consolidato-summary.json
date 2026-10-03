@@ -1,0 +1,90 @@
+{
+  "baselineCount": 582,
+  "outputCount": 582,
+  "duplicateIds": [],
+  "missingIds": [],
+  "unexpectedIds": [],
+  "unmappedIds": [],
+  "statusCounts": {
+    "applicato-verificato-pdf": 76,
+    "parzialmente-applicato": 4,
+    "applicato-verificato-testo": 501,
+    "da-applicare": 1
+  },
+  "byVolume": {
+    "COLLANA": {
+      "applicato-verificato-pdf": 2,
+      "parzialmente-applicato": 1
+    },
+    "VOL-01": {
+      "applicato-verificato-pdf": 12,
+      "applicato-verificato-testo": 49,
+      "parzialmente-applicato": 2
+    },
+    "VOL-02": {
+      "applicato-verificato-pdf": 10,
+      "applicato-verificato-testo": 58
+    },
+    "VOL-03": {
+      "applicato-verificato-testo": 57,
+      "applicato-verificato-pdf": 7
+    },
+    "VOL-04": {
+      "applicato-verificato-pdf": 4,
+      "applicato-verificato-testo": 29
+    },
+    "VOL-05": {
+      "applicato-verificato-pdf": 8,
+      "applicato-verificato-testo": 33
+    },
+    "VOL-06": {
+      "applicato-verificato-pdf": 4,
+      "applicato-verificato-testo": 36
+    },
+    "VOL-07": {
+      "applicato-verificato-pdf": 5,
+      "applicato-verificato-testo": 41
+    },
+    "VOL-08": {
+      "applicato-verificato-pdf": 5,
+      "applicato-verificato-testo": 32
+    },
+    "VOL-09": {
+      "applicato-verificato-pdf": 6,
+      "applicato-verificato-testo": 38
+    },
+    "VOL-10": {
+      "applicato-verificato-pdf": 2,
+      "applicato-verificato-testo": 18
+    },
+    "VOL-11": {
+      "applicato-verificato-pdf": 5,
+      "applicato-verificato-testo": 44
+    },
+    "VOL-12": {
+      "applicato-verificato-pdf": 6,
+      "applicato-verificato-testo": 66,
+      "parzialmente-applicato": 1,
+      "da-applicare": 1
+    }
+  },
+  "baselineSha256": "48abc68bb84a753c5f98cd3820f2dfcac72a3851f1d94bb77996f9f5bce30ec1",
+  "auditSha256": "4d36c9a298953ff645a3ddc4babea1f27428483ed6b3378077168c0fe5f47f69",
+  "handoffSha256": "a1241ec901c9e2e2571cffb9b46edb1f7a858d0303f5fa1e1aa4c5966d5f3234",
+  "releaseApproved": false,
+  "supplementaryIds": [
+    "C05-01",
+    "FM06-01",
+    "FM06-02",
+    "FM07-01",
+    "FM07-02",
+    "FM12-01",
+    "FM12-02",
+    "P03-08",
+    "P05-24",
+    "P05-25",
+    "P09-07",
+    "P10-03",
+    "P11-06"
+  ]
+}

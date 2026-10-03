@@ -1,0 +1,28 @@
+{
+  "acquired_at": "2026-10-02",
+  "purpose": "Evidenze primarie delle integrazioni nazionali VOL-01 e VOL-07; esclusa la normativa Campania",
+  "immutable": true,
+  "files": [
+    {
+      "file": "gu-2026-02-19-41.pdf",
+      "url": "https://www.gazzettaufficiale.it/eli/gu/2026/02/19/41/sg/pdf",
+      "bytes": 2764135,
+      "sha256": "C1EC1EBAD22C8A744E6E0B5C4547770BB4DC9F5E78027F1F714E7B791D40C2B2",
+      "use": "DL19/2026, disposizioni modificatrici e decorrenza; non intero fascicolo trasferito al libro"
+    },
+    {
+      "file": "gu-2026-05-04-101.pdf",
+      "url": "https://www.gazzettaufficiale.it/eli/gu/2026/05/04/101/sg/pdf",
+      "bytes": 4087262,
+      "sha256": "493FF9E6CF6C67801EC529D453170E99DCC698E43A73E6C5C53195B328745E9E",
+      "use": "DL19/2026 coordinato L50/2026: ricorso straordinario e disciplina transitoria accreditamento"
+    },
+    {
+      "file": "gu-2026-09-30-227.pdf",
+      "url": "https://www.gazzettaufficiale.it/eli/gu/2026/09/30/227/sg/pdf",
+      "bytes": 3379374,
+      "sha256": "5B57A2F001B3D2BC2687F62B9ED46EB610D4760CE32B727EBAD4B3A17D6A6974",
+      "use": "DPCM7/8/2026 art8 e DM3/8/2026 art12: pubblicazione e decorrenza LEA, senza consolidamento integrale degli allegati"
+    }
+  ]
+}

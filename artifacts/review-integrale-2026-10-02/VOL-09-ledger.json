@@ -1,0 +1,794 @@
+{
+  "volume": "VOL-09",
+  "date": "2026-10-02",
+  "status": "text-review-complete",
+  "chapters": [
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md",
+      "title": "I quattro profili e il ciclo integrato",
+      "sha256": "81d4d336b2ae08d81aaaf3dcdbd156fc3351f5be04fd2838240eda3807a440a7",
+      "lines": 374,
+      "words": 4910,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Grave tabella ciclo spezzata da heading r92, righe94-100 prive intestazione; heading artificiale287 interrompe caso. Pagamento110 confuso con liquidazione. Quiz B C C B C A coerenti; esercizio5classificazioni corrette. WBS204 attività anziché scomposizione deliverable da precisare. Fonti solo enti/norme generiche senza estremi documenti o URL. Introduzione ripete profili e metodo molte volte; promessa specialistica da verificare capitoli successivi."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-01",
+        "V09-05",
+        "V09-38"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md",
+      "title": "Governance: RUP, fasi, team e qualificazione",
+      "sha256": "a2f83f7baa3cd604acc09463b14ffc9147e2e975731ee41920858145bf08fcb3",
+      "lines": 321,
+      "words": 4290,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz B C B A B C corretti. Grave copertura: r48 esclusione soglie classi qualificazione, r128-134 solo indizi senza artt62-63 allegatoII4 livelli limiti e requisiti; RUP nomina requisiti art15 non insegnati, responsabili fase106 non distinzione due raggruppamenti. DEC118 eventuale senza coincidenza RUP/separatezza. Conflitto157 solo generico no art16 dichiarazione/astensione. RACI147 A organo competente confonde responsabilità valutazione commissione e approvazione. Soluzione299 non compila RACI richiesta. Heading232 fra domanda e risposta; codiciGOV diversi da titoli numerici; backstage formato2r64."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-06",
+        "V09-07",
+        "V09-08"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md",
+      "title": "Strategia, fabbisogni e programmazione",
+      "sha256": "7ce706e8ec26701706d1e06a8f03080e3793f77fa039cb5f09cbd3768ed7304a",
+      "lines": 416,
+      "words": 4986,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz B B B B C B corretti; ma1bisogno chiede e risposta risultato confonde distinzione didattica: meglio formulare disservizio attuale. Grave art37 programmazione mai triennalita/soglie/aggiornamento/elenchi/I5 né CUI, tutto rinviato201; lotti172-195 nessun art58 obbligo motivazione mancata divisione. Nessun valore economico con opzioni/rinnovi art14. Soluzione387 solo criterio senza nota svolta/KPI concreto. Nuclei tabella7 vs titoli5 disallineati; heading328 spezza fase3. Riferimenti indeterminati senza articolo/link."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-03",
+        "V09-09",
+        "V09-10"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md",
+      "title": "Progettazione della gara e documenti",
+      "sha256": "8ee18d031aae800f32d2ffe135c12e8577ad7a72906766abbf69a759b346bfb8",
+      "lines": 397,
+      "words": 4950,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz A B A B B B coerenti. Grave nuclei specialistici mancanti: requisiti128 noart94/95/98 esclusioni automatiche/non e selfcleaning, avvalimento/RTI solo nominati138; criteri179 noOEPV/minorprezzo casi108; soccorso238 noart101limiti/termini; decisioneavvio77 nonancorata17 decisionecontrarre elementiessenziali. Specifiche206 manca o equivalente/condizioni eccezionali precise. R122 capitolato noncontratto promessa senza conseguenza omette incorporazione capitolato. Soluzione367 noncompila4righe. Heading314 fase5 sotto fase4 spezza soluzione; nuclei7titoli5. Fonti generiche."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-11",
+        "V09-12",
+        "V09-13"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md",
+      "title": "Sotto soglia e procurement operativo",
+      "sha256": "bff4d9e9589496523e669a164cf207dd880d17b34efb20889f9e199a0041aa73",
+      "lines": 363,
+      "words": 4941,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            5
+          ],
+          "claim": "Soglie UE2026 e rotazione",
+          "url": "https://www.anticorruzione.it/documents/91439/280912844/Comunicato%2Bdel%2BPresidente%2Bdel%2B5%2Bnovembre%2B2025%2B-%2Bappalti%2Bviaggi%2Bistruzione.pdf/6c1c4e83-fb63-1c69-66e4-31ecc65700df?t=1762769463797",
+          "outcome": "Indice di ricerca primario conferma140000/216000 dal1gennaio2026; apertura PDF403. Non certificato l’intero quadro delle soglie."
+        },
+        {
+          "chapters": [
+            5
+          ],
+          "claim": "Rotazione ed eccezioni",
+          "url": "https://www.anticorruzione.it/documents/91439/a75341a9-396d-d56e-62d9-72fe358be151",
+          "outcome": "Estratto indicizzato ANAC riscontra eccezione sotto5000 e inviti non limitati; apertura403. Restano da ricostruire articolo vigente e condizioni cumulative."
+        }
+      ],
+      "findings": [
+        "Grave assenza totale importi art14/50 numoperatori e confine procedure, volutamente46/126; rotazione144 mancano presupposti deroga49commi4-6 e5000; controlli315-317 senza52 autodichiarazione/campione40000; interesse transfrontaliero48assente; stima96 mancaIVA/opzionirinnovi/cumulolotti esempio. Definizione30 sottoaltre soglie ambigua. Tabella134-142 spezzata heading137. Sei quizaperti soluzioni generalmente coerenti ma manca fattispecie per rotazioneQ6, chiamata motivazione rotazione richiesta indistinta. Esercizio293 dichiara impossibile soluzione senza dati che traccia nonfornisce, integrare dati e svolgimento. Avvisi mobili ripetuti sostituiscono teoria."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-14",
+        "V09-15"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "title": "Ecosistema digitale: PAD, PCP, BDNCP e FVOE",
+      "sha256": "2de9efc4b1bfc4ef710e7271107a238986b4509611eb0229e5def9a3dd8707fd",
+      "lines": 385,
+      "words": 4540,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz B B A C B C coerenti, distractorscaricaturali; Risposta corretta duplicata ogniquiz. Heading173 Quiz3 sotto Quiz2. Grave digitale specialista: mai PADcertificazione/registro, art25/26, 1gen2024, FVOEparteBDNCP, pubblicitalegaleeffetti/collegamentoATart28, TED/eFormsreg2019/1780; tutti rinviati genericamente. CIG201 sempreprocedura omette lotto. Esempiodigitale106 sequenza FVOEpoi pubblicita potrebbe confondere avvio/esito. Ripetizione CIGnonsanaerrore almeno6volte."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-02",
+        "V09-16"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+      "title": "Consip, MEPA, AQ, SDAPA e ASP",
+      "sha256": "e3ac12ee100c2ab46c203bf9c23a45422c3f32b002a262f6002676078ba78fac",
+      "lines": 376,
+      "words": 4982,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            7
+          ],
+          "claim": "MePA Lavori comprende nuove opere",
+          "url": "https://www.acquistinretepa.it/opencms/opencms/programma_approfondimenti_kit_lavori.html",
+          "outcome": "Pagina Consip aperta integralmente nel passaggio pertinente: conferma ambito più ampio della manutenzione."
+        }
+      ],
+      "findings": [
+        "Quiz B B C A B B corretti nella generalita. Grave obblighi acquisto aggregato solo verificare102/199 nessuna matrice enti/importi/categorie L488/1999art26 L296/2006commi449450 L208/2015ICT; AQ111-128 nonlimite4anni némono/multi riapertura precise art59; SDAPA163 nointeramenteelettronico/duratapertuttiglioperatori/tuttiinvitaticategoria artt32. ASP177 nonespande ApplicationServiceProvider. MePA132 limitazione lavorimanutenzione potenzialmenteobsoleta (verificare bandoLavoriattuale). Esercizio tabella risolta soloalternative senza importidati nonseleziona; confronto strumenti molte ripetizioni."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-17",
+        "V09-18",
+        "V09-19"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md",
+      "title": "Governo dell'esecuzione",
+      "sha256": "709c04ff95c343176fd44c39bc85bbbcbd1b15dc29401ca09ee6efcb9f3a7722",
+      "lines": 311,
+      "words": 3775,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Sei quiz aperti coerenti generalita. Grave copertura tuttoesecuzione solo nominato: art119 subappaltopresupposti/autorizzazioni/responsabilita;120modifiche tassonomia/limiti/prorogaopzionevsponte;121sospensione non genericanonconvenienza170;60revisioneprezzi clausolaobbligatoria/separateworkservices e allegatoII2bis assenti;126penali0.5-1.5permille/10%verificare;CCT192 nofunzioni/effettiobbligatorieta;collaudoCRE soloelenco. R52DECquando previsto; ufficiofinanziarioliquidazione impropria generalizzazione. R132pagamentosempredopoprestazione ometteanticipazione125. Head80 divide elenco. Soluzione263 nonmatricecompilata. Metadata sourceblocker esplicito."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-20",
+        "V09-21",
+        "V09-22"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md",
+      "title": "Rimedi, precontenzioso e contenzioso",
+      "sha256": "b8241db3edac643b1263217e789c536b7409b19a8eba77831fa1fce22bb17424",
+      "lines": 353,
+      "words": 4755,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            9
+          ],
+          "claim": "Accesso speciale art36",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2023-03-31;36~art36!vig=",
+          "outcome": "Riscontro primario indicizzato della disponibilità reciproca per primi cinque; apertura testo vigente non riuscita. La lacuna didattica è certa, non certificata ogni decorrenza processuale."
+        }
+      ],
+      "findings": [
+        "Grave assenza disciplina rimedi: accesso35/36 disponibilita automatica/top5/oscuramento/termine10giorni mancanti; precontenzioso220 natura vincolanteassenso/30gg nonspiegati; bonario210-211presupposti e arbitrato213 autorizzazione mancanti; giurisdizioneGAaffidamento/GOesecuzione noninsegnata; rito120CPA30gg mai; standstill18commi3-4 omesso e formulazioni299-305 soloautorita richiedeintegrazione effetto sospensivolegalericorsocautelare. Quiz B B C B B C generalmentecoerenti maQ1accesso istanza prima ignoradisponibilitaautomatica36 e tempiricorso nonattendonofascicolo. Tabella203-212spezzatahead209; head151fraQ2opzioni. 197sei datielencasette. Nessuna bibliografia leggibile finale."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-23",
+        "V09-24",
+        "V09-25"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md",
+      "title": "PNRR: architettura, milestone, target e ReGiS",
+      "sha256": "c5666942be9ba0efb66ffe1b00e92c9260c390a050aebd74b07f02cd5076a51b",
+      "lines": 284,
+      "words": 3972,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Sei quiz tutti NO coerenti ma poco discriminanti. Grave architettura PNRR53: nonNGEU/RRFreg2021/241 missionicomponenti REPowerEU governancecentrale/CID/OperationalArrangements pagamentiperformancebased calendario2026; milestone69 mancaqualitativo/targetquantitativo regart2, nonsolo definizionivariabilimisura85. Controlliregis136 noalimentazionesoggettoattuatore vsvalidazione titolare schemasequenza/frequenzaessenziale. Caso214 e mini252 senza dati/calendario reali soluzione268 criteri soltanto. Titoliartificialispezzano. Fonti finali assenti. R168fatturanonpagata avanzamentofinanziario precisare impegno/pagamentonondisponibile."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-26",
+        "V09-27"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md",
+      "title": "Gestione finanziaria, rendicontazione e controlli",
+      "sha256": "a4e793c52f49854f55bc7c7906a5db491e7167eeb85040a7594215994ffa946c",
+      "lines": 325,
+      "words": 4474,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz6aperti coerenti,5NO1dipende, doppiofinanziamentodistinto cofinanziamento corretto206/283. Grave gestione finanziaria nessuna legge136/2010art3 conto dedicatoanche nonesclusivo/comunicazioni7giorni/clausolaobblighi filiera; CUPL3/2003art11 noncitata; antifrode198 nonintenzionalita vsirregolarita, titolareeffettivo/ARACHNE/PIAFIT assenti; nonstrumenti controlliRRFart22/Regfin61. Ammissibilita120 ecatena senza esempioquote/IVA/periodocosti, nessuntrattamentofondiUEdiversiPNRR. R235CIGmancantefatturagia pagata nonrichiama divietopagamentoDL66/2014art25c3. Esercizio267 nessundato/soluzione, fonti320 senza estremi."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-28",
+        "V09-29"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md",
+      "title": "DNSH, CAM e procurement sostenibile",
+      "sha256": "1fffa28a40700afe93e24c41d768923f691028a22c56337d7acc074b379ab6ee",
+      "lines": 470,
+      "words": 6582,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            12
+          ],
+          "claim": "Guida DNSH aggiornata nel2024",
+          "url": "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/CIRCOLARI/2024/22/Circolare-del-14-maggio-2024-n-22.pdf",
+          "outcome": "Testo primario indicizzato della circolare22/2024 letto: richiama tassonomia, art17 e aggiornamento REPowerEU; apertura403. Non esclusi successivi atti2026."
+        }
+      ],
+      "findings": [
+        "Quiz B B B B C B corretti. Sei obiettiviDNSH88-95 corretti ma normativa2020/852art17 eRRF5assente, guideRGSversione/regimi1-2/mappatura/schedechecklist nonspiegate. Grave CAM129-162 manca art57comma2 obbligospecifichetecniche/clausole perinterovalore e criteripremiali considerareOEPV; nemmenoMASE decretiesempi arredi/edilizia, tuttoverificare. R137decidedovecollocarecriterio rischiatrattareobbligatorio comepremiale;158correggeparzialmente. Ciclovita160 noLCC formula/esempio. Head195divide opzioniQ3. Casoarredi356 maiidentificaCAMcriterio/prova reale; esercizio439solometaregola. Avvisi469scoraggianocitaredatisenzaoffrirliallettore. Ripetizione catena requisito/prova/controllo enorme."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-30",
+        "V09-31"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+      "title": "Project management pubblico",
+      "sha256": "1f7ac9ec59914e002cab33b5b8dfab6df1eb65880e6a6a22d7ab3f1174afc505",
+      "lines": 353,
+      "words": 4644,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "6quizaperti coerenti;10simulazioni schemi coerenti salvo3formazione prima tutti test dichiarataerrore284-288 senza ipotesi: possibiletraining parallelotest/UAT. Grave promessa usareWBS/Gantt ma nessunGantt visivo néesempi durate dipendenzecamminocritico/calcolo, WBS3livellirichiesta232 nonsvolta; tuttischemirisposta nomicampinondocumenticompleti. WBS66corretta vs1attivita204. R54risultatoprodotto confondeoutcome/output differenziati03/10. Segnaposto N-TR02-XX-04/08 r76,84,174 visibile. Head266simulazione2sottotitolo1. Lesson learned172/190plurale lessons. Fonti finali assenti. NessunriferimentometodologicoPM ufficiale."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-04",
+        "V09-32",
+        "V09-33",
+        "V09-34"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md",
+      "title": "Laboratorio: atti, casi e simulazioni",
+      "sha256": "90a7d37b20c5116dfd1e0c05e0da07d502dff88849036df3fbe8ce12a4d84b2b",
+      "lines": 477,
+      "words": 4761,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz C C B B B C corretti, maQ2generica possibile rispetto requisito disciplinamezziprova. Diecisimulazioni ecaso ragionati coerenti nel metodo, nessunveroatto/soglie/date/quote/formularisolta; dato mancante intenzionale ovunque rendeimpossibileapplicazionenormativa. Grave rubricar169/177 soglie noninserire senontraccia e rotazionerischio da motivare178 al posto presupposti49; distinguere valorecasoignoto e regolanormativa conoscibile. Accesso237timelinepartedallistanza ignoradisponibilitaautomatica36 aggiudicazione. Head187fraConsegna/testo;305sim10nelmezzo9. Fonti finali assenti. Grande ripetizione 10casirispetto capitoli precedenti, niente progresso quantitativo."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V09-35",
+        "V09-36"
+      ],
+      "hashMatches": true
+    }
+  ],
+  "externalClaimsChecked": [
+    {
+      "chapters": [
+        7
+      ],
+      "claim": "MePA Lavori comprende nuove opere",
+      "url": "https://www.acquistinretepa.it/opencms/opencms/programma_approfondimenti_kit_lavori.html",
+      "outcome": "Pagina Consip aperta integralmente nel passaggio pertinente: conferma ambito più ampio della manutenzione."
+    },
+    {
+      "chapters": [
+        5
+      ],
+      "claim": "Soglie UE2026 e rotazione",
+      "url": "https://www.anticorruzione.it/documents/91439/280912844/Comunicato%2Bdel%2BPresidente%2Bdel%2B5%2Bnovembre%2B2025%2B-%2Bappalti%2Bviaggi%2Bistruzione.pdf/6c1c4e83-fb63-1c69-66e4-31ecc65700df?t=1762769463797",
+      "outcome": "Indice di ricerca primario conferma140000/216000 dal1gennaio2026; apertura PDF403. Non certificato l’intero quadro delle soglie."
+    },
+    {
+      "chapters": [
+        5
+      ],
+      "claim": "Rotazione ed eccezioni",
+      "url": "https://www.anticorruzione.it/documents/91439/a75341a9-396d-d56e-62d9-72fe358be151",
+      "outcome": "Estratto indicizzato ANAC riscontra eccezione sotto5000 e inviti non limitati; apertura403. Restano da ricostruire articolo vigente e condizioni cumulative."
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "claim": "Accesso speciale art36",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2023-03-31;36~art36!vig=",
+      "outcome": "Riscontro primario indicizzato della disponibilità reciproca per primi cinque; apertura testo vigente non riuscita. La lacuna didattica è certa, non certificata ogni decorrenza processuale."
+    },
+    {
+      "chapters": [
+        12
+      ],
+      "claim": "Guida DNSH aggiornata nel2024",
+      "url": "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/CIRCOLARI/2024/22/Circolare-del-14-maggio-2024-n-22.pdf",
+      "outcome": "Testo primario indicizzato della circolare22/2024 letto: richiama tassonomia, art17 e aggiornamento REPowerEU; apertura403. Non esclusi successivi atti2026."
+    }
+  ],
+  "findings": [
+    {
+      "id": "V09-01",
+      "chapter": 1,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md",
+      "line": 92,
+      "severity": "grave",
+      "excerpt": "## Nucleo",
+      "problem": "Un titolo interrompe una tabella Markdown, lasciando le righe successive senza intestazione. Difetto analogo nel cap.5 r.137 e cap.9 r.209.",
+      "proposal": "Spostare i titoli fuori dalle tabelle e verificare il rendering delle strutture intere.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-02",
+      "chapter": 6,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "line": 173,
+      "severity": "grave",
+      "excerpt": "Quiz 3",
+      "problem": "Titoli di nucleo inseriti dentro unità didattiche: cap.6 dentro quiz2; cap.9 r.151 fra domanda2 e opzioni; cap.12 r.195 fra opzioni C e D; cap.2 r.232 fra domanda e risposta.",
+      "proposal": "Ricostruire la gerarchia dei titoli mantenendo domanda, opzioni, risposta e commento nella stessa unità; non limitarsi al CSS.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-03",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md",
+      "line": 328,
+      "severity": "medio",
+      "excerpt": "Fase 4",
+      "problem": "Titoli aggiunti spezzano fasi e casi: cap.3 fase3; cap.4 r.314 fase4; cap.8 r.80 elenco; cap.13 r.266 simulazione1; cap.14 rr.187 e305 consegna e simulazione9.",
+      "proposal": "Spostare ogni titolo all’inizio effettivo del blocco, rinumerare e riallineare mappa dei nuclei.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-04",
+      "chapter": 13,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+      "line": 76,
+      "severity": "medio",
+      "excerpt": "N-TR02-XX-04",
+      "problem": "Restano codici provvisori XX nei nuclei (anche rr.84,174).",
+      "proposal": "Sostituire i segnaposto con gli identificatori reali dopo verifica della mappa; eliminare dal testo commerciale gli apparati di audit.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-05",
+      "chapter": 1,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md",
+      "line": 110,
+      "severity": "medio",
+      "excerpt": "Il pagamento riguarda la liquidazione",
+      "problem": "Confusione fra due fasi della spesa.",
+      "proposal": "Distinguere liquidazione, ordinazione e pagamento e indicare l’ordinamento contabile assunto.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-06",
+      "chapter": 2,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md",
+      "line": 48,
+      "severity": "grave",
+      "excerpt": "classi",
+      "problem": "Qualificazione e autonomia di acquisto sono promesse ma il testo evita classi, soglie e requisiti: i soli indizi di capacità alle rr.128–134 non permettono di risolvere un caso.",
+      "proposal": "Sviluppare artt.62–63 e allegato II.4 nel testo vigente, livelli, requisiti, acquisti autonomi e obblighi di ricorso a soggetti qualificati, con esempio datato.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-07",
+      "chapter": 2,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md",
+      "line": 106,
+      "severity": "grave",
+      "excerpt": "responsabili di fase",
+      "problem": "Nomina/requisiti del RUP e articolazione delle fasi restano descrittivi; DEC presentato come eventuale senza distinguere funzione e nomina separata.",
+      "proposal": "Integrare art.15, allegato I.2 e regole DEC con gruppi di fasi corretti, nomina, requisiti, responsabilità e caso di separazione RUP/DEC.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-08",
+      "chapter": 2,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md",
+      "line": 147,
+      "severity": "medio",
+      "excerpt": "RACI",
+      "problem": "La matrice assegna genericamente valutazione delle offerte ad altri organi e liquidazione alla finanza, senza distinguere attività tecnica, approvazione e competenze dell’ente.",
+      "proposal": "Dichiarare il modello organizzativo, separare valutazione/adozione del provvedimento e motivare A/R per ogni attività.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-09",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md",
+      "line": 201,
+      "severity": "grave",
+      "excerpt": "programmazione",
+      "problem": "Assenti disciplina operativa della programmazione e un esempio: durata, aggiornamento, presupposti di inserimento, CUI e schemi non sono insegnati.",
+      "proposal": "Integrare art.37 e allegato I.5 distinguendo lavori/acquisti, soglie e aggiornamenti; compilare una riga di programma.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-10",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md",
+      "line": 172,
+      "severity": "grave",
+      "excerpt": "lotti",
+      "problem": "La scelta dei lotti non espone la regola e l’onere di motivazione dell’art.58; il calcolo del valore non tratta sistematicamente IVA, opzioni, rinnovi e aggregazione.",
+      "proposal": "Spiegare artt.14 e58 con calcolo numerico e caso di mancata suddivisione motivata.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-11",
+      "chapter": 4,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md",
+      "line": 128,
+      "severity": "grave",
+      "excerpt": "requisiti",
+      "problem": "Cause automatiche/non automatiche, grave illecito professionale, self-cleaning, avvalimento e RTI sono assenti o solo nominati; mancano condizioni per OEPV/minor prezzo e soccorso istruttorio.",
+      "proposal": "Sviluppare nuclei distinti con artt.94–101 e108, termini, limiti e casi; risolvere un esempio di requisito e uno di soccorso.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-12",
+      "chapter": 4,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md",
+      "line": 77,
+      "severity": "grave",
+      "excerpt": "avvio",
+      "problem": "La documentazione della gara è descritta senza gli elementi essenziali della decisione di contrarre e dell’affidamento diretto; nessun atto effettivamente compilato.",
+      "proposal": "Integrare art.17 e fornire almeno un atto annotato, distinguendo motivazione, requisiti e oggetto.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-13",
+      "chapter": 4,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md",
+      "line": 122,
+      "severity": "medio",
+      "excerpt": "promessa senza conseguenza",
+      "problem": "Il rapporto capitolato/contratto può far pensare che un obbligo non ripetuto nel contratto non produca effetti, senza considerare il richiamo e l’incorporazione documentale.",
+      "proposal": "Precisare gerarchia, richiamo e valore dei documenti contrattuali, evitando una regola assoluta.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-14",
+      "chapter": 5,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md",
+      "line": 46,
+      "severity": "grave",
+      "excerpt": "importi",
+      "problem": "Il capitolo sotto soglia esclude deliberatamente gli importi e non sviluppa procedure, numero di operatori, interesse transfrontaliero, deroghe alla rotazione e controlli semplificati.",
+      "proposal": "Inserire quadro datato degli artt.48–52, soglie UE2026 e nazionali distinte, rotazione con presupposti cumulativi/eccezioni e verifica requisiti sotto40000 euro; aggiungere casi con importi.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-15",
+      "chapter": 5,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md",
+      "line": 30,
+      "severity": "medio",
+      "excerpt": "altri limiti",
+      "problem": "La definizione di sotto soglia mescola soglia europea e altri limiti interni.",
+      "proposal": "Definire sotto soglia rispetto alle soglie UE e distinguere i limiti nazionali che selezionano la procedura.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-16",
+      "chapter": 6,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "line": 106,
+      "severity": "grave",
+      "excerpt": "FVOE",
+      "problem": "Il flusso digitale non insegna certificazione PAD, pubblicità legale, rapporto PCP/BDNCP/FVOE, adempimenti di trasparenza ed eForms con sufficienti riferimenti e passaggi.",
+      "proposal": "Integrare artt.19–36 e atti ANAC applicabili, una sequenza temporale reale e il significato del lotto per CIG; qualificare la tabella se non cronologica.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-17",
+      "chapter": 7,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+      "line": 102,
+      "severity": "grave",
+      "excerpt": "obblighi",
+      "problem": "Gli obblighi di acquisto centralizzato, inclusi quelli ICT, sono rinviati alla verifica: non esiste la matrice ente/oggetto/importo/strumento/eccezione promessa.",
+      "proposal": "Sviluppare le pertinenti disposizioni delle leggi488/1999,296/2006 e208/2015 e compilare casi, distinguendo obbligo di parametro e obbligo di strumento.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-18",
+      "chapter": 7,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+      "line": 132,
+      "severity": "grave",
+      "excerpt": "lavori di manutenzione",
+      "problem": "Il MePA è limitato ai lavori di manutenzione, ma Consip documenta dal2022 il Bando Lavori per tutte le tipologie, incluse nuove opere.",
+      "proposal": "Correggere l’ambito e distinguerlo dallo SDA Lavori di manutenzione; citare la documentazione specifica del bando.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-19",
+      "chapter": 7,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+      "line": 111,
+      "severity": "grave",
+      "excerpt": "accordo quadro",
+      "problem": "AQ e SDAPA sono spiegati senza durata ordinaria/deroghe, modelli di aggiudicazione, apertura continua e inviti agli ammessi per categoria. ASP non è sciolto.",
+      "proposal": "Integrare artt.32 e59, una tabella di confronto operativa ed espandere Application Service Provider.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-20",
+      "chapter": 8,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md",
+      "line": 164,
+      "severity": "grave",
+      "excerpt": "subappalto",
+      "problem": "Il capitolo di esecuzione elenca istituti senza insegnare presupposti/limiti di subappalto, modifiche, proroghe, sospensione, penali, collaudo/CRE e CCT; la matrice stessa conserva source-blocker.",
+      "proposal": "Completare artt.119–126 e allegati pertinenti con regole, soggetti, atti, termini ed esempi; verificare le fonti bloccanti prima della chiusura.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-21",
+      "chapter": 8,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md",
+      "line": 188,
+      "severity": "grave",
+      "excerpt": "clausola",
+      "problem": "La revisione prezzi è trattata come eventualità contrattuale senza esporre obbligatorietà della clausola e meccanismi distinti per lavori/servizi-forniture.",
+      "proposal": "Sviluppare art.60 e allegato II.2-bis nella versione vigente e un calcolo svolto, distinguendo prezzi e altre modifiche.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-22",
+      "chapter": 8,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md",
+      "line": 132,
+      "severity": "medio",
+      "excerpt": "pagamento",
+      "problem": "Il pagamento segue sempre la verifica della prestazione nella sequenza proposta; manca l’anticipazione.",
+      "proposal": "Dichiarare che la sequenza descrive il saldo/corrispettivo della prestazione e trattare separatamente anticipazione e garanzia ai sensi dell’art.125.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-23",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md",
+      "line": 203,
+      "severity": "grave",
+      "excerpt": "accesso",
+      "problem": "Il caso parte soltanto da una richiesta, senza disponibilità digitale automatica, regime dei primi cinque, oscuramento e rito speciale dell’art.36.",
+      "proposal": "Insegnare artt.35–36 con timeline e presupposti; distinguere accesso e impugnazione dell’aggiudicazione, senza indurre ad attendere il fascicolo oltre i termini.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-24",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md",
+      "line": 299,
+      "severity": "grave",
+      "excerpt": "cautelare",
+      "problem": "Mancano standstill sostanziale/processuale, riparto di giurisdizione, termini del rito appalti, effetti del precontenzioso, presupposti di accordo bonario e arbitrato.",
+      "proposal": "Completare artt.18,210ss.,220 e art.120 CPA nel testo corrente, con eccezioni e casi; precisare le ipotesi di divieto legale di stipula indipendenti da un ordine giudiziale.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-25",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md",
+      "line": 197,
+      "severity": "lieve",
+      "excerpt": "sei",
+      "problem": "Annuncia sei elementi e ne elenca sette.",
+      "proposal": "Allineare il numero all’elenco.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-26",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md",
+      "line": 53,
+      "severity": "grave",
+      "excerpt": "architettura",
+      "problem": "Mancano struttura giuridica RRF/PNRR, missioni/componenti e REPowerEU, CID/accordi operativi, natura performance-based e calendario2026; milestone e target non sono fissati come qualitativi/quantitativi.",
+      "proposal": "Integrare regolamento2021/241, governance e quadro temporale datato; distinguere livelli UE/misura/progetto e compilare un esempio.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-27",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md",
+      "line": 136,
+      "severity": "grave",
+      "excerpt": "ReGiS",
+      "problem": "Il monitoraggio resta una richiesta di coerenza; non spiega soggetti, alimentazione, prevalidazione/validazione, scadenze e controlli.",
+      "proposal": "Descrivere un ciclo operativo con responsabilità e fonte RGS, separando regole comuni e istruzioni della misura.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-28",
+      "chapter": 11,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md",
+      "line": 120,
+      "severity": "grave",
+      "excerpt": "tracciabilità",
+      "problem": "CIG/CUP sono nominati senza disciplina di conti, comunicazioni, filiera, clausole, fatture e conseguenze; il caso di fattura già pagata senza CIG non espone la specifica regola ostativa.",
+      "proposal": "Integrare legge136/2010 art.3, legge3/2003 art.11 e DL66/2014 art.25, con ambiti/esclusioni e soluzione del caso; mostrare un calcolo di spesa ammissibile.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-29",
+      "chapter": 11,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md",
+      "line": 198,
+      "severity": "grave",
+      "excerpt": "antifrode",
+      "problem": "La distinzione frode/irregolarità, titolare effettivo, conflitto di interessi e controlli è ridotta a elenchi generici.",
+      "proposal": "Definire gli istituti e collegare artt.22 RRF e61 regolamento finanziario alla documentazione del soggetto attuatore, con caso risolto e fonti correnti.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-30",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md",
+      "line": 88,
+      "severity": "grave",
+      "excerpt": "DNSH",
+      "problem": "I sei obiettivi sono corretti, ma non sono insegnati fondamento, regimi e raccordo della Guida RGS con schede e verifiche ex ante/ex post.",
+      "proposal": "Integrare art.17 regolamento2020/852 e disciplina RRF, identificare edizione della guida/istruzioni applicabili e compilare una scheda con evidenze.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-31",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md",
+      "line": 129,
+      "severity": "grave",
+      "excerpt": "CAM",
+      "problem": "Non emerge con precisione il minimo obbligatorio di specifiche tecniche e clausole contrattuali, distinto dai criteri premianti; nessun decreto/criterio reale sviluppato nel caso arredi.",
+      "proposal": "Integrare art.57c2 e decreto CAM vigente per la categoria, riprodurre un criterio breve con mezzo di prova e verifica; evitare che un requisito obbligatorio diventi soltanto premiale.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-32",
+      "chapter": 13,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+      "line": 284,
+      "severity": "medio",
+      "excerpt": "formazione",
+      "problem": "La soluzione considera errata la formazione prima del completamento dei test senza fornire dipendenze che lo rendano necessario.",
+      "proposal": "Specificare il vincolo del caso o ammettere formazione parallela ai test quando sostenibile; distinguere dipendenza tecnica da scelta organizzativa.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-33",
+      "chapter": 13,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+      "line": 54,
+      "severity": "medio",
+      "excerpt": "risultato",
+      "problem": "Risultato coincide col prodotto finale, mentre altri capitoli lo distinguono dall’output; WBS è definita per attività nel cap.1 r.204 e per deliverable qui.",
+      "proposal": "Uniformare output/outcome e convenzione WBS; usare il medesimo progetto per dimostrare le differenze.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-34",
+      "chapter": 13,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+      "line": 232,
+      "severity": "grave",
+      "excerpt": "WBS",
+      "problem": "Il toolkit PM non contiene una WBS a tre livelli risolta, un Gantt con date/durate o un calcolo del percorso critico; le soluzioni indicano criteri anziché artefatti.",
+      "proposal": "Fornire dataset, artefatti compilati e ragionamento verificabile; associare una fonte metodologica identificabile.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-35",
+      "chapter": 14,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md",
+      "line": 169,
+      "severity": "grave",
+      "excerpt": "soglie",
+      "problem": "La prudenza sui dati mancanti della traccia è estesa alle norme che il candidato deve sapere; simulazioni senza importi, atti o timeline non verificano competenza specialistica.",
+      "proposal": "Dare i fatti necessari e chiedere l’applicazione del diritto insegnato, con soluzioni complete e rubriche; non sostituire la teoria con inviti a verificare.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-36",
+      "chapter": 14,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md",
+      "line": 1,
+      "severity": "grave",
+      "excerpt": "laboratorio",
+      "problem": "La matrice dichiara diario e piano30/60/90 presenti nel capitolo14, ma il testo non li contiene; numerose evidenze citano titoli non corrispondenti.",
+      "proposal": "Riallineare matrice e testo sulla presenza effettiva, mantenendo aperti i nuclei mancanti.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-37",
+      "chapter": 0,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/planning/01-indice-analitico-vol-09.md",
+      "line": 1,
+      "severity": "grave",
+      "excerpt": "Appendice A",
+      "problem": "Le cinque appendici A–E promesse nell’indice analitico non sono nei capitoli né nelle21unità dell’export corrente controllato dal coordinatore.",
+      "proposal": "Produrre le appendici con contenuto effettivo oppure rivedere la promessa editoriale e riallocare i nuclei necessari nel corpo; controllare anche il PDF.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V09-38",
+      "chapter": 1,
+      "path": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md",
+      "line": 1,
+      "severity": "grave",
+      "excerpt": "quattro profili",
+      "problem": "Il dossier bandi ha solo tre procedure documentate; RUP avanzato e procurement digitale restano non validati. La lunghezza reale supera ampiamente il piano senza colmare i nuclei sostanziali.",
+      "proposal": "Completare fonti rappresentative e copertura dei profili promessi; sostituire ripetizioni con teoria e prove effettive, senza dichiarare completezza dai soli metadati.",
+      "status": "non applicato"
+    }
+  ],
+  "limitations": [
+    "Lettura integrale dei14capitoli, quiz e casi; letti integralmente indice analitico, matrice e due dossier di supporto.",
+    "Verifiche esterne mirate: numerose fonti primarie hanno risposto403; nessuna certificazione integrale del Codice vigente, dei termini processuali o delle istruzioni2026. Le proposte normative richiedono consolidamento sulle fonti prima dell’applicazione.",
+    "PDF in rapporto separato; la lettura testuale non certifica impaginazione.",
+    "Nessun libro o fonte modificato."
+  ]
+}

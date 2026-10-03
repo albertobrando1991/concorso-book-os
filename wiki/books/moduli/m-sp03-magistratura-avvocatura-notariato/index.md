@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.55
-updated_at: 2026-08-14T18:25:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -35,10 +35,10 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SP03
 - Copertura: tre selezioni giuridiche ad alta specializzazione, trattate su binari distinti — concorso in magistratura ordinaria, concorso per procuratore dello Stato presso l'Avvocatura dello Stato, concorso notarile.
 - Fase roadmap: 4
-- Stato: sette capitoli completi; review integrale e correzione lessicale chiuse il 2026-08-14 ([[reviews/pipeline/VOL-12/27-review-integrale-m-sp03-fase-c]]).
+- Stato: sette capitoli corretti e audit specialistico del 3 ottobre 2026 concluso; nuovo PDF e revisione di volume necessari.
 
 ## Tre binari, non una famiglia unica
-Le tre selezioni condividono l'impianto di studio giuridico e la scrittura d'esame, ma hanno banditore, requisiti di accesso, prove e materie differenti. Il modulo le tratta come binari separati e lo dichiara al lettore fin dalla prima pagina: le sezioni di mappa, prove, materie specialistiche e piano di studio sono triplicate, non condivise. Un lettore che prepara il notariato deve poter saltare i binari che non lo riguardano senza perdere il filo.
+Le tre selezioni condividono l'impianto di studio giuridico e la scrittura d'esame, ma hanno banditore, requisiti di accesso, prove e materie differenti. Il modulo le tratta come binari separati e lo dichiara al lettore fin dalla prima pagina: requisiti e prove sono distinti per percorso; scrittura e pianificazione sono comuni soltanto nei metodi trasferibili, con applicazioni separate. Un lettore che prepara il notariato deve poter saltare i binari che non lo riguardano senza perdere il filo.
 
 Il concorso notarile merita una precisazione ulteriore in premessa: l'accesso al notariato non è accesso al pubblico impiego. Il notaio è pubblico ufficiale ma esercita una libera professione. Il modulo lo include per affinità di preparazione, non per omogeneità di sbocco, e deve dirlo esplicitamente per non generare un'aspettativa sbagliata.
 
@@ -48,7 +48,7 @@ Restano esclusi l'esame di abilitazione all'esercizio della professione forense,
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Non è né un manuale istituzionale di diritto né un corso di preparazione: fornisce metodo, mappa e strategia di studio, e rinvia ai manuali istituzionali per il contenuto delle materie. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Non è né un manuale istituzionale di diritto né un corso di preparazione: fornisce metodo, mappa e strategia di studio, e rinvia ai manuali istituzionali per il contenuto delle materie. Le sezioni normative e specialistiche derivano da fonti consolidate e sono state verificate selettivamente nei punti dichiarati.
 
 ## Capitoli
 - [[books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario|Mappa delle tre professioni e scelta del binario]]
@@ -65,4 +65,4 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 Le fonti specialistiche ufficiali sono raccolte nelle source note dichiarate dai capitoli e verificate negli audit degli step 05-15. Ogni dato mobile resta accompagnato dall'obbligo di controllo sul bando vigente.
 
 ## Prossimo passo
-Nessuno per questo modulo: fase C chiusa. Restano la review finale di volume, il preflight e la preparazione della consegna; la conferma conclusiva dello step 24 è umana.
+Produrre e controllare il nuovo PDF, poi completare revisione di volume e preflight secondo la pipeline. Il freeze del testo non equivale a pubblicabilità attestata.

@@ -1,0 +1,43 @@
+from pathlib import Path
+import re,hashlib,shutil
+A=Path('artifacts/correzioni-collana-2026-10-02');R=Path('wiki/raw/correzioni-collana-2026-10-02');C=Path('wiki/reviews/correzioni-collana-2026-10-02/archive');C.mkdir(parents=True,exist_ok=True)
+for n in ['vvf-diario-20260928.pdf','dpr207-art3-current.html']:
+ p=A/n;assert p.exists() and p.stat().st_size>1000
+ if n.endswith('.pdf'):assert p.read_bytes().startswith(b'%PDF')
+ if not (R/n).exists():shutil.copyfile(p,R/n)
+p=Path('wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md');t=p.read_text(encoding='utf8');arc=C/('pre-correzioni-'+p.name)
+if not arc.exists():arc.write_text(t,encoding='utf8')
+t=t.replace('> **È il requisito più selettivo e meno noto dell\'intero modulo.** Un candidato che non raggiunge 14/10 naturali è escluso dal ruolo di vigile del fuoco in modo assoluto, perché la correzione non è ammessa — ma **lo stesso candidato è ammissibile al binario ispettivo o direttivo**, dove la correzione è consentita.','> Il valore del visus naturale inferiore al requisito non consente una prognosi permanente né dimostra idoneità ad altri ruoli. La correzione con lenti ammessa per ispettore antincendi e vice direttore ha limiti specifici; ulteriori parametri oculari, uditivi e condizioni restano da accertare dalla commissione.').replace('> Non è un dettaglio medico: è una **decisione di binario che si prende prima di studiare**, e che il candidato può verificare da solo in una visita oculistica. Va collocata nel capitolo di scelta del binario, con l\'invito esplicito a verificare il proprio visus **prima** di impostare la preparazione.','> L’accertamento preliminare con un professionista orienta la conoscenza della propria situazione; non sostituisce il giudizio medico-legale concorsuale.')
+t=t.replace('> **L\'unica leva interamente sotto controllo del candidato.**','> **Una leva di pianificazione soggetta a condizioni e tempi.**').replace('> **È l\'unica leva interamente sotto il tuo controllo.**','> **Titoli e termini.**')
+t+='''
+## Rettifica e consolidamento del 3 ottobre 2026
+
+Riletti bando 400, artt. 1–2 (PDF pp. 4–6), artt. 7–8 nelle evidenze già consolidate; Allegato A, pagine 1–6 e 8–13 nei passaggi pertinenti; D.M. 166/2019 artt. 1–2, PDF pp. 2–3. Il bando è un caso datato, non la regola di qualunque futuro reclutamento.
+
+- Riserve nominali 180/140/60 su 400, residuo nominale 20. Il residuo non è un minimo garantito ai soli candidati senza riserve: anche i riservatari concorrono secondo merito. I posti riservati non coperti sono devoluti agli altri idonei. Esempio puramente aritmetico: 10 posti non coperti nella quota 140 producono 30 posti non vincolati a quella riserva, da attribuire secondo graduatoria; nessuna previsione di probabilità individuale.
+- Requisiti: non aver compiuto 26 anni alla scadenza, elevazione per servizio militare effettivo fino a tre anni; volontari iscritti da almeno un anno limite di 37. Questa agevolazione non equivale alla riserva del 35%, che richiede tre anni e 120 giorni. Le condizioni possono maturare durante il periodo di domanda, entro il termine pertinente. Eccezione diploma entro preselettiva; idoneità psico-fisica al momento dell'accertamento e sino all'immissione. Condotta generale e singole cause ostative sono distinte; la condanna irrevocabile per delitto non colposo non esaurisce il controllo.
+- Visus: nessuna idoneità complessiva si deduce da 12/10 naturali; la somma non informa sul valore dell'occhio peggiore, sul campo visivo, visione binoculare e motilità. Per ruoli operativi interessati, correzione ammessa nei limiti dell'art. 1 e non per il vigile. La valutazione attuale non è una prognosi permanente. Udito: oltre alla media di 25 dB sulle frequenze 500–3000, esiste il limite di 45 dB sulle frequenze 4000–8000 e divieto di protesi acustiche; evitare presentazione parziale come test d'idoneità completo.
+- Prova 1: media aritmetica dei tre moduli, ciascuno almeno 21. Trave: soli esiti utili 30/25/21 nei tentativi ammessi e nel tempo complessivo. Non assegnare 28 alla trave. Modulo C: regolazione con braccia in alto e dita distese/unite; successiva posizione di partenza con braccia lungo i fianchi.
+- L'ordine delle prove è stabilito dalla commissione e può variare. Il cronometraggio elettronico non elimina rimedi o controlli; in caso di guasti è previsto il tempo manuale più favorevole nelle condizioni dell'allegato. La regola sull'infortunio riguarda l'istanza specifica di riesame, non cancella ogni tutela giuridica.
+- I rapporti fra valori minimi/massimi non misurano il rendimento individuale dell'allenamento. Prima validità e soglie, poi stabilità, tempi disponibili e miglioramento realistico. Un punto aggiunto a un modulo della Prova 1 pesa un terzo nella sua media, mentre un punto di una prova monomodulo pesa uno. Non ricavare punteggi intermedi da interpolazione non prevista nella tabella acquisita.
+- Patenti: massimo 5 e non cumulabilità; possesso e dichiarazione entro domanda, valutazione dopo il superamento delle prove. Conseguire una patente non è esito certo né una scelta che precede sempre la sicurezza o l'idoneità.
+
+## Diario VVF del 28 settembre 2026 — acquisizione completa
+
+https://portale.inpa.gov.it/api/media/f199127d-d327-4730-8f20-fb0992b61209 , allegato alla scheda inPA del concorso 400, pubblicato il 28 settembre. Letto integralmente, tre pagine. Prova 14–15 ottobre all'Ergife di Roma con turni per cognome; tablet dell'organizzazione associato al candidato, lettera di partecipazione e documento, check-in/check-out e conferma dell'invio. Le istruzioni d'uso sono fornite in sede; il diario non permette di inventare interfaccia, numero dei quesiti o penalità. Annuncia ulteriori comunicazioni il 7 ottobre, data futura rispetto al presente controllo. Nel libro le date sono esempio del bando campione, non promessa di calendario stabile.
+
+Il bando elenca quattro tipologie e ne prevede raggruppamento/ordinamento, ma non va trasformato nell'affermazione che l'elenco testuale fissi necessariamente l'ordine dei blocchi nel tablet. Avviso corrente sostituisce l'ipotesi precedente di lettura ottica cartacea.
+
+Calcolo didattico, non punteggio ufficiale VVF: con corretto +G, errore −P e omissione O, E=pG−(1−p)P; conviene rispetto all'omissione se p>(P+O)/(G+P), per G+P positivo. Con +1/−0,1 e O=0, quattro opzioni equiprobabili danno 0,175; la sola penalità non rende negativo ogni tentativo casuale. Una penalità dell'omissione va inserita con O negativo.
+'''
+for n in ['vvf-diario-20260928.pdf','dpr207-art3-current.html']:t+=f'\nRaw `{(R/n).as_posix()}`, SHA256 `{hashlib.sha256((R/n).read_bytes()).hexdigest()}`.\n'
+t=re.sub(r'^updated_at:.*$','updated_at: 2026-10-03',t,flags=re.M);t=re.sub(r'^checked_at:.*$','checked_at: 2026-10-03',t,flags=re.M);p.write_text(t,encoding='utf8')
+p=Path('wiki/sources/parametri-fisici-concorsi-dpr-207-2015-vol-12.md');t=p.read_text(encoding='utf8');arc=C/('pre-correzioni-'+p.name)
+if not arc.exists():arc.write_text(t,encoding='utf8')
+t=t.replace('| **40** | **20** |','| **≥ 40 kg** | **≥ 20 kg** |').replace('| **fra 7 e 22** | **fra 12 e 30** |','| **≥ 7% e ≤ 22%** | **≥ 12% e ≤ 30%** |').replace('| **40** | **28** |','| **≥ 40%** | **≥ 28%** |').replace('Il d.m. 198/2003 resta rilevante per idoneità **psichica e attitudinale**, non per la statura.','Il D.M. 198/2003 concerne la Polizia di Stato e resta rilevante per gli altri requisiti fisici, psichici e attitudinali nel suo ambito; la sostituzione dei limiti di statura non cancella tutte le disposizioni fisiche.')
+t+='''
+## Articolo 3 verificato il 3 ottobre 2026
+
+Testo corrente Normattiva: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2015-12-17;207~art3!vig= . Letti entrambi i commi. Il comma 2 ammette un adeguamento dei valori strumentali fino al massimo del 10% rispetto ai limiti per condizioni tecniche o individuali; non è un incremento automatico che il candidato si attribuisce da solo. Applicazione e accertamento competono alla procedura e commissione secondo le direttive. Tabella Allegato A riletta nella copia già acquisita (PDF p. 4): operatori e unità integrati sopra. Art. 2, comma 2, nella copia aggiornata 2017: esclusione dei gruppi sportivi come atleti/istruttori e bande musicali; le specifiche discipline dei ruoli vanno considerate. La misurazione preliminare non sostituisce l'idoneità complessiva né assicura che una condizione sia modificabile.
+''';t=re.sub(r'^updated_at:.*$','updated_at: 2026-10-03',t,flags=re.M);p.write_text(t,encoding='utf8')
+print('SP02 fonti rettificate; diario ufficiale acquisito; nessun calendario futuro inventato')

@@ -1,0 +1,567 @@
+{
+  "volume": "VOL-01",
+  "chapters": [
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/introduzione.md",
+      "sha256": "14029d77081c45687cc6bd7bca84531e554c1cb22cb4aef1b73ab47c7b1f281d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-49"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/il-nuovo-candidato-pubblico.md",
+      "sha256": "dcebc7ec82dda3e7cf46a355751c4f6fafaf4858e071311d3a99fc249af81457",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+      "sha256": "2c583598b7ef05694bce6d0e359a71f9c4534f29baab8db8af3ffd9b4f03ab57",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-01",
+        "V01-43"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/il-metodo-bando.md",
+      "sha256": "6cf59171517f02c66e549ff5018e9edaa69e77d019b0e20d7329f2313834dd1a",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-49"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+      "sha256": "db7781d7e0f8d5d3b73f7f81375fe23ed3090f5be3b64d09e44375506e3e55fd",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-02",
+        "V01-03",
+        "V01-04",
+        "V01-05",
+        "V01-06",
+        "V01-07",
+        "V01-08",
+        "V01-09"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
+      "sha256": "cef0c0465d4b63ed21e5791d0a5c058f10be1b855d4ce17cdcaf6422a01846ab",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-10",
+        "V01-11",
+        "V01-12"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ],
+      "hashDeltaNote": "Freeze metadata only, or metadata already covered by recorded full reread; substantive content unchanged."
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
+      "sha256": "d54aace2050b3cf307c95636c69151756c894a95feb3c0c3c055e97682435238",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-13",
+        "V01-14",
+        "V01-15"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ],
+      "hashDeltaNote": "Freeze metadata only, or metadata already covered by recorded full reread; substantive content unchanged."
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/trasparenza-anticorruzione-privacy.md",
+      "sha256": "526d9c0e9531f452b93ecfd55f083f36554f5899caabe6be17f9a5d2e2276b08",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-16",
+        "V01-17",
+        "V01-18",
+        "V01-49"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+      "sha256": "428766e3fcd4057ea89afa1cc089b87623f34a2afebccbf98c066875aa268e61",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-19",
+        "V01-20",
+        "V01-21",
+        "V01-49"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+      "sha256": "5866365c772967f8a112b5cf6377070fc144886e5b6ad2422ff28487102d29c4",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-22",
+        "V01-23",
+        "V01-24"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+      "sha256": "49cbc58790d33130d3576f0e197cbbc17fa1aa6b2a8977c854b5437f31265912",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-18",
+        "V01-25",
+        "V01-26",
+        "V01-27",
+        "V01-28",
+        "V01-29"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/inglese-concorsuale-essenziale.md",
+      "sha256": "162bb71bf3a4ea4603eda7e912ead4f377b352c026daf471e44150b34f38ac34",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-30",
+        "V01-31",
+        "V01-32"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+      "sha256": "8cc12a4724844e97573eabd7a679e7e22759ec06198b071409681a871e752c06",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-33"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ],
+      "hashDeltaNote": "Freeze metadata only, or metadata already covered by recorded full reread; substantive content unchanged."
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/metodo-di-studio-per-concorsi.md",
+      "sha256": "09fafc7c6bdac8e0fa0c63aa78d3084f58a31eee3f16692eddc279abef8c644b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-34"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+      "sha256": "0f15c4ed6a524a4b0c2da6ba0ca13e085b84f437fa166871d8cc0083d0a1b559",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-35"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+      "sha256": "935208474037ef0662244d5b00e9adc2559dc30e5149bb85d974be1ee5cdd592",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-36"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/la-prova-orale.md",
+      "sha256": "3ddc6426f19b6cf459adc7e3a836d2d79f1ad3ebdedeb64b8e90a3269b99b484",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+      "sha256": "c8df450a98b85d27ccb4ab2525e5eb53b5fd46cd7fe583bd3efd619de4391f08",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-37"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+      "sha256": "0bdf584ff8e88f230848faf925084799de6dc4e8cd29f09388d9b8af4f3c0c6d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-38"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+      "sha256": "123d361784708dcfb7a1612f1171f78fa50abdf0deb3b0d5e5a5e0ea6a26248a",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "sha256": "e5e97be6f8f7a41a513fdbe21c36df52cda9935fbff88faee0f7d677cc9b2b08",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-39"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/scegliere-moduli-integrativi.md",
+      "sha256": "47529ac0c6096750654262ca1d0f6f62fa41f57e23fc103587491e54b7a73d59",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-40",
+        "V01-49"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/sistema-adattabile.md",
+      "sha256": "ea89bafd5fb34030ed7a731206e5a2eb64d8facd1230bb3a03f59f3f965c2c53",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-41"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+      "sha256": "2f996ebccb38f936a9d5dcd4ee38a8c25dd0c8d6cee2e43cd6e5fe3708cb0f85",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-42"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/checklist-operative.md",
+      "sha256": "e1f50a6edd32bd766a8451d957a542bca950c69de5a4daa7e0b506000d2c71a0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-43"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/conclusione.md",
+      "sha256": "d44706c3f780f315aa3c346c5040d8e350ee5a9b4dacfed152b625fe87496d3d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-40",
+        "V01-44"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/appendice-a-glossario-essenziale-pa.md",
+      "sha256": "2ccb807654e06b5aec101b66ea8bdf5e1df415c824973c021efe4333e2c0ce05",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-13",
+        "V01-26",
+        "V01-27",
+        "V01-28",
+        "V01-45",
+        "V01-46"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/appendice-b-100-parole-chiave-concorsi.md",
+      "sha256": "0bf33370b7fa86cec50041ea8099433ae2ddfe73867fda6c1ebd13da0e6bcfd5",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-19",
+        "V01-26",
+        "V01-47"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/appendice-c-template-bando-decoder.md",
+      "sha256": "c72c59f4af164c773cd30ad8a2fa50c2b3631766bf784efd11d4142915d3b2e0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-01",
+        "V01-43"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/appendice-d-piano-studio-personale.md",
+      "sha256": "ef5cfdb87093583ba32128f8060e399f8228dea6f3e43fdd31f44cfb90eb7565",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-41"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/appendice-e-schema-universale-risposta-orale.md",
+      "sha256": "d5faac47aa336405fd79175db6d7ffd7824677ec09388d5a898617889dcd84d8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/chapters/appendice-f-matrice-materie-profili.md",
+      "sha256": "1a8c4b1d43bd2a0aef5bfea5ef18c8e377339dd019c9129d5d7db4681b6e2298",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V01-01",
+        "V01-39",
+        "V01-48"
+      ],
+      "limitations": [
+        "Controllo esterno non universale."
+      ]
+    }
+  ],
+  "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-01.md",
+  "externalSources": [
+    "https://dictionary.cambridge.org/grammar/british-grammar/possessive-pronouns",
+    "https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2026-04-20/_rst/capo1_sezione1_art1.html",
+    "https://garanteprivacy.it/faq-sul-responsabile-della-protezione-dei-dati-rpd-in-ambito-pubblico",
+    "https://wiki.acquistinretepa.it/index.php/Trattativa_Diretta",
+    "https://www.agid.gov.it/index.php/it/piattaforme/sistema-gestione-procedimenti-amministrativi/documento-informatico",
+    "https://www.anticorruzione.it/en/-/whistleblowing",
+    "https://www.gazzettaufficiale.it/eli/gu/2026/02/19/41/sg/pdf",
+    "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=23G00093&atto.dataPubblicazioneGazzetta=2023-06-29",
+    "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/attivita_istituzionali/formazione_e_gestione_del_bilancio/rendiconto/conto_del_bilancio_e_conto_del_patrimonio/conto_del_bilancio/2017/relazione_illustrativa/Relazione_al_rendiconto_2017.pdf",
+    "https://www.senato.it/CESUS/2026/Costituzione/",
+    "https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-17",
+    "https://www.senato.it/istituzione/la-costituzione/parte-i/titolo-ii/articolo-33",
+    "https://www.senato.it/istituzione/la-costituzione/parte-ii/titolo-iii/sezione-iii/articolo-100"
+  ],
+  "frontMatter": [
+    {
+      "file": "wiki/books/il-metodo-bando/front-matter/01-servizi-digitali.md",
+      "sha256": "0fdbd71342a5fb8891d2d6359e4d000ef5dab33d0e2769e9bf5583f7008b9231",
+      "readComplete": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/front-matter/02-frontespizio.md",
+      "sha256": "c091d224eb3b8e164462246d72e4e0dc3668e1d8603d1c53e35ebfea8ecb9359",
+      "readComplete": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/front-matter/03-copyright-colophon.md",
+      "sha256": "f9be18ac356a7e0012afc3447de2175e7d9457424f063efb7479b95d6fd46f70",
+      "readComplete": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/front-matter/04-sommario.md",
+      "sha256": "68f19b5c1e372c456f14125f6d9c33f59f43aa767e136dad96c12a367249ac67",
+      "readComplete": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/front-matter/05-premessa.md",
+      "sha256": "6070c74d0dde99ef54de4ba86de89dcad168b554ff3355b8a6f0446c36698966",
+      "readComplete": true
+    },
+    {
+      "file": "wiki/books/il-metodo-bando/front-matter/06-indice.md",
+      "sha256": "e3b5146996cc3cc77eb9fb38bac182373fa6fb196c823aa7f69fe28cedb131c2",
+      "readComplete": true
+    }
+  ]
+}

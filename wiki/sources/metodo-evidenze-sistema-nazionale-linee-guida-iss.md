@@ -9,7 +9,7 @@ entities: ["Istituto Superiore di Sanità", "Sistema Nazionale Linee Guida"]
 source_refs: []
 book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.97
-updated_at: 2026-07-29T16:55:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-28T22:00:00+02:00
 review_required: true
 canonical: true
@@ -63,3 +63,7 @@ Alto. Metodi, manuali e linee guida SNLG sono versionati e aggiornabili. Prima d
 ## Stato revisione
 
 Fonte metodologica consolidata e catturata. Il blocker documentale del manuale raw è chiuso; resta da validare editorialmente un set di esercizi PICO/GRADE/applicabilità costruito sulle linee guida cliniche già presenti nel corpus.
+
+## Riscontro del 3 ottobre 2026
+
+Per il solo caso illustrativo di dispnea/dolore toracico SA03/06 sono stati confrontati [NICE NG158, valutazione della sospetta embolia polmonare](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations), [NICE CG95, dolore toracico](https://www.nice.org.uk/guidance/cg95/resources/full-guideline-pdf-245282221) e [RCUK, circostanze speciali 2025](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines), limitatamente al riconoscimento dell’anafilassi. Fonti professionali internazionali, non registrazione SNLG italiana. Sostengono confronto delle ipotesi e verifiche discriminanti, non una prescrizione terapeutica per il paziente reale.

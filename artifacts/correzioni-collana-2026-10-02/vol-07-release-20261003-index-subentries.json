@@ -1,0 +1,55 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-07-release-20261003-proof.pdf",
+  "entries": [
+    {
+      "number": "9.1",
+      "title": "Valutazione iniziale, priorità e rivalutazione",
+      "indexPage": 6,
+      "targetPage": 198,
+      "match": true
+    },
+    {
+      "number": "9.2",
+      "title": "Deterioramento clinico, NEWS2 e sepsi",
+      "indexPage": 6,
+      "targetPage": 200,
+      "match": true
+    },
+    {
+      "number": "9.3",
+      "title": "Triage e gestione dinamica della priorità",
+      "indexPage": 6,
+      "targetPage": 203,
+      "match": true
+    },
+    {
+      "number": "9.4",
+      "title": "Team dell'emergenza, comunicazione e sicurezza",
+      "indexPage": 6,
+      "targetPage": 206,
+      "match": true
+    },
+    {
+      "number": "9.5",
+      "title": "Arresto cardiaco nell'adulto: quadro BLS e ALS",
+      "indexPage": 6,
+      "targetPage": 209,
+      "match": true
+    },
+    {
+      "number": "9.6",
+      "title": "Neonato e supporto vitale",
+      "indexPage": 6,
+      "targetPage": 211,
+      "match": true
+    },
+    {
+      "number": "9.7",
+      "title": "Allarmi ostetrici e risposta multidisciplinare",
+      "indexPage": 6,
+      "targetPage": 213,
+      "match": true
+    }
+  ],
+  "mismatches": []
+}

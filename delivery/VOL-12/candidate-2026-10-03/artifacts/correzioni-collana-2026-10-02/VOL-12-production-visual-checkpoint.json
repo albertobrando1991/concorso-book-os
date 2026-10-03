@@ -1,0 +1,824 @@
+{
+  "volume": "VOL-12",
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-12-final-20261003-proof.pdf",
+  "sha256": "70f546098427dd2dfaa02dad1ce8df3ac266f92671e991aa891782809df8ee88",
+  "pages": 492,
+  "panoramaCoverageComplete": true,
+  "directPanoramaPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492
+  ],
+  "pixelMatchedPreviouslyReviewedPages": [
+    {
+      "page": 17,
+      "matchesReviewedPage": 17
+    },
+    {
+      "page": 18,
+      "matchesReviewedPage": 18
+    },
+    {
+      "page": 19,
+      "matchesReviewedPage": 19
+    },
+    {
+      "page": 20,
+      "matchesReviewedPage": 20
+    },
+    {
+      "page": 21,
+      "matchesReviewedPage": 21
+    },
+    {
+      "page": 22,
+      "matchesReviewedPage": 22
+    },
+    {
+      "page": 23,
+      "matchesReviewedPage": 23
+    },
+    {
+      "page": 24,
+      "matchesReviewedPage": 24
+    },
+    {
+      "page": 25,
+      "matchesReviewedPage": 25
+    },
+    {
+      "page": 26,
+      "matchesReviewedPage": 26
+    },
+    {
+      "page": 27,
+      "matchesReviewedPage": 27
+    },
+    {
+      "page": 28,
+      "matchesReviewedPage": 28
+    },
+    {
+      "page": 29,
+      "matchesReviewedPage": 29
+    },
+    {
+      "page": 30,
+      "matchesReviewedPage": 30
+    },
+    {
+      "page": 31,
+      "matchesReviewedPage": 31
+    },
+    {
+      "page": 32,
+      "matchesReviewedPage": 32
+    },
+    {
+      "page": 33,
+      "matchesReviewedPage": 33
+    },
+    {
+      "page": 34,
+      "matchesReviewedPage": 34
+    },
+    {
+      "page": 35,
+      "matchesReviewedPage": 35
+    },
+    {
+      "page": 36,
+      "matchesReviewedPage": 36
+    },
+    {
+      "page": 37,
+      "matchesReviewedPage": 37
+    },
+    {
+      "page": 38,
+      "matchesReviewedPage": 38
+    },
+    {
+      "page": 39,
+      "matchesReviewedPage": 39
+    },
+    {
+      "page": 40,
+      "matchesReviewedPage": 40
+    },
+    {
+      "page": 41,
+      "matchesReviewedPage": 41
+    },
+    {
+      "page": 42,
+      "matchesReviewedPage": 42
+    },
+    {
+      "page": 43,
+      "matchesReviewedPage": 43
+    },
+    {
+      "page": 44,
+      "matchesReviewedPage": 44
+    },
+    {
+      "page": 45,
+      "matchesReviewedPage": 45
+    },
+    {
+      "page": 46,
+      "matchesReviewedPage": 46
+    },
+    {
+      "page": 47,
+      "matchesReviewedPage": 47
+    },
+    {
+      "page": 48,
+      "matchesReviewedPage": 48
+    },
+    {
+      "page": 49,
+      "matchesReviewedPage": 49
+    },
+    {
+      "page": 50,
+      "matchesReviewedPage": 50
+    },
+    {
+      "page": 51,
+      "matchesReviewedPage": 51
+    },
+    {
+      "page": 52,
+      "matchesReviewedPage": 52
+    },
+    {
+      "page": 53,
+      "matchesReviewedPage": 53
+    },
+    {
+      "page": 54,
+      "matchesReviewedPage": 54
+    },
+    {
+      "page": 55,
+      "matchesReviewedPage": 55
+    },
+    {
+      "page": 56,
+      "matchesReviewedPage": 56
+    },
+    {
+      "page": 57,
+      "matchesReviewedPage": 57
+    },
+    {
+      "page": 58,
+      "matchesReviewedPage": 58
+    },
+    {
+      "page": 59,
+      "matchesReviewedPage": 59
+    },
+    {
+      "page": 60,
+      "matchesReviewedPage": 60
+    },
+    {
+      "page": 61,
+      "matchesReviewedPage": 61
+    },
+    {
+      "page": 62,
+      "matchesReviewedPage": 62
+    },
+    {
+      "page": 63,
+      "matchesReviewedPage": 63
+    },
+    {
+      "page": 64,
+      "matchesReviewedPage": 64
+    },
+    {
+      "page": 65,
+      "matchesReviewedPage": 65
+    },
+    {
+      "page": 66,
+      "matchesReviewedPage": 66
+    },
+    {
+      "page": 67,
+      "matchesReviewedPage": 67
+    },
+    {
+      "page": 68,
+      "matchesReviewedPage": 68
+    },
+    {
+      "page": 69,
+      "matchesReviewedPage": 69
+    },
+    {
+      "page": 70,
+      "matchesReviewedPage": 70
+    },
+    {
+      "page": 71,
+      "matchesReviewedPage": 71
+    },
+    {
+      "page": 72,
+      "matchesReviewedPage": 72
+    },
+    {
+      "page": 73,
+      "matchesReviewedPage": 73
+    },
+    {
+      "page": 74,
+      "matchesReviewedPage": 74
+    },
+    {
+      "page": 75,
+      "matchesReviewedPage": 75
+    },
+    {
+      "page": 76,
+      "matchesReviewedPage": 76
+    },
+    {
+      "page": 77,
+      "matchesReviewedPage": 77
+    },
+    {
+      "page": 78,
+      "matchesReviewedPage": 78
+    },
+    {
+      "page": 79,
+      "matchesReviewedPage": 79
+    },
+    {
+      "page": 80,
+      "matchesReviewedPage": 80
+    },
+    {
+      "page": 81,
+      "matchesReviewedPage": 81
+    },
+    {
+      "page": 82,
+      "matchesReviewedPage": 82
+    },
+    {
+      "page": 83,
+      "matchesReviewedPage": 83
+    },
+    {
+      "page": 84,
+      "matchesReviewedPage": 84
+    },
+    {
+      "page": 85,
+      "matchesReviewedPage": 85
+    },
+    {
+      "page": 86,
+      "matchesReviewedPage": 86
+    },
+    {
+      "page": 87,
+      "matchesReviewedPage": 87
+    },
+    {
+      "page": 88,
+      "matchesReviewedPage": 88
+    },
+    {
+      "page": 89,
+      "matchesReviewedPage": 89
+    },
+    {
+      "page": 90,
+      "matchesReviewedPage": 90
+    },
+    {
+      "page": 91,
+      "matchesReviewedPage": 91
+    },
+    {
+      "page": 92,
+      "matchesReviewedPage": 92
+    },
+    {
+      "page": 93,
+      "matchesReviewedPage": 93
+    },
+    {
+      "page": 94,
+      "matchesReviewedPage": 94
+    },
+    {
+      "page": 95,
+      "matchesReviewedPage": 95
+    },
+    {
+      "page": 96,
+      "matchesReviewedPage": 96
+    },
+    {
+      "page": 97,
+      "matchesReviewedPage": 97
+    },
+    {
+      "page": 98,
+      "matchesReviewedPage": 98
+    },
+    {
+      "page": 99,
+      "matchesReviewedPage": 99
+    },
+    {
+      "page": 100,
+      "matchesReviewedPage": 100
+    },
+    {
+      "page": 101,
+      "matchesReviewedPage": 101
+    },
+    {
+      "page": 102,
+      "matchesReviewedPage": 102
+    },
+    {
+      "page": 103,
+      "matchesReviewedPage": 103
+    },
+    {
+      "page": 104,
+      "matchesReviewedPage": 104
+    },
+    {
+      "page": 105,
+      "matchesReviewedPage": 105
+    },
+    {
+      "page": 106,
+      "matchesReviewedPage": 106
+    },
+    {
+      "page": 107,
+      "matchesReviewedPage": 107
+    },
+    {
+      "page": 108,
+      "matchesReviewedPage": 108
+    },
+    {
+      "page": 109,
+      "matchesReviewedPage": 109
+    },
+    {
+      "page": 110,
+      "matchesReviewedPage": 110
+    },
+    {
+      "page": 111,
+      "matchesReviewedPage": 111
+    },
+    {
+      "page": 112,
+      "matchesReviewedPage": 112
+    }
+  ],
+  "comparisonArtifact": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-12-final-20261003-render-comparison.json",
+  "previousProof": "vol-12-release-20261003",
+  "closeupsSeenCurrentProof": [
+    127,
+    128,
+    142,
+    416,
+    449,
+    450,
+    474,
+    475
+  ],
+  "closeupsSeenPreviousProof": [
+    126,
+    127,
+    128,
+    141,
+    175,
+    198,
+    223,
+    225,
+    226,
+    227,
+    295,
+    305,
+    338
+  ],
+  "method": "Panoramica di tutte le pagine, direttamente o mediante corrispondenza pixel con pagine già viste; dettagli a piena risoluzione nelle pagine elencate. Il confronto esclude soltanto i 40 pt inferiori del piè di pagina; numerazione e indice verificati separatamente sul PDF.",
+  "limits": [
+    "Non è correzione di bozze a piena risoluzione di ogni pagina.",
+    "Verifiche normative selettive documentate negli audit testuali, non nuova certificazione normativa.",
+    "Promesse digitali e dati editoriali comuni aperti; nessuna prova fisica o anteprima esterna KDP."
+  ]
+}

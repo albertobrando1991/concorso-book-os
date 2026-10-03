@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tfue288",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:12016E288",
+    "error": "Not PDF b''"
+  },
+  {
+    "id": "tfue290",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:12016E290",
+    "error": "Not PDF b''"
+  },
+  {
+    "id": "tfue291",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:12016E291",
+    "error": "Not PDF b''"
+  },
+  {
+    "id": "ecn",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32003R0001",
+    "error": "Not PDF b''"
+  },
+  {
+    "id": "berec",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32018R1971",
+    "error": "Not PDF b''"
+  },
+  {
+    "id": "eba",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:02010R1093-20250117",
+    "error": "Not PDF b''"
+  },
+  {
+    "id": "gdpr",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32016R0679",
+    "error": "Not PDF b''"
+  },
+  {
+    "id": "acer",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32019R0942",
+    "error": "Not PDF b''"
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "volume": "VOL-07",
+  "module": "M-SA02",
+  "date": "2026-10-03",
+  "gate": "text-freeze",
+  "verification": "manuale; gate non implementato, nessun verde automatico simulato",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "sha256": "31304f56950b7fb03f7ba67df4d9d8b9cd921b208c403ccc4729cc030e618c91",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "sha256": "c500422c47ddf8b96e5fb1d82c16da3dbdb2cf4cd4c1f4d75c549d86be64158d",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "sha256": "b4dca5c60b8af6e2e8008928c40e27c2c4aa93affb8ac53ba2e0daab20e96d3c",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "sha256": "667b6719e2e9246653879a71f22db6d5794010787fb466ee1d82ce4950d73014",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "sha256": "15e6f3c1a83354054d6ea590881f637c76a0f5033e6299331317f72f299aaf33",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+      "sha256": "20c7110483bfa93a1875f69086225fd249ed21ea5ea8dc3534f479cebdb83e89",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "sha256": "a4f6dfde6e8db1d8120b31db8c113ad2ba42e320b447bc8e67aae405eae6016a",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "sha256": "9743fdae14da9db81058a1ed8ac27bd09c93c68fe3ad4d0587b9beaec3f1c07e",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "sha256": "0b7c9345476f789cc917bd36992e61ab757f42d93cb883189376e346420f4373",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    }
+  ],
+  "checks": [
+    "Capitoli canonici presenti; assenza SA02/02 intenzionale.",
+    "Delta audit integrale applicati e riesaminati; nessun errore testuale noto aperto nel modulo.",
+    "Rinvii per profilo precisi; nessun rinvio a wiki nel corpo pubblico.",
+    "Humanizer e micro-revisione sui delta; audit15 passed zero warning.",
+    "SA02/05 densità e copertura passed; 2 DO coerenti.",
+    "Fonti, cut-off, esempi e soluzioni distinti; norme verificate selettivamente."
+  ],
+  "limitations": [
+    "Non è freeze di VOL-07 nel suo complesso: SA01/SA04 e apparati hanno stato separato.",
+    "PDF nuovi e controllo visivo ancora necessari."
+  ],
+  "controlledPrintCorrections": {
+    "date": "2026-10-03",
+    "files": [
+      {
+        "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+        "beforeSHA256": "667b6719e2e9246653879a71f22db6d5794010787fb466ee1d82ce4950d73014",
+        "sha256": "4dfcb8c6d6c94d2f3574fb2030e2d022dfa897a7b8e096125f756589330a8ac3",
+        "change": "Due dati operativi: metadati di audit nel frontmatter, tabelle NEWS2 e triage native e leggibili. Dati, ambito, fonti, versioni e cautele cliniche conservati; istruzione di ricontrollo editoriale esclusa dal corpo.",
+        "status": "applied; PDF verification pending"
+      }
+    ],
+    "verification": "Verificato nella prova di produzione e nel registro visivo del 3 ottobre 2026; nessuna attestazione normativa aggiuntiva.",
+    "referenceCorrections": [
+      {
+        "volume": "VOL-07",
+        "module": "M-SA02",
+        "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+        "beforeSHA256": "c500422c47ddf8b96e5fb1d82c16da3dbdb2cf4cd4c1f4d75c549d86be64158d",
+        "sha256": "1915f061907c4d83a59e2801d3c7c03782f8486d1edec7e4ef81d66fd0d223d5",
+        "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+      }
+    ],
+    "referenceVerification": "Destinazioni riscontrate nei titoli canonici; nuova prova PDF necessaria."
+  },
+  "productionReview": {
+    "pdf": "vol-07-release-20261003-proof.pdf",
+    "sha256": "60e7814e7a9d17ea36f1af9b5a7652206f83ce33fe0870b0aebc6d588df43e16",
+    "report": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-07.md",
+    "method": "Panoramica di tutte le pagine, direttamente o mediante corrispondenza pixel con pagine già viste; dettagli a piena risoluzione nelle pagine elencate. Il confronto esclude soltanto i 40 pt inferiori del piè di pagina; numerazione e indice verificati separatamente sul PDF.",
+    "effectiveFileHashes": {
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md": "31304f56950b7fb03f7ba67df4d9d8b9cd921b208c403ccc4729cc030e618c91",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md": "1915f061907c4d83a59e2801d3c7c03782f8486d1edec7e4ef81d66fd0d223d5",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md": "b4dca5c60b8af6e2e8008928c40e27c2c4aa93affb8ac53ba2e0daab20e96d3c",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md": "4dfcb8c6d6c94d2f3574fb2030e2d022dfa897a7b8e096125f756589330a8ac3",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md": "15e6f3c1a83354054d6ea590881f637c76a0f5033e6299331317f72f299aaf33",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md": "20c7110483bfa93a1875f69086225fd249ed21ea5ea8dc3534f479cebdb83e89",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md": "a4f6dfde6e8db1d8120b31db8c113ad2ba42e320b447bc8e67aae405eae6016a",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md": "9743fdae14da9db81058a1ed8ac27bd09c93c68fe3ad4d0587b9beaec3f1c07e",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md": "0b7c9345476f789cc917bd36992e61ab757f42d93cb883189376e346420f4373"
+    },
+    "frontMatterUnresolved": true
+  }
+}

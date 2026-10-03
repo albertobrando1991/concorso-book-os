@@ -55,3 +55,7 @@ Fonte primaria e istituzionale verificata il 4 agosto 2026. Prima del text freez
 - [[topics/m-ir02-universita-afam-fonti-e-profili]]
 - [[entities/ministero-universita-ricerca]]
 - [[books/moduli/m-ir02-universita-afam/planning/03-piano-capitolo-08-prin-horizon-pnrr-audit]]
+
+## Riscontro del 3 ottobre 2026
+
+Confermati titolo, numero e data del D.D. 2298 del 10 aprile 2026 nella pagina ufficiale MUR https://www.mur.gov.it/it/atti-e-normativa/decreto-direttoriale-n-2298-del-10-04-2026 e nel portale https://prin.mur.gov.it/Home . Il capitolo usa soltanto questo identificativo e la distinzione fra edizioni; nessuna nuova attestazione su tutte le condizioni finanziarie o sugli allegati del bando.

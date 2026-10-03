@@ -1,0 +1,1094 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-01-native-release-20261003-proof.pdf",
+  "sha256": "e4641d58decbc590377695556221f2d07a48378687c566a2c54b5d61e3c4370e",
+  "pages": 687,
+  "selectedPages": [
+    {
+      "page": 22,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 22
+    },
+    {
+      "page": 24,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 24
+    },
+    {
+      "page": 26,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 26
+    },
+    {
+      "page": 27,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 27
+    },
+    {
+      "page": 28,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 28
+    },
+    {
+      "page": 31,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 31
+    },
+    {
+      "page": 32,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 32
+    },
+    {
+      "page": 33,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 33
+    },
+    {
+      "page": 36,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 36
+    },
+    {
+      "page": 37,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 37
+    },
+    {
+      "page": 38,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 38
+    },
+    {
+      "page": 39,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 39
+    },
+    {
+      "page": 40,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 40
+    },
+    {
+      "page": 43,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 43
+    },
+    {
+      "page": 44,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 44
+    },
+    {
+      "page": 45,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 45
+    },
+    {
+      "page": 48,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 48
+    },
+    {
+      "page": 49,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 49
+    },
+    {
+      "page": 53,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 53
+    },
+    {
+      "page": 54,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 54
+    },
+    {
+      "page": 56,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 56
+    },
+    {
+      "page": 57,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 57
+    },
+    {
+      "page": 60,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 60
+    },
+    {
+      "page": 69,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 69
+    },
+    {
+      "page": 70,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 70
+    },
+    {
+      "page": 86,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 86
+    },
+    {
+      "page": 109,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 109
+    },
+    {
+      "page": 114,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 114
+    },
+    {
+      "page": 116,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 116
+    },
+    {
+      "page": 117,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 117
+    },
+    {
+      "page": 129,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 129
+    },
+    {
+      "page": 133,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 133
+    },
+    {
+      "page": 134,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 134
+    },
+    {
+      "page": 135,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 135
+    },
+    {
+      "page": 137,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 137
+    },
+    {
+      "page": 143,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 143
+    },
+    {
+      "page": 163,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 163
+    },
+    {
+      "page": 164,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 164
+    },
+    {
+      "page": 170,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 170
+    },
+    {
+      "page": 171,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 171
+    },
+    {
+      "page": 172,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 172
+    },
+    {
+      "page": 173,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 173
+    },
+    {
+      "page": 174,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 174
+    },
+    {
+      "page": 180,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 180
+    },
+    {
+      "page": 189,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 189
+    },
+    {
+      "page": 194,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 194
+    },
+    {
+      "page": 195,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 195
+    },
+    {
+      "page": 196,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 196
+    },
+    {
+      "page": 199,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 199
+    },
+    {
+      "page": 200,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 200
+    },
+    {
+      "page": 203,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 203
+    },
+    {
+      "page": 206,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 206
+    },
+    {
+      "page": 214,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 214
+    },
+    {
+      "page": 222,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 222
+    },
+    {
+      "page": 225,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 225
+    },
+    {
+      "page": 228,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 228
+    },
+    {
+      "page": 231,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 231
+    },
+    {
+      "page": 234,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 234
+    },
+    {
+      "page": 243,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 243
+    },
+    {
+      "page": 247,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 247
+    },
+    {
+      "page": 253,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 253
+    },
+    {
+      "page": 257,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 257
+    },
+    {
+      "page": 264,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 264
+    },
+    {
+      "page": 265,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 265
+    },
+    {
+      "page": 269,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 269
+    },
+    {
+      "page": 280,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 280
+    },
+    {
+      "page": 287,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 287
+    },
+    {
+      "page": 288,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 288
+    },
+    {
+      "page": 293,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 293
+    },
+    {
+      "page": 294,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 294
+    },
+    {
+      "page": 299,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 299
+    },
+    {
+      "page": 301,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 301
+    },
+    {
+      "page": 306,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 306
+    },
+    {
+      "page": 307,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 307
+    },
+    {
+      "page": 317,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 317
+    },
+    {
+      "page": 322,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 322
+    },
+    {
+      "page": 324,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 324
+    },
+    {
+      "page": 325,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 325
+    },
+    {
+      "page": 328,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 328
+    },
+    {
+      "page": 330,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 330
+    },
+    {
+      "page": 332,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 332
+    },
+    {
+      "page": 334,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 334
+    },
+    {
+      "page": 335,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 335
+    },
+    {
+      "page": 340,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 340
+    },
+    {
+      "page": 355,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 355
+    },
+    {
+      "page": 357,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 357
+    },
+    {
+      "page": 360,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 360
+    },
+    {
+      "page": 361,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 361
+    },
+    {
+      "page": 362,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 362
+    },
+    {
+      "page": 364,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 364
+    },
+    {
+      "page": 366,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 366
+    },
+    {
+      "page": 371,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 371
+    },
+    {
+      "page": 372,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 372
+    },
+    {
+      "page": 373,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 373
+    },
+    {
+      "page": 374,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 374
+    },
+    {
+      "page": 376,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 376
+    },
+    {
+      "page": 378,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 380,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 382,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 382
+    },
+    {
+      "page": 386,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 386
+    },
+    {
+      "page": 387,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 387
+    },
+    {
+      "page": 389,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 389
+    },
+    {
+      "page": 390,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 390
+    },
+    {
+      "page": 391,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 391
+    },
+    {
+      "page": 392,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 392
+    },
+    {
+      "page": 399,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 399
+    },
+    {
+      "page": 402,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 402
+    },
+    {
+      "page": 403,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 403
+    },
+    {
+      "page": 404,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 406,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 408,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 409,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 410,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 412,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 415,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": null
+    },
+    {
+      "page": 416,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 416
+    },
+    {
+      "page": 417,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 417
+    },
+    {
+      "page": 418,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 418
+    },
+    {
+      "page": 419,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 419
+    },
+    {
+      "page": 420,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 420
+    },
+    {
+      "page": 421,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 421
+    },
+    {
+      "page": 426,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 426
+    },
+    {
+      "page": 427,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 427
+    },
+    {
+      "page": 431,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 431
+    },
+    {
+      "page": 434,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 434
+    },
+    {
+      "page": 435,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 435
+    },
+    {
+      "page": 437,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 437
+    },
+    {
+      "page": 438,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 438
+    },
+    {
+      "page": 439,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 439
+    },
+    {
+      "page": 440,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 440
+    },
+    {
+      "page": 443,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 443
+    },
+    {
+      "page": 445,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 445
+    },
+    {
+      "page": 448,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 448
+    },
+    {
+      "page": 450,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 450
+    },
+    {
+      "page": 451,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 451
+    },
+    {
+      "page": 452,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 452
+    },
+    {
+      "page": 466,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 466
+    },
+    {
+      "page": 468,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 468
+    },
+    {
+      "page": 470,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 470
+    },
+    {
+      "page": 471,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 471
+    },
+    {
+      "page": 472,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 472
+    },
+    {
+      "page": 474,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 474
+    },
+    {
+      "page": 475,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 475
+    },
+    {
+      "page": 481,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 481
+    },
+    {
+      "page": 487,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 487
+    },
+    {
+      "page": 488,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 488
+    },
+    {
+      "page": 490,
+      "visualReviewed": true,
+      "method": "direct-view",
+      "previousReviewedPage": 490
+    },
+    {
+      "page": 491,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 491
+    },
+    {
+      "page": 495,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 495
+    },
+    {
+      "page": 496,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 496
+    },
+    {
+      "page": 497,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 497
+    },
+    {
+      "page": 499,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 499
+    },
+    {
+      "page": 506,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 506
+    },
+    {
+      "page": 507,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 507
+    },
+    {
+      "page": 510,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 510
+    },
+    {
+      "page": 512,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 512
+    },
+    {
+      "page": 516,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 516
+    },
+    {
+      "page": 517,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 517
+    },
+    {
+      "page": 522,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 522
+    },
+    {
+      "page": 523,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 523
+    },
+    {
+      "page": 524,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 524
+    },
+    {
+      "page": 525,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 525
+    },
+    {
+      "page": 530,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 530
+    },
+    {
+      "page": 533,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 533
+    },
+    {
+      "page": 535,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 535
+    },
+    {
+      "page": 537,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 537
+    },
+    {
+      "page": 538,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 538
+    },
+    {
+      "page": 540,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 540
+    },
+    {
+      "page": 542,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 542
+    },
+    {
+      "page": 547,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 547
+    },
+    {
+      "page": 551,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 551
+    },
+    {
+      "page": 552,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 552
+    },
+    {
+      "page": 557,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 557
+    },
+    {
+      "page": 562,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 562
+    },
+    {
+      "page": 563,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 563
+    },
+    {
+      "page": 565,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 565
+    },
+    {
+      "page": 567,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 567
+    },
+    {
+      "page": 572,
+      "visualReviewed": true,
+      "method": "exact-render-match",
+      "previousReviewedPage": 572
+    }
+  ],
+  "extraDirectPages": [
+    378,
+    380,
+    404,
+    405,
+    406,
+    408,
+    409,
+    410,
+    412,
+    415,
+    489,
+    490,
+    553,
+    554
+  ],
+  "previousReview": "VOL-01-native-final-pdf-visual-ledger.json",
+  "comparison": "VOL-01-native-release-render-comparison.json",
+  "limitations": "178 pagine mirate coprono tutti gli apparati; 169 risultano identiche alle pagine già esaminate, escluse le sole fasce dei piè di pagina; 9 sono state viste nuovamente. Ulteriori 5 pagine sono state viste direttamente. Non è una rilettura integrale delle 687 pagine."
+}

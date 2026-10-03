@@ -1,0 +1,505 @@
+{
+  "volume": "VOL-02",
+  "date": "2026-10-03",
+  "status": "reviewable-interiors-pending-common-front-matter",
+  "pipelineSignoff24": false,
+  "digitalServicesVerified": false,
+  "tomes": [
+    {
+      "id": "tomo-1",
+      "pdf": "tomo-1\\vol-02-tomo-1-proof.pdf",
+      "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+      "pages": 700,
+      "indexEntries": 177
+    },
+    {
+      "id": "tomo-2",
+      "pdf": "tomo-2\\vol-02-tomo-2-proof.pdf",
+      "sha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+      "pages": 268,
+      "indexEntries": 95
+    }
+  ],
+  "files": [
+    {
+      "path": "21-vol-02.md",
+      "bytes": 11974,
+      "sha256": "db7a7a2f79d5001b91d7e5f07b1c366463e4ec4acf2f0a9f270a9ea69f5e2f42"
+    },
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-02-i-cover.pdf",
+      "bytes": 149891,
+      "sha256": "677399811744513cd1b79e421655ddff757c8b54bea9971e317cd5a32731e553"
+    },
+    {
+      "path": "covers/vol-02-ii-cover.pdf",
+      "bytes": 149813,
+      "sha256": "44cf743803de00abe36d85ee1b1fed3647a2e1f0decb1388b5e5d771043c1d8b"
+    },
+    {
+      "path": "PDF-VOL-02.md",
+      "bytes": 8821,
+      "sha256": "d34ff7b500c6b650ddc1ca243e155202ae42a6e0e59af9592bc4a42fcf403e75"
+    },
+    {
+      "path": "physical-index-crosscheck.json",
+      "bytes": 212,
+      "sha256": "d4aa8cc5c8cf7a60325d1cf4039a2a0edce5956e0fb4721e9ba2afbfa38305bb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3098,
+      "sha256": "96b3695c187d3694fb4121249f4362a5f501387de3c824b3cd192b3580caf9fd"
+    },
+    {
+      "path": "reference-alignment.json",
+      "bytes": 17356,
+      "sha256": "d5bc29930827e3a0482f19d38b4ef8be29ce5e7d2314e034c5e81143657752fb"
+    },
+    {
+      "path": "reproduction/build-vol02-tomi.ts",
+      "bytes": 18229,
+      "sha256": "4a617bcfc1a88f2fa160f40a3bce0f1bc53f53af517bd1bc317f89d509854582"
+    },
+    {
+      "path": "reproduction/export-vol02-tomo.mjs",
+      "bytes": 4567,
+      "sha256": "735dff25ba8e4b3558427ea393a6cab7b3bffa82c04f62a002afd3181148edd0"
+    },
+    {
+      "path": "reproduction/inspect-current-pdf.py",
+      "bytes": 1909,
+      "sha256": "94bd2418686841272696e0a2b45a9b1cc1e01793376e1ca651aa5286ff564de4"
+    },
+    {
+      "path": "reproduction/verify-vol02-tomi.py",
+      "bytes": 2266,
+      "sha256": "622b13d4c857dca7c64f427d6384affdf34cdeca47ff8b3cdc1d9d105d45dffa"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "bytes": 30142,
+      "sha256": "c52a961fc88e87f428f36e62e67e04538bb36ea9523a99dbfce4ca56bf72a167"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "bytes": 37768,
+      "sha256": "b08aa52e25a39bdf259cee1d67b8e80d888cad8effe704e5eb4223ba71c30174"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "bytes": 32063,
+      "sha256": "971f582a951294559f2044d62444dc0d854bde73e7eb4a1e81b439c90a4f9804"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "bytes": 35417,
+      "sha256": "f1ff49454321effccf883c01897a9cfadf2b250dfb7451fb9a86cd885bfc2792"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "bytes": 37952,
+      "sha256": "856e1f20ad0bb974db48367c4b2dce9c7b10b9e2b499c993ce8cc452c57eaf90"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "bytes": 38971,
+      "sha256": "72084d5e00151be82b06bdf3e38163cfcb868cf313bde809d1f6254039ac6832"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--07-servizi-demografici-elettorali.md",
+      "bytes": 42869,
+      "sha256": "f2aa59f4260dd07f5abfcb5c0570268b510325800fb773281124ee22aac5bda2"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "bytes": 56628,
+      "sha256": "e6a652df01f9b94ac59f1bf74be2b63e11dea2971d86b9543f7a62d3257ac94e"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "bytes": 45653,
+      "sha256": "d420eceaeda95976c663e6028673b8f3986acea99341cee70024e690838071ee"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "bytes": 60665,
+      "sha256": "47a0c35aa27749476d0741774cfa60b62fecf6882944147ba5161913323ba46d"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "bytes": 58021,
+      "sha256": "34753206dfe016f42fd1ed79be6e1433dcf4671fb297cc064772fe2a1d6c2dbe"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--12-procurement-operativo-ufficio-comunale.md",
+      "bytes": 52551,
+      "sha256": "277283bf874b6baae2df8dee7242fdb959bf0585f66d021bcaf1ae23550bc0ce"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "bytes": 70724,
+      "sha256": "bbba572a0795006b016e2f0c874269621c0f6d311436dfea6a430e1f7f0ab715"
+    },
+    {
+      "path": "source-chapters/m-fl01-comuni-unioni--14-laboratorio-teorico-pratico-profili-comunali.md",
+      "bytes": 62378,
+      "sha256": "9e8b0631bd6a9d8854254ba5da03423d634c33b1e973c1da0d8136db486b7320"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--01-il-sistema-territoriale-multilivello.md",
+      "bytes": 50750,
+      "sha256": "b8769366b6a8ab1b178cd558f17a202fd020fa039a5d390ef1fa8ba7f9e35619"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--02-statuti-organi-organizzazione-regionale.md",
+      "bytes": 58337,
+      "sha256": "4089a2b939951744d2df28ada6d05e7587000dff553daba67b595ebb1a3e2148"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "bytes": 57991,
+      "sha256": "26db56b6ffa9a716a146a4642f85ae6f1b607fa6779b67ca62d1529873a01044"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "bytes": 53897,
+      "sha256": "6b6f420603c09f4e96613b6651e32d931905dbcfedd8ccbab24a43b949702d46"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--05-programmazione-bilancio-controlli-regionali.md",
+      "bytes": 55473,
+      "sha256": "2fd6b9ca1f4db19201c42d458a4a72bc5cdcbc9e8710386aa4a80ac31df8560d"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--06-tecnica-legislativa-air-vir-drafting.md",
+      "bytes": 49780,
+      "sha256": "3e9626a406e49888f1d31b4e524340299b3f2e9dca9097b6ad3819fbbc51f799"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--07-politiche-coesione-fondi-ue.md",
+      "bytes": 50764,
+      "sha256": "1678c73296fa326731fe06b2b8091e3506a9dd7d32428212f06243078bdee2a3"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "bytes": 50284,
+      "sha256": "999db3a2b744e62ad04f8e12460fdfc99e7140fe1a73669ab5d1a48b54ebf84d"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--09-province-citta-metropolitane-legge-56-2014.md",
+      "bytes": 39233,
+      "sha256": "64ff4ecc67d82df5d907fa0ec4839767ab2ff6e33fb049ec29b0caff338d96f7"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "bytes": 40980,
+      "sha256": "a5cec2ff1f905bb1085b48611373deb6ab766e91a076937c51712f8d3d14bfe6"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "bytes": 42468,
+      "sha256": "d9a86b0c3476a8b2b6d1f8af472adcb21ea9d239b8420b49c5cb942b79075676"
+    },
+    {
+      "path": "source-chapters/m-fl02-regioni-province-citta-metropolitane--12-laboratorio-profili-regionali-area-vasta.md",
+      "bytes": 45058,
+      "sha256": "7707c8f74536b5004d4f80213ad624451f32085c1d3182d959a1abe7d5334cfb"
+    },
+    {
+      "path": "source-chapters/m-fl03-camere-commercio--01-camere-commercio-sistema-camerale-unioncamere.md",
+      "bytes": 42728,
+      "sha256": "1c0f21ce241f8b26bbece2d69a991bce564979dabe159e124fdf2cf2684bf176"
+    },
+    {
+      "path": "source-chapters/m-fl03-camere-commercio--02-registro-imprese-rea-pubblicita-legale.md",
+      "bytes": 39333,
+      "sha256": "3fb15605fa8f8b9d0d0d5302b6d720c9ee2a899b2de2cb3ff84b175ce894f986"
+    },
+    {
+      "path": "source-chapters/m-fl03-camere-commercio--03-servizi-imprese-regolazione-mercato-tutela.md",
+      "bytes": 42902,
+      "sha256": "1ae64ae0c5245d72706701ca06c4608a1266f88600ebf69b29f5a4d63de6a470"
+    },
+    {
+      "path": "source-chapters/m-fl03-camere-commercio--04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "bytes": 41791,
+      "sha256": "70f14694c053f66fa20800387d3303c41920b12f70327ab8796229d33ded0363"
+    },
+    {
+      "path": "source-chapters/m-fl03-camere-commercio--05-laboratorio-bando-camerale.md",
+      "bytes": 34825,
+      "sha256": "b69c727308b50f223810947efa20400a00b4e35eec135a60fbfefcdc5c3fa17e"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--01-diventare-agente-ufficiale-polizia-locale.md",
+      "bytes": 37308,
+      "sha256": "4c134c611033a987b7664575b0ac6ae0baeb3a7610797b650bb7f07b6b7f5743"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "bytes": 31799,
+      "sha256": "580fe6591113b4e7fca9841ff978372533d947fc0b297c864ff008ce759058b8"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "bytes": 36800,
+      "sha256": "487c1ebcd4198cf48da200140a6d09cdf9931452d128204cce8255cf43a36e1c"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--04-servizi-polizia-stradale.md",
+      "bytes": 44894,
+      "sha256": "1b1c74c6201d012bb8fad4760f8a340f93e25a6f9d0662c024b231688806543b"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "bytes": 37073,
+      "sha256": "4826c1dbc69a9b0cfca56695cdd4a07cb0f50ba4a126384804aa57f67f461efe"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "bytes": 39000,
+      "sha256": "ea92667e22988021878bcdf3778ebdc3fb7185c466c3c994f71b44a85871d896"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--07-polizia-giudiziaria-atti-essenziali.md",
+      "bytes": 41702,
+      "sha256": "1fdccb401958726cb8370dd889c744bbf638cbf0b65ee5fdfe1d8a85dc073bb8"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--08-tulps-pubblica-sicurezza-immigrazione.md",
+      "bytes": 42146,
+      "sha256": "0c6fca021f9c95b1b2ebea800f574b36befad03a4690d1576b01d4b28e8e1140"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "bytes": 37390,
+      "sha256": "728b1aa58f111c2c3f5c70eecf6288bae84b00a64eb6765f73b93dd64a293c18"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--10-commercio-pubblici-esercizi-suap.md",
+      "bytes": 37419,
+      "sha256": "92f8eca05ad020f64b5624aac7177375f3edb57519781b58b0390544d414da44"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "bytes": 39334,
+      "sha256": "4c87e7506ace5989926522823028d0477da406dae671310c9e692c45c023b79b"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "bytes": 36723,
+      "sha256": "e59e5c247cd876521c0e35cabe01a6cfebb22445a5158d460dfc56855988d5d1"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--13-sinistri-rilievi-gestione-prova.md",
+      "bytes": 37340,
+      "sha256": "becb09c309710257d53b37d638fe5e82181908b1c7a5708d12e8a0e0f1c05ce9"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "bytes": 37622,
+      "sha256": "dacbca3cf7e699b8d500d5d836bc8f932d1234c4182ed0c0c69112cd26b4334e"
+    },
+    {
+      "path": "source-chapters/m-fl04-polizia-locale--15-laboratorio-atti-verbali-polizia-locale.md",
+      "bytes": 41542,
+      "sha256": "14f3de3cf3d8d62852816f02beb67574ad00bf3da3232bf5e707f930511d70db"
+    },
+    {
+      "path": "source-chapters/vol-02--01-come-usare-vol-02-insieme-a-vol-01.md",
+      "bytes": 27241,
+      "sha256": "52448ebc9d5ff90c86920b9f5832136d6e663eaa0f4b365b3a88e9015fe59105"
+    },
+    {
+      "path": "source-chapters/vol-02--02-bando-decoder-territoriale.md",
+      "bytes": 8672,
+      "sha256": "84afd4196dfe8b06a9276a07055b155370c5c2cb422c59b6bb22a8d93ee3cf17"
+    },
+    {
+      "path": "source-chapters/vol-02--03-piano-30-60-90-giorni-vol-02.md",
+      "bytes": 8579,
+      "sha256": "6810a3ab58b0f719391b2e8f3fca4cfcebba8a8f5324a87a95f8e6e5e76dac2a"
+    },
+    {
+      "path": "source-chapters/vol-02--50-simulazione-finale-vol-02.md",
+      "bytes": 29409,
+      "sha256": "800e81bed95c01f642ee9ed85a6d3936b1398c63a5a20f0bea3f2fec0ab913a8"
+    },
+    {
+      "path": "source-chapters/vol-02--51-conclusione-vol-02.md",
+      "bytes": 5801,
+      "sha256": "1cfa22056ab7790a9dd6de1cdf67b0bc3ee27ebedd1689e71be5f6c854c3f2d3"
+    },
+    {
+      "path": "tomo-1/tomo-1-conclusione.md",
+      "bytes": 1461,
+      "sha256": "2171aa66b5f14b9dba14895b522974238f3f4d73021a89259f3d2d8435ba0914"
+    },
+    {
+      "path": "tomo-1/tomo-1-manifest.json",
+      "bytes": 8718,
+      "sha256": "71d3ba8c358aeebb8c98c80f680a26717f1b104028ab7b615adc5a30e2321f30"
+    },
+    {
+      "path": "tomo-1/tomo-1-orientamento.md",
+      "bytes": 3131,
+      "sha256": "447ff90a6d01505bdd3d74c10b32759f8a8db8c4f85b9c322172c08ed1f48929"
+    },
+    {
+      "path": "tomo-1/tomo-1-payload.json",
+      "bytes": 1821252,
+      "sha256": "f0fa1d8af31e54c8e6a846aa47a692f2ef56a1e01c96da36525236833490d577"
+    },
+    {
+      "path": "tomo-1/tomo-1-simulazione.md",
+      "bytes": 18685,
+      "sha256": "0f58f363dcd45132ebee67b34812deb87e885df85ae56bdf498de1e87ad3d39b"
+    },
+    {
+      "path": "tomo-1/tomo-1-technical-manifest.json",
+      "bytes": 1563,
+      "sha256": "b21b98dc6a755da257f18aa8be42426a6dad9d27cd42cdf0c0d7152006072017"
+    },
+    {
+      "path": "tomo-1/tomo-1-verification.json",
+      "bytes": 32153,
+      "sha256": "6298c2fe1be2b2416f459304b200ffb24f1373591dedb18d5f5a86c37c32ef23"
+    },
+    {
+      "path": "tomo-1/tomo-1-visual-checkpoint.json",
+      "bytes": 2197,
+      "sha256": "effbb793f6f6a3be334b7ae701314c5e46b14dd6af9f6523ca2053a7f1b3e8ee"
+    },
+    {
+      "path": "tomo-1/vol-02-tomo-1-proof.pdf",
+      "bytes": 4198725,
+      "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38"
+    },
+    {
+      "path": "tomo-1-dash-delta.json",
+      "bytes": 44,
+      "sha256": "eaff1a1c813c83e611a39d277125cafbae815446482fa85070981c4f4c0ebd3e"
+    },
+    {
+      "path": "tomo-1-profile-table-delta.json",
+      "bytes": 44,
+      "sha256": "3b654c613984caf338ecd7fd92ff400b71510c2d101d5b8812e8da2486384d69"
+    },
+    {
+      "path": "tomo-2/tomo-2-conclusione.md",
+      "bytes": 1460,
+      "sha256": "d979f37798de9227c8e076a6d244aa3fcb60229e7eb20bf7d77a9b3172205235"
+    },
+    {
+      "path": "tomo-2/tomo-2-manifest.json",
+      "bytes": 4888,
+      "sha256": "2d7e152d58b07c4d5bcf3308839680366961dc0a5d89dc8e066854509796e129"
+    },
+    {
+      "path": "tomo-2/tomo-2-orientamento.md",
+      "bytes": 3024,
+      "sha256": "b54b0b70e6380d370d1ba476c7a37d12ae037590d88b4cdffd928d7e45dafbf1"
+    },
+    {
+      "path": "tomo-2/tomo-2-payload.json",
+      "bytes": 743738,
+      "sha256": "48654584c16120155bf814b3c524a24437ffcd2744fd09c25c574f24f2665e6d"
+    },
+    {
+      "path": "tomo-2/tomo-2-simulazione.md",
+      "bytes": 7530,
+      "sha256": "516be63af3de17ecf0ea0da28a3e83cc6e3226b41757d3fac3eb66a7235aa7a5"
+    },
+    {
+      "path": "tomo-2/tomo-2-technical-manifest.json",
+      "bytes": 1750,
+      "sha256": "27dafce16cd9d176a09e4cef7cad5d69223c2902e040ea1a108c396b45084b7d"
+    },
+    {
+      "path": "tomo-2/tomo-2-verification.json",
+      "bytes": 17009,
+      "sha256": "a96580c1e1fd615c86ccf8e4759c88cb211e98e3a105aa8d592b785e45c37b1f"
+    },
+    {
+      "path": "tomo-2/tomo-2-visual-checkpoint.json",
+      "bytes": 1201,
+      "sha256": "451ac348cd582e9c6f97c0a9a1bc9e1cddb54ad657fe42e96560f514b66d1c39"
+    },
+    {
+      "path": "tomo-2/vol-02-tomo-2-proof.pdf",
+      "bytes": 1703317,
+      "sha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68"
+    },
+    {
+      "path": "VOL-02-text-handoff.json",
+      "bytes": 12480,
+      "sha256": "74fc9b54a2c28fabb2919186f3c3a730e90769ef384e58743d1c632c8f04a2e7"
+    },
+    {
+      "path": "VOL-02.md",
+      "bytes": 35979,
+      "sha256": "c98d3697a9230fb716f8a0cae8c8f3eb7599642c285518d431771eeb7298030b"
+    }
+  ],
+  "covers": [
+    {
+      "key": "02-I",
+      "volume": "VOL-02",
+      "title": "Comuni, Regioni, area vasta e Camere di commercio",
+      "cover": "delivery/copertine-2026-10-03/vol-02-i-cover.pdf",
+      "coverSha256": "677399811744513cd1b79e421655ddff757c8b54bea9971e317cd5a32731e553",
+      "interior": "delivery/VOL-02/candidate-tomi-2026-10-03/tomo-1/vol-02-tomo-1-proof.pdf",
+      "interiorSha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+      "pdfPages": 700,
+      "kdpPages": 700,
+      "spineInches": 1.5764,
+      "widthInches": 15.206399999999999,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 50.21943525390623,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/02-I.png",
+      "path": "covers/vol-02-i-cover.pdf"
+    },
+    {
+      "key": "02-II",
+      "volume": "VOL-02",
+      "title": "Polizia locale",
+      "cover": "delivery/copertine-2026-10-03/vol-02-ii-cover.pdf",
+      "coverSha256": "44cf743803de00abe36d85ee1b1fed3647a2e1f0decb1388b5e5d771043c1d8b",
+      "interior": "delivery/VOL-02/candidate-tomi-2026-10-03/tomo-2/vol-02-tomo-2-proof.pdf",
+      "interiorSha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+      "pdfPages": 268,
+      "kdpPages": 268,
+      "spineInches": 0.6035360000000001,
+      "widthInches": 14.233536000000003,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 15.196359578124998,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/02-II.png",
+      "path": "covers/vol-02-ii-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

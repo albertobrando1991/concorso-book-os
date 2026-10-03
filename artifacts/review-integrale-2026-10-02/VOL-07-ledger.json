@@ -1,0 +1,1505 @@
+{
+  "volume": "VOL-07",
+  "status": "text-review-complete-pdf-separate",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "sha256": "d60498e040922b51ee29eb29dcea2cc5138f29ec484d3359e5e4b47a7e60a94f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "GU227/2026 aggiornamentiLEA, artt.8 e12; PDF pp27 e51",
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2026/09/30/227/sg/pdf",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-07"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "d60498e040922b51ee29eb29dcea2cc5138f29ec484d3359e5e4b47a7e60a94f",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "sha256": "2f65a3a2df0a527dde81dbdce6a78ecebea8c65c18bea21e416fd8a33da4072f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "Divieto FOIA salute",
+          "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9461036",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "Pari rango e accesso, parere 18 giugno 2026",
+          "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10267085",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "L.24/2017 art.4",
+          "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=17G00041&art.dataPubblicazioneGazzetta=2017-03-17&art.flagTipoArticolo=0&art.idArticolo=4&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "Garante FSE",
+          "url": "https://www.garanteprivacy.it/temi/fse",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "Garante dossier",
+          "url": "https://www.garanteprivacy.it/faq/dossier-sanitario",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-01",
+        "V07-02",
+        "V07-03",
+        "V07-04",
+        "V07-05",
+        "V07-06"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "2f65a3a2df0a527dde81dbdce6a78ecebea8c65c18bea21e416fd8a33da4072f",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "sha256": "9e7d97cd00646b04a14114c10422b3aa79c82dbb3f1818343ffb963c0d73c1ea",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-08",
+        "V07-09"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "9e7d97cd00646b04a14114c10422b3aa79c82dbb3f1818343ffb963c0d73c1ea",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "sha256": "acbb8642654bc16160e9759bceb46d79be98380959df4a79dab584a2b5486fa8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-10",
+        "V07-11"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "acbb8642654bc16160e9759bceb46d79be98380959df4a79dab584a2b5486fa8",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "sha256": "40a40721cd64a171fb0a349c32c7a4739f595a112a125c8295478050616aa5b1",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-12",
+        "V07-13",
+        "V07-14"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "40a40721cd64a171fb0a349c32c7a4739f595a112a125c8295478050616aa5b1",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "sha256": "30846d04e59133ea0582d9c2839bd0b9eb0fcf2922ab9343bfc3b5c692b1bfe8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "30846d04e59133ea0582d9c2839bd0b9eb0fcf2922ab9343bfc3b5c692b1bfe8",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "sha256": "6d2c3c2644d537ad07742e242b0ad748faaf20a06df23ffedcb275f7336666c5",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "FNOPI codice2025",
+          "url": "https://www.fnopi.it/2025/03/24/codice-deontologico-in-vigore/",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "FNOFI stato revisione codice",
+          "url": "https://www.fnofi.it/w/il-nuovo-codice-deontologico-del-fisioterapista",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-15"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "6d2c3c2644d537ad07742e242b0ad748faaf20a06df23ffedcb275f7336666c5",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "sha256": "36b2b02505059ceaa89fc673451af42dad8d043db06ccaa135a54af7392cbb0a",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-16"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "36b2b02505059ceaa89fc673451af42dad8d043db06ccaa135a54af7392cbb0a",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "sha256": "1e0a111a4ca10b3c566c28353f11fa615eed2be7b4baf5a755797189f0557c6d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "RCP NEWS2 report",
+          "url": "https://www.rcp.ac.uk/media/a4ibkkbf/news2-final-report_0_0.pdf",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "Ministero triage nazionale 2019",
+          "url": "https://www.salute.gov.it/new/it/news-e-media/notizie/pronto-soccorso-libera-della-conferenza-stato-regioni-alle-nuove-linee-di/",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "Linee nazionali triage PDF",
+          "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_3145_allegato.pdf",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-17",
+        "V07-18",
+        "V07-19",
+        "V07-20"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "1e0a111a4ca10b3c566c28353f11fa615eed2be7b4baf5a755797189f0557c6d",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "sha256": "c45aabfc3c65092d3c0bae622cde1378acac05e38135e94ea7825e52ca60adec",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "PNP2026–2031",
+          "url": "https://www.salute.gov.it/new/it/tema/il-piano-nazionale-della-prevenzione/",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-21"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "c45aabfc3c65092d3c0bae622cde1378acac05e38135e94ea7825e52ca60adec",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+      "sha256": "610dab870ed35ba876900942ed596b17fb7e09ae418230fe628d3aa92484ecc9",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "610dab870ed35ba876900942ed596b17fb7e09ae418230fe628d3aa92484ecc9",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "sha256": "effea87d9a368c8377df3fb36b67460a6d7be268381790f76063c483f77bca46",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "ISS PASSI colorettale",
+          "url": "https://www.epicentro.iss.it/passi/dati/ScreeningColorettale",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-22",
+        "V07-23",
+        "V07-24"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "effea87d9a368c8377df3fb36b67460a6d7be268381790f76063c483f77bca46",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "sha256": "4ccdab74cdde5cb405036254c039f1f003796d4a4ef33ac949c817abf6c1ea1f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-25",
+        "V07-26"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "4ccdab74cdde5cb405036254c039f1f003796d4a4ef33ac949c817abf6c1ea1f",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "sha256": "249f6ef30412b2bbcd09ad2588ff5283c3d87f68f8e956324b240be9aeaf274c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-27"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "249f6ef30412b2bbcd09ad2588ff5283c3d87f68f8e956324b240be9aeaf274c",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "sha256": "9f7b6e296806a0b855277c512c596a8039ea93ccda23a9b6e6e2efe85f5db615",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "D.Lgs.165/2001 art.37",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2001-03-30%3B165~art37%21vig=",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "CCNL Area Sanità definitivo27/2/2026",
+          "url": "https://www.aranagenzia.it/novita/ccnl-area-sanita-2022-2024/",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-28",
+        "V07-29"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "9f7b6e296806a0b855277c512c596a8039ea93ccda23a9b6e6e2efe85f5db615",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+      "sha256": "73f1a2384ab18941f84856461298d6b619209ed725d0e8d8cf484ad16ec7afc4",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-30"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "73f1a2384ab18941f84856461298d6b619209ed725d0e8d8cf484ad16ec7afc4",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md",
+      "sha256": "341725b981036070c976f23811a84d00f0d211ee0281dfc8b7792bed434621e0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-31"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "341725b981036070c976f23811a84d00f0d211ee0281dfc8b7792bed434621e0",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "sha256": "448dc90f2cec977539af61662f4425e47dfea3398e09d30c32af085c66ccec12",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "PNHTADM2026–2028",
+          "url": "https://www.agenas.gov.it/aree-tematiche/comunicazione/primo-piano/2698-pnhta-dm-2026%E2%80%932028-sbloccate-le-risorse-del-fondo%2C-al-via-la-fase-operativa-del-sistema-nazionale-hta-sui-dispositivi-medici",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-32"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "448dc90f2cec977539af61662f4425e47dfea3398e09d30c32af085c66ccec12",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+      "sha256": "59481597cbd2c90eaa1fb8ca1354fb2fe8b620e74c3d1043788802dbaf903ff6",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "PNP2026–2031",
+          "url": "https://www.salute.gov.it/new/it/tema/il-piano-nazionale-della-prevenzione/",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "59481597cbd2c90eaa1fb8ca1354fb2fe8b620e74c3d1043788802dbaf903ff6",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+      "sha256": "c3a77a451d9cc6009c133bde11a1d737ff255193b94e1486f38996233a33eba6",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-33"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "c3a77a451d9cc6009c133bde11a1d737ff255193b94e1486f38996233a33eba6",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "sha256": "1ed29804bbaabc0f3cd5e0b8a5a75c27366664b57d1509786d68cb23a3e14fef",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "CNOP archivio codice 2023–2024",
+          "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente-dal-01-dicembre-2023-al-24-dicembre-2024/",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "CNOP codice vigente",
+          "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-34",
+        "V07-41"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "1ed29804bbaabc0f3cd5e0b8a5a75c27366664b57d1509786d68cb23a3e14fef",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+      "sha256": "15bf73e870c1af872a84d21ee66bed25eb04a8c77dfc42d24b7c0e7a17e52b26",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "D.Lgs.165/2001 art.37",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2001-03-30%3B165~art37%21vig=",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "15bf73e870c1af872a84d21ee66bed25eb04a8c77dfc42d24b7c0e7a17e52b26",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "sha256": "2adb1c81587e5bef4182f98b252d645ff56c73be47e8d0fed6f4e1f4c4a838f8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V07-35",
+        "V07-36"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "2adb1c81587e5bef4182f98b252d645ff56c73be47e8d0fed6f4e1f4c4a838f8",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "sha256": "f60b5c2ab0f869fa70d213591e04febff0ad1f48001b5527b45ea738911398e8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "Raccomandazione Euratom2026/403",
+          "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A32026H0403",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-37",
+        "V07-38",
+        "V07-39"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "f60b5c2ab0f869fa70d213591e04febff0ad1f48001b5527b45ea738911398e8",
+      "unchangedSinceRead": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "sha256": "3f1520436208ca3aee39eb9a1bd592b6ac09a1dfea813e9f5b909abe6e8d6b80",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "claim": "DM1 luglio2025 art4 termini vigilanza",
+          "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25A05071&art.dataPubblicazioneGazzetta=2025-09-19&art.flagTipoArticolo=0&art.idArticolo=4&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1",
+          "checkedAt": "2026-10-02"
+        },
+        {
+          "claim": "PNHTADM2026–2028",
+          "url": "https://www.agenas.gov.it/aree-tematiche/comunicazione/primo-piano/2698-pnhta-dm-2026%E2%80%932028-sbloccate-le-risorse-del-fondo%2C-al-via-la-fase-operativa-del-sistema-nazionale-hta-sui-dispositivi-medici",
+          "checkedAt": "2026-10-02"
+        }
+      ],
+      "findings": [
+        "V07-40"
+      ],
+      "limitations": [
+        "Lettura integrale del Markdown; verifiche normative esterne mirate, non certificazione di ogni comma o protocollo clinico; controllo PDF separato."
+      ],
+      "sha256Final": "3f1520436208ca3aee39eb9a1bd592b6ac09a1dfea813e9f5b909abe6e8d6b80",
+      "unchangedSinceRead": true
+    }
+  ],
+  "supportingSources": [
+    {
+      "path": "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md",
+      "readComplete": true,
+      "sha256": "86beb604eecf27c6db25550eaa752892b3ad70b4263fd95eb2f1c3b55c7ac7ed"
+    },
+    {
+      "path": "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+      "readComplete": true,
+      "sha256": "242b547136e3ab8e3263b8fbd7c71fa47ec9fe7ba550d75da4e78c54d7e11945"
+    },
+    {
+      "path": "wiki/sources/als-adulto-erc-irc-2025.md",
+      "readComplete": true,
+      "sha256": "f74d84790def2ff2d870d2f6fafd69624e3f132d84bfaefdf08fd33c56455266"
+    },
+    {
+      "path": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "readComplete": true,
+      "sha256": "76a1694fbcfc8bc07b5ae7575ebe0de6b5c6e82dfd339c51f9c606345e1abefe"
+    },
+    {
+      "path": "wiki/sources/arresto-cardiaco-bls-iss-snlg-2026.md",
+      "readComplete": true,
+      "sha256": "1f945fad89ff96cf8fdc3f4baa8591a3705f78d59a4b47ff79d3ed9af602a687"
+    },
+    {
+      "path": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "readComplete": true,
+      "sha256": "a8d018555b66177bac07e8bedaf3ef419338ab614286b75a913c8b55147ed27e"
+    },
+    {
+      "path": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "readComplete": true,
+      "sha256": "bb13adc857b7c76d506fd758d10c7c72ebc07050e10a2e534bec096d2a187e03"
+    },
+    {
+      "path": "wiki/sources/attuazione-regionale-oss-lombardia-2025.md",
+      "readComplete": true,
+      "sha256": "934668e684a87b9d5b3eeef4f6790be50142242fcb1dfa74c6249f3c16a7dca2"
+    },
+    {
+      "path": "wiki/sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md",
+      "readComplete": true,
+      "sha256": "428e1cd458efe2c59f6798858baa84557d3c1ee1b2c4cf9e4febc41cae2f7cfe"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md",
+      "readComplete": true,
+      "sha256": "df9dc6b9b2665d1aa17b5e943fdf6b23cd63e24c68eafdc4b725ded151485b3b"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "readComplete": true,
+      "sha256": "4ee6aff7bd018a28ceb3ab3c6e4b49ccb914817a4433c1f453d3136ba194c16d"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026.md",
+      "readComplete": true,
+      "sha256": "1ce873582a707de8adae86396f0e7e0f4458222790302b6b06557d52223bae68"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026.md",
+      "readComplete": true,
+      "sha256": "afa1c5820ded70f0c73326863734be9ce8a3865f89c772dd8cd0dd87d9a96308"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "readComplete": true,
+      "sha256": "e5a68ac5d84b48cf236047c226cec043b06058c36641a68479b7a74caa5f9594"
+    },
+    {
+      "path": "wiki/sources/campionamento-passivo-gas-suolo-ispra-2024.md",
+      "readComplete": true,
+      "sha256": "082aba1ca18c11b5be4db3f7b1a570ed7f8737d0907daf96b2bfe59bbbefed47"
+    },
+    {
+      "path": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "readComplete": true,
+      "sha256": "95cec916337d8a9340b00bff876c32c55320fa1628bd11a7c8c7ee9d043ab155"
+    },
+    {
+      "path": "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+      "readComplete": true,
+      "sha256": "cc6c4f4a20663a6633e62a13ebcf8cce3388e938c19025455a249659d210385b"
+    },
+    {
+      "path": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "readComplete": true,
+      "sha256": "54a6efeeda9a413b05cda484cbcfcd647de411ac91e18c0cf578c7d6bd033f5f"
+    },
+    {
+      "path": "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md",
+      "readComplete": true,
+      "sha256": "f074f8aef3c6d7cdfc03e568e36c855c220ffa46cbf457f1e99d95dd2bdf3074"
+    },
+    {
+      "path": "wiki/sources/contabilita-budget-aziende-sanitarie.md",
+      "readComplete": true,
+      "sha256": "da193ca78507d77897243852bc2ac5c5e50faf64c9f2bfaeac84cb5950d14f35"
+    },
+    {
+      "path": "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md",
+      "readComplete": true,
+      "sha256": "f9903cade75c912cef754188797cbf8ca808bbd65396fd7c907e1c61fa56df13"
+    },
+    {
+      "path": "wiki/sources/d-lgs-27-ottobre-2009-n-150-performance.md",
+      "readComplete": true,
+      "sha256": "8decfc222938c16b5559cf50bac82baeb7b3806e02015ee664742c89681f4e36"
+    },
+    {
+      "path": "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md",
+      "readComplete": true,
+      "sha256": "a23e2232b6a2749de9691e420db476d93400acc6a8359eb3b3a685a3e385983f"
+    },
+    {
+      "path": "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md",
+      "readComplete": true,
+      "sha256": "f5d8d691ca4237e8edac180d4fbfce7b71d8a97e8d5e3fe638c9bc11be5c4ceb"
+    },
+    {
+      "path": "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md",
+      "readComplete": true,
+      "sha256": "87dd8ae46c439ea00336b7b12d1413d5e86f1057b7f02dc958b473f43a0be39a"
+    },
+    {
+      "path": "wiki/sources/deontologia-biologo-farmacista-psicologo-2026.md",
+      "readComplete": true,
+      "sha256": "b89577989be344226b347ccc8212bc3cd79252ddc231982035cc0b12cac9b4f7"
+    },
+    {
+      "path": "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md",
+      "readComplete": true,
+      "sha256": "cb9a966b4a51bb18537ce8a50b770084cfbab3725e567926d481dd169151665d"
+    },
+    {
+      "path": "wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md",
+      "readComplete": true,
+      "sha256": "afdc60399702cecee2baa6828b3a8302e518170b03736a4f762262dea5f5f3c8"
+    },
+    {
+      "path": "wiki/sources/dirigenza-sanitaria-concorsi-ccnl-2026.md",
+      "readComplete": true,
+      "sha256": "9214181bb7035a4fdac7ac81f6cd3772b2d5435b2f6901fb912351ad62fe9000"
+    },
+    {
+      "path": "wiki/sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026.md",
+      "readComplete": true,
+      "sha256": "068d6021a950a8527c8fef091e71394804f0a3f07f411205d58e2bddf58e1ab2"
+    },
+    {
+      "path": "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md",
+      "readComplete": true,
+      "sha256": "1002ab811bf9dbe8e18a528fcc622627809a086d03ea3b400768ae07d094a5dc"
+    },
+    {
+      "path": "wiki/sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn.md",
+      "readComplete": true,
+      "sha256": "7005a47b67e35996183cae5779d1c73dbf71966e751a7b63a370bd6a471ab6e5"
+    },
+    {
+      "path": "wiki/sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md",
+      "readComplete": true,
+      "sha256": "56a053ef440331a1bc47261ee906c6e24ffffbb68cb932c73cbcffae67392f02"
+    },
+    {
+      "path": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "readComplete": true,
+      "sha256": "0cc840b19879a5fb17fa507030b7e786cde41c63b73daac5d04fc694e3eb3c96"
+    },
+    {
+      "path": "wiki/sources/emorragia-post-partum-allattamento-iss-ministero.md",
+      "readComplete": true,
+      "sha256": "65aaea20b92396cfc386d41c4175771b646ba9075750478ef3cdb980d2f7b36f"
+    },
+    {
+      "path": "wiki/sources/epidemiologia-base-iss.md",
+      "readComplete": true,
+      "sha256": "3a7d4e8cc9815479801d6e5a744b19b8043864d99a5553f0ed1da4ceea78269e"
+    },
+    {
+      "path": "wiki/sources/flussi-economici-nsis-modelli-ce-sp.md",
+      "readComplete": true,
+      "sha256": "d33c42b92ec301e068a34c5c1f35d1e64c81470c2ae0bb15feffa331997e3f0e"
+    },
+    {
+      "path": "wiki/sources/flusso-sdo-scheda-dimissione-ospedaliera.md",
+      "readComplete": true,
+      "sha256": "c268b2a1bf7147ab577a5ac6ddbcdfcf282f95e058c86f2104fa16e63033563a"
+    },
+    {
+      "path": "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
+      "readComplete": true,
+      "sha256": "ba053fa7f04b0dfcf631ac200483051de4ea610150e94463fec553700ea7cc3b"
+    },
+    {
+      "path": "wiki/sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md",
+      "readComplete": true,
+      "sha256": "f8b53077e33d2c635ae044659b005568cc32917100277630a16b068cc07b70d3"
+    },
+    {
+      "path": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "readComplete": true,
+      "sha256": "80851fb11e1357d3772069e5066bf73780823b1f651c0465ff01e57ea52612ff"
+    },
+    {
+      "path": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "readComplete": true,
+      "sha256": "d6b17377bb60363cb33c50328b173ae0798e5c6cfe68ced262eca71ae4c019a7"
+    },
+    {
+      "path": "wiki/sources/integrazione-sociosanitaria-accreditamento-quadro-nazionale-2026.md",
+      "readComplete": true,
+      "sha256": "bcba81243d75b98987d0ac71ba5ae6da0ffd014567c02f3dc0b3f4233197a6ec"
+    },
+    {
+      "path": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "readComplete": true,
+      "sha256": "2115d196d114acdae1611ed4073b1a7bd142d141c04b8be6266bef3c3466d56a"
+    },
+    {
+      "path": "wiki/sources/lea-aggiornamenti-pubblicati-settembre-2026.md",
+      "readComplete": true,
+      "sha256": "16593e831856b67abad9dc1551e69c8d1105ee7f8aab5244a36904a494c03a31"
+    },
+    {
+      "path": "wiki/sources/legge-241-1990-procedimento-amministrativo.md",
+      "readComplete": true,
+      "sha256": "c2fd891f64d26e3241c4e11e33943c39fa10409b97092134349f77cc62b07137"
+    },
+    {
+      "path": "wiki/sources/legge-7-giugno-2000-n-150-comunicazione-pubblica-urp.md",
+      "readComplete": true,
+      "sha256": "ad6b9dfdaf444505299969ec039576543a6e2a828f387783d0188cb909571330"
+    },
+    {
+      "path": "wiki/sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md",
+      "readComplete": true,
+      "sha256": "62c516c1517036c2ef38f78fc64bafc8501e359177889c47a84ab1be06d2e2ba"
+    },
+    {
+      "path": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "readComplete": true,
+      "sha256": "2be82a8f40148cf36e9d6084e6cbf1ad08bc0bd524d837a7dcbaf7babc307ec8"
+    },
+    {
+      "path": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "readComplete": true,
+      "sha256": "67968faf5462ab4ad15eef2e2bef50d8d4f7102f80a8ac3d069a19ec78478aed"
+    },
+    {
+      "path": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "readComplete": true,
+      "sha256": "98d0740cd4486601f3465104925f7277414938263163bee411f265ad4836a29b"
+    },
+    {
+      "path": "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md",
+      "readComplete": true,
+      "sha256": "3bc9bf6a6d404998903dd1565a327a79bbc68b68172d1a503ae1e71044d52826"
+    },
+    {
+      "path": "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md",
+      "readComplete": true,
+      "sha256": "5a488b4d207823f2dad223bbf87e1728c201aa54ba33c0a7aef6a6e1f3113906"
+    },
+    {
+      "path": "wiki/sources/procedure-affidamento-gare-appalti-concessioni-soglie.md",
+      "readComplete": true,
+      "sha256": "4f9ce783cc1f490faf9c3e73abd760d048a48d0bb5b33ae3c870498d39d2265a"
+    },
+    {
+      "path": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "readComplete": true,
+      "sha256": "4ff14ae5fc195318d4e08327c86cdfa19c6ccdfdc4a64e5104667f66125d7cc4"
+    },
+    {
+      "path": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "readComplete": true,
+      "sha256": "3666462fcad9762dde21366b706cc260d00a13790ec4a1e7594ca9d27ac331dd"
+    },
+    {
+      "path": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "readComplete": true,
+      "sha256": "bc01b52442e4321b8fa971144af08e91125414bb41c5c994ce625fc02be1634e"
+    },
+    {
+      "path": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "readComplete": true,
+      "sha256": "8696f772222441a3d7a475bb3dcb396a1d71038f024e06bac70f52ec84505543"
+    },
+    {
+      "path": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "readComplete": true,
+      "sha256": "2c17bff5a50e5c641181a967754c79cc959579a48c192b2cfba6093ac0efa4e2"
+    },
+    {
+      "path": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "readComplete": true,
+      "sha256": "9e9154e4413b6bd0e9d44e9e36780bed1869052ebffd1d99f627ab5a00ed2e2f"
+    },
+    {
+      "path": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "readComplete": true,
+      "sha256": "00ed7d23f808ec2b33fad139a5a6a1f8927060480cfd38dc65300bb9a0e4219a"
+    },
+    {
+      "path": "wiki/sources/qualita-biosicurezza-laboratorio-tslb.md",
+      "readComplete": true,
+      "sha256": "bdf7aa596a312350a051d7d597d3b28f112c37f7c67f5e1b8d110e0bbfbbac53"
+    },
+    {
+      "path": "wiki/sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020.md",
+      "readComplete": true,
+      "sha256": "fe218eafe86959d7ab6491f39e1a56f575afc50ee969d3a17fde6e5f360cdc67"
+    },
+    {
+      "path": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "readComplete": true,
+      "sha256": "564c46c94749a4e2107de39d79dfc807d306e72a9ed22c529e63987e44bc0ccf"
+    },
+    {
+      "path": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "readComplete": true,
+      "sha256": "c90c82447c66f9a6c3e5b40289ab6c0c2570f05155decc816a55a3922e935093"
+    },
+    {
+      "path": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "readComplete": true,
+      "sha256": "9eb99a243fdc47fbdf7ba769c72743074f47377d99676f282a2800fc3137c40d"
+    },
+    {
+      "path": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "readComplete": true,
+      "sha256": "2f08a775b91e2f3cb029b42764b6e2145abbe7a1d3b3ab72b146c86f3a43e52b"
+    },
+    {
+      "path": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "readComplete": true,
+      "sha256": "40e7a8e042ca31e21f13d4b31fa2e52a26f7b72626f09cf363ae7cae49f75077"
+    },
+    {
+      "path": "wiki/sources/sicurezza-travaglio-parto-morte-materna-ministero.md",
+      "readComplete": true,
+      "sha256": "e056369eb4c2b0b866252b0b9d97267410189e2159755fb7db701f1a2f693917"
+    },
+    {
+      "path": "wiki/sources/sorveglianza-passi-protocollo-operativo-iss.md",
+      "readComplete": true,
+      "sha256": "63e105cc99a2d27257537bbf598c0219f306a2d6bdebcf59001e8f75289082fb"
+    },
+    {
+      "path": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "readComplete": true,
+      "sha256": "7525c32fa58f1e8d33629bfe77cd70cc2fde8fdad58e50349445dd9b5c6338e2"
+    },
+    {
+      "path": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "readComplete": true,
+      "sha256": "df050b1793e2a2b0eb3369429672844f54664eeb3cc0c020b1dc697634260bc5"
+    },
+    {
+      "path": "wiki/sources/territorio-cot-continuita-pdta-persona-fragile-toscana.md",
+      "readComplete": true,
+      "sha256": "dbd4b4ce1d01d89b7855ac11b3e4510c60331df36150566d4897d47b39d4a942"
+    },
+    {
+      "path": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "readComplete": true,
+      "sha256": "9c95189551a5964a77f80808d35719ff0b7733f6429d80c69654978f9e032999"
+    },
+    {
+      "path": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "readComplete": true,
+      "sha256": "28605603dd147eea70139065e44ab1b4e5799958b24c32ae616a9bd7928707eb"
+    },
+    {
+      "path": "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md",
+      "readComplete": true,
+      "sha256": "40366885ddd5eb8bb8e16e08490b2a98b86570995690d6a04be5d43b45b762f1"
+    },
+    {
+      "path": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "readComplete": true,
+      "sha256": "05eeb3131051a82db6f163cc96460ba9b1daed65273c96e4cdfd73ef730cdfa6"
+    }
+  ],
+  "supportingPlanning": [
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/index.md",
+      "sha256": "3d5c03dc1a32cfda03e48d63da073c7e02dac2f9bfd0e5146812d8597b546fc0",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/index.md",
+      "sha256": "8b54932290890a323f7de353d13539d757b0f2dc2f654e41bacdbb5803f40a8d",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/index.md",
+      "sha256": "e532d20362cb0e391094f98883b1165834b4c49587bd10f457a91db2c70baceb",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/index.md",
+      "sha256": "f7059e9bca0128ecff18fab43e29b70861bcd7ce90ea30082989f4198b021856",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "sha256": "a149b4a69a6a54191f22e7d9708cc96416c17559c9ab0a0682beb2a2c7bf0a92",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "sha256": "1e282450e2c781b8461fd68494c9282a97f527aa80c299f81846897a28c2a702",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "sha256": "5f902849231360ac3500ce62d78242cb616b943e88c54e4fcb21601742129f93",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "sha256": "72538a15d683b43928a2464139f83f095281927f6d350eeb72d7486414422299",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/index.md",
+      "sha256": "f6e04f62b5eaa130295a9df14f0f309b63d26c79ec1cdfef7e49eec4df6d0d44",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "sha256": "06a52546b02d2c14a1792f49d8b5a5e2fe336425640586b0962f66a666f87536",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/03-mappa-fonti-specialistiche.md",
+      "sha256": "4215f167a40081897ac44f5af6440431fa76292af2ea0cc8a6b24147318a1f4d",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/volumi/vol-07-sanita-amministrativa-professioni-sanitarie/planning/04-bibbia-del-volume.md",
+      "sha256": "7ca7d97bf879edfd7ca15470e7036a2357b45ab7fd02c28b453e6b151bf6fcab",
+      "readComplete": true
+    }
+  ],
+  "findingsDetails": [
+    {
+      "id": "V07-01",
+      "key": "SA01/05",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "line": 233,
+      "anchor": "pregiudizio concreto",
+      "category": "Normativa",
+      "severity": "Grave",
+      "problem": "La sezione FOIA presenta il rilascio di dati sanitari come bilanciamento del pregiudizio concreto, senza spiegare il divieto di diffusione e la relativa eccezione assoluta.",
+      "proposal": "Anteporre art. 2-septies, c. 8, Codice privacy e artt. 7-bis, c. 6, e 5-bis, c. 3, D.Lgs. 33/2013; valutare accesso parziale solo se i dati residui non consentono reidentificazione. Fonte E01."
+    },
+    {
+      "id": "V07-02",
+      "key": "SA01/05",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "line": 53,
+      "anchor": "Accesso documentale",
+      "category": "Normativa",
+      "severity": "Grave",
+      "problem": "Manca il requisito del diritto di rango almeno pari per accesso documentale a salute di terzi. Interesse diretto, concreto e attuale da solo non esaurisce il test.",
+      "proposal": "Aggiungere art. 60 Codice privacy, raccordo art. 24, c. 7, L. 241/1990 e caso distinto dal FOIA. Fonte E02."
+    },
+    {
+      "id": "V07-03",
+      "key": "SA01/05",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "line": 251,
+      "anchor": "termini",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "Il lettore viene rinviato ai termini della procedura senza apprendere la regola nazionale speciale sul rilascio della documentazione sanitaria.",
+      "proposal": "Inserire L. 24/2017, art. 4, c. 2: documentazione disponibile entro sette giorni; integrazioni entro trenta dalla richiesta, aventi diritto e controlli di legittimazione. Non trattare il termine come soltanto aziendale. E03."
+    },
+    {
+      "id": "V07-04",
+      "key": "SA01/05",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "line": 59,
+      "anchor": "Fascicolo sanitario elettronico",
+      "category": "Completezza",
+      "severity": "Medio",
+      "problem": "FSE e dossier sono distinti nominalmente ma manca la distinzione essenziale fra alimentazione e consenso alla consultazione per cura.",
+      "proposal": "Aggiungere quadro nazionale FSE 2.0: alimentazione senza consenso, consenso alla consultazione per cura e relative eccezioni/garanzie, oscuramento; separare il dossier e la sua disciplina. E04–E05."
+    },
+    {
+      "id": "V07-05",
+      "key": "SA01/05",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "line": 342,
+      "anchor": "richiesta di integrazione**,",
+      "category": "Coerenza concettuale",
+      "severity": "Medio",
+      "problem": "La richiesta di integrazione è enumerata insieme agli esiti conclusivi.",
+      "proposal": "Separare atto istruttorio interlocutorio da accoglimento, parziale, differimento e diniego; precisare effetti sui termini solo con fonte applicabile."
+    },
+    {
+      "id": "V07-06",
+      "key": "SA01/05",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "line": 412,
+      "anchor": "Un file o una scansione",
+      "category": "Definizione",
+      "severity": "Medio",
+      "problem": "La frase confonde appartenenza alla categoria documento informatico ed efficacia probatoria della copia o scansione.",
+      "proposal": "Definire prima il documento informatico; spiegare poi che firma, integrità e conformità incidono su efficacia e valore probatorio, non sull’essere un documento informatico."
+    },
+    {
+      "id": "V07-07",
+      "key": "SA01/04",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "line": 44,
+      "anchor": "Atti, procedimenti e flussi",
+      "category": "Struttura",
+      "severity": "Lieve",
+      "problem": "Il capitolo ampliato comprende SSN, organi, LEA e accreditamento; titolo e seconda apertura mantengono la precedente enfasi su atti e flussi.",
+      "proposal": "Adeguare titolo/sommario e raccordare le due aperture. Conservare le integrazioni nazionali del 2 ottobre, che colmano le lacune precedentemente segnalate."
+    },
+    {
+      "id": "V07-08",
+      "key": "SA01/06",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "line": 573,
+      "anchor": "Da otto a dieci punti",
+      "category": "Didattica",
+      "severity": "Medio",
+      "problem": "La valutazione sommativa può qualificare buona una risposta pur con errore su riservatezza o competenza.",
+      "proposal": "Aggiungere condizioni di insufficienza per divulgazione indebita, accesso illegittimo o promessa fuori competenza, indipendenti dal totale; raccordo con la rubrica dei casi SA02/10."
+    },
+    {
+      "id": "V07-09",
+      "key": "SA01/06",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "line": 522,
+      "anchor": "riscrittura",
+      "category": "Chiarezza",
+      "severity": "Lieve",
+      "problem": "Gli esempi di comunicazione semplificata conservano formule come documento indicato nel modulo/canale previsto/ufficio competente.",
+      "proposal": "Completare un esempio fittizio con documento, ufficio, canale e azione realmente nominati, indicando che i dati sono illustrativi."
+    },
+    {
+      "id": "V07-10",
+      "key": "SA01/09",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "line": 546,
+      "anchor": "−4,45%",
+      "category": "Calcolo",
+      "severity": "Lieve",
+      "problem": "Il calcolo usa il costo unitario già arrotondato: la variazione esatta da 20 a 516000/27000 è −4,4444…%, non −4,45%.",
+      "proposal": "Conservare precisione nei passaggi intermedi e scrivere circa −4,44% nelle due occorrenze; costo 19,11 euro e differenza −0,89 euro restano corretti come importi arrotondati."
+    },
+    {
+      "id": "V07-11",
+      "key": "SA01/09",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "line": 42,
+      "anchor": "bilancio",
+      "category": "Completezza",
+      "severity": "Medio",
+      "problem": "La trattazione contabile non offre un quadro completo dei documenti fondamentali del bilancio sanitario, dei ruoli e del relativo ciclo nazionale.",
+      "proposal": "Integrare prospetto essenziale D.Lgs. 118/2011 Titolo II, documenti ex art. 26 e adozione/approvazione ex art. 31; verificare il consolidato prima di attivare termini. Aggiungere un esempio economico-patrimoniale su ammortamento e contributo per investimento."
+    },
+    {
+      "id": "V07-12",
+      "key": "SA01/10",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "line": 26,
+      "anchor": "farmaci",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "Farmaci e dispositivi nel titolo ricevono soprattutto la stessa logica generale di acquisto. Mancano nozioni settoriali per distinguere medicinale, dispositivo e relative autorizzazioni/classi; SA04/04 copre solo parte del bisogno.",
+      "proposal": "Inserire nucleo amministrativo su AIC e classi di rimborsabilità A/H/C, rinvio preciso a SA04/04 per MDR/IVDR, centralizzazione acquisti/soggetti aggregatori e NSO; fonti AIFA, MEF e normativa ufficiale. Escludere prescrizioni terapeutiche."
+    },
+    {
+      "id": "V07-13",
+      "key": "SA01/10",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "line": 28,
+      "anchor": "scorte",
+      "category": "Completezza",
+      "severity": "Medio",
+      "problem": "Magazzino tratta tracciabilità e anomalie ma lascia troppo impliciti rotazione per scadenza e condizioni di conservazione.",
+      "proposal": "Spiegare FEFO, segregazione prodotti non conformi/ritirati e principio di catena del freddo senza inventare temperature universali; esempio con scorte, consumo e tempo di riordino."
+    },
+    {
+      "id": "V07-14",
+      "key": "SA01/10",
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "line": 87,
+      "anchor": "definisce",
+      "category": "Lingua",
+      "severity": "Lieve",
+      "problem": "Nello stesso elenco operativo si alternano imperativi e indicativi: identifica/definisce/distingue/propone.",
+      "proposal": "Uniformare in identifica, definisci, distingui, proponi; verificare anche prevede/prevedi nell’esercizio SA02/05."
+    },
+    {
+      "id": "V07-15",
+      "key": "SA02/03",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "line": 70,
+      "anchor": "Legge 24",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "Responsabilità e consenso restano una cornice: non sono spiegati i principali regimi della L. 24/2017 né DAT, minori e pianificazione condivisa della L. 219/2017.",
+      "proposal": "Aggiungere tabella struttura/professionista/responsabilità civile e penale, art. 590-sexies con limiti, cenno assicurativo; distinguere consenso, rifiuto, DAT e pianificazione. Rinvio a SA02/06 per la relazione di cura già presente."
+    },
+    {
+      "id": "V07-16",
+      "key": "SA02/04",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "line": 30,
+      "anchor": "processo assistenziale",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "Il capitolo di tecniche assistenziali insiste su verificare procedure e confini, ma omette nozioni teoriche fondamentali utilizzabili al concorso.",
+      "proposal": "Inserire diagnosi infermieristica distinta da diagnosi medica, cinque momenti dell’igiene mani e precauzioni standard/per trasmissione, logica delle scale di dolore/funzione/rischio e principi di prevenzione delle infezioni da catetere. Nessun bisogno di settaggi locali o dosi."
+    },
+    {
+      "id": "V07-17",
+      "key": "SA02/05",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "line": 155,
+      "anchor": "scala 2 prevista dal documento per BPCO",
+      "category": "Errore clinico",
+      "severity": "Grave",
+      "problem": "La scala 2 NEWS2 è presentata come scala per BPCO, estensione che può determinare una classificazione errata.",
+      "proposal": "Precisare insufficienza respiratoria ipercapnica confermata da emogasanalisi corrente/precedente e decisione clinica documentata del target 88–92%; BPCO isolata non basta. Negli altri casi scala 1. Fonte RCP E06."
+    },
+    {
+      "id": "V07-18",
+      "key": "SA02/05",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "line": 34,
+      "anchor": "NEWS2",
+      "category": "Completezza clinica",
+      "severity": "Medio",
+      "problem": "La tabella NEWS2 è inserita in capitolo anche ostetrico senza rendere esplicito il perimetro di validazione e le esclusioni.",
+      "proposal": "Esplicitare applicazione adulti e non uso standard sotto i 16 anni/in gravidanza; indicare strumenti appropriati al setting, verificati nelle linee correnti. E06."
+    },
+    {
+      "id": "V07-19",
+      "key": "SA02/05",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "line": 24,
+      "anchor": "triage",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "Non viene insegnato il sistema nazionale a cinque priorità con relativi tempi; il rinvio ai protocolli locali rischia di occultare il nucleo nazionale.",
+      "proposal": "Aggiungere tabella 1–5: immediato, 15, 60, 120 e 240 minuti con definizioni e rivalutazione; distinguere il colore regionale dal codice nazionale. Fonti E07–E08."
+    },
+    {
+      "id": "V07-20",
+      "key": "SA02/05",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "line": 281,
+      "anchor": "BLS",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "BLS/ALS/NLS sono soprattutto differenze di finalità e organizzazione; emergenze ostetriche sono etichette senza definizioni e segni discriminanti sufficienti.",
+      "proposal": "Integrare riconoscimento teorico dell’arresto e sequenza concettuale degli algoritmi versionati; definire e distinguere eclampsia, distocia di spalla, prolasso del funicolo e sepsi materna. Validare su linee correnti senza trasformare il libro in protocollo clinico universale."
+    },
+    {
+      "id": "V07-21",
+      "key": "SA02/06",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "line": 36,
+      "anchor": "Centrale",
+      "category": "Rinvii e completezza",
+      "severity": "Medio",
+      "problem": "Il quadro territoriale si appoggia soprattutto al manuale AGENAS 2022; il lettore non è guidato ai nuovi contenuti SSN del capitolo SA01/04.",
+      "proposal": "Rinvio preciso a SA01/04 e sintesi D.M. 77/2022 su Casa della comunità, COT, Ospedale di comunità e IFeC, distinguendo standard nazionale e attuazione locale."
+    },
+    {
+      "id": "V07-22",
+      "key": "SA02/08",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "line": 161,
+      "anchor": "lo scarto non prova",
+      "category": "Errore quantitativo",
+      "severity": "Grave",
+      "problem": "47,4−39,3−7,7=0,4 punti; 77,7−46,8−30,7=0,2. I due scarti sono attribuiti ad arrotondamento e pesatura senza prova. Arrotondare tre valori al decimo non spiega scarti oltre 0,15 punti; pesi comuni non eliminano l’additività.",
+      "proposal": "Conservare i dati originali se fedeli alla fonte, ma ricostruire denominatori, categorie mancanti e note della tabella. Finché non riconciliati, scrivere che le componenti pubblicate non sommano al totale e che la causa non è stabilita; correggere anche source note e soluzione dell’esercizio cervicale."
+    },
+    {
+      "id": "V07-23",
+      "key": "SA02/08",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "line": 40,
+      "anchor": "definizione operativa",
+      "category": "Terminologia",
+      "severity": "Medio",
+      "problem": "La sezione usa definizione operativa di focolaio per criteri che individuano il caso nell’indagine.",
+      "proposal": "Rinominare definizione operativa di caso e distinguere l’aggregazione epidemiologica del focolaio; il capitolo SA03/05 e la source PREMAL offrono già la distinzione corretta."
+    },
+    {
+      "id": "V07-24",
+      "key": "SA02/08",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "line": 22,
+      "anchor": "screening",
+      "category": "Completezza",
+      "severity": "Medio",
+      "problem": "Si calcolano coperture senza una mappa essenziale dei tre programmi oncologici, popolazioni, test e intervalli; PREMAL non separa bene termini nazionali e organizzazione locale.",
+      "proposal": "Aggiungere quadro dei programmi con data e limiti regionali, poi tabella del flusso PREMAL dal medico ai livelli aziendale/regionale/nazionale, termini verificati nel decreto e definizioni pertinenti."
+    },
+    {
+      "id": "V07-25",
+      "key": "SA02/09",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "line": 313,
+      "anchor": "689",
+      "category": "Completezza normativa",
+      "severity": "Grave",
+      "problem": "L. 689/1981 e D.Lgs. 758/1994 sono nominati senza una sequenza normativa sufficiente per risolvere una prova su contestazione, prescrizione ed estinzione.",
+      "proposal": "Aggiungere due schemi distinti: accertamento/notifica, difesa/pagamento e ordinanza; prescrizione, verifica adempimento, pagamento e comunicazioni. Verificare termini e condizioni negli articoli vigenti; distinguere il procedimento ambientale del D.Lgs. 152/2006, parte VI-bis."
+    },
+    {
+      "id": "V07-26",
+      "key": "SA02/09",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "line": 50,
+      "anchor": "AIA",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "AIA/AUA, controlli alimentari e sicurezza del lavoro ricevono soprattutto una mappa del controllo; mancano presupposti essenziali dei regimi e contenuti dei relativi oggetti.",
+      "proposal": "Integrare confronto AIA/AUA, quadro DVR e ruoli prevenzionistici, HACCP/rintracciabilità e diritti di controperizia/controversia ex D.Lgs. 27/2021. Un verbale didattico compilato deve mostrare fatti, norma, qualificazione e seguito."
+    },
+    {
+      "id": "V07-27",
+      "key": "SA02/10",
+      "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "line": 28,
+      "anchor": "Caso",
+      "category": "Didattica",
+      "severity": "Medio",
+      "problem": "I cinque casi esercitano prevalentemente interruzione/allerta/rinvio; tali mosse sono corrette ma ripetono i capitoli precedenti.",
+      "proposal": "Aggiungere almeno un caso completo per profilo con dati sufficienti e un output valutabile fino alla conclusione nel perimetro di competenza; mantenere i casi di escalation come tipologia distinta."
+    },
+    {
+      "id": "V07-28",
+      "key": "SA03/01",
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "line": 241,
+      "anchor": "la presenza e la modalità",
+      "category": "Normativa e quiz",
+      "severity": "Grave",
+      "problem": "Presenza dell’inglese/informatica trattata come variabile puramente eventuale; esercizio classifica inglese come M senza distinguere obbligo generale e modalità concreta.",
+      "proposal": "Esporre art. 37 D.Lgs. 165/2001 e coordinamento con disciplina speciale; classificare come mobile la modalità/livello, non genericamente l’obbligo. Correggere spiegazione e soluzione; analogo SA04/01 riga 174. Fonte E09."
+    },
+    {
+      "id": "V07-29",
+      "key": "SA03/01",
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "line": 110,
+      "anchor": "punteggi",
+      "category": "Completezza normativa",
+      "severity": "Medio",
+      "problem": "Punteggi e soglie sono quasi soltanto dati da recuperare nel bando: manca lo schema ordinario del D.P.R. 483/1997 per profilo.",
+      "proposal": "Insegnare quadro nazionale ordinario con eccezioni e coordinamento normativo, poi far confrontare il bando. Analogo D.P.R. 220/2001 per SA02/01 e SA04/01; non generalizzare da un singolo bando."
+    },
+    {
+      "id": "V07-30",
+      "key": "SA03/02",
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+      "line": 42,
+      "anchor": "LEA",
+      "category": "Rinvii e completezza",
+      "severity": "Medio",
+      "problem": "La programmazione dirigenziale è prevalentemente metodo astratto, con standard e indicatori nominati. La matrice dichiara NSG/NSIS coperti mentre la source governance esclude i claim NSG per acquisizione bloccata.",
+      "proposal": "Raccordare teoria a SA01/04, aggiungere un cruscotto con definizioni di indicatori, numeratori/denominatori e target didattici; acquisire fonte NSG valida e riconciliare matrice e fonti."
+    },
+    {
+      "id": "V07-31",
+      "key": "SA03/03",
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md",
+      "line": 56,
+      "anchor": "autonomamente",
+      "category": "Adeguatezza destinatario",
+      "severity": "Medio",
+      "problem": "La formula che il testo non autorizza a scegliere autonomamente una terapia è ambigua in un capitolo rivolto a dirigenti medici già abilitati.",
+      "proposal": "Riformulare come limite del manuale concorsuale: la decisione clinica resta responsabilità del professionista nel caso reale, secondo evidenze e competenze; evitare negazioni generali dell’autonomia medica."
+    },
+    {
+      "id": "V07-32",
+      "key": "SA03/04",
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "line": 26,
+      "anchor": "rischio",
+      "category": "Completezza",
+      "severity": "Medio",
+      "problem": "Strumenti di rischio clinico ancora poco sviluppati: evento sentinella/SIMES, RCA e FMEA non hanno un confronto operativo sufficiente.",
+      "proposal": "Definire evento avverso, near miss ed evento sentinella; distinguere RCA retrospettiva e FMEA proattiva, con una piccola applicazione e rinvio al contributo RCA di SA04/04."
+    },
+    {
+      "id": "V07-33",
+      "key": "SA03/06",
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+      "line": 28,
+      "anchor": "Caso",
+      "category": "Didattica",
+      "severity": "Medio",
+      "problem": "Il caso dispone di parametri ma la soluzione resta su categorie di ipotesi, senza mostrare un confronto diagnostico discriminante.",
+      "proposal": "Completare il solo caso illustrativo con ipotesi esemplificative, dati a favore/contro e verifiche discriminanti; non aggiungere un’enciclopedia delle specialità esclusa dal progetto."
+    },
+    {
+      "id": "V07-34",
+      "key": "SA03/07",
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "line": 294,
+      "anchor": "revisione entrata in vigore il 1° dicembre 2023",
+      "category": "Normativa professionale",
+      "severity": "Grave",
+      "problem": "Il codice CNOP 2023 è indicato come vigente; il sito ufficiale lo archivia nel periodo 1/12/2023–24/12/2024 a seguito della sentenza del Consiglio di Stato.",
+      "proposal": "Sostituire il riferimento con la pagina CNOP del codice attualmente vigente, confrontare gli articoli eventualmente recepiti e correggere la source deontologia. La revisione in corso nel 2026 non rimette in vigore il testo 2023. E10–E11."
+    },
+    {
+      "id": "V07-35",
+      "key": "SA04/02",
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "line": 49,
+      "anchor": "Discipline",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "Biochimica, microbiologia, ematologia e immunologia sono una mappa orientativa, ma la matrice dichiara complete le discipline applicate. Mancano anche precisione/esattezza, calibrazione e interpretazione di controllo qualità.",
+      "proposal": "Integrare principi analitici di base, differenza calibrazione/controllo, precisione/esattezza e un grafico QC commentato; esempi concettuali per le principali discipline senza reagenti o settaggi universali."
+    },
+    {
+      "id": "V07-36",
+      "key": "SA04/02",
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "line": 25,
+      "anchor": "biosicurezza",
+      "category": "Completezza normativa",
+      "severity": "Grave",
+      "problem": "Approccio OMS al rischio senza quadro essenziale dei gruppi di agenti e misure minime nazionali; decontaminazione e rifiuti restano generici.",
+      "proposal": "Raccordare D.Lgs. 81/2008, Titolo X e allegati pertinenti: gruppi/containment, differenze cappe, disinfezione/sterilizzazione e categorie dei rifiuti sanitari. L’approccio al rischio non elimina gli obblighi legali."
+    },
+    {
+      "id": "V07-37",
+      "key": "SA04/03",
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "line": 25,
+      "anchor": "dosimetria",
+      "category": "Completezza",
+      "severity": "Grave",
+      "problem": "Grandezze Bq/Gy/Sv sono spiegate, ma mancano indicatori dosimetrici di uso concorsuale e principi fisici essenziali per collegare imaging e rischio.",
+      "proposal": "Definire CTDIvol, DLP e prodotto dose-area con unità e limiti; effetti stocastici/reazioni tissutali, tempo-distanza-schermatura, limiti di dose professionali/pubblico e distinzione dalle esposizioni mediche; verificare i valori nella norma vigente."
+    },
+    {
+      "id": "V07-38",
+      "key": "SA04/03",
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "line": 36,
+      "anchor": "risonanza",
+      "category": "Completezza",
+      "severity": "Medio",
+      "problem": "Risonanza e particolari esposizioni non ricevono un quadro sufficiente dei rischi specifici.",
+      "proposal": "Aggiungere rischio proiettile, impianti/compatibilità, RF, rumore e criogeni; riferimento al D.M. 14/1/2021 e criteri generali di sicurezza, più esposizioni in gravidanza; nessun protocollo esecutivo."
+    },
+    {
+      "id": "V07-39",
+      "key": "SA04/03",
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "line": 27,
+      "anchor": "artefatt",
+      "category": "Apparati",
+      "severity": "Medio",
+      "problem": "Il capitolo promette ragionamento sulla qualità dell’immagine e sugli artefatti ma non presenta un’immagine o schema esaminabile.",
+      "proposal": "Inserire almeno due immagini didattiche originali o con licenza e didascalia, domanda, risposta e limite interpretativo."
+    },
+    {
+      "id": "V07-40",
+      "key": "SA04/04",
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "line": 41,
+      "anchor": "incidente grave",
+      "category": "Definizione e completezza",
+      "severity": "Medio",
+      "problem": "Definizione di incidente grave circolare, rinvia alle conseguenze definite nel regolamento senza renderle apprendibili; classi e identificazione restano poco sviluppate.",
+      "proposal": "Esplicitare morte, grave deterioramento della salute e grave minaccia per la salute pubblica; aggiungere classi MDR/IVDR, UDI e distinzione FSCA/FSN. Conservare i termini corretti del D.M. 1/7/2025: tempestivamente entro 10 giorni per grave, facoltà entro 30 per non grave. E12."
+    },
+    {
+      "id": "V07-41",
+      "key": "SA03/07",
+      "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "line": 192,
+      "anchor": "Humanizer",
+      "category": "Residui editoriali",
+      "severity": "Medio",
+      "problem": "Istruzioni di produzione sono presenti nella prosa per il lettore: gate, Humanizer, audit step 15. Ricorrono anche SA03/06 e SA04/04.",
+      "proposal": "Togliere dalla destinazione pubblica le istruzioni di pipeline, mantenendole nei report di lavoro; conservare soltanto cut-off e limiti informativi utili al candidato."
+    }
+  ],
+  "externalEvidence": {
+    "E01": {
+      "claim": "Divieto FOIA salute",
+      "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9461036"
+    },
+    "E02": {
+      "claim": "Pari rango e accesso, parere 18 giugno 2026",
+      "url": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10267085"
+    },
+    "E03": {
+      "claim": "L.24/2017 art.4",
+      "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=17G00041&art.dataPubblicazioneGazzetta=2017-03-17&art.flagTipoArticolo=0&art.idArticolo=4&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1"
+    },
+    "E04": {
+      "claim": "Garante FSE",
+      "url": "https://www.garanteprivacy.it/temi/fse"
+    },
+    "E05": {
+      "claim": "Garante dossier",
+      "url": "https://www.garanteprivacy.it/faq/dossier-sanitario"
+    },
+    "E06": {
+      "claim": "RCP NEWS2 report",
+      "url": "https://www.rcp.ac.uk/media/a4ibkkbf/news2-final-report_0_0.pdf"
+    },
+    "E07": {
+      "claim": "Ministero triage nazionale 2019",
+      "url": "https://www.salute.gov.it/new/it/news-e-media/notizie/pronto-soccorso-libera-della-conferenza-stato-regioni-alle-nuove-linee-di/"
+    },
+    "E08": {
+      "claim": "Linee nazionali triage PDF",
+      "url": "https://www.salute.gov.it/imgs/C_17_pubblicazioni_3145_allegato.pdf"
+    },
+    "E09": {
+      "claim": "D.Lgs.165/2001 art.37",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A2001-03-30%3B165~art37%21vig="
+    },
+    "E10": {
+      "claim": "CNOP archivio codice 2023–2024",
+      "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente-dal-01-dicembre-2023-al-24-dicembre-2024/"
+    },
+    "E11": {
+      "claim": "CNOP codice vigente",
+      "url": "https://www.psy.it/la-professione-psicologica/codice-deontologico-degli-psicologi-italiani/codice-deontologico-vigente/"
+    },
+    "E12": {
+      "claim": "DM1 luglio2025 art4 termini vigilanza",
+      "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25A05071&art.dataPubblicazioneGazzetta=2025-09-19&art.flagTipoArticolo=0&art.idArticolo=4&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1"
+    },
+    "E13": {
+      "claim": "CCNL Area Sanità definitivo27/2/2026",
+      "url": "https://www.aranagenzia.it/novita/ccnl-area-sanita-2022-2024/"
+    },
+    "E14": {
+      "claim": "PNP2026–2031",
+      "url": "https://www.salute.gov.it/new/it/tema/il-piano-nazionale-della-prevenzione/"
+    },
+    "E15": {
+      "claim": "PNHTADM2026–2028",
+      "url": "https://www.agenas.gov.it/aree-tematiche/comunicazione/primo-piano/2698-pnhta-dm-2026%E2%80%932028-sbloccate-le-risorse-del-fondo%2C-al-via-la-fase-operativa-del-sistema-nazionale-hta-sui-dispositivi-medici"
+    },
+    "E16": {
+      "claim": "Raccomandazione Euratom2026/403",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A32026H0403"
+    },
+    "E17": {
+      "claim": "FNOPI codice2025",
+      "url": "https://www.fnopi.it/2025/03/24/codice-deontologico-in-vigore/"
+    },
+    "E18": {
+      "claim": "FNOFI stato revisione codice",
+      "url": "https://www.fnofi.it/w/il-nuovo-codice-deontologico-del-fisioterapista"
+    },
+    "E19": {
+      "claim": "GU227/2026 aggiornamentiLEA, artt.8 e12; PDF pp27 e51",
+      "url": "https://www.gazzettaufficiale.it/eli/gu/2026/09/30/227/sg/pdf"
+    },
+    "E20": {
+      "claim": "ISS PASSI colorettale",
+      "url": "https://www.epicentro.iss.it/passi/dati/ScreeningColorettale"
+    }
+  }
+}

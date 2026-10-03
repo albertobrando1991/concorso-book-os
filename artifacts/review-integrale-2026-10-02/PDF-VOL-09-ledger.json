@@ -1,0 +1,92 @@
+{
+  "volume": "VOL-09",
+  "date": "2026-10-02",
+  "pdf": "delivery/VOL-09/candidate/vol-09-interior-kdp.pdf",
+  "sha256": "0c1fca1dcf32fc27b4d37c198e69bb59723407df699e7f2af394fe78dcf1f676",
+  "hashMatchesInventory": true,
+  "pages": 209,
+  "contactSheetsViewed": [
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0001-0024.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0025-0048.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0049-0072.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0073-0096.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0097-0120.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0121-0144.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0145-0168.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0169-0192.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-09/vol-09-interior-kdp/contact-0193-0209.jpg"
+  ],
+  "contactCoverageComplete": true,
+  "detailPagesViewed": [
+    11,
+    68,
+    85,
+    127,
+    168,
+    183,
+    209
+  ],
+  "detailRenderScale": 2,
+  "findings": [
+    {
+      "id": "P09-01",
+      "position": "11",
+      "category": "Tabelle",
+      "severity": "grave",
+      "description": "Dopo il titolo 1.2 Strumenti e applicazioni, le righe Progettazione, Affidamento, Esecuzione e successive sono stampate come un paragrafo con barre verticali, anziché come tabella. Conferma V09-01.",
+      "proposal": "Riparare la struttura Markdown prima di esportare e verificare la continuità dell’intera tabella.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P09-02",
+      "position": "85, 127, 168",
+      "category": "Quiz e titoli",
+      "severity": "grave",
+      "description": "A pagina 85 il titolo 6.3 Quiz 3 è inserito sotto QUIZ 2; a pagina 127 un titolo separa domanda e opzioni; a pagina 168 il titolo 12.3 divide le opzioni C e D. Conferma V09-02.",
+      "proposal": "Spostare i titoli all’esterno delle unità domanda/opzioni/soluzione, rinumerare e ricontrollare sommario e flusso di lettura.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P09-03",
+      "position": "183",
+      "category": "Segnaposto editoriali",
+      "severity": "medio",
+      "description": "Il codice provvisorio N-TR02-XX-04 è stampato sia nel titolo di sezione sia nel riquadro della verifica. Conferma V09-04.",
+      "proposal": "Sostituire il segnaposto con un titolo destinato al lettore; mantenere i codici di audit nei soli metadati interni.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P09-04",
+      "position": "6–7 e chiusura 209",
+      "category": "Apparati mancanti",
+      "severity": "grave",
+      "description": "Il sommario e la chiusura del PDF non contengono le cinque appendici A–E promesse dal progetto editoriale. Conferma il rilievo testuale sulle appendici.",
+      "proposal": "Completare e includere le appendici, oppure riallocare i contenuti indispensabili e correggere coerentemente la promessa editoriale.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P09-05",
+      "position": "6–7",
+      "category": "Leggibilità",
+      "severity": "medio",
+      "description": "L’indice completo è composto con testo inferiore a 7 punti, troppo fitto per una consultazione agevole nel formato stampato.",
+      "proposal": "Aumentare il corpo, distribuire le voci e provare la leggibilità in dimensioni reali.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P09-06",
+      "position": "68 e 183",
+      "category": "Tabelle",
+      "severity": "medio",
+      "description": "Tabelle brevi sono segmentate in più blocchi sulla stessa pagina, con spazi orizzontali fra gruppi di righe; la continuità visiva è indebolita.",
+      "proposal": "Mantenere una tabella unitaria quando resta sulla stessa pagina; usare separazioni solo per gruppi semanticamente distinti.",
+      "status": "non applicato"
+    }
+  ],
+  "limitations": [
+    "Copertura panoramica di tutte le pagine per geometria e ritmo; non equivale alla lettura del testo minuto di ogni pagina rasterizzata.",
+    "Lettura puntuale e controllo grafico ingrandito limitati alle pagine elencate; il testo originale completo è documentato nel rapporto separato.",
+    "Nessuna prova cartacea, verifica cromatica, certificazione PDF/X o collaudo di tutti i link. Non controllate qui copertine e materiali commerciali esterni.",
+    "Metriche automatiche di supporto: nessun oggetto testuale oltre il foglio, nessuna pagina bianca e nessun carattere sostitutivo segnalato nell’inventario; tali esiti non eliminano difetti semantici o di impaginazione."
+  ]
+}

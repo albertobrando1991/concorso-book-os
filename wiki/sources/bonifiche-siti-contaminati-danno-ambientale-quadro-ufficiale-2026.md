@@ -105,3 +105,7 @@ La procedura di bonifica può costituire la via concreta di ripristino di un sit
 - EUR-Lex, direttiva 2004/35/CE: https://eur-lex.europa.eu/eli/dir/2004/35/oj?locale=it
 - MASE, D.M. n. 269/2020 sui siti orfani: https://www.mase.gov.it/sites/default/files/bonifiche/decreto_269_del_2020.pdf
 
+
+## Precisazione del 3 ottobre 2026
+
+L’art. 240 usa letteralmente «inferiore» nella definizione: non si altera la citazione. L’uguaglianza non integra il superamento che attiva i passaggi ulteriori; la lettura coordinata e i casi CSC/CSR sono in [[sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03]]. La riparazione complementare può riguardare il sito danneggiato o, se opportuno, altro sito.

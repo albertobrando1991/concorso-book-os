@@ -1,0 +1,206 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-11-final-20261003-proof.pdf",
+  "sha256": "eb67bedb161968004879438a2dad8ce37d86f4deb7d53d40f7e8db9d2c41b425",
+  "pages": 253,
+  "domPages": 253,
+  "pageCountMatch": true,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "indexEntries": [
+    {
+      "number": 1,
+      "title": "Capitolo 01 — I quattro profili e la mappa del sistema",
+      "indexPage": 6,
+      "printedPage": 10,
+      "actualPage": 10,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md"
+    },
+    {
+      "number": 2,
+      "title": "Capitolo 02 — D.Lgs. 152, MASE, ISPRA e SNPA",
+      "indexPage": 6,
+      "printedPage": 22,
+      "actualPage": 22,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md"
+    },
+    {
+      "number": 3,
+      "title": "Capitolo 03 — VIA, VAS e valutazioni ambientali",
+      "indexPage": 6,
+      "printedPage": 36,
+      "actualPage": 36,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md"
+    },
+    {
+      "number": 4,
+      "title": "Capitolo 04 — AIA, AUA, emissioni e autorizzazioni",
+      "indexPage": 6,
+      "printedPage": 52,
+      "actualPage": 52,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md"
+    },
+    {
+      "number": 5,
+      "title": "Capitolo 05 — Acque, scarichi e servizio idrico",
+      "indexPage": 6,
+      "printedPage": 66,
+      "actualPage": 66,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md"
+    },
+    {
+      "number": 6,
+      "title": "Capitolo 06 — Rifiuti, economia circolare e RENTRI",
+      "indexPage": 7,
+      "printedPage": 82,
+      "actualPage": 82,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md"
+    },
+    {
+      "number": 7,
+      "title": "Capitolo 07 — Bonifiche, siti contaminati e danno ambientale",
+      "indexPage": 7,
+      "printedPage": 98,
+      "actualPage": 98,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md"
+    },
+    {
+      "number": 8,
+      "title": "Capitolo 08 — Aria, rumore, monitoraggio e dati",
+      "indexPage": 7,
+      "printedPage": 117,
+      "actualPage": 117,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md"
+    },
+    {
+      "number": 9,
+      "title": "Capitolo 09 — Controlli, sanzioni e reati ambientali",
+      "indexPage": 7,
+      "printedPage": 134,
+      "actualPage": 134,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md"
+    },
+    {
+      "number": 10,
+      "title": "Capitolo 10 — Sistema di protezione civile e pianificazione",
+      "indexPage": 7,
+      "printedPage": 153,
+      "actualPage": 153,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md"
+    },
+    {
+      "number": 11,
+      "title": "Capitolo 11 — Rischi, allertamento, IT-alert ed emergenze",
+      "indexPage": 8,
+      "printedPage": 170,
+      "actualPage": 170,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md"
+    },
+    {
+      "number": 12,
+      "title": "Capitolo 12 — Clima, energia, rinnovabili, CER ed efficienza",
+      "indexPage": 8,
+      "printedPage": 189,
+      "actualPage": 189,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md"
+    },
+    {
+      "number": 13,
+      "title": "Capitolo 13 — DNSH, CAM e sostenibilità della PA",
+      "indexPage": 8,
+      "printedPage": 212,
+      "actualPage": 212,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md"
+    },
+    {
+      "number": 14,
+      "title": "Capitolo 14 — Laboratorio di casi e quesiti sintetici",
+      "indexPage": 8,
+      "printedPage": 233,
+      "actualPage": 233,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md"
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "name": "AAAAAA+Arial-BoldMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "BAAAAA+Garamond",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+Arial-Black",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "EAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "",
+      "type": "Type3",
+      "embedded": true
+    },
+    {
+      "name": "GAAAAA+Georgia",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "HAAAAA+TimesNewRomanPSMT",
+      "type": "Type0",
+      "embedded": true
+    }
+  ],
+  "allFontsEmbedded": true,
+  "overflowPages": [],
+  "internalLeaks": [],
+  "replacementGlyphs": 0,
+  "missingImages": 0,
+  "indexMinimumPt": 9.500025,
+  "limits": [
+    "Verifica tecnica locale; non equivale a revisione visiva o certificazione normativa.",
+    "Nessuna prova fisica o KDP Previewer eseguita."
+  ]
+}

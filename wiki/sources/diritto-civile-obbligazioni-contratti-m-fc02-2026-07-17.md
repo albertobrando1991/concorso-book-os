@@ -143,3 +143,7 @@ Usare la sequenza:
 ## Stato revisione
 
 Source note pronta per integrazione editoriale selettiva. Il raw Normattiva e' stato auditato sui nuclei e sugli articoli indicati. Vigenza puntuale, eccezioni, coordinamenti con norme speciali e applicazione ai crediti pubblici devono essere confermati da review giuridica umana al cut-off di pubblicazione.
+
+## Integrazioni del 3 ottobre 2026
+
+Artt. 1268–1273 c.c.: nella delegazione il debitore assegna al creditore un terzo che assume l'obbligazione; nell'espromissione il terzo assume verso il creditore senza delegazione; nell'accollo l'accordo nasce fra debitore e terzo e il creditore può aderirvi. La liberazione del debitore originario non si presume. Art. 2808: iscrizione costitutiva dell'ipoteca ([testo MEF](https://def.giustiziatributaria.gov.it/DocTribFrontend/getAttoNormativoDetail.do?ACTION=getArticolo&articolo=Articolo+2808&codiceOrdinamento=0000000000028080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7B9E93F1BE-06AE-4F24-8E9D-B838F7E0C2E6%7D)). Nullità: art. 1418, requisiti e norme imperative; annullabilità: incapacità e vizi del consenso artt. 1425 ss.; rescissione: pericolo o lesione ultra dimidium da bisogno sfruttato, artt. 1447–1448; risoluzione: art. 1453 e altri rimedi sul rapporto. Queste integrazioni alimentano casi distinti nel capitolo 12; non sostituiscono la disciplina tributaria speciale.

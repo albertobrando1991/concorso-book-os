@@ -1,38 +1,88 @@
----
-id: audit-specialistico-vol-06-m-ir03
-type: specialist_audit
-title: "Audit specialistico conclusivo - M-IR03 Enti di ricerca"
-status: completed
-volume: VOL-06
-module: M-IR03
-updated_at: 2026-08-23
-review_required: false
----
+# M-IR03 — Audit specialistico del 3 ottobre 2026
 
-# Audit specialistico conclusivo — M-IR03 Enti di ricerca
+## 1. Sintesi editoriale
 
-## Sintesi dell'audit
+Riesaminati i rilievi corretti del modulo e le quote IR03 dei rilievi trasversali. Zero errori gravi o medi aperti nel perimetro testuale dichiarato. Nessuna pubblicabilità attestata prima dei nuovi PDF.
 
-Audit completato su fonti, definizioni, procedure, casi e dati mobili. Il modulo non contiene box `Dato operativo`; non presenta soglie, importi, termini o configurazioni specialistiche come dati universali. Dove gli atti dipendono da bando, EPR, accordo, call o misura, il testo richiede correttamente la verifica della fonte applicabile. Non emergono errori gravi o medi aperti.
+## 2. Checklist
 
-## Tabella di audit
+Copertura teorica, autonomia, esattezza dei riferimenti, ipotesi dichiarate, calcoli, quiz, soluzioni, ruoli, stile e superficie. Impaginazione da controllare separatamente.
+
+## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Capitoli 01-05, quadro EPR e amministrazione | normativo/organizzativo | 🟠 | D.Lgs. 213/2009, D.Lgs. 218/2016, statuti, regolamenti e bandi sono fonti differenziate; ruoli e procedure non sono identici per ogni ente. | Confermata formulazione condizionale e rinvio agli atti applicabili; nessuna declaratoria universale aggiunta. | chiuso |
-| 2 | Capitoli 06-08, ricerca, integrità e infrastrutture | tecnico/procedurale | 🟠 | Metodo, integrità, sicurezza, configurazione e validazione dipendono da disciplina, struttura e procedure dell'ente. | Casi mantenuti come metodo di decisione, senza protocolli, dosi, soglie o istruzioni specialistiche eseguibili. | chiuso |
-| 3 | Capitolo 09, proprietà intellettuale | giuridico/contrattuale | 🟠 | Codice della proprietà industriale e policy/accordi regolano aspetti diversi; titolarità, accesso e licenze dipendono dal caso. | Confermati confini tra descrizione tecnica, istruttoria, decisione competente e accordo. | chiuso |
-| 4 | Capitolo 10, open science e FAIR | dati e accesso | 🟠 | Commissione europea e GO FAIR distinguono FAIR, accesso e apertura; dati personali, riservati o di terzi possono richiedere restrizioni. | Confermata formula di accesso proporzionato e DMP aggiornabile; nessun rilascio indiscriminato prescritto. | chiuso |
-| 5 | Capitolo 11, Horizon, PNRR e grant management | finanziario/normativo | 🟠 | Regolamento (UE) 2021/695, grant agreement, decreto e manuali della misura definiscono obblighi concreti; MUR collega rendicontazione, attività e risultati. | Rimossi riferimenti a requisiti fissi; costi, DNSH, scadenze, sistemi e firme restano da verificare nell'atto applicabile. | chiuso |
-| 6 | Capitolo 12, laboratorio | didattico/profili | 🟡 | Il caso richiede ruoli differenziati e non può attribuire competenze universali. | Confermati output distinti per ricercatore, tecnologo, amministrativo e supporto grant. | chiuso |
-| 7 | Tutti i capitoli | dati operativi | 🟡 | Nessun box `Dato operativo` rilevato dalla pipeline. | Nessuna riga di dato da validare o rimuovere. | chiuso |
+| V06-17 | 01 | Testo e didattica | Media | Regolamento finanziario sostituito | Delta applicato e raccordato | Corretto |
+| V06-18 | 02–03 | Testo e didattica | Media | Autonomia, due statuti e livelli spiegati | Delta applicato e raccordato | Corretto |
+| V06-10 quota IR03 | 04/11 | Testo e didattica | Media | Contabilità e forme di finanziamento con calcoli | Delta applicato e raccordato | Corretto |
+| V06-19 | 05 | Testo e didattica | Media | Duplicati rimossi, conflitto/acquisti/missione integrati | Delta applicato e raccordato | Corretto |
+| V06-20 | 06 | Testo e didattica | Media | Scelta progettuale distinta da fatto inventato | Delta applicato e raccordato | Corretto |
+| V06-21 | 07–08 | Testo e didattica | Media | h-index e piano tecnico misurabile | Delta applicato e raccordato | Corretto |
+| V06-22 | 09 | Testo e didattica | Media | Art. 65 CPI, brevetto, licenza e cessione | Delta applicato e raccordato | Corretto |
+| V06-23 | 11 | Testo e didattica | Media | DNSH obbligatorio | Delta applicato e raccordato | Corretto |
+| V06-24 | 10/12 | Testo e didattica | Media | DMP e quattro prove con dati e soluzioni | Delta applicato e raccordato | Corretto |
+| V06-33/35/36 quota IR03 | Tutti | Testo e didattica | Media | Superficie, fonti, matrice e 72 quiz disciplinari | Delta applicato e raccordato | Corretto |
 
-## Esiti e limiti
+## 4. Osservazioni per capitolo
 
-**DA VERIFICARE — non dispongo di elementi sufficienti per confermarlo:** bando, statuto, regolamento, CCNL, policy IP, call, grant agreement, decreto, procedure PNRR, costi, termini, sistema informativo e autorizzazioni dell'ente destinatario. Il modulo non li presenta come fatti già verificati; indica come reperirli e come usarli nella risposta concorsuale.
+01: Quadro EPR e regolamento finanziario 2024/2509; decoder professionale.
 
-Nessuna correzione sostanziale è stata necessaria dopo la revisione trasversale. I capitoli conservano le evidenze dei rispettivi gate di copertura, densità, Humanizer e revisione editoriale.
+02: Ambiti 213/218, libertà e responsabilità; confronto documentato CNR/ISTAT.
 
-## Giudizio tecnico
+03: Profili e livelli I–III; declaratorie funzionali, grant come funzione.
 
-Audit specialistico superato. M‑IR03 è idoneo al text freeze automatico, fermo restando che il text freeze non equivale alla conferma umana conclusiva dello step 24.
+04: CNR 2025: budget/consuntivo, assestamenti; caso quadrato a 101.000.
+
+05: Conflitto/astensione, deroga acquisti delimitata; missione saldo 90, audit e follow-up.
+
+06: Mini-proposta 600 record, otto settimane, scelte e fatti distinti, rubrica.
+
+07: h-index 4 calcolato; limiti, contributi, integrità e correzioni.
+
+08: Piano tecnico 980/20 record e 60 secondi; verifica, validazione e regressione.
+
+09: CPI art. 65, tempi deposito, terzi; requisiti brevettuali, licenza/cessione.
+
+10: FAIR e protocolli; DMP compilato con oggetti, ruoli, formati, tempi e diritti.
+
+11: Bando CNR 380.2 reale; forme AGA, calcoli, DNSH obbligatorio e target 190/200.
+
+12: Quattro elaborati risolti: calendario, collaudo, rendiconto 25.000/3.000, modifica e rubrica.
+
+## 5. Coerenza globale
+
+Matrice sui 60 nuclei effettivi, sei quiz per capitolo; vecchi quiz archiviati fuori dal testo. Grant è funzione documentata da bando, non profilo contrattuale uniforme. Rinvio al capitolo base degli acquisti con heading esistente.
+
+## 6. Fonti
+
+Consolidati articoli selezionati dei D.Lgs. 213/218; due statuti, CCNL e declaratorie funzionali; regolamento CNR 201/2024 nei passaggi dichiarati; CPI 65 e requisiti UIBM; definizione Hirsch; AGA e RRF già consolidati. Bando CNR 380.2/2026 acquisito e usato soltanto per funzione/profilo e tipo di prova. Tentativi di acquisizione falliti esclusi dalle evidenze valide.
+
+## 7. Suggerimenti facoltativi
+
+Nessun ampliamento del dominio scientifico oltre il perimetro dei rilievi.
+
+## 8. Priorità
+
+Audit specialistico concluso; text freeze e nuovo PDF sono i passaggi successivi.
+
+## 9. Pubblicabilità
+
+Non attestata. Testo corretto nel perimetro indicato; restano gli altri moduli e l'impaginato del volume.
+
+## 10. Limiti
+
+Lettura integrale baseline precedente, ora riesame dei delta e raccordi. Verifiche normative selettive e originali didattici esplicitamente ipotetici; nessuna certificazione di ogni regolamento, bando o manuale tecnico. Non effettuata una nuova lettura integrale dichiarata delle parti invariate.
+
+
+### Esiti specialistici puntuali
+
+- V06-17/18: ambiti legislativi e assetti CNR/ISTAT ricontrollati nelle fonti indicate; livelli I–III e funzione grant coerenti col CCNL e col bando reale. Nessuna equiparazione degli organi.
+- V06-10: ricalcolati cassa 68.000, risultato 19.000, attivo/passivo 101.000; risconto 9.000, ammortamento 6.000 e fatture da ricevere 2.000. Il debito per prestazione compiuta è distinto da rateo. Forme di costo: 3.150, 2.400; nessuna aliquota didattica presentata come soglia legale.
+- V06-19: missione 190 ammessi, 15 esclusi, anticipo 100 e saldo 90; deroga EPR delimitata, astensione distinta da prova di danno; follow-up con evidenze concrete.
+- V06-20/21: assunzioni progettuali dichiarate; h=4 anche dopo aumento del solo primo lavoro; prove tecniche falliscono se velocità e completezza non sono entrambe rispettate.
+- V06-22: comunicazione, sei mesi, eventuali tre mesi e condizioni, terzi e titolarità distinti dal riconoscimento dell'inventore; licenza non scambiata con cessione.
+- V06-23/24: DNSH obbligatorio RRF; 190 utenti validi su target 200. DMP non impone apertura dei dati vincolati. Laboratorio: 2 agosto oltre 31 luglio, 25.000 ammessi e 3.000 esclusi; richiesta di modifica distinta dall'approvazione.
+- V06-36 quota IR03: 72 chiavi coerenti con opzioni e commenti; sei quesiti disciplinari per capitolo. Non usati commenti su lettere rimappate.
+- Nessun Dato operativo rilevato dal CLI. Soglie, durate e cifre dei casi sono ipotesi esplicite, salvo termini normativi identificati. Dodici capitoli, sessanta nuclei sopra 600 parole; fonti e rinvio al base risolti; nessun collegamento staff nel corpo.
+
+I controlli di forma e copertura sui delta, la revisione stilistica e il ricalcolo sono conclusi. Il manifest di superficie e le chiavi dei quiz restano evidenza riproducibile. Il PDF non è stato ancora rigenerato e verificato in questo ciclo.

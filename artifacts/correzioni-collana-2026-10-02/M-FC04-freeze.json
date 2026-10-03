@@ -1,0 +1,385 @@
+{
+  "volume": "VOL-04",
+  "module": "M-FC04",
+  "date": "2026-10-03",
+  "verification": "Verifica manuale delle condizioni di freeze; gate deterministico non implementato, stato da chiudere via CLI con evidenza.",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md",
+      "sha256": "469ed0d438687f9e956814b0c087fa457df3ad34185419c67f8d3171047d7cdd",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+      "sha256": "91c747f47587362a5134cf42f234a993028c4e7e103a98fa9fafcef4e5ad2568",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md",
+      "sha256": "d113f8f767378f06ce9964bf5f44e1e45a88ce393a4c95f05aa8a4d85ce42f43",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md",
+      "sha256": "7e2f58883bdb0c9fb5c8a8df2fe9e9ae1ce4efd3a86cefa60800ed8147ea66bc",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md",
+      "sha256": "29d339ce06399c5e90fc53aab28b0d8525f547b98e2c0169b1952fb9f9e4109d",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md",
+      "sha256": "7cd2ad8ef2e904298bbf6788126f6fff57d36abb829a1afcbdab8478541e9045",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md",
+      "sha256": "84ef8199d7e610fe9c18e632a5d0c833c44a04a68838cdfc17930d9023c10e35",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md",
+      "sha256": "5cb869377c5d55ce4d68c1ebc0e5b073d693e666e022987109097fefb56608d3",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md",
+      "sha256": "b882a68ac7debefbcbb35749141d35a1278be6e26b284526cb57655beeea51e9",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md",
+      "sha256": "114a33658771a5a235977dcbbc75ad4cf551ede64eb05e155f40eae412b1792b",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md",
+      "sha256": "7557b20cc317fafd8471acc98f46278a23247e4d7127a12b90cb47052a279d22",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md",
+      "sha256": "d6bad799c375b0c10b97c078d7b6bdad3b2acfc65c9348dfc250152ca2a2df6e",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md",
+      "sha256": "50d2935404aa85e19cee0cd040500a489f4e77bc193ecb147c22ab7dd0655571",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md",
+      "sha256": "cddf2451f9c058bfe0f039dc38ef75b2c28ddadf95fc6624ea0d699748ce1094",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md",
+      "sha256": "686163ad2c8edf18d540c23099e7b1dbbecc4f029424b5f2cf4fcdae7dc77601",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md",
+      "sha256": "6f3d5dd845e81120dde9d117f2cf08d968b241b55de917f2c14156c8bb84852b",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md",
+      "sha256": "0aabb6f7badd4453f53f043bccf05a875d5cc173d1c0cf13ac035bb005af23be",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/index.md",
+      "sha256": "b403aa082e5405853bf63197f96ca1bb3d7669fe301a76d8cb8af57ce1256031",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/01-servizi-digitali.md",
+      "sha256": "4cefbfc724f5cae3ac7d9276ddb46ad0f2e084ce80f7b35636b20b4ece21e01f",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/02-frontespizio.md",
+      "sha256": "1fa526a6a1db94ceff84f331008e139896ce455f284555d96b49560b8a6e5c41",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/03-copyright-colophon.md",
+      "sha256": "72901aa9d5f5a81d2cb83f0f782f88c4ba32b9cceacbd3e57acc3f7cecab1894",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/04-sommario.md",
+      "sha256": "a3ee17d035dd03c8b47b26df466637908c95627d99d2c5196fc35fed17d2653c",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/05-premessa.md",
+      "sha256": "a7f82e0373ec058e3c89d83d198bb0931c30e8f99ec1b2c223c7a62ac06376a6",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/06-indice.md",
+      "sha256": "fb41084b31c017766fd69f34e8b6461e5d1805122be4b27829b4f3507e221765",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/index.md",
+      "sha256": "d3d067b646880418d5a2867cddb6d482b2de9555f747abc178ffe7b298cc0b8f",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/planning/02-matrice-copertura-didattica.md",
+      "sha256": "7f88da563aef232500c9c5efa85173339156d7e1923e261e7857b7046fd58bb5",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-cancelleria-verifica-2026-10-03.md",
+      "sha256": "90433bd2b1db8882ecd0f0e946f6b87a44665eba441491f81f70b53b42b0d33b",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-casellario-verifica-2026-10-03.md",
+      "sha256": "b9467b109d9e3482215607e804fe67b1fceb958ee5b2ab2d8dc4ec76e925a6da",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-digitale-verifica-2026-10-03.md",
+      "sha256": "00fe3f2fae6ba00363520f882826bb255c7edd08f104073c0402645dd0b97391",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-minorile-penitenziario-verifica-2026-10-03.md",
+      "sha256": "fae9a91058e1fe1823ede3b777d2aca927b1b0c4ae8ba5fe7b9314fdf03aa32b",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-organizzazione-upp-verifica-2026-10-03.md",
+      "sha256": "21433442e23f5ae5376cd54077aaeec440aa4ae46a377f0f90b61e3598cf6447",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-processo-civile-verifica-2026-10-03.md",
+      "sha256": "a0614a865d015dad7a0eb30130978af45ce21e1ec622fb15b0ef3daf88767478",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-processo-penale-verifica-2026-10-03.md",
+      "sha256": "ed8c0832c4d80acc711b2b9b5143e6f0f8483cd33a2f285a57bc9a20cef3488c",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-spese-verifica-2026-10-03.md",
+      "sha256": "bee838df30d559fd84b9bf849e2fe4acc6794ba4f63e6a00356dc0499e89c17c",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-04-unep-verifica-2026-10-03.md",
+      "sha256": "2528c09929ce54265158f38c70fea1d40d99b2e048e054954fb4db4367178388",
+      "date": "2026-10-03",
+      "status": "text-frozen"
+    }
+  ],
+  "checks": [
+    "17 capitoli presenti; 29 ID testuali corretti e verificati; gate13/14/15 superati senza rilievi aperti.",
+    "Matrice 14 materie allineata ai contenuti effettivi; nessun nucleo mancante o parziale nel perimetro dichiarato.",
+    "84 quiz con quattro alternative, chiavi A/B/C/D21 ciascuna, spiegazioni e sei simulazioni svolte.",
+    "Fonti, cut-off, dipendenze, rinvii, passata Humanizer e micro-revisione documentati nei rapporti13–15."
+  ],
+  "publicationReady": false,
+  "remaining": [
+    "PDF",
+    "preflight",
+    "package",
+    "final-confirmation"
+  ],
+  "controlledLayoutDelta": [
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md",
+      "before": "56af3585802af6c49fd29fffafcc5d923b50138132fd3470f3bb991b0aa9fb92",
+      "after": "469ed0d438687f9e956814b0c087fa457df3ad34185419c67f8d3171047d7cdd",
+      "removedDuplicateHeading": "# Il sistema Giustizia visto dal candidato",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+      "before": "a66f0a8ffb61542a854a108b6bd0cdb83609b328a09149c3a56ee9d120024146",
+      "after": "fc84104038c879d27d48fefdb40e1bc7e4ec8a785ffb0372f6ee10d4f6e6d783",
+      "removedDuplicateHeading": "# Ministero, dipartimenti e amministrazioni della Giustizia",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md",
+      "before": "a52f36f58c10146abf8e2a305904005091d378cc5dd246d6eb927d9d7681fd97",
+      "after": "d113f8f767378f06ce9964bf5f44e1e45a88ce393a4c95f05aa8a4d85ce42f43",
+      "removedDuplicateHeading": "# Uffici giudiziari e ordinamento applicato al lavoro d'ufficio",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md",
+      "before": "076948d70c2f5f07009d706d739908dadeef73e004ed11c6a1dd06d641951946",
+      "after": "7e2f58883bdb0c9fb5c8a8df2fe9e9ae1ce4efd3a86cefa60800ed8147ea66bc",
+      "removedDuplicateHeading": "# Ufficio per il processo: struttura, progetto e flussi",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md",
+      "before": "1eeb5511f5a8dc300a7792838d7f57eceb2b343fb4cf811839881f1849922730",
+      "after": "29d339ce06399c5e90fc53aab28b0d8525f547b98e2c0169b1952fb9f9e4109d",
+      "removedDuplicateHeading": "# Il lavoro dell'AUPP: fascicolo, udienza, ricerca e scheda",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md",
+      "before": "fe02d52f980bae260b77e69fb25b2fc2889f67d0c7eacdaad7a1905998bd9dc9",
+      "after": "7cd2ad8ef2e904298bbf6788126f6fff57d36abb829a1afcbdab8478541e9045",
+      "removedDuplicateHeading": "# Processo civile operativo per UPP e cancelleria",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md",
+      "before": "6f5441cd254eb8714153321e4401119ca780421c2f82c68d6f2625aa198c2976",
+      "after": "ca3e5f530d961323d2ff3e15c5ac5b2f09ee9c017dd7748dcd2235bc69331e04",
+      "removedDuplicateHeading": "# Processo penale operativo per UPP e cancelleria",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md",
+      "before": "3acc22730474d4e1711852c2232eadd609a94812017a174f5053bef34620628e",
+      "after": "5cb869377c5d55ce4d68c1ebc0e5b073d693e666e022987109097fefb56608d3",
+      "removedDuplicateHeading": "# Servizi di cancelleria, registri, comunicazioni e certificazioni",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md",
+      "before": "b6772d76436df16539002f2b94df3aec1542e1e65223dfa1e0bea35efa8cc450",
+      "after": "b882a68ac7debefbcbb35749141d35a1278be6e26b284526cb57655beeea51e9",
+      "removedDuplicateHeading": "# Spese di giustizia, patrocinio e recupero",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md",
+      "before": "06f1d66d38fe8fd002518019773130735d338a4a31c35a0efa45fa33cda6cc87",
+      "after": "114a33658771a5a235977dcbbc75ad4cf551ede64eb05e155f40eae412b1792b",
+      "removedDuplicateHeading": "# Casellario, carichi pendenti, archivi e certificati",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md",
+      "before": "0d28241639844024e5ce1e2c48749862151bb029d47f7ed0b038c2cf3f2efb03",
+      "after": "7557b20cc317fafd8471acc98f46278a23247e4d7127a12b90cb47052a279d22",
+      "removedDuplicateHeading": "# UNEP: notificazioni, esecuzioni, protesti e attività dell'ufficiale giudiziario",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md",
+      "before": "ff9c7e27928b0a3b5c85b298ef1b49ca89ab91610c42dcedb8c46c65200953aa",
+      "after": "d6bad799c375b0c10b97c078d7b6bdad3b2acfc65c9348dfc250152ca2a2df6e",
+      "removedDuplicateHeading": "# Giustizia digitale: PCT, processo penale telematico e fascicolo",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md",
+      "before": "d46128d71aac301f2d77f368b5757203aa2a03f6c3e95235a2aa833e60f4686e",
+      "after": "50d2935404aa85e19cee0cd040500a489f4e77bc193ecb147c22ab7dd0655571",
+      "removedDuplicateHeading": "# Giustizia minorile e di comunità: servizi, mediazione e riparativa",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md",
+      "before": "7bd6e5b63729a776c177d1d31fecd0f0094cce9dd890bc3e737550a70fdabb58",
+      "after": "cddf2451f9c058bfe0f039dc38ef75b2c28ddadf95fc6624ea0d699748ce1094",
+      "removedDuplicateHeading": "# Amministrazione penitenziaria: trattamento, istituti ed esecuzione esterna",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md",
+      "before": "ac84c62601d68eed538c0554513c73bd2ed433a301639c20fffb2a1c8f5d76f6",
+      "after": "3d94f64d1e295b8602f9e9be79a566e44ee25cf492f7f128cd8d2e508c5ecb20",
+      "removedDuplicateHeading": "# Appendici operative e strumenti finali",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md",
+      "before": "d36b40929a5501baea1621050d1f5ba5a6c4fa91f719b05904f2ffe440b40d98",
+      "after": "6f3d5dd845e81120dde9d117f2cf08d968b241b55de917f2c14156c8bb84852b",
+      "removedDuplicateHeading": "# Conclusione — Dal programma al lavoro d'ufficio",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md",
+      "before": "4584c1a1e058bee387ee14b702860eb19ea07ede6c91a3c650898f18804fa5ae",
+      "after": "5376073b335f6b46cbe5b751ae27559d9164d58a9dc19ae77a6f99c5396e0c59",
+      "removedDuplicateHeading": "# Fonti e riferimenti essenziali",
+      "changes": "Titolo già generato da metadata; spazi ai separatori nelle sole tabelle. Contenuti, quiz, norme e soluzioni invariati."
+    }
+  ],
+  "bibliographyPrintDelta": "VOL-04-bibliography-links.json",
+  "controlledTailPolish": [
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+      "before": "fc84104038c879d27d48fefdb40e1bc7e4ec8a785ffb0372f6ee10d4f6e6d783",
+      "after": "91c747f47587362a5134cf42f234a993028c4e7e103a98fa9fafcef4e5ad2568",
+      "old": "Se una risposta è incerta, inseriscila nel diario degli errori. Le etichette utili sono: \"Ministero/giurisdizione confusi\", \"sigla senza funzione\", \"DAP e DGMC confusi\", \"DIT e DGSIA confusi\", \"bando non collegato all'ufficio\", \"organigramma senza output\".",
+      "new": "Annota nel diario le distinzioni incerte e ripassa le relative funzioni.",
+      "reason": "Richiamo ripetitivo al diario condensato; distinzioni già sviluppate nel capitolo e nella checklist. Nessuna modifica a norme, quiz o soluzioni."
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md",
+      "before": "ca3e5f530d961323d2ff3e15c5ac5b2f09ee9c017dd7748dcd2235bc69331e04",
+      "after": "84ef8199d7e610fe9c18e632a5d0c833c44a04a68838cdfc17930d9023c10e35",
+      "old": "Se una risposta è incerta, registrala nel diario degli errori. Le etichette utili sono: \"processo penale troppo teorico\", \"PM/giudice confusi\", \"registro ignorato\", \"notifiche/depositi confusi\", \"PPT generalizzato\", \"esecuzione penale saltata\", \"riparativa confusa con mediazione generica\".",
+      "new": "Annota nel diario le distinzioni incerte e ripassa le relative funzioni.",
+      "reason": "Richiamo ripetitivo al diario condensato; distinzioni già sviluppate nel capitolo e nella checklist. Nessuna modifica a norme, quiz o soluzioni."
+    }
+  ],
+  "rubricSpacing": {
+    "path": "wiki/books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md",
+    "before": "3d94f64d1e295b8602f9e9be79a566e44ee25cf492f7f128cd8d2e508c5ecb20",
+    "after": "686163ad2c8edf18d540c23099e7b1dbbecc4f029424b5f2cf4fcdae7dc77601",
+    "replacements": {
+      "residuo194": "residuo 194",
+      "voce27": "voce 27",
+      "perimetro25-bis": "perimetro 25-bis",
+      "distinguere140/143": "distinguere 140 / 143",
+      "per13marzo / accesso16": "per 13 marzo / accesso 16",
+      "scadenza1giugno": "scadenza 1 giugno",
+      "per45giorni": "per 45 giorni"
+    }
+  }
+}

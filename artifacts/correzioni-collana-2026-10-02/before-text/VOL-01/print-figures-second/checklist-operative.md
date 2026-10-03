@@ -1,0 +1,538 @@
+---
+id: chapter-checklist-operative
+type: chapter
+title: "Checklist operative"
+status: reviewed_text
+domain: "concorsi pubblici italiani"
+topics: ["checklist concorsi", "anatomia del bando", "prove concorsuali", "piano 30 60 90 giorni", "diario errori", "domanda concorso"]
+entities: ["Metodo BANDO", "Bando Decoder", "Diario degli errori", "Piano 30/60/90 giorni", "inPA"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md", "sources/checklist-operative-concorsi-metodo-bando.md", "sources/vol-01-candidatura-casi-correzioni-2026-10-03.md", "sources/vol-01-esempi-logica-inglese-metodo-2026-10-02.md"]
+book_refs: ["il-metodo-bando"]
+confidence: 0.9
+updated_at: 2026-10-03
+created_at: "2026-05-10T11:45:00+02:00"
+review_required: false
+canonical: true
+tags: ["book-chapter", "part-5", "workbook", "checklist"]
+book_id: il-metodo-bando
+outline_section: 24
+draft_stage: text_frozen
+last_compiled_from: ["sources/checklist-operative-concorsi-metodo-bando.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "topics/checklist-concorsi.md", "topics/piano-30-60-90-giorni.md", "topics/diario-errori.md", "sources/vol-01-candidatura-casi-correzioni-2026-10-03.md", "sources/vol-01-esempi-logica-inglese-metodo-2026-10-02.md"]
+---
+
+# Capitolo 24 - Checklist operative
+
+Questo capitolo è il kit finale del candidato.
+
+Non introduce una nuova materia. Raccoglie in controlli pratici ciò che hai visto nel libro: scegliere, verificare, inviare, studiare, simulare, arrivare alla prova, gestire gli ultimi giorni e imparare dal risultato.
+
+Una checklist impedisce di dimenticare ciò che conta quando sei stanco, in ritardo o sotto pressione; non serve soltanto a tranquillizzarti.
+
+Nel Metodo BANDO la checklist è un atto di metodo:
+
+> se un punto è decisivo, deve essere controllabile.
+
+## Obiettivo del capitolo
+
+Alla fine del capitolo avrai checklist pronte per:
+
+- decidere se un concorso merita il tuo tempo;
+- inviare la domanda senza errori evitabili;
+- controllare ricevute, comunicazioni e calendario;
+- avviare lo studio con perimetro, priorità e misure verificabili;
+- preparare scritto, quiz, orale e casi;
+- gestire ultimi 7 giorni e ultime 24 ore;
+- organizzare documenti e logistica;
+- proteggere lucidità e tenuta;
+- usare il dopo prova per migliorare il prossimo concorso;
+- gestire la pubblicazione della graduatoria con fonti e scadenze sotto controllo.
+
+Le checklist sono pensate per carta e penna. Il digitale può aiutare con promemoria, allegati e archiviazione, ma non deve essere indispensabile.
+
+## Come usare le checklist
+
+Usa tre regole.
+
+### 1. Segna solo ciò che hai verificato
+
+Non mettere una spunta per memoria o per fiducia. Una spunta significa: ho controllato su fonte affidabile, bando, avviso, portale, ricevuta o documento.
+
+### 2. Scrivi una nota se resta un dubbio
+
+Il dubbio non va tenuto in testa. Va scritto.
+
+Formato:
+
+| Dubbio | Fonte da verificare | Entro quando |
+|---|---|---|
+| | | |
+
+### 3. Usa il criterio di stop
+
+Ogni checklist ha punti essenziali. Se un punto essenziale non è chiaro, non procedere automaticamente. Fermati, verifica e poi decidi.
+
+![Figura 24.1 - Tre regole per usare le checklist](../assets/chapter-24/02-tre-regole-checklist-corretto.png)
+
+*Figura 24.1 - Tre regole per usare le checklist*
+
+## Mappa BANDO delle checklist
+
+| Fase | Checklist collegata | Scopo |
+|---|---|---|
+| B - Bando | Prima scelta, domanda, comunicazioni | Evitare esclusioni e letture incomplete |
+| A - Aree | Avvio studio, materie, moduli, piano | Dare priorità |
+| N - Nuclei | Prova, ultimi giorni | Concentrarsi su alta resa |
+| D - Diario | Errori, ansia, dopo prova | Correggere |
+| O - Output | Scritto, quiz, orale, caso | Allenare ciò che verrà chiesto |
+
+Le checklist non sostituiscono il ragionamento. Lo rendono ripetibile.
+
+![Figura 24.2 - Mappa BANDO delle checklist](../assets/chapter-24/01-mappa-bando-checklist.png)
+
+*Figura 24.2 - Mappa BANDO delle checklist*
+
+## Checklist 1 - Prima di scegliere il concorso
+
+Usala prima di iniziare davvero a studiare.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho letto il bando o l’avviso ufficiale, non solo un articolo riassuntivo. | | |
+| Ho verificato requisiti di accesso e titolo di studio. | | |
+| Ho verificato eventuali requisiti specifici, abilitazioni o esperienza. | | |
+| Ho capito profilo, mansioni e amministrazione. | | |
+| Ho identificato prove previste e possibile calendario. | | |
+| Ho letto materie, punteggi, soglie e criteri. | | |
+| Ho stimato giorni disponibili e ore realistiche. | | |
+| Ho individuato nucleo comune riutilizzabile. | | |
+| Ho individuato eventuale modulo integrativo. | | |
+| Ho capito quale prova elimina più candidati. | | |
+| Ho verificato se il concorso è compatibile con altri concorsi che preparo. | | |
+| Ho deciso cosa non studiare ora. | | |
+
+### Criterio di stop
+
+Non iniziare il piano se non sai:
+
+- se puoi partecipare;
+- quando scade la domanda;
+- quali prove sono previste;
+- quali materie contano;
+- quale modulo integrativo serve.
+
+## Checklist 2 - Prima di inviare la domanda
+
+La domanda è una fase amministrativa, non una formalità. Un candidato preparato può perdere un concorso per una scadenza, un allegato, un pagamento o una ricevuta non controllata.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho verificato data e ora esatta di scadenza. | | |
+| Ho accesso al portale richiesto. | | |
+| Ho controllato dati anagrafici e recapiti. | | |
+| Ho letto tutte le dichiarazioni richieste. | | |
+| Ho verificato titolo di studio e dati da inserire. | | |
+| Ho controllato eventuali titoli valutabili. | | |
+| Ho preparato allegati richiesti nel formato corretto. | | |
+| Ho verificato eventuale pagamento o contributo. | | |
+| Ho controllato indirizzo email/PEC o domicilio digitale indicato. | | |
+| Ho riletto domanda prima dell’invio. | | |
+| Ho salvato ricevuta, protocollo o conferma invio. | | |
+| Ho annotato dove verranno pubblicate comunicazioni successive. | | |
+
+### Criterio di stop
+
+Non inviare se non hai verificato scadenza, requisiti, dati, allegati, pagamento e ricevuta generabile.
+
+### Controllo delle richieste specifiche
+
+| Controllo prima dell’invio | Esito o dato da annotare |
+|---|---|
+| Ausili, tempi aggiuntivi o misure per disabilità/DSA: ho formulato la richiesta specifica? | |
+| Ho verificato certificazione, formato, termine e canale previsti? | |
+| Gravidanza/allattamento: ho comunicato preventivamente l’esigenza secondo il bando? | |
+| Ho dichiarato separatamente le riserve e le preferenze applicabili? | |
+| Ho verificato data di possesso dei titoli e documentazione richiesta? | |
+| Ho conservato ricevuta, protocollo e risposta sulle misure richieste? | |
+
+Per il regime e le esclusioni del DPR 487/1994 riprendi il Capitolo 2, **«Partecipazione alle prove: misure e dichiarazioni»**. Prima della prova verifica l’esito della richiesta e le istruzioni ricevute; se mancano, usa tempestivamente il canale ufficiale. Una misura richiesta non può essere considerata automaticamente concessa nella forma desiderata.
+
+## Checklist 3 - Dopo l’invio della domanda
+
+Dopo l’invio molti candidati si rilassano troppo. Invece inizia la fase di controllo.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho salvato ricevuta in almeno due posti. | | |
+| Ho annotato numero domanda/protocollo. | | |
+| Ho salvato copia del bando e allegati. | | |
+| Ho segnato pagina o portale per comunicazioni ufficiali. | | |
+| Ho messo promemoria per controlli periodici. | | |
+| Ho controllato se esiste banca dati o se verrà pubblicata. | | |
+| Ho aggiornato il piano 30/60/90. | | |
+| Ho creato scheda concorso in una pagina. | | |
+| Ho avviato diario errori. | | |
+| Ho separato core e modulo. | | |
+
+### Frequenza controllo comunicazioni
+
+| Fase | Frequenza minima |
+|---|---|
+| Subito dopo domanda | Controllo ricevuta e bando |
+| Prima della pubblicazione calendario | 1-2 volte a settimana |
+| Dopo calendario o banca dati | Controllo ravvicinato |
+| Ultimi 7 giorni | Ogni giorno sulle fonti ufficiali |
+
+![Figura 24.3 - Percorso domanda e comunicazioni](../assets/chapter-24/03-percorso-domanda-comunicazioni.png)
+
+*Figura 24.3 - Percorso domanda e comunicazioni*
+
+## Checklist 4 - Prima di iniziare lo studio
+
+Usala dopo aver decodificato il bando e prima di riempire il calendario. Serve a trasformare il programma ufficiale in un piano misurabile, evitando di iniziare dal manuale o dalla materia più comoda.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho davanti il bando, il programma e gli eventuali allegati ufficiali. | | |
+| Ho elencato tutte le materie senza eliminarne nessuna per abitudine. | | |
+| Ho separato nucleo comune, modulo specialistico e abilità di prova. | | |
+| Ho segnato materie ricorrenti, pesi, soglie e possibili prove eliminatorie. | | |
+| Ho stimato il mio livello iniziale con un test o un output diagnostico. | | |
+| Ho scelto non più di tre priorità per il primo ciclo di studio. | | |
+| Ho definito ore realistiche, giorni di recupero e data della prima simulazione. | | |
+| Ho previsto active recall, quiz o output, non solo lettura. | | |
+| Ho predisposto il diario degli errori e il cruscotto settimanale. | | |
+| Ho associato a ogni materia una fonte consolidata e un materiale principale. | | |
+| Ho deciso che cosa rinviare e perché. | | |
+| Ho scritto il primo obiettivo verificabile dei prossimi 7 giorni. | | |
+
+### Scheda di avvio
+
+| Campo | Compilazione |
+|---|---|
+| Data prova o orizzonte stimato | |
+| Ore disponibili a settimana | |
+| Priorità 1 | |
+| Priorità 2 | |
+| Priorità 3 | |
+| Prima simulazione | |
+| Primo controllo del diario | |
+| Output atteso entro 7 giorni | |
+
+### Criterio di stop
+
+Non iniziare una sequenza casuale di capitoli se non hai definito almeno perimetro, tre priorità, primo output e data di verifica. Se il calendario della prova non è noto, lavora con un ciclo breve di 14 giorni e rivalutalo alla scadenza.
+
+## Checklist 5 - Prima dello scritto o quiz
+
+Questa checklist vale per quiz, prova scritta a risposta multipla, prova sintetica, scritto teorico-pratico e casi. Adattala al formato reale.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho letto formato, durata, punteggio e soglie. | | |
+| Ho verificato penalità o regole sulle risposte errate. | | |
+| Ho verificato strumenti ammessi e vietati. | | |
+| Ho fatto almeno una simulazione nel formato reale. | | |
+| Ho corretto gli errori con categorie. | | |
+| Ho ripassato errori ad alta resa. | | |
+| Ho una strategia di gestione tempo. | | |
+| Ho deciso quando saltare una domanda. | | |
+| Ho schede finali per nuclei più deboli. | | |
+| Ho preparato routine per leggere consegne e negazioni. | | |
+| Ho verificato sede, orario, convocazione e documenti. | | |
+| Ho preparato piano ultime 24 ore. | | |
+
+### Se la prova è a quiz
+
+| Controllo specifico | Sì/No |
+|---|---|
+| So quanto tempo medio ho per domanda. | |
+| Ho fatto simulazioni con timer. | |
+| Ho classificato errori di memoria, concetto, lettura, tempo e strategia. | |
+| Ho una regola per domande lunghe o incerte. | |
+| Ho ripassato banca dati se ufficiale. | |
+
+### Se la prova è scritta o teorico-pratica
+
+| Controllo specifico | Sì/No |
+|---|---|
+| So il formato richiesto: sintetica, tema, caso, atto, risposta breve. | |
+| Ho allenato scalette prima della risposta. | |
+| Ho provato almeno una risposta con limite di tempo. | |
+| Ho una struttura base: definizione, funzione, riferimento, esempio, chiusura. | |
+| Ho corretto pertinenza, ordine, lessico e completezza. | |
+
+## Checklist 6 - Prima dell’orale
+
+L’orale non si prepara leggendo in silenzio. Si prepara parlando.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho verificato materie orali e criteri. | | |
+| Ho verificato inglese, informatica o prova pratica orale. | | |
+| Ho preparato schede domanda-risposta. | | |
+| Ho simulato risposte da 2 minuti. | | |
+| Ho allenato definizione, funzione, esempio e collegamento. | | |
+| Ho preparato domande su profilo e amministrazione. | | |
+| Ho ripassato errori orali: vuoti, risposte lunghe, lessico, ordine. | | |
+| Ho simulato domande incrociate. | | |
+| Ho preparato apertura e chiusura delle risposte. | | |
+| Ho verificato documenti, sede, orario e convocazione. | | |
+
+### Griglia risposta orale
+
+| Passaggio | Fatto |
+|---|---|
+| Inquadro la domanda. | |
+| Definisco il concetto. | |
+| Spiego funzione e conseguenza. | |
+| Richiamo fonte/principio solo se sicuro. | |
+| Faccio esempio o collegamento. | |
+| Chiudo tornando alla domanda. | |
+
+![Figura 24.4 - Preparazione delle prove](../assets/chapter-24/04-checklist-preparazione-prove.png)
+
+*Figura 24.4 - Preparazione delle prove*
+
+## Checklist 7 - Ultimi 7 giorni
+
+Gli ultimi 7 giorni non servono ad aprire nuovi mondi. Servono a stabilizzare.
+
+| Giorno | Priorità | Fatto |
+|---|---|---|
+| -7 | Simulazione o prova completa, correzione profonda. | |
+| -6 | Ripasso errori principali, flashcard, modulo debole. | |
+| -5 | Core ad alta resa, domande orali brevi. | |
+| -4 | Seconda simulazione o prova parziale. | |
+| -3 | Documenti, logistica, schede finali. | |
+| -2 | Ripasso leggero, errori ricorrenti, routine. | |
+| -1 | Solo rifinitura, sonno, materiale, orari. | |
+
+### Cosa non fare negli ultimi 7 giorni
+
+- Aprire un manuale nuovo.
+- Cambiare metodo.
+- Fare quiz senza correggere.
+- Studiare solo la materia preferita.
+- Ignorare documenti e logistica.
+- Restare sveglio fino a tardi per recuperare.
+
+## Checklist 8 - Ultime 24 ore
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Documento di identità valido. | | |
+| Convocazione o avviso salvato/stampato se utile. | | |
+| Ricevuta domanda se richiesta o prudente. | | |
+| Indicazioni sede e percorso controllati. | | |
+| Orario di partenza deciso con margine. | | |
+| Materiale ammesso verificato. | | |
+| Telefono/caricatore gestiti secondo regole sede. | | |
+| Acqua/snack se ammessi. | | |
+| Sveglia e seconda sveglia impostate. | | |
+| Schede finali ridotte a poche pagine. | | |
+| Niente studio pesante serale. | | |
+
+### Regola ultime 24 ore
+
+Nelle ultime 24 ore devi ridurre rischio, non aumentare volume. L’obiettivo è arrivare lucido.
+
+![Figura 24.5 - Ultimi 7 giorni e ultime 24 ore](../assets/chapter-24/05-ultimi-sette-giorni-ventiquattro-ore.png)
+
+*Figura 24.5 - Ultimi 7 giorni e ultime 24 ore*
+
+## Checklist 9 - Documenti e logistica
+
+Verifica sempre il bando e l’avviso di convocazione. Questa checklist non sostituisce le istruzioni ufficiali.
+
+| Area | Controllo | Fatto |
+|---|---|---|
+| identità | Documento valido e leggibile. | |
+| Domanda | Ricevuta, protocollo o conferma. | |
+| Convocazione | Data, ora, sede, aula, turno. | |
+| Accesso | Mezzi, parcheggio, tempi, eventuali controlli. | |
+| Materiali | Penne, documenti, strumenti ammessi. | |
+| Divieti | Smartphone, testi, calcolatrici o altro secondo avviso. | |
+| Salute | Farmaci personali, acqua, necessità specifiche se ammesse. | |
+| Emergenze | Numero ente, email, percorso alternativo. | |
+
+### Nota prudenziale
+
+Se un oggetto non è chiaramente ammesso, non darlo per ammesso. Verifica nell’avviso o nelle istruzioni della commissione.
+
+## Checklist 10 - Ansia e tenuta
+
+L’ansia non si elimina con una frase motivazionale. Si gestisce con procedure.
+
+| Situazione | Procedura |
+|---|---|
+| Prima della prova | Arriva con margine, evita discussioni, rivedi solo schede brevi. |
+| Inizio prova | Leggi istruzioni, controlla tempo, respira, non partire in automatico. |
+| Domanda difficile | Segna, salta se previsto, torna dopo. |
+| Vuoto orale | Riparti da definizione, funzione, esempio. |
+| Errore percepito | Non inseguire l’errore precedente. Torna al punto successivo. |
+| Tempo che corre | Applica la regola di priorità: prima punti più probabili. |
+
+### Frasi operative
+
+Non usare frasi vaghe come “devo stare calmo”. Usa istruzioni:
+
+- leggo la consegna due volte;
+- cerchio negazioni ed eccezioni;
+- parto dalla definizione;
+- se non so, delimito il tema;
+- se perdo tempo, salto;
+- se sbaglio una domanda, torno al piano.
+
+![Figura 24.6 - Logistica, ansia e tenuta](../assets/chapter-24/06-logistica-ansia-tenuta.png)
+
+*Figura 24.6 - Logistica, ansia e tenuta*
+
+## Checklist 11 - Dopo la prova
+
+Il dopo prova è il momento per migliorare, non solo per aspettare.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho annotato impressioni entro poche ore. | | |
+| Ho scritto quali materie sono uscite. | | |
+| Ho segnato errori probabili e cause. | | |
+| Ho distinto problemi di contenuto, tempo, ansia, strategia. | | |
+| Ho salvato eventuali avvisi successivi. | | |
+| Ho controllato calendario di prove successive. | | |
+| Ho aggiornato diario errori. | | |
+| Ho aggiornato piano per prossimo concorso o orale. | | |
+| Ho evitato di basarmi solo sulle chat o voci informali. | | |
+
+### Scheda post-prova
+
+| Domanda | Risposta |
+|---|---|
+| Che cosa è andato bene? | |
+| Che cosa ha fatto perdere tempo? | |
+| Quale materia era più presente del previsto? | |
+| Quale errore si è ripetuto? | |
+| Che cosa devo correggere entro 7 giorni? | |
+| Quale materiale è stato davvero utile? | |
+| Che cosa non usero più? | |
+
+Il candidato strategico non riparte da zero. Trasforma ogni prova in dati per la successiva.
+
+## Checklist 12 - Dopo la pubblicazione della graduatoria
+
+La graduatoria non va letta soltanto come un numero. Devi verificare l’atto ufficiale, capire quale fase si è chiusa, proteggere eventuali termini e decidere la prossima azione senza affidarti a indiscrezioni.
+
+| Controllo | Sì/No | Nota |
+|---|---|---|
+| Ho consultato la graduatoria o l’atto sul canale ufficiale indicato dal bando. | | |
+| Ho salvato copia dell’atto con data di pubblicazione e riferimenti. | | |
+| Ho verificato posizione, punteggio e dati che mi riguardano. | | |
+| Ho distinto graduatoria provvisoria, definitiva, approvata o successivamente rettificata. | | |
+| Ho letto gli avvisi collegati e non solo la tabella dei nominativi. | | |
+| Ho annotato eventuali termini, canali e uffici indicati per chiarimenti o iniziative. | | |
+| Se rilevo un possibile errore, ho raccolto ricevute, titoli e documenti pertinenti. | | |
+| Ho evitato richieste informali di dati relativi ad altri candidati. | | |
+| Ho verificato eventuali convocazioni, scorrimenti o adempimenti successivi. | | |
+| Ho aggiornato la scheda concorso e il calendario dei controlli. | | |
+| Ho aggiornato il diario con ciò che la prova ha realmente misurato. | | |
+| Ho deciso se attendere, chiedere chiarimenti, attivare una tutela qualificata o spostare il focus sul prossimo concorso. | | |
+
+### Scheda decisione graduatoria
+
+| Campo | Compilazione |
+|---|---|
+| Atto e data di pubblicazione | |
+| Mia posizione e punteggio | |
+| Stato della graduatoria | |
+| Prossima comunicazione da controllare | |
+| Termine da proteggere | |
+| Documento mancante da recuperare | |
+| Prossima azione | |
+| Data del prossimo controllo | |
+
+### Criterio di stop
+
+Non inviare contestazioni generiche e non lasciare decorrere un termine basandoti su chat o ricordi. Se la questione può incidere sulla tua posizione, conserva gli atti e rivolgiti tempestivamente al canale ufficiale o a un professionista qualificato. Il manuale aiuta a organizzare i controlli, ma non sostituisce la valutazione del caso concreto.
+
+## Checklist unica BANDO
+
+Questa è la checklist riassuntiva da usare per ogni concorso.
+
+| BANDO | Domanda | Fatto |
+|---|---|---|
+| B - Bando | Posso partecipare e ho capito prove, scadenze, materie e regole? | |
+| A - Aree | Ho diviso core, modulo e prova? | |
+| N - Nuclei | Ho scelto priorità ad alta resa? | |
+| D - Diario | Sto correggendo errori e piano? | |
+| O - Output | Sto producendo quiz, risposte, casi, orale o simulazioni? | |
+
+Se una riga resta vuota, quella è la tua prossima azione.
+
+## Da sapere in 5 righe
+
+1. La checklist serve a evitare errori pratici, non a decorare il piano.
+2. Ogni spunta deve corrispondere a una verifica reale.
+3. Il bando e gli avvisi ufficiali prevalgono sempre sulla memoria.
+4. Gli ultimi giorni servono a stabilizzare, non ad accumulare.
+5. Dopo la prova, il diario trasforma l’esperienza in vantaggio per il prossimo concorso.
+
+## Caso guidato
+
+Giulia prepara un concorso con scritto a quiz e orale. Ha studiato molto, ma non ha una procedura finale.
+
+Sette giorni prima compila la checklist:
+
+- scopre che non ha controllato bene la sede;
+- vede che non ha simulato il quiz con il tempo reale;
+- nota che all’orale risponde troppo a lungo;
+- trova tre errori ricorrenti nel diario: accesso, organi del Comune, negazioni nei quiz.
+
+Il suo piano finale cambia:
+
+- una simulazione con timer;
+- ripasso mirato su accesso e organi;
+- drill su parole-spia;
+- tre risposte orali da due minuti;
+- controllo documenti e percorso.
+
+Non aggiunge un nuovo manuale. Riduce il rischio.
+
+![Figura 24.7 - Checklist unica BANDO: caso Giulia](../assets/chapter-24/07-checklist-unica-bando-caso-giulia.png)
+
+*Figura 24.7 - Checklist unica BANDO: caso Giulia*
+
+## Domanda da commissario
+
+**Perché una checklist è utile anche a un candidato ben preparato?**
+
+Perché la preparazione non elimina il rischio pratico. Scadenze, documenti, formato prova, tempo, sede, comunicazioni, regole e gestione dell’ansia possono compromettere anche chi ha studiato. La checklist rende controllabili i passaggi essenziali.
+
+## Domanda-trappola
+
+**Se ho studiato bene, posso saltare la checklist degli ultimi giorni?**
+
+No. Gli ultimi giorni non riguardano solo conoscenza. Riguardano stabilità, logistica, documenti, timer, ripasso errori e lucidità. Saltare questi controlli aumenta il rischio evitabile.
+
+## Mini-esercizio
+
+Scegli il concorso che stai preparando e compila la checklist unica BANDO. Poi scrivi una sola azione per ogni riga non completata.
+
+| Fase | Punto incompleto | Azione entro 48 ore |
+|---|---|---|
+| Bando | | |
+| Aree | | |
+| Nuclei | | |
+| Diario | | |
+| Output | | |
+
+Se non trovi nessun punto incompleto, fai una simulazione: spesso i punti incompleti emergono dall’output, non dalla sensazione.
+
+## Errori tipici
+
+- Fidarsi del ricordo invece di rileggere bando e avvisi.
+- Inviare la domanda senza salvare ricevuta.
+- Non controllare dove saranno pubblicate le comunicazioni.
+- Preparare lo scritto senza conoscere durata e regole.
+- Preparare l’orale solo leggendo.
+- Aprire materiali nuovi negli ultimi giorni.
+- Sottovalutare documenti, percorso e orario.
+- Non aggiornare il diario dopo la prova.

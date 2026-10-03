@@ -12,7 +12,7 @@ import {
   WandSparkles
 } from "lucide-react"
 import type { ManualWriterMode, RevisionDiffSummary } from "@/src/server/agents/manual-writer-agent"
-import { backfillCandidateCount, moveTrailingHeadingToNextPage, paginationIsEquivalent, renderedPageGuard } from "@/src/book/pagination"
+import { backfillCandidateCount, keepGroupEnd, keepGroupStart, moveTrailingHeadingToNextPage, paginateBlockGroups, paginationIsEquivalent, renderedPageGuard } from "@/src/book/pagination"
 import type { BookStudioChapter, BookStudioData, MarkdownBlock } from "@/src/server/book/book-preview"
 import { getPreviewBlockMetadata } from "@/src/server/book/book-preview-block-metadata"
 import { normalizePageBoundaries } from "@/src/server/book/book-studio-page-boundaries"
@@ -1136,7 +1136,7 @@ function PreviewBlock({
     return (
       <figure {...auditAttributes}>
         <img src={src} alt={block.alt || "Immagine capitolo"} />
-        {block.alt ? <figcaption>{block.alt}</figcaption> : null}
+        {block.caption || block.alt ? <figcaption>{block.caption || block.alt}</figcaption> : null}
       </figure>
     )
   }
@@ -1368,7 +1368,12 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
 
     if (firstOverflowIndex <= 0) continue
 
-    const movedBlocks = nextPages[index].blocks.splice(firstOverflowIndex)
+    const groupStart = keepGroupStart(nextPages[index].blocks, firstOverflowIndex)
+    const groupEnd = keepGroupEnd(nextPages[index].blocks, groupStart)
+    const groupHeight = blockElements.slice(groupStart, groupEnd).reduce((sum, element) => sum + outerHeight(element), 0)
+    const pageCapacity = safeBottom - (previewBlocks?.getBoundingClientRect().top || 0)
+    const splitIndex = groupStart > 0 && groupHeight <= pageCapacity ? groupStart : firstOverflowIndex
+    const movedBlocks = nextPages[index].blocks.splice(splitIndex)
 
     if (movedBlocks.length === 0) continue
 
@@ -1412,6 +1417,7 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
       availableHeight,
       candidates: followingPage.blocks.map((candidate, candidateIndex) => ({
         type: candidate.type,
+        text: candidate.text,
         continued: candidate.continued,
         height: outerHeight(followingElements[candidateIndex])
       }))
@@ -1423,10 +1429,25 @@ function refineRenderedPageOverflows(pages: PreviewPage[], root: HTMLDivElement 
 
     if (followingPage.blocks.length === 0) nextPages.splice(index + 1, 1)
 
-    return renumberPreviewPages(moveTrailingHeadingToNextPage(nextPages))
+    // The measured elements no longer match the changed pages. Re-measure
+    // before attempting another boundary repair.
+    return renumberPreviewPages(nextPages)
   }
 
-  return renumberPreviewPages(moveTrailingHeadingToNextPage(nextPages))
+  return renumberPreviewPages(moveTrailingHeadingToNextPage(nextPages, (pageIndex, start, end) => {
+    const current = pageElements[pageIndex]
+    const following = pageElements[pageIndex + 1]
+    const currentElements = Array.from(current.querySelector(".previewBlocks")?.children || []) as HTMLElement[]
+    const followingElements = Array.from(following.querySelector(".previewBlocks")?.children || []) as HTMLElement[]
+    const followingPreview = following.querySelector<HTMLElement>(".previewBlocks")
+    const footer = following.querySelector<HTMLElement>(".pageFooter")
+    if (!followingPreview || !footer) return false
+    const groupElements = [...currentElements, ...followingElements].slice(start, end)
+    const groupHeight = groupElements.reduce((sum, element) => sum + outerHeight(element), 0)
+    const capacity = footer.getBoundingClientRect().top - renderedPageGuard(nextPages[pageIndex + 1].chapter)
+      - followingPreview.getBoundingClientRect().top
+    return groupHeight <= capacity
+  }))
 }
 
 function renumberPreviewPages(pages: PreviewPage[]): PreviewPage[] {
@@ -1452,62 +1473,11 @@ function paginateBlocksByHeight(
   firstHeaderHeight: number,
   runningHeaderHeight: number
 ): Array<Omit<PreviewPage, "pageNumber">> {
-  const pages: Array<Omit<PreviewPage, "pageNumber">> = []
-  let blocks: MarkdownBlock[] = []
-  let usedBlockHeights: number[] = []
-  let chapterPageNumber = 1
-  let used = firstHeaderHeight
-
-  function pushPage() {
-    pages.push({
-      chapter,
-      blocks,
-      chapterPageNumber,
-      isFirstPage: chapterPageNumber === 1
-    })
-    chapterPageNumber += 1
-    blocks = []
-    usedBlockHeights = []
-    used = runningHeaderHeight
-  }
-
-  for (let index = 0; index < chapter.blocks.length; index += 1) {
-    const block = chapter.blocks[index]
-    const nextBlock = chapter.blocks[index + 1]
-    const blockHeight = blockHeights[index] || estimateBlockCost(block)
-    const keepWithNextHeight = shouldKeepWithNext(block, nextBlock) && nextBlock
-      ? blockHeights[index + 1] || estimateBlockCost(nextBlock)
-      : 0
-
-    if (blocks.length > 0 && used + blockHeight + keepWithNextHeight > pageBudget) {
-      const lastBlock = blocks.at(-1)
-      const lastBlockHeight = usedBlockHeights.at(-1) || 0
-
-      if (blocks.length === 1 && lastBlock?.type === "heading") {
-        // Keep a heading with the following block; an orphan heading is worse than a tight page.
-      } else if (blocks.length > 1 && lastBlock?.type === "heading") {
-        blocks.pop()
-        usedBlockHeights.pop()
-        used -= lastBlockHeight
-        pushPage()
-        blocks.push(lastBlock)
-        usedBlockHeights.push(lastBlockHeight)
-        used += lastBlockHeight
-      } else {
-        pushPage()
-      }
-    }
-
-    blocks.push(block)
-    usedBlockHeights.push(blockHeight)
-    used += blockHeight
-  }
-
-  if (blocks.length > 0 || pages.length === 0) {
-    pushPage()
-  }
-
-  return pages
+  return paginateBlockGroups(
+    chapter.blocks,
+    chapter.blocks.map((block, index) => blockHeights[index] || estimateBlockCost(block)),
+    pageBudget, firstHeaderHeight, runningHeaderHeight
+  ).map((blocks, index) => ({ chapter, blocks, chapterPageNumber: index + 1, isFirstPage: index === 0 }))
 }
 
 function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pageNumber">> {
@@ -1520,84 +1490,18 @@ function paginateBlocks(chapter: BookStudioChapter): Array<Omit<PreviewPage, "pa
     }]
   }
 
-  const pages: Array<Omit<PreviewPage, "pageNumber">> = []
-  let blocks: MarkdownBlock[] = []
-  let usedBlockCosts: number[] = []
-  let chapterPageNumber = 1
-  let used = chapter.sectionType === "front_matter" ? FRONT_MATTER_FIRST_PAGE_COST : FIRST_PAGE_HEADER_COST
-
-  function pushPage() {
-    pages.push({
-      chapter,
-      blocks,
-      chapterPageNumber,
-      isFirstPage: chapterPageNumber === 1
-    })
-    chapterPageNumber += 1
-    blocks = []
-    usedBlockCosts = []
-    used = chapter.sectionType === "front_matter" ? FRONT_MATTER_RUNNING_PAGE_COST : RUNNING_HEADER_COST
-  }
-
-  for (let index = 0; index < chapter.blocks.length; index += 1) {
-    const block = chapter.blocks[index]
-    const nextBlock = chapter.blocks[index + 1]
-    const cost = estimateBlockCost(block) + layoutSafetyCost(block)
-    const keepWithNextCost = shouldKeepWithNext(block, nextBlock)
-      ? estimateBlockCost(nextBlock) + layoutSafetyCost(nextBlock)
-      : 0
-    const budget = chapter.sectionType === "front_matter" ? FRONT_MATTER_PAGE_BUDGET : MAIN_PAGE_FALLBACK_BUDGET
-
-    if (blocks.length > 0 && used + cost + keepWithNextCost > budget) {
-      const lastBlock = blocks.at(-1)
-      const lastBlockCost = usedBlockCosts.at(-1) || 0
-
-      if (blocks.length === 1 && lastBlock?.type === "heading") {
-        // Keep a heading with the following block; an orphan heading is worse than a tight page.
-      } else if (blocks.length > 1 && lastBlock?.type === "heading") {
-        blocks.pop()
-        usedBlockCosts.pop()
-        used -= lastBlockCost
-        pushPage()
-        blocks.push(lastBlock)
-        usedBlockCosts.push(lastBlockCost)
-        used += lastBlockCost
-      } else {
-        pushPage()
-      }
-    }
-
-    blocks.push(block)
-    usedBlockCosts.push(cost)
-    used += cost
-  }
-
-  if (blocks.length > 0 || pages.length === 0) {
-    pushPage()
-  }
-
-  return pages
+  const frontMatter = chapter.sectionType === "front_matter"
+  return paginateBlockGroups(
+    chapter.blocks,
+    chapter.blocks.map((block) => estimateBlockCost(block) + layoutSafetyCost(block)),
+    frontMatter ? FRONT_MATTER_PAGE_BUDGET : MAIN_PAGE_FALLBACK_BUDGET,
+    frontMatter ? FRONT_MATTER_FIRST_PAGE_COST : FIRST_PAGE_HEADER_COST,
+    frontMatter ? FRONT_MATTER_RUNNING_PAGE_COST : RUNNING_HEADER_COST
+  ).map((blocks, index) => ({ chapter, blocks, chapterPageNumber: index + 1, isFirstPage: index === 0 }))
 }
 
 function isSinglePageFrontMatter(layout: string) {
   return layout === "digital-services" || layout === "title-page" || layout === "module-opening"
-}
-
-function shouldKeepWithNext(block: MarkdownBlock, nextBlock?: MarkdownBlock) {
-  if (!nextBlock) return false
-
-  if (block.type === "index-part") return nextBlock.type === "index-chapter"
-  if (block.type === "index-chapter") return nextBlock.type === "index-row"
-
-  if (block.type === "heading") {
-    return nextBlock.type !== "heading"
-  }
-
-  if (block.type === "paragraph" && wordCount(block.text || "") <= 24) {
-    return nextBlock.type === "image" || nextBlock.type === "code"
-  }
-
-  return false
 }
 
 function estimateBlockCost(block: MarkdownBlock) {

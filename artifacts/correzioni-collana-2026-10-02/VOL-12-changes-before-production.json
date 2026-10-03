@@ -1,0 +1,1022 @@
+{
+  "volume": "VOL-12",
+  "changes": {
+    "V12-16": {
+      "change": "Separati ispettore antincendi e tecnico-scientifico e ambito D.M. 49/2022.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md": "dd8fa22d6862813fb9a16979fdb4f123ce3c3ca1679af3d85c83b9159bab5529",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-17": {
+      "change": "Visus isolato non dimostra idoneità ad altri ruoli né prognosi permanente; quiz 5 risolto.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md": "da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-18": {
+      "change": "Termini di maturazione distinti dalla pubblicazione e cronologie 22–23 anni corrette.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md": "da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-19": {
+      "change": "Elevazione militare e limite volontari distinti da requisiti della riserva.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md": "da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-20": {
+      "change": "Residuo nominale distinto da contingente garantito; graduatoria e devoluzione.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md": "da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-21": {
+      "change": "Condotta generale distinta dalla singola causa di condanna irrevocabile.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md": "da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-22": {
+      "change": "Unità, operatori, art. 3 comma 2 DPR 207 e valutazione competente; costo visita eliminato.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md": "da53a73ad9313e9165c2197a62e6f9100c6ec647ba8dd113da4cdfff883e2d9c",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-23": {
+      "change": "Valore atteso e omissione con formula e controesempio numerico.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md": "c5157b01ebe99339b4ac84224d70b60dc05ab44edcdf4a6f835ad5e9595323b1",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-24": {
+      "change": "Diario ufficiale tablet acquisito; eliminata lettura ottica presunta e ordine rigido.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md": "c5157b01ebe99339b4ac84224d70b60dc05ab44edcdf4a6f835ad5e9595323b1",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-25": {
+      "change": "Comprensione e mantenimento; simulazioni provvisorie etichettate e nessuna esclusiva dei materiali.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md": "c5157b01ebe99339b4ac84224d70b60dc05ab44edcdf4a6f835ad5e9595323b1",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-26": {
+      "change": "Braccia in alto per regolare sbarra, lungo i fianchi soltanto alla partenza.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-27": {
+      "change": "Media aritmetica con tutti i moduli sufficienti e casi risolti.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-28": {
+      "change": "Trave con esiti previsti; sesso specificato; punteggi intermedi non inventati.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-29": {
+      "change": "Rapporti non usati come misura del rendimento atletico; quiz 6 senza sovrapposizioni.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-30": {
+      "change": "Cronometraggio, ordine e certificato senza automatismi non previsti.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-31": {
+      "change": "Titoli acquisiti dopo scadenza non valutabili; patente senza promessa di esito.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-32": {
+      "change": "Prevenzione incendi: funzione, fonti, progetto, SCIA, controlli e caso B.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md": "abd877e7316bc28d67a0724af7cf126aa0285e032805356caa4780b4be6e827a",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-33": {
+      "change": "Rinvii esistenti letti e preparazione in parallelo ai controlli formali.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md": "e7cf9d1af54dd1732ba03ff11a9e31be652b16ae4e95bea82a027f8a371a3d21",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-34": {
+      "change": "Otto risposte per settimana e percorsi 30/60 con ore e consegne.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md": "33aeea6cbc946a8f4e9caf15dda3ae81a640640c7991abd0725dbe9d68d6afde",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-35": {
+      "change": "Andrea con punteggi/margini e Francesca con consegna, soluzione e griglia.",
+      "files": [
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP02. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md": "c60d59483769f97d7cb4dce54b4b9b19bf021198f4357648ccc870fdf814d9c8",
+        "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md": "9a14a3c09ded95f538e36af4e30e041ad1dd3666458e29cb605afadbc2edd31e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1"
+      }
+    },
+    "V12-01": {
+      "change": "Mappa dei tre corpi e dei due livelli; cinque bandi con ruoli, titoli e prove; rinvio alla Polizia locale.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md": "d3b20be9d6c1945f4d71f53cba0db2378cd0f2203f465b22a063bef5eac752a6",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-02": {
+      "change": "Corrette soglie PS e formule dei compleanni; elevazioni collegate alla categoria.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md": "c6532cec6ec05fc5f6a5d6b94154589942ba474b4022424d2d6d70102bebd798",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-03": {
+      "change": "Sentenza 40/2024 limitata alla clausola GdF sulla guida in stato di ebbrezza.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md": "c6532cec6ec05fc5f6a5d6b94154589942ba474b4022424d2d6d70102bebd798",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-04": {
+      "change": "D.M. 198/2003 riferito alla Polizia di Stato; parametri e accertamenti distinti.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md": "c6532cec6ec05fc5f6a5d6b94154589942ba474b4022424d2d6d70102bebd798",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-05": {
+      "change": "Funzione, formato e banca separati; CC 898 italiano a 60 quesiti, GdF 983 composizione di sei ore; scenario banca con tempo ipotetico.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md": "d8395fcbad193851baf398076b67b12fbafc3ce11a05608c52450d6242db82e7",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-06": {
+      "change": "Protocollo GdF 983 nel perimetro, obbligatori/facoltativi e conversione punti; certificazioni distinte da prenotazioni.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md": "030b12cd41e225f687480d0e48c84a0868254d20142c6fcd35eff9154146f06d",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-07": {
+      "change": "Corretta cronologia del caso Luca e separati dichiarazione e prova documentale.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md": "6a9e32ed915be8dfcd45f843acf2dbafc6ceaa1e6b02172ddcdbec59557a7082",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-08": {
+      "change": "Eliminata competitività astratta delle lingue; scelta entro i vincoli della procedura.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md": "6a9e32ed915be8dfcd45f843acf2dbafc6ceaa1e6b02172ddcdbec59557a7082",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-09": {
+      "change": "Perimetro di orientamento e metodo dichiarato; tre piani di funzione distinti, rinvii circoscritti letti nelle destinazioni.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md": "3eac5e05a81b66fe9e7b9abf6d55c8743fc43c3e30f21f8f765f40f5b515a21b",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-10": {
+      "change": "Canale, termine, pagamento se previsto, invio, ricevuta e annullamento/reinvio; esempio CC.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md": "d4b771c4e0f1a86deb773af86fa10de36dbbcfb5ee9feab70d26f9632223df61",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-11": {
+      "change": "Distinti non reperito, non ancora pubblicato, non previsto e da verificare.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md": "d4b771c4e0f1a86deb773af86fa10de36dbbcfb5ee9feab70d26f9632223df61",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-12": {
+      "change": "Piani alternativi 30/60/90 con ore e consegne; banca 5.000 e scenario 33 giorni; commenti dei quiz pertinenti.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md": "4881ecc1676119883f51598d9225795b7d162aa7f471c89f547f85a0a906f69f",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-13": {
+      "change": "Sei quiz con commenti specifici e chiavi redistribuite senza disallineamenti.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md": "4881ecc1676119883f51598d9225795b7d162aa7f471c89f547f85a0a906f69f",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-14": {
+      "change": "Quattro casi chiusi su certificato, nuovo invio, avviso e penalità; otto quiz con calcoli e distrattori motivati.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md": "1bf3158f236c1569b9d873d4e2d416abd28ce16a88bafb742efdb36f21c73a85",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-15": {
+      "change": "Ammissibilità separata dalla preparazione; N/A e avviso futuro; ricevuta soltanto dopo invio e decisioni motivate.",
+      "files": [
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+      ],
+      "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md": "165bc58d373883ad9e20d03b6cc631ff864be98418826b08883a01f0e8b09e7c",
+        "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md": "18cdb9bf3f9261d4ed9644c026f923ca104f4062d0de845a4a7b5e598b04c32c",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56"
+      }
+    },
+    "V12-36": {
+      "change": "Giurisdizione ordinaria civile e penale, funzioni giudicanti e requirenti; fonti dei requisiti distinte; precedenti esiti della procuratura.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md": "86070f2a4341ae74d5423ae72e70912f1e26c39a2a3a8b78cebf46e03fd167bb",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-37": {
+      "change": "Eliminati riferimenti alla ricerca interna; base dell’età ricondotta al D.P.C.M. 141/2000 e bando applicativo.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md": "5161815b12115b76f3d2772756e2f1cc0dd4ef0b81f8af3cc12599d700abf6b2",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-38": {
+      "change": "Lingua qualitativa, minimi numerici e totale 108 con esempi chiusi.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md": "e5714aa3549eae54c61268153775130490c114a382870a1d76543d51733063ad",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-39": {
+      "change": "Distinti domanda e diario in cap. 2; confronto retrospettivo e candidatura storica tempestiva nel cap. 6.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md": "c9c3f229061d1744bb8bf1e7b406bb951f923801d96c9928dd753cba25be33f5",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-40": {
+      "change": "Formula anagrafica del bando, D.P.C.M. 141/2000 e computo dei compleanni; due precedenti non idoneità; soglie autonome e correzione sequenziale.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md": "5161815b12115b76f3d2772756e2f1cc0dd4ef0b81f8af3cc12599d700abf6b2",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-41": {
+      "change": "Separati prima candidatura di Marta e cinque esiti di Andrea, con cronologie possibili.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md": "4e78945a9c6f1888fdf5df178a8ef1ab7288c6ce30f66a37135de9b12bf6c6a6",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-42": {
+      "change": "Pratica alla scadenza, invio anticipato e certificato successivo distinti anche nella domanda-trappola.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md": "4e78945a9c6f1888fdf5df178a8ef1ab7288c6ce30f66a37135de9b12bf6c6a6",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-43": {
+      "change": "Comando della traccia prima del formato; tema breve svolto, soluzione Alfa/Beta con danni e varianti, clausole testamentarie motivate e confronto prima/dopo.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md": "8e63f6db3c30a8d5eecf25273c0ede44f0201757cd17ed33068fa9c12b0d7c08",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-44": {
+      "change": "Formato deciso dal comando espresso; tesi e obiezioni solo quando pertinenti.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md": "8e63f6db3c30a8d5eecf25273c0ede44f0201757cd17ed33068fa9c12b0d7c08",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-45": {
+      "change": "Corrette forme aggiungi, classificale e pagina scritta male e corretta bene.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md": "c9c3f229061d1744bb8bf1e7b406bb951f923801d96c9928dd753cba25be33f5",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-46": {
+      "change": "Piano su due anni con ore, prodotti e revisioni condizionate; caso dichiarato composito, candidatura storica tempestiva e studio successivo.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md": "c9c3f229061d1744bb8bf1e7b406bb951f923801d96c9928dd753cba25be33f5",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-47": {
+      "change": "Difesa concreta su requisito temporale, prova documentale e tardività; mancanza documentale distinta da incertezza interpretativa; checklist degli esiti.",
+      "files": [
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md": "074a8a9fdad4d30e79a285bed456edc851ee0c18853f6b3b5e849676256ee357",
+        "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md": "b6750bad5aa84bde9e32d027b41892aa3fd855317b0ecb855cfa03c0bf15ccdf",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-48": {
+      "change": "Ammissibilità preliminare; quattro serie di scritti non superate; caso tre insuccessi e un orale negativo; Decoder aggiornabile.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md": "c5d9c08a3dda24374fef131a01e8607778fb26440f14b7c41fbda4afc78b2b78",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-49": {
+      "change": "Requisiti come condizione necessaria, punteggi personali soltanto dopo l’ammissibilità.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md": "c5d9c08a3dda24374fef131a01e8607778fb26440f14b7c41fbda4afc78b2b78",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-50": {
+      "change": "Paolo nato 1 luglio 1989, scadenza 10 luglio 2025: fuori limite con il solo figlio; variante 20 luglio.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md": "8881da25d3568fb14e028568c55c80403f0aeba8f47ff48c04e5269d5eca11be",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-51": {
+      "change": "Confronto risposta/omissione: 2/9, 1/5, 4/23; esempi con quattro/cinque opzioni e limiti della stima.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md": "8881da25d3568fb14e028568c55c80403f0aeba8f47ff48c04e5269d5eca11be",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-52": {
+      "change": "Art. 10: scrittura digitale con esercizio e verifica delle istruzioni.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md": "8881da25d3568fb14e028568c55c80403f0aeba8f47ff48c04e5269d5eca11be",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-53": {
+      "change": "SSAI soppressa dal 2014, funzioni trasferite alla SNA.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md": "8881da25d3568fb14e028568c55c80403f0aeba8f47ff48c04e5269d5eca11be",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-54": {
+      "change": "Formula con titoli e lingua, caso 150 e variante insufficiente; preferenze distinte.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md": "8881da25d3568fb14e028568c55c80403f0aeba8f47ff48c04e5269d5eca11be",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-55": {
+      "change": "Laurea magistrale o equiparata, riconoscimento/equivalenza e termini distinti.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md": "7f51fb58316142a60c2e9cb16e1ce9e5b2da0283b7d7a1cdfbc448616a697047",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-56": {
+      "change": "Programma economico aggiornato e coordinato con i capitoli 1 e 5.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md": "7f51fb58316142a60c2e9cb16e1ce9e5b2da0283b7d7a1cdfbc448616a697047",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-57": {
+      "change": "Cinque opzioni per la materia facoltativa, scelta in domanda, 1,2/2, raccordo con Decoder e piano.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md": "7f51fb58316142a60c2e9cb16e1ce9e5b2da0283b7d7a1cdfbc448616a697047",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-58": {
+      "change": "Titoli e bonus con limiti; caso 149,2 e controlli inversi.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md": "7f51fb58316142a60c2e9cb16e1ce9e5b2da0283b7d7a1cdfbc448616a697047",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-59": {
+      "change": "Diagnosi e scelta prima della scadenza; nessun cambio libero dopo il termine.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md": "c9cb285472dc01b850983b3c84c14f25ff15584f4d056956a4b9ea24f2193bb3",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-60": {
+      "change": "Scelta nella domanda prima della scadenza; testo inglese originale, traduzione, risposta, correzione e dialogo.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md": "c9cb285472dc01b850983b3c84c14f25ff15584f4d056956a4b9ea24f2193bb3",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-61": {
+      "change": "Rilettura delle istruzioni informatiche; dossier con risposta, obiezione, transizioni e foglio elettronico risolto.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md": "d75c1c0027317cb0f71d6db168c4c4f83d98b5abdbb42fcd2535716da7d8c547",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-62": {
+      "change": "Settimane da 12 e 20 ore, varianti minime e prove complete; piano 26/52 settimane con checkpoint; pianificazione a ritroso.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md": "d70097f4a3efe36d47403f285cc7112b1b541254daafe5a1ae8d083060edfc0a",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305"
+      }
+    },
+    "V12-63": {
+      "change": "Residui staff rimossi nei quattro moduli; nota di accorpamento conservata nello snapshot, non nel libro.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md": "5f818fa5f4d6c08baa70992da456b268cc498df3c6917f7358f78ba42db4d05b",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-64": {
+      "change": "Commenti corretti e chiavi riequilibrate nei quattro moduli, con risposta semantica conservata.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md": "5f818fa5f4d6c08baa70992da456b268cc498df3c6917f7358f78ba42db4d05b",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-65": {
+      "change": "Refusi dell’audit corretti nei quattro moduli e nuova scansione mirata.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md": "5f818fa5f4d6c08baa70992da456b268cc498df3c6917f7358f78ba42db4d05b",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    },
+    "V12-66": {
+      "change": "Regole duplicate ricondotte alle sedi pertinenti; casi e laboratori con dati e soluzioni sostituiscono genericità nei quattro moduli.",
+      "files": [
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+      ],
+      "evidence": "Audit specialistici dei quattro moduli e gate 15 passati; evidenze di fonti, calcoli e chiavi nei manifest. Nuovo PDF ancora necessario.",
+      "status": "applicato",
+      "sha256": {
+        "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md": "5f818fa5f4d6c08baa70992da456b268cc498df3c6917f7358f78ba42db4d05b",
+        "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md": "e10ec4b3e4421429c9afc90ad409b779f153b60feab84f1577fa8752e61b2f1e",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica.md": "3e93349d177b6dd46526bae21793345773c72e2982036dc6ad3573cfd9d0f305",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md": "2ac3cb8ae27e9f0685608814872d1c3b6b624b7a90c1c691e488e58e28bb1c56",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp02-vigili-fuoco.md": "f15d452a9748ecf8a50fc2b112ff2fc0ee8f913d5338fc2d25b562a0e32b1ee1",
+        "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md": "478391e95b93986dc83b53cbea13fdeb19292e673bc73f95b1857380a7f12bd3"
+      }
+    }
+  },
+  "limitations": [
+    "Nuovi PDF e relativi controlli visivi ancora necessari. Nessuna dichiarazione di pubblicabilità."
+  ]
+}

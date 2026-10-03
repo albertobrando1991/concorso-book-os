@@ -133,3 +133,7 @@ Lo stato `consolidated` sostiene le distinzioni e la sequenza, non certifica reg
 - [[sources/adempimenti-contabilita-civile-commerciale-m-fc02]]
 - [[sources/normativa-tributaria-tuir-iva-accertamento-m-fc02]]
 - [[sources/iva-dpr-633-1972-aggiornamento-2026-07-20]]
+
+## Rettifica didattica del 3 ottobre 2026
+
+Art. 2, comma 7, D.P.R. 322/1998, nel raw integrale già acquisito: la dichiarazione presentata entro 90 giorni è valida, salve sanzioni; oltre 90 giorni è omessa ma costituisce titolo per la riscossione dei dati indicati. La scadenza ordinaria del modello è distinta dalla finestra di tardività. Riscontro istituzionale [circolare nel sistema MEF](https://def.finanze.it/DocTribFrontend/getPrassiDetail.do?id=%7B748E084A-FB26-43E8-8689-4A650983FBB4%7D).

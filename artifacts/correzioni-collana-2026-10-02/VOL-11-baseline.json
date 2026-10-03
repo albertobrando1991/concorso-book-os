@@ -1,0 +1,110 @@
+[
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+    "sha256": "fe727db84e5811000259c3ac5bd7494cdb3bf06eb288509cb352843cf9e3a569",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+    "sha256": "7a4ff4fab5ff89eec01012028c4a27fad5c26b80835590dba427dd125e1bbd1f",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+    "sha256": "007d86b372cf52a6d7ceb1d5271deae63f6dfc8bcc3fc1634d866d2f84ee9cec",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+    "sha256": "92ed87e06cb293f7994f7e1da7b1446531b5eb4acc8201bdda85778396e3ec5c",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+    "sha256": "ec304e0d8bffb1cf7ccf58cc74f8b3328db73c77d3da1dcf5552824da6e802bd",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+    "sha256": "d1e8c0bd3d4c4723b6b16d57024e86b228b6693230e9e16c4fd32f680802301c",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+    "sha256": "0654c4ae0a8c7c6765a666e40d2b1f72d3ed7775031f24c56868d0660f3b3762",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+    "sha256": "790ef3e8d9e592dbee8c3e243303e9e97cf687d5a6425133c9f090fe6e9a3d56",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+    "sha256": "012fc1659be9dfce7653ddec509cef9a1ec9278ddc5799d48586392c3ecee011",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+    "sha256": "c5b12ef36d68c451fe16a30c2125abed20b51e84a1f95379ee109fd73f352b9f",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+    "sha256": "235f875e7dabaec1ad38f3a9b7bc2db7906d0bc3f8d3a73fbbb09c7b81290cda",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+    "sha256": "4bd55f1d2f237c1393e9c2ea3f60c2cbeed19552766a0e9b21dff75e47176979",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": false
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+    "sha256": "1653d60448669c03a974dc8f5171917973006117d2f42122d1afabb8f85ee3c1",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+    "sha256": "f973e39064bf1fe77782e938c4ad705cba9c681dd76fe4d9f02883af50a06570",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/index.md",
+    "sha256": "9c15a85de0d95c8612dd257957cb0dbf83e5ab0c053d33e23f83c8564f46c94a",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11.md",
+    "sha256": "86458d70ded013e355b972f6f727dc44c5fb774272f31776ba5c4922a5a1365d",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/02-matrice-copertura-didattica.md",
+    "sha256": "5423bcc1583a5fbb2372e693633c7a23dcfa66aa376089a4db0368b11dc99069",
+    "auditReadComplete": true,
+    "unchangedSinceIntegralAudit": true
+  },
+  {
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/17-bibbia-del-modulo.md",
+    "sha256": "07b75a61dd3021891d5398ae6cf763f6ad0195ee4ac1e21f547dbd6542650ade",
+    "auditReadComplete": false,
+    "unchangedSinceIntegralAudit": false
+  }
+]

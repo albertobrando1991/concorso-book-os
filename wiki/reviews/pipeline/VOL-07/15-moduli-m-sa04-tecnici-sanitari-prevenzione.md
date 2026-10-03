@@ -1,77 +1,55 @@
-# Report editoriale — Audit specialistico automatico M-SA04
+# M-SA04 — Audit specialistico automatico delle correzioni, 3 ottobre 2026
 
 ## 1. Sintesi editoriale
 
-- Genere editoriale: modulo specialistico e workbook per concorsi dei Tecnici sanitari di laboratorio biomedico (TSLB) e dei Tecnici sanitari di radiologia medica (TSRM).
-- Pubblico target: candidati TSLB e TSRM che devono affrontare prove su profili, laboratorio, imaging, radioprotezione, dispositivi e rischio tecnologico.
-- Perimetro di questa revisione: indice, piano, matrice, Bibbia, quattro capitoli e raccordo con la Bibbia del VOL-07.
-- Stato generale in una frase: audit giuridico-professionale, tecnico-scientifico, di qualità, biosicurezza, radioprotezione, dispositivo-vigilanza e rischio tecnologico concluso; nessun errore grave o medio resta aperto e il modulo è pronto per il text freeze.
+Riesaminati i delta dell’audit integrale e i relativi raccordi. Non risultano errori testuali gravi o medi aperti nei claim effettivamente insegnati e verificati. La lettura integrale diagnostica precedente costituisce la baseline; non si dichiara una nuova lettura integrale delle parti invariate. Nessuna dichiarazione di pubblicabilità dell’intero volume.
 
 ## 2. Punti applicati della checklist
 
-Applicati i punti 1-26 e 28-30 della checklist: struttura, progressione, coerenza interna e trasversale, terminologia, completezza, definizioni, claim normativi, procedure, soglie e termini mobili, casi, esercizi, tabelle, apparato delle fonti, lingua, stile didattico, uniformità e leggibilità. Applicato anche il gate di copertura didattica integrale: nove nuclei su nove sono `completo`. Il punto 27 non è applicabile perché non è disponibile un PDF impaginato.
+Punti 1–26 e 28–30 pertinenti: accuratezza, fonti, definizioni, autonomia, ambito professionale, casi, calcoli, risposte, lessico e raccordi. Micro-revisione e Humanizer sui delta. Punto 27 ancora da controllare nel nuovo PDF.
 
 ## 3. Tabella errori
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
 | --- | --- | --- | --- | --- | --- | --- |
-| A01 | Indice, piano, matrice, Bibbia e quattro capitoli | Workflow editoriale | Media | Gli apparati e i frontmatter conservavano `review_required: true`, stati antecedenti allo step 15 e rinvii a revisioni umane intermedie. Il protocollo corrente riserva l'unico passaggio umano obbligatorio allo step 24. | Allineati data, `review_required`, `draft_stage`, stato della matrice e prossimo passo; sostituiti i rinvii umani con la regola di riapertura dei gate per nuovi claim sostanziali. | corretto |
-| A02 | Indice M-SA04 e Bibbia del VOL-07 | Perimetro editoriale | Media | La copertura dichiarata comprendeva genericamente prevenzione e tecnici della prevenzione, mentre lo schema autorizzato e i quattro capitoli canonici delimitano M-SA04 a TSLB e TSRM; il verticale TPALL appartiene a M-SA02. | Ricondotta la copertura a TSLB e TSRM senza modificare il titolo pubblico e l'identificativo canonico del modulo. | corretto |
-| A03 | Capitolo 01 | Profili, requisiti e responsabilità | Media | I profili TSLB e TSRM sono correttamente distinti secondo i D.M. 745 e 746 del 1994; titolo abilitante, iscrizione, requisiti e prove del singolo bando restano dati mobili, e il testo non trasferisce competenze tra i profili. | Nessuna modifica sostanziale al corpo; chiuso il flag di review dopo esito positivo. | corretto |
-| A04 | Capitolo 02 | Laboratorio, qualità e biosicurezza | Media | Fasi preanalitica, analitica e postanalitica, QMS, QC, EQA, non conformità, CAPA e approccio OMS basato sul rischio sono distinti e correttamente collegati; non compaiono concentrazioni, SOP o misure universali. | Nessuna modifica sostanziale al corpo; chiuso il flag di review dopo esito positivo. | corretto |
-| A05 | Capitolo 03 | Imaging, dosimetria e radioprotezione | Media | Modalità, qualità dell'immagine, Bq, Gy, Sv, giustificazione, ottimizzazione, limiti e livelli diagnostici di riferimento mantengono funzioni distinte; i DRL non sono presentati come limiti individuali del paziente e i ruoli restano separati. | Nessuna modifica sostanziale al corpo; chiuso il flag di review dopo esito positivo. | corretto |
-| A06 | Capitolo 04 | Dispositivi, IVD, vigilanza e HTA | Media | MDR, IVDR, ciclo tecnologico, controlli dell'utilizzatore, manutenzione, segnalazione, HTA e rischio mantengono confini corretti; i termini nazionali di segnalazione 10/30 giorni sono riferiti ai decreti del 1° luglio 2025 e non sono estesi a procedure locali. | Rimosso il rinvio a futura review professionale; mantenuti cut-off, mobilità dei canali operativi e riapertura dei gate per nuovi protocolli o parametri. | corretto |
-| A07 | Matrice, colonna “Review normativa” e sezione finale | Coerenza degli apparati | Media | Le nove righe risultavano complete ma descrivevano ancora specialismi da verificare e priorità future, in conflitto con la chiusura dello step 15. | Registrato l'esito concluso per ciascun nucleo e sostituite le priorità obsolete con condizioni esplicite di riapertura dei gate. | corretto |
-
-Non risultano errori gravi, errori medi aperti, box `Dato operativo` non tracciati o rinvii a futura review umana intermedia.
+| V07-28 | 01-profili-requisiti-prove-dirigenza-sanitaria.md, 01-profili-tslb-tsrm-requisiti-prove-responsabilita.md | Audit specialistico | Grave | Distinti obbligo generale di inglese/informatica e modalità mobili; corretti esercizio, soluzione e rinvii SA04. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-29 | 01-profili-requisiti-prove-dirigenza-sanitaria.md, 01-mappa-profili-e-prove.md, 01-profili-tslb-tsrm-requisiti-prove-responsabilita.md | Audit specialistico | Medio | Inseriti punteggi e soglie nazionali DPR483 per quattro profili e DPR220 nei due moduli di comparto. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-35 | 02-tslb-processo-laboratorio-qualita-biosicurezza.md | Audit specialistico | Grave | Integrati principi delle discipline, precisione/esattezza, calibrazione/QC e serie numerica commentata; gruppi biologici, contenimento, cappe, decontaminazione e categorie rifiuti. Inserito grafico originale Levey–Jennings coerente con la tabella e con il quesito. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-36 | 02-tslb-processo-laboratorio-qualita-biosicurezza.md | Audit specialistico | Grave | Integrati principi delle discipline, precisione/esattezza, calibrazione/QC e serie numerica commentata; gruppi biologici, contenimento, cappe, decontaminazione e categorie rifiuti. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-37 | 03-tsrm-imaging-dosimetria-radioprotezione.md | Audit specialistico | Grave | Aggiunti CTDIvol, DLP, DAP, esempio calcolato, effetti, protezione, limiti normativi; rischi RM, impianti e gravidanza. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-38 | 03-tsrm-imaging-dosimetria-radioprotezione.md | Audit specialistico | Medio | Aggiunti CTDIvol, DLP, DAP, esempio calcolato, effetti, protezione, limiti normativi; rischi RM, impianti e gravidanza. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-39 | 03-tsrm-imaging-dosimetria-radioprotezione.md, V07-39-specifica-apparati.md | Audit specialistico | Medio | Inseriti due apparati originali movimento/dettaglio e rumore/contrasto, con didascalie, alternative testuali, domande e soluzioni. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-40 | 04-tecnologie-dispositivi-apparecchiature-rischio.md | Audit specialistico | Medio | Esplicitati esiti dell’incidente grave, classi MDR/IVDR, UDI e FSCA/FSN; preservati termini 10/30 giorni. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
+| V07-41 | 04-tecnologie-dispositivi-apparecchiature-rischio.md, 06-dirigenza-medica-discipline-casi.md, 07-dirigenza-sanitaria-non-medica-discipline-casi.md | Audit specialistico | Medio | Eliminati residui Humanizer, gate e step dalla prosa pubblica SA03/06–07 e SA04/04, preservando limiti informativi per il candidato. | Riesame dei delta e riscontri specifici descritti nelle sezioni 4 e 6 | Corretto |
 
 ## 4. Osservazioni per capitolo
 
-### Capitolo 01 — TSLB e TSRM: profili, requisiti, prove e responsabilità
+Capitolo 01: obbligo generale inglese/informatica distinto dal formato del bando; DPR 220/2001 con schema e soglie dei profili pertinenti. Capitolo 02: principi analitici selezionati, microbiologia e vitalità, ematologia/emostasi, immunologia e istocitologia; distinte sensibilità analitica e diagnostica, precisione ed esattezza, calibrazione e controllo qualità. Serie 100–107 con media 100 e deviazione standard 2: z = 0; 0,5; 1; 1,5; 2; 2,5; 3; 3,5. Grafico originale coerente con la tabella; trend identificato senza dichiarare un criterio universale di accettazione. Gruppi biologici e livelli di contenimento non sono sinonimi; art. 275 D.Lgs. 81/2008 confrontato con la copia INL gennaio 2026, cappe e rifiuti descritti nel perimetro didattico.
 
-- Punti di forza: distingue i due profili, collega atto professionale, autonomia, collaborazione, qualità e limiti e tratta il bando come fonte decisiva per i dati mobili.
-- Criticità: nessuna voce aperta.
+Capitolo 03: CTDIvol in mGy, DLP in mGy·cm, DAP in Gy·cm²; esempio DLP 8×30 + 8×10 = 320 mGy·cm. Indicatori distinti dalla dose individuale. Letti integralmente i consolidati Normattiva degli artt. 146 e 166 del D.Lgs. 101/2020: lavoratori esposti 20 mSv dose efficace, 20 cristallino, 500 pelle/estremità; popolazione 1/15/50, con media su 1 cm² per la pelle. Nessun limite di dose applicato al paziente. Gravidanza/allattamento e RM distinti; D.M. 14 gennaio 2021 e marcature degli impianti preservano le verifiche professionali. Apparati movimento e rumore inseriti con domande e soluzioni; nel primo i contorni sono allargati e sfocati, nel secondo il contrasto medio è costante. Gli originali sono stati ispezionati dal coordinamento; la composizione PDF è un controllo successivo.
 
-### Capitolo 02 — TSLB: processo di laboratorio, qualità e biosicurezza
-
-- Punti di forza: integra processo, discipline, sistema qualità, non conformità e biosicurezza con casi ragionati non esecutivi.
-- Criticità: nessuna voce aperta; metodi, reagenti, parametri e misure del setting restano contestualizzati.
-
-### Capitolo 03 — TSRM: imaging, dosimetria e radioprotezione
-
-- Punti di forza: collega modalità, qualità, artefatti, dose, categorie di esposizione e responsabilità senza proporre settaggi universali.
-- Criticità: nessuna voce aperta; protocolli e livelli locali restano dati mobili.
-
-### Capitolo 04 — Tecnologie, dispositivi, apparecchiature e rischio tecnologico
-
-- Punti di forza: separa uso, controlli, manutenzione, guasto, vigilanza, HTA e analisi del rischio, con escalation coerenti e senza istruzioni di riparazione.
-- Criticità: nessuna voce aperta; moduli, canali, manuali e procedure locali devono essere verificati nel setting concreto.
+Capitolo 04: classi MDR I/IIa/IIb/III e IVDR A/B/C/D distinte, UDI distinto dal numero inventariale, FSCA distinta da FSN; incidente grave comprende anche deterioramento temporaneo grave e potenzialità dell’esito. Termini di segnalazione dell’operatore mantenuti senza confonderli con quelli del fabbricante. Fonti EUR-Lex con challenge non utilizzate come se fossero state lette; riscontri specifici documentati nelle fonti ministeriali e istituzionali. Il controllo non certifica il fascicolo tecnico di un dispositivo.
 
 ## 5. Coerenza globale
 
-- Terminologia: coerente con la Bibbia del modulo; profilo, processo, qualità, pericolo, esposizione, rischio, dose, DRL, dispositivo, incidente, manutenzione e HTA mantengono significati distinti.
-- Struttura vs indice: quattro file, quattro link e quattro titoli canonici coincidenti.
-- Promesse dell'introduzione mantenute: sì; i nove nuclei della matrice hanno teoria, applicazione, output e verifica.
-- Rinvii: le collocazioni della matrice puntano esclusivamente ai capitoli 01-04 esistenti; nessun rinvio sostituisce il contenuto necessario allo studio.
+Il percorso mantiene i limiti di profilo e i rinvii agli altri moduli. Matrici e topic sono raccordati al contenuto aggiunto; i precedenti esiti sono storici. Nessun conteggio di righe viene usato come prova autonoma di completezza. I claim mobili conservano fonte e ambito.
 
-## 6. Contenuto da verificare
+## 6. Contenuti verificati
 
-Nessuna voce aperta per il text freeze. Requisiti e prove del singolo bando, versioni consolidate, norme tecniche, manuali, protocolli, parametri, canali di segnalazione e procedure del setting devono essere verificati nell'applicazione concreta: sono dati mobili dichiarati, non debito editoriale del modulo.
+Evidenze e URL sono nelle source note del modulo e nel [[reviews/correzioni-collana-2026-10-02/VOL-07|registro per ID]]. Il precedente ostacolo di accesso Normattiva è superato per gli articoli elencati nella sezione 4, scaricati in `wiki/raw/correzioni-collana-2026-10-02/`. Sono controlli selettivi, non una certificazione integrale dei corpus. Nessun box «Dato operativo» è stato rilevato dal contratto CLI del modulo: non vi sono righe obbligatorie omesse.
 
-## 7. Suggerimenti facoltativi (non errori)
+## 7. Suggerimenti facoltativi
 
-In impaginazione si possono distinguere graficamente regola generale, dato mobile del bando o del setting e limite di competenza, purché il sistema resti leggibile in bianco e nero.
+Nessun ampliamento estraneo ai rilievi necessario per questo passaggio.
 
 ## 8. Priorità degli interventi
 
-1. Conservare questo report come evidenza dello step 15.
-2. Eseguire il text freeze dello step 16.
-3. Verificare il PDF nel preflight dedicato e presentare il pacchetto completo alla conferma umana finale dello step 24.
+Superare il gate CLI e registrare il freeze del testo; quindi generare e verificare effettivamente il nuovo PDF, compresi apparati, tabelle e spazi di risposta. Non trasformare il gate del report in una verifica visiva.
 
 ## 9. Giudizio di pubblicabilità
 
-**Pubblicabile con correzioni minori**, già applicate e chiuse. La tabella A01-A07 non contiene stati aperti; perimetro, copertura, fonti e workflow specialistico sono coerenti.
+Testo del modulo idoneo al freeze nel perimetro concorsuale dichiarato. Pubblicabilità del volume non attestata: PDF, preflight e conferma conclusiva restano separati.
 
 ## 10. Limiti di questa revisione
 
-L'audit valuta il testo editoriale e le fonti consolidate ai cut-off dichiarati, con riscontri puntuali su fonti istituzionali. Non sostituisce l'applicazione professionale a un caso concreto, non certifica procedure tecniche o aziendali locali e non valuta un PDF impaginato. Nessun box `Dato operativo` è presente nel modulo.
+Audit automatico editoriale con riscontri esterni puntuali; non parere professionale per casi reali, validazione clinica o controllo di ogni norma territoriale. Gli esempi numerici originali non diventano standard. Le immagini originali hanno verifica distinta dal loro futuro impaginato. I report storici restano archiviati.

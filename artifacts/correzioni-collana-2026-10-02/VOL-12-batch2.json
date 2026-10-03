@@ -1,0 +1,152 @@
+{
+  "V12-01": {
+    "change": "Mappa dei tre corpi e dei due livelli; cinque bandi con ruoli, titoli e prove; rinvio alla Polizia locale.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-02": {
+    "change": "Corrette soglie PS e formule dei compleanni; elevazioni collegate alla categoria.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-03": {
+    "change": "Sentenza 40/2024 limitata alla clausola GdF sulla guida in stato di ebbrezza.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-04": {
+    "change": "D.M. 198/2003 riferito alla Polizia di Stato; parametri e accertamenti distinti.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-05": {
+    "change": "Funzione, formato e banca separati; CC 898 italiano a 60 quesiti, GdF 983 composizione di sei ore; scenario banca con tempo ipotetico.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-06": {
+    "change": "Protocollo GdF 983 nel perimetro, obbligatori/facoltativi e conversione punti; certificazioni distinte da prenotazioni.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-07": {
+    "change": "Corretta cronologia del caso Luca e separati dichiarazione e prova documentale.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-08": {
+    "change": "Eliminata competitività astratta delle lingue; scelta entro i vincoli della procedura.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-09": {
+    "change": "Perimetro di orientamento e metodo dichiarato; tre piani di funzione distinti, rinvii circoscritti letti nelle destinazioni.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-10": {
+    "change": "Canale, termine, pagamento se previsto, invio, ricevuta e annullamento/reinvio; esempio CC.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-11": {
+    "change": "Distinti non reperito, non ancora pubblicato, non previsto e da verificare.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-12": {
+    "change": "Piani alternativi 30/60/90 con ore e consegne; banca 5.000 e scenario 33 giorni; commenti dei quiz pertinenti.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-13": {
+    "change": "Sei quiz con commenti specifici e chiavi redistribuite senza disallineamenti.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-14": {
+    "change": "Quattro casi chiusi su certificato, nuovo invio, avviso e penalità; otto quiz con calcoli e distrattori motivati.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-15": {
+    "change": "Ammissibilità separata dalla preparazione; N/A e avviso futuro; ricevuta soltanto dopo invio e decisioni motivate.",
+    "files": [
+      "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp01-forze-ordine.md"
+    ],
+    "evidence": "Audit specialistico dei delta e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP01. PDF ancora necessario.",
+    "status": "applicato"
+  }
+}

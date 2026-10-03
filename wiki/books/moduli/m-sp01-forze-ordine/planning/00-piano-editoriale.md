@@ -9,7 +9,7 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["m-sp01-forze-ordine","il-metodo-bando"]
 confidence: 0.9
-updated_at: 2026-08-14T12:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -46,9 +46,9 @@ La sequenza invariante, presente in tutti i bandi del corpus, è di quattro fasi
 
 Le sezioni contrassegnate come **[nucleo]** hanno impostazione condivisa con gli altri moduli della famiglia Carriere Speciali; **[base]** e **[isp]** indicano i due binari.
 
-1. **[nucleo]** Mappa della famiglia e struttura della selezione: tre corpi, due livelli di ruolo, procedure pubbliche e interne, e la sequenza invariante a quattro fasi.
+1. **[nucleo]** Mappa della famiglia e struttura della selezione: tre corpi, due livelli di ruolo, procedure pubbliche e interne, e una sequenza ricorrente da verificare nella procedura.
 2. La tua posizione prima della domanda: scelta del binario, requisiti, limiti di età, contingenti (civili · VFP · bilinguisti), riserve e cause di esclusione.
-3. I formati della prova scritta: banca dati ufficiale, componimento di italiano, tema lungo, preselezione.
+3. I formati della prova scritta: funzione selettiva, formato e presenza della banca; italiano a quiz CC 898 e composizione GdF 983.
 4. Gli accertamenti e la preparazione: efficienza fisica, idoneità psico-fisica, accertamento attitudinale, programma atletico e rischio di esclusione in itinere.
 5. **[isp]** La prova orale, la valutazione dei titoli e la prova facoltativa di lingua straniera.
 6. Le materie: cosa riusi dal VOL-01 e cosa aggiungi — ordinamento dei corpi, nozioni essenziali di diritto e procedura penale, pubblica sicurezza.
@@ -61,7 +61,7 @@ Le sezioni contrassegnate come **[nucleo]** hanno impostazione condivisa con gli
 
 La struttura derivata dall'audit degli step 05-06 traduceva ogni nucleo di copertura in un capitolo. La scrittura dei primi capitoli di M-SP02 ha mostrato che è un errore di metodo: il nucleo è un'unità di *copertura*, il capitolo è un'unità di *lettura*. Criterio e revisione completa in [[reviews/pipeline/VOL-12/09-revisione-strutture-unita-di-lettura]].
 
-Gli accorpamenti applicati qui: 1+3 (la sequenza invariante è parte della mappa, non un capitolo), 2+4 (scelta del binario e requisiti sono la stessa domanda, e i limiti di età si duplicherebbero fra i due), 6+7 (la preparazione atletica non si legge senza la prova cui si riferisce), 8+9 (i titoli da soli sono troppo sottili, come verificato in M-SP02), 10+11 (un capitolo di soli rinvii al VOL-01 non è un'unità di lettura).
+Gli accorpamenti applicati qui: 1+3 (la sequenza delle prove è parte della mappa, non un capitolo), 2+4 (scelta del binario e requisiti sono la stessa domanda, e i limiti di età si duplicherebbero fra i due), 6+7 (la preparazione atletica non si legge senza la prova cui si riferisce), 8+9 (i titoli da soli sono troppo sottili, come verificato in M-SP02), 10+11 (un capitolo di soli rinvii al VOL-01 non è un'unità di lettura).
 
 I nuclei della matrice **non cambiano**: cambia solo la colonna «Collocazione prevista».
 
@@ -74,14 +74,14 @@ Il sintomo comune era verificabile: un solo nucleo conteneva più protocolli, fo
 ### Ritmo e taglio
 Capitoli brevi e operativi, con verifiche misurabili. La sezione atletica va scritta come programma, non come esortazione, e deve rinviare esplicitamente al parere medico: il modulo non prescrive allenamenti a un lettore di cui non conosce le condizioni di salute.
 
-Nessun dato variabile per bando — posti, limiti di età, ampiezza della banca dati, date, riserve — va scritto come valore stabile. Ogni tabella di requisiti porta il box **Verifica sul bando** e la data di riferimento. La giustificazione è documentata nell'audit: le fonti secondarie di settore riportano per il concorso allievi agenti 2026 un limite di età di «18-26 anni», mentre la fonte ufficiale indica 29 anni non compiuti.
+Nessun dato variabile per bando — posti, limiti di età, ampiezza della banca dati, date, riserve — va scritto come valore stabile. Ogni tabella di requisiti porta il box **Verifica sul bando** e la data di riferimento. La giustificazione è documentata nell'audit: le fonti secondarie di settore riportano per il concorso allievi agenti 2026 un limite di età di «18-26 anni», mentre il bando ufficiale, art. 2, indica 26 anni non compiuti per i civili e 25 per i VFP, con le elevazioni effettivamente spettanti. Il precedente dato 29/28 duplicava implicitamente l’elevazione massima ed è stato corretto.
 
 ### Perimetro confermato: due binari, non tre
 
 Il modulo mantiene i due binari base/isp. Il livello ufficiali resta fuori perimetro sia per l'Arma dei Carabinieri (accesso tramite Accademia Militare condivisa con l'Esercito — [[books/volumi/vol-12-carriere-speciali-premium/planning/05-decisioni-di-perimetro|D1]], 2026-08-11) sia per la Guardia di Finanza (accesso tramite Accademia GdF, esclusa non per status militare ma per proporzione e non assimilabilità della preparazione pluriennale — [[books/volumi/vol-12-carriere-speciali-premium/planning/05-decisioni-di-perimetro|D4]], 2026-08-14). Entrambe le esclusioni sono dichiarate con motivazione nell'index del modulo.
 
 ### Rinvio con delta al VOL-01
-Il capitolo `banca-dati-ufficiale-studiarla-senza-memorizzare-male.md` del VOL-01 copre già il metodo di studio della banca dati. Il delta di M-SP01 è la **compressione temporale**: nel concorso per vice ispettori 2026 fra pubblicazione della banca dati e prova scritta è passato poco più di un mese.
+Il capitolo `banca-dati-ufficiale-studiarla-senza-memorizzare-male.md` del VOL-01 copre già il metodo di studio della banca dati. Il delta di M-SP01 è la **compressione temporale**: il piano usa una banca di 5.000 quesiti attestata dal bando PS 1.000 e uno scenario didattico di 33 giorni, senza presentare l’intervallo come termine ufficiale.
 
 ### Collegamenti obbligatori
 - Libro principale: [[books/il-metodo-bando/index|Il Metodo BANDO]]
@@ -98,3 +98,7 @@ Il capitolo `banca-dati-ufficiale-studiarla-senza-memorizzare-male.md` del VOL-0
 ## Stato della scrittura
 
 Dieci capitoli completati in formato 2; 50 nuclei; 63.308 parole di corpo dopo la review; entrambi i gate automatici verdi per ogni capitolo. La matrice aggiornata documenta collocazione, applicazione e verifiche.
+
+## Correzioni del 3 ottobre 2026
+
+Dieci capitoli, cinquanta nuclei e 71 quiz commentati. Matrice riconciliata con gli ID dei capitoli reali. Humanizer dei delta, controllo di copertura e revisione specialistica conclusi; manifest M-SP01-freeze.json. Il perimetro è strategico e procedurale: i rinvii delimitati del capitolo 6 non promettono un intero corso penalistico. Restano necessari il nuovo PDF e i controlli di volume. Le note storiche precedenti non sostituiscono questo stato.

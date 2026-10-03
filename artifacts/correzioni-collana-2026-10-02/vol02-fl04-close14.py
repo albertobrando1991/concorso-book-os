@@ -1,0 +1,55 @@
+from pathlib import Path
+import re,json,hashlib,shutil
+art=Path('artifacts/correzioni-collana-2026-10-02');mod=Path('wiki/books/moduli/m-fl04-polizia-locale');base=mod/'chapters';sp=art/'VOL-02-changes.json';s=json.loads(sp.read_text(encoding='utf-8'))
+for n in ['01','02']:
+ p=next(base.glob(n+'-*.md'));b=art/'before-fl04'/p.name
+ if not b.exists():shutil.copy2(p,b)
+ t=p.read_text(encoding='utf-8');t=re.sub(r'^volume_chapter:.*$','volume_chapter: '+str(34+int(n)),t,flags=re.M);t=re.sub(r'^updated_at:.*$','updated_at: 2026-10-03',t,flags=re.M)
+ if n=='01':
+  t=t.replace('lavorera in','lavorerà in')
+  t=t.replace('Il campione di bandi inPA acquisito per VOL-02 conferma che M-FL04 deve coprire un ventaglio ampio:', 'La mappa didattica di M-FL04 copre un ventaglio ampio:')
+  t=t.replace('Nel campione ufficiale 2026 una procedura per agente dell’Area degli istruttori ha previsto prova di efficienza fisica, scritto e orale, con avvisi separati per ammissioni, criteri ed esiti; un’altra procedura ha previsto diploma, patente B, idoneità psicofisica, prova scritta, prova fisica e colloquio.', 'Confronta due esempi didattici compositi, che non riproducono singoli bandi: il primo prevede prova di efficienza fisica, scritto e orale, con avvisi separati per ammissioni, criteri ed esiti; il secondo richiede diploma, patente B, idoneità psicofisica, prova scritta, prova fisica e colloquio.')
+ else:
+  t=t.replace('Un bando del 2026 per agente di Polizia locale in Lombardia, ad esempio, ha incluso sia la L. 65/1986 sia la L.R. Lombardia 6/2015.', 'Considera un esempio didattico di bando lombardo che includa sia la L. 65/1986 sia la L.R. Lombardia 6/2015.')
+ p.write_text(t,encoding='utf-8')
+p=next(base.glob('15-*.md'));t=p.read_text(encoding='utf-8').replace('«Il sistema delle sanzioni amministrative»','«Procedimento sanzionatorio amministrativo applicato»').replace('«Ambiente, rifiuti e controlli locali»','«Ambiente, rifiuti, rumore e tutela locale»');p.write_text(t,encoding='utf-8')
+for p in base.glob('*.md'):
+ t=p.read_text(encoding='utf-8');lines=[]
+ for line in t.splitlines():
+  if re.match(r'^[A-D]\. ',line):
+   opts=re.split(r' (?=[B-D]\. )',line)
+   for opt in opts:
+    if lines and lines[-1]!='':lines.append('')
+    lines.append(opt.rstrip());lines.append('')
+  else:lines.append(line)
+ t='\n'.join(lines)+'\n';t=re.sub(r'\n{3,}','\n\n',t);p.write_text(t,encoding='utf-8')
+p=mod/'index.md';t=p.read_text(encoding='utf-8');t=re.sub(r'^(\| (\d+) \| )\d+( \|)',lambda m:m[1]+str(34+int(m[2]))+m[3],t,flags=re.M);t=t.replace('M-FL04 - Polizia locale','M-FL04 — Polizia locale');p.write_text(t,encoding='utf-8')
+for fid,n,txt in [('V02-38','01','Esempi di bando PL dichiarati compositi; eliminata attribuzione generica al campione ufficiale. Anche esempio introduttivo del cap02 dichiarato didattico.'),('V02-53','01','Corretto lavorerà; riesaminato anche rifiuti rimossi nel cap12.'),('V02-17','11','Permesso espresso/tacito; SCIA ordinaria e alternativa trenta giorni; assensi vincolistici e rinvio preciso a VOL10.')]:
+ r=s['changes'].setdefault(fid,{'files':next((f['files'] for f in s.get('findings',[]) if f['id']==fid),[]),'change':'Microcorrezioni dei refusi segnalati nei moduli FL02 e FL03 applicate durante i relativi interventi.','evidence':'Rilettura dei passaggi corretti e ricerca delle forme errate.'});r['files']=list(dict.fromkeys(r['files']+[next(base.glob(n+'-*.md')).as_posix()]));r['change']+=' '+txt;r['status']='Applicato in tutti i moduli interessati; audit M-FL04 ancora da chiudere'
+s['changes']['V02-54']={'files':[p.as_posix() for p in sorted(base.glob('*.md'))],'change':'Uniformate quattro alternative e separazione a paragrafi; titoli Quiz, punteggiatura e distrattori nei capitoli indicati.','evidence':'Quiz03–15 riesaminati durante interventi; opzioni inline separate; 13C/D e 11D corretti.','status':'Applicato; controllo quiz e gate15 successivo'}
+sp.write_text(json.dumps(s,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+sources=list(sorted(Path('wiki/sources').glob('vol-02-pl-*-verifica-2026-10-03.md')))
+p=Path('wiki/topics/vol-02-polizia-locale-correzioni-2026.md');t=p.read_text(encoding='utf-8');t=t.replace('Restanti nuclei settoriali in corso di consolidamento; lo stato non attesta completezza dell\'intero modulo. Destinazione:', 'Consolidati anche circolazione, PG, pubblica sicurezza, commercio, edilizia/ambiente, sinistri e turni; audit finale del modulo da chiudere. Destinazione:');t+='\n## Fonti settoriali consolidate il 3 ottobre\n\n'+'\n'.join('- [['+p.as_posix().removeprefix('wiki/').removesuffix('.md')+']]' for p in sources)+'\n\nI capitoli 03–15 applicano queste verifiche con regole, esempi e soluzioni. Nel laboratorio gli atti sono didattici e la norma regionale inventata è espressamente separata dalla procedura reale della L. 689. Il croquis non formula una ricostruzione cinematica. L’art. 2 D.Lgs. 66/2003 impedisce l’applicazione indiscriminata della disciplina generale alle attività operative istituzionali PL; il CCNL resta da applicare nel proprio ambito.\n';p.write_text(t,encoding='utf-8')
+p=Path('wiki/sources/vol-02-pl-qualifiche-sanzioni-verifica-2026-10-03.md');t=p.read_text(encoding='utf-8').replace('L. 689/1981 artt. 2, 3, 6, 28;', 'L. 689/1981 artt. 2, 3, 6, 11, 28;');t+='\n## Integrazione art. 11 e laboratorio\n\nLetto integralmente anche art. 11: determinazione della sanzione entro i limiti edittali con gravità, opera per eliminare/attenuare conseguenze, personalità e condizioni economiche. Il caso del capitolo06 applica tali criteri senza presentare la somma come automatismo. Nel laboratorio15 la fattispecie regionale fittizia prevede minimo100/massimo600: entrambe le quantità art16 sono200; la norma è un dato della traccia, non una fonte reale.\n';p.write_text(t,encoding='utf-8')
+norm=art/'normattiva-fl04';invalid={'allegato-tulps-art1','disp-cpp-art113','disp-cpp-art114'};partial={'cds-art116':'Commi1/3/15/17 soltanto; depenalizzazione non integralmente verificata.','d286-art5':'Commi1,2,3,4,5,9,9bis; non intero articolo.'};rows=[]
+for f in norm.glob('manifest*.json'):
+ data=json.loads(f.read_text(encoding='utf-8'))
+ for row in data:
+  name=row['name'];row['readComplete']=name not in invalid and name not in partial;row['readScope']=partial.get(name,'Articolo integrale' if name not in invalid else 'Risposta incongrua: decreto di approvazione; esclusa dalla prova')
+  if name in {'d152-art232ter','d152-232ter-correct'}:row['readScope']='Articolo integrale letto in HTML; estrattore TXT non riconosce article-pre-comma-text-akn'
+  raw=Path('wiki/raw/correzioni-vol02-pl-2026-10-03')/(name+'.html');src=norm/(name+'.html')
+  if src.exists() and not raw.exists():shutil.copy2(src,raw)
+  rows.append(row)
+ f.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+(art/'M-FL04-source-review.json').write_text(json.dumps({'articles':rows,'additionalEvidence':['CCNL2026 PDF1 e33–37, non intero87p','D222 TabellaA PDF4–6 e23–24, non intero109p','Corte10/2026 motivazione15.3–16 e dispositivo viaweb; contenitoreHTML non prova integrale']},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+ids=[f'V02-{i:02d}' for i in range(39,52)]+['V02-17','V02-20','V02-38','V02-53','V02-54']
+p=mod/'planning/02-matrice-copertura-didattica.md';t=p.read_text(encoding='utf-8');t+='\n## Rettifica di copertura — 3 ottobre 2026\n\nQuesta sezione aggiorna le precedenti attestazioni generiche con evidenze dei rilievi prepubblicazione. Stato completo nel perimetro dei concetti assegnati agli ID; il capitolo50 del volume e il PDF restano separati.\n\n| ID | Concetti integrati | Collocazione e prova | Stato | Review normativa |\n|---|---|---|---|---|\n'
+for fid in ids:
+ r=s['changes'][fid];t+='| '+fid+' | '+r['change'].replace('|','/')+' | '+r['evidence'].replace('|','/')+' | completo nel modulo | Fonti correnti consolidate; audit15 successivo |\n'
+p.write_text(t,encoding='utf-8')
+report=['# Correzioni autorizzate — M-FL04','','## 1. Sintesi editoriale','','Applicati i rilievi V02-39–51 e le parti PL di V02-17/20/38/53/54 nei quindici capitoli. Il laboratorio contiene due elaborati svolti, il capitolo sinistri un croquis misurato e un caso penale risolto. Il V02-20 conserva il separato intervento sulla simulazione50.','','## 2. Punti applicati della checklist','','Contenuti, norme, completezza delle integrazioni, esempi, soluzioni, coerenza terminologica, rinvii, lingua e formato quiz. Humanizer dei passaggi modificati: eliminati attribuzioni vaghe, formule prive di istruttoria e distrattori assurdi. Layout PDF non incluso in questo gate.','','## 3. Tabella errori','','| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |','|---|---|---|---|---|---|---|']
+for fid in ids:
+ r=s['changes'][fid];report.append('| '+fid+' | '+', '.join(Path(x).name[:2] for x in r['files'] if 'm-fl04' in x)+' | Norme/didattica/forma | '+('Lieve' if fid in ['V02-53','V02-54'] else 'Media' if fid in ['V02-50','V02-51'] else 'Grave')+' | '+r['evidence'].replace('|','/')+' | '+r['change'].replace('|','/')+' | Applicato nel modulo; audit15 successivo |')
+report+=['','## 4. Osservazioni per capitolo','','01–02 esempi didattici e numerazione; 03 qualifiche/territorio; 04 circolazione e conseguenze; 05 termini/ricorsi; 06 soggetti, pagamento e opposizione; 07 atti/garanzie PG; 08 autorità PS, eventi e immigrazione; 09 ordinanze e allontanamenti; 10 categorie/requisiti/regimi; 11 titoli e repressione; 12 rifiuti vigenti/ripristino; 13 quote e ramo penale; 14 CCNL e comando; 15 atti svolti.','','## 5. Coerenza globale','','Numerazione volume35–49. Rinvio VOL10 al titolo effettivo Urbanistica e governo del territorio. L689/CdS, CNR/annotazione, art187/aggravanti di evento, autorizzazione/SCIA e esclusioneD66/CCNL restano distinti.','','## 6. Contenuto da verificare','','Eseguire gate15 sul testo corretto. Fonti e ambiti di lettura nel manifest M-FL04-source-review.json; limiti parziali di art116CdS, art5D286, CCNL e TabellaA espliciti. Nessuna copia incongrua impiegata come prova.','','## 7. Suggerimenti facoltativi (non errori)','','Nessun catalogo esaustivo di regole regionali: gli esempi sono territorialmente delimitati.','','## 8. Priorità degli interventi','','Audit specialistico15, freeze16; simulazione/apparati del volume e nuova produzione.','','## 9. Giudizio di pubblicabilità','','Modulo corretto nel perimetro dei rilievi, da sottoporre al gate15. Nessuna attestazione di pubblicabilità del volume: apparati e nuova prova PDF sono ancora aperti.','','## 10. Limiti di questa revisione','','Audit storico integrale conservato; in questa fase rilettura dei passaggi interessati e delle integrazioni, senza dichiarare una seconda lettura integrale di ogni pagina immutata. Fonti verificate per gli articoli e le pagine documentati. PDF non ancora rigenerato né verificato.']
+Path('wiki/reviews/pipeline/VOL-02/14-moduli-m-fl04-polizia-locale.md').write_text('\n'.join(report)+'\n',encoding='utf-8')
+print('Report14 e matrice aggiornati; fonti',len(rows),'con limiti espliciti')

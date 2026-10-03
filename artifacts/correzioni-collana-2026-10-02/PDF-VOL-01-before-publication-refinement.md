@@ -1,0 +1,54 @@
+# VOL-01 — Revisione dell'interno corrente, 3 ottobre 2026
+
+## 1. Sintesi editoriale
+
+Il candidato corrente ha **686 pagine**, 32 unità autoriali, 133 schemi nativi e 19 figure didattiche corrette. SHA-256: `0ad5da004f152d53d4eef5998b89b838a68fb276ade3ea9e9cc49517cfbc3670`. I 49 rilievi testuali dei capitoli sono risolti; V01-50 e V01-51 restano parziali nei preliminari. Questo rapporto riguarda la produzione e integra la revisione testuale, senza sostituirla.
+
+## 2. Punti di forza
+
+Gli schemi testuali sono leggibili come testo nativo. Le immagini conservate mostrano le relazioni corrette; workbook, diario e matrici sono divisi in gruppi di colonne compilabili. Indice da 9,5 pt con 437 destinazioni effettive verificate: 24 capitoli, 8 apparati e 405 sezioni.
+
+## 3. Tabella degli interventi
+
+| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
+|---|---|---|---|---|---|---|
+| P01-01 | Indice pp. 7–17 | Leggibilità | Grave | Indice precedente a 6,75 pt. | Corpo minimo 9,5 pt; abbreviazioni Cap., Introd., Concl., App. impediscono sovrapposizioni; 437 rimandi riscontrati nel PDF. | Corretto e verificato |
+| P01-02 | Figure e schemi dei capitoli 1–24 | Didascalie | Media | Didascalie duplicate o separate dalla figura. | Una didascalia per le 19 immagini; i 133 schemi nativi hanno il proprio titolo prima del contenuto. | Corretto e verificato |
+| P01-03 | Diario, schede e matrici; pp. 536, 542, 640, 670–684 | Tabelle | Grave | Troppe colonne e parole spezzate. | Schede divise fino a quattro colonne; separatori con spazi in 22 master; campi e valori preservati. | Corretto e verificato |
+| P01-04 | Figura organi costituzionali | Correttezza | Grave | Relazione Parlamento–Governo invertita. | Figura corretta, con funzioni e relazioni distinte; asset originale conservato nello storico. | Corretto e verificato |
+| P01-05 | Entrate e spese, p. 193 | Contabilità | Grave | Accertamento confuso con nascita del credito. | Tre fasi delle entrate; accertamento spiegato come verifica degli elementi del credito; bilancio distinto dal flusso. | Corretto e verificato |
+| P01-06 | Capitoli 9, 10 e 22 | Sequenze | Grave | Frecce saltavano passaggi. | Sequenze corrette nelle immagini ridisegnate, con continuità e ordine verificati. | Corretto e verificato |
+| P01-07 | Procedure di affidamento | Correttezza | Grave | Scala e freccia generalizzavano i procedimenti. | Distinti presupposti e modalità delle procedure, senza scala rigida universale. | Corretto e verificato |
+| P01-08 | Parole logiche decisive | Logica | Grave | Negazione errata di esattamente uno. | Zero oppure almeno due, coerente con testo ed esempi. | Corretto e verificato |
+| P01-09 | Pesatura del tempo, p. 489 | Dati | Grave | Segmenti non proporzionali ai valori. | Grafico ricostruito con proporzioni effettive e somme pari a 100; natura esemplificativa dichiarata. | Corretto e verificato |
+| P01-10 | Figure con cerchi numerati e titoli | Leggibilità | Media | Sovrapposizioni fra elementi. | Apparati ridisegnati o convertiti in schemi nativi; verifica delle pagine nel registro visuale. | Corretto e verificato |
+| P01-11 | File, estensioni e cartelle | Relazioni | Media | Estensione collegata alla cartella. | Nome ed estensione riferiti al file, distinto dalla cartella; relazioni esplicitate. | Corretto e verificato |
+| P01-12 | Materie e caso Marta, pp. 36 e 546 | Propagazione | Grave | Figure non allineate alle correzioni testuali. | Classificazione delle materie distinta dalla priorità; Marta: 36 corrette, 12 errori e 2 omissioni, con denominatori e punteggio corretti. | Corretto e verificato |
+
+## 4. Macrostruttura e completezza
+
+Le 32 unità comprendono introduzione, 24 capitoli, conclusione e sei appendici. Il Ricettario digitale è separato e non entra nel conteggio cartaceo. Il controllo della copertura e delle spiegazioni resta quello dei rapporti 13–15 e della matrice; nessuna modifica di questa fase riduce il programma o elimina esercizi. Le 133 conversioni preservano funzione, ordine, esempi e relazioni, con confronto registrato per ciascun apparato.
+
+## 5. Contenuto e fonti
+
+Fonti normative e calcoli sono documentati in VOL-01.md e nelle source notes collegate. I rilievi grafici sostanziali sono stati propagati nei testi e nelle figure. Il controllo di produzione non attribuisce una nuova certificazione normativa a ogni riga. Il cut-off dichiarato è il 3 ottobre 2026; bandi successivi richiedono il controllo della fonte pertinente.
+
+## 6. Tipografia, indice e geometria
+
+Formato 6,69 × 9,61 pollici; corpo Garamond circa 11 pt, tabelle circa 9,5 pt. I corpi 8 e 8,5 pt presenti nell'inventario appartengono a testatine e piè di pagina. Font incorporati, zero overflow DOM, zero testo fuori pagina, zero glifi sostitutivi e zero immagini mancanti. Conteggio DOM e PDF: 686. L'abbreviazione delle sole etichette dell'indice è una proiezione di stampa riproducibile nello script incluso, con controllo delle intersezioni dei riquadri; i titoli e le destinazioni non cambiano.
+
+## 7. Copertura visiva e secondo controllo
+
+La copertura delle 43 tavole del PDF finale è registrata in `VOL-01-reader-final-visual-review.json`; il pacchetto viene generato solo dopo l'esito completo di tale controllo. Il coordinatore ha inoltre esaminato 14 pagine ingrandite del candidato finale: 7, 16, 17, 51, 52, 66, 488, 536, 542, 546, 552, 640, 670 e 673. Il precedente candidato stabile di 687 pagine era stato esaminato su tutte le pagine e su 19 dettagli; il registro conserva entrambi gli stadi senza confonderli. Il controllo panoramico individua problemi di composizione, non equivale a rilettura di ogni parola a piena risoluzione.
+
+## 8. Giudizio di pubblicabilità
+
+**Non pubblicabile allo stato attuale per i preliminari V01-50 e V01-51.** Il libro promette un mese di accesso digitale; percorso di attivazione, condizioni effettive e canale di assistenza/errata non sono stati confermati né collaudati. Il QR è presente, ma la sua presenza non dimostra il funzionamento del servizio. Non sono inventati contatti o identificativi editoriali. Nessun signoff 24.
+
+## 9. Artefatti e limiti di produzione
+
+Pacchetto locale: `delivery/VOL-01/candidate-2026-10-03/README.md`. Include PDF, payload congelato, master, immagini usate, hash, report, tavole di controllo e riproduzione. Il candidato precedente di 592 pagine e le successive prove intermedie sono superati. Nessuna prova fisica, verifica del dorso/copertina o accettazione KDP è attestata. I finali brevi, come la sintesi autonoma di p. 52, non sono pagine vuote: i capitoli successivi iniziano su una nuova pagina. La revisione ha preservato contenuti e dimensioni tipografiche, senza comprimere il libro.
+
+## 10. Priorità residue
+
+Confermare i dati reali dei servizi e dell'edizione, applicare il delta ai preliminari, rigenerare e verificare quelle pagine e i rinvii interessati. Completare poi i passaggi di preflight, confezione e conferma finale secondo l'ordine del CLI. La correzione dei rilievi di produzione non chiude automaticamente le due dipendenze editoriali.

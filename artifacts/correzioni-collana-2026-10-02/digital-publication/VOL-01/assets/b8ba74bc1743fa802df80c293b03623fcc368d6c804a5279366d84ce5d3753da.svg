@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Nuovo bando: apri prima il metodo</title>
+  <desc id="desc">Il bando viene prima di manuali, corsi, quiz e strumenti.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Nuovo bando: apri prima il metodo</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Il bando viene prima di manuali, corsi, quiz e strumenti.</text>
+  </g>
+  
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="95 365 170 185 8">
+    <rect x="95" y="365" width="170" height="185" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="180" cy="413" r="27" fill="#10233F"/>
+    <text class="small strong whiteText" x="180" y="420" text-anchor="middle">1</text>
+    <text class="small strong" style="fill:#10233F" x="180" y="470" text-anchor="middle">Leggi</text>
+    <text class="small" x="180" y="510" text-anchor="middle">requisiti</text>
+  </g>
+<g data-safe-box="300 365 170 185 8">
+    <rect x="300" y="365" width="170" height="185" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="385" cy="413" r="27" fill="#2F7D5A"/>
+    <text class="small strong whiteText" x="385" y="420" text-anchor="middle">2</text>
+    <text class="small strong" style="fill:#2F7D5A" x="385" y="470" text-anchor="middle">Decoder</text>
+    <text class="small" x="385" y="510" text-anchor="middle">bando</text>
+  </g>
+<g data-safe-box="505 365 170 185 8">
+    <rect x="505" y="365" width="170" height="185" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="590" cy="413" r="27" fill="#D4AF37"/>
+    <text class="small strong whiteText" x="590" y="420" text-anchor="middle">3</text>
+    <text class="small strong" style="fill:#D4AF37" x="590" y="470" text-anchor="middle">Matrice</text>
+    <text class="small" x="590" y="510" text-anchor="middle">confronto</text>
+  </g>
+<g data-safe-box="710 365 170 185 8">
+    <rect x="710" y="365" width="170" height="185" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="795" cy="413" r="27" fill="#1F6F78"/>
+    <text class="small strong whiteText" x="795" y="420" text-anchor="middle">4</text>
+    <text class="small strong" style="fill:#1F6F78" x="795" y="470" text-anchor="middle">Capitale</text>
+    <text class="small" x="795" y="510" text-anchor="middle">riuso</text>
+  </g>
+<g data-safe-box="915 365 170 185 8">
+    <rect x="915" y="365" width="170" height="185" rx="24" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <circle cx="1000" cy="413" r="27" fill="#7A2430"/>
+    <text class="small strong whiteText" x="1000" y="420" text-anchor="middle">5</text>
+    <text class="small strong" style="fill:#7A2430" x="1000" y="470" text-anchor="middle">Moduli</text>
+    <text class="small" x="1000" y="510" text-anchor="middle">mancanti</text>
+  </g>
+<g data-safe-box="1120 365 170 185 8">
+    <rect x="1120" y="365" width="170" height="185" rx="24" fill="#EFEAF7" stroke="#5B3B82" stroke-width="3"/>
+    <circle cx="1205" cy="413" r="27" fill="#5B3B82"/>
+    <text class="small strong whiteText" x="1205" y="420" text-anchor="middle">6</text>
+    <text class="small strong" style="fill:#5B3B82" x="1205" y="470" text-anchor="middle">Piano</text>
+    <text class="small" x="1205" y="510" text-anchor="middle">settimana</text>
+  </g>
+<g data-safe-box="1325 365 170 185 8">
+    <rect x="1325" y="365" width="170" height="185" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="1410" cy="413" r="27" fill="#10233F"/>
+    <text class="small strong whiteText" x="1410" y="420" text-anchor="middle">7</text>
+    <text class="small strong" style="fill:#10233F" x="1410" y="470" text-anchor="middle">Output</text>
+    <text class="small" x="1410" y="510" text-anchor="middle">prova</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M265 455 L300 455"/>
+<path class="line" marker-end="url(#arrow)" d="M470 455 L505 455"/>
+<path class="line" marker-end="url(#arrow)" d="M675 455 L710 455"/>
+<path class="line" marker-end="url(#arrow)" d="M880 455 L915 455"/>
+<path class="line" marker-end="url(#arrow)" d="M1085 455 L1120 455"/>
+<path class="line" marker-end="url(#arrow)" d="M1290 455 L1325 455"/>
+    <g data-safe-box="455 635 690 150 8">
+    <rect x="455" y="635" width="690" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="455" y="635" width="690" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="687" text-anchor="middle">Solo dopo</text>
+    <text class="small" x="800" y="717" text-anchor="middle">scegli libri, corsi, quiz e strumenti</text>
+<text class="small" x="800" y="745" text-anchor="middle">il materiale segue il bando</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Il sistema non elimina la lettura del bando: la rende piu veloce e piu precisa.</text>
+  </g>
+    
+</svg>

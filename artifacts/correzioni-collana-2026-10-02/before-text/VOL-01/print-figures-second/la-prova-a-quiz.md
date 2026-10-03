@@ -1,0 +1,343 @@
+---
+id: chapter-la-prova-a-quiz
+type: chapter
+title: La prova a quiz
+status: reviewed_text
+domain: concorsi pubblici italiani
+topics: ["prova a quiz", "diario errori", "simulazioni", "logica concorsuale", "comprensione del testo concorsuale"]
+entities: ["Diario degli errori"]
+source_refs: ["sources/struttura-madre-il-metodo-bando.md", "sources/metodo-bando-progetto-editoriale.md", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md", "sources/capitolo-12-corpus-fonti-logica-comprensione-ragionamento-2026-05-28.md", "sources/vol-01-esempi-logica-inglese-metodo-2026-10-02.md"]
+book_refs: ["il-metodo-bando"]
+confidence: 0.9
+updated_at: 2026-10-03
+created_at: "2026-05-10T11:45:00+02:00"
+review_required: false
+canonical: true
+tags: ["book-chapter", "part-3", "p10-chiusura-editoriale"]
+book_id: il-metodo-bando
+outline_section: 14
+draft_stage: text_frozen
+last_compiled_from: ["sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md", "sources/apprendimento-efficace-active-recall-ripasso-distribuito.md", "topics/prova-a-quiz.md", "topics/diario-errori.md", "topics/logica-concorsuale.md", "topics/comprensione-del-testo-concorsuale.md", "sources/vol-01-esempi-logica-inglese-metodo-2026-10-02.md"]
+---
+
+# Capitolo 14 - La prova a quiz
+
+## Perché il quiz è una prova diversa dallo studio
+
+La prova a quiz offre già le risposte, ma resta molto selettiva: misura conoscenza, rapidità, precisione di lettura e gestione del rischio. Una risposta può essere sbagliata per una negazione ignorata, due istituti confusi, una parola assoluta letta male o troppo tempo speso su una domanda.
+
+Il quiz non premia chi ha sottolineato di più. Premia chi riconosce il nucleo della domanda, elimina i distrattori e decide in pochi secondi se rispondere, segnare o saltare. Per questo va preparato come una prova specifica, non come un semplice accessorio alla teoria.
+
+Nel Metodo BANDO la prova a quiz è un output. Ogni materia deve diventare domanda possibile. Ogni errore deve diventare dato. Ogni simulazione deve assomigliare alla prova reale: numero di quesiti, timer, regole di punteggio, penalità, soglia e assenza di pause.
+
+## Obiettivo del capitolo
+
+Questo capitolo ti insegna a preparare quiz con o senza banca dati, usare il tempo, decidere quando saltare, correggere gli errori e trasformare batterie e simulazioni in allenamento intelligente.
+
+Alla fine dovrai saper rispondere a quattro domande:
+
+- esiste una banca dati ufficiale?
+- quanto tempo ho per domanda?
+- che cosa succede se sbaglio?
+- quali errori sto ripetendo?
+
+Se non conosci queste quattro risposte, non stai ancora preparando la prova a quiz. Stai solo facendo domande a caso.
+
+> [!NOTE]
+> **Il quadro regolamentare**
+> La cornice generale delle procedure concorsuali pubbliche è il D.P.R. 9 maggio 1994, n. 487, come modificato dal D.P.R. 16 giugno 2023, n. 82: disciplina le modalità di accesso (concorso per esami, per titoli ed esami o corso-concorso), i requisiti generali, il contenuto del bando, lo svolgimento delle prove e la composizione della commissione esaminatrice. È un regolamento quadro, non un elenco di soglie o punteggi: numero dei quesiti, tempo a disposizione, penalità, punteggio minimo ed eventuale banca dati restano decisi dal bando specifico. Per questo il libro non fissa mai valori assoluti su questi punti: verificali sempre nel bando che stai preparando.
+
+## Mappa BANDO della prova a quiz
+
+| Fase | Cosa cercare | Prodotto concreto |
+|---|---|---|
+| **B - Bando** | Numero quesiti, materie, tempo, soglia, penalità, banca dati. | Scheda tecnica della prova. |
+| **A - Aree** | Materie e tipologie: diritto, logica, inglese, informatica, profilo. | Tabella pesi e priorità. |
+| **N - Nuclei** | Argomenti ricorrenti, definizioni, eccezioni, confronti, distrattori. | Lista nuclei da drillare. |
+| **D - Diario** | Errori per memoria, concetto, lettura, tempo, strategia. | Registro errori quiz. |
+| **O - Output** | Batterie, drill, simulazioni complete, correzioni ragionate. | Punteggio stabile e tempi sotto controllo. |
+
+![Figura 14.1 - La prova a quiz: mappa operativa per collegare bando, aree, nuclei, diario, output, tempo, rischio e correzione.](../assets/chapter-14/01-mappa-operativa-prova-quiz.png)
+
+*Figura 14.1 - La prova a quiz: mappa operativa per collegare bando, aree, nuclei, diario, output, tempo, rischio e correzione.*
+
+## Prima decisione: banca dati o no
+
+La prima differenza è decisiva.
+
+| Scenario | Metodo |
+|---|---|
+| Banca dati ufficiale pubblicata | Copertura completa, errori, ripassi, simulazioni, memorizzazione ragionata. |
+| Banca dati non pubblicata | Studio dei nuclei, quiz per tipologia, simulazioni originali, correzione concettuale. |
+| Banca dati promessa ma non ancora disponibile | Preparazione dei nuclei e calendario flessibile per assorbire la banca quando esce. |
+| Prova mista | Separare quiz, risposta aperta, inglese, informatica e orale. |
+
+Con banca dati ufficiale, il problema non è “trovare domande”. È coprirle tutte senza memorizzare meccanicamente la posizione della risposta. Devi conoscere perché una risposta è corretta e perché le altre sono sbagliate.
+
+Senza banca dati devi studiare nuclei e tipologie, senza inseguire ogni raccolta online. Per diritto amministrativo servono procedimento, provvedimento, accesso, silenzio e responsabilità; per logica, brani, deduzioni, serie, percentuali e vincoli.
+
+![Figura 14.2 - Banca dati o no: albero decisionale per scegliere copertura completa, lavoro sui nuclei o calendario flessibile.](../assets/chapter-14/02-banca-dati-albero-decisionale.png)
+
+*Figura 14.2 - Banca dati o no: albero decisionale per scegliere copertura completa, lavoro sui nuclei o calendario flessibile.*
+
+## Scheda tecnica della prova
+
+Compila questa tabella per ogni concorso.
+
+| Elemento | Risposta |
+|---|---|
+| Numero domande | |
+| Tempo totale | |
+| Tempo medio per domanda | |
+| Materie incluse | |
+| Peso delle materie | |
+| Punteggio risposta corretta | |
+| Punteggio risposta errata | |
+| Punteggio risposta omessa | |
+| Soglia minima | |
+| Banca dati ufficiale | |
+| Modalità digitale/cartacea | |
+| Possibilità di tornare indietro | Da verificare |
+
+La riga più importante è il tempo medio. Se hai 60 domande in 60 minuti, il tempo teorico è un minuto. Ma non tutte le domande valgono lo stesso investimento: alcune si risolvono in 20 secondi, altre possono assorbire tre minuti. La strategia nasce da questa differenza.
+
+![Figura 14.3 - Scheda tecnica della prova: cruscotto per numero domande, tempo, materie, punteggi, soglia, banca dati, modalità e ritorno.](../assets/chapter-14/03-scheda-tecnica-prova.png)
+
+*Figura 14.3 - Scheda tecnica della prova: cruscotto per numero domande, tempo, materie, punteggi, soglia, banca dati, modalità e ritorno.*
+
+## Come studiare con banca dati ufficiale
+
+La banca dati ufficiale va trattata in quattro passaggi.
+
+### Primo passaggio: copertura
+
+Nel primo giro devi vedere tutte le domande. Non cercare subito la perfezione. Devi capire:
+
+- quali materie pesano di più;
+- quali domande sono ripetitive;
+- quali nuclei ritornano;
+- quali formulazioni ti traggono in errore;
+- quali argomenti non conosci affatto.
+
+### Secondo passaggio: errori
+
+Nel secondo giro lavori sugli errori: non limitarti a rifare la domanda, individua perché è sbagliata.
+
+| Tipo errore | Esempio | Azione |
+|---|---|---|
+| Memoria | Non ricordavo una definizione. | Flashcard e richiamo. |
+| Concetto | Ho confuso accesso civico e accesso documentale. | Tabella comparativa. |
+| Lettura | Ho ignorato “non”. | Routine di lettura lenta della domanda. |
+| Distrattore | Ho scelto una risposta plausibile ma incompleta. | Analisi delle alternative. |
+| Tempo | Ho impiegato troppo. | Soglia di abbandono. |
+
+### Terzo passaggio: consolidamento
+
+Nel terzo giro le domande corrette devono diventare rapide. Quelle sbagliate devono tornare spesso. Quelle incerte vanno segnate, anche se hai risposto bene. Una risposta corretta per fortuna non è una competenza stabile.
+
+### Quarto passaggio: simulazione
+
+Dopo le prime basi, affianca allo studio della banca dati simulazioni progressive; rendile complete nella fase di consolidamento. La simulazione non è una batteria qualunque: è prova reale. Timer, numero domande, penalità, niente pause, correzione finale.
+
+![Figura 14.4 - Metodo con banca dati in quattro passaggi: copertura, errori, consolidamento e simulazione con ritorno sugli errori.](../assets/chapter-14/04-banca-dati-quattro-passaggi-corretto.png)
+
+*Figura 14.4 - Metodo con banca dati in quattro passaggi: copertura, errori, consolidamento e simulazione con ritorno sugli errori.*
+
+## Come studiare senza banca dati
+
+Senza banca dati devi evitare due errori: fare quiz casuali e cambiare fonte ogni giorno. Il metodo corretto è costruire tipologie.
+
+Per ogni materia, crea una griglia:
+
+| Materia | Nuclei | Tipi di domanda |
+|---|---|---|
+| Diritto amministrativo | procedimento, provvedimento, accesso, silenzio | definizione, eccezione, confronto, caso breve |
+| Pubblico impiego | doveri, responsabilità, codice comportamento | principio, comportamento, conseguenza |
+| Informatica | file, rete, PEC, firma digitale, sicurezza | definizione, differenza, uso operativo |
+| Inglese | grammatica, lessico, comprensione | completamento, sinonimo, brano |
+| Logica | deduzioni, percentuali, brani, serie | schema, calcolo, esclusione |
+
+Poi allena ogni tipologia. Se sbagli sempre domande di confronto, non serve fare cento domande nuove. Serve costruire tabelle comparative.
+
+## La routine dei tre giri
+
+Se il sistema consente di tornare alle domande precedenti, puoi organizzare la prova in tre giri. Se ogni risposta è definitiva o l’ordine è vincolato, applica invece un limite di tempo a ogni quesito e decidi prima di proseguire.
+
+### Primo giro: punti rapidi
+
+Rispondi alle domande che riconosci con sicurezza. Non restare bloccato. Se una domanda richiede calcolo lungo, brano difficile o ricordo incerto, segnala e vai avanti.
+
+### Secondo giro: domande lavorabili
+
+Torna sulle domande segnate. Ora investi più tempo su calcoli, brani, confronti e quesiti con due opzioni rimaste.
+
+### Terzo giro: rischio controllato
+
+Solo alla fine decidi sulle domande dubbie. Qui conta il bando: se c’è penalità, devi essere più selettivo; se non c’è penalità, la strategia cambia. Non applicare mai una regola generale senza leggere i criteri.
+
+> [!IMPORTANT]
+> **Regola operativa**
+> Una domanda difficile non deve rubare il tempo a cinque domande facili. Il punteggio complessivo vale più dell’orgoglio sulla singola risposta.
+
+![Figura 14.5 - Routine dei tre giri in prova: punti rapidi, domande lavorabili e rischio controllato in base a tempo e penalità.](../assets/chapter-14/05-routine-tre-giri.png)
+
+*Figura 14.5 - Routine dei tre giri in prova: punti rapidi, domande lavorabili e rischio controllato in base a tempo e penalità.*
+
+## Quando saltare una domanda
+
+Saltare non significa arrendersi. Significa proteggere il punteggio.
+
+Salta temporaneamente quando:
+
+- non capisci subito che cosa chiede;
+- restano troppe informazioni da ordinare;
+- devi rileggere un brano più di due volte;
+- il calcolo non parte entro 30-40 secondi;
+- senti che stai rispondendo per stanchezza;
+- il dubbio riguarda una penalità rilevante.
+
+Segna la domanda e torna dopo, se la procedura lo consente. Il salto è utile solo se esiste un secondo giro.
+
+### Penalità: calcolare il valore atteso
+
+Il **valore atteso** è il punteggio medio teorico di una scelta ripetuta in condizioni comparabili. Non garantisce il risultato della singola risposta. Indica con **G** il premio per una risposta corretta, con **P** la penalità sottratta per un errore e con **p** la probabilità di rispondere correttamente. Se l’omissione vale zero:
+
+**E = p × G − (1 − p) × P**
+
+Rispondere ha valore atteso positivo quando **p > P / (G + P)**. La formula assume G positivo e P non negativo. Se il bando assegna un punteggio anche all’omissione, confronta E con quel punteggio, anziché con zero.
+
+**Esempio svolto.** Un quiz assegna +1 per la risposta corretta, −0,25 per quella errata e 0 per l’omissione. La soglia è 0,25/1,25 = **20%**. Con quattro alternative davvero equiprobabili, p = 25%: E = 0,25 × 1 − 0,75 × 0,25 = **+0,0625 punti**. La sola presenza di una penalità, quindi, non rende sempre conveniente omettere.
+
+Se la penalità sale a −0,50, lasciando invariati premio e omissione, la soglia diventa 0,50/1,50 = **33,33…%**. Con quattro alternative E = 0,25 − 0,375 = **−0,125**; con due alternative equiprobabili rimaste dopo un’esclusione fondata, E = 0,50 − 0,25 = **+0,25**.
+
+La scelta concreta richiede altri due controlli. Primo: l’eliminazione di un’opzione deve avere una ragione; sentirsi sicuri non rende esatta la stima di p. Secondo: spendere due minuti per un piccolo guadagno atteso può sottrarre tempo a una risposta che sai risolvere. Inoltre massimizzare il punteggio medio e massimizzare la probabilità di superare una soglia non sono sempre lo stesso obiettivo. Se hai già un punteggio certo pari alla soglia, un’ultima risposta rischiosa potrebbe farti scendere sotto: il valore atteso positivo, da solo, non decide la strategia.
+
+### Verifica del calcolo
+
+**1. Con +1, −0,50 e omissione 0, restano tre alternative equiprobabili. Quanto vale E?**
+
+A. +0,50. B. 0. C. −0,50. D. +1.
+
+**Soluzione: B.** Un terzo di probabilità di guadagnare 1 e due terzi di perdere 0,50 danno 1/3 − 1/3 = 0. Non hai un vantaggio medio sul punteggio dell’omissione; il tempo e l’obiettivo di soglia restano rilevanti.
+
+**2. Un valore atteso positivo assicura punti sul singolo quesito?**
+
+A. Sì, se le opzioni sono quattro. B. Sì, se hai eliminato un distrattore. C. No: descrive una media teorica, mentre una risposta può essere errata. D. No, perché le penalità annullano sempre il premio.
+
+**Soluzione: C.** La risposta singola produce il premio o la penalità previsti; non produce il valore medio E. La D è falsa: il bilancio dipende dalle probabilità e dai valori assegnati.
+
+**Caso rapido.** Su cinque quesiti con +1/−0,25/0 ottieni tre corrette, un errore e un’omissione. Punteggio: 3 − 0,25 = **2,75**. Rispondere all’ultimo quesito con p stimata pari a 50% darebbe un incremento medio di 0,50 − 0,125 = **0,375**, ma gli esiti effettivi sarebbero 3,75 oppure 2,50. Distingui sempre punteggio realizzato, previsione media e obiettivo da raggiungere.
+
+## Distrattori: come riconoscerli
+
+I distrattori non sono risposte assurde. Spesso sono quasi vere.
+
+| Distrattore | Segnale |
+|---|---|
+| Assoluto | sempre, mai, tutti, nessuno, solo. |
+| Inversione | scambia causa ed effetto, regola ed eccezione. |
+| Termine simile | usa parole vicine ma non equivalenti. |
+| Mezza verità | corretta in parte, ma incompleta. |
+| Fuori domanda | vera in sé, ma non risponde al quesito. |
+| Dato non richiesto | usa un numero o dettaglio presente ma irrilevante. |
+
+Allenati a spiegare perché le risposte sbagliate sono sbagliate. È uno dei modi più rapidi per migliorare.
+
+![Figura 14.6 - Anatomia del distrattore: segnali ricorrenti nelle risposte quasi vere, fuori domanda o costruite sulla fretta.](../assets/chapter-14/06-anatomia-del-distrattore.png)
+
+*Figura 14.6 - Anatomia del distrattore: segnali ricorrenti nelle risposte quasi vere, fuori domanda o costruite sulla fretta.*
+
+## Correzione: il punteggio non basta
+
+Dopo una simulazione non limitarti a dire “ho fatto 42 su 60”. Il punteggio è il risultato. Tu devi leggere il processo.
+
+Scheda di correzione:
+
+| Domanda | Esito | Categoria errore | Correzione | Ripasso |
+|---|---|---|---|---|
+| | Corretta / Errata / Omessa / Incerta | Memoria / concetto / lettura / tempo / strategia | | Data |
+
+Ogni simulazione deve produrre un piano di recupero:
+
+- tre nuclei da ripassare;
+- una tipologia da drillare;
+- una regola di tempo da modificare;
+- una flashcard o tabella da creare;
+- una decisione per la prossima simulazione.
+
+## Simulazioni: quando iniziare e come farle
+
+Le simulazioni complete non devono arrivare solo negli ultimi giorni. Devono entrare quando hai basi minime, ma prima della rifinitura finale.
+
+Una progressione utile:
+
+1. **drill breve**: 10-15 domande su un nucleo;
+2. **batteria tematica**: 30 domande su una materia;
+3. **batteria mista**: materie diverse con tempo;
+4. **simulazione parziale**: metà prova reale;
+5. **simulazione completa**: prova reale con correzione.
+
+Non fare simulazioni complete ogni giorno se poi non correggi. Una simulazione senza analisi è solo consumo di domande.
+
+![Figura 14.7 - Dal punteggio al diario errori: trasformare simulazione, categorie di errore e drill mirato nella prossima decisione di studio.](../assets/chapter-14/07-dal-punteggio-al-diario-errori.png)
+
+*Figura 14.7 - Dal punteggio al diario errori: trasformare simulazione, categorie di errore e drill mirato nella prossima decisione di studio.*
+
+## Caso guidato
+
+Luca prepara una preselettiva con 60 domande in 60 minuti. La prima settimana fa batterie casuali e guarda solo il punteggio. Migliora poco: passa da 37 a 39 risposte corrette.
+
+Poi cambia metodo. Compila la scheda tecnica: scopre che non c’è banca dati, che alcune domande sono di logica e che la penalità per errore esiste. Divide gli errori in categorie. Nota che sbaglia soprattutto:
+
+- domande con “non”;
+- differenze tra accesso civico e accesso documentale;
+- percentuali;
+- domande lasciate troppo tardi.
+
+La settimana successiva non aumenta il numero di quiz. Fa drill mirati: 20 domande su accessi, 15 percentuali, 10 brani brevi, 30 domande miste a tempo. Alla simulazione successiva arriva a 46 risposte corrette, ma soprattutto riduce gli errori di lettura.
+
+Il miglioramento nasce dalla correzione, non dalla quantità.
+
+## Domanda da commissario
+
+**Domanda:** Come si prepara una prova a quiz in modo efficace?
+
+**Risposta efficace:** prima si legge il bando per capire numero di domande, materie, tempo, soglie, penalità e banca dati. Poi si studiano i nuclei, si fanno quiz per tipologia, si classificano gli errori e si passa a simulazioni sempre più simili alla prova reale. La correzione deve distinguere errore di memoria, concetto, lettura, tempo e strategia.
+
+## Domanda-trappola
+
+**Domanda:** Fare molti quiz basta per essere preparati?
+
+No. Fare molti quiz senza capire gli errori può consolidare abitudini sbagliate. Il quiz diventa allenamento solo quando produce feedback: perché ho sbagliato, che cosa devo ripassare, quale distrattore mi ha preso, quale regola di tempo devo cambiare.
+
+## Mini-esercizio
+
+Prendi 20 quiz già svolti e classifica ogni errore.
+
+| Categoria | Numero errori |
+|---|---:|
+| Memoria | |
+| Concetto | |
+| Lettura | |
+| Tempo | |
+| Strategia | |
+| Stress/distrazione | |
+
+Poi scegli la categoria più frequente e costruisci un drill da 15 minuti. Non passare a una nuova batteria prima di aver corretto il pattern principale.
+
+## Collegamenti con gli altri capitoli
+
+| Capitolo collegato | Collegamento |
+|---|---|
+| Logica, comprensione del testo e ragionamento | Fornisce gli strumenti di classificazione ed esclusione da applicare qui alla banca dati o alla simulazione. |
+| Quesiti situazionali e soft skills | Segue la stessa logica di prova a risposta multipla, con distrattori costruiti su comportamenti invece che su calcoli. |
+| Anatomia del bando | Indica formato, numero di quesiti, penalità e banca dati da verificare prima di impostare il piano di studio. |
+| Il diario degli errori | Raccoglie e classifica gli errori registrati durante i giri di ripasso e le simulazioni descritte in questo capitolo. |
+
+## Da sapere in 5 righe
+
+1. La prova a quiz va preparata leggendo il bando, non solo facendo batterie.
+2. Con banca dati ufficiale serve copertura completa e ripasso degli errori.
+3. Senza banca dati servono nuclei, tipologie e simulazioni miste.
+4. Il tempo si gestisce con più giri e soglie di abbandono.
+5. Ogni errore deve diventare una decisione di studio.

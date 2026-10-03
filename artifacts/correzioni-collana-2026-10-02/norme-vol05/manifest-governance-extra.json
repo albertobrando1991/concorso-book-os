@@ -1,0 +1,33 @@
+[
+  {
+    "name": "consob-durata",
+    "article": "47quater",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-12-31;248~art47quater!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consob-durata-art47quater.html",
+    "sha256": "8d295c2588031642525e4c43f9e8bfb15416d1b7bd5440e55c5c37fd02a72bb9",
+    "characters": 1092,
+    "readComplete": true,
+    "readScope": "Articolo intero"
+  },
+  {
+    "name": "personale",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art3!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/personale-art3.html",
+    "sha256": "bafa55f96dc132834d9d9ce5d729c06a8ddff15ee3e4dc4865a01d3aaac8434c",
+    "characters": 1726,
+    "readComplete": true,
+    "readScope": "Articolo intero"
+  },
+  {
+    "name": "arera-nuova",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205~art1!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/arera-nuova-art1.html",
+    "sha256": "79ae1a5b1b85c14cecc0815704625fe0e7d5afa9c8b60544ffa97661ef51a126",
+    "characters": 84867,
+    "readComplete": false,
+    "usableForClaim": false,
+    "readScope": "Estratto art. 1 non contiene comma 528; escluso come prova di tale comma. Usata pagina ufficiale ARERA corrente."
+  }
+]

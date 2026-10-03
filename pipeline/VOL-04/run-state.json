@@ -1,10 +1,103 @@
 {
   "volumeCode": "VOL-04",
   "specPath": "books/vol-04-giustizia-upp/planning/00-scheda-pipeline.md",
-  "specHash": "sha256:cee1da75e2740c721e152832eec65e4907072f5b61eec5b962fbf31ca7d47737",
+  "specHash": "sha256:8f14124a62495ed67b4f2dc7c7bba2635bf2cf0fe3a80143c442fe92d3142d8a",
   "createdAt": "2026-08-17T19:42:16.355Z",
-  "updatedAt": "2026-08-20T15:51:09.011Z",
+  "updatedAt": "2026-10-03T12:02:03.811Z",
   "steps": [
+    {
+      "key": "13:moduli/m-fc04-giustizia",
+      "id": "13",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc04-giustizia",
+      "status": "done",
+      "attempts": 3,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-10-03T09:18:50.919Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-10-03T11:24:27.122Z"
+    },
+    {
+      "key": "14:moduli/m-fc04-giustizia",
+      "id": "14",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc04-giustizia",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-10-03T11:24:33.254Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-10-03T11:26:08.011Z"
+    },
+    {
+      "key": "15:moduli/m-fc04-giustizia",
+      "id": "15",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc04-giustizia",
+      "status": "done",
+      "attempts": 2,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-10-03T11:28:29.949Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": []
+      },
+      "finishedAt": "2026-10-03T11:28:50.122Z"
+    },
+    {
+      "key": "16:moduli/m-fc04-giustizia",
+      "id": "16",
+      "phase": "D",
+      "scope": "module",
+      "target": "moduli/m-fc04-giustizia",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "info",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-10-03T11:29:07.738Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "accepted:gate-not-implemented",
+            "message": "Il gate \"text-freeze\" dello step 16 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
+            "location": "moduli/m-fc04-giustizia"
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Verifica manuale: 17 capitoli,29 ID chiusi,84 quiz e6 simulazioni,gate13-15 superati; manifest35file SHA256 in artifacts/correzioni-collana-2026-10-02/M-FC04-freeze.json. PDF e pubblicazione esclusi."
+          }
+        ],
+        "notImplemented": [
+          "text-freeze"
+        ]
+      },
+      "finishedAt": "2026-10-03T11:29:58.907Z"
+    },
     {
       "key": "21:VOL-04",
       "id": "21",
@@ -13,17 +106,19 @@
       "target": "VOL-04",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
+      "evidence": [
+        "reopen: Revisione integrale del 2 ottobre: 29 rilievi testuali e PDF da correggere; invalidata consegna storica."
+      ],
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-17T19:42:31.962Z",
+      "startedAt": "2026-10-03T11:32:46.146Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-18T20:55:22.626Z"
+      "finishedAt": "2026-10-03T11:56:56.824Z"
     },
     {
       "key": "22:VOL-04",
@@ -31,32 +126,27 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-04",
-      "status": "done",
+      "status": "blocked",
       "attempts": 1,
       "evidence": [],
-      "owner": "Anton",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-18T20:56:17.918Z",
+      "startedAt": "2026-10-03T11:57:17.739Z",
       "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
+        "passed": false,
+        "blockers": [
           {
-            "code": "accepted:gate-not-implemented",
+            "code": "gate-not-implemented",
             "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
             "location": "VOL-04"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Preflight manuale documentato in wiki/reviews/pipeline/VOL-04/22-vol-04.md: matrice 14/14, 113/113 wikilink validi, 55 test pertinenti verdi, typecheck e build verdi, PDF KDP di 303 pagine senza overflow o pagine anomale. KDP Previewer ed EPUB non disponibili e dichiarati N/D."
           }
         ],
+        "warnings": [],
         "notImplemented": [
           "preflight"
         ]
-      },
-      "finishedAt": "2026-08-18T21:50:40.421Z"
+      }
     },
     {
       "key": "23:VOL-04",
@@ -64,32 +154,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-04",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-18T23:16:07.089Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-04"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Verifica manuale delivery completata: pacchetto candidato versionato con cutoff, report, manifest, changelog, limiti, manutenzione, metadati e checklist KDP; PDF interno/copertina validati, manifest integro, diff selettivo pulito, 55/55 test, typecheck e build verdi. Step 24 umano non eseguito; nessun upload o pubblicazione."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-20T15:51:09.011Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "24:VOL-04",
@@ -99,7 +166,9 @@
       "target": "VOL-04",
       "status": "pending",
       "attempts": 0,
-      "evidence": []
+      "evidence": [
+        "reopen: Revisione integrale del 2 ottobre: 29 rilievi testuali e PDF da correggere; invalidata consegna storica."
+      ]
     }
   ]
 }

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "P11-01",
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+    "beforeSha256": "a96a899f7377bc375da1c7bb40df5964b3230b7f43b0076278b3eb7ccda7af44",
+    "afterSha256": "82f439710a5848166078e2e51d17925434830eafd5c2dd01bf8160407c2be657",
+    "before": "Responsabile/funzione",
+    "after": "Responsabile / funzione",
+    "auditMetadata": null
+  },
+  {
+    "id": "P11-02",
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+    "beforeSha256": "d345eaf14d035e2cb1ac5921efb7afa56dbf62128464503246ee67b0c90cb930",
+    "afterSha256": "2ec9ad2b1bac459d80ad394a475cb9b93d88252d444d055a2cb7c90e35e2a131",
+    "before": "- **ID:** DO-TR04-11-IT-ALERT-2026-08-17.",
+    "after": "",
+    "auditMetadata": {
+      "id": "DO-TR04-11-IT-ALERT-2026-08-17",
+      "title": "IT-alert al 3 ottobre 2026",
+      "heading": "Dato operativo · IT-alert al 3 ottobre 2026",
+      "auditArea": "protezione civile e comunicazione del rischio",
+      "source": "Portale IT-alert e direttiva 12 febbraio 2026, G.U. n. 100 del 2 maggio 2026",
+      "version": "stato nazionale al 3 ottobre 2026",
+      "verifiedAt": "2026-10-03"
+    }
+  },
+  {
+    "id": "P11-02",
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+    "beforeSha256": "f4f7deba4de1c61e924384c073f60bedeb9d7d54c531de230e06a37c1734244c",
+    "afterSha256": "5b7a6654bcce48b481e4c8ea07a741536fd942def9f3393227e91ebcf26c9586",
+    "before": "- **ID:** DO-TR04-12-CLIMA-2026-08-18.",
+    "after": "",
+    "auditMetadata": {
+      "id": "DO-TR04-12-CLIMA-2026-08-18",
+      "title": "Quadro climatico UE",
+      "heading": "Dato operativo · Quadro climatico UE — aggiornamento del 3 ottobre 2026",
+      "auditArea": "clima ed energia",
+      "source": "Regolamento (UE) 2021/1119, consolidato al 7 aprile 2026, e regolamento (UE) 2026/667",
+      "version": "consolidato al 7 aprile 2026; verifica 3 ottobre 2026",
+      "verifiedAt": "2026-10-03"
+    }
+  },
+  {
+    "id": "P11-06",
+    "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+    "beforeSha256": "d146d2f2a386f1b5fc270135ad1362705d3c5501fe78686d809a80e6552cd91d",
+    "afterSha256": "df28db81cc3ee59f3614c16bc45336049081228f394a9820abcbe58471b97275",
+    "before": "30.000 × 0,25 = 7,5 t/anno",
+    "after": "30.000 kWh × 0,25 kg/kWh ÷ 1.000 = 7,5 t/anno",
+    "auditMetadata": null
+  }
+]

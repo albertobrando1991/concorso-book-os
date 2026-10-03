@@ -1,0 +1,83 @@
+{
+  "volume": "VOL-08",
+  "date": "2026-10-02",
+  "pdf": "delivery/VOL-08/candidate/vol-08-interior-kdp.pdf",
+  "sha256": "78c20cd78374432a0a9d7b9f64b33325eb670def84d68a0724d697955697daea",
+  "hashMatchesInventory": true,
+  "pages": 231,
+  "contactSheetsViewed": [
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0001-0024.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0025-0048.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0049-0072.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0073-0096.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0097-0120.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0121-0144.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0145-0168.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0169-0192.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0193-0216.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-08/vol-08-interior-kdp/contact-0217-0231.jpg"
+  ],
+  "contactCoverageComplete": true,
+  "detailPagesViewed": [
+    6,
+    63,
+    157,
+    211,
+    223,
+    231
+  ],
+  "detailRenderScale": 2,
+  "findings": [
+    {
+      "id": "P08-01",
+      "position": "6–7",
+      "category": "Leggibilità",
+      "severity": "medio",
+      "description": "L’indice completo usa testo di circa 6,75 punti, con etichette anche a 6,6 punti: è molto fitto per la consultazione su carta.",
+      "proposal": "Aumentare il corpo e distribuire l’indice su più pagine; verificare una prova in dimensioni reali.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P08-02",
+      "position": "157",
+      "category": "Tabelle",
+      "severity": "medio",
+      "description": "La timeline spezza parole senza sillabazione, per esempio Responsa/bile e amministrati/vo. La tabella soprastante ripete quattro volte le medesime intestazioni sulla stessa pagina.",
+      "proposal": "Ridisegnare larghezze e righe, ridurre i campi per tabella e ripetere l’intestazione solo quando utile alla continuazione.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P08-03",
+      "position": "223",
+      "category": "Apparati compilabili",
+      "severity": "grave",
+      "description": "Il Diario degli errori ha otto colonne strette, intestazioni spezzate e una sola riga bianca alta pochi millimetri: non consente una compilazione manuale utile.",
+      "proposal": "Fornire una pagina di lavoro con righe alte e più spazio oppure una scheda separata chiaramente accessibile; preservare una struttura leggibile nel volume.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P08-04",
+      "position": "9 e aperture successive; dettaglio 211",
+      "category": "Gerarchia",
+      "severity": "lieve",
+      "description": "Il titolo del capitolo compare due volte a distanza ravvicinata, prima in nero e poi in rosso. Il piccolo nastro BANDO occupa la zona intermedia.",
+      "proposal": "Eliminare la duplicazione o distinguere titolo e sottotitolo; conservare una gerarchia editoriale uniforme.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P08-05",
+      "position": "231",
+      "category": "Impaginazione",
+      "severity": "lieve",
+      "description": "Una breve avvertenza conclusiva occupa una pagina quasi vuota.",
+      "proposal": "Valutare il recupero alla fine della pagina precedente senza comprimere il testo; mantenere la nuova pagina solo se scelta editoriale intenzionale.",
+      "status": "non applicato"
+    }
+  ],
+  "limitations": [
+    "Copertura panoramica di tutte le pagine per geometria e ritmo; non equivale alla lettura del testo minuto di ogni pagina rasterizzata.",
+    "Lettura puntuale e controllo grafico ingrandito limitati alle pagine elencate; il testo originale completo è documentato nel rapporto separato.",
+    "Nessuna prova cartacea, verifica cromatica, certificazione PDF/X o collaudo di tutti i link. Non controllate qui copertine e materiali commerciali esterni.",
+    "Metriche automatiche di supporto: nessun oggetto testuale oltre il foglio, nessuna pagina bianca e nessun carattere sostitutivo segnalato nell’inventario; tali esiti non eliminano difetti semantici o di impaginazione."
+  ]
+}

@@ -41,9 +41,16 @@ describe("VOL-07 hybrid nucleus pilot", () => {
       expect.objectContaining({
         id: "DO-SA02-05-NEWS2-ER-2024",
         auditArea: "clinico-assistenziale",
-        source: "Regione Emilia-Romagna, NEWS2",
-        version: "settembre 2024 (base RCP 2017)",
-        verifiedAt: "2026-08-01"
+        source: "Regione Emilia-Romagna, NEWS2; RCP, NEWS2",
+        version: "settembre 2024 / dicembre 2017",
+        verifiedAt: "2026-10-03"
+      }),
+      expect.objectContaining({
+        id: "DO-SA02-05-TRIAGE-2019",
+        auditArea: "clinico-assistenziale",
+        source: "Ministero della Salute, *Linee di indirizzo nazionali sul triage intraospedaliero*, tabelle 1–2",
+        version: "2019",
+        verifiedAt: "2026-10-03"
       })
     ])
   })

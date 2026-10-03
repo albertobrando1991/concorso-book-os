@@ -1,0 +1,57 @@
+{
+  "volume": "VOL-07",
+  "module": "M-SA04",
+  "date": "2026-10-03",
+  "verification": "manuale, text-freeze non implementato nel CLI",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+      "sha256": "9a13463b48cc4b929806840e4062f22e63bc227f07a5e2ddb45ddb0baf14b9ee",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "sha256": "dd9841165790e6683e785d8aa13c38bb7ce6a9b1cfcde4dd2c829f4a0d206147",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "sha256": "094134aaa7e16d541fba47ea403f651b75ba60fd58c26a0afea33f565fda4982",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "sha256": "fac488ce5d6357b58938806152c25a1fb11f7ab79badd5c46b2fd6348195def4",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    }
+  ],
+  "checks": [
+    "Capitoli canonici presenti, indice e titolo coerenti.",
+    "Delta specialistici riesaminati; step15 passed senza blocker/warning.",
+    "Nessun rinvio staff nel corpo, immagini locali presenti.",
+    "Casi, calcoli e soluzioni verificati nei report14/15.",
+    "Humanizer e micro-revisione svolti sui delta, fonti e date esplicite."
+  ],
+  "limitations": [
+    "Nuovo PDF e controllo visivo ancora necessari.",
+    "Packaging Git di due fonti INT resta a cura del coordinamento; i file sono presenti e leggibili.",
+    "Test hybrid-pilot richiede aggiornamento aspettative ai due DO; i gate sostanziali densità/copertura sono passed."
+  ],
+  "productionReview": {
+    "pdf": "vol-07-release-20261003-proof.pdf",
+    "sha256": "60e7814e7a9d17ea36f1af9b5a7652206f83ce33fe0870b0aebc6d588df43e16",
+    "report": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-07.md",
+    "method": "Panoramica di tutte le pagine, direttamente o mediante corrispondenza pixel con pagine già viste; dettagli a piena risoluzione nelle pagine elencate. Il confronto esclude soltanto i 40 pt inferiori del piè di pagina; numerazione e indice verificati separatamente sul PDF.",
+    "effectiveFileHashes": {
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md": "9a13463b48cc4b929806840e4062f22e63bc227f07a5e2ddb45ddb0baf14b9ee",
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md": "dd9841165790e6683e785d8aa13c38bb7ce6a9b1cfcde4dd2c829f4a0d206147",
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md": "094134aaa7e16d541fba47ea403f651b75ba60fd58c26a0afea33f565fda4982",
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md": "fac488ce5d6357b58938806152c25a1fb11f7ab79badd5c46b2fd6348195def4"
+    },
+    "frontMatterUnresolved": true
+  }
+}

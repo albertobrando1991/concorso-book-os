@@ -8,7 +8,7 @@ book_id: m-fl03-camere-commercio
 volume_code: VOL-02
 module_code: M-FL03
 format_version: 2
-updated_at: 2026-08-08T22:20:00+02:00
+updated_at: 2026-10-03
 canonical: true
 ---
 
@@ -163,3 +163,27 @@ canonical: true
 | N-FL03-05-03 | avanzato | motivate priorità e adattamento per profilo | completo | sezione `N-FL03-05-03` |
 | N-FL03-05-04 | parziale | differenziati output e criteri di correzione | completo | sezione `N-FL03-05-04` |
 | N-FL03-05-05 | avanzato | integrati simulazione, piano, diario e verifica finale | completo | sezione `N-FL03-05-05` |
+
+## Delta correttivo del 3 ottobre 2026
+
+La dichiarazione storica di completezza non copriva i dettagli rilevati nell'audit integrale. Le righe seguenti la integrano e prevalgono sui riepiloghi precedenti per i nuclei interessati. Fonte: [[sources/vol-02-camerale-verifica-2026-10-03]], topic [[topics/vol-02-camerale-registro-servizi-organi]].
+
+| Nucleo ID | Materia e integrazione | Teoria e conseguenze | Applicazione/output | Verifica | Stato | Review |
+| --- | --- | --- | --- | --- | --- | --- |
+| N-FL03-01-05 | Bando composito | Natura simulata, non prova empirica | Decoder su avviso didattico | Q:6 C:2 E:1 | completo | Riesame correttivo 2026 |
+| N-FL03-02-01 | Sezioni ed effetti | Art. 2193; costitutiva 2331; eccezione agricola | Opponibilità al terzo | Q:2 C:1 E:1 | completo | 33 articoli acquisiti, fonte consolidata |
+| N-FL03-02-02 | REA | Attività economica non principale e distinzione soggetti | Classificazione della richiesta | Q:1 C:1 E:1 | completo | Fonte Registro istituzionale |
+| N-FL03-02-03 | Conservatore, giudice, rimedi | Artt. 2189/2192 e D.L. 76 art. 40 | Rifiuto su domanda vs cancellazione d'ufficio | Q:1 C:2 E:1 | completo | Termini diversi 8/15 |
+| N-FL03-02-04 | Documenti e PA | Decertificazione artt. 40/43 | Acquisizione d'ufficio | Q:2 C:1 E:1 | completo | Nucleo DPR445 consolidato |
+| N-FL03-02-05 | ComUnica | Enti, modelli, ricevuta condizionata e termini | Pratica mista SUAP | Q:2 C:2 E:1 | completo | Art. 9 vigente |
+| N-FL03-03-03 | ADR e protesti | Accordo/lodo; cancellazione/riabilitazione/rimedi | Cambiale pagata 8/14 mesi | Q:4 C:3 E:1 | completo | Norme puntuali consolidate |
+| N-FL03-03-04 | Metrologia | Organismi, Camera, Unioncamere, titolare; termini | Segnalazione bilancia | Q:1 C:2 E:1 | completo | Inclusa eccezione art. 4, c. 1-bis |
+| N-FL03-04-01 | Organi e SG | Formazione, poteri, durata | Programma/avviso/pratica | Q:2 C:2 E:1 | completo | L. 580 vigente |
+| N-FL03-04-02 | Personale | Aree, EQ, progressioni | Tre esiti distinti | Q:2 C:1 E:1 | completo | CCNL 2026 e rinvii 2022 |
+| N-FL03-04-04 | Accesso | Registro pubblico/fascicolo istruttorio | Visura vs allegati contributo | Q:1 C:1 E:1 | completo | Riesame del caso |
+| N-FL03-05-05 | Laboratorio | Regime dati pubblici e riservati | Variante risolta, nessun diniego generico privacy | Q:6 C:2 E:1 | completo | Scenario composito |
+
+Le integrazioni esplicitano definizione, funzione, inquadramento, elementi, distinzioni, conseguenze, casi, uso nella prova, errore, verifica e fonti. Non viene attestato un nuovo controllo integrale delle soglie di 600 parole per ogni nucleo: la revisione correttiva opera nello step 14 e conserva il formato dichiarato. La resa impaginata richiede il nuovo PDF.
+
+
+Aggiornamento schemi del 3 ottobre 2026: cinque figure del capitolo 01 rese in Markdown nativo con concetti e relazioni conservati. P02-05/07/08/09: intervento testuale completato secondo il perimetro pertinente; controllo della nuova resa PDF ancora aperto. Evidenza: `artifacts/correzioni-collana-2026-10-02/VOL-02-native-schemes.json`.

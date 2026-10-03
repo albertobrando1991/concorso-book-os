@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Capitale Personale", "Camera di commercio", "Unionca
 source_refs: ["sources/camere-commercio-registro-imprese-m-fl03.md", "sources/ordinamento-camere-commercio-legge-580-1993-dlgs-219-2016.md", "sources/verifica-ufficiale-m-fl03-01-2026-07-22.md", "sources/verifica-ufficiale-m-fl03-02-2026-07-22.md", "sources/verifica-ufficiale-m-fl03-03-2026-07-22.md", "sources/verifica-ufficiale-m-fl03-04-2026-07-22.md", "sources/verifica-ufficiale-m-fl03-05-2026-07-23.md", "sources/registro-imprese-rea-pubblicita-legale-dpr-581-1995.md", "sources/servizi-imprese-regolazione-mercato-camere-commercio.md", "sources/bandi-camerali-m-fl03-2026.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["il-metodo-bando", "moduli-specialistici", "vol-02-enti-locali-polizia-locale"]
 confidence: 0.84
-updated_at: 2026-07-23T00:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true

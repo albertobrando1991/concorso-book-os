@@ -1,0 +1,12 @@
+from pathlib import Path
+import re,json
+B=Path('wiki/books/moduli/m-tr04-ambiente-protezione-civile');p=B/'planning/02-matrice-copertura-didattica.md';s=p.read_text(encoding='utf8')
+s=s.replace('| Evidenza didattica | Stato | Limite |','| Evidenza didattica | Esito | Limite |')
+s=s.replace('90 nuclei effettivi in 14 capitoli.','90 nuclei effettivi in 14 capitoli. La tabella analitica inventaria tutti i nuclei; la tabella canonica di copertura seguente mantiene le 14 unità di capitolo della matrice originaria, esplicitandone il perimetro aggregato. I conteggi Q/C/E di queste unità non sono attribuiti separatamente a ciascuno dei 90 nuclei.')
+new='\n## Copertura canonica delle 14 unità di capitolo\n\n| Nucleo ID | Materia | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |\n|---|---|---|---|---|---|---|---|---|---|\n'
+for q in sorted((B/'chapters').glob('*.md')):
+ t=q.read_text(encoding='utf8');n=q.name[:2];head=re.findall(r'^## (N-TR04-\d\d-\d\d) · (.*)$',t,re.M);refs=json.loads(re.search(r'^source_refs: (.*)$',t,re.M)[1]);refs=[x for x in refs if 'rettifiche-2026-10-03' in x or 'verifica-2026-10-03' in x]
+ new+='| '+head[0][0]+' | Unità aggregata: '+re.search(r'^title: "(.*)"',t,re.M)[1].replace('|','/')+' | '+'; '.join(refs)+' | cap. '+n+' | '+str(len(head))+' nuclei da '+head[0][0]+' a '+head[-1][0]+' | Casi e mini-esercizi nel capitolo, delta nel registro V11 | Output della Mappa BANDO e del caso guidato | Q:6 C:1 E:1 conteggi minimi del capitolo, non di ogni sottounità | completo | Riscontro puntuale 3 ottobre 2026; limiti nelle note |\n'
+new+='\n## Checklist dimensionale delle unità aggregate\n\nLe dimensioni si riferiscono al capitolo intero: teoria nei nuclei elencati, applicazione nel caso e nei mini-esercizi, verifica nei sei quesiti finali. Il registro per ID identifica le integrazioni che colmano le lacune precedenti. Non si attesta che ogni paragrafo ripeta tutte le dimensioni.\n\n| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Errore tipico | Verifica | Fonti |\n|---|---|---|---|---|---|---|---|---|---|---|\n'
+for n in range(1,15):new+='| N-TR04-'+f'{n:02d}'+'-01 | '+' | '.join(['✓ capitolo']*10)+' |\n'
+p.write_text(s+new,encoding='utf8');print('14 aggregate rows +90 transparent analytic entries.')

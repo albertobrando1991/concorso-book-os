@@ -1,0 +1,1788 @@
+{
+  "volume": "VOL-03",
+  "status": "text-review-complete",
+  "method": "Lettura integrale dei 50 originali e di quiz/casi; output troncati recuperati in finestre di righe. Verifica esterna mirata, non esaustiva.",
+  "chapters": [
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "sha256": "c934c085bc0620b87010d3cff4435ed6e182389323c012cf6391d78dbd9e0aa6",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "sha256": "32f4fc591617b2abb6f9926a5aa4de894b541d45599677dc9fa2b66b41b3bf3b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "sha256": "8cd049dcab554dfefc33f9015af95c67b18640476524816af74a96da50267589",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "ARAN",
+          "claim": "CCNL FC2025–27 sottoscritto definitivamente6agosto2026",
+          "url": "https://www.aranagenzia.it/documento_pubblico/contratto-collettivo-nazionale-di-lavoro-relativo-al-personale-del-comparto-funzioni-centrali-triennio-2025-2027/",
+          "locator": "incipit e art2",
+          "result": "contraddice capFC03/08 e source note"
+        }
+      ],
+      "findings": [
+        "V03-033",
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "sha256": "d8ae9aa39a65fd6ecfe1d376cafabba59f98fd9c809fa7148ffaa9e2da9d573b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "sha256": "e0cb28a2063e989904a38ecebb816d04630e697a3520be827444c0db57fb2b2c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-034",
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "sha256": "bb016ca6a61cc2b744ff8e024bc8e64fa6c4e851c392d113a641782d1182dc95",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-035",
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "sha256": "9ea7e5f259e80b1ab417419da560d723c4c1be3011af53c4f031a8b318f35a9d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-036",
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "sha256": "f7e2a207b04a5aacc88b19db0cac418a80320c620d2890334e1bdfdf4d643511",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-037",
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "sha256": "cba90db2d9f48d134b237f00f0000cfd542ea86df22c86b58fc472e6512eba7f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "RGS",
+          "claim": "Residui attivi Stato comprendono riscosso non versato",
+          "url": "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/attivita_istituzionali/formazione_e_gestione_del_bilancio/rendiconto/conto_del_bilancio_e_conto_del_patrimonio/conto_del_bilancio/2017/relazione_illustrativa/Relazione_al_rendiconto_2017.pdf",
+          "locator": "1.5.1",
+          "result": "definizione istituzionale; fonte storica, non certificazione normativa2026"
+        }
+      ],
+      "findings": [
+        "V03-003",
+        "V03-038",
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "sha256": "11acae6c16a002929ab44297bf81829a01ec1263fbda7541c897e6dc1104d481",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-039",
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "sha256": "66989fdd6c143681b08ad434e2802ef22dc22b9ae8d9851e218ce43458b663ae",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "sha256": "9ad75ed0658d38fd86625ecbcbb0b5a405f3c1fd19b3fdc7a0259bec7d2929a1",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-040",
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "sha256": "586898fba60a53a5367e396542152c093bb9962c8962d08776ad2f7ccdd5c264",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "sha256": "c7b2ffa256cdff8af663d3ce15c437ced67e20ba5da4af2cfbc71120f396e2ff",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-046",
+        "V03-048"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "sha256": "ba6716f1e0a55664f05301b99c36a57e74783fc02f86a1177e39e60946957eb4",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-046",
+        "V03-048",
+        "V03-050"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "sha256": "363f41312a53f516440004211cb957fcf13947ba1f8561788a30711c265b74fb",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "sha256": "d8eabb62454e2edc3ac552f36fb0c6e0b1e961687dbe39b92c1543b4abdb4711",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "sha256": "224e70b5b1527bf241e289a0d1c2c18825e6b40601b23d60b67a60a9d4ba49f9",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-032",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "sha256": "f544fc6a793784affe70ef79dc1196b56ace868580452a826d39e22ef95654bd",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "sha256": "04556130ed9f2db7077b120f12cdb71e915df76e9eeacc7e45ccaed93676a19c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "CAUTELA",
+          "claim": "Presupposto danno grave e irreparabile",
+          "url": "https://def.giustiziatributaria.gov.it/DocTribFrontend/getPrassiDetail.do?id=%7BB752EE50-1E07-40B8-BF5B-09EA49FA2B4A%7D",
+          "locator": "1.10 art47",
+          "result": "conferma congiunzione cumulativa; prassi storica"
+        }
+      ],
+      "findings": [
+        "V03-004",
+        "V03-029",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "sha256": "94768e52000517e4e75826c4c4a5ad1315bdf22b6e40a7bec8fea571c4037dd1",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-030",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "sha256": "24434a2e63d04eb89fe96b645647b1b20257969df655956501de89fed5ece763",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "ADER",
+          "claim": "Fino120mila,84rate per richieste2025–26",
+          "url": "https://www.agenziaentrateriscossione.gov.it/it/il-gruppo/lagenzia-comunica/novita/Rateizzazione-cosa-cambia-dal-1-gennaio-2025/",
+          "locator": "rateizzazione semplice e documentata",
+          "result": "affermazione cap07 confermata"
+        }
+      ],
+      "findings": [
+        "V03-043",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "sha256": "f5c5e98cf0ecf522a34958e93fbb38e13c12d4d454103b56407e9a9c4a0afd9a",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "CDU",
+          "claim": "Vigilanza134 e dichiarante5(15)",
+          "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A02013R0952-20221212",
+          "locator": "art134 e5",
+          "result": "evidenza disposizioni; HTML protetto da controllo robot"
+        },
+        {
+          "id": "DOGANE",
+          "claim": "Riforma2024 e abrogazioneTULD",
+          "url": "https://www.attuazione.gov.it/it/approfondimenti/riforme-di-rilievo-del-governo/riforme-governo-meloni/riforma-fiscale/dlgs-in-materia-doganale-e-di-accise/",
+          "locator": "sintesi d.lgs141/2024",
+          "result": "confermata necessità chiarimento transizione"
+        },
+        {
+          "id": "RETTIFICA",
+          "claim": "CDU173(3) rettifica dopo svincolo entro3anni",
+          "url": "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A62024CJ0889",
+          "locator": "citazione173(3) e par27",
+          "result": "conferma integrazione"
+        },
+        {
+          "id": "TURCHIA",
+          "claim": "A.TR attesta libera circolazione, non origine",
+          "url": "https://def.giustiziatributaria.gov.it/DocTribFrontend/getPrassiDetail.do?id=%7B0020469F-0000-C011-AE69-2E953589C2C8%7D&primoPiano=true",
+          "locator": "prassi2026 UE-Turchia",
+          "result": "caso industriale da correggere"
+        }
+      ],
+      "findings": [
+        "V03-005",
+        "V03-006",
+        "V03-007",
+        "V03-008",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "sha256": "5367fc66c6c24b5a3a1cc812ceb0ec6da6dc7079b6592eddd4096daafe2e27bf",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "DEST",
+          "claim": "Destinatario registrato non detiene in sospensione",
+          "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=21G00198&atto.dataPubblicazioneGazzetta=2021-11-29&tipoDettaglio=multivigenza",
+          "locator": "modifica TUA art8",
+          "result": "indefinitamente improprio"
+        }
+      ],
+      "findings": [
+        "V03-010",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "sha256": "0e7e111bf2c6adb344523ca8c2930b07fafb3e2cb58bd2058d09eae264b4ca9f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-044",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "sha256": "5641df957838b424b3a1f3565d8aeff78a80fb48ffe54f5fac27707104195719",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-012",
+        "V03-013",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "sha256": "be67d00762a4cb4109271c8675b3edddd7baab60eba1579044cfe35880097b2b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-031",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "sha256": "b3194794320b8002d1ae3f1888bf0454a9a0b62ef794ecf22d96d201ebc2f798",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-045",
+        "V03-047",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "sha256": "d745790a3064e077f1fb0275809d5e0203e47231fec8f32b2d73e76382ef0bb0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "CDU",
+          "claim": "Vigilanza134 e dichiarante5(15)",
+          "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A02013R0952-20221212",
+          "locator": "art134 e5",
+          "result": "evidenza disposizioni; HTML protetto da controllo robot"
+        },
+        {
+          "id": "EMCS",
+          "claim": "EMCS include dal2023 movimenti commerciali intraUE ad accisa assolta",
+          "url": "https://www.adm.gov.it/portale/ead-daa",
+          "locator": "descrizione sistema",
+          "result": "glossario parziale"
+        }
+      ],
+      "findings": [
+        "V03-009",
+        "V03-011",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "sha256": "ff170c975d798dc23be65bb47fce7583a90aea0dae0161b0643366fc3d0cc914",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-028",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "sha256": "fcda80562bb2c35b9cd163c850ac17e460dcc70effa0a6e24b5323250e23ad17",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "TU",
+          "claim": "Decorrenza TU175 al2027; analogo rinvio TU173 e33",
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2026/05/22/117/sg/pdf",
+          "locator": "testo che richiama art4 DL200/2025, comma3",
+          "result": "contraddice cap05B; conferma prudenza2027 in05A"
+        }
+      ],
+      "findings": [
+        "V03-001",
+        "V03-027",
+        "V03-052",
+        "V03-054"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "sha256": "331281fc3294c1e2cd184d7bedda6499db75991394c19888c0672a06d97fe1ee",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "sha256": "1b16157f47120ad5a8abdadc0d3b8f11cc20e80575203209a682b6d1e4d3ed52",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-019",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "sha256": "356b18611da1bd0a65fe8d4020ede0615d879af1e3078459801d2df8823a009c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-016",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "sha256": "aaec428c51fd5d81a65ccb952838ecccd81a0e15edb0a664c5fc013617b2c1d8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "INAIL",
+          "claim": "Causa violenta/occasione lavoro; automaticità anche con premio omesso",
+          "url": "https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/Lavoratore-Dipendente-Industria-Artigianato-Terziario-Altre-Attivita/infortunio-sul-lavoro/aggravamento-del-danno-e-revisione-della-rendita-lavoratore-dipendente/prestazioni-economiche.html",
+          "additionalUrl": "https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/Lavoratore-Dipendente-Industria-Artigianato-Terziario-Altre-Attivita/infortunio-sul-lavoro/riconoscimento-dell-infortunio-lavoratore-dipendente.html",
+          "locator": "definizione e automaticità",
+          "result": "conferma lacune; eccezioni autonome da insegnare"
+        }
+      ],
+      "findings": [
+        "V03-015",
+        "V03-017",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "sha256": "a3d6b57c4058c07973d21d64433f8cd7ddb5219742371a649cc575e2a999130f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "sha256": "e00d8fb77c93aab0fd5bf5fed8dfe2161f08cbcbf973fc4f14c7fe5f47b206f8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-020",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "sha256": "47aae202c2a4b2b783b9747060c4be709ea8e9fc40d10067e64c237f37b919c9",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "sha256": "be7d91f38f71bef36503a12c04d4aa58ece1a525c6015983c96ff9fdd83cb742",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "ARAN",
+          "claim": "CCNL FC2025–27 sottoscritto definitivamente6agosto2026",
+          "url": "https://www.aranagenzia.it/documento_pubblico/contratto-collettivo-nazionale-di-lavoro-relativo-al-personale-del-comparto-funzioni-centrali-triennio-2025-2027/",
+          "locator": "incipit e art2",
+          "result": "contraddice capFC03/08 e source note"
+        }
+      ],
+      "findings": [
+        "V03-002",
+        "V03-015",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+      "sha256": "e7cd6efaf3ce5c4358c1c87d599a92a94f3fac2779df7cc04dfadac00268b4b0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "sha256": "fcbea63a337ccb4ec46cea4d612185a342e3cd024437d81e9c5a62b467cb831b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+      "sha256": "0c102adb8dc0bb78be792ab1b4513e434284a37b85fec0924fb5f95211c1804c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-041",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+      "sha256": "f01cb572238aaea8bbf02a62c56cb42c4e375c8b043c42a7cc1ca1d1d9cfc03f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-042",
+        "V03-049",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "sha256": "a05eaf222cab7cc53d171e057f4262ad4d0ca3b625f6ee54464b71ade89c9546",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-051",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "sha256": "64a9ac5deb3333d4c9044edc6dae6fd8c336543f5667ebf341bafa5ef3f4fc99",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-018",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "sha256": "5a2f2056d7eecc9e9c4bc4da966988885fb37e7055510182ca36fa191c786e1f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "INAIL",
+          "claim": "Causa violenta/occasione lavoro; automaticità anche con premio omesso",
+          "url": "https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/Lavoratore-Dipendente-Industria-Artigianato-Terziario-Altre-Attivita/infortunio-sul-lavoro/aggravamento-del-danno-e-revisione-della-rendita-lavoratore-dipendente/prestazioni-economiche.html",
+          "additionalUrl": "https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/Lavoratore-Dipendente-Industria-Artigianato-Terziario-Altre-Attivita/infortunio-sul-lavoro/riconoscimento-dell-infortunio-lavoratore-dipendente.html",
+          "locator": "definizione e automaticità",
+          "result": "conferma lacune; eccezioni autonome da insegnare"
+        }
+      ],
+      "findings": [
+        "V03-015",
+        "V03-022",
+        "V03-023",
+        "V03-025",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "sha256": "8be9a5fea26d3d5f56a59ea96d1d84d70cf2a5fb0ff61c2160769dbfa2154843",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "CRI",
+          "claim": "CRI privata dal1gennaio2016",
+          "url": "https://cri.it/2016/02/23/croce-rossa-ha-cambiato-personalita-giuridica/",
+          "locator": "comunicazione istituzionale",
+          "result": "inclusione fraEPNE da qualificare"
+        },
+        {
+          "id": "CCNQ",
+          "claim": "Perimetri comparti distinti da missione e mansione",
+          "url": "https://www.aranagenzia.it/documento_pubblico/contratto-collettivo-nazionale-quadro-per-la-definizione-dei-comparti-e-delle-aree-di-contrattazione-collettiva-nazionale-2025-2027/",
+          "locator": "art3 e comparto IstruzioneRicerca",
+          "result": "necessario distinguere collocazione editoriale/contrattuale"
+        }
+      ],
+      "findings": [
+        "V03-015",
+        "V03-024",
+        "V03-025",
+        "V03-053",
+        "V03-056"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "sha256": "344418893a23cac36234e2ea250881e3b800e0a229030be882743fa8db39016e",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-053",
+        "V03-057"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "sha256": "4e8637722daf78975059a79cd0cac962102396cbb91da79495852186e17f67ca",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V03-015",
+        "V03-025",
+        "V03-026",
+        "V03-053"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "sha256": "cc5d3d936cd3863f210d0b62661caf08f925779fa33bd2aa97526259bda41378",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "ABUSO",
+          "claim": "Art323 abrogato daL114/2024",
+          "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=24G00122&atto.dataPubblicazioneGazzetta=2024-08-10&tipoDettaglio=multivigenza",
+          "locator": "art1comma1letterab",
+          "result": "abuso da qualificare storico"
+        }
+      ],
+      "findings": [
+        "V03-014",
+        "V03-015",
+        "V03-021",
+        "V03-025",
+        "V03-053",
+        "V03-055"
+      ],
+      "limitations": [
+        "Verifica esterna non esaustiva; PDF assegnato al coordinatore"
+      ],
+      "hashVerifiedAtClose": true
+    }
+  ],
+  "date": "2026-10-02",
+  "findings": [
+    {
+      "id": "V03-001",
+      "scope": "fc02/05b",
+      "position": "Apertura; mappa articoli; caso Omega; quiz 1",
+      "excerpt": "applicabile dal 1 gennaio 2026",
+      "severity": "bloccante",
+      "category": "Normativa",
+      "description": "Il TU giustizia tributaria è presentato come disciplina applicabile nel 2026. La decorrenza è stata rinviata al 1 gennaio 2027. Errore propagato dalla source note e dalle matrici.",
+      "proposal": "Rifondare il capitolo sulla disciplina 2026 dei d.lgs.545/546 del1992, coordinata alle modifiche vigenti; ricontrollare tutti i riferimenti, caso e quiz; separare prospetto2027.",
+      "sourceIds": [
+        "TU"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-002",
+      "scope": "fc03/08",
+      "position": "CCNL; riga105",
+      "excerpt": "il contratto definitivo di riferimento",
+      "severity": "grave",
+      "category": "Aggiornamento",
+      "description": "Il testo presenta il2025–2027 soltanto come ipotesi9giugno. Firma definitiva6agosto2026, prima del cut-off dichiarato22agosto. Stesso errore nella source note ARAN.",
+      "proposal": "Aggiornare cronologia e istituti interessati al testo definitivo, conservando distinte decorrenze e contratti precedenti.",
+      "sourceIds": [
+        "ARAN"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-003",
+      "scope": "fc01/09",
+      "position": "Nucleo gestione; definizione residui",
+      "excerpt": "residui attivi",
+      "severity": "grave",
+      "category": "Contabilità",
+      "description": "La definizione accertati non riscossi omette, nel bilancio dello Stato, le somme riscosse non versate.",
+      "proposal": "Integrare entrambe le componenti e un esempio:100accertati,80riscossi,60versati producono40residui(20+20).",
+      "sourceIds": [
+        "RGS"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-004",
+      "scope": "fc02/05",
+      "position": "Tabella tutela cautelare riga167",
+      "excerpt": "grave o irreparabile",
+      "severity": "grave",
+      "category": "Normativa",
+      "description": "La congiunzione alternativa altera il requisito cumulativo della sospensione.",
+      "proposal": "Scrivere grave e irreparabile, collegando fumus e periculum alla fase e alla norma applicabile; ricercare la stessa locuzione nel volume.",
+      "sourceIds": [
+        "CAUTELA"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-005",
+      "scope": "fc02/08",
+      "position": "Territorio/status; riga81",
+      "excerpt": "vengono vincolate a un altro regime",
+      "severity": "grave",
+      "category": "Dogane",
+      "description": "Il vincolo a un altro regime non determina in generale la cessazione della vigilanza sulle merci non unionali.",
+      "proposal": "Allineare al CDU134: mutamento posizione doganale, uscita o distruzione; esplicitare persistenza nei regimi speciali.",
+      "sourceIds": [
+        "CDU"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-006",
+      "scope": "fc02/08",
+      "position": "Fonti; riga70",
+      "excerpt": "per le disposizioni non superate",
+      "severity": "grave",
+      "category": "Dogane",
+      "description": "Formula che lascia indeterminata una sopravvivenza del DPR43/1973 dopo abrogazione.",
+      "proposal": "Indicare abrogazione disposta dal d.lgs.141/2024, distinguendo eventuali vicende pregresse/transitorie puntuali dalla disciplina corrente.",
+      "sourceIds": [
+        "DOGANE"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-007",
+      "scope": "fc02/08",
+      "position": "Rettifica della dichiarazione",
+      "excerpt": "rettifica",
+      "severity": "grave",
+      "category": "Dogane",
+      "description": "La spiegazione arresta la rettifica alla fase anteriore allo svincolo, omettendo la possibilità successiva.",
+      "proposal": "Aggiungere CDU173(3), richiesta entro tre anni e relativi presupposti; distinguere rettifica/invalidamento.",
+      "sourceIds": [
+        "RETTIFICA"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-008",
+      "scope": "fc02/08",
+      "position": "Caso componenti elettronici Cina/Turchia",
+      "excerpt": "Turchia",
+      "severity": "grave",
+      "category": "Dogane",
+      "description": "Il caso orienta alla preferenza di origine senza distinguere la libera pratica nell’unione doganale UE-Turchia per merci industriali.",
+      "proposal": "Riformulare fatti e soluzione distinguendo origine, provenienza, libera pratica e A.TR; verificare eventuali misure legate all’origine.",
+      "sourceIds": [
+        "TURCHIA"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-009",
+      "scope": "fc02/14",
+      "position": "Glossario riga144",
+      "excerpt": "in proprio nome o per conto altrui",
+      "severity": "grave",
+      "category": "Terminologia",
+      "description": "La definizione di dichiarante include indistintamente il rappresentante diretto, in contrasto con la distinzione del cap08.",
+      "proposal": "Definire chi presenta in nome proprio oppure la persona in nome della quale avviene la presentazione; esempio diretto/indiretto.",
+      "sourceIds": [
+        "CDU"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-010",
+      "scope": "fc02/09",
+      "position": "Soggetti accise; riga88",
+      "excerpt": "detenerli indefinitamente in sospensione",
+      "severity": "grave",
+      "category": "Accise",
+      "description": "L’avverbio suggerisce una facoltà di detenzione temporanea in sospensione del destinatario registrato.",
+      "proposal": "Precisare divieto di detenzione in sospensione e momento di esigibilità al ricevimento, distinguendo depositario autorizzato.",
+      "sourceIds": [
+        "DEST"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-011",
+      "scope": "fc02/14",
+      "position": "Glossario EMCS riga105",
+      "excerpt": "Sistema di controllo della circolazione in sospensione",
+      "severity": "medio",
+      "category": "Accise",
+      "description": "Definizione incompleta: dal2023 comprende anche movimenti commerciali tra Stati UE di prodotti già immessi in consumo.",
+      "proposal": "Ampliare definizione e raccordare cap09 a e-DAS/e-SAD, destinatario/speditore certificato.",
+      "sourceIds": [
+        "EMCS"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-012",
+      "scope": "fc02/11",
+      "position": "Immobilizzazioni; riga177",
+      "excerpt": "Le immobilizzazioni sono iscritte al costo e ammortizzate",
+      "severity": "grave",
+      "category": "Contabilità",
+      "description": "Generalizzazione a tutte le immobilizzazioni, incluse quelle finanziarie e terreni.",
+      "proposal": "Limitare l’ammortamento alle immobilizzazioni materiali/immateriali con utilizzazione limitata nel tempo; distinguere costo, ammortamento e svalutazione.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-013",
+      "scope": "fc02/11",
+      "position": "Rimanenze riga175; margini riga209",
+      "excerpt": "secondo costo e valore di realizzo",
+      "severity": "medio",
+      "category": "Contabilità",
+      "description": "Manca il criterio del minore; margine di struttura non distingue configurazione primaria e secondaria.",
+      "proposal": "Esplicitare minore tra costo e realizzo desumibile dal mercato; indicare formule delle due configurazioni e quella adottata.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-014",
+      "scope": "fc03/appendice-f",
+      "position": "Reati contro PA",
+      "excerpt": "Corruzione, concussione, peculato e abuso",
+      "severity": "grave",
+      "category": "Normativa",
+      "description": "Abuso figura accanto ai reati senza qualificazione storica o chiarimento: induce a studiare l’abrogato art323 come vigente.",
+      "proposal": "Esplicitare abrogazione legge114/2024 e distinguere le fattispecie vigenti pertinenti, incluso314-bis se nel programma.",
+      "sourceIds": [
+        "ABUSO"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-015",
+      "scope": "fc03/*",
+      "position": "Verifica e caso ragionato di chiusura di tutti19file",
+      "excerpt": "individuare fonte, ambito e funzione",
+      "severity": "bloccante",
+      "category": "Verifiche",
+      "description": "114 domande finali: sei scheletri con risposte identiche in19capitoli; identico caso conclusivo. Non verificano i nuclei dichiarati. Esempio F: obbligazioni e sicurezza sul lavoro sinonimi?",
+      "proposal": "Sostituire con domande effettive per materia, soluzioni applicate e casi autosufficienti; associare ogni verifica a un nucleo reale, senza moltiplicare il conteggio in matrice.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-016",
+      "scope": "fc03/03",
+      "position": "Intero capitolo; raccordo glossario B",
+      "excerpt": "previdenza, servizi e prestazioni",
+      "severity": "bloccante",
+      "category": "Copertura",
+      "description": "Manca la teoria specialistica promessa per pensioni, ammortizzatori, invalidità, ISEE, contribuzione. Privacy e sportello occupano il posto di requisiti, istituti e distinzioni.",
+      "proposal": "Sviluppare nuclei autonomi: art38, previdenza/assistenza, rapporto contributivo, automaticità, pensioni, sostegni, invalidità, ISEE/DSU; casi e quiz specifici. Dati quantitativi con data/fonte, non omissione generalizzata.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-017",
+      "scope": "fc03/04",
+      "position": "Infortunio, malattia e prestazioni; anche appendice B",
+      "excerpt": "Evento dannoso collegato",
+      "severity": "bloccante",
+      "category": "Copertura",
+      "description": "Non sono spiegati causa violenta/occasione di lavoro, differenza causale della malattia professionale, prestazioni, premi e automaticità; il glossario non colma il vuoto.",
+      "proposal": "Integrare presupposti e soggetti assicurati, in itinere, malattie tabellate/non, prestazioni economiche/sanitarie, danno biologico e automaticità con limiti.",
+      "sourceIds": [
+        "INAIL"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-018",
+      "scope": "fc03/appendice-a",
+      "position": "Poteri, verbale, contraddittorio; confronto appendice E",
+      "excerpt": "non deve memorizzare un catalogo indistinto di poteri",
+      "severity": "bloccante",
+      "category": "Copertura",
+      "description": "Appendice prevalentemente metodologica: poteri, atti, diffide, rimedi e competenze non insegnati. Appendice E afferma che basta per il profilo vigilanza.",
+      "proposal": "Sviluppare sequenza e basi d.lgs.124/2004 e149/2015 aggiornate, verbali, diffida, conciliazione, recuperi, sanzioni e tutele; oppure ridimensionare esplicitamente promessa ispettiva e fornire destinazione completa.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-019",
+      "scope": "fc03/02",
+      "position": "Organi, indirizzo e gestione",
+      "excerpt": "organi",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "L’ordinamento INPS/INAIL è ridotto a categorie; non insegna denominazione/competenze degli organi e vigilanza ministeriale.",
+      "proposal": "Inserire comparazione Presidente,CdA,CIV,DG,revisori, atti/competenze e vigilanza. Separare assetto stabile e nominativi mobili.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-020",
+      "scope": "fc03/06",
+      "position": "Bilancio, patrimonio e controlli",
+      "excerpt": "Bilancio dell’ente",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "Nessuno sviluppo sufficiente degli strumenti contabili propri degli EPNE, delle fonti dedicate e delle competenze di adozione/approvazione.",
+      "proposal": "Integrare DPR97/2003, raccordi armonizzazione e regolamenti INPS/INAIL; documenti preventivi/consuntivi e competenze, con esempio leggibile.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-021",
+      "scope": "fc03/appendice-f",
+      "position": "Civile, processo civile, finanze, sicurezza",
+      "excerpt": "Elencarli non basta",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "Il testo stesso afferma che elencare soggetti non basta, ma non attribuisce obblighi. Distinzioni civilistiche e tributarie spesso solo nominate; processo previdenziale assente.",
+      "proposal": "Spiegare distinzioni richieste e soggetti/obblighi essenziali81/2008; fornire rinvii esatti al core dove completi; sviluppare il delta INAIL e il rito lavoro/previdenza.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-022",
+      "scope": "fc03/appendice-b",
+      "position": "Voci premio e danno biologico",
+      "excerpt": "Concetto richiamato nel sistema INAIL",
+      "severity": "grave",
+      "category": "Glossario",
+      "description": "Danno biologico non definito; premio descritto come termine legato al finanziamento. Il lettore non può imparare le due nozioni.",
+      "proposal": "Fornire definizioni sostanziali, presupposto/effetto ed esempio; distinguere automaticità delle prestazioni dall’assenza di istruttoria.",
+      "sourceIds": [
+        "INAIL"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-023",
+      "scope": "fc03/appendice-b",
+      "position": "Coppie da non confondere; domanda commissario",
+      "excerpt": "Chiamare tutto genericamente \"previdenza\"",
+      "severity": "medio",
+      "category": "Concetti",
+      "description": "Contrapposizione INPS-previdenza/INAIL-assicurazione rischia di escludere INAIL dalla previdenza sociale. Prestazione non diritto automatico è ambiguo.",
+      "proposal": "Presentare l’assicurazione INAIL nel sistema di previdenza/protezione sociale; spiegare automaticità in senso tecnico e accertamento dei presupposti.",
+      "sourceIds": [
+        "INAIL"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-024",
+      "scope": "fc03/appendice-c",
+      "position": "Schede CRI, ISTAT, ENEA, ASI; ricorrenze01/10/12",
+      "excerpt": "natura giuridica",
+      "severity": "grave",
+      "category": "Perimetro",
+      "description": "La prudenza su CRI non comunica il dato giuridico essenziale. Gli enti di ricerca possono essere editorialmente affini, ma il personale amministrativo non diventa per questo Funzioni Centrali.",
+      "proposal": "Dichiarare CRI associazione di diritto privato dal2016; distinguere natura, comparto e percorso editoriale. Inserire CCNQ per enti di ricerca e correggere aperture che includono tutti come EPNE FC.",
+      "sourceIds": [
+        "CRI",
+        "CCNQ"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-025",
+      "scope": "fc03/*",
+      "position": "Titoli N-FC03-xx e sottotitoli",
+      "excerpt": "Applicazione al profilo",
+      "severity": "grave",
+      "category": "Struttura",
+      "description": "Segmentazione meccanica interrompe sottotitolo e paragrafo, domanda e soluzione: es.12quiz7,10Da sapere5righe,11caso7. Le sezioni non corrispondono ai concetti della matrice.",
+      "proposal": "Riorganizzare confini in unità semantiche complete; poi riallineare ID, indice e matrice.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-026",
+      "scope": "fc03/appendice-e",
+      "position": "Quando un rinvio è sufficiente; tabella moduli",
+      "excerpt": "volume, capitolo e paragrafo",
+      "severity": "grave",
+      "category": "Rinvii",
+      "description": "Il testo prescrive rinvii precisi ma offre prevalentemente codici di modulo, senza destinazione per materia. Le promesse di sufficienza non sono comprovate.",
+      "proposal": "Mappare volumi disponibili e paragrafi verificati; indicare fuori perimetro per destinazioni non disponibili. Ridimensionare basta per vigilanza e contratti.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-027",
+      "scope": "fc02/05b",
+      "position": "Ricorso, assistenza, competenza",
+      "excerpt": "termini numerici",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "Omissione deliberata di termini essenziali, soglia difesa personale e competenza territoriale rende incompleta la preparazione al processo.",
+      "proposal": "Inserire schema datato di termini/presupposti essenziali con verifiche di applicazione; dati mobili vanno qualificati e aggiornati, non rimossi.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-028",
+      "scope": "fc02/05a",
+      "position": "Reati tributari; responsabilità autore",
+      "excerpt": "struttura tipica",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "Fattispecie nominate senza soglie/elementi sufficienti a distinguerle; mancano raccordi chiari sulla responsabilità delle persone giuridiche.",
+      "proposal": "Integrare tabella condotta,dolo,soglia,eventuali cause,tempo applicabile; responsabilità sanzionatoria enti; raccordo riforma2024 e transizioneTU173/2027.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-029",
+      "scope": "fc02/05",
+      "position": "Accertamento, contraddittorio e autotutela",
+      "excerpt": "presupposti",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "Metodi analitico/induttivo/sintetico/d’ufficio non sviluppati; contraddittorio e autotutela restano generici, rinvio05↔05B circolare.",
+      "proposal": "Sviluppare condizioni/limiti, garanzie, termini essenziali art6-bis, autotutela10-quater/quinquies con casi ed effetti; definire TCF e accesso collaborativo con quadro datato.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-030",
+      "scope": "fc02/06",
+      "position": "Categorie reddituali e dichiarazioni",
+      "excerpt": "regole vigenti",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "I criteri temporali e le modalità di determinazione sono spesso rinviati anziché insegnati; pensioni e cassa allargata non chiarite; dichiarazione tardiva priva del limite essenziale.",
+      "proposal": "Integrare tabella categoria/soggetti/base/criterio temporale; pensioni art49, assimilati50; criteri IRES fondamentali e soglie dichiarative con fonte/data.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-031",
+      "scope": "fc02/12",
+      "position": "Obbligazioni, patologie contrattuali, società",
+      "excerpt": "nullità",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "Delegazione, espromissione, accollo e molte patologie/tipi societari nominati senza disciplina distintiva.",
+      "proposal": "Integrare presupposti/effetti ed esempi, responsabilità/onere/prescrizione, solidarietà e responsabilità tipi societari; oppure rinvio esatto a trattazione completa.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-032",
+      "scope": "fc02/03",
+      "position": "Organi AE/ADM",
+      "excerpt": "direttore",
+      "severity": "medio",
+      "category": "Copertura",
+      "description": "Quadro degli organi omette collegio dei revisori e funzioni, mentre per AdER elenco più completo.",
+      "proposal": "Completare confronto con fonti statutarie; separare organi necessari da uffici e nominativi.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-033",
+      "scope": "fc01/03",
+      "position": "Aree e profili",
+      "excerpt": "aree",
+      "severity": "medio",
+      "category": "Copertura",
+      "description": "Le quattro aree contrattuali non vengono nominate e spiegate nelle declaratorie essenziali.",
+      "proposal": "Aggiungere Operatori,Assistenti,Funzionari,Elevate professionalità con competenze/accesso; raccordare con CCNL vigente.",
+      "sourceIds": [
+        "ARAN"
+      ],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-034",
+      "scope": "fc01/05",
+      "position": "Segretario generale e strutture missione",
+      "excerpt": "Segretario generale",
+      "severity": "medio",
+      "category": "Copertura",
+      "description": "Funzione generale troppo generica; non esplicitata durata strutture missione in rapporto al Governo.",
+      "proposal": "Sviluppare d.lgs.303/1999art7–8, compiti e limiti; nominativi/assetti concreti separati dalla disciplina.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-035",
+      "scope": "fc01/06",
+      "position": "Modelli organizzativi",
+      "excerpt": "direzioni generali",
+      "severity": "medio",
+      "category": "Copertura",
+      "description": "Modelli presentati senza ruolo Segretario generale e limite di coesistenza col dipartimentale.",
+      "proposal": "Integrare d.lgs.300/1999art3/6 e confronto con compiti dei dipartimenti, verificando testo vigente.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-036",
+      "scope": "fc01/07",
+      "position": "Patrocinio; generale/distrettuali",
+      "excerpt": "secondo il perimetro stabilito",
+      "severity": "medio",
+      "category": "Copertura",
+      "description": "Criterio di competenza e patrocinio obbligatorio/autorizzato insufficienti rispetto alla matrice completo.",
+      "proposal": "Precisare soggetti, competenza processuale/territoriale e fonti; conservare proporzione al profilo amministrativo.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-037",
+      "scope": "fc01/08",
+      "position": "Struttura PIAO",
+      "excerpt": "struttura",
+      "severity": "medio",
+      "category": "Copertura",
+      "description": "Schema concettuale non insegna le quattro sezioni formali e gli adempimenti fondamentali.",
+      "proposal": "Distinguere mappa didattica da DM132/2022; aggiungere sezioni, durata/aggiornamento, competenze e rimando esatto al core.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-038",
+      "scope": "fc01/09",
+      "position": "Ciclo statale e controlli",
+      "excerpt": "rendiconto",
+      "severity": "grave",
+      "category": "Copertura",
+      "description": "Delta contabilità Stato incompleto: struttura legge bilancio, documenti programmazione, unità voto, composizione rendiconto e controlli/parificazione.",
+      "proposal": "Integrare scheda specialistica datata e casi; non limitarsi al ciclo generico del core.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-039",
+      "scope": "fc01/10",
+      "position": "Acquisti ministeriali",
+      "excerpt": "Consip",
+      "severity": "medio",
+      "category": "Copertura",
+      "description": "Obblighi specifici di acquisto centralizzato non sviluppati, soglie/procedure rinviate genericamente.",
+      "proposal": "Esporre delta Ministeri e un rinvio preciso alla teoria del core, con controlli di soglia, strumenti e obblighi applicabili.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-040",
+      "scope": "fc01/12",
+      "position": "Ordine illegittimo; conflitto",
+      "excerpt": "coinvolge",
+      "severity": "medio",
+      "category": "Applicazione",
+      "description": "Soluzioni comportamentali non esplicitano rimostranza/conferma scritta e limite penale; conflitto richiede astensione oltre segnalazione.",
+      "proposal": "Integrare presupposti delle condotte e rinvii normativi; usare forma verbale coerente nelle istruzioni.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-041",
+      "scope": "fc03/11",
+      "position": "Casi1/3 e mini-atto",
+      "excerpt": "documento mancante",
+      "severity": "medio",
+      "category": "Applicazione",
+      "description": "Richiesta integrazione all’utente senza previo controllo acquisizione d’ufficio; mini-atto non specifica documento/termine perché traccia non li fornisce.",
+      "proposal": "Aggiungere verifica art18L241/DPR445art43; rendere caso autosufficiente e lasciare condizionati solo i dati davvero ignoti.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-042",
+      "scope": "fc03/12",
+      "position": "Riservatezza; conflitto interessi",
+      "excerpt": "non possono essere comunicati per telefono",
+      "severity": "medio",
+      "category": "Coerenza",
+      "description": "Divieto assoluto sul mezzo contraddice corretta verifica identità/titolo/canale negli scenari successivi; astensione enunciata ma non resa operativa.",
+      "proposal": "Riferire divieto al canale non autorizzato/non verificato; aggiungere astensione nei casi dovuti.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-043",
+      "scope": "fc02/07",
+      "position": "Fermo",
+      "excerpt": "libera disponibilità",
+      "severity": "medio",
+      "category": "Precisione",
+      "description": "Descrizione del fermo patrimoniale imprecisa rispetto al divieto di circolazione; tutele/limiti restano poco determinati.",
+      "proposal": "Chiarire effetto proprio e presupposti, distinguendolo da ipoteca/espropriazione; aggiungere schema delle tutele con condizioni.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-044",
+      "scope": "fc02/10",
+      "position": "Pubblicità e estimo",
+      "excerpt": "nei casi previsti",
+      "severity": "medio",
+      "category": "Precisione",
+      "description": "Efficacia costitutiva dell’iscrizione ipotecaria resta attenuata; procedimenti estimativi alternativi solo nominati.",
+      "proposal": "Esplicitare art2808; per profili Territorio integrare almeno percorso/formula e caso dei metodi promessi o restringere promessa.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-045",
+      "scope": "fc02/13",
+      "position": "Svolgimenti guidati righe291/313/335",
+      "excerpt": "**Svolgimento guidato",
+      "severity": "medio",
+      "category": "Markdown",
+      "description": "Grassetto aperto in una riga e chiuso sulla successiva; intestazioni incoerenti e numerazione rinvii da ricontrollare.",
+      "proposal": "Chiudere il grassetto nella stessa riga e verificare rendering; mantenere titolo e soluzione uniti.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-046",
+      "scope": "fc01/*",
+      "position": "Mappe BANDO cap09/11/12",
+      "excerpt": "Decisione",
+      "severity": "medio",
+      "category": "Coerenza metodo",
+      "description": "BANDO rimappato in alcuni capitoli: B Base normativa, A Attori,N Nessi,D Decisioni; cap13FC02 usa D Domande.",
+      "proposal": "Mantenere espansione canonica Bando/Aree/Nuclei/Diario/Output; chiamare diversamente eventuale griglia analitica alternativa.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-047",
+      "scope": "fc02/13",
+      "position": "Mappa BANDO",
+      "excerpt": "Domande",
+      "severity": "medio",
+      "category": "Coerenza metodo",
+      "description": "La D viene usata come Domande anziché Diario.",
+      "proposal": "Riallineare acronimo e distinguere il protocollo di soluzione.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-048",
+      "scope": "fc01/*",
+      "position": "Quiz/simulazioni soprattutto10–14",
+      "excerpt": "Risposta corretta",
+      "severity": "medio",
+      "category": "Verifiche",
+      "description": "Molti distrattori caricaturali e risposta corretta più lunga; concentrazione lettereB/C. Soluzioni inline riducono simulazione autonoma.",
+      "proposal": "Rendere plausibili distrattori e uniformare lunghezze, bilanciare chiavi senza alterare commenti; separare fascicolo prova e correzione.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-049",
+      "scope": "fc03/12",
+      "position": "Otto scenari situazionali",
+      "excerpt": "Dire che non puoi fare nulla",
+      "severity": "medio",
+      "category": "Verifiche",
+      "description": "Chiavi C,B,B,C,B,C,C,C e commenti coerenti, ma alternative troppo evidentemente scorrette.",
+      "proposal": "Inserire condotte plausibili ma incomplete e motivare il confronto; eventuale ranking coerente con bando.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-050",
+      "scope": "fc01/15",
+      "position": "Glossario e apparati",
+      "excerpt": "quattro tabelle",
+      "severity": "lieve",
+      "category": "Apparati",
+      "description": "Conteggio non allineato alle cinque tabelle; rinvio a glossario per competenza/cassa non fornisce le voci; definizione organo da precisare.",
+      "proposal": "Aggiornare conteggi/rinvii e distinguere organo dall’ente cui si imputano gli effetti; fornire soluzione o destinazione per100domande aperte.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-051",
+      "scope": "fc03/13",
+      "position": "Caso Luca riga254",
+      "excerpt": "l'l'INAIL",
+      "severity": "lieve",
+      "category": "Refuso",
+      "description": "Articolo duplicato; venerdi senza accento. Simulazione10scenari non individua banca di provenienza.",
+      "proposal": "Correggere articolo/accento; indicare gli scenari necessari e la destinazione degli ulteriori quesiti.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-052",
+      "scope": "fc02/*",
+      "position": "Correzione di bozze diffusa",
+      "excerpt": "stabilità",
+      "severity": "medio",
+      "category": "Lingua",
+      "description": "Accenti/apostrofi incoerenti e sostituzioni errate: Sara per Sarà(cap03), disciplina/funzione/priorità stabilità, operatore necessità, infiltra offerta(cap09).",
+      "proposal": "Correggere in contesto: stabilita, necessita, sottopone a controlli; uniformare è/può/né/perché/qualità. Nessuna sostituzione globale cieca.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-053",
+      "scope": "fc03/*",
+      "position": "Corpo e appendici E/F",
+      "excerpt": "prima della pubblicazione",
+      "severity": "grave",
+      "category": "Pulizia editoriale",
+      "description": "Source note, wiki, audit, decisioni aperte e istruzioni di redazione sono consegnate al lettore. AppendiceF dice che la scrittura pubblicabile deve ancora decidere il perimetro sociale.",
+      "proposal": "Trasferire backstage nei documenti staff; risolvere perimetro assistente sociale e rendere rinvii leggibili per il candidato.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-054",
+      "scope": "fc02/*",
+      "position": "Corpo cap04/05B/14",
+      "excerpt": "source note",
+      "severity": "grave",
+      "category": "Pulizia editoriale",
+      "description": "Commenti su consolidamento fonti, review e apertura gap editoriali interrompono il libro.",
+      "proposal": "Sostituire con riferimenti bibliografici utili al lettore; conservare le istruzioni di produzione nei soli file interni.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-055",
+      "scope": "fc03/appendice-f",
+      "position": "Simulazione mista dieci minuti",
+      "excerpt": "La seconda propone un inadempimento",
+      "severity": "grave",
+      "category": "Esercizi",
+      "description": "La simulazione descrive che cosa dovrebbe chiedere, senza fornire i fatti né vere domande e soluzioni.",
+      "proposal": "Scrivere cinque tracce autosufficienti e correzioni per materia, con rubriche e tempi.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-056",
+      "scope": "fc03/appendice-c",
+      "position": "Tavola confronto operativo",
+      "excerpt": "ACI richiama mobilità",
+      "severity": "lieve",
+      "category": "Coerenza",
+      "description": "CONI incluso in titolo e prime schede ma omesso nel confronto finale.",
+      "proposal": "Completare riga/periodo CONI mantenendo omogenea la griglia.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    },
+    {
+      "id": "V03-057",
+      "scope": "fc03/appendice-d",
+      "position": "Diario errori documentali",
+      "excerpt": "si eliminano dal diario",
+      "severity": "lieve",
+      "category": "Metodo",
+      "description": "Eliminazione settimanale degli errori non ripetuti perde lo storico e contrasta con verifica in contesto nuovo del cap13.",
+      "proposal": "Archiviare con stato/data/evidenza di recupero; eliminare solo duplicati, non la traccia.",
+      "sourceIds": [],
+      "status": "da correggere; non applicato"
+    }
+  ],
+  "externalSources": {
+    "TU": {
+      "claim": "Decorrenza TU175 al2027; analogo rinvio TU173 e33",
+      "url": "https://www.gazzettaufficiale.it/eli/gu/2026/05/22/117/sg/pdf",
+      "locator": "testo che richiama art4 DL200/2025, comma3",
+      "result": "contraddice cap05B; conferma prudenza2027 in05A"
+    },
+    "ARAN": {
+      "claim": "CCNL FC2025–27 sottoscritto definitivamente6agosto2026",
+      "url": "https://www.aranagenzia.it/documento_pubblico/contratto-collettivo-nazionale-di-lavoro-relativo-al-personale-del-comparto-funzioni-centrali-triennio-2025-2027/",
+      "locator": "incipit e art2",
+      "result": "contraddice capFC03/08 e source note"
+    },
+    "RGS": {
+      "claim": "Residui attivi Stato comprendono riscosso non versato",
+      "url": "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/attivita_istituzionali/formazione_e_gestione_del_bilancio/rendiconto/conto_del_bilancio_e_conto_del_patrimonio/conto_del_bilancio/2017/relazione_illustrativa/Relazione_al_rendiconto_2017.pdf",
+      "locator": "1.5.1",
+      "result": "definizione istituzionale; fonte storica, non certificazione normativa2026"
+    },
+    "CAUTELA": {
+      "claim": "Presupposto danno grave e irreparabile",
+      "url": "https://def.giustiziatributaria.gov.it/DocTribFrontend/getPrassiDetail.do?id=%7BB752EE50-1E07-40B8-BF5B-09EA49FA2B4A%7D",
+      "locator": "1.10 art47",
+      "result": "conferma congiunzione cumulativa; prassi storica"
+    },
+    "CDU": {
+      "claim": "Vigilanza134 e dichiarante5(15)",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A02013R0952-20221212",
+      "locator": "art134 e5",
+      "result": "evidenza disposizioni; HTML protetto da controllo robot"
+    },
+    "DOGANE": {
+      "claim": "Riforma2024 e abrogazioneTULD",
+      "url": "https://www.attuazione.gov.it/it/approfondimenti/riforme-di-rilievo-del-governo/riforme-governo-meloni/riforma-fiscale/dlgs-in-materia-doganale-e-di-accise/",
+      "locator": "sintesi d.lgs141/2024",
+      "result": "confermata necessità chiarimento transizione"
+    },
+    "RETTIFICA": {
+      "claim": "CDU173(3) rettifica dopo svincolo entro3anni",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A62024CJ0889",
+      "locator": "citazione173(3) e par27",
+      "result": "conferma integrazione"
+    },
+    "TURCHIA": {
+      "claim": "A.TR attesta libera circolazione, non origine",
+      "url": "https://def.giustiziatributaria.gov.it/DocTribFrontend/getPrassiDetail.do?id=%7B0020469F-0000-C011-AE69-2E953589C2C8%7D&primoPiano=true",
+      "locator": "prassi2026 UE-Turchia",
+      "result": "caso industriale da correggere"
+    },
+    "DEST": {
+      "claim": "Destinatario registrato non detiene in sospensione",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=21G00198&atto.dataPubblicazioneGazzetta=2021-11-29&tipoDettaglio=multivigenza",
+      "locator": "modifica TUA art8",
+      "result": "indefinitamente improprio"
+    },
+    "EMCS": {
+      "claim": "EMCS include dal2023 movimenti commerciali intraUE ad accisa assolta",
+      "url": "https://www.adm.gov.it/portale/ead-daa",
+      "locator": "descrizione sistema",
+      "result": "glossario parziale"
+    },
+    "ABUSO": {
+      "claim": "Art323 abrogato daL114/2024",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=24G00122&atto.dataPubblicazioneGazzetta=2024-08-10&tipoDettaglio=multivigenza",
+      "locator": "art1comma1letterab",
+      "result": "abuso da qualificare storico"
+    },
+    "INAIL": {
+      "claim": "Causa violenta/occasione lavoro; automaticità anche con premio omesso",
+      "url": "https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/Lavoratore-Dipendente-Industria-Artigianato-Terziario-Altre-Attivita/infortunio-sul-lavoro/aggravamento-del-danno-e-revisione-della-rendita-lavoratore-dipendente/prestazioni-economiche.html",
+      "additionalUrl": "https://www.inail.it/portale/assicurazione/it/Soggetti_tutelati/Lavoratore-Dipendente-Industria-Artigianato-Terziario-Altre-Attivita/infortunio-sul-lavoro/riconoscimento-dell-infortunio-lavoratore-dipendente.html",
+      "locator": "definizione e automaticità",
+      "result": "conferma lacune; eccezioni autonome da insegnare"
+    },
+    "CRI": {
+      "claim": "CRI privata dal1gennaio2016",
+      "url": "https://cri.it/2016/02/23/croce-rossa-ha-cambiato-personalita-giuridica/",
+      "locator": "comunicazione istituzionale",
+      "result": "inclusione fraEPNE da qualificare"
+    },
+    "CCNQ": {
+      "claim": "Perimetri comparti distinti da missione e mansione",
+      "url": "https://www.aranagenzia.it/documento_pubblico/contratto-collettivo-nazionale-quadro-per-la-definizione-dei-comparti-e-delle-aree-di-contrattazione-collettiva-nazionale-2025-2027/",
+      "locator": "art3 e comparto IstruzioneRicerca",
+      "result": "necessario distinguere collocazione editoriale/contrattuale"
+    },
+    "ADER": {
+      "claim": "Fino120mila,84rate per richieste2025–26",
+      "url": "https://www.agenziaentrateriscossione.gov.it/it/il-gruppo/lagenzia-comunica/novita/Rateizzazione-cosa-cambia-dal-1-gennaio-2025/",
+      "locator": "rateizzazione semplice e documentata",
+      "result": "affermazione cap07 confermata"
+    }
+  },
+  "limitations": [
+    "Lettura integrale dei50capitoli inclusi quiz/casi; non certifica esaustività normativa.",
+    "Verifiche web mirate sui claim indicati; alcune fonti storiche o estratti indicizzati.",
+    "PDF, front matter e servizi digitali assegnati al coordinatore.",
+    "Non svolta verifica integrale dei raw normativi né dei manuali esterni richiamati."
+  ]
+}

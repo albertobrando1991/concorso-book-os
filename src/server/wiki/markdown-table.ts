@@ -63,7 +63,7 @@ function normalizeHeader(header: string) {
 
 function tableCells(line: string | undefined) {
   const value = (line ?? "").trim()
-  return value.startsWith("|") && value.endsWith("|") && value.length > 1 ? tokenize(value.slice(1, -1)) : null
+  return value.startsWith("|") && value.endsWith("|") && value.length > 1 ? tokenizeMarkdownTableRow(value.slice(1, -1)) : null
 }
 
 function isSeparator(line: string | undefined) {
@@ -71,7 +71,7 @@ function isSeparator(line: string | undefined) {
   return Boolean(cells?.length && cells.every((cell) => /^:?-{3,}:?$/.test(cell)))
 }
 
-function tokenize(value: string) {
+export function tokenizeMarkdownTableRow(value: string) {
   const cells: string[] = []
   let cell = ""
   let codeDelimiterLength = 0

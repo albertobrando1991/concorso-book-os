@@ -6,7 +6,7 @@ status: approved_for_draft_with_source_review
 domain: "concorsi pubblici italiani"
 topics: ["scuola", "docenti", "metodologie didattiche", "valutazione", "competenze digitali", "progettazione didattica"]
 entities: ["Ministero dell'Istruzione e del Merito"]
-source_refs: ["sources/programmi-concorsi-docenti-dm-205-206-2023", "sources/bandi-rappresentativi-m-ir01-scuola-2023-2025", "sources/fonti-ufficiali-m-ir01-scuola-2026-07-24", "sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu", "sources/strumenti-digitali-metodo-bando", "sources/scienze-apprendimento-pianificazione-metacognizione-errori", "sources/apprendimento-efficace-active-recall-ripasso-distribuito"]
+source_refs: ["sources/programmi-concorsi-docenti-dm-205-206-2023", "sources/bandi-rappresentativi-m-ir01-scuola-2023-2025", "sources/fonti-ufficiali-m-ir01-scuola-2026-07-24", "sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu", "sources/strumenti-digitali-metodo-bando", "sources/scienze-apprendimento-pianificazione-metacognizione-errori", "sources/apprendimento-efficace-active-recall-ripasso-distribuito"]
 book_refs: ["m-ir01-scuola", "vol-06-scuola-universita-ricerca-cultura", "il-metodo-bando"]
 confidence: 0.68
 updated_at: 2026-07-29
@@ -37,7 +37,7 @@ Il capitolo sviluppa la riga docente/educatore della matrice: metodologie, valut
 
 ## Condizione delle fonti
 
-Le source note consolidate consentono di scrivere un nucleo operativo su scelta metodologica, osservazione/verifica, competenze digitali e rapporto strumento-funzione. La fonte [[sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]] aggiunge il perimetro ufficiale minimo su valutazione del primo ciclo, primaria e competenza digitale degli educatori. Restano da controllare, per la procedura scelta, il bando, le Indicazioni nazionali, il segmento scolastico e gli atti applicativi.
+Le source note consolidate consentono di scrivere un nucleo operativo su scelta metodologica, osservazione/verifica, competenze digitali e rapporto strumento-funzione. La fonte [[sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]] aggiunge il perimetro ufficiale minimo su valutazione del primo ciclo, primaria e competenza digitale degli educatori. Restano da controllare, per la procedura scelta, il bando, le Indicazioni nazionali, il segmento scolastico e gli atti applicativi.
 
 Le note su learning science e strumenti digitali sono supporti metodologici/editoriali, non fonti normative. Non autorizzano a presentare una piattaforma, un'app o una tecnica come obbligatoria. [[sources/strumenti-digitali-metodo-bando]] [[sources/scienze-apprendimento-pianificazione-metacognizione-errori]] [[sources/apprendimento-efficace-active-recall-ripasso-distribuito]]
 
@@ -70,7 +70,7 @@ Target: circa 2.500-2.800 parole, con paragrafi brevi e una tabella leggibile ne
 - Programmi concorsuali MIM: [[sources/programmi-concorsi-docenti-dm-205-206-2023]].
 - Ricorrenze e limiti del corpus bandi: [[sources/bandi-rappresentativi-m-ir01-scuola-2023-2025]].
 - Quadro generale M-IR01 e rinvii ai programmi: [[sources/fonti-ufficiali-m-ir01-scuola-2026-07-24]].
-- Valutazione scolastica e competenze digitali: [[sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]].
+- Valutazione scolastica e competenze digitali: [[sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]].
 - Criterio editoriale per digitale e AI come supporto, non sostituto: [[sources/strumenti-digitali-metodo-bando]].
 - Supporto metodologico su pratica, feedback, metacognizione e ripasso: [[sources/scienze-apprendimento-pianificazione-metacognizione-errori]] e [[sources/apprendimento-efficace-active-recall-ripasso-distribuito]].
 - Rinvii controllati: capitolo 11 per osservazione/inclusione; capitolo 13 per progettazione e lezione simulata; VOL-01 per metodo generale.

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "dm217",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2023-12-29;217~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dm217-art3.html",
+    "sha256": "1313d8266da654bb8f0c0276a60af0b39d8ad5063866e592baffea4e7caebd96",
+    "characters": 6130,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  },
+  {
+    "name": "dm44",
+    "article": 13,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2011-02-21;44~art13!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dm44-art13.html",
+    "sha256": "b905544164a76f922c86f587f8810aae2a5f7d7f84636953dadfa6e21bbae4e2",
+    "characters": 2233,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  },
+  {
+    "name": "dm44",
+    "article": "13bis",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2011-02-21;44~art13bis!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dm44-art13bis.html",
+    "sha256": "6db0277fc3f364e64fd82ce13e5cee49e6e6eac1e75d621b12189d617c5459ad",
+    "characters": 1007,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  },
+  {
+    "name": "cpp",
+    "article": "111bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=19&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=111&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art111bis.html",
+    "sha256": "a72c4f7c493a3c45bac1c6b7ab8cc79fb5f1ef423a667e67c73b08d0682e884d",
+    "characters": 978,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  },
+  {
+    "name": "cpp",
+    "article": "175bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=25&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=175&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art175bis.html",
+    "sha256": "39d4f0783ce15ff28ca97cfb2a212044d5859b2d29df42bf65c76929b1570fac",
+    "characters": 1991,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  },
+  {
+    "name": "disp-cpc",
+    "article": "196quater",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=24&art.flagTipoArticolo=1&art.codiceRedazionale=041U1368&art.idArticolo=196&art.idSottoArticolo=4&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-12-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/disp-cpc-art196quater.html",
+    "sha256": "be5e1a34c0289599ff5e93b86096558fca8b436937e7a52e363a970943f3e161",
+    "characters": 1399,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  },
+  {
+    "name": "cad",
+    "article": "6bis",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art6bis!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cad-art6bis.html",
+    "sha256": "bc17487924c79035a9d94822b5524d092794ac91dde1db1cc70786aa324d8d25",
+    "characters": 2529,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  },
+  {
+    "name": "cad",
+    "article": "6ter",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art6ter!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cad-art6ter.html",
+    "sha256": "b56dd6ebf9674cef740db04128da72234c139c00b9d02879d3f2bc6dc96161ad",
+    "characters": 2383,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  },
+  {
+    "name": "cad",
+    "article": "6quater",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art6quater!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cad-art6quater.html",
+    "sha256": "6be15db24c7eb09f97e42f4f135884f82e3a906d4aa90c846d80ec3c1f32c344",
+    "characters": 1823,
+    "readComplete": true,
+    "validExtraction": true,
+    "readScope": "Articolo indicato, testo vigente estratto e identificato; non intero atto normativo."
+  }
+]

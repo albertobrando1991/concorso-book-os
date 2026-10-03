@@ -1,0 +1,938 @@
+{
+  "pdfPages": 687,
+  "schemas": 133,
+  "samePage": 133,
+  "rows": [
+    {
+      "id": "F001",
+      "headingPage": 22,
+      "firstBodyPage": 22,
+      "samePage": true,
+      "anchor": "| Compra materiali prima di leggere il bando | Legge prove, punteggi e requisiti |"
+    },
+    {
+      "id": "F002",
+      "headingPage": 24,
+      "firstBodyPage": 24,
+      "samePage": true,
+      "anchor": "| Bando | Prove, punteggi, requisiti e scadenze: informazioni ufficiali da cui partire |"
+    },
+    {
+      "id": "F003",
+      "headingPage": 26,
+      "firstBodyPage": 26,
+      "samePage": true,
+      "anchor": "| Quiz, anche preselettivo | Risposta corretta entro il tempo, attraverso batterie mirate e simulazioni con diario degli errori |"
+    },
+    {
+      "id": "F004",
+      "headingPage": 27,
+      "firstBodyPage": 27,
+      "samePage": true,
+      "anchor": "| Operatori | Eseguire: istruzioni, procedure essenziali, compiti e comportamento corretto |"
+    },
+    {
+      "id": "F005",
+      "headingPage": 28,
+      "firstBodyPage": 28,
+      "samePage": true,
+      "anchor": "| Istruttore amministrativo comunale | Enti locali e servizi comunali |"
+    },
+    {
+      "id": "F006",
+      "headingPage": 31,
+      "firstBodyPage": 31,
+      "samePage": true,
+      "anchor": "| 1. Manuale generico | 1. Requisiti e scadenze |"
+    },
+    {
+      "id": "F007",
+      "headingPage": 32,
+      "firstBodyPage": 32,
+      "samePage": true,
+      "anchor": "| 1. Ammissibilità: posso partecipare? | Titolo di studio, requisiti specifici, documenti e scadenza. Decidi se entrare nella selezione |"
+    },
+    {
+      "id": "F008",
+      "headingPage": 37,
+      "firstBodyPage": 37,
+      "samePage": true,
+      "anchor": "| Requisiti nella sezione di ammissione | Posso partecipare? |"
+    },
+    {
+      "id": "F009",
+      "headingPage": 39,
+      "firstBodyPage": 39,
+      "samePage": true,
+      "anchor": "| 1. Identità del concorso | Ente e profilo; area, posti e riserve; requisiti e titolo di studio; scadenza, modalità della domanda e documenti; dubbi da verificare. Risponde a «Posso partecipare?» |"
+    },
+    {
+      "id": "F010",
+      "headingPage": 43,
+      "firstBodyPage": 43,
+      "samePage": true,
+      "anchor": "| B — Bando | Capire il concorso reale → Decoder |"
+    },
+    {
+      "id": "F011",
+      "headingPage": 44,
+      "firstBodyPage": 44,
+      "samePage": true,
+      "anchor": "| Materiali disponibili | Manuale, raccolte di quiz, file salvati, gruppi e corsi, appunti: se scollegati producono dispersione |"
+    },
+    {
+      "id": "F012",
+      "headingPage": 45,
+      "firstBodyPage": 45,
+      "samePage": true,
+      "anchor": "| Bando: quale concorso preparo? | Bando Decoder |"
+    },
+    {
+      "id": "F013",
+      "headingPage": 48,
+      "firstBodyPage": 48,
+      "samePage": true,
+      "anchor": "| Lineare | Leggo tutto → ripasso → faccio quiz → preparo l'orale. Rischio: scoprire tardi gli errori |"
+    },
+    {
+      "id": "F014",
+      "headingPage": 49,
+      "firstBodyPage": 49,
+      "samePage": true,
+      "anchor": "| 30 giorni — selezione forte | Nuclei decisivi, simulazioni frequenti, diario quotidiano e orale essenziale |"
+    },
+    {
+      "id": "F015",
+      "headingPage": 53,
+      "firstBodyPage": 53,
+      "samePage": true,
+      "anchor": "| Principi | Eguaglianza, lavoro, autonomia e limiti al potere pubblico |"
+    },
+    {
+      "id": "F016",
+      "headingPage": 56,
+      "firstBodyPage": 56,
+      "samePage": true,
+      "anchor": "| Popolo | Cittadini legati allo Stato dal rapporto di cittadinanza |"
+    },
+    {
+      "id": "F017",
+      "headingPage": 60,
+      "firstBodyPage": 60,
+      "samePage": true,
+      "anchor": "| Costituzionali | Costituzione e leggi costituzionali |"
+    },
+    {
+      "id": "F018",
+      "headingPage": 70,
+      "firstBodyPage": 70,
+      "samePage": true,
+      "anchor": "| 3 | Eguaglianza |"
+    },
+    {
+      "id": "F019",
+      "headingPage": 86,
+      "firstBodyPage": 86,
+      "samePage": true,
+      "anchor": "| 1. Fonti | Costituzione e legge 241/1990 |"
+    },
+    {
+      "id": "F020",
+      "headingPage": 109,
+      "firstBodyPage": 109,
+      "samePage": true,
+      "anchor": "| 1. Avvio | D'ufficio oppure su istanza |"
+    },
+    {
+      "id": "F021",
+      "headingPage": 114,
+      "firstBodyPage": 114,
+      "samePage": true,
+      "anchor": "| Soggetto competente | Chi può adottarlo |"
+    },
+    {
+      "id": "F022",
+      "headingPage": 116,
+      "firstBodyPage": 116,
+      "samePage": true,
+      "anchor": "| Inadempimento | Inerzia quando la PA doveva provvedere |"
+    },
+    {
+      "id": "F023",
+      "headingPage": 117,
+      "firstBodyPage": 117,
+      "samePage": true,
+      "anchor": "| Documentale — legge 241/1990 | Visione o copia di un documento amministrativo, con interesse diretto, concreto e attuale collegato a una situazione giuridicamente tutelata |"
+    },
+    {
+      "id": "F024",
+      "headingPage": 129,
+      "firstBodyPage": 129,
+      "samePage": true,
+      "anchor": "| Accesso | Il concorso risponde al fabbisogno di personale e competenze. |"
+    },
+    {
+      "id": "F025",
+      "headingPage": 133,
+      "firstBodyPage": 133,
+      "samePage": true,
+      "anchor": "| 1 | Fabbisogno | Individuare profili e competenze necessari. |"
+    },
+    {
+      "id": "F026",
+      "headingPage": 135,
+      "firstBodyPage": 135,
+      "samePage": true,
+      "anchor": "**Fatto:** individua il regalo, l'accesso ai dati o il conflitto descritto."
+    },
+    {
+      "id": "F027",
+      "headingPage": 137,
+      "firstBodyPage": 137,
+      "samePage": true,
+      "anchor": "| Disciplinare | Violazione dei doveri di servizio. |"
+    },
+    {
+      "id": "F028",
+      "headingPage": 143,
+      "firstBodyPage": 143,
+      "samePage": true,
+      "anchor": "| Indirizzo politico | Definisce obiettivi, programmi e priorità. |"
+    },
+    {
+      "id": "F029",
+      "headingPage": 163,
+      "firstBodyPage": 163,
+      "samePage": true,
+      "anchor": "| Trasparenza | Conoscibilità dell'azione amministrativa mediante pubblicazione, accesso e controllo diffuso. |"
+    },
+    {
+      "id": "F030",
+      "headingPage": 170,
+      "firstBodyPage": 170,
+      "samePage": true,
+      "anchor": "| Si chiede un documento sulla base di un interesse diretto, concreto e attuale? | **Accesso documentale**, legge 241/1990: verifica l'interesse qualificato, l'oggetto e i limiti propri dell'istituto. |"
+    },
+    {
+      "id": "F031",
+      "headingPage": 171,
+      "firstBodyPage": 171,
+      "samePage": true,
+      "anchor": "Identifica chi chiede e che cosa chiede."
+    },
+    {
+      "id": "F032",
+      "headingPage": 173,
+      "firstBodyPage": 173,
+      "samePage": true,
+      "anchor": "| ANAC e PNA | Indirizzi, vigilanza e priorità operative. |"
+    },
+    {
+      "id": "F033",
+      "headingPage": 180,
+      "firstBodyPage": 180,
+      "samePage": true,
+      "anchor": "| Decisione sul trattamento | Il **titolare**, di norma l'amministrazione, determina finalità e mezzi; i **contitolari** li determinano congiuntamente. |"
+    },
+    {
+      "id": "F034",
+      "headingPage": 189,
+      "firstBodyPage": 189,
+      "samePage": true,
+      "anchor": "| Programmare | Obiettivi, vincoli e documenti di programmazione; negli enti locali, DUP e bilancio. |"
+    },
+    {
+      "id": "F035",
+      "headingPage": 195,
+      "firstBodyPage": 195,
+      "samePage": true,
+      "anchor": "| Competenza | A quale esercizio si imputa l'entrata o la spesa? Considera accertamento e impegno secondo il sistema applicabile. |"
+    },
+    {
+      "id": "F036",
+      "headingPage": 199,
+      "firstBodyPage": 199,
+      "samePage": true,
+      "anchor": "| Controlli interni | Regolarità, gestione, equilibri e performance secondo la disciplina applicabile. |"
+    },
+    {
+      "id": "F037",
+      "headingPage": 203,
+      "firstBodyPage": 203,
+      "samePage": true,
+      "anchor": "| Servizio finanziario | Pareri, visto di copertura, verifica degli equilibri e segnalazioni previste. |"
+    },
+    {
+      "id": "F038",
+      "headingPage": 206,
+      "firstBodyPage": 206,
+      "samePage": true,
+      "anchor": "| Progetto | Obiettivo, CUP, milestone e target. |"
+    },
+    {
+      "id": "F039",
+      "headingPage": 214,
+      "firstBodyPage": 214,
+      "samePage": true,
+      "anchor": "| Fabbisogno | Che cosa serve all'amministrazione e per quale fine? |"
+    },
+    {
+      "id": "F040",
+      "headingPage": 228,
+      "firstBodyPage": 228,
+      "samePage": true,
+      "anchor": "| Bando | Rende conoscibile la procedura. |"
+    },
+    {
+      "id": "F041",
+      "headingPage": 231,
+      "firstBodyPage": 231,
+      "samePage": true,
+      "anchor": "| BDNCP | Banca dati nazionale dei contratti pubblici. |"
+    },
+    {
+      "id": "F042",
+      "headingPage": 234,
+      "firstBodyPage": 234,
+      "samePage": true,
+      "anchor": "| Soggetto | **Consip** opera nel programma di razionalizzazione degli acquisti. |"
+    },
+    {
+      "id": "F043",
+      "headingPage": 243,
+      "firstBodyPage": 243,
+      "samePage": true,
+      "anchor": "| Base tecnica | Hardware, software e dati. |"
+    },
+    {
+      "id": "F044",
+      "headingPage": 247,
+      "firstBodyPage": 247,
+      "samePage": true,
+      "anchor": "| Hardware | Componenti fisiche: CPU, RAM, disco, monitor e dispositivi di rete. |"
+    },
+    {
+      "id": "F045",
+      "headingPage": 257,
+      "firstBodyPage": 257,
+      "samePage": true,
+      "anchor": "| Browser, app o client | Strumento usato dall'utente per accedere al servizio. |"
+    },
+    {
+      "id": "F046",
+      "headingPage": 264,
+      "firstBodyPage": 264,
+      "samePage": true,
+      "anchor": "| Riconoscere le minacce | Phishing, malware ed errore umano. |"
+    },
+    {
+      "id": "F047",
+      "headingPage": 269,
+      "firstBodyPage": 269,
+      "samePage": true,
+      "anchor": "| Identità e accesso | SPID, CIE e CNS. |"
+    },
+    {
+      "id": "F048",
+      "headingPage": 287,
+      "firstBodyPage": 287,
+      "samePage": true,
+      "anchor": "| Bando | Formato, livello richiesto — per esempio A2, B1 o B2 — e peso della prova: idoneità o punteggio. |"
+    },
+    {
+      "id": "F049",
+      "headingPage": 293,
+      "firstBodyPage": 293,
+      "samePage": true,
+      "anchor": "Leggi tutta la frase, non soltanto il vuoto."
+    },
+    {
+      "id": "F050",
+      "headingPage": 294,
+      "firstBodyPage": 294,
+      "samePage": true,
+      "anchor": "| Present simple | Routine e regole: *every day*, *usually*. |"
+    },
+    {
+      "id": "F051",
+      "headingPage": 299,
+      "firstBodyPage": 299,
+      "samePage": true,
+      "anchor": "| *Be* | Esprime uno stato o entra nelle forme progressive e passive: *Is she available? — Yes, she is.* |"
+    },
+    {
+      "id": "F052",
+      "headingPage": 301,
+      "firstBodyPage": 301,
+      "samePage": true,
+      "anchor": "| Tempo | *at 9 a.m.*; *on Monday*; *in 2026*; *by 30 June*. |"
+    },
+    {
+      "id": "F053",
+      "headingPage": 306,
+      "firstBodyPage": 306,
+      "samePage": true,
+      "anchor": "| Reading | Leggi la domanda, cerca date e parole chiave, rispondi usando il testo. | *From Tuesday morning.* |"
+    },
+    {
+      "id": "F054",
+      "headingPage": 317,
+      "firstBodyPage": 317,
+      "samePage": true,
+      "anchor": "| 3 giorni | Tempi e cloze, preposizioni e reading. |"
+    },
+    {
+      "id": "F055",
+      "headingPage": 322,
+      "firstBodyPage": 322,
+      "samePage": true,
+      "anchor": "| Brano | Cerca evidenza nel testo, non un'impressione. |"
+    },
+    {
+      "id": "F056",
+      "headingPage": 324,
+      "firstBodyPage": 324,
+      "samePage": true,
+      "anchor": "| Un brano | Cerca la prova nel testo e verifica le parole assolute. |"
+    },
+    {
+      "id": "F057",
+      "headingPage": 330,
+      "firstBodyPage": 330,
+      "samePage": true,
+      "anchor": "Elenca gli elementi: persone, uffici, giorni o ruoli."
+    },
+    {
+      "id": "F058",
+      "headingPage": 332,
+      "firstBodyPage": 332,
+      "samePage": true,
+      "anchor": "| Dato esplicito | In quale frase è presente? |"
+    },
+    {
+      "id": "F059",
+      "headingPage": 334,
+      "firstBodyPage": 334,
+      "samePage": true,
+      "anchor": "| Percentuale | Su quale base? Da 80 a 100, l'aumento è 20: **20 / 80 = 25%**. |"
+    },
+    {
+      "id": "F060",
+      "headingPage": 340,
+      "firstBodyPage": 340,
+      "samePage": true,
+      "anchor": "| Primo | Quesiti riconoscibili e risposte rapide. |"
+    },
+    {
+      "id": "F061",
+      "headingPage": 355,
+      "firstBodyPage": 355,
+      "samePage": true,
+      "anchor": "| Bando | Prove, soglie, materie e tempi. |"
+    },
+    {
+      "id": "F062",
+      "headingPage": 357,
+      "firstBodyPage": 357,
+      "samePage": true,
+      "anchor": "| Leggi il bando | Prove, materie, punteggi, soglie e scadenze, insieme ai requisiti di partecipazione. |"
+    },
+    {
+      "id": "F063",
+      "headingPage": 360,
+      "firstBodyPage": 360,
+      "samePage": true,
+      "anchor": "Parti dalla data della prova e riserva tempo per **rifinitura**, **consolidamento**, **apprendimento** e **setup**. Nell'esempio di 60 ore della tabella precedente, la distribuzione è verificabile:"
+    },
+    {
+      "id": "F064",
+      "headingPage": 361,
+      "firstBodyPage": 361,
+      "samePage": true,
+      "anchor": "| È pertinente al programma, ricorre negli esercizi, collega materie o serve all'orale. | Per esempio, cinque domande, una risposta breve e l'eventuale errore classificato. |"
+    },
+    {
+      "id": "F065",
+      "headingPage": 362,
+      "firstBodyPage": 362,
+      "samePage": true,
+      "anchor": "Leggi un blocco breve."
+    },
+    {
+      "id": "F066",
+      "headingPage": 364,
+      "firstBodyPage": 364,
+      "samePage": true,
+      "anchor": "| Poca energia | Blocco di 25 minuti, un solo nucleo e un output piccolo. |"
+    },
+    {
+      "id": "F067",
+      "headingPage": 366,
+      "firstBodyPage": 366,
+      "samePage": true,
+      "anchor": "| Classifica l'errore | Lacuna, confusione, lettura, memoria o tempo. |"
+    },
+    {
+      "id": "F068",
+      "headingPage": 371,
+      "firstBodyPage": 371,
+      "samePage": true,
+      "anchor": "| Bando | Quesiti, tempo, soglia e penalità definiscono i vincoli. |"
+    },
+    {
+      "id": "F069",
+      "headingPage": 372,
+      "firstBodyPage": 372,
+      "samePage": true,
+      "anchor": "| Sì, è pubblicata | Copri tutte le domande, spiega le alternative, ripeti errori e risposte incerte. |"
+    },
+    {
+      "id": "F070",
+      "headingPage": 374,
+      "firstBodyPage": 374,
+      "samePage": true,
+      "anchor": "Verifica che la scheda precedente risponda a otto domande: quanti quesiti e di che tipo; quanto tempo; quali materie e pesi; quale punteggio per corretta, errata e omessa; quale soglia e criterio di graduatoria; quale banca dati; modalità digitale o cartacea; possibilità di tornare indietro."
+    },
+    {
+      "id": "F071",
+      "headingPage": 378,
+      "firstBodyPage": 378,
+      "samePage": true,
+      "anchor": "| 1 — Punti rapidi | Rispondi alle domande sicure; segna quelle che non comprendi subito, con calcolo bloccato o troppe riletture. |"
+    },
+    {
+      "id": "F072",
+      "headingPage": 380,
+      "firstBodyPage": 380,
+      "samePage": true,
+      "anchor": "Un **assoluto** — sempre, mai, tutti, nessuno — è davvero sostenuto?"
+    },
+    {
+      "id": "F073",
+      "headingPage": 382,
+      "firstBodyPage": 382,
+      "samePage": true,
+      "anchor": "| Memoria | Flashcard e richiamo. |"
+    },
+    {
+      "id": "F074",
+      "headingPage": 386,
+      "firstBodyPage": 386,
+      "samePage": true,
+      "anchor": "| Bando | Formato, durata, criteri e strumenti ammessi. |"
+    },
+    {
+      "id": "F075",
+      "headingPage": 387,
+      "firstBodyPage": 387,
+      "samePage": true,
+      "anchor": "| Risposta sintetica | Nozione precisa e punti essenziali nello spazio assegnato. |"
+    },
+    {
+      "id": "F076",
+      "headingPage": 389,
+      "firstBodyPage": 389,
+      "samePage": true,
+      "anchor": "| Verbo | Che cosa devo fare? |"
+    },
+    {
+      "id": "F077",
+      "headingPage": 391,
+      "firstBodyPage": 391,
+      "samePage": true,
+      "anchor": "La progressione della tabella precedente parte da **10 righe** — definizione, due punti chiave e chiusura — e passa a **20 righe**, nelle quali sviluppare funzione, elementi ed esempio. Con **30 righe** puoi articolare inquadramento, sviluppo, confronto o caso e conclusione."
+    },
+    {
+      "id": "F078",
+      "headingPage": 392,
+      "firstBodyPage": 392,
+      "samePage": true,
+      "anchor": "| 1 — Fatti | Che cosa accade? |"
+    },
+    {
+      "id": "F079",
+      "headingPage": 399,
+      "firstBodyPage": 399,
+      "samePage": true,
+      "anchor": "| Lettura | Tracce e vincoli. |"
+    },
+    {
+      "id": "F080",
+      "headingPage": 402,
+      "firstBodyPage": 402,
+      "samePage": true,
+      "anchor": "| Bando | Materie, lingua, criteri e soglie. |"
+    },
+    {
+      "id": "F081",
+      "headingPage": 403,
+      "firstBodyPage": 403,
+      "samePage": true,
+      "anchor": "| Perimetro | Materie, profilo specifico e durata, se nota. |"
+    },
+    {
+      "id": "F082",
+      "headingPage": 406,
+      "firstBodyPage": 406,
+      "samePage": true,
+      "anchor": "| «Il tema si inquadra…» | «È una cosa importante…» |"
+    },
+    {
+      "id": "F083",
+      "headingPage": 408,
+      "firstBodyPage": 408,
+      "samePage": true,
+      "anchor": "| Esempio | Un caso semplice e pertinente. |"
+    },
+    {
+      "id": "F084",
+      "headingPage": 410,
+      "firstBodyPage": 410,
+      "samePage": true,
+      "anchor": "| 60 secondi | Definizione ordinata. |"
+    },
+    {
+      "id": "F085",
+      "headingPage": 412,
+      "firstBodyPage": 412,
+      "samePage": true,
+      "anchor": "**Simula** con domanda e timer; **registra** durata e chiarezza; **classifica** il problema; **correggi** con un'azione precisa; torna a **simulare** per verificare il miglioramento."
+    },
+    {
+      "id": "F086",
+      "headingPage": 415,
+      "firstBodyPage": 415,
+      "samePage": true,
+      "anchor": "| Bando | Formato della prova e scenario atteso. |"
+    },
+    {
+      "id": "F087",
+      "headingPage": 417,
+      "firstBodyPage": 417,
+      "samePage": true,
+      "anchor": "| Dettagli descrittivi, richieste implicite, emozioni e dati secondari. | Separare ciò che serve da ciò che distrae. | Fatti essenziali, soggetti, ufficio, procedimento, regola, vincoli e output. |"
+    },
+    {
+      "id": "F088",
+      "headingPage": 417,
+      "firstBodyPage": 417,
+      "samePage": true,
+      "anchor": "| 1 — Richiesta | Che cosa vuole la traccia? |"
+    },
+    {
+      "id": "F089",
+      "headingPage": 420,
+      "firstBodyPage": 420,
+      "samePage": true,
+      "anchor": "| Chi agisce e quando | **Competenza**, **responsabile** dell'istruttoria e **termini**. |"
+    },
+    {
+      "id": "F090",
+      "headingPage": 426,
+      "firstBodyPage": 426,
+      "samePage": true,
+      "anchor": "| Istanza incompleta | Verificare l'integrazione ammissibile e lasciare traccia delle richieste. |"
+    },
+    {
+      "id": "F091",
+      "headingPage": 431,
+      "firstBodyPage": 431,
+      "samePage": true,
+      "anchor": "| Quiz | Scegli l'opzione corretta ed escludi le scorciatoie incompatibili con i vincoli. |"
+    },
+    {
+      "id": "F092",
+      "headingPage": 434,
+      "firstBodyPage": 434,
+      "samePage": true,
+      "anchor": "| Bando | Quesiti previsti, lingua e punteggio. |"
+    },
+    {
+      "id": "F093",
+      "headingPage": 435,
+      "firstBodyPage": 435,
+      "samePage": true,
+      "anchor": "| Capire il contesto pubblico | Comprendere ruolo, regole, dati, problema e cambiamento. |"
+    },
+    {
+      "id": "F094",
+      "headingPage": 438,
+      "firstBodyPage": 438,
+      "samePage": true,
+      "anchor": "| 1 | Legalità e competenza | Scarta l'azione che aggira regole o ruolo. |"
+    },
+    {
+      "id": "F095",
+      "headingPage": 439,
+      "firstBodyPage": 439,
+      "samePage": true,
+      "anchor": "| «Buonista» | Aiuta subito. | Viola canali o protezione dei dati. |"
+    },
+    {
+      "id": "F096",
+      "headingPage": 443,
+      "firstBodyPage": 443,
+      "samePage": true,
+      "anchor": "| Scorretta | Viola regole, protezione dei dati, ruolo o imparzialità. | Scartala. |"
+    },
+    {
+      "id": "F097",
+      "headingPage": 445,
+      "firstBodyPage": 445,
+      "samePage": true,
+      "anchor": "Leggi scenario e ruolo."
+    },
+    {
+      "id": "F098",
+      "headingPage": 448,
+      "firstBodyPage": 448,
+      "samePage": true,
+      "anchor": "| Bando | Quali amministrazione, profilo e prove? |"
+    },
+    {
+      "id": "F099",
+      "headingPage": 450,
+      "firstBodyPage": 450,
+      "samePage": true,
+      "anchor": "| Stesso piano per ogni bando. | Nessun riuso della preparazione. |"
+    },
+    {
+      "id": "F100",
+      "headingPage": 451,
+      "firstBodyPage": 451,
+      "samePage": true,
+      "anchor": "**Chi assume?** Individua ente, settore e lessico."
+    },
+    {
+      "id": "F101",
+      "headingPage": 452,
+      "firstBodyPage": 452,
+      "samePage": true,
+      "anchor": "| Nucleo comune | Amministrativo, pubblico impiego, trasparenza, privacy, informatica, inglese e metodo per quiz, scritto e orale. |"
+    },
+    {
+      "id": "F102",
+      "headingPage": 466,
+      "firstBodyPage": 466,
+      "samePage": true,
+      "anchor": "| Base amministrativa | Amministrativo generale, contabile ed enti locali. |"
+    },
+    {
+      "id": "F103",
+      "headingPage": 468,
+      "firstBodyPage": 468,
+      "samePage": true,
+      "anchor": "| Comune, profilo contabile | Enti locali, bilancio e atti. | Iniziare troppo tardi la contabilità. |"
+    },
+    {
+      "id": "F104",
+      "headingPage": 474,
+      "firstBodyPage": 474,
+      "samePage": true,
+      "anchor": "| Bando | Profilo, prove e peso delle componenti. |"
+    },
+    {
+      "id": "F105",
+      "headingPage": 474,
+      "firstBodyPage": 474,
+      "samePage": true,
+      "anchor": "| Nucleo comune | Amministrativo, pubblico impiego, trasparenza, privacy, digitale, inglese e metodo di prova. |"
+    },
+    {
+      "id": "F106",
+      "headingPage": 475,
+      "firstBodyPage": 475,
+      "samePage": true,
+      "anchor": "Prima di aggiungere materiali, verifica i sette campi della mappa: **profilo** — titolo, mansioni e amministrazione; **famiglia** — contesto concorsuale; **core** — materie riutilizzabili; **modulo** — specificità del ruolo; **prove** — formato, tempo, soglia e penalità; **rischio** — dove puoi perdere punti; **prima cosa** — sessione da svolgere subito."
+    },
+    {
+      "id": "F107",
+      "headingPage": 481,
+      "firstBodyPage": 481,
+      "samePage": true,
+      "anchor": "| Amministrativo generale | Base comune solida. | Restare generici. |"
+    },
+    {
+      "id": "F108",
+      "headingPage": 487,
+      "firstBodyPage": 487,
+      "samePage": true,
+      "anchor": "| Lavoro e previdenza | Glossario specialistico e modulo avviato fin dall'inizio. |"
+    },
+    {
+      "id": "F109",
+      "headingPage": 491,
+      "firstBodyPage": 491,
+      "samePage": true,
+      "anchor": "| Base già pronta | Amministrativo, pubblico impiego, trasparenza e privacy. | Mantieni e verifica con ripassi: «verde» descrive una padronanza da controllare. |"
+    },
+    {
+      "id": "F110",
+      "headingPage": 495,
+      "firstBodyPage": 495,
+      "samePage": true,
+      "anchor": "| Bando | Elenca le differenze rispetto al nucleo comune. |"
+    },
+    {
+      "id": "F111",
+      "headingPage": 497,
+      "firstBodyPage": 497,
+      "samePage": true,
+      "anchor": "| Nucleo comune | Si riusa tra concorsi e si mantiene con richiami e prove. |"
+    },
+    {
+      "id": "F112",
+      "headingPage": 499,
+      "firstBodyPage": 499,
+      "samePage": true,
+      "anchor": "**Esigenza:** identifica la materia, la prova o la competenza richiesta dal bando."
+    },
+    {
+      "id": "F113",
+      "headingPage": 506,
+      "firstBodyPage": 506,
+      "samePage": true,
+      "anchor": "| 1. Famiglia | Il nuovo concorso cambia famiglia o basta aggiornare il percorso attuale? |"
+    },
+    {
+      "id": "F114",
+      "headingPage": 507,
+      "firstBodyPage": 507,
+      "samePage": true,
+      "anchor": "**Verifica se serve un’integrazione.** Per un altro bando della stessa famiglia aggiorna il piano; per una nuova famiglia valuta il relativo modulo."
+    },
+    {
+      "id": "F115",
+      "headingPage": 510,
+      "firstBodyPage": 510,
+      "samePage": true,
+      "anchor": "| Enti locali | Organi, atti e servizi. |"
+    },
+    {
+      "id": "F116",
+      "headingPage": 512,
+      "firstBodyPage": 512,
+      "samePage": true,
+      "anchor": "| Base condivisa | Amministrativo, pubblico impiego, privacy e trasparenza, informatica e inglese; quiz settimanali. |"
+    },
+    {
+      "id": "F117",
+      "headingPage": 516,
+      "firstBodyPage": 516,
+      "samePage": true,
+      "anchor": "**Giorni disponibili:** stabilisci quanto puoi approfondire e quali tagli motivare."
+    },
+    {
+      "id": "F118",
+      "headingPage": 516,
+      "firstBodyPage": 516,
+      "samePage": true,
+      "anchor": "| Bando | Tempo disponibile e prova da sostenere. |"
+    },
+    {
+      "id": "F119",
+      "headingPage": 517,
+      "firstBodyPage": 517,
+      "samePage": true,
+      "anchor": "- Nello **studio nuovo** acquisisci i contenuti essenziali."
+    },
+    {
+      "id": "F120",
+      "headingPage": 522,
+      "firstBodyPage": 522,
+      "samePage": true,
+      "anchor": "| 30 giorni: selezione | Base essenziale, modulo decisivo e simulazioni avviate presto. |"
+    },
+    {
+      "id": "F121",
+      "headingPage": 524,
+      "firstBodyPage": 524,
+      "samePage": true,
+      "anchor": "| 1–2 | Bando e diagnosi: scheda della prova e breve simulazione iniziale. |"
+    },
+    {
+      "id": "F122",
+      "headingPage": 525,
+      "firstBodyPage": 525,
+      "samePage": true,
+      "anchor": "| Lunedì | Base comune → richiamo → 10 domande. |"
+    },
+    {
+      "id": "F123",
+      "headingPage": 533,
+      "firstBodyPage": 533,
+      "samePage": true,
+      "anchor": "| Bando | Collega l’errore alla materia e alla prova previste. |"
+    },
+    {
+      "id": "F124",
+      "headingPage": 537,
+      "firstBodyPage": 537,
+      "samePage": true,
+      "anchor": "**Registra** l’errore subito dopo la prova."
+    },
+    {
+      "id": "F125",
+      "headingPage": 538,
+      "firstBodyPage": 538,
+      "samePage": true,
+      "anchor": "| Fonte e data | Quiz, scritto, orale o caso da cui emerge l’errore. |"
+    },
+    {
+      "id": "F126",
+      "headingPage": 540,
+      "firstBodyPage": 540,
+      "samePage": true,
+      "anchor": "| Quiz | Errori ripetuti, lettura, tempo e risposte corrette ma incerte. |"
+    },
+    {
+      "id": "F127",
+      "headingPage": 542,
+      "firstBodyPage": 542,
+      "samePage": true,
+      "anchor": "| Aumentano gli errori; confondi istituti simili; rispondi bene soltanto subito dopo lo studio. | Sospendi le nuove pagine per un blocco, prepara uno schema comparativo e affronta 20 domande mirate. |"
+    },
+    {
+      "id": "F128",
+      "headingPage": 552,
+      "firstBodyPage": 552,
+      "samePage": true,
+      "anchor": "| Bando | Requisiti, scadenze, domanda e comunicazioni ufficiali. |"
+    },
+    {
+      "id": "F129",
+      "headingPage": 557,
+      "firstBodyPage": 557,
+      "samePage": true,
+      "anchor": "**Scegli:** verifica requisiti, profilo e prove."
+    },
+    {
+      "id": "F130",
+      "headingPage": 562,
+      "firstBodyPage": 562,
+      "samePage": true,
+      "anchor": "| Quiz | Timer, penalità e possibilità di saltare o rivedere le risposte. |"
+    },
+    {
+      "id": "F131",
+      "headingPage": 565,
+      "firstBodyPage": 565,
+      "samePage": true,
+      "anchor": "| −7 | Simulazione e correzione approfondita. |"
+    },
+    {
+      "id": "F132",
+      "headingPage": 567,
+      "firstBodyPage": 567,
+      "samePage": true,
+      "anchor": "| Identità | Documento valido. |"
+    },
+    {
+      "id": "F133",
+      "headingPage": 572,
+      "firstBodyPage": 572,
+      "samePage": true,
+      "anchor": "| Bando | Sede non verificata → controllare convocazione e percorso. |"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "agcom-controversie.pdf",
+    "url": "https://www.agcom.it/sites/default/files/migration/attachment/Allegato%2026-10-2022_0.pdf",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\agcom-controversie.pdf",
+    "sha256": "2e6b8c98790679d0230efbe6a66fd81d89c2f071d182f08c98b4aa7421c6fa83",
+    "characters": 52994,
+    "readComplete": false
+  },
+  {
+    "id": "dsa-regolamento.html",
+    "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/ita",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\dsa-regolamento.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "characters": 0,
+    "readComplete": false
+  },
+  {
+    "id": "dma-regolamento.html",
+    "url": "https://eur-lex.europa.eu/eli/reg/2022/1925/oj/ita",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\dma-regolamento.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "characters": 0,
+    "readComplete": false
+  }
+]

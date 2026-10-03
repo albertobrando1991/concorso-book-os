@@ -1,86 +1,77 @@
-# Audit specialistico conclusivo — M-FC03 Enti pubblici non economici
+# M-FC03 — Audit specialistico conclusivo, step 15, 3 ottobre 2026
 
-## 1. Executive Summary
+## 1. Sintesi editoriale
 
-L'audit specialistico conclusivo ha esaminato integralmente i 19 testi del modulo, la Bibbia, la matrice di copertura e le fonti normative e istituzionali richiamate. Sono stati controllati ordinamento degli enti pubblici non economici, governance, INPS, INAIL, procedimenti, bilancio, PIAO, personale, contratti, bandi, vigilanza e materie integrative.
+Applicati i 22 rilievi del modulo: integrate teoria previdenziale e assicurativa, governance, contabilità, vigilanza e materie INAIL; aggiornato il CCNL; sostituite le verifiche ripetute. I 19 capitoli mantengono contenuti ed esempi legittimi. I 95 nuclei iniziano su sezioni complete e la matrice non attribuisce più sei quiz identici a ciascuna riga.
 
-Il controllo ha corretto i residui editoriali oggettivi: metadati ancora marcati come bozza o soggetti a review, accenti italiani errati, formulazioni contrattuali non aggiornate alla fase negoziale 2025-2027. I testi non espongono soglie, importi o termini mobili come regole permanenti; non contengono box `Dato operativo`. Il bando INAIL/RIPAM 308 è stato riscontrato sul portale inPA, compresa la ripartizione 293 funzionari amministrativi e 15 assistenti sociali.
+## 2. Metodo e copertura
 
-Esito: zero errori gravi o medi aperti, zero rinvii a futura revisione umana, zero claim mobili presentati come definitivi. Il modulo è idoneo al text freeze.
+Baseline: lettura integrale documentata nell'audit VOL-03. La correzione riprende tutti i 19 file e i 22 ID, con riesame dei blocchi modificati, dei 114 nuovi quesiti aperti, dei 19 casi finali, degli otto situazionali e delle cinque tracce miste. Le soluzioni sono dopo la prova. Questo rapporto non attribuisce una nuova lettura integrale a tutte le fonti storiche né sostituisce il controllo del PDF candidato.
 
-## 2. Perimetro e metodo
+## 3. Registro specialistico per ID
 
-- Lettura incrociata di capitoli 01-13 e appendici A-F.
-- Confronto con matrice atomica da 95 nuclei e Bibbia del Modulo.
-- Verifica delle fonti primarie conservate nel corpus e controllo corrente dei portali INPS, INAIL, ARAN e inPA.
-- Seconda scansione indipendente di metadati, accenti, refusi ricorrenti, dati mobili e marcatori di review.
-- Controllo di casi, quiz e risposte modello rispetto alle cautele normative dichiarate.
+| ID | Posizione | Categoria | Gravità | Evidenza consolidata | Correzione applicata | Stato |
+| --- | --- | --- | --- | --- | --- | --- |
+| V03-002 | fc03/08, CCNL; riga 105 | Aggiornamento | grave | «il contratto definitivo di riferimento»: Il testo presenta il 2025–2027 soltanto come ipotesi 9 giugno. Firma definitiva 6 agosto 2026, prima del cut-off dichiarato 22 agosto. Stesso errore nella source note ARAN. | FC03/08: CCNL definitivo del 6 agosto 2026, successione dei contratti e ferie dal 2027. | Verificato e chiuso |
+| V03-014 | fc03/appendice-f, Reati contro PA | Normativa | grave | «Corruzione, concussione, peculato e abuso»: Abuso figura accanto ai reati senza qualificazione storica o chiarimento: induce a studiare l’abrogato art 323 come vigente. | Appendice F: abrogazione art. 323, distinzione dei reati vigenti e art. 314-bis. | Verificato e chiuso |
+| V03-015 | fc 03/*, Verifica e caso ragionato di chiusura di tutti 19 file | Verifiche | bloccante | «individuare fonte, ambito e funzione»: 114 domande finali: sei scheletri con risposte identiche in 19 capitoli; identico caso conclusivo. Non verificano i nuclei dichiarati. Esempio F: obbligazioni e sicurezza sul lavoro sinonimi? | Tutti i 19 capitoli: 114 domande specifiche e 19 casi originali, con soluzioni separate e ragionate. | Verificato e chiuso |
+| V03-016 | fc03/03, Intero capitolo; raccordo glossario B | Copertura | bloccante | «previdenza, servizi e prestazioni»: Manca la teoria specialistica promessa per pensioni, ammortizzatori, invalidità, ISEE, contribuzione. Privacy e sportello occupano il posto di requisiti, istituti e distinzioni. | FC03/03: art. 38, previdenza/assistenza, contribuzione, automaticità, pensioni, NASpI, invalidità, ISEE/DSU e calcoli. | Verificato e chiuso |
+| V03-017 | fc03/04, Infortunio, malattia e prestazioni; anche appendice B | Copertura | bloccante | «Evento dannoso collegato»: Non sono spiegati causa violenta/occasione di lavoro, differenza causale della malattia professionale, prestazioni, premi e automaticità; il glossario non colma il vuoto. | FC03/04: rischio assicurato, causa e occasione di lavoro, in itinere, malattie tabellate/non, premi, prestazioni, danno biologico e limiti automaticità. | Verificato e chiuso |
+| V03-018 | fc03/appendice-a, Poteri, verbale, contraddittorio; confronto appendice E | Copertura | bloccante | «non deve memorizzare un catalogo indistinto di poteri»: Appendice prevalentemente metodologica: poteri, atti, diffide, rimedi e competenze non insegnati. Appendice E afferma che basta per il profilo vigilanza. | Appendice A: competenze, accesso, verbali, due diffide, conciliazione, recuperi, tutele e aggiornamento 2024. | Verificato e chiuso |
+| V03-019 | fc03/02, Organi, indirizzo e gestione | Copertura | grave | «organi»: L’ordinamento INPS/INAIL è ridotto a categorie; non insegna denominazione/competenze degli organi e vigilanza ministeriale. | FC03/02: Presidente, CdA, CIV, DG, Collegio dei sindaci e vigilanza ministeriale. | Verificato e chiuso |
+| V03-020 | fc03/06, Bilancio, patrimonio e controlli | Copertura | grave | «Bilancio dell’ente»: Nessuno sviluppo sufficiente degli strumenti contabili propri degli EPNE, delle fonti dedicate e delle competenze di adozione/approvazione. | FC03/06: DPR 97/2003, d.lgs. 91/2011, regolamenti, documenti preventivi/consuntivi, competenze e calcoli. | Verificato e chiuso |
+| V03-021 | fc03/appendice-f, Civile, processo civile, finanze, sicurezza | Copertura | grave | «Elencarli non basta»: Il testo stesso afferma che elencare soggetti non basta, ma non attribuisce obblighi. Distinzioni civilistiche e tributarie spesso solo nominate; processo previdenziale assente. | Appendice F: responsabilità e patologie civilistiche, rito lavoro/previdenza, ATP, obblighi 81/2008 e finanze con casi. | Verificato e chiuso |
+| V03-022 | fc03/appendice-b, Voci premio e danno biologico | Glossario | grave | «Concetto richiamato nel sistema INAIL»: Danno biologico non definito; premio descritto come termine legato al finanziamento. Il lettore non può imparare le due nozioni. | Appendice B: definizioni sostanziali di premio e danno biologico, soglie e rinvio al caso INAIL. | Verificato e chiuso |
+| V03-023 | fc03/appendice-b, Coppie da non confondere; domanda commissario | Concetti | medio | «Chiamare tutto genericamente "previdenza"»: Contrapposizione INPS-previdenza/INAIL-assicurazione rischia di escludere INAIL dalla previdenza sociale. Prestazione non diritto automatico è ambiguo. | Appendice B: INAIL nel sistema previdenziale; automaticità distinta dall’assenza di istruttoria. | Verificato e chiuso |
+| V03-024 | fc03/appendice-c, Schede CRI, ISTAT, ENEA, ASI; ricorrenze 01/10/12 | Perimetro | grave | «natura giuridica»: La prudenza su CRI non comunica il dato giuridico essenziale. Gli enti di ricerca possono essere editorialmente affini, ma il personale amministrativo non diventa per questo Funzioni Centrali. | Capitoli 01/10/12 e appendice C: CRI privata dal 2016; comparto Istruzione e Ricerca degli EPR anche amministrativi. | Verificato e chiuso |
+| V03-025 | fc 03/*, Titoli N-FC03-xx e sottotitoli | Struttura | grave | «Applicazione al profilo»: Segmentazione meccanica interrompe sottotitolo e paragrafo, domanda e soluzione: es.12 quiz 7, 10 Da sapere 5 righe, 11 caso 7. Le sezioni non corrispondono ai concetti della matrice. | Tutti i capitoli: 95 nuclei ricollocati a confini semantici, titoli specifici e matrice riconciliata senza moltiplicare i quiz. | Verificato e chiuso |
+| V03-026 | fc03/appendice-e, Quando un rinvio è sufficiente; tabella moduli | Rinvii | grave | «volume, capitolo e paragrafo»: Il testo prescrive rinvii precisi ma offre prevalentemente codici di modulo, senza destinazione per materia. Le promesse di sufficienza non sono comprovate. | Appendice E: destinazioni esistenti per volume/capitolo/sezione, copertura e limiti espliciti; rinvio ispettivo e procurement ridimensionati. | Verificato e chiuso |
+| V03-041 | fc03/11, Casi 1/3 e mini-atto | Applicazione | medio | «documento mancante»: Richiesta integrazione all’utente senza previo controllo acquisizione d’ufficio; mini-atto non specifica documento/termine perché traccia non li fornisce. | FC03/11: acquisizione d’ufficio, caso residenza e caso P-18 con documento, data e canale autosufficienti. | Verificato e chiuso |
+| V03-042 | fc03/12, Riservatezza; conflitto interessi | Coerenza | medio | «non possono essere comunicati per telefono»: Divieto assoluto sul mezzo contraddice corretta verifica identità/titolo/canale negli scenari successivi; astensione enunciata ma non resa operativa. | FC03/12: canale telefonico autorizzato e verificato, astensione nei casi dovuti. | Verificato e chiuso |
+| V03-049 | fc03/12, Otto scenari situazionali | Verifiche | medio | «Dire che non puoi fare nulla»: Chiavi C, B, B, C, B, C, C, C e commenti coerenti, ma alternative troppo evidentemente scorrette. | FC03/12: otto situazionali con alternative plausibili, chiavi A/B/C/D bilanciate e commenti coerenti. | Verificato e chiuso |
+| V03-051 | fc03/13, Caso Luca riga 254 | Refuso | lieve | «l'l'INAIL»: Articolo duplicato; venerdi senza accento. Simulazione 10 scenari non individua banca di provenienza. | FC03/13: articolo duplicato e accento corretti; origine dei dieci scenari esplicitata. | Verificato e chiuso |
+| V03-053 | fc 03/*, Corpo e appendici E/F | Pulizia editoriale | grave | «prima della pubblicazione»: Source note, wiki, audit, decisioni aperte e istruzioni di redazione sono consegnate al lettore. AppendiceF dice che la scrittura pubblicabile deve ancora decidere il perimetro sociale. | Corpo dei 19 capitoli: rimossi riferimenti staff, fonti nominate per il lettore; perimetro sociale esplicitamente definito. | Verificato e chiuso |
+| V03-055 | fc03/appendice-f, Simulazione mista dieci minuti | Esercizi | grave | «La seconda propone un inadempimento»: La simulazione descrive che cosa dovrebbe chiedere, senza fornire i fatti né vere domande e soluzioni. | Appendice F: cinque tracce complete, soluzioni applicate, tempi e rubrica 10 punti. | Verificato e chiuso |
+| V03-056 | fc03/appendice-c, Tavola confronto operativo | Coerenza | lieve | «ACI richiama mobilità»: CONI incluso in titolo e prime schede ma omesso nel confronto finale. | Appendice C: CONI nel confronto operativo finale. | Verificato e chiuso |
+| V03-057 | fc03/appendice-d, Diario errori documentali | Metodo | lieve | «si eliminano dal diario»: Eliminazione settimanale degli errori non ripetuti perde lo storico e contrasta con verifica in contesto nuovo del cap 13. | Appendice D: recupero documentato e archivio degli errori, cancellazione dei soli duplicati. | Verificato e chiuso |
 
-## 3. Registro delle evidenze e delle correzioni
+## 4. Fonti ed evidenze
 
-| ID | File e posizione | Categoria | Gravità | Evidenza consolidata | Correzione applicata | Stato finale |
-|---|---|---|---|---|---|---|
-| S15-01 | cap. 01-02; quadro EPNE | Ordinamento | Importante | L. 70/1975 e D.Lgs. 479/1994; distinzione tra disciplina generale, statuto e atti del singolo ente | Conservata formulazione per principi, senza organigrammi o competenze mobili presentati come universali | Risolto |
-| S15-02 | cap. 03; INPS | Definizione istituzionale | Importante | Portale INPS, pagina “L'Istituto”, aggiornata l'8 aprile 2026; corpus previdenziale primario | Verificata la distinzione tra previdenza, protezione sociale, servizi, prestazioni e istruttoria; nessun importo mobile nel testo | Verificato |
-| S15-03 | cap. 04; INAIL | Definizione istituzionale | Importante | Portale INAIL “Chi siamo”; D.P.R. 1124/1965, D.Lgs. 38/2000 e D.Lgs. 81/2008 | Confermato il sistema integrato assicurazione-prevenzione-prestazioni-riabilitazione-reinserimento | Verificato |
-| S15-04 | cap. 05 | Procedimento e dati | Importante | L. 241/1990, CAD, GDPR e D.Lgs. 196/2003 nel corpus consolidato | Casi mantenuti su istruttoria, motivazione, legittimazione, minimizzazione e canali ufficiali, senza automatismi decisori | Verificato |
-| S15-05 | cap. 06 | Bilancio e controlli | Migliorabile | Normativa generale di contabilità pubblica e atti istituzionali degli enti | Distinti programmazione, gestione, rendicontazione, patrimonio e livelli di controllo; evitati schemi contabili mobili non verificati | Verificato |
-| S15-06 | cap. 07 | PIAO e performance | Importante | D.L. 80/2021, D.P.R. 81/2022, D.M. 132/2022, D.Lgs. 150/2009 e linee guida DFP 2025 | PIAO descritto per funzioni e collegamenti; dati annuali degli enti esclusi dal corpo stabile | Verificato |
-| S15-07 | cap. 08 | CCNL Funzioni Centrali | Importante | ARAN: CCNL Comparto 2022-2024 definitivo il 27 gennaio 2025; ipotesi 2025-2027 sottoscritta il 9 giugno 2026 | Inserita distinzione esplicita tra contratto definitivo e ipotesi negoziale; vietata l'assimilazione automatica | Risolto |
-| S15-08 | cap. 09 | Contratti pubblici | Importante | D.Lgs. 36/2023 vigente e fonti ANAC; nessuna soglia numerica esposta | Verificata la sequenza fabbisogno-decisione-affidamento-esecuzione-controllo; affidamento diretto non presentato come scelta arbitraria | Verificato |
-| S15-09 | cap. 10; app. D-F | Bando INAIL/RIPAM | Importante | inPA, concorso INAIL 308 del 12 luglio 2024: 293 amministrativi e 15 assistenti sociali; procedura chiusa con aggiornamenti fino al 24 luglio 2026 | Confermata natura di caso storico e ripartizione; materie integrative separate dal nucleo stabile | Verificato |
-| S15-10 | app. A | Vigilanza | Importante | D.Lgs. 124/2004, L. 689/1981, D.Lgs. 758/1994 e bando 448 ispettori INPS-INAIL | Mantenuta separazione tra programmazione, accesso, istruttoria, verbalizzazione, diffida, prescrizione e contenzioso | Verificato |
-| S15-11 | app. C | Enti di orientamento | Importante | Pagine istituzionali di ACI, ENAC, ISTAT, ENEA, ASI, CONI e CRI consolidate nel corpus | Schede limitate all'orientamento; CRI non trattata automaticamente come EPNE ordinario; profili tecnici rinviati per competenza | Verificato |
-| S15-12 | 19 frontmatter | Metadati | Importante | Stato reale dopo step 08-15 | Impostati `status: final`, `review_required: false`, `draft_stage: specialist_audit_done`, tag e data di aggiornamento coerenti | Risolto |
-| S15-13 | 19 testi | Ortografia | Importante | Scansione mirata su accenti acuti/gravi e parole tronche | Corretti `perché`, `né`, `più`, `già`, `ciò` e i sostantivi in `-ità`; seconda scansione senza residui bersaglio | Risolto |
-| S15-14 | intero modulo | Dati operativi | Critico | Il contratto dello step non rileva box `Dato operativo`; scansione dei capitoli confermata | Nessuna riga mobile priva di fonte, ambito, versione o data da correggere | Non applicabile — chiuso |
+Riscontri puntuali: art. 38 Cost.; art. 2116 c.c.; legge 222/1984 e schede INPS pensioni/NASpI/ISEE; DPR 1124/1965 e d.lgs. 38/2000 con schede INAIL; d.lgs. 124/2004 e circolare INL 6/2020; DPR 97/2003 e bilancio INPS 2026; CCNQ 28 ottobre 2025 e CCNL definitivo 6 agosto 2026; legge 114/2024, art. 314-bis c.p. e art. 445-bis c.p.c. I relativi URL e passaggi sono nella fonte consolidata. Il riesame ha aggiunto l’eccezione del velocipede e la regola sugli ordini vietati penalmente o costituenti illecito amministrativo. Nessun box Dato operativo rilevato dal contratto CLI.
 
-## 3.1 Tabella errori del template fisso
+Nuova nota `epne-previdenza-assicurazione-rettifiche-2026-10-03.md` e topic collegato, con URL ufficiali INPS, INAIL, INL, ARAN, Normattiva, Gazzetta Ufficiale, Senato e CRI. Tre PDF acquisiti con hash: CCNQ 2025–2027, circolare INL 6/2020, preventivo INPS 2026. I documenti sono letti per i passaggi pertinenti; le tavole economiche del preventivo non sono oggetto di audit integrale. Rettifiche delle tre note storiche collegate, conservate per tracciabilità; testo definitivo CCNL già consolidato nella fonte ARAN condivisa.
 
-| ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-|---|---|---|---|---|---|---|
-| ERR-01 | Frontmatter dei 19 testi | Metadati | Importante | Stato bozza e richiesta di review non coerenti con il ciclo concluso | Allineare stato, fase, tag e data all'audit specialistico concluso | Corretto |
-| ERR-02 | Intero modulo | Ortografia | Importante | Accenti acuti/gravi errati e sostantivi tronchi riducevano la qualità professionale | Normalizzare le forme italiane e ripetere la scansione indipendente | Corretto |
-| ERR-03 | Capitolo 08, sezione CCNL | Aggiornamento normativo | Importante | Il testo non distingueva il CCNL definitivo 2022-2024 dall'ipotesi 2025-2027 | Inserire stato e date delle due fonti ARAN, vietando l'assimilazione | Corretto |
-| ERR-04 | Capitolo 10 e Appendice F | Fact-checking | Importante | Il campione INAIL/RIPAM 308 richiedeva riscontro corrente su fonte primaria | Verificare inPA, ripartizione dei posti, natura storica e stato procedura | Corretto |
-| ERR-05 | Intero modulo | Dati mobili | Critico | Eventuali soglie o importi senza data avrebbero reso il testo instabile | Escludere dati mobili non necessari e verificare l'assenza di box `Dato operativo` | Corretto |
+## 5. Coerenza e autonomia
 
-## 4. Verifica di casi, quiz e definizioni
+La previdenza comprende anche l'assicurazione INAIL; automaticità e istruttoria sono compatibili. CRI non è presentata come EPNE ordinario e gli enti di ricerca non diventano Funzioni Centrali per le mansioni amministrative. Vigilanza, servizio sociale e procurement riportano il limite del percorso e le integrazioni necessarie; le destinazioni della collana hanno volume, capitolo e sezione esistenti. Il caso P-18 identifica i dati didattici senza trasformarli in termini generali dell'ente.
 
-- I casi non promettono esiti amministrativi senza istruttoria e non sostituiscono il bando o la fonte applicabile.
-- I quiz valutano distinzioni stabili; non richiedono soglie economiche, importi previdenziali o termini annuali non consolidati.
-- Le definizioni tecniche sono proporzionate al pubblico concorsuale e distinguono correttamente ente, funzione, prestazione, procedimento, controllo e profilo.
-- Le materie dell'Appendice F sono trattate come mappa integrativa del bando 308, non come compendio esaustivo.
+## 6. Verifiche
 
-## 5. Coerenza globale
+I 19 gate di copertura e densità sono passati senza blocchi né warning dopo il riallineamento semantico. Ultima ripetizione sul testo corrente: 19/19 gate passati senza avvisi. Zero destinazioni o ancore irrisolte nel corpo; cinque destinazioni esterne al modulo censite nell'artefatto dedicato. Verificati calcoli ISEE, durata NASpI, cassa/residui, tassi di errore e costo medio; otto situazionali con due chiavi per ciascuna lettera, senza commenti rimappati per errore. Le sei domande aperte finali per capitolo hanno risposte specifiche e non richiedono una falsa distribuzione di lettere.
 
-- Terminologia: coerente tra indice, Bibbia, capitoli e appendici.
-- Struttura: 19 testi numerati logicamente 01-19, con appendici dichiarate 14-19 nella scheda di volume.
-- Promessa editoriale: mantenuta; il modulo specializza il nucleo comune senza duplicarlo.
-- Riferimenti incrociati: coerenti e non dipendenti da note redazionali nel corpo destinato al lettore.
-- Voce autoriale: preservata; gli interventi linguistici sono minimi e non appiattiscono il tono operativo.
+## 7. Suggerimenti facoltativi
 
-## 6. Contenuto da verificare
+Nessun suggerimento opzionale è assunto come correzione obbligatoria. Eventuali accorpamenti di schede saranno valutati soltanto sull'export, senza rimuovere contenuto teorico o soluzioni.
 
-Nessuna voce residua per questo text freeze. I futuri aggiornamenti di importi, soglie, circolari, PIAO, CCNL o bandi costituiscono manutenzione ordinaria di una nuova edizione e non un difetto aperto dell'edizione congelata.
+## 8. Priorità
 
-## 7. Errori individuati nel secondo controllo
+Riesame specialistico concluso: nessun errore grave o medio noto resta aperto nel testo. Procedere al freeze 16 con manifest e controlli manuali quando il gate non è implementato; quindi figura, PDF candidato e preflight di volume. Le verifiche di testo non anticipano l'esito degli ultimi passaggi.
 
-Il secondo controllo ha individuato e chiuso:
+## 9. Giudizio
 
-1. marcatori `review_required: true` e stato bozza nei frontmatter;
-2. accenti errati o mancanti, compresi `perchè`, `nè`, `piu`, `gia`, `cio` e sostantivi in `-ità`;
-3. assenza della distinzione temporale tra CCNL definitivo 2022-2024 e ipotesi 2025-2027;
-4. tag editoriali non coerenti con l'audit concluso.
+I 22 rilievi risultano corretti nel manoscritto corrente, con copertura circoscritta alle promesse esplicite. Il testo è idoneo al congelamento nel perimetro dei rilievi riesaminati. Il modulo non è ancora dichiarato pubblicabile: occorrono i controlli sull'esportazione aggiornata e il completamento della pipeline del volume.
 
-Dopo le correzioni, la scansione non rileva residui delle forme bersaglio né marcatori di revisione aperta nei capitoli.
+## 10. Limiti
 
-## 8. Giudizio di pubblicabilità
+Norme e dati verificati al 3 ottobre 2026 per i claim pertinenti; esempi numerici e calendari didattici identificati come tali. Nessuna promessa di esaustività rispetto a ogni bando ispettivo o professione sociale. Nessuna approvazione delle figure preesistenti o delle pagine PDF non ancora rigenerate dopo questi interventi.
 
-**A — PRONTO PER LA PUBBLICAZIONE.**
 
-Il modulo è completo, autonomo, coerente con le fonti consolidate e privo di errori specialistici gravi o medi aperti. Può passare al text freeze e alle fasi di composizione senza revisione contenutistica umana aggiuntiva.
+### Delta di produzione P03-08 — 3 ottobre 2026
 
-## 9. Limiti dichiarati
+Corrette le cinque destinazioni nella tabella dell'Appendice E: ICT è VOL-08, appalti VOL-09 e authority VOL-05. Per ricerca e fisco eliminati i numeri locali presentati come numeri del volume: indicati modulo, titolo effettivo e sezione. Il catalogo canonico `src/catalog/text-volumes.ts` e l'architettura del wiki confermano l'associazione; i capitoli e le sezioni esistono. Tutto il restante corpo, quiz e soluzioni è invariato. Evidenza differenziale e hash: `VOL-03-P03-08.json`. Nessuna modifica normativa né nuova promessa di copertura; la verifica tipografica resta separata.
 
-L'audit certifica il testo e le fonti alla data del 22 agosto 2026. Nessun manuale può rendere permanenti bandi, importi, soglie, circolari o contratti futuri: tali elementi sono stati esclusi dal corpo stabile oppure qualificati temporalmente.
+| ID | File | Intervento | Evidenza | Stato |
+|---|---|---|---|---|
+| P03-08 | FC03 appendice E, Destinazioni disponibili | Cinque rimandi riallineati a codice volume, modulo e titolo | Catalogo canonico, file di destinazione e sezioni | Corretto e verificato nel master |
+
+Riesame conclusivo: nessun claim normativo cambiato; associazioni catalogo-modulo e titoli verificati nei file di destinazione. Tutti gli altri contenuti specialistici e gli esercizi conservano il precedente audit. Zero errori gravi o medi aperti nel delta.

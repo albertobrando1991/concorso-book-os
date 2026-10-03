@@ -1,0 +1,288 @@
+{
+  "C05-01": [
+    {
+      "id": "C05-01",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-05.md",
+      "sourceSha256": "f719a51b957c8da4e84e114d3f81904e9f02179b12fdb30d0931fff8a3f4811f",
+      "line": 27,
+      "raw": "| C05-01 | Front matter, pp. 1–4 | Dipendenza comune | grave | Promessa di servizi digitali non verificata; colophon commerciale incompleto; descrizione «modulo premium per target ristretto». | Consolidare offerta e dati editoriali; sostituire la descrizione interna; proiettare i preliminari corretti e ricontrollare. | Aperto; coordinamento comune |",
+      "columns": {
+        "ID": "C05-01",
+        "Posizione": "Front matter, pp. 1–4",
+        "Categoria": "Dipendenza comune",
+        "Gravità": "grave",
+        "Descrizione": "Promessa di servizi digitali non verificata; colophon commerciale incompleto; descrizione «modulo premium per target ristretto».",
+        "Correzione proposta": "Consolidare offerta e dati editoriali; sostituire la descrizione interna; proiettare i preliminari corretti e ricontrollare.",
+        "Stato": "Aperto; coordinamento comune"
+      },
+      "status": "Aperto; coordinamento comune",
+      "intervention": "Consolidare offerta e dati editoriali; sostituire la descrizione interna; proiettare i preliminari corretti e ricontrollare.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "FM06-01": [
+    {
+      "id": "FM06-01",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-06.md",
+      "sourceSha256": "a3bd7724b1f1bca8b05b47c7aa63b0362650cbf5b2ce0cfa09187865d24b3e65",
+      "line": 55,
+      "raw": "| FM06-01 | p. 1 | Promessa editoriale | grave | La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione. | Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa. | pendente |",
+      "columns": {
+        "ID": "FM06-01",
+        "Posizione": "p. 1",
+        "Categoria": "Promessa editoriale",
+        "Gravità": "grave",
+        "Descrizione": "La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione.",
+        "Correzione proposta": "Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa.",
+        "Stato": "pendente"
+      },
+      "status": "pendente",
+      "intervention": "Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "FM06-02": [
+    {
+      "id": "FM06-02",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-06.md",
+      "sourceSha256": "a3bd7724b1f1bca8b05b47c7aa63b0362650cbf5b2ce0cfa09187865d24b3e65",
+      "line": 56,
+      "raw": "| FM06-02 | p. 3 | Dati editoriali | media | Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione. | Completare i dati effettivi prima della pubblicazione. | pendente |",
+      "columns": {
+        "ID": "FM06-02",
+        "Posizione": "p. 3",
+        "Categoria": "Dati editoriali",
+        "Gravità": "media",
+        "Descrizione": "Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione.",
+        "Correzione proposta": "Completare i dati effettivi prima della pubblicazione.",
+        "Stato": "pendente"
+      },
+      "status": "pendente",
+      "intervention": "Completare i dati effettivi prima della pubblicazione.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "FM07-01": [
+    {
+      "id": "FM07-01",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-07.md",
+      "sourceSha256": "263bba0e005b70785b3771a03e78cd9b393f80edd8ce0006218c9eb57bfcb7a1",
+      "line": 56,
+      "raw": "| FM07-01 | p. 1 | Promessa editoriale | grave | La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione. | Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa. | pendente |",
+      "columns": {
+        "ID": "FM07-01",
+        "Posizione": "p. 1",
+        "Categoria": "Promessa editoriale",
+        "Gravità": "grave",
+        "Descrizione": "La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione.",
+        "Correzione proposta": "Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa.",
+        "Stato": "pendente"
+      },
+      "status": "pendente",
+      "intervention": "Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "FM07-02": [
+    {
+      "id": "FM07-02",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-07.md",
+      "sourceSha256": "263bba0e005b70785b3771a03e78cd9b393f80edd8ce0006218c9eb57bfcb7a1",
+      "line": 57,
+      "raw": "| FM07-02 | p. 3 | Dati editoriali | media | Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione. | Completare i dati effettivi prima della pubblicazione. | pendente |",
+      "columns": {
+        "ID": "FM07-02",
+        "Posizione": "p. 3",
+        "Categoria": "Dati editoriali",
+        "Gravità": "media",
+        "Descrizione": "Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione.",
+        "Correzione proposta": "Completare i dati effettivi prima della pubblicazione.",
+        "Stato": "pendente"
+      },
+      "status": "pendente",
+      "intervention": "Completare i dati effettivi prima della pubblicazione.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "FM12-01": [
+    {
+      "id": "FM12-01",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-12.md",
+      "sourceSha256": "b00c74f635a8baba8cfa838ab31cc63219220f24163fb74b07c5363d6149469b",
+      "line": 58,
+      "raw": "| FM12-01 | p. 1 | Promessa editoriale | grave | La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione. | Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa. | pendente |",
+      "columns": {
+        "ID": "FM12-01",
+        "Posizione": "p. 1",
+        "Categoria": "Promessa editoriale",
+        "Gravità": "grave",
+        "Descrizione": "La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione.",
+        "Correzione proposta": "Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa.",
+        "Stato": "pendente"
+      },
+      "status": "pendente",
+      "intervention": "Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "FM12-02": [
+    {
+      "id": "FM12-02",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-12.md",
+      "sourceSha256": "b00c74f635a8baba8cfa838ab31cc63219220f24163fb74b07c5363d6149469b",
+      "line": 59,
+      "raw": "| FM12-02 | p. 3 | Dati editoriali | media | Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione. | Completare i dati effettivi prima della pubblicazione. | pendente |",
+      "columns": {
+        "ID": "FM12-02",
+        "Posizione": "p. 3",
+        "Categoria": "Dati editoriali",
+        "Gravità": "media",
+        "Descrizione": "Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione.",
+        "Correzione proposta": "Completare i dati effettivi prima della pubblicazione.",
+        "Stato": "pendente"
+      },
+      "status": "pendente",
+      "intervention": "Completare i dati effettivi prima della pubblicazione.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "P03-08": [
+    {
+      "id": "P03-08",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-03.md",
+      "sourceSha256": "0b250d3dcc91de01a9d756586c5cc10ae654698b43db7f52209b3c05e246c165",
+      "line": 24,
+      "raw": "| P03-08 | FC03 appendice E, §49.3 | Rinvii errati | medio | Cybersecurity, Consip e authority indicavano altri volumi; capitoli locali ambigui. | Master corretto: VOL-08, VOL-09, VOL-05; ricerca e fisco rinviati al modulo e titolo effettivi. Gate 14/15/16 rieseguiti. | Corretto e verificato |",
+      "columns": {
+        "ID": "P03-08",
+        "Posizione": "FC03 appendice E, §49.3",
+        "Categoria": "Rinvii errati",
+        "Gravità": "medio",
+        "Descrizione": "Cybersecurity, Consip e authority indicavano altri volumi; capitoli locali ambigui.",
+        "Correzione proposta": "Master corretto: VOL-08, VOL-09, VOL-05; ricerca e fisco rinviati al modulo e titolo effettivi. Gate 14/15/16 rieseguiti.",
+        "Stato": "Corretto e verificato"
+      },
+      "status": "Corretto e verificato",
+      "intervention": "Master corretto: VOL-08, VOL-09, VOL-05; ricerca e fisco rinviati al modulo e titolo effettivi. Gate 14/15/16 rieseguiti.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "P05-24": [
+    {
+      "id": "P05-24",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-05.md",
+      "sourceSha256": "f719a51b957c8da4e84e114d3f81904e9f02179b12fdb30d0931fff8a3f4811f",
+      "line": 25,
+      "raw": "| P05-24 | Bibliografie dei capitoli 1–14 | Composizione | media | 20 link esterni stampati con sintassi Markdown. | Titolo e dominio nella proiezione; URL completi nei master e manifest. | Risolto e verificato |",
+      "columns": {
+        "ID": "P05-24",
+        "Posizione": "Bibliografie dei capitoli 1–14",
+        "Categoria": "Composizione",
+        "Gravità": "media",
+        "Descrizione": "20 link esterni stampati con sintassi Markdown.",
+        "Correzione proposta": "Titolo e dominio nella proiezione; URL completi nei master e manifest.",
+        "Stato": "Risolto e verificato"
+      },
+      "status": "Risolto e verificato",
+      "intervention": "Titolo e dominio nella proiezione; URL completi nei master e manifest.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "P05-25": [
+    {
+      "id": "P05-25",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-05.md",
+      "sourceSha256": "f719a51b957c8da4e84e114d3f81904e9f02179b12fdb30d0931fff8a3f4811f",
+      "line": 26,
+      "raw": "| P05-25 | Capitolo 2, pp. 35–39; capitolo 14, pp. 219–220 | Riflusso | media | Grande vuoto prima del nucleo 2.4 e bibliografia isolata in chiusura ANAC. | Sottotitolo breve nel capoverso; bibliografia ANAC prima del caso. Tutte le parole conservate; bianchi finali di chiusura restano ammessi. | Risolto nel perimetro dichiarato |",
+      "columns": {
+        "ID": "P05-25",
+        "Posizione": "Capitolo 2, pp. 35–39; capitolo 14, pp. 219–220",
+        "Categoria": "Riflusso",
+        "Gravità": "media",
+        "Descrizione": "Grande vuoto prima del nucleo 2.4 e bibliografia isolata in chiusura ANAC.",
+        "Correzione proposta": "Sottotitolo breve nel capoverso; bibliografia ANAC prima del caso. Tutte le parole conservate; bianchi finali di chiusura restano ammessi.",
+        "Stato": "Risolto nel perimetro dichiarato"
+      },
+      "status": "Risolto nel perimetro dichiarato",
+      "intervention": "Sottotitolo breve nel capoverso; bibliografia ANAC prima del caso. Tutte le parole conservate; bianchi finali di chiusura restano ammessi.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "P09-07": [
+    {
+      "id": "P09-07",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-09.md",
+      "sourceSha256": "d4732004ae59e0641621f4a39f7468812640eb6bfa328fc499d9549351c9f557",
+      "line": 23,
+      "raw": "| P09-07 | Scheda affidamento, p. 266 | Refuso | medio | Segno+ univa Controlli svolti e Risorse. | Eliminato il segno e separati i due campi in paragrafi; delta verificato nel nuovo PDF. | Corretto e verificato localmente |",
+      "columns": {
+        "ID": "P09-07",
+        "Posizione": "Scheda affidamento, p. 266",
+        "Categoria": "Refuso",
+        "Gravità": "medio",
+        "Descrizione": "Segno+ univa Controlli svolti e Risorse.",
+        "Correzione proposta": "Eliminato il segno e separati i due campi in paragrafi; delta verificato nel nuovo PDF.",
+        "Stato": "Corretto e verificato localmente"
+      },
+      "status": "Corretto e verificato localmente",
+      "intervention": "Eliminato il segno e separati i due campi in paragrafi; delta verificato nel nuovo PDF.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "P10-03": [
+    {
+      "id": "P10-03",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-10.md",
+      "sourceSha256": "a9aa7e1679ba0e7982ecaa60d45d80a452f498e276a6212453ebe2fefa173900",
+      "line": 19,
+      "raw": "| P10-03 | Tre tavole, pp. 28,31,122 | Risoluzione | medio | Prima rasterizzazione a 247,6 ppi effettivi. | Rendering dei PDF vettoriali a 371,4 ppi; composizione immutata e tre pagine ricontrollate. | Corretto e verificato localmente |",
+      "columns": {
+        "ID": "P10-03",
+        "Posizione": "Tre tavole, pp. 28,31,122",
+        "Categoria": "Risoluzione",
+        "Gravità": "medio",
+        "Descrizione": "Prima rasterizzazione a 247,6 ppi effettivi.",
+        "Correzione proposta": "Rendering dei PDF vettoriali a 371,4 ppi; composizione immutata e tre pagine ricontrollate.",
+        "Stato": "Corretto e verificato localmente"
+      },
+      "status": "Corretto e verificato localmente",
+      "intervention": "Rendering dei PDF vettoriali a 371,4 ppi; composizione immutata e tre pagine ricontrollate.",
+      "evidence": "",
+      "file": ""
+    }
+  ],
+  "P11-06": [
+    {
+      "id": "P11-06",
+      "source": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-11.md",
+      "sourceSha256": "14625273c3dd5d573b2e363257729ef28ed136031ffe5d7c94e204300f7ff9f2",
+      "line": 22,
+      "raw": "| P11-06 | Appendice B, p. 248 | Calcolo e unità | medio | 30.000×0,25=7,5 t ometteva la conversione kg/t. | Esplicitati kWh,kg/kWh e divisione per 1.000; formula ricalcolata e PDF ricontrollato. | Corretto e verificato localmente |",
+      "columns": {
+        "ID": "P11-06",
+        "Posizione": "Appendice B, p. 248",
+        "Categoria": "Calcolo e unità",
+        "Gravità": "medio",
+        "Descrizione": "30.000×0,25=7,5 t ometteva la conversione kg/t.",
+        "Correzione proposta": "Esplicitati kWh,kg/kWh e divisione per 1.000; formula ricalcolata e PDF ricontrollato.",
+        "Stato": "Corretto e verificato localmente"
+      },
+      "status": "Corretto e verificato localmente",
+      "intervention": "Esplicitati kWh,kg/kWh e divisione per 1.000; formula ricalcolata e PDF ricontrollato.",
+      "evidence": "",
+      "file": ""
+    }
+  ]
+}

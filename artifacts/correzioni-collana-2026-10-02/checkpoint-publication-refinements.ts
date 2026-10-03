@@ -1,0 +1,13 @@
+import { LocalAgentMemory } from '../../src/server/memory/local-agent-memory'
+
+async function main() {
+  const result = await LocalAgentMemory.fromConfig().captureConversation({
+    scope: 'global',
+    route: 'codex/chiusura-tecnica-pubblicabilita',
+    messages: [{ role: 'user', content: 'Completiamo la pubblicabilità.' }],
+    reply: '3 ottobre 2026: creati e controllati visivamente 13 full-wrap PDF CMYK in delivery/copertine-2026-10-03, associati agli interni e inclusi nei 12 pacchetti. Dorsi carta bianca, conteggio KDP pari, spazio testo dorso >=4.5 pt. Quattro interni sostituiti conservando i precedenti in artifacts/correzioni-collana-2026-10-02/publication-refinement-before: VOL01 SHA 46accfc1fe82a3779263805532d34f2461415a55d92e1d988f7249b2294662aa (686p, 19 figure >=300ppi senza interpolazione, 25p cambiate viste, 661 pixel identiche, 437 rimandi verificati; pp51-52 normalizzate alle vecchie pagine verificate per evitare titolo orfano); VOL06 SHA 34b57193a490375dcab8c48f858de6fb360d3d05af1c183b29d114b32380ab94 (617p, Università corretto, 7p viste, 610 identiche); VOL09 SHA 8dd41fc17e9e2cf638e8b1e3279a1f679b68243fb624853fa620ac9b99cb9097 (267p, Gantt p240 da vettoriale oltre370ppi, altre266 identiche); VOL10 SHA 288dcce6dd4f93c8e72ffc7350a5ae3b529c050fc32a3a18729bfb6e58fb4c4f (127p, foto p123 collocata piu piccola >=300ppi, altre126 identiche). Audit tutti13 PDF: font incorporati, nessun testo fuori pagina, immagini tutte>=300ppi, nessuna protezione. 2580file/12pacchetti verificati senza mismatch. Registro582 sempre577 verificati, quattroparziali EXP02/V01-50/V01-51/P12-04, facoltativo P12-07 aperto. Copertine non piu mancanti; NON pubblicabile globalmente finche mancano dati reali autore/curatore, contatto errata, sceltaISBN e condizioni digitale (domande async ancora senza risposta); non inventare ne inferire consenso. Estratto VOL12 pp127-128 in delivery/prova-compilazione-2026-10-03 identico fonte, da stampare100% e compilare; non simulata prova fisica. No upload/ordine/commit/push/conferma24. Pipeline non avanzata. Typecheck attuale PASS; vecchi build/52test non ripetuti. Server temporaneo3021 con dist isolata arrestato, tsconfig include temporaneo rimosso; vecchio3020 non toccato. Indice delivery/COLLANA-REVISIONATA-2026-10-03.md, esito delivery/PUBBLICABILITA-2026-10-03.md. Riproduzione helper specifici e payload congelati, non API generica. Memoria non fonte normativa.',
+    metadata: { publicationReady: false, coversCreated: 13, updatedInteriors: 4, packageFiles: 2580, verifiedFindings: 577, originalFindings: 582, typecheckPassed: true }
+  })
+  console.log(result.conversationId)
+}
+main().catch(error => { console.error(error); process.exitCode = 1 })

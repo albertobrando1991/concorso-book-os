@@ -11,7 +11,7 @@ module_family: trasversali
 source_refs: ["sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4", "sources/m-tr04-source-bundle-ambiente-protezione-civile-2026"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "il-metodo-bando"]
 confidence: 0.78
-updated_at: 2026-08-18
+updated_at: 2026-10-03
 review_required: false
 canonical: false
 tags: ["planning", "module-bible", "vol-11", "m-tr04", "step-15"]
@@ -135,3 +135,7 @@ Lo step 15 ha chiuso l'audit specialistico sulle voci mobili S13-V01/S13-V08. Re
 L'audit specialistico conclusivo del 18 agosto 2026 ha riallineato source note, capitoli, casi, quiz e planning sui delta ufficiali disponibili: VIA 2026, D.Lgs. 152/2006, D.Lgs. 1/2018, IT-alert 2026, RENTRI/FIR 2026, qualità dell'aria UE 2024/2026, CER/TIAD/GSE, tassonomia UE e CAM di categoria.
 
 Non restano errori gravi o medi aperti nel perimetro M-TR04. I 14 capitoli conservano casi, quiz e densità dei nuclei; i frontmatter sono uniformati a draft_stage specialist_audit_done, review_required false e tag step-15. Il modulo è pronto per il successivo gate di text freeze/preflight della pipeline, inteso come controllo editoriale e non come nuova revisione contenutistica umana.
+
+## Riesame del 3 ottobre 2026
+
+Quattordici capitoli e appendici A–E nel capitolo 14; 44 rilievi dell’audit integrale trattati nel registro corrente. La matrice elenca i nuclei effettivi, con fonti e limiti. Le attestazioni precedenti non sostituiscono il presente riesame né certificano il PDF aggiornato.

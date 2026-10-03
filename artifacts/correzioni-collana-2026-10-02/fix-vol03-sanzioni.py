@@ -1,0 +1,51 @@
+from pathlib import Path
+import re,shutil
+root=Path.cwd(); base=root/'wiki/books/moduli/m-fc02-agenzie-fiscali/chapters'
+def append(relative,body):
+ p=root/relative;s=p.read_text(encoding='utf-8');marker='## Integrazione operativa del 3 ottobre 2026'
+ if marker not in s:p.write_text(s+'\n'+marker+'\n\n'+body+'\n',encoding='utf-8')
+append('wiki/sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md', '''Verificati gli artt. 2–5, 8, 10–11 del D.Lgs. 74/2000 nel regime 2026. Fonti primarie: [art. 5 nel sistema MEF](https://def.giustiziatributaria.gov.it/DocTribFrontend/getAttoNormativoDetail.do?ACTION=getArticolo&articolo=Articolo+5&codiceOrdinamento=0000000000000050000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7BFE9108E0-2C82-4A25-82AC-CE9B0C467F00%7D), [testi coordinati nella Gazzetta del 24 dicembre 2019](https://www.gazzettaufficiale.it/eli/gu/2019/12/24/301/sg/pdf), [D.Lgs. 87/2024, art. 1](https://def.finanze.it/DocTribFrontend/executePrintArticolo.do?articolo=Articolo+1&codiceOrdinamento=0000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7B373232C3-5D38-4054-A878-FEA29649DD5C%7D). Soglie da esporre con operatore strettamente maggiore, condizioni congiunte ove richieste e consumazione distinta. Art. 3: 30.000 euro imposta e secondo requisito quantitativo; art. 4: 100.000 e 10%/2 milioni; art. 5: 50.000 e ritardo oltre 90 giorni. Artt. 10-bis/ter: 150.000/250.000, 31 dicembre dell'anno successivo a quello di presentazione; rateazione ex art. 3-bis D.Lgs. 462/1997 e debito residuo 50.000/75.000 in caso di decadenza. Artt. 2/8: nessuna soglia di esclusione del reato, 100.000 rileva per il trattamento attenuato. Il TU 173/2024 non va anticipato al 2026.''')
+append('wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md', '''L'art. 2, comma 2-bis, D.Lgs. 472/1997, introdotto dal D.Lgs. 87/2024 per le violazioni dal 1° settembre 2024, pone la sanzione pecuniaria relativa al rapporto proprio di società/enti degli artt. 5 e 73 TUIR, con o senza personalità giuridica, esclusivamente a loro carico; restano solidarietà e sussidiarietà civilistiche per enti senza personalità. Se fittiziamente costituiti/interposti, risponde il soggetto che ha agito per loro conto. Non ridurre la regola alle sole società di capitali, né estenderla alla responsabilità penale individuale. [Testo ufficiale, art. 3 D.Lgs. 87/2024](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=0&art.flagTipoArticolo=0&art.codiceRedazionale=24G00103&art.idArticolo=3&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2024-06-28&art.progressivo=0).''')
+append('wiki/topics/diritto-tributario-concorsi-agenzie-fiscali.md','''Le source notes [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]] e [[sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18]] consolidano soglie e consumazione penale e imputazione delle sanzioni agli enti nel regime 2026. Applicazione: FC02/05a; esercizi numerici distinti da quantificazione della pena.''')
+p=next(base.glob('05a-*.md')); backup=root/'artifacts/correzioni-collana-2026-10-02/before-text/VOL-03'/p.name
+if not backup.exists():shutil.copy2(p,backup)
+s=p.read_text(encoding='utf-8')
+s=s.replace('Il riferimento temporale adottato è il diritto applicabile al 18 luglio 2026.','Il riferimento temporale adottato è il diritto applicabile al 3 ottobre 2026; le soglie sono riportate insieme alle condizioni che ne delimitano l’uso.')
+needle='La delega non elimina automaticamente ogni responsabilità del delegante;'
+s=s.replace(needle,'''**Società ed enti.** Per le violazioni dal 1° settembre 2024, l'art. 2, comma 2-bis, D.Lgs. 472/1997 pone la sanzione pecuniaria relativa al rapporto tributario proprio delle società e degli enti degli artt. 5 e 73 TUIR esclusivamente a loro carico, con o senza personalità giuridica. Per gli enti privi di personalità restano ferme le forme civilistiche di responsabilità solidale e sussidiaria. Se società o ente sono fittiziamente costituiti o interposti, la sanzione è irrogata al soggetto che ha agito per loro conto. Questa regola patrimoniale non cancella la responsabilità penale delle persone fisiche né autorizza a ignorare la disciplina del concorso: prima si identifica il rapporto fiscale proprio, poi il ruolo concreto di ogni soggetto.
+
+'''+needle)
+s=s.replace('Le soglie non sono riportate qui: cambiano tra fattispecie e devono essere verificate sul testo applicabile alla data del fatto.','''Le tabelle seguenti espongono le soglie del regime 2026. «Superiore» non significa «pari o superiore»: l'importo esattamente uguale alla soglia non la supera. Nei reati dichiarativi con due condizioni quantitative entrambe devono ricorrere; resta sempre da provare la condotta e il dolo richiesto.''')
+needle='## 12. Documenti, scritture, versamenti e compensazioni'
+s=s.replace(needle,'''### Soglie e momento consumativo: dichiarazioni
+
+| Reato | Requisito quantitativo nel 2026 | Quando si perfeziona la condotta |
+| --- | --- | --- |
+| Art. 2, fatture/documenti per operazioni inesistenti | Nessuna soglia minima di punibilità; elementi passivi fittizi inferiori a 100.000 euro comportano la pena della forma attenuata, non l'assenza del reato. | Presentazione della dichiarazione che utilizza i documenti; la sola registrazione non equivale all'utilizzo dichiarativo. |
+| Art. 3, altri artifici | Imposta evasa per una singola imposta oltre 30.000 euro **e** attivi sottratti oltre il 5% degli attivi dichiarati oppure oltre 1,5 milioni; in alternativa per il secondo requisito, crediti/ritenute fittizi oltre il 5% dell'imposta oppure oltre 30.000 euro. | Presentazione della dichiarazione fraudolenta con le operazioni simulate, documenti falsi o altri mezzi fraudolenti richiesti dalla norma. |
+| Art. 4, dichiarazione infedele | Imposta evasa per una singola imposta oltre 100.000 euro **e** attivi sottratti, anche tramite passivi inesistenti, oltre il 10% degli attivi dichiarati oppure oltre 2 milioni. | Presentazione della dichiarazione annuale infedele, fuori dai casi degli artt. 2–3; si applicano le esclusioni dei commi 1-bis e 1-ter per classificazioni, valutazioni e componenti reali nei casi previsti. |
+| Art. 5, omessa dichiarazione | Imposta evasa per una singola imposta oltre 50.000 euro; per l'omessa dichiarazione del sostituto, ritenute non versate oltre 50.000 euro. | Decorso il periodo di 90 giorni dalla scadenza: entro tale periodo la dichiarazione non è omessa ai fini dell'art. 5. |
+
+**Caso numerico.** Una dichiarazione annuale, senza artifici, sottrae 500.000 euro di attivi su 2 milioni dichiarati e determina 110.000 euro di imposta evasa. Il 25% supera il 10% e 110.000 supera 100.000: i due requisiti quantitativi dell'art. 4 ricorrono. Ciò non basta alla condanna: occorrono dolo e tutti gli altri elementi, considerando le esclusioni. Con imposta evasa di 95.000 euro il requisito dell'imposta manca, anche se la percentuale degli attivi resta elevata.
+
+'''+needle)
+needle='## 13.'
+idx=s.index(needle)
+s=s[:idx]+'''### Soglie e scadenze: altre fattispecie
+
+| Reato | Requisito quantitativo e temporale | Distinzione decisiva |
+| --- | --- | --- |
+| Art. 8, emissione di documenti per operazioni inesistenti | Nessuna soglia minima; importi non rispondenti al vero inferiori a 100.000 euro per periodo comportano la forma attenuata. La condotta è l'emissione, non la dichiarazione del destinatario. | Più emissioni nello stesso periodo sono considerate un solo reato dalla norma; non confondere emittente e utilizzatore. |
+| Art. 10, occultamento/distruzione di scritture | Nessuna soglia numerica; occorrono lo scopo di evasione proprio o altrui e l'impossibilità di ricostruire redditi o volume d'affari. | Il disordine contabile non equivale automaticamente alla condotta tipica. |
+| Art. 10-bis, ritenute certificate | Oltre 150.000 euro per periodo, non versati entro il 31 dicembre dell'anno successivo a quello di presentazione della dichiarazione del sostituto, quando il debito non è in corso di estinzione mediante la rateazione dell'art. 3-bis D.Lgs. 462/1997. | In caso di decadenza dalla rateazione, rileva un residuo superiore a 50.000 euro. La soglia ordinaria e quella residua non si sostituiscono liberamente. |
+| Art. 10-ter, IVA | Oltre 250.000 euro per periodo, non versati entro il 31 dicembre dell'anno successivo a quello di presentazione della dichiarazione IVA, con la stessa condizione sulla rateazione. | In caso di decadenza, il residuo deve superare 75.000 euro. |
+| Art. 10-quater, indebita compensazione | Crediti non spettanti o inesistenti utilizzati in compensazione per oltre 50.000 euro annui; rileva l'utilizzo che porta al superamento. | Le due categorie hanno pene e presupposti diversi; per i non spettanti il comma 2-bis considera l'obiettiva incertezza tecnica sugli elementi che fondano la spettanza. |
+| Art. 11, sottrazione fraudolenta | Per il comma 1, debito per imposte sui redditi/IVA, interessi o sanzioni relativi oltre 50.000 euro; oltre 200.000 opera la forma aggravata. | Alienazione simulata o altro atto fraudolento deve essere idoneo a rendere inefficace la riscossione. Non occorre equiparare il reato all'insolvenza né attendere l'esito negativo dell'esecuzione. |
+
+**Calendario ragionato.** IVA dovuta in base a una dichiarazione presentata nel 2025: il termine penale dell'art. 10-ter è il 31 dicembre 2026. Un'omissione di 260.000 euro supera la soglia ordinaria; prima di concludere si verificano rateazione, elemento soggettivo e cause di non punibilità. Con 250.000 euro esatti quella soglia non è superata. Questo termine penale non proroga l'ordinaria scadenza del versamento tributario.
+
+'''+s[idx:]
+s=s.replace('status: final','status: revised_draft').replace('draft_stage: text_frozen','draft_stage: revision-in-progress').replace('review_required: false','review_required: true')
+s=re.sub(r'updated_at: [^\n]+','updated_at: 2026-10-03',s,count=1)
+p.write_text(s,encoding='utf-8')
+print('V03-028: integrazione soglie, consumazione, termini e responsabilità enti applicata')

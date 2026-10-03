@@ -1,0 +1,88 @@
+{
+  "volume": "VOL-07",
+  "module": "M-SA01",
+  "date": "2026-10-03",
+  "verification": "manuale, text-freeze non implementato nel CLI",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "sha256": "56043e0bee143eb36164cff7abc136c60d0ab83344e57cebc41dbb04a8e8491d",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "sha256": "d73c286d9d16c44a82d22e957899d1f8d02521adefc21f14419362e84cc8723d",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "sha256": "53b5f6fdbd196e25fbc294c50b98616508c4a824a0b38bf2c4da731e0ee58970",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "sha256": "8f7cbadfb1d15c9be874af8a639526d57ad383380a9b3bb8b8388916206c3acc",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "sha256": "9110977ae305c061007723d78f95f0a6cc496b4e8b08827e6e2526c1bcd36a9e",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    }
+  ],
+  "checks": [
+    "Capitoli canonici presenti, indice e titolo coerenti.",
+    "Delta specialistici riesaminati; step15 passed senza blocker/warning.",
+    "Nessun rinvio staff nel corpo, immagini locali presenti.",
+    "Casi, calcoli e soluzioni verificati nei report14/15.",
+    "Humanizer e micro-revisione svolti sui delta, fonti e date esplicite."
+  ],
+  "limitations": [
+    "Nuovo PDF e controllo visivo ancora necessari.",
+    "Packaging Git di due fonti INT resta a cura del coordinamento; i file sono presenti e leggibili.",
+    "Test hybrid-pilot richiede aggiornamento aspettative ai due DO; i gate sostanziali densità/copertura sono passed."
+  ],
+  "controlledPrintCorrections": {
+    "date": "2026-10-03",
+    "files": [],
+    "referenceCorrections": [
+      {
+        "volume": "VOL-07",
+        "module": "M-SA01",
+        "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+        "beforeSHA256": "53b5f6fdbd196e25fbc294c50b98616508c4a824a0b38bf2c4da731e0ee58970",
+        "sha256": "940ebf00b8f2890c4e873145ebb4151d70e26135f2a633022b2abd5767e8ca07",
+        "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+      },
+      {
+        "volume": "VOL-07",
+        "module": "M-SA01",
+        "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+        "beforeSHA256": "9110977ae305c061007723d78f95f0a6cc496b4e8b08827e6e2526c1bcd36a9e",
+        "sha256": "9df6a0106504bfb40b98810675119892b4aea427bc5eff068bb97948f1501219",
+        "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+      }
+    ],
+    "referenceVerification": "Destinazioni riscontrate nei titoli canonici; nuova prova PDF necessaria.",
+    "verification": "Verificato nella prova di produzione e nel registro visivo del 3 ottobre 2026; nessuna attestazione normativa aggiuntiva."
+  },
+  "productionReview": {
+    "pdf": "vol-07-release-20261003-proof.pdf",
+    "sha256": "60e7814e7a9d17ea36f1af9b5a7652206f83ce33fe0870b0aebc6d588df43e16",
+    "report": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-07.md",
+    "method": "Panoramica di tutte le pagine, direttamente o mediante corrispondenza pixel con pagine già viste; dettagli a piena risoluzione nelle pagine elencate. Il confronto esclude soltanto i 40 pt inferiori del piè di pagina; numerazione e indice verificati separatamente sul PDF.",
+    "effectiveFileHashes": {
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md": "56043e0bee143eb36164cff7abc136c60d0ab83344e57cebc41dbb04a8e8491d",
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md": "d73c286d9d16c44a82d22e957899d1f8d02521adefc21f14419362e84cc8723d",
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md": "940ebf00b8f2890c4e873145ebb4151d70e26135f2a633022b2abd5767e8ca07",
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md": "8f7cbadfb1d15c9be874af8a639526d57ad383380a9b3bb8b8388916206c3acc",
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md": "9df6a0106504bfb40b98810675119892b4aea427bc5eff068bb97948f1501219"
+    },
+    "frontMatterUnresolved": true
+  }
+}

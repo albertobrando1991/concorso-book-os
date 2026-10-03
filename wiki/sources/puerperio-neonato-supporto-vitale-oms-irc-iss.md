@@ -12,7 +12,7 @@ source_refs:
   - "sources/arresto-cardiaco-bls-iss-snlg-2026"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.97
-updated_at: 2026-07-29T15:15:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T15:15:00+02:00
 review_required: true
 canonical: true
@@ -52,3 +52,7 @@ La linea guida OMS e internazionale e richiede contestualizzazione nel SSN e nei
 ## Stato revisione
 
 Il vuoto documentale su puerperio generale, neonato e supporto vitale neonatale e sostanzialmente ridotto. Il verticale ostetrico resta `parziale` per contestualizzazione italiana operativa, ulteriori emergenze, procedure locali e review professionale delle prove.
+
+## Integrazione concettuale verificata il 3 ottobre 2026
+
+La linea ERC/IRC 2025 acquisita, introduzione p. 3 e sezioni di valutazione, fonda la priorità della transizione respiratoria: aerazione polmonare e ventilazione efficace sostengono l’adattamento cardiocircolatorio. Il testo distingue questa fisiologia dall’arresto adulto e collega respirazione, frequenza cardiaca, tono e risposta al supporto. Apgar è descrittivo e non giustifica attesa prima di intervenire su una compromissione riconosciuta.

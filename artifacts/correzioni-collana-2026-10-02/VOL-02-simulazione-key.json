@@ -1,0 +1,61 @@
+{
+  "keys": {
+    "1": "C",
+    "2": "C",
+    "3": "B",
+    "4": "A",
+    "5": "D",
+    "6": "B",
+    "7": "D",
+    "8": "A",
+    "9": "B",
+    "10": "A",
+    "11": "C",
+    "12": "A",
+    "13": "C",
+    "14": "A",
+    "15": "B",
+    "16": "D",
+    "17": "D",
+    "18": "B",
+    "19": "D",
+    "20": "C"
+  },
+  "quizCount": 20,
+  "points": {
+    "quiz": 10,
+    "risposta": 5,
+    "caso": 7,
+    "documento": 5,
+    "orale": 3
+  },
+  "note": "Chiavi rimescolate con le opzioni; contenuto normativo da riesaminare sulle soluzioni.",
+  "correctTexts": {
+    "1": "dalla Giunta, nel rispetto dei criteri generali stabiliti dal Consiglio.",
+    "2": "appartengono a fasi distinte, con presupposti e controlli propri.",
+    "3": "dalla Giunta, entro venti giorni dall'approvazione del bilancio di previsione.",
+    "4": "il rischio di mancata riscossione di crediti di dubbia esigibilità.",
+    "5": "dalla competenza attribuita al dirigente o responsabile, con i presupposti dell'atto.",
+    "6": "hanno rango e procedimento differenti, secondo Costituzione.",
+    "7": "le materie non riservate espressamente alla legislazione dello Stato, nel quadro costituzionale.",
+    "8": "i sindaci dei Comuni appartenenti alla Provincia.",
+    "9": "sono elementi distinti; la prova del risultato richiesto non si esaurisce nella spesa.",
+    "10": "nel ciclo dell'intervento, con verifiche ed evidenze coerenti con misura e attività.",
+    "11": "offre informazioni pubbliche secondo il relativo servizio, senza essere un certificato.",
+    "12": "collega all'iscrizione l'effetto costitutivo previsto dalla legge.",
+    "13": "non va confuso con uno dei quattro organi elencati dalla L. 580/1993.",
+    "14": "differiscono perché la mediazione cerca un accordo e l'arbitrato conduce alla decisione arbitrale.",
+    "15": "richiede di distinguere la diversa via applicabile, compresa la riabilitazione nei presupposti.",
+    "16": "800 euro, più spese.",
+    "17": "nella fascia amministrativa oltre 0,5 e fino a 0,8.",
+    "18": "si presenta almeno trenta giorni prima dell'effettivo inizio, nei casi previsti.",
+    "19": "quando la violazione gli è imputabile per dolo o colpa accertati nel contraddittorio previsto.",
+    "20": "segue l'art. 347 c.p.p., senza ritardo e con le regole specifiche applicabili."
+  },
+  "distribution": {
+    "A": 5,
+    "B": 5,
+    "C": 5,
+    "D": 5
+  }
+}

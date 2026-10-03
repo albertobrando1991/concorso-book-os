@@ -1,0 +1,61 @@
+{
+  "V07-07": {
+    "change": "Titolo e apertura raccordati a SSN, LEA, organi, accreditamento, atti e flussi; conservate integrazioni INT.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md"
+    ],
+    "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-08": {
+    "change": "Errori critici di riservatezza, accesso e competenza rendono insufficiente la risposta indipendentemente dal totale.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md"
+    ],
+    "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-09": {
+    "change": "Riscrittura completa con delega, sportello, portale e pratica esplicitamente fittizi.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md"
+    ],
+    "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-10": {
+    "change": "Variazione del costo medio corretta a −4,44% senza arrotondamenti intermedi, in entrambe le occorrenze.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md"
+    ],
+    "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-11": {
+    "change": "Documenti di bilancio, adozione, approvazione e consolidato; esempio risolto di ammortamento e contributo.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "wiki/sources/contabilita-budget-aziende-sanitarie.md"
+    ],
+    "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-12": {
+    "change": "AIC e classi A/H/C, raccordo MDR/IVDR, centralizzazione e NSO con esempio.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md"
+    ],
+    "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-13": {
+    "change": "FEFO, segregazione e catena del freddo; punto di riordino e caso risolti.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md"
+    ],
+    "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+    "status": "applicato"
+  }
+}

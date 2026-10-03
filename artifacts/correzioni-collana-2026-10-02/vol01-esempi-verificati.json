@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "checks": [
+    "SQL eseguito dal blocco del capitolo: JOIN, filtro, ordine e rifiuto chiave esterna inesistente",
+    "Esempi foglio: 1/2/3, somma/media/min/max/conteggio e condizione",
+    "Risultato amministrazione, quote e parte disponibile negativa",
+    "Residuo Stato, FPV e FCDE del caso",
+    "Marta: punteggio e denominatori distinti",
+    "Quiz: valori attesi e soglia di convenienza",
+    "Breach: 72 ore lunedì-giovedì"
+  ],
+  "sqlOutput": [
+    [
+      "Bianchi",
+      "Anagrafe"
+    ],
+    [
+      "Verdi",
+      "Anagrafe"
+    ]
+  ],
+  "limits": "Verifica dei casi numerici e informatici indicati; non sostituisce revisione normativa, linguistica o PDF",
+  "chapterHashes": {
+    "contabilita-pubblica-essenziale.md": "a153043f56c38939374e8532cc77ef19d04748841fcec704ab447f59d5041a90",
+    "diario-degli-errori.md": "2b91acdbd4ba0264e7ddde88cc3f07e6bcb1a3da72073dca6fbb010f176d05e0",
+    "informatica-pa-digitale-competenze-digitali.md": "307a62ceb1e22a7a9498cc41d1a7df581e92e352e6e9b6bb4570a283b441340f",
+    "la-prova-a-quiz.md": "7d7cb57be497f881e1d75d2683ae21e8b4777017b7bd94ab1d769cd6eeb6b0f7",
+    "trasparenza-anticorruzione-privacy.md": "af5d95ad7f1905c2d8707704737efb9be5cd828dae9b32cac80d819a80f7dd4c"
+  }
+}

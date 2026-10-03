@@ -1,0 +1,568 @@
+---
+id: chapter-m-fc02-appendici-operative
+type: book_chapter
+title: "Appendici operative"
+status: revised_draft
+domain: "concorsi pubblici italiani"
+topics: ["appendici operative","glossario","front-office","adempimenti fiscali","ripasso"]
+entities: ["Agenzia delle Entrate","Agenzia delle Dogane e dei Monopoli","Agenzia delle Entrate-Riscossione","Metodo BANDO"]
+source_refs: ["sources/vol-03-schemi-fiscali-verifica-2026-10-03", "sources/dogane-accise-rettifiche-2026-10-03", "sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md","sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17.md","sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md","sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","sources/processo-tributario-regime-2026-rettifica-2026-10-03.md","sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
+asset_refs: []
+book_refs: ["m-fc02-agenzie-fiscali","il-metodo-bando"]
+confidence: 0.88
+updated_at: 2026-10-03
+created_at: 2026-07-01T21:00:00+02:00
+review_required: false
+canonical: true
+tags: ["book-chapter","module-code-m-fc02","appendices","workbook","illustrated"]
+book_id: m-fc02-agenzie-fiscali
+outline_section: 14
+draft_stage: text_frozen
+module_code: M-FC02
+module_family: funzioni-centrali
+companion_to: il-metodo-bando
+last_compiled_from: ["wiki/sources/dogane-accise-rettifiche-2026-10-03.md", "wiki/books/moduli/m-fc02-agenzie-fiscali/planning/02-matrice-copertura-didattica.md","wiki/reviews/review-m-fc02-copertura-didattica-integrale-2026-07-17.md","wiki/sources/m-fc02-dossier-redazionale-agenzie-fiscali.md","wiki/sources/normativa-tributaria-tuir-iva-accertamento-m-fc02.md","wiki/sources/accertamento-contraddittorio-compliance-aggiornamento-2026-07-17.md","wiki/sources/riscossione-ader-aggiornamento-istituzionale-2026-07-17.md","wiki/sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17.md","wiki/sources/accise-giochi-monopoli-adm-aggiornamento-2026-07-17.md","wiki/sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18.md","wiki/sources/contabilita-aziendale-bilancio-reddito-impresa-aggiornamento-2026-07-18.md","wiki/sources/sanzioni-amministrative-tributarie-aggiornamento-2026-07-18.md","wiki/sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18.md","wiki/sources/processo-tributario-regime-2026-rettifica-2026-10-03.md","wiki/sources/diritto-ue-fiscale-doganale-iva-cdu-2026-07-18.md","wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md"]
+---
+
+# Appendici operative
+
+## Apertura editoriale
+
+Le appendici raccolgono gli strumenti di lavoro di M-FC02. Usale dopo aver studiato il paragrafo indicato: compila lo strumento e registra gli errori emersi. Per termini, soglie, modelli, software e scadenze mobili annota sempre la fonte ufficiale e la data del controllo.
+
+## Obiettivo del blocco
+
+Al termine saprai richiamare il lessico specialistico e distinguere istituti vicini. Saprai anche ordinare adempimenti e processi, compilare i canvas per i casi e l'orale e programmare il ripasso a partire dagli errori.
+
+## Mappa BANDO
+
+| Passaggio | Domanda | Strumento |
+| --- | --- | --- |
+| Bando | Che cosa è richiesto e con quale profondità? | Scheda allerta |
+| Aree | In quale ciclo si colloca? | Tavole e flussi |
+| Nuclei | Quali definizioni e distinzioni? | Glossario |
+| Diario | Quale errore devo recuperare? | Piano 1-3-7-14-30 |
+| Output | Che cosa devo produrre? | Canvas e checklist orale |
+
+#### Schema 31.1 — Usare le appendici operative
+| Elemento | Lettura operativa |
+|---|---|
+| B — Bando | Parole-spia, peso e forma della prova. |
+| A — Aree | Ciclo operativo cui appartiene il problema. |
+| N — Nuclei | Definizioni e distinzioni del glossario. |
+| D — Diario | Errori da recuperare e nuovi tentativi. |
+| O — Output | Canvas, checklist orale e piano di ripasso. |
+
+## Protocollo d'uso
+
+1. Leggi il rinvio teorico.
+2. Compila senza appunti.
+3. Confronta con l'esempio.
+4. Registra errore e nuovo tentativo.
+
+**Errore tipico:** trattare il workbook come un riassunto autosufficiente. Se non sai spiegare il motivo di una casella, torna al capitolo.
+
+#### Schema 31.2 — Dalla domanda allo strumento
+| Elemento | Lettura operativa |
+|---|---|
+| Definizione incerta | Appendice A: glossario ragionato. |
+| Istituti simili | Appendice B: tavole di confronto. |
+| Tempi e passaggi | Appendici C e D: scadenziario e schemi di processo. |
+| Applicazione | Appendice E: canvas compilabili; F: sanzioni, reati, processo e UE. |
+| Verifica e recupero | Appendice G: checklist orale; H: piano di ripasso. |
+
+Scegli lo strumento, compilalo, confrontalo con l’esempio e annota l’errore: le lettere indicano queste appendici effettive.
+
+## Appendice A - Glossario ragionato
+
+### Istruzioni
+
+Per ogni voce spiega che cos'è, a che cosa serve e da quale istituto va distinta. Poi copri la colonna "distinzione" e ricostruiscila a voce.
+
+### Fisco, adempimento e controllo
+
+| Voce | Significato operativo | Distinzione | Rinvio preciso |
+| --- | --- | --- | --- |
+| Tributo | Genere delle prestazioni tributarie. | Imposta, tassa e contributo sono specie distinte. | capitolo 19, Diritto tributario e teoria dell'imposta — «Tributo, imposta, tassa e contributo» |
+| Presupposto | Fatto cui la legge collega il tributo. | Non è la base imponibile. | capitolo 19, Diritto tributario e teoria dell'imposta — «Presupposto, soggetti e obbligazione tributaria» |
+| Soggetto passivo | Soggetto cui si riferisce l'obbligazione. | Distinguere da sostituto e responsabile. | capitolo 19, Diritto tributario e teoria dell'imposta — «Il soggetto passivo» |
+| Base imponibile | Grandezza cui si applica l'aliquota. | Non è l'imposta dovuta. | capitolo 19, Diritto tributario e teoria dell'imposta — «Base imponibile, aliquota e imposta dovuta» |
+| Dichiarazione | Rappresentazione di dati fiscalmente rilevanti. | Non è pagamento. | capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Dichiarazione originaria, correttiva, integrativa e omessa» |
+| Liquidazione | Determinazione periodica del saldo. | Non è accertamento. | capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Documento, registri e liquidazione» |
+| Compensazione | Uso di un credito alle condizioni vigenti. | Non è rimborso. | capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Compensazione: gate in sei controlli» |
+| Rivalsa IVA | Addebito dell'imposta secondo il sistema IVA. | Non è detrazione. | capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Rivalsa, detrazione e liquidazione» |
+| Detrazione IVA | Meccanismo collegato alla neutralità. | Non è deduzione dal reddito. | capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Rivalsa, detrazione e liquidazione» |
+| Controllo automatico | Riscontro automatizzato di dati dichiarati e versati. | Non è controllo sostanziale. | capitolo 20, Accertamento, controlli e compliance fiscale — «Controllo automatico, formale e sostanziale» |
+| Accertamento | Formazione e motivazione della pretesa. | Non è riscossione. | capitolo 20, Accertamento, controlli e compliance fiscale — «Accertamento e riscossione non coincidono» |
+| Contraddittorio | Confronto procedimentale nei casi e modi vigenti. | Non è cortesia informativa. | capitolo 20, Accertamento, controlli e compliance fiscale — «Il contraddittorio informato ed effettivo» |
+| Compliance | Strumenti per corretto adempimento e gestione del rischio. | Non significa assenza di controlli. | capitolo 20, Accertamento, controlli e compliance fiscale — «Compliance fiscale ordinaria» |
+| Ruolo | Titolo/elenco del percorso ordinario di riscossione. | Non è la cartella notificata. | capitolo 24, Riscossione nazionale e lavoro in AdER — «Il percorso ordinario: ruolo, cartella e pagamento» |
+| Rateizzazione | Pagamento dilazionato. | Non cancella il debito. | capitolo 24, Riscossione nazionale e lavoro in AdER — «Rateizzazione: pagare nel tempo senza cancellare il debito» |
+| Sospensione | Arresto temporaneo degli effetti. | Non è sgravio. | capitolo 24, Riscossione nazionale e lavoro in AdER — «Sospensione, sgravio e ricorso non sono sinonimi» |
+
+### Dogane, accise e giochi
+
+| Voce | Significato operativo | Distinzione | Rinvio preciso |
+| --- | --- | --- | --- |
+| Status unionale | Qualificazione doganale della merce. | Non è origine. | capitolo 25, Dogane e procedure doganali ADM — «Territorio doganale e status delle merci» |
+| Dichiarazione doganale | Atto che vincola la merce a un regime. | Non è la fattura. | capitolo 25, Dogane e procedure doganali ADM — «La dichiarazione doganale» |
+| Classificazione | Individuazione della voce tariffaria. | Non è origine o valore. | capitolo 25, Dogane e procedure doganali ADM — «Classificazione tariffaria: che cosa è la merce» |
+| Origine | Legame economico della merce con un Paese. | Non è provenienza fisica. | capitolo 25, Dogane e procedure doganali ADM — «Origine: il legame economico con un Paese» |
+| Valore in dogana | Valore determinato secondo regole doganali. | Non è sempre il prezzo in fattura. | capitolo 25, Dogane e procedure doganali ADM — «Valore in dogana: quanto vale ai fini doganali» |
+| Regime doganale | Destinazione giuridico-procedurale della merce. | Non è mera ubicazione. | capitolo 25, Dogane e procedure doganali ADM — «I principali regimi doganali» |
+| Debito doganale | Obbligazione relativa ai dazi. | Non è ogni costo d'importazione. | capitolo 25, Dogane e procedure doganali ADM — «Debito doganale e garanzia» |
+| Accisa | Tributo indiretto su prodotti e consumi disciplinati. | Separare fatto generatore ed esigibilità. | capitolo 26, Accise, giochi e monopoli — «Accisa: struttura del tributo» |
+| Deposito fiscale | Luogo autorizzato per operazioni su prodotti soggetti ad accisa. | Non è un deposito comune. | capitolo 26, Accise, giochi e monopoli — «Deposito fiscale, depositario e garanzia» |
+| EMCS | Sistema di controllo dei movimenti in sospensione e dei trasferimenti commerciali intra-UE di prodotti già immessi in consumo. | Dati operativi da aggiornare. | capitolo 26, Accise, giochi e monopoli — «Circolazione in sospensione: EMCS ed e-AD» |
+| Concessione di gioco | Titolo che abilita l'operatore secondo regole e controlli. | Non è autorizzazione generica. | capitolo 26, Accise, giochi e monopoli — «Giochi pubblici: riserva statale e concessione» |
+
+### Catasto e contabilità
+
+| Voce | Significato operativo | Distinzione | Rinvio preciso |
+| --- | --- | --- | --- |
+| Catasto | Inventario amministrativo degli immobili. | Non prova da solo la proprietà. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Funzione e natura del catasto» |
+| Classamento | Attribuzione di categoria e classe. | Non è stima di mercato. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Classamento e rendita catastale» |
+| DOCFA | Procedura per il catasto fabbricati. | Non è PREGEO. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «DOCFA: nuove costruzioni e variazioni urbane» |
+| PREGEO | Procedura di aggiornamento geometrico dei terreni. | Non sostituisce la pubblicità immobiliare. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «PREGEO e aggiornamento geometrico» |
+| Patrimonio | Attività e passività riferite all'azienda. | Non è reddito di periodo. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Patrimonio, reddito e finanza» |
+| Partita doppia | Rilevazione dell'operazione sotto due aspetti. | Non è duplicazione del valore. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Conti e partita doppia» |
+| Competenza | Imputazione di costi e ricavi al periodo. | Non è cassa. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Competenza economica e assestamento» |
+| Reddito imponibile | Grandezza determinata dalle regole fiscali. | Non coincide automaticamente con utile civilistico. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Dal bilancio al reddito imponibile» |
+
+### Integrazione fiscale, accertamento e riscossione
+
+| Voce | Significato operativo | Distinzione | Rinvio preciso |
+| --- | --- | --- | --- |
+| Imposta | Prelievo collegato a un presupposto economico senza controprestazione individuale. | Non è tassa. | capitolo 19, Diritto tributario e teoria dell'imposta — «Tributo, imposta, tassa e contributo» |
+| Tassa | Prelievo collegato a un servizio o attività pubblica riferibile al soggetto. | Non è il prezzo privatistico del servizio. | capitolo 19, Diritto tributario e teoria dell'imposta — «Tributo, imposta, tassa e contributo» |
+| Contributo | Prelievo connesso a un vantaggio particolare o a una specifica finalità. | Non coincide con ogni tributo. | capitolo 19, Diritto tributario e teoria dell'imposta — «Tributo, imposta, tassa e contributo» |
+| Aliquota | Percentuale o misura applicata alla base imponibile. | Non è la base imponibile. | capitolo 19, Diritto tributario e teoria dell'imposta — «Base imponibile, aliquota e imposta dovuta» |
+| Obbligazione tributaria | Vincolo giuridico relativo alla prestazione tributaria. | Non esaurisce l'intero procedimento amministrativo. | capitolo 19, Diritto tributario e teoria dell'imposta — «Obbligazione tributaria» |
+| Potere istruttorio | Potere di acquisire elementi rilevanti nei limiti di legge. | Non anticipa automaticamente l'esito. | capitolo 20, Accertamento, controlli e compliance fiscale — «I poteri istruttori» |
+| Motivazione | Esposizione dei presupposti e delle ragioni dell'atto. | Non è una formula di stile. | capitolo 20, Accertamento, controlli e compliance fiscale — «La prova e la motivazione» |
+| Autotutela | Riesame amministrativo dell'atto secondo presupposti e limiti vigenti. | Non è ricorso giurisdizionale. | capitolo 20, Accertamento, controlli e compliance fiscale — «Autotutela, definizione e tutela giurisdizionale» |
+| Definizione | Chiusura del rapporto mediante uno strumento previsto dall'ordinamento. | Non coincide con autotutela. | capitolo 20, Accertamento, controlli e compliance fiscale — «Autotutela, definizione e tutela giurisdizionale» |
+| Tax control framework | Sistema interno di governo e controllo del rischio fiscale. | Non è un singolo controllo dell'ufficio. | capitolo 20, Accertamento, controlli e compliance fiscale — «Adempimento collaborativo e tax control framework» |
+| Cartella di pagamento | Atto notificato nel percorso ordinario di riscossione. | Non è il ruolo. | capitolo 24, Riscossione nazionale e lavoro in AdER — «Il percorso ordinario: ruolo, cartella e pagamento» |
+| Accertamento esecutivo | Atto che concentra accertamento e titolo per la riscossione nei casi previsti. | Non elimina la distinzione funzionale tra enti e fasi. | capitolo 24, Riscossione nazionale e lavoro in AdER — «L'accertamento esecutivo e l'avviso di presa in carico» |
+| Presa in carico | Comunicazione con cui AdER informa il debitore di avere ricevuto in affidamento il carico. | È successiva all'affidamento del carico: non coincide con esso né con una nuova liquidazione del tributo. | capitolo 24, Riscossione nazionale e lavoro in AdER — «L'accertamento esecutivo e l'avviso di presa in carico» |
+| Sgravio | Eliminazione totale o parziale del carico da parte dell'ente competente. | Non è sospensione temporanea. | capitolo 24, Riscossione nazionale e lavoro in AdER — «Sospensione, sgravio e ricorso non sono sinonimi» |
+| Misura cautelare | Presidio del credito prima o fuori dall'espropriazione nei casi previsti. | Non è esecuzione forzata. | capitolo 24, Riscossione nazionale e lavoro in AdER — «Misure cautelari ed esecuzione forzata» |
+### Integrazione dogane, accise, giochi e catasto
+
+| Voce | Significato operativo | Distinzione | Rinvio preciso |
+| --- | --- | --- | --- |
+| Dichiarante doganale | Persona che presenta la dichiarazione in nome proprio o persona nel cui nome la dichiarazione è presentata. | Non coincide sempre con l'importatore. | capitolo 25, Dogane e procedure doganali ADM — «I soggetti della dichiarazione» |
+| Svincolo | Atto che rende la merce disponibile per il regime dichiarato. | Non è il mero arrivo fisico. | capitolo 25, Dogane e procedure doganali ADM — «Dall'arrivo allo svincolo» |
+| Immissione in libera pratica | Regime che attribuisce alle merci non unionali lo status unionale dopo gli adempimenti dovuti. | Non equivale sempre all'immissione in consumo fiscale. | capitolo 25, Dogane e procedure doganali ADM — «I principali regimi doganali» |
+| Esportazione | Regime applicabile all'uscita di merci unionali secondo le regole doganali. | Non è una semplice spedizione commerciale. | capitolo 25, Dogane e procedure doganali ADM — «I principali regimi doganali» |
+| Garanzia doganale | Presidio del pagamento potenziale o sorto del debito doganale. | Non è il debito stesso. | capitolo 25, Dogane e procedure doganali ADM — «Debito doganale e garanzia» |
+| Fatto generatore dell'accisa | Evento che fa nascere il rapporto impositivo. | Non coincide necessariamente con l'esigibilità. | capitolo 26, Accise, giochi e monopoli — «Fatto generatore ed esigibilità» |
+| Esigibilità dell'accisa | Momento in cui l'accisa deve essere pagata. | Non è il fatto generatore. | capitolo 26, Accise, giochi e monopoli — «Fatto generatore ed esigibilità» |
+| Regime sospensivo | Assetto nel quale l'accisa non è ancora esigibile alle condizioni previste. | Non è un'esenzione definitiva. | capitolo 26, Accise, giochi e monopoli — «Circolazione in sospensione: EMCS ed e-AD» |
+| e-AD | Documento amministrativo elettronico della circolazione in sospensione. | Non è una fattura commerciale. | capitolo 26, Accise, giochi e monopoli — «Circolazione in sospensione: EMCS ed e-AD» |
+| Filiera del gioco | Insieme dei soggetti e passaggi della raccolta e del controllo. | Non coincide con il solo concessionario. | capitolo 26, Accise, giochi e monopoli — «Rete fisica, rete a distanza e filiera» |
+| Rendita catastale | Valore fiscale-amministrativo derivante dal classamento dei fabbricati. | Non è il prezzo di mercato. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Classamento e rendita catastale» |
+| Visura catastale | Documento informativo su identificativi, intestazioni e dati censuari. | Non prova da sola la titolarità giuridica. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Identificativi e lettura della visura» |
+| Voltura catastale | Aggiornamento delle intestazioni catastali conseguente a una vicenda rilevante. | Non è trascrizione immobiliare. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Voltura e intestazioni catastali» |
+| Trascrizione | Formalità di pubblicità relativa agli atti soggetti a trascrizione. | Non è iscrizione ipotecaria. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Trascrizione, iscrizione e annotazione» |
+| Ispezione ipotecaria | Consultazione dei registri di pubblicità immobiliare. | Non è una visura catastale. | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Ispezione ipotecaria e continuità» |
+### Integrazione contabilità, civile e commerciale
+
+| Voce | Significato operativo | Distinzione | Rinvio preciso |
+| --- | --- | --- | --- |
+| Azienda | Complesso dei beni organizzati per l'esercizio dell'impresa. | Non è l'imprenditore. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Azienda, impresa e gestione» |
+| Ricavo | Componente positivo economico di periodo. | Non coincide necessariamente con l'incasso. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Ricavo e incasso, costo e pagamento» |
+| Costo | Componente negativo economico di periodo. | Non coincide necessariamente con il pagamento. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Ricavo e incasso, costo e pagamento» |
+| Stato patrimoniale | Prospetto della situazione patrimoniale e finanziaria alla data di bilancio. | Non rappresenta il risultato di periodo. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Stato patrimoniale» |
+| Conto economico | Prospetto di costi, ricavi e risultato del periodo. | Non descrive da solo i flussi di cassa. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Conto economico e margini» |
+| Rendiconto finanziario | Prospetto dei flussi finanziari e della variazione di liquidità. | Non è il conto economico. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Rendiconto finanziario e liquidita» |
+| Immobilizzazione | Fattore destinato a utilità pluriennale secondo la sua classificazione. | Non è rimanenza destinata al ciclo corrente. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Rimanenze, immobilizzazioni, crediti e fondi» |
+| Fondo rischi e oneri | Posta riferita a passività di natura determinata, incerte nell'importo o nella data. | Non è una riserva di patrimonio netto. | capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Rimanenze, immobilizzazioni, crediti e fondi» |
+| Capacità giuridica | Attitudine a essere titolare di situazioni giuridiche. | Non è capacità di agire. | capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Rapporto giuridico e soggetti» |
+| Rappresentanza | Potere di produrre effetti nella sfera giuridica altrui. | Non è mera assistenza materiale. | capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Rapporto giuridico e soggetti» |
+| Adempimento | Esecuzione esatta della prestazione dovuta. | Non è qualunque comportamento del debitore. | capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Adempimento, inadempimento e mora» |
+| Responsabilità patrimoniale | Assoggettamento del patrimonio del debitore alla garanzia delle obbligazioni. | Non coincide con una specifica garanzia reale. | capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Garanzia patrimoniale e garanzie specifiche» |
+| Contratto | Accordo diretto a costituire, regolare o estinguere un rapporto patrimoniale. | Non è un atto amministrativo. | capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Contratto: formazione ed effetti» |
+| Autonomia patrimoniale | Separazione, di intensità variabile, tra patrimonio sociale e personale. | Non è identica in tutte le società. | capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Società e autonomia patrimoniale» |
+| Insolvenza | Incapacità di soddisfare regolarmente le obbligazioni, manifestata da inadempimenti o da altri fatti esteriori. | Non coincide con una singola difficoltà di liquidità. | capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Crisi d'impresa: box di allerta» |
+**Esempio compilato:** origine = legame economico con un Paese; funzione = trattamento doganale; distinzione = provenienza; rinvio = capitolo 25, paragrafo 7.
+
+**Errore tipico:** recitare una definizione senza la distinzione, dove spesso nasce il distrattore.
+
+## Appendice B - Tavole di confronto
+
+### Adempimento, accertamento e riscossione
+
+| Fase | Domanda | Output | Rinvio |
+| --- | --- | --- | --- |
+| Adempimento | Che cosa dichiara/liquida/versa il contribuente? | dichiarazione e pagamento | capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Il ciclo dell'adempimento fiscale» |
+| Controllo | Quale anomalia e quale potere? | esito istruttorio | capitolo 20, Accertamento, controlli e compliance fiscale — «Dal dato al controllo» |
+| Accertamento | Come si forma la pretesa? | atto motivato | capitolo 20, Accertamento, controlli e compliance fiscale — «Lo schema di atto e l'atto finale» |
+| Riscossione | Come si recupera il dovuto? | carico/cartella/seguito | capitolo 24, Riscossione nazionale e lavoro in AdER — «Accertamento e riscossione: la separazione essenziale» |
+
+**Istruzioni:** per un caso indica fatto, soggetto, documento ed esito di ogni fase.
+
+**Esempio:** una differenza dichiarazione-versamento apre prima una verifica; non produce da sola una cartella.
+
+**Errore tipico:** saltare direttamente da anomalia a esecuzione.
+
+### Classificazione, origine e valore
+
+| Domanda | Concetto | Rinvio |
+| --- | --- | --- |
+| Che cosa è? | classificazione | capitolo 25, Dogane e procedure doganali ADM — «Classificazione tariffaria: che cosa è la merce» |
+| Dove è originaria secondo le regole? | origine | capitolo 25, Dogane e procedure doganali ADM — «Origine: il legame economico con un Paese» |
+| Quanto vale ai fini doganali? | valore | capitolo 25, Dogane e procedure doganali ADM — «Valore in dogana: quanto vale ai fini doganali» |
+
+**Istruzioni:** scrivi tre risposte autonome.
+
+**Esempio:** merce spedita da A, lavorata in B e importata: spedizione, origine, classificazione e valore non coincidono.
+
+**Errore tipico:** usare il Paese di spedizione come origine.
+
+### Catasto e pubblicità immobiliare
+
+| Area | Risponde a | Non dimostra | Rinvio |
+| --- | --- | --- | --- |
+| Catasto | identificativi, classamento, rendita | proprietà | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Funzione e natura del catasto» |
+| Pubblicità | formalità e vicende giuridiche | correttezza catastale | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Pubblicità immobiliare: funzione civilistica» |
+
+**Istruzioni:** classifica la domanda prima di scegliere documento e ufficio.
+
+**Esempio:** visura catastale e ispezione ipotecaria rispondono a domande diverse.
+
+**Errore tipico:** trattare l'intestazione catastale come prova definitiva della proprietà.
+
+## Appendice C - Scadenziario dichiarazioni, IVA e redditi
+
+| Campo | Compilazione |
+| --- | --- |
+| Adempimento e soggetto | |
+| Periodo di riferimento | |
+| Evento iniziale | |
+| Termine vigente | |
+| Fonte/paragrafo | |
+| Data del controllo | |
+| Modello/canale | |
+| Esito atteso | |
+| Correzione/rimedio | |
+
+**Istruzioni:** compila evento, soggetto e fonte prima della data. Rinvio: capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Il ciclo dell'adempimento fiscale».
+
+**Esempio:** "liquidazione IVA periodica"; periodo e termine = da verificare per il soggetto; fonte consultata il __/__/____; esito = liquidazione e versamento secondo disciplina vigente.
+
+**Errore tipico:** ricordare una data senza soggetto, periodo e fonte.
+
+### Checklist redditi e dichiarazioni
+
+- [ ] Ho identificato soggetto e categoria reddituale?
+- [ ] Ho distinto utile, reddito imponibile e imposta?
+- [ ] Ho separato dichiarazione, liquidazione e versamento?
+- [ ] Ho verificato modello, canale e periodo?
+- [ ] Ho identificato correzione o rimedio applicabile?
+
+**Rinvii:** capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Imposte sui redditi: qualificare prima di calcolare»; capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Compensazione: gate in sei controlli».
+
+**Esempio:** un credito dichiarato non è automaticamente utilizzabile: natura, disponibilità e limiti vanno verificati.
+
+**Errore tipico:** confondere credito esposto, compensazione e rimborso.
+
+### Checklist IVA
+
+- [ ] Presupposti e territorialità?
+- [ ] Natura dell'operazione?
+- [ ] Rivalsa e condizioni della detrazione?
+- [ ] Documento e registrazione?
+- [ ] Liquidazione e fonte del termine?
+
+**Rinvio:** capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Operazioni IVA e ciclo degli adempimenti».
+
+**Esempio:** IVA esposta su un acquisto non implica automaticamente detraibilità.
+
+**Errore tipico:** confondere addebito e diritto alla detrazione.
+## Appendice D - Schemi di processo
+
+### Accertamento
+
+`dato -> selezione -> potere -> evidenze -> contraddittorio -> motivazione -> atto -> tutela`
+
+**Istruzioni:** su ogni freccia annota fatto, fonte, competenza e documento.
+
+**Esempio:** uno scostamento apre una verifica; non dimostra da solo la pretesa.
+
+**Errore tipico:** trasformare un indicatore di rischio in prova conclusiva.
+
+**Rinvio:** capitolo 20, Accertamento, controlli e compliance fiscale — «Dal dato al controllo».
+
+### Riscossione
+
+`titolo -> carico -> comunicazione/cartella -> pagamento/rate -> sospensione/sgravio -> cautela/esecuzione`
+
+**Istruzioni:** indica chi è competente per ciascun nodo.
+
+**Esempio:** pagamento già eseguito: identificare carico, prova, ente competente e canale senza promettere subito lo sgravio.
+
+**Errore tipico:** usare come sinonimi rateizzazione, sospensione, sgravio e ricorso.
+
+**Rinvio:** capitolo 24, Riscossione nazionale e lavoro in AdER — «Sospensione, sgravio e ricorso non sono sinonimi».
+
+### Dogane
+
+`arrivo -> custodia -> dichiarazione -> controlli -> classificazione/origine/valore -> regime -> debito/garanzia -> svincolo`
+
+**Istruzioni:** annota soggetti e documenti; se un dato manca, scrivi "da verificare".
+
+**Esempio:** per componenti importati motivare separatamente classificazione, origine e valore.
+
+**Errore tipico:** scegliere il regime prima di identificare merce e operazione.
+
+**Rinvio:** capitolo 25, Dogane e procedure doganali ADM — «Dall'arrivo allo svincolo».
+
+### Accise e giochi
+
+`prodotto/gioco -> fatto generatore -> esigibilità -> soggetto -> regime -> documento/sistema -> controllo`
+
+**Istruzioni:** per i giochi verifica titolo, filiera, canale e tutela; per le accise prodotto, regime ed EMCS.
+
+**Esempio:** ammanco in deposito: ricostruire regime, contabilità, evento, esigibilità ed evidenze.
+
+**Errore tipico:** confondere fatto generatore ed esigibilità.
+
+**Rinvii:** capitolo 26, Accise, giochi e monopoli — «Fatto generatore ed esigibilità»; capitolo 26, Accise, giochi e monopoli — «Giochi pubblici: riserva statale e concessione».
+
+### Catasto
+
+`immobile -> identificativi -> evento tecnico/giuridico -> procedura -> documento -> controllo -> esito`
+
+**Istruzioni:** scegli DOCFA, PREGEO, voltura o formalità solo dopo aver classificato l'evento.
+
+**Esempio:** frazionamento e vendita richiedono verifiche geometriche, catastali e immobiliari distinte.
+
+**Errore tipico:** cercare una sola pratica che risolva ogni profilo.
+
+**Rinvio:** capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Il lavoro nei servizi Territorio e SPI».
+
+## Appendice E - Canvas compilabili
+
+### Canvas del caso specialistico
+
+| Campo | Compilazione |
+| --- | --- |
+| Ente e profilo | |
+| Fatti certi/dati mancanti | |
+| Fase del ciclo | |
+| Soggetti e competenze | |
+| Fonte e regola | |
+| Procedura | |
+| Decisione motivata | |
+| Errore da evitare | |
+| Output e verifica | |
+
+**Istruzioni:** compila i fatti prima della regola. Rinvio: capitolo 30, Casi pratici, quiz e orale nelle Agenzie fiscali — «Griglia di risposta per casi pratici».
+
+**Esempio:** cartella contestata per pagamento: separare fatto da provare, competenza e possibile seguito.
+
+**Errore tipico:** iniziare citando una norma non collegata ai fatti.
+
+### Protocollo di routing "se compare nel bando"
+
+La scheda chiarisce se la materia richiede una breve integrazione del profilo fiscale o il passaggio a un'altra famiglia professionale. La sola presenza della materia nel bando non basta ad aggiungerla a M-FC02.
+
+1. trascrivi la materia con le parole del bando e registra prova, peso e profondità richiesta;
+2. collega la materia alle attività effettive del profilo, non soltanto al nome dell'ente;
+3. verifica se il nucleo è già completo in M-FC02 o nel volume base;
+4. se la materia caratterizza un'altra famiglia, usa il modulo dedicato come destinazione principale;
+5. se una materia richiesta non è trattata nel percorso individuato, segnala nel piano di studio l’integrazione necessaria e scegli un testo specialistico pertinente al programma.
+
+| Segnale nel bando | Decisione di perimetro | Destinazione precisa |
+| --- | --- | --- |
+| crisi d'impresa essenziale | resta in M-FC02 per distinzione crisi/insolvenza, assetti e segnali; per procedure avanzate espressamente richieste dal bando, integra con un testo specialistico aggiornato | capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Crisi d'impresa: box di allerta» |
+| organizzazione e gestione del personale | applica il nucleo comune del VOL-01; se il profilo è amministrativo ministeriale, integra il percorso Funzioni centrali | Pubblico impiego e organizzazione della PA; M-FC01 - Ministeri e Presidenza del Consiglio |
+| gare, contratti pubblici, procurement o PNRR | non duplicare la materia in M-FC02 quando ha peso specialistico | M-TR02 — Appalti, PNRR e fondi UE |
+| ICT, trasformazione digitale o cybersecurity | se la prova tecnica è prevalente, il percorso principale è il modulo digitale | M-TR01 — ICT e trasformazione digitale |
+| statistica o data analysis | per un richiamo strumentale usa il nucleo indicato dal bando; se la prova è tecnico-statistica, integra con un manuale di statistica o analisi dei dati adeguato al livello della prova | Programma tecnico del bando e relativo manuale specialistico |
+| territorio, catasto o servizi di pubblicità immobiliare | resta in M-FC02 quando il profilo appartiene a Territorio/SPI | capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare |
+
+**Esempio:** in un profilo ADM informatico con prova tecnica prevalente, M-FC02 fornisce il contesto dell'ente, mentre il percorso specialistico è M-TR01.
+
+**Verifica:** per ogni voce scrivi `materia - peso - prova - famiglia - destinazione`. Se manca un contenuto richiesto, annota `integrazione da studiare`, con il testo scelto e la data di verifica.
+
+**Errore tipico:** accumulare appendici quando è cambiata la famiglia professionale.
+
+**Rinvio:** capitolo 17, Bando Decoder fiscale — «Quando M-FC02 non è il modulo principale».
+
+### Protocollo front-office e protezione dati
+
+Nel front-office il servizio all'utente deve rispettare la protezione dei dati. Prima di rispondere occorre verificare identità e titolo del richiedente, competenza dell'ufficio, finalità, necessità dei dati e sicurezza del canale. Le procedure interne dell'ente restano vincolanti; questa griglia indica quando rispondere, orientare l'utente o chiedere l'intervento di un altro ufficio.
+
+| Passaggio | Domanda | Azione osservabile |
+| --- | --- | --- |
+| Identificazione | Chi chiede e con quale titolo? | verifica identità e poteri di rappresentanza secondo il canale previsto |
+| Competenza | L'ufficio può trattare la richiesta? | separa informazione generale, pratica individuale e competenza di altro ufficio |
+| Finalità e dati | Quali dati sono necessari per quella finalità? | usa soltanto i dati pertinenti e non espone informazioni di terzi |
+| Canale | Il canale consente identificazione e comunicazione sicura? | interrompe la comunicazione se il canale è inidoneo e indica quello corretto |
+| Linguaggio | La risposta è comprensibile e prudente? | distingue fatti verificati, passaggi successivi e aspetti non ancora accertati |
+| Tracciabilità | Che cosa deve restare registrato? | documenta richiesta, verifica svolta, risposta o inoltro secondo le regole interne |
+| Escalation | Esiste un dubbio su titolo, rischio o competenza? | coinvolge responsabile, ufficio competente o presidio privacy senza improvvisare |
+
+**Caso guidato:** una persona telefona per conoscere la posizione fiscale di un familiare. L'operatore non conferma alcun dato. Accertato che mancano un titolo adeguato e un canale idoneo, spiega la procedura corretta e, quando previsto, registra l'orientamento fornito. Assistere l'utente non significa divulgare informazioni.
+
+**Autoverifica:** prima di chiudere il caso, rispondi a sette domande: identità verificata? titolo sufficiente? ufficio competente? finalità chiara? dati minimizzati? canale idoneo? decisione tracciata?
+
+**Errore tipico:** promettere un esito o comunicare un dato per fare prima. Una risposta chiara descrive il percorso corretto senza anticipare decisioni che l'ufficio non ha ancora adottato.
+
+#### Schema 31.3 — Protocollo di front-office
+| Elemento | Lettura operativa |
+|---|---|
+| Ascolta e identifica | Qualifica richiesta, urgenza, identità e legittimazione. |
+| Distingui la competenza | AE, ADM, AdER o altro soggetto; verifica atto e posizione. |
+| Proteggi i dati | Usa soltanto informazioni necessarie e canali consentiti. |
+| Orienta | Indica documenti, termini e ufficio pertinente senza promettere esiti. |
+| Chiudi e traccia | Registra l’azione e inoltra il caso quando eccede la competenza. |
+
+La protezione dei dati accompagna ogni passaggio, non inizia solo a pratica conclusa.
+
+**Riferimenti:** regolamento (UE) 2016/679 (GDPR); capitolo 24, Riscossione nazionale e lavoro in AdER — «Front-office: una checklist che evita errori»; capitolo 30, Casi pratici, quiz e orale nelle Agenzie fiscali — «Caso situazionale: utente aggressivo allo sportello».
+
+## Appendice F - Sanzioni, reati, processo e diritto UE
+
+La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relativa trattazione. La teoria completa si trova nei capitoli 19, 21, 22 e 25.
+
+| Area | Domanda | Distinzione | Fonte e rinvio |
+| --- | --- | --- | --- |
+| Sanzione tributaria | Quale violazione, autore, elemento soggettivo e conseguenza? | illecito amministrativo, recupero del tributo e reato sono piani distinti | D.Lgs. 471/1997 e 472/1997; capitolo 21, Sanzioni amministrative e reati tributari |
+| Reato tributario | Quale condotta, dolo e fattispecie vengono in rilievo? | il rilievo penale richiede presupposti propri e non deriva dal solo debito fiscale | D.Lgs. 74/2000; capitolo 21, Sanzioni amministrative e reati tributari |
+| Tutela e processo | Quale atto, rimedio, giudice e fase? | tutela amministrativa, deflazione e processo non coincidono | D.Lgs. 546/1992, regime 2026; capitolo 22, Tutela e processo tributario |
+| Diritto UE fiscale | Quale fonte UE opera e come si coordina con il diritto interno? | regolamento, direttiva e disciplina nazionale producono effetti diversi | direttiva 2006/112/CE e regolamento (UE) 952/2013; capitolo 19, Diritto tributario e teoria dell'imposta — «Quadro UE fiscale, IVA e dogane» |
+| Diritto UE doganale | Quale regola unionale e quale complemento nazionale governano la fase? | fonte UE e integrazione nazionale vanno lette nella corretta gerarchia | direttiva 2006/112/CE e regolamento (UE) 952/2013; capitolo 25, Dogane e procedure doganali ADM — «Le fonti: prima l'Unione, poi il complemento nazionale» |
+
+**Istruzioni:** chiarisci anzitutto la natura dell'illecito, dell'atto o della fonte. Identifica quindi soggetti, presupposti, fase e conseguenze. Se il quesito coinvolge più piani, esaminali separatamente e nell'ordine in cui operano.
+
+**Esempio:** un'irregolarità dichiarativa può determinare recupero del tributo e conseguenze amministrative; l'eventuale rilievo penale richiede la verifica dei suoi presupposti. La tutela contro l'atto segue ancora un piano distinto.
+
+**Errore tipico:** chiamare "reato" ogni violazione fiscale o usare "ricorso" senza indicare atto, autorità e fase.
+
+#### Schema 31.4 — Qualificare condotte e conseguenze
+| Elemento | Lettura operativa |
+|---|---|
+| Fatto | Identifica condotta, soggetto e documento. |
+| Piano | Distingui recupero del tributo, illecito amministrativo e fattispecie penale. |
+| Regola | Verifica elementi, condizioni e disciplina temporale applicabile. |
+| Tutela | Collega procedimento e rimedio corretto. |
+| Risposta | Motiva la qualificazione, senza usare “reato” per ogni irregolarità. |
+
+Doveri del dipendente, responsabilità tributaria e responsabilità penale restano piani distinti.
+
+Usa la prima mappa per qualificare la condotta e separare le possibili conseguenze. Passa alla seconda soltanto dopo avere individuato la fonte applicabile: il raccordo tra diritto unionale e nazionale è un controllo distinto dalla qualificazione dell'illecito.
+
+#### Schema 31.5 — UE, dogane e operatore
+| Elemento | Lettura operativa |
+|---|---|
+| Cornice UE e CDU | Individuano regole comuni, regimi e formalità doganali. |
+| ADM | Applica e controlla nell’ambito delle proprie attribuzioni. |
+| Merce | Dichiarazione, classificazione, origine e valore qualificano l’operazione. |
+| EORI | Numero di registrazione e identificazione dell’operatore nei rapporti doganali. |
+| AEO | Status autorizzato in presenza di requisiti; facilitazioni e controlli secondo la disciplina. |
+
+EORI non certifica affidabilità AEO. Lo status AEO non elimina il potere di controllo.
+## Appendice G - Checklist orale
+
+- [ ] Definizione in una frase.
+- [ ] Funzione e fase del ciclo.
+- [ ] Distinzione da un istituto vicino.
+- [ ] Soggetti e competenze.
+- [ ] Conseguenza pratica.
+- [ ] Esempio coerente.
+- [ ] Dato mobile segnalato, non inventato.
+- [ ] Collegamento al profilo.
+
+**Istruzioni:** prepara versioni da 60, 120 e 240 secondi e registrale.
+
+**Esempio:** "accertamento e riscossione": definisci le fasi, distingui atto e titolo, collega soggetti e caso.
+
+**Errore tipico:** elencare norme e sigle senza ragionamento.
+
+**Rinvio:** capitolo 30, Casi pratici, quiz e orale nelle Agenzie fiscali — «Struttura della risposta orale».
+
+| Criterio | 0 | 1 | 2 |
+| --- | --- | --- | --- |
+| Definizione | assente | incompleta | chiara |
+| Distinzione | confusa | implicita | esplicita |
+| Sequenza | disordinata | quasi lineare | lineare |
+| Esempio | assente | generico | pertinente |
+| Prudenza | inventa dati | segnala dubbio | indica fonte |
+
+## Appendice H - Piano di ripasso
+
+| Campo | Compilazione |
+|---|---|
+| Nucleo | ________________________<br>________________________ |
+| Capitolo | ________________________<br>________________________ |
+| Stato | rosso/giallo/verde |
+| Giorno 1 | ________________________<br>________________________ |
+| 3 | ________________________<br>________________________ |
+| 7 | ________________________<br>________________________ |
+| 14 | ________________________<br>________________________ |
+| 30 | ________________________<br>________________________ |
+| Errore | ________________________<br>________________________ |
+| Nuovo output | ________________________<br>________________________ |
+
+**Istruzioni:** giorno 1 mappa; giorno 3 quiz/micro-caso; giorno 7 orale; giorno 14 collegamento; giorno 30 simulazione.
+
+**Esempio:** origine doganale: definizione e provenienza; caso; orale; collegamento con classificazione/valore; caso completo.
+
+**Errore tipico:** segnare il ripasso dopo una rilettura passiva.
+
+**Rinvio:** capitolo 30, Casi pratici, quiz e orale nelle Agenzie fiscali — «Diario errori fiscale».
+
+### Piano settimanale compilabile
+
+| Giorno | Richiamo | Applicazione | Output | Correzione |
+| --- | --- | --- | --- | --- |
+| Lunedi | teoria imposta | classificazioni | quiz | diario |
+| Martedi | IVA/redditi | scadenziario | orale | fonte vigente |
+| Mercoledi | accertamento | micro-caso | scritto | griglia |
+| Giovedi | riscossione | front-office | situazionale | diario |
+| Venerdi | dogane/accise | flusso | quiz + orale | glossario |
+| Sabato | catasto/contabilità | caso | simulazione | correzione |
+| Domenica | errori rossi | recupero | test misto | nuovo piano |
+## Da sapere in 5 righe
+
+Usa le appendici dopo aver studiato la teoria. Colloca ogni concetto nella fase corretta e distinguilo dagli istituti vicini. Per scadenze e dati mobili registra fonte e data del controllo. Il canvas deve portare a una decisione verificabile; gli errori emersi guidano i successivi quiz, casi e allenamenti orali.
+
+## Caso guidato integrato
+
+Una traccia presenta dati IVA incoerenti, una merce importata collegata alle operazioni e un successivo problema di pagamento.
+
+1. separa adempimento, controllo, accertamento e riscossione;
+2. ricostruisci classificazione, origine e valore;
+3. compila il canvas distinguendo fatti certi e mancanti;
+4. prepara un orale da 120 secondi;
+5. registra l'errore nel piano 1-3-7-14-30.
+
+Una semplice lista di IVA, dogane e riscossione non risolve la traccia. Occorre ricostruire per ciascun piano fonte, soggetto, fase e output, quindi coordinare le sequenze.
+
+## Domanda da commissario
+
+**Come distingue accertamento e riscossione?**
+
+L'accertamento ricostruisce e formalizza la pretesa; la riscossione riguarda pagamento o recupero sulla base del titolo pertinente. Nel caso vanno identificati atto, soggetto competente, fase, garanzie e seguiti.
+
+## Domanda-trappola
+
+**Una scadenza memorizzata l'anno scorso può essere riportata senza verifica?**
+
+No. Va verificata sulla fonte vigente e collegata a soggetto, periodo, modello e data del controllo.
+
+## Errore tipico
+
+Compilare le caselle con parole generiche come "controllo" o "ricorso". Ogni casella deve identificare almeno un fatto, una fonte, una competenza, un documento o una decisione.
+
+## Mini-esercizio
+
+Scegli un nucleo rosso e produci una voce di glossario, una tavola, un canvas, un orale da 120 secondi e la prima riga del piano di ripasso. Se compare un dato mobile, aggiungi fonte e data.
+
+## Riferimenti essenziali
+
+TUIR; D.P.R. 600/1973 e 602/1973; legge 212/2000; D.Lgs. 471/1997, 472/1997, 74/2000 e 546/1992 nel regime 2026; CDU; TUA; regolamento (UE) 2016/679. I capitoli indicati nelle tavole sviluppano le relative regole e applicazioni.

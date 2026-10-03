@@ -1,0 +1,122 @@
+{
+  "V12-36": {
+    "change": "Giurisdizione ordinaria civile e penale, funzioni giudicanti e requirenti; fonti dei requisiti distinte; precedenti esiti della procuratura.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-37": {
+    "change": "Eliminati riferimenti alla ricerca interna; base dell’età ricondotta al D.P.C.M. 141/2000 e bando applicativo.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-38": {
+    "change": "Lingua qualitativa, minimi numerici e totale 108 con esempi chiusi.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-39": {
+    "change": "Distinti domanda e diario in cap. 2; confronto retrospettivo e candidatura storica tempestiva nel cap. 6.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-40": {
+    "change": "Formula anagrafica del bando, D.P.C.M. 141/2000 e computo dei compleanni; due precedenti non idoneità; soglie autonome e correzione sequenziale.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-41": {
+    "change": "Separati prima candidatura di Marta e cinque esiti di Andrea, con cronologie possibili.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-42": {
+    "change": "Pratica alla scadenza, invio anticipato e certificato successivo distinti anche nella domanda-trappola.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-43": {
+    "change": "Comando della traccia prima del formato; tema breve svolto, soluzione Alfa/Beta con danni e varianti, clausole testamentarie motivate e confronto prima/dopo.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-44": {
+    "change": "Formato deciso dal comando espresso; tesi e obiezioni solo quando pertinenti.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-45": {
+    "change": "Corrette forme aggiungi, classificale e pagina scritta male e corretta bene.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-46": {
+    "change": "Piano su due anni con ore, prodotti e revisioni condizionate; caso dichiarato composito, candidatura storica tempestiva e studio successivo.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  },
+  "V12-47": {
+    "change": "Difesa concreta su requisito temporale, prova documentale e tardività; mancanza documentale distinta da incertezza interpretativa; checklist degli esiti.",
+    "files": [
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md"
+    ],
+    "evidence": "Audit specialistico e gate 15 passato; fonti, calcoli e chiavi nelle evidenze M-SP03. Nuovo PDF ancora necessario.",
+    "status": "applicato"
+  }
+}

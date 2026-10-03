@@ -1,0 +1,201 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-08-release-20261003-proof.pdf",
+  "sha256": "ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de",
+  "pages": 244,
+  "domPages": 244,
+  "pageCountMatch": true,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "indexEntries": [
+    {
+      "number": 1,
+      "title": "Lavorare come ICT nella PA: ruoli, enti e prove",
+      "indexPage": 6,
+      "printedPage": 10,
+      "actualPage": 10,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md"
+    },
+    {
+      "number": 2,
+      "title": "Informatica specialistica: cosa serve oltre il VOL-01",
+      "indexPage": 6,
+      "printedPage": 26,
+      "actualPage": 26,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md"
+    },
+    {
+      "number": 3,
+      "title": "Programmazione, algoritmi e strutture dati",
+      "indexPage": 6,
+      "printedPage": 42,
+      "actualPage": 42,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md"
+    },
+    {
+      "number": 4,
+      "title": "Basi dati, SQL/NoSQL e qualità del dato",
+      "indexPage": 6,
+      "printedPage": 60,
+      "actualPage": 60,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md"
+    },
+    {
+      "number": 5,
+      "title": "Reti, sistemi operativi e infrastrutture",
+      "indexPage": 6,
+      "printedPage": 79,
+      "actualPage": 79,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md"
+    },
+    {
+      "number": 6,
+      "title": "Ingegneria software, API e interoperabilità PA",
+      "indexPage": 6,
+      "printedPage": 96,
+      "actualPage": 96,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md"
+    },
+    {
+      "number": 7,
+      "title": "Cloud PA, virtualizzazione, container e DevOps",
+      "indexPage": 7,
+      "printedPage": 115,
+      "actualPage": 115,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md"
+    },
+    {
+      "number": 8,
+      "title": "Cybersecurity operativa: rischio, controlli e vulnerabilità",
+      "indexPage": 7,
+      "printedPage": 133,
+      "actualPage": 133,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md"
+    },
+    {
+      "number": 9,
+      "title": "IAM, crittografia, logging e incident response",
+      "indexPage": 7,
+      "printedPage": 151,
+      "actualPage": 151,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md"
+    },
+    {
+      "number": 10,
+      "title": "Data governance, open data, interoperabilità e qualità",
+      "indexPage": 7,
+      "printedPage": 167,
+      "actualPage": 167,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md"
+    },
+    {
+      "number": 11,
+      "title": "AI/ML nella PA: modelli, rischi e compliance",
+      "indexPage": 7,
+      "printedPage": 183,
+      "actualPage": 183,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md"
+    },
+    {
+      "number": 12,
+      "title": "Procurement ICT e gestione dei fornitori",
+      "indexPage": 8,
+      "printedPage": 199,
+      "actualPage": 199,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md"
+    },
+    {
+      "number": 13,
+      "title": "Laboratorio prove ICT: quiz, scritto tecnico, orale e casi",
+      "indexPage": 8,
+      "printedPage": 222,
+      "actualPage": 222,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md"
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "name": "AAAAAA+Arial-BoldMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "BAAAAA+Garamond",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+Arial-Black",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "EAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "",
+      "type": "Type3",
+      "embedded": true
+    },
+    {
+      "name": "GAAAAA+Georgia",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "HAAAAA+SegoeUISymbol",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "IAAAAA+Consolas",
+      "type": "Type0",
+      "embedded": true
+    }
+  ],
+  "allFontsEmbedded": true,
+  "overflowPages": [],
+  "internalLeaks": [],
+  "replacementGlyphs": 0,
+  "missingImages": 0,
+  "indexMinimumPt": 9.500025,
+  "limits": [
+    "Verifica tecnica locale; non equivale a revisione visiva o certificazione normativa.",
+    "Nessuna prova fisica o KDP Previewer eseguita."
+  ]
+}

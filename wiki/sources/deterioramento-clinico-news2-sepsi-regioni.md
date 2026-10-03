@@ -11,7 +11,7 @@ source_refs:
   - "sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.98
-updated_at: 2026-07-29T12:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T12:30:00+02:00
 review_required: true
 canonical: true
@@ -45,6 +45,10 @@ Il documento Emilia-Romagna espone i sette elementi usati dal NEWS2, le soglie d
 - predisporre domande orali e checklist sulla priorità di intervento e sulla comunicazione strutturata.
 
 ## Limiti e cautele
+
+### Correzione verificata il 3 ottobre 2026
+
+Il [rapporto primario RCP NEWS2, dicembre 2017](https://www.rcp.ac.uk/media/a4ibkkbf/news2-final-report_0_0.pdf), raccomandazioni 2 e 25–28 e §5, circoscrive la scala SpO₂ 2 a insufficienza respiratoria ipercapnica confermata mediante emogasanalisi, nel ricovero corrente o precedente, con decisione clinica documentata e target 88–92%. La sola BPCO non basta; negli altri casi si usa la scala 1. NEWS2 non è lo strumento standard per minori di 16 anni o gravidanza. Il capitolo sostituisce l'etichetta regionale troppo ampia «per BPCO» con questo criterio primario; nessun cambiamento dei punteggi. RCP resta titolare dello strumento, qui spiegato e non presentato come algoritmo originale del manuale.
 
 Sono documenti regionali e non sostituiscono protocolli locali o linee guida applicabili nel singolo contesto. NEWS2 supporta la valutazione e l'escalation, ma non sostituisce il giudizio clinico. Il corpus non chiude il fabbisogno su ALS né sulle emergenze specifiche dei diversi profili professionali.
 

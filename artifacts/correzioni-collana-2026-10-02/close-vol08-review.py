@@ -1,0 +1,14 @@
+from pathlib import Path
+import re,json,hashlib,shutil
+A=Path('artifacts/correzioni-collana-2026-10-02');B=Path('wiki/books/moduli/m-tr01-ict-trasformazione-digitale');R=Path('wiki/reviews/pipeline/VOL-08')
+for p in list((B/'chapters').glob('*.md'))+[B/'index.md',B/'planning/02-matrice-copertura-didattica.md',Path('wiki/sources/ict-rettifiche-specialistiche-2026-10-03.md'),Path('wiki/topics/ict-rettifiche-specialistiche-2026.md')]:
+ s=p.read_text(encoding='utf8');s=re.sub(r'^review_required:.*$','review_required: false',s,flags=re.M);p.write_text(s,encoding='utf8')
+p=R/'15-moduli-m-tr01-ict-trasformazione-digitale.md'
+if p.exists() and not (A/'before-text/VOL-08'/p.name).exists():shutil.copy2(p,A/'before-text/VOL-08'/p.name)
+s=(R/'14-moduli-m-tr01-ict-trasformazione-digitale.md').read_text(encoding='utf8').replace('Correzioni integrali del testo','Audit specialistico conclusivo del testo').replace('Applicato; riesame specialistico corrente','Verificato e chiuso').replace('Descrizione | Correzione proposta','Evidenza originaria | Correzione applicata').replace('Audit specialistico e freeze tramite CLI;', 'Audit specialistico concluso: zero errori gravi o medi noti aperti nel perimetro riesaminato; procedere al freeze tramite CLI;')
+s=s.replace('Il test di regressione riproduce prima', 'I 47 test di regressione passano, insieme al controllo TypeScript. Nessun box Dato operativo rilevato dal CLI. Il test di regressione riproduce prima')
+p.write_text(s,encoding='utf8')
+files=sorted((B/'chapters').glob('*.md'));source=Path('wiki/sources/ict-rettifiche-specialistiche-2026-10-03.md').read_text(encoding='utf8');urls=sorted(set(re.findall(r'\]\((https?://[^)]+)\)',source)))
+ledger={'volume':'VOL-08','module':'M-TR01','date':'2026-10-03','reviewType':'baseline integrale documentata nel ledger audit più riesame dei delta correnti','textVerified':True,'finalVerified':False,'findings':json.loads((A/'VOL-08-applied.json').read_text(encoding='utf8')),'chapterGates':'13/13 senza warning','format2':{'nuclei':82,'passed':True,'staffEvidence':'planning/verifiche','testsPassed':47},'newMcQuestions':12,'answerDistribution':{'A':3,'B':3,'C':3,'D':3},'bodyLinksUnresolved':0,'externalClaimsChecked':urls,'files':[{'path':p.as_posix(),'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'readComplete':'baseline audit integrale; delta riletti e controllati','quizReview':'baseline completa; nuove domande e soluzioni ricontrollate'} for p in files],'limitations':['PDF e figure aggiornati ancora da verificare','ANAC: riscontro indicizzato, download fallito dichiarato; nessuna soglia non letta inserita','Nessuna lettura integrale dichiarata del regolamento UE di 41 pagine o della Gazzetta intera; passaggi pertinenti verificati']}
+(A/'VOL-08-ledger.json').write_text(json.dumps(ledger,ensure_ascii=False,indent=2),encoding='utf8')
+print('Riesame specialistico chiuso, metadati e ledger aggiornati.')

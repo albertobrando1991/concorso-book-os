@@ -45,6 +45,33 @@ export function extractOperationalDataReviewRows(content: string, file: string):
     })
   }
 
+  // Audit metadata belongs in frontmatter; the reader can use native tables.
+  // Keep legacy boxes authoritative when a chapter contains both formats.
+  const metadata = parsed.data.dati_operativi_audit
+  if (Array.isArray(metadata)) {
+    for (const value of metadata) {
+      if (!value || typeof value !== "object") continue
+      const item = value as Record<string, unknown>
+      const field = (name: string, fallback: string) =>
+        typeof item[name] === "string" && item[name].trim() ? item[name].trim() : fallback
+      const id = field("id", "")
+      if (!id || rows.some((row) => row.id === id)) continue
+      const heading = field("heading", "")
+      const headingLine = heading ? lines.findIndex((line) => line.replace(/^#{1,6}\s+/, "").trim() === heading) : -1
+      const metadataLine = lines.findIndex((line) => /^dati_operativi_audit:/.test(line))
+      rows.push({
+        id,
+        title: field("title", heading || id),
+        file,
+        line: (headingLine >= 0 ? headingLine : metadataLine) + 1,
+        auditArea: field("auditArea", "specialistica"),
+        source: field("source", "NON INDICATA"),
+        version: field("version", "NON INDICATA"),
+        verifiedAt: field("verifiedAt", "NON INDICATA")
+      })
+    }
+  }
+
   return rows
 }
 

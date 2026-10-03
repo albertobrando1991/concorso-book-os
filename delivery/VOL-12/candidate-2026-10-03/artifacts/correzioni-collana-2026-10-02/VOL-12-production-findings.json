@@ -1,0 +1,67 @@
+{
+  "volume": "VOL-12",
+  "pdf": "vol-12-final-20261003-proof.pdf",
+  "sha256": "70f546098427dd2dfaa02dad1ce8df3ac266f92671e991aa891782809df8ee88",
+  "findings": [
+    {
+      "id": "P12-01",
+      "position": "Indice pp. 6–11",
+      "status": "verificato",
+      "evidence": "Indice a 9,5 pt nominali; 194 voci con destinazioni fisiche corrette. Aumentato spazio e corpo delle voci."
+    },
+    {
+      "id": "P12-02",
+      "position": "Intero PDF",
+      "status": "verificato",
+      "evidence": "Nessun tag br stampato: controllo testuale totale e panoramica delle pagine. Gestione dei ritorni di cella corretta."
+    },
+    {
+      "id": "P12-03",
+      "position": "pp. 127–129",
+      "status": "verificato",
+      "evidence": "Scheda per un concorso con 16 campi vuoti, suddivisa in tre tabelle. Griglia precedente sostituita senza perdere i campi."
+    },
+    {
+      "id": "P12-04",
+      "position": "Schede SP01 e SP03",
+      "status": "parzialmente verificato",
+      "evidence": "Campi vuoti ampliati e leggibili sul PDF; non eseguita compilazione fisica a penna. Miglioramento applicato; prova d’uso cartacea da includere nella prova fisica."
+    },
+    {
+      "id": "P12-05",
+      "position": "Indice e numerazione del corpo",
+      "status": "verificato",
+      "evidence": "Nuclei rinumerati senza duplicazioni; rinvii interni descrittivi. Indice rigenerato e verificato."
+    },
+    {
+      "id": "P12-06",
+      "position": "Aperture dei capitoli",
+      "status": "verificato",
+      "evidence": "Titolo principale unico. Eliminata duplicazione nella proiezione."
+    },
+    {
+      "id": "P12-07",
+      "position": "p. 129",
+      "status": "pendente non bloccante",
+      "evidence": "La pagina contiene ancora l’ultima riga della scheda e i riferimenti, con ampio bianco residuo. Miglioramento facoltativo ancora valutabile senza ridurre il corpo."
+    },
+    {
+      "id": "P12-08",
+      "position": "Cap. 19, pp. 300–302",
+      "status": "verificato",
+      "evidence": "Alternative A–D su righe distinte e commenti separati. Formato delle verifiche uniformato."
+    },
+    {
+      "id": "FM12-01",
+      "position": "p. 1",
+      "status": "pendente",
+      "evidence": "La proiezione generata afferma che sono inclusi servizi digitali non verificati per questa edizione. Confermare condizioni e accesso reali oppure proiettare un testo autonomo senza promessa."
+    },
+    {
+      "id": "FM12-02",
+      "position": "p. 3",
+      "status": "pendente",
+      "evidence": "Pagina editoriale generica; dati definitivi di edizione e titolarità non attestati in questa revisione. Completare i dati effettivi prima della pubblicazione."
+    }
+  ]
+}

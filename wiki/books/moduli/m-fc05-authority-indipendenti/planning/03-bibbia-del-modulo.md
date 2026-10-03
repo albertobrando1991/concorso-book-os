@@ -6,7 +6,7 @@ status: final
 domain: "concorsi pubblici italiani"
 volume_code: VOL-05
 module_code: M-FC05
-updated_at: 2026-08-22
+updated_at: 2026-10-03
 review_required: false
 canonical: true
 tags: ["module-bible", "m-fc05", "editorial-consistency"]
@@ -16,7 +16,7 @@ tags: ["module-bible", "m-fc05", "editorial-consistency"]
 
 ## Promessa editoriale
 
-Preparare candidati giuridici, economici e policy a leggere bandi delle authority, distinguere competenze e procedimenti, risolvere quiz e casi e produrre risposte orali o memo verificabili. Il modulo sviluppa il delta specialistico e rinvia al VOL-01 soltanto per il nucleo comune.
+Preparare candidati giuridici, economici e giuridico-economici a leggere bandi delle authority, distinguere competenze e procedimenti, risolvere quiz e casi e produrre risposte orali o memo verificabili. Il modulo sviluppa il delta specialistico e rinvia al VOL-01 soltanto per il nucleo comune.
 
 ## Voce e metodo
 
@@ -44,8 +44,12 @@ Preparare candidati giuridici, economici e policy a leggere bandi delle authorit
 2. Regolazione, consultazione, vigilanza, prova, sanzioni e rimedi.
 3. Economia industriale, econometria e contabilità regolatoria.
 4. Authority settoriali: AGCM, ARERA, AGCOM, CONSOB, Banca d'Italia, IVASS, Garante e ANAC.
-5. Laboratorio conclusivo per profili giuridici, economici e policy.
+5. Laboratorio conclusivo per profili giuridici, economici e giuridico-economici.
 
 ## Fonti e aggiornamento
 
 Le fonti interne restano nel frontmatter. Nel corpo gli atti sono citati con nome leggibile. Il cutoff è il 22 agosto 2026. REMIT, SSM, MiCAR, DORA, Arbitro Assicurativo e whistleblowing seguono il dossier specialistico del ciclo; un aggiornamento sostanziale riapre copertura, revisione, audit specialistico e impaginazione.
+
+## Versione del 3 ottobre 2026
+
+Quindici capitoli; percorsi G giuridico, E economico-regolatorio e P giuridico-economico. Novanta quesiti aperti specifici, quindici casi finali e dieci simulazioni svolte con dossier, tre prove economiche numeriche e memo inglese. Il capitolo 1 contiene rinvii puntuali al base e piani di studio alternativi. Il perimetro non comprende un corso avanzato di econometria né ogni materia di qualsiasi bando.

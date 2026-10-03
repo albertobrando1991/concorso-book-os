@@ -1,0 +1,138 @@
+[
+  {
+    "name": "disp113-correct",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=8&art.flagTipoArticolo=1&art.codiceRedazionale=089G0340&art.idArticolo=113&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1989-08-05&art.progressivo=0&",
+    "sha256": "a6d2fd6cce73d9ccca5e5c45f4bab6eea990cc5167e9ad97a0e39147bc839dd0",
+    "characters": 237,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "disp114-correct",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=8&art.flagTipoArticolo=1&art.codiceRedazionale=089G0340&art.idArticolo=114&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1989-08-05&art.progressivo=0&",
+    "sha256": "91fd52d367c4224f78610e1a00ea2e3ae872c8decf213c095f27258dd459d246",
+    "characters": 285,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "tulps1-correct",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=1&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+    "sha256": "2165e1e9c6140d0b88917d5d56a9fb41eabb533d419856a90d77b4b5c4f6ad26",
+    "characters": 873,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d152-232ter-correct",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=40&art.flagTipoArticolo=0&art.codiceRedazionale=006G0171&art.idArticolo=232&art.idSottoArticolo=3&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2006-04-14&art.progressivo=0&",
+    "sha256": "6bba36fd18be1d6417908b42ee8fcfb50fd6758201bd6d89245f4d1b3e07a652",
+    "characters": 0,
+    "readComplete": true,
+    "readScope": "Articolo integrale letto in HTML; estrattore TXT non riconosce article-pre-comma-text-akn"
+  },
+  {
+    "name": "l689-art11",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=1&art.flagTipoArticolo=0&art.codiceRedazionale=081U0689&art.idArticolo=11&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1981-11-30&art.progressivo=0&",
+    "sha256": "804ea1713e6606c2c889781f68d7143c896478ec6a8ba74739705ab23f751151",
+    "characters": 399,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "cds-art15",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=17&art.idGruppo=2&art.flagTipoArticolo=0&art.codiceRedazionale=092G0306&art.idArticolo=15&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1992-05-18&art.progressivo=0&",
+    "sha256": "5cbd9a586af5e11a82f50fcf32d6fde25482c0bdf06a7767ca16da05da4042b6",
+    "characters": 2505,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "cpp357-correct",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=357&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "sha256": "c2950fe0b5dee65e4a4c37530607ce657002eab34fc3e1175b4593d211b2f0f1",
+    "characters": 2290,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "l121-art15",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=1&art.flagTipoArticolo=0&art.codiceRedazionale=081U0121&art.idArticolo=15&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1981-04-10&art.progressivo=0&",
+    "sha256": "eb1c4bf2c7991454a2b94d34a1b2a2a30a46c5f4c6ed86b56bebc50347c9d786",
+    "characters": 951,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d286-art19",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=11&art.idGruppo=4&art.flagTipoArticolo=0&art.codiceRedazionale=098G0348&art.idArticolo=19&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1998-08-18&art.progressivo=0&",
+    "sha256": "58b9370f2939ac24f6db26ece83909b07a40fe3fafb7536ca33e2ef99143e7e8",
+    "characters": 3321,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "cpa29",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=9&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=29&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+    "sha256": "257cf7a1ef140b8b6d4853eca6476be212fa0c66b442fc9dcfd1b36c628f3921",
+    "characters": 173,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d59-art64",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=11&art.flagTipoArticolo=0&art.codiceRedazionale=010G0080&art.idArticolo=64&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-04-23&art.progressivo=0&",
+    "sha256": "81eda55cc9ffb3794b8b470ad145b97616acc588fd8cdd50cb4c4bb811c4d8eb",
+    "characters": 5756,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d59-art65",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=11&art.flagTipoArticolo=0&art.codiceRedazionale=010G0080&art.idArticolo=65&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-04-23&art.progressivo=0&",
+    "sha256": "80b49d10853aa497d3c56e2f2bc8e6b59d9f6d676b8df53e671ad787d0e9c0db",
+    "characters": 719,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d66-art2",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=1&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=2&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+    "sha256": "aab332c00bb49fc8a49c1156d35ad2b48f30566f747e0f00be99f19306037798",
+    "characters": 1804,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d66-art4",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=2&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=4&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+    "sha256": "4f9966fe824be98a580a595d371d3adc982cb4117aa3cc4b3343e9afcb009f13",
+    "characters": 822,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d66-art7",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=3&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=7&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+    "sha256": "7a0af2cd200b338c680edb8da4324d231c25daf9f41b134d959cf3984f5daf65",
+    "characters": 328,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d66-art8",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=3&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=8&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+    "sha256": "6fb284a23af6482de35453476f9d8bfe08317a6fe88d8a22c54fc312dd0e483b",
+    "characters": 1105,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  },
+  {
+    "name": "d66-art9",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=3&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=9&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+    "sha256": "623541827e3a2169852a2fb55aef73a8e14083af42226474a5fea3cadcfb3a37",
+    "characters": 4237,
+    "readComplete": true,
+    "readScope": "Articolo integrale"
+  }
+]

@@ -9,7 +9,7 @@ entities: ["Metodo BANDO", "Capitale Personale"]
 source_refs: ["sources/vol-02-dossier-redazionale-enti-locali-polizia-locale.md", "sources/vol-02-fonti-ufficiali-scaricate-2026-07-09.md", "sources/bandi-inpa-vol-02-campione-2026.md"]
 book_refs: ["vol-02-enti-locali-polizia-locale"]
 confidence: 0.9
-updated_at: 2026-07-17T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-09T18:30:00+02:00
 review_required: true
 canonical: true
@@ -26,11 +26,11 @@ last_compiled_from: ["wiki/books/vol-02-enti-locali-polizia-locale/front-matter/
 | Blocco | Contenuto |
 |---|---|
 | **Orientamento VOL-02** | Come usare il volume con VOL-01, Bando Decoder territoriale, piano 30/60/90 e confini con gli altri volumi specialistici. |
-| **M-FL01 - Comuni, Unioni e servizi comunali** | TUEL operativo, statuti, organi, atti, procedimento locale, servizi demografici/sociali, contabilità locale, tributi, patrimonio, controlli e laboratorio teorico-pratico. |
-| **M-FL02 - Regioni, Province e Città metropolitane** | Ordinamento regionale e di area vasta, competenze, procedimenti, programmazione, bilancio, drafting, fondi UE, PNRR, società partecipate e funzioni territoriali. |
-| **M-FL03 - Camere di commercio** | Modulo di riconciliazione incluso: sistema camerale, Unioncamere, Registro imprese, servizi alle imprese, regolazione del mercato e laboratorio bando camerale. |
-| **M-FL04 - Polizia locale** | Ordinamento, qualifiche, poteri, Codice della strada, L. 177/2024, sanzioni, polizia giudiziaria, TULPS, sicurezza urbana, commercio, edilizia, ambiente, sinistri e atti. |
-| **Simulazione finale VOL-02** | Bando locale integrato, quiz, risposta sintetica, caso pratico, verbale/atto, orale e diario degli errori. |
+| **M-FL01 — Comuni, Unioni e servizi comunali** | TUEL operativo, statuti, organi, atti, procedimento locale, servizi demografici/sociali, contabilità locale, tributi, patrimonio, controlli e laboratorio teorico-pratico. |
+| **M-FL02 — Regioni, Province e Città metropolitane** | Ordinamento regionale e di area vasta, competenze, procedimenti, programmazione, bilancio, drafting, fondi UE, PNRR, società partecipate e funzioni territoriali. |
+| **M-FL03 — Camere di commercio** | Sistema camerale, Unioncamere, Registro imprese, servizi alle imprese, regolazione del mercato e laboratorio bando camerale. |
+| **M-FL04 — Polizia locale** | Ordinamento, qualifiche, poteri, Codice della strada, L. 177/2024, sanzioni, polizia giudiziaria, TULPS, sicurezza urbana, commercio, edilizia, ambiente, sinistri e atti. |
+| **Simulazione finale VOL-02** | Prova didattica con 20 quiz commentati e quattro percorsi a scelta: risposta sintetica, caso, documento svolto, orale e griglia di correzione. |
 
 > [!TIP]
 > Come leggere il volume

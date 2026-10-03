@@ -1,0 +1,655 @@
+{
+  "volume": "VOL-09",
+  "date": "2026-10-03",
+  "pdfSha256": "8dd41fc17e9e2cf638e8b1e3279a1f679b68243fb624853fa620ac9b99cb9097",
+  "finalSignoff": false,
+  "files": [
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-09-cover.pdf",
+      "bytes": 149869,
+      "sha256": "1802c6ca37b00a33c2d7bf67ce8c2f1931e7c59f22f2925682b18de86011edd3"
+    },
+    {
+      "path": "dom-metrics.json",
+      "bytes": 672029,
+      "sha256": "dc9a5279884f53ebeae407d1462761a738077dcec9910714f592f57f2d9e969c"
+    },
+    {
+      "path": "index-subentries.json",
+      "bytes": 12207,
+      "sha256": "dc9ebfb5707d3d7d8de9835d0c83ac5bc877dd4416a1a511b3d4a46154d4f751"
+    },
+    {
+      "path": "page-ledger.json",
+      "bytes": 113254,
+      "sha256": "e70d2bf5eae4262b52937e6368c07d31fb6b95bb43df793d6eb62e751e9e9de5"
+    },
+    {
+      "path": "payload.json",
+      "bytes": 746341,
+      "sha256": "1a1e8b519f1c28839cbfeb070f645fc717880ac38e1a2494a8f65bfa6fd5a3a1"
+    },
+    {
+      "path": "pdf-geometry.json",
+      "bytes": 39258,
+      "sha256": "cdb243b9ee35874656efe3d7f4f64764195ed8e75f2b18b31e7fb90833400382"
+    },
+    {
+      "path": "publication-refinements/export-publication-refinements.mjs",
+      "bytes": 8386,
+      "sha256": "e08c2912e3d810aaa717b28a53decf819d3faebba7be53c52dc862c379d8a8ee"
+    },
+    {
+      "path": "publication-refinements/gantt-sportello-digitale.png",
+      "bytes": 98914,
+      "sha256": "e2e3e90027f658cbf4be79b05e09d450bf1655b7c6804d9e427e9d14d8fdf711"
+    },
+    {
+      "path": "publication-refinements/M-TR02-freeze.json",
+      "bytes": 9868,
+      "sha256": "5f19a7102d6b0a521273b05b5ecf342796a3579d3e19f8a52043ad3835517cbf"
+    },
+    {
+      "path": "publication-refinements/PDF-VOL-09.md",
+      "bytes": 6402,
+      "sha256": "d4732004ae59e0641621f4a39f7468812640eb6bfa328fc499d9549351c9f557"
+    },
+    {
+      "path": "publication-refinements/verify-publication-refinements.py",
+      "bytes": 3831,
+      "sha256": "24ba17c2bb9bd716f0ec1afd6cecb9818e4eae1e12313d7f8bdb66f8047dfb33"
+    },
+    {
+      "path": "publication-refinements/vol-09-page-240.png",
+      "bytes": 123837,
+      "sha256": "8c1e7666de70aaa5a80a75ddff5d26999266b5a23c25dbd478f25cd9fa67d130"
+    },
+    {
+      "path": "publication-refinements/VOL-09-publication-gantt-resolution.json",
+      "bytes": 682,
+      "sha256": "e996a47ecc299f47b68da374caefcbff643c27ed42535354b8c5609ae2f313f9"
+    },
+    {
+      "path": "publication-refinements/vol-09-publication-refined-20261003-payload.json",
+      "bytes": 746341,
+      "sha256": "1a1e8b519f1c28839cbfeb070f645fc717880ac38e1a2494a8f65bfa6fd5a3a1"
+    },
+    {
+      "path": "publication-refinements/vol-09-publication-refined-20261003-proof-metrics.json",
+      "bytes": 672029,
+      "sha256": "dc9a5279884f53ebeae407d1462761a738077dcec9910714f592f57f2d9e969c"
+    },
+    {
+      "path": "publication-refinements/VOL-09-verification.json",
+      "bytes": 820,
+      "sha256": "7a88352a5056c2621bb908f7d94df564c58baba159c1f5cd146f2d784c364953"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2773,
+      "sha256": "4f84da4808779489fd9fa426a498c3586035fec45aac44d936995936d8b26c9c"
+    },
+    {
+      "path": "render-comparison.json",
+      "bytes": 66230,
+      "sha256": "75f4ec5ee9cb1af8df6de1f75f3bfb6032012b2767a7c9a4f4b635f4c7aacc1a"
+    },
+    {
+      "path": "renderer-source-hashes.json",
+      "bytes": 1428,
+      "sha256": "9647ea01c1e333aeee481996057d992e77a69f6066c59abab6cc59d7e602faa7"
+    },
+    {
+      "path": "reports/M-TR02-freeze.json",
+      "bytes": 9868,
+      "sha256": "5f19a7102d6b0a521273b05b5ecf342796a3579d3e19f8a52043ad3835517cbf"
+    },
+    {
+      "path": "reports/PDF-VOL-09.md",
+      "bytes": 6402,
+      "sha256": "d4732004ae59e0641621f4a39f7468812640eb6bfa328fc499d9549351c9f557"
+    },
+    {
+      "path": "reports/VOL-09-final-form-delta.json",
+      "bytes": 724,
+      "sha256": "e4097e9523a2716bd492343234945e9ddba6867ce8588eedef98af1226b92407"
+    },
+    {
+      "path": "reports/VOL-09-ledger.json",
+      "bytes": 3257,
+      "sha256": "bcece3dd21b2708a069aad69d41f730976b2de09c268e8a4603670482e6d8760"
+    },
+    {
+      "path": "reports/VOL-09.md",
+      "bytes": 26525,
+      "sha256": "b643e8abd931d3554db56195b3af16e4f219c6c2a55e5193ccad50c74659d0ae"
+    },
+    {
+      "path": "reproduction/export-frozen.mjs",
+      "bytes": 4493,
+      "sha256": "447ca8f3376d82037842319cb3568b61775158cd481133c7910d6d4cbb553ae2"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/assets/correzioni-2026-10/gantt-sportello-digitale.pdf",
+      "bytes": 2170,
+      "sha256": "595514a50a62bb55ec4b799e6c9dc94489688ebbbea7c417369e08f5571f5ce0"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/assets/correzioni-2026-10/gantt-sportello-digitale.png",
+      "bytes": 98914,
+      "sha256": "e2e3e90027f658cbf4be79b05e09d450bf1655b7c6804d9e427e9d14d8fdf711"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md",
+      "bytes": 37681,
+      "sha256": "bb868b0c1a2ad0756e1e45c03884310168a9d7d6cbe82fedee0a9086d7a4f311"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md",
+      "bytes": 39411,
+      "sha256": "24e3351f2488c963d98b59f2b52baf66c1a91ec40b6b4f14e068ae3aa0af9788"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md",
+      "bytes": 42983,
+      "sha256": "17aa1405d510a26fc04a8ace90da8caf392d801aaa08133f89e7be2aa84ed214"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md",
+      "bytes": 49640,
+      "sha256": "f07c9d2da3370dd9d10e77f7f681084d05e60cce4fd4481511be8ccf7f27df58"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md",
+      "bytes": 41877,
+      "sha256": "930b4cf0b35eabf44321a3c7c90de244dc98df88fa9f7adad9289c17bf982f64"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "bytes": 39710,
+      "sha256": "b6b4c0058ec585b130d99ac020f3aa58ea48b78c367b74fef36ae536c813cbe7"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+      "bytes": 45106,
+      "sha256": "b74a42ae83508b5e9b0b8715ad6abe5f0edfe1fd9d8145841ffa2664ab634d3c"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md",
+      "bytes": 39794,
+      "sha256": "fc6c8381033ec0ce8e1ae7f6fb98c920f72e4295f57f3ff642f303656da05a12"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md",
+      "bytes": 45654,
+      "sha256": "d2657953006b28e0e12bc0cb6e248fab4c3e687d2bf89d3aa207b8d69d3c7ec9"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md",
+      "bytes": 43991,
+      "sha256": "8325af1006f1c7bc320f98e1cb6c10af05951d284bda4453f77190a4c1ca942e"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md",
+      "bytes": 44916,
+      "sha256": "a3cc334ef46d90945665b453a244b552697830839ec6eb7e17e7566c40665364"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md",
+      "bytes": 57233,
+      "sha256": "ef7014bb3fae9d5669f5f5e217ab7aadd3553614a4dfcd40939c51a162aa1fda"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+      "bytes": 41664,
+      "sha256": "a844d6b22356ca4e454e40bec306c3ea5e88d75abdd883b7bf3f2a75e84f88c8"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md",
+      "bytes": 54265,
+      "sha256": "6ea8f9a230555eb4963825c07a1650f4fdd8021cd1bccc3b5f11ffeff9d6b2c1"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/index.md",
+      "bytes": 16357,
+      "sha256": "5b5d91f8773894c8dd6cb50b46a4ba46c16899c7272cc844711ca5db21fabcc9"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/planning/01-indice-analitico-vol-09.md",
+      "bytes": 4566,
+      "sha256": "c8260d6badba77be53ac7780d852408940bf37ca9703325866c4803ddcb8edcd"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/planning/02-matrice-copertura-didattica.md",
+      "bytes": 94676,
+      "sha256": "36ed06a3ec3db72f2a50bbe2cb1197f18301351d4afe6a0730e5a94fbc44f07e"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/planning/10-manifest-nuclei-format-2.json",
+      "bytes": 75605,
+      "sha256": "adb86a88e0faece99aaf97d9f9dd7ad1581d5f19766db5c2e73d9db027a2cd08"
+    },
+    {
+      "path": "snapshot/wiki/books/volumi/vol-09-appalti-pnrr-procurement/index.md",
+      "bytes": 2261,
+      "sha256": "6ae6bed7c8b0b67c44f05de1f77aa9d3d77a128552b34c195dd4d2b8e6ba7c86"
+    },
+    {
+      "path": "snapshot/wiki/sources/bandi-rappresentativi-m-tr02-appalti-pnrr-2025-2026.md",
+      "bytes": 6740,
+      "sha256": "d907a3c2f0d80dc937ccef82efc5df8fe422d36456ed00b43a9a1a47a3cfc98d"
+    },
+    {
+      "path": "snapshot/wiki/sources/capitolo-8-corpus-fonti-ufficiali-contabilita-pubblica-2026-05-26.md",
+      "bytes": 7802,
+      "sha256": "ab26411d3fc5887ef69c279e00bbedc4a5bb28a50999eb63bd836cad09711939"
+    },
+    {
+      "path": "snapshot/wiki/sources/capitolo-9-corpus-fonti-ufficiali-contratti-pubblici-2026-05-26.md",
+      "bytes": 6333,
+      "sha256": "bb6f0a7a02c036286998e9098d517b814a7806fd3c33a46340b0b8560e0f42d7"
+    },
+    {
+      "path": "snapshot/wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+      "bytes": 4162,
+      "sha256": "cc6c4f4a20663a6633e62a13ebcf8cce3388e938c19025455a249659d210385b"
+    },
+    {
+      "path": "snapshot/wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "bytes": 8988,
+      "sha256": "54a6efeeda9a413b05cda484cbcfcd647de411ac91e18c0cf578c7d6bd033f5f"
+    },
+    {
+      "path": "snapshot/wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md",
+      "bytes": 5896,
+      "sha256": "afdc60399702cecee2baa6828b3a8302e518170b03736a4f762262dea5f5f3c8"
+    },
+    {
+      "path": "snapshot/wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md",
+      "bytes": 5542,
+      "sha256": "5dd7389cf52878ee575c1bd41f5b52b391ad9bafa663d3d5a877674bc07a4a87"
+    },
+    {
+      "path": "snapshot/wiki/sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione.md",
+      "bytes": 3992,
+      "sha256": "890dc83c83d72104dc5d12fd81fed54e112a7572ba8d46d725a95d8e4ccf52e0"
+    },
+    {
+      "path": "snapshot/wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "bytes": 5358,
+      "sha256": "4db2cb2c39ce6b5abfbfad67f81cacd867a991aa7d96a11417766decc3e6f458"
+    },
+    {
+      "path": "snapshot/wiki/sources/trasparenza-anticorruzione-controlli-tracciabilita-contratti-pubblici.md",
+      "bytes": 4288,
+      "sha256": "0b9e1333d88dba2e3dd671dd0bdde7a04adebbcbda64715cf432411af1de4a19"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-accesso-rimedi-verifica-2026-10-03.md",
+      "bytes": 5553,
+      "sha256": "8251b31bcd26ab0e0b21f8091502434b99f4f0ec725735e781d2184dc76b908a"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-appalti-pnrr-procurement-dossier-v4.md",
+      "bytes": 3222,
+      "sha256": "1634e705528fb4ffd340d37988ad77a0f0a77793f9d397189a42fdd05529c1fd"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-bandi-specialistici-verificati-2026-10-03.md",
+      "bytes": 5230,
+      "sha256": "43941ee1097322f5e924ba87e240f7bfb626cc1829d3d4d43044435dc6e1afc4"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-ciclo-digitale-verifica-2026-10-03.md",
+      "bytes": 3241,
+      "sha256": "da43ea766b9191b26d9f5cbda2fd5acf6a8991668340b0685c0f0a95805e9fd9"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "bytes": 6381,
+      "sha256": "c94c09f167d00c026d54b30ad1b7c9b60fe14fba46a265918a3d15eadb9fa800"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-dnsh-cam-casi-verificati-2026-10-03.md",
+      "bytes": 6511,
+      "sha256": "078c54e3a0f1ede6e12878f9be43bf1905b9d2c97514233e6059905744386e62"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-esecuzione-verifica-2026-10-03.md",
+      "bytes": 7893,
+      "sha256": "a95b470c5a37424172bfa6e9e3530d2ae748c050f34afb96b176bf4df6a88a2a"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-gara-requisiti-verifica-2026-10-03.md",
+      "bytes": 5755,
+      "sha256": "a6ea07118c9f241131c7d186d21b8493e8eed43c7ff24ddd5d6dacf180940fc8"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-governance-contratti-verifica-2026-10-03.md",
+      "bytes": 5329,
+      "sha256": "4556de1392d09e39463cc0cdf10aa4809357ed2ce118ade40c4ec5ad61a8d125"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-laboratorio-soluzioni-verificate-2026-10-03.md",
+      "bytes": 5270,
+      "sha256": "78ded3b4d6424467b7e9f46d9d9388541b6dde72b65fc010dd217d3d9d2d2017"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-pnrr-architettura-chiusura-regis-2026-10-03.md",
+      "bytes": 8191,
+      "sha256": "a927bc410fe5b4a2dbeb1b965084c8c6af22075e7b8cba6e6f59b861e9e6a8e3"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-programmazione-sottosoglia-verifica-2026-10-03.md",
+      "bytes": 4680,
+      "sha256": "365d51dfc3428d4fa606442f645da0dc5ea971ea888ba2bb5aa3ff794c7e12d4"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-project-management-esempi-2026-10-03.md",
+      "bytes": 3621,
+      "sha256": "800e29482a9c8e7f5a381c8489c7f5aba484659513bd5c3559ed5617eaab67fe"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-09-tracciabilita-antifrode-spesa-2026-10-03.md",
+      "bytes": 6703,
+      "sha256": "d6be97bc54426b89275f6428a1ab38e6aa3642b2fb41b11cfe463c67005620c8"
+    },
+    {
+      "path": "source-hashes.json",
+      "bytes": 13275,
+      "sha256": "86ecf1febf228244a7cdb955f3dfb8e5a54a69167c182d426bafad93a6079f73"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 5989,
+      "sha256": "a1eb99c83ad7639a3f6a363624e68b49f3540e547bfc2ec0413a3dc27aa7b79d"
+    },
+    {
+      "path": "visual/final/contact-001-016.png",
+      "bytes": 495208,
+      "sha256": "598e59fa5a9eaedfd1988a1ee9e51cba898ad5874fe4eaaa43491dba6013198c"
+    },
+    {
+      "path": "visual/final/contact-017-032.png",
+      "bytes": 681107,
+      "sha256": "9beafc412eeb8063ddeb66a7f4eb6a2ccd9aa23c6a60fa13e2972e2298c6029c"
+    },
+    {
+      "path": "visual/final/contact-033-048.png",
+      "bytes": 625485,
+      "sha256": "75d38a633e87e049f6ce3167c56ad0d5501341d88eef33899c1366bd86429d20"
+    },
+    {
+      "path": "visual/final/contact-049-064.png",
+      "bytes": 633825,
+      "sha256": "ccd0c4e8a13fdc3cc98caa6c02d5f1eb77d098806a4a7d33db9792492154d11c"
+    },
+    {
+      "path": "visual/final/contact-065-080.png",
+      "bytes": 641098,
+      "sha256": "6644b0584ee19acc458c649bbe8866530f7544afbafcf9658b6363a951f639d7"
+    },
+    {
+      "path": "visual/final/contact-081-096.png",
+      "bytes": 639731,
+      "sha256": "595a495102b651f7182761bc48e9c752e9510aaea688eb2af42ca33c23dba90a"
+    },
+    {
+      "path": "visual/final/contact-097-112.png",
+      "bytes": 646507,
+      "sha256": "c5704644482905c66c2e8e8bbb69ebd281804356f2516db9fb2371ebad151959"
+    },
+    {
+      "path": "visual/final/contact-113-128.png",
+      "bytes": 678589,
+      "sha256": "7e15e27ea594f3bda359bf7e0049e1531c5610d39d9817afd5ea391676294b74"
+    },
+    {
+      "path": "visual/final/contact-129-144.png",
+      "bytes": 624091,
+      "sha256": "4bdd97a36be4c102401249f547e9fff687f9adadf409082e6d3793ae3e99c988"
+    },
+    {
+      "path": "visual/final/contact-145-160.png",
+      "bytes": 676923,
+      "sha256": "cfdee351629a50f220fe74035234dd7640b560ce39ae48bd5014827a6fa0c6c0"
+    },
+    {
+      "path": "visual/final/contact-161-176.png",
+      "bytes": 657546,
+      "sha256": "bc8430c2e3ca85273488954833082f2850f6a3bbfea0d6ac24d091e9bbc95332"
+    },
+    {
+      "path": "visual/final/contact-177-192.png",
+      "bytes": 696416,
+      "sha256": "ac88016ab8fd42d21f82c9ca1840aae318864c7c878d76b76b74bed134f1183e"
+    },
+    {
+      "path": "visual/final/contact-193-208.png",
+      "bytes": 684889,
+      "sha256": "e1396772388d05402367c0f45ab2a7e95f0747698ee4bfcf062eca840191116e"
+    },
+    {
+      "path": "visual/final/contact-209-224.png",
+      "bytes": 659361,
+      "sha256": "1987972b7df2af31576d6517b10e695ea4e0dd8d83a95316bc33b6e8cbc72ff9"
+    },
+    {
+      "path": "visual/final/contact-225-240.png",
+      "bytes": 611977,
+      "sha256": "6de02e9890ef19bf915476609e8b0b5f4107afdfdb59400c097ecb34fe19274f"
+    },
+    {
+      "path": "visual/final/contact-241-256.png",
+      "bytes": 687964,
+      "sha256": "13428b04bd9cca7eedaaa8bd220e73cdea4a21ad366785bac05fc76cfa83a48b"
+    },
+    {
+      "path": "visual/final/contact-257-267.png",
+      "bytes": 435832,
+      "sha256": "c9cfaa5ab4f9d7426b7aba5c547179f1de9f76a016e9b7328b153ef575740d63"
+    },
+    {
+      "path": "visual/final/zoom-266.png",
+      "bytes": 153704,
+      "sha256": "05d9026c92ebf253b9aa96b82e13c1fc6ae31337d30caf5eff51708cbcfc6ebf"
+    },
+    {
+      "path": "visual/release/contact-001-016.png",
+      "bytes": 495208,
+      "sha256": "598e59fa5a9eaedfd1988a1ee9e51cba898ad5874fe4eaaa43491dba6013198c"
+    },
+    {
+      "path": "visual/release/contact-017-032.png",
+      "bytes": 681107,
+      "sha256": "9beafc412eeb8063ddeb66a7f4eb6a2ccd9aa23c6a60fa13e2972e2298c6029c"
+    },
+    {
+      "path": "visual/release/contact-033-048.png",
+      "bytes": 625485,
+      "sha256": "75d38a633e87e049f6ce3167c56ad0d5501341d88eef33899c1366bd86429d20"
+    },
+    {
+      "path": "visual/release/contact-049-064.png",
+      "bytes": 633825,
+      "sha256": "ccd0c4e8a13fdc3cc98caa6c02d5f1eb77d098806a4a7d33db9792492154d11c"
+    },
+    {
+      "path": "visual/release/contact-065-080.png",
+      "bytes": 641098,
+      "sha256": "6644b0584ee19acc458c649bbe8866530f7544afbafcf9658b6363a951f639d7"
+    },
+    {
+      "path": "visual/release/contact-081-096.png",
+      "bytes": 639731,
+      "sha256": "595a495102b651f7182761bc48e9c752e9510aaea688eb2af42ca33c23dba90a"
+    },
+    {
+      "path": "visual/release/contact-097-112.png",
+      "bytes": 646507,
+      "sha256": "c5704644482905c66c2e8e8bbb69ebd281804356f2516db9fb2371ebad151959"
+    },
+    {
+      "path": "visual/release/contact-113-128.png",
+      "bytes": 678589,
+      "sha256": "7e15e27ea594f3bda359bf7e0049e1531c5610d39d9817afd5ea391676294b74"
+    },
+    {
+      "path": "visual/release/contact-129-144.png",
+      "bytes": 624091,
+      "sha256": "4bdd97a36be4c102401249f547e9fff687f9adadf409082e6d3793ae3e99c988"
+    },
+    {
+      "path": "visual/release/contact-145-160.png",
+      "bytes": 676923,
+      "sha256": "cfdee351629a50f220fe74035234dd7640b560ce39ae48bd5014827a6fa0c6c0"
+    },
+    {
+      "path": "visual/release/contact-161-176.png",
+      "bytes": 657546,
+      "sha256": "bc8430c2e3ca85273488954833082f2850f6a3bbfea0d6ac24d091e9bbc95332"
+    },
+    {
+      "path": "visual/release/contact-177-192.png",
+      "bytes": 696416,
+      "sha256": "ac88016ab8fd42d21f82c9ca1840aae318864c7c878d76b76b74bed134f1183e"
+    },
+    {
+      "path": "visual/release/contact-193-208.png",
+      "bytes": 684889,
+      "sha256": "e1396772388d05402367c0f45ab2a7e95f0747698ee4bfcf062eca840191116e"
+    },
+    {
+      "path": "visual/release/contact-209-224.png",
+      "bytes": 659361,
+      "sha256": "1987972b7df2af31576d6517b10e695ea4e0dd8d83a95316bc33b6e8cbc72ff9"
+    },
+    {
+      "path": "visual/release/contact-225-240.png",
+      "bytes": 611977,
+      "sha256": "6de02e9890ef19bf915476609e8b0b5f4107afdfdb59400c097ecb34fe19274f"
+    },
+    {
+      "path": "visual/release/contact-241-256.png",
+      "bytes": 687964,
+      "sha256": "13428b04bd9cca7eedaaa8bd220e73cdea4a21ad366785bac05fc76cfa83a48b"
+    },
+    {
+      "path": "visual/release/contact-257-267.png",
+      "bytes": 435777,
+      "sha256": "9e11473ff16557039fdf0c1819fb63524add3e0382e2f1f10059fbfe43012615"
+    },
+    {
+      "path": "visual/release/zoom-006.png",
+      "bytes": 193167,
+      "sha256": "8306d1c8d648b01ae2283e66e6156c6ca5f11e1a7421e0c7655c92a700906cce"
+    },
+    {
+      "path": "visual/release/zoom-013.png",
+      "bytes": 175804,
+      "sha256": "c181a444fa8c024671f1a2647b1e85a7143d853e639da92a26f7fb4201dc7829"
+    },
+    {
+      "path": "visual/release/zoom-106.png",
+      "bytes": 156647,
+      "sha256": "e993b301ef7d49d76c539e6150e8384e0a07f6e10a0ad14d2d31c83113391ad0"
+    },
+    {
+      "path": "visual/release/zoom-107.png",
+      "bytes": 233908,
+      "sha256": "56058d9ec70141b30961b4ed0664278ede71a5952a3ac4496a8e277df7dfc644"
+    },
+    {
+      "path": "visual/release/zoom-157.png",
+      "bytes": 178325,
+      "sha256": "36c8427e76a3b3ee20d146f757e1f9703dcdd334b4782e736f97ae22af609977"
+    },
+    {
+      "path": "visual/release/zoom-212.png",
+      "bytes": 152795,
+      "sha256": "2248c54ea4ebeccf3396210fc4b6d491e4aee8d16737e374e27091eda715f8ac"
+    },
+    {
+      "path": "visual/release/zoom-213.png",
+      "bytes": 191275,
+      "sha256": "8a4a8f4de689cb16a204e5a1deef410c12341b6377b875a6e72376dd8cd91068"
+    },
+    {
+      "path": "visual/release/zoom-227.png",
+      "bytes": 199425,
+      "sha256": "a1e82c87eb56279503a3c9dfba54c66ea56cd9f6fd0d6f911b4bb0a21ea96f7d"
+    },
+    {
+      "path": "visual/release/zoom-240.png",
+      "bytes": 155271,
+      "sha256": "19e9d84c50eb32cdaa6870b1961775945273a9bb1d1eff23a644ead37624f940"
+    },
+    {
+      "path": "visual/release/zoom-241.png",
+      "bytes": 204542,
+      "sha256": "dbe83b10a1ed186ff44a0452999c08d0f9ecae137c3f8adaac1992e0a1e3e272"
+    },
+    {
+      "path": "visual/release/zoom-265.png",
+      "bytes": 192133,
+      "sha256": "6f42375ae34c2ae9b24b1a1e7d78cbbc83e99b0b1e7f5c8cd66ee5fb0ec6505a"
+    },
+    {
+      "path": "visual/release/zoom-266.png",
+      "bytes": 153027,
+      "sha256": "d1aa17300329137d0a9ee61d20568475b93646dc0085aeecd17c1832dacf3925"
+    },
+    {
+      "path": "visual/release/zoom-267.png",
+      "bytes": 211424,
+      "sha256": "288c688cb8a5a6c7dfeaa999522d9721a6eb494591504818e6cb964cbdff0b73"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 1845,
+      "sha256": "89ce28333000a942e7d7752aba8ac53ea5321679686a99d5dbb9c0a4626e96ab"
+    },
+    {
+      "path": "vol-09-interior-kdp.pdf",
+      "bytes": 1890565,
+      "sha256": "8dd41fc17e9e2cf638e8b1e3279a1f679b68243fb624853fa620ac9b99cb9097"
+    }
+  ],
+  "pdf": "vol-09-interior-kdp.pdf",
+  "pages": 267,
+  "previousInteriorSha256": "26c5a13f5488ff83a27c20da486c0b55936c943b21f539dc61a4e2797904d466",
+  "covers": [
+    {
+      "key": "09",
+      "volume": "VOL-09",
+      "title": "Appalti, PNRR e procurement",
+      "cover": "delivery/copertine-2026-10-03/vol-09-cover.pdf",
+      "coverSha256": "1802c6ca37b00a33c2d7bf67ce8c2f1931e7c59f22f2925682b18de86011edd3",
+      "interior": "delivery\\VOL-09\\candidate-2026-10-03\\vol-09-interior-kdp.pdf",
+      "interiorSha256": "8dd41fc17e9e2cf638e8b1e3279a1f679b68243fb624853fa620ac9b99cb9097",
+      "pdfPages": 267,
+      "kdpPages": 268,
+      "spineInches": 0.6035360000000001,
+      "widthInches": 14.233536000000003,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 15.196359578124998,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/09.png",
+      "path": "covers/vol-09-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

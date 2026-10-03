@@ -1,0 +1,117 @@
+{
+  "volume": "VOL-03",
+  "module": "M-FC03",
+  "date": "2026-10-03",
+  "reviewType": "baseline integrale più riesame dei delta",
+  "findingsClosed": [
+    "2",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "41",
+    "42",
+    "49",
+    "51",
+    "53",
+    "55",
+    "56",
+    "57"
+  ],
+  "openQuestionsReviewed": 114,
+  "casesReviewed": 19,
+  "situationalMcReviewed": 8,
+  "simulationTracesReviewed": 5,
+  "coverageGates": "19/19 senza warning",
+  "bodyLinksUnresolved": 0,
+  "datiOperativi": 0,
+  "textVerified": true,
+  "pdfVerified": false,
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "sha256": "85ef1c125a0b54c5b361197c005e8ced683fc3e771ddb9e50faa502d417a681c"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "sha256": "af648b3b2b58886eba1b4a078c32713dcc5d9d5f610ef786500036bbe7d0b4a3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "sha256": "c249ac9b2086b4b8cdd4483a524fa0a9a48d0f8187d68ef0b1ae7420ab0793a3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "sha256": "c2860e1b25b7ae44eb28d168a7ab05f8f5ebe888e82ae7dd0841c35e21209976"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "sha256": "ed63c0934b1b041cacd54b477057759ea0e7b23b67494c131a2c2947cedf0c16"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "sha256": "503f06a6bd3e39131815b7cc93a61e1875ba1a578ef48982c3f3f4cd6aa41867"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "sha256": "a1b00c0858a3970faa5c6cddac844ef7361e4d53931237137698e39059ee7c20"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "sha256": "5475d0a15c77715f608594994d838a8d4f94c31146a24f1abca25b46ad625ad1"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+      "sha256": "2bb0bfeed72a895666b217ad0d53ab717de0bfd49dfd5f209b0f2f2701426618"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "sha256": "48b2168ede0bc2180b2de4765e57d7014415b707d4250294904992caf55a65f5"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+      "sha256": "9e029612b0346080128059c8c084f51b0c4d439a3f4f1b1c6ec5220566aca2f1"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+      "sha256": "d3b0f3e6b33378b6987182f69b30b1540eaac4e0e2d554634507ad95663657d8"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "sha256": "2b3cc4e1f99bbaa3f0a4b23ed9b22f34797a210ed0208fe90a2d9601b47f82cb"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "sha256": "1cd836ea3a51699d11842c38248c111c0a31412b8d4d58029b089de342000171"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "sha256": "e33b7649559ab9c5496be90b8e1f47b405fecad2706464815963259fadd2b505"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "sha256": "cdb7b187b3a07c1e8e4824d2d0b1746b6ca4c59f1431967ad34b1a4e8548417f"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "sha256": "bcacece0f582b5e8214947b42822a0fbeb44d85493bd24d1bf80fdc560c5a4c9"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "sha256": "73bee2f9e4f62445406a95f6c9e880a1ae958b57ce29b9fbbadf8ca56f18a456"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "sha256": "734c2dbe27ffa7da1ae58cd93fa9dd4e13552c12644fb0eee0dd04d4e31119c2"
+    }
+  ]
+}

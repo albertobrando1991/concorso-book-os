@@ -50,7 +50,7 @@ describe("VOL-07 pipeline spec", () => {
       chapters: [
         {
           number: "04",
-          title: "Atti, procedimenti e flussi informativi nelle aziende sanitarie",
+          title: "SSN, aziende sanitarie, atti e flussi informativi",
           file: "chapters/04-atti-procedimenti-flussi-informativi.md",
           matrix: "planning/02-matrice-copertura-didattica.md",
           expectedStatus: "completo"

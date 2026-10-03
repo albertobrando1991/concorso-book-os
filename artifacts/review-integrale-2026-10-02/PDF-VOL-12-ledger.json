@@ -1,0 +1,167 @@
+{
+  "volume": "VOL-12",
+  "date": "2026-10-02",
+  "pdf": "delivery/VOL-12/candidate/vol-12-interior-kdp.pdf",
+  "sha256": "f8ecf8499c19bf7727f4bb72314caa84df828c911dd16d0918daa278079609f9",
+  "hashMatchesInventory": true,
+  "pages": 459,
+  "contactSheetsViewed": [
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0001-0024.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0025-0048.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0049-0072.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0073-0096.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0097-0120.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0121-0144.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0145-0168.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0169-0192.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0193-0216.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0217-0240.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0241-0264.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0265-0288.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0289-0312.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0313-0336.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0337-0360.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0361-0384.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0385-0408.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0409-0432.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0433-0456.jpg",
+    "artifacts/review-integrale-2026-10-02/pdf/VOL-12/vol-12-interior-kdp/contact-0457-0459.jpg"
+  ],
+  "contactCoverageComplete": true,
+  "detailPagesViewed": [
+    6,
+    11,
+    102,
+    120,
+    123,
+    124,
+    174,
+    285,
+    286,
+    349,
+    351,
+    459
+  ],
+  "detailRenderScale": 2,
+  "findings": [
+    {
+      "id": "P12-01",
+      "position": "pp. 6–9; dettaglio p. 6",
+      "category": "Leggibilità",
+      "severity": "medio",
+      "description": "L’indice completo è molto fitto: il corpo delle voci è di circa 6,75 punti e alcune etichette sono a 6,6 punti.",
+      "proposal": "Aumentare il corpo e distribuire le voci su più pagine; verificare la leggibilità su una prova nelle dimensioni finali.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P12-02",
+      "position": "30 pagine fra p. 100 e p. 174; dettagli pp. 102, 120, 123, 174",
+      "category": "Residui di markup",
+      "severity": "grave",
+      "description": "I tag HTML «<br>» sono stampati letteralmente dentro le celle, per esempio «compilare<br>Carabinieri». L’estrazione del PDF conta 299 occorrenze su 30 pagine; quattro pagine sono state confermate visivamente in dettaglio.",
+      "proposal": "Correggere la gestione delle interruzioni nelle celle e rigenerare il PDF; controllare tutte le 30 pagine interessate prima di approvare il nuovo export.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P12-03",
+      "position": "pp. 120–123; sorgente M-SP01/07, righe 527–551",
+      "category": "Apparati compilabili",
+      "severity": "grave",
+      "description": "La «Scheda compilabile finale» concentra sei percorsi nelle due colonne «Dati essenziali» e «Verifica o azione». Le celle sono occupate dalle etichette dei percorsi e da «da compilare»; manca lo spazio per inserire i dati e le intestazioni non descrivono la suddivisione effettiva. La struttura è già presente nel Markdown.",
+      "proposal": "Separare le schede per corpo e binario oppure fornire una scheda per singolo concorso, con campi vuoti ampi e intestazioni coerenti. L’eventuale versione digitale va indicata con un accesso concreto e verificato.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P12-04",
+      "position": "pp. 120, 174, 349 e 351",
+      "category": "Usabilità su carta",
+      "severity": "medio",
+      "description": "I campi vuoti per risposte, motivazioni, output trimestrali e controlli hanno spesso l’altezza di una sola riga tipografica. Lo spazio non è proporzionato alle informazioni richieste dalle istruzioni.",
+      "proposal": "Aumentare l’altezza delle righe e riservare più spazio alle risposte aperte; provare la compilazione a mano nelle dimensioni finali.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P12-05",
+      "position": "p. 6, indice dei capitoli 1, 2, 4, 5 e 6; ricorrenze nel corpo",
+      "category": "Navigazione",
+      "severity": "medio",
+      "description": "L’indice ripete numeri di sezione per titoli diversi: per esempio 1.1 rimanda sia a p. 12 sia a p. 17, e 1.2 sia a p. 14 sia a p. 19. La duplicazione rispecchia la numerazione del testo e rende ambigui i rinvii.",
+      "proposal": "Rinumerare le sezioni alla fonte e aggiornare indice e rinvii nello stesso export. Collegare questo rilievo al corrispondente rilievo testuale, senza contarne due volte la causa.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P12-06",
+      "position": "p. 11 e aperture successive",
+      "category": "Gerarchia",
+      "severity": "lieve",
+      "description": "Il titolo del capitolo viene ripetuto in nero e poi in rosso, separato dal nastro BANDO e dalla nota introduttiva, senza una diversa funzione dichiarata.",
+      "proposal": "Conservare un solo titolo principale oppure distinguere chiaramente il secondo elemento come sottotitolo.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P12-07",
+      "position": "p. 124",
+      "category": "Impaginazione",
+      "severity": "lieve",
+      "description": "L’ultimo breve paragrafo dei riferimenti del capitolo 7 occupa da solo una pagina quasi vuota.",
+      "proposal": "Valutare il recupero del paragrafo nella pagina precedente intervenendo sulla struttura delle schede, senza ridurre ulteriormente il corpo del testo.",
+      "status": "non applicato"
+    },
+    {
+      "id": "P12-08",
+      "position": "p. 286, verifica del capitolo 19",
+      "category": "Leggibilità dei quiz",
+      "severity": "medio",
+      "description": "Le opzioni A, B, C e D sono impaginate nello stesso paragrafo continuo; la soluzione segue subito. La scansione delle alternative è faticosa rispetto alla struttura a righe separate utilizzata in altre verifiche del volume.",
+      "proposal": "Mettere ciascuna alternativa su una riga distinta e separare visivamente domanda, opzioni e commento; uniformare il modello dei quiz nel volume.",
+      "status": "non applicato"
+    }
+  ],
+  "limitations": [
+    "La copertura panoramica riguarda tutte le 459 pagine e consente il controllo di geometria e ritmo; non equivale alla lettura del testo minuto di ogni pagina rasterizzata.",
+    "Il controllo grafico ingrandito e la lettura puntuale del PDF sono limitati alle dodici pagine elencate. La revisione integrale del testo originale è documentata separatamente dall’agente responsabile del volume.",
+    "Nessuna prova cartacea, verifica cromatica, certificazione PDF/X o collaudo di tutti i collegamenti. Non controllate qui copertine e materiali commerciali esterni.",
+    "Le metriche automatiche di supporto non segnalano oggetti testuali oltre il foglio, pagine bianche o caratteri sostitutivi; tali esiti non escludono difetti semantici, di leggibilità o di impaginazione."
+  ],
+  "literalBrEvidence": {
+    "total": 299,
+    "pages": [
+      100,
+      101,
+      102,
+      104,
+      105,
+      108,
+      109,
+      111,
+      112,
+      113,
+      116,
+      117,
+      120,
+      121,
+      122,
+      123,
+      136,
+      152,
+      158,
+      159,
+      160,
+      161,
+      163,
+      165,
+      166,
+      167,
+      168,
+      170,
+      173,
+      174
+    ],
+    "visuallyConfirmedPages": [
+      102,
+      120,
+      123,
+      174
+    ]
+  }
+}

@@ -1,63 +1,90 @@
----
-id: review-pipeline-vol-05-step-15-m-fc05
-type: review
-title: "VOL-05 step 15 — audit specialistico conclusivo M-FC05"
-status: complete
-book_id: vol-05-authority-regolazione
-module_code: M-FC05
-updated_at: 2026-08-22
-review_required: false
-canonical: true
----
+# VOL-05 — Correzioni integrali del testo, 3 ottobre 2026
 
-# Audit specialistico conclusivo — M-FC05
+## 1. Sintesi editoriale
 
-## Perimetro
+Applicati e riesaminati i 33 rilievi testuali sui 15 capitoli. Gli originali sono stati letti integralmente anche nel presente ciclo; checkpoint e baseline conservano percorsi e hash. Riscritti 90 quesiti aperti e 15 casi finali; le 10 simulazioni ora hanno dossier e soluzioni. Le integrazioni normative discendono da note consolidate prima della scrittura, con limiti di lettura dichiarati.
 
-Controllo conclusivo di claim normativi, riparti di competenza, procedure, dati mobili e applicazioni. Cutoff: 22 agosto 2026. Fonti primarie: EUR-Lex, BCE, Banca d'Italia, CONSOB, IVASS, ANAC, Gazzetta Ufficiale e pagine istituzionali delle authority. Nessun box `Dato operativo` è presente; i dati mobili testuali sono datati e accompagnati dalla regola di ricontrollo.
+## 2. Checklist applicata
 
-## Tabella errori
+Struttura, promessa concorsuale, percorsi G/E/P, autonomia, correttezza dei claim verificati, coerenza, esempi, verifica, lingua, rinvii e fonti controllati. Quindici gate di capitolo superati senza blocker né warning. Il conteggio non sostituisce la valutazione editoriale. La resa del PDF corretto resta separata.
+
+## 3. Registro per ID
 
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-| --- | --- | --- | --- | --- | --- | --- |
-| S05-01 | cap. 03 § REMIT | Normativa UE | Grave | Il testo storico riduceva ACER a monitoraggio e cooperazione. | Integrare i poteri investigativi nei casi transfrontalieri e il successivo enforcement nazionale. | Corretto |
-| S05-02 | cap. 09 § REMIT | Copertura specialistica | Grave | REMIT era richiamato negli apparati ma non sviluppato nella teoria ARERA. | Inserire perimetro, riforma 2024, riparto e checklist applicativa. | Corretto |
-| S05-03 | cap. 12 § SSM | Competenza | Grave | Il riparto fra BCE e autorità nazionali non distingueva la vigilanza diretta. | Esplicitare enti significativi e meno significativi, supervisione BCE e possibili assunzioni dirette. | Corretto |
-| S05-04 | cap. 11 § MiCAR | Normativa finanziaria | Grave | Mancavano applicazione temporale e riparto nazionale. | Integrare regolamento, d.lgs. n. 129/2024 e competenze Banca d'Italia–CONSOB. | Corretto |
-| S05-05 | cap. 12 § DORA | Normativa finanziaria | Importante | Resilienza ICT e adeguamento nazionale erano assenti. | Integrare applicazione dal 17 gennaio 2025, governance, incidenti, test e terze parti. | Corretto |
-| S05-06 | cap. 12 § Arbitro Assicurativo | Procedura | Grave | L'organismo era solo nominato e trattato come sviluppo futuro. | Registrare operatività dal 15 gennaio 2026, previo reclamo, natura documentale, costi e termini datati. | Corretto |
-| S05-07 | cap. 14 § prova della ritorsione | Whistleblowing | Grave | Mancavano presunzione, prova contraria e limite soggettivo. | Integrare d.lgs. n. 24/2023 e linee guida ANAC. | Corretto |
-| S05-08 | cap. 07 § strumenti quantitativi | Tecnica economica | Importante | Quota, HHI e stima rischiavano di essere presentati come conclusioni automatiche. | Aggiungere controfattuale, specificazione, variabili omesse, robustezza e incertezza. | Corretto |
-| S05-09 | cap. 10 § DMA/DSA | Regolazione digitale | Importante | Ruoli e oggetti dei due regolamenti potevano sovrapporsi. | Distinguere gatekeeper, servizi intermediari, Commissione e funzioni nazionali. | Corretto |
-| S05-10 | tutti i capitoli | Dati mobili | Importante | Bandi, soglie e procedure potevano essere letti come stabili. | Dichiarare cutoff e obbligo di ricontrollo; non trasformare esempi in regole. | Corretto |
+|---|---|---|---|---|---|---|
+| V05-01 | Cap.1, 15 — Rinvii al base; mappa delle aree: «Il VOL-05 è complementare ai capitoli del su , , , , , e .» | Didattica e struttura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Rinvii al base ricostruiti con capitolo, titolo e heading esistente; mappa del laboratorio completata. | Risolto nel testo; PDF separato |
+| V05-02 | Cap.1–15 — Blocchi finali; Verifica ragionata; Caso ragionato di chiusura: «Come va usato; intervento immediato su piano di studio» | Didattica e struttura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Riscritti tutti i 90 quesiti aperti e i 15 casi finali con fatti e soluzioni specifici. | Risolto nel testo; PDF separato |
+| V05-03 | Cap.1–15 — Nucleo ID e rapporto con indice/matrice: «N-MF05; Q:6 C:1 E:1» | Didattica e struttura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Inventario dei 75 nuclei effettivi e 15 unità aggregate; conteggio unico di 90 quesiti. Ricollocati heading che dividevano didascalie, introduzioni e tabelle. | Risolto nel testo; PDF separato |
+| V05-04 | Cap.1, 15 — Percorsi G/E/P e blocchi finali: «premium; policy» | Didattica e struttura | Medio | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | P definito giuridico-economico in testo, indice e Bibbia; rimossa etichetta premium. | Risolto nel testo; PDF separato |
+| V05-05 | Cap.2 — Governance, nomina, personale: «Il punto non è memorizzare un numero di componenti» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Otto schede di organi, nomine, durata, rinnovo, incompatibilità, personale e controlli con fonti puntuali. | Risolto nel testo; PDF separato |
+| V05-06 | Cap.2 — Definizione di accountability: «capacità» | Normativa e procedura | Lieve | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Accountability definita obbligo di rendere conto, motivazione e responsabilità verificabile. | Risolto nel testo; PDF separato |
+| V05-07 | Cap.3 — Fonti UE e reti: «ECN; BEREC; ACER; EDPB» | Normativa e procedura | Medio | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Fonti UE 288–291 e tabella di reti, agenzie e autorità; RTS/ITS distinti da progetti e orientamenti. | Risolto nel testo; PDF separato |
+| V05-08 | Cap.4 — Mini-AIR e caso: «opzioni» | Didattica e struttura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Mini-AIR numerica con baseline, alternative, benefici netti, scenario avverso e distribuzione; delibera ARERA 255/2025/A identificata. | Risolto nel testo; PDF separato |
+| V05-09 | Cap.5 — Ispezioni, garanzie e richiesta dati: «istruttoria» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Ispezioni AGCM/Garante, domicilio e autorizzazioni, tutela difensiva nel suo ambito; richiesta dati compilata e fase preliminare distinta. | Risolto nel testo; PDF separato |
+| V05-10 | Cap.6 — Tutela giurisdizionale: «I termini e la sede non sono riportati» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Tabella giudici, riti e termini, incluse novità TUF del 2026 e transitorio; privacy al Tribunale ordinario. | Risolto nel testo; PDF separato |
+| V05-11 | Cap.6 — Sanzioni, impegni e rimedi: «legalità; impegni» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Garanzie punitive, ne bis in idem, impegni 14-ter, transazione e due tipi di ottemperanza spiegati e applicati. | Risolto nel testo; PDF separato |
+| V05-12 | Cap.7 — Strumenti di regolazione: «prezzi o ricavi» | Normativa e procedura | Medio | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Price cap e revenue cap separati, formule didattiche ed effetti dei volumi calcolati. | Risolto nel testo; PDF separato |
+| V05-13 | Cap.7 — Econometria, economia industriale e contabilità: «correlazione; controfattuale» | Didattica e struttura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Elasticità, regressione e intervallo, differenza delle differenze, strutture di mercato, RAB/WACC e costi comuni con esercizi risolti. | Risolto nel testo; PDF separato |
+| V05-14 | Cap.8 — Concorrenza e procedimento: «intese; abuso; concentrazioni» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Articoli 101/102, esenzione e clemenza; SIEC, competenza e soglie AGCM 2026, incluse operazioni sotto soglia. | Risolto nel testo; PDF separato |
+| V05-15 | Cap.8 — Consumatore e caso senza costi: «pratiche scorrette» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Codice consumo 20–26 e liste, gratis alla lettera v (rettifica della proposta originaria), clausole, rating, conflitti e delibera 31356; aggiornamento green claims 2026. | Risolto nel testo; PDF separato |
+| V05-16 | Cap.9 — Tariffe e caso; analisi economica: «analisi tariffaria» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | PEF: gestore, ETC e ARERA distinti; esempio numerico, limite di crescita, MTR-3 e MTI-4. | Risolto nel testo; PDF separato |
+| V05-17 | Cap.9 — Unbundling e tutela utente: «separazione contabile» | Normativa e procedura | Medio | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Tre tipi di unbundling; reclamo, indennizzo e conciliazione con termini e differenze per settore, incluso teleriscaldamento. | Risolto nel testo; PDF separato |
+| V05-18 | Cap.10 — Comunicazioni, media, Corecom: «pluralismo; Corecom» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | CCE e TUSMA, SMP, accesso, servizio universale, spettro/pluralismo; percorso Corecom e rimedi distinti. | Risolto nel testo; PDF separato |
+| V05-19 | Cap.10 — DSA e DMA: «obblighi supplementari» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Categorie e obblighi DSA, intero riparto essenziale dell’articolo 56; gatekeeper e criteri DMA con casi separati. | Risolto nel testo; PDF separato |
+| V05-20 | Cap.11 — Intermediari e investitori: «appropriatezza; adeguatezza» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Adeguatezza, appropriatezza ed execution only; conflitti, incentivi e best execution con caso numerico. | Risolto nel testo; PDF separato |
+| V05-21 | Cap.11 — Emittenti, MAR e MiCAR: «informazione privilegiata» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Prospetto e OPA corrente; MAR dopo Listing Act dal 5 giugno 2026; ART/EMT/CASP e riparto, transitorio MiCAR concluso. | Risolto nel testo; PDF separato |
+| V05-22 | Cap.11, 12 — ACF, ABF, Arbitro Assicurativo: «risoluzione stragiudiziale» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Tabella ABF/ACF/AAS con valori, termini, effetti e condizioni; transitorio del primo anno AAS preservato. | Risolto nel testo; PDF separato |
+| V05-23 | Cap.12 — Vigilanza prudenziale e crisi: «SSM; Solvency II» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | SSM, procedure comuni, TUB/CRR/CRD, capitale/liquidità/SREP, crisi e Solvency II; nucleo minimo privato/societario/AML. | Risolto nel testo; PDF separato |
+| V05-24 | Cap.13 — Caso piattaforma per concorso pubblico; cooperazione: «Un eventuale trattamento transfrontaliero» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Articolo 55(2) applicato al concorso pubblico: niente sportello unico; distinto riuso autonomo del fornitore. | Risolto nel testo; PDF separato |
+| V05-25 | Cap.13 — Reclami, procedimento e sanzioni: «reclamo; segnalazione» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Poteri 58, fasce 83, reclamo 77/78, Codice e regolamento 1/2019 aggiornato; tre, nove/dodici mesi e trenta giorni distinti. | Risolto nel testo; PDF separato |
+| V05-26 | Cap.14 — RPCT e canali: «gestori dei canali» | Normativa e procedura | Medio | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | RPCT gestore del canale interno nei soggetti pubblici obbligati ex articolo 4(5). | Risolto nel testo; PDF separato |
+| V05-27 | Cap.14 — Tabella whistleblowing, interesse: «Mira all’interesse pubblico» | Normativa e procedura | Medio | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Interesse pubblico riferito all’oggetto; motivi personali irrilevanti ex articolo 16(2). | Risolto nel testo; PDF separato |
+| V05-28 | Cap.14, 15 — Caso guidato ritorsioni; simulazione G3: «ritorsione» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Presunzione applicata ai casi e alla G3, limiti per soggetti collegati; articolo 19 distinto da articolo 6, ANAC distinto dal giudice. | Risolto nel testo; PDF separato |
+| V05-29 | Cap.14 — Prevenzione, vigilanza e canali: «PNA; vigilanza» | Normativa e procedura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | PNA/PIAO/PTPCT, caso di rischio compilato, articoli 220/222; ambito pubblico/privato, canali, termini e riservatezza. | Risolto nel testo; PDF separato |
+| V05-30 | Cap.15 — Dieci simulazioni, soluzioni e rubrica: «fonte richiamata o dichiarata necessità di verifica» | Didattica e struttura | Grave | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Dieci dossier e soluzioni complete; tre simulazioni economiche con calcoli. Rubrica richiede la regola corretta, non semplice dichiarazione di ignorarla. | Risolto nel testo; PDF separato |
+| V05-31 | Cap.15 — Simulazione inglese P4: «national decision» | Didattica e struttura | Medio | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Memo effettivo di 107 parole: VLOP e competenza esclusiva Commissione per gli obblighi del caso. | Risolto nel testo; PDF separato |
+| V05-32 | Cap.6, 9, 15 — Refusi e concordanze: «Nel privacy; occorre a loro volta; nel elaborato» | Didattica e struttura | Lieve | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Refusi corretti e blocchi automatici sostituiti; concordanze riesaminate nei nuovi passaggi. | Risolto nel testo; PDF separato |
+| V05-33 | Cap.1–15 — Apparati e fonti accessibili al lettore: «source_refs» | Didattica e struttura | Medio | Note di verifica VOL-05 del 3 ottobre 2026, fonti nel frontmatter; gate e calcoli nel ledger | Repertori leggibili per capitolo; URL DORA corretto a 25G00032 e vecchio slug del capitolo 12 riparato. | Risolto nel testo; PDF separato |
 
-## Evidenza consolidata e correzioni
+## 4. Osservazioni per capitolo
 
-| ID | Evidenza primaria | Correzione applicata | Stato finale |
-| --- | --- | --- | --- |
-| S05-01/S05-02 | regolamento (UE) 2024/1106, considerando 30 e artt. 13-13c REMIT | ACER può indagare nei casi transfrontalieri previsti; le autorità nazionali accertano ed eseguono | VERIFICATO |
-| S05-03 | regolamento (UE) n. 1024/2013 e pagina BCE sugli enti meno significativi | riparto diretto/supervisionato reso esplicito | VERIFICATO |
-| S05-04 | regolamento (UE) 2023/1114, d.lgs. n. 129/2024, nota congiunta Banca d'Italia–CONSOB | date e riparto nazionale integrati senza formule assolute | VERIFICATO |
-| S05-05 | regolamento (UE) 2022/2554 e d.lgs. n. 23/2025 | contenuti DORA e competenze settoriali inseriti | VERIFICATO |
-| S05-06 | IVASS, avviso 8 ottobre 2025 e pagina AAS aggiornata 15 gennaio 2026 | operatività, previo reclamo, procedimento documentale e dati mobili datati | VERIFICATO |
-| S05-07 | d.lgs. n. 24/2023; ANAC delibera n. 311/2023 | presunzione e limiti soggettivi integrati | VERIFICATO |
-| S05-08 | linee guida concorrenza UE e source note economica | strumenti presentati con assunzioni, limiti e caso numerico | VERIFICATO |
-| S05-09 | regolamenti (UE) 2022/1925 e 2022/2065 | distinti oggetti, soggetti ed enforcement | VERIFICATO |
+01 percorsi e rinvii; 02 governance di otto enti; 03 fonti e reti europee; 04 AIR numerica; 05 garanzie e richiesta dati; 06 sanzioni e giurisdizione; 07 analisi economica; 08 concorrenza e consumer; 09 tariffe e tutela; 10 comunicazioni e piattaforme; 11 mercati e condotta; 12 prudenza e ADR; 13 Garante; 14 ANAC; 15 laboratorio svolto.
 
-## Procedure e casi
+## 5. Coerenza globale
 
-I casi non anticipano l'accertamento: distinguono allegazione, prova, fonte, competenza e rimedio. Reclami e ADR non sono presentati come sanzioni; cooperazione europea non è descritta come gerarchia; l'indipendenza non elimina accountability e controllo giurisdizionale. Gli esempi numerici sono didattici e non simulano soglie normative.
+La matrice inventaria 75 nuclei effettivi e 15 unità aggregate di verifica: sei quesiti per capitolo, non sei per ciascun nucleo. I percorsi sono G giuridico, E economico-regolatorio e P giuridico-economico. Rinvii al VOL-01 verificati fino all'heading; rinvio tecnico-digitale al VOL-08. Matrice storica archiviata. Il perimetro non promette econometria avanzata o corsi esaustivi di diritto civile e societario.
 
-## Rischio di originalità e scrittura artificiale
+## 6. Verifiche ed evidenze
 
-Non sono emerse sequenze attribuite senza fonte né imitazioni identificabili. La ricorrenza dello schema di verifica è un apparato didattico dichiarato; teoria, casi, lessico e applicazioni restano settoriali. Le didascalie sono state differenziate e le formule di lavorazione eliminate.
+Consolidate note puntuali su governance, reti UE, AIR, istruttoria, sanzioni/giurisdizione, economia, AGCM, ARERA, AGCOM, Consob, Banca d'Italia/IVASS, Garante e ANAC. Le acquisizioni hanno URL e SHA-256; la lettura completa di un articolo non è presentata come lettura completa del testo unico. Evidenze di lettura nel manifest e nello scope integrativo.
 
-## Secondo controllo “zero errori”
+Aggiornamenti sostanziali comprendono OPA dopo D.Lgs. 47/2026, disciplina processuale TUF dopo D.Lgs. 128/2026 con transitorio, MAR dopo Listing Act, fine transitorio MiCAR, primo anno AAS, soglie AGCM 2026 e green claims applicabili dal 27 settembre. La proposta originaria V05-15 indicava una lettera errata: il caso «gratis» usa la lettera v dell'articolo 23.
 
-Il secondo passaggio ha confrontato le occorrenze di REMIT, ACER, SSM, MiCAR, DORA, AAS, whistleblowing, date e sigle con il dossier specialistico. Ha individuato la copertura solo nominale di REMIT nel capitolo 9, poi trasformata in una sezione teorica autonoma. Nessun altro errore grave o medio resta aperto.
+Calcoli verificati: price/revenue cap, elasticità, regressione e intervallo, DiD, RAB/WACC, costi comuni, mini-AIR, PEF, best execution, capitale/liquidità e SCR. Nel laboratorio E1: 14/26 giorni e composizione; E2: 6.000/7.000/−5.000 euro; E3: 180.000/120.000, ricavo 790.000 e tariffa didattica 79 euro. Memo inglese: 107 parole. I dati fittizi sono dichiarati.
 
-## Giudizio
+## 7. Suggerimenti facoltativi
 
-Pubblicabile con correzioni minori.
+Ulteriori verticali dipendono dal bando. Il glossario bilingue ampliato non è stato trattato come obbligo derivante dall'audit.
 
-L'audit specialistico è chiuso senza rinvii alla review umana. I dati operativi mobili dovranno essere ricontrollati soltanto nelle ristampe successive al cutoff, come normale manutenzione editoriale.
+## 8. Priorità residue
+
+Audit specialistico 14/15 superato e freeze 16 manuale documentato; sostituire le figure generiche con schemi specifici, poi esportare e controllare il PDF aggiornato. Preservare gli originali e registrare ogni sostituzione. Nessuna riduzione dei caratteri per comprimere il contenuto.
+
+## 9. Giudizio di pubblicabilità
+
+Correzioni testuali verificate; pubblicabilità finale non attestata. Il PDF precedente contiene difetti e non rappresenta questo testo. Lo step 24 richiede la conferma sul pacchetto finale effettivamente verificato.
+
+## 10. Limiti
+
+Riscontro normativo mirato, non certificazione di ogni disposizione dei testi unici o di ogni programma concorsuale. Alcuni documenti UE sono verificati su estratti primari indicizzati perché l'acquisizione diretta ha restituito anti-bot: non si dichiara la lettura integrale dei PDF mancanti. Il testo non sostituisce il controllo dei regimi territoriali o del bando. Figure, PDF e dati editoriali finali restano da verificare.
+
+
+## Delta di produzione del 3 ottobre 2026 — 75 schemi nativi
+
+Sostituiti i 70 diagrammi generici dei capitoli 2–15 e, dopo la prova PDF, le cinque tavole iniziali troppo minute. Gli originali raster restano invariati. Le nuove tabelle esplicitano competenze, distinzioni e condizioni già verificate nel testo; Consob non conduce automaticamente alla sanzione e la protezione whistleblowing accompagna il procedimento. BANDO significa Bando, Aree, Nuclei, Diario, Output. Il Decoder ha campi verticali compilabili, inclusa la scadenza della domanda.
+
+La verifica differenziale confronta tutti i 15 hash del freeze originario e isola solo i 75 schemi, le vecchie didascalie e lo spostamento del confine del nucleo 8.3. Nessun testo teorico, quesito, caso o soluzione è stato omesso. Due schemi del capitolo 13, non più presenti dopo l'integrazione normativa, sono ripristinati con contenuto coerente. Tutti i 15 gate passano senza warning; zero rinvii irrisolti. Registro: `VOL-05-native-schemes.json`; controllo inverso: `VOL-05-native-checkpoint.json`.
+
+La prima prova corrente conta 239 pagine, 90 voci di indice corrette e 75 schemi presenti, senza overflow. Visionate tutte le 15 tavole contatto; questa copertura non equivale alla lettura del testo minuto di ogni pagina. È in corso la verifica della proiezione che rende leggibili 20 link esterni e anticipa la bibliografia ANAC al caso conclusivo, preservando tutti i riferimenti. I master conservano link completi e ordine originale; il manifest registra la trasformazione di stampa.
+
+Nessuna nuova regola normativa è introdotta dalla conversione. Restano validi ambiti e limiti delle note del 3 ottobre 2026. Non si dichiara la pubblicabilità finale; servizi digitali, dati editoriali commerciali e prova fisica restano separati.

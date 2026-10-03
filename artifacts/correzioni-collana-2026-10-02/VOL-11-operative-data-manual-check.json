@@ -1,0 +1,25 @@
+{
+  "method": "Verifica manuale di fonte, ambito, versione/data e uso. Il gate automatico non rileva questi tre box legacy; non equivale ad assenza dei dati.",
+  "records": [
+    {
+      "chapter": 6,
+      "subject": "FIR digitale",
+      "source": "RENTRI e L. 26/2026",
+      "versionAndVerification": "3 ottobre 2026; obbligo dal 16 settembre 2026"
+    },
+    {
+      "chapter": 11,
+      "id": "DO-TR04-11-IT-ALERT-2026-08-17",
+      "source": "IT-alert e direttiva 12 febbraio 2026, GU 100/2026",
+      "versionAndVerification": "3 ottobre 2026"
+    },
+    {
+      "chapter": 12,
+      "id": "DO-TR04-12-CLIMA-2026-08-18",
+      "source": "Reg. UE 2021/1119 consolidato al 7 aprile 2026 e Reg. UE 2026/667",
+      "versionAndVerification": "3 ottobre 2026; obiettivi UE, non quote locali"
+    }
+  ],
+  "result": "passed",
+  "limitations": "Date negli ID storici non sono le date della verifica corrente; PDF aggiornato da controllare."
+}

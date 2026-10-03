@@ -1,0 +1,1700 @@
+{
+  "volume": "VOL-05",
+  "reviewStatus": "text-review-complete",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "sha256": "f8574d7bf9d72166f214d3e0403af848440604c9fc18b8e9b99a083219747f39",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-01",
+          "position": "Rinvii al base; mappa delle aree",
+          "excerpt": "Il VOL-05 è complementare ai capitoli del su , , , , , e .",
+          "severity": "Grave",
+          "description": "Rinvii privi di testo visibile nel cap.1 e nel laboratorio15; il lettore non può individuare le materie o i capitoli richiamati.",
+          "proposal": "Ripristinare titoli leggibili, numeri di capitolo e destinazioni; verificare anche caso E del cap.1 e la mappa del15 in PDF.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-04",
+          "position": "Percorsi G/E/P e blocchi finali",
+          "excerpt": "premium; policy",
+          "severity": "Medio",
+          "description": "P indica percorso giuridico-economico nel corpo e policy nei blocchi aggiunti; premium è una qualifica commerciale priva di valore didattico.",
+          "proposal": "Scegliere una denominazione coerente per P e dichiarare destinatari e prerequisiti; eliminare premium dal discorso didattico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "sha256": "920c1ff9500dd56b766a975e7b96f72c212c4e348d76028f504e0325bd5158d1",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-05",
+          "position": "Governance, nomina, personale",
+          "excerpt": "Il punto non è memorizzare un numero di componenti",
+          "severity": "Grave",
+          "description": "Il capitolo non insegna composizione, nomina, durata, rinnovo, incompatibilità e regime del personale delle singole authority; affida al lettore una matrice da riempire.",
+          "proposal": "Inserire tabella per gli otto enti con fonte/articolo, organi, nomina, durata, rinnovo, incompatibilità, controlli e regime del personale, datata. Separare queste regole strutturali dai nominativi correnti.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-06",
+          "position": "Definizione di accountability",
+          "excerpt": "capacità",
+          "severity": "Lieve",
+          "description": "La resa insiste sulla capacità di rendere contestabile la decisione, riducendo il significato di responsabilità e obbligo di rendere conto.",
+          "proposal": "Definire obbligo di rendere conto di decisioni e risultati, con motivazione, trasparenza, rendicontazione e controlli.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "sha256": "77d7a69a8837db8ca8de6f0ba2b84a15b0711a033ea42f786f190714a47417b8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "claim": "REMIT2024: nuovi poteri investigativi transfrontalieri ACER e raccordo con enforcement nazionale",
+          "urls": [
+            "https://www.acer.europa.eu/remit/remit-investigations"
+          ],
+          "outcome": "confermato; non segnalato come errore"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-07",
+          "position": "Fonti UE e reti",
+          "excerpt": "ECN; BEREC; ACER; EDPB",
+          "severity": "Medio",
+          "description": "Reti, agenzie e autorità di vigilanza sono accostate senza una scheda comparativa della loro natura e delle fonti; decisioni vincolanti e standard tecnici non sono sufficientemente distinti dalla soft law.",
+          "proposal": "Aggiungere natura, fonte istitutiva, partecipanti, poteri ed esempio per ciascun organismo; completare art.288 e differenze fra atti delegati, di esecuzione e orientamenti. Conservare il corretto aggiornamento REMIT.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "sha256": "8740953f4bbc7c53a09f71040bcb95ad63c7fcf2a60a0b940f77e803d98b1cfa",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-08",
+          "claim": "La mini-AIR promessa non è un elaborato svolto: mancano alternative concrete, dati, costi/benefici, confronto e decisione. Nei blocchi finali ricompaiono criteri sanzionatori non adattati alla regolazione.",
+          "urls": [
+            "https://www.arera.it/fileadmin/allegati/docs/25/255-2025-A.pdf",
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.del.consiglio.dei.ministri%3A2017-09-15%3B169%21vig="
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "claim": "DPCM169/2017 esclude authority; AIR ARERA255/2025/A",
+          "urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.del.consiglio.dei.ministri%3A2017-09-15%3B169%21vig=",
+            "https://www.arera.it/fileadmin/allegati/docs/25/255-2025-A.pdf"
+          ],
+          "outcome": "confermato; non segnalato come errore"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-08",
+          "position": "Mini-AIR e caso",
+          "excerpt": "opzioni",
+          "severity": "Grave",
+          "description": "La mini-AIR promessa non è un elaborato svolto: mancano alternative concrete, dati, costi/benefici, confronto e decisione. Nei blocchi finali ricompaiono criteri sanzionatori non adattati alla regolazione.",
+          "proposal": "Fornire un caso numerico semplice con baseline, almeno due alternative, effetti distributivi, ipotesi e scelta motivata; identificare la delibera255/2025/A citata solo per anno.",
+          "sources": [
+            "https://www.arera.it/fileadmin/allegati/docs/25/255-2025-A.pdf",
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.del.consiglio.dei.ministri%3A2017-09-15%3B169%21vig="
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "sha256": "45fdee0c84a68942f64d0b43db8e5d7d6d90a3cd838f062b683a3453a7d88036",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-09",
+          "position": "Ispezioni, garanzie e richiesta dati",
+          "excerpt": "istruttoria",
+          "severity": "Grave",
+          "description": "La distinzione fra attività è buona, ma non sono insegnate le garanzie specifiche e non è fornita una richiesta di informazioni compilata. Avvio formale e acquisizioni preliminari rischiano di sovrapporsi.",
+          "proposal": "Integrare fonte/presupposti delle ispezioni AGCM e Garante, assistenza, riservatezza difensiva e non autoincriminazione nel rispettivo ambito; autorizzazioni per locali non aziendali. Dare atto fittizio completo e separare preistruttoria dall’avvio.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "sha256": "d2f4495c2cbd7e4a39ed010d76d7fcc1904a6f0f55f515cbc840f75607b68bc0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-10",
+          "position": "Tutela giurisdizionale",
+          "excerpt": "I termini e la sede non sono riportati",
+          "severity": "Grave",
+          "description": "Il capitolo rinuncia esplicitamente a insegnare giudice, rito e termini: non realizza la mappa dei rimedi promessa al profilo G.",
+          "proposal": "Costruire tabella per autorità e tipologia di atto con giurisdizione, competenza, rito, termine, cautela e fonte. Verificare CPA e discipline speciali; distinguere privacy e sanzioni finanziarie dal generale contenzioso amministrativo.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-11",
+          "position": "Sanzioni, impegni e rimedi",
+          "excerpt": "legalità; impegni",
+          "severity": "Grave",
+          "description": "Garanzie punitive, presupposti cautelari ed effetti sono evocati senza uno sviluppo studiabile; impegni non corredati da scansione procedimentale; ottemperanza amministrativa e giudiziale da distinguere.",
+          "proposal": "Sviluppare legalità, irretroattività, elemento soggettivo, difesa e ne bis in idem con ambito di applicazione; scheda art.14-ter, esempio impegni e confronto con sanzione/transazione.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-32",
+          "position": "Refusi e concordanze",
+          "excerpt": "Nel privacy; occorre a loro volta; nel elaborato",
+          "severity": "Lieve",
+          "description": "Refusi locali e concordanze meccaniche deteriorano la leggibilità.",
+          "proposal": "Nel settore privacy; costruzione impersonale corretta; nell’elaborato. Rivedere tutte le concordanze dei blocchi finali dopo la loro riscrittura sostanziale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "sha256": "bc33e37e7784dae4c204dc111f50e3e18ed626f20271311d149ae9dc07c6389d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-12",
+          "position": "Strumenti di regolazione",
+          "excerpt": "prezzi o ricavi",
+          "severity": "Medio",
+          "description": "Il price cap è descritto in modo da sovrapporlo al revenue cap.",
+          "proposal": "Distinguere tetto ai prezzi e tetto ai ricavi con formule didattiche dichiarate, un esempio e diversi incentivi al volume.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-13",
+          "position": "Econometria, economia industriale e contabilità",
+          "excerpt": "correlazione; controfattuale",
+          "severity": "Grave",
+          "description": "Il profilo economico riceve definizioni introduttive, ma non un percorso minimo di analisi: elasticità senza calcolo, econometria senza modello o interpretazione di coefficienti, contabilità senza allocazione risolta.",
+          "proposal": "Aggiungere esercizi graduati di elasticità, modello lineare, coefficiente e incertezza, confronto controfattuale; spiegare struttura di mercato e costi, RAB/WACC, allocazione dei costi comuni. Non serve econometria avanzata esclusa dalla bibbia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati",
+      "quantitativeChecks": [
+        {
+          "claim": "HHI quote40,30,20,10=3000; fusione40+10→50,30,20=3800",
+          "outcome": "corretto"
+        },
+        {
+          "claim": "100→108 +8%; qualità80→78 -2punti",
+          "outcome": "corretto"
+        }
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "sha256": "2317707cd261e3980a9d9175f1d05ebed9d893036c83a983d0490aaa57123b5f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-14",
+          "position": "Concorrenza e procedimento",
+          "excerpt": "intese; abuso; concentrazioni",
+          "severity": "Grave",
+          "description": "Distinzioni iniziali corrette ma non bastano per il profilo giuridico: mancano sviluppo artt.101/102, oggetto/effetto, esenzione, clemenza, tipi di abuso, criterio e perimetro del controllo delle concentrazioni.",
+          "proposal": "Inserire fattispecie, presupposti, esempi contrari, fonti e procedimento; insegnare regola di competenza UE/nazionale e soglie datate con avvertenza di aggiornamento.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-15",
+          "position": "Consumatore e caso senza costi",
+          "excerpt": "pratiche scorrette",
+          "severity": "Grave",
+          "description": "Non sono sviluppate le liste di pratiche sempre vietate né le conseguenze del qualificare una promozione gratis; rating e conflitti di interessi promessi dall’indice non sono trattati adeguatamente.",
+          "proposal": "Integrare schema artt.20–26 del Codice del consumo e applicare al caso art.23 lett.p se ne ricorrono i fatti; trattare art.37-bis, rating e competenza sui conflitti d’interessi. Identificare delibera procedurale31356/2024.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "sha256": "9a4e89730eadfa91c5cba137f1e459196221660a8cf8f4476b1eb54abb11f1a8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-16",
+          "claim": "Nessun calcolo tariffario svolto; PEF e livelli istituzionali restano etichette. La frase secondo cui ARERA approverebbe ogni tariffa comunale è giudicata solo incompleta.",
+          "urls": [
+            "https://www.arera.it/atti-e-provvedimenti/dettaglio/25/397-25"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "claim": "MTR-3 periodo2026–2029",
+          "urls": [
+            "https://www.arera.it/atti-e-provvedimenti/dettaglio/25/397-25"
+          ],
+          "outcome": "confermato; non segnalato come errore"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-16",
+          "position": "Tariffe e caso; analisi economica",
+          "excerpt": "analisi tariffaria",
+          "severity": "Grave",
+          "description": "Nessun calcolo tariffario svolto; PEF e livelli istituzionali restano etichette. La frase secondo cui ARERA approverebbe ogni tariffa comunale è giudicata solo incompleta.",
+          "proposal": "Chiarire errore e riparto effettivo; esempio PEF con gestore, ETC, validazione e approvazione nel perimetro vigente; distinguere energia, idrico e rifiuti e sviluppare MTI-4/qualità. Conservare MTR-3 2026–2029 corretto.",
+          "sources": [
+            "https://www.arera.it/atti-e-provvedimenti/dettaglio/25/397-25"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-17",
+          "position": "Unbundling e tutela utente",
+          "excerpt": "separazione contabile",
+          "severity": "Medio",
+          "description": "Unbundling tende a coincidere con separazione contabile; reclamo, indennizzo e conciliazione rimangono senza condizioni operative.",
+          "proposal": "Distinguere separazione contabile, funzionale e proprietaria; indicare per settore condizioni e tempi essenziali di tutela, con caso di indennizzo. Integrare almeno il perimetro del teleriscaldamento.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-32",
+          "position": "Refusi e concordanze",
+          "excerpt": "Nel privacy; occorre a loro volta; nel elaborato",
+          "severity": "Lieve",
+          "description": "Refusi locali e concordanze meccaniche deteriorano la leggibilità.",
+          "proposal": "Nel settore privacy; costruzione impersonale corretta; nell’elaborato. Rivedere tutte le concordanze dei blocchi finali dopo la loro riscrittura sostanziale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "sha256": "a36f0ce9b51fbb475dff10949949409418a64d9aa5dd34c781471d5832bc9afd",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-18",
+          "position": "Comunicazioni, media, Corecom",
+          "excerpt": "pluralismo; Corecom",
+          "severity": "Grave",
+          "description": "SMP, accesso, servizio universale, spettro e pluralismo non sono sviluppati; il percorso Corecom non insegna presupposti, termini ed effetti dei rimedi.",
+          "proposal": "Inserire CCE/TUSMA con estremi e istituti essenziali; schema reclamo-conciliazione-definizione, competenze delegate, indennizzo/rimborso rispetto al risarcimento, esempio risolto.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-19",
+          "position": "DSA e DMA",
+          "excerpt": "obblighi supplementari",
+          "severity": "Grave",
+          "description": "La competenza esclusiva della Commissione sugli obblighi supplementari è corretta, ma manca il restante riparto e il contenuto operativo delle due discipline.",
+          "proposal": "Definire intermediari/hosting/piattaforme/VLOP-VLOSE, principali obblighi e art.56 DSA; definire gatekeeper, criteri e obblighi DMA; citare2022/2065 e2022/1925, applicandoli a casi distinti.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "sha256": "a3c5d82bc6513fedcda5de235334a6935944f2646b0713b056ffd260c3fe7b66",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-21",
+          "claim": "Emittenti/prospetto/OPA non sono sviluppati; MAR non rende applicabili tutti i requisiti e obblighi; MiCAR è aggiornato ma non spiega categorie e competenze autorizzative.",
+          "urls": [
+            "https://www.bancaditalia.it/compiti/vigilanza/accesso-mercato/soggetti-mercato-cripto-attivita/"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-22",
+          "claim": "Le finalità sono distinte dalla vigilanza ma mancano perimetro, ammissibilità, termini e natura degli esiti; i dati AAS presenti sono corretti.",
+          "urls": [
+            "https://www.ivass.it/consumatori/aas/index.html"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-20",
+          "position": "Intermediari e investitori",
+          "excerpt": "appropriatezza; adeguatezza",
+          "severity": "Grave",
+          "description": "Le due valutazioni sono nominate senza insegnare quando operano, quali informazioni richiedono e quali effetti producono.",
+          "proposal": "Dare confronto per servizio e cliente, consulenza/gestione, altri servizi ed execution only; integrare conflitti, incentivi e best execution con esempio. Inserire estremi TUF/MiFID/MiFIR.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-21",
+          "position": "Emittenti, MAR e MiCAR",
+          "excerpt": "informazione privilegiata",
+          "severity": "Grave",
+          "description": "Emittenti/prospetto/OPA non sono sviluppati; MAR non rende applicabili tutti i requisiti e obblighi; MiCAR è aggiornato ma non spiega categorie e competenze autorizzative.",
+          "proposal": "Completare requisiti art.7 e obblighi art.17 MAR, caso di sussunzione; integrare prospetto/OPA; definire ART, EMT e CASP con riparto Banca d’Italia-CONSOB e regime transitorio datato.",
+          "sources": [
+            "https://www.bancaditalia.it/compiti/vigilanza/accesso-mercato/soggetti-mercato-cripto-attivita/"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-22",
+          "position": "ACF, ABF, Arbitro Assicurativo",
+          "excerpt": "risoluzione stragiudiziale",
+          "severity": "Grave",
+          "description": "Le finalità sono distinte dalla vigilanza ma mancano perimetro, ammissibilità, termini e natura degli esiti; i dati AAS presenti sono corretti.",
+          "proposal": "Tabella comparativa con oggetto, soggetti, valore, reclamo previo, ricorso, decisione ed effetti; esercizio che scelga il canale corretto. Conservare AAS15gennaio2026,20euro,180+90giorni verificati.",
+          "sources": [
+            "https://www.ivass.it/consumatori/aas/index.html"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "sha256": "ef6eb7e1aef2341ddd947539355af1ba15837c6910763f7602237641951be03d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-22",
+          "claim": "Le finalità sono distinte dalla vigilanza ma mancano perimetro, ammissibilità, termini e natura degli esiti; i dati AAS presenti sono corretti.",
+          "urls": [
+            "https://www.ivass.it/consumatori/aas/index.html"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-23",
+          "claim": "Il riparto significativo/meno significativo è spiegato correttamente ma capitale, liquidità, SREP, crisi e Solvency II restano introduttivi; requisiti del profilo prudenziale non sono soddisfatti.",
+          "urls": [
+            "https://www.bankingsupervision.europa.eu/framework/lsi/html/index.it.html"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "claim": "SSM: LSI vigilati direttamente da autorità nazionali sotto supervisione BCE",
+          "urls": [
+            "https://www.bankingsupervision.europa.eu/framework/lsi/html/index.it.html"
+          ],
+          "outcome": "confermato; non segnalato come errore"
+        },
+        {
+          "claim": "Arbitro Assicurativo15gennaio2026,20euro,180giorni prorogabili90",
+          "urls": [
+            "https://www.ivass.it/consumatori/aas/index.html"
+          ],
+          "outcome": "confermato; non segnalato come errore"
+        },
+        {
+          "claim": "D.Lgs.10marzo2025 n.23 adegua DORA; codiceGU25G00032",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "outcome": "confermato; non segnalato come errore"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-22",
+          "position": "ACF, ABF, Arbitro Assicurativo",
+          "excerpt": "risoluzione stragiudiziale",
+          "severity": "Grave",
+          "description": "Le finalità sono distinte dalla vigilanza ma mancano perimetro, ammissibilità, termini e natura degli esiti; i dati AAS presenti sono corretti.",
+          "proposal": "Tabella comparativa con oggetto, soggetti, valore, reclamo previo, ricorso, decisione ed effetti; esercizio che scelga il canale corretto. Conservare AAS15gennaio2026,20euro,180+90giorni verificati.",
+          "sources": [
+            "https://www.ivass.it/consumatori/aas/index.html"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-23",
+          "position": "Vigilanza prudenziale e crisi",
+          "excerpt": "SSM; Solvency II",
+          "severity": "Grave",
+          "description": "Il riparto significativo/meno significativo è spiegato correttamente ma capitale, liquidità, SREP, crisi e Solvency II restano introduttivi; requisiti del profilo prudenziale non sono soddisfatti.",
+          "proposal": "Integrare criteri SSM e procedure comuni, fonti TUB/CRR/CRD, capitale/liquidità/SREP, distinzione risoluzione e liquidazione; SCR/MCR/ORSA e tre pilastri assicurativi. Rinvii espliciti per privato/commerciale/AML richiesti dai bandi.",
+          "sources": [
+            "https://www.bankingsupervision.europa.eu/framework/lsi/html/index.it.html"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "sha256": "50ae2164be95848e7884a6e887a846d47ecec7b89768a1819b71b709d64b06b2",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-24",
+          "claim": "La soluzione non applica l’esclusione specifica dell’art.55(2) GDPR ai trattamenti dell’autorità pubblica. Il generico richiamo ai presupposti dello sportello unico lascia aperto il percorso sbagliato nel caso centrale.",
+          "urls": [
+            "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A32016R0679"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-25",
+          "claim": "Legittimazione, effetti, andamento del reclamo, garanzie e ricorso non sono insegnati con sufficiente precisione; anche i livelli sanzionatori restano assenti.",
+          "urls": [
+            "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A32016R0679"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-24",
+          "position": "Caso piattaforma per concorso pubblico; cooperazione",
+          "excerpt": "Un eventuale trattamento transfrontaliero",
+          "severity": "Grave",
+          "description": "La soluzione non applica l’esclusione specifica dell’art.55(2) GDPR ai trattamenti dell’autorità pubblica. Il generico richiamo ai presupposti dello sportello unico lascia aperto il percorso sbagliato nel caso centrale.",
+          "proposal": "Esplicitare competenza nazionale ed esclusione art.56 per il trattamento pubblico considerato; distinguere eventuali trattamenti autonomi del fornitore e relative basi. Non basta che la piattaforma operi in più Stati.",
+          "sources": [
+            "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A32016R0679"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-25",
+          "position": "Reclami, procedimento e sanzioni",
+          "excerpt": "reclamo; segnalazione",
+          "severity": "Grave",
+          "description": "Legittimazione, effetti, andamento del reclamo, garanzie e ricorso non sono insegnati con sufficiente precisione; anche i livelli sanzionatori restano assenti.",
+          "proposal": "Schede artt.77–78,58 e83 GDPR, regolamento1/2019, tutela giudiziale nazionale; distinguere avvertimento da ammonimento e mostrare scelta proporzionata del potere.",
+          "sources": [
+            "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX%3A32016R0679"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "sha256": "7933d6d83788145dc48dc7e0d44dcf0a677663a8ff8d2a1bd23bc721172ba0bd",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-26",
+          "claim": "La distinzione fra RPCT e gestori può far perdere la coincidenza prevista per i soggetti pubblici obbligati a nominare il RPCT.",
+          "urls": [
+            "https://www.anticorruzione.it/documents/91439/15bb4579-e069-520a-211a-15a2a5fbf097"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-27",
+          "claim": "La formulazione può essere letta come requisito del movente personale del segnalante.",
+          "urls": [
+            "https://www.anticorruzione.it/amministrazione-trasparente/altri-contenuti-prevenzione-della-corruzione/segnalazioni-di-illecito-whistleblower"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        },
+        {
+          "claim": "PNA2025 delibera19 del28gennaio2026",
+          "urls": [
+            "https://www.anticorruzione.it/-/piano-nazionale-anticorruzione-2025"
+          ],
+          "outcome": "confermato; non segnalato come errore"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-26",
+          "position": "RPCT e canali",
+          "excerpt": "gestori dei canali",
+          "severity": "Medio",
+          "description": "La distinzione fra RPCT e gestori può far perdere la coincidenza prevista per i soggetti pubblici obbligati a nominare il RPCT.",
+          "proposal": "Precisare art.4 comma5 D.Lgs.24/2023: negli enti pubblici obbligati la gestione interna è affidata al RPCT; distinguere tale funzione dalla gestione esterna ANAC.",
+          "sources": [
+            "https://www.anticorruzione.it/documents/91439/15bb4579-e069-520a-211a-15a2a5fbf097"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-27",
+          "position": "Tabella whistleblowing, interesse",
+          "excerpt": "Mira all’interesse pubblico",
+          "severity": "Medio",
+          "description": "La formulazione può essere letta come requisito del movente personale del segnalante.",
+          "proposal": "Distinguere oggetto della violazione e motivazione soggettiva: i motivi personali sono irrilevanti ex art.16 comma2; restano escluse mere rivendicazioni individuali fuori perimetro.",
+          "sources": [
+            "https://www.anticorruzione.it/amministrazione-trasparente/altri-contenuti-prevenzione-della-corruzione/segnalazioni-di-illecito-whistleblower"
+          ],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-28",
+          "position": "Caso guidato ritorsioni; simulazione G3",
+          "excerpt": "ritorsione",
+          "severity": "Grave",
+          "description": "La presunzione è già correttamente insegnata nel paragrafo aggiornato del14, ma non entra nelle soluzioni dei casi; la verifica del nesso può così sembrare tutta a carico del segnalante.",
+          "proposal": "Riscrivere le soluzioni indicando fatti che attivano la presunzione, soggetto onerato della prova contraria, limiti per soggetti collegati, ruolo ANAC e del giudice. Distinguere comunicazione di ritorsione da segnalazione esterna della violazione.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-29",
+          "position": "Prevenzione, vigilanza e canali",
+          "excerpt": "PNA; vigilanza",
+          "severity": "Grave",
+          "description": "Il delta specialistico non sviluppa raccordo PIAO/PTPCT, precontenzioso e poteri ANAC sui contratti; canali e tutele non diventano una disciplina studiabile.",
+          "proposal": "Integrare programmazione e responsabilità, artt.220/222 D.Lgs.36/2023, canali interni/esterni, perimetro pubblico/privato, termini essenziali e riservatezza. Usare rinvii precisi al base per parti effettivamente già insegnate.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "sha256": "5bc59ecd4514a39c7361083b07efabb0161064b1eb8347cbf488b4a14e2706a7",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V05-33",
+          "claim": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "scope": "Controllo mirato su fonte ufficiale o estratto ufficiale indicizzato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V05-01",
+          "position": "Rinvii al base; mappa delle aree",
+          "excerpt": "Il VOL-05 è complementare ai capitoli del su , , , , , e .",
+          "severity": "Grave",
+          "description": "Rinvii privi di testo visibile nel cap.1 e nel laboratorio15; il lettore non può individuare le materie o i capitoli richiamati.",
+          "proposal": "Ripristinare titoli leggibili, numeri di capitolo e destinazioni; verificare anche caso E del cap.1 e la mappa del15 in PDF.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-02",
+          "position": "Blocchi finali; Verifica ragionata; Caso ragionato di chiusura",
+          "excerpt": "Come va usato; intervento immediato su piano di studio",
+          "severity": "Grave",
+          "description": "Le90domande aperte seguono gli stessi sei stampi e le risposte riutilizzano testo metodologico, senza risolvere specificamente il quesito. I15casi finali sono sostituzioni automatiche, spesso senza fatti giuridicamente qualificabili: nel cap.15 si propone un intervento su piano30/60/90. Concordanze errate sono un sintomo del difetto sostanziale.",
+          "proposal": "Riscrivere le verifiche per materia, con dati, soggetti, istituto e soluzione specifici; sei quesiti distinti per capitolo, commento della risposta e caso risolvibile. Non basta correggere articoli e genere grammaticale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-03",
+          "position": "Nucleo ID e rapporto con indice/matrice",
+          "excerpt": "N-MF05; Q:6 C:1 E:1",
+          "severity": "Grave",
+          "description": "La matrice accredita75nuclei completi e sei quesiti in ciascun nucleo, mentre vi sono sei domande per intero capitolo. Titoli/codici sono inseriti anche fra immagine e didascalia; alcune posizioni non corrispondono al tema assegnato.",
+          "proposal": "Rimappare ogni nucleo a contenuto effettivamente insegnato ed esercizio pertinente; conteggiare90quesiti complessivi, non450. Correggere struttura e indice; tenere unite figura e didascalia.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-04",
+          "position": "Percorsi G/E/P e blocchi finali",
+          "excerpt": "premium; policy",
+          "severity": "Medio",
+          "description": "P indica percorso giuridico-economico nel corpo e policy nei blocchi aggiunti; premium è una qualifica commerciale priva di valore didattico.",
+          "proposal": "Scegliere una denominazione coerente per P e dichiarare destinatari e prerequisiti; eliminare premium dal discorso didattico.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-28",
+          "position": "Caso guidato ritorsioni; simulazione G3",
+          "excerpt": "ritorsione",
+          "severity": "Grave",
+          "description": "La presunzione è già correttamente insegnata nel paragrafo aggiornato del14, ma non entra nelle soluzioni dei casi; la verifica del nesso può così sembrare tutta a carico del segnalante.",
+          "proposal": "Riscrivere le soluzioni indicando fatti che attivano la presunzione, soggetto onerato della prova contraria, limiti per soggetti collegati, ruolo ANAC e del giudice. Distinguere comunicazione di ritorsione da segnalazione esterna della violazione.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-30",
+          "position": "Dieci simulazioni, soluzioni e rubrica",
+          "excerpt": "fonte richiamata o dichiarata necessità di verifica",
+          "severity": "Grave",
+          "description": "Le10simulazioni sono reali consegne distinte, ma le chiavi sono scalette metodologiche; quelle economiche non hanno dati numerici. La rubrica equipara richiamo della fonte e dichiarazione di non conoscerla.",
+          "proposal": "Fornire dossier e risposta modello per ognuna, tre prove E con dati/calcoli, memo inglese svolto e criteri analitici; distinguere credito per corretta fonte da prudenza su dati mancanti.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-31",
+          "position": "Simulazione inglese P4",
+          "excerpt": "national decision",
+          "severity": "Medio",
+          "description": "La conclusione preimpostata presuppone sempre una decisione nazionale anche quando la competenza finale può essere europea.",
+          "proposal": "Riferire la decisione all’autorità competente nel caso costruito e fornire il memo di140parole effettivamente svolto.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-32",
+          "position": "Refusi e concordanze",
+          "excerpt": "Nel privacy; occorre a loro volta; nel elaborato",
+          "severity": "Lieve",
+          "description": "Refusi locali e concordanze meccaniche deteriorano la leggibilità.",
+          "proposal": "Nel settore privacy; costruzione impersonale corretta; nell’elaborato. Rivedere tutte le concordanze dei blocchi finali dopo la loro riscrittura sostanziale.",
+          "sources": [],
+          "status": "Aperto — non applicato"
+        },
+        {
+          "id": "V05-33",
+          "position": "Apparati e fonti accessibili al lettore",
+          "excerpt": "source_refs",
+          "severity": "Medio",
+          "description": "Molti estremi completi e URL restano nelle source notes/frontmatter; il lettore cartaceo riceve nomi generici di fonti. La source note specialistica collega D.Lgs.23/2025 al codice GU25G00031 errato.",
+          "proposal": "Inserire repertorio leggibile per capitolo con atti/articoli/versione/URL stabile. Correggere nella futura revisione il collegamento DORA a25G00032; risolvere anche rinvio storico del corpus bandi al vecchio slug del cap.12.",
+          "sources": [
+            "https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=25G00032&atto.dataPubblicazioneGazzetta=2025-03-11&elenco30giorni=true"
+          ],
+          "status": "Aperto — non applicato"
+        }
+      ],
+      "limitations": [
+        "Verifica normativa esterna selettiva; PDF separato"
+      ],
+      "quizCount": 6,
+      "quizType": "Domande aperte, non scelta multipla",
+      "quizOutcome": "Sei domande e risposte valutate: difetto didattico trasversale V05-02; tutti i casi letti e valutati",
+      "simulationsReviewed": 10
+    }
+  ],
+  "supportingFiles": [
+    {
+      "path": "wiki/books/vol-05-authority-regolazione/index.md",
+      "sha256": "c3dee3f4ebf883f5920ac8bfddcecb0bcba56de27609038c6759c204ae6dd3a1",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-05-authority-regolazione/planning/03-bibbia-volume.md",
+      "sha256": "74e7e33448b1f77610484fba6bd4ef1272134b141fe408f084390d5c47cb5bda",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/planning/02-matrice-copertura-didattica.md",
+      "sha256": "ecba83a263711bebb252c7c8cf33f9d86588b14b0c1c5a7b2ca22884f14c185d",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V05-03"
+      ],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/planning/03-bibbia-del-modulo.md",
+      "sha256": "03d63cb0a7786347b135c6acdb62036c416f011f154335822c7f37fabd0c5153",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/vol-05-audit-bandi-authority-2026-08-22.md",
+      "sha256": "4b40752012920c5bc90c3648b6e97e66554a8e0e8a868473b3c250fa14323c7d",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/vol-05-aggiornamento-specialistico-2026-08-22.md",
+      "sha256": "103ca7ffb7cd66350fc05ab0e2d716e17b26d7870e474bc37a560a4ba5b612ea",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V05-33"
+      ],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/banca-italia-bando-60-giuristi-2025.md",
+      "sha256": "a894f4f9f4eb5e37d19e08e409758f383bf0f1dfe5f7f41f24e333f36707b800",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/anac-bando-19-funzionari-amministrativi-2026.md",
+      "sha256": "d4f9e065930531d66696d4af56c1beda5dfd190a3dc04d45e870b95aa7ce0564",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/consob-bando-vice-assistenti-amministrativi-207-26.md",
+      "sha256": "1b6567d624b000e914a607e783db9ee934a484f5ae9c36571e38022ad9a1ac1b",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/vol-05-bandi-authority-2022-2025.md",
+      "sha256": "d6bc78146a3b8805559bc593a8189dbca5f3ccc29b16b6f0557b4db5b5af168f",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/regolazione-ue-digitale-e-finanziaria-vol-05.md",
+      "sha256": "1a9614e0fc06ce10c1a208a2d9823302a9c598e0cf62268267486f706aaf7476",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/vol-05-dossier-editoriale-authority-regolazione-v4.md",
+      "sha256": "d022ba8d1da3818867477cad13cf37919404145a9a32cef8cdcd501bcb398b71",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/authority-indipendenti-leggi-istitutive.md",
+      "sha256": "6ab691db1aa93571aa0937f84075cf6cfc6362b5ca4e966864df6dcccd6c5fa4",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/ciclo-regolatorio-consultazione-air-vir-authority-2026-07-24.md",
+      "sha256": "aa8bf025d133339b52b06aa338945741b35012e562b59e8055ea4ed6900a7f49",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/vigilanza-istruttoria-ispezioni-dati-prova-authority-2026-07-24.md",
+      "sha256": "cf07ee3e1111c8af3d922910e99252e16342f467d7c80d858a84f252dc7db16c",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/sanzioni-impegni-rimedi-giurisdizione-authority-2026-07-24.md",
+      "sha256": "e948361eab5862625335fc54da140237f16c9c212dd8e65342f850a7087aef91",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/economia-industriale-econometria-contabilita-regolatoria-authority-2026-07-24.md",
+      "sha256": "c820a95e96ea442e71de5eaea068d578db323d0fa01af09fd76006f07e7b7dd5",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/agcm-concorrenza-consumatori-pratiche-scorrette-2026-07-24.md",
+      "sha256": "3c167dbd09080b2d1bdc2eb2f43d82975257409c2b255f5597aac38eb3170456",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md",
+      "sha256": "fa35087a555dc7df9747b773b63e55f9cd9fc18fd27ebef8e3d65baa33cb1e06",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/agcom-comunicazioni-media-utenti-piattaforme-2026-07-24.md",
+      "sha256": "e7da23e2123ccbff8df0b57ead87c292933f0a2ac6658f8cc0efe16a8db4bce5",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/consob-mercati-intermediari-tutela-investitore-2026-07-24.md",
+      "sha256": "229f4551ea65dabfba2eb282b5e4619c786278f68deb18093aa6a3e227c1082f",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/banca-italia-ivass-vigilanza-prudenziale-2026-07-24.md",
+      "sha256": "f7e2bed430b4292bccd779a385857eb4c2a3941d08ddd43b877e576c35d2d7f5",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/garante-privacy-poteri-procedimenti-cooperazione-europea-2026-07-24.md",
+      "sha256": "c7a869ab65cd06419b92be22945765d0c97cfef79c721007dea70d1ccaa90c82",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/anac-prevenzione-vigilanza-whistleblowing-2026-07-24.md",
+      "sha256": "3a4c929e9f86b340121d31bbe4ceca180becdbf6e9b0356d0bd7c09eb0c2b611",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/authority-indipendenti-governance-personale-2026-07-24.md",
+      "sha256": "52026a7cf8422e8ceed9031555604a876c1f4e582e333c9716f407a82927e0a8",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    },
+    {
+      "path": "wiki/sources/regolazione-ue-multilivello-reti-authority-2026-07-24.md",
+      "sha256": "311a898739464b785f18951b40d81408233cd038de13b51e25228e988f4fad92",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Non implica lettura integrale dei PDF di bandi o di tutti gli atti esterni richiamati"
+      ]
+    }
+  ],
+  "summary": {
+    "chaptersRead": 15,
+    "chaptersExpected": 15,
+    "quizReviewed": 90,
+    "quizType": "aperti",
+    "simulationsReviewed": 10,
+    "findings": 33,
+    "supportingFiles": 26,
+    "verdict": "Non pubblicabile nello stato attuale",
+    "pdfReview": "separata, da completare",
+    "normativeScope": "Controlli selettivi, non certificazione integrale di ogni fonte"
+  },
+  "pdfReview": {
+    "candidate": "delivery/VOL-05/candidate/vol-05-interior-kdp.pdf",
+    "sha256": "27abaae3e01e687eba287d4d3ca566caefbeaa6d71f5f578c5993084ea010131",
+    "pages": 213,
+    "contactSheetsViewed": 9,
+    "allContactSheetsViewed": true,
+    "zoomPages": [
+      6,
+      10,
+      14,
+      18,
+      37,
+      46,
+      137,
+      213
+    ],
+    "mode": "all-pages-contact-sheet-plus-targeted-full-page",
+    "fullLegibilityAllPages": false,
+    "report": "wiki/reviews/audit-integrale-2026-10-02/PDF-VOL-05.md",
+    "findingIds": [
+      "P05-01",
+      "P05-02",
+      "P05-03",
+      "P05-04"
+    ],
+    "changesApplied": false
+  }
+}

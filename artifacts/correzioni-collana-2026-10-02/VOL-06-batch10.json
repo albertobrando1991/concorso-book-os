@@ -1,0 +1,195 @@
+{
+  "V06-11": {
+    "change": "ISAD/ISAAR, REICAT/ISBD/UNIMARC/SBNMARC, authority/soggetto/ILL/DD, master/derivati e controllo di integrità con casi. Completa IR02/09 già applicato.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-25": {
+    "change": "Assetto a quattro dipartimenti e DG, funzioni territoriali SABAP/archivi/biblioteche e istituti autonomi.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-26": {
+    "change": "Categorie e tutela interinale, verifica/dichiarazione, alienabilità, termini e uscita; art. 21 e soglie art. 65 aggiornati al 2026.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-27": {
+    "change": "Usi incompatibili qualificati come vietati, distinti dagli interventi autorizzabili.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-28": {
+    "change": "Dati catalografici riconosciuti come metadati descrittivi, con altre categorie e caso di collaudo.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-29": {
+    "change": "ISAD/ISAAR e scheda multilivello; diplomatica introduttiva, scarto, versamento e consultabilità con caso.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-30": {
+    "change": "US e sequenza stratigrafica risolta, ritrovamento fortuito, scheda Botticelli e art. 29 applicato.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-31": {
+    "change": "Eliminata esclusione assoluta della progettazione dalle prove; distinti profilo amministrativo e architetto.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-32": {
+    "change": "Obblighi del lavoratore, incarichi degli addetti, piano locale e caso di pericolo con soluzione.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-33": {
+    "change": "Pulizia accenti e formule interne, gerarchie e riferimenti; conteggi effettivi. IR01 preservato legacy, senza falsa promozione al formato 2.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-35": {
+    "change": "Inventario 50 capitoli e apparati effettivi; eliminate appendici inesistenti promesse, rinvii circoscritti a heading verificati, stati allineati alla fase reale.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/index.md",
+      "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/00-scheda-pipeline.md",
+      "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/01-indice-analitico.md",
+      "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/04-inventario-apparati-correzioni-2026-10-03.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  },
+  "V06-36": {
+    "change": "78 quiz IR04 e 72 IR03 con quesiti disciplinari, casi controllabili, chiavi e commenti coerenti.",
+    "files": [
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+      "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+      "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+      "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+      "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+    ],
+    "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+    "status": "applicato"
+  }
+}

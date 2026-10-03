@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ep-fonti",
+    "url": "https://www.europarl.europa.eu/ftu/pdf/it/FTU_1.2.1.pdf",
+    "error": "Empty/short response"
+  },
+  {
+    "id": "ecn-page",
+    "url": "https://competition-policy.ec.europa.eu/antitrust-and-cartels/european-competition-network_en",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\ecn-page.html",
+    "sha256": "32d4e90f7d8ac9a5b44bf260eaa84feccd508fe4c6348174c5735afbb404dd36",
+    "readScope": "pending"
+  },
+  {
+    "id": "eba-compliance",
+    "url": "https://www.eba.europa.eu/about-us/legal-and-policy-framework/compliance-eba-regulatory-products",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\eba-compliance.html",
+    "sha256": "3502e00bfe0ee94b5a7e39233266592dcdeaf3893a349364d9b4f08c04066ab5",
+    "readScope": "pending"
+  },
+  {
+    "id": "eiopa-convergence",
+    "url": "https://www.eiopa.europa.eu/browse/supervisory-convergence/supervisory-convergence-tools_en",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\eiopa-convergence.html",
+    "sha256": "5c99f9a337a8f007e6d01feaaccebaecc906bba2eab0dab8192ce55847d039db",
+    "readScope": "pending"
+  },
+  {
+    "id": "acer-investigations",
+    "url": "https://acer.europa.eu/remit/remit-investigations",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\acer-investigations.html",
+    "sha256": "15b98fe3dc6bfe032f1640c55881852a75490faccd724c7692d8b2ab28096329",
+    "readScope": "pending"
+  },
+  {
+    "id": "berec-regulation",
+    "url": "https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32018R1971",
+    "error": "Empty/short response"
+  }
+]

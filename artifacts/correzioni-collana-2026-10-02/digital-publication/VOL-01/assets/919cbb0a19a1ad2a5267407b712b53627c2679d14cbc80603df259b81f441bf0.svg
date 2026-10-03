@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Caso Elena: non ripartire da zero</title>
+  <desc id="desc">Una prova non vinta puo diventare base operativa per il bando successivo.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Caso Elena: non ripartire da zero</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Una prova non vinta puo diventare base operativa per il bando successivo.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="120 300 360 300 18">
+    <rect x="120" y="300" width="360" height="300" rx="26" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="120" y="300" width="360" height="14" rx="7" fill="#7A2430"/>
+    <text class="label" x="300" y="368" text-anchor="middle" fill="#7A2430">Concorso comunale</text>
+    <line x1="178" y1="396" x2="422" y2="396" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="300" y="435" text-anchor="middle">decoder completo</text>
+<text class="small" x="300" y="469" text-anchor="middle">enti locali</text>
+<text class="small" x="300" y="503" text-anchor="middle">quiz corretti</text>
+  </g>
+    <g data-safe-box="620 245 360 300 18">
+    <rect x="620" y="245" width="360" height="300" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="620" y="245" width="360" height="14" rx="7" fill="#10233F"/>
+    <text class="label" x="800" y="313" text-anchor="middle" fill="#10233F">Capitale salvato</text>
+    <line x1="678" y1="341" x2="922" y2="341" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="800" y="380" text-anchor="middle">schemi accesso</text>
+<text class="small" x="800" y="414" text-anchor="middle">25 errori</text>
+<text class="small" x="800" y="448" text-anchor="middle">6 orali</text>
+<text class="small" x="800" y="482" text-anchor="middle">3 casi</text>
+  </g>
+    <g data-safe-box="1080 300 360 300 18">
+    <rect x="1080" y="300" width="360" height="300" rx="26" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="1080" y="300" width="360" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" x="1260" y="368" text-anchor="middle" fill="#2F7D5A">Unione di comuni</text>
+    <line x1="1138" y1="396" x2="1382" y2="396" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="1260" y="435" text-anchor="middle">riusa core</text>
+<text class="small" x="1260" y="469" text-anchor="middle">riapre modulo</text>
+<text class="small" x="1260" y="503" text-anchor="middle">simula entro 7 giorni</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M500 450 L620 450"/>
+    <path class="line" marker-end="url(#arrow)" d="M990 450 L1080 450"/>
+    <g data-safe-box="430 625 740 90 10">
+      <rect x="430" y="625" width="740" height="90" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+      <text class="body strong" x="800" y="675" text-anchor="middle">Non ha gia vinto. Ma non riparte da zero.</text>
+    </g>
+    <g data-safe-box="250 812 1100 66 12">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">La differenza tra accumulare e crescere e' trasformare l'esperienza in metodo.</text>
+  </g>
+
+</svg>

@@ -1,0 +1,45 @@
+{
+  "figures": [
+    {
+      "name": "movimento-dettaglio",
+      "pdf": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/movimento-dettaglio.pdf",
+      "png": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/movimento-dettaglio.png",
+      "sha256": "54d16ca41bc028a89444bd2cf151c33e1e0fbfb0bc0fc6ee749f9fabcdf82574",
+      "width": 1600,
+      "height": 980
+    },
+    {
+      "name": "rumore-contrasto",
+      "pdf": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/rumore-contrasto.pdf",
+      "png": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/rumore-contrasto.png",
+      "sha256": "cb31bb82ca5bfea54a21117e95bce369f236e58849677ccc4a108d33a8a4f9b6",
+      "width": 1600,
+      "height": 980
+    },
+    {
+      "name": "serie-controllo-qc",
+      "pdf": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/serie-controllo-qc.pdf",
+      "png": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/serie-controllo-qc.png",
+      "sha256": "ff6fb4f8f8ab99ce095b36065c8536eb85a29d3503a8d88f166c24a32379b7b2",
+      "width": 1600,
+      "height": 980
+    }
+  ],
+  "seed": 7032026,
+  "contrastMeans": [
+    0.07999999999999996,
+    0.08000000000000007
+  ],
+  "qcSeries": [
+    0,
+    0.5,
+    1,
+    1.5,
+    2,
+    2.5,
+    3,
+    3.5
+  ],
+  "existingImagesRead": false,
+  "pdfVisualReviewPending": true
+}

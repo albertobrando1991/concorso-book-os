@@ -9,7 +9,7 @@ entities: ["M-TR04", "MASE", "ISPRA", "SNPA", "Dipartimento della Protezione Civ
 source_refs: ["sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
 book_refs: ["m-tr04-ambiente-protezione-civile", "il-metodo-bando"]
 confidence: 0.93
-updated_at: 2026-08-21
+updated_at: 2026-10-03
 created_at: 2026-08-07
 review_required: false
 canonical: true
@@ -44,3 +44,7 @@ Il volume non ripete le B-PA di VOL-01. Appalti, PNRR e procurement sostenibile 
 - [[books/moduli/m-tr04-ambiente-protezione-civile/planning/00-piano-editoriale|Piano editoriale M-TR04]]
 - [[books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/planning/00-scheda-pipeline|Scheda pipeline VOL-11]]
 - [[sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4|Dossier editoriale v4]]
+
+## Riesame del 3 ottobre 2026
+
+Quattordici capitoli e appendici A–E nel capitolo 14; 44 rilievi dell’audit integrale trattati nel registro corrente. La matrice elenca i nuclei effettivi, con fonti e limiti. Le attestazioni precedenti non sostituiscono il presente riesame né certificano il PDF aggiornato.

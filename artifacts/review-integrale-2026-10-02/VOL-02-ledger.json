@@ -1,0 +1,2032 @@
+{
+  "volume": "VOL-02",
+  "reviewStatus": "complete-text-review",
+  "reviewer": "review_vol02",
+  "scope": "Originali Markdown, testo, quiz e fonti; PDF affidato al coordinatore",
+  "files": [
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md",
+      "sha256": "e7252c37bd38f048b7ea59439920f624bc7ad99c7a0099a045d3cf74ac826b90",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-01",
+          "position": "M-FL03",
+          "excerpt": "resta da validare prima della scrittura definitiva",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Stato redazionale superato rispetto ai cinque capitoli camerali presenti.",
+          "proposal": "Sostituire con descrizione attuale del percorso camerale e dei suoi destinatari.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-01"
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/02-bando-decoder-territoriale.md",
+      "sha256": "2fe0a535b62acb36cd8cd66f305d9ebcfe413dee31397a371580bedf259e28e2",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Lettura integrale e verifica logica quiz/casi: nessun errore puntuale ulteriore rilevato; applicabili osservazioni globali."
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/03-piano-30-60-90-giorni-vol-02.md",
+      "sha256": "9987816f3cfff581291f0023a8964ed1a720a70c5af460769fec3989a835a7af",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-02",
+          "position": "Diario; correzione simulazione",
+          "excerpt": "Tornare alla source note",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Il lettore viene rinviato a un documento interno invece che a una fonte accessibile.",
+          "proposal": "Indicare norma o fonte ufficiale puntuale, oppure capitolo e paragrafo consultabili.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-02"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "sha256": "93545f368bc54b3d263760ae7a6f5f1a39d01301f1a22a6bf3cb4bbe133174de",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-03",
+          "position": "Sindaco; tabella fonti",
+          "excerpt": "presiede la Giunta, salvo",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "L’eccezione sul presidente del Consiglio è collocata nella frase sulla Giunta; le funzioni statali sono ricondotte al solo art.50.",
+          "proposal": "Separare presidenza della Giunta e del Consiglio; citare art.54 per il sindaco ufficiale del Governo.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "sha256": "2165dd500839405e827ffd0e9975693142f9699173aef9254bc341dc401eb21f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-04",
+          "claim": "La competenza consiliare è generalizzata e contraddice FL01/01.",
+          "urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2000-08-18;267~art48!vig="
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        },
+        {
+          "findingId": "V02-05",
+          "claim": "Non sono insegnati quorum, deliberazioni e pubblicazione dello statuto; il soccorso istruttorio sembra dipendere esclusivamente dal regolamento.",
+          "urls": [
+            "https://prefettura.interno.gov.it/sites/default/files/3/2024-03/legge_241_del_90.pdf"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-04",
+          "position": "Chi approva statuto e regolamenti; tabella atti",
+          "excerpt": "Approvare un regolamento comunale",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "La competenza consiliare è generalizzata e contraddice FL01/01.",
+          "proposal": "Esplicitare eccezione regolamento uffici e servizi: Giunta, nel rispetto dei criteri generali del Consiglio (TUEL48c3).",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2000-08-18;267~art48!vig="
+          ]
+        },
+        {
+          "id": "V02-05",
+          "position": "Statuto e caso guidato",
+          "excerpt": "procedimento; Se il regolamento prevede",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Non sono insegnati quorum, deliberazioni e pubblicazione dello statuto; il soccorso istruttorio sembra dipendere esclusivamente dal regolamento.",
+          "proposal": "Aggiungere scheda TUEL6c4–5; distinguere domanda tardiva da irregolarità sanabile e richiamare L241/1990 art.6c1b.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://prefettura.interno.gov.it/sites/default/files/3/2024-03/legge_241_del_90.pdf"
+          ]
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-04, V02-05"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "sha256": "54830595e5cad53c9ca91b38d33a6a69ff7cb39c5a61013c1499b2e8d66a0177",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Lettura integrale e verifica logica quiz/casi: nessun errore puntuale ulteriore rilevato; applicabili osservazioni globali."
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "sha256": "cc516fc0a86293d06aa4f1eedefe96a64cb5cf96096cee859028ba2c10eff472",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-04",
+          "claim": "La competenza consiliare è generalizzata e contraddice FL01/01.",
+          "urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2000-08-18;267~art48!vig="
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-04",
+          "position": "Chi approva statuto e regolamenti; tabella atti",
+          "excerpt": "Approvare un regolamento comunale",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "La competenza consiliare è generalizzata e contraddice FL01/01.",
+          "proposal": "Esplicitare eccezione regolamento uffici e servizi: Giunta, nel rispetto dei criteri generali del Consiglio (TUEL48c3).",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto:2000-08-18;267~art48!vig="
+          ]
+        },
+        {
+          "id": "V02-06",
+          "position": "Pareri, visti, esecutività",
+          "excerpt": "quando richiesto",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Gli istituti restano generici proprio nel delta TUEL promesso.",
+          "proposal": "Insegnare presupposti, organo ed effetto di artt.49,134,183c7, con confronto delibera/determina e caso completo.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-04, V02-06"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "sha256": "859c564a3966bb6df69542dc0055fae77c438af6c2eb849a3a7176efbee3337d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-07",
+          "position": "Caso contributi; pubblicazione",
+          "excerpt": "dati personali",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Minimizzazione generica insufficiente per contributi che rivelano disagio economico-sociale.",
+          "proposal": "Esplicitare divieto di pubblicare identificativi nei casi art.26c4 D.Lgs.33/2013; distinguere comunicazione al beneficiario e pubblicazione.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-07"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "sha256": "273b91f5d44d0c7f795844ebe5dde352c4e35d64015ec83f8e536625a007b8b5",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-08",
+          "position": "Apertura",
+          "excerpt": "producono effetti amministrativi soltanto se",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Si fa dipendere ogni effetto del file/email da tutti gli adempimenti di conservazione e sicurezza.",
+          "proposal": "Distinguere efficacia e valore probatorio ex CAD20/22/23 da obblighi organizzativi di gestione e conservazione; definire documento informatico.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-08"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "sha256": "e4cf8a69b6013826f6b8c62e60fdb3cb9d3847ed20243eb7425350d236abc365",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-09",
+          "claim": "La decertificazione verso PA è presentata come preferenza.",
+          "urls": [
+            "https://www.funzionepubblica.gov.it/it/il-dipartimento/area-di-interesse/semplificazione/decertificazione-e-autocertificazione/la-decertificazione/"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        },
+        {
+          "findingId": "V02-10",
+          "claim": "Mancano dimora abituale, termini e decorrenze della residenza; elettorale/AIRE restano prevalentemente nominate.",
+          "urls": [
+            "https://dait.interno.gov.it/servizi-demografici/circolari/circolare-n9-del-27-aprile-2012"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        },
+        {
+          "claim": "Nuovo servizio ANSC marzo2026 confermato",
+          "urls": [
+            "https://www.interno.gov.it/it/notizie/online-nuovo-servizio-scaricare-i-certificati-stato-civile-dal-portale-dellanagrafe-nazionale-popolazione-residente"
+          ],
+          "result": "confermato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-09",
+          "position": "Quiz-trappola; caso stato di famiglia",
+          "excerpt": "Non necessariamente; privilegia",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "La decertificazione verso PA è presentata come preferenza.",
+          "proposal": "Rispondere: per stati, qualità e fatti certificabili, salve deroghe di legge, acquisizione d’ufficio o dichiarazione sostitutiva; non richiedere certificato da produrre alla PA (DPR44540/43).",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.funzionepubblica.gov.it/it/il-dipartimento/area-di-interesse/semplificazione/decertificazione-e-autocertificazione/la-decertificazione/"
+          ]
+        },
+        {
+          "id": "V02-10",
+          "position": "Residenza, elettorale, stato civile",
+          "excerpt": "verificare",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Mancano dimora abituale, termini e decorrenze della residenza; elettorale/AIRE restano prevalentemente nominate.",
+          "proposal": "Inserire schede residenza: dichiarazione, iscrizione entro2giorni, verifiche45giorni ed effetti; scheda revisioni liste e documento/estratto/copia con requisiti e caso.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://dait.interno.gov.it/servizi-demografici/circolari/circolare-n9-del-27-aprile-2012"
+          ]
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-09, V02-10"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "sha256": "bc79017c5805656a04c4d4bef037cd26a14491d1c4c62d0f29a25db129d68df0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-07",
+          "position": "Caso contributi; pubblicazione",
+          "excerpt": "dati personali",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Minimizzazione generica insufficiente per contributi che rivelano disagio economico-sociale.",
+          "proposal": "Esplicitare divieto di pubblicare identificativi nei casi art.26c4 D.Lgs.33/2013; distinguere comunicazione al beneficiario e pubblicazione.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-11",
+          "position": "N03, tabella; N04",
+          "excerpt": "Revoca/decadenza",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Istituti distinti sono confusi e gli strumenti di rapporto con Terzo settore solo elencati.",
+          "proposal": "Separare revoca, annullamento e decadenza; sviluppare differenze e presupposti appalto, accreditamento, convenzioni art.56 e coprogettazione art.55 CTS.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-07, V02-11"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "sha256": "bee9af5202cfccd853415d7bbc3ca7eddb028d3ebe2fd956e1b52d3deb34d284",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-12",
+          "claim": "Istituzione2021 e attuazione2022 confuse; oltre/meno50 lascia fuori50.",
+          "urls": [
+            "https://funzionepubblica.gov.it/it/il-dipartimento/documentazione/autorizzazioni-a-bandire-e-ad-assumere/2023/versione-testuale/dpcm-11-maggio-2023/"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-12",
+          "position": "N05 PIAO",
+          "excerpt": "disciplina introdotta nel 2022",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Istituzione2021 e attuazione2022 confuse; oltre/meno50 lascia fuori50.",
+          "proposal": "Indicare DL80/2021 art.6 e attuazione2022; confrontare le locuzioni meno di50 del DM132 e non più di50 del DPR81, esplicitando il caso di50 con fonte interpretativa invece di lasciarlo irrisolto.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://funzionepubblica.gov.it/it/il-dipartimento/documentazione/autorizzazioni-a-bandire-e-ad-assumere/2023/versione-testuale/dpcm-11-maggio-2023/"
+          ]
+        },
+        {
+          "id": "V02-13",
+          "position": "Programmazione e gestione finanziaria",
+          "excerpt": "ulteriori elementi",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Mancano calendario ordinario DUP/bilancio/PEG/rendiconto/salvaguardia, formula completa risultato, competenze variazioni e revisione; il base non colma i vuoti.",
+          "proposal": "Aggiungere calendario con proroghe separate; bilancio almeno triennale; PEG facoltativo<5000; formula avanzo comprendente sottrazione FPV; casi variazioni/ratifica, revisori, debiti fuori bilancio/esercizio provvisorio/dissesto al livello del profilo.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-12, V02-13"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "sha256": "d8a2bfcb3bf60f8e60ae829ddf65d7bd59e87f1b3a807ef334ff2a55a69296b9",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-13",
+          "position": "Programmazione e gestione finanziaria",
+          "excerpt": "ulteriori elementi",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Mancano calendario ordinario DUP/bilancio/PEG/rendiconto/salvaguardia, formula completa risultato, competenze variazioni e revisione; il base non colma i vuoti.",
+          "proposal": "Aggiungere calendario con proroghe separate; bilancio almeno triennale; PEG facoltativo<5000; formula avanzo comprendente sottrazione FPV; casi variazioni/ratifica, revisori, debiti fuori bilancio/esercizio provvisorio/dissesto al livello del profilo.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-13"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "sha256": "3ae9f5150daee61b895174fe7057cc02bd5fb434ee70854556a303fcf377c5d1",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-14",
+          "position": "IMU, TARI, riscossione; caso TARI",
+          "excerpt": "verificare i termini",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Tributi descritti senza presupposti, soggetti, base ed esenzioni essenziali; recupero senza regole dei termini.",
+          "proposal": "Schede IMU/TARI e caso accertamento datato: separare regole nazionali, aliquote/regolamenti locali, decadenza e prescrizione.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-14"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "sha256": "041d066762ca40935ea6cd2f74a33be5ba77ddb15fee52a1adf1c7675b3bde96",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-15",
+          "claim": "Descrizione non aggiornata all’apertura a costruzione e manutenzione dal2022.",
+          "urls": [
+            "https://www.consip.it/notizie-e-comunicati/lofferta-per-i-lavori-pubblici-sui-mercati-telematici-consip"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-15",
+          "position": "MePA",
+          "excerpt": "lavori di manutenzione",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Descrizione non aggiornata all’apertura a costruzione e manutenzione dal2022.",
+          "proposal": "Aggiornare oggetto dei bandi lavori, evitando soglie desunte dalla notizia2023; inserire raccordo concreto con art.192 TUEL e capitolo base.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.consip.it/notizie-e-comunicati/lofferta-per-i-lavori-pubblici-sui-mercati-telematici-consip"
+          ]
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-15"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "sha256": "167933e4e99430ae2c9eac6a5e0b274d5e05f4679c7cf693f1885df849d2206e",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-17",
+          "claim": "Permesso sempre espresso; in FL01 SCIA22/23 accomunate senza attesa alternativa.",
+          "urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Apresidente.repubblica%3Adecreto%3A2001%3B380~art20=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.della.repubblica%3A2001-06-06%3B380~art23%21vig="
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-16",
+          "position": "Quiz1,2,3,4,6,7",
+          "excerpt": "D è errata; A,C,D",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Sei spiegazioni su sette attribuiscono contenuti alle lettere sbagliate; alcune dichiarano errata la risposta corretta.",
+          "proposal": "Chiavi corrette C,A,D,C,D,A,A. Q1 commento C→B; Q2 A/B→B/C; Q3 D→C; Q4 errate A,B,D; Q6 A/B→B/C; Q7 errate B,C,D. Riscrivere motivazioni legandole al contenuto di ciascuna alternativa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-17",
+          "position": "Titoli edilizi",
+          "excerpt": "provvedimento espresso",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Permesso sempre espresso; in FL01 SCIA22/23 accomunate senza attesa alternativa.",
+          "proposal": "Integrare silenzio-assenso art.20c8 con esclusioni; distinguere SCIA ordinaria e alternativa ex art.23 con presentazione almeno30giorni prima.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Apresidente.repubblica%3Adecreto%3A2001%3B380~art20=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.della.repubblica%3A2001-06-06%3B380~art23%21vig="
+          ]
+        },
+        {
+          "id": "V02-18",
+          "position": "Caso tetto pericolante",
+          "excerpt": "lavori",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Il caso urgente non sviluppa il ramo della somma urgenza, decisivo se i presupposti sono presenti.",
+          "proposal": "Aggiungere biforcazione intervento ordinario/somma urgenza art.140 D.Lgs.36 e art.191c3 TUEL con condizioni, competenze e copertura.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-16, V02-17, V02-18"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "sha256": "5449c20659f43485da1696a8a7367bb30eaa4a8944bb10feaff47a2a0b301169",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-19",
+          "position": "Autovalutazione; N07",
+          "excerpt": "oltre16; capitolo10",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Otto criteri0–2 danno massimo16; fascia oltre16 impossibile. Rinvio al bilancio punta alla gestione.",
+          "proposal": "Portare tutte le fasce nel dominio0–16; rinviare alla programmazione cap09; bando normativo→quadro normativo; RUP o responsabile progetto→RUP.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-20",
+          "position": "Laboratori e simulazione finale",
+          "excerpt": "laboratorio; simulazione",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Molte griglie e tracce, ma non atti completi corretti o simulazione integrata con soluzioni specifiche, a fronte della promessa formativa.",
+          "proposal": "Aggiungere almeno determina completa fittizia, elaborato regionale, verbale CdS/689 e annotazione PG; simulazione con dossier, quiz, risposta breve, caso, orale e rubriche ancorate a soluzioni.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-19, V02-20"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "sha256": "1b6b1ec30ea87c368fbf90320b538a68125ffb6f4220df6eef3788604de7c340",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-53",
+          "position": "Refusi puntuali e ripetuti",
+          "excerpt": "usera’; E responsabile; l’utente necessità",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti mancanti e parole errate.",
+          "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-53"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "sha256": "2188b51dc043284e430ca3560d6bdbcba9a8fee6bb55de6e905f7959bd60dcd2",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-21",
+          "claim": "Art.123 è nominato senza procedimento; forma di governo senza regole essenziali122/126.",
+          "urls": [
+            "https://www.senato.it/istituzione/la-costituzione/parte-ii/titolo-v/articolo-123"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-21",
+          "position": "Statuto ordinario e organi",
+          "excerpt": "procedimento rinforzato",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Art.123 è nominato senza procedimento; forma di governo senza regole essenziali122/126.",
+          "proposal": "Scheda maggioranza assoluta, due deliberazioni a distanza≥2mesi, ricorso30giorni, referendum3mesi; completare elezione e cessazione organi con rinvio puntuale.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.senato.it/istituzione/la-costituzione/parte-ii/titolo-v/articolo-123"
+          ]
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-21"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "sha256": "bbe928b2112c7c5a99f65687b31b64002dc78e572aa321aa1ff0d05ede4f09f8",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-22",
+          "position": "Competenze, sostituzione e conferenze",
+          "excerpt": "poteri sostitutivi",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Principi privi di esempi di materie; mancano presupposti/soggetto art.120 e procedura L131art8; Stato-città non sviluppata.",
+          "proposal": "Inserire classificazione esemplificata117, scheda sostituzione Governo e sistema conferenze distinguendo composizione/funzione.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-22"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "sha256": "bb1a1944de1c4d2a95225cdc0c565e2d08469e04174cfa57e543a88893ba5dba",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-23",
+          "position": "Mini-esercizio di ordinamento",
+          "excerpt": "liquidazione del saldo",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Soluzione classifica invece di ordinare e può collocare saldo prima della verifica della rendicontazione.",
+          "proposal": "Fornire sequenza esplicita subordinando liquidazione ai presupposti verificati; uniformare imperativi indica/distingui/individua.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-23"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "sha256": "977d42be4cc03b46b34f450e94a8f1c66dafa291f9a5044cf84955c475b81c6f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-24",
+          "claim": "Liquidazione confusa con pagamento; assenti termini ordinari regionali pur nel capitolo contabile.",
+          "urls": [
+            "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/ARCONET/Normativa/Dlgs_118-2011_coordinato_con_il_Dlgs_126-2014.pdf"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-24",
+          "position": "Mini-esercizio; calendario",
+          "excerpt": "Pagamento dopo verifica",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Liquidazione confusa con pagamento; assenti termini ordinari regionali pur nel capitolo contabile.",
+          "proposal": "Definire liquidazione come determinazione della somma certa e liquida su documenti/verifiche, poi ordinazione e pagamento; aggiungere calendario DEFR/bilancio/assestamento/rendiconto/consolidato.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/ARCONET/Normativa/Dlgs_118-2011_coordinato_con_il_Dlgs_126-2014.pdf"
+          ]
+        },
+        {
+          "id": "V02-53",
+          "position": "Refusi puntuali e ripetuti",
+          "excerpt": "usera’; E responsabile; l’utente necessità",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti mancanti e parole errate.",
+          "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-24, V02-53"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "sha256": "62cb8a02fe9db99c433b88e918dddf902bb9287f217dfd9407dbfdba273cb5c6",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-25",
+          "position": "Tabella metodo BANDO",
+          "excerpt": "D Dimostrazione; O Organizzazione",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "L’acronimo proprietario viene ridefinito in contrasto con il resto della collana.",
+          "proposal": "Ripristinare D=Diario e O=Output; correggere il paragrafo che attribuisce l’output alla faseD.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-26",
+          "position": "Clausola finanziaria; mini-esercizio; transitorio",
+          "excerpt": "nei limiti delle risorse stanziate annualmente",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Clausola generica proposta senza qualificare spesa e copertura; termine90giorni senza decorrenza e transitorio prima/dopo che lascia il giorno iniziale scoperto.",
+          "proposal": "Inserire ipotesi esplicite e campi di quantificazione/copertura; non trattare limite annuo come copertura universale; aggiungere dies a quo e a decorrere dalla data.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-53",
+          "position": "Refusi puntuali e ripetuti",
+          "excerpt": "usera’; E responsabile; l’utente necessità",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti mancanti e parole errate.",
+          "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-25, V02-26, V02-53"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "sha256": "e3a8f638998930a565d1875b8c342e5f212b515251a4818f9bdf60243d0ef37c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-27",
+          "claim": "Fondi UE promessi senza riferimenti identificabili, costi semplificati o quadro minimo AdG/AdA/aiuti.",
+          "urls": [
+            "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=OJ%3AC_202407467"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-27",
+          "position": "Rendicontazione e fonti",
+          "excerpt": "Regolamenti UE applicabili",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Fondi UE promessi senza riferimenti identificabili, costi semplificati o quadro minimo AdG/AdA/aiuti.",
+          "proposal": "Citare regolamenti2021/1060,1058,1057,1056,1059; spiegare costi reali vs opzioni semplificate e controlli; dare rinvio puntuale per aiuti e audit avanzati.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=OJ%3AC_202407467"
+          ]
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-27"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "sha256": "281f4bf255130323513738a9ee7563efe901c71a79784956c0b30bfc2ab5a990",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-28",
+          "claim": "Titolarità centrale di misura PNRR confusa con attuazione regionale.",
+          "urls": [
+            "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/CIRCOLARI/2022/09/Allegato-alla-Circolare-del-10-febbraio-2022-n-9-Istruzioni-Tecniche-Sigeco-PNRR.pdf",
+            "https://www.regione.piemonte.it/web/temi/piano-nazionale-ripresa-resilienza/cose-pnrr"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-28",
+          "position": "Tabella ruoli e risposta modello",
+          "excerpt": "Regione può essere amministrazione titolare",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Titolarità centrale di misura PNRR confusa con attuazione regionale.",
+          "proposal": "Distinguere amministrazioni centrali titolari da soggetti attuatori/regionali e deleghe; qualificare eventuali casi particolari con atto specifico.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/CIRCOLARI/2022/09/Allegato-alla-Circolare-del-10-febbraio-2022-n-9-Istruzioni-Tecniche-Sigeco-PNRR.pdf",
+            "https://www.regione.piemonte.it/web/temi/piano-nazionale-ripresa-resilienza/cose-pnrr"
+          ]
+        },
+        {
+          "id": "V02-29",
+          "position": "Q6; quadro2026; fonti",
+          "excerpt": "fonti incompatibili",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Doppio finanziamento legato alla compatibilità delle fonti anziché alla medesima quota/costo; aggiornamento2026 non tradotto in scadenze e fonti puntuali.",
+          "proposal": "Riformulare Q6 sulla stessa spesa; inserire Reg2021/241, tassonomia2020/852, circolare/guida DNSH vigente e calendario RRF con data di verifica.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-53",
+          "position": "Refusi puntuali e ripetuti",
+          "excerpt": "usera’; E responsabile; l’utente necessità",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti mancanti e parole errate.",
+          "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-28, V02-29, V02-53"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "sha256": "48dfc1299913d782657d52bdc53f7691c2ecf5d1539493fee309787fa953ac86",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-30",
+          "position": "N02 organi",
+          "excerpt": "elezione, durata e composizione devono essere verificate",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "L’invito alla verifica sostituisce il regime ordinario della L56/2014.",
+          "proposal": "Insegnare elezione indiretta, presidente4anni/consiglio2anni, composizione e assemblea; distinguere discipline speciali e proposte di riforma dalla norma vigente.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-30"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "sha256": "62a73f4473d1e527e07767806182c4e249278bb946eaceaa47330d67e3b75dd5",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-31",
+          "position": "Sequenze, infografica, mini-esercizio e laboratorio3",
+          "excerpt": "progetto; RUP",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "RUP posto dopo il progetto in più sequenze, nonostante il testo ne preveda nomina al primo atto di avvio.",
+          "proposal": "Spostare nomina all’avvio dell’intervento secondo art.15 D.Lgs.36/2023, prima delle attività da presidiare; distinguere programmazione/progettazione/approvazione.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-32",
+          "position": "Espropri ed edilizia scolastica",
+          "excerpt": "preparazione specialistica",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Nuclei promessi senza riparto L23/1996art3 e senza elementi procedurali espropri; rinvio non localizzato.",
+          "proposal": "Aggiungere riparto Comuni/Province e scheda vincolo/dichiarazionePU/decreto/esecuzione; rinvio preciso verificato all’approfondimento tecnico per ulteriori dettagli.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-31, V02-32"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "sha256": "af099d5a7b4b745749609edd7f31d5db1372e006c23f2914f08b0328289b3497",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-33",
+          "position": "Concessione, in house e SPL",
+          "excerpt": "controllo analogo",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Mancano rischio operativo e presupposti in house; SPL di rilevanza economica confusi con categoria generale.",
+          "proposal": "Definire rischio operativo, influenza determinante e altri requisiti in house; delimitare campo D201/2022; inserire ricognizione/relazioni e revisione partecipate con termine ordinario.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-53",
+          "position": "Refusi puntuali e ripetuti",
+          "excerpt": "usera’; E responsabile; l’utente necessità",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti mancanti e parole errate.",
+          "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-33, V02-53"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "sha256": "b1191ec6daae980f68db9839d3ae4886c9f9ac541da1e2e6ff96abfcaf503fcf",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-20",
+          "position": "Laboratori e simulazione finale",
+          "excerpt": "laboratorio; simulazione",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Molte griglie e tracce, ma non atti completi corretti o simulazione integrata con soluzioni specifiche, a fronte della promessa formativa.",
+          "proposal": "Aggiungere almeno determina completa fittizia, elaborato regionale, verbale CdS/689 e annotazione PG; simulazione con dossier, quiz, risposta breve, caso, orale e rubriche ancorate a soluzioni.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-31",
+          "position": "Sequenze, infografica, mini-esercizio e laboratorio3",
+          "excerpt": "progetto; RUP",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "RUP posto dopo il progetto in più sequenze, nonostante il testo ne preveda nomina al primo atto di avvio.",
+          "proposal": "Spostare nomina all’avvio dell’intervento secondo art.15 D.Lgs.36/2023, prima delle attività da presidiare; distinguere programmazione/progettazione/approvazione.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-34",
+          "position": "Laboratorio4",
+          "excerpt": "ReGiS; DNSH",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Il finanziamento è genericamente europeo ma la soluzione impone strumenti PNRR.",
+          "proposal": "Dichiarare espressamente ipotesi PNRR oppure offrire rami coesione/PNRR con strumenti appropriati.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-20, V02-31, V02-34"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "sha256": "39ce835f790af5134f7ca3e60367fda0425d8e93113d2405f503a660cf7d653b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-38",
+          "position": "Campione e caso accesso",
+          "excerpt": "campione reale",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Bandi dichiarati reali ma non rintracciabili dal corpo; caso dati concorrente non distingue consultazione Registro pubblico e accesso al fascicolo.",
+          "proposal": "Citare ente/data/profilo/ID o qualificare caso composito; esplicitare i due regimi nel caso camerale.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-38"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "sha256": "90430d7189b14678fb7aa4752a5cb049f4a00cc91c73ae9bcb0b8badfb8dc066",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-35",
+          "claim": "Mancano sezioni, effetti distinti, soggetti obbligati, art.2193, Conservatore/giudice e rimedi. ComUnica solo nominata.",
+          "urls": [
+            "https://www.registroimprese.it/l-anagrafe-nazionale-delle-imprese",
+            "https://www.rm.camcom.it/canali-menu/servizi/registro-imprese-visure-certificazioni/registro-imprese/pagina3518.html"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-35",
+          "position": "Registro, REA, pubblicità",
+          "excerpt": "pubblicità legale",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Mancano sezioni, effetti distinti, soggetti obbligati, art.2193, Conservatore/giudice e rimedi. ComUnica solo nominata.",
+          "proposal": "Tabella sezioni/soggetti/effetti con eccezioni, caso opponibilità, flusso ComUnica e distinzione certificati verso privati/PA; rinvio verificato per contenzioso.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.registroimprese.it/l-anagrafe-nazionale-delle-imprese",
+            "https://www.rm.camcom.it/canali-menu/servizi/registro-imprese-visure-certificazioni/registro-imprese/pagina3518.html"
+          ]
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-35"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "sha256": "9aac538fa161efac0798f7bfaebae23564df4f61bb8eb7f381f9a8d41876ae08",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-36",
+          "position": "N03; metrologia; mediazione",
+          "excerpt": "lo step specialistico dovrà verificare",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Resta frase di lavorazione; servizi specialistici sono nominati senza regole e protesti promessi non sviluppati.",
+          "proposal": "Eliminare frase interna; sviluppare DM93/2017 ruoli verificazione/vigilanza/titolare, accordo di mediazione vs lodo, scheda protesti e rimedi essenziali.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-36"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "sha256": "7e3d23990151f59fdae818e0ef4213b788abedb211ca71342f3af4e7b233fe9c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-37",
+          "position": "Organi e personale",
+          "excerpt": "Consiglio; Giunta; Presidente",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Elenco senza poteri, nomina e durata; personale senza aree/EQ/progressioni al livello promesso.",
+          "proposal": "Distinguere quattro organi L580art9 dal segretario generale; tabella poteri/designazione/durata e rinvio contrattuale aggiornato e puntuale.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-37"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "sha256": "ae60a66a5a9346c19029c08b135310c996576aec921e7584f52eebfb37da613e",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-38",
+          "position": "Campione e caso accesso",
+          "excerpt": "campione reale",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Bandi dichiarati reali ma non rintracciabili dal corpo; caso dati concorrente non distingue consultazione Registro pubblico e accesso al fascicolo.",
+          "proposal": "Citare ente/data/profilo/ID o qualificare caso composito; esplicitare i due regimi nel caso camerale.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-53",
+          "position": "Refusi puntuali e ripetuti",
+          "excerpt": "usera’; E responsabile; l’utente necessità",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti mancanti e parole errate.",
+          "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-38, V02-53"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "sha256": "e59996c2c56ee323f4067a6c1b5431cbc3d34c10b420a0c59c925fc747be93e7",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-38",
+          "position": "Campione e caso accesso",
+          "excerpt": "campione reale",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Bandi dichiarati reali ma non rintracciabili dal corpo; caso dati concorrente non distingue consultazione Registro pubblico e accesso al fascicolo.",
+          "proposal": "Citare ente/data/profilo/ID o qualificare caso composito; esplicitare i due regimi nel caso camerale.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-53",
+          "position": "Refusi puntuali e ripetuti",
+          "excerpt": "usera’; E responsabile; l’utente necessità",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti mancanti e parole errate.",
+          "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-38, V02-53"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "sha256": "09e3b068213f898d1b0156c3c8e944c1452ae409d5376fe1e135ba95be0873f0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Lettura integrale e verifica logica quiz/casi: nessun errore puntuale ulteriore rilevato; applicabili osservazioni globali."
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "sha256": "ad2cd04cc72303a5afc230c551f039cf85c2f199453003673ba65e2dc66aba84",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-39",
+          "position": "QualificaPG, PS e missioni",
+          "excerpt": "qualifiche",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Condizioni nazionali essenziali restano implicite o affidate a verifica esterna.",
+          "proposal": "Completare art.57CPP condizione di servizio, requisitiPS L65art5c2 e missioni art4; rinviare a cap07 per dipendenza funzionaleAG.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-39"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "sha256": "d7dc0833f95cf5947a6db16e9810aeea1bc461d667f2e80b37ebb02ef743e7ee",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-40",
+          "position": "Intero nucleo Codice strada",
+          "excerpt": "L.177/2024",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Capitolo organizzativo senza insegnamento di comportamento stradale, documenti, revisione/assicurazione, artt186/187 o riforma2024.",
+          "proposal": "Aggiungere nuclei regole/comportamenti e conseguenze, gerarchia segnaletica, patente/documenti, guida alcol/stupefacenti con versione vigente; non sostituire la teoria con avviso aggiornamento.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-40, V02-54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "sha256": "b0cba930d859fafa2deb523555a437502fd5db32bf8571c8a1124211b6f7aa6b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-41",
+          "claim": "Nel capitolo dedicato ai termini non compaiono le cifre essenziali.",
+          "urls": [
+            "https://aci.gov.it/codice-della-strada/art-201/",
+            "https://aci.gov.it/codice-della-strada/art-202/",
+            "https://aci.gov.it/codice-della-strada/art-203/",
+            "https://aci.gov.it/codice-della-strada/art-204-bis/"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        },
+        {
+          "findingId": "V02-42",
+          "claim": "Fa apparire notifica alternativa assoluta alla contestazione e trascura l’obbligato solidale.",
+          "urls": [
+            "https://aci.gov.it/codice-della-strada/art-201/"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-41",
+          "position": "Notifica, pagamento, ricorsi",
+          "excerpt": "non serve recitare ogni termine",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Nel capitolo dedicato ai termini non compaiono le cifre essenziali.",
+          "proposal": "Tabella datata: notifica ordinaria90, solidale dopo immediata100, estero360; pagamento60/sconto30%entro5 con esclusioni; ricorsoPrefetto60 e giudice secondo disciplina richiamata; esempi di decorrenza e scelta rimedio.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://aci.gov.it/codice-della-strada/art-201/",
+            "https://aci.gov.it/codice-della-strada/art-202/",
+            "https://aci.gov.it/codice-della-strada/art-203/",
+            "https://aci.gov.it/codice-della-strada/art-204-bis/"
+          ]
+        },
+        {
+          "id": "V02-42",
+          "position": "Cronologia punto5",
+          "excerpt": "se la contestazione non è avvenuta",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Fa apparire notifica alternativa assoluta alla contestazione e trascura l’obbligato solidale.",
+          "proposal": "Integrare notifica anche dopo contestazione al conducente nei casi art201; distinguere motivazione della mancata contestazione e ipotesi tipizzate c1bis/1ter.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://aci.gov.it/codice-della-strada/art-201/"
+          ]
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-41, V02-42"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "sha256": "bf4748814204a7466df3f60d285f2b174329413e83a110e614c6b20f39d5b940",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-43",
+          "position": "L689 e opposizione",
+          "excerpt": "è sufficiente mostrare la catena logica",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Mancano termini, formula pagamento e principi soggettivi/solidarietà; rinvio base non li sviluppa.",
+          "proposal": "Insegnare artt2/3/6/14/16/18/28: condizioni,90/360giorni,60giorni e minore tra un terzo massimo/doppio minimo,30giorni memorie,5anni prescrizione; opposizione D150art6 e ordinanza esemplificata.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-43"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "sha256": "6fe430e47d454603f4f2bf78db1497c30e1b28a8108ea07f8be567af8bd79406",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-44",
+          "position": "Atti essenzialiPG",
+          "excerpt": "non elenca formule operative",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Presupposti e garanzie di identificazione, sommarie informazioni, sequestri e CNR non sono insegnati.",
+          "proposal": "Tabella per349/350/351/354/355CPP: soggetto, presupposto, difesa, termine/convalida; distinguere urgenze della CNR347; aggiungere annotazione didattica completa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-44, V02-54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "sha256": "b22fa1f04f31091330881e5463d7321b65c27da84ae6b67a21c133d996be6def",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-45",
+          "position": "TULPS e immigrazione",
+          "excerpt": "pubblica sicurezza",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Nessun nucleo TULPS sviluppato per articolo/presupposti; immigrazione solo cautela documentale.",
+          "proposal": "Schede autorizzazioni/requisiti/prescrizioni/revoca, spettacoli e poteriQuestore; autorità localePS nei casi previsti; minimi D286 su soggiorno/obblighi/raccordo e garanzie senza estendere indebitamente i poteriPL.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-45, V02-54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "sha256": "fd67d544945acb7fe70df106a5f22a6ea28e1a030f952ad72551977f6576891c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-46",
+          "position": "Sicurezza urbana e aggiornamenti",
+          "excerpt": "aggiornamento",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Allontanamento e divieto di accesso urbano DL14art9/10 non insegnati; novità2025 solo richiamate.",
+          "proposal": "Aggiungere presupposti, competenza, durata e tutela nella versione verificata; distinguere ordinanze ordinarie e contingibili/urgenti nel box sul pericolo.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-46, V02-54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "sha256": "88d7afb4232c1b663bcb48b39dd4f2fa4faffaf97630cde3fe31eb9196692b79",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-47",
+          "position": "Commercio; tabella titoli",
+          "excerpt": "provvedimento espresso",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Requisiti e categorie commerciali non sviluppati; autorizzazione definita sempre espressa.",
+          "proposal": "Tabella categorie/requisiti D59art71 e disciplina territoriale; SCIA unica/condizionata art19bis e D222; qualificare il silenzio-assenso dove ammesso, senza generalizzarlo.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-47, V02-54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "sha256": "adb9409063569c2fca16f98c670736600ab480d452d5ec815dd8272861a0b1fa",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-17",
+          "claim": "Permesso sempre espresso; in FL01 SCIA22/23 accomunate senza attesa alternativa.",
+          "urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Apresidente.repubblica%3Adecreto%3A2001%3B380~art20=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.della.repubblica%3A2001-06-06%3B380~art23%21vig="
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-17",
+          "position": "Titoli edilizi",
+          "excerpt": "provvedimento espresso",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Permesso sempre espresso; in FL01 SCIA22/23 accomunate senza attesa alternativa.",
+          "proposal": "Integrare silenzio-assenso art.20c8 con esclusioni; distinguere SCIA ordinaria e alternativa ex art.23 con presentazione almeno30giorni prima.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Apresidente.repubblica%3Adecreto%3A2001%3B380~art20=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.del.presidente.della.repubblica%3A2001-06-06%3B380~art23%21vig="
+          ]
+        },
+        {
+          "id": "V02-48",
+          "position": "Repressione edilizia",
+          "excerpt": "procedimenti repressivi",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Mancano conseguenze, termini e condizioni essenziali artt27/31/44 e raccordo alle sanatorie vigenti.",
+          "proposal": "Scheda sospensione45giorni, demolizione/acquisizione e relativo procedimento, comunicazioni27c4, fattispecie44; inquadrare34bis/36bis senza promettere consulenza tecnica; rinvio nominativoVOL10.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-17, V02-48, V02-54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "sha256": "f0dc420a2c7ea57e739f1d6d553eba36b86c329586c21c71b2f05db96594d5fa",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-49",
+          "claim": "Il caso non insegna a distinguere illeciti dopo le riforme2023/2025; procedura192 assente.",
+          "urls": [
+            "https://www.gazzettaufficiale.it/eli/gu/2025/10/07/233/sg/pdf",
+            "https://www.conferenzastatocitta.gov.it/home/approfondimenti/tematiche-di-interesse/la-riforma-del-sistema-rifiuti-e-la-governance-locale/le-novita-di-diretto-interesse-per-gli-enti-locali/"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-49",
+          "position": "Abbandono rifiuti e caso",
+          "excerpt": "se emergono elementi penali",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Il caso non insegna a distinguere illeciti dopo le riforme2023/2025; procedura192 assente.",
+          "proposal": "Integrare mappa aggiornata255/255bis/255ter e fattispecie amministrative residue; responsabilità proprietario con dolo/colpa ex192, autorità e ordine di rimozione. Verificare ogni ramo sul testo vigente.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.gazzettaufficiale.it/eli/gu/2025/10/07/233/sg/pdf",
+            "https://www.conferenzastatocitta.gov.it/home/approfondimenti/tematiche-di-interesse/la-riforma-del-sistema-rifiuti-e-la-governance-locale/le-novita-di-diretto-interesse-per-gli-enti-locali/"
+          ]
+        },
+        {
+          "id": "V02-53",
+          "position": "Refusi puntuali e ripetuti",
+          "excerpt": "usera’; E responsabile; l’utente necessità",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Accenti mancanti e parole errate.",
+          "proposal": "userà; quali documenti provano; a che cosa serve; Ambiguità; è/È in FL02/08; eseguirà/in sé/è coerente inFL02/11; utente necessita e segnalalo inFL03/05; lavorerà; rifiuti rimossi o area bonificata, non area rimossa.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-49, V02-53"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "sha256": "37786f18757d3ad3edcd49862702f882500ac35a9b46b9111980197a81fae0a2",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-50",
+          "position": "Sinistri e gestione della prova",
+          "excerpt": "rilievi",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Metodo utile ma senza esempio misurato/diagramma e ramo penale concretamente risolto.",
+          "proposal": "Aggiungere scenario con croquis, quote e fonti dichiarate, distinguendo dichiarato/accertato; raccordare lesioni/omicidio stradale e guida alterata ai presupposti vigenti.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-50, V02-54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "sha256": "e32b2dcca88ccac5f873208c54599f66dd66152b046db8ced68b4ac1370f34cf",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "findingId": "V02-51",
+          "claim": "Turni senza regole contrattuali concrete; distrattori talvolta palesemente assurdi riducono la verifica.",
+          "urls": [
+            "https://www.aranagenzia.it/novita/ccnl-comparto-funzioni-locali-triennio-2022-2024/",
+            "https://www.aranagenzia.it/novita/sottoscritto-il-ccnl-dellarea-funzioni-locali-triennio-2022-2024/"
+          ],
+          "method": "consultazione fonte ufficiale o suo estratto indicizzato; confronto mirato"
+        }
+      ],
+      "findings": [
+        {
+          "id": "V02-51",
+          "position": "Comando, turni e quiz",
+          "excerpt": "Solo di notte",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Turni senza regole contrattuali concrete; distrattori talvolta palesemente assurdi riducono la verifica.",
+          "proposal": "Integrare orario/riposi e rapporto comandante-sindaco L65art9; sostituire distrattori con errori plausibili. Date CCNL23feb2026 confermate, non correggerle.",
+          "status": "Aperto — non applicato",
+          "sources": [
+            "https://www.aranagenzia.it/novita/ccnl-comparto-funzioni-locali-triennio-2022-2024/",
+            "https://www.aranagenzia.it/novita/sottoscritto-il-ccnl-dellarea-funzioni-locali-triennio-2022-2024/"
+          ]
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-51, V02-54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "sha256": "27bd1772816a17086840ac9c1762c0b47a946c9d4857b97968a23fcfe329bc64",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-20",
+          "position": "Laboratori e simulazione finale",
+          "excerpt": "laboratorio; simulazione",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Molte griglie e tracce, ma non atti completi corretti o simulazione integrata con soluzioni specifiche, a fronte della promessa formativa.",
+          "proposal": "Aggiungere almeno determina completa fittizia, elaborato regionale, verbale CdS/689 e annotazione PG; simulazione con dossier, quiz, risposta breve, caso, orale e rubriche ancorate a soluzioni.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-54",
+          "position": "Titoli e alternativequiz",
+          "excerpt": "###6.; tre alternative",
+          "severity": "Lieve",
+          "category": "Forma",
+          "description": "Numerazione isolata; quiz a3o4 alternative e disposizioni variabili, punteggiatura finale incoerente.",
+          "proposal": "Uniformare stile scelto o dichiarare consapevolmente formati diversi; correggere numerazione isolata e punteggiatura C/D nei quiz edilizia/sinistri.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-20, V02-54"
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md",
+      "sha256": "2109298e2ecdb4c8e2df38921762ebdcd06089df8dcf6e83b3107074d8acf97a",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-02",
+          "position": "Diario; correzione simulazione",
+          "excerpt": "Tornare alla source note",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Il lettore viene rinviato a un documento interno invece che a una fonte accessibile.",
+          "proposal": "Indicare norma o fonte ufficiale puntuale, oppure capitolo e paragrafo consultabili.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        },
+        {
+          "id": "V02-20",
+          "position": "Laboratori e simulazione finale",
+          "excerpt": "laboratorio; simulazione",
+          "severity": "Grave",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Molte griglie e tracce, ma non atti completi corretti o simulazione integrata con soluzioni specifiche, a fronte della promessa formativa.",
+          "proposal": "Aggiungere almeno determina completa fittizia, elaborato regionale, verbale CdS/689 e annotazione PG; simulazione con dossier, quiz, risposta breve, caso, orale e rubriche ancorate a soluzioni.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-02, V02-20"
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/51-conclusione-vol-02.md",
+      "sha256": "460726cf9387c4b7cb7963b834e3a44f9a6d45ff3898e101d137755ed9de018c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-52",
+          "position": "Conclusione",
+          "excerpt": "quarantasei capitoli isolati",
+          "severity": "Medio",
+          "category": "Contenuto e coerenza didattica",
+          "description": "Il volume contiene51capitoli;46sono i soli specialistici.",
+          "proposal": "Scrivere51capitoli oppure46capitoli specialistici più percorso introduttivo, simulazione e conclusione.",
+          "status": "Aperto — non applicato",
+          "sources": []
+        }
+      ],
+      "limitations": [
+        "PDF e resa grafica affidati al coordinatore",
+        "Verifica normativa esterna selettiva: gli URL elencati non costituiscono certificazione di ogni frase"
+      ],
+      "chapterObservation": "Rilievi V02-52"
+    }
+  ],
+  "updatedAt": "2026-10-02T20:38:08.362Z",
+  "supportingFiles": [
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/01-servizi-digitali.md",
+      "sha256": "7b7003d6a103fe0ec35d09197342474f51116d9bc3a221440dffa8dc0f10c288",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/02-frontespizio.md",
+      "sha256": "ab5ab5bcb2a9d490b1c8b5f4d311002da8b9336928de0092804767e4155712b0",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/03-copyright-colophon.md",
+      "sha256": "c32aea98101b2ed5bdee313f70a9761a7323a3adc1bedcad83e6103a15ef3378",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/04-sommario.md",
+      "sha256": "5292235ebea87885ce82e4f93ce36a5d23414f5da14bde5f4037aca3278fc700",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-FM2",
+          "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/04-sommario.md",
+          "position": "Simulazione finale",
+          "excerpt": "quiz, risposta sintetica",
+          "severity": "Grave",
+          "description": "Promessa di prova integrata più ampia delle sole quattro tracce metodologiche di cap50.",
+          "proposal": "Allineare promessa e contenuto completando la simulazione come V02-20."
+        }
+      ],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/05-premessa.md",
+      "sha256": "f36fa8d5bb3dbeaa3149ee8c85580a4f7babdc555c2574107b8d3a99ee929129",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-FM1",
+          "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/05-premessa.md",
+          "position": "Destinatari",
+          "excerpt": "se confermato nel perimetro commerciale",
+          "severity": "Medio",
+          "description": "Persistente dubbio redazionale sulla presenza delle Camere di commercio, già incluse.",
+          "proposal": "Presentare direttamente i destinatari camerali e il modulo attuale."
+        }
+      ],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md",
+      "sha256": "b4a39dd149e253697c267b88bc7be8843d16151ba6a5d331573922ba02b89cc4",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-FM3",
+          "path": "wiki/books/vol-02-enti-locali-polizia-locale/front-matter/06-indice.md",
+          "position": "Numerazione pianificata",
+          "excerpt": "1–50",
+          "severity": "Medio",
+          "description": "Indice sorgente non include51 e sequenzeFL03/FL04 obsolete; file dichiara generazione automatica, quindi non è ancora errore PDF accertato.",
+          "proposal": "Riconciliare pianificazione51capitoli conFL03=30–34,FL04=35–49; verificare effettivo indice esportato."
+        }
+      ],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/modules/01-m-fl01-frontespizio-sommario.md",
+      "sha256": "4b4914d037bd8db6569052ce34aadbd8ebea4fd0954decb54142dd167504ffcf",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/modules/02-m-fl02-frontespizio-sommario.md",
+      "sha256": "bd4f5ddf14f7e3aac9c379d0d595a68d7b3baca1b84fad98e7961a1334f07874",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/modules/03-m-fl04-frontespizio-sommario.md",
+      "sha256": "76d928a019ec5d6553dcb00f00c1585eb7a18ffd208ac74ca37b59f58ce2109b",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare.md",
+      "sha256": "ad0041ecaf508b72deab97e539ddee74e35d0b91d77f0d94b672b570ab594fa1",
+      "readComplete": true,
+      "quizReview": "not-applicable",
+      "externalClaimsChecked": [],
+      "findings": [
+        {
+          "id": "V02-FM4",
+          "path": "wiki/books/vol-02-enti-locali-polizia-locale/modules/04-m-fl03-frontespizio-sommario-da-validare.md",
+          "position": "Stato e sommario",
+          "excerpt": "prima della pubblicazione",
+          "severity": "Medio",
+          "description": "Frontespizio interno conserva validazione e numerazione45–49 superate; corrispondenteFL04usa30–44.",
+          "proposal": "Aggiornare entrambi i sommari sorgente; eliminare stato di lavorazione dall’eventuale corpo esportato dopo il controllo renderer."
+        }
+      ],
+      "limitations": [
+        "Resa effettiva inPDF da verificare dal coordinatore"
+      ]
+    }
+  ],
+  "completedAt": "2026-10-02T20:45:57.757Z",
+  "summary": {
+    "chaptersRead": 51,
+    "chaptersExpected": 51,
+    "quizCaseReview": "Tutti i quiz, mini-esercizi e casi incontrati nei51originali: controllo logico completo; controllo fonti selettivo.",
+    "findingCount": 58,
+    "judgment": "Non pubblicabile allo stato attuale",
+    "changesApplied": false
+  },
+  "pdfReview": {
+    "candidate": "delivery/VOL-02/candidate/vol-02-interior-kdp-rebuild.pdf",
+    "sha256": "84cf9c406d5b12c33e7ca611af34087360510ae10e538ccbaeeaf567fd490231",
+    "pages": 867,
+    "contactSheetsViewed": 37,
+    "allContactSheetsViewed": true,
+    "zoomPages": [
+      6,
+      27,
+      148,
+      184,
+      292,
+      315,
+      576,
+      580,
+      655,
+      730,
+      832,
+      867
+    ],
+    "mode": "all-pages-contact-sheet-plus-targeted-full-page",
+    "fullLegibilityAllPages": false,
+    "report": "wiki/reviews/audit-integrale-2026-10-02/PDF-VOL-02.md",
+    "findingIds": [
+      "P02-01",
+      "P02-02",
+      "P02-03",
+      "P02-04",
+      "P02-05",
+      "P02-06",
+      "P02-07",
+      "P02-08",
+      "P02-09",
+      "P02-10"
+    ],
+    "changesApplied": false,
+    "originalFigures": {
+      "count": 10,
+      "allViewedAtOriginalResolution": true,
+      "manifest": "artifacts/review-integrale-2026-10-02/figures-VOL-02/manifest.json"
+    },
+    "productionCheck": {
+      "claim": "867 e 830 pagine eccedono massimo 828 KDP per gabbia 6.69x9.61, nero su bianco o colori Premium",
+      "url": "https://kdp.amazon.com/it_IT/help/topic/GVBQ3CMEQW3W2VL6",
+      "checkedAt": "2026-10-02",
+      "measuredInches": [
+        6.693333095974392,
+        9.60999976264106
+      ]
+    }
+  }
+}

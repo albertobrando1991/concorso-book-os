@@ -12,7 +12,7 @@ source_refs:
   - "sources/puerperio-neonato-supporto-vitale-oms-irc-iss"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.91
-updated_at: 2026-07-29T16:38:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T16:38:00+02:00
 review_required: true
 canonical: true
@@ -64,3 +64,7 @@ Algoritmi, manovre, farmaci, dosi, tempi, soglie e sequenze operative presenti n
 ## Stato revisione
 
 Il gap documentale generale su distocia di spalla e prolasso di funicolo è chiuso con fonti italiane e RCOG. Il verticale ostetrico resta `parziale` per ragioni applicative: la linea definitiva sulla distocia è datata e in revisione, manca il protocollo del setting reale e restano necessarie validazione professionale dei casi e prova pratica controllata su simulatore.
+
+## Integrazione concettuale verificata il 3 ottobre 2026
+
+Definizioni ricontrollate nelle pagine RCOG il 3 ottobre 2026: https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/shoulder-dystocia-green-top-guideline-no-42/ e https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/umbilical-cord-prolapse-green-top-guideline-no-50/. La distocia richiede manovre aggiuntive per liberare la spalla dopo la nascita della testa; il prolasso è discesa del cordone attraverso la cervice accanto o oltre la parte presentata a membrane rotte. Nel capitolo entrano riconoscimento e rischio, non una sequenza di manovre.

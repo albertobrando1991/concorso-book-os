@@ -3,7 +3,7 @@
   "specPath": "books/vol-05-authority-regolazione/planning/00-scheda-pipeline.md",
   "specHash": "sha256:ec2549616ad3f00f12803d0deef890669247ff0f244b499ebb73d6e233d3dda1",
   "createdAt": "2026-08-22T16:04:10.236Z",
-  "updatedAt": "2026-08-22T18:19:39.897Z",
+  "updatedAt": "2026-10-03T11:43:32.671Z",
   "steps": [
     {
       "key": "00:VOL-05",
@@ -1885,17 +1885,19 @@
       "target": "moduli/m-fc05-authority-indipendenti",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Correzioni integrali autorizzate: 33 rilievi V05, verifiche e integrazioni sostanziali; riapertura dei gate di modulo e produzione."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T16:34:26.139Z",
+      "startedAt": "2026-10-03T01:29:34.697Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-22T16:34:56.899Z"
+      "finishedAt": "2026-10-03T11:21:22.453Z"
     },
     {
       "key": "15:moduli/m-fc05-authority-indipendenti",
@@ -1909,13 +1911,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T16:35:01.802Z",
+      "startedAt": "2026-10-03T11:21:27.211Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-22T16:36:17.267Z"
+      "finishedAt": "2026-10-03T11:21:28.257Z"
     },
     {
       "key": "16:moduli/m-fc05-authority-indipendenti",
@@ -1929,7 +1931,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T16:36:22.242Z",
+      "startedAt": "2026-10-03T11:21:45.092Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1941,14 +1943,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Manifest SHA-256 verificato: 15 capitoli, 75 nuclei, step 11 e 13-15 chiusi, indice/fonti/cutoff coerenti, zero errori obbligatori aperti."
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: verifica manuale completata. 15 capitoli, 33 rilievi risolti, 90 quesiti e 10 simulazioni; 15 gate senza blocker o warning, audit 14/15 superati, rinvii verificati. Manifest artifacts/correzioni-collana-2026-10-02/M-FC05-freeze.json. Figure e PDF in lavorazione; nessuna attestazione finale di pubblicabilita."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-22T16:37:21.170Z"
+      "finishedAt": "2026-10-03T11:22:25.078Z"
     },
     {
       "key": "17:VOL-05",
@@ -1962,7 +1964,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T16:37:26.148Z",
+      "startedAt": "2026-10-03T11:22:52.253Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1970,10 +1972,14 @@
           {
             "code": "no-gate",
             "message": "Lo step 17 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Filosofia Distinzioni leggibili in planning/17-filosofia-visiva-2026-10-03.md; due colonne, contrasto B/N, schema nativo specifico e tipografia KDP canonica. Nessun asset ancora modificato."
           }
         ]
       },
-      "finishedAt": "2026-08-22T16:38:02.250Z"
+      "finishedAt": "2026-10-03T11:23:15.778Z"
     },
     {
       "key": "18:moduli/m-fc05-authority-indipendenti",
@@ -1987,7 +1993,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T16:38:07.376Z",
+      "startedAt": "2026-10-03T11:23:16.794Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1998,7 +2004,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-22T16:51:03.532Z"
+      "finishedAt": "2026-10-03T11:38:09.150Z"
     },
     {
       "key": "19:VOL-05",
@@ -2012,7 +2018,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T16:51:08.197Z",
+      "startedAt": "2026-10-03T11:38:09.952Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2023,7 +2029,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-22T16:57:27.544Z"
+      "finishedAt": "2026-10-03T11:39:12.828Z"
     },
     {
       "key": "20:VOL-05",
@@ -2037,7 +2043,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T16:57:34.096Z",
+      "startedAt": "2026-10-03T11:39:13.635Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2049,14 +2055,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Audit completo Book Studio su 213/213 pagine: report wiki/reviews/pipeline/VOL-05/20-vol-05.md; 11 tavole-contatto ispezionate; 0 bloccanti, 0 significativi; numerazione 1-213, tipografia, margini, tabelle, box e 75 immagini conformi."
+            "message": "Chiusura manuale di info: Gate page-fill non implementato: verifica manuale documentata in 20-vol-05.md. Tutte 239 pagine coperte da 15 contatti piu delta finale di 7 pagine, 232 pixel-identiche; 53 dettagli. Indice 90/90, schemi 75/75, zero overflow. Front matter comune ancora aperto per step 21; nessun signoff finale."
           }
         ],
         "notImplemented": [
           "page-fill"
         ]
       },
-      "finishedAt": "2026-08-22T16:57:47.682Z"
+      "finishedAt": "2026-10-03T11:43:31.819Z"
     },
     {
       "key": "21:VOL-05",
@@ -2064,19 +2070,13 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-05",
-      "status": "done",
+      "status": "in-progress",
       "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T16:57:54.854Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-22T17:00:47.459Z"
+      "startedAt": "2026-10-03T11:43:32.671Z"
     },
     {
       "key": "22:VOL-05",
@@ -2084,32 +2084,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-05",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-22T17:00:54.996Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-05"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Preflight documentato in wiki/reviews/pipeline/VOL-05/22-vol-05.md: 75/75 nuclei e asset, 80 tabelle, 67 fonti, 0 link o file mancanti; typecheck verde; 554/554 test verdi; build produzione verde fuori dalla cache OneDrive; PDF 213 pagine, formato 6,69 x 9,61 in, font incorporati e SHA-256 registrato."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-22T17:17:02.743Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-05",
@@ -2117,32 +2094,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-05",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-22T17:17:09.238Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-05"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Gate delivery verificato manualmente: pacchetto candidate completo, MANIFEST.sha256 9/9 verificato, PDF KDP 213 pagine controllato, preflight e test verdi, remoto origin/main senza commit mancanti, staging selettivo limitato al perimetro VOL-05 e correzione test correlata; nessuna pubblicazione o approvazione umana eseguita."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-22T18:19:39.897Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "24:VOL-05",
@@ -2152,7 +2106,9 @@
       "target": "VOL-05",
       "status": "pending",
       "attempts": 0,
-      "evidence": []
+      "evidence": [
+        "reopen: Correzioni integrali autorizzate: 33 rilievi V05, verifiche e integrazioni sostanziali; riapertura dei gate di modulo e produzione."
+      ]
     }
   ]
 }

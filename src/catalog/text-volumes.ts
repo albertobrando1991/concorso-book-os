@@ -121,7 +121,7 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
   },
   {
     code: "VOL-06",
-    title: "Scuola, Universita, Ricerca, Cultura",
+    title: "Scuola, Università, Ricerca, Cultura",
     shortTitle: "Istruzione e cultura",
     tier: "standard",
     launchWave: "first",
@@ -150,7 +150,7 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
       "moduli/m-sa04-tecnici-sanitari-prevenzione"
     ],
     audience: "ASL, aziende ospedaliere, professioni sanitarie, dirigenza e tecnici sanitari",
-    promise: "Volume verticale per bandi sanitari con forte bisogno di review settoriale.",
+    promise: "Norme, organizzazione, casi e strumenti per preparare le prove dei profili amministrativi e sanitari del servizio sanitario.",
     verticals: ["Infermieristica e professioni sanitarie", "Dirigenza medica/non medica", "TSLB, TSRM, prevenzione"]
   },
   {
@@ -186,7 +186,7 @@ export const TEXT_VOLUME_CATALOG: TextVolume[] = [
     modules: ["M-TR03"],
     bookIds: ["moduli/m-tr03-tecnico-ingegneristico"],
     audience: "Ingegneri, architetti, tecnici PA, territorio e lavori pubblici",
-    promise: "Verticale profondo per profili tecnici che non possono stare nel modulo generalista.",
+    promise: "Materie specialistiche, casi e strumenti per le prove dei profili tecnici della pubblica amministrazione.",
     verticals: ["Ingegneria civile PA", "Urbanistica ed edilizia", "MIT e lavori pubblici"]
   },
   {

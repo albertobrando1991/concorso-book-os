@@ -1,0 +1,535 @@
+{
+  "volume": "VOL-10",
+  "date": "2026-10-03",
+  "pdfSha256": "288dcce6dd4f93c8e72ffc7350a5ae3b529c050fc32a3a18729bfb6e58fb4c4f",
+  "finalSignoff": false,
+  "files": [
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-10-cover.pdf",
+      "bytes": 149878,
+      "sha256": "852ec14db7fae6ee92370e9e0df74065647be136aa78e30bb92852d11f9bcba4"
+    },
+    {
+      "path": "dom-metrics.json",
+      "bytes": 284329,
+      "sha256": "24b43f8b394f12eaf2e9b5d51907fe44fe8289b2e69cc2556202f562f701ad79"
+    },
+    {
+      "path": "index-subentries.json",
+      "bytes": 14473,
+      "sha256": "8c2ba64859ed0095cccccf7636699288444d626c1cf012a66065fb1938e6761a"
+    },
+    {
+      "path": "page-ledger.json",
+      "bytes": 53797,
+      "sha256": "9c7b9024cc98a407f248f805d990be6312ec7fddc9a45e5ec79abc5a30e081db"
+    },
+    {
+      "path": "payload.json",
+      "bytes": 343841,
+      "sha256": "ca62e60d14e4f8926510848f026478cbfb7379b38e0e2f9b8fb3a2302a3d85c6"
+    },
+    {
+      "path": "pdf-geometry.json",
+      "bytes": 20453,
+      "sha256": "802859f58215ef8b7809bfb825d81d95df93f074208475f7109fa3715d726694"
+    },
+    {
+      "path": "publication-refinements/export-publication-refinements.mjs",
+      "bytes": 8386,
+      "sha256": "e08c2912e3d810aaa717b28a53decf819d3faebba7be53c52dc862c379d8a8ee"
+    },
+    {
+      "path": "publication-refinements/PDF-VOL-10.md",
+      "bytes": 5850,
+      "sha256": "a9aa7e1679ba0e7982ecaa60d45d80a452f498e276a6212453ebe2fefa173900"
+    },
+    {
+      "path": "publication-refinements/verify-publication-refinements.py",
+      "bytes": 3831,
+      "sha256": "24ba17c2bb9bd716f0ec1afd6cecb9818e4eae1e12313d7f8bdb66f8047dfb33"
+    },
+    {
+      "path": "publication-refinements/vol-10-page-123.png",
+      "bytes": 342874,
+      "sha256": "c028ae212c38b1e59e634ab76fab02d525a8cbec208a91b7f198722ae78f9384"
+    },
+    {
+      "path": "publication-refinements/vol-10-publication-refined-20261003-payload.json",
+      "bytes": 343841,
+      "sha256": "ca62e60d14e4f8926510848f026478cbfb7379b38e0e2f9b8fb3a2302a3d85c6"
+    },
+    {
+      "path": "publication-refinements/vol-10-publication-refined-20261003-photo-placement.json",
+      "bytes": 290,
+      "sha256": "c68f04d9490b4f49d9a5befef94a26641321bd4c23e6f9ba9b0a99441a066ed0"
+    },
+    {
+      "path": "publication-refinements/vol-10-publication-refined-20261003-proof-metrics.json",
+      "bytes": 284329,
+      "sha256": "24b43f8b394f12eaf2e9b5d51907fe44fe8289b2e69cc2556202f562f701ad79"
+    },
+    {
+      "path": "publication-refinements/VOL-10-verification.json",
+      "bytes": 820,
+      "sha256": "df4acd17235140da41bc5ed985300db2ce248da94aae359b8cca1a6788578176"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2750,
+      "sha256": "24a19c175cb02ab066e9359675857d0f2a5900dd18b8b1fde077366b7f55e70b"
+    },
+    {
+      "path": "render-comparison.json",
+      "bytes": 31530,
+      "sha256": "bc8e6bae67013fa0e51e841b441536d3189c643b32502cda0b2e783a189bf469"
+    },
+    {
+      "path": "renderer-source-hashes.json",
+      "bytes": 1428,
+      "sha256": "9647ea01c1e333aeee481996057d992e77a69f6066c59abab6cc59d7e602faa7"
+    },
+    {
+      "path": "reports/M-TR03-freeze.json",
+      "bytes": 10660,
+      "sha256": "4ab484ee7c24f78309086aa421c59c76a8a2d5446b432ef8e15226fb86e3b5fc"
+    },
+    {
+      "path": "reports/PDF-VOL-10.md",
+      "bytes": 5850,
+      "sha256": "a9aa7e1679ba0e7982ecaa60d45d80a452f498e276a6212453ebe2fefa173900"
+    },
+    {
+      "path": "reports/VOL-10-layout-reference-delta.json",
+      "bytes": 4685,
+      "sha256": "4506377e882c60b906ab857392df4b6ad5456ad928db716c1dc184117e1b0146"
+    },
+    {
+      "path": "reports/VOL-10-ledger.json",
+      "bytes": 22092,
+      "sha256": "2c2188dd01c0a0f7dfbd24b9d61fa2a94d1f3d9ed0f90d034a048751f49b127b"
+    },
+    {
+      "path": "reports/VOL-10-vector-render-delta.json",
+      "bytes": 2421,
+      "sha256": "334504be13b5a9b8a8c93ffceeed90d543644a6ba0058502d82f9e0833c508e8"
+    },
+    {
+      "path": "reports/VOL-10.md",
+      "bytes": 14431,
+      "sha256": "874f4c2ea72929954008648a605078af4d6df6213dcab2c7c25cd7a3cf417fba"
+    },
+    {
+      "path": "reproduction/export-frozen.mjs",
+      "bytes": 4493,
+      "sha256": "34297c78cceb746bd6522ee8f648974018c0cc04a35bf4b557aa648577783bb2"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/f01-alone-illustrativo.png",
+      "bytes": 2750873,
+      "sha256": "25ae0836050ca0c966c3232e6705525b529337cb48241b50441dc14d1dd30e57"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/planimetria-sopralluogo.pdf",
+      "bytes": 3158,
+      "sha256": "e0a1aa6505cf8500d71a32ad74f071144efccd5e00dc456300f8751b461532b8"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/planimetria-sopralluogo.png",
+      "bytes": 159489,
+      "sha256": "7b54dc5bd16711cea7b3f48246acfa98825a3e2d29dd2edb2cd51f1195d9be20"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/trave-carico-taglio-momento.pdf",
+      "bytes": 3568,
+      "sha256": "162ecbf7e6cd3bbe8d29015b95dac8da292f2075fcdfb8fc747e1f6fcf25491f"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/trave-carico-taglio-momento.png",
+      "bytes": 139309,
+      "sha256": "56bf887895784a27b46dc45c2a3b4a1fefada7ffd3f8481f6fa3feb2ebbb8c38"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/vincoli-piani.pdf",
+      "bytes": 2758,
+      "sha256": "6867535556d50a3afd1857b12fd1a39537b9ef2df6cf024ad4c76dc22f3a4bd6"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/vincoli-piani.png",
+      "bytes": 136057,
+      "sha256": "d5897bfceecb5bc4517f48801206732e6144c78fd1d40b4b39c44ba5cea3355d"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+      "bytes": 14070,
+      "sha256": "c4051ae29a075107758d9bf42e54effd84fdad96c054de4c4bf10f9c2dccf646"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+      "bytes": 16601,
+      "sha256": "c4a2f32fa84de0fcea9d428d42c5fedb2fbe4365342a31157440ba386e65f143"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+      "bytes": 17662,
+      "sha256": "1206810594458720e193b319e904ca508dc87b9159e1a0375058642c0e9b7bad"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+      "bytes": 24787,
+      "sha256": "9e2c73570c22a960a66b14845270f5f58550cb1598948079f24027ebd2008cda"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+      "bytes": 19080,
+      "sha256": "7431ed4fc0634535817c58b265f3bf7b6daa7a13a0468af9820d8a82ac4e0e2d"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+      "bytes": 25693,
+      "sha256": "922999a94881c8e068f59d56a54b2ee10fae2f76a6e8c545460fd36160da4a6d"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+      "bytes": 20205,
+      "sha256": "4a9695dfb340627a2dd1302862e9f118485bbb6fcc87010afa4ba506d1344a61"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+      "bytes": 23077,
+      "sha256": "361cf14cb3189ac5980565dc901ea16811f288637ec3f5bdbef32edde7053b4a"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+      "bytes": 19834,
+      "sha256": "b5561d1689ce2b55241b2d04265af98f2bb8005dd2843da134917dafff81aa6e"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+      "bytes": 19874,
+      "sha256": "c08e301cb519c6229d54518e2f98fdce8f99d98ce8630e365c04c5bd87955290"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+      "bytes": 20355,
+      "sha256": "92b1a37069cdf99ccc0324d867a6f7e42dff7ad0e1705f2e32ce7aebbaaa8b5e"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+      "bytes": 19336,
+      "sha256": "ccfee0d6857cc496ff28b5e16f65b617104c940611a72b1c800a2cc7f9e6bf55"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+      "bytes": 25928,
+      "sha256": "13f938bdb6a0ee39fc3f23ccc3b7c707c4d84b1c637d797ce3ee0d82bda07c26"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/index.md",
+      "bytes": 5193,
+      "sha256": "f8cee793af958d28d119ca43684a1029b97ba51da64f9210548cda14a61bcdff"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/02-matrice-copertura-didattica.md",
+      "bytes": 37826,
+      "sha256": "0b26b68123552100fc54fc60018784c056f3a8e8035220d6fb68b516c699e50c"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo.md",
+      "bytes": 4706,
+      "sha256": "10900669673b8f83e3c338bd401be2cdcf447bbcc87c6d145b33bb4dd943b033"
+    },
+    {
+      "path": "snapshot/wiki/books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/index.md",
+      "bytes": 1780,
+      "sha256": "e89b7f6d76a6d2372c06dc1cab0639fe0d3f7e39b02f223036cdb3435f0177be"
+    },
+    {
+      "path": "snapshot/wiki/sources/campione-bandi-tecnici-pa-vol-10-2026.md",
+      "bytes": 4246,
+      "sha256": "2d5f2bdd4469cdd58116b5e8d26e374fa5a77e9ec62bf02386ee66a9d03647b8"
+    },
+    {
+      "path": "snapshot/wiki/sources/d-p-r-8-giugno-2001-n-327-espropriazione-pubblica-utilita.md",
+      "bytes": 1969,
+      "sha256": "f313afb246df4ac640c1361e4b36905a68fad9d5347d1504094e0ead6f37aee4"
+    },
+    {
+      "path": "snapshot/wiki/sources/edilizia-sue-titoli-vigilanza-fonti-ufficiali-2026.md",
+      "bytes": 4944,
+      "sha256": "704c1239b999acf895dcc1f0d0b10390d09ea44f380885ead984d0c54a03a732"
+    },
+    {
+      "path": "snapshot/wiki/sources/legge-14-gennaio-1994-n-20-responsabilita-erariale.md",
+      "bytes": 2421,
+      "sha256": "c20a523e11e1239623a21af69c2f2b716a3f31f6071ab6d600104d7ec89eada8"
+    },
+    {
+      "path": "snapshot/wiki/sources/legge-241-1990-procedimento-amministrativo.md",
+      "bytes": 3990,
+      "sha256": "c2fd891f64d26e3241c4e11e33943c39fa10409b97092134349f77cc62b07137"
+    },
+    {
+      "path": "snapshot/wiki/sources/legge-7-agosto-1990-n-241-procedimento-amministrativo-e-accesso-ai-documenti-amministrativi-testo-vigente-normattiva.md",
+      "bytes": 3329,
+      "sha256": "20916fa63996299291b368b292e8017c60811b287e2834607d52554db34cfd7f"
+    },
+    {
+      "path": "snapshot/wiki/sources/logica-volumi-copertura-concorsobook-v4.md",
+      "bytes": 6300,
+      "sha256": "e916cf152c82669cea93a172ef73dccd21cc43f60624ae0bc07d78d2402b62e7"
+    },
+    {
+      "path": "snapshot/wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md",
+      "bytes": 3030,
+      "sha256": "0d48c72afbec0279f602b6a865628411dff64d11e5e2981d95a48c5a69691394"
+    },
+    {
+      "path": "snapshot/wiki/sources/ntc-2018-circolare-2019-emendamenti-2023-fonti-ufficiali.md",
+      "bytes": 6067,
+      "sha256": "637e85283f64b4352bbfe9a7b401b5d35ec5c9d03b078a63118c774aa5133750"
+    },
+    {
+      "path": "snapshot/wiki/sources/principio-copertura-didattica-integrale-2026-07-17.md",
+      "bytes": 2768,
+      "sha256": "b56a11c26ba65cc34e03edfdcd63df0a06887c056fddd448148e413cdf3a63b5"
+    },
+    {
+      "path": "snapshot/wiki/sources/responsabilita-dirigenziale-legalita-organizzativa-performance-rischio.md",
+      "bytes": 3406,
+      "sha256": "cf291a413905199cd2595e827bd55c893997697d405a13ea97dfae7b6e1660a1"
+    },
+    {
+      "path": "snapshot/wiki/sources/scienza-tecnica-costruzioni-fonti-universitarie.md",
+      "bytes": 5373,
+      "sha256": "991110c9860bb362e1cb371e419226feab3d2f697611a6ce5148fc12ba127662"
+    },
+    {
+      "path": "snapshot/wiki/sources/urbanistica-governo-territorio-fonti-ufficiali-2026.md",
+      "bytes": 3192,
+      "sha256": "e4edb91a21d4d7c14ca7e216ae09b76548175b282b5b8b095a63c9ac1db6f417"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-10-tecnico-rettifiche-2026-10-03.md",
+      "bytes": 18825,
+      "sha256": "fc7ff890afdf2cc8859c60e711358e97126dcb4b80b1ac31ab42b443a3d7f168"
+    },
+    {
+      "path": "snapshot/wiki/topics/tecnico-ingegneristico-rettifiche-2026.md",
+      "bytes": 2138,
+      "sha256": "c38bda5c4298bc3d000ae5fd207c04ddb0b44377b0099abb803531d2b2a0c998"
+    },
+    {
+      "path": "source-hashes.json",
+      "bytes": 11981,
+      "sha256": "3d95d8fadb1dc3078ebffa672e084a4ca1616e79a320d34cb5e5833f49047bf5"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 5884,
+      "sha256": "4503c8d09335db4d56d5e7d2fa6267bc3920851b19c9ea942f159a05e6c49d66"
+    },
+    {
+      "path": "visual/final/contact-001-016.png",
+      "bytes": 428825,
+      "sha256": "b5d47f66b93edd29dfdb96b0675f907e2dfb6ef6e0eb313618965d6f828aa515"
+    },
+    {
+      "path": "visual/final/contact-017-032.png",
+      "bytes": 550381,
+      "sha256": "0cedc2c23992bd973a9cc949e4a262a082f8cd6a013a00d2f965d583f74acf04"
+    },
+    {
+      "path": "visual/final/contact-033-048.png",
+      "bytes": 598374,
+      "sha256": "c640afcb8cf19fa018a4c988c4a2655bb2fc481e1b02d6fbe3d8334ebc2780dc"
+    },
+    {
+      "path": "visual/final/contact-049-064.png",
+      "bytes": 628728,
+      "sha256": "79bc72e81c7cc9a6e5ef28159cc85aabdb3e8e77e80077ce08db742613982988"
+    },
+    {
+      "path": "visual/final/contact-065-080.png",
+      "bytes": 697961,
+      "sha256": "a73fef8d4b22ea2cfc09d8ed059490c94fabc6608b5fca7db977ab0fcf4e5872"
+    },
+    {
+      "path": "visual/final/contact-081-096.png",
+      "bytes": 646241,
+      "sha256": "d5617028f32bd401c7b887755728359da2896f1914fe111953013a289a8a1d5b"
+    },
+    {
+      "path": "visual/final/contact-097-112.png",
+      "bytes": 635196,
+      "sha256": "80d5a592a4a71463aa6d5846d665b2712bc9353ece59cbd6049de773f79eb171"
+    },
+    {
+      "path": "visual/final/contact-113-127.png",
+      "bytes": 559103,
+      "sha256": "5b9741e1e365d3539dcf66fc00c3a269730d2e92894d7290f80038df07d99bc3"
+    },
+    {
+      "path": "visual/final/zoom-028.png",
+      "bytes": 149084,
+      "sha256": "585a0ee6c0f4d39a804d038c58a4566c5c7bc5def2b3187208fa747175dbad9d"
+    },
+    {
+      "path": "visual/final/zoom-031.png",
+      "bytes": 127067,
+      "sha256": "379aee5c1fbce2ad4c7b5ab39dc62b5e9858d0abd1dfd3dbf543a990c010a82b"
+    },
+    {
+      "path": "visual/final/zoom-122.png",
+      "bytes": 158609,
+      "sha256": "d804be2f51fcaea7229835703a115d6eca6b0018631faad5c5b4b3ba29f72caf"
+    },
+    {
+      "path": "visual/release/contact-001-016.png",
+      "bytes": 428825,
+      "sha256": "b5d47f66b93edd29dfdb96b0675f907e2dfb6ef6e0eb313618965d6f828aa515"
+    },
+    {
+      "path": "visual/release/contact-017-032.png",
+      "bytes": 550053,
+      "sha256": "6208428e2a64097eb22baa8fd7f7228799353e715ede6eb9d65cce85724eb592"
+    },
+    {
+      "path": "visual/release/contact-033-048.png",
+      "bytes": 598374,
+      "sha256": "c640afcb8cf19fa018a4c988c4a2655bb2fc481e1b02d6fbe3d8334ebc2780dc"
+    },
+    {
+      "path": "visual/release/contact-049-064.png",
+      "bytes": 628728,
+      "sha256": "79bc72e81c7cc9a6e5ef28159cc85aabdb3e8e77e80077ce08db742613982988"
+    },
+    {
+      "path": "visual/release/contact-065-080.png",
+      "bytes": 697961,
+      "sha256": "a73fef8d4b22ea2cfc09d8ed059490c94fabc6608b5fca7db977ab0fcf4e5872"
+    },
+    {
+      "path": "visual/release/contact-081-096.png",
+      "bytes": 646241,
+      "sha256": "d5617028f32bd401c7b887755728359da2896f1914fe111953013a289a8a1d5b"
+    },
+    {
+      "path": "visual/release/contact-097-112.png",
+      "bytes": 635196,
+      "sha256": "80d5a592a4a71463aa6d5846d665b2712bc9353ece59cbd6049de773f79eb171"
+    },
+    {
+      "path": "visual/release/contact-113-127.png",
+      "bytes": 557714,
+      "sha256": "39bf962efac0fb52ef764518ecc2e291d0bb35947e53b767897a68ef44e079ab"
+    },
+    {
+      "path": "visual/release/zoom-006.png",
+      "bytes": 178754,
+      "sha256": "d5e389701269ed6b054446d1299b8373aa12e88068492dbaaa441c8e97a696cb"
+    },
+    {
+      "path": "visual/release/zoom-028.png",
+      "bytes": 146735,
+      "sha256": "d5e8c85c9023e3b2d69a411f36e625e2f72f154d42808158c87ffd55fbd9b423"
+    },
+    {
+      "path": "visual/release/zoom-030.png",
+      "bytes": 166265,
+      "sha256": "9a788db5173b3c26db3229c6cc4f67fe0313d195fc510f2b56b2594eefcf3268"
+    },
+    {
+      "path": "visual/release/zoom-031.png",
+      "bytes": 125226,
+      "sha256": "41ccc12da4de4297816c505ebc18e7b8f97137b0985e753838d6f82533740385"
+    },
+    {
+      "path": "visual/release/zoom-039.png",
+      "bytes": 208648,
+      "sha256": "4ebc9bbf1ac980bd3f260c862816b4761ef2b231df74073ef0c5a19f69e24ea2"
+    },
+    {
+      "path": "visual/release/zoom-079.png",
+      "bytes": 185255,
+      "sha256": "91e98e2afb238eb7795312164cc59a86516b8df50943fd2f8302c6164e3377fb"
+    },
+    {
+      "path": "visual/release/zoom-080.png",
+      "bytes": 155236,
+      "sha256": "1b43b2fac159c53c2b9e6493013ee99efc1db97439527985110ca10a7c988caa"
+    },
+    {
+      "path": "visual/release/zoom-122.png",
+      "bytes": 153329,
+      "sha256": "d94a8f81c9e43fa3e1b9acaee1a6593d6a17068d76a1084412fce9aeff8dca86"
+    },
+    {
+      "path": "visual/release/zoom-123.png",
+      "bytes": 515188,
+      "sha256": "041f718b8666e929144fa7a16457e76b75be45e6def044f8ab538c7d03caa20c"
+    },
+    {
+      "path": "visual/release/zoom-124.png",
+      "bytes": 202097,
+      "sha256": "a5a60dda0dbcc66a6c86d06954d31b7b90621c0cff2e82bede553ac1b0a4816e"
+    },
+    {
+      "path": "visual/release/zoom-125.png",
+      "bytes": 182523,
+      "sha256": "c5fbc8d5deac655e086ca7f2954acfe79be1ab0f2779dc6c98698e7e0f0e7a19"
+    },
+    {
+      "path": "visual/release/zoom-126.png",
+      "bytes": 130988,
+      "sha256": "ad14475c716dfa21a57c7fd3ef7278203a6c2ba31f651872afc85a05db8d5ffd"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 1535,
+      "sha256": "0b9b09a99427892734f806f110347e5c464cb3e1516d416eecd4da48c5714df3"
+    },
+    {
+      "path": "vol-10-interior-kdp.pdf",
+      "bytes": 3729797,
+      "sha256": "288dcce6dd4f93c8e72ffc7350a5ae3b529c050fc32a3a18729bfb6e58fb4c4f"
+    }
+  ],
+  "pdf": "vol-10-interior-kdp.pdf",
+  "pages": 127,
+  "previousInteriorSha256": "411517d20e00cb3d077f04cde986b98a07d44d41c6955f830d8d4861605e425c",
+  "covers": [
+    {
+      "key": "10",
+      "volume": "VOL-10",
+      "title": "Tecnico-ingegneristico, territorio, lavori pubblici",
+      "cover": "delivery/copertine-2026-10-03/vol-10-cover.pdf",
+      "coverSha256": "852ec14db7fae6ee92370e9e0df74065647be136aa78e30bb92852d11f9bcba4",
+      "interior": "delivery\\VOL-10\\candidate-2026-10-03\\vol-10-interior-kdp.pdf",
+      "interiorSha256": "288dcce6dd4f93c8e72ffc7350a5ae3b529c050fc32a3a18729bfb6e58fb4c4f",
+      "pdfPages": 127,
+      "kdpPages": 128,
+      "spineInches": 0.288256,
+      "widthInches": 13.918256,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.39602279663086,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 5.807723015625015,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/10.png",
+      "path": "covers/vol-10-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

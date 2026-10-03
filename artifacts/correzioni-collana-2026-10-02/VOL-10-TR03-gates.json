@@ -1,0 +1,278 @@
+[
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 5/5, parole 1800/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (400 parole) supera tre volte il più breve (74).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 7/5, parole 1930/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (336 parole) supera tre volte il più breve (68).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 7/5, parole 2261/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (581 parole) supera tre volte il più breve (80).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 8/5, parole 3191/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (559 parole) supera tre volte il più breve (122).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 8/5, parole 2386/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (680 parole) supera tre volte il più breve (64).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 8/5, parole 3245/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (754 parole) supera tre volte il più breve (113).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 7/5, parole 2463/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 7/5, parole 2923/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (807 parole) supera tre volte il più breve (65).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 6/5, parole 2416/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (543 parole) supera tre volte il più breve (171).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 5/5, parole 2564/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (780 parole) supera tre volte il più breve (171).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 6/5, parole 2470/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 6/5, parole 2398/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (626 parole) supera tre volte il più breve (174).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md"
+        }
+      ]
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": [
+        {
+          "code": "retrofit-dovuto",
+          "message": "Capitolo legacy (format_version 1): nuclei 8/5, parole 3290/3000, quiz 0/6, casi 0/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md"
+        },
+        {
+          "code": "squilibrio-nuclei",
+          "message": "Il nucleo più lungo (1111 parole) supera tre volte il più breve (110).",
+          "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md"
+        }
+      ]
+    }
+  }
+]

@@ -2,6 +2,22 @@ import { describe, expect, it } from "vitest"
 import { backfillCandidateCount, canBackfillBlock } from "@/src/book/pagination"
 
 describe("Book Studio measured backfill", () => {
+  it("avoids a page containing only one short closing paragraph when the real gap fits it", () => {
+    expect(backfillCandidateCount({ availableHeight: 130, candidates: [{ type: "paragraph", height: 80 }] })).toBe(1)
+    expect(backfillCandidateCount({ availableHeight: 85, candidates: [{ type: "paragraph", height: 80 }] })).toBe(0)
+    expect(backfillCandidateCount({ availableHeight: 130, candidates: [{ type: "paragraph", height: 0 }] })).toBe(0)
+  })
+  it("brings a final heading and its paragraph back together when both fit", () => {
+    const candidates = [
+      { type: "heading", height: 30 },
+      { type: "paragraph", height: 90 }
+    ]
+    expect(backfillCandidateCount({ availableHeight: 260, candidates })).toBe(2)
+    expect(backfillCandidateCount({ availableHeight: 180, candidates: [candidates[0], { type: "paragraph", height: 170 }] })).toBe(0)
+    expect(backfillCandidateCount({ availableHeight: 260, candidates: [candidates[0]] })).toBe(0)
+    expect(backfillCandidateCount({ availableHeight: 260, candidates: [candidates[0], candidates[0]] })).toBe(0)
+  })
+
   it("moves the final continued-table fragments together when both fit", () => {
     expect(backfillCandidateCount({
       availableHeight: 508,

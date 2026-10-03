@@ -1,0 +1,20 @@
+{
+  "volume": "VOL-09",
+  "source": "delivery/VOL-09/candidate-2026-10-03/vol-09-interior-kdp.pdf",
+  "sourceSha256": "26c5a13f5488ff83a27c20da486c0b55936c943b21f539dc61a4e2797904d466",
+  "pdf": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/vol-09-publication-refined-20261003-proof.pdf",
+  "pdfSha256": "8dd41fc17e9e2cf638e8b1e3279a1f679b68243fb624853fa620ac9b99cb9097",
+  "pages": 267,
+  "changedPages": [
+    240
+  ],
+  "textChangedPages": [],
+  "unchangedPagesPixelIdentical": 266,
+  "unembeddedFonts": [],
+  "imagesUnder300Ppi": [],
+  "textOutsidePage": [],
+  "visualReviewed": true,
+  "visualEvidence": [
+    "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/publication-refinement-qa/vol-09-page-240.png"
+  ]
+}

@@ -3,7 +3,7 @@
   "specPath": "books/il-metodo-bando/planning/00-scheda-pipeline.md",
   "specHash": "sha256:34fff7d50c27206eb924caa5da2e93486bf086483f91f944f700b73060dfb004",
   "createdAt": "2026-08-21T17:01:29.084Z",
-  "updatedAt": "2026-08-22T10:22:22.843Z",
+  "updatedAt": "2026-10-03T13:32:29.620Z",
   "steps": [
     {
       "key": "13:il-metodo-bando",
@@ -32,18 +32,32 @@
       "scope": "module",
       "target": "il-metodo-bando",
       "status": "done",
-      "attempts": 1,
-      "evidence": [],
+      "attempts": 2,
+      "evidence": [
+        "reopen: Integrazioni autorizzate il 02-10-2026: documentazione amministrativa, rimedi, incompatibilita, aritmetica e logica nei capitoli 05,06,12. Escluse Campania e cultura generale.",
+        "reopen: Applicazione autorizzata dei 51 rilievi testuali e apparati audit integrale 2 ottobre; preservare INT01-04"
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T17:08:00.840Z",
+      "startedAt": "2026-10-03T01:01:06.935Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": []
+        "warnings": [
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01-50: stato \"parziale; dati effettivi pendenti\".",
+            "location": "wiki/reviews/pipeline/VOL-01/14-il-metodo-bando.md"
+          },
+          {
+            "code": "open-minor-error",
+            "message": "Errore non grave ancora aperto V01-51: stato \"parziale; dati effettivi pendenti\".",
+            "location": "wiki/reviews/pipeline/VOL-01/14-il-metodo-bando.md"
+          }
+        ]
       },
-      "finishedAt": "2026-08-21T17:08:33.157Z"
+      "finishedAt": "2026-10-03T01:01:23.582Z"
     },
     {
       "key": "15:il-metodo-bando",
@@ -52,18 +66,18 @@
       "scope": "module",
       "target": "il-metodo-bando",
       "status": "done",
-      "attempts": 2,
+      "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T17:14:00.283Z",
+      "startedAt": "2026-10-03T01:01:24.430Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-21T17:38:23.173Z"
+      "finishedAt": "2026-10-03T01:02:18.051Z"
     },
     {
       "key": "16:il-metodo-bando",
@@ -77,7 +91,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T17:38:31.129Z",
+      "startedAt": "2026-10-03T01:02:27.421Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -89,14 +103,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale text-freeze superata: 32 sezioni presenti, matrice senza stati parziale/solo-nominato/mancante, step 13-15 chiusi, manifest SHA-256 con 36/36 file esistenti e 0 mismatch; cut-off 2026-08-21."
+            "message": "Chiusura manuale di info: Verifica manuale: 32 testi e 49 rilievi verificati, audit15 passato, manifest M-PA01-freeze.json con 41 file. Preliminari V01-50/51 esclusi e ancora aperti; PDF da verificare. Gate non implementato dichiarato."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-21T17:39:18.476Z"
+      "finishedAt": "2026-10-03T01:02:30.768Z"
     },
     {
       "key": "17:VOL-01",
@@ -110,7 +124,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T17:39:27.989Z",
+      "startedAt": "2026-10-03T01:02:36.939Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -118,10 +132,14 @@
           {
             "code": "no-gate",
             "message": "Lo step 17 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Filosofia Bussola Operativa riletta e aggiornata al 3 ottobre: quattro colonne solo con campi brevi e font9,5; figure corrette e verifica a dimensione pagina. Nessuna approvazione del PDF implicita."
           }
         ]
       },
-      "finishedAt": "2026-08-21T17:43:13.689Z"
+      "finishedAt": "2026-10-03T01:03:25.617Z"
     },
     {
       "key": "18:il-metodo-bando",
@@ -130,12 +148,12 @@
       "scope": "module",
       "target": "il-metodo-bando",
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T17:43:16.505Z",
+      "startedAt": "2026-10-03T10:14:58.739Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -146,7 +164,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-21T17:55:22.116Z"
+      "finishedAt": "2026-10-03T11:07:05.690Z"
     },
     {
       "key": "19:VOL-01",
@@ -160,7 +178,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T17:55:25.356Z",
+      "startedAt": "2026-10-03T11:24:34.923Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -168,10 +186,14 @@
           {
             "code": "no-gate",
             "message": "Lo step 19 non prevede un gate automatico."
+          },
+          {
+            "code": "manual-acceptance",
+            "message": "Chiusura manuale di info: Master KDP verificato nel PDF corrente686p: Garamond11,tabelle9.5,font incorporati,437destinazioni indice,zero overflow; etichette indice abbreviate senza sovrapposizioni. Gate manuale: nessuna certificazione automatica. Vedi PDF-VOL-01 e manifest."
           }
         ]
       },
-      "finishedAt": "2026-08-21T17:56:09.043Z"
+      "finishedAt": "2026-10-03T11:50:41.509Z"
     },
     {
       "key": "20:VOL-01",
@@ -185,7 +207,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T17:56:12.168Z",
+      "startedAt": "2026-10-03T11:50:42.404Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -197,14 +219,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Audit manuale completato: baseline assestata 592/592, tavole-contatto 30/30 ispezionate, registro conforme, 0 bloccanti, 0 significativi, 0 overflow, 0 collisioni."
+            "message": "Chiusura manuale di info: Gate page-fill non implementato: audit manuale completo del PDF686p su43tavole tutteviste,14dettagli finali,437destinazioni e zerooverflow/fuoripagina. Registro VOL-01-reader-final-visual-review.json e PDF-VOL-01.md. Paginebrevi concontenuto conservate; V01-50/51 aperti allo step21. Nessun signoff."
           }
         ],
         "notImplemented": [
           "page-fill"
         ]
       },
-      "finishedAt": "2026-08-22T09:56:41.787Z"
+      "finishedAt": "2026-10-03T11:51:28.655Z"
     },
     {
       "key": "21:VOL-01",
@@ -212,19 +234,13 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-01",
-      "status": "done",
-      "attempts": 1,
+      "status": "in-progress",
+      "attempts": 2,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-22T09:56:52.185Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-22T09:59:18.683Z"
+      "startedAt": "2026-10-03T13:32:29.620Z"
     },
     {
       "key": "22:VOL-01",
@@ -232,32 +248,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-01",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-22T09:59:32.160Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-01"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Preflight manuale completato: freeze 36/36 invariato, PDF 592/592 pagine, 30/30 tavole ispezionate, font incorporati, formato conforme, 54 test, typecheck e build verdi, zero anomalie bloccanti."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-22T10:16:30.389Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-01",
@@ -265,32 +258,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-01",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-22T10:16:39.819Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-01"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Delivery manuale completata: candidata VOL-01-candidate-2026.08.22.1, 10 file, manifest 9/9 senza mismatch, PDF 592 pagine, staging selettivo senza cache artifact output o VOL-06, remoto allineato."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-22T10:22:22.843Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "24:VOL-01",

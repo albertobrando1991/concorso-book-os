@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-03",
+  "chapters": 14,
+  "schemas": 70,
+  "allPriorFreezeHashesMatched": true,
+  "allQuizAndCaseBodiesPreserved": true,
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "before": "cc3ca07649bc49c6d12488a2c2fc2c288a7f5549a50cfa3b95b432de3fd81104",
+      "after": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "before": "0608926cdcfed878d87bd17e8688701bcb649c2754b2938f2c3ad020e204827d",
+      "after": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "before": "f2348f3a047e9c6ce994b2c4ceff5866771760897beac5d985c7d1699f4040e9",
+      "after": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "before": "1f69b8806e85bee7cf900d72b27c4292e73566d4b5915e7e29e37de1d6ef4115",
+      "after": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "before": "c149041ea1590eaaaac7cd78fcead0c7e1b4da8364fcf12cd5b270d6d88a631e",
+      "after": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "before": "66af6b871a88b158320980d3ea8c8d307083de14e457698f06501f0305bf0f04",
+      "after": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "before": "de31a9c456df9acf1fc275581b6b2eae786f42c5074882a6ffef9db940654d41",
+      "after": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "before": "0bc7153aab62408b99ff2c1d2a206a0183cf78367d9f133bfc8c94f74d8ba911",
+      "after": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "before": "9f20d4bad7030609a3e96e5c1fb729a5e777841fd24c167747f459dcad8a7ee1",
+      "after": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "before": "597e4d5e6ab97b9b42994cadff169024f7bcfd6e87faebbb383476e71125d7f0",
+      "after": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "before": "41426ff910530190685edfb45e7ae1654fe7fca9a1da02423661ad1efe9b01aa",
+      "after": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "before": "02fe0a5358dfdb6345bc979a31d95e59334f40d2494a241648f0069eb2f83a3b",
+      "after": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "before": "6f16976c3e3b3c75d98ff5582a9507834842d1c36780e2b60199f35009ad00a9",
+      "after": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "before": "333279f28970c97a00144a45bf8594967708df30948a268d6be59660e68dcd07",
+      "after": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    }
+  ],
+  "semanticChecks": [
+    "BANDO labels correct in all 14 maps",
+    "Archiving and assessment alternative",
+    "IVA periods distinguished from annual return",
+    "Collection ordinary and executive paths distinguished",
+    "AEO status separated from physical control and EORI",
+    "Accounting not postponed necessarily to payment",
+    "Appendices A-H match actual headings",
+    "AE/ADM/AdER not a sequence; profiles not entities",
+    "Ordinary balance sheet qualified; simplified forms preserved"
+  ],
+  "limitations": [
+    "Visual PDF verification pending; no final publication judgment."
+  ]
+}

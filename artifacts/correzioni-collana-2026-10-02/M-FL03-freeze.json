@@ -1,0 +1,47 @@
+{
+  "module": "M-FL03",
+  "cutoff": "2026-10-03",
+  "files": [
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "1c0f21ce241f8b26bbece2d69a991bce564979dabe159e124fdf2cf2684bf176"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "3fb15605fa8f8b9d0d0d5302b6d720c9ee2a899b2de2cb3ff84b175ce894f986"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "1ae64ae0c5245d72706701ca06c4608a1266f88600ebf69b29f5a4d63de6a470"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "70f14694c053f66fa20800387d3303c41920b12f70327ab8796229d33ded0363"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "b69c727308b50f223810947efa20400a00b4e35eec135a60fbfefcdc5c3fa17e"
+    }
+  ],
+  "pdfChecked": true,
+  "controlledDelta": "Cinque raster sostituiti da schemi nativi; PDF successivo da verificare",
+  "layoutDelta": "Riferimenti cap03 ricomposti in due paragrafi senza perdita di fonti per evitare pagina con sole tre righe",
+  "pdfReviewMethod": "Whole-PDF contact sheets plus targeted closeups; see PDF-VOL-02.md, not all-page full-resolution reading",
+  "pdfProof": {
+    "id": "tomo-1",
+    "pdf": "tomo-1\\vol-02-tomo-1-proof.pdf",
+    "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+    "pages": 700,
+    "indexEntries": 177
+  }
+}

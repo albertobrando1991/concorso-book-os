@@ -1,0 +1,5508 @@
+{
+  "createdAt": "2026-10-02T20:12:34.152Z",
+  "mode": "read-only CLI gate commands; no complete/next/state changes",
+  "results": [
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "00",
+      "file": "chapters/introduzione.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 00 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "01",
+      "file": "chapters/il-nuovo-candidato-pubblico.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 01 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "02",
+      "file": "chapters/anatomia-del-bando.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 02 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "03",
+      "file": "chapters/il-metodo-bando.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 03 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "04",
+      "file": "chapters/costituzione-e-ordinamento-dello-stato.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 04 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "05",
+      "file": "chapters/diritto-amministrativo-per-candidati.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 05 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "06",
+      "file": "chapters/pubblico-impiego-e-organizzazione-pa.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 06 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "07",
+      "file": "chapters/trasparenza-anticorruzione-privacy.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 07 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "08",
+      "file": "chapters/contabilita-pubblica-essenziale.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 08 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "09",
+      "file": "chapters/contratti-pubblici-essenziali.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 09 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "10",
+      "file": "chapters/informatica-pa-digitale-competenze-digitali.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 10 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "11",
+      "file": "chapters/inglese-concorsuale-essenziale.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 11 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "12",
+      "file": "chapters/logica-comprensione-ragionamento.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 12 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "13",
+      "file": "chapters/metodo-di-studio-per-concorsi.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 13 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "14",
+      "file": "chapters/la-prova-a-quiz.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 14 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "15",
+      "file": "chapters/prova-scritta-teorico-pratica.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 15 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "16",
+      "file": "chapters/la-prova-orale.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 16 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "17",
+      "file": "chapters/casi-pratici-problem-solving-amministrativo.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 17 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "18",
+      "file": "chapters/quesiti-situazionali-soft-skills.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 18 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "19",
+      "file": "chapters/famiglie-concorsi-pubblici.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 19 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "20",
+      "file": "chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 20 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "21",
+      "file": "chapters/scegliere-moduli-integrativi.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 21 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "22",
+      "file": "chapters/sistema-adattabile.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 22 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "23",
+      "file": "chapters/diario-degli-errori.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 23 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "24",
+      "file": "chapters/checklist-operative.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo 24 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "C",
+      "file": "chapters/conclusione.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo C non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "A",
+      "file": "chapters/appendice-a-glossario-essenziale-pa.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo A non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "B",
+      "file": "chapters/appendice-b-100-parole-chiave-concorsi.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo B non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "C1",
+      "file": "chapters/appendice-c-template-bando-decoder.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo C1 non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "D",
+      "file": "chapters/appendice-d-piano-studio-personale.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo D non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "E",
+      "file": "chapters/appendice-e-schema-universale-risposta-orale.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo E non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-01",
+      "module": "M-PA01",
+      "chapter": "F",
+      "file": "chapters/appendice-f-matrice-materie-profili.md",
+      "error": "Error: Step 10 del modulo M-PA01 per il capitolo F non presente nel run-state di VOL-01."
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "01",
+      "file": "chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3813/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "02",
+      "file": "chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4270/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "03",
+      "file": "chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3785/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "04",
+      "file": "chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3606/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "05",
+      "file": "chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4147/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "06",
+      "file": "chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4462/3000, quiz 0/6, casi 3/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "07",
+      "file": "chapters/07-servizi-demografici-elettorali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4426/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "08",
+      "file": "chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "09",
+      "file": "chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "10",
+      "file": "chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "11",
+      "file": "chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "12",
+      "file": "chapters/12-procurement-operativo-ufficio-comunale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "13",
+      "file": "chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL01",
+      "chapter": "14",
+      "file": "chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "payload": {
+        "ok": false,
+        "command": "gate",
+        "step": "10:moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": false,
+          "blockers": [
+            {
+              "code": "nucleo-troppo-breve",
+              "message": "Nuclei sotto 600 parole: N-FL01-14-02 (598).",
+              "location": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md"
+            }
+          ],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "01",
+      "file": "chapters/01-il-sistema-territoriale-multilivello.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "02",
+      "file": "chapters/02-statuti-organi-organizzazione-regionale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "03",
+      "file": "chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "04",
+      "file": "chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "05",
+      "file": "chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "06",
+      "file": "chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "07",
+      "file": "chapters/07-politiche-coesione-fondi-ue.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "08",
+      "file": "chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "09",
+      "file": "chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "10",
+      "file": "chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "11",
+      "file": "chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL02",
+      "chapter": "12",
+      "file": "chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "01",
+      "file": "chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "02",
+      "file": "chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "03",
+      "file": "chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "04",
+      "file": "chapters/04-servizi-polizia-stradale.md",
+      "payload": {
+        "ok": false,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": false,
+          "blockers": [
+            {
+              "code": "nucleo-troppo-breve",
+              "message": "Nuclei sotto 600 parole: N-FL04-04-02 (596).",
+              "location": "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md"
+            }
+          ],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "05",
+      "file": "chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "06",
+      "file": "chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "payload": {
+        "ok": false,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": false,
+          "blockers": [
+            {
+              "code": "nucleo-troppo-breve",
+              "message": "Nuclei sotto 600 parole: N-FL04-06-05 (598).",
+              "location": "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md"
+            }
+          ],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "07",
+      "file": "chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "08",
+      "file": "chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "09",
+      "file": "chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "10",
+      "file": "chapters/10-commercio-pubblici-esercizi-suap.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "11",
+      "file": "chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "12",
+      "file": "chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "13",
+      "file": "chapters/13-sinistri-rilievi-gestione-prova.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "14",
+      "file": "chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "payload": {
+        "ok": false,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": false,
+          "blockers": [
+            {
+              "code": "nucleo-troppo-breve",
+              "message": "Nuclei sotto 600 parole: N-FL04-14-02 (597).",
+              "location": "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md"
+            }
+          ],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL04",
+      "chapter": "15",
+      "file": "chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL03",
+      "chapter": "01",
+      "file": "chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "payload": {
+        "ok": false,
+        "command": "gate",
+        "step": "10:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": false,
+          "blockers": [
+            {
+              "code": "nucleo-troppo-breve",
+              "message": "Nuclei sotto 600 parole: N-FL03-01-02 (598).",
+              "location": "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md"
+            }
+          ],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL03",
+      "chapter": "02",
+      "file": "chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL03",
+      "chapter": "03",
+      "file": "chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "payload": {
+        "ok": false,
+        "command": "gate",
+        "step": "10:moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": false,
+          "blockers": [
+            {
+              "code": "nucleo-troppo-breve",
+              "message": "Nuclei sotto 600 parole: N-FL03-03-01 (599).",
+              "location": "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md"
+            }
+          ],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL03",
+      "chapter": "04",
+      "file": "chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-02",
+      "module": "M-FL03",
+      "chapter": "05",
+      "file": "chapters/05-laboratorio-bando-camerale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "01",
+      "file": "chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4654/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "02",
+      "file": "chapters/02-bando-decoder-fiscale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4023/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "03",
+      "file": "chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4173/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "04",
+      "file": "chapters/04-diritto-tributario-teoria-imposta.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "05",
+      "file": "chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 5923/3000, quiz 0/6, casi 3/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "05a",
+      "file": "chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4091/3000, quiz 0/6, casi 3/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "05b",
+      "file": "chapters/05b-tutela-processo-tributario.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 5195/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "06",
+      "file": "chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 7065/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "07",
+      "file": "chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3684/3000, quiz 4/6, casi 3/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "08",
+      "file": "chapters/08-dogane-procedure-doganali-adm.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3898/3000, quiz 4/6, casi 3/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "09",
+      "file": "chapters/09-accise-giochi-monopoli.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3589/3000, quiz 4/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "10",
+      "file": "chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3508/3000, quiz 4/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "11",
+      "file": "chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3513/3000, quiz 4/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "12",
+      "file": "chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3228/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "13",
+      "file": "chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 7177/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC02",
+      "chapter": "14",
+      "file": "chapters/14-appendici-operative.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 5918/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "01",
+      "file": "chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3797/3000, quiz 1/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "02",
+      "file": "chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2653/3000, quiz 1/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "03",
+      "file": "chapters/03-profili-professionali-ccnl-mansioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2442/3000, quiz 1/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "04",
+      "file": "chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2456/3000, quiz 1/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "05",
+      "file": "chapters/05-presidenza-consiglio-ministri.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2417/3000, quiz 1/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "06",
+      "file": "chapters/06-organizzazione-interna-ministeri.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2772/3000, quiz 1/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "07",
+      "file": "chapters/07-avvocatura-stato.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3024/3000, quiz 1/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "08",
+      "file": "chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "09",
+      "file": "chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "10",
+      "file": "chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "11",
+      "file": "chapters/11-casi-pratici-ministeriali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "12",
+      "file": "chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "13",
+      "file": "chapters/13-matrice-materie-piano-30-60-90.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "14",
+      "file": "chapters/14-simulazione-finale-diario-errori.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC01",
+      "chapter": "15",
+      "file": "chapters/15-appendici-operative.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "01",
+      "file": "chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "02",
+      "file": "chapters/02-ordinamento-governance-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "03",
+      "file": "chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "04",
+      "file": "chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "05",
+      "file": "chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "06",
+      "file": "chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "07",
+      "file": "chapters/07-performance-piao-valore-pubblico-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "08",
+      "file": "chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "09",
+      "file": "chapters/09-contratti-acquisti-forniture-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "10",
+      "file": "chapters/10-bando-decoder-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "11",
+      "file": "chapters/11-casi-pratici-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "12",
+      "file": "chapters/12-quesiti-situazionali-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "13",
+      "file": "chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "14",
+      "file": "chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "15",
+      "file": "chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "16",
+      "file": "chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "17",
+      "file": "chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "18",
+      "file": "chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-03",
+      "module": "M-FC03",
+      "chapter": "19",
+      "file": "chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "01",
+      "file": "chapters/01-sistema-giustizia-visto-dal-candidato.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 01 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "02",
+      "file": "chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 02 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "03",
+      "file": "chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 03 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "04",
+      "file": "chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 04 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "05",
+      "file": "chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 05 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "06",
+      "file": "chapters/06-processo-civile-operativo-upp-cancelleria.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 06 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "07",
+      "file": "chapters/07-processo-penale-operativo-upp-cancelleria.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 07 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "08",
+      "file": "chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 08 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "09",
+      "file": "chapters/09-spese-giustizia-patrocinio-recupero.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 09 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "10",
+      "file": "chapters/10-casellario-carichi-pendenti-archivi-certificati.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 10 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "11",
+      "file": "chapters/11-unep-notificazioni-esecuzioni-protesti.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 11 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "12",
+      "file": "chapters/12-giustizia-digitale-pct-ppt-fascicolo.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 12 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "13",
+      "file": "chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 13 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "14",
+      "file": "chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 14 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "15",
+      "file": "chapters/15-appendici-strumenti-finali.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 15 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "16",
+      "file": "chapters/16-conclusione-vol-04.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 16 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-04",
+      "module": "M-FC04",
+      "chapter": "17",
+      "file": "chapters/17-fonti-riferimenti-essenziali.md",
+      "error": "Error: Step 10 del modulo M-FC04 per il capitolo 17 non presente nel run-state di VOL-04."
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "01",
+      "file": "chapters/01-authority-viste-dal-candidato.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "02",
+      "file": "chapters/02-indipendenza-governance-accountability-personale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "03",
+      "file": "chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "04",
+      "file": "chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "05",
+      "file": "chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "06",
+      "file": "chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "07",
+      "file": "chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "08",
+      "file": "chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "09",
+      "file": "chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "10",
+      "file": "chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "11",
+      "file": "chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "12",
+      "file": "chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "13",
+      "file": "chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "14",
+      "file": "chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-05",
+      "module": "M-FC05",
+      "chapter": "15",
+      "file": "chapters/15-laboratorio-prove-authority.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "01",
+      "file": "chapters/01-scuola-quattro-profili.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 1116/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "02",
+      "file": "chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2135/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "03",
+      "file": "chapters/03-organi-collegiali-governance.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2066/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "04",
+      "file": "chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 1835/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "05",
+      "file": "chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2240/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "06",
+      "file": "chapters/06-dsga-eq-ruolo-uffici-personale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2207/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "07",
+      "file": "chapters/07-contabilita-scolastica.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2200/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "08",
+      "file": "chapters/08-acquisti-inventario-pnrr.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2130/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "09",
+      "file": "chapters/09-dirigente-scolastico-leadership-management.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2181/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "10",
+      "file": "chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2008/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "11",
+      "file": "chapters/11-pedagogia-psicologia-inclusione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2205/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "12",
+      "file": "chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2062/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR01",
+      "chapter": "13",
+      "file": "chapters/13-progettazione-lezione-simulata.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 1944/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "01",
+      "file": "chapters/01-sistema-universitario-afam.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "02",
+      "file": "chapters/02-autonomia-statuti-organi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "03",
+      "file": "chapters/03-ordinamenti-didattici-qualita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "04",
+      "file": "chapters/04-carriere-studenti-diritto-studio.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "05",
+      "file": "chapters/05-atti-protocollo-accesso-digitale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "06",
+      "file": "chapters/06-bilancio-ateneo.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "07",
+      "file": "chapters/07-ricerca-grant-management.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "08",
+      "file": "chapters/08-prin-horizon-pnrr-audit.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "09",
+      "file": "chapters/09-biblioteche-cataloghi-open-access.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "10",
+      "file": "chapters/10-orientamento-placement-terza-missione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "11",
+      "file": "chapters/11-afam-ordinamento-amministrazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR02",
+      "chapter": "12",
+      "file": "chapters/12-laboratorio-quattro-profili.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "01",
+      "file": "chapters/01-epr-quattro-profili.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "02",
+      "file": "chapters/02-autonomia-statuti-governance.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "03",
+      "file": "chapters/03-profili-organizzazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "04",
+      "file": "chapters/04-amministrazione-contabilita-controlli.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "05",
+      "file": "chapters/05-compliance-audit-acquisti-missioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "06",
+      "file": "chapters/06-metodologia-progettazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "07",
+      "file": "chapters/07-pubblicazioni-valutazione-integrita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "08",
+      "file": "chapters/08-tecnologo-laboratori-infrastrutture.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "09",
+      "file": "chapters/09-proprieta-intellettuale-trasferimento.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "10",
+      "file": "chapters/10-open-science-fair-dati.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "11",
+      "file": "chapters/11-horizon-pnrr-grant-management.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR03",
+      "chapter": "12",
+      "file": "chapters/12-laboratorio-quattro-profili.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "01",
+      "file": "chapters/01-mic-quattro-profili.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "02",
+      "file": "chapters/02-organizzazione-centrale-periferica.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "03",
+      "file": "chapters/03-codice-beni-culturali-sistema-categorie.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "04",
+      "file": "chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "05",
+      "file": "chapters/05-procedimenti-vincoli-circolazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "06",
+      "file": "chapters/06-catalogazione-digitalizzazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "07",
+      "file": "chapters/07-archivistica-archivi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "08",
+      "file": "chapters/08-biblioteconomia-servizi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "09",
+      "file": "chapters/09-archeologia-tutela-territoriale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "10",
+      "file": "chapters/10-storia-arte-museologia.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "11",
+      "file": "chapters/11-restauro-conservazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "12",
+      "file": "chapters/12-architettura-paesaggio-cantieri.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-06",
+      "module": "M-IR04",
+      "chapter": "13",
+      "file": "chapters/13-fruizione-vigilanza-sicurezza.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "01",
+      "file": "chapters/01-mappa-profili-e-prove.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3563/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "03",
+      "file": "chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 5162/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "04",
+      "file": "chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 6167/3000, quiz 3/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "05",
+      "file": "chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "06",
+      "file": "chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 6199/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "07",
+      "file": "chapters/07-evidenze-pico-grade-applicabilita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 5417/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "08",
+      "file": "chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3468/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "09",
+      "file": "chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3391/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA02",
+      "chapter": "10",
+      "file": "chapters/10-prova-pratica-casi-professionali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3652/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA01",
+      "chapter": "04",
+      "file": "chapters/04-atti-procedimenti-flussi-informativi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 9466/3000, quiz 1/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA01",
+      "chapter": "05",
+      "file": "chapters/05-documentazione-accesso-conservazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 5627/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA01",
+      "chapter": "06",
+      "file": "chapters/06-front-office-comunicazione-utenza.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 5103/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA01",
+      "chapter": "09",
+      "file": "chapters/09-contabilita-budget-controllo-gestione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 7428/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA01",
+      "chapter": "10",
+      "file": "chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 6691/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA03",
+      "chapter": "01",
+      "file": "chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3559/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA03",
+      "chapter": "02",
+      "file": "chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 1478/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA03",
+      "chapter": "03",
+      "file": "chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 818/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA03",
+      "chapter": "04",
+      "file": "chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 2021/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA03",
+      "chapter": "05",
+      "file": "chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3223/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA03",
+      "chapter": "06",
+      "file": "chapters/06-dirigenza-medica-discipline-casi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 1735/3000, quiz 0/6, casi 2/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA03",
+      "chapter": "07",
+      "file": "chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3402/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA04",
+      "chapter": "01",
+      "file": "chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 3782/3000, quiz 0/6, casi 1/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA04",
+      "chapter": "02",
+      "file": "chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4197/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA04",
+      "chapter": "03",
+      "file": "chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4942/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-07",
+      "module": "M-SA04",
+      "chapter": "04",
+      "file": "chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 0/5, parole 4519/3000, quiz 0/6, casi 0/1, verifiche 0/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "01",
+      "file": "chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "02",
+      "file": "chapters/02-informatica-specialistica-oltre-vol-01.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "03",
+      "file": "chapters/03-programmazione-algoritmi-strutture-dati.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "04",
+      "file": "chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "05",
+      "file": "chapters/05-reti-sistemi-operativi-infrastrutture.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "06",
+      "file": "chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "07",
+      "file": "chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "08",
+      "file": "chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "09",
+      "file": "chapters/09-iam-crittografia-logging-incident-response.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "10",
+      "file": "chapters/10-data-governance-open-data-interoperabilita.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "11",
+      "file": "chapters/11-ai-ml-pa-rischi-compliance.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "12",
+      "file": "chapters/12-procurement-ict-gestione-fornitori.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-08",
+      "module": "M-TR01",
+      "chapter": "13",
+      "file": "chapters/13-laboratorio-prove-ict.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "01",
+      "file": "chapters/01-quattro-profili-ciclo-integrato.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "02",
+      "file": "chapters/02-governance-rup-fasi-team-qualificazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "03",
+      "file": "chapters/03-strategia-fabbisogni-programmazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "04",
+      "file": "chapters/04-progettazione-gara-documenti.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "05",
+      "file": "chapters/05-sotto-soglia-procurement-operativo.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "06",
+      "file": "chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "07",
+      "file": "chapters/07-consip-mepa-aq-sdapa-asp.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "08",
+      "file": "chapters/08-governo-esecuzione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "09",
+      "file": "chapters/09-rimedi-precontenzioso-contenzioso.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "10",
+      "file": "chapters/10-pnrr-milestone-target-regis.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "11",
+      "file": "chapters/11-gestione-finanziaria-rendicontazione-controlli.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "12",
+      "file": "chapters/12-dnsh-cam-procurement-sostenibile.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "13",
+      "file": "chapters/13-project-management-pubblico.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-09",
+      "module": "M-TR02",
+      "chapter": "14",
+      "file": "chapters/14-laboratorio-atti-casi-simulazioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "01",
+      "file": "chapters/01-concorso-tecnico-pa-profili-prove.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 5/5, parole 1958/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md"
+            },
+            {
+              "code": "squilibrio-nuclei",
+              "message": "Il nucleo più lungo (400 parole) supera tre volte il più breve (74).",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "02",
+      "file": "chapters/02-ufficio-tecnico-responsabilita-atti.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 7/5, parole 1760/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md"
+            },
+            {
+              "code": "squilibrio-nuclei",
+              "message": "Il nucleo più lungo (292 parole) supera tre volte il più breve (68).",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "03",
+      "file": "chapters/03-scienza-tecnica-costruzioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 7/5, parole 1711/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "04",
+      "file": "chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 8/5, parole 2336/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "05",
+      "file": "chapters/05-urbanistica-governo-territorio.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 8/5, parole 1529/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md"
+            },
+            {
+              "code": "squilibrio-nuclei",
+              "message": "Il nucleo più lungo (195 parole) supera tre volte il più breve (64).",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "06",
+      "file": "chapters/06-edilizia-sue-titoli-vigilanza.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 8/5, parole 2245/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md"
+            },
+            {
+              "code": "squilibrio-nuclei",
+              "message": "Il nucleo più lungo (356 parole) supera tre volte il più breve (113).",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "07",
+      "file": "chapters/07-progettazione-opere-pubbliche.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 7/5, parole 2317/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "08",
+      "file": "chapters/08-direzione-lavori-esecuzione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 7/5, parole 2154/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md"
+            },
+            {
+              "code": "squilibrio-nuclei",
+              "message": "Il nucleo più lungo (332 parole) supera tre volte il più breve (65).",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "09",
+      "file": "chapters/09-collaudo-verifica-manutenzione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 6/5, parole 2104/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "10",
+      "file": "chapters/10-computi-capitolati-contabilita-lavori.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 5/5, parole 1766/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "11",
+      "file": "chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 6/5, parole 2029/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "12",
+      "file": "chapters/12-bim-gis-catasto-patrimonio.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 6/5, parole 1624/3000, quiz 0/6, casi 1/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-10",
+      "module": "M-TR03",
+      "chapter": "13",
+      "file": "chapters/13-laboratorio-prove-tecniche.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": [
+            {
+              "code": "retrofit-dovuto",
+              "message": "Capitolo legacy (format_version 1): nuclei 8/5, parole 2295/3000, quiz 0/6, casi 0/1, verifiche 1/1. Nessun deficit blocca finché non passa al formato 2.",
+              "location": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "01",
+      "file": "chapters/01-quattro-profili-mappa-sistema.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "02",
+      "file": "chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "03",
+      "file": "chapters/03-via-vas-valutazioni-ambientali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "04",
+      "file": "chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "05",
+      "file": "chapters/05-acque-scarichi-servizio-idrico.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "06",
+      "file": "chapters/06-rifiuti-economia-circolare-rentri.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "07",
+      "file": "chapters/07-bonifiche-siti-contaminati-danno.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "08",
+      "file": "chapters/08-aria-rumore-monitoraggio-dati.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "09",
+      "file": "chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "10",
+      "file": "chapters/10-sistema-protezione-civile-pianificazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "11",
+      "file": "chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "12",
+      "file": "chapters/12-clima-energia-rinnovabili-cer.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "13",
+      "file": "chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-11",
+      "module": "M-TR04",
+      "chapter": "14",
+      "file": "chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "01",
+      "file": "chapters/01-mappa-famiglia-struttura-selezione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "02",
+      "file": "chapters/02-posizione-prima-domanda.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "03",
+      "file": "chapters/03-formati-prova-scritta.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "04",
+      "file": "chapters/04-accertamenti-preparazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "05",
+      "file": "chapters/05-prova-orale-titoli-lingua.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "06",
+      "file": "chapters/06-materie-riuso-specialistiche.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "07",
+      "file": "chapters/07-bando-decoder.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "08",
+      "file": "chapters/08-piano-30-60-90-doppio-binario.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "09",
+      "file": "chapters/09-errori-casi-guidati.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP01",
+      "chapter": "10",
+      "file": "chapters/10-checklist-finale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP02",
+      "chapter": "01",
+      "file": "chapters/01-mappa-della-famiglia.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP02",
+      "chapter": "02",
+      "file": "chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP02",
+      "chapter": "03",
+      "file": "chapters/03-la-preselezione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP02",
+      "chapter": "04",
+      "file": "chapters/04-tre-prove-motorio-attitudinali.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP02",
+      "chapter": "05",
+      "file": "chapters/05-prove-direttive-e-specializzazione.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP02",
+      "chapter": "06",
+      "file": "chapters/06-riuso-e-bando-decoder.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP02",
+      "chapter": "07",
+      "file": "chapters/07-piano-30-60-90.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP02",
+      "chapter": "08",
+      "file": "chapters/08-errori-casi-checklist.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP03",
+      "chapter": "01",
+      "file": "chapters/01-mappa-scelta-binario.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP03",
+      "chapter": "02",
+      "file": "chapters/02-magistratura-prove-ordinamento.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP03",
+      "chapter": "03",
+      "file": "chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP03",
+      "chapter": "04",
+      "file": "chapters/04-notariato-prove-ordinamento.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP03",
+      "chapter": "05",
+      "file": "chapters/05-metodo-prove-scritte.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP03",
+      "chapter": "06",
+      "file": "chapters/06-piano-pluriennale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP03",
+      "chapter": "07",
+      "file": "chapters/07-errori-casi-checklist.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP04",
+      "chapter": "01",
+      "file": "chapters/01-mappa-scelta-bando-decoder.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP04",
+      "chapter": "02",
+      "file": "chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP04",
+      "chapter": "03",
+      "file": "chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP04",
+      "chapter": "04",
+      "file": "chapters/04-le-lingue-straniere.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP04",
+      "chapter": "05",
+      "file": "chapters/05-prova-orale-postura-professionale.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP04",
+      "chapter": "06",
+      "file": "chapters/06-piano-preparazione-tentativi.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    },
+    {
+      "volume": "VOL-12",
+      "module": "M-SP04",
+      "chapter": "07",
+      "file": "chapters/07-errori-casi-checklist.md",
+      "payload": {
+        "ok": true,
+        "command": "gate",
+        "step": "10:moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+        "gate": "didactic-density",
+        "result": {
+          "passed": true,
+          "blockers": [],
+          "warnings": []
+        }
+      }
+    }
+  ]
+}

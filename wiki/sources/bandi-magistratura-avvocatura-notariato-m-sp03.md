@@ -8,10 +8,10 @@ topics: ["carriere-speciali", "magistratura", "avvocatura dello Stato", "notaria
 entities: ["Ministero della Giustizia", "Avvocatura dello Stato", "Consiglio Superiore della Magistratura"]
 book_refs: ["m-sp03-magistratura-avvocatura-notariato", "vol-12-carriere-speciali-premium"]
 cut_off_date: 2026-08-10
-checked_at: 2026-08-13
+checked_at: 2026-10-03
 confidence: 0.95
 authority_level: alta
-updated_at: 2026-08-13T00:00:00+02:00
+updated_at: 2026-10-03
 review_required: true
 canonical: true
 tags: ["source", "vol-12", "m-sp03", "bandi", "step-05"]
@@ -46,13 +46,13 @@ Contenuto del decreto letto sulla [pagina ufficiale del provvedimento](https://w
 
 **Prova orale, dal testo:** diritto civile, procedura civile e penale, diritto amministrativo, costituzionale e tributario, diritto commerciale, diritto del lavoro, diritto comunitario e internazionale, informatica giuridica, ordinamento giudiziario, e **colloquio in una lingua straniera** a scelta fra inglese, francese, spagnolo e tedesco.
 
-**Punteggi, dal testo:** non meno di **12/20 in ciascuna materia della prova scritta** per l'ammissione all'orale; non meno di **6/10 in ciascuna materia della prova orale** e votazione complessiva non inferiore a **108 punti** per l'idoneità.
+**Punteggi, dal testo:** non meno di **12/20 in ciascuna materia della prova scritta** per l'ammissione all'orale; non meno di **6/10 nelle materie orali valutate numericamente**, giudizio di sufficienza nel colloquio di lingua straniera e votazione complessiva nelle due prove non inferiore a **108 punti**; frazioni non ammesse. Art. 8, PDF p. 10, riletto il 3 ottobre 2026.
 
 > **Nota di cautela sui titoli di accesso.** Il testo del bando enumera fra i soggetti ammessi sia i «laureati in possesso del diploma di laurea in giurisprudenza conseguito al termine di un corso universitario di durata non inferiore a quattro anni», sia le categorie storiche — magistrati amministrativi, procuratori dello Stato, dipendenti statali laureati, docenti universitari, avvocati abilitati, magistrati onorari con almeno sei anni di servizio senza demerito.
 >
 > Ciò che è **certo e utilizzabile** è che il laureato in giurisprudenza è ammesso senza ulteriori titoli. Se le altre categorie siano tuttora enumerate come vie autonome o siano un residuo redazionale del bando **non è stato accertato**, e la questione non va risolta per deduzione: richiede la lettura dell'art. 2 del d.lgs. 160/2006 nella versione vigente, comma per comma.
 
-*DA VERIFICARE (fonte secondaria):* pubblicazione del bando in G.U. Concorsi ed esami n. 83 del 24 ottobre 2025; scadenza domande 24 novembre 2025.
+Pubblicazione e termine della domanda sono riscontrati sul bando ufficiale locale: G.U. Concorsi n. 83 del 24 ottobre 2025; scadenza 24 novembre 2025. Il diario successivo non è usato per decidere la domanda nel novembre 2025.
 
 ### ✅ Risolta — i titoli di accesso alla magistratura
 
@@ -112,7 +112,7 @@ Bando ufficiale acquisito e **letto sull'articolato**: `wiki/raw/m-sp03-magistra
 
 Ordinamento richiamato dal bando: legge 23 novembre 1966, n. 1035, «Modificazioni alle norme sull'ordinamento dell'Avvocatura dello Stato».
 
-> **Il limite di età è il fatto decisivo del binario B.** Trentacinque anni non compiuti. Né la magistratura né il notariato prevedono un limite anagrafico di questo tipo. Chi valuta l'Avvocatura dello Stato deve sapere che la finestra è chiusa in una data certa, e che con 7 posti il margine di tentativi utili è strettissimo. Va nel capitolo «Scegliere il binario», accanto ai numeri.
+> **Il limite di età è il fatto decisivo del binario B.** Formula del bando: non aver superato il trentacinquesimo anno, alla scadenza. D.P.C.M. 141/2000, art. 1, modificato nel 2011: trentacinque. Computo ed eventuali elevazioni vanno tenuti distinti; vedere il riscontro sotto. Né la magistratura né il notariato prevedono un limite anagrafico di questo tipo. Chi valuta l'Avvocatura dello Stato deve sapere che la finestra è chiusa in una data certa, e che con 7 posti il margine di tentativi utili è strettissimo. Va nel capitolo «Scegliere il binario», accanto ai numeri.
 
 ## Binario C — Notariato
 
@@ -140,7 +140,7 @@ Contenuto del decreto letto sulla [pagina ufficiale del provvedimento](https://w
 
 **Requisiti, dal testo:** quelli stabiliti dall'**articolo 5, numeri da 1 a 5, della legge 16 febbraio 1913, n. 89**. Il rinvio è diretto all'ordinamento del notariato. Il numero 5, nel testo risultante dall'art. 1 del d.lgs. 24 aprile 2006, n. 166, richiede l'iscrizione nel registro dei praticanti e **diciotto mesi di pratica notarile**, di cui almeno un anno continuativamente dopo la laurea. Il periodo anteriore alla laurea è computabile per non più di sei mesi; la pratica deve essere completata entro trenta mesi dall'iscrizione. Per chi sia stato funzionario dell'ordine giudiziario per almeno un anno o avvocato in esercizio da almeno un anno, il periodo è ridotto a otto mesi continuativi.
 
-**Limite ai tentativi, dal testo:** non essere stati dichiarati non idonei in **cinque precedenti concorsi** per notaio banditi dopo il 2009. L'espulsione durante le prove scritte e l'annullamento di una prova **equivalgono a inidoneità** e contano nel computo.
+**Limite ai tentativi, dal testo:** non essere stati dichiarati non idonei in **cinque precedenti concorsi** per notaio banditi dopo l’entrata in vigore della legge 69/2009, conteggiati alla pubblicazione del bando. L’espulsione dopo la dettatura del tema durante le prove scritte e l'annullamento di una prova **equivalgono a inidoneità** e contano nel computo.
 
 **Prove scritte, dal testo:** tre elaborati teorico-pratici distinti —
 
@@ -173,7 +173,7 @@ La regola corretta per il capitolo è quindi: **pratica compiuta entro la scaden
 
 > **Limite del file locale.** Il PDF `legge-89-1913-ordinamento-notariato.pdf` è stato riletto il 2026-08-13: le prime due pagine riportano «PAGINA MANCANTE» e il testo riprende dall'art. 9, perciò il file non contiene materialmente l'art. 5 e non può provarne la versione vigente. Il dato sui diciotto mesi è stato riscontrato sull'art. 1 del d.lgs. 166/2006 e sulla riproduzione ufficiale dell'art. 5 aggiornata in Normattiva; i tempi dichiarativi e documentali derivano dagli artt. 3 e 11 del bando ufficiale locale.
 
-> **Il notariato ha due vincoli che nessun altro binario del volume presenta.** Un tetto di **cinque inidoneità** dal 2009 in poi, e prove che richiedono di **redigere un atto**, non di scrivere un tema. La seconda è una competenza tecnica diversa, che si acquisisce nello studio notarile e non sui manuali: è ciò che rende la compiuta pratica un prerequisito sostanziale e non formale.
+> **Il notariato combina pratica, limiti sugli esiti e redazione tecnica dell’atto.** Il limite specifico è cinque precedenti non idoneità alle condizioni del bando. Anche magistratura e procuratura prevedono limiti propri: rispettivamente quattro e due, senza equiparare domande ed esiti. La competenza redazionale richiede esercizio e correzione degli atti.
 
 ---
 
@@ -187,7 +187,7 @@ La regola corretta per il capitolo è quindi: **pratica compiuta entro la scaden
 | Notariato | 400 |
 | Avvocatura dello Stato | **7** |
 
-Il binario B è di due ordini di grandezza più piccolo degli altri due. Non è una variante della stessa scelta: è una scelta di natura diversa. Va detto al lettore nel capitolo «Scegliere il binario», con i numeri.
+Il binario B ha circa un sessantaquattresimo dei posti del campione magistratura e un cinquantasettesimo di quello notarile. Non è una variante della stessa scelta: è una scelta di natura diversa. Va detto al lettore nel capitolo «Scegliere il binario», con i numeri.
 
 ### 2. Il notariato ha un prerequisito che gli altri non hanno
 
@@ -195,9 +195,9 @@ La **compiuta pratica notarile** va completata **entro il termine di presentazio
 
 Il capitolo «Scegliere il binario» deve collocare questo vincolo **prima** di ogni considerazione sulle materie: è la barriera che decide se il binario è praticabile.
 
-### 3. Le date rendono i binari mutuamente esclusivi nello stesso anno
+### 3. Date ravvicinate e sostenibilità personale
 
-Nel 2026 le prove scritte del notariato si sono tenute il 17-19 giugno e quelle della magistratura il 24-26 giugno, **nella stessa sede**, la Fiera di Roma, a una settimana di distanza. Con prove da otto ore su tre giorni ciascuna, sostenerle entrambe nella stessa tornata non è una strategia: è una scelta che compromette entrambe.
+Nel 2026 le prove scritte del notariato si sono tenute il 17-19 giugno e quelle della magistratura il 24-26 giugno, **nella stessa sede**, la Fiera di Roma, a una settimana di distanza. Con prove da otto ore su tre giorni ciascuna, sostenerle entrambe richiede una verifica concreta di preparazione, recupero e logistica. Non sono date coincidenti e non ne deriva un divieto né una compromissione inevitabile.
 
 Il modulo deve dirlo esplicitamente. È esattamente il tipo di informazione che un lettore ricava solo da chi ha guardato i calendari, e che nessun manuale di materia contiene.
 
@@ -253,8 +253,52 @@ Il limite per la magistratura ordinaria è inoltre accertato sul bando: non è a
 
 - [x] tre bandi ufficiali acquisiti e letti: magistratura 450, Avvocatura 7, notariato 400;
 - [x] struttura, durata, soglie e disciplina dei testi riscontrate sugli atti;
-- [x] limiti ai tentativi riscontrati: quattro inidoneità per magistratura, cinque per notariato; per Avvocatura il vincolo caratterizzante della tornata è il limite anagrafico del bando;
+- [x] limiti ai tentativi riscontrati: quattro inidoneità per magistratura, cinque per notariato; per Avvocatura due precedenti non idoneità, oltre al limite anagrafico del bando;
 - [x] L. 89/1913, art. 5, verificata sul testo ufficiale aggiornato; il PDF G.U. locale è acquisito ma incompleto proprio nelle pagine iniziali che contenevano l'articolo;
 - [x] d.lgs. 160/2006, art. 2, e art. 33 d.l. 144/2022 letti in coordinamento;
 - [x] L. 1035/1966 acquisita; art. 1 verificato nel perimetro effettivamente usato, altri articoli schedati e non trasferiti nel capitolo; r.d. 1860/1925 acquisito e schedato per le disposizioni pertinenti;
 - [x] facoltà informatica distinta dalla sua applicazione concreta: non esercitata per la tornata dei 450 posti secondo bando e diario ufficiale.
+
+
+## Riscontri e correzioni del 3 ottobre 2026
+
+### Accesso e valutazione
+
+- Magistratura 450: art. 8 del bando, PDF locale p. 10, letto nel testo integrale del passaggio. Scritti: 12/20 ciascuno. Orale: 6/10 per materia valutata numericamente, lingua con giudizio di sufficienza. Totale delle due prove almeno 108, senza frazioni. Il totale non compensa una singola insufficienza. Bando art. 7 già indica finestra 22–26 giugno; diario 24 febbraio pubblicato 10 marzo 2026 distingue identificazione e tre scritti. Una scelta di domanda a novembre 2025 non può usare dettagli pubblicati dopo.
+- Avvocatura 7: D.A.G. 114/2025, pp. 3–7 rilette, artt. 2–5. Requisiti alla scadenza; domanda digitale e ultima inviata valida; diritto di segreteria 15 euro. **Art. 4: non ammessi coloro che per due volte non abbiano conseguito l’idoneità in precedenti esami di concorso a procuratore dello Stato.** Non descrivere il percorso come privo di limiti ai tentativi. Il conteggio riguarda l’esito giuridico degli esami, non il solo invio della domanda.
+- Notariato 400: artt. 2–4 letti nel PDF locale pp. 7–8. Requisiti sostanziali alla scadenza; limite delle cinque non idoneità valutato alla pubblicazione del bando e riferito ai concorsi successivi all’entrata in vigore della L. 69/2009. Espulsione dopo dettatura e annullamento equivalenti. Pratica entro termine utile, dichiarazione con periodo e Consiglio; certificato nella successiva fase dell’art. 11. I casi su durata della pratica e cinque inidoneità devono avere cronologie separate e possibili.
+
+### Età per procuratore dello Stato
+
+[D.P.C.M. 141/2000, art. 1 vigente](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=000G0191&atto.dataPubblicazioneGazzetta=2000-06-05&tipoDettaglio=multivigenza): testo corrente letto e acquisito in `wiki/raw/correzioni-collana-2026-10-02/dpcm141-2000-art1-20261003.html`. Dal 15 ottobre 2011 il limite è trentacinque, non i quaranta del testo originario. Il bando 2025 richiama il regolamento, non ricava il limite dal solo art. 1 della L. 1035/1966.
+
+La [rassegna ufficiale di Giustizia amministrativa relativa all’ordinanza 8154/2019](https://www.giustizia-amministrativa.it/documents/20142/371980/Cons-St-sez-IV-ord-28-11-2019-n8154-2.pdf/2675497f-f33a-a0e2-1232-b29b3c6c7aa4), p. 5, lettera j, riporta l’indirizzo derivante da Adunanza plenaria 21/2011: superamento dal giorno successivo al compleanno, senza estendere il limite fino al compleanno seguente in ragione della sola formulazione. Non inferire un anno in più da “non superato”. Esempio senza benefici e con scadenza 12 agosto: compleanno il 12 rientra nel giorno limite; compleanno l’11 comporta superamento alla scadenza. La stessa rassegna, lettera i, tratta elevazione per effettivo servizio militare fino a tre anni, con rinvio all’art. 2049 D.Lgs. 66/2010. Non attribuire tre anni automatici a tutti né trasferire benefici di altre carriere. I casi del libro dichiarano assenza di elevazioni; una posizione individuale con beneficio richiede verifica della norma applicabile e della documentazione.
+
+Acquisita inoltre la sentenza TAR Lazio I, 15 giugno 2026, n. 11045, sul bando 2025: [originale ufficiale](https://mdp.giustizia-amministrativa.it/visualizza/?nodeRef=&schema=tar_rm&nrg=202509114&nomeFile=202611045_01.html&subDir=Provvedimenti), raw `tar-lazio-11045-2026.html`. Letta integralmente: improcedibilità per sopravvenuta carenza di interesse dopo mancata consegna degli elaborati; **non è annullamento generale del limite né decisione di merito sul suo computo**. Il libro non attribuisce alla cautelare un diritto generalizzato.
+
+### Confini della funzione
+
+La magistratura ordinaria esercita giurisdizione civile e penale; lo studio del diritto amministrativo nel concorso non significa che il giudice ordinario abbia la generale giurisdizione del giudice amministrativo. Restano le attribuzioni e le questioni incidentali previste dalla legge. I giudici amministrativi come percorso professionale sono fuori perimetro. I calendari ravvicinati misurano un carico, non un’incompatibilità giuridica.
+
+Questi riscontri prevalgono sulle formulazioni storiche incompatibili della nota; il materiale non riesaminato resta tale. L’acquisizione HTML art. 2049 interrotta per reset di rete non è usata come testo completo.
+
+
+### Riscontro notariato del 3 ottobre 2026
+
+Riletti integralmente gli artt. 2–14 nel PDF GU locale `notariato-bando-400-posti.pdf`, pagine PDF 7–11 (stampate 1–5). L’art. 2 distingue requisiti entro il termine della domanda e cinque precedenti non idoneità alla pubblicazione. L’espulsione conta dopo la dettatura del tema. Gli artt. 10–11 separano pratica sostanziale, certificato dopo l’orale e documentazione successiva. Art. 8: minimi 35, totale 210/300 e incremento di due punti per precedente idoneità alle condizioni previste.
+
+La [scheda ministeriale SCE1485302](https://www.giustizia.it/giustizia/it/mg_1_6_1.page?contentId=SCE1485302), nuovamente acquisita tramite ricerca ufficiale il 3 ottobre 2026, conferma finestra telematica 30 dicembre 2025 ore 12.00–30 gennaio 2026 ore 12.00. Il dato operativo è attribuito alla scheda e non ricavato con un computo autonomo dei trenta giorni. Gli aggiornamenti della correzione pubblicati in ottobre non sono usati per previsioni di esito o probabilità individuali.
+
+
+### Fonti dei casi svolti SP03/05
+
+Il 3 ottobre 2026 sono stati acquisiti da Normattiva con sessione persistente gli articoli del Codice civile 1337, 1338, 1022, 588, 536, 602 e 603, tramite i link della struttura dell’atto (flagTipoArticolo=2). Testi completi in `wiki/raw/correzioni-collana-2026-10-02/cc-artNNNN-testo-20261003.html`; i file senza suffisso `testo` contengono la navigazione generale e non sono prova dell’articolo. Le risposte di errore iniziali sono state sostituite dai testi validi, letti per intero. Art. 536 nella versione dal 7 febbraio 2014; gli altri articoli usati risultano nel testo dal 19 aprile 1942.
+
+Acquisito e letto anche l’art. 5 del [d.lgs. 36/2023 su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art5!vig=), quattro commi, raw `dlgs36-art5-20261003.html`. Il caso Alfa/Beta è originale e ipotetico, collocato nel 2026: non trasferisce indiscriminatamente il codice attuale a procedure pregresse. Gli importi sono dati didattici; non sono statistiche, liquidazioni giudiziali né tariffe. La clausola testamentaria è limitata alla parte dispositiva, con condizioni esplicite e richiamo alle formalità del testamento pubblico. Non si presenta come atto completo utilizzabile da un privato.
+
+
+### Fonte del caso processuale SP03/07
+
+Controllato il termine ordinario degli artt. 29 e 41 c.p.a. sulla [scheda ufficiale Giustizia amministrativa “Effetto conformativo del giudicato ultradecennale”](https://www.giustizia-amministrativa.it/de/-/effetto-conformativo-del-giudicato-ultradecennale?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_M2jdZL26fejg_viewSingleAsset=true), consultata il 3 ottobre 2026, e sulla rassegna ufficiale n. 12 del 30 marzo 2020 che la riporta. Il caso didattico assume rito ordinario, piena conoscenza documentata e nessun fatto sospensivo o modificativo. Non generalizza sessanta giorni a riti speciali o azioni diverse. I giorni 40/70, il titolo X e le condizioni del bando sono ipotesi originali, non dati di un contenzioso reale.
+
+Raccordo editoriale: [[topics/m-sp03-carriere-giuridiche-prove]], [[entities/ministero-della-giustizia]], [[books/moduli/m-sp03-magistratura-avvocatura-notariato/index]].

@@ -2,7 +2,7 @@
 id: source-processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18
 type: source
 title: "Processo tributario - Testo unico D.Lgs. 175/2024 applicabile dal 2026"
-status: consolidated
+status: superseded
 domain: "concorsi pubblici italiani"
 topics: ["processo tributario", "giustizia tributaria", "ricorso tributario", "tutela cautelare"]
 entities: ["Corti di giustizia tributaria", "Agenzia delle Entrate", "Agenzia delle Dogane e dei Monopoli", "Normattiva"]
@@ -12,7 +12,7 @@ confidence: 0.86
 updated_at: 2026-07-18T00:00:00+02:00
 created_at: 2026-07-18T00:00:00+02:00
 review_required: true
-canonical: true
+canonical: false
 tags: ["source", "official-source", "processo-tributario", "testo-unico-175-2024", "module-code-m-fc02", "cutoff-2026-07-18"]
 source_type: official_legal_corpus
 source_url: "mixed:https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-14;175|https://www.gazzettaufficiale.it/eli/id/2025/12/19/25G00202/SG"
@@ -28,6 +28,10 @@ raw_refs:
 ---
 
 # Processo tributario - Testo unico D.Lgs. 175/2024 applicabile dal 2026
+
+## Rettifica del 3 ottobre 2026
+
+**Le conclusioni originarie sul calendario e sulla sostituzione del D.Lgs. 546/1992 sono errate e superate.** Il TU 175 si applica dal 1° gennaio 2027, per effetto del D.L. 200/2025 convertito dalla legge 26/2026. Per il 2026 usare D.Lgs. 545 e 546 del 1992 e la nuova nota [[sources/processo-tributario-regime-2026-rettifica-2026-10-03]]. Il testo sottostante documenta lo stato precedente e non è una fonte valida per la decorrenza.
 
 ## Fonte applicabile e calendario
 

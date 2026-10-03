@@ -16,6 +16,10 @@ Input eseguibile della pipeline editoriale per il volume VOL-07. Il protocollo d
 
 Le fasi A e B sono concluse. La scheda dichiara ora l'intero perimetro editoriale di 25 capitoli e le fasi A-F. La fase C deve essere completata per tutti i target prima della revisione trasversale; lo step 15 esegue l'audit specialistico automatico e la sola conferma umana resta allo step 24.
 
+## Revisione circoscritta del 2 ottobre 2026
+
+Integrati M-SA01 cap.04/09 con fonti nazionali verificate per i claim attivati al 2 ottobre. Il cut-off generale del volume resta quello storico: non si dichiara una nuova verifica integrale degli altri moduli. Escluse Campania/ASL Caserta e cultura generale. Riaperti tramite CLI gli step14–23 pertinenti; report14/15 e nuovo manifest16 documentano il delta. La deroga al modello di scrittura è stata autorizzata dall'utente per questa sessione, senza cambiare la regola permanente.
+
 ## Moduli
 
 | Codice | Module id | Priorita | Fasi |
@@ -45,7 +49,7 @@ Il capitolo tecnico 02 non viene dichiarato perché il nucleo comune del Metodo 
 
 | # | Titolo | File | Matrice | Stato atteso | Note |
 | --- | --- | --- | --- | --- | --- |
-| 04 | Atti, procedimenti e flussi informativi nelle aziende sanitarie | chapters/04-atti-procedimenti-flussi-informativi.md | planning/02-matrice-copertura-didattica.md | completo | Atti e procedimenti aziendali; flussi informativi sanitari |
+| 04 | SSN, aziende sanitarie, atti e flussi informativi | chapters/04-atti-procedimenti-flussi-informativi.md | planning/02-matrice-copertura-didattica.md | completo | Atti e procedimenti aziendali; flussi informativi sanitari |
 | 05 | Documentazione sanitaria, accesso, privacy e conservazione | chapters/05-documentazione-accesso-conservazione.md | planning/02-matrice-copertura-didattica.md | completo | Documentazione sanitaria, accesso, privacy, FSE, dossier e conservazione |
 | 06 | Front office e comunicazione con l'utenza | chapters/06-front-office-comunicazione-utenza.md | planning/02-matrice-copertura-didattica.md | completo | Front office, comunicazione, reclami, accessibilità e riservatezza |
 | 09 | Contabilità, budget e controllo di gestione | chapters/09-contabilita-budget-controllo-gestione.md | planning/02-matrice-copertura-didattica.md | completo | Contabilità economico-patrimoniale, budget e controllo di gestione |

@@ -1,0 +1,633 @@
+{
+  "volume": "VOL-11",
+  "module": "M-TR04",
+  "date": "2026-10-03",
+  "textVerified": true,
+  "finalVerified": false,
+  "readingCheckpoint": "artifacts/correzioni-collana-2026-10-02/VOL-11-reading-checkpoint.json",
+  "findings": [
+    {
+      "id": "V11-01",
+      "position": "Cap. 1, r. 58",
+      "category": "Ripetizioni",
+      "severity": "grave",
+      "diagnosis": "«Un ultimo controllo»: Lo stesso blocco di cinque paragrafi ricorre cinque volte: righe 58–65, 84–91, 118–125, 153–160 e 171–178. Gonfia il capitolo senza aggiungere apprendimento.",
+      "correction": "Eliminate quattro ripetizioni integrali e sostituite con prove differenziate, lettura delle fonti e casi quantitativi.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-02",
+      "position": "Cap. 1, r. 162",
+      "category": "Precisione",
+      "severity": "medio",
+      "diagnosis": "«SNPA»: SNPA è presentato come coordinatore distinto dal sistema che invece comprende ISPRA e le agenzie.",
+      "correction": "SNPA descritto come sistema; coordinamento tecnico attribuito a ISPRA.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-03",
+      "position": "Cap. 1, r. 206",
+      "category": "Apparati",
+      "severity": "grave",
+      "diagnosis": "«30/60/90»: Il piano è un unico percorso di 90 giorni, senza alternative complete per 30 e 60 giorni né quattro adattamenti professionali.",
+      "correction": "Tre calendari alternativi, carichi orari, pesi per AMB/PC/EN/LOC, prove e recupero; toolkit cartaceo.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-04",
+      "position": "Cap. 2, r. 63",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«D.Lgs. 152»: La mappa del decreto omette parti e principi generali; mancano il quadro costituzionale delle competenze, la legge istitutiva del SNPA e lo sviluppo dei LEPTA.",
+      "correction": "Costituzione 117–118, parti del decreto e principi 3-bis–3-sexies, L. 132, LEPTA.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-05",
+      "position": "Cap. 2, r. 88",
+      "category": "Didattica",
+      "severity": "medio",
+      "diagnosis": "«competenza»: I passaggi metodologici si ripetono anche alle righe 232–235; i due mini-esercizi alle righe 172 e 204 non hanno una soluzione completa.",
+      "correction": "Ripetizioni ridotte e due mini-esercizi risolti con competenza e motivazione.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-06",
+      "position": "Cap. 3, r. 118",
+      "category": "Precisione",
+      "severity": "grave",
+      "diagnosis": "«verifica preliminare»: La verifica preliminare e lo screening VIA sono accostati con terminologia ambigua; la verifica di assoggettabilità a VAS non viene insegnata.",
+      "correction": "Tre iter distinti: art. 6 comma 9, screening 19 e screening VAS, art. 12; presupposti e termini.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-07",
+      "position": "Cap. 3, r. 224",
+      "category": "Esercizi",
+      "severity": "grave",
+      "diagnosis": "«opera»: Il mini-esercizio può indurre a ricavare automaticamente la VIA dalla sola presenza di un’opera in un sito; mancano i fatti che determinano l’assoggettamento.",
+      "correction": "Mini-esercizi precisano allegato e fatti; nessuna VIA ricavata dalla sola parola opera.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-08",
+      "position": "Cap. 3, r. 98",
+      "category": "Normativa",
+      "severity": "medio",
+      "diagnosis": "«può esprimere»: Il nuovo art. 25, comma 7-ter, è realmente presente nel quadro 2026; il testo lo parafrasa come facoltà, mentre la disposizione usa esprime, al ricorrere dei suoi presupposti.",
+      "correction": "Ripristinato esprime, conservando condizioni e richiesta del proponente.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-09",
+      "position": "Cap. 3, r. 46",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«VIA e VAS»: Mancano uno sviluppo della VIncA, il raccordo con Natura 2000, PAUR e provvedimento unico, riparto delle competenze e principali sequenze temporali.",
+      "correction": "VIncA, Natura 2000, competenze, PUA/PAUR e sequenze temporali datate.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-10",
+      "position": "Cap. 4, r. 110",
+      "category": "Normativa",
+      "severity": "medio",
+      "diagnosis": "«elenco tassativo»: L’elenco dei sette atti AUA è presentato come chiuso, senza la facoltà regionale di individuare ulteriori atti. La stessa semplificazione è nella source note.",
+      "correction": "Art. 3 AUA corrente, voci aggiunte e facoltà regionale del comma 2; rettificata anche source precedente.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-11",
+      "position": "Cap. 4, r. 108",
+      "category": "Precisione",
+      "severity": "medio",
+      "diagnosis": "«adotta o trasmette»: Il ruolo del SUAP non è distinto con sufficiente precisione dall’adozione dell’AUA da parte dell’autorità competente.",
+      "correction": "Autorità adotta e SUAP rilascia; sequenza distinta.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-12",
+      "position": "Cap. 4, r. 95",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«termini»: Durata, rinnovo e passaggi dell’AUA, riesame AIA, allegati e regimi delle emissioni sono evitati anziché insegnati. La cautela sui dati mancanti della traccia si estende alle norme da conoscere.",
+      "correction": "AUA 15 anni/rinnovo 6 mesi; AIA 10/12/16 anni e BAT entro 4 anni; emissioni 269/272; IED schema AG 420 distinto dal diritto vigente.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-13",
+      "position": "Cap. 5, r. 148",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«quattro anni»: La durata ordinaria dello scarico è indicata, ma manca il termine per il rinnovo e il raccordo con il regime AUA; poco sviluppati divieti di scarico sul suolo/sottosuolo e pianificazione delle acque.",
+      "correction": "Rinnovo 124 un anno, AUA sei mesi; suolo/sottosuolo 103/104, piani 117/121 e sei anni.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-14",
+      "position": "Cap. 5, r. 215",
+      "category": "Aggiornamento",
+      "severity": "medio",
+      "diagnosis": "«indicatori»: L’elenco della qualità tecnica del servizio idrico resta ai sei indicatori M1–M6 e omette M0, resilienza idrica, già incluso nella RQTI.",
+      "correction": "M0, M0 a/b e distinzione macroindicatori/indicatori semplici RQTI.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-15",
+      "position": "Cap. 5, r. 168",
+      "category": "Esempi",
+      "severity": "grave",
+      "diagnosis": "«campionamento»: Il metodo resta descrittivo: nessun confronto numerico svolto fra analisi, limite pertinente, periodo e condizioni di campionamento.",
+      "correction": "Caso SST 240 contro 200, metodo, titolo e campionamento dichiarati; 20% e limiti dell’incertezza.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-16",
+      "position": "Cap. 5, r. 207",
+      "category": "Refusi",
+      "severity": "lieve",
+      "diagnosis": "«program­ma»: È presente un carattere di sillabazione invisibile nella parola programma.",
+      "correction": "Rimosso carattere di sillabazione invisibile.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-17",
+      "position": "Cap. 6, r. 127",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«RENTRI»: L’aggiornamento delle date è utile, ma non viene insegnato chi è obbligato o escluso dopo la legge n. 199/2025; restano generici termini del registro e responsabilità documentale.",
+      "correction": "Soggetti/esclusioni 188-bis, termini 190, FIR e registro compilati, digitale dal 16 settembre.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-18",
+      "position": "Cap. 6, r. 68",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«codice EER»: Classificazione, caratteristiche HP, end of waste, autorizzazioni degli impianti e Albo sono trattati senza un codice concreto o un percorso completo di qualificazione.",
+      "correction": "Codici 150101/150110*, specchio 170503*/170504, HP, end of waste e titoli 208/212/214/216.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-19",
+      "position": "Cap. 7, r. 61",
+      "category": "Precisione",
+      "severity": "medio",
+      "diagnosis": "«inferiori»: La definizione di sito non contaminato esclude letteralmente l’uguaglianza alle CSC o CSR, mentre altre parti del capitolo usano correttamente uguale o inferiore. La stessa semplificazione ricorre nella source note.",
+      "correction": "Diagnosi originaria precisata: inferiore è testo letterale art. 240; chiarita l’uguaglianza nei passaggi applicativi e casi CSC/CSR.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-20",
+      "position": "Cap. 7, r. 225",
+      "category": "Precisione",
+      "severity": "medio",
+      "diagnosis": "«altrove»: La riparazione complementare è descritta solo come intervento altrove; può interessare anche il sito danneggiato.",
+      "correction": "Complementare sul sito o, se opportuno, altrove, distinta dalla compensativa.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-21",
+      "position": "Cap. 7, r. 145",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«procedimento»: Dopo i primi adempimenti, termini e competenze del procedimento restano incompleti; l’intervento pubblico è affidato genericamente all’amministrazione competente. Il danno ambientale non distingue compiutamente ambiti oggettivi e soggettivi.",
+      "correction": "Sequenza 242/250, termini, responsabilità 298-bis/303 e casi 50/80/150 con CSR 120.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-22",
+      "position": "Cap. 8, r. 86",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«valori limite»: Le categorie dei valori dell’aria sono nominate senza definizioni operative né esempi di periodo di mediazione e numero di superamenti.",
+      "correction": "Categorie aria definite, PM10/NO2 con periodi e superamenti; direttiva 2024/2881 distinta da schema nazionale.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-23",
+      "position": "Cap. 8, r. 166",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«classificazione acustica»: Mancano classi acustiche, periodi diurni/notturni, criterio differenziale con esclusioni e grandezze di base applicate.",
+      "correction": "Sei classi, periodi, differenziale 5/3 ed esclusioni; esempi 62−60 e 56−49; Leq/Lden/Lnight.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-24",
+      "position": "Cap. 8, r. 217",
+      "category": "Copertura",
+      "severity": "medio",
+      "diagnosis": "«informazione»: La comunicazione del dato è trattata, ma non la disciplina dell’accesso all’informazione ambientale.",
+      "correction": "Accesso ambientale 195: chiunque, 30/60 giorni, limiti e accesso parziale; caso risolto.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-25",
+      "position": "Cap. 9, r. 133",
+      "category": "Definizioni",
+      "severity": "medio",
+      "diagnosis": "«contravvenzione»: La definizione resta circolare e non insegna il criterio formale di distinzione dai delitti.",
+      "correction": "Distinzione formale pene; art. 256 corrente contravvenzione/delitto secondo fattispecie.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-26",
+      "position": "Cap. 9, r. 151",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«procedura estintiva»: Mancano termini, misura del pagamento, proroghe e problemi di ammissibilità della procedura della parte sesta-bis; anche la legge n. 689/1981 resta priva di una timeline utilizzabile.",
+      "correction": "Timeline 689 e 318-bis/seguenti; pagamenti 1000 e 4500, proroga 6 mesi, verifiche e comunicazioni.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-27",
+      "position": "Cap. 9, r. 239",
+      "category": "Esercizi",
+      "severity": "grave",
+      "diagnosis": "«norma da verificare»: Il caso non porta alla qualificazione di una fattispecie concreta: le righe della matrice rinviano sempre alla norma da verificare.",
+      "correction": "Casi concreti 256, 137/133 e 279: rifiuti/acque/emissioni; dati, pena e natura, limite del nesso causale.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-28",
+      "position": "Cap. 10, r. 105",
+      "category": "Precisione",
+      "severity": "medio",
+      "diagnosis": "«Prefetto»: La competenza del Prefetto è descritta senza esplicitare i presupposti dell’art. 9 relativi agli eventi e alla loro imminenza.",
+      "correction": "Prefetto: eventi b/c, imminenza/preannuncio, raccordo e direzione tecnica distinti.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-29",
+      "position": "Cap. 10, r. 147",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«aree»: Non sono sviluppate le diverse aree di emergenza e i principali centri di coordinamento; assenti attivazione e tutele operative del volontariato.",
+      "correction": "Attesa/assistenza/ammassamento, COC/CCS/COM/DiComaC e ambiti, volontariato 39/40.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-30",
+      "position": "Cap. 11, r. 120",
+      "category": "Allertamento",
+      "severity": "grave",
+      "diagnosis": "«massime attivazioni»: La tabella e il passaggio alla riga 144 associano il rosso alle massime attivazioni, indebolendo la distinzione fra allerta e fase operativa. Gli indirizzi nazionali prevedono almeno preallarme in caso di rosso, con eventuale intensificazione in base alla situazione.",
+      "correction": "Giallo/arancione almeno attenzione, rosso almeno preallarme; innalzamento motivato.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-31",
+      "position": "Cap. 11, r. 51",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«rischi»: Per il profilo di protezione civile sono insufficienti le specificità dei rischi sismico, vulcanico, maremoto, incendi boschivi e industriale; prevale il metodo generale.",
+      "correction": "Cinque schede: sisma, vulcano, maremoto SiAM, incendio/interfaccia, Seveso PEI/PEE.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-32",
+      "position": "Cap. 11, r. 255",
+      "category": "Casi",
+      "severity": "medio",
+      "diagnosis": "«Vallechiara»: La matrice unisce i due rami alternativi senza una colonna che identifichi lo scenario; nel briefing va resa esplicita la diversa validità temporale del bollettino rispetto alle osservazioni.",
+      "correction": "Rami A/B espliciti; matrice 4 colonne; validità 18:00 distinta dalle osservazioni 15:20.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-33",
+      "position": "Cap. 12, r. 121",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«regimi amministrativi»: Le tre etichette dei regimi FER non sono accompagnate da allegati, criteri, autorità, tempi ed effetti; il correttivo 2025 non è identificato.",
+      "correction": "FER 190 artt. 6–9 e allegati A/B/C; correttivo 178/2025 e REDIII 5/2026; casi 80 kW/6 MW/20 MW.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-34",
+      "position": "Cap. 12, r. 200",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«CER»: Il lettore non dispone dei requisiti essenziali di perimetro, impianti, partecipanti e controllo; manca il calcolo dell’energia condivisa.",
+      "correction": "Partecipanti/controllo CER, zona/cabina primaria, diritti, TIAD e minimo orario 70 kWh.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-35",
+      "position": "Cap. 12, r. 156",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«efficienza»: La trattazione non copre adeguatamente il profilo energia: diagnosi e disciplina degli edifici pubblici sono generiche; manca qualunque calcolo completo di risparmio, costo, emissioni o rendimento.",
+      "correction": "Diagnosi 102, PA centrale 3%, APE, D.Lgs. 192, EED incompleta riscontrata 1° ottobre; PNIEC/PNACC e calcolo risparmio/payback/CO₂e.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-36",
+      "position": "Cap. 13, r. 123",
+      "category": "Precisione",
+      "severity": "medio",
+      "diagnosis": "«regime»: La distinzione fra regimi DNSH non esplicita sufficientemente il contributo sostanziale rispetto al solo non arrecare danno significativo.",
+      "correction": "Regimi DNSH definiti; attribuzione da misura; casi NZEB 50/40 e progetto 45.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-37",
+      "position": "Cap. 13, r. 147",
+      "category": "Copertura",
+      "severity": "grave",
+      "diagnosis": "«CAM»: Il caso della palestra non identifica alcun decreto o criterio CAM concreto e rimane una matrice generica. Il D.M. 24 novembre 2025 è disponibile e va considerato col relativo regime transitorio.",
+      "correction": "CAM del 24 novembre 2025 e circolare 10 aprile 2026; criterio 2.5.2 con profilo pedologico, 75/90 m³ e prove per fase.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-38",
+      "position": "Cap. 13, r. 173",
+      "category": "Copertura",
+      "severity": "medio",
+      "diagnosis": "«LCA e LCC»: Mancano le fasi fondamentali della LCA e un esempio di costo del ciclo di vita, pur essendo strumenti centrali del capitolo.",
+      "correction": "Quattro fasi LCA; LCC scontato 5 anni 3%, 24.601,73/23.590,72 e differenza 1011,01.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-39",
+      "position": "Cap. 14, r. 199",
+      "category": "Soluzioni",
+      "severity": "grave",
+      "diagnosis": "«Simulazione 6»: La simulazione 6 richiede tabella e nota, ma offre solo prosa; la simulazione 8 richiede una matrice in otto righe, anch’essa non restituita. La prova integrata non assegna compiti e tempi concreti.",
+      "correction": "Sim 6 tabella+nota, sim 8 otto righe, sim 10 nota+sei azioni con tempi e rubrica.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-40",
+      "position": "Cap. 14, r. 83",
+      "category": "Struttura",
+      "severity": "medio",
+      "diagnosis": "«Da sapere in cinque righe»: Paragrafi metodologici interrompono sintesi e simulazioni, anche dopo i titoli delle simulazioni 1, 3, 5 e 8.",
+      "correction": "Paragrafi metodologici ricollocati prima di sintesi e simulazioni 1/3/5/8, conservando testo utile.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-41",
+      "position": "Cap. 14, r. 264",
+      "category": "Didattica",
+      "severity": "grave",
+      "diagnosis": "«soglie»: Il richiamo a non inventare dati diventa una rinuncia ad applicare regole e valori che il candidato deve conoscere; il laboratorio raramente verifica una decisione tecnica determinata.",
+      "correction": "Regole note distinte da fatti mancanti; casi risolvibili con numeri e disposizioni; quiz 6 corretto.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-42",
+      "position": "Indice analitico, r. 1",
+      "category": "Apparati",
+      "severity": "grave",
+      "diagnosis": "«Appendici A–E»: L’indice analitico promette cinque appendici operative e percorsi per quattro profili; questi materiali non risultano nei quattordici capitoli.",
+      "correction": "Appendici A–E effettive nel capitolo 14, modelli compilati e percorsi; indici riallineati.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-43",
+      "position": "Indice analitico, r. 1",
+      "category": "Coerenza editoriale",
+      "severity": "grave",
+      "diagnosis": "«completo»: La matrice dichiara 14 nuclei completi e numerose verifiche integrali, mentre permangono lacune sostanziali. L’indice di modulo descrive ancora uno scaffold e contiene una sequenza letterale di escape.",
+      "correction": "Matrice 90 nuclei reali, archivio attestazioni precedenti, indice senza scaffold/escape, metadati correnti.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    },
+    {
+      "id": "V11-44",
+      "position": "Cap. 6, r. 142",
+      "category": "Apparati editoriali",
+      "severity": "medio",
+      "diagnosis": "«audit»: Restano istruzioni di controllo al text freeze, codici interni e date di audit nel testo destinato al lettore; il quadro congelato ad agosto va rivalutato alla data editoriale del 2 ottobre 2026.",
+      "correction": "Eliminata istruzione text freeze dal corpo; date e uso del dato leggibili; codici DO tecnici conservati per parser e filtrati dal renderer comune.",
+      "status": "Testo verificato e congelato; PDF verificato nella copertura dichiarata; dipendenze comuni aperte"
+    }
+  ],
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "sha256": "e6a90ca41609999535e75610d5f63aec2e0e66a27891758ad991915fcdb0f1ed",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "sha256": "567cc1ba7270b0f8bc6026e28697ee719cb55f56cdd9117e7e13a1036a78e8b6",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "sha256": "825ad25c4c1716eca85ec911dc0a45b772507419fbda0d6dca2e9af379445ede",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "sha256": "18040fc69e3e1d13a6b8450b0a39c84ed7b852f3a717fe0dcd602a4ddf3ee840",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "sha256": "7dd7437328f8b37fb043d70bb741aa4ad031bb4c19a08bc67a50c1db82ea78ae",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "sha256": "f86c41aac568e56591382ca6c4a3269adc680e56def3ca7be7fa175cdd251d91",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "sha256": "b4bf7d8d0a1c5e794f71d8df87844a150744b4b361a5f0edf15d93e7aa1de40c",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "sha256": "041645664116fc6d2f59e9321bc591828d4444af396f587c7c16b4d4d06683b9",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "sha256": "7984408a25d54bda801b760c5b59b5d2a8a3f375d7277a437ee240574153ef2c",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "sha256": "82f439710a5848166078e2e51d17925434830eafd5c2dd01bf8160407c2be657",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "sha256": "2ec9ad2b1bac459d80ad394a475cb9b93d88252d444d055a2cb7c90e35e2a131",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "sha256": "5b7a6654bcce48b481e4c8ea07a741536fd942def9f3393227e91ebcf26c9586",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "sha256": "79223b82b1abfa10bd4307ddca2caef65a4aaa9b1abbde5bf53f382a061fdc04",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "sha256": "df28db81cc3ee59f3614c16bc45336049081228f394a9820abcbe58471b97275",
+      "readComplete": true,
+      "readingScope": "audit originale integrale e riesame dei delta nel contesto",
+      "quizReview": "complete",
+      "pdfReview": "Tecnica completa e copertura visiva dichiarata nel rapporto di produzione."
+    }
+  ],
+  "externalClaimsChecked": [
+    "https://assets-eu-01.kc-usercontent.com/e9919b4d-1ae9-0168-4763-5ecd5c8178f0/5a372bd7-1085-4e20-acf4-da7e95040628/2026_04_10_cam_circolare.pdf",
+    "https://atocittametropolitanadimilano.it/wp-content/uploads/Regolamento-SII-Cap-Holding-SpA-2022.pdf",
+    "https://energy.ec.europa.eu/news/october-infringements-package-key-decisions-energy-2026-10-01_en",
+    "https://eur-lex.europa.eu/eli/reg/2026/667/oj?uri=CELEX%3A32026R0667",
+    "https://eur-lex.europa.eu/legal-content/it/TXT/?uri=CELEX%3A32024L2881",
+    "https://indicatoriambientali.isprambiente.it/it/qualita-dellaria/qualita-dellaria-ambiente-biossido-di-azoto-no2",
+    "https://www.arera.it/fileadmin/allegati/docs/17/917-17rqti.pdf",
+    "https://www.arera.it/fileadmin/allegati/docs/22/727-22TIAD.pdf",
+    "https://www.arpa.veneto.it/arpavinforma/indicatori-ambientali/indicatori_ambientali/atmosfera/qualita-dellaria/livelli-di-concentrazione-di-polveri-fini-pm10/2025",
+    "https://www.camera.it/leg19/682?atto=420&idLegislatura=19&tipoAtto=Atto",
+    "https://www.camera.it/leg19/682?atto=435&idLegislatura=19&tipoAtto=Atto",
+    "https://www.gazzettaufficiale.it/eli/id/2026/01/20/26G00018/SG",
+    "https://www.isprambiente.gov.it/it/garante_aia_ilva/normativa/normativa-ambientale/Dlgs_152_06_TestoUnicoAmbientale.pdf",
+    "https://www.it-alert.gov.it/it/quando-si-usa/",
+    "https://www.mase.gov.it/portale/documents/d/guest/allegato_1_cam_edilizia_30_10_25-def-pdf",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-01-02;1!vig=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-25;190!vig=",
+    "https://www.protezionecivile.gov.it/en/normativa/direttiva-ministro-pcpm-12-febbraio-2026-0/",
+    "https://www.protezionecivile.gov.it/en/normativa/direttiva-pcm-istituzione-siam/",
+    "https://www.protezionecivile.gov.it/it/normativa/indicazioni-operative-lindividuazione-dei-centri-operativi-di-coordinamento-e-delle-aree-di-emergenza/",
+    "https://www.protezionecivile.gov.it/it/notizia/pericolosita-sismica-breve-termine-riunione-con-ingv-e-regioni/index.html",
+    "https://www.protezionecivile.gov.it/static/01ae0861c5853c2c70541d618e231305/Allegato_2_fasi_operative.pdf",
+    "https://www.protezionecivile.gov.it/static/2d279aa83bccd7bc2538b80234f0c247/direttiva-30-aprile-2021-indirizzi-predisposizione-piani-di-pc.pdf",
+    "https://www.rentri.gov.it/news/esclusioni-dall-obbligo-di-iscrizione-al-rentri-0",
+    "https://www.rentri.gov.it/news/fir-chiusura-delle-modalita-operative-di-sicurezza",
+    "https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/CIRCOLARI/2024/22/Guida-Operativa_terza-edizione.pdf"
+  ],
+  "normativeEvidence": [
+    "artifacts/correzioni-collana-2026-10-02/norme-vol11/manifest.json",
+    "artifacts/correzioni-collana-2026-10-02/norme-vol11/manifest-extra.json"
+  ],
+  "chapterGates": {
+    "passed": 14,
+    "blockers": 0,
+    "warnings": 0
+  },
+  "coverageNuclei": 90,
+  "appendices": "A–E nel capitolo 14",
+  "limitations": [
+    "PDF aggiornato ancora da verificare",
+    "Verifiche normative mirate con scope per articolo/documento",
+    "Scenari locali e importi didattici non sono istruzioni professionali per ogni caso",
+    "Produzione locale verificata; dipendenze comuni digitali/editoriali aperte. Nessun signoff24."
+  ],
+  "freezeManifest": "artifacts/correzioni-collana-2026-10-02/M-TR04-freeze.json",
+  "operativeDataManualCheck": "artifacts/correzioni-collana-2026-10-02/VOL-11-operative-data-manual-check.json",
+  "production": {
+    "volume": "VOL-11",
+    "pages": 253,
+    "pdfSha256": "eb67bedb161968004879438a2dad8ce37d86f4deb7d53d40f7e8db9d2c41b425",
+    "report": "wiki/reviews/correzioni-collana-2026-10-02/PDF-VOL-11.md",
+    "visualReview": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/VOL-11-production-visual.json",
+    "indexEntriesVerified": 104,
+    "finalSignoff": false,
+    "findings": [
+      {
+        "id": "P11-01",
+        "position": "Matrici, pp.149,167,184,206–207,225,227",
+        "category": "Tabelle",
+        "severity": "grave",
+        "diagnosis": "Nove/undici colonne spezzavano parole e sigle.",
+        "correction": "Gruppi collegati fino a quattro colonne; intestazione Responsabile / funzione ora va a capo tra parole.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P11-02",
+        "position": "Dati operativi, pp.91,179–180,191",
+        "category": "Residui interni",
+        "severity": "medio",
+        "diagnosis": "ID e istruzioni audit apparivano nel testo pubblico.",
+        "correction": "ID conservati nel frontmatter strutturato e rimossi dal corpo; fonti, date e limiti leggibili.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P11-03",
+        "position": "Appendici A–E, pp.247–250",
+        "category": "Apparati",
+        "severity": "grave",
+        "diagnosis": "Appendici promesse assenti nella prova storica.",
+        "correction": "Inserite schede operative di protezione civile, energia, ambiente locale, registri e toolkit; esaminate tutte.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P11-04",
+        "position": "Indice, pp.6–8",
+        "category": "Tipografia",
+        "severity": "medio",
+        "diagnosis": "Indice a6,75pt.",
+        "correction": "Corpo minimo9,5pt e104destinazioni verificate.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P11-05",
+        "position": "Matrice conclusiva, p.149",
+        "category": "Continuità",
+        "severity": "medio",
+        "diagnosis": "Frammentazione patologica e parole troncate.",
+        "correction": "Due proiezioni semantiche collegate dalla colonna Fatto; righe e intestazioni integre.",
+        "status": "Corretto e verificato localmente"
+      },
+      {
+        "id": "P11-06",
+        "position": "Appendice B, p.248",
+        "category": "Calcolo e unità",
+        "severity": "medio",
+        "diagnosis": "30.000×0,25=7,5t ometteva la conversione kg/t.",
+        "correction": "Esplicitati kWh,kg/kWh e divisione per1.000; formula ricalcolata e PDF ricontrollato.",
+        "status": "Corretto e verificato localmente"
+      }
+    ]
+  }
+}

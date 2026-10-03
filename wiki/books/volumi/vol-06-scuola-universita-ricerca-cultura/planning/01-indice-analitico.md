@@ -2,14 +2,14 @@
 id: outline-vol-06-scuola-universita-ricerca-cultura
 type: book_outline
 title: "Indice analitico VOL-06 — Scuola, Università, Ricerca e Cultura"
-status: outline_ready
+status: text-reconciled
 domain: concorsi pubblici italiani
 topics: ["istruzione e ricerca", "scuola", "università", "AFAM", "enti di ricerca", "beni culturali"]
 entities: ["MUR", "Ministero della cultura", "CNR", "INFN", "ISTAT"]
 source_refs: ["sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4"]
 book_refs: ["vol-06-scuola-universita-ricerca-cultura", "m-ir01-scuola", "m-ir02-universita-afam", "m-ir03-enti-ricerca", "m-ir04-cultura-beni-culturali"]
 confidence: 0.82
-updated_at: 2026-07-29
+updated_at: 2026-10-03
 created_at: 2026-07-29
 review_required: true
 canonical: true
@@ -18,7 +18,7 @@ tags: ["indice", "vol-06", "istruzione-ricerca"]
 
 # Indice analitico VOL-06
 
-Target editoriale complessivo: 135.100 parole, inclusi front matter e appendici. Ogni riga è un capitolo programmato, non ancora una dichiarazione di copertura completa o di review normativa conclusa.
+Inventario corrente: 50 capitoli nei quattro moduli. Gli apparati indicati sotto sono integrati nei capitoli; non sono promesse appendici separate inesistenti. Il vecchio target di 135.100 parole è storico e non misura il testo attuale. Verifica del PDF e controlli finali restano necessari.
 
 ## M-IR01 — Scuola
 
@@ -38,7 +38,7 @@ Target editoriale complessivo: 135.100 parole, inclusi front matter e appendici.
 | 12 | Metodologie, valutazione e digitale didattico | docente | unità didattica |
 | 13 | Progettazione e lezione simulata | docente | lezione simulata |
 
-Appendici: ATA; DSGA; dirigenza scolastica; disciplina e didattica; piano e simulazioni. Target: 35.000 parole.
+Apparati effettivi integrati nei capitoli: pratica ATA e rubrica nel 05; piano e casi DSGA nei 06–08; scenari DS nei 09–10; quiz e progettazione nei 11–13. Non sono previste appendici separate per ogni disciplina docente. Il precedente target di 35.000 parole resta un riferimento progettuale, non una dichiarazione di lunghezza effettiva.
 
 ## M-IR02 — Università e AFAM
 
@@ -57,7 +57,7 @@ Appendici: ATA; DSGA; dirigenza scolastica; disciplina e didattica; piano e simu
 | 11 | AFAM: ordinamento e amministrazione | AFAM | caso |
 | 12 | Laboratorio per i quattro profili | tutti | simulazioni |
 
-Appendici: 4.600 parole. Target: 32.400 parole.
+Apparati effettivi nei capitoli: bilancio numerico e forme di costo nei 06–08; record bibliografico e servizi nel 09; mobilità e tirocinio nel 10; quattro simulazioni con rubriche nel 12. Nessuna appendice separata promessa. Il target progettuale storico di 32.400 parole non è una misura del testo corrente.
 
 ## M-IR03 — Enti di ricerca
 
@@ -76,7 +76,7 @@ Appendici: 4.600 parole. Target: 32.400 parole.
 | 11 | Horizon, PNRR e grant management | grant | budget |
 | 12 | Laboratorio per i quattro profili | tutti | simulazioni |
 
-Appendici: 4.800 parole. Target: 32.700 parole.
+Apparati effettivi nei capitoli: bilancio numerico e missione nei 04–05; mini-proposta, h-index e piano tecnico nei 06–08; brevetto, DMP e budget nei 09–11; quattro elaborati risolti nel 12. Nessuna appendice separata promessa; il target storico non descrive la lunghezza corrente.
 
 ## M-IR04 — Cultura e MiC
 
@@ -96,12 +96,12 @@ Appendici: 4.800 parole. Target: 32.700 parole.
 | 12 | Architettura, paesaggio e cantieri | architetto | caso |
 | 13 | Fruizione, vigilanza e sicurezza | assistente | scenario |
 
-Appendici: archivisti-bibliotecari; archeologia e storia dell'arte; restauro e architettura; quizario assistenti; atlante MiC e piano 30/60/90. Target: 35.000 parole.
+Apparati effettivi nei capitoli: organigramma nel 02; casi del Codice nei 03–05; collaudo digitale e schede archivistica/bibliografica nei 06–08; stratigrafia e scheda d'opera nei 09–10; casi di conservazione, progettazione e sicurezza nei 11–13. Quiz presenti in ciascuno dei 13 capitoli. Non sono promessi atlante o piano 30/60/90 separati, né un corso completo per ogni specializzazione tecnica.
 
 ## Confini di catalogo
 
-- B-PA: [[books/il-metodo-bando/index|VOL-01]].
-- Digitale specialistico e data science avanzata: VOL-08.
-- Procurement, fondi UE e PNRR avanzati: VOL-09.
-- Progettazione tecnica e cantieri complessi: VOL-10.
+- Per il procedimento amministrativo comune si usa il capitolo pertinente del VOL-01; l’indice di volume è una navigazione, non la dichiarazione di uno specifico rinvio didattico.
+- Modello relazionale: [[books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato#N-TR01-04-01 · Dai requisiti al modello relazionale]]. L’indicazione non promette ogni dominio della data science.
+- Decisione di contrarre e fascicolo di gara: [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti#N-TR02-04-01 · Decisione di contrarre e documenti]]. Finanziamenti e rendicontazione assegnati al VOL-06 restano spiegati nei relativi capitoli.
+- Livelli della progettazione: [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche#N-TR03-07-03 · I livelli della progettazione]]. Non sostituisce la preparazione tecnica professionale richiesta dal singolo bando.
 - Disciplina di insegnamento o dominio scientifico: verticale del candidato.

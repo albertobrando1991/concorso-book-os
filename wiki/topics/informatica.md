@@ -37,3 +37,8 @@ Nei concorsi pubblici, informatica non significa solo uso del computer. Comprend
 ## Note editoriali
 
 Per il capitolo, ordinare la materia per resa concorsuale: prima Office, file, sistemi operativi, web/email e hardware; poi reti, sicurezza, database e programmazione; infine PA digitale e norme.
+
+
+## Correzioni consolidate del 3 ottobre 2026
+
+[[sources/vol-01-digitale-esempi-correzioni-2026-10-03]] corregge la tassonomia documentale, domicilio e open data; aggiunge esempi originali Office/SQL nel capitolo 10 e coordina i glossari.

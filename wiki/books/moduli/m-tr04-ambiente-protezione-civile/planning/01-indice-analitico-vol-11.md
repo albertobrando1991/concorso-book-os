@@ -9,7 +9,7 @@ entities: ["M-TR04", "MASE", "ISPRA", "SNPA", "Dipartimento della Protezione Civ
 source_refs: ["sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile", "il-metodo-bando"]
 confidence: 0.78
-updated_at: 2026-08-07
+updated_at: 2026-10-03
 created_at: 2026-08-07
 review_required: true
 canonical: true
@@ -64,6 +64,8 @@ Il volume mantiene un solo modulo canonico e quattro parti interne. I capitoli e
 
 ## Appendici
 
+Le cinque appendici sono sezioni effettive del capitolo 14, dopo il laboratorio e prima delle verifiche finali.
+
 - A — Protezione civile operativa: piani, scenari, COC, funzioni, aree e IT-Alert.
 - B — Clima, energia e indicatori: PNIEC, CER, rinnovabili, efficienza e reporting.
 - C — Ambiente negli enti locali: rifiuti, acque, rumore, bonifiche, autorizzazioni e controlli.
@@ -80,3 +82,7 @@ Il volume mantiene un solo modulo canonico e quattro parti interne. I capitoli e
 ## Confini
 
 Rinvii obbligatori: VOL-01 per B-PA; VOL-02 per ordinamento locale generale; VOL-09 per appalti/PNRR/procurement; VOL-10 per tecnica, territorio e lavori pubblici.
+
+## Riesame del 3 ottobre 2026
+
+Quattordici capitoli e appendici A–E nel capitolo 14; 44 rilievi dell’audit integrale trattati nel registro corrente. La matrice elenca i nuclei effettivi, con fonti e limiti. Le attestazioni precedenti non sostituiscono il presente riesame né certificano il PDF aggiornato.

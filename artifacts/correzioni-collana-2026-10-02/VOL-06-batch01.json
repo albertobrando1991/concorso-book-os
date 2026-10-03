@@ -1,0 +1,34 @@
+{
+  "V06-01": {
+    "change": "Sostituita la presentazione corrente dell’O.M. 172/2020 con O.M. 3/2025, sei giudizi, ultimo periodo 2024/2025, valutazione in itinere e distinto comportamento nella secondaria di primo grado.",
+    "files": [
+      "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md"
+    ],
+    "evidence": "Confronto artt. 1–7 e Allegato A della copia ministeriale ospitata da istituto statale; rilettura della nuova sezione.",
+    "status": "applicato"
+  },
+  "V06-02": {
+    "change": "Elencate le sei aree DigCompEdu, ripristinata l’area professionale.",
+    "files": [
+      "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md"
+    ],
+    "evidence": "Pagina canonica JRC DigCompEdu framework letta; corrispondenza aree controllata.",
+    "status": "applicato"
+  },
+  "V06-03": {
+    "change": "Aggiornata la nota preesistente con “e” nello slug, riallineati i riferimenti del modulo e del topic senza duplicare una fonte obsoleta.",
+    "files": [
+      "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+      "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+      "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+      "wiki/books/moduli/m-ir01-scuola/planning/03-piano-capitolo-12-metodologie-valutazione-digitale-didattico.md",
+      "wiki/books/moduli/m-ir01-scuola/planning/03-piano-capitolo-13-progettazione-lezione-simulata.md",
+      "wiki/topics/m-ir01-scuola-fonti-e-profili.md",
+      "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md"
+    ],
+    "evidence": "Fonte esistente consolidata con O.M. 3/2025 e JRC; controllo riferimenti dopo le correzioni del modulo.",
+    "status": "applicato"
+  }
+}

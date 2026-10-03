@@ -1,0 +1,188 @@
+{
+  "01": [
+    {
+      "key": "B",
+      "correct": "Sono due carriere speciali riferite ad amministrazioni e cicli professionali distinti."
+    },
+    {
+      "key": "C",
+      "correct": "La scala dei posti nelle due tornate, da integrare con coerenza e costo di preparazione."
+    },
+    {
+      "key": "D",
+      "correct": "Quattro volte in cui le prove scritte sono state portate a termine senza essere superate."
+    },
+    {
+      "key": "A",
+      "correct": "Dopo la pubblicazione effettiva dei quesiti ufficiali."
+    },
+    {
+      "key": "B",
+      "correct": "Una destinazione esistente, il contenuto riusabile, il delta e l'eventuale condizione."
+    },
+    {
+      "key": "C",
+      "correct": "Come ignota o non pubblicata, con data e azione di verifica."
+    }
+  ],
+  "02": [
+    {
+      "key": "C",
+      "correct": "Trentacinque anni"
+    },
+    {
+      "key": "D",
+      "correct": "Novanta quesiti in sessanta minuti"
+    },
+    {
+      "key": "A",
+      "correct": "No"
+    },
+    {
+      "key": "B",
+      "correct": "Il caso giuridico-amministrativo o gestionale-organizzativo"
+    },
+    {
+      "key": "C",
+      "correct": "Media di 70 e almeno 60 in ciascuna prova"
+    },
+    {
+      "key": "D",
+      "correct": "Due anni"
+    }
+  ],
+  "03": [
+    {
+      "key": "D",
+      "correct": "Cinquanta"
+    },
+    {
+      "key": "A",
+      "correct": "Meno un quarto di punto"
+    },
+    {
+      "key": "B",
+      "correct": "Cinque"
+    },
+    {
+      "key": "C",
+      "correct": "Settanta"
+    },
+    {
+      "key": "D",
+      "correct": "Rilevano quattro serie di prove scritte portate a termine senza superarle"
+    },
+    {
+      "key": "A",
+      "correct": "Segretario di legazione"
+    },
+    {
+      "key": "B",
+      "correct": "No"
+    }
+  ],
+  "04": [
+    {
+      "key": "A",
+      "correct": "No"
+    },
+    {
+      "key": "B",
+      "correct": "Sì"
+    },
+    {
+      "key": "C",
+      "correct": "Inglese e una seconda scelta ammessa"
+    },
+    {
+      "key": "D",
+      "correct": "Lettura, scrittura, ascolto, parlato e lessico"
+    },
+    {
+      "key": "A",
+      "correct": "Quando le obbligatorie sono stabili e il costo è sostenibile"
+    },
+    {
+      "key": "B",
+      "correct": "Evitare il decadimento durante altri blocchi di studio"
+    }
+  ],
+  "05": [
+    {
+      "key": "B",
+      "correct": "No"
+    },
+    {
+      "key": "C",
+      "correct": "Rispondere con tesi o definizione"
+    },
+    {
+      "key": "D",
+      "correct": "Esporre ciò che è certo e dichiarare il limite"
+    },
+    {
+      "key": "A",
+      "correct": "Con operazioni e adattamento alle istruzioni ufficiali"
+    },
+    {
+      "key": "B",
+      "correct": "A confrontare percezione ed evidenza"
+    },
+    {
+      "key": "C",
+      "correct": "Prestazioni ripetute senza componenti assenti"
+    }
+  ],
+  "06": [
+    {
+      "key": "C",
+      "correct": "No"
+    },
+    {
+      "key": "D",
+      "correct": "Acquisizione, recupero, produzione e correzione"
+    },
+    {
+      "key": "A",
+      "correct": "Dall'inizio e per tutto il piano"
+    },
+    {
+      "key": "B",
+      "correct": "Le condizioni ufficialmente note"
+    },
+    {
+      "key": "C",
+      "correct": "Gli scritti portati a termine senza successo"
+    },
+    {
+      "key": "D",
+      "correct": "A cadenza e quando cambiano fonti, risultati o vincoli"
+    }
+  ],
+  "07": [
+    {
+      "key": "D",
+      "correct": "L'atto ufficiale pertinente"
+    },
+    {
+      "key": "A",
+      "correct": "No"
+    },
+    {
+      "key": "B",
+      "correct": "Dopo la pubblicazione di una banca ufficiale verificata"
+    },
+    {
+      "key": "C",
+      "correct": "Stato, fatto personale e documento"
+    },
+    {
+      "key": "D",
+      "correct": "A registrare fatti prima che si deformino"
+    },
+    {
+      "key": "A",
+      "correct": "La prima sede individuale"
+    }
+  ]
+}

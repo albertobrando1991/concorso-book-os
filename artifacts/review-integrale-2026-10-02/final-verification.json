@@ -1,0 +1,113 @@
+{
+  "textReviewComplete": true,
+  "chapters": 326,
+  "volumes": [
+    {
+      "volume": "VOL-01",
+      "title": "Manuale base PA",
+      "chapters": 32,
+      "read": 32,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-01.md",
+      "findings": 51
+    },
+    {
+      "volume": "VOL-02",
+      "title": "Enti locali, Camere di commercio e Polizia locale",
+      "chapters": 51,
+      "read": 51,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-02.md",
+      "findings": 58
+    },
+    {
+      "volume": "VOL-03",
+      "title": "Funzioni centrali, Fisco, Previdenza e Ispettivo",
+      "chapters": 50,
+      "read": 50,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-03.md",
+      "findings": 57
+    },
+    {
+      "volume": "VOL-04",
+      "title": "Giustizia e UPP",
+      "chapters": 17,
+      "read": 17,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-04.md",
+      "findings": 29
+    },
+    {
+      "volume": "VOL-05",
+      "title": "Authority e regolazione",
+      "chapters": 15,
+      "read": 15,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-05.md",
+      "findings": 33
+    },
+    {
+      "volume": "VOL-06",
+      "title": "Scuola, Universita, Ricerca, Cultura",
+      "chapters": 50,
+      "read": 50,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-06.md",
+      "findings": 36
+    },
+    {
+      "volume": "VOL-07",
+      "title": "Sanità amministrativa e professioni sanitarie",
+      "chapters": 25,
+      "read": 25,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-07.md",
+      "findings": 41
+    },
+    {
+      "volume": "VOL-08",
+      "title": "ICT, digitale, cybersecurity e dati",
+      "chapters": 13,
+      "read": 13,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-08.md",
+      "findings": 32
+    },
+    {
+      "volume": "VOL-09",
+      "title": "Appalti, PNRR e procurement",
+      "chapters": 14,
+      "read": 14,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-09.md",
+      "findings": 38
+    },
+    {
+      "volume": "VOL-10",
+      "title": "Tecnico-ingegneristico, territorio, lavori pubblici",
+      "chapters": 13,
+      "read": 13,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-10.md",
+      "findings": 18
+    },
+    {
+      "volume": "VOL-11",
+      "title": "Ambiente, protezione civile e sostenibilità",
+      "chapters": 14,
+      "read": 14,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-11.md",
+      "findings": 44
+    },
+    {
+      "volume": "VOL-12",
+      "title": "Carriere speciali premium",
+      "chapters": 32,
+      "read": 32,
+      "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-12.md",
+      "findings": 66
+    }
+  ],
+  "actions": 582,
+  "contentActions": 503,
+  "pdfAndExportActions": 79,
+  "severityCounts": {
+    "bloccante": 6,
+    "grave": 303,
+    "media": 243,
+    "lieve": 30
+  },
+  "problems": [],
+  "scope": "326 print chapters/appendices; separate digital cookbook excluded; selective external checks; PDF panorama plus detailed samples"
+}

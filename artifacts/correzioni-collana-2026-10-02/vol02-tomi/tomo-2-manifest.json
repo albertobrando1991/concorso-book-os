@@ -1,0 +1,105 @@
+{
+  "id": "tomo-2",
+  "title": "Polizia locale",
+  "modules": [
+    "M-FL04"
+  ],
+  "mainChapters": 20,
+  "pagesPending": false,
+  "sourceHashes": [
+    {
+      "path": "books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md",
+      "sha256": "52448ebc9d5ff90c86920b9f5832136d6e663eaa0f4b365b3a88e9015fe59105"
+    },
+    {
+      "path": "books/vol-02-enti-locali-polizia-locale/chapters/02-bando-decoder-territoriale.md",
+      "sha256": "84afd4196dfe8b06a9276a07055b155370c5c2cb422c59b6bb22a8d93ee3cf17"
+    },
+    {
+      "path": "books/vol-02-enti-locali-polizia-locale/chapters/03-piano-30-60-90-giorni-vol-02.md",
+      "sha256": "6810a3ab58b0f719391b2e8f3fca4cfcebba8a8f5324a87a95f8e6e5e76dac2a"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "sha256": "4c134c611033a987b7664575b0ac6ae0baeb3a7610797b650bb7f07b6b7f5743"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "sha256": "580fe6591113b4e7fca9841ff978372533d947fc0b297c864ff008ce759058b8"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "sha256": "487c1ebcd4198cf48da200140a6d09cdf9931452d128204cce8255cf43a36e1c"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "sha256": "1b1c74c6201d012bb8fad4760f8a340f93e25a6f9d0662c024b231688806543b"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "sha256": "4826c1dbc69a9b0cfca56695cdd4a07cb0f50ba4a126384804aa57f67f461efe"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "sha256": "ea92667e22988021878bcdf3778ebdc3fb7185c466c3c994f71b44a85871d896"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "sha256": "1fdccb401958726cb8370dd889c744bbf638cbf0b65ee5fdfe1d8a85dc073bb8"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "sha256": "0c6fca021f9c95b1b2ebea800f574b36befad03a4690d1576b01d4b28e8e1140"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "sha256": "728b1aa58f111c2c3f5c70eecf6288bae84b00a64eb6765f73b93dd64a293c18"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "sha256": "92f8eca05ad020f64b5624aac7177375f3edb57519781b58b0390544d414da44"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "sha256": "4c87e7506ace5989926522823028d0477da406dae671310c9e692c45c023b79b"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "sha256": "e59e5c247cd876521c0e35cabe01a6cfebb22445a5158d460dfc56855988d5d1"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "sha256": "becb09c309710257d53b37d638fe5e82181908b1c7a5708d12e8a0e0f1c05ce9"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "sha256": "dacbca3cf7e699b8d500d5d836bc8f932d1234c4182ed0c0c69112cd26b4334e"
+    },
+    {
+      "path": "books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "sha256": "14f3de3cf3d8d62852816f02beb67574ad00bf3da3232bf5e707f930511d70db"
+    },
+    {
+      "path": "books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md",
+      "sha256": "800e81bed95c01f642ee9ed85a6d3936b1398c63a5a20f0bea3f2fec0ab913a8"
+    },
+    {
+      "path": "books/vol-02-enti-locali-polizia-locale/chapters/51-conclusione-vol-02.md",
+      "sha256": "1cfa22056ab7790a9dd6de1cdf67b0bc3ee27ebedd1689e71be5f6c854c3f2d3"
+    }
+  ],
+  "derivedMarkdown": [
+    "tomo-2-orientamento.md",
+    "tomo-2-simulazione.md",
+    "tomo-2-conclusione.md"
+  ],
+  "notes": [
+    "Nessuna modifica al renderer o ai master congelati",
+    "Front matter, indice e chiusura adattati alla selezione; numerazione capitoli collana conservata",
+    "Servizi digitali: condizioni commerciali ancora dipendenza del coordinatore"
+  ],
+  "pages": 268,
+  "pdfSha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+  "visualReview": "tomo-2-visual-checkpoint.json",
+  "technicalReview": "tomo-2-technical-manifest.json"
+}

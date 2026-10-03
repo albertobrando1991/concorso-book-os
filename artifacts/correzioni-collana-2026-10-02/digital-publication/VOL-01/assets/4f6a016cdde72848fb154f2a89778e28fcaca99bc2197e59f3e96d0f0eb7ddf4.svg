@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cartella dopo-prova</title>
+  <desc id="desc">Ogni documento deve essere recuperabile quando serve una decisione.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Cartella dopo-prova</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Ogni documento deve essere recuperabile quando serve una decisione.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="150 240 650 350 8">
+    <rect x="150" y="240" width="650" height="350" rx="28" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="150" y="240" width="650" height="14" rx="7" fill="#10233F"/>
+    <text class="label" style="fill:#10233F" x="475" y="298" text-anchor="middle">Fonti e prove</text>
+    <g data-safe-box="185 334 580 48 4">
+        <rect x="185" y="334" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="280" y="365" text-anchor="middle">Bando</text>
+        <text class="small" x="530" y="365" text-anchor="middle">2026-ente-profilo-bando.pdf</text>
+      </g>
+<g data-safe-box="185 400 580 48 4">
+        <rect x="185" y="400" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="280" y="431" text-anchor="middle">Convocazione</text>
+        <text class="small" x="530" y="431" text-anchor="middle">convocazione-scritto.pdf</text>
+      </g>
+<g data-safe-box="185 466 580 48 4">
+        <rect x="185" y="466" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="280" y="497" text-anchor="middle">Ricevute</text>
+        <text class="small" x="530" y="497" text-anchor="middle">invio-pagamento.pdf</text>
+      </g>
+<g data-safe-box="185 532 580 48 4">
+        <rect x="185" y="532" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="280" y="563" text-anchor="middle">Avvisi</text>
+        <text class="small" x="530" y="563" text-anchor="middle">diario-sede-istruzioni.pdf</text>
+      </g>
+  </g>
+    <g data-safe-box="880 240 650 350 8">
+    <rect x="880" y="240" width="650" height="350" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="880" y="240" width="650" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" style="fill:#2F7D5A" x="1205" y="298" text-anchor="middle">Esiti e lavoro tuo</text>
+    <g data-safe-box="915 334 580 48 4">
+        <rect x="915" y="334" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="1010" y="365" text-anchor="middle">Esito</text>
+        <text class="small" x="1260" y="365" text-anchor="middle">esito-scritto.pdf</text>
+      </g>
+<g data-safe-box="915 400 580 48 4">
+        <rect x="915" y="400" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="1010" y="431" text-anchor="middle">Graduatoria</text>
+        <text class="small" x="1260" y="431" text-anchor="middle">graduatoria.pdf</text>
+      </g>
+<g data-safe-box="915 466 580 48 4">
+        <rect x="915" y="466" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="1010" y="497" text-anchor="middle">Scheda tua</text>
+        <text class="small" x="1260" y="497" text-anchor="middle">scheda-post-prova.md</text>
+      </g>
+<g data-safe-box="915 532 580 48 4">
+        <rect x="915" y="532" width="580" height="48" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+        <text class="small strong" x="1010" y="563" text-anchor="middle">Diario</text>
+        <text class="small" x="1260" y="563" text-anchor="middle">errori-e-azioni.md</text>
+      </g>
+  </g>
+    <g data-safe-box="520 615 560 150 8">
+    <rect x="520" y="615" width="560" height="150" rx="24" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <rect x="520" y="615" width="560" height="12" rx="6" fill="#1F6F78"/>
+    <text class="label" x="800" y="667" text-anchor="middle">Nome file semplice</text>
+    <text class="small" x="800" y="697" text-anchor="middle">data, ente, profilo, tipo documento</text>
+<text class="small" x="800" y="725" text-anchor="middle">non screenshot sparsi nei download</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Il giorno in cui serve un documento non devi cercarlo tra messaggi e cartelle casuali.</text>
+  </g>
+
+</svg>

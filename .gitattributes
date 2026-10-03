@@ -9,3 +9,13 @@ wiki/raw/business/vol-07-sanita-amministrativa-professioni-sanitarie-2026-07-28.
 
 wiki/raw/**/*.html -text -whitespace
 wiki/raw/**/*.pdf binary
+
+# Editorial checkpoints use SHA-256 of exact bytes. Preserve source and package
+# line endings on add/checkout so staff receives the files actually audited.
+wiki/books/**/chapters/*.md -text whitespace=cr-at-eol
+wiki/reviews/correzioni-collana-2026-10-02/** -text whitespace=cr-at-eol
+wiki/reviews/audit-integrale-2026-10-02/** -text whitespace=cr-at-eol
+delivery/** -text whitespace=cr-at-eol
+artifacts/correzioni-collana-2026-10-02/** -text whitespace=cr-at-eol
+artifacts/review-integrale-2026-10-02/** -text whitespace=cr-at-eol
+artifacts/review-collana-2026-10-02/** -text whitespace=cr-at-eol

@@ -1,0 +1,62 @@
+[
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+    "before": "074c3acb935346dfc4f333ed383df61f8ffb82ffbdcb7453b762dd4de4081a8c",
+    "after": "832066ec56c18b78b82d1ca9c48ba93e0afb145a78d1ee8267a98c8f818aa30e",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+    "before": "25200b879b6b80ec8afce612319d0e4e91736af73d3c2913784bca4080de017b",
+    "after": "20bd1517c807d03ebfc2e16a0e4e4f662c6618d7d5496c097740db49bd53a7d0",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+    "before": "832066ec56c18b78b82d1ca9c48ba93e0afb145a78d1ee8267a98c8f818aa30e",
+    "after": "b2d66aa1b1b48a04cc46e5beedb483a29cf689ef5086d8ab0dd554adc6f76509",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+    "before": "20bd1517c807d03ebfc2e16a0e4e4f662c6618d7d5496c097740db49bd53a7d0",
+    "after": "047fb5eb1f6c61dd985de0acd46d237dbbd0e62d8de2dbe44852146a281416d4",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/costituzione-e-ordinamento-dello-stato.md",
+    "before": "e0cb43ed71a74a4af388e7a86b28d804aedaa9ef2d593f6cb0323e1f4d8d7f04",
+    "after": "bb41c6824a5f945c4d24cafd247f6d749eacc1c48792b25afb02a06ec148e316",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/contabilita-pubblica-essenziale.md",
+    "before": "c31f7b8a8918d7040125866705a45483ecbd27861811338ec32ee24f90189488",
+    "after": "8949192b4e82b42dd4a84a085880c4472836a5448af1626a7c6a7345b16724dd",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/logica-comprensione-ragionamento.md",
+    "before": "96866a8c3ff6d9a9d1c629d59c4d0d07a984e652cfbf584b4a052c8a3f46b08c",
+    "after": "ded5ee158fde38fc182b4c941a8301fdc840e04bcfc7fd2efb9d659f19415ae3",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+    "before": "0d555486897446ad581be77d0d58cfd56221d315246e44f602223c3f75953d45",
+    "after": "6390dcebe064df43cab2b45995478307fb40cf4cdc17cb828cdf27dfd12536c4",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/contratti-pubblici-essenziali.md",
+    "before": "b2d66aa1b1b48a04cc46e5beedb483a29cf689ef5086d8ab0dd554adc6f76509",
+    "after": "fc2050f0870dc4de2526d0356ecf25da4be56bfa59341df728180ec90f81d30d",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/informatica-pa-digitale-competenze-digitali.md",
+    "before": "047fb5eb1f6c61dd985de0acd46d237dbbd0e62d8de2dbe44852146a281416d4",
+    "after": "a334531a2854e5f59c1b88c6e280e4d4da5dbbb3079a31f1f377d68be02ad57e",
+    "reason": "Figura più leggibile o didascalia coerente con contenuto già verificato"
+  }
+]

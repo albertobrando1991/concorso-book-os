@@ -2,23 +2,23 @@
 id: matrix-m-ir04-cultura-beni-culturali-copertura-didattica
 type: coverage_matrix
 title: "Matrice di copertura didattica v4 — M-IR04 Cultura e MiC"
-status: planned_complete
+status: text-reconciled
 domain: "concorsi pubblici italiani"
 topics: ["beni culturali", "musei", "archivi", "biblioteche", "paesaggio"]
 entities: ["Ministero della cultura", "ICCD", "ICCU", "ICAR", "ICR"]
 source_refs: ["sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24", "sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026"]
 book_refs: ["m-ir04-cultura-beni-culturali", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.76
-updated_at: 2026-07-29
+updated_at: 2026-10-03
 created_at: 2026-07-29
-review_required: true
+review_required: false
 canonical: true
 tags: ["coverage-matrix", "module-code-m-ir04", "pipeline-step-07"]
 ---
 
 # Matrice di copertura didattica v4 — M-IR04 Cultura e MiC
 
-`Completo` attesta la progettazione con teoria, applicazione e verifica in un capitolo preciso; non equivale a capitolo redatto o pubblicabile.
+Matrice riconciliata con il testo effettivo. Completo riguarda il perimetro dei nuclei indicati, non ogni specializzazione del profilo; PDF e audit di volume restano separati.
 
 | Famiglia/profilo | Materia | Concetto/sotto-concetti | Frequenza/peso | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa | Destinazione rinvio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,159 +32,84 @@ tags: ["coverage-matrix", "module-code-m-ir04", "pipeline-step-07"]
 | Bibliotecario | Biblioteche | Cataloghi, raccolte, servizi e accesso | alta | [[sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24]] | capitolo 08, `Biblioteconomia e servizi` | sistema bibliotecario | caso utente/catalogo | soluzione di servizio | prova catalogo | completo | SBN, licenze e regolamenti mobili | |
 | Archeologo | Archeologia | Tutela territoriale, contesto e interventi | alta | [[sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026]] | capitolo 09, `Archeologia e tutela territoriale` | principi di tutela | caso territoriale | istruttoria/caso | domanda orale | completo | Bando e disciplina tecnica mobili | |
 | Storico arte | Museologia | Opere, musei, valorizzazione e allestimento | media | [[sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026]] | capitolo 10, `Storia dell'arte e museologia` | concetti e funzioni | scheda opera/museo | scheda argomentata | quiz | completo | Collezioni e regolamenti mobili | |
-| Restauratore | Restauro | Conservazione, progetto e responsabilita' | alta | [[sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24]] | capitolo 11, `Restauro e conservazione` | principi e fasi | mini-progetto | progetto conservativo | checklist | completo | Norme tecniche e progetto mobili | |
-| Architetto | Paesaggio e cantieri | Paesaggio, autorizzazioni e interfaccia cantiere | alta | [[sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24]] | capitolo 12, `Architettura, paesaggio e cantieri` | quadro e confini | caso autorizzativo | caso motivato | scenario | completo | Cantieri avanzati rinviati VOL-10 | |
+| Restauratore | Restauro | Conservazione, progetto e responsabilita' | alta | [[sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24]] | capitolo 11, `Restauro e conservazione` | principi e fasi | caso di classificazione e competenza | decisione conservativa motivata | checklist | completo | Norme tecniche e progetto mobili | |
+| Architetto | Paesaggio e cantieri | Paesaggio, autorizzazioni e interfaccia cantiere | alta | [[sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24]] | capitolo 12, `Architettura, paesaggio e cantieri` | quadro e confini | caso autorizzativo | caso motivato | scenario | completo | Quadro amministrativo; rinvio puntuale ai livelli di progettazione sotto | |
 | Assistente | Fruizione e vigilanza | Accoglienza, vigilanza, sicurezza ed emergenze | alta | [[sources/bandi-rappresentativi-m-ir04-cultura-mic-2022-2026]] | capitolo 13, `Fruizione, vigilanza e sicurezza` | ruoli e servizi | scenario emergenza | piano d'azione | domanda situazionale | completo | Bando 1.800 e procedure locali mobili | |
 
-## Totali e blocker
+## Evidenze correnti e dimensioni didattiche
 
-- Righe 13; completo 13; parziale 0; solo-nominato 0; rinviato 0; mancante 0.
-- Alta priorita': verificare programma, modifiche e riapertura termini MiC 577 e bando MiC 1.800 prima della redazione finale.
-- Media priorita': verificare CCNL, D.P.C.M. 57/2024, standard e regolamenti degli istituti.
-- Bassa priorita': aggiornare esempi, repertori e riferimenti giurisprudenziali al text freeze.
+Per ciascun nucleo la collocazione è l'heading riportato nel capitolo. Definizione, funzione, distinzioni e conseguenze sono nel nucleo; caso, output, errore e verifica sono nel nucleo o negli apparati del medesimo capitolo. Le evidenze sintetiche sotto descrivono l'integrazione effettiva, senza certificare specializzazioni esterne. Q:6 C:1 E:1 indica il minimo riscontrato per capitolo, non sei quiz per ogni nucleo.
 
-Il modulo non e' pubblicabile: redazione, verifica normativa e revisione sono ancora richieste.
+| Capitolo | Nucleo ID | Titolo/evidenza teorica | Applicazione e output | Verifica | Stato |
+| --- | --- | --- | --- | --- | --- |
+| 01 | N-IR04-01-01 | Perimetro del Ministero e lettura del bando | Decoder del profilo e prodotto della prova; quattro percorsi distinti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 01 | N-IR04-01-02 | Organizzazione utile al candidato | Decoder del profilo e prodotto della prova; quattro percorsi distinti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 01 | N-IR04-01-03 | Architetto e archeologo: tutela, contesto, istruttoria | Decoder del profilo e prodotto della prova; quattro percorsi distinti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 01 | N-IR04-01-04 | Bibliotecario e archivista: documenti, servizi, accesso | Decoder del profilo e prodotto della prova; quattro percorsi distinti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 01 | N-IR04-01-05 | Confronto dei quattro profili e risposta situata | Decoder del profilo e prodotto della prova; quattro percorsi distinti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 02 | N-IR04-02-01 | Organizzazione e competenza: il criterio di lettura | Quattro dipartimenti e DG; SABAP, soprintendenze archivistiche, Archivi di Stato e autonomia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 02 | N-IR04-02-02 | Centro, dipartimenti e direzioni generali | Quattro dipartimenti e DG; SABAP, soprintendenze archivistiche, Archivi di Stato e autonomia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 02 | N-IR04-02-03 | Territorio, soprintendenze e istruttoria | Quattro dipartimenti e DG; SABAP, soprintendenze archivistiche, Archivi di Stato e autonomia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 02 | N-IR04-02-04 | Istituti autonomi e luoghi della cultura | Quattro dipartimenti e DG; SABAP, soprintendenze archivistiche, Archivi di Stato e autonomia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 02 | N-IR04-02-05 | Competenza nel caso concreto e risposta concorsuale | Quattro dipartimenti e DG; SABAP, soprintendenze archivistiche, Archivi di Stato e autonomia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 03 | N-IR04-03-01 | Patrimonio culturale, principi e architettura del Codice | Art. 10 per categorie; presupposti e tutela interinale, verifica/dichiarazione, divieti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 03 | N-IR04-03-02 | Beni culturali: nozione, appartenenza e categorie principali | Art. 10 per categorie; presupposti e tutela interinale, verifica/dichiarazione, divieti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 03 | N-IR04-03-03 | Accertamento dell'interesse culturale: verifica, dichiarazione e regime del bene | Art. 10 per categorie; presupposti e tutela interinale, verifica/dichiarazione, divieti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 03 | N-IR04-03-04 | Tutela, conservazione, fruizione e valorizzazione | Art. 10 per categorie; presupposti e tutela interinale, verifica/dichiarazione, divieti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 03 | N-IR04-03-05 | Beni paesaggistici: categorie, pianificazione e autorizzazione | Art. 10 per categorie; presupposti e tutela interinale, verifica/dichiarazione, divieti. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 04 | N-IR04-04-01 | Patrimonio culturale: beni culturali e beni paesaggistici | Compatibilità della valorizzazione e distinzione fra divieto e autorizzazione. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 04 | N-IR04-04-02 | Tutela: riconoscere, proteggere e conservare | Compatibilità della valorizzazione e distinzione fra divieto e autorizzazione. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 04 | N-IR04-04-03 | Valorizzazione: conoscenza, uso pubblico e sviluppo della cultura | Compatibilità della valorizzazione e distinzione fra divieto e autorizzazione. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 04 | N-IR04-04-04 | Fruizione: accesso pubblico, servizi culturali e limiti di compatibilità | Compatibilità della valorizzazione e distinzione fra divieto e autorizzazione. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 04 | N-IR04-04-05 | Paesaggio: territorio, valori e governo delle trasformazioni | Compatibilità della valorizzazione e distinzione fra divieto e autorizzazione. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 05 | N-IR04-05-01 | Procedimento di tutela e funzione amministrativa | Art. 21 aggiornato alla legge 40/2026; termini 30/60/180, alienazione e soglie 50.000/13.500. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 05 | N-IR04-05-02 | Verifica dell’interesse culturale | Art. 21 aggiornato alla legge 40/2026; termini 30/60/180, alienazione e soglie 50.000/13.500. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 05 | N-IR04-05-03 | Dichiarazione dell’interesse culturale | Art. 21 aggiornato alla legge 40/2026; termini 30/60/180, alienazione e soglie 50.000/13.500. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 05 | N-IR04-05-04 | Vincoli, autorizzazioni e controllo sugli interventi | Art. 21 aggiornato alla legge 40/2026; termini 30/60/180, alienazione e soglie 50.000/13.500. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 05 | N-IR04-05-05 | Circolazione giuridica e materiale dei beni culturali | Art. 21 aggiornato alla legge 40/2026; termini 30/60/180, alienazione e soglie 50.000/13.500. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 06 | N-IR04-06-01 | Catalogazione | Metadati descrittivi, standard, master/derivati e doppio controllo integrità/corrispondenza. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 06 | N-IR04-06-02 | Dati e contesto | Metadati descrittivi, standard, master/derivati e doppio controllo integrità/corrispondenza. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 06 | N-IR04-06-03 | Standard e vocabolari | Metadati descrittivi, standard, master/derivati e doppio controllo integrità/corrispondenza. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 06 | N-IR04-06-04 | Digitalizzazione | Metadati descrittivi, standard, master/derivati e doppio controllo integrità/corrispondenza. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 06 | N-IR04-06-05 | Metadati e accesso | Metadati descrittivi, standard, master/derivati e doppio controllo integrità/corrispondenza. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 07 | N-IR04-07-01 | Archivio e documento | Diplomatica essenziale; ISAD/ISAAR, scheda multilivello, scarto, versamento e consultabilità. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 07 | N-IR04-07-02 | Ciclo di vita e fasi archivistiche | Diplomatica essenziale; ISAD/ISAAR, scheda multilivello, scarto, versamento e consultabilità. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 07 | N-IR04-07-03 | Ordinamento e descrizione | Diplomatica essenziale; ISAD/ISAAR, scheda multilivello, scarto, versamento e consultabilità. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 07 | N-IR04-07-04 | Provenienza e rispetto dei fondi | Diplomatica essenziale; ISAD/ISAAR, scheda multilivello, scarto, versamento e consultabilità. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 07 | N-IR04-07-05 | Tutela, consultazione e scarto | Diplomatica essenziale; ISAD/ISAAR, scheda multilivello, scarto, versamento e consultabilità. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 08 | N-IR04-08-01 | Biblioteca e servizio | REICAT/ISBD/UNIMARC/SBNMARC; authority, soggetto, classificazione/collocazione, ILL/DD. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 08 | N-IR04-08-02 | Catalogo e accesso | REICAT/ISBD/UNIMARC/SBNMARC; authority, soggetto, classificazione/collocazione, ILL/DD. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 08 | N-IR04-08-03 | Raccolte e gestione | REICAT/ISBD/UNIMARC/SBNMARC; authority, soggetto, classificazione/collocazione, ILL/DD. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 08 | N-IR04-08-04 | Servizi al pubblico | REICAT/ISBD/UNIMARC/SBNMARC; authority, soggetto, classificazione/collocazione, ILL/DD. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 08 | N-IR04-08-05 | Reference e inclusione | REICAT/ISBD/UNIMARC/SBNMARC; authority, soggetto, classificazione/collocazione, ILL/DD. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 09 | N-IR04-09-01 | Archeologia come conoscenza del territorio | US positive/negative e sequenza 10→12→13; ritrovamento entro 24 ore e custodia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 09 | N-IR04-09-02 | Rinvenimenti e prudenza amministrativa | US positive/negative e sequenza 10→12→13; ritrovamento entro 24 ore e custodia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 09 | N-IR04-09-03 | Tutela territoriale e decisione pubblica | US positive/negative e sequenza 10→12→13; ritrovamento entro 24 ore e custodia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 09 | N-IR04-09-04 | Archeologia preventiva e lavori pubblici | US positive/negative e sequenza 10→12→13; ritrovamento entro 24 ore e custodia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 09 | N-IR04-09-05 | Risposta concorsuale e output operativo | US positive/negative e sequenza 10→12→13; ritrovamento entro 24 ore e custodia. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 10 | N-IR04-10-01 | Metodo di lettura dell'opera | Scheda Botticelli con cronologia, tecnica e incertezza; lettura e correzione guidata. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 10 | N-IR04-10-02 | Museo, collezione e patrimonio come servizio pubblico | Scheda Botticelli con cronologia, tecnica e incertezza; lettura e correzione guidata. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 10 | N-IR04-10-03 | Allestimento, percorso e mediazione culturale | Scheda Botticelli con cronologia, tecnica e incertezza; lettura e correzione guidata. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 10 | N-IR04-10-04 | Conservazione preventiva, documentazione e cura materiale | Scheda Botticelli con cronologia, tecnica e incertezza; lettura e correzione guidata. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 10 | N-IR04-10-05 | Fruizione, accessibilità e output del candidato | Scheda Botticelli con cronologia, tecnica e incertezza; lettura e correzione guidata. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 11 | N-IR04-11-01 | Conservazione come funzione permanente | Art. 29 e caso prevenzione/manutenzione/restauro; competenze professionali. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 11 | N-IR04-11-02 | Prevenzione e gestione del rischio conservativo | Art. 29 e caso prevenzione/manutenzione/restauro; competenze professionali. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 11 | N-IR04-11-03 | Restauro: significato, limiti e responsabilità | Art. 29 e caso prevenzione/manutenzione/restauro; competenze professionali. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 11 | N-IR04-11-04 | Documentazione, tracciabilità e memoria dell’intervento | Art. 29 e caso prevenzione/manutenzione/restauro; competenze professionali. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 11 | N-IR04-11-05 | Decisione interdisciplinare e responsabilità pubblica | Art. 29 e caso prevenzione/manutenzione/restauro; competenze professionali. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 12 | N-IR04-12-01 | Architettura storica e funzione amministrativa | Prova amministrativa distinta da tecnica; doppia consegna e atti del cantiere. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 12 | N-IR04-12-02 | Paesaggio come interesse pubblico | Prova amministrativa distinta da tecnica; doppia consegna e atti del cantiere. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 12 | N-IR04-12-03 | Trasformazioni e compatibilità amministrativa | Prova amministrativa distinta da tecnica; doppia consegna e atti del cantiere. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 12 | N-IR04-12-04 | Cantieri e presidio amministrativo | Prova amministrativa distinta da tecnica; doppia consegna e atti del cantiere. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 12 | N-IR04-12-05 | Tutela, valorizzazione e decisione pubblica | Prova amministrativa distinta da tecnica; doppia consegna e atti del cantiere. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 13 | N-IR04-13-01 | Fruizione organizzata | Art. 20 D.Lgs. 81: lavoratore/addetto, piano locale e caso odore di bruciato. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 13 | N-IR04-13-02 | Vigilanza e presidio | Art. 20 D.Lgs. 81: lavoratore/addetto, piano locale e caso odore di bruciato. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 13 | N-IR04-13-03 | Sicurezza organizzativa | Art. 20 D.Lgs. 81: lavoratore/addetto, piano locale e caso odore di bruciato. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 13 | N-IR04-13-04 | Accessibilita' e comunicazione | Art. 20 D.Lgs. 81: lavoratore/addetto, piano locale e caso odore di bruciato. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
+| 13 | N-IR04-13-05 | Flussi e miglioramento | Art. 20 D.Lgs. 81: lavoratore/addetto, piano locale e caso odore di bruciato. | Q:6 C:1 E:1 nel capitolo | completo nel perimetro |
 
-## Evidenza di copertura - capitolo 01
+Rinvio per i livelli di progettazione: [[books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche#N-TR03-07-03 · I livelli della progettazione]]. Non promette copertura di ogni tecnica di restauro o progettazione specialistica.
 
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-01-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 01 |
-| N-IR04-01-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 02 |
-| N-IR04-01-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 03 |
-| N-IR04-01-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 04 |
-| N-IR04-01-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e sezioni del nucleo 05 e verifica finale |
+13 capitoli, 65 nuclei, 78 quiz. Review normativa selettiva documentata nella fonte; dati e standard verificati nelle parti dichiarate. Nuovo PDF e controllo finale ancora necessari.
 
-Delta di redazione: la riga "MiC e profili" e' ora coperta dal capitolo 01 con cinque nuclei, tre casi e sette quiz commentati. Restano da redigere e verificare i capitoli 02-13.
-
-## Evidenza di copertura - capitolo 02
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-02-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e applicazione del nucleo 01 |
-| N-IR04-02-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e caso del nucleo 02 |
-| N-IR04-02-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e domanda del nucleo 03 |
-| N-IR04-02-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e caso del nucleo 04 |
-| N-IR04-02-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading, caso ragionato e verifica del nucleo 05 |
-
-Delta di redazione: la riga "Organizzazione" e' ora coperta dal capitolo 02 con cinque nuclei, tre casi e sette quiz commentati. Restano da redigere e verificare i capitoli 03-13.
-
-## Evidenza di copertura - capitolo 03
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-03-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e box del nucleo 01 |
-| N-IR04-03-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e classificazioni del nucleo 02 |
-| N-IR04-03-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e caso del nucleo 03 |
-| N-IR04-03-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading e caso del nucleo 04 |
-| N-IR04-03-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | heading, caso e verifica del nucleo 05 |
-
-Delta di redazione: la riga "Codice dei beni culturali" e' ora coperta dal capitolo 03 con cinque nuclei, due casi e sette quiz commentati. Restano da redigere e verificare i capitoli 04-13.
-
-## Evidenza di copertura - capitolo 05
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-05-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 01: sequenza bene, istruttoria, provvedimento ed effetti |
-| N-IR04-05-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 02: verifica, soggetti ed esito del procedimento |
-| N-IR04-05-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 03: dichiarazione, motivazione e regime conseguente |
-| N-IR04-05-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 04: vincoli, autorizzazioni e controllo preventivo |
-| N-IR04-05-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 05, caso guidato e verifica finale |
-
-Delta di redazione: la riga "Procedimenti" è coperta dal capitolo 05 con cinque nuclei, un caso guidato e sette quiz commentati.
-
-## Evidenza di copertura - capitolo 06
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-06-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 01: catalogazione, inventariazione e gestione |
-| N-IR04-06-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 02: dati descrittivi, contesto e qualità |
-| N-IR04-06-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 03: standard, schede e vocabolari |
-| N-IR04-06-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 04: processo di digitalizzazione e controlli |
-| N-IR04-06-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | nucleo 05, caso guidato e verifica finale |
-
-Delta di redazione: la riga "Catalogazione" è coperta dal capitolo 06 con cinque nuclei, un caso ragionato e sette quiz commentati.
-
-## Evidenza di copertura - capitolo 07
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-07-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | archivio, documento e distinzioni di base |
-| N-IR04-07-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ciclo di vita documentale e fasi |
-| N-IR04-07-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ordinamento, descrizione e strumenti di ricerca |
-| N-IR04-07-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | provenienza e rispetto dei fondi |
-| N-IR04-07-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | tutela, caso guidato e verifica finale |
-
-Delta di redazione: la riga "Archivi" è coperta dal capitolo 07 con cinque nuclei, casi guidati e sette quiz commentati.
-
-## Evidenza di copertura - capitolo 08
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-08-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | biblioteca e servizio |
-| N-IR04-08-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | catalogo e accesso |
-| N-IR04-08-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | raccolte e gestione |
-| N-IR04-08-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | servizi al pubblico |
-| N-IR04-08-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | reference, inclusione e verifica |
-
-Delta di redazione: la riga "Biblioteche" è coperta dal capitolo 08 con cinque nuclei, un caso ragionato e sette quiz commentati.
-
-## Evidenza di copertura - capitolo 09
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-09-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | archeologia e territorio |
-| N-IR04-09-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | rinvenimenti e cautele |
-| N-IR04-09-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | tutela territoriale |
-| N-IR04-09-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | archeologia preventiva |
-| N-IR04-09-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | caso e verifica finale |
-
-Delta di redazione: la riga "Archeologia" è coperta dal capitolo 09 con cinque nuclei, un caso ragionato e sette quiz commentati.
-
-## Evidenza di copertura - capitolo 10
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-10-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | lettura dell'opera |
-| N-IR04-10-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | museo e collezione |
-| N-IR04-10-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | allestimento e mediazione |
-| N-IR04-10-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | conservazione e cura |
-| N-IR04-10-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | fruizione e verifica |
-
-Delta di redazione: la riga "Museologia" è coperta dal capitolo 10 con cinque nuclei, due casi e otto quiz commentati.
-
-## Evidenza di copertura - capitolo 11
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-11-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | conservazione e responsabilità |
-| N-IR04-11-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | prevenzione e rischio |
-| N-IR04-11-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | restauro e limiti |
-| N-IR04-11-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | documentazione e tracciabilità |
-| N-IR04-11-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | decisione e verifica |
-
-Delta di redazione: la riga "Restauro" è coperta dal capitolo 11 con cinque nuclei, un caso e sette quiz commentati.
-
-## Evidenza di copertura - capitolo 12
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-12-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | architettura e contesto |
-| N-IR04-12-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | paesaggio e interesse pubblico |
-| N-IR04-12-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | trasformazioni e compatibilità |
-| N-IR04-12-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | cantieri e ruoli |
-| N-IR04-12-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | decisione e verifica |
-
-Delta di redazione: la riga "Architettura e paesaggio" è coperta dal capitolo 12 con cinque nuclei, un caso e sette quiz commentati.
-
-## Evidenza di copertura - capitolo 13
-
-| Nucleo ID | Definizione | Funzione | Inquadramento | Elementi e distinzioni | Conseguenze | Caso | Uso nella prova | Errore tipico | Verifica | Evidenza |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N-IR04-13-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | fruizione come servizio pubblico |
-| N-IR04-13-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | vigilanza e presidio |
-| N-IR04-13-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | sicurezza organizzativa |
-| N-IR04-13-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | accessibilita e comunicazione |
-| N-IR04-13-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | flussi, caso e verifica |
-
-Delta di redazione: la riga "Fruizione, vigilanza e sicurezza" è coperta dal capitolo 13 con cinque nuclei, un caso ragionato e sette quiz commentati.
+Step 15 passato con zero blocker e warning. Il manifest corrente identifica il testo congelato; la verifica del nuovo PDF resta distinta.

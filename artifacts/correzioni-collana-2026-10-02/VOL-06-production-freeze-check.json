@@ -1,0 +1,252 @@
+[
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+    "match": true
+  },
+  {
+    "module": "M-IR01",
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+    "match": true
+  },
+  {
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+    "match": true
+  },
+  {
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+    "match": true
+  }
+]

@@ -1,0 +1,1252 @@
+{
+  "tomo": "tomo-1",
+  "pdfSha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+  "pages": 700,
+  "indexEntries": [
+    {
+      "number": "Cap. 1",
+      "title": "Come usare questo tomo insieme a VOL-01",
+      "printedPage": 11,
+      "actualPage": 11,
+      "match": true
+    },
+    {
+      "number": "Cap. 2",
+      "title": "Bando Decoder territoriale",
+      "printedPage": 13,
+      "actualPage": 13,
+      "match": true
+    },
+    {
+      "number": "Cap. 3",
+      "title": "Piano 30/60/90 giorni per VOL-02",
+      "printedPage": 17,
+      "actualPage": 17,
+      "match": true
+    },
+    {
+      "number": "Cap. 4",
+      "title": "TUEL operativo: autonomia, organi e funzioni del Comune",
+      "printedPage": 22,
+      "actualPage": 22,
+      "match": true
+    },
+    {
+      "number": "Cap. 5",
+      "title": "Statuto, regolamenti e autonomia normativa locale",
+      "printedPage": 36,
+      "actualPage": 36,
+      "match": true
+    },
+    {
+      "number": "Cap. 6",
+      "title": "Organizzazione comunale, uffici, servizi e gestioni associate",
+      "printedPage": 53,
+      "actualPage": 53,
+      "match": true
+    },
+    {
+      "number": "Cap. 7",
+      "title": "Deliberazioni, determinazioni, decreti, ordinanze e pareri",
+      "printedPage": 69,
+      "actualPage": 69,
+      "match": true
+    },
+    {
+      "number": "Cap. 8",
+      "title": "Procedimento locale, protocollo, albo, URP e accesso",
+      "printedPage": 85,
+      "actualPage": 85,
+      "match": true
+    },
+    {
+      "number": "Cap. 9",
+      "title": "Servizi digitali comunali, CAD, ANPR e gestione documentale",
+      "printedPage": 103,
+      "actualPage": 103,
+      "match": true
+    },
+    {
+      "number": "Cap. 10",
+      "title": "Servizi demografici ed elettorali",
+      "printedPage": 122,
+      "actualPage": 122,
+      "match": true
+    },
+    {
+      "number": "Cap. 11",
+      "title": "Welfare locale, servizi sociali, ISEE, minori e servizi educativi",
+      "printedPage": 141,
+      "actualPage": 141,
+      "match": true
+    },
+    {
+      "number": "11.1",
+      "title": "Sistema integrato e governance del welfare locale",
+      "printedPage": 144,
+      "actualPage": 144,
+      "match": true
+    },
+    {
+      "number": "11.2",
+      "title": "Accesso, ISEE, DSU e controlli",
+      "printedPage": 147,
+      "actualPage": 147,
+      "match": true
+    },
+    {
+      "number": "11.3",
+      "title": "Atti, presa in carico e tutela di minori e famiglie",
+      "printedPage": 149,
+      "actualPage": 149,
+      "match": true
+    },
+    {
+      "number": "11.4",
+      "title": "Servizi educativi, graduatorie e gestione con il terzo settore",
+      "printedPage": 153,
+      "actualPage": 153,
+      "match": true
+    },
+    {
+      "number": "11.5",
+      "title": "Dati sociali, riservatezza e accesso agli atti",
+      "printedPage": 156,
+      "actualPage": 156,
+      "match": true
+    },
+    {
+      "number": "11.6",
+      "title": "Istruttoria applicata e risposta da concorso",
+      "printedPage": 159,
+      "actualPage": 159,
+      "match": true
+    },
+    {
+      "number": "Cap. 12",
+      "title": "Programmazione integrata comunale: DUP, bilancio, PEG, PIAO e performance",
+      "printedPage": 167,
+      "actualPage": 167,
+      "match": true
+    },
+    {
+      "number": "12.1",
+      "title": "Programmazione comunale, catena operativa e competenze",
+      "printedPage": 169,
+      "actualPage": 169,
+      "match": true
+    },
+    {
+      "number": "12.2",
+      "title": "DUP: strategia, operatività e raccordo con il bilancio",
+      "printedPage": 171,
+      "actualPage": 171,
+      "match": true
+    },
+    {
+      "number": "12.3",
+      "title": "Bilancio di previsione e armonizzazione contabile",
+      "printedPage": 173,
+      "actualPage": 173,
+      "match": true
+    },
+    {
+      "number": "12.4",
+      "title": "PEG, obiettivi, dotazioni e responsabilità gestionale",
+      "printedPage": 176,
+      "actualPage": 176,
+      "match": true
+    },
+    {
+      "number": "12.5",
+      "title": "PIAO, valore pubblico e capacità organizzativa",
+      "printedPage": 178,
+      "actualPage": 178,
+      "match": true
+    },
+    {
+      "number": "12.6",
+      "title": "Performance, indicatori e programmazione applicata",
+      "printedPage": 180,
+      "actualPage": 180,
+      "match": true
+    },
+    {
+      "number": "Cap. 13",
+      "title": "Gestione finanziaria, rendiconto, tesoreria e controlli",
+      "printedPage": 187,
+      "actualPage": 187,
+      "match": true
+    },
+    {
+      "number": "13.1",
+      "title": "Ciclo finanziario, fasi, atti e responsabilità",
+      "printedPage": 188,
+      "actualPage": 188,
+      "match": true
+    },
+    {
+      "number": "13.2",
+      "title": "Competenza, esigibilità, cassa, residui e riaccertamento",
+      "printedPage": 190,
+      "actualPage": 190,
+      "match": true
+    },
+    {
+      "number": "13.3",
+      "title": "FPV, FCDE, variazioni ed equilibri",
+      "printedPage": 192,
+      "actualPage": 192,
+      "match": true
+    },
+    {
+      "number": "13.4",
+      "title": "Tesoreria, ordinativi e tracciabilità dei flussi",
+      "printedPage": 196,
+      "actualPage": 196,
+      "match": true
+    },
+    {
+      "number": "13.5",
+      "title": "Rendiconto e risultato di amministrazione",
+      "printedPage": 198,
+      "actualPage": 198,
+      "match": true
+    },
+    {
+      "number": "13.6",
+      "title": "Revisione economico-finanziaria e controlli interni",
+      "printedPage": 200,
+      "actualPage": 200,
+      "match": true
+    },
+    {
+      "number": "13.7",
+      "title": "Corte dei conti, agenti contabili e caso integrato",
+      "printedPage": 202,
+      "actualPage": 202,
+      "match": true
+    },
+    {
+      "number": "Cap. 14",
+      "title": "Entrate, tributi locali, patrimonio, economato e riscossione",
+      "printedPage": 210,
+      "actualPage": 210,
+      "match": true
+    },
+    {
+      "number": "14.1",
+      "title": "Sistema delle entrate, autonomia e competenze",
+      "printedPage": 211,
+      "actualPage": 211,
+      "match": true
+    },
+    {
+      "number": "14.2",
+      "title": "Tributi locali ricorrenti e atti comunali",
+      "printedPage": 213,
+      "actualPage": 213,
+      "match": true
+    },
+    {
+      "number": "14.3",
+      "title": "Canoni, tariffe ed entrate patrimoniali",
+      "printedPage": 217,
+      "actualPage": 217,
+      "match": true
+    },
+    {
+      "number": "14.4",
+      "title": "Riscossione, recupero e qualità dei crediti",
+      "printedPage": 218,
+      "actualPage": 218,
+      "match": true
+    },
+    {
+      "number": "14.5",
+      "title": "Regime dei beni, inventario e consegnatari",
+      "printedPage": 220,
+      "actualPage": 220,
+      "match": true
+    },
+    {
+      "number": "14.6",
+      "title": "Uso, valorizzazione e alienazione dei beni",
+      "printedPage": 222,
+      "actualPage": 222,
+      "match": true
+    },
+    {
+      "number": "14.7",
+      "title": "Economato, agenti contabili e applicazione integrata",
+      "printedPage": 224,
+      "actualPage": 224,
+      "match": true
+    },
+    {
+      "number": "Cap. 15",
+      "title": "Procurement operativo dell’ufficio comunale",
+      "printedPage": 233,
+      "actualPage": 233,
+      "match": true
+    },
+    {
+      "number": "15.1",
+      "title": "Ciclo del procurement, principi, fabbisogno e programmazione",
+      "printedPage": 234,
+      "actualPage": 234,
+      "match": true
+    },
+    {
+      "number": "15.2",
+      "title": "Soggetti, RUP e responsabilità nel Comune",
+      "printedPage": 236,
+      "actualPage": 236,
+      "match": true
+    },
+    {
+      "number": "15.3",
+      "title": "Oggetto, istruttoria e decisione di contrarre",
+      "printedPage": 237,
+      "actualPage": 237,
+      "match": true
+    },
+    {
+      "number": "15.4",
+      "title": "Affidamento diretto, mercato, rotazione e requisiti",
+      "printedPage": 239,
+      "actualPage": 239,
+      "match": true
+    },
+    {
+      "number": "15.5",
+      "title": "CIG, piattaforme e ciclo digitale del contratto",
+      "printedPage": 241,
+      "actualPage": 241,
+      "match": true
+    },
+    {
+      "number": "15.6",
+      "title": "Consip, MEPA, tracciabilità, trasparenza e fascicolo",
+      "printedPage": 243,
+      "actualPage": 243,
+      "match": true
+    },
+    {
+      "number": "15.7",
+      "title": "Esecuzione, verifica, liquidazione e pagamento",
+      "printedPage": 245,
+      "actualPage": 245,
+      "match": true
+    },
+    {
+      "number": "Cap. 16",
+      "title": "Territorio, patrimonio, edilizia e lavori: interfaccia amministrativa",
+      "printedPage": 253,
+      "actualPage": 253,
+      "match": true
+    },
+    {
+      "number": "16.1",
+      "title": "Inquadramento del territorio e confine dell’interfaccia amministrativa",
+      "printedPage": 256,
+      "actualPage": 256,
+      "match": true
+    },
+    {
+      "number": "16.2",
+      "title": "SUE, SUAP, uffici e coordinamento",
+      "printedPage": 258,
+      "actualPage": 258,
+      "match": true
+    },
+    {
+      "number": "16.3",
+      "title": "Titoli e procedimenti edilizi essenziali",
+      "printedPage": 261,
+      "actualPage": 261,
+      "match": true
+    },
+    {
+      "number": "16.4",
+      "title": "Vigilanza edilizia, accertamenti e raccordo fra uffici",
+      "printedPage": 264,
+      "actualPage": 264,
+      "match": true
+    },
+    {
+      "number": "16.5",
+      "title": "Regime, destinazione e uso dei beni comunali",
+      "printedPage": 267,
+      "actualPage": 267,
+      "match": true
+    },
+    {
+      "number": "16.6",
+      "title": "Lavori pubblici e manutenzioni nel Comune",
+      "printedPage": 270,
+      "actualPage": 270,
+      "match": true
+    },
+    {
+      "number": "16.7",
+      "title": "Metodo integrato per le pratiche territoriali",
+      "printedPage": 274,
+      "actualPage": 274,
+      "match": true
+    },
+    {
+      "number": "Cap. 17",
+      "title": "Laboratorio teorico-pratico per i quattro profili comunali",
+      "printedPage": 289,
+      "actualPage": 289,
+      "match": true
+    },
+    {
+      "number": "17.1",
+      "title": "Leggere il bando e riconoscere il profilo reale",
+      "printedPage": 290,
+      "actualPage": 290,
+      "match": true
+    },
+    {
+      "number": "17.2",
+      "title": "Costruire, eseguire e correggere una simulazione",
+      "printedPage": 294,
+      "actualPage": 294,
+      "match": true
+    },
+    {
+      "number": "17.3",
+      "title": "Profilo amministrativo: procedimento, accesso e atto",
+      "printedPage": 296,
+      "actualPage": 296,
+      "match": true
+    },
+    {
+      "number": "17.4",
+      "title": "Profilo contabile: risorse, spesa e controllo",
+      "printedPage": 299,
+      "actualPage": 299,
+      "match": true
+    },
+    {
+      "number": "17.5",
+      "title": "Profilo tecnico di interfaccia: territorio, patrimonio e SUAP",
+      "printedPage": 305,
+      "actualPage": 305,
+      "match": true
+    },
+    {
+      "number": "17.6",
+      "title": "Profilo servizi locali: domanda, istruttoria e cittadino",
+      "printedPage": 308,
+      "actualPage": 308,
+      "match": true
+    },
+    {
+      "number": "17.7",
+      "title": "Prova mista, correzione e recupero",
+      "printedPage": 310,
+      "actualPage": 310,
+      "match": true
+    },
+    {
+      "number": "Cap. 18",
+      "title": "Il sistema territoriale multilivello",
+      "printedPage": 322,
+      "actualPage": 322,
+      "match": true
+    },
+    {
+      "number": "18.1",
+      "title": "La Repubblica delle autonomie territoriali",
+      "printedPage": 324,
+      "actualPage": 324,
+      "match": true
+    },
+    {
+      "number": "18.2",
+      "title": "Sussidiarietà, differenziazione e adeguatezza",
+      "printedPage": 326,
+      "actualPage": 326,
+      "match": true
+    },
+    {
+      "number": "18.3",
+      "title": "La Regione tra legislazione, programmazione e amministrazione",
+      "printedPage": 328,
+      "actualPage": 328,
+      "match": true
+    },
+    {
+      "number": "18.4",
+      "title": "Province e Città metropolitane: la scala di area vasta",
+      "printedPage": 331,
+      "actualPage": 331,
+      "match": true
+    },
+    {
+      "number": "18.5",
+      "title": "Il Comune nella catena multilivello",
+      "printedPage": 333,
+      "actualPage": 333,
+      "match": true
+    },
+    {
+      "number": "18.6",
+      "title": "Il Bando Decoder regionale e di area vasta",
+      "printedPage": 335,
+      "actualPage": 335,
+      "match": true
+    },
+    {
+      "number": "18.7",
+      "title": "Dalla competenza all’output di prova",
+      "printedPage": 337,
+      "actualPage": 337,
+      "match": true
+    },
+    {
+      "number": "Cap. 19",
+      "title": "Statuti, organi e organizzazione regionale",
+      "printedPage": 344,
+      "actualPage": 344,
+      "match": true
+    },
+    {
+      "number": "19.1",
+      "title": "Statuto e fonti dell’organizzazione regionale",
+      "printedPage": 346,
+      "actualPage": 346,
+      "match": true
+    },
+    {
+      "number": "19.2",
+      "title": "Organi necessari e Consiglio regionale",
+      "printedPage": 348,
+      "actualPage": 348,
+      "match": true
+    },
+    {
+      "number": "19.3",
+      "title": "Giunta, Presidente e supporto agli organi politici",
+      "printedPage": 350,
+      "actualPage": 350,
+      "match": true
+    },
+    {
+      "number": "19.4",
+      "title": "Direzioni, dipartimenti, settori e uffici",
+      "printedPage": 352,
+      "actualPage": 352,
+      "match": true
+    },
+    {
+      "number": "19.5",
+      "title": "Indirizzo politico e gestione dirigenziale",
+      "printedPage": 354,
+      "actualPage": 354,
+      "match": true
+    },
+    {
+      "number": "19.6",
+      "title": "Agenzie, enti dipendenti e organismi strumentali",
+      "printedPage": 356,
+      "actualPage": 356,
+      "match": true
+    },
+    {
+      "number": "19.7",
+      "title": "Dalla fonte all’atto: metodo e casi di prova",
+      "printedPage": 358,
+      "actualPage": 358,
+      "match": true
+    },
+    {
+      "number": "Cap. 20",
+      "title": "Funzioni regionali e rapporti con Stato ed enti locali",
+      "printedPage": 370,
+      "actualPage": 370,
+      "match": true
+    },
+    {
+      "number": "20.1",
+      "title": "Materia, competenza, funzione, livello e atto",
+      "printedPage": 372,
+      "actualPage": 372,
+      "match": true
+    },
+    {
+      "number": "20.2",
+      "title": "Il riparto della potestà legislativa tra Stato e Regioni",
+      "printedPage": 374,
+      "actualPage": 374,
+      "match": true
+    },
+    {
+      "number": "20.3",
+      "title": "Funzioni amministrative e scelta del livello adeguato",
+      "printedPage": 376,
+      "actualPage": 376,
+      "match": true
+    },
+    {
+      "number": "20.4",
+      "title": "Leale collaborazione e strumenti di raccordo",
+      "printedPage": 378,
+      "actualPage": 378,
+      "match": true
+    },
+    {
+      "number": "20.5",
+      "title": "Rapporti tra Regione ed enti locali",
+      "printedPage": 381,
+      "actualPage": 381,
+      "match": true
+    },
+    {
+      "number": "20.6",
+      "title": "Garanzie unitarie e articolazione territoriale",
+      "printedPage": 383,
+      "actualPage": 383,
+      "match": true
+    },
+    {
+      "number": "20.7",
+      "title": "Metodo soggetto-funzione-atto e casi di prova",
+      "printedPage": 386,
+      "actualPage": 386,
+      "match": true
+    },
+    {
+      "number": "Cap. 21",
+      "title": "Procedimenti, atti e organizzazione amministrativa regionale",
+      "printedPage": 397,
+      "actualPage": 397,
+      "match": true
+    },
+    {
+      "number": "21.1",
+      "title": "Il procedimento regionale come flusso operativo",
+      "printedPage": 399,
+      "actualPage": 399,
+      "match": true
+    },
+    {
+      "number": "21.2",
+      "title": "Organizzazione, responsabile del procedimento e dirigenza",
+      "printedPage": 402,
+      "actualPage": 402,
+      "match": true
+    },
+    {
+      "number": "21.3",
+      "title": "Deliberazioni, decreti, determinazioni e atti gestionali",
+      "printedPage": 403,
+      "actualPage": 403,
+      "match": true
+    },
+    {
+      "number": "21.4",
+      "title": "Avvisi, bandi, graduatorie e concessioni",
+      "printedPage": 406,
+      "actualPage": 406,
+      "match": true
+    },
+    {
+      "number": "21.5",
+      "title": "Istruttoria, pareri, controlli e raccordi interni",
+      "printedPage": 409,
+      "actualPage": 409,
+      "match": true
+    },
+    {
+      "number": "21.6",
+      "title": "Destinatari e procedimento digitale",
+      "printedPage": 411,
+      "actualPage": 411,
+      "match": true
+    },
+    {
+      "number": "21.7",
+      "title": "Mini-relazione, schema e casi di prova",
+      "printedPage": 413,
+      "actualPage": 413,
+      "match": true
+    },
+    {
+      "number": "Cap. 22",
+      "title": "Programmazione, bilancio e controlli regionali",
+      "printedPage": 425,
+      "actualPage": 425,
+      "match": true
+    },
+    {
+      "number": "22.1",
+      "title": "Finanza regionale e principi costituzionali",
+      "printedPage": 427,
+      "actualPage": 427,
+      "match": true
+    },
+    {
+      "number": "22.2",
+      "title": "DEFR e programmazione regionale",
+      "printedPage": 430,
+      "actualPage": 430,
+      "match": true
+    },
+    {
+      "number": "22.3",
+      "title": "Bilancio di previsione e gestione",
+      "printedPage": 432,
+      "actualPage": 432,
+      "match": true
+    },
+    {
+      "number": "22.4",
+      "title": "Fondi vincolati, risorse europee e perimetro sanitario",
+      "printedPage": 436,
+      "actualPage": 436,
+      "match": true
+    },
+    {
+      "number": "22.5",
+      "title": "Rendiconto, controlli e parifica",
+      "printedPage": 438,
+      "actualPage": 438,
+      "match": true
+    },
+    {
+      "number": "22.6",
+      "title": "Responsabilità, metodo operativo e casi",
+      "printedPage": 440,
+      "actualPage": 440,
+      "match": true
+    },
+    {
+      "number": "Cap. 23",
+      "title": "Tecnica legislativa, AIR/VIR e drafting",
+      "printedPage": 452,
+      "actualPage": 452,
+      "match": true
+    },
+    {
+      "number": "23.1",
+      "title": "Competenza, fonte e problema pubblico",
+      "printedPage": 453,
+      "actualPage": 453,
+      "match": true
+    },
+    {
+      "number": "23.2",
+      "title": "AIR, consultazione e istruttoria ex ante",
+      "printedPage": 455,
+      "actualPage": 455,
+      "match": true
+    },
+    {
+      "number": "23.3",
+      "title": "VIR, monitoraggio e clausole valutative",
+      "printedPage": 458,
+      "actualPage": 458,
+      "match": true
+    },
+    {
+      "number": "23.4",
+      "title": "Drafting e manutenzione del testo",
+      "printedPage": 460,
+      "actualPage": 460,
+      "match": true
+    },
+    {
+      "number": "23.5",
+      "title": "Scheda operativa, laboratorio e casi",
+      "printedPage": 466,
+      "actualPage": 466,
+      "match": true
+    },
+    {
+      "number": "Cap. 24",
+      "title": "Politiche di coesione e fondi UE",
+      "printedPage": 476,
+      "actualPage": 476,
+      "match": true
+    },
+    {
+      "number": "24.1",
+      "title": "Politiche di coesione e quadro 2021-2027",
+      "printedPage": 478,
+      "actualPage": 478,
+      "match": true
+    },
+    {
+      "number": "24.2",
+      "title": "Dal programma all’avviso e alla selezione",
+      "printedPage": 482,
+      "actualPage": 482,
+      "match": true
+    },
+    {
+      "number": "24.3",
+      "title": "Monitoraggio, trasparenza e rendicontazione",
+      "printedPage": 486,
+      "actualPage": 486,
+      "match": true
+    },
+    {
+      "number": "24.4",
+      "title": "Controlli, qualificazione e raccordo finanziario",
+      "printedPage": 488,
+      "actualPage": 488,
+      "match": true
+    },
+    {
+      "number": "24.5",
+      "title": "Catena operativa, casi e output concorsuali",
+      "printedPage": 492,
+      "actualPage": 492,
+      "match": true
+    },
+    {
+      "number": "Cap. 25",
+      "title": "PNRR territoriale, ReGiS, DNSH e controlli",
+      "printedPage": 503,
+      "actualPage": 503,
+      "match": true
+    },
+    {
+      "number": "25.1",
+      "title": "PNRR territoriale e ciclo progetto-spesa-risultato",
+      "printedPage": 505,
+      "actualPage": 505,
+      "match": true
+    },
+    {
+      "number": "25.2",
+      "title": "Soggetti, ReGiS e qualità del dato",
+      "printedPage": 509,
+      "actualPage": 509,
+      "match": true
+    },
+    {
+      "number": "25.3",
+      "title": "Contratti, pagamenti e controlli PNRR",
+      "printedPage": 514,
+      "actualPage": 514,
+      "match": true
+    },
+    {
+      "number": "25.4",
+      "title": "Regione, bilancio, trasparenza e anticorruzione",
+      "printedPage": 517,
+      "actualPage": 517,
+      "match": true
+    },
+    {
+      "number": "25.5",
+      "title": "Catena operativa, casi e output concorsuali",
+      "printedPage": 519,
+      "actualPage": 519,
+      "match": true
+    },
+    {
+      "number": "Cap. 26",
+      "title": "Province e Città metropolitane dopo la L. 56/2014",
+      "printedPage": 530,
+      "actualPage": 530,
+      "match": true
+    },
+    {
+      "number": "26.1",
+      "title": "L. 56/2014 e nozione di area vasta",
+      "printedPage": 531,
+      "actualPage": 531,
+      "match": true
+    },
+    {
+      "number": "26.2",
+      "title": "Provincia: organi, funzioni e funzionamento",
+      "printedPage": 532,
+      "actualPage": 532,
+      "match": true
+    },
+    {
+      "number": "26.3",
+      "title": "Città metropolitana: organi, strategia e funzioni",
+      "printedPage": 535,
+      "actualPage": 535,
+      "match": true
+    },
+    {
+      "number": "26.4",
+      "title": "Confronto e rapporti multilivello",
+      "printedPage": 537,
+      "actualPage": 537,
+      "match": true
+    },
+    {
+      "number": "26.5",
+      "title": "Metodo di scelta del livello, casi e verifica",
+      "printedPage": 539,
+      "actualPage": 539,
+      "match": true
+    },
+    {
+      "number": "Cap. 27",
+      "title": "Viabilità, edilizia scolastica, territorio ed espropri",
+      "printedPage": 548,
+      "actualPage": 548,
+      "match": true
+    },
+    {
+      "number": "27.1",
+      "title": "Funzioni tecniche di area vasta e metodo del fascicolo",
+      "printedPage": 549,
+      "actualPage": 549,
+      "match": true
+    },
+    {
+      "number": "27.2",
+      "title": "Viabilità ed edilizia scolastica",
+      "printedPage": 551,
+      "actualPage": 551,
+      "match": true
+    },
+    {
+      "number": "27.3",
+      "title": "Territorio, pianificazione e vincoli",
+      "printedPage": 553,
+      "actualPage": 553,
+      "match": true
+    },
+    {
+      "number": "27.4",
+      "title": "Espropriazione e garanzie procedimentali",
+      "printedPage": 555,
+      "actualPage": 555,
+      "match": true
+    },
+    {
+      "number": "27.5",
+      "title": "Progetto, contratto, RUP, casi e verifica",
+      "printedPage": 558,
+      "actualPage": 558,
+      "match": true
+    },
+    {
+      "number": "Cap. 28",
+      "title": "Contratti, servizi pubblici locali e società partecipate",
+      "printedPage": 567,
+      "actualPage": 567,
+      "match": true
+    },
+    {
+      "number": "28.1",
+      "title": "Tre piani e qualificazione della scelta pubblica",
+      "printedPage": 568,
+      "actualPage": 568,
+      "match": true
+    },
+    {
+      "number": "28.2",
+      "title": "Ciclo dei contratti pubblici",
+      "printedPage": 570,
+      "actualPage": 570,
+      "match": true
+    },
+    {
+      "number": "28.3",
+      "title": "Servizi pubblici locali",
+      "printedPage": 572,
+      "actualPage": 572,
+      "match": true
+    },
+    {
+      "number": "28.4",
+      "title": "Società partecipate e controllo dell’ente socio",
+      "printedPage": 574,
+      "actualPage": 574,
+      "match": true
+    },
+    {
+      "number": "28.5",
+      "title": "Tracciabilità, caso integrato e verifica",
+      "printedPage": 578,
+      "actualPage": 578,
+      "match": true
+    },
+    {
+      "number": "Cap. 29",
+      "title": "Laboratorio per i quattro profili regionali e di area vasta",
+      "printedPage": 586,
+      "actualPage": 586,
+      "match": true
+    },
+    {
+      "number": "29.1",
+      "title": "Dal bando al profilo e all’output di prova",
+      "printedPage": 587,
+      "actualPage": 587,
+      "match": true
+    },
+    {
+      "number": "29.2",
+      "title": "Laboratori amministrativo e legislativo regionale",
+      "printedPage": 589,
+      "actualPage": 589,
+      "match": true
+    },
+    {
+      "number": "29.3",
+      "title": "Laboratorio tecnico per territorio e area vasta",
+      "printedPage": 595,
+      "actualPage": 595,
+      "match": true
+    },
+    {
+      "number": "29.4",
+      "title": "Laboratorio fondi UE e PNRR",
+      "printedPage": 597,
+      "actualPage": 597,
+      "match": true
+    },
+    {
+      "number": "29.5",
+      "title": "Dalla simulazione alla prestazione concorsuale",
+      "printedPage": 599,
+      "actualPage": 599,
+      "match": true
+    },
+    {
+      "number": "Cap. 30",
+      "title": "Camere di commercio, sistema camerale e Unioncamere",
+      "printedPage": 608,
+      "actualPage": 608,
+      "match": true
+    },
+    {
+      "number": "30.1",
+      "title": "Camera di commercio e autonomia funzionale",
+      "printedPage": 611,
+      "actualPage": 611,
+      "match": true
+    },
+    {
+      "number": "30.2",
+      "title": "Sistema camerale, unioni regionali e Unioncamere",
+      "printedPage": 613,
+      "actualPage": 613,
+      "match": true
+    },
+    {
+      "number": "30.3",
+      "title": "Funzioni camerali, imprese e mercato",
+      "printedPage": 615,
+      "actualPage": 615,
+      "match": true
+    },
+    {
+      "number": "30.4",
+      "title": "Territorio, Comune, SUAP e servizi digitali",
+      "printedPage": 618,
+      "actualPage": 618,
+      "match": true
+    },
+    {
+      "number": "30.5",
+      "title": "Lettura del bando camerale e output di prova",
+      "printedPage": 619,
+      "actualPage": 619,
+      "match": true
+    },
+    {
+      "number": "Cap. 31",
+      "title": "Registro imprese, REA e pubblicita legale",
+      "printedPage": 627,
+      "actualPage": 627,
+      "match": true
+    },
+    {
+      "number": "31.1",
+      "title": "Registro delle imprese e pubblicità legale",
+      "printedPage": 628,
+      "actualPage": 628,
+      "match": true
+    },
+    {
+      "number": "31.2",
+      "title": "Registro, REA e anagrafi camerali",
+      "printedPage": 630,
+      "actualPage": 630,
+      "match": true
+    },
+    {
+      "number": "31.3",
+      "title": "Iscrizione, deposito, variazione e istruttoria",
+      "printedPage": 632,
+      "actualPage": 632,
+      "match": true
+    },
+    {
+      "number": "31.4",
+      "title": "Visura, certificato, fascicolo e documenti depositati",
+      "printedPage": 634,
+      "actualPage": 634,
+      "match": true
+    },
+    {
+      "number": "31.5",
+      "title": "Pratiche telematiche, ComUnica, interoperabilità e SUAP",
+      "printedPage": 636,
+      "actualPage": 636,
+      "match": true
+    },
+    {
+      "number": "Cap. 32",
+      "title": "Servizi alle imprese, regolazione del mercato e tutela",
+      "printedPage": 643,
+      "actualPage": 643,
+      "match": true
+    },
+    {
+      "number": "32.1",
+      "title": "Servizi alle imprese, promozione e assistenza",
+      "printedPage": 644,
+      "actualPage": 644,
+      "match": true
+    },
+    {
+      "number": "32.2",
+      "title": "Semplificazione digitale e raccordo con il SUAP",
+      "printedPage": 646,
+      "actualPage": 646,
+      "match": true
+    },
+    {
+      "number": "32.3",
+      "title": "Regolazione del mercato e strumenti di tutela",
+      "printedPage": 647,
+      "actualPage": 647,
+      "match": true
+    },
+    {
+      "number": "32.4",
+      "title": "Metrologia legale e affidabilità delle misure",
+      "printedPage": 650,
+      "actualPage": 650,
+      "match": true
+    },
+    {
+      "number": "32.5",
+      "title": "Sicurezza dei prodotti, segnalazioni e caso di sportello",
+      "printedPage": 653,
+      "actualPage": 653,
+      "match": true
+    },
+    {
+      "number": "Cap. 33",
+      "title": "Organizzazione, personale, procedimenti e trasparenza camerale",
+      "printedPage": 660,
+      "actualPage": 660,
+      "match": true
+    },
+    {
+      "number": "33.1",
+      "title": "Organi, struttura amministrativa e uffici camerali",
+      "printedPage": 661,
+      "actualPage": 661,
+      "match": true
+    },
+    {
+      "number": "33.2",
+      "title": "Personale, profili, doveri e responsabilità",
+      "printedPage": 663,
+      "actualPage": 663,
+      "match": true
+    },
+    {
+      "number": "33.3",
+      "title": "Procedimento camerale e responsabilità istruttoria",
+      "printedPage": 666,
+      "actualPage": 666,
+      "match": true
+    },
+    {
+      "number": "33.4",
+      "title": "Accesso, trasparenza e protezione dei dati",
+      "printedPage": 668,
+      "actualPage": 668,
+      "match": true
+    },
+    {
+      "number": "33.5",
+      "title": "Amministrazione digitale, protocollo e comunicazione",
+      "printedPage": 669,
+      "actualPage": 669,
+      "match": true
+    },
+    {
+      "number": "Cap. 34",
+      "title": "Laboratorio bando camerale",
+      "printedPage": 677,
+      "actualPage": 677,
+      "match": true
+    },
+    {
+      "number": "34.1",
+      "title": "Il Bando Decoder camerale",
+      "printedPage": 678,
+      "actualPage": 678,
+      "match": true
+    },
+    {
+      "number": "34.2",
+      "title": "Nucleo comune e delta specialistico",
+      "printedPage": 680,
+      "actualPage": 680,
+      "match": true
+    },
+    {
+      "number": "34.3",
+      "title": "Profili, servizi e priorità di studio",
+      "printedPage": 682,
+      "actualPage": 682,
+      "match": true
+    },
+    {
+      "number": "34.4",
+      "title": "Prove e costruzione degli output",
+      "printedPage": 684,
+      "actualPage": 684,
+      "match": true
+    },
+    {
+      "number": "34.5",
+      "title": "Simulazione, piano e diario degli errori",
+      "printedPage": 686,
+      "actualPage": 686,
+      "match": true
+    },
+    {
+      "number": "Cap. 50",
+      "title": "Simulazione finale — Tomo I",
+      "printedPage": 692,
+      "actualPage": 692,
+      "match": true
+    },
+    {
+      "number": "Cap. 51",
+      "title": "Dal tomo al prossimo bando",
+      "printedPage": 700,
+      "actualPage": 700,
+      "match": true
+    }
+  ],
+  "indexMismatches": [],
+  "overflowPages": [],
+  "internalLeaks": [],
+  "budgetAmountPreserved": true,
+  "oldReferenceTableAbsent": true,
+  "newReferenceTablePresent": true
+}

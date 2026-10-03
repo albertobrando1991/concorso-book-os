@@ -35,3 +35,7 @@ La riscossione nazionale e' il nucleo specialistico dei profili AdER. Nel modulo
 
 ## Stato revisione
 Pronto per capitolo AdER. Verifica puntuale necessaria su norme 2024-2025 e bando specifico.
+
+## Rettifica didattica del 3 ottobre 2026
+
+Art. 86 D.P.R. 602/1973: il fermo vieta la circolazione del veicolo e non trasferisce la proprietà. Preavviso 30 giorni, dimostrazione della strumentalità, procedure per veicoli adibiti a trasporto di persone con disabilità, sospensione dopo prima rata e cancellazione dopo pagamento integrale: [AdER, procedure cautelari](https://www.agenziaentrateriscossione.gov.it/it/Per-saperne-di-piu/le-procedure/procedurecautelari/). La proprietà può essere trasferita con il vincolo; non chiamare il fermo divieto assoluto di disposizione.

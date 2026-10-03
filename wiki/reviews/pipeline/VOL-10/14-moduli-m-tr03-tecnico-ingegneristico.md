@@ -1,65 +1,62 @@
-# Report editoriale — Correzioni trasversali M-TR03
+# VOL-10 — Correzioni del testo, 3 ottobre 2026
 
 ## 1. Sintesi editoriale
-- Genere editoriale: manuale-workbook specialistico per concorsi tecnici nella Pubblica Amministrazione.
-- Pubblico target: candidati ingegneri, architetti/urbanisti, geometri/istruttori tecnici e specialisti di infrastrutture.
-- Perimetro di questa revisione: applicazione delle correzioni E01-E07 registrate nel report trasversale dello step 13.
-- Stato generale in una frase: errori gravi, metadati, rinvii interni e confini cross-family sono stati corretti; restano assegnate alla fase competente la review umana tecnico-normativa e la verifica dell'impaginato.
+
+Applicati e riesaminati tutti i diciotto rilievi testuali dell’audit integrale. Letti tutti i tredici originali e la matrice; ricontrollati i passaggi aggiunti, casi, formule, risposte e riferimenti. Quattro figure didattiche sono inserite e visionate come asset; questo controllo non sostituisce il PDF impaginato.
 
 ## 2. Punti applicati della checklist
-Applicati i punti 1-4 e 6-8 per indice, struttura, progressione, gerarchia, coerenza tra capitoli e terminologia; i punti 9-15 per promesse, definizioni, accuratezza, rinvii e fonti; i punti 16-26 per la micro-revisione dei passaggi sostanzialmente modificati; i punti 28-30 per leggibilità e qualità complessiva. Ripetuto il controllo di copertura v4 sui passaggi corretti: nessuna nuova promessa formativa, nessuna duplicazione B-PA e nessun rinvio verso contenuto incompleto presentato come sostitutivo. Il punto 27 non è applicabile senza PDF impaginato.
 
-## 3. Tabella errori
+Controllati promessa, progressione, autonomia, accuratezza, casi e verifiche, terminologia, rinvii, apparati e tracciabilità. Applicati i punti testuali 1–26 e 28–30. Il punto 27 resta alla verifica del candidato PDF corrente; le precedenti tavole non rappresentano queste integrazioni. Prosa riesaminata per eliminare formule generiche dove occorreva insegnare la regola, conservando le cautele specifiche del caso reale.
+
+## 3. Registro per ID
+
 | ID | Posizione | Categoria | Gravità | Descrizione | Correzione proposta | Stato |
-|----|-----------|-----------|---------|-------------|----------------------|-------|
-| E01 | `index.md` | Indice e struttura | Grave | File modificato nello step 13: inserito indice 1-13 e separato l'apparato editoriale. Evidenza: corrispondenza con i tredici file capitolo esistenti. | Nessun ulteriore intervento nello step 14. | Risolto |
-| E02 | `chapters/00-piano-editoriale.md` | Promesse e struttura | Grave | File modificato nello step 13: piano storico escluso dall'indice pubblico e marcato come snapshot interno non canonico. Evidenza: frontmatter e nota editoriale. | Preservare il contenuto storico fuori dal percorso del lettore. | Risolto |
-| E03 | `index.md` | Coerenza metadati | Media | File modificato nello step 13: stato riallineato a `editorial-review`/`module-review`. Evidenza: frontmatter e descrizione del perimetro. | Non anticipare text freeze o pubblicabilità. | Risolto |
-| E04 | Capp. 7, 8, 9, 10 e 11, Note di review | Richiami incrociati | Media | Sostituite le note temporanee “dopo il completamento” con wikilink a titoli e, dove utile, heading effettivamente esistenti. Evidenza: capitoli 8-12 presenti e heading verificati il 30 luglio 2026. | Mantenere i link sincronizzati se cambiano titoli o slug. | Risolto |
-| E05 | Cap. 1, Specialista trasporti; Dove lavora il tecnico; Note di review | Confini cross-family | Media | Sostituiti i codici volume generici con collegamenti a M-FL01, M-TR02, M-TR04 e M-SP02. Per i moduli ancora in sviluppo è esplicitato che si tratta di instradamento di catalogo, non di rinvio didattico sostitutivo. Evidenza: architettura canonica dei moduli e stato reale degli indici di destinazione. | Convertire in rinvio didattico soltanto dopo verifica di completezza e aggiornamento della destinazione. | Risolto |
-| E06 | Capp. 3-13 e report individuali step 12 | Accuratezza normativa e tecnica | Media | Non sono stati alterati né dichiarati verificati i passaggi che richiedono strutturista, urbanista, RUP, DL, CSE, collaudatore, specialista BIM/GIS/catasto o altri professionisti. | Eseguire lo step 15 con matrice di esito, fonte, data e responsabile per competenza. | Attesa review umana |
-| E07 | Tabelle e checklist dei capp. 4, 6-13 | Impaginazione | Lieve | Nessun PDF impaginato era disponibile; non è possibile attestare larghezze, spezzature, righe orfane e leggibilità KDP. | Verificare nel preflight visuale e convertire le tabelle troppo dense in schede verticali. | Da verificare |
+| --- | --- | --- | --- | --- | --- | --- |
+| V10-01 | Cap. 1, N-TR03-01-02 | Coerenza collana | Media | M-TR02 è descritto come «ancora in sviluppo», mentre il relativo volume è presente nel catalogo e dispone di quattordici capitoli. Il lettore riceve uno stato editoriale non allineato. | Stato editoriale eliminato; rinvio funzionale al volume 9, capitoli 3–6 e 10–12. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-02 | Cap. 2, conferenza di servizi; cap. 4, 6, 8–12 | Copertura | Grave | La formula «verificare la disciplina» ricorre dove servono presupposti e differenze già compresi nella promessa didattica. Nel cap. 2 le conferenze istruttoria, decisoria e preliminare sono nominate ma non distinte; il rinvio generico al VOL-01 non risolve il problema, perché anche il capitolo base si limita a nominarle. | Conferenze istruttoria, decisoria e preliminare distinte per funzione e presupposti, con esempi e verifica; regole tecniche sviluppate nei capitoli pertinenti. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-03 | Cap. 3, N-TR03-03-01/03; matrice, riga scienza delle costruzioni | Copertura e figure | Grave | Si promettono passaggio al modello, vincoli e lettura delle sollecitazioni. La matrice indica «diagramma di corpo libero» come applicazione, ma il capitolo ne dà soltanto la definizione: nessun diagramma, schema dei vincoli o esempio di reazioni e sollecitazioni è fornito. | Vincoli piani, tre gradi di libertà, reazioni e trave L=4 m, q=10 kN/m con equilibrio, taglio, momento, segni e due figure. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-04 | Cap. 4, N-TR03-04-02/03 | Copertura NTC | Grave | Vita nominale, classe d'uso e periodo di riferimento sono definiti senza le classi I–IV, la relazione fra grandezze e un esempio. Stati limite e combinazioni restano generici, pur essendo centrali nella promessa. | Vita nominale, classi I–IV, coefficienti e V_R; stati sismici e combinazioni, esercizio da 135 kN. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-05 | Cap. 4, N-TR03-04-07 | Copertura costruzioni esistenti | Grave | «Riparazione locale, miglioramento e adeguamento non sono sinonimi» non spiega in che cosa differiscono né quando si applicano. È il rilievo E04 dell'audit preliminare, confermato dalla lettura integrale. | Intervento locale, miglioramento e adeguamento: campo, condizioni, ζ_E, esempi e collaudo. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-06 | Cap. 4, domanda-trappola SLU/SLE | Precisione del campo | Media | La risposta «deve soddisfare anche gli stati limite di esercizio» non distingue progettazione di nuove opere e valutazione delle costruzioni esistenti. Il §8.3 NTC ammette per queste ultime valutazioni limitate agli SLU, con la previsione specifica sugli SLE per classe IV. | Risposta distinta per nuove costruzioni e valutazione delle esistenti, con eccezione SLE della classe IV. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-07 | Cap. 5, zonizzazione/standard; vincoli e durata | Copertura urbanistica | Grave | Zone e standard sono introdotti senza classificazione nazionale, quantità o caso; il titolo sui vincoli promette anche la durata, ma non insegna il termine del vincolo preordinato all'esproprio. | Zone A–F, standard e articolazioni, esercizio da 7.200 m²; vincolo quinquennale, decadenza e reiterazione. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-08 | Cap. 6, «Permesso di costruire» | Precisione normativa | Grave | La definizione «è il provvedimento espresso» omette completamente la formazione per silenzio-assenso nei casi dell'art. 20, comma 8, D.P.R. 380/2001. Il lettore può dedurne che sia sempre necessario il rilascio espresso. | Permesso come titolo, conclusione espressa o tacita; art. 20 aggiornato dalla legge 182/2025, assensi formali di tutela già acquisiti. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-09 | Cap. 6, categorie/regimi/abusi | Copertura edilizia | Grave | L'art. 3 è elencato senza definire le categorie; SCIA ordinaria e alternativa non espongono tempi e differenze operative; le modifiche del 2024 sono richiamate senza insegnare gli istituti. Il caso non arriva a una qualificazione, perché mancano dati e regole. | Categorie definite; CILA, SCIA e alternativa con tempi; artt. 34-bis, 36 e 36-bis; tre casi con dati e qualificazione. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-10 | Cap. 8, N-TR03-08-01 | Regola ed eccezioni | Media | «La fase esecutiva presuppone un contratto efficace» è presentata senza il regime dell'esecuzione anticipata e d'urgenza. | Avvio ordinario distinto da anticipato e urgente ex artt. 17 e 50, con requisiti e responsabilità. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-11 | Cap. 8, chiusura caso guidato | Coerenza e sicurezza | Grave | «In tutti questi casi l'intervento materiale non può precedere l'istruttoria» include l'interferenza di sicurezza, dopo una tabella che prescrive di fermare la lavorazione incompatibile. L'assoluto può indurre a rinviare una cautela urgente. | Eliminato assoluto che rinviava le cautele; CSE sospende subito le lavorazioni nei presupposti dell’art. 92. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-12 | Cap. 8, modifiche/sospensioni/PSC-POS | Copertura esecuzione | Grave | Il testo chiede di riconoscere quando occorrano variante, sospensione e coordinamento, ma demanda i presupposti alle norme. Le funzioni generali dei soggetti sono corrette; mancano i criteri per classificare un fatto. | Fattispecie dell’art. 120, soglie non sufficienti da sole, quinto; sospensione DL/RUP e ripresa; nomine CSP/CSE. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-13 | Cap. 9, collaudo/CRE/manutenzione | Copertura | Grave | «Termini, carattere dell'atto e passaggi di approvazione vanno verificati sul testo vigente» sostituisce nozioni fondamentali: il lettore non apprende termine, provvisorietà/definitività, condizioni del CRE e chi lo emette. Il piano manutentivo non è articolato nei documenti previsti. | Tempi e carattere del collaudo; soglie ed esclusioni CRE, DL/RUP; manuali e programma manutentivo con esempio. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-14 | Cap. 10, analisi prezzi e contabilità | Copertura operativa | Grave | I prodotti quantità×prezzo sono corretti, ma non dimostrano come leggere/costruire l'analisi promessa. Sicurezza, manodopera, riserve e pagamenti sono rinviati genericamente alla legge; mancano soggetti e principali scadenze. | Analisi 126,50 €/m², quadro economico 150.000 euro, sicurezza/manodopera, TOL, riserve e calendario SAL/certificato/pagamento. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-15 | Cap. 11, viabilità e processo multilivello ponti | Copertura specialistica | Grave | Il testo afferma che il Codice classifica le strade senza esporre le categorie. Per i ponti si dice che «livelli, schede e frequenze vanno letti negli atti vigenti», senza insegnare i livelli del metodo ufficiale. | Classi stradali A–F-bis, livelli ponti 0–5 e cinque classi di attenzione; scheda P17 senza diagnosi inventate. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-16 | Cap. 12, BIM/catasto/patrimonio; rinvio dal cap. 7 | Copertura e rinvii | Grave | Il cap. 7 promette qui approfondimento di ruoli e documenti BIM, che non sono neppure identificati puntualmente. «PREGEO, DOCFA e voltura hanno funzioni distinte» non insegna le differenze; demanio e patrimoni sono nominati senza regime ed esempi. | BIM 2 milioni e soglia beni culturali, CI/OGI/PGI e ruoli; raster/vettori e 50 m; PREGEO/DOCFA/voltura; beni pubblici. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-17 | Cap. 13, N-TR03-13-03 | Rinvio non autosufficiente | Media | «Risposta sintetica: scrivere poco, dire tutto» appartiene al Ricettario digitale R19, non al corpo cartaceo del VOL-01. Confermato E10. | Rinvio cartaceo a due sezioni effettive del capitolo 15, R19 dichiarato digitale opzionale. | Applicato e riesaminato nel testo; PDF da verificare |
+| V10-18 | Cap. 13, caso 3 e N-TR03-13-07 | Esercizi incompleti | Grave | Il caso scritto-grafico richiede una planimetria non fornita. La simulazione richiede dossier, fotografia, due documenti discordanti e misure senza metterli a disposizione. Il lettore deve costruire da solo il materiale da esaminare. | Dossier S1/D1/D2/R1/F01/E1, planimetria e illustrazione, traccia di 50 minuti, modello e computo 864 euro, rubrica di 30 punti didattici. | Applicato e riesaminato nel testo; PDF da verificare |
 
 ## 4. Osservazioni per capitolo
-### Capitolo 1 — Il concorso tecnico nella PA
-- Punti di forza: i confini con le altre famiglie sono ora trasparenti e non promettono copertura inesistente.
-- Criticità: la futura maturazione di M-TR02, M-TR04 e M-SP02 richiederà una nuova verifica delle destinazioni.
 
-### Capitoli 2-6 — Contesto amministrativo e fondamenti tecnici
-- Punti di forza: nessuna incoerenza trasversale introdotta; copertura e contenuti sono preservati.
-- Criticità: restano le verifiche specialistiche già assegnate a E06.
+01 rinvio di famiglia; 02 conferenze; 03 statica risolta; 04 NTC e categorie di intervento; 05 standard e vincolo; 06 categorie e regimi edilizi; 07 CAM e transitorio; 08 esecuzione e sicurezza; 09 collaudo e manutenzione; 10 analisi e contabilità; 11 classificazioni e ponti; 12 gestione informativa, catasto e patrimonio; 13 dossier autonomo. I documenti staff rimossi dal corpo sono archiviati, non distrutti.
 
-### Capitoli 7-12 — Ciclo dell'opera e gestione del dato
-- Punti di forza: le note di review non descrivono più come futuri capitoli già completati; i raccordi sono navigabili e puntuali.
-- Criticità: norme, allegati, procedure e standard mobili restano da validare nello step umano.
+## 5. Coerenza globale e copertura
 
-### Capitolo 13 — Laboratorio delle prove tecniche
-- Punti di forza: non è stato modificato; continua ad applicare la teoria dei capitoli 1-12.
-- Criticità: casi e resa grafica restano soggetti rispettivamente a E06 ed E07.
+Indice e matrice riallineati ai contenuti e allo stato corrente, senza conservare l’attestazione anticipata di impaginazione completata. I delta storici restano identificati come precedenti. La famiglia conserva il proprio confine: il diritto comune e i metodi di prova hanno destinazioni precise nel volume base; la simulazione è utilizzabile con i soli documenti cartacei forniti.
 
-## 5. Coerenza globale
-- Terminologia: preservata la Bibbia del Modulo; “rinvio didattico” è distinto da “instradamento di catalogo”.
-- Struttura vs indice: coerente sui capitoli 1-13.
-- Promesse dell'introduzione mantenute: nessuna nuova promessa è stata creata dalle correzioni.
-- Copertura v4: invariata, con 15 nuclei `completo`, 1 `rinviato` valido e nessun nucleo bloccante.
-- Frontmatter: aggiornato nello step 13; nessuno stato di review umana o preflight è stato anticipato.
+## 6. Contenuto verificato e prove
 
-## 6. Contenuto da verificare
-- Tutte le voci tecnico-normative raccolte in E06, con fonti ufficiali vigenti e professionista competente.
-- Completezza futura dei moduli M-TR02, M-TR04 e M-SP02 prima di trasformare gli instradamenti in rinvii didattici.
-- Resa KDP/PDF delle tabelle e checklist indicate in E07.
+Fonte `vol-10-tecnico-rettifiche-2026-10-03` e topic collegato; riuso del riscontro sui contratti `vol-09-esecuzione-verifica-2026-10-03`. URL, raw validi e limiti sono espliciti. Normattiva: articoli edilizi, conferenze, sicurezza, Codice e allegati, strade e beni pubblici pertinenti. GU: NTC §§ 2.4, 2.5.3 e 8.3–8.4, modifiche 2023, legge 182/2025 e CAM 2025. Linee guida ponti: § 1.3, non tutti i 92 fogli. Verificati conti di statica, 135 kN, 7.200 m², 126,50 €/m², quadro da 150.000 euro, calendario, 50 m e computo da 864 euro; artifact `VOL-10-calculations.json`.
 
-## 7. Suggerimenti facoltativi (non errori)
-Nessuno dei suggerimenti facoltativi dello step 13 è stato applicato come obbligatorio. Restano disponibili per una decisione autoriale successiva.
+Tredici gate di capitolo superati senza blocker, con avviso legacy `retrofit-dovuto` su tutti e `squilibrio-nuclei` su undici. Gli avvisi sono dichiarati: la revisione degli step 14–16 non riapre il ciclo 08–12 e non attribuisce retroattivamente Format 2. Non si comprimono né si allungano artificialmente i nuclei per soddisfare una soglia diversa. Zero rinvii wikilink irrisolti nel corpo. Nuove figure coerenti con calcoli, quote, segni e natura illustrativa; dimensioni finali da controllare nel PDF.
 
-## 8. Priorità degli interventi
-1. Eseguire la review umana tecnico-normativa E06.
-2. Registrare esito e data di cut-off per ogni competenza.
-3. Eseguire il preflight visuale E07 sull'impaginato.
+## 7. Suggerimenti facoltativi
 
-## 9. Giudizio di pubblicabilita
-Pubblicabile dopo intervento medio.
-Motivazione: E01-E05 sono risolti e la matrice non contiene nuclei bloccanti. La consegna finale resta subordinata alla review umana E06 e al preflight E07.
+Nessun suggerimento facoltativo usato per eludere le lacune. Ulteriori esercizi o approfondimenti dipendono dai bandi; il testo non promette un corso universitario completo o una progettazione esecutiva professionale.
 
-## 10. Limiti di questa revisione
-Le correzioni sono state verificate sui file Markdown e sugli heading esistenti. Non sono state sostituite le verifiche professionali, non è stata eseguita una validazione normativa articolo per articolo e non era disponibile un PDF impaginato. Gli instradamenti verso moduli in sviluppo non attestano completezza della destinazione.
+## 8. Priorità residue
+
+Concludere audit 15 e freeze 16 tramite CLI; poi figure/impaginato corrente, revisione visuale e preflight. Controllare tabelle con formule, apici e simboli, planimetria, diagrammi e campi compilabili, senza ridurre la tipografia.
+
+## 9. Giudizio di pubblicabilità
+
+Le diciotto correzioni sono applicate e verificate nel testo. La pubblicabilità finale resta non dichiarata finché non si controllano il PDF rigenerato e i gate di produzione. L’esito non è una certificazione professionale delle opere descritte negli esempi.
+
+## 10. Limiti della revisione
+
+Riscontri puntuali datati 3 ottobre 2026, non lettura integrale di ogni raccolta normativa o di tutti gli allegati CAM. Il PDF EUR-Lex scaricato vuoto, le risposte Normattiva errate e il download Sicilia “pagina non trovata” sono esclusi dalle prove. La soglia UE è confermata dalla pagina Commissione; il limite di densità urbanistica è corroborato da estratti ufficiali indicizzati, con limite dichiarato nella fonte. Nessun revisore umano fittizio o approvazione finale simulata. PDF precedente, indice storico e hash non certificano il nuovo impaginato.

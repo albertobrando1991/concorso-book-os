@@ -85,3 +85,6 @@ Il corpus sostiene il nucleo minimo e lo stato `consolidated`, non una tabella d
 - [[sources/reati-tributari-dlgs-74-2000-aggiornamento-2026-07-18]]
 - [[sources/processo-tributario-dlgs-175-2024-aggiornamento-2026-07-18]]
 - [[sources/codice-doganale-unione-procedure-adm-aggiornamento-2026-07-17]]
+## Integrazione operativa del 3 ottobre 2026
+
+L'art. 2, comma 2-bis, D.Lgs. 472/1997, introdotto dal D.Lgs. 87/2024 per le violazioni dal 1° settembre 2024, pone la sanzione pecuniaria relativa al rapporto proprio di società/enti degli artt. 5 e 73 TUIR, con o senza personalità giuridica, esclusivamente a loro carico; restano solidarietà e sussidiarietà civilistiche per enti senza personalità. Se fittiziamente costituiti/interposti, risponde il soggetto che ha agito per loro conto. Non ridurre la regola alle sole società di capitali, né estenderla alla responsabilità penale individuale. [Testo ufficiale, art. 3 D.Lgs. 87/2024](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=0&art.flagTipoArticolo=0&art.codiceRedazionale=24G00103&art.idArticolo=3&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2024-06-28&art.progressivo=0).

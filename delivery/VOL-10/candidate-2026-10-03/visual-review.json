@@ -1,0 +1,47 @@
+{
+  "volume": "VOL-10",
+  "date": "2026-10-03",
+  "pdf": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/vol-10-release-20261003-proof.pdf",
+  "pdfSha256": "f70c198bf46742374465f854a67abdaf6165c544cfda9edef68e250e984286f6",
+  "pages": 127,
+  "allContactSheetsViewed": true,
+  "contactSheets": [
+    "contact-001-016.png",
+    "contact-017-032.png",
+    "contact-033-048.png",
+    "contact-049-064.png",
+    "contact-065-080.png",
+    "contact-081-096.png",
+    "contact-097-112.png",
+    "contact-113-127.png"
+  ],
+  "zoomPagesViewed": [
+    6,
+    28,
+    30,
+    31,
+    39,
+    79,
+    80,
+    122,
+    123,
+    124,
+    125,
+    126
+  ],
+  "limitations": [
+    "Copertura panoramica di ogni pagina per geometria e ritmo; non lettura di ogni parola del raster.",
+    "Ingrandimenti limitati alle pagine elencate.",
+    "Nessuna prova cartacea, caricamento KDP, certificazione PDF/X o verifica della piattaforma digitale."
+  ],
+  "state": "Verifica visiva locale conclusa; dipendenza comune digitale/editoriale aperta.",
+  "finalPdf": "artifacts/correzioni-collana-2026-10-02/vol-10-final-20261003-proof.pdf",
+  "finalPdfSha256": "411517d20e00cb3d077f04cde986b98a07d44d41c6955f830d8d4861605e425c",
+  "finalChangedPagesViewed": [
+    28,
+    31,
+    122
+  ],
+  "comparisonEvidence": "VOL-10-final-render-comparison.json",
+  "finalCoverage": "127 pagine confrontate a scala 1.8;124 identiche alla release esaminata;3 cambiate e viste ingrandite."
+}

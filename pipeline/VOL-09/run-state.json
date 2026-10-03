@@ -1,10 +1,135 @@
 {
   "volumeCode": "VOL-09",
   "specPath": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/planning/00-scheda-pipeline.md",
-  "specHash": "sha256:382e55ca63892b7a95b5be356dc0a9ab1a860ee70770633028ef8a816caf123b",
+  "specHash": "sha256:035e10bfc2ca6ea4aea1793c34f0b6f8d2c5e6940c19ffa96568e4b34b7f3bd9",
   "createdAt": "2026-07-29T21:02:55.428Z",
-  "updatedAt": "2026-08-21T09:30:54.129Z",
+  "updatedAt": "2026-10-03T11:23:16.792Z",
   "steps": [
+    {
+      "key": "00:VOL-09",
+      "id": "00",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-09",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:01:21.665Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 00 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-31T16:01:27.728Z"
+    },
+    {
+      "key": "01:VOL-09",
+      "id": "01",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-09",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:01:33.382Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 01 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-31T16:01:57.947Z"
+    },
+    {
+      "key": "02:VOL-09",
+      "id": "02",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-09",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:02:00.016Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 02 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-31T16:02:21.928Z"
+    },
+    {
+      "key": "03:VOL-09",
+      "id": "03",
+      "phase": "A",
+      "scope": "catalog",
+      "target": "VOL-09",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:02:23.155Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 03 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-31T16:02:44.496Z"
+    },
+    {
+      "key": "04:VOL-09",
+      "id": "04",
+      "phase": "B",
+      "scope": "volume",
+      "target": "VOL-09",
+      "status": "done",
+      "attempts": 1,
+      "evidence": [],
+      "owner": "Anton",
+      "agent": "unknown",
+      "provider": "codex",
+      "startedAt": "2026-07-31T16:02:45.767Z",
+      "gate": {
+        "passed": true,
+        "blockers": [],
+        "warnings": [
+          {
+            "code": "no-gate",
+            "message": "Lo step 04 non prevede un gate automatico."
+          }
+        ]
+      },
+      "finishedAt": "2026-07-31T16:03:08.819Z"
+    },
     {
       "key": "05:moduli/m-tr02-appalti-pnrr-fondi-ue",
       "id": "05",
@@ -1925,38 +2050,20 @@
       "target": "moduli/m-tr02-appalti-pnrr-fondi-ue",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
+      "evidence": [
+        "reopen: Applicazione autorizzata dei rilievi della revisione integrale 2 ottobre 2026: contenuti, fonti, casi, quiz e apparati.",
+        "reopen: Delta di produzione P09-07: separare due campi della scheda p.266 e rimuovere il segno più residuo; nessuna modifica normativa"
+      ],
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T15:53:00.654Z",
+      "startedAt": "2026-10-03T11:21:32.854Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto M01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-09/14-moduli-m-tr02-appalti-pnrr-fondi-ue.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto M02: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-09/14-moduli-m-tr02-appalti-pnrr-fondi-ue.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto M03: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-09/14-moduli-m-tr02-appalti-pnrr-fondi-ue.md"
-          },
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto M04: stato \"proposto\".",
-            "location": "wiki/reviews/pipeline/VOL-09/14-moduli-m-tr02-appalti-pnrr-fondi-ue.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-31T15:53:49.526Z"
+      "finishedAt": "2026-10-03T11:22:20.312Z"
     },
     {
       "key": "15:moduli/m-tr02-appalti-pnrr-fondi-ue",
@@ -1967,29 +2074,16 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "Anton",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T15:53:55.796Z",
+      "startedAt": "2026-10-03T11:22:22.184Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"human-signoff\" dello step 15 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "moduli/m-tr02-appalti-pnrr-fondi-ue"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Pacchetto di review umana specialistica predisposto per Anton: claim, definizioni, procedure, soglie/dati mobili, casi, fonti, domande al revisore, esiti e correzioni organizzati; nessuna modifica normativa integrata senza firma."
-          }
-        ],
-        "notImplemented": [
-          "human-signoff"
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-31T15:54:31.561Z"
+      "finishedAt": "2026-10-03T11:22:39.366Z"
     },
     {
       "key": "16:moduli/m-tr02-appalti-pnrr-fondi-ue",
@@ -2000,10 +2094,10 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "Anton",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-31T15:54:37.041Z",
+      "startedAt": "2026-10-03T11:22:40.187Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2015,139 +2109,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di Anton: Review personale eseguita da Anton il 31/07/2026: 14 capitoli presenti, gate individuali superati, matrice completa, Humanizer e revisioni concluse; manifest con file, SHA-256 e commit di riferimento creato. Text freeze accettato con riserve controllate su fonti CAM/DNSH, soglie/termini mobili, metodologia PM e rinvii del laboratorio, da verificare al bando concreto."
+            "message": "Chiusura manuale di info: Verifica manuale del delta P09-07: due campi separati, nessuna norma modificata; 33 file confrontati al freeze, unico delta dichiarato e snapshot conservato. Audit 14 e 15 passati senza blocker o warning. PDF da rigenerare e verificare."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-07-31T15:58:18.816Z"
-    },
-    {
-      "key": "00:VOL-09",
-      "id": "00",
-      "phase": "A",
-      "scope": "catalog",
-      "target": "VOL-09",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-31T16:01:21.665Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 00 non prevede un gate automatico."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-31T16:01:27.728Z"
-    },
-    {
-      "key": "01:VOL-09",
-      "id": "01",
-      "phase": "A",
-      "scope": "catalog",
-      "target": "VOL-09",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-31T16:01:33.382Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 01 non prevede un gate automatico."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-31T16:01:57.947Z"
-    },
-    {
-      "key": "02:VOL-09",
-      "id": "02",
-      "phase": "A",
-      "scope": "catalog",
-      "target": "VOL-09",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-31T16:02:00.016Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 02 non prevede un gate automatico."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-31T16:02:21.928Z"
-    },
-    {
-      "key": "03:VOL-09",
-      "id": "03",
-      "phase": "A",
-      "scope": "catalog",
-      "target": "VOL-09",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-31T16:02:23.155Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 03 non prevede un gate automatico."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-31T16:02:44.496Z"
-    },
-    {
-      "key": "04:VOL-09",
-      "id": "04",
-      "phase": "B",
-      "scope": "volume",
-      "target": "VOL-09",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "Anton",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-07-31T16:02:45.767Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "no-gate",
-            "message": "Lo step 04 non prevede un gate automatico."
-          }
-        ]
-      },
-      "finishedAt": "2026-07-31T16:03:08.819Z"
+      "finishedAt": "2026-10-03T11:23:15.778Z"
     },
     {
       "key": "21:VOL-09",
@@ -2155,7 +2124,7 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-09",
-      "status": "done",
+      "status": "in-progress",
       "attempts": 1,
       "evidence": [
         "reopen: Il report precedente non copre la due diligence editoriale integrale richiesta: si ripetono revisione finale, preflight e consegna con checklist a 30 punti, tabella master e controllo finale."
@@ -2163,13 +2132,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T08:17:52.604Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-21T09:24:11.207Z"
+      "startedAt": "2026-10-03T11:23:16.792Z"
     },
     {
       "key": "22:VOL-09",
@@ -2177,32 +2140,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-09",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-21T09:24:16.700Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-09"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Preflight eseguito: audit format_version 2 e densita didattica superato per 14 capitoli; nessun wikilink reader-facing; git diff --check, 519 test, typecheck e build superati; PDF Book Studio VOL-09 esportato con 209 pagine stabili, font pronti e zero immagini mancanti. Limite registrato: Poppler/KDP Previewer non disponibili nel sandbox per ispezione visiva pagina per pagina."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-21T09:28:51.934Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-09",
@@ -2210,32 +2150,21 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-09",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-21T09:28:57.900Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-09"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Pacchetto candidato creato in delivery/VOL-09/candidate: PDF interno, VERSION, report, preflight, changelog, limiti, manutenzione e manifest SHA-256. Nessun file estraneo e nessuno staging/commit effettuato per non includere modifiche locali non pertinenti. Step 24 resta pendente per la conferma umana e l eventuale Previewer KDP."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-21T09:30:54.129Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
+    },
+    {
+      "key": "24:VOL-09",
+      "id": "24",
+      "phase": "F",
+      "scope": "volume",
+      "target": "VOL-09",
+      "status": "pending",
+      "attempts": 0,
+      "evidence": [
+        "reopen: Delta di produzione P09-07: separare due campi della scheda p.266 e rimuovere il segno più residuo; nessuna modifica normativa"
+      ]
     }
   ]
 }

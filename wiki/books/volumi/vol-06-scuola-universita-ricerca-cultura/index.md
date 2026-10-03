@@ -2,16 +2,16 @@
 id: volume-vol-06-scuola-universita-ricerca-cultura
 type: volume
 title: "VOL-06 — Scuola, Università, Ricerca e Cultura"
-status: publication-candidate
+status: editorial_revision
 domain: concorsi pubblici italiani
 topics: ["istruzione e ricerca", "scuola", "università", "AFAM", "enti di ricerca", "beni culturali"]
 entities: ["MUR", "Ministero della cultura", "CNR", "INFN", "ISTAT"]
 source_refs: ["sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4"]
 book_refs: ["m-ir01-scuola", "m-ir02-universita-afam", "m-ir03-enti-ricerca", "m-ir04-cultura-beni-culturali", "il-metodo-bando"]
 confidence: 0.82
-updated_at: 2026-08-23
+updated_at: 2026-10-03
 created_at: 2026-07-29
-review_required: false
+review_required: true
 canonical: true
 tags: ["volume", "volume-code-vol-06", "istruzione-ricerca", "cultura"]
 book_id: vol-06-scuola-universita-ricerca-cultura
@@ -19,7 +19,7 @@ volume_code: VOL-06
 module_codes: ["M-IR01", "M-IR02", "M-IR03", "M-IR04"]
 module_family: istruzione-ricerca
 companion_to: il-metodo-bando
-draft_stage: publication-candidate
+draft_stage: corrections-applied
 last_compiled_from: ["sources/vol-06-scuola-universita-ricerca-cultura-dossier-v4"]
 ---
 
@@ -29,7 +29,7 @@ Volume-workbook per sedici profili della filiera istruzione, ricerca e cultura. 
 
 ## Regola di non duplicazione
 
-Il VOL-06 non ripete diritto amministrativo generale, pubblico impiego, contratti, privacy, CAD, inglese/informatica di base e le altre B-PA: ogni capitolo sviluppa esclusivamente il delta di comparto o di profilo e rinvia con destinazione precisa al [[books/il-metodo-bando/index|VOL-01]].
+Il VOL-06 non ripete diritto amministrativo generale, pubblico impiego, contratti, privacy, CAD, inglese/informatica di base e le altre B-PA: i capitoli sviluppano il delta di comparto o di profilo; i rinvii didattici puntuali sono verificati nel testo. [[books/il-metodo-bando/index|VOL-01]] resta l’indice di navigazione del manuale comune.
 
 ## Parti del volume
 
@@ -47,4 +47,4 @@ Il VOL-06 non ripete diritto amministrativo generale, pubblico impiego, contratt
 
 ## Cut-off e review
 
-Il dossier assume come riferimento il 24 luglio 2026. Bandi, CCNL, programmi, assetti organizzativi e fonti regolamentari devono essere verificati prima del text freeze di ogni modulo.
+Il dossier storico assumeva il 24 luglio 2026. Le correzioni del 3 ottobre 2026 hanno aggiornato le fonti nei perimetri documentati e riconciliato 50 capitoli. Le verifiche normative sono selettive; il nuovo PDF e i controlli finali restano necessari. Gli stati della pipeline sono mantenuti dal CLI.

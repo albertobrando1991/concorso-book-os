@@ -9,7 +9,7 @@ source_refs:
   - "sources/sorveglianza-passi-protocollo-operativo-iss"
   - "sources/programmi-screening-oncologici-dati-passi-iss"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-29T17:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T17:30:00+02:00
 review_required: true
 canonical: false
@@ -73,17 +73,17 @@ Questa è una risorsa di pianificazione, non un capitolo pubblicabile. Ogni eser
 - organizzato: `0,393 × 1.000 = 393`;
 - spontaneo: `0,077 × 1.000 = 77`.
 
-**Cautela:** `393 + 77 = 470`, non 474. Lo scarto di 4 per 1.000 riflette la trasformazione di stime arrotondate e pesate; non va corretto alterando i dati ufficiali.
+**Cautela:** `393 + 77 = 470`, non 474. Lo scarto è 0,4 punti percentuali, non spiegabile con il solo arrotondamento al decimo. La causa resta indeterminata dal prospetto: verificare denominatori, dati mancanti e classificazione. Non alterare i dati ufficiali per ottenere una somma esatta.
 
 ## Esercizio 5 - Quota organizzata sul totale
 
 **Dati ufficiali:** pool nazionale ISS 2025, screening colorettale: totale 47,4%; organizzato 39,3%.
 
-**Quesito:** stimare quale quota della copertura totale è attribuita alla componente organizzata.
+**Quesito:** calcolare il rapporto numerico fra le due stime e indicare quali condizioni servono per interpretarlo come quota organizzata del totale.
 
 **Soluzione verificata:** `39,3 / 47,4 = 0,82911`, cioè circa `82,9%`.
 
-**Interpretazione:** è un rapporto fra due stime di prevalenza, utile didatticamente. Non è una probabilità individuale né una misura di efficacia del programma.
+**Interpretazione:** il calcolo è corretto come rapporto numerico. Per leggerlo come quota organizzata del totale occorre verificare che le stime condividano popolazione, denominatore, periodo, pesi e definizioni compatibili. Lo scarto fra componenti e totale rilevato nell’esercizio precedente impedisce di dare questa equivalenza per dimostrata. Non è una probabilità individuale né una misura di efficacia del programma.
 
 ## Esercizio 6 - Confronto Umbria-pool nazionale
 
@@ -107,7 +107,7 @@ Questa è una risorsa di pianificazione, non un capitolo pubblicabile. Ogni eser
 
 **Soluzione verificata:** `46,8 + 30,7 = 77,5%`; scarto rispetto al totale: `77,7 - 77,5 = 0,2` punti percentuali.
 
-**Interpretazione:** lo scarto è compatibile con arrotondamento e stima pesata. L'esercizio valuta la capacità di non forzare l'identità aritmetica fra valori pubblicati separatamente.
+**Interpretazione:** lo scarto di 0,2 punti supera il limite di 0,15 spiegabile dal solo arrotondamento di tre valori al decimo. La causa non è dimostrata dal prospetto; pesi comuni non eliminano l'additività. L'esercizio valuta la capacità di mantenere i dati pubblicati e dichiarare il limite informativo.
 
 ## Esercizio 8 - Numeratore e denominatore
 

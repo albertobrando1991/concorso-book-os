@@ -2,11 +2,11 @@
 id: m-sa04-matrice-copertura-didattica
 type: planning
 title: "M-SA04 - Matrice di copertura didattica"
-status: complete
+status: revision_in_progress
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026", "sources/profili-professionali-tslb-tsrm-dm-745-746", "sources/qualita-biosicurezza-laboratorio-tslb", "sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020", "sources/procurement-farmaci-dispositivi-flussi-nsis", "sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-08-04T13:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T19:10:00+02:00
 review_required: false
 canonical: true
@@ -37,3 +37,15 @@ tags: ["m-sa04", "coverage-map", "pipeline-step-07"]
 - Eventuali ampliamenti di casi, quiz, protocolli o claim tecnici sostanziali riaprono i gate mantenendo distinti i due verticali.
 
 La matrice è completa e il modulo è congelato allo step 16; ogni modifica sostanziale riapre i gate 10-15. La pubblicabilità resta subordinata alla chiusura dei gate successivi e alla conferma umana finale dello step 24.
+
+## Stato corrente dopo l’audit integrale
+
+Le attestazioni di chiusura nelle righe precedenti descrivono la baseline di agosto. Sono riaperte per i delta dell’audit integrale: il registro del 3 ottobre prevale su quella baseline. Le correzioni sono applicate e il nuovo audit specialistico è passato; il manifest corrente documenta il freeze. PDF e fasi successive conservano il proprio stato CLI. Nessuna riga viene promossa soltanto perché il file esiste.
+
+SA04/01: DPR 220 e art. 37; /02: principi disciplinari, precisione/esattezza, calibrazione/QC, contenimento, cappe e rifiuti; /03: indicatori di dose, effetti, limiti e rischi RM; /04: classi, UDI, incidente grave e FSCA/FSN. V07-39 e il grafico di V07-35 sono inseriti: due confronti visivi con quesiti e soluzioni nel capitolo 03, serie QC nel capitolo 02. La copertura testuale e degli apparati è completa nel perimetro descritto; resa nel nuovo PDF da verificare.
+
+Evidenza: [[reviews/correzioni-collana-2026-10-02/VOL-07]] e report correnti degli step 14–15.
+
+### Riesame automatico del 3 ottobre 2026
+
+Delta normativi, specialistici e casi riesaminati nel report 15 corrente del modulo. I rilievi testuali pertinenti risultano corretti; per SA04 i tre apparati originali sono inseriti. Il controllo del nuovo PDF e il preflight restano da svolgere: il presente esito riguarda il testo.

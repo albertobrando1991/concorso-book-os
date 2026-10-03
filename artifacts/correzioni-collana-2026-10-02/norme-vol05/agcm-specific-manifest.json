@@ -1,0 +1,114 @@
+[
+  {
+    "id": "agcm-art2",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art2!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\agcm-art2.html",
+    "sha256": "15f8e6ac857598873300839087356213382f68052fadaabcc09f86c434cf4359",
+    "characters": 1302,
+    "readComplete": false
+  },
+  {
+    "id": "agcm-art3",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art3!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\agcm-art3.html",
+    "sha256": "2b2284d71c40d6b64842092dead90b33257534c87c5deb43821120eeac5356d3",
+    "characters": 881,
+    "readComplete": false
+  },
+  {
+    "id": "agcm-art6",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art6!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\agcm-art6.html",
+    "sha256": "66601ed018bae43b1ef0a248a582e45c51522cc22312cc999f34e32da1b75cbc",
+    "characters": 1580,
+    "readComplete": false
+  },
+  {
+    "id": "agcm-art15bis",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art15bis!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\agcm-art15bis.html",
+    "sha256": "259d314b7b9cad00a55558b97122525c408f3240be2a5402eded09d4a6590b99",
+    "characters": 2821,
+    "readComplete": false
+  },
+  {
+    "id": "consumer-green-art3",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-02-20;30~art3!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\consumer-green-art3.html",
+    "sha256": "e8139073f7a275a71d9aab279431e996f16a93505099f83b8d32c7dd451d6d5d",
+    "characters": 249,
+    "readComplete": false
+  },
+  {
+    "id": "conflitto-art1",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-20;215~art1!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\conflitto-art1.html",
+    "sha256": "046655ccf7a9c97d68194e670dbd03bcc59d10d9b140a269c66106010407add7",
+    "characters": 689,
+    "readComplete": false
+  },
+  {
+    "id": "conflitto-art2",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-20;215~art2!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\conflitto-art2.html",
+    "sha256": "37e541b6d0d131d031605cd8fb425d1e677d9e43597ed697f996d07f4a06a1c4",
+    "characters": 3034,
+    "readComplete": false
+  },
+  {
+    "id": "conflitto-art3",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-20;215~art3!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\conflitto-art3.html",
+    "sha256": "584fa75c951b4d161fcc36c540b58099563778256b15b98670176dbc140cb32c",
+    "characters": 610,
+    "readComplete": false
+  },
+  {
+    "id": "conflitto-art6",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-20;215~art6!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\conflitto-art6.html",
+    "sha256": "0dee34055ae3afa42f913f690c8df7333a87f48d7e771d8589adbb9d35f5c1c5",
+    "characters": 4369,
+    "readComplete": false
+  },
+  {
+    "id": "rating-faq",
+    "url": "https://www.agcm.it/competenze/rating-di-legalita/FAQ-Regolamento-Rating-2026",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\rating-faq.html",
+    "sha256": "3e2bb8180bc9902e79d37a3880525e0a516d56d72af3ec85ae5f904e141e1d52",
+    "characters": 37616,
+    "readComplete": false
+  },
+  {
+    "id": "agcm-thresholds",
+    "url": "https://www.agcm.it/per-le-imprese/Concorrenza/concentrazioni/soglie-di-fatturato",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\agcm-thresholds.html",
+    "sha256": "417d8ead34b5385ddfe426248f7f28406867ccf8ade0ee9177a5ea7bb3dbdf3b",
+    "characters": 5845,
+    "readComplete": false
+  },
+  {
+    "id": "consumer-procedure",
+    "url": "https://agcm.it/per-le-imprese/imprese-e-consumatori/regolamento-agcm-sulle-procedure-istruttorie-in-materia-di-tutela-del-consumatore",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\consumer-procedure.html",
+    "sha256": "40ffb4a5520c595e47b9127236e56c8039517a155db0593bc23d57f5b97e4c8e",
+    "characters": 51041,
+    "readComplete": false
+  },
+  {
+    "id": "agcm-conflict",
+    "url": "https://www.agcm.it/competenze/conflitto-di-interessi/",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\agcm-conflict.html",
+    "sha256": "28cb178a707662dff1514193aa1e95cd57eee5cd79e315cbca35be80eee588ae",
+    "characters": 4710,
+    "readComplete": false
+  },
+  {
+    "id": "agcm-clemenza",
+    "url": "https://www.agcm.it/competenze/tutela-della-concorrenza/intese-e-abusi/programma-di-clemenza",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\agcm-clemenza.html",
+    "sha256": "11f09fc241671c63c8bf9f1945431679e9d19e5cd2230805b1fcc74b96460640",
+    "characters": 9048,
+    "readComplete": false
+  }
+]

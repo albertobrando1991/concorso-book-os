@@ -1,7 +1,7 @@
 ---
 id: m-sp02-vigili-fuoco
 type: specialist_module
-title: "M-SP02 - Vigili del Fuoco"
+title: "M-SP02 — Vigili del Fuoco"
 status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","carriere-speciali","metodo bando"]
@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.55
-updated_at: 2026-08-14T18:25:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -25,7 +25,7 @@ draft_stage: text-frozen
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
-# M-SP02 - Vigili del Fuoco
+# M-SP02 — Vigili del Fuoco
 
 ## Ruolo del modulo
 Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Serve ad applicare il metodo, le materie comuni e la logica workbook a una famiglia concorsuale specifica.
@@ -35,7 +35,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SP02
 - Copertura: concorsi del Corpo nazionale dei vigili del fuoco, dai profili operativi ai ruoli direttivi e tecnici, con requisiti di accesso, prove di efficienza fisica, ordinamento del Corpo, prevenzione incendi, sicurezza e concorso nelle attività di protezione civile.
 - Fase roadmap: 4
-- Stato: otto capitoli completi; review editoriale e normativa chiusa il 2026-08-14, nessun errore rilevato ([[reviews/pipeline/VOL-12/24-review-m-sp02-fase-c]]).
+- Stato: correzioni e audit specialistico del 3 ottobre 2026 conclusi; nuovo PDF e controlli di volume necessari.
 
 ## Fuori perimetro
 Restano esclusi i corpi permanenti dei vigili del fuoco a ordinamento regionale delle autonomie speciali, la cui disciplina va verificata caso per caso sul bando, e i profili di protezione civile non incardinati nel Corpo nazionale.
@@ -43,10 +43,9 @@ Restano esclusi i corpi permanenti dei vigili del fuoco a ordinamento regionale 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche derivano da fonti consolidate; gli audit precedono il sign-off finale del volume.
 
 ## Capitoli
-- [[books/moduli/m-sp02-vigili-fuoco/planning/00-piano-editoriale|Piano editoriale del modulo]]
 - [[books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia|01 - Mappa della famiglia: ruoli e selezioni]]
 - [[books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda|02 - La tua posizione prima della domanda]]
 - [[books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione|03 - La preselezione]]
@@ -61,4 +60,9 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 Le fonti specialistiche ufficiali sono raccolte nelle source note dichiarate dai capitoli e verificate negli audit degli step 05-15. Ogni dato mobile resta accompagnato dall'obbligo di controllo sul bando vigente.
 
 ## Prossimo passo
-Nessuno per questo modulo: fase C chiusa, nessuna correzione pendente. Restano da confermare in sede di review umana finale di volume (step F, § 24 del mandato) gli accorpamenti e le incognite dichiarate, insieme a quelli degli altri moduli.
+
+Produrre e controllare il nuovo PDF; completare la revisione del volume prima della conferma finale.
+
+## Piano staff
+
+[[books/moduli/m-sp02-vigili-fuoco/planning/00-piano-editoriale|Piano editoriale interno]].

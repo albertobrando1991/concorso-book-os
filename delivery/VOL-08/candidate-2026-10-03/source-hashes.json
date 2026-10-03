@@ -1,0 +1,332 @@
+[
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
+    "sha256": "0964ed1a8847d871bceae09f3f39faa1ae5f9dfe60650758b4d9b2a6b553652f",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md",
+    "sha256": "50b95d5b3e1d80197aacd73e135597bfde68bd7fe9b8aa9c0d20a77e6e0eff2f",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/02-informatica-specialistica-oltre-vol-01.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md",
+    "sha256": "af390158e90e3bd57b7a9600e772d6f07c92403a3e131f93e2bdc469652bcb7f",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/03-programmazione-algoritmi-strutture-dati.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md",
+    "sha256": "be77f3293722e2aea4057a9c3dfedd8339669464ba09b5d9473104558d6f0199",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/04-basi-dati-sql-nosql-qualita-dato.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md",
+    "sha256": "01dc0e85b978010ec9dfe0bf35f8e7c86e2d68262e0561c732c41e4bc290bf5b",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/05-reti-sistemi-operativi-infrastrutture.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md",
+    "sha256": "3dd4289386c3c372f93cc74e69c3be7c44e33f42d8b32ff7337720eafa6f62e1",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/06-ingegneria-software-api-interoperabilita-pa.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md",
+    "sha256": "57c3c5b26d7bdf5319434a25a8291c1fd7b20d1e8b2ee095e94090600273af37",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/07-cloud-pa-virtualizzazione-container-devops.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+    "sha256": "b9b11a25f0609d704198171301a8f3b501d823f110618e495dd2d8e510699661",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/08-cybersecurity-rischio-controlli-vulnerabilita.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md",
+    "sha256": "95b8dc570b02aab9db21846acadcafe1c1d6f55d13c72e1a0666448058c5944d",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/09-iam-crittografia-logging-incident-response.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md",
+    "sha256": "66f5e4c154a0bf270b3d2dc6699e634e03c39f0665d909a938b57fea377ab149",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/10-data-governance-open-data-interoperabilita.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md",
+    "sha256": "a549642f409bebe77ba51a6003141cd557a7638febbd80eb5ed877bb10a00a88",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/11-ai-ml-pa-rischi-compliance.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md",
+    "sha256": "5ad8bc1b3dc719e5fc78daea2ab565b131928fe0a09c0e75053cab95f7a77ff7",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/12-procurement-ict-gestione-fornitori.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md",
+    "sha256": "5d04e416276b1dd88cb42989764412a19b64274a843336afdbad80ffe2bbc10b",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/chapters/13-laboratorio-prove-ict.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/index.md",
+    "sha256": "d1496208022e4cfb74ec57281fdbf903553c710faa367338583abd252179d2b3",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/index.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/02-matrice-copertura-didattica.md",
+    "sha256": "e919408f5599d9d18add70853d2d75c030dc9b7f0a94c4319f0e386d11ef46c2",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/02-matrice-copertura-didattica.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/10-manifest-nuclei-format-2.json",
+    "sha256": "9dcfd3ec79d147f7490102fabebfb361730bfaf9b8aea632066d0cf23f64282c",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/10-manifest-nuclei-format-2.json"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/01-lavorare-ict-pa-ruoli-enti-prove.md",
+    "sha256": "ae0468a5a38213b511247e13195ed495606f0a424a802a8100a6abc5f2af1b06",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/01-lavorare-ict-pa-ruoli-enti-prove.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/02-informatica-specialistica-oltre-vol-01.md",
+    "sha256": "0a3af5ccaea7cf5cdac5b458c80dbf21786a6292ce782e315f46b0f982ed4500",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/02-informatica-specialistica-oltre-vol-01.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/03-programmazione-algoritmi-strutture-dati.md",
+    "sha256": "35b293fab3aae1d942cb69abfd6b6967ec7939a50a80733015ad3fc2c8475282",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/03-programmazione-algoritmi-strutture-dati.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/04-basi-dati-sql-nosql-qualita-dato.md",
+    "sha256": "3681c65ca039f1cf7cd76a10c68fde9600b57ba0016cc988cf814c969e147268",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/04-basi-dati-sql-nosql-qualita-dato.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/05-reti-sistemi-operativi-infrastrutture.md",
+    "sha256": "7191f49c1a3d322bf1b56c1a587188c15ce5357e8f4db487272397b0c13b2a6b",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/05-reti-sistemi-operativi-infrastrutture.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/06-ingegneria-software-api-interoperabilita-pa.md",
+    "sha256": "aa44a57fa75f3aae835554656886dfcde848a7a49b94f5d72e5b93829ec483f5",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/06-ingegneria-software-api-interoperabilita-pa.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/07-cloud-pa-virtualizzazione-container-devops.md",
+    "sha256": "1fea7404e8dc0980a3183989f2978767f347a3e5438a996c600452e175a329fd",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/07-cloud-pa-virtualizzazione-container-devops.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/08-cybersecurity-rischio-controlli-vulnerabilita.md",
+    "sha256": "4f4c6a8795daba925992b351758cd0c8694dc84baccf52208efba370d46fa9bb",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/08-cybersecurity-rischio-controlli-vulnerabilita.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/09-iam-crittografia-logging-incident-response.md",
+    "sha256": "02994ec68c232e350c7df1c871133db31ce693487249feea23e523ac38ec0548",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/09-iam-crittografia-logging-incident-response.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/10-data-governance-open-data-interoperabilita.md",
+    "sha256": "2431949116abb340eb7222c34700b704f8e7f3fc8b2dfac9a5a05c322ee94b62",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/10-data-governance-open-data-interoperabilita.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/11-ai-ml-pa-rischi-compliance.md",
+    "sha256": "0beb9a2acaf5fdcc47c79efe01dd6af12b4cd79fb6b0d327eec7c43bd9ce81a6",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/11-ai-ml-pa-rischi-compliance.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/12-procurement-ict-gestione-fornitori.md",
+    "sha256": "5680775798bf9b5bb7e8d6d87caa2b99a080134825669c4228620fd4cab050ef",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/12-procurement-ict-gestione-fornitori.md"
+  },
+  {
+    "path": "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/13-laboratorio-prove-ict.md",
+    "sha256": "6f46097d8e6f2d088542012236815035ab012661acc5746fa42d045d21bdec1b",
+    "snapshot": "snapshot/wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/verifiche/13-laboratorio-prove-ict.md"
+  },
+  {
+    "path": "wiki/books/volumi/vol-08-ict-digitale-cybersecurity-dati/index.md",
+    "sha256": "54db51bee80507eb817d4f3336cc39a40a2413f901815ace14f81c329bc3ac03",
+    "snapshot": "snapshot/wiki/books/volumi/vol-08-ict-digitale-cybersecurity-dati/index.md"
+  },
+  {
+    "path": "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+    "sha256": "242b547136e3ab8e3263b8fbd7c71fa47ec9fe7ba550d75da4e78c54d7e11945",
+    "snapshot": "snapshot/wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md"
+  },
+  {
+    "path": "wiki/sources/ai-ml-governance-rischi-compliance-fonti-primarie.md",
+    "sha256": "57aceb2f8e0c0576de3aad3c70ac804a74dac58ea6e0de86defcb7e9b2aa6fa8",
+    "snapshot": "snapshot/wiki/sources/ai-ml-governance-rischi-compliance-fonti-primarie.md"
+  },
+  {
+    "path": "wiki/sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche.md",
+    "sha256": "c491605a38e8a0af83dad396516456610e547c19065b21c8f31ce264bcd7ea1a",
+    "snapshot": "snapshot/wiki/sources/architettura-sistemi-rappresentazione-prestazioni-fonti-tecniche.md"
+  },
+  {
+    "path": "wiki/sources/audit-bandi-rappresentativi-m-tr01-2026-07-28.md",
+    "sha256": "4de69d1f3a092ac16e21c3dc47b1e18fa270b2e2b9adc5f0be196c550409d1a3",
+    "snapshot": "snapshot/wiki/sources/audit-bandi-rappresentativi-m-tr01-2026-07-28.md"
+  },
+  {
+    "path": "wiki/sources/basi-dati-sql-nosql-qualita-fonti-tecniche.md",
+    "sha256": "1afd5717014d1cab413a72dc127aa88f6cb03acd07db40914afc6a5daa14ba2f",
+    "snapshot": "snapshot/wiki/sources/basi-dati-sql-nosql-qualita-fonti-tecniche.md"
+  },
+  {
+    "path": "wiki/sources/campione-bandi-ict-pa-vol-08-2024-2026.md",
+    "sha256": "8db63bb9f0e5303d68c465605a471a106587df7600c181da01e62e7c879c3704",
+    "snapshot": "snapshot/wiki/sources/campione-bandi-ict-pa-vol-08-2024-2026.md"
+  },
+  {
+    "path": "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+    "sha256": "cc6c4f4a20663a6633e62a13ebcf8cce3388e938c19025455a249659d210385b",
+    "snapshot": "snapshot/wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md"
+  },
+  {
+    "path": "wiki/sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie.md",
+    "sha256": "9affd2368961d9578b7c76cefe12d969abdc5a72af77d17968a6f3173d942d18",
+    "snapshot": "snapshot/wiki/sources/cloud-virtualizzazione-container-devops-continuita-fonti-primarie.md"
+  },
+  {
+    "path": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+    "sha256": "54a6efeeda9a413b05cda484cbcfcd647de411ac91e18c0cf578c7d6bd033f5f",
+    "snapshot": "snapshot/wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md"
+  },
+  {
+    "path": "wiki/sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie.md",
+    "sha256": "3f3c491e76595cfa474a31e0ed57d28b3e84c4a70517b11af11dbae39b62d595",
+    "snapshot": "snapshot/wiki/sources/cyber-risk-vulnerabilita-secure-software-supply-chain-fonti-primarie.md"
+  },
+  {
+    "path": "wiki/sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md",
+    "sha256": "b9feb7c934947fff69575385c37723f01e8e5323901e5633f098eb8eda1dbf55",
+    "snapshot": "snapshot/wiki/sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md"
+  },
+  {
+    "path": "wiki/sources/data-governance-open-data-interoperabilita-fonti-primarie.md",
+    "sha256": "0db38823480f629efe6838e031eb2f97c7a10c02d3b0dad2fccc10f617b9d69a",
+    "snapshot": "snapshot/wiki/sources/data-governance-open-data-interoperabilita-fonti-primarie.md"
+  },
+  {
+    "path": "wiki/sources/database-programmazione-formati-concorsi.md",
+    "sha256": "3250c87cd307fc1aeb7b1a6c31fb324f6dd159b2477fd479e7a1271a4dc4c4bd",
+    "snapshot": "snapshot/wiki/sources/database-programmazione-formati-concorsi.md"
+  },
+  {
+    "path": "wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md",
+    "sha256": "afdc60399702cecee2baa6828b3a8302e518170b03736a4f762262dea5f5f3c8",
+    "snapshot": "snapshot/wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md"
+  },
+  {
+    "path": "wiki/sources/iam-crittografia-logging-incident-response-fonti-primarie.md",
+    "sha256": "0a606a05e369d408c071cfac799868d63594ef16c4d45325d0952a78a77c087f",
+    "snapshot": "snapshot/wiki/sources/iam-crittografia-logging-incident-response-fonti-primarie.md"
+  },
+  {
+    "path": "wiki/sources/ict-rettifiche-specialistiche-2026-10-03.md",
+    "sha256": "c7db2281421e061c6082eac1cfa5be11a4ffb07a3e7aa50a4fd5b4a906b3209d",
+    "snapshot": "snapshot/wiki/sources/ict-rettifiche-specialistiche-2026-10-03.md"
+  },
+  {
+    "path": "wiki/sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md",
+    "sha256": "6487c4d47d0d515c82f71718483674f93770eb8e17311645d47d53fd0a43c156",
+    "snapshot": "snapshot/wiki/sources/informatica-concorsi-corpus-fonti-ufficiali-2026-05-27.md"
+  },
+  {
+    "path": "wiki/sources/informatica-operativa-office-sistemi-hardware.md",
+    "sha256": "15848dc6c05eabb41c378b72617330b23c76d3b1fa2898ce35cda70fe741bf74",
+    "snapshot": "snapshot/wiki/sources/informatica-operativa-office-sistemi-hardware.md"
+  },
+  {
+    "path": "wiki/sources/ingegneria-software-api-interoperabilita-fonti-tecniche.md",
+    "sha256": "588decf654519263e7b999e2a345b9e2cd87e7cc317b80fa81c50cbe348343fa",
+    "snapshot": "snapshot/wiki/sources/ingegneria-software-api-interoperabilita-fonti-tecniche.md"
+  },
+  {
+    "path": "wiki/sources/legge-23-settembre-2025-n-132-intelligenza-artificiale.md",
+    "sha256": "5407b99c8cab6617d063a616cc43ceec14a64ab5d28d4234ba8df12e2e26e100",
+    "snapshot": "snapshot/wiki/sources/legge-23-settembre-2025-n-132-intelligenza-artificiale.md"
+  },
+  {
+    "path": "wiki/sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici.md",
+    "sha256": "2f3694b38a3297dc256b4f2a0a548c3ca7f17d86546a2f9312e82579b4b73fc0",
+    "snapshot": "snapshot/wiki/sources/legge-28-giugno-2024-n-90-cybersicurezza-nazionale-e-reati-informatici.md"
+  },
+  {
+    "path": "wiki/sources/logica-volumi-copertura-concorsobook-v4.md",
+    "sha256": "e916cf152c82669cea93a172ef73dccd21cc43f60624ae0bc07d78d2402b62e7",
+    "snapshot": "snapshot/wiki/sources/logica-volumi-copertura-concorsobook-v4.md"
+  },
+  {
+    "path": "wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md",
+    "sha256": "5dd7389cf52878ee575c1bd41f5b52b391ad9bafa663d3d5a877674bc07a4a87",
+    "snapshot": "snapshot/wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md"
+  },
+  {
+    "path": "wiki/sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08.md",
+    "sha256": "6061580b69d39a5a8c9db61d16135a74b68a62e11b2e298551bd933d9d77077d",
+    "snapshot": "snapshot/wiki/sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08.md"
+  },
+  {
+    "path": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+    "sha256": "98d0740cd4486601f3465104925f7277414938263163bee411f265ad4836a29b",
+    "snapshot": "snapshot/wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md"
+  },
+  {
+    "path": "wiki/sources/procurement-ict-sla-vendor-management-fonti-consolidate.md",
+    "sha256": "4728c4142516ad1d4232fb4238b616917058a630b4ae9c4b4948b145af536145",
+    "snapshot": "snapshot/wiki/sources/procurement-ict-sla-vendor-management-fonti-consolidate.md"
+  },
+  {
+    "path": "wiki/sources/programmazione-algoritmi-strutture-dati-fonti-tecniche.md",
+    "sha256": "703b2f79c97feea5d6c23a276a5f7c9177d430db24f449e9fcc7c210c6774632",
+    "snapshot": "snapshot/wiki/sources/programmazione-algoritmi-strutture-dati-fonti-tecniche.md"
+  },
+  {
+    "path": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+    "sha256": "9e9154e4413b6bd0e9d44e9e36780bed1869052ebffd1d99f627ab5a00ed2e2f",
+    "snapshot": "snapshot/wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md"
+  },
+  {
+    "path": "wiki/sources/reti-sistemi-infrastrutture-fonti-tecniche.md",
+    "sha256": "5965dcd6fbbb13581016e3496b9b665c0300efa76b23c5d08b100d96900ebf10",
+    "snapshot": "snapshot/wiki/sources/reti-sistemi-infrastrutture-fonti-tecniche.md"
+  },
+  {
+    "path": "wiki/sources/reti-web-protocolli-concorsi.md",
+    "sha256": "3faa6eec824ba1e3c59169094c1336109e92882d2d5d02cc27b27b1749c3e8eb",
+    "snapshot": "snapshot/wiki/sources/reti-web-protocolli-concorsi.md"
+  },
+  {
+    "path": "wiki/sources/revisione-finale-risposta-concorsuale-metodo-bando.md",
+    "sha256": "300b6f665bb7b79ba564f0bd0a9a70d62af30ebb684a41df2fe570c9fda5dc20",
+    "snapshot": "snapshot/wiki/sources/revisione-finale-risposta-concorsuale-metodo-bando.md"
+  },
+  {
+    "path": "wiki/sources/risposta-sintetica-domande-aperte-metodo-bando.md",
+    "sha256": "e954b0bcc83cb3aa5005c9d8e972ae80925ab82567f64cca4cfbcd24ae1d3ec8",
+    "snapshot": "snapshot/wiki/sources/risposta-sintetica-domande-aperte-metodo-bando.md"
+  },
+  {
+    "path": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+    "sha256": "50225a344c67ee0611498d49c15ba5032b8007714e293d8bbfb6416413e14ac0",
+    "snapshot": "snapshot/wiki/sources/schema-universale-risposta-orale-metodo-bando.md"
+  },
+  {
+    "path": "wiki/sources/sicurezza-informatica-privacy-nis2-pa.md",
+    "sha256": "8a9e239633903843529e3d523cef79980851e23a2c7e6251bb76c15f90c403dd",
+    "snapshot": "snapshot/wiki/sources/sicurezza-informatica-privacy-nis2-pa.md"
+  },
+  {
+    "path": "wiki/sources/simulazioni-concorsuali-metodo-bando.md",
+    "sha256": "756bdf2c226d0ac9c2669a90c8a1aa5d65fd9781752b4b801eabf950274a2c12",
+    "snapshot": "snapshot/wiki/sources/simulazioni-concorsuali-metodo-bando.md"
+  },
+  {
+    "path": "wiki/sources/strategia-punteggio-prova-concorsuale-metodo-bando.md",
+    "sha256": "67a565e81f87474b43b1fbea68849e9edb6181b1f9a26464202b8329b0ee3f1d",
+    "snapshot": "snapshot/wiki/sources/strategia-punteggio-prova-concorsuale-metodo-bando.md"
+  }
+]

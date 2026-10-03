@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Chiudere il sistema dopo una prova</title>
+  <desc id="desc">Il risultato senza revisione produce memoria emotiva; con revisione produce capitale.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 43px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 21px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Chiudere il sistema dopo una prova</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Il risultato senza revisione produce memoria emotiva; con revisione produce capitale.</text>
+  </g>
+  
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="145 340 280 250 8">
+    <rect x="145" y="340" width="280" height="250" rx="28" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <circle cx="285" cy="398" r="36" fill="#10233F"/>
+    <text class="label whiteText" x="285" y="407" text-anchor="middle">1</text>
+    <text class="label" style="fill:#10233F" x="285" y="470" text-anchor="middle">Salva</text>
+    <text class="small strong" x="285" y="522" text-anchor="middle">esiti e documenti</text>
+  </g>
+<g data-safe-box="490 340 280 250 8">
+    <rect x="490" y="340" width="280" height="250" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <circle cx="630" cy="398" r="36" fill="#2F7D5A"/>
+    <text class="label whiteText" x="630" y="407" text-anchor="middle">2</text>
+    <text class="label" style="fill:#2F7D5A" x="630" y="470" text-anchor="middle">Scheda</text>
+    <text class="small strong" x="630" y="522" text-anchor="middle">post-prova</text>
+  </g>
+<g data-safe-box="835 340 280 250 8">
+    <rect x="835" y="340" width="280" height="250" rx="28" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <circle cx="975" cy="398" r="36" fill="#D4AF37"/>
+    <text class="label whiteText" x="975" y="407" text-anchor="middle">3</text>
+    <text class="label" style="fill:#D4AF37" x="975" y="470" text-anchor="middle">Aggiorna</text>
+    <text class="small strong" x="975" y="522" text-anchor="middle">Diario e capitale</text>
+  </g>
+<g data-safe-box="1180 340 280 250 8">
+    <rect x="1180" y="340" width="280" height="250" rx="28" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <circle cx="1320" cy="398" r="36" fill="#1F6F78"/>
+    <text class="label whiteText" x="1320" y="407" text-anchor="middle">4</text>
+    <text class="label" style="fill:#1F6F78" x="1320" y="470" text-anchor="middle">Decidi</text>
+    <text class="small strong" x="1320" y="522" text-anchor="middle">prossima mossa</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M425 455 L490 455"/>
+<path class="line" marker-end="url(#arrow)" d="M770 455 L835 455"/>
+<path class="line" marker-end="url(#arrow)" d="M1115 455 L1180 455"/>
+    <g data-safe-box="455 655 690 150 8">
+    <rect x="455" y="655" width="690" height="150" rx="24" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="455" y="655" width="690" height="12" rx="6" fill="#2F7D5A"/>
+    <text class="label" x="800" y="707" text-anchor="middle">Chiusura vera</text>
+    <text class="small" x="800" y="737" text-anchor="middle">ogni prova termina con dati</text>
+<text class="small" x="800" y="765" text-anchor="middle">non solo con una sensazione</text>
+  </g>
+    <g data-safe-box="245 810 1110 66 8">
+    <rect x="245" y="810" width="1110" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="853" text-anchor="middle">Non importa se e' andata bene o male: se non estrai capitale, perdi informazione.</text>
+  </g>
+    
+</svg>

@@ -55,3 +55,19 @@ Entita o istituto rilevante per anatomia del bando, diritto costituzionale, diri
 
 ## Stato revisione
 Da verificare e arricchire con definizioni normative.
+
+## Verifiche editoriali del 3 ottobre 2026
+
+- [[sources/vol-09-accesso-rimedi-verifica-2026-10-03]]
+- [[sources/vol-09-bandi-specialistici-verificati-2026-10-03]]
+- [[sources/vol-09-ciclo-digitale-verifica-2026-10-03]]
+- [[sources/vol-09-consip-strumenti-obblighi-2026-10-03]]
+- [[sources/vol-09-dnsh-cam-casi-verificati-2026-10-03]]
+- [[sources/vol-09-esecuzione-verifica-2026-10-03]]
+- [[sources/vol-09-gara-requisiti-verifica-2026-10-03]]
+- [[sources/vol-09-governance-contratti-verifica-2026-10-03]]
+- [[sources/vol-09-laboratorio-soluzioni-verificate-2026-10-03]]
+- [[sources/vol-09-pnrr-architettura-chiusura-regis-2026-10-03]]
+- [[sources/vol-09-programmazione-sottosoglia-verifica-2026-10-03]]
+- [[sources/vol-09-project-management-esempi-2026-10-03]]
+- [[sources/vol-09-tracciabilita-antifrode-spesa-2026-10-03]]

@@ -58,3 +58,8 @@ La fonte [[sources/cedu-savino-ed-altri-c-italia-28-aprile-2009-concorsi-e-art-6
 ## Gap residui
 
 Questo topic e' sufficiente per la parte istituzionale del manuale. Per un livello avanzato servono ancora schede puntuali su Consiglio di Stato e TAR relative a bando, prove, anonimato, scorrimento, autotutela, esclusioni e riparto di giurisdizione.
+
+
+## Candidatura e applicazioni — 3 ottobre 2026
+
+[[sources/vol-01-candidatura-casi-correzioni-2026-10-03]] verifica misure di partecipazione e ambito DPR487, quattro dossier risolti e otto situazionali con chiavi bilanciate.

@@ -1,0 +1,71 @@
+{
+  "module": "M-FC01",
+  "date": "2026-10-03",
+  "baseline": "wiki/reviews/audit-integrale-2026-10-02/VOL-03.md",
+  "quizReviewed": 60,
+  "openAnswerCriteriaReviewed": 100,
+  "claimExtractLinesRead": 106,
+  "pdfVerified": false,
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "sha256": "0d0f2da586890b5c75def864f87c846df9240d1fdc25bc5e4b915445dd25ce8b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "sha256": "a94678763423972a230e663dcdf6c84721f79d732ebe0a78b0eb009b0737ef62"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "sha256": "789c5e9b8c16107a2ee86d3ab22d66e18456490b4c4da0e0c8d9f07d4f714a81"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "sha256": "3e54b322ac14601235d0864cc4464043f0ebf40eead7cc15edbf97e606963d69"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "sha256": "79ea720b9397b39ff846895ad7c1333ef19eb718c489248032e0007973cc915f"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "sha256": "d30d86509672810fe2151612d6af919ea367f362082dc3f0f2559f66624f9b60"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "sha256": "2701cfa4ec2234dc09ad27fd4de5295a35f6d29c7b28e6a06c16f2c12b01d1d7"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "sha256": "b63e8d6895835ff6f561745b8fadcc68e5803936d3ac168e62dd0d298688e7cd"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "sha256": "32ea89d7cf8a7a22782ef930b754e6e1ad8cb58c9aeb2f919cdbc2535c3cd528"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "sha256": "048f6785ed52a41e3d11d628763d75ea20babef7883873bf94bdce4a7f426518"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "sha256": "17c920218a9e8a974423b23f4be96f378a9d47fa2d676c20cfc5655cc2e4129a"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "sha256": "9656a62a6a49a51f0256b5d016b62d1c42f40b6440ce4c9dd46bcef59ba67f3d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "sha256": "0bd22e61e585450098e375aee72a572c9edcd0a40456f43a4ea95c1250417ffe"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "sha256": "ee8f05a42fadb56a096a9764d0005eb77f0bd51a9f0d012bbdb0d170e2ac170f"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "sha256": "f83faa3ff0ae599831b7ed4312b210a27ed93a5c5341ad0458b741291bc8a7c2"
+    }
+  ]
+}

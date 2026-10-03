@@ -1,40 +1,19 @@
----
-id: vol-12-step16-m-sp03-text-freeze
-type: review
-title: "Manifest di text freeze · M-SP03"
-status: completed
-module: M-SP03
-updated_at: 2026-08-14T18:40:00+02:00
-review_required: false
-canonical: true
-issue_type: text_freeze
-tags: [vol-12, m-sp03, text-freeze]
----
+# M-SP03 — Manifest testuale del 3 ottobre 2026
 
-# Manifest di text freeze — M-SP03 Magistratura, Avvocatura e Notariato
+Verifica manuale del gate non implementato, esito CLI separatamente registrato.
 
-**Text freeze rigenerato il 14 agosto 2026 dopo la revisione finale di volume.** Gli hash recepiscono l'allineamento dei metadati editoriali e degli indici; l'unica rifinitura nel corpo è una formula stilistica di M-SP02 senza variazione informativa. Gli audit dei quattro moduli e il layout sono stati rieseguiti con esito verde.
+- 7 capitoli, 35 nuclei almeno 600 parole, 57 quiz commentati.
+- Casi, cronologie, calcoli e chiavi riesaminati; Humanizer dei delta completato.
+- Indice e matrice riconciliati; step 15 passato senza blocker o warning.
 
-Il gate `text-freeze` non è implementato: questo manifest e l'accettazione manuale motivata del CLI costituiscono l'evidenza di chiusura.
+| File | Stato | Data | SHA256 |
+| --- | --- | --- | --- |
+| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md | text-freeze | 2026-10-03 | 86070f2a4341ae74d5423ae72e70912f1e26c39a2a3a8b78cebf46e03fd167bb |
+| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md | text-freeze | 2026-10-03 | e5714aa3549eae54c61268153775130490c114a382870a1d76543d51733063ad |
+| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md | text-freeze | 2026-10-03 | 5161815b12115b76f3d2772756e2f1cc0dd4ef0b81f8af3cc12599d700abf6b2 |
+| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md | text-freeze | 2026-10-03 | 4e78945a9c6f1888fdf5df178a8ef1ab7288c6ce30f66a37135de9b12bf6c6a6 |
+| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md | text-freeze | 2026-10-03 | 8e63f6db3c30a8d5eecf25273c0ede44f0201757cd17ed33068fa9c12b0d7c08 |
+| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md | text-freeze | 2026-10-03 | c9c3f229061d1744bb8bf1e7b406bb951f923801d96c9928dd753cba25be33f5 |
+| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md | text-freeze | 2026-10-03 | 074a8a9fdad4d30e79a285bed456edc851ee0c18853f6b3b5e849676256ee357 |
 
-## Manifest SHA-256
-
-| File | SHA-256 |
-| --- | --- |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/index.md | 77c1d705ebbd99248ecf70c30c47d2e2d211a4c1397d2ac402bd7f874d07bc46 |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/planning/00-piano-editoriale.md | c248baec9e2d45e7cb8a067afcf0a87d3973c2725cb90fbd6552e502c650907c |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/planning/02-matrice-copertura-didattica.md | d8808ea78c63c1b3be2f17dfb5e6d10ebf640ad3a75565f1f1109ece1aaf932e |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md | 4053c1654bbdf81541e766206fc4f68c036c4456938f8f3c8e8701fdcf341ef7 |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md | a8e63aacbadccd72f40858c0a2249845603961d716a24c0e62f47c3b270ea9b7 |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md | de576cffb8bc5ce9000fd9edc83489db598260799f31b020492034f60616e43d |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md | 0a3c253c673ec02ccc02e41d7425617654fa638dd67d10e210571c65d3816656 |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md | 567dbc3c4133e5284667bdca8121e22015597430588c08752272d5d2fef77f35 |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md | 3a2be09c4979fa9d5724c96cfcc0abbe7ca45db77cba227503c0e25c546acb7c |
-| wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md | 8f4d81447fc424cd73c353b7f20f1fba9f451aaea4eabcb70e55fc42709ab735 |
-| wiki/reviews/pipeline/VOL-12/13-moduli-m-sp03-magistratura-avvocatura-notariato.md | 47c06d98172b149cb6ce5f0896a2a0b82a708cfb9e70fdd4649dba8e3ec7fcfc |
-| wiki/reviews/pipeline/VOL-12/14-moduli-m-sp03-magistratura-avvocatura-notariato.md | e61be07e5cf56eb3d64b2edc8e8fa6c27060506ca79dcec3232d2f074ad81228 |
-| wiki/reviews/pipeline/VOL-12/15-moduli-m-sp03-magistratura-avvocatura-notariato.md | 170db8b8c8f2594939d46a98394114ffec1c98f7d927c5f16a792028f2b99351 |
-
-## Regola successiva al freeze
-
-Ogni modifica sostanziale a teoria, fonti, casi, quiz, struttura o perimetro riapre i gate 10-15 e richiede un nuovo manifest.
+Nuovo PDF e SP04 ancora necessari. Riscontri normativi selettivi nelle source notes; non certificazione dell’intero programma.

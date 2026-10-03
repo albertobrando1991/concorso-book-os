@@ -1116,6 +1116,10 @@ h1 {
   margin-top: 0;
 }
 
+.previewTableWrap:has(+ .previewTableWrap.continuedTable) {
+  margin-bottom: 0;
+}
+
 .previewTable {
   width: 100%;
   border-collapse: collapse;
@@ -1155,6 +1159,10 @@ h1 {
   background: rgba(231, 221, 196, 0.22);
 }
 
+.previewTable .worksheetRow td {
+  height: 10mm;
+}
+
 .previewBlocks figure {
   break-inside: avoid;
   page-break-inside: avoid;
@@ -1166,9 +1174,9 @@ h1 {
 
 .previewBlocks figure img {
   display: block;
-  width: auto;
-  max-width: min(100%, 420px);
-  max-height: 238px;
+  width: 100%;
+  max-width: 100%;
+  max-height: 600px;
   height: auto;
   margin: 0 auto;
   object-fit: contain;
@@ -1178,12 +1186,13 @@ h1 {
 }
 
 .previewBlocks figcaption {
-  max-width: min(100%, 420px);
+  max-width: 100%;
   margin: 5px auto 0;
   color: var(--muted);
   font-family: var(--manual-sans);
-  font-size: 9pt;
+  font-size: 9.5pt;
   line-height: 1.2;
+  white-space: pre-line;
 }
 
 .previewBlocks pre {
@@ -1193,7 +1202,7 @@ h1 {
   border-radius: 4px;
   padding: 10px;
   font-family: Consolas, monospace;
-  font-size: 11px;
+  font-size: 9.5pt;
   white-space: pre-wrap;
 }
 
@@ -1646,7 +1655,7 @@ h1 {
 
 .indexPart span {
   color: var(--book-bordeaux);
-  font-size: 10px;
+  font-size: 9.5pt;
   font-weight: 800;
   text-transform: uppercase;
 }
@@ -1672,7 +1681,7 @@ h1 {
 .indexChapterLine {
   margin: 5px 0 2px;
   color: var(--book-rich-black);
-  font-size: 10px;
+  font-size: 10pt;
   font-weight: 800;
   line-height: 1.16;
   text-decoration: none;
@@ -1695,14 +1704,14 @@ h1 {
 .indexSubLine {
   margin: 1.5px 0;
   color: #111827;
-  font-size: 9px;
+  font-size: 9.5pt;
   font-weight: 500;
   line-height: 1.14;
 }
 
 .indexChapterLabel {
   color: #334155;
-  font-size: 8.8px;
+  font-size: 9.5pt;
   font-weight: 800;
   white-space: nowrap;
 }
@@ -1742,7 +1751,7 @@ h1 {
 .indexEntry h4 {
   color: var(--book-navy);
   font-family: var(--manual-sans);
-  font-size: 10.1px;
+  font-size: 10pt;
   font-weight: 800;
   line-height: 1.15;
   margin: 0;
@@ -1755,7 +1764,7 @@ h1 {
   gap: 1.5px 7px;
   margin-top: 3px;
   color: #334155;
-  font-size: 8.8px;
+  font-size: 9.5pt;
   line-height: 1.28;
 }
 

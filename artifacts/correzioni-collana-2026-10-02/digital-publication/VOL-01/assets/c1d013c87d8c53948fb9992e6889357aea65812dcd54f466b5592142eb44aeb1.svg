@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Core, moduli e trasferibilita</title>
+  <desc id="desc">Il capitale comune accelera; il nuovo bando decide cosa adattare.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .muted { fill: #526174; }
+    .navy { fill: #10233F; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Core, moduli e trasferibilita</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Il capitale comune accelera; il nuovo bando decide cosa adattare.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="120 260 400 380 20">
+    <rect x="120" y="260" width="400" height="380" rx="26" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="120" y="260" width="400" height="14" rx="7" fill="#10233F"/>
+    <text class="label" x="320" y="328" text-anchor="middle" fill="#10233F">Core comune</text>
+    <line x1="190" y1="355" x2="450" y2="355" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="320" y="390" text-anchor="middle">Metodo BANDO</text>
+<text class="small" x="320" y="424" text-anchor="middle">amministrativo essenziale</text>
+<text class="small" x="320" y="458" text-anchor="middle">pubblico impiego</text>
+<text class="small" x="320" y="492" text-anchor="middle">trasparenza e privacy</text>
+<text class="small" x="320" y="526" text-anchor="middle">logica, inglese, prove</text>
+  </g>
+    <g data-safe-box="585 355 430 150 8">
+    <rect x="585" y="355" width="430" height="150" rx="24" fill="#FFF4CC" stroke="#D4AF37" stroke-width="3"/>
+    <rect x="585" y="355" width="430" height="12" rx="6" fill="#D4AF37"/>
+    <text class="label" x="800" y="407" text-anchor="middle">Nuovo bando</text>
+    <text class="small" x="800" y="437" text-anchor="middle">verifica profilo</text>
+<text class="small" x="800" y="465" text-anchor="middle">prova e materie</text>
+<text class="small" x="800" y="493" text-anchor="middle">decide cosa adattare</text>
+  </g>
+    <g data-safe-box="1060 260 400 380 20">
+    <rect x="1060" y="260" width="400" height="380" rx="26" fill="#E4F4F5" stroke="#1F6F78" stroke-width="3"/>
+    <rect x="1060" y="260" width="400" height="14" rx="7" fill="#1F6F78"/>
+    <text class="label" x="1260" y="328" text-anchor="middle" fill="#1F6F78">Moduli profilo</text>
+    <line x1="1130" y1="355" x2="1390" y2="355" stroke="#CBD5E1" stroke-width="3"/>
+    <text class="small" x="1260" y="390" text-anchor="middle">enti locali</text>
+<text class="small" x="1260" y="424" text-anchor="middle">contabilita</text>
+<text class="small" x="1260" y="458" text-anchor="middle">tributario</text>
+<text class="small" x="1260" y="492" text-anchor="middle">ICT, sanita, scuola</text>
+<text class="small" x="1260" y="526" text-anchor="middle">vigilanza, tecnico, appalti</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M535 450 L585 450"/>
+    <path class="line" marker-end="url(#arrow)" d="M1015 450 L1060 450"/>
+    <g data-safe-box="250 812 1100 66 12">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Il capitale fa partire avanti, ma non sostituisce la lettura del bando.</text>
+  </g>
+
+</svg>

@@ -35,7 +35,7 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 - Rinvii specialistici a VOL-08, VOL-09, VOL-10 e VOL-12
 
 ## Capitolo 1 - Il sistema Giustizia visto dal candidato
-1. Perché' i concorsi Giustizia non sono concorsi amministrativi generici
+1. Perché i concorsi Giustizia non sono concorsi amministrativi generici
 2. La mappa essenziale: giurisdizione, amministrazione, uffici e servizi
 3. Profili ricorrenti: AUPP, funzionario giudiziario, cancelleria, UNEP, DAP, DGMC
 4. Materie comuni da richiamare dal VOL-01
@@ -49,7 +49,7 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 3. Dipartimento per gli affari di giustizia e Dipartimento dell'organizzazione giudiziaria
 4. DAP: amministrazione penitenziaria, istituti e servizi
 5. DGMC: minorile, comunità e giustizia riparativa
-6. DIT, DGSIA e supporto digitale
+6. DIT e direzioni del digitale
 7. Come collegare dipartimento, ufficio, profilo e prova concorsuale
 
 ## Capitolo 3 - Uffici giudiziari e ordinamento applicato al lavoro d'ufficio
@@ -67,7 +67,7 @@ source_refs: ["sources/vol-04-dossier-redazionale-giustizia-upp.md", "sources/vo
 3. Attività di supporto: studio, ricerca, scheda, bozza, monitoraggio
 4. UPP civile, penale, minorile e di legittimità
 5. Raccordo con magistrati, cancellerie e dirigenti
-6. Stabilizzazione, nuova fase PNRR e caso del D.L. 100/2026 non convertito
+6. Stabilizzazione, PNRR e aggiornamenti: DL 100/2026 convertito dalla L. 145/2026
 7. Indicatori, arretrato e qualità dell'output
 
 ## Capitolo 5 - Il lavoro dell'AUPP: fascicolo, udienza, ricerca e scheda

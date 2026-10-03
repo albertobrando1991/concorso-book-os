@@ -49,3 +49,8 @@ La prova a quiz richiede conoscenza, velocita, gestione del rischio e correzione
 
 ## Stato revisione
 Topic pronto. Da aggiornare con esempi di bandi reali solo dopo verifica ufficiale.
+
+
+## Correzioni didattiche del 2 ottobre 2026
+
+[[sources/vol-01-esempi-logica-inglese-metodo-2026-10-02]] consolida le correzioni di quiz e possessivi, limiti QCER, condizioni logiche, distribuzione delle ore, punteggio del caso Marta e valore atteso. Applicazione nei rispettivi capitoli del VOL-01; verifica indipendente e grafica ancora aperta.

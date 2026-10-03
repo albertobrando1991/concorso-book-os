@@ -1,0 +1,287 @@
+[
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-07",
+    "path": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+    "match": true
+  },
+  {
+    "volume": "VOL-12",
+    "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+    "match": true
+  }
+]

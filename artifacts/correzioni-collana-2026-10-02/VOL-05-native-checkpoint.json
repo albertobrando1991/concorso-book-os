@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-03",
+  "chapters": 15,
+  "schemas": 75,
+  "allPriorFreezeHashesMatched": true,
+  "allOriginalImagesPreserved": true,
+  "allQuizAndCaseBodiesPreserved": true,
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "before": "ee30d6423cbabf83309c161f753acedebf65182cfaab6209c37ea5500ec98f8c",
+      "after": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "before": "6ea4aaf063661dc10278e12eb919bbf9f0ad18bbc7e40c389dec3a6859b6d2a7",
+      "after": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "before": "bd2cc74063e6997fa09c1eb9d3bac8ba7a30de6587856a54a82fe8746ab632f1",
+      "after": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "before": "1d5164109b5d6141fbd24d4a19b08d8a6aad51dd46eed2ee13c03aa2db573162",
+      "after": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "before": "85d1d8e82d9cd741dcdbd19a6cb7b225b9faae858e1fc98eb672ad2a53cad023",
+      "after": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "before": "9130062c795f9a9fb29289ea208a942f291ef273b7028bd0da2319d35c695221",
+      "after": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "before": "12a08512e00291e166968a28680bbd9f39f047d03d674be34bc5de796d83106c",
+      "after": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "before": "849ad339d949f3e0f48644e8ebe8745a046fff2921a04ba9c857817be8fb74aa",
+      "after": "46f43f3b336f8c59413b2ec9513d5c8ca1e79b18f9d7e306e7132e64873ff265",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "before": "2f222cc0828567670a64e410fc5870863d09b56ba23d97e2e6234be582eab4d1",
+      "after": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "before": "010e431c3e47f713bc14209f188eaaabcbb80a49d2fc155ab8da37b2c52beb9b",
+      "after": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "before": "1752a141ccdc175384569feedc95eb61ea0892d8ff2fe604883536f8ba5afdc1",
+      "after": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "before": "37424b17a6b4a9bfc0d3b5727094811a361acf108fdd23e96bd40ccc8c32a640",
+      "after": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "before": "d613f6ad2764976478a5b120cf71364304256fb30cbbb694245f1d3b48829adb",
+      "after": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "before": "da183e444bf4f5cbaf9fe24914129d62a11834481dceac5f571ac6396f4c3e4a",
+      "after": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "before": "5a1289874027650c4b8c84ed20b8a12d051f5ccb9cedb11d138f0a01dfc3b721",
+      "after": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368",
+      "schemes": 5,
+      "bodyUnchangedOutsideDeclaredDelta": true
+    }
+  ],
+  "declaredDelta": [
+    "75 specific native schemes replace 73 raster occurrences and restore two useful diagrams in chapter 13.",
+    "Old duplicate captions removed; asset metadata cleared for substituted chapters.",
+    "Chapter 8 nucleus 3 boundary moved before blacklists; all text preserved."
+  ],
+  "semanticChecks": [
+    "BANDO letters corrected",
+    "Consob sanction is conditional",
+    "Whistleblowing protection accompanies procedure",
+    "Sector-specific competence and alternatives explicit",
+    "Numeric laboratory schemes match solved datasets"
+  ],
+  "limitations": [
+    "Visual PDF verification pending; no final publication judgment."
+  ]
+}

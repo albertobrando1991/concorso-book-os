@@ -61,7 +61,7 @@ Il regolamento (UE) 2022/2554 è applicabile dal 17 gennaio 2025 e disciplina ge
 Fonti ufficiali:
 
 - EUR-Lex, regolamento (UE) 2022/2554: https://eur-lex.europa.eu/eli/reg/2022/2554/oj
-- Gazzetta Ufficiale, d.lgs. n. 23/2025: https://www.gazzettaufficiale.it/eli/id/2025/03/11/25G00031/sg
+- Gazzetta Ufficiale, d.lgs. n. 23/2025: https://www.gazzettaufficiale.it/eli/id/2025/03/11/25G00032/sg
 - Banca d'Italia, TIBER-IT e applicazione DORA: https://www.bancaditalia.it/compiti/sispaga-mercati/tiber-it/
 
 ## Arbitro Assicurativo

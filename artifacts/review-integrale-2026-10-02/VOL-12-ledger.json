@@ -1,0 +1,1711 @@
+{
+  "volume": "VOL-12",
+  "status": "text_review_complete_external_verification_selective",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "sha256": "634f0fcb0d972e86eeee55b6d745d75e92baa13dde89f992c29f321175295f42",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-01",
+        "V12-66"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "634f0fcb0d972e86eeee55b6d745d75e92baa13dde89f992c29f321175295f42",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "sha256": "381236c97feadafeefb5508e7501826e642f620cf5dbde7c1a7b6bf82e4e8f16",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E01",
+          "claim": "Corte costituzionale 40/2024: esclusione per ebbrezza, non tutte le cause",
+          "url": "https://www.cortecostituzionale.it/scheda-pronuncia/2024/40",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        },
+        {
+          "id": "E02",
+          "claim": "DPR207/2015 entrata in vigore 13 gennaio 2016",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2015/12/29/15G00224/sg",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-02",
+        "V12-03",
+        "V12-04"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "381236c97feadafeefb5508e7501826e642f620cf5dbde7c1a7b6bf82e4e8f16",
+      "unchangedSinceRead": true,
+      "quizCount": 7
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "sha256": "e1cc731314fbc9310c7aa84a9ce0fe6a6e465f6bb9623b796051f69fbc8d8ccd",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-05"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "e1cc731314fbc9310c7aa84a9ce0fe6a6e465f6bb9623b796051f69fbc8d8ccd",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "sha256": "3f7a551ba3cc97f29102e0afe3378b80a0336a7953687e35072ae23dc77d5572",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E02",
+          "claim": "DPR207/2015 entrata in vigore 13 gennaio 2016",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2015/12/29/15G00224/sg",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-06"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "3f7a551ba3cc97f29102e0afe3378b80a0336a7953687e35072ae23dc77d5572",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "sha256": "e5970aa3f39197a96fc0488944f4b28dac771986d3ddda58744fe9fde59489b6",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-07",
+        "V12-08"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "e5970aa3f39197a96fc0488944f4b28dac771986d3ddda58744fe9fde59489b6",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "sha256": "ee8417f5fb7e3b4e56a325ead5e6f637aee3a213f7c72f2b91b6323fb761f6ba",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-09",
+        "V12-65"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "ee8417f5fb7e3b4e56a325ead5e6f637aee3a213f7c72f2b91b6323fb761f6ba",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "sha256": "6b40d96773d29c48603f4d502766e5637ad2293b4321b6e468973e457918360e",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-10",
+        "V12-11"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "6b40d96773d29c48603f4d502766e5637ad2293b4321b6e468973e457918360e",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "sha256": "a7a59497a1d3f70ed98a87a563fe86666024ed6d3ce08090c9a2a59e6a80e8db",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-12",
+        "V12-13"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "a7a59497a1d3f70ed98a87a563fe86666024ed6d3ce08090c9a2a59e6a80e8db",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "sha256": "6d3e379eff52124d38310114c2b2ef60873dca695c8c77754faba80367a86eff",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-14"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "6d3e379eff52124d38310114c2b2ef60873dca695c8c77754faba80367a86eff",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "sha256": "6a5c5cedf20de5e81f403d3cf6d66e7c289fcd0b44b60adbbd6bfba5f608d159",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-15"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Pagine PdS non accessibili; nessuna sostituzione arbitraria dei relativi valori."
+      ],
+      "finalSha256": "6a5c5cedf20de5e81f403d3cf6d66e7c289fcd0b44b60adbbd6bfba5f608d159",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "sha256": "db9fba2a0014e37c9a7dc95815564fe30a4454e73885889e59ff80372e886f75",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E03",
+          "claim": "DM166/2019 requisiti VVF; raffronto col PDF ufficiale acquisito",
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2020/01/10/7/sg/pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        },
+        {
+          "id": "E04",
+          "claim": "Scheda ufficiale concorso 400 VVF; bando locale artt.1–2 e Allegato A",
+          "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2f4e658e4c0341f6858a05935f4e5020",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-16",
+        "V12-64"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "db9fba2a0014e37c9a7dc95815564fe30a4454e73885889e59ff80372e886f75",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "sha256": "08716dce23085e39a965c95f6419fda6e4261a8c1ae8dbf7dfac0f5a57533e69",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E03",
+          "claim": "DM166/2019 requisiti VVF; raffronto col PDF ufficiale acquisito",
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2020/01/10/7/sg/pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        },
+        {
+          "id": "E04",
+          "claim": "Scheda ufficiale concorso 400 VVF; bando locale artt.1–2 e Allegato A",
+          "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2f4e658e4c0341f6858a05935f4e5020",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-17",
+        "V12-18",
+        "V12-19",
+        "V12-20",
+        "V12-21",
+        "V12-22"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "08716dce23085e39a965c95f6419fda6e4261a8c1ae8dbf7dfac0f5a57533e69",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "sha256": "5141e3d94e47f017b52ad68bc14cdf01f67f57c4a90a263927ed91cf2142c674",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E04",
+          "claim": "Scheda ufficiale concorso 400 VVF; bando locale artt.1–2 e Allegato A",
+          "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2f4e658e4c0341f6858a05935f4e5020",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-23",
+        "V12-24",
+        "V12-25"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "5141e3d94e47f017b52ad68bc14cdf01f67f57c4a90a263927ed91cf2142c674",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "sha256": "abe36479b45862692e662d16f806e5d48cf024b6da5b297b1fb61e6a17f3854d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E04",
+          "claim": "Scheda ufficiale concorso 400 VVF; bando locale artt.1–2 e Allegato A",
+          "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2f4e658e4c0341f6858a05935f4e5020",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-26",
+        "V12-27",
+        "V12-28",
+        "V12-29",
+        "V12-30",
+        "V12-31"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "abe36479b45862692e662d16f806e5d48cf024b6da5b297b1fb61e6a17f3854d",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "sha256": "f0e7adc07ae46dfa96762ea1a52d3129e7b43c63281010851a94e99cc2e968dc",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-32"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "f0e7adc07ae46dfa96762ea1a52d3129e7b43c63281010851a94e99cc2e968dc",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "sha256": "7cfb7d96b3493ebde24a5bbc56ff9013338ed252c4b1b3759e9a93c110739d3d",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-33"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "7cfb7d96b3493ebde24a5bbc56ff9013338ed252c4b1b3759e9a93c110739d3d",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "sha256": "1c3e806ab84503fc4294652740658871d66f82006a4107fa9694da68f4462b00",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-34"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "1c3e806ab84503fc4294652740658871d66f82006a4107fa9694da68f4462b00",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "sha256": "2bd5d4353c9da627c029c676b21f57b96e4a81936e9e1b9ef3bf9535829f7b8f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-35"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "2bd5d4353c9da627c029c676b21f57b96e4a81936e9e1b9ef3bf9535829f7b8f",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "sha256": "bab9f61c055200177f87143a160111d08d7c5d6025dbfb1136705ef5b099dbf5",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-36",
+        "V12-37"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Bandi primari locali verificati su passaggi mirati; non tutta la legislazione richiamata è stata riletta integralmente."
+      ],
+      "finalSha256": "bab9f61c055200177f87143a160111d08d7c5d6025dbfb1136705ef5b099dbf5",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "sha256": "3bf01c9fcf0bfe6dfc21135f0424cf1cbab108b32dc93b369e0d32f3ca499f23",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-38",
+        "V12-39"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Bandi primari locali verificati su passaggi mirati; non tutta la legislazione richiamata è stata riletta integralmente."
+      ],
+      "finalSha256": "3bf01c9fcf0bfe6dfc21135f0424cf1cbab108b32dc93b369e0d32f3ca499f23",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "sha256": "7e105d490d5554a13a1eed58acc1f6c5d21c9bb172969c7e72066c18c9a74704",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E08",
+          "claim": "Bando procuratori 2025, limite età; PDF web errore tecnico, riscontro su copia locale e GU",
+          "url": "https://www.avvocaturastato.it/sites/avvocaturastato.it/files/2025-06/DAG_2025_114_BandoProcuratoredelloStato%28firmato%29.pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-40"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Bandi primari locali verificati su passaggi mirati; non tutta la legislazione richiamata è stata riletta integralmente."
+      ],
+      "finalSha256": "7e105d490d5554a13a1eed58acc1f6c5d21c9bb172969c7e72066c18c9a74704",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "sha256": "b3c577e8517b57c313b08550c1911d1aeb4155021dcb278818cd657edd01c47b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-41",
+        "V12-42"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Bandi primari locali verificati su passaggi mirati; non tutta la legislazione richiamata è stata riletta integralmente."
+      ],
+      "finalSha256": "b3c577e8517b57c313b08550c1911d1aeb4155021dcb278818cd657edd01c47b",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "sha256": "b95e3ff918e4ae85a1eec02efd9c550bea8e8a9c3291e86db04a56086bd5178f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-43",
+        "V12-44"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Bandi primari locali verificati su passaggi mirati; non tutta la legislazione richiamata è stata riletta integralmente."
+      ],
+      "finalSha256": "b95e3ff918e4ae85a1eec02efd9c550bea8e8a9c3291e86db04a56086bd5178f",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "sha256": "8bc14a78fd0845354c17f96cf68df462e7b3b856bca4fe3ae4c7e55183b54a48",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-45",
+        "V12-46"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Bandi primari locali verificati su passaggi mirati; non tutta la legislazione richiamata è stata riletta integralmente."
+      ],
+      "finalSha256": "8bc14a78fd0845354c17f96cf68df462e7b3b856bca4fe3ae4c7e55183b54a48",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "sha256": "29d0d2a5d18c7239ce7cc6f28a35f9742106599594d0c37fd57ce9048b9cb5d1",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "V12-47"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica.",
+        "Bandi primari locali verificati su passaggi mirati; non tutta la legislazione richiamata è stata riletta integralmente."
+      ],
+      "finalSha256": "29d0d2a5d18c7239ce7cc6f28a35f9742106599594d0c37fd57ce9048b9cb5d1",
+      "unchangedSinceRead": true,
+      "quizCount": 8
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "sha256": "ab5820cf86fe29a7b8cffa96ca7848220e70bbd5b2d588831097b274ef3fad74",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E05",
+          "claim": "Bando MAECI 2026: requisiti, prove, opzioni e graduatoria",
+          "url": "https://www.esteri.it/wp-content/uploads/2026/03/Bando-Concorso-Diplomatico-2026.pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        },
+        {
+          "id": "E06",
+          "claim": "Scheda concorso prefettizio 158; confronto PDF locale artt.2,9,10,13",
+          "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f4f81637407c43f79f7c3d28f289ee84",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-48",
+        "V12-49"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "ab5820cf86fe29a7b8cffa96ca7848220e70bbd5b2d588831097b274ef3fad74",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "sha256": "bef2067ecd97b0fb924d2a52c765e20f309e08eed22a87cea7d2b02670513ef0",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E06",
+          "claim": "Scheda concorso prefettizio 158; confronto PDF locale artt.2,9,10,13",
+          "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f4f81637407c43f79f7c3d28f289ee84",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        },
+        {
+          "id": "E07",
+          "claim": "Senato: art.21 DL90/2014, soppressione SSAI e confluenza SNA",
+          "url": "https://www.senato.it/show-doc?aj=no&id=942130&leg=17&part=dossier_dossier1-sezione_sezione13-h2_h291&tipodoc=DOSSIER",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-50",
+        "V12-51",
+        "V12-52",
+        "V12-53",
+        "V12-54"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "bef2067ecd97b0fb924d2a52c765e20f309e08eed22a87cea7d2b02670513ef0",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "sha256": "bf8f1ec5ec32ea78b621b56728c76d0c07fcb2dc1477e6aba002e64fab90128b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E05",
+          "claim": "Bando MAECI 2026: requisiti, prove, opzioni e graduatoria",
+          "url": "https://www.esteri.it/wp-content/uploads/2026/03/Bando-Concorso-Diplomatico-2026.pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-55",
+        "V12-56",
+        "V12-57",
+        "V12-58"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "bf8f1ec5ec32ea78b621b56728c76d0c07fcb2dc1477e6aba002e64fab90128b",
+      "unchangedSinceRead": true,
+      "quizCount": 7
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "sha256": "9e8c8d665fa2fd2adde4d94911371fc8942efb7c063227c9707f527965b4bd11",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E05",
+          "claim": "Bando MAECI 2026: requisiti, prove, opzioni e graduatoria",
+          "url": "https://www.esteri.it/wp-content/uploads/2026/03/Bando-Concorso-Diplomatico-2026.pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-59",
+        "V12-60"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "9e8c8d665fa2fd2adde4d94911371fc8942efb7c063227c9707f527965b4bd11",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "sha256": "414f9d2e001e5e413f1cf97d53e3845fdfef72a0b009a52a3b5b9a3aa95dcadb",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E05",
+          "claim": "Bando MAECI 2026: requisiti, prove, opzioni e graduatoria",
+          "url": "https://www.esteri.it/wp-content/uploads/2026/03/Bando-Concorso-Diplomatico-2026.pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-61"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "414f9d2e001e5e413f1cf97d53e3845fdfef72a0b009a52a3b5b9a3aa95dcadb",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "sha256": "18704988b1f2ef82e54f6a1ab93963e5acc968a68d59ad2e97543db4e944f054",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E05",
+          "claim": "Bando MAECI 2026: requisiti, prove, opzioni e graduatoria",
+          "url": "https://www.esteri.it/wp-content/uploads/2026/03/Bando-Concorso-Diplomatico-2026.pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-62"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "18704988b1f2ef82e54f6a1ab93963e5acc968a68d59ad2e97543db4e944f054",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "sha256": "32f24908a2a5d57e326815d2d73cda2f5fa9e42c32728eef5ccf1452a4f2005b",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "id": "E05",
+          "claim": "Bando MAECI 2026: requisiti, prove, opzioni e graduatoria",
+          "url": "https://www.esteri.it/wp-content/uploads/2026/03/Bando-Concorso-Diplomatico-2026.pdf",
+          "scope": "Riscontro selettivo dei claim pertinenti; non tutte le proposizioni del capitolo"
+        }
+      ],
+      "findings": [
+        "V12-63"
+      ],
+      "limitations": [
+        "Lettura originale integrale; verifica esterna selettiva. Non certificazione normativa o medica."
+      ],
+      "finalSha256": "32f24908a2a5d57e326815d2d73cda2f5fa9e42c32728eef5ccf1452a4f2005b",
+      "unchangedSinceRead": true,
+      "quizCount": 6
+    }
+  ],
+  "supportingSources": [
+    {
+      "path": "wiki/sources/banca-dati-ufficiale-quiz-metodo-bando.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "bc85e6c84b15a1863217107c5b947161a967f4e49504dda2cc0f15fb1e99b4ba"
+    },
+    {
+      "path": "wiki/sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "847f1acc311ac082ed480f533645f57bb3ac32069936c83f012fe25df21f83b5"
+    },
+    {
+      "path": "wiki/sources/bandi-e-ordinamento-corpo-nazionale-vigili-del-fuoco-m-sp02.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "e8e0320a3fe72d24dc0d6ea763978cfe49a86f93bd07c10bbeba51b12ad54e92"
+    },
+    {
+      "path": "wiki/sources/bandi-magistratura-avvocatura-notariato-m-sp03.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "7c0b6ea0173938f00974aa69d3b405c1c41480bd4fb176e73a4cbe4b5c17fa7f"
+    },
+    {
+      "path": "wiki/sources/bandi-rappresentativi-m-sp01-forze-polizia-2026.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "f38db06372dab0a66158691825007ded42c1e1ae4a29b1b3a16b4e5859565995"
+    },
+    {
+      "path": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "0f28d52994256faf1397c939ca6b162b9acad3972ea5c7c3da1cf232018a7b6e"
+    },
+    {
+      "path": "wiki/sources/codice-procedura-penale-polizia-giudiziaria.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "51ece7e72bd64f0cc7b55eda70ede2d9e6c04f96f8c7aeffd5fb584ef4ac3f02"
+    },
+    {
+      "path": "wiki/sources/logica-volumi-copertura-concorsobook-v4.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "e916cf152c82669cea93a172ef73dccd21cc43f60624ae0bc07d78d2402b62e7"
+    },
+    {
+      "path": "wiki/sources/ordinamento-forze-di-polizia-quadro-normativo-m-sp01.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "65da4bf90d009565c24036d3d0ebdbfd93b0ec0e1e2a8b4f3f1118410d83b72d"
+    },
+    {
+      "path": "wiki/sources/parametri-fisici-concorsi-dpr-207-2015-vol-12.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "68db82e48f963755c61d01d1007b316e37848c27982aef4c98efa91cfe153ee0"
+    },
+    {
+      "path": "wiki/sources/piano-studio-personale-metodo-bando.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "212d849625fd73df43f5f35d1be791ac0d2e78a88ab926f4b0fbbaa8ab3050c2"
+    },
+    {
+      "path": "wiki/sources/prove-efficienza-fisica-accertamenti-forze-di-polizia-m-sp01.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "e3c5cc741b55bfd4c82aaefcee438ab20afb1841ec4d93e78470973a228c2cab"
+    },
+    {
+      "path": "wiki/sources/regio-decreto-18-giugno-1931-n-773-tulps-polizia-amministrativa.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "4c21f4878246f7bd12718e97c8652e5bca63afbfbca4b81f341d89bd9b7b94b3"
+    },
+    {
+      "path": "wiki/sources/schema-universale-risposta-orale-metodo-bando.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "50225a344c67ee0611498d49c15ba5032b8007714e293d8bbfb6416413e14ac0"
+    },
+    {
+      "path": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "exists": true,
+      "readComplete": true,
+      "sha256": "df050b1793e2a2b0eb3369429672844f54664eeb3cc0c020b1dc697634260bc5"
+    }
+  ],
+  "externalVerificationNotes": [
+    {
+      "claim": "Art.26condotta: rinvia requisiti magistratura; sent40/2024 annulla solo ebbrezza, non tutte cause automatiche",
+      "url": "https://www.cortecostituzionale.it/scheda-pronuncia/2024/40",
+      "checked": true
+    },
+    {
+      "claim": "DPR207entrata13gen16; applicabilita esatta art6 ancora da leggere",
+      "url": "https://www.gazzettaufficiale.it/eli/id/2015/12/29/15G00224/sg",
+      "checked": true
+    },
+    {
+      "claim": "Pagine PdS2026 non accessibili web: accesso negato",
+      "url": "https://www.poliziadistato.it/articolo/185069f1d61bbfa1e306249287",
+      "checked": false
+    },
+    {
+      "id": "E03",
+      "claim": "DM166/2019 requisiti VVF; raffronto col PDF ufficiale acquisito",
+      "url": "https://www.gazzettaufficiale.it/eli/gu/2020/01/10/7/sg/pdf",
+      "checked": true
+    },
+    {
+      "id": "E04",
+      "claim": "Scheda ufficiale concorso 400 VVF; bando locale artt.1–2 e Allegato A",
+      "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2f4e658e4c0341f6858a05935f4e5020",
+      "checked": true
+    },
+    {
+      "id": "E05",
+      "claim": "Bando MAECI 2026: requisiti, prove, opzioni e graduatoria",
+      "url": "https://www.esteri.it/wp-content/uploads/2026/03/Bando-Concorso-Diplomatico-2026.pdf",
+      "checked": true
+    },
+    {
+      "id": "E06",
+      "claim": "Scheda concorso prefettizio 158; confronto PDF locale artt.2,9,10,13",
+      "url": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f4f81637407c43f79f7c3d28f289ee84",
+      "checked": true
+    },
+    {
+      "id": "E07",
+      "claim": "Senato: art.21 DL90/2014, soppressione SSAI e confluenza SNA",
+      "url": "https://www.senato.it/show-doc?aj=no&id=942130&leg=17&part=dossier_dossier1-sezione_sezione13-h2_h291&tipodoc=DOSSIER",
+      "checked": true
+    },
+    {
+      "id": "E08",
+      "claim": "Bando procuratori 2025, limite età; PDF web errore tecnico, riscontro su copia locale e GU",
+      "url": "https://www.avvocaturastato.it/sites/avvocaturastato.it/files/2025-06/DAG_2025_114_BandoProcuratoredelloStato%28firmato%29.pdf",
+      "checked": true
+    }
+  ],
+  "planningRead": [
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/index.md",
+      "sha256": "204d7d44297afbbb92b50ce1415482842ca26916e3c4154cf20b002dba3442e2",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/planning/00-piano-editoriale.md",
+      "sha256": "a2fb065d8e81baa2025b03157b6d5d074e3beb8c2849afaac4807dab92eaa249",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/planning/02-matrice-copertura-didattica.md",
+      "sha256": "7a1917fd6a490bc9ce57e7d193478d9bfb632d9d293ffa2d5def84902bcde194",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/index.md",
+      "sha256": "e1148dc280954b262cc2e3b3b82506d4e940c85b6756be65654440ab3e809fb0",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/planning/00-piano-editoriale.md",
+      "sha256": "2ddd2c4f22257ef3ef63efeea6ab61faf1cc3d0d8d39ee5ebbfc41fa9013c8f6",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/planning/02-matrice-copertura-didattica.md",
+      "sha256": "d39d5e4e488fd05236b4f6aab5621076873d7bed31bcbf3ff2c5a67f186e226b",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/index.md",
+      "sha256": "77c1d705ebbd99248ecf70c30c47d2e2d211a4c1397d2ac402bd7f874d07bc46",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/planning/00-piano-editoriale.md",
+      "sha256": "c248baec9e2d45e7cb8a067afcf0a87d3973c2725cb90fbd6552e502c650907c",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/planning/02-matrice-copertura-didattica.md",
+      "sha256": "d8808ea78c63c1b3be2f17dfb5e6d10ebf640ad3a75565f1f1109ece1aaf932e",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/index.md",
+      "sha256": "e020dc961107e0825f56d69044d8c2a4964796151f8524378ddd165b7b287599",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/planning/00-piano-editoriale.md",
+      "sha256": "fffd940f471d7e5dd1013c1a7e2443ee11fe5d3dd47432988137fefdf723688f",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/planning/02-matrice-copertura-didattica.md",
+      "sha256": "63f2b40089a18c224016f7bc0f51b68e82d6d3a41a0a8064931bc398b9370c4f",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/volumi/vol-12-carriere-speciali-premium/index.md",
+      "sha256": "5a5056ea16322f478fc7770cf20307d4eb3b30ba87ce8742897414164de374f1",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/volumi/vol-12-carriere-speciali-premium/planning/04-bibbia-del-volume.md",
+      "sha256": "4366b796426f878d475b1c961621e02ae152796b2ad02eba2af287ed0424eb01",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/volumi/vol-12-carriere-speciali-premium/planning/05-decisioni-di-perimetro.md",
+      "sha256": "28dc9d1d362810cd49a32dd9c567e826a9ac166e7f37940a46a7e5ac73e276c6",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/volumi/vol-12-carriere-speciali-premium/planning/05-filosofia-visiva-soglia-governabile.md",
+      "sha256": "845123d48951e885f00556c59d10fb52a24f90b3804d9cd50b301478484f1dec",
+      "readComplete": true
+    }
+  ],
+  "rawPrimaryChecks": [
+    {
+      "path": "wiki/raw/m-sp02-vigili-fuoco/vvf-400-allegato-a-prove-motorio-attitudinali.pdf",
+      "scope": "Pagine1–2,6,12: media, soglie, sbarra, apnea; altre tabelle confrontate con capitolo",
+      "sha256": "62c27b2b717928b33f7342cd0d4822886faaa4a54b46e677b1b3fbc21b1db7ee",
+      "readComplete": false
+    },
+    {
+      "path": "wiki/raw/m-sp02-vigili-fuoco/vvf-bando-400-vigili-del-fuoco.pdf",
+      "scope": "Pagine4–6 requisiti/riserve/termini",
+      "sha256": "a91400c3dcd531dd8cf7843a4855d97d7c429dad43a2103539fdd8dc87aa2085",
+      "readComplete": false
+    },
+    {
+      "path": "wiki/raw/m-sp02-vigili-fuoco/dm-interno-166-2019-requisiti-idoneita-vvf.pdf",
+      "scope": "Parametri visivi e condizioni di valutazione",
+      "sha256": "bf957b0189c9eb1e34943eefe0e5517bf3c9bfcd65633057431f8005c8b59ae1",
+      "readComplete": false
+    },
+    {
+      "path": "wiki/raw/m-sp02-vigili-fuoco/vvf-bando-vice-direttori-ruolo-ordinario.pdf",
+      "scope": "Prova scritta, orale e titoli di preferenza",
+      "sha256": "fee6b3519f2759f74acec72d271c82f71f000f84b6a3f7a2bf60dc9e9079f408",
+      "readComplete": false
+    },
+    {
+      "path": "wiki/raw/m-sp03-magistratura-avvocatura-notariato/notariato-bando-400-posti.pdf",
+      "scope": "GU pp.7–10 requisiti, pratica, inidoneità e soglie; non tutto il fascicolo GU",
+      "sha256": "4df984766f90d769d538194663f06d68e6bd8ca4a517aec21a0a2a063e1e2a28",
+      "readComplete": false
+    },
+    {
+      "path": "wiki/raw/m-sp03-magistratura-avvocatura-notariato/magistratura-bando-450-posti.pdf",
+      "scope": "Requisiti e art.8 lingua/soglia108; non tutto il fascicolo GU",
+      "sha256": "f548a9ae6a3c099a4512386c96a1a915431f92f23a8593a8d1dc5c0a0bbafe0b",
+      "readComplete": false
+    },
+    {
+      "path": "wiki/raw/m-sp03-magistratura-avvocatura-notariato/avvocatura-dag-114-2025-bando-7-procuratori.pdf",
+      "scope": "Età e norma richiamata",
+      "sha256": "c53aaa71226c1d94733fb42798c24b17d51dd7ada56c92fdedeb72d6c09dd1f5",
+      "readComplete": false
+    },
+    {
+      "path": "wiki/raw/m-sp04-prefettizia-diplomatica/interno-bando-158-carriera-prefettizia.pdf",
+      "scope": "Età, punteggi, modalità digitale, titoli e facoltativa",
+      "sha256": "544fbb0f7d3ec57629dab5ba9d69ec3a4e5b8c36059a335df1dbddb5cc959eae",
+      "readComplete": false
+    }
+  ],
+  "findings": [
+    {
+      "id": "V12-01",
+      "key": "SP01/01",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "line": 54,
+      "category": "Completezza",
+      "severity": "Medio",
+      "problem": "La mappa presenta tre corpi e due binari senza una tavola concreta dei ruoli e delle procedure esemplificate.",
+      "proposal": "Aggiungere confronto agenti/carabinieri/finanzieri e vice ispettori/marescialli: amministrazione, qualifica iniziale, titolo, fasi, bando campione e data. Rinvio espresso a M-FL04 per la polizia locale.",
+      "excerpt": "## N-SP01-01-01 · La famiglia Polizia, Carabinieri e Guardia di Finanza"
+    },
+    {
+      "id": "V12-02",
+      "key": "SP01/02",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "line": 147,
+      "category": "Normativa e quiz",
+      "severity": "Grave",
+      "problem": "Il limite di 29 anni non compiuti viene generalizzato alla famiglia e riproposto nel quiz 2, benché i bandi CC e GdF della stessa documentazione prevedano limiti diversi per ruolo/categoria.",
+      "proposal": "Eliminare la regola unitaria; riportare una tabella per bando, ruolo e contingente con elevazioni. Trasformare quiz 2 in lettura di un bando identificato. La pagina PdS è risultata non accessibile: non sostituire arbitrariamente il suo limite con 26.",
+      "excerpt": "Per la tornata 2026 considerata in questo modulo, il limite ufficiale da ricordare è 29 anni non compiuti. Questo dato va trattato come dato della tornata 2026, non come regola uni"
+    },
+    {
+      "id": "V12-03",
+      "key": "SP01/02",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "line": 187,
+      "category": "Normativa",
+      "severity": "Grave",
+      "problem": "Condotta e art.26 L.53/1989 sono ricondotti a una valutazione sempre individuale, escludendo in generale automatismi. La sentenza 40/2024 non abroga tutte le cause automatiche.",
+      "proposal": "Distinguere requisito generale di condotta e cause speciali di esclusione; limitare la pronuncia GdF al vizio di ebbrezza dichiarato illegittimo. Correggere corpo, riepilogo, quiz 4 e source ordinamentale. E01.",
+      "excerpt": "Questi piani non devono essere fusi in una formula generica del tipo “devo essere idoneo”. Una spiegazione corretta richiede ordine. La condotta non è un elenco automatico di casi."
+    },
+    {
+      "id": "V12-04",
+      "key": "SP01/02",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "line": 189,
+      "category": "Normativa",
+      "severity": "Grave",
+      "problem": "Il D.M.198/2003 viene usato come disciplina comune ai tre corpi, anche nel quiz 5.",
+      "proposal": "Esplicitare ambito Polizia di Stato; ricostruire separatamente fonti CC/GdF. Conservare la precisazione già corretta in SP01/04 e SP01/09. Non sostenere nella source che il decreto residui soltanto per requisiti psichici: elimina le stature superate, non gli altri requisiti fisici.",
+      "excerpt": "Il decreto ministeriale 198/2003 resta pertinente per l’idoneità psichica e attitudinale. Non fonda, invece, la valutazione della condotta. Questo è un punto delicato, perché molti"
+    },
+    {
+      "id": "V12-05",
+      "key": "SP01/03",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "line": 36,
+      "category": "Coerenza e didattica",
+      "severity": "Medio",
+      "problem": "Banca dati, quiz, preselezione, componimento e tema sono trattati come formati incompatibili sullo stesso piano. Funzione selettiva, modalità e origine dei quesiti sono assi differenti.",
+      "proposal": "Separare funzione, formato, materiali e tempi; mostrare un esempio CC e uno GdF prima di prescrivere preparazioni diverse. Aggiungere mini elaborato/scaletta commentata, non soltanto rinvii al bando.",
+      "excerpt": "Questo capitolo non ripete il capitolo generale sulla banca dati ufficiale. Nel volume base, la banca dati viene trattata come oggetto operativo: si verifica, si segmenta, si studi"
+    },
+    {
+      "id": "V12-06",
+      "key": "SP01/04",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "line": 64,
+      "category": "Perimetro e apparati",
+      "severity": "Medio",
+      "problem": "Il terzo binario dell’allegato GdF resta opaco; la source usa il bando 69 ufficiali, escluso dal perimetro del modulo. Il quiz 4 interroga questo metadato.",
+      "proposal": "Usare protocolli di un bando GdF base/ispettivo pertinente; inserire confronto obbligatoria/facoltativa, esclusione/punteggio, certificazione. Sostituire il quiz sul terzo binario con un caso procedurale pertinente.",
+      "excerpt": "La distinzione più importante è tra struttura della prova e valore concreto della soglia. La struttura dice quale tipo di prova viene prevista e con quale funzione selettiva. Il va"
+    },
+    {
+      "id": "V12-07",
+      "key": "SP01/05",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "line": 158,
+      "category": "Caso e cronologia",
+      "severity": "Grave",
+      "problem": "Luca ha già superato prove e corregge la domanda per valorizzare titoli, senza una norma che permetta integrazioni tardive.",
+      "proposal": "Spostare il caso prima della scadenza oppure indicare esatta facoltà e termine d’integrazione. Distinguere possesso, dichiarazione e documentazione come obblighi cumulabili, non alternativi.",
+      "excerpt": "Luca prepara un concorso del binario ispettivo. Ha già superato le prove precedenti e deve organizzare la fase finale. Nel bando trova tre sezioni: prova orale, valutazione dei tit"
+    },
+    {
+      "id": "V12-08",
+      "key": "SP01/05",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "line": 142,
+      "category": "Accuratezza",
+      "severity": "Medio",
+      "problem": "L’inglese è qualificato più competitivo senza un sistema di punteggio o un confronto che lo dimostri.",
+      "proposal": "Descrivere vantaggi solo in rapporto alle regole della prova e al livello del candidato; eliminare la graduatoria implicita delle lingue.",
+      "excerpt": "Un caso operativo mostra la scelta. Una candidata partecipa a una procedura ispettiva. Il bando prevede una prova facoltativa in una lingua scelta tra più opzioni. La candidata ha "
+    },
+    {
+      "id": "V12-09",
+      "key": "SP01/06",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "line": 98,
+      "category": "Completezza e rinvii",
+      "severity": "Medio",
+      "problem": "Il capitolo rinvia a penale, procedura e TULPS nel modulo, ma offre quasi soltanto orientamento; CC/GdF ricevono scarso ordinamento di base.",
+      "proposal": "Dichiarare il limite strategico, aggiungere mappa essenziale di funzioni/fonti per i tre corpi e destinazioni precise per lo studio. Non occorre un trattato di penale. Nel caso di autorizzazione irregolare distinguere sanzione amministrativa e reato secondo la norma applicabile.",
+      "excerpt": "La nozione chiave è la notizia di reato. Quando un fatto presenta elementi che possono integrare un reato, l’attività non può essere trattata come un semplice controllo amministrat"
+    },
+    {
+      "id": "V12-10",
+      "key": "SP01/07",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "line": 78,
+      "category": "Procedura e completezza",
+      "severity": "Grave",
+      "problem": "Il Decoder non mette in evidenza la scadenza della domanda e invita ad attendere il calendario per la decisione. Può far confondere candidatura e investimento nello studio.",
+      "proposal": "Inserire scadenza, ora, canale, pagamento, ricevuta e facoltà di reinvio; distinguere iscrizione tempestiva e pianificazione successiva. Fornire un Decoder integralmente compilato su un bando campione.",
+      "excerpt": "| Elemento | Dati essenziali | Verifica o azione |"
+    },
+    {
+      "id": "V12-11",
+      "key": "SP01/07",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "line": 113,
+      "category": "Chiarezza e tabelle",
+      "severity": "Medio",
+      "problem": "Non pubblicato viene usato anche dove il dato potrebbe essere soltanto non reperito. La colonna GdF mescola dato comparativo e azione.",
+      "proposal": "Distinguere non previsto, non ancora pubblicato, non reperito e da verificare; considerare anche norme richiamate. Ricostruire tabelle con una riga per procedimento e colonne omogenee.",
+      "excerpt": "| Binario base aperto | **Polizia di Stato:** da compilare<br>**Carabinieri:** da compilare | **Guardia di Finanza:** da compilare |"
+    },
+    {
+      "id": "V12-12",
+      "key": "SP01/08",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "line": 28,
+      "category": "Promessa e didattica",
+      "severity": "Medio",
+      "problem": "Il titolo promette 30/60/90, ma viene sviluppato un ciclo di 90 giorni senza varianti operative a 30 e 60. Il doppio binario alterna due significati.",
+      "proposal": "Fornire tre piani con ipotesi di ore e livello oppure restringere il titolo; aggiungere esempio banca 5000 quesiti/33 giorni con recupero. Riservare doppio binario a base/ispettivo e nominare diversamente teoria/fasi.",
+      "excerpt": "# Piano 30/60/90 a doppio binario"
+    },
+    {
+      "id": "V12-13",
+      "key": "SP01/08",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "line": 252,
+      "category": "Quiz",
+      "severity": "Medio",
+      "problem": "I sei quiz sono forniti con chiavi ma senza spiegazioni, pur essendo presentati come ragionati.",
+      "proposal": "Aggiungere motivazione della chiave e spiegazioni specifiche dei distrattori.",
+      "excerpt": "## ▣ Verifica 08.A · Quiz ragionati"
+    },
+    {
+      "id": "V12-14",
+      "key": "SP01/09",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "line": 32,
+      "category": "Didattica e ridondanza",
+      "severity": "Medio",
+      "problem": "I casi ripetono controlla il bando senza dati sufficienti per una soluzione verificabile; sette chiavi su otto sono B, sei consecutive.",
+      "proposal": "Sostituire ripetizioni con casi chiusi: certificato in scadenza, termine domanda, avviso modificato, punteggio e scelta. Variare posizione delle chiavi e plausibilità dei distrattori dopo aver stabilizzato le soluzioni.",
+      "excerpt": "Nei concorsi per le forze di polizia l'errore non nasce quasi mai da una sola nozione mancata. Spesso nasce da una lettura troppo rapida del bando, da un trasferimento automatico d"
+    },
+    {
+      "id": "V12-15",
+      "key": "SP01/10",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "line": 174,
+      "category": "Logica del workbook",
+      "severity": "Medio",
+      "problem": "Manca lo stato non applicabile; rosso confonde inammissibilità e preparazione insufficiente. La ricevuta è richiesta per decidere se inviare la domanda.",
+      "proposal": "Separare verifica giuridica, stato d’invio e prontezza; introdurre N/A per prove non previste e distinguere checklist prima/dopo l’invio. Raccordare quiz 4 e colori al nuovo criterio.",
+      "excerpt": "La decisione “no-go” è necessaria quando esiste una criticità rossa. Un requisito non posseduto, un binario non coerente, una scadenza scaduta, una dichiarazione non governata, una"
+    },
+    {
+      "id": "V12-16",
+      "key": "SP02/01",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "line": 99,
+      "category": "Normativa dei ruoli",
+      "severity": "Grave",
+      "problem": "Il D.M.49/2022 sul ruolo tecnico-scientifico è richiamato per l’ispettore antincendi, confondendo ruoli diversi.",
+      "proposal": "Separare ispettore antincendi e ispettore tecnico-scientifico; allineare fonte e tabella al capitolo 05, che già distingue correttamente i ruoli.",
+      "excerpt": "L'ispettore antincendi non è semplicemente «un vigile con più anzianità». Il contenuto tecnico e il regime di accesso richiedono una lettura autonoma. Il decreto ministeriale 49 de"
+    },
+    {
+      "id": "V12-17",
+      "key": "SP02/02",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "line": 155,
+      "category": "Requisiti e quiz",
+      "severity": "Grave",
+      "problem": "Dal solo visus naturale di 12/10 si deduce accessibilità degli altri ruoli e preclusione assoluta permanente a vigile. Il quiz 5 non contiene una risposta pienamente valida.",
+      "proposal": "Sostituire la chiave con dati insufficienti per giudicare l’idoneità complessiva; distinguere accertamento attuale, correzione consentita e ulteriori parametri previsti dal D.M.166/2019. Eliminare autodiagnosi e prognosi definitive. E03.",
+      "excerpt": "**Terza domanda: il visus.** Qui la decisione precede tutto il resto. Con 12/10 naturali il ruolo di **vigile del fuoco** gli è precluso in modo assoluto, perché per quella qualifi"
+    },
+    {
+      "id": "V12-18",
+      "key": "SP02/02",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "line": 131,
+      "category": "Normativa e cronologia",
+      "severity": "Grave",
+      "problem": "La posizione è dichiarata già determinata alla pubblicazione, mentre la stessa frase richiede maturazione entro la scadenza.",
+      "proposal": "Ammettere condizioni che maturano entro il termine; costruire un esempio datato. Correggere anche l’affermazione che a 22–23 anni non si possano completare 12 mesi di servizio prima dei 25.",
+      "excerpt": "> **Attenzione.** Nessuna delle tre vie si costruisce dopo la pubblicazione del bando. Tutte e tre chiedono condizioni maturate **alla data di scadenza della domanda**: mesi o anni"
+    },
+    {
+      "id": "V12-19",
+      "key": "SP02/02",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "line": 137,
+      "category": "Requisiti",
+      "severity": "Grave",
+      "problem": "La riga più di 26 anni presenta il volontariato come via generica, omettendo limite massimo e possibile elevazione per servizio militare.",
+      "proposal": "Esporre il limite 37 per volontari iscritti da almeno un anno e l’elevazione per servizio militare fino a tre anni, con distinta riserva. Non confondere ammissione e 35% riservato. Bando art.2, PDF locale pp.5–6; E04.",
+      "excerpt": "| Se hai | La via realistica | Tempo necessario |"
+    },
+    {
+      "id": "V12-20",
+      "key": "SP02/02",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "line": 71,
+      "category": "Riserve",
+      "severity": "Medio",
+      "problem": "Il 95% riservato è presentato come minimo garantito e il residuo come bacino sostanziale dei civili.",
+      "proposal": "Distinguere posti nominalmente riservati, merito, requisiti delle categorie e devoluzione delle riserve non coperte; evitare inferenze sulle probabilità individuali. Inserire un esempio di graduatoria compatibile con la disciplina del bando.",
+      "excerpt": "Su quattrocento posti, significa centottanta, centoquaranta e sessanta. Al candidato che non possiede nessuno dei tre titoli restano **venti posti**."
+    },
+    {
+      "id": "V12-21",
+      "key": "SP02/02",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "line": 211,
+      "category": "Normativa",
+      "severity": "Grave",
+      "problem": "Qualità morali e condotta sono ridotte alla presenza di una condanna irrevocabile per delitto non colposo.",
+      "proposal": "Distinguere condotta ex art.26 dalle specifiche cause elencate dal bando; includere misure di prevenzione e altre esclusioni pertinenti. Correggere anche il riepilogo; E04, art.2.",
+      "excerpt": "Nota la formulazione della seconda voce: **sentenza irrevocabile**. Non un procedimento in corso, non un rinvio a giudizio. Se la tua posizione è dubbia, la domanda da porre a un l"
+    },
+    {
+      "id": "V12-22",
+      "key": "SP02/02",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "line": 233,
+      "category": "Tabella e precisione",
+      "severity": "Medio",
+      "problem": "Valori di forza e composizione corporea sono riportati senza operatori e unità completi; la visita da 40 euro appare come costo certo.",
+      "proposal": "Inserire ≥, kg e percentuali pertinenti, tolleranze e fonte; dichiarare il costo puramente illustrativo o eliminarlo. Chiarire che la valutazione è della commissione competente.",
+      "excerpt": "| **forza muscolare** | **40** | **20** |"
+    },
+    {
+      "id": "V12-23",
+      "key": "SP02/03",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "line": 121,
+      "category": "Errore matematico",
+      "severity": "Grave",
+      "problem": "Si sostiene che una penalità renda sempre negativa l’aspettativa di una risposta casuale.",
+      "proposal": "Usare E=pG−(1−p)P e confronto con omissione. Con quattro opzioni, +1/−0,1 e omissione zero, E=0,175: il controesempio smentisce la frase. Calcolare soglia p>P/(G+P), adattata a eventuale penalità dell’omissione.",
+      "excerpt": "Il perché è nel terzo punto. Se le risposte errate sono penalizzate, l'omissione ha un valore e tirare a indovinare su una domanda su cui non hai idee è una perdita attesa. Se non "
+    },
+    {
+      "id": "V12-24",
+      "key": "SP02/03",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "line": 91,
+      "category": "Inferenza non fondata",
+      "severity": "Medio",
+      "problem": "Procedure automatizzate diventano necessariamente lettura ottica cartacea; l’elenco delle tipologie diventa ordine obbligatorio delle domande.",
+      "proposal": "Separare quanto dice il bando da modalità affidate all’avviso. La stessa cautela vale per l’interfaccia ipotizzata in SP04/03. Aggiornare l’avviso successivo al 15 settembre prima della pubblicazione.",
+      "excerpt": "**La correzione avviene con procedimenti automatizzati.** Non c'è un commissario che interpreta una risposta ambigua o valuta l'intenzione: c'è una lettura ottica. Il risultato è a"
+    },
+    {
+      "id": "V12-25",
+      "key": "SP02/03",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "line": 139,
+      "category": "Coerenza didattica",
+      "severity": "Medio",
+      "problem": "Non studiare il perché, nessun altro manuale utile e soli quesiti scientifici utili al mestiere sono assoluti non dimostrati e contraddicono SP02/08.",
+      "proposal": "Distinguere profondità necessaria al filtro e comprensione minima, preservare logica/informatica/inglese; prevedere manutenzione della preselettiva dopo la soglia. Simulazioni provvisorie a tempo devono essere etichettate, non vietate fino all’avviso.",
+      "excerpt": "Delle quattro tipologie, questa è la prima delle due che non trovi trattate altrove nella tua preparazione concorsuale. Nessun manuale per concorsi pubblici ti prepara alla storia "
+    },
+    {
+      "id": "V12-26",
+      "key": "SP02/04",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "line": 155,
+      "category": "Protocollo fisico",
+      "severity": "Grave",
+      "problem": "La sbarra viene regolata all’altezza delle dita con braccia lungo i fianchi: il protocollo richiede braccia in alto per la regolazione, poi lungo i fianchi alla partenza.",
+      "proposal": "Separare le due posizioni e riportare il corretto ordine; Allegato A ufficiale, PDF locale p.6. Il difetto altera concretamente l’esercizio.",
+      "excerpt": "La commissione regola l'altezza di una sbarra in modo da farne coincidere la parte bassa con la punta delle tue dita, da stazione eretta con le braccia lungo i fianchi. Poi dà il «"
+    },
+    {
+      "id": "V12-27",
+      "key": "SP02/04",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "line": 241,
+      "category": "Punteggio",
+      "severity": "Grave",
+      "problem": "Il modulo peggiore è indicato come punteggio della Prova 1.",
+      "proposal": "Scrivere media aritmetica dei tre moduli, purché ognuno raggiunga 21/30. Il peggiore è un vincolo di ammissione e una priorità di preparazione. Correggere anche sintesi e spiegazioni; Allegato A pp.1–2.",
+      "excerpt": "**Prima.** Fai un test onesto dei tre moduli della Prova 1 e della corsa, e misura il tuo modulo peggiore. Quello è il tuo punteggio in Prova 1. Il piano si costruisce lì, non sui "
+    },
+    {
+      "id": "V12-28",
+      "key": "SP02/04",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "line": 324,
+      "category": "Quiz e casi",
+      "severity": "Grave",
+      "problem": "Quiz 1 e domanda aperta 1 attribuiscono 28 alla trave, che ammette 30/25/21. Aperta 3 non specifica sesso; aperta 7 chiede guadagno in punti da 20 secondi senza tabella sufficiente.",
+      "proposal": "Usare punteggi realizzabili, specificare categoria e fornire tabella completa o restringere la domanda. Ricalcolare le soluzioni: 5 minuti e 10 secondi non hanno lo stesso esito nelle due soglie di corsa.",
+      "excerpt": "## ▣ Verifica 04.A · Quiz ragionati"
+    },
+    {
+      "id": "V12-29",
+      "key": "SP02/04",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "line": 362,
+      "category": "Quiz e strategia",
+      "severity": "Medio",
+      "problem": "Il confronto fra gradienti di esercizi non prova quale investimento convenga al candidato; quiz 6 ha alternative sovrapposte.",
+      "proposal": "Confrontare il margine iniziale, la trasformazione in punti e il peso del modulo nella media. Riscrivere quiz 6 con opzioni reciprocamente esclusive, distinguendo esclusione e posto in graduatoria.",
+      "excerpt": "**5. Un candidato uomo esegue 12 trazioni e 19 progressioni al modulo C. Dove conviene investire le prossime settimane?**"
+    },
+    {
+      "id": "V12-30",
+      "key": "SP02/04",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "line": 179,
+      "category": "Tutela e protocollo",
+      "severity": "Medio",
+      "problem": "Cronometraggio elettronico è presentato come privo di contestabilità; ordine corsa dopo trazioni è dato per necessario pur spettando alla commissione.",
+      "proposal": "Eliminare l’assoluto sulla tutela; distinguere procedura immediata di riesame e rimedi generali. Presentare un ordine di allenamento come ipotesi, non vincolo del concorso; verificare certificazione sportiva senza imporre universalmente ECG sotto sforzo.",
+      "excerpt": "I tempi vengono rilevati in modo concomitante da un cronometraggio elettronico automatico e da un cronometraggio manuale eseguito da due membri della commissione. Non è un dettagli"
+    },
+    {
+      "id": "V12-31",
+      "key": "SP02/04",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "line": 259,
+      "category": "Coerenza e titoli",
+      "severity": "Medio",
+      "problem": "Conseguire una patente in sei mesi viene confrontato con la piscina senza fissare il termine utile dei titoli; seguono affermazioni di risultato non aleatorio.",
+      "proposal": "Esplicitare possesso entro scadenza e tempo residuo; prima soglie/idoneità, poi incremento di punteggio. Eliminare garanzie di risultato e distinguere prestazione preparata da esito certo.",
+      "excerpt": "**Quarto passaggio: i punti che non dipendono dal corpo.** Luca ha la patente B: un punto. Con sei mesi davanti, una patente C vale quattro punti, tre in più. Per guadagnarne altre"
+    },
+    {
+      "id": "V12-32",
+      "key": "SP02/05",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "line": 116,
+      "category": "Completezza per profilo",
+      "severity": "Medio",
+      "problem": "La mappa direttiva non rende operativa l’orientazione alla prevenzione incendi richiesta dalla decisione di perimetro D2.",
+      "proposal": "Aggiungere una breve mappa funzioni/fonti/processi con rinvii, proporzionata a un manuale strategico. Confermati sul PDF ordinario titoli a parità e un’unica prova scritta: non sono errori da correggere.",
+      "excerpt": "L'orale riprende le materie della prova scritta e amplia il programma. Nel bando ordinario compaiono fisica tecnica, chimica, meccanica, diritto amministrativo e costituzionale, fo"
+    },
+    {
+      "id": "V12-33",
+      "key": "SP02/06",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "line": 89,
+      "category": "Rinvii",
+      "severity": "Medio",
+      "problem": "Si prescrivono destinazioni precise, ma la tabella rinvia ad aree del volume base senza capitoli o sezioni verificabili.",
+      "proposal": "Sostituire aree con codice, titolo e sezione; chiarire che il controllo formale non impone di sospendere ogni preparazione fisica o linguistica parallela.",
+      "excerpt": "| Materia o area | Formula della fonte | Riuso dal volume base |"
+    },
+    {
+      "id": "V12-34",
+      "key": "SP02/07",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "line": 151,
+      "category": "Pianificazione",
+      "severity": "Medio",
+      "problem": "Obiettivo trenta risposte orali al mese e cinque a settimana non coincidono; titolo 30/60/90 privo delle due varianti più brevi.",
+      "proposal": "Allineare il target e fornire varianti con presupposti dichiarati oppure titolo ciclo di 90 giorni. Conservare l’avvertenza già presente di non allenare l’apnea da soli.",
+      "excerpt": "Alla fine del mese devi avere: requisiti chiusi, matrice del programma, almeno quattro produzioni tecniche, trenta risposte orali e un diario degli errori classificato. Se possiedi"
+    },
+    {
+      "id": "V12-35",
+      "key": "SP02/08",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "line": 143,
+      "category": "Casi",
+      "severity": "Medio",
+      "problem": "Sono promessi due casi completi, ma Andrea non ha punteggi/margini e Francesca non produce un elaborato o esito valutabile.",
+      "proposal": "Completare entrambi con dati e output: punteggi per modulo e priorità motivate; traccia tecnica, scaletta e rubriche di valutazione. Evitare una nuova ripetizione del controllo del bando.",
+      "excerpt": "Andrea ha ventiquattro anni, diploma, nessun titolo di riserva e quattro mesi. Nei quiz iniziali ottiene risultati buoni; nelle prove fisiche supera forza e corsa, ma l'acquaticità"
+    },
+    {
+      "id": "V12-36",
+      "key": "SP03/01",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "line": 67,
+      "category": "Giurisdizione",
+      "severity": "Grave",
+      "problem": "La magistratura ordinaria viene associata indistintamente a controversie amministrative.",
+      "proposal": "Specificare giurisdizione civile e penale e casi di tutela/questioni incidentali previsti dalla legge; distinguere i giudici amministrativi, esclusi dal perimetro professionale del modulo.",
+      "excerpt": "La magistratura ordinaria richiede di studiare per decidere controversie e questioni penali, civili e amministrative con indipendenza e imparzialità. L'Avvocatura dello Stato richi"
+    },
+    {
+      "id": "V12-37",
+      "key": "SP03/01",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "line": 147,
+      "category": "Fonti e residui editoriali",
+      "severity": "Medio",
+      "problem": "Il lettore incontra limiti del file acquisito dell’art.5 e ricostruzioni della ricerca, anziché una spiegazione consolidata.",
+      "proposal": "Spostare il resoconto documentale nella source; nel libro indicare norma, requisito e limite interpretativo realmente utile. Analogo SP03/03: non dedurre l’origine del limite d’età dal solo art.1 della L.1035/1966.",
+      "excerpt": "Un ultimo avviso riguarda le fonti. Un file intitolato correttamente non prova da solo l'articolo che ti serve. Se una riproduzione storica non contiene materialmente l'art. 5, que"
+    },
+    {
+      "id": "V12-38",
+      "key": "SP03/02",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "line": 103,
+      "category": "Completezza normativa",
+      "severity": "Medio",
+      "problem": "Il minimo 6/10 in ogni materia orale non esplicita l’eccezione della lingua, valutata per sufficienza; la soglia complessiva non viene resa operativa.",
+      "proposal": "Precisare giudizio di sufficienza per lingua e totale minimo 108 nelle due prove; inserire esempio con insufficienza non compensabile. Bando 450, art.8, PDF locale p.10.",
+      "excerpt": "All'orale la platea delle materie si amplia. Il bando comprende aree sostanziali e processuali, ordinamento giudiziario, informatica giuridica e colloquio in una lingua scelta tra "
+    },
+    {
+      "id": "V12-39",
+      "key": "SP03/02",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "line": 210,
+      "category": "Cronologia dei casi",
+      "severity": "Medio",
+      "problem": "La scelta di candidarsi a novembre 2025 utilizza un diario noto soltanto nel febbraio 2026.",
+      "proposal": "Separare decisione entro termine e successivo aggiornamento del piano. Anche il confronto di Elena in SP03/06 agosto 2025 deve essere dichiarato esempio composito se usa bandi di ottobre/dicembre successivi.",
+      "excerpt": "Marta ha una laurea magistrale in giurisprudenza a ciclo unico. Non ha conseguito il diploma della scuola di specializzazione per le professioni legali e non è abilitata all'eserci"
+    },
+    {
+      "id": "V12-40",
+      "key": "SP03/03",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "line": 59,
+      "category": "Precisione normativa",
+      "severity": "Medio",
+      "problem": "Non superato e non compiuti sono alternati senza spiegare computo, fonte e benefici. Non è stato accertato che producano esiti diversi nel caso presentato.",
+      "proposal": "Usare formula del bando, citare D.P.C.M.141/2000 richiamato nel preambolo e aggiungere esempio sul compleanno/scadenza con verifica giuridica. Non classificare come errore certo l’equivalenza fra le due espressioni senza ulteriore riscontro.",
+      "excerpt": "Il requisito caratterizzante della tornata è non aver superato il trentacinquesimo anno di età, nella formula prevista dal bando. La verifica non si fa ricordando a memoria l'espre"
+    },
+    {
+      "id": "V12-41",
+      "key": "SP03/04",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "line": 133,
+      "category": "Caso impossibile",
+      "severity": "Grave",
+      "problem": "Marta inizia la pratica nel luglio 2024, si laurea nel dicembre 2024 e avrebbe già cinque precedenti partecipazioni notarili: mancano condizioni che rendano possibile l’accesso a quei concorsi.",
+      "proposal": "Separare caso durata pratica e caso conteggio inidoneità, oppure anticipare di anni laurea/pratica e precisare gli episodi. Dichiarare quali esiti contano e quali no.",
+      "excerpt": "**Scenario.** Marta ha svolto pratica notarile dal 1 luglio 2024. Si è laureata il 20 dicembre 2024 e ha proseguito senza interruzioni presso lo stesso studio notarile. La domanda "
+    },
+    {
+      "id": "V12-42",
+      "key": "SP03/04",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "line": 202,
+      "category": "Termine requisito",
+      "severity": "Grave",
+      "problem": "La pratica è richiesta già al momento della domanda, mentre altrove e nel bando è entro il termine utile di presentazione.",
+      "proposal": "Uniformare alla scadenza, distinguendo invio anticipato, maturazione del requisito e certificazione successiva. Bando notarile artt.2–3, PDF GU locale pp.7–8.",
+      "excerpt": "No. La pratica compiuta entro la scadenza e il certificato prodotto dopo l’orale sono due passaggi distinti, ma entrambi seguono tempi precisi. Nel bando studiato la pratica deve e"
+    },
+    {
+      "id": "V12-43",
+      "key": "SP03/05",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "line": 305,
+      "category": "Didattica professionale",
+      "severity": "Medio",
+      "problem": "Tre tracce concrete sono seguite quasi solo da identificazione del formato; manca un output giuridico che mostri il metodo promesso.",
+      "proposal": "Aggiungere tesi motivata sulla responsabilità precontrattuale, soluzione della controversia Beta e clausola notarile esemplificativa con presupposti. Affiancare un prima/dopo breve: in SP03/07 esiste già un microesempio, ma non risolve queste tracce.",
+      "excerpt": "## Caso ragionato"
+    },
+    {
+      "id": "V12-44",
+      "key": "SP03/05",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "line": 136,
+      "category": "Metodo",
+      "severity": "Medio",
+      "problem": "Tesi e obiezioni vengono imposte a ogni tema; la presenza di effetti negoziali rischia di determinare da sola il formato.",
+      "proposal": "Fare prevalere verbo della consegna e compito richiesto; distinguere tema illustrativo, soluzione pratica e redazione di atto.",
+      "excerpt": "Il criterio principale è la tenuta della tesi. Dopo la lettura, deve essere possibile dire: \"Questo tema sostiene che...\". Se il tema consente solo di dire \"parla di...\", manca la "
+    },
+    {
+      "id": "V12-45",
+      "key": "SP03/06",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "line": 155,
+      "category": "Errore di formulazione",
+      "severity": "Medio",
+      "problem": "Una pagina corretta male insegna più di trenta lette ribalta il senso didattico.",
+      "proposal": "Scrivere una pagina scritta male e corretta bene; uniformare gli imperativi aggiungi in SP03/02 e classificale in SP03/07.",
+      "excerpt": "La simulazione non deve essere sempre massima. Può essere graduata: scaletta, paragrafo, mezza prova, prova completa, riscrittura. L'importante è che il diario non premi solo l'acc"
+    },
+    {
+      "id": "V12-46",
+      "key": "SP03/06",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "line": 93,
+      "category": "Promessa del piano",
+      "severity": "Medio",
+      "problem": "Il piano pluriennale resta un insieme di quattro trimestri vuoti e istruzioni, senza esempio di percorso su più anni.",
+      "proposal": "Aggiungere un esempio condizionato di anno 1/anno 2 con produzione, revisione, ripasso e criteri di riesame; nessuna promessa di durata universale o superamento.",
+      "excerpt": "### Strumento compilabile: roadmap trimestrale"
+    },
+    {
+      "id": "V12-47",
+      "key": "SP03/07",
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "line": 174,
+      "category": "Didattica e coerenza",
+      "severity": "Medio",
+      "problem": "Richiamare organo legale dello Stato nell’introduzione non mostra come correggere la mancata applicazione giuridica al caso.",
+      "proposal": "Mostrare una tesi, un’eccezione e il relativo presupposto fattuale; distinguere fonti mancanti da dubbio interpretativo nel semaforo. Non trasformare formule istituzionali in preamboli obbligatori.",
+      "excerpt": "Luca scrive quattro pagine di principi generali sul procedimento amministrativo, senza indicare che l'Avvocatura dello Stato è organo legale dello Stato, senza distinguere difesa i"
+    },
+    {
+      "id": "V12-48",
+      "key": "SP04/01",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "line": 102,
+      "category": "Tentativi",
+      "severity": "Grave",
+      "problem": "La frase un tentativo consuma una delle quattro occasioni amplia indebitamente la regola corretta esposta due righe prima.",
+      "proposal": "Precisare quattro serie complete di scritti non superate; non ogni presenza o insuccesso all’orale. Uniformare SP04/06 r.173 e SP04/07. Il rinvio del capitolo all’art.2 c.3 è corretto: correggere invece art.4 c.3 nella source. E05.",
+      "excerpt": "Non è un dettaglio da collocare in fondo alla tabella dei requisiti. È il principale vincolo strategico del binario B. Un tentativo non serve soltanto a fare esperienza: consuma un"
+    },
+    {
+      "id": "V12-49",
+      "key": "SP04/01",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+      "line": 90,
+      "category": "Logica decisionale",
+      "severity": "Medio",
+      "problem": "I requisiti di ammissione entrano in uno scoring compensabile 0–3 per scegliere la carriera.",
+      "proposal": "Anteporre ammissibilità come condizione necessaria; usare punteggi soltanto per preferenze e preparazione fra alternative ammissibili.",
+      "excerpt": "Fai un calcolo qualitativo. Assegna da zero a tre punti a cinque fattori: compatibilità dei requisiti; base giuridica; base storico-economica; livello nelle lingue richieste; dispo"
+    },
+    {
+      "id": "V12-50",
+      "key": "SP04/02",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "line": 67,
+      "category": "Caso e requisito",
+      "severity": "Grave",
+      "problem": "Paolo compie 36 anni prima della scadenza e ha un solo figlio; il caso suggerisce una finestra aperta, ma l’unica elevazione indicata porta il limite a 36, già superati.",
+      "proposal": "Usare date precise e concludere fuori termine in assenza di altri benefici, oppure farlo ancora trentacinquenne. Bando 158, art.2, PDF locale p.3.",
+      "excerpt": "Paolo compie trentasei anni prima della scadenza e ha un figlio vivente. Non deve concludere di essere fuori sulla sola età ordinaria: il regime prevede l'elevazione di un anno. De"
+    },
+    {
+      "id": "V12-51",
+      "key": "SP04/02",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "line": 89,
+      "category": "Calcolo e didattica",
+      "severity": "Medio",
+      "problem": "La strategia sul punteggio asimmetrico resta verbale e contraddice il successivo invito a ignorare i valori durante la prova.",
+      "proposal": "Confrontare risposta con omissione: soglie di probabilità 2/9 facile, 1/5 media, 4/23 difficile. Distinguere valore del quesito dal totale provvisorio; applicabilità subordinata a conoscere la classe di difficoltà.",
+      "excerpt": "La decisione se rispondere richiede di stimare la probabilità di correttezza e la difficoltà assegnata. Non basta dire che un'omissione costa: anche l'errore costa, e in modo diver"
+    },
+    {
+      "id": "V12-52",
+      "key": "SP04/02",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "line": 105,
+      "category": "Modalità della prova",
+      "severity": "Medio",
+      "problem": "La trattazione degli scritti prefettizi omette la modalità digitale, mentre il confronto enfatizza quella diplomatica.",
+      "proposal": "Aggiungere modalità digitale del bando art.10 e un esercizio di gestione digitale dell’elaborato; preservare la distinzione sui materiali consentiti. E06 e PDF locale p.11.",
+      "excerpt": "| a | elaborato amministrativo e/o costituzionale | 8 ore |"
+    },
+    {
+      "id": "V12-53",
+      "key": "SP04/02",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "line": 166,
+      "category": "Normativa organizzativa",
+      "severity": "Grave",
+      "problem": "La formazione è attribuita alla SSAI come ente ancora operativo, senza raccordo con la soppressione del 2014.",
+      "proposal": "Aggiornare all’art.21 D.L.90/2014 e alle funzioni trasferite alla SNA; distinguere denominazione storica, sede didattica e organizzazione attuale. E07.",
+      "excerpt": "L'accesso avviene tramite concorso alla qualifica iniziale. La formazione presso la Scuola superiore dell'amministrazione dell'interno ha durata complessiva minima di due anni e al"
+    },
+    {
+      "id": "V12-54",
+      "key": "SP04/02",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/02-carriera-prefettizia-prove-materie-ordinamento.md",
+      "line": 47,
+      "category": "Completezza punteggio",
+      "severity": "Medio",
+      "problem": "La formula del risultato finale lascia fuori i titoli e il bonus della lingua facoltativa.",
+      "proposal": "Mostrare formula completa e un esempio conforme agli artt.13–14: base delle prove, punteggi aggiuntivi e preferenze distinti. Non confondere punteggio aggiuntivo con criterio di parità.",
+      "excerpt": "Il percorso va letto come sistema. La preselettiva apre il cancello senza entrare nel voto finale; gli scritti costruiscono l'ammissione all'orale; l'orale si somma alla media degl"
+    },
+    {
+      "id": "V12-55",
+      "key": "SP04/03",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "line": 51,
+      "category": "Titolo di accesso",
+      "severity": "Grave",
+      "problem": "La richiesta di una specifica classe di laurea non recepisce l’ampliamento del bando diplomatico 2026.",
+      "proposal": "Allineare al requisito laurea magistrale o titolo equiparato e al regime dei titoli esteri; E05 art.2.",
+      "excerpt": "La tornata esaminata richiede cittadinanza italiana, idoneità psico-fisica, godimento dei diritti politici, qualità morali e uno dei titoli universitari indicati. Il controllo del "
+    },
+    {
+      "id": "V12-56",
+      "key": "SP04/03",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "line": 108,
+      "category": "Programma",
+      "severity": "Grave",
+      "problem": "La descrizione economica non restituisce il programma diplomatico 2026.",
+      "proposal": "Allineare economia politica, politica economica, economia internazionale e finanziaria e commercio internazionale; coordinare SP04/01 e 05. E05 artt.7 e 9.",
+      "excerpt": "| economia e cooperazione multilaterale | 5 ore | italiano |"
+    },
+    {
+      "id": "V12-57",
+      "key": "SP04/03",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "line": 184,
+      "category": "Omissione strategica",
+      "severity": "Grave",
+      "problem": "Manca la nuova materia orale facoltativa, distinta dalle lingue.",
+      "proposal": "Integrare scelta in domanda, cinque opzioni, soglia e bonus; raccordare Decoder, piano e graduatoria. E05 art.11: sufficienza 1,2, massimo 2 centesimi.",
+      "excerpt": "L'orale riprende le materie degli scritti e aggiunge diritto pubblico italiano, contabilità di Stato, diritto civile e internazionale privato, ordinamento consolare e del Ministero"
+    },
+    {
+      "id": "V12-58",
+      "key": "SP04/03",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/03-carriera-diplomatica-prove-materie-ordinamento.md",
+      "line": 184,
+      "category": "Graduatoria",
+      "severity": "Medio",
+      "problem": "Manca una formula complessiva che renda utilizzabili le componenti facoltative e i titoli.",
+      "proposal": "Inserire media scritti + orale + bonus facoltativi + titoli, con limiti e condizioni; E05 artt.8,12,13. Non duplicare tutte le regole in ogni capitolo.",
+      "excerpt": "L'orale riprende le materie degli scritti e aggiunge diritto pubblico italiano, contabilità di Stato, diritto civile e internazionale privato, ordinamento consolare e del Ministero"
+    },
+    {
+      "id": "V12-59",
+      "key": "SP04/04",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "line": 131,
+      "category": "Scelta vincolata",
+      "severity": "Grave",
+      "problem": "Cambiare lingua dopo otto settimane viene consigliato senza considerare la scelta già dichiarata e i termini della domanda.",
+      "proposal": "Collocare la diagnosi prima dell’opzione; dopo la scadenza ammettere modifiche soltanto se consentite. E05 art.3; verificare separatamente la procedura prefettizia.",
+      "excerpt": "La decisione viene congelata per un ciclo di lavoro, per esempio otto settimane. Cambiare lingua dopo ogni prova negativa impedisce l'apprendimento. Alla fine del ciclo confronta i"
+    },
+    {
+      "id": "V12-60",
+      "key": "SP04/04",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/04-le-lingue-straniere.md",
+      "line": 143,
+      "category": "Apparato didattico",
+      "severity": "Medio",
+      "problem": "Il metodo linguistico è descritto senza un esempio completo in lingua o una traduzione commentata.",
+      "proposal": "Aggiungere un breve testo, consegna, risposta e correzione per un formato; esempio parallelo di conversazione. Il volume rimane strategico, senza diventare un corso linguistico.",
+      "excerpt": "Un piano linguistico efficace parte dall'output finale e lo scompone. Per la scrittura: comprensione della traccia, selezione delle idee, scaletta, paragrafi, revisione. Per la tra"
+    },
+    {
+      "id": "V12-61",
+      "key": "SP04/05",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/05-prova-orale-postura-professionale.md",
+      "line": 135,
+      "category": "Metodo di simulazione",
+      "severity": "Medio",
+      "problem": "Leggere le istruzioni informatiche una sola volta è un vincolo arbitrario che allena memoria e può peggiorare il controllo della consegna.",
+      "proposal": "Consentire rilettura salvo specifico protocollo; misurare comprensione, esecuzione e verifica. Aggiungere un dossier orale risolto con risposta completa, non solo istruzioni di costruzione.",
+      "excerpt": "Nelle lingue, il simulatore non corregge durante ogni frase. Lascia concludere, poi seleziona pochi errori ad alta frequenza e verifica comprensione. Un interlocutore diverso pone "
+    },
+    {
+      "id": "V12-62",
+      "key": "SP04/06",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/06-piano-preparazione-tentativi.md",
+      "line": 97,
+      "category": "Promessa del piano",
+      "severity": "Medio",
+      "problem": "Il percorso 6–12 mesi non presenta una settimana compilata né ripartizioni esemplificative controllabili.",
+      "proposal": "Inserire settimane da 12/20 ore con ipotesi esplicite e due percorsi per profilo, checkpoint e carico linguistico; sostituire retromarcia con pianificazione a ritroso.",
+      "excerpt": "Le scadenze esterne impongono retromarcia. Inserisci prova, convocazioni e possibili intervalli solo quando pubblicati; segna ignoto dove mancano. Dal giorno della prova risali con"
+    },
+    {
+      "id": "V12-63",
+      "key": "SP04/07",
+      "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/07-errori-casi-checklist.md",
+      "line": 25,
+      "category": "Residui di produzione",
+      "severity": "Medio",
+      "problem": "Accorpamento motivato, cinque nuclei sopra soglia e riferimenti alle pagine editoriali sono istruzioni staff visibili nel testo; compare persino il residuo sugli elenchi diagnostici.",
+      "proposal": "Rimuovere dal testo pubblico e conservare nei materiali di produzione. Analogo SP01/05–06 apertura editoriale, SP01/08 regole editoriali, SP02/06 controllo preconsegna e SP02/08 elenchi diagnostici.",
+      "excerpt": "> **Accorpamento motivato.** Errori e casi da soli non offrivano cinque nuclei autonomi sopra soglia; lo stesso valeva per le checklist. Riunirli crea un ciclo reale: il caso rende"
+    },
+    {
+      "id": "V12-64",
+      "key": "SP02/01",
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "line": 173,
+      "category": "Quiz trasversali",
+      "severity": "Medio",
+      "problem": "Molti commenti sono formule generiche non pertinenti alle singole alternative; SP02/07–08 e SP04/07 hanno tutte le chiavi B.",
+      "proposal": "Riscrivere commenti uno per uno e distrattori plausibili; ricollocare opzioni solo dopo validazione. Non rilevato il pattern sistematico chiave D/commento D errata osservato in altri volumi.",
+      "excerpt": "   **Risposta corretta: B.** La preselezione è un filtro; le tre prove assegnano fino a novanta punti. Le altre opzioni attribuiscono alla procedura una prova, una fonte o un effet"
+    },
+    {
+      "id": "V12-65",
+      "key": "SP01/06",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "line": 26,
+      "category": "Lingua e ripetizioni",
+      "severity": "Lieve",
+      "problem": "Doppio binario ripetuto a r.26/34; nel usare ricorre qui e in SP01/08. Altri refusi sono disseminati.",
+      "proposal": "Correggere nell’usare; SP02/03 undici parole (citazione di sedici) e diecimila-per-mille; SP02/07 questo triage; SP04/03 estrai; SP04/04 non tentare; SP04/05 distingui/offri/riparti; SP04/07 segui; SP01/10 scadenza scaduta.",
+      "excerpt": "> **Doppio binario.** Verifica sempre se la sezione riguarda il livello base, quello ispettivo o entrambi; non trasferire automaticamente regole e dati da un corpo o binario all’al"
+    },
+    {
+      "id": "V12-66",
+      "key": "SP01/01",
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "line": 54,
+      "category": "Architettura e densità",
+      "severity": "Medio",
+      "problem": "Lo schema definizione/funzione/quadro/conseguenze/esempio/errore ripete la stessa decisione in più nuclei; Decoder, casi e checklist ripetono estensivamente controlla il bando.",
+      "proposal": "Ridurre duplicazioni senza sopprimere contenuti specialistici: una regola canonica, rinvii puntuali e casi con dati/soluzioni nuovi. Verificare beneficio didattico di ogni nucleo prima del conteggio parole.",
+      "excerpt": "## N-SP01-01-01 · La famiglia Polizia, Carabinieri e Guardia di Finanza"
+    }
+  ],
+  "coverage": {
+    "chapters": 32,
+    "chaptersReadComplete": 32,
+    "quizReview": "complete",
+    "directSourceNotes": 15,
+    "planningFiles": 16,
+    "sourceOriginalsUnchanged": true,
+    "numberedQuizReviewed": 216
+  }
+}

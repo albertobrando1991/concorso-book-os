@@ -11,7 +11,7 @@ source_refs:
   - "sources/deterioramento-clinico-news2-sepsi-regioni"
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.97
-updated_at: 2026-07-29T13:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T13:30:00+02:00
 review_required: true
 canonical: true
@@ -50,3 +50,7 @@ La versione ufficiale delle linee guida ERC resta quella inglese; il documento i
 ## Stato revisione
 
 La lacuna documentale sull'ALS adulto è risolta. La riga clinica/emergenza resta `parziale` per le urgenze specifiche di ostetrica e fisioterapista e per la validazione professionale dei casi e delle checklist.
+
+## Integrazione concettuale verificata il 3 ottobre 2026
+
+Nel PDF ERC/IRC 2025, quadro ALS e algoritmo: fibrillazione ventricolare e tachicardia ventricolare senza polso sono ritmi defibrillabili; asistolia e attività elettrica senza polso non lo sono. La ricerca delle cause reversibili comprende ipossia, ipovolemia, alterazioni metaboliche/elettrolitiche, ipotermia, trombosi coronarica/polmonare, tamponamento, pneumotorace iperteso e tossici. Distinzione concettuale, senza dosi, energie o sequenza operativa autonoma.

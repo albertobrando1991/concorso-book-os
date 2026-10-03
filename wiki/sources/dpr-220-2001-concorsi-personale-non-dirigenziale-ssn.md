@@ -9,7 +9,7 @@ entities: ["Servizio sanitario nazionale", "Azienda sanitaria"]
 source_refs: []
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.94
-updated_at: 2026-07-28T20:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-28T20:30:00+02:00
 review_required: true
 canonical: true
@@ -50,3 +50,7 @@ Medio-alto. La disciplina concorsuale generale è stata modificata più volte e 
 ## Stato revisione
 
 Consolidata come fonte primaria di contesto concorsuale. Review umana obbligatoria sul coordinamento con normativa generale vigente e sul bando target.
+
+## Riscontro del 3 ottobre 2026
+
+Consultati gli artt. 8 e 14 nella [GU del D.P.R. 220/2001](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=001G0275&atto.dataPubblicazioneGazzetta=2001-06-12): tre prove 30 titoli + 30 scritta + 20 pratica + 20 orale, soglie 21/30 e 14/20; per i concorsi con due prove 40 titoli + 30 pratica + 30 orale, soglia 21/30 in entrambe. Riparto dei titoli fra categorie stabilito dal bando. Art. 37 D.Lgs. 165/2001: obbligo generale di verifica informatica e inglese distinto dalle modalità concrete. Non ricavare la disciplina OSS automaticamente dal quadro delle professioni sanitarie laureate.

@@ -1,0 +1,597 @@
+[
+  {
+    "id": "volumi/vol-03",
+    "chapters": 50,
+    "nuclei": 144,
+    "selected": [
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+        "outline": "16",
+        "moduleOutline": "1",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+        "outline": "17",
+        "moduleOutline": "2",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+        "outline": "18",
+        "moduleOutline": "3",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+        "outline": "19",
+        "moduleOutline": "4",
+        "nuclei": [
+          {
+            "id": "N-FC02-04-01",
+            "number": "19.1",
+            "title": "Principi, fonti e categorie del tributo"
+          },
+          {
+            "id": "N-FC02-04-02",
+            "number": "19.2",
+            "title": "Presupposto, soggetti e obbligazione tributaria"
+          },
+          {
+            "id": "N-FC02-04-03",
+            "number": "19.3",
+            "title": "TUIR, IRPEF e IRES"
+          },
+          {
+            "id": "N-FC02-04-04",
+            "number": "19.4",
+            "title": "IVA: operazioni, soggetti, detrazione e adempimenti"
+          },
+          {
+            "id": "N-FC02-04-05",
+            "number": "19.5",
+            "title": "Quadro UE fiscale, IVA e dogane"
+          },
+          {
+            "id": "N-FC02-04-06",
+            "number": "19.6",
+            "title": "Accertamento e riscossione"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+        "outline": "20",
+        "moduleOutline": "5",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+        "outline": "21",
+        "moduleOutline": "5a",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+        "outline": "22",
+        "moduleOutline": "5b",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+        "outline": "23",
+        "moduleOutline": "6",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+        "outline": "24",
+        "moduleOutline": "7",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+        "outline": "25",
+        "moduleOutline": "8",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+        "outline": "26",
+        "moduleOutline": "9",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+        "outline": "27",
+        "moduleOutline": "10",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+        "outline": "28",
+        "moduleOutline": "11",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+        "outline": "29",
+        "moduleOutline": "12",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+        "outline": "30",
+        "moduleOutline": "13",
+        "nuclei": []
+      },
+      {
+        "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+        "outline": "31",
+        "moduleOutline": "14",
+        "nuclei": []
+      }
+    ]
+  },
+  {
+    "id": "volumi/vol-06",
+    "chapters": 50,
+    "nuclei": 185,
+    "selected": [
+      {
+        "path": "books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+        "outline": "22",
+        "moduleOutline": "9",
+        "nuclei": [
+          {
+            "id": "N-IR02-09-01",
+            "number": "22.1",
+            "title": "La biblioteca universitaria come servizio per didattica, ricerca e studio"
+          },
+          {
+            "id": "N-IR02-09-02",
+            "number": "22.2",
+            "title": "Cataloghi SBN e OPAC: che cosa sono e come si distinguono"
+          },
+          {
+            "id": "N-IR02-09-03",
+            "number": "22.3",
+            "title": "Ricerca bibliografica e servizi all'utente"
+          },
+          {
+            "id": "N-IR02-09-04",
+            "number": "22.4",
+            "title": "Risorse elettroniche e licenze: accesso, limiti e responsabilità"
+          },
+          {
+            "id": "N-IR02-09-05",
+            "number": "22.5",
+            "title": "Open access e repository: accesso aperto, deposito e comunicazione scientifica"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+        "outline": "38",
+        "moduleOutline": "Capitolo 01",
+        "nuclei": [
+          {
+            "id": "N-IR04-01-01",
+            "number": "38.1",
+            "title": "Perimetro del Ministero e lettura del bando"
+          },
+          {
+            "id": "N-IR04-01-02",
+            "number": "38.2",
+            "title": "Organizzazione utile al candidato"
+          },
+          {
+            "id": "N-IR04-01-03",
+            "number": "38.3",
+            "title": "Architetto e archeologo: tutela, contesto, istruttoria"
+          },
+          {
+            "id": "N-IR04-01-04",
+            "number": "38.4",
+            "title": "Bibliotecario e archivista: documenti, servizi, accesso"
+          },
+          {
+            "id": "N-IR04-01-05",
+            "number": "38.5",
+            "title": "Confronto dei quattro profili e risposta situata"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+        "outline": "39",
+        "moduleOutline": "Capitolo 02",
+        "nuclei": [
+          {
+            "id": "N-IR04-02-01",
+            "number": "39.1",
+            "title": "Organizzazione e competenza: il criterio di lettura"
+          },
+          {
+            "id": "N-IR04-02-02",
+            "number": "39.2",
+            "title": "Centro, dipartimenti e direzioni generali"
+          },
+          {
+            "id": "N-IR04-02-03",
+            "number": "39.3",
+            "title": "Territorio, soprintendenze e istruttoria"
+          },
+          {
+            "id": "N-IR04-02-04",
+            "number": "39.4",
+            "title": "Istituti autonomi e luoghi della cultura"
+          },
+          {
+            "id": "N-IR04-02-05",
+            "number": "39.5",
+            "title": "Competenza nel caso concreto e risposta concorsuale"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+        "outline": "40",
+        "moduleOutline": "Capitolo 03",
+        "nuclei": [
+          {
+            "id": "N-IR04-03-01",
+            "number": "40.1",
+            "title": "Patrimonio culturale, principi e architettura del Codice"
+          },
+          {
+            "id": "N-IR04-03-02",
+            "number": "40.2",
+            "title": "Beni culturali: nozione, appartenenza e categorie principali"
+          },
+          {
+            "id": "N-IR04-03-03",
+            "number": "40.3",
+            "title": "Accertamento dell'interesse culturale: verifica, dichiarazione e regime del bene"
+          },
+          {
+            "id": "N-IR04-03-04",
+            "number": "40.4",
+            "title": "Tutela, conservazione, fruizione e valorizzazione"
+          },
+          {
+            "id": "N-IR04-03-05",
+            "number": "40.5",
+            "title": "Beni paesaggistici: categorie, pianificazione e autorizzazione"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+        "outline": "41",
+        "moduleOutline": "Capitolo 04",
+        "nuclei": [
+          {
+            "id": "N-IR04-04-01",
+            "number": "41.1",
+            "title": "Patrimonio culturale: beni culturali e beni paesaggistici"
+          },
+          {
+            "id": "N-IR04-04-02",
+            "number": "41.2",
+            "title": "Tutela: riconoscere, proteggere e conservare"
+          },
+          {
+            "id": "N-IR04-04-03",
+            "number": "41.3",
+            "title": "Valorizzazione: conoscenza, uso pubblico e sviluppo della cultura"
+          },
+          {
+            "id": "N-IR04-04-04",
+            "number": "41.4",
+            "title": "Fruizione: accesso pubblico, servizi culturali e limiti di compatibilita'"
+          },
+          {
+            "id": "N-IR04-04-05",
+            "number": "41.5",
+            "title": "Paesaggio: territorio, valori e governo delle trasformazioni"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+        "outline": "42",
+        "moduleOutline": "Capitolo 05",
+        "nuclei": [
+          {
+            "id": "N-IR04-05-01",
+            "number": "42.1",
+            "title": "Procedimento di tutela e funzione amministrativa"
+          },
+          {
+            "id": "N-IR04-05-02",
+            "number": "42.2",
+            "title": "Verifica dell’interesse culturale"
+          },
+          {
+            "id": "N-IR04-05-03",
+            "number": "42.3",
+            "title": "Dichiarazione dell’interesse culturale"
+          },
+          {
+            "id": "N-IR04-05-04",
+            "number": "42.4",
+            "title": "Vincoli, autorizzazioni e controllo sugli interventi"
+          },
+          {
+            "id": "N-IR04-05-05",
+            "number": "42.5",
+            "title": "Circolazione giuridica e materiale dei beni culturali"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+        "outline": "43",
+        "moduleOutline": "Capitolo 06",
+        "nuclei": [
+          {
+            "id": "N-IR04-06-01",
+            "number": "43.1",
+            "title": "Catalogazione"
+          },
+          {
+            "id": "N-IR04-06-02",
+            "number": "43.2",
+            "title": "Dati e contesto"
+          },
+          {
+            "id": "N-IR04-06-03",
+            "number": "43.3",
+            "title": "Standard e vocabolari"
+          },
+          {
+            "id": "N-IR04-06-04",
+            "number": "43.4",
+            "title": "Digitalizzazione"
+          },
+          {
+            "id": "N-IR04-06-05",
+            "number": "43.5",
+            "title": "Metadati e accesso"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+        "outline": "44",
+        "moduleOutline": "Capitolo 07",
+        "nuclei": [
+          {
+            "id": "N-IR04-07-01",
+            "number": "44.1",
+            "title": "Archivio e documento"
+          },
+          {
+            "id": "N-IR04-07-02",
+            "number": "44.2",
+            "title": "Ciclo di vita e fasi archivistiche"
+          },
+          {
+            "id": "N-IR04-07-03",
+            "number": "44.3",
+            "title": "Ordinamento e descrizione"
+          },
+          {
+            "id": "N-IR04-07-04",
+            "number": "44.4",
+            "title": "Provenienza e rispetto dei fondi"
+          },
+          {
+            "id": "N-IR04-07-05",
+            "number": "44.5",
+            "title": "Tutela, consultazione e scarto"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+        "outline": "45",
+        "moduleOutline": "Capitolo 08",
+        "nuclei": [
+          {
+            "id": "N-IR04-08-01",
+            "number": "45.1",
+            "title": "Biblioteca e servizio"
+          },
+          {
+            "id": "N-IR04-08-02",
+            "number": "45.2",
+            "title": "Catalogo e accesso"
+          },
+          {
+            "id": "N-IR04-08-03",
+            "number": "45.3",
+            "title": "Raccolte e gestione"
+          },
+          {
+            "id": "N-IR04-08-04",
+            "number": "45.4",
+            "title": "Servizi al pubblico"
+          },
+          {
+            "id": "N-IR04-08-05",
+            "number": "45.5",
+            "title": "Reference e inclusione"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+        "outline": "46",
+        "moduleOutline": "Capitolo 09",
+        "nuclei": [
+          {
+            "id": "N-IR04-09-01",
+            "number": "46.1",
+            "title": "Archeologia come conoscenza del territorio"
+          },
+          {
+            "id": "N-IR04-09-02",
+            "number": "46.2",
+            "title": "Rinvenimenti e prudenza amministrativa"
+          },
+          {
+            "id": "N-IR04-09-03",
+            "number": "46.3",
+            "title": "Tutela territoriale e decisione pubblica"
+          },
+          {
+            "id": "N-IR04-09-04",
+            "number": "46.4",
+            "title": "Archeologia preventiva e lavori pubblici"
+          },
+          {
+            "id": "N-IR04-09-05",
+            "number": "46.5",
+            "title": "Risposta concorsuale e output operativo"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+        "outline": "47",
+        "moduleOutline": "Capitolo 10",
+        "nuclei": [
+          {
+            "id": "N-IR04-10-01",
+            "number": "47.1",
+            "title": "Metodo di lettura dell'opera"
+          },
+          {
+            "id": "N-IR04-10-02",
+            "number": "47.2",
+            "title": "Museo, collezione e patrimonio come servizio pubblico"
+          },
+          {
+            "id": "N-IR04-10-03",
+            "number": "47.3",
+            "title": "Allestimento, percorso e mediazione culturale"
+          },
+          {
+            "id": "N-IR04-10-04",
+            "number": "47.4",
+            "title": "Conservazione preventiva, documentazione e cura materiale"
+          },
+          {
+            "id": "N-IR04-10-05",
+            "number": "47.5",
+            "title": "Fruizione, accessibilita' e output del candidato"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+        "outline": "48",
+        "moduleOutline": "Capitolo 11",
+        "nuclei": [
+          {
+            "id": "N-IR04-11-01",
+            "number": "48.1",
+            "title": "Conservazione come funzione permanente"
+          },
+          {
+            "id": "N-IR04-11-02",
+            "number": "48.2",
+            "title": "Prevenzione e gestione del rischio conservativo"
+          },
+          {
+            "id": "N-IR04-11-03",
+            "number": "48.3",
+            "title": "Restauro: significato, limiti e responsabilità"
+          },
+          {
+            "id": "N-IR04-11-04",
+            "number": "48.4",
+            "title": "Documentazione, tracciabilità e memoria dell’intervento"
+          },
+          {
+            "id": "N-IR04-11-05",
+            "number": "48.5",
+            "title": "Decisione interdisciplinare e responsabilità pubblica"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+        "outline": "49",
+        "moduleOutline": "Capitolo 12",
+        "nuclei": [
+          {
+            "id": "N-IR04-12-01",
+            "number": "49.1",
+            "title": "Architettura storica e funzione amministrativa"
+          },
+          {
+            "id": "N-IR04-12-02",
+            "number": "49.2",
+            "title": "Paesaggio come interesse pubblico"
+          },
+          {
+            "id": "N-IR04-12-03",
+            "number": "49.3",
+            "title": "Trasformazioni e compatibilità amministrativa"
+          },
+          {
+            "id": "N-IR04-12-04",
+            "number": "49.4",
+            "title": "Cantieri e presidio amministrativo"
+          },
+          {
+            "id": "N-IR04-12-05",
+            "number": "49.5",
+            "title": "Tutela, valorizzazione e decisione pubblica"
+          }
+        ]
+      },
+      {
+        "path": "books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+        "outline": "50",
+        "moduleOutline": "Capitolo 13",
+        "nuclei": [
+          {
+            "id": "N-IR04-13-01",
+            "number": "50.1",
+            "title": "Fruizione organizzata"
+          },
+          {
+            "id": "N-IR04-13-02",
+            "number": "50.2",
+            "title": "Vigilanza e presidio"
+          },
+          {
+            "id": "N-IR04-13-03",
+            "number": "50.3",
+            "title": "Sicurezza organizzativa"
+          },
+          {
+            "id": "N-IR04-13-04",
+            "number": "50.4",
+            "title": "Accessibilita' e comunicazione"
+          },
+          {
+            "id": "N-IR04-13-05",
+            "number": "50.5",
+            "title": "Flussi e miglioramento"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "volumi/vol-12",
+    "chapters": 32,
+    "nuclei": 162,
+    "selected": []
+  }
+]

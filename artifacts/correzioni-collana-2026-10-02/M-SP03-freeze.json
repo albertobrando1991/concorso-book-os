@@ -1,0 +1,74 @@
+{
+  "volume": "VOL-12",
+  "module": "M-SP03",
+  "date": "2026-10-03",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md",
+      "sha256": "86070f2a4341ae74d5423ae72e70912f1e26c39a2a3a8b78cebf46e03fd167bb",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md",
+      "sha256": "e5714aa3549eae54c61268153775130490c114a382870a1d76543d51733063ad",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md",
+      "sha256": "5161815b12115b76f3d2772756e2f1cc0dd4ef0b81f8af3cc12599d700abf6b2",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md",
+      "sha256": "4e78945a9c6f1888fdf5df178a8ef1ab7288c6ce30f66a37135de9b12bf6c6a6",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md",
+      "sha256": "8e63f6db3c30a8d5eecf25273c0ede44f0201757cd17ed33068fa9c12b0d7c08",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md",
+      "sha256": "c9c3f229061d1744bb8bf1e7b406bb951f923801d96c9928dd753cba25be33f5",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    },
+    {
+      "path": "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md",
+      "sha256": "074a8a9fdad4d30e79a285bed456edc851ee0c18853f6b3b5e849676256ee357",
+      "status": "text-freeze",
+      "date": "2026-10-03"
+    }
+  ],
+  "checks": [
+    "7 capitoli, 35 nuclei almeno 600 parole, 57 quiz commentati.",
+    "Casi, cronologie, calcoli e chiavi riesaminati; Humanizer dei delta completato.",
+    "Indice e matrice riconciliati; step 15 passato senza blocker o warning."
+  ],
+  "limitations": [
+    "Nuovo PDF e SP04 ancora necessari.",
+    "Riscontri normativi selettivi nelle source notes; non certificazione dell’intero programma."
+  ],
+  "productionReview": {
+    "pdf": "vol-12-final-20261003-proof.pdf",
+    "sha256": "70f546098427dd2dfaa02dad1ce8df3ac266f92671e991aa891782809df8ee88",
+    "report": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-12.md",
+    "method": "Panoramica di tutte le pagine, direttamente o mediante corrispondenza pixel con pagine già viste; dettagli a piena risoluzione nelle pagine elencate. Il confronto esclude soltanto i 40 pt inferiori del piè di pagina; numerazione e indice verificati separatamente sul PDF.",
+    "effectiveFileHashes": {
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/01-mappa-scelta-binario.md": "86070f2a4341ae74d5423ae72e70912f1e26c39a2a3a8b78cebf46e03fd167bb",
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/02-magistratura-prove-ordinamento.md": "e5714aa3549eae54c61268153775130490c114a382870a1d76543d51733063ad",
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/03-avvocatura-stato-prove-ordinamento.md": "5161815b12115b76f3d2772756e2f1cc0dd4ef0b81f8af3cc12599d700abf6b2",
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/04-notariato-prove-ordinamento.md": "4e78945a9c6f1888fdf5df178a8ef1ab7288c6ce30f66a37135de9b12bf6c6a6",
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/05-metodo-prove-scritte.md": "8e63f6db3c30a8d5eecf25273c0ede44f0201757cd17ed33068fa9c12b0d7c08",
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/06-piano-pluriennale.md": "c9c3f229061d1744bb8bf1e7b406bb951f923801d96c9928dd753cba25be33f5",
+      "wiki/books/moduli/m-sp03-magistratura-avvocatura-notariato/chapters/07-errori-casi-checklist.md": "074a8a9fdad4d30e79a285bed456edc851ee0c18853f6b3b5e849676256ee357"
+    },
+    "frontMatterUnresolved": true
+  }
+}

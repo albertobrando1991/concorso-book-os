@@ -1,0 +1,61 @@
+{
+  "math": "passed",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    }
+  ]
+}

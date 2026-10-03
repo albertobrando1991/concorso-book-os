@@ -2,11 +2,11 @@
 id: m-sa03-matrice-copertura-didattica
 type: planning
 title: "M-SA03 - Matrice di copertura didattica"
-status: complete
+status: reviewed
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026", "sources/dirigenza-sanitaria-concorsi-ccnl-2026", "sources/governo-clinico-appropriatezza-hta-qualita-accreditamento", "sources/metodo-evidenze-sistema-nazionale-linee-guida-iss", "sources/epidemiologia-base-iss"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-08-04T12:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T18:05:00+02:00
 review_required: false
 canonical: true
@@ -37,3 +37,15 @@ tags: ["m-sa03", "coverage-map", "pipeline-step-07"]
 - Ogni futura espansione clinica o professionale sostanziale riapre i gate di copertura, Humanizer e revisione.
 
 La matrice è completa e il modulo è congelato allo step 16; ogni modifica sostanziale riapre i gate 10-15.
+
+## Stato corrente dopo l’audit integrale
+
+Le attestazioni di chiusura nelle righe precedenti descrivono la baseline di agosto. Sono riaperte per i delta dell’audit integrale: il registro del 3 ottobre prevale su quella baseline. Le correzioni sono applicate, ma audit specialistico, nuovo freeze e PDF devono essere chiusi tramite CLI. Nessuna riga viene promossa soltanto perché il file esiste.
+
+SA03/01: DPR 483 e art. 37; /02: NSG/NSIS e cruscotto quantitativo; /03: autonomia medica chiarita; /04: SIMES/RCA/FMEA; /06: differenziale ragionato; /07: CNOP vigente. La fonte NSG ora contiene una copia ufficiale valida e distingue metodologia da risultati annuali.
+
+Evidenza: [[reviews/correzioni-collana-2026-10-02/VOL-07]] e report correnti degli step 14–15.
+
+### Esito del riesame automatico del 3 ottobre 2026
+
+I delta del modulo sono stati riesaminati nello [[reviews/pipeline/VOL-07/15-moduli-m-sa03-dirigenza-medica-sanitaria|step 15 corrente]]: nessun errore testuale noto residuo nel perimetro. Il nuovo freeze segue il gate CLI; apparati degli altri moduli e PDF di volume restano separati.

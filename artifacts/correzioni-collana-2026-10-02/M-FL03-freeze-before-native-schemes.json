@@ -1,0 +1,37 @@
+{
+  "module": "M-FL03",
+  "cutoff": "2026-10-03",
+  "files": [
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "36497af619dab5f020e51aef7ea9ec84d13b7e4b326ad1eef667b8b2486433ea"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "3fb15605fa8f8b9d0d0d5302b6d720c9ee2a899b2de2cb3ff84b175ce894f986"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "8786982355e2a52244cf8bdffa0236933ed4902113a8fc442bb308d0f620d2cd"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "70f14694c053f66fa20800387d3303c41920b12f70327ab8796229d33ded0363"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "b69c727308b50f223810947efa20400a00b4e35eec135a60fbfefcdc5c3fa17e"
+    }
+  ],
+  "pdfChecked": false
+}

@@ -1,0 +1,1613 @@
+[
+  {
+    "id": "N-FC03-01-01",
+    "title": "Perimetro e natura degli enti",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "sections": [
+      "Natura dell'ente, comparto e percorso di studio",
+      "Apertura editoriale",
+      "Obiettivo del capitolo",
+      "Come usare questo capitolo",
+      "Mappa BANDO del capitolo"
+    ],
+    "words": 717,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-01-02",
+    "title": "Famiglia EPNE e materie comuni",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "sections": [
+      "Che cosa comprende la famiglia M-FC03",
+      "Dentro o fuori: tabella di perimetro",
+      "Perché un EPNE non è un'amministrazione generica",
+      "I tre strati della preparazione M-FC03",
+      "Strato 1: nucleo comune del libro base"
+    ],
+    "words": 832,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-01-03",
+    "title": "Delta specialistico e lettura del profilo",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "sections": [
+      "Strato 2: delta specialistico EPNE",
+      "Strato 3: profilo concreto del bando",
+      "Enti guida ed enti di orientamento",
+      "INPS",
+      "INAIL",
+      "Altri EPNE",
+      "Come riconoscere un bando M-FC03",
+      "Prima lettura: amministrazione, portale e fonte",
+      "Seconda lettura: profilo e area",
+      "Terza lettura: prova che seleziona davvero",
+      "Bando Decoder M-FC03"
+    ],
+    "words": 827,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-01-04",
+    "title": "Errori di perimetro e caso guidato",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "sections": [
+      "Cosa non devi fare",
+      "1. Non trattare INPS e INAIL come sinonimi",
+      "2. Non trasformare ogni ente in un manuale autonomo",
+      "3. Non ignorare le appendici",
+      "4. Non citare dati instabili senza verifica",
+      "Checklist iniziale: questo bando è M-FC03?",
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola"
+    ],
+    "words": 767,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-01-05",
+    "title": "Piano iniziale e verifica",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "sections": [
+      "Errore tipico",
+      "Mini-esercizio",
+      "Diario errori del capitolo",
+      "Checklist operativa finale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 842,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-02-01",
+    "title": "Organi di INPS e INAIL",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "sections": [
+      "Apertura editoriale",
+      "Gli organi di INPS e INAIL: chi indirizza, chi amministra, chi controlla",
+      "Obiettivo del blocco"
+    ],
+    "words": 662,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-02-02",
+    "title": "Fonti, ordinamento e competenze",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "sections": [
+      "Mappa BANDO",
+      "Che cosa significa ordinamento di un EPNE",
+      "Le fonti da leggere in ordine",
+      "Organi, indirizzo e gestione"
+    ],
+    "words": 722,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-02-03",
+    "title": "Governance, vigilanza e documenti",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "sections": [
+      "Governance interna e vigilanza esterna",
+      "Statuto, regolamenti e atti generali",
+      "Bilancio, patrimonio e controlli",
+      "Performance, PIAO e valore pubblico"
+    ],
+    "words": 678,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-02-04",
+    "title": "Schema delle responsabilità e caso",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "sections": [
+      "Schema organi-vigilanza-controlli",
+      "Come lo chiede la commissione",
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola"
+    ],
+    "words": 763,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-02-05",
+    "title": "Errori, esercizi e verifica",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "sections": [
+      "Errore tipico",
+      "Mini-esercizio",
+      "Diario errori del capitolo",
+      "Checklist operativa finale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 794,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-03-01",
+    "title": "INPS e fondamenti della protezione sociale",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Perché l'INPS conta nei concorsi EPNE",
+      "Previdenza e assistenza: il fondamento costituzionale"
+    ],
+    "words": 827,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-03-02",
+    "title": "Contributi, pensioni, sostegni e ISEE",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "sections": [
+      "Rapporto contributivo e automaticità",
+      "Pensioni: accesso e calcolo sono due domande diverse",
+      "Sostegni al reddito, invalidità e assistenza",
+      "ISEE e DSU: documenti, indicatore e beneficio"
+    ],
+    "words": 991,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-03-03",
+    "title": "Prestazioni e servizi nel procedimento",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "sections": [
+      "I cinque nuclei da padroneggiare",
+      "1. Previdenza sociale",
+      "2. Contributi e posizione dell'utente",
+      "3. Prestazioni",
+      "4. Servizi al cittadino e canali digitali",
+      "5. Procedimento, privacy e comunicazione",
+      "Materie comuni: come riusarle senza duplicarle",
+      "Mappa prestazioni-servizi: strumento operativo"
+    ],
+    "words": 868,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-03-04",
+    "title": "Caso utente e applicazione delle regole",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "sections": [
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio",
+      "Diario errori del capitolo",
+      "Da sapere in 5 righe"
+    ],
+    "words": 889,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-03-05",
+    "title": "Comunicazione e verifica previdenziale",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "sections": [
+      "Checklist finale",
+      "Dalla definizione alla risposta concorsuale",
+      "Controllo della comunicazione all'utente",
+      "Esercizio di classificazione",
+      "Regola di chiusura",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 904,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-04-01",
+    "title": "Rischio assicurato, premio e prestazioni",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "sections": [
+      "Apertura editoriale",
+      "Il rischio assicurato: infortunio e malattia professionale",
+      "Premio e automaticità delle prestazioni",
+      "Prestazioni economiche, sanitarie e reinserimento"
+    ],
+    "words": 912,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-04-02",
+    "title": "Nesso professionale e fonti INAIL",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "sections": [
+      "Caso di nesso e tutela",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Perché INAIL è diverso da INPS",
+      "Le fonti da usare senza disperdersi"
+    ],
+    "words": 833,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-04-03",
+    "title": "Assicurazione, prevenzione e servizio",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "sections": [
+      "I sei nuclei INAIL da padroneggiare",
+      "1. Assicurazione sociale",
+      "2. Infortunio sul lavoro",
+      "3. Malattia professionale",
+      "4. Prevenzione",
+      "5. Salute e sicurezza nei luoghi di lavoro",
+      "6. Prestazioni e rapporto con utenti, lavoratori e imprese",
+      "Materie comuni: come riusarle nel taglio INAIL"
+    ],
+    "words": 834,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-04-04",
+    "title": "Mappa operativa e caso lavorativo",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "sections": [
+      "Mappa assicurazione-prevenzione-prestazione",
+      "Come lo chiede la commissione",
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola"
+    ],
+    "words": 812,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-04-05",
+    "title": "Errori e verifica assicurativa",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "sections": [
+      "Errore tipico",
+      "Mini-esercizio",
+      "Diario errori del capitolo",
+      "Checklist operativa finale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 855,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-05-01",
+    "title": "Domanda e procedimento EPNE",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Il procedimento visto da un EPNE"
+    ],
+    "words": 628,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-05-02",
+    "title": "Fasi, richieste e accesso",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "sections": [
+      "I sette passaggi del caso EPNE",
+      "Istanza, informazione, reclamo, accesso",
+      "Accesso, trasparenza e privacy"
+    ],
+    "words": 637,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-05-03",
+    "title": "Servizi digitali e comunicazione",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "sections": [
+      "Servizi digitali e documenti informatici",
+      "Sportello e back office",
+      "Comunicazione amministrativa",
+      "Griglia operativa: istanza, accesso e privacy"
+    ],
+    "words": 668,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-05-04",
+    "title": "Caso, tutela e risposta motivata",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "sections": [
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio",
+      "Diario errori del capitolo"
+    ],
+    "words": 752,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-05-05",
+    "title": "Fascicolo e verifica finale",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "sections": [
+      "Da sapere in 5 righe",
+      "Checklist finale",
+      "Controllo di completezza del fascicolo",
+      "Comunicazione e tutela",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 673,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-06-01",
+    "title": "Documenti contabili e organi competenti",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "sections": [
+      "Apertura editoriale",
+      "Documenti e competenze contabili degli EPNE",
+      "Obiettivo del blocco"
+    ],
+    "words": 790,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-06-02",
+    "title": "Entrate, spese e ciclo finanziario",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "sections": [
+      "Mappa BANDO",
+      "Il raccordo con il libro base",
+      "Bilancio dell'ente: non solo numeri",
+      "Entrate, spese e pagamenti negli EPNE"
+    ],
+    "words": 772,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-06-03",
+    "title": "Patrimonio e sistemi di controllo",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "sections": [
+      "Patrimonio, inventari e beni dell'ente",
+      "Contabilità finanziaria, economico-patrimoniale e analitica",
+      "Controlli interni: regolarità, gestione e risultati",
+      "Controlli esterni, Corte dei conti, RGS e vigilanza"
+    ],
+    "words": 752,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-06-04",
+    "title": "Trasparenza contabile e caso",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "sections": [
+      "Amministrazione trasparente: dove si vede il controllo",
+      "Checklist contabile e controlli EPNE",
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola"
+    ],
+    "words": 794,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-06-05",
+    "title": "Errori e calcoli di verifica",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "sections": [
+      "Errore tipico",
+      "Mini-esercizio",
+      "Diario errori del capitolo",
+      "Checklist operativa finale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 777,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-07-01",
+    "title": "Performance e programmazione integrata",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Che cosa sono performance, PIAO e valore pubblico"
+    ],
+    "words": 700,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-07-02",
+    "title": "Obiettivi, indicatori e rischi",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "sections": [
+      "Perché il PIAO conta negli EPNE",
+      "I sei nuclei da padroneggiare",
+      "1. Obiettivi e risultati",
+      "2. Indicatori",
+      "3. Rischi, anticorruzione e trasparenza",
+      "4. Organizzazione e personale"
+    ],
+    "words": 633,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-07-03",
+    "title": "Valore pubblico, monitoraggio e output",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "sections": [
+      "5. Valore pubblico e qualità del servizio",
+      "6. Monitoraggio e miglioramento",
+      "Materie comuni: come riusarle nel taglio EPNE",
+      "Scheda PIAO/performance applicata",
+      "Come lo chiede la commissione"
+    ],
+    "words": 626,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-07-04",
+    "title": "Caso e valutazione del servizio",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "sections": [
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio"
+    ],
+    "words": 642,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-07-05",
+    "title": "Diario e verifica degli indicatori",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "sections": [
+      "Diario errori del capitolo",
+      "Checklist operativa finale",
+      "Lettura critica degli indicatori",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 651,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-08-01",
+    "title": "Rapporto pubblico e profilo EPNE",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Il personale EPNE dentro il lavoro pubblico"
+    ],
+    "words": 622,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-08-02",
+    "title": "CCNL, aree e competenze",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+    "sections": [
+      "CCNL, comparto, area e profilo",
+      "Come leggere il profilo nel bando",
+      "I nuclei da presidiare",
+      "1. Accesso e rapporto di lavoro pubblico",
+      "2. Organizzazione dell'ente",
+      "3. Profilo, competenze e responsabilità"
+    ],
+    "words": 704,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-08-03",
+    "title": "Doveri e condotta professionale",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+    "sections": [
+      "4. Doveri e codice di comportamento",
+      "5. CCNL e limiti della risposta concorsuale",
+      "Materia comune, taglio EPNE",
+      "Profilo EPNE e condotta professionale",
+      "Caso guidato",
+      "Strumento operativo: scheda profilo-doveri"
+    ],
+    "words": 724,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-08-04",
+    "title": "Risposte orali e recupero degli errori",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+    "sections": [
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio",
+      "Diario errori del capitolo",
+      "Da sapere in 5 righe"
+    ],
+    "words": 638,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-08-05",
+    "title": "Responsabilità e verifica contrattuale",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+    "sections": [
+      "Checklist finale",
+      "Come leggere una questione sul personale",
+      "Caso breve: disposizione e responsabilità",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 666,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-09-01",
+    "title": "Fabbisogno EPNE e materie comuni",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Il delta EPNE rispetto al libro base"
+    ],
+    "words": 726,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-09-02",
+    "title": "Ciclo di acquisto e responsabilità",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+    "sections": [
+      "Il ciclo dell'acquisto EPNE",
+      "Soggetti e responsabilità",
+      "Acquisti e forniture: casi ricorrenti negli EPNE"
+    ],
+    "words": 647,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-09-03",
+    "title": "Strumenti digitali e controlli",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+    "sections": [
+      "Strumenti digitali, MEPA e Consip",
+      "Digitalizzazione, BDNCP, FVOE, PCP e CIG",
+      "Trasparenza, anticorruzione e controlli"
+    ],
+    "words": 643,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-09-04",
+    "title": "Caso di acquisto e applicazione",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+    "sections": [
+      "Mini-caso operativo: acquisto di un servizio per sportelli EPNE",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio"
+    ],
+    "words": 743,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-09-05",
+    "title": "Diario e verifica del contratto",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+    "sections": [
+      "Diario errori del capitolo",
+      "Da sapere in 5 righe",
+      "Checklist finale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 693,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-10-01",
+    "title": "Natura dell’ente e obiettivi del Decoder",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "sections": [
+      "Natura dell'ente, comparto e percorso di studio",
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Il problema specifico dei bandi EPNE"
+    ],
+    "words": 808,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-10-02",
+    "title": "Fonti, profilo, prove e materie",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "sections": [
+      "Gerarchia delle fonti: che cosa conta davvero",
+      "Le cinque porte del Bando Decoder EPNE",
+      "1. Ente e famiglia",
+      "2. Profilo e area",
+      "3. Prove e soglie",
+      "4. Materie: core, delta, appendici"
+    ],
+    "words": 718,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-10-03",
+    "title": "Avvisi e schede operative",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "sections": [
+      "5. Avvisi, allegati e aggiornamenti",
+      "Scheda compilabile: Bando Decoder EPNE",
+      "Scheda prove-materie-output",
+      "Come usare un bando campione senza copiarlo",
+      "Da sapere in 5 righe"
+    ],
+    "words": 680,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-10-04",
+    "title": "Bando campione e caso guidato",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "sections": [
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio"
+    ],
+    "words": 700,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-10-05",
+    "title": "Controlli e verifica del bando",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "sections": [
+      "Diario errori del capitolo",
+      "Checklist operativa finale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 637,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-11-01",
+    "title": "Fatti, competenza e griglia del caso",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Che cosa rende EPNE un caso pratico",
+      "La griglia in nove passaggi"
+    ],
+    "words": 806,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-11-02",
+    "title": "Schema di risposta e domanda INPS",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+    "sections": [
+      "Lo schema di risposta per il caso EPNE",
+      "Sportello e back office: due funzioni, non due mondi",
+      "Mini-atti: che cosa puoi dover scrivere",
+      "Caso 1 - INPS: domanda di prestazione incompleta",
+      "Scenario",
+      "Lettura del caso",
+      "Risposta modello",
+      "Errore da evitare"
+    ],
+    "words": 746,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-11-03",
+    "title": "Casi INAIL, documenti e accesso",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+    "sections": [
+      "Caso 2 - INAIL: evento lavorativo e richiesta di chiarimenti",
+      "Scenario",
+      "Lettura del caso",
+      "Risposta modello",
+      "Errore da evitare",
+      "Caso 3 - Impresa e pratica sospesa",
+      "Scenario",
+      "Risposta modello",
+      "Mini-atto possibile",
+      "Caso 4 - Accesso a documenti con dati di terzi",
+      "Scenario",
+      "Risposta modello",
+      "Errore da evitare",
+      "Caso 5 - Errore segnalato in una posizione o pratica",
+      "Scenario",
+      "Risposta modello",
+      "Errore da evitare",
+      "Caso 6 - Acquisto o servizio necessario all'ufficio",
+      "Scenario",
+      "Risposta modello",
+      "Errore da evitare"
+    ],
+    "words": 801,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-11-04",
+    "title": "Comunicazioni e risposte sintetiche",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+    "sections": [
+      "Caso 7 - Candidato a concorso e richiesta informale",
+      "Scenario",
+      "Risposta modello",
+      "Errore da evitare",
+      "Come trasformare il caso in risposta sintetica",
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola"
+    ],
+    "words": 768,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-11-05",
+    "title": "Esercitazioni e verifica dei mini-atti",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+    "sections": [
+      "Errore tipico",
+      "Mini-esercizio",
+      "Diario errori del capitolo",
+      "Checklist operativa finale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 800,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-12-01",
+    "title": "Contesto e competenze situazionali",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+    "sections": [
+      "Natura dell'ente, comparto e percorso di studio",
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Che cosa rende EPNE un quesito situazionale",
+      "La gerarchia di scelta per gli EPNE"
+    ],
+    "words": 834,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-12-02",
+    "title": "Gerarchia delle scelte e scenari",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+    "sections": [
+      "1. Legalità e competenza",
+      "2. Imparzialità e integrità",
+      "3. Riservatezza e protezione dei dati",
+      "4. Orientamento al servizio",
+      "5. Collaborazione e scala di responsabilità",
+      "6. Accuratezza, priorità e tracciabilità",
+      "Le risposte deboli ricorrenti",
+      "Scenari EPNE ad alta frequenza",
+      "1. Utente irritato allo sportello",
+      "2. Richiesta telefonica su dati di una pratica",
+      "3. Pratica incompleta e utente fragile",
+      "4. Impresa che sollecita una posizione",
+      "5. Collega che chiede una scorciatoia",
+      "6. Conflitto di interessi o conoscente",
+      "7. Priorità tra pratiche"
+    ],
+    "words": 827,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-12-03",
+    "title": "Batteria di otto quesiti commentati",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+    "sections": [
+      "Simulazione situazionale: otto quesiti",
+      "Quesito 1",
+      "Quesito 2",
+      "Quesito 3",
+      "Quesito 4",
+      "Quesito 5",
+      "Quesito 6",
+      "Quesito 7",
+      "Quesito 8",
+      "Soluzioni della simulazione situazionale"
+    ],
+    "words": 968,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-12-04",
+    "title": "Lettura delle opzioni e caso utente",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+    "sections": [
+      "Come leggere le opzioni in prova",
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico"
+    ],
+    "words": 633,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-12-05",
+    "title": "Esercitazione e verifica delle condotte",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+    "sections": [
+      "Mini-esercizio",
+      "Diario errori del capitolo",
+      "Checklist operativa finale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 727,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-13-01",
+    "title": "Dati iniziali e struttura del piano",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo del blocco",
+      "Mappa BANDO",
+      "Prima del giorno 1: i cinque dati obbligatori",
+      "La struttura 30/60/90"
+    ],
+    "words": 673,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-13-02",
+    "title": "Prime settimane e consolidamento",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "sections": [
+      "Giorni 1-30: perimetro, nucleo e prime prove",
+      "Settimana 1: bando e perimetro",
+      "Settimane 2-4: nucleo comune + delta EPNE",
+      "Giorni 31-60: consolidamento e trasformazione in prova",
+      "La settimana tipo 31-60",
+      "Trasformare le materie in output",
+      "Giorni 61-90: simulazione, correzione e aggiornamento"
+    ],
+    "words": 662,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-13-03",
+    "title": "Simulazioni e piani per ente",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "sections": [
+      "Simulazioni",
+      "Il diario errori EPNE",
+      "Piano differenziato: INPS, INAIL, altri EPNE",
+      "Se prepari INPS",
+      "Se prepari INAIL",
+      "Se prepari ACI, ENAC, ISTAT, ASI, ENEA, CRI o altro EPNE",
+      "Da sapere in 5 righe"
+    ],
+    "words": 634,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-13-04",
+    "title": "Caso Luca e correzione delle priorità",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "sections": [
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio"
+    ],
+    "words": 609,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-13-05",
+    "title": "Ciclo settimanale e verifica",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "sections": [
+      "Ciclo settimanale di controllo",
+      "Simulazione e recupero",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 613,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-14-01",
+    "title": "Perimetro e competenze della vigilanza",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo dell'appendice",
+      "Mappa BANDO",
+      "Quando questa appendice diventa necessaria",
+      "Che cosa significa vigilanza ispettiva in chiave concorsuale",
+      "Tre perimetri da non confondere"
+    ],
+    "words": 903,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-14-02",
+    "title": "Poteri, verbali, diffide e rimedi",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+    "sections": [
+      "Poteri, atti e garanzie della vigilanza",
+      "Le due diffide e la conciliazione",
+      "Recuperi, sanzioni e rimedi: individuare prima l'atto"
+    ],
+    "words": 823,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-14-03",
+    "title": "Materie, scheda ispettiva e caso",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+    "sections": [
+      "Materie da attivare",
+      "Scheda sottoprofilo ispettivo",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio"
+    ],
+    "words": 754,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-14-04",
+    "title": "Accertamento, limiti e contraddittorio",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+    "sections": [
+      "Checklist finale",
+      "Dalla segnalazione alla programmazione del controllo",
+      "Poteri, limiti e qualità dell'accertamento",
+      "Verbale, contraddittorio e seguito procedimentale",
+      "Caso ragionato: informazione incompleta e rischio di anticipare il giudizio"
+    ],
+    "words": 757,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-14-05",
+    "title": "Riservatezza e verifica ispettiva",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+    "sections": [
+      "Matrice di autoverifica dell'accertamento",
+      "Coordinamento e riservatezza",
+      "Esercizio: riscrivere una conclusione debole",
+      "Domande da commissario",
+      "Regola di chiusura",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 849,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-15-01",
+    "title": "Metodo del glossario e lessico INPS",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo dell'appendice",
+      "Mappa BANDO",
+      "Come usare il glossario",
+      "Glossario essenziale INPS: previdenza, contributi e servizi"
+    ],
+    "words": 751,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-15-02",
+    "title": "Lessico assicurativo e amministrativo",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+    "sections": [
+      "Glossario essenziale INAIL: assicurazione, prevenzione e tutela",
+      "Termini comuni a INPS e INAIL"
+    ],
+    "words": 660,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-15-03",
+    "title": "Distinzioni e applicazione ai casi",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+    "sections": [
+      "Coppie da non confondere",
+      "Frasi pronte per scritto e orale",
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario"
+    ],
+    "words": 667,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-15-04",
+    "title": "Trappole e catene concettuali",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+    "sections": [
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio",
+      "Metodo per usare il glossario",
+      "Famiglie di parole che generano trappole",
+      "Catene concettuali"
+    ],
+    "words": 628,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-15-05",
+    "title": "Verifica del linguaggio tecnico",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+    "sections": [
+      "Regola di chiusura",
+      "Distinzioni in contesto",
+      "Applicazione al quesito situazionale",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 617,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-16-01",
+    "title": "Natura, comparti e confronto degli enti",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+    "sections": [
+      "Natura dell'ente, comparto e percorso di studio",
+      "Apertura editoriale",
+      "Obiettivo dell'appendice",
+      "Mappa BANDO",
+      "Come leggere le schede",
+      "Schede rapide degli enti"
+    ],
+    "words": 869,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-16-02",
+    "title": "Schede da ACI a CRI",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+    "sections": [
+      "Scheda ACI",
+      "Scheda ENAC",
+      "Scheda ISTAT",
+      "Scheda ENEA",
+      "Scheda ASI",
+      "Scheda CONI",
+      "Scheda CRI",
+      "Scheda ente compilabile"
+    ],
+    "words": 681,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-16-03",
+    "title": "Caso e metodo comparativo",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+    "sections": [
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio",
+      "Checklist finale",
+      "Metodo comparativo: sei domande per ogni ente"
+    ],
+    "words": 665,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-16-04",
+    "title": "Dal profilo ai documenti istituzionali",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+    "sections": [
+      "Dalla missione al profilo concorsuale",
+      "Documenti da cercare e informazioni da non congelare",
+      "Caso ragionato: scegliere il livello di approfondimento",
+      "Tavola di confronto operativo"
+    ],
+    "words": 608,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-16-05",
+    "title": "Aggiornamento e verifica comparativa",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+    "sections": [
+      "Esercizio di aggiornamento",
+      "Mini-simulazione comparativa",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 663,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-17-01",
+    "title": "Portale, gestore ed ente",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo dell'appendice",
+      "Mappa BANDO",
+      "Errore 1: confondere portale, gestore ed ente",
+      "Errore 2: leggere solo il nome dell'ente"
+    ],
+    "words": 629,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-17-02",
+    "title": "Materie, allegati e perimetro",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+    "sections": [
+      "Errore 3: confondere materia comune e delta EPNE",
+      "Errore 4: trasformare una materia integrativa nel centro del piano",
+      "Errore 5: ignorare allegati, rettifiche e avvisi successivi",
+      "Errore 6: usare un bando campione come modello universale",
+      "Errore 7: saltare appendici e rinvii"
+    ],
+    "words": 661,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-17-03",
+    "title": "Prove, soglie e caso guidato",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+    "sections": [
+      "Errore 8: sottovalutare prove, soglie e output",
+      "Errore 9: citare dati instabili senza verifica",
+      "Da sapere in 5 righe",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola"
+    ],
+    "words": 658,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-17-04",
+    "title": "Laboratorio e controllo della domanda",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+    "sections": [
+      "Mini-esercizio",
+      "Checklist finale anti-dispersione",
+      "Laboratorio: dal bando alla scheda di controllo",
+      "Simulazione di rettifica",
+      "Checklist prima dell'invio"
+    ],
+    "words": 625,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-17-05",
+    "title": "Diario documentale e verifica",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+    "sections": [
+      "Diario degli errori documentali",
+      "Controllo a due persone o in due tempi",
+      "Dopo l'invio",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 667,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-18-01",
+    "title": "Perimetro e criteri dei rinvii",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo dell'appendice",
+      "Mappa BANDO",
+      "La regola di perimetro",
+      "Tabella dei rinvii principali"
+    ],
+    "words": 717,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-18-02",
+    "title": "Appendici e cambiamento di percorso",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "sections": [
+      "Quando restare in M-FC03",
+      "Quando attivare solo un'appendice",
+      "Quando cambiare modulo",
+      "Ricerca e tecnologia: M-IR03",
+      "ICT e trasformazione digitale: M-TR01",
+      "Appalti, PNRR e fondi UE: M-TR02",
+      "Agenzie fiscali: M-FC02",
+      "Authority indipendenti: M-FC05",
+      "Sanità e profili sociali"
+    ],
+    "words": 717,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-18-03",
+    "title": "Destinazioni disponibili e casi",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "sections": [
+      "Destinazioni disponibili e limite del rinvio",
+      "Scheda dei rinvii ragionati",
+      "Caso guidato",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico"
+    ],
+    "words": 720,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-18-04",
+    "title": "Costruzione del percorso di studio",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "sections": [
+      "Mini-esercizio",
+      "Checklist finale",
+      "Quando un rinvio è davvero sufficiente",
+      "Tre forme di raccordo",
+      "Costruire un percorso senza salti",
+      "Caso ragionato: piano di studio sovraccarico"
+    ],
+    "words": 722,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 1
+  },
+  {
+    "id": "N-FC03-18-05",
+    "title": "Controllo dei rinvii e verifica",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "sections": [
+      "Controllo dei riferimenti prima dello studio",
+      "Scheda personale dei rinvii",
+      "Rinvio e autonomia del lettore",
+      "Regola di chiusura",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 667,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-19-01",
+    "title": "Perimetro delle materie, UE e civile",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+    "sections": [
+      "Apertura editoriale",
+      "Obiettivo dell'appendice",
+      "Mappa BANDO",
+      "Materie integrative per funzionario amministrativo INAIL",
+      "Profilo assistente sociale INAIL",
+      "Diritto dell'Unione europea: la mappa minima",
+      "Obbligazioni, contratti e responsabilità civile"
+    ],
+    "words": 883,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-19-02",
+    "title": "Responsabilità e rito previdenziale",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+    "sections": [
+      "Distinzioni civilistiche applicate",
+      "Elementi di processo civile",
+      "Il rito del lavoro e le controversie previdenziali",
+      "Diritto del lavoro, legislazione sociale e sicurezza"
+    ],
+    "words": 957,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-19-03",
+    "title": "Sicurezza, finanze e reati contro la PA",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+    "sections": [
+      "Sicurezza: attribuire gli obblighi al soggetto corretto",
+      "Scienze delle finanze",
+      "Entrate e intervento pubblico: distinguere presupposti ed effetti",
+      "Reati contro la pubblica amministrazione"
+    ],
+    "words": 984,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-19-04",
+    "title": "Profilo sociale e strategia di studio",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+    "sections": [
+      "Profilo assistente sociale: perimetro minimo",
+      "Caso ragionato integrato",
+      "Strategia di studio per materie eterogenee",
+      "Errori tipici nelle materie integrative",
+      "Prova orale: schema in quattro passaggi",
+      "Secondo caso ragionato: profilo assistente sociale"
+    ],
+    "words": 925,
+    "quizPhysicalCount": 0,
+    "casePhysicalCount": 0,
+    "exercisePhysicalCount": 0
+  },
+  {
+    "id": "N-FC03-19-05",
+    "title": "Cinque simulazioni e verifica integrata",
+    "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+    "sections": [
+      "Simulazione mista di dieci minuti",
+      "Correzione delle cinque tracce",
+      "Checklist di autonomia",
+      "▣ Verifica",
+      "Caso ragionato di chiusura",
+      "Soluzioni commentate"
+    ],
+    "words": 893,
+    "quizPhysicalCount": 6,
+    "casePhysicalCount": 1,
+    "exercisePhysicalCount": 0
+  }
+]

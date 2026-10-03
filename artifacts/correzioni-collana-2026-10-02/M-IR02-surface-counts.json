@@ -1,0 +1,338 @@
+[
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+    "words": 4367,
+    "nuclei": [
+      {
+        "id": "N-IR02-01-01",
+        "words": 707
+      },
+      {
+        "id": "N-IR02-01-02",
+        "words": 701
+      },
+      {
+        "id": "N-IR02-01-03",
+        "words": 755
+      },
+      {
+        "id": "N-IR02-01-04",
+        "words": 688
+      },
+      {
+        "id": "N-IR02-01-05",
+        "words": 699
+      }
+    ],
+    "quiz": 6,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+    "words": 4364,
+    "nuclei": [
+      {
+        "id": "N-IR02-02-01",
+        "words": 663
+      },
+      {
+        "id": "N-IR02-02-02",
+        "words": 702
+      },
+      {
+        "id": "N-IR02-02-03",
+        "words": 1097
+      },
+      {
+        "id": "N-IR02-02-04",
+        "words": 653
+      },
+      {
+        "id": "N-IR02-02-05",
+        "words": 641
+      }
+    ],
+    "quiz": 8,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+    "words": 5061,
+    "nuclei": [
+      {
+        "id": "N-IR02-03-01",
+        "words": 702
+      },
+      {
+        "id": "N-IR02-03-02",
+        "words": 1049
+      },
+      {
+        "id": "N-IR02-03-03",
+        "words": 772
+      },
+      {
+        "id": "N-IR02-03-04",
+        "words": 1012
+      },
+      {
+        "id": "N-IR02-03-05",
+        "words": 807
+      }
+    ],
+    "quiz": 8,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+    "words": 4764,
+    "nuclei": [
+      {
+        "id": "N-IR02-04-01",
+        "words": 686
+      },
+      {
+        "id": "N-IR02-04-02",
+        "words": 974
+      },
+      {
+        "id": "N-IR02-04-03",
+        "words": 888
+      },
+      {
+        "id": "N-IR02-04-04",
+        "words": 691
+      },
+      {
+        "id": "N-IR02-04-05",
+        "words": 776
+      }
+    ],
+    "quiz": 8,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+    "words": 3986,
+    "nuclei": [
+      {
+        "id": "N-IR02-05-01",
+        "words": 648
+      },
+      {
+        "id": "N-IR02-05-02",
+        "words": 648
+      },
+      {
+        "id": "N-IR02-05-03",
+        "words": 656
+      },
+      {
+        "id": "N-IR02-05-04",
+        "words": 657
+      },
+      {
+        "id": "N-IR02-05-05",
+        "words": 711
+      }
+    ],
+    "quiz": 8,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+    "words": 5018,
+    "nuclei": [
+      {
+        "id": "N-IR02-06-01",
+        "words": 699
+      },
+      {
+        "id": "N-IR02-06-02",
+        "words": 989
+      },
+      {
+        "id": "N-IR02-06-03",
+        "words": 907
+      },
+      {
+        "id": "N-IR02-06-04",
+        "words": 688
+      },
+      {
+        "id": "N-IR02-06-05",
+        "words": 1072
+      }
+    ],
+    "quiz": 8,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+    "words": 4249,
+    "nuclei": [
+      {
+        "id": "N-IR02-07-01",
+        "words": 618
+      },
+      {
+        "id": "N-IR02-07-02",
+        "words": 607
+      },
+      {
+        "id": "N-IR02-07-03",
+        "words": 602
+      },
+      {
+        "id": "N-IR02-07-04",
+        "words": 937
+      },
+      {
+        "id": "N-IR02-07-05",
+        "words": 850
+      }
+    ],
+    "quiz": 8,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+    "words": 4086,
+    "nuclei": [
+      {
+        "id": "N-IR02-08-01",
+        "words": 624
+      },
+      {
+        "id": "N-IR02-08-02",
+        "words": 651
+      },
+      {
+        "id": "N-IR02-08-03",
+        "words": 626
+      },
+      {
+        "id": "N-IR02-08-04",
+        "words": 915
+      },
+      {
+        "id": "N-IR02-08-05",
+        "words": 639
+      }
+    ],
+    "quiz": 8,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+    "words": 6400,
+    "nuclei": [
+      {
+        "id": "N-IR02-09-01",
+        "words": 702
+      },
+      {
+        "id": "N-IR02-09-02",
+        "words": 1058
+      },
+      {
+        "id": "N-IR02-09-03",
+        "words": 999
+      },
+      {
+        "id": "N-IR02-09-04",
+        "words": 717
+      },
+      {
+        "id": "N-IR02-09-05",
+        "words": 717
+      }
+    ],
+    "quiz": 6,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+    "words": 5793,
+    "nuclei": [
+      {
+        "id": "N-IR02-10-01",
+        "words": 642
+      },
+      {
+        "id": "N-IR02-10-02",
+        "words": 952
+      },
+      {
+        "id": "N-IR02-10-03",
+        "words": 924
+      },
+      {
+        "id": "N-IR02-10-04",
+        "words": 621
+      },
+      {
+        "id": "N-IR02-10-05",
+        "words": 743
+      }
+    ],
+    "quiz": 6,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+    "words": 6109,
+    "nuclei": [
+      {
+        "id": "N-IR02-11-01",
+        "words": 803
+      },
+      {
+        "id": "N-IR02-11-02",
+        "words": 715
+      },
+      {
+        "id": "N-IR02-11-03",
+        "words": 1025
+      },
+      {
+        "id": "N-IR02-11-04",
+        "words": 967
+      },
+      {
+        "id": "N-IR02-11-05",
+        "words": 864
+      }
+    ],
+    "quiz": 6,
+    "staffLinks": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+    "words": 5307,
+    "nuclei": [
+      {
+        "id": "N-IR02-12-01",
+        "words": 653
+      },
+      {
+        "id": "N-IR02-12-02",
+        "words": 871
+      },
+      {
+        "id": "N-IR02-12-03",
+        "words": 869
+      },
+      {
+        "id": "N-IR02-12-04",
+        "words": 834
+      },
+      {
+        "id": "N-IR02-12-05",
+        "words": 1058
+      }
+    ],
+    "quiz": 6,
+    "staffLinks": false
+  }
+]

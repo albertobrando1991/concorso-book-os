@@ -1,0 +1,211 @@
+[
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  }
+]

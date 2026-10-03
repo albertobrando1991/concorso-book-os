@@ -1,0 +1,154 @@
+{
+  "status": "passed",
+  "numericChecks": [
+    {
+      "case": "Valore con rinnovo e opzione",
+      "actual": 234000,
+      "expected": 234000
+    },
+    {
+      "case": "Tetto piccoli lotti",
+      "actual": 46800.0,
+      "expected": 46800
+    },
+    {
+      "case": "OEPV A",
+      "actual": 81.25,
+      "expected": 81.25
+    },
+    {
+      "case": "OEPV B",
+      "actual": 90.25,
+      "expected": 90.25
+    },
+    {
+      "case": "Cumulo modifiche servizi",
+      "actual": 13.0,
+      "expected": 13
+    },
+    {
+      "case": "Penale esecuzione",
+      "actual": 1600.0,
+      "expected": 1600
+    },
+    {
+      "case": "Revisione lavori",
+      "actual": 18000.0,
+      "expected": 18000
+    },
+    {
+      "case": "Revisione servizi",
+      "actual": 2400.0,
+      "expected": 2400
+    },
+    {
+      "case": "Anticipazione",
+      "actual": 40000.0,
+      "expected": 40000
+    },
+    {
+      "case": "Contributo",
+      "actual": 72000.0,
+      "expected": 72000
+    },
+    {
+      "case": "Quadratura fattura",
+      "actual": 122000,
+      "expected": 122000
+    },
+    {
+      "case": "CAM anni aggiuntivi 0",
+      "actual": 0.0,
+      "expected": 0
+    },
+    {
+      "case": "CAM anni aggiuntivi 1",
+      "actual": 2.0,
+      "expected": 2
+    },
+    {
+      "case": "CAM anni aggiuntivi 2",
+      "actual": 4.0,
+      "expected": 4
+    },
+    {
+      "case": "CAM anni aggiuntivi 3",
+      "actual": 6.0,
+      "expected": 6
+    },
+    {
+      "case": "CAM anni aggiuntivi 4",
+      "actual": 8.0,
+      "expected": 8
+    },
+    {
+      "case": "Penale simulazione",
+      "actual": 1000.0,
+      "expected": 1000
+    },
+    {
+      "case": "Target funzionale",
+      "actual": 92.0,
+      "expected": 92
+    },
+    {
+      "case": "Doppio finanziamento eccedenza",
+      "actual": 20000,
+      "expected": 20000
+    },
+    {
+      "case": "Rete B=4 C=3",
+      "actual": 9,
+      "expected": 9
+    },
+    {
+      "case": "Rete B=4 C=4",
+      "actual": 9,
+      "expected": 9
+    },
+    {
+      "case": "Rete B=4 C=5",
+      "actual": 10,
+      "expected": 10
+    },
+    {
+      "case": "Rete B=6 C=3",
+      "actual": 11,
+      "expected": 11
+    }
+  ],
+  "workDates": [
+    "2026-10-06",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-19",
+    "2026-10-20"
+  ],
+  "nuclei": 73,
+  "chapters": 14,
+  "missingImages": [],
+  "internalReaderReferences": [],
+  "chapterHashes": {
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md": "bb868b0c1a2ad0756e1e45c03884310168a9d7d6cbe82fedee0a9086d7a4f311",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md": "24e3351f2488c963d98b59f2b52baf66c1a91ec40b6b4f14e068ae3aa0af9788",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md": "17aa1405d510a26fc04a8ace90da8caf392d801aaa08133f89e7be2aa84ed214",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md": "f07c9d2da3370dd9d10e77f7f681084d05e60cce4fd4481511be8ccf7f27df58",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md": "930b4cf0b35eabf44321a3c7c90de244dc98df88fa9f7adad9289c17bf982f64",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md": "b6b4c0058ec585b130d99ac020f3aa58ea48b78c367b74fef36ae536c813cbe7",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md": "b74a42ae83508b5e9b0b8715ad6abe5f0edfe1fd9d8145841ffa2664ab634d3c",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md": "fc6c8381033ec0ce8e1ae7f6fb98c920f72e4295f57f3ff642f303656da05a12",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md": "d2657953006b28e0e12bc0cb6e248fab4c3e687d2bf89d3aa207b8d69d3c7ec9",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md": "8325af1006f1c7bc320f98e1cb6c10af05951d284bda4453f77190a4c1ca942e",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md": "a3cc334ef46d90945665b453a244b552697830839ec6eb7e17e7566c40665364",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md": "ef7014bb3fae9d5669f5f5e217ab7aadd3553614a4dfcd40939c51a162aa1fda",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md": "8001369b857b7d7ab34341861426551a5883b7bb0a73b2d74c6fe989949ad048",
+    "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md": "021542df6ebec88340ea69c6ec47c60413dc74782b6c388c5fcbfc16b61fdfc1"
+  },
+  "limits": "Calcoli ed evidenze testuali indicati; non certifica norme o PDF."
+}

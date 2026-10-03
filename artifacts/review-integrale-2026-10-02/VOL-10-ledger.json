@@ -1,0 +1,216 @@
+{
+  "volume": "VOL-10",
+  "chapters": [
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
+      "sha256": "2498025eb93f1341c3c4612e76f14302ed2deaeabf9b794214ec016c01dd6baa",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-01"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md",
+      "sha256": "1f8f0409df43c82b61713ad8387ebe513dc0f72eb3bde45b83522248899fec99",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-02"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md",
+      "sha256": "2c56c2b29745ff742640594496a6fa5eea3b4d85dc9679ba9625841940036813",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-03"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md",
+      "sha256": "c34245ca73f373bf4ed3bdec3f544eb8a391c5730c1a82e9ce42d19469e7bfe1",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-04",
+        "V10-05",
+        "V10-06"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md",
+      "sha256": "43556e1db8c23e9e52662ed11fda6d578a40de5e83e405a2b431b6270945cefe",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-07"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md",
+      "sha256": "798e6c34e196438ba15979f189ca9a5a3dd7e27fb45816cb63a067021e200cf2",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-08",
+        "V10-09"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md",
+      "sha256": "96089da4877c3588dc480ef9cef4619fa15812ea9cc958100f7552ed5053928f",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md",
+      "sha256": "b75f2565716f6312c768b300124639e93ac71d998dcc909b928ec6b74ee69389",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-10",
+        "V10-11",
+        "V10-12"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md",
+      "sha256": "069977eb60b37a1079b194cda4c57607789de8f69b6a9c97015ef89a6c9bf009",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-13"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md",
+      "sha256": "cff7cccf6ee6590b03bb4a7e2a5362d3d395fdc5d1e8708c9ca5566eb020e30c",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-14"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md",
+      "sha256": "b5495cd4a5a929d22c4cd8e0a6e5c7695b0b553cc6a26e477466d71a511e4b84",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-15"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md",
+      "sha256": "216cafa60b5c5d18810f6a20dc67ca7a6823d2e817a2156bec86e93031c821b4",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-16"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    },
+    {
+      "file": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md",
+      "sha256": "46756fa0a5991c0d677d25c8270442d97f4b2e3e7be87fe14f3d34b3eae99993",
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        "See report section 6: selective checks, not universal claim verification"
+      ],
+      "findings": [
+        "V10-17",
+        "V10-18"
+      ],
+      "limitations": [
+        "Controllo esterno mirato; vedi report VOL-10 e fonti con relativi limiti."
+      ]
+    }
+  ],
+  "report": "wiki/reviews/audit-integrale-2026-10-02/VOL-10.md",
+  "externalSources": [
+    "https://def.giustiziatributaria.gov.it/DocTribFrontend/executePrintArticolo.do?codiceOrdinamento=0000000000000920000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7BA87B00ED-348E-40E7-AFD0-CE43E17BA697%7D&idAttoNormativo=%7BCC095CBD-459C-48AE-9744-550ABA5865E4%7D",
+    "https://www.camera.it/temiap/2014/12/09/OCD177-705.pdf",
+    "https://www.gazzettaufficiale.it/do/atto/serie_generale/caricaPdf?art.codiceRedazionale=18A00716&art.dataPubblicazioneGazzetta=2018-02-20&art.num=1&art.tiposerie=SG&cdimg=18A0071600100010110009&dgu=2018-02-20",
+    "https://www.mimit.gov.it/images/stories/recuperi/Dossier/DPR_08_06_2001_327.pdf",
+    "https://www.mit.gov.it/index.php/normativa/decreto-numero-52-del-9032023",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001;380~art20=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art116=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art17=",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art50!vig="
+  ]
+}

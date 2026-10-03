@@ -1,0 +1,2601 @@
+{
+  "pdfSha256": "32e25d31b712ca18af78053e7f62daab47ea266106ca52dae16cd8407eff718c",
+  "pages": 813,
+  "trimPt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "mainChapters": 50,
+  "indexEntries": [
+    {
+      "number": "Cap. 1",
+      "title": "Lavorare nei Ministeri e nelle Funzioni Centrali",
+      "printed": 13,
+      "actual": 13,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 2",
+      "title": "Anatomia del bando ministeriale/RIPAM",
+      "printed": 30,
+      "actual": 30,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 3",
+      "title": "Profili professionali, CCNL e mansioni",
+      "printed": 39,
+      "actual": 39,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 4",
+      "title": "Governo, Ministeri e amministrazione centrale",
+      "printed": 50,
+      "actual": 50,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 5",
+      "title": "Presidenza del Consiglio dei ministri",
+      "printed": 59,
+      "actual": 59,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 6",
+      "title": "Organizzazione interna dei Ministeri",
+      "printed": 69,
+      "actual": 69,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 7",
+      "title": "Avvocatura dello Stato",
+      "printed": 81,
+      "actual": 81,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 8",
+      "title": "PIAO, performance, anticorruzione e valore pubblico",
+      "printed": 94,
+      "actual": 94,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.1",
+      "title": "Il PIAO come strumento integrato",
+      "printed": 95,
+      "actual": 95,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.2",
+      "title": "Il ciclo della performance",
+      "printed": 98,
+      "actual": 98,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.3",
+      "title": "Prevenzione della corruzione e gestione del rischio",
+      "printed": 100,
+      "actual": 100,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.4",
+      "title": "Dal programma ministeriale al controllo",
+      "printed": 102,
+      "actual": 102,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.5",
+      "title": "Applicazione in prova ed errori da evitare",
+      "printed": 104,
+      "actual": 104,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 9",
+      "title": "Contabilità dello Stato e bilancio ministeriale",
+      "printed": 110,
+      "actual": 110,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.1",
+      "title": "Principi e fonti della contabilità dello Stato",
+      "printed": 110,
+      "actual": 110,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.2",
+      "title": "Bilancio dello Stato e ciclo della programmazione",
+      "printed": 112,
+      "actual": 112,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.3",
+      "title": "Entrate, spese, competenza, cassa e residui",
+      "printed": 115,
+      "actual": 115,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.4",
+      "title": "Gestione ministeriale, rendiconto e controlli",
+      "printed": 116,
+      "actual": 116,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.5",
+      "title": "Decisione di spesa e uso nelle prove",
+      "printed": 118,
+      "actual": 118,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 10",
+      "title": "Contratti pubblici, PNRR e amministrazione digitale",
+      "printed": 123,
+      "actual": 123,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.1",
+      "title": "Dal fabbisogno al contratto ministeriale",
+      "printed": 123,
+      "actual": 123,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.2",
+      "title": "Soggetti, scelta dell’operatore ed esecuzione",
+      "printed": 125,
+      "actual": 125,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.3",
+      "title": "Ciclo digitale dei contratti e tracciabilità",
+      "printed": 127,
+      "actual": 127,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.4",
+      "title": "Progetto PNRR: vincoli, dati e controlli",
+      "printed": 129,
+      "actual": 129,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.5",
+      "title": "CAD e procedimento digitale ministeriale",
+      "printed": 130,
+      "actual": 130,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.6",
+      "title": "Caso integrato e metodo per le prove",
+      "printed": 132,
+      "actual": 132,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 11",
+      "title": "Casi pratici ministeriali",
+      "printed": 137,
+      "actual": 137,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.1",
+      "title": "Metodo del caso ministeriale",
+      "printed": 138,
+      "actual": 138,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.2",
+      "title": "Protocollo, termini, accesso e fascicolo",
+      "printed": 140,
+      "actual": 140,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.3",
+      "title": "Trasparenza, privacy e anticorruzione",
+      "printed": 142,
+      "actual": 142,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.4",
+      "title": "Coordinamento ministeriale, PIAO e performance",
+      "printed": 144,
+      "actual": 144,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.5",
+      "title": "Spesa e controllo amministrativo-contabile",
+      "printed": 146,
+      "actual": 146,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.6",
+      "title": "Contratto digitale e progetto PNRR",
+      "printed": 148,
+      "actual": 148,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.7",
+      "title": "Contenzioso e rapporto con l'Avvocatura",
+      "printed": 150,
+      "actual": 150,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 12",
+      "title": "Quesiti situazionali e codice di comportamento",
+      "printed": 156,
+      "actual": 156,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.1",
+      "title": "Leggere lo scenario e graduare le alternative",
+      "printed": 157,
+      "actual": 157,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.2",
+      "title": "Legalità, imparzialità, servizio e responsabilità",
+      "printed": 159,
+      "actual": 159,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.3",
+      "title": "Riservatezza, dati, strumenti digitali e comunicazione",
+      "printed": 161,
+      "actual": 161,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.4",
+      "title": "Conflitto, regali, pressioni e rapporti esterni",
+      "printed": 162,
+      "actual": 162,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.5",
+      "title": "Gerarchia, collaborazione, errori e sostenibilità del lavoro",
+      "printed": 164,
+      "actual": 164,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 13",
+      "title": "Matrice materie e piano 30/60/90",
+      "printed": 171,
+      "actual": 171,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.1",
+      "title": "Prima del giorno 1: dati, tempo e livello iniziale",
+      "printed": 172,
+      "actual": 172,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.2",
+      "title": "Matrice materia-profilo-prova e priorità A/B/C",
+      "printed": 173,
+      "actual": 173,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.3",
+      "title": "Giorni 1-30: perimetro, fondamentali e primi output",
+      "printed": 175,
+      "actual": 175,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.4",
+      "title": "Giorni 31-60: consolidamento e trasformazione in prova",
+      "printed": 177,
+      "actual": 177,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.5",
+      "title": "Giorni 61-90: simulazione, taglio e aggiornamento",
+      "printed": 179,
+      "actual": 179,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 14",
+      "title": "Simulazione finale e diario degli errori",
+      "printed": 185,
+      "actual": 185,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.1",
+      "title": "Progettare condizioni, blueprint e rubrica",
+      "printed": 186,
+      "actual": 186,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.2",
+      "title": "Batteria quiz: riconoscere senza indovinare",
+      "printed": 187,
+      "actual": 187,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.3",
+      "title": "Risposta sintetica e caso teorico-pratico",
+      "printed": 190,
+      "actual": 190,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.4",
+      "title": "Orale e quesito situazionale",
+      "printed": 192,
+      "actual": 192,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.5",
+      "title": "Correzione, diario e prova di recupero",
+      "printed": 194,
+      "actual": 194,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 15",
+      "title": "Appendici operative",
+      "printed": 197,
+      "actual": 197,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.1",
+      "title": "Appendice A — Glossario M-FC01",
+      "printed": 197,
+      "actual": 197,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.2",
+      "title": "Appendice B — Tabelle di confronto",
+      "printed": 200,
+      "actual": 200,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.3",
+      "title": "Appendice C — Bando Decoder M-FC01",
+      "printed": 202,
+      "actual": 202,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.4",
+      "title": "Appendice D — Checklist e schema orale",
+      "printed": 205,
+      "actual": 205,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.5",
+      "title": "Appendice E — Cento domande originali di ripasso",
+      "printed": 207,
+      "actual": 207,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 16",
+      "title": "Mappa delle Agenzie fiscali e dei profili concorsuali",
+      "printed": 218,
+      "actual": 218,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 17",
+      "title": "Bando Decoder fiscale",
+      "printed": 236,
+      "actual": 236,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 18",
+      "title": "Ordinamento e organizzazione di AE, ADM e AdER",
+      "printed": 255,
+      "actual": 255,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 19",
+      "title": "Diritto tributario e teoria dell'imposta",
+      "printed": 270,
+      "actual": 270,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "19.1",
+      "title": "Principi, fonti e categorie del tributo",
+      "printed": 272,
+      "actual": 272,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "19.2",
+      "title": "Presupposto, soggetti e obbligazione tributaria",
+      "printed": 277,
+      "actual": 277,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "19.3",
+      "title": "TUIR, IRPEF e IRES",
+      "printed": 280,
+      "actual": 280,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "19.4",
+      "title": "IVA: operazioni, soggetti, detrazione e adempimenti",
+      "printed": 283,
+      "actual": 283,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "19.5",
+      "title": "Quadro UE fiscale, IVA e dogane",
+      "printed": 286,
+      "actual": 286,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "19.6",
+      "title": "Accertamento e riscossione",
+      "printed": 290,
+      "actual": 290,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 20",
+      "title": "Accertamento, controlli e compliance fiscale",
+      "printed": 299,
+      "actual": 299,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 21",
+      "title": "Sanzioni amministrative e reati tributari",
+      "printed": 322,
+      "actual": 322,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 22",
+      "title": "Tutela e processo tributario",
+      "printed": 340,
+      "actual": 340,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 23",
+      "title": "Adempimenti fiscali: redditi, IVA, dichiarazioni",
+      "printed": 359,
+      "actual": 359,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 24",
+      "title": "Riscossione nazionale e lavoro in AdER",
+      "printed": 385,
+      "actual": 385,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 25",
+      "title": "Dogane e procedure doganali ADM",
+      "printed": 400,
+      "actual": 400,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 26",
+      "title": "Accise, giochi e monopoli",
+      "printed": 417,
+      "actual": 417,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 27",
+      "title": "Catasto, cartografia, estimo e pubblicità immobiliare",
+      "printed": 432,
+      "actual": 432,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 28",
+      "title": "Contabilità aziendale ed economia d'impresa per il fisco",
+      "printed": 447,
+      "actual": 447,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 29",
+      "title": "Civile e commerciale applicati a fisco, dogane e riscossione",
+      "printed": 462,
+      "actual": 462,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 30",
+      "title": "Casi pratici, quiz e orale nelle Agenzie fiscali",
+      "printed": 476,
+      "actual": 476,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 31",
+      "title": "Appendici operative",
+      "printed": 506,
+      "actual": 506,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 32",
+      "title": "Lavorare negli enti pubblici non economici",
+      "printed": 540,
+      "actual": 540,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "32.1",
+      "title": "Perimetro e natura degli enti",
+      "printed": 540,
+      "actual": 540,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "32.2",
+      "title": "Famiglia EPNE e materie comuni",
+      "printed": 542,
+      "actual": 542,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "32.3",
+      "title": "Delta specialistico e lettura del profilo",
+      "printed": 545,
+      "actual": 545,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "32.4",
+      "title": "Errori di perimetro e caso guidato",
+      "printed": 549,
+      "actual": 549,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "32.5",
+      "title": "Piano iniziale e verifica",
+      "printed": 552,
+      "actual": 552,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 33",
+      "title": "Ordinamento e governance degli EPNE",
+      "printed": 556,
+      "actual": 556,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "33.1",
+      "title": "Organi di INPS e INAIL",
+      "printed": 556,
+      "actual": 556,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "33.2",
+      "title": "Fonti, ordinamento e competenze",
+      "printed": 558,
+      "actual": 558,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "33.3",
+      "title": "Governance, vigilanza e documenti",
+      "printed": 561,
+      "actual": 561,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "33.4",
+      "title": "Schema delle responsabilità e caso",
+      "printed": 564,
+      "actual": 564,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "33.5",
+      "title": "Errori, esercizi e verifica",
+      "printed": 566,
+      "actual": 566,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 34",
+      "title": "INPS: previdenza, servizi e prestazioni",
+      "printed": 571,
+      "actual": 571,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "34.1",
+      "title": "INPS e fondamenti della protezione sociale",
+      "printed": 571,
+      "actual": 571,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "34.2",
+      "title": "Contributi, pensioni, sostegni e ISEE",
+      "printed": 573,
+      "actual": 573,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "34.3",
+      "title": "Prestazioni e servizi nel procedimento",
+      "printed": 576,
+      "actual": 576,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "34.4",
+      "title": "Caso utente e applicazione delle regole",
+      "printed": 580,
+      "actual": 580,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "34.5",
+      "title": "Comunicazione e verifica previdenziale",
+      "printed": 583,
+      "actual": 583,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 35",
+      "title": "INAIL: assicurazione sociale, prevenzione, salute e sicurezza",
+      "printed": 586,
+      "actual": 586,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "35.1",
+      "title": "Rischio assicurato, premio e prestazioni",
+      "printed": 586,
+      "actual": 586,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "35.2",
+      "title": "Nesso professionale e fonti INAIL",
+      "printed": 588,
+      "actual": 588,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "35.3",
+      "title": "Assicurazione, prevenzione e servizio",
+      "printed": 591,
+      "actual": 591,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "35.4",
+      "title": "Mappa operativa e caso lavorativo",
+      "printed": 595,
+      "actual": 595,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "35.5",
+      "title": "Errori e verifica assicurativa",
+      "printed": 598,
+      "actual": 598,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 36",
+      "title": "Procedimenti EPNE e rapporto con cittadini e imprese",
+      "printed": 603,
+      "actual": 603,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "36.1",
+      "title": "Domanda e procedimento EPNE",
+      "printed": 603,
+      "actual": 603,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "36.2",
+      "title": "Fasi, richieste e accesso",
+      "printed": 605,
+      "actual": 605,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "36.3",
+      "title": "Servizi digitali e comunicazione",
+      "printed": 608,
+      "actual": 608,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "36.4",
+      "title": "Caso, tutela e risposta motivata",
+      "printed": 610,
+      "actual": 610,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "36.5",
+      "title": "Fascicolo e verifica finale",
+      "printed": 613,
+      "actual": 613,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 37",
+      "title": "Bilancio, patrimonio e controlli negli EPNE",
+      "printed": 617,
+      "actual": 617,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "37.1",
+      "title": "Documenti contabili e organi competenti",
+      "printed": 617,
+      "actual": 617,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "37.2",
+      "title": "Entrate, spese e ciclo finanziario",
+      "printed": 619,
+      "actual": 619,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "37.3",
+      "title": "Patrimonio e sistemi di controllo",
+      "printed": 621,
+      "actual": 621,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "37.4",
+      "title": "Trasparenza contabile e caso",
+      "printed": 624,
+      "actual": 624,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "37.5",
+      "title": "Errori e calcoli di verifica",
+      "printed": 627,
+      "actual": 627,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 38",
+      "title": "Performance, PIAO e valore pubblico negli EPNE",
+      "printed": 631,
+      "actual": 631,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "38.1",
+      "title": "Performance e programmazione integrata",
+      "printed": 631,
+      "actual": 631,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "38.2",
+      "title": "Obiettivi, indicatori e rischi",
+      "printed": 633,
+      "actual": 633,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "38.3",
+      "title": "Valore pubblico, monitoraggio e output",
+      "printed": 635,
+      "actual": 635,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "38.4",
+      "title": "Caso e valutazione del servizio",
+      "printed": 638,
+      "actual": 638,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "38.5",
+      "title": "Diario e verifica degli indicatori",
+      "printed": 641,
+      "actual": 641,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 39",
+      "title": "Personale EPNE e CCNL Funzioni Centrali",
+      "printed": 644,
+      "actual": 644,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "39.1",
+      "title": "Rapporto pubblico e profilo EPNE",
+      "printed": 644,
+      "actual": 644,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "39.2",
+      "title": "CCNL, aree e competenze",
+      "printed": 646,
+      "actual": 646,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "39.3",
+      "title": "Doveri e condotta professionale",
+      "printed": 649,
+      "actual": 649,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "39.4",
+      "title": "Risposte orali e recupero degli errori",
+      "printed": 652,
+      "actual": 652,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "39.5",
+      "title": "Responsabilità e verifica contrattuale",
+      "printed": 655,
+      "actual": 655,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 40",
+      "title": "Contratti, acquisti e forniture negli EPNE",
+      "printed": 658,
+      "actual": 658,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "40.1",
+      "title": "Fabbisogno EPNE e materie comuni",
+      "printed": 658,
+      "actual": 658,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "40.2",
+      "title": "Ciclo di acquisto e responsabilità",
+      "printed": 661,
+      "actual": 661,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "40.3",
+      "title": "Strumenti digitali e controlli",
+      "printed": 663,
+      "actual": 663,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "40.4",
+      "title": "Caso di acquisto e applicazione",
+      "printed": 666,
+      "actual": 666,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "40.5",
+      "title": "Diario e verifica del contratto",
+      "printed": 669,
+      "actual": 669,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 41",
+      "title": "Bando Decoder EPNE",
+      "printed": 673,
+      "actual": 673,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "41.1",
+      "title": "Natura dell’ente e obiettivi del Decoder",
+      "printed": 673,
+      "actual": 673,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "41.2",
+      "title": "Fonti, profilo, prove e materie",
+      "printed": 675,
+      "actual": 675,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "41.3",
+      "title": "Avvisi e schede operative",
+      "printed": 678,
+      "actual": 678,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "41.4",
+      "title": "Bando campione e caso guidato",
+      "printed": 682,
+      "actual": 682,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "41.5",
+      "title": "Controlli e verifica del bando",
+      "printed": 684,
+      "actual": 684,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 42",
+      "title": "Casi pratici EPNE",
+      "printed": 688,
+      "actual": 688,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "42.1",
+      "title": "Fatti, competenza e griglia del caso",
+      "printed": 688,
+      "actual": 688,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "42.2",
+      "title": "Schema di risposta e domanda INPS",
+      "printed": 691,
+      "actual": 691,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "42.3",
+      "title": "Casi INAIL, documenti e accesso",
+      "printed": 694,
+      "actual": 694,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "42.4",
+      "title": "Comunicazioni e risposte sintetiche",
+      "printed": 697,
+      "actual": 697,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "42.5",
+      "title": "Esercitazioni e verifica dei mini-atti",
+      "printed": 700,
+      "actual": 700,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 43",
+      "title": "Quesiti situazionali EPNE",
+      "printed": 704,
+      "actual": 704,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "43.1",
+      "title": "Contesto e competenze situazionali",
+      "printed": 704,
+      "actual": 704,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "43.2",
+      "title": "Gerarchia delle scelte e scenari",
+      "printed": 707,
+      "actual": 707,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "43.3",
+      "title": "Batteria di otto quesiti commentati",
+      "printed": 710,
+      "actual": 710,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "43.4",
+      "title": "Lettura delle opzioni e caso utente",
+      "printed": 714,
+      "actual": 714,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "43.5",
+      "title": "Esercitazione e verifica delle condotte",
+      "printed": 716,
+      "actual": 716,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 44",
+      "title": "Piano 30/60/90 per INPS, INAIL ed EPNE",
+      "printed": 720,
+      "actual": 720,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "44.1",
+      "title": "Dati iniziali e struttura del piano",
+      "printed": 720,
+      "actual": 720,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "44.2",
+      "title": "Prime settimane e consolidamento",
+      "printed": 722,
+      "actual": 722,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "44.3",
+      "title": "Simulazioni e piani per ente",
+      "printed": 726,
+      "actual": 726,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "44.4",
+      "title": "Caso Luca e correzione delle priorità",
+      "printed": 728,
+      "actual": 728,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "44.5",
+      "title": "Ciclo settimanale e verifica",
+      "printed": 731,
+      "actual": 731,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 45",
+      "title": "Vigilanza ispettiva INPS-INAIL",
+      "printed": 733,
+      "actual": 733,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "45.1",
+      "title": "Perimetro e competenze della vigilanza",
+      "printed": 733,
+      "actual": 733,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "45.2",
+      "title": "Poteri, verbali, diffide e rimedi",
+      "printed": 736,
+      "actual": 736,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "45.3",
+      "title": "Materie, scheda ispettiva e caso",
+      "printed": 738,
+      "actual": 738,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "45.4",
+      "title": "Accertamento, limiti e contraddittorio",
+      "printed": 742,
+      "actual": 742,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "45.5",
+      "title": "Riservatezza e verifica ispettiva",
+      "printed": 744,
+      "actual": 744,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 46",
+      "title": "Glossario previdenza, assicurazione e prestazioni",
+      "printed": 747,
+      "actual": 747,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "46.1",
+      "title": "Metodo del glossario e lessico INPS",
+      "printed": 747,
+      "actual": 747,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "46.2",
+      "title": "Lessico assicurativo e amministrativo",
+      "printed": 751,
+      "actual": 751,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "46.3",
+      "title": "Distinzioni e applicazione ai casi",
+      "printed": 754,
+      "actual": 754,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "46.4",
+      "title": "Trappole e catene concettuali",
+      "printed": 757,
+      "actual": 757,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "46.5",
+      "title": "Verifica del linguaggio tecnico",
+      "printed": 759,
+      "actual": 759,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 47",
+      "title": "Schede rapide ACI, ENAC, ISTAT, ENEA, ASI, CONI e CRI",
+      "printed": 762,
+      "actual": 762,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "47.1",
+      "title": "Natura, comparti e confronto degli enti",
+      "printed": 762,
+      "actual": 762,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "47.2",
+      "title": "Schede da ACI a CRI",
+      "printed": 765,
+      "actual": 765,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "47.3",
+      "title": "Caso e metodo comparativo",
+      "printed": 768,
+      "actual": 768,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "47.4",
+      "title": "Dal profilo ai documenti istituzionali",
+      "printed": 770,
+      "actual": 770,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "47.5",
+      "title": "Aggiornamento e verifica comparativa",
+      "printed": 771,
+      "actual": 771,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 48",
+      "title": "Errori tipici nei bandi EPNE",
+      "printed": 774,
+      "actual": 774,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "48.1",
+      "title": "Portale, gestore ed ente",
+      "printed": 774,
+      "actual": 774,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "48.2",
+      "title": "Materie, allegati e perimetro",
+      "printed": 776,
+      "actual": 776,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "48.3",
+      "title": "Prove, soglie e caso guidato",
+      "printed": 779,
+      "actual": 779,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "48.4",
+      "title": "Laboratorio e controllo della domanda",
+      "printed": 781,
+      "actual": 781,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "48.5",
+      "title": "Diario documentale e verifica",
+      "printed": 784,
+      "actual": 784,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 49",
+      "title": "Rinvii ragionati ad altri moduli",
+      "printed": 787,
+      "actual": 787,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "49.1",
+      "title": "Perimetro e criteri dei rinvii",
+      "printed": 787,
+      "actual": 787,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "49.2",
+      "title": "Appendici e cambiamento di percorso",
+      "printed": 790,
+      "actual": 790,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "49.3",
+      "title": "Destinazioni disponibili e casi",
+      "printed": 792,
+      "actual": 792,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "49.4",
+      "title": "Costruzione del percorso di studio",
+      "printed": 795,
+      "actual": 795,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "49.5",
+      "title": "Controllo dei rinvii e verifica",
+      "printed": 797,
+      "actual": 797,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 50",
+      "title": "Materie integrative INAIL/RIPAM",
+      "printed": 800,
+      "actual": 800,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "50.1",
+      "title": "Perimetro delle materie, UE e civile",
+      "printed": 800,
+      "actual": 800,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "50.2",
+      "title": "Responsabilità e rito previdenziale",
+      "printed": 803,
+      "actual": 803,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "50.3",
+      "title": "Sicurezza, finanze e reati contro la PA",
+      "printed": 805,
+      "actual": 805,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "50.4",
+      "title": "Profilo sociale e strategia di studio",
+      "printed": 808,
+      "actual": 808,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "50.5",
+      "title": "Cinque simulazioni e verifica integrata",
+      "printed": 811,
+      "actual": 811,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    }
+  ],
+  "indexMismatches": [],
+  "overflowPages": [],
+  "internalLeaks": [],
+  "fonts": [
+    {
+      "xref": 6,
+      "name": "AAAAAA+Arial-BoldMT",
+      "format": "ttf",
+      "kind": "Type0",
+      "bytes": 44460,
+      "charProcs": [
+        "null",
+        "null"
+      ],
+      "embedded": true
+    },
+    {
+      "xref": 7,
+      "name": "BAAAAA+Garamond",
+      "format": "ttf",
+      "kind": "Type0",
+      "bytes": 58292,
+      "charProcs": [
+        "null",
+        "null"
+      ],
+      "embedded": true
+    },
+    {
+      "xref": 8,
+      "name": "CAAAAA+Arial-Black",
+      "format": "ttf",
+      "kind": "Type0",
+      "bytes": 20932,
+      "charProcs": [
+        "null",
+        "null"
+      ],
+      "embedded": true
+    },
+    {
+      "xref": 9,
+      "name": "DAAAAA+ArialMT",
+      "format": "ttf",
+      "kind": "Type0",
+      "bytes": 61964,
+      "charProcs": [
+        "null",
+        "null"
+      ],
+      "embedded": true
+    },
+    {
+      "xref": 21,
+      "name": "EAAAAA+ArialMT",
+      "format": "ttf",
+      "kind": "Type0",
+      "bytes": 47984,
+      "charProcs": [
+        "null",
+        "null"
+      ],
+      "embedded": true
+    },
+    {
+      "xref": 172,
+      "name": "FAAAAA+Consolas",
+      "format": "ttf",
+      "kind": "Type0",
+      "bytes": 27296,
+      "charProcs": [
+        "null",
+        "null"
+      ],
+      "embedded": true
+    },
+    {
+      "xref": 275,
+      "name": "",
+      "format": "n/a",
+      "kind": "Type3",
+      "bytes": 0,
+      "charProcs": [
+        "dict",
+        "<</g0 1832 0 R/g1D7E 1833 0 R>>"
+      ],
+      "embedded": true
+    }
+  ],
+  "sourceHashes": [
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "sha256": "3337ef20a7241607074de300abb288a8af080cd65f3797e8f2e82e7ff1516931",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "sha256": "61eacb5ea533a2161fd97a03b5cda5b0944d531fefbe7767c4af8b103466b1e3",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "sha256": "290db404db9f00b3d7a1dcd020cbefb65bdb55566a65c40fddec211f04abec31",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "sha256": "62aeb330546eeeff557c742fd75a9927dfabb562f8ff7f005e656ce6747fdd70",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "sha256": "bfde445695ce9ba12eda761f30d1eaa62713a6ab9c202c54895463b2a305dd7f",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "sha256": "a9ca399edf80b947bdacd62c61e14d22821bfecc134cb8a39b4f1472496c2b6d",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "sha256": "ffa01dcfecff142aafce760985552b64c1d5561e9598d7ab6d25f424bdefa28c",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "sha256": "2c961e542f95702d01044ea99a2963516e507596e7c75c5d50002a511acff6e8",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "sha256": "2da92721e7b266ede8c6cf1cccfb2e33fab7f74b504c0d6fdb1ce4b022e80420",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "sha256": "f10c8633f37c6439895d2c2bdb3c776ef3c67052b8452da8f2789f8bd9c6f22d",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "sha256": "0d078562fef647ceb92adfc2668d27528584b4a82ebb2d3dc71cb5c382fc4050",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "sha256": "f70634502bc3c9484219eb8d6d9479379d19c61dbe964d06f489abcc6f72889d",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "sha256": "f41c1da324df99393e20c57b2e201bf6eae1b2f7466eeca84b04e2791bc765c3",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "sha256": "efbec4cc335afdd462ed8e57f5a7a6ce4c5e176b8bc84b42fe07d43d132cab48",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "sha256": "a5fa9a66994f107e8c0d72a4d761fdde17480a6ba976fc200e04fe4e14664cd5",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "sha256": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "sha256": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "sha256": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "sha256": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "sha256": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "sha256": "2f1ae919ebd39f29331f8f5a8f6652342da65473e8106ed82ae8e9cb882412d0",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "sha256": "3608af42728c22184511f160b0ac4cfc4905bb07788f1dddc91a7b08fd4db730",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "sha256": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "sha256": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "sha256": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "sha256": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "sha256": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "sha256": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "sha256": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "sha256": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "sha256": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "sha256": "702ade162e6316d51373b7461d4368f80ec32ea3e60a1c3a5a1a591ab146f5e7",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "sha256": "89a5e0f43a36530404c63485d08a0c313adba7dc1bff9f88ab0ae1e869406bc5",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "sha256": "b41cf812ed9d3b0a12d1ba7408e34c8cad061b6b7f0c797a34c9bd0d4b114d58",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "sha256": "93bb466bb94751125235c9d05e735781551edcb5722ddb4c2449e74ed2cf286a",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "sha256": "5b3c9f477654903103b1130ce06d241f5f5725a3b297d1299f2dcec3308a121b",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "sha256": "05e57ead82830f32e37cf944b111cc9c4b0b0bff7f9b4f799805ddd4e532ff23",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "sha256": "96bb9255f664b94124062824c3be6bfe5ddded265763d4788054e5bf3fa4e725",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "sha256": "c6f479868b5d4315ddc4934953d5619506fdca99a48f5ecb89b6fd6ee67820fc",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+      "sha256": "0df6e3b86520c62c1c89cc4b2324f6fbf94ae0de7f6db95c0a7f3de5e4c481f9",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "sha256": "e5f24d61b4b6cb322ad239b2df0f835b9a5df00cfee1ac6f67ad646b7d387ec9",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+      "sha256": "3303040be0fb75c202ebfca2ed4ebaf4290d3fa87450707ea4e477f0e312ce5c",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+      "sha256": "6c7b92262d92848840a3fe48ba98c0f246817c754e24d6906499c17dd146036b",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "sha256": "91061250128fb426a71237fe8fb0335575affeb7506331fda210000387081f3f",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "sha256": "5710126a94e1bf9dca05ea563e923beb462f1aa85d44ba0bfb76a66ba0a6a534",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "sha256": "073c21893de8997357b6df51bcf4521e5051bf5aafe34823b4f216d395c08bc5",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "sha256": "4f3dc106820ac6c2aebea463e916869e234b4f965c8d41d697bf10cc6cc5eef5",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "sha256": "cebbe6e75cb68e5e5cf12ed3c37b6e57e3c05a6fc693eb656366e3f750c3c732",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "sha256": "889d8cab3c3713b73907d03f9a6027a01872818a92adf571b7a61b85f48c716d",
+      "currentMatch": true
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "sha256": "703fa41b14db9143a47cf3e8b5f89dda21c05d28bbb27279e9849180dcd5af39",
+      "currentMatch": true
+    }
+  ],
+  "nativeSchemes": [
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "title": "Schema 16.1 — Dalla selezione al percorso fiscale",
+      "pages": [
+        218
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "title": "Schema 16.2 — Scegliere il perimetro",
+      "pages": [
+        222
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "title": "Schema 16.3 — Tre funzioni, tre preparazioni",
+      "pages": [
+        224
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "title": "Schema 16.4 — Dalla base comune alla prova",
+      "pages": [
+        226
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "title": "Schema 16.5 — Scheda minima del Decoder",
+      "pages": [
+        229
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "title": "Schema 17.1 — Il Decoder fiscale",
+      "pages": [
+        238
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "title": "Schema 17.2 — Dal codice al programma",
+      "pages": [
+        241
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "title": "Schema 17.3 — Allenamento per tipo di prova",
+      "pages": [
+        243
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "title": "Schema 17.4 — Quattro priorità possibili",
+      "pages": [
+        245
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "title": "Schema 17.5 — Tre esempi di Decoder",
+      "pages": [
+        251
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "title": "Schema 18.1 — Organizzazione e risposta d’esame",
+      "pages": [
+        257
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "title": "Schema 18.2 — Istituzioni e relazioni",
+      "pages": [
+        258
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "title": "Schema 18.3 — Lessico delle tre funzioni",
+      "pages": [
+        258
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "title": "Schema 18.4 — Centro e articolazioni territoriali",
+      "pages": [
+        261
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "title": "Schema 18.5 — Pretesa e riscossione",
+      "pages": [
+        267
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "title": "Schema 19.1 — La teoria dell’imposta nella prova",
+      "pages": [
+        272
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "title": "Schema 19.2 — Come leggere un rapporto tributario",
+      "pages": [
+        272
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "title": "Schema 19.3 — Specie del tributo",
+      "pages": [
+        275
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "title": "Schema 19.4 — Le domande prima del calcolo",
+      "pages": [
+        278
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "title": "Schema 19.5 — Dalle nozioni alle discipline",
+      "pages": [
+        290
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "title": "Schema 20.1 — Dal dato alla verifica",
+      "pages": [
+        300
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "title": "Schema 20.2 — Controllo: passaggi ed esiti",
+      "pages": [
+        301
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "title": "Schema 20.3 — Poteri e garanzie da collegare",
+      "pages": [
+        304
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "title": "Schema 20.4 — Gestire il rischio fiscale",
+      "pages": [
+        310
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "title": "Schema 20.5 — TCF e dialogo preventivo",
+      "pages": [
+        311
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "title": "Schema 23.1 — Adempimenti da distinguere",
+      "pages": [
+        360
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "title": "Schema 23.2 — Redditi e IVA: confronto",
+      "pages": [
+        361
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "title": "Schema 23.3 — Funzioni e tempi degli adempimenti",
+      "pages": [
+        376
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "title": "Schema 23.4 — Tre usi distinti del credito",
+      "pages": [
+        378
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "title": "Schema 23.5 — Assistenza, compliance e controllo",
+      "pages": [
+        380
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "title": "Schema 24.1 — La funzione della riscossione",
+      "pages": [
+        386
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "title": "Schema 24.2 — Due funzioni collegate",
+      "pages": [
+        387
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "title": "Schema 24.3 — Riscossione: due percorsi e più opzioni",
+      "pages": [
+        388
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "title": "Schema 24.4 — Parole vicine, effetti diversi",
+      "pages": [
+        390
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "title": "Schema 24.5 — Checklist dello sportello AdER",
+      "pages": [
+        394
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "title": "Schema 25.1 — Dogane nella prova ADM",
+      "pages": [
+        401
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "title": "Schema 25.2 — Lettura della procedura doganale",
+      "pages": [
+        403
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "title": "Schema 25.3 — La triade tecnica",
+      "pages": [
+        405
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "title": "Schema 25.4 — Rischio, controlli e status AEO",
+      "pages": [
+        410
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "title": "Schema 25.5 — Checklist della dichiarazione doganale",
+      "pages": [
+        410
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "title": "Schema 26.1 — Accise, giochi e monopoli",
+      "pages": [
+        418
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "title": "Schema 26.2 — Seguire una filiera di accisa",
+      "pages": [
+        420
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "title": "Schema 26.3 — Settori da riconoscere",
+      "pages": [
+        423
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "title": "Schema 26.4 — Elementi del controllo ADM",
+      "pages": [
+        426
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "title": "Schema 26.5 — Checklist per la risposta settoriale",
+      "pages": [
+        430
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "title": "Schema 27.1 — Territorio e pubblicità immobiliare",
+      "pages": [
+        433
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "title": "Schema 27.2 — Quattro piani del territorio",
+      "pages": [
+        434
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "title": "Schema 27.3 — Identificare e qualificare il bene",
+      "pages": [
+        435
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "title": "Schema 27.4 — Scegliere il servizio",
+      "pages": [
+        437
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "title": "Schema 27.5 — Checklist del caso immobiliare",
+      "pages": [
+        446
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "title": "Schema 28.1 — Bilancio e fisco",
+      "pages": [
+        448
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "title": "Schema 28.2 — Documenti del bilancio ordinario",
+      "pages": [
+        449
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "title": "Schema 28.3 — Competenza e movimento monetario",
+      "pages": [
+        451
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "title": "Schema 28.4 — Dal risultato contabile al tributo",
+      "pages": [
+        456
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "title": "Schema 28.5 — Checklist bilancio-fisco",
+      "pages": [
+        461
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "title": "Schema 29.1 — Civile e commerciale nel caso fiscale",
+      "pages": [
+        463
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "title": "Schema 29.2 — La parola credito su tre piani",
+      "pages": [
+        464
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "title": "Schema 29.3 — Contratto, fattura, pagamento e scrittura",
+      "pages": [
+        468
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "title": "Schema 29.4 — La stessa impresa, domande diverse",
+      "pages": [
+        470
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "title": "Schema 29.5 — Checklist civile-commerciale",
+      "pages": [
+        475
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "title": "Schema 30.1 — Dallo studio alla prestazione",
+      "pages": [
+        478
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "title": "Schema 30.2 — Quiz in quattro mosse",
+      "pages": [
+        481
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "title": "Schema 30.3 — Tre casi, una griglia di lettura",
+      "pages": [
+        489
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "title": "Schema 30.4 — Risposta orale da 90 secondi",
+      "pages": [
+        491
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "title": "Schema 30.5 — Simulazione e recupero",
+      "pages": [
+        499
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "title": "Schema 31.1 — Usare le appendici operative",
+      "pages": [
+        506
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "title": "Schema 31.2 — Dalla domanda allo strumento",
+      "pages": [
+        507
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "title": "Schema 31.3 — Protocollo di front-office",
+      "pages": [
+        532
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "title": "Schema 31.4 — Qualificare condotte e conseguenze",
+      "pages": [
+        534
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "title": "Schema 31.5 — UE, dogane e operatore",
+      "pages": [
+        534
+      ]
+    }
+  ],
+  "KDPBlackWhitePaperPageLimit": 828,
+  "withinWhitePaperLimit": true,
+  "withinCreamPaperLimit": false,
+  "missingImages": 0,
+  "limitations": [
+    "Technical checks plus separate visual contact-sheet review; no KDP upload or physical print proof.",
+    "Unresolved common digital-service and publisher-data dependency."
+  ],
+  "domPageCount": 813,
+  "domPdfPageCountMatch": true,
+  "pdfIndexMismatches": []
+}

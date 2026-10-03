@@ -1,0 +1,80 @@
+[
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+    "before": "8d6c79d75069b934407ac350eb508dcf9c20e4dc6cc02a9db68a521f9cfa46cf",
+    "after": "cade3d43a064dc3571456d34fc3b50146115ea53dd2c4f2e5b123368e85a4c49",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+    "before": "7ec4bad1124dab6449c1098982f1cf4c36cc3df6a5f116c6b1d219d69cb7ec06",
+    "after": "9f7dc6ea7d4282162b68abfeb4265a6e036e6f66400739a49a298c055252cfc4",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+    "before": "e4f2d449dfc80e76cf9897aa6206f465344c1da1cce6b3248b1d15dd9860e411",
+    "after": "305719bd1f1d0c9aecfa110e51c62a671566e9ee3268fca23930493840d7130d",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+    "before": "7e93088ab53318442a82beb1760ce0db2737278f7c4770ea8441001d45f89bf7",
+    "after": "6a9162e29b7edadfca61010947bed2073e4f5de46e5d2b75055b2afa35c7fca9",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+    "before": "680dbf3d0941277b8fa76894427be0971375d0bcdfc77f8d65ebc6e042495a4e",
+    "after": "49f4caaaa82a8d1e58a24f620776cd1a392f4f12c22fb9b45af5c70c6cc990aa",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+    "before": "3f675bedf86e8878e3bf1c024c63f340034d1b7a133b10cafc93c7cd196780fa",
+    "after": "7101ca94b6b65bdccf9fa5fdcf05e5765961081b866daa3edff108fbca802d8a",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+    "before": "8a94cc49d60373fb96ef15531a2ee8c5fd8184dbf4b924c6725e66263b4f11f3",
+    "after": "6628993881eb14ad265759b14d7f12928564e3d7d4426e494a2c81b2ff1d58ce",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+    "before": "d218893aedf25ae95aa5ffa1b4136b21311c8033fd02e3d91cdb4fdf23507197",
+    "after": "4f10c6d90643ec58392c86fae047dee07a66bde8678093c1748ddb33d39ac500",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+    "before": "ee12684d50bf748f100310664e35616a81c8345ea1f8a780d07d4bb80db54fad",
+    "after": "052e3a1d6e6761aad2893bb9437452f6ea1ee79968b9e252bbd39ab1c3596e0c",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+    "before": "37131f5cae771c99482310c409e0ec94845b5c50fd7f5d17583548498c705b5b",
+    "after": "091eee6f0d3daf1a76c7990e5007b5dfe8d7c17971c39ff6ad2e3d0a6d416745",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+    "before": "56bdb395870c8bfffd5f77cc635e7cf920e92215098a3c8730af81815423bb9b",
+    "after": "e303c6f46aed01ca24bbb5183806b1c2d5eb4eb30d93d7380a7d0950b61d4983",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+    "before": "299247c9220b9503706b339398624409b40c7090617246f9c69fdadd07ad9309",
+    "after": "3778f4b584b9ee25f80b30c2cd5c2f1f49bf3936bd0bbd0d8d2a7e211b2faf87",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+    "before": "43dc8ec22a16fd4924424407f217a2cb392cf459859b7a57d4d946fa8dd189e8",
+    "after": "b598b572d3cf6803d2890c8652919ed9042107cff57f0d6918a51938d27cf0ae",
+    "change": "H1 allineato al titolo canonico: rimossa numerazione locale duplicata nella proiezione di volume, senza eliminare contenuto."
+  }
+]

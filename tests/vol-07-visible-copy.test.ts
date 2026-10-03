@@ -61,7 +61,7 @@ describe("VOL-07 visible editorial copy", () => {
 
     expect(preview.title).toBe("VOL-07 — Sanità amministrativa e professioni sanitarie")
     expect(readerChapters.map((chapter) => [chapter.outlineSection, chapter.title])).toEqual([
-      ["1", "Atti, procedimenti e flussi informativi nelle aziende sanitarie"],
+      ["1", "SSN, aziende sanitarie, atti e flussi informativi"],
       ["2", "Documentazione sanitaria, accesso, privacy e conservazione"],
       ["3", "Front-office e comunicazione con l'utenza sanitaria"],
       ["4", "Contabilità, budget e controllo di gestione nelle aziende sanitarie"],

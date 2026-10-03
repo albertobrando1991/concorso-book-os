@@ -9,7 +9,7 @@ entities: ["Agenzia delle Entrate", "Osservatorio del Mercato Immobiliare"]
 source_refs: ["sources/catasto-pubblicita-immobiliare-estimo-m-fc02.md", "sources/bandi-rappresentativi-m-fc02-agenzie-fiscali-2023-2026.md"]
 book_refs: ["m-fc02-agenzie-fiscali"]
 confidence: 0.97
-updated_at: 2026-07-18T00:35:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-18T00:35:00+02:00
 review_required: true
 canonical: true
@@ -52,3 +52,7 @@ Le quotazioni OMI, pubblicate per zone e semestri, esprimono intervalli di valor
 ## Note di review
 
 Verificare versioni correnti di DOCFA, PREGEO, Voltura Web, Sister e delle specifiche tecniche. Le quotazioni OMI e i servizi telematici sono dati mobili; aggiornare schermate, versioni e modalita operative prima della pubblicazione.
+
+## Integrazione estimativa del 3 ottobre 2026
+
+Tre esempi didattici FC02/10 esplicitano dati e ipotesi: comparazione 85 × 2.000 = 170.000; capitalizzazione perpetua 8.000 / 0,04 = 200.000; costo terreno 60.000 + fabbricato 160.000 × 0,75 = 180.000. Sono esercizi, non stime ufficiali né valori OMI. Metodo comparativo e capitalizzazione riscontrati nella [guida AE](https://www1.agenziaentrate.gov.it/web_app_entrate/guida_acquisto_casa.html); formula del costo definita nel testo come ipotesi didattica. L'art. 2808 c.c. attribuisce all'iscrizione efficacia costitutiva, non soltanto eventuale; fonte civile consolidata collegata al capitolo.

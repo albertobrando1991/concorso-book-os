@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-03",
+  "asset": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/assets/correzioni-2026-10/gantt-sportello-digitale.png",
+  "before": "6d2e4b1393f6ec8b6df062d1a520c945958ed13a67d5b9133c1f7266968a4b44",
+  "after": "e2e3e90027f658cbf4be79b05e09d450bf1655b7c6804d9e427e9d14d8fdf711",
+  "vectorSource": "wiki/books/moduli/m-tr02-appalti-pnrr-fondi-ue/assets/correzioni-2026-10/gantt-sportello-digitale.pdf",
+  "vectorSourceSha256": "595514a50a62bb55ec4b799e6c9dc94489688ebbbea7c417369e08f5571f5ce0",
+  "pixels": [
+    1950,
+    1410
+  ],
+  "reason": "Rerender from vector PDF; no interpolation of old bitmap. Text, data and size in layout unchanged."
+}

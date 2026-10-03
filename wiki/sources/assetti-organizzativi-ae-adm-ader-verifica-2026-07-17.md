@@ -54,3 +54,11 @@ Nel capitolo 3 distinguere sempre:
 ## Note di review
 
 Prima dell'impaginazione definitiva verificare il regolamento di amministrazione e l'organigramma vigente dell'Agenzia delle Entrate, nonche eventuali aggiornamenti successivi al 17 luglio 2026 degli atti ADM e dello statuto AdER.
+
+## Organi: integrazione del 3 ottobre 2026
+
+Per AE e ADM l'art. 67 D.Lgs. 300/1999 individua Direttore, Comitato di gestione e Collegio dei revisori dei conti. Il terzo organo non va omesso. Direzione/gestione, deliberazioni organizzative e controllo contabile restano funzioni distinte. Riscontro istituzionale: [Camera dei deputati, dossier sulle agenzie fiscali](https://documenti.camera.it/Leg17/Dossier/Testi/CPTAGLIAEN02.htm). Il rinvio riguarda il modello degli organi, non nominativi, che non sono riportati nel capitolo.
+
+### Riscontro conclusivo del 3 ottobre 2026
+
+Il [portale ADM Statuto e Regolamento](https://www.adm.gov.it/portale/statuto-e-regolamento) espone il regolamento di amministrazione approvato con delibera 541/2026: confermato il richiamo datato nel capitolo 03, senza attribuire nomi o competenze non riportate nel testo.

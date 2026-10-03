@@ -3,7 +3,7 @@
   "specPath": "books/vol-02-enti-locali-polizia-locale/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9ec2abf7ad63aaa5271f5f2d561817a092ec16c24727d57ebf82ef84b0a5a6b",
   "createdAt": "2026-07-29T22:02:16.845Z",
-  "updatedAt": "2026-08-09T10:57:12.395Z",
+  "updatedAt": "2026-10-03T10:17:22.659Z",
   "steps": [
     {
       "key": "08:moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
@@ -1662,17 +1662,19 @@
       "target": "moduli/m-fl01-comuni-unioni",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata dei rilievi audit integrale 2 ottobre 2026; riapertura correzioni e gate a valle, senza chiusure presunte."
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-05T18:07:08.445Z",
+      "startedAt": "2026-10-02T21:49:18.997Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-05T18:08:08.213Z"
+      "finishedAt": "2026-10-02T22:15:58.692Z"
     },
     {
       "key": "15:moduli/m-fl01-comuni-unioni",
@@ -1686,13 +1688,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-05T18:08:18.584Z",
+      "startedAt": "2026-10-02T22:16:04.897Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-05T18:21:34.818Z"
+      "finishedAt": "2026-10-02T22:56:19.966Z"
     },
     {
       "key": "16:moduli/m-fl01-comuni-unioni",
@@ -1706,7 +1708,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-05T18:21:46.208Z",
+      "startedAt": "2026-10-02T22:56:24.879Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1718,14 +1720,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale completata: 14 capitoli presenti e hashati, matrice senza stati bloccanti, report 13-15 chiusi, audit specialistico completato, indice e cut-off documentati nel manifest planning/10-text-freeze-manifest.md."
+            "message": "Chiusura manuale di info: Gate text-freeze non implementato: controllo manuale completato su 14 capitoli, matrice e indice; 227 rinvii risolvibili; audit 15 passato; manifest con hash del 3 ottobre in planning/10-text-freeze-manifest.md. PDF e resto volume non certificati."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-05T18:23:36.746Z"
+      "finishedAt": "2026-10-02T22:57:42.311Z"
     },
     {
       "key": "08:moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
@@ -3111,17 +3113,20 @@
       "target": "moduli/m-fl02-regioni-province-citta-metropolitane",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata dei rilievi V02-20–34 e correzioni trasversali; conservato audit storico, nuovo ciclo correttivo.",
+        "reopen: Sostituzione autorizzata delle cinque figure testuali illeggibili con schemi nativi; riesame e nuovo freeze necessari"
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-07T12:33:05.238Z",
+      "startedAt": "2026-10-03T10:14:38.071Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-07T12:34:33.708Z"
+      "finishedAt": "2026-10-03T10:16:29.687Z"
     },
     {
       "key": "15:moduli/m-fl02-regioni-province-citta-metropolitane",
@@ -3135,13 +3140,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-07T12:34:51.386Z",
+      "startedAt": "2026-10-03T10:16:30.183Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-07T12:43:03.682Z"
+      "finishedAt": "2026-10-03T10:16:36.063Z"
     },
     {
       "key": "16:moduli/m-fl02-regioni-province-citta-metropolitane",
@@ -3155,7 +3160,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-07T12:43:15.794Z",
+      "startedAt": "2026-10-03T10:16:36.555Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -3167,14 +3172,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Verifica manuale completata: 12 capitoli presenti, matrice completa, Humanizer e step 13-15 chiusi, indice e fonti coerenti; manifest SHA-256 creato con cut-off 2026-08-07."
+            "message": "Chiusura manuale di info: Gate freeze non implementato: verifica manuale delta schemi, fonti, 12 capitoli e manifest SHA aggiornato; 14/15 passati. PDF separatamente aperto."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-07T12:45:48.406Z"
+      "finishedAt": "2026-10-03T10:16:51.220Z"
     },
     {
       "key": "08:moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
@@ -4941,23 +4946,20 @@
       "target": "moduli/m-fl04-polizia-locale",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata rilievi audit integrale V02-39-51 e parti 17,20,38,53,54: polizia locale, procedure e casi.",
+        "reopen: Report14 precedente non sostituito per errore dello script: ripetere chiusura sulle evidenze correnti"
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-08T19:46:58.857Z",
+      "startedAt": "2026-10-03T09:55:33.086Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto V13-01: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-02/14-moduli-m-fl04-polizia-locale.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-08-08T19:47:49.217Z"
+      "finishedAt": "2026-10-03T09:55:48.119Z"
     },
     {
       "key": "15:moduli/m-fl04-polizia-locale",
@@ -4971,13 +4973,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-08T19:47:57.722Z",
+      "startedAt": "2026-10-03T09:56:07.542Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-08T19:58:17.592Z"
+      "finishedAt": "2026-10-03T09:57:10.890Z"
     },
     {
       "key": "16:moduli/m-fl04-polizia-locale",
@@ -4991,7 +4993,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-08T19:58:26.023Z",
+      "startedAt": "2026-10-03T09:57:12.974Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -5003,14 +5005,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Text freeze verificato manualmente: 15 capitoli presenti, 75 nuclei completi, step 11 e 13-15 chiusi, indice e Bibbia coerenti, audit senza esiti aperti, manifest SHA-256 in planning/10-text-freeze-manifest.md."
+            "message": "Chiusura manuale di info: Verifica manuale completata: 15 capitoli, nuclei presenti, 61 rinvii validi, 90 quiz; rilievi corretti e gate14/15 passati. Manifest SHA256 M-FL04-freeze.json e planning/10-text-freeze-manifest.md. PDF ancora da verificare."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-08T19:59:53.069Z"
+      "finishedAt": "2026-10-03T09:57:46.891Z"
     },
     {
       "key": "08:moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
@@ -5635,17 +5637,20 @@
       "target": "moduli/m-fl03-camere-commercio",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
+      "evidence": [
+        "reopen: Applicazione autorizzata audit integrale: V02-35-38 e parte V02-53, carenze su Registro imprese, servizi e ordinamento camerale.",
+        "reopen: Sostituzione autorizzata delle cinque figure testuali e correzione relazioni Unioncamere; nuovo freeze necessario"
+      ],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-09T08:55:42.289Z",
+      "startedAt": "2026-10-03T10:16:51.721Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-09T08:56:23.058Z"
+      "finishedAt": "2026-10-03T10:17:00.395Z"
     },
     {
       "key": "15:moduli/m-fl03-camere-commercio",
@@ -5659,13 +5664,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-09T08:56:28.964Z",
+      "startedAt": "2026-10-03T10:17:00.901Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-09T08:59:16.425Z"
+      "finishedAt": "2026-10-03T10:17:09.201Z"
     },
     {
       "key": "16:moduli/m-fl03-camere-commercio",
@@ -5679,7 +5684,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-09T08:59:22.525Z",
+      "startedAt": "2026-10-03T10:17:09.703Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -5691,14 +5696,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Text freeze verificato manualmente: 5 capitoli presenti, 25 nuclei completi, Humanizer 5/5, step 13-15 verdi, zero errori gravi/medi o pending, nessun Dato operativo, indice/matrice/Bibbia coerenti e manifest SHA-256 registrato."
+            "message": "Chiusura manuale di info: Gate freeze non implementato: verificati cinque schemi nativi, relazioni e fonte Unioncamere; manifest dei cinque capitoli aggiornato; 14/15 passati. PDF separatamente aperto."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-09T09:00:31.927Z"
+      "finishedAt": "2026-10-03T10:17:22.172Z"
     },
     {
       "key": "21:VOL-02",
@@ -5706,19 +5711,13 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "done",
+      "status": "in-progress",
       "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-09T09:00:59.525Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-09T09:09:23.506Z"
+      "startedAt": "2026-10-03T10:17:22.659Z"
     },
     {
       "key": "22:VOL-02",
@@ -5726,32 +5725,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-09T09:09:31.861Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-02"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Preflight verificato manualmente e documentato: copertura 235/235, 48 file e 431 test verdi, typecheck/build verdi, PDF 830 pagine 6,69 x 9,61, font incorporati, 10 immagini e 0 asset mancanti, audit finale 0 blocker, hash SHA-256 registrato; KDP Previewer non disponibile e dichiarato non eseguito."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-09T09:45:01.746Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-02",
@@ -5759,32 +5735,11 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-09T09:45:02.256Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-02"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Pacchetto verificato manualmente: 9 file selettivi, manifest 8/8 hash corrispondenti, PDF e report inclusi, cache memoria log e tavole diagnostiche esclusi, diff staged controllato e step 24 lasciato come unica conferma umana."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-09T09:51:40.494Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": [
+        "reopen: Nuova revisione integrale e impaginazione: conferma storica invalidata; consegna e approvazione solo sul nuovo pacchetto verificato."
+      ]
     },
     {
       "key": "24:VOL-02",
@@ -5792,32 +5747,15 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-02",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-09T10:52:02.438Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"human-signoff\" dello step 24 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-02"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Confermato dall'utente il 9 agosto 2026 con risposta 'procedi' alla richiesta esplicita di scegliere tra confermato e respinto. VOL-02 è valido e autorizzato alla pubblicazione controllata; nessun upload o pubblicazione esterna eseguiti."
-          }
-        ],
-        "notImplemented": [
-          "human-signoff"
-        ]
-      },
-      "finishedAt": "2026-08-09T10:57:12.395Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": [
+        "reopen: Nuova revisione integrale e impaginazione: conferma storica invalidata; consegna e approvazione solo sul nuovo pacchetto verificato.",
+        "reopen: Applicazione autorizzata rilievi audit integrale V02-39-51 e parti 17,20,38,53,54: polizia locale, procedure e casi.",
+        "reopen: Report14 precedente non sostituito per errore dello script: ripetere chiusura sulle evidenze correnti",
+        "reopen: Sostituzione autorizzata delle cinque figure testuali illeggibili con schemi nativi; riesame e nuovo freeze necessari",
+        "reopen: Sostituzione autorizzata delle cinque figure testuali e correzione relazioni Unioncamere; nuovo freeze necessario"
+      ]
     }
   ]
 }

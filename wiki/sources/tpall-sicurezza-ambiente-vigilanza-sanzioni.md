@@ -9,7 +9,7 @@ entities: ["Azienda sanitaria", "ARPA", "Organo di vigilanza"]
 source_refs: ["sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale", "sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti"]
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.9
-updated_at: 2026-07-29T16:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-28T21:00:00+02:00
 review_required: true
 canonical: true
@@ -77,3 +77,16 @@ Il regolamento (UE) 2017/625 e una linea guida ISPRA sulle attività di campiona
 ## Stato revisione
 
 Consolidata come base normativa generale del verticale TPALL, ora comprensiva di controlli ufficiali nazionali, AUA, polizia giudiziaria e disciplina alimentare. L'AIA regionale e sei famiglie di controllo tecnico sono documentate nel corpus collegato; lo stato resta `parziale` per metodi di dettaglio, modulistica territoriale, catena di custodia e review professionale.
+
+## Riscontri puntuali per le correzioni del 3 ottobre 2026
+
+Gli HTML Normattiva del lotto iniziale contengono l'indice e il primo articolo: non sono prova di lettura dell'atto intero. Per i nuclei aggiunti sono stati consultati gli articoli e i riscontri ufficiali seguenti.
+
+- L. 689/1981, artt. 14, 16–18: contestazione immediata ove possibile; notifica ordinaria entro 90 giorni ai residenti in Italia e 360 all'estero dall'accertamento; pagamento ridotto entro 60 giorni; scritti e richiesta di audizione entro 30 giorni; rapporto e ordinanza motivata o archiviazione. [Testo ufficiale riprodotto dalla CCIAA Marche](https://www.marche.camcom.it/tutela-impresa-e-consumatore/sanzioni-amministrative/legge-24-novembre-1981-n-689.pdf), versione 2020, confrontata con l'indice temporale Normattiva acquisito: gli artt. 14, 17 e 18 risultano originari. Per l'art. 16 resta il criterio nazionale generale, fatte salve deroghe settoriali.
+- D.Lgs. 758/1994, artt. 20–24, riprodotti nelle note al [D.Lgs. 81/2008 in GU](https://www.gazzettaufficiale.it/eli/gu/2008/04/30/101/so/108/sg/pdf): verifica entro 60 giorni dalla scadenza della prescrizione, pagamento entro 30 giorni di un quarto del massimo dell'ammenda dopo adempimento; comunicazioni al PM e condizioni per l'estinzione. L'indice Normattiva acquisito non indica modifiche degli artt. 20–24.
+- D.Lgs. 152/2006, parte VI-bis: [Arpae, quadro aggiornato settembre 2026](https://www.arpae.it/it/attivita-e-servizi/vigilanza-e-controllo/asseverazioni/prescizioni-e-asseverazioni) conferma ambito contravvenzionale e assenza di danno o pericolo concreto e attuale, asseverazione tecnica e adempimento. [Pagamento e oneri](https://www.arpae.it/it/attivita-e-servizi/vigilanza-e-controllo/asseverazioni/asseverazioni-pagamenti-sanzioni-importi-dm-2025): 30 giorni e quarto del massimo, oltre agli oneri di prescrizione/asseverazione del D.M. 8 ottobre 2025, pubblicato nella [GU del 16 febbraio 2026](https://www.gazzettaufficiale.it/eli/gu/2026/02/16/38/sg/pdf). Non estendere ai delitti o a tutte le violazioni sui rifiuti.
+- D.Lgs. 27/2021, artt. 7–8: [atto in GU](https://www.gazzettaufficiale.it/eli/id/2021/03/11/21G00034/sg), coordinato con [L. 71/2021, allegato, art. 1-bis](https://www.gazzettaufficiale.it/eli/id/2021/05/22/21G00081/sg): soppressa l'esclusione dell'art. 223 D.Lgs. 271/1989. Controperizia documentale richiesta entro 15 giorni, controversia documentale entro 30 dalla comunicazione dell'esito sfavorevole; ulteriore fase analitica distinta. Le garanzie processuali non sono cancellate dalle due procedure.
+- D.Lgs. 81/2008, artt. 17, 28–29: [Ministero del lavoro, obblighi del datore](https://www.lavoro.gov.it/sportello-unico-digitale/salute-e-sicurezza-sul-luogo-di-lavoro/obblighi-del-datore-di-lavoro), valutazione/DVR e nomina RSPP non delegabili. Collaborazione con RSPP e medico competente nei casi previsti, previa consultazione RLS.
+- D.P.R. 59/2013: [testo ufficiale Ministero del lavoro](https://www.lavoro.gov.it/documenti-e-norme/normative/Documents/2013/Decreto_del_Presidente_della_Repubblica_13_marzo_2013_n59), AUA e rapporto con AIA. Regolamenti CE 178/2002, artt. 18–19, e 852/2004, art. 5: rintracciabilità, ritiro/richiamo, procedure basate sui principi HACCP, da leggere nel corpus sui controlli ufficiali collegato.
+
+Gli esempi compilati sono originali e dichiaratamente didattici. Non attestano un'ispezione reale né una sanzione accertata.

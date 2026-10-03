@@ -9,7 +9,7 @@ entities: ["Ministero dell'Istruzione e del Merito"]
 source_refs: ["sources/bandi-rappresentativi-m-ir01-scuola-2023-2025", "sources/fonti-ufficiali-m-ir01-scuola-2026-07-24"]
 book_refs: ["m-ir01-scuola", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.9
-updated_at: 2026-07-29
+updated_at: 2026-10-03
 created_at: 2026-07-29
 review_required: true
 canonical: true
@@ -45,3 +45,13 @@ Il capitolo 11 puo' usare questa fonte per spiegare la funzione concorsuale del 
 - [[topics/m-ir01-scuola-fonti-e-profili]]
 - [[entities/ministero-istruzione-merito]]
 - [[books/moduli/m-ir01-scuola/planning/03-piano-capitolo-11-pedagogia-psicologia-inclusione]]
+
+## Integrazione disciplinare e progettuale del 3 ottobre 2026
+
+La precedente sintesi del programma non copriva le teorie promesse. Il capitolo 11 viene integrato con un nucleo selezionato: comportamentismo/rinforzo; cognitivismo, attenzione e memoria; costruzione attiva, Piaget e adattamento; mediazione sociale e zona di sviluppo prossimale; scaffolding; autoefficacia e metacognizione. Sono modelli interpretativi, non etichette diagnostiche o età rigide da applicare a una classe.
+
+Riscontri istituzionali e bibliografici selettivi: INDIRE, ricostruzione del rapporto tra teorie dell'apprendimento e tecnologie (https://www.indire.it/content/index.php?action=read&id=1175&navig=t); materiali universitari di Paola Nicolini su Piaget, p. 5 per assimilazione/accomodamento (https://docenti.unimc.it/paola.nicolini/teaching/2024/31101/files/Piaget.pdf); esperienza documentata INDIRE «Parole in gioco», per mediazione nella zona prossimale (https://repository.indire.it/repository_cms/working/export/6659/progettazione-intervento-didattico.html); Wood, Bruner e Ross, *The role of tutoring in problem solving*, 1976, 17:89–100, DOI 10.1111/j.1469-7610.1976.tb00381.x (record editore verificato, non dichiarata lettura integrale); Stanford, sintesi della ricerca di Bandura del 1977 sull'autoefficacia (https://longevity.stanford.edu/self-efficacy-toward-a-unifying-theory-of-behavior-change/).
+
+Consolidamento: assimilazione usa uno schema disponibile, accomodamento lo modifica; la zona prossimale distingue prestazione autonoma e assistita; scaffolding è sostegno graduato da ridurre; autoefficacia è convinzione di riuscire in un compito, distinta dalla competenza effettiva. Rinforzo aumenta la probabilità di una risposta; il segno positivo/negativo riguarda aggiunta/rimozione, non valore morale. Le applicazioni e i casi sono elaborazione didattica originale e non risultati sperimentali attribuiti agli autori.
+
+Per la prova docente valgono i D.M. 205/206 e la procedura specifica, non la trasposizione del DPR 487. Il capitolo 13 offre una lezione originale completa su frazioni equivalenti con contesto e durata assunti, materiali cartacei, verifica e rubrica. Non pretende di sostituire il programma disciplinare di ogni classe di concorso.

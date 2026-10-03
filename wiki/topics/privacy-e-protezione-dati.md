@@ -35,3 +35,8 @@ Privacy e protezione dei dati personali sono materie ad alta frequenza nei conco
 ## Uso nel libro
 
 Nel Capitolo 7 il tema va trattato come materia autonoma, non come appendice della trasparenza. Occorre pero collegarlo agli accessi amministrativi e alla sezione "Amministrazione trasparente", perche molte domande da quiz chiedono proprio di distinguere pubblicazione lecita, oscuramento, diniego, differimento e tutela dei controinteressati.
+
+
+## Accesso e privacy — correzioni del 3 ottobre 2026
+
+[[sources/vol-01-accesso-privacy-correzioni-2026-10-03]] consolida termini FOIA e diritti GDPR, limiti tipizzati, canali whistleblowing, data breach e DPIA. Applicazione nei capitoli 7 e 10 del base, con casi risolti e distinzione tra accesso e pubblicazione sanitaria.

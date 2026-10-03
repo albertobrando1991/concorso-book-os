@@ -205,3 +205,6 @@ Link:
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni]]
 - [[books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco]]
+## Rettifica didattica del 3 ottobre 2026
+
+Lettura diretta del raw AKN già acquisito (artt. 45, 49, 51, 54, 66, 109). Consolidati ora i criteri di imputazione e determinazione per rendere autosufficiente FC02/06: capitale per percezione senza deduzione, salve regole speciali; dipendente per cassa allargata al 12 gennaio; pensioni direttamente art. 49, non assimilati art. 50; autonomo per percezione/spese sostenute con deroghe del capo V, incluso raccordo temporale con la ritenuta del sostituto; impresa ordinaria per competenza salvo deroghe e regime minori art. 66 improntato alla cassa. [Art. 51 attuale nel sistema MEF](https://def.giustiziatributaria.gov.it/DocTribFrontend/executePrintArticolo.do?codiceOrdinamento=0000000000000510000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7BBDF502CF-444F-4D74-8EDE-8461B0DA4023%7D&idAttoNormativo=%7B31D694E8-4398-4030-873B-FEAF5A6647F9%7D). Nessuna nuova aliquota o soglia reddituale è desunta da esempi inventati.

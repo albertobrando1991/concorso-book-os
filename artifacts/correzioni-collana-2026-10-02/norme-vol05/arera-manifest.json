@@ -1,0 +1,26 @@
+[
+  {
+    "id": "arera-mtr3.pdf",
+    "url": "https://www.arera.it/fileadmin/allegati/docs/25/397-2025-R-rif.pdf",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\arera-mtr3.pdf",
+    "sha256": "a3a34ebfe5b3485babfd2161706bd3f2943a787369121e62dae04dd55a0ca8ba",
+    "characters": 139485,
+    "readComplete": false
+  },
+  {
+    "id": "arera-conciliazione.html",
+    "url": "https://www.arera.it/consumatori/conciliazione/servizio-conciliazione-domande-e-risposte",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\arera-conciliazione.html",
+    "sha256": "84fc7d0dbd20fc721c6bf73f3579feabf9150668c69fe9f804a0bedc87d2f729",
+    "characters": 21809,
+    "readComplete": false
+  },
+  {
+    "id": "arera-telecalore.html",
+    "url": "https://www.arera.it/area-operatori/teleriscaldamento/teleriscaldamento-e-teleraffrescamento",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\arera-telecalore.html",
+    "sha256": "cd0270c0233937041768eaa3a0c9ac4908026cb46ca1cbef15c317666ac9a604",
+    "characters": 5630,
+    "readComplete": false
+  }
+]

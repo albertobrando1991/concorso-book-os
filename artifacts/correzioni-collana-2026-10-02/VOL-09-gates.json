@@ -1,0 +1,156 @@
+[
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/01-quattro-profili-ciclo-integrato.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/02-governance-rup-fasi-team-qualificazione.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/03-strategia-fabbisogni-programmazione.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/04-progettazione-gara-documenti.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/05-sotto-soglia-procurement-operativo.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/07-consip-mepa-aq-sdapa-asp.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/08-governo-esecuzione.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/09-rimedi-precontenzioso-contenzioso.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/10-pnrr-milestone-target-regis.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/11-gestione-finanziaria-rendicontazione-controlli.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/12-dnsh-cam-procurement-sostenibile.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/13-project-management-pubblico.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "ok": true,
+    "command": "gate",
+    "step": "10:moduli/m-tr02-appalti-pnrr-fondi-ue/chapters/14-laboratorio-atti-casi-simulazioni.md",
+    "gate": "didactic-density",
+    "result": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  }
+]

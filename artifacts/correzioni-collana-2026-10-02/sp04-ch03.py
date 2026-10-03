@@ -1,0 +1,33 @@
+from pathlib import Path
+import shutil
+p=next(Path('wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters').glob('03-*.md'));a=Path('wiki/reviews/correzioni-collana-2026-10-02/archive/pre-correzioni-sp04-03.md');assert not a.exists();shutil.copyfile(p,a);t=p.read_text(encoding='utf8')
+s=t.index('La tornata esaminata richiede cittadinanza');e=t.index('\n\nIl limite ordinario',s)
+t=t[:s]+'''Il bando MAECI 2026 richiede cittadinanza italiana, idoneità psico-fisica, godimento dei diritti politici, qualità morali e una laurea magistrale o equiparata. Non limita l’accesso a un elenco di classi giuridiche, economiche o politologiche: una laurea magistrale di altra classe non è esclusa per il solo ambito disciplinare. Questo distingue il bando 2026 dalla prefettizia e da precedenti discipline che non vanno trasposte automaticamente. Laurea triennale e master, da soli, non diventano una laurea magistrale.
+
+Per i titoli esteri il bando distingue il riconoscimento accademico rilasciato da un ateneo italiano e l’equivalenza prevista dall’articolo 38 del d.lgs. 165/2001. L’equivalenza concorsuale deve riferirsi a questa procedura: un provvedimento ottenuto per un altro concorso non si trasferisce automaticamente. La disciplina ammette con riserva il candidato nel percorso di equivalenza e impone ai vincitori di presentare l’istanza nei quindici giorni dalla pubblicazione della graduatoria finale, secondo le modalità richiamate. Registra quindi quale delle due vie utilizzi e quali atti e termini le appartengono; non trattare riconoscimento accademico ed equivalenza concorsuale come sinonimi.
+
+I requisiti devono essere posseduti alla scadenza e all’assunzione, salvo il requisito anagrafico secondo l’articolo 2, comma 2. La scadenza effettiva del 2026 era il **27 aprile alle ore 12**: i quaranta giorni dalla pubblicazione in Gazzetta del 17 marzo cadevano domenica 26 aprile e operava il rinvio al primo giorno successivo non festivo. La pagina ufficiale MAECI conferma il 27 aprile. In una nuova tornata controlla bando, calendario e avvisi, senza ricopiare questa data storica.'''+t[e:]
+t=t.replace('Il limite ordinario è trentacinque anni.','Il limite ordinario è trentacinque anni, superato alla mezzanotte del giorno del trentacinquesimo compleanno.')
+t=t.replace('politica economica e cooperazione economica, commerciale e finanziaria multilaterale','economia politica, politica economica, economia internazionale e finanziaria e commercio internazionale')
+t=t.replace('economia e cooperazione multilaterale','economia politica, politica economica, economia internazionale e finanziaria, commercio internazionale')
+t=t.replace('quattro tentativi scritti completati possano chiudere l\'accesso','quattro serie di scritti completate e non superate possano precludere una candidatura successiva')
+t=t.replace('poi estrae a caso','poi estrai a caso')
+anchor='La preparazione delle integrazioni usa una matrice a rotazione.'
+t=t.replace(anchor,'''**La materia orale facoltativa del 2026.** L’articolo 11 consente di scegliere nella domanda una materia tra cinque ambiti: sicurezza cibernetica, intelligenza artificiale e nuove tecnologie; cultura italiana dall’Ottocento alla contemporaneità e promozione culturale; cooperazione allo sviluppo; sport e gestione di grandi eventi; comunicazione istituzionale, psicologia e social media, secondo le denominazioni complete del bando. È una prova distinta dalle lingue facoltative. Attribuisce fino a 2 punti, con 1,2 alla sufficienza, da aggiungere al voto orale soltanto se quest’ultimo è superato. La scelta deve comparire nella domanda: non si aggiunge una materia liberamente dopo l’ammissione all’orale. Per decidere, confronta programma, campione di risposta già sostenuto e ore sottratte alle prove obbligatorie; la familiarità con un tema di attualità non equivale al possesso dell’intero ambito scelto.
+
+'''+anchor)
+anchor='## Errori tipici da evitare'
+t=t.replace(anchor,'''## Punteggio finale: media, orale e incrementi
+
+La graduatoria dell’articolo 13 somma la media dei cinque scritti al voto dell’orale, con gli incrementi delle prove facoltative e dei titoli valutabili. Non calcola la media di sei voti, non raddoppia l’inglese e non riporta il punteggio attitudinale. I titoli dell’articolo 8 valgono complessivamente fino a 6 punti: massimo 3 per formazione e massimo 3 per esperienze professionali internazionali pertinenti, alle condizioni del bando. Nel gruppo formativo, dottorato 2, specializzazione 1,2, abilitazione professionale 1,2, master di secondo livello 1 e di primo livello 0,5 restano soggetti a pertinenza, requisiti e tetto del gruppo: sommare tutti i valori senza applicare il limite è errato.
+
+Le lingue facoltative dell’articolo 12 escludono inglese e seconda lingua obbligatoria. Tedesco, russo, turco, arabo, hindi, cinese e giapponese possono attribuire fino a 4 punti ciascuna, con 2 alla sufficienza; le altre lingue fino a 2, con 1 alla sufficienza. Il totale linguistico incontra un limite complessivo: 7 punti senza lingue superate del primo gruppo; 8 con una; 9 con due; 10 con tre; 11 con almeno quattro. Si considerano prove superate, non semplici lingue dichiarate. Il tedesco scelto come seconda lingua obbligatoria non può produrre anche il bonus facoltativo. Gli incrementi si aggiungono soltanto dopo il superamento dell’orale.
+
+**Esempio completo.** Scritti: storia 72, diritto 68, economia 70, inglese 75, francese 65. Somma 350 e media 70: tutti i minimi sono rispettati, compreso inglese almeno 70. Orale 74: base 144. La candidata ottiene 1,2 nella materia facoltativa scelta, 2 in una lingua facoltativa del primo gruppo e 2 per un dottorato pertinente dichiarato e valutabile. Totale: 144 + 1,2 + 2 + 2 = **149,2**. Il bonus linguistico è sotto il tetto di 8 per una lingua del primo gruppo. Riserva e preferenze a parità intervengono secondo le rispettive regole, senza diventare punti ulteriori.
+
+**Controllo inverso.** Se inglese fosse 65, la media scenderebbe a 68 e soprattutto mancherebbe il minimo specifico di 70: nessun titolo o bonus orale potrebbe sanare lo scritto. Se due titoli formativi dessero 3,2 punti nominali, il gruppo formativo si fermerebbe a 3. Se più lingue producessero un totale superiore al tetto applicabile, si applicherebbe il tetto prima della somma finale.
+
+'''+anchor)
+t=t.replace('Rilevano quattro prove scritte portate a termine senza successo','Rilevano quattro serie di prove scritte portate a termine senza superarle')
+t=t.replace('limita a quattro le prove scritte completate senza successo','preclude l’accesso dopo quattro serie di prove scritte completate e non superate')
+p.write_text(t,encoding='utf8')

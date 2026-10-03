@@ -9,7 +9,7 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["m-sp02-vigili-fuoco","il-metodo-bando"]
 confidence: 0.55
-updated_at: 2026-08-13T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: true
 canonical: true
@@ -35,7 +35,7 @@ Candidato che ha letto o sta usando Il Metodo BANDO e deve adattare metodo, mate
 
 Struttura rivista dopo l'audit degli step 05-06 ([[reviews/pipeline/VOL-12/05-06-audit-bandi-e-fonti-m-sp02]]). L'audit ha confermato il doppio binario ma ha smentito l'impostazione delle materie.
 
-**Nel binario operativo non esiste una prova scritta di materie come prova d'esame.** Nel bando D.D. 2488 del 2 luglio 2026 per 400 posti, lo scritto è solo **preselettivo** — storia d'Italia dal 1861 a oggi, elementi di chimica e fisica, quesiti logico-deduttivi e analitici — e serve ad ammettere alle prove d'esame un numero di candidati pari a dieci volte i posti. Le prove d'esame sono **tre prove motorio-attitudinali** da 30 punti ciascuna, seguite dalla valutazione dei titoli per 5 punti.
+**Nel binario operativo non esiste una prova scritta di materie come prova d'esame.** Nel bando D.D. 2488 del 2 luglio 2026 per 400 posti, lo scritto è solo **preselettivo** — storia d'Italia dal 1861 a oggi, elementi di chimica e fisica, quesiti logico-deduttivi e analitici, uso delle applicazioni informatiche e lingua inglese — e serve ad ammettere alle prove d'esame un numero di candidati pari a dieci volte i posti. Le prove d'esame sono **tre prove motorio-attitudinali** da 30 punti ciascuna, seguite dalla valutazione dei titoli per 5 punti.
 
 Il binario direttivo-tecnico ha struttura opposta: prova scritta e prova orale di materie, titoli valutati solo a parità di punteggio, accertamenti psico-fisici a valle.
 
@@ -43,7 +43,7 @@ Il binario direttivo-tecnico ha struttura opposta: prova scritta e prova orale d
 
 ### Il dato che cambia la decisione del lettore
 
-Il bando 400 riserva **il 95% dei posti**: 45% ai volontari in ferma prefissata delle Forze armate, 35% al personale volontario del Corpo nazionale, 15% agli operatori del servizio civile universale. Al candidato civile privo di questi titoli resta il 5%, più i posti riservati non coperti.
+Il bando 400 riserva **il 95% dei posti**: 45% ai volontari in ferma prefissata delle Forze armate, 35% al personale volontario del Corpo nazionale, 15% agli operatori del servizio civile universale. Il 5% è il residuo nominale non riservato; non è garantito esclusivamente ai candidati privi di riserve. Merito e devoluzione vanno considerati insieme.
 
 Va detto in apertura di modulo, non relegato in una tabella tecnica. Nessun altro concorso del volume ha una concentrazione di riserve paragonabile, e la via del volontariato nel Corpo — con limite di età elevato a 37 anni per gli iscritti da almeno un anno — è per una parte del pubblico la strada realistica, non un'alternativa marginale.
 
@@ -98,9 +98,9 @@ Conteggi dopo il retrofit: capitolo 02 a **5.889 parole**, capitolo 04 a **5.865
 
 Il capitolo 3, *La preselezione: un cancello, non un esame*, è il primo del modulo scritto direttamente dentro il formato 2. **5.278 parole**, cinque nuclei tutti sopra soglia, entrambi i gate superati al secondo passaggio — e il secondo passaggio è servito solo ad allungare tre nuclei, non a rifare la struttura. È la conferma pratica della lezione precedente: scrivere nel formato costa meno che adattarsi al formato.
 
-Anche qui i nuclei di copertura si sono divisi sotto la scrittura: **da due a cinque**. Le quattro tipologie di quesiti dell'art. 7 non sono quattro argomenti di una stessa materia, sono quattro programmi con metodi di studio diversi, e due di essi — storia d'Italia dal 1861 ed elementi di chimica e fisica — non sono coperti da nessun altro materiale concorsuale.
+Anche qui i nuclei di copertura si sono divisi sotto la scrittura: **da due a cinque**. Le quattro tipologie di quesiti dell'art. 7 non sono quattro argomenti di una stessa materia, sono quattro programmi con metodi di studio diversi, e storia e scienze richiedono materiali pertinenti e verifica delle lacune personali.
 
-Il capitolo ha anche prodotto il **delta più insidioso del modulo**: il volume base tratta l'informatica come amministrazione digitale, mentre qui il bando chiede l'uso pratico delle apparecchiature e delle applicazioni più diffuse. Stesso nome, programma diverso — ed è un errore che il possesso del VOL-01 rende più probabile, non meno.
+Il capitolo ha anche prodotto il **delta più insidioso del modulo**: il volume base comprende informatica giuridica e d’uso: i rinvii aggiornati del capitolo 6 selezionano le sezioni pertinenti al bando. Stesso nome, programma diverso — ed è un errore che il possesso del VOL-01 rende più probabile, non meno.
 
 **Regola confermata:** prima si esaurisce la fonte, poi si guarda il conteggio. Se dopo aver esaurito la fonte il capitolo resta sotto soglia, o la soglia era sbagliata per quel capitolo, o il capitolo non doveva esistere da solo. Riempire è vietato dal criterio di taglio della Bibbia del Volume.
 
@@ -123,5 +123,6 @@ Nessun dato di bando va scritto come stabile: percentuali delle riserve, limiti 
 - Topic pages già presenti nel wiki.
 - Source notes nuove se il modulo richiede aggiornamento o specialismo.
 
-## Testo editoriale
-Da sviluppare con Manual Writer Agent dopo consolidamento delle fonti specifiche.
+## Stato corrente
+
+Otto capitoli effettivi, quaranta nuclei rinumerati per capitolo, 48 quiz commentati. Correzioni e audit specialistico del 3 ottobre conclusi. I conteggi e le note di accorpamento precedenti descrivono la storia editoriale; il manifest M-SP02-freeze.json identifica il testo corrente. Nuovo PDF ancora da verificare.

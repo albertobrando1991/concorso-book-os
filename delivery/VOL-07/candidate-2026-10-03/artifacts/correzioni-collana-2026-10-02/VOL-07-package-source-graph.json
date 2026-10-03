@@ -1,0 +1,3087 @@
+{
+  "volume": "VOL-07",
+  "scope": "Dipendenze sources dichiarate nel frontmatter o in wikilink dei capitoli/matrici, e dipendenze delle source note raggiunte. URL esterni esclusi.",
+  "edges": [
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/qualita-biosicurezza-laboratorio-tslb.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "to": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/epidemiologia-base-iss.md",
+      "to": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/epidemiologia-base-iss.md",
+      "to": "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md",
+      "to": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "to": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "to": "wiki/sources/sorveglianza-passi-protocollo-operativo-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "to": "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/sorveglianza-passi-protocollo-operativo-iss.md",
+      "to": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/sorveglianza-passi-protocollo-operativo-iss.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "to": "wiki/sources/procedure-affidamento-gare-appalti-concessioni-soglie.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "to": "wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "to": "wiki/sources/flusso-sdo-scheda-dimissione-ospedaliera.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "to": "wiki/sources/flussi-economici-nsis-modelli-ce-sp.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "to": "wiki/sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "to": "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026.md",
+      "to": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "to": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/flussi-economici-nsis-modelli-ce-sp.md",
+      "to": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "to": "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "to": "wiki/sources/tesoreria-unica-siope-siope-plus.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tesoreria-unica-siope-siope-plus.md",
+      "to": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tesoreria-unica-siope-siope-plus.md",
+      "to": "wiki/sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/legge-31-dicembre-2009-n-196-contabilita-finanza-pubblica.md",
+      "to": "wiki/sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md",
+      "to": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md",
+      "to": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md",
+      "to": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md",
+      "to": "wiki/sources/tesoreria-unica-siope-siope-plus.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "to": "wiki/sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "to": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "to": "wiki/sources/legge-7-gennaio-2026-n-1-corte-dei-conti-e-responsabilita-erariale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "to": "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/legge-7-gennaio-2026-n-1-corte-dei-conti-e-responsabilita-erariale.md",
+      "to": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "to": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "to": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "to": "wiki/sources/codice-civile-beni-pubblici-demanio-patrimonio.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "to": "wiki/sources/ordinamento-finanziario-enti-locali-tuel-dup-peg-rendiconto-revisione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "to": "wiki/sources/tesoreria-unica-siope-siope-plus.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/codice-civile-beni-pubblici-demanio-patrimonio.md",
+      "to": "wiki/sources/entrate-tributi-locali-patrimonio-riscossione-comunale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile.md",
+      "to": "wiki/sources/corte-conti-controlli-responsabilita-agenti-contabili.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/procedure-affidamento-gare-appalti-concessioni-soglie.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020.md",
+      "to": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020.md",
+      "to": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/qualita-biosicurezza-laboratorio-tslb.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/qualita-biosicurezza-laboratorio-tslb.md",
+      "to": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/qualita-biosicurezza-laboratorio-tslb.md",
+      "to": "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "to": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "to": "wiki/sources/dispositivi-medici-ivd-vigilanza-rischio-tecnologico-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "to": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "to": "wiki/sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "to": "wiki/sources/d-lgs-9-aprile-2008-n-81-salute-sicurezza-lavoro.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "to": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "to": "wiki/sources/qualita-biosicurezza-laboratorio-tslb.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa04-tslb-tsrm-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+      "to": "wiki/sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+      "to": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md",
+      "to": "wiki/sources/profili-professionali-tslb-tsrm-dm-745-746.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/deontologia-biologo-farmacista-psicologo-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/dirigenza-sanitaria-concorsi-ccnl-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "to": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/checklist-operative-concorsi-metodo-bando.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "to": "wiki/sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "to": "wiki/sources/d-p-r-9-maggio-1994-n-487-accesso-agli-impieghi-pubblici-e-concorsi.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitoli-21-23-corpus-moduli-piano-diario-2026-06-01.md",
+      "to": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "to": "wiki/sources/metodo-bando-progetto-editoriale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-19-20-corpus-profili-concorsuali-2026-05-30.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/scienze-apprendimento-pianificazione-metacognizione-errori.md",
+      "to": "wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/dirigenza-sanitaria-concorsi-ccnl-2026.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "to": "wiki/sources/integrazione-sociosanitaria-accreditamento-quadro-nazionale-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "to": "wiki/sources/lea-aggiornamenti-pubblicati-settembre-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/lea-aggiornamenti-pubblicati-settembre-2026.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/integrazione-sociosanitaria-accreditamento-quadro-nazionale-2026.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/deontologia-biologo-farmacista-psicologo-2026.md",
+      "to": "wiki/sources/dirigenza-sanitaria-concorsi-ccnl-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "to": "wiki/sources/qualita-biosicurezza-laboratorio-tslb.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "to": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "to": "wiki/sources/deontologia-biologo-farmacista-psicologo-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "to": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "to": "wiki/sources/dirigenza-sanitaria-concorsi-ccnl-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+      "to": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+      "to": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+      "to": "wiki/sources/sorveglianza-passi-protocollo-operativo-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/05-epidemiologia-sanita-pubblica-dirigenza.md",
+      "to": "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "to": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "to": "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md",
+      "to": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md",
+      "to": "wiki/sources/territorio-cot-continuita-pdta-persona-fragile-toscana.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/territorio-cot-continuita-pdta-persona-fragile-toscana.md",
+      "to": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/territorio-cot-continuita-pdta-persona-fragile-toscana.md",
+      "to": "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "to": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "to": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "to": "wiki/sources/emorragia-post-partum-allattamento-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "to": "wiki/sources/arresto-cardiaco-bls-iss-snlg-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/arresto-cardiaco-bls-iss-snlg-2026.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emorragia-post-partum-allattamento-iss-ministero.md",
+      "to": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emorragia-post-partum-allattamento-iss-ministero.md",
+      "to": "wiki/sources/sicurezza-travaglio-parto-morte-materna-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "to": "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md",
+      "to": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+      "to": "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa03-dirigenza-medica-sanitaria-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "to": "wiki/sources/dirigenza-sanitaria-concorsi-ccnl-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+      "to": "wiki/sources/template-bando-decoder-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/attuazione-regionale-oss-lombardia-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/territorio-cot-continuita-pdta-persona-fragile-toscana.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/als-adulto-erc-irc-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/sicurezza-travaglio-parto-morte-materna-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/campionamento-passivo-gas-suolo-ispra-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/emorragia-post-partum-allattamento-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/sorveglianza-passi-protocollo-operativo-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/arresto-cardiaco-bls-iss-snlg-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/profilo-oss-accordo-stato-regioni-22-febbraio-2001.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/profilo-oss-accordo-stato-regioni-22-febbraio-2001.md",
+      "to": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/profilo-oss-accordo-stato-regioni-22-febbraio-2001.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/profilo-oss-accordo-stato-regioni-22-febbraio-2001.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "to": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "to": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "to": "wiki/sources/profilo-oss-accordo-stato-regioni-22-febbraio-2001.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "to": "wiki/sources/profilo-oss-accordo-stato-regioni-22-febbraio-2001.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md",
+      "to": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md",
+      "to": "wiki/sources/arresto-cardiaco-bls-iss-snlg-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md",
+      "to": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md",
+      "to": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "to": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "to": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "to": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "to": "wiki/sources/campionamento-passivo-gas-suolo-ispra-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "to": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "to": "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/campionamento-passivo-gas-suolo-ispra-2024.md",
+      "to": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "to": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "to": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md",
+      "to": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md",
+      "to": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "to": "wiki/sources/attuazione-regionale-oss-lombardia-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/attuazione-regionale-oss-lombardia-2025.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "to": "wiki/sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "to": "wiki/sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "to": "wiki/sources/attuazione-regionale-oss-lombardia-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "to": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md",
+      "to": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md",
+      "to": "wiki/sources/sicurezza-travaglio-parto-morte-materna-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md",
+      "to": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md",
+      "to": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "to": "wiki/sources/emorragia-post-partum-allattamento-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "to": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "to": "wiki/sources/sicurezza-travaglio-parto-morte-materna-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "to": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "to": "wiki/sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "to": "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/als-adulto-erc-irc-2025.md",
+      "to": "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/als-adulto-erc-irc-2025.md",
+      "to": "wiki/sources/arresto-cardiaco-bls-iss-snlg-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "to": "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "to": "wiki/sources/tpall-controlli-ufficiali-e-sicurezza-campionamento-ambientale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "to": "wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "to": "wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+      "to": "wiki/sources/campionamento-passivo-gas-suolo-ispra-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "to": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "to": "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "to": "wiki/sources/sorveglianza-passi-protocollo-operativo-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "to": "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+      "to": "wiki/sources/epidemiologia-base-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+      "to": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/07-evidenze-pico-grade-applicabilita.md",
+      "to": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/iss-snlg-gravidanza-fisiologica-2023-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/territorio-cot-continuita-pdta-persona-fragile-toscana.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/emorragia-post-partum-allattamento-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/puerperio-neonato-supporto-vitale-oms-irc-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/sicurezza-travaglio-parto-morte-materna-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/arresto-cardiaco-bls-iss-snlg-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/emergenze-ostetriche-distocia-spalla-prolasso-funicolo-protocolli-italiani.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/emergenze-ostetriche-eclampsia-sepsi-tromboembolia-itoss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/metodo-evidenze-sistema-nazionale-linee-guida-iss.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/als-adulto-erc-irc-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "to": "wiki/sources/riabilitazione-fisioterapia-iss-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/assistenza-generale-oss-pasto-mobilizzazione-eliminazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/lesioni-da-pressione-linea-guida-snlg-protocolli-regionali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/ausili-trasferimento-oss-manuali-dispositivo-veneto-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/attuazione-regionale-oss-lombardia-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/attuazione-regionale-oss-lombardia-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/codici-deontologici-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/attuazione-regionale-oss-emilia-romagna-veneto-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "to": "wiki/sources/dpr-220-2001-concorsi-personale-non-dirigenziale-ssn.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "to": "wiki/sources/profili-professionali-infermiere-ostetrica-fisioterapista-tpall.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "to": "wiki/sources/ordinamento-professioni-sanitarie-leggi-42-251-43-3.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "to": "wiki/sources/profilo-oss-dpcm-25-marzo-2025.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "to": "wiki/sources/bandi-rappresentativi-oss-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/procedure-affidamento-gare-appalti-concessioni-soglie.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/integrazione-sociosanitaria-accreditamento-quadro-nazionale-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/legge-7-giugno-2000-n-150-comunicazione-pubblica-urp.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/ccnl-comparto-sanita-2022-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/contabilita-budget-aziende-sanitarie.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/lea-aggiornamenti-pubblicati-settembre-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/planning/02-matrice-copertura-didattica.md",
+      "to": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/contabilita-budget-aziende-sanitarie.md",
+      "to": "wiki/sources/contabilita-economico-patrimoniale-universita-enti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/contabilita-budget-aziende-sanitarie.md",
+      "to": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/contabilita-budget-aziende-sanitarie.md",
+      "to": "wiki/sources/integrazione-sociosanitaria-accreditamento-quadro-nazionale-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/contabilita-budget-aziende-sanitarie.md",
+      "to": "wiki/sources/flussi-economici-nsis-modelli-ce-sp.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ccnl-comparto-sanita-2022-2024.md",
+      "to": "wiki/sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md",
+      "to": "wiki/sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md",
+      "to": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md",
+      "to": "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "to": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "to": "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md",
+      "to": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "to": "wiki/sources/procedure-affidamento-gare-appalti-concessioni-soglie.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "to": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "to": "wiki/sources/codice-contratti-pubblici-d-lgs-36-2023-e-correttivo-209-2024.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "to": "wiki/sources/digitalizzazione-contratti-pubblici-anac-bdncp-fvoe-pcp.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "to": "wiki/sources/ciclo-contratti-pubblici-rup-stazione-appaltante-operatore-economico.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "to": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "to": "wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "to": "wiki/sources/vol-09-governance-contratti-verifica-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-09-governance-contratti-verifica-2026-10-03.md",
+      "to": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "to": "wiki/sources/delitti-contro-pa-codice-penale-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "to": "wiki/sources/vol-02-contabilita-piao-verifica-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03.md",
+      "to": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "to": "wiki/sources/ministeri-rettifiche-organizzazione-contabilita-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "to": "wiki/sources/principi-costituzionali-finanza-pubblica-art-81-97-119.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ministeri-rettifiche-organizzazione-contabilita-2026-10-03.md",
+      "to": "wiki/sources/aran-ccnl-funzioni-centrali-pcm-2022-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ministeri-rettifiche-organizzazione-contabilita-2026-10-03.md",
+      "to": "wiki/sources/contabilita-generale-stato-e-bilancio-stato.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/aran-ccnl-funzioni-centrali-pcm-2022-2026.md",
+      "to": "wiki/sources/aran-contrattazione-collettiva-comparti-aree-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/aran-ccnl-funzioni-centrali-pcm-2022-2026.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/delitti-contro-pa-codice-penale-2026.md",
+      "to": "wiki/sources/legge-6-novembre-2012-n-190-anticorruzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/mepa-consip-acquisti-in-rete-strumenti-acquisto-negoziazione.md",
+      "to": "wiki/sources/vol-09-consip-strumenti-obblighi-2026-10-03.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "to": "wiki/sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "to": "wiki/sources/integrazione-sociosanitaria-accreditamento-quadro-nazionale-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "to": "wiki/sources/flussi-economici-nsis-modelli-ce-sp.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "to": "wiki/sources/d-lgs-27-ottobre-2009-n-150-performance.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "to": "wiki/sources/contabilita-budget-aziende-sanitarie.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+      "to": "wiki/sources/lea-aggiornamenti-pubblicati-settembre-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/legge-7-giugno-2000-n-150-comunicazione-pubblica-urp.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+      "to": "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md",
+      "to": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "to": "wiki/sources/d-lgs-7-marzo-2005-n-82-amministrazione-digitale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "to": "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "to": "wiki/sources/agid-catalogo-linee-guida-cad-e-domicilio-digitale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "to": "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/agid-piano-triennale-informatica-pa-2024-2026-aggiornamento-2026.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/framework-competenze-trasversali-pa-dm-28-giugno-2023.md",
+      "to": "wiki/sources/d-p-r-16-giugno-2023-n-82-modifiche-al-d-p-r-487-1994-sui-concorsi.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/struttura-madre-il-metodo-bando.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/ripam-giustizia-791-prove-logico-critico-verbale.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/d-lgs-31-marzo-2023-n-36-contratti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/legge-241-1990-procedimento-amministrativo.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/capitolo-17-18-corpus-casi-pratici-quesiti-situazionali-2026-05-30.md",
+      "to": "wiki/sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/legge-241-1990-procedimento-amministrativo.md",
+      "to": "wiki/sources/legge-2-dicembre-2025-n-182-semplificazioni-autotutela.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/legge-2-dicembre-2025-n-182-semplificazioni-autotutela.md",
+      "to": "wiki/sources/legge-241-1990-procedimento-amministrativo.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
+      "to": "wiki/sources/d-lgs-30-marzo-2001-n-165-pubblico-impiego.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
+      "to": "wiki/sources/legge-6-novembre-2012-n-190-anticorruzione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/d-p-r-13-giugno-2023-n-81-modifiche-codice-comportamento.md",
+      "to": "wiki/sources/d-p-r-16-aprile-2013-n-62-codice-comportamento-dipendenti-pubblici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/sources/ripam-giustizia-791-prove-logico-critico-verbale.md",
+      "to": "wiki/sources/ripam-quesiti-attitudinali-logica-ragionamento-comprensione.md",
+      "exists": true,
+      "packaged": true,
+      "direct": false
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/d-p-r-28-dicembre-2000-n-445-documentazione-amministrativa.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/garante-privacy-gdpr-guida-operativa-diritti-sicurezza-dpo.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/legge-241-1990-procedimento-amministrativo.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/agid-linee-guida-sulla-formazione-gestione-e-conservazione-dei-documenti-informatici.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/pa-digitale-cad-identita-documenti-servizi-dati.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "to": "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/garante-privacy-trasparenza-pa-accesso-civico-e-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/ssn-organizzazione-aziende-standard-lea.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/integrazione-sociosanitaria-accreditamento-quadro-nazionale-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/d-lgs-14-marzo-2013-n-33-trasparenza.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/flusso-sdo-scheda-dimissione-ospedaliera.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/flussi-economici-nsis-modelli-ce-sp.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/contabilita-budget-aziende-sanitarie.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/legge-241-1990-procedimento-amministrativo.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/lea-aggiornamenti-pubblicati-settembre-2026.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/regolamento-ue-2016-679-gdpr-protezione-dati-personali.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    },
+    {
+      "from": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+      "to": "wiki/sources/d-lgs-30-giugno-2003-n-196-codice-privacy-e-d-lgs-101-2018-adeguamento-gdpr.md",
+      "exists": true,
+      "packaged": true,
+      "direct": true
+    }
+  ],
+  "issues": []
+}

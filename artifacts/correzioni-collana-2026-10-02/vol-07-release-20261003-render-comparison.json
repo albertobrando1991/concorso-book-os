@@ -1,0 +1,1835 @@
+{
+  "previousPDF": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-07-print-20261003-proof.pdf",
+  "currentPDF": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-07-release-20261003-proof.pdf",
+  "previousPanoramaPages": [
+    1,
+    454
+  ],
+  "method": "Confronto pixel SHA-256, PyMuPDF 72 dpi, esclusi 40 pt inferiori del piè di pagina. Il confronto trasferisce soltanto il grado di revisione documentato per le pagine precedenti.",
+  "pages": [
+    {
+      "page": 1,
+      "matchesReviewedPage": 1
+    },
+    {
+      "page": 2,
+      "matchesReviewedPage": 2
+    },
+    {
+      "page": 3,
+      "matchesReviewedPage": 3
+    },
+    {
+      "page": 4,
+      "matchesReviewedPage": 4
+    },
+    {
+      "page": 5,
+      "matchesReviewedPage": 5
+    },
+    {
+      "page": 6,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 7,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 8,
+      "matchesReviewedPage": 8
+    },
+    {
+      "page": 9,
+      "matchesReviewedPage": 9
+    },
+    {
+      "page": 10,
+      "matchesReviewedPage": 10
+    },
+    {
+      "page": 11,
+      "matchesReviewedPage": 11
+    },
+    {
+      "page": 12,
+      "matchesReviewedPage": 12
+    },
+    {
+      "page": 13,
+      "matchesReviewedPage": 13
+    },
+    {
+      "page": 14,
+      "matchesReviewedPage": 14
+    },
+    {
+      "page": 15,
+      "matchesReviewedPage": 15
+    },
+    {
+      "page": 16,
+      "matchesReviewedPage": 16
+    },
+    {
+      "page": 17,
+      "matchesReviewedPage": 17
+    },
+    {
+      "page": 18,
+      "matchesReviewedPage": 18
+    },
+    {
+      "page": 19,
+      "matchesReviewedPage": 19
+    },
+    {
+      "page": 20,
+      "matchesReviewedPage": 20
+    },
+    {
+      "page": 21,
+      "matchesReviewedPage": 21
+    },
+    {
+      "page": 22,
+      "matchesReviewedPage": 22
+    },
+    {
+      "page": 23,
+      "matchesReviewedPage": 23
+    },
+    {
+      "page": 24,
+      "matchesReviewedPage": 24
+    },
+    {
+      "page": 25,
+      "matchesReviewedPage": 25
+    },
+    {
+      "page": 26,
+      "matchesReviewedPage": 26
+    },
+    {
+      "page": 27,
+      "matchesReviewedPage": 27
+    },
+    {
+      "page": 28,
+      "matchesReviewedPage": 28
+    },
+    {
+      "page": 29,
+      "matchesReviewedPage": 29
+    },
+    {
+      "page": 30,
+      "matchesReviewedPage": 30
+    },
+    {
+      "page": 31,
+      "matchesReviewedPage": 31
+    },
+    {
+      "page": 32,
+      "matchesReviewedPage": 32
+    },
+    {
+      "page": 33,
+      "matchesReviewedPage": 33
+    },
+    {
+      "page": 34,
+      "matchesReviewedPage": 34
+    },
+    {
+      "page": 35,
+      "matchesReviewedPage": 35
+    },
+    {
+      "page": 36,
+      "matchesReviewedPage": 36
+    },
+    {
+      "page": 37,
+      "matchesReviewedPage": 37
+    },
+    {
+      "page": 38,
+      "matchesReviewedPage": 38
+    },
+    {
+      "page": 39,
+      "matchesReviewedPage": 39
+    },
+    {
+      "page": 40,
+      "matchesReviewedPage": 40
+    },
+    {
+      "page": 41,
+      "matchesReviewedPage": 41
+    },
+    {
+      "page": 42,
+      "matchesReviewedPage": 42
+    },
+    {
+      "page": 43,
+      "matchesReviewedPage": 43
+    },
+    {
+      "page": 44,
+      "matchesReviewedPage": 44
+    },
+    {
+      "page": 45,
+      "matchesReviewedPage": 45
+    },
+    {
+      "page": 46,
+      "matchesReviewedPage": 46
+    },
+    {
+      "page": 47,
+      "matchesReviewedPage": 47
+    },
+    {
+      "page": 48,
+      "matchesReviewedPage": 48
+    },
+    {
+      "page": 49,
+      "matchesReviewedPage": 49
+    },
+    {
+      "page": 50,
+      "matchesReviewedPage": 50
+    },
+    {
+      "page": 51,
+      "matchesReviewedPage": 51
+    },
+    {
+      "page": 52,
+      "matchesReviewedPage": 52
+    },
+    {
+      "page": 53,
+      "matchesReviewedPage": 53
+    },
+    {
+      "page": 54,
+      "matchesReviewedPage": 54
+    },
+    {
+      "page": 55,
+      "matchesReviewedPage": 55
+    },
+    {
+      "page": 56,
+      "matchesReviewedPage": 56
+    },
+    {
+      "page": 57,
+      "matchesReviewedPage": 57
+    },
+    {
+      "page": 58,
+      "matchesReviewedPage": 58
+    },
+    {
+      "page": 59,
+      "matchesReviewedPage": 59
+    },
+    {
+      "page": 60,
+      "matchesReviewedPage": 60
+    },
+    {
+      "page": 61,
+      "matchesReviewedPage": 61
+    },
+    {
+      "page": 62,
+      "matchesReviewedPage": 62
+    },
+    {
+      "page": 63,
+      "matchesReviewedPage": 63
+    },
+    {
+      "page": 64,
+      "matchesReviewedPage": 64
+    },
+    {
+      "page": 65,
+      "matchesReviewedPage": 65
+    },
+    {
+      "page": 66,
+      "matchesReviewedPage": 66
+    },
+    {
+      "page": 67,
+      "matchesReviewedPage": 67
+    },
+    {
+      "page": 68,
+      "matchesReviewedPage": 68
+    },
+    {
+      "page": 69,
+      "matchesReviewedPage": 69
+    },
+    {
+      "page": 70,
+      "matchesReviewedPage": 70
+    },
+    {
+      "page": 71,
+      "matchesReviewedPage": 71
+    },
+    {
+      "page": 72,
+      "matchesReviewedPage": 72
+    },
+    {
+      "page": 73,
+      "matchesReviewedPage": 73
+    },
+    {
+      "page": 74,
+      "matchesReviewedPage": 74
+    },
+    {
+      "page": 75,
+      "matchesReviewedPage": 75
+    },
+    {
+      "page": 76,
+      "matchesReviewedPage": 76
+    },
+    {
+      "page": 77,
+      "matchesReviewedPage": 77
+    },
+    {
+      "page": 78,
+      "matchesReviewedPage": 78
+    },
+    {
+      "page": 79,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 80,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 81,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 82,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 83,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 84,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 85,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 86,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 87,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 88,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 89,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 90,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 91,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 92,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 93,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 94,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 95,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 96,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 97,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 98,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 99,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 100,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 101,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 102,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 103,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 104,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 105,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 106,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 107,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 108,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 109,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 110,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 111,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 112,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 113,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 114,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 115,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 116,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 117,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 118,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 119,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 120,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 121,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 122,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 123,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 124,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 125,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 126,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 127,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 128,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 129,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 130,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 131,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 132,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 133,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 134,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 135,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 136,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 137,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 138,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 139,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 140,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 141,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 142,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 143,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 144,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 145,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 146,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 147,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 148,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 149,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 150,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 151,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 152,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 153,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 154,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 155,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 156,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 157,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 158,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 159,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 160,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 161,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 162,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 163,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 164,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 165,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 166,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 167,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 168,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 169,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 170,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 171,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 172,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 173,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 174,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 175,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 176,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 177,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 178,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 179,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 180,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 181,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 182,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 183,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 184,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 185,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 186,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 187,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 188,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 189,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 190,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 191,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 192,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 193,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 194,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 195,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 196,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 197,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 198,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 199,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 200,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 201,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 202,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 203,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 204,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 205,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 206,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 207,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 208,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 209,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 210,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 211,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 212,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 213,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 214,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 215,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 216,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 217,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 218,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 219,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 220,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 221,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 222,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 223,
+      "matchesReviewedPage": 221
+    },
+    {
+      "page": 224,
+      "matchesReviewedPage": 222
+    },
+    {
+      "page": 225,
+      "matchesReviewedPage": 223
+    },
+    {
+      "page": 226,
+      "matchesReviewedPage": 224
+    },
+    {
+      "page": 227,
+      "matchesReviewedPage": 225
+    },
+    {
+      "page": 228,
+      "matchesReviewedPage": 226
+    },
+    {
+      "page": 229,
+      "matchesReviewedPage": 227
+    },
+    {
+      "page": 230,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 231,
+      "matchesReviewedPage": 229
+    },
+    {
+      "page": 232,
+      "matchesReviewedPage": 230
+    },
+    {
+      "page": 233,
+      "matchesReviewedPage": 231
+    },
+    {
+      "page": 234,
+      "matchesReviewedPage": 232
+    },
+    {
+      "page": 235,
+      "matchesReviewedPage": 233
+    },
+    {
+      "page": 236,
+      "matchesReviewedPage": 234
+    },
+    {
+      "page": 237,
+      "matchesReviewedPage": 235
+    },
+    {
+      "page": 238,
+      "matchesReviewedPage": 236
+    },
+    {
+      "page": 239,
+      "matchesReviewedPage": 237
+    },
+    {
+      "page": 240,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 241,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 242,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 243,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 244,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 245,
+      "matchesReviewedPage": 243
+    },
+    {
+      "page": 246,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 247,
+      "matchesReviewedPage": 245
+    },
+    {
+      "page": 248,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 249,
+      "matchesReviewedPage": 247
+    },
+    {
+      "page": 250,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 251,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 252,
+      "matchesReviewedPage": 250
+    },
+    {
+      "page": 253,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 254,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 255,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 256,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 257,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 258,
+      "matchesReviewedPage": 256
+    },
+    {
+      "page": 259,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 260,
+      "matchesReviewedPage": 258
+    },
+    {
+      "page": 261,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 262,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 263,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 264,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 265,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 266,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 267,
+      "matchesReviewedPage": 265
+    },
+    {
+      "page": 268,
+      "matchesReviewedPage": 266
+    },
+    {
+      "page": 269,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 270,
+      "matchesReviewedPage": 268
+    },
+    {
+      "page": 271,
+      "matchesReviewedPage": 269
+    },
+    {
+      "page": 272,
+      "matchesReviewedPage": 270
+    },
+    {
+      "page": 273,
+      "matchesReviewedPage": 271
+    },
+    {
+      "page": 274,
+      "matchesReviewedPage": 272
+    },
+    {
+      "page": 275,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 276,
+      "matchesReviewedPage": 274
+    },
+    {
+      "page": 277,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 278,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 279,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 280,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 281,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 282,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 283,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 284,
+      "matchesReviewedPage": 282
+    },
+    {
+      "page": 285,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 286,
+      "matchesReviewedPage": 284
+    },
+    {
+      "page": 287,
+      "matchesReviewedPage": 285
+    },
+    {
+      "page": 288,
+      "matchesReviewedPage": 286
+    },
+    {
+      "page": 289,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 290,
+      "matchesReviewedPage": 288
+    },
+    {
+      "page": 291,
+      "matchesReviewedPage": 289
+    },
+    {
+      "page": 292,
+      "matchesReviewedPage": 290
+    },
+    {
+      "page": 293,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 294,
+      "matchesReviewedPage": 292
+    },
+    {
+      "page": 295,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 296,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 297,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 298,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 299,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 300,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 301,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 302,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 303,
+      "matchesReviewedPage": 301
+    },
+    {
+      "page": 304,
+      "matchesReviewedPage": 302
+    },
+    {
+      "page": 305,
+      "matchesReviewedPage": 303
+    },
+    {
+      "page": 306,
+      "matchesReviewedPage": 304
+    },
+    {
+      "page": 307,
+      "matchesReviewedPage": 305
+    },
+    {
+      "page": 308,
+      "matchesReviewedPage": 306
+    },
+    {
+      "page": 309,
+      "matchesReviewedPage": 307
+    },
+    {
+      "page": 310,
+      "matchesReviewedPage": 308
+    },
+    {
+      "page": 311,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 312,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 313,
+      "matchesReviewedPage": 311
+    },
+    {
+      "page": 314,
+      "matchesReviewedPage": 312
+    },
+    {
+      "page": 315,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 316,
+      "matchesReviewedPage": 314
+    },
+    {
+      "page": 317,
+      "matchesReviewedPage": 315
+    },
+    {
+      "page": 318,
+      "matchesReviewedPage": 316
+    },
+    {
+      "page": 319,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 320,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 321,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 322,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 323,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 324,
+      "matchesReviewedPage": 322
+    },
+    {
+      "page": 325,
+      "matchesReviewedPage": 323
+    },
+    {
+      "page": 326,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 327,
+      "matchesReviewedPage": 325
+    },
+    {
+      "page": 328,
+      "matchesReviewedPage": 326
+    },
+    {
+      "page": 329,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 330,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 331,
+      "matchesReviewedPage": 329
+    },
+    {
+      "page": 332,
+      "matchesReviewedPage": 330
+    },
+    {
+      "page": 333,
+      "matchesReviewedPage": 331
+    },
+    {
+      "page": 334,
+      "matchesReviewedPage": 332
+    },
+    {
+      "page": 335,
+      "matchesReviewedPage": 333
+    },
+    {
+      "page": 336,
+      "matchesReviewedPage": 334
+    },
+    {
+      "page": 337,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 338,
+      "matchesReviewedPage": 336
+    },
+    {
+      "page": 339,
+      "matchesReviewedPage": 337
+    },
+    {
+      "page": 340,
+      "matchesReviewedPage": 338
+    },
+    {
+      "page": 341,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 342,
+      "matchesReviewedPage": 340
+    },
+    {
+      "page": 343,
+      "matchesReviewedPage": 341
+    },
+    {
+      "page": 344,
+      "matchesReviewedPage": 342
+    },
+    {
+      "page": 345,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 346,
+      "matchesReviewedPage": 344
+    },
+    {
+      "page": 347,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 348,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 349,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 350,
+      "matchesReviewedPage": 348
+    },
+    {
+      "page": 351,
+      "matchesReviewedPage": 349
+    },
+    {
+      "page": 352,
+      "matchesReviewedPage": 350
+    },
+    {
+      "page": 353,
+      "matchesReviewedPage": 351
+    },
+    {
+      "page": 354,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 355,
+      "matchesReviewedPage": 353
+    },
+    {
+      "page": 356,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 357,
+      "matchesReviewedPage": 355
+    },
+    {
+      "page": 358,
+      "matchesReviewedPage": 356
+    },
+    {
+      "page": 359,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 360,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 361,
+      "matchesReviewedPage": 359
+    },
+    {
+      "page": 362,
+      "matchesReviewedPage": 360
+    },
+    {
+      "page": 363,
+      "matchesReviewedPage": 361
+    },
+    {
+      "page": 364,
+      "matchesReviewedPage": 362
+    },
+    {
+      "page": 365,
+      "matchesReviewedPage": 363
+    },
+    {
+      "page": 366,
+      "matchesReviewedPage": 364
+    },
+    {
+      "page": 367,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 368,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 369,
+      "matchesReviewedPage": 367
+    },
+    {
+      "page": 370,
+      "matchesReviewedPage": 368
+    },
+    {
+      "page": 371,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 372,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 373,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 374,
+      "matchesReviewedPage": 372
+    },
+    {
+      "page": 375,
+      "matchesReviewedPage": 373
+    },
+    {
+      "page": 376,
+      "matchesReviewedPage": 374
+    },
+    {
+      "page": 377,
+      "matchesReviewedPage": 375
+    },
+    {
+      "page": 378,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 379,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 380,
+      "matchesReviewedPage": 378
+    },
+    {
+      "page": 381,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 382,
+      "matchesReviewedPage": 380
+    },
+    {
+      "page": 383,
+      "matchesReviewedPage": 381
+    },
+    {
+      "page": 384,
+      "matchesReviewedPage": 382
+    },
+    {
+      "page": 385,
+      "matchesReviewedPage": 383
+    },
+    {
+      "page": 386,
+      "matchesReviewedPage": 384
+    },
+    {
+      "page": 387,
+      "matchesReviewedPage": 385
+    },
+    {
+      "page": 388,
+      "matchesReviewedPage": 386
+    },
+    {
+      "page": 389,
+      "matchesReviewedPage": 387
+    },
+    {
+      "page": 390,
+      "matchesReviewedPage": 388
+    },
+    {
+      "page": 391,
+      "matchesReviewedPage": 389
+    },
+    {
+      "page": 392,
+      "matchesReviewedPage": 390
+    },
+    {
+      "page": 393,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 394,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 395,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 396,
+      "matchesReviewedPage": 394
+    },
+    {
+      "page": 397,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 398,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 399,
+      "matchesReviewedPage": 397
+    },
+    {
+      "page": 400,
+      "matchesReviewedPage": 398
+    },
+    {
+      "page": 401,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 402,
+      "matchesReviewedPage": 400
+    },
+    {
+      "page": 403,
+      "matchesReviewedPage": 401
+    },
+    {
+      "page": 404,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 405,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 406,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 407,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 408,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 409,
+      "matchesReviewedPage": 407
+    },
+    {
+      "page": 410,
+      "matchesReviewedPage": 408
+    },
+    {
+      "page": 411,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 412,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 413,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 414,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 415,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 416,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 417,
+      "matchesReviewedPage": 415
+    },
+    {
+      "page": 418,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 419,
+      "matchesReviewedPage": 417
+    },
+    {
+      "page": 420,
+      "matchesReviewedPage": 418
+    },
+    {
+      "page": 421,
+      "matchesReviewedPage": 419
+    },
+    {
+      "page": 422,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 423,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 424,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 425,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 426,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 427,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 428,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 429,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 430,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 431,
+      "matchesReviewedPage": 429
+    },
+    {
+      "page": 432,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 433,
+      "matchesReviewedPage": 431
+    },
+    {
+      "page": 434,
+      "matchesReviewedPage": 432
+    },
+    {
+      "page": 435,
+      "matchesReviewedPage": 433
+    },
+    {
+      "page": 436,
+      "matchesReviewedPage": 434
+    },
+    {
+      "page": 437,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 438,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 439,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 440,
+      "matchesReviewedPage": 438
+    },
+    {
+      "page": 441,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 442,
+      "matchesReviewedPage": 440
+    },
+    {
+      "page": 443,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 444,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 445,
+      "matchesReviewedPage": 443
+    },
+    {
+      "page": 446,
+      "matchesReviewedPage": 444
+    },
+    {
+      "page": 447,
+      "matchesReviewedPage": 445
+    },
+    {
+      "page": 448,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 449,
+      "matchesReviewedPage": 447
+    },
+    {
+      "page": 450,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 451,
+      "matchesReviewedPage": 449
+    },
+    {
+      "page": 452,
+      "matchesReviewedPage": 450
+    },
+    {
+      "page": 453,
+      "matchesReviewedPage": 451
+    },
+    {
+      "page": 454,
+      "matchesReviewedPage": 452
+    },
+    {
+      "page": 455,
+      "matchesReviewedPage": null
+    },
+    {
+      "page": 456,
+      "matchesReviewedPage": null
+    }
+  ]
+}

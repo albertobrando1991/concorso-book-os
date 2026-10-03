@@ -1,0 +1,80 @@
+[
+  {
+    "name": "privacy-penale",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;51~art1!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/privacy-penale-art1.html",
+    "sha256": "8c35626b442f7915a896b98c0ac1e4c3470fff68dfd28b33016d8363b1eb876a",
+    "characters": 1400,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "privacy-penale",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;51~art2!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/privacy-penale-art2.html",
+    "sha256": "7173b5750d7326b4739e1f51da955b7bffd46b431960f1de135f52f14f2fabd5",
+    "characters": 5966,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "privacy-penale",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;51~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/privacy-penale-art3.html",
+    "sha256": "c7ac2c62d58abca2a79219410796e3ba8197b92b539cd3bb38593fc0692457f7",
+    "characters": 1872,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "privacy-penale",
+    "article": 7,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;51~art7!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/privacy-penale-art7.html",
+    "sha256": "e47435fb9d5b7e021f6487d2c7661aef6a2fbb99378a44aa4beec9300808a7fe",
+    "characters": 532,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "privacy-penale",
+    "article": 9,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;51~art9!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/privacy-penale-art9.html",
+    "sha256": "cba65a27e65606ce6b98b60355b916fe9c1b16a424cac8978f71af21df00202e",
+    "characters": 1328,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "registri-civili-statistiche",
+    "url": "https://www.giustizia.it/giustizia/en/mg_1_14_1.page?contentId=SST243978",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/registri-civili-statistiche.html",
+    "sha256": "d57afdd287459715802b1448e495909e370aba5ec9a942c4f9f936325c901643",
+    "readComplete": false
+  },
+  {
+    "name": "registri-penali-circolare2016",
+    "url": "https://www.giustizia.it/giustizia/it/mg_1_8_1.page?contentId=SDC1287690",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/registri-penali-circolare2016.html",
+    "sha256": "ec80c7d181b70e689f830020540ac17964380bf658934b483eadebd7289d6ec2",
+    "readComplete": false
+  },
+  {
+    "name": "sistema-sicp",
+    "url": "https://www.giustizia.it/giustizia/it/mg_1_11_1.wp?contentId=SPR31349",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/sistema-sicp.html",
+    "sha256": "9f386375a563505eb5059e3321d653afbd7b4b49f7cd3f2e17d0a460ef5971bb",
+    "readComplete": false
+  },
+  {
+    "name": "registro-modello45-circolare2011",
+    "url": "https://www.giustizia.it/giustizia/it/mg_1_8_1.page?contentId=SDC632441",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/registro-modello45-circolare2011.html",
+    "sha256": "5c653d660db8912bdb04da41112010ed63e68be725a52f84406c90d857ab2a88",
+    "readComplete": false
+  }
+]

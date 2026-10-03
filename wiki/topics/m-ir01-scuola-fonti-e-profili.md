@@ -6,7 +6,7 @@ status: active
 domain: "concorsi pubblici italiani"
 topics: ["scuola", "bandi concorso", "personale ATA", "DSGA", "dirigenti scolastici", "docenti"]
 entities: ["Ministero dell'Istruzione e del Merito", "ARAN", "Normattiva"]
-source_refs: ["sources/fonti-ufficiali-m-ir01-scuola-2026-07-24", "sources/bandi-rappresentativi-m-ir01-scuola-2023-2025", "sources/programmi-concorsi-docenti-dm-205-206-2023", "sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010", "sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu"]
+source_refs: ["sources/fonti-ufficiali-m-ir01-scuola-2026-07-24", "sources/bandi-rappresentativi-m-ir01-scuola-2023-2025", "sources/programmi-concorsi-docenti-dm-205-206-2023", "sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010", "sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu"]
 book_refs: ["m-ir01-scuola", "vol-06-scuola-universita-ricerca-cultura"]
 confidence: 0.8
 updated_at: 2026-07-29
@@ -31,7 +31,7 @@ Il topic collega le fonti per ATA, EQ/DSGA, dirigenti scolastici e docenti. Le m
 - [[sources/bandi-rappresentativi-m-ir01-scuola-2023-2025]]
 - [[sources/programmi-concorsi-docenti-dm-205-206-2023]]
 - [[sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010]]
-- [[sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]]
+- [[sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]]
 
 ## Nucleo docente: pedagogia, psicologia e inclusione
 
@@ -40,3 +40,7 @@ Per il capitolo 11 sono consolidate una fonte sui programmi concorsuali docenti 
 ## Rischi di aggiornamento
 
 Bandi, allegati, requisiti, calendari, posti, CCNL, atti MIM/USR, programmi e strumenti PNRR non sono contenuti stabili. Ogni capitolo deve distinguerli dal quadro normativo di base e riportare la review necessaria.
+
+## Correzioni del 3 ottobre 2026
+
+Capitoli 02–10 ampliati con ordinamenti, organi e quorum, PTOF/SNV, trasferimento, piano ATA, fasi contabili, inventario, relazioni sindacali e sicurezza. Fonti puntuali in [[sources/fonti-ufficiali-m-ir01-scuola-2026-07-24]]. Capitoli 11–13 raccordati a [[sources/programmi-concorsi-docenti-dm-205-206-2023]], [[sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010]] (incluso D.L.170/2026) e [[sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]] (O.M.3/2025). La matrice corrente documenta teoria, esempi e verifiche; il PDF deve essere rigenerato e ispezionato.

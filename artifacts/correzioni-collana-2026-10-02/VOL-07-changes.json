@@ -1,0 +1,608 @@
+{
+  "volume": "VOL-07",
+  "changes": {
+    "V07-01": {
+      "change": "Esclusione assoluta FOIA per dati di salute e rischio di reidentificazione.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+      ],
+      "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md": "d73c286d9d16c44a82d22e957899d1f8d02521adefc21f14419362e84cc8723d",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md": "d20c6383fd61226748e46bebb7d57e8980951015270d5dbc9555ecbadc34f2fb"
+      },
+      "previousEvidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-02": {
+      "change": "Rango del diritto e indispensabilita per accesso documentale a salute di terzi.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+      ],
+      "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md": "d73c286d9d16c44a82d22e957899d1f8d02521adefc21f14419362e84cc8723d",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md": "d20c6383fd61226748e46bebb7d57e8980951015270d5dbc9555ecbadc34f2fb"
+      },
+      "previousEvidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-03": {
+      "change": "Termini sette/trenta giorni dalla stessa richiesta e caso risolto.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+      ],
+      "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md": "d73c286d9d16c44a82d22e957899d1f8d02521adefc21f14419362e84cc8723d",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md": "d20c6383fd61226748e46bebb7d57e8980951015270d5dbc9555ecbadc34f2fb"
+      },
+      "previousEvidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-04": {
+      "change": "Consenso alimentazione/consultazione FSE distinto dal dossier, oscuramento ed emergenza.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+      ],
+      "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md": "d73c286d9d16c44a82d22e957899d1f8d02521adefc21f14419362e84cc8723d",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md": "d20c6383fd61226748e46bebb7d57e8980951015270d5dbc9555ecbadc34f2fb"
+      },
+      "previousEvidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-05": {
+      "change": "Richiesta di integrazione separata dagli esiti finali; nessuna sospensione automatica.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+      ],
+      "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md": "d73c286d9d16c44a82d22e957899d1f8d02521adefc21f14419362e84cc8723d",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md": "d20c6383fd61226748e46bebb7d57e8980951015270d5dbc9555ecbadc34f2fb"
+      },
+      "previousEvidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-06": {
+      "change": "Documento informatico distinto da efficacia probatoria della scansione.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+      ],
+      "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md": "d73c286d9d16c44a82d22e957899d1f8d02521adefc21f14419362e84cc8723d",
+        "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md": "d20c6383fd61226748e46bebb7d57e8980951015270d5dbc9555ecbadc34f2fb"
+      },
+      "previousEvidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-07": {
+      "change": "Titolo e apertura raccordati a SSN, LEA, organi, accreditamento, atti e flussi; conservate integrazioni INT.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md"
+      ],
+      "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md": "56043e0bee143eb36164cff7abc136c60d0ab83344e57cebc41dbb04a8e8491d"
+      },
+      "previousEvidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-08": {
+      "change": "Errori critici di riservatezza, accesso e competenza rendono insufficiente la risposta indipendentemente dal totale.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md"
+      ],
+      "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md": "940ebf00b8f2890c4e873145ebb4151d70e26135f2a633022b2abd5767e8ca07"
+      },
+      "previousEvidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-09": {
+      "change": "Riscrittura completa con delega, sportello, portale e pratica esplicitamente fittizi.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md"
+      ],
+      "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md": "940ebf00b8f2890c4e873145ebb4151d70e26135f2a633022b2abd5767e8ca07"
+      },
+      "previousEvidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-10": {
+      "change": "Variazione del costo medio corretta a −4,44% senza arrotondamenti intermedi, in entrambe le occorrenze.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md"
+      ],
+      "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md": "8f7cbadfb1d15c9be874af8a639526d57ad383380a9b3bb8b8388916206c3acc"
+      },
+      "previousEvidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-11": {
+      "change": "Documenti di bilancio, adozione, approvazione e consolidato; esempio risolto di ammortamento e contributo.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md",
+        "wiki/sources/contabilita-budget-aziende-sanitarie.md"
+      ],
+      "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md": "8f7cbadfb1d15c9be874af8a639526d57ad383380a9b3bb8b8388916206c3acc",
+        "wiki/sources/contabilita-budget-aziende-sanitarie.md": "ad4b8b99d7c19c2cc06150bee095b98a79b3c4333f440bc278960b2851ed5aec"
+      },
+      "previousEvidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-12": {
+      "change": "AIC e classi A/H/C, raccordo MDR/IVDR, centralizzazione e NSO con esempio.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+        "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md"
+      ],
+      "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md": "9df6a0106504bfb40b98810675119892b4aea427bc5eff068bb97948f1501219",
+        "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md": "e5d5adfcb09a180c31d5dff69039c1f30ba24c94a5953d06326de39781a7c8c1"
+      },
+      "previousEvidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-13": {
+      "change": "FEFO, segregazione e catena del freddo; punto di riordino e caso risolti.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+        "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md"
+      ],
+      "evidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md": "9df6a0106504bfb40b98810675119892b4aea427bc5eff068bb97948f1501219",
+        "wiki/sources/procurement-farmaci-dispositivi-flussi-nsis.md": "e5d5adfcb09a180c31d5dff69039c1f30ba24c94a5953d06326de39781a7c8c1"
+      },
+      "previousEvidence": "Delta riletto e calcoli risolti; fonti ufficiali consolidate nelle source. Audit specialistico di modulo e PDF ancora pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-14": {
+      "change": "Uniformati gli imperativi in SA01/10 e SA02/05.",
+      "files": [
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md"
+      ],
+      "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md": "9df6a0106504bfb40b98810675119892b4aea427bc5eff068bb97948f1501219",
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md": "4dfcb8c6d6c94d2f3574fb2030e2d022dfa897a7b8e096125f756589330a8ac3"
+      },
+      "previousEvidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-15": {
+      "change": "Responsabilità civile/penale e assicurazione, limite temporaneo 2026, consenso/DAT/pianificazione/minori con casi risolti.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+        "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md"
+      ],
+      "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md": "1915f061907c4d83a59e2801d3c7c03782f8486d1edec7e4ef81d66fd0d223d5",
+        "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md": "efca07859e76a5e42e591ff4f887a6bebc131a863ea7c09f5b4de0f08aaf2290"
+      },
+      "previousEvidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-16": {
+      "change": "Diagnosi infermieristica distinta da medica, scale, cinque momenti, precauzioni e prevenzione catetere; esempi e verifica.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+        "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md"
+      ],
+      "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md": "b4dca5c60b8af6e2e8008928c40e27c2c4aa93affb8ac53ba2e0daab20e96d3c",
+        "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md": "bfde45ba4587a328d6b425375888d360ca9285fa093a4c940c3b74fc1270778b"
+      },
+      "previousEvidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-17": {
+      "change": "Scala 2 NEWS2 circoscritta a insufficienza respiratoria ipercapnica confermata e decisione documentata, non BPCO isolata.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+        "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md"
+      ],
+      "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md": "4dfcb8c6d6c94d2f3574fb2030e2d022dfa897a7b8e096125f756589330a8ac3",
+        "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md": "3e8a443e7a4960ce3b2acee57f17a09c5beb259215e2f8b2908a8cdc663d0270"
+      },
+      "previousEvidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-18": {
+      "change": "Esclusioni NEWS2 per minori di 16 anni e gravidanza, senza estensione dai contenuti ostetrici del capitolo.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+        "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md"
+      ],
+      "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md": "4dfcb8c6d6c94d2f3574fb2030e2d022dfa897a7b8e096125f756589330a8ac3",
+        "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md": "3e8a443e7a4960ce3b2acee57f17a09c5beb259215e2f8b2908a8cdc663d0270"
+      },
+      "previousEvidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-19": {
+      "change": "Cinque priorità nazionali di triage con tempi, rivalutazione e caso risolto; nuovo dato operativo tracciato.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+        "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md"
+      ],
+      "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md": "4dfcb8c6d6c94d2f3574fb2030e2d022dfa897a7b8e096125f756589330a8ac3",
+        "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md": "4e6a9610afd3840c5b311de5b48dd2d9b9c6df8b088b8460f1bc2d3bc47985eb"
+      },
+      "previousEvidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-20": {
+      "change": "Integrate definizioni, riconoscimento, ritmi ALS e cause reversibili, fisiologia NLS e casi risolti; definite le emergenze ostetriche.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md"
+      ],
+      "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md": "4dfcb8c6d6c94d2f3574fb2030e2d022dfa897a7b8e096125f756589330a8ac3"
+      },
+      "previousEvidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-21": {
+      "change": "Esposti standard e funzioni DM77 con rinvio SA01 e distinzione fra programmazione e attuazione.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+        "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md"
+      ],
+      "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md": "15e6f3c1a83354054d6ea590881f637c76a0f5033e6299331317f72f299aaf33",
+        "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md": "c3704a6dcde0b595469ace645523e7b083cba42af1db0bd8ac29061fb7cf05c3"
+      },
+      "previousEvidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-22": {
+      "change": "Corretta interpretazione degli scarti PASSI: causa non dimostrata e incompatibilità con il solo arrotondamento.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+        "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/03-batteria-esercizi-epidemiologia-screening.md"
+      ],
+      "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md": "a4f6dfde6e8db1d8120b31db8c113ad2ba42e320b447bc8e67aae405eae6016a",
+        "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md": "2cb7e2b0fd1f154a8ef79f185562e6d632b6cb4770e2cf46bf81028c4ec2e2e5",
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/03-batteria-esercizi-epidemiologia-screening.md": "52ca1fa250d50402d98861652265e0583aa8990879c7cd94dfdb1f86977d2542"
+      },
+      "previousEvidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-23": {
+      "change": "Distinta definizione di caso da definizione di focolaio.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md"
+      ],
+      "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md": "a4f6dfde6e8db1d8120b31db8c113ad2ba42e320b447bc8e67aae405eae6016a"
+      },
+      "previousEvidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-24": {
+      "change": "Aggiunti programmi oncologici nazionali e termini PREMAL, con varianti regionali e distinzione dei ruoli.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+        "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md"
+      ],
+      "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md": "a4f6dfde6e8db1d8120b31db8c113ad2ba42e320b447bc8e67aae405eae6016a",
+        "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md": "756b7817f855631d00e8fd4d6932c25eb16d0c8ffa11298e47d4b85b632f91b4"
+      },
+      "previousEvidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-25": {
+      "change": "Esposte fasi e termini L689, prescrizione D758 e parte VI-bis ambientale con differenze, condizioni e oneri vigenti.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+        "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md"
+      ],
+      "evidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md": "9743fdae14da9db81058a1ed8ac27bd09c93c68fe3ad4d0587b9beaec3f1c07e",
+        "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md": "f441b413273f291cd782956daedc49669186cfcac8267d07acb2eb4ceec14f42"
+      },
+      "previousEvidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-26": {
+      "change": "Integrati AIA/AUA, DVR e ruoli, HACCP/rintracciabilità, controperizia/controversia e verbale compilato originale.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md",
+        "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md"
+      ],
+      "evidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/09-controlli-tpall-verbalizzazione-campionamento-sanzioni.md": "9743fdae14da9db81058a1ed8ac27bd09c93c68fe3ad4d0587b9beaec3f1c07e",
+        "wiki/sources/tpall-sicurezza-ambiente-vigilanza-sanzioni.md": "f441b413273f291cd782956daedc49669186cfcac8267d07acb2eb4ceec14f42"
+      },
+      "previousEvidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-27": {
+      "change": "Aggiunti cinque casi completi specifici per infermiere, OSS, ostetrica, fisioterapista e TPALL, con obiettivi, decisioni e verifica.",
+      "files": [
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md"
+      ],
+      "evidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/10-prova-pratica-casi-professionali.md": "0b7c9345476f789cc917bd36992e61ab757f42d93cb883189376e346420f4373"
+      },
+      "previousEvidence": "Rilettura del delta, riscontri ufficiali consolidati e risoluzione dei casi. Step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-28": {
+      "change": "Distinti obbligo generale di inglese/informatica e modalità mobili; corretti esercizio, soluzione e rinvii SA04.",
+      "files": [
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md"
+      ],
+      "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md": "267ac1029736886e150d80520b2bb764115ee2f436f59f51d08d375f6898fc6c",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md": "9a13463b48cc4b929806840e4062f22e63bc227f07a5e2ddb45ddb0baf14b9ee"
+      },
+      "previousEvidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-29": {
+      "change": "Inseriti punteggi e soglie nazionali DPR483 per quattro profili e DPR220 nei due moduli di comparto.",
+      "files": [
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md",
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md"
+      ],
+      "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/01-profili-requisiti-prove-dirigenza-sanitaria.md": "267ac1029736886e150d80520b2bb764115ee2f436f59f51d08d375f6898fc6c",
+        "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/01-mappa-profili-e-prove.md": "31304f56950b7fb03f7ba67df4d9d8b9cd921b208c403ccc4729cc030e618c91",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/01-profili-tslb-tsrm-requisiti-prove-responsabilita.md": "9a13463b48cc4b929806840e4062f22e63bc227f07a5e2ddb45ddb0baf14b9ee"
+      },
+      "previousEvidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-30": {
+      "change": "Acquisita relazione ministeriale NSG valida, riconciliate esclusioni della source, aggiunto cruscotto originale e raccordo SA01.",
+      "files": [
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md",
+        "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md"
+      ],
+      "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/02-programmazione-sanitaria-organizzazione-servizi.md": "7458867db28196c8ec4ecada5441551f7f2bcebc7ca6ddc29ffc49856dfb7a77",
+        "wiki/sources/governo-clinico-appropriatezza-hta-qualita-accreditamento.md": "aa38286a8c352059d484a5a16ed21f8a0f7d0c61c564e1ed7d8634117b6e5277"
+      },
+      "previousEvidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-31": {
+      "change": "Chiarita autonomia e responsabilità del medico abilitato distinta dai limiti del manuale.",
+      "files": [
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md"
+      ],
+      "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/03-linee-guida-appropriatezza-decisioni-cliniche.md": "b869bf7ef33ce1db556e512b4ca3aa68f2d29b25206eeb448bdde29ea99a7b93"
+      },
+      "previousEvidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-32": {
+      "change": "Definiti eventi, SIMES, RCA/FMEA e applicazione originale con rinvio SA04.",
+      "files": [
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md"
+      ],
+      "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/04-governo-clinico-hta-qualita-accreditamento-rischio.md": "76fabdc1482d953c6c49dc2c21a602e2f0aa8c63e3c51e3c9e5ba8f16111ecb1"
+      },
+      "previousEvidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-33": {
+      "change": "Completato differenziale illustrativo con ipotesi, dati e verifiche discriminanti.",
+      "files": [
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md"
+      ],
+      "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md": "0e3ae40f05a5409fd8e5611e60bc436065cd12baf1e4d73196bbb445a7ae5892"
+      },
+      "previousEvidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-34": {
+      "change": "Corretta vigenza CNOP e confrontati gli articoli pertinenti con il testo ufficiale attuale.",
+      "files": [
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md",
+        "wiki/sources/deontologia-biologo-farmacista-psicologo-2026.md"
+      ],
+      "evidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md": "4a0a07b4c3407b471d3c375556b64a814656d23883d40272bc6d2b74a8416fd4",
+        "wiki/sources/deontologia-biologo-farmacista-psicologo-2026.md": "f511488052f2ff1ca346823af75918982f5497cd33270ef189a92159ff846287"
+      },
+      "previousEvidence": "Rilettura del delta e riscontri ufficiali descritti nelle source; controlli step 15 e PDF pendenti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-35": {
+      "change": "Integrati principi delle discipline, precisione/esattezza, calibrazione/QC e serie numerica commentata; gruppi biologici, contenimento, cappe, decontaminazione e categorie rifiuti. Inserito grafico originale Levey–Jennings coerente con la tabella e con il quesito.",
+      "files": [
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/serie-controllo-qc.png"
+      ],
+      "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; Valori z controllati; originale ispezionato dal coordinamento. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati. Figure controllate a piena risoluzione alle pagine 404 e 423–424.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md": "dd9841165790e6683e785d8aa13c38bb7ce6a9b1cfcde4dd2c829f4a0d206147",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/serie-controllo-qc.png": "ff6fb4f8f8ab99ce095b36065c8536eb85a29d3503a8d88f166c24a32379b7b2"
+      },
+      "previousEvidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti. Valori z controllati; originale ispezionato dal coordinamento. Resa del nuovo PDF pendente.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-36": {
+      "change": "Integrati principi delle discipline, precisione/esattezza, calibrazione/QC e serie numerica commentata; gruppi biologici, contenimento, cappe, decontaminazione e categorie rifiuti.",
+      "files": [
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md"
+      ],
+      "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md": "dd9841165790e6683e785d8aa13c38bb7ce6a9b1cfcde4dd2c829f4a0d206147"
+      },
+      "previousEvidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-37": {
+      "change": "Aggiunti CTDIvol, DLP, DAP, esempio calcolato, effetti, protezione, limiti normativi; rischi RM, impianti e gravidanza.",
+      "files": [
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md"
+      ],
+      "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md": "094134aaa7e16d541fba47ea403f651b75ba60fd58c26a0afea33f565fda4982"
+      },
+      "previousEvidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-38": {
+      "change": "Aggiunti CTDIvol, DLP, DAP, esempio calcolato, effetti, protezione, limiti normativi; rischi RM, impianti e gravidanza.",
+      "files": [
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md"
+      ],
+      "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md": "094134aaa7e16d541fba47ea403f651b75ba60fd58c26a0afea33f565fda4982"
+      },
+      "previousEvidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-40": {
+      "change": "Esplicitati esiti dell’incidente grave, classi MDR/IVDR, UDI e FSCA/FSN; preservati termini 10/30 giorni.",
+      "files": [
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md"
+      ],
+      "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md": "fac488ce5d6357b58938806152c25a1fb11f7ab79badd5c46b2fd6348195def4"
+      },
+      "previousEvidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-41": {
+      "change": "Eliminati residui Humanizer, gate e step dalla prosa pubblica SA03/06–07 e SA04/04, preservando limiti informativi per il candidato.",
+      "files": [
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md",
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md",
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md"
+      ],
+      "evidence": "Ricerca mirata dei residui e rilettura dei paragrafi conclusivi. Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/04-tecnologie-dispositivi-apparecchiature-rischio.md": "fac488ce5d6357b58938806152c25a1fb11f7ab79badd5c46b2fd6348195def4",
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/06-dirigenza-medica-discipline-casi.md": "0e3ae40f05a5409fd8e5611e60bc436065cd12baf1e4d73196bbb445a7ae5892",
+        "wiki/books/moduli/m-sa03-dirigenza-medica-sanitaria/chapters/07-dirigenza-sanitaria-non-medica-discipline-casi.md": "4a0a07b4c3407b471d3c375556b64a814656d23883d40272bc6d2b74a8416fd4"
+      },
+      "previousEvidence": "Ricerca mirata dei residui e rilettura dei paragrafi conclusivi.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V07-39": {
+      "change": "Inseriti due apparati originali movimento/dettaglio e rumore/contrasto, con didascalie, alternative testuali, domande e soluzioni.",
+      "files": [
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+        "wiki/reviews/correzioni-collana-2026-10-02/V07-39-specifica-apparati.md",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/movimento-dettaglio.png",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/rumore-contrasto.png"
+      ],
+      "evidence": "Originali creati e ispezionati dal coordinamento; collegamenti locali presenti. Controllo delle pagine Audit specialistici conclusi; prova di produzione 456 pagine verificata nel perimetro dichiarato in PDF-VOL-07.md. Hash dei file riconciliati. Figure controllate a piena risoluzione alle pagine 404 e 423–424.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md": "094134aaa7e16d541fba47ea403f651b75ba60fd58c26a0afea33f565fda4982",
+        "wiki/reviews/correzioni-collana-2026-10-02/V07-39-specifica-apparati.md": "9f1511167fca1797097e0a1810eab35f9bf7f93ba2ad65b480f8072816dddc47",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/movimento-dettaglio.png": "54d16ca41bc028a89444bd2cf151c33e1e0fbfb0bc0fc6ee749f9fabcdf82574",
+        "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/rumore-contrasto.png": "cb31bb82ca5bfea54a21117e95bce369f236e58849677ccc4a108d33a8a4f9b6"
+      },
+      "previousEvidence": "Originali creati e ispezionati dal coordinamento; collegamenti locali presenti. Controllo delle pagine PDF ancora necessario.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    }
+  },
+  "limitations": [
+    "Promesse digitali e dati editoriali comuni non verificati; step 21 aperto.",
+    "Nessuna prova fisica, anteprima esterna o signoff 24.",
+    "Controlli normativi selettivi come documentati negli audit specialistici."
+  ],
+  "productionReport": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-07.md"
+}

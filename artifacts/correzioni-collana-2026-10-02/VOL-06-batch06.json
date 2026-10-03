@@ -1,0 +1,20 @@
+{
+  "V06-13": {
+    "change": "Corretta la collocazione terziaria AFAM; distinte istituzioni statali e non statali, limitato il caso amministrativo al settore statale, integrati organi/CFA/titoli e calcolo risolto.",
+    "files": [
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md"
+    ],
+    "evidence": "DPR132 artt.4/6/7 e DPR212 artt.3/6/8 consolidati; calcolo8×25=200.",
+    "status": "applicato"
+  },
+  "V06-14": {
+    "change": "Rimossi Bozza agente, escape letterali e apertura duplicata.",
+    "files": [
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+      "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md"
+    ],
+    "evidence": "Controllo del testo: una sola apertura editoriale.",
+    "status": "applicato"
+  }
+}

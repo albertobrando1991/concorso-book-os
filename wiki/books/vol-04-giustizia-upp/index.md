@@ -2,7 +2,7 @@
 id: vol-04-giustizia-upp
 type: commercial_volume
 title: "VOL-04 - Giustizia e Ufficio per il processo"
-status: reviewed
+status: revised_draft
 domain: "concorsi pubblici italiani"
 topics: ["giustizia", "ufficio per il processo", "cancelleria", "unep", "dap", "dgmc", "moduli specialistici", "metodo bando"]
 entities: ["Metodo BANDO", "Capitale Personale", "Ministero della giustizia", "Ufficio per il processo", "UNEP", "DAP", "DGMC"]
@@ -22,9 +22,9 @@ source_refs: [
 ]
 book_refs: ["il-metodo-bando", "moduli-specialistici", "m-fc04-giustizia"]
 confidence: 0.9
-updated_at: 2026-08-18T12:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-17T23:25:00+02:00
-review_required: false
+review_required: true
 canonical: true
 tags: ["commercial-volume", "vol-04", "funzioni-centrali", "giustizia", "source-ready"]
 book_id: vol-04-giustizia-upp
@@ -87,4 +87,17 @@ L'indice analitico completo è in [[books/vol-04-giustizia-upp/front-matter/06-i
 - [[sources/giurisprudenza-penitenziaria-m-fc04]]
 
 ## Stato
-Il volume ha completato revisione editoriale, fact-check prioritario, proofreading, controllo didattico e preflight del PDF KDP. I quattordici capitoli disciplinari, le appendici, i cinque strumenti operativi, la conclusione e l'apparato delle fonti sono presenti. Restano le normali verifiche di aggiornamento immediatamente precedenti alla distribuzione e l'eventuale produzione di un EPUB, non prevista dall'esportatore corrente.
+Il testo corretto al 3 ottobre 2026 comprende 14 capitoli disciplinari, 84 quiz, sei simulazioni finali risolte e gli apparati. Revisione trasversale e audit specialistico del testo sono chiusi; il nuovo freeze identifica i sorgenti verificati. PDF, preflight e consegna devono essere verificati nel ciclo corrente; le prove di agosto non attestano la nuova pubblicabilità.
+
+
+## Delta normativo del 3 ottobre 2026
+
+- [[sources/vol-04-cancelleria-verifica-2026-10-03]]
+- [[sources/vol-04-casellario-verifica-2026-10-03]]
+- [[sources/vol-04-digitale-verifica-2026-10-03]]
+- [[sources/vol-04-minorile-penitenziario-verifica-2026-10-03]]
+- [[sources/vol-04-organizzazione-upp-verifica-2026-10-03]]
+- [[sources/vol-04-processo-civile-verifica-2026-10-03]]
+- [[sources/vol-04-processo-penale-verifica-2026-10-03]]
+- [[sources/vol-04-spese-verifica-2026-10-03]]
+- [[sources/vol-04-unep-verifica-2026-10-03]]

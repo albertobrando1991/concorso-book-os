@@ -129,7 +129,7 @@ export function reopenSteps(state: RunState, input: ReopenStepsInput): ReopenSte
   const startOrder = Math.min(...selectedSteps.map(stepOrder))
   const cascadeScope = buildCascadeScope(state, selectedSteps)
   const isDownstream = (step: StepRecord) =>
-    stepOrder(step) >= startOrder && stepOrder(step) < 24 && matchesCascadeScope(step, cascadeScope)
+    stepOrder(step) >= startOrder && stepOrder(step) <= 24 && matchesCascadeScope(step, cascadeScope)
   const reopenedKeys = input.cascade
     ? new Set(state.steps.filter(isDownstream).map((step) => step.key))
     : selectedKeys
@@ -150,7 +150,7 @@ export function reopenSteps(state: RunState, input: ReopenStepsInput): ReopenSte
       updatedAt: input.now,
       steps: state.steps.map((step) =>
         reopenedKeys.has(step.key)
-          ? pendingStep(step, selectedKeys.has(step.key) ? input.note : undefined)
+          ? pendingStep(step, selectedKeys.has(step.key) || step.id === "24" ? input.note : undefined)
           : step
       )
     },

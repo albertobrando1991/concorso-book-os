@@ -1,0 +1,758 @@
+ (https://www.acquistinretepa.it/opencms/export/sites/acquistinrete/documenti/airpa/TABELLA_OBBLIGO_facoltx.pdf)
+citeturn375view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 13; Source: open({"ref_id":"turn368view0","lineno":690}); Total lines: 1516
+L433@P2: di ricorso a strumenti
+L434@P2: di negoziazione
+L435@P2: messi a disposizione
+L436@P2-3: da Consip.Ultimo aggiornamento: 31/07/2026
+L437@P3: Merceologia Importo Amministrazioni
+L438@P3: statali
+L439@P3: Enti del
+L440@P3: servizio
+L441@P3: sanitario
+L442@P3: nazionale
+L443@P3: Amministrazioni
+L444@P3: territorialii
+L445@P3: Enti
+L446@P3: previdenziali
+L447@P3: e agenzie
+L448@P3: fiscali
+L449@P3: Scuole ed
+L450@P3: università
+L451@P3: Altre
+L452@P3: amministrazioniii
+L453@P3: Organismi di
+L454@P3: diritto
+L455@P3: pubblico,
+L456@P3: società
+L465@P3: riga precedente
+L466@P3: Si applica quanto
+L467@P3: indicato nella riga
+L468@P3: “altre merceologie”
+L469@P3: non rilevando
+L470@P3: discipline speciali.
+L471@P3: Si applica
+L472@P3: quanto indicato
+L473@P3: nella riga “altre
+L474@P3: merceologie”
+L475@P3: non rilevando
+L476@P3: disciplina
+L477@P3: speciali.
+L478@P3: Si applica quanto
+L479@P3: indicato nella riga
+L480@P3: “altre merceologie”
+L481@P3: non rilevando
+L482@P3: discipline speciali.
+L483@P3: Si applica
+L484@P3: quanto indicato
+L485@P3: nella riga “altre
+L486@P3: merceologie”
+L487@P3: non rilevando
+L488@P3: discipline
+L489@P3: speciali.
+L490@P3: Si applica
+L491@P3: quanto
+L492@P3: indicato nella
+L493@P3: riga “altre
+L494@P3: merceologie”
+L495@P3: non rilevando
+L496@P3: discipline
+L497@P3: speciali.
+L498@P3: Si applica quanto
+L499@P3: indicato nella riga
+L500@P3: “altre merceologie”
+L501@P3: non rilevando
+L502@P3: disciplina speciali.
+L503@P3: Si applica
+L504@P3: quanto indicato
+L505@P3: nella riga “altre
+L506@P3: merceologie”
+L507@P3: non rilevando
+L508@P3: disciplina
+L509@P3: speciali.
+L510@P3: Beni e servizi informatici e
+L511@P3: di connettività
+L512@P3: Pari o superiore
+L513@P3: alla soglia
+L514@P3: comunitaria
+L515@P3: Obbligo di ricorso a
+L516@P3: convenzioni Consip.
+L517@P3: In assenza obbligo
+L518@P3: di ricorso ad AQ
+L519@P3: Consip o SDAPA.xiii
+L520@P3: Per i beni e servizi
+L521@P3: di rilevanza
+L522@P3: strategica (Piano
+L523@P3: Agid) obbligo di
+L524@P3: ricorso a Consip. xiv
+L525@P3: Obbligo di
+L526@P3: ricorso alle
+L527@P3: convenzioni
+L528@P3: delle centrali
+L529@P3: regionali di
+L530@P3: riferimento o, in
+L531@P3: mancanza, di
+L532@P3: Consip.
+L533@P3: In assenza,
+L534@P3: obbligo di
+L535@P3: ricorso agli altri
+L536@P3: strumenti di
+L537@P3: acquisto e
+L538@P3: negoziazione
+L539@P3: telematici messi
+L540@P3: a disposizione
+L541@P3: da Consip o
+L542@P3: dalla centrale
+L543@P3: Obbligo di ricorso a
+L544@P3: strumenti di acquisto
+L545@P3: e di negoziazione
+L546@P3: messi a disposizione
+L547@P3: da Consip o da
+L548@P3: soggetto
+L549@P3: aggregatore. xvi
+L550@P3: Obbligo di
+L551@P3: ricorso a
+L552@P3: convenzioni
+L553@P3: Consip.
+L554@P3: In assenza
+L555@P3: obbligo di
+L556@P3: ricorso ad AQ
+L557@P3: Consip o
+L558@P3: SDAPAxvii
+L559@P3: Per i beni e
+L560@P3: servizi di
+L561@P3: rilevanza
+L562@P3: strategica
+L563@P3: (Piano Agid)
+L564@P3: obbligo di
+L565@P3: ricorso a
+L566@P3: Consip. xviii
+L567@P3: Obbligo di
+L568@P3: ricorso a
+L569@P3: convenzioni
+L570@P3: Consip.
+L571@P3: In assenza
+L572@P3: obbligo di
+L573@P3: ricorso ad AQ
+L574@P3: Consip o
+L575@P3: SDAPA.
+L576@P3: In assenza
+L577@P3: obbligo di
+L578@P3: ricorso agli
+L579@P3: strumenti di
+L580@P3: acquisto e di
+L581@P3: negoziazione
+L582@P3: messi a
+L583@P3: disposizione
+L584@P3: da soggetto
+L585@P3: aggregatore,
+L586@P3: Obbligo di ricorso
+L587@P3: agli strumenti di
+L588@P3: acquisto e di
+L589@P3: negoziazione messi
+L590@P3: a disposizione da
+L591@P3: Consip o da soggetto
+L592@P3: aggregatore.xx
+L593@P3: Obbligo per le
+L594@P3: società inserite
+L595@P3: nel conto
+L596@P3: consolidato di
+L597@P3: ricorso agli
+L598@P3: strumenti di
+L599@P3: acquisto e di
+L600@P3: negoziazione
+L601@P3: messi a
+L602@P3: disposizione da
+L603@P3: Consip o da
+L604@P3: soggetto
+L605@P3: aggregatore.xxi
+L606@P3: Per gli ulteriori
+L607@P3: odp e per le
+L608@P3: restanti stazioni
+L609@P3: appaltanti,
+L610@P3-4: facoltà di Ultimo aggiornamento: 31/07/2026
+L611@P4: Merceologia Importo Amministrazioni
+L612@P4: statali
+L613@P4: Enti del
+L614@P4: servizio
+L615@P4: sanitario
+L616@P4: nazionale
+L617@P4: Amministrazioni
+L618@P4: territorialii
+L619@P4: Enti
+L620@P4: previdenziali
+L621@P4: e agenzie
+L622@P4: fiscali
+L623@P4: Scuole ed
+L624@P4: università
+L625@P4: Altre
+L626@P4: amministrazioniii
+L627@P4: Organismi di
+L628@P4: diritto
+L629@P4: pubblico,
+L630@P4: società
+L631@P4: pubbliche e
+L632@P4: altre stazioni
+L633@P4: appaltanti
+L634@P4: regionale di
+L635@P4: riferimento.
+L636@P4: In assenza
+L637@P4: obbligo di
+L638@P4: ricorso a
+L639@P4: strumenti di
+L640@P4: acquisto e di
+L641@P4: negoziazione
+L642@P4: messi a
+L643@P4: disposizione da
+L644@P4: Consip o da
+L645@P4: soggetto
+L646@P4: aggregatore .
+L647@P4: xv
+L648@P4: se applicabile.
+L649@P4: (Si veda
+L650@P4: nota). xix
+L651@P4: ricorso alle
+L652@P4: convenzioni
+L653@P4: Consip, agli AQ
+L654@P4: Consip e allo
+L655@P4: SDAPA.xxii
+L656@P4: Sottosoglia
+L657@P4: comunitaria
+L658@P4: Obbligo di ricorso a
+L659@P4: convenzioni Consip
+L660@P4: o al MePA.
+L661@P4: In assenza obbligo
+L662@P4: di ricorso ad AQ
+L663@P4: Consip o SDAPA.xxiii
+L664@P4: Obbligo di
+L665@P4: ricorso alle
+L666@P4: convenzioni
+L667@P4: delle centrali
+L668@P4: regionali di
+L669@P4: riferimento o, in
+L670@P4: mancanza, di
+L671@P4: Consip.
+L672@P4: In assenza,
+L673@P4: obbligo di
+L674@P4: ricorso agli altri
+L675@P4: strumenti di
+L676@P4: acquisto e
+L677@P4: negoziazione
+L678@P4: telematici messi
+L679@P4: a disposizione
+L680@P4: da Consip o
+L681@P4: dalla centrale
+L682@P4: Obbligo di ricorso al
+L683@P4: MePA o altri mercati
+L684@P4: elettronici (proprio o
+L685@P4: della centrale
+L686@P4: regionale di
+L687@P4: riferimento) o
+L688@P4: sistema telematico
+L689@P4: della centrale
+L690@P4: regionale di
+L691@P4: riferimento ovvero
+L692@P4: ricorso alle
+L693@P4: convenzioni Consip.
+L694@P4: In assenza, obbligo
+L695@P4: di ricorso agli altri
+L696@P4: strumenti di acquisto
+L697@P4: e di negoziazione
+L698@P4: messi a disposizione
+L699@P4: da Consip o da
+L700@P4: Obbligo di
+L701@P4: ricorso alle
+L702@P4: convenzioni
+L703@P4: Consip o al
+L704@P4: MePA.
+L705@P4: In assenza
+L706@P4: obbligo di
+L707@P4: ricorso ad AQ
+L708@P4: Consip o
+L709@P4: SDAPA xxvi
+L710@P4: Obbligo di
+L711@P4: ricorso alle
+L712@P4: convenzioni
+L713@P4: Consip o al
+L714@P4: MePA o altri
+L715@P4: mercati
+L716@P4: elettronici
+L717@P4: (proprio o
+L718@P4: della centrale
+L719@P4: regionale di
+L720@P4: riferimento se
+L721@P4: applicabile) o
+L722@P4: ad ulteriore
+L723@P4: sistema
+L724@P4: telematico
+L725@P4: della centrale
+L726@P4: regionale di
+L727@P4: Obbligo di ricorso al
+L728@P4: MePA o ad altri
+L729@P4: mercati elettronici
+L730@P4: (proprio o della
+L731@P4: centrale regionale di
+L732@P4: riferimento, se
+L733@P4: applicabile) o al
+L734@P4: sistema telematico
+L735@P4: della centrale
+L736@P4: regionale di
+L737@P4: riferimento, ove
+L738@P4: applicabile, ovvero
+L739@P4: ricorso alle
+L740@P4: convenzioni Consip
+L741@P4: per le
+L742@P4: amministrazioni.
+L743@P4: In assenza obbligo
+L744@P4: di ricorso agli altri
+L745@P4: strumenti di acquisto
+L746@P4: Obbligo per le
+L747@P4: società inserite
+L748@P4: nel conto
+L749@P4: consolidato di
+L750@P4: ricorso agli
+L751@P4: strumenti di
+L752@P4: acquisto e di
+L753@P4: negoziazione
+L754@P4: messi a
+L755@P4: disposizione da
+L756@P4: Consip o da
+L757@P4: soggetto
+L758@P4: aggregatore.xxix
+L759@P4: Per gli altri odp
+L760@P4: e per le restanti
+L761@P4: stazioni
+L762@P4: appaltanti,
+L763@P4-5: facoltà di Ultimo aggiornamento: 31/07/2026
+L764@P5: Merceologia Importo Amministrazioni
+L765@P5: statali
+L766@P5: Enti del
+L767@P5: servizio
+L768@P5: sanitario
+L769@P5: nazionale
+L770@P5: Amministrazioni
+L771@P5: territorialii
+L772@P5: Enti
+L773@P5: previdenziali
+L774@P5: e agenzie
+L775@P5: fiscali
+L776@P5: Scuole ed
+L777@P5: università
+L778@P5: Altre
+L779@P5: amministrazioniii
+L780@P5: Organismi di
+L781@P5: diritto
+L782@P5: pubblico,
+L783@P5: società
+L784@P5: pubbliche e
+L785@P5: altre stazioni
+L786@P5: appaltanti
+L787@P5: regionale di
+L788@P5: riferimento.
+L789@P5: In assenza
+L790@P5: obbligo di
+L791@P5: ricorso a
+L792@P5: strumenti di
+L793@P5: acquisto e di
+L794@P5: negoziazione
+L795@P5: messi a
+L796@P5: disposizione da
+L797@P5: Consip o da
+L798@P5: soggetto
+L799@P5: aggregatorexxiv.
+L800@P5: soggetto
+L801@P5: aggregatore. xxv
+L802@P5: riferimento se
+L803@P5: applicabile.
+L804@P5: In assenza
+L805@P5: obbligo di
+L806@P5: ricorso ad AQ
+L807@P5: Consip o
+L808@P5: SDAPA.
+L809@P5: In assenza
+L810@P5: obbligo di
+L811@P5: ricorso agli
+L812@P5: altri strumenti
+L813@P5: di acquisto e
+L814@P5: di
+L815@P5: negoziazione
+L816@P5: messi a
+L817@P5: disposizione
+L818@P5: da soggetto
+L819@P5: aggregatore
+L820@P5: se applicabile.
+L821@P5: (Si veda
+L822@P5: nota). xxvii
+L823@P5: e di negoziazione
+L824@P5: messi a disposizione
+L825@P5: da Consip o da
+L826@P5: soggetto
+L827@P5: aggregatore. xxviii
+L828@P5: ricorso al
+L829@P5: MePA, alle
+L830@P5: convenzioni
+L831@P5: Consip, agli AQ
+L832@P5: Consip
+L833@P5: e allo SDAPA.
+L834@P5: • Energia elettrica
+L835@P5: • Gas
+L836@P5: • Carburanti rete
+L837@P5: ed extra-rete
+L838@P5: • Combustibili per
+L839@P5: riscaldamento
+L840@P5: • Telefonia fissa
+L841@P5: • Telefonia mobile
+L842@P5: • Buoni pasto
+L843@P5: Pari o superiore
+L844@P5: alla soglia
+L845@P5: comunitaria
+L846@P5: Obbligo di ricorso a
+L847@P5: convenzioni Consip.
+L848@P5: In assenza obbligo
+L849@P5: di ricorso ad AQ
+L850@P5: Consip o SDAPA.xxx
+L851@P5: Obbligo di
+L852@P5: ricorso alle
+L853@P5: convenzioni
+L854@P5: delle centrali
+L855@P5: regionali di
+L856@P5: riferimento o, in
+L857@P5: mancanza, di
+L858@P5: Consip.
+L859@P5: In assenza,
+L860@P5: obbligo di
+L861@P5: Obbligo di ricorso a
+L862@P5: convenzioni o AQ di
+L863@P5: Consip o della
+L864@P5: centrale regionale di
+L865@P5: riferimento, oppure a
+L866@P5: SDAPA o sistemi
+L867@P5: telematici di
+L868@P5: negoziazione della
+L869@P5: centrale regionale di
+L870@P5: riferimento.xxxii
+L871@P5: Obbligo di
+L872@P5: ricorso a
+L873@P5: convenzioni
+L874@P5: Consip.
+L875@P5: In assenza
+L876@P5: obbligo di
+L877@P5: ricorso ad AQ
+L878@P5: Consip o
+L879@P5: SDAPA.xxxiii
+L880@P5: Obbligo di
+L881@P5: ricorso a
+L882@P5: convenzioni
+L883@P5: Consip.
+L884@P5: In assenza,
+L885@P5: obbligo di
+L886@P5: ricorso ad AQ
+L887@P5: Consip o
+L888@P5: SDAPA.
+L889@P5: Obbligo di ricorso a
+L890@P5: convenzioni o AQ di
+L891@P5: Consip o della
+L892@P5: centrale regionale di
+L893@P5: riferimento, se
+L894@P5: applicabile, oppure a
+L895@P5: SDAPA o a sistemi
+L896@P5: telematici di
+L897@P5: negoziazione della
+L898@P5: centrale regionale di
+L899@P5: Obbligo per le
+L900@P5: società a totale
+L901@P5: partecipazione
+L902@P5: pubblica inserite
+L903@P5: nel conto ISTAT
+L904@P5: di ricorso a
+L905@P5: convenzioni o
+L906@P5: AQ di Consip o
+L907@P5: della centrale
+L908@P5: regionale di
+L909@P5-6: riferimento, Ultimo aggiornamento: 31/07/2026
+L910@P6: Merceologia Importo Amministrazioni
+L911@P6: statali
+L912@P6: Enti del
+L913@P6: servizio
+L914@P6: sanitario
+L915@P6: nazionale
+L916@P6: Amministrazioni
+L917@P6: territorialii
+L918@P6: Enti
+L919@P6: previdenziali
+L920@P6: e agenzie
+L921@P6: fiscali
+L922@P6: Scuole ed
+L923@P6: università
+L924@P6: Altre
+L925@P6: amministrazioniii
+L926@P6: Organismi di
+L927@P6: diritto
+L928@P6: pubblico,
+L929@P6: società
+L930@P6: pubbliche e
+L931@P6: altre stazioni
+L932@P6: appaltanti
+L933@P6: • Autoveicoli
+L934@P6: (eccetto autobus
+L935@P6: destinati a TPL)
+L936@P6: ricorso a
+L937@P6: strumenti di
+L938@P6: acquisto e
+L939@P6: negoziazione
+L940@P6: telematici messi
+L941@P6: a disposizione
+L942@P6: da Consip o
+L943@P6: dalla centrale
+L944@P6: regionale di
+L945@P6: riferimento.xxxi
+L946@P6: In assenza,
+L947@P6: obbligo di
+L948@P6: ricorso a
+L949@P6: convenzioni o
+L950@P6: AQ della
+L951@P6: centrale
+L952@P6: regionale di
+L953@P6: riferimento se
+L954@P6: applicabile,
+L955@P6: oppure a
+L956@P6: ulteriori
+L957@P6: sistemi
+L958@P6: telematici
+L959@P6: della centrale
+L960@P6: regionale. (Si
+L961@P6: veda nota).xxxiv
+L962@P6: riferimento, se
+L963@P6: applicabile.xxxv
+L964@P6: oppure a
+L965@P6: SDAPA o
+L966@P6: sistemi
+L967@P6: telematici di
+L968@P6: negoziazione o
+L969@P6: della centrale
+L970@P6: regionale di
+L971@P6: riferimento.xxxvi
+L972@P6: Facoltà per gli
+L973@P6: altri odp e le
+L974@P6: altre stazioni
+L975@P6: appaltanti di
+L976@P6: ricorso alle
+L977@P6: convenzioni
+L978@P6: Consip, agli AQ
+L979@P6: Consip e allo
+L980@P6: SDAPA.xxxvii
+L981@P6: Sottosoglia
+L982@P6: comunitaria
+L983@P6: Obbligo di ricorso a
+L984@P6: convenzioni Consip
+L985@P6: o al MePA.
+L986@P6: In assenza obbligo
+L987@P6: di ricorso ad AQ
+L988@P6: Consip o
+L989@P6: SDAPA.xxxviii
+L990@P6: Obbligo di
+L991@P6: ricorso alle
+L992@P6: convenzioni
+L993@P6: delle centrali
+L994@P6: regionali di
+L995@P6: riferimento o, in
+L996@P6: mancanza, di
+L997@P6: Consip.
+L998@P6: In assenza,
+L999@P6: obbligo di
+L1000@P6: ricorso a
+L1001@P6: strumenti di
+L1002@P6: acquisto e
+L1003@P6: negoziazione
+L1004@P6: telematici messi
+L1005@P6: Obbligo di ricorso al
+L1006@P6: MePa o altri mercati
+L1007@P6: elettronici (proprio o
+L1008@P6: della centrale
+L1009@P6: regionale di
+L1010@P6: riferimento) o al
+L1011@P6: sistema telematico
+L1012@P6: della centrale
+L1013@P6: regionale di
+L1014@P6: riferimento ovvero
+L1015@P6: ricorso alle
+L1016@P6: convenzioni Consip.
+L1017@P6: In assenza, obbligo
+L1018@P6: di ricorso ad AQ di
+L1019@P6: Consip o a
+L1020@P6: Obbligo di
+L1021@P6: ricorso alle
+L1022@P6: convenzioni
+L1023@P6: Consip; o al
+L1024@P6: MePA.
+L1025@P6: In assenza
+L1026@P6: obbligo di
+L1027@P6: ricorso ad AQ
+L1028@P6: Consip o
+L1029@P6: SDAPA.xli
+L1030@P6: Obbligo di
+L1031@P6: ricorso alle
+L1032@P6: convenzioni
+L1033@P6: Consip; o al
+L1034@P6: MePA o altri
+L1035@P6: mercati
+L1036@P6: elettronici
+L1037@P6: (proprio o
+L1038@P6: della centrale
+L1039@P6: regionale di
+L1040@P6: riferimento se
+L1041@P6: applicabile) o
+L1042@P6: ad ulteriore
+L1043@P6: sistema
+L1044@P6: telematico
+L1045@P6: della centrale
+L1046@P6: Obbligo di ricorso al
+L1047@P6: MePa o altri mercati
+L1048@P6: elettronici (proprio o
+L1049@P6: della centrale
+L1050@P6: regionale di
+L1051@P6: riferimento se
+L1052@P6: applicabile) o al
+L1053@P6: sistema telematico
+L1054@P6: della centrale
+L1055@P6: regionale di
+L1056@P6: riferimento se
+L1057@P6: applicabile ovvero
+L1058@P6: ricorso alle
+L1059@P6: convenzioni Consip.
+L1060@P6: Obbligo per le
+L1061@P6: società a totale
+L1062@P6: partecipazione
+L1063@P6: pubblica inserite
+L1064@P6: nel conto ISTAT
+L1065@P6: di ricorso a
+L1066@P6: convenzioni o
+L1067@P6: AQ di Consip o
+L1068@P6: della centrale
+L1069@P6: regionale di
+L1070@P6: riferimento,
+L1071@P6: oppure MePA e
+L1072@P6: SDAPA o a
+L1073@P6: sistemi
+L1074@P6: telematici di
+L1075@P6-7: negoziazione o Ultimo aggiornamento: 31/07/2026
+L1076@P7: Merceologia Importo Amministrazioni
+L1077@P7: statali
+L1078@P7: Enti del
+L1079@P7: servizio
+L1080@P7: sanitario
+L1081@P7: nazionale
+L1082@P7: Amministrazioni
+L1083@P7: territorialii
+L1084@P7: Enti
+L1085@P7: previdenziali
+L1086@P7: e agenzie
+L1087@P7: fiscali
+L1088@P7: Scuole ed
+L1089@P7: università
+L1090@P7: Altre
+L1091@P7: amministrazioniii
+L1092@P7: Organismi di
+L1093@P7: diritto
+L1094@P7: pubblico,
+L1095@P7: società
+L1096@P7: pubbliche e
+L1097@P7: altre stazioni
+L1098@P7: appaltanti
+L1099@P7: a disposizione
+L1100@P7: da Consip o
+L1101@P7: dalla centrale
+L1102@P7: regionale di
+L1103@P7: riferimento.xxxix
+L1104@P7: convenzioni o AQ
+L1105@P7: della centrale
+L1106@P7: regionale di
+L1107@P7: riferimento; oppure a
+L1108@P7: SDAPA o sistemi
+L1109@P7: telematici della
+L1110@P7: centrale regionale.xl
+L1111@P7: regionale di
+L1112@P7: riferimento se
+L1113@P7: applicabile
+L1114@P7: In assenza,
+L1115@P7: obbligo di
+L1116@P7: ricorso ad AQ
+L1117@P7: Consip o
+L1118@P7: SDAPA.
+L1119@P7: In assenza,
+L1120@P7: obbligo di
+L1121@P7: ricorso a
+L1122@P7: convenzioni o
+L1123@P7: AQ della
+L1124@P7: centrale
+L1125@P7: regionale di
+L1126@P7: riferimento se
+L1127@P7: applicabile,
+L1128@P7: oppure a
+L1129@P7: ulteriori
+L1130@P7: sistemi
+L1131@P7: telematici
+L1132@P7: della centrale
+L1133@P7: regionale. (Si
+L1134@P7: veda nota).xlii
+L1135@P7: In assenza, obbligo
+L1136@P7: di ricorso ad AQ di
+L1137@P7: Consip o a
+L1138@P7: convenzioni o AQ
+L1139@P7: della centrale
+L1140@P7: regionale di
+L1141@P7: riferimento se
+L1142@P7: applicabile, oppure a
+L1143@P7: SDAPA o sistemi
+L1144@P7: telematici delle
+L1145@P7: centrali regionali.xliii
+L1146@P7: della centrale
+L1147@P7: regionale di
+L1148@P7: riferimento;xliv.
+L1149@P7: Facoltà per gli
+L1150@P7: altri odp e le
+L1151@P7: altre stazioni
+L1152@P7: appaltanti di
+L1153@P7: ricorso al
+L1154@P7: MePA, alle
+L1155@P7: convenzioni
+L1156@P7: Consip, agli AQ
+L1157@P7: Consip e allo
+L1158@P7: SDAPA.
+L1159@P7: Altre merceologie di beni e
+L1160@P7: servizi presenti in
+L1161@P7: strumenti Consip o
+L1162@P7: centrali di acquisto
+L1163@P7: regionale
+L1164@P7: Pari o superiore
+L1165@P7: alla soglia
+L1166@P7: comunitaria
+L1167@P7: Obbligo di ricorso a
+L1168@P7: convenzioni Consip.
+L1169@P7: In assenza obbligo
+L1170@P7: di ricorso ad AQ
+L1171@P7: Consip o SDAPA.
+L1172@P7: (Si veda nota).xlv
+L1173@P7: Obbligo di
+L1174@P7: ricorso alle
+L1175@P7: convenzioni
+L1176@P7: delle centrali
+L1177@P7: regionali di
+L1178@P7: riferimento o, in
+L1179@P7: Facoltà di ricorso
+L1180@P7: alle convenzioni, agli
+L1181@P7: AQ e allo SDAPA
+L1182@P7: Obbligo di
+L1183@P7: ricorso a
+L1184@P7: convenzioni
+L1185@P7: Consip.
+L1186@P7: In assenza
+L1187@P7: obbligo di
+L1188@P7: ricorso ad AQ
+L1189@P7: Obbligo di
+L1190@P7: ricorso a
+L1191@P7: convenzioni
+L1192@P7: Consip.
+L1193@P7: In assenza
+L1194@P7: obbligo di
+L1195@P7: ricorso ad AQ
+

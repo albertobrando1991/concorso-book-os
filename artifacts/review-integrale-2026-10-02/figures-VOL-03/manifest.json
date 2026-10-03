@@ -1,0 +1,772 @@
+[
+  {
+    "n": 1,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/01-mappa-bando-agenzie-fiscali.png",
+    "sha256": "8483b19ec8c456094eb9563bcf4b0606c6b2cb873fe27bbbcf9e3c451244ca5f",
+    "chapter": "Mappa delle Agenzie fiscali e dei profili concorsuali",
+    "alt": "Figura 1.1 - Mappa BANDO delle Agenzie fiscali: dal bando al sottopercorso, fino a output e diario dei rischi.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 2,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/02-perimetro-mfc02-dentro-fuori.png",
+    "sha256": "4e691c0b03e199c2297998c1dad1ba798402d7f36e61c1ebd57191f8b5ebf943",
+    "chapter": "Mappa delle Agenzie fiscali e dei profili concorsuali",
+    "alt": "Figura 1.2 - Perimetro M-FC02: concorsi dentro, fuori e misti da classificare con cautela.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 3,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/03-tre-porte-ae-adm-ader.png",
+    "sha256": "c9a14b49160ff94369aa2893b9d2cfccd27c4b12dc7e36ba86a35e747706027d",
+    "chapter": "Mappa delle Agenzie fiscali e dei profili concorsuali",
+    "alt": "Figura 1.3 - Le tre porte di ingresso: Agenzia delle Entrate, ADM e Agenzia delle Entrate-Riscossione.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 4,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/04-nucleo-comune-delta-fiscale.png",
+    "sha256": "acb582766505798a2e4ece17e3067f27f7f96087ecfd3de47919b479442e53e3",
+    "chapter": "Mappa delle Agenzie fiscali e dei profili concorsuali",
+    "alt": "Figura 1.4 - Nucleo comune più' delta fiscale: dalla base generale alla prova reale.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 5,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-01/05-bando-decoder-fiscale.png",
+    "sha256": "2ce57e12e4d4679ce93ca2cc4858a2ca1f97c03effef152be9d646a020f274d6",
+    "chapter": "Mappa delle Agenzie fiscali e dei profili concorsuali",
+    "alt": "Figura 1.5 - Bando Decoder fiscale: la scheda minima da compilare prima del piano di studio.",
+    "pixels": [
+      1600,
+      1000
+    ]
+  },
+  {
+    "n": 6,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/01-mappa-bando-decoder-fiscale.png",
+    "sha256": "225c2f85059457eedb90d2a9bdc04296a58624c81e27e03924feb72156e80828",
+    "chapter": "Bando Decoder fiscale",
+    "alt": "Figura 2.1 - Mappa BANDO del Decoder fiscale: dal bando AE, ADM o AdER alla scheda operativa con famiglia, priorità, diario e output.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 7,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/02-codice-profilo-famiglia.png",
+    "sha256": "c4b38ff0af962cc663cbba58be60a0e33fafb0e3425aee05549e4d6f3e4bbda9",
+    "chapter": "Bando Decoder fiscale",
+    "alt": "Figura 2.2 - Dal codice profilo alla famiglia M-FC02: ente, sigla e programma vanno letti insieme prima di scegliere materiali e moduli.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 8,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/03-prove-output-decoder.png",
+    "sha256": "8e0e83c3b5a7cf9e7b20675fa4d9e1fcd45fab58f53e942ed14fe095e026e10a",
+    "chapter": "Bando Decoder fiscale",
+    "alt": "Figura 2.3 - Prove e output del Decoder fiscale: la forma della prova decide se allenare quiz, risposte, casi, orale o checklist.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 9,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/04-priorita-studio-fiscale.png",
+    "sha256": "773d4a54a68206399b066e2c8a0fb4b789713083a21e6f0ca9edc5179293afa3",
+    "chapter": "Bando Decoder fiscale",
+    "alt": "Figura 2.4 - Priorità di studio nel bando fiscale: studio subito, studio dopo, verifico sul bando o rinvio ad altro modulo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 10,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-02/05-caso-tre-decoder-fiscali.png",
+    "sha256": "4cbf6b423bdf12cf27bf420ff4dcb253b43282561c4b425b67b5cb23d87c6462",
+    "chapter": "Bando Decoder fiscale",
+    "alt": "Figura 2.5 - Caso guidato dei tre Decoder fiscali: tre bandi richiedono tre letture diverse per AE, ADM e AdER.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 11,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/01-mappa-bando-organizzazione-fiscale.png",
+    "sha256": "dd3730d5e40331a1a7437a60f7ec66cfd5b0635e88df23241cc8bb5a07b9b573",
+    "chapter": "Ordinamento e organizzazione di AE, ADM e AdER",
+    "alt": "Figura 3.1 - Mappa BANDO dell'organizzazione fiscale: dal bando alla risposta orale su ente, funzione, lessico e rischio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 12,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/02-modello-mef-agenzie-fiscali.png",
+    "sha256": "f4d981164c6617a2fee5900e02119fcdd2241ef911da4e079df8a5b6f77b56cd",
+    "chapter": "Ordinamento e organizzazione di AE, ADM e AdER",
+    "alt": "Figura 3.2 - MEF, agenzie fiscali e riscossione: indirizzo e vigilanza non coincidono con le funzioni tecnico-operative.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 13,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/03-tre-funzioni-ae-adm-ader.png",
+    "sha256": "2c6688bea4bbbe6ff4b334993b41c6ecb61024de9953ecb22a7bbbf3316407b8",
+    "chapter": "Ordinamento e organizzazione di AE, ADM e AdER",
+    "alt": "Figura 3.3 - Le tre funzioni da non confondere: AE, ADM e AdER hanno lessici e prove operative diverse.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 14,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/04-centro-territorio-canali.png",
+    "sha256": "75e84e0f3e3c9debb3128e46bec28f09d18468fac0c50696ff9a01e274907509",
+    "chapter": "Ordinamento e organizzazione di AE, ADM e AdER",
+    "alt": "Figura 3.4 - Organizzazione centrale e rete territoriale: il centro coordina e il territorio incontra contribuenti, operatori e debitori.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 15,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-03/05-accertamento-riscossione.png",
+    "sha256": "3a29409f40e08f319e2c1b987cf26b9ba1f587f7697cd7ad56e146a270834238",
+    "chapter": "Ordinamento e organizzazione di AE, ADM e AdER",
+    "alt": "Figura 3.5 - Accertamento e riscossione: due fasi collegate ma diverse, dalla pretesa al pagamento.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 16,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/01-mappa-bando-diritto-tributario.png",
+    "sha256": "cd3ac0c3afaff5963e5afa6305b418325d35bef28b92c5d94e4c3130d114824b",
+    "chapter": "Diritto tributario e teoria dell'imposta",
+    "alt": "Figura 4.1 - Mappa BANDO del diritto tributario: dal programma fiscale alla mappa minima per quiz, orale e casi.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 17,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/02-sequenza-nascita-tributo.png",
+    "sha256": "f368f75f9e3219d18cbfde5d0a999d5b617e1245c1b507e34680a36321d60d99",
+    "chapter": "Diritto tributario e teoria dell'imposta",
+    "alt": "Figura 4.2 - Come nasce e si sviluppa il tributo: sequenza da fatto rilevante ad accertamento e riscossione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 18,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/03-categorie-del-tributo.png",
+    "sha256": "214d9af615a884889e3399addc26ddb4c156f1387b25bc69fae3d4fa7ae9161b",
+    "chapter": "Diritto tributario e teoria dell'imposta",
+    "alt": "Figura 4.3 - Tributo, imposta, tassa e contributo: classificazione minima per evitare sinonimi impropri.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 19,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/04-presupposto-base-aliquota.png",
+    "sha256": "91179a98b484a7e3773843d14fcf023dfd0e4b9a0780ad3b67f77daede886489",
+    "chapter": "Diritto tributario e teoria dell'imposta",
+    "alt": "Figura 4.4 - Presupposto, base imponibile e aliquota: tre domande diverse per non confondere nascita, misura e calcolo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 20,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-04/05-tuir-iva-accertamento-riscossione.png",
+    "sha256": "ddc0441180489ef659abe3c83eb0ce35dabea8e5ee224f55fedbb1a0a33fbec5",
+    "chapter": "Diritto tributario e teoria dell'imposta",
+    "alt": "Figura 4.5 - Dalla teoria alle fonti operative: TUIR, IVA, accertamento e riscossione come mappe diverse dello stesso rapporto.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 21,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/01-mappa-bando-accertamento-compliance.png",
+    "sha256": "63a21d4e043bada7a2edd3a3b428ee23aa666ea6720c07470d324e9fb0c37d7f",
+    "chapter": "Accertamento, controlli e compliance fiscale",
+    "alt": "Figura 5.1 - Mappa BANDO di accertamento e compliance: dal dato alla verifica, alle garanzie e all'output concorsuale.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 22,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/02-sequenza-controllo-accertamento.png",
+    "sha256": "63f4d621496f8555ec6c3ffea8e09fad2babfb6179a4621344de63abbc5b6246",
+    "chapter": "Accertamento, controlli e compliance fiscale",
+    "alt": "Figura 5.2 - Sequenza del controllo fiscale: selezione, istruttoria, contraddittorio, atto e raccordo con la riscossione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 23,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/03-poteri-garanzie-atto.png",
+    "sha256": "e247658d9d7300707ca07efeea4dc90eaeeecdf05a7a3a417892c256cd850e16",
+    "chapter": "Accertamento, controlli e compliance fiscale",
+    "alt": "Figura 5.3 - Poteri, garanzie e atto: ogni attività istruttoria richiede fonte, finalità, competenza e motivazione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 24,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/04-compliance-rischio-fiscale.png",
+    "sha256": "444b6baba60b198fbebd579c7a3e66236bba9d9a1d1e739f05261223c0a85231",
+    "chapter": "Accertamento, controlli e compliance fiscale",
+    "alt": "Figura 5.4 - Compliance e rischio fiscale: prevenzione, anomalie, interlocuzione e correzione tempestiva.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 25,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-05/05-adempimento-collaborativo-tcf.png",
+    "sha256": "eaaae306c1043c319f711a757e9d7ace21115db52a21937279378b99bdbf81dd",
+    "chapter": "Accertamento, controlli e compliance fiscale",
+    "alt": "Figura 5.5 - Adempimento collaborativo e Tax Control Framework: governo del rischio, controlli interni e interlocuzione preventiva.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 26,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/01-mappa-bando-adempimenti-fiscali.png",
+    "sha256": "d5c37c8bc6d670592e54a63617e9c2285ed0d2da3a5d8b7d452a6e4bf63e80a0",
+    "chapter": "Adempimenti fiscali: redditi, IVA, dichiarazioni",
+    "alt": "Figura 6.1 - Mappa BANDO degli adempimenti fiscali: qualificazione, dichiarazione, liquidazione, versamento e controllo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 27,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/02-redditi-iva-due-logiche.png",
+    "sha256": "a838455f10b5b9384eaad84b7faf9f26309c6b5395bdc7436fa35a52c788e123",
+    "chapter": "Adempimenti fiscali: redditi, IVA, dichiarazioni",
+    "alt": "Figura 6.2 - Redditi e IVA seguono due logiche operative diverse, da qualificare prima del calcolo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 28,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/03-flusso-dichiarazione-versamento-controllo.png",
+    "sha256": "e1f01de4774dce7eef2e038bb997253ce43aef808911a9432589769e8ec6ba53",
+    "chapter": "Adempimenti fiscali: redditi, IVA, dichiarazioni",
+    "alt": "Figura 6.3 - Flusso dichiarazione-versamento-controllo: funzioni collegate ma non intercambiabili.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 29,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/04-credito-rimborso-compensazione.png",
+    "sha256": "aad553d360d1acb05e6f397856fb095dee16e301ba0ae1e51dd33b6c4b2d8c78",
+    "chapter": "Adempimenti fiscali: redditi, IVA, dichiarazioni",
+    "alt": "Figura 6.4 - Credito fiscale: riporto, compensazione e rimborso richiedono presupposti e verifiche distinti.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 30,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-06/05-servizi-compliance-controllo.png",
+    "sha256": "0b1b35ca8ccebfe4ddefd62302d4e1f1c09834c3bb1ad703c966acac32a53f59",
+    "chapter": "Adempimenti fiscali: redditi, IVA, dichiarazioni",
+    "alt": "Figura 6.5 - Servizi, compliance e controllo: assistere non significa decidere fuori competenza.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 31,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/01-mappa-bando-riscossione-ader.png",
+    "sha256": "f1389702857b011fe186e40838c6f7c69e0c8c4c6d2a9bfc5a1113b1024a9846",
+    "chapter": "Riscossione nazionale e lavoro in AdER",
+    "alt": "Figura 7.1 - Mappa BANDO della riscossione AdER: credito, titolo, carico, pagamento, tutela e servizio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 32,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/02-accertamento-riscossione-distinti.png",
+    "sha256": "a18f181f7a5592650aa73245ede8b503267b4c65188ad996c5a55ad6c6d143d2",
+    "chapter": "Riscossione nazionale e lavoro in AdER",
+    "alt": "Figura 7.2 - Accertamento e riscossione sono fasi collegate ma distinte per funzione, atto e competenza.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 33,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/03-flusso-riscossione-nazionale.png",
+    "sha256": "81c2f11df25b0df04270c30d4ebb881ea44454991eb46c9e996a3cd99ce05e3a",
+    "chapter": "Riscossione nazionale e lavoro in AdER",
+    "alt": "Figura 7.3 - Flusso della riscossione nazionale: ente creditore, ruolo o titolo esecutivo, affidamento, pagamento e recupero.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 34,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/04-cartella-rateizzazione-sospensione.png",
+    "sha256": "ae655c36873ffde3f43c40c9a0838e1201f2b3e747de002b88f462d20b5ca44e",
+    "chapter": "Riscossione nazionale e lavoro in AdER",
+    "alt": "Figura 7.4 - Cartella, rateizzazione e sospensione: effetti e competenze devono restare distinti.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 35,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-07/05-front-office-ader-checklist.png",
+    "sha256": "f10319039de3bb9a3d4d8b733075fd398ac50a745e3145a7b0b68d918231a347",
+    "chapter": "Riscossione nazionale e lavoro in AdER",
+    "alt": "Figura 7.5 - Checklist del front-office AdER: identità, atto, ente creditore, posizione, competenza, canale e tracciabilità.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 36,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/01-mappa-bando-dogane-adm.png",
+    "sha256": "d3803c93d1b946adf54edb311d1c4f98a65f2e3176c4c3c7bbad519a6f218a65",
+    "chapter": "Dogane e procedure doganali ADM",
+    "alt": "Figura 8.1 - Mappa BANDO delle dogane ADM: fonti, merci, dichiarazione, triade tecnica, regimi, controlli e lavoro.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 37,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/02-flusso-procedura-doganale.png",
+    "sha256": "c0df739ac970e7dfe57464126262172a2644e6a87cf3675f2271dc6681464dd4",
+    "chapter": "Dogane e procedure doganali ADM",
+    "alt": "Figura 8.2 - Flusso della procedura doganale: dall'arrivo e presentazione alla dichiarazione, al controllo, allo svincolo e alla verifica successiva.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 38,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/03-triade-classificazione-origine-valore.png",
+    "sha256": "66c754a2cfc22db67171aa0280856a1854129982aaa2a155fe3e9db981d2f4e1",
+    "chapter": "Dogane e procedure doganali ADM",
+    "alt": "Figura 8.3 - La triade tecnica doganale: classificazione, origine e valore rispondono a domande diverse e producono effetti distinti.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 39,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/04-controlli-doganali-rischio-aeo.png",
+    "sha256": "335cae929e8ddce7b81ea06bde46c5f4136b3d0c01bf29931c4adf997ae05b0b",
+    "chapter": "Dogane e procedure doganali ADM",
+    "alt": "Figura 8.4 - Controlli doganali, analisi del rischio e AEO: affidabilità e facilitazioni non eliminano le verifiche.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 40,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-08/05-checklist-dichiarazione-doganale.png",
+    "sha256": "3ebc4eea833cdeceebd9c321f1327e0f57bb4b4d5023d98e62db2717e61c541b",
+    "chapter": "Dogane e procedure doganali ADM",
+    "alt": "Figura 8.5 - Checklist della dichiarazione doganale: soggetto, merce, triade tecnica, regime, documenti e rischio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 41,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/01-mappa-bando-accise-giochi-monopoli.png",
+    "sha256": "071f58cd68df4a856bf19bb62c97e959523c957200de8a938645152d0cae634a",
+    "chapter": "Accise, giochi e monopoli",
+    "alt": "Figura 9.1 - Mappa BANDO di accise, giochi e monopoli: fonti, prodotti, soggetti, titoli, flussi e controlli.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 42,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/02-filiera-accise-regime-sospensivo.png",
+    "sha256": "471a6cbd6a8a3cafecad64803ea6b69639590d430fa050139a20fae1f1d30cb8",
+    "chapter": "Accise, giochi e monopoli",
+    "alt": "Figura 9.2 - Filiera delle accise e regime sospensivo: deposito, soggetti, e-AD, ricevimento, appuramento e immissione in consumo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 43,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/03-prodotti-giochi-monopoli-adm.png",
+    "sha256": "8e6723d4cc8f8c0f7ede79d0e9622341234c7daf5a6256c39f132c5602836e1e",
+    "chapter": "Accise, giochi e monopoli",
+    "alt": "Figura 9.3 - Prodotti, giochi e monopoli ADM: famiglie regolate, titoli, dati e controlli da non confondere.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 44,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/04-controlli-adm-filiere-regolate.png",
+    "sha256": "6a21a6f93be8190ba47995daf0adff44fdb44badb45d05abe5cac49bfc958495",
+    "chapter": "Accise, giochi e monopoli",
+    "alt": "Figura 9.4 - Controlli ADM nelle filiere regolate: titolo, documenti, dati, riscontro fisico, tutela e verbalizzazione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 45,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-09/05-checklist-accise-giochi-monopoli.png",
+    "sha256": "e71eae8d1e337bc4cc89e4e3e727e5ddde0b698a03d1b7e687051f69aef8084d",
+    "chapter": "Accise, giochi e monopoli",
+    "alt": "Figura 9.5 - Checklist accise, giochi e monopoli: materia, prodotto, titolo, documenti, controllo e cautela sulle sanzioni.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 46,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/01-mappa-bando-territorio-spi.png",
+    "sha256": "696f18b11381f060e75f96f84b3651738589d5e7469c4b0ad01cb903266e415c",
+    "chapter": "Catasto, cartografia, estimo e pubblicita immobiliare",
+    "alt": "Figura 10.1 - Mappa BANDO Territorio e SPI: catasto, cartografia, estimo, OMI e pubblicità immobiliare come mappa da concorso.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 47,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/02-sistema-catasto-cartografia-estimo-spi.png",
+    "sha256": "64243bfaf29fea9e8cee2876263d7b3363d8dedcf3afe71614a7d3dd9e5253c1",
+    "chapter": "Catasto, cartografia, estimo e pubblicita immobiliare",
+    "alt": "Figura 10.2 - Sistema Territorio Agenzia Entrate: identificare, rappresentare, valutare e rendere conoscibili le vicende immobiliari.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 48,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/03-identificativo-classamento-rendita.png",
+    "sha256": "ee2f36845e1b4ffd13c6e96ecef6c939511a65371522544011ce69cec9e907d7",
+    "chapter": "Catasto, cartografia, estimo e pubblicita immobiliare",
+    "alt": "Figura 10.3 - Identificativo, classamento e rendita: dal Comune al subalterno, poi categoria, classe, consistenza e rendita catastale.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 49,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/04-servizi-procedure-territorio.png",
+    "sha256": "d1d33e5b5ff137477457978e5a28f90393f7ee8d068f17a24dcbd04f9613633c",
+    "chapter": "Catasto, cartografia, estimo e pubblicita immobiliare",
+    "alt": "Figura 10.4 - Servizi e procedure del Territorio: visura, planimetria, voltura, rettifica, cartografia, ispezione e OMI.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 50,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-10/05-checklist-catasto-pubblicita-immobiliare.png",
+    "sha256": "1559886387296e15f4777eea580f0fe839dfca6ea4984a66296eda0cc3cbe1cf",
+    "chapter": "Catasto, cartografia, estimo e pubblicita immobiliare",
+    "alt": "Figura 10.5 - Checklist Catasto e pubblicità immobiliare: dato, mappa, valore e formalita vanno separati prima di rispondere.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 51,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/01-mappa-bando-bilancio-fisco.png",
+    "sha256": "28931708b95d3ffa26f24dec9cd4645b273532e43f1635df42eb0ba3e57a299e",
+    "chapter": "Contabilita aziendale ed economia d'impresa per il fisco",
+    "alt": "Figura 11.1 - Mappa BANDO Bilancio e fisco: dal bando alla risposta su bilancio, scritture, errori e mini-casi.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 52,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/02-bilancio-quattro-documenti.png",
+    "sha256": "67bef6fa7d9522f13e0ac3e8e6144458c3436696c7422ebd790ba6d4677b71a2",
+    "chapter": "Contabilita aziendale ed economia d'impresa per il fisco",
+    "alt": "Figura 11.2 - Bilancio d'esercizio in quattro documenti: stato patrimoniale, conto economico, rendiconto e nota integrativa.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 53,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/03-ricavi-costi-incassi-pagamenti.png",
+    "sha256": "1f914a05e003b77dbc5e4f5700dbadfd4f11a85ec8f7cb22db0e0532c162eb95",
+    "chapter": "Contabilita aziendale ed economia d'impresa per il fisco",
+    "alt": "Figura 11.3 - Ricavi, costi, incassi e pagamenti: competenza economica e flussi monetari non coincidono sempre.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 54,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/04-utile-reddito-imposta.png",
+    "sha256": "b21b1ac114e34159be113318cc3bf65676b5aa599eb2c464073ad1eb934de307",
+    "chapter": "Contabilita aziendale ed economia d'impresa per il fisco",
+    "alt": "Figura 11.4 - Utile, reddito fiscale e imposta: tre piani collegati ma distinti tra bilancio, regole tributarie e dichiarazione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 55,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-11/05-checklist-bilancio-fisco.png",
+    "sha256": "17c55914bf2d6f707978644053fb2892e364e6a76ebb62858cd47a54fa54b4ca",
+    "chapter": "Contabilita aziendale ed economia d'impresa per il fisco",
+    "alt": "Figura 11.5 - Checklist Bilancio-Fisco: separare documento, grandezza, piano fiscale, errore e output prima di rispondere.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 56,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/01-mappa-bando-civile-commerciale.png",
+    "sha256": "d595cf4afa4e73885247aea85f429a264294e37dd7f8db9e25335993784dfb2e",
+    "chapter": "Civile e commerciale applicati a fisco, dogane e riscossione",
+    "alt": "Figura 12.1 - Mappa BANDO del diritto civile e commerciale applicato: dal programma alla qualificazione del caso e alla risposta d'esame.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 57,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/02-credito-debito-piani-giuridici.png",
+    "sha256": "b4445c916c6e24c441fe650271af25a203201538ae8efb1375b6279208b846b7",
+    "chapter": "Civile e commerciale applicati a fisco, dogane e riscossione",
+    "alt": "Figura 12.2 - Credito e debito sui diversi piani: rapporto civilistico, rappresentazione contabile e conseguenze tributarie devono essere ricostruiti separatamente.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 58,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/03-contratto-fattura-pagamento.png",
+    "sha256": "bf4b29e3a154c97543402d3e2812c444d01b2edff76b265f7428c5a5c0daf42b",
+    "chapter": "Civile e commerciale applicati a fisco, dogane e riscossione",
+    "alt": "Figura 12.3 - Contratto, fattura e pagamento: tre documenti o fatti collegati, ma non sovrapponibili nella ricostruzione dell'operazione.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 59,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/04-impresa-societa-applicazioni-agenzie.png",
+    "sha256": "66019cd7ebd1bd5fded2fb5aba9abbd7271542d98a48eb6a2b68189e013019d2",
+    "chapter": "Civile e commerciale applicati a fisco, dogane e riscossione",
+    "alt": "Figura 12.4 - Impresa, società e applicazioni alle Agenzie: soggetto, attività, patrimonio e disciplina pubblicistica vanno tenuti distinti.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 60,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-12/05-checklist-civile-commerciale-fisco.png",
+    "sha256": "791ab9864acbe9cb3a31481bd0bedcbc04d2b4770447617d0d408575094e2c1e",
+    "chapter": "Civile e commerciale applicati a fisco, dogane e riscossione",
+    "alt": "Figura 12.5 - Checklist civile-commerciale per i casi fiscali: soggetto, titolo, poteri, patrimonio, documento e disciplina speciale.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 61,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/01-mappa-bando-performance-finale.png",
+    "sha256": "f87d84975b7dd61557dc5f81f3a858595d19fb9123a08f72d2124ce67d73520d",
+    "chapter": "Casi pratici, quiz e orale nelle Agenzie fiscali",
+    "alt": "Figura 13.1 - Mappa BANDO della prestazione finale: dal bando agli output, tra quiz, caso, orale, diario errori e piano.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 62,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/02-quiz-quattro-mosse-parole-spia.png",
+    "sha256": "d29637208ae3f93c05b05739b4421fbf691d01b6d1424ee59122b9c621becbcc",
+    "chapter": "Casi pratici, quiz e orale nelle Agenzie fiscali",
+    "alt": "Figura 13.2 - Quiz M-FC02 in quattro mosse: lettura, esclusione, scelta e controllo delle parole-spia prima della risposta.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 63,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/03-casi-ae-adm-ader-griglia.png",
+    "sha256": "6945c1a8e05bd5412bb0e21009acbf4b46e9c6518c2b8b3b8097bc5c96cd1241",
+    "chapter": "Casi pratici, quiz e orale nelle Agenzie fiscali",
+    "alt": "Figura 13.3 - Casi pratici AE, ADM e AdER: una griglia unica per separare fatto, soggetti, materia, sequenza e output.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 64,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/04-orale-90-secondi-domande-trappola.png",
+    "sha256": "3a04df9ddefc7608454acff5c6740f3cf771bc282f675f563f7fc05e16a07b57",
+    "chapter": "Casi pratici, quiz e orale nelle Agenzie fiscali",
+    "alt": "Figura 13.4 - Risposta orale da 90 secondi: definizione, funzione, soggetti, sequenza, esempio e limite per non divagare.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 65,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-13/05-simulazione-diario-piano-30-60-90.png",
+    "sha256": "b8b1a1f6856bff45ce07f1dcc341c2a2e4d927c9e5314a13aa34b87be19f2eae",
+    "chapter": "Casi pratici, quiz e orale nelle Agenzie fiscali",
+    "alt": "Figura 13.5 - Simulazione, diario e piano 30/60/90: la prova finale produce dati, correzioni e priorità di studio.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 66,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/01-mappa-bando-appendici-operative.png",
+    "sha256": "556f09935e821cd34d28a3f8d727dc2d4fb95a182be762f9f01919853fce138c",
+    "chapter": "Appendici operative",
+    "alt": "Figura 14.1 - Mappa BANDO delle appendici: allerta del bando, glossario, strumenti e output si collegano in un unico percorso operativo.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 67,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/05-allerta-bando-glossario-output.png",
+    "sha256": "38c60bed5fab0772f6c08a7bce2fdd9f61ba7beb8e72abdd14778ecb3b569b7e",
+    "chapter": "Appendici operative",
+    "alt": "Figura 14.2 - Dall'allerta del bando all'output: il glossario e gli strumenti servono a decidere che cosa studiare, dove e con quale prova.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 68,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/04-front-office-privacy-protocollo.png",
+    "sha256": "3c867d8bbadb592bc59f6700a1cae5b510391d69826e45158abd6cfdd1396d01",
+    "chapter": "Appendici operative",
+    "alt": "Figura 14.3 - Protocollo front-office e privacy: identificazione, competenza, minimizzazione, canale, tracciabilità ed escalation.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 69,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/02-reati-sanzioni-condotte-rischio.png",
+    "sha256": "7bcec3c6e92c35c12a0879369cf633dca6d884b1eef7428493bbe3a7c042a570",
+    "chapter": "Appendici operative",
+    "alt": "Figura 14.4 - Reati, sanzioni, condotte e rischio: una mappa per separare recupero, illecito amministrativo, fattispecie penale e tutela.",
+    "pixels": [
+      1600,
+      900
+    ]
+  },
+  {
+    "n": 70,
+    "file": "wiki/books/moduli/m-fc02-agenzie-fiscali/assets/chapter-14/03-diritto-ue-doganale-mappa-operativa.png",
+    "sha256": "a043a03ef8cea9f2526cf6fe9abc6e1b7890b17ee93e0d755ca5dc022cb3d969",
+    "chapter": "Appendici operative",
+    "alt": "Figura 14.5 - Diritto UE fiscale e doganale: fonte, ambito, regola unionale e raccordo nazionale nella sequenza operativa.",
+    "pixels": [
+      1600,
+      900
+    ]
+  }
+]

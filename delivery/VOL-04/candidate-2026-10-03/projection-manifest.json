@@ -1,0 +1,325 @@
+{
+  "scope": "Only FM1 and FM3 blocks, title and path; source files and renderer unchanged",
+  "createdAt": "2026-10-03T11:50:19.435Z",
+  "changes": [
+    {
+      "id": "FM1",
+      "before": {
+        "path": "books/volumi/vol-04/front-matter/fm1-servizi-digitali-inclusi.md",
+        "title": "Servizi digitali inclusi",
+        "outlineSection": "FM1",
+        "bookScope": "main",
+        "sectionType": "front_matter",
+        "frontMatterLayout": "digital-services",
+        "indexDetail": "",
+        "status": "generated",
+        "draftStage": "generated-volume-layout",
+        "reviewRequired": false,
+        "isGenerated": true,
+        "topics": [],
+        "sourceRefs": [],
+        "wordCount": 104,
+        "contentState": "written",
+        "blocks": [
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Servizi digitali inclusi"
+          },
+          {
+            "type": "paragraph",
+            "text": "Questo volume (VOL-04) è collegato ai servizi digitali Capitale Personale: aggiornamenti operativi, schede compilabili, planner, Bando Decoder e materiali di lavoro collegati ai moduli interni."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Cosa aggiunge il digitale"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Servizio",
+              "Funzione"
+            ],
+            "rows": [
+              [
+                "Bando Decoder",
+                "Trasforma il bando in piano di studio e priorità."
+              ],
+              [
+                "Planner",
+                "Organizza tempi, prove, ripassi e simulazioni."
+              ]
+            ],
+            "continued": false
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Servizio",
+              "Funzione"
+            ],
+            "rows": [
+              [
+                "Schede modulo",
+                "Adatta il Metodo BANDO alla famiglia concorsuale del volume."
+              ],
+              [
+                "Aggiornamenti",
+                "Aiuta a controllare sulle fonti ufficiali le novità rilevanti per il bando e per la prova."
+              ]
+            ],
+            "continued": true
+          },
+          {
+            "type": "callout",
+            "calloutType": "tip",
+            "title": "BANDO in pratica",
+            "text": "Il volume resta utilizzabile anche senza piattaforma: il digitale accelera compilazione, verifica e aggiornamento, ma non sostituisce il libro."
+          }
+        ]
+      },
+      "after": {
+        "path": "books/vol-04-giustizia-upp/front-matter/01-servizi-digitali.md",
+        "title": "Risorse digitali e aggiornamenti",
+        "outlineSection": "FM1",
+        "bookScope": "main",
+        "sectionType": "front_matter",
+        "frontMatterLayout": "digital-services",
+        "indexDetail": "",
+        "status": "generated",
+        "draftStage": "generated-volume-layout",
+        "reviewRequired": false,
+        "isGenerated": true,
+        "topics": [],
+        "sourceRefs": [],
+        "wordCount": 104,
+        "contentState": "written",
+        "blocks": [
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Risorse digitali e aggiornamenti"
+          },
+          {
+            "type": "paragraph",
+            "text": "Il volume contiene spiegazioni, esercizi e soluzioni del percorso specialistico dichiarato nell'indice. Presuppone le basi comuni richiamate nella premessa; appendici e simulazioni si svolgono senza servizi digitali aggiuntivi. Le informazioni soggette a cambiamento devono essere ricontrollate sulle fonti ufficiali indicate nel testo."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Come verificare gli aggiornamenti"
+          },
+          {
+            "type": "list",
+            "items": [
+              "usa Gazzetta Ufficiale e Normattiva per testi e vigenza degli atti;",
+              "usa i siti istituzionali del Ministero della giustizia e del Portale dei Servizi Telematici per organizzazione, servizi e avvisi;",
+              "usa il bando, gli allegati e le comunicazioni dell'amministrazione per requisiti, prove e calendario;",
+              "annota nel diario degli errori la fonte e la data dell'ultimo controllo."
+            ],
+            "ordered": false
+          },
+          {
+            "type": "paragraph",
+            "text": "Un eventuale servizio digitale collegato all'opera sarà indicato solo quando sarà disponibile un indirizzo verificato. Questa edizione non richiede un QR code per utilizzare appendici, strumenti o simulazioni."
+          }
+        ]
+      },
+      "allowedFields": [
+        "blocks",
+        "title",
+        "path"
+      ]
+    },
+    {
+      "id": "FM3",
+      "before": {
+        "path": "books/volumi/vol-04/front-matter/fm3-copyright-e-note-editoriali.md",
+        "title": "Copyright e note editoriali",
+        "outlineSection": "FM3",
+        "bookScope": "main",
+        "sectionType": "front_matter",
+        "frontMatterLayout": "copyright",
+        "indexDetail": "",
+        "status": "generated",
+        "draftStage": "generated-volume-layout",
+        "reviewRequired": false,
+        "isGenerated": true,
+        "topics": [],
+        "sourceRefs": [],
+        "wordCount": 89,
+        "contentState": "written",
+        "blocks": [
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Copyright e note editoriali"
+          },
+          {
+            "type": "paragraph",
+            "text": "Questo volume appartiene alla linea ConcorsoBook OS / Capitale Personale ed è costruito come libro-workbook per la preparazione ai concorsi pubblici italiani."
+          },
+          {
+            "type": "paragraph",
+            "text": "Per la tua candidatura controlla sempre il bando, gli allegati e gli avvisi ufficiali della procedura. Per l’uso professionale verifica le disposizioni vigenti e le regole applicabili al caso concreto."
+          },
+          {
+            "type": "paragraph",
+            "text": "Il volume non promette copertura totale di ogni bando, né aggiornamento automatico: offre un metodo riusabile, una struttura modulare e strumenti di lavoro collegati al perimetro editoriale dichiarato."
+          },
+          {
+            "type": "paragraph",
+            "text": "Perimetro volume: Giustizia e UPP."
+          }
+        ]
+      },
+      "after": {
+        "path": "books/vol-04-giustizia-upp/front-matter/03-copyright-colophon.md",
+        "title": "Copyright e note editoriali",
+        "outlineSection": "FM3",
+        "bookScope": "main",
+        "sectionType": "front_matter",
+        "frontMatterLayout": "copyright",
+        "indexDetail": "",
+        "status": "generated",
+        "draftStage": "generated-volume-layout",
+        "reviewRequired": false,
+        "isGenerated": true,
+        "topics": [],
+        "sourceRefs": [],
+        "wordCount": 89,
+        "contentState": "written",
+        "blocks": [
+          {
+            "type": "heading",
+            "level": 1,
+            "text": "Copyright e note editoriali"
+          },
+          {
+            "type": "paragraph",
+            "text": "Il presente volume è un'opera editoriale di preparazione ai concorsi pubblici. Le fonti normative, contrattuali, amministrative e giurisprudenziali sono richiamate a fini di studio e commento, con taglio didattico e operativo."
+          },
+          {
+            "type": "paragraph",
+            "text": "Le informazioni sono state elaborate sulla base di fonti ufficiali e materiali istituzionali disponibili alla data di aggiornamento indicata nel volume. Prima dell'utilizzo professionale o della partecipazione a una prova concorsuale, il candidato deve verificare il bando, gli allegati, le rettifiche, le comunicazioni ufficiali e il testo vigente delle disposizioni richiamate."
+          },
+          {
+            "type": "paragraph",
+            "text": "Il libro non sostituisce la consultazione delle fonti ufficiali, né costituisce parere legale. Per importi, termini, allegati tecnici, modelli, istruzioni ministeriali e decorrenze del processo telematico, la verifica sulla fonte vigente è parte integrante del metodo di studio."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Cura editoriale"
+          },
+          {
+            "type": "paragraph",
+            "text": "Il volume è progettato secondo il Metodo BANDO: lettura del bando, analisi delle materie, navigazione delle fonti, diario errori, output operativi e simulazione. La redazione evita duplicazioni con il libro base e sviluppa il solo delta specialistico del sistema Giustizia."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Dati dell'edizione"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Marchio editoriale: Capitale Personale.",
+              "Edizione revisionata: ottobre 2026.",
+              "Cut-off normativo: 3 ottobre 2026.",
+              "Formato interno cartaceo: 6,69 × 9,61 pollici."
+            ],
+            "ordered": false
+          }
+        ]
+      },
+      "allowedFields": [
+        "blocks",
+        "title",
+        "path"
+      ]
+    }
+  ],
+  "sourceHashes": [
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/01-servizi-digitali.md",
+      "sha256": "4cefbfc724f5cae3ac7d9276ddb46ad0f2e084ce80f7b35636b20b4ece21e01f"
+    },
+    {
+      "path": "wiki/books/vol-04-giustizia-upp/front-matter/03-copyright-colophon.md",
+      "sha256": "72901aa9d5f5a81d2cb83f0f782f88c4ba32b9cceacbd3e57acc3f7cecab1894"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md",
+      "sha256": "469ed0d438687f9e956814b0c087fa457df3ad34185419c67f8d3171047d7cdd"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+      "sha256": "91c747f47587362a5134cf42f234a993028c4e7e103a98fa9fafcef4e5ad2568"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md",
+      "sha256": "d113f8f767378f06ce9964bf5f44e1e45a88ce393a4c95f05aa8a4d85ce42f43"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md",
+      "sha256": "7e2f58883bdb0c9fb5c8a8df2fe9e9ae1ce4efd3a86cefa60800ed8147ea66bc"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md",
+      "sha256": "29d339ce06399c5e90fc53aab28b0d8525f547b98e2c0169b1952fb9f9e4109d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md",
+      "sha256": "7cd2ad8ef2e904298bbf6788126f6fff57d36abb829a1afcbdab8478541e9045"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md",
+      "sha256": "84ef8199d7e610fe9c18e632a5d0c833c44a04a68838cdfc17930d9023c10e35"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md",
+      "sha256": "5cb869377c5d55ce4d68c1ebc0e5b073d693e666e022987109097fefb56608d3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md",
+      "sha256": "b882a68ac7debefbcbb35749141d35a1278be6e26b284526cb57655beeea51e9"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md",
+      "sha256": "114a33658771a5a235977dcbbc75ad4cf551ede64eb05e155f40eae412b1792b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md",
+      "sha256": "7557b20cc317fafd8471acc98f46278a23247e4d7127a12b90cb47052a279d22"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md",
+      "sha256": "d6bad799c375b0c10b97c078d7b6bdad3b2acfc65c9348dfc250152ca2a2df6e"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md",
+      "sha256": "50d2935404aa85e19cee0cd040500a489f4e77bc193ecb147c22ab7dd0655571"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md",
+      "sha256": "cddf2451f9c058bfe0f039dc38ef75b2c28ddadf95fc6624ea0d699748ce1094"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md",
+      "sha256": "686163ad2c8edf18d540c23099e7b1dbbecc4f029424b5f2cf4fcdae7dc77601"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md",
+      "sha256": "6f3d5dd845e81120dde9d117f2cf08d968b241b55de917f2c14156c8bb84852b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md",
+      "sha256": "0aabb6f7badd4453f53f043bccf05a875d5cc173d1c0cf13ac035bb005af23be"
+    }
+  ],
+  "unchangedChapters": 22,
+  "sourcePayloadSha256": "8dc1a0696ac8d899610f86d18165b07c341044a32fb5688c5234c19cf9f18737",
+  "projectedPayloadSha256": "07d31f54071109ebe4756b95c4e8d66ea8b0c456584ee5c8840c182a6471ee0a"
+}

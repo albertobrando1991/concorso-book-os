@@ -1,0 +1,642 @@
+{
+  "volume": "VOL-11",
+  "date": "2026-10-03",
+  "pdfSha256": "eb67bedb161968004879438a2dad8ce37d86f4deb7d53d40f7e8db9d2c41b425",
+  "finalSignoff": false,
+  "files": [
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-11-cover.pdf",
+      "bytes": 149936,
+      "sha256": "f883bd14dc456dea4461146fb7012b6343603745f402b9fc8612c7cec2208849"
+    },
+    {
+      "path": "dom-metrics.json",
+      "bytes": 699337,
+      "sha256": "1f6133f66ac37757027c958c9fe205503f1bb3244c1706b1e7ebdaa1fc8d6b97"
+    },
+    {
+      "path": "index-subentries.json",
+      "bytes": 15466,
+      "sha256": "b0e3c9af1acfd8de524131d78b058320e136ac3ecd2a4828ef02b11d033ec0d7"
+    },
+    {
+      "path": "page-ledger.json",
+      "bytes": 108461,
+      "sha256": "069be47c590d7a7f115bd04debe979bfa714092de16b6aa26d3704d9965dcfec"
+    },
+    {
+      "path": "payload.json",
+      "bytes": 765182,
+      "sha256": "14a45e0eb09c343ff51316f932f4e2f205d932b94a21844a986fb3b0fda0cb4c"
+    },
+    {
+      "path": "pdf-geometry.json",
+      "bytes": 37120,
+      "sha256": "24432d81aa0dd2a726bb811717f3a9b6977dfc89886ca0b17e5a864e8264a017"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1923,
+      "sha256": "bfa97c86a19620a4c6ea549edf701d6abfe4b3ef081997835cb21208123d0473"
+    },
+    {
+      "path": "render-comparison.json",
+      "bytes": 62822,
+      "sha256": "1e08a87db43c5938843b3c6121093ae81158ca2e2a11a2bdb9a4ca7d95d8b790"
+    },
+    {
+      "path": "renderer-source-hashes.json",
+      "bytes": 1428,
+      "sha256": "9647ea01c1e333aeee481996057d992e77a69f6066c59abab6cc59d7e602faa7"
+    },
+    {
+      "path": "reports/M-TR04-freeze.json",
+      "bytes": 11512,
+      "sha256": "7586b4408a7b07ec81258b8d35e48896d97fb2da6f528c4a66678d947f24794e"
+    },
+    {
+      "path": "reports/PDF-VOL-11.md",
+      "bytes": 5738,
+      "sha256": "14625273c3dd5d573b2e363257729ef28ed136031ffe5d7c94e204300f7ff9f2"
+    },
+    {
+      "path": "reports/VOL-11-ledger.json",
+      "bytes": 38329,
+      "sha256": "1722a8ba00581b30a2126455ea1c2bab940669dbe5b60c67e6c64220d606c779"
+    },
+    {
+      "path": "reports/VOL-11-production-delta.json",
+      "bytes": 2625,
+      "sha256": "fe6f1dab8776266701475e7e40b34b412933d759dfc9f9b2f7440ee953f1072a"
+    },
+    {
+      "path": "reports/VOL-11.md",
+      "bytes": 23550,
+      "sha256": "5da4a88e5ee15eeb0855dddf126f3adbf146f36ef34b9579f257ecf14ed07e8f"
+    },
+    {
+      "path": "reproduction/export-frozen.mjs",
+      "bytes": 4493,
+      "sha256": "127524eb69e447d56e70507a96596dab6f895d2b529f9e6422c08c0f30abdd5b"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "bytes": 33748,
+      "sha256": "e6a90ca41609999535e75610d5f63aec2e0e66a27891758ad991915fcdb0f1ed"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "bytes": 37256,
+      "sha256": "567cc1ba7270b0f8bc6026e28697ee719cb55f56cdd9117e7e13a1036a78e8b6"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "bytes": 44189,
+      "sha256": "825ad25c4c1716eca85ec911dc0a45b772507419fbda0d6dca2e9af379445ede"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "bytes": 39779,
+      "sha256": "18040fc69e3e1d13a6b8450b0a39c84ed7b852f3a717fe0dcd602a4ddf3ee840"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "bytes": 43037,
+      "sha256": "7dd7437328f8b37fb043d70bb741aa4ad031bb4c19a08bc67a50c1db82ea78ae"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "bytes": 47394,
+      "sha256": "f86c41aac568e56591382ca6c4a3269adc680e56def3ca7be7fa175cdd251d91"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "bytes": 47994,
+      "sha256": "b4bf7d8d0a1c5e794f71d8df87844a150744b4b361a5f0edf15d93e7aa1de40c"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "bytes": 44880,
+      "sha256": "041645664116fc6d2f59e9321bc591828d4444af396f587c7c16b4d4d06683b9"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "bytes": 51507,
+      "sha256": "7984408a25d54bda801b760c5b59b5d2a8a3f375d7277a437ee240574153ef2c"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "bytes": 48913,
+      "sha256": "82f439710a5848166078e2e51d17925434830eafd5c2dd01bf8160407c2be657"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "bytes": 48791,
+      "sha256": "2ec9ad2b1bac459d80ad394a475cb9b93d88252d444d055a2cb7c90e35e2a131"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "bytes": 58704,
+      "sha256": "5b7a6654bcce48b481e4c8ea07a741536fd942def9f3393227e91ebcf26c9586"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "bytes": 53595,
+      "sha256": "79223b82b1abfa10bd4307ddca2caef65a4aaa9b1abbde5bf53f382a061fdc04"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "bytes": 54638,
+      "sha256": "df28db81cc3ee59f3614c16bc45336049081228f394a9820abcbe58471b97275"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/index.md",
+      "bytes": 3358,
+      "sha256": "ee5d37867817a1a32e23bef4fc5752ba6cd5ace7fc67ac9ad7fb8ce0f6c669a6"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11.md",
+      "bytes": 4136,
+      "sha256": "43c6149a135a6f4030e72313bfaf49ed41a9767674f39aa5254edc15611e7f3d"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/02-matrice-copertura-didattica.md",
+      "bytes": 39281,
+      "sha256": "a851b2e2ef2d3151a397b6937570ed5617b62d0cb9619907d2a737175e73e799"
+    },
+    {
+      "path": "snapshot/wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/17-bibbia-del-modulo.md",
+      "bytes": 11179,
+      "sha256": "f1d2b37dbd555093e27bbd57cc5bf81c096be90055dde673ae6fbcdbb50e7079"
+    },
+    {
+      "path": "snapshot/wiki/books/volumi/vol-11-ambiente-protezione-civile-sostenibilita/index.md",
+      "bytes": 3010,
+      "sha256": "449d764c63d0a2094f04a531e86f18835b5cfd566b41dd931276e8d4e4d49d9d"
+    },
+    {
+      "path": "snapshot/wiki/sources/acque-scarichi-servizio-idrico-quadro-ufficiale-2026.md",
+      "bytes": 6275,
+      "sha256": "9518fd6dbddd007d14b6abae15041c49e39cb034908f0cf6ad700ae9155c75a5"
+    },
+    {
+      "path": "snapshot/wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md",
+      "bytes": 4013,
+      "sha256": "f90b069c2904e90ba77038eadd7f16c5b87ed2b2fea87df1527b13d621ce1a35"
+    },
+    {
+      "path": "snapshot/wiki/sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026.md",
+      "bytes": 12454,
+      "sha256": "3eb57385530bb598af9ac4b6d12f5f9510101173e9402a98426600b222d97df0"
+    },
+    {
+      "path": "snapshot/wiki/sources/ambiente-controlli-locali-d-lgs-152-2006.md",
+      "bytes": 2899,
+      "sha256": "8fe1c0b56ce066671cf180cd7f72ae694d51064a08f2ca68135a47ab1c72f7af"
+    },
+    {
+      "path": "snapshot/wiki/sources/apprendimento-efficace-active-recall-ripasso-distribuito.md",
+      "bytes": 3559,
+      "sha256": "a1d264559635b8b11ff75f72a3f9be33c6bddf352dfa24f8af8f521e8bdcbf9f"
+    },
+    {
+      "path": "snapshot/wiki/sources/arera-energia-gas-acqua-rifiuti-tariffe-2026-07-24.md",
+      "bytes": 5306,
+      "sha256": "fa35087a555dc7df9747b773b63e55f9cd9fc18fd27ebef8e3d65baa33cb1e06"
+    },
+    {
+      "path": "snapshot/wiki/sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026.md",
+      "bytes": 12524,
+      "sha256": "b083d29a79e187fa6db6dd6a06780a11cf50b46ab14d6c5e487bf8f13a267bf5"
+    },
+    {
+      "path": "snapshot/wiki/sources/bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026.md",
+      "bytes": 13341,
+      "sha256": "a3c29cf7f34585228f5b04bd9ac146add692b7e33bfb730c01a5e35413f57400"
+    },
+    {
+      "path": "snapshot/wiki/sources/clima-energia-rinnovabili-cer-efficienza-quadro-ufficiale-2026.md",
+      "bytes": 11760,
+      "sha256": "ce4684e0da984fdd907406c9e90b0ef4127fbc66f1ded1a1585075b45f558816"
+    },
+    {
+      "path": "snapshot/wiki/sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026.md",
+      "bytes": 10001,
+      "sha256": "1b164d2147436ebc578013d72785743d39fc625aebfe19dc53f5efc92018947c"
+    },
+    {
+      "path": "snapshot/wiki/sources/dnsh-cam-ciclo-vita-sostenibilita-pa-quadro-ufficiale-2026.md",
+      "bytes": 10718,
+      "sha256": "1a6ac164a2fe9604f07f248bffe21baec434a8f4d596a436523b4a3ae0fd809e"
+    },
+    {
+      "path": "snapshot/wiki/sources/laboratorio-casi-quesiti-sintetici-vol-11-2026.md",
+      "bytes": 5106,
+      "sha256": "1e58fbd79c3f3148f0d553d8dac2ee9f55f45cb6e6254cd5081cfd0929b1fcbf"
+    },
+    {
+      "path": "snapshot/wiki/sources/legge-24-novembre-1981-n-689-sanzioni-amministrative.md",
+      "bytes": 2033,
+      "sha256": "1691e1b2d1a90fdba4bd3e653455824ebf99c7316dfc40dc2df1c97a2c531b9f"
+    },
+    {
+      "path": "snapshot/wiki/sources/legge-689-procedura-verifica-2026-10-03.md",
+      "bytes": 3206,
+      "sha256": "37cb276ae59b9414bf43b9cc03dfd6c9f05892137c0fd2967c26575c8c098e3d"
+    },
+    {
+      "path": "snapshot/wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md",
+      "bytes": 2669,
+      "sha256": "4bc0fd258c37f32aec869c8bf87cddde6c2940c9ad6c2a9ecfb48878e148da52"
+    },
+    {
+      "path": "snapshot/wiki/sources/pnrr-regis-dnsh-monitoraggio-territoriale.md",
+      "bytes": 5358,
+      "sha256": "4db2cb2c39ce6b5abfbfad67f81cacd867a991aa7d96a11417766decc3e6f458"
+    },
+    {
+      "path": "snapshot/wiki/sources/rifiuti-rentri-fir-mud-quadro-ufficiale-2026.md",
+      "bytes": 7070,
+      "sha256": "eb190928bf3865bbba956ef443904cf1694ed26f1a393572b638dbf66340020a"
+    },
+    {
+      "path": "snapshot/wiki/sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026.md",
+      "bytes": 10054,
+      "sha256": "a5a84bb4bcae763c5f37d6de3e49fd6671931ca9e1b9b2db9c030cf32c864e10"
+    },
+    {
+      "path": "snapshot/wiki/sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md",
+      "bytes": 8077,
+      "sha256": "9c95189551a5964a77f80808d35719ff0b7733f6429d80c69654978f9e032999"
+    },
+    {
+      "path": "snapshot/wiki/sources/tpall-emissioni-convogliate-bat-ael-metodi-snpa-arpa.md",
+      "bytes": 3913,
+      "sha256": "40366885ddd5eb8bb8e16e08490b2a98b86570995690d6a04be5d43b45b762f1"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md",
+      "bytes": 2955,
+      "sha256": "d9150bdd8f6d34bc57069e78fddb11f56ace2034d191692ef9896cb05890e1db"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-11-ambiente-rettifiche-2026-10-03.md",
+      "bytes": 10321,
+      "sha256": "caaa7d7a8998927b8d7992d3515f8bc01a9fc28bb256a2396226f16b4a2789d2"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-11-energia-sostenibilita-verifica-2026-10-03.md",
+      "bytes": 8134,
+      "sha256": "c747f4040896aa08bc731d55ea13c3f3a1e3354908d3ede76c308b125c39df67"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-11-protezione-civile-verifica-2026-10-03.md",
+      "bytes": 3962,
+      "sha256": "ced232365171cbd86ccad964bcf0ebcc03618f2ae34b72c4e4fb0d5a57ce279b"
+    },
+    {
+      "path": "snapshot/wiki/sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03.md",
+      "bytes": 10562,
+      "sha256": "0b72e4e287001f301d51b54e1920b5ff60cf82dfd1dff0bd52284ac9baeca7eb"
+    },
+    {
+      "path": "snapshot/wiki/topics/ambiente-rettifiche-2026.md",
+      "bytes": 3195,
+      "sha256": "9cc4f7d75750fb951e4a1f5f6e1cebf56e6660588b3d31998e2b437b4c1e406e"
+    },
+    {
+      "path": "source-hashes.json",
+      "bytes": 13263,
+      "sha256": "9775644d0091e7d61f668c77b1809830a55f1d2856767e1110731fa478bd4e2f"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 6399,
+      "sha256": "ec4de2def7aebd42c0a3d0ff16138bb7f0964ee312114bad8c2862b097b59398"
+    },
+    {
+      "path": "visual/final/contact-001-016.png",
+      "bytes": 536366,
+      "sha256": "99c1524afe3d368deeec3a6e208e770555b20c394740dafc81a6892422f6f214"
+    },
+    {
+      "path": "visual/final/contact-017-032.png",
+      "bytes": 714480,
+      "sha256": "69a17ed3218f10e06d2c6f9f0537a35ce4b710408dc4d9cbb1bdffee173d5285"
+    },
+    {
+      "path": "visual/final/contact-033-048.png",
+      "bytes": 688806,
+      "sha256": "9eb889ffab09bd1079788657ba1e8f49ae61e5515036ebf61e829239644770b2"
+    },
+    {
+      "path": "visual/final/contact-049-064.png",
+      "bytes": 680473,
+      "sha256": "e0a30b9eb20d053ffe3f7381485007af043c8c3c3b79fa0581d5334d21ca9255"
+    },
+    {
+      "path": "visual/final/contact-065-080.png",
+      "bytes": 703271,
+      "sha256": "428c3b681e23d5d27fd6f64f24a25aa066b8cf0367b3979b54e04e685c9aa09b"
+    },
+    {
+      "path": "visual/final/contact-081-096.png",
+      "bytes": 736315,
+      "sha256": "b76006c76a57c6028a859c7babd122d2330a665efaf35880197eea5992245407"
+    },
+    {
+      "path": "visual/final/contact-097-112.png",
+      "bytes": 713606,
+      "sha256": "7110730dd26df46619a4707bf208b1a99a6ec3cdb7ac941669cfef2ba164ac8b"
+    },
+    {
+      "path": "visual/final/contact-113-128.png",
+      "bytes": 651272,
+      "sha256": "723cfbdcaa24ee85f604cdee87d23a0f49a258c0870769b6869049b933365e23"
+    },
+    {
+      "path": "visual/final/contact-129-144.png",
+      "bytes": 718103,
+      "sha256": "5b1ba415812477a36a6b0ffdf4efd5ec799d2a7fbd84e7189a4785efd88071ec"
+    },
+    {
+      "path": "visual/final/contact-145-160.png",
+      "bytes": 701591,
+      "sha256": "6ec8daa54bfe7da5f39b563cd24345bbb4be17a7edefb238a435404cfee211e2"
+    },
+    {
+      "path": "visual/final/contact-161-176.png",
+      "bytes": 726313,
+      "sha256": "4eb321fb4f0ec143f30e9405c6fcb1e4e7c5902fffcce1a5578b37676e839029"
+    },
+    {
+      "path": "visual/final/contact-177-192.png",
+      "bytes": 663599,
+      "sha256": "3ba1e43718fbaa7b178341059a25991a602bde100b569c5f3f371bb383c96b06"
+    },
+    {
+      "path": "visual/final/contact-193-208.png",
+      "bytes": 711026,
+      "sha256": "37f4d4820ad84e010f6572efa3c42769b063d66f7f90c246935290b477f6cfe6"
+    },
+    {
+      "path": "visual/final/contact-209-224.png",
+      "bytes": 702474,
+      "sha256": "53bfcbce9f2a8c693634846fd81cd48252241b93f70acb7a5a5b714e7cf7bcfa"
+    },
+    {
+      "path": "visual/final/contact-225-240.png",
+      "bytes": 695915,
+      "sha256": "81e8f04f68f8c04c32250958233d327122651d27195b07aa62e385993882a9bd"
+    },
+    {
+      "path": "visual/final/contact-241-253.png",
+      "bytes": 537516,
+      "sha256": "cab2f1fedc30540765c14932d683f74933f0ea3017b1fb76342e1de32af06df9"
+    },
+    {
+      "path": "visual/final/zoom-008.png",
+      "bytes": 178789,
+      "sha256": "e250ff0e0e2e7a97d07e028eaeb875d4f2a9c41b1ef5fb0bc3f601f42167ea3e"
+    },
+    {
+      "path": "visual/final/zoom-167.png",
+      "bytes": 162713,
+      "sha256": "5243c48e6d52d9f7e434b82df798fdf1372fe7f8d2f070314e120389dfc69af9"
+    },
+    {
+      "path": "visual/final/zoom-179.png",
+      "bytes": 237748,
+      "sha256": "abaef79933b77d59693ebe53247e2ad1515df99c9f85240d428ca2029a3591f0"
+    },
+    {
+      "path": "visual/final/zoom-180.png",
+      "bytes": 183046,
+      "sha256": "4724d7af8dbe07c70bda889f25a0cab5d872945151a83c476bdde8dbd56eaa7f"
+    },
+    {
+      "path": "visual/final/zoom-181.png",
+      "bytes": 200895,
+      "sha256": "d04436d399a21419e9dcc77bb14fcca359bdec9a0e08a5152e8e5562f98ce204"
+    },
+    {
+      "path": "visual/final/zoom-191.png",
+      "bytes": 212808,
+      "sha256": "45a5344630d1878416be4428bbc52c9857946015f9bfff3c671d403cf14e702e"
+    },
+    {
+      "path": "visual/final/zoom-248.png",
+      "bytes": 171878,
+      "sha256": "1a8e6a9de6cf74f2300d0570772cc5cf89ccdcfcc2a833623cab271c8b64a63b"
+    },
+    {
+      "path": "visual/release/contact-001-016.png",
+      "bytes": 536361,
+      "sha256": "e4e2692ca62a283347ea8735048b6b458dcb41ca2bf194964de04a92f4c62c4a"
+    },
+    {
+      "path": "visual/release/contact-017-032.png",
+      "bytes": 714480,
+      "sha256": "69a17ed3218f10e06d2c6f9f0537a35ce4b710408dc4d9cbb1bdffee173d5285"
+    },
+    {
+      "path": "visual/release/contact-033-048.png",
+      "bytes": 688806,
+      "sha256": "9eb889ffab09bd1079788657ba1e8f49ae61e5515036ebf61e829239644770b2"
+    },
+    {
+      "path": "visual/release/contact-049-064.png",
+      "bytes": 680473,
+      "sha256": "e0a30b9eb20d053ffe3f7381485007af043c8c3c3b79fa0581d5334d21ca9255"
+    },
+    {
+      "path": "visual/release/contact-065-080.png",
+      "bytes": 703271,
+      "sha256": "428c3b681e23d5d27fd6f64f24a25aa066b8cf0367b3979b54e04e685c9aa09b"
+    },
+    {
+      "path": "visual/release/contact-081-096.png",
+      "bytes": 736315,
+      "sha256": "b76006c76a57c6028a859c7babd122d2330a665efaf35880197eea5992245407"
+    },
+    {
+      "path": "visual/release/contact-097-112.png",
+      "bytes": 713606,
+      "sha256": "7110730dd26df46619a4707bf208b1a99a6ec3cdb7ac941669cfef2ba164ac8b"
+    },
+    {
+      "path": "visual/release/contact-113-128.png",
+      "bytes": 651272,
+      "sha256": "723cfbdcaa24ee85f604cdee87d23a0f49a258c0870769b6869049b933365e23"
+    },
+    {
+      "path": "visual/release/contact-129-144.png",
+      "bytes": 718103,
+      "sha256": "5b1ba415812477a36a6b0ffdf4efd5ec799d2a7fbd84e7189a4785efd88071ec"
+    },
+    {
+      "path": "visual/release/contact-145-160.png",
+      "bytes": 701591,
+      "sha256": "6ec8daa54bfe7da5f39b563cd24345bbb4be17a7edefb238a435404cfee211e2"
+    },
+    {
+      "path": "visual/release/contact-161-176.png",
+      "bytes": 726278,
+      "sha256": "b36a0b2b83bd117517c949d61aa820b4c4736883ccb119dd850bbfde09b38bb8"
+    },
+    {
+      "path": "visual/release/contact-177-192.png",
+      "bytes": 665783,
+      "sha256": "14de7d5ba26fc89b5cdb3c8ae17d534a427bab05636c39b7385ccb46c2f0c5d5"
+    },
+    {
+      "path": "visual/release/contact-193-208.png",
+      "bytes": 711026,
+      "sha256": "37f4d4820ad84e010f6572efa3c42769b063d66f7f90c246935290b477f6cfe6"
+    },
+    {
+      "path": "visual/release/contact-209-224.png",
+      "bytes": 702474,
+      "sha256": "53bfcbce9f2a8c693634846fd81cd48252241b93f70acb7a5a5b714e7cf7bcfa"
+    },
+    {
+      "path": "visual/release/contact-225-240.png",
+      "bytes": 695915,
+      "sha256": "81e8f04f68f8c04c32250958233d327122651d27195b07aa62e385993882a9bd"
+    },
+    {
+      "path": "visual/release/contact-241-253.png",
+      "bytes": 537022,
+      "sha256": "7315316bc058330ada12b75ad5d9dd073ca5594713fe253d61ae9def473961ce"
+    },
+    {
+      "path": "visual/release/zoom-006.png",
+      "bytes": 179369,
+      "sha256": "4fd674072a7b46884bbd49065ec8fee3ba9a863c9e6e430b7a67debd79a02342"
+    },
+    {
+      "path": "visual/release/zoom-091.png",
+      "bytes": 251187,
+      "sha256": "49e5eaccad42dff19179a64f62c79cf607c18735881982dce515f1d96ab2b1e2"
+    },
+    {
+      "path": "visual/release/zoom-149.png",
+      "bytes": 157873,
+      "sha256": "5476f92c6390eaf21eb4b4a15f805e58237a25fcbed6e7fb51d6e3225b3ac037"
+    },
+    {
+      "path": "visual/release/zoom-167.png",
+      "bytes": 162662,
+      "sha256": "c11f67968e3313a4d8a893ccb9f6a834063ad45c26ec5b0fa631f9b8d56258b7"
+    },
+    {
+      "path": "visual/release/zoom-179.png",
+      "bytes": 217886,
+      "sha256": "8dcb0493619b998f5fe8b788709ba64ed2541b88af5638b484c292c6ae3c7bc2"
+    },
+    {
+      "path": "visual/release/zoom-184.png",
+      "bytes": 209026,
+      "sha256": "9dbcd7f8c48033b61e8ba9ccb9d9cf08d94956f0c8cd004e4eabc72c54ec7932"
+    },
+    {
+      "path": "visual/release/zoom-191.png",
+      "bytes": 217543,
+      "sha256": "57c609ccd57509a2fa541cee1553057968614a262cbb56eb50bb28b190502250"
+    },
+    {
+      "path": "visual/release/zoom-206.png",
+      "bytes": 197922,
+      "sha256": "384aec4e4659079633a50e0da8288e0145762269da6666df8cc64e03ea9d0666"
+    },
+    {
+      "path": "visual/release/zoom-207.png",
+      "bytes": 157450,
+      "sha256": "d95481e84c68679a02db2729c870a2cb1dfb93894414042c5192b349434b5b25"
+    },
+    {
+      "path": "visual/release/zoom-225.png",
+      "bytes": 211139,
+      "sha256": "d721295ac15eaa8ba1c81bd2f06fd7fd4c3bf0aa29751db68795a148a98d4e1e"
+    },
+    {
+      "path": "visual/release/zoom-227.png",
+      "bytes": 179920,
+      "sha256": "c2b5071d9ea727ac7b54a286eb18d5eee6e814fdba6bc1baa73947808b4d5998"
+    },
+    {
+      "path": "visual/release/zoom-243.png",
+      "bytes": 232879,
+      "sha256": "80870e6cb4d72976de03b65d44cfa60d5f34610121309c2495fc6bd19ac18078"
+    },
+    {
+      "path": "visual/release/zoom-244.png",
+      "bytes": 174697,
+      "sha256": "c31d486ce033624a2e775960078fceca0c78d7a3cd7f1991d5f5e533a0c0fba3"
+    },
+    {
+      "path": "visual/release/zoom-247.png",
+      "bytes": 191790,
+      "sha256": "4305e0ece35b58dfac1f176c3f3185456baa9a7677b254354ac5be438283337a"
+    },
+    {
+      "path": "visual/release/zoom-248.png",
+      "bytes": 169974,
+      "sha256": "bd14329def6bfc2fa2767dfb1a60e9fcb337fc26417445976e4bf7b8d1b2e920"
+    },
+    {
+      "path": "visual/release/zoom-249.png",
+      "bytes": 149018,
+      "sha256": "f3f55812dd4c878da91241bc5f9f29a016cfc24a167bf51a11b97d5deb327c36"
+    },
+    {
+      "path": "visual/release/zoom-250.png",
+      "bytes": 254231,
+      "sha256": "61c23719320f67d437092401a21090775798ba45feceaffb272f8b75f2f7c91d"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 1835,
+      "sha256": "532d0e71e1e540c57a9418e084e6f0da8447bee0f49f51c1f08c313f3bc98d74"
+    },
+    {
+      "path": "vol-11-interior-kdp.pdf",
+      "bytes": 1805041,
+      "sha256": "eb67bedb161968004879438a2dad8ce37d86f4deb7d53d40f7e8db9d2c41b425"
+    }
+  ],
+  "covers": [
+    {
+      "key": "11",
+      "volume": "VOL-11",
+      "title": "Ambiente, protezione civile e sostenibilità",
+      "cover": "delivery/copertine-2026-10-03/vol-11-cover.pdf",
+      "coverSha256": "f883bd14dc456dea4461146fb7012b6343603745f402b9fc8612c7cec2208849",
+      "interior": "delivery/VOL-11/candidate-2026-10-03/vol-11-interior-kdp.pdf",
+      "interiorSha256": "eb67bedb161968004879438a2dad8ce37d86f4deb7d53d40f7e8db9d2c41b425",
+      "pdfPages": 253,
+      "kdpPages": 254,
+      "spineInches": 0.5720080000000001,
+      "widthInches": 14.202008,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 14.061353343750056,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/11.png",
+      "path": "covers/vol-11-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

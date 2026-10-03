@@ -1,0 +1,54 @@
+[
+  {
+    "id": "tuf-riforma47-gu.pdf",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/2026/04/14/86/so/14/sg/pdf",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\tuf-riforma47-gu.pdf",
+    "sha256": "6da2a281f6dc1f997d976ac204ad29bd8f09a7179526ceca24e1d8152fa77ea4",
+    "characters": 820825,
+    "readComplete": false
+  },
+  {
+    "id": "consob-intermediari.pdf",
+    "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2018_20307.pdf/11dc97e0-da97-7aa9-ce44-45e11f7ff7bb",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\consob-intermediari.pdf",
+    "sha256": "153151bf9f01847098f186b963af278b6ca501299ef3d31455726d2fce57cb87",
+    "characters": 494829,
+    "readComplete": false
+  },
+  {
+    "id": "micar-riparto.pdf",
+    "url": "https://www.bancaditalia.it/media/notizie/2024/MICAR-CONSOB-Nota-ricognitiva-ITA.pdf",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\micar-riparto.pdf",
+    "sha256": "374cf1f0da79acd4c085420164f5c508f064e15c5ded85ff902eb0b5e136a923",
+    "characters": 28901,
+    "readComplete": false
+  },
+  {
+    "id": "mar-listing-act.pdf",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32024R2809",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\mar-listing-act.pdf",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "characters": 0,
+    "readComplete": false,
+    "valid": false,
+    "error": "Cannot open empty file: filename='wiki\\\\raw\\\\correzioni-vol05-2026-10-03\\\\mar-listing-act.pdf'."
+  },
+  {
+    "id": "mar-delegato2026.pdf",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026R0789",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\mar-delegato2026.pdf",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "characters": 0,
+    "readComplete": false,
+    "valid": false,
+    "error": "Cannot open empty file: filename='wiki\\\\raw\\\\correzioni-vol05-2026-10-03\\\\mar-delegato2026.pdf'."
+  },
+  {
+    "id": "acf-faq.html",
+    "url": "https://www.acf.consob.it/faq",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\acf-faq.html",
+    "sha256": "211916fc50552ed6700467ca16968464dbc0a002dd8e98268097a1dc095e481a",
+    "characters": 3954,
+    "readComplete": false
+  }
+]

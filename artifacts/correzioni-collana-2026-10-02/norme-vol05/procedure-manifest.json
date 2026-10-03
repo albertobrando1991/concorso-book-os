@@ -1,0 +1,74 @@
+[
+  {
+    "id": "istruttoria",
+    "article": 6,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-30;217~art6!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\istruttoria-art6.html",
+    "sha256": "055711e2a5ecfc704a5e2e6a0f6679ca409ea01f589ac51fcc85bbe794bf4591",
+    "characters": 2236,
+    "readComplete": true
+  },
+  {
+    "id": "istruttoria",
+    "article": 7,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-30;217~art7!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\istruttoria-art7.html",
+    "sha256": "76aa5543281cfd55aef7e98b879649495fd1547e6076bfa2993c7cf45acf41fd",
+    "characters": 1442,
+    "readComplete": true
+  },
+  {
+    "id": "istruttoria",
+    "article": 9,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-30;217~art9!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\istruttoria-art9.html",
+    "sha256": "cfe4ec95e87d38b4df626a0df9d0d65fb37be05f7c97245fe49dea342be5f957",
+    "characters": 3255,
+    "readComplete": true
+  },
+  {
+    "id": "istruttoria",
+    "article": 10,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-30;217~art10!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\istruttoria-art10.html",
+    "sha256": "4291da2058e0171afe9a7fa86027c30e62184ca40c1203929deed4ea09eec6a2",
+    "characters": 2811,
+    "readComplete": true
+  },
+  {
+    "id": "istruttoria",
+    "article": 12,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-30;217~art12!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\istruttoria-art12.html",
+    "sha256": "d1a64e23f03781643d708e336f58e2e69bd35995d3d8dd20d69c855dd8dc9d0a",
+    "characters": 535,
+    "readComplete": true
+  },
+  {
+    "id": "istruttoria",
+    "article": 13,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-30;217~art13!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\istruttoria-art13.html",
+    "sha256": "eaf978f34c4c2ddc7ee2ddc7089b312340f6fef08c1214f790d5fd0ea842d820",
+    "characters": 3694,
+    "readComplete": true
+  },
+  {
+    "id": "istruttoria",
+    "article": 14,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-30;217~art14!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\istruttoria-art14.html",
+    "sha256": "7796a0c73ebe5f2bd6da5331c987a88e98998042b86823aced8def0c36e0c8a5",
+    "characters": 2279,
+    "readComplete": true
+  },
+  {
+    "id": "tuf-riforma",
+    "article": 10,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-06-25;128~art10!vig=",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\tuf-riforma-art10.html",
+    "sha256": "35085dde09e175b25d833d99898e3f81858315866ca2fd8257f1056e798716f5",
+    "characters": 2231,
+    "readComplete": false
+  }
+]

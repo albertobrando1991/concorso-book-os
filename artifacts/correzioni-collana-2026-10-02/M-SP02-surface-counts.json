@@ -1,0 +1,266 @@
+[
+  {
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/01-mappa-della-famiglia.md",
+    "chapter": 1,
+    "words": 3793,
+    "nuclei": [
+      {
+        "id": "N-SP02-01-01",
+        "heading": "Quattro famiglie: quadro, differenze ed errori di generalizzazione",
+        "words": 620
+      },
+      {
+        "id": "N-SP02-01-02",
+        "heading": "Natura e missione del Corpo nazionale",
+        "words": 617
+      },
+      {
+        "id": "N-SP02-01-03",
+        "heading": "La linea operativa: vigili, capi e ispettori",
+        "words": 663
+      },
+      {
+        "id": "N-SP02-01-04",
+        "heading": "Direttivi, specialisti e tecnico-professionali",
+        "words": 619
+      },
+      {
+        "id": "N-SP02-01-05",
+        "heading": "Soccorso pubblico, difesa civile e protezione civile",
+        "words": 646
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/02-la-tua-posizione-prima-della-domanda.md",
+    "chapter": 2,
+    "words": 5856,
+    "nuclei": [
+      {
+        "id": "N-SP02-02-01",
+        "heading": "In quale quota concorri: riserve, devoluzione e obbligo di dichiarazione",
+        "words": 705
+      },
+      {
+        "id": "N-SP02-02-02",
+        "heading": "Le tre vie di accesso, lette come percorsi e non come requisiti",
+        "words": 947
+      },
+      {
+        "id": "N-SP02-02-03",
+        "heading": "Titolo di studio, età e cause di non ammissione",
+        "words": 1045
+      },
+      {
+        "id": "N-SP02-02-04",
+        "heading": "I parametri misurabili: forza, composizione corporea, vista e udito",
+        "words": 762
+      },
+      {
+        "id": "N-SP02-02-05",
+        "heading": "I regimi del d.m. 166/2019 e la sequenza delle verifiche",
+        "words": 895
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+    "chapter": 3,
+    "words": 5362,
+    "nuclei": [
+      {
+        "id": "N-SP02-03-01",
+        "heading": "Il cancello: che cos'è la prova preselettiva e perché il suo punteggio sparisce",
+        "words": 699
+      },
+      {
+        "id": "N-SP02-03-02",
+        "heading": "Il quadro delle quattro tipologie, e le quattro cose che il bando non dice",
+        "words": 708
+      },
+      {
+        "id": "N-SP02-03-03",
+        "heading": "Storia d'Italia dal 1861: riconoscere, non ricostruire",
+        "words": 702
+      },
+      {
+        "id": "N-SP02-03-04",
+        "heading": "Elementi di chimica e fisica: il livello è nella parola «elementi»",
+        "words": 730
+      },
+      {
+        "id": "N-SP02-03-05",
+        "heading": "Logica, informatica e inglese: quello che hai già, e il delta che non hai",
+        "words": 794
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+    "chapter": 4,
+    "words": 5435,
+    "nuclei": [
+      {
+        "id": "N-SP02-04-01",
+        "heading": "Che cosa ti viene chiesto, e come ci si presenta",
+        "words": 724
+      },
+      {
+        "id": "N-SP02-04-02",
+        "heading": "Prova 1 — tre moduli, e nessuno perdona",
+        "words": 720
+      },
+      {
+        "id": "N-SP02-04-03",
+        "heading": "Prova 2 e Prova 3 — i milleduecento metri e l'acquaticità",
+        "words": 844
+      },
+      {
+        "id": "N-SP02-04-04",
+        "heading": "Dove conviene investire il tempo, e come si traduce in un piano",
+        "words": 683
+      },
+      {
+        "id": "N-SP02-04-05",
+        "heading": "I cinque punti che non dipendono dal corpo",
+        "words": 739
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/05-prove-direttive-e-specializzazione.md",
+    "chapter": 5,
+    "words": 4655,
+    "nuclei": [
+      {
+        "id": "N-SP02-05-01",
+        "heading": "Requisiti e sequenza del concorso ordinario",
+        "words": 937
+      },
+      {
+        "id": "N-SP02-05-02",
+        "heading": "La prova scritta: dalla conoscenza alla soluzione",
+        "words": 615
+      },
+      {
+        "id": "N-SP02-05-03",
+        "heading": "L'orale: integrare, collegare, rispondere",
+        "words": 1245
+      },
+      {
+        "id": "N-SP02-05-04",
+        "heading": "Ruolo ordinario e specialità: regola, differenze ed errori",
+        "words": 620
+      },
+      {
+        "id": "N-SP02-05-05",
+        "heading": "Ispettori e tecnico-professionali: requisiti distinti",
+        "words": 634
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+    "chapter": 6,
+    "words": 4268,
+    "nuclei": [
+      {
+        "id": "N-SP02-06-01",
+        "heading": "Principi del riuso: destinazione, non somiglianza",
+        "words": 632
+      },
+      {
+        "id": "N-SP02-06-02",
+        "heading": "Il delta materia per materia: errori e output",
+        "words": 1211
+      },
+      {
+        "id": "N-SP02-06-03",
+        "heading": "Il Decoder operativo: dall'articolo alla settimana",
+        "words": 637
+      },
+      {
+        "id": "N-SP02-06-04",
+        "heading": "Il Decoder direttivo e tecnico",
+        "words": 621
+      },
+      {
+        "id": "N-SP02-06-05",
+        "heading": "Registro dei dati mobili e protocollo di aggiornamento",
+        "words": 626
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/07-piano-30-60-90.md",
+    "chapter": 7,
+    "words": 4263,
+    "nuclei": [
+      {
+        "id": "N-SP02-07-01",
+        "heading": "Principi del piano operativo: misurare prima di caricare",
+        "words": 611
+      },
+      {
+        "id": "N-SP02-07-02",
+        "heading": "Operativo, giorni 31-90: errori di soglia, margine e sequenza",
+        "words": 622
+      },
+      {
+        "id": "N-SP02-07-03",
+        "heading": "Direttivo, giorni 1-30: programma e prime produzioni",
+        "words": 638
+      },
+      {
+        "id": "N-SP02-07-04",
+        "heading": "Direttivo, giorni 31-90: elaborati completi e orale integrato",
+        "words": 635
+      },
+      {
+        "id": "N-SP02-07-05",
+        "heading": "Indicatori e ripianificazione quindicinale",
+        "words": 621
+      }
+    ],
+    "quiz": 6
+  },
+  {
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+    "chapter": 8,
+    "words": 4454,
+    "nuclei": [
+      {
+        "id": "N-SP02-08-01",
+        "heading": "Gli errori del binario operativo",
+        "words": 641
+      },
+      {
+        "id": "N-SP02-08-02",
+        "heading": "Gli errori del direttivo e tecnico",
+        "words": 613
+      },
+      {
+        "id": "N-SP02-08-03",
+        "heading": "Caso operativo: decidere con una riserva assente e un modulo fragile",
+        "words": 851
+      },
+      {
+        "id": "N-SP02-08-04",
+        "heading": "Caso direttivo: titolo corretto, produzione assente",
+        "words": 905
+      },
+      {
+        "id": "N-SP02-08-05",
+        "heading": "Principi della checklist finale e decisione go/no-go",
+        "words": 643
+      }
+    ],
+    "quiz": 6
+  }
+]

@@ -9,7 +9,7 @@ entities: ["TSRM", "Ministero della Salute", "Normattiva"]
 source_refs: ["sources/profili-professionali-tslb-tsrm-dm-745-746", "sources/procurement-farmaci-dispositivi-flussi-nsis"]
 book_refs: ["m-sa04-tecnici-sanitari-prevenzione", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.98
-updated_at: 2026-08-01T10:45:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T18:54:00+02:00
 review_required: true
 canonical: true
@@ -89,3 +89,18 @@ Il TSRM opera sugli atti di competenza, su prescrizione e secondo protocolli def
 ## Stato editoriale
 
 Fonte pronta per quadro non esecutivo, casi di qualità e domande orali. Parametri di acquisizione, protocolli, sequenze RM, attività di radiofarmaco, piani di trattamento, dosimetria applicata e prove su apparecchiatura richiedono modello, setting, procedure locali e review TSRM, radiologo, medico nucleare, radioterapista, specialista in fisica medica ed esperto di radioprotezione allo step 15.
+
+## Integrazione verificata il 3 ottobre 2026
+
+La dosimetria introduttiva è riferita ai manuali IAEA [Quality Assurance Programme for Computed Tomography, Pub. 1557](https://pub.iaea.org/MTCD/Publications/PDF/Pub1557_web.pdf) e [TECDOC 1985](https://www-pub.iaea.org/MTCD/Publications/PDF/TE-1985web.pdf). CTDIvol (mGy) è un indice standardizzato basato su fantoccio; DLP (mGy·cm) combina indice e lunghezza, con somma delle serie quando pertinente. Il prodotto kerma-area, spesso chiamato DAP, è espresso in Gy·cm²; non è una dose cutanea individuale. Gli indici non si convertono automaticamente in dose efficace o rischio personale. Reazioni tissutali: soglia e gravità dose-dipendente; effetti stocastici: probabilità dose-dipendente, modello prudenziale senza soglia per radioprotezione. Tempo, distanza e schermatura sono principi, non autorizzano calcoli universali in geometrie reali.
+
+Consultato il [D.Lgs. 101/2020 riprodotto dalla Protezione civile](https://www.protezionecivile.gov.it/en/normativa/dlgs-n101-del-31-luglio-2020/), artt. 146 e 166. Per lavoratori esposti: 20 mSv/anno dose efficace; dose equivalente 20 cristallino, 500 pelle mediata su 1 cm², 500 estremità. Popolazione: 1 mSv efficace, 15 cristallino, 50 pelle. Sono limiti per le categorie e condizioni normative, non valori da applicare al paziente. Il testo di quella pagina è originario: il confronto con modifiche e testo consolidato resta un punto del successivo audit normativo; la tabella non è certificata soltanto da questa acquisizione.
+
+Il [D.M. 14 gennaio 2021, allegato](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=21A01353&art.dataPubblicazioneGazzetta=2021-03-16&art.flagTipoArticolo=1&art.idArticolo=1&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1), sezioni D.1–D.4, prescrive regolamento di sicurezza, valutazione dei dispositivi impiantati, etichette safe/conditional/unsafe, organizzazione delle emergenze e verifica della gravidanza. Rischi da campo statico (oggetti ferromagnetici), RF (riscaldamento/ustioni), gradienti (rumore e stimolazione), criogeni (ipossia e sovrapressione in caso di rilascio) sono distinti. La RM non usa radiazioni ionizzanti; ciò non elimina rischi e valutazione rischio-beneficio. La gravidanza, anche nell'imaging ionizzante, richiede giustificazione e ottimizzazione dedicate, non diniego automatico né esenzione dai controlli.
+
+## Riscontro consolidato Normattiva, 3 ottobre 2026
+
+Superato il precedente limite di accesso: scaricati e letti integralmente gli articoli 146, 166 nel testo consolidato restituito dall’endpoint `!vig=`. Le copie sono conservate nel raw delle correzioni. Confermati i limiti per lavoratori e popolazione dell’art. 146 e le distinte responsabilità e precauzioni gravidanza/allattamento dell’art. 166. Il confronto supporta tabella e testo di SA04/03, senza validare protocolli locali o l’intero decreto.
+
+- https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-07-31;101~art146!vig= — SHA256 `1b244611363cf7ecf8c17f83786d9316a45632a37918c668de2510d7881153d6`.
+- https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-07-31;101~art166!vig= — SHA256 `ded417afc38ce6fb5946dc9770023f70e5df3a1e5c63d2eefb074d03a31cd52e`.

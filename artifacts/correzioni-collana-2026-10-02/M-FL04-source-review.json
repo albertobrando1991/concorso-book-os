@@ -1,0 +1,847 @@
+{
+  "articles": [
+    {
+      "name": "disp113-correct",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=8&art.flagTipoArticolo=1&art.codiceRedazionale=089G0340&art.idArticolo=113&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1989-08-05&art.progressivo=0&",
+      "sha256": "a6d2fd6cce73d9ccca5e5c45f4bab6eea990cc5167e9ad97a0e39147bc839dd0",
+      "characters": 237,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "disp114-correct",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=8&art.flagTipoArticolo=1&art.codiceRedazionale=089G0340&art.idArticolo=114&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1989-08-05&art.progressivo=0&",
+      "sha256": "91fd52d367c4224f78610e1a00ea2e3ae872c8decf213c095f27258dd459d246",
+      "characters": 285,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "tulps1-correct",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=1&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "2165e1e9c6140d0b88917d5d56a9fb41eabb533d419856a90d77b4b5c4f6ad26",
+      "characters": 873,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d152-232ter-correct",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=40&art.flagTipoArticolo=0&art.codiceRedazionale=006G0171&art.idArticolo=232&art.idSottoArticolo=3&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2006-04-14&art.progressivo=0&",
+      "sha256": "6bba36fd18be1d6417908b42ee8fcfb50fd6758201bd6d89245f4d1b3e07a652",
+      "characters": 0,
+      "readComplete": true,
+      "readScope": "Articolo integrale letto in HTML; estrattore TXT non riconosce article-pre-comma-text-akn"
+    },
+    {
+      "name": "l689-art11",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=1&art.flagTipoArticolo=0&art.codiceRedazionale=081U0689&art.idArticolo=11&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1981-11-30&art.progressivo=0&",
+      "sha256": "804ea1713e6606c2c889781f68d7143c896478ec6a8ba74739705ab23f751151",
+      "characters": 399,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art15",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=17&art.idGruppo=2&art.flagTipoArticolo=0&art.codiceRedazionale=092G0306&art.idArticolo=15&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1992-05-18&art.progressivo=0&",
+      "sha256": "5cbd9a586af5e11a82f50fcf32d6fde25482c0bdf06a7767ca16da05da4042b6",
+      "characters": 2505,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cpp357-correct",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=357&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "c2950fe0b5dee65e4a4c37530607ce657002eab34fc3e1175b4593d211b2f0f1",
+      "characters": 2290,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l121-art15",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=1&art.flagTipoArticolo=0&art.codiceRedazionale=081U0121&art.idArticolo=15&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1981-04-10&art.progressivo=0&",
+      "sha256": "eb1c4bf2c7991454a2b94d34a1b2a2a30a46c5f4c6ed86b56bebc50347c9d786",
+      "characters": 951,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d286-art19",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=11&art.idGruppo=4&art.flagTipoArticolo=0&art.codiceRedazionale=098G0348&art.idArticolo=19&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1998-08-18&art.progressivo=0&",
+      "sha256": "58b9370f2939ac24f6db26ece83909b07a40fe3fafb7536ca33e2ef99143e7e8",
+      "characters": 3321,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cpa29",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=9&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=29&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+      "sha256": "257cf7a1ef140b8b6d4853eca6476be212fa0c66b442fc9dcfd1b36c628f3921",
+      "characters": 173,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d59-art64",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=11&art.flagTipoArticolo=0&art.codiceRedazionale=010G0080&art.idArticolo=64&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-04-23&art.progressivo=0&",
+      "sha256": "81eda55cc9ffb3794b8b470ad145b97616acc588fd8cdd50cb4c4bb811c4d8eb",
+      "characters": 5756,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d59-art65",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=11&art.flagTipoArticolo=0&art.codiceRedazionale=010G0080&art.idArticolo=65&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-04-23&art.progressivo=0&",
+      "sha256": "80b49d10853aa497d3c56e2f2bc8e6b59d9f6d676b8df53e671ad787d0e9c0db",
+      "characters": 719,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d66-art2",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=1&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=2&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+      "sha256": "aab332c00bb49fc8a49c1156d35ad2b48f30566f747e0f00be99f19306037798",
+      "characters": 1804,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d66-art4",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=2&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=4&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+      "sha256": "4f9966fe824be98a580a595d371d3adc982cb4117aa3cc4b3343e9afcb009f13",
+      "characters": 822,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d66-art7",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=3&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=7&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+      "sha256": "7a0af2cd200b338c680edb8da4324d231c25daf9f41b134d959cf3984f5daf65",
+      "characters": 328,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d66-art8",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=3&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=8&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+      "sha256": "6fb284a23af6482de35453476f9d8bfe08317a6fe88d8a22c54fc312dd0e483b",
+      "characters": 1105,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d66-art9",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=3&art.flagTipoArticolo=0&art.codiceRedazionale=003G0091&art.idArticolo=9&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2003-04-14&art.progressivo=0&",
+      "sha256": "623541827e3a2169852a2fb55aef73a8e14083af42226474a5fea3cadcfb3a37",
+      "characters": 4237,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l65-art3",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-07;65~art3!vig=",
+      "sha256": "61e3d9a32469960dbadf2c831364d24758032a44c1028992fa37273cabc0c75c",
+      "parts": 1,
+      "characters": 362,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l65-art4",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-07;65~art4!vig=",
+      "sha256": "c06d659305767465d88df5ec023cbe98ad2efd62bc6f69f1a51a1dd659d0e17f",
+      "parts": 1,
+      "characters": 1392,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l65-art5",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-07;65~art5!vig=",
+      "sha256": "5b4373632562c39eb065309ef418ce23424dd476aa74392110a42454b9aa032d",
+      "parts": 5,
+      "characters": 2568,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l65-art9",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-07;65~art9!vig=",
+      "sha256": "b3c9fc661783accb1de502d845d73a9c8fc2bb7ba1f6e4bd0685de1d358de23b",
+      "parts": 2,
+      "characters": 415,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art38",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art38!vig=",
+      "sha256": "54c23573823e2f7eac79234752684f9e8674c831029cf71602bf2217c15c839c",
+      "parts": 15,
+      "characters": 4494,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art43",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art43!vig=",
+      "sha256": "1b47b811d92ed58f90ef8d62d1194abc2fe0fe12c78a44b3e542adfb0b230ae1",
+      "parts": 9,
+      "characters": 3445,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art80",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art80!vig=",
+      "sha256": "ef08db2e9fca0459a8a65db66768b5165fbd791ef37ea65d24b83f448c6bb12f",
+      "parts": 18,
+      "characters": 10709,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art116",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art116!vig=",
+      "sha256": "820b9c6d4a746a41367d27a523cbc2395b6fc7c632fa4f2f69295223d732bd46",
+      "parts": 19,
+      "characters": 15891,
+      "readComplete": false,
+      "readScope": "Commi1/3/15/17 soltanto; depenalizzazione non integralmente verificata."
+    },
+    {
+      "name": "cds-art141",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art141!vig=",
+      "sha256": "00ff8183edd9728ed375a6820dca30f0bd7c59c66ee599fea96b472711c7665f",
+      "parts": 11,
+      "characters": 2996,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art142",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art142!vig=",
+      "sha256": "674c29e762cb97240ddaa4c4fcc3f4006e60a0e5968aae79575456c2152a7eee",
+      "parts": 18,
+      "characters": 12516,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art145",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art145!vig=",
+      "sha256": "219a7fb0f07fa63ef9efc77d58b6eaa7356e0a2f7bc8458e94bd0ac544dc33b0",
+      "parts": 13,
+      "characters": 2734,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art146",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art146!vig=",
+      "sha256": "122b63235a09c120623a077684af46aaebaa3760773d313e15d05239541da8bf",
+      "parts": 4,
+      "characters": 1217,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art148",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art148!vig=",
+      "sha256": "df8c278d0b6432da1266126ca74b591a094528ea85cc745623032def576488fa",
+      "parts": 17,
+      "characters": 7450,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art172",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art172!vig=",
+      "sha256": "eb3c92cfe1398b19d7d420b9190a1beca06a5199d4db4137555df8fbd00626d4",
+      "parts": 14,
+      "characters": 7026,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art173",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art173!vig=",
+      "sha256": "1159fcb8164891a0a705c2cf85d2193692911e4e87ab5019c7d1854c538be946",
+      "parts": 4,
+      "characters": 1655,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art180",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art180!vig=",
+      "sha256": "2475c068e93a7bbe57a328c24de53da814583b85c4576d361d45b40527eab6bb",
+      "parts": 8,
+      "characters": 3495,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art186",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art186!vig=",
+      "sha256": "c6c709f96e70b17d580597fd65001c05e353b442cb9ba4fdd3270877e088c6dd",
+      "parts": 20,
+      "characters": 12191,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art187",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art187!vig=",
+      "sha256": "36fc8721d884e3780dfa3fce089704e3ca19b95f204c0a728ea0cf57f8c1229c",
+      "parts": 19,
+      "characters": 16252,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art189",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art189!vig=",
+      "sha256": "34d08125fe1d7079f170568c85ce46f704bc014b90e3b48b2581503fe8cdd56e",
+      "parts": 11,
+      "characters": 4617,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art193",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art193!vig=",
+      "sha256": "f66afdd2186b28dbd0d21c1f677c245ec01e22c4fd900b315806a755d5bfa626",
+      "parts": 9,
+      "characters": 6215,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art196",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art196!vig=",
+      "sha256": "35c109974cbe377682a3a36c47a772c2fda65f9e2e745c0d7ba07155f7310956",
+      "parts": 4,
+      "characters": 2044,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art200",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art200!vig=",
+      "sha256": "be398b65806de10a32dd38ae5c7f1c39d46bbb302c136932cd3bc1de30ccce2b",
+      "parts": 4,
+      "characters": 917,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art201",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art201!vig=",
+      "sha256": "7afc402938b356f0f7232d6c11c141b562883519d739dc8ece2b4f92f14010d7",
+      "parts": 13,
+      "characters": 13089,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art202",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art202!vig=",
+      "sha256": "76c95c5e5bc1ab41112c7248ef9d3e3b5155ab862e61fedcbcff6f5f2e2ffdce",
+      "parts": 7,
+      "characters": 4519,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art203",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art203!vig=",
+      "sha256": "e35007b6ceabeb819b5101d2102ed3decbc41b63838621366f8cb9aed1f31e59",
+      "parts": 5,
+      "characters": 3206,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art204bis",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art204bis!vig=",
+      "sha256": "a34d6d8f3bf1866bd012fbf584f4631a01ebcf025aefed487a81e2a968908d51",
+      "parts": 1,
+      "characters": 409,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l689-art2",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art2!vig=",
+      "sha256": "b405e3961c741839ecb11d5d92bcf75f66972605aabd3f37ccb9acdd01218d2d",
+      "parts": 1,
+      "characters": 512,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l689-art3",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art3!vig=",
+      "sha256": "0b50060127655e746b6e2c4da95a64499b990a68985a9a724152cfb5d2f28431",
+      "parts": 1,
+      "characters": 311,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l689-art6",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art6!vig=",
+      "sha256": "164886b2eaa27973d0a61a2e781d656579e164ef2ad5aeabdf04ee1da68d4b2c",
+      "parts": 1,
+      "characters": 1205,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l689-art28",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art28!vig=",
+      "sha256": "cc1691497406f1c91fa2782ebd46836a0ad992d2ae25dd1786fda3f762cb62bf",
+      "parts": 1,
+      "characters": 253,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d150-art6",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150~art6!vig=",
+      "sha256": "29ab379183f415e6db3b199e7859a1d027e7e6be548390e369e6271a3ebde756",
+      "parts": 13,
+      "characters": 4224,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d150-art7",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150~art7!vig=",
+      "sha256": "e40626f0c386fe84302f41428aefaf2ede93b46d545028c7dc2946570ff8438b",
+      "parts": 13,
+      "characters": 3729,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d286-art5",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art5!vig=",
+      "sha256": "affcdc55e744108fef03ff3abc7b3230428013ad03f57926b489f6fe7b1d4087",
+      "parts": 26,
+      "characters": 17529,
+      "readComplete": false,
+      "readScope": "Commi1,2,3,4,5,9,9bis; non intero articolo."
+    },
+    {
+      "name": "d286-art6",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art6!vig=",
+      "sha256": "6c7704016d619c66719d3b5f7de96cdb48702e88e0990673709d78ec77ebd622",
+      "parts": 11,
+      "characters": 4828,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "dl14-art9",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-20;14~art9!vig=",
+      "sha256": "5f6fba3e9612f52324a2983da0da451a46f8b810eeaa3f6bf5a33a8c839b74ec",
+      "parts": 6,
+      "characters": 4428,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "dl14-art10",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-20;14~art10!vig=",
+      "sha256": "b01e54ffe3977248f21b67ebb799af15c6b83e2e018b56aa50fdaf98fa3a3a4b",
+      "parts": 10,
+      "characters": 7377,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d59-art71",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59~art71!vig=",
+      "sha256": "7daeeded44345ddbc16b3e89c7f1b1040bf73381c275a1aeeaeedeb4d664bde4",
+      "parts": 13,
+      "characters": 4999,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "dpr380-art27",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380~art27!vig=",
+      "sha256": "12520cc89bf3cb7f2995b663f58b162135c284800a3fb65ab1d200baf0202b23",
+      "parts": 4,
+      "characters": 3456,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "dpr380-art31",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380~art31!vig=",
+      "sha256": "315ff53ba116cc8ff8c3e6be9d06af565195b67a61ea7206f05b45a8b0f20aa8",
+      "parts": 13,
+      "characters": 6682,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "dpr380-art44",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380~art44!vig=",
+      "sha256": "62694f409feab2ddd3b5264f32de663e46fe2f2c5fe7baed059c42d24163ba11",
+      "parts": 3,
+      "characters": 1652,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d152-art192",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art192!vig=",
+      "sha256": "7f7e54cafd6745637b88b3c314cf98b7934c30a0044f14811ceda5a1a024ca9e",
+      "parts": 4,
+      "characters": 1429,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d152-art255",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art255!vig=",
+      "sha256": "d41f6c9d0edf85738150e74958f4278e7541fd5b99bd05634d30eaaa55231ddb",
+      "parts": 5,
+      "characters": 3205,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d152-art255bis",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art255bis!vig=",
+      "sha256": "248cfd7de9eca583fe9ec2c4237fc65c5ad6a2f85efd0c7b7c146ad06c6583be",
+      "parts": 3,
+      "characters": 1459,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d152-art255ter",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art255ter!vig=",
+      "sha256": "e1d5d774a53441523e74915e968926b3ecfd33bf114e700c37c255dbc9011495",
+      "parts": 3,
+      "characters": 1241,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d152-art232bis",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art232bis!vig=",
+      "sha256": "06f9fc31edde7379a6cffd7b3a5ff87ea14cfb717f69c969e4d8567c445803a7",
+      "parts": 5,
+      "characters": 569,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d152-art232ter",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art232ter!vig=",
+      "sha256": "c1b9e44a26742ed6af03e560e92069df921cadbfdf51eb236ee0d095ca901f0a",
+      "parts": 0,
+      "characters": 0,
+      "readComplete": true,
+      "readScope": "Articolo integrale letto in HTML; estrattore TXT non riconosce article-pre-comma-text-akn"
+    },
+    {
+      "name": "allegato-cpp-art55",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=14&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=55&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "e36e95e145a0f4f54751eead385fe9915d5a829c39e95c5248b9c326ab4d8918",
+      "parts": 3,
+      "characters": 496,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art57",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=14&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=57&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "487b0625f922407dece3f9672ae77289f1dd75cb5f27fe9f3faa5a090c07699a",
+      "parts": 3,
+      "characters": 1682,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art347",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=347&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "46f76f41f62c73274dad9d8a88c1f4ae2fcdb0ae0a34faf6b541eb5a53b2a82c",
+      "parts": 6,
+      "characters": 2511,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art349",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=349&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "fb2e13e35064adb288a4373ca754d2409c1f62665a26519fbb904c44c32248a7",
+      "parts": 7,
+      "characters": 3017,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art350",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=7&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=350&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "12464e6628dfd6cd9308d8e728c26b1aa8175c3ddee97cf02af21c5538ef3ea1",
+      "parts": 8,
+      "characters": 2156,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art351",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=7&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=351&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "92a35a1343cd56b0717cb28da2638d76e6aa03e15c0f1e94a1fabe2a941c4a51",
+      "parts": 4,
+      "characters": 1896,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art354",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=354&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "fcdf4cfd503c28dea94f179f44914f9704e5d6152891103051d2b35302d49f86",
+      "parts": 3,
+      "characters": 1389,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art355",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=355&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "91c84cb5c67f2d43c00d4669da8d1f462ad061865db5a02a6ef35b4ca7184f1c",
+      "parts": 4,
+      "characters": 1307,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art356",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=53&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=356&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "1a3619db8237872a54ade90a3abe04d46cfb05f638404eaf3d278ce4028e8314",
+      "parts": 1,
+      "characters": 306,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-tulps-art1",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=0&art.flagTipoArticolo=0&art.codiceRedazionale=031U0773&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "224a6d4e59877f5bdef57682bf192ee9aa56182ceefb16e249fede7176c985d7",
+      "parts": 1,
+      "characters": 479,
+      "readComplete": false,
+      "readScope": "Risposta incongrua: decreto di approvazione; esclusa dalla prova"
+    },
+    {
+      "name": "allegato-tulps-art8",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=3&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=8&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "d4e338a90a5017c0d5594bf79e064e7684a511adc29ddda080143723f102fcaa",
+      "parts": 1,
+      "characters": 488,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-tulps-art9",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=3&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=9&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "7242dcb1d9f22a5ddbaa5663a50f2b5d48a1acfc07f9b3a28d94e0f102c3aed6",
+      "parts": 1,
+      "characters": 230,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-tulps-art10",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=3&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=10&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "01ad56cf259b66cfc0b2bef940201de63e4228ea1bc9e0fa0b03cea92ccd5d8c",
+      "parts": 1,
+      "characters": 159,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-tulps-art11",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=3&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=11&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "606f0de93c9879c1cd33c279258aed8807fdfb84eb060aca312047e38c4aabf1",
+      "parts": 1,
+      "characters": 1164,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-tulps-art68",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=6&art.idGruppo=11&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=68&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "70c04acdc72057cd8a71d1d7df7ed42d89da665868b1ac5b1fa42833771142d1",
+      "parts": 1,
+      "characters": 795,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-tulps-art69",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=11&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=69&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "ec1e063efdbc4bf413d91944a431ab7fa04b0a7787eedcff373bf26e044939d3",
+      "parts": 1,
+      "characters": 620,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-tulps-art80",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=11&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=80&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "2dd5c4f06d32b2a8ff38e32e7eeaf9a147b027b2af6ad1e560ab6f3187615be2",
+      "parts": 1,
+      "characters": 482,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-tulps-art100",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=12&art.flagTipoArticolo=1&art.codiceRedazionale=031U0773&art.idArticolo=100&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1931-06-26&art.progressivo=0&",
+      "sha256": "3c82c2f7d47ef277a2b46d8d5f573a84fddef450f09526e12e541ef049a4258e",
+      "parts": 1,
+      "characters": 505,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cp-art589bis",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=58&art.flagTipoArticolo=1&art.codiceRedazionale=030U1398&art.idArticolo=589&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1930-10-26&art.progressivo=0&",
+      "sha256": "9e160c63bc0dce1642bb871028904360bcc778574d0c1cec993d68468405320f",
+      "parts": 1,
+      "characters": 4200,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cp-art590bis",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=58&art.flagTipoArticolo=1&art.codiceRedazionale=030U1398&art.idArticolo=590&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1930-10-26&art.progressivo=0&",
+      "sha256": "e34e60a8051ad08b40aba6e19ec2b41d432fe986c8c668133e378a40ba02c788",
+      "parts": 1,
+      "characters": 4635,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art186bis",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art186bis!vig=",
+      "sha256": "759fe4f81d2ee06c5cda8be6e6822afa4aba06706a62ccd65d1724d4a410b18e",
+      "parts": 7,
+      "characters": 4583,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "cds-art218ter",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art218ter!vig=",
+      "sha256": "7c8e5eb0ab12202639737b84c2d9139c2410a7ae3d27cf0c7a2aede25bbc6103",
+      "parts": 10,
+      "characters": 5235,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "disp-cpp-art113",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;271~art113!vig=",
+      "sha256": "30ba8105c2da1e4ba41a5f21eaf3de4f05f9c982abf43887cd9557d1725edf4a",
+      "parts": 2,
+      "characters": 330,
+      "readComplete": false,
+      "readScope": "Risposta incongrua: decreto di approvazione; esclusa dalla prova"
+    },
+    {
+      "name": "disp-cpp-art114",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;271~art114!vig=",
+      "sha256": "30ba8105c2da1e4ba41a5f21eaf3de4f05f9c982abf43887cd9557d1725edf4a",
+      "parts": 2,
+      "characters": 330,
+      "readComplete": false,
+      "readScope": "Risposta incongrua: decreto di approvazione; esclusa dalla prova"
+    },
+    {
+      "name": "l241-art19bis",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art19bis!vig=",
+      "sha256": "6f438f8905b2cb1b470c4c51a17fcc38a601a3447f6d6a39fadfa1aec3e5a9e1",
+      "parts": 5,
+      "characters": 1707,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l241-art20",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art20!vig=",
+      "sha256": "97545b41a238ccf2da2bfa844eb9b7720e830ff29a3e59b8412bb497bd16778a",
+      "parts": 7,
+      "characters": 3327,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "d114-art4",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;114~art4!vig=",
+      "sha256": "73c001fa8e2fdfa9fede346254c633dec647ee8ea68ccee7236cab241a483a27",
+      "parts": 3,
+      "characters": 6100,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "dl201-art7",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;201~art7!vig=",
+      "sha256": "9a81f5eef374f31a4ce2d6c026fb1347e18b7ebe11aa7e8fc943b1c090b64358",
+      "parts": 6,
+      "characters": 3567,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "dpr616-art19",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616~art19!vig=",
+      "sha256": "1788b4649e378451c547a69c29aa7ec59b2744bb21a05181dadd922e38c76c57",
+      "parts": 1,
+      "characters": 3793,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "l182-art34",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;182~art34!vig=",
+      "sha256": "8e4b6a80ecde456d90a26f028d456efcca616837c570db36435b8ea5d7dce96d",
+      "parts": 1,
+      "characters": 1940,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art63",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=15&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=63&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "9e18302e7cb0df7d0cb3f378c24261ad1816502b8cbc9c4fb084804ed640ca60",
+      "parts": 2,
+      "characters": 653,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    },
+    {
+      "name": "allegato-cpp-art64",
+      "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=15&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=64&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+      "sha256": "a44e5cd57564436775fab4dea432e2762f35db3ce243d42e13342b1dc99ff9af",
+      "parts": 4,
+      "characters": 1452,
+      "readComplete": true,
+      "readScope": "Articolo integrale"
+    }
+  ],
+  "additionalEvidence": [
+    "CCNL2026 PDF1 e33–37, non intero87p",
+    "D222 TabellaA PDF4–6 e23–24, non intero109p",
+    "Corte10/2026 motivazione15.3–16 e dispositivo viaweb; contenitoreHTML non prova integrale"
+  ]
+}

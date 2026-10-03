@@ -1,0 +1,90 @@
+[
+  {
+    "volume": "VOL-06",
+    "module": "M-IR02",
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+    "beforeSHA256": "f1a496020c862a5e0dd7de3148b49d55266d89e6da707de9192c143be3d73e52",
+    "sha256": "19096bac3632e73f97ccd8b4158833d36aea260ed6c44e971af0fc3620676594",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-06",
+    "module": "M-IR03",
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+    "beforeSHA256": "702970f06c11b71873afaa1549cd32575ce6d7d647965b0c2ea913ea050fbb17",
+    "sha256": "5fbaf2ca60876f3c03ef4682912fdf9ca6a991ca9e449bbe08e97f471fd2b4cd",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-06",
+    "module": "M-IR04",
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+    "beforeSHA256": "cade3d43a064dc3571456d34fc3b50146115ea53dd2c4f2e5b123368e85a4c49",
+    "sha256": "6f65e745b5da8f3e46fad63c203b8eab57a4bf563d7c1612a493b31e2c4bad15",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-07",
+    "module": "M-SA01",
+    "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza.md",
+    "beforeSHA256": "53b5f6fdbd196e25fbc294c50b98616508c4a824a0b38bf2c4da731e0ee58970",
+    "sha256": "940ebf00b8f2890c4e873145ebb4151d70e26135f2a633022b2abd5767e8ca07",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-07",
+    "module": "M-SA01",
+    "path": "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+    "beforeSHA256": "9110977ae305c061007723d78f95f0a6cc496b4e8b08827e6e2526c1bcd36a9e",
+    "sha256": "9df6a0106504bfb40b98810675119892b4aea427bc5eff068bb97948f1501219",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-07",
+    "module": "M-SA02",
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+    "beforeSHA256": "c500422c47ddf8b96e5fb1d82c16da3dbdb2cf4cd4c1f4d75c549d86be64158d",
+    "sha256": "1915f061907c4d83a59e2801d3c7c03782f8486d1edec7e4ef81d66fd0d223d5",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-12",
+    "module": "M-SP02",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/03-la-preselezione.md",
+    "beforeSHA256": "c5157b01ebe99339b4ac84224d70b60dc05ab44edcdf4a6f835ad5e9595323b1",
+    "sha256": "36dec5979357d1125592339ca03446d4b450182f2a9df5c00a6664e72a8df21c",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-12",
+    "module": "M-SP02",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/04-tre-prove-motorio-attitudinali.md",
+    "beforeSHA256": "5a7885531ef864c90914b2fa2c99ce710971f1d4d3f44097aa408d1cf1efc821",
+    "sha256": "89c4584cfeca46ebb968a5fe25337601516dd55b895614de350503b65e471dcc",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-12",
+    "module": "M-SP02",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/06-riuso-e-bando-decoder.md",
+    "beforeSHA256": "e7cf9d1af54dd1732ba03ff11a9e31be652b16ae4e95bea82a027f8a371a3d21",
+    "sha256": "c2f486609d7b086b02927517f5c1761c068c26f72d18065206c386e2a66af7b4",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-12",
+    "module": "M-SP02",
+    "path": "wiki/books/moduli/m-sp02-vigili-fuoco/chapters/08-errori-casi-checklist.md",
+    "beforeSHA256": "c60d59483769f97d7cb4dce54b4b9b19bf021198f4357648ccc870fdf814d9c8",
+    "sha256": "80e9494a3650cd22f4b3e8fab4a263184275014a5d52b87e4c5eb68ddc55799e",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  },
+  {
+    "volume": "VOL-12",
+    "module": "M-SP04",
+    "path": "wiki/books/moduli/m-sp04-prefettizia-diplomatica/chapters/01-mappa-scelta-bando-decoder.md",
+    "beforeSHA256": "c5d9c08a3dda24374fef131a01e8607778fb26440f14b7c41fbda4afc78b2b78",
+    "sha256": "69b63fad681a658ba0a1b3b902a58ef667b13b7c9c9b03be97d6b76ad4e2d987",
+    "change": "Rinvii locali sostituiti da titoli canonici per rendere univoca la consultazione del volume e del modulo."
+  }
+]

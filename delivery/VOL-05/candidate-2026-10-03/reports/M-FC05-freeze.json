@@ -1,0 +1,232 @@
+{
+  "volume": "VOL-05",
+  "module": "M-FC05",
+  "date": "2026-10-03",
+  "verification": "manuale dopo gate-not-implemented",
+  "checks": [
+    "15 capitoli letti integralmente nella baseline e modifiche riesaminate nel contesto.",
+    "33 ID testuali risolti; 90 quesiti aperti, 15 casi finali e 10 simulazioni verificati.",
+    "75 nuclei e 15 unità aggregate corretti; nessuno stato di copertura incompleto.",
+    "15 gate di capitolo senza blocker o warning; audit CLI 14 e 15 superati.",
+    "Rinvii del corpo risolti, indice e percorsi coerenti.",
+    "Humanizer e micro-revisione dei passaggi sostanziali completati; niente stampi generici nelle verifiche.",
+    "Fonti consolidate con lettura mirata dichiarata, data 3 ottobre 2026.",
+    "Gate text-freeze non implementato: verifica manuale eseguita senza simularne automazione."
+  ],
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "sha256": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "ee30d6423cbabf83309c161f753acedebf65182cfaab6209c37ea5500ec98f8c"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "sha256": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "6ea4aaf063661dc10278e12eb919bbf9f0ad18bbc7e40c389dec3a6859b6d2a7"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "sha256": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "bd2cc74063e6997fa09c1eb9d3bac8ba7a30de6587856a54a82fe8746ab632f1"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "sha256": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "1d5164109b5d6141fbd24d4a19b08d8a6aad51dd46eed2ee13c03aa2db573162"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "sha256": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "85d1d8e82d9cd741dcdbd19a6cb7b225b9faae858e1fc98eb672ad2a53cad023"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "sha256": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "9130062c795f9a9fb29289ea208a942f291ef273b7028bd0da2319d35c695221"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "sha256": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "12a08512e00291e166968a28680bbd9f39f047d03d674be34bc5de796d83106c"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "sha256": "46f43f3b336f8c59413b2ec9513d5c8ca1e79b18f9d7e306e7132e64873ff265",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "849ad339d949f3e0f48644e8ebe8745a046fff2921a04ba9c857817be8fb74aa"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "sha256": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "2f222cc0828567670a64e410fc5870863d09b56ba23d97e2e6234be582eab4d1"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "sha256": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "010e431c3e47f713bc14209f188eaaabcbb80a49d2fc155ab8da37b2c52beb9b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "sha256": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "1752a141ccdc175384569feedc95eb61ea0892d8ff2fe604883536f8ba5afdc1"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "sha256": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "37424b17a6b4a9bfc0d3b5727094811a361acf108fdd23e96bd40ccc8c32a640"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "sha256": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "d613f6ad2764976478a5b120cf71364304256fb30cbbb694245f1d3b48829adb"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "sha256": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "da183e444bf4f5cbaf9fe24914129d62a11834481dceac5f571ac6396f4c3e4a"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "sha256": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "5a1289874027650c4b8c84ed20b8a12d051f5ccb9cedb11d138f0a01dfc3b721"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/index.md",
+      "sha256": "52a7aace45f161cf679c80fc7443cd6cbe64bf0730ec1ddf9737a7fc60b994cf",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/planning/02-matrice-copertura-didattica.md",
+      "sha256": "21c57c0fdb6bc3e2d2312cbddf1d9a985015fbc374f2131bfbdc16cf4547fe68",
+      "status": "text-frozen",
+      "preGraphicsSHA256": "e53fc0ef3ecca6fbe3a6f5c260b108186a19a8d9d7ca4da6f1b523ea40a33f92"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/planning/03-bibbia-del-modulo.md",
+      "sha256": "92d80209bec09a99ede4a1e7cb9e30b638e00b905ef21436fddfc9503b37ce52",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/planning/00-piano-editoriale.md",
+      "sha256": "42b8329f096d424a6bb49244a0b391e592b967432ce6835c45146779bec5b1bb",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/books/vol-05-authority-regolazione/index.md",
+      "sha256": "bbe2e09646c4628e4af5492e906f93c49785715a6d9f9205e5047fd560f01b9a",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/topics/authority-rettifiche-2026.md",
+      "sha256": "cae38b556d146367895f6907c57d4e959d70df9af0354e85a6f34f1496db76ab",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-agcm-verifica-2026-10-03.md",
+      "sha256": "c97db12bb221594ba9bf38ae238bcbd57f380ba873a5accb32f951b601dc11ba",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-agcom-verifica-2026-10-03.md",
+      "sha256": "d93d0bddd4bd5645b35bf9132fd9319a79750dd5b1156199bf5cf3d0949acce8",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-air-verifica-2026-10-03.md",
+      "sha256": "7d20a0f0c1a859d0cb6b8b1dab893b86e37e5fb50206fcd822465262fa296b3a",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-anac-whistleblowing-verifica-2026-10-03.md",
+      "sha256": "c65d0ba99cd69b9428d4c09b686c090fa757e60cba3e6d37592e0802e275624d",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-arera-verifica-2026-10-03.md",
+      "sha256": "be9e95c3210520ff340ea6eaa70bd5ce9d90bbab73d60704cb90f3d67df7d82c",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-banca-ivass-verifica-2026-10-03.md",
+      "sha256": "92ed4f3d4e092003e858940372ae6fcae1b073c923e00ec2543a90091071b3d9",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-consob-verifica-2026-10-03.md",
+      "sha256": "47fdb2fb5cff8966d05117ed58bb79d72401ea31dd9a9943a8880b731f1232ac",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-economia-esempi-verifica-2026-10-03.md",
+      "sha256": "47ca1f4ea46a7071191cd56a52a3f3123156adde29e88ea709d1770dda89443d",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-garante-procedimenti-verifica-2026-10-03.md",
+      "sha256": "49eeb5f86128e470a0946c03272e671dc81aad4291602984c5e69930f236a8ef",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-governance-verifica-2026-10-03.md",
+      "sha256": "720be26e9fe20d63794819f33ac429b1fd164ebcab37e70cafe6dcb789bc439d",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-istruttoria-verifica-2026-10-03.md",
+      "sha256": "2dac438b8e631e67f5164806e05c7b4c68a6971714a25be9c1fc1e25b9795bc7",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-reti-ue-verifica-2026-10-03.md",
+      "sha256": "cf773fc9d1f10dc789fdfef2015f2a53d0fe0d3cc802edbf6158221168153e68",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-sanzioni-giurisdizione-verifica-2026-10-03.md",
+      "sha256": "7317053b64320b51d78b9756b674241272510512fe9ca6161230137fd859f124",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-bandi-authority-2022-2025.md",
+      "sha256": "3f985f24bf82c8beb2473644bed2855e3c55086721c769398ef330222d5e5c75",
+      "status": "text-frozen"
+    },
+    {
+      "path": "wiki/sources/vol-05-aggiornamento-specialistico-2026-08-22.md",
+      "sha256": "dd4c71505cf7ff83825db81c45bd8a61a9b5352540caf8e3578fc255f547bd53",
+      "status": "text-frozen"
+    }
+  ],
+  "limitations": [
+    "Figure e PDF in lavorazione; pubblicabilità finale non attestata.",
+    "Nessun commit o pubblicazione. Riscontri normativi limitati ai passaggi documentati."
+  ],
+  "controlledLayoutDelta": {
+    "date": "2026-10-03",
+    "previousManifest": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\M-FC05-freeze-before-graphics.json",
+    "nativeSchemes": 75,
+    "allBodyOutsideDeclaredDeltaPreserved": true,
+    "checkpoint": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\VOL-05-native-checkpoint.json",
+    "projectionManifest": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol05-proof\\projection-manifest.json"
+  },
+  "pdfChecked": {
+    "sha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5",
+    "pages": 239,
+    "method": "15 contact sheets of the prior candidate, 50 detailed pages; final delta checked at full page for all 7 changed pages; 232 remaining pages pixel-identical at 72 dpi. Final contacts regenerated and included, not claimed separately reread.",
+    "finalSignoff": false
+  }
+}

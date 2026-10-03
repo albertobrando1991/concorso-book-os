@@ -79,7 +79,7 @@ Questa regola vale per pubblico impiego, procedimento amministrativo generale, t
 | Griglia profilo-materia-output | AUPP, cancelleria, UNEP, DAP, DGMC |
 
 ## Review prima della scrittura finale
-- Verifica chiusa il 18 agosto 2026: non risulta conversione del D.L. 100/2026 entro la scadenza dell'11 agosto 2026.
+- Rettifica verificata il 3 ottobre 2026: DL100/2026 convertito dalla L.145/2026; leggere UPP coordinato anche dopo DL144/2026 art.7.
 - Verificare decreti e specifiche DGSIA sul processo penale telematico.
 - Verificare assetto aggiornato del Ministero della giustizia dopo i regolamenti 2024-2025.
 - Verificare testo definitivo del CCNL Funzioni Centrali 2025-2027, se sottoscritto.

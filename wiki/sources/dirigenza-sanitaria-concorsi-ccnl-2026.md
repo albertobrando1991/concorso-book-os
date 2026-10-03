@@ -9,7 +9,7 @@ entities: ["ARAN", "Servizio sanitario nazionale"]
 source_refs: ["sources/ssn-organizzazione-aziende-standard-lea"]
 book_refs: ["m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
-updated_at: 2026-07-31T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T17:48:00+02:00
 review_required: true
 canonical: true
@@ -31,3 +31,7 @@ Il CCNL corrente dell'Area Sanità è il 2022-2024, sottoscritto definitivamente
 Per la scrittura occorre distinguere disciplina concorsuale, rapporto di lavoro e contenuto tecnico-professionale. Equipollenze/affinità, specializzandi, iscrizione, rapporto esclusivo, graduatorie e requisiti del bando sono parti mobili. CCNL e D.P.R. 483 non sostituiscono linee guida, profili deontologici o protocolli clinici.
 
 Fonte pronta per capitoli su accesso, ruolo dirigenziale e prove; review giuridico-contrattuale obbligatoria allo step 15.
+
+## Riscontro del 3 ottobre 2026
+
+Consultati nella [GU del D.P.R. 483/1997](https://www.gazzettaufficiale.it/eli/id/1998/01/17/098G0004/sg) gli artt. 14, 27, 35, 43 e 55: medico, farmacista, biologo e psicologo hanno quadro ordinario 20 titoli e 80 prove (30 scritta, 30 pratica, 20 orale); titoli 10 carriera, 3 accademici/studio, 3 pubblicazioni/scientifici, 4 curriculum. Soglie 21/30 scritta/pratica, 14/20 orale. Non si generalizza a incarichi di struttura complessa o procedure speciali. Art. 37 D.Lgs. 165/2001: obbligo di accertamento delle conoscenze informatiche diffuse e inglese, distinguendolo da modalità, livello ed eventuali ulteriori lingue del bando. Il quadro si coordina con il regolamento sanitario speciale.

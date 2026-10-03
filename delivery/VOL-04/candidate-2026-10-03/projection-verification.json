@@ -1,0 +1,3157 @@
+{
+  "baselinePages": 369,
+  "currentPages": 367,
+  "pdfSha256": "b2a48f8dc70238ead3133a0f859d8bddc9eb9aa0f20e1f54644f16ca7889e09e",
+  "baselinePdfSha256": "898b5fa42baa6019b8141524fd0217f17ebe9e9bc826309e75ba5d0c4ee2af66",
+  "indexMinimumPt": 9.500025,
+  "overflowPages": [],
+  "missingImages": 0,
+  "literalBr": 0,
+  "sourceHashMismatches": [],
+  "fmPages": {
+    "books/vol-04-giustizia-upp/front-matter/01-servizi-digitali.md": [
+      1
+    ],
+    "books/vol-04-giustizia-upp/front-matter/03-copyright-colophon.md": [
+      3
+    ]
+  },
+  "chapterComparison": [
+    {
+      "path": "books/vol-04-giustizia-upp/front-matter/01-servizi-digitali.md",
+      "oldPages": [
+        1
+      ],
+      "newPages": [
+        1
+      ],
+      "textEqual": false,
+      "wordDeltas": [
+        {
+          "operation": "replace",
+          "before": "Servizi",
+          "after": "Risorse"
+        },
+        {
+          "operation": "replace",
+          "before": "inclusi Questo",
+          "after": "e aggiornamenti Il"
+        },
+        {
+          "operation": "replace",
+          "before": "(VOL-04) è collegato ai",
+          "after": "contiene spiegazioni, esercizi e soluzioni del percorso specialistico dichiarato nell'indice. Presuppone le basi comuni richiamate nella premessa; appendici e simulazioni si svolgono senza"
+        },
+        {
+          "operation": "replace",
+          "before": "Capitale Personale: aggiornamenti operativi, schede compilabili, planner, Bando Decoder e materiali di lavoro collegati ai moduli interni. COSA AGGIUNGE IL DIGITALE Servizio Funzione Bando Decoder Trasforma il bando in piano di studio e priorità. Planner Organizza tempi, prove, ripassi e simulazioni. Servizio Funzione Schede modulo Adatta il Metodo BANDO alla famiglia concorsuale del volume. Aggiornamenti Aiuta",
+          "after": "aggiuntivi. Le informazioni soggette"
+        },
+        {
+          "operation": "replace",
+          "before": "controllare",
+          "after": "cambiamento devono essere ricontrollate"
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "indicate nel testo. COME VERIFICARE GLI AGGIORNAMENTI usa Gazzetta Ufficiale e Normattiva per testi e vigenza degli atti; usa i siti istituzionali del Ministero della giustizia e del Portale dei Servizi Telematici per organizzazione, servizi e avvisi; usa il bando, gli allegati e"
+        },
+        {
+          "operation": "replace",
+          "before": "novità rilevanti",
+          "after": "comunicazioni dell'amministrazione"
+        },
+        {
+          "operation": "replace",
+          "before": "il bando",
+          "after": "requisiti, prove"
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "calendario; annota nel diario degli errori la fonte e la data dell'ultimo controllo. Un eventuale servizio digitale collegato all'opera sarà indicato solo quando sarà disponibile un indirizzo verificato. Questa edizione non richiede un QR code"
+        },
+        {
+          "operation": "replace",
+          "before": "la prova. BANDO IN PRATICA Il volume resta utilizzabile anche senza piattaforma: il digitale accelera compilazione, verifica e aggiornamento, ma non sostituisce il libro.",
+          "after": "utilizzare appendici, strumenti o simulazioni."
+        }
+      ]
+    },
+    {
+      "path": "books/volumi/vol-04/front-matter/fm2-frontespizio.md",
+      "oldPages": [
+        2
+      ],
+      "newPages": [
+        2
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/vol-04-giustizia-upp/front-matter/03-copyright-colophon.md",
+      "oldPages": [
+        3
+      ],
+      "newPages": [
+        3
+      ],
+      "textEqual": false,
+      "wordDeltas": [
+        {
+          "operation": "replace",
+          "before": "Questo",
+          "after": "Il presente"
+        },
+        {
+          "operation": "delete",
+          "before": "appartiene alla linea ConcorsoBook OS / Capitale Personale ed",
+          "after": ""
+        },
+        {
+          "operation": "replace",
+          "before": "costruito come libro-workbook per la",
+          "after": "un'opera editoriale di"
+        },
+        {
+          "operation": "replace",
+          "before": "pubblici italiani. Per la tua candidatura controlla sempre",
+          "after": "pubblici. Le fonti normative, contrattuali, amministrative e giurisprudenziali sono richiamate a fini di studio e commento, con taglio didattico e operativo. Le informazioni sono state elaborate sulla base di fonti ufficiali e materiali istituzionali disponibili alla data di aggiornamento indicata nel volume. Prima dell'utilizzo professionale o della partecipazione a una prova concorsuale, il candidato deve verificare"
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "allegati, le rettifiche, le comunicazioni ufficiali e il testo vigente delle disposizioni richiamate. Il libro non sostituisce la consultazione delle fonti ufficiali, né costituisce parere legale. Per importi, termini,"
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "tecnici, modelli, istruzioni ministeriali"
+        },
+        {
+          "operation": "replace",
+          "before": "gli avvisi ufficiali della procedura. Per l’uso professionale",
+          "after": "decorrenze del processo telematico, la"
+        },
+        {
+          "operation": "replace",
+          "before": "le disposizioni vigenti e le regole applicabili al caso concreto.",
+          "after": "sulla fonte vigente è parte integrante del metodo di studio. Cura editoriale"
+        },
+        {
+          "operation": "replace",
+          "before": "non promette copertura totale di ogni",
+          "after": "è progettato secondo il Metodo BANDO: lettura del"
+        },
+        {
+          "operation": "replace",
+          "before": "né aggiornamento automatico: offre un metodo riusabile, una struttura modulare",
+          "after": "analisi delle materie, navigazione delle fonti, diario errori, output operativi"
+        },
+        {
+          "operation": "replace",
+          "before": "strumenti di lavoro collegati al perimetro editoriale dichiarato. Perimetro volume: Giustizia",
+          "after": "simulazione. La redazione evita duplicazioni con il libro base"
+        },
+        {
+          "operation": "replace",
+          "before": "UPP.",
+          "after": "sviluppa il solo delta specialistico del sistema Giustizia. Dati dell'edizione Marchio editoriale: Capitale Personale. Edizione revisionata: ottobre 2026. Cut-off normativo: 3 ottobre 2026. Formato interno cartaceo: 6,69 × 9,61 pollici."
+        }
+      ]
+    },
+    {
+      "path": "books/volumi/vol-04/front-matter/fm4-sommario.md",
+      "oldPages": [
+        4
+      ],
+      "newPages": [
+        4
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/volumi/vol-04/front-matter/fm5-premessa.md",
+      "oldPages": [
+        5
+      ],
+      "newPages": [
+        5
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/volumi/vol-04/front-matter/fm6-indice-completo.md",
+      "oldPages": [
+        6
+      ],
+      "newPages": [
+        6
+      ],
+      "textEqual": false,
+      "wordDeltas": [
+        {
+          "operation": "replace",
+          "before": "40",
+          "after": "39"
+        },
+        {
+          "operation": "replace",
+          "before": "55",
+          "after": "54"
+        },
+        {
+          "operation": "replace",
+          "before": "73",
+          "after": "72"
+        },
+        {
+          "operation": "replace",
+          "before": "93",
+          "after": "92"
+        },
+        {
+          "operation": "replace",
+          "before": "114",
+          "after": "113"
+        },
+        {
+          "operation": "replace",
+          "before": "139",
+          "after": "137"
+        },
+        {
+          "operation": "replace",
+          "before": "167",
+          "after": "165"
+        },
+        {
+          "operation": "replace",
+          "before": "193",
+          "after": "191"
+        },
+        {
+          "operation": "replace",
+          "before": "222",
+          "after": "220"
+        },
+        {
+          "operation": "replace",
+          "before": "252",
+          "after": "250"
+        },
+        {
+          "operation": "replace",
+          "before": "280",
+          "after": "278"
+        },
+        {
+          "operation": "replace",
+          "before": "309",
+          "after": "307"
+        },
+        {
+          "operation": "replace",
+          "before": "345",
+          "after": "343"
+        },
+        {
+          "operation": "replace",
+          "before": "365",
+          "after": "363"
+        },
+        {
+          "operation": "replace",
+          "before": "367",
+          "after": "365"
+        }
+      ]
+    },
+    {
+      "path": "books/volumi/vol-04/modules/m-fc04/frontespizio-sommario.md",
+      "oldPages": [
+        7
+      ],
+      "newPages": [
+        7
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md",
+      "oldPages": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "newPages": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md",
+      "oldPages": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "newPages": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "textEqual": false,
+      "wordDeltas": [
+        {
+          "operation": "delete",
+          "before": "CONTINUA",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "Annota nel diario le distinzioni incerte e ripassa le relative funzioni."
+        },
+        {
+          "operation": "delete",
+          "before": "M-FC04 2. MINISTERO, DIPARTIMENTI E AMMINISTRAZIONI DELLA GIUSTIZIA Se una risposta è incerta, inseriscila nel diario degli errori. Le etichette utili sono: \"Ministero/giurisdizione confusi\", \"sigla senza funzione\", \"DAP e DGMC confusi\", \"DIT e DGSIA confusi\", \"bando non collegato all'ufficio\", \"organigramma senza output\". VOL-04 — Giustizia",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md",
+      "oldPages": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "newPages": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md",
+      "oldPages": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "newPages": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md",
+      "oldPages": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "newPages": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md",
+      "oldPages": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113
+      ],
+      "newPages": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "textEqual": false,
+      "wordDeltas": [
+        {
+          "operation": "delete",
+          "before": "VOL-04 — Giustizia M-FC04 6. PROCESSO CIVILE OPERATIVO PER UPP E CANCELLERIA CONTINUA",
+          "after": ""
+        },
+        {
+          "operation": "delete",
+          "before": "QUIZ COMMENTATO Nel rito ordinario attuale, quando deve costituirsi il convenuto?",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "QUIZ COMMENTATO Nel rito ordinario attuale, quando deve costituirsi il convenuto?"
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "VOL-04 — Giustizia M-FC04 6. PROCESSO CIVILE OPERATIVO PER UPP E CANCELLERIA CONTINUA"
+        },
+        {
+          "operation": "delete",
+          "before": "VOL-04 — Giustizia M-FC04 6. PROCESSO CIVILE OPERATIVO PER UPP E CANCELLERIA",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "VOL-04 — Giustizia M-FC04 6. PROCESSO CIVILE OPERATIVO PER UPP E CANCELLERIA"
+        }
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md",
+      "oldPages": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138
+      ],
+      "newPages": [
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "textEqual": false,
+      "wordDeltas": [
+        {
+          "operation": "delete",
+          "before": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA Fase Parola chiave Domanda d'ufficio"
+        },
+        {
+          "operation": "delete",
+          "before": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA Piano Ufficio requirente Ufficio giudicante"
+        },
+        {
+          "operation": "delete",
+          "before": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA"
+        },
+        {
+          "operation": "delete",
+          "before": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA"
+        },
+        {
+          "operation": "delete",
+          "before": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "VOL-04 — Giustizia M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA CONTINUA"
+        },
+        {
+          "operation": "delete",
+          "before": "CONTINUA",
+          "after": ""
+        },
+        {
+          "operation": "insert",
+          "before": "",
+          "after": "Annota nel diario le distinzioni incerte e ripassa le relative funzioni."
+        },
+        {
+          "operation": "delete",
+          "before": "M-FC04 7. PROCESSO PENALE OPERATIVO PER UPP E CANCELLERIA Se una risposta è incerta, registrala nel diario degli errori. Le etichette utili sono: \"processo penale troppo teorico\", \"PM/giudice confusi\", \"registro ignorato\", \"notifiche/depositi confusi\", \"PPT generalizzato\", \"esecuzione penale saltata\", \"riparativa confusa con mediazione generica\". VOL-04 — Giustizia",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md",
+      "oldPages": [
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ],
+      "newPages": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md",
+      "oldPages": [
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192
+      ],
+      "newPages": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md",
+      "oldPages": [
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221
+      ],
+      "newPages": [
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md",
+      "oldPages": [
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251
+      ],
+      "newPages": [
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md",
+      "oldPages": [
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279
+      ],
+      "newPages": [
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md",
+      "oldPages": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308
+      ],
+      "newPages": [
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md",
+      "oldPages": [
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344
+      ],
+      "newPages": [
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md",
+      "oldPages": [
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364
+      ],
+      "newPages": [
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362
+      ],
+      "textEqual": false,
+      "wordDeltas": [
+        {
+          "operation": "replace",
+          "before": "residuo194",
+          "after": "residuo 194"
+        },
+        {
+          "operation": "replace",
+          "before": "voce27",
+          "after": "voce 27"
+        },
+        {
+          "operation": "replace",
+          "before": "perimetro25-bis",
+          "after": "perimetro 25-bis"
+        },
+        {
+          "operation": "replace",
+          "before": "distinguere140/143",
+          "after": "distinguere 140 / 143"
+        },
+        {
+          "operation": "replace",
+          "before": "per13marzo",
+          "after": "per 13 marzo"
+        },
+        {
+          "operation": "replace",
+          "before": "accesso16",
+          "after": "accesso 16"
+        },
+        {
+          "operation": "replace",
+          "before": "scadenza1giugno;",
+          "after": "scadenza 1 giugno;"
+        },
+        {
+          "operation": "replace",
+          "before": "per45giorni",
+          "after": "per 45 giorni"
+        }
+      ]
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md",
+      "oldPages": [
+        365,
+        366
+      ],
+      "newPages": [
+        363,
+        364
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    },
+    {
+      "path": "books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md",
+      "oldPages": [
+        367,
+        368,
+        369
+      ],
+      "newPages": [
+        365,
+        366,
+        367
+      ],
+      "textEqual": true,
+      "wordDeltas": []
+    }
+  ],
+  "pixelComparisonScope": "72 dpi, matching chapter pages, crop excludes bottom 38 pt running footer",
+  "unchangedContentPages": [
+    {
+      "page": 2,
+      "oldPage": 2,
+      "path": "books/volumi/vol-04/front-matter/fm2-frontespizio.md"
+    },
+    {
+      "page": 4,
+      "oldPage": 4,
+      "path": "books/volumi/vol-04/front-matter/fm4-sommario.md"
+    },
+    {
+      "page": 5,
+      "oldPage": 5,
+      "path": "books/volumi/vol-04/front-matter/fm5-premessa.md"
+    },
+    {
+      "page": 7,
+      "oldPage": 7,
+      "path": "books/volumi/vol-04/modules/m-fc04/frontespizio-sommario.md"
+    },
+    {
+      "page": 8,
+      "oldPage": 8,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 9,
+      "oldPage": 9,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 10,
+      "oldPage": 10,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 11,
+      "oldPage": 11,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 12,
+      "oldPage": 12,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 13,
+      "oldPage": 13,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 14,
+      "oldPage": 14,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 15,
+      "oldPage": 15,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 16,
+      "oldPage": 16,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 17,
+      "oldPage": 17,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 18,
+      "oldPage": 18,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 19,
+      "oldPage": 19,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 20,
+      "oldPage": 20,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 21,
+      "oldPage": 21,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 22,
+      "oldPage": 22,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 23,
+      "oldPage": 23,
+      "path": "books/moduli/m-fc04-giustizia/chapters/01-sistema-giustizia-visto-dal-candidato.md"
+    },
+    {
+      "page": 24,
+      "oldPage": 24,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 25,
+      "oldPage": 25,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 26,
+      "oldPage": 26,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 27,
+      "oldPage": 27,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 28,
+      "oldPage": 28,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 29,
+      "oldPage": 29,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 30,
+      "oldPage": 30,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 31,
+      "oldPage": 31,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 32,
+      "oldPage": 32,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 33,
+      "oldPage": 33,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 34,
+      "oldPage": 34,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 35,
+      "oldPage": 35,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 36,
+      "oldPage": 36,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 37,
+      "oldPage": 37,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 137,
+      "oldPage": 139,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 138,
+      "oldPage": 140,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 141,
+      "oldPage": 143,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 142,
+      "oldPage": 144,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 143,
+      "oldPage": 145,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 145,
+      "oldPage": 147,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 146,
+      "oldPage": 148,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 148,
+      "oldPage": 150,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 149,
+      "oldPage": 151,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 150,
+      "oldPage": 152,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 151,
+      "oldPage": 153,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 152,
+      "oldPage": 154,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 153,
+      "oldPage": 155,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 154,
+      "oldPage": 156,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 155,
+      "oldPage": 157,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 156,
+      "oldPage": 158,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 157,
+      "oldPage": 159,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 158,
+      "oldPage": 160,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 159,
+      "oldPage": 161,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 160,
+      "oldPage": 162,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 161,
+      "oldPage": 163,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 165,
+      "oldPage": 167,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 167,
+      "oldPage": 169,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 168,
+      "oldPage": 170,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 169,
+      "oldPage": 171,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 170,
+      "oldPage": 172,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 171,
+      "oldPage": 173,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 172,
+      "oldPage": 174,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 173,
+      "oldPage": 175,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 174,
+      "oldPage": 176,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 175,
+      "oldPage": 177,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 176,
+      "oldPage": 178,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 177,
+      "oldPage": 179,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 178,
+      "oldPage": 180,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 180,
+      "oldPage": 182,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 181,
+      "oldPage": 183,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 182,
+      "oldPage": 184,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 183,
+      "oldPage": 185,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 184,
+      "oldPage": 186,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 185,
+      "oldPage": 187,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 187,
+      "oldPage": 189,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 191,
+      "oldPage": 193,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 192,
+      "oldPage": 194,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 193,
+      "oldPage": 195,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 194,
+      "oldPage": 196,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 197,
+      "oldPage": 199,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 199,
+      "oldPage": 201,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 201,
+      "oldPage": 203,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 203,
+      "oldPage": 205,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 204,
+      "oldPage": 206,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 205,
+      "oldPage": 207,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 206,
+      "oldPage": 208,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 208,
+      "oldPage": 210,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 209,
+      "oldPage": 211,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 210,
+      "oldPage": 212,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 211,
+      "oldPage": 213,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 212,
+      "oldPage": 214,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 213,
+      "oldPage": 215,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 214,
+      "oldPage": 216,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 220,
+      "oldPage": 222,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 221,
+      "oldPage": 223,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 222,
+      "oldPage": 224,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 223,
+      "oldPage": 225,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 224,
+      "oldPage": 226,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 225,
+      "oldPage": 227,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 226,
+      "oldPage": 228,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 227,
+      "oldPage": 229,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 228,
+      "oldPage": 230,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 229,
+      "oldPage": 231,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 230,
+      "oldPage": 232,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 231,
+      "oldPage": 233,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 232,
+      "oldPage": 234,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 233,
+      "oldPage": 235,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 235,
+      "oldPage": 237,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 236,
+      "oldPage": 238,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 237,
+      "oldPage": 239,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 238,
+      "oldPage": 240,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 239,
+      "oldPage": 241,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 240,
+      "oldPage": 242,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 241,
+      "oldPage": 243,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 242,
+      "oldPage": 244,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 243,
+      "oldPage": 245,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 244,
+      "oldPage": 246,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 250,
+      "oldPage": 252,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 251,
+      "oldPage": 253,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 253,
+      "oldPage": 255,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 255,
+      "oldPage": 257,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 256,
+      "oldPage": 258,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 257,
+      "oldPage": 259,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 258,
+      "oldPage": 260,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 259,
+      "oldPage": 261,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 260,
+      "oldPage": 262,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 261,
+      "oldPage": 263,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 262,
+      "oldPage": 264,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 266,
+      "oldPage": 268,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 267,
+      "oldPage": 269,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 268,
+      "oldPage": 270,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 269,
+      "oldPage": 271,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 270,
+      "oldPage": 272,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 273,
+      "oldPage": 275,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 278,
+      "oldPage": 280,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 281,
+      "oldPage": 283,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 282,
+      "oldPage": 284,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 283,
+      "oldPage": 285,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 284,
+      "oldPage": 286,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 285,
+      "oldPage": 287,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 286,
+      "oldPage": 288,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 289,
+      "oldPage": 291,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 290,
+      "oldPage": 292,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 292,
+      "oldPage": 294,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 293,
+      "oldPage": 295,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 294,
+      "oldPage": 296,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 295,
+      "oldPage": 297,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 296,
+      "oldPage": 298,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 297,
+      "oldPage": 299,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 298,
+      "oldPage": 300,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 301,
+      "oldPage": 303,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 303,
+      "oldPage": 305,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 307,
+      "oldPage": 309,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 308,
+      "oldPage": 310,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 309,
+      "oldPage": 311,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 310,
+      "oldPage": 312,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 311,
+      "oldPage": 313,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 317,
+      "oldPage": 319,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 319,
+      "oldPage": 321,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 320,
+      "oldPage": 322,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 321,
+      "oldPage": 323,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 323,
+      "oldPage": 325,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 324,
+      "oldPage": 326,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 325,
+      "oldPage": 327,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 326,
+      "oldPage": 328,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 328,
+      "oldPage": 330,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 330,
+      "oldPage": 332,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 331,
+      "oldPage": 333,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 332,
+      "oldPage": 334,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 333,
+      "oldPage": 335,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 334,
+      "oldPage": 336,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 339,
+      "oldPage": 341,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 343,
+      "oldPage": 345,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 344,
+      "oldPage": 346,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 345,
+      "oldPage": 347,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 346,
+      "oldPage": 348,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 347,
+      "oldPage": 349,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 348,
+      "oldPage": 350,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 350,
+      "oldPage": 352,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 351,
+      "oldPage": 353,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 352,
+      "oldPage": 354,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 353,
+      "oldPage": 355,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 355,
+      "oldPage": 357,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 357,
+      "oldPage": 359,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 358,
+      "oldPage": 360,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 359,
+      "oldPage": 361,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 360,
+      "oldPage": 362,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 361,
+      "oldPage": 363,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 362,
+      "oldPage": 364,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 363,
+      "oldPage": 365,
+      "path": "books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md"
+    },
+    {
+      "page": 364,
+      "oldPage": 366,
+      "path": "books/moduli/m-fc04-giustizia/chapters/16-conclusione-vol-04.md"
+    }
+  ],
+  "changedContentPages": [
+    {
+      "page": 1,
+      "oldPage": 1,
+      "path": "books/vol-04-giustizia-upp/front-matter/01-servizi-digitali.md"
+    },
+    {
+      "page": 3,
+      "oldPage": 3,
+      "path": "books/vol-04-giustizia-upp/front-matter/03-copyright-colophon.md"
+    },
+    {
+      "page": 6,
+      "oldPage": 6,
+      "path": "books/volumi/vol-04/front-matter/fm6-indice-completo.md"
+    },
+    {
+      "page": 38,
+      "oldPage": 38,
+      "path": "books/moduli/m-fc04-giustizia/chapters/02-ministero-dipartimenti-amministrazioni-giustizia.md"
+    },
+    {
+      "page": 39,
+      "oldPage": 40,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 40,
+      "oldPage": 41,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 41,
+      "oldPage": 42,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 42,
+      "oldPage": 43,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 43,
+      "oldPage": 44,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 44,
+      "oldPage": 45,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 45,
+      "oldPage": 46,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 46,
+      "oldPage": 47,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 47,
+      "oldPage": 48,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 48,
+      "oldPage": 49,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 49,
+      "oldPage": 50,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 50,
+      "oldPage": 51,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 51,
+      "oldPage": 52,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 52,
+      "oldPage": 53,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 53,
+      "oldPage": 54,
+      "path": "books/moduli/m-fc04-giustizia/chapters/03-uffici-giudiziari-ordinamento-lavoro-ufficio.md"
+    },
+    {
+      "page": 54,
+      "oldPage": 55,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 55,
+      "oldPage": 56,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 56,
+      "oldPage": 57,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 57,
+      "oldPage": 58,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 58,
+      "oldPage": 59,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 59,
+      "oldPage": 60,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 60,
+      "oldPage": 61,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 61,
+      "oldPage": 62,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 62,
+      "oldPage": 63,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 63,
+      "oldPage": 64,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 64,
+      "oldPage": 65,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 65,
+      "oldPage": 66,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 66,
+      "oldPage": 67,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 67,
+      "oldPage": 68,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 68,
+      "oldPage": 69,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 69,
+      "oldPage": 70,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 70,
+      "oldPage": 71,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 71,
+      "oldPage": 72,
+      "path": "books/moduli/m-fc04-giustizia/chapters/04-ufficio-per-il-processo-struttura-progetto-flussi.md"
+    },
+    {
+      "page": 72,
+      "oldPage": 73,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 73,
+      "oldPage": 74,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 74,
+      "oldPage": 75,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 75,
+      "oldPage": 76,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 76,
+      "oldPage": 77,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 77,
+      "oldPage": 78,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 78,
+      "oldPage": 79,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 79,
+      "oldPage": 80,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 80,
+      "oldPage": 81,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 81,
+      "oldPage": 82,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 82,
+      "oldPage": 83,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 83,
+      "oldPage": 84,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 84,
+      "oldPage": 85,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 85,
+      "oldPage": 86,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 86,
+      "oldPage": 87,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 87,
+      "oldPage": 88,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 88,
+      "oldPage": 89,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 89,
+      "oldPage": 90,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 90,
+      "oldPage": 91,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 91,
+      "oldPage": 92,
+      "path": "books/moduli/m-fc04-giustizia/chapters/05-lavoro-aupp-fascicolo-udienza-ricerca-scheda.md"
+    },
+    {
+      "page": 92,
+      "oldPage": 93,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 93,
+      "oldPage": 94,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 94,
+      "oldPage": 95,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 95,
+      "oldPage": 96,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 96,
+      "oldPage": 97,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 97,
+      "oldPage": 98,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 98,
+      "oldPage": 99,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 99,
+      "oldPage": 100,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 100,
+      "oldPage": 101,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 101,
+      "oldPage": 102,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 102,
+      "oldPage": 103,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 103,
+      "oldPage": 104,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 104,
+      "oldPage": 105,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 105,
+      "oldPage": 106,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 106,
+      "oldPage": 107,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 107,
+      "oldPage": 108,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 108,
+      "oldPage": 109,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 109,
+      "oldPage": 110,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 110,
+      "oldPage": 111,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 111,
+      "oldPage": 112,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 112,
+      "oldPage": 113,
+      "path": "books/moduli/m-fc04-giustizia/chapters/06-processo-civile-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 113,
+      "oldPage": 114,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 114,
+      "oldPage": 115,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 115,
+      "oldPage": 116,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 116,
+      "oldPage": 117,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 117,
+      "oldPage": 118,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 118,
+      "oldPage": 119,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 119,
+      "oldPage": 120,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 120,
+      "oldPage": 121,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 121,
+      "oldPage": 122,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 122,
+      "oldPage": 123,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 123,
+      "oldPage": 124,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 124,
+      "oldPage": 125,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 125,
+      "oldPage": 126,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 126,
+      "oldPage": 127,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 127,
+      "oldPage": 128,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 128,
+      "oldPage": 129,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 129,
+      "oldPage": 130,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 130,
+      "oldPage": 131,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 131,
+      "oldPage": 132,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 132,
+      "oldPage": 133,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 133,
+      "oldPage": 134,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 134,
+      "oldPage": 135,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 135,
+      "oldPage": 136,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 136,
+      "oldPage": 137,
+      "path": "books/moduli/m-fc04-giustizia/chapters/07-processo-penale-operativo-upp-cancelleria.md"
+    },
+    {
+      "page": 139,
+      "oldPage": 141,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 140,
+      "oldPage": 142,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 144,
+      "oldPage": 146,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 147,
+      "oldPage": 149,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 162,
+      "oldPage": 164,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 163,
+      "oldPage": 165,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 164,
+      "oldPage": 166,
+      "path": "books/moduli/m-fc04-giustizia/chapters/08-servizi-cancelleria-registri-comunicazioni-certificazioni.md"
+    },
+    {
+      "page": 166,
+      "oldPage": 168,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 179,
+      "oldPage": 181,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 186,
+      "oldPage": 188,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 188,
+      "oldPage": 190,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 189,
+      "oldPage": 191,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 190,
+      "oldPage": 192,
+      "path": "books/moduli/m-fc04-giustizia/chapters/09-spese-giustizia-patrocinio-recupero.md"
+    },
+    {
+      "page": 195,
+      "oldPage": 197,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 196,
+      "oldPage": 198,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 198,
+      "oldPage": 200,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 200,
+      "oldPage": 202,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 202,
+      "oldPage": 204,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 207,
+      "oldPage": 209,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 215,
+      "oldPage": 217,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 216,
+      "oldPage": 218,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 217,
+      "oldPage": 219,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 218,
+      "oldPage": 220,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 219,
+      "oldPage": 221,
+      "path": "books/moduli/m-fc04-giustizia/chapters/10-casellario-carichi-pendenti-archivi-certificati.md"
+    },
+    {
+      "page": 234,
+      "oldPage": 236,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 245,
+      "oldPage": 247,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 246,
+      "oldPage": 248,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 247,
+      "oldPage": 249,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 248,
+      "oldPage": 250,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 249,
+      "oldPage": 251,
+      "path": "books/moduli/m-fc04-giustizia/chapters/11-unep-notificazioni-esecuzioni-protesti.md"
+    },
+    {
+      "page": 252,
+      "oldPage": 254,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 254,
+      "oldPage": 256,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 263,
+      "oldPage": 265,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 264,
+      "oldPage": 266,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 265,
+      "oldPage": 267,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 271,
+      "oldPage": 273,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 272,
+      "oldPage": 274,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 274,
+      "oldPage": 276,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 275,
+      "oldPage": 277,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 276,
+      "oldPage": 278,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 277,
+      "oldPage": 279,
+      "path": "books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md"
+    },
+    {
+      "page": 279,
+      "oldPage": 281,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 280,
+      "oldPage": 282,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 287,
+      "oldPage": 289,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 288,
+      "oldPage": 290,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 291,
+      "oldPage": 293,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 299,
+      "oldPage": 301,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 300,
+      "oldPage": 302,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 302,
+      "oldPage": 304,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 304,
+      "oldPage": 306,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 305,
+      "oldPage": 307,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 306,
+      "oldPage": 308,
+      "path": "books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md"
+    },
+    {
+      "page": 312,
+      "oldPage": 314,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 313,
+      "oldPage": 315,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 314,
+      "oldPage": 316,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 315,
+      "oldPage": 317,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 316,
+      "oldPage": 318,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 318,
+      "oldPage": 320,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 322,
+      "oldPage": 324,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 327,
+      "oldPage": 329,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 329,
+      "oldPage": 331,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 335,
+      "oldPage": 337,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 336,
+      "oldPage": 338,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 337,
+      "oldPage": 339,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 338,
+      "oldPage": 340,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 340,
+      "oldPage": 342,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 341,
+      "oldPage": 343,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 342,
+      "oldPage": 344,
+      "path": "books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md"
+    },
+    {
+      "page": 349,
+      "oldPage": 351,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 354,
+      "oldPage": 356,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 356,
+      "oldPage": 358,
+      "path": "books/moduli/m-fc04-giustizia/chapters/15-appendici-strumenti-finali.md"
+    },
+    {
+      "page": 365,
+      "oldPage": 367,
+      "path": "books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md"
+    },
+    {
+      "page": 366,
+      "oldPage": 368,
+      "path": "books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md"
+    },
+    {
+      "page": 367,
+      "oldPage": 369,
+      "path": "books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md"
+    }
+  ],
+  "visualReviewPending": [],
+  "visualReviewScope": "All 367 pages in 23 contact sheets plus 17 declared detail pages. See visual-review.json."
+}

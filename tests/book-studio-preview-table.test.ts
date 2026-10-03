@@ -4,6 +4,11 @@ import { describe, expect, it } from "vitest"
 import { BookStudioPreviewTable } from "@/app/components/book-studio-preview-table"
 
 describe("Book Studio preview table", () => {
+  it("renders real line breaks safely and marks writable rows", () => {
+    const html=renderToStaticMarkup(createElement(BookStudioPreviewTable,{block:{type:'table',headers:['Campo','Risposta'],rows:[['Fonte','Prima\nSeconda <script>'],['Motivazione','']]}}))
+    expect(html).toContain('Prima<br/>Seconda &lt;script&gt;')
+    expect(html).toContain('class="worksheetRow"')
+  })
   it("renders headers and continuation diagnostics on later fragments", () => {
     const html = renderToStaticMarkup(createElement(BookStudioPreviewTable, {
       block: {

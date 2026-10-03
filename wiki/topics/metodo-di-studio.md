@@ -53,3 +53,13 @@ Il metodo di studio per concorsi trasforma il bando in un sistema quotidiano: se
 
 ## Stato revisione
 Topic pronto per capitolo 13 e per il raccordo con la Parte III.
+
+
+## Correzioni didattiche del 2 ottobre 2026
+
+[[sources/vol-01-esempi-logica-inglese-metodo-2026-10-02]] consolida le correzioni di quiz e possessivi, limiti QCER, condizioni logiche, distribuzione delle ore, punteggio del caso Marta e valore atteso. Applicazione nei rispettivi capitoli del VOL-01; verifica indipendente e grafica ancora aperta.
+
+
+## Calendari e perimetro del 3 ottobre 2026
+
+[[sources/vol-01-esempi-logica-inglese-metodo-2026-10-02]] documenta i giorni residui dei piani, le quattro dimensioni della classificazione delle materie e la selezione di 13 mappe sulle 15 famiglie. Corrette promesse non documentate; controllo PDF ancora aperto.

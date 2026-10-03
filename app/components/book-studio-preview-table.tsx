@@ -27,16 +27,16 @@ export function BookStudioPreviewTable({
           <thead>
             <tr>
               {(block.headers || []).map((header, index) => (
-                <th key={`${header}-${index}`}>{header}</th>
+                <th key={`${header}-${index}`}>{cellLines(header)}</th>
               ))}
             </tr>
           </thead>
         ) : null}
         <tbody>
           {(block.rows || []).map((row, rowIndex) => (
-            <tr key={`${row.join("-")}-${rowIndex}`}>
+            <tr key={`${row.join("-")}-${rowIndex}`} className={row.slice(1).length > 0 && row.slice(1).every(cell => !cell.trim()) ? "worksheetRow" : undefined}>
               {row.map((cell, cellIndex) => (
-                <td key={`${cell}-${cellIndex}`}>{cell}</td>
+                <td key={`${cell}-${cellIndex}`}>{cellLines(cell)}</td>
               ))}
             </tr>
           ))}
@@ -44,4 +44,10 @@ export function BookStudioPreviewTable({
       </table>
     </div>
   )
+}
+
+function cellLines(value: string) {
+  return value.split("\n").map((line, index) => (
+    <React.Fragment key={index}>{index > 0 ? <br /> : null}{line}</React.Fragment>
+  ))
 }

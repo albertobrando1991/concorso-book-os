@@ -1,0 +1,195 @@
+{
+  "volume": "VOL-04",
+  "date": "2026-10-03",
+  "findings": [
+    {
+      "id": "V04-01",
+      "status": "corretto-verificato",
+      "evidence": "Distinte funzioni giudiziaria, requirente e giudicante; esempio ricondotto al settore pertinente; cap. 1."
+    },
+    {
+      "id": "V04-02",
+      "status": "corretto-verificato",
+      "evidence": "Organigramma DIT aggiornato alle quattro direzioni e DGSIA qualificata storicamente; cap. 2 e 12, fonte organizzazione."
+    },
+    {
+      "id": "V04-03",
+      "status": "corretto-verificato",
+      "evidence": "Sviluppate competenze, composizioni, territori e doppia dirigenza con artt. 1–4 D.Lgs. 240; cap. 2–3."
+    },
+    {
+      "id": "V04-04",
+      "status": "corretto-verificato",
+      "evidence": "Rettificati fonte, capitolo, indice, bibliografia e quiz sulla L. 145/2026; successivo DL 144 distinto e iter aggiornato."
+    },
+    {
+      "id": "V04-05",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 4: artt. 1–4 D.Lgs. 151, progetto e composizione; personale lettera f e residuo cancelleria distinti dalla decisione."
+    },
+    {
+      "id": "V04-06",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 5: dossier di otto documenti, quattro prodotti svolti; cap. 15: simulazione UPP con cronologia e soluzione."
+    },
+    {
+      "id": "V04-07",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 6: termini, riti e provvedimenti spiegati; calendario udienza 29 giugno 2026, costituzione e memorie calcolate."
+    },
+    {
+      "id": "V04-08",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 7: segreteria PM distinta dall’UPP giudicante; specificità della Procura generale della Cassazione."
+    },
+    {
+      "id": "V04-09",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 7: status, 335/45-bis, indagini, 415-bis, archiviazione, fascicoli, riti e impugnazioni; cronologia e simulazione 15.2."
+    },
+    {
+      "id": "V04-10",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 8 e 11: copia conforme o duplicato ex art. 475, superata formula esecutiva senza cancellare distinzione storica."
+    },
+    {
+      "id": "V04-11",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 8: registri, rettifica dati, accesso civile/penale e regime dati 9/10 GDPR e D.Lgs. 51; richieste risolte."
+    },
+    {
+      "id": "V04-12",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 9: soglia 13.659,64 euro, redditi familiari ed eccezioni, incremento penale e competenze/termini distinti."
+    },
+    {
+      "id": "V04-13",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 9: scaglioni CU, minimo, patrocinio pendente, Corte 137/2026, liquidazioni, opposizione e recupero; calcoli e caso 15.3."
+    },
+    {
+      "id": "V04-14",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 10: separati casellario persone e anagrafe sanzioni enti."
+    },
+    {
+      "id": "V04-15",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 10: qualità imputato, menzionabilità/eliminazione, obbligo 25-bis, validità, PDND e rimedio 40; quattro richieste."
+    },
+    {
+      "id": "V04-16",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 11: competenza, 139/140/143, relata, titolo, precetto 10/90, pignoramento 45 e forme, 492-bis; caso 15.4."
+    },
+    {
+      "id": "V04-17",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 11: offerta reale e mora del creditore distinte da espropriazione e liberazione automatica."
+    },
+    {
+      "id": "V04-18",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 12: prima PEC del regime attuale condizionata all’accettazione, regime previgente distinto; orari ed esiti WARN/ERROR/FATAL."
+    },
+    {
+      "id": "V04-19",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 12: profondità legata al bando; ReGIndE, INI-PEC, IPA, INAD; specifiche rettificate e calendario PPT 2026–2030."
+    },
+    {
+      "id": "V04-20",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 13: imputabilità per età, MAP minorile/adulta, termini, effetti e misure di comunità; caso 15.5."
+    },
+    {
+      "id": "V04-21",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 13: mediatori formati, almeno due, consenso/riservatezza/garanzie e conseguenze della mancata partecipazione."
+    },
+    {
+      "id": "V04-22",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 14: misure, presupposti e autorità; 35-bis/ter, calcolo riduzione/ristoro e caso 15.6."
+    },
+    {
+      "id": "V04-23",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 14: internato con misura detentiva, istituti, programma entro sei mesi, lavoro e disciplina."
+    },
+    {
+      "id": "V04-24",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 14: problema/dispositivo/effetto di Corte 99/2019, 253/2019, 10/2024 coordinati alle norme successive."
+    },
+    {
+      "id": "V04-25",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 15: sei dossier, consegne, risposte modello e sei rubriche di 30 punti; soglia didattica distinta dal bando."
+    },
+    {
+      "id": "V04-26",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 17: bibliografia per capitoli e norme; sentenza Torreggiani distinta dal comunicato e rassegna da pronuncia."
+    },
+    {
+      "id": "V04-27",
+      "status": "corretto-verificato",
+      "evidence": "84 quiz rielaborati con quattro alternative; chiavi A/B/C/D 21 ciascuna; 36 nuovi distrattori verificati nei primi sei capitoli."
+    },
+    {
+      "id": "V04-28",
+      "status": "corretto-verificato",
+      "evidence": "Refusi e imperativi corretti nel testo; eliminato apostrofo residuo dopo Perché nell’indice; controllo delle occorrenze contestuale."
+    },
+    {
+      "id": "V04-29",
+      "status": "corretto-verificato",
+      "evidence": "Cap. 15–16: rinvii al base con titoli/capitoli, VOL-12 con sezioni nominate, limiti dei profili pedagogici espliciti."
+    }
+  ],
+  "publicationReady": false,
+  "production": {
+    "pdfSha256": "b2a48f8dc70238ead3133a0f859d8bddc9eb9aa0f20e1f54644f16ca7889e09e",
+    "pages": 367,
+    "findings": [
+      {
+        "id": "P04-01",
+        "position": "Quiz, già p. 65",
+        "category": "Didattica",
+        "severity": "Grave",
+        "diagnosis": "La soluzione precedeva le alternative.",
+        "correction": "Domanda, quattro alternative, poi risposta e commento; ordine riscontrato nei PDF.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P04-02",
+        "position": "Tabella spesa/evento, già p. 152",
+        "category": "Layout",
+        "severity": "Media",
+        "diagnosis": "Parole e acronimi interrotti nelle celle.",
+        "correction": "Etichette con separatori spaziati e quattro colonne; tavola controllata a piena leggibilità.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P04-03",
+        "position": "Aperture dei 17 capitoli",
+        "category": "Gerarchia",
+        "severity": "Lieve",
+        "diagnosis": "Titoli consecutivi duplicati.",
+        "correction": "Rimosso il solo H1 ridondante; titolo metadata conservato e generato una volta.",
+        "status": "Corretto e verificato"
+      },
+      {
+        "id": "P04-04",
+        "position": "Finali di capitolo",
+        "category": "Paginazione",
+        "severity": "Media",
+        "diagnosis": "Code molto brevi e pagine quasi vuote.",
+        "correction": "Riflusso senza riduzione di font; due richiami al diario condensati riassorbiti alle pp.38 e136. Conservate le chiusure autonome con contenuto.",
+        "status": "Corretto e verificato"
+      }
+    ],
+    "finalSignoff": false
+  }
+}

@@ -9,7 +9,7 @@ entities: ["Agenzia delle Entrate"]
 source_refs: ["sources/catasto-pubblicita-immobiliare-estimo-m-fc02.md"]
 book_refs: ["m-fc02-agenzie-fiscali"]
 confidence: 0.82
-updated_at: 2026-07-06T22:38:25+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-01T21:00:00+02:00
 review_required: true
 canonical: true
@@ -47,3 +47,7 @@ La regola editoriale e': catasto e pubblicita immobiliare dialogano, ma non coin
 
 ## Stato revisione
 Usato per la redazione del capitolo 10. Necessaria review specialistica sulle norme tecniche e sulle procedure AE correnti prima della pubblicazione definitiva.
+
+## Integrazione del 3 ottobre 2026
+
+FC02/10 contiene tre calcoli con ipotesi, controllo del risultato e limite delle quotazioni OMI. Iscrizione ipotecaria costitutiva ai sensi dell’art. 2808 c.c.; si distinguono titolo e formalità. Fonti: [[sources/catasto-cartografia-estimo-pubblicita-immobiliare-aggiornamento-2026-07-18]], [[sources/diritto-civile-obbligazioni-contratti-m-fc02-2026-07-17]].

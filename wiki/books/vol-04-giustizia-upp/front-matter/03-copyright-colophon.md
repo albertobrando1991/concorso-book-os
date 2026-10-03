@@ -23,7 +23,6 @@ Il volume è progettato secondo il Metodo BANDO: lettura del bando, analisi dell
 
 ## Dati dell'edizione
 - Marchio editoriale: Capitale Personale.
-- Edizione revisionata: agosto 2026.
-- Cut-off normativo: 18 agosto 2026.
+- Edizione revisionata: ottobre 2026.
+- Cut-off normativo: 3 ottobre 2026.
 - Formato interno cartaceo: 6,69 × 9,61 pollici.
-- ISBN: da associare al canale di pubblicazione prima della distribuzione commerciale.

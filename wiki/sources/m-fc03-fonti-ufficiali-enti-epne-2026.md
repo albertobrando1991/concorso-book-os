@@ -94,3 +94,7 @@ La fonte e' ad alta autorevolezza per l'identificazione dei canali istituzionali
 - [[topics/enti-pubblici-non-economici-concorsi]]
 - [[entities/inps-inail-epne]]
 
+
+## Rettifica puntuale del 3 ottobre 2026
+
+Per natura degli enti, comparti, organi, contabilità, prestazioni e vigilanza prevalgono i riscontri specifici di [[sources/epne-previdenza-assicurazione-rettifiche-2026-10-03]] e il topic [[topics/epne-previdenza-assicurazione-rettifiche-2026]]. Le precedenti pagine indice documentavano i canali, non tutte le nozioni sostanziali. CRI è associazione privata dal 2016; ISTAT, ENEA e ASI mantengono Istruzione e Ricerca anche nei profili amministrativi. Per vigilanza leggere il d.lgs. 149/2015 con le modifiche del 2024 e la diffida accertativa riformata nel 2020. La raccolta storica è conservata per tracciabilità, senza attribuirle conferme non svolte.

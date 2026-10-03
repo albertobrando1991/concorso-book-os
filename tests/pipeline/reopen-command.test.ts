@@ -44,7 +44,7 @@ describe.sequential("pipeline reopen command", () => {
         command: "reopen",
         volumeCode: "VOL-08",
         startKeys: expectedStartKeys,
-        reopened: [stepKey("08", chapterOne), stepKey("09", chapterOne), stepKey("08", chapterTwo), stepKey("09", chapterTwo), stepKey("13", moduleId), stepKey("21", "VOL-08")]
+        reopened: [stepKey("08", chapterOne), stepKey("09", chapterOne), stepKey("08", chapterTwo), stepKey("09", chapterTwo), stepKey("13", moduleId), stepKey("21", "VOL-08"), stepKey("24", "VOL-08")]
       }
     })
     expect(updated.steps.map((step) => step.status)).toEqual(["pending", "pending", "pending", "pending", "pending", "pending", "pending"])
@@ -77,7 +77,7 @@ describe.sequential("pipeline reopen command", () => {
 
     expect(result.payload).toMatchObject({
       startKeys: [stepKey("21", "VOL-08")],
-      reopened: [stepKey("21", "VOL-08")]
+      reopened: [stepKey("21", "VOL-08"), stepKey("24", "VOL-08")]
     })
     expect((await readState("VOL-08")).steps.find((step) => step.key === stepKey("21", "VOL-08"))).toMatchObject({
       status: "pending",

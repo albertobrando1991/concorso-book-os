@@ -1,0 +1,41 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol02-tomi\\vol-02-tomo-2-proof.pdf",
+  "pdfSha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+  "contactSheetsSeen": [
+    "contact-001-016.png",
+    "contact-017-032.png",
+    "contact-033-048.png",
+    "contact-049-064.png",
+    "contact-065-080.png",
+    "contact-081-096.png",
+    "contact-097-112.png",
+    "contact-113-128.png",
+    "contact-129-144.png",
+    "contact-145-160.png",
+    "contact-161-176.png",
+    "contact-177-192.png",
+    "contact-193-208.png",
+    "contact-209-224.png",
+    "contact-225-240.png",
+    "contact-241-256.png",
+    "contact-257-268.png"
+  ],
+  "pagesCovered": 268,
+  "method": "All contact sheets inspected; full-page closeups at selected critical pages. Not full-resolution proofreading of every page.",
+  "closeupsSeen": [
+    6,
+    94,
+    127,
+    222,
+    253,
+    264,
+    265,
+    266
+  ],
+  "allTenNativeSchemesSeen": false,
+  "finalDeltas": {},
+  "limitations": [
+    "Common digital promise and publisher metadata unverified",
+    "No physical proof or KDP Previewer"
+  ]
+}

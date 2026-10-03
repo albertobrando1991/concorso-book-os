@@ -1,0 +1,72 @@
+[
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/sistema-adattabile.md",
+    "before": "4af9733c9a5926336296eb8fc4b26ab30ca864af145b8a06a4ddc81b4ae8a1b2",
+    "after": "8cbb58bb222732f29559e52de04ad7fa789d7590819bdc402e8c249e3962c72b"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+    "before": "6390dcebe064df43cab2b45995478307fb40cf4cdc17cb828cdf27dfd12536c4",
+    "after": "87f89ed5d4097c4cd3f1b0013ca6f598d1b3e5a1c5e03fc60bfac3219308041e"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+    "before": "036b1f54aa52a76f07a72893341035ec58d6bc301271ad6b2e633e7987028e37",
+    "after": "8a60b60c03074148260116eda8e6ef1d602310da6ee4268f6d2f484203c969ce"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+    "before": "1badd91e56f6a6b91e4fc5e04d9a4c760fa54298295fcd1723ecaa9f303d00e7",
+    "after": "43c2de4fdf0dd016b33b282dceae0a068141d73122a89eb1d4e28f3f299188c4"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/diario-degli-errori.md",
+    "before": "8a60b60c03074148260116eda8e6ef1d602310da6ee4268f6d2f484203c969ce",
+    "after": "67cc3d6caa04af6903190e097b793260f53ab21260919e49d7db85dad8e19d5d"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/la-prova-a-quiz.md",
+    "before": "d5d3e911909857b32a4cdb5a6f0bcd156437a38e8c476e58c82369711560b19f",
+    "after": "4778ff2aac48e37371ccaed9a6ca7f4f5f269fad7453ccf94d46a0f65deb499f"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/prova-scritta-teorico-pratica.md",
+    "before": "27e7893f58645d1c032bd3dcd51c03498c3cdc4cb7af8dbfdcfd4e71cc2ca978",
+    "after": "dcd1ca52abcb0247236e13e95261ff80e7ca82fefff33767a61eba0c97819c8d"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/la-prova-orale.md",
+    "before": "73898780f0e1db74f92235fd75c34b892fc6c796624f40ab7ceb0e5b7a36a63a",
+    "after": "e2748204e79aa8e9e9b1aeb1d0c8c17d8a67a2046bf9b60322bc65fc773f02f9"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/casi-pratici-problem-solving-amministrativo.md",
+    "before": "8c60d1b5e1b37d58e9fceb219f6b4537ed6119ca71e6e5bded93a7e24ecec3b9",
+    "after": "b09e27ea2d5f6cb2a48ec08772ffa56492d042ebe1d797f18c05791abc0a48b0"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills.md",
+    "before": "b452c625377d21fdff889d2b0f02296872a9d39b31225916c0aec022e0d5d829",
+    "after": "b8c046714241d7df2e87e5198843e411a3d4236d0f8954bf27c9541ec997ec3a"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/famiglie-concorsi-pubblici.md",
+    "before": "e98802f235a868ea629a236a28af370f773d0c3d1a6a3df2c9dfb297b236d2e1",
+    "after": "adb977ca9ee1491d586be003a32fb13c7cf9d9fda9a9e769e052960791a06c62"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/checklist-operative.md",
+    "before": "f68adc9a748d9e23536100c12a9290d27b52ac0bf59d857772ada592508ccc29",
+    "after": "3183e4fa9388e577b952331de168132ee432733833789d41ae5f3e188aef449f"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/anatomia-del-bando.md",
+    "before": "87f89ed5d4097c4cd3f1b0013ca6f598d1b3e5a1c5e03fc60bfac3219308041e",
+    "after": "fef87e244f6f7769818b8b8d2cf70e5366dfcd6bc1c14e0f73daf0d1b7f2d7ec"
+  },
+  {
+    "path": "wiki/books/il-metodo-bando/chapters/mappe-profilo-cosa-resta-comune-cosa-cambia.md",
+    "before": "43c2de4fdf0dd016b33b282dceae0a068141d73122a89eb1d4e28f3f299188c4",
+    "after": "85e6c13abd191cac21a82a5bc3f8832a1b5b531fc79a615d8e0bb9729bd1ac39"
+  }
+]

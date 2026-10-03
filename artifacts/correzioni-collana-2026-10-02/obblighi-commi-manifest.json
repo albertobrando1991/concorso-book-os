@@ -1,0 +1,21 @@
+[
+  {
+    "file": "wiki/raw/correzioni-collana-2026-10-02/l296-obblighi-block-20261003.html",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=150&art.idGruppo=0&art.flagTipoArticolo=0&art.codiceRedazionale=006G0318&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2006-12-27%2000:00:00.0&art.progressivo=5&riferimenti=false&qId=&art.imUpdate=false",
+    "commas": [
+      449,
+      450
+    ],
+    "sha256": "3201c856dcb77a28dbd3ff0dceaa307e32255dac3d35020b855d63d370e646a2"
+  },
+  {
+    "file": "wiki/raw/correzioni-collana-2026-10-02/l208-obblighi-block-20261003.html",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=80&art.idGruppo=0&art.flagTipoArticolo=0&art.codiceRedazionale=15G00222&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2015-12-30%2000:00:00.0&art.progressivo=6&riferimenti=false&qId=&art.imUpdate=false",
+    "commas": [
+      510,
+      512,
+      516
+    ],
+    "sha256": "17d2b834446484fda638be35f37908ed5b194b0c4b7c47ba2bb444780087f063"
+  }
+]

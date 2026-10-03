@@ -1,7 +1,7 @@
 ---
 id: m-sp01-forze-ordine
 type: specialist_module
-title: "M-SP01 - Forze di polizia: Polizia di Stato, Carabinieri e Guardia di Finanza"
+title: "M-SP01 — Forze di polizia: Polizia di Stato, Carabinieri e Guardia di Finanza"
 status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","carriere-speciali","metodo bando"]
@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.9
-updated_at: 2026-08-14T18:25:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -25,7 +25,7 @@ draft_stage: text-frozen
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md"]
 ---
 
-# M-SP01 - Forze di polizia: Polizia di Stato, Carabinieri e Guardia di Finanza
+# M-SP01 — Forze di polizia: Polizia di Stato, Carabinieri e Guardia di Finanza
 
 ## Ruolo del modulo
 Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]. Serve ad applicare il metodo, le materie comuni e la logica workbook a una famiglia concorsuale specifica.
@@ -35,7 +35,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-SP01
 - Copertura: concorsi delle forze di polizia a ordinamento civile e militare — Polizia di Stato, Arma dei Carabinieri, Guardia di Finanza — con requisiti di accesso, prove di efficienza fisica, accertamenti psico-fisici e attitudinali, ordinamenti dei corpi e procedure concorsuali dedicate.
 - Fase roadmap: 4
-- Stato: dieci capitoli completati in formato 2, revisionati e pubblicabili; fase C chiusa.
+- Stato: dieci capitoli corretti e audit specialistico del 3 ottobre 2026 concluso; nuovo PDF e revisione di volume necessari.
 
 ## Fuori perimetro
 Restano esclusi dal modulo i concorsi delle Forze armate in senso proprio (Esercito, Marina Militare, Aeronautica Militare) e quelli della polizia locale, trattati in [[books/moduli/m-fl04-polizia-locale/index|M-FL04]]. L'Arma dei Carabinieri e la Guardia di Finanza rientrano nel modulo per la loro funzione di polizia, non per il loro status militare: i relativi concorsi a carattere esclusivamente militare non sono coperti.
@@ -47,7 +47,7 @@ Restano esclusi dal modulo i concorsi delle Forze armate in senso proprio (Eserc
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Le sezioni normative e specialistiche derivano da fonti consolidate; gli audit precedono il sign-off conclusivo del volume.
 
 ## Capitoli
 
@@ -74,3 +74,7 @@ Le fonti specialistiche ufficiali sono raccolte nelle source note dichiarate dai
 ## Esito fase C
 
 Review editoriale totale completata, rilievi recepiti e gate temporanei verdi su 10/10 capitoli. Report di chiusura: [[reviews/pipeline/VOL-12/25-review-m-sp01-fase-c]] e [[reviews/pipeline/VOL-12/26-correzioni-e-consegna-m-sp01-fase-c]].
+
+## Correzioni del 3 ottobre 2026
+
+Dieci capitoli, cinquanta nuclei e 71 quiz commentati. Matrice riconciliata con gli ID dei capitoli reali. Humanizer dei delta, controllo di copertura e revisione specialistica conclusi; manifest M-SP01-freeze.json. Il perimetro è strategico e procedurale: i rinvii delimitati del capitolo 6 non promettono un intero corso penalistico. Restano necessari il nuovo PDF e i controlli di volume. Le note storiche precedenti non sostituiscono questo stato.

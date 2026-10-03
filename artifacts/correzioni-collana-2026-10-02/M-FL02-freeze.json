@@ -1,0 +1,88 @@
+{
+  "module": "M-FL02",
+  "cutoff": "2026-10-03",
+  "files": [
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "b8769366b6a8ab1b178cd558f17a202fd020fa039a5d390ef1fa8ba7f9e35619"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "4089a2b939951744d2df28ada6d05e7587000dff553daba67b595ebb1a3e2148"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "26db56b6ffa9a716a146a4642f85ae6f1b607fa6779b67ca62d1529873a01044"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "6b6f420603c09f4e96613b6651e32d931905dbcfedd8ccbab24a43b949702d46"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "2fd6b9ca1f4db19201c42d458a4a72bc5cdcbc9e8710386aa4a80ac31df8560d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "3e9626a406e49888f1d31b4e524340299b3f2e9dca9097b6ad3819fbbc51f799"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "1678c73296fa326731fe06b2b8091e3506a9dd7d32428212f06243078bdee2a3"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "999db3a2b744e62ad04f8e12460fdfc99e7140fe1a73669ab5d1a48b54ebf84d"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "64ff4ecc67d82df5d907fa0ec4839767ab2ff6e33fb049ec29b0caff338d96f7"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "a5cec2ff1f905bb1085b48611373deb6ab766e91a076937c51712f8d3d14bfe6"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "d9a86b0c3476a8b2b6d1f8af472adcb21ea9d239b8420b49c5cb942b79075676"
+    },
+    {
+      "file": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "state": "text-freeze",
+      "date": "2026-10-03",
+      "sha256": "7707c8f74536b5004d4f80213ad624451f32085c1d3182d959a1abe7d5334cfb"
+    }
+  ],
+  "pdfChecked": true,
+  "controlledDelta": "Cinque raster sostituiti da schemi nativi; PDF successivo da verificare",
+  "pdfReviewMethod": "Whole-PDF contact sheets plus targeted closeups; see PDF-VOL-02.md, not all-page full-resolution reading",
+  "pdfProof": {
+    "id": "tomo-1",
+    "pdf": "tomo-1\\vol-02-tomo-1-proof.pdf",
+    "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+    "pages": 700,
+    "indexEntries": 177
+  }
+}

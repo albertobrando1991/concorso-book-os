@@ -1,0 +1,822 @@
+[
+  {
+    "id": "N-MF05-01-01",
+    "chapter": "01",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Che cosa osserva un candidato quando incontra un'autorità"
+    ],
+    "words": 676
+  },
+  {
+    "id": "N-MF05-01-02",
+    "chapter": "01",
+    "headings": [
+      "Authority, ministero, ente pubblico: una distinzione utile",
+      "La mappa degli enti: non una lista, ma una scelta di percorso"
+    ],
+    "words": 706
+  },
+  {
+    "id": "N-MF05-01-03",
+    "chapter": "01",
+    "headings": [
+      "I tre profili del modulo M-FC05",
+      "Mappa BANDO: dal bando al piano di studio",
+      "Materie comuni e contenuti specialistici"
+    ],
+    "words": 736
+  },
+  {
+    "id": "N-MF05-01-04",
+    "chapter": "01",
+    "headings": [
+      "Caso guidato: scegliere il percorso prima di studiare",
+      "Domanda da commissario",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio",
+      "Un Decoder compilato e tre calendari alternativi"
+    ],
+    "words": 1013
+  },
+  {
+    "id": "N-MF05-01-05",
+    "chapter": "01",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 541
+  },
+  {
+    "id": "N-MF05-02-01",
+    "chapter": "02",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Indipendenza: una garanzia, non un privilegio"
+    ],
+    "words": 658
+  },
+  {
+    "id": "N-MF05-02-02",
+    "chapter": "02",
+    "headings": [
+      "Organi, nomina e mandato",
+      "Incompatibilità: esempi normativi da distinguere",
+      "Personale e controlli: il confronto compilato",
+      "Governance: chi decide e chi istruisce",
+      "Accountability: autonomia controllabile"
+    ],
+    "words": 1816
+  },
+  {
+    "id": "N-MF05-02-03",
+    "chapter": "02",
+    "headings": [
+      "Personale: perché non esiste una scorciatoia unica",
+      "Mappa BANDO"
+    ],
+    "words": 684
+  },
+  {
+    "id": "N-MF05-02-04",
+    "chapter": "02",
+    "headings": [
+      "Caso guidato: la richiesta informale del soggetto regolato",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 581
+  },
+  {
+    "id": "N-MF05-02-05",
+    "chapter": "02",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 533
+  },
+  {
+    "id": "N-MF05-03-01",
+    "chapter": "03",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Dalla fonte UE al potere concreto"
+    ],
+    "words": 875
+  },
+  {
+    "id": "N-MF05-03-02",
+    "chapter": "03",
+    "headings": [
+      "Multilivello non significa gerarchia indistinta",
+      "Le reti: funzione, non etichetta"
+    ],
+    "words": 691
+  },
+  {
+    "id": "N-MF05-03-03",
+    "chapter": "03",
+    "headings": [
+      "Organismo, base e limite del potere",
+      "Schema di sintesi: dal problema transfrontaliero alla decisione",
+      "Il metodo operativo per il funzionario",
+      "REMIT dopo la riforma del 2024"
+    ],
+    "words": 1051
+  },
+  {
+    "id": "N-MF05-03-04",
+    "chapter": "03",
+    "headings": [
+      "Mappa BANDO",
+      "Caso guidato: reclamo privacy con dimensione transfrontaliera",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 783
+  },
+  {
+    "id": "N-MF05-03-05",
+    "chapter": "03",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 509
+  },
+  {
+    "id": "N-MF05-04-01",
+    "chapter": "04",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Il ciclo regolatorio: una sequenza, non una formalità"
+    ],
+    "words": 774
+  },
+  {
+    "id": "N-MF05-04-02",
+    "chapter": "04",
+    "headings": [
+      "Consultazione: ascoltare per decidere meglio",
+      "AIR: valutare prima di regolare"
+    ],
+    "words": 718
+  },
+  {
+    "id": "N-MF05-04-03",
+    "chapter": "04",
+    "headings": [
+      "Monitoraggio e VIR: ciò che accade dopo la decisione",
+      "Trasparenza, motivazione e tracciabilità",
+      "Mappa BANDO"
+    ],
+    "words": 742
+  },
+  {
+    "id": "N-MF05-04-04",
+    "chapter": "04",
+    "headings": [
+      "Caso guidato: nuova qualità minima del servizio regolato",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento",
+      "Mini-AIR compilata: contratti comprensibili"
+    ],
+    "words": 1072
+  },
+  {
+    "id": "N-MF05-04-05",
+    "chapter": "04",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 482
+  },
+  {
+    "id": "N-MF05-05-01",
+    "chapter": "05",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Vigilanza e istruttoria: dalla notizia al fatto accertato"
+    ],
+    "words": 843
+  },
+  {
+    "id": "N-MF05-05-02",
+    "chapter": "05",
+    "headings": [
+      "Il piano istruttorio: chiedere ciò che serve",
+      "Ispezioni: potere incisivo, perimetro rigoroso",
+      "AGCM e Garante: autorizzazioni differenti"
+    ],
+    "words": 975
+  },
+  {
+    "id": "N-MF05-05-03",
+    "chapter": "05",
+    "headings": [
+      "Dati e documenti: dalla raccolta alla qualità dell'evidenza",
+      "Prova, contraddittorio e fascicolo"
+    ],
+    "words": 748
+  },
+  {
+    "id": "N-MF05-05-04",
+    "chapter": "05",
+    "headings": [
+      "Mappa BANDO",
+      "Caso guidato: il dato anomalo non è ancora una violazione",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Richiesta di informazioni compilata"
+    ],
+    "words": 996
+  },
+  {
+    "id": "N-MF05-05-05",
+    "chapter": "05",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 493
+  },
+  {
+    "id": "N-MF05-06-01",
+    "chapter": "06",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Dall'accertamento alla decisione: la catena delle garanzie"
+    ],
+    "words": 752
+  },
+  {
+    "id": "N-MF05-06-02",
+    "chapter": "06",
+    "headings": [
+      "Sanzioni: funzione afflittiva e decisione motivata",
+      "Le garanzie delle sanzioni punitive",
+      "Impegni e rimedi: non tutte le risposte accertano un'infrazione"
+    ],
+    "words": 1154
+  },
+  {
+    "id": "N-MF05-06-03",
+    "chapter": "06",
+    "headings": [
+      "Misure correttive e adempimento del provvedimento",
+      "Il controllo giurisdizionale: una tutela da mappare",
+      "Mappa compilata dei ricorsi al 3 ottobre 2026",
+      "Mappa BANDO"
+    ],
+    "words": 1259
+  },
+  {
+    "id": "N-MF05-06-04",
+    "chapter": "06",
+    "headings": [
+      "Caso guidato: gli impegni nel procedimento antitrust",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 606
+  },
+  {
+    "id": "N-MF05-06-05",
+    "chapter": "06",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 574
+  },
+  {
+    "id": "N-MF05-07-01",
+    "chapter": "07",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Dalla struttura del mercato alla domanda regolatoria",
+      "Strutture di mercato: quattro confronti"
+    ],
+    "words": 1072
+  },
+  {
+    "id": "N-MF05-07-02",
+    "chapter": "07",
+    "headings": [
+      "Regolare incentivi, costi, prezzi e qualità",
+      "Econometria: descrivere, stimare, attribuire"
+    ],
+    "words": 1020
+  },
+  {
+    "id": "N-MF05-07-03",
+    "chapter": "07",
+    "headings": [
+      "Contabilità regolatoria: rendere leggibili costi e trasferimenti",
+      "Come leggere una nota economica prima della decisione",
+      "Strumenti quantitativi: leggere il numero senza subirlo",
+      "Elasticità e regressione: un calcolo per volta",
+      "Controfattuale con una differenza delle differenze",
+      "RAB, WACC e costi comuni"
+    ],
+    "words": 1671
+  },
+  {
+    "id": "N-MF05-07-04",
+    "chapter": "07",
+    "headings": [
+      "Mappa BANDO",
+      "Caso guidato: costo di accesso e operatore integrato",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico"
+    ],
+    "words": 780
+  },
+  {
+    "id": "N-MF05-07-05",
+    "chapter": "07",
+    "headings": [
+      "Mini-esercizio di consolidamento",
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 669
+  },
+  {
+    "id": "N-MF05-08-01",
+    "chapter": "08",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "La doppia prospettiva: concorrenza nel mercato e correttezza verso il consumatore"
+    ],
+    "words": 747
+  },
+  {
+    "id": "N-MF05-08-02",
+    "chapter": "08",
+    "headings": [
+      "Intese, abuso di posizione dominante e concentrazioni",
+      "Intese: oggetto, effetti ed efficienze",
+      "Abuso: il potere di mercato non basta",
+      "Concentrazioni: test sostanziale e competenza",
+      "Pratiche commerciali scorrette: ingannevoli, aggressive, verificabili",
+      "Le liste nere precedono il test generale"
+    ],
+    "words": 1816
+  },
+  {
+    "id": "N-MF05-08-03",
+    "chapter": "08",
+    "headings": [
+      "Dalla segnalazione alla decisione: procedimento, garanzie e limiti",
+      "Procedura consumer: termini e rimedi distinti",
+      "Competenze vicine: pubblicità, clausole e rating di legalità",
+      "Conflitti di interessi dei titolari di Governo",
+      "Mappa BANDO"
+    ],
+    "words": 1290
+  },
+  {
+    "id": "N-MF05-08-04",
+    "chapter": "08",
+    "headings": [
+      "Caso guidato: l'offerta «senza costi»",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 682
+  },
+  {
+    "id": "N-MF05-08-05",
+    "chapter": "08",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 576
+  },
+  {
+    "id": "N-MF05-09-01",
+    "chapter": "09",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Il perimetro ARERA: servizi, utenti e regolazione multilivello"
+    ],
+    "words": 688
+  },
+  {
+    "id": "N-MF05-09-02",
+    "chapter": "09",
+    "headings": [
+      "Tariffe: un criterio regolatorio, non un numero isolato",
+      "Dal PEF rifiuti alla decisione: chi fa che cosa",
+      "Un calcolo tariffario trasparente",
+      "Qualità contrattuale, qualità tecnica e tutela dell'utente"
+    ],
+    "words": 1196
+  },
+  {
+    "id": "N-MF05-09-03",
+    "chapter": "09",
+    "headings": [
+      "Reclamo e conciliazione: soglie temporali diverse",
+      "Dati, unbundling e contabilità regolatoria",
+      "Consultazione e decisione regolatoria applicata",
+      "REMIT e integrità dei mercati energetici all'ingrosso",
+      "Mappa BANDO"
+    ],
+    "words": 1434
+  },
+  {
+    "id": "N-MF05-09-04",
+    "chapter": "09",
+    "headings": [
+      "Caso guidato: piano economico-finanziario e qualità del servizio rifiuti",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 791
+  },
+  {
+    "id": "N-MF05-09-05",
+    "chapter": "09",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 498
+  },
+  {
+    "id": "N-MF05-10-01",
+    "chapter": "10",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Comunicazioni elettroniche, media e piattaforme: tre domande diverse",
+      "Codice e TUSMA: le basi da usare nel caso"
+    ],
+    "words": 993
+  },
+  {
+    "id": "N-MF05-10-02",
+    "chapter": "10",
+    "headings": [
+      "Utenti, controversie e Corecom",
+      "Tre moduli, tre funzioni e termini da distinguere",
+      "Piattaforme e DSA: una governance cooperativa",
+      "Gli obblighi DSA crescono con il servizio"
+    ],
+    "words": 1331
+  },
+  {
+    "id": "N-MF05-10-03",
+    "chapter": "10",
+    "headings": [
+      "Contenuti, pluralismo e diritto d'autore online",
+      "DMA, DSA e competenze che non coincidono",
+      "Memo breve in inglese",
+      "Mappa BANDO"
+    ],
+    "words": 958
+  },
+  {
+    "id": "N-MF05-10-04",
+    "chapter": "10",
+    "headings": [
+      "Caso guidato: sospensione di un account e doppia fatturazione",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 608
+  },
+  {
+    "id": "N-MF05-10-05",
+    "chapter": "10",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 561
+  },
+  {
+    "id": "N-MF05-11-01",
+    "chapter": "11",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Quattro soggetti, quattro domande"
+    ],
+    "words": 599
+  },
+  {
+    "id": "N-MF05-11-02",
+    "chapter": "11",
+    "headings": [
+      "Intermediari e tutela dell'investitore: correttezza non significa rendimento garantito",
+      "Prospetto e OPA: informare e proteggere il disinvestimento",
+      "Mercati integri: MAR e abusi di mercato"
+    ],
+    "words": 1321
+  },
+  {
+    "id": "N-MF05-11-03",
+    "chapter": "11",
+    "headings": [
+      "Poteri, cooperazione e tutela stragiudiziale",
+      "MiCAR: token, soggetto e attività prima della competenza",
+      "ACF: dalla condotta al rimedio individuale",
+      "Mappa BANDO"
+    ],
+    "words": 833
+  },
+  {
+    "id": "N-MF05-11-04",
+    "chapter": "11",
+    "headings": [
+      "Caso guidato: raccomandazione online e notizia riservata",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento",
+      "Prova di trasferimento"
+    ],
+    "words": 682
+  },
+  {
+    "id": "N-MF05-11-05",
+    "chapter": "11",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 631
+  },
+  {
+    "id": "N-MF05-12-01",
+    "chapter": "12",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Vigilanza prudenziale: la tenuta dell'intermediario"
+    ],
+    "words": 724
+  },
+  {
+    "id": "N-MF05-12-02",
+    "chapter": "12",
+    "headings": [
+      "Banca d'Italia: banche, intermediari, stabilità e clientela",
+      "IVASS: impresa assicurativa, distribuzione e assicurati"
+    ],
+    "words": 792
+  },
+  {
+    "id": "N-MF05-12-03",
+    "chapter": "12",
+    "headings": [
+      "Dati, reclami e poteri: dal segnale all'intervento",
+      "Cooperazione e confini tra autorità",
+      "SSM: chi vigila direttamente",
+      "TUB, CRR e CRD: che cosa si misura",
+      "Crisi: risoluzione e liquidazione",
+      "Pagamenti, ABF e tutela della clientela",
+      "Solvency II e DORA: due rischi, una governance responsabile",
+      "ABF, ACF e Arbitro Assicurativo: scegliere il percorso",
+      "Basi di diritto privato, commerciale e antiriciclaggio"
+    ],
+    "words": 2353
+  },
+  {
+    "id": "N-MF05-12-04",
+    "chapter": "12",
+    "headings": [
+      "Mappa BANDO",
+      "Caso guidato: sinistro negato e segnali di fragilità",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 787
+  },
+  {
+    "id": "N-MF05-12-05",
+    "chapter": "12",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 629
+  },
+  {
+    "id": "N-MF05-13-01",
+    "chapter": "13",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Il Garante nel sistema GDPR: un'autorità di controllo, non il titolare del trattamento"
+    ],
+    "words": 735
+  },
+  {
+    "id": "N-MF05-13-02",
+    "chapter": "13",
+    "headings": [
+      "Poteri: indagare, correggere, autorizzare, indirizzare",
+      "Reclamo e segnalazione: strumenti diversi, effetti diversi",
+      "Le fasi e i termini: non esiste un unico orologio"
+    ],
+    "words": 1034
+  },
+  {
+    "id": "N-MF05-13-03",
+    "chapter": "13",
+    "headings": [
+      "Istruttoria, ispezione e misura: dalla criticità al provvedimento",
+      "Cooperazione europea: autorità capofila, autorità interessate ed EDPB",
+      "Trasparenza amministrativa e privacy: un bilanciamento, non un conflitto astratto",
+      "Mappa BANDO"
+    ],
+    "words": 927
+  },
+  {
+    "id": "N-MF05-13-04",
+    "chapter": "13",
+    "headings": [
+      "Caso guidato: piattaforma per candidature e pubblicazione eccessiva",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 796
+  },
+  {
+    "id": "N-MF05-13-05",
+    "chapter": "13",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 581
+  },
+  {
+    "id": "N-MF05-14-01",
+    "chapter": "14",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "ANAC e la prevenzione: dall'adempimento al governo del rischio",
+      "PNA, programmazione e RPCT: una catena di responsabilità"
+    ],
+    "words": 903
+  },
+  {
+    "id": "N-MF05-14-02",
+    "chapter": "14",
+    "headings": [
+      "Vigilanza ANAC, trasparenza e contratti: distinguere gli oggetti",
+      "Contratti pubblici: attribuzioni da riconoscere",
+      "Whistleblowing: emersione delle violazioni e protezione della persona segnalante"
+    ],
+    "words": 1215
+  },
+  {
+    "id": "N-MF05-14-03",
+    "chapter": "14",
+    "headings": [
+      "Termini e gestione dei canali",
+      "ANAC e le segnalazioni esterne: procedimento, non automatismo",
+      "La prova della ritorsione"
+    ],
+    "words": 1082
+  },
+  {
+    "id": "N-MF05-14-04",
+    "chapter": "14",
+    "headings": [
+      "Mappa BANDO",
+      "Caso guidato: affidamento ricorrente, canale interno e presunta ritorsione",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico",
+      "Mini-esercizio di consolidamento"
+    ],
+    "words": 834
+  },
+  {
+    "id": "N-MF05-14-05",
+    "chapter": "14",
+    "headings": [
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 579
+  },
+  {
+    "id": "N-MF05-15-01",
+    "chapter": "15",
+    "headings": [
+      "Apertura editoriale",
+      "Obiettivo operativo del capitolo",
+      "Prima della risposta: il decoder della traccia",
+      "I percorsi G, E e P nella prova",
+      "La struttura universale dell'elaborato"
+    ],
+    "words": 936
+  },
+  {
+    "id": "N-MF05-15-02",
+    "chapter": "15",
+    "headings": [
+      "Dieci simulazioni: come usarle",
+      "Percorso G — Simulazione G1: pratica commerciale e istruttoria",
+      "Percorso G — Simulazione G2: reclamo privacy e poteri del Garante",
+      "Percorso G — Simulazione G3: whistleblowing e ritorsione",
+      "Percorso E — Simulazione E1: qualità del servizio e incentivo regolatorio",
+      "Percorso E — Simulazione E2: consultazione e impatto regolatorio",
+      "Percorso E — Simulazione E3: tariffa, dati e contabilità regolatoria",
+      "Percorso P — Simulazione P1: piattaforma digitale, utenti e concorrenza",
+      "Percorso P — Simulazione P2: intermediario finanziario, condotta e prudenza"
+    ],
+    "words": 2338
+  },
+  {
+    "id": "N-MF05-15-03",
+    "chapter": "15",
+    "headings": [
+      "Percorso P — Simulazione P3: assicurazione, reclami e solvibilità",
+      "Percorso P — Simulazione P4: memo in inglese e cooperazione europea",
+      "Rubrica di correzione: dieci punti per ogni risposta",
+      "Gestione del tempo e diario degli errori",
+      "Piano 30/60/90 giorni e registro degli aggiornamenti",
+      "Conclusione: decidere senza scorciatoie"
+    ],
+    "words": 1255
+  },
+  {
+    "id": "N-MF05-15-04",
+    "chapter": "15",
+    "headings": [
+      "Mappa BANDO",
+      "Caso guidato conclusivo: il memo intersettoriale",
+      "Domanda da commissario",
+      "Risposta orale modello",
+      "Domanda-trappola",
+      "Errore tipico"
+    ],
+    "words": 853
+  },
+  {
+    "id": "N-MF05-15-05",
+    "chapter": "15",
+    "headings": [
+      "Mini-esercizio di consolidamento",
+      "▣ Verifica ragionata",
+      "Caso ragionato di chiusura"
+    ],
+    "words": 682
+  }
+]

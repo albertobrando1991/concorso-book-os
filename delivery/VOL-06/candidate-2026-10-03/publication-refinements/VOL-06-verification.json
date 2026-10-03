@@ -1,0 +1,40 @@
+{
+  "volume": "VOL-06",
+  "source": "delivery/VOL-06/candidate-2026-10-03/artifacts/correzioni-collana-2026-10-02/vol-06-release-20261003-proof.pdf",
+  "sourceSha256": "2b3391c9f83856c5444a36efe542aeac180521f78e91309203375d02482dd15a",
+  "pdf": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/vol-06-publication-refined-20261003-proof.pdf",
+  "pdfSha256": "34b57193a490375dcab8c48f858de6fb360d3d05af1c183b29d114b32380ab94",
+  "pages": 617,
+  "changedPages": [
+    2,
+    3,
+    5,
+    8,
+    122,
+    273,
+    429
+  ],
+  "textChangedPages": [
+    2,
+    3,
+    5,
+    8,
+    122,
+    273,
+    429
+  ],
+  "unchangedPagesPixelIdentical": 610,
+  "unembeddedFonts": [],
+  "imagesUnder300Ppi": [],
+  "textOutsidePage": [],
+  "visualReviewed": true,
+  "visualEvidence": [
+    "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/publication-refinement-qa/vol-06-page-002.png",
+    "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/publication-refinement-qa/vol-06-page-003.png",
+    "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/publication-refinement-qa/vol-06-page-005.png",
+    "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/publication-refinement-qa/vol-06-page-008.png",
+    "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/publication-refinement-qa/vol-06-page-122.png",
+    "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/publication-refinement-qa/vol-06-page-273.png",
+    "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/publication-refinement-qa/vol-06-page-429.png"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "V07-01": {
+    "change": "Esclusione assoluta FOIA per dati di salute e rischio di reidentificazione.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+    ],
+    "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-02": {
+    "change": "Rango del diritto e indispensabilita per accesso documentale a salute di terzi.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+    ],
+    "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-03": {
+    "change": "Termini sette/trenta giorni dalla stessa richiesta e caso risolto.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+    ],
+    "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-04": {
+    "change": "Consenso alimentazione/consultazione FSE distinto dal dossier, oscuramento ed emergenza.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+    ],
+    "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-05": {
+    "change": "Richiesta di integrazione separata dagli esiti finali; nessuna sospensione automatica.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+    ],
+    "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+    "status": "applicato"
+  },
+  "V07-06": {
+    "change": "Documento informatico distinto da efficacia probatoria della scansione.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione.md",
+      "wiki/sources/documentazione-sanitaria-accesso-fse-dossier-privacy.md"
+    ],
+    "evidence": "Rilettura del delta, fonti Garante/GU richiamate nella source; confronto prima/dopo. Audit step15 e PDF ancora pendenti.",
+    "status": "applicato"
+  }
+}

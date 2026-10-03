@@ -1,0 +1,997 @@
+{
+  "quizCount": 90,
+  "structuralProblems": [],
+  "items": [
+    {
+      "file": "01-diventare-agente-ufficiale-polizia-locale.md",
+      "quiz": "1",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "01-diventare-agente-ufficiale-polizia-locale.md",
+      "quiz": "2",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "01-diventare-agente-ufficiale-polizia-locale.md",
+      "quiz": "3",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "01-diventare-agente-ufficiale-polizia-locale.md",
+      "quiz": "4",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "01-diventare-agente-ufficiale-polizia-locale.md",
+      "quiz": "5",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "01-diventare-agente-ufficiale-polizia-locale.md",
+      "quiz": "6",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "quiz": "1",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "quiz": "2",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "quiz": "3",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "quiz": "4",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "quiz": "5",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "quiz": "6",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "quiz": "1",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "quiz": "2",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "quiz": "3",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "quiz": "4",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "quiz": "5",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "quiz": "6",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "04-servizi-polizia-stradale.md",
+      "quiz": "1",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "04-servizi-polizia-stradale.md",
+      "quiz": "2",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "04-servizi-polizia-stradale.md",
+      "quiz": "3",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "04-servizi-polizia-stradale.md",
+      "quiz": "4",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "04-servizi-polizia-stradale.md",
+      "quiz": "5",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "04-servizi-polizia-stradale.md",
+      "quiz": "6",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "quiz": "1",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "quiz": "2",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "quiz": "3",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "quiz": "4",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "quiz": "5",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "quiz": "6",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "quiz": "1",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "quiz": "2",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "quiz": "3",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "quiz": "4",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "quiz": "5",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "quiz": "6",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "07-polizia-giudiziaria-atti-essenziali.md",
+      "quiz": "1",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "07-polizia-giudiziaria-atti-essenziali.md",
+      "quiz": "2",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "07-polizia-giudiziaria-atti-essenziali.md",
+      "quiz": "3",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "07-polizia-giudiziaria-atti-essenziali.md",
+      "quiz": "4",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "07-polizia-giudiziaria-atti-essenziali.md",
+      "quiz": "5",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "07-polizia-giudiziaria-atti-essenziali.md",
+      "quiz": "6",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "08-tulps-pubblica-sicurezza-immigrazione.md",
+      "quiz": "1",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "08-tulps-pubblica-sicurezza-immigrazione.md",
+      "quiz": "2",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "08-tulps-pubblica-sicurezza-immigrazione.md",
+      "quiz": "3",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "08-tulps-pubblica-sicurezza-immigrazione.md",
+      "quiz": "4",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "08-tulps-pubblica-sicurezza-immigrazione.md",
+      "quiz": "5",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "08-tulps-pubblica-sicurezza-immigrazione.md",
+      "quiz": "6",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "quiz": "1",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "quiz": "2",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "quiz": "3",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "quiz": "4",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "quiz": "5",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "quiz": "6",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "10-commercio-pubblici-esercizi-suap.md",
+      "quiz": "1",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "10-commercio-pubblici-esercizi-suap.md",
+      "quiz": "2",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "10-commercio-pubblici-esercizi-suap.md",
+      "quiz": "3",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "10-commercio-pubblici-esercizi-suap.md",
+      "quiz": "4",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "10-commercio-pubblici-esercizi-suap.md",
+      "quiz": "5",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "10-commercio-pubblici-esercizi-suap.md",
+      "quiz": "6",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "quiz": "1",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "quiz": "2",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "quiz": "3",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "quiz": "4",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "quiz": "5",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "quiz": "6",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "quiz": "1",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "quiz": "2",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "quiz": "3",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "quiz": "4",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "quiz": "5",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "quiz": "6",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "13-sinistri-rilievi-gestione-prova.md",
+      "quiz": "1",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "13-sinistri-rilievi-gestione-prova.md",
+      "quiz": "2",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "13-sinistri-rilievi-gestione-prova.md",
+      "quiz": "3",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "13-sinistri-rilievi-gestione-prova.md",
+      "quiz": "4",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "13-sinistri-rilievi-gestione-prova.md",
+      "quiz": "5",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "13-sinistri-rilievi-gestione-prova.md",
+      "quiz": "6",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "quiz": "1",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "quiz": "2",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "quiz": "3",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "quiz": "4",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "quiz": "5",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "quiz": "6",
+      "key": "D",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "15-laboratorio-atti-verbali-polizia-locale.md",
+      "quiz": "1",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "15-laboratorio-atti-verbali-polizia-locale.md",
+      "quiz": "2",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "15-laboratorio-atti-verbali-polizia-locale.md",
+      "quiz": "3",
+      "key": "B",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "15-laboratorio-atti-verbali-polizia-locale.md",
+      "quiz": "4",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "15-laboratorio-atti-verbali-polizia-locale.md",
+      "quiz": "5",
+      "key": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "file": "15-laboratorio-atti-verbali-polizia-locale.md",
+      "quiz": "6",
+      "key": "C",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ],
+  "note": "Verifica meccanica struttura; risoluzione logica eseguita sui passaggi nell’audit editoriale, non dedotta da questa scansione."
+}

@@ -9,7 +9,7 @@ entities: ["M-TR04", "MASE", "ISPRA", "SNPA", "Dipartimento della Protezione Civ
 source_refs: ["sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile", "il-metodo-bando"]
 confidence: 0.78
-updated_at: 2026-08-07
+updated_at: 2026-10-03
 review_required: true
 canonical: false
 tags: ["planning", "volume-bible", "vol-11"]
@@ -49,3 +49,6 @@ Applicare `format_version: 2`, almeno cinque nuclei numerati e le soglie effetti
 ## Criteri di tono e visualità
 
 Manuale-workbook professionale, paragrafi brevi, Garamond 11 pt per il corpo e Arial per titoli, box, tabelle e quiz. Immagini solo funzionali: mappe, flowchart, schemi di processo e griglie compilabili; niente decorazione.
+## Riesame del 3 ottobre 2026
+
+Quattordici capitoli e appendici A–E nel capitolo 14; 44 rilievi dell’audit integrale trattati nel registro corrente. La matrice elenca i nuclei effettivi, con fonti e limiti. Le attestazioni precedenti non sostituiscono il presente riesame né certificano il PDF aggiornato.

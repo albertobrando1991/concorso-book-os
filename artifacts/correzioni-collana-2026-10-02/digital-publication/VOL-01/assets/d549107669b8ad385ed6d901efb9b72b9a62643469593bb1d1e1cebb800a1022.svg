@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Caso Luca: riordino digitale</title>
+  <desc id="desc">Da strumenti dispersi a sistema unico in cinque cartelle.</desc>
+  <style>
+    .bg { fill: #F8FAFC; }
+    .card { fill: #FFFFFF; stroke: #CBD5E1; stroke-width: 3; }
+    .title { font: 800 44px Arial, sans-serif; fill: #0F172A; }
+    .subtitle { font: 400 22px Arial, sans-serif; fill: #526174; }
+    .label { font: 800 25px Arial, sans-serif; fill: #0F172A; }
+    .body { font: 400 19px Arial, sans-serif; fill: #0F172A; }
+    .small { font: 400 16px Arial, sans-serif; fill: #0F172A; }
+    .strong { font-weight: 800; }
+    .whiteText { fill: #FFFFFF; }
+    .line { stroke: #10233F; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#10233F"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <g data-safe-box="80 16 1440 118 0">
+    <text class="title" x="800" y="68" text-anchor="middle">Caso Luca: riordino digitale</text>
+    <text class="subtitle" x="800" y="108" text-anchor="middle">Da strumenti dispersi a sistema unico in cinque cartelle.</text>
+  </g>
+
+    <rect class="card" x="70" y="165" width="1460" height="630" rx="30"/>
+    <g data-safe-box="115 265 420 375 8">
+    <rect x="115" y="265" width="420" height="375" rx="28" fill="#F8E8EA" stroke="#7A2430" stroke-width="3"/>
+    <rect x="115" y="265" width="420" height="14" rx="7" fill="#7A2430"/>
+    <text class="label" style="fill:#7A2430" x="325" y="335" text-anchor="middle">Prima</text>
+    <text class="small" x="325" y="390" text-anchor="middle">desktop</text>
+<text class="small" x="325" y="432" text-anchor="middle">cloud</text>
+<text class="small" x="325" y="474" text-anchor="middle">tabella telefono</text>
+<text class="small" x="325" y="516" text-anchor="middle">app piano</text>
+<text class="small" x="325" y="558" text-anchor="middle">chat AI</text>
+  </g>
+    <g data-safe-box="560 345 480 150 8">
+    <rect x="560" y="345" width="480" height="150" rx="24" fill="#EAF2FB" stroke="#10233F" stroke-width="3"/>
+    <rect x="560" y="345" width="480" height="12" rx="6" fill="#10233F"/>
+    <text class="label" x="800" y="397" text-anchor="middle">Un'ora di riordino</text>
+    <text class="small" x="800" y="427" text-anchor="middle">sposta, rinomina, elimina</text>
+<text class="small" x="800" y="455" text-anchor="middle">salva solo versioni utili</text>
+  </g>
+    <g data-safe-box="1085 265 420 375 8">
+    <rect x="1085" y="265" width="420" height="375" rx="28" fill="#E7F3ED" stroke="#2F7D5A" stroke-width="3"/>
+    <rect x="1085" y="265" width="420" height="14" rx="7" fill="#2F7D5A"/>
+    <text class="label" style="fill:#2F7D5A" x="1295" y="335" text-anchor="middle">Dopo</text>
+    <text class="small" x="1295" y="390" text-anchor="middle">01 fonti</text>
+<text class="small" x="1295" y="432" text-anchor="middle">02 piano</text>
+<text class="small" x="1295" y="474" text-anchor="middle">03 nuclei</text>
+<text class="small" x="1295" y="516" text-anchor="middle">04 output</text>
+<text class="small" x="1295" y="558" text-anchor="middle">05 diario</text>
+  </g>
+    <path class="line" marker-end="url(#arrow)" d="M505 455 L560 455"/>
+    <path class="line" marker-end="url(#arrow)" d="M1040 455 L1085 455"/>
+    <g data-safe-box="250 812 1100 66 8">
+    <rect x="250" y="812" width="1100" height="66" rx="22" fill="#FFF7ED" stroke="#EFC58D" stroke-width="3"/>
+    <text class="body strong" x="800" y="855" text-anchor="middle">Luca non ha studiato nuove pagine, ma il giorno dopo studia meglio.</text>
+  </g>
+
+</svg>

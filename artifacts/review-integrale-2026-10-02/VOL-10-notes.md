@@ -1,0 +1,21 @@
+# Checkpoint VOL-10 — 2 ottobre 2026
+
+Lettura integrale completata sui 13 originali, apparati e soluzioni compresi. Capitoli 01, 02, 05 letti nel segmento precedente; 03 e 04 riletti integralmente per eliminare ambiguità dovuta a output troncati. 06–13 letti integralmente. Matrice letta nelle righe principali, delta ancora da ricontrollare. Nessuna correzione applicata.
+
+Rilievi da consolidare nel report:
+
+- cap01 N-01-02: M-TR02 «ancora in sviluppo» stato obsoleto.
+- cap02: conferenze istruttoria/decisoria/preliminare nominate senza differenze; rinvio base non puntuale nel corpo.
+- cap03: nessuna figura di vincolo/corpo libero, equazione o esempio risolto reazioni/diagrammi. Matrice dichiara applicazione diagramma di corpo libero ma si spiega solo che cosa sia. Richiesta integrazione propedeutica proporzionata, non manuale universitario intero. Mini-esercizio allungamento/deformazione assiale richiede distinguere deltaL da epsilon (precisazione).
+- cap04 N-04-02/03/07: mancano classi I–IV, VR=VN*CU e esempio, SLO/SLD/SLV/SLC e combinazione semplice, definizioni riparazione/miglioramento/adeguamento, livelli conoscenza. Categoria esistente già E04 precedente. Domanda-trappola SLU/SLE da precisare per §8.3 costruzioni esistenti, senza negare altri requisiti di idoneità.
+- cap05: titolo vincoli/fonte/effetto/durata senza durata nazionale vincolo preesproprio; zone e standard senza A–F, 18mq/ab e varianti art4. Fonti Camera DM1444 e MIMIT DPR327.
+- cap06: «permesso ... provvedimento espresso» incompleto e fuorviante senza silenzio-assenso art20c8. Categorie edilizie solo elencate, nessun caso classificato definitivamente; SCIA e alternativa senza tempi differenti; 2024 regolarizzazione solo nominata senza art36/36bis/34bis e presupposti. Richiesta prospetto nazionale e casi risolti, poi varianti territoriali.
+- cap07: sequenza base corretta, mancano DOCFAP, casi di omissione livello e appalto integrato, requisiti verificatore; non automaticamente errore ogni eccezione, integrazione mirata per programmi pertinenti.
+- cap08: «fase esecutiva presuppone contratto efficace» senza anticipazione art17c8/9 e art50c6; «In tutti questi casi l'intervento materiale non può precedere l'istruttoria» contraddice riga sicurezza e obbligo CSE sospensione per pericolo grave/imminente art92c1f. Mancano presupposti concreti varianti, sospensioni e nomina coordinatori.
+- cap09: demanda esplicitamente termini/carattere atto a fonte vigente, manca provvisorietà biennale e 6mesi/1anno art116c2; CRE presupposti/soggetto non insegnati; manutenzione non articola tre documenti. Non errore dei termini, ma grave omissione del nucleo promesso.
+- cap10: aritmetica interamente ricalcolata corretta (22;48+35=83;3320;50*40=2000;80*40=3200;delta1200;48;40;1000;250). Analisi prezzi promessa non esemplificata, sicurezza/manodopera noninsegnate, soggetti SAL/certificato e termini/riserve assenti. Rinvio base capcontratti par10 da verificare.
+- cap11: classificazioni strade e livelli ponti rinviati alle fonti invece di essere esposti; qualitativo corretto, nessun caso di attribuzione classe o interpretazione dato; integrare tabella livelli ufficiali senza inventare soglie.
+- cap12: capitolo07 promette ruoli/documenti BIM qui approfonditi, ma non si nominano capitolato informativo/oGI/pGI né ruoli né obblighi art43; PREGEO/DOCFA/voltura si dicono diversi senza spiegare differenze. GIS solo vettori; almeno raster e esempio CRS. Demanio/indisponibile/disponibile non definiti né esempi.
+- cap13: rinvio risposta sintetica va al Ricettario digitale (E10); planimetria del caso3 e dossier/fotografia/documenti/misure della simulazione non forniti. Esercizio non autosufficiente, integrare allegati e modello svolto. Calcolo28*24=672 corretto, MCQ B corretta.
+
+Fonti esterne consultate: Normattiva DPR380 art20 (risultato search mostra comma8, apertura errore tecnico da dichiarare); Camera https://www.camera.it/temiap/2014/12/09/OCD177-705.pdf artt2–4 testo aperto; https://www.mimit.gov.it/images/stories/recuperi/Dossier/DPR_08_06_2001_327.pdf art9; Normattiva D.Lgs36 artt17,50,116 search; MEF art116; Giustizia tributaria D.Lgs81art92 testo search. Fonti precedenti NTC2018 cap8 già lette. Collegamenti esatti nelle chiamate web e report precedente.

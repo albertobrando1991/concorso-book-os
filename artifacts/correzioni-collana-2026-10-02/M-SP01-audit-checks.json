@@ -1,0 +1,75 @@
+{
+  "math": "passed",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/01-mappa-famiglia-struttura-selezione.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/02-posizione-prima-domanda.md",
+      "nuclei": 5,
+      "quiz": 7,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/03-formati-prova-scritta.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/04-accertamenti-preparazione.md",
+      "nuclei": 5,
+      "quiz": 7,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/05-prova-orale-titoli-lingua.md",
+      "nuclei": 5,
+      "quiz": 7,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/06-materie-riuso-specialistiche.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/07-bando-decoder.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/08-piano-30-60-90-doppio-binario.md",
+      "nuclei": 5,
+      "quiz": 6,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/09-errori-casi-guidati.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    },
+    {
+      "path": "wiki/books/moduli/m-sp01-forze-ordine/chapters/10-checklist-finale.md",
+      "nuclei": 5,
+      "quiz": 8,
+      "links": "resolved",
+      "bodyInternalLinks": 0
+    }
+  ]
+}

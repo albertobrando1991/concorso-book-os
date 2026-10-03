@@ -1,0 +1,16 @@
+[
+  {
+    "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+    "before": "20cb7feaacfc0e391cd596f31e2dc4ff4cc81abcff10a36747b145cc78fc36fc",
+    "after": "b8769366b6a8ab1b178cd558f17a202fd020fa039a5d390ef1fa8ba7f9e35619",
+    "schemes": 5,
+    "historicalRasterFilesPreserved": true
+  },
+  {
+    "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+    "before": "36497af619dab5f020e51aef7ea9ec84d13b7e4b326ad1eef667b8b2486433ea",
+    "after": "1c0f21ce241f8b26bbece2d69a991bce564979dabe159e124fdf2cf2684bf176",
+    "schemes": 5,
+    "historicalRasterFilesPreserved": true
+  }
+]

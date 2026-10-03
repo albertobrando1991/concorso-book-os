@@ -11,7 +11,7 @@ cut_off_date: 2026-08-10
 checked_at: 2026-08-11
 confidence: 0.85
 authority_level: alta
-updated_at: 2026-08-11T00:00:00+02:00
+updated_at: 2026-10-03
 review_required: true
 canonical: true
 tags: ["source", "vol-12", "fonte-di-volume", "requisiti-fisici", "step-06"]
@@ -62,9 +62,9 @@ Il regolamento interviene sul d.P.R. 15 marzo 2010, n. 90 (TUOM):
 
 | Parametro | Misura | Maschi | Femmine |
 | --- | --- | --- | --- |
-| **forza muscolare** | handgrip, in kg | **40** | **20** |
-| **composizione corporea** | % massa grassa | **fra 7 e 22** | **fra 12 e 30** |
-| **massa metabolicamente attiva** | % massa magra teorica | **40** | **28** |
+| **forza muscolare** | handgrip, in kg | **≥ 40 kg** | **≥ 20 kg** |
+| **composizione corporea** | % massa grassa | **≥ 7% e ≤ 22%** | **≥ 12% e ≤ 30%** |
+| **massa metabolicamente attiva** | % massa magra teorica | **≥ 40%** | **≥ 28%** |
 
 Le **direttive tecniche** previste dall'art. 5 governano le **modalità applicative** dell'accertamento — come si misura — non i valori, che sono nell'allegato al regolamento.
 
@@ -93,7 +93,7 @@ Un capitolo che avesse riportato «statura minima 1,65 m» leggendo il d.m. 198/
 ## Uso editoriale
 
 1. Nei capitoli sui requisiti fisici di M-SP01 e M-SP02 si cita **il d.P.R. 207/2015**, non il d.m. 198/2003, per i parametri di ammissione.
-2. Il d.m. 198/2003 resta rilevante per idoneità **psichica e attitudinale**, non per la statura.
+2. Il D.M. 198/2003 concerne la Polizia di Stato e resta rilevante per gli altri requisiti fisici, psichici e attitudinali nel suo ambito; la sostituzione dei limiti di statura non cancella tutte le disposizioni fisiche.
 3. I **valori dei tre parametri sono nell'Allegato A del regolamento** e possono essere riportati in capitolo, con la data di riferimento e il box **Verifica sul bando**: sono unici e omogenei per tutte le amministrazioni interessate, differenziati solo per sesso. Restano soggetti a revisione ai sensi dell'art. 5.
 
    Sono inoltre **verificabili in anticipo dal candidato**: la forza di presa si misura con un dinamometro e la composizione corporea con una bioimpedenziometria, entrambe accessibili prima di presentare domanda. È un'informazione operativa, non solo normativa — chi è fuori parametro lo può sapere con mesi di anticipo, e agire.
@@ -104,3 +104,9 @@ Un capitolo che avesse riportato «statura minima 1,65 m» leggendo il d.m. 198/
 - [ ] reperire le **direttive tecniche** che fissano i valori parametrali per ciascuna amministrazione;
 - [ ] verificare la portata della modifica introdotta dall'art. 45, comma 23, del d.lgs. 95/2017;
 - [ ] verificare quali disposizioni del d.m. 198/2003 restino applicabili dopo il d.P.R. 207/2015.
+
+## Articolo 3 verificato il 3 ottobre 2026
+
+Testo corrente Normattiva: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2015-12-17;207~art3!vig= . Letti entrambi i commi. Il comma 2 ammette un adeguamento dei valori strumentali fino al massimo del 10% rispetto ai limiti per condizioni tecniche o individuali; non è un incremento automatico che il candidato si attribuisce da solo. Applicazione e accertamento competono alla procedura e commissione secondo le direttive. Tabella Allegato A riletta nella copia già acquisita (PDF p. 4): operatori e unità integrati sopra. Art. 2, comma 2, nella copia aggiornata 2017: esclusione dei gruppi sportivi come atleti/istruttori e bande musicali; le specifiche discipline dei ruoli vanno considerate. La misurazione preliminare non sostituisce l'idoneità complessiva né assicura che una condizione sia modificabile.
+
+Raccordo aggiornato: [[topics/m-sp02-vigili-fuoco-percorsi-prove]], [[entities/ministero-interno]], [[books/moduli/m-sp02-vigili-fuoco/index]]. Le rettifiche del 3 ottobre prevalgono sulle descrizioni storiche di acquisizione sopra riportate.

@@ -69,3 +69,7 @@ L'indice resta coerente, ma la sua redazione non può partire come testo definit
 
 Acquisire gli allegati PDF non estratti e classificare i programmi effettivamente specialistici prima di trasformare il campione in frequenze. Requisiti, termini, numero di posti, forme di prova, software e soglie restano mobili e non vanno generalizzati.
 
+
+## Integrazione verificata del 3 ottobre 2026
+
+[[sources/vol-09-bandi-specialistici-verificati-2026-10-03]] acquisisce tre PDF ufficiali aggiuntivi (CUC Le Terre del Sole, Ca’ Foscari Ufficio Gare, Bologna acquisti). Risolve la lacuna del campione specialistico e digitale segnalata sopra; le righe iniziali non acquisite restano storicamente tali. Il campione utilizzabile passa da tre a sei procedure, senza valore statistico nazionale. La preparazione M-TR02 è sostenuta da programmi e mansioni effettivi, non dalla sola denominazione del posto. Le sezioni precedenti descrivono il checkpoint del 29 luglio e non lo stato corrente delle nuove acquisizioni.

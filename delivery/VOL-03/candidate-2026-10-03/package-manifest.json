@@ -1,0 +1,1026 @@
+{
+  "volume": "VOL-03",
+  "date": "2026-10-03",
+  "pdfSha256": "32e25d31b712ca18af78053e7f62daab47ea266106ca52dae16cd8407eff718c",
+  "files": [
+    {
+      "path": "covers/README.md",
+      "bytes": 503,
+      "sha256": "d40b1ef4142087361c5d2e2fe611bb0b5a520136801fdfaeafeef65411443992"
+    },
+    {
+      "path": "covers/vol-03-cover.pdf",
+      "bytes": 149913,
+      "sha256": "47827a6c43f265598e3d6e18c4f0fcfad1223401c2c84c9dad469aee63706b0b"
+    },
+    {
+      "path": "derived/01-lavorare-enti-pubblici-non-economici.md",
+      "bytes": 30995,
+      "sha256": "f8f2d43272081da4626b9a5e277fee69ae057a5b385afff11429afc8a051f709"
+    },
+    {
+      "path": "derived/01-lavorare-ministeri-funzioni-centrali.md",
+      "bytes": 28886,
+      "sha256": "3337ef20a7241607074de300abb288a8af080cd65f3797e8f2e82e7ff1516931"
+    },
+    {
+      "path": "derived/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "bytes": 36614,
+      "sha256": "849954e72b82e6aea791f48f2728fd7bc2819b50138bf7a5c24ef00486108a11"
+    },
+    {
+      "path": "derived/02-anatomia-bando-ministeriale-ripam.md",
+      "bytes": 19997,
+      "sha256": "61eacb5ea533a2161fd97a03b5cda5b0944d531fefbe7767c4af8b103466b1e3"
+    },
+    {
+      "path": "derived/02-bando-decoder-fiscale.md",
+      "bytes": 31237,
+      "sha256": "221256d49a76b986e25d916134bbb2f91db0d1140c7d628bcc700c7688b25582"
+    },
+    {
+      "path": "derived/02-ordinamento-governance-epne.md",
+      "bytes": 29388,
+      "sha256": "0e7b0bef2dd2ae14b3878258b3f1b145e7afc0cd3d7a4b9930fe949611b29324"
+    },
+    {
+      "path": "derived/03-inps-previdenza-servizi-prestazioni.md",
+      "bytes": 35261,
+      "sha256": "2d35f30c4f62d512678fca809da961709571d42bf6ce0d2b3bb0ab5e1dcb5288"
+    },
+    {
+      "path": "derived/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "bytes": 32827,
+      "sha256": "e6d74713720ac6513959cbc53d45e8696fa9b324a84c1cf64956a634100c29fc"
+    },
+    {
+      "path": "derived/03-profili-professionali-ccnl-mansioni.md",
+      "bytes": 21379,
+      "sha256": "bd98cada9d97e2e39a8c6e8f4d08977aa342c8ca1ff9c675ecee0b2b4126cf15"
+    },
+    {
+      "path": "derived/04-diritto-tributario-teoria-imposta.md",
+      "bytes": 63640,
+      "sha256": "1fb13a8d1a3109f7fbf055354247cb1e4191690fa619d53043ba47c0e8f931de"
+    },
+    {
+      "path": "derived/04-governo-ministeri-amministrazione-centrale.md",
+      "bytes": 19988,
+      "sha256": "d4e1a556ddfec5e1aa62ffa0de510d7fb7cb01b86634e356c521297a69905d2c"
+    },
+    {
+      "path": "derived/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "bytes": 34467,
+      "sha256": "7e6d926503d2ffff11169a6647cd77b80a0652bd0c81b5c65a9ab3b4ea205608"
+    },
+    {
+      "path": "derived/05-accertamento-controlli-compliance-fiscale.md",
+      "bytes": 52700,
+      "sha256": "74c2dafacfd9fd5a6c563fe6fbc381e1e1ebe0846cf80212c1c3378f198f4571"
+    },
+    {
+      "path": "derived/05-presidenza-consiglio-ministri.md",
+      "bytes": 20199,
+      "sha256": "7fe18bf2e46104e24fcf7cefad2e5c3c69901dde8b2116b369663e782e980ebb"
+    },
+    {
+      "path": "derived/05-procedimenti-epne-cittadini-imprese.md",
+      "bytes": 28342,
+      "sha256": "5b6eb595a0fd9c1c79235cf645daa9c9345aa74c76b1c69b5e8e75f618dd798d"
+    },
+    {
+      "path": "derived/05a-sanzioni-amministrative-reati-tributari.md",
+      "bytes": 37503,
+      "sha256": "fc2869e90437ec3b7b418681e1a3c809219ac05863cb68eca1f5df73c6104a3a"
+    },
+    {
+      "path": "derived/05b-tutela-processo-tributario.md",
+      "bytes": 44288,
+      "sha256": "d8a029e0147732c677491f1cf5797f4fd70f36748bf145024ada2abc32daef38"
+    },
+    {
+      "path": "derived/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "bytes": 58368,
+      "sha256": "197c3e01e01bdad23ee5ececc3955a4192673654023c26dc727424cb4259261c"
+    },
+    {
+      "path": "derived/06-bilancio-patrimonio-controlli-epne.md",
+      "bytes": 31871,
+      "sha256": "eeb166707f3f4a7481fbc18308aeaa89de58a0d6d8b88409b5117e4178940a25"
+    },
+    {
+      "path": "derived/06-organizzazione-interna-ministeri.md",
+      "bytes": 23949,
+      "sha256": "17e9ff1bc6602b96923782edd6ddab2d3c185c8dfa890de8546a61b9b72d75f7"
+    },
+    {
+      "path": "derived/07-avvocatura-stato.md",
+      "bytes": 26733,
+      "sha256": "6a3eee3345bf8b2d501a67a2a124bdc0597a8e968674d4cbafcfb750fb8de877"
+    },
+    {
+      "path": "derived/07-performance-piao-valore-pubblico-epne.md",
+      "bytes": 27514,
+      "sha256": "9a7d800ad33e246ab3546c278da202d62f124b75114692f6bfe111d43097aadf"
+    },
+    {
+      "path": "derived/07-riscossione-nazionale-lavoro-ader.md",
+      "bytes": 30563,
+      "sha256": "0e549230547ab186bca7282ccb899adc426cfcd11f47701d0197dc3a1e12ad51"
+    },
+    {
+      "path": "derived/08-dogane-procedure-doganali-adm.md",
+      "bytes": 33435,
+      "sha256": "9b597337b60474a414e35474a3135b1d954f3db9894cbf12dee2d7c68c7184e0"
+    },
+    {
+      "path": "derived/08-personale-epne-ccnl-funzioni-centrali.md",
+      "bytes": 28355,
+      "sha256": "ab340cfedd8c65e4b376e936b7ad35f70209311d6c1216145b57c04da5c5195c"
+    },
+    {
+      "path": "derived/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "bytes": 35408,
+      "sha256": "77d83f109dc42525d1984c8163595c9337943fb09b3fc9259c90b2a120b6f069"
+    },
+    {
+      "path": "derived/09-accise-giochi-monopoli.md",
+      "bytes": 31275,
+      "sha256": "38ee91ff45b19ba4feeace7939a20e8b1670dff14470ab37f64a8cdf5a944d70"
+    },
+    {
+      "path": "derived/09-contabilita-stato-bilancio-ministeriale.md",
+      "bytes": 34435,
+      "sha256": "2da92721e7b266ede8c6cf1cccfb2e33fab7f74b504c0d6fdb1ce4b022e80420"
+    },
+    {
+      "path": "derived/09-contratti-acquisti-forniture-epne.md",
+      "bytes": 29690,
+      "sha256": "3aa35117a1d31d1f31cb8573830c4afe15f032c8a76eeb57aa7bb2fabf52cd59"
+    },
+    {
+      "path": "derived/10-bando-decoder-epne.md",
+      "bytes": 27775,
+      "sha256": "228fbbd6c1131a06469751be4d4653e6a22ce37c24e67b0806d739b1070bf75d"
+    },
+    {
+      "path": "derived/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "bytes": 31611,
+      "sha256": "4c30e9a4e62d8eda33b9fa475236b611902647776a6ef982ed626c15eede095f"
+    },
+    {
+      "path": "derived/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "bytes": 38824,
+      "sha256": "447bce227a56b572f7720dced412dfc514fbf1d2c0e5e1dae39a9757db5f5eac"
+    },
+    {
+      "path": "derived/11-casi-pratici-epne.md",
+      "bytes": 32875,
+      "sha256": "87b995bd1c11ab387aa351a7c2589fd993da24936a34e2081a945250ba50ee31"
+    },
+    {
+      "path": "derived/11-casi-pratici-ministeriali.md",
+      "bytes": 48273,
+      "sha256": "0d078562fef647ceb92adfc2668d27528584b4a82ebb2d3dc71cb5c382fc4050"
+    },
+    {
+      "path": "derived/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "bytes": 30505,
+      "sha256": "acb1bb30efd202d2980336c1a4532cfab386b5628f924b7e61729240d2629d18"
+    },
+    {
+      "path": "derived/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "bytes": 30887,
+      "sha256": "7a1688ad8c2d671feed97e519ac30c58de2e06e3f998ae049a60a0d803e7a82e"
+    },
+    {
+      "path": "derived/12-quesiti-situazionali-codice-comportamento.md",
+      "bytes": 37490,
+      "sha256": "f70634502bc3c9484219eb8d6d9479379d19c61dbe964d06f489abcc6f72889d"
+    },
+    {
+      "path": "derived/12-quesiti-situazionali-epne.md",
+      "bytes": 32503,
+      "sha256": "546a29f9bec7af2c53ee2f05b373ff57e12eff4a7f2570b9e23af72363cfb5ed"
+    },
+    {
+      "path": "derived/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "bytes": 55307,
+      "sha256": "e71b65f8839de7b1ecc87f9062102dd1bb6bfeeb347750c98cea03bde2eca427"
+    },
+    {
+      "path": "derived/13-matrice-materie-piano-30-60-90.md",
+      "bytes": 32009,
+      "sha256": "bad4c761da0909f79655e357f9572779e1b8671975eb226ae3ece2f625064a97"
+    },
+    {
+      "path": "derived/13-piano-30-60-90-inps-inail-epne.md",
+      "bytes": 24702,
+      "sha256": "68efa1c4ed5a8f8454a84b0aca82be6c15ae1e8c6acbd59a51c0ab5afd60e49b"
+    },
+    {
+      "path": "derived/14-appendici-operative.md",
+      "bytes": 46912,
+      "sha256": "6fbed6bd493eecbce0662b0d54601639aa57a0cde1d603fb7b0f2ee32c9ce7a3"
+    },
+    {
+      "path": "derived/14-simulazione-finale-diario-errori.md",
+      "bytes": 29677,
+      "sha256": "63df8479c6315b2f5bb634db2714b99305844e481f37e178d7c78eb2329dcc99"
+    },
+    {
+      "path": "derived/15-appendici-operative.md",
+      "bytes": 44615,
+      "sha256": "a5fa9a66994f107e8c0d72a4d761fdde17480a6ba976fc200e04fe4e14664cd5"
+    },
+    {
+      "path": "derived/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "bytes": 33097,
+      "sha256": "5710126a94e1bf9dca05ea563e923beb462f1aa85d44ba0bfb76a66ba0a6a534"
+    },
+    {
+      "path": "derived/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "bytes": 27759,
+      "sha256": "5a77cd78dd7068acb2e67cf025c7999732f328385418592cfd58077408f20d1c"
+    },
+    {
+      "path": "derived/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "bytes": 27960,
+      "sha256": "72b4b8a5481e830585e5c3ce8cf75318b67d049ddc6115504131f29db4c7df06"
+    },
+    {
+      "path": "derived/appendice-d-errori-tipici-bandi-epne.md",
+      "bytes": 25895,
+      "sha256": "7519d5a990002be11fb3c0492ed1252259e834aa480d4dc1924f47234a17c622"
+    },
+    {
+      "path": "derived/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "bytes": 27944,
+      "sha256": "858e8aa2d1abedc90a4ecd2550ab53d2d6276fefb99512c3ecf90c60240e6754"
+    },
+    {
+      "path": "derived/appendice-f-materie-integrative-inail-ripam.md",
+      "bytes": 36581,
+      "sha256": "29ae047217f0d16ddc2cdee8de8966a2990c446a1403faed995ca3f1f439b823"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 125765,
+      "sha256": "96e050bfa9ab0e57e7b2bbecbaac414f890463a4787d7b0cf14e26d31c910d7e"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "bytes": 28886,
+      "sha256": "3337ef20a7241607074de300abb288a8af080cd65f3797e8f2e82e7ff1516931"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "bytes": 19997,
+      "sha256": "61eacb5ea533a2161fd97a03b5cda5b0944d531fefbe7767c4af8b103466b1e3"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "bytes": 21380,
+      "sha256": "290db404db9f00b3d7a1dcd020cbefb65bdb55566a65c40fddec211f04abec31"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "bytes": 20195,
+      "sha256": "62aeb330546eeeff557c742fd75a9927dfabb562f8ff7f005e656ce6747fdd70"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "bytes": 20201,
+      "sha256": "bfde445695ce9ba12eda761f30d1eaa62713a6ab9c202c54895463b2a305dd7f"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "bytes": 24067,
+      "sha256": "a9ca399edf80b947bdacd62c61e14d22821bfecc134cb8a39b4f1472496c2b6d"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "bytes": 26874,
+      "sha256": "ffa01dcfecff142aafce760985552b64c1d5561e9598d7ab6d25f424bdefa28c"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "bytes": 35469,
+      "sha256": "2c961e542f95702d01044ea99a2963516e507596e7c75c5d50002a511acff6e8"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "bytes": 34435,
+      "sha256": "2da92721e7b266ede8c6cf1cccfb2e33fab7f74b504c0d6fdb1ce4b022e80420"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "bytes": 39054,
+      "sha256": "f10c8633f37c6439895d2c2bdb3c776ef3c67052b8452da8f2789f8bd9c6f22d"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "bytes": 48273,
+      "sha256": "0d078562fef647ceb92adfc2668d27528584b4a82ebb2d3dc71cb5c382fc4050"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "bytes": 37490,
+      "sha256": "f70634502bc3c9484219eb8d6d9479379d19c61dbe964d06f489abcc6f72889d"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "bytes": 31999,
+      "sha256": "f41c1da324df99393e20c57b2e201bf6eae1b2f7466eeca84b04e2791bc765c3"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "bytes": 29243,
+      "sha256": "efbec4cc335afdd462ed8e57f5a7a6ce4c5e176b8bc84b42fe07d43d132cab48"
+    },
+    {
+      "path": "masters/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "bytes": 44615,
+      "sha256": "a5fa9a66994f107e8c0d72a4d761fdde17480a6ba976fc200e04fe4e14664cd5"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "bytes": 36619,
+      "sha256": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "bytes": 31242,
+      "sha256": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "bytes": 32832,
+      "sha256": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "bytes": 64101,
+      "sha256": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "bytes": 53377,
+      "sha256": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "bytes": 37558,
+      "sha256": "2f1ae919ebd39f29331f8f5a8f6652342da65473e8106ed82ae8e9cb882412d0"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "bytes": 44377,
+      "sha256": "3608af42728c22184511f160b0ac4cfc4905bb07788f1dddc91a7b08fd4db730"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "bytes": 59477,
+      "sha256": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "bytes": 30568,
+      "sha256": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "bytes": 33439,
+      "sha256": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "bytes": 31280,
+      "sha256": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "bytes": 31621,
+      "sha256": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "bytes": 30515,
+      "sha256": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "bytes": 30896,
+      "sha256": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "bytes": 55304,
+      "sha256": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da"
+    },
+    {
+      "path": "masters/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "bytes": 49709,
+      "sha256": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "bytes": 30863,
+      "sha256": "702ade162e6316d51373b7461d4368f80ec32ea3e60a1c3a5a1a591ab146f5e7"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "bytes": 29384,
+      "sha256": "89a5e0f43a36530404c63485d08a0c313adba7dc1bff9f88ab0ae1e869406bc5"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "bytes": 35258,
+      "sha256": "b41cf812ed9d3b0a12d1ba7408e34c8cad061b6b7f0c797a34c9bd0d4b114d58"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "bytes": 34352,
+      "sha256": "93bb466bb94751125235c9d05e735781551edcb5722ddb4c2449e74ed2cf286a"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "bytes": 28340,
+      "sha256": "5b3c9f477654903103b1130ce06d241f5f5725a3b297d1299f2dcec3308a121b"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "bytes": 31869,
+      "sha256": "05e57ead82830f32e37cf944b111cc9c4b0b0bff7f9b4f799805ddd4e532ff23"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "bytes": 27506,
+      "sha256": "96bb9255f664b94124062824c3be6bfe5ddded265763d4788054e5bf3fa4e725"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "bytes": 28354,
+      "sha256": "c6f479868b5d4315ddc4934953d5619506fdca99a48f5ecb89b6fd6ee67820fc"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+      "bytes": 29689,
+      "sha256": "0df6e3b86520c62c1c89cc4b2324f6fbf94ae0de7f6db95c0a7f3de5e4c481f9"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "bytes": 27649,
+      "sha256": "e5f24d61b4b6cb322ad239b2df0f835b9a5df00cfee1ac6f67ad646b7d387ec9"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+      "bytes": 32875,
+      "sha256": "3303040be0fb75c202ebfca2ed4ebaf4290d3fa87450707ea4e477f0e312ce5c"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+      "bytes": 32503,
+      "sha256": "6c7b92262d92848840a3fe48ba98c0f246817c754e24d6906499c17dd146036b"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "bytes": 24688,
+      "sha256": "91061250128fb426a71237fe8fb0335575affeb7506331fda210000387081f3f"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "bytes": 33097,
+      "sha256": "5710126a94e1bf9dca05ea563e923beb462f1aa85d44ba0bfb76a66ba0a6a534"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "bytes": 27758,
+      "sha256": "073c21893de8997357b6df51bcf4521e5051bf5aafe34823b4f216d395c08bc5"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "bytes": 27946,
+      "sha256": "4f3dc106820ac6c2aebea463e916869e234b4f965c8d41d697bf10cc6cc5eef5"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "bytes": 25713,
+      "sha256": "cebbe6e75cb68e5e5cf12ed3c37b6e57e3c05a6fc693eb656366e3f750c3c732"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "bytes": 27771,
+      "sha256": "889d8cab3c3713b73907d03f9a6027a01872818a92adf571b7a61b85f48c716d"
+    },
+    {
+      "path": "masters/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "bytes": 36466,
+      "sha256": "703fa41b14db9143a47cf3e8b5f89dda21c05d28bbb27279e9849180dcd5af39"
+    },
+    {
+      "path": "payload.json",
+      "bytes": 2041821,
+      "sha256": "416433bf1c5b5effa8f373e157b70502fcf1f0d813f308a79e4b5617b298c5ce"
+    },
+    {
+      "path": "pdf-geometry.json",
+      "bytes": 114916,
+      "sha256": "e276a6fc01d8e6c5bb4f9171afe0daff7948049f15e290edf558de6647efe575"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2069,
+      "sha256": "6e46004180209e4500147b0b8b8b287ef05ff1543e82e9bee422f904e3a82cf6"
+    },
+    {
+      "path": "renderer-source-hashes.json",
+      "bytes": 1446,
+      "sha256": "6bbffdca2018cd6378313472878343595260229da44becbcc2b1dd41698c8613"
+    },
+    {
+      "path": "reports/M-FC01-freeze.json",
+      "bytes": 5620,
+      "sha256": "85d521df6fb2b97cf5c76ac272e7acd6372884ca05fa6eb02109d7a48979aa1b"
+    },
+    {
+      "path": "reports/M-FC02-freeze.json",
+      "bytes": 6176,
+      "sha256": "279cb14857a5076238ea602a6990245d5aa3b4696105fda59ed2c511d6a32651"
+    },
+    {
+      "path": "reports/M-FC03-freeze.json",
+      "bytes": 6996,
+      "sha256": "0576fc3636f032b66fb823df3f4b7ae428e10163a07c67de64c6c7543b4705d7"
+    },
+    {
+      "path": "reports/PDF-VOL-03.md",
+      "bytes": 7201,
+      "sha256": "0b250d3dcc91de01a9d756586c5cc10ae654698b43db7f52209b3c05e246c165"
+    },
+    {
+      "path": "reports/VOL-03-ledger.json",
+      "bytes": 52866,
+      "sha256": "a5a869b886543c2750938624b9ed7ea62f79202351b9255e077ced837cfdf837"
+    },
+    {
+      "path": "reports/VOL-03-native-checkpoint.json",
+      "bytes": 5896,
+      "sha256": "b2c3121f8876a772ccb509eb46a80eb90a177bb13c7a6ff0bd21eaae61b424b1"
+    },
+    {
+      "path": "reports/VOL-03-native-schemes.json",
+      "bytes": 70386,
+      "sha256": "ddea0638d8e9fc07f3393053a241bfcf1bf7b3b565843822d787a102c9b429a9"
+    },
+    {
+      "path": "reports/VOL-03-original-figures-review.json",
+      "bytes": 20905,
+      "sha256": "e9a3607cf2a397099ea4d134f3a4310307fde265a795143ce07047efe56dc4a0"
+    },
+    {
+      "path": "reports/VOL-03-P03-08.json",
+      "bytes": 1209,
+      "sha256": "4f7358d86613e92e44f9509f28fd88efc3b671b34a5884b320fc6e2942c87f7e"
+    },
+    {
+      "path": "reports/vol-03-schemi-fiscali-verifica-2026-10-03.md",
+      "bytes": 2958,
+      "sha256": "574112708ca4ecfb9ae7cc36bb262d797d2ac0455543f4591f188146c39c9a70"
+    },
+    {
+      "path": "reports/VOL-03.md",
+      "bytes": 20137,
+      "sha256": "b5e1af6ac0622cb14c4ebba9e7bbfa5f7c76ea2cce1fd73cae100eb25de96bb6"
+    },
+    {
+      "path": "reproduction/build-vol03-proof.ts",
+      "bytes": 7088,
+      "sha256": "97bac1f0bcd2acc5bc578f50c3a48661f73753ae790aff6d91f20458a81f7879"
+    },
+    {
+      "path": "reproduction/export-vol03-proof.mjs",
+      "bytes": 4838,
+      "sha256": "637cfa305d9425dd9eaae87033bb433a8919d3df256108e26fe6afa420b7fd82"
+    },
+    {
+      "path": "source-payload.json",
+      "bytes": 2033370,
+      "sha256": "5a57685ee1e49a68c7ed982759711dcaa349a0e37f64b9315827a5e15577b0f3"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 74892,
+      "sha256": "aa58a5281dc1b8b385da890e72984ad32c9212eb603b569c8393c01c6eed8b3a"
+    },
+    {
+      "path": "visual/contact-001-016.png",
+      "bytes": 459482,
+      "sha256": "e66690df2b926bf1e58f05811060ec0affd86dbe2b672bfa516f61e44620cd2b"
+    },
+    {
+      "path": "visual/contact-017-032.png",
+      "bytes": 508132,
+      "sha256": "8bb4d2aa26cc7581ad5277b0c69a6902ce71e188d4fe5ce8f4b7ab37c2ba4418"
+    },
+    {
+      "path": "visual/contact-033-048.png",
+      "bytes": 587599,
+      "sha256": "014a09357ff0a0c24663d5fd75473aa1ea03a87ea775d14ac1b65b9c3772cbb1"
+    },
+    {
+      "path": "visual/contact-049-064.png",
+      "bytes": 596140,
+      "sha256": "25cde34f058d8eb69fa0ba761933ae6ed2229879d14ecff8f69e055d33d551ef"
+    },
+    {
+      "path": "visual/contact-065-080.png",
+      "bytes": 526831,
+      "sha256": "a318465e8ece6e54f0b0643af77605a27af26a6ca4787d71d7d0d23a3337cf8a"
+    },
+    {
+      "path": "visual/contact-081-096.png",
+      "bytes": 576207,
+      "sha256": "afe02e9941ae58913422dc05b842c3665478e5a6d462deaa52299cfa2f18cdd4"
+    },
+    {
+      "path": "visual/contact-097-112.png",
+      "bytes": 645750,
+      "sha256": "ef5c03584367fbb50a730a075da81b48d35d01ac4e0cb495f69c5af515db21aa"
+    },
+    {
+      "path": "visual/contact-113-128.png",
+      "bytes": 724124,
+      "sha256": "9c389bca3e78eda23ec503462e7487e7aa02b971a1d4d4d7c52367bfe030df9d"
+    },
+    {
+      "path": "visual/contact-129-144.png",
+      "bytes": 673159,
+      "sha256": "81ae9c1602d546107a35bcec573ce477b7f0cb31c5d83db6dda24c7f41ce2a15"
+    },
+    {
+      "path": "visual/contact-145-160.png",
+      "bytes": 679991,
+      "sha256": "08393b744f7b2ec62ff86574fdb8af998711e67fc1632c94159d9a56c7ed4b3f"
+    },
+    {
+      "path": "visual/contact-161-176.png",
+      "bytes": 683124,
+      "sha256": "507454d883864af06646b27d7391bd67292427904e4fa0c098d4bfc6ee514f5f"
+    },
+    {
+      "path": "visual/contact-177-192.png",
+      "bytes": 657776,
+      "sha256": "64f3777e796bbfcfa60aa8219bf65609db9030f5148b8050957251567d62dfc2"
+    },
+    {
+      "path": "visual/contact-193-208.png",
+      "bytes": 632740,
+      "sha256": "cb01828d49b437d04f460e6fb5f9be6f5ca368d1bdce68457ee64f305813695b"
+    },
+    {
+      "path": "visual/contact-209-224.png",
+      "bytes": 601200,
+      "sha256": "e89aa68efe884d470de81e4150b8d460f397f329320ba4a2d67b267e14e989c4"
+    },
+    {
+      "path": "visual/contact-225-240.png",
+      "bytes": 550765,
+      "sha256": "3801d175b9c80b2b81ad6dd37b1a7ed31aab3c74d2f3d9b9e89bcfd42eb32ae8"
+    },
+    {
+      "path": "visual/contact-241-256.png",
+      "bytes": 484792,
+      "sha256": "32c5cbed89a134a14f8c3c06909c281291945e50c69e9b384c9d9f07eac807ca"
+    },
+    {
+      "path": "visual/contact-257-272.png",
+      "bytes": 617667,
+      "sha256": "cafe4dd2416daaedb52c4445ed19925dcd4a5bab52cab7df70b9a1d4d1351c39"
+    },
+    {
+      "path": "visual/contact-273-288.png",
+      "bytes": 667042,
+      "sha256": "06341a39b6ec6d1142ea85e35cb6e7549778dc5cc579f12d50b514aa3c14e3cb"
+    },
+    {
+      "path": "visual/contact-289-304.png",
+      "bytes": 540306,
+      "sha256": "8555aa4ac839fe87c47ac8f917a0ad7dfa4f9b82356e86ceab713142f8ac0bcd"
+    },
+    {
+      "path": "visual/contact-305-320.png",
+      "bytes": 660572,
+      "sha256": "faf44396d5fa19f7e6a6351b4e644accd1d4aea0fb2a7fd0fa1653351c087cd4"
+    },
+    {
+      "path": "visual/contact-321-336.png",
+      "bytes": 600262,
+      "sha256": "a6f97704c1e84eff5e2901c2c93547fe9d4dd1655311c2bebdce0b2a424d0e7c"
+    },
+    {
+      "path": "visual/contact-337-352.png",
+      "bytes": 633967,
+      "sha256": "d053223ed1f2ee783c2e05a5c86b201129d46eedf3e89074e5f8e44739511670"
+    },
+    {
+      "path": "visual/contact-353-368.png",
+      "bytes": 634031,
+      "sha256": "5e42bdcccceed05ddafdc56f3a6d184493e38f01428e145cde97f4f8906b49c8"
+    },
+    {
+      "path": "visual/contact-369-384.png",
+      "bytes": 618030,
+      "sha256": "e74c9f9460be94e325a42bfc5d209c36423976c3e89fbcd0f582414c8117f8ce"
+    },
+    {
+      "path": "visual/contact-385-400.png",
+      "bytes": 579289,
+      "sha256": "2ed3902292671c717ed16a544ec9db384c78a118d4d0106f97b5776efa1a9526"
+    },
+    {
+      "path": "visual/contact-401-416.png",
+      "bytes": 569710,
+      "sha256": "5725406e9848814c6c717ca24b3d474a9b416ec7a3b0ea7bd66f9e5996be14f7"
+    },
+    {
+      "path": "visual/contact-417-432.png",
+      "bytes": 585225,
+      "sha256": "93b75c07fea804820c55209b6cc60d947d011d993c6a8f9fc5f0b6bf794c4646"
+    },
+    {
+      "path": "visual/contact-433-448.png",
+      "bytes": 591867,
+      "sha256": "3077b6844343a949dbbaa673d6287608dc15e78d4145c99c73d57318bed21b6e"
+    },
+    {
+      "path": "visual/contact-449-464.png",
+      "bytes": 579447,
+      "sha256": "33dd1bf117ebbf2753c1795169766b9a78c7e495f3ae771f5cb2bf9cd0b592ec"
+    },
+    {
+      "path": "visual/contact-465-480.png",
+      "bytes": 614707,
+      "sha256": "1df4c5192afc30464b1fe8de45be587191e87fc55f0ddfec68ec59ba9477218b"
+    },
+    {
+      "path": "visual/contact-481-496.png",
+      "bytes": 576111,
+      "sha256": "b486c8668e8f52c6e0aecd2187dc902b0a3548e8d92fd4b1b9ae420dde3ff7e0"
+    },
+    {
+      "path": "visual/contact-497-512.png",
+      "bytes": 417423,
+      "sha256": "4caba523a52d7a1420c7c20607642db0bec40e103086dcc9967e273c1bd77920"
+    },
+    {
+      "path": "visual/contact-513-528.png",
+      "bytes": 398336,
+      "sha256": "00d70ed6887a4bf729bd59c05c683dc0f57a49deaf038e7d886aa0b027d6c63b"
+    },
+    {
+      "path": "visual/contact-529-544.png",
+      "bytes": 537430,
+      "sha256": "fe71ce32312c4f22e8a87bfce57383e45baf91ced5874b67b07cd31864372d8f"
+    },
+    {
+      "path": "visual/contact-545-560.png",
+      "bytes": 546596,
+      "sha256": "d40160fb91469d4f4ba45e6ec6fc2af6b4c71b4b9105170124679b598874b8e9"
+    },
+    {
+      "path": "visual/contact-561-576.png",
+      "bytes": 623147,
+      "sha256": "9ef622c5ab53a8001f45a13664bd58eca1902db04c907d2def87a44f0038d821"
+    },
+    {
+      "path": "visual/contact-577-592.png",
+      "bytes": 631928,
+      "sha256": "6021e37e48384ac648fbefcbd9c0cd2d4ebed400c5592d427afbc35ed15236f2"
+    },
+    {
+      "path": "visual/contact-593-608.png",
+      "bytes": 561535,
+      "sha256": "ec88f96f0f474879939729cd750abf21e0f18ef2930113d21a92642acde4d46e"
+    },
+    {
+      "path": "visual/contact-609-624.png",
+      "bytes": 588860,
+      "sha256": "6750c2fa0558a42759b0522176eac166e1ff9741a9273cf1813a1adf2c24e21f"
+    },
+    {
+      "path": "visual/contact-625-640.png",
+      "bytes": 580901,
+      "sha256": "12e16483d5416861fe3e0e07f437aba87d40d14b702a3be4c9ee1d5a0e89260b"
+    },
+    {
+      "path": "visual/contact-641-656.png",
+      "bytes": 557555,
+      "sha256": "6e196e373ce2a8ee264bf3f2e41e4bf90db8895927f03e4793c02a15a05ef9b7"
+    },
+    {
+      "path": "visual/contact-657-672.png",
+      "bytes": 561821,
+      "sha256": "a8462822eca02358b5e5e2d7d927b9d1014783da3ddec3a838f594e8e46fc738"
+    },
+    {
+      "path": "visual/contact-673-688.png",
+      "bytes": 547620,
+      "sha256": "12d2d415b629b876ac1908f82829af297f69aa21d42c5b440d985f719d1ee98f"
+    },
+    {
+      "path": "visual/contact-689-704.png",
+      "bytes": 582394,
+      "sha256": "169045713de2e2bfbbe41cb9f8d5407bab8cd37948f1db45e54ed04c1ca80839"
+    },
+    {
+      "path": "visual/contact-705-720.png",
+      "bytes": 561476,
+      "sha256": "0fb420b5ed8d7a8b00614ebf993c670a36a9cdaf89d6fcdb05a18fccbb230713"
+    },
+    {
+      "path": "visual/contact-721-736.png",
+      "bytes": 561000,
+      "sha256": "34943b8f968cadcb08b822e1a97445cb243c6f25e2af7afb8011c185fc1b49e0"
+    },
+    {
+      "path": "visual/contact-737-752.png",
+      "bytes": 573898,
+      "sha256": "d6d3eff9f711608d6608025db35469176939fa180473d0592db94b58498a2def"
+    },
+    {
+      "path": "visual/contact-753-768.png",
+      "bytes": 580350,
+      "sha256": "2142b5db937eaaf8816bcf1c326253753d06b28e654a749f7a39f57d66d685e5"
+    },
+    {
+      "path": "visual/contact-769-784.png",
+      "bytes": 617396,
+      "sha256": "e5f12577af9ac83f1d2568e0568bf19a1be062ce8dc38d8714e577edf3a8b8b8"
+    },
+    {
+      "path": "visual/contact-785-800.png",
+      "bytes": 579019,
+      "sha256": "20a95c265d01f8c76cd639980df86a5d71da5bf847368d5d9bc8fb77dad8fad4"
+    },
+    {
+      "path": "visual/contact-801-813.png",
+      "bytes": 569246,
+      "sha256": "b7399cda7fd36e2c227d672112e9f300aa819195592e0f5d2f69c874987533d1"
+    },
+    {
+      "path": "visual/page-006.png",
+      "bytes": 165366,
+      "sha256": "9437fce05e96fcac47250dce13e09af02a68621fc4e80eb02558daf81794cbed"
+    },
+    {
+      "path": "visual/page-174.png",
+      "bytes": 158649,
+      "sha256": "73a2ab32592b916d6173a0383cb8553ca3e309ae1b472feef7f3f668b3806ae6"
+    },
+    {
+      "path": "visual/page-194.png",
+      "bytes": 108369,
+      "sha256": "fa4bb8dac3fcc5f089532d370610b63593b6968bb1d069e8371cd2dbe556b457"
+    },
+    {
+      "path": "visual/page-258.png",
+      "bytes": 166695,
+      "sha256": "bb94b7be34c5c4260bb6e427b005d7f8474c5f24fa4559bec860b2a6b9e6ac21"
+    },
+    {
+      "path": "visual/page-301.png",
+      "bytes": 125000,
+      "sha256": "f6f511935976a2c1ca9b5a3cfcb59bd31e38427fa3416b6a5c07d59d65da0b80"
+    },
+    {
+      "path": "visual/page-322.png",
+      "bytes": 154469,
+      "sha256": "7aa0508317c8f1d9f1c947f4be5a3b6f7ba82aef354f9218ac7571d56833b2c9"
+    },
+    {
+      "path": "visual/page-340.png",
+      "bytes": 149309,
+      "sha256": "8fa8a8bfda002bb0215cea0342599ac88614fb5ac6f308a8ecb4bc12ecf350ba"
+    },
+    {
+      "path": "visual/page-376.png",
+      "bytes": 135059,
+      "sha256": "dca9b52e94d6b5c73750c923b1d7a50cae4224ba5f68d9bc6290228e92b7e4cb"
+    },
+    {
+      "path": "visual/page-388.png",
+      "bytes": 110428,
+      "sha256": "4936df89d3e3b9c950b3ef633e3c55ff0959e48e35ba52991cdefc7162a755fa"
+    },
+    {
+      "path": "visual/page-410.png",
+      "bytes": 126933,
+      "sha256": "9d37f392a6aca0e024f2ff3563bf1fa509adfb4a67ceb4347ad7ac2c310e622a"
+    },
+    {
+      "path": "visual/page-468.png",
+      "bytes": 157930,
+      "sha256": "8f152b1d1eefa26817a1ea4ea7c4d5855992a5145588cd4a3893707eccc991b5"
+    },
+    {
+      "path": "visual/page-476.png",
+      "bytes": 225421,
+      "sha256": "656fdda0a7b618484076e092079b64ba8a478f8b246f3283606c4eb8deb90dc6"
+    },
+    {
+      "path": "visual/page-477.png",
+      "bytes": 219384,
+      "sha256": "39d59d7306d6efd9e0757fc2b3174d5f0951e0327cfb5b1b6a84813dfd1b6fc8"
+    },
+    {
+      "path": "visual/page-478.png",
+      "bytes": 164614,
+      "sha256": "315e8f71b26213216258ee9cf54a0e9fbce46adb9c1d34a822ae429cb7919032"
+    },
+    {
+      "path": "visual/page-489.png",
+      "bytes": 119741,
+      "sha256": "aa918864d484960b416a3fa8e4f5ac9ae5a31a10a10b6421554a779fa724e902"
+    },
+    {
+      "path": "visual/page-506.png",
+      "bytes": 112747,
+      "sha256": "9c5d437a72a828cd629ba5fd4e8d39d017f2d5af9d0a500f0daa19ae4fceeee7"
+    },
+    {
+      "path": "visual/page-507.png",
+      "bytes": 92589,
+      "sha256": "82d47a556996442667cbf18a8f58cd0a81f134c5fd264e5f89d3012384e408f3"
+    },
+    {
+      "path": "visual/page-534.png",
+      "bytes": 123778,
+      "sha256": "9b6d72d321ddb4a3e40487cc76527db602cc99283d055dff6dc6d5ed00cbd3cb"
+    },
+    {
+      "path": "visual/page-535.png",
+      "bytes": 111351,
+      "sha256": "27706d69c301bff62f1eed7098bf7d67865b32c10fdc978924c6ff8a3a80d893"
+    },
+    {
+      "path": "visual/page-536.png",
+      "bytes": 76545,
+      "sha256": "b5e2df4103b172c724df59e1357f5beedd158a04e0d0c5898c0caee7a46f5372"
+    },
+    {
+      "path": "visual/page-792.png",
+      "bytes": 175852,
+      "sha256": "486b1df2da7da51450bab281e6e6cc949bb5e18d7062e54c2ef6b8feb9791567"
+    },
+    {
+      "path": "visual/page-793.png",
+      "bytes": 126352,
+      "sha256": "84d6bc35d62bb115477bd2650288e3f4568896104bd6a2f2e4bb250d7eb2dce9"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 2314,
+      "sha256": "a0ba6689ae2232ce23a55328035a6c37f9d9398d9f5f9722af05adc5ae7d7f22"
+    },
+    {
+      "path": "vol-03-current-proof-metrics.json",
+      "bytes": 1780903,
+      "sha256": "4c38500da9ba17fbeb89de390cebb9e40cdb6d9f8a1165c8fc6107da6631c405"
+    },
+    {
+      "path": "vol-03-interior-kdp.pdf",
+      "bytes": 4610078,
+      "sha256": "32e25d31b712ca18af78053e7f62daab47ea266106ca52dae16cd8407eff718c"
+    }
+  ],
+  "covers": [
+    {
+      "key": "03",
+      "volume": "VOL-03",
+      "title": "Funzioni centrali, Fisco, Previdenza e Ispettivo",
+      "cover": "delivery/copertine-2026-10-03/vol-03-cover.pdf",
+      "coverSha256": "47827a6c43f265598e3d6e18c4f0fcfad1223401c2c84c9dad469aee63706b0b",
+      "interior": "delivery/VOL-03/candidate-2026-10-03/vol-03-interior-kdp.pdf",
+      "interiorSha256": "32e25d31b712ca18af78053e7f62daab47ea266106ca52dae16cd8407eff718c",
+      "pdfPages": 813,
+      "kdpPages": 814,
+      "spineInches": 1.833128,
+      "widthInches": 15.463128,
+      "heightInches": 9.86,
+      "bleedInches": 0.125,
+      "fontMinPt": 8.5,
+      "fontsEmbedded": true,
+      "encrypted": false,
+      "textOutsidePage": [],
+      "visualReviewed": true,
+      "authorConfirmed": false,
+      "isbnAssigned": false,
+      "releaseApproved": false,
+      "minimumSpineTextClearancePt": 59.46166375390624,
+      "visualEvidence": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/cover-qa/03.png",
+      "path": "covers/vol-03-cover.pdf"
+    }
+  ],
+  "publicationApproved": false
+}

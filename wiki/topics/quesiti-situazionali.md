@@ -49,3 +49,8 @@ I quesiti situazionali presentano un episodio lavorativo e chiedono di scegliere
 - [[topics/etica-pubblica]]
 - [[topics/orientamento-al-cittadino]]
 - [[books/il-metodo-bando/chapters/quesiti-situazionali-soft-skills]]
+
+
+## Candidatura e applicazioni — 3 ottobre 2026
+
+[[sources/vol-01-candidatura-casi-correzioni-2026-10-03]] verifica misure di partecipazione e ambito DPR487, quattro dossier risolti e otto situazionali con chiavi bilanciate.

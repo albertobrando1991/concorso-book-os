@@ -31,3 +31,8 @@ Il taglio deve essere operativo: richiesta, atto, soggetto, titolo, competenza, 
 
 ## Note di review
 Prima della pubblicazione verificare D.P.R. 15 dicembre 1959, n. 1229 vigente, codici di procedura, risposte operative Ministero della giustizia su notificazioni/esecuzioni/protesti, CCNL e istruzioni locali.
+
+
+## UNEP — verifica del 3 ottobre 2026
+
+[[sources/vol-04-unep-verifica-2026-10-03]] consolida notificazioni139/140/143, Corte3/2010, titolo e precetto, termini10/90/45, pignoramenti, ricerca492bis, offerta reale e mora del creditore.

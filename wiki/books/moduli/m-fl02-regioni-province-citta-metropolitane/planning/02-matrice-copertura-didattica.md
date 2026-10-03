@@ -170,123 +170,123 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FL02-05-01 | M-FL02/tutti | Finanza e armonizzazione | equilibrio; copertura; autonomia; schemi | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]] | Cap. 05 § N-FL02-05-01 | catena e linguaggio armonizzato | fatto gestionale | risposta equilibrio-copertura | Q:2 C:1 E:1 | completo | Costituzione e D.Lgs. 118/2011 |
-| N-FL02-05-03 | M-FL02/tutti | Programmazione | DEFR; obiettivi; indicatori | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]] | Cap. 05 § N-FL02-05-03 | livelli strategico, finanziario, operativo | mobilità interna | matrice obiettivi | Q:1 C:1 E:1 | completo | documenti regionali |
-| N-FL02-05-04 | M-FL02/amministrativo | Bilancio e gestione | previsione; variazioni; fasi della spesa | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]] | Cap. 05 § N-FL02-05-04 | autorizzazione e gestione | spesa e fattura | sequenza motivata | Q:1 C:1 E:1 | completo | principi applicati |
-| N-FL02-05-05 | M-FL02/amministrativo | Risorse vincolate | contributi; UE; PNRR; SSR | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 05 § N-FL02-05-05 | vincoli e tracciabilità | contributo | griglia controlli | Q:1 C:1 E:1 | completo | fonte finanziamento |
-| N-FL02-05-06 | M-FL02/tutti | Rendiconto e controlli | consolidato; Corte; parifica | [[sources/decreto-legge-10-ottobre-2012-n-174-controlli-enti-territoriali]] | Cap. 05 § N-FL02-05-06 | risultati, soggetti, effetti | scostamenti | risposta parifica | Q:1 C:1 E:1 | completo | D.L. 174/2012 |
-| N-FL02-05-07 | M-FL02/tutti | Responsabilità e metodo | danno; agente; casi | [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]] | Cap. 05 § N-FL02-05-07 | responsabilità e ciclo | due casi | tavola ed esercizio | Q:6 C:2 E:1 | completo | disciplina vigente |
+| N-FL02-05-02 | M-FL02/tutti | Programmazione | DEFR; obiettivi; indicatori | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]] | Cap. 05 § N-FL02-05-02 | livelli strategico, finanziario, operativo | mobilità interna | matrice obiettivi | Q:1 C:1 E:1 | completo | documenti regionali |
+| N-FL02-05-03 | M-FL02/amministrativo | Bilancio e gestione | previsione; variazioni; fasi della spesa | [[sources/armonizzazione-contabile-enti-territoriali-d-lgs-118-2011]] | Cap. 05 § N-FL02-05-03 | autorizzazione e gestione | spesa e fattura | sequenza motivata | Q:1 C:1 E:1 | completo | principi applicati |
+| N-FL02-05-04 | M-FL02/amministrativo | Risorse vincolate | contributi; UE; PNRR; SSR | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 05 § N-FL02-05-04 | vincoli e tracciabilità | contributo | griglia controlli | Q:1 C:1 E:1 | completo | fonte finanziamento |
+| N-FL02-05-05 | M-FL02/tutti | Rendiconto e controlli | consolidato; Corte; parifica | [[sources/decreto-legge-10-ottobre-2012-n-174-controlli-enti-territoriali]] | Cap. 05 § N-FL02-05-05 | risultati, soggetti, effetti | scostamenti | risposta parifica | Q:1 C:1 E:1 | completo | D.L. 174/2012 |
+| N-FL02-05-06 | M-FL02/tutti | Responsabilità e metodo | danno; agente; casi | [[sources/d-lgs-26-agosto-2016-n-174-codice-di-giustizia-contabile]] | Cap. 05 § N-FL02-05-06 | responsabilità e ciclo | due casi | tavola ed esercizio | Q:6 C:2 E:1 | completo | disciplina vigente |
 
 ## Checklist dimensionale — capitolo 05
 
 | Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FL02-05-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
-| N-FL02-05-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
-| N-FL02-05-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
-| N-FL02-05-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
-| N-FL02-05-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 | ✓ |
-| N-FL02-05-07 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
+| N-FL02-05-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL02-05-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL02-05-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL02-05-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 | ✓ |
+| N-FL02-05-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
 
 ## Delta step 10 — capitolo 05
 
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
 | --- | --- | --- | --- | --- |
 | N-FL02-05-01 | avanzato | integrata armonizzazione | completo | § N-FL02-05-01; Quiz 1-2 |
-| N-FL02-05-03 | parziale | sviluppati livelli e indicatori | completo | § N-FL02-05-03; Quiz 3 |
-| N-FL02-05-04 | avanzato | precisate variazioni e gestione | completo | § N-FL02-05-04; Quiz 4 |
-| N-FL02-05-05 | parziale | completati vincoli, fondi e SSR | completo | § N-FL02-05-05; Quiz 5 |
-| N-FL02-05-06 | avanzato | distinti controlli e parifica | completo | § N-FL02-05-06; Quiz 6 |
-| N-FL02-05-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-05-07; blocco ▣ Verifica |
+| N-FL02-05-02 | parziale | sviluppati livelli e indicatori | completo | § N-FL02-05-02; Quiz 3 |
+| N-FL02-05-03 | avanzato | precisate variazioni e gestione | completo | § N-FL02-05-03; Quiz 4 |
+| N-FL02-05-04 | parziale | completati vincoli, fondi e SSR | completo | § N-FL02-05-04; Quiz 5 |
+| N-FL02-05-05 | avanzato | distinti controlli e parifica | completo | § N-FL02-05-05; Quiz 6 |
+| N-FL02-05-06 | avanzato | consolidati casi e verifica | completo | § N-FL02-05-06; blocco ▣ Verifica |
 
 ## Dettaglio Formato 2 — capitolo 06
 
 | Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FL02-06-01 | M-FL02/legislativo | Competenza e qualità | fonte; organo; problema; opzioni | [[sources/costituzione-repubblica-italiana-testo-vigente]] | Cap. 06 § N-FL02-06-01 | controlli preliminari e scelta regolatoria | qualificazione della fonte | griglia competenza-opzione | Q:2 C:1 E:1 | completo | Costituzione e fonte regionale |
-| N-FL02-06-03 | M-FL02/legislativo | AIR | problema; obiettivi; opzioni; impatti; consultazione | [[sources/air-vir-qualita-regolazione-dpcm-169-2017]] | Cap. 06 § N-FL02-06-03 | istruttoria ex ante completa | confronto delle opzioni | tabella AIR | Q:1 C:1 E:1 | completo | D.P.C.M. 169/2017 come metodo |
-| N-FL02-06-04 | M-FL02/legislativo | VIR e coordinamento | monitoraggio; indicatori; ATN; clausole | [[sources/air-vir-qualita-regolazione-dpcm-169-2017]] | Cap. 06 § N-FL02-06-04 | verifica ex post e compatibilità | clausola valutativa | schema VIR-ATN | Q:1 C:1 E:1 | completo | disciplina regionale target |
-| N-FL02-06-06 | M-FL02/legislativo | Drafting | articoli; commi; definizioni; rinvii; novelle; transitorio | [[sources/regole-suggerimenti-redazione-testi-normativi-regioni-2024]] | Cap. 06 § N-FL02-06-06 | struttura e manutenzione | riscrittura normativa | articolo corretto | Q:2 C:2 E:1 | completo | manuale drafting 2024 |
-| N-FL02-06-07 | M-FL02/tutti | Applicazione integrata | scheda; laboratorio; copertura; casi | fonti dei nuclei precedenti | Cap. 06 § N-FL02-06-07 | metodo completo | due casi guidati | scheda e laboratorio | Q:6 C:2 E:1 | completo | audit trasversale |
+| N-FL02-06-02 | M-FL02/legislativo | AIR | problema; obiettivi; opzioni; impatti; consultazione | [[sources/air-vir-qualita-regolazione-dpcm-169-2017]] | Cap. 06 § N-FL02-06-02 | istruttoria ex ante completa | confronto delle opzioni | tabella AIR | Q:1 C:1 E:1 | completo | D.P.C.M. 169/2017 come metodo |
+| N-FL02-06-03 | M-FL02/legislativo | VIR e coordinamento | monitoraggio; indicatori; ATN; clausole | [[sources/air-vir-qualita-regolazione-dpcm-169-2017]] | Cap. 06 § N-FL02-06-03 | verifica ex post e compatibilità | clausola valutativa | schema VIR-ATN | Q:1 C:1 E:1 | completo | disciplina regionale target |
+| N-FL02-06-04 | M-FL02/legislativo | Drafting | articoli; commi; definizioni; rinvii; novelle; transitorio | [[sources/regole-suggerimenti-redazione-testi-normativi-regioni-2024]] | Cap. 06 § N-FL02-06-04 | struttura e manutenzione | riscrittura normativa | articolo corretto | Q:2 C:2 E:1 | completo | manuale drafting 2024 |
+| N-FL02-06-05 | M-FL02/tutti | Applicazione integrata | scheda; laboratorio; copertura; casi | fonti dei nuclei precedenti | Cap. 06 § N-FL02-06-05 | metodo completo | due casi guidati | scheda e laboratorio | Q:6 C:2 E:1 | completo | audit trasversale |
 
 ## Checklist dimensionale — capitolo 06
 
 | Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FL02-06-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
-| N-FL02-06-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
-| N-FL02-06-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
-| N-FL02-06-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 | ✓ |
-| N-FL02-06-07 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
+| N-FL02-06-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3 | ✓ |
+| N-FL02-06-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 4 | ✓ |
+| N-FL02-06-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 | ✓ |
+| N-FL02-06-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
 
 ## Delta step 10 — capitolo 06
 
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
 | --- | --- | --- | --- | --- |
 | N-FL02-06-01 | avanzato | ricomposti competenza, qualità e opzioni | completo | § N-FL02-06-01 |
-| N-FL02-06-03 | parziale | sviluppati AIR, consultazione e tabella | completo | § N-FL02-06-03; Quiz 3 |
-| N-FL02-06-04 | parziale | integrati VIR, monitoraggio, ATN e clausole | completo | § N-FL02-06-04; Quiz 4 |
-| N-FL02-06-06 | avanzato | consolidati struttura e manutenzione | completo | § N-FL02-06-06; Quiz 5-6 |
-| N-FL02-06-07 | avanzato | consolidati scheda, laboratorio e casi | completo | § N-FL02-06-07; blocco ▣ Verifica |
+| N-FL02-06-02 | parziale | sviluppati AIR, consultazione e tabella | completo | § N-FL02-06-02; Quiz 3 |
+| N-FL02-06-03 | parziale | integrati VIR, monitoraggio, ATN e clausole | completo | § N-FL02-06-03; Quiz 4 |
+| N-FL02-06-04 | avanzato | consolidati struttura e manutenzione | completo | § N-FL02-06-04; Quiz 5-6 |
+| N-FL02-06-05 | avanzato | consolidati scheda, laboratorio e casi | completo | § N-FL02-06-05; blocco ▣ Verifica |
 
 ## Dettaglio Formato 2 — capitolo 07
 
 | Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FL02-07-01 | M-FL02/tutti | Coesione e fondi | quadro 2021-2027; FESR; FSE+; JTF; FSC; AdG | [[sources/politiche-coesione-2021-2027-programmi-regionali]] | Cap. 07 § N-FL02-07-01 | finalità, fondi e architettura | lettura del programma | risposta su fondi e Regione | Q:2 C:1 E:1 | completo | regolamenti e programmi vigenti |
-| N-FL02-07-03 | M-FL02/amministrativo | Programma e selezione | azione; avviso; beneficiario; operazione; ammissibilità; tracciabilità | [[sources/politiche-coesione-2021-2027-programmi-regionali]] | Cap. 07 § N-FL02-07-03 | catena selettiva e attuativa | avviso e contributo | schema programma-operazione | Q:2 C:1 E:1 | completo | avviso e manuale target |
-| N-FL02-07-05 | M-FL02/amministrativo | Monitoraggio e rendicontazione | avanzamento; indicatori; trasparenza; prove | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 07 § N-FL02-07-05 | dati, risultati e fascicolo | controllo degli avanzamenti | tabella delle evidenze | Q:1 C:1 E:1 | completo | sistemi e istruzioni applicabili |
-| N-FL02-07-06 | M-FL02/tutti | Controlli e qualificazione | verifiche; aiuti; appalti; FSC; bilancio | fonti dei nuclei precedenti | Cap. 07 § N-FL02-07-06 | piani giuridici e finanziari | qualificazione misura | risposta sui controlli | Q:1 C:1 E:1 | completo | fonte della misura |
-| N-FL02-07-07 | M-FL02/tutti | Applicazione integrata | catena; casi; esercizio; controllo | fonti dei nuclei precedenti | Cap. 07 § N-FL02-07-07 | metodo completo | Comune e percorso FSE+ | schema, casi e checklist | Q:6 C:2 E:1 | completo | audit trasversale |
+| N-FL02-07-02 | M-FL02/amministrativo | Programma e selezione | azione; avviso; beneficiario; operazione; ammissibilità; tracciabilità | [[sources/politiche-coesione-2021-2027-programmi-regionali]] | Cap. 07 § N-FL02-07-02 | catena selettiva e attuativa | avviso e contributo | schema programma-operazione | Q:2 C:1 E:1 | completo | avviso e manuale target |
+| N-FL02-07-03 | M-FL02/amministrativo | Monitoraggio e rendicontazione | avanzamento; indicatori; trasparenza; prove | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 07 § N-FL02-07-03 | dati, risultati e fascicolo | controllo degli avanzamenti | tabella delle evidenze | Q:1 C:1 E:1 | completo | sistemi e istruzioni applicabili |
+| N-FL02-07-04 | M-FL02/tutti | Controlli e qualificazione | verifiche; aiuti; appalti; FSC; bilancio | fonti dei nuclei precedenti | Cap. 07 § N-FL02-07-04 | piani giuridici e finanziari | qualificazione misura | risposta sui controlli | Q:1 C:1 E:1 | completo | fonte della misura |
+| N-FL02-07-05 | M-FL02/tutti | Applicazione integrata | catena; casi; esercizio; controllo | fonti dei nuclei precedenti | Cap. 07 § N-FL02-07-05 | metodo completo | Comune e percorso FSE+ | schema, casi e checklist | Q:6 C:2 E:1 | completo | audit trasversale |
 
 ## Checklist dimensionale — capitolo 07
 
 | Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FL02-07-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
-| N-FL02-07-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
-| N-FL02-07-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
-| N-FL02-07-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 | ✓ |
-| N-FL02-07-07 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
+| N-FL02-07-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL02-07-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5 | ✓ |
+| N-FL02-07-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 6 | ✓ |
+| N-FL02-07-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
 
 ## Delta step 10 — capitolo 07
 
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
 | --- | --- | --- | --- | --- |
 | N-FL02-07-01 | avanzato | ricomposti quadro, fondi e soggetti | completo | § N-FL02-07-01 |
-| N-FL02-07-03 | avanzato | ricomposte selezione, ammissibilità e tracciabilità | completo | § N-FL02-07-03 |
-| N-FL02-07-05 | parziale | sviluppati avanzamenti, indicatori e prove | completo | § N-FL02-07-05 |
-| N-FL02-07-06 | avanzato | distinti controlli, aiuti, appalti e bilancio | completo | § N-FL02-07-06 |
-| N-FL02-07-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-07-07; blocco ▣ Verifica |
+| N-FL02-07-02 | avanzato | ricomposte selezione, ammissibilità e tracciabilità | completo | § N-FL02-07-02 |
+| N-FL02-07-03 | parziale | sviluppati avanzamenti, indicatori e prove | completo | § N-FL02-07-03 |
+| N-FL02-07-04 | avanzato | distinti controlli, aiuti, appalti e bilancio | completo | § N-FL02-07-04 |
+| N-FL02-07-05 | avanzato | consolidati casi e verifica | completo | § N-FL02-07-05; blocco ▣ Verifica |
 
 ## Dettaglio Formato 2 — capitolo 08
 
 | Nucleo ID | Famiglia/profilo | Materia | Concetto/sotto-concetti | Fonti consolidate | Collocazione | Copertura teorica | Applicazione | Output concorsuale | Verifica apprendimento | Stato | Review normativa |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FL02-08-01 | M-FL02/tutti | Ciclo PNRR | progetto; milestone; target; CUP; cronoprogramma | [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]] | Cap. 08 § N-FL02-08-01 | ciclo progetto-risultato | lettura cronoprogramma | schema del ciclo | Q:2 C:1 E:1 | completo | Piano e misura vigenti |
-| N-FL02-08-03 | M-FL02/amministrativo | Soggetti, ReGiS e DNSH | ruoli; dati; validazione; verifiche ambientali | [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]] | Cap. 08 § N-FL02-08-03 | responsabilità e prove | dato incoerente | griglia dato-documento | Q:2 C:1 E:1 | completo | istruzioni ufficiali vigenti |
-| N-FL02-08-05 | M-FL02/amministrativo | Contratti e controlli | affidamenti; pagamenti; antifrode; doppio finanziamento | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 08 § N-FL02-08-05 | ciclo contrattuale e verifiche | variante e pagamento | checklist controllo | Q:2 C:1 E:1 | completo | D.Lgs. 36/2023 e misura |
-| N-FL02-08-06 | M-FL02/tutti | Regione e governance | bilancio; dati; trasparenza; anticorruzione | fonti dei nuclei precedenti | Cap. 08 § N-FL02-08-06 | ruoli e raccordi | disallineamento dati | risposta sul ruolo regionale | Q:1 C:1 E:1 | completo | atti di governance |
-| N-FL02-08-07 | M-FL02/tutti | Applicazione integrata | catena; casi; esercizio; controlli | fonti dei nuclei precedenti | Cap. 08 § N-FL02-08-07 | metodo completo | Comune e dato ReGiS | schema e casi | Q:6 C:2 E:1 | completo | audit trasversale |
+| N-FL02-08-02 | M-FL02/amministrativo | Soggetti, ReGiS e DNSH | ruoli; dati; validazione; verifiche ambientali | [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]] | Cap. 08 § N-FL02-08-02 | responsabilità e prove | dato incoerente | griglia dato-documento | Q:2 C:1 E:1 | completo | istruzioni ufficiali vigenti |
+| N-FL02-08-03 | M-FL02/amministrativo | Contratti e controlli | affidamenti; pagamenti; antifrode; doppio finanziamento | [[sources/pagamenti-tracciabilita-contratti-pnrr-rendicontazione]] | Cap. 08 § N-FL02-08-03 | ciclo contrattuale e verifiche | variante e pagamento | checklist controllo | Q:2 C:1 E:1 | completo | D.Lgs. 36/2023 e misura |
+| N-FL02-08-04 | M-FL02/tutti | Regione e governance | bilancio; dati; trasparenza; anticorruzione | fonti dei nuclei precedenti | Cap. 08 § N-FL02-08-04 | ruoli e raccordi | disallineamento dati | risposta sul ruolo regionale | Q:1 C:1 E:1 | completo | atti di governance |
+| N-FL02-08-05 | M-FL02/tutti | Applicazione integrata | catena; casi; esercizio; controlli | fonti dei nuclei precedenti | Cap. 08 § N-FL02-08-05 | metodo completo | Comune e dato ReGiS | schema e casi | Q:6 C:2 E:1 | completo | audit trasversale |
 
 ## Checklist dimensionale — capitolo 08
 
 | Nucleo ID | Definizione | Funzione | Inquadramento | Elementi | Distinzioni | Conseguenze | Esempio/caso | Uso nella prova | Errore tipico | Verifica | Fonti |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | N-FL02-08-01 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 1-2 | ✓ |
-| N-FL02-08-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
-| N-FL02-08-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 | ✓ |
-| N-FL02-08-06 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ caso | ✓ |
-| N-FL02-08-07 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
+| N-FL02-08-02 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 3-4 | ✓ |
+| N-FL02-08-03 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ Quiz 5-6 | ✓ |
+| N-FL02-08-04 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ caso | ✓ |
+| N-FL02-08-05 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ quiz e caso | ✓ |
 
 ## Delta step 10 — capitolo 08
 
 | Nucleo | Stato prima | Intervento | Stato dopo | Evidenza |
 | --- | --- | --- | --- | --- |
 | N-FL02-08-01 | avanzato | ricomposti ciclo, milestone e tracciabilità | completo | § N-FL02-08-01 |
-| N-FL02-08-03 | avanzato | ricomposti soggetti, ReGiS e DNSH | completo | § N-FL02-08-03 |
-| N-FL02-08-05 | parziale | sviluppati contratti, pagamenti e controlli | completo | § N-FL02-08-05 |
-| N-FL02-08-06 | parziale | sviluppati ruolo regionale e raccordi | completo | § N-FL02-08-06 |
-| N-FL02-08-07 | avanzato | consolidati casi e verifica | completo | § N-FL02-08-07; blocco ▣ Verifica |
+| N-FL02-08-02 | avanzato | ricomposti soggetti, ReGiS e DNSH | completo | § N-FL02-08-02 |
+| N-FL02-08-03 | parziale | sviluppati contratti, pagamenti e controlli | completo | § N-FL02-08-03 |
+| N-FL02-08-04 | parziale | sviluppati ruolo regionale e raccordi | completo | § N-FL02-08-04 |
+| N-FL02-08-05 | avanzato | consolidati casi e verifica | completo | § N-FL02-08-05; blocco ▣ Verifica |
 
 ## Dettaglio Formato 2 — capitolo 09
 
@@ -407,3 +407,30 @@ La matrice applica il gate di copertura integrale ai dodici capitoli del modulo.
 | N-FL02-12-03 | parziale | sviluppati distinzioni, raccordi e conseguenze | completo | § N-FL02-12-03 |
 | N-FL02-12-04 | parziale | sviluppata catena delle evidenze e dei controlli | completo | § N-FL02-12-04 |
 | N-FL02-12-05 | avanzato | consolidati prestazione, quiz e caso finale | completo | § N-FL02-12-05; blocco ▣ Verifica |
+
+## Correzioni autorizzate, 3 ottobre 2026
+
+| ID | Capitolo/nucleo | Teoria e applicazione aggiunte | Verifica | Stato |
+| --- | --- | --- | --- | --- |
+| V02-21 | 02, nuclei01/03 | Statuto123, elezione122, cessazione126; casi31componenti e sfiducia | Due quiz aggiuntivi7C/8D e soluzioni | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-22 | 03, nuclei02/04/06 | Materie117 esemplificate, conferenze, sostituzione120/L131 | Confronti salute/reato, tutela/valorizzazione e caso LEP | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-23 | 04 | Sequenza esplicita del saldo con controllo prima della liquidazione, poi mandato e pagamento; eventualità di integrazione/revoca; imperativi uniformati. | Art57/58D118 acquisiti e letti, soluzione ordinata confrontata con caso e tabella. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-24 | 05 | Calendario regionale con DEFR, bilancio, doppia fase rendiconto, assestamento e consolidato31ottobre; liquidazione distinta da ordinazione/pagamento; caso numerico saldo. | Artt18/36/39/50/57/58/63/68D118 letti; paginaistituzionaleDEFR; saldo18000−8000=10000, confrontoComune/Regione. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-25 | 06 | Ripristinati A=Aree,D=Diario,O=Output e raccordo metodologico Diario/Output. | Confronto con struttura madre e mappa BANDO degli altri capitoli. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-26 | 06 | Clausola finanziaria con ipotesi esplicite, importi peranno e mezzo di copertura; termine90giorni con decorrenza; transitorio comprende data iniziale. | Art81Cost e fonte contabilità consolidata; modello100000/80000/60000 con riduzione corrispondente, totale240000; distinzione diritto/tetto discrezionale. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-27 | 07 | Esplicitati regolamenti 1060/1058/1057/1056/1059, AdG/AdA e funzione contabile; costi reali/unitari/somme/tassi, limiti e tre esempi con quiz; test aiuti107TFUE. | RDC consolidato 1luglio2026 artt53/54/71–77 letti via browser; calcoli22000−2000=20000,180×100=18000,40000×7%=2800. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-28 | 08 | Titolarità centrale della misura distinta da attuazione/coordinamento regionale in tabella e risposta modello; chiarita titolarità del progetto. | DL77/2021 artt8–9 riscontrati Camera e soggetti attuatori Ministero salute; circolare4/2022 chiarisce lessico. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-29 | 08 | Corretto quiz doppio finanziamento senza condizione fonti incompatibili; esempio quote60/40 e duplicazione100/100; basi DNSH; scadenze2026, ReGiS e caso92/100. | Art9RRF nel raw acquisito; note VOL09 chiusura/DNSH verificate e riusate; data aggiornamento3ottobre, termini agosto/settembre presentati trascorsi. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-30 | 09 | Organi provinciali e metropolitani: elettorato, durate, composizione, assemblea/conferenza, statuto e bilancio, caso numerico e quiz; deroga18mesi2025–2027. | L56 commi pertinenti e nota24 letti; controllo quorum10/30 e260000/500000; distinta durata4/2/5anni. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-31 | 10, 12 | Anticipata nomina RUP al primo atto di avvio in tabelle, casi, sequenze, esercizi e soluzioni. | Confronto con art15 consolidato VOL09; ricerca nelle sequenze e verifica posizione prima della progettazione. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-32 | 10 | Riparto edilizia scolastica L23/1996; espropri con vincolo, PU, indennità, decreto condizionato a notifica/esecuzione e tre termini distinti. | L23art3 e DPR327art8/9/12/13/23/24 letti integralmente; prorogaPU vigente4anni, notifica7giorni con eccezione contestuale, esecuzione2anni. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-33 | 11 | Concessione e rischio operativo; in house con tre requisiti e caso80%; ambitoSPL; ricognizioni annuali e piano correttivo vigente, quiz. | D36art177,D175art2/16/20,D201art2/4/14/17/27/30/32 letti integralmente;8,2/10 = 82%; soglia oltre80 rigorosa. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-34 | 12 | Traccia digitalizzazione qualificata espressamente PNRR con obblighi ReGiS/DNSH dati e titolarità centrale distinta. | Coerenza con cap08 e fonte PNRR consolidata; non estesa disciplina a generico FESR. | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+| V02-20 regionale | 12 | Elaborato completo liquidazione saldo regionale | Calcoli, presupposti, dispositivo, griglia20punti | Applicato e riesaminato; report 15 del 3 ottobre 2026 |
+
+## Allineamento riferimenti al freeze del 3 ottobre 2026
+
+Riconciliati gli ID dei nuclei dei capitoli 05–08 con le intestazioni correnti. Le righe storiche di delta conservano gli stati prima/dopo; le parole «parziale» in tali righe non descrivono lo stato corrente. Il contenuto assegnato non cambia.
+
+
+Aggiornamento schemi del 3 ottobre 2026: cinque figure del capitolo 01 rese in Markdown nativo con concetti e relazioni conservati. P02-05/07/08/09: intervento testuale completato secondo il perimetro pertinente; controllo della nuova resa PDF ancora aperto. Evidenza: `artifacts/correzioni-collana-2026-10-02/VOL-02-native-schemes.json`.

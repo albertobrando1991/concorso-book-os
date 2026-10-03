@@ -9,7 +9,7 @@ entities: ["Unione europea", "MASE", "GSE", "ARERA", "Regioni", "Comuni"]
 source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4"]
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
 confidence: 0.96
-updated_at: 2026-08-18
+updated_at: 2026-10-03
 created_at: 2026-08-17
 review_required: false
 canonical: true
@@ -39,7 +39,7 @@ Mitigazione e adattamento devono restare distinti. La mitigazione riduce emissio
 
 La direttiva (UE) 2018/2001, modificata in particolare dalla direttiva (UE) 2023/2413, costituisce il quadro europeo per la promozione dell'energia da fonti rinnovabili. Nel diritto nazionale il D.Lgs. n. 199/2021 disciplina obiettivi, sostegni, autoconsumo, comunità energetiche e altre condizioni di sviluppo. Il D.Lgs. n. 190/2024 riordina i regimi amministrativi per la produzione di energia da fonti rinnovabili ed è stato interessato da modifiche correttive nel 2025: il capitolo non fissa soglie o allegati come dati immobili, ma richiede di usare il testo consolidato vigente alla data della decisione.
 
-La classificazione didattica di base distingue attività libera, procedura abilitativa semplificata e autorizzazione unica. La scelta concreta non dipende dal nome commerciale dell'impianto, ma da fonte, potenza, localizzazione, opere connesse, vincoli, cumuli, disponibilità dell'area e disciplina nazionale e regionale vigente. Non vanno create tabelle di soglie destinate a invecchiare senza una verifica normativa puntuale.
+La classificazione didattica di base distingue attività libera, procedura abilitativa semplificata e autorizzazione unica. La scelta concreta non dipende dal nome commerciale dell'impianto, ma da fonte, potenza, localizzazione, opere connesse, vincoli, cumuli, disponibilità dell'area e disciplina nazionale e regionale vigente. Sono ora inclusi casi e soglie datati, dopo verifica normativa puntuale degli artt. 6–9 e allegati A–C correnti; non si rinuncia a insegnare le regole per il solo rischio di aggiornamenti.
 
 Quattro piani devono essere tenuti separati: titolo alla realizzazione e all'esercizio; valutazioni e assensi ambientali, paesaggistici o territoriali; connessione alla rete; accesso a tariffe, contributi o altri meccanismi di sostegno. Ottenere un incentivo non autorizza l'impianto; ottenere un'autorizzazione non garantisce connessione o incentivo.
 
@@ -88,3 +88,7 @@ La tabella di piano deve collegare `asset/uso | dato di base | problema | misura
 - CER e autoconsumo diffuso ricondotti a D.M. MASE 414/2023, TIAD/ARERA 727/2022/R/eel, Regole operative GSE CACER e FAQ GSE aggiornate al 28 aprile 2026.
 - Soglie, allegati, aree, incentivi, contributi, contingenti, cumulabilità, tariffe, finestre e scadenze non sono fissati come dati correnti se manca fonte ufficiale datata.
 - Baseline, fattori di emissione e misure di efficienza devono dichiarare fonte, metodo e responsabile nel caso concreto.
+
+## Raccordo del 3 ottobre 2026
+
+Per i delta puntuali prevalgono [[sources/vol-11-ambiente-rettifiche-2026-10-03]], [[sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03]] e [[sources/vol-11-energia-sostenibilita-verifica-2026-10-03]], secondo materia. Le attestazioni precedenti non equivalgono a verifica integrale di tutti gli atti correnti.

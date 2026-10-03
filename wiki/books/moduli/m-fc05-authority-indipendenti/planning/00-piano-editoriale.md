@@ -9,7 +9,7 @@ entities: ["Metodo BANDO"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-05-dossier-editoriale-authority-regolazione-v4.md","sources/vol-05-bandi-authority-2022-2025.md","sources/banca-italia-bando-60-giuristi-2025.md","sources/anac-bando-19-funzionari-amministrativi-2026.md","sources/consob-bando-vice-assistenti-amministrativi-207-26.md","sources/authority-indipendenti-leggi-istitutive.md"]
 book_refs: ["m-fc05-authority-indipendenti","il-metodo-bando"]
 confidence: 0.85
-updated_at: 2026-08-22T00:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -95,3 +95,7 @@ L'indice operativo è in [[books/vol-05-authority-regolazione/index]]. Il VOL-05
 15. Laboratorio delle prove authority — quesiti, casi, memo, diario degli errori e piano 30/60/90.
 
 Per ogni capitolo la scrittura segue: apertura editoriale, obiettivo operativo, Mappa BANDO, spiegazione, box di sintesi, caso guidato, domanda da commissario, domanda-trappola, errore tipico, mini-esercizio, riferimenti consolidati e note di review.
+
+## Versione del 3 ottobre 2026
+
+Quindici capitoli; percorsi G giuridico, E economico-regolatorio e P giuridico-economico. Novanta quesiti aperti specifici, quindici casi finali e dieci simulazioni svolte con dossier, tre prove economiche numeriche e memo inglese. Il capitolo 1 contiene rinvii puntuali al base e piani di studio alternativi. Il perimetro non comprende un corso avanzato di econometria né ogni materia di qualsiasi bando.

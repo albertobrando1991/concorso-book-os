@@ -20,7 +20,7 @@ index_detail: chapters-only
 
 # Indice analitico VOL-09
 
-Target progettuale: 34.900 parole, inclusi front matter e appendici. Le righe sono capitoli pianificati: non attestano né la redazione definitiva né la verifica normativa al cut-off.
+Target progettuale: 34.900 parole, inclusi front matter e strumenti. Le righe sono capitoli pianificati: non attestano né la redazione definitiva né la verifica normativa al cut-off.
 
 ## Front matter — 2.200 parole
 
@@ -52,22 +52,24 @@ Target progettuale: 34.900 parole, inclusi front matter e appendici. Le righe so
 
 Target capitoli: 28.200 parole.
 
-## Appendici — 4.500 parole
+## Strumenti distribuiti nei capitoli
 
-| App. | Titolo | Profili | Contenuto |
-| --- | --- | --- | --- |
-| A | Tavole del Codice e del correttivo | RUP, procurement | articolo–fase–output, soglie, ruoli e rimedi |
-| B | MEPA e Consip operativi | procurement, RUP | scelta strumento, OdA, RdO, trattativa, AQ, SDAPA, ASP |
-| C | PNRR, ReGiS, DNSH e antifrode | PNRR, PM | monitoraggio, controllo, conflitti, chiusura |
-| D | Toolkit project management PA | PM, PNRR | charter, WBS, Gantt, RACI, risk register e report |
-| E | Toolkit RUP: atti, controlli e aggiornamenti | tutti | determine, matrici, verbali, registro modifiche |
+Revisione del 3 ottobre 2026: le appendici A–E non sono unità editoriali separate. I nuclei necessari sono presenti nel corpo; il kit cartaceo del capitolo 14 fornisce la mappa e schede effettivamente compilabili. Questa sezione sostituisce la precedente promessa di 4.500 parole di appendici autonome, evitando rinvii a unità inesistenti.
+
+| Famiglia di strumenti | Destinazione effettiva |
+| --- | --- |
+| Tavole del Codice: ruoli, valore, soglie e rimedi | cap. 2, 3, 5, 9; cap. 14 simulazioni 1–6 |
+| MePA e Consip: scelta dello strumento e percorsi operativi | cap. 7; cap. 14 simulazione 2 |
+| PNRR, ReGiS, DNSH e antifrode | cap. 10–12; cap. 14 simulazioni 7–9 |
+| Project management: charter, WBS, Gantt, RACI, registri e report | cap. 2 e 13; cap. 14 simulazione 10 |
+| Atti, controlli e aggiornamenti | cap. 14, Kit cartaceo, Scheda di decisione, Verbale e registro modifiche, Registro aggiornamenti |
 
 ## Percorsi di studio
 
-- **Specialista appalti/RUP:** capitoli 01–09 e 14; appendici A, B, E.
-- **Procurement operativo:** capitoli 01–08 e 14; appendici B, E.
-- **Specialista PNRR:** capitoli 01–03, 06, 08, 10–14; appendici C, D, E.
-- **Project manager pubblico:** capitoli 01–03, 08, 10–14; appendici C, D.
+- **Specialista appalti/RUP:** capitoli 01–09 e 14; kit cartaceo del capitolo 14.
+- **Procurement operativo:** capitoli 01–08 e 14; kit cartaceo del capitolo 14.
+- **Specialista PNRR:** capitoli 01–03, 06, 08, 10–14; kit cartaceo del capitolo 14.
+- **Project manager pubblico:** capitoli 01–03, 08, 10–14; kit cartaceo del capitolo 14.
 
 ## Confini di catalogo
 

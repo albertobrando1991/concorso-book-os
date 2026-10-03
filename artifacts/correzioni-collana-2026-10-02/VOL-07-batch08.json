@@ -1,0 +1,25 @@
+{
+  "V07-35": {
+    "change": "Integrati principi delle discipline, precisione/esattezza, calibrazione/QC e serie numerica commentata; gruppi biologici, contenimento, cappe, decontaminazione e categorie rifiuti. Inserito grafico originale Levey–Jennings coerente con la tabella e con il quesito.",
+    "files": [
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md",
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/serie-controllo-qc.png"
+    ],
+    "evidence": "Nuove sezioni didattiche e soluzioni confrontate con le source note aggiornate il 3 ottobre; controllo specialistico e PDF successivi ancora necessari. Grafico QC richiesto al coordinatore per V07-35; testo e dati pronti. Valori z controllati; originale ispezionato dal coordinamento. Resa del nuovo PDF pendente.",
+    "status": "applicato",
+    "sha256": {
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/02-tslb-processo-laboratorio-qualita-biosicurezza.md": "a878d2eb4c2e99d8f7757e85e44189a663b728c81f5a9010d51e30ef9ecd04e0"
+    }
+  },
+  "V07-39": {
+    "change": "Inseriti due apparati originali movimento/dettaglio e rumore/contrasto, con didascalie, alternative testuali, domande e soluzioni.",
+    "files": [
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/chapters/03-tsrm-imaging-dosimetria-radioprotezione.md",
+      "wiki/reviews/correzioni-collana-2026-10-02/V07-39-specifica-apparati.md",
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/movimento-dettaglio.png",
+      "wiki/books/moduli/m-sa04-tecnici-sanitari-prevenzione/assets/correzioni-2026-10/rumore-contrasto.png"
+    ],
+    "evidence": "Originali creati e ispezionati dal coordinamento; collegamenti locali presenti. Controllo delle pagine PDF ancora necessario.",
+    "status": "applicato"
+  }
+}

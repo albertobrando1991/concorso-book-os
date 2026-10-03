@@ -51,3 +51,7 @@ Questa nota coordina le fonti già consolidate dei capitoli 02-13 e la base dida
 ## Limiti
 
 La nota non sostituisce il testo vigente, le direttive, gli atti regionali o le procedure dell'amministrazione concreta. Le risposte modello devono dichiarare le informazioni mancanti e non inventare autorità competenti, termini, soglie o adempimenti. I rinvii a VOL-01 riguardano soltanto metodo di risposta, procedimento generale e diario degli errori; B-PA non viene rispiegato.
+
+## Riesame del 3 ottobre 2026
+
+Il laboratorio applica le cinque nuove note di riscontro VOL11: simulazione 6 tabella e nota con confronto acustico, 8 matrice di otto righe, 10 nota e sei azioni con tempi e responsabilità. Appendici A–E nel capitolo 14, effettive e cartacee, con modelli compilati. I calcoli sono didattici e coerenti con capitoli 8, 12 e 13. Le regole note vanno applicate anche quando la consegna non le ricopia; i fatti mancanti non si inventano.

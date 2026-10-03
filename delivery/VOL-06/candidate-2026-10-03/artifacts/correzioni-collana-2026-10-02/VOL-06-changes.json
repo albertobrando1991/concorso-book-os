@@ -1,0 +1,773 @@
+{
+  "volume": "VOL-06",
+  "changes": {
+    "V06-01": {
+      "change": "Sostituita la presentazione corrente dell’O.M. 172/2020 con O.M. 3/2025, sei giudizi, ultimo periodo 2024/2025, valutazione in itinere e distinto comportamento nella secondaria di primo grado.",
+      "files": [
+        "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+        "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md"
+      ],
+      "evidence": "Confronto artt. 1–7 e Allegato A della copia ministeriale ospitata da istituto statale; rilettura della nuova sezione. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md": "3f96e2f88fd4a735445e6f759363a1a8c206a056bb9bdc3386ef0ef9bff9420d",
+        "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md": "685984c9492cdc3154ce9d1c77d847e1ae0edc50966abe0d7d6bd061723bcea8"
+      },
+      "previousEvidence": "Confronto artt. 1–7 e Allegato A della copia ministeriale ospitata da istituto statale; rilettura della nuova sezione.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-02": {
+      "change": "Elencate le sei aree DigCompEdu, ripristinata l’area professionale.",
+      "files": [
+        "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+        "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md"
+      ],
+      "evidence": "Pagina canonica JRC DigCompEdu framework letta; corrispondenza aree controllata. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md": "3f96e2f88fd4a735445e6f759363a1a8c206a056bb9bdc3386ef0ef9bff9420d",
+        "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md": "685984c9492cdc3154ce9d1c77d847e1ae0edc50966abe0d7d6bd061723bcea8"
+      },
+      "previousEvidence": "Pagina canonica JRC DigCompEdu framework letta; corrispondenza aree controllata.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-03": {
+      "change": "Aggiornata la nota preesistente con “e” nello slug, riallineati i riferimenti del modulo e del topic senza duplicare una fonte obsoleta.",
+      "files": [
+        "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+        "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md",
+        "wiki/books/moduli/m-ir01-scuola/planning/03-piano-capitolo-12-metodologie-valutazione-digitale-didattico.md",
+        "wiki/books/moduli/m-ir01-scuola/planning/03-piano-capitolo-13-progettazione-lezione-simulata.md",
+        "wiki/topics/m-ir01-scuola-fonti-e-profili.md",
+        "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md"
+      ],
+      "evidence": "Fonte esistente consolidata con O.M. 3/2025 e JRC; controllo riferimenti dopo le correzioni del modulo. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md": "3f96e2f88fd4a735445e6f759363a1a8c206a056bb9bdc3386ef0ef9bff9420d",
+        "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md": "1a7c65219a48a2612dd4d53efdb151fe56424d393c48aef5fc86ae9759017ade",
+        "wiki/books/moduli/m-ir01-scuola/planning/02-matrice-copertura-didattica.md": "9ef7f2801371aa59356534b84203845963891269c9d438eba223a26a528f798a",
+        "wiki/books/moduli/m-ir01-scuola/planning/03-piano-capitolo-12-metodologie-valutazione-digitale-didattico.md": "110176d71a5291493bcef2dd0e872b74cd0c48d664b88605e93bb7a02f2679bd",
+        "wiki/books/moduli/m-ir01-scuola/planning/03-piano-capitolo-13-progettazione-lezione-simulata.md": "1f34250b510ac3e4a3f6e7eb41caf7fd8bc8642de0eddca137f0015fdbda84ce",
+        "wiki/topics/m-ir01-scuola-fonti-e-profili.md": "d5ebeed4ef2ae689f51a09d121c5038c4a3dd0b3820a7e20b5ea00fc11ebe8bf",
+        "wiki/sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu.md": "685984c9492cdc3154ce9d1c77d847e1ae0edc50966abe0d7d6bd061723bcea8"
+      },
+      "previousEvidence": "Fonte esistente consolidata con O.M. 3/2025 e JRC; controllo riferimenti dopo le correzioni del modulo.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-04": {
+      "change": "Integrati ordinamenti essenziali, organi/composizioni/competenze/quorum e procedimento PTOF/SNV, con casi numerici risolti.",
+      "files": [
+        "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md"
+      ],
+      "evidence": "Consolidati D.Lgs. 297 artt. 5/7/8/10/37, DPR275 art.3 e fonti INVALSI; rilettura del delta, calcoli quorum e 35→28% svolti. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md": "1addb591bed4d3b94532382b312584704e182a9bcfe6f0e025a44131b49d9e0d",
+        "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md": "e64284a7dce72650b96815994ae57a431b8280a5d026b2f765e8976ab7c9e821",
+        "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md": "ab68eefc368b81ff54ea198f1ff03608f6714ccda4547a8e1da2c0fa70aac5e8"
+      },
+      "previousEvidence": "Consolidati D.Lgs. 297 artt. 5/7/8/10/37, DPR275 art.3 e fonti INVALSI; rilettura del delta, calcoli quorum e 35→28% svolti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-05": {
+      "change": "Caso completo di trasferimento con nota istruttoria e rubrica; piano ATA con proposta DSGA, adozione DS, attuazione DSGA, quadro contrattuale 2025 e aree/profili.",
+      "files": [
+        "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md"
+      ],
+      "evidence": "ARAN CCNL2007 art53 e CCNL2024/2025 letti nei passaggi pertinenti; caso originale con confini di competenza e privacy. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md": "f1abe4357c2da4914527b7013961e32911fd94839bd28652dbb7258fc3a1ad87",
+        "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md": "df2d5754dc6a30cdd66921adc793b9fa8a20dbc7e47db734ca0475783448788b"
+      },
+      "previousEvidence": "ARAN CCNL2007 art53 e CCNL2024/2025 letti nei passaggi pertinenti; caso originale con confini di competenza e privacy.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-06": {
+      "change": "Inseriti programma annuale e consuntivo con ruoli/termini ordinari, fasi entrata/spesa, residui, riconciliazione numerica e inventario con consegnatario/ricognizione/scarico.",
+      "files": [
+        "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md"
+      ],
+      "evidence": "D.I.129 artt.5/23 su GU e12/13/15/16/17/30/31/33 consolidati; caso 30.000+10.000−15.000=25.000 risolto. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md": "b625abac49bc04c9d2d8d79a100bd33957c394deb564f2f69b4ecb32e9a89723",
+        "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md": "447028cf8790712e71460a81fbba41021fd92d7ad5de4219023409adbc2cc449"
+      },
+      "previousEvidence": "D.I.129 artt.5/23 su GU e12/13/15/16/17/30/31/33 consolidati; caso 30.000+10.000−15.000=25.000 risolto.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-07": {
+      "change": "Esposti art.25 D.Lgs.165, relazioni del CCNL23dicembre2025 e ruoli sicurezza/ente edilizio; protezione urgente anteposta alla documentazione nello scenario e nella domanda-trappola.",
+      "files": [
+        "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md"
+      ],
+      "evidence": "Art.25 e art.18, commi3.1–3.3, consolidati; ARAN artt.5/6/11; scenario soffitto risolto rispettando i confini tecnici. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md": "3576a7d850bfa4d1eb58585824eb6fbeffd2e04c641333a43506f9ac2f817ff2",
+        "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md": "1057481a1aa0bffbf76391086aef88ab538549f11fd90dee82ea54625c99bca5"
+      },
+      "previousEvidence": "Art.25 e art.18, commi3.1–3.3, consolidati; ARAN artt.5/6/11; scenario soffitto risolto rispettando i confini tecnici.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-08": {
+      "change": "Integrati modelli psicopedagogici, PEI/PDP/GLO/GLI, individualizzazione e personalizzazione, sei quiz commentati e lezione completa su frazioni equivalenti con materiali, tempi, soluzione e rubrica. Aggiornato PEI al D.L.170/2026 e sostituito il richiamo improprio al DPR487 nella prova docente.",
+      "files": [
+        "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+        "wiki/sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010.md",
+        "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md"
+      ],
+      "evidence": "Letti art.7 D.Lgs.66, art.15 L.104 e art.1 D.L.170 vigenti; Linee guida DSA pp.6–8; quiz e calcoli delle frazioni risolti. Conversione D.L.170 da seguire dopo la data editoriale. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md": "3fd89201602e1a572d5e75e361de0597ef0675824cb1ce83064dbeedfe556ec2",
+        "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md": "1a7c65219a48a2612dd4d53efdb151fe56424d393c48aef5fc86ae9759017ade",
+        "wiki/sources/inclusione-scolastica-disabilita-dsa-dlgs-66-2017-legge-170-2010.md": "7aee47b0b6db45b8d3750727545d8f98ed47afc5c4a9a6bb7c350881fe685839",
+        "wiki/sources/programmi-concorsi-docenti-dm-205-206-2023.md": "4511b1d87d1dae95e8736d365efd28112136f03769facb9a75e631723fa4da0a"
+      },
+      "previousEvidence": "Letti art.7 D.Lgs.66, art.15 L.104 e art.1 D.L.170 vigenti; Linee guida DSA pp.6–8; quiz e calcoli delle frazioni risolti. Conversione D.L.170 da seguire dopo la data editoriale.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-09": {
+      "change": "Inseriti quadro nazionale degli organi L.240, CFU/titoli e calcoli D.M.270, attori/documenti AVA3, distinzione delle variazioni di carriera e caso economico ER.GO2026/2027 con fonte identificata.",
+      "files": [
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+        "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md"
+      ],
+      "evidence": "Consolidati L.240 art.2 e D.M.270 artt.3/5/7 letti; ANVUR AVA3 pp.19–20; ER.GO art.7 p.35 e portale UniBo. Calcoli150/102/1500 e doppia soglia risolti. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md": "f23d5d6cd95b244b259677c932c4303ad9b55232b7ee1b804b8bf92e5ae623fd",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md": "9227cc061b73cef64d40b76e939d24db65a279db2dee8046e0b7d64a458c17d7",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md": "0836b98d783a2043c461b1a41c2f54e4db9bb37237dc8b4698415349ea882443",
+        "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md": "a1b4b88b305db38665f3b5bd6f0d06766bd78302cba758d6e7d1f1cc7db15ada"
+      },
+      "previousEvidence": "Consolidati L.240 art.2 e D.M.270 artt.3/5/7 letti; ANVUR AVA3 pp.19–20; ER.GO art.7 p.35 e portale UniBo. Calcoli150/102/1500 e doppia soglia risolti.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-13": {
+      "change": "Corretta la collocazione terziaria AFAM; distinte istituzioni statali e non statali, limitato il caso amministrativo al settore statale, integrati organi/CFA/titoli e calcolo risolto.",
+      "files": [
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+        "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md"
+      ],
+      "evidence": "DPR132 artt.4/6/7 e DPR212 artt.3/6/8 consolidati; calcolo8×25=200. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md": "b8e4937d5866478913f0e0fe1232abfd7e8581a51bbf043eacbc0415e431f182",
+        "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md": "a1b4b88b305db38665f3b5bd6f0d06766bd78302cba758d6e7d1f1cc7db15ada"
+      },
+      "previousEvidence": "DPR132 artt.4/6/7 e DPR212 artt.3/6/8 consolidati; calcolo8×25=200.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-14": {
+      "change": "Rimossi Bozza agente, escape letterali e apertura duplicata.",
+      "files": [
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+        "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md"
+      ],
+      "evidence": "Controllo del testo: una sola apertura editoriale. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md": "b8e4937d5866478913f0e0fe1232abfd7e8581a51bbf043eacbc0415e431f182",
+        "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md": "a1b4b88b305db38665f3b5bd6f0d06766bd78302cba758d6e7d1f1cc7db15ada"
+      },
+      "previousEvidence": "Controllo del testo: una sola apertura editoriale.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-15": {
+      "change": "Corretta la congiunzione del quiz2, mantenuto il predicato plurale.",
+      "files": [
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+      ],
+      "evidence": "Rilettura sintattica di domanda, opzioni e commento. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md": "19096bac3632e73f97ccd8b4158833d36aea260ed6c44e971af0fc3620676594"
+      },
+      "previousEvidence": "Rilettura sintattica di domanda, opzioni e commento.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-16": {
+      "change": "Riformulato quiz3 nel regime dei costi reali: budget e variazioni consentite, ulteriori condizioni del grant; commentati tutti i distrattori e distinti i costi semplificati.",
+      "files": [
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+      ],
+      "evidence": "Confronto con fonte grant consolidata: modifiche secondo accordo; chiaveC coerente con commento. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md": "19096bac3632e73f97ccd8b4158833d36aea260ed6c44e971af0fc3620676594"
+      },
+      "previousEvidence": "Confronto con fonte grant consolidata: modifiche secondo accordo; chiaveC coerente con commento.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-12": {
+      "change": "Spiegati Learning Agreement, Transcript of Records, riconoscimento con caso 18/12 crediti; tirocinio curriculare con ruoli, documenti, attivazione e caso UniBo identificato.",
+      "files": [
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+        "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md"
+      ],
+      "evidence": "Linee guida ufficiali KA131 e procedura UniBo lette; distinzione accordo/risultati e convenzione/progetto applicata al caso. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md": "6a665ac49b86d9fe6f232ceffc9d99fd6a06f35f01cf98b78585a6171a19a199",
+        "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md": "a1b4b88b305db38665f3b5bd6f0d06766bd78302cba758d6e7d1f1cc7db15ada"
+      },
+      "previousEvidence": "Linee guida ufficiali KA131 e procedura UniBo lette; distinzione accordo/risultati e convenzione/progetto applicata al caso.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-34": {
+      "change": "Separati i titoli bibliografici dal testo delle voci nei capitoli 09 e 10.",
+      "files": [
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md"
+      ],
+      "evidence": "Heading H2 ora autonomi; liste bibliografiche nel corpo. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md": "0628aeaac1c7580b124fb99f07ed23677ec262820854e9494f992d777f48d270",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md": "6a665ac49b86d9fe6f232ceffc9d99fd6a06f35f01cf98b78585a6171a19a199"
+      },
+      "previousEvidence": "Heading H2 ora autonomi; liste bibliografiche nel corpo. Nuovo PDF da controllare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-10": {
+      "change": "CNR 2025: documenti di bilancio, assestamenti e caso quadrato; grant con forme AGA e calcoli. Completa le integrazioni IR02/06–08 già applicate.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md": "2de2d7cdb8378fd1dccb6577bd7e1a28cca2c4d570fabb7eb3cfe240d03de169",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md": "b071985b0e32a19a802c8fbb14c738061d3f5a213f240a401df88fa107d399a0",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md": "2f80ee90f100d5189ad0ed07939f6b6058ee297562d32bafcb9c257266fbd44c",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md": "f4fc9a2733c2648848eba15d28a3ef874d9396add72a754db7920054f21253a9",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md": "f6ab1bb95ab44d20d704f5ff08f77c2e331f0323198a39a0ee99537ea13257a8"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-17": {
+      "change": "Sostituito il quadro finanziario UE 2018/1046 con 2024/2509 e relativa decorrenza, anche nella fonte.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md": "550e483ea9d58720f3d4fc1b0fe2dfc7503402f7edb4b811a4884dfb755c8567",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-18": {
+      "change": "Distinti ambiti 213/218; principi EPR, statuti CNR/ISTAT, livelli e declaratorie funzionali.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md": "caf233af8900f6bb6d432559ab0ac9950eff4f3d780c9c71602f62dcf483863e",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md": "475c95e3d2c4aa200bdf89c80f4b22e7b478b84677f523c24a998b2f4e02a348",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-19": {
+      "change": "Eliminati duplicati; conflitto e astensione, deroga EPR delimitata, missione con documenti e saldo, follow-up audit.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md": "f5764a3c176060d82f7c1c91ca84f63d34952c16f63b455491d94a45b838455a",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-20": {
+      "change": "Scelte progettuali ammesse se dichiarate; mini-proposta con dati, strumenti, calendario e rubrica.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md": "63b49e5c2f8450d00bd3229a702408b8e1d93690397f4699f2351bb92fc21b02",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-21": {
+      "change": "h-index con calcolo e limiti; piano tecnico con requisiti, accettazione e regressione.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md": "ec901b65bf52845e124f474987ab06998cc509c50ffba6c7af365f65c7d1d48c",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md": "35426fbb60598f3ecc649b6ac6536c96d1a6b3c2a00468d56d49731c1e43e4b4",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-22": {
+      "change": "Art. 65 CPI vigente, comunicazione e deposito, terzi, brevetto e licenza/cessione spiegati con caso.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md": "a31938d35216d5a076d41d66dd0954ff3adf0f0c3b7608160c8fdfbd83ec4e43",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-23": {
+      "change": "DNSH qualificato come obbligo RRF; adempimenti specifici distinti. Completa la quota IR01 già applicata.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md": "b071985b0e32a19a802c8fbb14c738061d3f5a213f240a401df88fa107d399a0",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3",
+        "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md": "447028cf8790712e71460a81fbba41021fd92d7ad5de4219023409adbc2cc449"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-24": {
+      "change": "DMP compilato e quattro elaborati con dati, soluzioni, tempi e griglia. Completa la quota IR02/12 già applicata.",
+      "files": [
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+      ],
+      "evidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md": "cb4825f7f7669c80db1b5e784cc66c68cdb872e00c51f5909907e3e4f8422eb3",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md": "5fbaf2ca60876f3c03ef4682912fdf9ca6a991ca9e449bbe08e97f471fd2b4cd",
+        "wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md": "b125e95b4a2b8305e4eea6935f6c6ed2b9491cd76447ce0b4950ab60ca404080",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md": "d2e8a6ace523a5b73df7462b33493ccd2f6c24553470cbed96df1a0962f44ae3",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md": "19096bac3632e73f97ccd8b4158833d36aea260ed6c44e971af0fc3620676594"
+      },
+      "previousEvidence": "Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-11": {
+      "change": "ISAD/ISAAR, REICAT/ISBD/UNIMARC/SBNMARC, authority/soggetto/ILL/DD, master/derivati e controllo di integrità con casi. Completa IR02/09 già applicato.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md": "7101ca94b6b65bdccf9fa5fdcf05e5765961081b866daa3edff108fbca802d8a",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md": "6628993881eb14ad265759b14d7f12928564e3d7d4426e494a2c81b2ff1d58ce",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md": "4f10c6d90643ec58392c86fae047dee07a66bde8678093c1748ddb33d39ac500",
+        "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md": "0628aeaac1c7580b124fb99f07ed23677ec262820854e9494f992d777f48d270",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-25": {
+      "change": "Assetto a quattro dipartimenti e DG, funzioni territoriali SABAP/archivi/biblioteche e istituti autonomi.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md": "9f7dc6ea7d4282162b68abfeb4265a6e036e6f66400739a49a298c055252cfc4",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-26": {
+      "change": "Categorie e tutela interinale, verifica/dichiarazione, alienabilità, termini e uscita; art. 21 e soglie art. 65 aggiornati al 2026.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md": "305719bd1f1d0c9aecfa110e51c62a671566e9ee3268fca23930493840d7130d",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md": "6a9162e29b7edadfca61010947bed2073e4f5de46e5d2b75055b2afa35c7fca9",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md": "49f4caaaa82a8d1e58a24f620776cd1a392f4f12c22fb9b45af5c70c6cc990aa",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-27": {
+      "change": "Usi incompatibili qualificati come vietati, distinti dagli interventi autorizzabili.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md": "305719bd1f1d0c9aecfa110e51c62a671566e9ee3268fca23930493840d7130d",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md": "6a9162e29b7edadfca61010947bed2073e4f5de46e5d2b75055b2afa35c7fca9",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-28": {
+      "change": "Dati catalografici riconosciuti come metadati descrittivi, con altre categorie e caso di collaudo.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md": "7101ca94b6b65bdccf9fa5fdcf05e5765961081b866daa3edff108fbca802d8a",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-29": {
+      "change": "ISAD/ISAAR e scheda multilivello; diplomatica introduttiva, scarto, versamento e consultabilità con caso.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md": "6628993881eb14ad265759b14d7f12928564e3d7d4426e494a2c81b2ff1d58ce",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-30": {
+      "change": "US e sequenza stratigrafica risolta, ritrovamento fortuito, scheda Botticelli e art. 29 applicato.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md": "052e3a1d6e6761aad2893bb9437452f6ea1ee79968b9e252bbd39ab1c3596e0c",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md": "091eee6f0d3daf1a76c7990e5007b5dfe8d7c17971c39ff6ad2e3d0a6d416745",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md": "e303c6f46aed01ca24bbb5183806b1c2d5eb4eb30d93d7380a7d0950b61d4983",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-31": {
+      "change": "Eliminata esclusione assoluta della progettazione dalle prove; distinti profilo amministrativo e architetto.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md": "3778f4b584b9ee25f80b30c2cd5c2f1f49bf3936bd0bbd0d8d2a7e211b2faf87",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-32": {
+      "change": "Obblighi del lavoratore, incarichi degli addetti, piano locale e caso di pericolo con soluzione.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md": "b598b572d3cf6803d2890c8652919ed9042107cff57f0d6918a51938d27cf0ae",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-33": {
+      "change": "Pulizia accenti e formule interne, gerarchie e riferimenti; conteggi effettivi. IR01 preservato legacy, senza falsa promozione al formato 2.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+        "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md": "6f65e745b5da8f3e46fad63c203b8eab57a4bf563d7c1612a493b31e2c4bad15",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md": "9f7dc6ea7d4282162b68abfeb4265a6e036e6f66400739a49a298c055252cfc4",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md": "305719bd1f1d0c9aecfa110e51c62a671566e9ee3268fca23930493840d7130d",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md": "6a9162e29b7edadfca61010947bed2073e4f5de46e5d2b75055b2afa35c7fca9",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md": "49f4caaaa82a8d1e58a24f620776cd1a392f4f12c22fb9b45af5c70c6cc990aa",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md": "7101ca94b6b65bdccf9fa5fdcf05e5765961081b866daa3edff108fbca802d8a",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md": "6628993881eb14ad265759b14d7f12928564e3d7d4426e494a2c81b2ff1d58ce",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md": "4f10c6d90643ec58392c86fae047dee07a66bde8678093c1748ddb33d39ac500",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md": "052e3a1d6e6761aad2893bb9437452f6ea1ee79968b9e252bbd39ab1c3596e0c",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md": "091eee6f0d3daf1a76c7990e5007b5dfe8d7c17971c39ff6ad2e3d0a6d416745",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md": "e303c6f46aed01ca24bbb5183806b1c2d5eb4eb30d93d7380a7d0950b61d4983",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md": "3778f4b584b9ee25f80b30c2cd5c2f1f49bf3936bd0bbd0d8d2a7e211b2faf87",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md": "b598b572d3cf6803d2890c8652919ed9042107cff57f0d6918a51938d27cf0ae",
+        "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md": "eda6bdbd27d4089b88c18d058ea8fb081a728203569743c3fa50869a94dbf871",
+        "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md": "1addb591bed4d3b94532382b312584704e182a9bcfe6f0e025a44131b49d9e0d",
+        "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md": "e64284a7dce72650b96815994ae57a431b8280a5d026b2f765e8976ab7c9e821",
+        "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md": "ab68eefc368b81ff54ea198f1ff03608f6714ccda4547a8e1da2c0fa70aac5e8",
+        "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md": "f1abe4357c2da4914527b7013961e32911fd94839bd28652dbb7258fc3a1ad87",
+        "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md": "df2d5754dc6a30cdd66921adc793b9fa8a20dbc7e47db734ca0475783448788b",
+        "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md": "b625abac49bc04c9d2d8d79a100bd33957c394deb564f2f69b4ecb32e9a89723",
+        "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md": "447028cf8790712e71460a81fbba41021fd92d7ad5de4219023409adbc2cc449",
+        "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md": "3576a7d850bfa4d1eb58585824eb6fbeffd2e04c641333a43506f9ac2f817ff2",
+        "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md": "1057481a1aa0bffbf76391086aef88ab538549f11fd90dee82ea54625c99bca5",
+        "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md": "3fd89201602e1a572d5e75e361de0597ef0675824cb1ce83064dbeedfe556ec2",
+        "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md": "3f96e2f88fd4a735445e6f759363a1a8c206a056bb9bdc3386ef0ef9bff9420d",
+        "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md": "1a7c65219a48a2612dd4d53efdb151fe56424d393c48aef5fc86ae9759017ade",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-35": {
+      "change": "Inventario 50 capitoli e apparati effettivi; eliminate appendici inesistenti promesse, rinvii circoscritti a heading verificati, stati allineati alla fase reale.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+        "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/index.md",
+        "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/00-scheda-pipeline.md",
+        "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/01-indice-analitico.md",
+        "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/04-inventario-apparati-correzioni-2026-10-03.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md": "6f65e745b5da8f3e46fad63c203b8eab57a4bf563d7c1612a493b31e2c4bad15",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md": "9f7dc6ea7d4282162b68abfeb4265a6e036e6f66400739a49a298c055252cfc4",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md": "305719bd1f1d0c9aecfa110e51c62a671566e9ee3268fca23930493840d7130d",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md": "6a9162e29b7edadfca61010947bed2073e4f5de46e5d2b75055b2afa35c7fca9",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md": "49f4caaaa82a8d1e58a24f620776cd1a392f4f12c22fb9b45af5c70c6cc990aa",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md": "7101ca94b6b65bdccf9fa5fdcf05e5765961081b866daa3edff108fbca802d8a",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md": "6628993881eb14ad265759b14d7f12928564e3d7d4426e494a2c81b2ff1d58ce",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md": "4f10c6d90643ec58392c86fae047dee07a66bde8678093c1748ddb33d39ac500",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md": "052e3a1d6e6761aad2893bb9437452f6ea1ee79968b9e252bbd39ab1c3596e0c",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md": "091eee6f0d3daf1a76c7990e5007b5dfe8d7c17971c39ff6ad2e3d0a6d416745",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md": "e303c6f46aed01ca24bbb5183806b1c2d5eb4eb30d93d7380a7d0950b61d4983",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md": "3778f4b584b9ee25f80b30c2cd5c2f1f49bf3936bd0bbd0d8d2a7e211b2faf87",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md": "b598b572d3cf6803d2890c8652919ed9042107cff57f0d6918a51938d27cf0ae",
+        "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/index.md": "3b5e01f8d258fd1c295270bb08a1552b3d60fb8b6fc8a8b3311ee3275a66f033",
+        "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/00-scheda-pipeline.md": "08e1cc2bb7d79f68e1dfa8dd6a28d765b5400248b482076e8c01e18305831297",
+        "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/01-indice-analitico.md": "11d8e40fe58381585f43de64b99641a405effd0f4d785b03e3870a18dcb7b06e",
+        "wiki/books/volumi/vol-06-scuola-universita-ricerca-cultura/planning/04-inventario-apparati-correzioni-2026-10-03.md": "9dd95a367211967dcc71f78cbe4a3429a89de60f9c8c5d2de78099e2a68c6766",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    },
+    "V06-36": {
+      "change": "78 quiz IR04 e 72 IR03 con quesiti disciplinari, casi controllabili, chiavi e commenti coerenti.",
+      "files": [
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md"
+      ],
+      "evidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Audit specialistici conclusi; prova di produzione 617 pagine verificata nel perimetro dichiarato in PDF-VOL-06.md. Hash dei file riconciliati.",
+      "status": "verificato",
+      "sha256": {
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md": "6f65e745b5da8f3e46fad63c203b8eab57a4bf563d7c1612a493b31e2c4bad15",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md": "9f7dc6ea7d4282162b68abfeb4265a6e036e6f66400739a49a298c055252cfc4",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md": "305719bd1f1d0c9aecfa110e51c62a671566e9ee3268fca23930493840d7130d",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md": "6a9162e29b7edadfca61010947bed2073e4f5de46e5d2b75055b2afa35c7fca9",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md": "49f4caaaa82a8d1e58a24f620776cd1a392f4f12c22fb9b45af5c70c6cc990aa",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md": "7101ca94b6b65bdccf9fa5fdcf05e5765961081b866daa3edff108fbca802d8a",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md": "6628993881eb14ad265759b14d7f12928564e3d7d4426e494a2c81b2ff1d58ce",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md": "4f10c6d90643ec58392c86fae047dee07a66bde8678093c1748ddb33d39ac500",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md": "052e3a1d6e6761aad2893bb9437452f6ea1ee79968b9e252bbd39ab1c3596e0c",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md": "091eee6f0d3daf1a76c7990e5007b5dfe8d7c17971c39ff6ad2e3d0a6d416745",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md": "e303c6f46aed01ca24bbb5183806b1c2d5eb4eb30d93d7380a7d0950b61d4983",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md": "3778f4b584b9ee25f80b30c2cd5c2f1f49bf3936bd0bbd0d8d2a7e211b2faf87",
+        "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md": "b598b572d3cf6803d2890c8652919ed9042107cff57f0d6918a51938d27cf0ae",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md": "550e483ea9d58720f3d4fc1b0fe2dfc7503402f7edb4b811a4884dfb755c8567",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md": "caf233af8900f6bb6d432559ab0ac9950eff4f3d780c9c71602f62dcf483863e",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md": "475c95e3d2c4aa200bdf89c80f4b22e7b478b84677f523c24a998b2f4e02a348",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md": "2de2d7cdb8378fd1dccb6577bd7e1a28cca2c4d570fabb7eb3cfe240d03de169",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md": "f5764a3c176060d82f7c1c91ca84f63d34952c16f63b455491d94a45b838455a",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md": "63b49e5c2f8450d00bd3229a702408b8e1d93690397f4699f2351bb92fc21b02",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md": "ec901b65bf52845e124f474987ab06998cc509c50ffba6c7af365f65c7d1d48c",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md": "35426fbb60598f3ecc649b6ac6536c96d1a6b3c2a00468d56d49731c1e43e4b4",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md": "a31938d35216d5a076d41d66dd0954ff3adf0f0c3b7608160c8fdfbd83ec4e43",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md": "cb4825f7f7669c80db1b5e784cc66c68cdb872e00c51f5909907e3e4f8422eb3",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md": "b071985b0e32a19a802c8fbb14c738061d3f5a213f240a401df88fa107d399a0",
+        "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md": "5fbaf2ca60876f3c03ef4682912fdf9ca6a991ca9e449bbe08e97f471fd2b4cd",
+        "wiki/sources/fonti-ufficiali-m-ir04-cultura-mic-2026-07-24.md": "30dde70aecce0030d1d9e80f51c21b028053eeadec0c82c7c6390d446bace6d5",
+        "wiki/reviews/pipeline/VOL-06/15-moduli-m-ir04-cultura-beni-culturali.md": "dded473f6b58672524cd20c461c8ed045e8ba4ad4a520548d3550e0976b72e2a"
+      },
+      "previousEvidence": "Fonti puntuali e limiti dichiarati; chiavi, termini, casi e rinvii riesaminati. Gate 15 passato. Nuovo PDF e controlli di volume ancora necessari.",
+      "verificationScope": "Riesame testuale e specialistico dei delta; panoramica PDF completa e ingrandimenti mirati. Non certificazione normativa generale."
+    }
+  },
+  "limitations": [
+    "Promesse digitali e dati editoriali comuni non verificati; step 21 aperto.",
+    "Nessuna prova fisica, anteprima esterna o signoff 24.",
+    "Controlli normativi selettivi come documentati negli audit specialistici."
+  ],
+  "productionReport": "wiki\\reviews\\correzioni-collana-2026-10-02\\PDF-VOL-06.md"
+}

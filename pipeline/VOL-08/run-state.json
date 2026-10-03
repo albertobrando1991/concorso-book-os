@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/00-scheda-pipeline.md",
   "specHash": "sha256:af67ff81718eae7e5e2d8b29cdd926e24769a54de17ffffc130f7dd3cbd210d4",
   "createdAt": "2026-07-28T19:54:29.381Z",
-  "updatedAt": "2026-08-12T16:39:53.027Z",
+  "updatedAt": "2026-10-03T11:36:39.197Z",
   "steps": [
     {
       "key": "08:moduli/m-tr01-ict-trasformazione-digitale/chapters/01-lavorare-ict-pa-ruoli-enti-prove.md",
@@ -1854,17 +1854,19 @@
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
-      "owner": "aless",
+      "evidence": [
+        "reopen: Applicazione autorizzata dei 32 rilievi dell'audit integrale del 2 ottobre 2026; fonti, teoria, esercizi e apparati da correggere prima del nuovo freeze."
+      ],
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T09:26:52.077Z",
+      "startedAt": "2026-10-02T23:25:25.299Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-12T09:27:02.448Z"
+      "finishedAt": "2026-10-02T23:44:01.391Z"
     },
     {
       "key": "15:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1873,18 +1875,20 @@
       "scope": "module",
       "target": "moduli/m-tr01-ict-trasformazione-digitale",
       "status": "done",
-      "attempts": 3,
-      "evidence": [],
-      "owner": "aless",
+      "attempts": 1,
+      "evidence": [
+        "reopen: Riconciliazione dell’attestazione applicativa N-TR01-13-07 dopo ricollocazione semantica del caso nel nucleo 06; nessun cambio al testo congelato."
+      ],
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T12:31:44.718Z",
+      "startedAt": "2026-10-02T23:45:33.738Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-12T12:33:00.734Z"
+      "finishedAt": "2026-10-02T23:45:34.241Z"
     },
     {
       "key": "16:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1895,10 +1899,10 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "aless",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T12:33:17.541Z",
+      "startedAt": "2026-10-02T23:45:34.708Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1910,14 +1914,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Text freeze verificato manualmente: 13 capitoli, review_required 0, matrice e indice 82/82/82, audit Format 2 verde, 39 file con SHA-256 verificati sul commit b0b2a68, step 15 chiuso senza blocker o warning."
+            "message": "Chiusura manuale di info: Controllo manuale text-freeze ripetuto: 13 capitoli e 82 nuclei, incluso mapping N-TR01-13-07 riconciliato con la prova pratica effettiva. Audit Format 2 verde; manifest hash aggiornato. Figure e PDF restano separati."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-12T12:43:34.485Z"
+      "finishedAt": "2026-10-02T23:45:41.965Z"
     },
     {
       "key": "18:moduli/m-tr01-ict-trasformazione-digitale",
@@ -1928,10 +1932,10 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "aless",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T12:45:09.338Z",
+      "startedAt": "2026-10-03T11:32:04.284Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1942,7 +1946,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-12T12:51:08.986Z"
+      "finishedAt": "2026-10-03T11:33:59.481Z"
     },
     {
       "key": "00:VOL-08",
@@ -2078,10 +2082,10 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "aless",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T12:52:57.094Z",
+      "startedAt": "2026-10-03T11:34:16.447Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2092,7 +2096,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-12T12:53:52.563Z"
+      "finishedAt": "2026-10-03T11:35:00.875Z"
     },
     {
       "key": "19:VOL-08",
@@ -2103,10 +2107,10 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "aless",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T12:54:56.150Z",
+      "startedAt": "2026-10-03T11:35:01.850Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2117,7 +2121,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-12T12:56:33.781Z"
+      "finishedAt": "2026-10-03T11:35:47.442Z"
     },
     {
       "key": "20:VOL-08",
@@ -2128,10 +2132,10 @@
       "status": "done",
       "attempts": 1,
       "evidence": [],
-      "owner": "aless",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T12:58:32.473Z",
+      "startedAt": "2026-10-03T11:35:48.297Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2143,14 +2147,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Audit completo Book Studio: registro 231/231 pagine, numerazione progressiva, 12/12 tavole-contatto ispezionate, zero overflow, collisioni, titoli orfani, asset mancanti o blocker. Corretto il paginator con test TDD. Tre euristiche medie ricontrollate e chiuse: indice analitico su due pagine necessario per 82 nuclei, vuoto fisiologico a pagina 49, lista riferimenti semanticamente completa a pagina 157."
+            "message": "Chiusura manuale di info: Verifica manuale del PDF244pagine: tutte16tavole panoramiche e8zoom registrati; geometria per ogni pagina, zerooverflow;95destinazioni indice corrette. Copertura e limiti nel report20, nessun signoff21/24."
           }
         ],
         "notImplemented": [
           "page-fill"
         ]
       },
-      "finishedAt": "2026-08-12T13:29:35.124Z"
+      "finishedAt": "2026-10-03T11:36:38.308Z"
     },
     {
       "key": "21:VOL-08",
@@ -2158,19 +2162,13 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-08",
-      "status": "done",
+      "status": "in-progress",
       "attempts": 1,
       "evidence": [],
-      "owner": "aless",
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-12T13:41:12.780Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-12T13:44:02.181Z"
+      "startedAt": "2026-10-03T11:36:39.197Z"
     },
     {
       "key": "22:VOL-08",
@@ -2178,32 +2176,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-08",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "aless",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-12T13:46:02.256Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-08"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Preflight manuale completato: audit 82/82, 95 test verdi, typecheck e build verdi, PDF 231 pagine esportato; checklist in wiki/reviews/pipeline/VOL-08/22-vol-08.md. KDP Previewer non disponibile e dichiarato N/D."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-12T16:30:22.830Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-08",
@@ -2211,32 +2186,11 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-08",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "aless",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-12T16:32:30.683Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-08"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Pacchetto candidato verificato: 9 file, manifest SHA-256 8/8, staging selettivo senza helper estranei, diff cached check verde, fetch remoto ispezionato senza merge distruttivo, audit 82/82, 95 test, typecheck e build verdi; sign-off step 24 lasciato pendente."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-12T16:36:14.333Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": [
+        "reopen: Invalidazione della conferma storica: nuova revisione del testo e nuova impaginazione richiedono consegna e conferma finali sul pacchetto corrente."
+      ]
     },
     {
       "key": "24:VOL-08",
@@ -2244,32 +2198,11 @@
       "phase": "G",
       "scope": "volume",
       "target": "VOL-08",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "aless",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-12T16:37:05.274Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"human-signoff\" dello step 24 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-08"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di aless: Confermato dall'utente il 12 agosto 2026: pacchetto VOL-08-candidate-2026.08.12.1 valido e autorizzato alla pubblicazione controllata. Nessun upload o pubblicazione esterna eseguiti."
-          }
-        ],
-        "notImplemented": [
-          "human-signoff"
-        ]
-      },
-      "finishedAt": "2026-08-12T16:39:53.027Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": [
+        "reopen: Invalidazione della conferma storica: nuova revisione del testo e nuova impaginazione richiedono consegna e conferma finali sul pacchetto corrente."
+      ]
     }
   ]
 }

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "agcm",
+    "article": 10,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art10!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcm-art10.html",
+    "sha256": "4017b4a55a00b7194ccefcfda740a862c595a47d320c64d65bdd70664e60cffe",
+    "characters": 7230,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "agcm",
+    "article": 11,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art11!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcm-art11.html",
+    "sha256": "729dce3cc2c2f5af1f17b7b8ca5a4deacbc90b0991882957d24d5b536b837810",
+    "characters": 1415,
+    "readComplete": false,
+    "readScope": "acquisito; non assunto come prova di lettura integrale"
+  },
+  {
+    "name": "agcm",
+    "article": 14,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art14!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcm-art14.html",
+    "sha256": "02a2935788aa0f9768f2ae419f08fd3e8800c4c4fe20c80c1fbe260eb05d40c6",
+    "characters": 9180,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "agcm",
+    "article": "14bis",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art14bis!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcm-art14bis.html",
+    "sha256": "f2555944358677de812cae0ed00807b9b4975a5c056b60bf69e21b8baf3f2441",
+    "characters": 915,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "agcm",
+    "article": "14ter",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art14ter!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcm-art14ter.html",
+    "sha256": "a8b481da4cfc2fb8ebc25fd23919f3d1ea12e107d8817c95a0a33bad5f674013",
+    "characters": 1351,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "agcm",
+    "article": "14quater",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art14quater!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcm-art14quater.html",
+    "sha256": "c522248cf971e25c3ea9d8acbeeb92108d9601223273d8cd130c5147bf89e897",
+    "characters": 2518,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "agcm",
+    "article": 15,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art15!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcm-art15.html",
+    "sha256": "8342f5ca78676df412d3b7468d63b69dece3fb9ca5c8a378727c1c1554bc09e7",
+    "characters": 4723,
+    "readComplete": false,
+    "readScope": "acquisito; non assunto come prova di lettura integrale"
+  },
+  {
+    "name": "agcm",
+    "article": 16,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287~art16!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcm-art16.html",
+    "sha256": "d308c53efaf937d30bd5c2a8b4c396aee755b63f1081de34ecb79fec70efd738",
+    "characters": 4740,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "arera",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481~art2!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/arera-art2.html",
+    "sha256": "e4534fdedce697f283cd629035c8857e8488b0780c59403ba6822201967c50e0",
+    "characters": 25027,
+    "readComplete": false,
+    "readScope": "Art. 2, commi 1–32; non articolo intero"
+  },
+  {
+    "name": "agcom",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249~art1!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/agcom-art1.html",
+    "sha256": "74fd756bb55a5e5a63a5421e1adc4cb1f90b5abbaa7a71a6ef1f95544b25ce78",
+    "characters": 39752,
+    "readComplete": false,
+    "readScope": "Art. 1, commi 1–5 e 9–12; comma 13 letto solo in parte"
+  },
+  {
+    "name": "collegi",
+    "article": 23,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art23!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/collegi-art23.html",
+    "sha256": "ac10a45e854bbf211566f0b97357083485c4fe505a756981f7ce4b7b99f4391b",
+    "characters": 12498,
+    "readComplete": false,
+    "readScope": "Art. 23, commi 1–2-ter"
+  },
+  {
+    "name": "consob",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-04-08;95~art1!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consob-art1.html",
+    "sha256": "054ffbe0ef4c1e011633cb062d1b0a6f679ec939e5fdef8833bfdaa795b30fb7",
+    "characters": 7186,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "risparmio",
+    "article": 19,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262~art19!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/risparmio-art19.html",
+    "sha256": "94df92ebec9af65b766e691fb29ec72474a6753033a84918f416ed5a5145dd92",
+    "characters": 4058,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "ivass",
+    "article": 13,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art13!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/ivass-art13.html",
+    "sha256": "4168690e15136b420c02c948b792f6366c45bfecec7aca424def1611dca25726",
+    "characters": 12427,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "privacy",
+    "article": 153,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art153!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/privacy-art153.html",
+    "sha256": "2381056e9e903450f41609b6d400fc7a02e63339368bec380934a3779bc0a907",
+    "characters": 3143,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "privacy",
+    "article": 155,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art155!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/privacy-art155.html",
+    "sha256": "c89c469cf31627f20259b0dcc94da79bf6ba6ef4beaa3114ff153d45584c09e0",
+    "characters": 634,
+    "readComplete": false,
+    "readScope": "acquisito; non assunto come prova di lettura integrale"
+  },
+  {
+    "name": "privacy",
+    "article": 156,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art156!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/privacy-art156.html",
+    "sha256": "6ee9629647dccb1b468bd26c9d97e4207599913430f52ca7b839a392f351c40c",
+    "characters": 5091,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "privacy",
+    "article": 157,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art157!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/privacy-art157.html",
+    "sha256": "dc13601b566b7e3c49515bdb0abc633e9ef2a44729188de819adb13cc46e6190",
+    "characters": 354,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "privacy",
+    "article": 158,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art158!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/privacy-art158.html",
+    "sha256": "e9757cf9c143b5e67b1bc9bdb408d37956c1326b0acd3384052bba656082bf3b",
+    "characters": 1619,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "privacy",
+    "article": 166,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art166!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/privacy-art166.html",
+    "sha256": "585a8b81a11b9cba00143af1d163fb493abd20fd9d7eec26aab4bd9934e090d3",
+    "characters": 5819,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "anac",
+    "article": 19,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;90~art19!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/anac-art19.html",
+    "sha256": "7285de389096f6b53271527ec66a0fe5156542d9fba8507c1aa044096489b9ee",
+    "characters": 8911,
+    "readComplete": false,
+    "readScope": "Art. 19, commi 1–4"
+  },
+  {
+    "name": "civit",
+    "article": 13,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150~art13!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/civit-art13.html",
+    "sha256": "a90d14cd3440a783cf55a957dc84c22d7f0d2377672b0032a9e790dc6c16c6da",
+    "characters": 7002,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "tuf",
+    "article": 5,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art5!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tuf-art5.html",
+    "sha256": "01a1f9a51d5089206e81f08a778eb2155d23394c313c45fb94c51986ede7a37e",
+    "characters": 2052,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "tuf",
+    "article": 21,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art21!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tuf-art21.html",
+    "sha256": "75fdd8f04ef041d0d4386db6b171e6b7c24de5970293d608cae57386567d5c03",
+    "characters": 5032,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "tuf",
+    "article": 94,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art94!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tuf-art94.html",
+    "sha256": "4613bbeaaa06d8c18bb625b3422e9cce7d8d1a98ead2db95db111e6b519471f7",
+    "characters": 3239,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "tuf",
+    "article": 106,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art106!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tuf-art106.html",
+    "sha256": "c8f75da5ac67f2c6c36836042015efcccbff732e5f93bd872f4b23ac44992088",
+    "characters": 7304,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "tuf",
+    "article": "187septies",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art187septies!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tuf-art187septies.html",
+    "sha256": "c800a5abb18c98f52ff3f45d86346862c2f63e840fef84cadf9b16230657f317",
+    "characters": 297,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "tuf",
+    "article": 195,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58~art195!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tuf-art195.html",
+    "sha256": "5ad2c7fc08b40198c660da63bc6ac5e7e824be40a34f2b7642b0908e0a89a3d7",
+    "characters": 6199,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "tub",
+    "article": 5,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385~art5!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tub-art5.html",
+    "sha256": "4289dc0bfe8cd16d850117bb6a9ff5b5cdaf2b7141e15135a11e78e27e0c6743",
+    "characters": 606,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "tub",
+    "article": 53,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385~art53!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tub-art53.html",
+    "sha256": "7f706ad8a511b20e811a9075b1f371596518dfe4238a566a6a3d1776702f8310",
+    "characters": 4415,
+    "readComplete": false,
+    "readScope": "acquisito; non assunto come prova di lettura integrale"
+  },
+  {
+    "name": "tub",
+    "article": 67,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385~art67!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tub-art67.html",
+    "sha256": "c012ffe63b02bf58a6a46e4f505d21f0a43185dc92fdc0d5cb9cebe4111cf771",
+    "characters": 3198,
+    "readComplete": false,
+    "readScope": "acquisito; non assunto come prova di lettura integrale"
+  },
+  {
+    "name": "tub",
+    "article": 80,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385~art80!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tub-art80.html",
+    "sha256": "72c32afbd1a170e1129239a48d50967635a6c11b319fc7ab6e3a2931e438448e",
+    "characters": 1727,
+    "readComplete": false,
+    "readScope": "acquisito; non assunto come prova di lettura integrale"
+  },
+  {
+    "name": "tub",
+    "article": 145,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385~art145!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/tub-art145.html",
+    "sha256": "e78a4df2b1f6b63c5afc09b4ce12a6d5500db098b393d4b787cfc3b67a26e037",
+    "characters": 4857,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "processo",
+    "article": 10,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150~art10!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/processo-art10.html",
+    "sha256": "bb4ece5ff8fe250bdbff79c3dac200641a146f18192dbd03f133683409dfe219",
+    "characters": 3022,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": 20,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art20!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art20.html",
+    "sha256": "a6cb7bce85a0a9efa2da76a66d71a58344c7edba4cbb54b32866bcba97f89a91",
+    "characters": 1397,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": 21,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art21!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art21.html",
+    "sha256": "e4eaf27354d8a642e7be1ddcd8d276ee75ee9dd374813ad7b821f16b3dfec126",
+    "characters": 4877,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": 22,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art22!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art22.html",
+    "sha256": "e71c14597554c6c64b57fde5093fd8c3ad691df67fc584b0946b0e557c01bcdb",
+    "characters": 4763,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": 23,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art23!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art23.html",
+    "sha256": "5ac0c3d2d5eec531955f99b083124daeb7c489cd500c999648dde0cc32641d72",
+    "characters": 8685,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": 24,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art24!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art24.html",
+    "sha256": "2dfb93d12c4425494bab0a7cc375766788382ab2924c5720e3d60cf8e833bb21",
+    "characters": 516,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": 25,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art25!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art25.html",
+    "sha256": "8b3f22630a4751ca8dad665be268c1c195c2b7e490ce6b9e7004fb44331a6e34",
+    "characters": 944,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": 26,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art26!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art26.html",
+    "sha256": "b5f11935bf5ab1ffb0af92b216395e5df3c3b62c6a5819ae61cd5887728503d8",
+    "characters": 2384,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": 27,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art27!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art27.html",
+    "sha256": "38172c2961c9fafe3cdf74ec054130a03aff3005ecff09190303657db4ffac5e",
+    "characters": 11359,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "consumo",
+    "article": "37bis",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art37bis!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/consumo-art37bis.html",
+    "sha256": "7405e4040e573212a2fbcdf9f5ceeb5baf6c562b8dc704b40ab74e3b85314f3d",
+    "characters": 5733,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art1!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art1.html",
+    "sha256": "cc622f3d1df1790853a7b61fd8be0e9e5c405e72b5f87b5090271a13e76a34c5",
+    "characters": 2956,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art2!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art2.html",
+    "sha256": "f41f6d5fbb16d182e4f9c9c5c620e94aeeb4d64914bf7316313c65444c4dd039",
+    "characters": 6636,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art3!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art3.html",
+    "sha256": "30f48669671b3cbc452c671940c73d6f3bc2b25bcb61bc978f0ea6fbde165588",
+    "characters": 5265,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 4,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art4!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art4.html",
+    "sha256": "ead1ad2518aff5cf64c1fb57ac917ea91c75a8bb6d9d62aa3961de38c64ce6b6",
+    "characters": 2386,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 5,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art5!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art5.html",
+    "sha256": "296a84ed1659b0c952602e5bf89f4276d43ddb9c45d6dd4e3539993c00ce5687",
+    "characters": 1425,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 6,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art6!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art6.html",
+    "sha256": "3c7b459ae78a1bd0b4608c443cefae2e767cc30902db41b73099bcd97a316f9b",
+    "characters": 888,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 8,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art8!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art8.html",
+    "sha256": "79c109893952bf866437ac3d8f6a063ff81a47193dc852e1bea19dd387e56f3c",
+    "characters": 3045,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 12,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art12!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art12.html",
+    "sha256": "15d9fdfd6f1b15c10a3c2c74d44f447f05e2ffc5f9b21e76f657e2c80dc32fb6",
+    "characters": 3000,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 16,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art16!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art16.html",
+    "sha256": "5cf10f3772f19241d7929d1b221e01427efe614602730af54c0de1b54845207e",
+    "characters": 1671,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 17,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art17!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art17.html",
+    "sha256": "64b5385011b8d95198522b78067df7707dd2b65d4704bf98fd71a24a244a53df",
+    "characters": 2836,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "whistle",
+    "article": 19,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-10;24~art19!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/whistle-art19.html",
+    "sha256": "8c88769d7ae0c7c4798bc470ff287ab622f39c569985a8f301df6b20a08e253f",
+    "characters": 2160,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "contratti",
+    "article": 220,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art220!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/contratti-art220.html",
+    "sha256": "d4fe7b1a5179cae9a8ec18ca18a0b6db5f93d132491782b81d7ee72a4269ae3d",
+    "characters": 2125,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  },
+  {
+    "name": "contratti",
+    "article": 222,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art222!vig=",
+    "path": "wiki/raw/correzioni-vol05-2026-10-03/contratti-art222.html",
+    "sha256": "37b2a4ad2475152462c5dd2f1443194e29550e377a046e26284027a25b615d53",
+    "characters": 10931,
+    "readComplete": true,
+    "readScope": "articolo estratto integralmente; nessuna attestazione sull’intero atto"
+  }
+]

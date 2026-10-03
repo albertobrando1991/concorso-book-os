@@ -1,0 +1,8154 @@
+{
+  "pdfSha256": "7a6bb40473c21de9e0c648d87239d90a7864466908cdcfdf984493f00327a9f5",
+  "pages": 239,
+  "domPages": 239,
+  "domPdfPageCountMatch": true,
+  "trimPt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "mainChapters": 15,
+  "indexEntries": [
+    {
+      "number": "Cap. 1",
+      "title": "Le authority viste dal candidato",
+      "printed": 10,
+      "actual": 10,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "1.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 10,
+      "actual": 10,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "1.2",
+      "title": "Istituti e distinzioni",
+      "printed": 12,
+      "actual": 12,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "1.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 16,
+      "actual": 16,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "1.4",
+      "title": "Applicazione alla prova",
+      "printed": 19,
+      "actual": 19,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "1.5",
+      "title": "Consolidamento e verifica",
+      "printed": 22,
+      "actual": 22,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 2",
+      "title": "Indipendenza, governance, accountability e personale",
+      "printed": 24,
+      "actual": 24,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "2.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 24,
+      "actual": 24,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "2.2",
+      "title": "Istituti e distinzioni",
+      "printed": 26,
+      "actual": 26,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "2.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 32,
+      "actual": 32,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "2.4",
+      "title": "Applicazione alla prova",
+      "printed": 35,
+      "actual": 35,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "2.5",
+      "title": "Consolidamento e verifica",
+      "printed": 37,
+      "actual": 37,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 3",
+      "title": "Regolazione europea multilivello e reti delle autorità",
+      "printed": 40,
+      "actual": 40,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "3.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 40,
+      "actual": 40,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "3.2",
+      "title": "Istituti e distinzioni",
+      "printed": 43,
+      "actual": 43,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "3.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 45,
+      "actual": 45,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "3.4",
+      "title": "Applicazione alla prova",
+      "printed": 49,
+      "actual": 49,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "3.5",
+      "title": "Consolidamento e verifica",
+      "printed": 52,
+      "actual": 52,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 4",
+      "title": "Ciclo regolatorio, consultazione, AIR e VIR",
+      "printed": 54,
+      "actual": 54,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "4.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 54,
+      "actual": 54,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "4.2",
+      "title": "Istituti e distinzioni",
+      "printed": 57,
+      "actual": 57,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "4.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 59,
+      "actual": 59,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "4.4",
+      "title": "Applicazione alla prova",
+      "printed": 62,
+      "actual": 62,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "4.5",
+      "title": "Consolidamento e verifica",
+      "printed": 66,
+      "actual": 66,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 5",
+      "title": "Vigilanza, istruttoria, ispezioni, dati e prova",
+      "printed": 68,
+      "actual": 68,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "5.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 68,
+      "actual": 68,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "5.2",
+      "title": "Istituti e distinzioni",
+      "printed": 71,
+      "actual": 71,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "5.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 74,
+      "actual": 74,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "5.4",
+      "title": "Applicazione alla prova",
+      "printed": 77,
+      "actual": 77,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "5.5",
+      "title": "Consolidamento e verifica",
+      "printed": 80,
+      "actual": 80,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 6",
+      "title": "Sanzioni, impegni, rimedi e controllo giurisdizionale",
+      "printed": 82,
+      "actual": 82,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "6.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 82,
+      "actual": 82,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "6.2",
+      "title": "Istituti e distinzioni",
+      "printed": 84,
+      "actual": 84,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "6.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 88,
+      "actual": 88,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "6.4",
+      "title": "Applicazione alla prova",
+      "printed": 92,
+      "actual": 92,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "6.5",
+      "title": "Consolidamento e verifica",
+      "printed": 95,
+      "actual": 95,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 7",
+      "title": "Economia industriale, regolazione, econometria e contabilità regolatoria",
+      "printed": 97,
+      "actual": 97,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "7.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 97,
+      "actual": 97,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "7.2",
+      "title": "Istituti e distinzioni",
+      "printed": 100,
+      "actual": 100,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "7.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 104,
+      "actual": 104,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "7.4",
+      "title": "Applicazione alla prova",
+      "printed": 109,
+      "actual": 109,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "7.5",
+      "title": "Consolidamento e verifica",
+      "printed": 111,
+      "actual": 111,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 8",
+      "title": "AGCM: concorrenza, consumatore e pratiche scorrette",
+      "printed": 114,
+      "actual": 114,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 114,
+      "actual": 114,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.2",
+      "title": "Istituti e distinzioni",
+      "printed": 116,
+      "actual": 116,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 121,
+      "actual": 121,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.4",
+      "title": "Applicazione alla prova",
+      "printed": 126,
+      "actual": 126,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "8.5",
+      "title": "Consolidamento e verifica",
+      "printed": 127,
+      "actual": 127,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 9",
+      "title": "ARERA: energia, gas, acqua, rifiuti e tariffe",
+      "printed": 130,
+      "actual": 130,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 130,
+      "actual": 130,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.2",
+      "title": "Istituti e distinzioni",
+      "printed": 132,
+      "actual": 132,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 136,
+      "actual": 136,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.4",
+      "title": "Applicazione alla prova",
+      "printed": 140,
+      "actual": 140,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "9.5",
+      "title": "Consolidamento e verifica",
+      "printed": 143,
+      "actual": 143,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 10",
+      "title": "AGCOM: comunicazioni, media, utenti e piattaforme",
+      "printed": 145,
+      "actual": 145,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 145,
+      "actual": 145,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.2",
+      "title": "Istituti e distinzioni",
+      "printed": 148,
+      "actual": 148,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 153,
+      "actual": 153,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.4",
+      "title": "Applicazione alla prova",
+      "printed": 155,
+      "actual": 155,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "10.5",
+      "title": "Consolidamento e verifica",
+      "printed": 157,
+      "actual": 157,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 11",
+      "title": "CONSOB: mercati, intermediari e tutela dell'investitore",
+      "printed": 160,
+      "actual": 160,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 160,
+      "actual": 160,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.2",
+      "title": "Istituti e distinzioni",
+      "printed": 162,
+      "actual": 162,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 167,
+      "actual": 167,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.4",
+      "title": "Applicazione alla prova",
+      "printed": 170,
+      "actual": 170,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "11.5",
+      "title": "Consolidamento e verifica",
+      "printed": 172,
+      "actual": 172,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 12",
+      "title": "Banca d'Italia e IVASS: vigilanza prudenziale, bancaria e assicurativa",
+      "printed": 174,
+      "actual": 174,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 174,
+      "actual": 174,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.2",
+      "title": "Istituti e distinzioni",
+      "printed": 177,
+      "actual": 177,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 180,
+      "actual": 180,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.4",
+      "title": "Applicazione alla prova",
+      "printed": 184,
+      "actual": 184,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "12.5",
+      "title": "Consolidamento e verifica",
+      "printed": 189,
+      "actual": 189,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 13",
+      "title": "Garante privacy: poteri, procedimenti e cooperazione europea",
+      "printed": 191,
+      "actual": 191,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 191,
+      "actual": 191,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.2",
+      "title": "Istituti e distinzioni",
+      "printed": 194,
+      "actual": 194,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 197,
+      "actual": 197,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.4",
+      "title": "Applicazione alla prova",
+      "printed": 200,
+      "actual": 200,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "13.5",
+      "title": "Consolidamento e verifica",
+      "printed": 203,
+      "actual": 203,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 14",
+      "title": "ANAC: prevenzione, vigilanza e whistleblowing",
+      "printed": 205,
+      "actual": 205,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 205,
+      "actual": 205,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.2",
+      "title": "Istituti e distinzioni",
+      "printed": 208,
+      "actual": 208,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 212,
+      "actual": 212,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.4",
+      "title": "Applicazione alla prova",
+      "printed": 215,
+      "actual": 215,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "14.5",
+      "title": "Consolidamento e verifica",
+      "printed": 218,
+      "actual": 218,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "Cap. 15",
+      "title": "Laboratorio delle prove authority",
+      "printed": 221,
+      "actual": 221,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.1",
+      "title": "Quadro e criterio di lettura",
+      "printed": 221,
+      "actual": 221,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.2",
+      "title": "Istituti e distinzioni",
+      "printed": 225,
+      "actual": 225,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.3",
+      "title": "Poteri, procedura e conseguenze",
+      "printed": 229,
+      "actual": 229,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.4",
+      "title": "Applicazione alla prova",
+      "printed": 232,
+      "actual": 232,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    },
+    {
+      "number": "15.5",
+      "title": "Consolidamento e verifica",
+      "printed": 237,
+      "actual": 237,
+      "match": true,
+      "pdfIndexMatch": true,
+      "pdfTargetTitlePresent": true
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "xref": 6,
+      "name": "AAAAAA+Arial-BoldMT",
+      "kind": "Type0",
+      "embedded": true
+    },
+    {
+      "xref": 7,
+      "name": "BAAAAA+Garamond",
+      "kind": "Type0",
+      "embedded": true
+    },
+    {
+      "xref": 8,
+      "name": "CAAAAA+Arial-Black",
+      "kind": "Type0",
+      "embedded": true
+    },
+    {
+      "xref": 9,
+      "name": "DAAAAA+ArialMT",
+      "kind": "Type0",
+      "embedded": true
+    },
+    {
+      "xref": 21,
+      "name": "EAAAAA+ArialMT",
+      "kind": "Type0",
+      "embedded": true
+    },
+    {
+      "xref": 69,
+      "name": "",
+      "kind": "Type3",
+      "embedded": true
+    },
+    {
+      "xref": 120,
+      "name": "GAAAAA+Consolas",
+      "kind": "Type0",
+      "embedded": true
+    }
+  ],
+  "fontSizes": [
+    {
+      "font": "Arial-Black",
+      "pt": 7.5,
+      "characters": 75
+    },
+    {
+      "font": "Arial-Black",
+      "pt": 9.0,
+      "characters": 144
+    },
+    {
+      "font": "Arial-Black",
+      "pt": 9.49,
+      "characters": 7920
+    },
+    {
+      "font": "Arial-Black",
+      "pt": 9.75,
+      "characters": 22
+    },
+    {
+      "font": "Arial-Black",
+      "pt": 10.0,
+      "characters": 877
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 5.25,
+      "characters": 405
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 7.99,
+      "characters": 14761
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 8.5,
+      "characters": 4940
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 9.49,
+      "characters": 449
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 10.0,
+      "characters": 38
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 10.99,
+      "characters": 2969
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 12.0,
+      "characters": 10577
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 13.99,
+      "characters": 2350
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 18.0,
+      "characters": 15
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 19.99,
+      "characters": 821
+    },
+    {
+      "font": "Arial-BoldMT",
+      "pt": 30.0,
+      "characters": 6
+    },
+    {
+      "font": "ArialMT",
+      "pt": 9.49,
+      "characters": 89394
+    },
+    {
+      "font": "Consolas",
+      "pt": 9.49,
+      "characters": 363
+    },
+    {
+      "font": "Garamond",
+      "pt": 10.99,
+      "characters": 371717
+    },
+    {
+      "font": "Type3 (69 0 R)",
+      "pt": 12.0,
+      "characters": 15
+    }
+  ],
+  "smallText": [
+    {
+      "page": 1,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "www.capitalepersonale.it"
+    },
+    {
+      "page": 1,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "1"
+    },
+    {
+      "page": 2,
+      "size": 9.0,
+      "font": "Arial-Black",
+      "text": "CAPITALE PERSONALE"
+    },
+    {
+      "page": 3,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "www.capitalepersonale.it"
+    },
+    {
+      "page": 3,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "3"
+    },
+    {
+      "page": 3,
+      "size": 9.0,
+      "font": "Arial-Black",
+      "text": "CAPITALE PERSONALE"
+    },
+    {
+      "page": 4,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "www.capitalepersonale.it"
+    },
+    {
+      "page": 4,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "4"
+    },
+    {
+      "page": 4,
+      "size": 9.0,
+      "font": "Arial-Black",
+      "text": "CAPITALE PERSONALE"
+    },
+    {
+      "page": 5,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "www.capitalepersonale.it"
+    },
+    {
+      "page": 5,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "5"
+    },
+    {
+      "page": 5,
+      "size": 9.0,
+      "font": "Arial-Black",
+      "text": "CAPITALE PERSONALE"
+    },
+    {
+      "page": 6,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "www.capitalepersonale.it"
+    },
+    {
+      "page": 6,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "6"
+    },
+    {
+      "page": 6,
+      "size": 9.0,
+      "font": "Arial-Black",
+      "text": "CAPITALE PERSONALE"
+    },
+    {
+      "page": 7,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "INDICE COMPLETO"
+    },
+    {
+      "page": 7,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 7,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "www.capitalepersonale.it"
+    },
+    {
+      "page": 7,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "7"
+    },
+    {
+      "page": 7,
+      "size": 9.0,
+      "font": "Arial-Black",
+      "text": "CAPITALE PERSONALE"
+    },
+    {
+      "page": 8,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "INDICE COMPLETO"
+    },
+    {
+      "page": 8,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "www.capitalepersonale.it"
+    },
+    {
+      "page": 8,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "8"
+    },
+    {
+      "page": 8,
+      "size": 9.0,
+      "font": "Arial-Black",
+      "text": "CAPITALE PERSONALE"
+    },
+    {
+      "page": 9,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "www.capitalepersonale.it"
+    },
+    {
+      "page": 9,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "9"
+    },
+    {
+      "page": 9,
+      "size": 9.0,
+      "font": "Arial-Black",
+      "text": "CAPITALE PERSONALE"
+    },
+    {
+      "page": 10,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 10,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 10,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 10,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 10,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 10,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 10,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 10,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 10,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 10,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 10,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 10,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "10"
+    },
+    {
+      "page": 11,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 11,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 11,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 11,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "11"
+    },
+    {
+      "page": 12,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 12,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 12,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 12,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "12"
+    },
+    {
+      "page": 13,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 13,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 13,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 13,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "13"
+    },
+    {
+      "page": 14,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 14,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 14,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 14,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "14"
+    },
+    {
+      "page": 15,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 15,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 15,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 15,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "15"
+    },
+    {
+      "page": 16,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 16,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 16,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 16,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "16"
+    },
+    {
+      "page": 17,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 17,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 17,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 17,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "17"
+    },
+    {
+      "page": 18,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 18,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 18,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 18,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "18"
+    },
+    {
+      "page": 19,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 19,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 19,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 19,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "19"
+    },
+    {
+      "page": 20,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 20,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 20,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 20,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "20"
+    },
+    {
+      "page": 21,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 21,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 21,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 21,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "21"
+    },
+    {
+      "page": 22,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 22,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 22,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 22,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "22"
+    },
+    {
+      "page": 23,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 1. LE AUTHORITY VISTE DAL CANDIDATO"
+    },
+    {
+      "page": 23,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 23,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "23"
+    },
+    {
+      "page": 24,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 24,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 24,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 24,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 24,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 24,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 24,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 24,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 24,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 24,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 24,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 24,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "24"
+    },
+    {
+      "page": 25,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 25,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 25,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 25,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "25"
+    },
+    {
+      "page": 26,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 26,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 26,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 26,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "26"
+    },
+    {
+      "page": 27,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 27,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 27,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 27,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "27"
+    },
+    {
+      "page": 28,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 28,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 28,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 28,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "28"
+    },
+    {
+      "page": 29,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 29,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 29,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 29,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "29"
+    },
+    {
+      "page": 30,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 30,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 30,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 30,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "30"
+    },
+    {
+      "page": 31,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 31,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 31,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 31,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "31"
+    },
+    {
+      "page": 32,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 32,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 32,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 32,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "32"
+    },
+    {
+      "page": 33,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 33,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 33,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 33,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "33"
+    },
+    {
+      "page": 34,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 34,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 34,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 34,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "34"
+    },
+    {
+      "page": 35,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 35,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 35,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 35,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "35"
+    },
+    {
+      "page": 36,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 36,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 36,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 36,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "36"
+    },
+    {
+      "page": 37,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 37,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 37,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 37,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "37"
+    },
+    {
+      "page": 38,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 38,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 38,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 38,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "38"
+    },
+    {
+      "page": 39,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 2. INDIPENDENZA, GOVERNANCE, ACCOUNTABILITY E PERSONALE"
+    },
+    {
+      "page": 39,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 39,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "39"
+    },
+    {
+      "page": 40,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 40,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 40,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 40,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 40,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 40,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 40,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 40,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 40,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 40,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 40,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 40,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "40"
+    },
+    {
+      "page": 41,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 41,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 41,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 41,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "41"
+    },
+    {
+      "page": 42,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 42,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 42,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 42,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "42"
+    },
+    {
+      "page": 43,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 43,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 43,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 43,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "43"
+    },
+    {
+      "page": 44,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 44,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 44,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 44,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "44"
+    },
+    {
+      "page": 45,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 45,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 45,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 45,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "45"
+    },
+    {
+      "page": 46,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 46,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 46,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 46,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "46"
+    },
+    {
+      "page": 47,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 47,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 47,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 47,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "47"
+    },
+    {
+      "page": 48,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 48,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 48,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 48,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "48"
+    },
+    {
+      "page": 49,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 49,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 49,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 49,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "49"
+    },
+    {
+      "page": 50,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 50,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 50,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 50,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "50"
+    },
+    {
+      "page": 51,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 51,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 51,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 51,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "51"
+    },
+    {
+      "page": 52,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 52,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 52,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 52,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "52"
+    },
+    {
+      "page": 53,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 3. REGOLAZIONE EUROPEA MULTILIVELLO E RETI DELLE AUTORITÀ"
+    },
+    {
+      "page": 53,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 53,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "53"
+    },
+    {
+      "page": 54,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 54,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 54,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 54,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 54,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 54,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 54,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 54,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 54,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 54,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 54,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 54,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "54"
+    },
+    {
+      "page": 55,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 55,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 55,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 55,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "55"
+    },
+    {
+      "page": 56,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 56,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 56,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 56,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "56"
+    },
+    {
+      "page": 57,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 57,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 57,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 57,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "57"
+    },
+    {
+      "page": 58,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 58,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 58,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 58,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "58"
+    },
+    {
+      "page": 59,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 59,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 59,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 59,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "59"
+    },
+    {
+      "page": 60,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 60,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 60,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 60,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "60"
+    },
+    {
+      "page": 61,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 61,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 61,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 61,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "61"
+    },
+    {
+      "page": 62,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 62,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 62,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 62,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "62"
+    },
+    {
+      "page": 63,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 63,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 63,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 63,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "63"
+    },
+    {
+      "page": 64,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 64,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 64,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 64,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "64"
+    },
+    {
+      "page": 65,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 65,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 65,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 65,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "65"
+    },
+    {
+      "page": 66,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 66,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 66,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 66,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "66"
+    },
+    {
+      "page": 67,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 4. CICLO REGOLATORIO, CONSULTAZIONE, AIR E VIR"
+    },
+    {
+      "page": 67,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 67,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "67"
+    },
+    {
+      "page": 68,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 68,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 68,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 68,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 68,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 68,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 68,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 68,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 68,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 68,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 68,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 68,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "68"
+    },
+    {
+      "page": 69,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 69,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 69,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 69,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "69"
+    },
+    {
+      "page": 70,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 70,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 70,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 70,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "70"
+    },
+    {
+      "page": 71,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 71,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 71,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 71,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "71"
+    },
+    {
+      "page": 72,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 72,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 72,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 72,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "72"
+    },
+    {
+      "page": 73,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 73,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 73,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 73,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "73"
+    },
+    {
+      "page": 74,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 74,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 74,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 74,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "74"
+    },
+    {
+      "page": 75,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 75,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 75,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 75,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "75"
+    },
+    {
+      "page": 76,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 76,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 76,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 76,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "76"
+    },
+    {
+      "page": 77,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 77,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 77,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 77,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "77"
+    },
+    {
+      "page": 78,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 78,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 78,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 78,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "78"
+    },
+    {
+      "page": 79,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 79,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 79,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 79,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "79"
+    },
+    {
+      "page": 80,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 80,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 80,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 80,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "80"
+    },
+    {
+      "page": 81,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 5. VIGILANZA, ISTRUTTORIA, ISPEZIONI, DATI E PROVA"
+    },
+    {
+      "page": 81,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 81,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "81"
+    },
+    {
+      "page": 82,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 82,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 82,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 82,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 82,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 82,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 82,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 82,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 82,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 82,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 82,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 82,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "82"
+    },
+    {
+      "page": 83,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 83,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 83,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 83,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "83"
+    },
+    {
+      "page": 84,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 84,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 84,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 84,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "84"
+    },
+    {
+      "page": 85,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 85,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 85,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 85,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "85"
+    },
+    {
+      "page": 86,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 86,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 86,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 86,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "86"
+    },
+    {
+      "page": 87,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 87,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 87,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 87,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "87"
+    },
+    {
+      "page": 88,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 88,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 88,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 88,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "88"
+    },
+    {
+      "page": 89,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 89,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 89,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 89,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "89"
+    },
+    {
+      "page": 90,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 90,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 90,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 90,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "90"
+    },
+    {
+      "page": 91,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 91,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 91,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 91,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "91"
+    },
+    {
+      "page": 92,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 92,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 92,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 92,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "92"
+    },
+    {
+      "page": 93,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 93,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 93,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 93,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "93"
+    },
+    {
+      "page": 94,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 94,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 94,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 94,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "94"
+    },
+    {
+      "page": 95,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 95,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 95,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 95,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "95"
+    },
+    {
+      "page": 96,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 6. SANZIONI, IMPEGNI, RIMEDI E CONTROLLO GIURISDIZIONALE"
+    },
+    {
+      "page": 96,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 96,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "96"
+    },
+    {
+      "page": 97,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 97,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 97,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 97,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 97,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 97,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 97,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 97,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 97,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 97,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 97,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 97,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "97"
+    },
+    {
+      "page": 98,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 98,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 98,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 98,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 98,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "98"
+    },
+    {
+      "page": 99,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 99,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 99,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 99,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 99,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "99"
+    },
+    {
+      "page": 100,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 100,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 100,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 100,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 100,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "100"
+    },
+    {
+      "page": 101,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 101,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 101,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 101,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 101,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "101"
+    },
+    {
+      "page": 102,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 102,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 102,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 102,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 102,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "102"
+    },
+    {
+      "page": 103,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 103,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 103,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 103,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 103,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "103"
+    },
+    {
+      "page": 104,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 104,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 104,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 104,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 104,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "104"
+    },
+    {
+      "page": 105,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 105,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 105,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 105,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 105,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "105"
+    },
+    {
+      "page": 106,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 106,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 106,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 106,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 106,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "106"
+    },
+    {
+      "page": 107,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 107,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 107,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 107,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 107,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "107"
+    },
+    {
+      "page": 108,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 108,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 108,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 108,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 108,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "108"
+    },
+    {
+      "page": 109,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 109,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 109,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 109,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 109,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "109"
+    },
+    {
+      "page": 110,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 110,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 110,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 110,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 110,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "110"
+    },
+    {
+      "page": 111,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 111,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 111,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 111,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 111,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "111"
+    },
+    {
+      "page": 112,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E"
+    },
+    {
+      "page": 112,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTABILITÀ REGOLATORIA"
+    },
+    {
+      "page": 112,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 112,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 112,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "112"
+    },
+    {
+      "page": 113,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 7. ECONOMIA INDUSTRIALE, REGOLAZIONE, ECONOMETRIA E CONTABILITÀ"
+    },
+    {
+      "page": 113,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "REGOLATORIA"
+    },
+    {
+      "page": 113,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 113,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "113"
+    },
+    {
+      "page": 114,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 114,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 114,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 114,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 114,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 114,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 114,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 114,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 114,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 114,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 114,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 114,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "114"
+    },
+    {
+      "page": 115,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 115,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 115,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 115,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "115"
+    },
+    {
+      "page": 116,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 116,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 116,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 116,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "116"
+    },
+    {
+      "page": 117,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 117,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 117,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 117,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "117"
+    },
+    {
+      "page": 118,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 118,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 118,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 118,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "118"
+    },
+    {
+      "page": 119,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 119,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 119,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 119,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "119"
+    },
+    {
+      "page": 120,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 120,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 120,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 120,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "120"
+    },
+    {
+      "page": 121,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 121,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 121,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 121,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "121"
+    },
+    {
+      "page": 122,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 122,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 122,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 122,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "122"
+    },
+    {
+      "page": 123,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 123,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 123,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 123,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "123"
+    },
+    {
+      "page": 124,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 124,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 124,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 124,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "124"
+    },
+    {
+      "page": 125,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 125,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 125,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 125,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "125"
+    },
+    {
+      "page": 126,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 126,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 126,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 126,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "126"
+    },
+    {
+      "page": 127,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 127,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 127,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 127,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "127"
+    },
+    {
+      "page": 128,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 128,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 128,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 128,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "128"
+    },
+    {
+      "page": 129,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 8. AGCM: CONCORRENZA, CONSUMATORE E PRATICHE SCORRETTE"
+    },
+    {
+      "page": 129,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 129,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "129"
+    },
+    {
+      "page": 130,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 130,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 130,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 130,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 130,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 130,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 130,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 130,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 130,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 130,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 130,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 130,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "130"
+    },
+    {
+      "page": 131,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 131,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 131,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 131,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "131"
+    },
+    {
+      "page": 132,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 132,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 132,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 132,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "132"
+    },
+    {
+      "page": 133,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 133,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 133,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 133,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "133"
+    },
+    {
+      "page": 134,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 134,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 134,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 134,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "134"
+    },
+    {
+      "page": 135,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 135,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 135,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 135,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "135"
+    },
+    {
+      "page": 136,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 136,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 136,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 136,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "136"
+    },
+    {
+      "page": 137,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 137,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 137,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 137,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "137"
+    },
+    {
+      "page": 138,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 138,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 138,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 138,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "138"
+    },
+    {
+      "page": 139,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 139,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 139,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 139,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "139"
+    },
+    {
+      "page": 140,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 140,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 140,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 140,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "140"
+    },
+    {
+      "page": 141,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 141,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 141,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 141,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "141"
+    },
+    {
+      "page": 142,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 142,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 142,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 142,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "142"
+    },
+    {
+      "page": 143,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 143,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 143,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 143,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "143"
+    },
+    {
+      "page": 144,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 9. ARERA: ENERGIA, GAS, ACQUA, RIFIUTI E TARIFFE"
+    },
+    {
+      "page": 144,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 144,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "144"
+    },
+    {
+      "page": 145,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 145,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 145,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 145,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 145,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 145,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 145,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 145,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 145,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 145,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 145,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 145,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "145"
+    },
+    {
+      "page": 146,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 146,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 146,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 146,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "146"
+    },
+    {
+      "page": 147,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 147,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 147,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 147,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "147"
+    },
+    {
+      "page": 148,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 148,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 148,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 148,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "148"
+    },
+    {
+      "page": 149,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 149,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 149,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 149,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "149"
+    },
+    {
+      "page": 150,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 150,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 150,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 150,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "150"
+    },
+    {
+      "page": 151,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 151,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 151,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 151,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "151"
+    },
+    {
+      "page": 152,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 152,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 152,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 152,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "152"
+    },
+    {
+      "page": 153,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 153,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 153,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 153,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "153"
+    },
+    {
+      "page": 154,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 154,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 154,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 154,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "154"
+    },
+    {
+      "page": 155,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 155,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 155,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 155,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "155"
+    },
+    {
+      "page": 156,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 156,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 156,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 156,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "156"
+    },
+    {
+      "page": 157,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 157,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 157,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 157,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "157"
+    },
+    {
+      "page": 158,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 158,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 158,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 158,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "158"
+    },
+    {
+      "page": 159,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 10. AGCOM: COMUNICAZIONI, MEDIA, UTENTI E PIATTAFORME"
+    },
+    {
+      "page": 159,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 159,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "159"
+    },
+    {
+      "page": 160,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 160,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 160,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 160,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 160,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 160,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 160,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 160,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 160,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 160,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 160,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 160,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "160"
+    },
+    {
+      "page": 161,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 161,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 161,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 161,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "161"
+    },
+    {
+      "page": 162,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 162,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 162,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 162,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "162"
+    },
+    {
+      "page": 163,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 163,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 163,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 163,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "163"
+    },
+    {
+      "page": 164,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 164,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 164,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 164,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "164"
+    },
+    {
+      "page": 165,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 165,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 165,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 165,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "165"
+    },
+    {
+      "page": 166,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 166,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 166,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 166,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "166"
+    },
+    {
+      "page": 167,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 167,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 167,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 167,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "167"
+    },
+    {
+      "page": 168,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 168,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 168,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 168,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "168"
+    },
+    {
+      "page": 169,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 169,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 169,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 169,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "169"
+    },
+    {
+      "page": 170,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 170,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 170,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 170,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "170"
+    },
+    {
+      "page": 171,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 171,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 171,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 171,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "171"
+    },
+    {
+      "page": 172,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 172,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 172,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 172,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "172"
+    },
+    {
+      "page": 173,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 11. CONSOB: MERCATI, INTERMEDIARI E TUTELA DELL'INVESTITORE"
+    },
+    {
+      "page": 173,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 173,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "173"
+    },
+    {
+      "page": 174,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 174,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 174,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 174,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 174,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 174,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 174,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 174,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 174,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 174,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 174,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 174,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "174"
+    },
+    {
+      "page": 175,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 175,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 175,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 175,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 175,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "175"
+    },
+    {
+      "page": 176,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 176,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 176,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 176,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 176,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "176"
+    },
+    {
+      "page": 177,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 177,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 177,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 177,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 177,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "177"
+    },
+    {
+      "page": 178,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 178,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 178,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 178,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 178,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "178"
+    },
+    {
+      "page": 179,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 179,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 179,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 179,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 179,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "179"
+    },
+    {
+      "page": 180,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 180,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 180,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 180,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 180,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "180"
+    },
+    {
+      "page": 181,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 181,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 181,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 181,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 181,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "181"
+    },
+    {
+      "page": 182,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 182,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 182,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 182,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 182,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "182"
+    },
+    {
+      "page": 183,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 183,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 183,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 183,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 183,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "183"
+    },
+    {
+      "page": 184,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 184,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 184,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 184,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 184,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "184"
+    },
+    {
+      "page": 185,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 185,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 185,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 185,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 185,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "185"
+    },
+    {
+      "page": 186,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 186,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 186,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 186,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 186,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "186"
+    },
+    {
+      "page": 187,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 187,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 187,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 187,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 187,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "187"
+    },
+    {
+      "page": 188,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 188,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 188,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 188,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 188,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "188"
+    },
+    {
+      "page": 189,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E"
+    },
+    {
+      "page": 189,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "ASSICURATIVA"
+    },
+    {
+      "page": 189,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 189,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 189,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "189"
+    },
+    {
+      "page": 190,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 12. BANCA D'ITALIA E IVASS: VIGILANZA PRUDENZIALE, BANCARIA E ASSICURATIV"
+    },
+    {
+      "page": 190,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 190,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "190"
+    },
+    {
+      "page": 191,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 191,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 191,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 191,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 191,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 191,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 191,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 191,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 191,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 191,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 191,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 191,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "191"
+    },
+    {
+      "page": 192,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 192,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 192,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 192,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 192,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "192"
+    },
+    {
+      "page": 193,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 193,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 193,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 193,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 193,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "193"
+    },
+    {
+      "page": 194,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 194,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 194,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 194,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 194,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "194"
+    },
+    {
+      "page": 195,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 195,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 195,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 195,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 195,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "195"
+    },
+    {
+      "page": 196,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 196,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 196,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 196,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 196,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "196"
+    },
+    {
+      "page": 197,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 197,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 197,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 197,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 197,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "197"
+    },
+    {
+      "page": 198,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 198,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 198,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 198,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 198,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "198"
+    },
+    {
+      "page": 199,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 199,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 199,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 199,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 199,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "199"
+    },
+    {
+      "page": 200,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 200,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 200,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 200,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 200,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "200"
+    },
+    {
+      "page": 201,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 201,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 201,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 201,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 201,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "201"
+    },
+    {
+      "page": 202,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 202,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 202,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 202,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 202,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "202"
+    },
+    {
+      "page": 203,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE"
+    },
+    {
+      "page": 203,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "EUROPEA"
+    },
+    {
+      "page": 203,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 203,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 203,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "203"
+    },
+    {
+      "page": 204,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 13. GARANTE PRIVACY: POTERI, PROCEDIMENTI E COOPERAZIONE EUROPEA"
+    },
+    {
+      "page": 204,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 204,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "204"
+    },
+    {
+      "page": 205,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 205,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 205,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 205,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 205,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 205,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 205,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 205,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 205,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 205,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 205,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 205,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "205"
+    },
+    {
+      "page": 206,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 206,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 206,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 206,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "206"
+    },
+    {
+      "page": 207,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 207,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 207,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 207,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "207"
+    },
+    {
+      "page": 208,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 208,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 208,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 208,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "208"
+    },
+    {
+      "page": 209,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 209,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 209,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 209,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "209"
+    },
+    {
+      "page": 210,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 210,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 210,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 210,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "210"
+    },
+    {
+      "page": 211,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 211,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 211,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 211,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "211"
+    },
+    {
+      "page": 212,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 212,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 212,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 212,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "212"
+    },
+    {
+      "page": 213,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 213,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 213,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 213,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "213"
+    },
+    {
+      "page": 214,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 214,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 214,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 214,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "214"
+    },
+    {
+      "page": 215,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 215,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 215,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 215,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "215"
+    },
+    {
+      "page": 216,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 216,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 216,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 216,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "216"
+    },
+    {
+      "page": 217,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 217,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 217,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 217,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "217"
+    },
+    {
+      "page": 218,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 218,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 218,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 218,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "218"
+    },
+    {
+      "page": 219,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 219,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 219,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 219,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "219"
+    },
+    {
+      "page": 220,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 14. ANAC: PREVENZIONE, VIGILANZA E WHISTLEBLOWING"
+    },
+    {
+      "page": 220,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 220,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "220"
+    },
+    {
+      "page": 221,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "B"
+    },
+    {
+      "page": 221,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "BANDO"
+    },
+    {
+      "page": 221,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "A"
+    },
+    {
+      "page": 221,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "AREE"
+    },
+    {
+      "page": 221,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "N"
+    },
+    {
+      "page": 221,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "NUCLEI"
+    },
+    {
+      "page": 221,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "D"
+    },
+    {
+      "page": 221,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "DIARIO"
+    },
+    {
+      "page": 221,
+      "size": 7.5,
+      "font": "Arial-Black",
+      "text": "O"
+    },
+    {
+      "page": 221,
+      "size": 5.25,
+      "font": "Arial-BoldMT",
+      "text": "OUTPUT"
+    },
+    {
+      "page": 221,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 221,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "221"
+    },
+    {
+      "page": 222,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 222,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 222,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 222,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "222"
+    },
+    {
+      "page": 223,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 223,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 223,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 223,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "223"
+    },
+    {
+      "page": 224,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 224,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 224,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 224,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "224"
+    },
+    {
+      "page": 225,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 225,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 225,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 225,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "225"
+    },
+    {
+      "page": 226,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 226,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 226,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 226,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "226"
+    },
+    {
+      "page": 227,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 227,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 227,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 227,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "227"
+    },
+    {
+      "page": 228,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 228,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 228,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 228,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "228"
+    },
+    {
+      "page": 229,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 229,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 229,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 229,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "229"
+    },
+    {
+      "page": 230,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 230,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 230,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 230,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "230"
+    },
+    {
+      "page": 231,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 231,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 231,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 231,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "231"
+    },
+    {
+      "page": 232,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 232,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 232,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 232,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "232"
+    },
+    {
+      "page": 233,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 233,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 233,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 233,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "233"
+    },
+    {
+      "page": 234,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 234,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 234,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 234,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "234"
+    },
+    {
+      "page": 235,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 235,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 235,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 235,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "235"
+    },
+    {
+      "page": 236,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 236,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 236,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 236,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "236"
+    },
+    {
+      "page": 237,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 237,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 237,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 237,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "237"
+    },
+    {
+      "page": 238,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 238,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "CONTINUA"
+    },
+    {
+      "page": 238,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 238,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "238"
+    },
+    {
+      "page": 239,
+      "size": 7.99,
+      "font": "Arial-BoldMT",
+      "text": "M-FC05 15. LABORATORIO DELLE PROVE AUTHORITY"
+    },
+    {
+      "page": 239,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "VOL-05 — Authority"
+    },
+    {
+      "page": 239,
+      "size": 8.5,
+      "font": "Arial-BoldMT",
+      "text": "239"
+    }
+  ],
+  "outsidePage": [],
+  "shortPages": [
+    {
+      "page": 2,
+      "words": 29,
+      "text": "Capitale Personale VOL-05 AUTHORITY E REGOLAZIONE Modulo premium per target ristretto, tecnico- regolatorio e ad alto valore. CAPITALE PERSONALE Volume operativo Metodo BANDO per AGCM, ARERA e autorità indipendenti."
+    },
+    {
+      "page": 4,
+      "words": 29,
+      "text": "Sommario Modulo premium per target ristretto, tecnico-regolatorio e ad alto valore. Modulo Percorso interno Stato M-FC05 Authority indipendenti 15 sezioni Verticali del volume Regolazione mercati Compliance Istruttorie e"
+    }
+  ],
+  "overflowPages": [],
+  "internalLeaks": [],
+  "literalBr": 0,
+  "sourceHashes": [
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/01-authority-viste-dal-candidato.md",
+      "sha256": "a6dde8b4f90c2a734b729161c3bf9143a1a3ec3be34ccbde71649ff838773278"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/02-indipendenza-governance-accountability-personale.md",
+      "sha256": "c6db1fbedbaf2516f96fa4c3653000d3c12e6abea34859006ed1b199ab2acc54"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/03-regolazione-europea-multilivello-reti-autorita.md",
+      "sha256": "14aa0503eb593c0cbf9754ffe2beb70eb25d48c59b8698d55c488c1ce5153dc7"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/04-ciclo-regolatorio-consultazione-air-vir.md",
+      "sha256": "e14fd77224fb529d9f1d48af24be0b028e8f8a5a6b95a6b75b9b1924b39053f5"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/05-vigilanza-istruttoria-ispezioni-dati-prova.md",
+      "sha256": "a839add739fee81c77bc6e757425c73dae357e25105c2a9130be039e2a97670d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/06-sanzioni-impegni-rimedi-controllo-giurisdizionale.md",
+      "sha256": "a5ab47f844172796af28102cb55c4c1b8b4b0d9db2d5e093094c4dc838edb168"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/07-economia-industriale-regolazione-econometria-contabilita.md",
+      "sha256": "ca32378d153446b8a643e2a63ae8f65e4d55646925346f390c4a8bbb274372fd"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/08-agcm-concorrenza-consumatore-pratiche-scorrette.md",
+      "sha256": "46f43f3b336f8c59413b2ec9513d5c8ca1e79b18f9d7e306e7132e64873ff265"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/09-arera-energia-gas-acqua-rifiuti-tariffe.md",
+      "sha256": "b665d0380ad9b0432b980b019a5b0a86e1867cc7e309fbc175ccbec089e2c4ab"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/10-agcom-comunicazioni-media-utenti-piattaforme.md",
+      "sha256": "4f6500afc789c079ed1c9f622d76a0a5a7aa6560c9e9b9f6fc1eda3fb78dbbd7"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/11-consob-mercati-intermediari-tutela-investitore.md",
+      "sha256": "90fbf57ff34f415ba161e5ab459c31ce7ca5571a4f578191bb64ddae0ae2b6e2"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/12-banca-italia-ivass-vigilanza-prudenziale.md",
+      "sha256": "b15a88ffeb5addbef4ce0173978cc99fac580b2cc17cff2b805faa82ffbef8f3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/13-garante-privacy-poteri-procedimenti-cooperazione.md",
+      "sha256": "7c1e0b62ae806a869080ea64ad33f98193f5c7abf13919e78200ee3e43e94440"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/14-anac-prevenzione-vigilanza-whistleblowing.md",
+      "sha256": "7fea11dfcf489f5975367e61f2939c0584c1ddf54085106540905afe7212cd6d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc05-authority-indipendenti/chapters/15-laboratorio-prove-authority.md",
+      "sha256": "d92eeedf02792361cc2acd4a711a2a5b4334b400246823308975ee9c4f730368"
+    }
+  ],
+  "nativeSchemes": [
+    {
+      "schema": "2.1",
+      "title": "Schema 2.1 — Studiare l’ordinamento dell’ente",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "schema": "2.2",
+      "title": "Schema 2.2 — Tre dimensioni dell’indipendenza",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "schema": "2.3",
+      "title": "Schema 2.3 — Organi, uffici e controlli",
+      "pages": [
+        32
+      ]
+    },
+    {
+      "schema": "2.4",
+      "title": "Schema 2.4 — Tre nomine da non scambiare",
+      "pages": [
+        33
+      ]
+    },
+    {
+      "schema": "2.5",
+      "title": "Schema 2.5 — Accountability verificabile",
+      "pages": [
+        34
+      ]
+    },
+    {
+      "schema": "3.1",
+      "title": "Schema 3.1 — Ragionare sul livello europeo",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "schema": "3.2",
+      "title": "Schema 3.2 — Fonti dell’articolo 288 TFUE",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "schema": "3.3",
+      "title": "Schema 3.3 — Dal fatto transfrontaliero alla competenza",
+      "pages": [
+        44
+      ]
+    },
+    {
+      "schema": "3.4",
+      "title": "Schema 3.4 — Organismi distinti",
+      "pages": [
+        46
+      ]
+    },
+    {
+      "schema": "3.5",
+      "title": "Schema 3.5 — Verificare la forza di un documento",
+      "pages": [
+        48
+      ]
+    },
+    {
+      "schema": "4.1",
+      "title": "Schema 4.1 — Allenare il ciclo regolatorio",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "schema": "4.2",
+      "title": "Schema 4.2 — Consultazione, AIR e VIR",
+      "pages": [
+        57
+      ]
+    },
+    {
+      "schema": "4.3",
+      "title": "Schema 4.3 — Un ciclo con riesame",
+      "pages": [
+        58
+      ]
+    },
+    {
+      "schema": "4.4",
+      "title": "Schema 4.4 — Leggere una mini-AIR",
+      "pages": [
+        59
+      ]
+    },
+    {
+      "schema": "4.5",
+      "title": "Schema 4.5 — Conclusione motivata",
+      "pages": [
+        61
+      ]
+    },
+    {
+      "schema": "5.1",
+      "title": "Schema 5.1 — Costruire un’istruttoria",
+      "pages": [
+        69
+      ]
+    },
+    {
+      "schema": "5.2",
+      "title": "Schema 5.2 — Quattro livelli dell’evidenza",
+      "pages": [
+        71
+      ]
+    },
+    {
+      "schema": "5.3",
+      "title": "Schema 5.3 — Richiesta dati delimitata",
+      "pages": [
+        72
+      ]
+    },
+    {
+      "schema": "5.4",
+      "title": "Schema 5.4 — Ispezioni: verificare il luogo",
+      "pages": [
+        74
+      ]
+    },
+    {
+      "schema": "5.5",
+      "title": "Schema 5.5 — Qualità del fascicolo",
+      "pages": [
+        76
+      ]
+    },
+    {
+      "schema": "6.1",
+      "title": "Schema 6.1 — Scegliere il rimedio corretto",
+      "pages": [
+        83
+      ]
+    },
+    {
+      "schema": "6.2",
+      "title": "Schema 6.2 — Strumenti con presupposti diversi",
+      "pages": [
+        85
+      ]
+    },
+    {
+      "schema": "6.3",
+      "title": "Schema 6.3 — Esiti alternativi del procedimento",
+      "pages": [
+        86
+      ]
+    },
+    {
+      "schema": "6.4",
+      "title": "Schema 6.4 — Due ottemperanze",
+      "pages": [
+        88
+      ]
+    },
+    {
+      "schema": "6.5",
+      "title": "Schema 6.5 — Prima del ricorso",
+      "pages": [
+        91
+      ]
+    },
+    {
+      "schema": "7.1",
+      "title": "Schema 7.1 — Usare i numeri nella prova",
+      "pages": [
+        98
+      ]
+    },
+    {
+      "schema": "7.2",
+      "title": "Schema 7.2 — Concentrazione e potere di mercato",
+      "pages": [
+        100
+      ]
+    },
+    {
+      "schema": "7.3",
+      "title": "Schema 7.3 — Dal dato alla scelta",
+      "pages": [
+        102
+      ]
+    },
+    {
+      "schema": "7.4",
+      "title": "Schema 7.4 — Tetto ai prezzi e ai ricavi",
+      "pages": [
+        103
+      ]
+    },
+    {
+      "schema": "7.5",
+      "title": "Schema 7.5 — RAB, WACC e imputazione",
+      "pages": [
+        106
+      ]
+    },
+    {
+      "schema": "8.1",
+      "title": "Schema 8.1 — Qualificare il caso AGCM",
+      "pages": [
+        115
+      ]
+    },
+    {
+      "schema": "8.2",
+      "title": "Schema 8.2 — Antitrust e consumatore",
+      "pages": [
+        116
+      ]
+    },
+    {
+      "schema": "8.3",
+      "title": "Schema 8.3 — Il controllo AGCM",
+      "pages": [
+        120
+      ]
+    },
+    {
+      "schema": "8.4",
+      "title": "Schema 8.4 — Pratiche scorrette",
+      "pages": [
+        122
+      ]
+    },
+    {
+      "schema": "8.5",
+      "title": "Schema 8.5 — Promessa e costo nascosto",
+      "pages": [
+        124
+      ]
+    },
+    {
+      "schema": "9.1",
+      "title": "Schema 9.1 — Leggere il servizio regolato",
+      "pages": [
+        131
+      ]
+    },
+    {
+      "schema": "9.2",
+      "title": "Schema 9.2 — Tre livelli del PEF rifiuti",
+      "pages": [
+        132
+      ]
+    },
+    {
+      "schema": "9.3",
+      "title": "Schema 9.3 — Costo, qualità e tariffa",
+      "pages": [
+        135
+      ]
+    },
+    {
+      "schema": "9.4",
+      "title": "Schema 9.4 — Tre separazioni",
+      "pages": [
+        137
+      ]
+    },
+    {
+      "schema": "9.5",
+      "title": "Schema 9.5 — Reclamo, indennizzo e conciliazione",
+      "pages": [
+        139
+      ]
+    },
+    {
+      "schema": "10.1",
+      "title": "Schema 10.1 — Separare comunicazioni e piattaforme",
+      "pages": [
+        146
+      ]
+    },
+    {
+      "schema": "10.2",
+      "title": "Schema 10.2 — Fonti e interessi",
+      "pages": [
+        148
+      ]
+    },
+    {
+      "schema": "10.3",
+      "title": "Schema 10.3 — Reclamo e controversia dell’utente",
+      "pages": [
+        150
+      ]
+    },
+    {
+      "schema": "10.4",
+      "title": "Schema 10.4 — SMP, VLOP e gatekeeper",
+      "pages": [
+        152
+      ]
+    },
+    {
+      "schema": "10.5",
+      "title": "Schema 10.5 — Chi decide nel DSA",
+      "pages": [
+        153
+      ]
+    },
+    {
+      "schema": "11.1",
+      "title": "Schema 11.1 — Studiare la tutela dell’investitore",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "schema": "11.2",
+      "title": "Schema 11.2 — Tre soggetti del mercato",
+      "pages": [
+        162
+      ]
+    },
+    {
+      "schema": "11.3",
+      "title": "Schema 11.3 — Controllo e possibili esiti",
+      "pages": [
+        164
+      ]
+    },
+    {
+      "schema": "11.4",
+      "title": "Schema 11.4 — Tre valutazioni del servizio",
+      "pages": [
+        166
+      ]
+    },
+    {
+      "schema": "11.5",
+      "title": "Schema 11.5 — Condotta e rimedi",
+      "pages": [
+        167
+      ]
+    },
+    {
+      "schema": "12.1",
+      "title": "Schema 12.1 — Leggere la prudenza e le tutele",
+      "pages": [
+        175
+      ]
+    },
+    {
+      "schema": "12.2",
+      "title": "Schema 12.2 — Vigilanza e controversia",
+      "pages": [
+        176
+      ]
+    },
+    {
+      "schema": "12.3",
+      "title": "Schema 12.3 — Dalla segnalazione all’intervento",
+      "pages": [
+        178
+      ]
+    },
+    {
+      "schema": "12.4",
+      "title": "Schema 12.4 — Capitale e liquidità",
+      "pages": [
+        179
+      ]
+    },
+    {
+      "schema": "12.5",
+      "title": "Schema 12.5 — Tre ADR, tre oggetti",
+      "pages": [
+        180
+      ]
+    },
+    {
+      "schema": "13.1",
+      "title": "Schema 13.1 — Applicare i poteri del Garante",
+      "pages": [
+        192
+      ]
+    },
+    {
+      "schema": "13.2",
+      "title": "Schema 13.2 — Poteri e istanze non sono sinonimi",
+      "pages": [
+        193
+      ]
+    },
+    {
+      "schema": "13.3",
+      "title": "Schema 13.3 — Il percorso del reclamo",
+      "pages": [
+        195
+      ]
+    },
+    {
+      "schema": "13.5",
+      "title": "Schema 13.5 — Concorso pubblico e fornitore estero",
+      "pages": [
+        200
+      ]
+    },
+    {
+      "schema": "13.4",
+      "title": "Schema 13.4 — Avvertimento, ammonimento e danni",
+      "pages": [
+        199
+      ]
+    },
+    {
+      "schema": "14.1",
+      "title": "Schema 14.1 — Qualificare prevenzione e whistleblowing",
+      "pages": [
+        206
+      ]
+    },
+    {
+      "schema": "14.2",
+      "title": "Schema 14.2 — Indirizzo e attuazione",
+      "pages": [
+        207
+      ]
+    },
+    {
+      "schema": "14.3",
+      "title": "Schema 14.3 — Protezione lungo il percorso",
+      "pages": [
+        209
+      ]
+    },
+    {
+      "schema": "14.4",
+      "title": "Schema 14.4 — Quattro distinzioni del caso",
+      "pages": [
+        210
+      ]
+    },
+    {
+      "schema": "14.5",
+      "title": "Schema 14.5 — Prova della ritorsione",
+      "pages": [
+        214
+      ]
+    },
+    {
+      "schema": "15.1",
+      "title": "Schema 15.1 — Trasformare lo studio in prova",
+      "pages": [
+        222
+      ]
+    },
+    {
+      "schema": "15.2",
+      "title": "Schema 15.2 — Tre percorsi integrabili",
+      "pages": [
+        223
+      ]
+    },
+    {
+      "schema": "15.3",
+      "title": "Schema 15.3 — Dalla traccia alla risposta",
+      "pages": [
+        224
+      ]
+    },
+    {
+      "schema": "15.4",
+      "title": "Schema 15.4 — Numeri da interpretare",
+      "pages": [
+        225
+      ]
+    },
+    {
+      "schema": "15.5",
+      "title": "Schema 15.5 — Recupero programmato",
+      "pages": [
+        234
+      ]
+    },
+    {
+      "schema": "1.1",
+      "title": "Schema 1.1 — Dal bando alla prima prova",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "schema": "1.2",
+      "title": "Schema 1.2 — Dall’ente al problema",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "schema": "1.3",
+      "title": "Schema 1.3 — Tre percorsi, tre prodotti",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "schema": "1.4",
+      "title": "Schema 1.4 — Decoder da compilare",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "schema": "1.5",
+      "title": "Schema 1.5 — Collegare base e specializzazione",
+      "pages": [
+        19
+      ]
+    }
+  ],
+  "missingImages": 0,
+  "rasterImageCount": 0,
+  "indexMinimumPt": 9.500025,
+  "limitations": [
+    "Full contact-sheet review and targeted detail are recorded separately.",
+    "No physical print proof, KDP upload, ISBN or digital-service verification."
+  ]
+}

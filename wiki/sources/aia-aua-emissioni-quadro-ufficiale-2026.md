@@ -10,7 +10,7 @@ source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "s
 book_refs: ["m-tr04-ambiente-protezione-civile", "vol-11-ambiente-protezione-civile-sostenibilita"]
 confidence: 0.93
 created_at: 2026-08-10
-updated_at: 2026-08-10
+updated_at: 2026-10-03
 review_required: true
 canonical: true
 tags: ["source", "aia", "aua", "emissioni", "bat-ael", "2026"]
@@ -32,7 +32,7 @@ authority_level: alta
 
 L'AIA mira a un livello elevato di protezione dell'ambiente nel suo complesso. Il contenuto autorizzativo coordina condizioni di esercizio, valori limite o misure equivalenti, monitoraggio, prevenzione del trasferimento dell'inquinamento tra aria, acqua e suolo e misure relative alle situazioni diverse dal normale esercizio.
 
-L'AUA è uno strumento di semplificazione rivolto al perimetro definito dal D.P.R. 59/2013. Non è un'AIA “ridotta”: sostituisce, in un provvedimento unitario, gli atti ambientali tassativamente indicati dalla disciplina. Il SUAP è il punto di accesso procedimentale; la Provincia o la diversa autorità individuata dalla normativa regionale esercita le funzioni attribuite come autorità competente.
+L'AUA è uno strumento di semplificazione rivolto al perimetro definito dal D.P.R. 59/2013. Non è un'AIA “ridotta”: sostituisce, in un provvedimento unitario, gli atti ambientali indicati dall'art. 3, comma 1, incluse le voci aggiunte nel testo corrente, e gli ulteriori atti che le Regioni possono individuare ai sensi del comma 2. Il SUAP è il punto di accesso procedimentale; la Provincia o la diversa autorità individuata dalla normativa regionale esercita le funzioni attribuite come autorità competente.
 
 Per le emissioni in atmosfera, il riferimento generale è la Parte quinta del D.Lgs. 152/2006. L'art. 269 collega l'autorizzazione allo stabilimento e richiede che l'atto specifichi, per le emissioni convogliate, valori limite, prescrizioni, metodi di campionamento e analisi, criteri di conformità e periodicità del monitoraggio del gestore, secondo il caso applicabile.
 
@@ -41,3 +41,7 @@ BAT significa migliori tecniche disponibili; BAT-AEL indica livelli di emissione
 ## Cautele editoriali
 
 Non generalizzare autorità, modulistica, termini, regimi regionali o prescrizioni tecniche. Per ogni caso concreto occorre controllare testo vigente, allegati, normativa regionale, titolo applicabile e provvedimento autorizzativo. Le linee guida tecniche non attribuiscono poteri amministrativi e non sostituiscono la norma.
+
+## Raccordo del 3 ottobre 2026
+
+Per i delta puntuali prevalgono [[sources/vol-11-ambiente-rettifiche-2026-10-03]], [[sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03]] e [[sources/vol-11-energia-sostenibilita-verifica-2026-10-03]], secondo materia. Le attestazioni precedenti non equivalgono a verifica integrale di tutti gli atti correnti.

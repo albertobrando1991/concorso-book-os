@@ -1,0 +1,9 @@
+[
+  {
+    "path": "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+    "beforeSHA256": "667b6719e2e9246653879a71f22db6d5794010787fb466ee1d82ce4950d73014",
+    "sha256": "4dfcb8c6d6c94d2f3574fb2030e2d022dfa897a7b8e096125f756589330a8ac3",
+    "change": "Due dati operativi: metadati di audit nel frontmatter, tabelle NEWS2 e triage native e leggibili. Dati, ambito, fonti, versioni e cautele cliniche conservati; istruzione di ricontrollo editoriale esclusa dal corpo.",
+    "status": "applied; PDF verification pending"
+  }
+]

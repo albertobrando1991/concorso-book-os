@@ -2,14 +2,14 @@
 id: m-tr03-tecnico-ingegneristico
 type: specialist_module
 title: "M-TR03 - Tecnico-ingegneristico"
-status: publication_candidate
+status: reviewed
 domain: "concorsi pubblici italiani"
 topics: ["moduli specialistici","trasversali","metodo bando"]
 entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-10-tecnico-ingegneristico-territorio-lavori-pubblici"]
 confidence: 0.94
-updated_at: 2026-08-21
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -18,10 +18,10 @@ book_id: m-tr03-tecnico-ingegneristico
 module_code: M-TR03
 module_family: trasversali
 module_family_title: "Trasversali"
-module_status: publication_candidate
+module_status: reviewed
 roadmap_phase: "4"
 companion_to: il-metodo-bando
-draft_stage: publication_candidate
+draft_stage: text_frozen
 last_compiled_from: ["wiki/books/moduli/architettura-moduli-specialistici.md","wiki/sources/modulo-m-tr03-tecnico-ingegneristico-vol-10.md"]
 ---
 
@@ -35,7 +35,7 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 - Codice modulo: M-TR03
 - Copertura: Profili tecnici, lavori pubblici, urbanistica, edilizia, manutenzione e sicurezza tecnica.
 - Fase roadmap: 4
-- Stato: revisione editoriale finale conclusa; capitoli 1-13 sviluppati, matrice v4 senza nuclei bloccanti, fonti consolidate al 21 agosto 2026, text freeze e impaginazione KDP completati.
+- Stato: tredici capitoli verificati e congelati al 3 ottobre 2026 dopo i diciotto rilievi dell’audit integrale. Gate 14 e 15 superati; freeze 16 manuale documentato con hash. Figure inserite e visionate come asset, PDF aggiornato e gate finali ancora da verificare.
 
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
@@ -67,4 +67,4 @@ Non promette copertura totale di ogni bando né aggiornamento normativo automati
 - [[books/moduli/m-tr03-tecnico-ingegneristico/planning/06-audit-consolidamento-fonti|Audit di consolidamento delle fonti]]
 - [[books/moduli/m-tr03-tecnico-ingegneristico/planning/13-bibbia-del-modulo|Bibbia editoriale del modulo]]
 ## Prossimo passo
-Produrre il PDF candidato e completare il preflight tecnico e il pacchetto di consegna. Il testo resta congelato salvo errori documentati.
+Produrre il PDF candidato e completare il preflight tecnico e il pacchetto di consegna. Il testo verificato è identificato dal nuovo manifest; ogni modifica sostanziale riapre i passaggi pertinenti.

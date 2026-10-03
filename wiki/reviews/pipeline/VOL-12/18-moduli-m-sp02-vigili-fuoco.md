@@ -28,3 +28,14 @@ Audit integrale dei 8 capitoli secondo «Soglia Governabile»: immagini Markdown
 ## Esito
 
 Audit chiuso senza rilievi aperti. Le verifiche che dipendono dalla paginazione saranno ripetute sul candidato PDF agli step 19–20; nessuna verifica su asset è pendente perché il modulo non contiene immagini.
+
+
+## Riesame di produzione del 3 ottobre 2026
+
+Questa verifica aggiorna il precedente inventario senza cancellarlo. Prova corrente: `vol-12-final-20261003-proof.pdf`; hash e copertura nel registro `VOL-12-production-visual-checkpoint.json`.
+
+| Asset | Problema | Correzione | Verifica nel Book Studio | Esito |
+| --- | --- | --- | --- | --- |
+| Apparati di M-SP02 | Verifica del contesto dopo le correzioni editoriali | Tabelle di requisiti, prove e schede dei Vigili del fuoco osservate nelle pagine 181–286. Nessuna immagine raster né tag HTML stampato. | Proiezione Book Studio esportata e controllata in PDF; panoramica di tutte le pagine e dettagli indicati | Verificato nel perimetro dichiarato |
+
+La seconda passata ha controllato uniformità, margini, proporzioni e raccordi nelle tavole e nei dettagli. Corpo nominale 11 pt e tabelle 9,5 pt; nessun overflow geometrico o asset mancante. Le tavole panoramiche non equivalgono a lettura a piena risoluzione di ogni pagina. Nessun giudizio di pubblicabilità complessiva: promesse digitali e dati editoriali comuni restano aperti.

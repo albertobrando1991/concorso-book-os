@@ -1,0 +1,38 @@
+[
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+    "before": "f061683817113447573cb54ee7e94bac46c722df63dce70c973f0e820137bc6c",
+    "after": "1addb591bed4d3b94532382b312584704e182a9bcfe6f0e025a44131b49d9e0d",
+    "change": "Scheda a due colonne per scenario, con tutti i campi originari conservati; accento del titolo corretto ove necessario."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+    "before": "37b2084781fd3653ae1146c9ddeee81c3116e5a5fca0b5c0eae88162b297af33",
+    "after": "e64284a7dce72650b96815994ae57a431b8280a5d026b2f765e8976ab7c9e821",
+    "change": "Scheda a due colonne per scenario, con tutti i campi originari conservati; accento del titolo corretto ove necessario."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+    "before": "fe4685499769bd33e63d13524bc24a7e73339848589ae12b1d6ac93908310035",
+    "after": "ab68eefc368b81ff54ea198f1ff03608f6714ccda4547a8e1da2c0fa70aac5e8",
+    "change": "Scheda a due colonne per scenario, con tutti i campi originari conservati; accento del titolo corretto ove necessario."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+    "before": "1590c9d1b8adeb85f9c5bc0df107268b2bffb8b1ac5aba8a8da1e97fd82d01ae",
+    "after": "df2d5754dc6a30cdd66921adc793b9fa8a20dbc7e47db734ca0475783448788b",
+    "change": "Scheda a due colonne per scenario, con tutti i campi originari conservati; accento del titolo corretto ove necessario."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+    "before": "707bae236a8373ca4d9cd6a816da5589bfea852baea4b5a16737a7924c285d85",
+    "after": "b625abac49bc04c9d2d8d79a100bd33957c394deb564f2f69b4ecb32e9a89723",
+    "change": "Scheda a due colonne per scenario, con tutti i campi originari conservati; accento del titolo corretto ove necessario."
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+    "before": "47a4e9422ab2e825a2db812de1459c2922524e22f7dacbd015a1f9f11d75cd91",
+    "after": "1057481a1aa0bffbf76391086aef88ab538549f11fd90dee82ea54625c99bca5",
+    "change": "Accento del titolo corretto: evita la duplicazione dell’intestazione."
+  }
+]

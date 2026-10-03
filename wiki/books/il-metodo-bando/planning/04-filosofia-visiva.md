@@ -5,7 +5,7 @@ title: Bussola Operativa — Filosofia visiva VOL-01
 status: canonical
 volume_code: VOL-01
 book_id: il-metodo-bando
-updated_at: 2026-08-21
+updated_at: 2026-10-03
 created_at: 2026-08-21
 review_required: false
 ---
@@ -20,6 +20,8 @@ Colore e materia richiamano un taccuino istituzionale usato davvero: Navy per st
 
 Scala e ritmo alternano orientamento, comprensione e applicazione. Le aperture di parte danno respiro; la teoria mantiene un passo regolare; checklist, quiz e schede introducono accelerazioni controllate. Garamond sostiene il corpo esteso, Arial rende immediati titoli, etichette e strumenti. La varietà nasce dalla funzione, non dal cambio arbitrario di stile: una pagina densa deve essere seguita da una pagina capace di restituire sintesi o azione.
 
-La composizione usa una gerarchia chiara e un asse dominante. Il testo dentro mappe e immagini è ridotto a parole chiave, verbi operativi, numeri e riferimenti indispensabili; spiegazioni, eccezioni e fonti rimangono nel testo o in didascalia. Tabelle ed esercizi non superano tre colonne compatte; quando il contenuto eccede, si divide la struttura invece di ridurre il carattere. L'equilibrio tra teoria e strumenti deve rendere il manuale consultabile senza frammentare il discorso.
+La composizione usa una gerarchia chiara e un asse dominante. Il testo dentro mappe e immagini è ridotto a parole chiave, verbi operativi, numeri e riferimenti indispensabili; spiegazioni, eccezioni e fonti rimangono nel testo o in didascalia. Tabelle ed esercizi privilegiano due o tre colonne; quattro sono ammesse per campi brevi e verificati sulla pagina. Quando il contenuto eccede, si divide la struttura conservando intestazioni, relazioni e corpo minimo di 9,5 punti. L'equilibrio tra teoria e strumenti deve rendere il manuale consultabile senza frammentare il discorso.
+
+Il controllo del 3 ottobre applica questi criteri alle diciannove figure corrette: relazioni normative coerenti con il testo, nessuna sequenza procedurale implicita errata e nessuna percentuale presentata come universale. Le immagini occupano la larghezza utile della colonna quando serve a rendere leggibili le etichette; il limite di altezza deve lasciar posto alla didascalia. L'assenza di tagli sul file sorgente non dimostra leggibilità nel PDF: la resa reale viene verificata nello step successivo e nell'audit di impaginazione.
 
 L'esecuzione professionale richiede allineamenti sul reticolo, spessori uniformi, margini sicuri, contrasto verificato, didascalie puntuali e controllo alla dimensione reale di stampa. Bussola Operativa è compatibile con il design system ConcorsoBook OS e con il formato KDP 6,69 × 9,61 pollici: corpo Garamond 11 pt, gerarchie e strumenti in Arial, margine interno 23 mm, esterno 12-13 mm, alto e basso 18 mm, nessun bleed salvo decisione esplicita sull'intero interno. Questa filosofia guida diagrammi, mappe, schede ed esercizi senza imporre un template rigido: se il testo è già chiaro, non si aggiunge un asset; se una visualizzazione riduce davvero il carico cognitivo, viene progettata e verificata con meticolosità.

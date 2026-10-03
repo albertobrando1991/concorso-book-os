@@ -9,7 +9,7 @@ entities: ["AGCM", "ARERA", "AGCOM", "CONSOB", "Banca d'Italia", "IVASS", "Garan
 source_refs: ["sources/vol-05-dossier-editoriale-authority-regolazione-v4.md", "sources/vol-05-bandi-authority-2022-2025.md", "sources/m-fc05-verifica-normativa-2026-07-29.md", "sources/authority-indipendenti-leggi-istitutive.md", "sources/regolazione-ue-digitale-e-finanziaria-vol-05.md"]
 book_refs: ["il-metodo-bando", "m-fc05-authority-indipendenti"]
 confidence: 0.85
-updated_at: 2026-08-22
+updated_at: 2026-10-03
 created_at: 2026-07-24
 review_required: true
 canonical: true
@@ -191,3 +191,7 @@ Capitolo 15: simulazioni, rubriche, piano di allenamento e conclusione operativa
 | CONSOB, Banca d'Italia, IVASS | Modulo 3 | completo con review bandi | TUF e [[sources/regolazione-ue-digitale-e-finanziaria-vol-05]] |
 | Garante e ANAC | Modulo 4 | completo per outline; review normativa | GDPR, fonti ANAC e bandi |
 | AIFA | escluso | rinvio da decidere | review di tassonomia |
+
+## Versione del 3 ottobre 2026
+
+Quindici capitoli; percorsi G giuridico, E economico-regolatorio e P giuridico-economico. Novanta quesiti aperti specifici, quindici casi finali e dieci simulazioni svolte con dossier, tre prove economiche numeriche e memo inglese. Il capitolo 1 contiene rinvii puntuali al base e piani di studio alternativi. Il perimetro non comprende un corso avanzato di econometria né ogni materia di qualsiasi bando.

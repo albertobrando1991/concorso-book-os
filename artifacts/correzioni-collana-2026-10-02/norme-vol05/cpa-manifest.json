@@ -1,0 +1,65 @@
+[
+  {
+    "article": 14,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=4&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=14&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\cpa-art14.html",
+    "sha256": "8fcb1d871acebf36ed20536db644c44be513953e7efcb25ebb0c0eb07eb22c74",
+    "characters": 715,
+    "readComplete": true,
+    "verifiedAt": "2026-10-03"
+  },
+  {
+    "article": 29,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=9&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=29&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\cpa-art29.html",
+    "sha256": "257cf7a1ef140b8b6d4853eca6476be212fa0c66b442fc9dcfd1b36c628f3921",
+    "characters": 173,
+    "readComplete": true,
+    "verifiedAt": "2026-10-03"
+  },
+  {
+    "article": 112,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=31&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=112&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\cpa-art112.html",
+    "sha256": "9f252d8352c484bdf6b777d08cc507d081b4c4edb141f02f29ba45fe13dbb2ba",
+    "characters": 1736,
+    "readComplete": true,
+    "verifiedAt": "2026-10-03"
+  },
+  {
+    "article": 119,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=16&art.idGruppo=35&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=119&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\cpa-art119.html",
+    "sha256": "c181c197d4f22bb80faed97eda7edad17d21a8777e262ed89e6c1c2da8e7f582",
+    "characters": 8530,
+    "readComplete": true,
+    "verifiedAt": "2026-10-03"
+  },
+  {
+    "article": 133,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=15&art.idGruppo=39&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=133&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\cpa-art133.html",
+    "sha256": "a9fe0a4e57ba8a681fffb8d42ceff24d21329b258da108e44f44292993dc7ab9",
+    "characters": 10730,
+    "readComplete": true,
+    "verifiedAt": "2026-10-03"
+  },
+  {
+    "article": 134,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=39&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=134&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\cpa-art134.html",
+    "sha256": "32673b4cea7849d2f6d32ae729ca8cc1b46a228e4394bf0f94053e915fa1ebf4",
+    "characters": 801,
+    "readComplete": true,
+    "verifiedAt": "2026-10-03"
+  },
+  {
+    "article": 135,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=15&art.idGruppo=39&art.flagTipoArticolo=2&art.codiceRedazionale=010G0127&art.idArticolo=135&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2010-07-07&art.progressivo=0&",
+    "path": "wiki\\raw\\correzioni-vol05-2026-10-03\\cpa-art135.html",
+    "sha256": "957444fe25d150dc3a60edfcbc985928caec38f5dc96d06f5f18ff73e96c39e2",
+    "characters": 5560,
+    "readComplete": true,
+    "verifiedAt": "2026-10-03"
+  }
+]

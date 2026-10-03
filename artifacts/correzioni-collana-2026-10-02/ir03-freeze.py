@@ -1,0 +1,24 @@
+from pathlib import Path
+import re,json,hashlib
+B=Path('wiki/books/moduli/m-ir03-enti-ricerca');A=Path('artifacts/correzioni-collana-2026-10-02');R=Path('wiki/reviews/pipeline/VOL-06');C=Path('wiki/reviews/correzioni-collana-2026-10-02')
+entries=[]
+for p in sorted((B/'chapters').glob('*.md')):
+ t=p.read_text(encoding='utf8');assert 'review_required: false' in t;t=t.replace('draft_stage: specialist-audit-complete','draft_stage: text_frozen');p.write_text(t,encoding='utf8');entries.append({'path':p.as_posix(),'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'status':'text-freeze','date':'2026-10-03'})
+p=B/'index.md';t=p.read_text(encoding='utf8').replace('corrections-applied','text_frozen').replace('module_status: editorial_revision','module_status: text_freeze').replace('correzioni del 3 ottobre applicate; audit specialistico e nuovo PDF da completare.','correzioni e audit specialistico testuale del 3 ottobre conclusi; nuovo PDF da verificare.').replace('I dodici capitoli hanno superato i gate individuali e la revisione trasversale. Il modulo procede ora all\'audit specialistico automatico, al text freeze e ai controlli di volume.','I dodici capitoli hanno completato correzioni e audit specialistico testuale. Il manifest dello step 16 identifica il testo congelato; restano il nuovo PDF e i controlli del volume.');p.write_text(t,encoding='utf8')
+p=B/'planning/02-matrice-copertura-didattica.md';t=p.read_text(encoding='utf8')+'\nChiusura testuale: step 15 passato con zero blocker e warning; manifest corrente dello step 16. PDF separatamente da verificare.\n';p.write_text(t,encoding='utf8')
+manifest={'volume':'VOL-06','module':'M-IR03','date':'2026-10-03','files':entries,'checks':['12 capitoli; 60 nuclei sopra 600 parole; 72 quiz disciplinari.','Calcoli e chiavi verificati, raccordi e Humanizer sui delta completati.','Matrice con evidenze effettive e rinvio al base risolto.','Step15 passato con zero blocker e warning.','Fonti e parti lette dichiarate nelle note aggiornate.'],'limitations':['PDF rigenerato ancora da verificare.','Verifica normativa selettiva, non certificazione di tutti gli atti degli EPR.','IR04 e controlli del volume ancora in corso; nessuna pubblicabilità attestata.']}
+(A/'M-IR03-freeze.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf8')
+p=R/'16-moduli-m-ir03-enti-ricerca.md';arc=C/'archive/pre-correzioni-16-m-ir03.md'
+if not arc.exists() and p.exists():arc.write_bytes(p.read_bytes())
+p.write_text('# M-IR03 — Manifest del testo, 3 ottobre 2026\n\nVerifica manuale; esito CLI registrato separatamente.\n\n'+'\n'.join('- '+x for x in manifest['checks'])+'\n\n| File | Stato | Data | SHA-256 |\n| --- | --- | --- | --- |\n'+'\n'.join('| '+e['path']+' | text-freeze | '+e['date']+' | '+e['sha256']+' |' for e in entries)+'\n\n'+' '.join(manifest['limitations'])+'\n',encoding='utf8')
+mapping={10:([4,11],'CNR 2025: documenti di bilancio, assestamenti e caso quadrato; grant con forme AGA e calcoli. Completa le integrazioni IR02/06–08 già applicate.'),17:([1],'Sostituito il quadro finanziario UE 2018/1046 con 2024/2509 e relativa decorrenza, anche nella fonte.'),18:([2,3],'Distinti ambiti 213/218; principi EPR, statuti CNR/ISTAT, livelli e declaratorie funzionali.'),19:([5],'Eliminati duplicati; conflitto e astensione, deroga EPR delimitata, missione con documenti e saldo, follow-up audit.'),20:([6],'Scelte progettuali ammesse se dichiarate; mini-proposta con dati, strumenti, calendario e rubrica.'),21:([7,8],'h-index con calcolo e limiti; piano tecnico con requisiti, accettazione e regressione.'),22:([9],'Art. 65 CPI vigente, comunicazione e deposito, terzi, brevetto e licenza/cessione spiegati con caso.'),23:([11],'DNSH qualificato come obbligo RRF; adempimenti specifici distinti. Completa la quota IR01 già applicata.'),24:([10,12],'DMP compilato e quattro elaborati con dati, soluzioni, tempi e griglia. Completa la quota IR02/12 già applicata.')}
+batch={}
+for n,(caps,change) in mapping.items():
+ files=[next((B/'chapters').glob(f'{c:02}-*.md')).as_posix() for c in caps]
+ files+=['wiki/sources/fonti-ufficiali-m-ir03-enti-ricerca-2026-07-24.md','wiki/reviews/pipeline/VOL-06/15-moduli-m-ir03-enti-ricerca.md']
+ if n==10:files += [next(Path('wiki/books/moduli/m-ir02-universita-afam/chapters').glob(f'{c:02}-*.md')).as_posix() for c in [6,7,8]]
+ if n==23:files += [next(Path('wiki/books/moduli/m-ir01-scuola/chapters').glob('08-*.md')).as_posix()]
+ if n==24:files += [next(Path('wiki/books/moduli/m-ir02-universita-afam/chapters').glob('12-*.md')).as_posix()]
+ batch[f'V06-{n:02}']={'change':change,'files':files,'evidence':'Fonti ufficiali e limiti di lettura nelle note; calcoli/chiavi/rinvii verificati; gate15 passato. Nuovo PDF ancora da verificare.','status':'applicato'}
+(A/'VOL-06-batch09.json').write_text(json.dumps(batch,ensure_ascii=False,indent=2),encoding='utf8')
+print('IR03 manifest e batch09 pronti')

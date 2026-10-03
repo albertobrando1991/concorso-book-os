@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md"]
 book_refs: ["il-metodo-bando","moduli-specialistici"]
 confidence: 0.9
-updated_at: 2026-08-14T18:25:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -33,9 +33,9 @@ Modulo specialistico collegato a [[books/il-metodo-bando/index|Il Metodo BANDO]]
 ## Perimetro
 - Famiglia: Carriere Speciali
 - Codice modulo: M-SP04
-- Copertura: due carriere ad accesso diretto in qualifica dirigenziale, trattate su binari distinti — carriera prefettizia presso il Ministero dell'Interno e carriera diplomatica presso il Ministero degli Affari Esteri e della Cooperazione Internazionale.
+- Copertura: due carriere speciali con accesso alle rispettive qualifiche iniziali, trattate su binari distinti — carriera prefettizia presso il Ministero dell'Interno e carriera diplomatica presso il Ministero degli Affari Esteri e della Cooperazione Internazionale.
 - Fase roadmap: 4
-- Stato: sette capitoli completi, revisionati e congelati; audit specialistico chiuso senza rilievi aperti.
+- Stato: sette capitoli corretti e audit specialistico del 3 ottobre 2026 concluso; nuovo PDF e revisione di volume necessari.
 
 ## Due binari, non una carriera sola
 Prefettizia e diplomatica condividono il livello di ingresso, l'impianto giuridico-economico delle prove e la centralità della prova orale, ma differiscono su banditore, materie caratterizzanti e peso delle lingue straniere. Il modulo le tratta come binari separati nelle sezioni di mappa, prove, materie specialistiche e piano di studio, e le riunisce solo dove il metodo è davvero comune.
@@ -46,7 +46,7 @@ Restano esclusi i concorsi per funzionario amministrativo del Ministero dell'Int
 ## Confine editoriale
 Il modulo non sostituisce il libro principale. Parte dal nucleo comune del Metodo BANDO e aggiunge profili, prove, materie specialistiche, rischi, fonti e casi tipici della famiglia.
 
-Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Non sostituisce lo studio manualistico delle materie né i corsi di lingua: fornisce mappa, metodo e strategia. Le sezioni normative e specialistiche richiedono source notes consolidate e review umana.
+Non deve promettere copertura totale di ogni bando o aggiornamento normativo automatico. Non sostituisce lo studio manualistico delle materie né i corsi di lingua: fornisce mappa, metodo e strategia. Le sezioni normative e specialistiche derivano da fonti consolidate, con riscontri selettivi e limiti temporali dichiarati.
 
 ## Capitoli
 
@@ -66,4 +66,10 @@ Le fonti specialistiche ufficiali sono raccolte nelle source note dichiarate dai
 
 ## Stato editoriale
 
-I sette capitoli sono stati redatti in formato 2. La matrice contiene 37 nuclei completi; i due accorpamenti rispetto ai nove titoli nominali sono motivati nel piano editoriale.
+I sette capitoli sono stati redatti in formato 2. La matrice contiene 37 nuclei nel perimetro di orientamento, requisiti, prove e metodo; non dichiara coperto l’intero programma teorico delle materie.
+
+## Riuso del metodo della banca dati
+
+Il protocollo del volume base si applica soltanto a una raccolta ufficiale effettivamente pubblicata e identificata per versione. L’annuncio non certifica che il file sia disponibile. Stato della pubblicazione, rettifiche e calendario vanno controllati sul portale della procedura.
+
+Fonte specialistica: [[sources/bandi-carriera-prefettizia-e-diplomatica-m-sp04]]. Sintesi: [[topics/m-sp04-prefettizia-diplomatica-prove]]. Audit: [[reviews/pipeline/VOL-12/15-moduli-m-sp04-prefettizia-diplomatica]].

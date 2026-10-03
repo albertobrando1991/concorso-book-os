@@ -1,0 +1,20 @@
+{
+  "V06-12": {
+    "change": "Spiegati Learning Agreement, Transcript of Records, riconoscimento con caso 18/12 crediti; tirocinio curriculare con ruoli, documenti, attivazione e caso UniBo identificato.",
+    "files": [
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+      "wiki/sources/fonti-ufficiali-m-ir02-universita-afam-2026-07-24.md"
+    ],
+    "evidence": "Linee guida ufficiali KA131 e procedura UniBo lette; distinzione accordo/risultati e convenzione/progetto applicata al caso.",
+    "status": "applicato"
+  },
+  "V06-34": {
+    "change": "Separati i titoli bibliografici dal testo delle voci nei capitoli 09 e 10.",
+    "files": [
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md"
+    ],
+    "evidence": "Heading H2 ora autonomi; liste bibliografiche nel corpo. Nuovo PDF da controllare.",
+    "status": "applicato"
+  }
+}

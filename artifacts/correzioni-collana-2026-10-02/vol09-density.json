@@ -1,0 +1,706 @@
+[
+  {
+    "file": "01-quattro-profili-ciclo-integrato.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 4999,
+      "nuclei": [
+        {
+          "id": "N-TR02-01-01",
+          "heading": "N-TR02-01-01 · Profili, perimetro e lettura del bando",
+          "words": 1074,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-01-02",
+          "heading": "N-TR02-01-02 · Ciclo contrattuale e specialista appalti",
+          "words": 1134,
+          "line": 68
+        },
+        {
+          "id": "N-TR02-01-03",
+          "heading": "N-TR02-01-03 · Procurement, PNRR e project management",
+          "words": 909,
+          "line": 126
+        },
+        {
+          "id": "N-TR02-01-04",
+          "heading": "N-TR02-01-04 · Confini di materia e caso integrato",
+          "words": 949,
+          "line": 198
+        },
+        {
+          "id": "N-TR02-01-05",
+          "heading": "N-TR02-01-05 · Classificazione del bando e allenamento",
+          "words": 879,
+          "line": 273
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 3,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "02-governance-rup-fasi-team-qualificazione.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5172,
+      "nuclei": [
+        {
+          "id": "N-TR02-02-01",
+          "heading": "N-TR02-02-01 · Governance e separazione delle funzioni",
+          "words": 829,
+          "line": 4
+        },
+        {
+          "id": "N-TR02-02-02",
+          "heading": "N-TR02-02-02 · Nomina del RUP e responsabili di fase",
+          "words": 1283,
+          "line": 62
+        },
+        {
+          "id": "N-TR02-02-03",
+          "heading": "N-TR02-02-03 · Qualificazione e matrice RACI",
+          "words": 1468,
+          "line": 113
+        },
+        {
+          "id": "N-TR02-02-04",
+          "heading": "N-TR02-02-04 · Competenze mancanti e scelta organizzativa",
+          "words": 812,
+          "line": 178
+        },
+        {
+          "id": "N-TR02-02-05",
+          "heading": "N-TR02-02-05 · Verifica dei ruoli e costruzione della RACI",
+          "words": 724,
+          "line": 247
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 3,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "03-strategia-fabbisogni-programmazione.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5537,
+      "nuclei": [
+        {
+          "id": "N-TR02-03-01",
+          "heading": "N-TR02-03-01 · Fabbisogno, dati e nota istruttoria",
+          "words": 924,
+          "line": 4
+        },
+        {
+          "id": "N-TR02-03-02",
+          "heading": "N-TR02-03-02 · Programmazione e scelta dei lotti",
+          "words": 961,
+          "line": 74
+        },
+        {
+          "id": "N-TR02-03-03",
+          "heading": "N-TR02-03-03 · Valore stimato, opzioni e strategia",
+          "words": 1753,
+          "line": 154
+        },
+        {
+          "id": "N-TR02-03-04",
+          "heading": "N-TR02-03-04 · Confronto delle opzioni e priorità",
+          "words": 994,
+          "line": 262
+        },
+        {
+          "id": "N-TR02-03-05",
+          "heading": "N-TR02-03-05 · KPI, decisione e nota di fabbisogno",
+          "words": 853,
+          "line": 338
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 2,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "04-progettazione-gara-documenti.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 6426,
+      "nuclei": [
+        {
+          "id": "N-TR02-04-01",
+          "heading": "N-TR02-04-01 · Decisione di contrarre e documenti",
+          "words": 1430,
+          "line": 4
+        },
+        {
+          "id": "N-TR02-04-02",
+          "heading": "N-TR02-04-02 · Requisiti, esclusioni, RTI e avvalimento",
+          "words": 1669,
+          "line": 96
+        },
+        {
+          "id": "N-TR02-04-03",
+          "heading": "N-TR02-04-03 · Criteri, soccorso e specifiche tecniche",
+          "words": 1473,
+          "line": 197
+        },
+        {
+          "id": "N-TR02-04-04",
+          "heading": "N-TR02-04-04 · Proporzionalità: correggere il caso",
+          "words": 926,
+          "line": 284
+        },
+        {
+          "id": "N-TR02-04-05",
+          "heading": "N-TR02-04-05 · Controllo del fascicolo e matrice requisiti",
+          "words": 876,
+          "line": 360
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 2,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "05-sotto-soglia-procurement-operativo.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5362,
+      "nuclei": [
+        {
+          "id": "N-TR02-05-01",
+          "heading": "N-TR02-05-01 · Soglie europee e percorsi nazionali",
+          "words": 1288,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-05-02",
+          "heading": "N-TR02-05-02 · Procedure, rotazione e casi di confine",
+          "words": 1043,
+          "line": 86
+        },
+        {
+          "id": "N-TR02-05-03",
+          "heading": "N-TR02-05-03 · Motivazione e controlli dei requisiti",
+          "words": 1234,
+          "line": 136
+        },
+        {
+          "id": "N-TR02-05-04",
+          "heading": "N-TR02-05-04 · Istruttoria e scelta nel caso concreto",
+          "words": 881,
+          "line": 215
+        },
+        {
+          "id": "N-TR02-05-05",
+          "heading": "N-TR02-05-05 · Errori, verifiche e riepilogo operativo",
+          "words": 864,
+          "line": 285
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 3,
+      "quizzes": 8,
+      "cases": 2
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5165,
+      "nuclei": [
+        {
+          "id": "N-TR02-06-01",
+          "heading": "N-TR02-06-01 · Funzioni del ciclo digitale",
+          "words": 937,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-06-02",
+          "heading": "N-TR02-06-02 · PAD, banche dati e pubblicità",
+          "words": 1743,
+          "line": 94
+        },
+        {
+          "id": "N-TR02-06-03",
+          "heading": "N-TR02-06-03 · Qualità del dato e continuità operativa",
+          "words": 763,
+          "line": 200
+        },
+        {
+          "id": "N-TR02-06-04",
+          "heading": "N-TR02-06-04 · Gestione degli errori e verifiche",
+          "words": 830,
+          "line": 253
+        },
+        {
+          "id": "N-TR02-06-05",
+          "heading": "N-TR02-06-05 · Ricostruire il flusso del fascicolo",
+          "words": 840,
+          "line": 314
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 2,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "07-consip-mepa-aq-sdapa-asp.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5928,
+      "nuclei": [
+        {
+          "id": "N-TR02-07-01",
+          "heading": "N-TR02-07-01 · Obblighi, categorie e deroghe",
+          "words": 1759,
+          "line": 4
+        },
+        {
+          "id": "N-TR02-07-02",
+          "heading": "N-TR02-07-02 · Convenzioni, accordi quadro e MePA",
+          "words": 1164,
+          "line": 100
+        },
+        {
+          "id": "N-TR02-07-03",
+          "heading": "N-TR02-07-03 · Negoziazioni, SDA e gare in ASP",
+          "words": 1105,
+          "line": 165
+        },
+        {
+          "id": "N-TR02-07-04",
+          "heading": "N-TR02-07-04 · Scelta dello strumento nel caso concreto",
+          "words": 942,
+          "line": 221
+        },
+        {
+          "id": "N-TR02-07-05",
+          "heading": "N-TR02-07-05 · Esercizi e verifica degli strumenti",
+          "words": 904,
+          "line": 300
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 5,
+      "quizzes": 7,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "08-governo-esecuzione.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5220,
+      "nuclei": [
+        {
+          "id": "N-TR02-08-01",
+          "heading": "N-TR02-08-01 · Avvio della fase esecutiva",
+          "words": 693,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-08-02",
+          "heading": "N-TR02-08-02 · Documenti e controlli della prestazione",
+          "words": 750,
+          "line": 54
+        },
+        {
+          "id": "N-TR02-08-03",
+          "heading": "N-TR02-08-03 · Subappalto, modifiche e sospensioni",
+          "words": 1071,
+          "line": 134
+        },
+        {
+          "id": "N-TR02-08-04",
+          "heading": "N-TR02-08-04 · Prezzi, pagamenti e chiusura",
+          "words": 1250,
+          "line": 176
+        },
+        {
+          "id": "N-TR02-08-05",
+          "heading": "N-TR02-08-05 · Decisioni e rimedi nel caso concreto",
+          "words": 700,
+          "line": 231
+        },
+        {
+          "id": "N-TR02-08-06",
+          "heading": "N-TR02-08-06 · Allenamento sui controlli esecutivi",
+          "words": 703,
+          "line": 273
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 4,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "09-rimedi-precontenzioso-contenzioso.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5930,
+      "nuclei": [
+        {
+          "id": "N-TR02-09-01",
+          "heading": "N-TR02-09-01 · Qualificazione del problema e accesso",
+          "words": 1372,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-09-02",
+          "heading": "N-TR02-09-02 · Precontenzioso e parere ANAC",
+          "words": 1126,
+          "line": 82
+        },
+        {
+          "id": "N-TR02-09-03",
+          "heading": "N-TR02-09-03 · Rimedi esecutivi, ricorso e divieti di stipula",
+          "words": 1579,
+          "line": 169
+        },
+        {
+          "id": "N-TR02-09-04",
+          "heading": "N-TR02-09-04 · Caso di aggiudicazione contestata",
+          "words": 781,
+          "line": 240
+        },
+        {
+          "id": "N-TR02-09-05",
+          "heading": "N-TR02-09-05 · Timeline e scelta del rimedio",
+          "words": 1023,
+          "line": 313
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 2,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "10-pnrr-milestone-target-regis.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5743,
+      "nuclei": [
+        {
+          "id": "N-TR02-10-01",
+          "heading": "N-TR02-10-01 · Architettura del Piano e responsabilità",
+          "words": 1429,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-10-02",
+          "heading": "N-TR02-10-02 · Risultati, indicatori e identificativi",
+          "words": 727,
+          "line": 81
+        },
+        {
+          "id": "N-TR02-10-03",
+          "heading": "N-TR02-10-03 · ReGiS, dati e validazione",
+          "words": 1245,
+          "line": 129
+        },
+        {
+          "id": "N-TR02-10-04",
+          "heading": "N-TR02-10-04 · Controlli, ritardi e chiusura 2026",
+          "words": 1495,
+          "line": 201
+        },
+        {
+          "id": "N-TR02-10-05",
+          "heading": "N-TR02-10-05 · Report di avanzamento e allenamento",
+          "words": 798,
+          "line": 289
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 2,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "11-gestione-finanziaria-rendicontazione-controlli.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 6076,
+      "nuclei": [
+        {
+          "id": "N-TR02-11-01",
+          "heading": "N-TR02-11-01 · Fasi della spesa e identificativi",
+          "words": 868,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-11-02",
+          "heading": "N-TR02-11-02 · Tracciabilità e condizioni di pagamento",
+          "words": 1508,
+          "line": 56
+        },
+        {
+          "id": "N-TR02-11-03",
+          "heading": "N-TR02-11-03 · Fascicolo, conflitti e controlli antifrode",
+          "words": 1364,
+          "line": 134
+        },
+        {
+          "id": "N-TR02-11-04",
+          "heading": "N-TR02-11-04 · Ammissibilità, duplicazioni e rettifiche",
+          "words": 1415,
+          "line": 216
+        },
+        {
+          "id": "N-TR02-11-05",
+          "heading": "N-TR02-11-05 · Riconciliazione e verifiche conclusive",
+          "words": 873,
+          "line": 294
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 3,
+      "quizzes": 6,
+      "cases": 3
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "12-dnsh-cam-procurement-sostenibile.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 7780,
+      "nuclei": [
+        {
+          "id": "N-TR02-12-01",
+          "heading": "N-TR02-12-01 · DNSH: obiettivi e regimi",
+          "words": 1671,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-12-02",
+          "heading": "N-TR02-12-02 · CAM: obblighi minimi e criteri premianti",
+          "words": 1757,
+          "line": 102
+        },
+        {
+          "id": "N-TR02-12-03",
+          "heading": "N-TR02-12-03 · Verifica ambientale e caso notebook",
+          "words": 1732,
+          "line": 220
+        },
+        {
+          "id": "N-TR02-12-04",
+          "heading": "N-TR02-12-04 · Fascicolo ambientale e non conformità",
+          "words": 1228,
+          "line": 309
+        },
+        {
+          "id": "N-TR02-12-05",
+          "heading": "N-TR02-12-05 · Caso arredi e allenamento conclusivo",
+          "words": 1342,
+          "line": 411
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 2,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "13-project-management-pubblico.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 5649,
+      "nuclei": [
+        {
+          "id": "N-TR02-13-01",
+          "heading": "N-TR02-13-01 · Charter, output e benefici",
+          "words": 1053,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-13-02",
+          "heading": "N-TR02-13-02 · Pianificazione, dipendenze e rischi",
+          "words": 908,
+          "line": 61
+        },
+        {
+          "id": "N-TR02-13-03",
+          "heading": "N-TR02-13-03 · Modifiche, report e chiusura",
+          "words": 847,
+          "line": 121
+        },
+        {
+          "id": "N-TR02-13-04",
+          "heading": "N-TR02-13-04 · Decisioni sul progetto in ritardo",
+          "words": 695,
+          "line": 183
+        },
+        {
+          "id": "N-TR02-13-05",
+          "heading": "N-TR02-13-05 · WBS e calendario: soluzione completa",
+          "words": 1211,
+          "line": 232
+        },
+        {
+          "id": "N-TR02-13-06",
+          "heading": "N-TR02-13-06 · Laboratorio di verifica del progetto",
+          "words": 881,
+          "line": 320
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 3,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  },
+  {
+    "file": "14-laboratorio-atti-casi-simulazioni.md",
+    "metrics": {
+      "formatVersion": 2,
+      "chapterWords": 7355,
+      "nuclei": [
+        {
+          "id": "N-TR02-14-01",
+          "heading": "N-TR02-14-01 · Lettura dei fatti e metodo di risposta",
+          "words": 879,
+          "line": 2
+        },
+        {
+          "id": "N-TR02-14-02",
+          "heading": "N-TR02-14-02 · Simulazioni di programmazione e affidamento",
+          "words": 1680,
+          "line": 73
+        },
+        {
+          "id": "N-TR02-14-03",
+          "heading": "N-TR02-14-03 · Simulazioni di esecuzione, rimedi e PNRR",
+          "words": 1523,
+          "line": 166
+        },
+        {
+          "id": "N-TR02-14-04",
+          "heading": "N-TR02-14-04 · Recupero del ritardo e decisioni",
+          "words": 1005,
+          "line": 253
+        },
+        {
+          "id": "N-TR02-14-05",
+          "heading": "N-TR02-14-05 · Autovalutazione, diario e piano di studio",
+          "words": 1562,
+          "line": 331
+        },
+        {
+          "id": "N-TR02-14-06",
+          "heading": "N-TR02-14-06 · Kit cartaceo per atti e aggiornamenti",
+          "words": 642,
+          "line": 468
+        }
+      ],
+      "malformedNucleusHeadings": [],
+      "verificationBlocks": 2,
+      "maxConsecutiveNuclei": 4,
+      "quizzes": 6,
+      "cases": 1
+    },
+    "gate": {
+      "passed": true,
+      "blockers": [],
+      "warnings": []
+    }
+  }
+]

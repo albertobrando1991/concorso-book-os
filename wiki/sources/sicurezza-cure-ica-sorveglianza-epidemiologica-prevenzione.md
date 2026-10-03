@@ -9,7 +9,7 @@ entities: ["Ministero della Salute", "Istituto Superiore di Sanità", "Azienda s
 source_refs: []
 book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.89
-updated_at: 2026-07-31T18:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-28T22:00:00+02:00
 review_required: true
 canonical: true
@@ -56,6 +56,14 @@ Riferimenti ufficiali controllati il 31 luglio 2026:
 - ISS EpiCentro, [Piano nazionale della prevenzione 2026–2031](https://www.epicentro.iss.it/piano_prevenzione/pnp-2026-2031), pagina del 9 luglio 2026.
 
 ## Uso editoriale
+
+## Fondamenti assistenziali e prevenzione: integrazione del 3 ottobre 2026
+
+Fonti primarie aggiuntive: [OMS, strumenti per l'igiene delle mani](https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene/implementation-tools); [CDC, precauzioni](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html); [CDC, prevenzione delle infezioni urinarie da catetere](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html); [NANDA, fondamenti e diagnosi infermieristica](https://nanda.org/fundamentals-of-nursing/).
+
+Consolidati per SA02/04: cinque momenti OMS prima del contatto, prima di procedura pulita/asettica, dopo rischio di esposizione a liquidi biologici, dopo contatto e dopo contatto con l'ambiente della persona; guanti non sostitutivi dell'igiene. Precauzioni standard per ogni persona assistita; misure aggiuntive per contatto, droplet o via aerea secondo agente e rischio, senza attendere necessariamente la conferma microbiologica. Prevenzione delle infezioni da catetere urinario: indicazione appropriata e durata minima, inserzione asettica da personale competente, circuito chiuso, flusso libero, sacca sotto il livello vescicale e non a terra, igiene mani e controllo dell'indicazione. Non vengono inserite istruzioni tecniche di cateterismo né cadenze universali di sostituzione.
+
+La diagnosi infermieristica esprime un giudizio sulla risposta umana a condizioni/processi di vita e sulla vulnerabilità a tale risposta. Si distingue dalla diagnosi medica di malattia; orienta interventi ed esiti assistenziali. Gli esempi del capitolo sono formulazioni didattiche originali, non trascrizioni della tassonomia NANDA. Le scale sono trattate per funzione — dolore, autonomia, rischio — senza riprodurre questionari protetti, soglie o traduzioni non validate. Il punteggio non sostituisce accertamento e giudizio professionale.
 
 - Base per `SA02-01`, `SA02-02`, `SA02-03` e `SA02-06`.
 - Supporta casi su identificazione del paziente, farmaci, cadute, eventi sentinella, ICA, allerta e indicatori.

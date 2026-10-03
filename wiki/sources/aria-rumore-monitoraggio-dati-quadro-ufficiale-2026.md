@@ -10,7 +10,7 @@ source_refs: ["sources/m-tr04-source-bundle-ambiente-protezione-civile-2026", "s
 book_refs: ["vol-11-ambiente-protezione-civile-sostenibilita", "m-tr04-ambiente-protezione-civile"]
 confidence: 0.93
 created_at: 2026-08-13
-updated_at: 2026-08-13
+updated_at: 2026-10-03
 review_required: true
 canonical: true
 tags: ["source", "m-tr04", "aria", "rumore", "monitoraggio", "dati", "2026"]
@@ -46,7 +46,7 @@ La disciplina usa categorie con funzione diversa: valori limite, valori obiettiv
 
 Zonizzazione e classificazione del territorio orientano il sistema di valutazione. La rete non è una somma casuale di centraline: ubicazione, tipologia delle stazioni, inquinanti, copertura temporale, misure fisse, tecniche di modellizzazione e stima obiettiva sono combinati secondo il programma di valutazione. Regioni e province autonome adottano piani e misure nei casi previsti, nel quadro delle competenze e dell'organizzazione territoriale. ARPA/APPA svolgono le attività tecniche attribuite dall'ordinamento applicabile; ISPRA e SNPA sostengono omogeneità, qualità e coordinamento.
 
-Il sistema considera, tra gli altri, particolato PM10 e PM2,5, biossido di azoto e ossidi di azoto, ozono, biossido di zolfo, benzene, monossido di carbonio, piombo, arsenico, cadmio, nichel e benzo(a)pirene. Nel manuale non va inserita una tabella numerica destinata a invecchiare: il candidato deve saper individuare inquinante, indicatore, periodo di mediazione, valore pertinente, qualità del dato ed effetto del confronto.
+Il sistema considera, tra gli altri, particolato PM10 e PM2,5, biossido di azoto e ossidi di azoto, ozono, biossido di zolfo, benzene, monossido di carbonio, piombo, arsenico, cadmio, nichel e benzo(a)pirene. Il riesame del 3 ottobre 2026 richiede esempi numerici datati e verificati, senza presentarli come limiti eterni: il candidato deve saper individuare inquinante, indicatore, periodo di mediazione, valore pertinente, qualità del dato ed effetto del confronto.
 
 ## Transizione europea 2024-2026
 
@@ -95,3 +95,7 @@ Il decisore deve separare osservazione e attribuzione causale. Il monitoraggio p
 - Verificare legge regionale, classificazione acustica, regolamenti e riparto locale prima di localizzare un caso.
 - Sottoporre a audit tecnico il piano di monitoraggio, la rappresentatività, i metodi, QA/QC e la validazione.
 
+
+## Raccordo del 3 ottobre 2026
+
+Per i delta puntuali prevalgono [[sources/vol-11-ambiente-rettifiche-2026-10-03]], [[sources/vol-11-rifiuti-controlli-rettifiche-2026-10-03]] e [[sources/vol-11-energia-sostenibilita-verifica-2026-10-03]], secondo materia. Le attestazioni precedenti non equivalgono a verifica integrale di tutti gli atti correnti.

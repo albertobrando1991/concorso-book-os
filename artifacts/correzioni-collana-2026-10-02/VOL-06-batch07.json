@@ -1,0 +1,18 @@
+{
+  "V06-15": {
+    "change": "Corretta la congiunzione del quiz2, mantenuto il predicato plurale.",
+    "files": [
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+    ],
+    "evidence": "Rilettura sintattica di domanda, opzioni e commento.",
+    "status": "applicato"
+  },
+  "V06-16": {
+    "change": "Riformulato quiz3 nel regime dei costi reali: budget e variazioni consentite, ulteriori condizioni del grant; commentati tutti i distrattori e distinti i costi semplificati.",
+    "files": [
+      "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md"
+    ],
+    "evidence": "Confronto con fonte grant consolidata: modifiche secondo accordo; chiaveC coerente con commento.",
+    "status": "applicato"
+  }
+}

@@ -114,7 +114,15 @@ function inspectChapter(file) {
   const sections = new Map(matches.map((match, index) => [match[1], content.slice(match.index + match[0].length, index + 1 < matches.length ? matches[index + 1].index : content.length)]))
   const malformed = [...content.matchAll(/^## (N-[^\s\u00b7]+).*$/gm)].map((match) => match[1]).filter((id) => !/^N-TR01-\d{2}-\d{2}$/.test(id))
   const sourceRefs = [...((/^source_refs:\s*\[([^\]]*)\]/m.exec(content)?.[1] || '').matchAll(/["']([^"']+)["']/g))].map((match) => match[1])
-  return { file, number, nucleusIds, titles, sections, sourceRefs, content, apparatus: parseVerificationApparatus(content), malformed, ...analyzeDidacticDensity(content) }
+  const staffRelative = `planning/verifiche/${file}`
+  const staffPath = path.join(moduleRoot, staffRelative)
+  const inline = parseVerificationApparatus(content)
+  const external = fs.existsSync(staffPath) ? parseVerificationApparatus(stripFenced(fs.readFileSync(staffPath, "utf8"))) : null
+  const apparatus = external
+    ? { ...external, count: external.count + inline.count, units: inline.units }
+    : inline
+  const apparatusLocation = `${external ? staffRelative : `chapters/${file}`}#apparato-di-verifica-dei-nuclei`
+  return { file, number, nucleusIds, titles, sections, sourceRefs, content, apparatus, apparatusLocation, malformed, ...analyzeDidacticDensity(content) }
 }
 function parseVerificationApparatus(content) {
   const markers = [...content.matchAll(/^## Apparato di verifica dei nuclei\s*$/gm)]
@@ -294,7 +302,7 @@ function matchesAtomicVerificationCounts(row) {
   return actual.quizzes === row.verificationCounts.quizzes && actual.cases === row.verificationCounts.cases && actual.exercises === row.verificationCounts.exercises
 }
 function validVerificationAttestation(record, chapter) {
-  return Boolean(record.target && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && record.gateId === 'step-15' && record.sourceLocation === `chapters/${chapter.file}#apparato-di-verifica-dei-nuclei` && chapter.apparatus.rows.some((row) => row.id === record.nucleusId && normalizeApparatus(row.target) === normalizeApparatus(record.target)))
+  return Boolean(record.target && typeof record.reviewer === 'string' && record.reviewer.trim().length > 0 && record.gateId === 'step-15' && record.sourceLocation === chapter.apparatusLocation && chapter.apparatus.rows.some((row) => row.id === record.nucleusId && normalizeApparatus(row.target) === normalizeApparatus(record.target)))
 }
 
 function validDidacticAttestation(record, chapter, section) {

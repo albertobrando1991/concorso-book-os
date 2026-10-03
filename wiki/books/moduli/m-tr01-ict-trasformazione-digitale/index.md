@@ -1,31 +1,31 @@
 ---
 id: m-tr01-ict-trasformazione-digitale
 type: specialist_module
-title: "M-TR01 - ICT e trasformazione digitale"
-status: publication-ready
+title: "M-TR01 — ICT e trasformazione digitale"
+status: text_frozen
 domain: "concorsi pubblici italiani"
 topics: ["ict", "trasformazione digitale", "cybersecurity", "dati", "intelligenza artificiale", "metodo bando"]
 entities: ["Metodo BANDO", "AgID", "Agenzia per la cybersicurezza nazionale"]
-source_refs: ["sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/logica-volumi-copertura-concorsobook-v4"]
+source_refs: ["sources/ict-rettifiche-specialistiche-2026-10-03", "sources/modulo-m-tr01-ict-digitale-cybersecurity-dati-vol-08", "sources/campione-bandi-ict-pa-vol-08-2024-2026", "sources/logica-volumi-copertura-concorsobook-v4"]
 book_refs: ["il-metodo-bando", "vol-08-ict-digitale-cybersecurity-dati"]
 confidence: 0.9
-updated_at: 2026-08-12
+updated_at: 2026-10-03
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
-tags: ["specialist-module", "module-family-trasversali", "module-code-m-tr01", "publication-ready"]
+tags: ["specialist-module", "module-family-trasversali", "module-code-m-tr01", "text_frozen"]
 book_id: m-tr01-ict-trasformazione-digitale
 module_code: M-TR01
 module_family: trasversali
 module_family_title: "Trasversali"
-module_status: publication-ready
+module_status: text_frozen
 roadmap_phase: "2"
 companion_to: il-metodo-bando
-draft_stage: publication-ready
+draft_stage: text_frozen
 last_compiled_from: ["wiki/books/volumi/vol-08-ict-digitale-cybersecurity-dati/planning/01-indice-completo.md", "wiki/books/moduli/m-tr01-ict-trasformazione-digitale/planning/02-matrice-copertura-didattica.md"]
 ---
 
-# M-TR01 - ICT e trasformazione digitale
+# M-TR01 — ICT e trasformazione digitale
 
 ## Ruolo del modulo
 
@@ -72,7 +72,7 @@ La promessa è trasformare le materie ICT del bando in nuclei di studio, eserciz
 ## Confini e rinvii
 
 - Il nucleo PA comune resta in VOL-01, nelle destinazioni puntuali della matrice.
-- M-TR01 tratta il delta tecnico dell'acquisto ICT. [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/index#Perimetro|M-TR02]] è solo un instradamento di catalogo finché resta incompleto.
+- M-TR01 tratta il delta tecnico dell'acquisto ICT. [[books/moduli/m-tr02-appalti-pnrr-fondi-ue/index|M-TR02, nel VOL-09]], sviluppa procedure e gestione contrattuale: usa l’indice per selezionare il capitolo pertinente al bando.
 - Infrastrutture fisiche, ambiente e carriere speciali restano nei rispettivi moduli.
 
 ## Pianificazione e controllo
@@ -83,7 +83,7 @@ La promessa è trasformare le materie ICT del bando in nuclei di studio, eserciz
 
 ## Stato editoriale
 
-I capitoli 01-13 hanno completato i gate individuali 08-12. Restano da eseguire revisione trasversale, correzioni, audit specialistico e text freeze del modulo (step 13-16), le verifiche visive (step 17-18) e l'audit di impaginazione (step 19-20), prima dei gate finali di volume e della conferma umana dello step 24.
+I tredici capitoli sono verificati e congelati al 3 ottobre 2026 dopo le correzioni dei 32 rilievi dell’audit integrale. I gate 14 e 15 sono superati e il freeze 16 è documentato con hash e controllo manuale previsto dal CLI. Restano da verificare figure, PDF aggiornato e gate finali di produzione: questo stato non è una dichiarazione di pubblicabilità.
 
 <!-- format-2-analytical-index:start -->
 

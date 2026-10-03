@@ -47,3 +47,7 @@ Il capitolo deve distinguere: ricavo/incasso; costo/pagamento; capitale/reddito;
 ## Note di review
 
 Verificare prima della pubblicazione schemi civilistici, limiti dimensionali, principi OIC applicabili e disciplina fiscale vigente. Gli esempi contabili sono didattici e non sostituiscono la ricostruzione completa di IVA, ritenute e altri oneri.
+
+## Rettifiche del 3 ottobre 2026
+
+OIC 16, paragrafi 56 e seguenti: ammortamento delle immobilizzazioni materiali a utilità limitata; i terreni di regola non si ammortizzano, salvo utilità esauribile (cave/discariche). OIC 24 per le immateriali; partecipazioni/titoli seguono criteri propri, non quote di ammortamento del cespite. OIC 13 e art. 2426, n. 9: rimanenze al minore fra costo e realizzo desumibile dal mercato. Fonti: [OIC 16](https://www.fondazioneoic.eu/wp-content/uploads/2011/02/2024-03-OIC-16-Immobilizzazioni-materiali.pdf), [OIC 13](https://www.fondazioneoic.eu/wp-content/uploads/2011/02/2017-12-OIC-13-Rimanenze.pdf), coordinati con gli emendamenti definitivi dicembre 2025 già collegati. Per l'analisi didattica si definiscono esplicitamente margine di struttura primario = patrimonio netto − immobilizzazioni nette e secondario = patrimonio netto + passività consolidate − immobilizzazioni nette: convenzioni di riclassificazione, non soglie legali.

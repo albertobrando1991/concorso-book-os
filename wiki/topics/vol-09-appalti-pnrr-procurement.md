@@ -40,3 +40,53 @@ Il topic governa il delta specialistico di M-TR02: procurement e gestione contra
 - [[sources/pnrr-regis-dnsh-monitoraggio-territoriale]] — base operativa per PNRR, ReGiS, DNSH e controlli, con review di misura.
 
 Il dossier orienta la progettazione; fonti normative, bandi, piattaforme e giurisprudenza diventano conoscenza editoriale definitiva solo dopo consolidamento in source note ufficiali.
+
+## Integrazione normativa del 3 ottobre 2026
+
+[[sources/vol-09-governance-contratti-verifica-2026-10-03]] consolida nomina e requisiti RUP, responsabili di procedimento per gruppi di fasi, DEC distinto, qualificazione L/SF, autonomia ed eccezioni art.62. Distinguere importi che selezionano procedura, soglie UE e limiti di qualificazione. Gli esempi devono dichiarare ordinamento e competenze, senza assegnare la liquidazione indistintamente al servizio finanziario.
+
+
+[[sources/vol-09-programmazione-sottosoglia-verifica-2026-10-03]] integra programmi e CUI, valore con opzioni, lotti, procedure art.50, rotazione e controlli art.52. Nei capitoli 3 e 5 usare casi numerici e distinguere importi del testo originario dell'art.14 dalle soglie aggiornate dai regolamenti UE.
+
+- Requisiti, soccorso, RTI, avvalimento e criteri verificati al 3 ottobre 2026: [[sources/vol-09-gara-requisiti-verifica-2026-10-03]].
+
+- Ciclo digitale e pubblicità: [[sources/vol-09-ciclo-digitale-verifica-2026-10-03]].
+
+- Strumenti e obblighi Consip, nuovo DPCM2026: [[sources/vol-09-consip-strumenti-obblighi-2026-10-03]].
+
+## Esecuzione: verifica del 3 ottobre 2026
+
+[[sources/vol-09-esecuzione-verifica-2026-10-03]] consolida subappalto, modifiche, sospensioni, CCT, collaudo, anticipazione e revisione prezzi con decorrenza degli indici TOL.
+
+
+## Accesso e rimedi: verifica del 3 ottobre 2026
+
+[[sources/vol-09-accesso-rimedi-verifica-2026-10-03]] consolida accesso digitale, termini 10/30/32 giorni, eccezioni sotto soglia e rimedi in esecuzione.
+
+
+## Project management: laboratorio verificabile
+
+[[sources/vol-09-project-management-esempi-2026-10-03]]: PM² 3.1, output/outcome/benefici, WBS a tre livelli, Gantt e calcolo originale del percorso critico.
+
+## PNRR: architettura e chiusura 2026
+
+La fonte [[sources/vol-09-pnrr-architettura-chiusura-regis-2026-10-03]] consolida missioni, CID/accordi operativi, distinzione qualitativo/quantitativo, calendario UE e ambito delle linee guida 16 aprile 2026, ruoli ReGiS e caso di indicatore non dimostrato. Non confondere risultato, pagamento e caricamento; nessuna proroga generale desunta da facilities o da scadenze di rendicontazione.
+
+## Tracciabilità e controlli finanziari
+
+[[sources/vol-09-tracciabilita-antifrode-spesa-2026-10-03]] collega conti dedicati e filiera, divieto di pagamento fatture prive dei codici obbligatori, conflitto di interessi nel regolamento 2024/2509, titolarità effettiva, irregolarità/frode e calcolo della quota ammissibile. Cap.11, V09-28/29.
+
+## Delta DNSH e CAM — 3 ottobre 2026
+
+[[sources/vol-09-dnsh-cam-casi-verificati-2026-10-03]] consolida regimi DNSH, sei obiettivi, scheda 3 per notebook e CAM arredi: garanzia minima quinquennale, estensione premiale, ritiro imballaggi. Applicazione al capitolo 12 con casi e prove specifiche; evitare equivalenza automatica CAM/DNSH e controllo limitato alle dichiarazioni generiche.
+
+
+## Delta laboratorio — 3 ottobre 2026
+
+[[sources/vol-09-laboratorio-soluzioni-verificate-2026-10-03]] consolida dieci tracce con fatti determinati, soluzioni normative e numeriche, rubriche e piano 30/60/90. Applicazione al capitolo14; soglie ufficiali distinte dai dati inventati per gli esercizi e dagli obiettivi personali di allenamento.
+
+
+## Delta bandi specialistici — 3 ottobre 2026
+
+[[sources/vol-09-bandi-specialistici-verificati-2026-10-03]] documenta CUC Terre del Sole2026, Ca’ Foscari Ufficio Gare2026 e Bologna acquisti5163/2025. Confermati profili appalti avanzati e procurement digitale con programmi e prove effettivamente letti. Nessuna frequenza nazionale inferita; RUP rimane incarico con requisiti, non carriera automaticamente conseguita vincendo un concorso.
+

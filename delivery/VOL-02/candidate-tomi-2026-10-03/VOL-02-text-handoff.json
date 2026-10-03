@@ -1,0 +1,252 @@
+{
+  "chapters": 51,
+  "internalLinksInBody": [],
+  "linksChecked": 89,
+  "invalidLinks": [],
+  "volumeNumbersMismatch": [],
+  "sourceIndexContinuous": true,
+  "wordsByModuleApprox": {
+    "m-fl01-comuni-unioni": 86401,
+    "m-fl02-regioni-province-citta-metropolitane": 78248,
+    "m-fl03-camere-commercio": 26120,
+    "m-fl04-polizia-locale": 77274
+  },
+  "simulation": {
+    "questions": 20,
+    "distribution": {
+      "A": 5,
+      "B": 5,
+      "C": 5,
+      "D": 5
+    },
+    "points": 30,
+    "minutes": 70,
+    "fourSolvedPaths": true
+  },
+  "files": [
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/01-come-usare-vol-02-insieme-a-vol-01.md",
+      "sha256": "52448ebc9d5ff90c86920b9f5832136d6e663eaa0f4b365b3a88e9015fe59105"
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/02-bando-decoder-territoriale.md",
+      "sha256": "84afd4196dfe8b06a9276a07055b155370c5c2cb422c59b6bb22a8d93ee3cf17"
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/03-piano-30-60-90-giorni-vol-02.md",
+      "sha256": "6810a3ab58b0f719391b2e8f3fca4cfcebba8a8f5324a87a95f8e6e5e76dac2a"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/01-tuel-operativo-autonomia-organi-funzioni-comune.md",
+      "sha256": "c52a961fc88e87f428f36e62e67e04538bb36ea9523a99dbfce4ca56bf72a167"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/02-statuto-regolamenti-autonomia-normativa-locale.md",
+      "sha256": "b08aa52e25a39bdf259cee1d67b8e80d888cad8effe704e5eb4223ba71c30174"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/03-organizzazione-comunale-uffici-servizi-gestioni-associate.md",
+      "sha256": "971f582a951294559f2044d62444dc0d854bde73e7eb4a1e81b439c90a4f9804"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/04-deliberazioni-determinazioni-decreti-ordinanze-pareri.md",
+      "sha256": "f1ff49454321effccf883c01897a9cfadf2b250dfb7451fb9a86cd885bfc2792"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/05-procedimento-locale-protocollo-albo-urp-accesso.md",
+      "sha256": "856e1f20ad0bb974db48367c4b2dce9c7b10b9e2b499c993ce8cc452c57eaf90"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/06-servizi-digitali-comunali-cad-anpr-gestione-documentale.md",
+      "sha256": "72084d5e00151be82b06bdf3e38163cfcb868cf313bde809d1f6254039ac6832"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/07-servizi-demografici-elettorali.md",
+      "sha256": "f2aa59f4260dd07f5abfcb5c0570268b510325800fb773281124ee22aac5bda2"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/08-welfare-locale-servizi-sociali-isee-minori-servizi-educativi.md",
+      "sha256": "e6a652df01f9b94ac59f1bf74be2b63e11dea2971d86b9543f7a62d3257ac94e"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/09-programmazione-integrata-comunale-dup-bilancio-peg-piao-performance.md",
+      "sha256": "d420eceaeda95976c663e6028673b8f3986acea99341cee70024e690838071ee"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/10-gestione-finanziaria-rendiconto-tesoreria-controlli.md",
+      "sha256": "47a0c35aa27749476d0741774cfa60b62fecf6882944147ba5161913323ba46d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/11-entrate-tributi-locali-patrimonio-economato-riscossione.md",
+      "sha256": "34753206dfe016f42fd1ed79be6e1433dcf4671fb297cc064772fe2a1d6c2dbe"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/12-procurement-operativo-ufficio-comunale.md",
+      "sha256": "277283bf874b6baae2df8dee7242fdb959bf0585f66d021bcaf1ae23550bc0ce"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/13-territorio-patrimonio-edilizia-lavori-interfaccia-amministrativa.md",
+      "sha256": "bbba572a0795006b016e2f0c874269621c0f6d311436dfea6a430e1f7f0ab715"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl01-comuni-unioni/chapters/14-laboratorio-teorico-pratico-profili-comunali.md",
+      "sha256": "9e8b0631bd6a9d8854254ba5da03423d634c33b1e973c1da0d8136db486b7320"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/01-il-sistema-territoriale-multilivello.md",
+      "sha256": "b8769366b6a8ab1b178cd558f17a202fd020fa039a5d390ef1fa8ba7f9e35619"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/02-statuti-organi-organizzazione-regionale.md",
+      "sha256": "4089a2b939951744d2df28ada6d05e7587000dff553daba67b595ebb1a3e2148"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/03-funzioni-regionali-rapporti-stato-enti-locali.md",
+      "sha256": "26db56b6ffa9a716a146a4642f85ae6f1b607fa6779b67ca62d1529873a01044"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/04-procedimenti-atti-organizzazione-amministrativa-regionale.md",
+      "sha256": "6b6f420603c09f4e96613b6651e32d931905dbcfedd8ccbab24a43b949702d46"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/05-programmazione-bilancio-controlli-regionali.md",
+      "sha256": "2fd6b9ca1f4db19201c42d458a4a72bc5cdcbc9e8710386aa4a80ac31df8560d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/06-tecnica-legislativa-air-vir-drafting.md",
+      "sha256": "3e9626a406e49888f1d31b4e524340299b3f2e9dca9097b6ad3819fbbc51f799"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/07-politiche-coesione-fondi-ue.md",
+      "sha256": "1678c73296fa326731fe06b2b8091e3506a9dd7d32428212f06243078bdee2a3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/08-pnrr-territoriale-regis-dnsh-controlli.md",
+      "sha256": "999db3a2b744e62ad04f8e12460fdfc99e7140fe1a73669ab5d1a48b54ebf84d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/09-province-citta-metropolitane-legge-56-2014.md",
+      "sha256": "64ff4ecc67d82df5d907fa0ec4839767ab2ff6e33fb049ec29b0caff338d96f7"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/10-viabilita-edilizia-scolastica-territorio-espropri.md",
+      "sha256": "a5cec2ff1f905bb1085b48611373deb6ab766e91a076937c51712f8d3d14bfe6"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/11-contratti-servizi-pubblici-locali-societa-partecipate.md",
+      "sha256": "d9a86b0c3476a8b2b6d1f8af472adcb21ea9d239b8420b49c5cb942b79075676"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl02-regioni-province-citta-metropolitane/chapters/12-laboratorio-profili-regionali-area-vasta.md",
+      "sha256": "7707c8f74536b5004d4f80213ad624451f32085c1d3182d959a1abe7d5334cfb"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/01-camere-commercio-sistema-camerale-unioncamere.md",
+      "sha256": "1c0f21ce241f8b26bbece2d69a991bce564979dabe159e124fdf2cf2684bf176"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/02-registro-imprese-rea-pubblicita-legale.md",
+      "sha256": "3fb15605fa8f8b9d0d0d5302b6d720c9ee2a899b2de2cb3ff84b175ce894f986"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/03-servizi-imprese-regolazione-mercato-tutela.md",
+      "sha256": "1ae64ae0c5245d72706701ca06c4608a1266f88600ebf69b29f5a4d63de6a470"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/04-organizzazione-personale-procedimenti-trasparenza-camerale.md",
+      "sha256": "70f14694c053f66fa20800387d3303c41920b12f70327ab8796229d33ded0363"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl03-camere-commercio/chapters/05-laboratorio-bando-camerale.md",
+      "sha256": "b69c727308b50f223810947efa20400a00b4e35eec135a60fbfefcdc5c3fa17e"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/01-diventare-agente-ufficiale-polizia-locale.md",
+      "sha256": "4c134c611033a987b7664575b0ac6ae0baeb3a7610797b650bb7f07b6b7f5743"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/02-ordinamento-nazionale-regionale-polizia-locale.md",
+      "sha256": "580fe6591113b4e7fca9841ff978372533d947fc0b297c864ff008ce759058b8"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/03-qualifiche-poteri-dipendenze-organizzazione-servizio.md",
+      "sha256": "487c1ebcd4198cf48da200140a6d09cdf9931452d128204cce8255cf43a36e1c"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/04-servizi-polizia-stradale.md",
+      "sha256": "1b1c74c6201d012bb8fad4760f8a340f93e25a6f9d0662c024b231688806543b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/05-accertamento-contestazione-notificazione-ricorsi-codice-strada.md",
+      "sha256": "4826c1dbc69a9b0cfca56695cdd4a07cb0f50ba4a126384804aa57f67f461efe"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/06-procedimento-sanzionatorio-amministrativo-applicato.md",
+      "sha256": "ea92667e22988021878bcdf3778ebdc3fb7185c466c3c994f71b44a85871d896"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/07-polizia-giudiziaria-atti-essenziali.md",
+      "sha256": "1fdccb401958726cb8370dd889c744bbf638cbf0b65ee5fdfe1d8a85dc073bb8"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/08-tulps-pubblica-sicurezza-immigrazione.md",
+      "sha256": "0c6fca021f9c95b1b2ebea800f574b36befad03a4690d1576b01d4b28e8e1140"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/09-sicurezza-urbana-ordinanze-coordinamento.md",
+      "sha256": "728b1aa58f111c2c3f5c70eecf6288bae84b00a64eb6765f73b93dd64a293c18"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/10-commercio-pubblici-esercizi-suap.md",
+      "sha256": "92f8eca05ad020f64b5624aac7177375f3edb57519781b58b0390544d414da44"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/11-vigilanza-edilizia-procedimenti-repressivi.md",
+      "sha256": "4c87e7506ace5989926522823028d0477da406dae671310c9e692c45c023b79b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/12-ambiente-rifiuti-rumore-tutela-locale.md",
+      "sha256": "e59e5c247cd876521c0e35cabe01a6cfebb22445a5158d460dfc56855988d5d1"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/13-sinistri-rilievi-gestione-prova.md",
+      "sha256": "becb09c309710257d53b37d638fe5e82181908b1c7a5708d12e8a0e0f1c05ce9"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/14-ufficiale-pl-comando-contenzioso-emergenze.md",
+      "sha256": "dacbca3cf7e699b8d500d5d836bc8f932d1234c4182ed0c0c69112cd26b4334e"
+    },
+    {
+      "path": "wiki/books/moduli/m-fl04-polizia-locale/chapters/15-laboratorio-atti-verbali-polizia-locale.md",
+      "sha256": "14f3de3cf3d8d62852816f02beb67574ad00bf3da3232bf5e707f930511d70db"
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/50-simulazione-finale-vol-02.md",
+      "sha256": "800e81bed95c01f642ee9ed85a6d3936b1398c63a5a20f0bea3f2fec0ab913a8"
+    },
+    {
+      "path": "wiki/books/vol-02-enti-locali-polizia-locale/chapters/51-conclusione-vol-02.md",
+      "sha256": "1cfa22056ab7790a9dd6de1cdf67b0bc3ee27ebedd1689e71be5f6c854c3f2d3"
+    }
+  ],
+  "limits": [
+    "Local two-tome proofs reviewed; see PDF-VOL-02 report",
+    "Common front matter and external print approval unresolved"
+  ],
+  "proofs": [
+    {
+      "id": "tomo-1",
+      "pdf": "tomo-1\\vol-02-tomo-1-proof.pdf",
+      "sha256": "efa04f0b1a7f37bb084a7530928557819938630e5a0f78068f9be0d2e0148d38",
+      "pages": 700,
+      "indexEntries": 177
+    },
+    {
+      "id": "tomo-2",
+      "pdf": "tomo-2\\vol-02-tomo-2-proof.pdf",
+      "sha256": "bddf7e66ca31c3727c08f3ef7437c463a47c5e0563fc9a8422526c933ebd1d68",
+      "pages": 268,
+      "indexEntries": 95
+    }
+  ]
+}

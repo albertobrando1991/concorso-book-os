@@ -9,7 +9,7 @@ entities: ["MUR","Universita","Enti pubblici","Ragioneria generale dello Stato"]
 source_refs: []
 book_refs: ["il-metodo-bando"]
 confidence: 0.91
-updated_at: "2026-05-26T00:00:00+02:00"
+updated_at: 2026-10-03
 created_at: "2026-05-26T00:00:00+02:00"
 review_required: false
 canonical: true
@@ -60,3 +60,18 @@ Questa fonte copre la parte di media priorita su contabilita economico-patrimoni
 
 - Spiegare la contabilita economico-patrimoniale come sostituzione totale della contabilita finanziaria: nei sistemi pubblici spesso coesistono e si raccordano.
 - Attribuire alle universita il D.Lgs. 19/2012 come fonte contabile principale: per il bilancio unico universitario la fonte di riferimento e il D.Lgs. 18/2012.
+
+## Aggiornamento universitario verificato il 3 ottobre 2026
+
+Letto D.Lgs. 18/2012, art. 1, testo vigente, e D.I. MUR-MEF 34 del 15 gennaio 2025, pagine PDF 1–4, 7, 10, 12–13 e 17. Verifica selettiva del decreto di 33 pagine, non certificazione dell'intero manuale tecnico. Fonti: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-01-27;18~art1!vig= ; https://www.mur.gov.it/sites/default/files/2025-01/DI%20n.%2034%20del%2015-01-2025.pdf .
+
+Il bilancio unico annuale di previsione autorizzatorio comprende budget economico e degli investimenti; il triennale conserva queste componenti. Il bilancio di esercizio comprende stato patrimoniale, conto economico, rendiconto finanziario e nota integrativa, con relazione sulla gestione. Per le università comprese nelle amministrazioni pubbliche si aggiungono preventivo finanziario non autorizzatorio e rendiconto finanziario ai fini del consolidamento pubblico. Il consolidato del gruppo è distinto dal bilancio unico.
+
+Il D.I. 34/2025 reca principi e schemi aggiornati: l'art. 10 abroga i precedenti D.I. 19/2014, 394/2017 e 925/2015, da non presentare come disciplina vigente autonoma. Competenza economica distinta dalla cassa; ratei e risconti richiedono quote temporali comuni a più esercizi. Rateo passivo: costo maturato con manifestazione monetaria futura; risconto attivo: costo pagato anticipatamente di competenza futura. Ammortamento ripartisce il costo del bene a utilità pluriennale; i beni culturali non sono assoggettati all'ammortamento ordinario (p. 10). Nei progetti, principi di commessa completata o percentuale di completamento nei casi previsti; gli assestamenti confrontano proventi registrati, non semplicemente anticipi incassati, con costi maturati (p. 13). Non universalizzare lo schema dei contributi privati.
+
+Esercizi originali autorizzati per la didattica: attrezzatura ordinaria di 60.000 euro disponibile dal 1° gennaio, vita cinque anni, valore residuo nullo, quota costante di 12.000; canone di 12.000 per dodici mesi dal 1° ottobre, costo corrente di 3.000 e risconto attivo di 9.000; interesse semestrale ottobre-marzo di 1.200, quota corrente di 600 e rateo passivo di 600. Sono ipotesi didattiche espresse, senza IVA, contributi in conto capitale o altre operazioni. Collegamenti: [[topics/m-ir02-universita-afam-fonti-e-profili]], [[entities/ministero-universita-ricerca]], [[books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo]].
+
+### Evidenze acquisite
+
+- `raw/correzioni-collana-2026-10-02/dlgs18-art1-current.html` — SHA256 7223265f7099e9cab6d10a22dc99c504238b188895b8583002be744eb6052f48.
+- `raw/correzioni-collana-2026-10-02/mur-di34-2025.pdf` — SHA256 970bf3681d7515e2ed884c9c180bfd01a07d54586992a7cd6874aad8650c9533.

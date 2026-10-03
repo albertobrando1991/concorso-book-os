@@ -1,0 +1,17 @@
+[
+  {
+    "path": "wiki/raw/correzioni-fc03-2026-10-03/ccnq-2025-2027.pdf",
+    "sha256": "51b9ffae3071e457a33693444c4a7c33a82b321185dfeba2d297656bcbe3f4de",
+    "size": 349325
+  },
+  {
+    "path": "wiki/raw/correzioni-fc03-2026-10-03/inl-circolare-6-2020.pdf",
+    "sha256": "98a6cb2242dafda1807d9a2ea499af7c53e0f9433f42def754046435271607ba",
+    "size": 1003754
+  },
+  {
+    "path": "wiki/raw/correzioni-fc03-2026-10-03/inps-preventivo-2026.pdf",
+    "sha256": "74ba2452ee96ac2d17c47666783a8fdbe19ac85abd75961d74a6f42a33773b6d",
+    "size": 2221557
+  }
+]

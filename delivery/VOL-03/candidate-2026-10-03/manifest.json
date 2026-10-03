@@ -1,0 +1,1516 @@
+{
+  "mainChapters": 50,
+  "sourceHashes": [
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/01-lavorare-ministeri-funzioni-centrali.md",
+      "sha256": "3337ef20a7241607074de300abb288a8af080cd65f3797e8f2e82e7ff1516931"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/02-anatomia-bando-ministeriale-ripam.md",
+      "sha256": "61eacb5ea533a2161fd97a03b5cda5b0944d531fefbe7767c4af8b103466b1e3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "sha256": "290db404db9f00b3d7a1dcd020cbefb65bdb55566a65c40fddec211f04abec31"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "sha256": "62aeb330546eeeff557c742fd75a9927dfabb562f8ff7f005e656ce6747fdd70"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "sha256": "bfde445695ce9ba12eda761f30d1eaa62713a6ab9c202c54895463b2a305dd7f"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "sha256": "a9ca399edf80b947bdacd62c61e14d22821bfecc134cb8a39b4f1472496c2b6d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "sha256": "ffa01dcfecff142aafce760985552b64c1d5561e9598d7ab6d25f424bdefa28c"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "sha256": "2c961e542f95702d01044ea99a2963516e507596e7c75c5d50002a511acff6e8"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/09-contabilita-stato-bilancio-ministeriale.md",
+      "sha256": "2da92721e7b266ede8c6cf1cccfb2e33fab7f74b504c0d6fdb1ce4b022e80420"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/10-contratti-pubblici-pnrr-amministrazione-digitale.md",
+      "sha256": "f10c8633f37c6439895d2c2bdb3c776ef3c67052b8452da8f2789f8bd9c6f22d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/11-casi-pratici-ministeriali.md",
+      "sha256": "0d078562fef647ceb92adfc2668d27528584b4a82ebb2d3dc71cb5c382fc4050"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/12-quesiti-situazionali-codice-comportamento.md",
+      "sha256": "f70634502bc3c9484219eb8d6d9479379d19c61dbe964d06f489abcc6f72889d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "sha256": "f41c1da324df99393e20c57b2e201bf6eae1b2f7466eeca84b04e2791bc765c3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "sha256": "efbec4cc335afdd462ed8e57f5a7a6ce4c5e176b8bc84b42fe07d43d132cab48"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc01-ministeri/chapters/15-appendici-operative.md",
+      "sha256": "a5fa9a66994f107e8c0d72a4d761fdde17480a6ba976fc200e04fe4e14664cd5"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "sha256": "41d72450834361923761d6738a3aa03d8bd72d5df5d56d9db261513b49a3ed58"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "sha256": "8a588bf138cf3898957bd51e00887f9abcf9265bbeb79487248e7eda5750cdab"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "sha256": "e596aeef270886690dae30f2ff01fbb0b59d9179582d25c594d0db320c00d923"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "sha256": "c1c18f4a682192088c08d0e5467026e2fc40e9418870d7f72ec10c8256eebfe8"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "sha256": "692d05ceb77ae55420bbe98de1a7ab0e91595b9cadc8ace00730109cd46e4821"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "sha256": "2f1ae919ebd39f29331f8f5a8f6652342da65473e8106ed82ae8e9cb882412d0"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "sha256": "3608af42728c22184511f160b0ac4cfc4905bb07788f1dddc91a7b08fd4db730"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "sha256": "638d797e393fc893b92a0d81ea3991801c8588a909913ea21fd282280f5a9b9b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "sha256": "c7436f11c38ee3c586a3f9892274dad3a7f8471d8418d2aa6a311cba247a74bb"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "sha256": "7846f9d605348d8abb4a4ee0d595ffe3028bd9f906a6af794eb536ca3be1b687"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "sha256": "3c153b7efcf053fb19f9529bde9a602af76ebb27bd91fe39b184c5add32085d3"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "sha256": "e5fd040f5b455a33415c5fe16943310d76614ed2dd0164f9d7b9d2940e3851a0"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "sha256": "2c0a10f35552c53359674f49ad75f5379bc5b9644bf5288039b5f686f4cb5b4c"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "sha256": "1cf6408b72d9e7236facede9a79a237c566f6b07a637eb9034c587be6518ba47"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "sha256": "7e28286ad1dd8014fce7dff615b6518edcd9b4bf295193991eb6db823c6175da"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "sha256": "71c815a1755889afbfb67e24d471001e934001fe46e3a95ea4ca270dee0263e1"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "sha256": "702ade162e6316d51373b7461d4368f80ec32ea3e60a1c3a5a1a591ab146f5e7"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "sha256": "89a5e0f43a36530404c63485d08a0c313adba7dc1bff9f88ab0ae1e869406bc5"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "sha256": "b41cf812ed9d3b0a12d1ba7408e34c8cad061b6b7f0c797a34c9bd0d4b114d58"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "sha256": "93bb466bb94751125235c9d05e735781551edcb5722ddb4c2449e74ed2cf286a"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "sha256": "5b3c9f477654903103b1130ce06d241f5f5725a3b297d1299f2dcec3308a121b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "sha256": "05e57ead82830f32e37cf944b111cc9c4b0b0bff7f9b4f799805ddd4e532ff23"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "sha256": "96bb9255f664b94124062824c3be6bfe5ddded265763d4788054e5bf3fa4e725"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "sha256": "c6f479868b5d4315ddc4934953d5619506fdca99a48f5ecb89b6fd6ee67820fc"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+      "sha256": "0df6e3b86520c62c1c89cc4b2324f6fbf94ae0de7f6db95c0a7f3de5e4c481f9"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "sha256": "e5f24d61b4b6cb322ad239b2df0f835b9a5df00cfee1ac6f67ad646b7d387ec9"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+      "sha256": "3303040be0fb75c202ebfca2ed4ebaf4290d3fa87450707ea4e477f0e312ce5c"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+      "sha256": "6c7b92262d92848840a3fe48ba98c0f246817c754e24d6906499c17dd146036b"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "sha256": "91061250128fb426a71237fe8fb0335575affeb7506331fda210000387081f3f"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-a-vigilanza-ispettiva-inps-inail.md",
+      "sha256": "5710126a94e1bf9dca05ea563e923beb462f1aa85d44ba0bfb76a66ba0a6a534"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "sha256": "073c21893de8997357b6df51bcf4521e5051bf5aafe34823b4f216d395c08bc5"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "sha256": "4f3dc106820ac6c2aebea463e916869e234b4f965c8d41d697bf10cc6cc5eef5"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "sha256": "cebbe6e75cb68e5e5cf12ed3c37b6e57e3c05a6fc693eb656366e3f750c3c732"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "sha256": "889d8cab3c3713b73907d03f9a6027a01872818a92adf571b7a61b85f48c716d"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "sha256": "703fa41b14db9143a47cf3e8b5f89dda21c05d28bbb27279e9849180dcd5af39"
+    }
+  ],
+  "numberMaps": {
+    "M-FC01": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10",
+      "11": "11",
+      "12": "12",
+      "13": "13",
+      "14": "14",
+      "15": "15"
+    },
+    "M-FC02": {
+      "1": "16",
+      "2": "17",
+      "3": "18",
+      "4": "19",
+      "5": "20",
+      "6": "23",
+      "7": "24",
+      "8": "25",
+      "9": "26",
+      "10": "27",
+      "11": "28",
+      "12": "29",
+      "13": "30",
+      "14": "31",
+      "5A": "21",
+      "5B": "22"
+    },
+    "M-FC03": {
+      "1": "32",
+      "2": "33",
+      "3": "34",
+      "4": "35",
+      "5": "36",
+      "6": "37",
+      "7": "38",
+      "8": "39",
+      "9": "40",
+      "10": "41",
+      "11": "42",
+      "12": "43",
+      "13": "44"
+    }
+  },
+  "referenceChanges": [
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni.md",
+      "before": "La distinzione riguarda il contratto. L'ordinamento istituzionale della Presidenza, le sue funzioni e la sua organizzazione appartengono al capitolo 05. Qui interessa una sola conseguenza operativa: quando il bando riguarda la PCM, occorre controllare quale contratto richiama, quale area indica e come descrive profilo e attività.\r",
+      "after": "La distinzione riguarda il contratto. L'ordinamento istituzionale della Presidenza, le sue funzioni e la sua organizzazione appartengono al capitolo 5. Qui interessa una sola conseguenza operativa: quando il bando riguarda la PCM, occorre controllare quale contratto richiama, quale area indica e come descrive profilo e attività.\r"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "before": "Questo capitolo costruisce la mappa istituzionale essenziale. Non elenca tutti i ministeri esistenti né descrive i loro uffici interni: denominazioni e assetti possono cambiare, mentre dipartimenti, direzioni generali e flussi saranno affrontati nel capitolo 06.\r",
+      "after": "Questo capitolo costruisce la mappa istituzionale essenziale. Non elenca tutti i ministeri esistenti né descrive i loro uffici interni: denominazioni e assetti possono cambiare, mentre dipartimenti, direzioni generali e flussi saranno affrontati nel capitolo 6.\r"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "before": "Il capitolo 05 svilupperà la specificità della Presidenza del Consiglio. Il capitolo 06 entrerà nell'organizzazione interna dei Ministeri. La tabella fissa i confini; gli approfondimenti restano nei due capitoli indicati.\r",
+      "after": "Il capitolo 5 svilupperà la specificità della Presidenza del Consiglio. Il capitolo 6 entrerà nell'organizzazione interna dei Ministeri. La tabella fissa i confini; gli approfondimenti restano nei due capitoli indicati.\r"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/04-governo-ministeri-amministrazione-centrale.md",
+      "before": "- Ho chiarito il ruolo della Presidenza senza anticipare il capitolo 05?\r",
+      "after": "- Ho chiarito il ruolo della Presidenza senza anticipare il capitolo 5?\r"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "before": "Il capitolo 04 ha già collocato Presidente, Consiglio dei ministri, ministri e Ministeri nella mappa istituzionale. Qui il punto di osservazione cambia: interessa come la struttura PCM rende possibile l'esercizio delle funzioni presidenziali e di coordinamento.\r",
+      "after": "Il capitolo 4 ha già collocato Presidente, Consiglio dei ministri, ministri e Ministeri nella mappa istituzionale. Qui il punto di osservazione cambia: interessa come la struttura PCM rende possibile l'esercizio delle funzioni presidenziali e di coordinamento.\r"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/05-presidenza-consiglio-ministri.md",
+      "before": "Il CCNL non sostituisce il bando e non autorizza a studiare ogni istituto contrattuale. Retribuzioni, indennità, progressioni e disciplina di dettaglio vanno consultate soltanto se pertinenti e sempre sul testo ufficiale applicabile. Il capitolo 03 contiene il metodo generale per leggere profilo, CCNL e mansioni.\r",
+      "after": "Il CCNL non sostituisce il bando e non autorizza a studiare ogni istituto contrattuale. Retribuzioni, indennità, progressioni e disciplina di dettaglio vanno consultate soltanto se pertinenti e sempre sul testo ufficiale applicabile. Il capitolo 3 contiene il metodo generale per leggere profilo, CCNL e mansioni.\r"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri.md",
+      "before": "Il capitolo 04 ha distinto ministro e Ministero. Nell'organizzazione interna, quella distinzione diventa operativa.\r",
+      "after": "Il capitolo 4 ha distinto ministro e Ministero. Nell'organizzazione interna, quella distinzione diventa operativa.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "before": "- quali materie vanno collegate al capitolo 10 del modulo M-FC02.\r",
+      "after": "- quali materie vanno collegate al capitolo 27 del modulo M-FC02.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "before": "Il capitolo non sostituisce lo studio specialistico dei capitoli 5, 6 e 7. Prepara il terreno. Se non distingui presupposto, base imponibile e obbligazione, farai fatica a comprendere accertamento e adempimenti. Se confondi accertamento e riscossione, leggerai male i profili AdER. Se parli di IVA o imposte sui redditi senza sapere qual è la logica del tributo, rischi una preparazione mnemonica e fragile.\r",
+      "after": "Il capitolo non sostituisce lo studio specialistico dei capitoli 20, 23 e 24. Prepara il terreno. Se non distingui presupposto, base imponibile e obbligazione, farai fatica a comprendere accertamento e adempimenti. Se confondi accertamento e riscossione, leggerai male i profili AdER. Se parli di IVA o imposte sui redditi senza sapere qual è la logica del tributo, rischi una preparazione mnemonica e fragile.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "before": "Questa frase collega il capitolo 4 ai capitoli successivi.\r",
+      "after": "Questa frase collega il capitolo 19 ai capitoli successivi.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "before": "La mappa teorica termina qui con la catena **fatturazione -> registrazione -> liquidazione -> dichiarazione annuale**. La funzione, l'ordine e le regole operative di documentazione, registrazione delle operazioni attive e degli acquisti, liquidazione periodica e dichiarazione IVA sono sviluppati nel @@LINK2@@. Il rinvio non comprende accertamento, sanzioni, riscossione o rimedi, affidati ai rispettivi capitoli 5, 5A, 5B e 7.\r",
+      "after": "La mappa teorica termina qui con la catena **fatturazione -> registrazione -> liquidazione -> dichiarazione annuale**. La funzione, l'ordine e le regole operative di documentazione, registrazione delle operazioni attive e degli acquisti, liquidazione periodica e dichiarazione IVA sono sviluppati nel @@LINK2@@. Il rinvio non comprende accertamento, sanzioni, riscossione o rimedi, affidati ai rispettivi capitoli 20, 21, 22 e 24.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "before": "Il capitolo 5 sviluppera' accertamento, controlli e compliance. Il capitolo 7 sviluppera' la riscossione. Qui devi fissare la distinzione base.\r",
+      "after": "Il capitolo 20 sviluppera' accertamento, controlli e compliance. Il capitolo 24 sviluppera' la riscossione. Qui devi fissare la distinzione base.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "before": "Prima di passare al capitolo 5, verifica questi punti.\r",
+      "after": "Prima di passare al capitolo 20, verifica questi punti.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "before": "| Destinazione | Il punto richiede il quadro processuale completo del capitolo 5B? |\r",
+      "after": "| Destinazione | Il punto richiede il quadro processuale completo del capitolo 22? |\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "before": "Il riesame in autotutela consente all'amministrazione di valutare la legittimità o fondatezza del proprio atto secondo presupposti, doveri e poteri vigenti. Il capitolo 5 sviluppa il raccordo con accertamento, contraddittorio e atto finale: @@LINK0@@. Qui conta la distinzione processuale: istanza, provvedimento amministrativo e ricorso sono atti diversi.\r",
+      "after": "Il riesame in autotutela consente all'amministrazione di valutare la legittimità o fondatezza del proprio atto secondo presupposti, doveri e poteri vigenti. Il capitolo 20 sviluppa il raccordo con accertamento, contraddittorio e atto finale: @@LINK0@@. Qui conta la distinzione processuale: istanza, provvedimento amministrativo e ricorso sono atti diversi.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "before": "Gli strumenti deflativi mirano a prevenire, ridurre o chiudere la controversia nei casi previsti. Adesione, definizioni e conciliazione non sono sinonimi. Per le sanzioni, ravvedimento e definizione seguono inoltre la disciplina illustrata nel capitolo 5a: @@LINK1@@.\r",
+      "after": "Gli strumenti deflativi mirano a prevenire, ridurre o chiudere la controversia nei casi previsti. Adesione, definizioni e conciliazione non sono sinonimi. Per le sanzioni, ravvedimento e definizione seguono inoltre la disciplina illustrata nel capitolo 21: @@LINK1@@.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "before": "Si identificano atto, autorità, IVA, periodo, maggiore imposta, interessi e sanzioni. L'errore sull'omonimo, i versamenti e la qualificazione delle operazioni sono motivi distinti. La parte sanzionatoria rinvia al capitolo 5a e non va fusa con il tributo.\r",
+      "after": "Si identificano atto, autorità, IVA, periodo, maggiore imposta, interessi e sanzioni. L'errore sull'omonimo, i versamenti e la qualificazione delle operazioni sono motivi distinti. La parte sanzionatoria rinvia al capitolo 21 e non va fusa con il tributo.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "before": "ADM e Agenzia delle Entrate appartengono alla stessa famiglia istituzionale, ma non svolgono lo stesso lavoro. Nel settore doganale l'oggetto immediato sono merci, operatori, regimi, dati commerciali e controlli alla frontiera o successivi. Per questo cambiano lessico, documenti e sequenza operativa. Il quadro generale dell'organizzazione resta nel capitolo 3; qui interessa la funzione doganale concreta.\r",
+      "after": "ADM e Agenzia delle Entrate appartengono alla stessa famiglia istituzionale, ma non svolgono lo stesso lavoro. Nel settore doganale l'oggetto immediato sono merci, operatori, regimi, dati commerciali e controlli alla frontiera o successivi. Per questo cambiano lessico, documenti e sequenza operativa. Il quadro generale dell'organizzazione resta nel capitolo 18; qui interessa la funzione doganale concreta.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "before": "Per i beni immobili vanno tenuti distinti titolo, forma, trascrizione e voltura catastale. Il capitolo 10 approfondisce pubblicità immobiliare e catasto.\r",
+      "after": "Per i beni immobili vanno tenuti distinti titolo, forma, trascrizione e voltura catastale. Il capitolo 27 approfondisce pubblicità immobiliare e catasto.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "before": "Le scritture contabili sostengono informazione e controllo. Il capitolo 11 ne approfondisce la logica economica; qui rilevano come documentazione dell'organizzazione e dei rapporti. Chi firma per l'impresa deve inoltre disporre di poteri adeguati: qualifica interna, procura e pubblicità non sono dati intercambiabili.\r",
+      "after": "Le scritture contabili sostengono informazione e controllo. Il capitolo 28 ne approfondisce la logica economica; qui rilevano come documentazione dell'organizzazione e dei rapporti. Chi firma per l'impresa deve inoltre disporre di poteri adeguati: qualifica interna, procura e pubblicità non sono dati intercambiabili.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "before": "**AdER.** Obbligazione, coobbligazione, successione, garanzia patrimoniale, pegno, ipoteca e fideiussione costituiscono il lessico di base. La riscossione pubblica conserva però atti, poteri e limiti propri, sviluppati nel capitolo 7.\r",
+      "after": "**AdER.** Obbligazione, coobbligazione, successione, garanzia patrimoniale, pegno, ipoteca e fideiussione costituiscono il lessico di base. La riscossione pubblica conserva però atti, poteri e limiti propri, sviluppati nel capitolo 24.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "before": "**Esempio compilato:** origine = legame economico con un Paese; funzione = trattamento doganale; distinzione = provenienza; rinvio = capitolo 8, paragrafo 7.\r",
+      "after": "**Esempio compilato:** origine = legame economico con un Paese; funzione = trattamento doganale; distinzione = provenienza; rinvio = capitolo 25, paragrafo 7.\r"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "before": "La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relativa trattazione. La teoria completa si trova nei capitoli 4, 5A, 5B e 8.\r",
+      "after": "La tavola aiuta a riconoscere il piano giuridico pertinente e rinvia alla relativa trattazione. La teoria completa si trova nei capitoli 19, 21, 22 e 25.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "Se stai preparando un concorso INPS o INAIL amministrativo, questo capitolo è il punto di partenza. Se stai preparando un profilo ispettivo, lo userai insieme all'Appendice A. Se il bando riguarda ricercatori, tecnologi, ICT puro, appalti specialistici, agenzie fiscali o authority indipendenti, questo capitolo ti aiuta soprattutto a capire dove fermarti e quale modulo cercare.\r",
+      "after": "Se stai preparando un concorso INPS o INAIL amministrativo, questo capitolo è il punto di partenza. Se stai preparando un profilo ispettivo, lo userai insieme all'Appendice A (capitolo 45). Se il bando riguarda ricercatori, tecnologi, ICT puro, appalti specialistici, agenzie fiscali o authority indipendenti, questo capitolo ti aiuta soprattutto a capire dove fermarti e quale modulo cercare.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "| INPS, profili amministrativi, protezione sociale, servizi, prestazioni | Dentro M-FC03 | Attiva capitoli 1, 3, 5, 8, 10, 11, 12 e 13. |\r",
+      "after": "| INPS, profili amministrativi, protezione sociale, servizi, prestazioni | Dentro M-FC03 | Attiva capitoli 32, 34, 36, 39, 41, 42, 43 e 44. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "| INAIL, profili amministrativi, assicurazione, prevenzione, prestazioni, salute e sicurezza | Dentro M-FC03 | Attiva capitoli 1, 4, 5, 6, 8, 10, 11, 12 e Appendice F se il bando include materie integrative. |\r",
+      "after": "| INAIL, profili amministrativi, assicurazione, prevenzione, prestazioni, salute e sicurezza | Dentro M-FC03 | Attiva capitoli 32, 35, 36, 37, 39, 41, 42, 43 e Appendice F (capitolo 50) se il bando include materie integrative. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "| Ispettori INPS-INAIL o profili di vigilanza previdenziale/assicurativa | Dentro M-FC03, con sottoprofilo | Attiva Appendice A e verifica diritto del lavoro, legislazione sociale e casi ispettivi. |\r",
+      "after": "| Ispettori INPS-INAIL o profili di vigilanza previdenziale/assicurativa | Dentro M-FC03, con sottoprofilo | Attiva Appendice A (capitolo 45) e verifica diritto del lavoro, legislazione sociale e casi ispettivi. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "| ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CONI, CRI | Dentro come orientamento EPNE, se il profilo è amministrativo o compatibile | Usa Appendice C e verifica statuto, regolamenti e bando specifico. |\r",
+      "after": "| ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CONI, CRI | Dentro come orientamento EPNE, se il profilo è amministrativo o compatibile | Usa Appendice C (capitolo 47) e verifica statuto, regolamenti e bando specifico. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "Nel bando, cerca segnali come previdenza sociale, protezione sociale, prestazioni, servizi, contributi, rapporto con utenti, domande, fascicoli, gestione documentale, comunicazioni e prova situazionale. Se compaiono, il capitolo 3 diventerà centrale.\r",
+      "after": "Nel bando, cerca segnali come previdenza sociale, protezione sociale, prestazioni, servizi, contributi, rapporto con utenti, domande, fascicoli, gestione documentale, comunicazioni e prova situazionale. Se compaiono, il capitolo 34 diventerà centrale.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "Nel bando, cerca segnali come assicurazione obbligatoria, infortuni sul lavoro, malattie professionali, prevenzione, salute e sicurezza, premi, prestazioni, rapporto con imprese e lavoratori. Se compaiono, il capitolo 4 e l'Appendice F vanno attivati.\r",
+      "after": "Nel bando, cerca segnali come assicurazione obbligatoria, infortuni sul lavoro, malattie professionali, prevenzione, salute e sicurezza, premi, prestazioni, rapporto con imprese e lavoratori. Se compaiono, il capitolo 35 e l'Appendice F (capitolo 50) vanno attivati.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CONI, CRI e altri enti compatibili non vanno studiati tutti allo stesso livello in assenza di bando. La funzione dell'Appendice C è dare orientamento: quale ente è, che tipo di profili può mettere a bando, quali materie comuni restano valide, quali contenuti specifici vanno verificati su fonti ufficiali.\r",
+      "after": "ACI, ENAC, ISTAT, ASI, ENEA amministrativo, CONI, CRI e altri enti compatibili non vanno studiati tutti allo stesso livello in assenza di bando. La funzione dell'Appendice C (capitolo 47) è dare orientamento: quale ente è, che tipo di profili può mettere a bando, quali materie comuni restano valide, quali contenuti specifici vanno verificati su fonti ufficiali.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "| Ho capito se serve Appendice A, B, C, D, E o F? | | |\r",
+      "after": "| Ho capito se serve appendici A–F (capitoli 45–50)? | | |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "5. attiva l'Appendice F per le materie integrative del bando;\r",
+      "after": "5. attiva l'Appendice F (capitolo 50) per le materie integrative del bando;\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "La preparazione non diventa più facile. Diventa più ordinata. Sara non studia tutto allo stesso livello: usa il libro base per il core, il capitolo 4 per INAIL, l'Appendice F per i contenuti integrativi e il capitolo 12 per i situazionali.\r",
+      "after": "La preparazione non diventa più facile. Diventa più ordinata. Sara non studia tutto allo stesso livello: usa il libro base per il core, il capitolo 35 per INAIL, l'Appendice F (capitolo 50) per i contenuti integrativi e il capitolo 43 per i situazionali.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/01-lavorare-enti-pubblici-non-economici.md",
+      "before": "Prima di passare al capitolo 2, devi poter rispondere senza appunti:\r",
+      "after": "Prima di passare al capitolo 33, devi poter rispondere senza appunti:\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "before": "| B - Bando | Il programma richiama ordinamento dell'ente, statuto, regolamenti, organi, bilancio, controlli, PIAO o amministrazione trasparente? | Attivazione del capitolo 2. |\r",
+      "after": "| B - Bando | Il programma richiama ordinamento dell'ente, statuto, regolamenti, organi, bilancio, controlli, PIAO o amministrazione trasparente? | Attivazione del capitolo 33. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "before": "Nel bando, i segnali da intercettare sono: bilancio, patrimonio, controlli, vigilanza, rendiconto, regolarità amministrativo-contabile, Corte dei conti, Ragioneria generale dello Stato, revisione, performance, valore pubblico e amministrazione trasparente. Se compaiono, devi collegare il capitolo 2 con il capitolo 6 del modulo e con la contabilità pubblica essenziale del libro base.\r",
+      "after": "Nel bando, i segnali da intercettare sono: bilancio, patrimonio, controlli, vigilanza, rendiconto, regolarità amministrativo-contabile, Corte dei conti, Ragioneria generale dello Stato, revisione, performance, valore pubblico e amministrazione trasparente. Se compaiono, devi collegare il capitolo 33 con il capitolo 37 del modulo e con la contabilità pubblica essenziale del libro base.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/02-ordinamento-governance-epne.md",
+      "before": "Prima di passare al capitolo 3, devi poter rispondere senza appunti:\r",
+      "after": "Prima di passare al capitolo 34, devi poter rispondere senza appunti:\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "before": "| B - Bando | Il bando richiama INPS, previdenza, protezione sociale, prestazioni, servizi, contributi o rapporto con utenti? | Decisione: capitolo 3 centrale o solo di orientamento. |\r",
+      "after": "| B - Bando | Il bando richiama INPS, previdenza, protezione sociale, prestazioni, servizi, contributi o rapporto con utenti? | Decisione: capitolo 34 centrale o solo di orientamento. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/03-inps-previdenza-servizi-prestazioni.md",
+      "before": "Il capitolo non sostituisce il capitolo 5 sui procedimenti EPNE. Lo anticipa dal punto di vista dell'INPS: qui impari il linguaggio dell'ente; nel capitolo 5 lo trasformi in procedimento, accesso, comunicazione e privacy.\r",
+      "after": "Il capitolo non sostituisce il capitolo 36 sui procedimenti EPNE. Lo anticipa dal punto di vista dell'INPS: qui impari il linguaggio dell'ente; nel capitolo 36 lo trasformi in procedimento, accesso, comunicazione e privacy.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "5. riconoscere quando serve l'Appendice F per le materie integrative INAIL/RIPAM, soprattutto salute e sicurezza nei luoghi di lavoro.\r",
+      "after": "5. riconoscere quando serve l'Appendice F (capitolo 50) per le materie integrative INAIL/RIPAM, soprattutto salute e sicurezza nei luoghi di lavoro.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "| B - Bando | Il bando richiama INAIL, assicurazione obbligatoria, infortuni, malattie professionali, prevenzione, salute e sicurezza o ordinamento dell'ente? | Decisione: capitolo 4 centrale e Appendice F da valutare. |\r",
+      "after": "| B - Bando | Il bando richiama INAIL, assicurazione obbligatoria, infortuni, malattie professionali, prevenzione, salute e sicurezza o ordinamento dell'ente? | Decisione: capitolo 35 centrale e Appendice F (capitolo 50) da valutare. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "INAIL è l'ente guida del modulo M-FC03 per assicurazione sociale, prevenzione, infortuni, malattie professionali, salute e sicurezza e prestazioni. Il candidato deve collegare rischio lavorativo, evento, tutela, istruttoria, dati e comunicazione. Il D.Lgs. 81/2008 va studiato come sistema preventivo essenziale, non come manuale tecnico. Il bando decide se attivare anche l'Appendice F per materie integrative come diritto del lavoro, legislazione sociale e sicurezza. L'output utile è la mappa assicurazione-prevenzione-prestazione.\r",
+      "after": "INAIL è l'ente guida del modulo M-FC03 per assicurazione sociale, prevenzione, infortuni, malattie professionali, salute e sicurezza e prestazioni. Il candidato deve collegare rischio lavorativo, evento, tutela, istruttoria, dati e comunicazione. Il D.Lgs. 81/2008 va studiato come sistema preventivo essenziale, non come manuale tecnico. Il bando decide se attivare anche l'Appendice F (capitolo 50) per materie integrative come diritto del lavoro, legislazione sociale e sicurezza. L'output utile è la mappa assicurazione-prevenzione-prestazione.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "1. identifica l'ente: INAIL, quindi capitolo 4 centrale;\r",
+      "after": "1. identifica l'ente: INAIL, quindi capitolo 35 centrale;\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "4. attiva l'Appendice F per le materie integrative del bando;\r",
+      "after": "4. attiva l'Appendice F (capitolo 50) per le materie integrative del bando;\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "4. attiva l'Appendice F solo per le materie integrative effettivamente richieste;\r",
+      "after": "4. attiva l'Appendice F (capitolo 50) solo per le materie integrative effettivamente richieste;\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "| Devo attivare Appendice F? Per quali materie? | |\r",
+      "after": "| Devo attivare Appendice F (capitolo 50)? Per quali materie? | |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "| Studiare sicurezza da tecnico | Apro materiali RSPP e perdo il profilo amministrativo. | Uso la mappa essenziale e rinvio i dettagli all'Appendice F. |\r",
+      "after": "| Studiare sicurezza da tecnico | Apro materiali RSPP e perdo il profilo amministrativo. | Uso la mappa essenziale e rinvio i dettagli all'Appendice F (capitolo 50). |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "Prima di passare al capitolo 5, verifica se sai rispondere:\r",
+      "after": "Prima di passare al capitolo 36, verifica se sai rispondere:\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/04-inail-assicurazione-prevenzione-prestazioni.md",
+      "before": "| So decidere quando attivare Appendice F? | |\r",
+      "after": "| So decidere quando attivare Appendice F (capitolo 50)? | |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "before": "| B - Bando | Il programma richiama procedimento, accesso, privacy, servizi digitali, comunicazione, cittadini o imprese? | Attivazione del capitolo 5. |\r",
+      "after": "| B - Bando | Il programma richiama procedimento, accesso, privacy, servizi digitali, comunicazione, cittadini o imprese? | Attivazione del capitolo 36. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/05-procedimenti-epne-cittadini-imprese.md",
+      "before": "La mappa serve per non disperdere lo studio. Se il bando chiede genericamente diritto amministrativo, il capitolo 5 ti aiuta ad applicarlo. Se il bando chiede servizi, prestazioni, utenza o pratiche digitali, il capitolo diventa centrale.\r",
+      "after": "La mappa serve per non disperdere lo studio. Se il bando chiede genericamente diritto amministrativo, il capitolo 36 ti aiuta ad applicarlo. Se il bando chiede servizi, prestazioni, utenza o pratiche digitali, il capitolo diventa centrale.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "before": "| B - Bando | Il programma richiama contabilità pubblica, bilancio, patrimonio, controlli, rendiconto, Corte dei conti, RGS o amministrazione trasparente? | Attivazione del capitolo 6 e raccordo con il capitolo base di contabilità. |\r",
+      "after": "| B - Bando | Il programma richiama contabilità pubblica, bilancio, patrimonio, controlli, rendiconto, Corte dei conti, RGS o amministrazione trasparente? | Attivazione del capitolo 37 e raccordo con il capitolo base di contabilità. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/06-bilancio-patrimonio-controlli-epne.md",
+      "before": "Nel capitolo 6 interessano soprattutto tre aree:\r",
+      "after": "Nel capitolo 37 interessano soprattutto tre aree:\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "before": "INPS, INAIL e gli altri enti del perimetro M-FC03 non operano nel vuoto. Gestiscono domande, prestazioni, fascicoli, pratiche, controlli, servizi digitali, rapporto con utenti e imprese, personale, rischi corruttivi, dati personali, acquisti e bilanci. Performance e PIAO servono a tenere insieme questi elementi. Per questo il capitolo dialoga con il capitolo 6, ma non lo duplica: il capitolo 6 guarda a risorse e controlli; questo guarda a obiettivi, organizzazione, risultati e qualità dell'azione amministrativa.\r",
+      "after": "INPS, INAIL e gli altri enti del perimetro M-FC03 non operano nel vuoto. Gestiscono domande, prestazioni, fascicoli, pratiche, controlli, servizi digitali, rapporto con utenti e imprese, personale, rischi corruttivi, dati personali, acquisti e bilanci. Performance e PIAO servono a tenere insieme questi elementi. Per questo il capitolo dialoga con il capitolo 37, ma non lo duplica: il capitolo 37 guarda a risorse e controlli; questo guarda a obiettivi, organizzazione, risultati e qualità dell'azione amministrativa.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "before": "| B - Bando | Il programma richiama performance, PIAO, valore pubblico, organizzazione, anticorruzione, trasparenza, personale o obiettivi? | Attivazione del capitolo 7. |\r",
+      "after": "| B - Bando | Il programma richiama performance, PIAO, valore pubblico, organizzazione, anticorruzione, trasparenza, personale o obiettivi? | Attivazione del capitolo 38. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "before": "Negli enti pubblici non economici il PIAO è particolarmente utile perché rende visibile il passaggio dall'ordinamento alla gestione. Il capitolo 2 ti ha spiegato organi, governance, vigilanza e fonti; il capitolo 6 ti ha mostrato bilancio, patrimonio e controlli. Il PIAO collega questi piani a obiettivi, personale, rischi, trasparenza e organizzazione concreta.\r",
+      "after": "Negli enti pubblici non economici il PIAO è particolarmente utile perché rende visibile il passaggio dall'ordinamento alla gestione. Il capitolo 33 ti ha spiegato organi, governance, vigilanza e fonti; il capitolo 37 ti ha mostrato bilancio, patrimonio e controlli. Il PIAO collega questi piani a obiettivi, personale, rischi, trasparenza e organizzazione concreta.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "before": "La performance non finisce con la programmazione. Occorre monitorare l'andamento, confrontare obiettivi e risultati, correggere scostamenti, rendicontare e migliorare. Questo nucleo collega il capitolo 7 al capitolo 6: senza dati, bilancio, controlli e documenti, la performance resta dichiarativa.\r",
+      "after": "La performance non finisce con la programmazione. Occorre monitorare l'andamento, confrontare obiettivi e risultati, correggere scostamenti, rendicontare e migliorare. Questo nucleo collega il capitolo 38 al capitolo 37: senza dati, bilancio, controlli e documenti, la performance resta dichiarativa.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/07-performance-piao-valore-pubblico-epne.md",
+      "before": "Prima di passare al capitolo 8, verifica se sai rispondere:\r",
+      "after": "Prima di passare al capitolo 39, verifica se sai rispondere:\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/08-personale-epne-ccnl-funzioni-centrali.md",
+      "before": "Il secondo nucleo collega personale e governance. Un dipendente EPNE non lavora nel vuoto: opera in un ufficio, dentro processi, obiettivi, documenti di programmazione, controlli e servizi. Per questo il capitolo 8 dialoga con i capitoli su governance, procedimenti, performance e PIAO. La domanda operativa è: quale pezzo dell'organizzazione deve servire questo profilo?\r",
+      "after": "Il secondo nucleo collega personale e governance. Un dipendente EPNE non lavora nel vuoto: opera in un ufficio, dentro processi, obiettivi, documenti di programmazione, controlli e servizi. Per questo il capitolo 39 dialoga con i capitoli su governance, procedimenti, performance e PIAO. La domanda operativa è: quale pezzo dell'organizzazione deve servire questo profilo?\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/09-contratti-acquisti-forniture-epne.md",
+      "before": "| B - Bando | Il programma richiama contratti pubblici, appalti, acquisti, forniture, MEPA, Consip, ANAC, CIG o digitalizzazione? | Attivazione del capitolo 9 e del capitolo base sui contratti. |\r",
+      "after": "| B - Bando | Il programma richiama contratti pubblici, appalti, acquisti, forniture, MEPA, Consip, ANAC, CIG o digitalizzazione? | Attivazione del capitolo 40 e del capitolo base sui contratti. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| Diritto amministrativo, procedimento, accesso | Libro base + cap. 5 M-FC03 per taglio EPNE | Non duplicare teoria generale. |\r",
+      "after": "| Diritto amministrativo, procedimento, accesso | Libro base + cap. 36 M-FC03 per taglio EPNE | Non duplicare teoria generale. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| Pubblico impiego, doveri, responsabilità | Libro base + cap. 8 | Collegare a CCNL Funzioni Centrali e profilo. |\r",
+      "after": "| Pubblico impiego, doveri, responsabilità | Libro base + cap. 39 | Collegare a CCNL Funzioni Centrali e profilo. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| Previdenza sociale, servizi INPS | Cap. 3 + glossario | Alta resa per INPS e profili protezione sociale. |\r",
+      "after": "| Previdenza sociale, servizi INPS | Cap. 34 + glossario | Alta resa per INPS e profili protezione sociale. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| Assicurazione INAIL, infortuni, prevenzione | Cap. 4 + glossario | Alta resa per INAIL. |\r",
+      "after": "| Assicurazione INAIL, infortuni, prevenzione | Cap. 35 + glossario | Alta resa per INAIL. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| Salute e sicurezza, materie giuridiche integrative INAIL | Cap. 4 + Appendice F | Attivare solo se richieste dal bando. |\r",
+      "after": "| Salute e sicurezza, materie giuridiche integrative INAIL | Cap. 35 + Appendice F (capitolo 50) | Attivare solo se richieste dal bando. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| Vigilanza previdenziale/assicurativa | Appendice A | Sottoprofilo, non studio generico. |\r",
+      "after": "| Vigilanza previdenziale/assicurativa | Appendice A (capitolo 45) | Sottoprofilo, non studio generico. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| ACI, ENAC, ISTAT, ASI, ENEA, CRI | Appendice C + fonte ufficiale ente | Orientamento, poi verifica puntuale. |\r",
+      "after": "| ACI, ENAC, ISTAT, ASI, ENEA, CRI | Appendice C (capitolo 47) + fonte ufficiale ente | Orientamento, poi verifica puntuale. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| Ricerca, tecnologia, ICT puro, authority, agenzie fiscali | Appendice E o altro modulo | Rinvio, non forzare M-FC03. |\r",
+      "after": "| Ricerca, tecnologia, ICT puro, authority, agenzie fiscali | Appendice E (capitolo 49) o altro modulo | Rinvio, non forzare M-FC03. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "La scheda è valida solo se ogni riga produce una decisione. Scrivere \"INAIL\" nel campo ente non basta. Devi indicare che cosa cambia nel piano: capitolo 4, eventuale Appendice F, materie INAIL, casi, situazionali e fonti da monitorare.\r",
+      "after": "La scheda è valida solo se ogni riga produce una decisione. Scrivere \"INAIL\" nel campo ente non basta. Devi indicare che cosa cambia nel piano: capitolo 35, eventuale Appendice F (capitolo 50), materie INAIL, casi, situazionali e fonti da monitorare.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "2. **Ente**: INAIL, quindi M-FC03 e capitolo 4 sono centrali.\r",
+      "after": "2. **Ente**: INAIL, quindi M-FC03 e capitolo 35 sono centrali.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "6. **Appendice**: attiva l'Appendice F per materie integrative e l'Appendice B per lessico essenziale.\r",
+      "after": "6. **Appendice**: attiva l'Appendice F (capitolo 50) per materie integrative e l'Appendice B (capitolo 46) per lessico essenziale.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "| Saltare appendici e rinvii | Tratto sottoprofili e materie integrative come dettagli. | Attivo Appendice A-F o rinvio ad altro modulo. |\r",
+      "after": "| Saltare appendici e rinvii | Tratto sottoprofili e materie integrative come dettagli. | Attivo appendici A–F (capitoli 45–50) o rinvio ad altro modulo. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/10-bando-decoder-epne.md",
+      "before": "Prima di passare ai casi pratici del capitolo 11, verifica se sai rispondere:\r",
+      "after": "Prima di passare ai casi pratici del capitolo 42, verifica se sai rispondere:\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/11-casi-pratici-epne.md",
+      "before": "| B - Bando | Il bando prevede prova teorico-pratica, quesiti aperti, casi di ufficio, profili di sportello/back office o materie applicative? | Attivazione del capitolo 11. |\r",
+      "after": "| B - Bando | Il bando prevede prova teorico-pratica, quesiti aperti, casi di ufficio, profili di sportello/back office o materie applicative? | Attivazione del capitolo 42. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/12-quesiti-situazionali-epne.md",
+      "before": "La differenza rispetto al caso pratico del capitolo 11 è il fuoco della prova. Nel caso pratico devi costruire una soluzione amministrativa; nel quesito situazionale devi scegliere una condotta. I due piani si toccano, ma non coincidono.\r",
+      "after": "La differenza rispetto al caso pratico del capitolo 42 è il fuoco della prova. Nel caso pratico devi costruire una soluzione amministrativa; nel quesito situazionale devi scegliere una condotta. I due piani si toccano, ma non coincidono.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "before": "La prima settimana serve a trasformare il bando in mappa. Usa il capitolo 10 come strumento: fonte ufficiale, ente, soggetto gestore, profilo, prove, punteggi, materie, allegati, avvisi e canali da monitorare.\r",
+      "after": "La prima settimana serve a trasformare il bando in mappa. Usa il capitolo 41 come strumento: fonte ufficiale, ente, soggetto gestore, profilo, prove, punteggi, materie, allegati, avvisi e canali da monitorare.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "before": "Qui entrano i capitoli 11 e 12: casi pratici e quesiti situazionali. Un candidato che conosce le definizioni ma non sa rispondere a un utente, classificare una domanda incompleta, proteggere dati personali o scegliere il comportamento corretto in ufficio non è ancora pronto per un concorso EPNE.\r",
+      "after": "Qui entrano i capitoli 42 e 43: casi pratici e quesiti situazionali. Un candidato che conosce le definizioni ma non sa rispondere a un utente, classificare una domanda incompleta, proteggere dati personali o scegliere il comportamento corretto in ufficio non è ancora pronto per un concorso EPNE.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "before": "| Situazionale | Otto quesiti del capitolo 12, più caso del familiare e caso ragionato di chiusura dello stesso capitolo | Per i quiz: opzione e motivo; per i due casi: condotta motivata da confrontare con la soluzione. |\r",
+      "after": "| Situazionale | Otto quesiti del capitolo 43, più caso del familiare e caso ragionato di chiusura dello stesso capitolo | Per i quiz: opzione e motivo; per i due casi: condotta motivata da confrontare con la soluzione. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "before": "Metti presto al centro assicurazione sociale, prevenzione, prestazioni, eventi lavorativi, rapporto con lavoratori e imprese, dati personali e, quando il bando lo richiede, salute e sicurezza. Se il bando contiene materie integrative, usa l'Appendice F senza trasformarla in un secondo manuale non proporzionato.\r",
+      "after": "Metti presto al centro assicurazione sociale, prevenzione, prestazioni, eventi lavorativi, rapporto con lavoratori e imprese, dati personali e, quando il bando lo richiede, salute e sicurezza. Se il bando contiene materie integrative, usa l'Appendice F (capitolo 50) senza trasformarla in un secondo manuale non proporzionato.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/13-piano-30-60-90-inps-inail-epne.md",
+      "before": "**4. Risposta corretta:** Negli otto quesiti del capitolo 12, nel suo caso sul familiare e nel caso ragionato di chiusura. Gli ultimi due richiedono una condotta motivata, non una lettera inventata.\r",
+      "after": "**4. Risposta corretta:** Negli otto quesiti del capitolo 43, nel suo caso sul familiare e nel caso ragionato di chiusura. Gli ultimi due richiedono una condotta motivata, non una lettera inventata.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-b-glossario-previdenza-assicurazione-prestazioni.md",
+      "before": "| Danno biologico | Menomazione dell’integrità psicofisica valutabile medico-legalmente, distinta dalla perdita di reddito. | Regime d.lgs. 38/2000: sotto 6% franchigia, 6–15% capitale, dal 16% rendita; esempio del capitolo 4. |\r",
+      "after": "| Danno biologico | Menomazione dell’integrità psicofisica valutabile medico-legalmente, distinta dalla perdita di reddito. | Regime d.lgs. 38/2000: sotto 6% franchigia, 6–15% capitale, dal 16% rendita; esempio del capitolo 35. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-c-schede-rapide-aci-enac-istat-enea-asi-cri.md",
+      "before": "Perché l'Appendice C non deve essere usata come elenco enciclopedico di enti?\r",
+      "after": "Perché l'Appendice C (capitolo 47) non deve essere usata come elenco enciclopedico di enti?\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "Questa appendice non sostituisce il Bando Decoder EPNE del capitolo 10. Lo completa: raccoglie gli errori ricorrenti, mostra come riconoscerli e propone una correzione operativa.\r",
+      "after": "Questa appendice non sostituisce il Bando Decoder EPNE del capitolo 41. Lo completa: raccoglie gli errori ricorrenti, mostra come riconoscerli e propone una correzione operativa.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "| Richiede appendice o altro modulo? | Attiva Appendice F o rinvio, senza deformare M-FC03. |\r",
+      "after": "| Richiede appendice o altro modulo? | Attiva Appendice F (capitolo 50) o rinvio, senza deformare M-FC03. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "Le appendici non sono materiale secondario. Servono a evitare dispersione. Appendice A orienta la vigilanza ispettiva; Appendice B chiarisce il lessico; Appendice C aiuta sugli enti di orientamento; Appendice D corregge gli errori di lettura; Appendice E rinvia ad altri moduli; Appendice F copre materie integrative INAIL/RIPAM.\r",
+      "after": "Le appendici non sono materiale secondario. Servono a evitare dispersione. Appendice A (capitolo 45) orienta la vigilanza ispettiva; Appendice B (capitolo 46) chiarisce il lessico; Appendice C (capitolo 47) aiuta sugli enti di orientamento; Appendice D (capitolo 48) corregge gli errori di lettura; Appendice E (capitolo 49) rinvia ad altri moduli; Appendice F (capitolo 50) copre materie integrative INAIL/RIPAM.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "| Vigilanza previdenziale, assicurativa o ispettiva | Appendice A. |\r",
+      "after": "| Vigilanza previdenziale, assicurativa o ispettiva | Appendice A (capitolo 45). |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "| Lessico previdenza, assicurazione, prestazioni | Appendice B. |\r",
+      "after": "| Lessico previdenza, assicurazione, prestazioni | Appendice B (capitolo 46). |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "| ACI, ENAC, ISTAT, ASI, ENEA, CRI | Appendice C. |\r",
+      "after": "| ACI, ENAC, ISTAT, ASI, ENEA, CRI | Appendice C (capitolo 47). |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "| Dubbio su errori di lettura e aggiornamento | Appendice D. |\r",
+      "after": "| Dubbio su errori di lettura e aggiornamento | Appendice D (capitolo 48). |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "| Ricerca, ICT, authority, agenzie fiscali, appalti avanzati | Appendice E o altro modulo. |\r",
+      "after": "| Ricerca, ICT, authority, agenzie fiscali, appalti avanzati | Appendice E (capitolo 49) o altro modulo. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-d-errori-tipici-bandi-epne.md",
+      "before": "| Materie integrative INAIL/RIPAM | Appendice F. |\r",
+      "after": "| Materie integrative INAIL/RIPAM | Appendice F (capitolo 50). |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "| Funzionario amministrativo presso INPS/INAIL | Percorso principale, con VOL-01 e verifica del programma | Capitoli 2–9 per le materie; 11–12 per casi e situazionali. |\r",
+      "after": "| Funzionario amministrativo presso INPS/INAIL | Percorso principale, con VOL-01 e verifica del programma | Capitoli 33–40 per le materie; 42–43 per casi e situazionali. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "| Vigilanza previdenziale o assicurativa INPS-INAIL | Copertura essenziale degli istituti qui spiegati | Appendice A, «Poteri, atti e garanzie della vigilanza» e «Le due diffide e la conciliazione»; ulteriori fattispecie del bando da integrare. |\r",
+      "after": "| Vigilanza previdenziale o assicurativa INPS-INAIL | Copertura essenziale degli istituti qui spiegati | Appendice A (capitolo 45), «Poteri, atti e garanzie della vigilanza» e «Le due diffide e la conciliazione»; ulteriori fattispecie del bando da integrare. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "| Lessico previdenza, assicurazione, prestazioni | Sì | Attivare Appendice B. |\r",
+      "after": "| Lessico previdenza, assicurazione, prestazioni | Sì | Attivare Appendice B (capitolo 46). |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "| ACI, ENAC, CONI; enti di ricerca e CRI per confronto | Orientamento, non equivalenza di ordinamento o comparto | Appendice C, scheda del singolo ente e «Natura dell’ente, comparto e percorso di studio». |\r",
+      "after": "| ACI, ENAC, CONI; enti di ricerca e CRI per confronto | Orientamento, non equivalenza di ordinamento o comparto | Appendice C (capitolo 47), scheda del singolo ente e «Natura dell’ente, comparto e percorso di studio». |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "| Errori di lettura del bando, portale, gestore, allegati, avvisi | Sì | Attivare Appendice D e capitolo 10. |\r",
+      "after": "| Errori di lettura del bando, portale, gestore, allegati, avvisi | Sì | Attivare Appendice D (capitolo 48) e capitolo 41. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "È il caso, ad esempio, di un funzionario amministrativo presso ASI o ENEA: il contesto è tecnico-scientifico, ma il lavoro richiesto può riguardare procedure, contratti, gestione documentale, trasparenza, progetti e risorse. In quel caso M-FC03 resta utile come modulo di orientamento, integrato dalla scheda ente dell'Appendice C e dai capitoli del libro base.\r",
+      "after": "È il caso, ad esempio, di un funzionario amministrativo presso ASI o ENEA: il contesto è tecnico-scientifico, ma il lavoro richiesto può riguardare procedure, contratti, gestione documentale, trasparenza, progetti e risorse. In quel caso M-FC03 resta utile come modulo di orientamento, integrato dalla scheda ente dell'Appendice C (capitolo 47) e dai capitoli del libro base.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "Se il bando contiene vigilanza previdenziale o assicurativa, parti dall’Appendice A per poteri, atti, diffide e rimedi. Completa le specifiche fattispecie di lavoro e sicurezza richieste dal programma: l’appendice non prova da sola una copertura esaustiva. Se il problema è il lessico di previdenza, assicurazione e prestazioni, basta l'Appendice B. Se l'ente è ACI, ENAC, ISTAT, ENEA, ASI, CONI o CRI in profilo amministrativo, l'Appendice C orienta senza creare un manuale separato. Se temi di leggere male portale, gestore, avvisi o allegati, l'Appendice D è lo strumento di controllo.\r",
+      "after": "Se il bando contiene vigilanza previdenziale o assicurativa, parti dall’Appendice A (capitolo 45) per poteri, atti, diffide e rimedi. Completa le specifiche fattispecie di lavoro e sicurezza richieste dal programma: l’appendice non prova da sola una copertura esaustiva. Se il problema è il lessico di previdenza, assicurazione e prestazioni, basta l'Appendice B (capitolo 46). Se l'ente è ACI, ENAC, ISTAT, ENEA, ASI, CONI o CRI in profilo amministrativo, l'Appendice C (capitolo 47) orienta senza creare un manuale separato. Se temi di leggere male portale, gestore, avvisi o allegati, l'Appendice D (capitolo 48) è lo strumento di controllo.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "Il capitolo 9 di M-FC03 copre contratti, acquisti e forniture applicati agli EPNE. Questo offre il raccordo EPNE con la teoria del VOL-01, capitolo Contratti pubblici essenziali, sezioni «9. Soglie e scelta della procedura» e «16. Consip, Acquisti in Rete, MEPA, convenzioni e accordi quadro». La sufficienza rispetto alla prova dipende dal programma effettivo. Non è sufficiente quando il bando è centrato su procurement specialistico, PNRR, fondi europei, programmazione avanzata, gestione di interventi complessi, rendicontazione multilivello o supporto specialistico a stazioni appaltanti.\r",
+      "after": "Il capitolo 40 di M-FC03 copre contratti, acquisti e forniture applicati agli EPNE. Questo offre il raccordo EPNE con la teoria del VOL-01, capitolo Contratti pubblici essenziali, sezioni «9. Soglie e scelta della procedura» e «16. Consip, Acquisti in Rete, MEPA, convenzioni e accordi quadro». La sufficienza rispetto alla prova dipende dal programma effettivo. Non è sufficiente quando il bando è centrato su procurement specialistico, PNRR, fondi europei, programmazione avanzata, gestione di interventi complessi, rendicontazione multilivello o supporto specialistico a stazioni appaltanti.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "Se il bando riguarda professioni sanitarie, profili tecnico-sanitari, assistenza sanitaria, prevenzione sanitaria o profili sociali altamente specialistici, M-FC03 può offrire solo il nucleo amministrativo. Il rinvio va valutato verso i moduli sanitari o sociali pertinenti. Per INAIL, l'Appendice F aiuta quando il profilo resta compatibile con il modulo; non sostituisce però un percorso professionale sanitario o sociale completo.\r",
+      "after": "Se il bando riguarda professioni sanitarie, profili tecnico-sanitari, assistenza sanitaria, prevenzione sanitaria o profili sociali altamente specialistici, M-FC03 può offrire solo il nucleo amministrativo. Il rinvio va valutato verso i moduli sanitari o sociali pertinenti. Per INAIL, l'Appendice F (capitolo 50) aiuta quando il profilo resta compatibile con il modulo; non sostituisce però un percorso professionale sanitario o sociale completo.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "Per civile e responsabilità: in questo VOL-03, modulo Agenzie fiscali, capitolo 12 «Civile e commerciale applicati a fisco, dogane e riscossione», sezioni «5. Responsabilità civile» e «7. Invalidità e scioglimento». Per le differenze INPS/INAIL usa qui i capitoli 3 e 4, non una scheda di un altro ente. Se il bando introduce una materia non sviluppata nella destinazione, la registri come integrazione necessaria: il rinvio non la rende completa per definizione.\r",
+      "after": "Per civile e responsabilità: in questo VOL-03, modulo Agenzie fiscali, capitolo 29 «Civile e commerciale applicati a fisco, dogane e riscossione», sezioni «5. Responsabilità civile» e «7. Invalidità e scioglimento». Per le differenze INPS/INAIL usa qui i capitoli 34 e 35, non una scheda di un altro ente. Se il bando introduce una materia non sviluppata nella destinazione, la registri come integrazione necessaria: il rinvio non la rende completa per definizione.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "Marta trova un bando presso ENEA. Il titolo la porta subito verso M-FC03, perché ENEA compare tra gli enti di orientamento dell'Appendice C. Poi legge meglio: il profilo è tecnologo, il programma richiama competenze tecnico-scientifiche, titoli di ricerca e attività progettuali specialistiche.\r",
+      "after": "Marta trova un bando presso ENEA. Il titolo la porta subito verso M-FC03, perché ENEA compare tra gli enti di orientamento dell'Appendice C (capitolo 47). Poi legge meglio: il profilo è tecnologo, il programma richiama competenze tecnico-scientifiche, titoli di ricerca e attività progettuali specialistiche.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-e-rinvii-ragionati-altri-moduli.md",
+      "before": "La lettura debole sarebbe: \"ENEA è nell'Appendice C, quindi uso M-FC03\". La lettura corretta è diversa. ENEA come ente può stare nel perimetro di orientamento, ma il profilo tecnologo sposta il baricentro. Marta usa M-FC03 solo per capire organizzazione pubblica, bando, amministrazione e contesto; poi rinvia a M-IR03 per il nucleo di ricerca e tecnologia.\r",
+      "after": "La lettura debole sarebbe: \"ENEA è nell'Appendice C (capitolo 47), quindi uso M-FC03\". La lettura corretta è diversa. ENEA come ente può stare nel perimetro di orientamento, ma il profilo tecnologo sposta il baricentro. Marta usa M-FC03 solo per capire organizzazione pubblica, bando, amministrazione e contesto; poi rinvia a M-IR03 per il nucleo di ricerca e tecnologia.\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "| Elementi di diritto dell'Unione europea | Appendice F + libro base costituzionale | Scheda istituzioni/fonti/principi essenziali. |\r",
+      "after": "| Elementi di diritto dell'Unione europea | Appendice F (capitolo 50) + libro base costituzionale | Scheda istituzioni/fonti/principi essenziali. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "| Diritto civile: obbligazioni e contratti | Appendice F + capitolo contratti base | Scheda obbligazione, contratto, responsabilità, adempimento. |\r",
+      "after": "| Diritto civile: obbligazioni e contratti | Appendice F (capitolo 50) + capitolo contratti base | Scheda obbligazione, contratto, responsabilità, adempimento. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "| Diritto del lavoro e legislazione sociale | Appendice F + cap. 4 INAIL + appendice B | Scheda lavoro/previdenza/sicurezza collegata a INAIL. |\r",
+      "after": "| Diritto del lavoro e legislazione sociale | Appendice F (capitolo 50) + cap. 35 INAIL + appendice B (capitolo 46) | Scheda lavoro/previdenza/sicurezza collegata a INAIL. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "| Salute e sicurezza nei luoghi di lavoro | Cap. 4 INAIL + appendice F | Mappa soggetti, obblighi, prevenzione, rischio, controllo. |\r",
+      "after": "| Salute e sicurezza nei luoghi di lavoro | Cap. 35 INAIL + appendice F (capitolo 50) | Mappa soggetti, obblighi, prevenzione, rischio, controllo. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "| Elementi di scienze delle finanze | Appendice F | Scheda entrate, spesa, finanza pubblica, funzione redistributiva. |\r",
+      "after": "| Elementi di scienze delle finanze | Appendice F (capitolo 50) | Scheda entrate, spesa, finanza pubblica, funzione redistributiva. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "| Elementi di diritto processuale civile | Appendice F | Scheda giurisdizione, processo, atti, termini, esecuzione essenziale. |\r",
+      "after": "| Elementi di diritto processuale civile | Appendice F (capitolo 50) | Scheda giurisdizione, processo, atti, termini, esecuzione essenziale. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "| Diritto penale: reati contro la PA | Appendice F + libro base etica/trasparenza | Scheda reati PA, condotta del dipendente, responsabilità. |\r",
+      "after": "| Diritto penale: reati contro la PA | Appendice F (capitolo 50) + libro base etica/trasparenza | Scheda reati PA, condotta del dipendente, responsabilità. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "| Indicatori di qualità, valutazione e verifica | Collegamento con performance e cap. 7, ma con taglio sociale. |\r",
+      "after": "| Indicatori di qualità, valutazione e verifica | Collegamento con performance e cap. 38, ma con taglio sociale. |\r"
+    },
+    {
+      "path": "books/moduli/m-fc03-enti-non-economici/chapters/appendice-f-materie-integrative-inail-ripam.md",
+      "before": "Il capitolo 12 del modulo Agenzie fiscali, sezioni «7. Invalidità e scioglimento» e «5. Responsabilità civile», sviluppa le distinzioni e i relativi casi civilistici. Nel contesto INAIL il danno biologico assicurato e il risarcimento civile non coincidono: il primo segue presupposti e indennizzi dell'assicurazione sociale; il secondo richiede il titolo di responsabilità e può porre questioni di danno differenziale e azioni dell'Istituto.\r",
+      "after": "Il capitolo 29 del modulo Agenzie fiscali, sezioni «7. Invalidità e scioglimento» e «5. Responsabilità civile», sviluppa le distinzioni e i relativi casi civilistici. Nel contesto INAIL il danno biologico assicurato e il risarcimento civile non coincidono: il primo segue presupposti e indennizzi dell'assicurazione sociale; il secondo richiede il titolo di responsabilità e può porre questioni di danno differenziale e azioni dell'Istituto.\r"
+    }
+  ],
+  "linkChanges": [
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/07-avvocatura-stato.md",
+      "target": "books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni",
+      "label": "capitolo 3, Profili professionali, CCNL e mansioni"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "target": "books/moduli/m-fc01-ministeri/chapters/03-profili-professionali-ccnl-mansioni",
+      "label": "capitolo 3, Profili professionali, CCNL e mansioni"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/08-piao-performance-anticorruzione-valore-pubblico.md",
+      "target": "books/moduli/m-fc01-ministeri/chapters/06-organizzazione-interna-ministeri",
+      "label": "capitolo 6, Organizzazione interna dei Ministeri"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Operazioni IVA e ciclo degli adempimenti",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Operazioni IVA e ciclo degli adempimenti»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#1. Le fonti: prima l'Unione, poi il complemento nazionale",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Le fonti: prima l'Unione, poi il complemento nazionale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "target": "books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa#Reati contro la pubblica amministrazione: il quadro essenziale",
+      "label": "Pubblico impiego e organizzazione della PA — «Reati contro la pubblica amministrazione: il quadro essenziale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Autotutela, definizione e tutela giurisdizionale",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Autotutela, definizione e tutela giurisdizionale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari#8. Ravvedimento operoso",
+      "label": "capitolo 21, Sanzioni amministrative e reati tributari — «Ravvedimento operoso»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#2. Accertamento e riscossione: la separazione essenziale",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Accertamento e riscossione: la separazione essenziale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Tributo, imposta, tassa e contributo",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Tributo, imposta, tassa e contributo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#N-FC02-04-02 · Presupposto, soggetti e obbligazione tributaria",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Presupposto, soggetti e obbligazione tributaria»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Il soggetto passivo",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Il soggetto passivo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Base imponibile, aliquota e imposta dovuta",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Base imponibile, aliquota e imposta dovuta»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Dichiarazione originaria, correttiva, integrativa e omessa",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Dichiarazione originaria, correttiva, integrativa e omessa»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#7. Documento, registri e liquidazione",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Documento, registri e liquidazione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Compensazione: gate in sei controlli",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Compensazione: gate in sei controlli»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#6. Rivalsa, detrazione e liquidazione",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Rivalsa, detrazione e liquidazione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#6. Rivalsa, detrazione e liquidazione",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Rivalsa, detrazione e liquidazione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Controllo automatico, formale e sostanziale",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Controllo automatico, formale e sostanziale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Accertamento e riscossione non coincidono",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Accertamento e riscossione non coincidono»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Il contraddittorio informato ed effettivo",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Il contraddittorio informato ed effettivo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Compliance fiscale ordinaria",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Compliance fiscale ordinaria»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#3. Il percorso ordinario: ruolo, cartella e pagamento",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Il percorso ordinario: ruolo, cartella e pagamento»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#5. Rateizzazione: pagare nel tempo senza cancellare il debito",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Rateizzazione: pagare nel tempo senza cancellare il debito»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#6. Sospensione, sgravio e ricorso non sono sinonimi",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Sospensione, sgravio e ricorso non sono sinonimi»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#2. Territorio doganale e status delle merci",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Territorio doganale e status delle merci»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#5. La dichiarazione doganale",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «La dichiarazione doganale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#6. Classificazione tariffaria: che cosa è la merce",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Classificazione tariffaria: che cosa è la merce»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#7. Origine: il legame economico con un Paese",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Origine: il legame economico con un Paese»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#8. Valore in dogana: quanto vale ai fini doganali",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Valore in dogana: quanto vale ai fini doganali»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#9. I principali regimi doganali",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «I principali regimi doganali»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#10. Debito doganale e garanzia",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Debito doganale e garanzia»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#1. Accisa: struttura del tributo",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Accisa: struttura del tributo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#3. Deposito fiscale, depositario e garanzia",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Deposito fiscale, depositario e garanzia»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#4. Circolazione in sospensione: EMCS ed e-AD",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Circolazione in sospensione: EMCS ed e-AD»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#8. Giochi pubblici: riserva statale e concessione",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Giochi pubblici: riserva statale e concessione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#1. Funzione e natura del catasto",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Funzione e natura del catasto»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#4. Classamento e rendita catastale",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Classamento e rendita catastale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#5. DOCFA: nuove costruzioni e variazioni urbane",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «DOCFA: nuove costruzioni e variazioni urbane»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#6. PREGEO e aggiornamento geometrico",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «PREGEO e aggiornamento geometrico»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#2. Patrimonio, reddito e finanza",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Patrimonio, reddito e finanza»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#3. Conti e partita doppia",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Conti e partita doppia»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#5. Competenza economica e assestamento",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Competenza economica e assestamento»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#14. Dal bilancio al reddito imponibile",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Dal bilancio al reddito imponibile»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Tributo, imposta, tassa e contributo",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Tributo, imposta, tassa e contributo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Tributo, imposta, tassa e contributo",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Tributo, imposta, tassa e contributo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Tributo, imposta, tassa e contributo",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Tributo, imposta, tassa e contributo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Base imponibile, aliquota e imposta dovuta",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Base imponibile, aliquota e imposta dovuta»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#Obbligazione tributaria",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Obbligazione tributaria»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#I poteri istruttori",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «I poteri istruttori»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#La prova e la motivazione",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «La prova e la motivazione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Autotutela, definizione e tutela giurisdizionale",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Autotutela, definizione e tutela giurisdizionale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Autotutela, definizione e tutela giurisdizionale",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Autotutela, definizione e tutela giurisdizionale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Adempimento collaborativo e tax control framework",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Adempimento collaborativo e tax control framework»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#3. Il percorso ordinario: ruolo, cartella e pagamento",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Il percorso ordinario: ruolo, cartella e pagamento»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#4. L'accertamento esecutivo e l'avviso di presa in carico",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «L'accertamento esecutivo e l'avviso di presa in carico»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#4. L'accertamento esecutivo e l'avviso di presa in carico",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «L'accertamento esecutivo e l'avviso di presa in carico»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#6. Sospensione, sgravio e ricorso non sono sinonimi",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Sospensione, sgravio e ricorso non sono sinonimi»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#7. Misure cautelari ed esecuzione forzata",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Misure cautelari ed esecuzione forzata»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#3. I soggetti della dichiarazione",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «I soggetti della dichiarazione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#4. Dall'arrivo allo svincolo",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Dall'arrivo allo svincolo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#9. I principali regimi doganali",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «I principali regimi doganali»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#9. I principali regimi doganali",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «I principali regimi doganali»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#10. Debito doganale e garanzia",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Debito doganale e garanzia»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#2. Fatto generatore ed esigibilità",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Fatto generatore ed esigibilità»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#2. Fatto generatore ed esigibilità",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Fatto generatore ed esigibilità»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#4. Circolazione in sospensione: EMCS ed e-AD",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Circolazione in sospensione: EMCS ed e-AD»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#4. Circolazione in sospensione: EMCS ed e-AD",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Circolazione in sospensione: EMCS ed e-AD»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#9. Rete fisica, rete a distanza e filiera",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Rete fisica, rete a distanza e filiera»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#4. Classamento e rendita catastale",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Classamento e rendita catastale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#3. Identificativi e lettura della visura",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Identificativi e lettura della visura»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#7. Voltura e intestazioni catastali",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Voltura e intestazioni catastali»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#12. Trascrizione, iscrizione e annotazione",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Trascrizione, iscrizione e annotazione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#13. Ispezione ipotecaria e continuità",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Ispezione ipotecaria e continuità»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#1. Azienda, impresa e gestione",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Azienda, impresa e gestione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#4. Ricavo e incasso, costo e pagamento",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Ricavo e incasso, costo e pagamento»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#4. Ricavo e incasso, costo e pagamento",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Ricavo e incasso, costo e pagamento»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#8. Stato patrimoniale",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Stato patrimoniale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#9. Conto economico e margini",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Conto economico e margini»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#10. Rendiconto finanziario e liquidita",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Rendiconto finanziario e liquidita»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#11. Rimanenze, immobilizzazioni, crediti e fondi",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Rimanenze, immobilizzazioni, crediti e fondi»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco#11. Rimanenze, immobilizzazioni, crediti e fondi",
+      "label": "capitolo 28, Contabilità aziendale ed economia d'impresa per il fisco — «Rimanenze, immobilizzazioni, crediti e fondi»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#1. Rapporto giuridico e soggetti",
+      "label": "capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Rapporto giuridico e soggetti»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#1. Rapporto giuridico e soggetti",
+      "label": "capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Rapporto giuridico e soggetti»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#3. Adempimento, inadempimento e mora",
+      "label": "capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Adempimento, inadempimento e mora»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#9. Garanzia patrimoniale e garanzie specifiche",
+      "label": "capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Garanzia patrimoniale e garanzie specifiche»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#6. Contratto: formazione ed effetti",
+      "label": "capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Contratto: formazione ed effetti»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#11. Società e autonomia patrimoniale",
+      "label": "capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Società e autonomia patrimoniale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#12. Crisi d'impresa: box di allerta",
+      "label": "capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Crisi d'impresa: box di allerta»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Il ciclo dell'adempimento fiscale",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Il ciclo dell'adempimento fiscale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Dal dato al controllo",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Dal dato al controllo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Lo schema di atto e l'atto finale",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Lo schema di atto e l'atto finale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#2. Accertamento e riscossione: la separazione essenziale",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Accertamento e riscossione: la separazione essenziale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#6. Classificazione tariffaria: che cosa è la merce",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Classificazione tariffaria: che cosa è la merce»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#7. Origine: il legame economico con un Paese",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Origine: il legame economico con un Paese»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#8. Valore in dogana: quanto vale ai fini doganali",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Valore in dogana: quanto vale ai fini doganali»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#1. Funzione e natura del catasto",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Funzione e natura del catasto»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#11. Pubblicità immobiliare: funzione civilistica",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Pubblicità immobiliare: funzione civilistica»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Il ciclo dell'adempimento fiscale",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Il ciclo dell'adempimento fiscale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Imposte sui redditi: qualificare prima di calcolare",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Imposte sui redditi: qualificare prima di calcolare»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Compensazione: gate in sei controlli",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Compensazione: gate in sei controlli»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni#Operazioni IVA e ciclo degli adempimenti",
+      "label": "capitolo 23, Adempimenti fiscali: redditi, IVA, dichiarazioni — «Operazioni IVA e ciclo degli adempimenti»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale#Dal dato al controllo",
+      "label": "capitolo 20, Accertamento, controlli e compliance fiscale — «Dal dato al controllo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#6. Sospensione, sgravio e ricorso non sono sinonimi",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Sospensione, sgravio e ricorso non sono sinonimi»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#4. Dall'arrivo allo svincolo",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Dall'arrivo allo svincolo»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#2. Fatto generatore ed esigibilità",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Fatto generatore ed esigibilità»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli#8. Giochi pubblici: riserva statale e concessione",
+      "label": "capitolo 26, Accise, giochi e monopoli — «Giochi pubblici: riserva statale e concessione»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare#14. Il lavoro nei servizi Territorio e SPI",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare — «Il lavoro nei servizi Territorio e SPI»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali#Griglia di risposta per casi pratici",
+      "label": "capitolo 30, Casi pratici, quiz e orale nelle Agenzie fiscali — «Griglia di risposta per casi pratici»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione#12. Crisi d'impresa: box di allerta",
+      "label": "capitolo 29, Civile e commerciale applicati a fisco, dogane e riscossione — «Crisi d'impresa: box di allerta»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa",
+      "label": "Pubblico impiego e organizzazione della PA"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc01-ministeri/index",
+      "label": "M-FC01 - Ministeri e Presidenza del Consiglio"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-tr02-appalti-pnrr-fondi-ue/index",
+      "label": "M-TR02 — Appalti, PNRR e fondi UE"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-tr01-ict-trasformazione-digitale/index",
+      "label": "M-TR01 — ICT e trasformazione digitale"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare",
+      "label": "capitolo 27, Catasto, cartografia, estimo e pubblicità immobiliare"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale#Quando M-FC02 non è il modulo principale",
+      "label": "capitolo 17, Bando Decoder fiscale — «Quando M-FC02 non è il modulo principale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader#9. Front-office: una checklist che evita errori",
+      "label": "capitolo 24, Riscossione nazionale e lavoro in AdER — «Front-office: una checklist che evita errori»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali#Caso situazionale: utente aggressivo allo sportello",
+      "label": "capitolo 30, Casi pratici, quiz e orale nelle Agenzie fiscali — «Caso situazionale: utente aggressivo allo sportello»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari",
+      "label": "capitolo 21, Sanzioni amministrative e reati tributari"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari",
+      "label": "capitolo 21, Sanzioni amministrative e reati tributari"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario",
+      "label": "capitolo 22, Tutela e processo tributario"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta#N-FC02-04-05 · Quadro UE fiscale, IVA e dogane",
+      "label": "capitolo 19, Diritto tributario e teoria dell'imposta — «Quadro UE fiscale, IVA e dogane»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm#1. Le fonti: prima l'Unione, poi il complemento nazionale",
+      "label": "capitolo 25, Dogane e procedure doganali ADM — «Le fonti: prima l'Unione, poi il complemento nazionale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali#Struttura della risposta orale",
+      "label": "capitolo 30, Casi pratici, quiz e orale nelle Agenzie fiscali — «Struttura della risposta orale»"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "target": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali#Diario errori fiscale",
+      "label": "capitolo 30, Casi pratici, quiz e orale nelle Agenzie fiscali — «Diario errori fiscale»"
+    }
+  ],
+  "workbookChanges": [
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/13-matrice-materie-piano-30-60-90.md",
+      "headers": [
+        "Nucleo",
+        "Fonte nel bando",
+        "Profilo",
+        "Prova",
+        "Livello iniziale",
+        "Priorità",
+        "Output",
+        "Stato"
+      ],
+      "original": "| Nucleo | Fonte nel bando | Profilo | Prova | Livello iniziale | Priorità | Output | Stato |\r\n|---|---|---|---|---|---|---|---|\r\n| esempio: organizzazione ministeriale | punto o allegato | amministrativo | quiz/orale | medio | A | 20 quiz + risposta | attivo |\r",
+      "vertical": "| Campo | Compilazione |\n|---|---|\n| Nucleo | esempio: organizzazione ministeriale |\n| Fonte nel bando | punto o allegato |\n| Profilo | amministrativo |\n| Prova | quiz/orale |\n| Livello iniziale | medio |\n| Priorità | A |\n| Output | 20 quiz + risposta |\n| Stato | attivo |"
+    },
+    {
+      "path": "books/moduli/m-fc01-ministeri/chapters/14-simulazione-finale-diario-errori.md",
+      "headers": [
+        "Data",
+        "Prova/nucleo",
+        "Errore",
+        "Causa",
+        "Regola",
+        "Recupero",
+        "Nuova prova",
+        "Esito"
+      ],
+      "original": "| Data | Prova/nucleo | Errore | Causa | Regola | Recupero | Nuova prova | Esito |\r\n|---|---|---|---|---|---|---|---|\r\n| | | | | | | | |\r",
+      "vertical": "| Campo | Compilazione |\n|---|---|\n| Data | ________________________<br>________________________ |\n| Prova/nucleo | ________________________<br>________________________ |\n| Errore | ________________________<br>________________________ |\n| Causa | ________________________<br>________________________ |\n| Regola | ________________________<br>________________________ |\n| Recupero | ________________________<br>________________________ |\n| Nuova prova | ________________________<br>________________________ |\n| Esito | ________________________<br>________________________ |"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "kind": "BANDO map two-column projection",
+      "original": "| Passaggio | Domanda guida | Applicazione al capitolo |\r\n|---|---|---|\r\n| B - Bando | Che prova devo sostenere davvero? | Quiz, scritto, teorico-pratico, orale, idoneità, titoli, soglie e penalità vanno ricavati dal bando e dagli avvisi ufficiali. |\r\n| A - Aree | Quali materie pesano nel profilo? | Tributario, dogane, riscossione, contabilità, civile/commerciale, organizzazione, amministrativo e competenze digitali vanno gerarchizzati. |\r\n| N - Nuclei | Quali concetti tornano in più prove? | Soggetti, competenze, atti, termini, procedimenti, poteri, garanzie, controlli, pagamento, impugnazione, front-office. |\r\n| D - Diario | Quale errore devo correggere prima della prossima prova? | Registra il passaggio sbagliato, la regola corretta e un esercizio di verifica. |\r\n| O - Output | Che prodotto devo allenare? | Simulazione, scheda caso, risposta da 90 secondi, diario errori, piano 30/60/90. |\r\n",
+      "vertical": "| Passaggio e domanda | Applicazione al capitolo |\n|---|---|\n| **B - Bando** — Che prova devo sostenere davvero? | Quiz, scritto, teorico-pratico, orale, idoneità, titoli, soglie e penalità vanno ricavati dal bando e dagli avvisi ufficiali. |\n| **A - Aree** — Quali materie pesano nel profilo? | Tributario, dogane, riscossione, contabilità, civile/commerciale, organizzazione, amministrativo e competenze digitali vanno gerarchizzati. |\n| **N - Nuclei** — Quali concetti tornano in più prove? | Soggetti, competenze, atti, termini, procedimenti, poteri, garanzie, controlli, pagamento, impugnazione, front-office. |\n| **D - Diario** — Quale errore devo correggere prima della prossima prova? | Registra il passaggio sbagliato, la regola corretta e un esercizio di verifica. |\n| **O - Output** — Che prodotto devo allenare? | Simulazione, scheda caso, risposta da 90 secondi, diario errori, piano 30/60/90. |\n"
+    },
+    {
+      "path": "books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "headers": [
+        "Nucleo",
+        "Capitolo",
+        "Stato",
+        "Giorno 1",
+        "3",
+        "7",
+        "14",
+        "30",
+        "Errore",
+        "Nuovo output"
+      ],
+      "original": "| Nucleo | Capitolo | Stato | Giorno 1 | 3 | 7 | 14 | 30 | Errore | Nuovo output |\r\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\r\n| | | rosso/giallo/verde | | | | | | | |\r",
+      "vertical": "| Campo | Compilazione |\n|---|---|\n| Nucleo | ________________________<br>________________________ |\n| Capitolo | ________________________<br>________________________ |\n| Stato | rosso/giallo/verde |\n| Giorno 1 | ________________________<br>________________________ |\n| 3 | ________________________<br>________________________ |\n| 7 | ________________________<br>________________________ |\n| 14 | ________________________<br>________________________ |\n| 30 | ________________________<br>________________________ |\n| Errore | ________________________<br>________________________ |\n| Nuovo output | ________________________<br>________________________ |"
+    }
+  ],
+  "notes": [
+    "Projection only: master module numbering preserved",
+    "All chapter/nucleus order inherited from canonical current API",
+    "Digital promise and publisher details remain common unresolved dependency"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "V07-14": {
+    "change": "Uniformati gli imperativi in SA01/10 e SA02/05.",
+    "files": [
+      "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/10-procurement-farmaci-dispositivi-magazzino.md",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md"
+    ],
+    "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+    "status": "applicato"
+  },
+  "V07-15": {
+    "change": "Responsabilità civile/penale e assicurazione, limite temporaneo 2026, consenso/DAT/pianificazione/minori con casi risolti.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/03-discipline-professionali-autonomia-responsabilita.md",
+      "wiki/sources/sicurezza-cure-responsabilita-consenso-leggi-24-219.md"
+    ],
+    "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+    "status": "applicato"
+  },
+  "V07-16": {
+    "change": "Diagnosi infermieristica distinta da medica, scale, cinque momenti, precauzioni e prevenzione catetere; esempi e verifica.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/04-assistenza-infermieristica-tecniche-assistenziali-oss.md",
+      "wiki/sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione.md"
+    ],
+    "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+    "status": "applicato"
+  },
+  "V07-17": {
+    "change": "Scala 2 NEWS2 circoscritta a insufficienza respiratoria ipercapnica confermata e decisione documentata, non BPCO isolata.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md"
+    ],
+    "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+    "status": "applicato"
+  },
+  "V07-18": {
+    "change": "Esclusioni NEWS2 per minori di 16 anni e gravidanza, senza estensione dai contenuti ostetrici del capitolo.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "wiki/sources/deterioramento-clinico-news2-sepsi-regioni.md"
+    ],
+    "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+    "status": "applicato"
+  },
+  "V07-19": {
+    "change": "Cinque priorità nazionali di triage con tempi, rivalutazione e caso risolto; nuovo dato operativo tracciato.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md",
+      "wiki/sources/sicurezza-terapia-triage-assistenza-infermieristica-ministero.md"
+    ],
+    "evidence": "Fonte primaria e passaggi pertinenti ricontrollati; casi risolti, limiti esplicitati. Step 15 e nuovo PDF ancora da concludere.",
+    "status": "applicato"
+  }
+}

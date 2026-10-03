@@ -1,0 +1,326 @@
+{
+  "errors": [],
+  "summary": [
+    {
+      "volume": "VOL-01",
+      "chapters": 54,
+      "ricettario": 23,
+      "assets": 243,
+      "imageBlocks": 180,
+      "states": {
+        "draft": 54
+      },
+      "reviewRequired": 23
+    },
+    {
+      "volume": "VOL-02",
+      "chapters": 51,
+      "ricettario": 0,
+      "assets": 0,
+      "imageBlocks": 0,
+      "states": {
+        "draft": 49,
+        "written": 2
+      },
+      "reviewRequired": 4
+    },
+    {
+      "volume": "VOL-03",
+      "chapters": 50,
+      "ricettario": 0,
+      "assets": 0,
+      "imageBlocks": 0,
+      "states": {
+        "draft": 50
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-04",
+      "chapters": 17,
+      "ricettario": 0,
+      "assets": 0,
+      "imageBlocks": 0,
+      "states": {
+        "draft": 17
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-05",
+      "chapters": 15,
+      "ricettario": 0,
+      "assets": 0,
+      "imageBlocks": 0,
+      "states": {
+        "draft": 15
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-06",
+      "chapters": 50,
+      "ricettario": 0,
+      "assets": 0,
+      "imageBlocks": 0,
+      "states": {
+        "draft": 50
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-07",
+      "chapters": 25,
+      "ricettario": 0,
+      "assets": 3,
+      "imageBlocks": 3,
+      "states": {
+        "draft": 25
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-08",
+      "chapters": 13,
+      "ricettario": 0,
+      "assets": 0,
+      "imageBlocks": 0,
+      "states": {
+        "draft": 13
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-09",
+      "chapters": 14,
+      "ricettario": 0,
+      "assets": 1,
+      "imageBlocks": 1,
+      "states": {
+        "draft": 14
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-10",
+      "chapters": 13,
+      "ricettario": 0,
+      "assets": 4,
+      "imageBlocks": 4,
+      "states": {
+        "draft": 13
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-11",
+      "chapters": 14,
+      "ricettario": 0,
+      "assets": 0,
+      "imageBlocks": 0,
+      "states": {
+        "draft": 14
+      },
+      "reviewRequired": 0
+    },
+    {
+      "volume": "VOL-12",
+      "chapters": 32,
+      "ricettario": 0,
+      "assets": 0,
+      "imageBlocks": 0,
+      "states": {
+        "draft": 32
+      },
+      "reviewRequired": 0
+    }
+  ],
+  "outsideOriginalReviewPerimeter": [
+    {
+      "id": "chapter-aggiornare-il-metodo-dopo-il-libro",
+      "title": "Aggiornare il metodo dopo il libro",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/aggiornare-il-metodo-dopo-il-libro.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-trasformare-ogni-concorso-in-capitale-di-studio",
+      "title": "Trasformare ogni concorso in capitale di studio",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/trasformare-ogni-concorso-in-capitale-di-studio.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-gestire-concorsi-paralleli-senza-dispersersi",
+      "title": "Gestire concorsi paralleli senza disperdersi",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/gestire-concorsi-paralleli-senza-dispersersi.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-usare-il-digitale-senza-perdere-il-metodo",
+      "title": "Usare il digitale senza perdere il metodo",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/usare-il-digitale-senza-perdere-il-metodo.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-reggere-la-preparazione-energia-ansia-continuita",
+      "title": "Reggere la preparazione: energia, ansia e continuità",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/reggere-la-preparazione-energia-ansia-continuita.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-dopo-la-prova-esiti-graduatoria-prossima-mossa",
+      "title": "Dopo la prova: esiti, graduatoria e prossima mossa",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/dopo-la-prova-esiti-graduatoria-prossima-mossa.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-prendere-servizio-nella-pa-dal-concorso-al-ruolo",
+      "title": "Prendere servizio nella PA: dal concorso al ruolo",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/prendere-servizio-nella-pa-dal-concorso-al-ruolo.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-il-tuo-sistema-bando-personale",
+      "title": "Il tuo sistema BANDO personale",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/il-tuo-sistema-bando-personale.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-manuali-corsi-banche-dati-scegliere-senza-disperdersi",
+      "title": "Manuali, corsi e banche dati: scegliere senza disperdersi",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/manuali-corsi-banche-dati-scegliere-senza-disperdersi.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-simulazioni-concorsuali-dalla-preparazione-alla-prova",
+      "title": "Simulazioni concorsuali: dalla preparazione alla prova",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/simulazioni-concorsuali-dalla-preparazione-alla-prova.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-schede-operative-trasformare-studio-ed-errori-in-risposte",
+      "title": "Schede operative: trasformare studio ed errori in risposte",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/schede-operative-trasformare-studio-ed-errori-in-risposte.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-tagliare-senza-perdere-punti-priorita-studio-alta-resa",
+      "title": "Tagliare senza perdere punti: priorità e studio ad alta resa",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/tagliare-senza-perdere-punti-priorita-studio-alta-resa.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-strategia-di-punteggio-soglie-tempo-rischio-prova",
+      "title": "Strategia di punteggio: soglie, tempo e rischio nella prova",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/strategia-di-punteggio-soglie-tempo-rischio-prova.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-giorno-della-prova-routine-logistica-lucidita-operativa",
+      "title": "Il giorno della prova: routine, logistica e lucidità operativa",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/giorno-della-prova-routine-logistica-lucidita-operativa.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-tra-una-prova-e-l-altra-ripianificare-senza-ricominciare",
+      "title": "Tra una prova e l'altra: ripianificare senza ricominciare",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/tra-una-prova-e-l-altra-ripianificare-senza-ricominciare.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-ripasso-finale-consolidare-senza-saturarsi",
+      "title": "Ripasso finale: consolidare senza saturarsi",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/ripasso-finale-consolidare-senza-saturarsi.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-caso-completo-bando-dal-bando-alla-prova",
+      "title": "Caso completo BANDO: dal bando alla prova",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/caso-completo-bando-dal-bando-alla-prova.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-banca-dati-ufficiale-studiarla-senza-memorizzare-male",
+      "title": "Banca dati ufficiale: studiarla senza memorizzare male",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/banca-dati-ufficiale-studiarla-senza-memorizzare-male.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-risposta-sintetica-scrivere-poco-dire-tutto",
+      "title": "Risposta sintetica: scrivere poco, dire tutto",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/risposta-sintetica-scrivere-poco-dire-tutto.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-confrontare-istituti-simili-differenze-che-fanno-punti",
+      "title": "Confrontare istituti simili: differenze che fanno punti",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/confrontare-istituti-simili-differenze-che-fanno-punti.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-collegare-le-materie-dal-programma-alla-risposta-integrata",
+      "title": "Collegare le materie: dal programma alla risposta integrata",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/collegare-le-materie-dal-programma-alla-risposta-integrata.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-domande-impreviste-rispondere-senza-inventare",
+      "title": "Domande impreviste: rispondere senza inventare",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/domande-impreviste-rispondere-senza-inventare.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    },
+    {
+      "id": "chapter-revisione-finale-controllare-prima-di-consegnare",
+      "title": "Revisione finale: controllare prima di consegnare",
+      "sourcePath": "wiki/books/il-metodo-bando/chapters/revisione-finale-controllare-prima-di-consegnare.md",
+      "scope": "ricettario",
+      "reviewRequired": true,
+      "contentState": "draft"
+    }
+  ],
+  "textFlagsForReview": [],
+  "scope": "Integrity, source identity and perimeter reconciliation only; does not certify textual accuracy or rendered web layout."
+}

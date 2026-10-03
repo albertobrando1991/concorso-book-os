@@ -2,11 +2,13 @@
 type: pipeline_spec
 volume_code: VOL-01
 volume_title: Manuale base PA — Il Metodo BANDO
-cut_off_date: 2026-08-21
+cut_off_date: 2026-10-03
 writer_provider: codex
 phases: [D, E, F]
 status: editorial_review_done
-updated_at: 2026-08-21
+updated_at: 2026-10-03
+integration_cut_off_date: 2026-10-02
+integration_scope: INT01-INT04-capitoli-05-06-12
 review_required: true
 ---
 
@@ -57,6 +59,12 @@ La scheda registra soltanto le fasi ancora mancanti nel protocollo corrente. La 
 | E | Schema universale di risposta orale | chapters/appendice-e-schema-universale-risposta-orale.md | planning/02-matrice-copertura-didattica.md | completo | appendice |
 | F | Matrice materie/profili | chapters/appendice-f-matrice-materie-profili.md | planning/02-matrice-copertura-didattica.md | completo | appendice |
 
-## Perimetro escluso
+## Correzioni integrali del 3 ottobre 2026
+
+Il ciclo corrente comprende i49rilievi del testo delle32unità autoriali e i due rilievi dei preliminari, oltre alle figure e all’impaginazione. Il precedente delta INT01–04 e le altre integrazioni esistenti sono preservati; i vecchi report sono archiviati prima della sostituzione. Cut-off dell’edizione3ottobre2026: i nuovi riscontri sono puntuali, con fonti e limiti nel report, senza dichiarare una lettura integrale aggiornata di ogni norma.
+
+Target CLI: `il-metodo-bando`. La matrice conserva21aggregati legacy e aggiunge il collegamento ai49rilievi, senza promozione al formato2. Dopo step14 e15 occorre un nuovo freeze dei32testi; i preliminari con dati ancora pendenti e ogni prova PDF sono esclusi da quel giudizio. Nuova impaginazione, controllo di tutte le pagine e preflight richiesti prima della consegna. V01-50/51 non si chiudono tramite il freeze dei capitoli.
+
+## Perimetro escluso dal nuovo ciclo
 
 I 23 file con `outline_section` 25-47 appartengono al Ricettario operativo digitale: sono un prodotto collegato ma non entrano nel PDF cartaceo di VOL-01. La pipeline corrente li esclude dal freeze e dalla consegna dell’interno KDP.

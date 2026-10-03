@@ -9,7 +9,7 @@ entities: ["Agenzia delle Entrate-Riscossione", "Agenzia delle Entrate", "enti c
 source_refs: ["sources/riscossione-agenzia-entrate-riscossione-m-fc02.md", "sources/assetti-organizzativi-ae-adm-ader-verifica-2026-07-17.md"]
 book_refs: ["m-fc02-agenzie-fiscali"]
 confidence: 0.97
-updated_at: 2026-07-17T23:40:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-17T23:40:00+02:00
 review_required: true
 canonical: true
@@ -56,3 +56,11 @@ Nel capitolo 7 distinguere sempre:
 ## Note di review
 
 Le soglie, il numero massimo di rate, le cause di decadenza e le discipline agevolative sono dati mobili. Verificarli sul portale AdER e sul testo vigente dell'art. 19 del D.P.R. 602/1973 prima della pubblicazione o dell'aggiornamento annuale.
+
+## Rettifica sul fermo del 3 ottobre 2026
+
+Art. 86 D.P.R. 602/1973: divieto di circolazione, non divieto assoluto di alienazione; preavviso 30 giorni e prova della strumentalità. Sospensione del fermo dopo integrale e tempestivo prima rata nelle condizioni previste, cancellazione dopo saldo. Fonte primaria riletta: [AdER, procedure cautelari](https://www.agenziaentrateriscossione.gov.it/it/Per-saperne-di-piu/le-procedure/procedurecautelari/). Capitolo 07 e topic riscossione allineati.
+
+### Riscontro conclusivo del 3 ottobre 2026
+
+[AdER, rateizzazione dal 2025](https://www.agenziaentrateriscossione.gov.it/it/il-gruppo/lagenzia-comunica/novita/Rateizzazione-cosa-cambia-dal-1-gennaio-2025/): confermati 120.000 euro per istanza e 84 rate 2025–2026. [AdER, sospensione](https://www.agenziaentrateriscossione.gov.it/it/imprese/Sospensione/): 60 giorni, istanza non ripetibile, atti notificati dall’agente; esclusi avvisi dell’ente impositore e solleciti ordinari. Precisazione riportata nel capitolo 07.

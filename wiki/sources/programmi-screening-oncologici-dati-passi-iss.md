@@ -11,9 +11,9 @@ source_refs:
   - "sources/sorveglianza-passi-protocollo-operativo-iss"
 book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
-updated_at: 2026-07-29T18:00:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T17:30:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["source", "iss", "passi", "epidemiologia", "screening", "dataset", "m-sa02"]
 source_type: official_surveillance_results
@@ -58,7 +58,11 @@ La tabella 2025 fornisce valori numerici riusabili in esercizi controllati. Per 
 
 ## Limiti e cautele
 
-PASSI è una sorveglianza campionaria basata su interviste: le stime non sono conteggi amministrativi degli inviti o degli esami. Le schede mammografica e cervicale sono profili regionali che includono confronti nazionali; non vanno presentate come rapporti nazionali completi. Le componenti organizzata e spontanea possono non sommare esattamente al totale per arrotondamento e procedura di stima. I confronti fra territori richiedono attenzione a campionamento, pesi e intervalli di confidenza; non dimostrano da soli causalità o efficacia.
+PASSI è una sorveglianza campionaria basata su interviste: le stime non sono conteggi amministrativi degli inviti o degli esami. Le schede mammografica e cervicale sono profili regionali che includono confronti nazionali; non vanno presentate come rapporti nazionali completi. Nel PDF 2025, pagina stampata 20, i valori sono trascritti correttamente ma le componenti pubblicate non sommano al totale: scarti di 0,2 punti per cervicale, 0,3 per mammografico e 0,4 per colorettale. Il solo arrotondamento di tre valori al decimo non basta a spiegare scarti superiori a 0,15 punti; pesi comuni non eliminano l'additività. Il prospetto non consente di stabilire qui la causa: servono denominatori effettivi, trattamento dei dati mancanti e regole di classificazione. Non attribuire lo scarto alla pesatura senza prova, né modificare i valori ufficiali. I confronti fra territori richiedono attenzione a campionamento, pesi e intervalli di confidenza; non dimostrano da soli causalità o efficacia.
+
+## Quadro dei programmi, verificato il 3 ottobre 2026
+
+[ISS EpiCentro, screening oncologici](https://www.epicentro.iss.it/screening/) e [archivio informativo](https://www.epicentro.iss.it/screening/2016-2023) sostengono lo schema didattico ordinario: mammografia biennale 50–69 anni; cervice, Pap test triennale 25–29 e HPV primario quinquennale 30–64; colorettale, ricerca del sangue occulto fecale biennale 50–69. Estensioni regionali, storia clinica e percorsi per coorti vaccinate richiedono verifica del programma effettivo: lo schema non è prescrizione individuale. I tempi degli indicatori PASSI sulle endoscopie non diventano automaticamente intervalli universali di offerta del programma.
 
 ## Verifica quantitativa
 
@@ -66,4 +70,8 @@ La batteria [[books/moduli/m-sa02-professioni-sanitarie/planning/03-batteria-ese
 
 ## Stato revisione
 
-Il vuoto su programmi di screening, risultati PASSI recenti e dataset tabellare ufficiale è risolto. La componente quantitativa dispone di una prima batteria verificata; [[sources/premal-definizioni-caso-risposta-segnale-epidemiologico]] e lo scenario collegato risolvono i gap documentali su definizioni di caso, notifica e risposta a un segnale. Il nucleo resta `parziale` finché manca la review epidemiologica indipendente.
+Il vuoto su programmi di screening, risultati PASSI recenti e dataset tabellare ufficiale è risolto. La componente quantitativa dispone di una prima batteria verificata; [[sources/premal-definizioni-caso-risposta-segnale-epidemiologico]] e lo scenario collegato risolvono i gap documentali su definizioni di caso, notifica e risposta a un segnale. Il precedente vincolo di review è superato dal riesame automatico del 3 ottobre 2026: calcoli, limiti inferenziali e definizioni sono verificati nel report 15 M-SA02 corrente.
+
+## Esito editoriale corrente
+
+Riesame automatico dei claim recepiti nei capitoli concluso il 3 ottobre 2026 nei report 15 M-SA02/M-SA03 pertinenti. Questa attestazione aggiorna i rinvii storici a future review; non amplia il perimetro a procedure locali o a tutti gli articoli del corpus. Le fonti mobili mantengono versione e ambito dichiarati.

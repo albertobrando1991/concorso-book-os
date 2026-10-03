@@ -1,0 +1,1153 @@
+{
+  "volume": "VOL-11",
+  "date": "2026-10-02",
+  "status": "text-review-complete",
+  "chapters": [
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "title": "Capitolo 01 — I quattro profili e la mappa del sistema",
+      "sha256": "fe727db84e5811000259c3ac5bd7494cdb3bf06eb288509cb352843cf9e3a569",
+      "lines": 249,
+      "words": 4342,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Sei risposte aperte e classificazione coerenti.",
+        "Blocco identico cinque paragrafi ripetuto cinque volte rr58-65,84-91,118-125,153-160,171-178: grave riempitivo.",
+        "r162 SNPA descritto coordinatore separato dal sistema; precisare ISPRA.",
+        "Rinvii solo volumi, fonti finali generiche e istruzione editoriale visibile.",
+        "Piano30/60/90 unico percorso90giorni senza tre varianti."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-01",
+        "V11-02",
+        "V11-03"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "title": "Capitolo 02 — D.Lgs. 152, MASE, ISPRA e SNPA",
+      "sha256": "7a4ff4fab5ff89eec01012028c4a27fad5c26b80835590dba427dd125e1bbd1f",
+      "lines": 270,
+      "words": 4428,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Sei risposte aperte coerenti ma elementari; due mini-esercizi senza soluzione completa.",
+        "Copertura lacunosa: legge132/2016 SNPA assente, LEPTA non sciolto per esteso né quadro attuativo; Cost117c2s e118 non spiegati; principi152art3bis-sexies precauzione/prevenzione/chi inquina paga assenti.",
+        "Mappa152r63 omette PartePrima,Quinta-bis,Sesta-bis; integrare almeno orientamento.",
+        "Ripetizioni identiche rr88/232,89/234,90/235 e molte formule di chiusura premesse al nucleo.",
+        "Fonti generiche nessuna legge istitutiva SNPA o fonte organizzativa MASE."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-04",
+        "V11-05"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "title": "Capitolo 03 — VIA, VAS e valutazioni ambientali",
+      "sha256": "007d86b372cf52a6d7ceb1d5271deae63f6dfc8bcc3fc1634d866d2f84ee9cec",
+      "lines": 289,
+      "words": 5304,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            3
+          ],
+          "claim": "Art. 25, comma 7-ter, VIA nel 2026",
+          "url": "https://unmig.mase.gov.it/decreto-legge-20-febbraio-2026-n-21/",
+          "outcome": "Testo primario indicizzato riscontrato: giudizio sull’intero ciclo di vita e verbo esprime. Non certificato integralmente il testo consolidato di tutta la parte seconda."
+        }
+      ],
+      "findings": [
+        "Quiz B A B C C B coerenti, distrattori elementari.",
+        "r118 distingue verifica preliminare da screening poi r120 li equipara; distinguere art6c9 pre-screening e19, screeningVAS12 assente.",
+        "r224 assegna VIA a opera solo perché progetto, mancano presupposti/allegati; correggere VIA o screening o nessuno secondo campo.",
+        "Assenti VIncA DPR357/1997art5 Natura2000, PAUR27bis, art27, scoping, competenze7bis, termini e principali esclusioni; VAS effetti/parere motivato solo elenco.",
+        "r98 art25c7ter2026 da verificare primario; dettaglio iperspecifico senza teoria base.",
+        "Ripetizioni estese delle medesime definizioni."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-06",
+        "V11-07",
+        "V11-08",
+        "V11-09"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "title": "Capitolo 04 — AIA, AUA, emissioni e autorizzazioni",
+      "sha256": "92ed87e06cb293f7994f7e1da7b1446531b5eb4acc8201bdda85778396e3ec5c",
+      "lines": 239,
+      "words": 4625,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            4
+          ],
+          "claim": "Ulteriori atti regionali AUA",
+          "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=13G00101&atto.dataPubblicazioneGazzetta=2013-05-29",
+          "outcome": "Identificata la fonte primaria del D.P.R. n. 59/2013; apertura diretta non riuscita. Il riferimento puntuale proposto è art. 3, comma 2, da acquisire al consolidamento."
+        }
+      ],
+      "findings": [
+        "Sei risposte aperte coerenti ma AUAquiz2 da precisare ruoli adozione autorita e rilascioSUAP.",
+        "r110 elenco AUA detto tassativo senza art3c2 ulteriori atti individuabili dalleRegioni; r108 adotta o trasmette SUAP ambiguo.",
+        "AUA15anni/rinnovo6mesi/procedure90-120-150giorni e facolta comunicazioni/autorizzazioni generali assenti; AIAcampoallegatiVIII/XII,BAT4anni,riesame10-12-16anni noninsegnati.",
+        "r95 nonimprovvisare termini se domanda nonfornisce sostituisce apprendimento normativo.",
+        "Emissioni269durata15anni,rinnovo1anno,regimi272 e differenza modifica sostanziale assenti.",
+        "Caso volutamente senza dati per selezionare regime; minis senza soluzione numerica.",
+        "r128 emissione definita sostanza senza qualificazioni268; aggiornamentoIED2024/1785 recepimento2026 da verificare."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-10",
+        "V11-11",
+        "V11-12"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "title": "Capitolo 05 — Acque, scarichi e servizio idrico",
+      "sha256": "ec304e0d8bffb1cf7ccf58cc74f8b3328db73c77d3da1dcf5552824da6e802bd",
+      "lines": 310,
+      "words": 5177,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            5
+          ],
+          "claim": "RQTI include M0",
+          "url": "https://www.arera.it/fileadmin/allegati/docs/26/1-26disa.pdf",
+          "outcome": "Testo primario indicizzato letto: elenco M0–M6, inclusa resilienza idrica. Confermato anche nella delibera 595/2024/R/idr."
+        }
+      ],
+      "findings": [
+        "Sei risposte aperte e caso coerenti, buona distinzione scarico/rifiuto e nota svolta.",
+        "r148 durata4anni ma omette termine rinnovo1anno e rapporto durataAUA15anni; competenza nazionale124c7 nascosta dietro sola disciplina regionale.",
+        "Assenti pianificazione distrettuale/PTA, stato ecologico/chimico e obiettiviqualita; scarichi suolo/sottosuolo divieti103/104 solo evocati.",
+        "Campionamento nessun esempio tabella3/allegato5 o regola campionemedio3ore con motivazionealternative; didattica resta metodo.",
+        "r215 macroindicatoriARERA omette nuovoM0 resilienzaidrica; verificare quadro2026.",
+        "r207 carattere soft-hyphen in programma; fontiARERA prive estremi; minis no verbale completo."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-13",
+        "V11-14",
+        "V11-15",
+        "V11-16"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "title": "Capitolo 06 — Rifiuti, economia circolare e RENTRI",
+      "sha256": "d1e8c0bd3d4c4723b6b16d57024e86b228b6693230e9e16c4fd32f680802301c",
+      "lines": 263,
+      "words": 5504,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            6
+          ],
+          "claim": "FIR digitale dal 16 settembre 2026",
+          "url": "https://www.rentri.gov.it/news/fir-chiusura-delle-modalita-operative-di-sicurezza",
+          "outcome": "Riscontro primario istituzionale della transizione fino al 15 settembre e obbligo dal 16 settembre per gli iscritti; il dato del capitolo non è stato classificato come errore."
+        },
+        {
+          "chapters": [
+            6
+          ],
+          "claim": "MUD 2026, termine 3 luglio",
+          "url": "https://www.isprambiente.gov.it/it/servizi/mud-2026",
+          "outcome": "Riscontro primario del D.P.C.M. 30 gennaio 2026 e termine del 3 luglio per i dati 2025."
+        }
+      ],
+      "findings": [
+        "Quiz C B C B C C corretti; deposito3mesi30m3/10m3 e1anno coerente.",
+        "RENTRI16settembre2026 e MUD3luglio2026 confermati fonti primarie RENTRI/ISPRA; r137 aggiornare prospettiva agosto per pubblicazioneottobre, non errore di data.",
+        "r127 categorie obbligate/esclusioni solo rinviate benché legge199/2025 citata; registri termini190 e ritornoFIR188 assenti.",
+        "Classificazione senza un codiceEER concreto né percorso capitoli01-12/17-20,13-15,16,99; HP nonelencate/esempio specchio assente.",
+        "EOWcriteriUE/nazionali/casopercaso e ruolipubblici noninsegnati; impiantiautorizzazioni208/214/216,Albo212 e pianificazione nontrattati.",
+        "Caso ripete metodo senza codici né modello FIR/registro compilato; auditvisibile142."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-17",
+        "V11-18",
+        "V11-44"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "title": "Capitolo 07 — Bonifiche, siti contaminati e danno ambientale",
+      "sha256": "0654c4ae0a8c7c6765a666e40d2b1f72d3ed7775031f24c56868d0660f3b3762",
+      "lines": 375,
+      "words": 6031,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz C B C C A C coerenti; caso articolato e distinzioneCSC/CSR valida.",
+        "r61 noncontaminato solo inferiori: includere uguali; r188 correttamente uguali oinferiori.",
+        "r225 riparazionecomplementare soloaltrove: ammette anche sitooriginario; specificare allegato3.",
+        "Procedura242 termini iniziali presenti ma successivi30/60giorni,6mesi,approvazione omessi; interventopubblico250 nonnomina Comune eRegione sostitutiva.",
+        "Dannoambientale omette regimiresponsabilita298bis/allegato5 e310/311,esclusioni303; tecnologiebonifica soloetichette nessunesempio.",
+        "r152 prova causale certezza metafisica formula impropria; dare standard giurisprudenziale verificato.",
+        "r160 SIN specialeregolacorretto, nuovevariazioni2026 fontida verificare; sorgentepercorso bersaglio buono."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-19",
+        "V11-20",
+        "V11-21"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "title": "Capitolo 08 — Aria, rumore, monitoraggio e dati",
+      "sha256": "790ef3e8d9e592dbee8c3e243303e9e97cf687d5a6425133c9f090fe6e9a3d56",
+      "lines": 323,
+      "words": 5230,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz B C B B C C coerenti; caso metodologicamentevalido manoprivodati.",
+        "r86 cinque tipi valoriaria nominati nondefiniti; nessun valorePM10/PM25/NO2contempi e numero superamenti, manca esempioletturarapportoreale.",
+        "Rumore classiI-VI nonenumerate; diurno6-22/notturno22-6,differenziale5/3dB,esenzioni,Leq/Lden/Lnight assenti e nessuncalcolo; specialisticoinsufficiente.",
+        "r98 direttiva2024/2881 datarecepimento11dicembre2026 da verificare e aggiornarefreeze; backstagevisibile.",
+        "Informazioneambientale dlgs195/2005accesso30/60giorni senza interesse omessa benché topic.",
+        "TaraturaQA/QC buone ma frasimetodologicheripetute, attribuzione sorgente ricettore benprecisata."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-22",
+        "V11-23",
+        "V11-24"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "title": "Capitolo 09 — Controlli, sanzioni e reati ambientali",
+      "sha256": "012fc1659be9dfce7653ddec509cef9a1ec9278ddc5799d48586392c3ecee011",
+      "lines": 349,
+      "words": 6051,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            9
+          ],
+          "claim": "D.Lgs. n. 81/2026 e nuovi reati",
+          "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=NIM%3A202603077",
+          "outcome": "Riscontrata la pubblicazione primaria del decreto; data di entrata in vigore del 2 giugno 2026 corroborata dalla banca dati MEF. Non certificata ogni fattispecie o interpretazione giurisprudenziale."
+        }
+      ],
+      "findings": [
+        "Quiz B C B C B C coerenti.",
+        "Norme2026 n81/2026 e riforma2025 richiedono riscontro primario; nessun automatismogravita corretto.",
+        "Parte6bisomette30giorniverifica,30pagamento,120comunicazione,unquartoammenda e proroghe; quadro ammissibilita penaammenda/alternativa/cumulativa da esplicitare con orientamento.",
+        "Contravvenzione definita tautologicamente r133: insegnare arrestoammenda vs reclusione multa e regime soggettivo.",
+        "689termini90/360/30/60giorni e formula ridotto assenti senza rinvio precisoVOL01; nessuna fattispecie concreta29quattuordecies/133/137/256/258/279 svolta.",
+        "Delitti eventi452bis/quater troppo sommari, pene e colpa452quinquies noninsegnate; r193 abusivita autorizzazioni fraudolente da verificare intero nuovoambito.",
+        "Caso produce matrice tutte norme da verificare, non una qualificazione effettiva."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-25",
+        "V11-26",
+        "V11-27"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "title": "Capitolo 10 — Sistema di protezione civile e pianificazione",
+      "sha256": "c5b12ef36d68c451fe16a30c2125abed20b51e84a1f95379ee109fd73f352b9f",
+      "lines": 321,
+      "words": 5815,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz B B C C B C corretti, pianocomunaleConsiglio e componenti/strutture ben distinti.",
+        "r55 definizioneServizio sistema pubblicautilita vs leggeinsiemecompetenzeattivita fine pubblicautilita precisare.",
+        "r105 Prefettodirezione eventi genericamente senza presuppostiart9eventib/c imminenza; dichiarare perimetro.",
+        "Areeemergenza solo generiche senza attesa,assistenza,ammassamentosoccorritori; centriCCS/COM/DiComaC e funzioni sostanziali nonspiegati.",
+        "Volontariato tuteleattivazione39/40assicurazione/funzionepubblica assenti profiloPC.",
+        "Mini115senza soluzione; matricecaso buona ma responsabili sempre generici, nessunafonte regionale esemplificativa.",
+        "r186 lessonlearned inglese; molteripetizioni e backstage manuale nondeve."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-28",
+        "V11-29"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "title": "Capitolo 11 — Rischi, allertamento, IT-alert ed emergenze",
+      "sha256": "235f875e7dabaec1ad38f3a9b7bc2db7906d0bc3f8d3a73fbbb09c7b81290cda",
+      "lines": 377,
+      "words": 6188,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            11
+          ],
+          "claim": "Allerta e fasi operative minime",
+          "url": "https://www.protezionecivile.gov.it/it/normativa/direttiva-del-pcm-del-12-agosto-2019-0/",
+          "outcome": "Letto il passaggio che richiama gli indirizzi del 10 febbraio 2016: attenzione minima per giallo/arancione, preallarme minimo per rosso. Riscontro anche nella pagina istituzionale della Regione Marche sulle procedure di allertamento."
+        },
+        {
+          "chapters": [
+            11
+          ],
+          "claim": "Direttiva IT-alert del 12 febbraio 2026",
+          "url": "https://www.protezionecivile.gov.it/en/normativa/direttiva-ministro-pcpm-12-febbraio-2026-0/",
+          "outcome": "Letti gli artt. 1–2: sperimentazione maremoto/Stromboli fino al 31 dicembre 2026 e applicazione dedicata per precipitazioni intense con obiettivo di dodici mesi. Conferma la distinzione nel capitolo."
+        }
+      ],
+      "findings": [
+        "Quiz B B C B B C coerenti, briefing concreto buono.",
+        "r120/144 allertarossa massimo livello attivazione errato/ambiguo: nazionale minimo preallarme, gialla/arancione attenzione, adattabilefonti2016/2019.",
+        "ITalert2026 direttiva12febbraio e listaoperativa da verificare; fonte primaria trovata; auditIDfreezevisibili180-185.",
+        "Rischisismico/vulcanico/maremoto/incendioindustriale solo nominati, teoria/scenari specifici assenti per profiloPC; SevesoPEI/PEE102/2015nonspiegato.",
+        "Statoemergenza12+12corretto ma mobilitazione23/ordinanzeautorita e rientro26 nonspiegati.",
+        "Matriceconclusiva mescola due rami alternativi senza colonnascenario, r284omette inizioallerta18 mentrebrief16: distinguere validitafutura/osservato attuale.",
+        "Metodologia buona, repetizionirischioincertezza significative."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-30",
+        "V11-31",
+        "V11-32"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "title": "Capitolo 12 — Clima, energia, rinnovabili, CER ed efficienza",
+      "sha256": "0b0f3172028d4db7771d80bd73d7be59738292fe4687e9fea66a2b1da4b6fd3b",
+      "lines": 445,
+      "words": 6855,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            12
+          ],
+          "claim": "Obiettivo climatico UE 2040",
+          "url": "https://eur-lex.europa.eu/eli/reg/2026/667/oj",
+          "outcome": "Il testo primario indicizzato conferma l’obiettivo vincolante di riduzione delle emissioni nette del 90% rispetto al 1990. Apertura integrale bloccata dalla pagina di verifica: non certificati tutti i meccanismi flessibili."
+        }
+      ],
+      "findings": [
+        "Quiz B C B C B C corretti e due casi metodologici coerenti.",
+        "r61/68 regolamento2026/6672040-90percento da verificare primario.",
+        "FER regimeattivitalibera/PAS/AU senza allegatiABC,autorita,termini,effetti; correttivo2025senza estremi e REDIII recepimento2026nonriportato.",
+        "CER omette cabina primaria,1MWperimpianto,dataentrataesercizio,quotaimpiantiesistenti30percento,soggetticontrolloart31; condivisaconfronto senza min(immissioni,prelievi) né intervallo o esempio numerico.",
+        "EfficienzaEPBD2024/1275/1922005/diagnosi1022014 e strumentiPA assenti; ENclimaETS/ESR/LULUCF/PNACC/PAESC e dimensioniPNIEC noninsegnati.",
+        "Nessuncalcoloenergia fattorecapacita risparmio payback emissioni condivise benché7mila parole; mini80kW e120000kWh serve solodire datimancanti.",
+        "r309 chiama misurabili obiettivisenza targetnumerico/tempo; tabella9colonne verificarePDF.",
+        "FontiGSEdata28apr2026 utile ma nessunURL o FAQidentificatore."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-33",
+        "V11-34",
+        "V11-35"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "title": "Capitolo 13 — DNSH, CAM e sostenibilità della PA",
+      "sha256": "1653d60448669c03a974dc8f5171917973006117d2f42122d1afabb8f85ee3c1",
+      "lines": 372,
+      "words": 6670,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [
+        {
+          "chapters": [
+            13
+          ],
+          "claim": "CAM edilizia del 24 novembre 2025",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2025/12/03/25A06516/SG",
+          "outcome": "Riscontrata la pubblicazione del decreto e la disposizione di entrata in vigore dopo sessanta giorni; non è stato ricostruito integralmente il regime transitorio né l’allegato tecnico."
+        }
+      ],
+      "findings": [
+        "Quiz B C C C A C coerenti; seiobiettivi/tassonomia/art57specificheclausole corretti.",
+        "Regime1/2r123 nonattribuisce esplicitamente contributosostanziale vs soloDNSH; completare.",
+        "CAMedilizia casopalestra senza estremo decreto vigente né criterio/mezzo prova reale; stessa genericita diVOL09 nonostantematrice11colonne.",
+        "LCAmetodologia4fasi ISO14040/44 e unitafunzionaleesempioassenti; LCCnonmostracalcolo né esternalitaambientalimonetizzabili.",
+        "r155 premianti quando metodo rilevanti meno preciso art57c2 tenuticonsiderazioneOEPV108c4e5.",
+        "Mini81 classificazione parole non tutte collocabili rigidamente nessunasoluzione; mini206nessunesempiocompleto.",
+        "r272 funzionario noncalcola base esclude preparazione specialistica promessa; ripetizionidichiarazioneverde/evidenze ingombranti.",
+        "Tabella11colonne r255 verificarePDF."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-36",
+        "V11-37",
+        "V11-38"
+      ],
+      "hashMatches": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "title": "Capitolo 14 — Laboratorio di casi e quesiti sintetici",
+      "sha256": "f973e39064bf1fe77782e938c4ad705cba9c681dd76fe4d9f02883af50a06570",
+      "lines": 372,
+      "words": 5904,
+      "readComplete": true,
+      "quizReview": "complete",
+      "externalClaimsChecked": [],
+      "findings": [
+        "Quiz B C D B B C chiavi coerenti maQ6generalizza soglielegali nonfornite come dato mancante: distinguere legge dastudiare e fattomancante.",
+        "Diecisimulazionirisolte coerenti generalita ma nessun attore concretoarticolo/calcolo; sim6e8 richiedono tabelle/matrice8righe e outputprosa, sim10annuncianotachiude conazioniresponsabili ma nonliassegna.",
+        "Sim7r218arancionesoloeffettilocalizzati riduttivo; includere scenario moderato diffuso come11.",
+        "Intercalati paragrafimetodo dopo titoliSim1/3/5/8prima consegne; DaSapere5righe74seguito lungaparentesiprimarighe83-87.",
+        "r232 energiachiedemetodopiucalcolo limita specialistico; r264 escludegeologochimicoenergy manager benché profili tecnici.",
+        "Sim4datifir2026confermate ma situazioneottobredadeclinare come regimeapplicabile.",
+        "Casoulteriore metodo corretto, mancanovariantevincoli numerici/fonti per risposta univoca."
+      ],
+      "limitations": [],
+      "findingIds": [
+        "V11-39",
+        "V11-40",
+        "V11-41"
+      ],
+      "hashMatches": true
+    }
+  ],
+  "externalClaimsChecked": [
+    {
+      "chapters": [
+        3
+      ],
+      "claim": "Art. 25, comma 7-ter, VIA nel 2026",
+      "url": "https://unmig.mase.gov.it/decreto-legge-20-febbraio-2026-n-21/",
+      "outcome": "Testo primario indicizzato riscontrato: giudizio sull’intero ciclo di vita e verbo esprime. Non certificato integralmente il testo consolidato di tutta la parte seconda."
+    },
+    {
+      "chapters": [
+        4
+      ],
+      "claim": "Ulteriori atti regionali AUA",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.codiceRedazionale=13G00101&atto.dataPubblicazioneGazzetta=2013-05-29",
+      "outcome": "Identificata la fonte primaria del D.P.R. n. 59/2013; apertura diretta non riuscita. Il riferimento puntuale proposto è art. 3, comma 2, da acquisire al consolidamento."
+    },
+    {
+      "chapters": [
+        5
+      ],
+      "claim": "RQTI include M0",
+      "url": "https://www.arera.it/fileadmin/allegati/docs/26/1-26disa.pdf",
+      "outcome": "Testo primario indicizzato letto: elenco M0–M6, inclusa resilienza idrica. Confermato anche nella delibera 595/2024/R/idr."
+    },
+    {
+      "chapters": [
+        6
+      ],
+      "claim": "FIR digitale dal 16 settembre 2026",
+      "url": "https://www.rentri.gov.it/news/fir-chiusura-delle-modalita-operative-di-sicurezza",
+      "outcome": "Riscontro primario istituzionale della transizione fino al 15 settembre e obbligo dal 16 settembre per gli iscritti; il dato del capitolo non è stato classificato come errore."
+    },
+    {
+      "chapters": [
+        6
+      ],
+      "claim": "MUD 2026, termine 3 luglio",
+      "url": "https://www.isprambiente.gov.it/it/servizi/mud-2026",
+      "outcome": "Riscontro primario del D.P.C.M. 30 gennaio 2026 e termine del 3 luglio per i dati 2025."
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "claim": "D.Lgs. n. 81/2026 e nuovi reati",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=NIM%3A202603077",
+      "outcome": "Riscontrata la pubblicazione primaria del decreto; data di entrata in vigore del 2 giugno 2026 corroborata dalla banca dati MEF. Non certificata ogni fattispecie o interpretazione giurisprudenziale."
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "claim": "Allerta e fasi operative minime",
+      "url": "https://www.protezionecivile.gov.it/it/normativa/direttiva-del-pcm-del-12-agosto-2019-0/",
+      "outcome": "Letto il passaggio che richiama gli indirizzi del 10 febbraio 2016: attenzione minima per giallo/arancione, preallarme minimo per rosso. Riscontro anche nella pagina istituzionale della Regione Marche sulle procedure di allertamento."
+    },
+    {
+      "chapters": [
+        11
+      ],
+      "claim": "Direttiva IT-alert del 12 febbraio 2026",
+      "url": "https://www.protezionecivile.gov.it/en/normativa/direttiva-ministro-pcpm-12-febbraio-2026-0/",
+      "outcome": "Letti gli artt. 1–2: sperimentazione maremoto/Stromboli fino al 31 dicembre 2026 e applicazione dedicata per precipitazioni intense con obiettivo di dodici mesi. Conferma la distinzione nel capitolo."
+    },
+    {
+      "chapters": [
+        12
+      ],
+      "claim": "Obiettivo climatico UE 2040",
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/667/oj",
+      "outcome": "Il testo primario indicizzato conferma l’obiettivo vincolante di riduzione delle emissioni nette del 90% rispetto al 1990. Apertura integrale bloccata dalla pagina di verifica: non certificati tutti i meccanismi flessibili."
+    },
+    {
+      "chapters": [
+        13
+      ],
+      "claim": "CAM edilizia del 24 novembre 2025",
+      "url": "https://www.gazzettaufficiale.it/eli/id/2025/12/03/25A06516/SG",
+      "outcome": "Riscontrata la pubblicazione del decreto e la disposizione di entrata in vigore dopo sessanta giorni; non è stato ricostruito integralmente il regime transitorio né l’allegato tecnico."
+    }
+  ],
+  "findings": [
+    {
+      "id": "V11-01",
+      "chapter": 1,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "line": 58,
+      "category": "Ripetizioni",
+      "severity": "grave",
+      "excerpt": "Un ultimo controllo",
+      "problem": "Lo stesso blocco di cinque paragrafi ricorre cinque volte: righe 58–65, 84–91, 118–125, 153–160 e 171–178. Gonfia il capitolo senza aggiungere apprendimento.",
+      "proposal": "Conservare una sola formulazione e sostituire le ripetizioni con differenze documentate fra i quattro profili e prove esemplificative.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-02",
+      "chapter": 1,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "line": 162,
+      "category": "Precisione",
+      "severity": "medio",
+      "excerpt": "SNPA",
+      "problem": "SNPA è presentato come coordinatore distinto dal sistema che invece comprende ISPRA e le agenzie.",
+      "proposal": "Descrivere la composizione del sistema e attribuire a ISPRA la funzione di coordinamento prevista dalla legge n. 132/2016.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-03",
+      "chapter": 1,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/01-quattro-profili-mappa-sistema.md",
+      "line": 206,
+      "category": "Apparati",
+      "severity": "grave",
+      "excerpt": "30/60/90",
+      "problem": "Il piano è un unico percorso di 90 giorni, senza alternative complete per 30 e 60 giorni né quattro adattamenti professionali.",
+      "proposal": "Fornire calendari alternativi, carichi, priorità, prove e soglie di recupero per i profili AMB, PC, EN e LOC.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-04",
+      "chapter": 2,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "line": 63,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "D.Lgs. 152",
+      "problem": "La mappa del decreto omette parti e principi generali; mancano il quadro costituzionale delle competenze, la legge istitutiva del SNPA e lo sviluppo dei LEPTA.",
+      "proposal": "Integrare art. 117, secondo comma, lettera s), e art. 118 Cost.; principi degli artt. 3-bis e seguenti; legge n. 132/2016; espansione e funzione dei LEPTA. Presentare tutte le parti del decreto.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-05",
+      "chapter": 2,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/02-dlgs-152-mase-ispra-snpa.md",
+      "line": 88,
+      "category": "Didattica",
+      "severity": "medio",
+      "excerpt": "competenza",
+      "problem": "I passaggi metodologici si ripetono anche alle righe 232–235; i due mini-esercizi alle righe 172 e 204 non hanno una soluzione completa.",
+      "proposal": "Ridurre le duplicazioni e aggiungere soluzioni con soggetto, fondamento, atto e motivazione.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-06",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "line": 118,
+      "category": "Precisione",
+      "severity": "grave",
+      "excerpt": "verifica preliminare",
+      "problem": "La verifica preliminare e lo screening VIA sono accostati con terminologia ambigua; la verifica di assoggettabilità a VAS non viene insegnata.",
+      "proposal": "Distinguere art. 6, comma 9, art. 19 e art. 12 del D.Lgs. n. 152/2006, con presupposti, oggetto, esito e casi separati.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-07",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "line": 224,
+      "category": "Esercizi",
+      "severity": "grave",
+      "excerpt": "opera",
+      "problem": "Il mini-esercizio può indurre a ricavare automaticamente la VIA dalla sola presenza di un’opera in un sito; mancano i fatti che determinano l’assoggettamento.",
+      "proposal": "Precisare tipologia, dimensioni, localizzazione, allegato e condizioni; ammettere la risposta condizionata solo se questi dati sono intenzionalmente omessi.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-08",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "line": 98,
+      "category": "Normativa",
+      "severity": "medio",
+      "excerpt": "può esprimere",
+      "problem": "Il nuovo art. 25, comma 7-ter, è realmente presente nel quadro 2026; il testo lo parafrasa come facoltà, mentre la disposizione usa esprime, al ricorrere dei suoi presupposti.",
+      "proposal": "Rendere fedelmente condizioni, istanza del proponente e contenuto del giudizio sull’intero ciclo di vita, senza mutare un obbligo condizionato in facoltà.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-09",
+      "chapter": 3,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/03-via-vas-valutazioni-ambientali.md",
+      "line": 46,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "VIA e VAS",
+      "problem": "Mancano uno sviluppo della VIncA, il raccordo con Natura 2000, PAUR e provvedimento unico, riparto delle competenze e principali sequenze temporali.",
+      "proposal": "Integrare i nuclei richiesti dai profili ambientali, con rinvii puntuali agli artt. 7-bis, 27 e 27-bis e al D.P.R. n. 357/1997; inserire un diagramma procedurale datato.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-10",
+      "chapter": 4,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "line": 110,
+      "category": "Normativa",
+      "severity": "medio",
+      "excerpt": "elenco tassativo",
+      "problem": "L’elenco dei sette atti AUA è presentato come chiuso, senza la facoltà regionale di individuare ulteriori atti. La stessa semplificazione è nella source note.",
+      "proposal": "Integrare l’art. 3, comma 2, del D.P.R. n. 59/2013 e verificare il territorio scelto per il caso.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-11",
+      "chapter": 4,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "line": 108,
+      "category": "Precisione",
+      "severity": "medio",
+      "excerpt": "adotta o trasmette",
+      "problem": "Il ruolo del SUAP non è distinto con sufficiente precisione dall’adozione dell’AUA da parte dell’autorità competente.",
+      "proposal": "Separare adozione dell’autorità competente e rilascio tramite SUAP, ricostruendo il procedimento concretamente applicabile.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-12",
+      "chapter": 4,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/04-aia-aua-emissioni-autorizzazioni.md",
+      "line": 95,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "termini",
+      "problem": "Durata, rinnovo e passaggi dell’AUA, riesame AIA, allegati e regimi delle emissioni sono evitati anziché insegnati. La cautela sui dati mancanti della traccia si estende alle norme da conoscere.",
+      "proposal": "Aggiungere una tabella normativa datata: AUA, AIA e artt. 269–272, ambito, soggetti, termini, modifiche ed effetti. Consolidare anche lo stato di recepimento della direttiva (UE) 2024/1785.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-13",
+      "chapter": 5,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "line": 148,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "quattro anni",
+      "problem": "La durata ordinaria dello scarico è indicata, ma manca il termine per il rinnovo e il raccordo con il regime AUA; poco sviluppati divieti di scarico sul suolo/sottosuolo e pianificazione delle acque.",
+      "proposal": "Completare artt. 103, 104 e 124, precisando regimi speciali, rinnovo e rapporto con AUA; integrare distretto, piano di tutela e obiettivi di qualità.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-14",
+      "chapter": 5,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "line": 215,
+      "category": "Aggiornamento",
+      "severity": "medio",
+      "excerpt": "indicatori",
+      "problem": "L’elenco della qualità tecnica del servizio idrico resta ai sei indicatori M1–M6 e omette M0, resilienza idrica, già incluso nella RQTI.",
+      "proposal": "Aggiungere M0 e distinguere macroindicatori, indicatori semplici e relativa funzione, citando la disciplina ARERA corrente.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-15",
+      "chapter": 5,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "line": 168,
+      "category": "Esempi",
+      "severity": "grave",
+      "excerpt": "campionamento",
+      "problem": "Il metodo resta descrittivo: nessun confronto numerico svolto fra analisi, limite pertinente, periodo e condizioni di campionamento.",
+      "proposal": "Inserire un dataset didattico con titolo e fonte del limite, verbale di prelievo, risultato e conclusione motivata.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-16",
+      "chapter": 5,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/05-acque-scarichi-servizio-idrico.md",
+      "line": 207,
+      "category": "Refusi",
+      "severity": "lieve",
+      "excerpt": "program­ma",
+      "problem": "È presente un carattere di sillabazione invisibile nella parola programma.",
+      "proposal": "Normalizzare il carattere nel sorgente e verificare ricerca, copia e resa del PDF.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-17",
+      "chapter": 6,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "line": 127,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "RENTRI",
+      "problem": "L’aggiornamento delle date è utile, ma non viene insegnato chi è obbligato o escluso dopo la legge n. 199/2025; restano generici termini del registro e responsabilità documentale.",
+      "proposal": "Fornire una matrice soggetti/rifiuti/obblighi/esenzioni, con fonte e data; completare artt. 188, 190 e 193 e un FIR compilato.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-18",
+      "chapter": 6,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "line": 68,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "codice EER",
+      "problem": "Classificazione, caratteristiche HP, end of waste, autorizzazioni degli impianti e Albo sono trattati senza un codice concreto o un percorso completo di qualificazione.",
+      "proposal": "Svolgere almeno un esempio EER e uno con voce a specchio, distinguendo criteri UE/nazionali/caso per caso e titoli degli artt. 208, 212 e 214–216.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-19",
+      "chapter": 7,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "line": 61,
+      "category": "Precisione",
+      "severity": "medio",
+      "excerpt": "inferiori",
+      "problem": "La definizione di sito non contaminato esclude letteralmente l’uguaglianza alle CSC o CSR, mentre altre parti del capitolo usano correttamente uguale o inferiore. La stessa semplificazione ricorre nella source note.",
+      "proposal": "Uniformare la definizione all’art. 240 e verificare separatamente la formulazione dei passaggi procedurali; inserire valori esattamente pari alla soglia fra gli esempi.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-20",
+      "chapter": 7,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "line": 225,
+      "category": "Precisione",
+      "severity": "medio",
+      "excerpt": "altrove",
+      "problem": "La riparazione complementare è descritta solo come intervento altrove; può interessare anche il sito danneggiato.",
+      "proposal": "Precisare sede e finalità della riparazione complementare secondo l’allegato 3 alla parte sesta.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-21",
+      "chapter": 7,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/07-bonifiche-siti-contaminati-danno.md",
+      "line": 145,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "procedimento",
+      "problem": "Dopo i primi adempimenti, termini e competenze del procedimento restano incompleti; l’intervento pubblico è affidato genericamente all’amministrazione competente. Il danno ambientale non distingue compiutamente ambiti oggettivi e soggettivi.",
+      "proposal": "Completare la sequenza degli artt. 242 e 250, responsabilità e limiti degli artt. 298-bis e 303; aggiungere un confronto numerico CSC/CSR e un caso di responsabilità.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-22",
+      "chapter": 8,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "line": 86,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "valori limite",
+      "problem": "Le categorie dei valori dell’aria sono nominate senza definizioni operative né esempi di periodo di mediazione e numero di superamenti.",
+      "proposal": "Definire ciascuna categoria e inserire un confronto svolto per PM10, PM2,5 o NO2, distinguendo diritto nazionale e transizione alla direttiva (UE) 2024/2881.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-23",
+      "chapter": 8,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "line": 166,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "classificazione acustica",
+      "problem": "Mancano classi acustiche, periodi diurni/notturni, criterio differenziale con esclusioni e grandezze di base applicate.",
+      "proposal": "Aggiungere scheda normativa datata e un esempio numerico con livello ambientale/residuo, limiti assoluti e differenziali; spiegare Leq, Lden e Lnight nei rispettivi contesti.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-24",
+      "chapter": 8,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/08-aria-rumore-monitoraggio-dati.md",
+      "line": 217,
+      "category": "Copertura",
+      "severity": "medio",
+      "excerpt": "informazione",
+      "problem": "La comunicazione del dato è trattata, ma non la disciplina dell’accesso all’informazione ambientale.",
+      "proposal": "Integrare il D.Lgs. n. 195/2005: titolari, assenza di interesse qualificato, termini, modalità ed eccezioni, con rinvio preciso al modulo di procedimento generale.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-25",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "line": 133,
+      "category": "Definizioni",
+      "severity": "medio",
+      "excerpt": "contravvenzione",
+      "problem": "La definizione resta circolare e non insegna il criterio formale di distinzione dai delitti.",
+      "proposal": "Distinguere specie di pene, natura dell’illecito e conseguenze, usando esempi ambientali correnti.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-26",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "line": 151,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "procedura estintiva",
+      "problem": "Mancano termini, misura del pagamento, proroghe e problemi di ammissibilità della procedura della parte sesta-bis; anche la legge n. 689/1981 resta priva di una timeline utilizzabile.",
+      "proposal": "Integrare gli artt. 318-bis e seguenti, linee guida SNPA e orientamenti pertinenti; per la legge n. 689/1981 sviluppare o rinviare puntualmente a termini, difese, pagamento e ordinanza.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-27",
+      "chapter": 9,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/09-controlli-sanzioni-reati-ambientali.md",
+      "line": 239,
+      "category": "Esercizi",
+      "severity": "grave",
+      "excerpt": "norma da verificare",
+      "problem": "Il caso non porta alla qualificazione di una fattispecie concreta: le righe della matrice rinviano sempre alla norma da verificare.",
+      "proposal": "Dare fatti sufficienti e individuare disposizioni, natura dell’illecito, elementi mancanti e conseguenze; coprire almeno acque, rifiuti ed emissioni e distinguere i delitti.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-28",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "line": 105,
+      "category": "Precisione",
+      "severity": "medio",
+      "excerpt": "Prefetto",
+      "problem": "La competenza del Prefetto è descritta senza esplicitare i presupposti dell’art. 9 relativi agli eventi e alla loro imminenza.",
+      "proposal": "Integrare presupposti e raccordo con Regione, enti locali e direzione tecnica dei soccorsi.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-29",
+      "chapter": 10,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/10-sistema-protezione-civile-pianificazione.md",
+      "line": 147,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "aree",
+      "problem": "Non sono sviluppate le diverse aree di emergenza e i principali centri di coordinamento; assenti attivazione e tutele operative del volontariato.",
+      "proposal": "Distinguere aree di attesa, assistenza e ammassamento; spiegare CCS, COM e DiComaC nei rispettivi contesti e artt. 39–40 del Codice, senza imporre un’organizzazione locale universale.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-30",
+      "chapter": 11,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "line": 120,
+      "category": "Allertamento",
+      "severity": "grave",
+      "excerpt": "massime attivazioni",
+      "problem": "La tabella e il passaggio alla riga 144 associano il rosso alle massime attivazioni, indebolendo la distinzione fra allerta e fase operativa. Gli indirizzi nazionali prevedono almeno preallarme in caso di rosso, con eventuale intensificazione in base alla situazione.",
+      "proposal": "Indicare le attivazioni minime previste e separarle dalla decisione locale: almeno attenzione per giallo/arancione, almeno preallarme per rosso; motivare ogni livello superiore con scenario e piano.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-31",
+      "chapter": 11,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "line": 51,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "rischi",
+      "problem": "Per il profilo di protezione civile sono insufficienti le specificità dei rischi sismico, vulcanico, maremoto, incendi boschivi e industriale; prevale il metodo generale.",
+      "proposal": "Aggiungere schede di scenario con prevedibilità, monitoraggio, misure e catena operativa; per l’industriale sviluppare il raccordo con D.Lgs. n. 105/2015, PEI e PEE.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-32",
+      "chapter": 11,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/11-rischi-allertamento-it-alert-emergenze.md",
+      "line": 255,
+      "category": "Casi",
+      "severity": "medio",
+      "excerpt": "Vallechiara",
+      "problem": "La matrice unisce i due rami alternativi senza una colonna che identifichi lo scenario; nel briefing va resa esplicita la diversa validità temporale del bollettino rispetto alle osservazioni.",
+      "proposal": "Separare i rami o aggiungere scenario e validità; mantenere distinti fatti osservati e previsioni future.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-33",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "line": 121,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "regimi amministrativi",
+      "problem": "Le tre etichette dei regimi FER non sono accompagnate da allegati, criteri, autorità, tempi ed effetti; il correttivo 2025 non è identificato.",
+      "proposal": "Consolidare il D.Lgs. n. 190/2024 e i correttivi vigenti, insegnare la lettura degli allegati A–C con due casi e aggiornare il recepimento RED III.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-34",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "line": 200,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "CER",
+      "problem": "Il lettore non dispone dei requisiti essenziali di perimetro, impianti, partecipanti e controllo; manca il calcolo dell’energia condivisa.",
+      "proposal": "Integrare art. 31 del D.Lgs. n. 199/2021, TIAD e regole GSE vigenti, distinguendo configurazione e incentivi; svolgere un esempio temporale con immissioni e prelievi.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-35",
+      "chapter": 12,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/12-clima-energia-rinnovabili-cer.md",
+      "line": 156,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "efficienza",
+      "problem": "La trattazione non copre adeguatamente il profilo energia: diagnosi e disciplina degli edifici pubblici sono generiche; manca qualunque calcolo completo di risparmio, costo, emissioni o rendimento.",
+      "proposal": "Integrare quadro vigente su diagnosi/edifici e almeno un dataset con baseline, consumi, investimento, risparmio e indicatore; sviluppare PNIEC, PNACC e strumenti locali nei limiti del bando.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-36",
+      "chapter": 13,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "line": 123,
+      "category": "Precisione",
+      "severity": "medio",
+      "excerpt": "regime",
+      "problem": "La distinzione fra regimi DNSH non esplicita sufficientemente il contributo sostanziale rispetto al solo non arrecare danno significativo.",
+      "proposal": "Definire i due regimi della guida applicabile e svolgere la selezione della scheda per l’intervento.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-37",
+      "chapter": 13,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "line": 147,
+      "category": "Copertura",
+      "severity": "grave",
+      "excerpt": "CAM",
+      "problem": "Il caso della palestra non identifica alcun decreto o criterio CAM concreto e rimane una matrice generica. Il D.M. 24 novembre 2025 è disponibile e va considerato col relativo regime transitorio.",
+      "proposal": "Identificare decreto vigente e data della procedura; applicare almeno un criterio con mezzo di prova, fase, responsabile e controllo della variante.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-38",
+      "chapter": 13,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/13-dnsh-cam-sostenibilita-pa.md",
+      "line": 173,
+      "category": "Copertura",
+      "severity": "medio",
+      "excerpt": "LCA e LCC",
+      "problem": "Mancano le fasi fondamentali della LCA e un esempio di costo del ciclo di vita, pur essendo strumenti centrali del capitolo.",
+      "proposal": "Esporre obiettivo/campo, inventario, valutazione degli impatti e interpretazione; aggiungere un LCC numerico con ipotesi dichiarate e distinguere costi ed esternalità.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-39",
+      "chapter": 14,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "line": 199,
+      "category": "Soluzioni",
+      "severity": "grave",
+      "excerpt": "Simulazione 6",
+      "problem": "La simulazione 6 richiede tabella e nota, ma offre solo prosa; la simulazione 8 richiede una matrice in otto righe, anch’essa non restituita. La prova integrata non assegna compiti e tempi concreti.",
+      "proposal": "Fornire esattamente gli output richiesti, con rubriche che valutino anche formato, responsabilità, termini e verificabilità.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-40",
+      "chapter": 14,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "line": 83,
+      "category": "Struttura",
+      "severity": "medio",
+      "excerpt": "Da sapere in cinque righe",
+      "problem": "Paragrafi metodologici interrompono sintesi e simulazioni, anche dopo i titoli delle simulazioni 1, 3, 5 e 8.",
+      "proposal": "Raggruppare il metodo all’inizio e mantenere ciascuna unità composta da consegna, dati, soluzione e griglia.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-41",
+      "chapter": 14,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/14-laboratorio-casi-quesiti-sintetici.md",
+      "line": 264,
+      "category": "Didattica",
+      "severity": "grave",
+      "excerpt": "soglie",
+      "problem": "Il richiamo a non inventare dati diventa una rinuncia ad applicare regole e valori che il candidato deve conoscere; il laboratorio raramente verifica una decisione tecnica determinata.",
+      "proposal": "Distinguere fatti mancanti e conoscenze normative; costruire prove con dati sufficienti, scelta motivata della norma e soluzione verificabile.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-42",
+      "chapter": 0,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11.md",
+      "line": 1,
+      "category": "Apparati",
+      "severity": "grave",
+      "excerpt": "Appendici A–E",
+      "problem": "L’indice analitico promette cinque appendici operative e percorsi per quattro profili; questi materiali non risultano nei quattordici capitoli.",
+      "proposal": "Verificare l’export e produrre le appendici effettive o riallocarne i contenuti, aggiornando in modo coerente la promessa editoriale.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-43",
+      "chapter": 0,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11.md",
+      "line": 1,
+      "category": "Coerenza editoriale",
+      "severity": "grave",
+      "excerpt": "completo",
+      "problem": "La matrice dichiara 14 nuclei completi e numerose verifiche integrali, mentre permangono lacune sostanziali. L’indice di modulo descrive ancora uno scaffold e contiene una sequenza letterale di escape.",
+      "proposal": "Riallineare matrice, indice e metadati alla copertura reale; le quantità di parole, i sei quiz e i marcatori non provano completezza.",
+      "status": "non applicato"
+    },
+    {
+      "id": "V11-44",
+      "chapter": 6,
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/chapters/06-rifiuti-economia-circolare-rentri.md",
+      "line": 142,
+      "category": "Apparati editoriali",
+      "severity": "medio",
+      "excerpt": "audit",
+      "problem": "Restano istruzioni di controllo al text freeze, codici interni e date di audit nel testo destinato al lettore; il quadro congelato ad agosto va rivalutato alla data editoriale del 2 ottobre 2026.",
+      "proposal": "Separare note interne e informazione al lettore; mantenere una data di aggiornamento leggibile e fonti puntuali, verificando i dati effettivamente mobili.",
+      "status": "non applicato"
+    }
+  ],
+  "limitations": [
+    "Lettura integrale dei 14 capitoli, di tutti i quiz, commenti e casi. Controllati indice, matrice, dossier, bundle e undici note specifiche. Le ulteriori fonti trasversali richiamate nel frontmatter non sono state tutte rilette integralmente.",
+    "Verifiche esterne mirate sui claim elencati; non è una certificazione giuridica integrale di ogni articolo vigente o norma regionale. Alcuni riscontri sono limitati al testo indicizzato ufficiale per problemi di accesso.",
+    "Restano da consolidare in particolare recepimenti IED/RED III/efficienza/EPBD, disciplina tecnica completa, giurisprudenza e regimi locali. Le lacune di contenuto sono accertate; le integrazioni normative vanno validate prima di applicarle.",
+    "Impaginazione e presenza delle appendici nell’export sono trattate nel rapporto PDF separato. Nessuna correzione applicata al libro."
+  ],
+  "supportFiles": [
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/index.md",
+      "sha256": "9c15a85de0d95c8612dd257957cb0dbf83e5ab0c053d33e23f83c8564f46c94a",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/01-indice-analitico-vol-11.md",
+      "sha256": "86458d70ded013e355b972f6f727dc44c5fb774272f31776ba5c4922a5a1365d",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/books/moduli/m-tr04-ambiente-protezione-civile/planning/02-matrice-copertura-didattica.md",
+      "sha256": "5423bcc1583a5fbb2372e693633c7a23dcfa66aa376089a4db0368b11dc99069",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/vol-11-ambiente-protezione-civile-sostenibilita-dossier-v4.md",
+      "sha256": "d9150bdd8f6d34bc57069e78fddb11f56ace2034d191692ef9896cb05890e1db",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/m-tr04-source-bundle-ambiente-protezione-civile-2026.md",
+      "sha256": "4bc0fd258c37f32aec869c8bf87cddde6c2940c9ad6c2a9ecfb48878e148da52",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/aia-aua-emissioni-quadro-ufficiale-2026.md",
+      "sha256": "94b4ebfe7b9ecf7cd1344e1e191b2f38e92fe31c82371d6e7f4ef803e7a7ad9d",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/acque-scarichi-servizio-idrico-quadro-ufficiale-2026.md",
+      "sha256": "9518fd6dbddd007d14b6abae15041c49e39cb034908f0cf6ad700ae9155c75a5",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/rifiuti-rentri-fir-mud-quadro-ufficiale-2026.md",
+      "sha256": "eb190928bf3865bbba956ef443904cf1694ed26f1a393572b638dbf66340020a",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/bonifiche-siti-contaminati-danno-ambientale-quadro-ufficiale-2026.md",
+      "sha256": "63c8eae6da9228aa4666800c3052e2af2bef6da0210fa9125af8f6260658f9b2",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/aria-rumore-monitoraggio-dati-quadro-ufficiale-2026.md",
+      "sha256": "1276461ea6b9aa660ebab35778867ed9fb1e8581c20c2a8ac575aea881409eb5",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/controlli-sanzioni-reati-ambientali-quadro-ufficiale-2026.md",
+      "sha256": "1b164d2147436ebc578013d72785743d39fc625aebfe19dc53f5efc92018947c",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/sistema-protezione-civile-pianificazione-quadro-ufficiale-2026.md",
+      "sha256": "a5a84bb4bcae763c5f37d6de3e49fd6671931ca9e1b9b2db9c030cf32c864e10",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/allertamento-it-alert-emergenze-quadro-ufficiale-2026.md",
+      "sha256": "3eb57385530bb598af9ac4b6d12f5f9510101173e9402a98426600b222d97df0",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/clima-energia-rinnovabili-cer-efficienza-quadro-ufficiale-2026.md",
+      "sha256": "778ac5e6a49a9a6c93c8c6362db7f2fc0d39b2e089b8bc324d531739730366c8",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/dnsh-cam-ciclo-vita-sostenibilita-pa-quadro-ufficiale-2026.md",
+      "sha256": "1a6ac164a2fe9604f07f248bffe21baec434a8f4d596a436523b4a3ae0fd809e",
+      "readComplete": true
+    },
+    {
+      "path": "wiki/sources/laboratorio-casi-quesiti-sintetici-vol-11-2026.md",
+      "sha256": "77095b2d9f3a1ec3368f48b22d9a7d426d960701823f5e2692940a2600d4600c",
+      "readComplete": true
+    }
+  ]
+}

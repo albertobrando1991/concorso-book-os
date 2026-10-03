@@ -1,0 +1,46 @@
+{
+  "V07-20": {
+    "change": "Integrate definizioni, riconoscimento, ritmi ALS e cause reversibili, fisiologia NLS e casi risolti; definite le emergenze ostetriche.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/05-valutazione-clinica-triage-urgenza-emergenza.md"
+    ],
+    "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-21": {
+    "change": "Esposti standard e funzioni DM77 con rinvio SA01 e distinzione fra programmazione e attuazione.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/06-prevenzione-continuita-presa-in-carico.md",
+      "wiki/sources/presa-in-carico-cronicita-pdta-territorio-agenas.md"
+    ],
+    "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-22": {
+    "change": "Corretta interpretazione degli scarti PASSI: causa non dimostrata e incompatibilità con il solo arrotondamento.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "wiki/sources/programmi-screening-oncologici-dati-passi-iss.md",
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/planning/03-batteria-esercizi-epidemiologia-screening.md"
+    ],
+    "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-23": {
+    "change": "Distinta definizione di caso da definizione di focolaio.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md"
+    ],
+    "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+    "status": "applicato"
+  },
+  "V07-24": {
+    "change": "Aggiunti programmi oncologici nazionali e termini PREMAL, con varianti regionali e distinzione dei ruoli.",
+    "files": [
+      "wiki/books/moduli/m-sa02-professioni-sanitarie/chapters/08-igiene-pubblica-epidemiologia-screening.md",
+      "wiki/sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md"
+    ],
+    "evidence": "Rilettura del delta e riscontro nelle fonti ufficiali consolidate. Revisione step 15 e nuovo PDF pendenti.",
+    "status": "applicato"
+  }
+}

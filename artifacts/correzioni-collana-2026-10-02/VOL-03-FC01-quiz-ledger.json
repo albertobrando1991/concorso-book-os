@@ -1,0 +1,782 @@
+[
+  {
+    "chapter": "08",
+    "number": 1,
+    "correct": "C",
+    "answer": "Organizzazione e capitale umano.",
+    "comment": "La collocazione formale è nella sezione 3; il collegamento con gli obiettivi della sezione 2 non cambia la struttura.",
+    "alternatives": [
+      "Valore pubblico, performance e anticorruzione.",
+      "Scheda anagrafica dell'amministrazione.",
+      "Organizzazione e capitale umano.",
+      "Monitoraggio dell'attuazione del Piano."
+    ]
+  },
+  {
+    "chapter": "08",
+    "number": 2,
+    "correct": "A",
+    "answer": "Orizzonte triennale e aggiornamento annuale.",
+    "comment": "La durata triennale non elimina l'aggiornamento annuale e non si lega automaticamente al mandato politico.",
+    "alternatives": [
+      "Orizzonte triennale e aggiornamento annuale.",
+      "Orizzonte annuale e verifica alla fine del triennio.",
+      "Orizzonte coincidente con il mandato politico.",
+      "Orizzonte biennale e revisione a ogni assunzione."
+    ]
+  },
+  {
+    "chapter": "08",
+    "number": 3,
+    "correct": "D",
+    "answer": "L'output cresce; la qualità del risultato richiede altri indicatori.",
+    "comment": "Il volume è una dimensione; errori, tempi e reclami aiutano a valutare l'esito, senza un'equivalenza automatica.",
+    "alternatives": [
+      "Il risultato migliora perché il volume delle pratiche è cresciuto.",
+      "Il risultato peggiora nella stessa proporzione dei reclami.",
+      "La qualità rileva soltanto nella valutazione individuale.",
+      "L'output cresce; la qualità del risultato richiede altri indicatori."
+    ]
+  },
+  {
+    "chapter": "08",
+    "number": 4,
+    "correct": "B",
+    "answer": "Predisporre la sottosezione rischi corruttivi e trasparenza.",
+    "comment": "Preparazione della sottosezione, adozione e gestione delle risorse sono funzioni diverse.",
+    "alternatives": [
+      "Adottare il Piano in sostituzione dell'organo politico.",
+      "Predisporre la sottosezione rischi corruttivi e trasparenza.",
+      "Validare in via esclusiva ogni indicatore di performance.",
+      "Autorizzare le assunzioni previste nella sezione personale."
+    ]
+  },
+  {
+    "chapter": "08",
+    "number": 5,
+    "correct": "A",
+    "answer": "La previsione esiste, mentre l'attuazione non è dimostrata.",
+    "comment": "Previsione, attuazione ed efficacia richiedono evidenze distinte; l'inadempimento non prova da solo un reato.",
+    "alternatives": [
+      "La previsione esiste, mentre l'attuazione non è dimostrata.",
+      "La previsione documenta anche l'efficacia della misura.",
+      "La mancata attuazione prova un reato del responsabile.",
+      "La misura è inefficace in ogni contesto amministrativo."
+    ]
+  },
+  {
+    "chapter": "08",
+    "number": 6,
+    "correct": "C",
+    "answer": "Validare dati e misura, poi ricostruire le cause dello scostamento.",
+    "comment": "Correzioni di processo o obiettivo richiedono una diagnosi; cambiare il metro per assorbire lo scarto altera la valutazione.",
+    "alternatives": [
+      "Ridurre il target in proporzione alla distanza dal risultato.",
+      "Mantenere il target e attribuire il deficit al personale.",
+      "Validare dati e misura, poi ricostruire le cause dello scostamento.",
+      "Sostituire l'indicatore con il numero di attività svolte."
+    ]
+  },
+  {
+    "chapter": "09",
+    "number": 1,
+    "correct": "D",
+    "answer": "La seconda sezione, coordinata con le misure della prima.",
+    "comment": "Previsione e rendiconto appartengono a momenti diversi; la prima sezione contiene misure normative.",
+    "alternatives": [
+      "La prima sezione, limitata agli stati di previsione.",
+      "Il conto del bilancio allegato al rendiconto precedente.",
+      "Il conto generale del patrimonio dell'esercizio corrente.",
+      "La seconda sezione, coordinata con le misure della prima."
+    ]
+  },
+  {
+    "chapter": "09",
+    "number": 2,
+    "correct": "B",
+    "answer": "Il programma.",
+    "comment": "La missione è più ampia, capitoli e piani gestionali più analitici; il voto della spesa riguarda il programma.",
+    "alternatives": [
+      "La missione.",
+      "Il programma.",
+      "Il capitolo.",
+      "Il piano gestionale."
+    ]
+  },
+  {
+    "chapter": "09",
+    "number": 3,
+    "correct": "A",
+    "answer": "40.",
+    "comment": "Sono 20 da riscuotere più 20 riscossi da versare: 100 meno 60, senza confondere riscossione e versamento.",
+    "alternatives": [
+      "40.",
+      "20.",
+      "60.",
+      "80."
+    ]
+  },
+  {
+    "chapter": "09",
+    "number": 4,
+    "correct": "C",
+    "answer": "Liquidazione.",
+    "comment": "L'impegno registra l'obbligazione; ordinazione e pagamento seguono la determinazione del dovuto.",
+    "alternatives": [
+      "Impegno.",
+      "Ordinazione.",
+      "Liquidazione.",
+      "Pagamento."
+    ]
+  },
+  {
+    "chapter": "09",
+    "number": 5,
+    "correct": "D",
+    "answer": "Conto del bilancio e conto generale del patrimonio.",
+    "comment": "Il rendiconto espone gestione finanziaria e consistenze/variazioni patrimoniali; gli altri documenti hanno funzioni diverse.",
+    "alternatives": [
+      "Prima e seconda sezione del disegno di legge di bilancio.",
+      "Documento di finanza pubblica e bilancio di previsione.",
+      "Piano dei fabbisogni e relazione sulla performance.",
+      "Conto del bilancio e conto generale del patrimonio."
+    ]
+  },
+  {
+    "chapter": "09",
+    "number": 6,
+    "correct": "B",
+    "answer": "La Corte verifica le risultanze; il Parlamento approva con legge.",
+    "comment": "Il giudizio della Corte precede ed è distinto dall'approvazione parlamentare; non autorizza spese future.",
+    "alternatives": [
+      "La Corte autorizza la spesa; il Parlamento ne registra l'incasso.",
+      "La Corte verifica le risultanze; il Parlamento approva con legge.",
+      "La RGS approva con legge; la Corte definisce gli obiettivi politici.",
+      "Il Parlamento parifica; il Governo giudica la regolarità contabile."
+    ]
+  },
+  {
+    "chapter": "10",
+    "number": 1,
+    "correct": "C",
+    "answer": "Rispetta l'obbligo della convenzione, salvo una deroga applicabile.",
+    "comment": "Procedura e strumento obbligatorio sono controlli distinti: l'affidamento diretto non cancella il vincolo Consip.",
+    "alternatives": [
+      "Sceglie liberamente il fornitore perché l'importo è sotto soglia.",
+      "Usa il mercato elettronico per sostituire la convenzione vigente.",
+      "Rispetta l'obbligo della convenzione, salvo una deroga applicabile.",
+      "Chiede tre preventivi e applica soltanto il prezzo più basso."
+    ]
+  },
+  {
+    "chapter": "10",
+    "number": 2,
+    "correct": "A",
+    "answer": "Responsabile unico del progetto nelle fasi di sua competenza.",
+    "comment": "Il RUP riguarda il progetto; non coincide necessariamente con direttore dell'esecuzione né con il concorrente.",
+    "alternatives": [
+      "Responsabile unico del progetto nelle fasi di sua competenza.",
+      "Responsabile esclusivo della sola procedura di gara.",
+      "Direttore dell'esecuzione per qualsiasi tipo di contratto.",
+      "Responsabile dell'operatore che presenta l'offerta."
+    ]
+  },
+  {
+    "chapter": "10",
+    "number": 3,
+    "correct": "D",
+    "answer": "Reperire dati e documenti per verificare i requisiti dell'operatore.",
+    "comment": "Il fascicolo virtuale supporta la verifica dei requisiti, non sostituisce stima, identificazione del progetto o verifica dell'esecuzione.",
+    "alternatives": [
+      "Attribuire il codice identificativo al progetto finanziato.",
+      "Determinare il valore stimato dell'appalto prima della gara.",
+      "Attestare la conformità tecnica della prestazione eseguita.",
+      "Reperire dati e documenti per verificare i requisiti dell'operatore."
+    ]
+  },
+  {
+    "chapter": "10",
+    "number": 4,
+    "correct": "B",
+    "answer": "CUP del progetto e CIG dei contratti, quando previsti.",
+    "comment": "Progetto e contratto hanno oggetti diversi; l'esistenza di un finanziamento non li rende un unico affidamento.",
+    "alternatives": [
+      "CIG del progetto e CUP dei tre contratti.",
+      "CUP del progetto e CIG dei contratti, quando previsti.",
+      "Un CUP per ciascun pagamento e un CIG per il Ministero.",
+      "Un unico CIG sostitutivo di ogni identificazione progettuale."
+    ]
+  },
+  {
+    "chapter": "10",
+    "number": 5,
+    "correct": "B",
+    "answer": "Monitoraggio del progetto.",
+    "comment": "Il monitoraggio osserva l'avanzamento; non determina di per sé il credito né sostituisce gli altri atti.",
+    "alternatives": [
+      "Liquidazione della spesa.",
+      "Monitoraggio del progetto.",
+      "Aggiudicazione del contratto.",
+      "Parificazione del rendiconto."
+    ]
+  },
+  {
+    "chapter": "10",
+    "number": 6,
+    "correct": "D",
+    "answer": "Regime della copia, conformità e modalità di formazione previste.",
+    "comment": "La scansione non coincide con un originale informatico sottoscritto digitalmente; gli effetti della copia seguono le regole applicabili.",
+    "alternatives": [
+      "Solo estensione del file, perché PDF equivale a firma digitale.",
+      "Solo casella del mittente, perché l'e-mail prova la conformità.",
+      "Solo dimensione del file, perché la scansione conserva ogni effetto.",
+      "Regime della copia, conformità e modalità di formazione previste."
+    ]
+  },
+  {
+    "chapter": "10",
+    "number": 7,
+    "correct": "A",
+    "answer": "L'esenzione da MePA non elimina le regole del ciclo digitale.",
+    "comment": "Il limite del comma 450 e la digitalizzazione operano su piani diversi; restano gli adempimenti pertinenti.",
+    "alternatives": [
+      "L'esenzione da MePA non elimina le regole del ciclo digitale.",
+      "L'esenzione da MePA elimina anche ogni obbligo di tracciabilità.",
+      "La piattaforma certificata è obbligatoria solo oltre la soglia UE.",
+      "Il minor importo sostituisce la motivazione della scelta."
+    ]
+  },
+  {
+    "chapter": "10",
+    "number": 8,
+    "correct": "C",
+    "answer": "Nelle fasi pertinenti del progetto, a partire dalla progettazione.",
+    "comment": "I requisiti ambientali si traducono in verifiche lungo il ciclo e non assorbono il controllo dell'esecuzione.",
+    "alternatives": [
+      "Soltanto dopo la conclusione di tutti i pagamenti.",
+      "Soltanto nella dichiarazione iniziale dell'operatore.",
+      "Nelle fasi pertinenti del progetto, a partire dalla progettazione.",
+      "Al posto della verifica della prestazione contrattuale."
+    ]
+  },
+  {
+    "chapter": "11",
+    "number": 1,
+    "correct": "A",
+    "answer": "Ricostruire attribuzione della funzione, delega e relativi limiti.",
+    "comment": "La delega presuppone un potere attribuito e non si valida con la prassi o con l'accettazione del destinatario.",
+    "alternatives": [
+      "Ricostruire attribuzione della funzione, delega e relativi limiti.",
+      "Verificare la firma e rinviare il controllo delle attribuzioni.",
+      "Acquisire la conferma dell'ufficio che ha istruito casi analoghi.",
+      "Chiedere al destinatario se accetta la decisione delegata."
+    ]
+  },
+  {
+    "chapter": "11",
+    "number": 2,
+    "correct": "C",
+    "answer": "Riassegnare conservando ricezione e verificando i termini.",
+    "comment": "La correzione interna non modifica il fatto della ricezione; collegamenti e termini restano ricostruibili.",
+    "alternatives": [
+      "Creare una nuova ricezione alla data della riassegnazione.",
+      "Restituire al mittente chiedendo una domanda all'ufficio corretto.",
+      "Riassegnare conservando ricezione e verificando i termini.",
+      "Chiudere la registrazione precedente senza collegare la nuova."
+    ]
+  },
+  {
+    "chapter": "11",
+    "number": 3,
+    "correct": "D",
+    "answer": "Base giuridica, finalità e necessità dei singoli dati.",
+    "comment": "Minimizzazione e pubblicazione dipendono dalla norma e dalla finalità; nessuno dei tre automatismi risolve il bilanciamento.",
+    "alternatives": [
+      "Oscuramento di tutti i dati, indipendentemente dall'obbligo.",
+      "Consenso generalizzato degli interessati alla pubblicazione.",
+      "Copia del prospetto usato da un'altra amministrazione.",
+      "Base giuridica, finalità e necessità dei singoli dati."
+    ]
+  },
+  {
+    "chapter": "11",
+    "number": 4,
+    "correct": "C",
+    "answer": "Validare dati e indicatore, quindi analizzare le cause.",
+    "comment": "Attività e risultato non coincidono; una diagnosi affidabile precede misure e attribuzioni di responsabilità.",
+    "alternatives": [
+      "Certificare il risultato dal completamento delle attività.",
+      "Ridurre il target fino a farlo coincidere con il dato.",
+      "Validare dati e indicatore, quindi analizzare le cause.",
+      "Attribuire lo scarto all'ultima unità intervenuta nel processo."
+    ]
+  },
+  {
+    "chapter": "11",
+    "number": 5,
+    "correct": "B",
+    "answer": "Acquisire la verifica richiesta prima di determinare il dovuto.",
+    "comment": "La richiesta del creditore non dimostra da sola esecuzione e importo liquidabile.",
+    "alternatives": [
+      "Liquidare perché il controllo formale della fattura è positivo.",
+      "Acquisire la verifica richiesta prima di determinare il dovuto.",
+      "Pagare e acquisire l'attestazione nel controllo successivo.",
+      "Chiedere al fornitore di sostituire l'attestazione dell'ufficio."
+    ]
+  },
+  {
+    "chapter": "11",
+    "number": 6,
+    "correct": "A",
+    "answer": "L'identificazione della procedura ai fini del sistema previsto.",
+    "comment": "L'identificativo sostiene la tracciabilità; gli altri tre elementi richiedono atti e controlli propri.",
+    "alternatives": [
+      "L'identificazione della procedura ai fini del sistema previsto.",
+      "La completezza della motivazione dell'affidamento.",
+      "La conformità della prestazione al capitolato.",
+      "La sussistenza di tutti i requisiti dell'aggiudicatario."
+    ]
+  },
+  {
+    "chapter": "11",
+    "number": 7,
+    "correct": "D",
+    "answer": "Inviare il nucleo affidabile con indice, lacune e tempi d'integrazione.",
+    "comment": "La tempestività richiede un pacchetto utilizzabile e limiti dichiarati; l'amministrazione mantiene la responsabilità dei fatti.",
+    "alternatives": [
+      "Attendere l'ultimo allegato prima di comunicare la scadenza.",
+      "Trasmettere il fascicolo senza distinguere bozze e atti definitivi.",
+      "Chiedere al difensore di ricostruire autonomamente i fatti d'ufficio.",
+      "Inviare il nucleo affidabile con indice, lacune e tempi d'integrazione."
+    ]
+  },
+  {
+    "chapter": "11",
+    "number": 8,
+    "correct": "B",
+    "answer": "Verifica riservata e misure preventive secondo i presupposti.",
+    "comment": "La prevenzione non richiede un reato già provato; neppure la segnalazione prova automaticamente un illecito.",
+    "alternatives": [
+      "Responsabilità disciplinare già provata dalla segnalazione.",
+      "Verifica riservata e misure preventive secondo i presupposti.",
+      "Pubblicazione immediata per consentire un controllo diffuso.",
+      "Prosecuzione invariata fino all'accertamento di un reato."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 1,
+    "correct": "D",
+    "answer": "Chiarire direttamente ostacolo e termine, concordando un riscontro.",
+    "comment": "Il confronto diretto è proporzionato ai fatti; rischio, gravità o mancata collaborazione possono richiedere il livello superiore.",
+    "alternatives": [
+      "Inviare subito una contestazione formale al dirigente.",
+      "Svolgere il compito al suo posto senza coordinare le attività.",
+      "Rinviare il proprio invio senza comunicare la causa.",
+      "Chiarire direttamente ostacolo e termine, concordando un riscontro."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 2,
+    "correct": "B",
+    "answer": "Applicare i criteri ordinari e indicare il canale per eventuali urgenze.",
+    "comment": "Imparzialità e orientamento all'utente convivono; la conoscenza personale non giustifica precedenze né opacità.",
+    "alternatives": [
+      "Accogliere la richiesta se non allunga visibilmente gli altri tempi.",
+      "Applicare i criteri ordinari e indicare il canale per eventuali urgenze.",
+      "Rifiutare anche le informazioni sul percorso ordinario.",
+      "Far valutare la priorità da un collega senza indicare il rapporto."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 3,
+    "correct": "C",
+    "answer": "Verificare l'impatto e attivare una rettifica tracciata verso i destinatari.",
+    "comment": "La correzione deve raggiungere il flusso interessato e conservarne la storia; la sola copia locale è insufficiente.",
+    "alternatives": [
+      "Sostituire la copia nel fascicolo senza avvertire i destinatari.",
+      "Attendere il riscontro esterno per misurare la rilevanza dell'errore.",
+      "Verificare l'impatto e attivare una rettifica tracciata verso i destinatari.",
+      "Inviare una nuova versione senza precisare il rapporto con la prima."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 4,
+    "correct": "A",
+    "answer": "Contenere la diffusione e informare il presidio interno competente.",
+    "comment": "Il contenimento non sostituisce la tempestiva segnalazione necessaria alla valutazione; diffondere ancora i dati amplia il rischio.",
+    "alternatives": [
+      "Contenere la diffusione e informare il presidio interno competente.",
+      "Attendere conferma di lettura prima di segnalare l'evento.",
+      "Chiedere la cancellazione senza informare nessuna funzione interna.",
+      "Inoltrare l'allegato a tutti i colleghi per avvisarli dell'errore."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 5,
+    "correct": "B",
+    "answer": "Usare il canale autorizzato e comunicare solo quanto consentito.",
+    "comment": "La scelta dell'utente non amplia automaticamente poteri e finalità della comunicazione d'ufficio.",
+    "alternatives": [
+      "Confermare dal profilo personale i dettagli già pubblicati.",
+      "Usare il canale autorizzato e comunicare solo quanto consentito.",
+      "Chiedere il consenso online e poi diffondere l'intero fascicolo.",
+      "Rispondere sui dettagli purché il tono difenda l'amministrazione."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 6,
+    "correct": "A",
+    "answer": "Segnalare il conflitto e astenersi dalle attività coinvolte.",
+    "comment": "L'astensione riguarda anche l'attività istruttoria coinvolta; il responsabile organizza sostituzione e continuità.",
+    "alternatives": [
+      "Segnalare il conflitto e astenersi dalle attività coinvolte.",
+      "Segnalare il rapporto ma proseguire per rispettare la scadenza.",
+      "Limitare l'astensione alla firma mantenendo l'intera istruttoria.",
+      "Chiedere al coniuge il consenso a continuare la gestione."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 7,
+    "correct": "D",
+    "answer": "Rifiutare l'utilità collegata all'ufficio e seguire le regole di segnalazione.",
+    "comment": "Il collegamento con l'ufficio non scompare dopo la firma del contratto né trasferendo l'utilità a un familiare.",
+    "alternatives": [
+      "Accettare se il contratto è già firmato e non vi sono nuove gare.",
+      "Accettare pagando una quota non rapportata al valore del beneficio.",
+      "Far utilizzare il soggiorno a un familiare non dipendente.",
+      "Rifiutare l'utilità collegata all'ufficio e seguire le regole di segnalazione."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 8,
+    "correct": "C",
+    "answer": "Una segnalazione di tempi e rischi con richiesta di priorità coordinata.",
+    "comment": "I vincoli concreti permettono una decisione competente; nasconderli o interrompere senza coordinamento danneggia il servizio.",
+    "alternatives": [
+      "Una propria graduatoria basata soltanto sull'ordine delle richieste.",
+      "Una promessa di entrambe le consegne rinviando il problema al termine.",
+      "Una segnalazione di tempi e rischi con richiesta di priorità coordinata.",
+      "Una rinuncia a entrambi i compiti finché i responsabili si accordano."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 9,
+    "correct": "A",
+    "answer": "Confrontarsi sul fatto, concordare correzione e prevenzione.",
+    "comment": "La proporzione richiede il livello adeguato; il confronto permette di correggere e prevenire senza esposizione inutile.",
+    "alternatives": [
+      "Confrontarsi sul fatto, concordare correzione e prevenzione.",
+      "Avviare subito il procedimento disciplinare senza verificare il fatto.",
+      "Correggere in silenzio, evitando di spiegare la causa al collega.",
+      "Discutere l'errore con tutto l'ufficio prima del confronto diretto."
+    ]
+  },
+  {
+    "chapter": "12",
+    "number": 10,
+    "correct": "C",
+    "answer": "Si esegue, salvo atto penalmente vietato o costituente illecito amministrativo.",
+    "comment": "La conferma scritta rileva, ma non supera le eccezioni previste dal CCNL; la controfirma del collega non è il criterio.",
+    "alternatives": [
+      "Si esegue anche se penalmente vietato, perché la responsabilità è del superiore.",
+      "Non si esegue alcun ordine rinnovato dopo una rimostranza.",
+      "Si esegue, salvo atto penalmente vietato o costituente illecito amministrativo.",
+      "Si esegue soltanto dopo che un collega ha controfirmato l'ordine."
+    ]
+  },
+  {
+    "chapter": "13",
+    "number": 1,
+    "correct": "B",
+    "answer": "Bando, profilo, prove e tempo effettivamente disponibili.",
+    "comment": "Il piano discende dal perimetro attuale e dai vincoli reali; gli altri elementi possono aiutare ma non lo sostituiscono.",
+    "alternatives": [
+      "Indice del manuale, numero di pagine e data dell'acquisto.",
+      "Bando, profilo, prove e tempo effettivamente disponibili.",
+      "Materie preferite, ordine dei capitoli e durata dei video.",
+      "Calendario del precedente concorso e media dei suoi punteggi."
+    ]
+  },
+  {
+    "chapter": "13",
+    "number": 2,
+    "correct": "D",
+    "answer": "Come dato incerto, con fonte da monitorare e prossimo controllo.",
+    "comment": "L'incertezza va dichiarata e gestita; una stima può servire allo studio soltanto se resta distinta dalla data ufficiale.",
+    "alternatives": [
+      "Come data presunta del concorso precedente senza altra indicazione.",
+      "Come scadenza definitiva stimata dalla durata abituale delle procedure.",
+      "Come campo da compilare solo dopo aver concluso il programma.",
+      "Come dato incerto, con fonte da monitorare e prossimo controllo."
+    ]
+  },
+  {
+    "chapter": "13",
+    "number": 3,
+    "correct": "A",
+    "answer": "Rilevanza nel bando, prova, prerequisiti e impatto sulla prestazione.",
+    "comment": "Priorità e difficoltà non coincidono: conta il ruolo del nucleo nella prova e nella comprensione delle altre materie.",
+    "alternatives": [
+      "Rilevanza nel bando, prova, prerequisiti e impatto sulla prestazione.",
+      "Difficoltà percepita e numero di pagine dedicate dal manuale.",
+      "Ordine alfabetico delle materie e frequenza nei video seguiti.",
+      "Interesse personale e facilità di produrre riassunti brevi."
+    ]
+  },
+  {
+    "chapter": "13",
+    "number": 4,
+    "correct": "D",
+    "answer": "Presto, calibrandoli sui nuclei già studiati per rilevare le lacune.",
+    "comment": "L'output precoce fornisce evidenza per correggere il piano; non richiede di simulare subito tutta la prova.",
+    "alternatives": [
+      "Dopo aver completato tutte le letture, per evitare risultati bassi.",
+      "Solo nell'ultima settimana, per non sottrarre tempo alla teoria.",
+      "Quando tutti i quiz di una materia hanno risposta corretta.",
+      "Presto, calibrandoli sui nuclei già studiati per rilevare le lacune."
+    ]
+  },
+  {
+    "chapter": "13",
+    "number": 5,
+    "correct": "C",
+    "answer": "Errore, causa, regola corretta, azione e nuova prova con data.",
+    "comment": "La nuova prova verifica l'effetto della correzione; la lettera memorizzata non dimostra il nucleo.",
+    "alternatives": [
+      "Materia, voto, pagine da rileggere e giudizio sulla difficoltà.",
+      "Domanda, lettera corretta e promessa di ricordarla meglio.",
+      "Errore, causa, regola corretta, azione e nuova prova con data.",
+      "Tempo impiegato, umore e confronto con il punteggio di un collega."
+    ]
+  },
+  {
+    "chapter": "13",
+    "number": 6,
+    "correct": "C",
+    "answer": "Conservare il richiamo e allenare direttamente spiegazione e casi orali.",
+    "comment": "Riconoscere un'opzione e costruire una risposta sono prestazioni diverse, anche se condividono conoscenze.",
+    "alternatives": [
+      "Trasferire il punteggio dei quiz alla rubrica dell'orale.",
+      "Rinviare l'orale finché ogni materia raggiunge lo stesso punteggio.",
+      "Conservare il richiamo e allenare direttamente spiegazione e casi orali.",
+      "Studiare soltanto nuove domande perché il riconoscimento è trasferibile."
+    ]
+  },
+  {
+    "chapter": "13",
+    "number": 7,
+    "correct": "B",
+    "answer": "Correzione delle cause e nuova prova di recupero confrontabile.",
+    "comment": "Serve una nuova prestazione che mostri il recupero, evitando la sola memoria della batteria.",
+    "alternatives": [
+      "Registrazione del punteggio e passaggio a un'altra materia.",
+      "Correzione delle cause e nuova prova di recupero confrontabile.",
+      "Lettura delle soluzioni e sottolineatura delle risposte corrette.",
+      "Ripetizione immediata delle stesse lettere fino al massimo punteggio."
+    ]
+  },
+  {
+    "chapter": "13",
+    "number": 8,
+    "correct": "A",
+    "answer": "Proteggere nuclei prioritari e registrare ragione, rischio e riesame.",
+    "comment": "Il taglio va collegato a bando e rischio, e resta rivedibile se cambiano risultati o avvisi.",
+    "alternatives": [
+      "Proteggere nuclei prioritari e registrare ragione, rischio e riesame.",
+      "Rinviare tutte le materie difficili senza controllare il peso in prova.",
+      "Dimezzare ogni materia nello stesso modo per distribuire il taglio.",
+      "Seguire l'ordine del manuale e fermarsi quando finisce il tempo."
+    ]
+  },
+  {
+    "chapter": "14",
+    "number": 1,
+    "correct": "D",
+    "answer": "Titolarità del potere, natura della delega e limiti applicabili.",
+    "comment": "Delegare la firma non trasferisce automaticamente una funzione attribuita altrove.",
+    "alternatives": [
+      "Soltanto la data della firma, se successiva alla delega.",
+      "Soltanto il grado gerarchico del delegante rispetto al destinatario.",
+      "Il gradimento del richiedente per la struttura che ha deciso.",
+      "Titolarità del potere, natura della delega e limiti applicabili."
+    ]
+  },
+  {
+    "chapter": "14",
+    "number": 2,
+    "correct": "B",
+    "answer": "Integrare quantità e tempi con la misura di correttezza degli esiti.",
+    "comment": "Gli indicatori illuminano dimensioni diverse; il conteggio delle misure positive non è una valutazione.",
+    "alternatives": [
+      "Confermare il risultato dai due indicatori positivi su tre.",
+      "Integrare quantità e tempi con la misura di correttezza degli esiti.",
+      "Escludere gli annullamenti perché successivi alla chiusura.",
+      "Sostituire il target di qualità con il volume delle pratiche."
+    ]
+  },
+  {
+    "chapter": "14",
+    "number": 3,
+    "correct": "A",
+    "answer": "Verificare la prestazione, determinare il dovuto e completare gli atti contabili.",
+    "comment": "L'importo liquidabile deriva dal titolo e dall'esecuzione verificata, non da percentuali prudenziali inventate.",
+    "alternatives": [
+      "Verificare la prestazione, determinare il dovuto e completare gli atti contabili.",
+      "Liquidare l'intera fattura e registrare la verifica nel periodo successivo.",
+      "Pagare la metà per prudenza senza confrontare contratto e consegne.",
+      "Chiedere al fornitore una nuova fattura come prova dell'esecuzione."
+    ]
+  },
+  {
+    "chapter": "14",
+    "number": 4,
+    "correct": "C",
+    "answer": "L'istruttoria non è completa nonostante la procedura sia identificata.",
+    "comment": "Identificazione e motivazione hanno funzioni diverse: correggere il codice non crea l'atto mancante.",
+    "alternatives": [
+      "Il CIG assorbe la motivazione per il solo fatto di essere valido.",
+      "La motivazione diventa necessaria soltanto a fine esecuzione.",
+      "L'istruttoria non è completa nonostante la procedura sia identificata.",
+      "Il difetto può essere risolto cambiando l'identificativo del contratto."
+    ]
+  },
+  {
+    "chapter": "14",
+    "number": 5,
+    "correct": "A",
+    "answer": "La data originaria di ricezione e la storia delle assegnazioni.",
+    "comment": "La nuova assegnazione non fa scomparire la ricezione; il termine si determina secondo la disciplina del procedimento.",
+    "alternatives": [
+      "La data originaria di ricezione e la storia delle assegnazioni.",
+      "La sola data di presa in carico dell'ultimo ufficio.",
+      "La data di ricezione, da sostituire con quella della riassegnazione.",
+      "Il numero iniziale, da eliminare per evitare duplicazioni."
+    ]
+  },
+  {
+    "chapter": "14",
+    "number": 6,
+    "correct": "D",
+    "answer": "Segnalare e astenersi dalle attività coinvolte secondo le regole.",
+    "comment": "La prevenzione interviene prima del vantaggio indebito e riguarda anche l'istruttoria.",
+    "alternatives": [
+      "Limitarsi a dichiarare che saprà essere imparziale.",
+      "Proseguire l'istruttoria lasciando soltanto la firma a un collega.",
+      "Attendere una contestazione esterna prima di informare il responsabile.",
+      "Segnalare e astenersi dalle attività coinvolte secondo le regole."
+    ]
+  },
+  {
+    "chapter": "14",
+    "number": 7,
+    "correct": "C",
+    "answer": "Tempi necessari, conseguenze e opzioni di redistribuzione motivate.",
+    "comment": "Una priorità coordinata richiede informazioni concrete, non un conflitto trasferito senza istruttoria.",
+    "alternatives": [
+      "La sola indicazione di quale attività risulta più gradevole.",
+      "Una promessa di consegnare tutto senza modificare le risorse.",
+      "Tempi necessari, conseguenze e opzioni di redistribuzione motivate.",
+      "La richiesta di eliminare entrambe le scadenze senza analisi."
+    ]
+  },
+  {
+    "chapter": "14",
+    "number": 8,
+    "correct": "B",
+    "answer": "Indice, atti disponibili, cronologia e lacune con tempi d'integrazione.",
+    "comment": "Il pacchetto tempestivo deve essere affidabile e dichiarare i limiti: la difesa non si fonda su conclusioni prive di evidenze.",
+    "alternatives": [
+      "Una cartella con tutte le versioni prive di indicazione temporale.",
+      "Indice, atti disponibili, cronologia e lacune con tempi d'integrazione.",
+      "Una nota che rinvia ogni invio fino al completamento del fascicolo.",
+      "La sola conclusione favorevole all'amministrazione senza documenti."
+    ]
+  },
+  {
+    "chapter": "15",
+    "number": 1,
+    "correct": "B",
+    "answer": "Sviluppare funzione, distinzione ed esempio aderenti alla domanda.",
+    "comment": "Il glossario attiva il richiamo; la risposta dimostra il concetto e il suo uso.",
+    "alternatives": [
+      "Ripetere la definizione più volte per allungare la risposta.",
+      "Sviluppare funzione, distinzione ed esempio aderenti alla domanda.",
+      "Sostituire la spiegazione con la sola citazione della fonte.",
+      "Descrivere un caso personale senza definire il concetto."
+    ]
+  },
+  {
+    "chapter": "15",
+    "number": 2,
+    "correct": "D",
+    "answer": "La fonte attributiva e gli atti organizzativi applicabili.",
+    "comment": "La competenza deriva dall'ordinamento, non da somiglianze nominali o anzianità.",
+    "alternatives": [
+      "La posizione grafica più vicina al ministro.",
+      "La denominazione più simile all'oggetto della pratica.",
+      "La maggiore anzianità del dirigente rispetto agli altri uffici.",
+      "La fonte attributiva e gli atti organizzativi applicabili."
+    ]
+  },
+  {
+    "chapter": "15",
+    "number": 3,
+    "correct": "C",
+    "answer": "Quando collega dato, fonte, conseguenza e controllo delle incognite.",
+    "comment": "La decodifica trasforma il documento in decisioni e mantiene visibile ciò che manca.",
+    "alternatives": [
+      "Quando trascrive integralmente tutte le pagine del bando.",
+      "Quando sostituisce le date mancanti con quelle del concorso precedente.",
+      "Quando collega dato, fonte, conseguenza e controllo delle incognite.",
+      "Quando ordina le materie secondo la lunghezza dei capitoli."
+    ]
+  },
+  {
+    "chapter": "15",
+    "number": 4,
+    "correct": "A",
+    "answer": "Fascicolo completo: indice e allegati verificati nella versione indicata.",
+    "comment": "Una spunta deve rinviare a un prodotto e a un criterio osservabili.",
+    "alternatives": [
+      "Fascicolo completo: indice e allegati verificati nella versione indicata.",
+      "Fascicolo completo: impressione positiva dopo una lettura rapida.",
+      "Fascicolo completo: spunta ricopiata dal controllo precedente.",
+      "Fascicolo completo: conferma verbale senza identificare i documenti."
+    ]
+  },
+  {
+    "chapter": "15",
+    "number": 5,
+    "correct": "B",
+    "answer": "Adattare profondità e ordine alla domanda mantenendo chiarezza.",
+    "comment": "Lo schema organizza, ma l'aderenza alla domanda prevale sull'esecuzione meccanica.",
+    "alternatives": [
+      "Dedicare esattamente lo stesso tempo a ogni passaggio.",
+      "Adattare profondità e ordine alla domanda mantenendo chiarezza.",
+      "Inserire ogni passaggio anche quando estraneo alla domanda.",
+      "Memorizzare una risposta unica per tutte le materie."
+    ]
+  },
+  {
+    "chapter": "15",
+    "number": 6,
+    "correct": "D",
+    "answer": "Rispondere senza testo, confrontare i criteri e riprovare a distanza.",
+    "comment": "Familiarità e recupero autonomo sono diversi: occorre una prestazione osservabile e differita.",
+    "alternatives": [
+      "Rileggere domande e soluzioni consecutivamente senza produrre risposte.",
+      "Sottolineare le domande già incontrate in un'altra sessione.",
+      "Contare le risposte familiari durante la lettura del capitolo.",
+      "Rispondere senza testo, confrontare i criteri e riprovare a distanza."
+    ]
+  }
+]

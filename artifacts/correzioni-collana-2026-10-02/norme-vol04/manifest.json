@@ -1,0 +1,1953 @@
+[
+  {
+    "name": "feriale",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-07;742~art1!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/feriale-art1.html",
+    "sha256": "c9d92a7cb5c36cd0d1c09391973244ab42e9337ada2894f85621533653170f9a",
+    "characters": 479,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "feriale",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-07;742~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/feriale-art3.html",
+    "sha256": "30ad19eff425a2edfb99f471e05d72bd482bd0826ff7c817df471b4c91d79aa7",
+    "characters": 246,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "ordinamento-allegato",
+    "article": 42,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=7&art.flagTipoArticolo=1&art.codiceRedazionale=041U0012&art.idArticolo=42&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-02-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-allegato-art42.html",
+    "sha256": "be361381f61e3b8929a7b3ef56717fedf6d71d09ebf18c40f84b88408ccf047c",
+    "characters": 156,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "ordinamento-allegato",
+    "article": 48,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=7&art.flagTipoArticolo=1&art.codiceRedazionale=041U0012&art.idArticolo=48&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-02-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-allegato-art48.html",
+    "sha256": "e95c5cc8597b31d219f472ef23473809ea2d690916155acae178149549cd524f",
+    "characters": 514,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "ordinamento-allegato",
+    "article": 56,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=10&art.flagTipoArticolo=1&art.codiceRedazionale=041U0012&art.idArticolo=56&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-02-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-allegato-art56.html",
+    "sha256": "54022e45c36392d3435785d892ef9e433652156a4dcead8bdea444bda9619331",
+    "characters": 127,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "ordinamento-allegato",
+    "article": 65,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=14&art.flagTipoArticolo=1&art.codiceRedazionale=041U0012&art.idArticolo=65&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-02-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-allegato-art65.html",
+    "sha256": "4b57edc5a8dc7082b30e2ce9d9de8f22603cdc713d9bf85ec64c6d25bdf2b28b",
+    "characters": 580,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "ordinamento-allegato",
+    "article": 70,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=12&art.idGruppo=15&art.flagTipoArticolo=1&art.codiceRedazionale=041U0012&art.idArticolo=70&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-02-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-allegato-art70.html",
+    "sha256": "6c3f152f3b278f2abd67ba21211c53b77b6e48a5809f44fc1680c15ec06fd06e",
+    "characters": 2988,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "ordinamento-allegato",
+    "article": 73,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=16&art.flagTipoArticolo=1&art.codiceRedazionale=041U0012&art.idArticolo=73&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-02-04&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-allegato-art73.html",
+    "sha256": "a381c01bf1c0c9f1876df68ee7a8cfa9c966e65afc2b8cc5d578645866725003",
+    "characters": 740,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "ordinamento",
+    "article": 42,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12~art42!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-art42.html",
+    "sha256": "05c074a60b52fde0bf2ff27430ed207b997f1dacfb3258a26875121af4705aab",
+    "characters": 239,
+    "readComplete": false,
+    "validExtraction": false
+  },
+  {
+    "name": "ordinamento",
+    "article": 48,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12~art48!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-art48.html",
+    "sha256": "05c074a60b52fde0bf2ff27430ed207b997f1dacfb3258a26875121af4705aab",
+    "characters": 239,
+    "readComplete": false,
+    "validExtraction": false
+  },
+  {
+    "name": "ordinamento",
+    "article": 56,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12~art56!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-art56.html",
+    "sha256": "05c074a60b52fde0bf2ff27430ed207b997f1dacfb3258a26875121af4705aab",
+    "characters": 239,
+    "readComplete": false,
+    "validExtraction": false
+  },
+  {
+    "name": "ordinamento",
+    "article": 65,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12~art65!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-art65.html",
+    "sha256": "05c074a60b52fde0bf2ff27430ed207b997f1dacfb3258a26875121af4705aab",
+    "characters": 239,
+    "readComplete": false,
+    "validExtraction": false
+  },
+  {
+    "name": "ordinamento",
+    "article": 70,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12~art70!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-art70.html",
+    "sha256": "05c074a60b52fde0bf2ff27430ed207b997f1dacfb3258a26875121af4705aab",
+    "characters": 239,
+    "readComplete": false,
+    "validExtraction": false
+  },
+  {
+    "name": "ordinamento",
+    "article": 73,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12~art73!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/ordinamento-art73.html",
+    "sha256": "05c074a60b52fde0bf2ff27430ed207b997f1dacfb3258a26875121af4705aab",
+    "characters": 239,
+    "readComplete": false,
+    "validExtraction": false
+  },
+  {
+    "name": "assise",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-04-10;287~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/assise-art3.html",
+    "sha256": "d0c4a19ecefd0554443a1da743ca8322134c861cafbef9f8471d1615b6f94717",
+    "characters": 0,
+    "readComplete": false,
+    "validExtraction": false
+  },
+  {
+    "name": "assise",
+    "article": 4,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-04-10;287~art4!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/assise-art4.html",
+    "sha256": "503f522f090a1c5fdb44f4c36d2d9a6e7a1bb90293c8fef5442f10e831ccb528",
+    "characters": 0,
+    "readComplete": false,
+    "validExtraction": false
+  },
+  {
+    "name": "trib-minori",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1404~art2!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/trib-minori-art2.html",
+    "sha256": "4115cd07581717ccaef573e1c35a13dca59cde6f649b8d90ab027b2597abb289",
+    "characters": 77,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl144",
+    "article": 7,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-08-07;144~art7!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl144-art7.html",
+    "sha256": "973b9f7d032f73111767a8d56661620534f370f66701f227ad9fd9ec90755c7b",
+    "characters": 20003,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art1!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art1.html",
+    "sha256": "79b8b28e1334a4479cb7b01fbf000d12e4684979e9c151f95a14161c9936b106",
+    "characters": 1530,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art2!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art2.html",
+    "sha256": "d99efd6af58fa2d915bf02ac306a9b27781a1725dba15493dfd8728086628689",
+    "characters": 284,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art3.html",
+    "sha256": "68e342922ff6ce2dc5f58678afb77bcb328eb18ddac0cc25c05badae64b8a457",
+    "characters": 1031,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 4,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art4!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art4.html",
+    "sha256": "74fd309fca7e0aae293fc4e9af2a9a381db6ed39191abbfbd1bd1f427d6e6057",
+    "characters": 3019,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 5,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art5!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art5.html",
+    "sha256": "8e4a091236a573a53c16e3944bd4a06136dc10f883451ed957647a5c1b1f167c",
+    "characters": 1744,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 6,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art6!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art6.html",
+    "sha256": "d42e3c8f281d07584e14e5562d2f049831dcbc2a02f92745cacc8064c2024ac6",
+    "characters": 1917,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 7,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art7!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art7.html",
+    "sha256": "97748284083392e5a900d935efaca7cdb275922bfb433974f02448268fbd2ac0",
+    "characters": 1203,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 8,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art8!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art8.html",
+    "sha256": "e5b95b1c0b0bf1f21ee64230e608efdd01e32d013af290720aee1aeb46425d7f",
+    "characters": 1789,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "upp",
+    "article": 9,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;151~art9!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/upp-art9.html",
+    "sha256": "3f5301f0190c8c997f8c554a207f863b90485e759dff0259c15d1959c24f9f3d",
+    "characters": 1201,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art1!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art1.html",
+    "sha256": "3e91c8babc8d4d0fbaffc10a6a62000f81229a68fc18386830fc9ace4f8b96f5",
+    "characters": 9931,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art2!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art2.html",
+    "sha256": "1bef2faa3369c1b0caf74f63247e85c7aebe72cc7d63f8800e8dadb3ccfa6173",
+    "characters": 5437,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art3.html",
+    "sha256": "c3f44bfe4307a3ed0c5997a3ddbc2a3da4edc586d9b07827a17dccfb57ac98d5",
+    "characters": 585,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 4,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art4!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art4.html",
+    "sha256": "0f622cb9f870c62f9b6dea0649ad2a2a1fdde35c1852b41c32a424a2eaaadfe0",
+    "characters": 1456,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 5,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art5!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art5.html",
+    "sha256": "257e593697038769aa88fafea1d9eee2fd0b737bf5b1e0b43112e599365b43cf",
+    "characters": 1024,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 6,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art6!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art6.html",
+    "sha256": "2a9aefd76ec4851e60932a89b5fb5ee832461a59d652837ab1d4835e2f026864",
+    "characters": 2522,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 7,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art7!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art7.html",
+    "sha256": "6233e913f66a92d44fbf3b21015754be1d972878f10149229dc341709632eba9",
+    "characters": 565,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 8,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art8!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art8.html",
+    "sha256": "a2195f7c3f3a26451ceb987f6f1e32cf6f6b62f8fd07bac7333f6c9d2a8ca62e",
+    "characters": 1571,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 9,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art9!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art9.html",
+    "sha256": "5f4b725ad57b5f5cc67a73677481c276caa38ca6eaaec0f082329c116b1b2927",
+    "characters": 492,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 10,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art10!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art10.html",
+    "sha256": "d44357d98a6a708aa2af87d163b666962f4496e79aef05379fe9cbbcb0a99122",
+    "characters": 19365,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 11,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art11!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art11.html",
+    "sha256": "2cdd522ed57c65f11fd0002aeb7a94f4ce82bb4bc88db03aa396b06ada06a8ae",
+    "characters": 20583,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dl100",
+    "article": 12,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100~art12!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dl100-art12.html",
+    "sha256": "f929cf6bfbfaaf058afbace0cf46b0e3abce34667bb1193171029481a82c88b8",
+    "characters": 24766,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dirigenza",
+    "article": 1,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-07-25;240~art1!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dirigenza-art1.html",
+    "sha256": "335d086abaa2f39b8c2928b97139f859047aeef5d1e449546476d1853d8afbfc",
+    "characters": 1336,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dirigenza",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-07-25;240~art2!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dirigenza-art2.html",
+    "sha256": "4622d433092cf866f3097eb8a9b464f92264f5b7038a838169c582d54753f055",
+    "characters": 822,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dirigenza",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-07-25;240~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dirigenza-art3.html",
+    "sha256": "460b3eec6f986b134dd781fc7d02185a9996ca58250a47aaed69402591e91c36",
+    "characters": 751,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "dirigenza",
+    "article": 4,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-07-25;240~art4!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/dirigenza-art4.html",
+    "sha256": "1c54800d10534b41da06fdb1ea48f8f4e14f243a160dfd6a2bffd6f11a5a48fd",
+    "characters": 1433,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 9,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art9!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art9.html",
+    "sha256": "098c6bb3e76f15232789f72e05be4bfd4e34b48dc7085fadeac888b1018d87ac",
+    "characters": 984,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 10,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art10!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art10.html",
+    "sha256": "3d3860375e52e53c7d2f688ab3404ac19dfed3a85fbe68e01423ed530fafe967",
+    "characters": 1749,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 11,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art11!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art11.html",
+    "sha256": "d48421bd7089d707c2fabcd83ca4ae60c7e63d9a77dd18019e261cdc987ffc84",
+    "characters": 363,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 13,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art13!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art13.html",
+    "sha256": "1ee02f0e1255e481fe23e814e09ed60262bd0c512062729e5a71600178934efd",
+    "characters": 9703,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 14,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art14!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art14.html",
+    "sha256": "0435c1ae1014d65ee88b47d1971e28f320cdd583884d7beb971590f1cd06e48f",
+    "characters": 2483,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 16,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art16!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art16.html",
+    "sha256": "9c4107a48e44b4ecdd45db09cfc5b013bb188bd30ca18c7be1cf61b1bf20197c",
+    "characters": 699,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 71,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art71!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art71.html",
+    "sha256": "9484daf9a4f62b19d1796d7e92e10eb81929caf7b216c27c8a5a4d0a350a9a63",
+    "characters": 1038,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 76,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art76!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art76.html",
+    "sha256": "4557757360d7cf72be2138692e4dd89cf177294601aae7a3b85a6334e961cf43",
+    "characters": 3247,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 77,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art77!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art77.html",
+    "sha256": "32b978e42ca954e41c8795c42b8acc77c29b5575288d4b2161fc10d651763241",
+    "characters": 328,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 78,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art78!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art78.html",
+    "sha256": "0b13a7377d7036eba6b8629e302505761e4039e27810b928e791422b334e5dd2",
+    "characters": 400,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 79,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art79!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art79.html",
+    "sha256": "0409c11159d32fd822d89880d4357889d01663312e38fec974c9a5ab3a5594a0",
+    "characters": 1554,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 82,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art82!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art82.html",
+    "sha256": "c866ef71285f8788f9f5c9ecf25ddf9a44d242a69eb262aecb4e8518c3611c34",
+    "characters": 922,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 83,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art83!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art83.html",
+    "sha256": "9984bd4245633852887d2a999e2eb0ff2e3c289eae4946a9ed25e3d6075ecdc0",
+    "characters": 1047,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 99,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art99!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art99.html",
+    "sha256": "1ed038878b16a44c104eaa1894735ac7e5c85bb9798b01be93d912ac7e1effcb",
+    "characters": 883,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 106,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art106!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art106.html",
+    "sha256": "9180a38dbf80c1915d7dffb9483220d8ad031ce4790598a5e31fc71d02a3a891",
+    "characters": 306,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 112,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art112!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art112.html",
+    "sha256": "fc7c17771b3719386114c427ee8e54e54fb8457effe82d5dd5d90e23538f3b7f",
+    "characters": 1274,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 113,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art113!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art113.html",
+    "sha256": "96d33f7b3100a630211ccbe123f1d2bcfa2278a3791c28c33876d2326c14f9f3",
+    "characters": 263,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 115,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art115!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art115.html",
+    "sha256": "2b55f5e34d0d126037e88a34fde861737c7aa49438c57388161e67c3f537ca94",
+    "characters": 670,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 124,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art124!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art124.html",
+    "sha256": "be1771c839c13e84d3a245152c6a9fc8aef82c04dd44b6a1a066b17b2a20fc49",
+    "characters": 664,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 126,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art126!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art126.html",
+    "sha256": "edf845be8fdff44defbf51966069588fb9ecedab3a24fa5241311b907f168af7",
+    "characters": 837,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 131,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art131!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art131.html",
+    "sha256": "3a8b339d6c4028f3a62961ab3139ca850f35b9699b1f3ce8f74b166b14910474",
+    "characters": 2276,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 136,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art136!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art136.html",
+    "sha256": "e11fad74ab224e058cd1d969a1098aff2320226ca7668bb3ac90601c79714255",
+    "characters": 652,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 168,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art168!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art168.html",
+    "sha256": "7623fc3e3398c71ecf27547b7cfb14ad729ed8c9d340e12ed6de3d55b9ffee2f",
+    "characters": 642,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 170,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art170!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art170.html",
+    "sha256": "853c84fdd1c58facbcd7acc578781f27ef0e36989f645ed18e1a5c6e748350b6",
+    "characters": 527,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "spese",
+    "article": 227,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115~art227!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/spese-art227.html",
+    "sha256": "489c89f6f87008e62de34ee82d2c59c4c3b63ad01cd2342bffde3a0700422c48",
+    "characters": 1498,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art3.html",
+    "sha256": "221b05d65f15062651a7e20a4c982514254b0d41e94ac2f2d62c022677361f92",
+    "characters": 4334,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 5,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art5!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art5.html",
+    "sha256": "f7257656821a8e1141037f17b7372868874b9020bae772f8a92489d80daeefab",
+    "characters": 3615,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 24,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art24!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art24.html",
+    "sha256": "437b72f2ae1fe9eb88ccef0fa1660901736eb5ec91e0960ec0d558badee2116f",
+    "characters": 3112,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": "25bis",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art25bis!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art25bis.html",
+    "sha256": "eee26db75fe1e1b37b60035e1ecdafcfc54461fb2ecb194b94172b2ee5afef94",
+    "characters": 583,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 27,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art27!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art27.html",
+    "sha256": "b8de9ab3546a8ab82e0d11f283b2a8c1c70182054091a9c312e4c7b0dffb3436",
+    "characters": 1400,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 28,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art28!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art28.html",
+    "sha256": "366820928afde009ce79eaac786af9010ccca50a7800d7d809698b6d78983e50",
+    "characters": 4009,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 30,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art30!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art30.html",
+    "sha256": "456c6e1b5d4e01f03aaa192b29142ef9695bad96742da2dcc1aa89766fd8120e",
+    "characters": 474,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 31,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art31!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art31.html",
+    "sha256": "44119862d0fb503e2c1ff041b03e81375f98455d17f2b15466cd7e96d6f6dc58",
+    "characters": 700,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 39,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art39!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art39.html",
+    "sha256": "ade11daf6cfc567a33e5d012e9bc04108ef0628a24e20b033c7bcd0b25a8c971",
+    "characters": 3161,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 41,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art41!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art41.html",
+    "sha256": "dcb0ba946c9e3b9c90296c4b773e27ba24777ce6e6e5377f51c20e1c0032067d",
+    "characters": 960,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 132,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=20&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=132&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art132.html",
+    "sha256": "a4001a5439db95f2de3ad0675c60574cacf1c5cd81bb7ac84643f31d6d059cfd",
+    "characters": 991,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 133,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=20&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=133&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art133.html",
+    "sha256": "27527dc365108c2e8de953127b745c8f0d633f5b9e3f2813a4ef849c26a2c3d2",
+    "characters": 466,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 134,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=20&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=134&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art134.html",
+    "sha256": "48e7f981d0e7e42003517cf851b27cf1964a2f13bae6fb8d8910ac69da8e3885",
+    "characters": 521,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 135,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=20&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=135&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art135.html",
+    "sha256": "2e070311a788f0810745a52c8a6e5cb9e23247ff2c7a3c2a1897e6ab9cac6463",
+    "characters": 469,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 139,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=139&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art139.html",
+    "sha256": "e795b6e88caa642cc89cd2d46131c4ba2d5821ac2bddb92d69ef6d4fff6fa824",
+    "characters": 1419,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 140,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=140&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art140.html",
+    "sha256": "b912ccf6537d718cb6c6cd0674abb6896a63708fe00e5d258ccb06b1c8652812",
+    "characters": 498,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 143,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=21&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=143&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art143.html",
+    "sha256": "0ffbbbf7e5be45dcc75cd5e30be5f34e005cb410c814307c4e51720f4dce7ea1",
+    "characters": 784,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 155,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=22&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=155&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art155.html",
+    "sha256": "38e18fc369a6f0db850b76256792fe30e65a3e2ab121b00239018371d33f95a3",
+    "characters": 734,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": "163bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=9&art.idGruppo=24&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=163&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art163bis.html",
+    "sha256": "dc59b20f4c3369d3ae95c380796aaa0479e61c5ef93ad685437d56e3bfb41111",
+    "characters": 1061,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 165,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=7&art.idGruppo=24&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=165&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art165.html",
+    "sha256": "1dc81c98f3c8fbd9960dd87f1222b909693b4dab3673ee4cacc29521ed0f3213",
+    "characters": 850,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 166,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=8&art.idGruppo=24&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=166&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art166.html",
+    "sha256": "073fc7dd38344003198314c1ea2d8750324d22ea4f8348201f367a6c89a12eb4",
+    "characters": 388,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 167,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=10&art.idGruppo=24&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=167&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art167.html",
+    "sha256": "2909f4599a428832602cdbfe40e3aa8c9c30beb5555a2620510986ab5be2b884",
+    "characters": 969,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": "171bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=24&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=171&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art171bis.html",
+    "sha256": "9a19b81116db6b12dd0229600a921d5d64a75cb4fd0b055096b0e319a92b5cca",
+    "characters": 1826,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": "171ter",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=24&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=171&art.idSottoArticolo=3&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art171ter.html",
+    "sha256": "e7c05caff42d6b4ab69c5cff4f7c36d1479646816d18e8a39b07c7d490475e64",
+    "characters": 1040,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 183,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=12&art.idGruppo=27&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=183&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art183.html",
+    "sha256": "f22795f0da9b0a7506d9b00998006bcf68615bba9753ddbd3d8b62762ec9c628",
+    "characters": 1651,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": "281decies",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=43&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=281&art.idSottoArticolo=10&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art281decies.html",
+    "sha256": "d3551702032afa61637bcc96795e7395dc29d3f838b2015e227ecec5e7e0938c",
+    "characters": 678,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": "281undecies",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=43&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=281&art.idSottoArticolo=11&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art281undecies.html",
+    "sha256": "47a5ea56afd45e5d2a9fa60a49f261bb2adeb4837799cf798f77f7c095d70e0f",
+    "characters": 2222,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": "281duodecies",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=43&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=281&art.idSottoArticolo=12&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art281duodecies.html",
+    "sha256": "caffd763b6264f9ecf1c0d511c3e06baecdcbfb8cedf1d6023bf6ee4aaa73c00",
+    "characters": 1866,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 325,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=53&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=325&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art325.html",
+    "sha256": "7ab89148889798c01cee2f3272c26ee6cb302d18d55f28896cf137817ac0545c",
+    "characters": 403,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 326,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=53&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=326&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art326.html",
+    "sha256": "66b56fcdefc3cc1bcd6705759f38388d8253854437769d7d588a4faa4875996b",
+    "characters": 871,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 327,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=53&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=327&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art327.html",
+    "sha256": "7629085fa4b5721d5254d2c862909157218b5334dbde7e15ee226fd8889380e9",
+    "characters": 514,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 409,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=60&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=409&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art409.html",
+    "sha256": "8ec67a99152212fc8b73feb3c44ab54f926fcc3d6984d8b19d9734995c491ff7",
+    "characters": 1144,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 414,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=61&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=414&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art414.html",
+    "sha256": "b9cceab2518045064c847324c2041efda143b3d380f590695f46d773d62dd2ae",
+    "characters": 909,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 415,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=61&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=415&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art415.html",
+    "sha256": "353863f27d29b7b552231da027991a6342ff3d52fa495098fc8ff4bb679d9ce9",
+    "characters": 1509,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 416,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=61&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=416&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art416.html",
+    "sha256": "70a3b366170ba16104abc5558ca63bd0078d1a2ad1d7a13a46c44d1265994978",
+    "characters": 804,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 474,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=6&art.idGruppo=82&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=474&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art474.html",
+    "sha256": "08dca5bcd59c339e49d67a8289e2f99993495b61c07d87a8aa832d33e3d7ca5d",
+    "characters": 1210,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 475,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=82&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=475&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art475.html",
+    "sha256": "d8fc8cc77fb530ae07cfcb075b87397c31c2aadbd082bb7289dd4443261cdc39",
+    "characters": 606,
+    "readComplete": true,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 480,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=82&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=480&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art480.html",
+    "sha256": "e218fb0299cda666d528159bd4d8d33a49cb3363a440acb14d7675c7f2a88bc6",
+    "characters": 1855,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 481,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=82&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=481&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art481.html",
+    "sha256": "5648a9840358aaafa3c7e447ba29d4aff1bf5e7d44d14d3cc633fb44729d5c39",
+    "characters": 291,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 482,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=82&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=482&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art482.html",
+    "sha256": "5209f13c46c057245824eccab0ab31988cf9ee1f9e6f73d65e7d8601e7c54a7f",
+    "characters": 547,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": "492bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=84&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=492&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art492bis.html",
+    "sha256": "59c03d48e95e91c8748b7c184457ea0feb0f3ae944d258f420a77e8ef5f13b50",
+    "characters": 5600,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 497,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=84&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=497&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art497.html",
+    "sha256": "0e631bf1dd36c2804845cd586386c94d73828b55f67ea15655d622c20d8961ce",
+    "characters": 221,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 543,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=9&art.idGruppo=92&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=543&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art543.html",
+    "sha256": "93cef412a177229ff86178b80b7e9a40a2f18a842f28f37d5d12c25df52fa9ba",
+    "characters": 4171,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpc",
+    "article": 555,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=94&art.flagTipoArticolo=1&art.codiceRedazionale=040U1443&art.idArticolo=555&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1940-10-28&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpc-art555.html",
+    "sha256": "f9ba86c56264e326ca1f7550b23460a1abe811d950e4884ed763f2413ff2e3d8",
+    "characters": 822,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "disp-cpc",
+    "article": 76,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=11&art.flagTipoArticolo=1&art.codiceRedazionale=041U1368&art.idArticolo=76&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-12-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/disp-cpc-art76.html",
+    "sha256": "9e1fb5843a21bfb070d890b546f47586c01ec0ee71f0af7e251ad0bf65bd998b",
+    "characters": 724,
+    "readComplete": true,
+    "validExtraction": true
+  },
+  {
+    "name": "disp-cpc",
+    "article": "196sexies",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=24&art.flagTipoArticolo=1&art.codiceRedazionale=041U1368&art.idArticolo=196&art.idSottoArticolo=6&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1941-12-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/disp-cpc-art196sexies.html",
+    "sha256": "56aaf14f7c54290271dffb35ead8baae79792cc06ae61125826127605ddd2721",
+    "characters": 797,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpp",
+    "article": 60,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=15&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=60&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art60.html",
+    "sha256": "4633d518cd9da6245b790f708597c98d5bb33c1db1359d27e76b728d26484b89",
+    "characters": 882,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 61,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=15&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=61&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art61.html",
+    "sha256": "c0b146a33229277357f8ce1cd16921904ac8fbd1b8cd028b184db8f0eca4e340",
+    "characters": 224,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 64,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=15&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=64&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art64.html",
+    "sha256": "a44e5cd57564436775fab4dea432e2762f35db3ce243d42e13342b1dc99ff9af",
+    "characters": 1452,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 116,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=19&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=116&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art116.html",
+    "sha256": "7cb9875d435376f73fb8118dfc537ae39ed40c6c01b766550911268ca31a0d5a",
+    "characters": 1152,
+    "readComplete": true,
+    "validExtraction": true
+  },
+  {
+    "name": "cpp",
+    "article": 335,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=51&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=335&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art335.html",
+    "sha256": "8dbd63e3d9bbb36b13015946a1427f5042cc5c9f1c7ce512ce1a9f6cca174930",
+    "characters": 2258,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 407,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=18&art.idGruppo=58&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=407&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art407.html",
+    "sha256": "9a98938d084a641e10d3bdec76546ca1bf0a25ccaaff1d32c86ba0c258887abe",
+    "characters": 3778,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 408,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=58&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=408&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art408.html",
+    "sha256": "bcd641a45cf29dcdaf5dabdbf755ff6c73e63f1a2b0a2fae036d10c14cbd7123",
+    "characters": 1375,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 409,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=58&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=409&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art409.html",
+    "sha256": "9c1dabaaf26eeeec1a983d6be0c27bde0c984f187de7281a4f868cde3343ebfe",
+    "characters": 1765,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 410,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=58&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=410&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art410.html",
+    "sha256": "8118b9b1e8d60450ab2f05fcdb114e67a5fa71e558e7987e214950c5513df526",
+    "characters": 612,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 411,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=58&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=411&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art411.html",
+    "sha256": "0e29d0c0973fa9c7ff3bc71f2a05b79907193adc4ed680a67bf0cc49f0364b34",
+    "characters": 1240,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpp",
+    "article": "415bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=7&art.idGruppo=58&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=415&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art415bis.html",
+    "sha256": "f781df9ea874702aa276171732f2afea55b93a01927e2ba6bda2e2817b1180e5",
+    "characters": 3445,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 416,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=6&art.idGruppo=59&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=416&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art416.html",
+    "sha256": "1c4c29e2d6ac187bc3fc8e1c548320165c8bbfda2ce6bcb2195478c4c1bc154c",
+    "characters": 860,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 431,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=59&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=431&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art431.html",
+    "sha256": "fba6c69123254ccaad18785b7fa464df2322ef3e128a3f282e2bc11532747a77",
+    "characters": 1982,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 438,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=9&art.idGruppo=61&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=438&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art438.html",
+    "sha256": "3472c1252ffd5998230a8092de44c92bc2ece829f539954f5f4adb033b04ad0d",
+    "characters": 3186,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 440,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=61&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=440&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art440.html",
+    "sha256": "93e831fa9b8b75a3763cacbd37b0d0718322a1b24aa2db2abb471fd31e63c37b",
+    "characters": 55,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpp",
+    "article": 442,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=10&art.idGruppo=61&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=442&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art442.html",
+    "sha256": "230baf381b1aec76a78f5a8fbdf98259b2be81b2ad34909ab03fdc7046b5c17b",
+    "characters": 934,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 444,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=12&art.idGruppo=62&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=444&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art444.html",
+    "sha256": "c2215fc14d0900e7d1e7191f87dc8b492d3b21e221daf30a537f4d49bb27f254",
+    "characters": 4396,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 445,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=62&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=445&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art445.html",
+    "sha256": "20e2eeffca1519bfb1af57a6b6804bc96b28e6363b8930210ab94ac7d4bb3992",
+    "characters": 2068,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 449,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=63&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=449&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art449.html",
+    "sha256": "82a7275a37d20dbef6330c3b36140bde6761f789f84c4a044d4a2843995c3eb4",
+    "characters": 2651,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 453,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=64&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=453&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art453.html",
+    "sha256": "f40493dadf1bbb6f96ec74d9892788b62c884f0ce69cc5db9c3e382ac31652da",
+    "characters": 1616,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 459,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=7&art.idGruppo=65&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=459&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art459.html",
+    "sha256": "540e2349b8c7c078e00f716b0bde10f4d95a44ebb5d0393a05fc21d7bebf9a59",
+    "characters": 3291,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 460,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=7&art.idGruppo=65&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=460&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art460.html",
+    "sha256": "aaaa0b4b840e0b50b63e6d558dbd6737dfebb80083d8ec7854a80596b107eca8",
+    "characters": 3464,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": "464bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=66&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=464&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art464bis.html",
+    "sha256": "bdfb9e069ba309c66d4b05903c8ce95b04856e883312cd55420231dbbc825c51",
+    "characters": 2697,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpp",
+    "article": "464quater",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=66&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=464&art.idSottoArticolo=4&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art464quater.html",
+    "sha256": "e0f6afa3f60eddb8f5818e09ec7fe314ece213c324b84242d82c52b0c373c014",
+    "characters": 2188,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpp",
+    "article": "464septies",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=2&art.idGruppo=66&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=464&art.idSottoArticolo=7&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art464septies.html",
+    "sha256": "1af19e1b6fb53f6e835147262a53cf5fdd058b628043b5adc8850e97649d16d2",
+    "characters": 600,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cpp",
+    "article": 585,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=82&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=585&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art585.html",
+    "sha256": "c1daae12ae750899d08b0b6f3c4cdc57e8d103b658aa32ebbf29bf82ff98b9d4",
+    "characters": 1911,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "cpp",
+    "article": 593,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=7&art.idGruppo=83&art.flagTipoArticolo=0&art.codiceRedazionale=088G0492&art.idArticolo=593&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1988-10-24&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cpp-art593.html",
+    "sha256": "8c854210c00f143142f6539a0e00e511d7356e21c08473de1a8046a59ece95e5",
+    "characters": 1034,
+    "readComplete": true,
+    "validExtraction": true,
+    "reviewNote": "Letto per source processo penale 2026-10-03; 533c1 anche HTML, 656 soglie non consolidate senza note costituzionali."
+  },
+  {
+    "name": "minori",
+    "article": 9,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448~art9!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/minori-art9.html",
+    "sha256": "b1bd708e610239b69bc7b536d4499318a7c91e685bf2f5c51db2639d696c5eee",
+    "characters": 275,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "minori",
+    "article": 28,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448~art28!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/minori-art28.html",
+    "sha256": "b1bd708e610239b69bc7b536d4499318a7c91e685bf2f5c51db2639d696c5eee",
+    "characters": 275,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "minori",
+    "article": 29,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448~art29!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/minori-art29.html",
+    "sha256": "b1bd708e610239b69bc7b536d4499318a7c91e685bf2f5c51db2639d696c5eee",
+    "characters": 275,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "comunita",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;121~art2!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/comunita-art2.html",
+    "sha256": "60bff9e9250206e4dcd0fe338ef5d1cbb0ebc81834e7e6892976ad99a1fbc67b",
+    "characters": 3662,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "comunita",
+    "article": 3,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;121~art3!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/comunita-art3.html",
+    "sha256": "eee29273507bc4cbd132115d4aad8f446bd5484174c70ee73e90f641e7a08006",
+    "characters": 816,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "comunita",
+    "article": 4,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;121~art4!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/comunita-art4.html",
+    "sha256": "f4f6a27c4f7665a3b0913b9543d9b480d602ab38c149d395ed751472f3b4634d",
+    "characters": 1948,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "comunita",
+    "article": 5,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;121~art5!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/comunita-art5.html",
+    "sha256": "12d2af207db9569b73d94337f4fd24491d807b0cae9ecd0d962b872c44a4c9ae",
+    "characters": 387,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "comunita",
+    "article": 6,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;121~art6!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/comunita-art6.html",
+    "sha256": "8a298678c5b447473e53e09f6ab7eaac25c044abad91c5b5c87780d9fd912a94",
+    "characters": 1547,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "comunita",
+    "article": 7,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;121~art7!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/comunita-art7.html",
+    "sha256": "0ffbb89109261597ce9fc7d3d175d9a694b5f1ea3a5385dbac3d1804ffc380b3",
+    "characters": 1562,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "comunita",
+    "article": 8,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-02;121~art8!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/comunita-art8.html",
+    "sha256": "7ed5d8abcf2429f78f4623dbbaaeaee1373b68134bc58ea895ec02c611734433",
+    "characters": 2096,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 42,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art42!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art42.html",
+    "sha256": "c34cd2f82e4e96a8a519128afbeede1a17657367d8d3f829924ae0041dffa24e",
+    "characters": 2525,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 43,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art43!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art43.html",
+    "sha256": "2a54bdb7882f371fb7756e8e2b41b7f61d30edf2e070e764df9f3cad7a5d7a8f",
+    "characters": 1604,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 44,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art44!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art44.html",
+    "sha256": "0d74873a305ef67f44a2e522785cbd8f7935468a878eb5a87bbcf528fae37d62",
+    "characters": 749,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 45,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art45!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art45.html",
+    "sha256": "2272b30ad151f183b2643001e74858389c6a284263c7f25fc1b4ec681d6e2e8d",
+    "characters": 653,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 48,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art48!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art48.html",
+    "sha256": "08be7db332538426f2731686b3f817ef0024ff1566f617e528de8b3a8476f3e3",
+    "characters": 1860,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 50,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art50!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art50.html",
+    "sha256": "b79d39d1e8597347c88b07eaeff3833b3800d632d0da5de3bbf62cc141a00a84",
+    "characters": 1098,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 51,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art51!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art51.html",
+    "sha256": "2d72a3c189556fc118a7bf7659e201bf3b7ded5dc64df8e08228c8a04a829f56",
+    "characters": 285,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 52,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art52!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art52.html",
+    "sha256": "a557322812dfd860cf2ddbf63ee065a1c2af774d708a7de9daa67c1a04523ddf",
+    "characters": 1943,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 53,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art53!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art53.html",
+    "sha256": "2d22ec8b45a1a778700e58cd53153e52fbfadd26001b6aee6388014c17cff520",
+    "characters": 625,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 54,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art54!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art54.html",
+    "sha256": "09b77d04282c74a4485febdf5e97555bf9acc7831e79079692f6c1971e39761d",
+    "characters": 522,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "riparativa",
+    "article": 58,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;150~art58!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/riparativa-art58.html",
+    "sha256": "7a4418f07de26892076274d82e0b3bd806c535cb5ba8a571e2d78d76466147f8",
+    "characters": 423,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": "4bis",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art4bis!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art4bis.html",
+    "sha256": "b55e385caeb1d0391d008884730d5b138f9932e8d660e2a394dc42c909c672b1",
+    "characters": 15476,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 13,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art13!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art13.html",
+    "sha256": "815ff91055b3b76e7aeca048de93a4835edc02409f82bca795f450f1c4d0fa9f",
+    "characters": 1669,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 15,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art15!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art15.html",
+    "sha256": "b5b93002a265a1e841db4b0a0f5574652b6e2d433a07584134a5d16546e937f9",
+    "characters": 810,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 21,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art21!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art21.html",
+    "sha256": "167cf0606a71db8cf46e1249fe7f45300aabdea11f67f1bbf737734c2f51db97",
+    "characters": 2381,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": "30ter",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art30ter!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art30ter.html",
+    "sha256": "325b4a6c254c033d29708503744337879e4c172ee612123497b93af98c6cb1e3",
+    "characters": 2909,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 35,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art35!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art35.html",
+    "sha256": "30dca8cc87e471f6681f5a915cc5e59b3bfc2d81b6ae019671c25a749583d291",
+    "characters": 501,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": "35bis",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art35bis!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art35bis.html",
+    "sha256": "84ad8dfdbb6979374ba92926443b581cf4e04a7b6f5dfd39cdccaa3817e2cd1f",
+    "characters": 2696,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": "35ter",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art35ter!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art35ter.html",
+    "sha256": "829651884756ed55336b0a4fe4656087983ab7af4ba8c1f7f7701351589ca9c1",
+    "characters": 2245,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 36,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art36!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art36.html",
+    "sha256": "b1de89ba57a2bfa944f2638f32cd152f4703f28747572a970c390741072b6a7f",
+    "characters": 269,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 37,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art37!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art37.html",
+    "sha256": "9faad6eaa2dbfbc155132affc1e3accaaf436003089162742b875ff4d66938c3",
+    "characters": 236,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 38,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art38!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art38.html",
+    "sha256": "53c1f81e9a4929b347f5582d200e97af37cfe926c905b7b491337486658a4d85",
+    "characters": 531,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 39,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art39!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art39.html",
+    "sha256": "f67a6caa306aca05a57511c405135b8922ce48d4e523f66865217e51252a3c4e",
+    "characters": 933,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 40,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art40!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art40.html",
+    "sha256": "7f5bcb9aad6b6c664af7ef6bf2339eb30f13a23f52b6292e45a7c1251a24b891",
+    "characters": 352,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 41,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art41!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art41.html",
+    "sha256": "bc3c080d688484178d13862d0dc134e9ffedb69d52e56a11e136bc7b501dda5e",
+    "characters": 1076,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 47,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art47!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art47.html",
+    "sha256": "f7bb36df39e86bf1a9a2fd9ade026fc3134b145d7101bfced8bbdcb3e3c3e02b",
+    "characters": 6265,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": "47ter",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art47ter!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art47ter.html",
+    "sha256": "c98e1219fe19797f4e5f7a62b809ad6fbb20ae66a33d4ea2e609cb4c915af5bf",
+    "characters": 6467,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 48,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art48!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art48.html",
+    "sha256": "241705c8b6ff0f6774e538c52557cd19994534bbb327e6446ca75238ebdfeb70",
+    "characters": 456,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 50,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art50!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art50.html",
+    "sha256": "4175999ea42c0f39bca96e2db6cff407b2954fbbf837ddafb320f1af4815af99",
+    "characters": 1849,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 54,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art54!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art54.html",
+    "sha256": "31979be39fb563ac9cc2f4cc503100936ebd82103a43b94d65a2960df734780d",
+    "characters": 1153,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 59,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art59!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art59.html",
+    "sha256": "9a955ea3ae65fa56b661a3a80a10607044490420bda6b6beab900a97cff5a41c",
+    "characters": 248,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 60,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art60!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art60.html",
+    "sha256": "0d714012b9a140cefa3532defc95a052a1e00f89e5fb3926f1bee4e6c17d95d4",
+    "characters": 763,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 61,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art61!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art61.html",
+    "sha256": "1b21ef5571d0c9d86f3473e3b29b1d2ea2beb4efa0745650f58d20d84d8ca5d7",
+    "characters": 688,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "penitenziario",
+    "article": 69,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354~art69!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/penitenziario-art69.html",
+    "sha256": "f55e128d54017e5a516347fecaa551fff7b93484e0616f3d74083bfece654a88",
+    "characters": 2571,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "reg-penitenziario",
+    "article": 27,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-30;230~art27!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/reg-penitenziario-art27.html",
+    "sha256": "56b3355b60f2ee01f58f2b21d98f94dfcb488c68a0e7d577e839849f47490336",
+    "characters": 1619,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "reg-penitenziario",
+    "article": 29,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-30;230~art29!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/reg-penitenziario-art29.html",
+    "sha256": "6975ae4027e73da1912998c2769adb9ea482b93ad880475aba28683d6eaa2376",
+    "characters": 638,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "reg-penitenziario",
+    "article": 68,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-30;230~art68!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/reg-penitenziario-art68.html",
+    "sha256": "927084a40ef295848400cde23ba8f7352de89fbf0898c4e83553e3a47e696901",
+    "characters": 1724,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cp",
+    "article": 97,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=8&art.flagTipoArticolo=1&art.codiceRedazionale=030U1398&art.idArticolo=97&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1930-10-26&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cp-art97.html",
+    "sha256": "fab8776380fefa6fcdbb41ec503563dd4663787db3f67fddfc3982feb46cd31b",
+    "characters": 142,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cp",
+    "article": 98,
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=3&art.idGruppo=8&art.flagTipoArticolo=1&art.codiceRedazionale=030U1398&art.idArticolo=98&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1930-10-26&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cp-art98.html",
+    "sha256": "f2df5b7688cb20ef22c297cfa885580ac30081259007029f720556b7e9759dbe",
+    "characters": 631,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cp",
+    "article": "168bis",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=14&art.flagTipoArticolo=1&art.codiceRedazionale=030U1398&art.idArticolo=168&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1930-10-26&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cp-art168bis.html",
+    "sha256": "22a6f3b9245da99b3b9e2f383bd819bb34b6bf3ae3d4149b5a9940235a559db9",
+    "characters": 2106,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cp",
+    "article": "168ter",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=14&art.flagTipoArticolo=1&art.codiceRedazionale=030U1398&art.idArticolo=168&art.idSottoArticolo=3&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1930-10-26&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cp-art168ter.html",
+    "sha256": "d2c40bdc24a23b2790334505a00750f27a3c3bbb307f02a12ac5dc2611e33181",
+    "characters": 466,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "cp",
+    "article": "168quater",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=14&art.flagTipoArticolo=1&art.codiceRedazionale=030U1398&art.idArticolo=168&art.idSottoArticolo=4&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1930-10-26&art.progressivo=0&",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/cp-art168quater.html",
+    "sha256": "333d85838ed00111516e12db102785a6aeb662e52b6d8114fb1cd51d2829a581",
+    "characters": 491,
+    "readComplete": false,
+    "validExtraction": true
+  }
+]

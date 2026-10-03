@@ -9,7 +9,7 @@ entities: ["Metodo BANDO","Capitale Personale"]
 source_refs: ["sources/metodo-bando-progetto-editoriale.md","sources/struttura-madre-il-metodo-bando.md","sources/vol-07-dossier-fonti-materie-sanita-2026-07-28","sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026","sources/ssn-organizzazione-aziende-standard-lea","sources/ccnl-comparto-sanita-2022-2024","sources/documentazione-sanitaria-accesso-fse-dossier-privacy","sources/contabilita-budget-aziende-sanitarie","sources/procurement-farmaci-dispositivi-flussi-nsis"]
 book_refs: ["il-metodo-bando","moduli-specialistici","vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.88
-updated_at: 2026-08-04T00:00:00+02:00
+updated_at: 2026-10-02
 created_at: 2026-06-27T19:56:28+02:00
 review_required: false
 canonical: true
@@ -45,7 +45,7 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 ## Capitoli di lavoro
 - [[books/moduli/m-sa01-sanita-amministrativa/planning/00-piano-editoriale|Piano editoriale del modulo]]
 - [[books/moduli/m-sa01-sanita-amministrativa/planning/09-bibbia-del-modulo|Bibbia editoriale del modulo]]
-- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 — Atti, procedimenti e flussi informativi nelle aziende sanitarie]] — audit specialistico concluso; testo congelato.
+- [[books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi|Capitolo 04 — SSN, aziende sanitarie, atti e flussi informativi]] — audit specialistico concluso; testo congelato.
 - [[books/moduli/m-sa01-sanita-amministrativa/chapters/05-documentazione-accesso-conservazione|Capitolo 05 — Documentazione sanitaria, accesso, privacy e conservazione]] — audit specialistico concluso; testo congelato.
 - [[books/moduli/m-sa01-sanita-amministrativa/chapters/06-front-office-comunicazione-utenza|Capitolo 06 — Front-office e comunicazione con l'utenza sanitaria]] — audit specialistico concluso; testo congelato.
 - [[books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione|Capitolo 09 — Contabilità, budget e controllo di gestione nelle aziende sanitarie]] — audit specialistico concluso; testo congelato.
@@ -72,4 +72,6 @@ Non deve promettere copertura totale di ogni bando o aggiornamento normativo aut
 - Bandi, norme e portali ufficiali sono registrati nei rispettivi manifest; manuali o banche dati aggiuntivi entrano solo dopo schedatura.
 
 ## Regola successiva al freeze
+Il manifest del 2 ottobre 2026 comprende le integrazioni nazionali dei capitoli 04 e 09, senza estendere il cut-off degli altri capitoli. Nuova impaginazione e verifica visiva del PDF restano necessarie prima della consegna; il PDF precedente non comprende automaticamente il delta.
+
 M-SA01 è in text freeze. Ogni modifica sostanziale a teoria, fonti, casi, dati operativi, quiz, struttura o perimetro riapre i gate 10-15. La sola conferma umana resta quella finale dello step 24.

@@ -35,3 +35,8 @@ La PA digitale e' l'insieme di norme, piattaforme, servizi e regole tecniche che
 ## Note editoriali
 
 Collegare ogni sigla a una funzione: SPID/CIE identificano, PEC recapita con ricevute, firma assicura imputazione e integrita, PDND fa interoperare dati, pagoPA abilita pagamenti, ANPR centralizza dati anagrafici.
+
+
+## Correzioni consolidate del 3 ottobre 2026
+
+[[sources/vol-01-digitale-esempi-correzioni-2026-10-03]] corregge la tassonomia documentale, domicilio e open data; aggiunge esempi originali Office/SQL nel capitolo 10 e coordina i glossari.

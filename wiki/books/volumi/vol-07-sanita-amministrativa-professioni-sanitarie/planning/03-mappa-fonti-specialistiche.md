@@ -6,7 +6,7 @@ status: draft
 domain: "concorsi pubblici italiani"
 source_refs: ["sources/vol-07-dossier-fonti-materie-sanita-2026-07-28", "sources/bandi-rappresentativi-m-sa01-sanita-amministrativa-2025-2026", "sources/ssn-organizzazione-aziende-standard-lea", "sources/ccnl-comparto-sanita-2022-2024", "sources/documentazione-sanitaria-accesso-fse-dossier-privacy", "sources/contabilita-budget-aziende-sanitarie", "sources/procurement-farmaci-dispositivi-flussi-nsis", "sources/bandi-rappresentativi-m-sa02-professioni-sanitarie-2025-2026.md", "sources/tpall-aia-campionamenti-acque-aria-suolo-rifiuti-alimenti.md", "sources/programmi-screening-oncologici-dati-passi-iss.md", "sources/premal-definizioni-caso-risposta-segnale-epidemiologico.md"]
 book_refs: ["vol-07-sanita-amministrativa-professioni-sanitarie"]
-updated_at: 2026-07-29T16:58:00+02:00
+updated_at: 2026-10-03
 review_required: true
 canonical: true
 tags: ["vol-07", "source-map", "sanita"]
@@ -14,7 +14,7 @@ tags: ["vol-07", "source-map", "sanita"]
 
 # VOL-07 - Mappa delle fonti specialistiche
 
-Inventario operativo completo dell'`OUTPUT A` del dossier. Ogni riga rappresenta una fonte, una famiglia documentale o un'area giurisprudenziale da trasformare in una source note autonoma. Il dossier orienta l'acquisizione ma non consolida le fonti.
+Inventario di acquisizione originario del luglio 2026, conservato per tracciabilità. Ogni riga rappresenta una fonte, una famiglia documentale o un'area giurisprudenziale da trasformare in una source note autonoma. Il dossier orienta l'acquisizione ma non consolida le fonti.
 
 ## Legenda
 
@@ -109,4 +109,10 @@ Inventario operativo completo dell'`OUTPUT A` del dossier. Ogni riga rappresenta
 
 L'inventario contiene 76 righe dopo l'aggiunta del profilo e del corpus bandi OSS: 11 fonti primarie generali, 14 fonti secondarie/professionali, 3 contrattuali, 10 famiglie di soft law, 9 aree giurisprudenziali, 14 fonti operative, 5 famiglie di bandi e 10 categorie dottrinali.
 
-La famiglia `BAN-02` è consolidata attraverso 16 bandi ufficiali, di cui 15 testualmente auditati e uno supplementare scansionato. Lo step 07 ha inoltre acquisito corpus ufficiali per sicurezza infermieristica e triage, riabilitazione/fisioterapia, epidemiologia di base, programmi e dati PASSI, sicurezza del parto, lesioni da pressione, deterioramento clinico, sepsi, ALS adulto e assistenza OSS. Il verticale TPALL comprende ora norme generali, controllo AIA regionale e fonti tecniche per acque, QA/QC aria, terre e rocce, rifiuti, alimenti e gas del suolo. Tutte le aree didattiche restano parziali: la scrittura è bloccata fino alla chiusura dei gap registrati nella matrice M-SA02.
+La famiglia `BAN-02` è consolidata attraverso 16 bandi ufficiali, di cui 15 testualmente auditati e uno supplementare scansionato. Lo step 07 ha inoltre acquisito corpus ufficiali per sicurezza infermieristica e triage, riabilitazione/fisioterapia, epidemiologia di base, programmi e dati PASSI, sicurezza del parto, lesioni da pressione, deterioramento clinico, sepsi, ALS adulto e assistenza OSS. Il verticale TPALL comprende ora norme generali, controllo AIA regionale e fonti tecniche per acque, QA/QC aria, terre e rocce, rifiuti, alimenti e gas del suolo. Questa frase descriveva il gate di luglio. Lo stato corrente è quello del CLI e dei report 14–15, riaperti dopo l’audit integrale; non esiste un blocco generale della scrittura deducibile da questo inventario storico.
+
+## Fonti correnti e riscontri di ottobre
+
+Le righe `da_acquisire` della tabella sono un piano storico, non una dichiarazione di assenza attuale. I profili TSLB/TSRM sono consolidati in [[sources/profili-professionali-tslb-tsrm-dm-745-746]], DPR 483/484 e CCNL Area Sanità in [[sources/dirigenza-sanitaria-concorsi-ccnl-2026]], radioprotezione in [[sources/radioprotezione-qualita-immagine-apparecchiature-dlgs-101-2020]], HTA/NSG in [[sources/governo-clinico-appropriatezza-hta-qualita-accreditamento]]. I corpus bandi SA03/SA04 sono quelli dichiarati nelle matrici correnti. Privacy, responsabilità, consenso, epidemiologia e biosicurezza hanno ricevuto delta puntuali. Le categorie dottrinali o giurisprudenziali senza fonte acquisita non diventano automaticamente promesse di copertura.
+
+Il nuovo registro correzioni traccia claim, file ed evidenze per ID. Nessuna risposta challenge/HTML antiautomazione viene classificata come fonte valida. La verifica delle norme è selettiva sui claim insegnati, non una certificazione di ogni atto del corpus.

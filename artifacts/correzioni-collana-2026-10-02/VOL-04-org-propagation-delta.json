@@ -1,0 +1,32 @@
+[
+  {
+    "path": "wiki/sources/ordinamento-giudiziario-upp-riforme-processuali-m-fc04.md",
+    "before": "09ddd4919f4000669ba980adb639f7a8988584eee48ecfb03f51d277b7fd707b",
+    "after": "a5587bb13c3eb757b1c8c00b73e8d4a8a63ac4a1e4d52b1a3c2c6fd7d5c95047"
+  },
+  {
+    "path": "wiki/sources/ministero-giustizia-organizzazione-dipartimenti-m-fc04.md",
+    "before": "7be60fefe6528b2a4b7cd22cc2d6eff2d53f48ad76b275270c3e2483e3621373",
+    "after": "7cd0ea79576b6f95b275a1cf0ac292f45ceb50696038e51f99cb9677cbbe2c9c"
+  },
+  {
+    "path": "wiki/books/vol-04-giustizia-upp/planning/01-indice-dettagliato-volume-moduli-v4.md",
+    "before": "cb58ca4c17880b02a03bf7116e059276ff1596706ef9f8e718fbe24fb9d54b04",
+    "after": "bc8584d7d9f695bb7fae30d88d7ad0aee02a9e03d3e8f1950478660c2df6f9cd"
+  },
+  {
+    "path": "wiki/books/vol-04-giustizia-upp/front-matter/06-indice.md",
+    "before": "fec47e422640f2295e87c8346dde2a1aaff736e79227b43f215963dc76957526",
+    "after": "46d1db570fc701b815507c6b4d7adb41d890301b5163be8614eae41057e7aa61"
+  },
+  {
+    "path": "wiki/books/moduli/m-fc04-giustizia/chapters/17-fonti-riferimenti-essenziali.md",
+    "before": "b5d011e8bd7fd7a4a8d87fd1988ce57f69831d1760d26d98c7ba01be087c92f3",
+    "after": "88bd53eff11fe1ac50194212771e28dc8f2fc366bef53bc93579dd7e855312e5"
+  },
+  {
+    "path": "wiki/books/moduli/m-fc04-giustizia/chapters/12-giustizia-digitale-pct-ppt-fascicolo.md",
+    "before": "36775518d66f77d1012805535a292d9984f2705eb0f83a46609b84f3ad98088b",
+    "after": "78cca9cb77df4887c680e099320a2a6da706d1ccf1a75d7ffaaf40e53b9a0cf5"
+  }
+]

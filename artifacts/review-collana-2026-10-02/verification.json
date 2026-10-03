@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-02T20:20:18.586Z",
+  "sourceFiles": 349,
+  "printChapters": 326,
+  "sourceFilesChangedSinceInventory": [
+    "wiki/books/il-metodo-bando/chapters/diritto-amministrativo-per-candidati.md",
+    "wiki/books/il-metodo-bando/chapters/pubblico-impiego-e-organizzazione-pa.md",
+    "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/04-atti-procedimenti-flussi-informativi.md",
+    "wiki/books/moduli/m-sa01-sanita-amministrativa/chapters/09-contabilita-budget-controllo-gestione.md"
+  ],
+  "gateResults": {
+    "passed": 266,
+    "failed": 6,
+    "unavailable": 49
+  },
+  "note": "No chapter review marked complete. Source-file hashes checked against initial inventory; no PDF visual approval."
+}

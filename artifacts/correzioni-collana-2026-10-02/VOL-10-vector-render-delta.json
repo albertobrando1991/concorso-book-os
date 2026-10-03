@@ -1,0 +1,44 @@
+[
+  {
+    "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/vincoli-piani.pdf",
+    "sourceSha256": "6867535556d50a3afd1857b12fd1a39537b9ef2df6cf024ad4c76dc22f3a4bd6",
+    "target": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/vincoli-piani.png",
+    "beforeSha256": "f10e25869d12b3402d02978fabd465fb8afa7f1ab8d1332f64d5a4d8f64dbe70",
+    "afterSha256": "d5897bfceecb5bc4517f48801206732e6144c78fd1d40b4b39c44ba5cea3355d",
+    "drawingPaths": 54,
+    "rasterImagesInSource": 0,
+    "width": 1950,
+    "height": 1980,
+    "printedWidthPt": 378,
+    "effectivePpi": 371.42857142857144,
+    "method": "Rendering della pagina PDF vettoriale a scala3; nessuna modifica della composizione né upscaling di bitmap."
+  },
+  {
+    "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/trave-carico-taglio-momento.pdf",
+    "sourceSha256": "162ecbf7e6cd3bbe8d29015b95dac8da292f2075fcdfb8fc747e1f6fcf25491f",
+    "target": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/trave-carico-taglio-momento.png",
+    "beforeSha256": "ec759249b3caf36d4412c7ccdac7f3023b41429de4047005df5388fe211b46a9",
+    "afterSha256": "56bf887895784a27b46dc45c2a3b4a1fefada7ffd3f8481f6fa3feb2ebbb8c38",
+    "drawingPaths": 87,
+    "rasterImagesInSource": 0,
+    "width": 1950,
+    "height": 2160,
+    "printedWidthPt": 378,
+    "effectivePpi": 371.42857142857144,
+    "method": "Rendering della pagina PDF vettoriale a scala3; nessuna modifica della composizione né upscaling di bitmap."
+  },
+  {
+    "source": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/planimetria-sopralluogo.pdf",
+    "sourceSha256": "e0a1aa6505cf8500d71a32ad74f071144efccd5e00dc456300f8751b461532b8",
+    "target": "wiki/books/moduli/m-tr03-tecnico-ingegneristico/assets/correzioni-2026-10/planimetria-sopralluogo.png",
+    "beforeSha256": "71605d6fd3f9703cea210873e51281e21c4202b74f06ae1f3a6ab9e5947da815",
+    "afterSha256": "7b54dc5bd16711cea7b3f48246acfa98825a3e2d29dd2edb2cd51f1195d9be20",
+    "drawingPaths": 89,
+    "rasterImagesInSource": 0,
+    "width": 1950,
+    "height": 2100,
+    "printedWidthPt": 378,
+    "effectivePpi": 371.42857142857144,
+    "method": "Rendering della pagina PDF vettoriale a scala3; nessuna modifica della composizione né upscaling di bitmap."
+  }
+]

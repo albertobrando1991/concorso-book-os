@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-03",
+  "chaptersApplied": 17,
+  "quiz": 84,
+  "finalSimulations": 6,
+  "textAudit": "passed",
+  "textFindingsClosed": 29,
+  "publicationReady": false,
+  "remaining": [
+    "PDF",
+    "preflight",
+    "package",
+    "conferma24"
+  ]
+}

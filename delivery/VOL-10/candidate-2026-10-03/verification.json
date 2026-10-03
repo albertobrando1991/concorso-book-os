@@ -1,0 +1,196 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-10-final-20261003-proof.pdf",
+  "sha256": "411517d20e00cb3d077f04cde986b98a07d44d41c6955f830d8d4861605e425c",
+  "pages": 127,
+  "domPages": 127,
+  "pageCountMatch": true,
+  "sizePt": [
+    481.91998291015625,
+    691.9199829101562
+  ],
+  "indexEntries": [
+    {
+      "number": 1,
+      "title": "Il concorso tecnico nella PA: profili, enti e prove",
+      "indexPage": 6,
+      "printedPage": 10,
+      "actualPage": 10,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md"
+    },
+    {
+      "number": 2,
+      "title": "Ufficio tecnico pubblico, responsabilità e atti tecnici",
+      "indexPage": 6,
+      "printedPage": 17,
+      "actualPage": 17,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/02-ufficio-tecnico-responsabilita-atti.md"
+    },
+    {
+      "number": 3,
+      "title": "Scienza e tecnica delle costruzioni per concorsi",
+      "indexPage": 6,
+      "printedPage": 25,
+      "actualPage": 25,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/03-scienza-tecnica-costruzioni.md"
+    },
+    {
+      "number": 4,
+      "title": "NTC, sismica, geotecnica e sicurezza strutturale",
+      "indexPage": 6,
+      "printedPage": 35,
+      "actualPage": 35,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/04-ntc-sismica-geotecnica-sicurezza-strutturale.md"
+    },
+    {
+      "number": 5,
+      "title": "Urbanistica e governo del territorio",
+      "indexPage": 6,
+      "printedPage": 46,
+      "actualPage": 46,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/05-urbanistica-governo-territorio.md"
+    },
+    {
+      "number": 6,
+      "title": "Edilizia privata, SUE, titoli abilitativi e vigilanza",
+      "indexPage": 7,
+      "printedPage": 54,
+      "actualPage": 54,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/06-edilizia-sue-titoli-vigilanza.md"
+    },
+    {
+      "number": 7,
+      "title": "Progettazione di opere pubbliche",
+      "indexPage": 7,
+      "printedPage": 65,
+      "actualPage": 65,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/07-progettazione-opere-pubbliche.md"
+    },
+    {
+      "number": 8,
+      "title": "Direzione lavori, esecuzione e cantieri",
+      "indexPage": 7,
+      "printedPage": 73,
+      "actualPage": 73,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/08-direzione-lavori-esecuzione.md"
+    },
+    {
+      "number": 9,
+      "title": "Collaudo, verifica, manutenzione e gestione dell'opera",
+      "indexPage": 7,
+      "printedPage": 82,
+      "actualPage": 82,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/09-collaudo-verifica-manutenzione.md"
+    },
+    {
+      "number": 10,
+      "title": "Computi, capitolati e contabilità dei lavori",
+      "indexPage": 7,
+      "printedPage": 90,
+      "actualPage": 90,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/10-computi-capitolati-contabilita-lavori.md"
+    },
+    {
+      "number": 11,
+      "title": "Infrastrutture, viabilità, ponti e monitoraggio",
+      "indexPage": 8,
+      "printedPage": 98,
+      "actualPage": 98,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/11-infrastrutture-viabilita-ponti-monitoraggio.md"
+    },
+    {
+      "number": 12,
+      "title": "BIM, GIS, rilievi, catasto e patrimonio pubblico",
+      "indexPage": 8,
+      "printedPage": 107,
+      "actualPage": 107,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/12-bim-gis-catasto-patrimonio.md"
+    },
+    {
+      "number": 13,
+      "title": "Laboratorio delle prove tecniche",
+      "indexPage": 8,
+      "printedPage": 115,
+      "actualPage": 115,
+      "titleOnTarget": true,
+      "match": true,
+      "path": "books/moduli/m-tr03-tecnico-ingegneristico/chapters/13-laboratorio-prove-tecniche.md"
+    }
+  ],
+  "indexMismatches": [],
+  "fonts": [
+    {
+      "name": "AAAAAA+Arial-BoldMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "BAAAAA+Garamond",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+Arial-Black",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "EAAAAA+ArialMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "",
+      "type": "Type3",
+      "embedded": true
+    },
+    {
+      "name": "GAAAAA+TimesNewRomanPSMT",
+      "type": "Type0",
+      "embedded": true
+    },
+    {
+      "name": "HAAAAA+Georgia",
+      "type": "Type0",
+      "embedded": true
+    }
+  ],
+  "allFontsEmbedded": true,
+  "overflowPages": [],
+  "internalLeaks": [],
+  "replacementGlyphs": 0,
+  "missingImages": 0,
+  "indexMinimumPt": 9.500025,
+  "limits": [
+    "Verifica tecnica locale; non equivale a revisione visiva o certificazione normativa.",
+    "Nessuna prova fisica o KDP Previewer eseguita."
+  ]
+}

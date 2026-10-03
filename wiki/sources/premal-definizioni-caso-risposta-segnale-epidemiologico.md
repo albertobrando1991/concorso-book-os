@@ -11,9 +11,9 @@ source_refs:
   - "sources/sicurezza-cure-ica-sorveglianza-epidemiologica-prevenzione"
 book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.96
-updated_at: 2026-07-31T18:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T18:00:00+02:00
-review_required: true
+review_required: false
 canonical: true
 tags: ["source", "epidemiologia", "premal", "notifica", "focolaio", "iss", "ecdc", "m-sa02"]
 source_type: official_legal_and_public_health_corpus
@@ -51,7 +51,9 @@ Il D.M. 7 marzo 2022 disciplina organizzazione e funzionamento di PREMAL, modali
 
 La pagina ministeriale corrente distingue nel sistema un caso `potenziale`, ancora privo di dati sufficienti, da un caso `conclamato`, che soddisfa la definizione applicabile. L'indagine può riclassificare il caso. Questa terminologia di sistema non va confusa con le classi epidemiologiche `possibile`, `probabile` e `confermato` previste dalle definizioni di sorveglianza per specifiche malattie.
 
-## Definizione di caso: due livelli da non confondere
+## Termini nazionali: riscontro del 3 ottobre 2026
+
+Letto l'art. 5 del D.M. 7 marzo 2022 nel PDF ufficiale locale, pagina stampata 22. Malattie che generano allerta: medico entro 12 ore, alimentazione PREMAL aziendale entro 24 ore. Altre malattie: medico entro 48 ore, alimentazione aziendale entro sette giorni. Queste scadenze sono nazionali; contatti, unità e organizzazione restano aziendali/regionali. L'art. 4, commi 7–11, disciplina completamento, indagine, provvedimenti, validazione aziendale, regionale e ministeriale; in caso di ASL diversa da quella di residenza è previsto il raccordo fra aziende. Fonte [GU, D.M. 7 marzo 2022](https://www.gazzettaufficiale.it/eli/id/2022/04/07/22A02179/SG), conferma delle tempistiche nella [pagina istituzionale della Liguria](https://www.liguriasalute.atsliguria.it/organizzazione/direzione-generale/prevenzione-epidemiologia-programmazione-e-controlli/stili-di-vita-promozione-alla-salute-nutrizione-e-sistemi-di-sorveglianza.html?catid=12&id=2291%3Ail-nuovo-sistema-di-segnalazione-delle-malattie-infettive&view=article). Non si pubblica un elenco delle malattie congelato al 2022: allegati, definizioni e istruzioni per l'agente specifico vanno letti nella versione vigente.
 
 ### Definizione di sorveglianza
 
@@ -113,4 +115,8 @@ Il controllo esterno è predisposto nel [[books/moduli/m-sa02-professioni-sanita
 
 ## Stato revisione
 
-Il vuoto documentale su notifica, definizioni di caso e sequenza completa di risposta è risolto. Il pacchetto di review è pronto, ma non ancora eseguito: il nucleo `SA02-06` resta `parziale` finché la batteria quantitativa e lo scenario non ricevono una review epidemiologica indipendente e non viene effettuato il controllo di versione prepubblicazione.
+Il vuoto documentale su notifica, definizioni di caso e sequenza completa di risposta è risolto. Batteria quantitativa e scenario sono stati riesaminati il 3 ottobre 2026: 96/112 = 85,7%, attacco 24/96 = 25%, RR A = 13 e RR B = 1; definizione di caso didattica, associazione e causalità sono distinte. Il flusso PREMAL è confrontato con gli artt. 4–5 del decreto. Esito nel report 15 M-SA02 corrente; non si validano procedure territoriali escluse dal manuale.
+
+## Esito editoriale corrente
+
+Riesame automatico dei claim recepiti nei capitoli concluso il 3 ottobre 2026 nei report 15 M-SA02/M-SA03 pertinenti. Questa attestazione aggiorna i rinvii storici a future review; non amplia il perimetro a procedure locali o a tutti gli articoli del corpus. Le fonti mobili mantengono versione e ambito dichiarati.

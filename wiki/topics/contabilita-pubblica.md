@@ -82,3 +82,8 @@ La contabilita pubblica e il sistema di regole con cui le amministrazioni progra
 ## Stato revisione
 
 Copertura consolidata al 26 maggio 2026 sulla base di fonti ufficiali scaricate in `wiki/raw/chapter-8-contabilita-pubblica/`. Il capitolo puo essere scritto o revisionato usando queste schede, senza ricorrere direttamente ai raw.
+
+
+## Integrazioni comuni — 3 ottobre 2026
+
+[[sources/vol-01-impiego-contabilita-contratti-correzioni-2026-10-03]] consolida distinzioni concorsuali, termini disciplinari, PIAO, residui statali/armonizzati, calcoli del risultato e dati essenziali dei contratti. Destinazioni: capitoli 6, 8, 9 e glossari del Metodo BANDO.

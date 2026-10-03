@@ -1,0 +1,42 @@
+{
+  "volume": "VOL-08",
+  "date": "2026-10-03",
+  "pdf": "C:/Users/info/OneDrive/Desktop/concorso-book-os/artifacts/correzioni-collana-2026-10-02/vol-08-release-20261003-proof.pdf",
+  "pdfSha256": "ef3e2c57b9706b892b71299a16e263fde68c2df0e984946f9241017bf756e2de",
+  "pages": 244,
+  "allContactSheetsViewed": true,
+  "contactSheets": [
+    "contact-001-016.png",
+    "contact-017-032.png",
+    "contact-033-048.png",
+    "contact-049-064.png",
+    "contact-065-080.png",
+    "contact-081-096.png",
+    "contact-097-112.png",
+    "contact-113-128.png",
+    "contact-129-144.png",
+    "contact-145-160.png",
+    "contact-161-176.png",
+    "contact-177-192.png",
+    "contact-193-208.png",
+    "contact-209-224.png",
+    "contact-225-240.png",
+    "contact-241-244.png"
+  ],
+  "zoomPagesViewed": [
+    6,
+    44,
+    66,
+    163,
+    164,
+    222,
+    237,
+    244
+  ],
+  "limitations": [
+    "Copertura panoramica di ogni pagina per geometria e ritmo; non lettura di ogni parola del raster.",
+    "Ingrandimenti limitati alle pagine elencate.",
+    "Nessuna prova cartacea, caricamento KDP, certificazione PDF/X o verifica della piattaforma digitale."
+  ],
+  "state": "Verifica visiva locale conclusa; dipendenza comune digitale/editoriale aperta."
+}

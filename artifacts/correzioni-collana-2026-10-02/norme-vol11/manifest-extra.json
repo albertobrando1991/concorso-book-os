@@ -1,0 +1,186 @@
+[
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/arera-rqti.pdf",
+    "url": "https://www.arera.it/fileadmin/allegati/docs/17/917-17rqti.pdf",
+    "sha256": "0bd921a677628882f4a807657d5f9f25569f5a804c95dc4d246451f94119f9b9",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "art. 2; 5-bis commi 1–4; passaggi 5-quater, elenco M0–M6"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/regolamento-sii-cap.pdf",
+    "url": "https://atocittametropolitanadimilano.it/wp-content/uploads/Regolamento-SII-Cap-Holding-SpA-2022.pdf",
+    "sha256": "48fd2d132b09b84637322a970f42bc4a5b3762dc1e5c866f3923978a0081fc14",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "tabella SST e metodo APAT/CNR IRSA 2090B"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/camera-ied420.html",
+    "url": "https://www.camera.it/leg19/682?atto=420&idLegislatura=19&tipoAtto=Atto",
+    "sha256": "7f444bca1d8e16988103da94dd48ab8057a1adf98f54ef078397f2707bf2c361",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "stato parlamentare e pareri settembre 2026"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/dpcm-rumore.pdf",
+    "url": "https://www.isprambiente.gov.it/files/temi/dpcm-14-11-97.pdf",
+    "sha256": "cf87d95f5f6da32b72621aece39af1e4602574a2709f15a71da693b557f5d0ff",
+    "readComplete": true,
+    "evidenceValid": true,
+    "readScope": "tutte le 5 pagine"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/ambiente-art298bis-danno.html",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=1&art.idGruppo=50&art.flagTipoArticolo=0&art.codiceRedazionale=006G0171&art.idArticolo=298&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2006-04-14&art.progressivo=0",
+    "sha256": "92525d6e8e5446f9f18833951fab3c11e9c5778249b5502cd6d9f7d1d5c4a5db",
+    "readComplete": false,
+    "evidenceValid": false,
+    "readScope": "escluso: pagina vuota, sessione scaduta o navigazione senza allegato"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/rentri-esclusioni.html",
+    "url": "https://www.rentri.gov.it/news/esclusioni-dall-obbligo-di-iscrizione-al-rentri-0",
+    "sha256": "ae5e3b590d26ec42630388f481b674640a73cb470f739018a93fda567b02bbfd",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "esclusioni art. 188-bis e L. 199/2025"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/arpav-pm10-2025.html",
+    "url": "https://www.arpa.veneto.it/arpavinforma/indicatori-ambientali/indicatori_ambientali/atmosfera/qualita-dellaria/livelli-di-concentrazione-di-polveri-fini-pm10/2025",
+    "sha256": "ee7638f9dc531b06848c3244aaa72a41b282b83fb3411edfc93aacce7d06be78",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "limiti PM10 giornaliero e annuo"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/camera-aria435.html",
+    "url": "https://www.camera.it/leg19/682?atto=435&idLegislatura=19&tipoAtto=Atto",
+    "sha256": "7de13e67965498dd1d970aa2c5524d826c48bcc2dde248c95456d263a27af50f",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "stato parlamentare settembre 2026"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoA.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-25;190~all1!vig=",
+    "sha256": "fc0677cf91849c09d8f59165410eecfc95ba62497a6480a72389872dde424e8f",
+    "readComplete": false,
+    "evidenceValid": false,
+    "readScope": "escluso: pagina vuota, sessione scaduta o navigazione senza allegato"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoB.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-25;190~all2!vig=",
+    "sha256": "fc0677cf91849c09d8f59165410eecfc95ba62497a6480a72389872dde424e8f",
+    "readComplete": false,
+    "evidenceValid": false,
+    "readScope": "escluso: pagina vuota, sessione scaduta o navigazione senza allegato"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoC.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-25;190~all3!vig=",
+    "sha256": "fc0677cf91849c09d8f59165410eecfc95ba62497a6480a72389872dde424e8f",
+    "readComplete": false,
+    "evidenceValid": false,
+    "readScope": "escluso: pagina vuota, sessione scaduta o navigazione senza allegato"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/tiad.pdf",
+    "url": "https://www.arera.it/fileadmin/allegati/docs/22/727-22TIAD.pdf",
+    "sha256": "e9e1fe8ec27206acdd0ca65d51ea6a5f61efe1016026576fa57ef9e44c6ba87b",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "pagina 5, definizioni r–x pertinenti"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/red3-gu.pdf",
+    "url": "https://www.gazzettaufficiale.it/eli/gu/2026/01/20/15/sg/pdf",
+    "sha256": "3d13cb9afa45d5c3f9c737e892f30af5ba7df08733bb891a9f51dd534d73c3a1",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "identità e pubblicazione del D.Lgs. 5/2026, non intero fascicolo"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/energy-infrazioni-20261001.html",
+    "url": "https://energy.ec.europa.eu/news/october-infringements-package-key-decisions-energy-2026-10-01_en",
+    "sha256": "f484af77d5ee2b89402b98b7790920e33467420c7d08ccee7f7bd276071fd847",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "EED incompleta e progetto piano ristrutturazioni"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/dpc-fasi2016.pdf",
+    "url": "https://www.protezionecivile.gov.it/static/01ae0861c5853c2c70541d618e231305/Allegato_2_fasi_operative.pdf",
+    "sha256": "c2caca73907a9565d62c66ebfbeefdea15710448c3163161656959c620a82e4d",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "passaggio sulle fasi minime e valutazione locale"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/cam2025-allegato.pdf",
+    "url": "https://www.mase.gov.it/portale/documents/d/guest/allegato_1_cam_edilizia_30_10_25-def-pdf",
+    "sha256": "24b50d2b277d55afb75b10564c80fbeedd82b0f0c29742775110c50622a6265c",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "pagina 84, criterio 2.5.2 completo"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/cam-circolare2026.pdf",
+    "url": "https://assets-eu-01.kc-usercontent.com/e9919b4d-1ae9-0168-4763-5ecd5c8178f0/5a372bd7-1085-4e20-acf4-da7e95040628/2026_04_10_cam_circolare.pdf",
+    "sha256": "ef651b7a38083e35ccdcf05492af9aa96dbc92daa39967dde17e83e1b837bff5",
+    "readComplete": true,
+    "evidenceValid": true,
+    "readScope": "tutte le 3 pagine"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoA-v2.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-25;190~all1~art1!vig=",
+    "sha256": "fc0677cf91849c09d8f59165410eecfc95ba62497a6480a72389872dde424e8f",
+    "readComplete": false,
+    "evidenceValid": false,
+    "readScope": "escluso: pagina vuota, sessione scaduta o navigazione senza allegato"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoB-v2.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-25;190~all2~art1!vig=",
+    "sha256": "fc0677cf91849c09d8f59165410eecfc95ba62497a6480a72389872dde424e8f",
+    "readComplete": false,
+    "evidenceValid": false,
+    "readScope": "escluso: pagina vuota, sessione scaduta o navigazione senza allegato"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoC-v2.html",
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-25;190~all3~art1!vig=",
+    "sha256": "fc0677cf91849c09d8f59165410eecfc95ba62497a6480a72389872dde424e8f",
+    "readComplete": false,
+    "evidenceValid": false,
+    "readScope": "escluso: pagina vuota, sessione scaduta o navigazione senza allegato"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoA-session.html",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=0&art.flagTipoArticolo=1&art.codiceRedazionale=24G00205&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2024-12-12&art.progressivo=0&",
+    "sha256": "23bb86e5719668a954c63e1e0c5b9663d312221814c77b9e2d921a861648c61d",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "sezione I, casi fotovoltaici a–e; non audit di tutte le tecnologie"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoB-session.html",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=5&art.idGruppo=0&art.flagTipoArticolo=2&art.codiceRedazionale=24G00205&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2024-12-12&art.progressivo=0&",
+    "sha256": "1f592e069d42cdef6f33d6783ff88eb2c6bded8c739b5a986bbc67a7631a5040",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "sezione I, casi fotovoltaici a–f"
+  },
+  {
+    "path": "wiki/raw/correzioni-vol11-2026-10-03/fer-allegatoC-session.html",
+    "url": "https://www.normattiva.it/atto/caricaArticolo?art.versione=4&art.idGruppo=0&art.flagTipoArticolo=3&art.codiceRedazionale=24G00205&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2024-12-12&art.progressivo=0&",
+    "sha256": "72de99d53d512c969d66e44ff14bc7547d5cffa5918d5d3ecfae5f5e07b50b74",
+    "readComplete": false,
+    "evidenceValid": true,
+    "readScope": "sezioni I/II, ripartizione competenze e casi fotovoltaici"
+  }
+]

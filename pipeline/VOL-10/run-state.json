@@ -3,7 +3,7 @@
   "specPath": "books/volumi/vol-10-tecnico-ingegneristico-territorio-lavori-pubblici/planning/00-scheda-pipeline.md",
   "specHash": "sha256:b9582ff0b8d13a37147bf7b04c7969c20ebe2e12e1d2c843c1299f83af59b454",
   "createdAt": "2026-07-29T16:39:37.771Z",
-  "updatedAt": "2026-08-21T16:47:12.317Z",
+  "updatedAt": "2026-10-03T11:38:07.794Z",
   "steps": [
     {
       "key": "08:moduli/m-tr03-tecnico-ingegneristico/chapters/01-concorso-tecnico-pa-profili-prove.md",
@@ -1856,23 +1856,19 @@
       "target": "moduli/m-tr03-tecnico-ingegneristico",
       "status": "done",
       "attempts": 1,
-      "evidence": [],
-      "owner": "aless",
+      "evidence": [
+        "reopen: Applicazione autorizzata dei 18 rilievi audit integrale: regole nazionali, casi strutturali e dossier prove, fonti e matrici; nessuna pubblicabilità anticipata."
+      ],
+      "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-07-30T18:22:22.819Z",
+      "startedAt": "2026-10-02T23:46:42.677Z",
       "gate": {
         "passed": true,
         "blockers": [],
-        "warnings": [
-          {
-            "code": "open-minor-error",
-            "message": "Errore non grave ancora aperto E07: stato \"da verificare\".",
-            "location": "wiki/reviews/pipeline/VOL-10/14-moduli-m-tr03-tecnico-ingegneristico.md"
-          }
-        ]
+        "warnings": []
       },
-      "finishedAt": "2026-07-30T18:28:43.087Z"
+      "finishedAt": "2026-10-03T00:20:57.199Z"
     },
     {
       "key": "15:moduli/m-tr03-tecnico-ingegneristico",
@@ -1886,13 +1882,13 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:36:37.104Z",
+      "startedAt": "2026-10-03T00:21:01.260Z",
       "gate": {
         "passed": true,
         "blockers": [],
         "warnings": []
       },
-      "finishedAt": "2026-08-21T15:43:17.622Z"
+      "finishedAt": "2026-10-03T00:22:28.689Z"
     },
     {
       "key": "16:moduli/m-tr03-tecnico-ingegneristico",
@@ -1906,7 +1902,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:43:25.767Z",
+      "startedAt": "2026-10-03T00:22:36.151Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1918,14 +1914,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Text freeze verificato manualmente: 13 capitoli presenti; zero nuclei parziali, solo nominati o mancanti nello stato finale della matrice; rinvii e source_refs verificati; step 11-15 chiusi; cut-off 21 agosto 2026; manifest con 16 file e zero mismatch SHA-256."
+            "message": "Chiusura manuale di info: Verifica manuale prevista dal gate non implementato: 13 capitoli, 18 rilievi chiusi, audit14/15 passati, rinvii validi, calcoli e soluzioni verificati; manifest M-TR03-freeze.json con 18 hash. Warning legacy dichiarati; PDF aggiornato ancora da verificare."
           }
         ],
         "notImplemented": [
           "text-freeze"
         ]
       },
-      "finishedAt": "2026-08-21T15:46:36.564Z"
+      "finishedAt": "2026-10-03T00:23:04.670Z"
     },
     {
       "key": "18:moduli/m-tr03-tecnico-ingegneristico",
@@ -1939,7 +1935,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:46:44.610Z",
+      "startedAt": "2026-10-03T11:32:04.795Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -1950,7 +1946,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-21T15:47:55.015Z"
+      "finishedAt": "2026-10-03T11:37:07.485Z"
     },
     {
       "key": "00:VOL-10",
@@ -2089,7 +2085,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:53:51.703Z",
+      "startedAt": "2026-10-03T11:37:08.277Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2100,7 +2096,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-21T15:54:39.671Z"
+      "finishedAt": "2026-10-03T11:37:41.450Z"
     },
     {
       "key": "19:VOL-10",
@@ -2114,7 +2110,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T15:54:42.737Z",
+      "startedAt": "2026-10-03T11:37:42.274Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2125,7 +2121,7 @@
           }
         ]
       },
-      "finishedAt": "2026-08-21T16:14:51.175Z"
+      "finishedAt": "2026-10-03T11:37:43.671Z"
     },
     {
       "key": "20:VOL-10",
@@ -2139,7 +2135,7 @@
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T16:14:57.235Z",
+      "startedAt": "2026-10-03T11:37:44.494Z",
       "gate": {
         "passed": true,
         "blockers": [],
@@ -2151,14 +2147,14 @@
           },
           {
             "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Audit integrale eseguito su 100/100 pagine: 5/5 tavole-contatto ispezionate, numerazione progressiva, front matter, gerarchie, giustificazione, font, vedove/orfane, spazi, tabelle, box, margini, gutter e recto/verso verificati. Riesecuzione automatica conforme: 0 bloccanti, 0 significativi, 0 overflow, 0 sovrapposizioni."
+            "message": "Chiusura manuale di info: Verifica manuale di tutte127pagine in8tavole,12zoom; nuova prova confrontata raster su127pagine e3delta visti. Geometria completa e101destinazioni indice corrette. Font/asset integri. Copertura e limiti nel report20;21/24nonchiusi."
           }
         ],
         "notImplemented": [
           "page-fill"
         ]
       },
-      "finishedAt": "2026-08-21T16:19:53.783Z"
+      "finishedAt": "2026-10-03T11:38:06.981Z"
     },
     {
       "key": "21:VOL-10",
@@ -2166,19 +2162,13 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "done",
+      "status": "in-progress",
       "attempts": 1,
       "evidence": [],
       "owner": "info",
       "agent": "unknown",
       "provider": "codex",
-      "startedAt": "2026-08-21T16:20:01.904Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": []
-      },
-      "finishedAt": "2026-08-21T16:26:56.022Z"
+      "startedAt": "2026-10-03T11:38:07.794Z"
     },
     {
       "key": "22:VOL-10",
@@ -2186,32 +2176,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "done",
-      "attempts": 2,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-21T16:36:59.114Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"preflight\" dello step 22 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-10"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Preflight manuale documentato in wiki/reviews/pipeline/VOL-10/22-vol-10.md: copertura, link, 71 source_refs, frontmatter, tabelle, caratteri, diff, 52 test pertinenti, typecheck e build verdi; PDF 100 pagine, SHA-256 03f3445d0a6f5ba821bc7d304a68839d0c9aa48ae00e4b8d12e0c25dde703117, font incorporati e tutte le pagine ispezionate. KDP Previewer non disponibile; resta lo step umano 24."
-          }
-        ],
-        "notImplemented": [
-          "preflight"
-        ]
-      },
-      "finishedAt": "2026-08-21T16:38:52.109Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "23:VOL-10",
@@ -2219,32 +2186,9 @@
       "phase": "F",
       "scope": "volume",
       "target": "VOL-10",
-      "status": "done",
-      "attempts": 1,
-      "evidence": [],
-      "owner": "info",
-      "agent": "unknown",
-      "provider": "codex",
-      "startedAt": "2026-08-21T16:39:00.113Z",
-      "gate": {
-        "passed": true,
-        "blockers": [],
-        "warnings": [
-          {
-            "code": "accepted:gate-not-implemented",
-            "message": "Il gate \"delivery\" dello step 23 non è ancora implementato: esegui la verifica a mano e chiudi lo step con --accept motivando l'esito.",
-            "location": "VOL-10"
-          },
-          {
-            "code": "manual-acceptance",
-            "message": "Chiusura manuale di info: Delivery manuale documentata in wiki/reviews/pipeline/VOL-10/23-vol-10-delivery.md: remoto verificato a c5f3ac01, VOL-06 e artefatti esclusi, staging selettivo e diff cached check verdi; pacchetto di 10 file con 9 voci manifest e zero mismatch; PDF 100 pagine; 52 test, typecheck e gate specialistico verdi. Candidato non approvato: resta step 24 umano."
-          }
-        ],
-        "notImplemented": [
-          "delivery"
-        ]
-      },
-      "finishedAt": "2026-08-21T16:47:12.317Z"
+      "status": "pending",
+      "attempts": 0,
+      "evidence": []
     },
     {
       "key": "24:VOL-10",

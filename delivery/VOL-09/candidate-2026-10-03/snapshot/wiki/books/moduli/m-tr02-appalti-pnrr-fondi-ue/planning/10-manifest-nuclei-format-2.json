@@ -1,0 +1,1572 @@
+{
+  "volume": "VOL-09",
+  "module": "M-TR02",
+  "updatedAt": "2026-10-03",
+  "status": "text-reviewed-pdf-pending",
+  "countingPolicy": "Q/C/E shared per chapter; do not sum nucleus rows",
+  "chapters": [
+    {
+      "number": "01",
+      "file": "01-quattro-profili-ciclo-integrato.md",
+      "title": "I quattro profili e il ciclo integrato",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "02",
+      "file": "02-governance-rup-fasi-team-qualificazione.md",
+      "title": "Governance: RUP, fasi, team e qualificazione",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "03",
+      "file": "03-strategia-fabbisogni-programmazione.md",
+      "title": "Strategia, fabbisogni e programmazione",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "04",
+      "file": "04-progettazione-gara-documenti.md",
+      "title": "Progettazione della gara e documenti",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "05",
+      "file": "05-sotto-soglia-procurement-operativo.md",
+      "title": "Sotto soglia e procurement operativo",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 8,
+        "cases": 2,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "06",
+      "file": "06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "title": "Ecosistema digitale: PAD, PCP, BDNCP e FVOE",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "07",
+      "file": "07-consip-mepa-aq-sdapa-asp.md",
+      "title": "Consip, MEPA, AQ, SDAPA e ASP",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 7,
+        "cases": 1,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "08",
+      "file": "08-governo-esecuzione.md",
+      "title": "Governo dell'esecuzione",
+      "nuclei": 6,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 0
+      }
+    },
+    {
+      "number": "09",
+      "file": "09-rimedi-precontenzioso-contenzioso.md",
+      "title": "Rimedi, precontenzioso e contenzioso",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "10",
+      "file": "10-pnrr-milestone-target-regis.md",
+      "title": "PNRR: architettura, milestone, target e ReGiS",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "11",
+      "file": "11-gestione-finanziaria-rendicontazione-controlli.md",
+      "title": "Gestione finanziaria, rendicontazione e controlli",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 3,
+        "exercises": 1
+      }
+    },
+    {
+      "number": "12",
+      "file": "12-dnsh-cam-procurement-sostenibile.md",
+      "title": "DNSH, CAM e procurement sostenibile",
+      "nuclei": 5,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 2
+      }
+    },
+    {
+      "number": "13",
+      "file": "13-project-management-pubblico.md",
+      "title": "Project management pubblico",
+      "nuclei": 6,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 11
+      }
+    },
+    {
+      "number": "14",
+      "file": "14-laboratorio-atti-casi-simulazioni.md",
+      "title": "Laboratorio: atti, casi e simulazioni",
+      "nuclei": 6,
+      "qce": {
+        "quizzes": 6,
+        "cases": 1,
+        "exercises": 11
+      }
+    }
+  ],
+  "nuclei": [
+    {
+      "id": "N-TR02-01-01",
+      "title": "Profili, perimetro e lettura del bando",
+      "chapter": 1,
+      "file": "01-quattro-profili-ciclo-integrato.md",
+      "sections": [
+        "Obiettivo del capitolo",
+        "Mappa BANDO",
+        "Perimetro M-TR02: profilo prima della materia",
+        "Tre riscontri nei bandi, tre livelli di lavoro"
+      ],
+      "evidenceQuote": "Un bando che parla di contratti pubblici, PNRR o procurement può dare l'impressione di chiedere tutto: Codice dei contratti, piattaforme, strumenti Consip, contabilità, fondi europei, monitoraggio, rendicontazione e project management. È una lettura rischiosa. La stessa parola cambia peso a seconda del profilo messo a concorso.",
+      "source": "vol-09-bandi-specialistici-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-01-02",
+      "title": "Ciclo contrattuale e specialista appalti",
+      "chapter": 1,
+      "file": "01-quattro-profili-ciclo-integrato.md",
+      "sections": [
+        "Specialista appalti/RUP: procedura, atti, controllo"
+      ],
+      "evidenceQuote": "Il ciclo integrato è una mappa di lavoro. Non sostituisce la disciplina del D.Lgs. 36/2023, le regole contabili o le istruzioni PNRR; aiuta però a vedere come le informazioni passano da una fase all'altra. Nei concorsi questa visione conta molto, perché le tracce pratiche raramente chiedono una definizione isolata. Chiedono di ordinare un problema.",
+      "source": "vol-09-bandi-specialistici-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-01-03",
+      "title": "Procurement, PNRR e project management",
+      "chapter": 1,
+      "file": "01-quattro-profili-ciclo-integrato.md",
+      "sections": [
+        "▣ Verifica 1",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Specialista PNRR: avanzamento, evidenze e rendicontazione",
+        "Project manager pubblico: tempi, rischi e decisioni"
+      ],
+      "evidenceQuote": "L'errore da evitare è trattare il portale come scorciatoia. La piattaforma aiuta a gestire passaggi e dati, ma non decide al posto dell'amministrazione. Se il bisogno è scritto male, se i requisiti sono incoerenti o se manca la motivazione, l'uso dello strumento digitale non corregge il problema.",
+      "source": "vol-09-bandi-specialistici-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-01-04",
+      "title": "Confini di materia e caso integrato",
+      "chapter": 1,
+      "file": "01-quattro-profili-ciclo-integrato.md",
+      "sections": [
+        "▣ Verifica 2",
+        "Quiz 4",
+        "Quiz 5",
+        "Quiz 6",
+        "Da sapere in 5 righe"
+      ],
+      "evidenceQuote": "La prova può chiedere: \"Un progetto finanziato presenta ritardi nell'affidamento e criticità nella raccolta delle evidenze. Come imposti il report?\". Una risposta forte separa fatti, cause, impatti, decisioni richieste e prossime azioni. Non scarica tutto su un ufficio e non promette soluzioni generiche.",
+      "source": "vol-09-bandi-specialistici-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-01-05",
+      "title": "Classificazione del bando e allenamento",
+      "chapter": 1,
+      "file": "01-quattro-profili-ciclo-integrato.md",
+      "sections": [
+        "Domanda da commissario",
+        "Domanda-trappola",
+        "Errore tipico",
+        "Mini-esercizio: classifica prima di approfondire",
+        "Checklist operativa",
+        "Riferimenti normativi e professionali essenziali"
+      ],
+      "evidenceQuote": "Il project manager pubblico guarda il sistema. Coordina uffici, aggiorna il cronoprogramma, assegna responsabilità, registra il rischio, prepara il report per il decisore. Il suo output è uno status report: situazione, scostamenti, impatti, decisioni da prendere, prossime scadenze.",
+      "source": "vol-09-bandi-specialistici-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-02-01",
+      "title": "Governance e separazione delle funzioni",
+      "chapter": 2,
+      "file": "02-governance-rup-fasi-team-qualificazione.md",
+      "sections": [
+        "Obiettivo del capitolo",
+        "Mappa BANDO",
+        "Nuclei operativi del modulo M-TR02",
+        "Spiegazione"
+      ],
+      "evidenceQuote": "Una procedura di affidamento non si governa con la sola determina a contrarre, né con la nomina formale di un responsabile. Prima ancora di scegliere la procedura, l'amministrazione deve capire chi conosce il fabbisogno, chi prepara gli atti, chi controlla i requisiti, chi segue l'esecuzione, chi autorizza la spesa e chi conserva le evidenze nel fascicolo.",
+      "source": "vol-09-governance-contratti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e competenza mancante"
+    },
+    {
+      "id": "N-TR02-02-02",
+      "title": "Nomina del RUP e responsabili di fase",
+      "chapter": 2,
+      "file": "02-governance-rup-fasi-team-qualificazione.md",
+      "sections": [
+        "RUP come coordinatore del progetto",
+        "Nomina e requisiti: una verifica distinta per ogni incarico",
+        "Responsabili di fase e supporti"
+      ],
+      "evidenceQuote": "Esempio: un ente deve acquistare un servizio informatico. Prima di scrivere il capitolato, deve capire se possiede competenze tecniche interne, chi definisce i requisiti funzionali, chi verifica la coerenza con il fabbisogno, chi controlla l'esecuzione e chi gestisce i dati nel fascicolo digitale. Se queste domande arrivano solo dopo la pubblicazione degli atti, l'errore è già entrato nella procedura.",
+      "source": "vol-09-governance-contratti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e competenza mancante"
+    },
+    {
+      "id": "N-TR02-02-03",
+      "title": "Qualificazione e matrice RACI",
+      "chapter": 2,
+      "file": "02-governance-rup-fasi-team-qualificazione.md",
+      "sections": [
+        "Da sapere in 5 righe",
+        "▣ Verifica 1: ruoli e responsabilità"
+      ],
+      "evidenceQuote": "In sede concorsuale, evita la risposta generica \"collaborano tutti\". Scrivi invece: \"la collaborazione è efficace solo se ogni funzione produce un'evidenza controllabile e se l'amministrazione mantiene separate le attività che richiedono indipendenza\".",
+      "source": "vol-09-governance-contratti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e competenza mancante"
+    },
+    {
+      "id": "N-TR02-02-04",
+      "title": "Competenze mancanti e scelta organizzativa",
+      "chapter": 2,
+      "file": "02-governance-rup-fasi-team-qualificazione.md",
+      "sections": [
+        "Caso ragionato: servizio digitale e competenza mancante",
+        "Domanda da commissario",
+        "Domanda-trappola"
+      ],
+      "evidenceQuote": "A. il soggetto che sostituisce tutti gli uffici coinvolti nella procedura\nB. il coordinatore del progetto, nei limiti delle funzioni attribuitegli\nC. il componente necessario della commissione giudicatrice in ogni gara\nD. il soggetto che approva sempre ogni pagamento senza altri controlli",
+      "source": "vol-09-governance-contratti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e competenza mancante"
+    },
+    {
+      "id": "N-TR02-02-05",
+      "title": "Verifica dei ruoli e costruzione della RACI",
+      "chapter": 2,
+      "file": "02-governance-rup-fasi-team-qualificazione.md",
+      "sections": [
+        "▣ Verifica 2: qualificazione, controlli e RACI",
+        "Errore tipico",
+        "Mini-esercizio: costruisci la RACI",
+        "Checklist operativa",
+        "Riferimenti normativi e professionali essenziali"
+      ],
+      "evidenceQuote": "A. la capacità organizzativa dell'amministrazione nella gestione dei contratti\nB. il titolo di studio personale del RUP\nC. la possibilità di evitare ogni controllo sull'esecuzione\nD. la sola disponibilità di una piattaforma digitale",
+      "source": "vol-09-governance-contratti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e competenza mancante"
+    },
+    {
+      "id": "N-TR02-03-01",
+      "title": "Fabbisogno, dati e nota istruttoria",
+      "chapter": 3,
+      "file": "03-strategia-fabbisogni-programmazione.md",
+      "sections": [
+        "Obiettivo del capitolo",
+        "Mappa BANDO",
+        "Nuclei del capitolo",
+        "Nota di fabbisogno, dati e responsabilità"
+      ],
+      "evidenceQuote": "Una gara può essere formalmente corretta e nascere comunque male. Succede quando l'amministrazione parte dalla procedura prima di avere chiarito il bisogno: compra un servizio che non risolve il problema, sceglie una soluzione troppo grande per le risorse disponibili, oppure costruisce un affidamento difficile da controllare in esecuzione.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio ricorrente e investimento PNRR"
+    },
+    {
+      "id": "N-TR02-03-02",
+      "title": "Programmazione e scelta dei lotti",
+      "chapter": 3,
+      "file": "03-strategia-fabbisogni-programmazione.md",
+      "sections": [
+        "▣ Verifica 1 - bisogno, nota e programmazione",
+        "Lotti, aggregazione e accesso al mercato"
+      ],
+      "evidenceQuote": "1. **Problema e destinatari.** Quale servizio pubblico non funziona, quale obbligo va rispettato, quali utenti o uffici sono coinvolti.\n2. **Risultato atteso.** Che cosa deve cambiare e come si potrà osservare il cambiamento.\n3. **Perimetro.** Sedi, utenti, dati, volumi, processi, interfacce e uffici interessati.\n4. **Vincoli.** Bilancio, continuità del servizio, sicurezza, accessibilità, ambiente, tempi di finanziamento, interoperabilità, competenze disponibili.\n5. **Dati di base.** Situazione attuale, costi, tempi medi, criticità note, documenti esistenti, indicatori già raccolti.\n6. **Responsabilità.** Ufficio richiedente, RUP, eventuali supporti, ufficio finanziario, ufficio tecnico, decisore competente e soggetti da consultare.\n7. **Rischi.** Mercato ristretto, dipendenze tecnologiche, ritardi autorizzativi, carenze di personale, dati incompleti, difficoltà di controllo in esecuzione.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio ricorrente e investimento PNRR"
+    },
+    {
+      "id": "N-TR02-03-03",
+      "title": "Valore stimato, opzioni e strategia",
+      "chapter": 3,
+      "file": "03-strategia-fabbisogni-programmazione.md",
+      "sections": [
+        "Valore stimato e lotti: prima il calcolo, poi la procedura"
+      ],
+      "evidenceQuote": "In prova bisogna mostrare equilibrio. La commissione apprezza chi sa dire: \"dipende dal bisogno, dal mercato e dalla capacità dell'ente di controllare l'esecuzione\".",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio ricorrente e investimento PNRR"
+    },
+    {
+      "id": "N-TR02-03-04",
+      "title": "Confronto delle opzioni e priorità",
+      "chapter": 3,
+      "file": "03-strategia-fabbisogni-programmazione.md",
+      "sections": [
+        "▣ Verifica 2 - lotti, KPI e PNRR",
+        "Da sapere in 5 righe",
+        "Caso ragionato: servizio ricorrente e investimento PNRR",
+        "Fase 1 - leggere i bisogni",
+        "Fase 2 - confrontare le opzioni",
+        "Fase 3 - decidere lotti e priorità"
+      ],
+      "evidenceQuote": "La matrice strategica collega bisogno, opzione, lotto, priorità, KPI e prova. Se manca uno di questi passaggi, l'intervento diventa difficile da spiegare. Se il bisogno è chiaro ma il KPI è vago, non si saprà dimostrare il risultato. Se il KPI è preciso ma non ha responsabile, nessuno lo presidierà. Se la prova non è indicata, il dato resterà una dichiarazione.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio ricorrente e investimento PNRR"
+    },
+    {
+      "id": "N-TR02-03-05",
+      "title": "KPI, decisione e nota di fabbisogno",
+      "chapter": 3,
+      "file": "03-strategia-fabbisogni-programmazione.md",
+      "sections": [
+        "Fase 4 - impostare i KPI",
+        "Decisione motivata",
+        "Domanda da commissario",
+        "Domanda-trappola",
+        "Errore tipico",
+        "Mini-esercizio: scrivi una nota di fabbisogno",
+        "Checklist finale",
+        "Riferimenti normativi e professionali essenziali"
+      ],
+      "evidenceQuote": "Per il servizio ricorrente, indicatori utili possono riguardare tempi di presa in carico, richieste evase, continuità, reclami, rispetto dei livelli di servizio e qualità documentata. I valori concreti vanno stabiliti dall'ente in base ai dati disponibili e alle condizioni contrattuali.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio ricorrente e investimento PNRR"
+    },
+    {
+      "id": "N-TR02-04-01",
+      "title": "Decisione di contrarre e documenti",
+      "chapter": 4,
+      "file": "04-progettazione-gara-documenti.md",
+      "sections": [
+        "Obiettivo del capitolo",
+        "Mappa BANDO",
+        "Nuclei del capitolo",
+        "Decisione di contrarre: contenuto e caso compilato",
+        "Il fascicolo di gara"
+      ],
+      "evidenceQuote": "Una gara scritta male raramente si rovina il giorno della pubblicazione. Di solito nasce fragile prima: quando il bisogno è descritto in modo generico, il capitolato chiede prestazioni poco misurabili, il disciplinare introduce requisiti non motivati, oppure lo schema di contratto non consente di controllare ciò che l'operatore ha promesso.",
+      "source": "vol-09-gara-requisiti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e requisito sproporzionato"
+    },
+    {
+      "id": "N-TR02-04-02",
+      "title": "Requisiti, esclusioni, RTI e avvalimento",
+      "chapter": 4,
+      "file": "04-progettazione-gara-documenti.md",
+      "sections": [
+        "Requisiti di partecipazione",
+        "Requisiti generali: esclusione automatica e valutazione motivata",
+        "Requisiti speciali, FVOE, RTI e avvalimento",
+        "▣ Verifica 1 - documenti, avvio e requisiti"
+      ],
+      "evidenceQuote": "Il disciplinare non è il capitolato. Il capitolato non è il contratto. Lo schema di contratto non può essere un documento generico staccato dalla prestazione. La differenza va tenuta pulita.",
+      "source": "vol-09-gara-requisiti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e requisito sproporzionato"
+    },
+    {
+      "id": "N-TR02-04-03",
+      "title": "Criteri, soccorso e specifiche tecniche",
+      "chapter": 4,
+      "file": "04-progettazione-gara-documenti.md",
+      "sections": [
+        "Qualità/prezzo e minor prezzo: quando si usano"
+      ],
+      "evidenceQuote": "I criteri di valutazione servono a confrontare offerte ammissibili. Non selezionano chi entra in gara: valutano la qualità, il prezzo, il costo o altri elementi dell'offerta secondo quanto previsto dai documenti di gara e dalla disciplina applicabile.",
+      "source": "vol-09-gara-requisiti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e requisito sproporzionato"
+    },
+    {
+      "id": "N-TR02-04-04",
+      "title": "Proporzionalità: correggere il caso",
+      "chapter": 4,
+      "file": "04-progettazione-gara-documenti.md",
+      "sections": [
+        "▣ Verifica 2 - criteri, specifiche e matrice",
+        "Caso ragionato: servizio digitale e requisito sproporzionato",
+        "Fase 1 - leggere il bisogno",
+        "Fase 2 - correggere il requisito",
+        "Fase 3 - correggere il criterio",
+        "Fase 4 - riscrivere il capitolato"
+      ],
+      "evidenceQuote": "La gestione dei chiarimenti ha anche un valore di trasparenza. Tutti gli operatori devono ricevere le stesse informazioni secondo le regole della procedura. Una risposta data a un solo operatore, o una correzione non tracciata, crea un rischio che può incidere sulla parità di trattamento e sulla tenuta della gara.",
+      "source": "vol-09-gara-requisiti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e requisito sproporzionato"
+    },
+    {
+      "id": "N-TR02-04-05",
+      "title": "Controllo del fascicolo e matrice requisiti",
+      "chapter": 4,
+      "file": "04-progettazione-gara-documenti.md",
+      "sections": [
+        "Fase 5 - controllare il fascicolo",
+        "Da sapere in 5 righe",
+        "Domanda da commissario",
+        "Domanda-trappola",
+        "Errore tipico",
+        "Mini-esercizio: completa la matrice",
+        "Checklist finale",
+        "Riferimenti normativi e professionali essenziali"
+      ],
+      "evidenceQuote": "La gara corretta non è quella più permissiva. È quella in cui ogni richiesta ha una ragione. Il requisito seleziona capacità necessarie. Il criterio valuta la qualità dell'offerta. Il capitolato descrive prestazioni controllabili. Lo schema di contratto conserva la possibilità di pretendere ciò che l'operatore ha promesso.",
+      "source": "vol-09-gara-requisiti-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: servizio digitale e requisito sproporzionato"
+    },
+    {
+      "id": "N-TR02-05-01",
+      "title": "Soglie europee e percorsi nazionali",
+      "chapter": 5,
+      "file": "05-sotto-soglia-procurement-operativo.md",
+      "sections": [
+        "Soglie e procedura nel biennio 2026–2027",
+        "Mappa BANDO della procedura sotto soglia",
+        "Perimetro operativo: oggetto, valore, mercato e rischio"
+      ],
+      "evidenceQuote": "\"Sotto soglia\" non significa \"senza regole\". Significa che il valore stimato del contratto è inferiore alla pertinente soglia di rilevanza europea. I limiti nazionali interni selezionano poi le procedure: “sotto soglia UE” e “affidabile direttamente” non sono sinonimi. La semplificazione, però, non elimina motivazione, controllo, trasparenza, tracciabilità e responsabilità.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 8,
+      "c": 2,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-05-02",
+      "title": "Procedure, rotazione e casi di confine",
+      "chapter": 5,
+      "file": "05-sotto-soglia-procurement-operativo.md",
+      "sections": [
+        "Tre casi di confine",
+        "Motivazione, rotazione e consultazione del mercato"
+      ],
+      "evidenceQuote": "L'oggetto deve essere descritto con precisione. \"Servizio informatico\" è troppo generico. Può indicare assistenza tecnica, sviluppo software, manutenzione, migrazione dati, cybersicurezza, licenze, supporto agli utenti. Ogni oggetto ha requisiti, mercato e rischi diversi. Anche \"fornitura di materiale\" può essere troppo vago se il bene è standard, specialistico, urgente o collegato a una compatibilità tecnica.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 8,
+      "c": 2,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-05-03",
+      "title": "Motivazione e controlli dei requisiti",
+      "chapter": 5,
+      "file": "05-sotto-soglia-procurement-operativo.md",
+      "sections": [
+        "▣ Verifica 1 - Scelte di procedura e motivazione",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3"
+      ],
+      "evidenceQuote": "La rotazione dell’art. 49 impedisce, in via ordinaria, due affidamenti consecutivi al contraente uscente nello stesso settore merceologico, categoria di opere o settore di servizi. L’ente può organizzare fasce di valore, applicando il divieto all’interno della fascia, senza creare fasce artificiose per eluderlo.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 8,
+      "c": 2,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-05-04",
+      "title": "Istruttoria e scelta nel caso concreto",
+      "chapter": 5,
+      "file": "05-sotto-soglia-procurement-operativo.md",
+      "sections": [
+        "Domande, errore tipico, mini-esercizio e checklist",
+        "Da sapere in 5 righe",
+        "Domanda da commissario",
+        "Domanda-trappola"
+      ],
+      "evidenceQuote": "Quando la disciplina richiede un identificativo della procedura, come il CIG o altro codice previsto, l'ufficio deve acquisirlo e conservarlo secondo le modalità vigenti. Lo stesso vale per comunicazioni, pubblicità, dati da trasmettere, verifiche tramite fascicoli digitali e interoperabilità tra sistemi. Non è necessario memorizzare passaggi di piattaforma che possono cambiare; è necessario capire che la procedura deve lasciare una traccia istituzionale.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 8,
+      "c": 2,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-05-05",
+      "title": "Errori, verifiche e riepilogo operativo",
+      "chapter": 5,
+      "file": "05-sotto-soglia-procurement-operativo.md",
+      "sections": [
+        "Errore tipico",
+        "Mini-esercizio",
+        "Checklist finale",
+        "▣ Verifica 2 - Controlli, fascicolo e rischio",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Riferimenti normativi e professionali essenziali",
+        "Avviso operativo sui dati mobili",
+        "Promemoria da portare all'orale"
+      ],
+      "evidenceQuote": "Risposta corretta: no. La buona esecuzione è un elemento da valutare, non una licenza permanente. L'ufficio deve verificare mercato, precedenti, rotazione, disciplina applicabile, congruità e motivazione. In alcuni casi la continuità tecnica può avere peso, ma deve essere spiegata con dati concreti. Se si sceglie lo stesso operatore senza istruttoria, il rischio è trasformare la semplificazione in automatismo.",
+      "source": "vol-09-programmazione-sottosoglia-verifica-2026-10-03",
+      "q": 8,
+      "c": 2,
+      "e": 1,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-06-01",
+      "title": "Funzioni del ciclo digitale",
+      "chapter": 6,
+      "file": "06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "sections": [
+        "Obiettivo del capitolo",
+        "Mappa BANDO dell'ecosistema digitale",
+        "Bando",
+        "Aree",
+        "Nuclei",
+        "Diario",
+        "Output",
+        "Dalla procedura cartacea al ciclo digitale"
+      ],
+      "evidenceQuote": "La digitalizzazione dei contratti pubblici non coincide con il caricamento online di una gara pensata su carta. Cambia il modo in cui l'amministrazione registra gli eventi della procedura, trasmette i dati, verifica i requisiti, pubblica le informazioni e conserva le evidenze.",
+      "source": "vol-09-ciclo-digitale-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso svolto: la gara del Comune Alfa nel ciclo digitale"
+    },
+    {
+      "id": "N-TR02-06-02",
+      "title": "PAD, banche dati e pubblicità",
+      "chapter": 6,
+      "file": "06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "sections": [
+        "Regime digitale e certificazione",
+        "Pubblicità legale, trasparenza, comunicazioni e conservazione",
+        "Caso svolto: la gara del Comune Alfa nel ciclo digitale",
+        "▣ Verifica 1 - Sigle, funzioni e flusso minimo",
+        "Quiz 1",
+        "Quiz 2"
+      ],
+      "evidenceQuote": "Il piano procedurale riguarda gli atti e le decisioni. Il piano informativo riguarda i dati che rendono leggibile la procedura. Il piano organizzativo riguarda le responsabilità. Se questi piani si separano, nascono problemi: un dato può risultare formalmente trasmesso, ma non corrispondere all'atto; una pubblicazione può apparire online, ma non essere collegata correttamente alla procedura; una verifica può essere stata tentata, ma non documentata.",
+      "source": "vol-09-ciclo-digitale-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso svolto: la gara del Comune Alfa nel ciclo digitale"
+    },
+    {
+      "id": "N-TR02-06-03",
+      "title": "Qualità del dato e continuità operativa",
+      "chapter": 6,
+      "file": "06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "sections": [
+        "Quiz 3",
+        "Gestione dell'errore e continuità operativa"
+      ],
+      "evidenceQuote": "A. Perché identifica e collega dati della procedura, ma non valuta il contenuto degli atti.\nB. Perché serve solo nei concorsi pubblici.\nC. Perché riguarda soltanto la fase di assunzione del personale.\nD. Perché elimina l'obbligo di motivazione.",
+      "source": "vol-09-ciclo-digitale-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso svolto: la gara del Comune Alfa nel ciclo digitale"
+    },
+    {
+      "id": "N-TR02-06-04",
+      "title": "Gestione degli errori e verifiche",
+      "chapter": 6,
+      "file": "06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "sections": [
+        "▣ Verifica 2 - Errori, controlli e responsabilità",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3"
+      ],
+      "evidenceQuote": "Un dato incoerente richiede più attenzione di un semplice errore di battitura. Se l'oggetto della gara è descritto in modo diverso tra determina, capitolato, piattaforma e pubblicazione, l'ufficio deve capire quale documento esprime correttamente la decisione amministrativa. Poi deve valutare se l'incoerenza ha inciso sulla concorrenza, sulla comprensione degli operatori o sulla trasparenza. Solo dopo può rettificare.",
+      "source": "vol-09-ciclo-digitale-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso svolto: la gara del Comune Alfa nel ciclo digitale"
+    },
+    {
+      "id": "N-TR02-06-05",
+      "title": "Ricostruire il flusso del fascicolo",
+      "chapter": 6,
+      "file": "06-ecosistema-digitale-pad-pcp-bdncp-fvoe.md",
+      "sections": [
+        "Domanda da commissario",
+        "Domanda-trappola",
+        "Errore tipico",
+        "Mini-esercizio",
+        "Checklist finale",
+        "Riferimenti essenziali e controlli da aggiornare",
+        "Avviso per l'uso reale",
+        "Formula di ripasso"
+      ],
+      "evidenceQuote": "Risposta modello: la BDNCP è la banca dati nazionale relativa ai contratti pubblici e serve alla raccolta e alla disponibilità dei dati del ciclo dei contratti. Il FVOE riguarda invece la verifica dei requisiti dell'operatore economico, nei casi e con le modalità previste. Sono collegati all'ecosistema digitale dei contratti, ma non hanno la stessa funzione. Una risposta completa richiama anche la PAD, usata dalla stazione appaltante per gestire passaggi digitali, e la PCP, che collega servizi nazionali dell'ecosistema ANAC.",
+      "source": "vol-09-ciclo-digitale-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso svolto: la gara del Comune Alfa nel ciclo digitale"
+    },
+    {
+      "id": "N-TR02-07-01",
+      "title": "Obblighi, categorie e deroghe",
+      "chapter": 7,
+      "file": "07-consip-mepa-aq-sdapa-asp.md",
+      "sections": [
+        "Obiettivo del capitolo",
+        "Mappa BANDO",
+        "Obblighi e facoltà: partire dall’ente, dalla categoria e dal valore",
+        "Categorie dei soggetti aggregatori: aggiornamento 2026",
+        "Quando lo strumento obbligatorio non è idoneo o disponibile",
+        "Convenzioni: adesione a condizioni già definite"
+      ],
+      "evidenceQuote": "\"Usiamo il MEPA\" non è ancora una scelta di acquisto. È solo l'indicazione di un possibile ambiente operativo. Prima vengono il fabbisogno, il valore stimato, la categoria merceologica, il mercato disponibile, le regole della procedura e la capacità dell'amministrazione di controllare l'esecuzione. Solo dopo si decide se usare una convenzione, un accordo quadro, il MEPA, lo SDAPA, una gara in ASP o un'altra procedura telematica.",
+      "source": "vol-09-consip-strumenti-obblighi-2026-10-03",
+      "q": 7,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: materiale informatico, assistenza e servizio tecnico"
+    },
+    {
+      "id": "N-TR02-07-02",
+      "title": "Convenzioni, accordi quadro e MePA",
+      "chapter": 7,
+      "file": "07-consip-mepa-aq-sdapa-asp.md",
+      "sections": [
+        "Accordi quadro: cornice, regole applicative e responsabilità",
+        "Accordo quadro: applicare l’art.59"
+      ],
+      "evidenceQuote": "La convenzione è lo strumento che più facilmente viene spiegato male. Non va presentata come \"un acquisto facile\", ma come un'iniziativa con condizioni già organizzate a monte. L'amministrazione verifica se il proprio fabbisogno rientra nell'oggetto, nelle quantità, nella durata, nei prezzi, nelle prestazioni e nelle regole previste. Se la verifica è positiva, procede secondo le modalità stabilite dall'iniziativa.",
+      "source": "vol-09-consip-strumenti-obblighi-2026-10-03",
+      "q": 7,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: materiale informatico, assistenza e servizio tecnico"
+    },
+    {
+      "id": "N-TR02-07-03",
+      "title": "Negoziazioni, SDA e gare in ASP",
+      "chapter": 7,
+      "file": "07-consip-mepa-aq-sdapa-asp.md",
+      "sections": [
+        "SDAPA: apertura continua e appalti specifici"
+      ],
+      "evidenceQuote": "Il MEPA è utile quando il fabbisogno rientra nelle categorie abilitate e il mercato digitale offre operatori e condizioni confrontabili. Non è adatto a tutto. Se l'oggetto è complesso, se servono requisiti tecnici particolari, se il valore o la natura dell'appalto richiedono una procedura diversa, l'amministrazione deve scegliere lo strumento corretto. Il fatto che un ufficio conosca bene il MEPA non giustifica l'uso del MEPA per ogni necessità.",
+      "source": "vol-09-consip-strumenti-obblighi-2026-10-03",
+      "q": 7,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: materiale informatico, assistenza e servizio tecnico"
+    },
+    {
+      "id": "N-TR02-07-04",
+      "title": "Scelta dello strumento nel caso concreto",
+      "chapter": 7,
+      "file": "07-consip-mepa-aq-sdapa-asp.md",
+      "sections": [
+        "Caso ragionato: materiale informatico, assistenza e servizio tecnico",
+        "Da sapere in 5 righe",
+        "Domanda da commissario",
+        "Domanda-trappola",
+        "Errore tipico"
+      ],
+      "evidenceQuote": "1. definire l'oggetto dell'acquisto in modo abbastanza preciso;\n2. stimare il valore e verificare il quadro procedurale applicabile;\n3. controllare se esistono obblighi, convenzioni, accordi quadro o iniziative centralizzate pertinenti;\n4. verificare categorie abilitate, operatori disponibili e condizioni;\n5. decidere se bastano condizioni già definite o se serve una negoziazione;\n6. scegliere lo strumento coerente con oggetto, mercato, tempi e controlli;\n7. documentare la decisione nel fascicolo;\n8. gestire CIG, tracciabilità, comunicazioni e adempimenti digitali;\n9. seguire l'esecuzione del contratto, non solo l'affidamento.",
+      "source": "vol-09-consip-strumenti-obblighi-2026-10-03",
+      "q": 7,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: materiale informatico, assistenza e servizio tecnico"
+    },
+    {
+      "id": "N-TR02-07-05",
+      "title": "Esercizi e verifica degli strumenti",
+      "chapter": 7,
+      "file": "07-consip-mepa-aq-sdapa-asp.md",
+      "sections": [
+        "Mini-esercizio",
+        "▣ Verifica 1",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "▣ Verifica 2",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Checklist",
+        "Riferimenti normativi e professionali essenziali"
+      ],
+      "evidenceQuote": "La correzione pratica è costruire sempre questa sequenza: fabbisogno, condizioni disponibili, mercato, confronto, fascicolo, controllo. Se manca uno di questi passaggi, la risposta resta fragile.",
+      "source": "vol-09-consip-strumenti-obblighi-2026-10-03",
+      "q": 7,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: materiale informatico, assistenza e servizio tecnico"
+    },
+    {
+      "id": "N-TR02-08-01",
+      "title": "Avvio della fase esecutiva",
+      "chapter": 8,
+      "file": "08-governo-esecuzione.md",
+      "sections": [
+        "Obiettivo del capitolo",
+        "Mappa BANDO",
+        "Dalla stipula alla consegna"
+      ],
+      "evidenceQuote": "L'aggiudicazione non chiude il lavoro dell'amministrazione. Lo sposta in una fase meno visibile, ma spesso decisiva: far eseguire la prestazione, controllarla, gestire gli imprevisti e pagare solo ciò che risulta dovuto.",
+      "source": "vol-09-esecuzione-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 0,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-08-02",
+      "title": "Documenti e controlli della prestazione",
+      "chapter": 8,
+      "file": "08-governo-esecuzione.md",
+      "sections": [
+        "▣ Verifica 1 - Dalla consegna al controllo",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3"
+      ],
+      "evidenceQuote": "- contratto e capitolato;\n- atti di nomina o individuazione dei responsabili;\n- cronoprogramma o piano delle attività;\n- modalità di verifica della prestazione;\n- verbali di consegna, avvio, controllo o sopralluogo;\n- comunicazioni rilevanti;\n- contestazioni e controdeduzioni;\n- documenti di pagamento;\n- atti di modifica, sospensione o ripresa;\n- documenti di chiusura.",
+      "source": "vol-09-esecuzione-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 0,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-08-03",
+      "title": "Subappalto, modifiche e sospensioni",
+      "chapter": 8,
+      "file": "08-governo-esecuzione.md",
+      "sections": [
+        "Subappalto: condizioni e responsabilità",
+        "Modifiche: scegliere la base giuridica prima della percentuale",
+        "Proroga, sospensione e ripresa"
+      ],
+      "evidenceQuote": "Nel subappalto l’appaltatore affida parte della prestazione a un’impresa che organizza i mezzi e assume il rischio della propria esecuzione. L’art. 119 non prevede un limite generale del 30%: sono però nulli l’affidamento integrale a terzi e quello della prevalente esecuzione delle lavorazioni della categoria prevalente o dei contratti ad alta intensità di manodopera. La stazione appaltante può riservare prestazioni all’aggiudicatario, motivando nei documenti di gara le esigenze tecniche, di controllo, di sicurezza o di prevenzione criminale previste dalla norma. Può anche motivare limiti all’ulteriore subappalto; la cascata non è né sempre vietata né priva di controlli.",
+      "source": "vol-09-esecuzione-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 0,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-08-04",
+      "title": "Prezzi, pagamenti e chiusura",
+      "chapter": 8,
+      "file": "08-governo-esecuzione.md",
+      "sections": [
+        "Penali e premi: un calcolo verificabile",
+        "Revisione prezzi: obbligo, indici ed eccedenza",
+        "Anticipazione, SAL e saldo",
+        "Chiusura: collaudo e regolare esecuzione",
+        "Collegio consultivo tecnico",
+        "Caso ragionato"
+      ],
+      "evidenceQuote": "Per il ritardo l’art. 126 prevede penali giornaliere fra **0,5 e 1,5 per mille** dell’ammontare netto contrattuale, secondo la clausola e le conseguenze del ritardo; il totale non supera il **10%** del netto. Il per mille non è il per cento. Accertamento, imputabilità, contestazione e controdeduzioni precedono la decisione.",
+      "source": "vol-09-esecuzione-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 0,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-08-05",
+      "title": "Decisioni e rimedi nel caso concreto",
+      "chapter": 8,
+      "file": "08-governo-esecuzione.md",
+      "sections": [
+        "Domanda-trappola",
+        "Errore tipico"
+      ],
+      "evidenceQuote": "Un comune affida un servizio di manutenzione informatica. Il contratto prevede avvio del servizio, presa in carico delle richieste degli uffici, report periodici e verifica della qualità. Dopo alcune settimane gli uffici segnalano ritardi nelle risposte e interventi incompleti. L'operatore invia comunque fattura e chiede più tempo, sostenendo che alcune informazioni tecniche non erano disponibili.",
+      "source": "vol-09-esecuzione-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 0,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-08-06",
+      "title": "Allenamento sui controlli esecutivi",
+      "chapter": 8,
+      "file": "08-governo-esecuzione.md",
+      "sections": [
+        "▣ Verifica 2 - Rimedi e decisioni in esecuzione",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Checklist",
+        "Da sapere in 5 righe",
+        "Riferimenti normativi e professionali essenziali"
+      ],
+      "evidenceQuote": "La correzione è costruire sempre una matrice dell'esecuzione. Non deve essere lunga. Deve essere chiara: fase, responsabile, evidenza, decisione possibile.",
+      "source": "vol-09-esecuzione-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 0,
+      "case": "Caso ragionato"
+    },
+    {
+      "id": "N-TR02-09-01",
+      "title": "Qualificazione del problema e accesso",
+      "chapter": 9,
+      "file": "09-rimedi-precontenzioso-contenzioso.md",
+      "sections": [
+        "Apertura editoriale",
+        "Obiettivo del capitolo",
+        "Mappa BANDO",
+        "La catena minima di qualificazione",
+        "Accesso, trasparenza e autotutela",
+        "Accesso digitale: chi vede che cosa e quando",
+        "Il termine speciale di dieci giorni"
+      ],
+      "evidenceQuote": "Quando nasce una contestazione in una procedura di affidamento, la prima domanda non è \"quale ricorso devo fare?\". La prima domanda è più semplice e più dura: che cosa è successo, in quale fase, su quale atto, con quale interesse e con quale urgenza?",
+      "source": "vol-09-accesso-rimedi-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Soluzione guidata"
+    },
+    {
+      "id": "N-TR02-09-02",
+      "title": "Precontenzioso e parere ANAC",
+      "chapter": 9,
+      "file": "09-rimedi-precontenzioso-contenzioso.md",
+      "sections": [
+        "Schema operativo",
+        "Da sapere in 5 righe",
+        "Il parere ANAC dell’art. 220",
+        "Come impostare una nota di precontenzioso",
+        "RUP, stazione appaltante e fascicolo",
+        "▣ Verifica 1 - Scegliere il rimedio senza automatismi",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3"
+      ],
+      "evidenceQuote": "Una correzione materiale non ha lo stesso peso di un annullamento. Una revoca non coincide con un annullamento. Un chiarimento non cancella una decisione già adottata. Un ripensamento dell'amministrazione, se non trova base nella disciplina e nella motivazione, non basta. La commissione spesso costruisce domande proprio su queste differenze.",
+      "source": "vol-09-accesso-rimedi-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Soluzione guidata"
+    },
+    {
+      "id": "N-TR02-09-03",
+      "title": "Rimedi esecutivi, ricorso e divieti di stipula",
+      "chapter": 9,
+      "file": "09-rimedi-precontenzioso-contenzioso.md",
+      "sections": [
+        "Accordo bonario e transazione",
+        "Arbitrato: autorizzazione e limiti",
+        "Tabella di orientamento",
+        "Formula utile per la prova orale",
+        "Ricorso, giudice e termini",
+        "Due divieti di stipula distinti"
+      ],
+      "evidenceQuote": "Molte controversie non nascono durante la gara, ma dopo la stipula. L'esecuzione del contratto porta problemi diversi: ritardi, contestazioni sulla qualità della prestazione, riserve, modifiche, penali, pagamenti, varianti, prezzi, collaudo o verifica di conformità. Qui il ragionamento cambia. Non si parte più solo da bando, disciplinare e verbali di gara. Si parte dal contratto, dal capitolato, dagli ordini di servizio, dai verbali, dalla contabilità e dalle comunicazioni tra le parti.",
+      "source": "vol-09-accesso-rimedi-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Soluzione guidata"
+    },
+    {
+      "id": "N-TR02-09-04",
+      "title": "Caso di aggiudicazione contestata",
+      "chapter": 9,
+      "file": "09-rimedi-precontenzioso-contenzioso.md",
+      "sections": [
+        "Da sapere in 5 righe",
+        "Soluzione guidata",
+        "Risposta modello breve",
+        "▣ Verifica 2 - Timeline, urgenza ed effetti",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Domanda da commissario"
+      ],
+      "evidenceQuote": "Il ricorso non è il primo gesto di ogni contestazione. Prima si ricostruiscono atto, conoscenza, interesse, legittimazione e prova. I termini e le modalità operative vanno verificati sulla disciplina vigente. Il precontenzioso non sostituisce il giudizio. La sospensione non si presume: occorre una base normativa o una decisione dell'autorità competente.",
+      "source": "vol-09-accesso-rimedi-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Soluzione guidata"
+    },
+    {
+      "id": "N-TR02-09-05",
+      "title": "Timeline e scelta del rimedio",
+      "chapter": 9,
+      "file": "09-rimedi-precontenzioso-contenzioso.md",
+      "sections": [
+        "Errore tipico",
+        "Mini-esercizio: tre orologi sulla stessa gara",
+        "Checklist",
+        "Riferimenti essenziali"
+      ],
+      "evidenceQuote": "Il ricorso, invece, avvia una tutela giurisdizionale davanti all'autorità competente. Richiede un atto o un comportamento rilevante, un soggetto legittimato, un interesse concreto, un rito, un termine e una domanda. Può includere una richiesta cautelare, ma la sospensione non nasce dal solo fatto che qualcuno contesti la procedura.",
+      "source": "vol-09-accesso-rimedi-verifica-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Soluzione guidata"
+    },
+    {
+      "id": "N-TR02-10-01",
+      "title": "Architettura del Piano e responsabilità",
+      "chapter": 10,
+      "file": "10-pnrr-milestone-target-regis.md",
+      "sections": [
+        "Mappa BANDO",
+        "Architettura del PNRR: misura, progetto e responsabilità",
+        "Dalle missioni alla singola operazione",
+        "CID, accordi operativi e obblighi dell’ente",
+        "Perché una fattura non determina la rata europea",
+        "Milestone, target, output e risultato"
+      ],
+      "evidenceQuote": "Il PNRR non è un semplice finanziamento da spendere. Per un'amministrazione è un ciclo di progetto: obiettivi, tempi, risorse, atti, dati, pagamenti, indicatori e controlli devono restare coerenti dall'avvio alla chiusura.",
+      "source": "vol-09-pnrr-architettura-chiusura-regis-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: milestone a rischio"
+    },
+    {
+      "id": "N-TR02-10-02",
+      "title": "Risultati, indicatori e identificativi",
+      "chapter": 10,
+      "file": "10-pnrr-milestone-target-regis.md",
+      "sections": [
+        "▣ Verifica 1 - Architettura e impegni del progetto",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3"
+      ],
+      "evidenceQuote": "In un progetto digitale, l'output può essere il rilascio di una funzionalità. La milestone può essere il completamento di una fase verificabile soltanto se quella condizione è prevista dagli atti della misura. Il target può riguardare un valore da raggiungere, per esempio un numero, una percentuale o un indicatore definito nei documenti ufficiali. Non bisogna inventare numeri: i valori si prendono solo dalla misura, dal bando, dal decreto, dalla convenzione o dal documento istituzionale vigente.",
+      "source": "vol-09-pnrr-architettura-chiusura-regis-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: milestone a rischio"
+    },
+    {
+      "id": "N-TR02-10-03",
+      "title": "ReGiS, dati e validazione",
+      "chapter": 10,
+      "file": "10-pnrr-milestone-target-regis.md",
+      "sections": [
+        "Alimentazione, prevalidazione e validazione",
+        "Caso di qualità del dato: cento consegnati, novantadue verificati",
+        "Monitoraggio, rendicontazione e controllo"
+      ],
+      "evidenceQuote": "Nei concorsi, una buona risposta deve mostrare il rapporto tra contratto e progetto. Non serve trasformare la risposta in un commentario sul Codice dei contratti pubblici. Serve dire che affidamento, esecuzione, verifica, liquidazione e pagamento producono dati rilevanti anche per il monitoraggio PNRR. La tracciabilità dei flussi finanziari, il collegamento tra atti e identificativi e la corretta conservazione documentale sono presidi di controllo, non adempimenti decorativi.",
+      "source": "vol-09-pnrr-architettura-chiusura-regis-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: milestone a rischio"
+    },
+    {
+      "id": "N-TR02-10-04",
+      "title": "Controlli, ritardi e chiusura 2026",
+      "chapter": 10,
+      "file": "10-pnrr-milestone-target-regis.md",
+      "sections": [
+        "▣ Verifica 2 - Dati, ReGiS e rendicontazione",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Il calendario di chiusura 2026",
+        "Quale evidenza chiude la performance",
+        "Performance, spesa e strumenti finanziari",
+        "Caso ragionato: milestone a rischio"
+      ],
+      "evidenceQuote": "Un esempio aiuta. Un ente dichiara che una procedura è conclusa, la fattura è stata ricevuta e il pagamento è in lavorazione. Il monitoraggio registra un avanzamento procedurale e finanziario. La rendicontazione richiede documenti, verifica della prestazione, collegamento al progetto, ammissibilità e regole della misura. Il controllo può verificare se la procedura era corretta, se il CIG è collegato, se il pagamento è tracciabile, se non c'è doppio finanziamento e se l'indicatore dichiarato è fondato.",
+      "source": "vol-09-pnrr-architettura-chiusura-regis-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: milestone a rischio"
+    },
+    {
+      "id": "N-TR02-10-05",
+      "title": "Report di avanzamento e allenamento",
+      "chapter": 10,
+      "file": "10-pnrr-milestone-target-regis.md",
+      "sections": [
+        "Domanda-trappola",
+        "Errore tipico",
+        "Mini-esercizio",
+        "Checklist",
+        "Riferimenti normativi e operativi"
+      ],
+      "evidenceQuote": "Il punto da portare in prova è netto: un dato finanziario aggiornato non prova da solo il risultato. ReGiS può rappresentare l'avanzamento, ma la solidità del progetto dipende dalla coerenza tra sistema informativo, fascicolo, atti, evidenze e decisioni.",
+      "source": "vol-09-pnrr-architettura-chiusura-regis-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 1,
+      "case": "Caso ragionato: milestone a rischio"
+    },
+    {
+      "id": "N-TR02-11-01",
+      "title": "Fasi della spesa e identificativi",
+      "chapter": 11,
+      "file": "11-gestione-finanziaria-rendicontazione-controlli.md",
+      "sections": [
+        "Dalla copertura al pagamento",
+        "La catena minima da ricostruire",
+        "CIG, CUP e tracciabilità"
+      ],
+      "evidenceQuote": "Un contratto finanziato con risorse PNRR, fondi europei o altre fonti vincolate non finisce con la fattura del fornitore. Il pagamento è solo un passaggio della catena. Per chi lavora in un ente pubblico conta poter dimostrare, anche mesi dopo, che la spesa era prevista, che la prestazione è stata verificata, che il pagamento è tracciabile e che il risultato rientra nel progetto finanziato.",
+      "source": "vol-09-tracciabilita-antifrode-spesa-2026-10-03",
+      "q": 6,
+      "c": 3,
+      "e": 1,
+      "case": "Calcolo risolto della quota rendicontabile"
+    },
+    {
+      "id": "N-TR02-11-02",
+      "title": "Tracciabilità e condizioni di pagamento",
+      "chapter": 11,
+      "file": "11-gestione-finanziaria-rendicontazione-controlli.md",
+      "sections": [
+        "Conti dedicati e filiera: legge 136/2010",
+        "Modalità particolari e sanzioni",
+        "CUP negli atti e codici nelle fatture",
+        "Controllo operativo sui codici",
+        "Ammissibilità della spesa",
+        "Prestazione reale e verificata",
+        "Risultato collegato al progetto",
+        "Audit trail e fascicolo di controllo"
+      ],
+      "evidenceQuote": "CIG e CUP compaiono spesso negli stessi atti, ma hanno funzioni diverse. Confonderli è uno degli errori più frequenti nelle prove su appalti, PNRR e rendicontazione.",
+      "source": "vol-09-tracciabilita-antifrode-spesa-2026-10-03",
+      "q": 6,
+      "c": 3,
+      "e": 1,
+      "case": "Calcolo risolto della quota rendicontabile"
+    },
+    {
+      "id": "N-TR02-11-03",
+      "title": "Fascicolo, conflitti e controlli antifrode",
+      "chapter": 11,
+      "file": "11-gestione-finanziaria-rendicontazione-controlli.md",
+      "sections": [
+        "Struttura del fascicolo",
+        "Fascicolo e sistemi informativi",
+        "▣ Verifica 1 - Catena finanziaria, codici e rendicontazione",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Conflitto di interessi",
+        "Regolamento finanziario UE e gestione del conflitto",
+        "Titolare effettivo: risalire alla persona fisica",
+        "Frode e anomalie",
+        "Doppio finanziamento"
+      ],
+      "evidenceQuote": "L'audit trail è la traccia documentale che permette di ricostruire decisioni, prestazioni, pagamenti e controlli. Non è un archivio casuale. È un fascicolo organizzato in modo che un soggetto esterno possa seguire il percorso della spesa senza chiedere spiegazioni informali.",
+      "source": "vol-09-tracciabilita-antifrode-spesa-2026-10-03",
+      "q": 6,
+      "c": 3,
+      "e": 1,
+      "case": "Calcolo risolto della quota rendicontabile"
+    },
+    {
+      "id": "N-TR02-11-04",
+      "title": "Ammissibilità, duplicazioni e rettifiche",
+      "chapter": 11,
+      "file": "11-gestione-finanziaria-rendicontazione-controlli.md",
+      "sections": [
+        "Calcolo risolto della quota rendicontabile",
+        "Cofinanziamento e duplicazione: prova numerica",
+        "Rettifiche, recuperi e chiusura",
+        "Chiusura documentale",
+        "Caso ragionato e domande di prova",
+        "Caso ragionato",
+        "Domanda da commissario",
+        "Domanda-trappola",
+        "Errore tipico"
+      ],
+      "evidenceQuote": "Il doppio finanziamento si verifica quando la stessa spesa viene imputata due volte a fonti incompatibili. Non va confuso con il cofinanziamento ammesso. Un progetto può avere più fonti se le regole lo consentono e se le quote sono distinte, motivate e tracciate. Il problema nasce quando lo stesso costo viene presentato come coperto integralmente o impropriamente da più programmi.",
+      "source": "vol-09-tracciabilita-antifrode-spesa-2026-10-03",
+      "q": 6,
+      "c": 3,
+      "e": 1,
+      "case": "Calcolo risolto della quota rendicontabile"
+    },
+    {
+      "id": "N-TR02-11-05",
+      "title": "Riconciliazione e verifiche conclusive",
+      "chapter": 11,
+      "file": "11-gestione-finanziaria-rendicontazione-controlli.md",
+      "sections": [
+        "Mini-esercizio",
+        "▣ Verifica 2 - Controlli, errori e output di prova",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Da sapere in 5 righe",
+        "Checklist operativa",
+        "Riferimenti normativi e professionali essenziali",
+        "Norme da collegare al caso"
+      ],
+      "evidenceQuote": "Preparare il fascicolo alla fine. L'ente paga, archivia qualche documento e poi, davanti al controllo, chiede agli uffici di ricordare chi ha verificato la prestazione, perché una quota è stata imputata al progetto e dove si trova la dichiarazione sul conflitto di interessi. Questo metodo produce fascicoli fragili.",
+      "source": "vol-09-tracciabilita-antifrode-spesa-2026-10-03",
+      "q": 6,
+      "c": 3,
+      "e": 1,
+      "case": "Calcolo risolto della quota rendicontabile"
+    },
+    {
+      "id": "N-TR02-12-01",
+      "title": "DNSH: obiettivi e regimi",
+      "chapter": 12,
+      "file": "12-dnsh-cam-procurement-sostenibile.md",
+      "sections": [
+        "Obiettivo del capitolo",
+        "Mappa BANDO",
+        "DNSH: significato, obiettivi e uso nella procedura",
+        "Che cosa costituisce danno significativo",
+        "Regime 1 e Regime 2"
+      ],
+      "evidenceQuote": "Un acquisto pubblico sostenibile non nasce da una frase verde inserita nel capitolato. Nasce da una scelta amministrativa controllabile: l'oggetto del contratto deve essere definito bene, i requisiti ambientali devono essere collegati alla prestazione, le prove devono essere indicate prima della gara e i controlli devono accompagnare l'esecuzione.",
+      "source": "vol-09-dnsh-cam-casi-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 2,
+      "case": "Caso DNSH: venti notebook nuovi"
+    },
+    {
+      "id": "N-TR02-12-02",
+      "title": "CAM: obblighi minimi e criteri premianti",
+      "chapter": 12,
+      "file": "12-dnsh-cam-procurement-sostenibile.md",
+      "sections": [
+        "CAM arredi: una clausola completa sulla garanzia",
+        "Esercizio: minimo obbligatorio e premio",
+        "▣ Verifica 1",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3"
+      ],
+      "evidenceQuote": "Il terzo momento è la gara. I documenti devono rendere comprensibili le richieste all'operatore economico. Non basta scrivere \"l'intervento deve rispettare il principio DNSH\". Occorre indicare, nei limiti del caso concreto, quali prescrizioni rilevano, quali dichiarazioni o documenti sono richiesti, quali obblighi passano nel contratto e quali controlli verranno eseguiti.",
+      "source": "vol-09-dnsh-cam-casi-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 2,
+      "case": "Caso DNSH: venti notebook nuovi"
+    },
+    {
+      "id": "N-TR02-12-03",
+      "title": "Verifica ambientale e caso notebook",
+      "chapter": 12,
+      "file": "12-dnsh-cam-procurement-sostenibile.md",
+      "sections": [
+        "Caso DNSH: venti notebook nuovi"
+      ],
+      "evidenceQuote": "Una clausola ambientale funziona solo se è scritta in modo da poter essere applicata. Deve dire che cosa si richiede, a chi, entro quando, con quale prova e con quale effetto in caso di mancato rispetto. Se manca uno di questi elementi, la clausola diventa fragile.",
+      "source": "vol-09-dnsh-cam-casi-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 2,
+      "case": "Caso DNSH: venti notebook nuovi"
+    },
+    {
+      "id": "N-TR02-12-04",
+      "title": "Fascicolo ambientale e non conformità",
+      "chapter": 12,
+      "file": "12-dnsh-cam-procurement-sostenibile.md",
+      "sections": [
+        "▣ Verifica 2",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Caso ragionato: fornitura di arredi per un edificio pubblico finanziato dal PNRR"
+      ],
+      "evidenceQuote": "Un buon fascicolo ambientale non è un faldone pieno di documenti scollegati. È una catena leggibile. Chi lo consulta deve poter capire:",
+      "source": "vol-09-dnsh-cam-casi-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 2,
+      "case": "Caso DNSH: venti notebook nuovi"
+    },
+    {
+      "id": "N-TR02-12-05",
+      "title": "Caso arredi e allenamento conclusivo",
+      "chapter": 12,
+      "file": "12-dnsh-cam-procurement-sostenibile.md",
+      "sections": [
+        "Domanda da commissario",
+        "Come integra DNSH e CAM in una procedura PNRR?",
+        "Domanda-trappola",
+        "Se il capitolato cita i CAM, il requisito ambientale è già verificato?",
+        "Errore tipico",
+        "Mini-esercizio",
+        "Checklist operativa",
+        "Da sapere in 5 righe",
+        "Riferimenti normativi e professionali essenziali",
+        "Riferimenti per i due casi"
+      ],
+      "evidenceQuote": "Terza domanda: che cosa deve fare il RUP? Il RUP deve prima individuare gli atti di gara e verificare quali obblighi siano effettivamente entrati nel rapporto contrattuale. Poi deve controllare il documento CAM vigente per la categoria e le prescrizioni DNSH applicabili alla misura. A questo punto può chiedere, nei limiti consentiti dalla procedura e dal contratto, la documentazione prevista o comunque idonea a dimostrare la conformità già richiesta. Se la documentazione chiarisce un requisito già presente, l'attività può avere funzione istruttoria. Se invece servirebbe a introdurre un requisito nuovo o a modificare l'offerta, l'amministrazione deve fermarsi e valutare i rimedi corretti.",
+      "source": "vol-09-dnsh-cam-casi-verificati-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 2,
+      "case": "Caso DNSH: venti notebook nuovi"
+    },
+    {
+      "id": "N-TR02-13-01",
+      "title": "Charter, output e benefici",
+      "chapter": 13,
+      "file": "13-project-management-pubblico.md",
+      "sections": [
+        "Mandato pubblico e project charter",
+        "Output, outcome e beneficio: tre verifiche diverse",
+        "WBS, Gantt e baseline"
+      ],
+      "evidenceQuote": "Un progetto pubblico nasce quando un'amministrazione deve produrre un risultato controllabile: un servizio attivo, un'opera conclusa, una piattaforma funzionante, una procedura riorganizzata, un intervento finanziato da completare con evidenze. Non basta avere attività in elenco. Serve capire chi decide, che cosa si deve consegnare, quali vincoli valgono, quali prove dimostrano l'avanzamento e quando una modifica richiede un atto, una validazione o un aggiornamento del monitoraggio.",
+      "source": "vol-09-project-management-esempi-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Soluzione completa: sportello digitale in nove giorni"
+    },
+    {
+      "id": "N-TR02-13-02",
+      "title": "Pianificazione, dipendenze e rischi",
+      "chapter": 13,
+      "file": "13-project-management-pubblico.md",
+      "sections": [
+        "▣ Verifica 1 - Mandato, WBS e baseline",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Change control e decisioni"
+      ],
+      "evidenceQuote": "Il Gantt trasforma la WBS in una vista temporale. Mostra durata, dipendenze, responsabili, scadenze e avanzamento. È utile perché rende visibili le sequenze: non si testa un servizio se i dati non sono disponibili; la formazione pratica richiede un ambiente sufficientemente stabile, ma può procedere in parallelo ad alcuni test se i vincoli lo consentono; non si dichiara concluso un pacchetto se manca l'evidenza.",
+      "source": "vol-09-project-management-esempi-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Soluzione completa: sportello digitale in nove giorni"
+    },
+    {
+      "id": "N-TR02-13-03",
+      "title": "Modifiche, report e chiusura",
+      "chapter": 13,
+      "file": "13-project-management-pubblico.md",
+      "sections": [
+        "▣ Verifica 2 - Rischi, report e chiusura",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Caso ragionato"
+      ],
+      "evidenceQuote": "Il change control è il modo con cui un progetto cambia senza perdere governo. Un cambiamento può riguardare il perimetro, i requisiti, i tempi, i costi, la qualità, i ruoli, le evidenze o le modalità di monitoraggio. Il fatto che una modifica sembri ragionevole non significa che sia già ammessa. Nel settore pubblico bisogna chiedersi anche quale atto la consente, quale livello deve approvarla e quali effetti produce sugli obblighi collegati.",
+      "source": "vol-09-project-management-esempi-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Soluzione completa: sportello digitale in nove giorni"
+    },
+    {
+      "id": "N-TR02-13-04",
+      "title": "Decisioni sul progetto in ritardo",
+      "chapter": 13,
+      "file": "13-project-management-pubblico.md",
+      "sections": [
+        "Domanda-trappola",
+        "Errore tipico",
+        "Mini-esercizio"
+      ],
+      "evidenceQuote": "La prima correzione riguarda la classificazione. Non siamo davanti a un rischio futuro: il problema è già accaduto. Va aperta un'issue. Nel registro bisogna indicare causa, effetto, responsabile dell'azione, data entro cui serve la decisione e impatto possibile su deliverable, pagamenti, avvio del servizio e obblighi di monitoraggio. Se il progetto ha collegamenti con milestone, target o rendicontazione, il responsabile deve verificare le istruzioni vigenti della misura prima di dichiarare che il ritardo è neutro.",
+      "source": "vol-09-project-management-esempi-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Soluzione completa: sportello digitale in nove giorni"
+    },
+    {
+      "id": "N-TR02-13-05",
+      "title": "WBS e calendario: soluzione completa",
+      "chapter": 13,
+      "file": "13-project-management-pubblico.md",
+      "sections": [
+        "Soluzione completa: sportello digitale in nove giorni",
+        "Calcolo del percorso critico e dei margini",
+        "Registro rischi, issue e decisione: esempio compilato",
+        "Checklist operativa",
+        "Laboratorio operativo",
+        "Simulazione 1 - Charter incompleto"
+      ],
+      "evidenceQuote": "Il progetto è un esempio didattico circoscritto: si assume già disponibile il contratto necessario. Inizia martedì 6 ottobre 2026; si lavora dal lunedì al venerdì, senza altre chiusure nel periodo. Tutte le dipendenze sono fine-inizio, senza tempi di attesa aggiuntivi. Le attività parallele dispongono di persone distinte. Durata e risorse sono ipotesi del caso, non standard per un vero progetto informatico.",
+      "source": "vol-09-project-management-esempi-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Soluzione completa: sportello digitale in nove giorni"
+    },
+    {
+      "id": "N-TR02-13-06",
+      "title": "Laboratorio di verifica del progetto",
+      "chapter": 13,
+      "file": "13-project-management-pubblico.md",
+      "sections": [
+        "Simulazione 2 - WBS confusa con organigramma",
+        "Simulazione 3 - Gantt non realistico",
+        "Simulazione 4 - Rischio scritto male",
+        "Simulazione 5 - Issue non riconosciuta",
+        "Simulazione 6 - Stakeholder dimenticato",
+        "Simulazione 7 - Modifica richiesta dal fornitore",
+        "Simulazione 8 - Status report troppo generico",
+        "Simulazione 9 - Progetto PNRR con dato incerto",
+        "Simulazione 10 - Chiusura senza evidenze",
+        "Riferimento metodologico"
+      ],
+      "evidenceQuote": "Consegna: ricevi una WBS composta da \"ufficio tecnico, ragioneria, fornitore, segreteria\". Riscrivila per un progetto di attivazione di un portale.",
+      "source": "vol-09-project-management-esempi-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Soluzione completa: sportello digitale in nove giorni"
+    },
+    {
+      "id": "N-TR02-14-01",
+      "title": "Lettura dei fatti e metodo di risposta",
+      "chapter": 14,
+      "file": "14-laboratorio-atti-casi-simulazioni.md",
+      "sections": [
+        "Lettura della traccia e mappa BANDO",
+        "Metodo operativo per atti, casi e simulazioni"
+      ],
+      "evidenceQuote": "La prova su appalti, PNRR e finanziamenti non premia chi accumula formule. Premia chi legge una situazione, isola i fatti utili, sceglie il percorso amministrativo corretto e lo motiva con documenti controllabili.",
+      "source": "vol-09-laboratorio-soluzioni-verificate-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Simulazione 1 - Dal fabbisogno alla programmazione"
+    },
+    {
+      "id": "N-TR02-14-02",
+      "title": "Simulazioni di programmazione e affidamento",
+      "chapter": 14,
+      "file": "14-laboratorio-atti-casi-simulazioni.md",
+      "sections": [
+        "Dieci simulazioni integrate",
+        "Simulazione 1 - Dal fabbisogno alla programmazione",
+        "Soluzione svolta",
+        "Simulazione 2 - Decisione di avvio e requisiti tecnici",
+        "Soluzione svolta",
+        "Simulazione 3 - Affidamento sotto soglia e operatore uscente",
+        "Soluzione svolta",
+        "Simulazione 4 - Procedura digitale con dato incoerente",
+        "Soluzione svolta"
+      ],
+      "evidenceQuote": "Un Comune deve acquistare un servizio digitale per gestire appuntamenti, notifiche agli utenti e report interni. L'ufficio richiedente propone di \"rinnovare il contratto in essere\", perché il servizio è già conosciuto dagli operatori. Nel fascicolo, però, non risultano una nota di fabbisogno aggiornata, una verifica sulle prestazioni effettivamente necessarie e un confronto tra alternative disponibili. Il responsabile chiede di predisporre una nota istruttoria breve.",
+      "source": "vol-09-laboratorio-soluzioni-verificate-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Simulazione 1 - Dal fabbisogno alla programmazione"
+    },
+    {
+      "id": "N-TR02-14-03",
+      "title": "Simulazioni di esecuzione, rimedi e PNRR",
+      "chapter": 14,
+      "file": "14-laboratorio-atti-casi-simulazioni.md",
+      "sections": [
+        "Simulazione 5 - Esecuzione e non conformità",
+        "Soluzione svolta",
+        "Simulazione 6 - Accesso dopo aggiudicazione",
+        "Soluzione svolta",
+        "Simulazione 7 - PNRR e target a rischio",
+        "Soluzione svolta",
+        "Simulazione 8 - Rendicontazione e doppio finanziamento",
+        "Soluzione svolta",
+        "Simulazione 9 - DNSH e CAM",
+        "Soluzione svolta"
+      ],
+      "evidenceQuote": "**Traccia.** Un contratto di fornitura, valore netto 100.000 euro, prevede un sistema unitario completo e funzionante entro il giorno T. Alla verifica del giorno T manca una componente essenziale. Il sistema diventa completo dieci giorni dopo. Il ritardo è imputabile all’esecutore; non ricorrono cause di sospensione o giustificazioni. Il contratto stabilisce una penale giornaliera dell’1 per mille del valore netto, entro il limite del 10%. Il fornitore chiede subito il pagamento integrale.",
+      "source": "vol-09-laboratorio-soluzioni-verificate-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Simulazione 1 - Dal fabbisogno alla programmazione"
+    },
+    {
+      "id": "N-TR02-14-04",
+      "title": "Recupero del ritardo e decisioni",
+      "chapter": 14,
+      "file": "14-laboratorio-atti-casi-simulazioni.md",
+      "sections": [
+        "Simulazione 10 - Project management e recupero del ritardo",
+        "Soluzione svolta",
+        "▣ Verifica intermedia - Lettura, scelta e prova",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3"
+      ],
+      "evidenceQuote": "**Traccia.** Si usa la rete del capitolo 13: A dura 2 giorni; B, dopo A, 4; C, dopo A, 3; D, dopo B e C, 2; E, dopo B, 1; F, dopo D ed E, 1. La baseline dura 9 giorni lavorativi. La preparazione e bonifica dei dati, attività C, subirà un ritardo certo di due giorni rispetto alla durata prevista. D contiene test obbligatori e non può essere abbreviata arbitrariamente. È disponibile un intervento che limita a un giorno il ritardo di C, con costo aggiuntivo da autorizzare.",
+      "source": "vol-09-laboratorio-soluzioni-verificate-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Simulazione 1 - Dal fabbisogno alla programmazione"
+    },
+    {
+      "id": "N-TR02-14-05",
+      "title": "Autovalutazione, diario e piano di studio",
+      "chapter": 14,
+      "file": "14-laboratorio-atti-casi-simulazioni.md",
+      "sections": [
+        "Mini-esercizio",
+        "Rubrica comune alle dieci simulazioni",
+        "Diario degli errori compilabile",
+        "Piano a 30, 60 o 90 giorni",
+        "▣ Verifica finale - Controllo prima della prova",
+        "Quiz 1",
+        "Quiz 2",
+        "Quiz 3",
+        "Checklist"
+      ],
+      "evidenceQuote": "L'errore più frequente è scrivere una risposta \"normativa\" senza istruttoria. Il candidato cita parole corrette, ma non fa vedere il controllo: fabbisogno, fascicolo, requisito, prova, responsabilità, esito.",
+      "source": "vol-09-laboratorio-soluzioni-verificate-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Simulazione 1 - Dal fabbisogno alla programmazione"
+    },
+    {
+      "id": "N-TR02-14-06",
+      "title": "Kit cartaceo per atti e aggiornamenti",
+      "chapter": 14,
+      "file": "14-laboratorio-atti-casi-simulazioni.md",
+      "sections": [
+        "Kit cartaceo: trovare e riutilizzare gli strumenti",
+        "Scheda di decisione per affidamento diretto",
+        "Verbale e registro delle modifiche",
+        "Registro degli aggiornamenti per lo studio",
+        "Riferimenti e uso degli strumenti nel volume"
+      ],
+      "evidenceQuote": "I modelli sono collocati accanto alla teoria e ai casi che ne spiegano l’uso. La tavola seguente consente di ritrovarli senza un’appendice separata o un servizio digitale.",
+      "source": "vol-09-laboratorio-soluzioni-verificate-2026-10-03",
+      "q": 6,
+      "c": 1,
+      "e": 11,
+      "case": "Simulazione 1 - Dal fabbisogno alla programmazione"
+    }
+  ]
+}

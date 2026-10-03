@@ -1,0 +1,52 @@
+[
+  {
+    "name": "casellario",
+    "article": 2,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art2!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art2.html",
+    "sha256": "e41c79384b4df00aec9dab3e10704a2357666df465ff1bed74253fba8e1ecef7",
+    "characters": 5009,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 6,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art6!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art6.html",
+    "sha256": "715094d9c0b1b28a6222bb658f5dc01d9330ac2c553ec31241f5abb0f6ce6b02",
+    "characters": 615,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 18,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art18!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art18.html",
+    "sha256": "d55c76ba917f432600cd8f61bdde295ffb3405d989a5b8b1567974c82636324a",
+    "characters": 168,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 40,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art40!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art40.html",
+    "sha256": "04f891d32df586bae785f2b6bfd75cf37af1abd5fc48fe5b778bc93d17b3de8f",
+    "characters": 922,
+    "readComplete": false,
+    "validExtraction": true
+  },
+  {
+    "name": "casellario",
+    "article": 42,
+    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313~art42!vig=",
+    "path": "wiki/raw/correzioni-vol04-2026-10-03/casellario-art42.html",
+    "sha256": "0d541a9b756dfc6f89a9dec8d145fcdbe71d33a4de174c4668d29848bb36cfb4",
+    "characters": 2234,
+    "readComplete": false,
+    "validExtraction": true
+  }
+]

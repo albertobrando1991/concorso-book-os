@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-03",
+  "baseline": "wiki/reviews/audit-integrale-2026-10-02/VOL-03.md",
+  "files": [
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/01-mappa-agenzie-fiscali-profili-concorsuali.md",
+      "sha256": "9303f6ed2cd0d98730e597021dcabd6d7bc960ac056fab80a06d922bb9e9b06c",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/02-bando-decoder-fiscale.md",
+      "sha256": "fa3dd4d36d4ff5270021ecde6f5bb3fd28b8fefe8dab2b8f312eaa8d71bc872f",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/03-ordinamento-organizzazione-ae-adm-ader.md",
+      "sha256": "316635bc378f1cd4902a088c70ebb6ba0f4666bc06dd6c10a0a010a70a9c3be0",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/04-diritto-tributario-teoria-imposta.md",
+      "sha256": "6bb429f74b59266c34a77b141b7578cca2ff42e3bc52619fbebb6843bf5f2179",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05-accertamento-controlli-compliance-fiscale.md",
+      "sha256": "5b9e01791029e29ea470f9a6b84c6a75865c2e0734f1ac8a724367f4412eb292",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05a-sanzioni-amministrative-reati-tributari.md",
+      "sha256": "48d7b89915ab9dbd7c6347d89ac51aeec93c78c2a539fbbc9a41269a8bcf86de",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/05b-tutela-processo-tributario.md",
+      "sha256": "b9f3278973e815770a0cce7c8cc4a39a3d4162193ec055f4526dff31b06aa408",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/06-adempimenti-fiscali-redditi-iva-dichiarazioni.md",
+      "sha256": "eb97aa57f399fe35b46de23baa0224816162810b2f585491ac080b16d6641b73",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/07-riscossione-nazionale-lavoro-ader.md",
+      "sha256": "df5253c2ec95b1b9db258b65b02ac19106d73db68b514579ac66742847405b33",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/08-dogane-procedure-doganali-adm.md",
+      "sha256": "c50da38bf01c7c73a960c972d346da16e697f14b13c6b5bb4c492f34d3159e52",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/09-accise-giochi-monopoli.md",
+      "sha256": "ca07c28669821c1d8821ca3cccd4d44b49164314b6a6ebfa1c06ad1a8f7ee8f1",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/10-catasto-cartografia-estimo-pubblicita-immobiliare.md",
+      "sha256": "3ab2782ae7ecce41c6f62175de952054cd6bc6c3032a1943a443279c52dc09e9",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/11-contabilita-aziendale-economia-impresa-fisco.md",
+      "sha256": "d8a1338171ce3ed44587df78dcc1c4e3851da7acc68058951a6b14b6f8159c3c",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/12-civile-commerciale-applicati-fisco-dogane-riscossione.md",
+      "sha256": "1df678f3e2fd7d2a2a77ee57af78a0b29add32b19d25817a9281d22a65d8549a",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/13-casi-pratici-quiz-orale-agenzie-fiscali.md",
+      "sha256": "e70782690135b2f569bc3886684983b343333c6a795be2118b6c928677f4637e",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    },
+    {
+      "path": "wiki/books/moduli/m-fc02-agenzie-fiscali/chapters/14-appendici-operative.md",
+      "sha256": "c4b9c893fb3f668bba84905fbac8fe00c33b96bece24dc26c8533cab63870749",
+      "review": "specialist claims and corrected passages checked against integral baseline",
+      "pdfVerified": false
+    }
+  ],
+  "correctedAdditional": [
+    "FC02-S01",
+    "FC02-S02",
+    "FC02-S03",
+    "FC02-S04",
+    "FC02-S05"
+  ],
+  "pdfVerified": false
+}

@@ -6,7 +6,7 @@ status: approved_for_draft_with_source_review
 domain: "concorsi pubblici italiani"
 topics: ["scuola", "docenti", "progettazione didattica", "lezione simulata", "prova orale", "valutazione"]
 entities: ["Ministero dell'Istruzione e del Merito"]
-source_refs: ["sources/bandi-rappresentativi-m-ir01-scuola-2023-2025", "sources/programmi-concorsi-docenti-dm-205-206-2023", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994", "sources/schema-universale-risposta-orale-metodo-bando", "sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu"]
+source_refs: ["sources/bandi-rappresentativi-m-ir01-scuola-2023-2025", "sources/programmi-concorsi-docenti-dm-205-206-2023", "sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994", "sources/schema-universale-risposta-orale-metodo-bando", "sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu"]
 book_refs: ["m-ir01-scuola", "vol-06-scuola-universita-ricerca-cultura", "il-metodo-bando"]
 confidence: 0.7
 updated_at: 2026-07-29
@@ -32,7 +32,7 @@ Il capitolo chiude il percorso docente del modulo: progettazione, lezione simula
 ## Stato dei nuclei
 
 - Gia' documentati: il corpus bandi docenti richiama orale, lezione simulata, progettazione e disciplina; i programmi MIM richiedono mediazione metodologico-didattica, progettazione, osservazione, verifica, valutazione e competenze digitali. [[sources/bandi-rappresentativi-m-ir01-scuola-2023-2025]] [[sources/programmi-concorsi-docenti-dm-205-206-2023]]
-- Gia' disponibili nel wiki: schema universale di risposta orale, criterio di adattare l'allenamento alla forma reale del bando e fonti sulla valutazione e sul digitale. [[sources/schema-universale-risposta-orale-metodo-bando]] [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]] [[sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]]
+- Gia' disponibili nel wiki: schema universale di risposta orale, criterio di adattare l'allenamento alla forma reale del bando e fonti sulla valutazione e sul digitale. [[sources/schema-universale-risposta-orale-metodo-bando]] [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]] [[sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]]
 - Da sviluppare: struttura di una progettazione, allineamento obiettivo-attivita'-evidenza, apertura e scansione della lezione, inclusione e differenziazione, gestione del tempo, materiali, valutazione, riflessione finale e risposta alle domande della commissione.
 - Da non trattare come regole universali: durata, griglia, punteggio, estrazione della traccia, piattaforma, formato della lezione o criteri di valutazione validi per ogni procedura.
 
@@ -69,7 +69,7 @@ Target: circa 2.700-3.000 parole, con una tabella progettuale e una scaletta com
 - Programmi e ricorrenze docenti MIM: [[sources/programmi-concorsi-docenti-dm-205-206-2023]] e [[sources/bandi-rappresentativi-m-ir01-scuola-2023-2025]].
 - Forma della prova e cautela sul bando: [[sources/prove-concorsuali-quiz-scritto-orale-dpr-487-1994]].
 - Struttura dell'esposizione orale: [[sources/schema-universale-risposta-orale-metodo-bando]].
-- Valutazione e digitale come elementi della progettazione: [[sources/valutazione-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]].
+- Valutazione e digitale come elementi della progettazione: [[sources/valutazione-e-competenze-digitali-docenti-dlgs-62-2017-om-172-digcompedu]].
 - Rinvii controllati: capitolo 11 per inclusione; capitolo 12 per metodologie, valutazione e digitale; VOL-01 per metodo generale e gestione della prova.
 
 ## Review umane richieste

@@ -9,7 +9,7 @@ entities: ["AGENAS", "Ministero della Salute", "Azienda sanitaria"]
 source_refs: ["sources/sicurezza-cure-responsabilita-consenso-leggi-24-219", "sources/riabilitazione-fisioterapia-iss-ministero", "sources/territorio-cot-continuita-pdta-persona-fragile-toscana"]
 book_refs: ["m-sa02-professioni-sanitarie", "m-sa03-dirigenza-medica-sanitaria", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.95
-updated_at: 2026-07-31T17:17:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-29T16:55:00+02:00
 review_required: true
 canonical: true
@@ -33,7 +33,11 @@ La pagina AGENAS del 27 ottobre 2023 segnala una versione aggiornata che rafforz
 
 Il manuale organizza stratificazione della popolazione, PAI e PDTA, Case di Comunità, Infermiere di famiglia o comunità, Centrali operative territoriali e 116117, telemedicina, cure intermedie, logistica e change management. Offre un quadro multiprofilo per leggere continuità, domicilio, territorio e integrazione dei servizi.
 
-## Uso editoriale
+## Modelli e standard nazionali: riscontro del 3 ottobre 2026
+
+Il [D.M. 77/2022, allegati 1 e 2](https://www.gazzettaufficiale.it/eli/id/2022/06/22/22G00085/sg), distingue il modello nazionale dall'attuazione regionale. Standard: una CdC hub ogni 40.000–50.000 abitanti; una COT ogni 100.000 o a valenza distrettuale se il bacino è maggiore; un OdC con 20 posti letto ogni 100.000; un infermiere di famiglia/comunità ogni 3.000, come dotazione complessiva nei diversi setting. La COT coordina transizioni e raccordi; l'OdC è intermedio fra domicilio e ospedale; l'infermiere di comunità integra assistenza, prevenzione e gestione proattiva. Sono standard di programmazione, non attestazioni del numero di strutture operative al cut-off. Gli orari e i canali del singolo servizio richiedono riscontro aziendale.
+
+## Uso editoriale aggiornato
 
 - inquadrare PAI, PDTA e presa in carico senza ridurli a un elenco di prestazioni;
 - costruire casi teorici su transizioni ospedale-territorio, coordinamento, fragilità e continuità;

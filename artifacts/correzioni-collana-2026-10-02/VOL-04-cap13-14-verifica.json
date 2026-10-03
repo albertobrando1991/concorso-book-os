@@ -1,0 +1,65 @@
+{
+  "volume": "VOL-04",
+  "chapters": [
+    13,
+    14
+  ],
+  "checks": "passed",
+  "rows": [
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/13-giustizia-minorile-comunita-mediazione-riparativa.md",
+      "sha256": "d7c296b44659378d06ac18f8b352dd2497ddbcb32e6a38bbe07bd526790ef1d0",
+      "words": 7460,
+      "readComplete": true,
+      "quizCount": 6,
+      "quizKeys": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "A"
+      ],
+      "quizOptions": "ABCD",
+      "quizReview": "complete",
+      "linkedDependenciesExist": true,
+      "pdfReview": "pending",
+      "scope": "current chapter text and changed normative claims; not certification of whole legal system"
+    },
+    {
+      "path": "wiki/books/moduli/m-fc04-giustizia/chapters/14-amministrazione-penitenziaria-trattamento-istituti-esecuzione-esterna.md",
+      "sha256": "56fea3faeb39dd41fda9bd97fdf09bcfd7583517920a285214e3bb014a92a4bb",
+      "words": 9013,
+      "readComplete": true,
+      "quizCount": 6,
+      "quizKeys": [
+        "A",
+        "D",
+        "B",
+        "C",
+        "D",
+        "A"
+      ],
+      "quizOptions": "ABCD",
+      "quizReview": "complete",
+      "linkedDependenciesExist": true,
+      "pdfReview": "pending",
+      "scope": "current chapter text and changed normative claims; not certification of whole legal system"
+    }
+  ],
+  "workedCalculations": {
+    "sixtyDaysReduction": 6,
+    "sixtyDaysMoney": 480
+  },
+  "unchangedScope": [
+    "chapter15",
+    "chapters01-12",
+    "run-state",
+    "historical-audit"
+  ],
+  "limitations": [
+    "No new PDF inspected",
+    "Therapeutic special regimes cited as distinct, not exhaustive clinical/legal manual",
+    "Source acquisition errors explicitly excluded in source note"
+  ]
+}

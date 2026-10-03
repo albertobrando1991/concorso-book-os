@@ -1,0 +1,241 @@
+{
+  "pdf": "C:\\Users\\info\\OneDrive\\Desktop\\concorso-book-os\\artifacts\\correzioni-collana-2026-10-02\\vol-01-native-release-20261003-proof.pdf",
+  "sha256": "e4641d58decbc590377695556221f2d07a48378687c566a2c54b5d61e3c4370e",
+  "schemaFindings": [
+    {
+      "ids": [
+        "F013"
+      ],
+      "previousPage": 47,
+      "currentPages": [
+        48
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F027"
+      ],
+      "previousPage": 134,
+      "currentPages": [
+        137
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F030"
+      ],
+      "previousPage": 166,
+      "currentPages": [
+        170
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F041"
+      ],
+      "previousPage": 225,
+      "currentPages": [
+        231
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F055"
+      ],
+      "previousPage": 314,
+      "currentPages": [
+        322
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F062"
+      ],
+      "previousPage": 349,
+      "currentPages": [
+        357
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F064"
+      ],
+      "previousPage": 353,
+      "currentPages": [
+        361
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F066"
+      ],
+      "previousPage": 356,
+      "currentPages": [
+        364
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F071"
+      ],
+      "previousPage": 369,
+      "currentPages": [
+        378
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F084"
+      ],
+      "previousPage": 399,
+      "currentPages": [
+        410
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F087"
+      ],
+      "previousPage": 406,
+      "currentPages": [
+        417
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F093"
+      ],
+      "previousPage": 424,
+      "currentPages": [
+        435
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F099"
+      ],
+      "previousPage": 439,
+      "currentPages": [
+        450
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F103"
+      ],
+      "previousPage": 456,
+      "currentPages": [
+        468
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F104"
+      ],
+      "previousPage": 461,
+      "currentPages": [
+        474
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F112"
+      ],
+      "previousPage": 485,
+      "currentPages": [
+        499
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F115"
+      ],
+      "previousPage": 495,
+      "currentPages": [
+        510
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F121"
+      ],
+      "previousPage": 508,
+      "currentPages": [
+        524
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F131"
+      ],
+      "previousPage": 549,
+      "currentPages": [
+        565
+      ],
+      "status": "verified-resolved"
+    },
+    {
+      "ids": [
+        "F132"
+      ],
+      "previousPage": 551,
+      "currentPages": [
+        567
+      ],
+      "status": "verified-resolved"
+    }
+  ],
+  "otherRaccordi": [
+    {
+      "previousPage": 394,
+      "currentPage": 405,
+      "status": "verified-resolved"
+    },
+    {
+      "previousPage": 462,
+      "currentPage": 475,
+      "status": "verified-resolved"
+    },
+    {
+      "previousPage": 476,
+      "currentPage": 489,
+      "status": "verified-resolved"
+    },
+    {
+      "previousPage": 492,
+      "currentPage": 506,
+      "status": "verified-resolved"
+    },
+    {
+      "previousPage": 537,
+      "currentPage": 553,
+      "status": "verified-resolved"
+    }
+  ],
+  "extraCorrections": {
+    "worksheet19": 471,
+    "percentages20": 490,
+    "uppercaseQuestions": [
+      468,
+      547
+    ]
+  }
+}

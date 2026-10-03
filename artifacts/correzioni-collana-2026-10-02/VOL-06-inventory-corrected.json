@@ -1,0 +1,252 @@
+[
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/01-scuola-quattro-profili.md",
+    "title": "\"La scuola e i quattro profili\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/02-sistema-nazionale-autonomia-organizzazione.md",
+    "title": "\"Sistema nazionale, autonomia e organizzazione\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/03-organi-collegiali-governance.md",
+    "title": "\"Organi collegiali e governance\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/04-ptof-rav-pdm-valutazione-inclusione.md",
+    "title": "\"PTOF, RAV, PdM, valutazione e inclusione\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/05-segreteria-ata-alunni-protocollo-carriere.md",
+    "title": "\"Segreteria ATA: alunni, protocollo e carriere\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/06-dsga-eq-ruolo-uffici-personale.md",
+    "title": "\"DSGA/EQ: ruolo, uffici e personale\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/07-contabilita-scolastica.md",
+    "title": "\"Contabilita' scolastica\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/08-acquisti-inventario-pnrr.md",
+    "title": "\"Acquisti, inventario e PNRR\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/09-dirigente-scolastico-leadership-management.md",
+    "title": "\"Dirigente scolastico: leadership e management\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/10-relazioni-sindacali-sicurezza-responsabilita.md",
+    "title": "\"Relazioni sindacali, sicurezza e responsabilita'\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/11-pedagogia-psicologia-inclusione.md",
+    "title": "\"Pedagogia, psicologia e inclusione\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/12-metodologie-valutazione-digitale-didattico.md",
+    "title": "\"Metodologie, valutazione e digitale didattico\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir01-scuola/chapters/13-progettazione-lezione-simulata.md",
+    "title": "\"Progettazione e lezione simulata\"",
+    "legacy": true
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/01-sistema-universitario-afam.md",
+    "title": "\"Sistema universitario e AFAM\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/02-autonomia-statuti-organi.md",
+    "title": "\"Autonomia, statuti e organi\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/03-ordinamenti-didattici-qualita.md",
+    "title": "\"Ordinamenti didattici e qualità\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/04-carriere-studenti-diritto-studio.md",
+    "title": "\"Carriere studenti e diritto allo studio\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/05-atti-protocollo-accesso-digitale.md",
+    "title": "\"Atti, protocollo, accesso e digitale\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/06-bilancio-ateneo.md",
+    "title": "\"Bilancio di ateneo\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/07-ricerca-grant-management.md",
+    "title": "\"Ricerca e grant management\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/08-prin-horizon-pnrr-audit.md",
+    "title": "\"PRIN, Horizon, PNRR e audit\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/09-biblioteche-cataloghi-open-access.md",
+    "title": "\"Biblioteche, cataloghi e open access\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/10-orientamento-placement-terza-missione.md",
+    "title": "\"Orientamento, placement e terza missione\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/11-afam-ordinamento-amministrazione.md",
+    "title": "\"AFAM: ordinamento e amministrazione\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir02-universita-afam/chapters/12-laboratorio-quattro-profili.md",
+    "title": "Laboratorio per i quattro profili",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/01-epr-quattro-profili.md",
+    "title": "\"EPR e quattro profili\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/02-autonomia-statuti-governance.md",
+    "title": "\"Autonomia, statuti e governance degli enti pubblici di ricerca\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/03-profili-organizzazione.md",
+    "title": "\"Profili e organizzazione del lavoro negli enti pubblici di ricerca\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/04-amministrazione-contabilita-controlli.md",
+    "title": "\"Amministrazione, contabilità e controlli negli enti pubblici di ricerca\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/05-compliance-audit-acquisti-missioni.md",
+    "title": "\"Compliance, audit, acquisti e missioni\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/06-metodologia-progettazione.md",
+    "title": "\"Metodologia e progettazione\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/07-pubblicazioni-valutazione-integrita.md",
+    "title": "\"Pubblicazioni, valutazione e integrità\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/08-tecnologo-laboratori-infrastrutture.md",
+    "title": "\"Tecnologo, laboratori e infrastrutture\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/09-proprieta-intellettuale-trasferimento.md",
+    "title": "\"Proprietà intellettuale e trasferimento\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/10-open-science-fair-dati.md",
+    "title": "\"Open science, FAIR e dati\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/11-horizon-pnrr-grant-management.md",
+    "title": "\"Horizon, PNRR e grant management\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir03-enti-ricerca/chapters/12-laboratorio-quattro-profili.md",
+    "title": "\"Laboratorio per i quattro profili\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/01-mic-quattro-profili.md",
+    "title": "\"MiC e quattro profili\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/02-organizzazione-centrale-periferica.md",
+    "title": "\"Organizzazione centrale e periferica\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/03-codice-beni-culturali-sistema-categorie.md",
+    "title": "\"Codice dei beni culturali: sistema e categorie\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/04-tutela-valorizzazione-fruizione-paesaggio.md",
+    "title": "\"Tutela, valorizzazione, fruizione e paesaggio\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/05-procedimenti-vincoli-circolazione.md",
+    "title": "\"Procedimenti, vincoli e circolazione\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/06-catalogazione-digitalizzazione.md",
+    "title": "Catalogazione e digitalizzazione",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/07-archivistica-archivi.md",
+    "title": "Archivistica e archivi",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/08-biblioteconomia-servizi.md",
+    "title": "Biblioteconomia e servizi",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/09-archeologia-tutela-territoriale.md",
+    "title": "Archeologia e tutela territoriale",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/10-storia-arte-museologia.md",
+    "title": "Storia dell'arte e museologia",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/11-restauro-conservazione.md",
+    "title": "Restauro e conservazione",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/12-architettura-paesaggio-cantieri.md",
+    "title": "\"Architettura, paesaggio e cantieri\"",
+    "legacy": false
+  },
+  {
+    "path": "wiki/books/moduli/m-ir04-cultura-beni-culturali/chapters/13-fruizione-vigilanza-sicurezza.md",
+    "title": "\"Fruizione, vigilanza e sicurezza\"",
+    "legacy": false
+  }
+]

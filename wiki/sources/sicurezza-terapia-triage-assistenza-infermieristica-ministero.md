@@ -9,7 +9,7 @@ entities: ["Ministero della Salute", "Azienda sanitaria"]
 source_refs: []
 book_refs: ["m-sa02-professioni-sanitarie", "vol-07-sanita-amministrativa-professioni-sanitarie"]
 confidence: 0.94
-updated_at: 2026-07-28T23:30:00+02:00
+updated_at: 2026-10-03
 created_at: 2026-07-28T23:30:00+02:00
 review_required: true
 canonical: true
@@ -39,6 +39,8 @@ Il corpus contiene otto PDF ufficiali del Ministero della Salute, tutti testuali
 Il dettaglio immutabile di URL, byte e hash è in `download-log.json` nel percorso raw indicato.
 
 ## Copertura utile
+
+Riscontro del 3 ottobre 2026: nel PDF nazionale 2019 conservato nel corpus, tabella 1 a pagina stampata 9, i codici sono 1 emergenza/accesso immediato, 2 urgenza/15 minuti, 3 urgenza differibile/60, 4 urgenza minore/120, 5 non urgenza/240. Si tratta di tempi massimi per accesso alle aree di trattamento, non tempi di conclusione o autorizzazione ad attendere in caso di peggioramento. Tabella 2, pagina 12: codice 1 direttamente al trattamento; codice 2 monitoraggio costante; codici 3–5 rivalutazione a giudizio dell'infermiere, su richiesta e allo scadere dell'attesa massima. La pagina ministeriale remota oggi restituisce Gcore: il riscontro usa il PDF ufficiale già acquisito e il relativo manifest, senza alterare il raw. Il codice numerico va distinto dai colori nelle eventuali implementazioni territoriali.
 
 Le fonti sostengono la costruzione controllata di contenuti su identificazione dei rischi, prescrizione e somministrazione sicura, ricognizione e riconciliazione farmacologica, documentazione, comunicazione standardizzata, prevenzione delle cadute, valutazione iniziale e priorità di triage. Le linee sul triage chiariscono inoltre funzione, fasi, rivalutazione e responsabilità organizzative.
 
